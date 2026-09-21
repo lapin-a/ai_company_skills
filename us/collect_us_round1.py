@@ -10,6 +10,7 @@
 
 import csv
 import json
+import os
 import re
 import time
 from datetime import date, timedelta
@@ -17,14 +18,16 @@ from datetime import date, timedelta
 import us_probe as u
 
 OUT = "us-round1-dataset.csv"
-OUTDIR = "us/data/"  # 회귀 검사는 이 값만 바꿔 다른 폴더에 쓴다
+OUTDIR = os.environ.get("OUTDIR", "us/data/")  # 회귀 검사는 환경변수 OUTDIR로 다른 폴더에 쓴다
 TOP10 = [  # (기업, 티커, CIK) — us-round1-log.md 2절 기획 1팀 선정, 3절 QA 통과
     ("NVIDIA", "NVDA", "0001045810"), ("Apple", "AAPL", "0000320193"), ("Alphabet", "GOOGL", "0001652044"),
     ("Microsoft", "MSFT", "0000789019"), ("Amazon", "AMZN", "0001018724"), ("Broadcom", "AVGO", "0001730168"),
     ("Meta Platforms", "META", "0001326801"), ("Tesla", "TSLA", "0001318605"), ("Micron", "MU", "0000723125"),
     ("Eli Lilly", "LLY", "0000059478"),
 ]
-WINDOW = ["%dQ%d" % (y, q) for y in range(2019, 2027) for q in (1, 2, 3, 4) if (y, q) <= (2026, 2)]
+# 2010년대 백필(2026-09-21)로 시작을 2019Q1 → 2010Q1로 넓혔다 (us/logs/us-backfill-2010s-log.md)
+WINDOW = ["%dQ%d" % (y, q) for y in range(2010, 2027) for q in (1, 2, 3, 4) if (y, q) <= (2026, 2)]
+SINCE = "%d-01-01" % (int(WINDOW[0][:4]) - 1)  # 창 첫해 계산에 직전 해 보고서가 필요할 수 있다
 HEAD = ["기업", "종목코드", "기간", "기준일", "항목", "값", "통화", "값구분", "출처", "검산"]
 FORMS = ("10-Q", "10-Q/A", "10-K", "10-K/A")
 REV = ["Revenues", "RevenueFromContractWithCustomerExcludingAssessedTax", "SalesRevenueNet",
@@ -80,17 +83,17 @@ def fix_report_dates(cik, out):
 
 
 def reports(cik):
-    """{보고기간 말일: [accn, ...] 최신 제출 먼저} — 10-Q/10-K(/A), 2018년 이후."""
+    """{보고기간 말일: [accn, ...] 최신 제출 먼저} — 10-Q/10-K(/A), 창 시작 전해 이후."""
     sub = json.loads(u.get("https://data.sec.gov/submissions/CIK%s.json" % cik, u.SEC_UA))
     pages = [sub["filings"]["recent"]]
     for f in sub["filings"].get("files", []):
-        if f["filingTo"] >= "2018-01-01":
+        if f["filingTo"] >= SINCE:
             pages.append(json.loads(u.get("https://data.sec.gov/submissions/" + f["name"], u.SEC_UA)))
             time.sleep(0.15)
     out = {}
     for p in pages:
         for acc, form, rd, fd in zip(p["accessionNumber"], p["form"], p["reportDate"], p["filingDate"]):
-            if form in FORMS and rd >= "2018-01-01":
+            if form in FORMS and rd >= SINCE:
                 out.setdefault(rd, []).append((fd, acc, form))
     fix_report_dates(cik, out)
     return {rd: [a for _, a, _ in sorted(v, reverse=True)] for rd, v in out.items()}, \
@@ -366,7 +369,7 @@ def fin_rows(corp, tk, cik, reps, forms, fx):
 
 
 def yahoo_series(tk):
-    t0 = int(time.mktime(date(2018, 12, 1).timetuple()))
+    t0 = int(time.mktime(date(int(SINCE[:4]), 12, 1).timetuple()))
     url = "https://query1.finance.yahoo.com/v8/finance/chart/%s?period1=%d&period2=%d&interval=1d&events=splits" % (
         tk, t0, int(time.time()))
     d = json.loads(u.get(url, u.WEB_UA))["chart"]["result"][0]

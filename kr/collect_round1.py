@@ -35,15 +35,23 @@ def fetch(url):
         return raw.decode("cp949")
 
 
+OLD_MARK = "<!--XI.재무제표등-->"  # 옛 목차 장에서 가져온 문서 표시 (statements가 엄격 모드로 읽는다)
+
+
 def fs_section(rcp):
     page = fetch(VIEW + rcp)
     m = re.search(r"\['text'\] = \"\d+\. ?연결재무제표\";(.*?)\['text'\]", page, re.S)
+    old = m is None
+    if old:
+        # 2014년 이전 보고서에는 "N. 연결재무제표" 장이 없다. "XI. 재무제표 등" 장에 연결·별도가 함께 있다
+        m = re.search(r"\['text'\] = \"[IVX]+\. ?재무제표 ?등\";(.*?)\['text'\]", page, re.S)
     if not m:
         return None
     attrs = dict(re.findall(r"\['(\w+)'\] = +\"([^\"]*)\"", m.group(1)))
     attrs.setdefault("rcpNo", rcp)
     q = "&".join(k + "=" + attrs[k] for k in ("rcpNo", "dcmNo", "eleId", "offset", "length", "dtd"))
-    return fetch("https://dart.fss.or.kr/report/viewer.do?" + q)
+    doc = fetch("https://dart.fss.or.kr/report/viewer.do?" + q)
+    return OLD_MARK + doc if old else doc
 
 
 def cells(row):
@@ -78,16 +86,31 @@ FLOW_ITEMS = [("분기별 매출액", "rev"), ("분기별 영업이익", "op"), 
 def norm(label):
     """라벨 정규화: 주석 표시((주3), (주석 4) 등)와 앞 번호(Ⅰ., 1., (1) 등)를 뗀다."""
     label = re.sub(r"\((?:주|주석|Note)[^)]*\)", "", label)
-    return NUMBERING.sub("", label)
+    # K-IFRS 도입(2011) 전 연결재무제표는 비지배지분을 "소수주주지분"이라 불렀다. 못 알아보면 총계가 지배 몫으로 들어간다
+    return NUMBERING.sub("", label).replace("소수주주", "비지배")
 
 
-def statements(doc):
+# 대차대조표 = K-IFRS 도입(2011) 전 재무상태표 이름. 포괄손익계산서는 손익계산서 뒤에 둬야 CI로 잡힌다
+NAMES = (("BS", "재무상태표"), ("BS", "대차대조표"), ("IS", "손익계산서"), ("CI", "포괄손익계산서"), ("CF", "현금흐름표"))
+TITLE = re.compile(r"연결(재무상태표|대차대조표|손익계산서|포괄손익계산서|현금흐름표)")
+
+
+def statements(doc, period=None):
     """{'BS'|'IS'|'CI'|'CF': (단위배수, 머리행텍스트, 행목록)}
 
     제목 표(행 6개 미만, 표 이름 포함) 다음에 오는 첫 데이터 표(행 6개 이상)를 그 표 이름으로 잡는다.
     THEAD 유무와 무관하게 동작한다. CI = 연결포괄손익계산서 (별도 손익계산서가 없는 회사용).
+    period("YYYY.MM")를 주면 옛 목차 문서에서는 제목~본표 사이에 그 분기말 날짜가 있는 표만 받는다.
     """
-    out, cur, unit = {}, None, 1
+    out, cur, unit, ptxt = {}, None, 1, ""
+    # 옛 목차("XI. 재무제표 등")에서 온 문서는 별도재무제표도 함께 있다 → "연결"이 붙은 제목만 인정한다
+    old = doc.startswith(OLD_MARK)
+    # K-IFRS 도입(2011) 전 분기보고서의 "연결재무제표"는 직전 사업연도 연간 것이다 (SK하이닉스 2010 반기 → 2009년).
+    # 대차 검증은 통과하므로 날짜로 걸러야 한다
+    want = None
+    if old and period:
+        y, mm = period.split(".")
+        want = re.compile(r"%s[.년-]0?%d[.월-]%s" % (y, int(mm), QEND[int(mm) // 3][3:]))
     for t in re.split(r"(<TABLE.*?</TABLE>)", doc, flags=re.S | re.I):
         if not re.match(r"\s*<TABLE", t, re.I):
             # 표 이름이 표 밖 본문에 있는 보고서도 있다 (현대글로비스·LG이노텍·현대오토에버 2023).
@@ -95,23 +118,27 @@ def statements(doc):
             # 제목 줄만 보려고 짧은 텍스트로 제한한다(주석 본문에 걸리지 않게).
             txt = re.sub(r"<[^>]+>|&nbsp;|[\s　]", "", t)
             if len(txt) <= 40:
-                for key, name in (("BS", "재무상태표"), ("IS", "손익계산서"), ("CI", "포괄손익계산서"), ("CF", "현금흐름표")):
-                    if name in txt:
-                        cur = key
+                for key, name in NAMES:
+                    if ("연결" + name if old else name) in txt:
+                        cur, ptxt = key, txt
             continue
         trs = re.findall(r"<TR.*?</TR>", t, re.S | re.I)
-        if cur and cur not in out and len(trs) >= 6:
+        txt = re.sub(r"<[^>]+>|&nbsp;|[\s　]", "", t)
+        # 제목 표는 보통 6행 미만이다. 2012년 보고서에는 기간 줄이 많아 6행인 제목 표가 있다(삼성전자 2012Q1)
+        title = len(trs) < 6 or (len(trs) <= 8 and TITLE.match(txt))
+        if cur and cur not in out and not title:
             rows = [cells(r) for r in trs]
             # &nbsp;도 지운다: SK스퀘어 2022는 머리행이 "누&nbsp;적"이라 누적 열을 못 알아봤다
             head = "".join(re.sub(r"<[^>]+>|&nbsp;|\s", "", r) for r in trs[:3])
-            out[cur] = (unit, head, rows)
+            if not want or want.search(ptxt + head):
+                out[cur] = (unit, head, rows)
             cur = None
             continue
-        txt = re.sub(r"<[^>]+>|&nbsp;|[\s　]", "", t)
-        if len(trs) < 6:
-            for key, name in (("BS", "재무상태표"), ("IS", "손익계산서"), ("CI", "포괄손익계산서"), ("CF", "현금흐름표")):
+        if title:
+            ptxt += txt  # 제목 다음 기간·단위 표 (SK하이닉스 2010은 제목과 따로 있다)
+            for key, name in NAMES:
                 if "연결" + name in txt:
-                    cur = key
+                    cur, ptxt = key, txt
             u = re.search(r"단위:(원|천원|백만원)", txt)
             if u:
                 unit = UNITS[u.group(1)]
@@ -245,24 +272,44 @@ def pick_parent_ni(stmt, col):
     return None
 
 
-def parse(doc):
+def parse(doc, period=None):
     txt_only = re.sub(r"<[^>]+>|&nbsp;", " ", doc or "")
     # "해당사항 없습니다" 외에 "연결대상 종속회사가 없어 연결재무제표를 작성하지 않습니다"도 같은 경우다 (LIG 2019)
     if (re.search(r"해당\s*사항\s*이?\s*없", txt_only) or re.search(r"연결재무제표를?\s*작성하지\s*않", txt_only)) \
             and not re.search(r"<TABLE", doc or "", re.I):
         return {"no_consol": True}  # "2. 연결재무제표 → 해당사항 없습니다" (연결 대상 자체가 없는 기간)
-    st = statements(doc)
+    st = statements(doc, period)
+    if not st and period and doc.startswith(OLD_MARK):
+        # 옛 목차 보고서에 그 분기 연결재무제표가 하나도 없다 (K-IFRS 도입 전 분기보고서는 개별 기준만 싣는다)
+        return {"no_consol": "미수록"}
     bs, cf = st.get("BS"), st.get("CF")
     # 손익 항목은 연결손익계산서 우선, 없거나 행이 빠지면 연결포괄손익계산서에서 찾는다
     cands = [x for x in (st.get("IS"), st.get("CI")) if x]
 
+    old = (doc or "").startswith(OLD_MARK)
+    # 옛 목차 보고서는 누적 열을 "누계"라고 쓴다 (삼성전자 2010 3분기). 새 형식은 회귀 검사 전이라 기존 규칙 그대로
+    cum_words = ("누적", "누계") if old else ("누적",)
+    # 옛 목차 반기·3분기 보고서 중에는 3개월 열 없이 누적 열만 있는 것이 있다 (LG전자 2010 반기).
+    # 이때 첫 열은 누적이다 → 3개월 값은 비워 두고 build_fin_rows가 누적차감으로 만든다
+    cum_only = old and period is not None and period[5:] in ("06", "09")
+
     def both(fn):
         for stmt in cands:
-            cum = 1 if "누적" in stmt[1] else 0
+            cum = 1 if any(w in stmt[1] for w in cum_words) else 0
+            if old and period and period[5:] == "12":
+                cum = 0  # 사업보고서는 3개월 열이 없다. "누계" 머리행이어도 둘째 열은 전년이다 (삼성전자 2010)
+            if cum_only and not cum and "3개월" not in stmt[1]:
+                vc = fn(stmt, 0)
+                if vc is not None:
+                    flags.add("cum_only")
+                    return None, vc
+                continue
             v3, vc = fn(stmt, 0), fn(stmt, cum)
             if v3 is not None or vc is not None:
                 return v3, vc
         return None, None
+
+    flags = set()
 
     has_nci_is = any("비지배" in norm(r[0]) for stmt in cands for r in stmt[2] if r)
     rev3, revC = both(pick_rev)
@@ -287,6 +334,7 @@ def parse(doc):
                  if nci_fb is None else nci_fb) or 0) + held_for_sale_split(bs)[1],
         "ocfC": pick(cf, lambda s: s.startswith("영업활동") and "현금흐름" in s, 0),
         "is_kind": "IS" if st.get("IS") else ("CI" if st.get("CI") else None),
+        "cum_only": "cum_only" in flags,
     }
 
 
@@ -315,9 +363,13 @@ def build_fin_rows(corp, code, reports, data, window):
         y, mm = period.split(".")
         q = int(mm) // 3
         base = [corp, code, "%sQ%d" % (y, q), "%s-%s" % (y, QEND[q])]
-        if period in reports and data.get(period, {}).get("no_consol"):
+        nc = data.get(period, {}).get("no_consol")
+        if period in reports and nc:
+            # "미수록" = 옛 목차 보고서에 그 분기 연결재무제표가 없다 (K-IFRS 도입 전 분기, backfill-2010s-log.md)
+            label, kind = (("데이터 없음(연결재무제표 미해당)", "데이터 없음(연결 미해당)") if nc is True else
+                           ("데이터 없음(보고서에 해당 분기 연결재무제표 없음)", "데이터 없음(연결 미수록)"))
             for item, _ in FIN_ITEMS + FLOW_ITEMS + [("분기별 영업활동현금흐름", ""), ("분기말 지배지분 자본", "")]:
-                out.append(base + [item, "데이터 없음(연결재무제표 미해당)", "데이터 없음(연결 미해당)", VIEW + reports[period]])
+                out.append(base + [item, label, kind, VIEW + reports[period]])
             continue
         if period not in reports:
             label = "데이터 없음(최초 보고기간 이전)" if first is None or period < first else "미확인"
@@ -344,7 +396,14 @@ def build_fin_rows(corp, code, reports, data, window):
         for item, k in FIN_ITEMS:
             add(item, d.get(k), d.get(k + "_kind", "공시"), [reports[period]], k)
         for item, k in FLOW_ITEMS:
-            if q < 4:
+            if q < 4 and d.get("cum_only"):
+                # 3개월 열 없이 누적 열만 있는 옛 보고서 (LG전자 2010 반기): 영업CF와 같은 누적차감
+                if prev not in reports or data.get(prev, {}).get("no_consol"):
+                    nodata(item, "직전 분기 누적 보고서 없음")
+                else:
+                    a, b = d.get(k + "C"), data.get(prev, {}).get(k + "C")
+                    add(item, a - b if None not in (a, b) else None, "계산(누적차감)", [reports[period], reports[prev]])
+            elif q < 4:
                 add(item, d.get(k + "3"), "공시", [reports[period]])
             elif q3 not in reports and period == first:
                 # 최초 사업연도가 4분기에 시작한 회사: 연간 공시값이 곧 그 기간의 값이다 (계산 아님)

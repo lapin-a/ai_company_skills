@@ -2,6 +2,7 @@
 
 미국 수집 현황 요약과 미국 전용 규칙만 둔다. 공통 규칙과 국내+미국 누적 합계는 [../coverage-log.md](../coverage-log.md), 국내 트랙은 [../kr/coverage-log.md](../kr/coverage-log.md).
 
+- **2010년대 백필 (진행 중):** [us-backfill-2010s-log.md](logs/us-backfill-2010s-log.md) — 수집 기간 2010Q1~로 확장, 라운드 1 시험 수집(2019~ 회귀 변경 0), CIK 변경 회사 결정 필요. 데이터셋은 아직 2019Q1~
 - 미국 트랙: [us-round1-log.md](logs/us-round1-log.md) — S&P500 상위 후보 검증 (`us_probe.py`, `us-candidates.json`)
 - 미국 라운드 2: [us-round2-log.md](logs/us-round2-log.md) — 후보 재확인(V 시총 범위·XOM 옛 CIK 27분기·UNH 판정 자료)
 - 미국 라운드 3: [us-round3-log.md](logs/us-round3-log.md) — S&P500 분모 전환, 20곳, COST 분기 라벨 보완
@@ -168,3 +169,8 @@
     - PHM 2021Q1 매출액 1칸: 그 10-Q의 매출 사실이 전부 차원(세그먼트) 부착이라 무차원 연결 총계가 없다.
     - 두 값 모두 회사의 **다음 해 보고서 비교열에 표준 태그로** 실려 있어 확인된다. 고치려면 `Facts.find`의 원문 대체 조건을 넓혀야 하고, 라운드 14 선례대로 전 라운드(국내 5 + 미국 16) 회귀 검사가 따라붙는다.
     - 상세 us-round16-log.md 5절.
+
+16. **2010년대 백필 — 미국 (2026-09-21 시작)** — 라운드 1 시험 수집까지. 2019Q1 이후 3,300행 회귀 변경 0. 공통 결정 사항은 [../coverage-log.md](../coverage-log.md) 16번.
+    - 결정 필요: CIK가 바뀐 회사(GOOGL·AVGO·DIS·MDT·ETN 등)에 MRVL 선례를 넓힐지.
+    - 재생성 전에 고칠 것: 라운드 1 경로의 상장 전 라벨(META), TSLA·MU 초기 분기 대차 검증 실패 원인.
+    - 상세 [us-backfill-2010s-log.md](logs/us-backfill-2010s-log.md) 5절.

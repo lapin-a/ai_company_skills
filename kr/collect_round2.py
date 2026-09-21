@@ -7,6 +7,7 @@
 import csv
 import datetime as dt
 import json
+import os
 import re
 import time
 import urllib.parse
@@ -23,7 +24,9 @@ TOP10 = [  # (기업, 종목코드, DART corp_code) — coverage-log.md 라운�
     ("삼성물산", "028260", "00149655"), ("한화에어로스페이스", "012450", "00126566"), ("두산에너빌리티", "034020", "00159616"),
     ("기아", "000270", "00106641"),
 ]
-WINDOW = ["%d.%02d" % (y, m) for y in range(2019, 2027) for m in (3, 6, 9, 12) if (y, m) <= (2026, 6)]
+# 2010년대 백필(2026-09-21)로 시작을 2019Q1 → 2010Q1로 넓혔다 (kr/logs/backfill-2010s-log.md)
+WINDOW = ["%d.%02d" % (y, m) for y in range(2010, 2027) for m in (3, 6, 9, 12) if (y, m) <= (2026, 6)]
+OUTDIR = os.environ.get("OUTDIR", "kr/data/")  # 회귀 검사는 환경변수 OUTDIR로 다른 폴더에 쓴다
 HEAD = ["기업", "종목코드", "기간", "기준일", "항목", "값(원)", "값구분", "출처"]
 
 
@@ -36,7 +39,7 @@ def pick_reports(dkey, corp_code):
     """{"YYYY.MM": rcept_no} — 창 안 분기말 보고서만, 기간별 최신 접수본, 첨부정정 제외."""
     got, page = [], 1
     while True:
-        q = urllib.parse.urlencode({"crtfc_key": dkey, "corp_code": corp_code, "bgn_de": "20190101", "end_de": "20260918",
+        q = urllib.parse.urlencode({"crtfc_key": dkey, "corp_code": corp_code, "bgn_de": WINDOW[0][:4] + "0101", "end_de": "20260918",
                                     "pblntf_ty": "A", "page_no": page, "page_count": 100})
         d = json.loads(urllib.request.urlopen("https://opendart.fss.or.kr/api/list.json?" + q, timeout=60).read())
         time.sleep(0.3)
@@ -59,12 +62,12 @@ def pick_reports(dkey, corp_code):
     return {**attach, **plain}  # 같은 분기면 일반 판본이 덮어쓴다
 
 
-def fetch_parse(rcp):
+def fetch_parse(rcp, period=None):
     """공시뷰어 조회는 최대 3회 재시도. 실패하면 빈 dict (해당 칸 미확인)."""
     for attempt in range(3):
         try:
             doc = cr.fs_section(rcp)
-            return cr.parse(doc) if doc else {}
+            return cr.parse(doc, period) if doc else {}
         except Exception as e:
             print("    %s 시도 %d 실패: %s %s" % (rcp, attempt + 1, type(e).__name__, getattr(e, "reason", e)))
             time.sleep(3)
@@ -115,7 +118,7 @@ def main():
     for corp, code, cc in TOP10:
         t0 = time.time()
         reports = pick_reports(dkey, cc)
-        data = {p: fetch_parse(r) for p, r in sorted(reports.items())}
+        data = {p: fetch_parse(r, p) for p, r in sorted(reports.items())}
         fin, fails = cr.build_fin_rows(corp, code, reports, data, WINDOW)
         first = first_trade_date(pkey, code)
         mkt, mbad = market_rows(pkey, corp, code, first)
@@ -130,9 +133,9 @@ def main():
         print("%s | 보고서 %d | %s | 재무검증실패 %s | 시총검증실패 %s | 포괄손익표 %d기간 | %.0fs" % (
             corp, len(reports), kinds, fails or "없음", mbad or "없음", len(ci_only), time.time() - t0), flush=True)
 
-    with open("kr/data/" + OUT, "w", newline="", encoding="utf-8-sig") as f:
+    with open(OUTDIR + OUT, "w", newline="", encoding="utf-8-sig") as f:
         csv.writer(f).writerows([HEAD] + all_rows)
-    with open("kr/data/" + OUT.replace("-dataset.csv", "-summary.json"), "w", encoding="utf-8") as f:
+    with open(OUTDIR + OUT.replace("-dataset.csv", "-summary.json"), "w", encoding="utf-8") as f:
         json.dump(summary, f, ensure_ascii=False, indent=1)  # 파일명은 OUT 기준
     print("rows:", len(all_rows), "| 빈칸:", sum(v == "" for r in all_rows for v in map(str, r)))
 
