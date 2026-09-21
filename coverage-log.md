@@ -13,7 +13,7 @@
 - 미국 라운드 3: [us-round3-log.md](us/logs/us-round3-log.md) — S&P500 분모 전환, 20곳, COST 분기 라벨 보완
 - 미국 라운드 4: [us-round4-log.md](us/logs/us-round4-log.md) — 20곳, MRVL 옛 CIK 이어 붙임, UNP 매출 태그 기준 혼합 차단
 - 미국 라운드 6: [us-round6-log.md](us/logs/us-round6-log.md) — 20곳, 상장 전 분기 처리 일반화, 비지배지분 추정, VRT 합병 전 제외, ABNB 후속 보고서 비교기간으로 보완
-- 미국 라운드 16: [us-round16-log.md](us/logs/us-round16-log.md) — 20곳, 새 규칙·코드 수정 0건. 미확인 97칸 중 4칸(CHD 회사 확장 태그 3 · PHM 차원 부착 매출 1)은 **공용 코드 수정 여부 대표 결정 대기**
+- 미국 라운드 16: [us-round16-log.md](us/logs/us-round16-log.md) — 20곳. **공용 코드 수정 2종**(회사 확장 태그 · 후속 보고서 비교기간)과 라운드 1~16 회귀. 미확인 93칸은 모두 회사 미공시분
 - 미국 라운드 15: [us-round15-log.md](us/logs/us-round15-log.md) — 20곳, 미확인 0칸(첫 사례), 새 규칙·코드 수정 0건
 - 미국 라운드 14: [us-round14-log.md](us/logs/us-round14-log.md) — 20곳, SEC 제출 메타 reportDate 오기 교정(ZTS·NOW 라벨 밀림), 라운드 1~13·15 회귀
 - 미국 라운드 13: [us-round13-log.md](us/logs/us-round13-log.md) — 20곳, 16주 분기 수용(KR 32칸 복구)
@@ -64,11 +64,13 @@
 
 - 대형주 대비 진행률: **51 / 100 = 51.0%** (라운드 1~5 완료). 목록 확정됨(`largecap100.csv`, 기준일 2026-09-16, 100위 대덕전자 5.03조원).
 - 구성: 비금융 81 (수집 완료 51, 미수집 30) · 금융 19 (항목 체계 준비 후 수집). 비금융 기준 진행률 51 / 81 = 63.0%.
-- 국내 + 미국 누적: **351개 기업**, 값 있는 칸 **112,986** · 데이터 없음 **1,563** · 미확인 **1,281**. (데이터셋 직접 집계, 2026-09-21 라운드 16 + KRX 2019년 백필 반영)
-  - 미확인 내역(2026-09-21 재집계): 국내 1(두산) · 미국 1,280. 이 중 **영업이익이 1,203칸(51곳, 전 구간 30칸인 곳 34)**으로 94%다. 회사가 영업이익 줄을 공시하지 않거나 일부 기간만 태그한 경우로, LLY 선례(2026-09-19 대표 결정)에 따라 미확인으로 두고 사유를 출처 열에 적는다.
+- 국내 + 미국 누적: **351개 기업**, 값 있는 칸 **113,014** · 데이터 없음 **1,562** · 미확인 **1,254**. (데이터셋 직접 집계, 2026-09-21 라운드 16 + KRX 2019년 백필 + 라운드 1~16 회귀 재생성 반영)
+  - 미확인 내역(2026-09-21 회귀 재생성 후 재집계): 국내 1(두산) · 미국 1,253. 이 중 **영업이익이 1,181칸(50곳, 전 구간 30칸인 곳 34)**으로 94%다. 회사가 영업이익 줄을 공시하지 않거나 일부 기간만 태그한 경우로, LLY 선례(2026-09-19 대표 결정)에 따라 미확인으로 두고 사유를 출처 열에 적는다.
     - 영업이익 전 구간(각 30칸) 34곳 = 1,020: ADM·ADP·BMY·CASY·COP·CTVA·CVX·DHI·DOW·DVN·EMR·ETN·FOXA·GE·HCA·IBM·JCI·JNJ·KLAC·LLY·MRK·MTD·NEM·NKE·NUE·OXY·PCAR·PFE·PHM·PSX·SRE·TJX·XOM·ZTS
-    - 영업이익 일부 구간 17곳 = 183: ROK 27 · ROST 24 · CVNA 20 · LHX 20 · BIIB 17 · HON 14 · DE 11 · FLEX 10 · SLB 9 · COHR 8 · SHW 7 · BKR 6 · VRT 4 · PPG 2 · F 2 · SYY 1 · GEHC 1
-    - 영업이익 외 78칸: WEC 15(2019·2020·2021 4분기 대차 + 순이익) · LHX 12 · SYY 8 · MTD 8(dei 표지 주식수 없음) · GEHC 7(분사 직후 첫 보고) · COHR 6(차액 766.8M 미설명) · TGT 3 · A 3 · CHD 3(2025 10-Q 회사 확장 태그, 위 진행 중 사항 14번) · ABNB 2 · MA·TMO·UNP·HWM·ECL·MNST·PCG·AEE·PHM(2021Q1 매출, 14번)·EIX 각 1 · 국내 두산 1
+    - 영업이익 일부 구간 16곳 = 161: ROK 25 · ROST 21 · LHX 17 · CVNA 17 · BIIB 17 · HON 11 · DE 11 · SLB 9 · COHR 8 · SHW 7 · FLEX 7 · BKR 6 · PPG 2 · VRT 1 · SYY 1 · GEHC 1
+      - 라운드 16 규칙 2(후속 보고서 비교기간)로 22칸이 채워졌다. F는 0칸이 돼 목록에서 빠졌다.
+    - 영업이익 외 73칸: WEC 15(2019·2020·2021 4분기 대차 + 순이익) · LHX 11 · MTD 8(dei 표지 주식수 없음) · SYY 8 · GEHC 7(분사 직후 첫 보고) · COHR 6(차액 766.8M 미설명) · A 3 · TGT 3 · ABNB 2 · MA·TMO·UNP·HWM·ECL·MNST·PCG·AEE·EIX 각 1 · 국내 두산 1
+      - CHD 3칸·PHM 1칸은 라운드 16 공용 코드 수정으로 채워져 빠졌다.
     - DELL 2칸은 2026-09-20 공용 코드 수정으로 해소했다(us-round3-log.md 7절).
 - 시장데이터는 전 기업 공통으로 2020-01-02 이전 분기를 받을 수 없다.
 
@@ -112,22 +114,22 @@
 | US6 | Phillips 66 · Automatic Data Processing | PSX·ADP | 2019Q1~2026Q2 (30) | 300씩 | 0 | 30씩 | 완료 (영업이익 미공시) |
 | US6 | AppLovin | APP | 재무·시장 2021Q2~ | 239 | 91 | 0 | 완료 (상장 2021-04) |
 | US6 | Airbnb | ABNB | 재무·시장 2020Q4~ | 251 | 77 | 2 | 완료 (2020Q4는 후속 보고서 비교기간, 주식수·시총 2칸 미확인) |
-| US6 | Vertiv Holdings | VRT | 2020Q1~2026Q2 (26) | 282 | 44 | 4 | 완료 (2019년은 합병 전 SPAC → 데이터 없음, 대표 결정 2026-09-20) |
+| US6 | Vertiv Holdings | VRT | 2020Q1~2026Q2 (26) | 285 | 44 | 1 | 완료 (2019년은 합병 전 SPAC → 데이터 없음, 대표 결정 2026-09-20) |
 | US7 | Trane · Duke · Howmet · Marriott · Williams · CSX · 3M · Waste Mgmt · UPS · DoorDash · Lumentum · Datadog · Moody's · Intuit · Regeneron · Comcast | TT·DUK·HWM·MAR·WMB·CSX·MMM·WM·UPS·DASH·LITE·DDOG·MCO·INTU·REGN·CMCSA | 2019Q1~2026Q2 (30) | 330씩 (HWM 329 · DASH 254 · DDOG 307) | 0 (DASH 76 · DDOG 23) | 0 (HWM 1) | 완료 |
 | US7 | HCA · Johnson Controls · Emerson | HCA·JCI·EMR | 2019Q1~2026Q2 (30) | 300씩 | 0 | 30씩 | 완료 (영업이익 미공시) |
 | US7 | Constellation Energy | CEG | 2022Q1~2026Q2 (18) | 198 | 132 | 0 | 완료 (2022-02 분사 전 제외, 대표 결정) |
 | US8 | Cintas · Mondelez · Cadence · Illinois Tool Works · Motorola Solutions · EOG · Northrop · Synopsys · Cummins · GM · FedEx · Kinder Morgan · Norfolk Southern · HPE | CTAS·MDLZ·CDNS·ITW·MSI·EOG·NOC·SNPS·CMI·GM·FDX·KMI·NSC·HPE | 2019Q1~2026Q2 (30) | 330씩 | 0 | 0 | 완료 |
-| US8 | Ross Stores · Carvana · SLB · Sherwin-Williams · Target · Ecolab | ROST·CVNA·SLB·SHW·TGT·ECL | 2019Q1~2026Q2 (30) | 306·310·321·323·327·329 | 0 | 24·20·9·7·3·1 | 완료 (영업이익·순이익 태그 없는 구간) |
+| US8 | Ross Stores · Carvana · SLB · Sherwin-Williams · Target · Ecolab | ROST·CVNA·SLB·SHW·TGT·ECL | 2019Q1~2026Q2 (30) | 309·313·321·323·327·329 | 0 | 21·17·9·7·3·1 | 완료 (영업이익·순이익 태그 없는 구간) |
 | US9 | Warner Bros. Discovery · Colgate · Hilton · O'Reilly · Republic Services · Royal Caribbean · American Electric Power · United Rentals · Air Products · Boston Scientific · Targa · Moderna · TransDigm · Monolithic Power · Grainger · TE Connectivity · Cencora | WBD·CL·HLT·ORLY·RSG·RCL·AEP·URI·APD·BSX·TRGP·MRNA·TDG·MPWR·GWW·TEL·COR | 2019Q1~2026Q2 (30) | 330씩 | 0 | 0 | 완료 |
-| US9 | Honeywell · Coherent · PACCAR | HON·COHR·PCAR | 2019Q1~2026Q2 (30) | 316·316·300 | 0 | 14·14·30 | 완료 (영업이익 태그 없는 구간 · COHR 대차 6칸) |
-| US10 | ONEOK · Comfort Systems · Teradyne · NXP · Keysight · Fastenal · Dominion · AMETEK · Diamondback · Garmin · Ford · Cardinal Health · Delta | OKE·FIX·TER·NXPI·KEYS·FAST·D·AME·FANG·GRMN·F·CAH·DAL | 2019Q1~2026Q2 (30) | 330씩 (NXPI 307 · F 328) | 0 (NXPI 23) | 0 (F 2) | 완료 |
+| US9 | Honeywell · Coherent · PACCAR | HON·COHR·PCAR | 2019Q1~2026Q2 (30) | 319·316·300 | 0 | 11·14·30 | 완료 (영업이익 태그 없는 구간 · COHR 대차 6칸) |
+| US10 | ONEOK · Comfort Systems · Teradyne · NXP · Keysight · Fastenal · Dominion · AMETEK · Diamondback · Garmin · Ford · Cardinal Health · Delta | OKE·FIX·TER·NXPI·KEYS·FAST·D·AME·FANG·GRMN·F·CAH·DAL | 2019Q1~2026Q2 (30) | 330씩 (NXPI 307) | 0 (NXPI 23) | 0 | 완료 |
 | US10 | Occidental · Nucor · Corteva · Devon · Sempra · NIKE · Baker Hughes | OXY·NUE·CTVA·DVN·SRE·NKE·BKR | 2019Q1~2026Q2 (30) | 300씩 (CTVA 297 · BKR 324) | 0 (CTVA 3) | 30씩 (BKR 6) | 완료 (영업이익 미공시) |
 | US11 | Edwards · eBay · Ciena · Becton Dickinson · Wabtec · Vistra · Workday · Entergy · PayPal · Block · Autodesk · Xcel · IQVIA · Exelon | EW·EBAY·CIEN·BDX·WAB·VST·WDAY·ETR·PYPL·XYZ·ADSK·XEL·IQV·EXC | 2019Q1~2026Q2 (30) | 330씩 (CIEN 329) | 0 (CIEN 1) | 0 | 완료 |
 | US11 | Carrier Global | CARR | 2020Q1~2026Q2 (26) | 286 | 44 | 0 | 완료 (2020-04 분사 전 제외) |
 | US11 | AutoZone | AZO | 2019Q1~2026Q2 (30) | 330 | 0 | 0 | 완료 (분기 라벨 순차 배정, 2026-09-20 대표 결정) |
-| US11 | Rockwell · L3Harris · Agilent · Monster | ROK·LHX·A·MNST | 2019Q1~2026Q2 (30) | 303·298·327·329 | 0 | 27·32·3·1 | 완료 (영업이익 등 태그 없는 구간) |
+| US11 | Rockwell · L3Harris · Agilent · Monster | ROK·LHX·A·MNST | 2019Q1~2026Q2 (30) | 305·302·327·329 | 0 | 25·28·3·1 | 완료 (영업이익 등 태그 없는 구간) |
 | US12 | Chipotle · Keurig Dr Pepper · Veeva · Waters · Paychex · IDEXX · MSCI · Microchip · Live Nation · ConEd · NetApp · Take-Two · Yum · Roper · Axon · Old Dominion | CMG·KDP·VEEV·WAT·PAYX·IDXX·MSCI·MCHP·LYV·ED·NTAP·TTWO·YUM·ROP·AXON·ODFL | 2019Q1~2026Q2 (30) | 330씩 | 0 | 0 | 완료 |
-| US12 | Archer-Daniels-Midland · D.R. Horton · Flex · Sysco | ADM·DHI·FLEX·SYY | 2019Q1~2026Q2 (30) | 300·300·320·320 | 0 (SYY 1) | 30·30·10·9 | 완료 (영업이익 태그 없는 구간 · SYY 2021Q2) |
+| US12 | Archer-Daniels-Midland · D.R. Horton · Flex · Sysco | ADM·DHI·FLEX·SYY | 2019Q1~2026Q2 (30) | 300·300·323·320 | 0 (SYY 1) | 30·30·7·9 | 완료 (영업이익 태그 없는 구간 · SYY 2021Q2) |
 | US13 | United Airlines · PSEG · Hershey · Estee Lauder · Steel Dynamics · DexCom · Expedia · EMCOR · Kimberly-Clark · ResMed · Jabil · EQT · Vulcan · HP | UAL·PEG·HSY·EL·STLD·DXCM·EXPE·EME·KMB·RMD·JBL·EQT·VMC·HPQ | 2019Q1~2026Q2 (30) | 330씩 | 0 | 0 | 완료 |
 | US13 | Kroger | KR | 2019Q1~2026Q2 (30) | 330 | 0 | 0 | 완료 (16주 1분기 수용, 32칸 복구) |
 | US13 | PG&E · WEC Energy · Biogen | PCG·WEC·BIIB | 2019Q1~2026Q2 (30) | 329·315·313 | 0 | 1·15·17 | 완료 (태그 없는 구간) |
@@ -140,12 +142,11 @@
 | US14 | GE HealthCare | GEHC | 2022Q4~2026Q2 (15) | 157 | 165 | 8 | 완료 (2023-01 분사, 최초 보고기간 2022Q4) |
 | US15 | DTE · Williams-Sonoma · FirstEnergy · Corpay · Labcorp · Las Vegas Sands · Super Micro · Eversource · West Pharm · Dover · Xylem · Fiserv · PPL · Incyte · CenterPoint · Expeditors · F5 · Darden · Hubbell | DTE·WSM·FE·CPAY·LH·LVS·SMCI·ES·WST·DOV·XYL·FISV·PPL·INCY·CNP·EXPD·FFIV·DRI·HUBB | 2019Q1~2026Q2 (30) | 330씩 | 0 | 0 | 완료 |
 | US15 | Otis Worldwide | OTIS | 2020Q1~2026Q2 (26) | 286 | 44 | 0 | 완료 (2020-04 분사 전 제외) |
-| US16 | Ulta Beauty · Verisk · Tapestry · Global Payments · J.B. Hunt · Omnicom · NRG · IFF · First Solar · Dollar Tree · Packaging Corp · Fair Isaac · CMS Energy · Constellation Brands | ULTA·VRSK·TPR·GPN·JBHT·OMC·NRG·IFF·FSLR·DLTR·PKG·FICO·CMS·STZ | 2019Q1~2026Q2 (30) | 330씩 | 0 | 0 | 완료 |
-| US16 | Casey's · PulteGroup · Dow | CASY·PHM·DOW | 2019Q1~2026Q2 (30) | 300·299·300 | 0 | 30·31·30 | 완료 (영업이익 태그 없음 · PHM 2021Q1 매출 1칸) |
+| US16 | Ulta Beauty · Verisk · Tapestry · Global Payments · J.B. Hunt · Omnicom · NRG · IFF · First Solar · Dollar Tree · Packaging Corp · Fair Isaac · CMS Energy · Constellation Brands · Church & Dwight | ULTA·VRSK·TPR·GPN·JBHT·OMC·NRG·IFF·FSLR·DLTR·PKG·FICO·CMS·STZ·CHD | 2019Q1~2026Q2 (30) | 330씩 | 0 | 0 | 완료 (CHD는 2025 10-Q 회사 확장 태그, 9절) |
+| US16 | Casey's · PulteGroup · Dow | CASY·PHM·DOW | 2019Q1~2026Q2 (30) | 300씩 | 0 | 30씩 | 완료 (영업이익 태그 없음) |
 | US16 | Edison International | EIX | 2019Q1~2026Q2 (30) | 329 | 0 | 1 | 완료 (2021Q4 순이익 태그 불일치) |
 | US16 | PPG Industries | PPG | 2019Q1~2026Q2 (30) | 328 | 0 | 2 | 완료 (FY2024·FY2025 10-K에 영업이익 태그 없음) |
-| US16 | Church & Dwight | CHD | 2019Q1~2026Q2 (30) | 326 | 1 | 3 | 완료 (2025 10-Q 회사 확장 태그) |
-| | **합계 300개 기업** | | 각 330칸 | **96,538** | **1,182** | **1,280** | |
+| | **합계 300개 기업** | | 각 330칸 | **96,566** | **1,181** | **1,253** | |
 
 - **분모(대표 결정 2026-09-20): S&P500 전체.** SPY 보유종목(2026-09-17) 종목 행 504개(클래스 중복 포함)를 분모로 쓴다. 진행률 **300 / 504 = 59.5%**. SPY 비중 상위 **475위**까지 업종 판정을 마쳤다(라운드 8에서 386~475위 추가, `tmp_verify/us7/probe13.py`).
   - 금융·리츠를 뺀 분모는 아직 정하지 않았다. 504개 전수 업종 조회가 필요하다. 지금까지 비중 상위 110위까지만 판정했고, 그 범위에서 금융 14곳·리츠 2곳·이력 미달 2곳을 뺐다(us-round3-log.md 1절).
@@ -275,18 +276,19 @@
   - 미국 라운드 3 20개사 이상치 **135건**(계산값 35, 모두 재확인 끝, 계산 오류 0) · 부호전환 101건 (us-round3-log.md 5·6절)
   - 미국 라운드 4 20개사 이상치 **151건**(계산값 40, 모두 재확인 끝, 계산 오류 0) · 부호전환 112건 (us-round4-log.md 5·6절)
   - 미국 라운드 5 20개사 이상치 **154건**(계산값 34, 모두 재확인 끝, 계산 오류 0) · 부호전환 177건 (us-round5-log.md 5·6절)
-  - 미국 라운드 6 20개사 이상치 **101건**(계산값 24, 모두 재확인 끝, 계산 오류 0) · 부호전환 157건 (us-round6-log.md 5·6절)
+  - 미국 라운드 6 20개사 이상치 **100건**(계산값 21, 모두 재확인 끝, 계산 오류 0) · 부호전환 157건 (us-round6-log.md 5·6절)
   - 국내 라운드 5 20개사 이상치 **140건**(계산값 23, 모두 재확인 끝, 계산 오류 0) · 부호전환 372건 (round5-log.md 5·6절)
   - 미국 라운드 7 20개사 이상치 **178건**(계산값 48, 모두 재확인 끝, 계산 오류 0) · 부호전환 137건 (us-round7-log.md 5·6절)
-  - 미국 라운드 8 20개사 이상치 **140건**(계산값 40, 모두 재확인 끝, 계산 오류 0) · 부호전환 135건 (us-round8-log.md 5·6절)
-  - 미국 라운드 9 20개사 이상치 **146건**(계산값 44, 모두 재확인 끝, 계산 오류 0) · 부호전환 147건 (us-round9-log.md 5절)
-  - 미국 라운드 10 20개사 이상치 **147건**(계산값 36, 모두 재확인 끝, 계산 오류 0) · 부호전환 178건 (us-round10-log.md 5·6절)
-  - 미국 라운드 11 20개사 이상치 **128건**(계산값 36, 모두 재확인 끝, 계산 오류 0) · 부호전환 122건 (us-round11-log.md 5·6절)
-  - 미국 라운드 12 20개사 이상치 **142건**(계산값 42, 모두 재확인 끝, 계산 오류 0) · 부호전환 148건 (us-round12-log.md 5·6절)
+  - 미국 라운드 8 20개사 이상치 **140건**(계산값 33, 모두 재확인 끝, 계산 오류 0) · 부호전환 136건 (us-round8-log.md 5·6절)
+  - 미국 라운드 9 20개사 이상치 **146건**(계산값 36, 모두 재확인 끝, 계산 오류 0) · 부호전환 147건 (us-round9-log.md 5절)
+  - 미국 라운드 10 20개사 이상치 **147건**(계산값 28, 모두 재확인 끝, 계산 오류 0) · 부호전환 179건 (us-round10-log.md 5·6절)
+  - 미국 라운드 11 20개사 이상치 **130건**(계산값 29, 모두 재확인 끝, 계산 오류 0) · 부호전환 122건 (us-round11-log.md 5·6절)
+  - 미국 라운드 12 20개사 이상치 **142건**(계산값 34, 모두 재확인 끝, 계산 오류 0) · 부호전환 148건 (us-round12-log.md 5·6절)
   - 미국 라운드 13 20개사 이상치 **106건**(계산값 23, 모두 재확인 끝, 계산 오류 0) · 부호전환 195건 (us-round13-log.md 5·6절)
   - 미국 라운드 14 20개사 이상치 **125건**(계산값 38, 모두 재확인 끝, 계산 오류 0) · 부호전환 114건 (us-round14-log.md 6절)
   - 미국 라운드 15 20개사 이상치 **113건**(계산값 34, 모두 재확인 끝, 계산 오류 0) · 부호전환 104건 (us-round15-log.md 5·6절)
   - 미국 라운드 16 20개사 이상치 **171건**(계산값 48 = 재무 33 + 시가총액 15, 재무 33건 모두 재확인 끝, 계산 오류 0) · 부호전환 219건 (us-round16-log.md 6·7절)
+  - **라운드 1~16 회귀 재생성(2026-09-21) 뒤 재집계다.** 값이 바뀐 라운드(6·8·9·10·11·12·16)는 계산값 재확인을 다시 돌렸고 전부 일치, 계산 오류 0이다. 위 계산값 수는 재무 항목 기준이며 시가총액 계산값은 자체 검증으로 따로 확인한다.
 - 이상치는 관찰 표시일 뿐이며, 값을 고치거나 빼지 않는다.
 
 ### 자체 검증
@@ -344,7 +346,7 @@
 6. ~~이상치 규칙 보완~~ → **확정 (2026-09-18): D안.** 아래 "이상치 판정" 절 참조. 21개 기업 기준 189건(당시 방식). 통일된 방식으로는 174건이다(2026-09-19).
 7. ~~별도재무제표 수집 여부~~ → 결정: 연결 원칙 유지, 별도로 채우지 않는다 (round3-log.md 결정 4).
 
-14. ~~미국 라운드 16 — 읽기 경로가 놓친 칸, 공용 코드 수정 여부~~ → **결정: 고친다 (2026-09-21).** 규칙 2종을 `collect_us_round2.py`에 넣었고 대상 5칸(CHD 4 · PHM 1)이 채워졌다. **전 라운드 회귀 재생성은 아직 안 끝났다.** 상세 us-round16-log.md 9절
+14. ~~미국 라운드 16 — 읽기 경로가 놓친 칸, 공용 코드 수정 여부~~ → **완료 (2026-09-21).** 규칙 2종(회사 확장 태그 · 후속 보고서 비교기간)을 `collect_us_round2.py`에 넣었다. 라운드 1~16 회귀 재생성·채택까지 끝났고 **기존 값 변경 0건, 개선 28칸**이다. 상세 [us-round16-log.md](us/logs/us-round16-log.md) 9절
     - CHD 2025Q1~Q3 영업활동현금흐름 3칸: 회사 확장 태그 `chd:NetCashProvidedByOperatingActivities`. companyfacts에 안 실리고, 원문 대체 경로는 "사실 20개 미만"에서만 발동한다.
     - PHM 2021Q1 매출액 1칸: 그 10-Q의 매출 사실이 전부 차원(세그먼트) 부착이라 무차원 연결 총계가 없다.
     - 두 값 모두 회사의 **다음 해 보고서 비교열에 표준 태그로** 실려 있어 확인된다. 고치려면 `Facts.find`의 원문 대체 조건을 넓혀야 하고, 라운드 14 선례대로 전 라운드(국내 5 + 미국 16) 회귀 검사가 따라붙는다.
