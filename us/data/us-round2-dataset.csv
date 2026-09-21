@@ -305,8 +305,8 @@ AMD,AMD,2025Q4,2025-12-27,분기말 부채총계,13927000000,USD,계산(부채�
 AMD,AMD,2025Q4,2025-12-27,분기말 총자본(자기자본),62999000000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/2488/000000248826000018/,"StockholdersEquity, MinorityInterest 태그 없음"
 AMD,AMD,2025Q4,2025-12-27,분기말 지배지분 자본,62999000000,USD,공시,https://www.sec.gov/Archives/edgar/data/2488/000000248826000018/,
 AMD,AMD,2025Q4,2025-12-26,분기말 종가,214.99,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/AMD?interval=1d&events=splits (2025-12-26),
-AMD,AMD,2025Q4,2026-01-30,분기말 상장주식수,1630410843,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/2488/000000248826000021/,dei:EntityCommonStockSharesOutstanding 클래스 합
-AMD,AMD,2025Q4,2025-12-26,분기말 시가총액,350522027137,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/AMD?interval=1d&events=splits (2025-12-26) ; https://www.sec.gov/Archives/edgar/data/2488/000000248826000021/,종가 214.99 × 주식수 1630410843
+AMD,AMD,2025Q4,2026-01-30,분기말 상장주식수,1630410843,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/2488/000000248826000021/,dei:EntityCommonStockSharesOutstanding 클래스 합 ; 값은 XBRL 원문(companyfacts 미반영 보고서)
+AMD,AMD,2025Q4,2025-12-26,분기말 시가총액,350522027137,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/AMD?interval=1d&events=splits (2025-12-26) ; https://www.sec.gov/Archives/edgar/data/2488/000000248826000021/,종가 214.99 × 주식수 1630410843 ; 값은 XBRL 원문(companyfacts 미반영 보고서)
 AMD,AMD,2026Q1,2026-03-28,분기별 매출액,10253000000,USD,공시,https://www.sec.gov/Archives/edgar/data/2488/000000248826000076/,
 AMD,AMD,2026Q1,2026-03-28,분기별 영업이익,1476000000,USD,공시,https://www.sec.gov/Archives/edgar/data/2488/000000248826000076/,
 AMD,AMD,2026Q1,2026-03-28,분기별 당기순이익(지배),1383000000,USD,공시,https://www.sec.gov/Archives/edgar/data/2488/000000248826000076/,

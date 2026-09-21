@@ -329,21 +329,21 @@ ONEOK,OKE,2026Q2,2026-06-30,분기말 지배지분 자본,22937000000,USD,공시
 ONEOK,OKE,2026Q2,2026-06-30,분기말 종가,86.94,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/OKE?interval=1d&events=splits (2026-06-30),
 ONEOK,OKE,2026Q2,2026-07-27,분기말 상장주식수,630369667,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/1039684/000103968426000029/,dei:EntityCommonStockSharesOutstanding 클래스 합
 ONEOK,OKE,2026Q2,2026-06-30,분기말 시가총액,54804338849,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/OKE?interval=1d&events=splits (2026-06-30) ; https://www.sec.gov/Archives/edgar/data/1039684/000103968426000029/,종가 86.94 × 주식수 630369667
-Occidental Petroleum,OXY,2019Q1,2019-03-31,분기별 매출액,3435000000,USD,공시,https://www.sec.gov/Archives/edgar/data/797468/000079746819000007/,값은 XBRL 원문(companyfacts 미반영 보고서)
+Occidental Petroleum,OXY,2019Q1,2019-03-31,분기별 매출액,3435000000,USD,공시,https://www.sec.gov/Archives/edgar/data/797468/000079746819000007/,
 Occidental Petroleum,OXY,2019Q1,2019-03-31,분기별 영업이익,미확인,USD,미확인,SEC companyfacts CIK0000797468: 해당 보고서에 OperatingIncomeLoss 태그 없음(영업이익 미공시) ; SEC companyfacts CIK0000797468: OperatingIncomeLoss 태그 없음(영업이익 미공시),
-Occidental Petroleum,OXY,2019Q1,2019-03-31,분기별 당기순이익(지배),631000000,USD,공시,https://www.sec.gov/Archives/edgar/data/797468/000079746819000007/,값은 XBRL 원문(companyfacts 미반영 보고서)
-Occidental Petroleum,OXY,2019Q1,2019-03-31,분기별 영업활동현금흐름,948000000,USD,공시,https://www.sec.gov/Archives/edgar/data/797468/000079746819000007/,값은 XBRL 원문(companyfacts 미반영 보고서)
-Occidental Petroleum,OXY,2019Q1,2019-03-31,분기말 자산총계,44380000000,USD,공시,https://www.sec.gov/Archives/edgar/data/797468/000079746819000007/,값은 XBRL 원문(companyfacts 미반영 보고서)
-Occidental Petroleum,OXY,2019Q1,2019-03-31,분기말 부채총계,23144000000,USD,계산(부채및자본-총자본),https://www.sec.gov/Archives/edgar/data/797468/000079746819000007/,부채및자본 44380000000 − 총자본 21236000000 ; 값은 XBRL 원문(companyfacts 미반영 보고서)
-Occidental Petroleum,OXY,2019Q1,2019-03-31,분기말 총자본(자기자본),21236000000,USD,공시,https://www.sec.gov/Archives/edgar/data/797468/000079746819000007/,값은 XBRL 원문(companyfacts 미반영 보고서)
-Occidental Petroleum,OXY,2019Q1,2019-03-31,분기말 지배지분 자본,21236000000,USD,공시,https://www.sec.gov/Archives/edgar/data/797468/000079746819000007/,값은 XBRL 원문(companyfacts 미반영 보고서)
+Occidental Petroleum,OXY,2019Q1,2019-03-31,분기별 당기순이익(지배),631000000,USD,공시,https://www.sec.gov/Archives/edgar/data/797468/000079746819000007/,
+Occidental Petroleum,OXY,2019Q1,2019-03-31,분기별 영업활동현금흐름,948000000,USD,공시,https://www.sec.gov/Archives/edgar/data/797468/000079746819000007/,
+Occidental Petroleum,OXY,2019Q1,2019-03-31,분기말 자산총계,44380000000,USD,공시,https://www.sec.gov/Archives/edgar/data/797468/000079746819000007/,
+Occidental Petroleum,OXY,2019Q1,2019-03-31,분기말 부채총계,23144000000,USD,계산(부채및자본-총자본),https://www.sec.gov/Archives/edgar/data/797468/000079746819000007/,부채및자본 44380000000 − 총자본 21236000000
+Occidental Petroleum,OXY,2019Q1,2019-03-31,분기말 총자본(자기자본),21236000000,USD,공시,https://www.sec.gov/Archives/edgar/data/797468/000079746819000007/,
+Occidental Petroleum,OXY,2019Q1,2019-03-31,분기말 지배지분 자본,21236000000,USD,공시,https://www.sec.gov/Archives/edgar/data/797468/000079746819000007/,
 Occidental Petroleum,OXY,2019Q1,2019-03-29,분기말 종가,66.2,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/OXY?interval=1d&events=splits (2019-03-29),
-Occidental Petroleum,OXY,2019Q1,2019-03-31,분기말 상장주식수,747877859,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/797468/000079746819000007/,dei:EntityCommonStockSharesOutstanding 클래스 합 ; 값은 XBRL 원문(companyfacts 미반영 보고서)
-Occidental Petroleum,OXY,2019Q1,2019-03-29,분기말 시가총액,49509514266,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/OXY?interval=1d&events=splits (2019-03-29) ; https://www.sec.gov/Archives/edgar/data/797468/000079746819000007/,종가 66.2 × 주식수 747877859 ; 값은 XBRL 원문(companyfacts 미반영 보고서)
+Occidental Petroleum,OXY,2019Q1,2019-03-31,분기말 상장주식수,747877859,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/797468/000079746819000007/,dei:EntityCommonStockSharesOutstanding 클래스 합
+Occidental Petroleum,OXY,2019Q1,2019-03-29,분기말 시가총액,49509514266,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/OXY?interval=1d&events=splits (2019-03-29) ; https://www.sec.gov/Archives/edgar/data/797468/000079746819000007/,종가 66.2 × 주식수 747877859
 Occidental Petroleum,OXY,2019Q2,2019-06-30,분기별 매출액,4420000000,USD,공시,https://www.sec.gov/Archives/edgar/data/797468/000079746819000012/,
 Occidental Petroleum,OXY,2019Q2,2019-06-30,분기별 영업이익,미확인,USD,미확인,SEC companyfacts CIK0000797468: 해당 보고서에 OperatingIncomeLoss 태그 없음(영업이익 미공시) ; SEC companyfacts CIK0000797468: OperatingIncomeLoss 태그 없음(영업이익 미공시),
 Occidental Petroleum,OXY,2019Q2,2019-06-30,분기별 당기순이익(지배),635000000,USD,공시,https://www.sec.gov/Archives/edgar/data/797468/000079746819000012/,
-Occidental Petroleum,OXY,2019Q2,2019-06-30,분기별 영업활동현금흐름,2013000000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/797468/000079746819000012/ ; https://www.sec.gov/Archives/edgar/data/797468/000079746819000007/,누적 2961000000 − 직전누적 948000000 (시작 2019-01-01) ; 값은 XBRL 원문(companyfacts 미반영 보고서)
+Occidental Petroleum,OXY,2019Q2,2019-06-30,분기별 영업활동현금흐름,2013000000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/797468/000079746819000012/ ; https://www.sec.gov/Archives/edgar/data/797468/000079746819000007/,누적 2961000000 − 직전누적 948000000 (시작 2019-01-01)
 Occidental Petroleum,OXY,2019Q2,2019-06-30,분기말 자산총계,44770000000,USD,공시,https://www.sec.gov/Archives/edgar/data/797468/000079746819000012/,
 Occidental Petroleum,OXY,2019Q2,2019-06-30,분기말 부채총계,23423000000,USD,계산(부채및자본-총자본),https://www.sec.gov/Archives/edgar/data/797468/000079746819000012/,부채및자본 44770000000 − 총자본 21347000000
 Occidental Petroleum,OXY,2019Q2,2019-06-30,분기말 총자본(자기자본),21347000000,USD,공시,https://www.sec.gov/Archives/edgar/data/797468/000079746819000012/,
@@ -2243,21 +2243,21 @@ Baker Hughes,BKR,2024Q4,2024-12-31,분기말 지배지분 자본,16895000000,USD
 Baker Hughes,BKR,2024Q4,2024-12-31,분기말 종가,41.02,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/BKR?interval=1d&events=splits (2024-12-31),
 Baker Hughes,BKR,2024Q4,2025-01-22,분기말 상장주식수,990111854,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/1701605/000170160525000035/,dei:EntityCommonStockSharesOutstanding 클래스 합
 Baker Hughes,BKR,2024Q4,2024-12-31,분기말 시가총액,40614388251,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/BKR?interval=1d&events=splits (2024-12-31) ; https://www.sec.gov/Archives/edgar/data/1701605/000170160525000035/,종가 41.02 × 주식수 990111854
-Baker Hughes,BKR,2025Q1,2025-03-31,분기별 매출액,6427000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1701605/000170160525000075/,값은 XBRL 원문(companyfacts 미반영 보고서)
+Baker Hughes,BKR,2025Q1,2025-03-31,분기별 매출액,6427000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1701605/000170160525000075/,
 Baker Hughes,BKR,2025Q1,2025-03-31,분기별 영업이익,미확인,USD,미확인,SEC companyfacts CIK0001701605: 해당 보고서에 OperatingIncomeLoss 태그 없음(영업이익 미공시) ; https://www.sec.gov/Archives/edgar/data/1701605/000170160525000075/,
-Baker Hughes,BKR,2025Q1,2025-03-31,분기별 당기순이익(지배),402000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1701605/000170160525000075/,값은 XBRL 원문(companyfacts 미반영 보고서)
-Baker Hughes,BKR,2025Q1,2025-03-31,분기별 영업활동현금흐름,709000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1701605/000170160525000075/,값은 XBRL 원문(companyfacts 미반영 보고서)
-Baker Hughes,BKR,2025Q1,2025-03-31,분기말 자산총계,38110000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1701605/000170160525000075/,값은 XBRL 원문(companyfacts 미반영 보고서)
-Baker Hughes,BKR,2025Q1,2025-03-31,분기말 부채총계,20904000000,USD,계산(부채및자본-총자본),https://www.sec.gov/Archives/edgar/data/1701605/000170160525000075/,부채및자본 38110000000 − 총자본 17206000000 ; 값은 XBRL 원문(companyfacts 미반영 보고서)
-Baker Hughes,BKR,2025Q1,2025-03-31,분기말 총자본(자기자본),17206000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1701605/000170160525000075/,값은 XBRL 원문(companyfacts 미반영 보고서)
-Baker Hughes,BKR,2025Q1,2025-03-31,분기말 지배지분 자본,17042000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1701605/000170160525000075/,값은 XBRL 원문(companyfacts 미반영 보고서)
+Baker Hughes,BKR,2025Q1,2025-03-31,분기별 당기순이익(지배),402000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1701605/000170160525000075/,
+Baker Hughes,BKR,2025Q1,2025-03-31,분기별 영업활동현금흐름,709000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1701605/000170160525000075/,
+Baker Hughes,BKR,2025Q1,2025-03-31,분기말 자산총계,38110000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1701605/000170160525000075/,
+Baker Hughes,BKR,2025Q1,2025-03-31,분기말 부채총계,20904000000,USD,계산(부채및자본-총자본),https://www.sec.gov/Archives/edgar/data/1701605/000170160525000075/,부채및자본 38110000000 − 총자본 17206000000
+Baker Hughes,BKR,2025Q1,2025-03-31,분기말 총자본(자기자본),17206000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1701605/000170160525000075/,
+Baker Hughes,BKR,2025Q1,2025-03-31,분기말 지배지분 자본,17042000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1701605/000170160525000075/,
 Baker Hughes,BKR,2025Q1,2025-03-31,분기말 종가,43.95,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/BKR?interval=1d&events=splits (2025-03-31),
-Baker Hughes,BKR,2025Q1,2025-04-16,분기말 상장주식수,990749975,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/1701605/000170160525000075/,dei:EntityCommonStockSharesOutstanding 클래스 합 ; 값은 XBRL 원문(companyfacts 미반영 보고서)
-Baker Hughes,BKR,2025Q1,2025-03-31,분기말 시가총액,43543461401,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/BKR?interval=1d&events=splits (2025-03-31) ; https://www.sec.gov/Archives/edgar/data/1701605/000170160525000075/,종가 43.95 × 주식수 990749975 ; 값은 XBRL 원문(companyfacts 미반영 보고서)
+Baker Hughes,BKR,2025Q1,2025-04-16,분기말 상장주식수,990749975,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/1701605/000170160525000075/,dei:EntityCommonStockSharesOutstanding 클래스 합
+Baker Hughes,BKR,2025Q1,2025-03-31,분기말 시가총액,43543461401,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/BKR?interval=1d&events=splits (2025-03-31) ; https://www.sec.gov/Archives/edgar/data/1701605/000170160525000075/,종가 43.95 × 주식수 990749975
 Baker Hughes,BKR,2025Q2,2025-06-30,분기별 매출액,6910000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1701605/000170160525000107/,
 Baker Hughes,BKR,2025Q2,2025-06-30,분기별 영업이익,미확인,USD,미확인,SEC companyfacts CIK0001701605: 해당 보고서에 OperatingIncomeLoss 태그 없음(영업이익 미공시) ; https://www.sec.gov/Archives/edgar/data/1701605/000170160525000107/,
 Baker Hughes,BKR,2025Q2,2025-06-30,분기별 당기순이익(지배),701000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1701605/000170160525000107/,
-Baker Hughes,BKR,2025Q2,2025-06-30,분기별 영업활동현금흐름,510000000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/1701605/000170160525000107/ ; https://www.sec.gov/Archives/edgar/data/1701605/000170160525000075/,누적 1219000000 − 직전누적 709000000 (시작 2025-01-01) ; 값은 XBRL 원문(companyfacts 미반영 보고서)
+Baker Hughes,BKR,2025Q2,2025-06-30,분기별 영업활동현금흐름,510000000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/1701605/000170160525000107/ ; https://www.sec.gov/Archives/edgar/data/1701605/000170160525000075/,누적 1219000000 − 직전누적 709000000 (시작 2025-01-01)
 Baker Hughes,BKR,2025Q2,2025-06-30,분기말 자산총계,38740000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1701605/000170160525000107/,
 Baker Hughes,BKR,2025Q2,2025-06-30,분기말 부채총계,20872000000,USD,계산(부채및자본-총자본),https://www.sec.gov/Archives/edgar/data/1701605/000170160525000107/,부채및자본 38740000000 − 총자본 17868000000
 Baker Hughes,BKR,2025Q2,2025-06-30,분기말 총자본(자기자본),17868000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1701605/000170160525000107/,
@@ -2309,21 +2309,21 @@ Baker Hughes,BKR,2026Q2,2026-06-30,분기말 지배지분 자본,19908000000,USD
 Baker Hughes,BKR,2026Q2,2026-06-30,분기말 종가,55.5,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/BKR?interval=1d&events=splits (2026-06-30),
 Baker Hughes,BKR,2026Q2,2026-07-23,분기말 상장주식수,992674071,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/1701605/000170160526000023/,dei:EntityCommonStockSharesOutstanding 클래스 합
 Baker Hughes,BKR,2026Q2,2026-06-30,분기말 시가총액,55093410940,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/BKR?interval=1d&events=splits (2026-06-30) ; https://www.sec.gov/Archives/edgar/data/1701605/000170160526000023/,종가 55.5 × 주식수 992674071
-Nucor,NUE,2019Q1,2019-03-30,분기별 매출액,6096624000,USD,공시,https://www.sec.gov/Archives/edgar/data/73309/000119312519141391/,값은 XBRL 원문(companyfacts 미반영 보고서)
+Nucor,NUE,2019Q1,2019-03-30,분기별 매출액,6096624000,USD,공시,https://www.sec.gov/Archives/edgar/data/73309/000119312519141391/,
 Nucor,NUE,2019Q1,2019-03-30,분기별 영업이익,미확인,USD,미확인,SEC companyfacts CIK0000073309: 해당 보고서에 OperatingIncomeLoss 태그 없음(영업이익 미공시) ; SEC companyfacts CIK0000073309: OperatingIncomeLoss 태그 없음(영업이익 미공시),
-Nucor,NUE,2019Q1,2019-03-30,분기별 당기순이익(지배),501806000,USD,공시,https://www.sec.gov/Archives/edgar/data/73309/000119312519141391/,값은 XBRL 원문(companyfacts 미반영 보고서)
-Nucor,NUE,2019Q1,2019-03-30,분기별 영업활동현금흐름,650708000,USD,공시,https://www.sec.gov/Archives/edgar/data/73309/000119312519141391/,값은 XBRL 원문(companyfacts 미반영 보고서)
-Nucor,NUE,2019Q1,2019-03-30,분기말 자산총계,18086698000,USD,공시,https://www.sec.gov/Archives/edgar/data/73309/000119312519141391/,값은 XBRL 원문(companyfacts 미반영 보고서)
-Nucor,NUE,2019Q1,2019-03-30,분기말 부채총계,7584032000,USD,공시,https://www.sec.gov/Archives/edgar/data/73309/000119312519141391/,값은 XBRL 원문(companyfacts 미반영 보고서)
-Nucor,NUE,2019Q1,2019-03-30,분기말 총자본(자기자본),10502666000,USD,공시,https://www.sec.gov/Archives/edgar/data/73309/000119312519141391/,값은 XBRL 원문(companyfacts 미반영 보고서)
-Nucor,NUE,2019Q1,2019-03-30,분기말 지배지분 자본,10114191000,USD,공시,https://www.sec.gov/Archives/edgar/data/73309/000119312519141391/,값은 XBRL 원문(companyfacts 미반영 보고서)
+Nucor,NUE,2019Q1,2019-03-30,분기별 당기순이익(지배),501806000,USD,공시,https://www.sec.gov/Archives/edgar/data/73309/000119312519141391/,
+Nucor,NUE,2019Q1,2019-03-30,분기별 영업활동현금흐름,650708000,USD,공시,https://www.sec.gov/Archives/edgar/data/73309/000119312519141391/,
+Nucor,NUE,2019Q1,2019-03-30,분기말 자산총계,18086698000,USD,공시,https://www.sec.gov/Archives/edgar/data/73309/000119312519141391/,
+Nucor,NUE,2019Q1,2019-03-30,분기말 부채총계,7584032000,USD,공시,https://www.sec.gov/Archives/edgar/data/73309/000119312519141391/,
+Nucor,NUE,2019Q1,2019-03-30,분기말 총자본(자기자본),10502666000,USD,공시,https://www.sec.gov/Archives/edgar/data/73309/000119312519141391/,
+Nucor,NUE,2019Q1,2019-03-30,분기말 지배지분 자본,10114191000,USD,공시,https://www.sec.gov/Archives/edgar/data/73309/000119312519141391/,
 Nucor,NUE,2019Q1,2019-03-29,분기말 종가,58.35,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/NUE?interval=1d&events=splits (2019-03-29),
-Nucor,NUE,2019Q1,2019-03-30,분기말 상장주식수,304785686,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/73309/000119312519141391/,dei:EntityCommonStockSharesOutstanding 클래스 합 ; 값은 XBRL 원문(companyfacts 미반영 보고서)
-Nucor,NUE,2019Q1,2019-03-29,분기말 시가총액,17784244778,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/NUE?interval=1d&events=splits (2019-03-29) ; https://www.sec.gov/Archives/edgar/data/73309/000119312519141391/,종가 58.35 × 주식수 304785686 ; 값은 XBRL 원문(companyfacts 미반영 보고서)
+Nucor,NUE,2019Q1,2019-03-30,분기말 상장주식수,304785686,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/73309/000119312519141391/,dei:EntityCommonStockSharesOutstanding 클래스 합
+Nucor,NUE,2019Q1,2019-03-29,분기말 시가총액,17784244778,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/NUE?interval=1d&events=splits (2019-03-29) ; https://www.sec.gov/Archives/edgar/data/73309/000119312519141391/,종가 58.35 × 주식수 304785686
 Nucor,NUE,2019Q2,2019-06-29,분기별 매출액,5895986000,USD,공시,https://www.sec.gov/Archives/edgar/data/73309/000156459019029949/,
 Nucor,NUE,2019Q2,2019-06-29,분기별 영업이익,미확인,USD,미확인,SEC companyfacts CIK0000073309: 해당 보고서에 OperatingIncomeLoss 태그 없음(영업이익 미공시) ; SEC companyfacts CIK0000073309: OperatingIncomeLoss 태그 없음(영업이익 미공시),
 Nucor,NUE,2019Q2,2019-06-29,분기별 당기순이익(지배),386483000,USD,공시,https://www.sec.gov/Archives/edgar/data/73309/000156459019029949/,
-Nucor,NUE,2019Q2,2019-06-29,분기별 영업활동현금흐름,537147000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/73309/000156459019029949/ ; https://www.sec.gov/Archives/edgar/data/73309/000119312519141391/,누적 1187855000 − 직전누적 650708000 (시작 2019-01-01) ; 값은 XBRL 원문(companyfacts 미반영 보고서)
+Nucor,NUE,2019Q2,2019-06-29,분기별 영업활동현금흐름,537147000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/73309/000156459019029949/ ; https://www.sec.gov/Archives/edgar/data/73309/000119312519141391/,누적 1187855000 − 직전누적 650708000 (시작 2019-01-01)
 Nucor,NUE,2019Q2,2019-06-29,분기말 자산총계,18126480000,USD,공시,https://www.sec.gov/Archives/edgar/data/73309/000156459019029949/,
 Nucor,NUE,2019Q2,2019-06-29,분기말 부채총계,7428472000,USD,공시,https://www.sec.gov/Archives/edgar/data/73309/000156459019029949/,
 Nucor,NUE,2019Q2,2019-06-29,분기말 총자본(자기자본),10698008000,USD,공시,https://www.sec.gov/Archives/edgar/data/73309/000156459019029949/,
@@ -3959,21 +3959,21 @@ Diamondback Energy,FANG,2026Q2,2026-06-30,분기말 지배지분 자본,37900000
 Diamondback Energy,FANG,2026Q2,2026-06-30,분기말 종가,175.78,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/FANG?interval=1d&events=splits (2026-06-30),
 Diamondback Energy,FANG,2026Q2,2026-07-31,분기말 상장주식수,280024353,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/1539838/000153983826000142/,dei:EntityCommonStockSharesOutstanding 클래스 합
 Diamondback Energy,FANG,2026Q2,2026-06-30,분기말 시가총액,49222680770,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/FANG?interval=1d&events=splits (2026-06-30) ; https://www.sec.gov/Archives/edgar/data/1539838/000153983826000142/,종가 175.78 × 주식수 280024353
-Corteva,CTVA,2019Q1,2019-03-31,분기별 매출액,6288000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1755672/000175567219000004/,값은 XBRL 원문(companyfacts 미반영 보고서)
+Corteva,CTVA,2019Q1,2019-03-31,분기별 매출액,6288000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1755672/000175567219000004/,
 Corteva,CTVA,2019Q1,2019-03-31,분기별 영업이익,미확인,USD,미확인,SEC companyfacts CIK0001755672: 해당 보고서에 OperatingIncomeLoss 태그 없음(영업이익 미공시) ; SEC companyfacts CIK0001755672: OperatingIncomeLoss 태그 없음(영업이익 미공시),
-Corteva,CTVA,2019Q1,2019-03-31,분기별 당기순이익(지배),85000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1755672/000175567219000004/,값은 XBRL 원문(companyfacts 미반영 보고서)
-Corteva,CTVA,2019Q1,2019-03-31,분기별 영업활동현금흐름,-1422000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1755672/000175567219000004/,값은 XBRL 원문(companyfacts 미반영 보고서)
-Corteva,CTVA,2019Q1,2019-03-31,분기말 자산총계,101837000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1755672/000175567219000004/,값은 XBRL 원문(companyfacts 미반영 보고서)
-Corteva,CTVA,2019Q1,2019-03-31,분기말 부채총계,32002000000,USD,계산(부채및자본-총자본),https://www.sec.gov/Archives/edgar/data/1755672/000175567219000004/,부채및자본 101837000000 − 총자본 69835000000 ; 값은 XBRL 원문(companyfacts 미반영 보고서)
-Corteva,CTVA,2019Q1,2019-03-31,분기말 총자본(자기자본),69835000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1755672/000175567219000004/,값은 XBRL 원문(companyfacts 미반영 보고서)
-Corteva,CTVA,2019Q1,2019-03-31,분기말 지배지분 자본,69600000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1755672/000175567219000004/,값은 XBRL 원문(companyfacts 미반영 보고서)
+Corteva,CTVA,2019Q1,2019-03-31,분기별 당기순이익(지배),85000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1755672/000175567219000004/,
+Corteva,CTVA,2019Q1,2019-03-31,분기별 영업활동현금흐름,-1422000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1755672/000175567219000004/,
+Corteva,CTVA,2019Q1,2019-03-31,분기말 자산총계,101837000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1755672/000175567219000004/,
+Corteva,CTVA,2019Q1,2019-03-31,분기말 부채총계,32002000000,USD,계산(부채및자본-총자본),https://www.sec.gov/Archives/edgar/data/1755672/000175567219000004/,부채및자본 101837000000 − 총자본 69835000000
+Corteva,CTVA,2019Q1,2019-03-31,분기말 총자본(자기자본),69835000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1755672/000175567219000004/,
+Corteva,CTVA,2019Q1,2019-03-31,분기말 지배지분 자본,69600000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1755672/000175567219000004/,
 Corteva,CTVA,2019Q1,2019-03-31,분기말 종가,데이터 없음(API 최초 거래일 2019-05-24 이전),,데이터 없음(상장 전),https://query1.finance.yahoo.com/v8/finance/chart/CTVA (firstTradeDate 2019-05-24),
 Corteva,CTVA,2019Q1,2019-03-31,분기말 상장주식수,데이터 없음(API 최초 거래일 2019-05-24 이전),,데이터 없음(상장 전),https://query1.finance.yahoo.com/v8/finance/chart/CTVA (firstTradeDate 2019-05-24),
 Corteva,CTVA,2019Q1,2019-03-31,분기말 시가총액,데이터 없음(API 최초 거래일 2019-05-24 이전),,데이터 없음(상장 전),https://query1.finance.yahoo.com/v8/finance/chart/CTVA (firstTradeDate 2019-05-24),
 Corteva,CTVA,2019Q2,2019-06-30,분기별 매출액,5556000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1755672/000175567219000014/,
 Corteva,CTVA,2019Q2,2019-06-30,분기별 영업이익,미확인,USD,미확인,SEC companyfacts CIK0001755672: 해당 보고서에 OperatingIncomeLoss 태그 없음(영업이익 미공시) ; SEC companyfacts CIK0001755672: OperatingIncomeLoss 태그 없음(영업이익 미공시),
 Corteva,CTVA,2019Q2,2019-06-30,분기별 당기순이익(지배),-608000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1755672/000175567219000014/,
-Corteva,CTVA,2019Q2,2019-06-30,분기별 영업활동현금흐름,334000000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/1755672/000175567219000014/ ; https://www.sec.gov/Archives/edgar/data/1755672/000175567219000004/,누적 -1088000000 − 직전누적 -1422000000 (시작 2019-01-01) ; 값은 XBRL 원문(companyfacts 미반영 보고서)
+Corteva,CTVA,2019Q2,2019-06-30,분기별 영업활동현금흐름,334000000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/1755672/000175567219000014/ ; https://www.sec.gov/Archives/edgar/data/1755672/000175567219000004/,누적 -1088000000 − 직전누적 -1422000000 (시작 2019-01-01)
 Corteva,CTVA,2019Q2,2019-06-30,분기말 자산총계,43998000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1755672/000175567219000014/,
 Corteva,CTVA,2019Q2,2019-06-30,분기말 부채총계,17855000000,USD,계산(부채및자본-총자본),https://www.sec.gov/Archives/edgar/data/1755672/000175567219000014/,부채및자본 43998000000 − 총자본 26143000000
 Corteva,CTVA,2019Q2,2019-06-30,분기말 총자본(자기자본),26143000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1755672/000175567219000014/,
@@ -4289,21 +4289,21 @@ Corteva,CTVA,2026Q2,2026-06-30,분기말 지배지분 자본,25159000000,USD,공
 Corteva,CTVA,2026Q2,2026-06-30,분기말 종가,84.69,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/CTVA?interval=1d&events=splits (2026-06-30),
 Corteva,CTVA,2026Q2,2026-07-24,분기말 상장주식수,667196000,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/1755672/000175567226000025/,dei:EntityCommonStockSharesOutstanding 클래스 합
 Corteva,CTVA,2026Q2,2026-06-30,분기말 시가총액,56504829240,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/CTVA?interval=1d&events=splits (2026-06-30) ; https://www.sec.gov/Archives/edgar/data/1755672/000175567226000025/,종가 84.69 × 주식수 667196000
-Devon Energy,DVN,2019Q1,2019-03-31,분기별 매출액,1501000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1090012/000156459019014637/,값은 XBRL 원문(companyfacts 미반영 보고서)
+Devon Energy,DVN,2019Q1,2019-03-31,분기별 매출액,1501000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1090012/000156459019014637/,
 Devon Energy,DVN,2019Q1,2019-03-31,분기별 영업이익,미확인,USD,미확인,SEC companyfacts CIK0001090012: 해당 보고서에 OperatingIncomeLoss 태그 없음(영업이익 미공시) ; https://www.sec.gov/Archives/edgar/data/1090012/000156459019014637/,
-Devon Energy,DVN,2019Q1,2019-03-31,분기별 당기순이익(지배),-317000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1090012/000156459019014637/,값은 XBRL 원문(companyfacts 미반영 보고서)
-Devon Energy,DVN,2019Q1,2019-03-31,분기별 영업활동현금흐름,377000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1090012/000156459019014637/,값은 XBRL 원문(companyfacts 미반영 보고서)
-Devon Energy,DVN,2019Q1,2019-03-31,분기말 자산총계,18077000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1090012/000156459019014637/,값은 XBRL 원문(companyfacts 미반영 보고서)
-Devon Energy,DVN,2019Q1,2019-03-31,분기말 부채총계,10220000000,USD,계산(부채및자본-총자본),https://www.sec.gov/Archives/edgar/data/1090012/000156459019014637/,부채및자본 18077000000 − 총자본 7857000000 ; 값은 XBRL 원문(companyfacts 미반영 보고서)
-Devon Energy,DVN,2019Q1,2019-03-31,분기말 총자본(자기자본),7857000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1090012/000156459019014637/,값은 XBRL 원문(companyfacts 미반영 보고서)
-Devon Energy,DVN,2019Q1,2019-03-31,분기말 지배지분 자본,7857000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1090012/000156459019014637/,값은 XBRL 원문(companyfacts 미반영 보고서)
+Devon Energy,DVN,2019Q1,2019-03-31,분기별 당기순이익(지배),-317000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1090012/000156459019014637/,
+Devon Energy,DVN,2019Q1,2019-03-31,분기별 영업활동현금흐름,377000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1090012/000156459019014637/,
+Devon Energy,DVN,2019Q1,2019-03-31,분기말 자산총계,18077000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1090012/000156459019014637/,
+Devon Energy,DVN,2019Q1,2019-03-31,분기말 부채총계,10220000000,USD,계산(부채및자본-총자본),https://www.sec.gov/Archives/edgar/data/1090012/000156459019014637/,부채및자본 18077000000 − 총자본 7857000000
+Devon Energy,DVN,2019Q1,2019-03-31,분기말 총자본(자기자본),7857000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1090012/000156459019014637/,
+Devon Energy,DVN,2019Q1,2019-03-31,분기말 지배지분 자본,7857000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1090012/000156459019014637/,
 Devon Energy,DVN,2019Q1,2019-03-29,분기말 종가,31.56,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/DVN?interval=1d&events=splits (2019-03-29),
-Devon Energy,DVN,2019Q1,2019-04-17,분기말 상장주식수,415200000,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/1090012/000156459019014637/,dei:EntityCommonStockSharesOutstanding 클래스 합 ; 값은 XBRL 원문(companyfacts 미반영 보고서)
-Devon Energy,DVN,2019Q1,2019-03-29,분기말 시가총액,13103712000,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/DVN?interval=1d&events=splits (2019-03-29) ; https://www.sec.gov/Archives/edgar/data/1090012/000156459019014637/,종가 31.56 × 주식수 415200000 ; 값은 XBRL 원문(companyfacts 미반영 보고서)
+Devon Energy,DVN,2019Q1,2019-04-17,분기말 상장주식수,415200000,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/1090012/000156459019014637/,dei:EntityCommonStockSharesOutstanding 클래스 합
+Devon Energy,DVN,2019Q1,2019-03-29,분기말 시가총액,13103712000,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/DVN?interval=1d&events=splits (2019-03-29) ; https://www.sec.gov/Archives/edgar/data/1090012/000156459019014637/,종가 31.56 × 주식수 415200000
 Devon Energy,DVN,2019Q2,2019-06-30,분기별 매출액,1921000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1090012/000156459019029786/,
 Devon Energy,DVN,2019Q2,2019-06-30,분기별 영업이익,미확인,USD,미확인,SEC companyfacts CIK0001090012: 해당 보고서에 OperatingIncomeLoss 태그 없음(영업이익 미공시) ; https://www.sec.gov/Archives/edgar/data/1090012/000156459019029786/,
 Devon Energy,DVN,2019Q2,2019-06-30,분기별 당기순이익(지배),495000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1090012/000156459019029786/,
-Devon Energy,DVN,2019Q2,2019-06-30,분기별 영업활동현금흐름,589000000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/1090012/000156459019029786/ ; https://www.sec.gov/Archives/edgar/data/1090012/000156459019014637/,누적 966000000 − 직전누적 377000000 (시작 2019-01-01) ; 값은 XBRL 원문(companyfacts 미반영 보고서)
+Devon Energy,DVN,2019Q2,2019-06-30,분기별 영업활동현금흐름,589000000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/1090012/000156459019029786/ ; https://www.sec.gov/Archives/edgar/data/1090012/000156459019014637/,누적 966000000 − 직전누적 377000000 (시작 2019-01-01)
 Devon Energy,DVN,2019Q2,2019-06-30,분기말 자산총계,16649000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1090012/000156459019029786/,
 Devon Energy,DVN,2019Q2,2019-06-30,분기말 부채총계,9655000000,USD,계산(부채및자본-총자본),https://www.sec.gov/Archives/edgar/data/1090012/000156459019029786/,부채및자본 16649000000 − 총자본 6994000000
 Devon Energy,DVN,2019Q2,2019-06-30,분기말 총자본(자기자본),6994000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1090012/000156459019029786/,
@@ -4619,21 +4619,21 @@ Devon Energy,DVN,2026Q2,2026-06-30,분기말 지배지분 자본,41747000000,USD
 Devon Energy,DVN,2026Q2,2026-06-30,분기말 종가,41.32,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/DVN?interval=1d&events=splits (2026-06-30),
 Devon Energy,DVN,2026Q2,2026-07-22,분기말 상장주식수,1100000000,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/1090012/000119312526334340/,dei:EntityCommonStockSharesOutstanding 클래스 합
 Devon Energy,DVN,2026Q2,2026-06-30,분기말 시가총액,45452000000,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/DVN?interval=1d&events=splits (2026-06-30) ; https://www.sec.gov/Archives/edgar/data/1090012/000119312526334340/,종가 41.32 × 주식수 1100000000
-Sempra,SRE,2019Q1,2019-03-31,분기별 매출액,2898000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1032208/000008652119000035/,값은 XBRL 원문(companyfacts 미반영 보고서)
+Sempra,SRE,2019Q1,2019-03-31,분기별 매출액,2898000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1032208/000008652119000035/,
 Sempra,SRE,2019Q1,2019-03-31,분기별 영업이익,미확인,USD,미확인,SEC companyfacts CIK0001032208: 해당 보고서에 OperatingIncomeLoss 태그 없음(영업이익 미공시) ; SEC companyfacts CIK0001032208: OperatingIncomeLoss 태그 없음(영업이익 미공시),
-Sempra,SRE,2019Q1,2019-03-31,분기별 당기순이익(지배),477000000,USD,계산(연결-비지배),https://www.sec.gov/Archives/edgar/data/1032208/000008652119000035/,3개월 연결 518000000 − 비지배 41000000 ; 값은 XBRL 원문(companyfacts 미반영 보고서)
-Sempra,SRE,2019Q1,2019-03-31,분기별 영업활동현금흐름,951000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1032208/000008652119000035/,값은 XBRL 원문(companyfacts 미반영 보고서)
-Sempra,SRE,2019Q1,2019-03-31,분기말 자산총계,61618000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1032208/000008652119000035/,값은 XBRL 원문(companyfacts 미반영 보고서)
-Sempra,SRE,2019Q1,2019-03-31,분기말 부채총계,42148000000,USD,계산(부채및자본-총자본),https://www.sec.gov/Archives/edgar/data/1032208/000008652119000035/,부채및자본 61618000000 − 총자본 19470000000 ; 값은 XBRL 원문(companyfacts 미반영 보고서)
-Sempra,SRE,2019Q1,2019-03-31,분기말 총자본(자기자본),19470000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1032208/000008652119000035/,비지배지분 태그 없음: 총자본 − 지배 = 2124000000로 봄 ; 값은 XBRL 원문(companyfacts 미반영 보고서)
-Sempra,SRE,2019Q1,2019-03-31,분기말 지배지분 자본,17346000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1032208/000008652119000035/,비지배지분 태그 없음: 총자본 − 지배 = 2124000000로 봄 ; 값은 XBRL 원문(companyfacts 미반영 보고서)
+Sempra,SRE,2019Q1,2019-03-31,분기별 당기순이익(지배),477000000,USD,계산(연결-비지배),https://www.sec.gov/Archives/edgar/data/1032208/000008652119000035/,3개월 연결 518000000 − 비지배 41000000
+Sempra,SRE,2019Q1,2019-03-31,분기별 영업활동현금흐름,951000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1032208/000008652119000035/,
+Sempra,SRE,2019Q1,2019-03-31,분기말 자산총계,61618000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1032208/000008652119000035/,
+Sempra,SRE,2019Q1,2019-03-31,분기말 부채총계,42148000000,USD,계산(부채및자본-총자본),https://www.sec.gov/Archives/edgar/data/1032208/000008652119000035/,부채및자본 61618000000 − 총자본 19470000000
+Sempra,SRE,2019Q1,2019-03-31,분기말 총자본(자기자본),19470000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1032208/000008652119000035/,비지배지분 태그 없음: 총자본 − 지배 = 2124000000로 봄
+Sempra,SRE,2019Q1,2019-03-31,분기말 지배지분 자본,17346000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1032208/000008652119000035/,비지배지분 태그 없음: 총자본 − 지배 = 2124000000로 봄
 Sempra,SRE,2019Q1,2019-03-29,분기말 종가,125.86,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/SRE?interval=1d&events=splits (2019-03-29),분할조정 종가 62.93 × 이후 분할계수 2
-Sempra,SRE,2019Q1,2019-05-02,분기말 상장주식수,274388245,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/1032208/000008652119000035/,dei:EntityCommonStockSharesOutstanding 클래스 합 ; 값은 XBRL 원문(companyfacts 미반영 보고서)
-Sempra,SRE,2019Q1,2019-03-29,분기말 시가총액,34534504516,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/SRE?interval=1d&events=splits (2019-03-29) ; https://www.sec.gov/Archives/edgar/data/1032208/000008652119000035/,종가 125.86 × 주식수 274388245 ; 값은 XBRL 원문(companyfacts 미반영 보고서)
+Sempra,SRE,2019Q1,2019-05-02,분기말 상장주식수,274388245,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/1032208/000008652119000035/,dei:EntityCommonStockSharesOutstanding 클래스 합
+Sempra,SRE,2019Q1,2019-03-29,분기말 시가총액,34534504516,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/SRE?interval=1d&events=splits (2019-03-29) ; https://www.sec.gov/Archives/edgar/data/1032208/000008652119000035/,종가 125.86 × 주식수 274388245
 Sempra,SRE,2019Q2,2019-06-30,분기별 매출액,2230000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1032208/000103220819000016/,
 Sempra,SRE,2019Q2,2019-06-30,분기별 영업이익,미확인,USD,미확인,SEC companyfacts CIK0001032208: 해당 보고서에 OperatingIncomeLoss 태그 없음(영업이익 미공시) ; SEC companyfacts CIK0001032208: OperatingIncomeLoss 태그 없음(영업이익 미공시),
 Sempra,SRE,2019Q2,2019-06-30,분기별 당기순이익(지배),390000000,USD,계산(연결-비지배),https://www.sec.gov/Archives/edgar/data/1032208/000103220819000016/,3개월 연결 435000000 − 비지배 45000000
-Sempra,SRE,2019Q2,2019-06-30,분기별 영업활동현금흐름,753000000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/1032208/000103220819000016/ ; https://www.sec.gov/Archives/edgar/data/1032208/000008652119000035/,누적 1704000000 − 직전누적 951000000 (시작 2019-01-01) ; 값은 XBRL 원문(companyfacts 미반영 보고서)
+Sempra,SRE,2019Q2,2019-06-30,분기별 영업활동현금흐름,753000000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/1032208/000103220819000016/ ; https://www.sec.gov/Archives/edgar/data/1032208/000008652119000035/,누적 1704000000 − 직전누적 951000000 (시작 2019-01-01)
 Sempra,SRE,2019Q2,2019-06-30,분기말 자산총계,62727000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1032208/000103220819000016/,
 Sempra,SRE,2019Q2,2019-06-30,분기말 부채총계,43293000000,USD,계산(부채및자본-총자본),https://www.sec.gov/Archives/edgar/data/1032208/000103220819000016/,부채및자본 62727000000 − 총자본 19434000000
 Sempra,SRE,2019Q2,2019-06-30,분기말 총자본(자기자본),19434000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1032208/000103220819000016/,비지배지분 태그 없음: 총자본 − 지배 = 1994000000로 봄
@@ -5279,21 +5279,21 @@ Garmin,GRMN,2026Q2,2026-06-27,분기말 지배지분 자본,9029013000,USD,공�
 Garmin,GRMN,2026Q2,2026-06-26,분기말 종가,232.51,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/GRMN?interval=1d&events=splits (2026-06-26),
 Garmin,GRMN,2026Q2,2026-07-24,분기말 상장주식수,192852536,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/1121788/000119312526322114/,dei:EntityCommonStockSharesOutstanding 클래스 합 ; 값은 XBRL 원문(companyfacts 미반영 보고서)
 Garmin,GRMN,2026Q2,2026-06-26,분기말 시가총액,44840143145,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/GRMN?interval=1d&events=splits (2026-06-26) ; https://www.sec.gov/Archives/edgar/data/1121788/000119312526322114/,종가 232.51 × 주식수 192852536 ; 값은 XBRL 원문(companyfacts 미반영 보고서)
-NIKE,NKE,2019Q1,2019-02-28,분기별 매출액,9611000000,USD,공시,https://www.sec.gov/Archives/edgar/data/320187/000032018719000030/,값은 XBRL 원문(companyfacts 미반영 보고서)
+NIKE,NKE,2019Q1,2019-02-28,분기별 매출액,9611000000,USD,공시,https://www.sec.gov/Archives/edgar/data/320187/000032018719000030/,
 NIKE,NKE,2019Q1,2019-02-28,분기별 영업이익,미확인,USD,미확인,SEC companyfacts CIK0000320187: 해당 보고서에 OperatingIncomeLoss 태그 없음(영업이익 미공시) ; SEC companyfacts CIK0000320187: OperatingIncomeLoss 태그 없음(영업이익 미공시),
-NIKE,NKE,2019Q1,2019-02-28,분기별 당기순이익(지배),1101000000,USD,공시,https://www.sec.gov/Archives/edgar/data/320187/000032018719000030/,값은 XBRL 원문(companyfacts 미반영 보고서)
-NIKE,NKE,2019Q1,2019-02-28,분기별 영업활동현금흐름,1068000000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/320187/000032018719000030/ ; https://www.sec.gov/Archives/edgar/data/320187/000032018719000007/,누적 3893000000 − 직전누적 2825000000 (시작 2018-06-01) ; 값은 XBRL 원문(companyfacts 미반영 보고서)
-NIKE,NKE,2019Q1,2019-02-28,분기말 자산총계,22921000000,USD,공시,https://www.sec.gov/Archives/edgar/data/320187/000032018719000030/,값은 XBRL 원문(companyfacts 미반영 보고서)
-NIKE,NKE,2019Q1,2019-02-28,분기말 부채총계,13960000000,USD,계산(부채및자본-총자본),https://www.sec.gov/Archives/edgar/data/320187/000032018719000030/,부채및자본 22921000000 − 총자본 8961000000 ; 값은 XBRL 원문(companyfacts 미반영 보고서)
-NIKE,NKE,2019Q1,2019-02-28,분기말 총자본(자기자본),8961000000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/320187/000032018719000030/,"StockholdersEquity, MinorityInterest 태그 없음 ; 값은 XBRL 원문(companyfacts 미반영 보고서)"
-NIKE,NKE,2019Q1,2019-02-28,분기말 지배지분 자본,8961000000,USD,공시,https://www.sec.gov/Archives/edgar/data/320187/000032018719000030/,값은 XBRL 원문(companyfacts 미반영 보고서)
+NIKE,NKE,2019Q1,2019-02-28,분기별 당기순이익(지배),1101000000,USD,공시,https://www.sec.gov/Archives/edgar/data/320187/000032018719000030/,
+NIKE,NKE,2019Q1,2019-02-28,분기별 영업활동현금흐름,1068000000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/320187/000032018719000030/ ; https://www.sec.gov/Archives/edgar/data/320187/000032018719000007/,누적 3893000000 − 직전누적 2825000000 (시작 2018-06-01)
+NIKE,NKE,2019Q1,2019-02-28,분기말 자산총계,22921000000,USD,공시,https://www.sec.gov/Archives/edgar/data/320187/000032018719000030/,
+NIKE,NKE,2019Q1,2019-02-28,분기말 부채총계,13960000000,USD,계산(부채및자본-총자본),https://www.sec.gov/Archives/edgar/data/320187/000032018719000030/,부채및자본 22921000000 − 총자본 8961000000
+NIKE,NKE,2019Q1,2019-02-28,분기말 총자본(자기자본),8961000000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/320187/000032018719000030/,"StockholdersEquity, MinorityInterest 태그 없음"
+NIKE,NKE,2019Q1,2019-02-28,분기말 지배지분 자본,8961000000,USD,공시,https://www.sec.gov/Archives/edgar/data/320187/000032018719000030/,
 NIKE,NKE,2019Q1,2019-02-28,분기말 종가,85.73,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/NKE?interval=1d&events=splits (2019-02-28),
-NIKE,NKE,2019Q1,2019-04-01,분기말 상장주식수,1571749591,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/320187/000032018719000030/,"XBRL 원문 dei:EntityCommonStockSharesOutstanding 2개 클래스 합 ; 값은 XBRL 원문(companyfacts 미반영 보고서) ; 클래스별(2019-04-01): CommonClassAMember 315024752, CommonClassBMember 1256724839"
-NIKE,NKE,2019Q1,2019-02-28,분기말 시가총액,134746092436,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/NKE?interval=1d&events=splits (2019-02-28) ; https://www.sec.gov/Archives/edgar/data/320187/000032018719000030/,종가 85.73 × 주식수 1571749591 ; 값은 XBRL 원문(companyfacts 미반영 보고서)
-NIKE,NKE,2019Q2,2019-05-31,분기별 매출액,10184000000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/320187/000032018719000051/ ; https://www.sec.gov/Archives/edgar/data/320187/000032018719000030/,연간 39117000000 − 9개월누적 28933000000 (RevenueFromContractWithCustomerExcludingAssessedTax) ; 값은 XBRL 원문(companyfacts 미반영 보고서)
+NIKE,NKE,2019Q1,2019-04-01,분기말 상장주식수,1571749591,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/320187/000032018719000030/,"XBRL 원문 dei:EntityCommonStockSharesOutstanding 2개 클래스 합 ; 클래스별(2019-04-01): CommonClassAMember 315024752, CommonClassBMember 1256724839"
+NIKE,NKE,2019Q1,2019-02-28,분기말 시가총액,134746092436,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/NKE?interval=1d&events=splits (2019-02-28) ; https://www.sec.gov/Archives/edgar/data/320187/000032018719000030/,종가 85.73 × 주식수 1571749591
+NIKE,NKE,2019Q2,2019-05-31,분기별 매출액,10184000000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/320187/000032018719000051/ ; https://www.sec.gov/Archives/edgar/data/320187/000032018719000030/,연간 39117000000 − 9개월누적 28933000000 (RevenueFromContractWithCustomerExcludingAssessedTax)
 NIKE,NKE,2019Q2,2019-05-31,분기별 영업이익,미확인,USD,미확인,SEC companyfacts CIK0000320187: 해당 보고서에 OperatingIncomeLoss 태그 없음(영업이익 미공시) ; SEC companyfacts CIK0000320187: OperatingIncomeLoss 태그 없음(영업이익 미공시),
-NIKE,NKE,2019Q2,2019-05-31,분기별 당기순이익(지배),989000000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/320187/000032018719000051/ ; https://www.sec.gov/Archives/edgar/data/320187/000032018719000030/,연간 4029000000 − 9개월누적 3040000000 (NetIncomeLoss) ; 값은 XBRL 원문(companyfacts 미반영 보고서)
-NIKE,NKE,2019Q2,2019-05-31,분기별 영업활동현금흐름,2010000000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/320187/000032018719000051/ ; https://www.sec.gov/Archives/edgar/data/320187/000032018719000030/,누적 5903000000 − 직전누적 3893000000 (시작 2018-06-01) ; 값은 XBRL 원문(companyfacts 미반영 보고서)
+NIKE,NKE,2019Q2,2019-05-31,분기별 당기순이익(지배),989000000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/320187/000032018719000051/ ; https://www.sec.gov/Archives/edgar/data/320187/000032018719000030/,연간 4029000000 − 9개월누적 3040000000 (NetIncomeLoss)
+NIKE,NKE,2019Q2,2019-05-31,분기별 영업활동현금흐름,2010000000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/320187/000032018719000051/ ; https://www.sec.gov/Archives/edgar/data/320187/000032018719000030/,누적 5903000000 − 직전누적 3893000000 (시작 2018-06-01)
 NIKE,NKE,2019Q2,2019-05-31,분기말 자산총계,23717000000,USD,공시,https://www.sec.gov/Archives/edgar/data/320187/000032018719000051/,
 NIKE,NKE,2019Q2,2019-05-31,분기말 부채총계,14677000000,USD,계산(부채및자본-총자본),https://www.sec.gov/Archives/edgar/data/320187/000032018719000051/,부채및자본 23717000000 − 총자본 9040000000
 NIKE,NKE,2019Q2,2019-05-31,분기말 총자본(자기자본),9040000000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/320187/000032018719000051/,"StockholdersEquity, MinorityInterest 태그 없음"
@@ -5609,21 +5609,21 @@ NIKE,NKE,2026Q2,2026-05-31,분기말 지배지분 자본,14865000000,USD,공시,
 NIKE,NKE,2026Q2,2026-05-29,분기말 종가,46.23,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/NKE?interval=1d&events=splits (2026-05-29),
 NIKE,NKE,2026Q2,2026-07-08,분기말 상장주식수,1483498703,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/320187/000032018726000088/,"XBRL 원문 dei:EntityCommonStockSharesOutstanding 2개 클래스 합 ; 클래스별(2026-07-08): CommonClassAMember 281387752, CommonClassBMember 1202110951"
 NIKE,NKE,2026Q2,2026-05-29,분기말 시가총액,68582145040,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/NKE?interval=1d&events=splits (2026-05-29) ; https://www.sec.gov/Archives/edgar/data/320187/000032018726000088/,종가 46.23 × 주식수 1483498703
-Ford Motor,F,2019Q1,2019-03-31,분기별 매출액,40342000000,USD,공시,https://www.sec.gov/Archives/edgar/data/37996/000003799619000026/,값은 XBRL 원문(companyfacts 미반영 보고서)
+Ford Motor,F,2019Q1,2019-03-31,분기별 매출액,40342000000,USD,공시,https://www.sec.gov/Archives/edgar/data/37996/000003799619000026/,
 Ford Motor,F,2019Q1,2019-03-31,분기별 영업이익,1202000000,USD,공시(후속 보고서 비교기간),https://www.sec.gov/Archives/edgar/data/37996/000003799620000041/,OperatingIncomeLoss ; 그 분기 보고서에 연결 총계가 없어 2020-04-29 제출본의 비교기간에서 읽었다
-Ford Motor,F,2019Q1,2019-03-31,분기별 당기순이익(지배),1146000000,USD,계산(연결-비지배),https://www.sec.gov/Archives/edgar/data/37996/000003799619000026/,3개월 연결 1183000000 − 비지배 37000000 ; 값은 XBRL 원문(companyfacts 미반영 보고서)
-Ford Motor,F,2019Q1,2019-03-31,분기별 영업활동현금흐름,3544000000,USD,공시,https://www.sec.gov/Archives/edgar/data/37996/000003799619000026/,값은 XBRL 원문(companyfacts 미반영 보고서)
-Ford Motor,F,2019Q1,2019-03-31,분기말 자산총계,263281000000,USD,공시,https://www.sec.gov/Archives/edgar/data/37996/000003799619000026/,값은 XBRL 원문(companyfacts 미반영 보고서)
-Ford Motor,F,2019Q1,2019-03-31,분기말 부채총계,226712000000,USD,공시,https://www.sec.gov/Archives/edgar/data/37996/000003799619000026/,메자닌(일시자본) 135000000 별도 ; 값은 XBRL 원문(companyfacts 미반영 보고서)
-Ford Motor,F,2019Q1,2019-03-31,분기말 총자본(자기자본),36434000000,USD,공시,https://www.sec.gov/Archives/edgar/data/37996/000003799619000026/,값은 XBRL 원문(companyfacts 미반영 보고서)
-Ford Motor,F,2019Q1,2019-03-31,분기말 지배지분 자본,36398000000,USD,공시,https://www.sec.gov/Archives/edgar/data/37996/000003799619000026/,값은 XBRL 원문(companyfacts 미반영 보고서)
+Ford Motor,F,2019Q1,2019-03-31,분기별 당기순이익(지배),1146000000,USD,계산(연결-비지배),https://www.sec.gov/Archives/edgar/data/37996/000003799619000026/,3개월 연결 1183000000 − 비지배 37000000
+Ford Motor,F,2019Q1,2019-03-31,분기별 영업활동현금흐름,3544000000,USD,공시,https://www.sec.gov/Archives/edgar/data/37996/000003799619000026/,
+Ford Motor,F,2019Q1,2019-03-31,분기말 자산총계,263281000000,USD,공시,https://www.sec.gov/Archives/edgar/data/37996/000003799619000026/,
+Ford Motor,F,2019Q1,2019-03-31,분기말 부채총계,226712000000,USD,공시,https://www.sec.gov/Archives/edgar/data/37996/000003799619000026/,메자닌(일시자본) 135000000 별도
+Ford Motor,F,2019Q1,2019-03-31,분기말 총자본(자기자본),36434000000,USD,공시,https://www.sec.gov/Archives/edgar/data/37996/000003799619000026/,
+Ford Motor,F,2019Q1,2019-03-31,분기말 지배지분 자본,36398000000,USD,공시,https://www.sec.gov/Archives/edgar/data/37996/000003799619000026/,
 Ford Motor,F,2019Q1,2019-03-29,분기말 종가,8.78,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/F?interval=1d&events=splits (2019-03-29),
-Ford Motor,F,2019Q1,2019-04-19,분기말 상장주식수,3989545901,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/37996/000003799619000026/,"XBRL 원문 dei:EntityCommonStockSharesOutstanding 2개 클래스 합 ; 값은 XBRL 원문(companyfacts 미반영 보고서) ; 클래스별(2019-04-19): CommonClassBMember 70852076, CommonStockMember 3918693825"
-Ford Motor,F,2019Q1,2019-03-29,분기말 시가총액,35028213011,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/F?interval=1d&events=splits (2019-03-29) ; https://www.sec.gov/Archives/edgar/data/37996/000003799619000026/,종가 8.78 × 주식수 3989545901 ; 값은 XBRL 원문(companyfacts 미반영 보고서)
+Ford Motor,F,2019Q1,2019-04-19,분기말 상장주식수,3989545901,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/37996/000003799619000026/,"XBRL 원문 dei:EntityCommonStockSharesOutstanding 2개 클래스 합 ; 클래스별(2019-04-19): CommonClassBMember 70852076, CommonStockMember 3918693825"
+Ford Motor,F,2019Q1,2019-03-29,분기말 시가총액,35028213011,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/F?interval=1d&events=splits (2019-03-29) ; https://www.sec.gov/Archives/edgar/data/37996/000003799619000026/,종가 8.78 × 주식수 3989545901
 Ford Motor,F,2019Q2,2019-06-30,분기별 매출액,38853000000,USD,공시,https://www.sec.gov/Archives/edgar/data/37996/000003799619000067/,
 Ford Motor,F,2019Q2,2019-06-30,분기별 영업이익,90000000,USD,공시(후속 보고서 비교기간),https://www.sec.gov/Archives/edgar/data/37996/000003799620000057/,OperatingIncomeLoss ; 그 분기 보고서에 연결 총계가 없어 2020-07-31 제출본의 비교기간에서 읽었다
 Ford Motor,F,2019Q2,2019-06-30,분기별 당기순이익(지배),148000000,USD,계산(연결-비지배),https://www.sec.gov/Archives/edgar/data/37996/000003799619000067/,3개월 연결 150000000 − 비지배 2000000
-Ford Motor,F,2019Q2,2019-06-30,분기별 영업활동현금흐름,6463000000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/37996/000003799619000067/ ; https://www.sec.gov/Archives/edgar/data/37996/000003799619000026/,누적 10007000000 − 직전누적 3544000000 (시작 2019-01-01) ; 값은 XBRL 원문(companyfacts 미반영 보고서)
+Ford Motor,F,2019Q2,2019-06-30,분기별 영업활동현금흐름,6463000000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/37996/000003799619000067/ ; https://www.sec.gov/Archives/edgar/data/37996/000003799619000026/,누적 10007000000 − 직전누적 3544000000 (시작 2019-01-01)
 Ford Motor,F,2019Q2,2019-06-30,분기말 자산총계,262184000000,USD,공시,https://www.sec.gov/Archives/edgar/data/37996/000003799619000067/,
 Ford Motor,F,2019Q2,2019-06-30,분기말 부채총계,226048000000,USD,공시,https://www.sec.gov/Archives/edgar/data/37996/000003799619000067/,
 Ford Motor,F,2019Q2,2019-06-30,분기말 총자본(자기자본),36136000000,USD,공시,https://www.sec.gov/Archives/edgar/data/37996/000003799619000067/,

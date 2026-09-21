@@ -1649,21 +1649,21 @@ Paychex,PAYX,2026Q2,2026-05-31,분기말 지배지분 자본,3735100000,USD,공�
 Paychex,PAYX,2026Q2,2026-05-29,분기말 종가,96.98,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/PAYX?interval=1d&events=splits (2026-05-29),
 Paychex,PAYX,2026Q2,2026-06-30,분기말 상장주식수,355682860,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/723531/000119312526307785/,dei:EntityCommonStockSharesOutstanding 클래스 합
 Paychex,PAYX,2026Q2,2026-05-29,분기말 시가총액,34494123763,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/PAYX?interval=1d&events=splits (2026-05-29) ; https://www.sec.gov/Archives/edgar/data/723531/000119312526307785/,종가 96.98 × 주식수 355682860
-Archer-Daniels-Midland,ADM,2019Q1,2019-03-31,분기별 매출액,15304000000,USD,공시,https://www.sec.gov/Archives/edgar/data/7084/000000708419000018/,값은 XBRL 원문(companyfacts 미반영 보고서)
+Archer-Daniels-Midland,ADM,2019Q1,2019-03-31,분기별 매출액,15304000000,USD,공시,https://www.sec.gov/Archives/edgar/data/7084/000000708419000018/,
 Archer-Daniels-Midland,ADM,2019Q1,2019-03-31,분기별 영업이익,미확인,USD,미확인,SEC companyfacts CIK0000007084: 해당 보고서에 OperatingIncomeLoss 태그 없음(영업이익 미공시) ; SEC companyfacts CIK0000007084: OperatingIncomeLoss 태그 없음(영업이익 미공시),
-Archer-Daniels-Midland,ADM,2019Q1,2019-03-31,분기별 당기순이익(지배),233000000,USD,공시,https://www.sec.gov/Archives/edgar/data/7084/000000708419000018/,값은 XBRL 원문(companyfacts 미반영 보고서)
-Archer-Daniels-Midland,ADM,2019Q1,2019-03-31,분기별 영업활동현금흐름,-2035000000,USD,공시,https://www.sec.gov/Archives/edgar/data/7084/000000708419000018/,값은 XBRL 원문(companyfacts 미반영 보고서)
-Archer-Daniels-Midland,ADM,2019Q1,2019-03-31,분기말 자산총계,43151000000,USD,공시,https://www.sec.gov/Archives/edgar/data/7084/000000708419000018/,값은 XBRL 원문(companyfacts 미반영 보고서)
-Archer-Daniels-Midland,ADM,2019Q1,2019-03-31,분기말 부채총계,24192000000,USD,계산(부채및자본-총자본),https://www.sec.gov/Archives/edgar/data/7084/000000708419000018/,부채및자본 43151000000 − 총자본 18910000000 − 메자닌 49000000 ; 메자닌(일시자본) 49000000 별도 ; 값은 XBRL 원문(companyfacts 미반영 보고서)
-Archer-Daniels-Midland,ADM,2019Q1,2019-03-31,분기말 총자본(자기자본),18910000000,USD,공시,https://www.sec.gov/Archives/edgar/data/7084/000000708419000018/,값은 XBRL 원문(companyfacts 미반영 보고서)
-Archer-Daniels-Midland,ADM,2019Q1,2019-03-31,분기말 지배지분 자본,18895000000,USD,계산(총자본-비지배),https://www.sec.gov/Archives/edgar/data/7084/000000708419000018/,총자본 18910000000 − 비지배 15000000 ; 값은 XBRL 원문(companyfacts 미반영 보고서)
+Archer-Daniels-Midland,ADM,2019Q1,2019-03-31,분기별 당기순이익(지배),233000000,USD,공시,https://www.sec.gov/Archives/edgar/data/7084/000000708419000018/,
+Archer-Daniels-Midland,ADM,2019Q1,2019-03-31,분기별 영업활동현금흐름,-2035000000,USD,공시,https://www.sec.gov/Archives/edgar/data/7084/000000708419000018/,
+Archer-Daniels-Midland,ADM,2019Q1,2019-03-31,분기말 자산총계,43151000000,USD,공시,https://www.sec.gov/Archives/edgar/data/7084/000000708419000018/,
+Archer-Daniels-Midland,ADM,2019Q1,2019-03-31,분기말 부채총계,24192000000,USD,계산(부채및자본-총자본),https://www.sec.gov/Archives/edgar/data/7084/000000708419000018/,부채및자본 43151000000 − 총자본 18910000000 − 메자닌 49000000 ; 메자닌(일시자본) 49000000 별도
+Archer-Daniels-Midland,ADM,2019Q1,2019-03-31,분기말 총자본(자기자본),18910000000,USD,공시,https://www.sec.gov/Archives/edgar/data/7084/000000708419000018/,
+Archer-Daniels-Midland,ADM,2019Q1,2019-03-31,분기말 지배지분 자본,18895000000,USD,계산(총자본-비지배),https://www.sec.gov/Archives/edgar/data/7084/000000708419000018/,총자본 18910000000 − 비지배 15000000
 Archer-Daniels-Midland,ADM,2019Q1,2019-03-29,분기말 종가,43.13,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/ADM?interval=1d&events=splits (2019-03-29),
-Archer-Daniels-Midland,ADM,2019Q1,2019-04-25,분기말 상장주식수,560165196,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/7084/000000708419000018/,dei:EntityCommonStockSharesOutstanding 클래스 합 ; 값은 XBRL 원문(companyfacts 미반영 보고서)
-Archer-Daniels-Midland,ADM,2019Q1,2019-03-29,분기말 시가총액,24159924903,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/ADM?interval=1d&events=splits (2019-03-29) ; https://www.sec.gov/Archives/edgar/data/7084/000000708419000018/,종가 43.13 × 주식수 560165196 ; 값은 XBRL 원문(companyfacts 미반영 보고서)
+Archer-Daniels-Midland,ADM,2019Q1,2019-04-25,분기말 상장주식수,560165196,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/7084/000000708419000018/,dei:EntityCommonStockSharesOutstanding 클래스 합
+Archer-Daniels-Midland,ADM,2019Q1,2019-03-29,분기말 시가총액,24159924903,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/ADM?interval=1d&events=splits (2019-03-29) ; https://www.sec.gov/Archives/edgar/data/7084/000000708419000018/,종가 43.13 × 주식수 560165196
 Archer-Daniels-Midland,ADM,2019Q2,2019-06-30,분기별 매출액,16297000000,USD,공시,https://www.sec.gov/Archives/edgar/data/7084/000000708419000028/,
 Archer-Daniels-Midland,ADM,2019Q2,2019-06-30,분기별 영업이익,미확인,USD,미확인,SEC companyfacts CIK0000007084: 해당 보고서에 OperatingIncomeLoss 태그 없음(영업이익 미공시) ; SEC companyfacts CIK0000007084: OperatingIncomeLoss 태그 없음(영업이익 미공시),
 Archer-Daniels-Midland,ADM,2019Q2,2019-06-30,분기별 당기순이익(지배),235000000,USD,공시,https://www.sec.gov/Archives/edgar/data/7084/000000708419000028/,
-Archer-Daniels-Midland,ADM,2019Q2,2019-06-30,분기별 영업활동현금흐름,-678000000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/7084/000000708419000028/ ; https://www.sec.gov/Archives/edgar/data/7084/000000708419000018/,누적 -2713000000 − 직전누적 -2035000000 (시작 2019-01-01) ; 값은 XBRL 원문(companyfacts 미반영 보고서)
+Archer-Daniels-Midland,ADM,2019Q2,2019-06-30,분기별 영업활동현금흐름,-678000000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/7084/000000708419000028/ ; https://www.sec.gov/Archives/edgar/data/7084/000000708419000018/,누적 -2713000000 − 직전누적 -2035000000 (시작 2019-01-01)
 Archer-Daniels-Midland,ADM,2019Q2,2019-06-30,분기말 자산총계,42616000000,USD,공시,https://www.sec.gov/Archives/edgar/data/7084/000000708419000028/,
 Archer-Daniels-Midland,ADM,2019Q2,2019-06-30,분기말 부채총계,23584000000,USD,계산(부채및자본-총자본),https://www.sec.gov/Archives/edgar/data/7084/000000708419000028/,부채및자본 42616000000 − 총자본 18979000000 − 메자닌 53000000 ; 메자닌(일시자본) 53000000 별도
 Archer-Daniels-Midland,ADM,2019Q2,2019-06-30,분기말 총자본(자기자본),18979000000,USD,공시,https://www.sec.gov/Archives/edgar/data/7084/000000708419000028/,
@@ -2639,17 +2639,17 @@ MSCI,MSCI,2026Q2,2026-06-30,분기말 지배지분 자본,-2689500000,USD,공시
 MSCI,MSCI,2026Q2,2026-06-30,분기말 종가,560.04,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/MSCI?interval=1d&events=splits (2026-06-30),
 MSCI,MSCI,2026Q2,2026-07-14,분기말 상장주식수,72700000,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/1408198/000140819826000046/,dei:EntityCommonStockSharesOutstanding 클래스 합
 MSCI,MSCI,2026Q2,2026-06-30,분기말 시가총액,40714908000,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/MSCI?interval=1d&events=splits (2026-06-30) ; https://www.sec.gov/Archives/edgar/data/1408198/000140819826000046/,종가 560.04 × 주식수 72700000
-Flex,FLEX,2019Q1,2019-03-31,분기별 매출액,6131124000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/866374/000086637419000006/ ; https://www.sec.gov/Archives/edgar/data/866374/000086637419000003/,연간 26210511000 − 9개월누적 20079387000 (RevenueFromContractWithCustomerExcludingAssessedTax / 9개월 RevenueFromContractWithCustomerIncludingAssessedTax) ; 값은 XBRL 원문(companyfacts 미반영 보고서)
+Flex,FLEX,2019Q1,2019-03-31,분기별 매출액,6131124000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/866374/000086637419000006/ ; https://www.sec.gov/Archives/edgar/data/866374/000086637419000003/,연간 26210511000 − 9개월누적 20079387000 (RevenueFromContractWithCustomerExcludingAssessedTax / 9개월 RevenueFromContractWithCustomerIncludingAssessedTax)
 Flex,FLEX,2019Q1,2019-03-31,분기별 영업이익,미확인,USD,미확인,https://www.sec.gov/Archives/edgar/data/866374/000086637419000006/,
-Flex,FLEX,2019Q1,2019-03-31,분기별 당기순이익(지배),-64352000,USD,"계산(연간-3분기누적, 비지배 없음)",https://www.sec.gov/Archives/edgar/data/866374/000086637419000006/ ; https://www.sec.gov/Archives/edgar/data/866374/000086637419000003/,연간 93399000 − 9개월누적 157751000 (ProfitLoss) ; 값은 XBRL 원문(companyfacts 미반영 보고서)
-Flex,FLEX,2019Q1,2019-03-31,분기별 영업활동현금흐름,-642419000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/866374/000086637419000006/ ; https://www.sec.gov/Archives/edgar/data/866374/000086637419000003/,누적 -2971024000 − 직전누적 -2328605000 (시작 2018-04-01) ; 값은 XBRL 원문(companyfacts 미반영 보고서)
-Flex,FLEX,2019Q1,2019-03-31,분기말 자산총계,13499367000,USD,공시,https://www.sec.gov/Archives/edgar/data/866374/000086637419000006/,값은 XBRL 원문(companyfacts 미반영 보고서)
-Flex,FLEX,2019Q1,2019-03-31,분기말 부채총계,10527007000,USD,계산(부채및자본-총자본),https://www.sec.gov/Archives/edgar/data/866374/000086637419000006/,부채및자본 13499367000 − 총자본 2972360000 ; 값은 XBRL 원문(companyfacts 미반영 보고서)
-Flex,FLEX,2019Q1,2019-03-31,분기말 총자본(자기자본),2972360000,USD,공시,https://www.sec.gov/Archives/edgar/data/866374/000086637419000006/,값은 XBRL 원문(companyfacts 미반영 보고서)
-Flex,FLEX,2019Q1,2019-03-31,분기말 지배지분 자본,2972360000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/866374/000086637419000006/,"StockholdersEquityIncludingPortionAttributableToNoncontrollingInterest, MinorityInterest 태그 없음 ; 값은 XBRL 원문(companyfacts 미반영 보고서)"
+Flex,FLEX,2019Q1,2019-03-31,분기별 당기순이익(지배),-64352000,USD,"계산(연간-3분기누적, 비지배 없음)",https://www.sec.gov/Archives/edgar/data/866374/000086637419000006/ ; https://www.sec.gov/Archives/edgar/data/866374/000086637419000003/,연간 93399000 − 9개월누적 157751000 (ProfitLoss)
+Flex,FLEX,2019Q1,2019-03-31,분기별 영업활동현금흐름,-642419000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/866374/000086637419000006/ ; https://www.sec.gov/Archives/edgar/data/866374/000086637419000003/,누적 -2971024000 − 직전누적 -2328605000 (시작 2018-04-01)
+Flex,FLEX,2019Q1,2019-03-31,분기말 자산총계,13499367000,USD,공시,https://www.sec.gov/Archives/edgar/data/866374/000086637419000006/,
+Flex,FLEX,2019Q1,2019-03-31,분기말 부채총계,10527007000,USD,계산(부채및자본-총자본),https://www.sec.gov/Archives/edgar/data/866374/000086637419000006/,부채및자본 13499367000 − 총자본 2972360000
+Flex,FLEX,2019Q1,2019-03-31,분기말 총자본(자기자본),2972360000,USD,공시,https://www.sec.gov/Archives/edgar/data/866374/000086637419000006/,
+Flex,FLEX,2019Q1,2019-03-31,분기말 지배지분 자본,2972360000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/866374/000086637419000006/,"StockholdersEquityIncludingPortionAttributableToNoncontrollingInterest, MinorityInterest 태그 없음"
 Flex,FLEX,2019Q1,2019-03-29,분기말 종가,10.0,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/FLEX?interval=1d&events=splits (2019-03-29),분할조정 종가 7.5358 × 이후 분할계수 1.327
-Flex,FLEX,2019Q1,2019-05-13,분기말 상장주식수,514029702,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/866374/000086637419000006/,dei:EntityCommonStockSharesOutstanding 클래스 합 ; 값은 XBRL 원문(companyfacts 미반영 보고서)
-Flex,FLEX,2019Q1,2019-03-29,분기말 시가총액,5140297020,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/FLEX?interval=1d&events=splits (2019-03-29) ; https://www.sec.gov/Archives/edgar/data/866374/000086637419000006/,종가 10.0 × 주식수 514029702 ; 값은 XBRL 원문(companyfacts 미반영 보고서)
+Flex,FLEX,2019Q1,2019-05-13,분기말 상장주식수,514029702,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/866374/000086637419000006/,dei:EntityCommonStockSharesOutstanding 클래스 합
+Flex,FLEX,2019Q1,2019-03-29,분기말 시가총액,5140297020,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/FLEX?interval=1d&events=splits (2019-03-29) ; https://www.sec.gov/Archives/edgar/data/866374/000086637419000006/,종가 10.0 × 주식수 514029702
 Flex,FLEX,2019Q2,2019-06-28,분기별 매출액,6175939000,USD,공시,https://www.sec.gov/Archives/edgar/data/866374/000086637419000010/,
 Flex,FLEX,2019Q2,2019-06-28,분기별 영업이익,미확인,USD,미확인,https://www.sec.gov/Archives/edgar/data/866374/000086637419000010/,
 Flex,FLEX,2019Q2,2019-06-28,분기별 당기순이익(지배),44872000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/866374/000086637419000010/,
@@ -4289,21 +4289,21 @@ NetApp,NTAP,2026Q2,2026-07-31,분기말 지배지분 자본,1495000000,USD,공�
 NetApp,NTAP,2026Q2,2026-07-31,분기말 종가,178.5,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/NTAP?interval=1d&events=splits (2026-07-31),
 NetApp,NTAP,2026Q2,2026-08-28,분기말 상장주식수,196419005,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/1002047/000119312526380207/,dei:EntityCommonStockSharesOutstanding 클래스 합
 NetApp,NTAP,2026Q2,2026-07-31,분기말 시가총액,35060792392,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/NTAP?interval=1d&events=splits (2026-07-31) ; https://www.sec.gov/Archives/edgar/data/1002047/000119312526380207/,종가 178.5 × 주식수 196419005
-D.R. Horton,DHI,2019Q1,2019-03-31,분기별 매출액,4128700000,USD,공시,https://www.sec.gov/Archives/edgar/data/882184/000088218419000096/,값은 XBRL 원문(companyfacts 미반영 보고서)
+D.R. Horton,DHI,2019Q1,2019-03-31,분기별 매출액,4128700000,USD,공시,https://www.sec.gov/Archives/edgar/data/882184/000088218419000096/,
 D.R. Horton,DHI,2019Q1,2019-03-31,분기별 영업이익,미확인,USD,미확인,SEC companyfacts CIK0000882184: 해당 보고서에 OperatingIncomeLoss 태그 없음(영업이익 미공시) ; SEC companyfacts CIK0000882184: OperatingIncomeLoss 태그 없음(영업이익 미공시),
-D.R. Horton,DHI,2019Q1,2019-03-31,분기별 당기순이익(지배),351300000,USD,공시,https://www.sec.gov/Archives/edgar/data/882184/000088218419000096/,값은 XBRL 원문(companyfacts 미반영 보고서)
-D.R. Horton,DHI,2019Q1,2019-03-31,분기별 영업활동현금흐름,-88600000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/882184/000088218419000096/ ; https://www.sec.gov/Archives/edgar/data/882184/000088218419000022/,누적 -461700000 − 직전누적 -373100000 (시작 2018-10-01) ; 값은 XBRL 원문(companyfacts 미반영 보고서)
-D.R. Horton,DHI,2019Q1,2019-03-31,분기말 자산총계,15007000000,USD,공시,https://www.sec.gov/Archives/edgar/data/882184/000088218419000096/,값은 XBRL 원문(companyfacts 미반영 보고서)
-D.R. Horton,DHI,2019Q1,2019-03-31,분기말 부채총계,5473000000,USD,공시,https://www.sec.gov/Archives/edgar/data/882184/000088218419000096/,값은 XBRL 원문(companyfacts 미반영 보고서)
-D.R. Horton,DHI,2019Q1,2019-03-31,분기말 총자본(자기자본),9534000000,USD,공시,https://www.sec.gov/Archives/edgar/data/882184/000088218419000096/,값은 XBRL 원문(companyfacts 미반영 보고서)
-D.R. Horton,DHI,2019Q1,2019-03-31,분기말 지배지분 자본,9360300000,USD,공시,https://www.sec.gov/Archives/edgar/data/882184/000088218419000096/,값은 XBRL 원문(companyfacts 미반영 보고서)
+D.R. Horton,DHI,2019Q1,2019-03-31,분기별 당기순이익(지배),351300000,USD,공시,https://www.sec.gov/Archives/edgar/data/882184/000088218419000096/,
+D.R. Horton,DHI,2019Q1,2019-03-31,분기별 영업활동현금흐름,-88600000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/882184/000088218419000096/ ; https://www.sec.gov/Archives/edgar/data/882184/000088218419000022/,누적 -461700000 − 직전누적 -373100000 (시작 2018-10-01)
+D.R. Horton,DHI,2019Q1,2019-03-31,분기말 자산총계,15007000000,USD,공시,https://www.sec.gov/Archives/edgar/data/882184/000088218419000096/,
+D.R. Horton,DHI,2019Q1,2019-03-31,분기말 부채총계,5473000000,USD,공시,https://www.sec.gov/Archives/edgar/data/882184/000088218419000096/,
+D.R. Horton,DHI,2019Q1,2019-03-31,분기말 총자본(자기자본),9534000000,USD,공시,https://www.sec.gov/Archives/edgar/data/882184/000088218419000096/,
+D.R. Horton,DHI,2019Q1,2019-03-31,분기말 지배지분 자본,9360300000,USD,공시,https://www.sec.gov/Archives/edgar/data/882184/000088218419000096/,
 D.R. Horton,DHI,2019Q1,2019-03-29,분기말 종가,41.38,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/DHI?interval=1d&events=splits (2019-03-29),
-D.R. Horton,DHI,2019Q1,2019-04-24,분기말 상장주식수,373176964,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/882184/000088218419000096/,dei:EntityCommonStockSharesOutstanding 클래스 합 ; 값은 XBRL 원문(companyfacts 미반영 보고서)
-D.R. Horton,DHI,2019Q1,2019-03-29,분기말 시가총액,15442062770,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/DHI?interval=1d&events=splits (2019-03-29) ; https://www.sec.gov/Archives/edgar/data/882184/000088218419000096/,종가 41.38 × 주식수 373176964 ; 값은 XBRL 원문(companyfacts 미반영 보고서)
+D.R. Horton,DHI,2019Q1,2019-04-24,분기말 상장주식수,373176964,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/882184/000088218419000096/,dei:EntityCommonStockSharesOutstanding 클래스 합
+D.R. Horton,DHI,2019Q1,2019-03-29,분기말 시가총액,15442062770,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/DHI?interval=1d&events=splits (2019-03-29) ; https://www.sec.gov/Archives/edgar/data/882184/000088218419000096/,종가 41.38 × 주식수 373176964
 D.R. Horton,DHI,2019Q2,2019-06-30,분기별 매출액,4906300000,USD,공시,https://www.sec.gov/Archives/edgar/data/882184/000088218419000107/,
 D.R. Horton,DHI,2019Q2,2019-06-30,분기별 영업이익,미확인,USD,미확인,SEC companyfacts CIK0000882184: 해당 보고서에 OperatingIncomeLoss 태그 없음(영업이익 미공시) ; SEC companyfacts CIK0000882184: OperatingIncomeLoss 태그 없음(영업이익 미공시),
 D.R. Horton,DHI,2019Q2,2019-06-30,분기별 당기순이익(지배),474800000,USD,공시,https://www.sec.gov/Archives/edgar/data/882184/000088218419000107/,
-D.R. Horton,DHI,2019Q2,2019-06-30,분기별 영업활동현금흐름,542400000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/882184/000088218419000107/ ; https://www.sec.gov/Archives/edgar/data/882184/000088218419000096/,누적 80700000 − 직전누적 -461700000 (시작 2018-10-01) ; 값은 XBRL 원문(companyfacts 미반영 보고서)
+D.R. Horton,DHI,2019Q2,2019-06-30,분기별 영업활동현금흐름,542400000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/882184/000088218419000107/ ; https://www.sec.gov/Archives/edgar/data/882184/000088218419000096/,누적 80700000 − 직전누적 -461700000 (시작 2018-10-01)
 D.R. Horton,DHI,2019Q2,2019-06-30,분기말 자산총계,15224000000,USD,공시,https://www.sec.gov/Archives/edgar/data/882184/000088218419000107/,
 D.R. Horton,DHI,2019Q2,2019-06-30,분기말 부채총계,5409300000,USD,공시,https://www.sec.gov/Archives/edgar/data/882184/000088218419000107/,
 D.R. Horton,DHI,2019Q2,2019-06-30,분기말 총자본(자기자본),9814700000,USD,공시,https://www.sec.gov/Archives/edgar/data/882184/000088218419000107/,

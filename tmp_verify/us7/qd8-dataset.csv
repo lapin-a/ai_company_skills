@@ -1572,17 +1572,17 @@ Sherwin-Williams,SHW,2024Q3,2024-09-30,분기말 지배지분 자본,4156100000,
 Sherwin-Williams,SHW,2024Q3,2024-09-30,분기말 종가,381.67,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/SHW?interval=1d&events=splits (2024-09-30),
 Sherwin-Williams,SHW,2024Q3,2024-09-30,분기말 상장주식수,251853291,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/89800/000008980024000157/,dei:EntityCommonStockSharesOutstanding 클래스 합
 Sherwin-Williams,SHW,2024Q3,2024-09-30,분기말 시가총액,96124845576,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/SHW?interval=1d&events=splits (2024-09-30) ; https://www.sec.gov/Archives/edgar/data/89800/000008980024000157/,종가 381.67 × 주식수 251853291
-Sherwin-Williams,SHW,2024Q4,2024-12-31,분기별 매출액,5297200000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/89800/000008980025000030/ ; https://www.sec.gov/Archives/edgar/data/89800/000008980024000157/,연간 23098500000 − 9개월누적 17801300000 (RevenueFromContractWithCustomerExcludingAssessedTax) ; 값은 XBRL 원문(companyfacts 미반영 보고서)
+Sherwin-Williams,SHW,2024Q4,2024-12-31,분기별 매출액,5297200000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/89800/000008980025000030/ ; https://www.sec.gov/Archives/edgar/data/89800/000008980024000157/,연간 23098500000 − 9개월누적 17801300000 (RevenueFromContractWithCustomerExcludingAssessedTax)
 Sherwin-Williams,SHW,2024Q4,2024-12-31,분기별 영업이익,미확인,USD,미확인,SEC companyfacts CIK0000089800: 해당 보고서에 OperatingIncomeLoss 태그 없음(영업이익 미공시) ; https://www.sec.gov/Archives/edgar/data/89800/000008980025000030/,
-Sherwin-Williams,SHW,2024Q4,2024-12-31,분기별 당기순이익(지배),480100000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/89800/000008980025000030/ ; https://www.sec.gov/Archives/edgar/data/89800/000008980024000157/,연간 2681400000 − 9개월누적 2201300000 (NetIncomeLoss) ; 값은 XBRL 원문(companyfacts 미반영 보고서)
-Sherwin-Williams,SHW,2024Q4,2024-12-31,분기별 영업활동현금흐름,934500000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/89800/000008980025000030/ ; https://www.sec.gov/Archives/edgar/data/89800/000008980024000157/,누적 3153200000 − 직전누적 2218700000 (시작 2024-01-01) ; 값은 XBRL 원문(companyfacts 미반영 보고서)
-Sherwin-Williams,SHW,2024Q4,2024-12-31,분기말 자산총계,23632600000,USD,공시,https://www.sec.gov/Archives/edgar/data/89800/000008980025000030/,값은 XBRL 원문(companyfacts 미반영 보고서)
-Sherwin-Williams,SHW,2024Q4,2024-12-31,분기말 부채총계,19581400000,USD,계산(부채및자본-총자본),https://www.sec.gov/Archives/edgar/data/89800/000008980025000030/,부채및자본 23632600000 − 총자본 4051200000 ; 값은 XBRL 원문(companyfacts 미반영 보고서)
-Sherwin-Williams,SHW,2024Q4,2024-12-31,분기말 총자본(자기자본),4051200000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/89800/000008980025000030/,"StockholdersEquity, MinorityInterest 태그 없음 ; 값은 XBRL 원문(companyfacts 미반영 보고서)"
-Sherwin-Williams,SHW,2024Q4,2024-12-31,분기말 지배지분 자본,4051200000,USD,공시,https://www.sec.gov/Archives/edgar/data/89800/000008980025000030/,값은 XBRL 원문(companyfacts 미반영 보고서)
+Sherwin-Williams,SHW,2024Q4,2024-12-31,분기별 당기순이익(지배),480100000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/89800/000008980025000030/ ; https://www.sec.gov/Archives/edgar/data/89800/000008980024000157/,연간 2681400000 − 9개월누적 2201300000 (NetIncomeLoss)
+Sherwin-Williams,SHW,2024Q4,2024-12-31,분기별 영업활동현금흐름,934500000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/89800/000008980025000030/ ; https://www.sec.gov/Archives/edgar/data/89800/000008980024000157/,누적 3153200000 − 직전누적 2218700000 (시작 2024-01-01)
+Sherwin-Williams,SHW,2024Q4,2024-12-31,분기말 자산총계,23632600000,USD,공시,https://www.sec.gov/Archives/edgar/data/89800/000008980025000030/,
+Sherwin-Williams,SHW,2024Q4,2024-12-31,분기말 부채총계,19581400000,USD,계산(부채및자본-총자본),https://www.sec.gov/Archives/edgar/data/89800/000008980025000030/,부채및자본 23632600000 − 총자본 4051200000
+Sherwin-Williams,SHW,2024Q4,2024-12-31,분기말 총자본(자기자본),4051200000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/89800/000008980025000030/,"StockholdersEquity, MinorityInterest 태그 없음"
+Sherwin-Williams,SHW,2024Q4,2024-12-31,분기말 지배지분 자본,4051200000,USD,공시,https://www.sec.gov/Archives/edgar/data/89800/000008980025000030/,
 Sherwin-Williams,SHW,2024Q4,2024-12-31,분기말 종가,339.93,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/SHW?interval=1d&events=splits (2024-12-31),
-Sherwin-Williams,SHW,2024Q4,2025-01-31,분기말 상장주식수,251364135,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/89800/000008980025000030/,dei:EntityCommonStockSharesOutstanding 클래스 합 ; 값은 XBRL 원문(companyfacts 미반영 보고서)
-Sherwin-Williams,SHW,2024Q4,2024-12-31,분기말 시가총액,85446210411,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/SHW?interval=1d&events=splits (2024-12-31) ; https://www.sec.gov/Archives/edgar/data/89800/000008980025000030/,종가 339.93 × 주식수 251364135 ; 값은 XBRL 원문(companyfacts 미반영 보고서)
+Sherwin-Williams,SHW,2024Q4,2025-01-31,분기말 상장주식수,251364135,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/89800/000008980025000030/,dei:EntityCommonStockSharesOutstanding 클래스 합
+Sherwin-Williams,SHW,2024Q4,2024-12-31,분기말 시가총액,85446210411,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/SHW?interval=1d&events=splits (2024-12-31) ; https://www.sec.gov/Archives/edgar/data/89800/000008980025000030/,종가 339.93 × 주식수 251364135
 Sherwin-Williams,SHW,2025Q1,2025-03-31,분기별 매출액,5305700000,USD,공시,https://www.sec.gov/Archives/edgar/data/89800/000008980025000087/,
 Sherwin-Williams,SHW,2025Q1,2025-03-31,분기별 영업이익,미확인,USD,미확인,SEC companyfacts CIK0000089800: 해당 보고서에 OperatingIncomeLoss 태그 없음(영업이익 미공시) ; https://www.sec.gov/Archives/edgar/data/89800/000008980025000087/,
 Sherwin-Williams,SHW,2025Q1,2025-03-31,분기별 당기순이익(지배),503900000,USD,공시,https://www.sec.gov/Archives/edgar/data/89800/000008980025000087/,
@@ -2540,21 +2540,21 @@ SLB,SLB,2024Q1,2024-03-31,분기말 지배지분 자본,20736000000,USD,공시,h
 SLB,SLB,2024Q1,2024-03-28,분기말 종가,54.81,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/SLB?interval=1d&events=splits (2024-03-28),
 SLB,SLB,2024Q1,2024-03-31,분기말 상장주식수,1429337724,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/87347/000095017024047250/,dei:EntityCommonStockSharesOutstanding 클래스 합
 SLB,SLB,2024Q1,2024-03-28,분기말 시가총액,78342000652,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/SLB?interval=1d&events=splits (2024-03-28) ; https://www.sec.gov/Archives/edgar/data/87347/000095017024047250/,종가 54.81 × 주식수 1429337724
-SLB,SLB,2024Q2,2024-06-30,분기별 매출액,9139000000,USD,공시,https://www.sec.gov/Archives/edgar/data/87347/000095017024085905/,값은 XBRL 원문(companyfacts 미반영 보고서)
+SLB,SLB,2024Q2,2024-06-30,분기별 매출액,9139000000,USD,공시,https://www.sec.gov/Archives/edgar/data/87347/000095017024085905/,
 SLB,SLB,2024Q2,2024-06-30,분기별 영업이익,미확인,USD,미확인,SEC companyfacts CIK0000087347: 해당 보고서에 OperatingIncomeLoss 태그 없음(영업이익 미공시) ; https://www.sec.gov/Archives/edgar/data/87347/000095017024085905/,
-SLB,SLB,2024Q2,2024-06-30,분기별 당기순이익(지배),1112000000,USD,공시,https://www.sec.gov/Archives/edgar/data/87347/000095017024085905/,값은 XBRL 원문(companyfacts 미반영 보고서)
-SLB,SLB,2024Q2,2024-06-30,분기별 영업활동현금흐름,1436000000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/87347/000095017024085905/ ; https://www.sec.gov/Archives/edgar/data/87347/000095017024047250/,누적 1763000000 − 직전누적 327000000 (시작 2024-01-01) ; 값은 XBRL 원문(companyfacts 미반영 보고서)
-SLB,SLB,2024Q2,2024-06-30,분기말 자산총계,49373000000,USD,공시,https://www.sec.gov/Archives/edgar/data/87347/000095017024085905/,값은 XBRL 원문(companyfacts 미반영 보고서)
-SLB,SLB,2024Q2,2024-06-30,분기말 부채총계,27093000000,USD,공시,https://www.sec.gov/Archives/edgar/data/87347/000095017024085905/,값은 XBRL 원문(companyfacts 미반영 보고서)
-SLB,SLB,2024Q2,2024-06-30,분기말 총자본(자기자본),22280000000,USD,공시,https://www.sec.gov/Archives/edgar/data/87347/000095017024085905/,값은 XBRL 원문(companyfacts 미반영 보고서)
-SLB,SLB,2024Q2,2024-06-30,분기말 지배지분 자본,21071000000,USD,공시,https://www.sec.gov/Archives/edgar/data/87347/000095017024085905/,값은 XBRL 원문(companyfacts 미반영 보고서)
+SLB,SLB,2024Q2,2024-06-30,분기별 당기순이익(지배),1112000000,USD,공시,https://www.sec.gov/Archives/edgar/data/87347/000095017024085905/,
+SLB,SLB,2024Q2,2024-06-30,분기별 영업활동현금흐름,1436000000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/87347/000095017024085905/ ; https://www.sec.gov/Archives/edgar/data/87347/000095017024047250/,누적 1763000000 − 직전누적 327000000 (시작 2024-01-01)
+SLB,SLB,2024Q2,2024-06-30,분기말 자산총계,49373000000,USD,공시,https://www.sec.gov/Archives/edgar/data/87347/000095017024085905/,
+SLB,SLB,2024Q2,2024-06-30,분기말 부채총계,27093000000,USD,공시,https://www.sec.gov/Archives/edgar/data/87347/000095017024085905/,
+SLB,SLB,2024Q2,2024-06-30,분기말 총자본(자기자본),22280000000,USD,공시,https://www.sec.gov/Archives/edgar/data/87347/000095017024085905/,
+SLB,SLB,2024Q2,2024-06-30,분기말 지배지분 자본,21071000000,USD,공시,https://www.sec.gov/Archives/edgar/data/87347/000095017024085905/,
 SLB,SLB,2024Q2,2024-06-28,분기말 종가,47.18,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/SLB?interval=1d&events=splits (2024-06-28),
-SLB,SLB,2024Q2,2024-06-30,분기말 상장주식수,1419841229,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/87347/000095017024085905/,dei:EntityCommonStockSharesOutstanding 클래스 합 ; 값은 XBRL 원문(companyfacts 미반영 보고서)
-SLB,SLB,2024Q2,2024-06-28,분기말 시가총액,66988109184,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/SLB?interval=1d&events=splits (2024-06-28) ; https://www.sec.gov/Archives/edgar/data/87347/000095017024085905/,종가 47.18 × 주식수 1419841229 ; 값은 XBRL 원문(companyfacts 미반영 보고서)
+SLB,SLB,2024Q2,2024-06-30,분기말 상장주식수,1419841229,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/87347/000095017024085905/,dei:EntityCommonStockSharesOutstanding 클래스 합
+SLB,SLB,2024Q2,2024-06-28,분기말 시가총액,66988109184,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/SLB?interval=1d&events=splits (2024-06-28) ; https://www.sec.gov/Archives/edgar/data/87347/000095017024085905/,종가 47.18 × 주식수 1419841229
 SLB,SLB,2024Q3,2024-09-30,분기별 매출액,9159000000,USD,공시,https://www.sec.gov/Archives/edgar/data/87347/000095017024116535/,
 SLB,SLB,2024Q3,2024-09-30,분기별 영업이익,미확인,USD,미확인,SEC companyfacts CIK0000087347: 해당 보고서에 OperatingIncomeLoss 태그 없음(영업이익 미공시) ; https://www.sec.gov/Archives/edgar/data/87347/000095017024116535/,
 SLB,SLB,2024Q3,2024-09-30,분기별 당기순이익(지배),1186000000,USD,공시,https://www.sec.gov/Archives/edgar/data/87347/000095017024116535/,
-SLB,SLB,2024Q3,2024-09-30,분기별 영업활동현금흐름,2449000000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/87347/000095017024116535/ ; https://www.sec.gov/Archives/edgar/data/87347/000095017024085905/,누적 4212000000 − 직전누적 1763000000 (시작 2024-01-01) ; 값은 XBRL 원문(companyfacts 미반영 보고서)
+SLB,SLB,2024Q3,2024-09-30,분기별 영업활동현금흐름,2449000000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/87347/000095017024116535/ ; https://www.sec.gov/Archives/edgar/data/87347/000095017024085905/,누적 4212000000 − 직전누적 1763000000 (시작 2024-01-01)
 SLB,SLB,2024Q3,2024-09-30,분기말 자산총계,49775000000,USD,공시,https://www.sec.gov/Archives/edgar/data/87347/000095017024116535/,
 SLB,SLB,2024Q3,2024-09-30,분기말 부채총계,27047000000,USD,공시,https://www.sec.gov/Archives/edgar/data/87347/000095017024116535/,
 SLB,SLB,2024Q3,2024-09-30,분기말 총자본(자기자본),22728000000,USD,공시,https://www.sec.gov/Archives/edgar/data/87347/000095017024116535/,
@@ -4289,21 +4289,21 @@ Cummins,CMI,2026Q2,2026-06-30,분기말 지배지분 자본,12847000000,USD,공�
 Cummins,CMI,2026Q2,2026-06-30,분기말 종가,713.21,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/CMI?interval=1d&events=splits (2026-06-30),
 Cummins,CMI,2026Q2,2026-06-30,분기말 상장주식수,137664487,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/26172/000002617226000029/,dei:EntityCommonStockSharesOutstanding 클래스 합
 Cummins,CMI,2026Q2,2026-06-30,분기말 시가총액,98183688773,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/CMI?interval=1d&events=splits (2026-06-30) ; https://www.sec.gov/Archives/edgar/data/26172/000002617226000029/,종가 713.21 × 주식수 137664487
-Ross Stores,ROST,2019Q1,2019-05-04,분기별 매출액,3796642000,USD,공시,https://www.sec.gov/Archives/edgar/data/745732/000074573219000030/,값은 XBRL 원문(companyfacts 미반영 보고서)
+Ross Stores,ROST,2019Q1,2019-05-04,분기별 매출액,3796642000,USD,공시,https://www.sec.gov/Archives/edgar/data/745732/000074573219000030/,
 Ross Stores,ROST,2019Q1,2019-05-04,분기별 영업이익,미확인,USD,미확인,https://www.sec.gov/Archives/edgar/data/745732/000074573219000030/,
-Ross Stores,ROST,2019Q1,2019-05-04,분기별 당기순이익(지배),421142000,USD,공시,https://www.sec.gov/Archives/edgar/data/745732/000074573219000030/,값은 XBRL 원문(companyfacts 미반영 보고서)
-Ross Stores,ROST,2019Q1,2019-05-04,분기별 영업활동현금흐름,508987000,USD,공시,https://www.sec.gov/Archives/edgar/data/745732/000074573219000030/,값은 XBRL 원문(companyfacts 미반영 보고서)
-Ross Stores,ROST,2019Q1,2019-05-04,분기말 자산총계,9049120000,USD,공시,https://www.sec.gov/Archives/edgar/data/745732/000074573219000030/,값은 XBRL 원문(companyfacts 미반영 보고서)
-Ross Stores,ROST,2019Q1,2019-05-04,분기말 부채총계,5781594000,USD,계산(부채및자본-총자본),https://www.sec.gov/Archives/edgar/data/745732/000074573219000030/,부채및자본 9049120000 − 총자본 3267526000 ; 값은 XBRL 원문(companyfacts 미반영 보고서)
-Ross Stores,ROST,2019Q1,2019-05-04,분기말 총자본(자기자본),3267526000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/745732/000074573219000030/,"StockholdersEquity, MinorityInterest 태그 없음 ; 값은 XBRL 원문(companyfacts 미반영 보고서)"
-Ross Stores,ROST,2019Q1,2019-05-04,분기말 지배지분 자본,3267526000,USD,공시,https://www.sec.gov/Archives/edgar/data/745732/000074573219000030/,값은 XBRL 원문(companyfacts 미반영 보고서)
+Ross Stores,ROST,2019Q1,2019-05-04,분기별 당기순이익(지배),421142000,USD,공시,https://www.sec.gov/Archives/edgar/data/745732/000074573219000030/,
+Ross Stores,ROST,2019Q1,2019-05-04,분기별 영업활동현금흐름,508987000,USD,공시,https://www.sec.gov/Archives/edgar/data/745732/000074573219000030/,
+Ross Stores,ROST,2019Q1,2019-05-04,분기말 자산총계,9049120000,USD,공시,https://www.sec.gov/Archives/edgar/data/745732/000074573219000030/,
+Ross Stores,ROST,2019Q1,2019-05-04,분기말 부채총계,5781594000,USD,계산(부채및자본-총자본),https://www.sec.gov/Archives/edgar/data/745732/000074573219000030/,부채및자본 9049120000 − 총자본 3267526000
+Ross Stores,ROST,2019Q1,2019-05-04,분기말 총자본(자기자본),3267526000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/745732/000074573219000030/,"StockholdersEquity, MinorityInterest 태그 없음"
+Ross Stores,ROST,2019Q1,2019-05-04,분기말 지배지분 자본,3267526000,USD,공시,https://www.sec.gov/Archives/edgar/data/745732/000074573219000030/,
 Ross Stores,ROST,2019Q1,2019-05-03,분기말 종가,97.13,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/ROST?interval=1d&events=splits (2019-05-03),
-Ross Stores,ROST,2019Q1,2019-05-22,분기말 상장주식수,364695608,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/745732/000074573219000030/,dei:EntityCommonStockSharesOutstanding 클래스 합 ; 값은 XBRL 원문(companyfacts 미반영 보고서)
-Ross Stores,ROST,2019Q1,2019-05-03,분기말 시가총액,35422884405,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/ROST?interval=1d&events=splits (2019-05-03) ; https://www.sec.gov/Archives/edgar/data/745732/000074573219000030/,종가 97.13 × 주식수 364695608 ; 값은 XBRL 원문(companyfacts 미반영 보고서)
+Ross Stores,ROST,2019Q1,2019-05-22,분기말 상장주식수,364695608,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/745732/000074573219000030/,dei:EntityCommonStockSharesOutstanding 클래스 합
+Ross Stores,ROST,2019Q1,2019-05-03,분기말 시가총액,35422884405,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/ROST?interval=1d&events=splits (2019-05-03) ; https://www.sec.gov/Archives/edgar/data/745732/000074573219000030/,종가 97.13 × 주식수 364695608
 Ross Stores,ROST,2019Q2,2019-08-03,분기별 매출액,3979869000,USD,공시,https://www.sec.gov/Archives/edgar/data/745732/000074573219000037/,
 Ross Stores,ROST,2019Q2,2019-08-03,분기별 영업이익,미확인,USD,미확인,https://www.sec.gov/Archives/edgar/data/745732/000074573219000037/,
 Ross Stores,ROST,2019Q2,2019-08-03,분기별 당기순이익(지배),412721000,USD,공시,https://www.sec.gov/Archives/edgar/data/745732/000074573219000037/,
-Ross Stores,ROST,2019Q2,2019-08-03,분기별 영업활동현금흐름,574476000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/745732/000074573219000037/ ; https://www.sec.gov/Archives/edgar/data/745732/000074573219000030/,누적 1083463000 − 직전누적 508987000 (시작 2019-02-03) ; 값은 XBRL 원문(companyfacts 미반영 보고서)
+Ross Stores,ROST,2019Q2,2019-08-03,분기별 영업활동현금흐름,574476000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/745732/000074573219000037/ ; https://www.sec.gov/Archives/edgar/data/745732/000074573219000030/,누적 1083463000 − 직전누적 508987000 (시작 2019-02-03)
 Ross Stores,ROST,2019Q2,2019-08-03,분기말 자산총계,9151947000,USD,공시,https://www.sec.gov/Archives/edgar/data/745732/000074573219000037/,
 Ross Stores,ROST,2019Q2,2019-08-03,분기말 부채총계,5855683000,USD,계산(부채및자본-총자본),https://www.sec.gov/Archives/edgar/data/745732/000074573219000037/,부채및자본 9151947000 − 총자본 3296264000
 Ross Stores,ROST,2019Q2,2019-08-03,분기말 총자본(자기자본),3296264000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/745732/000074573219000037/,"StockholdersEquity, MinorityInterest 태그 없음"
@@ -5609,21 +5609,21 @@ FedEx,FDX,2026Q2,2026-05-31,분기말 지배지분 자본,31647000000,USD,공시
 FedEx,FDX,2026Q2,2026-05-29,분기말 종가,411.75,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/FDX?interval=1d&events=splits (2026-05-29),분할조정 종가 331.7889 × 이후 분할계수 1.241
 FedEx,FDX,2026Q2,2026-07-16,분기말 상장주식수,236581188,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/1048911/000104891126000105/,dei:EntityCommonStockSharesOutstanding 클래스 합; 표지 기준일이 분할 후
 FedEx,FDX,2026Q2,2026-05-29,분기말 시가총액,78495007380,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/FDX?interval=1d&events=splits (2026-05-29) ; https://www.sec.gov/Archives/edgar/data/1048911/000104891126000105/,종가 411.75 × 주식수 236581188 ÷ 분할비율 1.241 (분할일 2026-06-01가 거래일 2026-05-29와 표지 기준일 2026-07-16 사이)
-Carvana,CVNA,2019Q1,2019-03-31,분기별 매출액,755234000,USD,공시,https://www.sec.gov/Archives/edgar/data/1690820/000169082019000102/,값은 XBRL 원문(companyfacts 미반영 보고서)
+Carvana,CVNA,2019Q1,2019-03-31,분기별 매출액,755234000,USD,공시,https://www.sec.gov/Archives/edgar/data/1690820/000169082019000102/,
 Carvana,CVNA,2019Q1,2019-03-31,분기별 영업이익,미확인,USD,미확인,https://www.sec.gov/Archives/edgar/data/1690820/000169082019000102/,
-Carvana,CVNA,2019Q1,2019-03-31,분기별 당기순이익(지배),-28549000,USD,공시,https://www.sec.gov/Archives/edgar/data/1690820/000169082019000102/,값은 XBRL 원문(companyfacts 미반영 보고서)
-Carvana,CVNA,2019Q1,2019-03-31,분기별 영업활동현금흐름,-214509000,USD,공시,https://www.sec.gov/Archives/edgar/data/1690820/000169082019000102/,값은 XBRL 원문(companyfacts 미반영 보고서)
-Carvana,CVNA,2019Q1,2019-03-31,분기말 자산총계,1338401000,USD,공시,https://www.sec.gov/Archives/edgar/data/1690820/000169082019000102/,값은 XBRL 원문(companyfacts 미반영 보고서)
-Carvana,CVNA,2019Q1,2019-03-31,분기말 부채총계,1185554000,USD,공시,https://www.sec.gov/Archives/edgar/data/1690820/000169082019000102/,값은 XBRL 원문(companyfacts 미반영 보고서)
-Carvana,CVNA,2019Q1,2019-03-31,분기말 총자본(자기자본),152847000,USD,공시,https://www.sec.gov/Archives/edgar/data/1690820/000169082019000102/,값은 XBRL 원문(companyfacts 미반영 보고서)
-Carvana,CVNA,2019Q1,2019-03-31,분기말 지배지분 자본,54773000,USD,공시,https://www.sec.gov/Archives/edgar/data/1690820/000169082019000102/,값은 XBRL 원문(companyfacts 미반영 보고서)
+Carvana,CVNA,2019Q1,2019-03-31,분기별 당기순이익(지배),-28549000,USD,공시,https://www.sec.gov/Archives/edgar/data/1690820/000169082019000102/,
+Carvana,CVNA,2019Q1,2019-03-31,분기별 영업활동현금흐름,-214509000,USD,공시,https://www.sec.gov/Archives/edgar/data/1690820/000169082019000102/,
+Carvana,CVNA,2019Q1,2019-03-31,분기말 자산총계,1338401000,USD,공시,https://www.sec.gov/Archives/edgar/data/1690820/000169082019000102/,
+Carvana,CVNA,2019Q1,2019-03-31,분기말 부채총계,1185554000,USD,공시,https://www.sec.gov/Archives/edgar/data/1690820/000169082019000102/,
+Carvana,CVNA,2019Q1,2019-03-31,분기말 총자본(자기자본),152847000,USD,공시,https://www.sec.gov/Archives/edgar/data/1690820/000169082019000102/,
+Carvana,CVNA,2019Q1,2019-03-31,분기말 지배지분 자본,54773000,USD,공시,https://www.sec.gov/Archives/edgar/data/1690820/000169082019000102/,
 Carvana,CVNA,2019Q1,2019-03-29,분기말 종가,58.06,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/CVNA?interval=1d&events=splits (2019-03-29),분할조정 종가 11.612 × 이후 분할계수 5
-Carvana,CVNA,2019Q1,2019-05-03,분기말 상장주식수,145630926,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/1690820/000169082019000102/,"XBRL 원문 dei:EntityCommonStockSharesOutstanding 2개 클래스 합 ; 값은 XBRL 원문(companyfacts 미반영 보고서) ; 클래스별(2019-05-03): CommonClassAMember 44155061, CommonClassBMember 101475865"
-Carvana,CVNA,2019Q1,2019-03-29,분기말 시가총액,8455331564,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/CVNA?interval=1d&events=splits (2019-03-29) ; https://www.sec.gov/Archives/edgar/data/1690820/000169082019000102/,종가 58.06 × 주식수 145630926 ; 값은 XBRL 원문(companyfacts 미반영 보고서)
+Carvana,CVNA,2019Q1,2019-05-03,분기말 상장주식수,145630926,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/1690820/000169082019000102/,"XBRL 원문 dei:EntityCommonStockSharesOutstanding 2개 클래스 합 ; 클래스별(2019-05-03): CommonClassAMember 44155061, CommonClassBMember 101475865"
+Carvana,CVNA,2019Q1,2019-03-29,분기말 시가총액,8455331564,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/CVNA?interval=1d&events=splits (2019-03-29) ; https://www.sec.gov/Archives/edgar/data/1690820/000169082019000102/,종가 58.06 × 주식수 145630926
 Carvana,CVNA,2019Q2,2019-06-30,분기별 매출액,986221000,USD,공시,https://www.sec.gov/Archives/edgar/data/1690820/000169082019000193/,
 Carvana,CVNA,2019Q2,2019-06-30,분기별 영업이익,미확인,USD,미확인,https://www.sec.gov/Archives/edgar/data/1690820/000169082019000193/,
 Carvana,CVNA,2019Q2,2019-06-30,분기별 당기순이익(지배),-26610000,USD,공시,https://www.sec.gov/Archives/edgar/data/1690820/000169082019000193/,
-Carvana,CVNA,2019Q2,2019-06-30,분기별 영업활동현금흐름,-80325000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/1690820/000169082019000193/ ; https://www.sec.gov/Archives/edgar/data/1690820/000169082019000102/,누적 -294834000 − 직전누적 -214509000 (시작 2019-01-01) ; 값은 XBRL 원문(companyfacts 미반영 보고서)
+Carvana,CVNA,2019Q2,2019-06-30,분기별 영업활동현금흐름,-80325000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/1690820/000169082019000193/ ; https://www.sec.gov/Archives/edgar/data/1690820/000169082019000102/,누적 -294834000 − 직전누적 -214509000 (시작 2019-01-01)
 Carvana,CVNA,2019Q2,2019-06-30,분기말 자산총계,1474404000,USD,공시,https://www.sec.gov/Archives/edgar/data/1690820/000169082019000193/,
 Carvana,CVNA,2019Q2,2019-06-30,분기말 부채총계,1080587000,USD,공시,https://www.sec.gov/Archives/edgar/data/1690820/000169082019000193/,
 Carvana,CVNA,2019Q2,2019-06-30,분기말 총자본(자기자본),393817000,USD,공시,https://www.sec.gov/Archives/edgar/data/1690820/000169082019000193/,

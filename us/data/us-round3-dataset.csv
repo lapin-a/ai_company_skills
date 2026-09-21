@@ -1218,8 +1218,8 @@ Coca-Cola,KO,2024Q1,2024-03-29,분기말 부채총계,71446000000,USD,계산(부
 Coca-Cola,KO,2024Q1,2024-03-29,분기말 총자본(자기자본),27946000000,USD,공시,https://www.sec.gov/Archives/edgar/data/21344/000002134424000017/,
 Coca-Cola,KO,2024Q1,2024-03-29,분기말 지배지분 자본,26429000000,USD,공시,https://www.sec.gov/Archives/edgar/data/21344/000002134424000017/,
 Coca-Cola,KO,2024Q1,2024-03-28,분기말 종가,61.18,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/KO?interval=1d&events=splits (2024-03-28),
-Coca-Cola,KO,2024Q1,2024-04-30,분기말 상장주식수,4307955307,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/21344/000002134424000019/,dei:EntityCommonStockSharesOutstanding 클래스 합
-Coca-Cola,KO,2024Q1,2024-03-28,분기말 시가총액,263560705682,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/KO?interval=1d&events=splits (2024-03-28) ; https://www.sec.gov/Archives/edgar/data/21344/000002134424000019/,종가 61.18 × 주식수 4307955307
+Coca-Cola,KO,2024Q1,2024-04-30,분기말 상장주식수,4307955307,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/21344/000002134424000019/,dei:EntityCommonStockSharesOutstanding 클래스 합 ; 값은 XBRL 원문(companyfacts 미반영 보고서)
+Coca-Cola,KO,2024Q1,2024-03-28,분기말 시가총액,263560705682,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/KO?interval=1d&events=splits (2024-03-28) ; https://www.sec.gov/Archives/edgar/data/21344/000002134424000019/,종가 61.18 × 주식수 4307955307 ; 값은 XBRL 원문(companyfacts 미반영 보고서)
 Coca-Cola,KO,2024Q2,2024-06-28,분기별 매출액,12363000000,USD,공시,https://www.sec.gov/Archives/edgar/data/21344/000002134424000044/,
 Coca-Cola,KO,2024Q2,2024-06-28,분기별 영업이익,2632000000,USD,공시,https://www.sec.gov/Archives/edgar/data/21344/000002134424000044/,
 Coca-Cola,KO,2024Q2,2024-06-28,분기별 당기순이익(지배),2411000000,USD,공시,https://www.sec.gov/Archives/edgar/data/21344/000002134424000044/,
@@ -1867,8 +1867,8 @@ Merck,MRK,2023Q4,2023-12-31,분기말 부채총계,69040000000,USD,계산(부채
 Merck,MRK,2023Q4,2023-12-31,분기말 총자본(자기자본),37635000000,USD,공시,https://www.sec.gov/Archives/edgar/data/310158/000162828024006850/,
 Merck,MRK,2023Q4,2023-12-31,분기말 지배지분 자본,37581000000,USD,공시,https://www.sec.gov/Archives/edgar/data/310158/000162828024006850/,
 Merck,MRK,2023Q4,2023-12-29,분기말 종가,109.02,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/MRK?interval=1d&events=splits (2023-12-29),
-Merck,MRK,2023Q4,2024-01-31,분기말 상장주식수,2532643872,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/310158/000119312524093194/,dei:EntityCommonStockSharesOutstanding 클래스 합
-Merck,MRK,2023Q4,2023-12-29,분기말 시가총액,276108834925,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/MRK?interval=1d&events=splits (2023-12-29) ; https://www.sec.gov/Archives/edgar/data/310158/000119312524093194/,종가 109.02 × 주식수 2532643872
+Merck,MRK,2023Q4,2024-01-31,분기말 상장주식수,2532643872,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/310158/000119312524093194/,dei:EntityCommonStockSharesOutstanding 클래스 합 ; 값은 XBRL 원문(companyfacts 미반영 보고서)
+Merck,MRK,2023Q4,2023-12-29,분기말 시가총액,276108834925,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/MRK?interval=1d&events=splits (2023-12-29) ; https://www.sec.gov/Archives/edgar/data/310158/000119312524093194/,종가 109.02 × 주식수 2532643872 ; 값은 XBRL 원문(companyfacts 미반영 보고서)
 Merck,MRK,2024Q1,2024-03-31,분기별 매출액,15775000000,USD,공시,https://www.sec.gov/Archives/edgar/data/310158/000162828024020283/,
 Merck,MRK,2024Q1,2024-03-31,분기별 영업이익,미확인,USD,미확인,SEC companyfacts CIK0000310158: 해당 보고서에 OperatingIncomeLoss 태그 없음(영업이익 미공시) ; SEC companyfacts CIK0000310158: OperatingIncomeLoss 태그 없음(영업이익 미공시),
 Merck,MRK,2024Q1,2024-03-31,분기별 당기순이익(지배),4762000000,USD,공시,https://www.sec.gov/Archives/edgar/data/310158/000162828024020283/,

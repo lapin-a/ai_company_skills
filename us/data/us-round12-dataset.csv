@@ -2706,7 +2706,7 @@ Flex,FLEX,2020Q2,2020-06-26,분기말 종가,9.93,USD,API,https://query1.finance
 Flex,FLEX,2020Q2,2020-07-29,분기말 상장주식수,500888523,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/866374/000086637420000012/,dei:EntityCommonStockSharesOutstanding 클래스 합
 Flex,FLEX,2020Q2,2020-06-26,분기말 시가총액,4973823033,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/FLEX?interval=1d&events=splits (2020-06-26) ; https://www.sec.gov/Archives/edgar/data/866374/000086637420000012/,종가 9.93 × 주식수 500888523
 Flex,FLEX,2020Q3,2020-09-25,분기별 매출액,5985000000,USD,공시,https://www.sec.gov/Archives/edgar/data/866374/000086637420000030/,
-Flex,FLEX,2020Q3,2020-09-25,분기별 영업이익,미확인,USD,미확인,https://www.sec.gov/Archives/edgar/data/866374/000086637420000030/,
+Flex,FLEX,2020Q3,2020-09-25,분기별 영업이익,175000000,USD,공시(후속 보고서 비교기간),https://www.sec.gov/Archives/edgar/data/866374/000086637421000062/,OperatingIncomeLoss ; 그 분기 보고서에 연결 총계가 없어 2021-10-29 제출본의 비교기간에서 읽었다
 Flex,FLEX,2020Q3,2020-09-25,분기별 당기순이익(지배),113000000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/866374/000086637420000030/,
 Flex,FLEX,2020Q3,2020-09-25,분기별 영업활동현금흐름,264390000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/866374/000086637420000030/ ; https://www.sec.gov/Archives/edgar/data/866374/000086637420000012/,누적 -365000000 − 직전누적 -629390000 (시작 2020-04-01)
 Flex,FLEX,2020Q3,2020-09-25,분기말 자산총계,15001000000,USD,공시,https://www.sec.gov/Archives/edgar/data/866374/000086637420000030/,
@@ -2728,7 +2728,7 @@ Flex,FLEX,2020Q4,2020-12-31,분기말 종가,17.98,USD,API,https://query1.financ
 Flex,FLEX,2020Q4,2021-01-25,분기말 상장주식수,499172368,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/866374/000086637421000019/,dei:EntityCommonStockSharesOutstanding 클래스 합
 Flex,FLEX,2020Q4,2020-12-31,분기말 시가총액,8975119177,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/FLEX?interval=1d&events=splits (2020-12-31) ; https://www.sec.gov/Archives/edgar/data/866374/000086637421000019/,종가 17.98 × 주식수 499172368
 Flex,FLEX,2021Q1,2021-03-31,분기별 매출액,6266000000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/866374/000086637421000030/ ; https://www.sec.gov/Archives/edgar/data/866374/000086637421000019/,연간 24124000000 − 9개월누적 17858000000 (RevenueFromContractWithCustomerExcludingAssessedTax)
-Flex,FLEX,2021Q1,2021-03-31,분기별 영업이익,미확인,USD,미확인,https://www.sec.gov/Archives/edgar/data/866374/000086637421000030/,
+Flex,FLEX,2021Q1,2021-03-31,분기별 영업이익,282000000,USD,공시(후속 보고서 비교기간),https://www.sec.gov/Archives/edgar/data/866374/000086637422000035/,OperatingIncomeLoss ; 그 분기 보고서에 연결 총계가 없어 2022-05-20 제출본의 비교기간에서 읽었다
 Flex,FLEX,2021Q1,2021-03-31,분기별 당기순이익(지배),240000000,USD,"계산(연간-3분기누적, 비지배 없음)",https://www.sec.gov/Archives/edgar/data/866374/000086637421000030/ ; https://www.sec.gov/Archives/edgar/data/866374/000086637421000019/,연간 613000000 − 9개월누적 373000000 (ProfitLoss)
 Flex,FLEX,2021Q1,2021-03-31,분기별 영업활동현금흐름,161000000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/866374/000086637421000030/ ; https://www.sec.gov/Archives/edgar/data/866374/000086637421000019/,누적 144000000 − 직전누적 -17000000 (시작 2020-04-01)
 Flex,FLEX,2021Q1,2021-03-31,분기말 자산총계,15836000000,USD,공시,https://www.sec.gov/Archives/edgar/data/866374/000086637421000030/,
@@ -2739,7 +2739,7 @@ Flex,FLEX,2021Q1,2021-03-31,분기말 종가,18.31,USD,API,https://query1.financ
 Flex,FLEX,2021Q1,2021-05-14,분기말 상장주식수,490742161,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/866374/000086637421000030/,dei:EntityCommonStockSharesOutstanding 클래스 합
 Flex,FLEX,2021Q1,2021-03-31,분기말 시가총액,8985488968,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/FLEX?interval=1d&events=splits (2021-03-31) ; https://www.sec.gov/Archives/edgar/data/866374/000086637421000030/,종가 18.31 × 주식수 490742161
 Flex,FLEX,2021Q2,2021-07-02,분기별 매출액,6342000000,USD,공시,https://www.sec.gov/Archives/edgar/data/866374/000086637421000043/,
-Flex,FLEX,2021Q2,2021-07-02,분기별 영업이익,미확인,USD,미확인,https://www.sec.gov/Archives/edgar/data/866374/000086637421000043/,
+Flex,FLEX,2021Q2,2021-07-02,분기별 영업이익,255000000,USD,공시(후속 보고서 비교기간),https://www.sec.gov/Archives/edgar/data/866374/000086637422000052/,OperatingIncomeLoss ; 그 분기 보고서에 연결 총계가 없어 2022-07-29 제출본의 비교기간에서 읽었다
 Flex,FLEX,2021Q2,2021-07-02,분기별 당기순이익(지배),206000000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/866374/000086637421000043/,
 Flex,FLEX,2021Q2,2021-07-02,분기별 영업활동현금흐름,334000000,USD,공시,https://www.sec.gov/Archives/edgar/data/866374/000086637421000043/,
 Flex,FLEX,2021Q2,2021-07-02,분기말 자산총계,16192000000,USD,공시,https://www.sec.gov/Archives/edgar/data/866374/000086637421000043/,

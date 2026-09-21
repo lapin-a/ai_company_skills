@@ -5610,7 +5610,7 @@ NIKE,NKE,2026Q2,2026-05-29,분기말 종가,46.23,USD,API,https://query1.finance
 NIKE,NKE,2026Q2,2026-07-08,분기말 상장주식수,1483498703,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/320187/000032018726000088/,"XBRL 원문 dei:EntityCommonStockSharesOutstanding 2개 클래스 합 ; 클래스별(2026-07-08): CommonClassAMember 281387752, CommonClassBMember 1202110951"
 NIKE,NKE,2026Q2,2026-05-29,분기말 시가총액,68582145040,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/NKE?interval=1d&events=splits (2026-05-29) ; https://www.sec.gov/Archives/edgar/data/320187/000032018726000088/,종가 46.23 × 주식수 1483498703
 Ford Motor,F,2019Q1,2019-03-31,분기별 매출액,40342000000,USD,공시,https://www.sec.gov/Archives/edgar/data/37996/000003799619000026/,
-Ford Motor,F,2019Q1,2019-03-31,분기별 영업이익,미확인,USD,미확인,https://www.sec.gov/Archives/edgar/data/37996/000003799619000026/,
+Ford Motor,F,2019Q1,2019-03-31,분기별 영업이익,1202000000,USD,공시(후속 보고서 비교기간),https://www.sec.gov/Archives/edgar/data/37996/000003799620000041/,OperatingIncomeLoss ; 그 분기 보고서에 연결 총계가 없어 2020-04-29 제출본의 비교기간에서 읽었다
 Ford Motor,F,2019Q1,2019-03-31,분기별 당기순이익(지배),1146000000,USD,계산(연결-비지배),https://www.sec.gov/Archives/edgar/data/37996/000003799619000026/,3개월 연결 1183000000 − 비지배 37000000
 Ford Motor,F,2019Q1,2019-03-31,분기별 영업활동현금흐름,3544000000,USD,공시,https://www.sec.gov/Archives/edgar/data/37996/000003799619000026/,
 Ford Motor,F,2019Q1,2019-03-31,분기말 자산총계,263281000000,USD,공시,https://www.sec.gov/Archives/edgar/data/37996/000003799619000026/,
@@ -5621,7 +5621,7 @@ Ford Motor,F,2019Q1,2019-03-29,분기말 종가,8.78,USD,API,https://query1.fina
 Ford Motor,F,2019Q1,2019-04-19,분기말 상장주식수,3989545901,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/37996/000003799619000026/,"XBRL 원문 dei:EntityCommonStockSharesOutstanding 2개 클래스 합 ; 클래스별(2019-04-19): CommonClassBMember 70852076, CommonStockMember 3918693825"
 Ford Motor,F,2019Q1,2019-03-29,분기말 시가총액,35028213011,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/F?interval=1d&events=splits (2019-03-29) ; https://www.sec.gov/Archives/edgar/data/37996/000003799619000026/,종가 8.78 × 주식수 3989545901
 Ford Motor,F,2019Q2,2019-06-30,분기별 매출액,38853000000,USD,공시,https://www.sec.gov/Archives/edgar/data/37996/000003799619000067/,
-Ford Motor,F,2019Q2,2019-06-30,분기별 영업이익,미확인,USD,미확인,https://www.sec.gov/Archives/edgar/data/37996/000003799619000067/,
+Ford Motor,F,2019Q2,2019-06-30,분기별 영업이익,90000000,USD,공시(후속 보고서 비교기간),https://www.sec.gov/Archives/edgar/data/37996/000003799620000057/,OperatingIncomeLoss ; 그 분기 보고서에 연결 총계가 없어 2020-07-31 제출본의 비교기간에서 읽었다
 Ford Motor,F,2019Q2,2019-06-30,분기별 당기순이익(지배),148000000,USD,계산(연결-비지배),https://www.sec.gov/Archives/edgar/data/37996/000003799619000067/,3개월 연결 150000000 − 비지배 2000000
 Ford Motor,F,2019Q2,2019-06-30,분기별 영업활동현금흐름,6463000000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/37996/000003799619000067/ ; https://www.sec.gov/Archives/edgar/data/37996/000003799619000026/,누적 10007000000 − 직전누적 3544000000 (시작 2019-01-01)
 Ford Motor,F,2019Q2,2019-06-30,분기말 자산총계,262184000000,USD,공시,https://www.sec.gov/Archives/edgar/data/37996/000003799619000067/,

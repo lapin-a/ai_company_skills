@@ -329,21 +329,21 @@ Carnival,CCL,2026Q2,2026-05-31,분기말 지배지분 자본,12968000000,USD,공
 Carnival,CCL,2026Q2,2026-05-29,분기말 종가,28.06,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/CCL?interval=1d&events=splits (2026-05-29),
 Carnival,CCL,2026Q2,2026-06-19,분기말 상장주식수,1369649119,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/815097/000081509726000096/,dei:EntityCommonStockSharesOutstanding 클래스 합
 Carnival,CCL,2026Q2,2026-05-29,분기말 시가총액,38432354279,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/CCL?interval=1d&events=splits (2026-05-29) ; https://www.sec.gov/Archives/edgar/data/815097/000081509726000096/,종가 28.06 × 주식수 1369649119
-Zoetis,ZTS,2019Q1,2019-03-31,분기별 매출액,1455000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1555280/000155528019000169/,값은 XBRL 원문(companyfacts 미반영 보고서)
+Zoetis,ZTS,2019Q1,2019-03-31,분기별 매출액,1455000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1555280/000155528019000169/,
 Zoetis,ZTS,2019Q1,2019-03-31,분기별 영업이익,미확인,USD,미확인,SEC companyfacts CIK0001555280: 해당 보고서에 OperatingIncomeLoss 태그 없음(영업이익 미공시) ; SEC companyfacts CIK0001555280: OperatingIncomeLoss 태그 없음(영업이익 미공시),
-Zoetis,ZTS,2019Q1,2019-03-31,분기별 당기순이익(지배),312000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1555280/000155528019000169/,값은 XBRL 원문(companyfacts 미반영 보고서)
-Zoetis,ZTS,2019Q1,2019-03-31,분기별 영업활동현금흐름,389000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1555280/000155528019000169/,값은 XBRL 원문(companyfacts 미반영 보고서)
-Zoetis,ZTS,2019Q1,2019-03-31,분기말 자산총계,10883000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1555280/000155528019000169/,값은 XBRL 원문(companyfacts 미반영 보고서)
-Zoetis,ZTS,2019Q1,2019-03-31,분기말 부채총계,8566000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1555280/000155528019000169/,값은 XBRL 원문(companyfacts 미반영 보고서)
-Zoetis,ZTS,2019Q1,2019-03-31,분기말 총자본(자기자본),2317000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1555280/000155528019000169/,값은 XBRL 원문(companyfacts 미반영 보고서)
-Zoetis,ZTS,2019Q1,2019-03-31,분기말 지배지분 자본,2317000000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/1555280/000155528019000169/,"StockholdersEquityIncludingPortionAttributableToNoncontrollingInterest, MinorityInterest 태그 없음 ; 값은 XBRL 원문(companyfacts 미반영 보고서)"
+Zoetis,ZTS,2019Q1,2019-03-31,분기별 당기순이익(지배),312000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1555280/000155528019000169/,
+Zoetis,ZTS,2019Q1,2019-03-31,분기별 영업활동현금흐름,389000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1555280/000155528019000169/,
+Zoetis,ZTS,2019Q1,2019-03-31,분기말 자산총계,10883000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1555280/000155528019000169/,
+Zoetis,ZTS,2019Q1,2019-03-31,분기말 부채총계,8566000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1555280/000155528019000169/,
+Zoetis,ZTS,2019Q1,2019-03-31,분기말 총자본(자기자본),2317000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1555280/000155528019000169/,
+Zoetis,ZTS,2019Q1,2019-03-31,분기말 지배지분 자본,2317000000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/1555280/000155528019000169/,"StockholdersEquityIncludingPortionAttributableToNoncontrollingInterest, MinorityInterest 태그 없음"
 Zoetis,ZTS,2019Q1,2019-03-29,분기말 종가,100.67,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/ZTS?interval=1d&events=splits (2019-03-29),
-Zoetis,ZTS,2019Q1,2019-04-26,분기말 상장주식수,478656189,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/1555280/000155528019000169/,dei:EntityCommonStockSharesOutstanding 클래스 합 ; 값은 XBRL 원문(companyfacts 미반영 보고서)
-Zoetis,ZTS,2019Q1,2019-03-29,분기말 시가총액,48186318547,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/ZTS?interval=1d&events=splits (2019-03-29) ; https://www.sec.gov/Archives/edgar/data/1555280/000155528019000169/,종가 100.67 × 주식수 478656189 ; 값은 XBRL 원문(companyfacts 미반영 보고서)
+Zoetis,ZTS,2019Q1,2019-04-26,분기말 상장주식수,478656189,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/1555280/000155528019000169/,dei:EntityCommonStockSharesOutstanding 클래스 합
+Zoetis,ZTS,2019Q1,2019-03-29,분기말 시가총액,48186318547,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/ZTS?interval=1d&events=splits (2019-03-29) ; https://www.sec.gov/Archives/edgar/data/1555280/000155528019000169/,종가 100.67 × 주식수 478656189
 Zoetis,ZTS,2019Q2,2019-06-30,분기별 매출액,1547000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1555280/000155528019000221/,
 Zoetis,ZTS,2019Q2,2019-06-30,분기별 영업이익,미확인,USD,미확인,SEC companyfacts CIK0001555280: 해당 보고서에 OperatingIncomeLoss 태그 없음(영업이익 미공시) ; SEC companyfacts CIK0001555280: OperatingIncomeLoss 태그 없음(영업이익 미공시),
 Zoetis,ZTS,2019Q2,2019-06-30,분기별 당기순이익(지배),371000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1555280/000155528019000221/,
-Zoetis,ZTS,2019Q2,2019-06-30,분기별 영업활동현금흐름,318000000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/1555280/000155528019000221/ ; https://www.sec.gov/Archives/edgar/data/1555280/000155528019000169/,누적 707000000 − 직전누적 389000000 (시작 2019-01-01) ; 값은 XBRL 원문(companyfacts 미반영 보고서)
+Zoetis,ZTS,2019Q2,2019-06-30,분기별 영업활동현금흐름,318000000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/1555280/000155528019000221/ ; https://www.sec.gov/Archives/edgar/data/1555280/000155528019000169/,누적 707000000 − 직전누적 389000000 (시작 2019-01-01)
 Zoetis,ZTS,2019Q2,2019-06-30,분기말 자산총계,10986000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1555280/000155528019000221/,
 Zoetis,ZTS,2019Q2,2019-06-30,분기말 부채총계,8575000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1555280/000155528019000221/,
 Zoetis,ZTS,2019Q2,2019-06-30,분기말 총자본(자기자본),2411000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1555280/000155528019000221/,
@@ -2969,21 +2969,21 @@ Teledyne,TDY,2026Q2,2026-06-28,분기말 지배지분 자본,10918500000,USD,공
 Teledyne,TDY,2026Q2,2026-06-26,분기말 종가,624.29,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/TDY?interval=1d&events=splits (2026-06-26),
 Teledyne,TDY,2026Q2,2026-07-15,분기말 상장주식수,46355673,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/1094285/000109428526000043/,dei:EntityCommonStockSharesOutstanding 클래스 합
 Teledyne,TDY,2026Q2,2026-06-26,분기말 시가총액,28939383097,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/TDY?interval=1d&events=splits (2026-06-26) ; https://www.sec.gov/Archives/edgar/data/1094285/000109428526000043/,종가 624.29 × 주식수 46355673
-Mettler-Toledo,MTD,2019Q1,2019-03-31,분기별 매출액,679452000,USD,공시,https://www.sec.gov/Archives/edgar/data/1037646/000103764619000020/,값은 XBRL 원문(companyfacts 미반영 보고서)
+Mettler-Toledo,MTD,2019Q1,2019-03-31,분기별 매출액,679452000,USD,공시,https://www.sec.gov/Archives/edgar/data/1037646/000103764619000020/,
 Mettler-Toledo,MTD,2019Q1,2019-03-31,분기별 영업이익,미확인,USD,미확인,SEC companyfacts CIK0001037646: 해당 보고서에 OperatingIncomeLoss 태그 없음(영업이익 미공시) ; SEC companyfacts CIK0001037646: OperatingIncomeLoss 태그 없음(영업이익 미공시),
-Mettler-Toledo,MTD,2019Q1,2019-03-31,분기별 당기순이익(지배),111805000,USD,공시,https://www.sec.gov/Archives/edgar/data/1037646/000103764619000020/,값은 XBRL 원문(companyfacts 미반영 보고서)
-Mettler-Toledo,MTD,2019Q1,2019-03-31,분기별 영업활동현금흐름,98795000,USD,공시,https://www.sec.gov/Archives/edgar/data/1037646/000103764619000020/,값은 XBRL 원문(companyfacts 미반영 보고서)
-Mettler-Toledo,MTD,2019Q1,2019-03-31,분기말 자산총계,2636697000,USD,공시,https://www.sec.gov/Archives/edgar/data/1037646/000103764619000020/,값은 XBRL 원문(companyfacts 미반영 보고서)
-Mettler-Toledo,MTD,2019Q1,2019-03-31,분기말 부채총계,2074947000,USD,공시,https://www.sec.gov/Archives/edgar/data/1037646/000103764619000020/,값은 XBRL 원문(companyfacts 미반영 보고서)
-Mettler-Toledo,MTD,2019Q1,2019-03-31,분기말 총자본(자기자본),561750000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/1037646/000103764619000020/,"StockholdersEquity, MinorityInterest 태그 없음 ; 값은 XBRL 원문(companyfacts 미반영 보고서)"
-Mettler-Toledo,MTD,2019Q1,2019-03-31,분기말 지배지분 자본,561750000,USD,공시,https://www.sec.gov/Archives/edgar/data/1037646/000103764619000020/,값은 XBRL 원문(companyfacts 미반영 보고서)
+Mettler-Toledo,MTD,2019Q1,2019-03-31,분기별 당기순이익(지배),111805000,USD,공시,https://www.sec.gov/Archives/edgar/data/1037646/000103764619000020/,
+Mettler-Toledo,MTD,2019Q1,2019-03-31,분기별 영업활동현금흐름,98795000,USD,공시,https://www.sec.gov/Archives/edgar/data/1037646/000103764619000020/,
+Mettler-Toledo,MTD,2019Q1,2019-03-31,분기말 자산총계,2636697000,USD,공시,https://www.sec.gov/Archives/edgar/data/1037646/000103764619000020/,
+Mettler-Toledo,MTD,2019Q1,2019-03-31,분기말 부채총계,2074947000,USD,공시,https://www.sec.gov/Archives/edgar/data/1037646/000103764619000020/,
+Mettler-Toledo,MTD,2019Q1,2019-03-31,분기말 총자본(자기자본),561750000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/1037646/000103764619000020/,"StockholdersEquity, MinorityInterest 태그 없음"
+Mettler-Toledo,MTD,2019Q1,2019-03-31,분기말 지배지분 자본,561750000,USD,공시,https://www.sec.gov/Archives/edgar/data/1037646/000103764619000020/,
 Mettler-Toledo,MTD,2019Q1,2019-03-29,분기말 종가,723.0,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/MTD?interval=1d&events=splits (2019-03-29),
-Mettler-Toledo,MTD,2019Q1,2019-03-31,분기말 상장주식수,24803286,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/1037646/000103764619000020/,dei:EntityCommonStockSharesOutstanding 클래스 합 ; 값은 XBRL 원문(companyfacts 미반영 보고서)
-Mettler-Toledo,MTD,2019Q1,2019-03-29,분기말 시가총액,17932775778,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/MTD?interval=1d&events=splits (2019-03-29) ; https://www.sec.gov/Archives/edgar/data/1037646/000103764619000020/,종가 723.0 × 주식수 24803286 ; 값은 XBRL 원문(companyfacts 미반영 보고서)
+Mettler-Toledo,MTD,2019Q1,2019-03-31,분기말 상장주식수,24803286,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/1037646/000103764619000020/,dei:EntityCommonStockSharesOutstanding 클래스 합
+Mettler-Toledo,MTD,2019Q1,2019-03-29,분기말 시가총액,17932775778,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/MTD?interval=1d&events=splits (2019-03-29) ; https://www.sec.gov/Archives/edgar/data/1037646/000103764619000020/,종가 723.0 × 주식수 24803286
 Mettler-Toledo,MTD,2019Q2,2019-06-30,분기별 매출액,731366000,USD,공시,https://www.sec.gov/Archives/edgar/data/1037646/000103764619000032/,
 Mettler-Toledo,MTD,2019Q2,2019-06-30,분기별 영업이익,미확인,USD,미확인,SEC companyfacts CIK0001037646: 해당 보고서에 OperatingIncomeLoss 태그 없음(영업이익 미공시) ; SEC companyfacts CIK0001037646: OperatingIncomeLoss 태그 없음(영업이익 미공시),
 Mettler-Toledo,MTD,2019Q2,2019-06-30,분기별 당기순이익(지배),127160000,USD,공시,https://www.sec.gov/Archives/edgar/data/1037646/000103764619000032/,
-Mettler-Toledo,MTD,2019Q2,2019-06-30,분기별 영업활동현금흐름,127070000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/1037646/000103764619000032/ ; https://www.sec.gov/Archives/edgar/data/1037646/000103764619000020/,누적 225865000 − 직전누적 98795000 (시작 2019-01-01) ; 값은 XBRL 원문(companyfacts 미반영 보고서)
+Mettler-Toledo,MTD,2019Q2,2019-06-30,분기별 영업활동현금흐름,127070000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/1037646/000103764619000032/ ; https://www.sec.gov/Archives/edgar/data/1037646/000103764619000020/,누적 225865000 − 직전누적 98795000 (시작 2019-01-01)
 Mettler-Toledo,MTD,2019Q2,2019-06-30,분기말 자산총계,2660858000,USD,공시,https://www.sec.gov/Archives/edgar/data/1037646/000103764619000032/,
 Mettler-Toledo,MTD,2019Q2,2019-06-30,분기말 부채총계,2156772000,USD,공시,https://www.sec.gov/Archives/edgar/data/1037646/000103764619000032/,
 Mettler-Toledo,MTD,2019Q2,2019-06-30,분기말 총자본(자기자본),504086000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/1037646/000103764619000032/,"StockholdersEquity, MinorityInterest 태그 없음"
@@ -5609,21 +5609,21 @@ Atmos Energy,ATO,2026Q2,2026-06-30,분기말 지배지분 자본,15258058000,USD
 Atmos Energy,ATO,2026Q2,2026-06-30,분기말 종가,172.27,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/ATO?interval=1d&events=splits (2026-06-30),
 Atmos Energy,ATO,2026Q2,2026-07-31,분기말 상장주식수,168988553,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/731802/000073180226000102/,dei:EntityCommonStockSharesOutstanding 클래스 합
 Atmos Energy,ATO,2026Q2,2026-06-30,분기말 시가총액,29111658025,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/ATO?interval=1d&events=splits (2026-06-30) ; https://www.sec.gov/Archives/edgar/data/731802/000073180226000102/,종가 172.27 × 주식수 168988553
-Fox,FOXA,2019Q1,2019-03-31,분기별 매출액,2752000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1754301/000156459019018565/,값은 XBRL 원문(companyfacts 미반영 보고서)
+Fox,FOXA,2019Q1,2019-03-31,분기별 매출액,2752000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1754301/000156459019018565/,
 Fox,FOXA,2019Q1,2019-03-31,분기별 영업이익,미확인,USD,미확인,SEC companyfacts CIK0001754301: 해당 보고서에 OperatingIncomeLoss 태그 없음(영업이익 미공시) ; SEC companyfacts CIK0001754301: OperatingIncomeLoss 태그 없음(영업이익 미공시),
-Fox,FOXA,2019Q1,2019-03-31,분기별 당기순이익(지배),529000000,USD,계산(연결-비지배),https://www.sec.gov/Archives/edgar/data/1754301/000156459019018565/,3개월 연결 539000000 − 비지배 10000000 ; 값은 XBRL 원문(companyfacts 미반영 보고서)
-Fox,FOXA,2019Q1,2019-03-31,분기별 영업활동현금흐름,1588000000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/1754301/000156459019018565/ ; https://www.sec.gov/Archives/edgar/data/1754301/000156459019008308/,누적 1624000000 − 직전누적 36000000 (시작 2018-07-01) ; 값은 XBRL 원문(companyfacts 미반영 보고서)
-Fox,FOXA,2019Q1,2019-03-31,분기말 자산총계,17657000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1754301/000156459019018565/,값은 XBRL 원문(companyfacts 미반영 보고서)
-Fox,FOXA,2019Q1,2019-03-31,분기말 부채총계,8910000000,USD,계산(부채및자본-총자본),https://www.sec.gov/Archives/edgar/data/1754301/000156459019018565/,부채및자본 17657000000 − 총자본 8611000000 − 메자닌 136000000 ; 메자닌(일시자본) 136000000 별도 ; 값은 XBRL 원문(companyfacts 미반영 보고서)
-Fox,FOXA,2019Q1,2019-03-31,분기말 총자본(자기자본),8611000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1754301/000156459019018565/,값은 XBRL 원문(companyfacts 미반영 보고서)
-Fox,FOXA,2019Q1,2019-03-31,분기말 지배지분 자본,8600000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1754301/000156459019018565/,값은 XBRL 원문(companyfacts 미반영 보고서)
+Fox,FOXA,2019Q1,2019-03-31,분기별 당기순이익(지배),529000000,USD,계산(연결-비지배),https://www.sec.gov/Archives/edgar/data/1754301/000156459019018565/,3개월 연결 539000000 − 비지배 10000000
+Fox,FOXA,2019Q1,2019-03-31,분기별 영업활동현금흐름,1588000000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/1754301/000156459019018565/ ; https://www.sec.gov/Archives/edgar/data/1754301/000156459019008308/,누적 1624000000 − 직전누적 36000000 (시작 2018-07-01)
+Fox,FOXA,2019Q1,2019-03-31,분기말 자산총계,17657000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1754301/000156459019018565/,
+Fox,FOXA,2019Q1,2019-03-31,분기말 부채총계,8910000000,USD,계산(부채및자본-총자본),https://www.sec.gov/Archives/edgar/data/1754301/000156459019018565/,부채및자본 17657000000 − 총자본 8611000000 − 메자닌 136000000 ; 메자닌(일시자본) 136000000 별도
+Fox,FOXA,2019Q1,2019-03-31,분기말 총자본(자기자본),8611000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1754301/000156459019018565/,
+Fox,FOXA,2019Q1,2019-03-31,분기말 지배지분 자본,8600000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1754301/000156459019018565/,
 Fox,FOXA,2019Q1,2019-03-29,분기말 종가,36.71,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/FOXA?interval=1d&events=splits (2019-03-29),
-Fox,FOXA,2019Q1,2019-05-07,분기말 상장주식수,620525029,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/1754301/000156459019018565/,"XBRL 원문 dei:EntityCommonStockSharesOutstanding 2개 클래스 합 ; 값은 XBRL 원문(companyfacts 미반영 보고서) ; 클래스별(2019-05-07): CommonClassAMember 354351378, CommonClassBMember 266173651"
-Fox,FOXA,2019Q1,2019-03-29,분기말 시가총액,22779473815,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/FOXA?interval=1d&events=splits (2019-03-29) ; https://www.sec.gov/Archives/edgar/data/1754301/000156459019018565/,종가 36.71 × 주식수 620525029 ; 값은 XBRL 원문(companyfacts 미반영 보고서)
-Fox,FOXA,2019Q2,2019-06-30,분기별 매출액,2513000000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/1754301/000156459019031285/ ; https://www.sec.gov/Archives/edgar/data/1754301/000156459019018565/,연간 11389000000 − 9개월누적 8876000000 (Revenues) ; 값은 XBRL 원문(companyfacts 미반영 보고서)
+Fox,FOXA,2019Q1,2019-05-07,분기말 상장주식수,620525029,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/1754301/000156459019018565/,"XBRL 원문 dei:EntityCommonStockSharesOutstanding 2개 클래스 합 ; 클래스별(2019-05-07): CommonClassAMember 354351378, CommonClassBMember 266173651"
+Fox,FOXA,2019Q1,2019-03-29,분기말 시가총액,22779473815,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/FOXA?interval=1d&events=splits (2019-03-29) ; https://www.sec.gov/Archives/edgar/data/1754301/000156459019018565/,종가 36.71 × 주식수 620525029
+Fox,FOXA,2019Q2,2019-06-30,분기별 매출액,2513000000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/1754301/000156459019031285/ ; https://www.sec.gov/Archives/edgar/data/1754301/000156459019018565/,연간 11389000000 − 9개월누적 8876000000 (Revenues)
 Fox,FOXA,2019Q2,2019-06-30,분기별 영업이익,미확인,USD,미확인,SEC companyfacts CIK0001754301: 해당 보고서에 OperatingIncomeLoss 태그 없음(영업이익 미공시) ; SEC companyfacts CIK0001754301: OperatingIncomeLoss 태그 없음(영업이익 미공시),
-Fox,FOXA,2019Q2,2019-06-30,분기별 당기순이익(지배),454000000,USD,계산(연간(연결-비지배)-3분기누적),https://www.sec.gov/Archives/edgar/data/1754301/000156459019031285/ ; https://www.sec.gov/Archives/edgar/data/1754301/000156459019018565/,연간 연결 1643000000 − 비지배 48000000 − (9개월 연결 1178000000 − 비지배 37000000) ; 값은 XBRL 원문(companyfacts 미반영 보고서)
-Fox,FOXA,2019Q2,2019-06-30,분기별 영업활동현금흐름,900000000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/1754301/000156459019031285/ ; https://www.sec.gov/Archives/edgar/data/1754301/000156459019018565/,누적 2524000000 − 직전누적 1624000000 (시작 2018-07-01) ; 값은 XBRL 원문(companyfacts 미반영 보고서)
+Fox,FOXA,2019Q2,2019-06-30,분기별 당기순이익(지배),454000000,USD,계산(연간(연결-비지배)-3분기누적),https://www.sec.gov/Archives/edgar/data/1754301/000156459019031285/ ; https://www.sec.gov/Archives/edgar/data/1754301/000156459019018565/,연간 연결 1643000000 − 비지배 48000000 − (9개월 연결 1178000000 − 비지배 37000000)
+Fox,FOXA,2019Q2,2019-06-30,분기별 영업활동현금흐름,900000000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/1754301/000156459019031285/ ; https://www.sec.gov/Archives/edgar/data/1754301/000156459019018565/,누적 2524000000 − 직전누적 1624000000 (시작 2018-07-01)
 Fox,FOXA,2019Q2,2019-06-30,분기말 자산총계,19509000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1754301/000156459019031285/,
 Fox,FOXA,2019Q2,2019-06-30,분기말 부채총계,9362000000,USD,계산(부채및자본-총자본),https://www.sec.gov/Archives/edgar/data/1754301/000156459019031285/,부채및자본 19509000000 − 총자본 9958000000 − 메자닌 189000000 ; 메자닌(일시자본) 189000000 별도
 Fox,FOXA,2019Q2,2019-06-30,분기말 총자본(자기자본),9958000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1754301/000156459019031285/,
