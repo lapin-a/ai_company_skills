@@ -12,6 +12,7 @@ import time
 import urllib.parse
 import urllib.request
 
+import backfill_2019_krx as krx
 import collect_market_round1 as cm
 import collect_round1 as cr
 
@@ -86,7 +87,8 @@ def market_rows(pkey, corp, code, first_trade):
         qend = dt.date(y, *cm.QEND[q])
         base = [corp, code, "%dQ%d" % (y, q), qend.isoformat()]
         if qend < cm.SERVICE_START:
-            out += [base + [item, cm.NO_DATA, "데이터 없음(소스 시작일)", "공공데이터포털 주식시세 V2 (서비스 시작일 이전)"] for item in cm.FIELDS]
+            # 공공데이터포털은 2020-01-02부터라 그 이전 분기는 KRX 오픈API에서 받는다 (krx-backfill-log.md)
+            out += krx.krx_market_rows(corp, code, base[2], qend)
             continue
         if qend < first_trade:
             label = "데이터 없음(API 최초 거래일 %s 이전)" % first_trade.isoformat()

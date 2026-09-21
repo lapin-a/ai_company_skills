@@ -27,7 +27,7 @@
 - **폴더 구조(2026-09-21 정리):** 국내는 `kr/`(스크립트 · `kr/data/` · `kr/logs/`), 미국은 `us/`(스크립트 · `us/data/` · `us/logs/`). 스크립트는 저장소 루트에서 실행한다(예: `python us/collect_us_round16.py`).
 - 데이터셋: 국내 `kr/data/round1-dataset.csv` ~ `round5-dataset.csv` (5개) · 미국 `us/data/us-round1-dataset.csv` ~ `us-round16-dataset.csv` (16개). 라운드별 요약은 같은 이름의 `-summary.json`.
 - 대형주 100 목록: `kr/largecap100.csv` (기준일 2026-09-16, 생성 `kr/build_largecap100.py`)
-- 수집 스크립트 (국내): `collect_round1.py`(DART 재무 파서·공통 로직), `collect_market_round1.py`(시장데이터), `collect_round2.py`(수집 실행 본체), `collect_round3.py`·`collect_round4.py`·`collect_round5.py`(대상·출력 파일만 바꿔 collect_round2 재사용), `round4_probe.py`(후보 검증, 라운드 5도 재사용), `backfill_2019_krx.py`(KRX 오픈API로 2019년 시장 3항목 백필)
+- 수집 스크립트 (국내): `collect_round1.py`(DART 재무 파서·공통 로직), `collect_market_round1.py`(시장데이터), `collect_round2.py`(수집 실행 본체), `collect_round3.py`·`collect_round4.py`·`collect_round5.py`(대상·출력 파일만 바꿔 collect_round2 재사용), `round4_probe.py`(후보 검증, 라운드 5도 재사용), `backfill_2019_krx.py`(KRX 오픈API로 2019년 시장 3항목 백필 · 수집기가 쓰는 `krx_market_rows`)
 - 수집 스크립트 (미국): `us_probe.py`(후보 발굴·검증), `collect_us_round1.py`(수집 본체), `collect_us_round2.py`(원문 XBRL 보충·클래스 주식수·주석), `collect_us_round3.py`(분기 라벨 보완), `collect_us_round4.py`(MRVL 옛 CIK 이어 붙임), `collect_us_round5.py`(ACN Class A), `collect_us_round6.py`(VRT 합병 전 처리·ABNB 후속 보고서 보완), `collect_us_round7.py`(CEG 분사 전 처리), `collect_us_round8.py`·`collect_us_round9.py`·`collect_us_round10.py`·`collect_us_round11.py`·`collect_us_round12.py`·`collect_us_round13.py`·`collect_us_round14.py`·`collect_us_round15.py`·`collect_us_round16.py`(대상만 교체)
   - 라운드 4 이후 미국 스크립트는 1→2→3을 차례로 재사용한다. 공용 규칙은 모두 `collect_us_round1.py`에 있다.
 - 검증 스크립트: `tmp_verify/outliers_kr.py`(이상치·부호전환, 국내·미국 공용), `tmp_verify/recheck_calc_kr.py`(국내 계산값 재확인), `tmp_verify/compare_kr.py`·`recheck_kr.py`(국내 재수집 비교)
@@ -164,6 +164,10 @@
   - 전 라운드에서 걸린 건 2건: ZTS `0001555280-19-000221`(2019-08-06 → 2019-06-30), NOW `0001373715-18-000058`(2018-02-28 → 2017-12-31).
   - 두 건 모두 **라벨 겹침 → 순차 배정**을 잘못 발동시켜 해당 회사의 30개 분기 라벨을 통째로 한 칸씩 밀고 있었다. ZTS 315칸·NOW 330칸을 고쳤고, `us-round5-dataset.csv`·`us-round14-dataset.csv`를 다시 만들어 정본으로 채택했다.
   - 국내 5 + 미국 15 데이터셋 전체(331개 기업)에 같은 유형이 더 없는지 라벨-기준일 정합성을 전수 점검했다(`tmp_verify/us7/labelcheck.py`) → **0건**.
+- 미국 라운드 16 규칙 — **읽기 경로가 놓친 칸 보완(2026-09-21)**, `collect_us_round2.py`. 상세 [us-round16-log.md](us/logs/us-round16-log.md) 9절.
+  - **규칙 1 · 회사 확장 태그**: 항목의 태그 계열(매출·영업이익·순이익·영업CF)이 보고서에서 **통째로** 빠졌을 때만 XBRL 원문을 연다. 이름이 us-gaap 폐지 태그와 같아 뜻이 분명한 확장 태그(`ALIAS`)만 표준 이름으로 읽는다. 그 회사 원문에도 없으면 같은 계열로는 다시 열지 않는다.
+  - **규칙 2 · 후속 보고서 비교기간**: 그래도 미확인인 손익 칸(4분기 제외)은 같은 기간이 비교기간으로 실린 다른 보고서에서 읽는다. **가장 먼저 낸 보고서**를 쓰고 값구분 `공시(후속 보고서 비교기간)`으로 구분한다. 라운드 6 ABNB 특례를 일반 규칙으로 올렸다.
+  - **규칙 2는 재작성 미반영 원칙(진행 중 사항 5번)과 어긋나지 않는다.** 그 분기 보고서에 읽을 수 있는 값이 **아예 없을 때만** 작동하므로 원 공시값을 덮어쓰는 일이 없다. 실측 근거는 5번 항목에 적었다.
 
 ## 확정 규칙
 
@@ -304,6 +308,8 @@
   - 2019년 시장데이터 **567칸을 채웠다**(국내 612칸 중). 상세 [krx-backfill-log.md](kr/logs/krx-backfill-log.md), 이전 401 기록은 [round5-log.md](kr/logs/round5-log.md) 0절.
   - 쓰는 엔드포인트: `sto/stk_bydd_trd`(코스피)·`sto/ksq_bydd_trd`(코스닥) 일별매매정보 — `TDD_CLSPRC`(종가)·`LIST_SHRS`(상장주식수)·`MKTCAP`(시가총액). `sto/stk_isu_base_info`는 상장일 확인용.
   - **코스피·코스닥을 함께 조회한다.** 2019년에 시장이 달랐던 기업이 있다(포스코퓨처엠 = 당시 포스코케미칼·코스닥).
+  - **수집기 반영(2026-09-21):** `collect_round2.market_rows`가 2020-01-02 이전 분기를 KRX에서 받는다. 라운드 6부터 2019년 시장데이터가 처음부터 채워진다. 백필과 수집기가 같은 함수(`backfill_2019_krx.krx_market_rows`)를 쓰고, 국내 612칸으로 대조해 전부 일치했다.
+  - **`sto/ksq_isu_base_info`(코스닥 종목 기본정보)만 아직 401이다.** 승인받은 7개에 없었다. 2019년 KRX 일별매매에 없는 코스닥 종목은 상장일을 확인할 수 없어 `미확인`으로 둔다(추측으로 상장 전을 붙이지 않는다). 지금 데이터셋엔 해당 칸이 없다.
 - ~~SEC 연결 불가~~ → **2026-09-19 재확인: `data.sec.gov`(submissions·companyfacts)·`efts.sec.gov` 접근 가능.** `www.sec.gov`도 **Python urllib로는 접근 가능**하다(curl만 실패, 000). 원문 XBRL(`Archives/…/*_htm.xml`)은 urllib로 받는다. 상세 [us-round1-log.md](us/logs/us-round1-log.md) 8절
 - KRX (`data.krx.co.kr`, `kind.krx.co.kr`, `openapi.krx.co.kr`), 네이버 금융: ~~연결 불가~~ → 2026-09-19 재확인(Python urllib). `data.krx.co.kr`은 접속되지만 로그인이 필요하다. `kind.krx.co.kr`은 접속된다. 네이버 `fchart` 차트 API는 접근된다(비공식, 종가만 제공). KRX API 키는 `.claude/settings.local.json`의 `env.KRX_API_KEY`에 등록돼 있고, 2026-09-21부터 `data-dbg.krx.co.kr` 오픈API가 열렸다(위 항목). 2019년 시장데이터는 그것으로 채웠다.
 - 증권상품시세(ETF) API: 이번 프로젝트 수집 대상 아님
@@ -340,9 +346,14 @@
 2. **금융회사 수집** — 항목 세트는 결정됨(영업수익·순이자이익·순수수료이익 + 공통 7항목, round3-log.md 결정 2). 대상 19개 기업은 별도 라운드로 수집한다.
 3. ~~대형주 100 목록 확정~~ → 완료: `largecap100.csv` (2026-09-18).
 4. **상장주식수 변동 사유** — 삼성전자 2025Q1·2026Q2 감소는 API 원값 확인만 했고 사유는 미확인.
-5. **재작성(restatement) 반영 여부** — 현재는 반영하지 않는다. 정정 보고서를 쓰는 규칙과의 관계를 정리해야 한다.
+5. **재작성(restatement) 반영 여부** — 현재는 반영하지 않는다. 각 분기 값은 **그 분기 보고서**에서 읽고, 나중 보고서의 재작성 숫자로 덮어쓰지 않는다.
    - 실제 사례: HMM 2023Q1 지배 순이익은 처음 공시값이 285,402백만인데, 2분기 보고서에서 297,612백만으로 재작성됐다.
    - 그래서 1~4분기 합(4분기는 재작성이 반영된 9개월 누적으로 계산)이 연간값과 12,210백만 어긋난다(round4-log.md 11절).
+   - **라운드 16 규칙 2와의 관계 — 정리됨 (2026-09-21).** 규칙 2는 나중 보고서에서 값을 가져오지만, 그 분기 보고서에 읽을 수 있는 값이 아예 없을 때만 작동한다. 덮어쓸 원 공시값이 없으므로 이 원칙과 충돌하지 않는다. "가장 먼저 낸 보고서"를 써서 원 공시에 가장 가까운 숫자를 고른다.
+     - **실측(`tmp_verify/us7/restate16.py`):** 해당 값구분 28칸마다 그 기간이 실린 보고서를 전부 모아 값을 비교했다.
+     - **26칸은 모든 보고서의 값이 같다** — 재작성이 없었고, 규칙 2는 원 공시와 같은 숫자를 썼다.
+     - **2칸(ABNB 2020Q4 총자본·지배지분 자본)만 둘로 갈린다.** 2021-05~2022-11 보고서 7건은 2,901,783,000, FY2022 10-K(2023-02) 이후는 2,901,000,000이다. ABNB가 이때 공시 단위를 천 달러 → 백만 달러로 바꿨다. 반올림이면 2,902M이어야 해서 단순 반올림은 아니다(합계 맞춤 조정 또는 소폭 재작성, 미확인). **"가장 먼저 낸 보고서" 규칙이 원래의 정밀한 값 2,901,783,000을 골랐다** — 의도대로 작동했다.
+   - **남은 질문(대표 결정 필요):** HMM처럼 **원 공시값이 있는데 나중에 재작성된 경우**에 재작성값을 쓸지는 여전히 열려 있다. 지금은 원 공시값을 쓴다.
 6. ~~이상치 규칙 보완~~ → **확정 (2026-09-18): D안.** 아래 "이상치 판정" 절 참조. 21개 기업 기준 189건(당시 방식). 통일된 방식으로는 174건이다(2026-09-19).
 7. ~~별도재무제표 수집 여부~~ → 결정: 연결 원칙 유지, 별도로 채우지 않는다 (round3-log.md 결정 4).
 
