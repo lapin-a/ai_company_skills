@@ -21,7 +21,7 @@ c.main()
 """
 
 if __name__ == "__main__":
-    rounds = [int(a) for a in sys.argv[1:]] or list(range(1, 17))
+    rounds = [int(a) for a in sys.argv[1:]] or list(range(1, 32))
     for rnd in rounds:
         src = CHILD % (os.path.join(ROOT, "us"), ROOT, rnd, "qd%d-dataset.csv" % rnd)
         p = subprocess.run([sys.executable, "-c", src], cwd=ROOT,

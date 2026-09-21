@@ -535,6 +535,7 @@ def market_rows(corp, tk, cik, reps, fx, series, splits):
 
 ITEMS = ["분기별 매출액", "분기별 영업이익", "분기별 당기순이익(지배)", "분기별 영업활동현금흐름", "분기말 자산총계",
          "분기말 부채총계", "분기말 총자본(자기자본)", "분기말 지배지분 자본", "분기말 종가", "분기말 상장주식수", "분기말 시가총액"]
+STOCK = ITEMS[4:8]  # 저량 4항목 (자산·부채·총자본·지배지분 자본)
 
 
 def restate_rows(corp, tk, cik, reps, forms, fx):
@@ -566,6 +567,17 @@ def restate_rows(corp, tk, cik, reps, forms, fx):
             new[key] = o
             if f and num(f[5]) and f[5] != o[5]:
                 RESTATED.append(o[:5] + ["재분류(미반영)", o[5], o[7], o[8], f[5], f[8]])
+    # 저량 4항목은 한 묶음: 하나라도 재작성 검증 실패로 원 공시를 두면 나머지도 원 공시로 되돌린다
+    # (지배지분 자본만 재작성값이 들어가 총자본 = 지배 + 비지배가 깨지는 것 방지, us-round31-log.md 5절)
+    failed = {(x[2], x[4]) for x in RESTATED if x[1] == tk and x[5] == "재작성 검증 실패(원 공시 유지)"}
+    for lab in {lab for lab, item in failed if item in STOCK}:
+        for item in STOCK:
+            o, r = orig.get((lab, item)), new.get((lab, item))
+            if (lab, item) in failed or not o or not num(o[5]) or r is o:
+                continue
+            new[(lab, item)] = o
+            RESTATED[:] = [x for x in RESTATED if not (x[1] == tk and x[2] == lab and x[4] == item)]
+            RESTATED.append(o[:5] + ["재작성 검증 실패(원 공시 유지)", o[5], o[7], o[8], r[5], r[8]])
     # 검증 실패 목록은 최종 행 기준 (원 공시로 되돌린 칸은 빼고, 원 공시에서 실패했던 칸은 넣는다)
     left = {lab for (lab, _), r in new.items() if r[5] == "미확인"}
     fails = [x for x in dict.fromkeys(ofails + fails) if x[0] in left]

@@ -15,7 +15,7 @@ def load(p):
     return d
 
 
-for rnd in [int(a) for a in sys.argv[1:]] or list(range(1, 17)):
+for rnd in [int(a) for a in sys.argv[1:]] or list(range(1, 32)):
     a_p = os.path.join(ROOT, "us", "data", "us-round%d-dataset.csv" % rnd)
     b_p = os.path.join(TMP, "qd%d-dataset.csv" % rnd)
     if not os.path.exists(b_p):
