@@ -46,7 +46,7 @@ Edwards Lifesciences,EW,2019Q4,2019-12-31,분기말 시가총액,48786206222,USD
 Edwards Lifesciences,EW,2020Q1,2020-03-31,분기별 매출액,1128700000,USD,공시,https://www.sec.gov/Archives/edgar/data/1099800/000109980020000009/,
 Edwards Lifesciences,EW,2020Q1,2020-03-31,분기별 영업이익,358100000,USD,공시,https://www.sec.gov/Archives/edgar/data/1099800/000109980020000009/,
 Edwards Lifesciences,EW,2020Q1,2020-03-31,분기별 당기순이익(지배),310600000,USD,공시(보통주 귀속),https://www.sec.gov/Archives/edgar/data/1099800/000109980020000009/,
-Edwards Lifesciences,EW,2020Q1,2020-03-31,분기별 영업활동현금흐름,207100000,USD,공시(재작성 반영),https://www.sec.gov/Archives/edgar/data/1099800/000109980021000012/,원 공시 207000000 (https://www.sec.gov/Archives/edgar/data/1099800/000109980020000009/)
+Edwards Lifesciences,EW,2020Q1,2020-03-31,분기별 영업활동현금흐름,207000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1099800/000109980020000009/,
 Edwards Lifesciences,EW,2020Q1,2020-03-31,분기말 자산총계,6076100000,USD,공시,https://www.sec.gov/Archives/edgar/data/1099800/000109980020000009/,
 Edwards Lifesciences,EW,2020Q1,2020-03-31,분기말 부채총계,2175000000,USD,계산(부채및자본-총자본),https://www.sec.gov/Archives/edgar/data/1099800/000109980020000009/,부채및자본 6076100000 − 총자본 3901100000
 Edwards Lifesciences,EW,2020Q1,2020-03-31,분기말 총자본(자기자본),3901100000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/1099800/000109980020000009/,"StockholdersEquity, MinorityInterest 태그 없음"
@@ -57,7 +57,7 @@ Edwards Lifesciences,EW,2020Q1,2020-03-31,분기말 시가총액,38960357134,USD
 Edwards Lifesciences,EW,2020Q2,2020-06-30,분기별 매출액,925000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1099800/000109980020000019/,
 Edwards Lifesciences,EW,2020Q2,2020-06-30,분기별 영업이익,-169700000,USD,공시,https://www.sec.gov/Archives/edgar/data/1099800/000109980020000019/,
 Edwards Lifesciences,EW,2020Q2,2020-06-30,분기별 당기순이익(지배),-121900000,USD,공시(보통주 귀속),https://www.sec.gov/Archives/edgar/data/1099800/000109980020000019/,
-Edwards Lifesciences,EW,2020Q2,2020-06-30,분기별 영업활동현금흐름,231300000,USD,계산(누적차감)(재작성 반영),https://www.sec.gov/Archives/edgar/data/1099800/000109980021000022/ ; https://www.sec.gov/Archives/edgar/data/1099800/000109980021000012/,누적 438400000 − 직전누적 207100000 (시작 2020-01-01) ; 원 공시 231200000 (https://www.sec.gov/Archives/edgar/data/1099800/000109980020000019/ ; https://www.sec.gov/Archives/edgar/data/1099800/000109980020000009/)
+Edwards Lifesciences,EW,2020Q2,2020-06-30,분기별 영업활동현금흐름,231400000,USD,계산(누적차감)(재작성 반영),https://www.sec.gov/Archives/edgar/data/1099800/000109980021000022/ ; https://www.sec.gov/Archives/edgar/data/1099800/000109980020000009/,누적 438400000 − 직전누적 207000000 (시작 2020-01-01) ; 원 공시 231200000 (https://www.sec.gov/Archives/edgar/data/1099800/000109980020000019/ ; https://www.sec.gov/Archives/edgar/data/1099800/000109980020000009/)
 Edwards Lifesciences,EW,2020Q2,2020-06-30,분기말 자산총계,6424100000,USD,공시,https://www.sec.gov/Archives/edgar/data/1099800/000109980020000019/,
 Edwards Lifesciences,EW,2020Q2,2020-06-30,분기말 부채총계,2585000000,USD,계산(부채및자본-총자본),https://www.sec.gov/Archives/edgar/data/1099800/000109980020000019/,부채및자본 6424100000 − 총자본 3839100000
 Edwards Lifesciences,EW,2020Q2,2020-06-30,분기말 총자본(자기자본),3839100000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/1099800/000109980020000019/,"StockholdersEquity, MinorityInterest 태그 없음"
@@ -3586,7 +3586,7 @@ Rockwell Automation,ROK,2025Q2,2025-06-30,분기말 종가,332.17,USD,API,https:
 Rockwell Automation,ROK,2025Q2,2025-06-30,분기말 상장주식수,112434397,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/1024478/000102447825000083/,dei:EntityCommonStockSharesOutstanding 클래스 합
 Rockwell Automation,ROK,2025Q2,2025-06-30,분기말 시가총액,37347333651,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/ROK?interval=1d&events=splits (2025-06-30) ; https://www.sec.gov/Archives/edgar/data/1024478/000102447825000083/,종가 332.17 × 주식수 112434397
 Rockwell Automation,ROK,2025Q3,2025-09-30,분기별 매출액,2316000000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/1024478/000102447825000116/ ; https://www.sec.gov/Archives/edgar/data/1024478/000102447825000083/,연간 8342000000 − 9개월누적 6026000000 (RevenueFromContractWithCustomerExcludingAssessedTax)
-Rockwell Automation,ROK,2025Q3,2025-09-30,분기별 영업이익,미확인,USD,미확인,https://www.sec.gov/Archives/edgar/data/1024478/000102447825000116/,
+Rockwell Automation,ROK,2025Q3,2025-09-30,분기별 영업이익,520000000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/1024478/000102447825000116/ ; https://www.sec.gov/Archives/edgar/data/1024478/000102447826000030/,연간 1703000000 − 9개월누적 1183000000 (OperatingIncomeLoss)
 Rockwell Automation,ROK,2025Q3,2025-09-30,분기별 당기순이익(지배),138000000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/1024478/000102447825000116/ ; https://www.sec.gov/Archives/edgar/data/1024478/000102447825000083/,연간 869000000 − 9개월누적 731000000 (NetIncomeLoss)
 Rockwell Automation,ROK,2025Q3,2025-09-30,분기별 영업활동현금흐름,454000000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/1024478/000102447825000116/ ; https://www.sec.gov/Archives/edgar/data/1024478/000102447825000083/,누적 1544000000 − 직전누적 1090000000 (시작 2024-10-01)
 Rockwell Automation,ROK,2025Q3,2025-09-30,분기말 자산총계,11219000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1024478/000102447825000116/,
@@ -3839,7 +3839,7 @@ L3Harris Technologies,LHX,2023Q3,2023-09-29,분기말 종가,174.12,USD,API,http
 L3Harris Technologies,LHX,2023Q3,2023-10-20,분기말 상장주식수,189540249,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/202058/000020205823000057/,dei:EntityCommonStockSharesOutstanding 클래스 합
 L3Harris Technologies,LHX,2023Q3,2023-09-29,분기말 시가총액,33002748156,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/LHX?interval=1d&events=splits (2023-09-29) ; https://www.sec.gov/Archives/edgar/data/202058/000020205823000057/,종가 174.12 × 주식수 189540249
 L3Harris Technologies,LHX,2023Q4,2023-12-29,분기별 매출액,5340000000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/202058/000020205824000029/ ; https://www.sec.gov/Archives/edgar/data/202058/000020205823000057/,연간 19419000000 − 9개월누적 14079000000 (RevenueFromContractWithCustomerExcludingAssessedTax)
-L3Harris Technologies,LHX,2023Q4,2023-12-29,분기별 영업이익,미확인,USD,미확인,https://www.sec.gov/Archives/edgar/data/202058/000020205824000029/,
+L3Harris Technologies,LHX,2023Q4,2023-12-29,분기별 영업이익,154000000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/202058/000020205824000029/ ; https://www.sec.gov/Archives/edgar/data/202058/000020205824000168/,연간 1426000000 − 9개월누적 1272000000 (OperatingIncomeLoss)
 L3Harris Technologies,LHX,2023Q4,2023-12-29,분기별 당기순이익(지배),158000000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/202058/000020205824000029/ ; https://www.sec.gov/Archives/edgar/data/202058/000020205823000057/,연간 1227000000 − 9개월누적 1069000000 (NetIncomeLoss)
 L3Harris Technologies,LHX,2023Q4,2023-12-29,분기별 영업활동현금흐름,789000000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/202058/000020205824000029/ ; https://www.sec.gov/Archives/edgar/data/202058/000020205823000057/,누적 2096000000 − 직전누적 1307000000 (시작 2022-12-31)
 L3Harris Technologies,LHX,2023Q4,2023-12-29,분기말 자산총계,41687000000,USD,공시,https://www.sec.gov/Archives/edgar/data/202058/000020205824000029/,

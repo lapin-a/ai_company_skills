@@ -583,7 +583,7 @@ Snap-on,SNA,2024Q3,2024-09-27,분기말 종가,288.51,USD,API,https://query1.fin
 Snap-on,SNA,2024Q3,2024-10-11,분기말 상장주식수,52507402,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/91440/000009144024000062/,dei:EntityCommonStockSharesOutstanding 클래스 합
 Snap-on,SNA,2024Q3,2024-09-27,분기말 시가총액,15148910551,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/SNA?interval=1d&events=splits (2024-09-27) ; https://www.sec.gov/Archives/edgar/data/91440/000009144024000062/,종가 288.51 × 주식수 52507402
 Snap-on,SNA,2024Q4,2024-12-28,분기별 매출액,1299200000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/91440/000009144025000010/ ; https://www.sec.gov/Archives/edgar/data/91440/000009144024000062/,연간 5108400000 − 9개월누적 3809200000 (Revenues)
-Snap-on,SNA,2024Q4,2024-12-28,분기별 영업이익,미확인,USD,미확인,https://www.sec.gov/Archives/edgar/data/91440/000009144025000010/,
+Snap-on,SNA,2024Q4,2024-12-28,분기별 영업이익,331900000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/91440/000009144025000010/ ; https://www.sec.gov/Archives/edgar/data/91440/000009144025000081/,연간 1345700000 − 9개월누적 1013800000 (OperatingIncomeLoss)
 Snap-on,SNA,2024Q4,2024-12-28,분기별 당기순이익(지배),258100000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/91440/000009144025000010/ ; https://www.sec.gov/Archives/edgar/data/91440/000009144024000062/,연간 1043900000 − 9개월누적 785800000 (NetIncomeLoss)
 Snap-on,SNA,2024Q4,2024-12-28,분기별 영업활동현금흐름,293500000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/91440/000009144025000010/ ; https://www.sec.gov/Archives/edgar/data/91440/000009144024000062/,누적 1217500000 − 직전누적 924000000 (시작 2023-12-31)
 Snap-on,SNA,2024Q4,2024-12-28,분기말 자산총계,7896800000,USD,공시,https://www.sec.gov/Archives/edgar/data/91440/000009144025000010/,
@@ -1015,9 +1015,9 @@ Broadridge,BR,2019Q3,2019-09-30,분기별 매출액,948600000,USD,공시,https:/
 Broadridge,BR,2019Q3,2019-09-30,분기별 영업이익,73100000,USD,공시,https://www.sec.gov/Archives/edgar/data/1383312/000138331219000059/,
 Broadridge,BR,2019Q3,2019-09-30,분기별 당기순이익(지배),55900000,USD,공시,https://www.sec.gov/Archives/edgar/data/1383312/000138331219000059/,
 Broadridge,BR,2019Q3,2019-09-30,분기별 영업활동현금흐름,-86400000,USD,공시,https://www.sec.gov/Archives/edgar/data/1383312/000138331219000059/,
-Broadridge,BR,2019Q3,2019-09-30,분기말 자산총계,미확인,USD,미확인,https://www.sec.gov/Archives/edgar/data/1383312/000138331219000059/,자체 검증 실패: 자산 4220100000 ≠ 부채 3076600000 + 총자본 1143400000 + 메자닌 0 (차이 100000)
-Broadridge,BR,2019Q3,2019-09-30,분기말 부채총계,미확인,USD,미확인,https://www.sec.gov/Archives/edgar/data/1383312/000138331219000059/,자체 검증 실패: 자산 4220100000 ≠ 부채 3076600000 + 총자본 1143400000 + 메자닌 0 (차이 100000)
-Broadridge,BR,2019Q3,2019-09-30,분기말 총자본(자기자본),미확인,USD,미확인,https://www.sec.gov/Archives/edgar/data/1383312/000138331219000059/,자체 검증 실패: 자산 4220100000 ≠ 부채 3076600000 + 총자본 1143400000 + 메자닌 0 (차이 100000)
+Broadridge,BR,2019Q3,2019-09-30,분기말 자산총계,4220100000,USD,공시,https://www.sec.gov/Archives/edgar/data/1383312/000138331219000059/,
+Broadridge,BR,2019Q3,2019-09-30,분기말 부채총계,3076600000,USD,공시,https://www.sec.gov/Archives/edgar/data/1383312/000138331219000059/,
+Broadridge,BR,2019Q3,2019-09-30,분기말 총자본(자기자본),1143400000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/1383312/000138331219000059/,"StockholdersEquity, MinorityInterest 태그 없음"
 Broadridge,BR,2019Q3,2019-09-30,분기말 지배지분 자본,1143400000,USD,공시,https://www.sec.gov/Archives/edgar/data/1383312/000138331219000059/,
 Broadridge,BR,2019Q3,2019-09-30,분기말 종가,124.43,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/BR?interval=1d&events=splits (2019-09-30),
 Broadridge,BR,2019Q3,2019-10-31,분기말 상장주식수,114646129,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/1383312/000138331219000059/,dei:EntityCommonStockSharesOutstanding 클래스 합
@@ -1037,9 +1037,9 @@ Broadridge,BR,2020Q1,2020-03-31,분기별 매출액,1249900000,USD,공시,https:
 Broadridge,BR,2020Q1,2020-03-31,분기별 영업이익,226300000,USD,공시,https://www.sec.gov/Archives/edgar/data/1383312/000138331220000031/,
 Broadridge,BR,2020Q1,2020-03-31,분기별 당기순이익(지배),166800000,USD,공시,https://www.sec.gov/Archives/edgar/data/1383312/000138331220000031/,
 Broadridge,BR,2020Q1,2020-03-31,분기별 영업활동현금흐름,144100000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/1383312/000138331220000031/ ; https://www.sec.gov/Archives/edgar/data/1383312/000138331220000013/,누적 155600000 − 직전누적 11500000 (시작 2019-07-01)
-Broadridge,BR,2020Q1,2020-03-31,분기말 자산총계,미확인,USD,미확인,https://www.sec.gov/Archives/edgar/data/1383312/000138331220000031/,자체 검증 실패: 자산 4913500000 ≠ 부채 3710900000 + 총자본 1202500000 + 메자닌 0 (차이 100000)
-Broadridge,BR,2020Q1,2020-03-31,분기말 부채총계,미확인,USD,미확인,https://www.sec.gov/Archives/edgar/data/1383312/000138331220000031/,자체 검증 실패: 자산 4913500000 ≠ 부채 3710900000 + 총자본 1202500000 + 메자닌 0 (차이 100000)
-Broadridge,BR,2020Q1,2020-03-31,분기말 총자본(자기자본),미확인,USD,미확인,https://www.sec.gov/Archives/edgar/data/1383312/000138331220000031/,자체 검증 실패: 자산 4913500000 ≠ 부채 3710900000 + 총자본 1202500000 + 메자닌 0 (차이 100000)
+Broadridge,BR,2020Q1,2020-03-31,분기말 자산총계,4913500000,USD,공시,https://www.sec.gov/Archives/edgar/data/1383312/000138331220000031/,
+Broadridge,BR,2020Q1,2020-03-31,분기말 부채총계,3710900000,USD,공시,https://www.sec.gov/Archives/edgar/data/1383312/000138331220000031/,
+Broadridge,BR,2020Q1,2020-03-31,분기말 총자본(자기자본),1202500000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/1383312/000138331220000031/,"StockholdersEquity, MinorityInterest 태그 없음"
 Broadridge,BR,2020Q1,2020-03-31,분기말 지배지분 자본,1202500000,USD,공시,https://www.sec.gov/Archives/edgar/data/1383312/000138331220000031/,
 Broadridge,BR,2020Q1,2020-03-31,분기말 종가,94.83,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/BR?interval=1d&events=splits (2020-03-31),
 Broadridge,BR,2020Q1,2020-05-01,분기말 상장주식수,114817479,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/1383312/000138331220000031/,dei:EntityCommonStockSharesOutstanding 클래스 합
@@ -1048,9 +1048,9 @@ Broadridge,BR,2020Q2,2020-06-30,분기별 매출액,1361900000,USD,계산(연간
 Broadridge,BR,2020Q2,2020-06-30,분기별 영업이익,298800000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/1383312/000138331220000055/ ; https://www.sec.gov/Archives/edgar/data/1383312/000138331220000031/,연간 624900000 − 9개월누적 326100000 (OperatingIncomeLoss)
 Broadridge,BR,2020Q2,2020-06-30,분기별 당기순이익(지배),229700000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/1383312/000138331220000055/ ; https://www.sec.gov/Archives/edgar/data/1383312/000138331220000031/,연간 462500000 − 9개월누적 232800000 (NetIncomeLoss)
 Broadridge,BR,2020Q2,2020-06-30,분기별 영업활동현금흐름,442600000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/1383312/000138331220000055/ ; https://www.sec.gov/Archives/edgar/data/1383312/000138331220000031/,누적 598200000 − 직전누적 155600000 (시작 2019-07-01)
-Broadridge,BR,2020Q2,2020-06-30,분기말 자산총계,미확인,USD,미확인,https://www.sec.gov/Archives/edgar/data/1383312/000138331220000055/,자체 검증 실패: 자산 4889800000 ≠ 부채 3543200000 + 총자본 1346500000 + 메자닌 0 (차이 100000)
-Broadridge,BR,2020Q2,2020-06-30,분기말 부채총계,미확인,USD,미확인,https://www.sec.gov/Archives/edgar/data/1383312/000138331220000055/,자체 검증 실패: 자산 4889800000 ≠ 부채 3543200000 + 총자본 1346500000 + 메자닌 0 (차이 100000)
-Broadridge,BR,2020Q2,2020-06-30,분기말 총자본(자기자본),미확인,USD,미확인,https://www.sec.gov/Archives/edgar/data/1383312/000138331220000055/,자체 검증 실패: 자산 4889800000 ≠ 부채 3543200000 + 총자본 1346500000 + 메자닌 0 (차이 100000)
+Broadridge,BR,2020Q2,2020-06-30,분기말 자산총계,4889800000,USD,공시,https://www.sec.gov/Archives/edgar/data/1383312/000138331220000055/,
+Broadridge,BR,2020Q2,2020-06-30,분기말 부채총계,3543200000,USD,공시,https://www.sec.gov/Archives/edgar/data/1383312/000138331220000055/,
+Broadridge,BR,2020Q2,2020-06-30,분기말 총자본(자기자본),1346500000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/1383312/000138331220000055/,"StockholdersEquity, MinorityInterest 태그 없음"
 Broadridge,BR,2020Q2,2020-06-30,분기말 지배지분 자본,1346500000,USD,공시,https://www.sec.gov/Archives/edgar/data/1383312/000138331220000055/,
 Broadridge,BR,2020Q2,2020-06-30,분기말 종가,126.19,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/BR?interval=1d&events=splits (2020-06-30),
 Broadridge,BR,2020Q2,2020-07-31,분기말 상장주식수,115161503,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/1383312/000138331220000055/,dei:EntityCommonStockSharesOutstanding 클래스 합
@@ -1081,9 +1081,9 @@ Broadridge,BR,2021Q1,2021-03-31,분기별 매출액,1389800000,USD,공시,https:
 Broadridge,BR,2021Q1,2021-03-31,분기별 영업이익,239200000,USD,공시,https://www.sec.gov/Archives/edgar/data/1383312/000138331221000024/,
 Broadridge,BR,2021Q1,2021-03-31,분기별 당기순이익(지배),165000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1383312/000138331221000024/,
 Broadridge,BR,2021Q1,2021-03-31,분기별 영업활동현금흐름,106200000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/1383312/000138331221000024/ ; https://www.sec.gov/Archives/edgar/data/1383312/000138331221000009/,누적 189500000 − 직전누적 83300000 (시작 2020-07-01)
-Broadridge,BR,2021Q1,2021-03-31,분기말 자산총계,미확인,USD,미확인,https://www.sec.gov/Archives/edgar/data/1383312/000138331221000024/,자체 검증 실패: 자산 5186800000 ≠ 부채 3597400000 + 총자본 1589300000 + 메자닌 0 (차이 100000)
-Broadridge,BR,2021Q1,2021-03-31,분기말 부채총계,미확인,USD,미확인,https://www.sec.gov/Archives/edgar/data/1383312/000138331221000024/,자체 검증 실패: 자산 5186800000 ≠ 부채 3597400000 + 총자본 1589300000 + 메자닌 0 (차이 100000)
-Broadridge,BR,2021Q1,2021-03-31,분기말 총자본(자기자본),미확인,USD,미확인,https://www.sec.gov/Archives/edgar/data/1383312/000138331221000024/,자체 검증 실패: 자산 5186800000 ≠ 부채 3597400000 + 총자본 1589300000 + 메자닌 0 (차이 100000)
+Broadridge,BR,2021Q1,2021-03-31,분기말 자산총계,5186800000,USD,공시,https://www.sec.gov/Archives/edgar/data/1383312/000138331221000024/,
+Broadridge,BR,2021Q1,2021-03-31,분기말 부채총계,3597400000,USD,공시,https://www.sec.gov/Archives/edgar/data/1383312/000138331221000024/,
+Broadridge,BR,2021Q1,2021-03-31,분기말 총자본(자기자본),1589300000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/1383312/000138331221000024/,"StockholdersEquity, MinorityInterest 태그 없음"
 Broadridge,BR,2021Q1,2021-03-31,분기말 지배지분 자본,1589300000,USD,공시,https://www.sec.gov/Archives/edgar/data/1383312/000138331221000024/,
 Broadridge,BR,2021Q1,2021-03-31,분기말 종가,153.1,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/BR?interval=1d&events=splits (2021-03-31),
 Broadridge,BR,2021Q1,2021-04-29,분기말 상장주식수,116125688,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/1383312/000138331221000024/,dei:EntityCommonStockSharesOutstanding 클래스 합
@@ -1092,9 +1092,9 @@ Broadridge,BR,2021Q2,2021-06-30,분기별 매출액,1531600000,USD,계산(연간
 Broadridge,BR,2021Q2,2021-06-30,분기별 영업이익,281400000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/1383312/000138331221000047/ ; https://www.sec.gov/Archives/edgar/data/1383312/000138331221000024/,연간 678700000 − 9개월누적 397300000 (OperatingIncomeLoss)
 Broadridge,BR,2021Q2,2021-06-30,분기별 당기순이익(지배),260400000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/1383312/000138331221000047/ ; https://www.sec.gov/Archives/edgar/data/1383312/000138331221000024/,연간 547500000 − 9개월누적 287100000 (NetIncomeLoss)
 Broadridge,BR,2021Q2,2021-06-30,분기별 영업활동현금흐름,450600000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/1383312/000138331221000047/ ; https://www.sec.gov/Archives/edgar/data/1383312/000138331221000024/,누적 640100000 − 직전누적 189500000 (시작 2020-07-01)
-Broadridge,BR,2021Q2,2021-06-30,분기말 자산총계,미확인,USD,미확인,https://www.sec.gov/Archives/edgar/data/1383312/000138331221000047/,자체 검증 실패: 자산 8119800000 ≠ 부채 6310600000 + 총자본 1809100000 + 메자닌 0 (차이 100000)
-Broadridge,BR,2021Q2,2021-06-30,분기말 부채총계,미확인,USD,미확인,https://www.sec.gov/Archives/edgar/data/1383312/000138331221000047/,자체 검증 실패: 자산 8119800000 ≠ 부채 6310600000 + 총자본 1809100000 + 메자닌 0 (차이 100000)
-Broadridge,BR,2021Q2,2021-06-30,분기말 총자본(자기자본),미확인,USD,미확인,https://www.sec.gov/Archives/edgar/data/1383312/000138331221000047/,자체 검증 실패: 자산 8119800000 ≠ 부채 6310600000 + 총자본 1809100000 + 메자닌 0 (차이 100000)
+Broadridge,BR,2021Q2,2021-06-30,분기말 자산총계,8119800000,USD,공시,https://www.sec.gov/Archives/edgar/data/1383312/000138331221000047/,
+Broadridge,BR,2021Q2,2021-06-30,분기말 부채총계,6310600000,USD,공시,https://www.sec.gov/Archives/edgar/data/1383312/000138331221000047/,
+Broadridge,BR,2021Q2,2021-06-30,분기말 총자본(자기자본),1809100000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/1383312/000138331221000047/,"StockholdersEquity, MinorityInterest 태그 없음"
 Broadridge,BR,2021Q2,2021-06-30,분기말 지배지분 자본,1809100000,USD,공시,https://www.sec.gov/Archives/edgar/data/1383312/000138331221000047/,
 Broadridge,BR,2021Q2,2021-06-30,분기말 종가,161.53,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/BR?interval=1d&events=splits (2021-06-30),
 Broadridge,BR,2021Q2,2021-07-30,분기말 상장주식수,116168325,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/1383312/000138331221000047/,dei:EntityCommonStockSharesOutstanding 클래스 합
@@ -1103,9 +1103,9 @@ Broadridge,BR,2021Q3,2021-09-30,분기별 매출액,1192900000,USD,공시,https:
 Broadridge,BR,2021Q3,2021-09-30,분기별 영업이익,103300000,USD,공시,https://www.sec.gov/Archives/edgar/data/1383312/000138331221000057/,
 Broadridge,BR,2021Q3,2021-09-30,분기별 당기순이익(지배),67200000,USD,공시,https://www.sec.gov/Archives/edgar/data/1383312/000138331221000057/,
 Broadridge,BR,2021Q3,2021-09-30,분기별 영업활동현금흐름,-135400000,USD,공시,https://www.sec.gov/Archives/edgar/data/1383312/000138331221000057/,
-Broadridge,BR,2021Q3,2021-09-30,분기말 자산총계,미확인,USD,미확인,https://www.sec.gov/Archives/edgar/data/1383312/000138331221000057/,자체 검증 실패: 자산 8028400000 ≠ 부채 6274500000 + 총자본 1753800000 + 메자닌 0 (차이 100000)
-Broadridge,BR,2021Q3,2021-09-30,분기말 부채총계,미확인,USD,미확인,https://www.sec.gov/Archives/edgar/data/1383312/000138331221000057/,자체 검증 실패: 자산 8028400000 ≠ 부채 6274500000 + 총자본 1753800000 + 메자닌 0 (차이 100000)
-Broadridge,BR,2021Q3,2021-09-30,분기말 총자본(자기자본),미확인,USD,미확인,https://www.sec.gov/Archives/edgar/data/1383312/000138331221000057/,자체 검증 실패: 자산 8028400000 ≠ 부채 6274500000 + 총자본 1753800000 + 메자닌 0 (차이 100000)
+Broadridge,BR,2021Q3,2021-09-30,분기말 자산총계,8028400000,USD,공시,https://www.sec.gov/Archives/edgar/data/1383312/000138331221000057/,
+Broadridge,BR,2021Q3,2021-09-30,분기말 부채총계,6274500000,USD,공시,https://www.sec.gov/Archives/edgar/data/1383312/000138331221000057/,
+Broadridge,BR,2021Q3,2021-09-30,분기말 총자본(자기자본),1753800000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/1383312/000138331221000057/,"StockholdersEquity, MinorityInterest 태그 없음"
 Broadridge,BR,2021Q3,2021-09-30,분기말 지배지분 자본,1753800000,USD,공시,https://www.sec.gov/Archives/edgar/data/1383312/000138331221000057/,
 Broadridge,BR,2021Q3,2021-09-30,분기말 종가,166.64,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/BR?interval=1d&events=splits (2021-09-30),
 Broadridge,BR,2021Q3,2021-10-29,분기말 상장주식수,116578068,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/1383312/000138331221000057/,dei:EntityCommonStockSharesOutstanding 클래스 합
@@ -1114,9 +1114,9 @@ Broadridge,BR,2021Q4,2021-12-31,분기별 매출액,1259600000,USD,공시,https:
 Broadridge,BR,2021Q4,2021-12-31,분기별 영업이익,68900000,USD,공시,https://www.sec.gov/Archives/edgar/data/1383312/000138331222000007/,
 Broadridge,BR,2021Q4,2021-12-31,분기별 당기순이익(지배),47200000,USD,공시,https://www.sec.gov/Archives/edgar/data/1383312/000138331222000007/,
 Broadridge,BR,2021Q4,2021-12-31,분기별 영업활동현금흐름,40800000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/1383312/000138331222000007/ ; https://www.sec.gov/Archives/edgar/data/1383312/000138331221000057/,누적 -94600000 − 직전누적 -135400000 (시작 2021-07-01)
-Broadridge,BR,2021Q4,2021-12-31,분기말 자산총계,미확인,USD,미확인,https://www.sec.gov/Archives/edgar/data/1383312/000138331222000007/,자체 검증 실패: 자산 8115900000 ≠ 부채 6367900000 + 총자본 1748100000 + 메자닌 0 (차이 -100000)
-Broadridge,BR,2021Q4,2021-12-31,분기말 부채총계,미확인,USD,미확인,https://www.sec.gov/Archives/edgar/data/1383312/000138331222000007/,자체 검증 실패: 자산 8115900000 ≠ 부채 6367900000 + 총자본 1748100000 + 메자닌 0 (차이 -100000)
-Broadridge,BR,2021Q4,2021-12-31,분기말 총자본(자기자본),미확인,USD,미확인,https://www.sec.gov/Archives/edgar/data/1383312/000138331222000007/,자체 검증 실패: 자산 8115900000 ≠ 부채 6367900000 + 총자본 1748100000 + 메자닌 0 (차이 -100000)
+Broadridge,BR,2021Q4,2021-12-31,분기말 자산총계,8115900000,USD,공시,https://www.sec.gov/Archives/edgar/data/1383312/000138331222000007/,
+Broadridge,BR,2021Q4,2021-12-31,분기말 부채총계,6367900000,USD,공시,https://www.sec.gov/Archives/edgar/data/1383312/000138331222000007/,
+Broadridge,BR,2021Q4,2021-12-31,분기말 총자본(자기자본),1748100000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/1383312/000138331222000007/,"StockholdersEquity, MinorityInterest 태그 없음"
 Broadridge,BR,2021Q4,2021-12-31,분기말 지배지분 자본,1748100000,USD,공시,https://www.sec.gov/Archives/edgar/data/1383312/000138331222000007/,
 Broadridge,BR,2021Q4,2021-12-31,분기말 종가,182.82,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/BR?interval=1d&events=splits (2021-12-31),
 Broadridge,BR,2021Q4,2022-01-27,분기말 상장주식수,116772573,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/1383312/000138331222000007/,dei:EntityCommonStockSharesOutstanding 클래스 합
@@ -1125,9 +1125,9 @@ Broadridge,BR,2022Q1,2022-03-31,분기별 매출액,1533700000,USD,공시,https:
 Broadridge,BR,2022Q1,2022-03-31,분기별 영업이익,246000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1383312/000138331222000022/,
 Broadridge,BR,2022Q1,2022-03-31,분기별 당기순이익(지배),176600000,USD,공시,https://www.sec.gov/Archives/edgar/data/1383312/000138331222000022/,
 Broadridge,BR,2022Q1,2022-03-31,분기별 영업활동현금흐름,80700000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/1383312/000138331222000022/ ; https://www.sec.gov/Archives/edgar/data/1383312/000138331222000007/,누적 -13900000 − 직전누적 -94600000 (시작 2021-07-01)
-Broadridge,BR,2022Q1,2022-03-31,분기말 자산총계,미확인,USD,미확인,https://www.sec.gov/Archives/edgar/data/1383312/000138331222000022/,자체 검증 실패: 자산 8349500000 ≠ 부채 6528400000 + 총자본 1821000000 + 메자닌 0 (차이 100000)
-Broadridge,BR,2022Q1,2022-03-31,분기말 부채총계,미확인,USD,미확인,https://www.sec.gov/Archives/edgar/data/1383312/000138331222000022/,자체 검증 실패: 자산 8349500000 ≠ 부채 6528400000 + 총자본 1821000000 + 메자닌 0 (차이 100000)
-Broadridge,BR,2022Q1,2022-03-31,분기말 총자본(자기자본),미확인,USD,미확인,https://www.sec.gov/Archives/edgar/data/1383312/000138331222000022/,자체 검증 실패: 자산 8349500000 ≠ 부채 6528400000 + 총자본 1821000000 + 메자닌 0 (차이 100000)
+Broadridge,BR,2022Q1,2022-03-31,분기말 자산총계,8349500000,USD,공시,https://www.sec.gov/Archives/edgar/data/1383312/000138331222000022/,
+Broadridge,BR,2022Q1,2022-03-31,분기말 부채총계,6528400000,USD,공시,https://www.sec.gov/Archives/edgar/data/1383312/000138331222000022/,
+Broadridge,BR,2022Q1,2022-03-31,분기말 총자본(자기자본),1821000000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/1383312/000138331222000022/,"StockholdersEquity, MinorityInterest 태그 없음"
 Broadridge,BR,2022Q1,2022-03-31,분기말 지배지분 자본,1821000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1383312/000138331222000022/,
 Broadridge,BR,2022Q1,2022-03-31,분기말 종가,155.71,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/BR?interval=1d&events=splits (2022-03-31),
 Broadridge,BR,2022Q1,2022-04-28,분기말 상장주식수,117226832,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/1383312/000138331222000022/,dei:EntityCommonStockSharesOutstanding 클래스 합
@@ -1136,9 +1136,9 @@ Broadridge,BR,2022Q2,2022-06-30,분기별 매출액,1722900000,USD,계산(연간
 Broadridge,BR,2022Q2,2022-06-30,분기별 영업이익,341700000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/1383312/000138331222000037/ ; https://www.sec.gov/Archives/edgar/data/1383312/000138331222000022/,연간 759900000 − 9개월누적 418200000 (OperatingIncomeLoss)
 Broadridge,BR,2022Q2,2022-06-30,분기별 당기순이익(지배),248100000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/1383312/000138331222000037/ ; https://www.sec.gov/Archives/edgar/data/1383312/000138331222000022/,연간 539100000 − 9개월누적 291000000 (NetIncomeLoss)
 Broadridge,BR,2022Q2,2022-06-30,분기별 영업활동현금흐름,457400000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/1383312/000138331222000037/ ; https://www.sec.gov/Archives/edgar/data/1383312/000138331222000022/,누적 443500000 − 직전누적 -13900000 (시작 2021-07-01)
-Broadridge,BR,2022Q2,2022-06-30,분기말 자산총계,미확인,USD,미확인,https://www.sec.gov/Archives/edgar/data/1383312/000138331222000037/,자체 검증 실패: 자산 8168800000 ≠ 부채 6249800000 + 총자본 1919100000 + 메자닌 0 (차이 -100000)
-Broadridge,BR,2022Q2,2022-06-30,분기말 부채총계,미확인,USD,미확인,https://www.sec.gov/Archives/edgar/data/1383312/000138331222000037/,자체 검증 실패: 자산 8168800000 ≠ 부채 6249800000 + 총자본 1919100000 + 메자닌 0 (차이 -100000)
-Broadridge,BR,2022Q2,2022-06-30,분기말 총자본(자기자본),미확인,USD,미확인,https://www.sec.gov/Archives/edgar/data/1383312/000138331222000037/,자체 검증 실패: 자산 8168800000 ≠ 부채 6249800000 + 총자본 1919100000 + 메자닌 0 (차이 -100000)
+Broadridge,BR,2022Q2,2022-06-30,분기말 자산총계,8168800000,USD,공시,https://www.sec.gov/Archives/edgar/data/1383312/000138331222000037/,
+Broadridge,BR,2022Q2,2022-06-30,분기말 부채총계,6249800000,USD,공시,https://www.sec.gov/Archives/edgar/data/1383312/000138331222000037/,
+Broadridge,BR,2022Q2,2022-06-30,분기말 총자본(자기자본),1919100000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/1383312/000138331222000037/,"StockholdersEquity, MinorityInterest 태그 없음"
 Broadridge,BR,2022Q2,2022-06-30,분기말 지배지분 자본,1919100000,USD,공시,https://www.sec.gov/Archives/edgar/data/1383312/000138331222000037/,
 Broadridge,BR,2022Q2,2022-06-30,분기말 종가,142.55,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/BR?interval=1d&events=splits (2022-06-30),
 Broadridge,BR,2022Q2,2022-08-05,분기말 상장주식수,117302388,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/1383312/000138331222000037/,dei:EntityCommonStockSharesOutstanding 클래스 합
@@ -1191,9 +1191,9 @@ Broadridge,BR,2023Q3,2023-09-30,분기별 매출액,1431100000,USD,공시,https:
 Broadridge,BR,2023Q3,2023-09-30,분기별 영업이익,148400000,USD,공시,https://www.sec.gov/Archives/edgar/data/1383312/000138331223000049/,
 Broadridge,BR,2023Q3,2023-09-30,분기별 당기순이익(지배),90900000,USD,공시,https://www.sec.gov/Archives/edgar/data/1383312/000138331223000049/,
 Broadridge,BR,2023Q3,2023-09-30,분기별 영업활동현금흐름,-62000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1383312/000138331223000049/,
-Broadridge,BR,2023Q3,2023-09-30,분기말 자산총계,미확인,USD,미확인,https://www.sec.gov/Archives/edgar/data/1383312/000138331223000049/,자체 검증 실패: 자산 8071200000 ≠ 부채 5958400000 + 총자본 2112700000 + 메자닌 0 (차이 100000)
-Broadridge,BR,2023Q3,2023-09-30,분기말 부채총계,미확인,USD,미확인,https://www.sec.gov/Archives/edgar/data/1383312/000138331223000049/,자체 검증 실패: 자산 8071200000 ≠ 부채 5958400000 + 총자본 2112700000 + 메자닌 0 (차이 100000)
-Broadridge,BR,2023Q3,2023-09-30,분기말 총자본(자기자본),미확인,USD,미확인,https://www.sec.gov/Archives/edgar/data/1383312/000138331223000049/,자체 검증 실패: 자산 8071200000 ≠ 부채 5958400000 + 총자본 2112700000 + 메자닌 0 (차이 100000)
+Broadridge,BR,2023Q3,2023-09-30,분기말 자산총계,8071200000,USD,공시,https://www.sec.gov/Archives/edgar/data/1383312/000138331223000049/,
+Broadridge,BR,2023Q3,2023-09-30,분기말 부채총계,5958400000,USD,공시,https://www.sec.gov/Archives/edgar/data/1383312/000138331223000049/,
+Broadridge,BR,2023Q3,2023-09-30,분기말 총자본(자기자본),2112700000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/1383312/000138331223000049/,"StockholdersEquity, MinorityInterest 태그 없음"
 Broadridge,BR,2023Q3,2023-09-30,분기말 지배지분 자본,2112700000,USD,공시,https://www.sec.gov/Archives/edgar/data/1383312/000138331223000049/,
 Broadridge,BR,2023Q3,2023-09-29,분기말 종가,179.05,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/BR?interval=1d&events=splits (2023-09-29),
 Broadridge,BR,2023Q3,2023-10-30,분기말 상장주식수,117647038,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/1383312/000138331223000049/,dei:EntityCommonStockSharesOutstanding 클래스 합
@@ -1312,9 +1312,9 @@ Broadridge,BR,2026Q2,2026-06-30,분기별 매출액,2219900000,USD,계산(연간
 Broadridge,BR,2026Q2,2026-06-30,분기별 영업이익,546300000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/1383312/000162828026052243/ ; https://www.sec.gov/Archives/edgar/data/1383312/000162828026028675/,연간 1300600000 − 9개월누적 754300000 (OperatingIncomeLoss)
 Broadridge,BR,2026Q2,2026-06-30,분기별 당기순이익(지배),398100000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/1383312/000162828026052243/ ; https://www.sec.gov/Archives/edgar/data/1383312/000162828026028675/,연간 1124300000 − 9개월누적 726200000 (NetIncomeLoss)
 Broadridge,BR,2026Q2,2026-06-30,분기별 영업활동현금흐름,677400000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/1383312/000162828026052243/ ; https://www.sec.gov/Archives/edgar/data/1383312/000162828026028675/,누적 1345600000 − 직전누적 668200000 (시작 2025-07-01)
-Broadridge,BR,2026Q2,2026-06-30,분기말 자산총계,미확인,USD,미확인,https://www.sec.gov/Archives/edgar/data/1383312/000162828026052243/,자체 검증 실패: 자산 8945300000 ≠ 부채 6104700000 + 총자본 2840500000 + 메자닌 0 (차이 100000)
-Broadridge,BR,2026Q2,2026-06-30,분기말 부채총계,미확인,USD,미확인,https://www.sec.gov/Archives/edgar/data/1383312/000162828026052243/,자체 검증 실패: 자산 8945300000 ≠ 부채 6104700000 + 총자본 2840500000 + 메자닌 0 (차이 100000)
-Broadridge,BR,2026Q2,2026-06-30,분기말 총자본(자기자본),미확인,USD,미확인,https://www.sec.gov/Archives/edgar/data/1383312/000162828026052243/,자체 검증 실패: 자산 8945300000 ≠ 부채 6104700000 + 총자본 2840500000 + 메자닌 0 (차이 100000)
+Broadridge,BR,2026Q2,2026-06-30,분기말 자산총계,8945300000,USD,공시,https://www.sec.gov/Archives/edgar/data/1383312/000162828026052243/,
+Broadridge,BR,2026Q2,2026-06-30,분기말 부채총계,6104700000,USD,공시,https://www.sec.gov/Archives/edgar/data/1383312/000162828026052243/,
+Broadridge,BR,2026Q2,2026-06-30,분기말 총자본(자기자본),2840500000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/1383312/000162828026052243/,"StockholdersEquity, MinorityInterest 태그 없음"
 Broadridge,BR,2026Q2,2026-06-30,분기말 지배지분 자본,2840500000,USD,공시,https://www.sec.gov/Archives/edgar/data/1383312/000162828026052243/,
 Broadridge,BR,2026Q2,2026-06-30,분기말 종가,136.95,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/BR?interval=1d&events=splits (2026-06-30),
 Broadridge,BR,2026Q2,2026-07-31,분기말 상장주식수,114021798,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/1383312/000162828026052243/,dei:EntityCommonStockSharesOutstanding 클래스 합

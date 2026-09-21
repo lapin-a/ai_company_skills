@@ -155,9 +155,18 @@ class Facts:
                 return e, a
         x = max(later, key=lambda x: (x["filed"], x["accn"]))
         scale = 10 ** (len(str(abs(x["val"]))) - len(str(abs(x["val"])).rstrip("0"))) if x["val"] else 1
-        if x["val"] == e["val"] or (scale >= 1000 and abs(x["val"] - e["val"]) < scale):
+        # 0.1백만 단위 공시는 1단위(10만) 차이도 반올림으로 본다 (EFX 2020Q1·Q3 총자본)
+        if x["val"] == e["val"] or (scale >= 1000 and abs(x["val"] - e["val"]) < scale) \
+                or (scale == 10 ** 5 and abs(x["val"] - e["val"]) == scale):
             return e, a
         return x, x["accn"]
+
+    def find_later9(self, tag, end):
+        """보고서 구분 없이 그 기간 9개월 누적을 실은 10-Q/10-K 중 가장 늦게 낸 것 (비교기간 값)."""
+        es = [e for (tg, _), v in self.idx.items() if tg == tag for e in v
+              if e["end"] == end and e.get("form") in FORMS and "start" in e and 250 <= days(e) <= 290]
+        e = max(es, key=lambda x: (x.get("filed", ""), x["accn"]), default=None)
+        return (e, e["accn"]) if e else (None, None)
 
     def has(self, tags, accns, end):
         return any(self.find(t, accns, end, k)[0] for t in tags for k in ("I", "Q", "Y", "C"))
@@ -208,10 +217,17 @@ def fin_rows(corp, tk, cik, reps, forms, fx):
                         break
                     # 매출은 연간과 9개월 누적의 태그가 다를 수 있다 (NVDA: Revenues ↔ RevenueFromContract…)
                     c = ca = t2 = None
-                    for t2 in ([t] + [x for x in tags if x != t]) if item == "분기별 매출액" else [t]:
+                    # 비지배가 없으면 ProfitLoss와 보통주 귀속은 같은 지배 몫이다 (VTRS: 연간 ProfitLoss, 1~3분기 보통주 귀속)
+                    alt = [x for x in tags if x != t] if item == "분기별 매출액" else \
+                        [x for x in ("ProfitLoss", NI_COMMON) if x != t] if note and not fx.has(nci, reps[p], p) \
+                        and not fx.find(NI_COMMON, accns, end, "Y")[0] else []
+                    for t2 in [t] + alt:
                         c, ca = fx.find(t2, reps[p], p, "9")
                         if c:
                             break
+                    if not c and item == "분기별 영업이익":
+                        # 직전 10-Q에 9개월 누적이 없으면 나중 보고서 비교기간에서 읽는다 (SNA 2024Q4)
+                        c, ca = fx.find_later9(t, p)
                     if c and qtag.get(item) and qtag[item] != t:
                         # 1~3분기와 다른 태그로 4분기를 계산하면 기준이 섞인다. 두 태그의 9개월 누적이
                         # 같을 때만 쓴다 (NVDA는 같고, UNP는 Revenues 16,071 ≠ 계약매출 14,947).
@@ -236,6 +252,12 @@ def fin_rows(corp, tk, cik, reps, forms, fx):
                     put(lab, end, item, pl["val"] - nc["val"], "계산(연결-비지배)", link(cik, pla),
                         "3개월 연결 %d − 비지배 %d" % (pl["val"], nc["val"]))
                     done = True
+                elif not nc:
+                    # 분기 비지배 없이 누적 비지배만 있어 연결=지배 판정이 안 될 때, 보통주 귀속은 정의상 지배 몫이다 (BALL)
+                    cm, cma = fx.find(NI_COMMON, accns, end, "Q")
+                    if cm:
+                        put(lab, end, item, cm["val"], "공시(보통주 귀속)", link(cik, cma), "분기 비지배 태그 없음")
+                        done = True
             if not done and nci and is_k and p:
                 # 연간 지배 순이익 태그가 없고 연결(ProfitLoss)·비지배만 있는 10-K (AVGO FY2019·FY2020)
                 pl, pla = fx.find("ProfitLoss", accns, end, "Y")
@@ -331,8 +353,9 @@ def fin_rows(corp, tk, cik, reps, forms, fx):
                   "부채및자본 %d − 총자본 %d" % (LSE["val"], te[0]) + (" − 메자닌 %d" % mezz if mezz else ""))
         # 자체 검증: 자산 = 부채 + 총자본 (+ 메자닌), 총자본 = 지배 + 비지배
         # 공시 단위(백만·천 달러)에서 반올림된 값끼리는 1단위 차이가 날 수 있다 (GE·PG, 미국 라운드 3)
+        # 0.1백만 단위 공시도 있다 (BR·ZBH·STE, 미국 라운드 17~30)
         vals = [v for v in (A and A["val"], li and li[0], te and te[0], pe and pe[0]) if v]
-        tol = next((u for u in (10 ** 6, 10 ** 3) if vals and all(v % u == 0 for v in vals)), 1)
+        tol = next((u for u in (10 ** 6, 10 ** 5, 10 ** 3) if vals and all(v % u == 0 for v in vals)), 1)
         ok = A and li and te and abs(A["val"] - li[0] - te[0] - mezz) <= tol
         mezz_in_li = False
         if A and li and te and not ok and mezz and abs(A["val"] - li[0] - te[0]) <= tol:
