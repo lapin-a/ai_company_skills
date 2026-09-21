@@ -213,7 +213,7 @@ Oracle,ORCL,2023Q4,2023-11-30,분기별 영업이익,3622000000,USD,공시,https
 Oracle,ORCL,2023Q4,2023-11-30,분기별 당기순이익(지배),2503000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1341439/000095017023069682/,
 Oracle,ORCL,2023Q4,2023-11-30,분기별 영업활동현금흐름,143000000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/1341439/000095017023069682/ ; https://www.sec.gov/Archives/edgar/data/1341439/000095017023047713/,누적 7117000000 − 직전누적 6974000000 (시작 2023-06-01)
 Oracle,ORCL,2023Q4,2023-11-30,분기말 자산총계,134324000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1341439/000095017023069682/,
-Oracle,ORCL,2023Q4,2023-11-30,분기말 부채총계,129946000000,USD,계산(부채및자본-총자본),https://www.sec.gov/Archives/edgar/data/1341439/000095017023069682/,부채및자본 134324000000 − 총자본 4378000000
+Oracle,ORCL,2023Q4,2023-11-30,분기말 부채총계,128142000000,USD,계산(부채및자본-총자본)(재작성 반영),https://www.sec.gov/Archives/edgar/data/1341439/000095017023069682/,부채및자본 134324000000 − 총자본 6182000000 ; 원 공시 129946000000 (https://www.sec.gov/Archives/edgar/data/1341439/000095017023069682/)
 Oracle,ORCL,2023Q4,2023-11-30,분기말 총자본(자기자본),4378000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1341439/000095017023069682/,
 Oracle,ORCL,2023Q4,2023-11-30,분기말 지배지분 자본,3866000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1341439/000095017023069682/,
 Oracle,ORCL,2023Q4,2023-11-30,분기말 종가,116.21,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/ORCL?interval=1d&events=splits (2023-11-30),
@@ -989,8 +989,8 @@ Costco,COST,2026Q2,2026-05-10,분기말 지배지분 자본,33509000000,USD,공�
 Costco,COST,2026Q2,2026-05-08,분기말 종가,1008.79,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/COST?interval=1d&events=splits (2026-05-08),
 Costco,COST,2026Q2,2026-05-27,분기말 상장주식수,443478804,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/909832/000090983226000051/,dei:EntityCommonStockSharesOutstanding 클래스 합
 Costco,COST,2026Q2,2026-05-08,분기말 시가총액,447376982687,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/COST?interval=1d&events=splits (2026-05-08) ; https://www.sec.gov/Archives/edgar/data/909832/000090983226000051/,종가 1008.79 × 주식수 443478804
-Coca-Cola,KO,2019Q1,2019-03-29,분기별 매출액,8020000000,USD,공시,https://www.sec.gov/Archives/edgar/data/21344/000002134419000028/,
-Coca-Cola,KO,2019Q1,2019-03-29,분기별 영업이익,2336000000,USD,공시,https://www.sec.gov/Archives/edgar/data/21344/000002134419000028/,
+Coca-Cola,KO,2019Q1,2019-03-29,분기별 매출액,8694000000,USD,공시(재작성 반영),https://www.sec.gov/Archives/edgar/data/21344/000002134420000014/,원 공시 8020000000 (https://www.sec.gov/Archives/edgar/data/21344/000002134419000028/)
+Coca-Cola,KO,2019Q1,2019-03-29,분기별 영업이익,2435000000,USD,공시(재작성 반영),https://www.sec.gov/Archives/edgar/data/21344/000002134420000014/,원 공시 2336000000 (https://www.sec.gov/Archives/edgar/data/21344/000002134419000028/)
 Coca-Cola,KO,2019Q1,2019-03-29,분기별 당기순이익(지배),1678000000,USD,공시,https://www.sec.gov/Archives/edgar/data/21344/000002134419000028/,
 Coca-Cola,KO,2019Q1,2019-03-29,분기별 영업활동현금흐름,699000000,USD,공시,https://www.sec.gov/Archives/edgar/data/21344/000002134419000028/,
 Coca-Cola,KO,2019Q1,2019-03-29,분기말 자산총계,88347000000,USD,공시,https://www.sec.gov/Archives/edgar/data/21344/000002134419000028/,
@@ -2192,10 +2192,10 @@ Dell Technologies,DELL,2023Q4,2024-02-02,분기별 매출액,22318000000,USD,계
 Dell Technologies,DELL,2023Q4,2024-02-02,분기별 영업이익,1491000000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/1571996/000157199624000036/ ; https://www.sec.gov/Archives/edgar/data/1571996/000157199623000046/,연간 5211000000 − 9개월누적 3720000000 (OperatingIncomeLoss)
 Dell Technologies,DELL,2023Q4,2024-02-02,분기별 당기순이익(지배),1160000000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/1571996/000157199624000036/ ; https://www.sec.gov/Archives/edgar/data/1571996/000157199623000046/,연간 3211000000 − 9개월누적 2051000000 (NetIncomeLoss)
 Dell Technologies,DELL,2023Q4,2024-02-02,분기별 영업활동현금흐름,1533000000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/1571996/000157199624000036/ ; https://www.sec.gov/Archives/edgar/data/1571996/000157199623000046/,누적 8676000000 − 직전누적 7143000000 (시작 2023-02-04)
-Dell Technologies,DELL,2023Q4,2024-02-02,분기말 자산총계,82089000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1571996/000157199624000036/,
-Dell Technologies,DELL,2023Q4,2024-02-02,분기말 부채총계,84398000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1571996/000157199624000036/,
-Dell Technologies,DELL,2023Q4,2024-02-02,분기말 총자본(자기자본),-2309000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1571996/000157199624000036/,
-Dell Technologies,DELL,2023Q4,2024-02-02,분기말 지배지분 자본,-2404000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1571996/000157199624000036/,
+Dell Technologies,DELL,2023Q4,2024-02-02,분기말 자산총계,82126000000,USD,공시(재작성 반영),https://www.sec.gov/Archives/edgar/data/1571996/000157199625000034/,원 공시 82089000000 (https://www.sec.gov/Archives/edgar/data/1571996/000157199624000036/)
+Dell Technologies,DELL,2023Q4,2024-02-02,분기말 부채총계,84258000000,USD,공시(재작성 반영),https://www.sec.gov/Archives/edgar/data/1571996/000157199625000034/,원 공시 84398000000 (https://www.sec.gov/Archives/edgar/data/1571996/000157199624000036/)
+Dell Technologies,DELL,2023Q4,2024-02-02,분기말 총자본(자기자본),-2132000000,USD,공시(재작성 반영),https://www.sec.gov/Archives/edgar/data/1571996/000157199626000008/,원 공시 -2309000000 (https://www.sec.gov/Archives/edgar/data/1571996/000157199624000036/)
+Dell Technologies,DELL,2023Q4,2024-02-02,분기말 지배지분 자본,-2227000000,USD,공시(재작성 반영),https://www.sec.gov/Archives/edgar/data/1571996/000157199625000034/,원 공시 -2404000000 (https://www.sec.gov/Archives/edgar/data/1571996/000157199624000036/)
 Dell Technologies,DELL,2023Q4,2024-02-02,분기말 종가,86.32,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/DELL?interval=1d&events=splits (2024-02-02),
 Dell Technologies,DELL,2023Q4,2024-03-18,분기말 상장주식수,713790335,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/1571996/000157199624000036/,"XBRL 원문 dei:EntityCommonStockSharesOutstanding 3개 클래스 합 ; 클래스별(2024-03-18): CommonClassCMember 305216717, CommonClassAMember 328262341, CommonClassBMember 80311277"
 Dell Technologies,DELL,2023Q4,2024-02-02,분기말 시가총액,61614381717,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/DELL?interval=1d&events=splits (2024-02-02) ; https://www.sec.gov/Archives/edgar/data/1571996/000157199624000036/,종가 86.32 × 주식수 713790335
@@ -3336,8 +3336,8 @@ GE Aerospace,GE,2019Q4,2019-12-31,분기별 매출액,26238000000,USD,계산(연
 GE Aerospace,GE,2019Q4,2019-12-31,분기별 영업이익,미확인,USD,미확인,SEC companyfacts CIK0000040545: 해당 보고서에 OperatingIncomeLoss 태그 없음(영업이익 미공시) ; https://www.sec.gov/Archives/edgar/data/40545/000004054520000009/,
 GE Aerospace,GE,2019Q4,2019-12-31,분기별 당기순이익(지배),728000000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/40545/000004054520000009/ ; https://www.sec.gov/Archives/edgar/data/40545/000004054519000069/,연간 -4979000000 − 9개월누적 -5707000000 (NetIncomeLoss)
 GE Aerospace,GE,2019Q4,2019-12-31,분기별 영업활동현금흐름,6739000000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/40545/000004054520000009/ ; https://www.sec.gov/Archives/edgar/data/40545/000004054519000069/,누적 8772000000 − 직전누적 2033000000 (시작 2019-01-01)
-GE Aerospace,GE,2019Q4,2019-12-31,분기말 자산총계,266048000000,USD,공시,https://www.sec.gov/Archives/edgar/data/40545/000004054520000009/,
-GE Aerospace,GE,2019Q4,2019-12-31,분기말 부채총계,236187000000,USD,공시,https://www.sec.gov/Archives/edgar/data/40545/000004054520000009/,메자닌(일시자본) 439000000 부채총계에 포함
+GE Aerospace,GE,2019Q4,2019-12-31,분기말 자산총계,265177000000,USD,공시(재작성 반영),https://www.sec.gov/Archives/edgar/data/40545/000004054521000011/,원 공시 266048000000 (https://www.sec.gov/Archives/edgar/data/40545/000004054520000009/)
+GE Aerospace,GE,2019Q4,2019-12-31,분기말 부채총계,235316000000,USD,공시(재작성 반영),https://www.sec.gov/Archives/edgar/data/40545/000004054521000011/,메자닌(일시자본) 439000000 부채총계에 포함 ; 원 공시 236187000000 (https://www.sec.gov/Archives/edgar/data/40545/000004054520000009/)
 GE Aerospace,GE,2019Q4,2019-12-31,분기말 총자본(자기자본),29861000000,USD,공시,https://www.sec.gov/Archives/edgar/data/40545/000004054520000009/,
 GE Aerospace,GE,2019Q4,2019-12-31,분기말 지배지분 자본,28316000000,USD,공시,https://www.sec.gov/Archives/edgar/data/40545/000004054520000009/,
 GE Aerospace,GE,2019Q4,2019-12-31,분기말 종가,11.16,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/GE?interval=1d&events=splits (2019-12-31),분할조정 종가 55.6229 × 이후 분할계수 0.200637
@@ -3380,8 +3380,8 @@ GE Aerospace,GE,2020Q4,2020-12-31,분기별 매출액,21929000000,USD,계산(연
 GE Aerospace,GE,2020Q4,2020-12-31,분기별 영업이익,미확인,USD,미확인,SEC companyfacts CIK0000040545: 해당 보고서에 OperatingIncomeLoss 태그 없음(영업이익 미공시) ; https://www.sec.gov/Archives/edgar/data/40545/000004054521000011/,
 GE Aerospace,GE,2020Q4,2020-12-31,분기별 당기순이익(지배),2636000000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/40545/000004054521000011/ ; https://www.sec.gov/Archives/edgar/data/40545/000004054520000058/,연간 5704000000 − 9개월누적 3068000000 (NetIncomeLoss)
 GE Aerospace,GE,2020Q4,2020-12-31,분기별 영업활동현금흐름,3634000000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/40545/000004054521000011/ ; https://www.sec.gov/Archives/edgar/data/40545/000004054520000058/,누적 3597000000 − 직전누적 -37000000 (시작 2020-01-01)
-GE Aerospace,GE,2020Q4,2020-12-31,분기말 자산총계,253452000000,USD,공시,https://www.sec.gov/Archives/edgar/data/40545/000004054521000011/,
-GE Aerospace,GE,2020Q4,2020-12-31,분기말 부채총계,216378000000,USD,공시,https://www.sec.gov/Archives/edgar/data/40545/000004054521000011/,메자닌(일시자본) 487000000 부채총계에 포함
+GE Aerospace,GE,2020Q4,2020-12-31,분기말 자산총계,256211000000,USD,공시(재작성 반영),https://www.sec.gov/Archives/edgar/data/40545/000004054522000008/,원 공시 253452000000 (https://www.sec.gov/Archives/edgar/data/40545/000004054521000011/)
+GE Aerospace,GE,2020Q4,2020-12-31,분기말 부채총계,219138000000,USD,공시(재작성 반영),https://www.sec.gov/Archives/edgar/data/40545/000004054522000008/,메자닌(일시자본) 487000000 부채총계에 포함 ; 원 공시 216378000000 (https://www.sec.gov/Archives/edgar/data/40545/000004054521000011/)
 GE Aerospace,GE,2020Q4,2020-12-31,분기말 총자본(자기자본),37073000000,USD,공시,https://www.sec.gov/Archives/edgar/data/40545/000004054521000011/,
 GE Aerospace,GE,2020Q4,2020-12-31,분기말 지배지분 자본,35552000000,USD,공시,https://www.sec.gov/Archives/edgar/data/40545/000004054521000011/,
 GE Aerospace,GE,2020Q4,2020-12-31,분기말 종가,10.8,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/GE?interval=1d&events=splits (2020-12-31),분할조정 종가 53.8287 × 이후 분할계수 0.200637
@@ -3512,10 +3512,10 @@ GE Aerospace,GE,2023Q4,2023-12-31,분기별 매출액,19423000000,USD,계산(연
 GE Aerospace,GE,2023Q4,2023-12-31,분기별 영업이익,미확인,USD,미확인,SEC companyfacts CIK0000040545: 해당 보고서에 OperatingIncomeLoss 태그 없음(영업이익 미공시) ; https://www.sec.gov/Archives/edgar/data/40545/000004054524000027/,
 GE Aerospace,GE,2023Q4,2023-12-31,분기별 당기순이익(지배),1592000000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/40545/000004054524000027/ ; https://www.sec.gov/Archives/edgar/data/40545/000004054523000238/,연간 9481000000 − 9개월누적 7889000000 (NetIncomeLoss)
 GE Aerospace,GE,2023Q4,2023-12-31,분기별 영업활동현금흐름,3141000000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/40545/000004054524000027/ ; https://www.sec.gov/Archives/edgar/data/40545/000004054523000238/,누적 5179000000 − 직전누적 2038000000 (시작 2023-01-01)
-GE Aerospace,GE,2023Q4,2023-12-31,분기말 자산총계,163045000000,USD,공시,https://www.sec.gov/Archives/edgar/data/40545/000004054524000027/,
-GE Aerospace,GE,2023Q4,2023-12-31,분기말 부채총계,134466000000,USD,공시,https://www.sec.gov/Archives/edgar/data/40545/000004054524000027/,
-GE Aerospace,GE,2023Q4,2023-12-31,분기말 총자본(자기자본),28579000000,USD,공시,https://www.sec.gov/Archives/edgar/data/40545/000004054524000027/,
-GE Aerospace,GE,2023Q4,2023-12-31,분기말 지배지분 자본,27378000000,USD,공시,https://www.sec.gov/Archives/edgar/data/40545/000004054524000027/,
+GE Aerospace,GE,2023Q4,2023-12-31,분기말 자산총계,173300000000,USD,공시(재작성 반영),https://www.sec.gov/Archives/edgar/data/40545/000004054525000015/,원 공시 163045000000 (https://www.sec.gov/Archives/edgar/data/40545/000004054524000027/)
+GE Aerospace,GE,2023Q4,2023-12-31,분기말 부채총계,144695000000,USD,공시(재작성 반영),https://www.sec.gov/Archives/edgar/data/40545/000004054525000015/,원 공시 134466000000 (https://www.sec.gov/Archives/edgar/data/40545/000004054524000027/)
+GE Aerospace,GE,2023Q4,2023-12-31,분기말 총자본(자기자본),28605000000,USD,공시(재작성 반영),https://www.sec.gov/Archives/edgar/data/40545/000004054526000008/,원 공시 28579000000 (https://www.sec.gov/Archives/edgar/data/40545/000004054524000027/)
+GE Aerospace,GE,2023Q4,2023-12-31,분기말 지배지분 자본,27403000000,USD,공시(재작성 반영),https://www.sec.gov/Archives/edgar/data/40545/000004054525000015/,원 공시 27378000000 (https://www.sec.gov/Archives/edgar/data/40545/000004054524000027/)
 GE Aerospace,GE,2023Q4,2023-12-29,분기말 종가,127.63,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/GE?interval=1d&events=splits (2023-12-29),분할조정 종가 101.8595 × 이후 분할계수 1.253
 GE Aerospace,GE,2023Q4,2024-01-15,분기말 상장주식수,1088334304,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/40545/000004054524000027/,dei:EntityCommonStockSharesOutstanding 클래스 합
 GE Aerospace,GE,2023Q4,2023-12-29,분기말 시가총액,138904107220,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/GE?interval=1d&events=splits (2023-12-29) ; https://www.sec.gov/Archives/edgar/data/40545/000004054524000027/,종가 127.63 × 주식수 1088334304
@@ -3632,7 +3632,7 @@ GE Aerospace,GE,2026Q2,2026-06-30,분기말 시가총액,387768237983,USD,계산
 Home Depot,HD,2019Q1,2019-05-05,분기별 매출액,26381000000,USD,공시,https://www.sec.gov/Archives/edgar/data/354950/000035495019000024/,
 Home Depot,HD,2019Q1,2019-05-05,분기별 영업이익,3597000000,USD,공시,https://www.sec.gov/Archives/edgar/data/354950/000035495019000024/,
 Home Depot,HD,2019Q1,2019-05-05,분기별 당기순이익(지배),2513000000,USD,공시,https://www.sec.gov/Archives/edgar/data/354950/000035495019000024/,
-Home Depot,HD,2019Q1,2019-05-05,분기별 영업활동현금흐름,4575000000,USD,공시,https://www.sec.gov/Archives/edgar/data/354950/000035495019000024/,
+Home Depot,HD,2019Q1,2019-05-05,분기별 영업활동현금흐름,4713000000,USD,공시(재작성 반영),https://www.sec.gov/Archives/edgar/data/354950/000035495020000041/,원 공시 4575000000 (https://www.sec.gov/Archives/edgar/data/354950/000035495019000024/)
 Home Depot,HD,2019Q1,2019-05-05,분기말 자산총계,51515000000,USD,공시,https://www.sec.gov/Archives/edgar/data/354950/000035495019000024/,
 Home Depot,HD,2019Q1,2019-05-05,분기말 부채총계,53658000000,USD,공시,https://www.sec.gov/Archives/edgar/data/354950/000035495019000024/,
 Home Depot,HD,2019Q1,2019-05-05,분기말 총자본(자기자본),-2143000000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/354950/000035495019000024/,"StockholdersEquity, MinorityInterest 태그 없음"
@@ -3643,7 +3643,7 @@ Home Depot,HD,2019Q1,2019-05-03,분기말 시가총액,220673380015,USD,계산(�
 Home Depot,HD,2019Q2,2019-08-04,분기별 매출액,30839000000,USD,공시,https://www.sec.gov/Archives/edgar/data/354950/000035495019000057/,
 Home Depot,HD,2019Q2,2019-08-04,분기별 영업이익,4896000000,USD,공시,https://www.sec.gov/Archives/edgar/data/354950/000035495019000057/,
 Home Depot,HD,2019Q2,2019-08-04,분기별 당기순이익(지배),3479000000,USD,공시,https://www.sec.gov/Archives/edgar/data/354950/000035495019000057/,
-Home Depot,HD,2019Q2,2019-08-04,분기별 영업활동현금흐름,3922000000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/354950/000035495019000057/ ; https://www.sec.gov/Archives/edgar/data/354950/000035495019000024/,누적 8497000000 − 직전누적 4575000000 (시작 2019-02-04)
+Home Depot,HD,2019Q2,2019-08-04,분기별 영업활동현금흐름,3830000000,USD,계산(누적차감)(재작성 반영),https://www.sec.gov/Archives/edgar/data/354950/000035495020000068/ ; https://www.sec.gov/Archives/edgar/data/354950/000035495020000041/,누적 8543000000 − 직전누적 4713000000 (시작 2019-02-04) ; 원 공시 3922000000 (https://www.sec.gov/Archives/edgar/data/354950/000035495019000057/ ; https://www.sec.gov/Archives/edgar/data/354950/000035495019000024/)
 Home Depot,HD,2019Q2,2019-08-04,분기말 자산총계,52010000000,USD,공시,https://www.sec.gov/Archives/edgar/data/354950/000035495019000057/,
 Home Depot,HD,2019Q2,2019-08-04,분기말 부채총계,53170000000,USD,공시,https://www.sec.gov/Archives/edgar/data/354950/000035495019000057/,
 Home Depot,HD,2019Q2,2019-08-04,분기말 총자본(자기자본),-1160000000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/354950/000035495019000057/,"StockholdersEquity, MinorityInterest 태그 없음"
@@ -3654,7 +3654,7 @@ Home Depot,HD,2019Q2,2019-08-02,분기말 시가총액,232336724437,USD,계산(�
 Home Depot,HD,2019Q3,2019-11-03,분기별 매출액,27223000000,USD,공시,https://www.sec.gov/Archives/edgar/data/354950/000035495019000066/,
 Home Depot,HD,2019Q3,2019-11-03,분기별 영업이익,3947000000,USD,공시,https://www.sec.gov/Archives/edgar/data/354950/000035495019000066/,
 Home Depot,HD,2019Q3,2019-11-03,분기별 당기순이익(지배),2769000000,USD,공시,https://www.sec.gov/Archives/edgar/data/354950/000035495019000066/,
-Home Depot,HD,2019Q3,2019-11-03,분기별 영업활동현금흐름,2167000000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/354950/000035495019000066/ ; https://www.sec.gov/Archives/edgar/data/354950/000035495019000057/,누적 10664000000 − 직전누적 8497000000 (시작 2019-02-04)
+Home Depot,HD,2019Q3,2019-11-03,분기별 영업활동현금흐름,2250000000,USD,계산(누적차감)(재작성 반영),https://www.sec.gov/Archives/edgar/data/354950/000035495020000103/ ; https://www.sec.gov/Archives/edgar/data/354950/000035495020000068/,누적 10793000000 − 직전누적 8543000000 (시작 2019-02-04) ; 원 공시 2167000000 (https://www.sec.gov/Archives/edgar/data/354950/000035495019000066/ ; https://www.sec.gov/Archives/edgar/data/354950/000035495019000057/)
 Home Depot,HD,2019Q3,2019-11-03,분기말 자산총계,52309000000,USD,공시,https://www.sec.gov/Archives/edgar/data/354950/000035495019000066/,
 Home Depot,HD,2019Q3,2019-11-03,분기말 부채총계,53391000000,USD,공시,https://www.sec.gov/Archives/edgar/data/354950/000035495019000066/,
 Home Depot,HD,2019Q3,2019-11-03,분기말 총자본(자기자본),-1082000000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/354950/000035495019000066/,"StockholdersEquity, MinorityInterest 태그 없음"
@@ -3665,7 +3665,7 @@ Home Depot,HD,2019Q3,2019-11-01,분기말 시가총액,258897834287,USD,계산(�
 Home Depot,HD,2019Q4,2020-02-02,분기별 매출액,25782000000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/354950/000035495020000015/ ; https://www.sec.gov/Archives/edgar/data/354950/000035495019000066/,연간 110225000000 − 9개월누적 84443000000 (RevenueFromContractWithCustomerExcludingAssessedTax)
 Home Depot,HD,2019Q4,2020-02-02,분기별 영업이익,3403000000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/354950/000035495020000015/ ; https://www.sec.gov/Archives/edgar/data/354950/000035495019000066/,연간 15843000000 − 9개월누적 12440000000 (OperatingIncomeLoss)
 Home Depot,HD,2019Q4,2020-02-02,분기별 당기순이익(지배),2481000000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/354950/000035495020000015/ ; https://www.sec.gov/Archives/edgar/data/354950/000035495019000066/,연간 11242000000 − 9개월누적 8761000000 (NetIncomeLoss)
-Home Depot,HD,2019Q4,2020-02-02,분기별 영업활동현금흐름,3059000000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/354950/000035495020000015/ ; https://www.sec.gov/Archives/edgar/data/354950/000035495019000066/,누적 13723000000 − 직전누적 10664000000 (시작 2019-02-04)
+Home Depot,HD,2019Q4,2020-02-02,분기별 영업활동현금흐름,2894000000,USD,계산(누적차감)(재작성 반영),https://www.sec.gov/Archives/edgar/data/354950/000035495022000070/ ; https://www.sec.gov/Archives/edgar/data/354950/000035495020000103/,누적 13687000000 − 직전누적 10793000000 (시작 2019-02-04) ; 원 공시 3059000000 (https://www.sec.gov/Archives/edgar/data/354950/000035495020000015/ ; https://www.sec.gov/Archives/edgar/data/354950/000035495019000066/)
 Home Depot,HD,2019Q4,2020-02-02,분기말 자산총계,51236000000,USD,공시,https://www.sec.gov/Archives/edgar/data/354950/000035495020000015/,
 Home Depot,HD,2019Q4,2020-02-02,분기말 부채총계,54352000000,USD,공시,https://www.sec.gov/Archives/edgar/data/354950/000035495020000015/,
 Home Depot,HD,2019Q4,2020-02-02,분기말 총자본(자기자본),-3116000000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/354950/000035495020000015/,"StockholdersEquity, MinorityInterest 태그 없음"
@@ -4986,8 +4986,8 @@ RTX,RTX,2019Q4,2019-12-31,분기별 매출액,19551000000,USD,계산(연간-3분
 RTX,RTX,2019Q4,2019-12-31,분기별 영업이익,1851000000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/101829/000010182920000013/ ; https://www.sec.gov/Archives/edgar/data/101829/000010182919000047/,연간 8966000000 − 9개월누적 7115000000 (OperatingIncomeLoss)
 RTX,RTX,2019Q4,2019-12-31,분기별 당기순이익(지배),1143000000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/101829/000010182920000013/ ; https://www.sec.gov/Archives/edgar/data/101829/000010182919000047/,연간 5537000000 − 9개월누적 4394000000 (NetIncomeLoss)
 RTX,RTX,2019Q4,2019-12-31,분기별 영업활동현금흐름,2782000000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/101829/000010182920000013/ ; https://www.sec.gov/Archives/edgar/data/101829/000010182919000047/,누적 8883000000 − 직전누적 6101000000 (시작 2019-01-01)
-RTX,RTX,2019Q4,2019-12-31,분기말 자산총계,139716000000,USD,공시,https://www.sec.gov/Archives/edgar/data/101829/000010182920000013/,
-RTX,RTX,2019Q4,2019-12-31,분기말 부채총계,95485000000,USD,계산(부채및자본-총자본),https://www.sec.gov/Archives/edgar/data/101829/000010182920000013/,부채및자본 139716000000 − 총자본 44231000000
+RTX,RTX,2019Q4,2019-12-31,분기말 자산총계,139615000000,USD,공시(재작성 반영),https://www.sec.gov/Archives/edgar/data/101829/000010182921000008/,원 공시 139716000000 (https://www.sec.gov/Archives/edgar/data/101829/000010182920000013/)
+RTX,RTX,2019Q4,2019-12-31,분기말 부채총계,95384000000,USD,계산(부채및자본-총자본)(재작성 반영),https://www.sec.gov/Archives/edgar/data/101829/000010182921000008/,부채및자본 139615000000 − 총자본 44231000000 ; 원 공시 95485000000 (https://www.sec.gov/Archives/edgar/data/101829/000010182920000013/)
 RTX,RTX,2019Q4,2019-12-31,분기말 총자본(자기자본),44231000000,USD,공시,https://www.sec.gov/Archives/edgar/data/101829/000010182920000013/,
 RTX,RTX,2019Q4,2019-12-31,분기말 지배지분 자본,41774000000,USD,공시,https://www.sec.gov/Archives/edgar/data/101829/000010182920000013/,
 RTX,RTX,2019Q4,2019-12-31,분기말 종가,149.76,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/RTX?interval=1d&events=splits (2019-12-31),분할조정 종가 94.248 × 이후 분할계수 1.589
@@ -5492,8 +5492,8 @@ Arista Networks,ANET,2023Q4,2023-12-31,분기별 매출액,1540437000,USD,계산
 Arista Networks,ANET,2023Q4,2023-12-31,분기별 영업이익,639914000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/1596532/000159653224000043/ ; https://www.sec.gov/Archives/edgar/data/1596532/000159653223000274/,연간 2257249000 − 9개월누적 1617335000 (OperatingIncomeLoss)
 Arista Networks,ANET,2023Q4,2023-12-31,분기별 당기순이익(지배),613636000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/1596532/000159653224000043/ ; https://www.sec.gov/Archives/edgar/data/1596532/000159653223000274/,연간 2087321000 − 9개월누적 1473685000 (NetIncomeLoss)
 Arista Networks,ANET,2023Q4,2023-12-31,분기별 영업활동현금흐름,526464000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/1596532/000159653224000043/ ; https://www.sec.gov/Archives/edgar/data/1596532/000159653223000274/,누적 2034014000 − 직전누적 1507550000 (시작 2023-01-01)
-Arista Networks,ANET,2023Q4,2023-12-31,분기말 자산총계,9946806000,USD,공시,https://www.sec.gov/Archives/edgar/data/1596532/000159653224000043/,
-Arista Networks,ANET,2023Q4,2023-12-31,분기말 부채총계,2727747000,USD,공시,https://www.sec.gov/Archives/edgar/data/1596532/000159653224000043/,
+Arista Networks,ANET,2023Q4,2023-12-31,분기말 자산총계,9956635000,USD,공시(재작성 반영),https://www.sec.gov/Archives/edgar/data/1596532/000159653225000028/,원 공시 9946806000 (https://www.sec.gov/Archives/edgar/data/1596532/000159653224000043/)
+Arista Networks,ANET,2023Q4,2023-12-31,분기말 부채총계,2737576000,USD,공시(재작성 반영),https://www.sec.gov/Archives/edgar/data/1596532/000159653225000028/,원 공시 2727747000 (https://www.sec.gov/Archives/edgar/data/1596532/000159653224000043/)
 Arista Networks,ANET,2023Q4,2023-12-31,분기말 총자본(자기자본),7219059000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/1596532/000159653224000043/,"StockholdersEquity, MinorityInterest 태그 없음"
 Arista Networks,ANET,2023Q4,2023-12-31,분기말 지배지분 자본,7219059000,USD,공시,https://www.sec.gov/Archives/edgar/data/1596532/000159653224000043/,
 Arista Networks,ANET,2023Q4,2023-12-29,분기말 종가,235.51,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/ANET?interval=1d&events=splits (2023-12-29),분할조정 종가 58.8775 × 이후 분할계수 4
@@ -6149,8 +6149,8 @@ CrowdStrike,CRWD,2023Q3,2023-10-31,분기말 종가,176.77,USD,API,https://query
 CrowdStrike,CRWD,2023Q3,2023-11-15,분기말 상장주식수,240144808,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/1535527/000153552723000026/,"XBRL 원문 dei:EntityCommonStockSharesOutstanding 2개 클래스 합 ; 클래스별(2023-11-15): CommonClassAMember 227629218, CommonClassBMember 12515590"
 CrowdStrike,CRWD,2023Q3,2023-10-31,분기말 시가총액,42450397710,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/CRWD?interval=1d&events=splits (2023-10-31) ; https://www.sec.gov/Archives/edgar/data/1535527/000153552723000026/,종가 176.77 × 주식수 240144808
 CrowdStrike,CRWD,2023Q4,2024-01-31,분기별 매출액,845335000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/1535527/000153552724000007/ ; https://www.sec.gov/Archives/edgar/data/1535527/000153552723000026/,연간 3055555000 − 9개월누적 2210220000 (RevenueFromContractWithCustomerIncludingAssessedTax)
-CrowdStrike,CRWD,2023Q4,2024-01-31,분기별 영업이익,29671000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/1535527/000153552724000007/ ; https://www.sec.gov/Archives/edgar/data/1535527/000153552723000026/,연간 -1995000 − 9개월누적 -31666000 (OperatingIncomeLoss)
-CrowdStrike,CRWD,2023Q4,2024-01-31,분기별 당기순이익(지배),53699000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/1535527/000153552724000007/ ; https://www.sec.gov/Archives/edgar/data/1535527/000153552723000026/,연간 89327000 − 9개월누적 35628000 (NetIncomeLoss)
+CrowdStrike,CRWD,2023Q4,2024-01-31,분기별 영업이익,12525000,USD,계산(연간-3분기누적)(재작성 반영),https://www.sec.gov/Archives/edgar/data/1535527/000153552726000010/ ; https://www.sec.gov/Archives/edgar/data/1535527/000153552723000026/,연간 -19141000 − 9개월누적 -31666000 (OperatingIncomeLoss) ; 원 공시 29671000 (https://www.sec.gov/Archives/edgar/data/1535527/000153552724000007/ ; https://www.sec.gov/Archives/edgar/data/1535527/000153552723000026/)
+CrowdStrike,CRWD,2023Q4,2024-01-31,분기별 당기순이익(지배),36553000,USD,계산(연간-3분기누적)(재작성 반영),https://www.sec.gov/Archives/edgar/data/1535527/000153552726000010/ ; https://www.sec.gov/Archives/edgar/data/1535527/000153552723000026/,연간 72181000 − 9개월누적 35628000 (NetIncomeLoss) ; 원 공시 53699000 (https://www.sec.gov/Archives/edgar/data/1535527/000153552724000007/ ; https://www.sec.gov/Archives/edgar/data/1535527/000153552723000026/)
 CrowdStrike,CRWD,2023Q4,2024-01-31,분기별 영업활동현금흐름,347016000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/1535527/000153552724000007/ ; https://www.sec.gov/Archives/edgar/data/1535527/000153552723000026/,누적 1166207000 − 직전누적 819191000 (시작 2023-02-01)
 CrowdStrike,CRWD,2023Q4,2024-01-31,분기말 자산총계,6646520000,USD,공시,https://www.sec.gov/Archives/edgar/data/1535527/000153552724000007/,
 CrowdStrike,CRWD,2023Q4,2024-01-31,분기말 부채총계,4309431000,USD,공시,https://www.sec.gov/Archives/edgar/data/1535527/000153552724000007/,
@@ -6193,8 +6193,8 @@ CrowdStrike,CRWD,2024Q3,2024-10-31,분기말 종가,296.87,USD,API,https://query
 CrowdStrike,CRWD,2024Q3,2024-11-15,분기말 상장주식수,246311412,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/1535527/000153552724000026/,"XBRL 원문 dei:EntityCommonStockSharesOutstanding 2개 클래스 합 ; 클래스별(2024-11-15): CommonClassAMember 233851230, CommonClassBMember 12460182"
 CrowdStrike,CRWD,2024Q3,2024-10-31,분기말 시가총액,73122468880,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/CRWD?interval=1d&events=splits (2024-10-31) ; https://www.sec.gov/Archives/edgar/data/1535527/000153552724000026/,종가 296.87 × 주식수 246311412
 CrowdStrike,CRWD,2024Q4,2025-01-31,분기별 매출액,1058538000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/1535527/000153552725000009/ ; https://www.sec.gov/Archives/edgar/data/1535527/000153552724000026/,연간 3953624000 − 9개월누적 2895086000 (RevenueFromContractWithCustomerIncludingAssessedTax)
-CrowdStrike,CRWD,2024Q4,2025-01-31,분기별 영업이익,-85301000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/1535527/000153552725000009/ ; https://www.sec.gov/Archives/edgar/data/1535527/000153552724000026/,연간 -120430000 − 9개월누적 -35129000 (OperatingIncomeLoss)
-CrowdStrike,CRWD,2024Q4,2025-01-31,분기별 당기순이익(지배),-92282000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/1535527/000153552725000009/ ; https://www.sec.gov/Archives/edgar/data/1535527/000153552724000026/,연간 -19271000 − 9개월누적 73011000 (NetIncomeLoss)
+CrowdStrike,CRWD,2024Q4,2025-01-31,분기별 영업이익,-81271000,USD,계산(연간-3분기누적)(재작성 반영),https://www.sec.gov/Archives/edgar/data/1535527/000153552726000010/ ; https://www.sec.gov/Archives/edgar/data/1535527/000153552724000026/,연간 -116400000 − 9개월누적 -35129000 (OperatingIncomeLoss) ; 원 공시 -85301000 (https://www.sec.gov/Archives/edgar/data/1535527/000153552725000009/ ; https://www.sec.gov/Archives/edgar/data/1535527/000153552724000026/)
+CrowdStrike,CRWD,2024Q4,2025-01-31,분기별 당기순이익(지배),-88252000,USD,계산(연간-3분기누적)(재작성 반영),https://www.sec.gov/Archives/edgar/data/1535527/000153552726000010/ ; https://www.sec.gov/Archives/edgar/data/1535527/000153552724000026/,연간 -15241000 − 9개월누적 73011000 (NetIncomeLoss) ; 원 공시 -92282000 (https://www.sec.gov/Archives/edgar/data/1535527/000153552725000009/ ; https://www.sec.gov/Archives/edgar/data/1535527/000153552724000026/)
 CrowdStrike,CRWD,2024Q4,2025-01-31,분기별 영업활동현금흐름,345722000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/1535527/000153552725000009/ ; https://www.sec.gov/Archives/edgar/data/1535527/000153552724000026/,누적 1381727000 − 직전누적 1036005000 (시작 2024-02-01)
 CrowdStrike,CRWD,2024Q4,2025-01-31,분기말 자산총계,8701578000,USD,공시,https://www.sec.gov/Archives/edgar/data/1535527/000153552725000009/,
 CrowdStrike,CRWD,2024Q4,2025-01-31,분기말 부채총계,5382661000,USD,공시,https://www.sec.gov/Archives/edgar/data/1535527/000153552725000009/,
@@ -6204,8 +6204,8 @@ CrowdStrike,CRWD,2024Q4,2025-01-31,분기말 종가,398.07,USD,API,https://query
 CrowdStrike,CRWD,2024Q4,2025-02-28,분기말 상장주식수,247873415,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/1535527/000153552725000009/,"XBRL 원문 dei:EntityCommonStockSharesOutstanding 2개 클래스 합 ; 클래스별(2025-02-28): CommonClassAMember 247873415, CommonClassBMember 0"
 CrowdStrike,CRWD,2024Q4,2025-01-31,분기말 시가총액,98670970309,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/CRWD?interval=1d&events=splits (2025-01-31) ; https://www.sec.gov/Archives/edgar/data/1535527/000153552725000009/,종가 398.07 × 주식수 247873415
 CrowdStrike,CRWD,2025Q1,2025-04-30,분기별 매출액,1103434000,USD,공시,https://www.sec.gov/Archives/edgar/data/1535527/000153552725000019/,
-CrowdStrike,CRWD,2025Q1,2025-04-30,분기별 영업이익,-124656000,USD,공시,https://www.sec.gov/Archives/edgar/data/1535527/000153552725000019/,
-CrowdStrike,CRWD,2025Q1,2025-04-30,분기별 당기순이익(지배),-110207000,USD,공시,https://www.sec.gov/Archives/edgar/data/1535527/000153552725000019/,
+CrowdStrike,CRWD,2025Q1,2025-04-30,분기별 영업이익,-118713000,USD,공시(재작성 반영),https://www.sec.gov/Archives/edgar/data/1535527/000153552726000025/,원 공시 -124656000 (https://www.sec.gov/Archives/edgar/data/1535527/000153552725000019/)
+CrowdStrike,CRWD,2025Q1,2025-04-30,분기별 당기순이익(지배),-104264000,USD,공시(재작성 반영),https://www.sec.gov/Archives/edgar/data/1535527/000153552726000025/,원 공시 -110207000 (https://www.sec.gov/Archives/edgar/data/1535527/000153552725000019/)
 CrowdStrike,CRWD,2025Q1,2025-04-30,분기별 영업활동현금흐름,384107000,USD,공시,https://www.sec.gov/Archives/edgar/data/1535527/000153552725000019/,
 CrowdStrike,CRWD,2025Q1,2025-04-30,분기말 자산총계,8720362000,USD,공시,https://www.sec.gov/Archives/edgar/data/1535527/000153552725000019/,
 CrowdStrike,CRWD,2025Q1,2025-04-30,분기말 부채총계,5229348000,USD,공시,https://www.sec.gov/Archives/edgar/data/1535527/000153552725000019/,
@@ -6215,8 +6215,8 @@ CrowdStrike,CRWD,2025Q1,2025-04-30,분기말 종가,428.87,USD,API,https://query
 CrowdStrike,CRWD,2025Q1,2025-05-29,분기말 상장주식수,249248174,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/1535527/000153552725000019/,dei:EntityCommonStockSharesOutstanding 클래스 합
 CrowdStrike,CRWD,2025Q1,2025-04-30,분기말 시가총액,106895064383,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/CRWD?interval=1d&events=splits (2025-04-30) ; https://www.sec.gov/Archives/edgar/data/1535527/000153552725000019/,종가 428.87 × 주식수 249248174
 CrowdStrike,CRWD,2025Q2,2025-07-31,분기별 매출액,1168952000,USD,공시,https://www.sec.gov/Archives/edgar/data/1535527/000153552725000025/,
-CrowdStrike,CRWD,2025Q2,2025-07-31,분기별 영업이익,-112979000,USD,공시,https://www.sec.gov/Archives/edgar/data/1535527/000153552725000025/,
-CrowdStrike,CRWD,2025Q2,2025-07-31,분기별 당기순이익(지배),-77675000,USD,공시,https://www.sec.gov/Archives/edgar/data/1535527/000153552725000025/,
+CrowdStrike,CRWD,2025Q2,2025-07-31,분기별 영업이익,-105457000,USD,공시(재작성 반영),https://www.sec.gov/Archives/edgar/data/1535527/000153552726000031/,원 공시 -112979000 (https://www.sec.gov/Archives/edgar/data/1535527/000153552725000025/)
+CrowdStrike,CRWD,2025Q2,2025-07-31,분기별 당기순이익(지배),-70153000,USD,공시(재작성 반영),https://www.sec.gov/Archives/edgar/data/1535527/000153552726000031/,원 공시 -77675000 (https://www.sec.gov/Archives/edgar/data/1535527/000153552725000025/)
 CrowdStrike,CRWD,2025Q2,2025-07-31,분기별 영업활동현금흐름,332832000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/1535527/000153552725000025/ ; https://www.sec.gov/Archives/edgar/data/1535527/000153552725000019/,누적 716939000 − 직전누적 384107000 (시작 2025-02-01)
 CrowdStrike,CRWD,2025Q2,2025-07-31,분기말 자산총계,9288859000,USD,공시,https://www.sec.gov/Archives/edgar/data/1535527/000153552725000025/,
 CrowdStrike,CRWD,2025Q2,2025-07-31,분기말 부채총계,5494168000,USD,공시,https://www.sec.gov/Archives/edgar/data/1535527/000153552725000025/,

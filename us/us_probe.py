@@ -17,7 +17,9 @@ import zipfile
 from datetime import date, timedelta
 
 EPOCH = date(1970, 1, 1)  # Windows의 date.fromtimestamp는 1970 이전(음수)에서 OSError
-SEC_UA = {"User-Agent": "lapin sirocuro01@gmail.com"}  # SEC 공정접근 정책: 이름 + 연락처 (사용자 지정 2026-09-19)
+# SEC 공정접근 정책: 이름 + 연락처 (사용자 지정 2026-09-19). 연락처는 저장소에 두지 않고
+# .claude/settings.local.json의 env.SEC_USER_AGENT에서 읽는다 (DART·공공데이터 키와 같은 곳).
+SEC_UA = {"User-Agent": json.load(open(".claude/settings.local.json", encoding="utf-8"))["env"]["SEC_USER_AGENT"]}
 WEB_UA = {"User-Agent": "Mozilla/5.0"}
 SPY = "https://www.ssga.com/us/en/intermediary/library-content/products/fund-data/etfs/us/holdings-daily-us-en-spy.xlsx"
 

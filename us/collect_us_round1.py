@@ -37,6 +37,10 @@ NCI_IS = ["NetIncomeLossAttributableToNoncontrollingInterest"]
 NI_COMMON = "NetIncomeLossAvailableToCommonStockholdersBasic"  # TMO 2019~2021 (미국 라운드 3)
 EQ_TOTAL = "StockholdersEquityIncludingPortionAttributableToNoncontrollingInterest"
 ROW_FIX = None
+# 나중 보고서의 재작성 값을 쓴다 (대표 결정 2026-09-21). 원 공시값은 -restated.csv에 남긴다.
+# False = 원 공시만, True = 재작성 반영(중단영업 재분류 제외), "all" = 재분류까지(기록 대조용)
+RESTATE = True
+RESTATED = []   # [행 앞 5열 + 구분, 원 공시값, 원 값구분, 원 출처, 나중 보고서 값, 나중 보고서 출처]
 
 
 def label(end):
@@ -125,8 +129,35 @@ class Facts:
             elif kind == "S":
                 es = [e for e in es if e.get("start") == start]
             if es:
-                return es[0], a
+                return self.restated(tag, es[0], a) if RESTATE else (es[0], a)
         return None, None
+
+    def restated(self, tag, e, a):
+        """같은 태그·같은 기간을 비교기간으로 다시 실은 나중 10-Q/10-K 중 가장 늦게 낸 값 (재작성 반영, 2026-09-21).
+        단위만 거칠어진 경우(ABNB: 천 달러 → 백만 달러)는 재작성으로 보지 않고 원 공시의 정밀한 값을 둔다."""
+        if not hasattr(self, "by_period"):
+            self.by_period = {}
+            for (tg, _), es in self.idx.items():
+                for x in es:
+                    if x.get("form") in FORMS and x.get("filed"):
+                        self.by_period.setdefault((tg, x.get("start"), x["end"]), []).append(x)
+        later = [x for x in self.by_period.get((tag, e.get("start"), e["end"]), [])
+                 if x["filed"] > e.get("filed", "9999")]
+        if not later:
+            return e, a
+        if RESTATE != "all" and "start" in e:
+            # 중단영업 손익이 있는 제출본의 손익·현금흐름 비교값은 재분류일 수 있다 (반영 안 함, coverage-log 5번)
+            if not hasattr(self, "disc"):
+                self.disc = {a2 for (tg, a2), es in self.idx.items()
+                             if "DiscontinuedOperation" in tg and any(x.get("val") for x in es)}
+            later = [x for x in later if x["accn"] not in self.disc]
+            if not later:
+                return e, a
+        x = max(later, key=lambda x: (x["filed"], x["accn"]))
+        scale = 10 ** (len(str(abs(x["val"]))) - len(str(abs(x["val"])).rstrip("0"))) if x["val"] else 1
+        if x["val"] == e["val"] or (scale >= 1000 and abs(x["val"] - e["val"]) < scale):
+            return e, a
+        return x, x["accn"]
 
     def has(self, tags, accns, end):
         return any(self.find(t, accns, end, k)[0] for t in tags for k in ("I", "Q", "Y", "C"))
@@ -483,6 +514,41 @@ ITEMS = ["분기별 매출액", "분기별 영업이익", "분기별 당기순�
          "분기말 부채총계", "분기말 총자본(자기자본)", "분기말 지배지분 자본", "분기말 종가", "분기말 상장주식수", "분기말 시가총액"]
 
 
+def restate_rows(corp, tk, cik, reps, forms, fx):
+    """fin_rows를 원 공시 · 재작성 반영 · 재분류까지 반영, 세 벌로 만들어 대조한다.
+    재작성 반영 칸은 값구분에 "(재작성 반영)"을 붙이고 원값을 RESTATED에 남긴다.
+    재작성 값으로 자체 검증을 못 통과한 칸은 원 공시를 두고, 재분류로만 달라지는 칸은 기록만 한다."""
+    global RESTATE
+    RESTATE = False
+    orig, ofails = fin_rows(corp, tk, cik, reps, forms, fx)
+    RESTATE = "all"
+    full, _ = fin_rows(corp, tk, cik, reps, forms, fx)
+    RESTATE = True
+    new, fails = fin_rows(corp, tk, cik, reps, forms, fx)
+    num = lambda v: not isinstance(v, str)
+    for key, r in new.items():
+        o, f = orig.get(key), full.get(key)
+        if not o or not num(o[5]):
+            continue
+        if not num(r[5]):  # 재작성 값으로 검증 실패 → 원 공시 유지
+            new[key] = o
+            RESTATED.append(o[:5] + ["재작성 검증 실패(원 공시 유지)", o[5], o[7], o[8], "", r[8]])
+        elif r[5] != o[5]:
+            RESTATED.append(r[:5] + ["재작성 반영", o[5], o[7], o[8], r[5], r[8]])
+            r[7] += "(재작성 반영)"
+            r[9] = (r[9] + " ; " if r[9] else "") + "원 공시 %s (%s)" % (o[5], o[8])
+        else:
+            # 값이 같으면 원 행 그대로 둔다. 한 태그만 재작성돼 대체 규칙이 달리 걸리면
+            # 값은 같은데 값구분·출처만 바뀐다 (D 2021Q4 총자본: 공시 → 공시(지배지분 태그))
+            new[key] = o
+            if f and num(f[5]) and f[5] != o[5]:
+                RESTATED.append(o[:5] + ["재분류(미반영)", o[5], o[7], o[8], f[5], f[8]])
+    # 검증 실패 목록은 최종 행 기준 (원 공시로 되돌린 칸은 빼고, 원 공시에서 실패했던 칸은 넣는다)
+    left = {lab for (lab, _), r in new.items() if r[5] == "미확인"}
+    fails = [x for x in dict.fromkeys(ofails + fails) if x[0] in left]
+    return new, fails
+
+
 def main():
     all_rows, summary = [], []
     for corp, tk, cik in TOP10:
@@ -490,7 +556,7 @@ def main():
         reps, forms = reports(cik)
         fx = Facts(cik)
         series, splits = yahoo_series(tk)
-        fin, ffail = fin_rows(corp, tk, cik, reps, forms, fx)
+        fin, ffail = restate_rows(corp, tk, cik, reps, forms, fx)
         mkt, mbad = market_rows(corp, tk, cik, reps, fx, series, splits)
         got = {**fin, **mkt}
         labs = [label(e) for e in reps if label(e) in WINDOW]
@@ -511,10 +577,18 @@ def main():
                                                                   amended or "없음", time.time() - t0), flush=True)
     if ROW_FIX:  # 라운드별 주석 보강 (collect_us_round2.fix_rows)
         ROW_FIX(all_rows)
+    # 라운드별 규칙이 나중에 덮어쓴 칸(VRT 합병 전 → 데이터 없음 등)은 재작성 기록에서 뺀다:
+    # 최종 값이 기록의 값(반영이면 나중 값, 아니면 원 공시값)과 같은 칸만 남긴다
+    final = {(r[1], r[2], r[4]): r[5] for r in all_rows}
+    RESTATED[:] = [x for x in RESTATED if final.get((x[1], x[2], x[4])) == (x[9] if x[5] == "재작성 반영" else x[6])]
     with open(OUTDIR + OUT, "w", newline="", encoding="utf-8-sig") as f:
         csv.writer(f).writerows([HEAD] + all_rows)
     with open(OUTDIR + OUT.replace("-dataset.csv", "-summary.json"), "w", encoding="utf-8") as f:
         json.dump(summary, f, ensure_ascii=False, indent=1)
+    with open(OUTDIR + OUT.replace("-dataset.csv", "-restated.csv"), "w", newline="", encoding="utf-8-sig") as f:
+        csv.writer(f).writerows([HEAD[:5] + ["구분", "원 공시값", "원 값구분", "원 출처", "나중 보고서 값", "나중 보고서 출처"]]
+                                + RESTATED)
+    print("재작성 기록:", {k: sum(r[5] == k for r in RESTATED) for k in sorted({r[5] for r in RESTATED})})
     print("rows:", len(all_rows), "| 빈 값:", sum(r[5] == "" for r in all_rows), "| 빈 출처:", sum(r[8] == "" for r in all_rows))
 
 
