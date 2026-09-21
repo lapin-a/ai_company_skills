@@ -22,6 +22,7 @@ VIEW = "https://dart.fss.or.kr/dsaf001/main.do?rcpNo="
 UNITS = {"원": 1, "천원": 10**3, "백만원": 10**6}
 QEND = {1: "03-31", 2: "06-30", 3: "09-30", 4: "12-31"}
 MARKET_ITEMS = ["분기말 종가", "분기말 상장주식수", "분기말 시가총액"]
+FIN = False  # 금융회사 라운드만 켠다 (collect_fin.py). 끄면 비금융 라운드와 동작이 같다.
 
 
 def fetch(url):
@@ -56,6 +57,8 @@ def cells(row):
 
 def num(s):
     s = s.replace(",", "")
+    if FIN:  # "378,360,504============" (기업은행 2021 합계 밑줄)
+        s = s.rstrip("=")
     neg = s.startswith("-") or (s.startswith("(") and s.endswith(")"))
     s = s.strip("()-")
     if not s.isdigit():
@@ -79,6 +82,9 @@ FLOW_ITEMS = [("분기별 매출액", "rev"), ("분기별 영업이익", "op"), 
 def norm(label):
     """라벨 정규화: 주석 표시((주3), (주석 4) 등)와 앞 번호(Ⅰ., 1., (1) 등)를 뗀다."""
     label = re.sub(r"\((?:주|주석|Note)[^)]*\)", "", label)
+    if FIN:  # "영업수익<주석40>"(DB손해보험 2019), "lll.영업이익"(소문자 l 로마숫자)·"…순이익귀속:"(삼성화재 2021)
+        label = re.sub(r"<[^>]*>", "", label).rstrip(":")
+        label = re.sub(r"^[lIVX]+\.", "", label)
     return NUMBERING.sub("", label)
 
 
@@ -95,27 +101,40 @@ def statements(doc):
             # 이 문서는 이미 "연결재무제표" 장만 잘라온 것이라 "연결"이 안 붙은 제목도 그대로 쓴다.
             # 제목 줄만 보려고 짧은 텍스트로 제한한다(주석 본문에 걸리지 않게).
             txt = re.sub(r"<[^>]+>|&nbsp;|[\s　]", "", t)
+            # 금융: 제목이 긴 안내문 끝에 붙은 보고서가 있다 (기업은행 2022 "…반영할예정입니다.연결포괄손익계산서")
+            if len(txt) > 40 and FIN:
+                txt = txt[-20:]
             if len(txt) <= 40:
                 for key, name in (("BS", "재무상태표"), ("IS", "손익계산서"), ("CI", "포괄손익계산서"), ("CF", "현금흐름표")):
                     if name in txt:
                         cur = key
             continue
         trs = re.findall(r"<TR.*?</TR>", t, re.S | re.I)
-        if not cur and not out and len(trs) >= 6:
+        # 데이터 표 = 행 6개 이상. 금융: 기간 줄이 4개인 제목 표도 6행이라 숫자 행이 있는지도 본다 (신한지주·삼성생명 2021)
+        big = len(trs) >= 6 and (not FIN or any(len(values(cells(r))) >= 2 for r in trs))
+        if not cur and not out and big:
             # 재무상태표 제목이 "연결재무제표"로만 적힌 보고서 (삼성E&A 2023.09): 첫 데이터 표에
             # 자산·부채 총계 행이 있으면 재무상태표로 본다. 재무상태표는 항상 첫 표다.
             labels = {norm(c[0]) for c in (cells(r) for r in trs) if c}
             if any(TOTALS["assets"].match(x) for x in labels) and any(TOTALS["liab"].match(x) for x in labels):
                 cur = "BS"
-        if cur and cur not in out and len(trs) >= 6:
+        if cur and cur not in out and big:
             rows = [cells(r) for r in trs]
+            if FIN:  # 주석 번호 열("4,23,34")이 숫자로 읽혀 당기 값 자리를 차지한다 (삼성증권 2022)
+                hd = next((r for r in rows[:3] if "주석" in r[1:]), None)
+                # 머리행이 2줄(병합 셀)이면 데이터 행과 칸 수가 달라, 칸 수 대신 "과목 바로 다음 열"로 본다 (삼성증권 2019)
+                if hd and hd.index("주석", 1) == 1:
+                    rows = [r[:1] + r[2:] if len(r) > 2 else r for r in rows]
+                elif hd:
+                    j = hd.index("주석", 1)
+                    rows = [r[:j] + r[j + 1:] if len(r) == len(hd) else r for r in rows]
             # &nbsp;도 지운다: SK스퀘어 2022는 머리행이 "누&nbsp;적"이라 누적 열을 못 알아봤다
             head = "".join(re.sub(r"<[^>]+>|&nbsp;|\s", "", r) for r in trs[:3])
             out[cur] = (unit, head, rows)
             cur = None
             continue
         txt = re.sub(r"<[^>]+>|&nbsp;|[\s　]", "", t)
-        if len(trs) < 6:
+        if not big:
             for key, name in (("BS", "재무상태표"), ("IS", "손익계산서"), ("CI", "포괄손익계산서"), ("CF", "현금흐름표")):
                 if "연결" + name in txt:
                     cur = key
@@ -167,6 +186,10 @@ def aligned(stmt, test):
         return None
     i = next(k for k in range(1, len(ref)) if num(ref[k]) is not None)
     v = num(row[i]) if i < len(row) else None
+    if v is None and FIN and values(row) and i < len(row) and row[i] == "":  # "-"는 0이다 (삼성증권 2019)
+        # 금융: 항목 열·합계 열이 따로인 재무상태표 (기업은행·KB금융 2019~2023). 비지배지분은 항목 열에 있다.
+        # 이 때문에 전기 값을 읽을 위험이 있지만 자체 검증(총자본 = 지배 + 비지배)이 거른다.
+        v = values(row)[0]
     return (v or 0) * unit
 
 
