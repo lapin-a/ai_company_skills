@@ -15,8 +15,10 @@ import urllib.request
 import backfill_2019_krx as krx
 import collect_market_round1 as cm
 import collect_round1 as cr
+import restate
 
 OUT = "round2-dataset.csv"
+OUTDIR = "kr/data/"  # 회귀 검사는 이 값만 바꿔 다른 폴더에 쓴다
 TOP10 = [  # (기업, 종목코드, DART corp_code) — coverage-log.md 라운드 2 기획 1팀 선정
     ("SK하이닉스", "000660", "00164779"), ("SK스퀘어", "402340", "01596425"), ("삼성전기", "009150", "00126371"),
     ("LG에너지솔루션", "373220", "01515323"), ("현대차", "005380", "00164742"), ("삼성바이오로직스", "207940", "00877059"),
@@ -59,16 +61,16 @@ def pick_reports(dkey, corp_code):
     return {**attach, **plain}  # 같은 분기면 일반 판본이 덮어쓴다
 
 
-def fetch_parse(rcp):
-    """공시뷰어 조회는 최대 3회 재시도. 실패하면 빈 dict (해당 칸 미확인)."""
+def fetch_parse(rcp, period):
+    """공시뷰어 조회는 최대 3회 재시도. (파싱 결과, 비교기간 값). 실패하면 빈 dict (해당 칸 미확인)."""
     for attempt in range(3):
         try:
             doc = cr.fs_section(rcp)
-            return cr.parse(doc) if doc else {}
+            return (cr.parse(doc), restate.prior(doc, period)) if doc else ({}, {})
         except Exception as e:
             print("    %s 시도 %d 실패: %s %s" % (rcp, attempt + 1, type(e).__name__, getattr(e, "reason", e)))
             time.sleep(3)
-    return {}
+    return {}, {}
 
 
 def first_trade_date(pkey, code):
@@ -111,12 +113,15 @@ def market_rows(pkey, corp, code, first_trade):
 
 def main():
     dkey, pkey = dart_key(), cm.service_key()
-    all_rows, summary = [], []
+    all_rows, summary, relog = [], [], []
     for corp, code, cc in TOP10:
         t0 = time.time()
         reports = pick_reports(dkey, cc)
-        data = {p: fetch_parse(r) for p, r in sorted(reports.items())}
-        fin, fails = cr.build_fin_rows(corp, code, reports, data, WINDOW)
+        got = {p: fetch_parse(r, p) for p, r in sorted(reports.items())}
+        data = {p: v[0] for p, v in got.items()}
+        # 재작성 반영 (대표 결정 2026-09-21): 나중 보고서 비교열 값을 쓰고 원 공시는 relog에 남긴다
+        fin, fails, log = restate.rows(corp, code, reports, data, {p: v[1] for p, v in got.items()}, WINDOW)
+        relog += log
         first = first_trade_date(pkey, code)
         mkt, mbad = market_rows(pkey, corp, code, first)
         for i, period in enumerate(WINDOW):  # 분기별 재무 8행 + 시장 3행
@@ -130,10 +135,13 @@ def main():
         print("%s | 보고서 %d | %s | 재무검증실패 %s | 시총검증실패 %s | 포괄손익표 %d기간 | %.0fs" % (
             corp, len(reports), kinds, fails or "없음", mbad or "없음", len(ci_only), time.time() - t0), flush=True)
 
-    with open("kr/data/" + OUT, "w", newline="", encoding="utf-8-sig") as f:
+    with open(OUTDIR + OUT, "w", newline="", encoding="utf-8-sig") as f:
         csv.writer(f).writerows([HEAD] + all_rows)
-    with open("kr/data/" + OUT.replace("-dataset.csv", "-summary.json"), "w", encoding="utf-8") as f:
+    with open(OUTDIR + OUT.replace("-dataset.csv", "-summary.json"), "w", encoding="utf-8") as f:
         json.dump(summary, f, ensure_ascii=False, indent=1)  # 파일명은 OUT 기준
+    with open(OUTDIR + OUT.replace("-dataset.csv", "-restated.csv"), "w", newline="", encoding="utf-8-sig") as f:
+        csv.writer(f).writerows([restate.LOG_HEAD] + relog)
+    print("재작성 기록:", {k: sum(r[5] == k for r in relog) for k in sorted({r[5] for r in relog})})
     print("rows:", len(all_rows), "| 빈칸:", sum(v == "" for r in all_rows for v in map(str, r)))
 
 

@@ -7,6 +7,7 @@
 - 미국 라운드 3: [us-round3-log.md](logs/us-round3-log.md) — S&P500 분모 전환, 20곳, COST 분기 라벨 보완
 - 미국 라운드 4: [us-round4-log.md](logs/us-round4-log.md) — 20곳, MRVL 옛 CIK 이어 붙임, UNP 매출 태그 기준 혼합 차단
 - 미국 라운드 6: [us-round6-log.md](logs/us-round6-log.md) — 20곳, 상장 전 분기 처리 일반화, 비지배지분 추정, VRT 합병 전 제외, ABNB 후속 보고서 비교기간으로 보완
+- **재작성 반영 (2026-09-21):** 라운드 1~16 재생성·채택. 재작성 반영 709칸 · 재분류(미반영) 796 · 재작성 검증 실패(원 공시 유지) 503. 기록은 `data/us-roundN-restated.csv`, 규칙은 [../coverage-log.md](../coverage-log.md) 5번. 칸 수(값·데이터 없음·미확인)는 그대로다. 이상치는 라운드 1~16 전체 2,064 → **2,076건**(계산값 569), 부호전환 2,118 → **2,121**.
 - 미국 라운드 16: [us-round16-log.md](logs/us-round16-log.md) — 20곳. **공용 코드 수정 2종**(회사 확장 태그 · 후속 보고서 비교기간)과 라운드 1~16 회귀. 미확인 93칸은 모두 회사 미공시분
 - 미국 라운드 15: [us-round15-log.md](logs/us-round15-log.md) — 20곳, 미확인 0칸(첫 사례), 새 규칙·코드 수정 0건
 - 미국 라운드 14: [us-round14-log.md](logs/us-round14-log.md) — 20곳, SEC 제출 메타 reportDate 오기 교정(ZTS·NOW 라벨 밀림), 라운드 1~13·15 회귀
@@ -160,7 +161,7 @@
     - ~~AVGO 대차 차이 28백만 달러~~ → 원인은 우선주 배당 의무(회사 확장 태그 메자닌)다. 반영해서 채웠다(8절).
     - 남은 미국 미확인: LLY·XOM·JNJ 영업이익 각 30칸(회사가 영업이익을 공시하지 않음), MA 2019Q4 순이익 1칸.
     - ~~XOM 승계 CIK 처리, V 시총 확인~~ → 라운드 2에서 처리했다(us-round2-log.md 2~4절). **UNH 금융 판정**은 남아 있다.
-    - Yahoo 비공식 API 의존(자동화 운영팀). ~~SEC User-Agent 연락처~~ → 결정: `lapin sirocuro01@gmail.com` (2026-09-19, `us_probe.SEC_UA`).
+    - Yahoo 비공식 API 의존(자동화 운영팀). ~~SEC User-Agent 연락처~~ → 결정: `lapin s*******@gmail.com`(실제 값은 `.claude/settings.local.json`의 `env.SEC_USER_AGENT`) (2026-09-19, `us_probe.SEC_UA`).
     - S&P500 전체 분모 확정.
 
 14. ~~미국 라운드 16 — 읽기 경로가 놓친 칸, 공용 코드 수정 여부~~ → **완료 (2026-09-21).** 규칙 2종(회사 확장 태그 · 후속 보고서 비교기간)을 `collect_us_round2.py`에 넣었다. 라운드 1~16 회귀 재생성·채택까지 끝났고 **기존 값 변경 0건, 개선 28칸**이다. 상세 [us-round16-log.md](logs/us-round16-log.md) 9절

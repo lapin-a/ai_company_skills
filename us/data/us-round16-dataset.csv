@@ -990,9 +990,9 @@ Verisk Analytics,VRSK,2026Q2,2026-06-30,분기말 종가,179.53,USD,API,https://
 Verisk Analytics,VRSK,2026Q2,2026-07-24,분기말 상장주식수,130156012,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/1442145/000143774926024749/,dei:EntityCommonStockSharesOutstanding 클래스 합 ; 값은 XBRL 원문(companyfacts 미반영 보고서)
 Verisk Analytics,VRSK,2026Q2,2026-06-30,분기말 시가총액,23366908834,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/VRSK?interval=1d&events=splits (2026-06-30) ; https://www.sec.gov/Archives/edgar/data/1442145/000143774926024749/,종가 179.53 × 주식수 130156012 ; 값은 XBRL 원문(companyfacts 미반영 보고서)
 Tapestry,TPR,2019Q1,2019-03-30,분기별 매출액,1331400000,USD,공시,https://www.sec.gov/Archives/edgar/data/1116132/000111613219000010/,
-Tapestry,TPR,2019Q1,2019-03-30,분기별 영업이익,105800000,USD,공시,https://www.sec.gov/Archives/edgar/data/1116132/000111613219000010/,
+Tapestry,TPR,2019Q1,2019-03-30,분기별 영업이익,109800000,USD,공시(재작성 반영),https://www.sec.gov/Archives/edgar/data/1116132/000111613220000012/,원 공시 105800000 (https://www.sec.gov/Archives/edgar/data/1116132/000111613219000010/)
 Tapestry,TPR,2019Q1,2019-03-30,분기별 당기순이익(지배),117400000,USD,공시,https://www.sec.gov/Archives/edgar/data/1116132/000111613219000010/,
-Tapestry,TPR,2019Q1,2019-03-30,분기별 영업활동현금흐름,3200000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/1116132/000111613219000010/ ; https://www.sec.gov/Archives/edgar/data/1116132/000111613219000007/,누적 602200000 − 직전누적 599000000 (시작 2018-07-01)
+Tapestry,TPR,2019Q1,2019-03-30,분기별 영업활동현금흐름,3500000,USD,계산(누적차감)(재작성 반영),https://www.sec.gov/Archives/edgar/data/1116132/000111613220000012/ ; https://www.sec.gov/Archives/edgar/data/1116132/000111613220000007/,누적 602800000 − 직전누적 599300000 (시작 2018-07-01) ; 원 공시 3200000 (https://www.sec.gov/Archives/edgar/data/1116132/000111613219000010/ ; https://www.sec.gov/Archives/edgar/data/1116132/000111613219000007/)
 Tapestry,TPR,2019Q1,2019-03-30,분기말 자산총계,6969900000,USD,공시,https://www.sec.gov/Archives/edgar/data/1116132/000111613219000010/,
 Tapestry,TPR,2019Q1,2019-03-30,분기말 부채총계,3438700000,USD,공시,https://www.sec.gov/Archives/edgar/data/1116132/000111613219000010/,
 Tapestry,TPR,2019Q1,2019-03-30,분기말 총자본(자기자본),3531200000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/1116132/000111613219000010/,"StockholdersEquity, MinorityInterest 태그 없음"
@@ -1001,9 +1001,9 @@ Tapestry,TPR,2019Q1,2019-03-29,분기말 종가,32.49,USD,API,https://query1.fin
 Tapestry,TPR,2019Q1,2019-04-26,분기말 상장주식수,290135955,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/1116132/000111613219000010/,dei:EntityCommonStockSharesOutstanding 클래스 합
 Tapestry,TPR,2019Q1,2019-03-29,분기말 시가총액,9426517178,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/TPR?interval=1d&events=splits (2019-03-29) ; https://www.sec.gov/Archives/edgar/data/1116132/000111613219000010/,종가 32.49 × 주식수 290135955
 Tapestry,TPR,2019Q2,2019-06-29,분기별 매출액,1513700000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/1116132/000111613219000016/ ; https://www.sec.gov/Archives/edgar/data/1116132/000111613219000010/,연간 6027100000 − 9개월누적 4513400000 (RevenueFromContractWithCustomerExcludingAssessedTax)
-Tapestry,TPR,2019Q2,2019-06-29,분기별 영업이익,169900000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/1116132/000111613219000016/ ; https://www.sec.gov/Archives/edgar/data/1116132/000111613219000010/,연간 814100000 − 9개월누적 644200000 (OperatingIncomeLoss)
+Tapestry,TPR,2019Q2,2019-06-29,분기별 영업이익,171100000,USD,계산(연간-3분기누적)(재작성 반영),https://www.sec.gov/Archives/edgar/data/1116132/000111613221000020/ ; https://www.sec.gov/Archives/edgar/data/1116132/000111613220000012/,연간 819700000 − 9개월누적 648600000 (OperatingIncomeLoss) ; 원 공시 169900000 (https://www.sec.gov/Archives/edgar/data/1116132/000111613219000016/ ; https://www.sec.gov/Archives/edgar/data/1116132/000111613219000010/)
 Tapestry,TPR,2019Q2,2019-06-29,분기별 당기순이익(지배),148900000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/1116132/000111613219000016/ ; https://www.sec.gov/Archives/edgar/data/1116132/000111613219000010/,연간 643400000 − 9개월누적 494500000 (NetIncomeLoss)
-Tapestry,TPR,2019Q2,2019-06-29,분기별 영업활동현금흐름,189500000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/1116132/000111613219000016/ ; https://www.sec.gov/Archives/edgar/data/1116132/000111613219000010/,누적 791700000 − 직전누적 602200000 (시작 2018-07-01)
+Tapestry,TPR,2019Q2,2019-06-29,분기별 영업활동현금흐름,189600000,USD,계산(누적차감)(재작성 반영),https://www.sec.gov/Archives/edgar/data/1116132/000111613221000020/ ; https://www.sec.gov/Archives/edgar/data/1116132/000111613220000012/,누적 792400000 − 직전누적 602800000 (시작 2018-07-01) ; 원 공시 189500000 (https://www.sec.gov/Archives/edgar/data/1116132/000111613219000016/ ; https://www.sec.gov/Archives/edgar/data/1116132/000111613219000010/)
 Tapestry,TPR,2019Q2,2019-06-29,분기말 자산총계,6877300000,USD,공시,https://www.sec.gov/Archives/edgar/data/1116132/000111613219000016/,
 Tapestry,TPR,2019Q2,2019-06-29,분기말 부채총계,3363900000,USD,공시,https://www.sec.gov/Archives/edgar/data/1116132/000111613219000016/,
 Tapestry,TPR,2019Q2,2019-06-29,분기말 총자본(자기자본),3513400000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/1116132/000111613219000016/,"StockholdersEquity, MinorityInterest 태그 없음"
@@ -1542,7 +1542,7 @@ Global Payments,GPN,2023Q4,2023-12-29,분기말 시가총액,32764093222,USD,계
 Global Payments,GPN,2024Q1,2024-03-31,분기별 매출액,2420187000,USD,공시,https://www.sec.gov/Archives/edgar/data/1123360/000112336024000014/,
 Global Payments,GPN,2024Q1,2024-03-31,분기별 영업이익,452252000,USD,공시,https://www.sec.gov/Archives/edgar/data/1123360/000112336024000014/,
 Global Payments,GPN,2024Q1,2024-03-31,분기별 당기순이익(지배),313307000,USD,공시,https://www.sec.gov/Archives/edgar/data/1123360/000112336024000014/,
-Global Payments,GPN,2024Q1,2024-03-31,분기별 영업활동현금흐름,416317000,USD,공시,https://www.sec.gov/Archives/edgar/data/1123360/000112336024000014/,
+Global Payments,GPN,2024Q1,2024-03-31,분기별 영업활동현금흐름,529579000,USD,공시(재작성 반영),https://www.sec.gov/Archives/edgar/data/1123360/000112336025000030/,원 공시 416317000 (https://www.sec.gov/Archives/edgar/data/1123360/000112336024000014/)
 Global Payments,GPN,2024Q1,2024-03-31,분기말 자산총계,51774750000,USD,공시,https://www.sec.gov/Archives/edgar/data/1123360/000112336024000014/,
 Global Payments,GPN,2024Q1,2024-03-31,분기말 부채총계,28788605000,USD,공시,https://www.sec.gov/Archives/edgar/data/1123360/000112336024000014/,메자닌(일시자본) 143069000 별도
 Global Payments,GPN,2024Q1,2024-03-31,분기말 총자본(자기자본),22843076000,USD,공시,https://www.sec.gov/Archives/edgar/data/1123360/000112336024000014/,
@@ -1553,7 +1553,7 @@ Global Payments,GPN,2024Q1,2024-03-28,분기말 시가총액,34116685595,USD,계
 Global Payments,GPN,2024Q2,2024-06-30,분기별 매출액,2568768000,USD,공시,https://www.sec.gov/Archives/edgar/data/1123360/000112336024000025/,
 Global Payments,GPN,2024Q2,2024-06-30,분기별 영업이익,572623000,USD,공시,https://www.sec.gov/Archives/edgar/data/1123360/000112336024000025/,
 Global Payments,GPN,2024Q2,2024-06-30,분기별 당기순이익(지배),374760000,USD,공시,https://www.sec.gov/Archives/edgar/data/1123360/000112336024000025/,
-Global Payments,GPN,2024Q2,2024-06-30,분기별 영업활동현금흐름,736882000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/1123360/000112336024000025/ ; https://www.sec.gov/Archives/edgar/data/1123360/000112336024000014/,누적 1153199000 − 직전누적 416317000 (시작 2024-01-01)
+Global Payments,GPN,2024Q2,2024-06-30,분기별 영업활동현금흐름,623620000,USD,계산(누적차감)(재작성 반영),https://www.sec.gov/Archives/edgar/data/1123360/000112336024000025/ ; https://www.sec.gov/Archives/edgar/data/1123360/000112336025000030/,누적 1153199000 − 직전누적 529579000 (시작 2024-01-01) ; 원 공시 736882000 (https://www.sec.gov/Archives/edgar/data/1123360/000112336024000025/ ; https://www.sec.gov/Archives/edgar/data/1123360/000112336024000014/)
 Global Payments,GPN,2024Q2,2024-06-30,분기말 자산총계,50752158000,USD,공시,https://www.sec.gov/Archives/edgar/data/1123360/000112336024000025/,
 Global Payments,GPN,2024Q2,2024-06-30,분기말 부채총계,27591106000,USD,공시,https://www.sec.gov/Archives/edgar/data/1123360/000112336024000025/,메자닌(일시자본) 147400000 별도
 Global Payments,GPN,2024Q2,2024-06-30,분기말 총자본(자기자본),23013652000,USD,공시,https://www.sec.gov/Archives/edgar/data/1123360/000112336024000025/,
@@ -1982,7 +1982,7 @@ Church & Dwight,CHD,2026Q2,2026-06-30,분기말 시가총액,22980314510,USD,계
 Casey's General Stores,CASY,2019Q1,2019-04-30,분기별 매출액,2178397000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/726958/000072695819000078/ ; https://www.sec.gov/Archives/edgar/data/726958/000072695819000012/,연간 9352910000 − 9개월누적 7174513000 (Revenues)
 Casey's General Stores,CASY,2019Q1,2019-04-30,분기별 영업이익,미확인,USD,미확인,SEC companyfacts CIK0000726958: 해당 보고서에 OperatingIncomeLoss 태그 없음(영업이익 미공시) ; SEC companyfacts CIK0000726958: OperatingIncomeLoss 태그 없음(영업이익 미공시),
 Casey's General Stores,CASY,2019Q1,2019-04-30,분기별 당기순이익(지배),25212000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/726958/000072695819000078/ ; https://www.sec.gov/Archives/edgar/data/726958/000072695819000012/,연간 203886000 − 9개월누적 178674000 (NetIncomeLoss)
-Casey's General Stores,CASY,2019Q1,2019-04-30,분기별 영업활동현금흐름,162700000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/726958/000072695819000078/ ; https://www.sec.gov/Archives/edgar/data/726958/000072695819000012/,누적 530614000 − 직전누적 367914000 (시작 2018-05-01)
+Casey's General Stores,CASY,2019Q1,2019-04-30,분기별 영업활동현금흐름,152858000,USD,계산(누적차감)(재작성 반영),https://www.sec.gov/Archives/edgar/data/726958/000072695819000078/ ; https://www.sec.gov/Archives/edgar/data/726958/000072695820000017/,누적 530614000 − 직전누적 377756000 (시작 2018-05-01) ; 원 공시 162700000 (https://www.sec.gov/Archives/edgar/data/726958/000072695819000078/ ; https://www.sec.gov/Archives/edgar/data/726958/000072695819000012/)
 Casey's General Stores,CASY,2019Q1,2019-04-30,분기말 자산총계,3731376000,USD,공시,https://www.sec.gov/Archives/edgar/data/726958/000072695819000078/,
 Casey's General Stores,CASY,2019Q1,2019-04-30,분기말 부채총계,2322607000,USD,공시,https://www.sec.gov/Archives/edgar/data/726958/000072695819000078/,
 Casey's General Stores,CASY,2019Q1,2019-04-30,분기말 총자본(자기자본),1408769000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/726958/000072695819000078/,"StockholdersEquity, MinorityInterest 태그 없음"
@@ -2642,7 +2642,7 @@ J.B. Hunt Transport,JBHT,2026Q2,2026-06-30,분기말 시가총액,27181800795,US
 PulteGroup,PHM,2019Q1,2019-03-31,분기별 매출액,1996693000,USD,공시,https://www.sec.gov/Archives/edgar/data/822416/000082241619000018/,
 PulteGroup,PHM,2019Q1,2019-03-31,분기별 영업이익,미확인,USD,미확인,SEC companyfacts CIK0000822416: 해당 보고서에 OperatingIncomeLoss 태그 없음(영업이익 미공시) ; SEC companyfacts CIK0000822416: OperatingIncomeLoss 태그 없음(영업이익 미공시),
 PulteGroup,PHM,2019Q1,2019-03-31,분기별 당기순이익(지배),166757000,USD,공시,https://www.sec.gov/Archives/edgar/data/822416/000082241619000018/,
-PulteGroup,PHM,2019Q1,2019-03-31,분기별 영업활동현금흐름,158909000,USD,공시,https://www.sec.gov/Archives/edgar/data/822416/000082241619000018/,
+PulteGroup,PHM,2019Q1,2019-03-31,분기별 영업활동현금흐름,158905000,USD,공시(재작성 반영),https://www.sec.gov/Archives/edgar/data/822416/000082241620000014/,원 공시 158909000 (https://www.sec.gov/Archives/edgar/data/822416/000082241619000018/)
 PulteGroup,PHM,2019Q1,2019-03-31,분기말 자산총계,10207336000,USD,공시,https://www.sec.gov/Archives/edgar/data/822416/000082241619000018/,
 PulteGroup,PHM,2019Q1,2019-03-31,분기말 부채총계,5273897000,USD,공시,https://www.sec.gov/Archives/edgar/data/822416/000082241619000018/,
 PulteGroup,PHM,2019Q1,2019-03-31,분기말 총자본(자기자본),4933439000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/822416/000082241619000018/,"StockholdersEquity, MinorityInterest 태그 없음"
@@ -2653,7 +2653,7 @@ PulteGroup,PHM,2019Q1,2019-03-29,분기말 시가총액,7748753679,USD,계산(�
 PulteGroup,PHM,2019Q2,2019-06-30,분기별 매출액,2488985000,USD,공시,https://www.sec.gov/Archives/edgar/data/822416/000082241619000036/,
 PulteGroup,PHM,2019Q2,2019-06-30,분기별 영업이익,미확인,USD,미확인,SEC companyfacts CIK0000822416: 해당 보고서에 OperatingIncomeLoss 태그 없음(영업이익 미공시) ; SEC companyfacts CIK0000822416: OperatingIncomeLoss 태그 없음(영업이익 미공시),
 PulteGroup,PHM,2019Q2,2019-06-30,분기별 당기순이익(지배),241041000,USD,공시,https://www.sec.gov/Archives/edgar/data/822416/000082241619000036/,
-PulteGroup,PHM,2019Q2,2019-06-30,분기별 영업활동현금흐름,146801000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/822416/000082241619000036/ ; https://www.sec.gov/Archives/edgar/data/822416/000082241619000018/,누적 305710000 − 직전누적 158909000 (시작 2019-01-01)
+PulteGroup,PHM,2019Q2,2019-06-30,분기별 영업활동현금흐름,146802000,USD,계산(누적차감)(재작성 반영),https://www.sec.gov/Archives/edgar/data/822416/000082241620000033/ ; https://www.sec.gov/Archives/edgar/data/822416/000082241620000014/,누적 305707000 − 직전누적 158905000 (시작 2019-01-01) ; 원 공시 146801000 (https://www.sec.gov/Archives/edgar/data/822416/000082241619000036/ ; https://www.sec.gov/Archives/edgar/data/822416/000082241619000018/)
 PulteGroup,PHM,2019Q2,2019-06-30,분기말 자산총계,10095537000,USD,공시,https://www.sec.gov/Archives/edgar/data/822416/000082241619000036/,
 PulteGroup,PHM,2019Q2,2019-06-30,분기말 부채총계,5025730000,USD,공시,https://www.sec.gov/Archives/edgar/data/822416/000082241619000036/,
 PulteGroup,PHM,2019Q2,2019-06-30,분기말 총자본(자기자본),5069807000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/822416/000082241619000036/,"StockholdersEquity, MinorityInterest 태그 없음"
@@ -2664,7 +2664,7 @@ PulteGroup,PHM,2019Q2,2019-06-28,분기말 시가총액,8670794630,USD,계산(�
 PulteGroup,PHM,2019Q3,2019-09-30,분기별 매출액,2710365000,USD,공시,https://www.sec.gov/Archives/edgar/data/822416/000082241619000048/,
 PulteGroup,PHM,2019Q3,2019-09-30,분기별 영업이익,미확인,USD,미확인,SEC companyfacts CIK0000822416: 해당 보고서에 OperatingIncomeLoss 태그 없음(영업이익 미공시) ; SEC companyfacts CIK0000822416: OperatingIncomeLoss 태그 없음(영업이익 미공시),
 PulteGroup,PHM,2019Q3,2019-09-30,분기별 당기순이익(지배),273104000,USD,공시,https://www.sec.gov/Archives/edgar/data/822416/000082241619000048/,
-PulteGroup,PHM,2019Q3,2019-09-30,분기별 영업활동현금흐름,277070000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/822416/000082241619000048/ ; https://www.sec.gov/Archives/edgar/data/822416/000082241619000036/,누적 582780000 − 직전누적 305710000 (시작 2019-01-01)
+PulteGroup,PHM,2019Q3,2019-09-30,분기별 영업활동현금흐름,277073000,USD,계산(누적차감)(재작성 반영),https://www.sec.gov/Archives/edgar/data/822416/000082241619000048/ ; https://www.sec.gov/Archives/edgar/data/822416/000082241620000033/,누적 582780000 − 직전누적 305707000 (시작 2019-01-01) ; 원 공시 277070000 (https://www.sec.gov/Archives/edgar/data/822416/000082241619000048/ ; https://www.sec.gov/Archives/edgar/data/822416/000082241619000036/)
 PulteGroup,PHM,2019Q3,2019-09-30,분기말 자산총계,10264513000,USD,공시,https://www.sec.gov/Archives/edgar/data/822416/000082241619000048/,
 PulteGroup,PHM,2019Q3,2019-09-30,분기말 부채총계,5082921000,USD,공시,https://www.sec.gov/Archives/edgar/data/822416/000082241619000048/,
 PulteGroup,PHM,2019Q3,2019-09-30,분기말 총자본(자기자본),5181592000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/822416/000082241619000048/,"StockholdersEquity, MinorityInterest 태그 없음"
@@ -2675,7 +2675,7 @@ PulteGroup,PHM,2019Q3,2019-09-30,분기말 시가총액,9905046382,USD,계산(�
 PulteGroup,PHM,2019Q4,2019-12-31,분기별 매출액,3016913000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/822416/000082241620000007/ ; https://www.sec.gov/Archives/edgar/data/822416/000082241619000048/,연간 10212957000 − 9개월누적 7196044000 (RevenueFromContractWithCustomerExcludingAssessedTax / 9개월 Revenues)
 PulteGroup,PHM,2019Q4,2019-12-31,분기별 영업이익,미확인,USD,미확인,SEC companyfacts CIK0000822416: 해당 보고서에 OperatingIncomeLoss 태그 없음(영업이익 미공시) ; SEC companyfacts CIK0000822416: OperatingIncomeLoss 태그 없음(영업이익 미공시),
 PulteGroup,PHM,2019Q4,2019-12-31,분기별 당기순이익(지배),335798000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/822416/000082241620000007/ ; https://www.sec.gov/Archives/edgar/data/822416/000082241619000048/,연간 1016700000 − 9개월누적 680902000 (NetIncomeLoss)
-PulteGroup,PHM,2019Q4,2019-12-31,분기별 영업활동현금흐름,494765000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/822416/000082241620000007/ ; https://www.sec.gov/Archives/edgar/data/822416/000082241619000048/,누적 1077545000 − 직전누적 582780000 (시작 2019-01-01)
+PulteGroup,PHM,2019Q4,2019-12-31,분기별 영업활동현금흐름,493222000,USD,계산(누적차감)(재작성 반영),https://www.sec.gov/Archives/edgar/data/822416/000082241622000007/ ; https://www.sec.gov/Archives/edgar/data/822416/000082241619000048/,누적 1076002000 − 직전누적 582780000 (시작 2019-01-01) ; 원 공시 494765000 (https://www.sec.gov/Archives/edgar/data/822416/000082241620000007/ ; https://www.sec.gov/Archives/edgar/data/822416/000082241619000048/)
 PulteGroup,PHM,2019Q4,2019-12-31,분기말 자산총계,10715597000,USD,공시,https://www.sec.gov/Archives/edgar/data/822416/000082241620000007/,
 PulteGroup,PHM,2019Q4,2019-12-31,분기말 부채총계,5257417000,USD,공시,https://www.sec.gov/Archives/edgar/data/822416/000082241620000007/,
 PulteGroup,PHM,2019Q4,2019-12-31,분기말 총자본(자기자본),5458180000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/822416/000082241620000007/,"StockholdersEquity, MinorityInterest 태그 없음"
@@ -2708,7 +2708,7 @@ PulteGroup,PHM,2020Q2,2020-06-30,분기말 시가총액,9126085770,USD,계산(�
 PulteGroup,PHM,2020Q3,2020-09-30,분기별 매출액,2954957000,USD,공시,https://www.sec.gov/Archives/edgar/data/822416/000082241620000040/,
 PulteGroup,PHM,2020Q3,2020-09-30,분기별 영업이익,미확인,USD,미확인,SEC companyfacts CIK0000822416: 해당 보고서에 OperatingIncomeLoss 태그 없음(영업이익 미공시) ; SEC companyfacts CIK0000822416: OperatingIncomeLoss 태그 없음(영업이익 미공시),
 PulteGroup,PHM,2020Q3,2020-09-30,분기별 당기순이익(지배),416398000,USD,공시,https://www.sec.gov/Archives/edgar/data/822416/000082241620000040/,
-PulteGroup,PHM,2020Q3,2020-09-30,분기별 영업활동현금흐름,460753000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/822416/000082241620000040/ ; https://www.sec.gov/Archives/edgar/data/822416/000082241620000033/,누적 1268625000 − 직전누적 807872000 (시작 2020-01-01)
+PulteGroup,PHM,2020Q3,2020-09-30,분기별 영업활동현금흐름,458753000,USD,계산(누적차감)(재작성 반영),https://www.sec.gov/Archives/edgar/data/822416/000082241621000040/ ; https://www.sec.gov/Archives/edgar/data/822416/000082241620000033/,누적 1266625000 − 직전누적 807872000 (시작 2020-01-01) ; 원 공시 460753000 (https://www.sec.gov/Archives/edgar/data/822416/000082241620000040/ ; https://www.sec.gov/Archives/edgar/data/822416/000082241620000033/)
 PulteGroup,PHM,2020Q3,2020-09-30,분기말 자산총계,11365022000,USD,공시,https://www.sec.gov/Archives/edgar/data/822416/000082241620000040/,
 PulteGroup,PHM,2020Q3,2020-09-30,분기말 부채총계,5125007000,USD,공시,https://www.sec.gov/Archives/edgar/data/822416/000082241620000040/,
 PulteGroup,PHM,2020Q3,2020-09-30,분기말 총자본(자기자본),6240015000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/822416/000082241620000040/,"StockholdersEquity, MinorityInterest 태그 없음"
@@ -2719,7 +2719,7 @@ PulteGroup,PHM,2020Q3,2020-09-30,분기말 시가총액,12410059317,USD,계산(�
 PulteGroup,PHM,2020Q4,2020-12-31,분기별 매출액,3192364000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/822416/000082241621000007/ ; https://www.sec.gov/Archives/edgar/data/822416/000082241620000040/,연간 11036082000 − 9개월누적 7843718000 (RevenueFromContractWithCustomerExcludingAssessedTax / 9개월 Revenues)
 PulteGroup,PHM,2020Q4,2020-12-31,분기별 영업이익,미확인,USD,미확인,SEC companyfacts CIK0000822416: 해당 보고서에 OperatingIncomeLoss 태그 없음(영업이익 미공시) ; SEC companyfacts CIK0000822416: OperatingIncomeLoss 태그 없음(영업이익 미공시),
 PulteGroup,PHM,2020Q4,2020-12-31,분기별 당기순이익(지배),438111000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/822416/000082241621000007/ ; https://www.sec.gov/Archives/edgar/data/822416/000082241620000040/,연간 1406839000 − 9개월누적 968728000 (NetIncomeLoss)
-PulteGroup,PHM,2020Q4,2020-12-31,분기별 영업활동현금흐름,515717000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/822416/000082241621000007/ ; https://www.sec.gov/Archives/edgar/data/822416/000082241620000040/,누적 1784342000 − 직전누적 1268625000 (시작 2020-01-01)
+PulteGroup,PHM,2020Q4,2020-12-31,분기별 영업활동현금흐름,517717000,USD,계산(누적차감)(재작성 반영),https://www.sec.gov/Archives/edgar/data/822416/000082241621000007/ ; https://www.sec.gov/Archives/edgar/data/822416/000082241621000040/,누적 1784342000 − 직전누적 1266625000 (시작 2020-01-01) ; 원 공시 515717000 (https://www.sec.gov/Archives/edgar/data/822416/000082241621000007/ ; https://www.sec.gov/Archives/edgar/data/822416/000082241620000040/)
 PulteGroup,PHM,2020Q4,2020-12-31,분기말 자산총계,12205498000,USD,공시,https://www.sec.gov/Archives/edgar/data/822416/000082241621000007/,
 PulteGroup,PHM,2020Q4,2020-12-31,분기말 부채총계,5635509000,USD,공시,https://www.sec.gov/Archives/edgar/data/822416/000082241621000007/,
 PulteGroup,PHM,2020Q4,2020-12-31,분기말 총자본(자기자본),6569989000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/822416/000082241621000007/,"StockholdersEquity, MinorityInterest 태그 없음"
@@ -2760,7 +2760,7 @@ PulteGroup,PHM,2021Q3,2021-09-30,분기말 지배지분 자본,7141752000,USD,�
 PulteGroup,PHM,2021Q3,2021-09-30,분기말 종가,45.92,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/PHM?interval=1d&events=splits (2021-09-30),
 PulteGroup,PHM,2021Q3,2021-10-20,분기말 상장주식수,253185667,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/822416/000082241621000040/,dei:EntityCommonStockSharesOutstanding 클래스 합
 PulteGroup,PHM,2021Q3,2021-09-30,분기말 시가총액,11626285829,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/PHM?interval=1d&events=splits (2021-09-30) ; https://www.sec.gov/Archives/edgar/data/822416/000082241621000040/,종가 45.92 × 주식수 253185667
-PulteGroup,PHM,2021Q4,2021-12-31,분기별 매출액,4358558000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/822416/000082241622000007/ ; https://www.sec.gov/Archives/edgar/data/822416/000082241621000040/,연간 13926882000 − 9개월누적 9568324000 (RevenueFromContractWithCustomerExcludingAssessedTax / 9개월 Revenues)
+PulteGroup,PHM,2021Q4,2021-12-31,분기별 매출액,4168671000,USD,계산(연간-3분기누적)(재작성 반영),https://www.sec.gov/Archives/edgar/data/822416/000082241624000010/ ; https://www.sec.gov/Archives/edgar/data/822416/000082241621000040/,연간 13736995000 − 9개월누적 9568324000 (RevenueFromContractWithCustomerExcludingAssessedTax / 9개월 Revenues) ; 원 공시 4358558000 (https://www.sec.gov/Archives/edgar/data/822416/000082241622000007/ ; https://www.sec.gov/Archives/edgar/data/822416/000082241621000040/)
 PulteGroup,PHM,2021Q4,2021-12-31,분기별 영업이익,미확인,USD,미확인,SEC companyfacts CIK0000822416: 해당 보고서에 OperatingIncomeLoss 태그 없음(영업이익 미공시) ; SEC companyfacts CIK0000822416: OperatingIncomeLoss 태그 없음(영업이익 미공시),
 PulteGroup,PHM,2021Q4,2021-12-31,분기별 당기순이익(지배),663265000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/822416/000082241622000007/ ; https://www.sec.gov/Archives/edgar/data/822416/000082241621000040/,연간 1946320000 − 9개월누적 1283055000 (NetIncomeLoss)
 PulteGroup,PHM,2021Q4,2021-12-31,분기별 영업활동현금흐름,455796000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/822416/000082241622000007/ ; https://www.sec.gov/Archives/edgar/data/822416/000082241621000040/,누적 1004021000 − 직전누적 548225000 (시작 2021-01-01)
@@ -2771,7 +2771,7 @@ PulteGroup,PHM,2021Q4,2021-12-31,분기말 지배지분 자본,7489515000,USD,�
 PulteGroup,PHM,2021Q4,2021-12-31,분기말 종가,57.16,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/PHM?interval=1d&events=splits (2021-12-31),
 PulteGroup,PHM,2021Q4,2022-01-20,분기말 상장주식수,248650958,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/822416/000082241622000007/,dei:EntityCommonStockSharesOutstanding 클래스 합
 PulteGroup,PHM,2021Q4,2021-12-31,분기말 시가총액,14212888759,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/PHM?interval=1d&events=splits (2021-12-31) ; https://www.sec.gov/Archives/edgar/data/822416/000082241622000007/,종가 57.16 × 주식수 248650958
-PulteGroup,PHM,2022Q1,2022-03-31,분기별 매출액,3187615000,USD,공시,https://www.sec.gov/Archives/edgar/data/822416/000082241622000018/,
+PulteGroup,PHM,2022Q1,2022-03-31,분기별 매출액,3149519000,USD,공시(재작성 반영),https://www.sec.gov/Archives/edgar/data/822416/000082241623000017/,원 공시 3187615000 (https://www.sec.gov/Archives/edgar/data/822416/000082241622000018/)
 PulteGroup,PHM,2022Q1,2022-03-31,분기별 영업이익,미확인,USD,미확인,SEC companyfacts CIK0000822416: 해당 보고서에 OperatingIncomeLoss 태그 없음(영업이익 미공시) ; SEC companyfacts CIK0000822416: OperatingIncomeLoss 태그 없음(영업이익 미공시),
 PulteGroup,PHM,2022Q1,2022-03-31,분기별 당기순이익(지배),454723000,USD,공시,https://www.sec.gov/Archives/edgar/data/822416/000082241622000018/,
 PulteGroup,PHM,2022Q1,2022-03-31,분기별 영업활동현금흐름,207666000,USD,공시,https://www.sec.gov/Archives/edgar/data/822416/000082241622000018/,
@@ -2782,7 +2782,7 @@ PulteGroup,PHM,2022Q1,2022-03-31,분기말 지배지분 자본,7413264000,USD,�
 PulteGroup,PHM,2022Q1,2022-03-31,분기말 종가,41.9,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/PHM?interval=1d&events=splits (2022-03-31),
 PulteGroup,PHM,2022Q1,2022-04-19,분기말 상장주식수,237626768,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/822416/000082241622000018/,dei:EntityCommonStockSharesOutstanding 클래스 합
 PulteGroup,PHM,2022Q1,2022-03-31,분기말 시가총액,9956561579,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/PHM?interval=1d&events=splits (2022-03-31) ; https://www.sec.gov/Archives/edgar/data/822416/000082241622000018/,종가 41.9 × 주식수 237626768
-PulteGroup,PHM,2022Q2,2022-06-30,분기별 매출액,3926186000,USD,공시,https://www.sec.gov/Archives/edgar/data/822416/000082241622000038/,
+PulteGroup,PHM,2022Q2,2022-06-30,분기별 매출액,3879752000,USD,공시(재작성 반영),https://www.sec.gov/Archives/edgar/data/822416/000082241623000035/,원 공시 3926186000 (https://www.sec.gov/Archives/edgar/data/822416/000082241622000038/)
 PulteGroup,PHM,2022Q2,2022-06-30,분기별 영업이익,미확인,USD,미확인,SEC companyfacts CIK0000822416: 해당 보고서에 OperatingIncomeLoss 태그 없음(영업이익 미공시) ; SEC companyfacts CIK0000822416: OperatingIncomeLoss 태그 없음(영업이익 미공시),
 PulteGroup,PHM,2022Q2,2022-06-30,분기별 당기순이익(지배),652435000,USD,공시,https://www.sec.gov/Archives/edgar/data/822416/000082241622000038/,
 PulteGroup,PHM,2022Q2,2022-06-30,분기별 영업활동현금흐름,-105323000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/822416/000082241622000038/ ; https://www.sec.gov/Archives/edgar/data/822416/000082241622000018/,누적 102343000 − 직전누적 207666000 (시작 2022-01-01)
@@ -2793,7 +2793,7 @@ PulteGroup,PHM,2022Q2,2022-06-30,분기말 지배지분 자본,7745216000,USD,�
 PulteGroup,PHM,2022Q2,2022-06-30,분기말 종가,39.63,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/PHM?interval=1d&events=splits (2022-06-30),
 PulteGroup,PHM,2022Q2,2022-07-19,분기말 상장주식수,231498300,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/822416/000082241622000038/,dei:EntityCommonStockSharesOutstanding 클래스 합
 PulteGroup,PHM,2022Q2,2022-06-30,분기말 시가총액,9174277629,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/PHM?interval=1d&events=splits (2022-06-30) ; https://www.sec.gov/Archives/edgar/data/822416/000082241622000038/,종가 39.63 × 주식수 231498300
-PulteGroup,PHM,2022Q3,2022-09-30,분기별 매출액,3943816000,USD,공시,https://www.sec.gov/Archives/edgar/data/822416/000082241622000050/,
+PulteGroup,PHM,2022Q3,2022-09-30,분기별 매출액,3895062000,USD,공시(재작성 반영),https://www.sec.gov/Archives/edgar/data/822416/000082241623000042/,원 공시 3943816000 (https://www.sec.gov/Archives/edgar/data/822416/000082241622000050/)
 PulteGroup,PHM,2022Q3,2022-09-30,분기별 영업이익,미확인,USD,미확인,SEC companyfacts CIK0000822416: 해당 보고서에 OperatingIncomeLoss 태그 없음(영업이익 미공시) ; SEC companyfacts CIK0000822416: OperatingIncomeLoss 태그 없음(영업이익 미공시),
 PulteGroup,PHM,2022Q3,2022-09-30,분기별 당기순이익(지배),627928000,USD,공시,https://www.sec.gov/Archives/edgar/data/822416/000082241622000050/,
 PulteGroup,PHM,2022Q3,2022-09-30,분기별 영업활동현금흐름,-406268000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/822416/000082241622000050/ ; https://www.sec.gov/Archives/edgar/data/822416/000082241622000038/,누적 -303925000 − 직전누적 102343000 (시작 2022-01-01)
@@ -2804,7 +2804,7 @@ PulteGroup,PHM,2022Q3,2022-09-30,분기말 지배지분 자본,8164003000,USD,�
 PulteGroup,PHM,2022Q3,2022-09-30,분기말 종가,37.5,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/PHM?interval=1d&events=splits (2022-09-30),
 PulteGroup,PHM,2022Q3,2022-10-18,분기말 상장주식수,227819724,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/822416/000082241622000050/,dei:EntityCommonStockSharesOutstanding 클래스 합
 PulteGroup,PHM,2022Q3,2022-09-30,분기말 시가총액,8543239650,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/PHM?interval=1d&events=splits (2022-09-30) ; https://www.sec.gov/Archives/edgar/data/822416/000082241622000050/,종가 37.5 × 주식수 227819724
-PulteGroup,PHM,2022Q4,2022-12-31,분기별 매출액,5171378000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/822416/000082241623000007/ ; https://www.sec.gov/Archives/edgar/data/822416/000082241622000050/,연간 16228995000 − 9개월누적 11057617000 (RevenueFromContractWithCustomerExcludingAssessedTax / 9개월 Revenues)
+PulteGroup,PHM,2022Q4,2022-12-31,분기별 매출액,5078646000,USD,계산(연간-3분기누적)(재작성 반영),https://www.sec.gov/Archives/edgar/data/822416/000082241625000007/ ; https://www.sec.gov/Archives/edgar/data/822416/000082241623000042/,연간 16002979000 − 9개월누적 10924333000 (RevenueFromContractWithCustomerExcludingAssessedTax / 9개월 Revenues) ; 원 공시 5171378000 (https://www.sec.gov/Archives/edgar/data/822416/000082241623000007/ ; https://www.sec.gov/Archives/edgar/data/822416/000082241622000050/)
 PulteGroup,PHM,2022Q4,2022-12-31,분기별 영업이익,미확인,USD,미확인,SEC companyfacts CIK0000822416: 해당 보고서에 OperatingIncomeLoss 태그 없음(영업이익 미공시) ; SEC companyfacts CIK0000822416: OperatingIncomeLoss 태그 없음(영업이익 미공시),
 PulteGroup,PHM,2022Q4,2022-12-31,분기별 당기순이익(지배),882231000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/822416/000082241623000007/ ; https://www.sec.gov/Archives/edgar/data/822416/000082241622000050/,연간 2617317000 − 9개월누적 1735086000 (NetIncomeLoss)
 PulteGroup,PHM,2022Q4,2022-12-31,분기별 영업활동현금흐름,972391000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/822416/000082241623000007/ ; https://www.sec.gov/Archives/edgar/data/822416/000082241622000050/,누적 668466000 − 직전누적 -303925000 (시작 2022-01-01)
@@ -3719,7 +3719,7 @@ Edison International,EIX,2020Q4,2021-02-18,분기말 상장주식수,379283328,�
 Edison International,EIX,2020Q4,2020-12-31,분기말 시가총액,23826578665,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/EIX?interval=1d&events=splits (2020-12-31) ; https://www.sec.gov/Archives/edgar/data/827052/000082705221000019/,종가 62.82 × 주식수 379283328
 Edison International,EIX,2021Q1,2021-03-31,분기별 매출액,2960000000,USD,공시,https://www.sec.gov/Archives/edgar/data/827052/000082705221000033/,
 Edison International,EIX,2021Q1,2021-03-31,분기별 영업이익,399000000,USD,공시,https://www.sec.gov/Archives/edgar/data/827052/000082705221000033/,
-Edison International,EIX,2021Q1,2021-03-31,분기별 당기순이익(지배),259000000,USD,공시,https://www.sec.gov/Archives/edgar/data/827052/000082705221000033/,
+Edison International,EIX,2021Q1,2021-03-31,분기별 당기순이익(지배),290000000,USD,공시(재작성 반영),https://www.sec.gov/Archives/edgar/data/827052/000082705222000076/,원 공시 259000000 (https://www.sec.gov/Archives/edgar/data/827052/000082705221000033/)
 Edison International,EIX,2021Q1,2021-03-31,분기별 영업활동현금흐름,72000000,USD,공시,https://www.sec.gov/Archives/edgar/data/827052/000082705221000033/,
 Edison International,EIX,2021Q1,2021-03-31,분기말 자산총계,70505000000,USD,공시,https://www.sec.gov/Archives/edgar/data/827052/000082705221000033/,
 Edison International,EIX,2021Q1,2021-03-31,분기말 부채총계,53282000000,USD,공시,https://www.sec.gov/Archives/edgar/data/827052/000082705221000033/,
@@ -3730,7 +3730,7 @@ Edison International,EIX,2021Q1,2021-04-20,분기말 상장주식수,379438053,�
 Edison International,EIX,2021Q1,2021-03-31,분기말 시가총액,22235069906,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/EIX?interval=1d&events=splits (2021-03-31) ; https://www.sec.gov/Archives/edgar/data/827052/000082705221000033/,종가 58.6 × 주식수 379438053
 Edison International,EIX,2021Q2,2021-06-30,분기별 매출액,3315000000,USD,공시,https://www.sec.gov/Archives/edgar/data/827052/000082705221000051/,
 Edison International,EIX,2021Q2,2021-06-30,분기별 영업이익,585000000,USD,공시,https://www.sec.gov/Archives/edgar/data/827052/000082705221000051/,
-Edison International,EIX,2021Q2,2021-06-30,분기별 당기순이익(지배),318000000,USD,공시,https://www.sec.gov/Archives/edgar/data/827052/000082705221000051/,
+Edison International,EIX,2021Q2,2021-06-30,분기별 당기순이익(지배),361000000,USD,공시(재작성 반영),https://www.sec.gov/Archives/edgar/data/827052/000082705222000076/,원 공시 318000000 (https://www.sec.gov/Archives/edgar/data/827052/000082705221000051/)
 Edison International,EIX,2021Q2,2021-06-30,분기별 영업활동현금흐름,-1446000000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/827052/000082705221000051/ ; https://www.sec.gov/Archives/edgar/data/827052/000082705221000033/,누적 -1374000000 − 직전누적 72000000 (시작 2021-01-01)
 Edison International,EIX,2021Q2,2021-06-30,분기말 자산총계,71162000000,USD,공시,https://www.sec.gov/Archives/edgar/data/827052/000082705221000051/,
 Edison International,EIX,2021Q2,2021-06-30,분기말 부채총계,53849000000,USD,공시,https://www.sec.gov/Archives/edgar/data/827052/000082705221000051/,
@@ -3741,7 +3741,7 @@ Edison International,EIX,2021Q2,2021-07-22,분기말 상장주식수,379704799,�
 Edison International,EIX,2021Q2,2021-06-30,분기말 시가총액,21954531478,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/EIX?interval=1d&events=splits (2021-06-30) ; https://www.sec.gov/Archives/edgar/data/827052/000082705221000051/,종가 57.82 × 주식수 379704799
 Edison International,EIX,2021Q3,2021-09-30,분기별 매출액,5299000000,USD,공시,https://www.sec.gov/Archives/edgar/data/827052/000082705221000063/,
 Edison International,EIX,2021Q3,2021-09-30,분기별 영업이익,-128000000,USD,공시,https://www.sec.gov/Archives/edgar/data/827052/000082705221000063/,
-Edison International,EIX,2021Q3,2021-09-30,분기별 당기순이익(지배),-341000000,USD,공시,https://www.sec.gov/Archives/edgar/data/827052/000082705221000063/,
+Edison International,EIX,2021Q3,2021-09-30,분기별 당기순이익(지배),-297000000,USD,공시(재작성 반영),https://www.sec.gov/Archives/edgar/data/827052/000082705222000076/,원 공시 -341000000 (https://www.sec.gov/Archives/edgar/data/827052/000082705221000063/)
 Edison International,EIX,2021Q3,2021-09-30,분기별 영업활동현금흐름,958000000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/827052/000082705221000063/ ; https://www.sec.gov/Archives/edgar/data/827052/000082705221000051/,누적 -416000000 − 직전누적 -1374000000 (시작 2021-01-01)
 Edison International,EIX,2021Q3,2021-09-30,분기말 자산총계,73023000000,USD,공시,https://www.sec.gov/Archives/edgar/data/827052/000082705221000063/,
 Edison International,EIX,2021Q3,2021-09-30,분기말 부채총계,56281000000,USD,공시,https://www.sec.gov/Archives/edgar/data/827052/000082705221000063/,
@@ -3961,7 +3961,7 @@ Edison International,EIX,2026Q2,2026-07-23,분기말 상장주식수,384813979,�
 Edison International,EIX,2026Q2,2026-06-30,분기말 시가총액,28649400737,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/EIX?interval=1d&events=splits (2026-06-30) ; https://www.sec.gov/Archives/edgar/data/827052/000082705226000059/,종가 74.45 × 주식수 384813979 ; 값은 XBRL 원문(companyfacts 미반영 보고서)
 International Flavors & Fragrances,IFF,2019Q1,2019-03-31,분기별 매출액,1297402000,USD,공시,https://www.sec.gov/Archives/edgar/data/51253/000005125319000008/,
 International Flavors & Fragrances,IFF,2019Q1,2019-03-31,분기별 영업이익,163870000,USD,공시,https://www.sec.gov/Archives/edgar/data/51253/000005125319000008/,
-International Flavors & Fragrances,IFF,2019Q1,2019-03-31,분기별 당기순이익(지배),111214000,USD,공시,https://www.sec.gov/Archives/edgar/data/51253/000005125319000008/,
+International Flavors & Fragrances,IFF,2019Q1,2019-03-31,분기별 당기순이익(지배),108829000,USD,공시(재작성 반영),https://www.sec.gov/Archives/edgar/data/51253/000005125320000011/,원 공시 111214000 (https://www.sec.gov/Archives/edgar/data/51253/000005125319000008/)
 International Flavors & Fragrances,IFF,2019Q1,2019-03-31,분기별 영업활동현금흐름,47232000,USD,공시,https://www.sec.gov/Archives/edgar/data/51253/000005125319000008/,
 International Flavors & Fragrances,IFF,2019Q1,2019-03-31,분기말 자산총계,13211420000,USD,공시,https://www.sec.gov/Archives/edgar/data/51253/000005125319000008/,
 International Flavors & Fragrances,IFF,2019Q1,2019-03-31,분기말 부채총계,6942231000,USD,계산(부채및자본-총자본),https://www.sec.gov/Archives/edgar/data/51253/000005125319000008/,부채및자본 13211420000 − 총자본 6154478000 − 메자닌 114711000 ; 메자닌(일시자본) 114711000 별도
@@ -3972,7 +3972,7 @@ International Flavors & Fragrances,IFF,2019Q1,2019-04-24,분기말 상장주식�
 International Flavors & Fragrances,IFF,2019Q1,2019-03-29,분기말 시가총액,13740751534,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/IFF?interval=1d&events=splits (2019-03-29) ; https://www.sec.gov/Archives/edgar/data/51253/000005125319000008/,종가 128.79 × 주식수 106691137
 International Flavors & Fragrances,IFF,2019Q2,2019-06-30,분기별 매출액,1291568000,USD,공시,https://www.sec.gov/Archives/edgar/data/51253/000005125319000018/,
 International Flavors & Fragrances,IFF,2019Q2,2019-06-30,분기별 영업이익,199937000,USD,공시,https://www.sec.gov/Archives/edgar/data/51253/000005125319000018/,
-International Flavors & Fragrances,IFF,2019Q2,2019-06-30,분기별 당기순이익(지배),138869000,USD,공시,https://www.sec.gov/Archives/edgar/data/51253/000005125319000018/,
+International Flavors & Fragrances,IFF,2019Q2,2019-06-30,분기별 당기순이익(지배),136377000,USD,공시(재작성 반영),https://www.sec.gov/Archives/edgar/data/51253/000005125320000046/,원 공시 138869000 (https://www.sec.gov/Archives/edgar/data/51253/000005125319000018/)
 International Flavors & Fragrances,IFF,2019Q2,2019-06-30,분기별 영업활동현금흐름,137684000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/51253/000005125319000018/ ; https://www.sec.gov/Archives/edgar/data/51253/000005125319000008/,누적 184916000 − 직전누적 47232000 (시작 2019-01-01)
 International Flavors & Fragrances,IFF,2019Q2,2019-06-30,분기말 자산총계,13348082000,USD,공시,https://www.sec.gov/Archives/edgar/data/51253/000005125319000018/,
 International Flavors & Fragrances,IFF,2019Q2,2019-06-30,분기말 부채총계,7022555000,USD,계산(부채및자본-총자본),https://www.sec.gov/Archives/edgar/data/51253/000005125319000018/,부채및자본 13348082000 − 총자본 6209987000 − 메자닌 115540000 ; 메자닌(일시자본) 115540000 별도
@@ -4041,7 +4041,7 @@ International Flavors & Fragrances,IFF,2020Q4,2020-12-31,분기별 영업이익,
 International Flavors & Fragrances,IFF,2020Q4,2020-12-31,분기별 당기순이익(지배),67589000,USD,계산(연간(연결-비지배)-3분기누적),https://www.sec.gov/Archives/edgar/data/51253/000005125321000011/ ; https://www.sec.gov/Archives/edgar/data/51253/000005125320000055/,연간 연결 367372000 − 비지배 4144000 − (9개월누적 295639000)
 International Flavors & Fragrances,IFF,2020Q4,2020-12-31,분기별 영업활동현금흐름,299070000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/51253/000005125321000011/ ; https://www.sec.gov/Archives/edgar/data/51253/000005125320000055/,누적 714098000 − 직전누적 415028000 (시작 2020-01-01)
 International Flavors & Fragrances,IFF,2020Q4,2020-12-31,분기말 자산총계,13555671000,USD,공시,https://www.sec.gov/Archives/edgar/data/51253/000005125321000011/,
-International Flavors & Fragrances,IFF,2020Q4,2020-12-31,분기말 부채총계,7135084000,USD,계산(부채및자본-총자본),https://www.sec.gov/Archives/edgar/data/51253/000005125321000011/,부채및자본 13555671000 − 총자본 6323035000 − 메자닌 97552000 ; 메자닌(일시자본) 97552000 별도
+International Flavors & Fragrances,IFF,2020Q4,2020-12-31,분기말 부채총계,7136119000,USD,계산(부채및자본-총자본)(재작성 반영),https://www.sec.gov/Archives/edgar/data/51253/000005125321000011/,부채및자본 13555671000 − 총자본 6322000000 − 메자닌 97552000 ; 메자닌(일시자본) 97552000 별도 ; 원 공시 7135084000 (https://www.sec.gov/Archives/edgar/data/51253/000005125321000011/)
 International Flavors & Fragrances,IFF,2020Q4,2020-12-31,분기말 총자본(자기자본),6323035000,USD,공시,https://www.sec.gov/Archives/edgar/data/51253/000005125321000011/,
 International Flavors & Fragrances,IFF,2020Q4,2020-12-31,분기말 지배지분 자본,6311153000,USD,공시,https://www.sec.gov/Archives/edgar/data/51253/000005125321000011/,
 International Flavors & Fragrances,IFF,2020Q4,2020-12-31,분기말 종가,108.84,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/IFF?interval=1d&events=splits (2020-12-31),
@@ -4128,8 +4128,8 @@ International Flavors & Fragrances,IFF,2022Q4,2022-12-31,분기별 매출액,284
 International Flavors & Fragrances,IFF,2022Q4,2022-12-31,분기별 영업이익,105000000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/51253/000005125323000009/ ; https://www.sec.gov/Archives/edgar/data/51253/000005125322000030/,연간 -1326000000 − 9개월누적 -1431000000 (OperatingIncomeLoss)
 International Flavors & Fragrances,IFF,2022Q4,2022-12-31,분기별 당기순이익(지배),-25000000,USD,계산(연간(연결-비지배)-3분기누적),https://www.sec.gov/Archives/edgar/data/51253/000005125323000009/ ; https://www.sec.gov/Archives/edgar/data/51253/000005125322000030/,연간 연결 -1864000000 − 비지배 7000000 − (9개월누적 -1846000000)
 International Flavors & Fragrances,IFF,2022Q4,2022-12-31,분기별 영업활동현금흐름,208000000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/51253/000005125323000009/ ; https://www.sec.gov/Archives/edgar/data/51253/000005125322000030/,누적 397000000 − 직전누적 189000000 (시작 2022-01-01)
-International Flavors & Fragrances,IFF,2022Q4,2022-12-31,분기말 자산총계,35407000000,USD,공시,https://www.sec.gov/Archives/edgar/data/51253/000005125323000009/,
-International Flavors & Fragrances,IFF,2022Q4,2022-12-31,분기말 부채총계,17634000000,USD,계산(부채및자본-총자본),https://www.sec.gov/Archives/edgar/data/51253/000005125323000009/,부채및자본 35407000000 − 총자본 17714000000 − 메자닌 59000000 ; 메자닌(일시자본) 59000000 별도
+International Flavors & Fragrances,IFF,2022Q4,2022-12-31,분기말 자산총계,35522000000,USD,공시(재작성 반영),https://www.sec.gov/Archives/edgar/data/51253/000005125324000006/,원 공시 35407000000 (https://www.sec.gov/Archives/edgar/data/51253/000005125323000009/)
+International Flavors & Fragrances,IFF,2022Q4,2022-12-31,분기말 부채총계,17816000000,USD,계산(부채및자본-총자본)(재작성 반영),https://www.sec.gov/Archives/edgar/data/51253/000005125324000006/,부채및자본 35522000000 − 총자본 17647000000 − 메자닌 59000000 ; 메자닌(일시자본) 59000000 별도 ; 원 공시 17634000000 (https://www.sec.gov/Archives/edgar/data/51253/000005125323000009/)
 International Flavors & Fragrances,IFF,2022Q4,2022-12-31,분기말 총자본(자기자본),17714000000,USD,공시,https://www.sec.gov/Archives/edgar/data/51253/000005125323000009/,
 International Flavors & Fragrances,IFF,2022Q4,2022-12-31,분기말 지배지분 자본,17684000000,USD,공시,https://www.sec.gov/Archives/edgar/data/51253/000005125323000009/,
 International Flavors & Fragrances,IFF,2022Q4,2022-12-30,분기말 종가,104.84,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/IFF?interval=1d&events=splits (2022-12-30),
@@ -4140,7 +4140,7 @@ International Flavors & Fragrances,IFF,2023Q1,2023-03-31,분기별 영업이익,
 International Flavors & Fragrances,IFF,2023Q1,2023-03-31,분기별 당기순이익(지배),-9000000,USD,공시,https://www.sec.gov/Archives/edgar/data/51253/000005125323000019/,
 International Flavors & Fragrances,IFF,2023Q1,2023-03-31,분기별 영업활동현금흐름,127000000,USD,공시,https://www.sec.gov/Archives/edgar/data/51253/000005125323000019/,
 International Flavors & Fragrances,IFF,2023Q1,2023-03-31,분기말 자산총계,35470000000,USD,공시,https://www.sec.gov/Archives/edgar/data/51253/000005125323000019/,
-International Flavors & Fragrances,IFF,2023Q1,2023-03-31,분기말 부채총계,17621000000,USD,계산(부채및자본-총자본),https://www.sec.gov/Archives/edgar/data/51253/000005125323000019/,부채및자본 35470000000 − 총자본 17790000000 − 메자닌 59000000 ; 메자닌(일시자본) 59000000 별도
+International Flavors & Fragrances,IFF,2023Q1,2023-03-31,분기말 부채총계,17650000000,USD,계산(부채및자본-총자본)(재작성 반영),https://www.sec.gov/Archives/edgar/data/51253/000005125323000019/,부채및자본 35470000000 − 총자본 17761000000 − 메자닌 59000000 ; 메자닌(일시자본) 59000000 별도 ; 원 공시 17621000000 (https://www.sec.gov/Archives/edgar/data/51253/000005125323000019/)
 International Flavors & Fragrances,IFF,2023Q1,2023-03-31,분기말 총자본(자기자본),17790000000,USD,공시,https://www.sec.gov/Archives/edgar/data/51253/000005125323000019/,
 International Flavors & Fragrances,IFF,2023Q1,2023-03-31,분기말 지배지분 자본,17758000000,USD,공시,https://www.sec.gov/Archives/edgar/data/51253/000005125323000019/,
 International Flavors & Fragrances,IFF,2023Q1,2023-03-31,분기말 종가,91.96,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/IFF?interval=1d&events=splits (2023-03-31),
@@ -4173,7 +4173,7 @@ International Flavors & Fragrances,IFF,2023Q4,2023-12-31,분기별 영업이익,
 International Flavors & Fragrances,IFF,2023Q4,2023-12-31,분기별 당기순이익(지배),-2610000000,USD,계산(연간(연결-비지배)-3분기누적),https://www.sec.gov/Archives/edgar/data/51253/000005125324000006/ ; https://www.sec.gov/Archives/edgar/data/51253/000005125323000036/,연간 연결 -2563000000 − 비지배 4000000 − (9개월누적 43000000)
 International Flavors & Fragrances,IFF,2023Q4,2023-12-31,분기별 영업활동현금흐름,644000000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/51253/000005125324000006/ ; https://www.sec.gov/Archives/edgar/data/51253/000005125323000036/,누적 1439000000 − 직전누적 795000000 (시작 2023-01-01)
 International Flavors & Fragrances,IFF,2023Q4,2023-12-31,분기말 자산총계,30978000000,USD,공시,https://www.sec.gov/Archives/edgar/data/51253/000005125324000006/,
-International Flavors & Fragrances,IFF,2023Q4,2023-12-31,분기말 부채총계,16336000000,USD,계산(부채및자본-총자본),https://www.sec.gov/Archives/edgar/data/51253/000005125324000006/,부채및자본 30978000000 − 총자본 14642000000
+International Flavors & Fragrances,IFF,2023Q4,2023-12-31,분기말 부채총계,16398000000,USD,계산(부채및자본-총자본)(재작성 반영),https://www.sec.gov/Archives/edgar/data/51253/000005125324000006/,부채및자본 30978000000 − 총자본 14580000000 ; 원 공시 16336000000 (https://www.sec.gov/Archives/edgar/data/51253/000005125324000006/)
 International Flavors & Fragrances,IFF,2023Q4,2023-12-31,분기말 총자본(자기자본),14642000000,USD,공시,https://www.sec.gov/Archives/edgar/data/51253/000005125324000006/,
 International Flavors & Fragrances,IFF,2023Q4,2023-12-31,분기말 지배지분 자본,14611000000,USD,공시,https://www.sec.gov/Archives/edgar/data/51253/000005125324000006/,
 International Flavors & Fragrances,IFF,2023Q4,2023-12-29,분기말 종가,80.97,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/IFF?interval=1d&events=splits (2023-12-29),
@@ -4195,7 +4195,7 @@ International Flavors & Fragrances,IFF,2024Q2,2024-06-30,분기별 영업이익,
 International Flavors & Fragrances,IFF,2024Q2,2024-06-30,분기별 당기순이익(지배),170000000,USD,공시,https://www.sec.gov/Archives/edgar/data/51253/000005125324000032/,
 International Flavors & Fragrances,IFF,2024Q2,2024-06-30,분기별 영업활동현금흐름,237000000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/51253/000005125324000032/ ; https://www.sec.gov/Archives/edgar/data/51253/000005125324000016/,누적 336000000 − 직전누적 99000000 (시작 2024-01-01)
 International Flavors & Fragrances,IFF,2024Q2,2024-06-30,분기말 자산총계,29543000000,USD,공시,https://www.sec.gov/Archives/edgar/data/51253/000005125324000032/,
-International Flavors & Fragrances,IFF,2024Q2,2024-06-30,분기말 부채총계,15252000000,USD,계산(부채및자본-총자본),https://www.sec.gov/Archives/edgar/data/51253/000005125324000032/,부채및자본 29543000000 − 총자본 14291000000
+International Flavors & Fragrances,IFF,2024Q2,2024-06-30,분기말 부채총계,15279000000,USD,계산(부채및자본-총자본)(재작성 반영),https://www.sec.gov/Archives/edgar/data/51253/000005125324000032/,부채및자본 29543000000 − 총자본 14264000000 ; 원 공시 15252000000 (https://www.sec.gov/Archives/edgar/data/51253/000005125324000032/)
 International Flavors & Fragrances,IFF,2024Q2,2024-06-30,분기말 총자본(자기자본),14291000000,USD,공시,https://www.sec.gov/Archives/edgar/data/51253/000005125324000032/,
 International Flavors & Fragrances,IFF,2024Q2,2024-06-30,분기말 지배지분 자본,14254000000,USD,공시,https://www.sec.gov/Archives/edgar/data/51253/000005125324000032/,
 International Flavors & Fragrances,IFF,2024Q2,2024-06-28,분기말 종가,95.21,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/IFF?interval=1d&events=splits (2024-06-28),
@@ -4206,7 +4206,7 @@ International Flavors & Fragrances,IFF,2024Q3,2024-09-30,분기별 영업이익,
 International Flavors & Fragrances,IFF,2024Q3,2024-09-30,분기별 당기순이익(지배),59000000,USD,공시,https://www.sec.gov/Archives/edgar/data/51253/000005125324000042/,
 International Flavors & Fragrances,IFF,2024Q3,2024-09-30,분기별 영업활동현금흐름,366000000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/51253/000005125324000042/ ; https://www.sec.gov/Archives/edgar/data/51253/000005125324000032/,누적 702000000 − 직전누적 336000000 (시작 2024-01-01)
 International Flavors & Fragrances,IFF,2024Q3,2024-09-30,분기말 자산총계,29928000000,USD,공시,https://www.sec.gov/Archives/edgar/data/51253/000005125324000042/,
-International Flavors & Fragrances,IFF,2024Q3,2024-09-30,분기말 부채총계,15118000000,USD,계산(부채및자본-총자본),https://www.sec.gov/Archives/edgar/data/51253/000005125324000042/,부채및자본 29928000000 − 총자본 14810000000
+International Flavors & Fragrances,IFF,2024Q3,2024-09-30,분기말 부채총계,15146000000,USD,계산(부채및자본-총자본)(재작성 반영),https://www.sec.gov/Archives/edgar/data/51253/000005125324000042/,부채및자본 29928000000 − 총자본 14782000000 ; 원 공시 15118000000 (https://www.sec.gov/Archives/edgar/data/51253/000005125324000042/)
 International Flavors & Fragrances,IFF,2024Q3,2024-09-30,분기말 총자본(자기자본),14810000000,USD,공시,https://www.sec.gov/Archives/edgar/data/51253/000005125324000042/,
 International Flavors & Fragrances,IFF,2024Q3,2024-09-30,분기말 지배지분 자본,14775000000,USD,공시,https://www.sec.gov/Archives/edgar/data/51253/000005125324000042/,
 International Flavors & Fragrances,IFF,2024Q3,2024-09-30,분기말 종가,104.93,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/IFF?interval=1d&events=splits (2024-09-30),
@@ -4216,10 +4216,10 @@ International Flavors & Fragrances,IFF,2024Q4,2024-12-31,분기별 매출액,277
 International Flavors & Fragrances,IFF,2024Q4,2024-12-31,분기별 영업이익,127000000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/51253/000005125325000013/ ; https://www.sec.gov/Archives/edgar/data/51253/000005125324000042/,연간 766000000 − 9개월누적 639000000 (OperatingIncomeLoss)
 International Flavors & Fragrances,IFF,2024Q4,2024-12-31,분기별 당기순이익(지배),-46000000,USD,계산(연간(연결-비지배)-3분기누적),https://www.sec.gov/Archives/edgar/data/51253/000005125325000013/ ; https://www.sec.gov/Archives/edgar/data/51253/000005125324000042/,연간 연결 247000000 − 비지배 4000000 − (9개월누적 289000000)
 International Flavors & Fragrances,IFF,2024Q4,2024-12-31,분기별 영업활동현금흐름,368000000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/51253/000005125325000013/ ; https://www.sec.gov/Archives/edgar/data/51253/000005125324000042/,누적 1070000000 − 직전누적 702000000 (시작 2024-01-01)
-International Flavors & Fragrances,IFF,2024Q4,2024-12-31,분기말 자산총계,28667000000,USD,공시,https://www.sec.gov/Archives/edgar/data/51253/000005125325000013/,
-International Flavors & Fragrances,IFF,2024Q4,2024-12-31,분기말 부채총계,14756000000,USD,계산(부채및자본-총자본),https://www.sec.gov/Archives/edgar/data/51253/000005125325000013/,부채및자본 28667000000 − 총자본 13911000000
-International Flavors & Fragrances,IFF,2024Q4,2024-12-31,분기말 총자본(자기자본),13911000000,USD,공시,https://www.sec.gov/Archives/edgar/data/51253/000005125325000013/,
-International Flavors & Fragrances,IFF,2024Q4,2024-12-31,분기말 지배지분 자본,13876000000,USD,공시,https://www.sec.gov/Archives/edgar/data/51253/000005125325000013/,
+International Flavors & Fragrances,IFF,2024Q4,2024-12-31,분기말 자산총계,28723000000,USD,공시(재작성 반영),https://www.sec.gov/Archives/edgar/data/51253/000005125326000006/,원 공시 28667000000 (https://www.sec.gov/Archives/edgar/data/51253/000005125325000013/)
+International Flavors & Fragrances,IFF,2024Q4,2024-12-31,분기말 부채총계,14854000000,USD,계산(부채및자본-총자본)(재작성 반영),https://www.sec.gov/Archives/edgar/data/51253/000005125326000006/,부채및자본 28723000000 − 총자본 13869000000 ; 원 공시 14756000000 (https://www.sec.gov/Archives/edgar/data/51253/000005125325000013/)
+International Flavors & Fragrances,IFF,2024Q4,2024-12-31,분기말 총자본(자기자본),13869000000,USD,공시(재작성 반영),https://www.sec.gov/Archives/edgar/data/51253/000005125326000030/,원 공시 13911000000 (https://www.sec.gov/Archives/edgar/data/51253/000005125325000013/)
+International Flavors & Fragrances,IFF,2024Q4,2024-12-31,분기말 지배지분 자본,13834000000,USD,공시(재작성 반영),https://www.sec.gov/Archives/edgar/data/51253/000005125326000006/,원 공시 13876000000 (https://www.sec.gov/Archives/edgar/data/51253/000005125325000013/)
 International Flavors & Fragrances,IFF,2024Q4,2024-12-31,분기말 종가,84.55,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/IFF?interval=1d&events=splits (2024-12-31),
 International Flavors & Fragrances,IFF,2024Q4,2025-02-24,분기말 상장주식수,255714083,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/51253/000005125325000013/,dei:EntityCommonStockSharesOutstanding 클래스 합
 International Flavors & Fragrances,IFF,2024Q4,2024-12-31,분기말 시가총액,21620625718,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/IFF?interval=1d&events=splits (2024-12-31) ; https://www.sec.gov/Archives/edgar/data/51253/000005125325000013/,종가 84.55 × 주식수 255714083
@@ -4228,7 +4228,7 @@ International Flavors & Fragrances,IFF,2025Q1,2025-03-31,분기별 영업이익,
 International Flavors & Fragrances,IFF,2025Q1,2025-03-31,분기별 당기순이익(지배),-1018000000,USD,공시,https://www.sec.gov/Archives/edgar/data/51253/000005125325000027/,
 International Flavors & Fragrances,IFF,2025Q1,2025-03-31,분기별 영업활동현금흐름,127000000,USD,공시,https://www.sec.gov/Archives/edgar/data/51253/000005125325000027/,
 International Flavors & Fragrances,IFF,2025Q1,2025-03-31,분기말 자산총계,28265000000,USD,공시,https://www.sec.gov/Archives/edgar/data/51253/000005125325000027/,
-International Flavors & Fragrances,IFF,2025Q1,2025-03-31,분기말 부채총계,15052000000,USD,계산(부채및자본-총자본),https://www.sec.gov/Archives/edgar/data/51253/000005125325000027/,부채및자본 28265000000 − 총자본 13213000000
+International Flavors & Fragrances,IFF,2025Q1,2025-03-31,분기말 부채총계,15094000000,USD,계산(부채및자본-총자본)(재작성 반영),https://www.sec.gov/Archives/edgar/data/51253/000005125325000027/,부채및자본 28265000000 − 총자본 13171000000 ; 원 공시 15052000000 (https://www.sec.gov/Archives/edgar/data/51253/000005125325000027/)
 International Flavors & Fragrances,IFF,2025Q1,2025-03-31,분기말 총자본(자기자본),13213000000,USD,공시,https://www.sec.gov/Archives/edgar/data/51253/000005125325000027/,
 International Flavors & Fragrances,IFF,2025Q1,2025-03-31,분기말 지배지분 자본,13177000000,USD,공시,https://www.sec.gov/Archives/edgar/data/51253/000005125325000027/,
 International Flavors & Fragrances,IFF,2025Q1,2025-03-31,분기말 종가,77.61,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/IFF?interval=1d&events=splits (2025-03-31),
@@ -4239,7 +4239,7 @@ International Flavors & Fragrances,IFF,2025Q2,2025-06-30,분기별 영업이익,
 International Flavors & Fragrances,IFF,2025Q2,2025-06-30,분기별 당기순이익(지배),612000000,USD,공시,https://www.sec.gov/Archives/edgar/data/51253/000005125325000042/,
 International Flavors & Fragrances,IFF,2025Q2,2025-06-30,분기별 영업활동현금흐름,241000000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/51253/000005125325000042/ ; https://www.sec.gov/Archives/edgar/data/51253/000005125325000027/,누적 368000000 − 직전누적 127000000 (시작 2025-01-01)
 International Flavors & Fragrances,IFF,2025Q2,2025-06-30,분기말 자산총계,26121000000,USD,공시,https://www.sec.gov/Archives/edgar/data/51253/000005125325000042/,
-International Flavors & Fragrances,IFF,2025Q2,2025-06-30,분기말 부채총계,11685000000,USD,계산(부채및자본-총자본),https://www.sec.gov/Archives/edgar/data/51253/000005125325000042/,부채및자본 26121000000 − 총자본 14436000000
+International Flavors & Fragrances,IFF,2025Q2,2025-06-30,분기말 부채총계,11740000000,USD,계산(부채및자본-총자본)(재작성 반영),https://www.sec.gov/Archives/edgar/data/51253/000005125325000042/,부채및자본 26121000000 − 총자본 14381000000 ; 원 공시 11685000000 (https://www.sec.gov/Archives/edgar/data/51253/000005125325000042/)
 International Flavors & Fragrances,IFF,2025Q2,2025-06-30,분기말 총자본(자기자본),14436000000,USD,공시,https://www.sec.gov/Archives/edgar/data/51253/000005125325000042/,
 International Flavors & Fragrances,IFF,2025Q2,2025-06-30,분기말 지배지분 자본,14404000000,USD,공시,https://www.sec.gov/Archives/edgar/data/51253/000005125325000042/,
 International Flavors & Fragrances,IFF,2025Q2,2025-06-30,분기말 종가,73.55,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/IFF?interval=1d&events=splits (2025-06-30),
@@ -4685,7 +4685,7 @@ Dollar Tree,DLTR,2020Q2,2020-08-01,분기말 지배지분 자본,6813600000,USD,
 Dollar Tree,DLTR,2020Q2,2020-07-31,분기말 종가,93.35,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/DLTR?interval=1d&events=splits (2020-07-31),
 Dollar Tree,DLTR,2020Q2,2020-08-25,분기말 상장주식수,237307698,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/935703/000093570320000055/,dei:EntityCommonStockSharesOutstanding 클래스 합
 Dollar Tree,DLTR,2020Q2,2020-07-31,분기말 시가총액,22152673608,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/DLTR?interval=1d&events=splits (2020-07-31) ; https://www.sec.gov/Archives/edgar/data/935703/000093570320000055/,종가 93.35 × 주식수 237307698
-Dollar Tree,DLTR,2020Q3,2020-10-31,분기별 매출액,6177000000,USD,공시,https://www.sec.gov/Archives/edgar/data/935703/000093570320000066/,
+Dollar Tree,DLTR,2020Q3,2020-10-31,분기별 매출액,6176700000,USD,공시(재작성 반영),https://www.sec.gov/Archives/edgar/data/935703/000093570321000058/,원 공시 6177000000 (https://www.sec.gov/Archives/edgar/data/935703/000093570320000066/)
 Dollar Tree,DLTR,2020Q3,2020-10-31,분기별 영업이익,465500000,USD,공시,https://www.sec.gov/Archives/edgar/data/935703/000093570320000066/,
 Dollar Tree,DLTR,2020Q3,2020-10-31,분기별 당기순이익(지배),330000000,USD,공시,https://www.sec.gov/Archives/edgar/data/935703/000093570320000066/,
 Dollar Tree,DLTR,2020Q3,2020-10-31,분기별 영업활동현금흐름,296700000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/935703/000093570320000066/ ; https://www.sec.gov/Archives/edgar/data/935703/000093570320000055/,누적 1733700000 − 직전누적 1437000000 (시작 2020-02-02)
@@ -4696,7 +4696,7 @@ Dollar Tree,DLTR,2020Q3,2020-10-31,분기말 지배지분 자본,6961100000,USD,
 Dollar Tree,DLTR,2020Q3,2020-10-30,분기말 종가,90.32,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/DLTR?interval=1d&events=splits (2020-10-30),
 Dollar Tree,DLTR,2020Q3,2020-11-20,분기말 상장주식수,235192152,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/935703/000093570320000066/,dei:EntityCommonStockSharesOutstanding 클래스 합
 Dollar Tree,DLTR,2020Q3,2020-10-30,분기말 시가총액,21242555169,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/DLTR?interval=1d&events=splits (2020-10-30) ; https://www.sec.gov/Archives/edgar/data/935703/000093570320000066/,종가 90.32 × 주식수 235192152
-Dollar Tree,DLTR,2020Q4,2021-01-30,분기별 매출액,6767900000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/935703/000093570321000014/ ; https://www.sec.gov/Archives/edgar/data/935703/000093570320000066/,연간 25509300000 − 9개월누적 18741400000 (RevenueFromContractWithCustomerExcludingAssessedTax)
+Dollar Tree,DLTR,2020Q4,2021-01-30,분기별 매출액,6767300000,USD,계산(연간-3분기누적)(재작성 반영),https://www.sec.gov/Archives/edgar/data/935703/000093570323000016/ ; https://www.sec.gov/Archives/edgar/data/935703/000093570321000058/,연간 25508400000 − 9개월누적 18741100000 (RevenueFromContractWithCustomerExcludingAssessedTax) ; 원 공시 6767900000 (https://www.sec.gov/Archives/edgar/data/935703/000093570321000014/ ; https://www.sec.gov/Archives/edgar/data/935703/000093570320000066/)
 Dollar Tree,DLTR,2020Q4,2021-01-30,분기별 영업이익,681600000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/935703/000093570321000014/ ; https://www.sec.gov/Archives/edgar/data/935703/000093570320000066/,연간 1887900000 − 9개월누적 1206300000 (OperatingIncomeLoss)
 Dollar Tree,DLTR,2020Q4,2021-01-30,분기별 당기순이익(지배),502800000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/935703/000093570321000014/ ; https://www.sec.gov/Archives/edgar/data/935703/000093570320000066/,연간 1341900000 − 9개월누적 839100000 (NetIncomeLoss)
 Dollar Tree,DLTR,2020Q4,2021-01-30,분기별 영업활동현금흐름,982600000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/935703/000093570321000014/ ; https://www.sec.gov/Archives/edgar/data/935703/000093570320000066/,누적 2716300000 − 직전누적 1733700000 (시작 2020-02-02)
@@ -5284,9 +5284,9 @@ Dow,DOW,2019Q1,2019-03-31,분기별 영업이익,미확인,USD,미확인,SEC com
 Dow,DOW,2019Q1,2019-03-31,분기별 당기순이익(지배),541000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1751788/000175178819000009/,
 Dow,DOW,2019Q1,2019-03-31,분기별 영업활동현금흐름,1426000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1751788/000175178819000009/,
 Dow,DOW,2019Q1,2019-03-31,분기말 자산총계,79737000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1751788/000175178819000009/,
-Dow,DOW,2019Q1,2019-03-31,분기말 부채총계,51591000000,USD,계산(부채및자본-총자본),https://www.sec.gov/Archives/edgar/data/1751788/000175178819000009/,부채및자본 79737000000 − 총자본 28146000000
-Dow,DOW,2019Q1,2019-03-31,분기말 총자본(자기자본),28146000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1751788/000175178819000009/,
-Dow,DOW,2019Q1,2019-03-31,분기말 지배지분 자본,26966000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1751788/000175178819000009/,
+Dow,DOW,2019Q1,2019-03-31,분기말 부채총계,45889000000,USD,계산(부채및자본-총자본)(재작성 반영),https://www.sec.gov/Archives/edgar/data/1751788/000175178819000009/,부채및자본 79737000000 − 총자본 33848000000 ; 원 공시 51591000000 (https://www.sec.gov/Archives/edgar/data/1751788/000175178819000009/)
+Dow,DOW,2019Q1,2019-03-31,분기말 총자본(자기자본),33848000000,USD,공시(재작성 반영),https://www.sec.gov/Archives/edgar/data/1751788/000175178820000014/,원 공시 28146000000 (https://www.sec.gov/Archives/edgar/data/1751788/000175178819000009/)
+Dow,DOW,2019Q1,2019-03-31,분기말 지배지분 자본,32668000000,USD,공시(재작성 반영),https://www.sec.gov/Archives/edgar/data/1751788/000175178820000014/,원 공시 26966000000 (https://www.sec.gov/Archives/edgar/data/1751788/000175178819000009/)
 Dow,DOW,2019Q1,2019-03-29,분기말 종가,51.63,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/DOW?interval=1d&events=splits (2019-03-29),
 Dow,DOW,2019Q1,2019-04-30,분기말 상장주식수,748824164,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/1751788/000175178819000009/,dei:EntityCommonStockSharesOutstanding 클래스 합
 Dow,DOW,2019Q1,2019-03-29,분기말 시가총액,38661791587,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/DOW?interval=1d&events=splits (2019-03-29) ; https://www.sec.gov/Archives/edgar/data/1751788/000175178819000009/,종가 51.63 × 주식수 748824164

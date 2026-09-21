@@ -69,8 +69,9 @@ REV_ORDER = ["매출액", "매출액(영업수익)", "영업수익(매출액)", 
              "매출및지분법손익"]
 OP = re.compile(r"^영업(이익|손익|손실)")
 NI_TOTAL = re.compile(r"^(당기|분기|반기|중간|당분기)?순(이익|손익|손실)(\(손실\))?$")
-TOTALS = {"assets": re.compile(r"^자산(총계|계|합계)$"), "liab": re.compile(r"^부채(총계|계|합계)$"),
-          "equity": re.compile(r"^자본(총계|계|합계)$")}
+# "총자산"·"자산총액" 표기도 있다 (포스코인터내셔널 2024·2025 사업보고서, LS 2026)
+TOTALS = {"assets": re.compile(r"^(자산(총계|계|합계|총액)|총자산)$"), "liab": re.compile(r"^(부채(총계|계|합계|총액)|총부채)$"),
+          "equity": re.compile(r"^(자본(총계|계|합계|총액)|총자본)$")}
 FIN_ITEMS = [("분기말 자산총계", "assets"), ("분기말 부채총계", "liab"), ("분기말 총자본(자기자본)", "equity")]
 FLOW_ITEMS = [("분기별 매출액", "rev"), ("분기별 영업이익", "op"), ("분기별 당기순이익(지배)", "ni")]
 
@@ -100,6 +101,12 @@ def statements(doc):
                         cur = key
             continue
         trs = re.findall(r"<TR.*?</TR>", t, re.S | re.I)
+        if not cur and not out and len(trs) >= 6:
+            # 재무상태표 제목이 "연결재무제표"로만 적힌 보고서 (삼성E&A 2023.09): 첫 데이터 표에
+            # 자산·부채 총계 행이 있으면 재무상태표로 본다. 재무상태표는 항상 첫 표다.
+            labels = {norm(c[0]) for c in (cells(r) for r in trs) if c}
+            if any(TOTALS["assets"].match(x) for x in labels) and any(TOTALS["liab"].match(x) for x in labels):
+                cur = "BS"
         if cur and cur not in out and len(trs) >= 6:
             rows = [cells(r) for r in trs]
             # &nbsp;도 지운다: SK스퀘어 2022는 머리행이 "누&nbsp;적"이라 누적 열을 못 알아봤다

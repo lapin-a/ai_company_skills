@@ -366,8 +366,8 @@ Occidental Petroleum,OXY,2019Q4,2019-12-31,분기별 매출액,7996000000,USD,�
 Occidental Petroleum,OXY,2019Q4,2019-12-31,분기별 영업이익,미확인,USD,미확인,SEC companyfacts CIK0000797468: 해당 보고서에 OperatingIncomeLoss 태그 없음(영업이익 미공시) ; SEC companyfacts CIK0000797468: OperatingIncomeLoss 태그 없음(영업이익 미공시),
 Occidental Petroleum,OXY,2019Q4,2019-12-31,분기별 당기순이익(지배),-1339000000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/797468/000079746820000004/ ; https://www.sec.gov/Archives/edgar/data/797468/000079746819000016/,연간 -985000000 − 9개월누적 354000000 (NetIncomeLoss)
 Occidental Petroleum,OXY,2019Q4,2019-12-31,분기별 영업활동현금흐름,2009000000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/797468/000079746820000004/ ; https://www.sec.gov/Archives/edgar/data/797468/000079746819000016/,누적 7375000000 − 직전누적 5366000000 (시작 2019-01-01)
-Occidental Petroleum,OXY,2019Q4,2019-12-31,분기말 자산총계,109330000000,USD,공시,https://www.sec.gov/Archives/edgar/data/797468/000079746820000004/,
-Occidental Petroleum,OXY,2019Q4,2019-12-31,분기말 부채총계,75098000000,USD,계산(부채및자본-총자본),https://www.sec.gov/Archives/edgar/data/797468/000079746820000004/,부채및자본 109330000000 − 총자본 34232000000
+Occidental Petroleum,OXY,2019Q4,2019-12-31,분기말 자산총계,107190000000,USD,공시(재작성 반영),https://www.sec.gov/Archives/edgar/data/797468/000079746822000008/,원 공시 109330000000 (https://www.sec.gov/Archives/edgar/data/797468/000079746820000004/)
+Occidental Petroleum,OXY,2019Q4,2019-12-31,분기말 부채총계,72958000000,USD,계산(부채및자본-총자본)(재작성 반영),https://www.sec.gov/Archives/edgar/data/797468/000079746821000009/,부채및자본 107190000000 − 총자본 34232000000 ; 원 공시 75098000000 (https://www.sec.gov/Archives/edgar/data/797468/000079746820000004/)
 Occidental Petroleum,OXY,2019Q4,2019-12-31,분기말 총자본(자기자본),34232000000,USD,공시,https://www.sec.gov/Archives/edgar/data/797468/000079746820000004/,
 Occidental Petroleum,OXY,2019Q4,2019-12-31,분기말 지배지분 자본,34232000000,USD,공시,https://www.sec.gov/Archives/edgar/data/797468/000079746820000004/,
 Occidental Petroleum,OXY,2019Q4,2019-12-31,분기말 종가,41.21,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/OXY?interval=1d&events=splits (2019-12-31),
@@ -956,8 +956,8 @@ Comfort Systems USA,FIX,2025Q3,2025-09-30,분기말 지배지분 자본,22333860
 Comfort Systems USA,FIX,2025Q3,2025-09-30,분기말 종가,825.18,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/FIX?interval=1d&events=splits (2025-09-30),
 Comfort Systems USA,FIX,2025Q3,2025-10-17,분기말 상장주식수,35271950,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/1035983/000110465925101821/,dei:EntityCommonStockSharesOutstanding 클래스 합
 Comfort Systems USA,FIX,2025Q3,2025-09-30,분기말 시가총액,29105707701,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/FIX?interval=1d&events=splits (2025-09-30) ; https://www.sec.gov/Archives/edgar/data/1035983/000110465925101821/,종가 825.18 × 주식수 35271950
-Comfort Systems USA,FIX,2025Q4,2025-12-31,분기별 매출액,2646067000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/1035983/000110465926017530/ ; https://www.sec.gov/Archives/edgar/data/1035983/000110465925101821/,연간 9101641000 − 9개월누적 6455574000 (Revenues)
-Comfort Systems USA,FIX,2025Q4,2025-12-31,분기별 영업이익,426744000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/1035983/000110465926017530/ ; https://www.sec.gov/Archives/edgar/data/1035983/000110465925101821/,연간 1314589000 − 9개월누적 887845000 (OperatingIncomeLoss)
+Comfort Systems USA,FIX,2025Q4,2025-12-31,분기별 매출액,-4624288000,USD,계산(연간-3분기누적)(재작성 반영),https://www.sec.gov/Archives/edgar/data/1035983/000110465926047689/ ; https://www.sec.gov/Archives/edgar/data/1035983/000110465925101821/,연간 1831286000 − 9개월누적 6455574000 (Revenues) ; 원 공시 2646067000 (https://www.sec.gov/Archives/edgar/data/1035983/000110465926017530/ ; https://www.sec.gov/Archives/edgar/data/1035983/000110465925101821/)
+Comfort Systems USA,FIX,2025Q4,2025-12-31,분기별 영업이익,-678747000,USD,계산(연간-3분기누적)(재작성 반영),https://www.sec.gov/Archives/edgar/data/1035983/000110465926047689/ ; https://www.sec.gov/Archives/edgar/data/1035983/000110465925101821/,연간 209098000 − 9개월누적 887845000 (OperatingIncomeLoss) ; 원 공시 426744000 (https://www.sec.gov/Archives/edgar/data/1035983/000110465926017530/ ; https://www.sec.gov/Archives/edgar/data/1035983/000110465925101821/)
 Comfort Systems USA,FIX,2025Q4,2025-12-31,분기별 당기순이익(지배),330806000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/1035983/000110465926017530/ ; https://www.sec.gov/Archives/edgar/data/1035983/000110465925101821/,연간 1022558000 − 9개월누적 691752000 (NetIncomeLoss)
 Comfort Systems USA,FIX,2025Q4,2025-12-31,분기별 영업활동현금흐름,468540000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/1035983/000110465926017530/ ; https://www.sec.gov/Archives/edgar/data/1035983/000110465925101821/,누적 1186356000 − 직전누적 717816000 (시작 2025-01-01)
 Comfort Systems USA,FIX,2025Q4,2025-12-31,분기말 자산총계,6441169000,USD,공시,https://www.sec.gov/Archives/edgar/data/1035983/000110465926017530/,
@@ -2025,7 +2025,7 @@ Baker Hughes,BKR,2019Q4,2020-02-06,분기말 상장주식수,1030937798,주,공�
 Baker Hughes,BKR,2019Q4,2019-12-31,분기말 시가총액,26422935763,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/BKR?interval=1d&events=splits (2019-12-31) ; https://www.sec.gov/Archives/edgar/data/1701605/000170160520000019/,종가 25.63 × 주식수 1030937798
 Baker Hughes,BKR,2020Q1,2020-03-31,분기별 매출액,5425000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1701605/000170160520000039/,
 Baker Hughes,BKR,2020Q1,2020-03-31,분기별 영업이익,-16059000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1701605/000170160520000039/,
-Baker Hughes,BKR,2020Q1,2020-03-31,분기별 당기순이익(지배),-10210000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1701605/000170160520000039/,
+Baker Hughes,BKR,2020Q1,2020-03-31,분기별 당기순이익(지배),-10227000000,USD,공시(재작성 반영),https://www.sec.gov/Archives/edgar/data/1701605/000170160521000048/,원 공시 -10210000000 (https://www.sec.gov/Archives/edgar/data/1701605/000170160520000039/)
 Baker Hughes,BKR,2020Q1,2020-03-31,분기별 영업활동현금흐름,478000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1701605/000170160520000039/,
 Baker Hughes,BKR,2020Q1,2020-03-31,분기말 자산총계,37229000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1701605/000170160520000039/,
 Baker Hughes,BKR,2020Q1,2020-03-31,분기말 부채총계,19244000000,USD,계산(부채및자본-총자본),https://www.sec.gov/Archives/edgar/data/1701605/000170160520000039/,부채및자본 37229000000 − 총자본 17985000000
@@ -2036,7 +2036,7 @@ Baker Hughes,BKR,2020Q1,2020-04-17,분기말 상장주식수,1032462645,주,공�
 Baker Hughes,BKR,2020Q1,2020-03-31,분기말 시가총액,10840857772,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/BKR?interval=1d&events=splits (2020-03-31) ; https://www.sec.gov/Archives/edgar/data/1701605/000170160520000039/,종가 10.5 × 주식수 1032462645
 Baker Hughes,BKR,2020Q2,2020-06-30,분기별 매출액,4736000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1701605/000170160520000068/,
 Baker Hughes,BKR,2020Q2,2020-06-30,분기별 영업이익,-52000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1701605/000170160520000068/,
-Baker Hughes,BKR,2020Q2,2020-06-30,분기별 당기순이익(지배),-201000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1701605/000170160520000068/,
+Baker Hughes,BKR,2020Q2,2020-06-30,분기별 당기순이익(지배),-195000000,USD,공시(재작성 반영),https://www.sec.gov/Archives/edgar/data/1701605/000170160521000087/,원 공시 -201000000 (https://www.sec.gov/Archives/edgar/data/1701605/000170160520000068/)
 Baker Hughes,BKR,2020Q2,2020-06-30,분기별 영업활동현금흐름,230000000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/1701605/000170160520000068/ ; https://www.sec.gov/Archives/edgar/data/1701605/000170160520000039/,누적 708000000 − 직전누적 478000000 (시작 2020-01-01)
 Baker Hughes,BKR,2020Q2,2020-06-30,분기말 자산총계,37523000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1701605/000170160520000068/,
 Baker Hughes,BKR,2020Q2,2020-06-30,분기말 부채총계,19958000000,USD,계산(부채및자본-총자본),https://www.sec.gov/Archives/edgar/data/1701605/000170160520000068/,부채및자본 37523000000 − 총자본 17565000000
@@ -3138,10 +3138,10 @@ Dominion Energy,D,2022Q4,2022-12-31,분기별 매출액,4913000000,USD,계산(�
 Dominion Energy,D,2022Q4,2022-12-31,분기별 영업이익,-134000000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/715957/000095017023003287/ ; https://www.sec.gov/Archives/edgar/data/715957/000156459022036712/,연간 1596000000 − 9개월누적 1730000000 (OperatingIncomeLoss)
 Dominion Energy,D,2022Q4,2022-12-31,분기별 당기순이익(지배),-42000000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/715957/000095017023003287/ ; https://www.sec.gov/Archives/edgar/data/715957/000156459022036712/,연간 994000000 − 9개월누적 1036000000 (NetIncomeLoss)
 Dominion Energy,D,2022Q4,2022-12-31,분기별 영업활동현금흐름,1029000000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/715957/000095017023003287/ ; https://www.sec.gov/Archives/edgar/data/715957/000156459022036712/,누적 3700000000 − 직전누적 2671000000 (시작 2022-01-01)
-Dominion Energy,D,2022Q4,2022-12-31,분기말 자산총계,104243000000,USD,공시,https://www.sec.gov/Archives/edgar/data/715957/000095017023003287/,
-Dominion Energy,D,2022Q4,2022-12-31,분기말 부채총계,76362000000,USD,공시,https://www.sec.gov/Archives/edgar/data/715957/000095017023003287/,
-Dominion Energy,D,2022Q4,2022-12-31,분기말 총자본(자기자본),27881000000,USD,공시,https://www.sec.gov/Archives/edgar/data/715957/000095017023003287/,
-Dominion Energy,D,2022Q4,2022-12-31,분기말 지배지분 자본,27881000000,USD,공시,https://www.sec.gov/Archives/edgar/data/715957/000095017023003287/,
+Dominion Energy,D,2022Q4,2022-12-31,분기말 자산총계,104795000000,USD,공시(재작성 반영),https://www.sec.gov/Archives/edgar/data/715957/000095017024019110/,원 공시 104243000000 (https://www.sec.gov/Archives/edgar/data/715957/000095017023003287/)
+Dominion Energy,D,2022Q4,2022-12-31,분기말 부채총계,77136000000,USD,공시(재작성 반영),https://www.sec.gov/Archives/edgar/data/715957/000095017024019110/,원 공시 76362000000 (https://www.sec.gov/Archives/edgar/data/715957/000095017023003287/)
+Dominion Energy,D,2022Q4,2022-12-31,분기말 총자본(자기자본),27659000000,USD,공시(지배지분 태그)(재작성 반영),https://www.sec.gov/Archives/edgar/data/715957/000095017024019110/,총자본 태그 값 27433000000이 대차와 맞지 않아 지배지분 값을 총자본으로 씀 ; 원 공시 27881000000 (https://www.sec.gov/Archives/edgar/data/715957/000095017023003287/)
+Dominion Energy,D,2022Q4,2022-12-31,분기말 지배지분 자본,27659000000,USD,공시(재작성 반영),https://www.sec.gov/Archives/edgar/data/715957/000095017024019110/,원 공시 27881000000 (https://www.sec.gov/Archives/edgar/data/715957/000095017023003287/)
 Dominion Energy,D,2022Q4,2022-12-30,분기말 종가,61.32,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/D?interval=1d&events=splits (2022-12-30),
 Dominion Energy,D,2022Q4,2023-02-15,분기말 상장주식수,835193617,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/715957/000095017023003287/,dei:EntityCommonStockSharesOutstanding 클래스 합
 Dominion Energy,D,2022Q4,2022-12-30,분기말 시가총액,51214072594,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/D?interval=1d&events=splits (2022-12-30) ; https://www.sec.gov/Archives/edgar/data/715957/000095017023003287/,종가 61.32 × 주식수 835193617
@@ -3182,10 +3182,10 @@ Dominion Energy,D,2023Q4,2023-12-31,분기별 매출액,3534000000,USD,계산(�
 Dominion Energy,D,2023Q4,2023-12-31,분기별 영업이익,698000000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/715957/000095017024019110/ ; https://www.sec.gov/Archives/edgar/data/715957/000095017023061178/,연간 3414000000 − 9개월누적 2716000000 (OperatingIncomeLoss)
 Dominion Energy,D,2023Q4,2023-12-31,분기별 당기순이익(지배),235000000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/715957/000095017024019110/ ; https://www.sec.gov/Archives/edgar/data/715957/000095017023061178/,연간 1994000000 − 9개월누적 1759000000 (NetIncomeLoss)
 Dominion Energy,D,2023Q4,2023-12-31,분기별 영업활동현금흐름,1386000000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/715957/000095017024019110/ ; https://www.sec.gov/Archives/edgar/data/715957/000095017023061178/,누적 6572000000 − 직전누적 5186000000 (시작 2023-01-01)
-Dominion Energy,D,2023Q4,2023-12-31,분기말 자산총계,109032000000,USD,공시,https://www.sec.gov/Archives/edgar/data/715957/000095017024019110/,
-Dominion Energy,D,2023Q4,2023-12-31,분기말 부채총계,81503000000,USD,공시,https://www.sec.gov/Archives/edgar/data/715957/000095017024019110/,
-Dominion Energy,D,2023Q4,2023-12-31,분기말 총자본(자기자본),27529000000,USD,공시,https://www.sec.gov/Archives/edgar/data/715957/000095017024019110/,
-Dominion Energy,D,2023Q4,2023-12-31,분기말 지배지분 자본,27529000000,USD,공시,https://www.sec.gov/Archives/edgar/data/715957/000095017024019110/,
+Dominion Energy,D,2023Q4,2023-12-31,분기말 자산총계,109080000000,USD,공시(재작성 반영),https://www.sec.gov/Archives/edgar/data/715957/000095017025028387/,원 공시 109032000000 (https://www.sec.gov/Archives/edgar/data/715957/000095017024019110/)
+Dominion Energy,D,2023Q4,2023-12-31,분기말 부채총계,81513000000,USD,공시(재작성 반영),https://www.sec.gov/Archives/edgar/data/715957/000095017025028387/,원 공시 81503000000 (https://www.sec.gov/Archives/edgar/data/715957/000095017024019110/)
+Dominion Energy,D,2023Q4,2023-12-31,분기말 총자본(자기자본),27567000000,USD,공시(지배지분 태그)(재작성 반영),https://www.sec.gov/Archives/edgar/data/715957/000095017025028387/,총자본 태그 값 27264000000이 대차와 맞지 않아 지배지분 값을 총자본으로 씀 ; 원 공시 27529000000 (https://www.sec.gov/Archives/edgar/data/715957/000095017024019110/)
+Dominion Energy,D,2023Q4,2023-12-31,분기말 지배지분 자본,27567000000,USD,공시(재작성 반영),https://www.sec.gov/Archives/edgar/data/715957/000095017025028387/,원 공시 27529000000 (https://www.sec.gov/Archives/edgar/data/715957/000095017024019110/)
 Dominion Energy,D,2023Q4,2023-12-29,분기말 종가,47.0,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/D?interval=1d&events=splits (2023-12-29),
 Dominion Energy,D,2023Q4,2024-02-19,분기말 상장주식수,837443257,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/715957/000095017024019110/,dei:EntityCommonStockSharesOutstanding 클래스 합
 Dominion Energy,D,2023Q4,2023-12-29,분기말 시가총액,39359833079,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/D?interval=1d&events=splits (2023-12-29) ; https://www.sec.gov/Archives/edgar/data/715957/000095017024019110/,종가 47.0 × 주식수 837443257
@@ -3227,9 +3227,9 @@ Dominion Energy,D,2024Q4,2024-12-31,분기별 영업이익,391000000,USD,계산(
 Dominion Energy,D,2024Q4,2024-12-31,분기별 당기순이익(지배),-76000000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/715957/000095017025028387/ ; https://www.sec.gov/Archives/edgar/data/715957/000095017024119871/,연간 2124000000 − 9개월누적 2200000000 (NetIncomeLoss)
 Dominion Energy,D,2024Q4,2024-12-31,분기별 영업활동현금흐름,641000000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/715957/000095017025028387/ ; https://www.sec.gov/Archives/edgar/data/715957/000095017024119871/,누적 5018000000 − 직전누적 4377000000 (시작 2024-01-01)
 Dominion Energy,D,2024Q4,2024-12-31,분기말 자산총계,102415000000,USD,공시,https://www.sec.gov/Archives/edgar/data/715957/000095017025028387/,
-Dominion Energy,D,2024Q4,2024-12-31,분기말 부채총계,72223000000,USD,공시,https://www.sec.gov/Archives/edgar/data/715957/000095017025028387/,
-Dominion Energy,D,2024Q4,2024-12-31,분기말 총자본(자기자본),30192000000,USD,공시,https://www.sec.gov/Archives/edgar/data/715957/000095017025028387/,
-Dominion Energy,D,2024Q4,2024-12-31,분기말 지배지분 자본,27253000000,USD,공시,https://www.sec.gov/Archives/edgar/data/715957/000095017025028387/,
+Dominion Energy,D,2024Q4,2024-12-31,분기말 부채총계,72613000000,USD,공시(재작성 반영),https://www.sec.gov/Archives/edgar/data/715957/000119312526063120/,원 공시 72223000000 (https://www.sec.gov/Archives/edgar/data/715957/000095017025028387/)
+Dominion Energy,D,2024Q4,2024-12-31,분기말 총자본(자기자본),29802000000,USD,공시(재작성 반영),https://www.sec.gov/Archives/edgar/data/715957/000119312526200275/,원 공시 30192000000 (https://www.sec.gov/Archives/edgar/data/715957/000095017025028387/)
+Dominion Energy,D,2024Q4,2024-12-31,분기말 지배지분 자본,26863000000,USD,공시(재작성 반영),https://www.sec.gov/Archives/edgar/data/715957/000119312526063120/,원 공시 27253000000 (https://www.sec.gov/Archives/edgar/data/715957/000095017025028387/)
 Dominion Energy,D,2024Q4,2024-12-31,분기말 종가,53.86,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/D?interval=1d&events=splits (2024-12-31),
 Dominion Energy,D,2024Q4,2025-02-20,분기말 상장주식수,852050458,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/715957/000095017025028387/,dei:EntityCommonStockSharesOutstanding 클래스 합
 Dominion Energy,D,2024Q4,2024-12-31,분기말 시가총액,45891437668,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/D?interval=1d&events=splits (2024-12-31) ; https://www.sec.gov/Archives/edgar/data/715957/000095017025028387/,종가 53.86 × 주식수 852050458
@@ -3665,7 +3665,7 @@ Diamondback Energy,FANG,2019Q3,2019-09-30,분기말 시가총액,14425574705,USD
 Diamondback Energy,FANG,2019Q4,2019-12-31,분기별 매출액,1104000000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/1539838/000153983820000021/ ; https://www.sec.gov/Archives/edgar/data/1539838/000153983819000117/,연간 3964000000 − 9개월누적 2860000000 (Revenues)
 Diamondback Energy,FANG,2019Q4,2019-12-31,분기별 영업이익,-384000000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/1539838/000153983820000021/ ; https://www.sec.gov/Archives/edgar/data/1539838/000153983819000117/,연간 695000000 − 9개월누적 1079000000 (OperatingIncomeLoss)
 Diamondback Energy,FANG,2019Q4,2019-12-31,분기별 당기순이익(지배),-487000000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/1539838/000153983820000021/ ; https://www.sec.gov/Archives/edgar/data/1539838/000153983819000117/,연간 240000000 − 9개월누적 727000000 (NetIncomeLoss)
-Diamondback Energy,FANG,2019Q4,2019-12-31,분기별 영업활동현금흐름,882000000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/1539838/000153983820000021/ ; https://www.sec.gov/Archives/edgar/data/1539838/000153983819000117/,누적 2734000000 − 직전누적 1852000000 (시작 2019-01-01)
+Diamondback Energy,FANG,2019Q4,2019-12-31,분기별 영업활동현금흐름,887000000,USD,계산(누적차감)(재작성 반영),https://www.sec.gov/Archives/edgar/data/1539838/000153983822000008/ ; https://www.sec.gov/Archives/edgar/data/1539838/000153983819000117/,누적 2739000000 − 직전누적 1852000000 (시작 2019-01-01) ; 원 공시 882000000 (https://www.sec.gov/Archives/edgar/data/1539838/000153983820000021/ ; https://www.sec.gov/Archives/edgar/data/1539838/000153983819000117/)
 Diamondback Energy,FANG,2019Q4,2019-12-31,분기말 자산총계,23531000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1539838/000153983820000021/,
 Diamondback Energy,FANG,2019Q4,2019-12-31,분기말 부채총계,8625000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1539838/000153983820000021/,
 Diamondback Energy,FANG,2019Q4,2019-12-31,분기말 총자본(자기자본),14906000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1539838/000153983820000021/,
@@ -3963,10 +3963,10 @@ Corteva,CTVA,2019Q1,2019-03-31,분기별 매출액,6288000000,USD,공시,https:/
 Corteva,CTVA,2019Q1,2019-03-31,분기별 영업이익,미확인,USD,미확인,SEC companyfacts CIK0001755672: 해당 보고서에 OperatingIncomeLoss 태그 없음(영업이익 미공시) ; SEC companyfacts CIK0001755672: OperatingIncomeLoss 태그 없음(영업이익 미공시),
 Corteva,CTVA,2019Q1,2019-03-31,분기별 당기순이익(지배),85000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1755672/000175567219000004/,
 Corteva,CTVA,2019Q1,2019-03-31,분기별 영업활동현금흐름,-1422000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1755672/000175567219000004/,
-Corteva,CTVA,2019Q1,2019-03-31,분기말 자산총계,101837000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1755672/000175567219000004/,
-Corteva,CTVA,2019Q1,2019-03-31,분기말 부채총계,32002000000,USD,계산(부채및자본-총자본),https://www.sec.gov/Archives/edgar/data/1755672/000175567219000004/,부채및자본 101837000000 − 총자본 69835000000
-Corteva,CTVA,2019Q1,2019-03-31,분기말 총자본(자기자본),69835000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1755672/000175567219000004/,
-Corteva,CTVA,2019Q1,2019-03-31,분기말 지배지분 자본,69600000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1755672/000175567219000004/,
+Corteva,CTVA,2019Q1,2019-03-31,분기말 자산총계,110102000000,USD,공시(재작성 반영),https://www.sec.gov/Archives/edgar/data/1755672/000175567220000014/,원 공시 101837000000 (https://www.sec.gov/Archives/edgar/data/1755672/000175567219000004/)
+Corteva,CTVA,2019Q1,2019-03-31,분기말 부채총계,35028000000,USD,계산(부채및자본-총자본)(재작성 반영),https://www.sec.gov/Archives/edgar/data/1755672/000175567220000014/,부채및자본 110102000000 − 총자본 75074000000 ; 원 공시 32002000000 (https://www.sec.gov/Archives/edgar/data/1755672/000175567219000004/)
+Corteva,CTVA,2019Q1,2019-03-31,분기말 총자본(자기자본),75074000000,USD,공시(재작성 반영),https://www.sec.gov/Archives/edgar/data/1755672/000175567220000026/,원 공시 69835000000 (https://www.sec.gov/Archives/edgar/data/1755672/000175567219000004/)
+Corteva,CTVA,2019Q1,2019-03-31,분기말 지배지분 자본,74571000000,USD,공시(재작성 반영),https://www.sec.gov/Archives/edgar/data/1755672/000175567220000014/,원 공시 69600000000 (https://www.sec.gov/Archives/edgar/data/1755672/000175567219000004/)
 Corteva,CTVA,2019Q1,2019-03-31,분기말 종가,데이터 없음(API 최초 거래일 2019-05-24 이전),,데이터 없음(상장 전),https://query1.finance.yahoo.com/v8/finance/chart/CTVA (firstTradeDate 2019-05-24),
 Corteva,CTVA,2019Q1,2019-03-31,분기말 상장주식수,데이터 없음(API 최초 거래일 2019-05-24 이전),,데이터 없음(상장 전),https://query1.finance.yahoo.com/v8/finance/chart/CTVA (firstTradeDate 2019-05-24),
 Corteva,CTVA,2019Q1,2019-03-31,분기말 시가총액,데이터 없음(API 최초 거래일 2019-05-24 이전),,데이터 없음(상장 전),https://query1.finance.yahoo.com/v8/finance/chart/CTVA (firstTradeDate 2019-05-24),
@@ -3974,10 +3974,10 @@ Corteva,CTVA,2019Q2,2019-06-30,분기별 매출액,5556000000,USD,공시,https:/
 Corteva,CTVA,2019Q2,2019-06-30,분기별 영업이익,미확인,USD,미확인,SEC companyfacts CIK0001755672: 해당 보고서에 OperatingIncomeLoss 태그 없음(영업이익 미공시) ; SEC companyfacts CIK0001755672: OperatingIncomeLoss 태그 없음(영업이익 미공시),
 Corteva,CTVA,2019Q2,2019-06-30,분기별 당기순이익(지배),-608000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1755672/000175567219000014/,
 Corteva,CTVA,2019Q2,2019-06-30,분기별 영업활동현금흐름,334000000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/1755672/000175567219000014/ ; https://www.sec.gov/Archives/edgar/data/1755672/000175567219000004/,누적 -1088000000 − 직전누적 -1422000000 (시작 2019-01-01)
-Corteva,CTVA,2019Q2,2019-06-30,분기말 자산총계,43998000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1755672/000175567219000014/,
+Corteva,CTVA,2019Q2,2019-06-30,분기말 자산총계,43922000000,USD,공시(재작성 반영),https://www.sec.gov/Archives/edgar/data/1755672/000175567220000021/,원 공시 43998000000 (https://www.sec.gov/Archives/edgar/data/1755672/000175567219000014/)
 Corteva,CTVA,2019Q2,2019-06-30,분기말 부채총계,17855000000,USD,계산(부채및자본-총자본),https://www.sec.gov/Archives/edgar/data/1755672/000175567219000014/,부채및자본 43998000000 − 총자본 26143000000
-Corteva,CTVA,2019Q2,2019-06-30,분기말 총자본(자기자본),26143000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1755672/000175567219000014/,
-Corteva,CTVA,2019Q2,2019-06-30,분기말 지배지분 자본,25886000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1755672/000175567219000014/,
+Corteva,CTVA,2019Q2,2019-06-30,분기말 총자본(자기자본),26067000000,USD,공시(재작성 반영),https://www.sec.gov/Archives/edgar/data/1755672/000175567220000026/,원 공시 26143000000 (https://www.sec.gov/Archives/edgar/data/1755672/000175567219000014/)
+Corteva,CTVA,2019Q2,2019-06-30,분기말 지배지분 자본,25810000000,USD,공시(재작성 반영),https://www.sec.gov/Archives/edgar/data/1755672/000175567220000021/,원 공시 25886000000 (https://www.sec.gov/Archives/edgar/data/1755672/000175567219000014/)
 Corteva,CTVA,2019Q2,2019-06-28,분기말 종가,29.57,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/CTVA?interval=1d&events=splits (2019-06-28),
 Corteva,CTVA,2019Q2,2019-07-26,분기말 상장주식수,748893017,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/1755672/000175567219000014/,dei:EntityCommonStockSharesOutstanding 클래스 합
 Corteva,CTVA,2019Q2,2019-06-28,분기말 시가총액,22144766513,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/CTVA?interval=1d&events=splits (2019-06-28) ; https://www.sec.gov/Archives/edgar/data/1755672/000175567219000014/,종가 29.57 × 주식수 748893017
@@ -4377,7 +4377,7 @@ Devon Energy,DVN,2020Q4,2020-12-31,분기말 지배지분 자본,2885000000,USD,
 Devon Energy,DVN,2020Q4,2020-12-31,분기말 종가,15.81,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/DVN?interval=1d&events=splits (2020-12-31),
 Devon Energy,DVN,2020Q4,2021-02-03,분기말 상장주식수,673100000,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/1090012/000156459021006239/,dei:EntityCommonStockSharesOutstanding 클래스 합
 Devon Energy,DVN,2020Q4,2020-12-31,분기말 시가총액,10641711000,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/DVN?interval=1d&events=splits (2020-12-31) ; https://www.sec.gov/Archives/edgar/data/1090012/000156459021006239/,종가 15.81 × 주식수 673100000
-Devon Energy,DVN,2021Q1,2021-03-31,분기별 매출액,1762000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1090012/000156459021023786/,
+Devon Energy,DVN,2021Q1,2021-03-31,분기별 매출액,2050000000,USD,공시(재작성 반영),https://www.sec.gov/Archives/edgar/data/1090012/000095017022007007/,원 공시 1762000000 (https://www.sec.gov/Archives/edgar/data/1090012/000156459021023786/)
 Devon Energy,DVN,2021Q1,2021-03-31,분기별 영업이익,미확인,USD,미확인,SEC companyfacts CIK0001090012: 해당 보고서에 OperatingIncomeLoss 태그 없음(영업이익 미공시) ; https://www.sec.gov/Archives/edgar/data/1090012/000156459021023786/,
 Devon Energy,DVN,2021Q1,2021-03-31,분기별 당기순이익(지배),213000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1090012/000156459021023786/,
 Devon Energy,DVN,2021Q1,2021-03-31,분기별 영업활동현금흐름,592000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1090012/000156459021023786/,
@@ -4456,7 +4456,7 @@ Devon Energy,DVN,2022Q3,2022-10-19,분기말 상장주식수,653700000,주,공�
 Devon Energy,DVN,2022Q3,2022-09-30,분기말 시가총액,39306981000,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/DVN?interval=1d&events=splits (2022-09-30) ; https://www.sec.gov/Archives/edgar/data/1090012/000095017022021074/,종가 60.13 × 주식수 653700000
 Devon Energy,DVN,2022Q4,2022-12-31,분기별 매출액,4299000000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/1090012/000095017023002852/ ; https://www.sec.gov/Archives/edgar/data/1090012/000095017022021074/,연간 19169000000 − 9개월누적 14870000000 (Revenues)
 Devon Energy,DVN,2022Q4,2022-12-31,분기별 영업이익,미확인,USD,미확인,SEC companyfacts CIK0001090012: 해당 보고서에 OperatingIncomeLoss 태그 없음(영업이익 미공시) ; https://www.sec.gov/Archives/edgar/data/1090012/000095017023002852/,
-Devon Energy,DVN,2022Q4,2022-12-31,분기별 당기순이익(지배),1201000000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/1090012/000095017023002852/ ; https://www.sec.gov/Archives/edgar/data/1090012/000095017022021074/,연간 6015000000 − 9개월누적 4814000000 (NetIncomeLoss)
+Devon Energy,DVN,2022Q4,2022-12-31,분기별 당기순이익(지배),1217000000,USD,계산(연간-3분기누적)(재작성 반영),https://www.sec.gov/Archives/edgar/data/1090012/000110465926046005/ ; https://www.sec.gov/Archives/edgar/data/1090012/000095017022021074/,연간 6031000000 − 9개월누적 4814000000 (NetIncomeLoss) ; 원 공시 1201000000 (https://www.sec.gov/Archives/edgar/data/1090012/000095017023002852/ ; https://www.sec.gov/Archives/edgar/data/1090012/000095017022021074/) ; 값은 XBRL 원문(companyfacts 미반영 보고서)
 Devon Energy,DVN,2022Q4,2022-12-31,분기별 영업활동현금흐름,1911000000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/1090012/000095017023002852/ ; https://www.sec.gov/Archives/edgar/data/1090012/000095017022021074/,누적 8530000000 − 직전누적 6619000000 (시작 2022-01-01)
 Devon Energy,DVN,2022Q4,2022-12-31,분기말 자산총계,23721000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1090012/000095017023002852/,
 Devon Energy,DVN,2022Q4,2022-12-31,분기말 부채총계,12425000000,USD,계산(부채및자본-총자본),https://www.sec.gov/Archives/edgar/data/1090012/000095017023002852/,부채및자본 23721000000 − 총자본 11296000000
@@ -4500,7 +4500,7 @@ Devon Energy,DVN,2023Q3,2023-10-25,분기말 상장주식수,640700000,주,공�
 Devon Energy,DVN,2023Q3,2023-09-29,분기말 시가총액,30561390000,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/DVN?interval=1d&events=splits (2023-09-29) ; https://www.sec.gov/Archives/edgar/data/1090012/000095017023060838/,종가 47.7 × 주식수 640700000
 Devon Energy,DVN,2023Q4,2023-12-31,분기별 매출액,4145000000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/1090012/000095017024021781/ ; https://www.sec.gov/Archives/edgar/data/1090012/000095017023060838/,연간 15258000000 − 9개월누적 11113000000 (Revenues)
 Devon Energy,DVN,2023Q4,2023-12-31,분기별 영업이익,미확인,USD,미확인,SEC companyfacts CIK0001090012: 해당 보고서에 OperatingIncomeLoss 태그 없음(영업이익 미공시) ; https://www.sec.gov/Archives/edgar/data/1090012/000095017024021781/,
-Devon Energy,DVN,2023Q4,2023-12-31,분기별 당기순이익(지배),1152000000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/1090012/000095017024021781/ ; https://www.sec.gov/Archives/edgar/data/1090012/000095017023060838/,연간 3747000000 − 9개월누적 2595000000 (NetIncomeLoss)
+Devon Energy,DVN,2023Q4,2023-12-31,분기별 당기순이익(지배),1144000000,USD,계산(연간-3분기누적)(재작성 반영),https://www.sec.gov/Archives/edgar/data/1090012/000110465926046005/ ; https://www.sec.gov/Archives/edgar/data/1090012/000095017023060838/,연간 3739000000 − 9개월누적 2595000000 (NetIncomeLoss) ; 원 공시 1152000000 (https://www.sec.gov/Archives/edgar/data/1090012/000095017024021781/ ; https://www.sec.gov/Archives/edgar/data/1090012/000095017023060838/) ; 값은 XBRL 원문(companyfacts 미반영 보고서)
 Devon Energy,DVN,2023Q4,2023-12-31,분기별 영업활동현금흐름,1737000000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/1090012/000095017024021781/ ; https://www.sec.gov/Archives/edgar/data/1090012/000095017023060838/,누적 6544000000 − 직전누적 4807000000 (시작 2023-01-01)
 Devon Energy,DVN,2023Q4,2023-12-31,분기말 자산총계,24490000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1090012/000095017024021781/,
 Devon Energy,DVN,2023Q4,2023-12-31,분기말 부채총계,12273000000,USD,계산(부채및자본-총자본),https://www.sec.gov/Archives/edgar/data/1090012/000095017024021781/,부채및자본 24490000000 − 총자본 12217000000
@@ -4544,7 +4544,7 @@ Devon Energy,DVN,2024Q3,2024-10-23,분기말 상장주식수,656900000,주,공�
 Devon Energy,DVN,2024Q3,2024-09-30,분기말 시가총액,25697928000,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/DVN?interval=1d&events=splits (2024-09-30) ; https://www.sec.gov/Archives/edgar/data/1090012/000095017024121981/,종가 39.12 × 주식수 656900000
 Devon Energy,DVN,2024Q4,2024-12-31,분기별 매출액,4403000000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/1090012/000095017025022844/ ; https://www.sec.gov/Archives/edgar/data/1090012/000095017024121981/,연간 15940000000 − 9개월누적 11537000000 (Revenues)
 Devon Energy,DVN,2024Q4,2024-12-31,분기별 영업이익,미확인,USD,미확인,SEC companyfacts CIK0001090012: 해당 보고서에 OperatingIncomeLoss 태그 없음(영업이익 미공시) ; https://www.sec.gov/Archives/edgar/data/1090012/000095017025022844/,
-Devon Energy,DVN,2024Q4,2024-12-31,분기별 당기순이익(지배),639000000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/1090012/000095017025022844/ ; https://www.sec.gov/Archives/edgar/data/1090012/000095017024121981/,연간 2891000000 − 9개월누적 2252000000 (NetIncomeLoss)
+Devon Energy,DVN,2024Q4,2024-12-31,분기별 당기순이익(지배),641000000,USD,계산(연간-3분기누적)(재작성 반영),https://www.sec.gov/Archives/edgar/data/1090012/000110465926046005/ ; https://www.sec.gov/Archives/edgar/data/1090012/000095017024121981/,연간 2893000000 − 9개월누적 2252000000 (NetIncomeLoss) ; 원 공시 639000000 (https://www.sec.gov/Archives/edgar/data/1090012/000095017025022844/ ; https://www.sec.gov/Archives/edgar/data/1090012/000095017024121981/) ; 값은 XBRL 원문(companyfacts 미반영 보고서)
 Devon Energy,DVN,2024Q4,2024-12-31,분기별 영업활동현금흐름,1664000000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/1090012/000095017025022844/ ; https://www.sec.gov/Archives/edgar/data/1090012/000095017024121981/,누적 6600000000 − 직전누적 4936000000 (시작 2024-01-01)
 Devon Energy,DVN,2024Q4,2024-12-31,분기말 자산총계,30489000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1090012/000095017025022844/,
 Devon Energy,DVN,2024Q4,2024-12-31,분기말 부채총계,15785000000,USD,계산(부채및자본-총자본),https://www.sec.gov/Archives/edgar/data/1090012/000095017025022844/,부채및자본 30489000000 − 총자본 14704000000
@@ -6043,7 +6043,7 @@ Cardinal Health,CAH,2021Q2,2021-06-30,분기별 영업이익,162000000,USD,계�
 Cardinal Health,CAH,2021Q2,2021-06-30,분기별 당기순이익(지배),116000000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/721371/000072137121000080/ ; https://www.sec.gov/Archives/edgar/data/721371/000072137121000041/,연간 611000000 − 9개월누적 495000000 (NetIncomeLoss)
 Cardinal Health,CAH,2021Q2,2021-06-30,분기별 영업활동현금흐름,665000000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/721371/000072137121000080/ ; https://www.sec.gov/Archives/edgar/data/721371/000072137121000041/,누적 2429000000 − 직전누적 1764000000 (시작 2020-07-01)
 Cardinal Health,CAH,2021Q2,2021-06-30,분기말 자산총계,44453000000,USD,공시,https://www.sec.gov/Archives/edgar/data/721371/000072137121000080/,
-Cardinal Health,CAH,2021Q2,2021-06-30,분기말 부채총계,42659000000,USD,계산(부채및자본-총자본),https://www.sec.gov/Archives/edgar/data/721371/000072137121000080/,부채및자본 44453000000 − 총자본 1794000000
+Cardinal Health,CAH,2021Q2,2021-06-30,분기말 부채총계,42830000000,USD,계산(부채및자본-총자본)(재작성 반영),https://www.sec.gov/Archives/edgar/data/721371/000072137121000080/,부채및자본 44453000000 − 총자본 1623000000 ; 원 공시 42659000000 (https://www.sec.gov/Archives/edgar/data/721371/000072137121000080/)
 Cardinal Health,CAH,2021Q2,2021-06-30,분기말 총자본(자기자본),1794000000,USD,공시,https://www.sec.gov/Archives/edgar/data/721371/000072137121000080/,
 Cardinal Health,CAH,2021Q2,2021-06-30,분기말 지배지분 자본,1791000000,USD,공시,https://www.sec.gov/Archives/edgar/data/721371/000072137121000080/,
 Cardinal Health,CAH,2021Q2,2021-06-30,분기말 종가,57.09,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/CAH?interval=1d&events=splits (2021-06-30),
@@ -6087,7 +6087,7 @@ Cardinal Health,CAH,2022Q2,2022-06-30,분기별 영업이익,36000000,USD,계산
 Cardinal Health,CAH,2022Q2,2022-06-30,분기별 당기순이익(지배),138000000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/721371/000072137122000058/ ; https://www.sec.gov/Archives/edgar/data/721371/000072137122000032/,연간 -933000000 − 9개월누적 -1071000000 (NetIncomeLoss)
 Cardinal Health,CAH,2022Q2,2022-06-30,분기별 영업활동현금흐름,2992000000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/721371/000072137122000058/ ; https://www.sec.gov/Archives/edgar/data/721371/000072137122000032/,누적 3122000000 − 직전누적 130000000 (시작 2021-07-01)
 Cardinal Health,CAH,2022Q2,2022-06-30,분기말 자산총계,43878000000,USD,공시,https://www.sec.gov/Archives/edgar/data/721371/000072137122000058/,
-Cardinal Health,CAH,2022Q2,2022-06-30,분기말 부채총계,44584000000,USD,계산(부채및자본-총자본),https://www.sec.gov/Archives/edgar/data/721371/000072137122000058/,부채및자본 43878000000 − 총자본 -706000000
+Cardinal Health,CAH,2022Q2,2022-06-30,분기말 부채총계,44760000000,USD,계산(부채및자본-총자본)(재작성 반영),https://www.sec.gov/Archives/edgar/data/721371/000072137122000058/,부채및자본 43878000000 − 총자본 -882000000 ; 원 공시 44584000000 (https://www.sec.gov/Archives/edgar/data/721371/000072137122000058/)
 Cardinal Health,CAH,2022Q2,2022-06-30,분기말 총자본(자기자본),-706000000,USD,공시,https://www.sec.gov/Archives/edgar/data/721371/000072137122000058/,
 Cardinal Health,CAH,2022Q2,2022-06-30,분기말 지배지분 자본,-709000000,USD,공시,https://www.sec.gov/Archives/edgar/data/721371/000072137122000058/,
 Cardinal Health,CAH,2022Q2,2022-06-30,분기말 종가,52.27,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/CAH?interval=1d&events=splits (2022-06-30),
@@ -6130,10 +6130,10 @@ Cardinal Health,CAH,2023Q2,2023-06-30,분기별 매출액,53453000000,USD,계산
 Cardinal Health,CAH,2023Q2,2023-06-30,분기별 영업이익,137000000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/721371/000072137123000060/ ; https://www.sec.gov/Archives/edgar/data/721371/000162828023015775/,연간 727000000 − 9개월누적 590000000 (OperatingIncomeLoss)
 Cardinal Health,CAH,2023Q2,2023-06-30,분기별 당기순이익(지배),-64000000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/721371/000072137123000060/ ; https://www.sec.gov/Archives/edgar/data/721371/000162828023015775/,연간 261000000 − 9개월누적 325000000 (NetIncomeLoss)
 Cardinal Health,CAH,2023Q2,2023-06-30,분기별 영업활동현금흐름,858000000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/721371/000072137123000060/ ; https://www.sec.gov/Archives/edgar/data/721371/000162828023015775/,누적 2839000000 − 직전누적 1981000000 (시작 2022-07-01)
-Cardinal Health,CAH,2023Q2,2023-06-30,분기말 자산총계,43417000000,USD,공시,https://www.sec.gov/Archives/edgar/data/721371/000072137123000060/,
-Cardinal Health,CAH,2023Q2,2023-06-30,분기말 부채총계,46268000000,USD,계산(부채및자본-총자본),https://www.sec.gov/Archives/edgar/data/721371/000072137123000060/,부채및자본 43417000000 − 총자본 -2851000000
-Cardinal Health,CAH,2023Q2,2023-06-30,분기말 총자본(자기자본),-2851000000,USD,공시,https://www.sec.gov/Archives/edgar/data/721371/000072137123000060/,
-Cardinal Health,CAH,2023Q2,2023-06-30,분기말 지배지분 자본,-2852000000,USD,공시,https://www.sec.gov/Archives/edgar/data/721371/000072137123000060/,
+Cardinal Health,CAH,2023Q2,2023-06-30,분기말 자산총계,43349000000,USD,공시(재작성 반영),https://www.sec.gov/Archives/edgar/data/721371/000072137124000056/,원 공시 43417000000 (https://www.sec.gov/Archives/edgar/data/721371/000072137123000060/)
+Cardinal Health,CAH,2023Q2,2023-06-30,분기말 부채총계,46306000000,USD,계산(부채및자본-총자본)(재작성 반영),https://www.sec.gov/Archives/edgar/data/721371/000072137124000056/,부채및자본 43349000000 − 총자본 -2957000000 ; 원 공시 46268000000 (https://www.sec.gov/Archives/edgar/data/721371/000072137123000060/)
+Cardinal Health,CAH,2023Q2,2023-06-30,분기말 총자본(자기자본),-2957000000,USD,공시(재작성 반영),https://www.sec.gov/Archives/edgar/data/721371/000072137126000038/,원 공시 -2851000000 (https://www.sec.gov/Archives/edgar/data/721371/000072137123000060/)
+Cardinal Health,CAH,2023Q2,2023-06-30,분기말 지배지분 자본,-2958000000,USD,공시(재작성 반영),https://www.sec.gov/Archives/edgar/data/721371/000072137124000056/,원 공시 -2852000000 (https://www.sec.gov/Archives/edgar/data/721371/000072137123000060/)
 Cardinal Health,CAH,2023Q2,2023-06-30,분기말 종가,94.57,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/CAH?interval=1d&events=splits (2023-06-30),
 Cardinal Health,CAH,2023Q2,2023-07-31,분기말 상장주식수,250681620,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/721371/000072137123000060/,dei:EntityCommonStockSharesOutstanding 클래스 합
 Cardinal Health,CAH,2023Q2,2023-06-30,분기말 시가총액,23706960803,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/CAH?interval=1d&events=splits (2023-06-30) ; https://www.sec.gov/Archives/edgar/data/721371/000072137123000060/,종가 94.57 × 주식수 250681620
@@ -6142,7 +6142,7 @@ Cardinal Health,CAH,2023Q3,2023-09-30,분기별 영업이익,-14000000,USD,공�
 Cardinal Health,CAH,2023Q3,2023-09-30,분기별 당기순이익(지배),5000000,USD,공시,https://www.sec.gov/Archives/edgar/data/721371/000072137123000084/,
 Cardinal Health,CAH,2023Q3,2023-09-30,분기별 영업활동현금흐름,545000000,USD,공시,https://www.sec.gov/Archives/edgar/data/721371/000072137123000084/,
 Cardinal Health,CAH,2023Q3,2023-09-30,분기말 자산총계,43710000000,USD,공시,https://www.sec.gov/Archives/edgar/data/721371/000072137123000084/,
-Cardinal Health,CAH,2023Q3,2023-09-30,분기말 부채총계,47200000000,USD,계산(부채및자본-총자본),https://www.sec.gov/Archives/edgar/data/721371/000072137123000084/,부채및자본 43710000000 − 총자본 -3490000000
+Cardinal Health,CAH,2023Q3,2023-09-30,분기말 부채총계,47317000000,USD,계산(부채및자본-총자본)(재작성 반영),https://www.sec.gov/Archives/edgar/data/721371/000072137123000084/,부채및자본 43710000000 − 총자본 -3607000000 ; 원 공시 47200000000 (https://www.sec.gov/Archives/edgar/data/721371/000072137123000084/)
 Cardinal Health,CAH,2023Q3,2023-09-30,분기말 총자본(자기자본),-3490000000,USD,공시,https://www.sec.gov/Archives/edgar/data/721371/000072137123000084/,
 Cardinal Health,CAH,2023Q3,2023-09-30,분기말 지배지분 자본,-3491000000,USD,공시,https://www.sec.gov/Archives/edgar/data/721371/000072137123000084/,
 Cardinal Health,CAH,2023Q3,2023-09-29,분기말 종가,86.82,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/CAH?interval=1d&events=splits (2023-09-29),
@@ -6153,7 +6153,7 @@ Cardinal Health,CAH,2023Q4,2023-12-31,분기별 영업이익,482000000,USD,공�
 Cardinal Health,CAH,2023Q4,2023-12-31,분기별 당기순이익(지배),353000000,USD,공시,https://www.sec.gov/Archives/edgar/data/721371/000162828024002813/,
 Cardinal Health,CAH,2023Q4,2023-12-31,분기별 영업활동현금흐름,1189000000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/721371/000162828024002813/ ; https://www.sec.gov/Archives/edgar/data/721371/000072137123000084/,누적 1734000000 − 직전누적 545000000 (시작 2023-07-01)
 Cardinal Health,CAH,2023Q4,2023-12-31,분기말 자산총계,46573000000,USD,공시,https://www.sec.gov/Archives/edgar/data/721371/000162828024002813/,
-Cardinal Health,CAH,2023Q4,2023-12-31,분기말 부채총계,50020000000,USD,계산(부채및자본-총자본),https://www.sec.gov/Archives/edgar/data/721371/000162828024002813/,부채및자본 46573000000 − 총자본 -3447000000
+Cardinal Health,CAH,2023Q4,2023-12-31,분기말 부채총계,50120000000,USD,계산(부채및자본-총자본)(재작성 반영),https://www.sec.gov/Archives/edgar/data/721371/000162828024002813/,부채및자본 46573000000 − 총자본 -3547000000 ; 원 공시 50020000000 (https://www.sec.gov/Archives/edgar/data/721371/000162828024002813/)
 Cardinal Health,CAH,2023Q4,2023-12-31,분기말 총자본(자기자본),-3447000000,USD,공시,https://www.sec.gov/Archives/edgar/data/721371/000162828024002813/,
 Cardinal Health,CAH,2023Q4,2023-12-31,분기말 지배지분 자본,-3449000000,USD,공시,https://www.sec.gov/Archives/edgar/data/721371/000162828024002813/,
 Cardinal Health,CAH,2023Q4,2023-12-29,분기말 종가,100.8,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/CAH?interval=1d&events=splits (2023-12-29),
@@ -6164,7 +6164,7 @@ Cardinal Health,CAH,2024Q1,2024-03-31,분기별 영업이익,367000000,USD,공�
 Cardinal Health,CAH,2024Q1,2024-03-31,분기별 당기순이익(지배),258000000,USD,공시,https://www.sec.gov/Archives/edgar/data/721371/000072137124000038/,
 Cardinal Health,CAH,2024Q1,2024-03-31,분기별 영업활동현금흐름,-49000000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/721371/000072137124000038/ ; https://www.sec.gov/Archives/edgar/data/721371/000162828024002813/,누적 1685000000 − 직전누적 1734000000 (시작 2023-07-01)
 Cardinal Health,CAH,2024Q1,2024-03-31,분기말 자산총계,45880000000,USD,공시,https://www.sec.gov/Archives/edgar/data/721371/000072137124000038/,
-Cardinal Health,CAH,2024Q1,2024-03-31,분기말 부채총계,49142000000,USD,계산(부채및자본-총자본),https://www.sec.gov/Archives/edgar/data/721371/000072137124000038/,부채및자본 45880000000 − 총자본 -3262000000
+Cardinal Health,CAH,2024Q1,2024-03-31,분기말 부채총계,49239000000,USD,계산(부채및자본-총자본)(재작성 반영),https://www.sec.gov/Archives/edgar/data/721371/000072137124000038/,부채및자본 45880000000 − 총자본 -3359000000 ; 원 공시 49142000000 (https://www.sec.gov/Archives/edgar/data/721371/000072137124000038/)
 Cardinal Health,CAH,2024Q1,2024-03-31,분기말 총자본(자기자본),-3262000000,USD,공시,https://www.sec.gov/Archives/edgar/data/721371/000072137124000038/,
 Cardinal Health,CAH,2024Q1,2024-03-31,분기말 지배지분 자본,-3265000000,USD,공시,https://www.sec.gov/Archives/edgar/data/721371/000072137124000038/,
 Cardinal Health,CAH,2024Q1,2024-03-28,분기말 종가,111.9,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/CAH?interval=1d&events=splits (2024-03-28),
@@ -6272,7 +6272,7 @@ Cardinal Health,CAH,2026Q2,2026-06-30,분기말 시가총액,55250689944,USD,계
 Delta Air Lines,DAL,2019Q1,2019-03-31,분기별 매출액,10472000000,USD,공시,https://www.sec.gov/Archives/edgar/data/27904/000002790419000005/,
 Delta Air Lines,DAL,2019Q1,2019-03-31,분기별 영업이익,1020000000,USD,공시,https://www.sec.gov/Archives/edgar/data/27904/000002790419000005/,
 Delta Air Lines,DAL,2019Q1,2019-03-31,분기별 당기순이익(지배),730000000,USD,공시,https://www.sec.gov/Archives/edgar/data/27904/000002790419000005/,
-Delta Air Lines,DAL,2019Q1,2019-03-31,분기별 영업활동현금흐름,1951000000,USD,공시,https://www.sec.gov/Archives/edgar/data/27904/000002790419000005/,
+Delta Air Lines,DAL,2019Q1,2019-03-31,분기별 영업활동현금흐름,1942000000,USD,공시(재작성 반영),https://www.sec.gov/Archives/edgar/data/27904/000002790420000007/,원 공시 1951000000 (https://www.sec.gov/Archives/edgar/data/27904/000002790419000005/)
 Delta Air Lines,DAL,2019Q1,2019-03-31,분기말 자산총계,61841000000,USD,공시,https://www.sec.gov/Archives/edgar/data/27904/000002790419000005/,
 Delta Air Lines,DAL,2019Q1,2019-03-31,분기말 부채총계,48930000000,USD,계산(부채및자본-총자본),https://www.sec.gov/Archives/edgar/data/27904/000002790419000005/,부채및자본 61841000000 − 총자본 12911000000
 Delta Air Lines,DAL,2019Q1,2019-03-31,분기말 총자본(자기자본),12911000000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/27904/000002790419000005/,"StockholdersEquity, MinorityInterest 태그 없음"
@@ -6283,7 +6283,7 @@ Delta Air Lines,DAL,2019Q1,2019-03-29,분기말 시가총액,33830568037,USD,계
 Delta Air Lines,DAL,2019Q2,2019-06-30,분기별 매출액,12536000000,USD,공시,https://www.sec.gov/Archives/edgar/data/27904/000002790419000008/,
 Delta Air Lines,DAL,2019Q2,2019-06-30,분기별 영업이익,2128000000,USD,공시,https://www.sec.gov/Archives/edgar/data/27904/000002790419000008/,
 Delta Air Lines,DAL,2019Q2,2019-06-30,분기별 당기순이익(지배),1443000000,USD,공시,https://www.sec.gov/Archives/edgar/data/27904/000002790419000008/,
-Delta Air Lines,DAL,2019Q2,2019-06-30,분기별 영업활동현금흐름,3272000000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/27904/000002790419000008/ ; https://www.sec.gov/Archives/edgar/data/27904/000002790419000005/,누적 5223000000 − 직전누적 1951000000 (시작 2019-01-01)
+Delta Air Lines,DAL,2019Q2,2019-06-30,분기별 영업활동현금흐름,3269000000,USD,계산(누적차감)(재작성 반영),https://www.sec.gov/Archives/edgar/data/27904/000002790420000010/ ; https://www.sec.gov/Archives/edgar/data/27904/000002790420000007/,누적 5211000000 − 직전누적 1942000000 (시작 2019-01-01) ; 원 공시 3272000000 (https://www.sec.gov/Archives/edgar/data/27904/000002790419000008/ ; https://www.sec.gov/Archives/edgar/data/27904/000002790419000005/)
 Delta Air Lines,DAL,2019Q2,2019-06-30,분기말 자산총계,62518000000,USD,공시,https://www.sec.gov/Archives/edgar/data/27904/000002790419000008/,
 Delta Air Lines,DAL,2019Q2,2019-06-30,분기말 부채총계,48560000000,USD,계산(부채및자본-총자본),https://www.sec.gov/Archives/edgar/data/27904/000002790419000008/,부채및자본 62518000000 − 총자본 13958000000
 Delta Air Lines,DAL,2019Q2,2019-06-30,분기말 총자본(자기자본),13958000000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/27904/000002790419000008/,"StockholdersEquity, MinorityInterest 태그 없음"
@@ -6294,7 +6294,7 @@ Delta Air Lines,DAL,2019Q2,2019-06-28,분기말 시가총액,36898885015,USD,계
 Delta Air Lines,DAL,2019Q3,2019-09-30,분기별 매출액,12560000000,USD,공시,https://www.sec.gov/Archives/edgar/data/27904/000002790419000012/,
 Delta Air Lines,DAL,2019Q3,2019-09-30,분기별 영업이익,2071000000,USD,공시,https://www.sec.gov/Archives/edgar/data/27904/000002790419000012/,
 Delta Air Lines,DAL,2019Q3,2019-09-30,분기별 당기순이익(지배),1495000000,USD,공시,https://www.sec.gov/Archives/edgar/data/27904/000002790419000012/,
-Delta Air Lines,DAL,2019Q3,2019-09-30,분기별 영업활동현금흐름,2245000000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/27904/000002790419000012/ ; https://www.sec.gov/Archives/edgar/data/27904/000002790419000008/,누적 7468000000 − 직전누적 5223000000 (시작 2019-01-01)
+Delta Air Lines,DAL,2019Q3,2019-09-30,분기별 영업활동현금흐름,2244000000,USD,계산(누적차감)(재작성 반영),https://www.sec.gov/Archives/edgar/data/27904/000002790420000013/ ; https://www.sec.gov/Archives/edgar/data/27904/000002790420000010/,누적 7455000000 − 직전누적 5211000000 (시작 2019-01-01) ; 원 공시 2245000000 (https://www.sec.gov/Archives/edgar/data/27904/000002790419000012/ ; https://www.sec.gov/Archives/edgar/data/27904/000002790419000008/)
 Delta Air Lines,DAL,2019Q3,2019-09-30,분기말 자산총계,63219000000,USD,공시,https://www.sec.gov/Archives/edgar/data/27904/000002790419000012/,
 Delta Air Lines,DAL,2019Q3,2019-09-30,분기말 부채총계,48151000000,USD,계산(부채및자본-총자본),https://www.sec.gov/Archives/edgar/data/27904/000002790419000012/,부채및자본 63219000000 − 총자본 15068000000
 Delta Air Lines,DAL,2019Q3,2019-09-30,분기말 총자본(자기자본),15068000000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/27904/000002790419000012/,"StockholdersEquity, MinorityInterest 태그 없음"
@@ -6305,7 +6305,7 @@ Delta Air Lines,DAL,2019Q3,2019-09-30,분기말 시가총액,37252388390,USD,계
 Delta Air Lines,DAL,2019Q4,2019-12-31,분기별 매출액,11439000000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/27904/000002790420000004/ ; https://www.sec.gov/Archives/edgar/data/27904/000002790419000012/,연간 47007000000 − 9개월누적 35568000000 (RevenueFromContractWithCustomerExcludingAssessedTax)
 Delta Air Lines,DAL,2019Q4,2019-12-31,분기별 영업이익,1399000000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/27904/000002790420000004/ ; https://www.sec.gov/Archives/edgar/data/27904/000002790419000012/,연간 6618000000 − 9개월누적 5219000000 (OperatingIncomeLoss)
 Delta Air Lines,DAL,2019Q4,2019-12-31,분기별 당기순이익(지배),1098000000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/27904/000002790420000004/ ; https://www.sec.gov/Archives/edgar/data/27904/000002790419000012/,연간 4767000000 − 9개월누적 3669000000 (NetIncomeLoss)
-Delta Air Lines,DAL,2019Q4,2019-12-31,분기별 영업활동현금흐름,957000000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/27904/000002790420000004/ ; https://www.sec.gov/Archives/edgar/data/27904/000002790419000012/,누적 8425000000 − 직전누적 7468000000 (시작 2019-01-01)
+Delta Air Lines,DAL,2019Q4,2019-12-31,분기별 영업활동현금흐름,970000000,USD,계산(누적차감)(재작성 반영),https://www.sec.gov/Archives/edgar/data/27904/000002790420000004/ ; https://www.sec.gov/Archives/edgar/data/27904/000002790420000013/,누적 8425000000 − 직전누적 7455000000 (시작 2019-01-01) ; 원 공시 957000000 (https://www.sec.gov/Archives/edgar/data/27904/000002790420000004/ ; https://www.sec.gov/Archives/edgar/data/27904/000002790419000012/)
 Delta Air Lines,DAL,2019Q4,2019-12-31,분기말 자산총계,64532000000,USD,공시,https://www.sec.gov/Archives/edgar/data/27904/000002790420000004/,
 Delta Air Lines,DAL,2019Q4,2019-12-31,분기말 부채총계,49174000000,USD,계산(부채및자본-총자본),https://www.sec.gov/Archives/edgar/data/27904/000002790420000004/,부채및자본 64532000000 − 총자본 15358000000
 Delta Air Lines,DAL,2019Q4,2019-12-31,분기말 총자본(자기자본),15358000000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/27904/000002790420000004/,"StockholdersEquity, MinorityInterest 태그 없음"

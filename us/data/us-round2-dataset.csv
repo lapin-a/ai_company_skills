@@ -659,7 +659,7 @@ Walmart,WMT,2026Q2,2026-07-31,분기말 지배지분 자본,98238000000,USD,공�
 Walmart,WMT,2026Q2,2026-07-31,분기말 종가,111.2,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/WMT?interval=1d&events=splits (2026-07-31),
 Walmart,WMT,2026Q2,2026-08-26,분기말 상장주식수,7933746241,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/104169/000010416926000154/,dei:EntityCommonStockSharesOutstanding 클래스 합
 Walmart,WMT,2026Q2,2026-07-31,분기말 시가총액,882232581999,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/WMT?interval=1d&events=splits (2026-07-31) ; https://www.sec.gov/Archives/edgar/data/104169/000010416926000154/,종가 111.2 × 주식수 7933746241
-Exxon Mobil,XOM,2019Q1,2019-03-31,분기별 매출액,61646000000,USD,공시,https://www.sec.gov/Archives/edgar/data/34088/000003408819000017/,
+Exxon Mobil,XOM,2019Q1,2019-03-31,분기별 매출액,63625000000,USD,공시(재작성 반영),https://www.sec.gov/Archives/edgar/data/34088/000003408820000037/,원 공시 61646000000 (https://www.sec.gov/Archives/edgar/data/34088/000003408819000017/)
 Exxon Mobil,XOM,2019Q1,2019-03-31,분기별 영업이익,미확인,USD,미확인,SEC companyfacts CIK0000034088: 해당 보고서에 OperatingIncomeLoss 태그 없음(영업이익 미공시) ; SEC companyfacts CIK0000034088: OperatingIncomeLoss 태그 없음(영업이익 미공시),
 Exxon Mobil,XOM,2019Q1,2019-03-31,분기별 당기순이익(지배),2350000000,USD,공시,https://www.sec.gov/Archives/edgar/data/34088/000003408819000017/,
 Exxon Mobil,XOM,2019Q1,2019-03-31,분기별 영업활동현금흐름,8338000000,USD,공시,https://www.sec.gov/Archives/edgar/data/34088/000003408819000017/,
@@ -670,7 +670,7 @@ Exxon Mobil,XOM,2019Q1,2019-03-31,분기말 지배지분 자본,191222000000,USD
 Exxon Mobil,XOM,2019Q1,2019-03-29,분기말 종가,80.8,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/XOM?interval=1d&events=splits (2019-03-29),
 Exxon Mobil,XOM,2019Q1,2019-03-31,분기말 상장주식수,4231093914,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/34088/000003408819000017/,dei:EntityCommonStockSharesOutstanding 클래스 합
 Exxon Mobil,XOM,2019Q1,2019-03-29,분기말 시가총액,341872388251,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/XOM?interval=1d&events=splits (2019-03-29) ; https://www.sec.gov/Archives/edgar/data/34088/000003408819000017/,종가 80.8 × 주식수 4231093914
-Exxon Mobil,XOM,2019Q2,2019-06-30,분기별 매출액,67491000000,USD,공시,https://www.sec.gov/Archives/edgar/data/34088/000003408819000042/,
+Exxon Mobil,XOM,2019Q2,2019-06-30,분기별 매출액,69091000000,USD,공시(재작성 반영),https://www.sec.gov/Archives/edgar/data/34088/000003408820000073/,원 공시 67491000000 (https://www.sec.gov/Archives/edgar/data/34088/000003408819000042/)
 Exxon Mobil,XOM,2019Q2,2019-06-30,분기별 영업이익,미확인,USD,미확인,SEC companyfacts CIK0000034088: 해당 보고서에 OperatingIncomeLoss 태그 없음(영업이익 미공시) ; SEC companyfacts CIK0000034088: OperatingIncomeLoss 태그 없음(영업이익 미공시),
 Exxon Mobil,XOM,2019Q2,2019-06-30,분기별 당기순이익(지배),3130000000,USD,공시,https://www.sec.gov/Archives/edgar/data/34088/000003408819000042/,
 Exxon Mobil,XOM,2019Q2,2019-06-30,분기별 영업활동현금흐름,5947000000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/34088/000003408819000042/ ; https://www.sec.gov/Archives/edgar/data/34088/000003408819000017/,누적 14285000000 − 직전누적 8338000000 (시작 2019-01-01)
@@ -1731,9 +1731,9 @@ Intel,INTC,2020Q4,2020-12-26,분기별 영업이익,5884000000,USD,계산(연간
 Intel,INTC,2020Q4,2020-12-26,분기별 당기순이익(지배),5857000000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/50863/000005086321000010/ ; https://www.sec.gov/Archives/edgar/data/50863/000005086320000043/,연간 20899000000 − 9개월누적 15042000000 (NetIncomeLoss)
 Intel,INTC,2020Q4,2020-12-26,분기별 영업활동현금흐름,9890000000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/50863/000005086321000010/ ; https://www.sec.gov/Archives/edgar/data/50863/000005086320000043/,누적 35384000000 − 직전누적 25494000000 (시작 2019-12-29)
 Intel,INTC,2020Q4,2020-12-26,분기말 자산총계,153091000000,USD,공시,https://www.sec.gov/Archives/edgar/data/50863/000005086321000010/,
-Intel,INTC,2020Q4,2020-12-26,분기말 부채총계,72053000000,USD,계산(부채및자본-총자본),https://www.sec.gov/Archives/edgar/data/50863/000005086321000010/,부채및자본 153091000000 − 총자본 81038000000
-Intel,INTC,2020Q4,2020-12-26,분기말 총자본(자기자본),81038000000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/50863/000005086321000010/,"StockholdersEquity, MinorityInterest 태그 없음"
-Intel,INTC,2020Q4,2020-12-26,분기말 지배지분 자본,81038000000,USD,공시,https://www.sec.gov/Archives/edgar/data/50863/000005086321000010/,
+Intel,INTC,2020Q4,2020-12-26,분기말 부채총계,72018000000,USD,계산(부채및자본-총자본)(재작성 반영),https://www.sec.gov/Archives/edgar/data/50863/000005086321000010/,부채및자본 153091000000 − 총자본 81073000000 ; 원 공시 72053000000 (https://www.sec.gov/Archives/edgar/data/50863/000005086321000010/)
+Intel,INTC,2020Q4,2020-12-26,분기말 총자본(자기자본),81073000000,USD,공시(비지배 없음)(재작성 반영),https://www.sec.gov/Archives/edgar/data/50863/000005086322000038/,"StockholdersEquity, MinorityInterest 태그 없음 ; 원 공시 81038000000 (https://www.sec.gov/Archives/edgar/data/50863/000005086321000010/)"
+Intel,INTC,2020Q4,2020-12-26,분기말 지배지분 자본,81073000000,USD,공시(재작성 반영),https://www.sec.gov/Archives/edgar/data/50863/000005086322000038/,원 공시 81038000000 (https://www.sec.gov/Archives/edgar/data/50863/000005086321000010/)
 Intel,INTC,2020Q4,2020-12-24,분기말 종가,47.07,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/INTC?interval=1d&events=splits (2020-12-24),
 Intel,INTC,2020Q4,2021-01-15,분기말 상장주식수,4063000000,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/50863/000005086321000010/,dei:EntityCommonStockSharesOutstanding 클래스 합
 Intel,INTC,2020Q4,2020-12-24,분기말 시가총액,191245410000,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/INTC?interval=1d&events=splits (2020-12-24) ; https://www.sec.gov/Archives/edgar/data/50863/000005086321000010/,종가 47.07 × 주식수 4063000000

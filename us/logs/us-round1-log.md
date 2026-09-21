@@ -18,7 +18,7 @@
 | Yahoo `query1.finance.yahoo.com/v8/finance/chart/<티커>` | 일별 종가 | 200 (**비공식 API**, 약관·안정성 미보장) |
 | Stooq, Wikipedia, Slickcharts | 종가·구성 | 사용 불가 (JS 검증 또는 연결 불가) |
 
-- SEC 요청은 처음에 연락처 없는 User-Agent(`ai-company-research-bot/1.0`)로 동작했다. SEC 공정접근 정책은 이름과 연락처를 넣은 UA를 요구한다. → **2026-09-19 사용자 지정으로 `lapin sirocuro01@gmail.com`으로 변경했다**(`us_probe.SEC_UA`, `collect_us_round1.py`도 같은 값을 쓴다). 변경 후 data.sec.gov 200 응답을 확인했다.
+- SEC 요청은 처음에 연락처 없는 User-Agent(`ai-company-research-bot/1.0`)로 동작했다. SEC 공정접근 정책은 이름과 연락처를 넣은 UA를 요구한다. → **2026-09-19 사용자 지정으로 `lapin s*******@gmail.com`으로 변경했다**(`us_probe.SEC_UA`, `collect_us_round1.py`도 같은 값을 쓴다). 변경 후 data.sec.gov 200 응답을 확인했다.
 - 시장데이터 대안: Yahoo가 막히면 쓸 공식 소스는 아직 확인하지 못했다(미확인).
 
 ### 방법 — `us_probe.py`
@@ -414,7 +414,7 @@ JPM(6021) · BAC(6021) · WFC(6021) · GS(6211) · BRK.B(6331, 시총 미확인)
 
 ### 계기
 
-SEC User-Agent를 `lapin sirocuro01@gmail.com`으로 바꾼 뒤 `www.sec.gov`에 다시 접근해 보았다.
+SEC User-Agent를 `lapin s*******@gmail.com`으로 바꾼 뒤 `www.sec.gov`에 다시 접근해 보았다.
 
 - **1절의 "www.sec.gov 연결 불가" 판정은 틀렸다.** curl만 연결에 실패하고(IPv4·IPv6 모두 000), Python urllib로는 정상 접속된다(`company_tickers.json` 799KB, `Archives` 원문 XBRL).
 - 1절은 curl 결과만 보고 판정했다. 이번 보완에 쓴 요청은 모두 urllib로 보냈다.
