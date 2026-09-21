@@ -130,6 +130,8 @@ def statements(doc):
                     rows = [r[:j] + r[j + 1:] if len(r) == len(hd) else r for r in rows]
             # &nbsp;도 지운다: SK스퀘어 2022는 머리행이 "누&nbsp;적"이라 누적 열을 못 알아봤다
             head = "".join(re.sub(r"<[^>]+>|&nbsp;|\s", "", r) for r in trs[:3])
+            if FIN:  # 누적 열을 "누계"로 쓰는 보고서 (삼성카드 2020~2022 3분기)
+                head = head.replace("누계", "누적")
             out[cur] = (unit, head, rows)
             cur = None
             continue

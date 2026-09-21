@@ -44,6 +44,7 @@ cr.FLOW_ITEMS = [("분기별 영업수익", "rev"), ("분기별 영업이익", "
 restate.FLOW = {**restate.FLOW, **FIN_PICK}
 restate.FLOW_KEYS |= {"nii3", "niiC", "fee3", "feeC"}
 _parse = cr.parse
+LABELS, _period = {}, [None]  # 라벨 기록용 (main이 _period에 "기업 기간"을 넣는다)
 
 
 def parse(doc):
@@ -52,6 +53,7 @@ def parse(doc):
         return d
     st = cr.statements(doc)
     cands = [x for x in (st.get("IS"), st.get("CI")) if x]
+    LABELS.setdefault(_period[0], []).append([cr.norm(r[0]) for s in cands[:1] for r in s[2] if r and cr.values(r)])
     d["_absent"] = set()
     # 3개월 열 없이 누적만 싣는 분기·반기보고서 (신한지주 2019~2023): 3개월 값은 누적 차감으로 만든다 (fill_cum_only)
     d["_cum_only"] = bool(cands) and "3개월" not in cands[0][1] and "누적" not in cands[0][1]
@@ -99,6 +101,19 @@ def mark_calc(fin, done, reports):
             r[7] += " ; " + cr.VIEW + reports[done[p]]
 
 
+def cum_check(data):
+    """자체 대조: 1~3분기 3개월 값의 합 = 3분기 누적. 누적 열 오독(삼성카드 "누계")처럼 자체 검증에 안 걸리는 결함을 잡는다."""
+    bad = []
+    for y in sorted({p[:4] for p in data}):
+        ds = [data.get("%s.%02d" % (y, m), {}) for m in (3, 6, 9)]
+        for k in FLOWS:
+            vs = [d.get(k + "3") for d in ds]
+            c = ds[2].get(k + "C")
+            if None not in vs and c is not None and not cr.close(sum(vs), c):
+                bad.append("%s %s" % (y, k))
+    return bad
+
+
 def mark_absent(fin, data):
     """미확인 칸 중 그 기간(4분기 계산이면 3분기 보고서 포함) 보고서에 해당 줄이 없는 칸을 '항목 미공시'로 바꾼다."""
     n = 0
@@ -122,9 +137,13 @@ def main(rnd):
     for corp, code, cc in ROUNDS[rnd]:
         t0 = time.time()
         reports = c2.pick_reports(dkey, cc)
-        got = {p: c2.fetch_parse(r, p) for p, r in sorted(reports.items())}
+        got = {}
+        for p, r in sorted(reports.items()):
+            _period[0] = "%s %s" % (corp, p)
+            got[p] = c2.fetch_parse(r, p)
         data = {p: v[0] for p, v in got.items()}
         done = fill_cum_only(data, reports)
+        cbad = cum_check(data)
         fin, fails, log = restate.rows(corp, code, reports, data, {p: v[1] for p, v in got.items()}, c2.WINDOW)
         absent = mark_absent(fin, data)
         mark_calc(fin, done, reports)
@@ -137,10 +156,13 @@ def main(rnd):
         for r in fin + mkt:
             kinds[r[6]] = kinds.get(r[6], 0) + 1
         summary.append({"기업": corp, "항목세트": "금융", "보고서": len(reports), "값구분": kinds, "재무검증실패": fails,
-                        "시총검증실패": mbad, "API최초거래일": first.isoformat(), "항목미공시": absent})
-        print("%s | 보고서 %d | %s | 재무검증실패 %s | 시총검증실패 %s | %.0fs" % (
-            corp, len(reports), kinds, fails or "없음", mbad or "없음", time.time() - t0), flush=True)
+                        "시총검증실패": mbad, "API최초거래일": first.isoformat(), "항목미공시": absent, "누적대조불일치": cbad})
+        print("%s | 보고서 %d | %s | 재무검증실패 %s | 시총검증실패 %s | 누적대조불일치 %s | %.0fs" % (
+            corp, len(reports), kinds, fails or "없음", mbad or "없음", cbad or "없음", time.time() - t0), flush=True)
 
+    # 영업수익 대체 줄 검토용: 기업·기간별 손익표 라벨 (값 있는 행만)
+    with open("tmp_verify/fin/labels-r%d.json" % rnd, "w", encoding="utf-8") as f:
+        json.dump(LABELS, f, ensure_ascii=False)
     with open(c2.OUTDIR + out, "w", newline="", encoding="utf-8-sig") as f:
         csv.writer(f).writerows([c2.HEAD + ["항목세트"]] + all_rows)
     with open(c2.OUTDIR + out.replace("-dataset.csv", "-summary.json"), "w", encoding="utf-8") as f:

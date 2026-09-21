@@ -15,9 +15,14 @@ os.chdir(ROOT)
 import collect_round1 as cr  # noqa: E402
 from outliers_kr import judge  # noqa: E402
 
-KEY = {"분기별 매출액": "rev", "분기별 영업이익": "op", "분기별 당기순이익(지배)": "ni", "분기별 영업활동현금흐름": "ocf"}
+KEY = {"분기별 매출액": "rev", "분기별 영업이익": "op", "분기별 당기순이익(지배)": "ni", "분기별 영업활동현금흐름": "ocf",
+       "분기별 영업수익": "rev", "분기별 순이자이익": "nii", "분기별 순수수료이익": "fee"}  # 뒤 3개는 금융 세트
 files = sys.argv[1:]
 rows = [r for f in files for r in csv.DictReader(open(f, encoding="utf-8-sig"))]
+if any(r.get("항목세트") == "금융" for r in rows):
+    if any(r.get("항목세트") != "금융" for r in rows):
+        raise SystemExit("금융·비금융 데이터셋을 한 번에 넣지 않는다 (파서 FIN 플래그가 다르다)")
+    import collect_fin  # noqa: E402,F401  cr.FIN과 금융 항목 파서를 켠다
 R = {(r["기업"], r["기간"], r["항목"]): r for r in rows}
 RESTATED = {(r["종목코드"], r["기간"], r["항목"]): r for f in files if os.path.exists(f.replace("-dataset", "-restated"))
             for r in csv.DictReader(open(f.replace("-dataset", "-restated"), encoding="utf-8-sig"))}
@@ -26,7 +31,15 @@ cache = {}
 
 def parsed(rcp):
     if rcp not in cache:
-        cache[rcp] = cr.parse(cr.fs_section(rcp))
+        for n in range(3):  # 공시뷰어 연결 끊김 재시도
+            try:
+                cache[rcp] = cr.parse(cr.fs_section(rcp))
+                break
+            except OSError:
+                if n == 2:
+                    raise
+                import time
+                time.sleep(5)
     return cache[rcp]
 
 
