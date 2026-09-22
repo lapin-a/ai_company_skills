@@ -160,9 +160,11 @@ def main(rnd):
         print("%s | 보고서 %d | %s | 재무검증실패 %s | 시총검증실패 %s | 누적대조불일치 %s | %.0fs" % (
             corp, len(reports), kinds, fails or "없음", mbad or "없음", cbad or "없음", time.time() - t0), flush=True)
 
-    # 영업수익 대체 줄 검토용: 기업·기간별 손익표 라벨 (값 있는 행만)
-    with open("tmp_verify/fin/labels-r%d.json" % rnd, "w", encoding="utf-8") as f:
-        json.dump(LABELS, f, ensure_ascii=False)
+    # 영업수익 대체 줄 검토용: 기업·기간별 손익표 라벨 (값 있는 행만). round11-14-log.md 10-4절이 인용하는 증거라
+    # 실제 데이터셋을 쓰는 실행(OUTDIR 기본값)에서만 갱신한다 — 회귀 검사가 덮어쓰지 않게 (2026-09-23).
+    if c2.OUTDIR == "kr/data/":
+        with open("tmp_verify/fin/labels-r%d.json" % rnd, "w", encoding="utf-8") as f:
+            json.dump(LABELS, f, ensure_ascii=False)
     with open(c2.OUTDIR + out, "w", newline="", encoding="utf-8-sig") as f:
         csv.writer(f).writerows([c2.HEAD + ["항목세트"]] + all_rows)
     with open(c2.OUTDIR + out.replace("-dataset.csv", "-summary.json"), "w", encoding="utf-8") as f:
