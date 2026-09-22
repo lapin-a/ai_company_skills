@@ -1,3 +1,18 @@
 /.claude
 /.obsidian
 __pycache__/
+
+# tmp_verify: 다시 만들 수 있는 재생성·회귀 결과는 추적하지 않는다 (2026-09-23).
+# 스크립트(.py·.sh)와, 로그가 인용한 증거 파일(이미 추적 중인 kr-recheck-p*·prev-*·us_r*.json 등)은 계속 추적한다.
+tmp_verify/**/*-dataset.csv
+tmp_verify/**/*-summary.json
+tmp_verify/**/*-restated.csv
+tmp_verify/**/*-prev.csv
+tmp_verify/**/*.html
+tmp_verify/us7/qd*.log
+tmp_verify/us7/*reg*.log
+tmp_verify/us7/fix*.log
+tmp_verify/w10/**/*.log
+tmp_verify/**/*.out
+tmp_verify/fin/r[0-9]*.log
+tmp_verify/w10/xml/
