@@ -24,7 +24,7 @@ TOP10 = [  # (기업, 티커, CIK) — us-round1-log.md 2절 기획 1팀 선정,
     ("Meta Platforms", "META", "0001326801"), ("Tesla", "TSLA", "0001318605"), ("Micron", "MU", "0000723125"),
     ("Eli Lilly", "LLY", "0000059478"),
 ]
-WINDOW = ["%dQ%d" % (y, q) for y in range(2019, 2027) for q in (1, 2, 3, 4) if (y, q) <= (2026, 2)]
+WINDOW = ["%dQ%d" % (y, q) for y in range(2010, 2027) for q in (1, 2, 3, 4) if (y, q) <= (2026, 2)]  # 2010~ (대표 결정 2026-09-22)
 HEAD = ["기업", "종목코드", "기간", "기준일", "항목", "값", "통화", "값구분", "출처", "검산"]
 FORMS = ("10-Q", "10-Q/A", "10-K", "10-K/A")
 REV = ["Revenues", "RevenueFromContractWithCustomerExcludingAssessedTax", "SalesRevenueNet",

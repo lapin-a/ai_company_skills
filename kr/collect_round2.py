@@ -25,7 +25,7 @@ TOP10 = [  # (기업, 종목코드, DART corp_code) — coverage-log.md 라운�
     ("삼성물산", "028260", "00149655"), ("한화에어로스페이스", "012450", "00126566"), ("두산에너빌리티", "034020", "00159616"),
     ("기아", "000270", "00106641"),
 ]
-WINDOW = ["%d.%02d" % (y, m) for y in range(2019, 2027) for m in (3, 6, 9, 12) if (y, m) <= (2026, 6)]
+WINDOW = ["%d.%02d" % (y, m) for y in range(2010, 2027) for m in (3, 6, 9, 12) if (y, m) <= (2026, 6)]  # 2010~ (대표 결정 2026-09-22)
 HEAD = ["기업", "종목코드", "기간", "기준일", "항목", "값(원)", "값구분", "출처"]
 
 
@@ -75,8 +75,18 @@ def fetch_parse(rcp, period):
 
 def first_trade_date(pkey, code):
     base = cm.URL + "?"
-    body = lambda **p: json.loads(urllib.request.urlopen(base + urllib.parse.urlencode(
-        dict(p, serviceKey=pkey, resultType="json", likeSrtnCd=code)), timeout=60).read())["response"]["body"]
+
+    def body(**p):  # 연결 끊김·시간 초과는 3회까지 다시 (cm.last_trading_day와 같은 방식, 2010 창 회귀 라운드 10·11)
+        for attempt in range(3):
+            try:
+                return json.loads(urllib.request.urlopen(base + urllib.parse.urlencode(
+                    dict(p, serviceKey=pkey, resultType="json", likeSrtnCd=code)), timeout=60).read())["response"]["body"]
+            except urllib.error.HTTPError:
+                raise
+            except Exception:
+                if attempt == 2:
+                    raise
+                time.sleep(5)
     n = int(body(numOfRows="1")["totalCount"])
     items = body(numOfRows="50", pageNo=str((n + 49) // 50))["items"]["item"]  # 최신순 정렬 → 마지막 페이지가 가장 이른 날
     return dt.datetime.strptime(min(i["basDt"] for i in items if i["srtnCd"] == code), "%Y%m%d").date()

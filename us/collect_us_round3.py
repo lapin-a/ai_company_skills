@@ -6,6 +6,8 @@ collect_us_round1(수집 본체) + collect_us_round2(원문 XBRL 보충·클래�
   그 회사만 첫 분기 라벨을 기준으로 회계분기 순서대로 연속된 달력 분기에 배정한다.
 """
 
+from datetime import date
+
 import collect_us_round1 as c
 import collect_us_round2 as r2
 
@@ -36,16 +38,28 @@ def next_label(lab):
     return "%dQ%d" % (y + 1, 1) if q == 4 else "%dQ%d" % (y, q + 1)
 
 
+def prev_label(lab):
+    y, q = int(lab[:4]), int(lab[-1])
+    return "%dQ4" % (y - 1) if q == 1 else "%dQ%d" % (y, q - 1)
+
+
 def seq_labels(ends):
-    """첫 말일은 기존 규칙, 이후는 한 분기씩 밀어서 배정.
-    최신 보고서가 최근 것인데 수집 창 마지막 분기를 못 채우면 전체를 한 분기씩 당긴다(AZO)."""
+    """마지막 말일을 기존 규칙으로 잡고, 거꾸로 이웃 말일 간격(약 91일 = 1분기)만큼 당겨 배정한다.
+    16주·12주 분기도 1분기로 센다(COST). 처음에는 첫 말일 기준으로 앞에서부터 매겼는데, 2010 창에서 앞쪽의
+    보고서 공백·겹침이 최근 라벨까지 밀어서(T·SWKS·TRGP·OKE) 마지막 말일 기준으로 바꿨다(2026-09-22).
+    최신 보고서가 최근 것인데 수집 창 마지막 분기를 못 채우면 한 분기 당긴다(AZO)."""
     ends = sorted(ends)
-    out, lab = {}, None
-    for e in ends:
-        lab = _label(e) if lab is None else next_label(lab)
-        out[e] = lab
-    if ends and ends[-1] >= "2026-04-15" and out[ends[-1]] < c.WINDOW[-1]:
-        out = {e: next_label(v) for e, v in out.items()}
+    if not ends:
+        return {}
+    lab = _label(ends[-1])
+    if ends[-1] >= "2026-04-15" and lab < c.WINDOW[-1]:
+        lab = next_label(lab)
+    out = {ends[-1]: lab}
+    for prev, cur in zip(reversed(ends[:-1]), reversed(ends[1:])):
+        gap = (date.fromisoformat(cur) - date.fromisoformat(prev)).days
+        for _ in range(max(1, round(gap / 91.3))):
+            lab = prev_label(lab)
+        out[prev] = lab
     return out
 
 
