@@ -84,17 +84,18 @@ def fix_report_dates(cik, out):
 
 
 def reports(cik):
-    """{보고기간 말일: [accn, ...] 최신 제출 먼저} — 10-Q/10-K(/A), 2018년 이후."""
+    """{보고기간 말일: [accn, ...] 최신 제출 먼저} — 10-Q/10-K(/A), 창 시작 전해 이후."""
+    since = "%d-01-01" % (int(WINDOW[0][:4]) - 1)  # 창 2019Q1 → 2018-01-01
     sub = json.loads(u.get("https://data.sec.gov/submissions/CIK%s.json" % cik, u.SEC_UA))
     pages = [sub["filings"]["recent"]]
     for f in sub["filings"].get("files", []):
-        if f["filingTo"] >= "2018-01-01":
+        if f["filingTo"] >= since:
             pages.append(json.loads(u.get("https://data.sec.gov/submissions/" + f["name"], u.SEC_UA)))
             time.sleep(0.15)
     out = {}
     for p in pages:
         for acc, form, rd, fd in zip(p["accessionNumber"], p["form"], p["reportDate"], p["filingDate"]):
-            if form in FORMS and rd >= "2018-01-01":
+            if form in FORMS and rd >= since:
                 out.setdefault(rd, []).append((fd, acc, form))
     fix_report_dates(cik, out)
     return {rd: [a for _, a, _ in sorted(v, reverse=True)] for rd, v in out.items()}, \
@@ -420,7 +421,7 @@ def fin_rows(corp, tk, cik, reps, forms, fx):
 
 
 def yahoo_series(tk):
-    t0 = int(time.mktime(date(2018, 12, 1).timetuple()))
+    t0 = int(time.mktime(date(int(WINDOW[0][:4]) - 1, 12, 1).timetuple()))  # 창 2019Q1 → 2018-12-01
     url = "https://query1.finance.yahoo.com/v8/finance/chart/%s?period1=%d&period2=%d&interval=1d&events=splits" % (
         tk, t0, int(time.time()))
     d = json.loads(u.get(url, u.WEB_UA))["chart"]["result"][0]

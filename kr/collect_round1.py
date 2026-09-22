@@ -2,9 +2,12 @@
 
 import csv
 import html
+import io
+import json
 import re
 import time
 import urllib.request
+import zipfile
 
 CORP, CODE = "삼성전자", "005930"
 # 보고기간 -> rcpNo (DART 공시검색 2019.01.01~2026.09.17 결과, coverage-log.md 참조)
@@ -36,15 +39,73 @@ def fetch(url):
         return raw.decode("cp949")
 
 
-def fs_section(rcp):
-    page = fetch(VIEW + rcp)
-    m = re.search(r"\['text'\] = \"\d+\. ?연결재무제표\";(.*?)\['text'\]", page, re.S)
+OLD_NO_CONSOL = "<!-- 옛 양식: 본문에 연결재무제표 없음 -->"  # 2010~2012 분기·반기 등 (대표 결정 2026-09-22: 비워 둔다)
+
+
+def api_doc(rcp):
+    """OpenDART 공시서류원본(document.xml) 본문 XML. 공시뷰어는 병렬 조회 때 IP를 막아서(2026-09-22) 원본 API로 바꿨다."""
+    with open(".claude/settings.local.json", encoding="utf-8") as f:
+        key = json.load(f)["env"]["DART_API_KEY"]
+    with urllib.request.urlopen("https://opendart.fss.or.kr/api/document.xml?crtfc_key=%s&rcept_no=%s" % (key, rcp),
+                                timeout=60) as r:
+        b = r.read()
+    time.sleep(0.5)
+    if not b.startswith(b"PK"):  # 오류는 zip 대신 상태 메시지로 온다
+        msg = b[:300].decode("utf-8", "replace")
+        if re.search(r"<status>020|\"020\"", msg):  # 요청 제한 초과: 계속하면 전부 미확인이 되므로 멈춘다
+            raise SystemExit("OpenDART 요청 제한 초과 — 중단: " + msg)
+        if re.search(r"<status>014", msg):  # 원본 파일 없음 (한화에어로스페이스 2026.03) → 공시뷰어로
+            return None
+        raise RuntimeError("document.xml 오류: " + msg)
+    z = zipfile.ZipFile(io.BytesIO(b))
+    raw = z.read(min(z.namelist(), key=lambda n: ("_" in n.rsplit("/", 1)[-1], len(n))))  # 본문 = 접미사 없는 파일
+    try:
+        return raw.decode("utf-8")
+    except UnicodeDecodeError:
+        return raw.decode("cp949")
+
+
+def xml_section(x, title_re, level):
+    """원본 XML에서 TITLE이 맞는 SECTION-level 장을 잘라, 칸 태그를 공시뷰어처럼 TD로 맞춘다."""
+    m = re.search(r"<TITLE[^>]*>\s*" + title_re + r"\s*</TITLE>", x)
+    if not m:
+        return None
+    end = x.find("</SECTION-%d>" % level, m.end())
+    body = x[m.start():end if end > 0 else len(x)]
+    return re.sub(r"<(/?)T[EU](?=[\s>])", r"<\1TD", body).replace("&cr;", " ")  # TE·TU = DART 전용 칸 태그
+
+
+def viewer_section(page, rcp, title_re):
+    """공시뷰어 목차에서 제목이 맞는 장을 받아 온다 (원본 API에 파일이 없는 보고서용)."""
+    m = re.search(r"\['text'\] = \"" + title_re + r"\";(.*?)\['text'\]", page, re.S)
     if not m:
         return None
     attrs = dict(re.findall(r"\['(\w+)'\] = +\"([^\"]*)\"", m.group(1)))
     attrs.setdefault("rcpNo", rcp)
     q = "&".join(k + "=" + attrs[k] for k in ("rcpNo", "dcmNo", "eleId", "offset", "length", "dtd"))
     return fetch("https://dart.fss.or.kr/report/viewer.do?" + q)
+
+
+def fs_section(rcp):
+    x = api_doc(rcp)
+    page = fetch(VIEW + rcp) if x is None else None
+    get = (lambda t, lv: xml_section(x, t, lv)) if page is None else (lambda t, lv: viewer_section(page, rcp, t))
+    doc = get(r"\d+\. ?연결재무제표", 2)
+    # 2014.09 이전 옛 양식: 목차에 연결재무제표 장이 없고 "XI. 재무제표 등"에 연결 → 별도 순으로 싣는다 (유한양행 2013~2014).
+    # 연결재무상태표가 없으면(2011~2012 분기: 별도만 실음) 쓰지 않는다 — 별도를 연결로 읽지 않게.
+    old = doc is None
+    if old:
+        doc = get(r"[IVX]+\. ?재무제표 등", 1)
+    if doc is None:
+        return None
+    if old:
+        if "연결재무상태표" not in re.sub(r"<[^>]+>|&nbsp;|\s", "", doc):
+            return OLD_NO_CONSOL
+        # 뒤의 별도 재무제표는 잘라낸다 (연결에 없는 표를 별도 표로 채우지 않게)
+        for t in re.finditer(r"<TABLE.*?</TABLE>", doc, re.S | re.I):
+            if re.sub(r"<[^>]+>|&nbsp;|\s", "", t.group()).startswith("재무상태표"):
+                return doc[:t.start()]
+    return doc
 
 
 def cells(row):
@@ -110,8 +171,10 @@ def statements(doc):
                         cur = key
             continue
         trs = re.findall(r"<TR.*?</TR>", t, re.S | re.I)
-        # 데이터 표 = 행 6개 이상. 금융: 기간 줄이 4개인 제목 표도 6행이라 숫자 행이 있는지도 본다 (신한지주·삼성생명 2021)
-        big = len(trs) >= 6 and (not FIN or any(len(values(cells(r))) >= 2 for r in trs))
+        # 데이터 표 = 행 6개 이상 + 숫자 행. 기간 줄이 4개인 제목 표도 6행이다 (신한지주·삼성생명 2021, 유한양행 2015.09)
+        # 비금융은 숫자 열이 하나뿐인 첫 사업연도 보고서가 있어 "숫자 있는 행 3개 이상"으로 본다 (대덕전자 2020)
+        big = len(trs) >= 6 and (any(len(values(cells(r))) >= 2 for r in trs) if FIN
+                                 else sum(bool(values(cells(r))) for r in trs) >= 3)
         if not cur and not out and big:
             # 재무상태표 제목이 "연결재무제표"로만 적힌 보고서 (삼성E&A 2023.09): 첫 데이터 표에
             # 자산·부채 총계 행이 있으면 재무상태표로 본다. 재무상태표는 항상 첫 표다.
@@ -138,7 +201,8 @@ def statements(doc):
         txt = re.sub(r"<[^>]+>|&nbsp;|[\s　]", "", t)
         if not big:
             for key, name in (("BS", "재무상태표"), ("IS", "손익계산서"), ("CI", "포괄손익계산서"), ("CF", "현금흐름표")):
-                if "연결" + name in txt:
+                # 원본 XML은 제목 표에 "연결" 없이 "손익계산서…"로만 적힌 보고서가 있다 (LG 2023.09). 이미 연결 장만 잘라온 문서다.
+                if "연결" + name in txt or txt.startswith(name):
                     cur = key
             u = re.search(r"단위:(원|천원|백만원)", txt)
             if u:
@@ -278,9 +342,12 @@ def pick_parent_ni(stmt, col):
 
 
 def parse(doc):
+    if doc == OLD_NO_CONSOL:
+        return {"no_consol": "old"}
     txt_only = re.sub(r"<[^>]+>|&nbsp;", " ", doc or "")
     # "해당사항 없습니다" 외에 "연결대상 종속회사가 없어 연결재무제표를 작성하지 않습니다"도 같은 경우다 (LIG 2019)
-    if (re.search(r"해당\s*사항\s*이?\s*없", txt_only) or re.search(r"연결재무제표를?\s*작성하지\s*않", txt_only)) \
+    # "해당없음"도 같다 (한전기술 2018.03)
+    if (re.search(r"해당\s*(?:사항\s*이?\s*)?없", txt_only) or re.search(r"연결재무제표를?\s*작성하지\s*않", txt_only)) \
             and not re.search(r"<TABLE", doc or "", re.I):
         return {"no_consol": True}  # "2. 연결재무제표 → 해당사항 없습니다" (연결 대상 자체가 없는 기간)
     st = statements(doc)
@@ -348,8 +415,10 @@ def build_fin_rows(corp, code, reports, data, window):
         q = int(mm) // 3
         base = [corp, code, "%sQ%d" % (y, q), "%s-%s" % (y, QEND[q])]
         if period in reports and data.get(period, {}).get("no_consol"):
+            label = ("데이터 없음(보고서에 연결재무제표 없음)", "데이터 없음(연결 미수록)") \
+                if data[period]["no_consol"] == "old" else ("데이터 없음(연결재무제표 미해당)", "데이터 없음(연결 미해당)")
             for item, _ in FIN_ITEMS + FLOW_ITEMS + [("분기별 영업활동현금흐름", ""), ("분기말 지배지분 자본", "")]:
-                out.append(base + [item, "데이터 없음(연결재무제표 미해당)", "데이터 없음(연결 미해당)", VIEW + reports[period]])
+                out.append(base + [item, *label, VIEW + reports[period]])
             continue
         if period not in reports:
             label = "데이터 없음(최초 보고기간 이전)" if first is None or period < first else "미확인"

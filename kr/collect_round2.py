@@ -38,7 +38,7 @@ def pick_reports(dkey, corp_code):
     """{"YYYY.MM": rcept_no} — 창 안 분기말 보고서만, 기간별 최신 접수본, 첨부정정 제외."""
     got, page = [], 1
     while True:
-        q = urllib.parse.urlencode({"crtfc_key": dkey, "corp_code": corp_code, "bgn_de": "20190101", "end_de": "20260918",
+        q = urllib.parse.urlencode({"crtfc_key": dkey, "corp_code": corp_code, "bgn_de": WINDOW[0][:4] + "0101", "end_de": "20260918",
                                     "pblntf_ty": "A", "page_no": page, "page_count": 100})
         d = json.loads(urllib.request.urlopen("https://opendart.fss.or.kr/api/list.json?" + q, timeout=60).read())
         time.sleep(0.3)
