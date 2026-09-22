@@ -1,0 +1,727 @@
+﻿기업,종목코드,기간,기준일,항목,값,통화,값구분,출처,검산,라운드
+Cooper Companies,COO,2010Q1,2010-04-30,분기별 매출액,289271000,USD,공시(후속 보고서 비교기간),https://www.sec.gov/Archives/edgar/data/711404/000119312511158432/,SalesRevenueNet ; 그 분기 보고서에 연결 총계가 없어 2011-06-03 제출본의 비교기간에서 읽었다,30
+Cooper Companies,COO,2010Q1,2010-04-30,분기별 영업이익,39034000,USD,공시(후속 보고서 비교기간),https://www.sec.gov/Archives/edgar/data/711404/000119312511158432/,OperatingIncomeLoss ; 그 분기 보고서에 연결 총계가 없어 2011-06-03 제출본의 비교기간에서 읽었다,30
+Cooper Companies,COO,2010Q1,2010-04-30,분기별 당기순이익(지배),4456000,USD,공시(후속 보고서 비교기간),https://www.sec.gov/Archives/edgar/data/711404/000119312511158432/,NetIncomeLoss ; 그 분기 보고서에 연결 총계가 없어 2011-06-03 제출본의 비교기간에서 읽었다,30
+Cooper Companies,COO,2010Q1,2010-04-30,분기별 영업활동현금흐름,미확인,USD,미확인,https://www.sec.gov/Archives/edgar/data/711404/000119312510132993/,,30
+Cooper Companies,COO,2010Q1,2010-04-30,분기말 자산총계,미확인,USD,미확인,https://www.sec.gov/Archives/edgar/data/711404/000119312510132993/,,30
+Cooper Companies,COO,2010Q1,2010-04-30,분기말 부채총계,미확인,USD,미확인,https://www.sec.gov/Archives/edgar/data/711404/000119312510132993/,,30
+Cooper Companies,COO,2010Q1,2010-04-30,분기말 총자본(자기자본),미확인,USD,미확인,https://www.sec.gov/Archives/edgar/data/711404/000119312510132993/,,30
+Cooper Companies,COO,2010Q1,2010-04-30,분기말 지배지분 자본,미확인,USD,미확인,https://www.sec.gov/Archives/edgar/data/711404/000119312510132993/,,30
+Cooper Companies,COO,2010Q1,2010-04-30,분기말 종가,38.89,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/COO?interval=1d&events=splits (2010-04-30),분할조정 종가 9.7225 × 이후 분할계수 4,30
+Cooper Companies,COO,2010Q1,2010-04-30,분기말 상장주식수,미확인,,미확인,SEC companyfacts·XBRL 원문 모두 dei 표지 주식수 없음,,30
+Cooper Companies,COO,2010Q1,2010-04-30,분기말 시가총액,미확인,,미확인,SEC companyfacts·XBRL 원문 모두 dei 표지 주식수 없음,,30
+Cooper Companies,COO,2010Q2,2010-07-31,분기별 매출액,295635000,USD,공시,https://www.sec.gov/Archives/edgar/data/711404/000119312510204827/,,30
+Cooper Companies,COO,2010Q2,2010-07-31,분기별 영업이익,51396000,USD,공시,https://www.sec.gov/Archives/edgar/data/711404/000119312510204827/,,30
+Cooper Companies,COO,2010Q2,2010-07-31,분기별 당기순이익(지배),39727000,USD,공시,https://www.sec.gov/Archives/edgar/data/711404/000119312510204827/,,30
+Cooper Companies,COO,2010Q2,2010-07-31,분기별 영업활동현금흐름,데이터 없음(직전 분기 누적 보고서 없음),USD,데이터 없음(직전 보고서 없음),https://www.sec.gov/Archives/edgar/data/711404/000119312510204827/,,30
+Cooper Companies,COO,2010Q2,2010-07-31,분기말 자산총계,2503040000,USD,공시,https://www.sec.gov/Archives/edgar/data/711404/000119312510204827/,,30
+Cooper Companies,COO,2010Q2,2010-07-31,분기말 부채총계,908929000,USD,공시,https://www.sec.gov/Archives/edgar/data/711404/000119312510204827/,,30
+Cooper Companies,COO,2010Q2,2010-07-31,분기말 총자본(자기자본),1594111000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/711404/000119312510204827/,"StockholdersEquity, MinorityInterest 태그 없음",30
+Cooper Companies,COO,2010Q2,2010-07-31,분기말 지배지분 자본,1594111000,USD,공시,https://www.sec.gov/Archives/edgar/data/711404/000119312510204827/,,30
+Cooper Companies,COO,2010Q2,2010-07-30,분기말 종가,38.86,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/COO?interval=1d&events=splits (2010-07-30),분할조정 종가 9.715 × 이후 분할계수 4,30
+Cooper Companies,COO,2010Q2,2010-08-31,분기말 상장주식수,45663989,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/711404/000119312510204827/,dei:EntityCommonStockSharesOutstanding 클래스 합,30
+Cooper Companies,COO,2010Q2,2010-07-30,분기말 시가총액,1774502613,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/COO?interval=1d&events=splits (2010-07-30) ; https://www.sec.gov/Archives/edgar/data/711404/000119312510204827/,종가 38.86 × 주식수 45663989,30
+Cooper Companies,COO,2010Q3,2010-10-31,분기별 매출액,313352000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/711404/000119312510283357/ ; https://www.sec.gov/Archives/edgar/data/711404/000119312510204827/,연간 1158517000 − 9개월누적 845165000 (SalesRevenueNet),30
+Cooper Companies,COO,2010Q3,2010-10-31,분기별 영업이익,62504000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/711404/000119312510283357/ ; https://www.sec.gov/Archives/edgar/data/711404/000119312510204827/,연간 189912000 − 9개월누적 127408000 (OperatingIncomeLoss),30
+Cooper Companies,COO,2010Q3,2010-10-31,분기별 당기순이익(지배),48198000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/711404/000119312510283357/ ; https://www.sec.gov/Archives/edgar/data/711404/000119312510204827/,연간 112803000 − 9개월누적 64605000 (NetIncomeLoss),30
+Cooper Companies,COO,2010Q3,2010-10-31,분기별 영업활동현금흐름,64610000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/711404/000119312510283357/ ; https://www.sec.gov/Archives/edgar/data/711404/000119312510204827/,누적 267663000 − 직전누적 203053000 (시작 2009-11-01),30
+Cooper Companies,COO,2010Q3,2010-10-31,분기말 자산총계,2525018000,USD,공시,https://www.sec.gov/Archives/edgar/data/711404/000119312510283357/,,30
+Cooper Companies,COO,2010Q3,2010-10-31,분기말 부채총계,858242000,USD,공시,https://www.sec.gov/Archives/edgar/data/711404/000119312510283357/,,30
+Cooper Companies,COO,2010Q3,2010-10-31,분기말 총자본(자기자본),1666776000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/711404/000119312510283357/,"StockholdersEquity, MinorityInterest 태그 없음",30
+Cooper Companies,COO,2010Q3,2010-10-31,분기말 지배지분 자본,1666776000,USD,공시,https://www.sec.gov/Archives/edgar/data/711404/000119312510283357/,,30
+Cooper Companies,COO,2010Q3,2010-10-29,분기말 종가,49.34,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/COO?interval=1d&events=splits (2010-10-29),분할조정 종가 12.335 × 이후 분할계수 4,30
+Cooper Companies,COO,2010Q3,2010-11-30,분기말 상장주식수,45837259,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/711404/000119312510283357/,dei:EntityCommonStockSharesOutstanding 클래스 합,30
+Cooper Companies,COO,2010Q3,2010-10-29,분기말 시가총액,2261610359,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/COO?interval=1d&events=splits (2010-10-29) ; https://www.sec.gov/Archives/edgar/data/711404/000119312510283357/,종가 49.34 × 주식수 45837259,30
+Cooper Companies,COO,2010Q4,2011-01-31,분기별 매출액,293229000,USD,공시,https://www.sec.gov/Archives/edgar/data/711404/000119312511056256/,,30
+Cooper Companies,COO,2010Q4,2011-01-31,분기별 영업이익,48713000,USD,공시(재작성 반영),https://www.sec.gov/Archives/edgar/data/711404/000119312512106892/,원 공시 54793000 (https://www.sec.gov/Archives/edgar/data/711404/000119312511056256/),30
+Cooper Companies,COO,2010Q4,2011-01-31,분기별 당기순이익(지배),39215000,USD,공시(재작성 반영),https://www.sec.gov/Archives/edgar/data/711404/000071140412000011/,원 공시 45295000 (https://www.sec.gov/Archives/edgar/data/711404/000119312511056256/),30
+Cooper Companies,COO,2010Q4,2011-01-31,분기별 영업활동현금흐름,72931000,USD,공시,https://www.sec.gov/Archives/edgar/data/711404/000119312511056256/,,30
+Cooper Companies,COO,2010Q4,2011-01-31,분기말 자산총계,2571938000,USD,공시,https://www.sec.gov/Archives/edgar/data/711404/000119312511056256/,,30
+Cooper Companies,COO,2010Q4,2011-01-31,분기말 부채총계,849639000,USD,공시,https://www.sec.gov/Archives/edgar/data/711404/000119312511056256/,,30
+Cooper Companies,COO,2010Q4,2011-01-31,분기말 총자본(자기자본),1722299000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/711404/000119312511056256/,"StockholdersEquity, MinorityInterest 태그 없음",30
+Cooper Companies,COO,2010Q4,2011-01-31,분기말 지배지분 자본,1722299000,USD,공시,https://www.sec.gov/Archives/edgar/data/711404/000119312511056256/,,30
+Cooper Companies,COO,2010Q4,2011-01-31,분기말 종가,57.34,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/COO?interval=1d&events=splits (2011-01-31),분할조정 종가 14.335 × 이후 분할계수 4,30
+Cooper Companies,COO,2010Q4,2011-02-28,분기말 상장주식수,46234498,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/711404/000119312511056256/,dei:EntityCommonStockSharesOutstanding 클래스 합,30
+Cooper Companies,COO,2010Q4,2011-01-31,분기말 시가총액,2651086115,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/COO?interval=1d&events=splits (2011-01-31) ; https://www.sec.gov/Archives/edgar/data/711404/000119312511056256/,종가 57.34 × 주식수 46234498,30
+Cooper Companies,COO,2011Q1,2011-04-30,분기별 매출액,325301000,USD,공시,https://www.sec.gov/Archives/edgar/data/711404/000119312511158432/,,30
+Cooper Companies,COO,2011Q1,2011-04-30,분기별 영업이익,60256000,USD,공시,https://www.sec.gov/Archives/edgar/data/711404/000119312511158432/,,30
+Cooper Companies,COO,2011Q1,2011-04-30,분기별 당기순이익(지배),35360000,USD,공시,https://www.sec.gov/Archives/edgar/data/711404/000119312511158432/,,30
+Cooper Companies,COO,2011Q1,2011-04-30,분기별 영업활동현금흐름,64891000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/711404/000119312511158432/ ; https://www.sec.gov/Archives/edgar/data/711404/000119312511056256/,누적 137822000 − 직전누적 72931000 (시작 2010-11-01),30
+Cooper Companies,COO,2011Q1,2011-04-30,분기말 자산총계,2625192000,USD,공시,https://www.sec.gov/Archives/edgar/data/711404/000119312511158432/,,30
+Cooper Companies,COO,2011Q1,2011-04-30,분기말 부채총계,814866000,USD,공시,https://www.sec.gov/Archives/edgar/data/711404/000119312511158432/,,30
+Cooper Companies,COO,2011Q1,2011-04-30,분기말 총자본(자기자본),1810326000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/711404/000119312511158432/,"StockholdersEquity, MinorityInterest 태그 없음",30
+Cooper Companies,COO,2011Q1,2011-04-30,분기말 지배지분 자본,1810326000,USD,공시,https://www.sec.gov/Archives/edgar/data/711404/000119312511158432/,,30
+Cooper Companies,COO,2011Q1,2011-04-29,분기말 종가,74.9,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/COO?interval=1d&events=splits (2011-04-29),분할조정 종가 18.725 × 이후 분할계수 4,30
+Cooper Companies,COO,2011Q1,2011-04-30,분기말 상장주식수,46932942,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/711404/000119312511158432/,dei:EntityCommonStockSharesOutstanding 클래스 합,30
+Cooper Companies,COO,2011Q1,2011-04-29,분기말 시가총액,3515277356,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/COO?interval=1d&events=splits (2011-04-29) ; https://www.sec.gov/Archives/edgar/data/711404/000119312511158432/,종가 74.9 × 주식수 46932942,30
+Cooper Companies,COO,2011Q2,2011-07-31,분기별 매출액,351396000,USD,공시,https://www.sec.gov/Archives/edgar/data/711404/000119312511240289/,,30
+Cooper Companies,COO,2011Q2,2011-07-31,분기별 영업이익,51967000,USD,공시(재작성 반영),https://www.sec.gov/Archives/edgar/data/711404/000071140412000004/,원 공시 45887000 (https://www.sec.gov/Archives/edgar/data/711404/000119312511240289/),30
+Cooper Companies,COO,2011Q2,2011-07-31,분기별 당기순이익(지배),44217000,USD,공시(재작성 반영),https://www.sec.gov/Archives/edgar/data/711404/000071140412000011/,원 공시 38137000 (https://www.sec.gov/Archives/edgar/data/711404/000119312511240289/),30
+Cooper Companies,COO,2011Q2,2011-07-31,분기별 영업활동현금흐름,87469000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/711404/000119312511240289/ ; https://www.sec.gov/Archives/edgar/data/711404/000119312511158432/,누적 225291000 − 직전누적 137822000 (시작 2010-11-01),30
+Cooper Companies,COO,2011Q2,2011-07-31,분기말 자산총계,2615334000,USD,공시,https://www.sec.gov/Archives/edgar/data/711404/000119312511240289/,,30
+Cooper Companies,COO,2011Q2,2011-07-31,분기말 부채총계,727656000,USD,공시,https://www.sec.gov/Archives/edgar/data/711404/000119312511240289/,,30
+Cooper Companies,COO,2011Q2,2011-07-31,분기말 총자본(자기자본),1887678000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/711404/000119312511240289/,"StockholdersEquity, MinorityInterest 태그 없음",30
+Cooper Companies,COO,2011Q2,2011-07-31,분기말 지배지분 자본,1887678000,USD,공시,https://www.sec.gov/Archives/edgar/data/711404/000119312511240289/,,30
+Cooper Companies,COO,2011Q2,2011-07-29,분기말 종가,76.49,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/COO?interval=1d&events=splits (2011-07-29),분할조정 종가 19.1225 × 이후 분할계수 4,30
+Cooper Companies,COO,2011Q2,2011-07-31,분기말 상장주식수,47734532,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/711404/000119312511240289/,dei:EntityCommonStockSharesOutstanding 클래스 합,30
+Cooper Companies,COO,2011Q2,2011-07-29,분기말 시가총액,3651214353,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/COO?interval=1d&events=splits (2011-07-29) ; https://www.sec.gov/Archives/edgar/data/711404/000119312511240289/,종가 76.49 × 주식수 47734532,30
+Cooper Companies,COO,2011Q3,2011-10-31,분기별 매출액,360909000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/711404/000119312511343993/ ; https://www.sec.gov/Archives/edgar/data/711404/000119312511240289/,연간 1330835000 − 9개월누적 969926000 (SalesRevenueNet),30
+Cooper Companies,COO,2011Q3,2011-10-31,분기별 영업이익,66621000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/711404/000119312511343993/ ; https://www.sec.gov/Archives/edgar/data/711404/000119312511240289/,연간 227556000 − 9개월누적 160935000 (OperatingIncomeLoss),30
+Cooper Companies,COO,2011Q3,2011-10-31,분기별 당기순이익(지배),56638000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/711404/000119312511343993/ ; https://www.sec.gov/Archives/edgar/data/711404/000119312511240289/,연간 175430000 − 9개월누적 118792000 (NetIncomeLoss),30
+Cooper Companies,COO,2011Q3,2011-10-31,분기별 영업활동현금흐름,110990000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/711404/000119312511343993/ ; https://www.sec.gov/Archives/edgar/data/711404/000119312511240289/,누적 336281000 − 직전누적 225291000 (시작 2010-11-01),30
+Cooper Companies,COO,2011Q3,2011-10-31,분기말 자산총계,2624518000,USD,공시,https://www.sec.gov/Archives/edgar/data/711404/000119312511343993/,,30
+Cooper Companies,COO,2011Q3,2011-10-31,분기말 부채총계,687030000,USD,공시,https://www.sec.gov/Archives/edgar/data/711404/000119312511343993/,,30
+Cooper Companies,COO,2011Q3,2011-10-31,분기말 총자본(자기자본),1937488000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/711404/000119312511343993/,"StockholdersEquity, MinorityInterest 태그 없음",30
+Cooper Companies,COO,2011Q3,2011-10-31,분기말 지배지분 자본,1937488000,USD,공시,https://www.sec.gov/Archives/edgar/data/711404/000119312511343993/,,30
+Cooper Companies,COO,2011Q3,2011-10-31,분기말 종가,69.3,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/COO?interval=1d&events=splits (2011-10-31),분할조정 종가 17.325 × 이후 분할계수 4,30
+Cooper Companies,COO,2011Q3,2011-11-30,분기말 상장주식수,47846592,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/711404/000119312511343993/,dei:EntityCommonStockSharesOutstanding 클래스 합,30
+Cooper Companies,COO,2011Q3,2011-10-31,분기말 시가총액,3315768826,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/COO?interval=1d&events=splits (2011-10-31) ; https://www.sec.gov/Archives/edgar/data/711404/000119312511343993/,종가 69.3 × 주식수 47846592,30
+Cooper Companies,COO,2011Q4,2012-01-31,분기별 매출액,326060000,USD,공시,https://www.sec.gov/Archives/edgar/data/711404/000119312512106892/,,30
+Cooper Companies,COO,2011Q4,2012-01-31,분기별 영업이익,61728000,USD,공시,https://www.sec.gov/Archives/edgar/data/711404/000119312512106892/,,30
+Cooper Companies,COO,2011Q4,2012-01-31,분기별 당기순이익(지배),54623000,USD,공시,https://www.sec.gov/Archives/edgar/data/711404/000119312512106892/,,30
+Cooper Companies,COO,2011Q4,2012-01-31,분기별 영업활동현금흐름,41550000,USD,공시,https://www.sec.gov/Archives/edgar/data/711404/000119312512106892/,,30
+Cooper Companies,COO,2011Q4,2012-01-31,분기말 자산총계,2599267000,USD,공시,https://www.sec.gov/Archives/edgar/data/711404/000119312512106892/,,30
+Cooper Companies,COO,2011Q4,2012-01-31,분기말 부채총계,661910000,USD,공시,https://www.sec.gov/Archives/edgar/data/711404/000119312512106892/,,30
+Cooper Companies,COO,2011Q4,2012-01-31,분기말 총자본(자기자본),1937357000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/711404/000119312512106892/,"StockholdersEquity, MinorityInterest 태그 없음",30
+Cooper Companies,COO,2011Q4,2012-01-31,분기말 지배지분 자본,1937357000,USD,공시,https://www.sec.gov/Archives/edgar/data/711404/000119312512106892/,,30
+Cooper Companies,COO,2011Q4,2012-01-31,분기말 종가,72.14,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/COO?interval=1d&events=splits (2012-01-31),분할조정 종가 18.035 × 이후 분할계수 4,30
+Cooper Companies,COO,2011Q4,2012-01-31,분기말 상장주식수,47355596,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/711404/000119312512106892/,dei:EntityCommonStockSharesOutstanding 클래스 합,30
+Cooper Companies,COO,2011Q4,2012-01-31,분기말 시가총액,3416232695,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/COO?interval=1d&events=splits (2012-01-31) ; https://www.sec.gov/Archives/edgar/data/711404/000119312512106892/,종가 72.14 × 주식수 47355596,30
+Cooper Companies,COO,2012Q1,2012-04-30,분기별 매출액,344589000,USD,공시,https://www.sec.gov/Archives/edgar/data/711404/000119312512265149/,,30
+Cooper Companies,COO,2012Q1,2012-04-30,분기별 영업이익,65440000,USD,공시,https://www.sec.gov/Archives/edgar/data/711404/000119312512265149/,,30
+Cooper Companies,COO,2012Q1,2012-04-30,분기별 당기순이익(지배),54921000,USD,공시,https://www.sec.gov/Archives/edgar/data/711404/000119312512265149/,,30
+Cooper Companies,COO,2012Q1,2012-04-30,분기별 영업활동현금흐름,80641000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/711404/000119312512265149/ ; https://www.sec.gov/Archives/edgar/data/711404/000119312512106892/,누적 122191000 − 직전누적 41550000 (시작 2011-11-01),30
+Cooper Companies,COO,2012Q1,2012-04-30,분기말 자산총계,2628561000,USD,공시,https://www.sec.gov/Archives/edgar/data/711404/000119312512265149/,,30
+Cooper Companies,COO,2012Q1,2012-04-30,분기말 부채총계,590605000,USD,공시,https://www.sec.gov/Archives/edgar/data/711404/000119312512265149/,,30
+Cooper Companies,COO,2012Q1,2012-04-30,분기말 총자본(자기자본),2037956000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/711404/000119312512265149/,"StockholdersEquity, MinorityInterest 태그 없음",30
+Cooper Companies,COO,2012Q1,2012-04-30,분기말 지배지분 자본,2037956000,USD,공시,https://www.sec.gov/Archives/edgar/data/711404/000119312512265149/,,30
+Cooper Companies,COO,2012Q1,2012-04-30,분기말 종가,88.17,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/COO?interval=1d&events=splits (2012-04-30),분할조정 종가 22.0425 × 이후 분할계수 4,30
+Cooper Companies,COO,2012Q1,2012-04-30,분기말 상장주식수,48140727,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/711404/000119312512265149/,dei:EntityCommonStockSharesOutstanding 클래스 합,30
+Cooper Companies,COO,2012Q1,2012-04-30,분기말 시가총액,4244567900,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/COO?interval=1d&events=splits (2012-04-30) ; https://www.sec.gov/Archives/edgar/data/711404/000119312512265149/,종가 88.17 × 주식수 48140727,30
+Cooper Companies,COO,2012Q2,2012-07-31,분기별 매출액,378186000,USD,공시,https://www.sec.gov/Archives/edgar/data/711404/000071140412000004/,,30
+Cooper Companies,COO,2012Q2,2012-07-31,분기별 영업이익,77250000,USD,공시,https://www.sec.gov/Archives/edgar/data/711404/000071140412000004/,,30
+Cooper Companies,COO,2012Q2,2012-07-31,분기별 당기순이익(지배),66875000,USD,공시,https://www.sec.gov/Archives/edgar/data/711404/000071140412000004/,,30
+Cooper Companies,COO,2012Q2,2012-07-31,분기별 영업활동현금흐름,78113000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/711404/000071140412000004/ ; https://www.sec.gov/Archives/edgar/data/711404/000119312512265149/,누적 200304000 − 직전누적 122191000 (시작 2011-11-01),30
+Cooper Companies,COO,2012Q2,2012-07-31,분기말 자산총계,2883918000,USD,공시,https://www.sec.gov/Archives/edgar/data/711404/000071140412000004/,,30
+Cooper Companies,COO,2012Q2,2012-07-31,분기말 부채총계,787272000,USD,공시,https://www.sec.gov/Archives/edgar/data/711404/000071140412000004/,,30
+Cooper Companies,COO,2012Q2,2012-07-31,분기말 총자본(자기자본),미확인,USD,미확인,https://www.sec.gov/Archives/edgar/data/711404/000071140412000004/,자체 검증 실패: 총자본 2096646000 ≠ 지배 2096646000 + 비지배 22178000,30
+Cooper Companies,COO,2012Q2,2012-07-31,분기말 지배지분 자본,미확인,USD,미확인,https://www.sec.gov/Archives/edgar/data/711404/000071140412000004/,자체 검증 실패: 총자본 2096646000 ≠ 지배 2096646000 + 비지배 22178000,30
+Cooper Companies,COO,2012Q2,2012-07-31,분기말 종가,75.26,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/COO?interval=1d&events=splits (2012-07-31),분할조정 종가 18.815 × 이후 분할계수 4,30
+Cooper Companies,COO,2012Q2,2012-07-31,분기말 상장주식수,47893053,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/711404/000071140412000004/,dei:EntityCommonStockSharesOutstanding 클래스 합,30
+Cooper Companies,COO,2012Q2,2012-07-31,분기말 시가총액,3604431169,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/COO?interval=1d&events=splits (2012-07-31) ; https://www.sec.gov/Archives/edgar/data/711404/000071140412000004/,종가 75.26 × 주식수 47893053,30
+Cooper Companies,COO,2012Q3,2012-10-31,분기별 매출액,396301000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/711404/000071140412000011/ ; https://www.sec.gov/Archives/edgar/data/711404/000071140412000004/,연간 1445136000 − 9개월누적 1048835000 (SalesRevenueNet),30
+Cooper Companies,COO,2012Q3,2012-10-31,분기별 영업이익,78980000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/711404/000071140412000011/ ; https://www.sec.gov/Archives/edgar/data/711404/000071140412000004/,연간 283398000 − 9개월누적 204418000 (OperatingIncomeLoss),30
+Cooper Companies,COO,2012Q3,2012-10-31,분기별 당기순이익(지배),71920000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/711404/000071140412000011/ ; https://www.sec.gov/Archives/edgar/data/711404/000071140412000004/,연간 248339000 − 9개월누적 176419000 (NetIncomeLoss),30
+Cooper Companies,COO,2012Q3,2012-10-31,분기별 영업활동현금흐름,114817000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/711404/000071140412000011/ ; https://www.sec.gov/Archives/edgar/data/711404/000071140412000004/,누적 315121000 − 직전누적 200304000 (시작 2011-11-01),30
+Cooper Companies,COO,2012Q3,2012-10-31,분기말 자산총계,2941384000,USD,공시,https://www.sec.gov/Archives/edgar/data/711404/000071140412000011/,,30
+Cooper Companies,COO,2012Q3,2012-10-31,분기말 부채총계,728226000,USD,공시,https://www.sec.gov/Archives/edgar/data/711404/000071140412000011/,,30
+Cooper Companies,COO,2012Q3,2012-10-31,분기말 총자본(자기자본),2213158000,USD,공시,https://www.sec.gov/Archives/edgar/data/711404/000071140412000011/,,30
+Cooper Companies,COO,2012Q3,2012-10-31,분기말 지배지분 자본,2192751000,USD,공시,https://www.sec.gov/Archives/edgar/data/711404/000071140412000011/,,30
+Cooper Companies,COO,2012Q3,2012-10-31,분기말 종가,95.98,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/COO?interval=1d&events=splits (2012-10-31),분할조정 종가 23.995 × 이후 분할계수 4,30
+Cooper Companies,COO,2012Q3,2012-11-30,분기말 상장주식수,48485631,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/711404/000071140412000011/,dei:EntityCommonStockSharesOutstanding 클래스 합,30
+Cooper Companies,COO,2012Q3,2012-10-31,분기말 시가총액,4653650863,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/COO?interval=1d&events=splits (2012-10-31) ; https://www.sec.gov/Archives/edgar/data/711404/000071140412000011/,종가 95.98 × 주식수 48485631,30
+Cooper Companies,COO,2012Q4,2013-01-31,분기별 매출액,379839000,USD,공시,https://www.sec.gov/Archives/edgar/data/711404/000071140413000003/,,30
+Cooper Companies,COO,2012Q4,2013-01-31,분기별 영업이익,68821000,USD,공시,https://www.sec.gov/Archives/edgar/data/711404/000071140413000003/,,30
+Cooper Companies,COO,2012Q4,2013-01-31,분기별 당기순이익(지배),74667000,USD,공시,https://www.sec.gov/Archives/edgar/data/711404/000071140413000003/,,30
+Cooper Companies,COO,2012Q4,2013-01-31,분기별 영업활동현금흐름,47623000,USD,공시,https://www.sec.gov/Archives/edgar/data/711404/000071140413000003/,,30
+Cooper Companies,COO,2012Q4,2013-01-31,분기말 자산총계,2969544000,USD,공시,https://www.sec.gov/Archives/edgar/data/711404/000071140413000003/,,30
+Cooper Companies,COO,2012Q4,2013-01-31,분기말 부채총계,719996000,USD,공시,https://www.sec.gov/Archives/edgar/data/711404/000071140413000003/,,30
+Cooper Companies,COO,2012Q4,2013-01-31,분기말 총자본(자기자본),2249548000,USD,공시,https://www.sec.gov/Archives/edgar/data/711404/000071140413000003/,,30
+Cooper Companies,COO,2012Q4,2013-01-31,분기말 지배지분 자본,2232062000,USD,공시,https://www.sec.gov/Archives/edgar/data/711404/000071140413000003/,,30
+Cooper Companies,COO,2012Q4,2013-01-31,분기말 종가,101.35,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/COO?interval=1d&events=splits (2013-01-31),분할조정 종가 25.3375 × 이후 분할계수 4,30
+Cooper Companies,COO,2012Q4,2013-01-31,분기말 상장주식수,48315571,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/711404/000071140413000003/,dei:EntityCommonStockSharesOutstanding 클래스 합,30
+Cooper Companies,COO,2012Q4,2013-01-31,분기말 시가총액,4896783121,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/COO?interval=1d&events=splits (2013-01-31) ; https://www.sec.gov/Archives/edgar/data/711404/000071140413000003/,종가 101.35 × 주식수 48315571,30
+Cooper Companies,COO,2013Q1,2013-04-30,분기별 매출액,384041000,USD,공시,https://www.sec.gov/Archives/edgar/data/711404/000071140413000006/,,30
+Cooper Companies,COO,2013Q1,2013-04-30,분기별 영업이익,81473000,USD,공시,https://www.sec.gov/Archives/edgar/data/711404/000071140413000006/,,30
+Cooper Companies,COO,2013Q1,2013-04-30,분기별 당기순이익(지배),75136000,USD,공시,https://www.sec.gov/Archives/edgar/data/711404/000071140413000006/,,30
+Cooper Companies,COO,2013Q1,2013-04-30,분기별 영업활동현금흐름,114903000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/711404/000071140413000006/ ; https://www.sec.gov/Archives/edgar/data/711404/000071140413000003/,누적 162526000 − 직전누적 47623000 (시작 2012-11-01),30
+Cooper Companies,COO,2013Q1,2013-04-30,분기말 자산총계,2966732000,USD,공시,https://www.sec.gov/Archives/edgar/data/711404/000071140413000006/,,30
+Cooper Companies,COO,2013Q1,2013-04-30,분기말 부채총계,630236000,USD,공시,https://www.sec.gov/Archives/edgar/data/711404/000071140413000006/,,30
+Cooper Companies,COO,2013Q1,2013-04-30,분기말 총자본(자기자본),2336496000,USD,공시,https://www.sec.gov/Archives/edgar/data/711404/000071140413000006/,,30
+Cooper Companies,COO,2013Q1,2013-04-30,분기말 지배지분 자본,2314197000,USD,공시,https://www.sec.gov/Archives/edgar/data/711404/000071140413000006/,,30
+Cooper Companies,COO,2013Q1,2013-04-30,분기말 종가,110.4,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/COO?interval=1d&events=splits (2013-04-30),분할조정 종가 27.6 × 이후 분할계수 4,30
+Cooper Companies,COO,2013Q1,2013-04-30,분기말 상장주식수,48656133,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/711404/000071140413000006/,dei:EntityCommonStockSharesOutstanding 클래스 합,30
+Cooper Companies,COO,2013Q1,2013-04-30,분기말 시가총액,5371637083,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/COO?interval=1d&events=splits (2013-04-30) ; https://www.sec.gov/Archives/edgar/data/711404/000071140413000006/,종가 110.4 × 주식수 48656133,30
+Cooper Companies,COO,2013Q2,2013-07-31,분기별 매출액,411993000,USD,공시,https://www.sec.gov/Archives/edgar/data/711404/000071140413000008/,,30
+Cooper Companies,COO,2013Q2,2013-07-31,분기별 영업이익,93608000,USD,공시,https://www.sec.gov/Archives/edgar/data/711404/000071140413000008/,,30
+Cooper Companies,COO,2013Q2,2013-07-31,분기별 당기순이익(지배),88951000,USD,공시,https://www.sec.gov/Archives/edgar/data/711404/000071140413000008/,,30
+Cooper Companies,COO,2013Q2,2013-07-31,분기별 영업활동현금흐름,103058000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/711404/000071140413000008/ ; https://www.sec.gov/Archives/edgar/data/711404/000071140413000006/,누적 265584000 − 직전누적 162526000 (시작 2012-11-01),30
+Cooper Companies,COO,2013Q2,2013-07-31,분기말 자산총계,3006908000,USD,공시,https://www.sec.gov/Archives/edgar/data/711404/000071140413000008/,,30
+Cooper Companies,COO,2013Q2,2013-07-31,분기말 부채총계,569266000,USD,공시,https://www.sec.gov/Archives/edgar/data/711404/000071140413000008/,,30
+Cooper Companies,COO,2013Q2,2013-07-31,분기말 총자본(자기자본),2437642000,USD,공시,https://www.sec.gov/Archives/edgar/data/711404/000071140413000008/,,30
+Cooper Companies,COO,2013Q2,2013-07-31,분기말 지배지분 자본,2415522000,USD,공시,https://www.sec.gov/Archives/edgar/data/711404/000071140413000008/,,30
+Cooper Companies,COO,2013Q2,2013-07-31,분기말 종가,127.35,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/COO?interval=1d&events=splits (2013-07-31),분할조정 종가 31.8375 × 이후 분할계수 4,30
+Cooper Companies,COO,2013Q2,2013-07-31,분기말 상장주식수,48947845,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/711404/000071140413000008/,dei:EntityCommonStockSharesOutstanding 클래스 합,30
+Cooper Companies,COO,2013Q2,2013-07-31,분기말 시가총액,6233508061,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/COO?interval=1d&events=splits (2013-07-31) ; https://www.sec.gov/Archives/edgar/data/711404/000071140413000008/,종가 127.35 × 주식수 48947845,30
+Cooper Companies,COO,2013Q3,2013-10-31,분기별 매출액,411852000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/711404/000071140413000012/ ; https://www.sec.gov/Archives/edgar/data/711404/000071140413000008/,연간 1587725000 − 9개월누적 1175873000 (SalesRevenueNet),30
+Cooper Companies,COO,2013Q3,2013-10-31,분기별 영업이익,62043000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/711404/000071140413000012/ ; https://www.sec.gov/Archives/edgar/data/711404/000071140413000008/,연간 305945000 − 9개월누적 243902000 (OperatingIncomeLoss),30
+Cooper Companies,COO,2013Q3,2013-10-31,분기별 당기순이익(지배),57397000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/711404/000071140413000012/ ; https://www.sec.gov/Archives/edgar/data/711404/000071140413000008/,연간 296151000 − 9개월누적 238754000 (NetIncomeLoss),30
+Cooper Companies,COO,2013Q3,2013-10-31,분기별 영업활동현금흐름,150341000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/711404/000071140413000012/ ; https://www.sec.gov/Archives/edgar/data/711404/000071140413000008/,누적 415925000 − 직전누적 265584000 (시작 2012-11-01),30
+Cooper Companies,COO,2013Q3,2013-10-31,분기말 자산총계,3137261000,USD,공시,https://www.sec.gov/Archives/edgar/data/711404/000071140413000012/,,30
+Cooper Companies,COO,2013Q3,2013-10-31,분기말 부채총계,713767000,USD,공시,https://www.sec.gov/Archives/edgar/data/711404/000071140413000012/,,30
+Cooper Companies,COO,2013Q3,2013-10-31,분기말 총자본(자기자본),2423494000,USD,공시,https://www.sec.gov/Archives/edgar/data/711404/000071140413000012/,,30
+Cooper Companies,COO,2013Q3,2013-10-31,분기말 지배지분 자본,2404535000,USD,공시,https://www.sec.gov/Archives/edgar/data/711404/000071140413000012/,,30
+Cooper Companies,COO,2013Q3,2013-10-31,분기말 종가,129.21,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/COO?interval=1d&events=splits (2013-10-31),분할조정 종가 32.3025 × 이후 분할계수 4,30
+Cooper Companies,COO,2013Q3,2013-11-30,분기말 상장주식수,48000571,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/711404/000071140413000012/,dei:EntityCommonStockSharesOutstanding 클래스 합,30
+Cooper Companies,COO,2013Q3,2013-10-31,분기말 시가총액,6202153779,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/COO?interval=1d&events=splits (2013-10-31) ; https://www.sec.gov/Archives/edgar/data/711404/000071140413000012/,종가 129.21 × 주식수 48000571,30
+Cooper Companies,COO,2013Q4,2014-01-31,분기별 매출액,404980000,USD,공시,https://www.sec.gov/Archives/edgar/data/711404/000071140414000004/,,30
+Cooper Companies,COO,2013Q4,2014-01-31,분기별 영업이익,81622000,USD,공시,https://www.sec.gov/Archives/edgar/data/711404/000071140414000004/,,30
+Cooper Companies,COO,2013Q4,2014-01-31,분기별 당기순이익(지배),71843000,USD,공시,https://www.sec.gov/Archives/edgar/data/711404/000071140414000004/,,30
+Cooper Companies,COO,2013Q4,2014-01-31,분기별 영업활동현금흐름,68574000,USD,공시,https://www.sec.gov/Archives/edgar/data/711404/000071140414000004/,,30
+Cooper Companies,COO,2013Q4,2014-01-31,분기말 자산총계,3114755000,USD,공시,https://www.sec.gov/Archives/edgar/data/711404/000071140414000004/,,30
+Cooper Companies,COO,2013Q4,2014-01-31,분기말 부채총계,660846000,USD,공시,https://www.sec.gov/Archives/edgar/data/711404/000071140414000004/,,30
+Cooper Companies,COO,2013Q4,2014-01-31,분기말 총자본(자기자본),2453909000,USD,공시,https://www.sec.gov/Archives/edgar/data/711404/000071140414000004/,,30
+Cooper Companies,COO,2013Q4,2014-01-31,분기말 지배지분 자본,2435279000,USD,공시,https://www.sec.gov/Archives/edgar/data/711404/000071140414000004/,,30
+Cooper Companies,COO,2013Q4,2014-01-31,분기말 종가,124.28,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/COO?interval=1d&events=splits (2014-01-31),분할조정 종가 31.07 × 이후 분할계수 4,30
+Cooper Companies,COO,2013Q4,2014-01-31,분기말 상장주식수,47858123,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/711404/000071140414000004/,dei:EntityCommonStockSharesOutstanding 클래스 합,30
+Cooper Companies,COO,2013Q4,2014-01-31,분기말 시가총액,5947807526,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/COO?interval=1d&events=splits (2014-01-31) ; https://www.sec.gov/Archives/edgar/data/711404/000071140414000004/,종가 124.28 × 주식수 47858123,30
+Cooper Companies,COO,2014Q1,2014-04-30,분기별 매출액,412317000,USD,공시,https://www.sec.gov/Archives/edgar/data/711404/000071140414000009/,,30
+Cooper Companies,COO,2014Q1,2014-04-30,분기별 영업이익,88924000,USD,공시,https://www.sec.gov/Archives/edgar/data/711404/000071140414000009/,,30
+Cooper Companies,COO,2014Q1,2014-04-30,분기별 당기순이익(지배),79160000,USD,공시,https://www.sec.gov/Archives/edgar/data/711404/000071140414000009/,,30
+Cooper Companies,COO,2014Q1,2014-04-30,분기별 영업활동현금흐름,126332000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/711404/000071140414000009/ ; https://www.sec.gov/Archives/edgar/data/711404/000071140414000004/,누적 194906000 − 직전누적 68574000 (시작 2013-11-01),30
+Cooper Companies,COO,2014Q1,2014-04-30,분기말 자산총계,3221982000,USD,공시,https://www.sec.gov/Archives/edgar/data/711404/000071140414000009/,,30
+Cooper Companies,COO,2014Q1,2014-04-30,분기말 부채총계,659902000,USD,공시,https://www.sec.gov/Archives/edgar/data/711404/000071140414000009/,,30
+Cooper Companies,COO,2014Q1,2014-04-30,분기말 총자본(자기자본),2562080000,USD,공시,https://www.sec.gov/Archives/edgar/data/711404/000071140414000009/,,30
+Cooper Companies,COO,2014Q1,2014-04-30,분기말 지배지분 자본,2543351000,USD,공시,https://www.sec.gov/Archives/edgar/data/711404/000071140414000009/,,30
+Cooper Companies,COO,2014Q1,2014-04-30,분기말 종가,131.91,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/COO?interval=1d&events=splits (2014-04-30),분할조정 종가 32.9775 × 이후 분할계수 4,30
+Cooper Companies,COO,2014Q1,2014-04-30,분기말 상장주식수,47938672,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/711404/000071140414000009/,dei:EntityCommonStockSharesOutstanding 클래스 합,30
+Cooper Companies,COO,2014Q1,2014-04-30,분기말 시가총액,6323590224,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/COO?interval=1d&events=splits (2014-04-30) ; https://www.sec.gov/Archives/edgar/data/711404/000071140414000009/,종가 131.91 × 주식수 47938672,30
+Cooper Companies,COO,2014Q2,2014-07-31,분기별 매출액,432482000,USD,공시,https://www.sec.gov/Archives/edgar/data/711404/000071140414000013/,,30
+Cooper Companies,COO,2014Q2,2014-07-31,분기별 영업이익,96565000,USD,공시,https://www.sec.gov/Archives/edgar/data/711404/000071140414000013/,,30
+Cooper Companies,COO,2014Q2,2014-07-31,분기별 당기순이익(지배),88067000,USD,공시,https://www.sec.gov/Archives/edgar/data/711404/000071140414000013/,,30
+Cooper Companies,COO,2014Q2,2014-07-31,분기별 영업활동현금흐름,107861000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/711404/000071140414000013/ ; https://www.sec.gov/Archives/edgar/data/711404/000071140414000009/,누적 302767000 − 직전누적 194906000 (시작 2013-11-01),30
+Cooper Companies,COO,2014Q2,2014-07-31,분기말 자산총계,3367374000,USD,공시,https://www.sec.gov/Archives/edgar/data/711404/000071140414000013/,,30
+Cooper Companies,COO,2014Q2,2014-07-31,분기말 부채총계,691097000,USD,공시,https://www.sec.gov/Archives/edgar/data/711404/000071140414000013/,,30
+Cooper Companies,COO,2014Q2,2014-07-31,분기말 총자본(자기자본),2676277000,USD,공시,https://www.sec.gov/Archives/edgar/data/711404/000071140414000013/,,30
+Cooper Companies,COO,2014Q2,2014-07-31,분기말 지배지분 자본,2657073000,USD,공시,https://www.sec.gov/Archives/edgar/data/711404/000071140414000013/,,30
+Cooper Companies,COO,2014Q2,2014-07-31,분기말 종가,160.88,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/COO?interval=1d&events=splits (2014-07-31),분할조정 종가 40.22 × 이후 분할계수 4,30
+Cooper Companies,COO,2014Q2,2014-07-31,분기말 상장주식수,48282203,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/711404/000071140414000013/,dei:EntityCommonStockSharesOutstanding 클래스 합,30
+Cooper Companies,COO,2014Q2,2014-07-31,분기말 시가총액,7767640819,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/COO?interval=1d&events=splits (2014-07-31) ; https://www.sec.gov/Archives/edgar/data/711404/000071140414000013/,종가 160.88 × 주식수 48282203,30
+Cooper Companies,COO,2014Q3,2014-10-31,분기별 매출액,467997000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/711404/000071140414000017/ ; https://www.sec.gov/Archives/edgar/data/711404/000071140414000013/,연간 1717776000 − 9개월누적 1249779000 (SalesRevenueNet),30
+Cooper Companies,COO,2014Q3,2014-10-31,분기별 영업이익,39375000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/711404/000071140414000017/ ; https://www.sec.gov/Archives/edgar/data/711404/000071140414000013/,연간 306486000 − 9개월누적 267111000 (OperatingIncomeLoss),30
+Cooper Companies,COO,2014Q3,2014-10-31,분기별 당기순이익(지배),30786000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/711404/000071140414000017/ ; https://www.sec.gov/Archives/edgar/data/711404/000071140414000013/,연간 269856000 − 9개월누적 239070000 (NetIncomeLoss),30
+Cooper Companies,COO,2014Q3,2014-10-31,분기별 영업활동현금흐름,152056000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/711404/000071140414000017/ ; https://www.sec.gov/Archives/edgar/data/711404/000071140414000013/,누적 454823000 − 직전누적 302767000 (시작 2013-11-01),30
+Cooper Companies,COO,2014Q3,2014-10-31,분기말 자산총계,4458340000,USD,공시,https://www.sec.gov/Archives/edgar/data/711404/000071140414000017/,,30
+Cooper Companies,COO,2014Q3,2014-10-31,분기말 부채총계,1869900000,USD,공시,https://www.sec.gov/Archives/edgar/data/711404/000071140414000017/,,30
+Cooper Companies,COO,2014Q3,2014-10-31,분기말 총자본(자기자본),2588440000,USD,공시,https://www.sec.gov/Archives/edgar/data/711404/000071140414000017/,,30
+Cooper Companies,COO,2014Q3,2014-10-31,분기말 지배지분 자본,2569878000,USD,공시,https://www.sec.gov/Archives/edgar/data/711404/000071140414000017/,,30
+Cooper Companies,COO,2014Q3,2014-10-31,분기말 종가,163.9,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/COO?interval=1d&events=splits (2014-10-31),분할조정 종가 40.975 × 이후 분할계수 4,30
+Cooper Companies,COO,2014Q3,2014-11-30,분기말 상장주식수,48158484,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/711404/000071140414000017/,dei:EntityCommonStockSharesOutstanding 클래스 합,30
+Cooper Companies,COO,2014Q3,2014-10-31,분기말 시가총액,7893175528,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/COO?interval=1d&events=splits (2014-10-31) ; https://www.sec.gov/Archives/edgar/data/711404/000071140414000017/,종가 163.9 × 주식수 48158484,30
+Cooper Companies,COO,2014Q4,2015-01-31,분기별 매출액,445171000,USD,공시,https://www.sec.gov/Archives/edgar/data/711404/000071140415000004/,,30
+Cooper Companies,COO,2014Q4,2015-01-31,분기별 영업이익,73108000,USD,공시,https://www.sec.gov/Archives/edgar/data/711404/000071140415000004/,,30
+Cooper Companies,COO,2014Q4,2015-01-31,분기별 당기순이익(지배),61179000,USD,공시,https://www.sec.gov/Archives/edgar/data/711404/000071140415000004/,,30
+Cooper Companies,COO,2014Q4,2015-01-31,분기별 영업활동현금흐름,79841000,USD,공시,https://www.sec.gov/Archives/edgar/data/711404/000071140415000004/,,30
+Cooper Companies,COO,2014Q4,2015-01-31,분기말 자산총계,4335744000,USD,공시,https://www.sec.gov/Archives/edgar/data/711404/000071140415000004/,,30
+Cooper Companies,COO,2014Q4,2015-01-31,분기말 부채총계,1818759000,USD,공시,https://www.sec.gov/Archives/edgar/data/711404/000071140415000004/,,30
+Cooper Companies,COO,2014Q4,2015-01-31,분기말 총자본(자기자본),2516985000,USD,공시,https://www.sec.gov/Archives/edgar/data/711404/000071140415000004/,,30
+Cooper Companies,COO,2014Q4,2015-01-31,분기말 지배지분 자본,2500874000,USD,공시,https://www.sec.gov/Archives/edgar/data/711404/000071140415000004/,,30
+Cooper Companies,COO,2014Q4,2015-01-30,분기말 종가,157.65,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/COO?interval=1d&events=splits (2015-01-30),분할조정 종가 39.4125 × 이후 분할계수 4,30
+Cooper Companies,COO,2014Q4,2015-01-31,분기말 상장주식수,48288639,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/711404/000071140415000004/,dei:EntityCommonStockSharesOutstanding 클래스 합,30
+Cooper Companies,COO,2014Q4,2015-01-30,분기말 시가총액,7612703938,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/COO?interval=1d&events=splits (2015-01-30) ; https://www.sec.gov/Archives/edgar/data/711404/000071140415000004/,종가 157.65 × 주식수 48288639,30
+Cooper Companies,COO,2015Q1,2015-04-30,분기별 매출액,434676000,USD,공시,https://www.sec.gov/Archives/edgar/data/711404/000071140415000011/,,30
+Cooper Companies,COO,2015Q1,2015-04-30,분기별 영업이익,70998000,USD,공시,https://www.sec.gov/Archives/edgar/data/711404/000071140415000011/,,30
+Cooper Companies,COO,2015Q1,2015-04-30,분기별 당기순이익(지배),60713000,USD,공시,https://www.sec.gov/Archives/edgar/data/711404/000071140415000011/,,30
+Cooper Companies,COO,2015Q1,2015-04-30,분기별 영업활동현금흐름,110640000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/711404/000071140415000011/ ; https://www.sec.gov/Archives/edgar/data/711404/000071140415000004/,누적 190481000 − 직전누적 79841000 (시작 2014-11-01),30
+Cooper Companies,COO,2015Q1,2015-04-30,분기말 자산총계,4392660000,USD,공시,https://www.sec.gov/Archives/edgar/data/711404/000071140415000011/,,30
+Cooper Companies,COO,2015Q1,2015-04-30,분기말 부채총계,1776923000,USD,공시,https://www.sec.gov/Archives/edgar/data/711404/000071140415000011/,,30
+Cooper Companies,COO,2015Q1,2015-04-30,분기말 총자본(자기자본),2615737000,USD,공시,https://www.sec.gov/Archives/edgar/data/711404/000071140415000011/,,30
+Cooper Companies,COO,2015Q1,2015-04-30,분기말 지배지분 자본,2609666000,USD,공시,https://www.sec.gov/Archives/edgar/data/711404/000071140415000011/,,30
+Cooper Companies,COO,2015Q1,2015-04-30,분기말 종가,178.07,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/COO?interval=1d&events=splits (2015-04-30),분할조정 종가 44.5175 × 이후 분할계수 4,30
+Cooper Companies,COO,2015Q1,2015-04-30,분기말 상장주식수,45589771,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/711404/000071140415000011/,dei:EntityCommonStockSharesOutstanding 클래스 합,30
+Cooper Companies,COO,2015Q1,2015-04-30,분기말 시가총액,8118170522,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/COO?interval=1d&events=splits (2015-04-30) ; https://www.sec.gov/Archives/edgar/data/711404/000071140415000011/,종가 178.07 × 주식수 45589771,30
+Cooper Companies,COO,2015Q2,2015-07-31,분기별 매출액,461678000,USD,공시,https://www.sec.gov/Archives/edgar/data/711404/000071140415000015/,,30
+Cooper Companies,COO,2015Q2,2015-07-31,분기별 영업이익,50311000,USD,공시,https://www.sec.gov/Archives/edgar/data/711404/000071140415000015/,,30
+Cooper Companies,COO,2015Q2,2015-07-31,분기별 당기순이익(지배),44951000,USD,공시,https://www.sec.gov/Archives/edgar/data/711404/000071140415000015/,,30
+Cooper Companies,COO,2015Q2,2015-07-31,분기별 영업활동현금흐름,95968000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/711404/000071140415000015/ ; https://www.sec.gov/Archives/edgar/data/711404/000071140415000011/,누적 286449000 − 직전누적 190481000 (시작 2014-11-01),30
+Cooper Companies,COO,2015Q2,2015-07-31,분기말 자산총계,4422682000,USD,공시,https://www.sec.gov/Archives/edgar/data/711404/000071140415000015/,,30
+Cooper Companies,COO,2015Q2,2015-07-31,분기말 부채총계,1728747000,USD,공시,https://www.sec.gov/Archives/edgar/data/711404/000071140415000015/,,30
+Cooper Companies,COO,2015Q2,2015-07-31,분기말 총자본(자기자본),2693935000,USD,공시,https://www.sec.gov/Archives/edgar/data/711404/000071140415000015/,,30
+Cooper Companies,COO,2015Q2,2015-07-31,분기말 지배지분 자본,2687572000,USD,공시,https://www.sec.gov/Archives/edgar/data/711404/000071140415000015/,,30
+Cooper Companies,COO,2015Q2,2015-07-31,분기말 종가,177.0,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/COO?interval=1d&events=splits (2015-07-31),분할조정 종가 44.25 × 이후 분할계수 4,30
+Cooper Companies,COO,2015Q2,2015-07-31,분기말 상장주식수,48613895,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/711404/000071140415000015/,dei:EntityCommonStockSharesOutstanding 클래스 합,30
+Cooper Companies,COO,2015Q2,2015-07-31,분기말 시가총액,8604659415,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/COO?interval=1d&events=splits (2015-07-31) ; https://www.sec.gov/Archives/edgar/data/711404/000071140415000015/,종가 177.0 × 주식수 48613895,30
+Cooper Companies,COO,2015Q3,2015-10-31,분기별 매출액,455536000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/711404/000071140415000021/ ; https://www.sec.gov/Archives/edgar/data/711404/000071140415000015/,연간 1797060000 − 9개월누적 1341524000 (SalesRevenueNet),30
+Cooper Companies,COO,2015Q3,2015-10-31,분기별 영업이익,42253000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/711404/000071140415000021/ ; https://www.sec.gov/Archives/edgar/data/711404/000071140415000015/,연간 236671000 − 9개월누적 194418000 (OperatingIncomeLoss),30
+Cooper Companies,COO,2015Q3,2015-10-31,분기별 당기순이익(지배),36679000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/711404/000071140415000021/ ; https://www.sec.gov/Archives/edgar/data/711404/000071140415000015/,연간 203523000 − 9개월누적 166844000 (NetIncomeLoss),30
+Cooper Companies,COO,2015Q3,2015-10-31,분기별 영업활동현금흐름,104521000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/711404/000071140415000021/ ; https://www.sec.gov/Archives/edgar/data/711404/000071140415000015/,누적 390970000 − 직전누적 286449000 (시작 2014-11-01),30
+Cooper Companies,COO,2015Q3,2015-10-31,분기말 자산총계,4460610000,USD,공시,https://www.sec.gov/Archives/edgar/data/711404/000071140415000021/,,30
+Cooper Companies,COO,2015Q3,2015-10-31,분기말 부채총계,1786706000,USD,공시,https://www.sec.gov/Archives/edgar/data/711404/000071140415000021/,,30
+Cooper Companies,COO,2015Q3,2015-10-31,분기말 총자본(자기자본),2673904000,USD,공시,https://www.sec.gov/Archives/edgar/data/711404/000071140415000021/,,30
+Cooper Companies,COO,2015Q3,2015-10-31,분기말 지배지분 자본,2667509000,USD,공시,https://www.sec.gov/Archives/edgar/data/711404/000071140415000021/,,30
+Cooper Companies,COO,2015Q3,2015-10-30,분기말 종가,152.36,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/COO?interval=1d&events=splits (2015-10-30),분할조정 종가 38.09 × 이후 분할계수 4,30
+Cooper Companies,COO,2015Q3,2015-11-30,분기말 상장주식수,48274926,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/711404/000071140415000021/,dei:EntityCommonStockSharesOutstanding 클래스 합,30
+Cooper Companies,COO,2015Q3,2015-10-30,분기말 시가총액,7355167725,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/COO?interval=1d&events=splits (2015-10-30) ; https://www.sec.gov/Archives/edgar/data/711404/000071140415000021/,종가 152.36 × 주식수 48274926,30
+Cooper Companies,COO,2015Q4,2016-01-31,분기별 매출액,449641000,USD,공시,https://www.sec.gov/Archives/edgar/data/711404/000071140416000026/,,30
+Cooper Companies,COO,2015Q4,2016-01-31,분기별 영업이익,57396000,USD,공시,https://www.sec.gov/Archives/edgar/data/711404/000071140416000026/,,30
+Cooper Companies,COO,2015Q4,2016-01-31,분기별 당기순이익(지배),51356000,USD,공시,https://www.sec.gov/Archives/edgar/data/711404/000071140416000026/,,30
+Cooper Companies,COO,2015Q4,2016-01-31,분기별 영업활동현금흐름,89539000,USD,공시,https://www.sec.gov/Archives/edgar/data/711404/000071140416000026/,,30
+Cooper Companies,COO,2015Q4,2016-01-31,분기말 자산총계,4401802000,USD,공시,https://www.sec.gov/Archives/edgar/data/711404/000071140416000026/,,30
+Cooper Companies,COO,2015Q4,2016-01-31,분기말 부채총계,1795076000,USD,공시,https://www.sec.gov/Archives/edgar/data/711404/000071140416000026/,,30
+Cooper Companies,COO,2015Q4,2016-01-31,분기말 총자본(자기자본),2606726000,USD,공시,https://www.sec.gov/Archives/edgar/data/711404/000071140416000026/,,30
+Cooper Companies,COO,2015Q4,2016-01-31,분기말 지배지분 자본,2599957000,USD,공시,https://www.sec.gov/Archives/edgar/data/711404/000071140416000026/,,30
+Cooper Companies,COO,2015Q4,2016-01-29,분기말 종가,131.15,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/COO?interval=1d&events=splits (2016-01-29),분할조정 종가 32.7875 × 이후 분할계수 4,30
+Cooper Companies,COO,2015Q4,2016-01-31,분기말 상장주식수,48391028,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/711404/000071140416000026/,dei:EntityCommonStockSharesOutstanding 클래스 합,30
+Cooper Companies,COO,2015Q4,2016-01-29,분기말 시가총액,6346483322,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/COO?interval=1d&events=splits (2016-01-29) ; https://www.sec.gov/Archives/edgar/data/711404/000071140416000026/,종가 131.15 × 주식수 48391028,30
+Cooper Companies,COO,2016Q1,2016-04-30,분기별 매출액,483793000,USD,공시,https://www.sec.gov/Archives/edgar/data/711404/000071140416000030/,,30
+Cooper Companies,COO,2016Q1,2016-04-30,분기별 영업이익,89831000,USD,공시,https://www.sec.gov/Archives/edgar/data/711404/000071140416000030/,,30
+Cooper Companies,COO,2016Q1,2016-04-30,분기별 당기순이익(지배),74125000,USD,공시,https://www.sec.gov/Archives/edgar/data/711404/000071140416000030/,,30
+Cooper Companies,COO,2016Q1,2016-04-30,분기별 영업활동현금흐름,97848000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/711404/000071140416000030/ ; https://www.sec.gov/Archives/edgar/data/711404/000071140416000026/,누적 187387000 − 직전누적 89539000 (시작 2015-11-01),30
+Cooper Companies,COO,2016Q1,2016-04-30,분기말 자산총계,4601253000,USD,공시,https://www.sec.gov/Archives/edgar/data/711404/000071140416000030/,,30
+Cooper Companies,COO,2016Q1,2016-04-30,분기말 부채총계,1856472000,USD,공시,https://www.sec.gov/Archives/edgar/data/711404/000071140416000030/,,30
+Cooper Companies,COO,2016Q1,2016-04-30,분기말 총자본(자기자본),2744781000,USD,공시,https://www.sec.gov/Archives/edgar/data/711404/000071140416000030/,,30
+Cooper Companies,COO,2016Q1,2016-04-30,분기말 지배지분 자본,2738076000,USD,공시,https://www.sec.gov/Archives/edgar/data/711404/000071140416000030/,,30
+Cooper Companies,COO,2016Q1,2016-04-29,분기말 종가,153.08,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/COO?interval=1d&events=splits (2016-04-29),분할조정 종가 38.27 × 이후 분할계수 4,30
+Cooper Companies,COO,2016Q1,2016-04-30,분기말 상장주식수,48448341,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/711404/000071140416000030/,dei:EntityCommonStockSharesOutstanding 클래스 합,30
+Cooper Companies,COO,2016Q1,2016-04-29,분기말 시가총액,7416472040,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/COO?interval=1d&events=splits (2016-04-29) ; https://www.sec.gov/Archives/edgar/data/711404/000071140416000030/,종가 153.08 × 주식수 48448341,30
+Cooper Companies,COO,2016Q2,2016-07-31,분기별 매출액,514726000,USD,공시,https://www.sec.gov/Archives/edgar/data/711404/000071140416000035/,,30
+Cooper Companies,COO,2016Q2,2016-07-31,분기별 영업이익,102672000,USD,공시,https://www.sec.gov/Archives/edgar/data/711404/000071140416000035/,,30
+Cooper Companies,COO,2016Q2,2016-07-31,분기별 당기순이익(지배),87928000,USD,공시,https://www.sec.gov/Archives/edgar/data/711404/000071140416000035/,,30
+Cooper Companies,COO,2016Q2,2016-07-31,분기별 영업활동현금흐름,128886000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/711404/000071140416000035/ ; https://www.sec.gov/Archives/edgar/data/711404/000071140416000030/,누적 316273000 − 직전누적 187387000 (시작 2015-11-01),30
+Cooper Companies,COO,2016Q2,2016-07-31,분기말 자산총계,4592675000,USD,공시,https://www.sec.gov/Archives/edgar/data/711404/000071140416000035/,,30
+Cooper Companies,COO,2016Q2,2016-07-31,분기말 부채총계,1855273000,USD,공시,https://www.sec.gov/Archives/edgar/data/711404/000071140416000035/,,30
+Cooper Companies,COO,2016Q2,2016-07-31,분기말 총자본(자기자본),2737402000,USD,공시,https://www.sec.gov/Archives/edgar/data/711404/000071140416000035/,,30
+Cooper Companies,COO,2016Q2,2016-07-31,분기말 지배지분 자본,2730688000,USD,공시,https://www.sec.gov/Archives/edgar/data/711404/000071140416000035/,,30
+Cooper Companies,COO,2016Q2,2016-07-29,분기말 종가,182.47,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/COO?interval=1d&events=splits (2016-07-29),분할조정 종가 45.6175 × 이후 분할계수 4,30
+Cooper Companies,COO,2016Q2,2016-07-31,분기말 상장주식수,48742150,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/711404/000071140416000035/,dei:EntityCommonStockSharesOutstanding 클래스 합,30
+Cooper Companies,COO,2016Q2,2016-07-29,분기말 시가총액,8893980110,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/COO?interval=1d&events=splits (2016-07-29) ; https://www.sec.gov/Archives/edgar/data/711404/000071140416000035/,종가 182.47 × 주식수 48742150,30
+Cooper Companies,COO,2016Q3,2016-10-31,분기별 매출액,518654000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/711404/000071140416000042/ ; https://www.sec.gov/Archives/edgar/data/711404/000071140416000035/,연간 1966814000 − 9개월누적 1448160000 (SalesRevenueNet),30
+Cooper Companies,COO,2016Q3,2016-10-31,분기별 영업이익,74181000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/711404/000071140416000042/ ; https://www.sec.gov/Archives/edgar/data/711404/000071140416000035/,연간 324080000 − 9개월누적 249899000 (OperatingIncomeLoss),30
+Cooper Companies,COO,2016Q3,2016-10-31,분기별 당기순이익(지배),60508000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/711404/000071140416000042/ ; https://www.sec.gov/Archives/edgar/data/711404/000071140416000035/,연간 273917000 − 9개월누적 213409000 (NetIncomeLoss),30
+Cooper Companies,COO,2016Q3,2016-10-31,분기별 영업활동현금흐름,193364000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/711404/000071140416000042/ ; https://www.sec.gov/Archives/edgar/data/711404/000071140416000035/,누적 509637000 − 직전누적 316273000 (시작 2015-11-01),30
+Cooper Companies,COO,2016Q3,2016-10-31,분기말 자산총계,4478600000,USD,공시(재작성 반영),https://www.sec.gov/Archives/edgar/data/711404/000071140418000047/,원 공시 4475918000 (https://www.sec.gov/Archives/edgar/data/711404/000071140416000042/),30
+Cooper Companies,COO,2016Q3,2016-10-31,분기말 부채총계,1782700000,USD,공시(재작성 반영),https://www.sec.gov/Archives/edgar/data/711404/000071140417000044/,원 공시 1775883000 (https://www.sec.gov/Archives/edgar/data/711404/000071140416000042/),30
+Cooper Companies,COO,2016Q3,2016-10-31,분기말 총자본(자기자본),2695900000,USD,공시(재작성 반영),https://www.sec.gov/Archives/edgar/data/711404/000071140419000051/,원 공시 2700035000 (https://www.sec.gov/Archives/edgar/data/711404/000071140416000042/),30
+Cooper Companies,COO,2016Q3,2016-10-31,분기말 지배지분 자본,2695800000,USD,공시(재작성 반영),https://www.sec.gov/Archives/edgar/data/711404/000071140417000044/,원 공시 2699867000 (https://www.sec.gov/Archives/edgar/data/711404/000071140416000042/),30
+Cooper Companies,COO,2016Q3,2016-10-31,분기말 종가,176.04,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/COO?interval=1d&events=splits (2016-10-31),분할조정 종가 44.01 × 이후 분할계수 4,30
+Cooper Companies,COO,2016Q3,2016-11-30,분기말 상장주식수,48786598,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/711404/000071140416000042/,dei:EntityCommonStockSharesOutstanding 클래스 합,30
+Cooper Companies,COO,2016Q3,2016-10-31,분기말 시가총액,8588392712,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/COO?interval=1d&events=splits (2016-10-31) ; https://www.sec.gov/Archives/edgar/data/711404/000071140416000042/,종가 176.04 × 주식수 48786598,30
+Cooper Companies,COO,2016Q4,2017-01-31,분기별 매출액,499100000,USD,공시,https://www.sec.gov/Archives/edgar/data/711404/000071140417000010/,,30
+Cooper Companies,COO,2016Q4,2017-01-31,분기별 영업이익,90700000,USD,공시,https://www.sec.gov/Archives/edgar/data/711404/000071140417000010/,,30
+Cooper Companies,COO,2016Q4,2017-01-31,분기별 당기순이익(지배),75800000,USD,공시,https://www.sec.gov/Archives/edgar/data/711404/000071140417000010/,,30
+Cooper Companies,COO,2016Q4,2017-01-31,분기별 영업활동현금흐름,108400000,USD,공시,https://www.sec.gov/Archives/edgar/data/711404/000071140417000010/,,30
+Cooper Companies,COO,2016Q4,2017-01-31,분기말 자산총계,4656700000,USD,공시,https://www.sec.gov/Archives/edgar/data/711404/000071140417000010/,,30
+Cooper Companies,COO,2016Q4,2017-01-31,분기말 부채총계,1837300000,USD,공시,https://www.sec.gov/Archives/edgar/data/711404/000071140417000010/,,30
+Cooper Companies,COO,2016Q4,2017-01-31,분기말 총자본(자기자본),2819400000,USD,공시,https://www.sec.gov/Archives/edgar/data/711404/000071140417000010/,,30
+Cooper Companies,COO,2016Q4,2017-01-31,분기말 지배지분 자본,2819300000,USD,계산(총자본-비지배),https://www.sec.gov/Archives/edgar/data/711404/000071140417000010/,총자본 2819400000 − 비지배 100000,30
+Cooper Companies,COO,2016Q4,2017-01-31,분기말 종가,184.61,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/COO?interval=1d&events=splits (2017-01-31),분할조정 종가 46.1525 × 이후 분할계수 4,30
+Cooper Companies,COO,2016Q4,2017-01-31,분기말 상장주식수,48936183,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/711404/000071140417000010/,dei:EntityCommonStockSharesOutstanding 클래스 합,30
+Cooper Companies,COO,2016Q4,2017-01-31,분기말 시가총액,9034108744,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/COO?interval=1d&events=splits (2017-01-31) ; https://www.sec.gov/Archives/edgar/data/711404/000071140417000010/,종가 184.61 × 주식수 48936183,30
+Cooper Companies,COO,2017Q1,2017-04-30,분기별 매출액,522400000,USD,공시,https://www.sec.gov/Archives/edgar/data/711404/000071140417000021/,,30
+Cooper Companies,COO,2017Q1,2017-04-30,분기별 영업이익,117100000,USD,공시,https://www.sec.gov/Archives/edgar/data/711404/000071140417000021/,,30
+Cooper Companies,COO,2017Q1,2017-04-30,분기별 당기순이익(지배),104900000,USD,공시,https://www.sec.gov/Archives/edgar/data/711404/000071140417000021/,,30
+Cooper Companies,COO,2017Q1,2017-04-30,분기별 영업활동현금흐름,131700000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/711404/000071140417000021/ ; https://www.sec.gov/Archives/edgar/data/711404/000071140417000010/,누적 240100000 − 직전누적 108400000 (시작 2016-11-01),30
+Cooper Companies,COO,2017Q1,2017-04-30,분기말 자산총계,4749800000,USD,공시,https://www.sec.gov/Archives/edgar/data/711404/000071140417000021/,,30
+Cooper Companies,COO,2017Q1,2017-04-30,분기말 부채총계,1810000000,USD,공시,https://www.sec.gov/Archives/edgar/data/711404/000071140417000021/,,30
+Cooper Companies,COO,2017Q1,2017-04-30,분기말 총자본(자기자본),2939800000,USD,공시,https://www.sec.gov/Archives/edgar/data/711404/000071140417000021/,,30
+Cooper Companies,COO,2017Q1,2017-04-30,분기말 지배지분 자본,2939600000,USD,계산(총자본-비지배),https://www.sec.gov/Archives/edgar/data/711404/000071140417000021/,총자본 2939800000 − 비지배 200000,30
+Cooper Companies,COO,2017Q1,2017-04-28,분기말 종가,200.33,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/COO?interval=1d&events=splits (2017-04-28),분할조정 종가 50.0825 × 이후 분할계수 4,30
+Cooper Companies,COO,2017Q1,2017-04-30,분기말 상장주식수,48856777,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/711404/000071140417000021/,dei:EntityCommonStockSharesOutstanding 클래스 합,30
+Cooper Companies,COO,2017Q1,2017-04-28,분기말 시가총액,9787478136,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/COO?interval=1d&events=splits (2017-04-28) ; https://www.sec.gov/Archives/edgar/data/711404/000071140417000021/,종가 200.33 × 주식수 48856777,30
+Cooper Companies,COO,2017Q2,2017-07-31,분기별 매출액,556000000,USD,공시,https://www.sec.gov/Archives/edgar/data/711404/000071140417000031/,,30
+Cooper Companies,COO,2017Q2,2017-07-31,분기별 영업이익,112800000,USD,공시,https://www.sec.gov/Archives/edgar/data/711404/000071140417000031/,,30
+Cooper Companies,COO,2017Q2,2017-07-31,분기별 당기순이익(지배),103600000,USD,공시,https://www.sec.gov/Archives/edgar/data/711404/000071140417000031/,,30
+Cooper Companies,COO,2017Q2,2017-07-31,분기별 영업활동현금흐름,154500000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/711404/000071140417000031/ ; https://www.sec.gov/Archives/edgar/data/711404/000071140417000021/,누적 394600000 − 직전누적 240100000 (시작 2016-11-01),30
+Cooper Companies,COO,2017Q2,2017-07-31,분기말 자산총계,4782800000,USD,공시,https://www.sec.gov/Archives/edgar/data/711404/000071140417000031/,,30
+Cooper Companies,COO,2017Q2,2017-07-31,분기말 부채총계,1689500000,USD,공시,https://www.sec.gov/Archives/edgar/data/711404/000071140417000031/,,30
+Cooper Companies,COO,2017Q2,2017-07-31,분기말 총자본(자기자본),3093300000,USD,공시,https://www.sec.gov/Archives/edgar/data/711404/000071140417000031/,,30
+Cooper Companies,COO,2017Q2,2017-07-31,분기말 지배지분 자본,3093200000,USD,계산(총자본-비지배),https://www.sec.gov/Archives/edgar/data/711404/000071140417000031/,총자본 3093300000 − 비지배 100000,30
+Cooper Companies,COO,2017Q2,2017-07-31,분기말 종가,243.87,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/COO?interval=1d&events=splits (2017-07-31),분할조정 종가 60.9675 × 이후 분할계수 4,30
+Cooper Companies,COO,2017Q2,2017-07-31,분기말 상장주식수,48949240,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/711404/000071140417000031/,dei:EntityCommonStockSharesOutstanding 클래스 합,30
+Cooper Companies,COO,2017Q2,2017-07-31,분기말 시가총액,11937251159,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/COO?interval=1d&events=splits (2017-07-31) ; https://www.sec.gov/Archives/edgar/data/711404/000071140417000031/,종가 243.87 × 주식수 48949240,30
+Cooper Companies,COO,2017Q3,2017-10-31,분기별 매출액,561500000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/711404/000071140417000044/ ; https://www.sec.gov/Archives/edgar/data/711404/000071140417000031/,연간 2139000000 − 9개월누적 1577500000 (SalesRevenueNet),30
+Cooper Companies,COO,2017Q3,2017-10-31,분기별 영업이익,108500000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/711404/000071140417000044/ ; https://www.sec.gov/Archives/edgar/data/711404/000071140417000031/,연간 429100000 − 9개월누적 320600000 (OperatingIncomeLoss),30
+Cooper Companies,COO,2017Q3,2017-10-31,분기별 당기순이익(지배),88600000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/711404/000071140417000044/ ; https://www.sec.gov/Archives/edgar/data/711404/000071140417000031/,연간 372900000 − 9개월누적 284300000 (NetIncomeLoss),30
+Cooper Companies,COO,2017Q3,2017-10-31,분기별 영업활동현금흐름,199000000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/711404/000071140417000044/ ; https://www.sec.gov/Archives/edgar/data/711404/000071140417000031/,누적 593600000 − 직전누적 394600000 (시작 2016-11-01),30
+Cooper Companies,COO,2017Q3,2017-10-31,분기말 자산총계,4858700000,USD,공시,https://www.sec.gov/Archives/edgar/data/711404/000071140417000044/,,30
+Cooper Companies,COO,2017Q3,2017-10-31,분기말 부채총계,1682900000,USD,공시,https://www.sec.gov/Archives/edgar/data/711404/000071140417000044/,,30
+Cooper Companies,COO,2017Q3,2017-10-31,분기말 총자본(자기자본),3175800000,USD,공시,https://www.sec.gov/Archives/edgar/data/711404/000071140417000044/,,30
+Cooper Companies,COO,2017Q3,2017-10-31,분기말 지배지분 자본,3175700000,USD,공시,https://www.sec.gov/Archives/edgar/data/711404/000071140417000044/,,30
+Cooper Companies,COO,2017Q3,2017-10-31,분기말 종가,240.26,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/COO?interval=1d&events=splits (2017-10-31),분할조정 종가 60.065 × 이후 분할계수 4,30
+Cooper Companies,COO,2017Q3,2017-11-30,분기말 상장주식수,48861006,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/711404/000071140417000044/,dei:EntityCommonStockSharesOutstanding 클래스 합,30
+Cooper Companies,COO,2017Q3,2017-10-31,분기말 시가총액,11739345302,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/COO?interval=1d&events=splits (2017-10-31) ; https://www.sec.gov/Archives/edgar/data/711404/000071140417000044/,종가 240.26 × 주식수 48861006,30
+Cooper Companies,COO,2017Q4,2018-01-31,분기별 매출액,590000000,USD,공시,https://www.sec.gov/Archives/edgar/data/711404/000071140418000014/,,30
+Cooper Companies,COO,2017Q4,2018-01-31,분기별 영업이익,90200000,USD,공시,https://www.sec.gov/Archives/edgar/data/711404/000071140418000014/,,30
+Cooper Companies,COO,2017Q4,2018-01-31,분기별 당기순이익(지배),-122500000,USD,공시,https://www.sec.gov/Archives/edgar/data/711404/000071140418000014/,,30
+Cooper Companies,COO,2017Q4,2018-01-31,분기별 영업활동현금흐름,26200000,USD,공시,https://www.sec.gov/Archives/edgar/data/711404/000071140418000014/,,30
+Cooper Companies,COO,2017Q4,2018-01-31,분기말 자산총계,6268600000,USD,공시,https://www.sec.gov/Archives/edgar/data/711404/000071140418000014/,,30
+Cooper Companies,COO,2017Q4,2018-01-31,분기말 부채총계,3112200000,USD,공시,https://www.sec.gov/Archives/edgar/data/711404/000071140418000014/,,30
+Cooper Companies,COO,2017Q4,2018-01-31,분기말 총자본(자기자본),3156400000,USD,공시,https://www.sec.gov/Archives/edgar/data/711404/000071140418000014/,,30
+Cooper Companies,COO,2017Q4,2018-01-31,분기말 지배지분 자본,3156300000,USD,계산(총자본-비지배),https://www.sec.gov/Archives/edgar/data/711404/000071140418000014/,총자본 3156400000 − 비지배 100000,30
+Cooper Companies,COO,2017Q4,2018-01-31,분기말 종가,244.67,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/COO?interval=1d&events=splits (2018-01-31),분할조정 종가 61.1675 × 이후 분할계수 4,30
+Cooper Companies,COO,2017Q4,2018-01-31,분기말 상장주식수,49022319,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/711404/000071140418000014/,dei:EntityCommonStockSharesOutstanding 클래스 합,30
+Cooper Companies,COO,2017Q4,2018-01-31,분기말 시가총액,11994290790,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/COO?interval=1d&events=splits (2018-01-31) ; https://www.sec.gov/Archives/edgar/data/711404/000071140418000014/,종가 244.67 × 주식수 49022319,30
+Cooper Companies,COO,2018Q1,2018-04-30,분기별 매출액,631300000,USD,공시,https://www.sec.gov/Archives/edgar/data/711404/000071140418000022/,,30
+Cooper Companies,COO,2018Q1,2018-04-30,분기별 영업이익,74700000,USD,공시,https://www.sec.gov/Archives/edgar/data/711404/000071140418000022/,,30
+Cooper Companies,COO,2018Q1,2018-04-30,분기별 당기순이익(지배),60900000,USD,공시,https://www.sec.gov/Archives/edgar/data/711404/000071140418000022/,,30
+Cooper Companies,COO,2018Q1,2018-04-30,분기별 영업활동현금흐름,미확인,USD,미확인,https://www.sec.gov/Archives/edgar/data/711404/000071140418000022/,,30
+Cooper Companies,COO,2018Q1,2018-04-30,분기말 자산총계,6414400000,USD,공시,https://www.sec.gov/Archives/edgar/data/711404/000071140418000022/,,30
+Cooper Companies,COO,2018Q1,2018-04-30,분기말 부채총계,3226400000,USD,공시,https://www.sec.gov/Archives/edgar/data/711404/000071140418000022/,,30
+Cooper Companies,COO,2018Q1,2018-04-30,분기말 총자본(자기자본),3188000000,USD,공시,https://www.sec.gov/Archives/edgar/data/711404/000071140418000022/,,30
+Cooper Companies,COO,2018Q1,2018-04-30,분기말 지배지분 자본,3187900000,USD,계산(총자본-비지배),https://www.sec.gov/Archives/edgar/data/711404/000071140418000022/,총자본 3188000000 − 비지배 100000,30
+Cooper Companies,COO,2018Q1,2018-04-30,분기말 종가,228.71,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/COO?interval=1d&events=splits (2018-04-30),분할조정 종가 57.1775 × 이후 분할계수 4,30
+Cooper Companies,COO,2018Q1,2018-05-31,분기말 상장주식수,49104101,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/711404/000071140418000022/,dei:EntityCommonStockSharesOutstanding 클래스 합,30
+Cooper Companies,COO,2018Q1,2018-04-30,분기말 시가총액,11230598940,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/COO?interval=1d&events=splits (2018-04-30) ; https://www.sec.gov/Archives/edgar/data/711404/000071140418000022/,종가 228.71 × 주식수 49104101,30
+Cooper Companies,COO,2018Q2,2018-07-31,분기별 매출액,660000000,USD,공시,https://www.sec.gov/Archives/edgar/data/711404/000071140418000035/,,30
+Cooper Companies,COO,2018Q2,2018-07-31,분기별 영업이익,115600000,USD,공시,https://www.sec.gov/Archives/edgar/data/711404/000071140418000035/,,30
+Cooper Companies,COO,2018Q2,2018-07-31,분기별 당기순이익(지배),100800000,USD,공시,https://www.sec.gov/Archives/edgar/data/711404/000071140418000035/,,30
+Cooper Companies,COO,2018Q2,2018-07-31,분기별 영업활동현금흐름,데이터 없음(직전 분기 누적 보고서 없음),USD,데이터 없음(직전 보고서 없음),https://www.sec.gov/Archives/edgar/data/711404/000071140418000035/,,30
+Cooper Companies,COO,2018Q2,2018-07-31,분기말 자산총계,6256900000,USD,공시,https://www.sec.gov/Archives/edgar/data/711404/000071140418000035/,,30
+Cooper Companies,COO,2018Q2,2018-07-31,분기말 부채총계,3030300000,USD,공시,https://www.sec.gov/Archives/edgar/data/711404/000071140418000035/,,30
+Cooper Companies,COO,2018Q2,2018-07-31,분기말 총자본(자기자본),3226600000,USD,공시,https://www.sec.gov/Archives/edgar/data/711404/000071140418000035/,,30
+Cooper Companies,COO,2018Q2,2018-07-31,분기말 지배지분 자본,3226500000,USD,계산(총자본-비지배),https://www.sec.gov/Archives/edgar/data/711404/000071140418000035/,총자본 3226600000 − 비지배 100000,30
+Cooper Companies,COO,2018Q2,2018-07-31,분기말 종가,260.5,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/COO?interval=1d&events=splits (2018-07-31),분할조정 종가 65.125 × 이후 분할계수 4,30
+Cooper Companies,COO,2018Q2,2018-08-24,분기말 상장주식수,49139682,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/711404/000071140418000035/,dei:EntityCommonStockSharesOutstanding 클래스 합,30
+Cooper Companies,COO,2018Q2,2018-07-31,분기말 시가총액,12800887161,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/COO?interval=1d&events=splits (2018-07-31) ; https://www.sec.gov/Archives/edgar/data/711404/000071140418000035/,종가 260.5 × 주식수 49139682,30
+Cooper Companies,COO,2018Q3,2018-10-31,분기별 매출액,651500000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/711404/000071140418000047/ ; https://www.sec.gov/Archives/edgar/data/711404/000071140418000035/,연간 2532800000 − 9개월누적 1881300000 (Revenues),30
+Cooper Companies,COO,2018Q3,2018-10-31,분기별 영업이익,122700000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/711404/000071140418000047/ ; https://www.sec.gov/Archives/edgar/data/711404/000071140418000035/,연간 403100000 − 9개월누적 280400000 (OperatingIncomeLoss),30
+Cooper Companies,COO,2018Q3,2018-10-31,분기별 당기순이익(지배),100700000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/711404/000071140418000047/ ; https://www.sec.gov/Archives/edgar/data/711404/000071140418000035/,연간 139900000 − 9개월누적 39200000 (NetIncomeLoss),30
+Cooper Companies,COO,2018Q3,2018-10-31,분기별 영업활동현금흐름,236600000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/711404/000071140418000047/ ; https://www.sec.gov/Archives/edgar/data/711404/000071140418000035/,누적 668900000 − 직전누적 432300000 (시작 2017-11-01),30
+Cooper Companies,COO,2018Q3,2018-10-31,분기말 자산총계,6112800000,USD,공시,https://www.sec.gov/Archives/edgar/data/711404/000071140418000047/,,30
+Cooper Companies,COO,2018Q3,2018-10-31,분기말 부채총계,2805000000,USD,공시,https://www.sec.gov/Archives/edgar/data/711404/000071140418000047/,,30
+Cooper Companies,COO,2018Q3,2018-10-31,분기말 총자본(자기자본),3307800000,USD,공시,https://www.sec.gov/Archives/edgar/data/711404/000071140418000047/,,30
+Cooper Companies,COO,2018Q3,2018-10-31,분기말 지배지분 자본,3307600000,USD,공시,https://www.sec.gov/Archives/edgar/data/711404/000071140418000047/,,30
+Cooper Companies,COO,2018Q3,2018-10-31,분기말 종가,258.31,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/COO?interval=1d&events=splits (2018-10-31),분할조정 종가 64.5775 × 이후 분할계수 4,30
+Cooper Companies,COO,2018Q3,2018-11-30,분기말 상장주식수,49232061,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/711404/000071140418000047/,dei:EntityCommonStockSharesOutstanding 클래스 합,30
+Cooper Companies,COO,2018Q3,2018-10-31,분기말 시가총액,12717133677,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/COO?interval=1d&events=splits (2018-10-31) ; https://www.sec.gov/Archives/edgar/data/711404/000071140418000047/,종가 258.31 × 주식수 49232061,30
+Cooper Companies,COO,2018Q4,2019-01-31,분기별 매출액,628100000,USD,공시,https://www.sec.gov/Archives/edgar/data/711404/000071140419000012/,,30
+Cooper Companies,COO,2018Q4,2019-01-31,분기별 영업이익,110900000,USD,공시,https://www.sec.gov/Archives/edgar/data/711404/000071140419000012/,,30
+Cooper Companies,COO,2018Q4,2019-01-31,분기별 당기순이익(지배),103200000,USD,공시,https://www.sec.gov/Archives/edgar/data/711404/000071140419000012/,,30
+Cooper Companies,COO,2018Q4,2019-01-31,분기별 영업활동현금흐름,101800000,USD,공시,https://www.sec.gov/Archives/edgar/data/711404/000071140419000012/,,30
+Cooper Companies,COO,2018Q4,2019-01-31,분기말 자산총계,6298600000,USD,공시,https://www.sec.gov/Archives/edgar/data/711404/000071140419000012/,,30
+Cooper Companies,COO,2018Q4,2019-01-31,분기말 부채총계,2873100000,USD,공시,https://www.sec.gov/Archives/edgar/data/711404/000071140419000012/,,30
+Cooper Companies,COO,2018Q4,2019-01-31,분기말 총자본(자기자본),3425500000,USD,공시,https://www.sec.gov/Archives/edgar/data/711404/000071140419000012/,,30
+Cooper Companies,COO,2018Q4,2019-01-31,분기말 지배지분 자본,3425300000,USD,계산(총자본-비지배),https://www.sec.gov/Archives/edgar/data/711404/000071140419000012/,총자본 3425500000 − 비지배 200000,30
+Cooper Companies,COO,2018Q4,2019-01-31,분기말 종가,278.76,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/COO?interval=1d&events=splits (2019-01-31),분할조정 종가 69.69 × 이후 분할계수 4,30
+Cooper Companies,COO,2018Q4,2019-02-26,분기말 상장주식수,49374137,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/711404/000071140419000012/,dei:EntityCommonStockSharesOutstanding 클래스 합,30
+Cooper Companies,COO,2018Q4,2019-01-31,분기말 시가총액,13763534430,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/COO?interval=1d&events=splits (2019-01-31) ; https://www.sec.gov/Archives/edgar/data/711404/000071140419000012/,종가 278.76 × 주식수 49374137,30
+Cooper Companies,COO,2019Q1,2019-04-30,분기별 매출액,654300000,USD,공시,https://www.sec.gov/Archives/edgar/data/711404/000071140419000026/,,30
+Cooper Companies,COO,2019Q1,2019-04-30,분기별 영업이익,146900000,USD,공시,https://www.sec.gov/Archives/edgar/data/711404/000071140419000026/,,30
+Cooper Companies,COO,2019Q1,2019-04-30,분기별 당기순이익(지배),122400000,USD,공시,https://www.sec.gov/Archives/edgar/data/711404/000071140419000026/,,30
+Cooper Companies,COO,2019Q1,2019-04-30,분기별 영업활동현금흐름,214800000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/711404/000071140419000026/ ; https://www.sec.gov/Archives/edgar/data/711404/000071140419000012/,누적 316600000 − 직전누적 101800000 (시작 2018-11-01),30
+Cooper Companies,COO,2019Q1,2019-04-30,분기말 자산총계,6203400000,USD,공시,https://www.sec.gov/Archives/edgar/data/711404/000071140419000026/,,30
+Cooper Companies,COO,2019Q1,2019-04-30,분기말 부채총계,2661200000,USD,공시,https://www.sec.gov/Archives/edgar/data/711404/000071140419000026/,,30
+Cooper Companies,COO,2019Q1,2019-04-30,분기말 총자본(자기자본),3542200000,USD,공시,https://www.sec.gov/Archives/edgar/data/711404/000071140419000026/,,30
+Cooper Companies,COO,2019Q1,2019-04-30,분기말 지배지분 자본,3542000000,USD,계산(총자본-비지배),https://www.sec.gov/Archives/edgar/data/711404/000071140419000026/,총자본 3542200000 − 비지배 200000,30
+Cooper Companies,COO,2019Q1,2019-04-30,분기말 종가,289.92,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/COO?interval=1d&events=splits (2019-04-30),분할조정 종가 72.48 × 이후 분할계수 4,30
+Cooper Companies,COO,2019Q1,2019-05-24,분기말 상장주식수,49487752,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/711404/000071140419000026/,dei:EntityCommonStockSharesOutstanding 클래스 합,30
+Cooper Companies,COO,2019Q1,2019-04-30,분기말 시가총액,14347489060,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/COO?interval=1d&events=splits (2019-04-30) ; https://www.sec.gov/Archives/edgar/data/711404/000071140419000026/,종가 289.92 × 주식수 49487752,30
+Cooper Companies,COO,2019Q2,2019-07-31,분기별 매출액,679400000,USD,공시,https://www.sec.gov/Archives/edgar/data/711404/000071140419000039/,,30
+Cooper Companies,COO,2019Q2,2019-07-31,분기별 영업이익,142200000,USD,공시,https://www.sec.gov/Archives/edgar/data/711404/000071140419000039/,,30
+Cooper Companies,COO,2019Q2,2019-07-31,분기별 당기순이익(지배),120100000,USD,공시,https://www.sec.gov/Archives/edgar/data/711404/000071140419000039/,,30
+Cooper Companies,COO,2019Q2,2019-07-31,분기별 영업활동현금흐름,196700000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/711404/000071140419000039/ ; https://www.sec.gov/Archives/edgar/data/711404/000071140419000026/,누적 513300000 − 직전누적 316600000 (시작 2018-11-01),30
+Cooper Companies,COO,2019Q2,2019-07-31,분기말 자산총계,6172800000,USD,공시,https://www.sec.gov/Archives/edgar/data/711404/000071140419000039/,,30
+Cooper Companies,COO,2019Q2,2019-07-31,분기말 부채총계,2557300000,USD,공시,https://www.sec.gov/Archives/edgar/data/711404/000071140419000039/,,30
+Cooper Companies,COO,2019Q2,2019-07-31,분기말 총자본(자기자본),3615500000,USD,공시,https://www.sec.gov/Archives/edgar/data/711404/000071140419000039/,,30
+Cooper Companies,COO,2019Q2,2019-07-31,분기말 지배지분 자본,3615300000,USD,계산(총자본-비지배),https://www.sec.gov/Archives/edgar/data/711404/000071140419000039/,총자본 3615500000 − 비지배 200000,30
+Cooper Companies,COO,2019Q2,2019-07-31,분기말 종가,337.4,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/COO?interval=1d&events=splits (2019-07-31),분할조정 종가 84.35 × 이후 분할계수 4,30
+Cooper Companies,COO,2019Q2,2019-08-23,분기말 상장주식수,49573612,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/711404/000071140419000039/,dei:EntityCommonStockSharesOutstanding 클래스 합,30
+Cooper Companies,COO,2019Q2,2019-07-31,분기말 시가총액,16726136689,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/COO?interval=1d&events=splits (2019-07-31) ; https://www.sec.gov/Archives/edgar/data/711404/000071140419000039/,종가 337.4 × 주식수 49573612,30
+Cooper Companies,COO,2019Q3,2019-10-31,분기별 매출액,691600000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/711404/000071140419000051/ ; https://www.sec.gov/Archives/edgar/data/711404/000071140419000039/,연간 2653400000 − 9개월누적 1961800000 (RevenueFromContractWithCustomerExcludingAssessedTax),30
+Cooper Companies,COO,2019Q3,2019-10-31,분기별 영업이익,146600000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/711404/000071140419000051/ ; https://www.sec.gov/Archives/edgar/data/711404/000071140419000039/,연간 546700000 − 9개월누적 400100000 (OperatingIncomeLoss),30
+Cooper Companies,COO,2019Q3,2019-10-31,분기별 당기순이익(지배),121000000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/711404/000071140419000051/ ; https://www.sec.gov/Archives/edgar/data/711404/000071140419000039/,연간 466700000 − 9개월누적 345700000 (NetIncomeLoss),30
+Cooper Companies,COO,2019Q3,2019-10-31,분기별 영업활동현금흐름,199900000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/711404/000071140419000051/ ; https://www.sec.gov/Archives/edgar/data/711404/000071140419000039/,누적 713200000 − 직전누적 513300000 (시작 2018-11-01),30
+Cooper Companies,COO,2019Q3,2019-10-31,분기말 자산총계,6274500000,USD,공시,https://www.sec.gov/Archives/edgar/data/711404/000071140419000051/,,30
+Cooper Companies,COO,2019Q3,2019-10-31,분기말 부채총계,2645900000,USD,공시,https://www.sec.gov/Archives/edgar/data/711404/000071140419000051/,,30
+Cooper Companies,COO,2019Q3,2019-10-31,분기말 총자본(자기자본),3628600000,USD,공시,https://www.sec.gov/Archives/edgar/data/711404/000071140419000051/,,30
+Cooper Companies,COO,2019Q3,2019-10-31,분기말 지배지분 자본,3628400000,USD,공시,https://www.sec.gov/Archives/edgar/data/711404/000071140419000051/,,30
+Cooper Companies,COO,2019Q3,2019-10-31,분기말 종가,291.0,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/COO?interval=1d&events=splits (2019-10-31),분할조정 종가 72.75 × 이후 분할계수 4,30
+Cooper Companies,COO,2019Q3,2019-11-30,분기말 상장주식수,49062354,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/711404/000071140419000051/,dei:EntityCommonStockSharesOutstanding 클래스 합,30
+Cooper Companies,COO,2019Q3,2019-10-31,분기말 시가총액,14277145014,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/COO?interval=1d&events=splits (2019-10-31) ; https://www.sec.gov/Archives/edgar/data/711404/000071140419000051/,종가 291.0 × 주식수 49062354,30
+Cooper Companies,COO,2019Q4,2020-01-31,분기별 매출액,646200000,USD,공시,https://www.sec.gov/Archives/edgar/data/711404/000071140420000011/,,30
+Cooper Companies,COO,2019Q4,2020-01-31,분기별 영업이익,111100000,USD,공시,https://www.sec.gov/Archives/edgar/data/711404/000071140420000011/,,30
+Cooper Companies,COO,2019Q4,2020-01-31,분기별 당기순이익(지배),90500000,USD,공시,https://www.sec.gov/Archives/edgar/data/711404/000071140420000011/,,30
+Cooper Companies,COO,2019Q4,2020-01-31,분기별 영업활동현금흐름,129700000,USD,공시,https://www.sec.gov/Archives/edgar/data/711404/000071140420000011/,,30
+Cooper Companies,COO,2019Q4,2020-01-31,분기말 자산총계,6548500000,USD,공시,https://www.sec.gov/Archives/edgar/data/711404/000071140420000011/,,30
+Cooper Companies,COO,2019Q4,2020-01-31,분기말 부채총계,2817600000,USD,공시,https://www.sec.gov/Archives/edgar/data/711404/000071140420000011/,,30
+Cooper Companies,COO,2019Q4,2020-01-31,분기말 총자본(자기자본),3730900000,USD,공시,https://www.sec.gov/Archives/edgar/data/711404/000071140420000011/,,30
+Cooper Companies,COO,2019Q4,2020-01-31,분기말 지배지분 자본,3730700000,USD,공시,https://www.sec.gov/Archives/edgar/data/711404/000071140420000011/,,30
+Cooper Companies,COO,2019Q4,2020-01-31,분기말 종가,346.89,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/COO?interval=1d&events=splits (2020-01-31),분할조정 종가 86.7225 × 이후 분할계수 4,30
+Cooper Companies,COO,2019Q4,2020-02-26,분기말 상장주식수,53330450,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/711404/000071140420000011/,dei:EntityCommonStockSharesOutstanding 클래스 합,30
+Cooper Companies,COO,2019Q4,2020-01-31,분기말 시가총액,18499799800,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/COO?interval=1d&events=splits (2020-01-31) ; https://www.sec.gov/Archives/edgar/data/711404/000071140420000011/,종가 346.89 × 주식수 53330450,30
+Cooper Companies,COO,2020Q1,2020-04-30,분기별 매출액,524900000,USD,공시,https://www.sec.gov/Archives/edgar/data/711404/000071140420000021/,,30
+Cooper Companies,COO,2020Q1,2020-04-30,분기별 영업이익,28600000,USD,공시,https://www.sec.gov/Archives/edgar/data/711404/000071140420000021/,,30
+Cooper Companies,COO,2020Q1,2020-04-30,분기별 당기순이익(지배),11500000,USD,공시,https://www.sec.gov/Archives/edgar/data/711404/000071140420000021/,,30
+Cooper Companies,COO,2020Q1,2020-04-30,분기별 영업활동현금흐름,25800000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/711404/000071140420000021/ ; https://www.sec.gov/Archives/edgar/data/711404/000071140420000011/,누적 155500000 − 직전누적 129700000 (시작 2019-11-01),30
+Cooper Companies,COO,2020Q1,2020-04-30,분기말 자산총계,6510000000,USD,공시,https://www.sec.gov/Archives/edgar/data/711404/000071140420000021/,,30
+Cooper Companies,COO,2020Q1,2020-04-30,분기말 부채총계,2882500000,USD,공시,https://www.sec.gov/Archives/edgar/data/711404/000071140420000021/,,30
+Cooper Companies,COO,2020Q1,2020-04-30,분기말 총자본(자기자본),3627500000,USD,공시,https://www.sec.gov/Archives/edgar/data/711404/000071140420000021/,,30
+Cooper Companies,COO,2020Q1,2020-04-30,분기말 지배지분 자본,3627300000,USD,공시,https://www.sec.gov/Archives/edgar/data/711404/000071140420000021/,,30
+Cooper Companies,COO,2020Q1,2020-04-30,분기말 종가,286.7,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/COO?interval=1d&events=splits (2020-04-30),분할조정 종가 71.675 × 이후 분할계수 4,30
+Cooper Companies,COO,2020Q1,2020-05-29,분기말 상장주식수,53333091,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/711404/000071140420000021/,dei:EntityCommonStockSharesOutstanding 클래스 합,30
+Cooper Companies,COO,2020Q1,2020-04-30,분기말 시가총액,15290597190,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/COO?interval=1d&events=splits (2020-04-30) ; https://www.sec.gov/Archives/edgar/data/711404/000071140420000021/,종가 286.7 × 주식수 53333091,30
+Cooper Companies,COO,2020Q2,2020-07-31,분기별 매출액,578200000,USD,공시,https://www.sec.gov/Archives/edgar/data/711404/000071140420000032/,,30
+Cooper Companies,COO,2020Q2,2020-07-31,분기별 영업이익,72000000,USD,공시,https://www.sec.gov/Archives/edgar/data/711404/000071140420000032/,,30
+Cooper Companies,COO,2020Q2,2020-07-31,분기별 당기순이익(지배),55200000,USD,공시,https://www.sec.gov/Archives/edgar/data/711404/000071140420000032/,,30
+Cooper Companies,COO,2020Q2,2020-07-31,분기별 영업활동현금흐름,112800000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/711404/000071140420000032/ ; https://www.sec.gov/Archives/edgar/data/711404/000071140420000021/,누적 268300000 − 직전누적 155500000 (시작 2019-11-01),30
+Cooper Companies,COO,2020Q2,2020-07-31,분기말 자산총계,6748400000,USD,공시,https://www.sec.gov/Archives/edgar/data/711404/000071140420000032/,,30
+Cooper Companies,COO,2020Q2,2020-07-31,분기말 부채총계,2988000000,USD,공시,https://www.sec.gov/Archives/edgar/data/711404/000071140420000032/,,30
+Cooper Companies,COO,2020Q2,2020-07-31,분기말 총자본(자기자본),3760400000,USD,공시,https://www.sec.gov/Archives/edgar/data/711404/000071140420000032/,,30
+Cooper Companies,COO,2020Q2,2020-07-31,분기말 지배지분 자본,3760200000,USD,공시,https://www.sec.gov/Archives/edgar/data/711404/000071140420000032/,,30
+Cooper Companies,COO,2020Q2,2020-07-31,분기말 종가,282.93,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/COO?interval=1d&events=splits (2020-07-31),분할조정 종가 70.7325 × 이후 분할계수 4,30
+Cooper Companies,COO,2020Q2,2020-08-28,분기말 상장주식수,53340401,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/711404/000071140420000032/,dei:EntityCommonStockSharesOutstanding 클래스 합,30
+Cooper Companies,COO,2020Q2,2020-07-31,분기말 시가총액,15091599655,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/COO?interval=1d&events=splits (2020-07-31) ; https://www.sec.gov/Archives/edgar/data/711404/000071140420000032/,종가 282.93 × 주식수 53340401,30
+Cooper Companies,COO,2020Q3,2020-10-31,분기별 매출액,681600000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/711404/000071140420000042/ ; https://www.sec.gov/Archives/edgar/data/711404/000071140420000032/,연간 2430900000 − 9개월누적 1749300000 (RevenueFromContractWithCustomerExcludingAssessedTax),30
+Cooper Companies,COO,2020Q3,2020-10-31,분기별 영업이익,100100000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/711404/000071140420000042/ ; https://www.sec.gov/Archives/edgar/data/711404/000071140420000032/,연간 311800000 − 9개월누적 211700000 (OperatingIncomeLoss),30
+Cooper Companies,COO,2020Q3,2020-10-31,분기별 당기순이익(지배),81200000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/711404/000071140420000042/ ; https://www.sec.gov/Archives/edgar/data/711404/000071140420000032/,연간 238400000 − 9개월누적 157200000 (NetIncomeLoss),30
+Cooper Companies,COO,2020Q3,2020-10-31,분기별 영업활동현금흐름,218300000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/711404/000071140420000042/ ; https://www.sec.gov/Archives/edgar/data/711404/000071140420000032/,누적 486600000 − 직전누적 268300000 (시작 2019-11-01),30
+Cooper Companies,COO,2020Q3,2020-10-31,분기말 자산총계,6737500000,USD,공시,https://www.sec.gov/Archives/edgar/data/711404/000071140420000042/,,30
+Cooper Companies,COO,2020Q3,2020-10-31,분기말 부채총계,2912700000,USD,공시,https://www.sec.gov/Archives/edgar/data/711404/000071140420000042/,,30
+Cooper Companies,COO,2020Q3,2020-10-31,분기말 총자본(자기자본),3824800000,USD,공시,https://www.sec.gov/Archives/edgar/data/711404/000071140420000042/,,30
+Cooper Companies,COO,2020Q3,2020-10-31,분기말 지배지분 자본,3824600000,USD,공시,https://www.sec.gov/Archives/edgar/data/711404/000071140420000042/,,30
+Cooper Companies,COO,2020Q3,2020-10-30,분기말 종가,319.05,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/COO?interval=1d&events=splits (2020-10-30),분할조정 종가 79.7625 × 이후 분할계수 4,30
+Cooper Companies,COO,2020Q3,2020-12-01,분기말 상장주식수,49123730,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/711404/000071140420000042/,dei:EntityCommonStockSharesOutstanding 클래스 합,30
+Cooper Companies,COO,2020Q3,2020-10-30,분기말 시가총액,15672926056,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/COO?interval=1d&events=splits (2020-10-30) ; https://www.sec.gov/Archives/edgar/data/711404/000071140420000042/,종가 319.05 × 주식수 49123730,30
+Cooper Companies,COO,2020Q4,2021-01-31,분기별 매출액,680500000,USD,공시,https://www.sec.gov/Archives/edgar/data/711404/000071140421000008/,,30
+Cooper Companies,COO,2020Q4,2021-01-31,분기별 영업이익,133400000,USD,공시,https://www.sec.gov/Archives/edgar/data/711404/000071140421000008/,,30
+Cooper Companies,COO,2020Q4,2021-01-31,분기별 당기순이익(지배),2101100000,USD,공시,https://www.sec.gov/Archives/edgar/data/711404/000071140421000008/,,30
+Cooper Companies,COO,2020Q4,2021-01-31,분기별 영업활동현금흐름,147700000,USD,공시,https://www.sec.gov/Archives/edgar/data/711404/000071140421000008/,,30
+Cooper Companies,COO,2020Q4,2021-01-31,분기말 자산총계,8921900000,USD,공시,https://www.sec.gov/Archives/edgar/data/711404/000071140421000008/,,30
+Cooper Companies,COO,2020Q4,2021-01-31,분기말 부채총계,2932000000,USD,공시,https://www.sec.gov/Archives/edgar/data/711404/000071140421000008/,,30
+Cooper Companies,COO,2020Q4,2021-01-31,분기말 총자본(자기자본),5989900000,USD,공시,https://www.sec.gov/Archives/edgar/data/711404/000071140421000008/,,30
+Cooper Companies,COO,2020Q4,2021-01-31,분기말 지배지분 자본,5989700000,USD,공시,https://www.sec.gov/Archives/edgar/data/711404/000071140421000008/,,30
+Cooper Companies,COO,2020Q4,2021-01-29,분기말 종가,364.04,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/COO?interval=1d&events=splits (2021-01-29),분할조정 종가 91.01 × 이후 분할계수 4,30
+Cooper Companies,COO,2020Q4,2021-02-26,분기말 상장주식수,49151068,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/711404/000071140421000008/,dei:EntityCommonStockSharesOutstanding 클래스 합,30
+Cooper Companies,COO,2020Q4,2021-01-29,분기말 시가총액,17892954795,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/COO?interval=1d&events=splits (2021-01-29) ; https://www.sec.gov/Archives/edgar/data/711404/000071140421000008/,종가 364.04 × 주식수 49151068,30
+Cooper Companies,COO,2021Q1,2021-04-30,분기별 매출액,719500000,USD,공시,https://www.sec.gov/Archives/edgar/data/711404/000071140421000016/,,30
+Cooper Companies,COO,2021Q1,2021-04-30,분기별 영업이익,143200000,USD,공시,https://www.sec.gov/Archives/edgar/data/711404/000071140421000016/,,30
+Cooper Companies,COO,2021Q1,2021-04-30,분기별 당기순이익(지배),117500000,USD,공시,https://www.sec.gov/Archives/edgar/data/711404/000071140421000016/,,30
+Cooper Companies,COO,2021Q1,2021-04-30,분기별 영업활동현금흐름,192600000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/711404/000071140421000016/ ; https://www.sec.gov/Archives/edgar/data/711404/000071140421000008/,누적 340300000 − 직전누적 147700000 (시작 2020-11-01),30
+Cooper Companies,COO,2021Q1,2021-04-30,분기말 자산총계,9013800000,USD,공시,https://www.sec.gov/Archives/edgar/data/711404/000071140421000016/,,30
+Cooper Companies,COO,2021Q1,2021-04-30,분기말 부채총계,2851000000,USD,공시,https://www.sec.gov/Archives/edgar/data/711404/000071140421000016/,,30
+Cooper Companies,COO,2021Q1,2021-04-30,분기말 총자본(자기자본),6162800000,USD,공시,https://www.sec.gov/Archives/edgar/data/711404/000071140421000016/,,30
+Cooper Companies,COO,2021Q1,2021-04-30,분기말 지배지분 자본,6162600000,USD,공시,https://www.sec.gov/Archives/edgar/data/711404/000071140421000016/,,30
+Cooper Companies,COO,2021Q1,2021-04-30,분기말 종가,410.89,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/COO?interval=1d&events=splits (2021-04-30),분할조정 종가 102.7225 × 이후 분할계수 4,30
+Cooper Companies,COO,2021Q1,2021-05-28,분기말 상장주식수,49247946,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/711404/000071140421000016/,dei:EntityCommonStockSharesOutstanding 클래스 합,30
+Cooper Companies,COO,2021Q1,2021-04-30,분기말 시가총액,20235488532,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/COO?interval=1d&events=splits (2021-04-30) ; https://www.sec.gov/Archives/edgar/data/711404/000071140421000016/,종가 410.89 × 주식수 49247946,30
+Cooper Companies,COO,2021Q2,2021-07-31,분기별 매출액,763400000,USD,공시,https://www.sec.gov/Archives/edgar/data/711404/000071140421000025/,,30
+Cooper Companies,COO,2021Q2,2021-07-31,분기별 영업이익,100600000,USD,공시,https://www.sec.gov/Archives/edgar/data/711404/000071140421000025/,,30
+Cooper Companies,COO,2021Q2,2021-07-31,분기별 당기순이익(지배),615800000,USD,공시,https://www.sec.gov/Archives/edgar/data/711404/000071140421000025/,,30
+Cooper Companies,COO,2021Q2,2021-07-31,분기별 영업활동현금흐름,223800000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/711404/000071140421000025/ ; https://www.sec.gov/Archives/edgar/data/711404/000071140421000016/,누적 564100000 − 직전누적 340300000 (시작 2020-11-01),30
+Cooper Companies,COO,2021Q2,2021-07-31,분기말 자산총계,9610600000,USD,공시,https://www.sec.gov/Archives/edgar/data/711404/000071140421000025/,,30
+Cooper Companies,COO,2021Q2,2021-07-31,분기말 부채총계,2825200000,USD,공시,https://www.sec.gov/Archives/edgar/data/711404/000071140421000025/,,30
+Cooper Companies,COO,2021Q2,2021-07-31,분기말 총자본(자기자본),6785400000,USD,공시,https://www.sec.gov/Archives/edgar/data/711404/000071140421000025/,,30
+Cooper Companies,COO,2021Q2,2021-07-31,분기말 지배지분 자본,6785200000,USD,공시,https://www.sec.gov/Archives/edgar/data/711404/000071140421000025/,,30
+Cooper Companies,COO,2021Q2,2021-07-30,분기말 종가,421.77,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/COO?interval=1d&events=splits (2021-07-30),분할조정 종가 105.4425 × 이후 분할계수 4,30
+Cooper Companies,COO,2021Q2,2021-08-27,분기말 상장주식수,49304090,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/711404/000071140421000025/,dei:EntityCommonStockSharesOutstanding 클래스 합,30
+Cooper Companies,COO,2021Q2,2021-07-30,분기말 시가총액,20794986039,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/COO?interval=1d&events=splits (2021-07-30) ; https://www.sec.gov/Archives/edgar/data/711404/000071140421000025/,종가 421.77 × 주식수 49304090,30
+Cooper Companies,COO,2021Q3,2021-10-31,분기별 매출액,759100000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/711404/000071140421000038/ ; https://www.sec.gov/Archives/edgar/data/711404/000071140421000025/,연간 2922500000 − 9개월누적 2163400000 (RevenueFromContractWithCustomerExcludingAssessedTax),30
+Cooper Companies,COO,2021Q3,2021-10-31,분기별 영업이익,128500000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/711404/000071140421000038/ ; https://www.sec.gov/Archives/edgar/data/711404/000071140421000025/,연간 505800000 − 9개월누적 377300000 (OperatingIncomeLoss),30
+Cooper Companies,COO,2021Q3,2021-10-31,분기별 당기순이익(지배),110300000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/711404/000071140421000038/ ; https://www.sec.gov/Archives/edgar/data/711404/000071140421000025/,연간 2944700000 − 9개월누적 2834400000 (NetIncomeLoss),30
+Cooper Companies,COO,2021Q3,2021-10-31,분기별 영업활동현금흐름,174500000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/711404/000071140421000038/ ; https://www.sec.gov/Archives/edgar/data/711404/000071140421000025/,누적 738600000 − 직전누적 564100000 (시작 2020-11-01),30
+Cooper Companies,COO,2021Q3,2021-10-31,분기말 자산총계,9606200000,USD,공시,https://www.sec.gov/Archives/edgar/data/711404/000071140421000038/,,30
+Cooper Companies,COO,2021Q3,2021-10-31,분기말 부채총계,2664200000,USD,공시,https://www.sec.gov/Archives/edgar/data/711404/000071140421000038/,,30
+Cooper Companies,COO,2021Q3,2021-10-31,분기말 총자본(자기자본),6942000000,USD,공시,https://www.sec.gov/Archives/edgar/data/711404/000071140421000038/,,30
+Cooper Companies,COO,2021Q3,2021-10-31,분기말 지배지분 자본,6941800000,USD,공시,https://www.sec.gov/Archives/edgar/data/711404/000071140421000038/,,30
+Cooper Companies,COO,2021Q3,2021-10-29,분기말 종가,416.92,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/COO?interval=1d&events=splits (2021-10-29),분할조정 종가 104.23 × 이후 분할계수 4,30
+Cooper Companies,COO,2021Q3,2021-12-01,분기말 상장주식수,49408020,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/711404/000071140421000038/,dei:EntityCommonStockSharesOutstanding 클래스 합,30
+Cooper Companies,COO,2021Q3,2021-10-29,분기말 시가총액,20599191698,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/COO?interval=1d&events=splits (2021-10-29) ; https://www.sec.gov/Archives/edgar/data/711404/000071140421000038/,종가 416.92 × 주식수 49408020,30
+Cooper Companies,COO,2021Q4,2022-01-31,분기별 매출액,787200000,USD,공시,https://www.sec.gov/Archives/edgar/data/711404/000071140422000015/,,30
+Cooper Companies,COO,2021Q4,2022-01-31,분기별 영업이익,130800000,USD,공시,https://www.sec.gov/Archives/edgar/data/711404/000071140422000015/,,30
+Cooper Companies,COO,2021Q4,2022-01-31,분기별 당기순이익(지배),95300000,USD,공시,https://www.sec.gov/Archives/edgar/data/711404/000071140422000015/,,30
+Cooper Companies,COO,2021Q4,2022-01-31,분기별 영업활동현금흐름,166000000,USD,공시,https://www.sec.gov/Archives/edgar/data/711404/000071140422000015/,,30
+Cooper Companies,COO,2021Q4,2022-01-31,분기말 자산총계,11662500000,USD,공시,https://www.sec.gov/Archives/edgar/data/711404/000071140422000015/,,30
+Cooper Companies,COO,2021Q4,2022-01-31,분기말 부채총계,4736400000,USD,공시,https://www.sec.gov/Archives/edgar/data/711404/000071140422000015/,,30
+Cooper Companies,COO,2021Q4,2022-01-31,분기말 총자본(자기자본),6926100000,USD,공시,https://www.sec.gov/Archives/edgar/data/711404/000071140422000015/,,30
+Cooper Companies,COO,2021Q4,2022-01-31,분기말 지배지분 자본,6925900000,USD,공시,https://www.sec.gov/Archives/edgar/data/711404/000071140422000015/,,30
+Cooper Companies,COO,2021Q4,2022-01-31,분기말 종가,398.3,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/COO?interval=1d&events=splits (2022-01-31),분할조정 종가 99.575 × 이후 분할계수 4,30
+Cooper Companies,COO,2021Q4,2022-02-25,분기말 상장주식수,49301550,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/711404/000071140422000015/,dei:EntityCommonStockSharesOutstanding 클래스 합,30
+Cooper Companies,COO,2021Q4,2022-01-31,분기말 시가총액,19636807365,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/COO?interval=1d&events=splits (2022-01-31) ; https://www.sec.gov/Archives/edgar/data/711404/000071140422000015/,종가 398.3 × 주식수 49301550,30
+Cooper Companies,COO,2022Q1,2022-04-30,분기별 매출액,829800000,USD,공시,https://www.sec.gov/Archives/edgar/data/711404/000071140422000030/,,30
+Cooper Companies,COO,2022Q1,2022-04-30,분기별 영업이익,132700000,USD,공시,https://www.sec.gov/Archives/edgar/data/711404/000071140422000030/,,30
+Cooper Companies,COO,2022Q1,2022-04-30,분기별 당기순이익(지배),126600000,USD,공시,https://www.sec.gov/Archives/edgar/data/711404/000071140422000030/,,30
+Cooper Companies,COO,2022Q1,2022-04-30,분기별 영업활동현금흐름,131800000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/711404/000071140422000030/ ; https://www.sec.gov/Archives/edgar/data/711404/000071140422000015/,누적 297800000 − 직전누적 166000000 (시작 2021-11-01),30
+Cooper Companies,COO,2022Q1,2022-04-30,분기말 자산총계,11778000000,USD,공시,https://www.sec.gov/Archives/edgar/data/711404/000071140422000030/,,30
+Cooper Companies,COO,2022Q1,2022-04-30,분기말 부채총계,4764200000,USD,공시,https://www.sec.gov/Archives/edgar/data/711404/000071140422000030/,,30
+Cooper Companies,COO,2022Q1,2022-04-30,분기말 총자본(자기자본),7013800000,USD,공시,https://www.sec.gov/Archives/edgar/data/711404/000071140422000030/,,30
+Cooper Companies,COO,2022Q1,2022-04-30,분기말 지배지분 자본,7013600000,USD,공시,https://www.sec.gov/Archives/edgar/data/711404/000071140422000030/,,30
+Cooper Companies,COO,2022Q1,2022-04-29,분기말 종가,361.04,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/COO?interval=1d&events=splits (2022-04-29),분할조정 종가 90.26 × 이후 분할계수 4,30
+Cooper Companies,COO,2022Q1,2022-05-27,분기말 상장주식수,49336487,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/711404/000071140422000030/,dei:EntityCommonStockSharesOutstanding 클래스 합,30
+Cooper Companies,COO,2022Q1,2022-04-29,분기말 시가총액,17812445266,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/COO?interval=1d&events=splits (2022-04-29) ; https://www.sec.gov/Archives/edgar/data/711404/000071140422000030/,종가 361.04 × 주식수 49336487,30
+Cooper Companies,COO,2022Q2,2022-07-31,분기별 매출액,843400000,USD,공시,https://www.sec.gov/Archives/edgar/data/711404/000071140422000042/,,30
+Cooper Companies,COO,2022Q2,2022-07-31,분기별 영업이익,140600000,USD,공시,https://www.sec.gov/Archives/edgar/data/711404/000071140422000042/,,30
+Cooper Companies,COO,2022Q2,2022-07-31,분기별 당기순이익(지배),98400000,USD,공시,https://www.sec.gov/Archives/edgar/data/711404/000071140422000042/,,30
+Cooper Companies,COO,2022Q2,2022-07-31,분기별 영업활동현금흐름,263900000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/711404/000071140422000042/ ; https://www.sec.gov/Archives/edgar/data/711404/000071140422000030/,누적 561700000 − 직전누적 297800000 (시작 2021-11-01),30
+Cooper Companies,COO,2022Q2,2022-07-31,분기말 자산총계,11552100000,USD,공시,https://www.sec.gov/Archives/edgar/data/711404/000071140422000042/,,30
+Cooper Companies,COO,2022Q2,2022-07-31,분기말 부채총계,4469000000,USD,공시,https://www.sec.gov/Archives/edgar/data/711404/000071140422000042/,,30
+Cooper Companies,COO,2022Q2,2022-07-31,분기말 총자본(자기자본),7083100000,USD,공시,https://www.sec.gov/Archives/edgar/data/711404/000071140422000042/,,30
+Cooper Companies,COO,2022Q2,2022-07-31,분기말 지배지분 자본,7082900000,USD,공시,https://www.sec.gov/Archives/edgar/data/711404/000071140422000042/,,30
+Cooper Companies,COO,2022Q2,2022-07-29,분기말 종가,327.0,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/COO?interval=1d&events=splits (2022-07-29),분할조정 종가 81.75 × 이후 분할계수 4,30
+Cooper Companies,COO,2022Q2,2022-08-26,분기말 상장주식수,49345985,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/711404/000071140422000042/,dei:EntityCommonStockSharesOutstanding 클래스 합,30
+Cooper Companies,COO,2022Q2,2022-07-29,분기말 시가총액,16136137095,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/COO?interval=1d&events=splits (2022-07-29) ; https://www.sec.gov/Archives/edgar/data/711404/000071140422000042/,종가 327.0 × 주식수 49345985,30
+Cooper Companies,COO,2022Q3,2022-10-31,분기별 매출액,848100000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/711404/000071140422000053/ ; https://www.sec.gov/Archives/edgar/data/711404/000071140422000042/,연간 3308400000 − 9개월누적 2460300000 (RevenueFromContractWithCustomerExcludingAssessedTax),30
+Cooper Companies,COO,2022Q3,2022-10-31,분기별 영업이익,103500000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/711404/000071140422000053/ ; https://www.sec.gov/Archives/edgar/data/711404/000071140422000042/,연간 507600000 − 9개월누적 404100000 (OperatingIncomeLoss),30
+Cooper Companies,COO,2022Q3,2022-10-31,분기별 당기순이익(지배),65600000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/711404/000071140422000053/ ; https://www.sec.gov/Archives/edgar/data/711404/000071140422000042/,연간 385800000 − 9개월누적 320200000 (NetIncomeLoss),30
+Cooper Companies,COO,2022Q3,2022-10-31,분기별 영업활동현금흐름,130700000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/711404/000071140422000053/ ; https://www.sec.gov/Archives/edgar/data/711404/000071140422000042/,누적 692400000 − 직전누적 561700000 (시작 2021-11-01),30
+Cooper Companies,COO,2022Q3,2022-10-31,분기말 자산총계,11492300000,USD,공시,https://www.sec.gov/Archives/edgar/data/711404/000071140422000053/,,30
+Cooper Companies,COO,2022Q3,2022-10-31,분기말 부채총계,4317600000,USD,공시,https://www.sec.gov/Archives/edgar/data/711404/000071140422000053/,,30
+Cooper Companies,COO,2022Q3,2022-10-31,분기말 총자본(자기자본),7174700000,USD,공시,https://www.sec.gov/Archives/edgar/data/711404/000071140422000053/,,30
+Cooper Companies,COO,2022Q3,2022-10-31,분기말 지배지분 자본,7174500000,USD,공시,https://www.sec.gov/Archives/edgar/data/711404/000071140422000053/,,30
+Cooper Companies,COO,2022Q3,2022-10-31,분기말 종가,273.39,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/COO?interval=1d&events=splits (2022-10-31),분할조정 종가 68.3475 × 이후 분할계수 4,30
+Cooper Companies,COO,2022Q3,2022-12-01,분기말 상장주식수,49354384,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/711404/000071140422000053/,dei:EntityCommonStockSharesOutstanding 클래스 합,30
+Cooper Companies,COO,2022Q3,2022-10-31,분기말 시가총액,13492995042,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/COO?interval=1d&events=splits (2022-10-31) ; https://www.sec.gov/Archives/edgar/data/711404/000071140422000053/,종가 273.39 × 주식수 49354384,30
+Cooper Companies,COO,2022Q4,2023-01-31,분기별 매출액,858500000,USD,공시,https://www.sec.gov/Archives/edgar/data/711404/000071140423000013/,,30
+Cooper Companies,COO,2022Q4,2023-01-31,분기별 영업이익,149500000,USD,공시,https://www.sec.gov/Archives/edgar/data/711404/000071140423000013/,,30
+Cooper Companies,COO,2022Q4,2023-01-31,분기별 당기순이익(지배),84600000,USD,공시,https://www.sec.gov/Archives/edgar/data/711404/000071140423000013/,,30
+Cooper Companies,COO,2022Q4,2023-01-31,분기별 영업활동현금흐름,166600000,USD,공시,https://www.sec.gov/Archives/edgar/data/711404/000071140423000013/,,30
+Cooper Companies,COO,2022Q4,2023-01-31,분기말 자산총계,11561100000,USD,공시,https://www.sec.gov/Archives/edgar/data/711404/000071140423000013/,,30
+Cooper Companies,COO,2022Q4,2023-01-31,분기말 부채총계,4225400000,USD,공시,https://www.sec.gov/Archives/edgar/data/711404/000071140423000013/,,30
+Cooper Companies,COO,2022Q4,2023-01-31,분기말 총자본(자기자본),7335700000,USD,공시,https://www.sec.gov/Archives/edgar/data/711404/000071140423000013/,,30
+Cooper Companies,COO,2022Q4,2023-01-31,분기말 지배지분 자본,7335500000,USD,공시,https://www.sec.gov/Archives/edgar/data/711404/000071140423000013/,,30
+Cooper Companies,COO,2022Q4,2023-01-31,분기말 종가,348.93,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/COO?interval=1d&events=splits (2023-01-31),분할조정 종가 87.2325 × 이후 분할계수 4,30
+Cooper Companies,COO,2022Q4,2023-02-24,분기말 상장주식수,49455664,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/711404/000071140423000013/,dei:EntityCommonStockSharesOutstanding 클래스 합,30
+Cooper Companies,COO,2022Q4,2023-01-31,분기말 시가총액,17256564840,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/COO?interval=1d&events=splits (2023-01-31) ; https://www.sec.gov/Archives/edgar/data/711404/000071140423000013/,종가 348.93 × 주식수 49455664,30
+Cooper Companies,COO,2023Q1,2023-04-30,분기별 매출액,877400000,USD,공시,https://www.sec.gov/Archives/edgar/data/711404/000071140423000033/,,30
+Cooper Companies,COO,2023Q1,2023-04-30,분기별 영업이익,96300000,USD,공시,https://www.sec.gov/Archives/edgar/data/711404/000071140423000033/,,30
+Cooper Companies,COO,2023Q1,2023-04-30,분기별 당기순이익(지배),39800000,USD,공시,https://www.sec.gov/Archives/edgar/data/711404/000071140423000033/,,30
+Cooper Companies,COO,2023Q1,2023-04-30,분기별 영업활동현금흐름,124200000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/711404/000071140423000033/ ; https://www.sec.gov/Archives/edgar/data/711404/000071140423000013/,누적 290800000 − 직전누적 166600000 (시작 2022-11-01),30
+Cooper Companies,COO,2023Q1,2023-04-30,분기말 자산총계,11539500000,USD,공시,https://www.sec.gov/Archives/edgar/data/711404/000071140423000033/,,30
+Cooper Companies,COO,2023Q1,2023-04-30,분기말 부채총계,4161500000,USD,공시,https://www.sec.gov/Archives/edgar/data/711404/000071140423000033/,,30
+Cooper Companies,COO,2023Q1,2023-04-30,분기말 총자본(자기자본),7378000000,USD,공시,https://www.sec.gov/Archives/edgar/data/711404/000071140423000033/,,30
+Cooper Companies,COO,2023Q1,2023-04-30,분기말 지배지분 자본,7377800000,USD,공시,https://www.sec.gov/Archives/edgar/data/711404/000071140423000033/,,30
+Cooper Companies,COO,2023Q1,2023-04-28,분기말 종가,381.45,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/COO?interval=1d&events=splits (2023-04-28),분할조정 종가 95.3625 × 이후 분할계수 4,30
+Cooper Companies,COO,2023Q1,2023-05-26,분기말 상장주식수,49507924,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/711404/000071140423000033/,dei:EntityCommonStockSharesOutstanding 클래스 합,30
+Cooper Companies,COO,2023Q1,2023-04-28,분기말 시가총액,18884797610,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/COO?interval=1d&events=splits (2023-04-28) ; https://www.sec.gov/Archives/edgar/data/711404/000071140423000033/,종가 381.45 × 주식수 49507924,30
+Cooper Companies,COO,2023Q2,2023-07-31,분기별 매출액,930200000,USD,공시,https://www.sec.gov/Archives/edgar/data/711404/000071140423000045/,,30
+Cooper Companies,COO,2023Q2,2023-07-31,분기별 영업이익,151600000,USD,공시,https://www.sec.gov/Archives/edgar/data/711404/000071140423000045/,,30
+Cooper Companies,COO,2023Q2,2023-07-31,분기별 당기순이익(지배),85300000,USD,공시,https://www.sec.gov/Archives/edgar/data/711404/000071140423000045/,,30
+Cooper Companies,COO,2023Q2,2023-07-31,분기별 영업활동현금흐름,142500000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/711404/000071140423000045/ ; https://www.sec.gov/Archives/edgar/data/711404/000071140423000033/,누적 433300000 − 직전누적 290800000 (시작 2022-11-01),30
+Cooper Companies,COO,2023Q2,2023-07-31,분기말 자산총계,11697300000,USD,공시,https://www.sec.gov/Archives/edgar/data/711404/000071140423000045/,,30
+Cooper Companies,COO,2023Q2,2023-07-31,분기말 부채총계,4168800000,USD,공시,https://www.sec.gov/Archives/edgar/data/711404/000071140423000045/,,30
+Cooper Companies,COO,2023Q2,2023-07-31,분기말 총자본(자기자본),7528500000,USD,공시,https://www.sec.gov/Archives/edgar/data/711404/000071140423000045/,,30
+Cooper Companies,COO,2023Q2,2023-07-31,분기말 지배지분 자본,7528300000,USD,공시,https://www.sec.gov/Archives/edgar/data/711404/000071140423000045/,,30
+Cooper Companies,COO,2023Q2,2023-07-31,분기말 종가,391.26,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/COO?interval=1d&events=splits (2023-07-31),분할조정 종가 97.815 × 이후 분할계수 4,30
+Cooper Companies,COO,2023Q2,2023-08-25,분기말 상장주식수,49524149,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/711404/000071140423000045/,dei:EntityCommonStockSharesOutstanding 클래스 합,30
+Cooper Companies,COO,2023Q2,2023-07-31,분기말 시가총액,19376818538,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/COO?interval=1d&events=splits (2023-07-31) ; https://www.sec.gov/Archives/edgar/data/711404/000071140423000045/,종가 391.26 × 주식수 49524149,30
+Cooper Companies,COO,2023Q3,2023-10-31,분기별 매출액,927100000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/711404/000071140423000072/ ; https://www.sec.gov/Archives/edgar/data/711404/000071140423000045/,연간 3593200000 − 9개월누적 2666100000 (RevenueFromContractWithCustomerExcludingAssessedTax),30
+Cooper Companies,COO,2023Q3,2023-10-31,분기별 영업이익,135700000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/711404/000071140423000072/ ; https://www.sec.gov/Archives/edgar/data/711404/000071140423000045/,연간 533100000 − 9개월누적 397400000 (OperatingIncomeLoss),30
+Cooper Companies,COO,2023Q3,2023-10-31,분기별 당기순이익(지배),84500000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/711404/000071140423000072/ ; https://www.sec.gov/Archives/edgar/data/711404/000071140423000045/,연간 294200000 − 9개월누적 209700000 (NetIncomeLoss),30
+Cooper Companies,COO,2023Q3,2023-10-31,분기별 영업활동현금흐름,174200000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/711404/000071140423000072/ ; https://www.sec.gov/Archives/edgar/data/711404/000071140423000045/,누적 607500000 − 직전누적 433300000 (시작 2022-11-01),30
+Cooper Companies,COO,2023Q3,2023-10-31,분기말 자산총계,11658900000,USD,공시,https://www.sec.gov/Archives/edgar/data/711404/000071140423000072/,,30
+Cooper Companies,COO,2023Q3,2023-10-31,분기말 부채총계,4107900000,USD,공시,https://www.sec.gov/Archives/edgar/data/711404/000071140423000072/,,30
+Cooper Companies,COO,2023Q3,2023-10-31,분기말 총자본(자기자본),7551000000,USD,공시,https://www.sec.gov/Archives/edgar/data/711404/000071140423000072/,,30
+Cooper Companies,COO,2023Q3,2023-10-31,분기말 지배지분 자본,7550800000,USD,공시,https://www.sec.gov/Archives/edgar/data/711404/000071140423000072/,,30
+Cooper Companies,COO,2023Q3,2023-10-31,분기말 종가,311.75,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/COO?interval=1d&events=splits (2023-10-31),분할조정 종가 77.9375 × 이후 분할계수 4,30
+Cooper Companies,COO,2023Q3,2023-12-01,분기말 상장주식수,49525982,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/711404/000071140423000072/,dei:EntityCommonStockSharesOutstanding 클래스 합,30
+Cooper Companies,COO,2023Q3,2023-10-31,분기말 시가총액,15439724888,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/COO?interval=1d&events=splits (2023-10-31) ; https://www.sec.gov/Archives/edgar/data/711404/000071140423000072/,종가 311.75 × 주식수 49525982,30
+Cooper Companies,COO,2023Q4,2024-01-31,분기별 매출액,931600000,USD,공시,https://www.sec.gov/Archives/edgar/data/711404/000071140424000020/,,30
+Cooper Companies,COO,2023Q4,2024-01-31,분기별 영업이익,153100000,USD,공시,https://www.sec.gov/Archives/edgar/data/711404/000071140424000020/,,30
+Cooper Companies,COO,2023Q4,2024-01-31,분기별 당기순이익(지배),81200000,USD,공시,https://www.sec.gov/Archives/edgar/data/711404/000071140424000020/,,30
+Cooper Companies,COO,2023Q4,2024-01-31,분기별 영업활동현금흐름,122700000,USD,공시,https://www.sec.gov/Archives/edgar/data/711404/000071140424000020/,,30
+Cooper Companies,COO,2023Q4,2024-01-31,분기말 자산총계,12032600000,USD,공시,https://www.sec.gov/Archives/edgar/data/711404/000071140424000020/,,30
+Cooper Companies,COO,2023Q4,2024-01-31,분기말 부채총계,4337300000,USD,공시,https://www.sec.gov/Archives/edgar/data/711404/000071140424000020/,,30
+Cooper Companies,COO,2023Q4,2024-01-31,분기말 총자본(자기자본),7695300000,USD,공시,https://www.sec.gov/Archives/edgar/data/711404/000071140424000020/,,30
+Cooper Companies,COO,2023Q4,2024-01-31,분기말 지배지분 자본,7695100000,USD,공시,https://www.sec.gov/Archives/edgar/data/711404/000071140424000020/,,30
+Cooper Companies,COO,2023Q4,2024-01-31,분기말 종가,373.03,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/COO?interval=1d&events=splits (2024-01-31),분할조정 종가 93.2575 × 이후 분할계수 4,30
+Cooper Companies,COO,2023Q4,2024-02-23,분기말 상장주식수,198756284,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/711404/000071140424000020/,dei:EntityCommonStockSharesOutstanding 클래스 합; 표지 기준일이 분할 후,30
+Cooper Companies,COO,2023Q4,2024-01-31,분기말 시가총액,18535514155,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/COO?interval=1d&events=splits (2024-01-31) ; https://www.sec.gov/Archives/edgar/data/711404/000071140424000020/,종가 373.03 × 주식수 198756284 ÷ 분할비율 4 (분할일 2024-02-20가 거래일 2024-01-31와 표지 기준일 2024-02-23 사이),30
+Cooper Companies,COO,2024Q1,2024-04-30,분기별 매출액,942600000,USD,공시,https://www.sec.gov/Archives/edgar/data/711404/000071140424000043/,,30
+Cooper Companies,COO,2024Q1,2024-04-30,분기별 영업이익,161700000,USD,공시,https://www.sec.gov/Archives/edgar/data/711404/000071140424000043/,,30
+Cooper Companies,COO,2024Q1,2024-04-30,분기별 당기순이익(지배),88900000,USD,공시,https://www.sec.gov/Archives/edgar/data/711404/000071140424000043/,,30
+Cooper Companies,COO,2024Q1,2024-04-30,분기별 영업활동현금흐름,111000000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/711404/000071140424000043/ ; https://www.sec.gov/Archives/edgar/data/711404/000071140424000020/,누적 233700000 − 직전누적 122700000 (시작 2023-11-01),30
+Cooper Companies,COO,2024Q1,2024-04-30,분기말 자산총계,12047400000,USD,공시,https://www.sec.gov/Archives/edgar/data/711404/000071140424000043/,,30
+Cooper Companies,COO,2024Q1,2024-04-30,분기말 부채총계,4243500000,USD,공시,https://www.sec.gov/Archives/edgar/data/711404/000071140424000043/,,30
+Cooper Companies,COO,2024Q1,2024-04-30,분기말 총자본(자기자본),7803900000,USD,공시,https://www.sec.gov/Archives/edgar/data/711404/000071140424000043/,,30
+Cooper Companies,COO,2024Q1,2024-04-30,분기말 지배지분 자본,7803700000,USD,공시,https://www.sec.gov/Archives/edgar/data/711404/000071140424000043/,,30
+Cooper Companies,COO,2024Q1,2024-04-30,분기말 종가,89.06,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/COO?interval=1d&events=splits (2024-04-30),,30
+Cooper Companies,COO,2024Q1,2024-05-24,분기말 상장주식수,199119880,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/711404/000071140424000043/,dei:EntityCommonStockSharesOutstanding 클래스 합,30
+Cooper Companies,COO,2024Q1,2024-04-30,분기말 시가총액,17733616513,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/COO?interval=1d&events=splits (2024-04-30) ; https://www.sec.gov/Archives/edgar/data/711404/000071140424000043/,종가 89.06 × 주식수 199119880,30
+Cooper Companies,COO,2024Q2,2024-07-31,분기별 매출액,1002800000,USD,공시,https://www.sec.gov/Archives/edgar/data/711404/000071140424000062/,,30
+Cooper Companies,COO,2024Q2,2024-07-31,분기별 영업이익,192500000,USD,공시,https://www.sec.gov/Archives/edgar/data/711404/000071140424000062/,,30
+Cooper Companies,COO,2024Q2,2024-07-31,분기별 당기순이익(지배),104700000,USD,공시,https://www.sec.gov/Archives/edgar/data/711404/000071140424000062/,,30
+Cooper Companies,COO,2024Q2,2024-07-31,분기별 영업활동현금흐름,207500000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/711404/000071140424000062/ ; https://www.sec.gov/Archives/edgar/data/711404/000071140424000043/,누적 441200000 − 직전누적 233700000 (시작 2023-11-01),30
+Cooper Companies,COO,2024Q2,2024-07-31,분기말 자산총계,12108000000,USD,공시,https://www.sec.gov/Archives/edgar/data/711404/000071140424000062/,,30
+Cooper Companies,COO,2024Q2,2024-07-31,분기말 부채총계,4182800000,USD,공시,https://www.sec.gov/Archives/edgar/data/711404/000071140424000062/,,30
+Cooper Companies,COO,2024Q2,2024-07-31,분기말 총자본(자기자본),7925200000,USD,공시,https://www.sec.gov/Archives/edgar/data/711404/000071140424000062/,,30
+Cooper Companies,COO,2024Q2,2024-07-31,분기말 지배지분 자본,7925000000,USD,공시,https://www.sec.gov/Archives/edgar/data/711404/000071140424000062/,,30
+Cooper Companies,COO,2024Q2,2024-07-31,분기말 종가,93.33,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/COO?interval=1d&events=splits (2024-07-31),,30
+Cooper Companies,COO,2024Q2,2024-08-23,분기말 상장주식수,199155603,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/711404/000071140424000062/,dei:EntityCommonStockSharesOutstanding 클래스 합,30
+Cooper Companies,COO,2024Q2,2024-07-31,분기말 시가총액,18587192428,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/COO?interval=1d&events=splits (2024-07-31) ; https://www.sec.gov/Archives/edgar/data/711404/000071140424000062/,종가 93.33 × 주식수 199155603,30
+Cooper Companies,COO,2024Q3,2024-10-31,분기별 매출액,1018400000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/711404/000071140424000074/ ; https://www.sec.gov/Archives/edgar/data/711404/000071140424000062/,연간 3895400000 − 9개월누적 2877000000 (RevenueFromContractWithCustomerExcludingAssessedTax),30
+Cooper Companies,COO,2024Q3,2024-10-31,분기별 영업이익,198400000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/711404/000071140424000074/ ; https://www.sec.gov/Archives/edgar/data/711404/000071140424000062/,연간 705700000 − 9개월누적 507300000 (OperatingIncomeLoss),30
+Cooper Companies,COO,2024Q3,2024-10-31,분기별 당기순이익(지배),117500000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/711404/000071140424000074/ ; https://www.sec.gov/Archives/edgar/data/711404/000071140424000062/,연간 392300000 − 9개월누적 274800000 (NetIncomeLoss),30
+Cooper Companies,COO,2024Q3,2024-10-31,분기별 영업활동현금흐름,268100000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/711404/000071140424000074/ ; https://www.sec.gov/Archives/edgar/data/711404/000071140424000062/,누적 709300000 − 직전누적 441200000 (시작 2023-11-01),30
+Cooper Companies,COO,2024Q3,2024-10-31,분기말 자산총계,12315200000,USD,공시,https://www.sec.gov/Archives/edgar/data/711404/000071140424000074/,,30
+Cooper Companies,COO,2024Q3,2024-10-31,분기말 부채총계,4231600000,USD,공시,https://www.sec.gov/Archives/edgar/data/711404/000071140424000074/,,30
+Cooper Companies,COO,2024Q3,2024-10-31,분기말 총자본(자기자본),8083600000,USD,공시,https://www.sec.gov/Archives/edgar/data/711404/000071140424000074/,,30
+Cooper Companies,COO,2024Q3,2024-10-31,분기말 지배지분 자본,8083400000,USD,공시,https://www.sec.gov/Archives/edgar/data/711404/000071140424000074/,,30
+Cooper Companies,COO,2024Q3,2024-10-31,분기말 종가,104.68,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/COO?interval=1d&events=splits (2024-10-31),,30
+Cooper Companies,COO,2024Q3,2024-11-29,분기말 상장주식수,199582626,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/711404/000071140424000074/,dei:EntityCommonStockSharesOutstanding 클래스 합,30
+Cooper Companies,COO,2024Q3,2024-10-31,분기말 시가총액,20892309290,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/COO?interval=1d&events=splits (2024-10-31) ; https://www.sec.gov/Archives/edgar/data/711404/000071140424000074/,종가 104.68 × 주식수 199582626,30
+Cooper Companies,COO,2024Q4,2025-01-31,분기별 매출액,964700000,USD,공시,https://www.sec.gov/Archives/edgar/data/711404/000071140425000015/,,30
+Cooper Companies,COO,2024Q4,2025-01-31,분기별 영업이익,182000000,USD,공시,https://www.sec.gov/Archives/edgar/data/711404/000071140425000015/,,30
+Cooper Companies,COO,2024Q4,2025-01-31,분기별 당기순이익(지배),104300000,USD,공시,https://www.sec.gov/Archives/edgar/data/711404/000071140425000015/,,30
+Cooper Companies,COO,2024Q4,2025-01-31,분기별 영업활동현금흐름,190600000,USD,공시,https://www.sec.gov/Archives/edgar/data/711404/000071140425000015/,,30
+Cooper Companies,COO,2024Q4,2025-01-31,분기말 자산총계,12222200000,USD,공시,https://www.sec.gov/Archives/edgar/data/711404/000071140425000015/,,30
+Cooper Companies,COO,2024Q4,2025-01-31,분기말 부채총계,4094700000,USD,공시,https://www.sec.gov/Archives/edgar/data/711404/000071140425000015/,,30
+Cooper Companies,COO,2024Q4,2025-01-31,분기말 총자본(자기자본),8127500000,USD,공시,https://www.sec.gov/Archives/edgar/data/711404/000071140425000015/,,30
+Cooper Companies,COO,2024Q4,2025-01-31,분기말 지배지분 자본,8127300000,USD,공시,https://www.sec.gov/Archives/edgar/data/711404/000071140425000015/,,30
+Cooper Companies,COO,2024Q4,2025-01-31,분기말 종가,96.55,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/COO?interval=1d&events=splits (2025-01-31),,30
+Cooper Companies,COO,2024Q4,2025-03-03,분기말 상장주식수,199981183,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/711404/000071140425000015/,dei:EntityCommonStockSharesOutstanding 클래스 합,30
+Cooper Companies,COO,2024Q4,2025-01-31,분기말 시가총액,19308183219,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/COO?interval=1d&events=splits (2025-01-31) ; https://www.sec.gov/Archives/edgar/data/711404/000071140425000015/,종가 96.55 × 주식수 199981183,30
+Cooper Companies,COO,2025Q1,2025-04-30,분기별 매출액,1002300000,USD,공시,https://www.sec.gov/Archives/edgar/data/711404/000071140425000040/,,30
+Cooper Companies,COO,2025Q1,2025-04-30,분기별 영업이익,184800000,USD,공시,https://www.sec.gov/Archives/edgar/data/711404/000071140425000040/,,30
+Cooper Companies,COO,2025Q1,2025-04-30,분기별 당기순이익(지배),87700000,USD,공시,https://www.sec.gov/Archives/edgar/data/711404/000071140425000040/,,30
+Cooper Companies,COO,2025Q1,2025-04-30,분기별 영업활동현금흐름,96200000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/711404/000071140425000040/ ; https://www.sec.gov/Archives/edgar/data/711404/000071140425000015/,누적 286800000 − 직전누적 190600000 (시작 2024-11-01),30
+Cooper Companies,COO,2025Q1,2025-04-30,분기말 자산총계,12413600000,USD,공시,https://www.sec.gov/Archives/edgar/data/711404/000071140425000040/,,30
+Cooper Companies,COO,2025Q1,2025-04-30,분기말 부채총계,4125500000,USD,공시,https://www.sec.gov/Archives/edgar/data/711404/000071140425000040/,,30
+Cooper Companies,COO,2025Q1,2025-04-30,분기말 총자본(자기자본),8288100000,USD,공시,https://www.sec.gov/Archives/edgar/data/711404/000071140425000040/,,30
+Cooper Companies,COO,2025Q1,2025-04-30,분기말 지배지분 자본,8287900000,USD,공시,https://www.sec.gov/Archives/edgar/data/711404/000071140425000040/,,30
+Cooper Companies,COO,2025Q1,2025-04-30,분기말 종가,81.67,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/COO?interval=1d&events=splits (2025-04-30),,30
+Cooper Companies,COO,2025Q1,2025-05-26,분기말 상장주식수,199512504,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/711404/000071140425000040/,dei:EntityCommonStockSharesOutstanding 클래스 합,30
+Cooper Companies,COO,2025Q1,2025-04-30,분기말 시가총액,16294186202,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/COO?interval=1d&events=splits (2025-04-30) ; https://www.sec.gov/Archives/edgar/data/711404/000071140425000040/,종가 81.67 × 주식수 199512504,30
+Cooper Companies,COO,2025Q2,2025-07-31,분기별 매출액,1060300000,USD,공시,https://www.sec.gov/Archives/edgar/data/711404/000071140425000051/,,30
+Cooper Companies,COO,2025Q2,2025-07-31,분기별 영업이익,175700000,USD,공시,https://www.sec.gov/Archives/edgar/data/711404/000071140425000051/,,30
+Cooper Companies,COO,2025Q2,2025-07-31,분기별 당기순이익(지배),98300000,USD,공시,https://www.sec.gov/Archives/edgar/data/711404/000071140425000051/,,30
+Cooper Companies,COO,2025Q2,2025-07-31,분기별 영업활동현금흐름,261400000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/711404/000071140425000051/ ; https://www.sec.gov/Archives/edgar/data/711404/000071140425000040/,누적 548200000 − 직전누적 286800000 (시작 2024-11-01),30
+Cooper Companies,COO,2025Q2,2025-07-31,분기말 자산총계,12376700000,USD,공시,https://www.sec.gov/Archives/edgar/data/711404/000071140425000051/,,30
+Cooper Companies,COO,2025Q2,2025-07-31,분기말 부채총계,4023700000,USD,공시,https://www.sec.gov/Archives/edgar/data/711404/000071140425000051/,,30
+Cooper Companies,COO,2025Q2,2025-07-31,분기말 총자본(자기자본),8353000000,USD,공시,https://www.sec.gov/Archives/edgar/data/711404/000071140425000051/,,30
+Cooper Companies,COO,2025Q2,2025-07-31,분기말 지배지분 자본,8352800000,USD,공시,https://www.sec.gov/Archives/edgar/data/711404/000071140425000051/,,30
+Cooper Companies,COO,2025Q2,2025-07-31,분기말 종가,70.69,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/COO?interval=1d&events=splits (2025-07-31),,30
+Cooper Companies,COO,2025Q2,2025-08-22,분기말 상장주식수,198808921,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/711404/000071140425000051/,dei:EntityCommonStockSharesOutstanding 클래스 합,30
+Cooper Companies,COO,2025Q2,2025-07-31,분기말 시가총액,14053802625,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/COO?interval=1d&events=splits (2025-07-31) ; https://www.sec.gov/Archives/edgar/data/711404/000071140425000051/,종가 70.69 × 주식수 198808921,30
+Cooper Companies,COO,2025Q3,2025-10-31,분기별 매출액,1065100000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/711404/000162828025055615/ ; https://www.sec.gov/Archives/edgar/data/711404/000071140425000051/,연간 4092400000 − 9개월누적 3027300000 (RevenueFromContractWithCustomerExcludingAssessedTax),30
+Cooper Companies,COO,2025Q3,2025-10-31,분기별 영업이익,140400000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/711404/000162828025055615/ ; https://www.sec.gov/Archives/edgar/data/711404/000071140425000051/,연간 682900000 − 9개월누적 542500000 (OperatingIncomeLoss),30
+Cooper Companies,COO,2025Q3,2025-10-31,분기별 당기순이익(지배),84600000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/711404/000162828025055615/ ; https://www.sec.gov/Archives/edgar/data/711404/000071140425000051/,연간 374900000 − 9개월누적 290300000 (NetIncomeLoss),30
+Cooper Companies,COO,2025Q3,2025-10-31,분기별 영업활동현금흐름,247900000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/711404/000162828025055615/ ; https://www.sec.gov/Archives/edgar/data/711404/000071140425000051/,누적 796100000 − 직전누적 548200000 (시작 2024-11-01),30
+Cooper Companies,COO,2025Q3,2025-10-31,분기말 자산총계,12394800000,USD,공시,https://www.sec.gov/Archives/edgar/data/711404/000162828025055615/,,30
+Cooper Companies,COO,2025Q3,2025-10-31,분기말 부채총계,4155700000,USD,공시,https://www.sec.gov/Archives/edgar/data/711404/000162828025055615/,,30
+Cooper Companies,COO,2025Q3,2025-10-31,분기말 총자본(자기자본),8239100000,USD,공시,https://www.sec.gov/Archives/edgar/data/711404/000162828025055615/,,30
+Cooper Companies,COO,2025Q3,2025-10-31,분기말 지배지분 자본,8238900000,USD,공시,https://www.sec.gov/Archives/edgar/data/711404/000162828025055615/,,30
+Cooper Companies,COO,2025Q3,2025-10-31,분기말 종가,69.91,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/COO?interval=1d&events=splits (2025-10-31),,30
+Cooper Companies,COO,2025Q3,2025-12-01,분기말 상장주식수,195978026,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/711404/000162828025055615/,dei:EntityCommonStockSharesOutstanding 클래스 합,30
+Cooper Companies,COO,2025Q3,2025-10-31,분기말 시가총액,13700823798,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/COO?interval=1d&events=splits (2025-10-31) ; https://www.sec.gov/Archives/edgar/data/711404/000162828025055615/,종가 69.91 × 주식수 195978026,30
+Cooper Companies,COO,2025Q4,2026-01-31,분기별 매출액,1024100000,USD,공시,https://www.sec.gov/Archives/edgar/data/711404/000162828026015620/,,30
+Cooper Companies,COO,2025Q4,2026-01-31,분기별 영업이익,212800000,USD,공시,https://www.sec.gov/Archives/edgar/data/711404/000162828026015620/,,30
+Cooper Companies,COO,2025Q4,2026-01-31,분기별 당기순이익(지배),130800000,USD,공시,https://www.sec.gov/Archives/edgar/data/711404/000162828026015620/,,30
+Cooper Companies,COO,2025Q4,2026-01-31,분기별 영업활동현금흐름,260900000,USD,공시,https://www.sec.gov/Archives/edgar/data/711404/000162828026015620/,,30
+Cooper Companies,COO,2025Q4,2026-01-31,분기말 자산총계,12424200000,USD,공시,https://www.sec.gov/Archives/edgar/data/711404/000162828026015620/,,30
+Cooper Companies,COO,2025Q4,2026-01-31,분기말 부채총계,4060200000,USD,공시,https://www.sec.gov/Archives/edgar/data/711404/000162828026015620/,,30
+Cooper Companies,COO,2025Q4,2026-01-31,분기말 총자본(자기자본),8364000000,USD,공시,https://www.sec.gov/Archives/edgar/data/711404/000162828026015620/,,30
+Cooper Companies,COO,2025Q4,2026-01-31,분기말 지배지분 자본,8363800000,USD,공시,https://www.sec.gov/Archives/edgar/data/711404/000162828026015620/,,30
+Cooper Companies,COO,2025Q4,2026-01-30,분기말 종가,81.38,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/COO?interval=1d&events=splits (2026-01-30),,30
+Cooper Companies,COO,2025Q4,2026-03-02,분기말 상장주식수,195114398,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/711404/000162828026015620/,dei:EntityCommonStockSharesOutstanding 클래스 합,30
+Cooper Companies,COO,2025Q4,2026-01-30,분기말 시가총액,15878409709,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/COO?interval=1d&events=splits (2026-01-30) ; https://www.sec.gov/Archives/edgar/data/711404/000162828026015620/,종가 81.38 × 주식수 195114398,30
+Cooper Companies,COO,2026Q1,2026-04-30,분기별 매출액,1081500000,USD,공시,https://www.sec.gov/Archives/edgar/data/711404/000162828026041305/,,30
+Cooper Companies,COO,2026Q1,2026-04-30,분기별 영업이익,-31000000,USD,공시,https://www.sec.gov/Archives/edgar/data/711404/000162828026041305/,,30
+Cooper Companies,COO,2026Q1,2026-04-30,분기별 당기순이익(지배),-77900000,USD,공시,https://www.sec.gov/Archives/edgar/data/711404/000162828026041305/,,30
+Cooper Companies,COO,2026Q1,2026-04-30,분기별 영업활동현금흐름,182800000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/711404/000162828026041305/ ; https://www.sec.gov/Archives/edgar/data/711404/000162828026015620/,누적 443700000 − 직전누적 260900000 (시작 2025-11-01),30
+Cooper Companies,COO,2026Q1,2026-04-30,분기말 자산총계,12482300000,USD,공시,https://www.sec.gov/Archives/edgar/data/711404/000162828026041305/,,30
+Cooper Companies,COO,2026Q1,2026-04-30,분기말 부채총계,4243200000,USD,공시,https://www.sec.gov/Archives/edgar/data/711404/000162828026041305/,,30
+Cooper Companies,COO,2026Q1,2026-04-30,분기말 총자본(자기자본),8239100000,USD,공시,https://www.sec.gov/Archives/edgar/data/711404/000162828026041305/,,30
+Cooper Companies,COO,2026Q1,2026-04-30,분기말 지배지분 자본,8238900000,USD,공시,https://www.sec.gov/Archives/edgar/data/711404/000162828026041305/,,30
+Cooper Companies,COO,2026Q1,2026-04-30,분기말 종가,62.9,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/COO?interval=1d&events=splits (2026-04-30),,30
+Cooper Companies,COO,2026Q1,2026-06-01,분기말 상장주식수,195030630,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/711404/000162828026041305/,dei:EntityCommonStockSharesOutstanding 클래스 합,30
+Cooper Companies,COO,2026Q1,2026-04-30,분기말 시가총액,12267426627,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/COO?interval=1d&events=splits (2026-04-30) ; https://www.sec.gov/Archives/edgar/data/711404/000162828026041305/,종가 62.9 × 주식수 195030630,30
+Cooper Companies,COO,2026Q2,2026-07-31,분기별 매출액,1066200000,USD,공시,https://www.sec.gov/Archives/edgar/data/711404/000162828026061160/,,30
+Cooper Companies,COO,2026Q2,2026-07-31,분기별 영업이익,222000000,USD,공시,https://www.sec.gov/Archives/edgar/data/711404/000162828026061160/,,30
+Cooper Companies,COO,2026Q2,2026-07-31,분기별 당기순이익(지배),432800000,USD,공시,https://www.sec.gov/Archives/edgar/data/711404/000162828026061160/,,30
+Cooper Companies,COO,2026Q2,2026-07-31,분기별 영업활동현금흐름,341700000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/711404/000162828026061160/ ; https://www.sec.gov/Archives/edgar/data/711404/000162828026041305/,누적 785400000 − 직전누적 443700000 (시작 2025-11-01),30
+Cooper Companies,COO,2026Q2,2026-07-31,분기말 자산총계,12673400000,USD,공시,https://www.sec.gov/Archives/edgar/data/711404/000162828026061160/,,30
+Cooper Companies,COO,2026Q2,2026-07-31,분기말 부채총계,4345000000,USD,공시,https://www.sec.gov/Archives/edgar/data/711404/000162828026061160/,,30
+Cooper Companies,COO,2026Q2,2026-07-31,분기말 총자본(자기자본),8328400000,USD,공시,https://www.sec.gov/Archives/edgar/data/711404/000162828026061160/,,30
+Cooper Companies,COO,2026Q2,2026-07-31,분기말 지배지분 자본,8328200000,USD,공시,https://www.sec.gov/Archives/edgar/data/711404/000162828026061160/,,30
+Cooper Companies,COO,2026Q2,2026-07-31,분기말 종가,72.32,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/COO?interval=1d&events=splits (2026-07-31),,30
+Cooper Companies,COO,2026Q2,2026-09-03,분기말 상장주식수,190155294,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/711404/000162828026061160/,dei:EntityCommonStockSharesOutstanding 클래스 합,30
+Cooper Companies,COO,2026Q2,2026-07-31,분기말 시가총액,13752030862,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/COO?interval=1d&events=splits (2026-07-31) ; https://www.sec.gov/Archives/edgar/data/711404/000162828026061160/,종가 72.32 × 주식수 190155294,30

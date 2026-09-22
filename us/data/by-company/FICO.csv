@@ -1,0 +1,727 @@
+﻿기업,종목코드,기간,기준일,항목,값,통화,값구분,출처,검산,라운드
+Fair Isaac,FICO,2010Q1,2010-03-31,분기별 매출액,143720000,USD,공시(후속 보고서 비교기간),https://www.sec.gov/Archives/edgar/data/814547/000095012311048280/,SalesRevenueNet ; 그 분기 보고서에 연결 총계가 없어 2011-05-10 제출본의 비교기간에서 읽었다,16
+Fair Isaac,FICO,2010Q1,2010-03-31,분기별 영업이익,23061000,USD,공시(후속 보고서 비교기간),https://www.sec.gov/Archives/edgar/data/814547/000095012311048280/,OperatingIncomeLoss ; 그 분기 보고서에 연결 총계가 없어 2011-05-10 제출본의 비교기간에서 읽었다,16
+Fair Isaac,FICO,2010Q1,2010-03-31,분기별 당기순이익(지배),12992000,USD,공시(후속 보고서 비교기간),https://www.sec.gov/Archives/edgar/data/814547/000095012311048280/,NetIncomeLoss ; 그 분기 보고서에 연결 총계가 없어 2011-05-10 제출본의 비교기간에서 읽었다,16
+Fair Isaac,FICO,2010Q1,2010-03-31,분기별 영업활동현금흐름,미확인,USD,미확인,https://www.sec.gov/Archives/edgar/data/814547/000095012310046116/,,16
+Fair Isaac,FICO,2010Q1,2010-03-31,분기말 자산총계,미확인,USD,미확인,https://www.sec.gov/Archives/edgar/data/814547/000095012310046116/,,16
+Fair Isaac,FICO,2010Q1,2010-03-31,분기말 부채총계,미확인,USD,미확인,https://www.sec.gov/Archives/edgar/data/814547/000095012310046116/,,16
+Fair Isaac,FICO,2010Q1,2010-03-31,분기말 총자본(자기자본),미확인,USD,미확인,https://www.sec.gov/Archives/edgar/data/814547/000095012310046116/,,16
+Fair Isaac,FICO,2010Q1,2010-03-31,분기말 지배지분 자본,미확인,USD,미확인,https://www.sec.gov/Archives/edgar/data/814547/000095012310046116/,,16
+Fair Isaac,FICO,2010Q1,2010-03-31,분기말 종가,25.34,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/FICO?interval=1d&events=splits (2010-03-31),,16
+Fair Isaac,FICO,2010Q1,2010-03-31,분기말 상장주식수,미확인,,미확인,SEC companyfacts·XBRL 원문 모두 dei 표지 주식수 없음,,16
+Fair Isaac,FICO,2010Q1,2010-03-31,분기말 시가총액,미확인,,미확인,SEC companyfacts·XBRL 원문 모두 dei 표지 주식수 없음,,16
+Fair Isaac,FICO,2010Q2,2010-06-30,분기별 매출액,155329000,USD,공시,https://www.sec.gov/Archives/edgar/data/814547/000095012310074342/,,16
+Fair Isaac,FICO,2010Q2,2010-06-30,분기별 영업이익,31077000,USD,공시,https://www.sec.gov/Archives/edgar/data/814547/000095012310074342/,,16
+Fair Isaac,FICO,2010Q2,2010-06-30,분기별 당기순이익(지배),17938000,USD,공시,https://www.sec.gov/Archives/edgar/data/814547/000095012310074342/,,16
+Fair Isaac,FICO,2010Q2,2010-06-30,분기별 영업활동현금흐름,데이터 없음(직전 분기 누적 보고서 없음),USD,데이터 없음(직전 보고서 없음),https://www.sec.gov/Archives/edgar/data/814547/000095012310074342/,,16
+Fair Isaac,FICO,2010Q2,2010-06-30,분기말 자산총계,1162397000,USD,공시,https://www.sec.gov/Archives/edgar/data/814547/000095012310074342/,,16
+Fair Isaac,FICO,2010Q2,2010-06-30,분기말 부채총계,655281000,USD,공시,https://www.sec.gov/Archives/edgar/data/814547/000095012310074342/,,16
+Fair Isaac,FICO,2010Q2,2010-06-30,분기말 총자본(자기자본),507116000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/814547/000095012310074342/,"StockholdersEquity, MinorityInterest 태그 없음",16
+Fair Isaac,FICO,2010Q2,2010-06-30,분기말 지배지분 자본,507116000,USD,공시,https://www.sec.gov/Archives/edgar/data/814547/000095012310074342/,,16
+Fair Isaac,FICO,2010Q2,2010-06-30,분기말 종가,21.79,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/FICO?interval=1d&events=splits (2010-06-30),,16
+Fair Isaac,FICO,2010Q2,2010-07-31,분기말 상장주식수,41710784,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/814547/000095012310074342/,dei:EntityCommonStockSharesOutstanding 클래스 합,16
+Fair Isaac,FICO,2010Q2,2010-06-30,분기말 시가총액,908877983,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/FICO?interval=1d&events=splits (2010-06-30) ; https://www.sec.gov/Archives/edgar/data/814547/000095012310074342/,종가 21.79 × 주식수 41710784,16
+Fair Isaac,FICO,2010Q3,2010-09-30,분기별 매출액,155098000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/814547/000095012310108284/ ; https://www.sec.gov/Archives/edgar/data/814547/000095012310074342/,연간 605643000 − 9개월누적 450545000 (SalesRevenueNet),16
+Fair Isaac,FICO,2010Q3,2010-09-30,분기별 영업이익,27578000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/814547/000095012310108284/ ; https://www.sec.gov/Archives/edgar/data/814547/000095012310074342/,연간 113349000 − 9개월누적 85771000 (OperatingIncomeLoss),16
+Fair Isaac,FICO,2010Q3,2010-09-30,분기별 당기순이익(지배),15841000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/814547/000095012310108284/ ; https://www.sec.gov/Archives/edgar/data/814547/000095012310074342/,연간 64457000 − 9개월누적 48616000 (NetIncomeLoss),16
+Fair Isaac,FICO,2010Q3,2010-09-30,분기별 영업활동현금흐름,21755000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/814547/000095012310108284/ ; https://www.sec.gov/Archives/edgar/data/814547/000095012310074342/,누적 105780000 − 직전누적 84025000 (시작 2009-10-01),16
+Fair Isaac,FICO,2010Q3,2010-09-30,분기말 자산총계,1123716000,USD,공시,https://www.sec.gov/Archives/edgar/data/814547/000095012310108284/,,16
+Fair Isaac,FICO,2010Q3,2010-09-30,분기말 부채총계,648802000,USD,공시,https://www.sec.gov/Archives/edgar/data/814547/000095012310108284/,,16
+Fair Isaac,FICO,2010Q3,2010-09-30,분기말 총자본(자기자본),474914000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/814547/000095012310108284/,"StockholdersEquity, MinorityInterest 태그 없음",16
+Fair Isaac,FICO,2010Q3,2010-09-30,분기말 지배지분 자본,474914000,USD,공시,https://www.sec.gov/Archives/edgar/data/814547/000095012310108284/,,16
+Fair Isaac,FICO,2010Q3,2010-09-30,분기말 종가,24.66,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/FICO?interval=1d&events=splits (2010-09-30),,16
+Fair Isaac,FICO,2010Q3,2010-10-31,분기말 상장주식수,39887143,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/814547/000095012310108284/,dei:EntityCommonStockSharesOutstanding 클래스 합,16
+Fair Isaac,FICO,2010Q3,2010-09-30,분기말 시가총액,983616946,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/FICO?interval=1d&events=splits (2010-09-30) ; https://www.sec.gov/Archives/edgar/data/814547/000095012310108284/,종가 24.66 × 주식수 39887143,16
+Fair Isaac,FICO,2010Q4,2010-12-31,분기별 매출액,155931000,USD,공시,https://www.sec.gov/Archives/edgar/data/814547/000095012311010969/,,16
+Fair Isaac,FICO,2010Q4,2010-12-31,분기별 영업이익,29636000,USD,공시,https://www.sec.gov/Archives/edgar/data/814547/000095012311010969/,,16
+Fair Isaac,FICO,2010Q4,2010-12-31,분기별 당기순이익(지배),16009000,USD,공시,https://www.sec.gov/Archives/edgar/data/814547/000095012311010969/,,16
+Fair Isaac,FICO,2010Q4,2010-12-31,분기별 영업활동현금흐름,32880000,USD,공시,https://www.sec.gov/Archives/edgar/data/814547/000095012311010969/,,16
+Fair Isaac,FICO,2010Q4,2010-12-31,분기말 자산총계,1136144000,USD,공시,https://www.sec.gov/Archives/edgar/data/814547/000095012311010969/,,16
+Fair Isaac,FICO,2010Q4,2010-12-31,분기말 부채총계,644686000,USD,공시,https://www.sec.gov/Archives/edgar/data/814547/000095012311010969/,,16
+Fair Isaac,FICO,2010Q4,2010-12-31,분기말 총자본(자기자본),491458000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/814547/000095012311010969/,"StockholdersEquity, MinorityInterest 태그 없음",16
+Fair Isaac,FICO,2010Q4,2010-12-31,분기말 지배지분 자본,491458000,USD,공시,https://www.sec.gov/Archives/edgar/data/814547/000095012311010969/,,16
+Fair Isaac,FICO,2010Q4,2010-12-31,분기말 종가,23.37,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/FICO?interval=1d&events=splits (2010-12-31),,16
+Fair Isaac,FICO,2010Q4,2011-01-31,분기말 상장주식수,40058609,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/814547/000095012311010969/,dei:EntityCommonStockSharesOutstanding 클래스 합,16
+Fair Isaac,FICO,2010Q4,2010-12-31,분기말 시가총액,936169692,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/FICO?interval=1d&events=splits (2010-12-31) ; https://www.sec.gov/Archives/edgar/data/814547/000095012311010969/,종가 23.37 × 주식수 40058609,16
+Fair Isaac,FICO,2011Q1,2011-03-31,분기별 매출액,152824000,USD,공시,https://www.sec.gov/Archives/edgar/data/814547/000095012311048280/,,16
+Fair Isaac,FICO,2011Q1,2011-03-31,분기별 영업이익,19192000,USD,공시,https://www.sec.gov/Archives/edgar/data/814547/000095012311048280/,,16
+Fair Isaac,FICO,2011Q1,2011-03-31,분기별 당기순이익(지배),7745000,USD,공시,https://www.sec.gov/Archives/edgar/data/814547/000095012311048280/,,16
+Fair Isaac,FICO,2011Q1,2011-03-31,분기별 영업활동현금흐름,26738000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/814547/000095012311048280/ ; https://www.sec.gov/Archives/edgar/data/814547/000095012311010969/,누적 59618000 − 직전누적 32880000 (시작 2010-10-01),16
+Fair Isaac,FICO,2011Q1,2011-03-31,분기말 자산총계,1152426000,USD,공시,https://www.sec.gov/Archives/edgar/data/814547/000095012311048280/,,16
+Fair Isaac,FICO,2011Q1,2011-03-31,분기말 부채총계,654149000,USD,공시,https://www.sec.gov/Archives/edgar/data/814547/000095012311048280/,,16
+Fair Isaac,FICO,2011Q1,2011-03-31,분기말 총자본(자기자본),498277000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/814547/000095012311048280/,"StockholdersEquity, MinorityInterest 태그 없음",16
+Fair Isaac,FICO,2011Q1,2011-03-31,분기말 지배지분 자본,498277000,USD,공시,https://www.sec.gov/Archives/edgar/data/814547/000095012311048280/,,16
+Fair Isaac,FICO,2011Q1,2011-03-31,분기말 종가,31.61,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/FICO?interval=1d&events=splits (2011-03-31),,16
+Fair Isaac,FICO,2011Q1,2011-04-30,분기말 상장주식수,39832994,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/814547/000095012311048280/,dei:EntityCommonStockSharesOutstanding 클래스 합,16
+Fair Isaac,FICO,2011Q1,2011-03-31,분기말 시가총액,1259120940,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/FICO?interval=1d&events=splits (2011-03-31) ; https://www.sec.gov/Archives/edgar/data/814547/000095012311048280/,종가 31.61 × 주식수 39832994,16
+Fair Isaac,FICO,2011Q2,2011-06-30,분기별 매출액,150679000,USD,공시,https://www.sec.gov/Archives/edgar/data/814547/000119312511214037/,,16
+Fair Isaac,FICO,2011Q2,2011-06-30,분기별 영업이익,37406000,USD,공시,https://www.sec.gov/Archives/edgar/data/814547/000119312511214037/,,16
+Fair Isaac,FICO,2011Q2,2011-06-30,분기별 당기순이익(지배),23189000,USD,공시,https://www.sec.gov/Archives/edgar/data/814547/000119312511214037/,,16
+Fair Isaac,FICO,2011Q2,2011-06-30,분기별 영업활동현금흐름,45435000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/814547/000119312511214037/ ; https://www.sec.gov/Archives/edgar/data/814547/000095012311048280/,누적 105053000 − 직전누적 59618000 (시작 2010-10-01),16
+Fair Isaac,FICO,2011Q2,2011-06-30,분기말 자산총계,1141686000,USD,공시,https://www.sec.gov/Archives/edgar/data/814547/000119312511214037/,,16
+Fair Isaac,FICO,2011Q2,2011-06-30,분기말 부채총계,653900000,USD,공시,https://www.sec.gov/Archives/edgar/data/814547/000119312511214037/,,16
+Fair Isaac,FICO,2011Q2,2011-06-30,분기말 총자본(자기자본),487786000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/814547/000119312511214037/,"StockholdersEquity, MinorityInterest 태그 없음",16
+Fair Isaac,FICO,2011Q2,2011-06-30,분기말 지배지분 자본,487786000,USD,공시,https://www.sec.gov/Archives/edgar/data/814547/000119312511214037/,,16
+Fair Isaac,FICO,2011Q2,2011-06-30,분기말 종가,30.2,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/FICO?interval=1d&events=splits (2011-06-30),,16
+Fair Isaac,FICO,2011Q2,2011-07-29,분기말 상장주식수,38614075,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/814547/000119312511214037/,dei:EntityCommonStockSharesOutstanding 클래스 합,16
+Fair Isaac,FICO,2011Q2,2011-06-30,분기말 시가총액,1166145065,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/FICO?interval=1d&events=splits (2011-06-30) ; https://www.sec.gov/Archives/edgar/data/814547/000119312511214037/,종가 30.2 × 주식수 38614075,16
+Fair Isaac,FICO,2011Q3,2011-09-30,분기별 매출액,160249000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/814547/000119312511317245/ ; https://www.sec.gov/Archives/edgar/data/814547/000119312511214037/,연간 619683000 − 9개월누적 459434000 (SalesRevenueNet),16
+Fair Isaac,FICO,2011Q3,2011-09-30,분기별 영업이익,41103000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/814547/000119312511317245/ ; https://www.sec.gov/Archives/edgar/data/814547/000119312511214037/,연간 127337000 − 9개월누적 86234000 (OperatingIncomeLoss),16
+Fair Isaac,FICO,2011Q3,2011-09-30,분기별 당기순이익(지배),24619000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/814547/000119312511317245/ ; https://www.sec.gov/Archives/edgar/data/814547/000119312511214037/,연간 71562000 − 9개월누적 46943000 (NetIncomeLoss),16
+Fair Isaac,FICO,2011Q3,2011-09-30,분기별 영업활동현금흐름,31103000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/814547/000119312511317245/ ; https://www.sec.gov/Archives/edgar/data/814547/000119312511214037/,누적 136156000 − 직전누적 105053000 (시작 2010-10-01),16
+Fair Isaac,FICO,2011Q3,2011-09-30,분기말 자산총계,1129468000,USD,공시,https://www.sec.gov/Archives/edgar/data/814547/000119312511317245/,,16
+Fair Isaac,FICO,2011Q3,2011-09-30,분기말 부채총계,663974000,USD,공시,https://www.sec.gov/Archives/edgar/data/814547/000119312511317245/,,16
+Fair Isaac,FICO,2011Q3,2011-09-30,분기말 총자본(자기자본),465494000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/814547/000119312511317245/,"StockholdersEquity, MinorityInterest 태그 없음",16
+Fair Isaac,FICO,2011Q3,2011-09-30,분기말 지배지분 자본,465494000,USD,공시,https://www.sec.gov/Archives/edgar/data/814547/000119312511317245/,,16
+Fair Isaac,FICO,2011Q3,2011-09-30,분기말 종가,21.83,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/FICO?interval=1d&events=splits (2011-09-30),,16
+Fair Isaac,FICO,2011Q3,2011-10-31,분기말 상장주식수,35701425,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/814547/000119312511317245/,dei:EntityCommonStockSharesOutstanding 클래스 합,16
+Fair Isaac,FICO,2011Q3,2011-09-30,분기말 시가총액,779362108,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/FICO?interval=1d&events=splits (2011-09-30) ; https://www.sec.gov/Archives/edgar/data/814547/000119312511317245/,종가 21.83 × 주식수 35701425,16
+Fair Isaac,FICO,2011Q4,2011-12-31,분기별 매출액,170349000,USD,공시,https://www.sec.gov/Archives/edgar/data/814547/000119312512035674/,,16
+Fair Isaac,FICO,2011Q4,2011-12-31,분기별 영업이익,52072000,USD,공시,https://www.sec.gov/Archives/edgar/data/814547/000119312512035674/,,16
+Fair Isaac,FICO,2011Q4,2011-12-31,분기별 당기순이익(지배),29997000,USD,공시,https://www.sec.gov/Archives/edgar/data/814547/000119312512035674/,,16
+Fair Isaac,FICO,2011Q4,2011-12-31,분기별 영업활동현금흐름,41149000,USD,공시,https://www.sec.gov/Archives/edgar/data/814547/000119312512035674/,,16
+Fair Isaac,FICO,2011Q4,2011-12-31,분기말 자산총계,1125680000,USD,공시,https://www.sec.gov/Archives/edgar/data/814547/000119312512035674/,,16
+Fair Isaac,FICO,2011Q4,2011-12-31,분기말 부채총계,663422000,USD,공시,https://www.sec.gov/Archives/edgar/data/814547/000119312512035674/,,16
+Fair Isaac,FICO,2011Q4,2011-12-31,분기말 총자본(자기자본),462258000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/814547/000119312512035674/,"StockholdersEquity, MinorityInterest 태그 없음",16
+Fair Isaac,FICO,2011Q4,2011-12-31,분기말 지배지분 자본,462258000,USD,공시,https://www.sec.gov/Archives/edgar/data/814547/000119312512035674/,,16
+Fair Isaac,FICO,2011Q4,2011-12-30,분기말 종가,35.84,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/FICO?interval=1d&events=splits (2011-12-30),,16
+Fair Isaac,FICO,2011Q4,2012-01-31,분기말 상장주식수,36031522,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/814547/000119312512035674/,dei:EntityCommonStockSharesOutstanding 클래스 합,16
+Fair Isaac,FICO,2011Q4,2011-12-30,분기말 시가총액,1291369748,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/FICO?interval=1d&events=splits (2011-12-30) ; https://www.sec.gov/Archives/edgar/data/814547/000119312512035674/,종가 35.84 × 주식수 36031522,16
+Fair Isaac,FICO,2012Q1,2012-03-31,분기별 매출액,159521000,USD,공시,https://www.sec.gov/Archives/edgar/data/814547/000119312512195607/,,16
+Fair Isaac,FICO,2012Q1,2012-03-31,분기별 영업이익,38196000,USD,공시,https://www.sec.gov/Archives/edgar/data/814547/000119312512195607/,,16
+Fair Isaac,FICO,2012Q1,2012-03-31,분기별 당기순이익(지배),20012000,USD,공시,https://www.sec.gov/Archives/edgar/data/814547/000119312512195607/,,16
+Fair Isaac,FICO,2012Q1,2012-03-31,분기별 영업활동현금흐름,42327000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/814547/000119312512195607/ ; https://www.sec.gov/Archives/edgar/data/814547/000119312512035674/,누적 83476000 − 직전누적 41149000 (시작 2011-10-01),16
+Fair Isaac,FICO,2012Q1,2012-03-31,분기말 자산총계,1080591000,USD,공시,https://www.sec.gov/Archives/edgar/data/814547/000119312512195607/,,16
+Fair Isaac,FICO,2012Q1,2012-03-31,분기말 부채총계,667397000,USD,공시,https://www.sec.gov/Archives/edgar/data/814547/000119312512195607/,,16
+Fair Isaac,FICO,2012Q1,2012-03-31,분기말 총자본(자기자본),413194000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/814547/000119312512195607/,"StockholdersEquity, MinorityInterest 태그 없음",16
+Fair Isaac,FICO,2012Q1,2012-03-31,분기말 지배지분 자본,413194000,USD,공시,https://www.sec.gov/Archives/edgar/data/814547/000119312512195607/,,16
+Fair Isaac,FICO,2012Q1,2012-03-30,분기말 종가,43.9,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/FICO?interval=1d&events=splits (2012-03-30),,16
+Fair Isaac,FICO,2012Q1,2012-04-23,분기말 상장주식수,34284474,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/814547/000119312512195607/,dei:EntityCommonStockSharesOutstanding 클래스 합,16
+Fair Isaac,FICO,2012Q1,2012-03-30,분기말 시가총액,1505088409,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/FICO?interval=1d&events=splits (2012-03-30) ; https://www.sec.gov/Archives/edgar/data/814547/000119312512195607/,종가 43.9 × 주식수 34284474,16
+Fair Isaac,FICO,2012Q2,2012-06-30,분기별 매출액,160478000,USD,공시,https://www.sec.gov/Archives/edgar/data/814547/000119312512321641/,,16
+Fair Isaac,FICO,2012Q2,2012-06-30,분기별 영업이익,37168000,USD,공시,https://www.sec.gov/Archives/edgar/data/814547/000119312512321641/,,16
+Fair Isaac,FICO,2012Q2,2012-06-30,분기별 당기순이익(지배),20749000,USD,공시,https://www.sec.gov/Archives/edgar/data/814547/000119312512321641/,,16
+Fair Isaac,FICO,2012Q2,2012-06-30,분기별 영업활동현금흐름,22932000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/814547/000119312512321641/ ; https://www.sec.gov/Archives/edgar/data/814547/000119312512195607/,누적 106408000 − 직전누적 83476000 (시작 2011-10-01),16
+Fair Isaac,FICO,2012Q2,2012-06-30,분기말 자산총계,1066295000,USD,공시,https://www.sec.gov/Archives/edgar/data/814547/000119312512321641/,,16
+Fair Isaac,FICO,2012Q2,2012-06-30,분기말 부채총계,659935000,USD,공시,https://www.sec.gov/Archives/edgar/data/814547/000119312512321641/,,16
+Fair Isaac,FICO,2012Q2,2012-06-30,분기말 총자본(자기자본),406360000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/814547/000119312512321641/,"StockholdersEquity, MinorityInterest 태그 없음",16
+Fair Isaac,FICO,2012Q2,2012-06-30,분기말 지배지분 자본,406360000,USD,공시,https://www.sec.gov/Archives/edgar/data/814547/000119312512321641/,,16
+Fair Isaac,FICO,2012Q2,2012-06-29,분기말 종가,42.28,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/FICO?interval=1d&events=splits (2012-06-29),,16
+Fair Isaac,FICO,2012Q2,2012-07-23,분기말 상장주식수,33843068,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/814547/000119312512321641/,dei:EntityCommonStockSharesOutstanding 클래스 합,16
+Fair Isaac,FICO,2012Q2,2012-06-29,분기말 시가총액,1430884915,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/FICO?interval=1d&events=splits (2012-06-29) ; https://www.sec.gov/Archives/edgar/data/814547/000119312512321641/,종가 42.28 × 주식수 33843068,16
+Fair Isaac,FICO,2012Q3,2012-09-30,분기별 매출액,186075000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/814547/000119312512473516/ ; https://www.sec.gov/Archives/edgar/data/814547/000119312512321641/,연간 676423000 − 9개월누적 490348000 (SalesRevenueNet),16
+Fair Isaac,FICO,2012Q3,2012-09-30,분기별 영업이익,40922000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/814547/000119312512473516/ ; https://www.sec.gov/Archives/edgar/data/814547/000119312512321641/,연간 168358000 − 9개월누적 127436000 (OperatingIncomeLoss),16
+Fair Isaac,FICO,2012Q3,2012-09-30,분기별 당기순이익(지배),21246000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/814547/000119312512473516/ ; https://www.sec.gov/Archives/edgar/data/814547/000119312512321641/,연간 92004000 − 9개월누적 70758000 (NetIncomeLoss),16
+Fair Isaac,FICO,2012Q3,2012-09-30,분기별 영업활동현금흐름,23338000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/814547/000119312512473516/ ; https://www.sec.gov/Archives/edgar/data/814547/000119312512321641/,누적 129746000 − 직전누적 106408000 (시작 2011-10-01),16
+Fair Isaac,FICO,2012Q3,2012-09-30,분기말 자산총계,1158611000,USD,공시,https://www.sec.gov/Archives/edgar/data/814547/000119312512473516/,,16
+Fair Isaac,FICO,2012Q3,2012-09-30,분기말 부채총계,684205000,USD,공시,https://www.sec.gov/Archives/edgar/data/814547/000119312512473516/,,16
+Fair Isaac,FICO,2012Q3,2012-09-30,분기말 총자본(자기자본),474406000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/814547/000119312512473516/,"StockholdersEquity, MinorityInterest 태그 없음",16
+Fair Isaac,FICO,2012Q3,2012-09-30,분기말 지배지분 자본,474406000,USD,공시,https://www.sec.gov/Archives/edgar/data/814547/000119312512473516/,,16
+Fair Isaac,FICO,2012Q3,2012-09-28,분기말 종가,44.26,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/FICO?interval=1d&events=splits (2012-09-28),,16
+Fair Isaac,FICO,2012Q3,2012-10-31,분기말 상장주식수,34915741,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/814547/000119312512473516/,dei:EntityCommonStockSharesOutstanding 클래스 합,16
+Fair Isaac,FICO,2012Q3,2012-09-28,분기말 시가총액,1545370697,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/FICO?interval=1d&events=splits (2012-09-28) ; https://www.sec.gov/Archives/edgar/data/814547/000119312512473516/,종가 44.26 × 주식수 34915741,16
+Fair Isaac,FICO,2012Q4,2012-12-31,분기별 매출액,190020000,USD,공시,https://www.sec.gov/Archives/edgar/data/814547/000119312513029957/,,16
+Fair Isaac,FICO,2012Q4,2012-12-31,분기별 영업이익,42994000,USD,공시,https://www.sec.gov/Archives/edgar/data/814547/000119312513029957/,,16
+Fair Isaac,FICO,2012Q4,2012-12-31,분기별 당기순이익(지배),23421000,USD,공시,https://www.sec.gov/Archives/edgar/data/814547/000119312513029957/,,16
+Fair Isaac,FICO,2012Q4,2012-12-31,분기별 영업활동현금흐름,28729000,USD,공시,https://www.sec.gov/Archives/edgar/data/814547/000119312513029957/,,16
+Fair Isaac,FICO,2012Q4,2012-12-31,분기말 자산총계,1176114000,USD,공시,https://www.sec.gov/Archives/edgar/data/814547/000119312513029957/,,16
+Fair Isaac,FICO,2012Q4,2012-12-31,분기말 부채총계,667386000,USD,공시,https://www.sec.gov/Archives/edgar/data/814547/000119312513029957/,,16
+Fair Isaac,FICO,2012Q4,2012-12-31,분기말 총자본(자기자본),508728000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/814547/000119312513029957/,"StockholdersEquity, MinorityInterest 태그 없음",16
+Fair Isaac,FICO,2012Q4,2012-12-31,분기말 지배지분 자본,508728000,USD,공시,https://www.sec.gov/Archives/edgar/data/814547/000119312513029957/,,16
+Fair Isaac,FICO,2012Q4,2012-12-31,분기말 종가,42.03,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/FICO?interval=1d&events=splits (2012-12-31),,16
+Fair Isaac,FICO,2012Q4,2013-01-18,분기말 상장주식수,35493648,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/814547/000119312513029957/,dei:EntityCommonStockSharesOutstanding 클래스 합,16
+Fair Isaac,FICO,2012Q4,2012-12-31,분기말 시가총액,1491798025,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/FICO?interval=1d&events=splits (2012-12-31) ; https://www.sec.gov/Archives/edgar/data/814547/000119312513029957/,종가 42.03 × 주식수 35493648,16
+Fair Isaac,FICO,2013Q1,2013-03-31,분기별 매출액,179325000,USD,공시,https://www.sec.gov/Archives/edgar/data/814547/000119312513180832/,,16
+Fair Isaac,FICO,2013Q1,2013-03-31,분기별 영업이익,33206000,USD,공시,https://www.sec.gov/Archives/edgar/data/814547/000119312513180832/,,16
+Fair Isaac,FICO,2013Q1,2013-03-31,분기별 당기순이익(지배),18495000,USD,공시,https://www.sec.gov/Archives/edgar/data/814547/000119312513180832/,,16
+Fair Isaac,FICO,2013Q1,2013-03-31,분기별 영업활동현금흐름,40225000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/814547/000119312513180832/ ; https://www.sec.gov/Archives/edgar/data/814547/000119312513029957/,누적 68954000 − 직전누적 28729000 (시작 2012-10-01),16
+Fair Isaac,FICO,2013Q1,2013-03-31,분기말 자산총계,1198341000,USD,공시,https://www.sec.gov/Archives/edgar/data/814547/000119312513180832/,,16
+Fair Isaac,FICO,2013Q1,2013-03-31,분기말 부채총계,668116000,USD,공시,https://www.sec.gov/Archives/edgar/data/814547/000119312513180832/,,16
+Fair Isaac,FICO,2013Q1,2013-03-31,분기말 총자본(자기자본),530225000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/814547/000119312513180832/,"StockholdersEquity, MinorityInterest 태그 없음",16
+Fair Isaac,FICO,2013Q1,2013-03-31,분기말 지배지분 자본,530225000,USD,공시,https://www.sec.gov/Archives/edgar/data/814547/000119312513180832/,,16
+Fair Isaac,FICO,2013Q1,2013-03-28,분기말 종가,45.69,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/FICO?interval=1d&events=splits (2013-03-28),,16
+Fair Isaac,FICO,2013Q1,2013-04-19,분기말 상장주식수,35871888,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/814547/000119312513180832/,dei:EntityCommonStockSharesOutstanding 클래스 합,16
+Fair Isaac,FICO,2013Q1,2013-03-28,분기말 시가총액,1638986563,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/FICO?interval=1d&events=splits (2013-03-28) ; https://www.sec.gov/Archives/edgar/data/814547/000119312513180832/,종가 45.69 × 주식수 35871888,16
+Fair Isaac,FICO,2013Q2,2013-06-30,분기별 매출액,183772000,USD,공시,https://www.sec.gov/Archives/edgar/data/814547/000119312513310195/,,16
+Fair Isaac,FICO,2013Q2,2013-06-30,분기별 영업이익,35208000,USD,공시,https://www.sec.gov/Archives/edgar/data/814547/000119312513310195/,,16
+Fair Isaac,FICO,2013Q2,2013-06-30,분기별 당기순이익(지배),19622000,USD,공시,https://www.sec.gov/Archives/edgar/data/814547/000119312513310195/,,16
+Fair Isaac,FICO,2013Q2,2013-06-30,분기별 영업활동현금흐름,31223000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/814547/000119312513310195/ ; https://www.sec.gov/Archives/edgar/data/814547/000119312513180832/,누적 100177000 − 직전누적 68954000 (시작 2012-10-01),16
+Fair Isaac,FICO,2013Q2,2013-06-30,분기말 자산총계,1164143000,USD,공시,https://www.sec.gov/Archives/edgar/data/814547/000119312513310195/,,16
+Fair Isaac,FICO,2013Q2,2013-06-30,분기말 부채총계,648906000,USD,공시,https://www.sec.gov/Archives/edgar/data/814547/000119312513310195/,,16
+Fair Isaac,FICO,2013Q2,2013-06-30,분기말 총자본(자기자본),515237000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/814547/000119312513310195/,"StockholdersEquity, MinorityInterest 태그 없음",16
+Fair Isaac,FICO,2013Q2,2013-06-30,분기말 지배지분 자본,515237000,USD,공시,https://www.sec.gov/Archives/edgar/data/814547/000119312513310195/,,16
+Fair Isaac,FICO,2013Q2,2013-06-28,분기말 종가,45.83,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/FICO?interval=1d&events=splits (2013-06-28),,16
+Fair Isaac,FICO,2013Q2,2013-07-19,분기말 상장주식수,35201057,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/814547/000119312513310195/,dei:EntityCommonStockSharesOutstanding 클래스 합,16
+Fair Isaac,FICO,2013Q2,2013-06-28,분기말 시가총액,1613264442,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/FICO?interval=1d&events=splits (2013-06-28) ; https://www.sec.gov/Archives/edgar/data/814547/000119312513310195/,종가 45.83 × 주식수 35201057,16
+Fair Isaac,FICO,2013Q3,2013-09-30,분기별 매출액,190327000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/814547/000119312513438562/ ; https://www.sec.gov/Archives/edgar/data/814547/000119312513310195/,연간 743444000 − 9개월누적 553117000 (SalesRevenueNet),16
+Fair Isaac,FICO,2013Q3,2013-09-30,분기별 영업이익,50185000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/814547/000119312513438562/ ; https://www.sec.gov/Archives/edgar/data/814547/000119312513310195/,연간 161593000 − 9개월누적 111408000 (OperatingIncomeLoss),16
+Fair Isaac,FICO,2013Q3,2013-09-30,분기별 당기순이익(지배),28557000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/814547/000119312513438562/ ; https://www.sec.gov/Archives/edgar/data/814547/000119312513310195/,연간 90095000 − 9개월누적 61538000 (NetIncomeLoss),16
+Fair Isaac,FICO,2013Q3,2013-09-30,분기별 영업활동현금흐름,35943000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/814547/000119312513438562/ ; https://www.sec.gov/Archives/edgar/data/814547/000119312513310195/,누적 136120000 − 직전누적 100177000 (시작 2012-10-01),16
+Fair Isaac,FICO,2013Q3,2013-09-30,분기말 자산총계,1161547000,USD,공시,https://www.sec.gov/Archives/edgar/data/814547/000119312513438562/,,16
+Fair Isaac,FICO,2013Q3,2013-09-30,분기말 부채총계,630870000,USD,공시,https://www.sec.gov/Archives/edgar/data/814547/000119312513438562/,,16
+Fair Isaac,FICO,2013Q3,2013-09-30,분기말 총자본(자기자본),530677000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/814547/000119312513438562/,"StockholdersEquity, MinorityInterest 태그 없음",16
+Fair Isaac,FICO,2013Q3,2013-09-30,분기말 지배지분 자본,530677000,USD,공시,https://www.sec.gov/Archives/edgar/data/814547/000119312513438562/,,16
+Fair Isaac,FICO,2013Q3,2013-09-30,분기말 종가,55.28,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/FICO?interval=1d&events=splits (2013-09-30),,16
+Fair Isaac,FICO,2013Q3,2013-10-31,분기말 상장주식수,34567208,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/814547/000119312513438562/,dei:EntityCommonStockSharesOutstanding 클래스 합,16
+Fair Isaac,FICO,2013Q3,2013-09-30,분기말 시가총액,1910875258,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/FICO?interval=1d&events=splits (2013-09-30) ; https://www.sec.gov/Archives/edgar/data/814547/000119312513438562/,종가 55.28 × 주식수 34567208,16
+Fair Isaac,FICO,2013Q4,2013-12-31,분기별 매출액,184343000,USD,공시,https://www.sec.gov/Archives/edgar/data/814547/000119312514023974/,,16
+Fair Isaac,FICO,2013Q4,2013-12-31,분기별 영업이익,35270000,USD,공시,https://www.sec.gov/Archives/edgar/data/814547/000119312514023974/,,16
+Fair Isaac,FICO,2013Q4,2013-12-31,분기별 당기순이익(지배),16977000,USD,공시,https://www.sec.gov/Archives/edgar/data/814547/000119312514023974/,,16
+Fair Isaac,FICO,2013Q4,2013-12-31,분기별 영업활동현금흐름,28378000,USD,공시,https://www.sec.gov/Archives/edgar/data/814547/000119312514023974/,,16
+Fair Isaac,FICO,2013Q4,2013-12-31,분기말 자산총계,1166276000,USD,공시,https://www.sec.gov/Archives/edgar/data/814547/000119312514023974/,,16
+Fair Isaac,FICO,2013Q4,2013-12-31,분기말 부채총계,626853000,USD,공시,https://www.sec.gov/Archives/edgar/data/814547/000119312514023974/,,16
+Fair Isaac,FICO,2013Q4,2013-12-31,분기말 총자본(자기자본),539423000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/814547/000119312514023974/,"StockholdersEquity, MinorityInterest 태그 없음",16
+Fair Isaac,FICO,2013Q4,2013-12-31,분기말 지배지분 자본,539423000,USD,공시,https://www.sec.gov/Archives/edgar/data/814547/000119312514023974/,,16
+Fair Isaac,FICO,2013Q4,2013-12-31,분기말 종가,62.84,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/FICO?interval=1d&events=splits (2013-12-31),,16
+Fair Isaac,FICO,2013Q4,2014-01-17,분기말 상장주식수,34913253,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/814547/000119312514023974/,dei:EntityCommonStockSharesOutstanding 클래스 합,16
+Fair Isaac,FICO,2013Q4,2013-12-31,분기말 시가총액,2193948819,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/FICO?interval=1d&events=splits (2013-12-31) ; https://www.sec.gov/Archives/edgar/data/814547/000119312514023974/,종가 62.84 × 주식수 34913253,16
+Fair Isaac,FICO,2014Q1,2014-03-31,분기별 매출액,185462000,USD,공시,https://www.sec.gov/Archives/edgar/data/814547/000119312514162153/,,16
+Fair Isaac,FICO,2014Q1,2014-03-31,분기별 영업이익,38737000,USD,공시,https://www.sec.gov/Archives/edgar/data/814547/000119312514162153/,,16
+Fair Isaac,FICO,2014Q1,2014-03-31,분기별 당기순이익(지배),20751000,USD,공시,https://www.sec.gov/Archives/edgar/data/814547/000119312514162153/,,16
+Fair Isaac,FICO,2014Q1,2014-03-31,분기별 영업활동현금흐름,46709000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/814547/000119312514162153/ ; https://www.sec.gov/Archives/edgar/data/814547/000119312514023974/,누적 75087000 − 직전누적 28378000 (시작 2013-10-01),16
+Fair Isaac,FICO,2014Q1,2014-03-31,분기말 자산총계,1177253000,USD,공시,https://www.sec.gov/Archives/edgar/data/814547/000119312514162153/,,16
+Fair Isaac,FICO,2014Q1,2014-03-31,분기말 부채총계,643672000,USD,공시,https://www.sec.gov/Archives/edgar/data/814547/000119312514162153/,,16
+Fair Isaac,FICO,2014Q1,2014-03-31,분기말 총자본(자기자본),533581000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/814547/000119312514162153/,"StockholdersEquity, MinorityInterest 태그 없음",16
+Fair Isaac,FICO,2014Q1,2014-03-31,분기말 지배지분 자본,533581000,USD,공시,https://www.sec.gov/Archives/edgar/data/814547/000119312514162153/,,16
+Fair Isaac,FICO,2014Q1,2014-03-31,분기말 종가,55.32,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/FICO?interval=1d&events=splits (2014-03-31),,16
+Fair Isaac,FICO,2014Q1,2014-04-18,분기말 상장주식수,34272130,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/814547/000119312514162153/,dei:EntityCommonStockSharesOutstanding 클래스 합,16
+Fair Isaac,FICO,2014Q1,2014-03-31,분기말 시가총액,1895934232,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/FICO?interval=1d&events=splits (2014-03-31) ; https://www.sec.gov/Archives/edgar/data/814547/000119312514162153/,종가 55.32 × 주식수 34272130,16
+Fair Isaac,FICO,2014Q2,2014-06-30,분기별 매출액,197610000,USD,공시,https://www.sec.gov/Archives/edgar/data/814547/000081454714000006/,,16
+Fair Isaac,FICO,2014Q2,2014-06-30,분기별 영업이익,36421000,USD,공시,https://www.sec.gov/Archives/edgar/data/814547/000081454714000006/,,16
+Fair Isaac,FICO,2014Q2,2014-06-30,분기별 당기순이익(지배),20548000,USD,공시,https://www.sec.gov/Archives/edgar/data/814547/000081454714000006/,,16
+Fair Isaac,FICO,2014Q2,2014-06-30,분기별 영업활동현금흐름,28726000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/814547/000081454714000006/ ; https://www.sec.gov/Archives/edgar/data/814547/000119312514162153/,누적 103813000 − 직전누적 75087000 (시작 2013-10-01),16
+Fair Isaac,FICO,2014Q2,2014-06-30,분기말 자산총계,1185747000,USD,공시,https://www.sec.gov/Archives/edgar/data/814547/000081454714000006/,,16
+Fair Isaac,FICO,2014Q2,2014-06-30,분기말 부채총계,706573000,USD,공시,https://www.sec.gov/Archives/edgar/data/814547/000081454714000006/,,16
+Fair Isaac,FICO,2014Q2,2014-06-30,분기말 총자본(자기자본),479174000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/814547/000081454714000006/,"StockholdersEquity, MinorityInterest 태그 없음",16
+Fair Isaac,FICO,2014Q2,2014-06-30,분기말 지배지분 자본,479174000,USD,공시,https://www.sec.gov/Archives/edgar/data/814547/000081454714000006/,,16
+Fair Isaac,FICO,2014Q2,2014-06-30,분기말 종가,63.76,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/FICO?interval=1d&events=splits (2014-06-30),,16
+Fair Isaac,FICO,2014Q2,2014-07-18,분기말 상장주식수,32148684,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/814547/000081454714000006/,dei:EntityCommonStockSharesOutstanding 클래스 합,16
+Fair Isaac,FICO,2014Q2,2014-06-30,분기말 시가총액,2049800092,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/FICO?interval=1d&events=splits (2014-06-30) ; https://www.sec.gov/Archives/edgar/data/814547/000081454714000006/,종가 63.76 × 주식수 32148684,16
+Fair Isaac,FICO,2014Q3,2014-09-30,분기별 매출액,221570000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/814547/000081454714000011/ ; https://www.sec.gov/Archives/edgar/data/814547/000081454714000006/,연간 788985000 − 9개월누적 567415000 (SalesRevenueNet),16
+Fair Isaac,FICO,2014Q3,2014-09-30,분기별 영업이익,51440000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/814547/000081454714000011/ ; https://www.sec.gov/Archives/edgar/data/814547/000081454714000006/,연간 161868000 − 9개월누적 110428000 (OperatingIncomeLoss),16
+Fair Isaac,FICO,2014Q3,2014-09-30,분기별 당기순이익(지배),36603000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/814547/000081454714000011/ ; https://www.sec.gov/Archives/edgar/data/814547/000081454714000006/,연간 94879000 − 9개월누적 58276000 (NetIncomeLoss),16
+Fair Isaac,FICO,2014Q3,2014-09-30,분기별 영업활동현금흐름,71221000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/814547/000081454714000011/ ; https://www.sec.gov/Archives/edgar/data/814547/000081454714000006/,누적 175034000 − 직전누적 103813000 (시작 2013-10-01),16
+Fair Isaac,FICO,2014Q3,2014-09-30,분기말 자산총계,1192298000,USD,공시,https://www.sec.gov/Archives/edgar/data/814547/000081454714000011/,,16
+Fair Isaac,FICO,2014Q3,2014-09-30,분기말 부채총계,737684000,USD,공시,https://www.sec.gov/Archives/edgar/data/814547/000081454714000011/,,16
+Fair Isaac,FICO,2014Q3,2014-09-30,분기말 총자본(자기자본),454614000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/814547/000081454714000011/,"StockholdersEquity, MinorityInterest 태그 없음",16
+Fair Isaac,FICO,2014Q3,2014-09-30,분기말 지배지분 자본,454614000,USD,공시,https://www.sec.gov/Archives/edgar/data/814547/000081454714000011/,,16
+Fair Isaac,FICO,2014Q3,2014-09-30,분기말 종가,55.1,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/FICO?interval=1d&events=splits (2014-09-30),,16
+Fair Isaac,FICO,2014Q3,2014-10-31,분기말 상장주식수,32106155,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/814547/000081454714000011/,dei:EntityCommonStockSharesOutstanding 클래스 합,16
+Fair Isaac,FICO,2014Q3,2014-09-30,분기말 시가총액,1769049140,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/FICO?interval=1d&events=splits (2014-09-30) ; https://www.sec.gov/Archives/edgar/data/814547/000081454714000011/,종가 55.1 × 주식수 32106155,16
+Fair Isaac,FICO,2014Q4,2014-12-31,분기별 매출액,189550000,USD,공시,https://www.sec.gov/Archives/edgar/data/814547/000081454715000003/,,16
+Fair Isaac,FICO,2014Q4,2014-12-31,분기별 영업이익,24880000,USD,공시,https://www.sec.gov/Archives/edgar/data/814547/000081454715000003/,,16
+Fair Isaac,FICO,2014Q4,2014-12-31,분기별 당기순이익(지배),14407000,USD,공시,https://www.sec.gov/Archives/edgar/data/814547/000081454715000003/,,16
+Fair Isaac,FICO,2014Q4,2014-12-31,분기별 영업활동현금흐름,1360000,USD,공시,https://www.sec.gov/Archives/edgar/data/814547/000081454715000003/,,16
+Fair Isaac,FICO,2014Q4,2014-12-31,분기말 자산총계,1167922000,USD,공시,https://www.sec.gov/Archives/edgar/data/814547/000081454715000003/,,16
+Fair Isaac,FICO,2014Q4,2014-12-31,분기말 부채총계,764701000,USD,공시,https://www.sec.gov/Archives/edgar/data/814547/000081454715000003/,,16
+Fair Isaac,FICO,2014Q4,2014-12-31,분기말 총자본(자기자본),403221000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/814547/000081454715000003/,"StockholdersEquity, MinorityInterest 태그 없음",16
+Fair Isaac,FICO,2014Q4,2014-12-31,분기말 지배지분 자본,403221000,USD,공시,https://www.sec.gov/Archives/edgar/data/814547/000081454715000003/,,16
+Fair Isaac,FICO,2014Q4,2014-12-31,분기말 종가,72.3,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/FICO?interval=1d&events=splits (2014-12-31),,16
+Fair Isaac,FICO,2014Q4,2015-01-16,분기말 상장주식수,31425871,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/814547/000081454715000003/,dei:EntityCommonStockSharesOutstanding 클래스 합,16
+Fair Isaac,FICO,2014Q4,2014-12-31,분기말 시가총액,2272090473,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/FICO?interval=1d&events=splits (2014-12-31) ; https://www.sec.gov/Archives/edgar/data/814547/000081454715000003/,종가 72.3 × 주식수 31425871,16
+Fair Isaac,FICO,2015Q1,2015-03-31,분기별 매출액,207109000,USD,공시,https://www.sec.gov/Archives/edgar/data/814547/000081454715000010/,,16
+Fair Isaac,FICO,2015Q1,2015-03-31,분기별 영업이익,34399000,USD,공시,https://www.sec.gov/Archives/edgar/data/814547/000081454715000010/,,16
+Fair Isaac,FICO,2015Q1,2015-03-31,분기별 당기순이익(지배),18870000,USD,공시,https://www.sec.gov/Archives/edgar/data/814547/000081454715000010/,,16
+Fair Isaac,FICO,2015Q1,2015-03-31,분기별 영업활동현금흐름,41922000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/814547/000081454715000010/ ; https://www.sec.gov/Archives/edgar/data/814547/000081454715000003/,누적 43282000 − 직전누적 1360000 (시작 2014-10-01),16
+Fair Isaac,FICO,2015Q1,2015-03-31,분기말 자산총계,1236651000,USD,공시,https://www.sec.gov/Archives/edgar/data/814547/000081454715000010/,,16
+Fair Isaac,FICO,2015Q1,2015-03-31,분기말 부채총계,855489000,USD,공시,https://www.sec.gov/Archives/edgar/data/814547/000081454715000010/,,16
+Fair Isaac,FICO,2015Q1,2015-03-31,분기말 총자본(자기자본),381162000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/814547/000081454715000010/,"StockholdersEquity, MinorityInterest 태그 없음",16
+Fair Isaac,FICO,2015Q1,2015-03-31,분기말 지배지분 자본,381162000,USD,공시,https://www.sec.gov/Archives/edgar/data/814547/000081454715000010/,,16
+Fair Isaac,FICO,2015Q1,2015-03-31,분기말 종가,88.72,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/FICO?interval=1d&events=splits (2015-03-31),,16
+Fair Isaac,FICO,2015Q1,2015-04-17,분기말 상장주식수,31051574,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/814547/000081454715000010/,dei:EntityCommonStockSharesOutstanding 클래스 합,16
+Fair Isaac,FICO,2015Q1,2015-03-31,분기말 시가총액,2754895645,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/FICO?interval=1d&events=splits (2015-03-31) ; https://www.sec.gov/Archives/edgar/data/814547/000081454715000010/,종가 88.72 × 주식수 31051574,16
+Fair Isaac,FICO,2015Q2,2015-06-30,분기별 매출액,209366000,USD,공시,https://www.sec.gov/Archives/edgar/data/814547/000081454715000014/,,16
+Fair Isaac,FICO,2015Q2,2015-06-30,분기별 영업이익,37054000,USD,공시,https://www.sec.gov/Archives/edgar/data/814547/000081454715000014/,,16
+Fair Isaac,FICO,2015Q2,2015-06-30,분기별 당기순이익(지배),19906000,USD,공시,https://www.sec.gov/Archives/edgar/data/814547/000081454715000014/,,16
+Fair Isaac,FICO,2015Q2,2015-06-30,분기별 영업활동현금흐름,43118000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/814547/000081454715000014/ ; https://www.sec.gov/Archives/edgar/data/814547/000081454715000010/,누적 86400000 − 직전누적 43282000 (시작 2014-10-01),16
+Fair Isaac,FICO,2015Q2,2015-06-30,분기말 자산총계,1216127000,USD,공시,https://www.sec.gov/Archives/edgar/data/814547/000081454715000014/,,16
+Fair Isaac,FICO,2015Q2,2015-06-30,분기말 부채총계,819465000,USD,공시,https://www.sec.gov/Archives/edgar/data/814547/000081454715000014/,,16
+Fair Isaac,FICO,2015Q2,2015-06-30,분기말 총자본(자기자본),396662000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/814547/000081454715000014/,"StockholdersEquity, MinorityInterest 태그 없음",16
+Fair Isaac,FICO,2015Q2,2015-06-30,분기말 지배지분 자본,396662000,USD,공시,https://www.sec.gov/Archives/edgar/data/814547/000081454715000014/,,16
+Fair Isaac,FICO,2015Q2,2015-06-30,분기말 종가,90.78,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/FICO?interval=1d&events=splits (2015-06-30),,16
+Fair Isaac,FICO,2015Q2,2015-07-17,분기말 상장주식수,31137873,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/814547/000081454715000014/,dei:EntityCommonStockSharesOutstanding 클래스 합,16
+Fair Isaac,FICO,2015Q2,2015-06-30,분기말 시가총액,2826696111,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/FICO?interval=1d&events=splits (2015-06-30) ; https://www.sec.gov/Archives/edgar/data/814547/000081454715000014/,종가 90.78 × 주식수 31137873,16
+Fair Isaac,FICO,2015Q3,2015-09-30,분기별 매출액,232756000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/814547/000081454715000019/ ; https://www.sec.gov/Archives/edgar/data/814547/000081454715000014/,연간 838781000 − 9개월누적 606025000 (SalesRevenueNet),16
+Fair Isaac,FICO,2015Q3,2015-09-30,분기별 영업이익,41172000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/814547/000081454715000019/ ; https://www.sec.gov/Archives/edgar/data/814547/000081454715000014/,연간 137505000 − 9개월누적 96333000 (OperatingIncomeLoss),16
+Fair Isaac,FICO,2015Q3,2015-09-30,분기별 당기순이익(지배),33319000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/814547/000081454715000019/ ; https://www.sec.gov/Archives/edgar/data/814547/000081454715000014/,연간 86502000 − 9개월누적 53183000 (NetIncomeLoss),16
+Fair Isaac,FICO,2015Q3,2015-09-30,분기별 영업활동현금흐름,60372000,USD,계산(누적차감)(재작성 반영),https://www.sec.gov/Archives/edgar/data/814547/000081454717000014/ ; https://www.sec.gov/Archives/edgar/data/814547/000081454715000014/,누적 146772000 − 직전누적 86400000 (시작 2014-10-01) ; 원 공시 46577000 (https://www.sec.gov/Archives/edgar/data/814547/000081454715000019/ ; https://www.sec.gov/Archives/edgar/data/814547/000081454715000014/),16
+Fair Isaac,FICO,2015Q3,2015-09-30,분기말 자산총계,1230163000,USD,공시,https://www.sec.gov/Archives/edgar/data/814547/000081454715000019/,,16
+Fair Isaac,FICO,2015Q3,2015-09-30,분기말 부채총계,793165000,USD,공시,https://www.sec.gov/Archives/edgar/data/814547/000081454715000019/,,16
+Fair Isaac,FICO,2015Q3,2015-09-30,분기말 총자본(자기자본),436998000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/814547/000081454715000019/,"StockholdersEquity, MinorityInterest 태그 없음",16
+Fair Isaac,FICO,2015Q3,2015-09-30,분기말 지배지분 자본,436998000,USD,공시,https://www.sec.gov/Archives/edgar/data/814547/000081454715000019/,,16
+Fair Isaac,FICO,2015Q3,2015-09-30,분기말 종가,84.5,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/FICO?interval=1d&events=splits (2015-09-30),,16
+Fair Isaac,FICO,2015Q3,2015-10-30,분기말 상장주식수,31076089,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/814547/000081454715000019/,dei:EntityCommonStockSharesOutstanding 클래스 합,16
+Fair Isaac,FICO,2015Q3,2015-09-30,분기말 시가총액,2625929520,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/FICO?interval=1d&events=splits (2015-09-30) ; https://www.sec.gov/Archives/edgar/data/814547/000081454715000019/,종가 84.5 × 주식수 31076089,16
+Fair Isaac,FICO,2015Q4,2015-12-31,분기별 매출액,200076000,USD,공시,https://www.sec.gov/Archives/edgar/data/814547/000081454716000023/,,16
+Fair Isaac,FICO,2015Q4,2015-12-31,분기별 영업이익,30834000,USD,공시,https://www.sec.gov/Archives/edgar/data/814547/000081454716000023/,,16
+Fair Isaac,FICO,2015Q4,2015-12-31,분기별 당기순이익(지배),19241000,USD,공시,https://www.sec.gov/Archives/edgar/data/814547/000081454716000023/,,16
+Fair Isaac,FICO,2015Q4,2015-12-31,분기별 영업활동현금흐름,50629000,USD,공시(재작성 반영),https://www.sec.gov/Archives/edgar/data/814547/000081454717000005/,원 공시 40550000 (https://www.sec.gov/Archives/edgar/data/814547/000081454716000023/),16
+Fair Isaac,FICO,2015Q4,2015-12-31,분기말 자산총계,1215250000,USD,공시,https://www.sec.gov/Archives/edgar/data/814547/000081454716000023/,,16
+Fair Isaac,FICO,2015Q4,2015-12-31,분기말 부채총계,793082000,USD,공시,https://www.sec.gov/Archives/edgar/data/814547/000081454716000023/,,16
+Fair Isaac,FICO,2015Q4,2015-12-31,분기말 총자본(자기자본),422168000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/814547/000081454716000023/,"StockholdersEquity, MinorityInterest 태그 없음",16
+Fair Isaac,FICO,2015Q4,2015-12-31,분기말 지배지분 자본,422168000,USD,공시,https://www.sec.gov/Archives/edgar/data/814547/000081454716000023/,,16
+Fair Isaac,FICO,2015Q4,2015-12-31,분기말 종가,94.18,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/FICO?interval=1d&events=splits (2015-12-31),,16
+Fair Isaac,FICO,2015Q4,2016-01-15,분기말 상장주식수,31377689,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/814547/000081454716000023/,dei:EntityCommonStockSharesOutstanding 클래스 합,16
+Fair Isaac,FICO,2015Q4,2015-12-31,분기말 시가총액,2955150750,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/FICO?interval=1d&events=splits (2015-12-31) ; https://www.sec.gov/Archives/edgar/data/814547/000081454716000023/,종가 94.18 × 주식수 31377689,16
+Fair Isaac,FICO,2016Q1,2016-03-31,분기별 매출액,206678000,USD,공시,https://www.sec.gov/Archives/edgar/data/814547/000081454716000027/,,16
+Fair Isaac,FICO,2016Q1,2016-03-31,분기별 영업이익,38524000,USD,공시,https://www.sec.gov/Archives/edgar/data/814547/000081454716000027/,,16
+Fair Isaac,FICO,2016Q1,2016-03-31,분기별 당기순이익(지배),23116000,USD,공시,https://www.sec.gov/Archives/edgar/data/814547/000081454716000027/,,16
+Fair Isaac,FICO,2016Q1,2016-03-31,분기별 영업활동현금흐름,41705000,USD,계산(누적차감)(재작성 반영),https://www.sec.gov/Archives/edgar/data/814547/000081454717000008/ ; https://www.sec.gov/Archives/edgar/data/814547/000081454717000005/,누적 92334000 − 직전누적 50629000 (시작 2015-10-01) ; 원 공시 37776000 (https://www.sec.gov/Archives/edgar/data/814547/000081454716000027/ ; https://www.sec.gov/Archives/edgar/data/814547/000081454716000023/),16
+Fair Isaac,FICO,2016Q1,2016-03-31,분기말 자산총계,1214941000,USD,공시,https://www.sec.gov/Archives/edgar/data/814547/000081454716000027/,,16
+Fair Isaac,FICO,2016Q1,2016-03-31,분기말 부채총계,789561000,USD,공시,https://www.sec.gov/Archives/edgar/data/814547/000081454716000027/,,16
+Fair Isaac,FICO,2016Q1,2016-03-31,분기말 총자본(자기자본),425380000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/814547/000081454716000027/,"StockholdersEquity, MinorityInterest 태그 없음",16
+Fair Isaac,FICO,2016Q1,2016-03-31,분기말 지배지분 자본,425380000,USD,공시,https://www.sec.gov/Archives/edgar/data/814547/000081454716000027/,,16
+Fair Isaac,FICO,2016Q1,2016-03-31,분기말 종가,106.09,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/FICO?interval=1d&events=splits (2016-03-31),,16
+Fair Isaac,FICO,2016Q1,2016-04-15,분기말 상장주식수,31178576,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/814547/000081454716000027/,dei:EntityCommonStockSharesOutstanding 클래스 합,16
+Fair Isaac,FICO,2016Q1,2016-03-31,분기말 시가총액,3307735128,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/FICO?interval=1d&events=splits (2016-03-31) ; https://www.sec.gov/Archives/edgar/data/814547/000081454716000027/,종가 106.09 × 주식수 31178576,16
+Fair Isaac,FICO,2016Q2,2016-06-30,분기별 매출액,238778000,USD,공시,https://www.sec.gov/Archives/edgar/data/814547/000081454716000031/,,16
+Fair Isaac,FICO,2016Q2,2016-06-30,분기별 영업이익,55319000,USD,공시,https://www.sec.gov/Archives/edgar/data/814547/000081454716000031/,,16
+Fair Isaac,FICO,2016Q2,2016-06-30,분기별 당기순이익(지배),34987000,USD,공시,https://www.sec.gov/Archives/edgar/data/814547/000081454716000031/,,16
+Fair Isaac,FICO,2016Q2,2016-06-30,분기별 영업활동현금흐름,85391000,USD,계산(누적차감)(재작성 반영),https://www.sec.gov/Archives/edgar/data/814547/000081454717000011/ ; https://www.sec.gov/Archives/edgar/data/814547/000081454717000008/,누적 177725000 − 직전누적 92334000 (시작 2015-10-01) ; 원 공시 83299000 (https://www.sec.gov/Archives/edgar/data/814547/000081454716000031/ ; https://www.sec.gov/Archives/edgar/data/814547/000081454716000027/),16
+Fair Isaac,FICO,2016Q2,2016-06-30,분기말 자산총계,1226712000,USD,공시,https://www.sec.gov/Archives/edgar/data/814547/000081454716000031/,,16
+Fair Isaac,FICO,2016Q2,2016-06-30,분기말 부채총계,798671000,USD,공시,https://www.sec.gov/Archives/edgar/data/814547/000081454716000031/,,16
+Fair Isaac,FICO,2016Q2,2016-06-30,분기말 총자본(자기자본),428041000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/814547/000081454716000031/,"StockholdersEquity, MinorityInterest 태그 없음",16
+Fair Isaac,FICO,2016Q2,2016-06-30,분기말 지배지분 자본,428041000,USD,공시,https://www.sec.gov/Archives/edgar/data/814547/000081454716000031/,,16
+Fair Isaac,FICO,2016Q2,2016-06-30,분기말 종가,113.01,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/FICO?interval=1d&events=splits (2016-06-30),,16
+Fair Isaac,FICO,2016Q2,2016-07-15,분기말 상장주식수,30854567,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/814547/000081454716000031/,dei:EntityCommonStockSharesOutstanding 클래스 합,16
+Fair Isaac,FICO,2016Q2,2016-06-30,분기말 시가총액,3486874617,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/FICO?interval=1d&events=splits (2016-06-30) ; https://www.sec.gov/Archives/edgar/data/814547/000081454716000031/,종가 113.01 × 주식수 30854567,16
+Fair Isaac,FICO,2016Q3,2016-09-30,분기별 매출액,235824000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/814547/000081454716000035/ ; https://www.sec.gov/Archives/edgar/data/814547/000081454716000031/,연간 881356000 − 9개월누적 645532000 (SalesRevenueNet),16
+Fair Isaac,FICO,2016Q3,2016-09-30,분기별 영업이익,44915000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/814547/000081454716000035/ ; https://www.sec.gov/Archives/edgar/data/814547/000081454716000031/,연간 169592000 − 9개월누적 124677000 (OperatingIncomeLoss),16
+Fair Isaac,FICO,2016Q3,2016-09-30,분기별 당기순이익(지배),32104000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/814547/000081454716000035/ ; https://www.sec.gov/Archives/edgar/data/814547/000081454716000031/,연간 109448000 − 9개월누적 77344000 (NetIncomeLoss),16
+Fair Isaac,FICO,2016Q3,2016-09-30,분기별 영업활동현금흐름,32543000,USD,계산(누적차감)(재작성 반영),https://www.sec.gov/Archives/edgar/data/814547/000081454718000010/ ; https://www.sec.gov/Archives/edgar/data/814547/000081454717000011/,누적 210268000 − 직전누적 177725000 (시작 2015-10-01) ; 원 공시 23606000 (https://www.sec.gov/Archives/edgar/data/814547/000081454716000035/ ; https://www.sec.gov/Archives/edgar/data/814547/000081454716000031/),16
+Fair Isaac,FICO,2016Q3,2016-09-30,분기말 자산총계,1221052000,USD,공시,https://www.sec.gov/Archives/edgar/data/814547/000081454716000035/,,16
+Fair Isaac,FICO,2016Q3,2016-09-30,분기말 부채총계,774224000,USD,공시,https://www.sec.gov/Archives/edgar/data/814547/000081454716000035/,,16
+Fair Isaac,FICO,2016Q3,2016-09-30,분기말 총자본(자기자본),446828000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/814547/000081454716000035/,"StockholdersEquity, MinorityInterest 태그 없음",16
+Fair Isaac,FICO,2016Q3,2016-09-30,분기말 지배지분 자본,446828000,USD,공시,https://www.sec.gov/Archives/edgar/data/814547/000081454716000035/,,16
+Fair Isaac,FICO,2016Q3,2016-09-30,분기말 종가,124.59,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/FICO?interval=1d&events=splits (2016-09-30),,16
+Fair Isaac,FICO,2016Q3,2016-10-28,분기말 상장주식수,30940696,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/814547/000081454716000035/,dei:EntityCommonStockSharesOutstanding 클래스 합,16
+Fair Isaac,FICO,2016Q3,2016-09-30,분기말 시가총액,3854901315,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/FICO?interval=1d&events=splits (2016-09-30) ; https://www.sec.gov/Archives/edgar/data/814547/000081454716000035/,종가 124.59 × 주식수 30940696,16
+Fair Isaac,FICO,2016Q4,2016-12-31,분기별 매출액,219600000,USD,공시,https://www.sec.gov/Archives/edgar/data/814547/000081454717000005/,,16
+Fair Isaac,FICO,2016Q4,2016-12-31,분기별 영업이익,34927000,USD,공시,https://www.sec.gov/Archives/edgar/data/814547/000081454717000005/,,16
+Fair Isaac,FICO,2016Q4,2016-12-31,분기별 당기순이익(지배),37901000,USD,공시,https://www.sec.gov/Archives/edgar/data/814547/000081454717000005/,,16
+Fair Isaac,FICO,2016Q4,2016-12-31,분기별 영업활동현금흐름,32978000,USD,공시,https://www.sec.gov/Archives/edgar/data/814547/000081454717000005/,,16
+Fair Isaac,FICO,2016Q4,2016-12-31,분기말 자산총계,1224398000,USD,공시,https://www.sec.gov/Archives/edgar/data/814547/000081454717000005/,,16
+Fair Isaac,FICO,2016Q4,2016-12-31,분기말 부채총계,802492000,USD,공시,https://www.sec.gov/Archives/edgar/data/814547/000081454717000005/,,16
+Fair Isaac,FICO,2016Q4,2016-12-31,분기말 총자본(자기자본),421906000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/814547/000081454717000005/,"StockholdersEquity, MinorityInterest 태그 없음",16
+Fair Isaac,FICO,2016Q4,2016-12-31,분기말 지배지분 자본,421906000,USD,공시,https://www.sec.gov/Archives/edgar/data/814547/000081454717000005/,,16
+Fair Isaac,FICO,2016Q4,2016-12-30,분기말 종가,119.22,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/FICO?interval=1d&events=splits (2016-12-30),,16
+Fair Isaac,FICO,2016Q4,2017-01-20,분기말 상장주식수,31058994,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/814547/000081454717000005/,dei:EntityCommonStockSharesOutstanding 클래스 합,16
+Fair Isaac,FICO,2016Q4,2016-12-30,분기말 시가총액,3702853265,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/FICO?interval=1d&events=splits (2016-12-30) ; https://www.sec.gov/Archives/edgar/data/814547/000081454717000005/,종가 119.22 × 주식수 31058994,16
+Fair Isaac,FICO,2017Q1,2017-03-31,분기별 매출액,228378000,USD,공시,https://www.sec.gov/Archives/edgar/data/814547/000081454717000008/,,16
+Fair Isaac,FICO,2017Q1,2017-03-31,분기별 영업이익,40041000,USD,공시,https://www.sec.gov/Archives/edgar/data/814547/000081454717000008/,,16
+Fair Isaac,FICO,2017Q1,2017-03-31,분기별 당기순이익(지배),25084000,USD,공시,https://www.sec.gov/Archives/edgar/data/814547/000081454717000008/,,16
+Fair Isaac,FICO,2017Q1,2017-03-31,분기별 영업활동현금흐름,66419000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/814547/000081454717000008/ ; https://www.sec.gov/Archives/edgar/data/814547/000081454717000005/,누적 99397000 − 직전누적 32978000 (시작 2016-10-01),16
+Fair Isaac,FICO,2017Q1,2017-03-31,분기말 자산총계,1247068000,USD,공시,https://www.sec.gov/Archives/edgar/data/814547/000081454717000008/,,16
+Fair Isaac,FICO,2017Q1,2017-03-31,분기말 부채총계,819967000,USD,공시,https://www.sec.gov/Archives/edgar/data/814547/000081454717000008/,,16
+Fair Isaac,FICO,2017Q1,2017-03-31,분기말 총자본(자기자본),427101000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/814547/000081454717000008/,"StockholdersEquity, MinorityInterest 태그 없음",16
+Fair Isaac,FICO,2017Q1,2017-03-31,분기말 지배지분 자본,427101000,USD,공시,https://www.sec.gov/Archives/edgar/data/814547/000081454717000008/,,16
+Fair Isaac,FICO,2017Q1,2017-03-31,분기말 종가,128.95,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/FICO?interval=1d&events=splits (2017-03-31),,16
+Fair Isaac,FICO,2017Q1,2017-04-14,분기말 상장주식수,30965124,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/814547/000081454717000008/,dei:EntityCommonStockSharesOutstanding 클래스 합,16
+Fair Isaac,FICO,2017Q1,2017-03-31,분기말 시가총액,3992952740,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/FICO?interval=1d&events=splits (2017-03-31) ; https://www.sec.gov/Archives/edgar/data/814547/000081454717000008/,종가 128.95 × 주식수 30965124,16
+Fair Isaac,FICO,2017Q2,2017-06-30,분기별 매출액,230986000,USD,공시,https://www.sec.gov/Archives/edgar/data/814547/000081454717000011/,,16
+Fair Isaac,FICO,2017Q2,2017-06-30,분기별 영업이익,41429000,USD,공시,https://www.sec.gov/Archives/edgar/data/814547/000081454717000011/,,16
+Fair Isaac,FICO,2017Q2,2017-06-30,분기별 당기순이익(지배),25227000,USD,공시,https://www.sec.gov/Archives/edgar/data/814547/000081454717000011/,,16
+Fair Isaac,FICO,2017Q2,2017-06-30,분기별 영업활동현금흐름,72026000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/814547/000081454717000011/ ; https://www.sec.gov/Archives/edgar/data/814547/000081454717000008/,누적 171423000 − 직전누적 99397000 (시작 2016-10-01),16
+Fair Isaac,FICO,2017Q2,2017-06-30,분기말 자산총계,1258354000,USD,공시,https://www.sec.gov/Archives/edgar/data/814547/000081454717000011/,,16
+Fair Isaac,FICO,2017Q2,2017-06-30,분기말 부채총계,825599000,USD,공시,https://www.sec.gov/Archives/edgar/data/814547/000081454717000011/,,16
+Fair Isaac,FICO,2017Q2,2017-06-30,분기말 총자본(자기자본),432755000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/814547/000081454717000011/,"StockholdersEquity, MinorityInterest 태그 없음",16
+Fair Isaac,FICO,2017Q2,2017-06-30,분기말 지배지분 자본,432755000,USD,공시,https://www.sec.gov/Archives/edgar/data/814547/000081454717000011/,,16
+Fair Isaac,FICO,2017Q2,2017-06-30,분기말 종가,139.41,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/FICO?interval=1d&events=splits (2017-06-30),,16
+Fair Isaac,FICO,2017Q2,2017-07-14,분기말 상장주식수,30630135,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/814547/000081454717000011/,dei:EntityCommonStockSharesOutstanding 클래스 합,16
+Fair Isaac,FICO,2017Q2,2017-06-30,분기말 시가총액,4270147120,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/FICO?interval=1d&events=splits (2017-06-30) ; https://www.sec.gov/Archives/edgar/data/814547/000081454717000011/,종가 139.41 × 주식수 30630135,16
+Fair Isaac,FICO,2017Q3,2017-09-30,분기별 매출액,253205000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/814547/000081454717000014/ ; https://www.sec.gov/Archives/edgar/data/814547/000081454717000011/,연간 932169000 − 9개월누적 678964000 (SalesRevenueNet),16
+Fair Isaac,FICO,2017Q3,2017-09-30,분기별 영업이익,65762000,USD,계산(연간-3분기누적)(재작성 반영),https://www.sec.gov/Archives/edgar/data/814547/000081454719000016/ ; https://www.sec.gov/Archives/edgar/data/814547/000081454717000011/,연간 182159000 − 9개월누적 116397000 (OperatingIncomeLoss) ; 원 공시 60803000 (https://www.sec.gov/Archives/edgar/data/814547/000081454717000014/ ; https://www.sec.gov/Archives/edgar/data/814547/000081454717000011/),16
+Fair Isaac,FICO,2017Q3,2017-09-30,분기별 당기순이익(지배),45202000,USD,계산(연간-3분기누적)(재작성 반영),https://www.sec.gov/Archives/edgar/data/814547/000081454719000016/ ; https://www.sec.gov/Archives/edgar/data/814547/000081454717000011/,연간 133414000 − 9개월누적 88212000 (NetIncomeLoss) ; 원 공시 40044000 (https://www.sec.gov/Archives/edgar/data/814547/000081454717000014/ ; https://www.sec.gov/Archives/edgar/data/814547/000081454717000011/),16
+Fair Isaac,FICO,2017Q3,2017-09-30,분기별 영업활동현금흐름,54221000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/814547/000081454717000014/ ; https://www.sec.gov/Archives/edgar/data/814547/000081454717000011/,누적 225644000 − 직전누적 171423000 (시작 2016-10-01),16
+Fair Isaac,FICO,2017Q3,2017-09-30,분기말 자산총계,1255620000,USD,공시,https://www.sec.gov/Archives/edgar/data/814547/000081454717000014/,,16
+Fair Isaac,FICO,2017Q3,2017-09-30,분기말 부채총계,829083000,USD,공시,https://www.sec.gov/Archives/edgar/data/814547/000081454717000014/,,16
+Fair Isaac,FICO,2017Q3,2017-09-30,분기말 총자본(자기자본),426537000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/814547/000081454717000014/,"StockholdersEquity, MinorityInterest 태그 없음",16
+Fair Isaac,FICO,2017Q3,2017-09-30,분기말 지배지분 자본,426537000,USD,공시,https://www.sec.gov/Archives/edgar/data/814547/000081454717000014/,,16
+Fair Isaac,FICO,2017Q3,2017-09-29,분기말 종가,140.5,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/FICO?interval=1d&events=splits (2017-09-29),,16
+Fair Isaac,FICO,2017Q3,2017-10-27,분기말 상장주식수,29990221,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/814547/000081454717000014/,dei:EntityCommonStockSharesOutstanding 클래스 합,16
+Fair Isaac,FICO,2017Q3,2017-09-29,분기말 시가총액,4213626050,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/FICO?interval=1d&events=splits (2017-09-29) ; https://www.sec.gov/Archives/edgar/data/814547/000081454717000014/,종가 140.5 × 주식수 29990221,16
+Fair Isaac,FICO,2017Q4,2017-12-31,분기별 매출액,235321000,USD,공시,https://www.sec.gov/Archives/edgar/data/814547/000162828018000591/,,16
+Fair Isaac,FICO,2017Q4,2017-12-31,분기별 영업이익,36825000,USD,공시(재작성 반영),https://www.sec.gov/Archives/edgar/data/814547/000081454719000003/,원 공시 39904000 (https://www.sec.gov/Archives/edgar/data/814547/000162828018000591/),16
+Fair Isaac,FICO,2017Q4,2017-12-31,분기별 당기순이익(지배),32879000,USD,공시(재작성 반영),https://www.sec.gov/Archives/edgar/data/814547/000081454719000016/,원 공시 27299000 (https://www.sec.gov/Archives/edgar/data/814547/000162828018000591/),16
+Fair Isaac,FICO,2017Q4,2017-12-31,분기별 영업활동현금흐름,28777000,USD,공시,https://www.sec.gov/Archives/edgar/data/814547/000162828018000591/,,16
+Fair Isaac,FICO,2017Q4,2017-12-31,분기말 자산총계,1240845000,USD,공시,https://www.sec.gov/Archives/edgar/data/814547/000162828018000591/,,16
+Fair Isaac,FICO,2017Q4,2017-12-31,분기말 부채총계,855203000,USD,공시,https://www.sec.gov/Archives/edgar/data/814547/000162828018000591/,,16
+Fair Isaac,FICO,2017Q4,2017-12-31,분기말 총자본(자기자본),385642000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/814547/000162828018000591/,"StockholdersEquity, MinorityInterest 태그 없음",16
+Fair Isaac,FICO,2017Q4,2017-12-31,분기말 지배지분 자본,385642000,USD,공시,https://www.sec.gov/Archives/edgar/data/814547/000162828018000591/,,16
+Fair Isaac,FICO,2017Q4,2017-12-29,분기말 종가,153.2,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/FICO?interval=1d&events=splits (2017-12-29),,16
+Fair Isaac,FICO,2017Q4,2018-01-12,분기말 상장주식수,30073085,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/814547/000162828018000591/,dei:EntityCommonStockSharesOutstanding 클래스 합,16
+Fair Isaac,FICO,2017Q4,2017-12-29,분기말 시가총액,4607196622,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/FICO?interval=1d&events=splits (2017-12-29) ; https://www.sec.gov/Archives/edgar/data/814547/000162828018000591/,종가 153.2 × 주식수 30073085,16
+Fair Isaac,FICO,2018Q1,2018-03-31,분기별 매출액,257858000,USD,공시,https://www.sec.gov/Archives/edgar/data/814547/000081454718000004/,,16
+Fair Isaac,FICO,2018Q1,2018-03-31,분기별 영업이익,46439000,USD,공시(재작성 반영),https://www.sec.gov/Archives/edgar/data/814547/000081454719000008/,원 공시 48079000 (https://www.sec.gov/Archives/edgar/data/814547/000081454718000004/),16
+Fair Isaac,FICO,2018Q1,2018-03-31,분기별 당기순이익(지배),31169000,USD,공시(재작성 반영),https://www.sec.gov/Archives/edgar/data/814547/000081454719000016/,원 공시 32275000 (https://www.sec.gov/Archives/edgar/data/814547/000081454718000004/),16
+Fair Isaac,FICO,2018Q1,2018-03-31,분기별 영업활동현금흐름,49233000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/814547/000081454718000004/ ; https://www.sec.gov/Archives/edgar/data/814547/000162828018000591/,누적 78010000 − 직전누적 28777000 (시작 2017-10-01),16
+Fair Isaac,FICO,2018Q1,2018-03-31,분기말 자산총계,1290895000,USD,공시,https://www.sec.gov/Archives/edgar/data/814547/000081454718000004/,,16
+Fair Isaac,FICO,2018Q1,2018-03-31,분기말 부채총계,920192000,USD,공시,https://www.sec.gov/Archives/edgar/data/814547/000081454718000004/,,16
+Fair Isaac,FICO,2018Q1,2018-03-31,분기말 총자본(자기자본),370703000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/814547/000081454718000004/,"StockholdersEquity, MinorityInterest 태그 없음",16
+Fair Isaac,FICO,2018Q1,2018-03-31,분기말 지배지분 자본,370703000,USD,공시,https://www.sec.gov/Archives/edgar/data/814547/000081454718000004/,,16
+Fair Isaac,FICO,2018Q1,2018-03-29,분기말 종가,169.37,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/FICO?interval=1d&events=splits (2018-03-29),,16
+Fair Isaac,FICO,2018Q1,2018-04-13,분기말 상장주식수,29840374,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/814547/000081454718000004/,dei:EntityCommonStockSharesOutstanding 클래스 합,16
+Fair Isaac,FICO,2018Q1,2018-03-29,분기말 시가총액,5054064144,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/FICO?interval=1d&events=splits (2018-03-29) ; https://www.sec.gov/Archives/edgar/data/814547/000081454718000004/,종가 169.37 × 주식수 29840374,16
+Fair Isaac,FICO,2018Q2,2018-06-30,분기별 매출액,259505000,USD,공시,https://www.sec.gov/Archives/edgar/data/814547/000081454718000006/,,16
+Fair Isaac,FICO,2018Q2,2018-06-30,분기별 영업이익,44537000,USD,공시(재작성 반영),https://www.sec.gov/Archives/edgar/data/814547/000081454719000012/,원 공시 48376000 (https://www.sec.gov/Archives/edgar/data/814547/000081454718000006/),16
+Fair Isaac,FICO,2018Q2,2018-06-30,분기별 당기순이익(지배),29721000,USD,공시(재작성 반영),https://www.sec.gov/Archives/edgar/data/814547/000081454719000016/,원 공시 32361000 (https://www.sec.gov/Archives/edgar/data/814547/000081454718000006/),16
+Fair Isaac,FICO,2018Q2,2018-06-30,분기별 영업활동현금흐름,85079000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/814547/000081454718000006/ ; https://www.sec.gov/Archives/edgar/data/814547/000081454718000004/,누적 163089000 − 직전누적 78010000 (시작 2017-10-01),16
+Fair Isaac,FICO,2018Q2,2018-06-30,분기말 자산총계,1287070000,USD,공시,https://www.sec.gov/Archives/edgar/data/814547/000081454718000006/,,16
+Fair Isaac,FICO,2018Q2,2018-06-30,분기말 부채총계,992426000,USD,공시,https://www.sec.gov/Archives/edgar/data/814547/000081454718000006/,,16
+Fair Isaac,FICO,2018Q2,2018-06-30,분기말 총자본(자기자본),294644000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/814547/000081454718000006/,"StockholdersEquity, MinorityInterest 태그 없음",16
+Fair Isaac,FICO,2018Q2,2018-06-30,분기말 지배지분 자본,294644000,USD,공시,https://www.sec.gov/Archives/edgar/data/814547/000081454718000006/,,16
+Fair Isaac,FICO,2018Q2,2018-06-29,분기말 종가,193.32,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/FICO?interval=1d&events=splits (2018-06-29),,16
+Fair Isaac,FICO,2018Q2,2018-07-13,분기말 상장주식수,29144337,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/814547/000081454718000006/,dei:EntityCommonStockSharesOutstanding 클래스 합,16
+Fair Isaac,FICO,2018Q2,2018-06-29,분기말 시가총액,5634183229,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/FICO?interval=1d&events=splits (2018-06-29) ; https://www.sec.gov/Archives/edgar/data/814547/000081454718000006/,종가 193.32 × 주식수 29144337,16
+Fair Isaac,FICO,2018Q3,2018-09-30,분기별 매출액,279791000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/814547/000081454718000010/ ; https://www.sec.gov/Archives/edgar/data/814547/000081454718000006/,연간 1032475000 − 9개월누적 752684000 (Revenues / 9개월 SalesRevenueNet),16
+Fair Isaac,FICO,2018Q3,2018-09-30,분기별 영업이익,47558000,USD,계산(연간-3분기누적)(재작성 반영),https://www.sec.gov/Archives/edgar/data/814547/000081454720000012/ ; https://www.sec.gov/Archives/edgar/data/814547/000081454719000012/,연간 175359000 − 9개월누적 127801000 (OperatingIncomeLoss) ; 원 공시 70078000 (https://www.sec.gov/Archives/edgar/data/814547/000081454718000010/ ; https://www.sec.gov/Archives/edgar/data/814547/000081454718000006/),16
+Fair Isaac,FICO,2018Q3,2018-09-30,분기별 당기순이익(지배),32713000,USD,계산(연간-3분기누적)(재작성 반영),https://www.sec.gov/Archives/edgar/data/814547/000081454720000012/ ; https://www.sec.gov/Archives/edgar/data/814547/000081454719000012/,연간 126482000 − 9개월누적 93769000 (NetIncomeLoss) ; 원 공시 50480000 (https://www.sec.gov/Archives/edgar/data/814547/000081454718000010/ ; https://www.sec.gov/Archives/edgar/data/814547/000081454718000006/),16
+Fair Isaac,FICO,2018Q3,2018-09-30,분기별 영업활동현금흐름,59963000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/814547/000081454718000010/ ; https://www.sec.gov/Archives/edgar/data/814547/000081454718000006/,누적 223052000 − 직전누적 163089000 (시작 2017-10-01),16
+Fair Isaac,FICO,2018Q3,2018-09-30,분기말 자산총계,1330467000,USD,공시(재작성 반영),https://www.sec.gov/Archives/edgar/data/814547/000081454719000016/,원 공시 1255079000 (https://www.sec.gov/Archives/edgar/data/814547/000081454718000010/),16
+Fair Isaac,FICO,2018Q3,2018-09-30,분기말 부채총계,1043030000,USD,공시(재작성 반영),https://www.sec.gov/Archives/edgar/data/814547/000081454719000016/,원 공시 991342000 (https://www.sec.gov/Archives/edgar/data/814547/000081454718000010/),16
+Fair Isaac,FICO,2018Q3,2018-09-30,분기말 총자본(자기자본),287437000,USD,공시(비지배 없음)(재작성 반영),https://www.sec.gov/Archives/edgar/data/814547/000081454721000019/,"StockholdersEquity, MinorityInterest 태그 없음 ; 원 공시 263737000 (https://www.sec.gov/Archives/edgar/data/814547/000081454718000010/)",16
+Fair Isaac,FICO,2018Q3,2018-09-30,분기말 지배지분 자본,287437000,USD,공시(재작성 반영),https://www.sec.gov/Archives/edgar/data/814547/000081454721000019/,원 공시 263737000 (https://www.sec.gov/Archives/edgar/data/814547/000081454718000010/),16
+Fair Isaac,FICO,2018Q3,2018-09-28,분기말 종가,228.55,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/FICO?interval=1d&events=splits (2018-09-28),,16
+Fair Isaac,FICO,2018Q3,2018-10-26,분기말 상장주식수,28955028,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/814547/000081454718000010/,dei:EntityCommonStockSharesOutstanding 클래스 합,16
+Fair Isaac,FICO,2018Q3,2018-09-28,분기말 시가총액,6617671649,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/FICO?interval=1d&events=splits (2018-09-28) ; https://www.sec.gov/Archives/edgar/data/814547/000081454718000010/,종가 228.55 × 주식수 28955028,16
+Fair Isaac,FICO,2018Q4,2018-12-31,분기별 매출액,262256000,USD,공시,https://www.sec.gov/Archives/edgar/data/814547/000081454719000003/,,16
+Fair Isaac,FICO,2018Q4,2018-12-31,분기별 영업이익,49004000,USD,공시,https://www.sec.gov/Archives/edgar/data/814547/000081454719000003/,,16
+Fair Isaac,FICO,2018Q4,2018-12-31,분기별 당기순이익(지배),40007000,USD,공시,https://www.sec.gov/Archives/edgar/data/814547/000081454719000003/,,16
+Fair Isaac,FICO,2018Q4,2018-12-31,분기별 영업활동현금흐름,48857000,USD,공시,https://www.sec.gov/Archives/edgar/data/814547/000081454719000003/,,16
+Fair Isaac,FICO,2018Q4,2018-12-31,분기말 자산총계,1305626000,USD,공시,https://www.sec.gov/Archives/edgar/data/814547/000081454719000003/,,16
+Fair Isaac,FICO,2018Q4,2018-12-31,분기말 부채총계,1077731000,USD,공시,https://www.sec.gov/Archives/edgar/data/814547/000081454719000003/,,16
+Fair Isaac,FICO,2018Q4,2018-12-31,분기말 총자본(자기자본),227895000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/814547/000081454719000003/,"StockholdersEquity, MinorityInterest 태그 없음",16
+Fair Isaac,FICO,2018Q4,2018-12-31,분기말 지배지분 자본,227895000,USD,공시,https://www.sec.gov/Archives/edgar/data/814547/000081454719000003/,,16
+Fair Isaac,FICO,2018Q4,2018-12-31,분기말 종가,187.0,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/FICO?interval=1d&events=splits (2018-12-31),,16
+Fair Isaac,FICO,2018Q4,2019-01-18,분기말 상장주식수,29071202,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/814547/000081454719000003/,dei:EntityCommonStockSharesOutstanding 클래스 합,16
+Fair Isaac,FICO,2018Q4,2018-12-31,분기말 시가총액,5436314774,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/FICO?interval=1d&events=splits (2018-12-31) ; https://www.sec.gov/Archives/edgar/data/814547/000081454719000003/,종가 187.0 × 주식수 29071202,16
+Fair Isaac,FICO,2019Q1,2019-03-31,분기별 매출액,278234000,USD,공시,https://www.sec.gov/Archives/edgar/data/814547/000081454719000008/,,16
+Fair Isaac,FICO,2019Q1,2019-03-31,분기별 영업이익,48549000,USD,공시,https://www.sec.gov/Archives/edgar/data/814547/000081454719000008/,,16
+Fair Isaac,FICO,2019Q1,2019-03-31,분기별 당기순이익(지배),33381000,USD,공시,https://www.sec.gov/Archives/edgar/data/814547/000081454719000008/,,16
+Fair Isaac,FICO,2019Q1,2019-03-31,분기별 영업활동현금흐름,47789000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/814547/000081454719000008/ ; https://www.sec.gov/Archives/edgar/data/814547/000081454719000003/,누적 96646000 − 직전누적 48857000 (시작 2018-10-01),16
+Fair Isaac,FICO,2019Q1,2019-03-31,분기말 자산총계,1328111000,USD,공시,https://www.sec.gov/Archives/edgar/data/814547/000081454719000008/,,16
+Fair Isaac,FICO,2019Q1,2019-03-31,분기말 부채총계,1080633000,USD,공시,https://www.sec.gov/Archives/edgar/data/814547/000081454719000008/,,16
+Fair Isaac,FICO,2019Q1,2019-03-31,분기말 총자본(자기자본),247478000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/814547/000081454719000008/,"StockholdersEquity, MinorityInterest 태그 없음",16
+Fair Isaac,FICO,2019Q1,2019-03-31,분기말 지배지분 자본,247478000,USD,공시,https://www.sec.gov/Archives/edgar/data/814547/000081454719000008/,,16
+Fair Isaac,FICO,2019Q1,2019-03-29,분기말 종가,271.63,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/FICO?interval=1d&events=splits (2019-03-29),,16
+Fair Isaac,FICO,2019Q1,2019-04-19,분기말 상장주식수,28990026,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/814547/000081454719000008/,dei:EntityCommonStockSharesOutstanding 클래스 합,16
+Fair Isaac,FICO,2019Q1,2019-03-29,분기말 시가총액,7874560762,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/FICO?interval=1d&events=splits (2019-03-29) ; https://www.sec.gov/Archives/edgar/data/814547/000081454719000008/,종가 271.63 × 주식수 28990026,16
+Fair Isaac,FICO,2019Q2,2019-06-30,분기별 매출액,314249000,USD,공시,https://www.sec.gov/Archives/edgar/data/814547/000081454719000012/,,16
+Fair Isaac,FICO,2019Q2,2019-06-30,분기별 영업이익,85708000,USD,공시,https://www.sec.gov/Archives/edgar/data/814547/000081454719000012/,,16
+Fair Isaac,FICO,2019Q2,2019-06-30,분기별 당기순이익(지배),64152000,USD,공시,https://www.sec.gov/Archives/edgar/data/814547/000081454719000012/,,16
+Fair Isaac,FICO,2019Q2,2019-06-30,분기별 영업활동현금흐름,68290000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/814547/000081454719000012/ ; https://www.sec.gov/Archives/edgar/data/814547/000081454719000008/,누적 164936000 − 직전누적 96646000 (시작 2018-10-01),16
+Fair Isaac,FICO,2019Q2,2019-06-30,분기말 자산총계,1373798000,USD,공시,https://www.sec.gov/Archives/edgar/data/814547/000081454719000012/,,16
+Fair Isaac,FICO,2019Q2,2019-06-30,분기말 부채총계,1105481000,USD,공시,https://www.sec.gov/Archives/edgar/data/814547/000081454719000012/,,16
+Fair Isaac,FICO,2019Q2,2019-06-30,분기말 총자본(자기자본),268317000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/814547/000081454719000012/,"StockholdersEquity, MinorityInterest 태그 없음",16
+Fair Isaac,FICO,2019Q2,2019-06-30,분기말 지배지분 자본,268317000,USD,공시,https://www.sec.gov/Archives/edgar/data/814547/000081454719000012/,,16
+Fair Isaac,FICO,2019Q2,2019-06-28,분기말 종가,314.02,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/FICO?interval=1d&events=splits (2019-06-28),,16
+Fair Isaac,FICO,2019Q2,2019-07-19,분기말 상장주식수,28896535,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/814547/000081454719000012/,dei:EntityCommonStockSharesOutstanding 클래스 합,16
+Fair Isaac,FICO,2019Q2,2019-06-28,분기말 시가총액,9074089921,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/FICO?interval=1d&events=splits (2019-06-28) ; https://www.sec.gov/Archives/edgar/data/814547/000081454719000012/,종가 314.02 × 주식수 28896535,16
+Fair Isaac,FICO,2019Q3,2019-09-30,분기별 매출액,305344000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/814547/000081454719000016/ ; https://www.sec.gov/Archives/edgar/data/814547/000081454719000012/,연간 1160083000 − 9개월누적 854739000 (RevenueFromContractWithCustomerExcludingAssessedTax),16
+Fair Isaac,FICO,2019Q3,2019-09-30,분기별 영업이익,70287000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/814547/000081454719000016/ ; https://www.sec.gov/Archives/edgar/data/814547/000081454719000012/,연간 253548000 − 9개월누적 183261000 (OperatingIncomeLoss),16
+Fair Isaac,FICO,2019Q3,2019-09-30,분기별 당기순이익(지배),54584000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/814547/000081454719000016/ ; https://www.sec.gov/Archives/edgar/data/814547/000081454719000012/,연간 192124000 − 9개월누적 137540000 (NetIncomeLoss),16
+Fair Isaac,FICO,2019Q3,2019-09-30,분기별 영업활동현금흐름,95414000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/814547/000081454719000016/ ; https://www.sec.gov/Archives/edgar/data/814547/000081454719000012/,누적 260350000 − 직전누적 164936000 (시작 2018-10-01),16
+Fair Isaac,FICO,2019Q3,2019-09-30,분기말 자산총계,1433448000,USD,공시,https://www.sec.gov/Archives/edgar/data/814547/000081454719000016/,,16
+Fair Isaac,FICO,2019Q3,2019-09-30,분기말 부채총계,1143681000,USD,공시,https://www.sec.gov/Archives/edgar/data/814547/000081454719000016/,,16
+Fair Isaac,FICO,2019Q3,2019-09-30,분기말 총자본(자기자본),289767000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/814547/000081454719000016/,"StockholdersEquity, MinorityInterest 태그 없음",16
+Fair Isaac,FICO,2019Q3,2019-09-30,분기말 지배지분 자본,289767000,USD,공시,https://www.sec.gov/Archives/edgar/data/814547/000081454719000016/,,16
+Fair Isaac,FICO,2019Q3,2019-09-30,분기말 종가,303.52,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/FICO?interval=1d&events=splits (2019-09-30),,16
+Fair Isaac,FICO,2019Q3,2019-10-25,분기말 상장주식수,28961612,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/814547/000081454719000016/,dei:EntityCommonStockSharesOutstanding 클래스 합,16
+Fair Isaac,FICO,2019Q3,2019-09-30,분기말 시가총액,8790428474,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/FICO?interval=1d&events=splits (2019-09-30) ; https://www.sec.gov/Archives/edgar/data/814547/000081454719000016/,종가 303.52 × 주식수 28961612,16
+Fair Isaac,FICO,2019Q4,2019-12-31,분기별 매출액,298504000,USD,공시,https://www.sec.gov/Archives/edgar/data/814547/000081454720000003/,,16
+Fair Isaac,FICO,2019Q4,2019-12-31,분기별 영업이익,51882000,USD,공시,https://www.sec.gov/Archives/edgar/data/814547/000081454720000003/,,16
+Fair Isaac,FICO,2019Q4,2019-12-31,분기별 당기순이익(지배),54921000,USD,공시,https://www.sec.gov/Archives/edgar/data/814547/000081454720000003/,,16
+Fair Isaac,FICO,2019Q4,2019-12-31,분기별 영업활동현금흐름,60365000,USD,공시,https://www.sec.gov/Archives/edgar/data/814547/000081454720000003/,,16
+Fair Isaac,FICO,2019Q4,2019-12-31,분기말 자산총계,1545038000,USD,공시,https://www.sec.gov/Archives/edgar/data/814547/000081454720000003/,,16
+Fair Isaac,FICO,2019Q4,2019-12-31,분기말 부채총계,1304077000,USD,공시,https://www.sec.gov/Archives/edgar/data/814547/000081454720000003/,,16
+Fair Isaac,FICO,2019Q4,2019-12-31,분기말 총자본(자기자본),240961000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/814547/000081454720000003/,"StockholdersEquity, MinorityInterest 태그 없음",16
+Fair Isaac,FICO,2019Q4,2019-12-31,분기말 지배지분 자본,240961000,USD,공시,https://www.sec.gov/Archives/edgar/data/814547/000081454720000003/,,16
+Fair Isaac,FICO,2019Q4,2019-12-31,분기말 종가,374.68,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/FICO?interval=1d&events=splits (2019-12-31),,16
+Fair Isaac,FICO,2019Q4,2020-01-17,분기말 상장주식수,29148054,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/814547/000081454720000003/,dei:EntityCommonStockSharesOutstanding 클래스 합,16
+Fair Isaac,FICO,2019Q4,2019-12-31,분기말 시가총액,10921192873,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/FICO?interval=1d&events=splits (2019-12-31) ; https://www.sec.gov/Archives/edgar/data/814547/000081454720000003/,종가 374.68 × 주식수 29148054,16
+Fair Isaac,FICO,2020Q1,2020-03-31,분기별 매출액,307971000,USD,공시,https://www.sec.gov/Archives/edgar/data/814547/000081454720000006/,,16
+Fair Isaac,FICO,2020Q1,2020-03-31,분기별 영업이익,75726000,USD,공시,https://www.sec.gov/Archives/edgar/data/814547/000081454720000006/,,16
+Fair Isaac,FICO,2020Q1,2020-03-31,분기별 당기순이익(지배),58288000,USD,공시,https://www.sec.gov/Archives/edgar/data/814547/000081454720000006/,,16
+Fair Isaac,FICO,2020Q1,2020-03-31,분기별 영업활동현금흐름,61494000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/814547/000081454720000006/ ; https://www.sec.gov/Archives/edgar/data/814547/000081454720000003/,누적 121859000 − 직전누적 60365000 (시작 2019-10-01),16
+Fair Isaac,FICO,2020Q1,2020-03-31,분기말 자산총계,1552132000,USD,공시,https://www.sec.gov/Archives/edgar/data/814547/000081454720000006/,,16
+Fair Isaac,FICO,2020Q1,2020-03-31,분기말 부채총계,1337981000,USD,공시,https://www.sec.gov/Archives/edgar/data/814547/000081454720000006/,,16
+Fair Isaac,FICO,2020Q1,2020-03-31,분기말 총자본(자기자본),214151000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/814547/000081454720000006/,"StockholdersEquity, MinorityInterest 태그 없음",16
+Fair Isaac,FICO,2020Q1,2020-03-31,분기말 지배지분 자본,214151000,USD,공시,https://www.sec.gov/Archives/edgar/data/814547/000081454720000006/,,16
+Fair Isaac,FICO,2020Q1,2020-03-31,분기말 종가,307.69,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/FICO?interval=1d&events=splits (2020-03-31),,16
+Fair Isaac,FICO,2020Q1,2020-04-17,분기말 상장주식수,29003489,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/814547/000081454720000006/,dei:EntityCommonStockSharesOutstanding 클래스 합,16
+Fair Isaac,FICO,2020Q1,2020-03-31,분기말 시가총액,8924083530,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/FICO?interval=1d&events=splits (2020-03-31) ; https://www.sec.gov/Archives/edgar/data/814547/000081454720000006/,종가 307.69 × 주식수 29003489,16
+Fair Isaac,FICO,2020Q2,2020-06-30,분기별 매출액,313731000,USD,공시,https://www.sec.gov/Archives/edgar/data/814547/000081454720000009/,,16
+Fair Isaac,FICO,2020Q2,2020-06-30,분기별 영업이익,82871000,USD,공시,https://www.sec.gov/Archives/edgar/data/814547/000081454720000009/,,16
+Fair Isaac,FICO,2020Q2,2020-06-30,분기별 당기순이익(지배),64076000,USD,공시,https://www.sec.gov/Archives/edgar/data/814547/000081454720000009/,,16
+Fair Isaac,FICO,2020Q2,2020-06-30,분기별 영업활동현금흐름,106871000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/814547/000081454720000009/ ; https://www.sec.gov/Archives/edgar/data/814547/000081454720000006/,누적 228730000 − 직전누적 121859000 (시작 2019-10-01),16
+Fair Isaac,FICO,2020Q2,2020-06-30,분기말 자산총계,1564120000,USD,공시,https://www.sec.gov/Archives/edgar/data/814547/000081454720000009/,,16
+Fair Isaac,FICO,2020Q2,2020-06-30,분기말 부채총계,1316834000,USD,공시,https://www.sec.gov/Archives/edgar/data/814547/000081454720000009/,,16
+Fair Isaac,FICO,2020Q2,2020-06-30,분기말 총자본(자기자본),247286000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/814547/000081454720000009/,"StockholdersEquity, MinorityInterest 태그 없음",16
+Fair Isaac,FICO,2020Q2,2020-06-30,분기말 지배지분 자본,247286000,USD,공시,https://www.sec.gov/Archives/edgar/data/814547/000081454720000009/,,16
+Fair Isaac,FICO,2020Q2,2020-06-30,분기말 종가,418.04,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/FICO?interval=1d&events=splits (2020-06-30),,16
+Fair Isaac,FICO,2020Q2,2020-07-17,분기말 상장주식수,28999394,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/814547/000081454720000009/,dei:EntityCommonStockSharesOutstanding 클래스 합,16
+Fair Isaac,FICO,2020Q2,2020-06-30,분기말 시가총액,12122906668,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/FICO?interval=1d&events=splits (2020-06-30) ; https://www.sec.gov/Archives/edgar/data/814547/000081454720000009/,종가 418.04 × 주식수 28999394,16
+Fair Isaac,FICO,2020Q3,2020-09-30,분기별 매출액,374356000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/814547/000081454720000012/ ; https://www.sec.gov/Archives/edgar/data/814547/000081454720000009/,연간 1294562000 − 9개월누적 920206000 (RevenueFromContractWithCustomerExcludingAssessedTax),16
+Fair Isaac,FICO,2020Q3,2020-09-30,분기별 영업이익,85490000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/814547/000081454720000012/ ; https://www.sec.gov/Archives/edgar/data/814547/000081454720000009/,연간 295969000 − 9개월누적 210479000 (OperatingIncomeLoss),16
+Fair Isaac,FICO,2020Q3,2020-09-30,분기별 당기순이익(지배),59126000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/814547/000081454720000012/ ; https://www.sec.gov/Archives/edgar/data/814547/000081454720000009/,연간 236411000 − 9개월누적 177285000 (NetIncomeLoss),16
+Fair Isaac,FICO,2020Q3,2020-09-30,분기별 영업활동현금흐름,136186000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/814547/000081454720000012/ ; https://www.sec.gov/Archives/edgar/data/814547/000081454720000009/,누적 364916000 − 직전누적 228730000 (시작 2019-10-01),16
+Fair Isaac,FICO,2020Q3,2020-09-30,분기말 자산총계,1606240000,USD,공시,https://www.sec.gov/Archives/edgar/data/814547/000081454720000012/,,16
+Fair Isaac,FICO,2020Q3,2020-09-30,분기말 부채총계,1275158000,USD,공시,https://www.sec.gov/Archives/edgar/data/814547/000081454720000012/,,16
+Fair Isaac,FICO,2020Q3,2020-09-30,분기말 총자본(자기자본),331082000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/814547/000081454720000012/,"StockholdersEquity, MinorityInterest 태그 없음",16
+Fair Isaac,FICO,2020Q3,2020-09-30,분기말 지배지분 자본,331082000,USD,공시,https://www.sec.gov/Archives/edgar/data/814547/000081454720000012/,,16
+Fair Isaac,FICO,2020Q3,2020-09-30,분기말 종가,425.38,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/FICO?interval=1d&events=splits (2020-09-30),,16
+Fair Isaac,FICO,2020Q3,2020-10-30,분기말 상장주식수,29098177,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/814547/000081454720000012/,dei:EntityCommonStockSharesOutstanding 클래스 합,16
+Fair Isaac,FICO,2020Q3,2020-09-30,분기말 시가총액,12377782532,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/FICO?interval=1d&events=splits (2020-09-30) ; https://www.sec.gov/Archives/edgar/data/814547/000081454720000012/,종가 425.38 × 주식수 29098177,16
+Fair Isaac,FICO,2020Q4,2020-12-31,분기별 매출액,312414000,USD,공시,https://www.sec.gov/Archives/edgar/data/814547/000081454721000003/,,16
+Fair Isaac,FICO,2020Q4,2020-12-31,분기별 영업이익,94721000,USD,공시,https://www.sec.gov/Archives/edgar/data/814547/000081454721000003/,,16
+Fair Isaac,FICO,2020Q4,2020-12-31,분기별 당기순이익(지배),86492000,USD,공시,https://www.sec.gov/Archives/edgar/data/814547/000081454721000003/,,16
+Fair Isaac,FICO,2020Q4,2020-12-31,분기별 영업활동현금흐름,77947000,USD,공시,https://www.sec.gov/Archives/edgar/data/814547/000081454721000003/,,16
+Fair Isaac,FICO,2020Q4,2020-12-31,분기말 자산총계,1576863000,USD,공시,https://www.sec.gov/Archives/edgar/data/814547/000081454721000003/,,16
+Fair Isaac,FICO,2020Q4,2020-12-31,분기말 부채총계,1252742000,USD,공시,https://www.sec.gov/Archives/edgar/data/814547/000081454721000003/,,16
+Fair Isaac,FICO,2020Q4,2020-12-31,분기말 총자본(자기자본),324121000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/814547/000081454721000003/,"StockholdersEquity, MinorityInterest 태그 없음",16
+Fair Isaac,FICO,2020Q4,2020-12-31,분기말 지배지분 자본,324121000,USD,공시,https://www.sec.gov/Archives/edgar/data/814547/000081454721000003/,,16
+Fair Isaac,FICO,2020Q4,2020-12-31,분기말 종가,511.04,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/FICO?interval=1d&events=splits (2020-12-31),,16
+Fair Isaac,FICO,2020Q4,2021-01-15,분기말 상장주식수,29236110,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/814547/000081454721000003/,dei:EntityCommonStockSharesOutstanding 클래스 합,16
+Fair Isaac,FICO,2020Q4,2020-12-31,분기말 시가총액,14940821654,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/FICO?interval=1d&events=splits (2020-12-31) ; https://www.sec.gov/Archives/edgar/data/814547/000081454721000003/,종가 511.04 × 주식수 29236110,16
+Fair Isaac,FICO,2021Q1,2021-03-31,분기별 매출액,331361000,USD,공시,https://www.sec.gov/Archives/edgar/data/814547/000081454721000007/,,16
+Fair Isaac,FICO,2021Q1,2021-03-31,분기별 영업이익,101199000,USD,공시,https://www.sec.gov/Archives/edgar/data/814547/000081454721000007/,,16
+Fair Isaac,FICO,2021Q1,2021-03-31,분기별 당기순이익(지배),68674000,USD,공시,https://www.sec.gov/Archives/edgar/data/814547/000081454721000007/,,16
+Fair Isaac,FICO,2021Q1,2021-03-31,분기별 영업활동현금흐름,153523000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/814547/000081454721000007/ ; https://www.sec.gov/Archives/edgar/data/814547/000081454721000003/,누적 231470000 − 직전누적 77947000 (시작 2020-10-01),16
+Fair Isaac,FICO,2021Q1,2021-03-31,분기말 자산총계,1579608000,USD,공시,https://www.sec.gov/Archives/edgar/data/814547/000081454721000007/,,16
+Fair Isaac,FICO,2021Q1,2021-03-31,분기말 부채총계,1356305000,USD,공시,https://www.sec.gov/Archives/edgar/data/814547/000081454721000007/,,16
+Fair Isaac,FICO,2021Q1,2021-03-31,분기말 총자본(자기자본),223303000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/814547/000081454721000007/,"StockholdersEquity, MinorityInterest 태그 없음",16
+Fair Isaac,FICO,2021Q1,2021-03-31,분기말 지배지분 자본,223303000,USD,공시,https://www.sec.gov/Archives/edgar/data/814547/000081454721000007/,,16
+Fair Isaac,FICO,2021Q1,2021-03-31,분기말 종가,486.05,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/FICO?interval=1d&events=splits (2021-03-31),,16
+Fair Isaac,FICO,2021Q1,2021-04-16,분기말 상장주식수,28776867,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/814547/000081454721000007/,dei:EntityCommonStockSharesOutstanding 클래스 합,16
+Fair Isaac,FICO,2021Q1,2021-03-31,분기말 시가총액,13986996205,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/FICO?interval=1d&events=splits (2021-03-31) ; https://www.sec.gov/Archives/edgar/data/814547/000081454721000007/,종가 486.05 × 주식수 28776867,16
+Fair Isaac,FICO,2021Q2,2021-06-30,분기별 매출액,338184000,USD,공시,https://www.sec.gov/Archives/edgar/data/814547/000081454721000012/,,16
+Fair Isaac,FICO,2021Q2,2021-06-30,분기별 영업이익,194384000,USD,공시,https://www.sec.gov/Archives/edgar/data/814547/000081454721000012/,,16
+Fair Isaac,FICO,2021Q2,2021-06-30,분기별 당기순이익(지배),151198000,USD,공시,https://www.sec.gov/Archives/edgar/data/814547/000081454721000012/,,16
+Fair Isaac,FICO,2021Q2,2021-06-30,분기별 영업활동현금흐름,100592000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/814547/000081454721000012/ ; https://www.sec.gov/Archives/edgar/data/814547/000081454721000007/,누적 332062000 − 직전누적 231470000 (시작 2020-10-01),16
+Fair Isaac,FICO,2021Q2,2021-06-30,분기말 자산총계,1589155000,USD,공시,https://www.sec.gov/Archives/edgar/data/814547/000081454721000012/,,16
+Fair Isaac,FICO,2021Q2,2021-06-30,분기말 부채총계,1464317000,USD,공시,https://www.sec.gov/Archives/edgar/data/814547/000081454721000012/,,16
+Fair Isaac,FICO,2021Q2,2021-06-30,분기말 총자본(자기자본),124838000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/814547/000081454721000012/,"StockholdersEquity, MinorityInterest 태그 없음",16
+Fair Isaac,FICO,2021Q2,2021-06-30,분기말 지배지분 자본,124838000,USD,공시,https://www.sec.gov/Archives/edgar/data/814547/000081454721000012/,,16
+Fair Isaac,FICO,2021Q2,2021-06-30,분기말 종가,502.68,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/FICO?interval=1d&events=splits (2021-06-30),,16
+Fair Isaac,FICO,2021Q2,2021-07-23,분기말 상장주식수,28387185,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/814547/000081454721000012/,dei:EntityCommonStockSharesOutstanding 클래스 합,16
+Fair Isaac,FICO,2021Q2,2021-06-30,분기말 시가총액,14269670156,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/FICO?interval=1d&events=splits (2021-06-30) ; https://www.sec.gov/Archives/edgar/data/814547/000081454721000012/,종가 502.68 × 주식수 28387185,16
+Fair Isaac,FICO,2021Q3,2021-09-30,분기별 매출액,334577000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/814547/000081454721000019/ ; https://www.sec.gov/Archives/edgar/data/814547/000081454721000012/,연간 1316536000 − 9개월누적 981959000 (RevenueFromContractWithCustomerExcludingAssessedTax),16
+Fair Isaac,FICO,2021Q3,2021-09-30,분기별 영업이익,115185000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/814547/000081454721000019/ ; https://www.sec.gov/Archives/edgar/data/814547/000081454721000012/,연간 505489000 − 9개월누적 390304000 (OperatingIncomeLoss),16
+Fair Isaac,FICO,2021Q3,2021-09-30,분기별 당기순이익(지배),85720000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/814547/000081454721000019/ ; https://www.sec.gov/Archives/edgar/data/814547/000081454721000012/,연간 392084000 − 9개월누적 306364000 (NetIncomeLoss),16
+Fair Isaac,FICO,2021Q3,2021-09-30,분기별 영업활동현금흐름,91755000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/814547/000081454721000019/ ; https://www.sec.gov/Archives/edgar/data/814547/000081454721000012/,누적 423817000 − 직전누적 332062000 (시작 2020-10-01),16
+Fair Isaac,FICO,2021Q3,2021-09-30,분기말 자산총계,1567776000,USD,공시,https://www.sec.gov/Archives/edgar/data/814547/000081454721000019/,,16
+Fair Isaac,FICO,2021Q3,2021-09-30,분기말 부채총계,1678718000,USD,공시,https://www.sec.gov/Archives/edgar/data/814547/000081454721000019/,,16
+Fair Isaac,FICO,2021Q3,2021-09-30,분기말 총자본(자기자본),-110942000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/814547/000081454721000019/,"StockholdersEquity, MinorityInterest 태그 없음",16
+Fair Isaac,FICO,2021Q3,2021-09-30,분기말 지배지분 자본,-110942000,USD,공시,https://www.sec.gov/Archives/edgar/data/814547/000081454721000019/,,16
+Fair Isaac,FICO,2021Q3,2021-09-30,분기말 종가,397.93,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/FICO?interval=1d&events=splits (2021-09-30),,16
+Fair Isaac,FICO,2021Q3,2021-10-29,분기말 상장주식수,27358353,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/814547/000081454721000019/,dei:EntityCommonStockSharesOutstanding 클래스 합,16
+Fair Isaac,FICO,2021Q3,2021-09-30,분기말 시가총액,10886709409,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/FICO?interval=1d&events=splits (2021-09-30) ; https://www.sec.gov/Archives/edgar/data/814547/000081454721000019/,종가 397.93 × 주식수 27358353,16
+Fair Isaac,FICO,2021Q4,2021-12-31,분기별 매출액,322361000,USD,공시,https://www.sec.gov/Archives/edgar/data/814547/000081454722000003/,,16
+Fair Isaac,FICO,2021Q4,2021-12-31,분기별 영업이익,115586000,USD,공시,https://www.sec.gov/Archives/edgar/data/814547/000081454722000003/,,16
+Fair Isaac,FICO,2021Q4,2021-12-31,분기별 당기순이익(지배),84959000,USD,공시,https://www.sec.gov/Archives/edgar/data/814547/000081454722000003/,,16
+Fair Isaac,FICO,2021Q4,2021-12-31,분기별 영업활동현금흐름,124881000,USD,공시,https://www.sec.gov/Archives/edgar/data/814547/000081454722000003/,,16
+Fair Isaac,FICO,2021Q4,2021-12-31,분기말 자산총계,1463310000,USD,공시,https://www.sec.gov/Archives/edgar/data/814547/000081454722000003/,,16
+Fair Isaac,FICO,2021Q4,2021-12-31,분기말 부채총계,2001609000,USD,공시,https://www.sec.gov/Archives/edgar/data/814547/000081454722000003/,,16
+Fair Isaac,FICO,2021Q4,2021-12-31,분기말 총자본(자기자본),-538299000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/814547/000081454722000003/,"StockholdersEquity, MinorityInterest 태그 없음",16
+Fair Isaac,FICO,2021Q4,2021-12-31,분기말 지배지분 자본,-538299000,USD,공시,https://www.sec.gov/Archives/edgar/data/814547/000081454722000003/,,16
+Fair Isaac,FICO,2021Q4,2021-12-31,분기말 종가,433.67,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/FICO?interval=1d&events=splits (2021-12-31),,16
+Fair Isaac,FICO,2021Q4,2022-01-14,분기말 상장주식수,26279614,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/814547/000081454722000003/,dei:EntityCommonStockSharesOutstanding 클래스 합,16
+Fair Isaac,FICO,2021Q4,2021-12-31,분기말 시가총액,11396680203,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/FICO?interval=1d&events=splits (2021-12-31) ; https://www.sec.gov/Archives/edgar/data/814547/000081454722000003/,종가 433.67 × 주식수 26279614,16
+Fair Isaac,FICO,2022Q1,2022-03-31,분기별 매출액,357195000,USD,공시,https://www.sec.gov/Archives/edgar/data/814547/000081454722000008/,,16
+Fair Isaac,FICO,2022Q1,2022-03-31,분기별 영업이익,152057000,USD,공시,https://www.sec.gov/Archives/edgar/data/814547/000081454722000008/,,16
+Fair Isaac,FICO,2022Q1,2022-03-31,분기별 당기순이익(지배),104383000,USD,공시,https://www.sec.gov/Archives/edgar/data/814547/000081454722000008/,,16
+Fair Isaac,FICO,2022Q1,2022-03-31,분기별 영업활동현금흐름,122603000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/814547/000081454722000008/ ; https://www.sec.gov/Archives/edgar/data/814547/000081454722000003/,누적 247484000 − 직전누적 124881000 (시작 2021-10-01),16
+Fair Isaac,FICO,2022Q1,2022-03-31,분기말 자산총계,1486485000,USD,공시,https://www.sec.gov/Archives/edgar/data/814547/000081454722000008/,,16
+Fair Isaac,FICO,2022Q1,2022-03-31,분기말 부채총계,2149901000,USD,공시,https://www.sec.gov/Archives/edgar/data/814547/000081454722000008/,,16
+Fair Isaac,FICO,2022Q1,2022-03-31,분기말 총자본(자기자본),-663416000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/814547/000081454722000008/,"StockholdersEquity, MinorityInterest 태그 없음",16
+Fair Isaac,FICO,2022Q1,2022-03-31,분기말 지배지분 자본,-663416000,USD,공시,https://www.sec.gov/Archives/edgar/data/814547/000081454722000008/,,16
+Fair Isaac,FICO,2022Q1,2022-03-31,분기말 종가,466.46,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/FICO?interval=1d&events=splits (2022-03-31),,16
+Fair Isaac,FICO,2022Q1,2022-04-15,분기말 상장주식수,25932030,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/814547/000081454722000008/,dei:EntityCommonStockSharesOutstanding 클래스 합,16
+Fair Isaac,FICO,2022Q1,2022-03-31,분기말 시가총액,12096254714,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/FICO?interval=1d&events=splits (2022-03-31) ; https://www.sec.gov/Archives/edgar/data/814547/000081454722000008/,종가 466.46 × 주식수 25932030,16
+Fair Isaac,FICO,2022Q2,2022-06-30,분기별 매출액,348966000,USD,공시,https://www.sec.gov/Archives/edgar/data/814547/000081454722000013/,,16
+Fair Isaac,FICO,2022Q2,2022-06-30,분기별 영업이익,140615000,USD,공시,https://www.sec.gov/Archives/edgar/data/814547/000081454722000013/,,16
+Fair Isaac,FICO,2022Q2,2022-06-30,분기별 당기순이익(지배),93500000,USD,공시,https://www.sec.gov/Archives/edgar/data/814547/000081454722000013/,,16
+Fair Isaac,FICO,2022Q2,2022-06-30,분기별 영업활동현금흐름,117140000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/814547/000081454722000013/ ; https://www.sec.gov/Archives/edgar/data/814547/000081454722000008/,누적 364624000 − 직전누적 247484000 (시작 2021-10-01),16
+Fair Isaac,FICO,2022Q2,2022-06-30,분기말 자산총계,1456836000,USD,공시,https://www.sec.gov/Archives/edgar/data/814547/000081454722000013/,,16
+Fair Isaac,FICO,2022Q2,2022-06-30,분기말 부채총계,2304308000,USD,공시,https://www.sec.gov/Archives/edgar/data/814547/000081454722000013/,,16
+Fair Isaac,FICO,2022Q2,2022-06-30,분기말 총자본(자기자본),-847472000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/814547/000081454722000013/,"StockholdersEquity, MinorityInterest 태그 없음",16
+Fair Isaac,FICO,2022Q2,2022-06-30,분기말 지배지분 자본,-847472000,USD,공시,https://www.sec.gov/Archives/edgar/data/814547/000081454722000013/,,16
+Fair Isaac,FICO,2022Q2,2022-06-30,분기말 종가,400.9,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/FICO?interval=1d&events=splits (2022-06-30),,16
+Fair Isaac,FICO,2022Q2,2022-07-22,분기말 상장주식수,25252514,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/814547/000081454722000013/,dei:EntityCommonStockSharesOutstanding 클래스 합,16
+Fair Isaac,FICO,2022Q2,2022-06-30,분기말 시가총액,10123732863,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/FICO?interval=1d&events=splits (2022-06-30) ; https://www.sec.gov/Archives/edgar/data/814547/000081454722000013/,종가 400.9 × 주식수 25252514,16
+Fair Isaac,FICO,2022Q3,2022-09-30,분기별 매출액,348748000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/814547/000081454722000016/ ; https://www.sec.gov/Archives/edgar/data/814547/000081454722000013/,연간 1377270000 − 9개월누적 1028522000 (RevenueFromContractWithCustomerExcludingAssessedTax),16
+Fair Isaac,FICO,2022Q3,2022-09-30,분기별 영업이익,134156000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/814547/000081454722000016/ ; https://www.sec.gov/Archives/edgar/data/814547/000081454722000013/,연간 542414000 − 9개월누적 408258000 (OperatingIncomeLoss),16
+Fair Isaac,FICO,2022Q3,2022-09-30,분기별 당기순이익(지배),90699000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/814547/000081454722000016/ ; https://www.sec.gov/Archives/edgar/data/814547/000081454722000013/,연간 373541000 − 9개월누적 282842000 (NetIncomeLoss),16
+Fair Isaac,FICO,2022Q3,2022-09-30,분기별 영업활동현금흐름,144826000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/814547/000081454722000016/ ; https://www.sec.gov/Archives/edgar/data/814547/000081454722000013/,누적 509450000 − 직전누적 364624000 (시작 2021-10-01),16
+Fair Isaac,FICO,2022Q3,2022-09-30,분기말 자산총계,1442034000,USD,공시,https://www.sec.gov/Archives/edgar/data/814547/000081454722000016/,,16
+Fair Isaac,FICO,2022Q3,2022-09-30,분기말 부채총계,2243981000,USD,공시,https://www.sec.gov/Archives/edgar/data/814547/000081454722000016/,,16
+Fair Isaac,FICO,2022Q3,2022-09-30,분기말 총자본(자기자본),-801947000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/814547/000081454722000016/,"StockholdersEquity, MinorityInterest 태그 없음",16
+Fair Isaac,FICO,2022Q3,2022-09-30,분기말 지배지분 자본,-801947000,USD,공시,https://www.sec.gov/Archives/edgar/data/814547/000081454722000016/,,16
+Fair Isaac,FICO,2022Q3,2022-09-30,분기말 종가,412.01,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/FICO?interval=1d&events=splits (2022-09-30),,16
+Fair Isaac,FICO,2022Q3,2022-10-28,분기말 상장주식수,24975618,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/814547/000081454722000016/,dei:EntityCommonStockSharesOutstanding 클래스 합,16
+Fair Isaac,FICO,2022Q3,2022-09-30,분기말 시가총액,10290204372,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/FICO?interval=1d&events=splits (2022-09-30) ; https://www.sec.gov/Archives/edgar/data/814547/000081454722000016/,종가 412.01 × 주식수 24975618,16
+Fair Isaac,FICO,2022Q4,2022-12-31,분기별 매출액,344870000,USD,공시,https://www.sec.gov/Archives/edgar/data/814547/000081454723000004/,,16
+Fair Isaac,FICO,2022Q4,2022-12-31,분기별 영업이익,140339000,USD,공시,https://www.sec.gov/Archives/edgar/data/814547/000081454723000004/,,16
+Fair Isaac,FICO,2022Q4,2022-12-31,분기별 당기순이익(지배),97643000,USD,공시,https://www.sec.gov/Archives/edgar/data/814547/000081454723000004/,,16
+Fair Isaac,FICO,2022Q4,2022-12-31,분기별 영업활동현금흐름,92440000,USD,공시,https://www.sec.gov/Archives/edgar/data/814547/000081454723000004/,,16
+Fair Isaac,FICO,2022Q4,2022-12-31,분기말 자산총계,1458693000,USD,공시,https://www.sec.gov/Archives/edgar/data/814547/000081454723000004/,,16
+Fair Isaac,FICO,2022Q4,2022-12-31,분기말 부채총계,2260788000,USD,공시,https://www.sec.gov/Archives/edgar/data/814547/000081454723000004/,,16
+Fair Isaac,FICO,2022Q4,2022-12-31,분기말 총자본(자기자본),-802095000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/814547/000081454723000004/,"StockholdersEquity, MinorityInterest 태그 없음",16
+Fair Isaac,FICO,2022Q4,2022-12-31,분기말 지배지분 자본,-802095000,USD,공시,https://www.sec.gov/Archives/edgar/data/814547/000081454723000004/,,16
+Fair Isaac,FICO,2022Q4,2022-12-30,분기말 종가,598.58,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/FICO?interval=1d&events=splits (2022-12-30),,16
+Fair Isaac,FICO,2022Q4,2023-01-13,분기말 상장주식수,25154777,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/814547/000081454723000004/,dei:EntityCommonStockSharesOutstanding 클래스 합,16
+Fair Isaac,FICO,2022Q4,2022-12-30,분기말 시가총액,15057146417,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/FICO?interval=1d&events=splits (2022-12-30) ; https://www.sec.gov/Archives/edgar/data/814547/000081454723000004/,종가 598.58 × 주식수 25154777,16
+Fair Isaac,FICO,2023Q1,2023-03-31,분기별 매출액,380266000,USD,공시,https://www.sec.gov/Archives/edgar/data/814547/000081454723000008/,,16
+Fair Isaac,FICO,2023Q1,2023-03-31,분기별 영업이익,159761000,USD,공시,https://www.sec.gov/Archives/edgar/data/814547/000081454723000008/,,16
+Fair Isaac,FICO,2023Q1,2023-03-31,분기별 당기순이익(지배),101550000,USD,공시,https://www.sec.gov/Archives/edgar/data/814547/000081454723000008/,,16
+Fair Isaac,FICO,2023Q1,2023-03-31,분기별 영업활동현금흐름,89804000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/814547/000081454723000008/ ; https://www.sec.gov/Archives/edgar/data/814547/000081454723000004/,누적 182244000 − 직전누적 92440000 (시작 2022-10-01),16
+Fair Isaac,FICO,2023Q1,2023-03-31,분기말 자산총계,1502431000,USD,공시,https://www.sec.gov/Archives/edgar/data/814547/000081454723000008/,,16
+Fair Isaac,FICO,2023Q1,2023-03-31,분기말 부채총계,2273224000,USD,공시,https://www.sec.gov/Archives/edgar/data/814547/000081454723000008/,,16
+Fair Isaac,FICO,2023Q1,2023-03-31,분기말 총자본(자기자본),-770793000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/814547/000081454723000008/,"StockholdersEquity, MinorityInterest 태그 없음",16
+Fair Isaac,FICO,2023Q1,2023-03-31,분기말 지배지분 자본,-770793000,USD,공시,https://www.sec.gov/Archives/edgar/data/814547/000081454723000008/,,16
+Fair Isaac,FICO,2023Q1,2023-03-31,분기말 종가,702.69,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/FICO?interval=1d&events=splits (2023-03-31),,16
+Fair Isaac,FICO,2023Q1,2023-04-14,분기말 상장주식수,24993116,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/814547/000081454723000008/,dei:EntityCommonStockSharesOutstanding 클래스 합,16
+Fair Isaac,FICO,2023Q1,2023-03-31,분기말 시가총액,17562412682,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/FICO?interval=1d&events=splits (2023-03-31) ; https://www.sec.gov/Archives/edgar/data/814547/000081454723000008/,종가 702.69 × 주식수 24993116,16
+Fair Isaac,FICO,2023Q2,2023-06-30,분기별 매출액,398688000,USD,공시,https://www.sec.gov/Archives/edgar/data/814547/000081454723000013/,,16
+Fair Isaac,FICO,2023Q2,2023-06-30,분기별 영업이익,177031000,USD,공시,https://www.sec.gov/Archives/edgar/data/814547/000081454723000013/,,16
+Fair Isaac,FICO,2023Q2,2023-06-30,분기별 당기순이익(지배),128758000,USD,공시,https://www.sec.gov/Archives/edgar/data/814547/000081454723000013/,,16
+Fair Isaac,FICO,2023Q2,2023-06-30,분기별 영업활동현금흐름,122622000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/814547/000081454723000013/ ; https://www.sec.gov/Archives/edgar/data/814547/000081454723000008/,누적 304866000 − 직전누적 182244000 (시작 2022-10-01),16
+Fair Isaac,FICO,2023Q2,2023-06-30,분기말 자산총계,1584569000,USD,공시,https://www.sec.gov/Archives/edgar/data/814547/000081454723000013/,,16
+Fair Isaac,FICO,2023Q2,2023-06-30,분기말 부채총계,2288545000,USD,공시,https://www.sec.gov/Archives/edgar/data/814547/000081454723000013/,,16
+Fair Isaac,FICO,2023Q2,2023-06-30,분기말 총자본(자기자본),-703976000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/814547/000081454723000013/,"StockholdersEquity, MinorityInterest 태그 없음",16
+Fair Isaac,FICO,2023Q2,2023-06-30,분기말 지배지분 자본,-703976000,USD,공시,https://www.sec.gov/Archives/edgar/data/814547/000081454723000013/,,16
+Fair Isaac,FICO,2023Q2,2023-06-30,분기말 종가,809.21,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/FICO?interval=1d&events=splits (2023-06-30),,16
+Fair Isaac,FICO,2023Q2,2023-07-21,분기말 상장주식수,24857214,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/814547/000081454723000018/,dei:EntityCommonStockSharesOutstanding 클래스 합 ; 값은 XBRL 원문(companyfacts 미반영 보고서),16
+Fair Isaac,FICO,2023Q2,2023-06-30,분기말 시가총액,20114706141,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/FICO?interval=1d&events=splits (2023-06-30) ; https://www.sec.gov/Archives/edgar/data/814547/000081454723000018/,종가 809.21 × 주식수 24857214 ; 값은 XBRL 원문(companyfacts 미반영 보고서),16
+Fair Isaac,FICO,2023Q3,2023-09-30,분기별 매출액,389733000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/814547/000081454723000022/ ; https://www.sec.gov/Archives/edgar/data/814547/000081454723000013/,연간 1513557000 − 9개월누적 1123824000 (RevenueFromContractWithCustomerExcludingAssessedTax),16
+Fair Isaac,FICO,2023Q3,2023-09-30,분기별 영업이익,165699000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/814547/000081454723000022/ ; https://www.sec.gov/Archives/edgar/data/814547/000081454723000013/,연간 642830000 − 9개월누적 477131000 (OperatingIncomeLoss),16
+Fair Isaac,FICO,2023Q3,2023-09-30,분기별 당기순이익(지배),101424000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/814547/000081454723000022/ ; https://www.sec.gov/Archives/edgar/data/814547/000081454723000013/,연간 429375000 − 9개월누적 327951000 (NetIncomeLoss),16
+Fair Isaac,FICO,2023Q3,2023-09-30,분기별 영업활동현금흐름,164049000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/814547/000081454723000022/ ; https://www.sec.gov/Archives/edgar/data/814547/000081454723000013/,누적 468915000 − 직전누적 304866000 (시작 2022-10-01),16
+Fair Isaac,FICO,2023Q3,2023-09-30,분기말 자산총계,1575281000,USD,공시,https://www.sec.gov/Archives/edgar/data/814547/000081454723000022/,,16
+Fair Isaac,FICO,2023Q3,2023-09-30,분기말 부채총계,2263271000,USD,공시,https://www.sec.gov/Archives/edgar/data/814547/000081454723000022/,,16
+Fair Isaac,FICO,2023Q3,2023-09-30,분기말 총자본(자기자본),-687990000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/814547/000081454723000022/,"StockholdersEquity, MinorityInterest 태그 없음",16
+Fair Isaac,FICO,2023Q3,2023-09-30,분기말 지배지분 자본,-687990000,USD,공시,https://www.sec.gov/Archives/edgar/data/814547/000081454723000022/,,16
+Fair Isaac,FICO,2023Q3,2023-09-29,분기말 종가,868.53,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/FICO?interval=1d&events=splits (2023-09-29),,16
+Fair Isaac,FICO,2023Q3,2023-10-27,분기말 상장주식수,24713557,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/814547/000081454723000022/,dei:EntityCommonStockSharesOutstanding 클래스 합,16
+Fair Isaac,FICO,2023Q3,2023-09-29,분기말 시가총액,21464465661,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/FICO?interval=1d&events=splits (2023-09-29) ; https://www.sec.gov/Archives/edgar/data/814547/000081454723000022/,종가 868.53 × 주식수 24713557,16
+Fair Isaac,FICO,2023Q4,2023-12-31,분기별 매출액,382059000,USD,공시,https://www.sec.gov/Archives/edgar/data/814547/000081454724000005/,,16
+Fair Isaac,FICO,2023Q4,2023-12-31,분기별 영업이익,151359000,USD,공시,https://www.sec.gov/Archives/edgar/data/814547/000081454724000005/,,16
+Fair Isaac,FICO,2023Q4,2023-12-31,분기별 당기순이익(지배),121065000,USD,공시,https://www.sec.gov/Archives/edgar/data/814547/000081454724000005/,,16
+Fair Isaac,FICO,2023Q4,2023-12-31,분기별 영업활동현금흐름,122120000,USD,공시,https://www.sec.gov/Archives/edgar/data/814547/000081454724000005/,,16
+Fair Isaac,FICO,2023Q4,2023-12-31,분기말 자산총계,1593518000,USD,공시,https://www.sec.gov/Archives/edgar/data/814547/000081454724000005/,,16
+Fair Isaac,FICO,2023Q4,2023-12-31,분기말 부채총계,2319283000,USD,공시,https://www.sec.gov/Archives/edgar/data/814547/000081454724000005/,,16
+Fair Isaac,FICO,2023Q4,2023-12-31,분기말 총자본(자기자본),-725765000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/814547/000081454724000005/,"StockholdersEquity, MinorityInterest 태그 없음",16
+Fair Isaac,FICO,2023Q4,2023-12-31,분기말 지배지분 자본,-725765000,USD,공시,https://www.sec.gov/Archives/edgar/data/814547/000081454724000005/,,16
+Fair Isaac,FICO,2023Q4,2023-12-29,분기말 종가,1164.01,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/FICO?interval=1d&events=splits (2023-12-29),,16
+Fair Isaac,FICO,2023Q4,2024-01-17,분기말 상장주식수,24852057,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/814547/000081454724000005/,dei:EntityCommonStockSharesOutstanding 클래스 합,16
+Fair Isaac,FICO,2023Q4,2023-12-29,분기말 시가총액,28928042869,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/FICO?interval=1d&events=splits (2023-12-29) ; https://www.sec.gov/Archives/edgar/data/814547/000081454724000005/,종가 1164.01 × 주식수 24852057,16
+Fair Isaac,FICO,2024Q1,2024-03-31,분기별 매출액,433809000,USD,공시,https://www.sec.gov/Archives/edgar/data/814547/000081454724000016/,,16
+Fair Isaac,FICO,2024Q1,2024-03-31,분기별 영업이익,194841000,USD,공시,https://www.sec.gov/Archives/edgar/data/814547/000081454724000016/,,16
+Fair Isaac,FICO,2024Q1,2024-03-31,분기별 당기순이익(지배),129799000,USD,공시,https://www.sec.gov/Archives/edgar/data/814547/000081454724000016/,,16
+Fair Isaac,FICO,2024Q1,2024-03-31,분기별 영업활동현금흐름,71035000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/814547/000081454724000016/ ; https://www.sec.gov/Archives/edgar/data/814547/000081454724000005/,누적 193155000 − 직전누적 122120000 (시작 2023-10-01),16
+Fair Isaac,FICO,2024Q1,2024-03-31,분기말 자산총계,1703117000,USD,공시,https://www.sec.gov/Archives/edgar/data/814547/000081454724000016/,,16
+Fair Isaac,FICO,2024Q1,2024-03-31,분기말 부채총계,2438777000,USD,공시,https://www.sec.gov/Archives/edgar/data/814547/000081454724000016/,,16
+Fair Isaac,FICO,2024Q1,2024-03-31,분기말 총자본(자기자본),-735660000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/814547/000081454724000016/,"StockholdersEquity, MinorityInterest 태그 없음",16
+Fair Isaac,FICO,2024Q1,2024-03-31,분기말 지배지분 자본,-735660000,USD,공시,https://www.sec.gov/Archives/edgar/data/814547/000081454724000016/,,16
+Fair Isaac,FICO,2024Q1,2024-03-28,분기말 종가,1249.61,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/FICO?interval=1d&events=splits (2024-03-28),,16
+Fair Isaac,FICO,2024Q1,2024-04-12,분기말 상장주식수,24710938,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/814547/000081454724000016/,dei:EntityCommonStockSharesOutstanding 클래스 합,16
+Fair Isaac,FICO,2024Q1,2024-03-28,분기말 시가총액,30879035234,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/FICO?interval=1d&events=splits (2024-03-28) ; https://www.sec.gov/Archives/edgar/data/814547/000081454724000016/,종가 1249.61 × 주식수 24710938,16
+Fair Isaac,FICO,2024Q2,2024-06-30,분기별 매출액,447849000,USD,공시,https://www.sec.gov/Archives/edgar/data/814547/000081454724000024/,,16
+Fair Isaac,FICO,2024Q2,2024-06-30,분기별 영업이익,190251000,USD,공시,https://www.sec.gov/Archives/edgar/data/814547/000081454724000024/,,16
+Fair Isaac,FICO,2024Q2,2024-06-30,분기별 당기순이익(지배),126256000,USD,공시,https://www.sec.gov/Archives/edgar/data/814547/000081454724000024/,,16
+Fair Isaac,FICO,2024Q2,2024-06-30,분기별 영업활동현금흐름,213331000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/814547/000081454724000024/ ; https://www.sec.gov/Archives/edgar/data/814547/000081454724000016/,누적 406486000 − 직전누적 193155000 (시작 2023-10-01),16
+Fair Isaac,FICO,2024Q2,2024-06-30,분기말 자산총계,1708831000,USD,공시,https://www.sec.gov/Archives/edgar/data/814547/000081454724000024/,,16
+Fair Isaac,FICO,2024Q2,2024-06-30,분기말 부채총계,2538137000,USD,공시,https://www.sec.gov/Archives/edgar/data/814547/000081454724000024/,,16
+Fair Isaac,FICO,2024Q2,2024-06-30,분기말 총자본(자기자본),-829306000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/814547/000081454724000024/,"StockholdersEquity, MinorityInterest 태그 없음",16
+Fair Isaac,FICO,2024Q2,2024-06-30,분기말 지배지분 자본,-829306000,USD,공시,https://www.sec.gov/Archives/edgar/data/814547/000081454724000024/,,16
+Fair Isaac,FICO,2024Q2,2024-06-28,분기말 종가,1488.66,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/FICO?interval=1d&events=splits (2024-06-28),,16
+Fair Isaac,FICO,2024Q2,2024-07-17,분기말 상장주식수,24518533,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/814547/000081454724000024/,dei:EntityCommonStockSharesOutstanding 클래스 합,16
+Fair Isaac,FICO,2024Q2,2024-06-28,분기말 시가총액,36499759336,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/FICO?interval=1d&events=splits (2024-06-28) ; https://www.sec.gov/Archives/edgar/data/814547/000081454724000024/,종가 1488.66 × 주식수 24518533,16
+Fair Isaac,FICO,2024Q3,2024-09-30,분기별 매출액,453809000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/814547/000162828024045719/ ; https://www.sec.gov/Archives/edgar/data/814547/000081454724000024/,연간 1717526000 − 9개월누적 1263717000 (RevenueFromContractWithCustomerExcludingAssessedTax),16
+Fair Isaac,FICO,2024Q3,2024-09-30,분기별 영업이익,197178000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/814547/000162828024045719/ ; https://www.sec.gov/Archives/edgar/data/814547/000081454724000024/,연간 733629000 − 9개월누적 536451000 (OperatingIncomeLoss),16
+Fair Isaac,FICO,2024Q3,2024-09-30,분기별 당기순이익(지배),135691000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/814547/000162828024045719/ ; https://www.sec.gov/Archives/edgar/data/814547/000081454724000024/,연간 512811000 − 9개월누적 377120000 (NetIncomeLoss),16
+Fair Isaac,FICO,2024Q3,2024-09-30,분기별 영업활동현금흐름,226478000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/814547/000162828024045719/ ; https://www.sec.gov/Archives/edgar/data/814547/000081454724000024/,누적 632964000 − 직전누적 406486000 (시작 2023-10-01),16
+Fair Isaac,FICO,2024Q3,2024-09-30,분기말 자산총계,1717884000,USD,공시,https://www.sec.gov/Archives/edgar/data/814547/000162828024045719/,,16
+Fair Isaac,FICO,2024Q3,2024-09-30,분기말 부채총계,2680563000,USD,공시,https://www.sec.gov/Archives/edgar/data/814547/000162828024045719/,,16
+Fair Isaac,FICO,2024Q3,2024-09-30,분기말 총자본(자기자본),-962679000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/814547/000162828024045719/,"StockholdersEquity, MinorityInterest 태그 없음",16
+Fair Isaac,FICO,2024Q3,2024-09-30,분기말 지배지분 자본,-962679000,USD,공시,https://www.sec.gov/Archives/edgar/data/814547/000162828024045719/,,16
+Fair Isaac,FICO,2024Q3,2024-09-30,분기말 종가,1943.52,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/FICO?interval=1d&events=splits (2024-09-30),,16
+Fair Isaac,FICO,2024Q3,2024-10-24,분기말 상장주식수,24347903,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/814547/000162828024045719/,dei:EntityCommonStockSharesOutstanding 클래스 합,16
+Fair Isaac,FICO,2024Q3,2024-09-30,분기말 시가총액,47320636439,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/FICO?interval=1d&events=splits (2024-09-30) ; https://www.sec.gov/Archives/edgar/data/814547/000162828024045719/,종가 1943.52 × 주식수 24347903,16
+Fair Isaac,FICO,2024Q4,2024-12-31,분기별 매출액,439968000,USD,공시,https://www.sec.gov/Archives/edgar/data/814547/000081454725000008/,,16
+Fair Isaac,FICO,2024Q4,2024-12-31,분기별 영업이익,179528000,USD,공시,https://www.sec.gov/Archives/edgar/data/814547/000081454725000008/,,16
+Fair Isaac,FICO,2024Q4,2024-12-31,분기별 당기순이익(지배),152528000,USD,공시,https://www.sec.gov/Archives/edgar/data/814547/000081454725000008/,,16
+Fair Isaac,FICO,2024Q4,2024-12-31,분기별 영업활동현금흐름,193997000,USD,공시,https://www.sec.gov/Archives/edgar/data/814547/000081454725000008/,,16
+Fair Isaac,FICO,2024Q4,2024-12-31,분기말 자산총계,1706608000,USD,공시,https://www.sec.gov/Archives/edgar/data/814547/000081454725000008/,,16
+Fair Isaac,FICO,2024Q4,2024-12-31,분기말 부채총계,2844772000,USD,공시,https://www.sec.gov/Archives/edgar/data/814547/000081454725000008/,,16
+Fair Isaac,FICO,2024Q4,2024-12-31,분기말 총자본(자기자본),-1138164000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/814547/000081454725000008/,"StockholdersEquity, MinorityInterest 태그 없음",16
+Fair Isaac,FICO,2024Q4,2024-12-31,분기말 지배지분 자본,-1138164000,USD,공시,https://www.sec.gov/Archives/edgar/data/814547/000081454725000008/,,16
+Fair Isaac,FICO,2024Q4,2024-12-31,분기말 종가,1990.9301,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/FICO?interval=1d&events=splits (2024-12-31),,16
+Fair Isaac,FICO,2024Q4,2025-01-21,분기말 상장주식수,24418138,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/814547/000081454725000008/,dei:EntityCommonStockSharesOutstanding 클래스 합,16
+Fair Isaac,FICO,2024Q4,2024-12-31,분기말 시가총액,48614805930,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/FICO?interval=1d&events=splits (2024-12-31) ; https://www.sec.gov/Archives/edgar/data/814547/000081454725000008/,종가 1990.9301 × 주식수 24418138,16
+Fair Isaac,FICO,2025Q1,2025-03-31,분기별 매출액,498735000,USD,공시,https://www.sec.gov/Archives/edgar/data/814547/000081454725000014/,,16
+Fair Isaac,FICO,2025Q1,2025-03-31,분기별 영업이익,245648000,USD,공시,https://www.sec.gov/Archives/edgar/data/814547/000081454725000014/,,16
+Fair Isaac,FICO,2025Q1,2025-03-31,분기별 당기순이익(지배),162615000,USD,공시,https://www.sec.gov/Archives/edgar/data/814547/000081454725000014/,,16
+Fair Isaac,FICO,2025Q1,2025-03-31,분기별 영업활동현금흐름,74918000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/814547/000081454725000014/ ; https://www.sec.gov/Archives/edgar/data/814547/000081454725000008/,누적 268915000 − 직전누적 193997000 (시작 2024-10-01),16
+Fair Isaac,FICO,2025Q1,2025-03-31,분기말 자산총계,1835753000,USD,공시,https://www.sec.gov/Archives/edgar/data/814547/000081454725000014/,,16
+Fair Isaac,FICO,2025Q1,2025-03-31,분기말 부채총계,2959805000,USD,공시,https://www.sec.gov/Archives/edgar/data/814547/000081454725000014/,,16
+Fair Isaac,FICO,2025Q1,2025-03-31,분기말 총자본(자기자본),-1124052000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/814547/000081454725000014/,"StockholdersEquity, MinorityInterest 태그 없음",16
+Fair Isaac,FICO,2025Q1,2025-03-31,분기말 지배지분 자본,-1124052000,USD,공시,https://www.sec.gov/Archives/edgar/data/814547/000081454725000014/,,16
+Fair Isaac,FICO,2025Q1,2025-03-31,분기말 종가,1844.16,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/FICO?interval=1d&events=splits (2025-03-31),,16
+Fair Isaac,FICO,2025Q1,2025-04-16,분기말 상장주식수,24341690,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/814547/000081454725000014/,dei:EntityCommonStockSharesOutstanding 클래스 합,16
+Fair Isaac,FICO,2025Q1,2025-03-31,분기말 시가총액,44889971030,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/FICO?interval=1d&events=splits (2025-03-31) ; https://www.sec.gov/Archives/edgar/data/814547/000081454725000014/,종가 1844.16 × 주식수 24341690,16
+Fair Isaac,FICO,2025Q2,2025-06-30,분기별 매출액,536415000,USD,공시,https://www.sec.gov/Archives/edgar/data/814547/000081454725000022/,,16
+Fair Isaac,FICO,2025Q2,2025-06-30,분기별 영업이익,262518000,USD,공시,https://www.sec.gov/Archives/edgar/data/814547/000081454725000022/,,16
+Fair Isaac,FICO,2025Q2,2025-06-30,분기별 당기순이익(지배),181789000,USD,공시,https://www.sec.gov/Archives/edgar/data/814547/000081454725000022/,,16
+Fair Isaac,FICO,2025Q2,2025-06-30,분기별 영업활동현금흐름,286223000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/814547/000081454725000022/ ; https://www.sec.gov/Archives/edgar/data/814547/000081454725000014/,누적 555138000 − 직전누적 268915000 (시작 2024-10-01),16
+Fair Isaac,FICO,2025Q2,2025-06-30,분기말 자산총계,1862023000,USD,공시,https://www.sec.gov/Archives/edgar/data/814547/000081454725000022/,,16
+Fair Isaac,FICO,2025Q2,2025-06-30,분기말 부채총계,3259469000,USD,공시,https://www.sec.gov/Archives/edgar/data/814547/000081454725000022/,,16
+Fair Isaac,FICO,2025Q2,2025-06-30,분기말 총자본(자기자본),-1397446000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/814547/000081454725000022/,"StockholdersEquity, MinorityInterest 태그 없음",16
+Fair Isaac,FICO,2025Q2,2025-06-30,분기말 지배지분 자본,-1397446000,USD,공시,https://www.sec.gov/Archives/edgar/data/814547/000081454725000022/,,16
+Fair Isaac,FICO,2025Q2,2025-06-30,분기말 종가,1827.96,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/FICO?interval=1d&events=splits (2025-06-30),,16
+Fair Isaac,FICO,2025Q2,2025-07-18,분기말 상장주식수,24003656,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/814547/000081454725000022/,dei:EntityCommonStockSharesOutstanding 클래스 합,16
+Fair Isaac,FICO,2025Q2,2025-06-30,분기말 시가총액,43877723022,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/FICO?interval=1d&events=splits (2025-06-30) ; https://www.sec.gov/Archives/edgar/data/814547/000081454725000022/,종가 1827.96 × 주식수 24003656,16
+Fair Isaac,FICO,2025Q3,2025-09-30,분기별 매출액,515751000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/814547/000081454725000030/ ; https://www.sec.gov/Archives/edgar/data/814547/000081454725000022/,연간 1990869000 − 9개월누적 1475118000 (RevenueFromContractWithCustomerExcludingAssessedTax),16
+Fair Isaac,FICO,2025Q3,2025-09-30,분기별 영업이익,237156000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/814547/000081454725000030/ ; https://www.sec.gov/Archives/edgar/data/814547/000081454725000022/,연간 924850000 − 9개월누적 687694000 (OperatingIncomeLoss),16
+Fair Isaac,FICO,2025Q3,2025-09-30,분기별 당기순이익(지배),155014000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/814547/000081454725000030/ ; https://www.sec.gov/Archives/edgar/data/814547/000081454725000022/,연간 651946000 − 9개월누적 496932000 (NetIncomeLoss),16
+Fair Isaac,FICO,2025Q3,2025-09-30,분기별 영업활동현금흐름,223669000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/814547/000081454725000030/ ; https://www.sec.gov/Archives/edgar/data/814547/000081454725000022/,누적 778807000 − 직전누적 555138000 (시작 2024-10-01),16
+Fair Isaac,FICO,2025Q3,2025-09-30,분기말 자산총계,1868133000,USD,공시,https://www.sec.gov/Archives/edgar/data/814547/000081454725000030/,,16
+Fair Isaac,FICO,2025Q3,2025-09-30,분기말 부채총계,3613917000,USD,공시,https://www.sec.gov/Archives/edgar/data/814547/000081454725000030/,,16
+Fair Isaac,FICO,2025Q3,2025-09-30,분기말 총자본(자기자본),-1745784000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/814547/000081454725000030/,"StockholdersEquity, MinorityInterest 태그 없음",16
+Fair Isaac,FICO,2025Q3,2025-09-30,분기말 지배지분 자본,-1745784000,USD,공시,https://www.sec.gov/Archives/edgar/data/814547/000081454725000030/,,16
+Fair Isaac,FICO,2025Q3,2025-09-30,분기말 종가,1496.53,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/FICO?interval=1d&events=splits (2025-09-30),,16
+Fair Isaac,FICO,2025Q3,2025-10-23,분기말 상장주식수,23709047,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/814547/000081454725000030/,dei:EntityCommonStockSharesOutstanding 클래스 합,16
+Fair Isaac,FICO,2025Q3,2025-09-30,분기말 시가총액,35481300107,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/FICO?interval=1d&events=splits (2025-09-30) ; https://www.sec.gov/Archives/edgar/data/814547/000081454725000030/,종가 1496.53 × 주식수 23709047,16
+Fair Isaac,FICO,2025Q4,2025-12-31,분기별 매출액,511959000,USD,공시,https://www.sec.gov/Archives/edgar/data/814547/000081454726000011/,,16
+Fair Isaac,FICO,2025Q4,2025-12-31,분기별 영업이익,234049000,USD,공시,https://www.sec.gov/Archives/edgar/data/814547/000081454726000011/,,16
+Fair Isaac,FICO,2025Q4,2025-12-31,분기별 당기순이익(지배),158373000,USD,공시,https://www.sec.gov/Archives/edgar/data/814547/000081454726000011/,,16
+Fair Isaac,FICO,2025Q4,2025-12-31,분기별 영업활동현금흐름,174082000,USD,공시,https://www.sec.gov/Archives/edgar/data/814547/000081454726000011/,,16
+Fair Isaac,FICO,2025Q4,2025-12-31,분기말 자산총계,1854160000,USD,공시,https://www.sec.gov/Archives/edgar/data/814547/000081454726000011/,,16
+Fair Isaac,FICO,2025Q4,2025-12-31,분기말 부채총계,3662294000,USD,공시,https://www.sec.gov/Archives/edgar/data/814547/000081454726000011/,,16
+Fair Isaac,FICO,2025Q4,2025-12-31,분기말 총자본(자기자본),-1808134000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/814547/000081454726000011/,"StockholdersEquity, MinorityInterest 태그 없음",16
+Fair Isaac,FICO,2025Q4,2025-12-31,분기말 지배지분 자본,-1808134000,USD,공시,https://www.sec.gov/Archives/edgar/data/814547/000081454726000011/,,16
+Fair Isaac,FICO,2025Q4,2025-12-31,분기말 종가,1690.62,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/FICO?interval=1d&events=splits (2025-12-31),,16
+Fair Isaac,FICO,2025Q4,2026-01-21,분기말 상장주식수,23722134,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/814547/000081454726000011/,dei:EntityCommonStockSharesOutstanding 클래스 합,16
+Fair Isaac,FICO,2025Q4,2025-12-31,분기말 시가총액,40105114183,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/FICO?interval=1d&events=splits (2025-12-31) ; https://www.sec.gov/Archives/edgar/data/814547/000081454726000011/,종가 1690.62 × 주식수 23722134,16
+Fair Isaac,FICO,2026Q1,2026-03-31,분기별 매출액,691677000,USD,공시,https://www.sec.gov/Archives/edgar/data/814547/000081454726000021/,,16
+Fair Isaac,FICO,2026Q1,2026-03-31,분기별 영업이익,402465000,USD,공시,https://www.sec.gov/Archives/edgar/data/814547/000081454726000021/,,16
+Fair Isaac,FICO,2026Q1,2026-03-31,분기별 당기순이익(지배),264458000,USD,공시,https://www.sec.gov/Archives/edgar/data/814547/000081454726000021/,,16
+Fair Isaac,FICO,2026Q1,2026-03-31,분기별 영업활동현금흐름,223358000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/814547/000081454726000021/ ; https://www.sec.gov/Archives/edgar/data/814547/000081454726000011/,누적 397440000 − 직전누적 174082000 (시작 2025-10-01),16
+Fair Isaac,FICO,2026Q1,2026-03-31,분기말 자산총계,2048249000,USD,공시,https://www.sec.gov/Archives/edgar/data/814547/000081454726000021/,,16
+Fair Isaac,FICO,2026Q1,2026-03-31,분기말 부채총계,4149899000,USD,공시,https://www.sec.gov/Archives/edgar/data/814547/000081454726000021/,,16
+Fair Isaac,FICO,2026Q1,2026-03-31,분기말 총자본(자기자본),-2101650000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/814547/000081454726000021/,"StockholdersEquity, MinorityInterest 태그 없음",16
+Fair Isaac,FICO,2026Q1,2026-03-31,분기말 지배지분 자본,-2101650000,USD,공시,https://www.sec.gov/Archives/edgar/data/814547/000081454726000021/,,16
+Fair Isaac,FICO,2026Q1,2026-03-31,분기말 종가,1067.54,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/FICO?interval=1d&events=splits (2026-03-31),,16
+Fair Isaac,FICO,2026Q1,2026-04-16,분기말 상장주식수,23190906,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/814547/000081454726000021/,dei:EntityCommonStockSharesOutstanding 클래스 합,16
+Fair Isaac,FICO,2026Q1,2026-03-31,분기말 시가총액,24757219791,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/FICO?interval=1d&events=splits (2026-03-31) ; https://www.sec.gov/Archives/edgar/data/814547/000081454726000021/,종가 1067.54 × 주식수 23190906,16
+Fair Isaac,FICO,2026Q2,2026-06-30,분기별 매출액,674188000,USD,공시,https://www.sec.gov/Archives/edgar/data/814547/000081454726000030/,,16
+Fair Isaac,FICO,2026Q2,2026-06-30,분기별 영업이익,362628000,USD,공시,https://www.sec.gov/Archives/edgar/data/814547/000081454726000030/,,16
+Fair Isaac,FICO,2026Q2,2026-06-30,분기별 당기순이익(지배),237172000,USD,공시,https://www.sec.gov/Archives/edgar/data/814547/000081454726000030/,,16
+Fair Isaac,FICO,2026Q2,2026-06-30,분기별 영업활동현금흐름,380440000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/814547/000081454726000030/ ; https://www.sec.gov/Archives/edgar/data/814547/000081454726000021/,누적 777880000 − 직전누적 397440000 (시작 2025-10-01),16
+Fair Isaac,FICO,2026Q2,2026-06-30,분기말 자산총계,2037373000,USD,공시,https://www.sec.gov/Archives/edgar/data/814547/000081454726000030/,,16
+Fair Isaac,FICO,2026Q2,2026-06-30,분기말 부채총계,6134508000,USD,공시,https://www.sec.gov/Archives/edgar/data/814547/000081454726000030/,,16
+Fair Isaac,FICO,2026Q2,2026-06-30,분기말 총자본(자기자본),-4097135000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/814547/000081454726000030/,"StockholdersEquity, MinorityInterest 태그 없음",16
+Fair Isaac,FICO,2026Q2,2026-06-30,분기말 지배지분 자본,-4097135000,USD,공시,https://www.sec.gov/Archives/edgar/data/814547/000081454726000030/,,16
+Fair Isaac,FICO,2026Q2,2026-06-30,분기말 종가,1194.78,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/FICO?interval=1d&events=splits (2026-06-30),,16
+Fair Isaac,FICO,2026Q2,2026-07-17,분기말 상장주식수,21597635,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/814547/000081454726000030/,dei:EntityCommonStockSharesOutstanding 클래스 합,16
+Fair Isaac,FICO,2026Q2,2026-06-30,분기말 시가총액,25804422345,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/FICO?interval=1d&events=splits (2026-06-30) ; https://www.sec.gov/Archives/edgar/data/814547/000081454726000030/,종가 1194.78 × 주식수 21597635,16

@@ -1,0 +1,727 @@
+﻿기업,종목코드,기간,기준일,항목,값,통화,값구분,출처,검산,라운드
+Nordson,NDSN,2010Q1,2010-04-30,분기별 매출액,251659000,USD,공시(후속 보고서 비교기간),https://www.sec.gov/Archives/edgar/data/72331/000095012311056271/,SalesRevenueNet ; 그 분기 보고서에 연결 총계가 없어 2011-06-03 제출본의 비교기간에서 읽었다,22
+Nordson,NDSN,2010Q1,2010-04-30,분기별 영업이익,57590000,USD,공시(후속 보고서 비교기간),https://www.sec.gov/Archives/edgar/data/72331/000095012311056271/,OperatingIncomeLoss ; 그 분기 보고서에 연결 총계가 없어 2011-06-03 제출본의 비교기간에서 읽었다,22
+Nordson,NDSN,2010Q1,2010-04-30,분기별 당기순이익(지배),32431000,USD,공시(후속 보고서 비교기간),https://www.sec.gov/Archives/edgar/data/72331/000095012311056271/,NetIncomeLoss ; 그 분기 보고서에 연결 총계가 없어 2011-06-03 제출본의 비교기간에서 읽었다,22
+Nordson,NDSN,2010Q1,2010-04-30,분기별 영업활동현금흐름,미확인,USD,미확인,https://www.sec.gov/Archives/edgar/data/72331/000095012310056485/,,22
+Nordson,NDSN,2010Q1,2010-04-30,분기말 자산총계,미확인,USD,미확인,https://www.sec.gov/Archives/edgar/data/72331/000095012310056485/,,22
+Nordson,NDSN,2010Q1,2010-04-30,분기말 부채총계,미확인,USD,미확인,https://www.sec.gov/Archives/edgar/data/72331/000095012310056485/,,22
+Nordson,NDSN,2010Q1,2010-04-30,분기말 총자본(자기자본),미확인,USD,미확인,https://www.sec.gov/Archives/edgar/data/72331/000095012310056485/,,22
+Nordson,NDSN,2010Q1,2010-04-30,분기말 지배지분 자본,미확인,USD,미확인,https://www.sec.gov/Archives/edgar/data/72331/000095012310056485/,,22
+Nordson,NDSN,2010Q1,2010-04-30,분기말 종가,71.82,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/NDSN?interval=1d&events=splits (2010-04-30),분할조정 종가 35.91 × 이후 분할계수 2,22
+Nordson,NDSN,2010Q1,2010-04-30,분기말 상장주식수,미확인,,미확인,SEC companyfacts·XBRL 원문 모두 dei 표지 주식수 없음,,22
+Nordson,NDSN,2010Q1,2010-04-30,분기말 시가총액,미확인,,미확인,SEC companyfacts·XBRL 원문 모두 dei 표지 주식수 없음,,22
+Nordson,NDSN,2010Q2,2010-07-31,분기별 매출액,279121000,USD,공시,https://www.sec.gov/Archives/edgar/data/72331/000095012310084374/,,22
+Nordson,NDSN,2010Q2,2010-07-31,분기별 영업이익,67695000,USD,공시,https://www.sec.gov/Archives/edgar/data/72331/000095012310084374/,,22
+Nordson,NDSN,2010Q2,2010-07-31,분기별 당기순이익(지배),55329000,USD,공시,https://www.sec.gov/Archives/edgar/data/72331/000095012310084374/,,22
+Nordson,NDSN,2010Q2,2010-07-31,분기별 영업활동현금흐름,데이터 없음(직전 분기 누적 보고서 없음),USD,데이터 없음(직전 보고서 없음),https://www.sec.gov/Archives/edgar/data/72331/000095012310084374/,,22
+Nordson,NDSN,2010Q2,2010-07-31,분기말 자산총계,962794000,USD,공시,https://www.sec.gov/Archives/edgar/data/72331/000095012310084374/,,22
+Nordson,NDSN,2010Q2,2010-07-31,분기말 부채총계,507514000,USD,계산(부채및자본-총자본),https://www.sec.gov/Archives/edgar/data/72331/000095012310084374/,부채및자본 962794000 − 총자본 455280000,22
+Nordson,NDSN,2010Q2,2010-07-31,분기말 총자본(자기자본),455280000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/72331/000095012310084374/,"StockholdersEquity, MinorityInterest 태그 없음",22
+Nordson,NDSN,2010Q2,2010-07-31,분기말 지배지분 자본,455280000,USD,공시,https://www.sec.gov/Archives/edgar/data/72331/000095012310084374/,,22
+Nordson,NDSN,2010Q2,2010-07-30,분기말 종가,63.05,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/NDSN?interval=1d&events=splits (2010-07-30),분할조정 종가 31.525 × 이후 분할계수 2,22
+Nordson,NDSN,2010Q2,2010-07-31,분기말 상장주식수,33957125,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/72331/000095012310084374/,dei:EntityCommonStockSharesOutstanding 클래스 합,22
+Nordson,NDSN,2010Q2,2010-07-30,분기말 시가총액,2140996731,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/NDSN?interval=1d&events=splits (2010-07-30) ; https://www.sec.gov/Archives/edgar/data/72331/000095012310084374/,종가 63.05 × 주식수 33957125,22
+Nordson,NDSN,2010Q3,2010-10-31,분기별 매출액,290182000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/72331/000095012310114569/ ; https://www.sec.gov/Archives/edgar/data/72331/000095012310084374/,연간 1041551000 − 9개월누적 751369000 (SalesRevenueNet),22
+Nordson,NDSN,2010Q3,2010-10-31,분기별 영업이익,73278000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/72331/000095012310114569/ ; https://www.sec.gov/Archives/edgar/data/72331/000095012310084374/,연간 234833000 − 9개월누적 161555000 (OperatingIncomeLoss),22
+Nordson,NDSN,2010Q3,2010-10-31,분기별 당기순이익(지배),53556000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/72331/000095012310114569/ ; https://www.sec.gov/Archives/edgar/data/72331/000095012310084374/,연간 168048000 − 9개월누적 114492000 (NetIncomeLoss),22
+Nordson,NDSN,2010Q3,2010-10-31,분기별 영업활동현금흐름,73657000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/72331/000095012310114569/ ; https://www.sec.gov/Archives/edgar/data/72331/000095012310084374/,누적 140186000 − 직전누적 66529000 (시작 2009-11-01),22
+Nordson,NDSN,2010Q3,2010-10-31,분기말 자산총계,986354000,USD,공시,https://www.sec.gov/Archives/edgar/data/72331/000095012310114569/,,22
+Nordson,NDSN,2010Q3,2010-10-31,분기말 부채총계,481282000,USD,계산(부채및자본-총자본),https://www.sec.gov/Archives/edgar/data/72331/000095012310114569/,부채및자본 986354000 − 총자본 505072000,22
+Nordson,NDSN,2010Q3,2010-10-31,분기말 총자본(자기자본),505072000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/72331/000095012310114569/,"StockholdersEquity, MinorityInterest 태그 없음",22
+Nordson,NDSN,2010Q3,2010-10-31,분기말 지배지분 자본,505072000,USD,공시,https://www.sec.gov/Archives/edgar/data/72331/000095012310114569/,,22
+Nordson,NDSN,2010Q3,2010-10-29,분기말 종가,78.02,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/NDSN?interval=1d&events=splits (2010-10-29),분할조정 종가 39.01 × 이후 분할계수 2,22
+Nordson,NDSN,2010Q3,2010-11-30,분기말 상장주식수,33979349,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/72331/000095012310114569/,dei:EntityCommonStockSharesOutstanding 클래스 합,22
+Nordson,NDSN,2010Q3,2010-10-29,분기말 시가총액,2651068809,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/NDSN?interval=1d&events=splits (2010-10-29) ; https://www.sec.gov/Archives/edgar/data/72331/000095012310114569/,종가 78.02 × 주식수 33979349,22
+Nordson,NDSN,2010Q4,2011-01-31,분기별 매출액,270962000,USD,공시,https://www.sec.gov/Archives/edgar/data/72331/000095012311024502/,,22
+Nordson,NDSN,2010Q4,2011-01-31,분기별 영업이익,65524000,USD,공시,https://www.sec.gov/Archives/edgar/data/72331/000095012311024502/,,22
+Nordson,NDSN,2010Q4,2011-01-31,분기별 당기순이익(지배),45897000,USD,공시,https://www.sec.gov/Archives/edgar/data/72331/000095012311024502/,,22
+Nordson,NDSN,2010Q4,2011-01-31,분기별 영업활동현금흐름,55920000,USD,공시,https://www.sec.gov/Archives/edgar/data/72331/000095012311024502/,,22
+Nordson,NDSN,2010Q4,2011-01-31,분기말 자산총계,997434000,USD,공시,https://www.sec.gov/Archives/edgar/data/72331/000095012311024502/,,22
+Nordson,NDSN,2010Q4,2011-01-31,분기말 부채총계,454659000,USD,계산(부채및자본-총자본),https://www.sec.gov/Archives/edgar/data/72331/000095012311024502/,부채및자본 997434000 − 총자본 542775000,22
+Nordson,NDSN,2010Q4,2011-01-31,분기말 총자본(자기자본),542775000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/72331/000095012311024502/,"StockholdersEquity, MinorityInterest 태그 없음",22
+Nordson,NDSN,2010Q4,2011-01-31,분기말 지배지분 자본,542775000,USD,공시,https://www.sec.gov/Archives/edgar/data/72331/000095012311024502/,,22
+Nordson,NDSN,2010Q4,2011-01-31,분기말 종가,92.31,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/NDSN?interval=1d&events=splits (2011-01-31),분할조정 종가 46.155 × 이후 분할계수 2,22
+Nordson,NDSN,2010Q4,2011-01-31,분기말 상장주식수,34110285,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/72331/000095012311024502/,dei:EntityCommonStockSharesOutstanding 클래스 합,22
+Nordson,NDSN,2010Q4,2011-01-31,분기말 시가총액,3148720408,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/NDSN?interval=1d&events=splits (2011-01-31) ; https://www.sec.gov/Archives/edgar/data/72331/000095012311024502/,종가 92.31 × 주식수 34110285,22
+Nordson,NDSN,2011Q1,2011-04-30,분기별 매출액,318924000,USD,공시,https://www.sec.gov/Archives/edgar/data/72331/000095012311056271/,,22
+Nordson,NDSN,2011Q1,2011-04-30,분기별 영업이익,92428000,USD,공시,https://www.sec.gov/Archives/edgar/data/72331/000095012311056271/,,22
+Nordson,NDSN,2011Q1,2011-04-30,분기별 당기순이익(지배),65242000,USD,공시,https://www.sec.gov/Archives/edgar/data/72331/000095012311056271/,,22
+Nordson,NDSN,2011Q1,2011-04-30,분기별 영업활동현금흐름,56142000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/72331/000095012311056271/ ; https://www.sec.gov/Archives/edgar/data/72331/000095012311024502/,누적 112062000 − 직전누적 55920000 (시작 2010-11-01),22
+Nordson,NDSN,2011Q1,2011-04-30,분기말 자산총계,1058906000,USD,공시,https://www.sec.gov/Archives/edgar/data/72331/000095012311056271/,,22
+Nordson,NDSN,2011Q1,2011-04-30,분기말 부채총계,437402000,USD,계산(부채및자본-총자본),https://www.sec.gov/Archives/edgar/data/72331/000095012311056271/,부채및자본 1058906000 − 총자본 621504000,22
+Nordson,NDSN,2011Q1,2011-04-30,분기말 총자본(자기자본),621504000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/72331/000095012311056271/,"StockholdersEquity, MinorityInterest 태그 없음",22
+Nordson,NDSN,2011Q1,2011-04-30,분기말 지배지분 자본,621504000,USD,공시,https://www.sec.gov/Archives/edgar/data/72331/000095012311056271/,,22
+Nordson,NDSN,2011Q1,2011-04-29,분기말 종가,56.97,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/NDSN?interval=1d&events=splits (2011-04-29),,22
+Nordson,NDSN,2011Q1,2011-04-30,분기말 상장주식수,68248139,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/72331/000095012311056271/,dei:EntityCommonStockSharesOutstanding 클래스 합,22
+Nordson,NDSN,2011Q1,2011-04-29,분기말 시가총액,3888096479,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/NDSN?interval=1d&events=splits (2011-04-29) ; https://www.sec.gov/Archives/edgar/data/72331/000095012311056271/,종가 56.97 × 주식수 68248139,22
+Nordson,NDSN,2011Q2,2011-07-31,분기별 매출액,312255000,USD,공시,https://www.sec.gov/Archives/edgar/data/72331/000095012311083594/,,22
+Nordson,NDSN,2011Q2,2011-07-31,분기별 영업이익,78656000,USD,공시,https://www.sec.gov/Archives/edgar/data/72331/000095012311083594/,,22
+Nordson,NDSN,2011Q2,2011-07-31,분기별 당기순이익(지배),56550000,USD,공시,https://www.sec.gov/Archives/edgar/data/72331/000095012311083594/,,22
+Nordson,NDSN,2011Q2,2011-07-31,분기별 영업활동현금흐름,68230000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/72331/000095012311083594/ ; https://www.sec.gov/Archives/edgar/data/72331/000095012311056271/,누적 180292000 − 직전누적 112062000 (시작 2010-11-01),22
+Nordson,NDSN,2011Q2,2011-07-31,분기말 자산총계,1084444000,USD,공시,https://www.sec.gov/Archives/edgar/data/72331/000095012311083594/,,22
+Nordson,NDSN,2011Q2,2011-07-31,분기말 부채총계,438637000,USD,계산(부채및자본-총자본),https://www.sec.gov/Archives/edgar/data/72331/000095012311083594/,부채및자본 1084444000 − 총자본 645807000,22
+Nordson,NDSN,2011Q2,2011-07-31,분기말 총자본(자기자본),645807000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/72331/000095012311083594/,"StockholdersEquity, MinorityInterest 태그 없음",22
+Nordson,NDSN,2011Q2,2011-07-31,분기말 지배지분 자본,645807000,USD,공시,https://www.sec.gov/Archives/edgar/data/72331/000095012311083594/,,22
+Nordson,NDSN,2011Q2,2011-07-29,분기말 종가,51.03,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/NDSN?interval=1d&events=splits (2011-07-29),,22
+Nordson,NDSN,2011Q2,2011-07-31,분기말 상장주식수,67757123,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/72331/000095012311083594/,dei:EntityCommonStockSharesOutstanding 클래스 합,22
+Nordson,NDSN,2011Q2,2011-07-29,분기말 시가총액,3457645987,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/NDSN?interval=1d&events=splits (2011-07-29) ; https://www.sec.gov/Archives/edgar/data/72331/000095012311083594/,종가 51.03 × 주식수 67757123,22
+Nordson,NDSN,2011Q3,2011-10-31,분기별 매출액,331018000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/72331/000119312511343516/ ; https://www.sec.gov/Archives/edgar/data/72331/000095012311083594/,연간 1233159000 − 9개월누적 902141000 (SalesRevenueNet),22
+Nordson,NDSN,2011Q3,2011-10-31,분기별 영업이익,78935000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/72331/000119312511343516/ ; https://www.sec.gov/Archives/edgar/data/72331/000095012311083594/,연간 315543000 − 9개월누적 236608000 (OperatingIncomeLoss),22
+Nordson,NDSN,2011Q3,2011-10-31,분기별 당기순이익(지배),54675000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/72331/000119312511343516/ ; https://www.sec.gov/Archives/edgar/data/72331/000095012311083594/,연간 222364000 − 9개월누적 167689000 (NetIncomeLoss),22
+Nordson,NDSN,2011Q3,2011-10-31,분기별 영업활동현금흐름,66435000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/72331/000119312511343516/ ; https://www.sec.gov/Archives/edgar/data/72331/000095012311083594/,누적 246727000 − 직전누적 180292000 (시작 2010-11-01),22
+Nordson,NDSN,2011Q3,2011-10-31,분기말 자산총계,1304450000,USD,공시,https://www.sec.gov/Archives/edgar/data/72331/000119312511343516/,,22
+Nordson,NDSN,2011Q3,2011-10-31,분기말 부채총계,733127000,USD,계산(부채및자본-총자본),https://www.sec.gov/Archives/edgar/data/72331/000119312511343516/,부채및자본 1304450000 − 총자본 571323000,22
+Nordson,NDSN,2011Q3,2011-10-31,분기말 총자본(자기자본),571323000,USD,공시,https://www.sec.gov/Archives/edgar/data/72331/000119312511343516/,,22
+Nordson,NDSN,2011Q3,2011-10-31,분기말 지배지분 자본,571323000,USD,공시,https://www.sec.gov/Archives/edgar/data/72331/000119312511343516/,,22
+Nordson,NDSN,2011Q3,2011-10-31,분기말 종가,46.37,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/NDSN?interval=1d&events=splits (2011-10-31),,22
+Nordson,NDSN,2011Q3,2011-11-30,분기말 상장주식수,65343146,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/72331/000119312511343516/,dei:EntityCommonStockSharesOutstanding 클래스 합,22
+Nordson,NDSN,2011Q3,2011-10-31,분기말 시가총액,3029961680,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/NDSN?interval=1d&events=splits (2011-10-31) ; https://www.sec.gov/Archives/edgar/data/72331/000119312511343516/,종가 46.37 × 주식수 65343146,22
+Nordson,NDSN,2011Q4,2012-01-31,분기별 매출액,275836000,USD,공시,https://www.sec.gov/Archives/edgar/data/72331/000119312512097958/,,22
+Nordson,NDSN,2011Q4,2012-01-31,분기별 영업이익,56487000,USD,공시,https://www.sec.gov/Archives/edgar/data/72331/000119312512097958/,,22
+Nordson,NDSN,2011Q4,2012-01-31,분기별 당기순이익(지배),38338000,USD,공시,https://www.sec.gov/Archives/edgar/data/72331/000119312512097958/,,22
+Nordson,NDSN,2011Q4,2012-01-31,분기별 영업활동현금흐름,44310000,USD,공시,https://www.sec.gov/Archives/edgar/data/72331/000119312512097958/,,22
+Nordson,NDSN,2011Q4,2012-01-31,분기말 자산총계,1300825000,USD,공시,https://www.sec.gov/Archives/edgar/data/72331/000119312512097958/,,22
+Nordson,NDSN,2011Q4,2012-01-31,분기말 부채총계,748665000,USD,계산(부채및자본-총자본),https://www.sec.gov/Archives/edgar/data/72331/000119312512097958/,부채및자본 1300825000 − 총자본 552160000,22
+Nordson,NDSN,2011Q4,2012-01-31,분기말 총자본(자기자본),552160000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/72331/000119312512097958/,"StockholdersEquity, MinorityInterest 태그 없음",22
+Nordson,NDSN,2011Q4,2012-01-31,분기말 지배지분 자본,552160000,USD,공시,https://www.sec.gov/Archives/edgar/data/72331/000119312512097958/,,22
+Nordson,NDSN,2011Q4,2012-01-31,분기말 종가,45.34,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/NDSN?interval=1d&events=splits (2012-01-31),,22
+Nordson,NDSN,2011Q4,2012-01-31,분기말 상장주식수,64701683,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/72331/000119312512097958/,dei:EntityCommonStockSharesOutstanding 클래스 합,22
+Nordson,NDSN,2011Q4,2012-01-31,분기말 시가총액,2933574307,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/NDSN?interval=1d&events=splits (2012-01-31) ; https://www.sec.gov/Archives/edgar/data/72331/000119312512097958/,종가 45.34 × 주식수 64701683,22
+Nordson,NDSN,2012Q1,2012-04-30,분기별 매출액,315193000,USD,공시,https://www.sec.gov/Archives/edgar/data/72331/000119312512259872/,,22
+Nordson,NDSN,2012Q1,2012-04-30,분기별 영업이익,76857000,USD,공시,https://www.sec.gov/Archives/edgar/data/72331/000119312512259872/,,22
+Nordson,NDSN,2012Q1,2012-04-30,분기별 당기순이익(지배),52111000,USD,공시,https://www.sec.gov/Archives/edgar/data/72331/000119312512259872/,,22
+Nordson,NDSN,2012Q1,2012-04-30,분기별 영업활동현금흐름,54659000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/72331/000119312512259872/ ; https://www.sec.gov/Archives/edgar/data/72331/000119312512097958/,누적 98969000 − 직전누적 44310000 (시작 2011-11-01),22
+Nordson,NDSN,2012Q1,2012-04-30,분기말 자산총계,1337217000,USD,공시,https://www.sec.gov/Archives/edgar/data/72331/000119312512259872/,,22
+Nordson,NDSN,2012Q1,2012-04-30,분기말 부채총계,759374000,USD,계산(부채및자본-총자본),https://www.sec.gov/Archives/edgar/data/72331/000119312512259872/,부채및자본 1337217000 − 총자본 577843000,22
+Nordson,NDSN,2012Q1,2012-04-30,분기말 총자본(자기자본),577843000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/72331/000119312512259872/,"StockholdersEquity, MinorityInterest 태그 없음",22
+Nordson,NDSN,2012Q1,2012-04-30,분기말 지배지분 자본,577843000,USD,공시,https://www.sec.gov/Archives/edgar/data/72331/000119312512259872/,,22
+Nordson,NDSN,2012Q1,2012-04-30,분기말 종가,53.9,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/NDSN?interval=1d&events=splits (2012-04-30),,22
+Nordson,NDSN,2012Q1,2012-04-30,분기말 상장주식수,64312607,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/72331/000119312512259872/,dei:EntityCommonStockSharesOutstanding 클래스 합,22
+Nordson,NDSN,2012Q1,2012-04-30,분기말 시가총액,3466449517,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/NDSN?interval=1d&events=splits (2012-04-30) ; https://www.sec.gov/Archives/edgar/data/72331/000119312512259872/,종가 53.9 × 주식수 64312607,22
+Nordson,NDSN,2012Q2,2012-07-31,분기별 매출액,379872000,USD,공시,https://www.sec.gov/Archives/edgar/data/72331/000119312512380965/,,22
+Nordson,NDSN,2012Q2,2012-07-31,분기별 영업이익,98538000,USD,공시,https://www.sec.gov/Archives/edgar/data/72331/000119312512380965/,,22
+Nordson,NDSN,2012Q2,2012-07-31,분기별 당기순이익(지배),66694000,USD,공시,https://www.sec.gov/Archives/edgar/data/72331/000119312512380965/,,22
+Nordson,NDSN,2012Q2,2012-07-31,분기별 영업활동현금흐름,78606000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/72331/000119312512380965/ ; https://www.sec.gov/Archives/edgar/data/72331/000119312512259872/,누적 177575000 − 직전누적 98969000 (시작 2011-11-01),22
+Nordson,NDSN,2012Q2,2012-07-31,분기말 자산총계,1792202000,USD,공시,https://www.sec.gov/Archives/edgar/data/72331/000119312512380965/,,22
+Nordson,NDSN,2012Q2,2012-07-31,분기말 부채총계,1177268000,USD,계산(부채및자본-총자본),https://www.sec.gov/Archives/edgar/data/72331/000119312512380965/,부채및자본 1792202000 − 총자본 614934000,22
+Nordson,NDSN,2012Q2,2012-07-31,분기말 총자본(자기자본),614934000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/72331/000119312512380965/,"StockholdersEquity, MinorityInterest 태그 없음",22
+Nordson,NDSN,2012Q2,2012-07-31,분기말 지배지분 자본,614934000,USD,공시,https://www.sec.gov/Archives/edgar/data/72331/000119312512380965/,,22
+Nordson,NDSN,2012Q2,2012-07-31,분기말 종가,51.26,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/NDSN?interval=1d&events=splits (2012-07-31),,22
+Nordson,NDSN,2012Q2,2012-07-31,분기말 상장주식수,64103778,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/72331/000119312512380965/,dei:EntityCommonStockSharesOutstanding 클래스 합,22
+Nordson,NDSN,2012Q2,2012-07-31,분기말 시가총액,3285959660,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/NDSN?interval=1d&events=splits (2012-07-31) ; https://www.sec.gov/Archives/edgar/data/72331/000119312512380965/,종가 51.26 × 주식수 64103778,22
+Nordson,NDSN,2012Q3,2012-10-31,분기별 매출액,438677000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/72331/000119312512504725/ ; https://www.sec.gov/Archives/edgar/data/72331/000119312512380965/,연간 1409578000 − 9개월누적 970901000 (SalesRevenueNet),22
+Nordson,NDSN,2012Q3,2012-10-31,분기별 영업이익,103598000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/72331/000119312512504725/ ; https://www.sec.gov/Archives/edgar/data/72331/000119312512380965/,연간 335480000 − 9개월누적 231882000 (OperatingIncomeLoss),22
+Nordson,NDSN,2012Q3,2012-10-31,분기별 당기순이익(지배),67686000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/72331/000119312512504725/ ; https://www.sec.gov/Archives/edgar/data/72331/000119312512380965/,연간 224829000 − 9개월누적 157143000 (NetIncomeLoss),22
+Nordson,NDSN,2012Q3,2012-10-31,분기별 영업활동현금흐름,96823000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/72331/000119312512504725/ ; https://www.sec.gov/Archives/edgar/data/72331/000119312512380965/,누적 274398000 − 직전누적 177575000 (시작 2011-11-01),22
+Nordson,NDSN,2012Q3,2012-10-31,분기말 자산총계,1829515000,USD,공시,https://www.sec.gov/Archives/edgar/data/72331/000119312512504725/,,22
+Nordson,NDSN,2012Q3,2012-10-31,분기말 부채총계,1159745000,USD,계산(부채및자본-총자본),https://www.sec.gov/Archives/edgar/data/72331/000119312512504725/,부채및자본 1829515000 − 총자본 669770000,22
+Nordson,NDSN,2012Q3,2012-10-31,분기말 총자본(자기자본),669770000,USD,공시,https://www.sec.gov/Archives/edgar/data/72331/000119312512504725/,,22
+Nordson,NDSN,2012Q3,2012-10-31,분기말 지배지분 자본,669770000,USD,공시,https://www.sec.gov/Archives/edgar/data/72331/000119312512504725/,,22
+Nordson,NDSN,2012Q3,2012-10-31,분기말 종가,59.03,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/NDSN?interval=1d&events=splits (2012-10-31),,22
+Nordson,NDSN,2012Q3,2012-11-30,분기말 상장주식수,64321670,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/72331/000119312512504725/,dei:EntityCommonStockSharesOutstanding 클래스 합,22
+Nordson,NDSN,2012Q3,2012-10-31,분기말 시가총액,3796908180,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/NDSN?interval=1d&events=splits (2012-10-31) ; https://www.sec.gov/Archives/edgar/data/72331/000119312512504725/,종가 59.03 × 주식수 64321670,22
+Nordson,NDSN,2012Q4,2013-01-31,분기별 매출액,347043000,USD,공시,https://www.sec.gov/Archives/edgar/data/72331/000119312513094972/,,22
+Nordson,NDSN,2012Q4,2013-01-31,분기별 영업이익,61564000,USD,공시,https://www.sec.gov/Archives/edgar/data/72331/000119312513094972/,,22
+Nordson,NDSN,2012Q4,2013-01-31,분기별 당기순이익(지배),42011000,USD,공시,https://www.sec.gov/Archives/edgar/data/72331/000119312513094972/,,22
+Nordson,NDSN,2012Q4,2013-01-31,분기별 영업활동현금흐름,39755000,USD,공시,https://www.sec.gov/Archives/edgar/data/72331/000119312513094972/,,22
+Nordson,NDSN,2012Q4,2013-01-31,분기말 자산총계,1817984000,USD,공시,https://www.sec.gov/Archives/edgar/data/72331/000119312513094972/,,22
+Nordson,NDSN,2012Q4,2013-01-31,분기말 부채총계,1103555000,USD,계산(부채및자본-총자본),https://www.sec.gov/Archives/edgar/data/72331/000119312513094972/,부채및자본 1817984000 − 총자본 714429000,22
+Nordson,NDSN,2012Q4,2013-01-31,분기말 총자본(자기자본),714429000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/72331/000119312513094972/,"StockholdersEquity, MinorityInterest 태그 없음",22
+Nordson,NDSN,2012Q4,2013-01-31,분기말 지배지분 자본,714429000,USD,공시,https://www.sec.gov/Archives/edgar/data/72331/000119312513094972/,,22
+Nordson,NDSN,2012Q4,2013-01-31,분기말 종가,67.62,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/NDSN?interval=1d&events=splits (2013-01-31),,22
+Nordson,NDSN,2012Q4,2013-01-31,분기말 상장주식수,64498940,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/72331/000119312513094972/,dei:EntityCommonStockSharesOutstanding 클래스 합,22
+Nordson,NDSN,2012Q4,2013-01-31,분기말 시가총액,4361418323,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/NDSN?interval=1d&events=splits (2013-01-31) ; https://www.sec.gov/Archives/edgar/data/72331/000119312513094972/,종가 67.62 × 주식수 64498940,22
+Nordson,NDSN,2013Q1,2013-04-30,분기별 매출액,382100000,USD,공시,https://www.sec.gov/Archives/edgar/data/72331/000119312513246214/,,22
+Nordson,NDSN,2013Q1,2013-04-30,분기별 영업이익,82202000,USD,공시,https://www.sec.gov/Archives/edgar/data/72331/000119312513246214/,,22
+Nordson,NDSN,2013Q1,2013-04-30,분기별 당기순이익(지배),54605000,USD,공시,https://www.sec.gov/Archives/edgar/data/72331/000119312513246214/,,22
+Nordson,NDSN,2013Q1,2013-04-30,분기별 영업활동현금흐름,62874000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/72331/000119312513246214/ ; https://www.sec.gov/Archives/edgar/data/72331/000119312513094972/,누적 102629000 − 직전누적 39755000 (시작 2012-11-01),22
+Nordson,NDSN,2013Q1,2013-04-30,분기말 자산총계,1857337000,USD,공시,https://www.sec.gov/Archives/edgar/data/72331/000119312513246214/,,22
+Nordson,NDSN,2013Q1,2013-04-30,분기말 부채총계,1121742000,USD,계산(부채및자본-총자본),https://www.sec.gov/Archives/edgar/data/72331/000119312513246214/,부채및자본 1857337000 − 총자본 735595000,22
+Nordson,NDSN,2013Q1,2013-04-30,분기말 총자본(자기자본),735595000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/72331/000119312513246214/,"StockholdersEquity, MinorityInterest 태그 없음",22
+Nordson,NDSN,2013Q1,2013-04-30,분기말 지배지분 자본,735595000,USD,공시,https://www.sec.gov/Archives/edgar/data/72331/000119312513246214/,,22
+Nordson,NDSN,2013Q1,2013-04-30,분기말 종가,69.49,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/NDSN?interval=1d&events=splits (2013-04-30),,22
+Nordson,NDSN,2013Q1,2013-04-30,분기말 상장주식수,64214775,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/72331/000119312513246214/,dei:EntityCommonStockSharesOutstanding 클래스 합,22
+Nordson,NDSN,2013Q1,2013-04-30,분기말 시가총액,4462284715,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/NDSN?interval=1d&events=splits (2013-04-30) ; https://www.sec.gov/Archives/edgar/data/72331/000119312513246214/,종가 69.49 × 주식수 64214775,22
+Nordson,NDSN,2013Q2,2013-07-31,분기별 매출액,402960000,USD,공시,https://www.sec.gov/Archives/edgar/data/72331/000119312513357755/,,22
+Nordson,NDSN,2013Q2,2013-07-31,분기별 영업이익,93216000,USD,공시,https://www.sec.gov/Archives/edgar/data/72331/000119312513357755/,,22
+Nordson,NDSN,2013Q2,2013-07-31,분기별 당기순이익(지배),65424000,USD,공시,https://www.sec.gov/Archives/edgar/data/72331/000119312513357755/,,22
+Nordson,NDSN,2013Q2,2013-07-31,분기별 영업활동현금흐름,91955000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/72331/000119312513357755/ ; https://www.sec.gov/Archives/edgar/data/72331/000119312513246214/,누적 194584000 − 직전누적 102629000 (시작 2012-11-01),22
+Nordson,NDSN,2013Q2,2013-07-31,분기말 자산총계,1854680000,USD,공시,https://www.sec.gov/Archives/edgar/data/72331/000119312513357755/,,22
+Nordson,NDSN,2013Q2,2013-07-31,분기말 부채총계,1065038000,USD,계산(부채및자본-총자본),https://www.sec.gov/Archives/edgar/data/72331/000119312513357755/,부채및자본 1854680000 − 총자본 789642000,22
+Nordson,NDSN,2013Q2,2013-07-31,분기말 총자본(자기자본),789642000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/72331/000119312513357755/,"StockholdersEquity, MinorityInterest 태그 없음",22
+Nordson,NDSN,2013Q2,2013-07-31,분기말 지배지분 자본,789642000,USD,공시,https://www.sec.gov/Archives/edgar/data/72331/000119312513357755/,,22
+Nordson,NDSN,2013Q2,2013-07-31,분기말 종가,72.16,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/NDSN?interval=1d&events=splits (2013-07-31),,22
+Nordson,NDSN,2013Q2,2013-07-31,분기말 상장주식수,64223928,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/72331/000119312513357755/,dei:EntityCommonStockSharesOutstanding 클래스 합,22
+Nordson,NDSN,2013Q2,2013-07-31,분기말 시가총액,4634398644,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/NDSN?interval=1d&events=splits (2013-07-31) ; https://www.sec.gov/Archives/edgar/data/72331/000119312513357755/,종가 72.16 × 주식수 64223928,22
+Nordson,NDSN,2013Q3,2013-10-31,분기별 매출액,410818000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/72331/000119312513474384/ ; https://www.sec.gov/Archives/edgar/data/72331/000119312513357755/,연간 1542921000 − 9개월누적 1132103000 (SalesRevenueNet),22
+Nordson,NDSN,2013Q3,2013-10-31,분기별 영업이익,86867000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/72331/000119312513474384/ ; https://www.sec.gov/Archives/edgar/data/72331/000119312513357755/,연간 323849000 − 9개월누적 236982000 (OperatingIncomeLoss),22
+Nordson,NDSN,2013Q3,2013-10-31,분기별 당기순이익(지배),59777000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/72331/000119312513474384/ ; https://www.sec.gov/Archives/edgar/data/72331/000119312513357755/,연간 221817000 − 9개월누적 162040000 (NetIncomeLoss),22
+Nordson,NDSN,2013Q3,2013-10-31,분기별 영업활동현금흐름,73792000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/72331/000119312513474384/ ; https://www.sec.gov/Archives/edgar/data/72331/000119312513357755/,누적 268376000 − 직전누적 194584000 (시작 2012-11-01),22
+Nordson,NDSN,2013Q3,2013-10-31,분기말 자산총계,2053179000,USD,공시(재작성 반영),https://www.sec.gov/Archives/edgar/data/72331/000156459015011507/,원 공시 2042289000 (https://www.sec.gov/Archives/edgar/data/72331/000119312513474384/),22
+Nordson,NDSN,2013Q3,2013-10-31,분기말 부채총계,1165316000,USD,계산(부채및자본-총자본)(재작성 반영),https://www.sec.gov/Archives/edgar/data/72331/000119312514442368/,부채및자본 2053179000 − 총자본 887863000 ; 원 공시 1154426000 (https://www.sec.gov/Archives/edgar/data/72331/000119312513474384/),22
+Nordson,NDSN,2013Q3,2013-10-31,분기말 총자본(자기자본),887863000,USD,공시,https://www.sec.gov/Archives/edgar/data/72331/000119312513474384/,,22
+Nordson,NDSN,2013Q3,2013-10-31,분기말 지배지분 자본,887863000,USD,공시,https://www.sec.gov/Archives/edgar/data/72331/000119312513474384/,,22
+Nordson,NDSN,2013Q3,2013-10-31,분기말 종가,72.09,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/NDSN?interval=1d&events=splits (2013-10-31),,22
+Nordson,NDSN,2013Q3,2013-11-29,분기말 상장주식수,64256419,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/72331/000119312513474384/,dei:EntityCommonStockSharesOutstanding 클래스 합,22
+Nordson,NDSN,2013Q3,2013-10-31,분기말 시가총액,4632245246,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/NDSN?interval=1d&events=splits (2013-10-31) ; https://www.sec.gov/Archives/edgar/data/72331/000119312513474384/,종가 72.09 × 주식수 64256419,22
+Nordson,NDSN,2013Q4,2014-01-31,분기별 매출액,359420000,USD,공시,https://www.sec.gov/Archives/edgar/data/72331/000119312514088017/,,22
+Nordson,NDSN,2013Q4,2014-01-31,분기별 영업이익,53859000,USD,공시,https://www.sec.gov/Archives/edgar/data/72331/000119312514088017/,,22
+Nordson,NDSN,2013Q4,2014-01-31,분기별 당기순이익(지배),34880000,USD,공시,https://www.sec.gov/Archives/edgar/data/72331/000119312514088017/,,22
+Nordson,NDSN,2013Q4,2014-01-31,분기별 영업활동현금흐름,47687000,USD,공시,https://www.sec.gov/Archives/edgar/data/72331/000119312514088017/,,22
+Nordson,NDSN,2013Q4,2014-01-31,분기말 자산총계,2018322000,USD,공시,https://www.sec.gov/Archives/edgar/data/72331/000119312514088017/,,22
+Nordson,NDSN,2013Q4,2014-01-31,분기말 부채총계,1106647000,USD,계산(부채및자본-총자본),https://www.sec.gov/Archives/edgar/data/72331/000119312514088017/,부채및자본 2018322000 − 총자본 911675000,22
+Nordson,NDSN,2013Q4,2014-01-31,분기말 총자본(자기자본),911675000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/72331/000119312514088017/,"StockholdersEquity, MinorityInterest 태그 없음",22
+Nordson,NDSN,2013Q4,2014-01-31,분기말 지배지분 자본,911675000,USD,공시,https://www.sec.gov/Archives/edgar/data/72331/000119312514088017/,,22
+Nordson,NDSN,2013Q4,2014-01-31,분기말 종가,69.32,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/NDSN?interval=1d&events=splits (2014-01-31),,22
+Nordson,NDSN,2013Q4,2014-01-31,분기말 상장주식수,64351111,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/72331/000119312514088017/,dei:EntityCommonStockSharesOutstanding 클래스 합,22
+Nordson,NDSN,2013Q4,2014-01-31,분기말 시가총액,4460819015,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/NDSN?interval=1d&events=splits (2014-01-31) ; https://www.sec.gov/Archives/edgar/data/72331/000119312514088017/,종가 69.32 × 주식수 64351111,22
+Nordson,NDSN,2014Q1,2014-04-30,분기별 매출액,417461000,USD,공시,https://www.sec.gov/Archives/edgar/data/72331/000119312514224849/,,22
+Nordson,NDSN,2014Q1,2014-04-30,분기별 영업이익,92834000,USD,공시,https://www.sec.gov/Archives/edgar/data/72331/000119312514224849/,,22
+Nordson,NDSN,2014Q1,2014-04-30,분기별 당기순이익(지배),61934000,USD,공시,https://www.sec.gov/Archives/edgar/data/72331/000119312514224849/,,22
+Nordson,NDSN,2014Q1,2014-04-30,분기별 영업활동현금흐름,54502000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/72331/000119312514224849/ ; https://www.sec.gov/Archives/edgar/data/72331/000119312514088017/,누적 102189000 − 직전누적 47687000 (시작 2013-11-01),22
+Nordson,NDSN,2014Q1,2014-04-30,분기말 자산총계,2079058000,USD,공시,https://www.sec.gov/Archives/edgar/data/72331/000119312514224849/,,22
+Nordson,NDSN,2014Q1,2014-04-30,분기말 부채총계,1155835000,USD,계산(부채및자본-총자본),https://www.sec.gov/Archives/edgar/data/72331/000119312514224849/,부채및자본 2079058000 − 총자본 923223000,22
+Nordson,NDSN,2014Q1,2014-04-30,분기말 총자본(자기자본),923223000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/72331/000119312514224849/,"StockholdersEquity, MinorityInterest 태그 없음",22
+Nordson,NDSN,2014Q1,2014-04-30,분기말 지배지분 자본,923223000,USD,공시,https://www.sec.gov/Archives/edgar/data/72331/000119312514224849/,,22
+Nordson,NDSN,2014Q1,2014-04-30,분기말 종가,74.35,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/NDSN?interval=1d&events=splits (2014-04-30),,22
+Nordson,NDSN,2014Q1,2014-04-30,분기말 상장주식수,63664407,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/72331/000119312514224849/,dei:EntityCommonStockSharesOutstanding 클래스 합,22
+Nordson,NDSN,2014Q1,2014-04-30,분기말 시가총액,4733448660,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/NDSN?interval=1d&events=splits (2014-04-30) ; https://www.sec.gov/Archives/edgar/data/72331/000119312514224849/,종가 74.35 × 주식수 63664407,22
+Nordson,NDSN,2014Q2,2014-07-31,분기별 매출액,458550000,USD,공시,https://www.sec.gov/Archives/edgar/data/72331/000119312514331480/,,22
+Nordson,NDSN,2014Q2,2014-07-31,분기별 영업이익,114455000,USD,공시,https://www.sec.gov/Archives/edgar/data/72331/000119312514331480/,,22
+Nordson,NDSN,2014Q2,2014-07-31,분기별 당기순이익(지배),77879000,USD,공시,https://www.sec.gov/Archives/edgar/data/72331/000119312514331480/,,22
+Nordson,NDSN,2014Q2,2014-07-31,분기별 영업활동현금흐름,80769000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/72331/000119312514331480/ ; https://www.sec.gov/Archives/edgar/data/72331/000119312514224849/,누적 182958000 − 직전누적 102189000 (시작 2013-11-01),22
+Nordson,NDSN,2014Q2,2014-07-31,분기말 자산총계,2109445000,USD,공시,https://www.sec.gov/Archives/edgar/data/72331/000119312514331480/,,22
+Nordson,NDSN,2014Q2,2014-07-31,분기말 부채총계,1150670000,USD,계산(부채및자본-총자본),https://www.sec.gov/Archives/edgar/data/72331/000119312514331480/,부채및자본 2109445000 − 총자본 958775000,22
+Nordson,NDSN,2014Q2,2014-07-31,분기말 총자본(자기자본),958775000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/72331/000119312514331480/,"StockholdersEquity, MinorityInterest 태그 없음",22
+Nordson,NDSN,2014Q2,2014-07-31,분기말 지배지분 자본,958775000,USD,공시,https://www.sec.gov/Archives/edgar/data/72331/000119312514331480/,,22
+Nordson,NDSN,2014Q2,2014-07-31,분기말 종가,75.17,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/NDSN?interval=1d&events=splits (2014-07-31),,22
+Nordson,NDSN,2014Q2,2014-08-26,분기말 상장주식수,63096577,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/72331/000119312514331480/,dei:EntityCommonStockSharesOutstanding 클래스 합,22
+Nordson,NDSN,2014Q2,2014-07-31,분기말 시가총액,4742969693,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/NDSN?interval=1d&events=splits (2014-07-31) ; https://www.sec.gov/Archives/edgar/data/72331/000119312514331480/,종가 75.17 × 주식수 63096577,22
+Nordson,NDSN,2014Q3,2014-10-31,분기별 매출액,468590000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/72331/000119312514442368/ ; https://www.sec.gov/Archives/edgar/data/72331/000119312514331480/,연간 1704021000 − 9개월누적 1235431000 (SalesRevenueNet),22
+Nordson,NDSN,2014Q3,2014-10-31,분기별 영업이익,105957000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/72331/000119312514442368/ ; https://www.sec.gov/Archives/edgar/data/72331/000119312514331480/,연간 367105000 − 9개월누적 261148000 (OperatingIncomeLoss),22
+Nordson,NDSN,2014Q3,2014-10-31,분기별 당기순이익(지배),72080000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/72331/000119312514442368/ ; https://www.sec.gov/Archives/edgar/data/72331/000119312514331480/,연간 246773000 − 9개월누적 174693000 (NetIncomeLoss),22
+Nordson,NDSN,2014Q3,2014-10-31,분기별 영업활동현금흐름,105197000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/72331/000119312514442368/ ; https://www.sec.gov/Archives/edgar/data/72331/000119312514331480/,누적 288155000 − 직전누적 182958000 (시작 2013-11-01),22
+Nordson,NDSN,2014Q3,2014-10-31,분기말 자산총계,2280130000,USD,공시,https://www.sec.gov/Archives/edgar/data/72331/000119312514442368/,,22
+Nordson,NDSN,2014Q3,2014-10-31,분기말 부채총계,1375333000,USD,계산(부채및자본-총자본),https://www.sec.gov/Archives/edgar/data/72331/000119312514442368/,부채및자본 2280130000 − 총자본 904797000,22
+Nordson,NDSN,2014Q3,2014-10-31,분기말 총자본(자기자본),904797000,USD,공시,https://www.sec.gov/Archives/edgar/data/72331/000119312514442368/,,22
+Nordson,NDSN,2014Q3,2014-10-31,분기말 지배지분 자본,904797000,USD,공시,https://www.sec.gov/Archives/edgar/data/72331/000119312514442368/,,22
+Nordson,NDSN,2014Q3,2014-10-31,분기말 종가,76.55,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/NDSN?interval=1d&events=splits (2014-10-31),,22
+Nordson,NDSN,2014Q3,2014-11-28,분기말 상장주식수,62211946,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/72331/000119312514442368/,dei:EntityCommonStockSharesOutstanding 클래스 합,22
+Nordson,NDSN,2014Q3,2014-10-31,분기말 시가총액,4762324466,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/NDSN?interval=1d&events=splits (2014-10-31) ; https://www.sec.gov/Archives/edgar/data/72331/000119312514442368/,종가 76.55 × 주식수 62211946,22
+Nordson,NDSN,2014Q4,2015-01-31,분기별 매출액,379008000,USD,공시,https://www.sec.gov/Archives/edgar/data/72331/000156459015001363/,,22
+Nordson,NDSN,2014Q4,2015-01-31,분기별 영업이익,62818000,USD,공시,https://www.sec.gov/Archives/edgar/data/72331/000156459015001363/,,22
+Nordson,NDSN,2014Q4,2015-01-31,분기별 당기순이익(지배),42885000,USD,공시,https://www.sec.gov/Archives/edgar/data/72331/000156459015001363/,,22
+Nordson,NDSN,2014Q4,2015-01-31,분기별 영업활동현금흐름,25912000,USD,공시,https://www.sec.gov/Archives/edgar/data/72331/000156459015001363/,,22
+Nordson,NDSN,2014Q4,2015-01-31,분기말 자산총계,2241701000,USD,공시,https://www.sec.gov/Archives/edgar/data/72331/000156459015001363/,,22
+Nordson,NDSN,2014Q4,2015-01-31,분기말 부채총계,1403800000,USD,계산(부채및자본-총자본),https://www.sec.gov/Archives/edgar/data/72331/000156459015001363/,부채및자본 2241701000 − 총자본 837901000,22
+Nordson,NDSN,2014Q4,2015-01-31,분기말 총자본(자기자본),837901000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/72331/000156459015001363/,"StockholdersEquity, MinorityInterest 태그 없음",22
+Nordson,NDSN,2014Q4,2015-01-31,분기말 지배지분 자본,837901000,USD,공시,https://www.sec.gov/Archives/edgar/data/72331/000156459015001363/,,22
+Nordson,NDSN,2014Q4,2015-01-30,분기말 종가,72.86,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/NDSN?interval=1d&events=splits (2015-01-30),,22
+Nordson,NDSN,2014Q4,2015-01-31,분기말 상장주식수,61584432,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/72331/000156459015001363/,dei:EntityCommonStockSharesOutstanding 클래스 합,22
+Nordson,NDSN,2014Q4,2015-01-30,분기말 시가총액,4487041716,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/NDSN?interval=1d&events=splits (2015-01-30) ; https://www.sec.gov/Archives/edgar/data/72331/000156459015001363/,종가 72.86 × 주식수 61584432,22
+Nordson,NDSN,2015Q1,2015-04-30,분기별 매출액,400727000,USD,공시,https://www.sec.gov/Archives/edgar/data/72331/000156459015004835/,,22
+Nordson,NDSN,2015Q1,2015-04-30,분기별 영업이익,76414000,USD,공시,https://www.sec.gov/Archives/edgar/data/72331/000156459015004835/,,22
+Nordson,NDSN,2015Q1,2015-04-30,분기별 당기순이익(지배),49214000,USD,공시,https://www.sec.gov/Archives/edgar/data/72331/000156459015004835/,,22
+Nordson,NDSN,2015Q1,2015-04-30,분기별 영업활동현금흐름,91524000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/72331/000156459015004835/ ; https://www.sec.gov/Archives/edgar/data/72331/000156459015001363/,누적 117436000 − 직전누적 25912000 (시작 2014-11-01),22
+Nordson,NDSN,2015Q1,2015-04-30,분기말 자산총계,2250237000,USD,공시,https://www.sec.gov/Archives/edgar/data/72331/000156459015004835/,,22
+Nordson,NDSN,2015Q1,2015-04-30,분기말 부채총계,1432007000,USD,계산(부채및자본-총자본),https://www.sec.gov/Archives/edgar/data/72331/000156459015004835/,부채및자본 2250237000 − 총자본 818230000,22
+Nordson,NDSN,2015Q1,2015-04-30,분기말 총자본(자기자본),818230000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/72331/000156459015004835/,"StockholdersEquity, MinorityInterest 태그 없음",22
+Nordson,NDSN,2015Q1,2015-04-30,분기말 지배지분 자본,818230000,USD,공시,https://www.sec.gov/Archives/edgar/data/72331/000156459015004835/,,22
+Nordson,NDSN,2015Q1,2015-04-30,분기말 종가,79.65,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/NDSN?interval=1d&events=splits (2015-04-30),,22
+Nordson,NDSN,2015Q1,2015-04-30,분기말 상장주식수,60832553,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/72331/000156459015004835/,dei:EntityCommonStockSharesOutstanding 클래스 합,22
+Nordson,NDSN,2015Q1,2015-04-30,분기말 시가총액,4845312846,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/NDSN?interval=1d&events=splits (2015-04-30) ; https://www.sec.gov/Archives/edgar/data/72331/000156459015004835/,종가 79.65 × 주식수 60832553,22
+Nordson,NDSN,2015Q2,2015-07-31,분기별 매출액,462731000,USD,공시,https://www.sec.gov/Archives/edgar/data/72331/000156459015007736/,,22
+Nordson,NDSN,2015Q2,2015-07-31,분기별 영업이익,102850000,USD,공시,https://www.sec.gov/Archives/edgar/data/72331/000156459015007736/,,22
+Nordson,NDSN,2015Q2,2015-07-31,분기별 당기순이익(지배),69388000,USD,공시,https://www.sec.gov/Archives/edgar/data/72331/000156459015007736/,,22
+Nordson,NDSN,2015Q2,2015-07-31,분기별 영업활동현금흐름,49858000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/72331/000156459015007736/ ; https://www.sec.gov/Archives/edgar/data/72331/000156459015004835/,누적 167294000 − 직전누적 117436000 (시작 2014-11-01),22
+Nordson,NDSN,2015Q2,2015-07-31,분기말 자산총계,2316357000,USD,공시,https://www.sec.gov/Archives/edgar/data/72331/000156459015007736/,,22
+Nordson,NDSN,2015Q2,2015-07-31,분기말 부채총계,1495932000,USD,계산(부채및자본-총자본),https://www.sec.gov/Archives/edgar/data/72331/000156459015007736/,부채및자본 2316357000 − 총자본 820425000,22
+Nordson,NDSN,2015Q2,2015-07-31,분기말 총자본(자기자본),820425000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/72331/000156459015007736/,"StockholdersEquity, MinorityInterest 태그 없음",22
+Nordson,NDSN,2015Q2,2015-07-31,분기말 지배지분 자본,820425000,USD,공시,https://www.sec.gov/Archives/edgar/data/72331/000156459015007736/,,22
+Nordson,NDSN,2015Q2,2015-07-31,분기말 종가,74.11,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/NDSN?interval=1d&events=splits (2015-07-31),,22
+Nordson,NDSN,2015Q2,2015-07-31,분기말 상장주식수,60262795,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/72331/000156459015007736/,dei:EntityCommonStockSharesOutstanding 클래스 합,22
+Nordson,NDSN,2015Q2,2015-07-31,분기말 시가총액,4466075737,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/NDSN?interval=1d&events=splits (2015-07-31) ; https://www.sec.gov/Archives/edgar/data/72331/000156459015007736/,종가 74.11 × 주식수 60262795,22
+Nordson,NDSN,2015Q3,2015-10-31,분기별 매출액,446200000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/72331/000156459015011507/ ; https://www.sec.gov/Archives/edgar/data/72331/000156459015007736/,연간 1688666000 − 9개월누적 1242466000 (SalesRevenueNet),22
+Nordson,NDSN,2015Q3,2015-10-31,분기별 영업이익,75648000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/72331/000156459015011507/ ; https://www.sec.gov/Archives/edgar/data/72331/000156459015007736/,연간 317730000 − 9개월누적 242082000 (OperatingIncomeLoss),22
+Nordson,NDSN,2015Q3,2015-10-31,분기별 당기순이익(지배),49624000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/72331/000156459015011507/ ; https://www.sec.gov/Archives/edgar/data/72331/000156459015007736/,연간 211111000 − 9개월누적 161487000 (NetIncomeLoss),22
+Nordson,NDSN,2015Q3,2015-10-31,분기별 영업활동현금흐름,94657000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/72331/000156459015011507/ ; https://www.sec.gov/Archives/edgar/data/72331/000156459015007736/,누적 261951000 − 직전누적 167294000 (시작 2014-11-01),22
+Nordson,NDSN,2015Q3,2015-10-31,분기말 자산총계,2360444000,USD,공시,https://www.sec.gov/Archives/edgar/data/72331/000156459015011507/,,22
+Nordson,NDSN,2015Q3,2015-10-31,분기말 부채총계,1700428000,USD,계산(부채및자본-총자본),https://www.sec.gov/Archives/edgar/data/72331/000156459015011507/,부채및자본 2360444000 − 총자본 660016000,22
+Nordson,NDSN,2015Q3,2015-10-31,분기말 총자본(자기자본),660016000,USD,공시,https://www.sec.gov/Archives/edgar/data/72331/000156459015011507/,,22
+Nordson,NDSN,2015Q3,2015-10-31,분기말 지배지분 자본,660016000,USD,공시,https://www.sec.gov/Archives/edgar/data/72331/000156459015011507/,,22
+Nordson,NDSN,2015Q3,2015-10-30,분기말 종가,71.24,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/NDSN?interval=1d&events=splits (2015-10-30),,22
+Nordson,NDSN,2015Q3,2015-11-30,분기말 상장주식수,57085557,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/72331/000156459015011507/,dei:EntityCommonStockSharesOutstanding 클래스 합,22
+Nordson,NDSN,2015Q3,2015-10-30,분기말 시가총액,4066775081,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/NDSN?interval=1d&events=splits (2015-10-30) ; https://www.sec.gov/Archives/edgar/data/72331/000156459015011507/,종가 71.24 × 주식수 57085557,22
+Nordson,NDSN,2015Q4,2016-01-31,분기별 매출액,372220000,USD,공시,https://www.sec.gov/Archives/edgar/data/72331/000156459016014089/,,22
+Nordson,NDSN,2015Q4,2016-01-31,분기별 영업이익,51978000,USD,공시,https://www.sec.gov/Archives/edgar/data/72331/000156459016014089/,,22
+Nordson,NDSN,2015Q4,2016-01-31,분기별 당기순이익(지배),41161000,USD,공시,https://www.sec.gov/Archives/edgar/data/72331/000156459016014089/,,22
+Nordson,NDSN,2015Q4,2016-01-31,분기별 영업활동현금흐름,48537000,USD,공시,https://www.sec.gov/Archives/edgar/data/72331/000156459016014089/,,22
+Nordson,NDSN,2015Q4,2016-01-31,분기말 자산총계,2317240000,USD,공시,https://www.sec.gov/Archives/edgar/data/72331/000156459016014089/,,22
+Nordson,NDSN,2015Q4,2016-01-31,분기말 부채총계,1667130000,USD,계산(부채및자본-총자본),https://www.sec.gov/Archives/edgar/data/72331/000156459016014089/,부채및자본 2317240000 − 총자본 650110000,22
+Nordson,NDSN,2015Q4,2016-01-31,분기말 총자본(자기자본),650110000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/72331/000156459016014089/,"StockholdersEquity, MinorityInterest 태그 없음",22
+Nordson,NDSN,2015Q4,2016-01-31,분기말 지배지분 자본,650110000,USD,공시,https://www.sec.gov/Archives/edgar/data/72331/000156459016014089/,,22
+Nordson,NDSN,2015Q4,2016-01-29,분기말 종가,60.43,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/NDSN?interval=1d&events=splits (2016-01-29),,22
+Nordson,NDSN,2015Q4,2016-01-31,분기말 상장주식수,56990042,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/72331/000156459016014089/,dei:EntityCommonStockSharesOutstanding 클래스 합,22
+Nordson,NDSN,2015Q4,2016-01-29,분기말 시가총액,3443908238,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/NDSN?interval=1d&events=splits (2016-01-29) ; https://www.sec.gov/Archives/edgar/data/72331/000156459016014089/,종가 60.43 × 주식수 56990042,22
+Nordson,NDSN,2016Q1,2016-04-30,분기별 매출액,437592000,USD,공시,https://www.sec.gov/Archives/edgar/data/72331/000156459016020351/,,22
+Nordson,NDSN,2016Q1,2016-04-30,분기별 영업이익,101904000,USD,공시,https://www.sec.gov/Archives/edgar/data/72331/000156459016020351/,,22
+Nordson,NDSN,2016Q1,2016-04-30,분기별 당기순이익(지배),70601000,USD,공시,https://www.sec.gov/Archives/edgar/data/72331/000156459016020351/,,22
+Nordson,NDSN,2016Q1,2016-04-30,분기별 영업활동현금흐름,78351000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/72331/000156459016020351/ ; https://www.sec.gov/Archives/edgar/data/72331/000156459016014089/,누적 126888000 − 직전누적 48537000 (시작 2015-11-01),22
+Nordson,NDSN,2016Q1,2016-04-30,분기말 자산총계,2372184000,USD,공시,https://www.sec.gov/Archives/edgar/data/72331/000156459016020351/,,22
+Nordson,NDSN,2016Q1,2016-04-30,분기말 부채총계,1635486000,USD,계산(부채및자본-총자본),https://www.sec.gov/Archives/edgar/data/72331/000156459016020351/,부채및자본 2372184000 − 총자본 736698000,22
+Nordson,NDSN,2016Q1,2016-04-30,분기말 총자본(자기자본),736698000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/72331/000156459016020351/,"StockholdersEquity, MinorityInterest 태그 없음",22
+Nordson,NDSN,2016Q1,2016-04-30,분기말 지배지분 자본,736698000,USD,공시,https://www.sec.gov/Archives/edgar/data/72331/000156459016020351/,,22
+Nordson,NDSN,2016Q1,2016-04-29,분기말 종가,76.73,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/NDSN?interval=1d&events=splits (2016-04-29),,22
+Nordson,NDSN,2016Q1,2016-04-30,분기말 상장주식수,57050915,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/72331/000156459016020351/,dei:EntityCommonStockSharesOutstanding 클래스 합,22
+Nordson,NDSN,2016Q1,2016-04-29,분기말 시가총액,4377516708,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/NDSN?interval=1d&events=splits (2016-04-29) ; https://www.sec.gov/Archives/edgar/data/72331/000156459016020351/,종가 76.73 × 주식수 57050915,22
+Nordson,NDSN,2016Q2,2016-07-31,분기별 매출액,489899000,USD,공시,https://www.sec.gov/Archives/edgar/data/72331/000156459016024928/,,22
+Nordson,NDSN,2016Q2,2016-07-31,분기별 영업이익,123686000,USD,공시,https://www.sec.gov/Archives/edgar/data/72331/000156459016024928/,,22
+Nordson,NDSN,2016Q2,2016-07-31,분기별 당기순이익(지배),84214000,USD,공시,https://www.sec.gov/Archives/edgar/data/72331/000156459016024928/,,22
+Nordson,NDSN,2016Q2,2016-07-31,분기별 영업활동현금흐름,67846000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/72331/000156459016024928/ ; https://www.sec.gov/Archives/edgar/data/72331/000156459016020351/,누적 194734000 − 직전누적 126888000 (시작 2015-11-01),22
+Nordson,NDSN,2016Q2,2016-07-31,분기말 자산총계,2409525000,USD,공시,https://www.sec.gov/Archives/edgar/data/72331/000156459016024928/,,22
+Nordson,NDSN,2016Q2,2016-07-31,분기말 부채총계,1597718000,USD,계산(부채및자본-총자본),https://www.sec.gov/Archives/edgar/data/72331/000156459016024928/,부채및자본 2409525000 − 총자본 811807000,22
+Nordson,NDSN,2016Q2,2016-07-31,분기말 총자본(자기자본),811807000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/72331/000156459016024928/,"StockholdersEquity, MinorityInterest 태그 없음",22
+Nordson,NDSN,2016Q2,2016-07-31,분기말 지배지분 자본,811807000,USD,공시,https://www.sec.gov/Archives/edgar/data/72331/000156459016024928/,,22
+Nordson,NDSN,2016Q2,2016-07-29,분기말 종가,88.29,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/NDSN?interval=1d&events=splits (2016-07-29),,22
+Nordson,NDSN,2016Q2,2016-07-31,분기말 상장주식수,57192068,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/72331/000156459016024928/,dei:EntityCommonStockSharesOutstanding 클래스 합,22
+Nordson,NDSN,2016Q2,2016-07-29,분기말 시가총액,5049487684,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/NDSN?interval=1d&events=splits (2016-07-29) ; https://www.sec.gov/Archives/edgar/data/72331/000156459016024928/,종가 88.29 × 주식수 57192068,22
+Nordson,NDSN,2016Q3,2016-10-31,분기별 매출액,509283000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/72331/000156459016030237/ ; https://www.sec.gov/Archives/edgar/data/72331/000156459016024928/,연간 1808994000 − 9개월누적 1299711000 (SalesRevenueNet),22
+Nordson,NDSN,2016Q3,2016-10-31,분기별 영업이익,110863000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/72331/000156459016030237/ ; https://www.sec.gov/Archives/edgar/data/72331/000156459016024928/,연간 388431000 − 9개월누적 277568000 (OperatingIncomeLoss),22
+Nordson,NDSN,2016Q3,2016-10-31,분기별 당기순이익(지배),75867000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/72331/000156459016030237/ ; https://www.sec.gov/Archives/edgar/data/72331/000156459016024928/,연간 271843000 − 9개월누적 195976000 (NetIncomeLoss),22
+Nordson,NDSN,2016Q3,2016-10-31,분기별 영업활동현금흐름,136424000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/72331/000156459016030237/ ; https://www.sec.gov/Archives/edgar/data/72331/000156459016024928/,누적 331158000 − 직전누적 194734000 (시작 2015-11-01),22
+Nordson,NDSN,2016Q3,2016-10-31,분기말 자산총계,2420583000,USD,공시(재작성 반영),https://www.sec.gov/Archives/edgar/data/72331/000156459018030928/,원 공시 2422365000 (https://www.sec.gov/Archives/edgar/data/72331/000156459016030237/),22
+Nordson,NDSN,2016Q3,2016-10-31,분기말 부채총계,1568980000,USD,계산(부채및자본-총자본)(재작성 반영),https://www.sec.gov/Archives/edgar/data/72331/000156459017024983/,부채및자본 2420583000 − 총자본 851603000 ; 원 공시 1570762000 (https://www.sec.gov/Archives/edgar/data/72331/000156459016030237/),22
+Nordson,NDSN,2016Q3,2016-10-31,분기말 총자본(자기자본),851603000,USD,공시,https://www.sec.gov/Archives/edgar/data/72331/000156459016030237/,,22
+Nordson,NDSN,2016Q3,2016-10-31,분기말 지배지분 자본,851603000,USD,공시,https://www.sec.gov/Archives/edgar/data/72331/000156459016030237/,,22
+Nordson,NDSN,2016Q3,2016-10-31,분기말 종가,100.13,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/NDSN?interval=1d&events=splits (2016-10-31),,22
+Nordson,NDSN,2016Q3,2016-11-30,분기말 상장주식수,57348873,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/72331/000156459016030237/,dei:EntityCommonStockSharesOutstanding 클래스 합,22
+Nordson,NDSN,2016Q3,2016-10-31,분기말 시가총액,5742342653,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/NDSN?interval=1d&events=splits (2016-10-31) ; https://www.sec.gov/Archives/edgar/data/72331/000156459016030237/,종가 100.13 × 주식수 57348873,22
+Nordson,NDSN,2016Q4,2017-01-31,분기별 매출액,407470000,USD,공시,https://www.sec.gov/Archives/edgar/data/72331/000156459017003417/,,22
+Nordson,NDSN,2016Q4,2017-01-31,분기별 영업이익,75918000,USD,공시,https://www.sec.gov/Archives/edgar/data/72331/000156459017003417/,,22
+Nordson,NDSN,2016Q4,2017-01-31,분기별 당기순이익(지배),49988000,USD,공시,https://www.sec.gov/Archives/edgar/data/72331/000156459017003417/,,22
+Nordson,NDSN,2016Q4,2017-01-31,분기별 영업활동현금흐름,81151000,USD,공시(재작성 반영),https://www.sec.gov/Archives/edgar/data/72331/000156459018004341/,원 공시 78007000 (https://www.sec.gov/Archives/edgar/data/72331/000156459017003417/),22
+Nordson,NDSN,2016Q4,2017-01-31,분기말 자산총계,2393022000,USD,공시,https://www.sec.gov/Archives/edgar/data/72331/000156459017003417/,,22
+Nordson,NDSN,2016Q4,2017-01-31,분기말 부채총계,1499178000,USD,계산(부채및자본-총자본),https://www.sec.gov/Archives/edgar/data/72331/000156459017003417/,부채및자본 2393022000 − 총자본 893844000,22
+Nordson,NDSN,2016Q4,2017-01-31,분기말 총자본(자기자본),893844000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/72331/000156459017003417/,"StockholdersEquity, MinorityInterest 태그 없음",22
+Nordson,NDSN,2016Q4,2017-01-31,분기말 지배지분 자본,893844000,USD,공시,https://www.sec.gov/Archives/edgar/data/72331/000156459017003417/,,22
+Nordson,NDSN,2016Q4,2017-01-31,분기말 종가,113.53,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/NDSN?interval=1d&events=splits (2017-01-31),,22
+Nordson,NDSN,2016Q4,2017-01-31,분기말 상장주식수,57545291,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/72331/000156459017003417/,dei:EntityCommonStockSharesOutstanding 클래스 합,22
+Nordson,NDSN,2016Q4,2017-01-31,분기말 시가총액,6533116887,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/NDSN?interval=1d&events=splits (2017-01-31) ; https://www.sec.gov/Archives/edgar/data/72331/000156459017003417/,종가 113.53 × 주식수 57545291,22
+Nordson,NDSN,2017Q1,2017-04-30,분기별 매출액,496137000,USD,공시,https://www.sec.gov/Archives/edgar/data/72331/000156459017012377/,,22
+Nordson,NDSN,2017Q1,2017-04-30,분기별 영업이익,103531000,USD,공시,https://www.sec.gov/Archives/edgar/data/72331/000156459017012377/,,22
+Nordson,NDSN,2017Q1,2017-04-30,분기별 당기순이익(지배),64523000,USD,공시,https://www.sec.gov/Archives/edgar/data/72331/000156459017012377/,,22
+Nordson,NDSN,2017Q1,2017-04-30,분기별 영업활동현금흐름,63121000,USD,계산(누적차감)(재작성 반영),https://www.sec.gov/Archives/edgar/data/72331/000156459018014988/ ; https://www.sec.gov/Archives/edgar/data/72331/000156459018004341/,누적 144272000 − 직전누적 81151000 (시작 2016-11-01) ; 원 공시 61357000 (https://www.sec.gov/Archives/edgar/data/72331/000156459017012377/ ; https://www.sec.gov/Archives/edgar/data/72331/000156459017003417/),22
+Nordson,NDSN,2017Q1,2017-04-30,분기말 자산총계,3379245000,USD,공시,https://www.sec.gov/Archives/edgar/data/72331/000156459017012377/,,22
+Nordson,NDSN,2017Q1,2017-04-30,분기말 부채총계,2416976000,USD,계산(부채및자본-총자본),https://www.sec.gov/Archives/edgar/data/72331/000156459017012377/,부채및자본 3379245000 − 총자본 962269000,22
+Nordson,NDSN,2017Q1,2017-04-30,분기말 총자본(자기자본),962269000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/72331/000156459017012377/,"StockholdersEquity, MinorityInterest 태그 없음",22
+Nordson,NDSN,2017Q1,2017-04-30,분기말 지배지분 자본,962269000,USD,공시,https://www.sec.gov/Archives/edgar/data/72331/000156459017012377/,,22
+Nordson,NDSN,2017Q1,2017-04-28,분기말 종가,125.2,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/NDSN?interval=1d&events=splits (2017-04-28),,22
+Nordson,NDSN,2017Q1,2017-04-30,분기말 상장주식수,57635656,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/72331/000156459017012377/,dei:EntityCommonStockSharesOutstanding 클래스 합,22
+Nordson,NDSN,2017Q1,2017-04-28,분기말 시가총액,7215984131,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/NDSN?interval=1d&events=splits (2017-04-28) ; https://www.sec.gov/Archives/edgar/data/72331/000156459017012377/,종가 125.2 × 주식수 57635656,22
+Nordson,NDSN,2017Q2,2017-07-31,분기별 매출액,589438000,USD,공시,https://www.sec.gov/Archives/edgar/data/72331/000156459017018258/,,22
+Nordson,NDSN,2017Q2,2017-07-31,분기별 영업이익,153466000,USD,공시,https://www.sec.gov/Archives/edgar/data/72331/000156459017018258/,,22
+Nordson,NDSN,2017Q2,2017-07-31,분기별 당기순이익(지배),101456000,USD,공시,https://www.sec.gov/Archives/edgar/data/72331/000156459017018258/,,22
+Nordson,NDSN,2017Q2,2017-07-31,분기별 영업활동현금흐름,71919000,USD,계산(누적차감)(재작성 반영),https://www.sec.gov/Archives/edgar/data/72331/000156459017018258/ ; https://www.sec.gov/Archives/edgar/data/72331/000156459018014988/,누적 216191000 − 직전누적 144272000 (시작 2016-11-01) ; 원 공시 76827000 (https://www.sec.gov/Archives/edgar/data/72331/000156459017018258/ ; https://www.sec.gov/Archives/edgar/data/72331/000156459017012377/),22
+Nordson,NDSN,2017Q2,2017-07-31,분기말 자산총계,3460516000,USD,공시,https://www.sec.gov/Archives/edgar/data/72331/000156459017018258/,,22
+Nordson,NDSN,2017Q2,2017-07-31,분기말 부채총계,2376085000,USD,계산(부채및자본-총자본),https://www.sec.gov/Archives/edgar/data/72331/000156459017018258/,부채및자본 3460516000 − 총자본 1084431000,22
+Nordson,NDSN,2017Q2,2017-07-31,분기말 총자본(자기자본),1084431000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/72331/000156459017018258/,"StockholdersEquity, MinorityInterest 태그 없음",22
+Nordson,NDSN,2017Q2,2017-07-31,분기말 지배지분 자본,1084431000,USD,공시,https://www.sec.gov/Archives/edgar/data/72331/000156459017018258/,,22
+Nordson,NDSN,2017Q2,2017-07-31,분기말 종가,127.0,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/NDSN?interval=1d&events=splits (2017-07-31),,22
+Nordson,NDSN,2017Q2,2017-07-31,분기말 상장주식수,57692283,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/72331/000156459017018258/,dei:EntityCommonStockSharesOutstanding 클래스 합,22
+Nordson,NDSN,2017Q2,2017-07-31,분기말 시가총액,7326919941,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/NDSN?interval=1d&events=splits (2017-07-31) ; https://www.sec.gov/Archives/edgar/data/72331/000156459017018258/,종가 127.0 × 주식수 57692283,22
+Nordson,NDSN,2017Q3,2017-10-31,분기별 매출액,573938000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/72331/000156459017024983/ ; https://www.sec.gov/Archives/edgar/data/72331/000156459017018258/,연간 2066982000 − 9개월누적 1493044000 (SalesRevenueNet),22
+Nordson,NDSN,2017Q3,2017-10-31,분기별 영업이익,124788000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/72331/000156459017024983/ ; https://www.sec.gov/Archives/edgar/data/72331/000156459017018258/,연간 457702000 − 9개월누적 332914000 (OperatingIncomeLoss),22
+Nordson,NDSN,2017Q3,2017-10-31,분기별 당기순이익(지배),79835000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/72331/000156459017024983/ ; https://www.sec.gov/Archives/edgar/data/72331/000156459017018258/,연간 295802000 − 9개월누적 215967000 (NetIncomeLoss),22
+Nordson,NDSN,2017Q3,2017-10-31,분기별 영업활동현금흐름,133482000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/72331/000156459017024983/ ; https://www.sec.gov/Archives/edgar/data/72331/000156459017018258/,누적 349673000 − 직전누적 216191000 (시작 2016-11-01),22
+Nordson,NDSN,2017Q3,2017-10-31,분기말 자산총계,3414539000,USD,공시,https://www.sec.gov/Archives/edgar/data/72331/000156459017024983/,,22
+Nordson,NDSN,2017Q3,2017-10-31,분기말 부채총계,2259046000,USD,계산(부채및자본-총자본),https://www.sec.gov/Archives/edgar/data/72331/000156459017024983/,부채및자본 3414539000 − 총자본 1155493000,22
+Nordson,NDSN,2017Q3,2017-10-31,분기말 총자본(자기자본),1155493000,USD,공시,https://www.sec.gov/Archives/edgar/data/72331/000156459017024983/,,22
+Nordson,NDSN,2017Q3,2017-10-31,분기말 지배지분 자본,1155493000,USD,공시,https://www.sec.gov/Archives/edgar/data/72331/000156459017024983/,,22
+Nordson,NDSN,2017Q3,2017-10-31,분기말 종가,126.69,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/NDSN?interval=1d&events=splits (2017-10-31),,22
+Nordson,NDSN,2017Q3,2017-11-30,분기말 상장주식수,57745608,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/72331/000156459017024983/,dei:EntityCommonStockSharesOutstanding 클래스 합,22
+Nordson,NDSN,2017Q3,2017-10-31,분기말 시가총액,7315791078,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/NDSN?interval=1d&events=splits (2017-10-31) ; https://www.sec.gov/Archives/edgar/data/72331/000156459017024983/,종가 126.69 × 주식수 57745608,22
+Nordson,NDSN,2017Q4,2018-01-31,분기별 매출액,550424000,USD,공시,https://www.sec.gov/Archives/edgar/data/72331/000156459018004341/,,22
+Nordson,NDSN,2017Q4,2018-01-31,분기별 영업이익,117723000,USD,공시,https://www.sec.gov/Archives/edgar/data/72331/000156459018004341/,,22
+Nordson,NDSN,2017Q4,2018-01-31,분기별 당기순이익(지배),104555000,USD,공시,https://www.sec.gov/Archives/edgar/data/72331/000156459018004341/,,22
+Nordson,NDSN,2017Q4,2018-01-31,분기별 영업활동현금흐름,109278000,USD,공시,https://www.sec.gov/Archives/edgar/data/72331/000156459018004341/,,22
+Nordson,NDSN,2017Q4,2018-01-31,분기말 자산총계,3500636000,USD,공시,https://www.sec.gov/Archives/edgar/data/72331/000156459018004341/,,22
+Nordson,NDSN,2017Q4,2018-01-31,분기말 부채총계,2205515000,USD,계산(부채및자본-총자본),https://www.sec.gov/Archives/edgar/data/72331/000156459018004341/,부채및자본 3500636000 − 총자본 1295121000,22
+Nordson,NDSN,2017Q4,2018-01-31,분기말 총자본(자기자본),1295121000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/72331/000156459018004341/,"StockholdersEquity, MinorityInterest 태그 없음",22
+Nordson,NDSN,2017Q4,2018-01-31,분기말 지배지분 자본,1295121000,USD,공시,https://www.sec.gov/Archives/edgar/data/72331/000156459018004341/,,22
+Nordson,NDSN,2017Q4,2018-01-31,분기말 종가,143.72,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/NDSN?interval=1d&events=splits (2018-01-31),,22
+Nordson,NDSN,2017Q4,2018-01-31,분기말 상장주식수,57972664,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/72331/000156459018004341/,dei:EntityCommonStockSharesOutstanding 클래스 합,22
+Nordson,NDSN,2017Q4,2018-01-31,분기말 시가총액,8331831270,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/NDSN?interval=1d&events=splits (2018-01-31) ; https://www.sec.gov/Archives/edgar/data/72331/000156459018004341/,종가 143.72 × 주식수 57972664,22
+Nordson,NDSN,2018Q1,2018-04-30,분기별 매출액,553706000,USD,공시,https://www.sec.gov/Archives/edgar/data/72331/000156459018014988/,,22
+Nordson,NDSN,2018Q1,2018-04-30,분기별 영업이익,126705000,USD,공시,https://www.sec.gov/Archives/edgar/data/72331/000156459018014988/,,22
+Nordson,NDSN,2018Q1,2018-04-30,분기별 당기순이익(지배),91235000,USD,공시,https://www.sec.gov/Archives/edgar/data/72331/000156459018014988/,,22
+Nordson,NDSN,2018Q1,2018-04-30,분기별 영업활동현금흐름,103033000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/72331/000156459018014988/ ; https://www.sec.gov/Archives/edgar/data/72331/000156459018004341/,누적 212311000 − 직전누적 109278000 (시작 2017-11-01),22
+Nordson,NDSN,2018Q1,2018-04-30,분기말 자산총계,3539216000,USD,공시,https://www.sec.gov/Archives/edgar/data/72331/000156459018014988/,,22
+Nordson,NDSN,2018Q1,2018-04-30,분기말 부채총계,2176306000,USD,계산(부채및자본-총자본),https://www.sec.gov/Archives/edgar/data/72331/000156459018014988/,부채및자본 3539216000 − 총자본 1362910000,22
+Nordson,NDSN,2018Q1,2018-04-30,분기말 총자본(자기자본),1362910000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/72331/000156459018014988/,"StockholdersEquity, MinorityInterest 태그 없음",22
+Nordson,NDSN,2018Q1,2018-04-30,분기말 지배지분 자본,1362910000,USD,공시,https://www.sec.gov/Archives/edgar/data/72331/000156459018014988/,,22
+Nordson,NDSN,2018Q1,2018-04-30,분기말 종가,128.6,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/NDSN?interval=1d&events=splits (2018-04-30),,22
+Nordson,NDSN,2018Q1,2018-04-30,분기말 상장주식수,58091870,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/72331/000156459018014988/,dei:EntityCommonStockSharesOutstanding 클래스 합,22
+Nordson,NDSN,2018Q1,2018-04-30,분기말 시가총액,7470614482,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/NDSN?interval=1d&events=splits (2018-04-30) ; https://www.sec.gov/Archives/edgar/data/72331/000156459018014988/,종가 128.6 × 주식수 58091870,22
+Nordson,NDSN,2018Q2,2018-07-31,분기별 매출액,581243000,USD,공시,https://www.sec.gov/Archives/edgar/data/72331/000156459018022603/,,22
+Nordson,NDSN,2018Q2,2018-07-31,분기별 영업이익,135576000,USD,공시,https://www.sec.gov/Archives/edgar/data/72331/000156459018022603/,,22
+Nordson,NDSN,2018Q2,2018-07-31,분기별 당기순이익(지배),94884000,USD,공시,https://www.sec.gov/Archives/edgar/data/72331/000156459018022603/,,22
+Nordson,NDSN,2018Q2,2018-07-31,분기별 영업활동현금흐름,130616000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/72331/000156459018022603/ ; https://www.sec.gov/Archives/edgar/data/72331/000156459018014988/,누적 342927000 − 직전누적 212311000 (시작 2017-11-01),22
+Nordson,NDSN,2018Q2,2018-07-31,분기말 자산총계,3607392000,USD,공시,https://www.sec.gov/Archives/edgar/data/72331/000156459018022603/,,22
+Nordson,NDSN,2018Q2,2018-07-31,분기말 부채총계,2184476000,USD,계산(부채및자본-총자본),https://www.sec.gov/Archives/edgar/data/72331/000156459018022603/,부채및자본 3607392000 − 총자본 1422916000,22
+Nordson,NDSN,2018Q2,2018-07-31,분기말 총자본(자기자본),1422916000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/72331/000156459018022603/,"StockholdersEquity, MinorityInterest 태그 없음",22
+Nordson,NDSN,2018Q2,2018-07-31,분기말 지배지분 자본,1422916000,USD,공시,https://www.sec.gov/Archives/edgar/data/72331/000156459018022603/,,22
+Nordson,NDSN,2018Q2,2018-07-31,분기말 종가,134.11,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/NDSN?interval=1d&events=splits (2018-07-31),,22
+Nordson,NDSN,2018Q2,2018-07-31,분기말 상장주식수,58148676,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/72331/000156459018022603/,dei:EntityCommonStockSharesOutstanding 클래스 합,22
+Nordson,NDSN,2018Q2,2018-07-31,분기말 시가총액,7798318938,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/NDSN?interval=1d&events=splits (2018-07-31) ; https://www.sec.gov/Archives/edgar/data/72331/000156459018022603/,종가 134.11 × 주식수 58148676,22
+Nordson,NDSN,2018Q3,2018-10-31,분기별 매출액,569295000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/72331/000156459018030928/ ; https://www.sec.gov/Archives/edgar/data/72331/000156459018022603/,연간 2254668000 − 9개월누적 1685373000 (Revenues),22
+Nordson,NDSN,2018Q3,2018-10-31,분기별 영업이익,114553000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/72331/000156459018030928/ ; https://www.sec.gov/Archives/edgar/data/72331/000156459018022603/,연간 494557000 − 9개월누적 380004000 (OperatingIncomeLoss),22
+Nordson,NDSN,2018Q3,2018-10-31,분기별 당기순이익(지배),86701000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/72331/000156459018030928/ ; https://www.sec.gov/Archives/edgar/data/72331/000156459018022603/,연간 377375000 − 9개월누적 290674000 (NetIncomeLoss),22
+Nordson,NDSN,2018Q3,2018-10-31,분기별 영업활동현금흐름,161711000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/72331/000156459018030928/ ; https://www.sec.gov/Archives/edgar/data/72331/000156459018022603/,누적 504638000 − 직전누적 342927000 (시작 2017-11-01),22
+Nordson,NDSN,2018Q3,2018-10-31,분기말 자산총계,3421012000,USD,공시,https://www.sec.gov/Archives/edgar/data/72331/000156459018030928/,,22
+Nordson,NDSN,2018Q3,2018-10-31,분기말 부채총계,1970271000,USD,계산(부채및자본-총자본),https://www.sec.gov/Archives/edgar/data/72331/000156459018030928/,부채및자본 3421012000 − 총자본 1450741000,22
+Nordson,NDSN,2018Q3,2018-10-31,분기말 총자본(자기자본),1450741000,USD,공시,https://www.sec.gov/Archives/edgar/data/72331/000156459018030928/,,22
+Nordson,NDSN,2018Q3,2018-10-31,분기말 지배지분 자본,1450741000,USD,공시,https://www.sec.gov/Archives/edgar/data/72331/000156459018030928/,,22
+Nordson,NDSN,2018Q3,2018-10-31,분기말 종가,122.67,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/NDSN?interval=1d&events=splits (2018-10-31),,22
+Nordson,NDSN,2018Q3,2018-11-30,분기말 상장주식수,57927038,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/72331/000156459018030928/,dei:EntityCommonStockSharesOutstanding 클래스 합,22
+Nordson,NDSN,2018Q3,2018-10-31,분기말 시가총액,7105909751,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/NDSN?interval=1d&events=splits (2018-10-31) ; https://www.sec.gov/Archives/edgar/data/72331/000156459018030928/,종가 122.67 × 주식수 57927038,22
+Nordson,NDSN,2018Q4,2019-01-31,분기별 매출액,497910000,USD,공시,https://www.sec.gov/Archives/edgar/data/72331/000156459019006655/,,22
+Nordson,NDSN,2018Q4,2019-01-31,분기별 영업이익,84281000,USD,공시,https://www.sec.gov/Archives/edgar/data/72331/000156459019006655/,,22
+Nordson,NDSN,2018Q4,2019-01-31,분기별 당기순이익(지배),48567000,USD,공시,https://www.sec.gov/Archives/edgar/data/72331/000156459019006655/,,22
+Nordson,NDSN,2018Q4,2019-01-31,분기별 영업활동현금흐름,56847000,USD,공시,https://www.sec.gov/Archives/edgar/data/72331/000156459019006655/,,22
+Nordson,NDSN,2018Q4,2019-01-31,분기말 자산총계,3397747000,USD,공시,https://www.sec.gov/Archives/edgar/data/72331/000156459019006655/,,22
+Nordson,NDSN,2018Q4,2019-01-31,분기말 부채총계,1996206000,USD,계산(부채및자본-총자본),https://www.sec.gov/Archives/edgar/data/72331/000156459019006655/,부채및자본 3397747000 − 총자본 1401541000,22
+Nordson,NDSN,2018Q4,2019-01-31,분기말 총자본(자기자본),1401541000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/72331/000156459019006655/,"StockholdersEquity, MinorityInterest 태그 없음",22
+Nordson,NDSN,2018Q4,2019-01-31,분기말 지배지분 자본,1401541000,USD,공시,https://www.sec.gov/Archives/edgar/data/72331/000156459019006655/,,22
+Nordson,NDSN,2018Q4,2019-01-31,분기말 종가,129.64,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/NDSN?interval=1d&events=splits (2019-01-31),,22
+Nordson,NDSN,2018Q4,2019-01-31,분기말 상장주식수,57325161,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/72331/000156459019006655/,dei:EntityCommonStockSharesOutstanding 클래스 합,22
+Nordson,NDSN,2018Q4,2019-01-31,분기말 시가총액,7431633872,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/NDSN?interval=1d&events=splits (2019-01-31) ; https://www.sec.gov/Archives/edgar/data/72331/000156459019006655/,종가 129.64 × 주식수 57325161,22
+Nordson,NDSN,2019Q1,2019-04-30,분기별 매출액,551119000,USD,공시,https://www.sec.gov/Archives/edgar/data/72331/000156459019021843/,,22
+Nordson,NDSN,2019Q1,2019-04-30,분기별 영업이익,128896000,USD,공시,https://www.sec.gov/Archives/edgar/data/72331/000156459019021843/,,22
+Nordson,NDSN,2019Q1,2019-04-30,분기별 당기순이익(지배),91923000,USD,공시,https://www.sec.gov/Archives/edgar/data/72331/000156459019021843/,,22
+Nordson,NDSN,2019Q1,2019-04-30,분기별 영업활동현금흐름,105065000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/72331/000156459019021843/ ; https://www.sec.gov/Archives/edgar/data/72331/000156459019006655/,누적 161912000 − 직전누적 56847000 (시작 2018-11-01),22
+Nordson,NDSN,2019Q1,2019-04-30,분기말 자산총계,3475088000,USD,공시,https://www.sec.gov/Archives/edgar/data/72331/000156459019021843/,,22
+Nordson,NDSN,2019Q1,2019-04-30,분기말 부채총계,2003825000,USD,계산(부채및자본-총자본),https://www.sec.gov/Archives/edgar/data/72331/000156459019021843/,부채및자본 3475088000 − 총자본 1471263000,22
+Nordson,NDSN,2019Q1,2019-04-30,분기말 총자본(자기자본),1471263000,USD,공시,https://www.sec.gov/Archives/edgar/data/72331/000156459019021843/,,22
+Nordson,NDSN,2019Q1,2019-04-30,분기말 지배지분 자본,1471263000,USD,공시,https://www.sec.gov/Archives/edgar/data/72331/000156459019021843/,,22
+Nordson,NDSN,2019Q1,2019-04-30,분기말 종가,145.95,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/NDSN?interval=1d&events=splits (2019-04-30),,22
+Nordson,NDSN,2019Q1,2019-05-31,분기말 상장주식수,57450257,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/72331/000156459019021843/,dei:EntityCommonStockSharesOutstanding 클래스 합,22
+Nordson,NDSN,2019Q1,2019-04-30,분기말 시가총액,8384865009,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/NDSN?interval=1d&events=splits (2019-04-30) ; https://www.sec.gov/Archives/edgar/data/72331/000156459019021843/,종가 145.95 × 주식수 57450257,22
+Nordson,NDSN,2019Q2,2019-07-31,분기별 매출액,559746000,USD,공시,https://www.sec.gov/Archives/edgar/data/72331/000156459019034133/,,22
+Nordson,NDSN,2019Q2,2019-07-31,분기별 영업이익,130276000,USD,공시,https://www.sec.gov/Archives/edgar/data/72331/000156459019034133/,,22
+Nordson,NDSN,2019Q2,2019-07-31,분기별 당기순이익(지배),93928000,USD,공시,https://www.sec.gov/Archives/edgar/data/72331/000156459019034133/,,22
+Nordson,NDSN,2019Q2,2019-07-31,분기별 영업활동현금흐름,74519000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/72331/000156459019034133/ ; https://www.sec.gov/Archives/edgar/data/72331/000156459019021843/,누적 236431000 − 직전누적 161912000 (시작 2018-11-01),22
+Nordson,NDSN,2019Q2,2019-07-31,분기말 자산총계,3491538000,USD,공시,https://www.sec.gov/Archives/edgar/data/72331/000156459019034133/,,22
+Nordson,NDSN,2019Q2,2019-07-31,분기말 부채총계,1944650000,USD,계산(부채및자본-총자본),https://www.sec.gov/Archives/edgar/data/72331/000156459019034133/,부채및자본 3491538000 − 총자본 1546888000,22
+Nordson,NDSN,2019Q2,2019-07-31,분기말 총자본(자기자본),1546888000,USD,공시,https://www.sec.gov/Archives/edgar/data/72331/000156459019034133/,,22
+Nordson,NDSN,2019Q2,2019-07-31,분기말 지배지분 자본,1546888000,USD,공시,https://www.sec.gov/Archives/edgar/data/72331/000156459019034133/,,22
+Nordson,NDSN,2019Q2,2019-07-31,분기말 종가,141.66,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/NDSN?interval=1d&events=splits (2019-07-31),,22
+Nordson,NDSN,2019Q2,2019-08-30,분기말 상장주식수,57490343,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/72331/000156459019034133/,dei:EntityCommonStockSharesOutstanding 클래스 합,22
+Nordson,NDSN,2019Q2,2019-07-31,분기말 시가총액,8144081989,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/NDSN?interval=1d&events=splits (2019-07-31) ; https://www.sec.gov/Archives/edgar/data/72331/000156459019034133/,종가 141.66 × 주식수 57490343,22
+Nordson,NDSN,2019Q3,2019-10-31,분기별 매출액,585451000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/72331/000156459019045927/ ; https://www.sec.gov/Archives/edgar/data/72331/000156459019034133/,연간 2194226000 − 9개월누적 1608775000 (RevenueFromContractWithCustomerExcludingAssessedTax),22
+Nordson,NDSN,2019Q3,2019-10-31,분기별 영업이익,139660000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/72331/000156459019045927/ ; https://www.sec.gov/Archives/edgar/data/72331/000156459019034133/,연간 483113000 − 9개월누적 343453000 (OperatingIncomeLoss),22
+Nordson,NDSN,2019Q3,2019-10-31,분기별 당기순이익(지배),102673000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/72331/000156459019045927/ ; https://www.sec.gov/Archives/edgar/data/72331/000156459019034133/,연간 337091000 − 9개월누적 234418000 (NetIncomeLoss),22
+Nordson,NDSN,2019Q3,2019-10-31,분기별 영업활동현금흐름,146462000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/72331/000156459019045927/ ; https://www.sec.gov/Archives/edgar/data/72331/000156459019034133/,누적 382893000 − 직전누적 236431000 (시작 2018-11-01),22
+Nordson,NDSN,2019Q3,2019-10-31,분기말 자산총계,3516447000,USD,공시,https://www.sec.gov/Archives/edgar/data/72331/000156459019045927/,,22
+Nordson,NDSN,2019Q3,2019-10-31,분기말 부채총계,1935402000,USD,계산(부채및자본-총자본),https://www.sec.gov/Archives/edgar/data/72331/000156459019045927/,부채및자본 3516447000 − 총자본 1581045000,22
+Nordson,NDSN,2019Q3,2019-10-31,분기말 총자본(자기자본),1581045000,USD,공시,https://www.sec.gov/Archives/edgar/data/72331/000156459019045927/,,22
+Nordson,NDSN,2019Q3,2019-10-31,분기말 지배지분 자본,1581045000,USD,공시,https://www.sec.gov/Archives/edgar/data/72331/000156459019045927/,,22
+Nordson,NDSN,2019Q3,2019-10-31,분기말 종가,156.81,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/NDSN?interval=1d&events=splits (2019-10-31),,22
+Nordson,NDSN,2019Q3,2019-11-30,분기말 상장주식수,57708386,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/72331/000156459019045927/,dei:EntityCommonStockSharesOutstanding 클래스 합,22
+Nordson,NDSN,2019Q3,2019-10-31,분기말 시가총액,9049252009,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/NDSN?interval=1d&events=splits (2019-10-31) ; https://www.sec.gov/Archives/edgar/data/72331/000156459019045927/,종가 156.81 × 주식수 57708386,22
+Nordson,NDSN,2019Q4,2020-01-31,분기별 매출액,494916000,USD,공시,https://www.sec.gov/Archives/edgar/data/72331/000156459020008934/,,22
+Nordson,NDSN,2019Q4,2020-01-31,분기별 영업이익,75093000,USD,공시,https://www.sec.gov/Archives/edgar/data/72331/000156459020008934/,,22
+Nordson,NDSN,2019Q4,2020-01-31,분기별 당기순이익(지배),52004000,USD,공시,https://www.sec.gov/Archives/edgar/data/72331/000156459020008934/,,22
+Nordson,NDSN,2019Q4,2020-01-31,분기별 영업활동현금흐름,116275000,USD,공시,https://www.sec.gov/Archives/edgar/data/72331/000156459020008934/,,22
+Nordson,NDSN,2019Q4,2020-01-31,분기말 자산총계,3550867000,USD,공시,https://www.sec.gov/Archives/edgar/data/72331/000156459020008934/,,22
+Nordson,NDSN,2019Q4,2020-01-31,분기말 부채총계,1916593000,USD,계산(부채및자본-총자본),https://www.sec.gov/Archives/edgar/data/72331/000156459020008934/,부채및자본 3550867000 − 총자본 1634274000,22
+Nordson,NDSN,2019Q4,2020-01-31,분기말 총자본(자기자본),1634274000,USD,공시,https://www.sec.gov/Archives/edgar/data/72331/000156459020008934/,,22
+Nordson,NDSN,2019Q4,2020-01-31,분기말 지배지분 자본,1634274000,USD,공시,https://www.sec.gov/Archives/edgar/data/72331/000156459020008934/,,22
+Nordson,NDSN,2019Q4,2020-01-31,분기말 종가,168.86,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/NDSN?interval=1d&events=splits (2020-01-31),,22
+Nordson,NDSN,2019Q4,2020-02-29,분기말 상장주식수,57858486,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/72331/000156459020008934/,dei:EntityCommonStockSharesOutstanding 클래스 합,22
+Nordson,NDSN,2019Q4,2020-01-31,분기말 시가총액,9769983946,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/NDSN?interval=1d&events=splits (2020-01-31) ; https://www.sec.gov/Archives/edgar/data/72331/000156459020008934/,종가 168.86 × 주식수 57858486,22
+Nordson,NDSN,2020Q1,2020-04-30,분기별 매출액,529478000,USD,공시,https://www.sec.gov/Archives/edgar/data/72331/000156459020028467/,,22
+Nordson,NDSN,2020Q1,2020-04-30,분기별 영업이익,125029000,USD,공시,https://www.sec.gov/Archives/edgar/data/72331/000156459020028467/,,22
+Nordson,NDSN,2020Q1,2020-04-30,분기별 당기순이익(지배),92079000,USD,공시,https://www.sec.gov/Archives/edgar/data/72331/000156459020028467/,,22
+Nordson,NDSN,2020Q1,2020-04-30,분기별 영업활동현금흐름,101904000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/72331/000156459020028467/ ; https://www.sec.gov/Archives/edgar/data/72331/000156459020008934/,누적 218179000 − 직전누적 116275000 (시작 2019-11-01),22
+Nordson,NDSN,2020Q1,2020-04-30,분기말 자산총계,3742904000,USD,공시,https://www.sec.gov/Archives/edgar/data/72331/000156459020028467/,,22
+Nordson,NDSN,2020Q1,2020-04-30,분기말 부채총계,2090410000,USD,계산(부채및자본-총자본),https://www.sec.gov/Archives/edgar/data/72331/000156459020028467/,부채및자본 3742904000 − 총자본 1652494000,22
+Nordson,NDSN,2020Q1,2020-04-30,분기말 총자본(자기자본),1652494000,USD,공시,https://www.sec.gov/Archives/edgar/data/72331/000156459020028467/,,22
+Nordson,NDSN,2020Q1,2020-04-30,분기말 지배지분 자본,1652494000,USD,공시,https://www.sec.gov/Archives/edgar/data/72331/000156459020028467/,,22
+Nordson,NDSN,2020Q1,2020-04-30,분기말 종가,160.91,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/NDSN?interval=1d&events=splits (2020-04-30),,22
+Nordson,NDSN,2020Q1,2020-05-29,분기말 상장주식수,57680280,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/72331/000156459020028467/,dei:EntityCommonStockSharesOutstanding 클래스 합,22
+Nordson,NDSN,2020Q1,2020-04-30,분기말 시가총액,9281333855,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/NDSN?interval=1d&events=splits (2020-04-30) ; https://www.sec.gov/Archives/edgar/data/72331/000156459020028467/,종가 160.91 × 주식수 57680280,22
+Nordson,NDSN,2020Q2,2020-07-31,분기별 매출액,538181000,USD,공시,https://www.sec.gov/Archives/edgar/data/72331/000156459020042612/,,22
+Nordson,NDSN,2020Q2,2020-07-31,분기별 영업이익,112055000,USD,공시,https://www.sec.gov/Archives/edgar/data/72331/000156459020042612/,,22
+Nordson,NDSN,2020Q2,2020-07-31,분기별 당기순이익(지배),86981000,USD,공시,https://www.sec.gov/Archives/edgar/data/72331/000156459020042612/,,22
+Nordson,NDSN,2020Q2,2020-07-31,분기별 영업활동현금흐름,91779000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/72331/000156459020042612/ ; https://www.sec.gov/Archives/edgar/data/72331/000156459020028467/,누적 309958000 − 직전누적 218179000 (시작 2019-11-01),22
+Nordson,NDSN,2020Q2,2020-07-31,분기말 자산총계,3819958000,USD,공시,https://www.sec.gov/Archives/edgar/data/72331/000156459020042612/,,22
+Nordson,NDSN,2020Q2,2020-07-31,분기말 부채총계,2050046000,USD,계산(부채및자본-총자본),https://www.sec.gov/Archives/edgar/data/72331/000156459020042612/,부채및자본 3819958000 − 총자본 1769912000,22
+Nordson,NDSN,2020Q2,2020-07-31,분기말 총자본(자기자본),1769912000,USD,공시,https://www.sec.gov/Archives/edgar/data/72331/000156459020042612/,,22
+Nordson,NDSN,2020Q2,2020-07-31,분기말 지배지분 자본,1769912000,USD,공시,https://www.sec.gov/Archives/edgar/data/72331/000156459020042612/,,22
+Nordson,NDSN,2020Q2,2020-07-31,분기말 종가,193.63,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/NDSN?interval=1d&events=splits (2020-07-31),,22
+Nordson,NDSN,2020Q2,2020-08-25,분기말 상장주식수,58034535,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/72331/000156459020042612/,dei:EntityCommonStockSharesOutstanding 클래스 합,22
+Nordson,NDSN,2020Q2,2020-07-31,분기말 시가총액,11237227012,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/NDSN?interval=1d&events=splits (2020-07-31) ; https://www.sec.gov/Archives/edgar/data/72331/000156459020042612/,종가 193.63 × 주식수 58034535,22
+Nordson,NDSN,2020Q3,2020-10-31,분기별 매출액,558525000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/72331/000007233120000024/ ; https://www.sec.gov/Archives/edgar/data/72331/000156459020042612/,연간 2121100000 − 9개월누적 1562575000 (RevenueFromContractWithCustomerExcludingAssessedTax),22
+Nordson,NDSN,2020Q3,2020-10-31,분기별 영업이익,37368000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/72331/000007233120000024/ ; https://www.sec.gov/Archives/edgar/data/72331/000156459020042612/,연간 349545000 − 9개월누적 312177000 (OperatingIncomeLoss),22
+Nordson,NDSN,2020Q3,2020-10-31,분기별 당기순이익(지배),18475000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/72331/000007233120000024/ ; https://www.sec.gov/Archives/edgar/data/72331/000156459020042612/,연간 249539000 − 9개월누적 231064000 (NetIncomeLoss),22
+Nordson,NDSN,2020Q3,2020-10-31,분기별 영업활동현금흐름,192463000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/72331/000007233120000024/ ; https://www.sec.gov/Archives/edgar/data/72331/000156459020042612/,누적 502421000 − 직전누적 309958000 (시작 2019-11-01),22
+Nordson,NDSN,2020Q3,2020-10-31,분기말 자산총계,3674656000,USD,공시,https://www.sec.gov/Archives/edgar/data/72331/000007233120000024/,,22
+Nordson,NDSN,2020Q3,2020-10-31,분기말 부채총계,1915665000,USD,계산(부채및자본-총자본),https://www.sec.gov/Archives/edgar/data/72331/000007233120000024/,부채및자본 3674656000 − 총자본 1758991000,22
+Nordson,NDSN,2020Q3,2020-10-31,분기말 총자본(자기자본),1758991000,USD,공시,https://www.sec.gov/Archives/edgar/data/72331/000007233120000024/,,22
+Nordson,NDSN,2020Q3,2020-10-31,분기말 지배지분 자본,1758991000,USD,공시,https://www.sec.gov/Archives/edgar/data/72331/000007233120000024/,,22
+Nordson,NDSN,2020Q3,2020-10-30,분기말 종가,193.43,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/NDSN?interval=1d&events=splits (2020-10-30),,22
+Nordson,NDSN,2020Q3,2020-11-30,분기말 상장주식수,58094487,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/72331/000007233121000008/,dei:EntityCommonStockSharesOutstanding 클래스 합 ; 값은 XBRL 원문(companyfacts 미반영 보고서),22
+Nordson,NDSN,2020Q3,2020-10-30,분기말 시가총액,11237216620,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/NDSN?interval=1d&events=splits (2020-10-30) ; https://www.sec.gov/Archives/edgar/data/72331/000007233121000008/,종가 193.43 × 주식수 58094487 ; 값은 XBRL 원문(companyfacts 미반영 보고서),22
+Nordson,NDSN,2020Q4,2021-01-31,분기별 매출액,526566000,USD,공시,https://www.sec.gov/Archives/edgar/data/72331/000007233121000023/,,22
+Nordson,NDSN,2020Q4,2021-01-31,분기별 영업이익,109025000,USD,공시,https://www.sec.gov/Archives/edgar/data/72331/000007233121000023/,,22
+Nordson,NDSN,2020Q4,2021-01-31,분기별 당기순이익(지배),77582000,USD,공시,https://www.sec.gov/Archives/edgar/data/72331/000007233121000023/,,22
+Nordson,NDSN,2020Q4,2021-01-31,분기별 영업활동현금흐름,143289000,USD,공시,https://www.sec.gov/Archives/edgar/data/72331/000007233121000023/,,22
+Nordson,NDSN,2020Q4,2021-01-31,분기말 자산총계,3683401000,USD,공시,https://www.sec.gov/Archives/edgar/data/72331/000007233121000023/,,22
+Nordson,NDSN,2020Q4,2021-01-31,분기말 부채총계,1826218000,USD,계산(부채및자본-총자본),https://www.sec.gov/Archives/edgar/data/72331/000007233121000023/,부채및자본 3683401000 − 총자본 1857183000,22
+Nordson,NDSN,2020Q4,2021-01-31,분기말 총자본(자기자본),1857183000,USD,공시,https://www.sec.gov/Archives/edgar/data/72331/000007233121000023/,,22
+Nordson,NDSN,2020Q4,2021-01-31,분기말 지배지분 자본,1857183000,USD,공시,https://www.sec.gov/Archives/edgar/data/72331/000007233121000023/,,22
+Nordson,NDSN,2020Q4,2021-01-29,분기말 종가,178.99,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/NDSN?interval=1d&events=splits (2021-01-29),,22
+Nordson,NDSN,2020Q4,2021-02-26,분기말 상장주식수,58085657,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/72331/000007233121000023/,dei:EntityCommonStockSharesOutstanding 클래스 합,22
+Nordson,NDSN,2020Q4,2021-01-29,분기말 시가총액,10396751746,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/NDSN?interval=1d&events=splits (2021-01-29) ; https://www.sec.gov/Archives/edgar/data/72331/000007233121000023/,종가 178.99 × 주식수 58085657,22
+Nordson,NDSN,2021Q1,2021-04-30,분기별 매출액,589538000,USD,공시,https://www.sec.gov/Archives/edgar/data/72331/000007233121000040/,,22
+Nordson,NDSN,2021Q1,2021-04-30,분기별 영업이익,166391000,USD,공시,https://www.sec.gov/Archives/edgar/data/72331/000007233121000040/,,22
+Nordson,NDSN,2021Q1,2021-04-30,분기별 당기순이익(지배),124144000,USD,공시,https://www.sec.gov/Archives/edgar/data/72331/000007233121000040/,,22
+Nordson,NDSN,2021Q1,2021-04-30,분기별 영업활동현금흐름,104425000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/72331/000007233121000040/ ; https://www.sec.gov/Archives/edgar/data/72331/000007233121000023/,누적 247714000 − 직전누적 143289000 (시작 2020-11-01),22
+Nordson,NDSN,2021Q1,2021-04-30,분기말 자산총계,3594910000,USD,공시,https://www.sec.gov/Archives/edgar/data/72331/000007233121000040/,,22
+Nordson,NDSN,2021Q1,2021-04-30,분기말 부채총계,1644553000,USD,계산(부채및자본-총자본),https://www.sec.gov/Archives/edgar/data/72331/000007233121000040/,부채및자본 3594910000 − 총자본 1950357000,22
+Nordson,NDSN,2021Q1,2021-04-30,분기말 총자본(자기자본),1950357000,USD,공시,https://www.sec.gov/Archives/edgar/data/72331/000007233121000040/,,22
+Nordson,NDSN,2021Q1,2021-04-30,분기말 지배지분 자본,1950357000,USD,공시,https://www.sec.gov/Archives/edgar/data/72331/000007233121000040/,,22
+Nordson,NDSN,2021Q1,2021-04-30,분기말 종가,211.41,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/NDSN?interval=1d&events=splits (2021-04-30),,22
+Nordson,NDSN,2021Q1,2021-05-24,분기말 상장주식수,58128637,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/72331/000007233121000040/,dei:EntityCommonStockSharesOutstanding 클래스 합,22
+Nordson,NDSN,2021Q1,2021-04-30,분기말 시가총액,12288975148,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/NDSN?interval=1d&events=splits (2021-04-30) ; https://www.sec.gov/Archives/edgar/data/72331/000007233121000040/,종가 211.41 × 주식수 58128637,22
+Nordson,NDSN,2021Q2,2021-07-31,분기별 매출액,646858000,USD,공시,https://www.sec.gov/Archives/edgar/data/72331/000007233121000064/,,22
+Nordson,NDSN,2021Q2,2021-07-31,분기별 영업이익,188276000,USD,공시,https://www.sec.gov/Archives/edgar/data/72331/000007233121000064/,,22
+Nordson,NDSN,2021Q2,2021-07-31,분기별 당기순이익(지배),142182000,USD,공시,https://www.sec.gov/Archives/edgar/data/72331/000007233121000064/,,22
+Nordson,NDSN,2021Q2,2021-07-31,분기별 영업활동현금흐름,127742000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/72331/000007233121000064/ ; https://www.sec.gov/Archives/edgar/data/72331/000007233121000040/,누적 375456000 − 직전누적 247714000 (시작 2020-11-01),22
+Nordson,NDSN,2021Q2,2021-07-31,분기말 자산총계,3670080000,USD,공시,https://www.sec.gov/Archives/edgar/data/72331/000007233121000064/,,22
+Nordson,NDSN,2021Q2,2021-07-31,분기말 부채총계,1606902000,USD,계산(부채및자본-총자본),https://www.sec.gov/Archives/edgar/data/72331/000007233121000064/,부채및자본 3670080000 − 총자본 2063178000,22
+Nordson,NDSN,2021Q2,2021-07-31,분기말 총자본(자기자본),2063178000,USD,공시,https://www.sec.gov/Archives/edgar/data/72331/000007233121000064/,,22
+Nordson,NDSN,2021Q2,2021-07-31,분기말 지배지분 자본,2063178000,USD,공시,https://www.sec.gov/Archives/edgar/data/72331/000007233121000064/,,22
+Nordson,NDSN,2021Q2,2021-07-30,분기말 종가,226.13,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/NDSN?interval=1d&events=splits (2021-07-30),,22
+Nordson,NDSN,2021Q2,2021-08-27,분기말 상장주식수,58114553,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/72331/000007233121000064/,dei:EntityCommonStockSharesOutstanding 클래스 합,22
+Nordson,NDSN,2021Q2,2021-07-30,분기말 시가총액,13141443870,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/NDSN?interval=1d&events=splits (2021-07-30) ; https://www.sec.gov/Archives/edgar/data/72331/000007233121000064/,종가 226.13 × 주식수 58114553,22
+Nordson,NDSN,2021Q3,2021-10-31,분기별 매출액,599247000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/72331/000007233121000079/ ; https://www.sec.gov/Archives/edgar/data/72331/000007233121000064/,연간 2362209000 − 9개월누적 1762962000 (RevenueFromContractWithCustomerExcludingAssessedTax),22
+Nordson,NDSN,2021Q3,2021-10-31,분기별 영업이익,151435000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/72331/000007233121000079/ ; https://www.sec.gov/Archives/edgar/data/72331/000007233121000064/,연간 615127000 − 9개월누적 463692000 (OperatingIncomeLoss),22
+Nordson,NDSN,2021Q3,2021-10-31,분기별 당기순이익(지배),110460000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/72331/000007233121000079/ ; https://www.sec.gov/Archives/edgar/data/72331/000007233121000064/,연간 454368000 − 9개월누적 343908000 (NetIncomeLoss),22
+Nordson,NDSN,2021Q3,2021-10-31,분기별 영업활동현금흐름,170471000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/72331/000007233121000079/ ; https://www.sec.gov/Archives/edgar/data/72331/000007233121000064/,누적 545927000 − 직전누적 375456000 (시작 2020-11-01),22
+Nordson,NDSN,2021Q3,2021-10-31,분기말 자산총계,3790961000,USD,공시,https://www.sec.gov/Archives/edgar/data/72331/000007233121000079/,,22
+Nordson,NDSN,2021Q3,2021-10-31,분기말 부채총계,1631831000,USD,계산(부채및자본-총자본),https://www.sec.gov/Archives/edgar/data/72331/000007233121000079/,부채및자본 3790961000 − 총자본 2159130000,22
+Nordson,NDSN,2021Q3,2021-10-31,분기말 총자본(자기자본),2159130000,USD,공시,https://www.sec.gov/Archives/edgar/data/72331/000007233121000079/,,22
+Nordson,NDSN,2021Q3,2021-10-31,분기말 지배지분 자본,2159130000,USD,공시,https://www.sec.gov/Archives/edgar/data/72331/000007233121000079/,,22
+Nordson,NDSN,2021Q3,2021-10-29,분기말 종가,254.21,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/NDSN?interval=1d&events=splits (2021-10-29),,22
+Nordson,NDSN,2021Q3,2021-11-30,분기말 상장주식수,58176606,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/72331/000007233121000079/,dei:EntityCommonStockSharesOutstanding 클래스 합,22
+Nordson,NDSN,2021Q3,2021-10-29,분기말 시가총액,14789075011,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/NDSN?interval=1d&events=splits (2021-10-29) ; https://www.sec.gov/Archives/edgar/data/72331/000007233121000079/,종가 254.21 × 주식수 58176606,22
+Nordson,NDSN,2021Q4,2022-01-31,분기별 매출액,609166000,USD,공시,https://www.sec.gov/Archives/edgar/data/72331/000007233122000016/,,22
+Nordson,NDSN,2021Q4,2022-01-31,분기별 영업이익,155860000,USD,공시,https://www.sec.gov/Archives/edgar/data/72331/000007233122000016/,,22
+Nordson,NDSN,2021Q4,2022-01-31,분기별 당기순이익(지배),120409000,USD,공시,https://www.sec.gov/Archives/edgar/data/72331/000007233122000016/,,22
+Nordson,NDSN,2021Q4,2022-01-31,분기별 영업활동현금흐름,118087000,USD,공시,https://www.sec.gov/Archives/edgar/data/72331/000007233122000016/,,22
+Nordson,NDSN,2021Q4,2022-01-31,분기말 자산총계,3834990000,USD,공시,https://www.sec.gov/Archives/edgar/data/72331/000007233122000016/,,22
+Nordson,NDSN,2021Q4,2022-01-31,분기말 부채총계,1616362000,USD,계산(부채및자본-총자본),https://www.sec.gov/Archives/edgar/data/72331/000007233122000016/,부채및자본 3834990000 − 총자본 2218628000,22
+Nordson,NDSN,2021Q4,2022-01-31,분기말 총자본(자기자본),2218628000,USD,공시,https://www.sec.gov/Archives/edgar/data/72331/000007233122000016/,,22
+Nordson,NDSN,2021Q4,2022-01-31,분기말 지배지분 자본,2218628000,USD,공시,https://www.sec.gov/Archives/edgar/data/72331/000007233122000016/,,22
+Nordson,NDSN,2021Q4,2022-01-31,분기말 종가,232.54,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/NDSN?interval=1d&events=splits (2022-01-31),,22
+Nordson,NDSN,2021Q4,2022-02-22,분기말 상장주식수,57940570,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/72331/000007233122000016/,dei:EntityCommonStockSharesOutstanding 클래스 합,22
+Nordson,NDSN,2021Q4,2022-01-31,분기말 시가총액,13473500148,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/NDSN?interval=1d&events=splits (2022-01-31) ; https://www.sec.gov/Archives/edgar/data/72331/000007233122000016/,종가 232.54 × 주식수 57940570,22
+Nordson,NDSN,2022Q1,2022-04-30,분기별 매출액,635403000,USD,공시,https://www.sec.gov/Archives/edgar/data/72331/000007233122000038/,,22
+Nordson,NDSN,2022Q1,2022-04-30,분기별 영업이익,183973000,USD,공시,https://www.sec.gov/Archives/edgar/data/72331/000007233122000038/,,22
+Nordson,NDSN,2022Q1,2022-04-30,분기별 당기순이익(지배),109634000,USD,공시,https://www.sec.gov/Archives/edgar/data/72331/000007233122000038/,,22
+Nordson,NDSN,2022Q1,2022-04-30,분기별 영업활동현금흐름,96414000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/72331/000007233122000038/ ; https://www.sec.gov/Archives/edgar/data/72331/000007233122000016/,누적 214501000 − 직전누적 118087000 (시작 2021-11-01),22
+Nordson,NDSN,2022Q1,2022-04-30,분기말 자산총계,3796343000,USD,공시,https://www.sec.gov/Archives/edgar/data/72331/000007233122000038/,,22
+Nordson,NDSN,2022Q1,2022-04-30,분기말 부채총계,1605727000,USD,계산(부채및자본-총자본),https://www.sec.gov/Archives/edgar/data/72331/000007233122000038/,부채및자본 3796343000 − 총자본 2190616000,22
+Nordson,NDSN,2022Q1,2022-04-30,분기말 총자본(자기자본),2190616000,USD,공시,https://www.sec.gov/Archives/edgar/data/72331/000007233122000038/,,22
+Nordson,NDSN,2022Q1,2022-04-30,분기말 지배지분 자본,2190616000,USD,공시,https://www.sec.gov/Archives/edgar/data/72331/000007233122000038/,,22
+Nordson,NDSN,2022Q1,2022-04-29,분기말 종가,215.69,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/NDSN?interval=1d&events=splits (2022-04-29),,22
+Nordson,NDSN,2022Q1,2022-05-25,분기말 상장주식수,57511790,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/72331/000007233122000038/,dei:EntityCommonStockSharesOutstanding 클래스 합,22
+Nordson,NDSN,2022Q1,2022-04-29,분기말 시가총액,12404717985,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/NDSN?interval=1d&events=splits (2022-04-29) ; https://www.sec.gov/Archives/edgar/data/72331/000007233122000038/,종가 215.69 × 주식수 57511790,22
+Nordson,NDSN,2022Q2,2022-07-31,분기별 매출액,662128000,USD,공시,https://www.sec.gov/Archives/edgar/data/72331/000007233122000083/,,22
+Nordson,NDSN,2022Q2,2022-07-31,분기별 영업이익,184918000,USD,공시,https://www.sec.gov/Archives/edgar/data/72331/000007233122000083/,,22
+Nordson,NDSN,2022Q2,2022-07-31,분기별 당기순이익(지배),141811000,USD,공시,https://www.sec.gov/Archives/edgar/data/72331/000007233122000083/,,22
+Nordson,NDSN,2022Q2,2022-07-31,분기별 영업활동현금흐름,125190000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/72331/000007233122000083/ ; https://www.sec.gov/Archives/edgar/data/72331/000007233122000038/,누적 339691000 − 직전누적 214501000 (시작 2021-11-01),22
+Nordson,NDSN,2022Q2,2022-07-31,분기말 자산총계,3823824000,USD,공시,https://www.sec.gov/Archives/edgar/data/72331/000007233122000083/,,22
+Nordson,NDSN,2022Q2,2022-07-31,분기말 부채총계,1624779000,USD,계산(부채및자본-총자본),https://www.sec.gov/Archives/edgar/data/72331/000007233122000083/,부채및자본 3823824000 − 총자본 2199045000,22
+Nordson,NDSN,2022Q2,2022-07-31,분기말 총자본(자기자본),2199045000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/72331/000007233122000083/,"StockholdersEquity, MinorityInterest 태그 없음",22
+Nordson,NDSN,2022Q2,2022-07-31,분기말 지배지분 자본,2199045000,USD,공시,https://www.sec.gov/Archives/edgar/data/72331/000007233122000083/,,22
+Nordson,NDSN,2022Q2,2022-07-29,분기말 종가,230.99,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/NDSN?interval=1d&events=splits (2022-07-29),,22
+Nordson,NDSN,2022Q2,2022-08-23,분기말 상장주식수,57210696,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/72331/000007233122000083/,dei:EntityCommonStockSharesOutstanding 클래스 합,22
+Nordson,NDSN,2022Q2,2022-07-29,분기말 시가총액,13215098669,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/NDSN?interval=1d&events=splits (2022-07-29) ; https://www.sec.gov/Archives/edgar/data/72331/000007233122000083/,종가 230.99 × 주식수 57210696,22
+Nordson,NDSN,2022Q3,2022-10-31,분기별 매출액,683581000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/72331/000007233122000185/ ; https://www.sec.gov/Archives/edgar/data/72331/000007233122000083/,연간 2590278000 − 9개월누적 1906697000 (RevenueFromContractWithCustomerExcludingAssessedTax),22
+Nordson,NDSN,2022Q3,2022-10-31,분기별 영업이익,177609000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/72331/000007233122000185/ ; https://www.sec.gov/Archives/edgar/data/72331/000007233122000083/,연간 702360000 − 9개월누적 524751000 (OperatingIncomeLoss),22
+Nordson,NDSN,2022Q3,2022-10-31,분기별 당기순이익(지배),141249000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/72331/000007233122000185/ ; https://www.sec.gov/Archives/edgar/data/72331/000007233122000083/,연간 513103000 − 9개월누적 371854000 (NetIncomeLoss),22
+Nordson,NDSN,2022Q3,2022-10-31,분기별 영업활동현금흐름,173440000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/72331/000007233122000185/ ; https://www.sec.gov/Archives/edgar/data/72331/000007233122000083/,누적 513131000 − 직전누적 339691000 (시작 2021-11-01),22
+Nordson,NDSN,2022Q3,2022-10-31,분기말 자산총계,3820375000,USD,공시,https://www.sec.gov/Archives/edgar/data/72331/000007233122000185/,,22
+Nordson,NDSN,2022Q3,2022-10-31,분기말 부채총계,1526000000,USD,계산(부채및자본-총자본),https://www.sec.gov/Archives/edgar/data/72331/000007233122000185/,부채및자본 3820375000 − 총자본 2294375000,22
+Nordson,NDSN,2022Q3,2022-10-31,분기말 총자본(자기자본),2294375000,USD,공시,https://www.sec.gov/Archives/edgar/data/72331/000007233122000185/,,22
+Nordson,NDSN,2022Q3,2022-10-31,분기말 지배지분 자본,2294375000,USD,공시,https://www.sec.gov/Archives/edgar/data/72331/000007233122000185/,,22
+Nordson,NDSN,2022Q3,2022-10-31,분기말 종가,225.0,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/NDSN?interval=1d&events=splits (2022-10-31),,22
+Nordson,NDSN,2022Q3,2022-11-30,분기말 상장주식수,57156824,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/72331/000007233122000185/,dei:EntityCommonStockSharesOutstanding 클래스 합,22
+Nordson,NDSN,2022Q3,2022-10-31,분기말 시가총액,12860285400,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/NDSN?interval=1d&events=splits (2022-10-31) ; https://www.sec.gov/Archives/edgar/data/72331/000007233122000185/,종가 225.0 × 주식수 57156824,22
+Nordson,NDSN,2022Q4,2023-01-31,분기별 매출액,610477000,USD,공시,https://www.sec.gov/Archives/edgar/data/72331/000007233123000045/,,22
+Nordson,NDSN,2022Q4,2023-01-31,분기별 영업이익,144219000,USD,공시,https://www.sec.gov/Archives/edgar/data/72331/000007233123000045/,,22
+Nordson,NDSN,2022Q4,2023-01-31,분기별 당기순이익(지배),104261000,USD,공시,https://www.sec.gov/Archives/edgar/data/72331/000007233123000045/,,22
+Nordson,NDSN,2022Q4,2023-01-31,분기별 영업활동현금흐름,123337000,USD,공시,https://www.sec.gov/Archives/edgar/data/72331/000007233123000045/,,22
+Nordson,NDSN,2022Q4,2023-01-31,분기말 자산총계,4237423000,USD,공시,https://www.sec.gov/Archives/edgar/data/72331/000007233123000045/,,22
+Nordson,NDSN,2022Q4,2023-01-31,분기말 부채총계,1790738000,USD,계산(부채및자본-총자본),https://www.sec.gov/Archives/edgar/data/72331/000007233123000045/,부채및자본 4237423000 − 총자본 2446685000,22
+Nordson,NDSN,2022Q4,2023-01-31,분기말 총자본(자기자본),2446685000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/72331/000007233123000045/,"StockholdersEquity, MinorityInterest 태그 없음",22
+Nordson,NDSN,2022Q4,2023-01-31,분기말 지배지분 자본,2446685000,USD,공시,https://www.sec.gov/Archives/edgar/data/72331/000007233123000045/,,22
+Nordson,NDSN,2022Q4,2023-01-31,분기말 종가,243.3,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/NDSN?interval=1d&events=splits (2023-01-31),,22
+Nordson,NDSN,2022Q4,2023-02-21,분기말 상장주식수,57260973,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/72331/000007233123000045/,dei:EntityCommonStockSharesOutstanding 클래스 합,22
+Nordson,NDSN,2022Q4,2023-01-31,분기말 시가총액,13931594731,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/NDSN?interval=1d&events=splits (2023-01-31) ; https://www.sec.gov/Archives/edgar/data/72331/000007233123000045/,종가 243.3 × 주식수 57260973,22
+Nordson,NDSN,2023Q1,2023-04-30,분기별 매출액,650165000,USD,공시,https://www.sec.gov/Archives/edgar/data/72331/000007233123000099/,,22
+Nordson,NDSN,2023Q1,2023-04-30,분기별 영업이익,172507000,USD,공시,https://www.sec.gov/Archives/edgar/data/72331/000007233123000099/,,22
+Nordson,NDSN,2023Q1,2023-04-30,분기별 당기순이익(지배),127563000,USD,공시,https://www.sec.gov/Archives/edgar/data/72331/000007233123000099/,,22
+Nordson,NDSN,2023Q1,2023-04-30,분기별 영업활동현금흐름,164568000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/72331/000007233123000099/ ; https://www.sec.gov/Archives/edgar/data/72331/000007233123000045/,누적 287905000 − 직전누적 123337000 (시작 2022-11-01),22
+Nordson,NDSN,2023Q1,2023-04-30,분기말 자산총계,4193115000,USD,공시,https://www.sec.gov/Archives/edgar/data/72331/000007233123000099/,,22
+Nordson,NDSN,2023Q1,2023-04-30,분기말 부채총계,1696113000,USD,계산(부채및자본-총자본),https://www.sec.gov/Archives/edgar/data/72331/000007233123000099/,부채및자본 4193115000 − 총자본 2497002000,22
+Nordson,NDSN,2023Q1,2023-04-30,분기말 총자본(자기자본),2497002000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/72331/000007233123000099/,"StockholdersEquity, MinorityInterest 태그 없음",22
+Nordson,NDSN,2023Q1,2023-04-30,분기말 지배지분 자본,2497002000,USD,공시,https://www.sec.gov/Archives/edgar/data/72331/000007233123000099/,,22
+Nordson,NDSN,2023Q1,2023-04-28,분기말 종가,216.31,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/NDSN?interval=1d&events=splits (2023-04-28),,22
+Nordson,NDSN,2023Q1,2023-05-19,분기말 상장주식수,56991070,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/72331/000007233123000099/,dei:EntityCommonStockSharesOutstanding 클래스 합,22
+Nordson,NDSN,2023Q1,2023-04-28,분기말 시가총액,12327738352,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/NDSN?interval=1d&events=splits (2023-04-28) ; https://www.sec.gov/Archives/edgar/data/72331/000007233123000099/,종가 216.31 × 주식수 56991070,22
+Nordson,NDSN,2023Q2,2023-07-31,분기별 매출액,648677000,USD,공시,https://www.sec.gov/Archives/edgar/data/72331/000007233123000148/,,22
+Nordson,NDSN,2023Q2,2023-07-31,분기별 영업이익,170996000,USD,공시,https://www.sec.gov/Archives/edgar/data/72331/000007233123000148/,,22
+Nordson,NDSN,2023Q2,2023-07-31,분기별 당기순이익(지배),127891000,USD,공시,https://www.sec.gov/Archives/edgar/data/72331/000007233123000148/,,22
+Nordson,NDSN,2023Q2,2023-07-31,분기별 영업활동현금흐름,190167000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/72331/000007233123000148/ ; https://www.sec.gov/Archives/edgar/data/72331/000007233123000099/,누적 478072000 − 직전누적 287905000 (시작 2022-11-01),22
+Nordson,NDSN,2023Q2,2023-07-31,분기말 자산총계,4197032000,USD,공시,https://www.sec.gov/Archives/edgar/data/72331/000007233123000148/,,22
+Nordson,NDSN,2023Q2,2023-07-31,분기말 부채총계,1617226000,USD,계산(부채및자본-총자본),https://www.sec.gov/Archives/edgar/data/72331/000007233123000148/,부채및자본 4197032000 − 총자본 2579806000,22
+Nordson,NDSN,2023Q2,2023-07-31,분기말 총자본(자기자본),2579806000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/72331/000007233123000148/,"StockholdersEquity, MinorityInterest 태그 없음",22
+Nordson,NDSN,2023Q2,2023-07-31,분기말 지배지분 자본,2579806000,USD,공시,https://www.sec.gov/Archives/edgar/data/72331/000007233123000148/,,22
+Nordson,NDSN,2023Q2,2023-07-31,분기말 종가,251.61,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/NDSN?interval=1d&events=splits (2023-07-31),,22
+Nordson,NDSN,2023Q2,2023-08-22,분기말 상장주식수,57014497,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/72331/000007233123000148/,dei:EntityCommonStockSharesOutstanding 클래스 합,22
+Nordson,NDSN,2023Q2,2023-07-31,분기말 시가총액,14345417590,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/NDSN?interval=1d&events=splits (2023-07-31) ; https://www.sec.gov/Archives/edgar/data/72331/000007233123000148/,종가 251.61 × 주식수 57014497,22
+Nordson,NDSN,2023Q3,2023-10-31,분기별 매출액,719313000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/72331/000007233123000242/ ; https://www.sec.gov/Archives/edgar/data/72331/000007233123000148/,연간 2628632000 − 9개월누적 1909319000 (RevenueFromContractWithCustomerExcludingAssessedTax),22
+Nordson,NDSN,2023Q3,2023-10-31,분기별 영업이익,185039000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/72331/000007233123000242/ ; https://www.sec.gov/Archives/edgar/data/72331/000007233123000148/,연간 672761000 − 9개월누적 487722000 (OperatingIncomeLoss),22
+Nordson,NDSN,2023Q3,2023-10-31,분기별 당기순이익(지배),127778000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/72331/000007233123000242/ ; https://www.sec.gov/Archives/edgar/data/72331/000007233123000148/,연간 487493000 − 9개월누적 359715000 (NetIncomeLoss),22
+Nordson,NDSN,2023Q3,2023-10-31,분기별 영업활동현금흐름,163210000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/72331/000007233123000242/ ; https://www.sec.gov/Archives/edgar/data/72331/000007233123000148/,누적 641282000 − 직전누적 478072000 (시작 2022-11-01),22
+Nordson,NDSN,2023Q3,2023-10-31,분기말 자산총계,5251770000,USD,공시,https://www.sec.gov/Archives/edgar/data/72331/000007233123000242/,,22
+Nordson,NDSN,2023Q3,2023-10-31,분기말 부채총계,2653710000,USD,계산(부채및자본-총자본),https://www.sec.gov/Archives/edgar/data/72331/000007233123000242/,부채및자본 5251770000 − 총자본 2598060000,22
+Nordson,NDSN,2023Q3,2023-10-31,분기말 총자본(자기자본),2598060000,USD,공시,https://www.sec.gov/Archives/edgar/data/72331/000007233123000242/,,22
+Nordson,NDSN,2023Q3,2023-10-31,분기말 지배지분 자본,2598060000,USD,공시,https://www.sec.gov/Archives/edgar/data/72331/000007233123000242/,,22
+Nordson,NDSN,2023Q3,2023-10-31,분기말 종가,212.59,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/NDSN?interval=1d&events=splits (2023-10-31),,22
+Nordson,NDSN,2023Q3,2023-11-30,분기말 상장주식수,57016026,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/72331/000007233123000242/,dei:EntityCommonStockSharesOutstanding 클래스 합,22
+Nordson,NDSN,2023Q3,2023-10-31,분기말 시가총액,12121036967,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/NDSN?interval=1d&events=splits (2023-10-31) ; https://www.sec.gov/Archives/edgar/data/72331/000007233123000242/,종가 212.59 × 주식수 57016026,22
+Nordson,NDSN,2023Q4,2024-01-31,분기별 매출액,633193000,USD,공시,https://www.sec.gov/Archives/edgar/data/72331/000007233124000041/,,22
+Nordson,NDSN,2023Q4,2024-01-31,분기별 영업이익,159435000,USD,공시,https://www.sec.gov/Archives/edgar/data/72331/000007233124000041/,,22
+Nordson,NDSN,2023Q4,2024-01-31,분기별 당기순이익(지배),109572000,USD,공시,https://www.sec.gov/Archives/edgar/data/72331/000007233124000041/,,22
+Nordson,NDSN,2023Q4,2024-01-31,분기별 영업활동현금흐름,172356000,USD,공시,https://www.sec.gov/Archives/edgar/data/72331/000007233124000041/,,22
+Nordson,NDSN,2023Q4,2024-01-31,분기말 자산총계,5247077000,USD,공시,https://www.sec.gov/Archives/edgar/data/72331/000007233124000041/,,22
+Nordson,NDSN,2023Q4,2024-01-31,분기말 부채총계,2523110000,USD,계산(부채및자본-총자본),https://www.sec.gov/Archives/edgar/data/72331/000007233124000041/,부채및자본 5247077000 − 총자본 2723967000,22
+Nordson,NDSN,2023Q4,2024-01-31,분기말 총자본(자기자본),2723967000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/72331/000007233124000041/,"StockholdersEquity, MinorityInterest 태그 없음",22
+Nordson,NDSN,2023Q4,2024-01-31,분기말 지배지분 자본,2723967000,USD,공시,https://www.sec.gov/Archives/edgar/data/72331/000007233124000041/,,22
+Nordson,NDSN,2023Q4,2024-01-31,분기말 종가,251.72,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/NDSN?interval=1d&events=splits (2024-01-31),,22
+Nordson,NDSN,2023Q4,2024-02-20,분기말 상장주식수,57192245,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/72331/000007233124000041/,dei:EntityCommonStockSharesOutstanding 클래스 합,22
+Nordson,NDSN,2023Q4,2024-01-31,분기말 시가총액,14396431911,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/NDSN?interval=1d&events=splits (2024-01-31) ; https://www.sec.gov/Archives/edgar/data/72331/000007233124000041/,종가 251.72 × 주식수 57192245,22
+Nordson,NDSN,2024Q1,2024-04-30,분기별 매출액,650642000,USD,공시,https://www.sec.gov/Archives/edgar/data/72331/000007233124000075/,,22
+Nordson,NDSN,2024Q1,2024-04-30,분기별 영업이익,168616000,USD,공시,https://www.sec.gov/Archives/edgar/data/72331/000007233124000075/,,22
+Nordson,NDSN,2024Q1,2024-04-30,분기별 당기순이익(지배),118217000,USD,공시,https://www.sec.gov/Archives/edgar/data/72331/000007233124000075/,,22
+Nordson,NDSN,2024Q1,2024-04-30,분기별 영업활동현금흐름,122608000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/72331/000007233124000075/ ; https://www.sec.gov/Archives/edgar/data/72331/000007233124000041/,누적 294964000 − 직전누적 172356000 (시작 2023-11-01),22
+Nordson,NDSN,2024Q1,2024-04-30,분기말 자산총계,5171871000,USD,공시,https://www.sec.gov/Archives/edgar/data/72331/000007233124000075/,,22
+Nordson,NDSN,2024Q1,2024-04-30,분기말 부채총계,2383600000,USD,계산(부채및자본-총자본),https://www.sec.gov/Archives/edgar/data/72331/000007233124000075/,부채및자본 5171871000 − 총자본 2788271000,22
+Nordson,NDSN,2024Q1,2024-04-30,분기말 총자본(자기자본),2788271000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/72331/000007233124000075/,"StockholdersEquity, MinorityInterest 태그 없음",22
+Nordson,NDSN,2024Q1,2024-04-30,분기말 지배지분 자본,2788271000,USD,공시,https://www.sec.gov/Archives/edgar/data/72331/000007233124000075/,,22
+Nordson,NDSN,2024Q1,2024-04-30,분기말 종가,258.19,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/NDSN?interval=1d&events=splits (2024-04-30),,22
+Nordson,NDSN,2024Q1,2024-05-20,분기말 상장주식수,57268781,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/72331/000007233124000075/,dei:EntityCommonStockSharesOutstanding 클래스 합,22
+Nordson,NDSN,2024Q1,2024-04-30,분기말 시가총액,14786226566,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/NDSN?interval=1d&events=splits (2024-04-30) ; https://www.sec.gov/Archives/edgar/data/72331/000007233124000075/,종가 258.19 × 주식수 57268781,22
+Nordson,NDSN,2024Q2,2024-07-31,분기별 매출액,661604000,USD,공시,https://www.sec.gov/Archives/edgar/data/72331/000007233124000111/,,22
+Nordson,NDSN,2024Q2,2024-07-31,분기별 영업이익,167058000,USD,공시,https://www.sec.gov/Archives/edgar/data/72331/000007233124000111/,,22
+Nordson,NDSN,2024Q2,2024-07-31,분기별 당기순이익(지배),117327000,USD,공시,https://www.sec.gov/Archives/edgar/data/72331/000007233124000111/,,22
+Nordson,NDSN,2024Q2,2024-07-31,분기별 영업활동현금흐름,164848000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/72331/000007233124000111/ ; https://www.sec.gov/Archives/edgar/data/72331/000007233124000075/,누적 459812000 − 직전누적 294964000 (시작 2023-11-01),22
+Nordson,NDSN,2024Q2,2024-07-31,분기말 자산총계,5204370000,USD,공시,https://www.sec.gov/Archives/edgar/data/72331/000007233124000111/,,22
+Nordson,NDSN,2024Q2,2024-07-31,분기말 부채총계,2350613000,USD,계산(부채및자본-총자본),https://www.sec.gov/Archives/edgar/data/72331/000007233124000111/,부채및자본 5204370000 − 총자본 2853757000,22
+Nordson,NDSN,2024Q2,2024-07-31,분기말 총자본(자기자본),2853757000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/72331/000007233124000111/,"StockholdersEquity, MinorityInterest 태그 없음",22
+Nordson,NDSN,2024Q2,2024-07-31,분기말 지배지분 자본,2853757000,USD,공시,https://www.sec.gov/Archives/edgar/data/72331/000007233124000111/,,22
+Nordson,NDSN,2024Q2,2024-07-31,분기말 종가,250.33,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/NDSN?interval=1d&events=splits (2024-07-31),,22
+Nordson,NDSN,2024Q2,2024-08-20,분기말 상장주식수,57181533,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/72331/000007233124000111/,dei:EntityCommonStockSharesOutstanding 클래스 합,22
+Nordson,NDSN,2024Q2,2024-07-31,분기말 시가총액,14314253156,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/NDSN?interval=1d&events=splits (2024-07-31) ; https://www.sec.gov/Archives/edgar/data/72331/000007233124000111/,종가 250.33 × 주식수 57181533,22
+Nordson,NDSN,2024Q3,2024-10-31,분기별 매출액,744482000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/72331/000007233124000177/ ; https://www.sec.gov/Archives/edgar/data/72331/000007233124000111/,연간 2689921000 − 9개월누적 1945439000 (RevenueFromContractWithCustomerExcludingAssessedTax),22
+Nordson,NDSN,2024Q3,2024-10-31,분기별 영업이익,178892000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/72331/000007233124000177/ ; https://www.sec.gov/Archives/edgar/data/72331/000007233124000111/,연간 674001000 − 9개월누적 495109000 (OperatingIncomeLoss),22
+Nordson,NDSN,2024Q3,2024-10-31,분기별 당기순이익(지배),122168000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/72331/000007233124000177/ ; https://www.sec.gov/Archives/edgar/data/72331/000007233124000111/,연간 467284000 − 9개월누적 345116000 (NetIncomeLoss),22
+Nordson,NDSN,2024Q3,2024-10-31,분기별 영업활동현금흐름,96381000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/72331/000007233124000177/ ; https://www.sec.gov/Archives/edgar/data/72331/000007233124000111/,누적 556193000 − 직전누적 459812000 (시작 2023-11-01),22
+Nordson,NDSN,2024Q3,2024-10-31,분기말 자산총계,6000966000,USD,공시,https://www.sec.gov/Archives/edgar/data/72331/000007233124000177/,,22
+Nordson,NDSN,2024Q3,2024-10-31,분기말 부채총계,3068774000,USD,계산(부채및자본-총자본),https://www.sec.gov/Archives/edgar/data/72331/000007233124000177/,부채및자본 6000966000 − 총자본 2932192000,22
+Nordson,NDSN,2024Q3,2024-10-31,분기말 총자본(자기자본),2932192000,USD,공시,https://www.sec.gov/Archives/edgar/data/72331/000007233124000177/,,22
+Nordson,NDSN,2024Q3,2024-10-31,분기말 지배지분 자본,2932192000,USD,공시,https://www.sec.gov/Archives/edgar/data/72331/000007233124000177/,,22
+Nordson,NDSN,2024Q3,2024-10-31,분기말 종가,247.89,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/NDSN?interval=1d&events=splits (2024-10-31),,22
+Nordson,NDSN,2024Q3,2024-11-30,분기말 상장주식수,57016026,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/72331/000007233124000177/,dei:EntityCommonStockSharesOutstanding 클래스 합,22
+Nordson,NDSN,2024Q3,2024-10-31,분기말 시가총액,14133702685,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/NDSN?interval=1d&events=splits (2024-10-31) ; https://www.sec.gov/Archives/edgar/data/72331/000007233124000177/,종가 247.89 × 주식수 57016026,22
+Nordson,NDSN,2024Q4,2025-01-31,분기별 매출액,615420000,USD,공시,https://www.sec.gov/Archives/edgar/data/72331/000007233125000032/,,22
+Nordson,NDSN,2024Q4,2025-01-31,분기별 영업이익,140947000,USD,공시,https://www.sec.gov/Archives/edgar/data/72331/000007233125000032/,,22
+Nordson,NDSN,2024Q4,2025-01-31,분기별 당기순이익(지배),94652000,USD,공시,https://www.sec.gov/Archives/edgar/data/72331/000007233125000032/,,22
+Nordson,NDSN,2024Q4,2025-01-31,분기별 영업활동현금흐름,159122000,USD,공시,https://www.sec.gov/Archives/edgar/data/72331/000007233125000032/,,22
+Nordson,NDSN,2024Q4,2025-01-31,분기말 자산총계,5871526000,USD,공시,https://www.sec.gov/Archives/edgar/data/72331/000007233125000032/,,22
+Nordson,NDSN,2024Q4,2025-01-31,분기말 부채총계,2994915000,USD,계산(부채및자본-총자본),https://www.sec.gov/Archives/edgar/data/72331/000007233125000032/,부채및자본 5871526000 − 총자본 2876611000,22
+Nordson,NDSN,2024Q4,2025-01-31,분기말 총자본(자기자본),2876611000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/72331/000007233125000032/,"StockholdersEquity, MinorityInterest 태그 없음",22
+Nordson,NDSN,2024Q4,2025-01-31,분기말 지배지분 자본,2876611000,USD,공시,https://www.sec.gov/Archives/edgar/data/72331/000007233125000032/,,22
+Nordson,NDSN,2024Q4,2025-01-31,분기말 종가,220.22,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/NDSN?interval=1d&events=splits (2025-01-31),,22
+Nordson,NDSN,2024Q4,2025-02-18,분기말 상장주식수,56911738,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/72331/000007233125000032/,dei:EntityCommonStockSharesOutstanding 클래스 합,22
+Nordson,NDSN,2024Q4,2025-01-31,분기말 시가총액,12533102942,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/NDSN?interval=1d&events=splits (2025-01-31) ; https://www.sec.gov/Archives/edgar/data/72331/000007233125000032/,종가 220.22 × 주식수 56911738,22
+Nordson,NDSN,2025Q1,2025-04-30,분기별 매출액,682938000,USD,공시,https://www.sec.gov/Archives/edgar/data/72331/000007233125000057/,,22
+Nordson,NDSN,2025Q1,2025-04-30,분기별 영업이익,168750000,USD,공시,https://www.sec.gov/Archives/edgar/data/72331/000007233125000057/,,22
+Nordson,NDSN,2025Q1,2025-04-30,분기별 당기순이익(지배),112404000,USD,공시,https://www.sec.gov/Archives/edgar/data/72331/000007233125000057/,,22
+Nordson,NDSN,2025Q1,2025-04-30,분기별 영업활동현금흐름,119170000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/72331/000007233125000057/ ; https://www.sec.gov/Archives/edgar/data/72331/000007233125000032/,누적 278292000 − 직전누적 159122000 (시작 2024-11-01),22
+Nordson,NDSN,2025Q1,2025-04-30,분기말 자산총계,6062038000,USD,공시,https://www.sec.gov/Archives/edgar/data/72331/000007233125000057/,,22
+Nordson,NDSN,2025Q1,2025-04-30,분기말 부채총계,3101734000,USD,계산(부채및자본-총자본),https://www.sec.gov/Archives/edgar/data/72331/000007233125000057/,부채및자본 6062038000 − 총자본 2960304000,22
+Nordson,NDSN,2025Q1,2025-04-30,분기말 총자본(자기자본),2960304000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/72331/000007233125000057/,"StockholdersEquity, MinorityInterest 태그 없음",22
+Nordson,NDSN,2025Q1,2025-04-30,분기말 지배지분 자본,2960304000,USD,공시,https://www.sec.gov/Archives/edgar/data/72331/000007233125000057/,,22
+Nordson,NDSN,2025Q1,2025-04-30,분기말 종가,189.57,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/NDSN?interval=1d&events=splits (2025-04-30),,22
+Nordson,NDSN,2025Q1,2025-05-27,분기말 상장주식수,56508946,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/72331/000007233125000057/,dei:EntityCommonStockSharesOutstanding 클래스 합,22
+Nordson,NDSN,2025Q1,2025-04-30,분기말 시가총액,10712400893,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/NDSN?interval=1d&events=splits (2025-04-30) ; https://www.sec.gov/Archives/edgar/data/72331/000007233125000057/,종가 189.57 × 주식수 56508946,22
+Nordson,NDSN,2025Q2,2025-07-31,분기별 매출액,741509000,USD,공시,https://www.sec.gov/Archives/edgar/data/72331/000007233125000114/,,22
+Nordson,NDSN,2025Q2,2025-07-31,분기별 영업이익,187767000,USD,공시,https://www.sec.gov/Archives/edgar/data/72331/000007233125000114/,,22
+Nordson,NDSN,2025Q2,2025-07-31,분기별 당기순이익(지배),125784000,USD,공시,https://www.sec.gov/Archives/edgar/data/72331/000007233125000114/,,22
+Nordson,NDSN,2025Q2,2025-07-31,분기별 영업활동현금흐름,237972000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/72331/000007233125000114/ ; https://www.sec.gov/Archives/edgar/data/72331/000007233125000057/,누적 516264000 − 직전누적 278292000 (시작 2024-11-01),22
+Nordson,NDSN,2025Q2,2025-07-31,분기말 자산총계,6009713000,USD,공시,https://www.sec.gov/Archives/edgar/data/72331/000007233125000114/,,22
+Nordson,NDSN,2025Q2,2025-07-31,분기말 부채총계,3027928000,USD,계산(부채및자본-총자본),https://www.sec.gov/Archives/edgar/data/72331/000007233125000114/,부채및자본 6009713000 − 총자본 2981785000,22
+Nordson,NDSN,2025Q2,2025-07-31,분기말 총자본(자기자본),2981785000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/72331/000007233125000114/,"StockholdersEquity, MinorityInterest 태그 없음",22
+Nordson,NDSN,2025Q2,2025-07-31,분기말 지배지분 자본,2981785000,USD,공시,https://www.sec.gov/Archives/edgar/data/72331/000007233125000114/,,22
+Nordson,NDSN,2025Q2,2025-07-31,분기말 종가,214.21,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/NDSN?interval=1d&events=splits (2025-07-31),,22
+Nordson,NDSN,2025Q2,2025-08-18,분기말 상장주식수,56186303,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/72331/000007233125000114/,dei:EntityCommonStockSharesOutstanding 클래스 합,22
+Nordson,NDSN,2025Q2,2025-07-31,분기말 시가총액,12035667966,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/NDSN?interval=1d&events=splits (2025-07-31) ; https://www.sec.gov/Archives/edgar/data/72331/000007233125000114/,종가 214.21 × 주식수 56186303,22
+Nordson,NDSN,2025Q3,2025-10-31,분기별 매출액,751820000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/72331/000007233125000144/ ; https://www.sec.gov/Archives/edgar/data/72331/000007233125000114/,연간 2791687000 − 9개월누적 2039867000 (RevenueFromContractWithCustomerExcludingAssessedTax),22
+Nordson,NDSN,2025Q3,2025-10-31,분기별 영업이익,214261000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/72331/000007233125000144/ ; https://www.sec.gov/Archives/edgar/data/72331/000007233125000114/,연간 711725000 − 9개월누적 497464000 (OperatingIncomeLoss),22
+Nordson,NDSN,2025Q3,2025-10-31,분기별 당기순이익(지배),151634000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/72331/000007233125000144/ ; https://www.sec.gov/Archives/edgar/data/72331/000007233125000114/,연간 484474000 − 9개월누적 332840000 (NetIncomeLoss),22
+Nordson,NDSN,2025Q3,2025-10-31,분기별 영업활동현금흐름,202911000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/72331/000007233125000144/ ; https://www.sec.gov/Archives/edgar/data/72331/000007233125000114/,누적 719175000 − 직전누적 516264000 (시작 2024-11-01),22
+Nordson,NDSN,2025Q3,2025-10-31,분기말 자산총계,5917681000,USD,공시,https://www.sec.gov/Archives/edgar/data/72331/000007233125000144/,,22
+Nordson,NDSN,2025Q3,2025-10-31,분기말 부채총계,2874110000,USD,계산(부채및자본-총자본),https://www.sec.gov/Archives/edgar/data/72331/000007233125000144/,부채및자본 5917681000 − 총자본 3043571000,22
+Nordson,NDSN,2025Q3,2025-10-31,분기말 총자본(자기자본),3043571000,USD,공시,https://www.sec.gov/Archives/edgar/data/72331/000007233125000144/,,22
+Nordson,NDSN,2025Q3,2025-10-31,분기말 지배지분 자본,3043571000,USD,공시,https://www.sec.gov/Archives/edgar/data/72331/000007233125000144/,,22
+Nordson,NDSN,2025Q3,2025-10-31,분기말 종가,231.95,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/NDSN?interval=1d&events=splits (2025-10-31),,22
+Nordson,NDSN,2025Q3,2025-11-30,분기말 상장주식수,55823516,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/72331/000007233125000144/,dei:EntityCommonStockSharesOutstanding 클래스 합,22
+Nordson,NDSN,2025Q3,2025-10-31,분기말 시가총액,12948264536,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/NDSN?interval=1d&events=splits (2025-10-31) ; https://www.sec.gov/Archives/edgar/data/72331/000007233125000144/,종가 231.95 × 주식수 55823516,22
+Nordson,NDSN,2025Q4,2026-01-31,분기별 매출액,669461000,USD,공시,https://www.sec.gov/Archives/edgar/data/72331/000007233126000014/,,22
+Nordson,NDSN,2025Q4,2026-01-31,분기별 영업이익,166405000,USD,공시,https://www.sec.gov/Archives/edgar/data/72331/000007233126000014/,,22
+Nordson,NDSN,2025Q4,2026-01-31,분기별 당기순이익(지배),133382000,USD,공시,https://www.sec.gov/Archives/edgar/data/72331/000007233126000014/,,22
+Nordson,NDSN,2025Q4,2026-01-31,분기별 영업활동현금흐름,140428000,USD,공시,https://www.sec.gov/Archives/edgar/data/72331/000007233126000014/,,22
+Nordson,NDSN,2025Q4,2026-01-31,분기말 자산총계,5960922000,USD,공시,https://www.sec.gov/Archives/edgar/data/72331/000007233126000014/,,22
+Nordson,NDSN,2025Q4,2026-01-31,분기말 부채총계,2848816000,USD,계산(부채및자본-총자본),https://www.sec.gov/Archives/edgar/data/72331/000007233126000014/,부채및자본 5960922000 − 총자본 3112106000,22
+Nordson,NDSN,2025Q4,2026-01-31,분기말 총자본(자기자본),3112106000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/72331/000007233126000014/,"StockholdersEquity, MinorityInterest 태그 없음",22
+Nordson,NDSN,2025Q4,2026-01-31,분기말 지배지분 자본,3112106000,USD,공시,https://www.sec.gov/Archives/edgar/data/72331/000007233126000014/,,22
+Nordson,NDSN,2025Q4,2026-01-30,분기말 종가,274.53,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/NDSN?interval=1d&events=splits (2026-01-30),,22
+Nordson,NDSN,2025Q4,2026-02-18,분기말 상장주식수,55783598,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/72331/000007233126000014/,dei:EntityCommonStockSharesOutstanding 클래스 합,22
+Nordson,NDSN,2025Q4,2026-01-30,분기말 시가총액,15314271159,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/NDSN?interval=1d&events=splits (2026-01-30) ; https://www.sec.gov/Archives/edgar/data/72331/000007233126000014/,종가 274.53 × 주식수 55783598,22
+Nordson,NDSN,2026Q1,2026-04-30,분기별 매출액,740847000,USD,공시,https://www.sec.gov/Archives/edgar/data/72331/000007233126000024/,,22
+Nordson,NDSN,2026Q1,2026-04-30,분기별 영업이익,197203000,USD,공시,https://www.sec.gov/Archives/edgar/data/72331/000007233126000024/,,22
+Nordson,NDSN,2026Q1,2026-04-30,분기별 당기순이익(지배),117316000,USD,공시,https://www.sec.gov/Archives/edgar/data/72331/000007233126000024/,,22
+Nordson,NDSN,2026Q1,2026-04-30,분기별 영업활동현금흐름,180673000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/72331/000007233126000024/ ; https://www.sec.gov/Archives/edgar/data/72331/000007233126000014/,누적 321101000 − 직전누적 140428000 (시작 2025-11-01),22
+Nordson,NDSN,2026Q1,2026-04-30,분기말 자산총계,5964418000,USD,공시,https://www.sec.gov/Archives/edgar/data/72331/000007233126000024/,,22
+Nordson,NDSN,2026Q1,2026-04-30,분기말 부채총계,2762183000,USD,계산(부채및자본-총자본),https://www.sec.gov/Archives/edgar/data/72331/000007233126000024/,부채및자본 5964418000 − 총자본 3202235000,22
+Nordson,NDSN,2026Q1,2026-04-30,분기말 총자본(자기자본),3202235000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/72331/000007233126000024/,"StockholdersEquity, MinorityInterest 태그 없음",22
+Nordson,NDSN,2026Q1,2026-04-30,분기말 지배지분 자본,3202235000,USD,공시,https://www.sec.gov/Archives/edgar/data/72331/000007233126000024/,,22
+Nordson,NDSN,2026Q1,2026-04-30,분기말 종가,288.45,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/NDSN?interval=1d&events=splits (2026-04-30),,22
+Nordson,NDSN,2026Q1,2026-05-19,분기말 상장주식수,55717948,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/72331/000007233126000024/,dei:EntityCommonStockSharesOutstanding 클래스 합,22
+Nordson,NDSN,2026Q1,2026-04-30,분기말 시가총액,16071842101,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/NDSN?interval=1d&events=splits (2026-04-30) ; https://www.sec.gov/Archives/edgar/data/72331/000007233126000024/,종가 288.45 × 주식수 55717948,22
+Nordson,NDSN,2026Q2,2026-07-31,분기별 매출액,817667000,USD,공시,https://www.sec.gov/Archives/edgar/data/72331/000007233126000054/,,22
+Nordson,NDSN,2026Q2,2026-07-31,분기별 영업이익,223092000,USD,공시,https://www.sec.gov/Archives/edgar/data/72331/000007233126000054/,,22
+Nordson,NDSN,2026Q2,2026-07-31,분기별 당기순이익(지배),152846000,USD,공시,https://www.sec.gov/Archives/edgar/data/72331/000007233126000054/,,22
+Nordson,NDSN,2026Q2,2026-07-31,분기별 영업활동현금흐름,249372000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/72331/000007233126000054/ ; https://www.sec.gov/Archives/edgar/data/72331/000007233126000024/,누적 570473000 − 직전누적 321101000 (시작 2025-11-01),22
+Nordson,NDSN,2026Q2,2026-07-31,분기말 자산총계,5947920000,USD,공시,https://www.sec.gov/Archives/edgar/data/72331/000007233126000054/,,22
+Nordson,NDSN,2026Q2,2026-07-31,분기말 부채총계,2678861000,USD,계산(부채및자본-총자본),https://www.sec.gov/Archives/edgar/data/72331/000007233126000054/,부채및자본 5947920000 − 총자본 3269059000,22
+Nordson,NDSN,2026Q2,2026-07-31,분기말 총자본(자기자본),3269059000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/72331/000007233126000054/,"StockholdersEquity, MinorityInterest 태그 없음",22
+Nordson,NDSN,2026Q2,2026-07-31,분기말 지배지분 자본,3269059000,USD,공시,https://www.sec.gov/Archives/edgar/data/72331/000007233126000054/,,22
+Nordson,NDSN,2026Q2,2026-07-31,분기말 종가,297.78,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/NDSN?interval=1d&events=splits (2026-07-31),,22
+Nordson,NDSN,2026Q2,2026-08-18,분기말 상장주식수,55699366,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/72331/000007233126000054/,dei:EntityCommonStockSharesOutstanding 클래스 합,22
+Nordson,NDSN,2026Q2,2026-07-31,분기말 시가총액,16586157207,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/NDSN?interval=1d&events=splits (2026-07-31) ; https://www.sec.gov/Archives/edgar/data/72331/000007233126000054/,종가 297.78 × 주식수 55699366,22

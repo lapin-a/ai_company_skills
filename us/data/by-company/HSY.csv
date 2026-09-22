@@ -1,0 +1,727 @@
+﻿기업,종목코드,기간,기준일,항목,값,통화,값구분,출처,검산,라운드
+Hershey,HSY,2010Q1,2010-04-04,분기별 매출액,1407843000,USD,공시,https://www.sec.gov/Archives/edgar/data/47111/000004711110000018/,,13
+Hershey,HSY,2010Q1,2010-04-04,분기별 영업이익,미확인,USD,미확인,https://www.sec.gov/Archives/edgar/data/47111/000004711110000018/,,13
+Hershey,HSY,2010Q1,2010-04-04,분기별 당기순이익(지배),147394000,USD,공시,https://www.sec.gov/Archives/edgar/data/47111/000004711110000018/,,13
+Hershey,HSY,2010Q1,2010-04-04,분기별 영업활동현금흐름,181186000,USD,공시,https://www.sec.gov/Archives/edgar/data/47111/000004711110000018/,,13
+Hershey,HSY,2010Q1,2010-04-04,분기말 자산총계,3698687000,USD,공시,https://www.sec.gov/Archives/edgar/data/47111/000004711110000018/,,13
+Hershey,HSY,2010Q1,2010-04-04,분기말 부채총계,2909622000,USD,공시,https://www.sec.gov/Archives/edgar/data/47111/000004711110000018/,,13
+Hershey,HSY,2010Q1,2010-04-04,분기말 총자본(자기자본),789065000,USD,계산(지배+비지배),https://www.sec.gov/Archives/edgar/data/47111/000004711110000018/,지배 752217000 + 비지배 36848000,13
+Hershey,HSY,2010Q1,2010-04-04,분기말 지배지분 자본,752217000,USD,공시,https://www.sec.gov/Archives/edgar/data/47111/000004711110000018/,,13
+Hershey,HSY,2010Q1,2010-04-01,분기말 종가,43.06,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/HSY?interval=1d&events=splits (2010-04-01),,13
+Hershey,HSY,2010Q1,2010-04-04,분기말 상장주식수,227202637,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/47111/000004711110000018/,dei:EntityCommonStockSharesOutstanding 클래스 합,13
+Hershey,HSY,2010Q1,2010-04-01,분기말 시가총액,9783345549,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/HSY?interval=1d&events=splits (2010-04-01) ; https://www.sec.gov/Archives/edgar/data/47111/000004711110000018/,종가 43.06 × 주식수 227202637,13
+Hershey,HSY,2010Q2,2010-07-04,분기별 매출액,1233242000,USD,공시,https://www.sec.gov/Archives/edgar/data/47111/000004711110000031/,,13
+Hershey,HSY,2010Q2,2010-07-04,분기별 영업이익,미확인,USD,미확인,https://www.sec.gov/Archives/edgar/data/47111/000004711110000031/,,13
+Hershey,HSY,2010Q2,2010-07-04,분기별 당기순이익(지배),46723000,USD,공시,https://www.sec.gov/Archives/edgar/data/47111/000004711110000031/,,13
+Hershey,HSY,2010Q2,2010-07-04,분기별 영업활동현금흐름,83662000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/47111/000004711110000031/ ; https://www.sec.gov/Archives/edgar/data/47111/000004711110000018/,누적 264848000 − 직전누적 181186000 (시작 2010-01-01),13
+Hershey,HSY,2010Q2,2010-07-04,분기말 자산총계,3619987000,USD,공시,https://www.sec.gov/Archives/edgar/data/47111/000004711110000031/,,13
+Hershey,HSY,2010Q2,2010-07-04,분기말 부채총계,2887485000,USD,공시,https://www.sec.gov/Archives/edgar/data/47111/000004711110000031/,,13
+Hershey,HSY,2010Q2,2010-07-04,분기말 총자본(자기자본),732502000,USD,계산(지배+비지배),https://www.sec.gov/Archives/edgar/data/47111/000004711110000031/,지배 697368000 + 비지배 35134000,13
+Hershey,HSY,2010Q2,2010-07-04,분기말 지배지분 자본,697368000,USD,공시,https://www.sec.gov/Archives/edgar/data/47111/000004711110000031/,,13
+Hershey,HSY,2010Q2,2010-07-02,분기말 종가,48.21,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/HSY?interval=1d&events=splits (2010-07-02),,13
+Hershey,HSY,2010Q2,2010-07-04,분기말 상장주식수,227048234,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/47111/000004711110000031/,dei:EntityCommonStockSharesOutstanding 클래스 합,13
+Hershey,HSY,2010Q2,2010-07-02,분기말 시가총액,10945995361,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/HSY?interval=1d&events=splits (2010-07-02) ; https://www.sec.gov/Archives/edgar/data/47111/000004711110000031/,종가 48.21 × 주식수 227048234,13
+Hershey,HSY,2010Q3,2010-10-03,분기별 매출액,1547115000,USD,공시,https://www.sec.gov/Archives/edgar/data/47111/000004711110000052/,,13
+Hershey,HSY,2010Q3,2010-10-03,분기별 영업이익,미확인,USD,미확인,https://www.sec.gov/Archives/edgar/data/47111/000004711110000052/,,13
+Hershey,HSY,2010Q3,2010-10-03,분기별 당기순이익(지배),180169000,USD,공시,https://www.sec.gov/Archives/edgar/data/47111/000004711110000052/,,13
+Hershey,HSY,2010Q3,2010-10-03,분기별 영업활동현금흐름,123351000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/47111/000004711110000052/ ; https://www.sec.gov/Archives/edgar/data/47111/000004711110000031/,누적 388199000 − 직전누적 264848000 (시작 2010-01-01),13
+Hershey,HSY,2010Q3,2010-10-03,분기말 자산총계,3886943000,USD,공시,https://www.sec.gov/Archives/edgar/data/47111/000004711110000052/,,13
+Hershey,HSY,2010Q3,2010-10-03,분기말 부채총계,3024006000,USD,공시,https://www.sec.gov/Archives/edgar/data/47111/000004711110000052/,,13
+Hershey,HSY,2010Q3,2010-10-03,분기말 총자본(자기자본),862937000,USD,계산(지배+비지배),https://www.sec.gov/Archives/edgar/data/47111/000004711110000052/,지배 826749000 + 비지배 36188000,13
+Hershey,HSY,2010Q3,2010-10-03,분기말 지배지분 자본,826749000,USD,공시,https://www.sec.gov/Archives/edgar/data/47111/000004711110000052/,,13
+Hershey,HSY,2010Q3,2010-10-01,분기말 종가,47.79,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/HSY?interval=1d&events=splits (2010-10-01),,13
+Hershey,HSY,2010Q3,2010-10-03,분기말 상장주식수,227295729,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/47111/000004711110000052/,dei:EntityCommonStockSharesOutstanding 클래스 합,13
+Hershey,HSY,2010Q3,2010-10-01,분기말 시가총액,10862462889,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/HSY?interval=1d&events=splits (2010-10-01) ; https://www.sec.gov/Archives/edgar/data/47111/000004711110000052/,종가 47.79 × 주식수 227295729,13
+Hershey,HSY,2010Q4,2010-12-31,분기별 매출액,1482809000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/47111/000119312511039789/ ; https://www.sec.gov/Archives/edgar/data/47111/000004711110000052/,연간 5671009000 − 9개월누적 4188200000 (SalesRevenueNet),13
+Hershey,HSY,2010Q4,2010-12-31,분기별 영업이익,미확인,USD,미확인,https://www.sec.gov/Archives/edgar/data/47111/000119312511039789/,,13
+Hershey,HSY,2010Q4,2010-12-31,분기별 당기순이익(지배),135513000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/47111/000119312511039789/ ; https://www.sec.gov/Archives/edgar/data/47111/000004711110000052/,연간 509799000 − 9개월누적 374286000 (NetIncomeLoss),13
+Hershey,HSY,2010Q4,2010-12-31,분기별 영업활동현금흐름,513224000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/47111/000119312511039789/ ; https://www.sec.gov/Archives/edgar/data/47111/000004711110000052/,누적 901423000 − 직전누적 388199000 (시작 2010-01-01),13
+Hershey,HSY,2010Q4,2010-12-31,분기말 자산총계,4272732000,USD,공시,https://www.sec.gov/Archives/edgar/data/47111/000119312511039789/,,13
+Hershey,HSY,2010Q4,2010-12-31,분기말 부채총계,3335131000,USD,공시,https://www.sec.gov/Archives/edgar/data/47111/000119312511039789/,,13
+Hershey,HSY,2010Q4,2010-12-31,분기말 총자본(자기자본),937601000,USD,공시,https://www.sec.gov/Archives/edgar/data/47111/000119312511039789/,,13
+Hershey,HSY,2010Q4,2010-12-31,분기말 지배지분 자본,902316000,USD,공시,https://www.sec.gov/Archives/edgar/data/47111/000119312511039789/,,13
+Hershey,HSY,2010Q4,2010-12-31,분기말 종가,47.15,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/HSY?interval=1d&events=splits (2010-12-31),,13
+Hershey,HSY,2010Q4,2011-02-09,분기말 상장주식수,227201799,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/47111/000119312511039789/,dei:EntityCommonStockSharesOutstanding 클래스 합,13
+Hershey,HSY,2010Q4,2010-12-31,분기말 시가총액,10712564823,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/HSY?interval=1d&events=splits (2010-12-31) ; https://www.sec.gov/Archives/edgar/data/47111/000119312511039789/,종가 47.15 × 주식수 227201799,13
+Hershey,HSY,2011Q1,2011-04-03,분기별 매출액,1564223000,USD,공시,https://www.sec.gov/Archives/edgar/data/47111/000004711111000041/,,13
+Hershey,HSY,2011Q1,2011-04-03,분기별 영업이익,미확인,USD,미확인,https://www.sec.gov/Archives/edgar/data/47111/000004711111000041/,,13
+Hershey,HSY,2011Q1,2011-04-03,분기별 당기순이익(지배),160115000,USD,공시,https://www.sec.gov/Archives/edgar/data/47111/000004711111000041/,,13
+Hershey,HSY,2011Q1,2011-04-03,분기별 영업활동현금흐름,159378000,USD,공시,https://www.sec.gov/Archives/edgar/data/47111/000004711111000041/,,13
+Hershey,HSY,2011Q1,2011-04-03,분기말 자산총계,4235155000,USD,공시,https://www.sec.gov/Archives/edgar/data/47111/000004711111000041/,,13
+Hershey,HSY,2011Q1,2011-04-03,분기말 부채총계,3326171000,USD,공시,https://www.sec.gov/Archives/edgar/data/47111/000004711111000041/,,13
+Hershey,HSY,2011Q1,2011-04-03,분기말 총자본(자기자본),908984000,USD,계산(지배+비지배),https://www.sec.gov/Archives/edgar/data/47111/000004711111000041/,지배 875417000 + 비지배 33567000,13
+Hershey,HSY,2011Q1,2011-04-03,분기말 지배지분 자본,875417000,USD,공시,https://www.sec.gov/Archives/edgar/data/47111/000004711111000041/,,13
+Hershey,HSY,2011Q1,2011-04-01,분기말 종가,54.3,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/HSY?interval=1d&events=splits (2011-04-01),,13
+Hershey,HSY,2011Q1,2011-04-03,분기말 상장주식수,225504857,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/47111/000004711111000041/,dei:EntityCommonStockSharesOutstanding 클래스 합,13
+Hershey,HSY,2011Q1,2011-04-01,분기말 시가총액,12244913735,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/HSY?interval=1d&events=splits (2011-04-01) ; https://www.sec.gov/Archives/edgar/data/47111/000004711111000041/,종가 54.3 × 주식수 225504857,13
+Hershey,HSY,2011Q2,2011-07-03,분기별 매출액,1325171000,USD,공시,https://www.sec.gov/Archives/edgar/data/47111/000004711111000066/,,13
+Hershey,HSY,2011Q2,2011-07-03,분기별 영업이익,미확인,USD,미확인,https://www.sec.gov/Archives/edgar/data/47111/000004711111000066/,,13
+Hershey,HSY,2011Q2,2011-07-03,분기별 당기순이익(지배),130019000,USD,공시,https://www.sec.gov/Archives/edgar/data/47111/000004711111000066/,,13
+Hershey,HSY,2011Q2,2011-07-03,분기별 영업활동현금흐름,127314000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/47111/000004711111000066/ ; https://www.sec.gov/Archives/edgar/data/47111/000004711111000041/,누적 286692000 − 직전누적 159378000 (시작 2011-01-01),13
+Hershey,HSY,2011Q2,2011-07-03,분기말 자산총계,4312753000,USD,공시,https://www.sec.gov/Archives/edgar/data/47111/000004711111000066/,,13
+Hershey,HSY,2011Q2,2011-07-03,분기말 부채총계,3267059000,USD,공시,https://www.sec.gov/Archives/edgar/data/47111/000004711111000066/,,13
+Hershey,HSY,2011Q2,2011-07-03,분기말 총자본(자기자본),1045694000,USD,계산(지배+비지배),https://www.sec.gov/Archives/edgar/data/47111/000004711111000066/,지배 1012260000 + 비지배 33434000,13
+Hershey,HSY,2011Q2,2011-07-03,분기말 지배지분 자본,1012260000,USD,공시,https://www.sec.gov/Archives/edgar/data/47111/000004711111000066/,,13
+Hershey,HSY,2011Q2,2011-07-01,분기말 종가,57.41,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/HSY?interval=1d&events=splits (2011-07-01),,13
+Hershey,HSY,2011Q2,2011-07-03,분기말 상장주식수,227434488,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/47111/000004711111000066/,dei:EntityCommonStockSharesOutstanding 클래스 합,13
+Hershey,HSY,2011Q2,2011-07-01,분기말 시가총액,13057013956,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/HSY?interval=1d&events=splits (2011-07-01) ; https://www.sec.gov/Archives/edgar/data/47111/000004711111000066/,종가 57.41 × 주식수 227434488,13
+Hershey,HSY,2011Q3,2011-10-02,분기별 매출액,1624249000,USD,공시,https://www.sec.gov/Archives/edgar/data/47111/000004711111000079/,,13
+Hershey,HSY,2011Q3,2011-10-02,분기별 영업이익,미확인,USD,미확인,https://www.sec.gov/Archives/edgar/data/47111/000004711111000079/,,13
+Hershey,HSY,2011Q3,2011-10-02,분기별 당기순이익(지배),미확인,USD,미확인,https://www.sec.gov/Archives/edgar/data/47111/000004711111000079/,,13
+Hershey,HSY,2011Q3,2011-10-02,분기별 영업활동현금흐름,-29463000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/47111/000004711111000079/ ; https://www.sec.gov/Archives/edgar/data/47111/000004711111000066/,누적 257229000 − 직전누적 286692000 (시작 2011-01-01),13
+Hershey,HSY,2011Q3,2011-10-02,분기말 자산총계,4130506000,USD,공시,https://www.sec.gov/Archives/edgar/data/47111/000004711111000079/,,13
+Hershey,HSY,2011Q3,2011-10-02,분기말 부채총계,3175829000,USD,공시,https://www.sec.gov/Archives/edgar/data/47111/000004711111000079/,,13
+Hershey,HSY,2011Q3,2011-10-02,분기말 총자본(자기자본),954677000,USD,계산(지배+비지배),https://www.sec.gov/Archives/edgar/data/47111/000004711111000079/,지배 927672000 + 비지배 27005000,13
+Hershey,HSY,2011Q3,2011-10-02,분기말 지배지분 자본,927672000,USD,공시,https://www.sec.gov/Archives/edgar/data/47111/000004711111000079/,,13
+Hershey,HSY,2011Q3,2011-09-30,분기말 종가,59.24,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/HSY?interval=1d&events=splits (2011-09-30),,13
+Hershey,HSY,2011Q3,2011-10-02,분기말 상장주식수,225119789,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/47111/000004711111000079/,dei:EntityCommonStockSharesOutstanding 클래스 합,13
+Hershey,HSY,2011Q3,2011-09-30,분기말 시가총액,13336096300,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/HSY?interval=1d&events=splits (2011-09-30) ; https://www.sec.gov/Archives/edgar/data/47111/000004711111000079/,종가 59.24 × 주식수 225119789,13
+Hershey,HSY,2011Q4,2011-12-31,분기별 매출액,1567145000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/47111/000119312512067143/ ; https://www.sec.gov/Archives/edgar/data/47111/000004711111000079/,연간 6080788000 − 9개월누적 4513643000 (SalesRevenueNet),13
+Hershey,HSY,2011Q4,2011-12-31,분기별 영업이익,미확인,USD,미확인,https://www.sec.gov/Archives/edgar/data/47111/000119312512121449/,,13
+Hershey,HSY,2011Q4,2011-12-31,분기별 당기순이익(지배),139733000,USD,계산(연간(연결-비지배)-3분기누적)(재작성 반영),https://www.sec.gov/Archives/edgar/data/47111/000119312512067143/ ; https://www.sec.gov/Archives/edgar/data/47111/000004711111000079/,연간 연결 628962000 − 비지배 7400000 − (9개월 연결 486829000 − 비지배 5000000) ; 원 공시 158792000 (https://www.sec.gov/Archives/edgar/data/47111/000119312512067143/ ; https://www.sec.gov/Archives/edgar/data/47111/000004711111000079/),13
+Hershey,HSY,2011Q4,2011-12-31,분기별 영업활동현금흐름,323638000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/47111/000119312512067143/ ; https://www.sec.gov/Archives/edgar/data/47111/000004711111000079/,누적 580867000 − 직전누적 257229000 (시작 2011-01-01),13
+Hershey,HSY,2011Q4,2011-12-31,분기말 자산총계,4407094000,USD,공시(재작성 반영),https://www.sec.gov/Archives/edgar/data/47111/000004711113000007/,원 공시 4412199000 (https://www.sec.gov/Archives/edgar/data/47111/000119312512067143/),13
+Hershey,HSY,2011Q4,2011-12-31,분기말 부채총계,3526151000,USD,공시(재작성 반영),https://www.sec.gov/Archives/edgar/data/47111/000004711113000007/,원 공시 3539551000 (https://www.sec.gov/Archives/edgar/data/47111/000119312512067143/),13
+Hershey,HSY,2011Q4,2011-12-31,분기말 총자본(자기자본),880943000,USD,공시(재작성 반영),https://www.sec.gov/Archives/edgar/data/47111/000004711113000007/,원 공시 872648000 (https://www.sec.gov/Archives/edgar/data/47111/000119312512067143/),13
+Hershey,HSY,2011Q4,2011-12-31,분기말 지배지분 자본,857317000,USD,공시(재작성 반영),https://www.sec.gov/Archives/edgar/data/47111/000004711113000007/,원 공시 849022000 (https://www.sec.gov/Archives/edgar/data/47111/000119312512067143/),13
+Hershey,HSY,2011Q4,2011-12-30,분기말 종가,61.78,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/HSY?interval=1d&events=splits (2011-12-30),,13
+Hershey,HSY,2011Q4,2012-02-08,분기말 상장주식수,225520177,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/47111/000119312512067143/,dei:EntityCommonStockSharesOutstanding 클래스 합,13
+Hershey,HSY,2011Q4,2011-12-30,분기말 시가총액,13932636535,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/HSY?interval=1d&events=splits (2011-12-30) ; https://www.sec.gov/Archives/edgar/data/47111/000119312512067143/,종가 61.78 × 주식수 225520177,13
+Hershey,HSY,2012Q1,2012-04-01,분기별 매출액,1732064000,USD,공시,https://www.sec.gov/Archives/edgar/data/47111/000004711112000035/,,13
+Hershey,HSY,2012Q1,2012-04-01,분기별 영업이익,미확인,USD,미확인,https://www.sec.gov/Archives/edgar/data/47111/000004711112000035/,,13
+Hershey,HSY,2012Q1,2012-04-01,분기별 당기순이익(지배),194651000,USD,계산(연결-비지배)(재작성 반영),https://www.sec.gov/Archives/edgar/data/47111/000004711112000035/,3개월 연결 198651000 − 비지배 4000000 ; 원 공시 202651000 (https://www.sec.gov/Archives/edgar/data/47111/000004711112000035/),13
+Hershey,HSY,2012Q1,2012-04-01,분기별 영업활동현금흐름,275802000,USD,공시,https://www.sec.gov/Archives/edgar/data/47111/000004711112000035/,,13
+Hershey,HSY,2012Q1,2012-04-01,분기말 자산총계,4599457000,USD,공시,https://www.sec.gov/Archives/edgar/data/47111/000004711112000035/,,13
+Hershey,HSY,2012Q1,2012-04-01,분기말 부채총계,3713864000,USD,공시,https://www.sec.gov/Archives/edgar/data/47111/000004711112000035/,,13
+Hershey,HSY,2012Q1,2012-04-01,분기말 총자본(자기자본),885593000,USD,공시,https://www.sec.gov/Archives/edgar/data/47111/000004711112000035/,,13
+Hershey,HSY,2012Q1,2012-04-01,분기말 지배지분 자본,860330000,USD,공시,https://www.sec.gov/Archives/edgar/data/47111/000004711112000035/,,13
+Hershey,HSY,2012Q1,2012-03-30,분기말 종가,61.33,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/HSY?interval=1d&events=splits (2012-03-30),,13
+Hershey,HSY,2012Q1,2012-04-20,분기말 상장주식수,223654520,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/47111/000004711112000035/,"XBRL 원문 dei:EntityCommonStockSharesOutstanding 2개 클래스 합 ; 클래스별(2012-04-20): CommonClassAMember 163024603, CommonClassBMember 60629917",13
+Hershey,HSY,2012Q1,2012-03-30,분기말 시가총액,13716731712,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/HSY?interval=1d&events=splits (2012-03-30) ; https://www.sec.gov/Archives/edgar/data/47111/000004711112000035/,종가 61.33 × 주식수 223654520,13
+Hershey,HSY,2012Q2,2012-07-01,분기별 매출액,1414444000,USD,공시,https://www.sec.gov/Archives/edgar/data/47111/000004711112000045/,,13
+Hershey,HSY,2012Q2,2012-07-01,분기별 영업이익,미확인,USD,미확인,https://www.sec.gov/Archives/edgar/data/47111/000004711112000045/,,13
+Hershey,HSY,2012Q2,2012-07-01,분기별 당기순이익(지배),미확인,USD,미확인,https://www.sec.gov/Archives/edgar/data/47111/000004711112000045/,,13
+Hershey,HSY,2012Q2,2012-07-01,분기별 영업활동현금흐름,38356000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/47111/000004711112000045/ ; https://www.sec.gov/Archives/edgar/data/47111/000004711112000035/,누적 314158000 − 직전누적 275802000 (시작 2012-01-01),13
+Hershey,HSY,2012Q2,2012-07-01,분기말 자산총계,4667972000,USD,공시,https://www.sec.gov/Archives/edgar/data/47111/000004711112000045/,,13
+Hershey,HSY,2012Q2,2012-07-01,분기말 부채총계,3582001000,USD,공시,https://www.sec.gov/Archives/edgar/data/47111/000004711112000045/,,13
+Hershey,HSY,2012Q2,2012-07-01,분기말 총자본(자기자본),1085971000,USD,공시,https://www.sec.gov/Archives/edgar/data/47111/000004711112000045/,,13
+Hershey,HSY,2012Q2,2012-07-01,분기말 지배지분 자본,1064327000,USD,공시,https://www.sec.gov/Archives/edgar/data/47111/000004711112000045/,,13
+Hershey,HSY,2012Q2,2012-06-29,분기말 종가,72.03,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/HSY?interval=1d&events=splits (2012-06-29),,13
+Hershey,HSY,2012Q2,2012-07-20,분기말 상장주식수,226341501,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/47111/000004711112000045/,"XBRL 원문 dei:EntityCommonStockSharesOutstanding 2개 클래스 합 ; 클래스별(2012-07-20): CommonClassAMember 165711584, CommonClassBMember 60629917",13
+Hershey,HSY,2012Q2,2012-06-29,분기말 시가총액,16303378317,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/HSY?interval=1d&events=splits (2012-06-29) ; https://www.sec.gov/Archives/edgar/data/47111/000004711112000045/,종가 72.03 × 주식수 226341501,13
+Hershey,HSY,2012Q3,2012-09-30,분기별 매출액,1746709000,USD,공시,https://www.sec.gov/Archives/edgar/data/47111/000004711112000050/,,13
+Hershey,HSY,2012Q3,2012-09-30,분기별 영업이익,미확인,USD,미확인,https://www.sec.gov/Archives/edgar/data/47111/000004711112000050/,,13
+Hershey,HSY,2012Q3,2012-09-30,분기별 당기순이익(지배),176716000,USD,공시(후속 보고서 비교기간),https://www.sec.gov/Archives/edgar/data/47111/000004711114000006/,NetIncomeLoss ; 그 분기 보고서에 연결 총계가 없어 2014-02-21 제출본의 비교기간에서 읽었다,13
+Hershey,HSY,2012Q3,2012-09-30,분기별 영업활동현금흐름,291749000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/47111/000004711112000050/ ; https://www.sec.gov/Archives/edgar/data/47111/000004711112000045/,누적 605907000 − 직전누적 314158000 (시작 2012-01-01),13
+Hershey,HSY,2012Q3,2012-09-30,분기말 자산총계,4737782000,USD,공시,https://www.sec.gov/Archives/edgar/data/47111/000004711112000050/,,13
+Hershey,HSY,2012Q3,2012-09-30,분기말 부채총계,3740820000,USD,공시,https://www.sec.gov/Archives/edgar/data/47111/000004711112000050/,,13
+Hershey,HSY,2012Q3,2012-09-30,분기말 총자본(자기자본),996962000,USD,공시,https://www.sec.gov/Archives/edgar/data/47111/000004711112000050/,,13
+Hershey,HSY,2012Q3,2012-09-30,분기말 지배지분 자본,981262000,USD,공시,https://www.sec.gov/Archives/edgar/data/47111/000004711112000050/,,13
+Hershey,HSY,2012Q3,2012-09-28,분기말 종가,70.89,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/HSY?interval=1d&events=splits (2012-09-28),,13
+Hershey,HSY,2012Q3,2012-10-19,분기말 상장주식수,223201871,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/47111/000004711112000050/,"XBRL 원문 dei:EntityCommonStockSharesOutstanding 2개 클래스 합 ; 클래스별(2012-10-19): CommonClassAMember 162571954, CommonClassBMember 60629917",13
+Hershey,HSY,2012Q3,2012-09-28,분기말 시가총액,15822780635,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/HSY?interval=1d&events=splits (2012-09-28) ; https://www.sec.gov/Archives/edgar/data/47111/000004711112000050/,종가 70.89 × 주식수 223201871,13
+Hershey,HSY,2012Q4,2012-12-31,분기별 매출액,1751035000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/47111/000004711113000007/ ; https://www.sec.gov/Archives/edgar/data/47111/000004711112000050/,연간 6644252000 − 9개월누적 4893217000 (SalesRevenueNet),13
+Hershey,HSY,2012Q4,2012-12-31,분기별 영업이익,미확인,USD,미확인,https://www.sec.gov/Archives/edgar/data/47111/000004711113000007/,,13
+Hershey,HSY,2012Q4,2012-12-31,분기별 당기순이익(지배),150679000,USD,계산(연간(연결-비지배)-3분기누적),https://www.sec.gov/Archives/edgar/data/47111/000004711113000007/ ; https://www.sec.gov/Archives/edgar/data/47111/000004711112000050/,연간 연결 660931000 − 비지배 9600000 − (9개월 연결 511052000 − 비지배 10400000),13
+Hershey,HSY,2012Q4,2012-12-31,분기별 영업활동현금흐름,488920000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/47111/000004711113000007/ ; https://www.sec.gov/Archives/edgar/data/47111/000004711112000050/,누적 1094827000 − 직전누적 605907000 (시작 2012-01-01),13
+Hershey,HSY,2012Q4,2012-12-31,분기말 자산총계,4754839000,USD,공시,https://www.sec.gov/Archives/edgar/data/47111/000004711113000007/,,13
+Hershey,HSY,2012Q4,2012-12-31,분기말 부채총계,3706466000,USD,공시,https://www.sec.gov/Archives/edgar/data/47111/000004711113000007/,,13
+Hershey,HSY,2012Q4,2012-12-31,분기말 총자본(자기자본),1048373000,USD,공시,https://www.sec.gov/Archives/edgar/data/47111/000004711113000007/,,13
+Hershey,HSY,2012Q4,2012-12-31,분기말 지배지분 자본,1036749000,USD,공시,https://www.sec.gov/Archives/edgar/data/47111/000004711113000007/,,13
+Hershey,HSY,2012Q4,2012-12-31,분기말 종가,72.22,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/HSY?interval=1d&events=splits (2012-12-31),,13
+Hershey,HSY,2012Q4,2013-02-06,분기말 상장주식수,224087596,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/47111/000004711113000007/,dei:EntityCommonStockSharesOutstanding 클래스 합,13
+Hershey,HSY,2012Q4,2012-12-31,분기말 시가총액,16183606183,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/HSY?interval=1d&events=splits (2012-12-31) ; https://www.sec.gov/Archives/edgar/data/47111/000004711113000007/,종가 72.22 × 주식수 224087596,13
+Hershey,HSY,2013Q1,2013-03-31,분기별 매출액,1827426000,USD,공시,https://www.sec.gov/Archives/edgar/data/47111/000004711113000019/,,13
+Hershey,HSY,2013Q1,2013-03-31,분기별 영업이익,미확인,USD,미확인,https://www.sec.gov/Archives/edgar/data/47111/000004711113000022/,,13
+Hershey,HSY,2013Q1,2013-03-31,분기별 당기순이익(지배),243006000,USD,계산(연결-비지배)(재작성 반영),https://www.sec.gov/Archives/edgar/data/47111/000004711113000019/,3개월 연결 241906000 − 비지배 -1100000 ; 원 공시 240806000 (https://www.sec.gov/Archives/edgar/data/47111/000004711113000019/),13
+Hershey,HSY,2013Q1,2013-03-31,분기별 영업활동현금흐름,293180000,USD,공시,https://www.sec.gov/Archives/edgar/data/47111/000004711113000019/,,13
+Hershey,HSY,2013Q1,2013-03-31,분기말 자산총계,4845630000,USD,공시,https://www.sec.gov/Archives/edgar/data/47111/000004711113000019/,,13
+Hershey,HSY,2013Q1,2013-03-31,분기말 부채총계,3733066000,USD,공시,https://www.sec.gov/Archives/edgar/data/47111/000004711113000019/,,13
+Hershey,HSY,2013Q1,2013-03-31,분기말 총자본(자기자본),1112564000,USD,공시,https://www.sec.gov/Archives/edgar/data/47111/000004711113000019/,,13
+Hershey,HSY,2013Q1,2013-03-31,분기말 지배지분 자본,1100434000,USD,공시,https://www.sec.gov/Archives/edgar/data/47111/000004711113000019/,,13
+Hershey,HSY,2013Q1,2013-03-28,분기말 종가,87.53,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/HSY?interval=1d&events=splits (2013-03-28),,13
+Hershey,HSY,2013Q1,2013-04-19,분기말 상장주식수,223730186,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/47111/000004711113000019/,"XBRL 원문 dei:EntityCommonStockSharesOutstanding 2개 클래스 합 ; 클래스별(2013-04-19): CommonClassBMember 60628572, CommonClassAMember 163101614",13
+Hershey,HSY,2013Q1,2013-03-28,분기말 시가총액,19583103181,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/HSY?interval=1d&events=splits (2013-03-28) ; https://www.sec.gov/Archives/edgar/data/47111/000004711113000019/,종가 87.53 × 주식수 223730186,13
+Hershey,HSY,2013Q2,2013-06-30,분기별 매출액,1508514000,USD,공시,https://www.sec.gov/Archives/edgar/data/47111/000004711113000028/,,13
+Hershey,HSY,2013Q2,2013-06-30,분기별 영업이익,미확인,USD,미확인,https://www.sec.gov/Archives/edgar/data/47111/000004711113000028/,,13
+Hershey,HSY,2013Q2,2013-06-30,분기별 당기순이익(지배),159504000,USD,공시(후속 보고서 비교기간),https://www.sec.gov/Archives/edgar/data/47111/000004711114000006/,NetIncomeLoss ; 그 분기 보고서에 연결 총계가 없어 2014-02-21 제출본의 비교기간에서 읽었다,13
+Hershey,HSY,2013Q2,2013-06-30,분기별 영업활동현금흐름,56266000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/47111/000004711113000028/ ; https://www.sec.gov/Archives/edgar/data/47111/000004711113000019/,누적 349446000 − 직전누적 293180000 (시작 2013-01-01),13
+Hershey,HSY,2013Q2,2013-06-30,분기말 자산총계,4696868000,USD,공시,https://www.sec.gov/Archives/edgar/data/47111/000004711113000028/,,13
+Hershey,HSY,2013Q2,2013-06-30,분기말 부채총계,3575141000,USD,공시,https://www.sec.gov/Archives/edgar/data/47111/000004711113000028/,,13
+Hershey,HSY,2013Q2,2013-06-30,분기말 총자본(자기자본),1121727000,USD,공시,https://www.sec.gov/Archives/edgar/data/47111/000004711113000028/,,13
+Hershey,HSY,2013Q2,2013-06-30,분기말 지배지분 자본,1111822000,USD,공시,https://www.sec.gov/Archives/edgar/data/47111/000004711113000028/,,13
+Hershey,HSY,2013Q2,2013-06-28,분기말 종가,89.28,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/HSY?interval=1d&events=splits (2013-06-28),,13
+Hershey,HSY,2013Q2,2013-07-19,분기말 상장주식수,223192313,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/47111/000004711113000028/,"XBRL 원문 dei:EntityCommonStockSharesOutstanding 2개 클래스 합 ; 클래스별(2013-07-19): CommonClassAMember 162563741, CommonClassBMember 60628572",13
+Hershey,HSY,2013Q2,2013-06-28,분기말 시가총액,19926609705,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/HSY?interval=1d&events=splits (2013-06-28) ; https://www.sec.gov/Archives/edgar/data/47111/000004711113000028/,종가 89.28 × 주식수 223192313,13
+Hershey,HSY,2013Q3,2013-09-29,분기별 매출액,1853886000,USD,공시,https://www.sec.gov/Archives/edgar/data/47111/000004711113000036/,,13
+Hershey,HSY,2013Q3,2013-09-29,분기별 영업이익,미확인,USD,미확인,https://www.sec.gov/Archives/edgar/data/47111/000004711113000036/,,13
+Hershey,HSY,2013Q3,2013-09-29,분기별 당기순이익(지배),232985000,USD,공시(후속 보고서 비교기간),https://www.sec.gov/Archives/edgar/data/47111/000004711114000042/,NetIncomeLoss ; 그 분기 보고서에 연결 총계가 없어 2014-10-31 제출본의 비교기간에서 읽었다,13
+Hershey,HSY,2013Q3,2013-09-29,분기별 영업활동현금흐름,274268000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/47111/000004711113000036/ ; https://www.sec.gov/Archives/edgar/data/47111/000004711113000028/,누적 623714000 − 직전누적 349446000 (시작 2013-01-01),13
+Hershey,HSY,2013Q3,2013-09-29,분기말 자산총계,5077919000,USD,공시,https://www.sec.gov/Archives/edgar/data/47111/000004711113000036/,,13
+Hershey,HSY,2013Q3,2013-09-29,분기말 부채총계,3727344000,USD,공시,https://www.sec.gov/Archives/edgar/data/47111/000004711113000036/,,13
+Hershey,HSY,2013Q3,2013-09-29,분기말 총자본(자기자본),1350575000,USD,공시,https://www.sec.gov/Archives/edgar/data/47111/000004711113000036/,,13
+Hershey,HSY,2013Q3,2013-09-29,분기말 지배지분 자본,1338959000,USD,공시,https://www.sec.gov/Archives/edgar/data/47111/000004711113000036/,,13
+Hershey,HSY,2013Q3,2013-09-27,분기말 종가,93.0,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/HSY?interval=1d&events=splits (2013-09-27),,13
+Hershey,HSY,2013Q3,2013-10-18,분기말 상장주식수,223595706,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/47111/000004711113000036/,"XBRL 원문 dei:EntityCommonStockSharesOutstanding 2개 클래스 합 ; 클래스별(2013-10-18): CommonClassBMember 60628572, CommonClassAMember 162967134",13
+Hershey,HSY,2013Q3,2013-09-27,분기말 시가총액,20794400658,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/HSY?interval=1d&events=splits (2013-09-27) ; https://www.sec.gov/Archives/edgar/data/47111/000004711113000036/,종가 93.0 × 주식수 223595706,13
+Hershey,HSY,2013Q4,2013-12-31,분기별 매출액,-3389826000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/47111/000004711114000006/ ; https://www.sec.gov/Archives/edgar/data/47111/000004711113000036/,연간 1800000000 − 9개월누적 5189826000 (Revenues / 9개월 SalesRevenueNet),13
+Hershey,HSY,2013Q4,2013-12-31,분기별 영업이익,미확인,USD,미확인,https://www.sec.gov/Archives/edgar/data/47111/000004711114000006/,,13
+Hershey,HSY,2013Q4,2013-12-31,분기별 당기순이익(지배),184593000,USD,계산(연간(연결-비지배)-3분기누적)(재작성 반영),https://www.sec.gov/Archives/edgar/data/47111/000004711114000006/ ; https://www.sec.gov/Archives/edgar/data/47111/000004711113000036/,연간 연결 820470000 − 비지배 -406000 − (9개월 연결 634395000 − 비지배 -1888000) ; 원 공시 186275000 (https://www.sec.gov/Archives/edgar/data/47111/000004711114000006/ ; https://www.sec.gov/Archives/edgar/data/47111/000004711113000036/),13
+Hershey,HSY,2013Q4,2013-12-31,분기별 영업활동현금흐름,567685000,USD,계산(누적차감)(재작성 반영),https://www.sec.gov/Archives/edgar/data/47111/000004711116000095/ ; https://www.sec.gov/Archives/edgar/data/47111/000004711113000036/,누적 1191399000 − 직전누적 623714000 (시작 2013-01-01) ; 원 공시 564691000 (https://www.sec.gov/Archives/edgar/data/47111/000004711114000006/ ; https://www.sec.gov/Archives/edgar/data/47111/000004711113000036/),13
+Hershey,HSY,2013Q4,2013-12-31,분기말 자산총계,5357488000,USD,공시,https://www.sec.gov/Archives/edgar/data/47111/000004711114000006/,,13
+Hershey,HSY,2013Q4,2013-12-31,분기말 부채총계,3741436000,USD,공시,https://www.sec.gov/Archives/edgar/data/47111/000004711114000006/,,13
+Hershey,HSY,2013Q4,2013-12-31,분기말 총자본(자기자본),1616052000,USD,공시,https://www.sec.gov/Archives/edgar/data/47111/000004711114000006/,,13
+Hershey,HSY,2013Q4,2013-12-31,분기말 지배지분 자본,1604834000,USD,공시,https://www.sec.gov/Archives/edgar/data/47111/000004711114000006/,,13
+Hershey,HSY,2013Q4,2013-12-31,분기말 종가,97.23,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/HSY?interval=1d&events=splits (2013-12-31),,13
+Hershey,HSY,2013Q4,2014-02-07,분기말 상장주식수,223805223,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/47111/000004711114000006/,dei:EntityCommonStockSharesOutstanding 클래스 합,13
+Hershey,HSY,2013Q4,2013-12-31,분기말 시가총액,21760581832,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/HSY?interval=1d&events=splits (2013-12-31) ; https://www.sec.gov/Archives/edgar/data/47111/000004711114000006/,종가 97.23 × 주식수 223805223,13
+Hershey,HSY,2014Q1,2014-03-30,분기별 매출액,1871813000,USD,공시,https://www.sec.gov/Archives/edgar/data/47111/000004711114000016/,,13
+Hershey,HSY,2014Q1,2014-03-30,분기별 영업이익,545320000,USD,공시(후속 보고서 비교기간),https://www.sec.gov/Archives/edgar/data/47111/000004711115000029/,OperatingIncomeLoss ; 그 분기 보고서에 연결 총계가 없어 2015-05-01 제출본의 비교기간에서 읽었다,13
+Hershey,HSY,2014Q1,2014-03-30,분기별 당기순이익(지배),252495000,USD,공시,https://www.sec.gov/Archives/edgar/data/47111/000004711114000016/,,13
+Hershey,HSY,2014Q1,2014-03-30,분기별 영업활동현금흐름,203757000,USD,공시,https://www.sec.gov/Archives/edgar/data/47111/000004711114000016/,,13
+Hershey,HSY,2014Q1,2014-03-30,분기말 자산총계,5428846000,USD,공시,https://www.sec.gov/Archives/edgar/data/47111/000004711114000016/,,13
+Hershey,HSY,2014Q1,2014-03-30,분기말 부채총계,3759783000,USD,공시,https://www.sec.gov/Archives/edgar/data/47111/000004711114000016/,,13
+Hershey,HSY,2014Q1,2014-03-30,분기말 총자본(자기자본),1669063000,USD,공시,https://www.sec.gov/Archives/edgar/data/47111/000004711114000016/,,13
+Hershey,HSY,2014Q1,2014-03-30,분기말 지배지분 자본,1605469000,USD,공시,https://www.sec.gov/Archives/edgar/data/47111/000004711114000016/,,13
+Hershey,HSY,2014Q1,2014-03-28,분기말 종가,103.24,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/HSY?interval=1d&events=splits (2014-03-28),,13
+Hershey,HSY,2014Q1,2014-04-18,분기말 상장주식수,222699340,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/47111/000004711114000016/,"XBRL 원문 dei:EntityCommonStockSharesOutstanding 2개 클래스 합 ; 클래스별(2014-04-18): CommonClassAMember 162079563, CommonClassBMember 60619777",13
+Hershey,HSY,2014Q1,2014-03-28,분기말 시가총액,22991479862,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/HSY?interval=1d&events=splits (2014-03-28) ; https://www.sec.gov/Archives/edgar/data/47111/000004711114000016/,종가 103.24 × 주식수 222699340,13
+Hershey,HSY,2014Q2,2014-06-29,분기별 매출액,1578350000,USD,공시,https://www.sec.gov/Archives/edgar/data/47111/000004711114000029/,,13
+Hershey,HSY,2014Q2,2014-06-29,분기별 영업이익,277283000,USD,공시(후속 보고서 비교기간),https://www.sec.gov/Archives/edgar/data/47111/000004711115000056/,OperatingIncomeLoss ; 그 분기 보고서에 연결 총계가 없어 2015-08-07 제출본의 비교기간에서 읽었다,13
+Hershey,HSY,2014Q2,2014-06-29,분기별 당기순이익(지배),168168000,USD,공시,https://www.sec.gov/Archives/edgar/data/47111/000004711114000029/,,13
+Hershey,HSY,2014Q2,2014-06-29,분기별 영업활동현금흐름,-31825000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/47111/000004711114000029/ ; https://www.sec.gov/Archives/edgar/data/47111/000004711114000016/,누적 171932000 − 직전누적 203757000 (시작 2014-01-01),13
+Hershey,HSY,2014Q2,2014-06-29,분기말 자산총계,5184969000,USD,공시,https://www.sec.gov/Archives/edgar/data/47111/000004711114000029/,,13
+Hershey,HSY,2014Q2,2014-06-29,분기말 부채총계,3576409000,USD,공시,https://www.sec.gov/Archives/edgar/data/47111/000004711114000029/,,13
+Hershey,HSY,2014Q2,2014-06-29,분기말 총자본(자기자본),1608560000,USD,공시,https://www.sec.gov/Archives/edgar/data/47111/000004711114000029/,,13
+Hershey,HSY,2014Q2,2014-06-29,분기말 지배지분 자본,1545267000,USD,공시,https://www.sec.gov/Archives/edgar/data/47111/000004711114000029/,,13
+Hershey,HSY,2014Q2,2014-06-27,분기말 종가,96.92,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/HSY?interval=1d&events=splits (2014-06-27),,13
+Hershey,HSY,2014Q2,2014-06-29,분기말 상장주식수,221828656,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/47111/000004711114000029/,"XBRL 원문 dei:EntityCommonStockSharesOutstanding 2개 클래스 합 ; 클래스별(2014-06-29): CommonClassAMember 161208879, CommonClassBMember 60619777",13
+Hershey,HSY,2014Q2,2014-06-27,분기말 시가총액,21499633340,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/HSY?interval=1d&events=splits (2014-06-27) ; https://www.sec.gov/Archives/edgar/data/47111/000004711114000029/,종가 96.92 × 주식수 221828656,13
+Hershey,HSY,2014Q3,2014-09-28,분기별 매출액,1961578000,USD,공시,https://www.sec.gov/Archives/edgar/data/47111/000004711114000042/,,13
+Hershey,HSY,2014Q3,2014-09-28,분기별 영업이익,358668000,USD,공시(후속 보고서 비교기간),https://www.sec.gov/Archives/edgar/data/47111/000004711115000070/,OperatingIncomeLoss ; 그 분기 보고서에 연결 총계가 없어 2015-10-30 제출본의 비교기간에서 읽었다,13
+Hershey,HSY,2014Q3,2014-09-28,분기별 당기순이익(지배),223741000,USD,공시,https://www.sec.gov/Archives/edgar/data/47111/000004711114000042/,,13
+Hershey,HSY,2014Q3,2014-09-28,분기별 영업활동현금흐름,215501000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/47111/000004711114000042/ ; https://www.sec.gov/Archives/edgar/data/47111/000004711114000029/,누적 387433000 − 직전누적 171932000 (시작 2014-01-01),13
+Hershey,HSY,2014Q3,2014-09-28,분기말 자산총계,5916553000,USD,공시,https://www.sec.gov/Archives/edgar/data/47111/000004711114000042/,,13
+Hershey,HSY,2014Q3,2014-09-28,분기말 부채총계,4308693000,USD,공시,https://www.sec.gov/Archives/edgar/data/47111/000004711114000042/,,13
+Hershey,HSY,2014Q3,2014-09-28,분기말 총자본(자기자본),1607860000,USD,공시,https://www.sec.gov/Archives/edgar/data/47111/000004711114000042/,,13
+Hershey,HSY,2014Q3,2014-09-28,분기말 지배지분 자본,1543954000,USD,공시,https://www.sec.gov/Archives/edgar/data/47111/000004711114000042/,,13
+Hershey,HSY,2014Q3,2014-09-26,분기말 종가,93.21,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/HSY?interval=1d&events=splits (2014-09-26),,13
+Hershey,HSY,2014Q3,2014-10-17,분기말 상장주식수,220869509,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/47111/000004711114000042/,"XBRL 원문 dei:EntityCommonStockSharesOutstanding 2개 클래스 합 ; 클래스별(2014-10-17): CommonClassBMember 60619777, CommonClassAMember 160249732",13
+Hershey,HSY,2014Q3,2014-09-26,분기말 시가총액,20587246934,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/HSY?interval=1d&events=splits (2014-09-26) ; https://www.sec.gov/Archives/edgar/data/47111/000004711114000042/,종가 93.21 × 주식수 220869509,13
+Hershey,HSY,2014Q4,2014-12-31,분기별 매출액,2010027000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/47111/000004711115000010/ ; https://www.sec.gov/Archives/edgar/data/47111/000004711114000042/,연간 7421768000 − 9개월누적 5411741000 (SalesRevenueNet),13
+Hershey,HSY,2014Q4,2014-12-31,분기별 영업이익,343547000,USD,계산(연간-3분기누적)(재작성 반영),https://www.sec.gov/Archives/edgar/data/47111/000004711117000005/ ; https://www.sec.gov/Archives/edgar/data/47111/000004711115000070/,연간 1392261000 − 9개월누적 1048714000 (OperatingIncomeLoss) ; 원 공시 907497000 (https://www.sec.gov/Archives/edgar/data/47111/000004711115000010/ ; https://www.sec.gov/Archives/edgar/data/47111/000004711115000070/),13
+Hershey,HSY,2014Q4,2014-12-31,분기별 당기순이익(지배),202508000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/47111/000004711115000010/ ; https://www.sec.gov/Archives/edgar/data/47111/000004711114000042/,연간 846912000 − 9개월누적 644404000 (NetIncomeLoss),13
+Hershey,HSY,2014Q4,2014-12-31,분기별 영업활동현금흐름,456944000,USD,계산(누적차감)(재작성 반영),https://www.sec.gov/Archives/edgar/data/47111/000004711117000005/ ; https://www.sec.gov/Archives/edgar/data/47111/000004711114000042/,누적 844377000 − 직전누적 387433000 (시작 2014-01-01) ; 원 공시 450788000 (https://www.sec.gov/Archives/edgar/data/47111/000004711115000010/ ; https://www.sec.gov/Archives/edgar/data/47111/000004711114000042/),13
+Hershey,HSY,2014Q4,2014-12-31,분기말 자산총계,5622870000,USD,공시(재작성 반영),https://www.sec.gov/Archives/edgar/data/47111/000004711116000095/,원 공시 5629516000 (https://www.sec.gov/Archives/edgar/data/47111/000004711115000010/),13
+Hershey,HSY,2014Q4,2014-12-31,분기말 부채총계,4103340000,USD,공시(재작성 반영),https://www.sec.gov/Archives/edgar/data/47111/000004711116000095/,원 공시 4109986000 (https://www.sec.gov/Archives/edgar/data/47111/000004711115000010/),13
+Hershey,HSY,2014Q4,2014-12-31,분기말 총자본(자기자본),1519530000,USD,공시,https://www.sec.gov/Archives/edgar/data/47111/000004711115000010/,,13
+Hershey,HSY,2014Q4,2014-12-31,분기말 지배지분 자본,1455062000,USD,공시,https://www.sec.gov/Archives/edgar/data/47111/000004711115000010/,,13
+Hershey,HSY,2014Q4,2014-12-31,분기말 종가,103.93,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/HSY?interval=1d&events=splits (2014-12-31),,13
+Hershey,HSY,2014Q4,2015-02-06,분기말 상장주식수,220828040,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/47111/000004711115000010/,"XBRL 원문 dei:EntityCommonStockSharesOutstanding 2개 클래스 합 ; 클래스별(2015-02-06): CommonClassBMember 60619777, CommonStockMember 160208263",13
+Hershey,HSY,2014Q4,2014-12-31,분기말 시가총액,22950658197,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/HSY?interval=1d&events=splits (2014-12-31) ; https://www.sec.gov/Archives/edgar/data/47111/000004711115000010/,종가 103.93 × 주식수 220828040,13
+Hershey,HSY,2015Q1,2015-04-05,분기별 매출액,1937800000,USD,공시,https://www.sec.gov/Archives/edgar/data/47111/000004711115000029/,,13
+Hershey,HSY,2015Q1,2015-04-05,분기별 영업이익,384166000,USD,공시(재작성 반영),https://www.sec.gov/Archives/edgar/data/47111/000004711116000103/,원 공시 532546000 (https://www.sec.gov/Archives/edgar/data/47111/000004711115000029/),13
+Hershey,HSY,2015Q1,2015-04-05,분기별 당기순이익(지배),244737000,USD,공시,https://www.sec.gov/Archives/edgar/data/47111/000004711115000029/,,13
+Hershey,HSY,2015Q1,2015-04-05,분기별 영업활동현금흐름,259233000,USD,공시(재작성 반영),https://www.sec.gov/Archives/edgar/data/47111/000004711116000103/,원 공시 256402000 (https://www.sec.gov/Archives/edgar/data/47111/000004711115000029/),13
+Hershey,HSY,2015Q1,2015-04-05,분기말 자산총계,미확인,USD,미확인,https://www.sec.gov/Archives/edgar/data/47111/000004711115000029/,자체 검증 실패: 자산 5757462000 ≠ 부채 4412946000 + 총자본 1315898000 + 메자닌 13428000 (차이 15190000),13
+Hershey,HSY,2015Q1,2015-04-05,분기말 부채총계,미확인,USD,미확인,https://www.sec.gov/Archives/edgar/data/47111/000004711115000029/,자체 검증 실패: 자산 5757462000 ≠ 부채 4412946000 + 총자본 1315898000 + 메자닌 13428000 (차이 15190000),13
+Hershey,HSY,2015Q1,2015-04-05,분기말 총자본(자기자본),미확인,USD,미확인,https://www.sec.gov/Archives/edgar/data/47111/000004711115000029/,자체 검증 실패: 자산 5757462000 ≠ 부채 4412946000 + 총자본 1315898000 + 메자닌 13428000 (차이 15190000),13
+Hershey,HSY,2015Q1,2015-04-05,분기말 지배지분 자본,1266065000,USD,공시,https://www.sec.gov/Archives/edgar/data/47111/000004711115000029/,,13
+Hershey,HSY,2015Q1,2015-04-02,분기말 종가,100.75,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/HSY?interval=1d&events=splits (2015-04-02),,13
+Hershey,HSY,2015Q1,2015-04-24,분기말 상장주식수,219045549,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/47111/000004711115000029/,"XBRL 원문 dei:EntityCommonStockSharesOutstanding 2개 클래스 합 ; 클래스별(2015-04-24): CommonClassAMember 158425772, CommonClassBMember 60619777",13
+Hershey,HSY,2015Q1,2015-04-02,분기말 시가총액,22068839062,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/HSY?interval=1d&events=splits (2015-04-02) ; https://www.sec.gov/Archives/edgar/data/47111/000004711115000029/,종가 100.75 × 주식수 219045549,13
+Hershey,HSY,2015Q2,2015-07-05,분기별 매출액,1578825000,USD,공시,https://www.sec.gov/Archives/edgar/data/47111/000004711115000056/,,13
+Hershey,HSY,2015Q2,2015-07-05,분기별 영업이익,7500000,USD,공시,https://www.sec.gov/Archives/edgar/data/47111/000004711115000056/,,13
+Hershey,HSY,2015Q2,2015-07-05,분기별 당기순이익(지배),-99941000,USD,공시,https://www.sec.gov/Archives/edgar/data/47111/000004711115000056/,,13
+Hershey,HSY,2015Q2,2015-07-05,분기별 영업활동현금흐름,227082000,USD,계산(누적차감)(재작성 반영),https://www.sec.gov/Archives/edgar/data/47111/000004711116000126/ ; https://www.sec.gov/Archives/edgar/data/47111/000004711116000103/,누적 486315000 − 직전누적 259233000 (시작 2015-01-01) ; 원 공시 224546000 (https://www.sec.gov/Archives/edgar/data/47111/000004711115000056/ ; https://www.sec.gov/Archives/edgar/data/47111/000004711115000029/),13
+Hershey,HSY,2015Q2,2015-07-05,분기말 자산총계,미확인,USD,미확인,https://www.sec.gov/Archives/edgar/data/47111/000004711115000056/,자체 검증 실패: 자산 5449330000 ≠ 부채 4211062000 + 총자본 1200885000 + 메자닌 13428000 (차이 23955000),13
+Hershey,HSY,2015Q2,2015-07-05,분기말 부채총계,미확인,USD,미확인,https://www.sec.gov/Archives/edgar/data/47111/000004711115000056/,자체 검증 실패: 자산 5449330000 ≠ 부채 4211062000 + 총자본 1200885000 + 메자닌 13428000 (차이 23955000),13
+Hershey,HSY,2015Q2,2015-07-05,분기말 총자본(자기자본),미확인,USD,미확인,https://www.sec.gov/Archives/edgar/data/47111/000004711115000056/,자체 검증 실패: 자산 5449330000 ≠ 부채 4211062000 + 총자본 1200885000 + 메자닌 13428000 (차이 23955000),13
+Hershey,HSY,2015Q2,2015-07-05,분기말 지배지분 자본,1150259000,USD,공시,https://www.sec.gov/Archives/edgar/data/47111/000004711115000056/,,13
+Hershey,HSY,2015Q2,2015-07-02,분기말 종가,90.04,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/HSY?interval=1d&events=splits (2015-07-02),,13
+Hershey,HSY,2015Q2,2015-07-31,분기말 상장주식수,219384779,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/47111/000004711115000056/,"XBRL 원문 dei:EntityCommonStockSharesOutstanding 2개 클래스 합 ; 클래스별(2015-07-31): CommonClassAMember 158765002, CommonClassBMember 60619777",13
+Hershey,HSY,2015Q2,2015-07-02,분기말 시가총액,19753405501,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/HSY?interval=1d&events=splits (2015-07-02) ; https://www.sec.gov/Archives/edgar/data/47111/000004711115000056/,종가 90.04 × 주식수 219384779,13
+Hershey,HSY,2015Q3,2015-10-04,분기별 매출액,1960779000,USD,공시,https://www.sec.gov/Archives/edgar/data/47111/000004711115000070/,,13
+Hershey,HSY,2015Q3,2015-10-04,분기별 영업이익,303014000,USD,공시,https://www.sec.gov/Archives/edgar/data/47111/000004711115000070/,,13
+Hershey,HSY,2015Q3,2015-10-04,분기별 당기순이익(지배),140266000,USD,공시(재작성 반영),https://www.sec.gov/Archives/edgar/data/47111/000004711117000005/,원 공시 154771000 (https://www.sec.gov/Archives/edgar/data/47111/000004711115000070/),13
+Hershey,HSY,2015Q3,2015-10-04,분기별 영업활동현금흐름,108770000,USD,계산(누적차감)(재작성 반영),https://www.sec.gov/Archives/edgar/data/47111/000004711116000136/ ; https://www.sec.gov/Archives/edgar/data/47111/000004711116000126/,누적 595085000 − 직전누적 486315000 (시작 2015-01-01) ; 원 공시 106916000 (https://www.sec.gov/Archives/edgar/data/47111/000004711115000070/ ; https://www.sec.gov/Archives/edgar/data/47111/000004711115000056/),13
+Hershey,HSY,2015Q3,2015-10-04,분기말 자산총계,5630620000,USD,공시,https://www.sec.gov/Archives/edgar/data/47111/000004711115000070/,,13
+Hershey,HSY,2015Q3,2015-10-04,분기말 부채총계,4693494000,USD,공시,https://www.sec.gov/Archives/edgar/data/47111/000004711115000070/,메자닌(일시자본) 13428000 부채총계에 포함,13
+Hershey,HSY,2015Q3,2015-10-04,분기말 총자본(자기자본),937126000,USD,공시,https://www.sec.gov/Archives/edgar/data/47111/000004711115000070/,,13
+Hershey,HSY,2015Q3,2015-10-04,분기말 지배지분 자본,888613000,USD,공시,https://www.sec.gov/Archives/edgar/data/47111/000004711115000070/,,13
+Hershey,HSY,2015Q3,2015-10-02,분기말 종가,94.31,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/HSY?interval=1d&events=splits (2015-10-02),,13
+Hershey,HSY,2015Q3,2015-10-23,분기말 상장주식수,216793284,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/47111/000004711115000070/,"XBRL 원문 dei:EntityCommonStockSharesOutstanding 2개 클래스 합 ; 클래스별(2015-10-23): CommonClassAMember 156173507, CommonClassBMember 60619777",13
+Hershey,HSY,2015Q3,2015-10-02,분기말 시가총액,20445774614,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/HSY?interval=1d&events=splits (2015-10-02) ; https://www.sec.gov/Archives/edgar/data/47111/000004711115000070/,종가 94.31 × 주식수 216793284,13
+Hershey,HSY,2015Q4,2015-12-31,분기별 매출액,1909222000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/47111/000004711116000095/ ; https://www.sec.gov/Archives/edgar/data/47111/000004711115000070/,연간 7386626000 − 9개월누적 5477404000 (SalesRevenueNet),13
+Hershey,HSY,2015Q4,2015-12-31,분기별 영업이익,343079000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/47111/000004711116000095/ ; https://www.sec.gov/Archives/edgar/data/47111/000004711115000070/,연간 1037759000 − 9개월누적 694680000 (OperatingIncomeLoss),13
+Hershey,HSY,2015Q4,2015-12-31,분기별 당기순이익(지배),213384000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/47111/000004711116000095/ ; https://www.sec.gov/Archives/edgar/data/47111/000004711115000070/,연간 512951000 − 9개월누적 299567000 (NetIncomeLoss),13
+Hershey,HSY,2015Q4,2015-12-31,분기별 영업활동현금흐름,661226000,USD,계산(누적차감)(재작성 반영),https://www.sec.gov/Archives/edgar/data/47111/000004711118000011/ ; https://www.sec.gov/Archives/edgar/data/47111/000004711116000136/,누적 1256311000 − 직전누적 595085000 (시작 2015-01-01) ; 원 공시 626592000 (https://www.sec.gov/Archives/edgar/data/47111/000004711116000095/ ; https://www.sec.gov/Archives/edgar/data/47111/000004711115000070/),13
+Hershey,HSY,2015Q4,2015-12-31,분기말 자산총계,5344371000,USD,공시,https://www.sec.gov/Archives/edgar/data/47111/000004711116000095/,,13
+Hershey,HSY,2015Q4,2015-12-31,분기말 부채총계,4296909000,USD,공시,https://www.sec.gov/Archives/edgar/data/47111/000004711116000095/,,13
+Hershey,HSY,2015Q4,2015-12-31,분기말 총자본(자기자본),1047462000,USD,공시,https://www.sec.gov/Archives/edgar/data/47111/000004711116000095/,,13
+Hershey,HSY,2015Q4,2015-12-31,분기말 지배지분 자본,997997000,USD,공시,https://www.sec.gov/Archives/edgar/data/47111/000004711116000095/,,13
+Hershey,HSY,2015Q4,2015-12-31,분기말 종가,89.27,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/HSY?interval=1d&events=splits (2015-12-31),,13
+Hershey,HSY,2015Q4,2016-02-05,분기말 상장주식수,216519701,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/47111/000004711116000095/,"XBRL 원문 dei:EntityCommonStockSharesOutstanding 2개 클래스 합 ; 클래스별(2016-02-05): HersheyCommonStockMember 155899924, CommonClassBMember 60619777",13
+Hershey,HSY,2015Q4,2015-12-31,분기말 시가총액,19328713708,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/HSY?interval=1d&events=splits (2015-12-31) ; https://www.sec.gov/Archives/edgar/data/47111/000004711116000095/,종가 89.27 × 주식수 216519701,13
+Hershey,HSY,2016Q1,2016-04-03,분기별 매출액,1828812000,USD,공시,https://www.sec.gov/Archives/edgar/data/47111/000004711116000103/,,13
+Hershey,HSY,2016Q1,2016-04-03,분기별 영업이익,339509000,USD,공시,https://www.sec.gov/Archives/edgar/data/47111/000004711116000103/,,13
+Hershey,HSY,2016Q1,2016-04-03,분기별 당기순이익(지배),229832000,USD,공시,https://www.sec.gov/Archives/edgar/data/47111/000004711116000103/,,13
+Hershey,HSY,2016Q1,2016-04-03,분기별 영업활동현금흐름,269469000,USD,공시(재작성 반영),https://www.sec.gov/Archives/edgar/data/47111/000004711117000022/,원 공시 257115000 (https://www.sec.gov/Archives/edgar/data/47111/000004711116000103/),13
+Hershey,HSY,2016Q1,2016-04-03,분기말 자산총계,5305840000,USD,공시,https://www.sec.gov/Archives/edgar/data/47111/000004711116000103/,,13
+Hershey,HSY,2016Q1,2016-04-03,분기말 부채총계,4426487000,USD,공시,https://www.sec.gov/Archives/edgar/data/47111/000004711116000103/,,13
+Hershey,HSY,2016Q1,2016-04-03,분기말 총자본(자기자본),879353000,USD,공시,https://www.sec.gov/Archives/edgar/data/47111/000004711116000103/,,13
+Hershey,HSY,2016Q1,2016-04-03,분기말 지배지분 자본,831439000,USD,공시,https://www.sec.gov/Archives/edgar/data/47111/000004711116000103/,,13
+Hershey,HSY,2016Q1,2016-04-01,분기말 종가,93.71,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/HSY?interval=1d&events=splits (2016-04-01),,13
+Hershey,HSY,2016Q1,2016-04-22,분기말 상장주식수,213372883,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/47111/000004711116000103/,"XBRL 원문 dei:EntityCommonStockSharesOutstanding 2개 클래스 합 ; 클래스별(2016-04-22): HersheyCommonStockMember 152753106, CommonClassBMember 60619777",13
+Hershey,HSY,2016Q1,2016-04-01,분기말 시가총액,19995172866,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/HSY?interval=1d&events=splits (2016-04-01) ; https://www.sec.gov/Archives/edgar/data/47111/000004711116000103/,종가 93.71 × 주식수 213372883,13
+Hershey,HSY,2016Q2,2016-07-03,분기별 매출액,1637671000,USD,공시,https://www.sec.gov/Archives/edgar/data/47111/000004711116000126/,,13
+Hershey,HSY,2016Q2,2016-07-03,분기별 영업이익,262762000,USD,공시,https://www.sec.gov/Archives/edgar/data/47111/000004711116000126/,,13
+Hershey,HSY,2016Q2,2016-07-03,분기별 당기순이익(지배),145956000,USD,공시,https://www.sec.gov/Archives/edgar/data/47111/000004711116000126/,,13
+Hershey,HSY,2016Q2,2016-07-03,분기별 영업활동현금흐름,99241000,USD,계산(누적차감)(재작성 반영),https://www.sec.gov/Archives/edgar/data/47111/000004711117000035/ ; https://www.sec.gov/Archives/edgar/data/47111/000004711117000022/,누적 368710000 − 직전누적 269469000 (시작 2016-01-01) ; 원 공시 89983000 (https://www.sec.gov/Archives/edgar/data/47111/000004711116000126/ ; https://www.sec.gov/Archives/edgar/data/47111/000004711116000103/),13
+Hershey,HSY,2016Q2,2016-07-03,분기말 자산총계,5567384000,USD,공시,https://www.sec.gov/Archives/edgar/data/47111/000004711116000126/,,13
+Hershey,HSY,2016Q2,2016-07-03,분기말 부채총계,4792723000,USD,공시,https://www.sec.gov/Archives/edgar/data/47111/000004711116000126/,,13
+Hershey,HSY,2016Q2,2016-07-03,분기말 총자본(자기자본),774661000,USD,공시,https://www.sec.gov/Archives/edgar/data/47111/000004711116000126/,,13
+Hershey,HSY,2016Q2,2016-07-03,분기말 지배지분 자본,727950000,USD,공시,https://www.sec.gov/Archives/edgar/data/47111/000004711116000126/,,13
+Hershey,HSY,2016Q2,2016-07-01,분기말 종가,111.95,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/HSY?interval=1d&events=splits (2016-07-01),,13
+Hershey,HSY,2016Q2,2016-07-22,분기말 상장주식수,213189504,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/47111/000004711116000126/,"XBRL 원문 dei:EntityCommonStockSharesOutstanding 2개 클래스 합 ; 클래스별(2016-07-22): HersheyCommonStockMember 152569727, CommonClassBMember 60619777",13
+Hershey,HSY,2016Q2,2016-07-01,분기말 시가총액,23866564973,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/HSY?interval=1d&events=splits (2016-07-01) ; https://www.sec.gov/Archives/edgar/data/47111/000004711116000126/,종가 111.95 × 주식수 213189504,13
+Hershey,HSY,2016Q3,2016-10-02,분기별 매출액,2003454000,USD,공시,https://www.sec.gov/Archives/edgar/data/47111/000004711116000136/,,13
+Hershey,HSY,2016Q3,2016-10-02,분기별 영업이익,374024000,USD,공시,https://www.sec.gov/Archives/edgar/data/47111/000004711116000136/,,13
+Hershey,HSY,2016Q3,2016-10-02,분기별 당기순이익(지배),227403000,USD,공시,https://www.sec.gov/Archives/edgar/data/47111/000004711116000136/,,13
+Hershey,HSY,2016Q3,2016-10-02,분기별 영업활동현금흐름,82050000,USD,계산(누적차감)(재작성 반영),https://www.sec.gov/Archives/edgar/data/47111/000004711117000041/ ; https://www.sec.gov/Archives/edgar/data/47111/000004711117000035/,누적 450760000 − 직전누적 368710000 (시작 2016-01-01) ; 원 공시 75441000 (https://www.sec.gov/Archives/edgar/data/47111/000004711116000136/ ; https://www.sec.gov/Archives/edgar/data/47111/000004711116000126/),13
+Hershey,HSY,2016Q3,2016-10-02,분기말 자산총계,5845413000,USD,공시,https://www.sec.gov/Archives/edgar/data/47111/000004711116000136/,,13
+Hershey,HSY,2016Q3,2016-10-02,분기말 부채총계,4903341000,USD,공시,https://www.sec.gov/Archives/edgar/data/47111/000004711116000136/,,13
+Hershey,HSY,2016Q3,2016-10-02,분기말 총자본(자기자본),942072000,USD,공시,https://www.sec.gov/Archives/edgar/data/47111/000004711116000136/,,13
+Hershey,HSY,2016Q3,2016-10-02,분기말 지배지분 자본,895445000,USD,공시,https://www.sec.gov/Archives/edgar/data/47111/000004711116000136/,,13
+Hershey,HSY,2016Q3,2016-09-30,분기말 종가,95.6,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/HSY?interval=1d&events=splits (2016-09-30),,13
+Hershey,HSY,2016Q3,2016-10-21,분기말 상장주식수,212229426,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/47111/000004711116000136/,"XBRL 원문 dei:EntityCommonStockSharesOutstanding 2개 클래스 합 ; 클래스별(2016-10-21): HersheyCommonStockMember 151609649, CommonClassBMember 60619777",13
+Hershey,HSY,2016Q3,2016-09-30,분기말 시가총액,20289133126,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/HSY?interval=1d&events=splits (2016-09-30) ; https://www.sec.gov/Archives/edgar/data/47111/000004711116000136/,종가 95.6 × 주식수 212229426,13
+Hershey,HSY,2016Q4,2016-12-31,분기별 매출액,1970244000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/47111/000004711117000005/ ; https://www.sec.gov/Archives/edgar/data/47111/000004711116000136/,연간 7440181000 − 9개월누적 5469937000 (SalesRevenueNet),13
+Hershey,HSY,2016Q4,2016-12-31,분기별 영업이익,229488000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/47111/000004711117000005/ ; https://www.sec.gov/Archives/edgar/data/47111/000004711116000136/,연간 1205783000 − 9개월누적 976295000 (OperatingIncomeLoss),13
+Hershey,HSY,2016Q4,2016-12-31,분기별 당기순이익(지배),116853000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/47111/000004711117000005/ ; https://www.sec.gov/Archives/edgar/data/47111/000004711116000136/,연간 720044000 − 9개월누적 603191000 (NetIncomeLoss),13
+Hershey,HSY,2016Q4,2016-12-31,분기별 영업활동현금흐름,562668000,USD,계산(누적차감)(재작성 반영),https://www.sec.gov/Archives/edgar/data/47111/000004711118000011/ ; https://www.sec.gov/Archives/edgar/data/47111/000004711117000041/,누적 1013428000 − 직전누적 450760000 (시작 2016-01-01) ; 원 공시 560936000 (https://www.sec.gov/Archives/edgar/data/47111/000004711117000005/ ; https://www.sec.gov/Archives/edgar/data/47111/000004711116000136/),13
+Hershey,HSY,2016Q4,2016-12-31,분기말 자산총계,5524333000,USD,공시,https://www.sec.gov/Archives/edgar/data/47111/000004711117000005/,,13
+Hershey,HSY,2016Q4,2016-12-31,분기말 부채총계,4696646000,USD,공시,https://www.sec.gov/Archives/edgar/data/47111/000004711117000005/,,13
+Hershey,HSY,2016Q4,2016-12-31,분기말 총자본(자기자본),827687000,USD,공시,https://www.sec.gov/Archives/edgar/data/47111/000004711117000005/,,13
+Hershey,HSY,2016Q4,2016-12-31,분기말 지배지분 자본,785856000,USD,공시,https://www.sec.gov/Archives/edgar/data/47111/000004711117000005/,,13
+Hershey,HSY,2016Q4,2016-12-30,분기말 종가,103.43,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/HSY?interval=1d&events=splits (2016-12-30),,13
+Hershey,HSY,2016Q4,2017-02-10,분기말 상장주식수,212414672,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/47111/000004711117000005/,"XBRL 원문 dei:EntityCommonStockSharesOutstanding 2개 클래스 합 ; 클래스별(2017-02-10): HersheyCommonStockMember 151794895, CommonClassBMember 60619777",13
+Hershey,HSY,2016Q4,2016-12-30,분기말 시가총액,21970049525,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/HSY?interval=1d&events=splits (2016-12-30) ; https://www.sec.gov/Archives/edgar/data/47111/000004711117000005/,종가 103.43 × 주식수 212414672,13
+Hershey,HSY,2017Q1,2017-04-02,분기별 매출액,1879678000,USD,공시,https://www.sec.gov/Archives/edgar/data/47111/000004711117000022/,,13
+Hershey,HSY,2017Q1,2017-04-02,분기별 영업이익,191931000,USD,공시,https://www.sec.gov/Archives/edgar/data/47111/000004711117000022/,,13
+Hershey,HSY,2017Q1,2017-04-02,분기별 당기순이익(지배),125044000,USD,공시,https://www.sec.gov/Archives/edgar/data/47111/000004711117000022/,,13
+Hershey,HSY,2017Q1,2017-04-02,분기별 영업활동현금흐름,234462000,USD,공시,https://www.sec.gov/Archives/edgar/data/47111/000004711117000022/,,13
+Hershey,HSY,2017Q1,2017-04-02,분기말 자산총계,5342385000,USD,공시,https://www.sec.gov/Archives/edgar/data/47111/000004711117000022/,,13
+Hershey,HSY,2017Q1,2017-04-02,분기말 부채총계,4496932000,USD,공시,https://www.sec.gov/Archives/edgar/data/47111/000004711117000022/,,13
+Hershey,HSY,2017Q1,2017-04-02,분기말 총자본(자기자본),845453000,USD,공시,https://www.sec.gov/Archives/edgar/data/47111/000004711117000022/,,13
+Hershey,HSY,2017Q1,2017-04-02,분기말 지배지분 자본,830078000,USD,공시,https://www.sec.gov/Archives/edgar/data/47111/000004711117000022/,,13
+Hershey,HSY,2017Q1,2017-03-31,분기말 종가,109.25,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/HSY?interval=1d&events=splits (2017-03-31),,13
+Hershey,HSY,2017Q1,2017-04-21,분기말 상장주식수,212786698,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/47111/000004711117000022/,"XBRL 원문 dei:EntityCommonStockSharesOutstanding 2개 클래스 합 ; 클래스별(2017-04-21): HersheyCommonStockMember 152166921, CommonClassBMember 60619777",13
+Hershey,HSY,2017Q1,2017-03-31,분기말 시가총액,23246946756,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/HSY?interval=1d&events=splits (2017-03-31) ; https://www.sec.gov/Archives/edgar/data/47111/000004711117000022/,종가 109.25 × 주식수 212786698,13
+Hershey,HSY,2017Q2,2017-07-02,분기별 매출액,1662991000,USD,공시,https://www.sec.gov/Archives/edgar/data/47111/000004711117000035/,,13
+Hershey,HSY,2017Q2,2017-07-02,분기별 영업이익,315341000,USD,공시,https://www.sec.gov/Archives/edgar/data/47111/000004711117000035/,,13
+Hershey,HSY,2017Q2,2017-07-02,분기별 당기순이익(지배),203501000,USD,공시,https://www.sec.gov/Archives/edgar/data/47111/000004711117000035/,,13
+Hershey,HSY,2017Q2,2017-07-02,분기별 영업활동현금흐름,101272000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/47111/000004711117000035/ ; https://www.sec.gov/Archives/edgar/data/47111/000004711117000022/,누적 335734000 − 직전누적 234462000 (시작 2017-01-01),13
+Hershey,HSY,2017Q2,2017-07-02,분기말 자산총계,5380228000,USD,공시,https://www.sec.gov/Archives/edgar/data/47111/000004711117000035/,,13
+Hershey,HSY,2017Q2,2017-07-02,분기말 부채총계,4510246000,USD,공시,https://www.sec.gov/Archives/edgar/data/47111/000004711117000035/,,13
+Hershey,HSY,2017Q2,2017-07-02,분기말 총자본(자기자본),869982000,USD,공시,https://www.sec.gov/Archives/edgar/data/47111/000004711117000035/,,13
+Hershey,HSY,2017Q2,2017-07-02,분기말 지배지분 자본,855305000,USD,공시,https://www.sec.gov/Archives/edgar/data/47111/000004711117000035/,,13
+Hershey,HSY,2017Q2,2017-06-30,분기말 종가,107.37,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/HSY?interval=1d&events=splits (2017-06-30),,13
+Hershey,HSY,2017Q2,2017-07-21,분기말 상장주식수,212446809,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/47111/000004711117000035/,"XBRL 원문 dei:EntityCommonStockSharesOutstanding 2개 클래스 합 ; 클래스별(2017-07-21): HersheyCommonStockMember 151827032, CommonClassBMember 60619777",13
+Hershey,HSY,2017Q2,2017-06-30,분기말 시가총액,22810413882,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/HSY?interval=1d&events=splits (2017-06-30) ; https://www.sec.gov/Archives/edgar/data/47111/000004711117000035/,종가 107.37 × 주식수 212446809,13
+Hershey,HSY,2017Q3,2017-10-01,분기별 매출액,2033121000,USD,공시,https://www.sec.gov/Archives/edgar/data/47111/000004711117000041/,,13
+Hershey,HSY,2017Q3,2017-10-01,분기별 영업이익,439020000,USD,공시,https://www.sec.gov/Archives/edgar/data/47111/000004711117000041/,,13
+Hershey,HSY,2017Q3,2017-10-01,분기별 당기순이익(지배),273303000,USD,공시,https://www.sec.gov/Archives/edgar/data/47111/000004711117000041/,,13
+Hershey,HSY,2017Q3,2017-10-01,분기별 영업활동현금흐름,290165000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/47111/000004711117000041/ ; https://www.sec.gov/Archives/edgar/data/47111/000004711117000035/,누적 625899000 − 직전누적 335734000 (시작 2017-01-01),13
+Hershey,HSY,2017Q3,2017-10-01,분기말 자산총계,5655477000,USD,공시,https://www.sec.gov/Archives/edgar/data/47111/000004711117000041/,,13
+Hershey,HSY,2017Q3,2017-10-01,분기말 부채총계,4816501000,USD,공시,https://www.sec.gov/Archives/edgar/data/47111/000004711117000041/,,13
+Hershey,HSY,2017Q3,2017-10-01,분기말 총자본(자기자본),838976000,USD,공시,https://www.sec.gov/Archives/edgar/data/47111/000004711117000041/,,13
+Hershey,HSY,2017Q3,2017-10-01,분기말 지배지분 자본,823270000,USD,공시,https://www.sec.gov/Archives/edgar/data/47111/000004711117000041/,,13
+Hershey,HSY,2017Q3,2017-09-29,분기말 종가,109.17,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/HSY?interval=1d&events=splits (2017-09-29),,13
+Hershey,HSY,2017Q3,2017-10-20,분기말 상장주식수,210695396,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/47111/000004711117000041/,"XBRL 원문 dei:EntityCommonStockSharesOutstanding 2개 클래스 합 ; 클래스별(2017-10-20): HersheyCommonStockMember 150075619, CommonClassBMember 60619777",13
+Hershey,HSY,2017Q3,2017-09-29,분기말 시가총액,23001616381,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/HSY?interval=1d&events=splits (2017-09-29) ; https://www.sec.gov/Archives/edgar/data/47111/000004711117000041/,종가 109.17 × 주식수 210695396,13
+Hershey,HSY,2017Q4,2017-12-31,분기별 매출액,1939636000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/47111/000004711118000011/ ; https://www.sec.gov/Archives/edgar/data/47111/000004711117000041/,연간 7515426000 − 9개월누적 5575790000 (SalesRevenueNet),13
+Hershey,HSY,2017Q4,2017-12-31,분기별 영업이익,328349000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/47111/000004711118000011/ ; https://www.sec.gov/Archives/edgar/data/47111/000004711117000041/,연간 1274641000 − 9개월누적 946292000 (OperatingIncomeLoss),13
+Hershey,HSY,2017Q4,2017-12-31,분기별 당기순이익(지배),181133000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/47111/000004711118000011/ ; https://www.sec.gov/Archives/edgar/data/47111/000004711117000041/,연간 782981000 − 9개월누적 601848000 (NetIncomeLoss),13
+Hershey,HSY,2017Q4,2017-12-31,분기별 영업활동현금흐름,623616000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/47111/000004711118000011/ ; https://www.sec.gov/Archives/edgar/data/47111/000004711117000041/,누적 1249515000 − 직전누적 625899000 (시작 2017-01-01),13
+Hershey,HSY,2017Q4,2017-12-31,분기말 자산총계,5553726000,USD,공시,https://www.sec.gov/Archives/edgar/data/47111/000004711118000011/,,13
+Hershey,HSY,2017Q4,2017-12-31,분기말 부채총계,4622161000,USD,공시,https://www.sec.gov/Archives/edgar/data/47111/000004711118000011/,,13
+Hershey,HSY,2017Q4,2017-12-31,분기말 총자본(자기자본),931565000,USD,공시,https://www.sec.gov/Archives/edgar/data/47111/000004711118000011/,,13
+Hershey,HSY,2017Q4,2017-12-31,분기말 지배지분 자본,915338000,USD,공시,https://www.sec.gov/Archives/edgar/data/47111/000004711118000011/,,13
+Hershey,HSY,2017Q4,2017-12-29,분기말 종가,113.51,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/HSY?interval=1d&events=splits (2017-12-29),,13
+Hershey,HSY,2017Q4,2018-02-16,분기말 상장주식수,210483774,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/47111/000004711118000011/,"XBRL 원문 dei:EntityCommonStockSharesOutstanding 2개 클래스 합 ; 클래스별(2018-02-16): HersheyCommonStockMember 149863997, CommonClassBMember 60619777",13
+Hershey,HSY,2017Q4,2017-12-29,분기말 시가총액,23892013187,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/HSY?interval=1d&events=splits (2017-12-29) ; https://www.sec.gov/Archives/edgar/data/47111/000004711118000011/,종가 113.51 × 주식수 210483774,13
+Hershey,HSY,2018Q1,2018-04-01,분기별 매출액,1971959000,USD,공시,https://www.sec.gov/Archives/edgar/data/47111/000004711118000018/,,13
+Hershey,HSY,2018Q1,2018-04-01,분기별 영업이익,480512000,USD,공시,https://www.sec.gov/Archives/edgar/data/47111/000004711118000018/,,13
+Hershey,HSY,2018Q1,2018-04-01,분기별 당기순이익(지배),350203000,USD,공시,https://www.sec.gov/Archives/edgar/data/47111/000004711118000018/,,13
+Hershey,HSY,2018Q1,2018-04-01,분기별 영업활동현금흐름,352057000,USD,공시,https://www.sec.gov/Archives/edgar/data/47111/000004711118000018/,,13
+Hershey,HSY,2018Q1,2018-04-01,분기말 자산총계,7332798000,USD,공시,https://www.sec.gov/Archives/edgar/data/47111/000004711118000018/,,13
+Hershey,HSY,2018Q1,2018-04-01,분기말 부채총계,6343143000,USD,공시,https://www.sec.gov/Archives/edgar/data/47111/000004711118000018/,,13
+Hershey,HSY,2018Q1,2018-04-01,분기말 총자본(자기자본),989655000,USD,공시,https://www.sec.gov/Archives/edgar/data/47111/000004711118000018/,,13
+Hershey,HSY,2018Q1,2018-04-01,분기말 지배지분 자본,972128000,USD,공시,https://www.sec.gov/Archives/edgar/data/47111/000004711118000018/,,13
+Hershey,HSY,2018Q1,2018-03-29,분기말 종가,98.96,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/HSY?interval=1d&events=splits (2018-03-29),,13
+Hershey,HSY,2018Q1,2018-04-20,분기말 상장주식수,209266949,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/47111/000004711118000018/,"XBRL 원문 dei:EntityCommonStockSharesOutstanding 2개 클래스 합 ; 클래스별(2018-04-20): HersheyCommonStockMember 148647172, CommonClassBMember 60619777",13
+Hershey,HSY,2018Q1,2018-03-29,분기말 시가총액,20709057273,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/HSY?interval=1d&events=splits (2018-03-29) ; https://www.sec.gov/Archives/edgar/data/47111/000004711118000018/,종가 98.96 × 주식수 209266949,13
+Hershey,HSY,2018Q2,2018-07-01,분기별 매출액,1751615000,USD,공시,https://www.sec.gov/Archives/edgar/data/47111/000004711118000035/,,13
+Hershey,HSY,2018Q2,2018-07-01,분기별 영업이익,315724000,USD,공시,https://www.sec.gov/Archives/edgar/data/47111/000004711118000035/,,13
+Hershey,HSY,2018Q2,2018-07-01,분기별 당기순이익(지배),226855000,USD,공시,https://www.sec.gov/Archives/edgar/data/47111/000004711118000035/,,13
+Hershey,HSY,2018Q2,2018-07-01,분기별 영업활동현금흐름,250825000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/47111/000004711118000035/ ; https://www.sec.gov/Archives/edgar/data/47111/000004711118000018/,누적 602882000 − 직전누적 352057000 (시작 2018-01-01),13
+Hershey,HSY,2018Q2,2018-07-01,분기말 자산총계,7405653000,USD,공시,https://www.sec.gov/Archives/edgar/data/47111/000004711118000035/,,13
+Hershey,HSY,2018Q2,2018-07-01,분기말 부채총계,6341836000,USD,공시,https://www.sec.gov/Archives/edgar/data/47111/000004711118000035/,,13
+Hershey,HSY,2018Q2,2018-07-01,분기말 총자본(자기자본),1063817000,USD,공시,https://www.sec.gov/Archives/edgar/data/47111/000004711118000035/,,13
+Hershey,HSY,2018Q2,2018-07-01,분기말 지배지분 자본,1049944000,USD,공시,https://www.sec.gov/Archives/edgar/data/47111/000004711118000035/,,13
+Hershey,HSY,2018Q2,2018-06-29,분기말 종가,93.06,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/HSY?interval=1d&events=splits (2018-06-29),,13
+Hershey,HSY,2018Q2,2018-07-20,분기말 상장주식수,209312712,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/47111/000004711118000035/,"XBRL 원문 dei:EntityCommonStockSharesOutstanding 2개 클래스 합 ; 클래스별(2018-07-20): HersheyCommonStockMember 148692935, CommonClassBMember 60619777",13
+Hershey,HSY,2018Q2,2018-06-29,분기말 시가총액,19478640979,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/HSY?interval=1d&events=splits (2018-06-29) ; https://www.sec.gov/Archives/edgar/data/47111/000004711118000035/,종가 93.06 × 주식수 209312712,13
+Hershey,HSY,2018Q3,2018-09-30,분기별 매출액,2079593000,USD,공시,https://www.sec.gov/Archives/edgar/data/47111/000004711118000049/,,13
+Hershey,HSY,2018Q3,2018-09-30,분기별 영업이익,406263000,USD,공시,https://www.sec.gov/Archives/edgar/data/47111/000004711118000049/,,13
+Hershey,HSY,2018Q3,2018-09-30,분기별 당기순이익(지배),263713000,USD,공시,https://www.sec.gov/Archives/edgar/data/47111/000004711118000049/,,13
+Hershey,HSY,2018Q3,2018-09-30,분기별 영업활동현금흐름,289979000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/47111/000004711118000049/ ; https://www.sec.gov/Archives/edgar/data/47111/000004711118000035/,누적 892861000 − 직전누적 602882000 (시작 2018-01-01),13
+Hershey,HSY,2018Q3,2018-09-30,분기말 자산총계,7836189000,USD,공시,https://www.sec.gov/Archives/edgar/data/47111/000004711118000049/,,13
+Hershey,HSY,2018Q3,2018-09-30,분기말 부채총계,6586917000,USD,공시,https://www.sec.gov/Archives/edgar/data/47111/000004711118000049/,,13
+Hershey,HSY,2018Q3,2018-09-30,분기말 총자본(자기자본),1249272000,USD,공시,https://www.sec.gov/Archives/edgar/data/47111/000004711118000049/,,13
+Hershey,HSY,2018Q3,2018-09-30,분기말 지배지분 자본,1234902000,USD,공시,https://www.sec.gov/Archives/edgar/data/47111/000004711118000049/,,13
+Hershey,HSY,2018Q3,2018-09-28,분기말 종가,102.0,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/HSY?interval=1d&events=splits (2018-09-28),,13
+Hershey,HSY,2018Q3,2018-10-19,분기말 상장주식수,209807788,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/47111/000004711118000049/,"XBRL 원문 dei:EntityCommonStockSharesOutstanding 2개 클래스 합 ; 클래스별(2018-10-19): HersheyCommonStockMember 149188011, CommonClassBMember 60619777",13
+Hershey,HSY,2018Q3,2018-09-28,분기말 시가총액,21400394376,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/HSY?interval=1d&events=splits (2018-09-28) ; https://www.sec.gov/Archives/edgar/data/47111/000004711118000049/,종가 102.0 × 주식수 209807788,13
+Hershey,HSY,2018Q4,2018-12-31,분기별 매출액,1987902000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/47111/000004711119000010/ ; https://www.sec.gov/Archives/edgar/data/47111/000004711118000049/,연간 7791069000 − 9개월누적 5803167000 (Revenues / 9개월 SalesRevenueNet),13
+Hershey,HSY,2018Q4,2018-12-31,분기별 영업이익,421165000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/47111/000004711119000010/ ; https://www.sec.gov/Archives/edgar/data/47111/000004711118000049/,연간 1623664000 − 9개월누적 1202499000 (OperatingIncomeLoss),13
+Hershey,HSY,2018Q4,2018-12-31,분기별 당기순이익(지배),336791000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/47111/000004711119000010/ ; https://www.sec.gov/Archives/edgar/data/47111/000004711118000049/,연간 1177562000 − 9개월누적 840771000 (NetIncomeLoss),13
+Hershey,HSY,2018Q4,2018-12-31,분기별 영업활동현금흐름,707132000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/47111/000004711119000010/ ; https://www.sec.gov/Archives/edgar/data/47111/000004711118000049/,누적 1599993000 − 직전누적 892861000 (시작 2018-01-01),13
+Hershey,HSY,2018Q4,2018-12-31,분기말 자산총계,7703020000,USD,공시,https://www.sec.gov/Archives/edgar/data/47111/000004711119000010/,,13
+Hershey,HSY,2018Q4,2018-12-31,분기말 부채총계,6295754000,USD,공시,https://www.sec.gov/Archives/edgar/data/47111/000004711119000010/,,13
+Hershey,HSY,2018Q4,2018-12-31,분기말 총자본(자기자본),1407266000,USD,공시,https://www.sec.gov/Archives/edgar/data/47111/000004711119000010/,,13
+Hershey,HSY,2018Q4,2018-12-31,분기말 지배지분 자본,1398721000,USD,공시,https://www.sec.gov/Archives/edgar/data/47111/000004711119000010/,,13
+Hershey,HSY,2018Q4,2018-12-31,분기말 종가,107.18,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/HSY?interval=1d&events=splits (2018-12-31),,13
+Hershey,HSY,2018Q4,2019-02-15,분기말 상장주식수,208519794,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/47111/000004711119000010/,"XBRL 원문 dei:EntityCommonStockSharesOutstanding 2개 클래스 합 ; 클래스별(2019-02-15): HersheyCommonStockMember 147906017, CommonClassBMember 60613777",13
+Hershey,HSY,2018Q4,2018-12-31,분기말 시가총액,22349151521,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/HSY?interval=1d&events=splits (2018-12-31) ; https://www.sec.gov/Archives/edgar/data/47111/000004711119000010/,종가 107.18 × 주식수 208519794,13
+Hershey,HSY,2019Q1,2019-03-31,분기별 매출액,2016488000,USD,공시,https://www.sec.gov/Archives/edgar/data/47111/000004711119000023/,,13
+Hershey,HSY,2019Q1,2019-03-31,분기별 영업이익,438869000,USD,공시,https://www.sec.gov/Archives/edgar/data/47111/000004711119000023/,,13
+Hershey,HSY,2019Q1,2019-03-31,분기별 당기순이익(지배),304358000,USD,공시,https://www.sec.gov/Archives/edgar/data/47111/000004711119000023/,,13
+Hershey,HSY,2019Q1,2019-03-31,분기별 영업활동현금흐름,329960000,USD,공시,https://www.sec.gov/Archives/edgar/data/47111/000004711119000023/,,13
+Hershey,HSY,2019Q1,2019-03-31,분기말 자산총계,7857376000,USD,공시,https://www.sec.gov/Archives/edgar/data/47111/000004711119000023/,,13
+Hershey,HSY,2019Q1,2019-03-31,분기말 부채총계,6434016000,USD,공시,https://www.sec.gov/Archives/edgar/data/47111/000004711119000023/,,13
+Hershey,HSY,2019Q1,2019-03-31,분기말 총자본(자기자본),1423360000,USD,공시,https://www.sec.gov/Archives/edgar/data/47111/000004711119000023/,,13
+Hershey,HSY,2019Q1,2019-03-31,분기말 지배지분 자본,1414737000,USD,공시,https://www.sec.gov/Archives/edgar/data/47111/000004711119000023/,,13
+Hershey,HSY,2019Q1,2019-03-29,분기말 종가,114.83,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/HSY?interval=1d&events=splits (2019-03-29),,13
+Hershey,HSY,2019Q1,2019-04-19,분기말 상장주식수,208799510,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/47111/000004711119000023/,"XBRL 원문 dei:EntityCommonStockSharesOutstanding 2개 클래스 합 ; 클래스별(2019-04-19): HersheyCommonStockMember 148185733, CommonClassBMember 60613777",13
+Hershey,HSY,2019Q1,2019-03-29,분기말 시가총액,23976447733,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/HSY?interval=1d&events=splits (2019-03-29) ; https://www.sec.gov/Archives/edgar/data/47111/000004711119000023/,종가 114.83 × 주식수 208799510,13
+Hershey,HSY,2019Q2,2019-06-30,분기별 매출액,1767217000,USD,공시,https://www.sec.gov/Archives/edgar/data/47111/000004711119000036/,,13
+Hershey,HSY,2019Q2,2019-06-30,분기별 영업이익,410070000,USD,공시,https://www.sec.gov/Archives/edgar/data/47111/000004711119000036/,,13
+Hershey,HSY,2019Q2,2019-06-30,분기별 당기순이익(지배),312840000,USD,공시,https://www.sec.gov/Archives/edgar/data/47111/000004711119000036/,,13
+Hershey,HSY,2019Q2,2019-06-30,분기별 영업활동현금흐름,349368000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/47111/000004711119000036/ ; https://www.sec.gov/Archives/edgar/data/47111/000004711119000023/,누적 679328000 − 직전누적 329960000 (시작 2019-01-01),13
+Hershey,HSY,2019Q2,2019-06-30,분기말 자산총계,7793560000,USD,공시,https://www.sec.gov/Archives/edgar/data/47111/000004711119000036/,,13
+Hershey,HSY,2019Q2,2019-06-30,분기말 부채총계,6109479000,USD,공시,https://www.sec.gov/Archives/edgar/data/47111/000004711119000036/,,13
+Hershey,HSY,2019Q2,2019-06-30,분기말 총자본(자기자본),1684081000,USD,공시,https://www.sec.gov/Archives/edgar/data/47111/000004711119000036/,,13
+Hershey,HSY,2019Q2,2019-06-30,분기말 지배지분 자본,1675120000,USD,공시,https://www.sec.gov/Archives/edgar/data/47111/000004711119000036/,,13
+Hershey,HSY,2019Q2,2019-06-28,분기말 종가,134.03,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/HSY?interval=1d&events=splits (2019-06-28),,13
+Hershey,HSY,2019Q2,2019-07-19,분기말 상장주식수,209578918,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/47111/000004711119000036/,"XBRL 원문 dei:EntityCommonStockSharesOutstanding 2개 클래스 합 ; 클래스별(2019-07-19): CommonStockMember 148965141, CommonClassBMember 60613777",13
+Hershey,HSY,2019Q2,2019-06-28,분기말 시가총액,28089862380,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/HSY?interval=1d&events=splits (2019-06-28) ; https://www.sec.gov/Archives/edgar/data/47111/000004711119000036/,종가 134.03 × 주식수 209578918,13
+Hershey,HSY,2019Q3,2019-09-29,분기별 매출액,2134422000,USD,공시,https://www.sec.gov/Archives/edgar/data/47111/000004711119000059/,,13
+Hershey,HSY,2019Q3,2019-09-29,분기별 영업이익,460815000,USD,공시,https://www.sec.gov/Archives/edgar/data/47111/000004711119000059/,,13
+Hershey,HSY,2019Q3,2019-09-29,분기별 당기순이익(지배),325307000,USD,공시,https://www.sec.gov/Archives/edgar/data/47111/000004711119000059/,,13
+Hershey,HSY,2019Q3,2019-09-29,분기별 영업활동현금흐름,314059000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/47111/000004711119000059/ ; https://www.sec.gov/Archives/edgar/data/47111/000004711119000036/,누적 993387000 − 직전누적 679328000 (시작 2019-01-01),13
+Hershey,HSY,2019Q3,2019-09-29,분기말 자산총계,8464260000,USD,공시,https://www.sec.gov/Archives/edgar/data/47111/000004711119000059/,,13
+Hershey,HSY,2019Q3,2019-09-29,분기말 부채총계,6702669000,USD,공시,https://www.sec.gov/Archives/edgar/data/47111/000004711119000059/,,13
+Hershey,HSY,2019Q3,2019-09-29,분기말 총자본(자기자본),1761591000,USD,공시,https://www.sec.gov/Archives/edgar/data/47111/000004711119000059/,,13
+Hershey,HSY,2019Q3,2019-09-29,분기말 지배지분 자본,1753162000,USD,공시,https://www.sec.gov/Archives/edgar/data/47111/000004711119000059/,,13
+Hershey,HSY,2019Q3,2019-09-27,분기말 종가,153.78,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/HSY?interval=1d&events=splits (2019-09-27),,13
+Hershey,HSY,2019Q3,2019-10-18,분기말 상장주식수,208921379,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/47111/000004711119000059/,"XBRL 원문 dei:EntityCommonStockSharesOutstanding 2개 클래스 합 ; 클래스별(2019-10-18): CommonStockMember 148307602, CommonClassBMember 60613777",13
+Hershey,HSY,2019Q3,2019-09-27,분기말 시가총액,32127929663,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/HSY?interval=1d&events=splits (2019-09-27) ; https://www.sec.gov/Archives/edgar/data/47111/000004711119000059/,종가 153.78 × 주식수 208921379,13
+Hershey,HSY,2019Q4,2019-12-31,분기별 매출액,2068125000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/47111/000004711120000007/ ; https://www.sec.gov/Archives/edgar/data/47111/000004711119000059/,연간 7986252000 − 9개월누적 5918127000 (Revenues / 9개월 RevenueFromContractWithCustomerExcludingAssessedTax),13
+Hershey,HSY,2019Q4,2019-12-31,분기별 영업이익,286198000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/47111/000004711120000007/ ; https://www.sec.gov/Archives/edgar/data/47111/000004711119000059/,연간 1595952000 − 9개월누적 1309754000 (OperatingIncomeLoss),13
+Hershey,HSY,2019Q4,2019-12-31,분기별 당기순이익(지배),207187000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/47111/000004711120000007/ ; https://www.sec.gov/Archives/edgar/data/47111/000004711119000059/,연간 1149692000 − 9개월누적 942505000 (NetIncomeLoss),13
+Hershey,HSY,2019Q4,2019-12-31,분기별 영업활동현금흐름,770486000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/47111/000004711120000007/ ; https://www.sec.gov/Archives/edgar/data/47111/000004711119000059/,누적 1763873000 − 직전누적 993387000 (시작 2019-01-01),13
+Hershey,HSY,2019Q4,2019-12-31,분기말 자산총계,8140395000,USD,공시,https://www.sec.gov/Archives/edgar/data/47111/000004711120000007/,,13
+Hershey,HSY,2019Q4,2019-12-31,분기말 부채총계,6395401000,USD,공시,https://www.sec.gov/Archives/edgar/data/47111/000004711120000007/,,13
+Hershey,HSY,2019Q4,2019-12-31,분기말 총자본(자기자본),1744994000,USD,공시,https://www.sec.gov/Archives/edgar/data/47111/000004711120000007/,,13
+Hershey,HSY,2019Q4,2019-12-31,분기말 지배지분 자본,1739222000,USD,공시,https://www.sec.gov/Archives/edgar/data/47111/000004711120000007/,,13
+Hershey,HSY,2019Q4,2019-12-31,분기말 종가,146.98,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/HSY?interval=1d&events=splits (2019-12-31),,13
+Hershey,HSY,2019Q4,2020-02-14,분기말 상장주식수,209749611,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/47111/000004711120000007/,"XBRL 원문 dei:EntityCommonStockSharesOutstanding 2개 클래스 합 ; 클래스별(2020-02-14): CommonStockMember 148135834, CommonClassBMember 61613777",13
+Hershey,HSY,2019Q4,2019-12-31,분기말 시가총액,30828997825,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/HSY?interval=1d&events=splits (2019-12-31) ; https://www.sec.gov/Archives/edgar/data/47111/000004711120000007/,종가 146.98 × 주식수 209749611,13
+Hershey,HSY,2020Q1,2020-03-29,분기별 매출액,2037317000,USD,공시,https://www.sec.gov/Archives/edgar/data/47111/000004711120000020/,,13
+Hershey,HSY,2020Q1,2020-03-29,분기별 영업이익,382800000,USD,공시,https://www.sec.gov/Archives/edgar/data/47111/000004711120000020/,,13
+Hershey,HSY,2020Q1,2020-03-29,분기별 당기순이익(지배),271137000,USD,공시,https://www.sec.gov/Archives/edgar/data/47111/000004711120000020/,,13
+Hershey,HSY,2020Q1,2020-03-29,분기별 영업활동현금흐름,246093000,USD,공시,https://www.sec.gov/Archives/edgar/data/47111/000004711120000020/,,13
+Hershey,HSY,2020Q1,2020-03-29,분기말 자산총계,8855443000,USD,공시,https://www.sec.gov/Archives/edgar/data/47111/000004711120000020/,,13
+Hershey,HSY,2020Q1,2020-03-29,분기말 부채총계,7180902000,USD,공시,https://www.sec.gov/Archives/edgar/data/47111/000004711120000020/,,13
+Hershey,HSY,2020Q1,2020-03-29,분기말 총자본(자기자본),1674541000,USD,공시,https://www.sec.gov/Archives/edgar/data/47111/000004711120000020/,,13
+Hershey,HSY,2020Q1,2020-03-29,분기말 지배지분 자본,1671231000,USD,공시,https://www.sec.gov/Archives/edgar/data/47111/000004711120000020/,,13
+Hershey,HSY,2020Q1,2020-03-27,분기말 종가,130.84,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/HSY?interval=1d&events=splits (2020-03-27),,13
+Hershey,HSY,2020Q1,2020-04-17,분기말 상장주식수,208009628,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/47111/000004711120000020/,"XBRL 원문 dei:EntityCommonStockSharesOutstanding 2개 클래스 합 ; 클래스별(2020-04-17): CommonStockMember 147395851, CommonClassBMember 60613777",13
+Hershey,HSY,2020Q1,2020-03-27,분기말 시가총액,27215979728,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/HSY?interval=1d&events=splits (2020-03-27) ; https://www.sec.gov/Archives/edgar/data/47111/000004711120000020/,종가 130.84 × 주식수 208009628,13
+Hershey,HSY,2020Q2,2020-06-28,분기별 매출액,1707329000,USD,공시,https://www.sec.gov/Archives/edgar/data/47111/000004711120000045/,,13
+Hershey,HSY,2020Q2,2020-06-28,분기별 영업이익,383373000,USD,공시,https://www.sec.gov/Archives/edgar/data/47111/000004711120000045/,,13
+Hershey,HSY,2020Q2,2020-06-28,분기별 당기순이익(지배),268901000,USD,공시,https://www.sec.gov/Archives/edgar/data/47111/000004711120000045/,,13
+Hershey,HSY,2020Q2,2020-06-28,분기별 영업활동현금흐름,367954000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/47111/000004711120000045/ ; https://www.sec.gov/Archives/edgar/data/47111/000004711120000020/,누적 614047000 − 직전누적 246093000 (시작 2020-01-01),13
+Hershey,HSY,2020Q2,2020-06-28,분기말 자산총계,8911071000,USD,공시,https://www.sec.gov/Archives/edgar/data/47111/000004711120000045/,,13
+Hershey,HSY,2020Q2,2020-06-28,분기말 부채총계,7154982000,USD,공시,https://www.sec.gov/Archives/edgar/data/47111/000004711120000045/,,13
+Hershey,HSY,2020Q2,2020-06-28,분기말 총자본(자기자본),1756089000,USD,공시,https://www.sec.gov/Archives/edgar/data/47111/000004711120000045/,,13
+Hershey,HSY,2020Q2,2020-06-28,분기말 지배지분 자본,1753605000,USD,공시,https://www.sec.gov/Archives/edgar/data/47111/000004711120000045/,,13
+Hershey,HSY,2020Q2,2020-06-26,분기말 종가,125.85,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/HSY?interval=1d&events=splits (2020-06-26),,13
+Hershey,HSY,2020Q2,2020-07-17,분기말 상장주식수,208022491,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/47111/000004711120000045/,"XBRL 원문 dei:EntityCommonStockSharesOutstanding 2개 클래스 합 ; 클래스별(2020-07-17): CommonStockMember 147408714, CommonClassBMember 60613777",13
+Hershey,HSY,2020Q2,2020-06-26,분기말 시가총액,26179630492,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/HSY?interval=1d&events=splits (2020-06-26) ; https://www.sec.gov/Archives/edgar/data/47111/000004711120000045/,종가 125.85 × 주식수 208022491,13
+Hershey,HSY,2020Q3,2020-09-27,분기별 매출액,2219829000,USD,공시,https://www.sec.gov/Archives/edgar/data/47111/000004711120000053/,,13
+Hershey,HSY,2020Q3,2020-09-27,분기별 영업이익,611410000,USD,공시,https://www.sec.gov/Archives/edgar/data/47111/000004711120000053/,,13
+Hershey,HSY,2020Q3,2020-09-27,분기별 당기순이익(지배),447283000,USD,공시,https://www.sec.gov/Archives/edgar/data/47111/000004711120000053/,,13
+Hershey,HSY,2020Q3,2020-09-27,분기별 영업활동현금흐름,481219000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/47111/000004711120000053/ ; https://www.sec.gov/Archives/edgar/data/47111/000004711120000045/,누적 1095266000 − 직전누적 614047000 (시작 2020-01-01),13
+Hershey,HSY,2020Q3,2020-09-27,분기말 자산총계,9255034000,USD,공시,https://www.sec.gov/Archives/edgar/data/47111/000004711120000053/,,13
+Hershey,HSY,2020Q3,2020-09-27,분기말 부채총계,7186221000,USD,공시,https://www.sec.gov/Archives/edgar/data/47111/000004711120000053/,,13
+Hershey,HSY,2020Q3,2020-09-27,분기말 총자본(자기자본),2068813000,USD,공시,https://www.sec.gov/Archives/edgar/data/47111/000004711120000053/,,13
+Hershey,HSY,2020Q3,2020-09-27,분기말 지배지분 자본,2065854000,USD,공시,https://www.sec.gov/Archives/edgar/data/47111/000004711120000053/,,13
+Hershey,HSY,2020Q3,2020-09-25,분기말 종가,139.52,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/HSY?interval=1d&events=splits (2020-09-25),,13
+Hershey,HSY,2020Q3,2020-10-30,분기말 상장주식수,208143506,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/47111/000004711120000053/,"XBRL 원문 dei:EntityCommonStockSharesOutstanding 2개 클래스 합 ; 클래스별(2020-10-30): CommonStockMember 147529729, CommonClassBMember 60613777",13
+Hershey,HSY,2020Q3,2020-09-25,분기말 시가총액,29040181957,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/HSY?interval=1d&events=splits (2020-09-25) ; https://www.sec.gov/Archives/edgar/data/47111/000004711120000053/,종가 139.52 × 주식수 208143506,13
+Hershey,HSY,2020Q4,2020-12-31,분기별 매출액,2185244000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/47111/000004711121000007/ ; https://www.sec.gov/Archives/edgar/data/47111/000004711120000053/,연간 8149719000 − 9개월누적 5964475000 (Revenues / 9개월 RevenueFromContractWithCustomerExcludingAssessedTax),13
+Hershey,HSY,2020Q4,2020-12-31,분기별 영업이익,405115000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/47111/000004711121000007/ ; https://www.sec.gov/Archives/edgar/data/47111/000004711120000053/,연간 1782698000 − 9개월누적 1377583000 (OperatingIncomeLoss),13
+Hershey,HSY,2020Q4,2020-12-31,분기별 당기순이익(지배),291387000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/47111/000004711121000007/ ; https://www.sec.gov/Archives/edgar/data/47111/000004711120000053/,연간 1278708000 − 9개월누적 987321000 (NetIncomeLoss),13
+Hershey,HSY,2020Q4,2020-12-31,분기별 영업활동현금흐름,604391000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/47111/000004711121000007/ ; https://www.sec.gov/Archives/edgar/data/47111/000004711120000053/,누적 1699657000 − 직전누적 1095266000 (시작 2020-01-01),13
+Hershey,HSY,2020Q4,2020-12-31,분기말 자산총계,9131845000,USD,공시,https://www.sec.gov/Archives/edgar/data/47111/000004711121000007/,,13
+Hershey,HSY,2020Q4,2020-12-31,분기말 부채총계,6893962000,USD,공시,https://www.sec.gov/Archives/edgar/data/47111/000004711121000007/,,13
+Hershey,HSY,2020Q4,2020-12-31,분기말 총자본(자기자본),2237883000,USD,공시,https://www.sec.gov/Archives/edgar/data/47111/000004711121000007/,,13
+Hershey,HSY,2020Q4,2020-12-31,분기말 지배지분 자본,2234352000,USD,공시,https://www.sec.gov/Archives/edgar/data/47111/000004711121000007/,,13
+Hershey,HSY,2020Q4,2020-12-31,분기말 종가,152.33,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/HSY?interval=1d&events=splits (2020-12-31),,13
+Hershey,HSY,2020Q4,2021-02-12,분기말 상장주식수,207165543,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/47111/000004711121000007/,"XBRL 원문 dei:EntityCommonStockSharesOutstanding 2개 클래스 합 ; 클래스별(2021-02-12): CommonStockMember 146551766, CommonClassBMember 60613777",13
+Hershey,HSY,2020Q4,2020-12-31,분기말 시가총액,31557527165,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/HSY?interval=1d&events=splits (2020-12-31) ; https://www.sec.gov/Archives/edgar/data/47111/000004711121000007/,종가 152.33 × 주식수 207165543,13
+Hershey,HSY,2021Q1,2021-04-04,분기별 매출액,2295948000,USD,공시,https://www.sec.gov/Archives/edgar/data/47111/000004711121000027/,,13
+Hershey,HSY,2021Q1,2021-04-04,분기별 영업이익,553044000,USD,공시,https://www.sec.gov/Archives/edgar/data/47111/000004711121000027/,,13
+Hershey,HSY,2021Q1,2021-04-04,분기별 당기순이익(지배),395799000,USD,공시,https://www.sec.gov/Archives/edgar/data/47111/000004711121000027/,,13
+Hershey,HSY,2021Q1,2021-04-04,분기별 영업활동현금흐름,609640000,USD,공시,https://www.sec.gov/Archives/edgar/data/47111/000004711121000027/,,13
+Hershey,HSY,2021Q1,2021-04-04,분기말 자산총계,9038128000,USD,공시,https://www.sec.gov/Archives/edgar/data/47111/000004711121000027/,,13
+Hershey,HSY,2021Q1,2021-04-04,분기말 부채총계,6773282000,USD,공시,https://www.sec.gov/Archives/edgar/data/47111/000004711121000027/,,13
+Hershey,HSY,2021Q1,2021-04-04,분기말 총자본(자기자본),2264846000,USD,공시,https://www.sec.gov/Archives/edgar/data/47111/000004711121000027/,,13
+Hershey,HSY,2021Q1,2021-04-04,분기말 지배지분 자본,2255994000,USD,공시,https://www.sec.gov/Archives/edgar/data/47111/000004711121000027/,,13
+Hershey,HSY,2021Q1,2021-04-01,분기말 종가,158.76,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/HSY?interval=1d&events=splits (2021-04-01),,13
+Hershey,HSY,2021Q1,2021-04-23,분기말 상장주식수,206996453,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/47111/000004711121000027/,"XBRL 원문 dei:EntityCommonStockSharesOutstanding 2개 클래스 합 ; 클래스별(2021-04-23): CommonStockMember 146382676, CommonClassBMember 60613777",13
+Hershey,HSY,2021Q1,2021-04-01,분기말 시가총액,32862756878,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/HSY?interval=1d&events=splits (2021-04-01) ; https://www.sec.gov/Archives/edgar/data/47111/000004711121000027/,종가 158.76 × 주식수 206996453,13
+Hershey,HSY,2021Q2,2021-07-04,분기별 매출액,1989422000,USD,공시,https://www.sec.gov/Archives/edgar/data/47111/000004711121000046/,,13
+Hershey,HSY,2021Q2,2021-07-04,분기별 영업이익,456675000,USD,공시,https://www.sec.gov/Archives/edgar/data/47111/000004711121000046/,,13
+Hershey,HSY,2021Q2,2021-07-04,분기별 당기순이익(지배),301230000,USD,공시,https://www.sec.gov/Archives/edgar/data/47111/000004711121000046/,,13
+Hershey,HSY,2021Q2,2021-07-04,분기별 영업활동현금흐름,408012000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/47111/000004711121000046/ ; https://www.sec.gov/Archives/edgar/data/47111/000004711121000027/,누적 1017652000 − 직전누적 609640000 (시작 2021-01-01),13
+Hershey,HSY,2021Q2,2021-07-04,분기말 자산총계,8883863000,USD,공시,https://www.sec.gov/Archives/edgar/data/47111/000004711121000046/,,13
+Hershey,HSY,2021Q2,2021-07-04,분기말 부채총계,6609970000,USD,공시,https://www.sec.gov/Archives/edgar/data/47111/000004711121000046/,,13
+Hershey,HSY,2021Q2,2021-07-04,분기말 총자본(자기자본),2273893000,USD,공시,https://www.sec.gov/Archives/edgar/data/47111/000004711121000046/,,13
+Hershey,HSY,2021Q2,2021-07-04,분기말 지배지분 자본,2265049000,USD,공시,https://www.sec.gov/Archives/edgar/data/47111/000004711121000046/,,13
+Hershey,HSY,2021Q2,2021-07-02,분기말 종가,174.0,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/HSY?interval=1d&events=splits (2021-07-02),,13
+Hershey,HSY,2021Q2,2021-07-23,분기말 상장주식수,206039544,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/47111/000004711121000046/,"XBRL 원문 dei:EntityCommonStockSharesOutstanding 2개 클래스 합 ; 클래스별(2021-07-23): CommonStockMember 145425767, CommonClassBMember 60613777",13
+Hershey,HSY,2021Q2,2021-07-02,분기말 시가총액,35850880656,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/HSY?interval=1d&events=splits (2021-07-02) ; https://www.sec.gov/Archives/edgar/data/47111/000004711121000046/,종가 174.0 × 주식수 206039544,13
+Hershey,HSY,2021Q3,2021-10-03,분기별 매출액,2359839000,USD,공시,https://www.sec.gov/Archives/edgar/data/47111/000004711121000055/,,13
+Hershey,HSY,2021Q3,2021-10-03,분기별 영업이익,574831000,USD,공시,https://www.sec.gov/Archives/edgar/data/47111/000004711121000055/,,13
+Hershey,HSY,2021Q3,2021-10-03,분기별 당기순이익(지배),444927000,USD,공시,https://www.sec.gov/Archives/edgar/data/47111/000004711121000055/,,13
+Hershey,HSY,2021Q3,2021-10-03,분기별 영업활동현금흐름,386065000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/47111/000004711121000055/ ; https://www.sec.gov/Archives/edgar/data/47111/000004711121000046/,누적 1403717000 − 직전누적 1017652000 (시작 2021-01-01),13
+Hershey,HSY,2021Q3,2021-10-03,분기말 자산총계,9439183000,USD,공시,https://www.sec.gov/Archives/edgar/data/47111/000004711121000055/,,13
+Hershey,HSY,2021Q3,2021-10-03,분기말 부채총계,6902050000,USD,공시,https://www.sec.gov/Archives/edgar/data/47111/000004711121000055/,,13
+Hershey,HSY,2021Q3,2021-10-03,분기말 총자본(자기자본),2537133000,USD,공시,https://www.sec.gov/Archives/edgar/data/47111/000004711121000055/,,13
+Hershey,HSY,2021Q3,2021-10-03,분기말 지배지분 자본,2528294000,USD,공시,https://www.sec.gov/Archives/edgar/data/47111/000004711121000055/,,13
+Hershey,HSY,2021Q3,2021-10-01,분기말 종가,170.78,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/HSY?interval=1d&events=splits (2021-10-01),,13
+Hershey,HSY,2021Q3,2021-10-22,분기말 상장주식수,206003728,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/47111/000004711121000055/,"XBRL 원문 dei:EntityCommonStockSharesOutstanding 2개 클래스 합 ; 클래스별(2021-10-22): CommonStockMember 145389951, CommonClassBMember 60613777",13
+Hershey,HSY,2021Q3,2021-10-01,분기말 시가총액,35181316668,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/HSY?interval=1d&events=splits (2021-10-01) ; https://www.sec.gov/Archives/edgar/data/47111/000004711121000055/,종가 170.78 × 주식수 206003728,13
+Hershey,HSY,2021Q4,2021-12-31,분기별 매출액,2326128000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/47111/000004711122000017/ ; https://www.sec.gov/Archives/edgar/data/47111/000004711121000055/,연간 8971337000 − 9개월누적 6645209000 (RevenueFromContractWithCustomerExcludingAssessedTax),13
+Hershey,HSY,2021Q4,2021-12-31,분기별 영업이익,459172000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/47111/000004711122000017/ ; https://www.sec.gov/Archives/edgar/data/47111/000004711121000055/,연간 2043722000 − 9개월누적 1584550000 (OperatingIncomeLoss),13
+Hershey,HSY,2021Q4,2021-12-31,분기별 당기순이익(지배),335556000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/47111/000004711122000017/ ; https://www.sec.gov/Archives/edgar/data/47111/000004711121000055/,연간 1477512000 − 9개월누적 1141956000 (NetIncomeLoss),13
+Hershey,HSY,2021Q4,2021-12-31,분기별 영업활동현금흐름,679167000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/47111/000004711122000017/ ; https://www.sec.gov/Archives/edgar/data/47111/000004711121000055/,누적 2082884000 − 직전누적 1403717000 (시작 2021-01-01),13
+Hershey,HSY,2021Q4,2021-12-31,분기말 자산총계,10412231000,USD,공시,https://www.sec.gov/Archives/edgar/data/47111/000004711122000017/,,13
+Hershey,HSY,2021Q4,2021-12-31,분기말 부채총계,7655002000,USD,공시,https://www.sec.gov/Archives/edgar/data/47111/000004711122000017/,,13
+Hershey,HSY,2021Q4,2021-12-31,분기말 총자본(자기자본),2757229000,USD,공시,https://www.sec.gov/Archives/edgar/data/47111/000004711122000017/,,13
+Hershey,HSY,2021Q4,2021-12-31,분기말 지배지분 자본,2757229000,USD,공시,https://www.sec.gov/Archives/edgar/data/47111/000004711122000017/,,13
+Hershey,HSY,2021Q4,2021-12-31,분기말 종가,193.47,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/HSY?interval=1d&events=splits (2021-12-31),,13
+Hershey,HSY,2021Q4,2022-02-16,분기말 상장주식수,205241853,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/47111/000004711122000017/,"XBRL 원문 dei:EntityCommonStockSharesOutstanding 2개 클래스 합 ; 클래스별(2022-02-16): CommonStockMember 145628076, CommonClassBMember 59613777",13
+Hershey,HSY,2021Q4,2021-12-31,분기말 시가총액,39708141300,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/HSY?interval=1d&events=splits (2021-12-31) ; https://www.sec.gov/Archives/edgar/data/47111/000004711122000017/,종가 193.47 × 주식수 205241853,13
+Hershey,HSY,2022Q1,2022-04-03,분기별 매출액,2666221000,USD,공시,https://www.sec.gov/Archives/edgar/data/47111/000004711122000030/,,13
+Hershey,HSY,2022Q1,2022-04-03,분기별 영업이익,720990000,USD,공시,https://www.sec.gov/Archives/edgar/data/47111/000004711122000030/,,13
+Hershey,HSY,2022Q1,2022-04-03,분기별 당기순이익(지배),533478000,USD,공시,https://www.sec.gov/Archives/edgar/data/47111/000004711122000030/,,13
+Hershey,HSY,2022Q1,2022-04-03,분기별 영업활동현금흐름,656467000,USD,공시,https://www.sec.gov/Archives/edgar/data/47111/000004711122000030/,,13
+Hershey,HSY,2022Q1,2022-04-03,분기말 자산총계,10645044000,USD,공시,https://www.sec.gov/Archives/edgar/data/47111/000004711122000030/,,13
+Hershey,HSY,2022Q1,2022-04-03,분기말 부채총계,7729495000,USD,공시,https://www.sec.gov/Archives/edgar/data/47111/000004711122000030/,,13
+Hershey,HSY,2022Q1,2022-04-03,분기말 총자본(자기자본),2915549000,USD,공시,https://www.sec.gov/Archives/edgar/data/47111/000004711122000030/,,13
+Hershey,HSY,2022Q1,2022-04-03,분기말 지배지분 자본,2915549000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/47111/000004711122000030/,"StockholdersEquityIncludingPortionAttributableToNoncontrollingInterest, MinorityInterest 태그 없음",13
+Hershey,HSY,2022Q1,2022-04-01,분기말 종가,218.77,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/HSY?interval=1d&events=splits (2022-04-01),,13
+Hershey,HSY,2022Q1,2022-04-22,분기말 상장주식수,205604646,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/47111/000004711122000030/,"XBRL 원문 dei:EntityCommonStockSharesOutstanding 2개 클래스 합 ; 클래스별(2022-04-22): CommonStockMember 145990869, CommonClassBMember 59613777",13
+Hershey,HSY,2022Q1,2022-04-01,분기말 시가총액,44980128405,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/HSY?interval=1d&events=splits (2022-04-01) ; https://www.sec.gov/Archives/edgar/data/47111/000004711122000030/,종가 218.77 × 주식수 205604646,13
+Hershey,HSY,2022Q2,2022-07-03,분기별 매출액,2372582000,USD,공시,https://www.sec.gov/Archives/edgar/data/47111/000004711122000045/,,13
+Hershey,HSY,2022Q2,2022-07-03,분기별 영업이익,456531000,USD,공시,https://www.sec.gov/Archives/edgar/data/47111/000004711122000045/,,13
+Hershey,HSY,2022Q2,2022-07-03,분기별 당기순이익(지배),315556000,USD,공시,https://www.sec.gov/Archives/edgar/data/47111/000004711122000045/,,13
+Hershey,HSY,2022Q2,2022-07-03,분기별 영업활동현금흐름,457306000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/47111/000004711122000045/ ; https://www.sec.gov/Archives/edgar/data/47111/000004711122000030/,누적 1113773000 − 직전누적 656467000 (시작 2022-01-01),13
+Hershey,HSY,2022Q2,2022-07-03,분기말 자산총계,10588874000,USD,공시,https://www.sec.gov/Archives/edgar/data/47111/000004711122000045/,,13
+Hershey,HSY,2022Q2,2022-07-03,분기말 부채총계,7697134000,USD,공시,https://www.sec.gov/Archives/edgar/data/47111/000004711122000045/,,13
+Hershey,HSY,2022Q2,2022-07-03,분기말 총자본(자기자본),2891740000,USD,공시,https://www.sec.gov/Archives/edgar/data/47111/000004711122000045/,,13
+Hershey,HSY,2022Q2,2022-07-03,분기말 지배지분 자본,2891740000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/47111/000004711122000045/,"StockholdersEquityIncludingPortionAttributableToNoncontrollingInterest, MinorityInterest 태그 없음",13
+Hershey,HSY,2022Q2,2022-07-01,분기말 종가,221.0,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/HSY?interval=1d&events=splits (2022-07-01),,13
+Hershey,HSY,2022Q2,2022-07-22,분기말 상장주식수,204983429,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/47111/000004711122000045/,"XBRL 원문 dei:EntityCommonStockSharesOutstanding 2개 클래스 합 ; 클래스별(2022-07-22): CommonStockMember 146869652, CommonClassBMember 58113777",13
+Hershey,HSY,2022Q2,2022-07-01,분기말 시가총액,45301337809,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/HSY?interval=1d&events=splits (2022-07-01) ; https://www.sec.gov/Archives/edgar/data/47111/000004711122000045/,종가 221.0 × 주식수 204983429,13
+Hershey,HSY,2022Q3,2022-10-02,분기별 매출액,2728153000,USD,공시,https://www.sec.gov/Archives/edgar/data/47111/000004711122000051/,,13
+Hershey,HSY,2022Q3,2022-10-02,분기별 영업이익,556620000,USD,공시,https://www.sec.gov/Archives/edgar/data/47111/000004711122000051/,,13
+Hershey,HSY,2022Q3,2022-10-02,분기별 당기순이익(지배),399487000,USD,공시,https://www.sec.gov/Archives/edgar/data/47111/000004711122000051/,,13
+Hershey,HSY,2022Q3,2022-10-02,분기별 영업활동현금흐름,446421000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/47111/000004711122000051/ ; https://www.sec.gov/Archives/edgar/data/47111/000004711122000045/,누적 1560194000 − 직전누적 1113773000 (시작 2022-01-01),13
+Hershey,HSY,2022Q3,2022-10-02,분기말 자산총계,10832907000,USD,공시,https://www.sec.gov/Archives/edgar/data/47111/000004711122000051/,,13
+Hershey,HSY,2022Q3,2022-10-02,분기말 부채총계,7749827000,USD,공시,https://www.sec.gov/Archives/edgar/data/47111/000004711122000051/,,13
+Hershey,HSY,2022Q3,2022-10-02,분기말 총자본(자기자본),3083080000,USD,공시,https://www.sec.gov/Archives/edgar/data/47111/000004711122000051/,,13
+Hershey,HSY,2022Q3,2022-10-02,분기말 지배지분 자본,3083080000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/47111/000004711122000051/,"StockholdersEquityIncludingPortionAttributableToNoncontrollingInterest, MinorityInterest 태그 없음",13
+Hershey,HSY,2022Q3,2022-09-30,분기말 종가,220.47,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/HSY?interval=1d&events=splits (2022-09-30),,13
+Hershey,HSY,2022Q3,2022-10-30,분기말 상장주식수,205082576,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/47111/000004711122000051/,"XBRL 원문 dei:EntityCommonStockSharesOutstanding 2개 클래스 합 ; 클래스별(2022-10-30): CommonStockMember 146968799, CommonClassBMember 58113777",13
+Hershey,HSY,2022Q3,2022-09-30,분기말 시가총액,45214555531,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/HSY?interval=1d&events=splits (2022-09-30) ; https://www.sec.gov/Archives/edgar/data/47111/000004711122000051/,종가 220.47 × 주식수 205082576,13
+Hershey,HSY,2022Q4,2022-12-31,분기별 매출액,2652338000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/47111/000004711123000012/ ; https://www.sec.gov/Archives/edgar/data/47111/000004711122000051/,연간 10419294000 − 9개월누적 7766956000 (RevenueFromContractWithCustomerExcludingAssessedTax),13
+Hershey,HSY,2022Q4,2022-12-31,분기별 영업이익,526646000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/47111/000004711123000012/ ; https://www.sec.gov/Archives/edgar/data/47111/000004711122000051/,연간 2260787000 − 9개월누적 1734141000 (OperatingIncomeLoss),13
+Hershey,HSY,2022Q4,2022-12-31,분기별 당기순이익(지배),396296000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/47111/000004711123000012/ ; https://www.sec.gov/Archives/edgar/data/47111/000004711122000051/,연간 1644817000 − 9개월누적 1248521000 (NetIncomeLoss),13
+Hershey,HSY,2022Q4,2022-12-31,분기별 영업활동현금흐름,767643000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/47111/000004711123000012/ ; https://www.sec.gov/Archives/edgar/data/47111/000004711122000051/,누적 2327837000 − 직전누적 1560194000 (시작 2022-01-01),13
+Hershey,HSY,2022Q4,2022-12-31,분기말 자산총계,10948820000,USD,공시,https://www.sec.gov/Archives/edgar/data/47111/000004711123000012/,,13
+Hershey,HSY,2022Q4,2022-12-31,분기말 부채총계,7649276000,USD,공시,https://www.sec.gov/Archives/edgar/data/47111/000004711123000012/,,13
+Hershey,HSY,2022Q4,2022-12-31,분기말 총자본(자기자본),3299544000,USD,공시,https://www.sec.gov/Archives/edgar/data/47111/000004711123000012/,,13
+Hershey,HSY,2022Q4,2022-12-31,분기말 지배지분 자본,3299544000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/47111/000004711123000012/,"StockholdersEquityIncludingPortionAttributableToNoncontrollingInterest, MinorityInterest 태그 없음",13
+Hershey,HSY,2022Q4,2022-12-30,분기말 종가,231.57,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/HSY?interval=1d&events=splits (2022-12-30),,13
+Hershey,HSY,2022Q4,2023-02-15,분기말 상장주식수,204035956,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/47111/000004711123000012/,"XBRL 원문 dei:EntityCommonStockSharesOutstanding 2개 클래스 합 ; 클래스별(2023-02-15): CommonStockMember 146922179, CommonClassBMember 57113777",13
+Hershey,HSY,2022Q4,2022-12-30,분기말 시가총액,47248606331,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/HSY?interval=1d&events=splits (2022-12-30) ; https://www.sec.gov/Archives/edgar/data/47111/000004711123000012/,종가 231.57 × 주식수 204035956,13
+Hershey,HSY,2023Q1,2023-04-02,분기별 매출액,2987614000,USD,공시,https://www.sec.gov/Archives/edgar/data/47111/000004711123000033/,,13
+Hershey,HSY,2023Q1,2023-04-02,분기별 영업이익,799924000,USD,공시,https://www.sec.gov/Archives/edgar/data/47111/000004711123000033/,,13
+Hershey,HSY,2023Q1,2023-04-02,분기별 당기순이익(지배),587185000,USD,공시,https://www.sec.gov/Archives/edgar/data/47111/000004711123000033/,,13
+Hershey,HSY,2023Q1,2023-04-02,분기별 영업활동현금흐름,755397000,USD,공시,https://www.sec.gov/Archives/edgar/data/47111/000004711123000033/,,13
+Hershey,HSY,2023Q1,2023-04-02,분기말 자산총계,11111518000,USD,공시,https://www.sec.gov/Archives/edgar/data/47111/000004711123000033/,,13
+Hershey,HSY,2023Q1,2023-04-02,분기말 부채총계,7653153000,USD,공시,https://www.sec.gov/Archives/edgar/data/47111/000004711123000033/,,13
+Hershey,HSY,2023Q1,2023-04-02,분기말 총자본(자기자본),3458365000,USD,공시,https://www.sec.gov/Archives/edgar/data/47111/000004711123000033/,,13
+Hershey,HSY,2023Q1,2023-04-02,분기말 지배지분 자본,3458365000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/47111/000004711123000033/,"StockholdersEquityIncludingPortionAttributableToNoncontrollingInterest, MinorityInterest 태그 없음",13
+Hershey,HSY,2023Q1,2023-03-31,분기말 종가,254.41,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/HSY?interval=1d&events=splits (2023-03-31),,13
+Hershey,HSY,2023Q1,2023-04-21,분기말 상장주식수,204398761,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/47111/000004711123000033/,"XBRL 원문 dei:EntityCommonStockSharesOutstanding 2개 클래스 합 ; 클래스별(2023-04-21): CommonStockMember 147284984, CommonClassBMember 57113777",13
+Hershey,HSY,2023Q1,2023-03-31,분기말 시가총액,52001088786,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/HSY?interval=1d&events=splits (2023-03-31) ; https://www.sec.gov/Archives/edgar/data/47111/000004711123000033/,종가 254.41 × 주식수 204398761,13
+Hershey,HSY,2023Q2,2023-07-02,분기별 매출액,2490280000,USD,공시,https://www.sec.gov/Archives/edgar/data/47111/000004711123000057/,,13
+Hershey,HSY,2023Q2,2023-07-02,분기별 영업이익,560665000,USD,공시,https://www.sec.gov/Archives/edgar/data/47111/000004711123000057/,,13
+Hershey,HSY,2023Q2,2023-07-02,분기별 당기순이익(지배),406983000,USD,공시,https://www.sec.gov/Archives/edgar/data/47111/000004711123000057/,,13
+Hershey,HSY,2023Q2,2023-07-02,분기별 영업활동현금흐름,294411000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/47111/000004711123000057/ ; https://www.sec.gov/Archives/edgar/data/47111/000004711123000033/,누적 1049808000 − 직전누적 755397000 (시작 2023-01-01),13
+Hershey,HSY,2023Q2,2023-07-02,분기말 자산총계,11525676000,USD,공시,https://www.sec.gov/Archives/edgar/data/47111/000004711123000057/,,13
+Hershey,HSY,2023Q2,2023-07-02,분기말 부채총계,7830891000,USD,공시,https://www.sec.gov/Archives/edgar/data/47111/000004711123000057/,,13
+Hershey,HSY,2023Q2,2023-07-02,분기말 총자본(자기자본),3694785000,USD,공시,https://www.sec.gov/Archives/edgar/data/47111/000004711123000057/,,13
+Hershey,HSY,2023Q2,2023-07-02,분기말 지배지분 자본,3694785000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/47111/000004711123000057/,"StockholdersEquityIncludingPortionAttributableToNoncontrollingInterest, MinorityInterest 태그 없음",13
+Hershey,HSY,2023Q2,2023-06-30,분기말 종가,249.7,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/HSY?interval=1d&events=splits (2023-06-30),,13
+Hershey,HSY,2023Q2,2023-07-21,분기말 상장주식수,204467895,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/47111/000004711123000057/,"XBRL 원문 dei:EntityCommonStockSharesOutstanding 2개 클래스 합 ; 클래스별(2023-07-21): CommonStockMember 149854381, CommonClassBMember 54613514",13
+Hershey,HSY,2023Q2,2023-06-30,분기말 시가총액,51055633382,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/HSY?interval=1d&events=splits (2023-06-30) ; https://www.sec.gov/Archives/edgar/data/47111/000004711123000057/,종가 249.7 × 주식수 204467895,13
+Hershey,HSY,2023Q3,2023-10-01,분기별 매출액,3029987000,USD,공시,https://www.sec.gov/Archives/edgar/data/47111/000004711123000065/,,13
+Hershey,HSY,2023Q3,2023-10-01,분기별 영업이익,735949000,USD,공시,https://www.sec.gov/Archives/edgar/data/47111/000004711123000065/,,13
+Hershey,HSY,2023Q3,2023-10-01,분기별 당기순이익(지배),518577000,USD,공시,https://www.sec.gov/Archives/edgar/data/47111/000004711123000065/,,13
+Hershey,HSY,2023Q3,2023-10-01,분기별 영업활동현금흐름,515733000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/47111/000004711123000065/ ; https://www.sec.gov/Archives/edgar/data/47111/000004711123000057/,누적 1565541000 − 직전누적 1049808000 (시작 2023-01-01),13
+Hershey,HSY,2023Q3,2023-10-01,분기말 자산총계,11935671000,USD,공시,https://www.sec.gov/Archives/edgar/data/47111/000004711123000065/,,13
+Hershey,HSY,2023Q3,2023-10-01,분기말 부채총계,7968031000,USD,공시,https://www.sec.gov/Archives/edgar/data/47111/000004711123000065/,,13
+Hershey,HSY,2023Q3,2023-10-01,분기말 총자본(자기자본),3967640000,USD,공시,https://www.sec.gov/Archives/edgar/data/47111/000004711123000065/,,13
+Hershey,HSY,2023Q3,2023-10-01,분기말 지배지분 자본,3967640000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/47111/000004711123000065/,"StockholdersEquityIncludingPortionAttributableToNoncontrollingInterest, MinorityInterest 태그 없음",13
+Hershey,HSY,2023Q3,2023-09-29,분기말 종가,200.08,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/HSY?interval=1d&events=splits (2023-09-29),,13
+Hershey,HSY,2023Q3,2023-10-20,분기말 상장주식수,204498184,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/47111/000004711123000065/,"XBRL 원문 dei:EntityCommonStockSharesOutstanding 2개 클래스 합 ; 클래스별(2023-10-20): CommonStockMember 149884670, CommonClassBMember 54613514",13
+Hershey,HSY,2023Q3,2023-09-29,분기말 시가총액,40915996655,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/HSY?interval=1d&events=splits (2023-09-29) ; https://www.sec.gov/Archives/edgar/data/47111/000004711123000065/,종가 200.08 × 주식수 204498184,13
+Hershey,HSY,2023Q4,2023-12-31,분기별 매출액,2657111000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/47111/000004711124000009/ ; https://www.sec.gov/Archives/edgar/data/47111/000004711123000065/,연간 11164992000 − 9개월누적 8507881000 (RevenueFromContractWithCustomerExcludingAssessedTax),13
+Hershey,HSY,2023Q4,2023-12-31,분기별 영업이익,464329000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/47111/000004711124000009/ ; https://www.sec.gov/Archives/edgar/data/47111/000004711123000065/,연간 2560867000 − 9개월누적 2096538000 (OperatingIncomeLoss),13
+Hershey,HSY,2023Q4,2023-12-31,분기별 당기순이익(지배),349042000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/47111/000004711124000009/ ; https://www.sec.gov/Archives/edgar/data/47111/000004711123000065/,연간 1861787000 − 9개월누적 1512745000 (NetIncomeLoss),13
+Hershey,HSY,2023Q4,2023-12-31,분기별 영업활동현금흐름,757649000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/47111/000004711124000009/ ; https://www.sec.gov/Archives/edgar/data/47111/000004711123000065/,누적 2323190000 − 직전누적 1565541000 (시작 2023-01-01),13
+Hershey,HSY,2023Q4,2023-12-31,분기말 자산총계,11902941000,USD,공시,https://www.sec.gov/Archives/edgar/data/47111/000004711124000009/,,13
+Hershey,HSY,2023Q4,2023-12-31,분기말 부채총계,7803855000,USD,공시,https://www.sec.gov/Archives/edgar/data/47111/000004711124000009/,,13
+Hershey,HSY,2023Q4,2023-12-31,분기말 총자본(자기자본),4099086000,USD,공시,https://www.sec.gov/Archives/edgar/data/47111/000004711124000009/,,13
+Hershey,HSY,2023Q4,2023-12-31,분기말 지배지분 자본,4099086000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/47111/000004711124000009/,"StockholdersEquityIncludingPortionAttributableToNoncontrollingInterest, MinorityInterest 태그 없음",13
+Hershey,HSY,2023Q4,2023-12-29,분기말 종가,186.44,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/HSY?interval=1d&events=splits (2023-12-29),,13
+Hershey,HSY,2023Q4,2024-02-16,분기말 상장주식수,203949956,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/47111/000004711124000009/,"XBRL 원문 dei:EntityCommonStockSharesOutstanding 2개 클래스 합 ; 클래스별(2024-02-16): CommonStockMember 149336442, CommonClassBMember 54613514",13
+Hershey,HSY,2023Q4,2023-12-29,분기말 시가총액,38024429797,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/HSY?interval=1d&events=splits (2023-12-29) ; https://www.sec.gov/Archives/edgar/data/47111/000004711124000009/,종가 186.44 × 주식수 203949956,13
+Hershey,HSY,2024Q1,2024-03-31,분기별 매출액,3252749000,USD,공시,https://www.sec.gov/Archives/edgar/data/47111/000004711124000023/,,13
+Hershey,HSY,2024Q1,2024-03-31,분기별 영업이익,1058100000,USD,공시,https://www.sec.gov/Archives/edgar/data/47111/000004711124000023/,,13
+Hershey,HSY,2024Q1,2024-03-31,분기별 당기순이익(지배),797453000,USD,공시,https://www.sec.gov/Archives/edgar/data/47111/000004711124000023/,,13
+Hershey,HSY,2024Q1,2024-03-31,분기별 영업활동현금흐름,569134000,USD,공시,https://www.sec.gov/Archives/edgar/data/47111/000004711124000023/,,13
+Hershey,HSY,2024Q1,2024-03-31,분기말 자산총계,12389754000,USD,공시,https://www.sec.gov/Archives/edgar/data/47111/000004711124000023/,,13
+Hershey,HSY,2024Q1,2024-03-31,분기말 부채총계,8281467000,USD,공시,https://www.sec.gov/Archives/edgar/data/47111/000004711124000023/,,13
+Hershey,HSY,2024Q1,2024-03-31,분기말 총자본(자기자본),4108287000,USD,공시,https://www.sec.gov/Archives/edgar/data/47111/000004711124000023/,,13
+Hershey,HSY,2024Q1,2024-03-31,분기말 지배지분 자본,4108287000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/47111/000004711124000023/,"StockholdersEquityIncludingPortionAttributableToNoncontrollingInterest, MinorityInterest 태그 없음",13
+Hershey,HSY,2024Q1,2024-03-28,분기말 종가,194.5,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/HSY?interval=1d&events=splits (2024-03-28),,13
+Hershey,HSY,2024Q1,2024-04-26,분기말 상장주식수,202229200,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/47111/000004711124000023/,"XBRL 원문 dei:EntityCommonStockSharesOutstanding 2개 클래스 합 ; 클래스별(2024-04-26): CommonStockMember 147615686, CommonClassBMember 54613514",13
+Hershey,HSY,2024Q1,2024-03-28,분기말 시가총액,39333579400,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/HSY?interval=1d&events=splits (2024-03-28) ; https://www.sec.gov/Archives/edgar/data/47111/000004711124000023/,종가 194.5 × 주식수 202229200,13
+Hershey,HSY,2024Q2,2024-06-30,분기별 매출액,2074480000,USD,공시,https://www.sec.gov/Archives/edgar/data/47111/000004711124000045/,,13
+Hershey,HSY,2024Q2,2024-06-30,분기별 영업이익,287821000,USD,공시,https://www.sec.gov/Archives/edgar/data/47111/000004711124000045/,,13
+Hershey,HSY,2024Q2,2024-06-30,분기별 당기순이익(지배),180894000,USD,공시,https://www.sec.gov/Archives/edgar/data/47111/000004711124000045/,,13
+Hershey,HSY,2024Q2,2024-06-30,분기별 영업활동현금흐름,325606000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/47111/000004711124000045/ ; https://www.sec.gov/Archives/edgar/data/47111/000004711124000023/,누적 894740000 − 직전누적 569134000 (시작 2024-01-01),13
+Hershey,HSY,2024Q2,2024-06-30,분기말 자산총계,12415674000,USD,공시,https://www.sec.gov/Archives/edgar/data/47111/000004711124000045/,,13
+Hershey,HSY,2024Q2,2024-06-30,분기말 부채총계,8405808000,USD,공시,https://www.sec.gov/Archives/edgar/data/47111/000004711124000045/,,13
+Hershey,HSY,2024Q2,2024-06-30,분기말 총자본(자기자본),4009866000,USD,공시,https://www.sec.gov/Archives/edgar/data/47111/000004711124000045/,,13
+Hershey,HSY,2024Q2,2024-06-30,분기말 지배지분 자본,4009866000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/47111/000004711124000045/,"StockholdersEquityIncludingPortionAttributableToNoncontrollingInterest, MinorityInterest 태그 없음",13
+Hershey,HSY,2024Q2,2024-06-28,분기말 종가,183.83,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/HSY?interval=1d&events=splits (2024-06-28),,13
+Hershey,HSY,2024Q2,2024-07-26,분기말 상장주식수,202287788,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/47111/000004711124000045/,"XBRL 원문 dei:EntityCommonStockSharesOutstanding 2개 클래스 합 ; 클래스별(2024-07-26): CommonStockMember 147674274, CommonClassBMember 54613514",13
+Hershey,HSY,2024Q2,2024-06-28,분기말 시가총액,37186564068,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/HSY?interval=1d&events=splits (2024-06-28) ; https://www.sec.gov/Archives/edgar/data/47111/000004711124000045/,종가 183.83 × 주식수 202287788,13
+Hershey,HSY,2024Q3,2024-09-29,분기별 매출액,2987494000,USD,공시,https://www.sec.gov/Archives/edgar/data/47111/000004711124000055/,,13
+Hershey,HSY,2024Q3,2024-09-29,분기별 영업이익,613164000,USD,공시,https://www.sec.gov/Archives/edgar/data/47111/000004711124000055/,,13
+Hershey,HSY,2024Q3,2024-09-29,분기별 당기순이익(지배),446301000,USD,공시,https://www.sec.gov/Archives/edgar/data/47111/000004711124000055/,,13
+Hershey,HSY,2024Q3,2024-09-29,분기별 영업활동현금흐름,695254000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/47111/000004711124000055/ ; https://www.sec.gov/Archives/edgar/data/47111/000004711124000045/,누적 1589994000 − 직전누적 894740000 (시작 2024-01-01),13
+Hershey,HSY,2024Q3,2024-09-29,분기말 자산총계,12621410000,USD,공시,https://www.sec.gov/Archives/edgar/data/47111/000004711124000055/,,13
+Hershey,HSY,2024Q3,2024-09-29,분기말 부채총계,8416441000,USD,공시,https://www.sec.gov/Archives/edgar/data/47111/000004711124000055/,,13
+Hershey,HSY,2024Q3,2024-09-29,분기말 총자본(자기자본),4204969000,USD,공시,https://www.sec.gov/Archives/edgar/data/47111/000004711124000055/,,13
+Hershey,HSY,2024Q3,2024-09-29,분기말 지배지분 자본,4204969000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/47111/000004711124000055/,"StockholdersEquityIncludingPortionAttributableToNoncontrollingInterest, MinorityInterest 태그 없음",13
+Hershey,HSY,2024Q3,2024-09-27,분기말 종가,193.36,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/HSY?interval=1d&events=splits (2024-09-27),,13
+Hershey,HSY,2024Q3,2024-11-01,분기말 상장주식수,202354752,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/47111/000004711124000055/,"XBRL 원문 dei:EntityCommonStockSharesOutstanding 2개 클래스 합 ; 클래스별(2024-11-01): CommonStockMember 147741238, CommonClassBMember 54613514",13
+Hershey,HSY,2024Q3,2024-09-27,분기말 시가총액,39127314847,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/HSY?interval=1d&events=splits (2024-09-27) ; https://www.sec.gov/Archives/edgar/data/47111/000004711124000055/,종가 193.36 × 주식수 202354752,13
+Hershey,HSY,2024Q4,2024-12-31,분기별 매출액,2887540000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/47111/000004711125000014/ ; https://www.sec.gov/Archives/edgar/data/47111/000004711124000055/,연간 11202263000 − 9개월누적 8314723000 (RevenueFromContractWithCustomerExcludingAssessedTax),13
+Hershey,HSY,2024Q4,2024-12-31,분기별 영업이익,939147000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/47111/000004711125000014/ ; https://www.sec.gov/Archives/edgar/data/47111/000004711124000055/,연간 2898232000 − 9개월누적 1959085000 (OperatingIncomeLoss),13
+Hershey,HSY,2024Q4,2024-12-31,분기별 당기순이익(지배),796591000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/47111/000004711125000014/ ; https://www.sec.gov/Archives/edgar/data/47111/000004711124000055/,연간 2221239000 − 9개월누적 1424648000 (NetIncomeLoss),13
+Hershey,HSY,2024Q4,2024-12-31,분기별 영업활동현금흐름,941602000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/47111/000004711125000014/ ; https://www.sec.gov/Archives/edgar/data/47111/000004711124000055/,누적 2531596000 − 직전누적 1589994000 (시작 2024-01-01),13
+Hershey,HSY,2024Q4,2024-12-31,분기말 자산총계,12946861000,USD,공시,https://www.sec.gov/Archives/edgar/data/47111/000004711125000014/,,13
+Hershey,HSY,2024Q4,2024-12-31,분기말 부채총계,8232207000,USD,공시,https://www.sec.gov/Archives/edgar/data/47111/000004711125000014/,,13
+Hershey,HSY,2024Q4,2024-12-31,분기말 총자본(자기자본),4714654000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/47111/000004711125000014/,"StockholdersEquity, MinorityInterest 태그 없음",13
+Hershey,HSY,2024Q4,2024-12-31,분기말 지배지분 자본,4714654000,USD,공시,https://www.sec.gov/Archives/edgar/data/47111/000004711125000014/,,13
+Hershey,HSY,2024Q4,2024-12-31,분기말 종가,169.35,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/HSY?interval=1d&events=splits (2024-12-31),,13
+Hershey,HSY,2024Q4,2025-02-10,분기말 상장주식수,202410635,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/47111/000004711125000014/,"XBRL 원문 dei:EntityCommonStockSharesOutstanding 2개 클래스 합 ; 클래스별(2025-02-10): CommonStockMember 147797121, CommonClassBMember 54613514",13
+Hershey,HSY,2024Q4,2024-12-31,분기말 시가총액,34278241037,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/HSY?interval=1d&events=splits (2024-12-31) ; https://www.sec.gov/Archives/edgar/data/47111/000004711125000014/,종가 169.35 × 주식수 202410635,13
+Hershey,HSY,2025Q1,2025-03-30,분기별 매출액,2805419000,USD,공시,https://www.sec.gov/Archives/edgar/data/47111/000004711125000044/,,13
+Hershey,HSY,2025Q1,2025-03-30,분기별 영업이익,369221000,USD,공시,https://www.sec.gov/Archives/edgar/data/47111/000004711125000044/,,13
+Hershey,HSY,2025Q1,2025-03-30,분기별 당기순이익(지배),224203000,USD,공시,https://www.sec.gov/Archives/edgar/data/47111/000004711125000044/,,13
+Hershey,HSY,2025Q1,2025-03-30,분기별 영업활동현금흐름,396682000,USD,공시,https://www.sec.gov/Archives/edgar/data/47111/000004711125000044/,,13
+Hershey,HSY,2025Q1,2025-03-30,분기말 자산총계,13967764000,USD,공시,https://www.sec.gov/Archives/edgar/data/47111/000004711125000044/,,13
+Hershey,HSY,2025Q1,2025-03-30,분기말 부채총계,9282868000,USD,공시,https://www.sec.gov/Archives/edgar/data/47111/000004711125000044/,,13
+Hershey,HSY,2025Q1,2025-03-30,분기말 총자본(자기자본),4684896000,USD,공시,https://www.sec.gov/Archives/edgar/data/47111/000004711125000044/,,13
+Hershey,HSY,2025Q1,2025-03-30,분기말 지배지분 자본,4684896000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/47111/000004711125000044/,"StockholdersEquityIncludingPortionAttributableToNoncontrollingInterest, MinorityInterest 태그 없음",13
+Hershey,HSY,2025Q1,2025-03-28,분기말 종가,169.86,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/HSY?interval=1d&events=splits (2025-03-28),,13
+Hershey,HSY,2025Q1,2025-04-25,분기말 상장주식수,202603790,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/47111/000004711125000061/,"XBRL 원문 dei:EntityCommonStockSharesOutstanding 2개 클래스 합 ; 값은 XBRL 원문(companyfacts 미반영 보고서) ; 클래스별(2025-04-25): CommonStockMember 147990276, CommonClassBMember 54613514",13
+Hershey,HSY,2025Q1,2025-03-28,분기말 시가총액,34414279769,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/HSY?interval=1d&events=splits (2025-03-28) ; https://www.sec.gov/Archives/edgar/data/47111/000004711125000061/,종가 169.86 × 주식수 202603790 ; 값은 XBRL 원문(companyfacts 미반영 보고서),13
+Hershey,HSY,2025Q2,2025-06-29,분기별 매출액,2614718000,USD,공시,https://www.sec.gov/Archives/edgar/data/47111/000004711125000112/,,13
+Hershey,HSY,2025Q2,2025-06-29,분기별 영업이익,192811000,USD,공시,https://www.sec.gov/Archives/edgar/data/47111/000004711125000112/,,13
+Hershey,HSY,2025Q2,2025-06-29,분기별 당기순이익(지배),62719000,USD,공시,https://www.sec.gov/Archives/edgar/data/47111/000004711125000112/,,13
+Hershey,HSY,2025Q2,2025-06-29,분기별 영업활동현금흐름,112216000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/47111/000004711125000112/ ; https://www.sec.gov/Archives/edgar/data/47111/000004711125000044/,누적 508898000 − 직전누적 396682000 (시작 2025-01-01),13
+Hershey,HSY,2025Q2,2025-06-29,분기말 자산총계,13645737000,USD,공시,https://www.sec.gov/Archives/edgar/data/47111/000004711125000112/,,13
+Hershey,HSY,2025Q2,2025-06-29,분기말 부채총계,9131119000,USD,공시,https://www.sec.gov/Archives/edgar/data/47111/000004711125000112/,,13
+Hershey,HSY,2025Q2,2025-06-29,분기말 총자본(자기자본),4514618000,USD,공시,https://www.sec.gov/Archives/edgar/data/47111/000004711125000112/,,13
+Hershey,HSY,2025Q2,2025-06-29,분기말 지배지분 자본,4514618000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/47111/000004711125000112/,"StockholdersEquityIncludingPortionAttributableToNoncontrollingInterest, MinorityInterest 태그 없음",13
+Hershey,HSY,2025Q2,2025-06-27,분기말 종가,166.99,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/HSY?interval=1d&events=splits (2025-06-27),,13
+Hershey,HSY,2025Q2,2025-07-25,분기말 상장주식수,202724229,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/47111/000004711125000112/,"XBRL 원문 dei:EntityCommonStockSharesOutstanding 2개 클래스 합 ; 클래스별(2025-07-25): CommonStockMember 148110715, CommonClassBMember 54613514",13
+Hershey,HSY,2025Q2,2025-06-27,분기말 시가총액,33852919001,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/HSY?interval=1d&events=splits (2025-06-27) ; https://www.sec.gov/Archives/edgar/data/47111/000004711125000112/,종가 166.99 × 주식수 202724229,13
+Hershey,HSY,2025Q3,2025-09-28,분기별 매출액,3181418000,USD,공시,https://www.sec.gov/Archives/edgar/data/47111/000162828025047471/,,13
+Hershey,HSY,2025Q3,2025-09-28,분기별 영업이익,434583000,USD,공시,https://www.sec.gov/Archives/edgar/data/47111/000162828025047471/,,13
+Hershey,HSY,2025Q3,2025-09-28,분기별 당기순이익(지배),276320000,USD,공시,https://www.sec.gov/Archives/edgar/data/47111/000162828025047471/,,13
+Hershey,HSY,2025Q3,2025-09-28,분기별 영업활동현금흐름,841916000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/47111/000162828025047471/ ; https://www.sec.gov/Archives/edgar/data/47111/000004711125000112/,누적 1350814000 − 직전누적 508898000 (시작 2025-01-01),13
+Hershey,HSY,2025Q3,2025-09-28,분기말 자산총계,13579426000,USD,공시,https://www.sec.gov/Archives/edgar/data/47111/000162828025047471/,,13
+Hershey,HSY,2025Q3,2025-09-28,분기말 부채총계,9014980000,USD,공시,https://www.sec.gov/Archives/edgar/data/47111/000162828025047471/,,13
+Hershey,HSY,2025Q3,2025-09-28,분기말 총자본(자기자본),4564446000,USD,공시,https://www.sec.gov/Archives/edgar/data/47111/000162828025047471/,,13
+Hershey,HSY,2025Q3,2025-09-28,분기말 지배지분 자본,4564446000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/47111/000162828025047471/,"StockholdersEquityIncludingPortionAttributableToNoncontrollingInterest, MinorityInterest 태그 없음",13
+Hershey,HSY,2025Q3,2025-09-26,분기말 종가,188.11,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/HSY?interval=1d&events=splits (2025-09-26),,13
+Hershey,HSY,2025Q3,2025-10-24,분기말 상장주식수,202785122,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/47111/000162828025047471/,"XBRL 원문 dei:EntityCommonStockSharesOutstanding 2개 클래스 합 ; 클래스별(2025-10-24): CommonStockMember 148171608, CommonClassBMember 54613514",13
+Hershey,HSY,2025Q3,2025-09-26,분기말 시가총액,38145909299,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/HSY?interval=1d&events=splits (2025-09-26) ; https://www.sec.gov/Archives/edgar/data/47111/000162828025047471/,종가 188.11 × 주식수 202785122,13
+Hershey,HSY,2025Q4,2025-12-31,분기별 매출액,3091021000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/47111/000162828026008586/ ; https://www.sec.gov/Archives/edgar/data/47111/000162828025047471/,연간 11692576000 − 9개월누적 8601555000 (RevenueFromContractWithCustomerExcludingAssessedTax),13
+Hershey,HSY,2025Q4,2025-12-31,분기별 영업이익,444913000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/47111/000162828026008586/ ; https://www.sec.gov/Archives/edgar/data/47111/000162828025047471/,연간 1441528000 − 9개월누적 996615000 (OperatingIncomeLoss),13
+Hershey,HSY,2025Q4,2025-12-31,분기별 당기순이익(지배),320017000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/47111/000162828026008586/ ; https://www.sec.gov/Archives/edgar/data/47111/000162828025047471/,연간 883259000 − 9개월누적 563242000 (NetIncomeLoss),13
+Hershey,HSY,2025Q4,2025-12-31,분기별 영업활동현금흐름,926553000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/47111/000162828026008586/ ; https://www.sec.gov/Archives/edgar/data/47111/000162828025047471/,누적 2277367000 − 직전누적 1350814000 (시작 2025-01-01),13
+Hershey,HSY,2025Q4,2025-12-31,분기말 자산총계,13741297000,USD,공시,https://www.sec.gov/Archives/edgar/data/47111/000162828026008586/,,13
+Hershey,HSY,2025Q4,2025-12-31,분기말 부채총계,9104547000,USD,공시,https://www.sec.gov/Archives/edgar/data/47111/000162828026008586/,,13
+Hershey,HSY,2025Q4,2025-12-31,분기말 총자본(자기자본),4636750000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/47111/000162828026008586/,"StockholdersEquity, MinorityInterest 태그 없음",13
+Hershey,HSY,2025Q4,2025-12-31,분기말 지배지분 자본,4636750000,USD,공시,https://www.sec.gov/Archives/edgar/data/47111/000162828026008586/,,13
+Hershey,HSY,2025Q4,2025-12-31,분기말 종가,181.98,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/HSY?interval=1d&events=splits (2025-12-31),,13
+Hershey,HSY,2025Q4,2026-02-12,분기말 상장주식수,202690952,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/47111/000162828026008586/,"XBRL 원문 dei:EntityCommonStockSharesOutstanding 2개 클래스 합 ; 클래스별(2026-02-12): CommonStockMember 148077438, CommonClassBMember 54613514",13
+Hershey,HSY,2025Q4,2025-12-31,분기말 시가총액,36885699445,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/HSY?interval=1d&events=splits (2025-12-31) ; https://www.sec.gov/Archives/edgar/data/47111/000162828026008586/,종가 181.98 × 주식수 202690952,13
+Hershey,HSY,2026Q1,2026-03-29,분기별 매출액,3104167000,USD,공시,https://www.sec.gov/Archives/edgar/data/47111/000162828026028682/,,13
+Hershey,HSY,2026Q1,2026-03-29,분기별 영업이익,640693000,USD,공시,https://www.sec.gov/Archives/edgar/data/47111/000162828026028682/,,13
+Hershey,HSY,2026Q1,2026-03-29,분기별 당기순이익(지배),435105000,USD,공시,https://www.sec.gov/Archives/edgar/data/47111/000162828026028682/,,13
+Hershey,HSY,2026Q1,2026-03-29,분기별 영업활동현금흐름,468806000,USD,공시,https://www.sec.gov/Archives/edgar/data/47111/000162828026028682/,,13
+Hershey,HSY,2026Q1,2026-03-29,분기말 자산총계,13841293000,USD,공시,https://www.sec.gov/Archives/edgar/data/47111/000162828026028682/,,13
+Hershey,HSY,2026Q1,2026-03-29,분기말 부채총계,9107445000,USD,공시,https://www.sec.gov/Archives/edgar/data/47111/000162828026028682/,,13
+Hershey,HSY,2026Q1,2026-03-29,분기말 총자본(자기자본),4733848000,USD,공시,https://www.sec.gov/Archives/edgar/data/47111/000162828026028682/,,13
+Hershey,HSY,2026Q1,2026-03-29,분기말 지배지분 자본,4733848000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/47111/000162828026028682/,"StockholdersEquityIncludingPortionAttributableToNoncontrollingInterest, MinorityInterest 태그 없음",13
+Hershey,HSY,2026Q1,2026-03-27,분기말 종가,213.73,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/HSY?interval=1d&events=splits (2026-03-27),,13
+Hershey,HSY,2026Q1,2026-04-27,분기말 상장주식수,202843372,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/47111/000162828026028682/,"XBRL 원문 dei:EntityCommonStockSharesOutstanding 2개 클래스 합 ; 클래스별(2026-04-27): CommonStockMember 148229858, CommonClassBMember 54613514",13
+Hershey,HSY,2026Q1,2026-03-27,분기말 시가총액,43353713898,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/HSY?interval=1d&events=splits (2026-03-27) ; https://www.sec.gov/Archives/edgar/data/47111/000162828026028682/,종가 213.73 × 주식수 202843372,13
+Hershey,HSY,2026Q2,2026-06-28,분기별 매출액,2787306000,USD,공시,https://www.sec.gov/Archives/edgar/data/47111/000162828026050900/,,13
+Hershey,HSY,2026Q2,2026-06-28,분기별 영업이익,642641000,USD,공시,https://www.sec.gov/Archives/edgar/data/47111/000162828026050900/,,13
+Hershey,HSY,2026Q2,2026-06-28,분기별 당기순이익(지배),457665000,USD,공시,https://www.sec.gov/Archives/edgar/data/47111/000162828026050900/,,13
+Hershey,HSY,2026Q2,2026-06-28,분기별 영업활동현금흐름,419316000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/47111/000162828026050900/ ; https://www.sec.gov/Archives/edgar/data/47111/000162828026028682/,누적 888122000 − 직전누적 468806000 (시작 2026-01-01),13
+Hershey,HSY,2026Q2,2026-06-28,분기말 자산총계,13973052000,USD,공시,https://www.sec.gov/Archives/edgar/data/47111/000162828026050900/,,13
+Hershey,HSY,2026Q2,2026-06-28,분기말 부채총계,9410362000,USD,공시,https://www.sec.gov/Archives/edgar/data/47111/000162828026050900/,,13
+Hershey,HSY,2026Q2,2026-06-28,분기말 총자본(자기자본),4562690000,USD,공시,https://www.sec.gov/Archives/edgar/data/47111/000162828026050900/,,13
+Hershey,HSY,2026Q2,2026-06-28,분기말 지배지분 자본,4562690000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/47111/000162828026050900/,"StockholdersEquityIncludingPortionAttributableToNoncontrollingInterest, MinorityInterest 태그 없음",13
+Hershey,HSY,2026Q2,2026-06-26,분기말 종가,179.11,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/HSY?interval=1d&events=splits (2026-06-26),,13
+Hershey,HSY,2026Q2,2026-07-27,분기말 상장주식수,200925657,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/47111/000162828026050900/,"XBRL 원문 dei:EntityCommonStockSharesOutstanding 2개 클래스 합 ; 클래스별(2026-07-27): CommonStockMember 146312143, CommonClassBMember 54613514",13
+Hershey,HSY,2026Q2,2026-06-26,분기말 시가총액,35987794425,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/HSY?interval=1d&events=splits (2026-06-26) ; https://www.sec.gov/Archives/edgar/data/47111/000162828026050900/,종가 179.11 × 주식수 200925657,13

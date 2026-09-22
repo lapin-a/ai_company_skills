@@ -1,0 +1,727 @@
+﻿기업,종목코드,기간,기준일,항목,값,통화,값구분,출처,검산,라운드
+Fiserv,FISV,2010Q1,2010-03-31,분기별 매출액,1008000000,USD,공시,https://www.sec.gov/Archives/edgar/data/798354/000119312510110738/,,15
+Fiserv,FISV,2010Q1,2010-03-31,분기별 영업이익,238000000,USD,공시,https://www.sec.gov/Archives/edgar/data/798354/000119312510110738/,,15
+Fiserv,FISV,2010Q1,2010-03-31,분기별 당기순이익(지배),121000000,USD,공시,https://www.sec.gov/Archives/edgar/data/798354/000119312510110738/,,15
+Fiserv,FISV,2010Q1,2010-03-31,분기별 영업활동현금흐름,260000000,USD,공시,https://www.sec.gov/Archives/edgar/data/798354/000119312510110738/,,15
+Fiserv,FISV,2010Q1,2010-03-31,분기말 자산총계,8309000000,USD,공시,https://www.sec.gov/Archives/edgar/data/798354/000119312510110738/,,15
+Fiserv,FISV,2010Q1,2010-03-31,분기말 부채총계,5191000000,USD,공시,https://www.sec.gov/Archives/edgar/data/798354/000119312510110738/,,15
+Fiserv,FISV,2010Q1,2010-03-31,분기말 총자본(자기자본),3118000000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/798354/000119312510110738/,"StockholdersEquity, MinorityInterest 태그 없음",15
+Fiserv,FISV,2010Q1,2010-03-31,분기말 지배지분 자본,3118000000,USD,공시,https://www.sec.gov/Archives/edgar/data/798354/000119312510110738/,,15
+Fiserv,FISV,2010Q1,2010-03-31,분기말 종가,50.76,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/FISV?interval=1d&events=splits (2010-03-31),분할조정 종가 12.69 × 이후 분할계수 4,15
+Fiserv,FISV,2010Q1,2010-05-04,분기말 상장주식수,152610235,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/798354/000119312510110738/,dei:EntityCommonStockSharesOutstanding 클래스 합,15
+Fiserv,FISV,2010Q1,2010-03-31,분기말 시가총액,7746495529,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/FISV?interval=1d&events=splits (2010-03-31) ; https://www.sec.gov/Archives/edgar/data/798354/000119312510110738/,종가 50.76 × 주식수 152610235,15
+Fiserv,FISV,2010Q2,2010-06-30,분기별 매출액,1022000000,USD,공시,https://www.sec.gov/Archives/edgar/data/798354/000119312510178791/,,15
+Fiserv,FISV,2010Q2,2010-06-30,분기별 영업이익,251000000,USD,공시,https://www.sec.gov/Archives/edgar/data/798354/000119312510178791/,,15
+Fiserv,FISV,2010Q2,2010-06-30,분기별 당기순이익(지배),127000000,USD,공시,https://www.sec.gov/Archives/edgar/data/798354/000119312510178791/,,15
+Fiserv,FISV,2010Q2,2010-06-30,분기별 영업활동현금흐름,171000000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/798354/000119312510178791/ ; https://www.sec.gov/Archives/edgar/data/798354/000119312510110738/,누적 431000000 − 직전누적 260000000 (시작 2010-01-01),15
+Fiserv,FISV,2010Q2,2010-06-30,분기말 자산총계,8182000000,USD,공시,https://www.sec.gov/Archives/edgar/data/798354/000119312510178791/,,15
+Fiserv,FISV,2010Q2,2010-06-30,분기말 부채총계,5061000000,USD,공시,https://www.sec.gov/Archives/edgar/data/798354/000119312510178791/,,15
+Fiserv,FISV,2010Q2,2010-06-30,분기말 총자본(자기자본),3121000000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/798354/000119312510178791/,"StockholdersEquity, MinorityInterest 태그 없음",15
+Fiserv,FISV,2010Q2,2010-06-30,분기말 지배지분 자본,3121000000,USD,공시,https://www.sec.gov/Archives/edgar/data/798354/000119312510178791/,,15
+Fiserv,FISV,2010Q2,2010-06-30,분기말 종가,45.66,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/FISV?interval=1d&events=splits (2010-06-30),분할조정 종가 11.415 × 이후 분할계수 4,15
+Fiserv,FISV,2010Q2,2010-08-02,분기말 상장주식수,150104161,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/798354/000119312510178791/,dei:EntityCommonStockSharesOutstanding 클래스 합,15
+Fiserv,FISV,2010Q2,2010-06-30,분기말 시가총액,6853755991,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/FISV?interval=1d&events=splits (2010-06-30) ; https://www.sec.gov/Archives/edgar/data/798354/000119312510178791/,종가 45.66 × 주식수 150104161,15
+Fiserv,FISV,2010Q3,2010-09-30,분기별 매출액,1025000000,USD,공시,https://www.sec.gov/Archives/edgar/data/798354/000119312510249903/,,15
+Fiserv,FISV,2010Q3,2010-09-30,분기별 영업이익,251000000,USD,공시,https://www.sec.gov/Archives/edgar/data/798354/000119312510249903/,,15
+Fiserv,FISV,2010Q3,2010-09-30,분기별 당기순이익(지배),132000000,USD,공시,https://www.sec.gov/Archives/edgar/data/798354/000119312510249903/,,15
+Fiserv,FISV,2010Q3,2010-09-30,분기별 영업활동현금흐름,223000000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/798354/000119312510249903/ ; https://www.sec.gov/Archives/edgar/data/798354/000119312510178791/,누적 654000000 − 직전누적 431000000 (시작 2010-01-01),15
+Fiserv,FISV,2010Q3,2010-09-30,분기말 자산총계,8614000000,USD,공시,https://www.sec.gov/Archives/edgar/data/798354/000119312510249903/,,15
+Fiserv,FISV,2010Q3,2010-09-30,분기말 부채총계,5386000000,USD,공시,https://www.sec.gov/Archives/edgar/data/798354/000119312510249903/,,15
+Fiserv,FISV,2010Q3,2010-09-30,분기말 총자본(자기자본),3228000000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/798354/000119312510249903/,"StockholdersEquity, MinorityInterest 태그 없음",15
+Fiserv,FISV,2010Q3,2010-09-30,분기말 지배지분 자본,3228000000,USD,공시,https://www.sec.gov/Archives/edgar/data/798354/000119312510249903/,,15
+Fiserv,FISV,2010Q3,2010-09-30,분기말 종가,53.82,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/FISV?interval=1d&events=splits (2010-09-30),분할조정 종가 13.455 × 이후 분할계수 4,15
+Fiserv,FISV,2010Q3,2010-11-02,분기말 상장주식수,148720374,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/798354/000119312510249903/,dei:EntityCommonStockSharesOutstanding 클래스 합,15
+Fiserv,FISV,2010Q3,2010-09-30,분기말 시가총액,8004130529,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/FISV?interval=1d&events=splits (2010-09-30) ; https://www.sec.gov/Archives/edgar/data/798354/000119312510249903/,종가 53.82 × 주식수 148720374,15
+Fiserv,FISV,2010Q4,2010-12-31,분기별 매출액,1078000000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/798354/000119312511045000/ ; https://www.sec.gov/Archives/edgar/data/798354/000119312510249903/,연간 4133000000 − 9개월누적 3055000000 (Revenues),15
+Fiserv,FISV,2010Q4,2010-12-31,분기별 영업이익,267000000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/798354/000119312511045000/ ; https://www.sec.gov/Archives/edgar/data/798354/000119312510249903/,연간 1007000000 − 9개월누적 740000000 (OperatingIncomeLoss),15
+Fiserv,FISV,2010Q4,2010-12-31,분기별 당기순이익(지배),116000000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/798354/000119312511045000/ ; https://www.sec.gov/Archives/edgar/data/798354/000119312510249903/,연간 496000000 − 9개월누적 380000000 (NetIncomeLoss),15
+Fiserv,FISV,2010Q4,2010-12-31,분기별 영업활동현금흐름,304000000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/798354/000119312511045000/ ; https://www.sec.gov/Archives/edgar/data/798354/000119312510249903/,누적 958000000 − 직전누적 654000000 (시작 2010-01-01),15
+Fiserv,FISV,2010Q4,2010-12-31,분기말 자산총계,8281000000,USD,공시,https://www.sec.gov/Archives/edgar/data/798354/000119312511045000/,,15
+Fiserv,FISV,2010Q4,2010-12-31,분기말 부채총계,5052000000,USD,공시,https://www.sec.gov/Archives/edgar/data/798354/000119312511045000/,,15
+Fiserv,FISV,2010Q4,2010-12-31,분기말 총자본(자기자본),3229000000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/798354/000119312511045000/,"StockholdersEquity, MinorityInterest 태그 없음",15
+Fiserv,FISV,2010Q4,2010-12-31,분기말 지배지분 자본,3229000000,USD,공시,https://www.sec.gov/Archives/edgar/data/798354/000119312511045000/,,15
+Fiserv,FISV,2010Q4,2010-12-31,분기말 종가,58.56,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/FISV?interval=1d&events=splits (2010-12-31),분할조정 종가 14.64 × 이후 분할계수 4,15
+Fiserv,FISV,2010Q4,2011-02-18,분기말 상장주식수,146077101,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/798354/000119312511045000/,dei:EntityCommonStockSharesOutstanding 클래스 합,15
+Fiserv,FISV,2010Q4,2010-12-31,분기말 시가총액,8554275035,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/FISV?interval=1d&events=splits (2010-12-31) ; https://www.sec.gov/Archives/edgar/data/798354/000119312511045000/,종가 58.56 × 주식수 146077101,15
+Fiserv,FISV,2011Q1,2011-03-31,분기별 매출액,1048000000,USD,공시,https://www.sec.gov/Archives/edgar/data/798354/000119312511125883/,,15
+Fiserv,FISV,2011Q1,2011-03-31,분기별 영업이익,221000000,USD,공시,https://www.sec.gov/Archives/edgar/data/798354/000119312511125883/,,15
+Fiserv,FISV,2011Q1,2011-03-31,분기별 당기순이익(지배),112000000,USD,공시,https://www.sec.gov/Archives/edgar/data/798354/000119312511125883/,,15
+Fiserv,FISV,2011Q1,2011-03-31,분기별 영업활동현금흐름,283000000,USD,공시,https://www.sec.gov/Archives/edgar/data/798354/000119312511125883/,,15
+Fiserv,FISV,2011Q1,2011-03-31,분기말 자산총계,8257000000,USD,공시,https://www.sec.gov/Archives/edgar/data/798354/000119312511125883/,,15
+Fiserv,FISV,2011Q1,2011-03-31,분기말 부채총계,5119000000,USD,공시,https://www.sec.gov/Archives/edgar/data/798354/000119312511125883/,,15
+Fiserv,FISV,2011Q1,2011-03-31,분기말 총자본(자기자본),3138000000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/798354/000119312511125883/,"StockholdersEquity, MinorityInterest 태그 없음",15
+Fiserv,FISV,2011Q1,2011-03-31,분기말 지배지분 자본,3138000000,USD,공시,https://www.sec.gov/Archives/edgar/data/798354/000119312511125883/,,15
+Fiserv,FISV,2011Q1,2011-03-31,분기말 종가,62.72,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/FISV?interval=1d&events=splits (2011-03-31),분할조정 종가 15.68 × 이후 분할계수 4,15
+Fiserv,FISV,2011Q1,2011-04-29,분기말 상장주식수,143611172,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/798354/000119312511125883/,dei:EntityCommonStockSharesOutstanding 클래스 합,15
+Fiserv,FISV,2011Q1,2011-03-31,분기말 시가총액,9007292708,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/FISV?interval=1d&events=splits (2011-03-31) ; https://www.sec.gov/Archives/edgar/data/798354/000119312511125883/,종가 62.72 × 주식수 143611172,15
+Fiserv,FISV,2011Q2,2011-06-30,분기별 매출액,1065000000,USD,공시,https://www.sec.gov/Archives/edgar/data/798354/000119312511206249/,,15
+Fiserv,FISV,2011Q2,2011-06-30,분기별 영업이익,251000000,USD,공시,https://www.sec.gov/Archives/edgar/data/798354/000119312511206249/,,15
+Fiserv,FISV,2011Q2,2011-06-30,분기별 당기순이익(지배),90000000,USD,공시,https://www.sec.gov/Archives/edgar/data/798354/000119312511206249/,,15
+Fiserv,FISV,2011Q2,2011-06-30,분기별 영업활동현금흐름,135000000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/798354/000119312511206249/ ; https://www.sec.gov/Archives/edgar/data/798354/000119312511125883/,누적 418000000 − 직전누적 283000000 (시작 2011-01-01),15
+Fiserv,FISV,2011Q2,2011-06-30,분기말 자산총계,8396000000,USD,공시,https://www.sec.gov/Archives/edgar/data/798354/000119312511206249/,,15
+Fiserv,FISV,2011Q2,2011-06-30,분기말 부채총계,5310000000,USD,공시,https://www.sec.gov/Archives/edgar/data/798354/000119312511206249/,,15
+Fiserv,FISV,2011Q2,2011-06-30,분기말 총자본(자기자본),3086000000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/798354/000119312511206249/,"StockholdersEquity, MinorityInterest 태그 없음",15
+Fiserv,FISV,2011Q2,2011-06-30,분기말 지배지분 자본,3086000000,USD,공시,https://www.sec.gov/Archives/edgar/data/798354/000119312511206249/,,15
+Fiserv,FISV,2011Q2,2011-06-30,분기말 종가,62.63,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/FISV?interval=1d&events=splits (2011-06-30),분할조정 종가 15.6575 × 이후 분할계수 4,15
+Fiserv,FISV,2011Q2,2011-07-29,분기말 상장주식수,141552439,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/798354/000119312511206249/,dei:EntityCommonStockSharesOutstanding 클래스 합,15
+Fiserv,FISV,2011Q2,2011-06-30,분기말 시가총액,8865429255,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/FISV?interval=1d&events=splits (2011-06-30) ; https://www.sec.gov/Archives/edgar/data/798354/000119312511206249/,종가 62.63 × 주식수 141552439,15
+Fiserv,FISV,2011Q3,2011-09-30,분기별 매출액,1063000000,USD,공시,https://www.sec.gov/Archives/edgar/data/798354/000119312511292805/,,15
+Fiserv,FISV,2011Q3,2011-09-30,분기별 영업이익,243000000,USD,공시,https://www.sec.gov/Archives/edgar/data/798354/000119312511292805/,,15
+Fiserv,FISV,2011Q3,2011-09-30,분기별 당기순이익(지배),127000000,USD,공시,https://www.sec.gov/Archives/edgar/data/798354/000119312511292805/,,15
+Fiserv,FISV,2011Q3,2011-09-30,분기별 영업활동현금흐름,263000000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/798354/000119312511292805/ ; https://www.sec.gov/Archives/edgar/data/798354/000119312511206249/,누적 681000000 − 직전누적 418000000 (시작 2011-01-01),15
+Fiserv,FISV,2011Q3,2011-09-30,분기말 자산총계,8451000000,USD,공시,https://www.sec.gov/Archives/edgar/data/798354/000119312511292805/,,15
+Fiserv,FISV,2011Q3,2011-09-30,분기말 부채총계,5299000000,USD,공시,https://www.sec.gov/Archives/edgar/data/798354/000119312511292805/,,15
+Fiserv,FISV,2011Q3,2011-09-30,분기말 총자본(자기자본),3152000000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/798354/000119312511292805/,"StockholdersEquity, MinorityInterest 태그 없음",15
+Fiserv,FISV,2011Q3,2011-09-30,분기말 지배지분 자본,3152000000,USD,공시,https://www.sec.gov/Archives/edgar/data/798354/000119312511292805/,,15
+Fiserv,FISV,2011Q3,2011-09-30,분기말 종가,50.77,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/FISV?interval=1d&events=splits (2011-09-30),분할조정 종가 12.6925 × 이후 분할계수 4,15
+Fiserv,FISV,2011Q3,2011-10-28,분기말 상장주식수,140859018,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/798354/000119312511292805/,dei:EntityCommonStockSharesOutstanding 클래스 합,15
+Fiserv,FISV,2011Q3,2011-09-30,분기말 시가총액,7151412344,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/FISV?interval=1d&events=splits (2011-09-30) ; https://www.sec.gov/Archives/edgar/data/798354/000119312511292805/,종가 50.77 × 주식수 140859018,15
+Fiserv,FISV,2011Q4,2011-12-31,분기별 매출액,1161000000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/798354/000119312512077375/ ; https://www.sec.gov/Archives/edgar/data/798354/000119312511292805/,연간 4337000000 − 9개월누적 3176000000 (Revenues),15
+Fiserv,FISV,2011Q4,2011-12-31,분기별 영업이익,281000000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/798354/000119312512077375/ ; https://www.sec.gov/Archives/edgar/data/798354/000119312511292805/,연간 996000000 − 9개월누적 715000000 (OperatingIncomeLoss),15
+Fiserv,FISV,2011Q4,2011-12-31,분기별 당기순이익(지배),143000000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/798354/000119312512077375/ ; https://www.sec.gov/Archives/edgar/data/798354/000119312511292805/,연간 472000000 − 9개월누적 329000000 (NetIncomeLoss),15
+Fiserv,FISV,2011Q4,2011-12-31,분기별 영업활동현금흐름,272000000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/798354/000119312512077375/ ; https://www.sec.gov/Archives/edgar/data/798354/000119312511292805/,누적 953000000 − 직전누적 681000000 (시작 2011-01-01),15
+Fiserv,FISV,2011Q4,2011-12-31,분기말 자산총계,8548000000,USD,공시,https://www.sec.gov/Archives/edgar/data/798354/000119312512077375/,,15
+Fiserv,FISV,2011Q4,2011-12-31,분기말 부채총계,5290000000,USD,공시,https://www.sec.gov/Archives/edgar/data/798354/000119312512077375/,,15
+Fiserv,FISV,2011Q4,2011-12-31,분기말 총자본(자기자본),3258000000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/798354/000119312512077375/,"StockholdersEquity, MinorityInterest 태그 없음",15
+Fiserv,FISV,2011Q4,2011-12-31,분기말 지배지분 자본,3258000000,USD,공시,https://www.sec.gov/Archives/edgar/data/798354/000119312512077375/,,15
+Fiserv,FISV,2011Q4,2011-12-30,분기말 종가,58.74,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/FISV?interval=1d&events=splits (2011-12-30),분할조정 종가 14.685 × 이후 분할계수 4,15
+Fiserv,FISV,2011Q4,2012-02-17,분기말 상장주식수,138588647,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/798354/000119312512077375/,dei:EntityCommonStockSharesOutstanding 클래스 합,15
+Fiserv,FISV,2011Q4,2011-12-30,분기말 시가총액,8140697125,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/FISV?interval=1d&events=splits (2011-12-30) ; https://www.sec.gov/Archives/edgar/data/798354/000119312512077375/,종가 58.74 × 주식수 138588647,15
+Fiserv,FISV,2012Q1,2012-03-31,분기별 매출액,1108000000,USD,공시,https://www.sec.gov/Archives/edgar/data/798354/000119312512204679/,,15
+Fiserv,FISV,2012Q1,2012-03-31,분기별 영업이익,241000000,USD,공시,https://www.sec.gov/Archives/edgar/data/798354/000119312512204679/,,15
+Fiserv,FISV,2012Q1,2012-03-31,분기별 당기순이익(지배),132000000,USD,공시,https://www.sec.gov/Archives/edgar/data/798354/000119312512204679/,,15
+Fiserv,FISV,2012Q1,2012-03-31,분기별 영업활동현금흐름,236000000,USD,공시,https://www.sec.gov/Archives/edgar/data/798354/000119312512204679/,,15
+Fiserv,FISV,2012Q1,2012-03-31,분기말 자산총계,8484000000,USD,공시,https://www.sec.gov/Archives/edgar/data/798354/000119312512204679/,,15
+Fiserv,FISV,2012Q1,2012-03-31,분기말 부채총계,5269000000,USD,공시,https://www.sec.gov/Archives/edgar/data/798354/000119312512204679/,,15
+Fiserv,FISV,2012Q1,2012-03-31,분기말 총자본(자기자본),3215000000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/798354/000119312512204679/,"StockholdersEquity, MinorityInterest 태그 없음",15
+Fiserv,FISV,2012Q1,2012-03-31,분기말 지배지분 자본,3215000000,USD,공시,https://www.sec.gov/Archives/edgar/data/798354/000119312512204679/,,15
+Fiserv,FISV,2012Q1,2012-03-30,분기말 종가,69.39,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/FISV?interval=1d&events=splits (2012-03-30),분할조정 종가 17.3475 × 이후 분할계수 4,15
+Fiserv,FISV,2012Q1,2012-04-27,분기말 상장주식수,136482654,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/798354/000119312512204679/,dei:EntityCommonStockSharesOutstanding 클래스 합,15
+Fiserv,FISV,2012Q1,2012-03-30,분기말 시가총액,9470531361,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/FISV?interval=1d&events=splits (2012-03-30) ; https://www.sec.gov/Archives/edgar/data/798354/000119312512204679/,종가 69.39 × 주식수 136482654,15
+Fiserv,FISV,2012Q2,2012-06-30,분기별 매출액,1100000000,USD,공시,https://www.sec.gov/Archives/edgar/data/798354/000119312512324802/,,15
+Fiserv,FISV,2012Q2,2012-06-30,분기별 영업이익,259000000,USD,공시,https://www.sec.gov/Archives/edgar/data/798354/000119312512324802/,,15
+Fiserv,FISV,2012Q2,2012-06-30,분기별 당기순이익(지배),161000000,USD,공시,https://www.sec.gov/Archives/edgar/data/798354/000119312512324802/,,15
+Fiserv,FISV,2012Q2,2012-06-30,분기별 영업활동현금흐름,149000000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/798354/000119312512324802/ ; https://www.sec.gov/Archives/edgar/data/798354/000119312512204679/,누적 385000000 − 직전누적 236000000 (시작 2012-01-01),15
+Fiserv,FISV,2012Q2,2012-06-30,분기말 자산총계,8416000000,USD,공시,https://www.sec.gov/Archives/edgar/data/798354/000119312512324802/,,15
+Fiserv,FISV,2012Q2,2012-06-30,분기말 부채총계,5163000000,USD,공시,https://www.sec.gov/Archives/edgar/data/798354/000119312512324802/,,15
+Fiserv,FISV,2012Q2,2012-06-30,분기말 총자본(자기자본),3253000000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/798354/000119312512324802/,"StockholdersEquity, MinorityInterest 태그 없음",15
+Fiserv,FISV,2012Q2,2012-06-30,분기말 지배지분 자본,3253000000,USD,공시,https://www.sec.gov/Archives/edgar/data/798354/000119312512324802/,,15
+Fiserv,FISV,2012Q2,2012-06-29,분기말 종가,72.22,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/FISV?interval=1d&events=splits (2012-06-29),분할조정 종가 18.055 × 이후 분할계수 4,15
+Fiserv,FISV,2012Q2,2012-07-26,분기말 상장주식수,135669589,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/798354/000119312512324802/,dei:EntityCommonStockSharesOutstanding 클래스 합,15
+Fiserv,FISV,2012Q2,2012-06-29,분기말 시가총액,9798057718,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/FISV?interval=1d&events=splits (2012-06-29) ; https://www.sec.gov/Archives/edgar/data/798354/000119312512324802/,종가 72.22 × 주식수 135669589,15
+Fiserv,FISV,2012Q3,2012-09-30,분기별 매출액,1118000000,USD,공시,https://www.sec.gov/Archives/edgar/data/798354/000119312512443306/,,15
+Fiserv,FISV,2012Q3,2012-09-30,분기별 영업이익,267000000,USD,공시,https://www.sec.gov/Archives/edgar/data/798354/000119312512443306/,,15
+Fiserv,FISV,2012Q3,2012-09-30,분기별 당기순이익(지배),139000000,USD,공시,https://www.sec.gov/Archives/edgar/data/798354/000119312512443306/,,15
+Fiserv,FISV,2012Q3,2012-09-30,분기별 영업활동현금흐름,163000000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/798354/000119312512443306/ ; https://www.sec.gov/Archives/edgar/data/798354/000119312512324802/,누적 548000000 − 직전누적 385000000 (시작 2012-01-01),15
+Fiserv,FISV,2012Q3,2012-09-30,분기말 자산총계,8453000000,USD,공시,https://www.sec.gov/Archives/edgar/data/798354/000119312512443306/,,15
+Fiserv,FISV,2012Q3,2012-09-30,분기말 부채총계,5195000000,USD,공시,https://www.sec.gov/Archives/edgar/data/798354/000119312512443306/,,15
+Fiserv,FISV,2012Q3,2012-09-30,분기말 총자본(자기자본),3258000000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/798354/000119312512443306/,"StockholdersEquity, MinorityInterest 태그 없음",15
+Fiserv,FISV,2012Q3,2012-09-30,분기말 지배지분 자본,3258000000,USD,공시,https://www.sec.gov/Archives/edgar/data/798354/000119312512443306/,,15
+Fiserv,FISV,2012Q3,2012-09-28,분기말 종가,74.03,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/FISV?interval=1d&events=splits (2012-09-28),분할조정 종가 18.5075 × 이후 분할계수 4,15
+Fiserv,FISV,2012Q3,2012-10-25,분기말 상장주식수,133472676,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/798354/000119312512443306/,dei:EntityCommonStockSharesOutstanding 클래스 합,15
+Fiserv,FISV,2012Q3,2012-09-28,분기말 시가총액,9880982204,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/FISV?interval=1d&events=splits (2012-09-28) ; https://www.sec.gov/Archives/edgar/data/798354/000119312512443306/,종가 74.03 × 주식수 133472676,15
+Fiserv,FISV,2012Q4,2012-12-31,분기별 매출액,1156000000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/798354/000119312513071589/ ; https://www.sec.gov/Archives/edgar/data/798354/000119312512443306/,연간 4482000000 − 9개월누적 3326000000 (Revenues),15
+Fiserv,FISV,2012Q4,2012-12-31,분기별 영업이익,289000000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/798354/000119312513071589/ ; https://www.sec.gov/Archives/edgar/data/798354/000119312512443306/,연간 1056000000 − 9개월누적 767000000 (OperatingIncomeLoss),15
+Fiserv,FISV,2012Q4,2012-12-31,분기별 당기순이익(지배),179000000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/798354/000119312513071589/ ; https://www.sec.gov/Archives/edgar/data/798354/000119312512443306/,연간 611000000 − 9개월누적 432000000 (NetIncomeLoss),15
+Fiserv,FISV,2012Q4,2012-12-31,분기별 영업활동현금흐름,287000000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/798354/000119312513071589/ ; https://www.sec.gov/Archives/edgar/data/798354/000119312512443306/,누적 835000000 − 직전누적 548000000 (시작 2012-01-01),15
+Fiserv,FISV,2012Q4,2012-12-31,분기말 자산총계,8497000000,USD,공시,https://www.sec.gov/Archives/edgar/data/798354/000119312513071589/,,15
+Fiserv,FISV,2012Q4,2012-12-31,분기말 부채총계,5080000000,USD,공시,https://www.sec.gov/Archives/edgar/data/798354/000119312513071589/,,15
+Fiserv,FISV,2012Q4,2012-12-31,분기말 총자본(자기자본),3417000000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/798354/000119312513071589/,"StockholdersEquity, MinorityInterest 태그 없음",15
+Fiserv,FISV,2012Q4,2012-12-31,분기말 지배지분 자본,3417000000,USD,공시,https://www.sec.gov/Archives/edgar/data/798354/000119312513071589/,,15
+Fiserv,FISV,2012Q4,2012-12-31,분기말 종가,79.03,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/FISV?interval=1d&events=splits (2012-12-31),분할조정 종가 19.7575 × 이후 분할계수 4,15
+Fiserv,FISV,2012Q4,2013-02-15,분기말 상장주식수,133503529,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/798354/000119312513071589/,dei:EntityCommonStockSharesOutstanding 클래스 합,15
+Fiserv,FISV,2012Q4,2012-12-31,분기말 시가총액,10550783897,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/FISV?interval=1d&events=splits (2012-12-31) ; https://www.sec.gov/Archives/edgar/data/798354/000119312513071589/,종가 79.03 × 주식수 133503529,15
+Fiserv,FISV,2013Q1,2013-03-31,분기별 매출액,1152000000,USD,공시,https://www.sec.gov/Archives/edgar/data/798354/000119312513192051/,,15
+Fiserv,FISV,2013Q1,2013-03-31,분기별 영업이익,211000000,USD,공시,https://www.sec.gov/Archives/edgar/data/798354/000119312513192051/,,15
+Fiserv,FISV,2013Q1,2013-03-31,분기별 당기순이익(지배),117000000,USD,공시,https://www.sec.gov/Archives/edgar/data/798354/000119312513192051/,,15
+Fiserv,FISV,2013Q1,2013-03-31,분기별 영업활동현금흐름,222000000,USD,공시,https://www.sec.gov/Archives/edgar/data/798354/000119312513192051/,,15
+Fiserv,FISV,2013Q1,2013-03-31,분기말 자산총계,9563000000,USD,공시,https://www.sec.gov/Archives/edgar/data/798354/000119312513192051/,,15
+Fiserv,FISV,2013Q1,2013-03-31,분기말 부채총계,6066000000,USD,공시,https://www.sec.gov/Archives/edgar/data/798354/000119312513192051/,,15
+Fiserv,FISV,2013Q1,2013-03-31,분기말 총자본(자기자본),3497000000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/798354/000119312513192051/,"StockholdersEquity, MinorityInterest 태그 없음",15
+Fiserv,FISV,2013Q1,2013-03-31,분기말 지배지분 자본,3497000000,USD,공시,https://www.sec.gov/Archives/edgar/data/798354/000119312513192051/,,15
+Fiserv,FISV,2013Q1,2013-03-28,분기말 종가,87.86,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/FISV?interval=1d&events=splits (2013-03-28),분할조정 종가 21.965 × 이후 분할계수 4,15
+Fiserv,FISV,2013Q1,2013-04-25,분기말 상장주식수,133162609,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/798354/000119312513192051/,dei:EntityCommonStockSharesOutstanding 클래스 합,15
+Fiserv,FISV,2013Q1,2013-03-28,분기말 시가총액,11699666827,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/FISV?interval=1d&events=splits (2013-03-28) ; https://www.sec.gov/Archives/edgar/data/798354/000119312513192051/,종가 87.86 × 주식수 133162609,15
+Fiserv,FISV,2013Q2,2013-06-30,분기별 매출액,1198000000,USD,공시,https://www.sec.gov/Archives/edgar/data/798354/000119312513312502/,,15
+Fiserv,FISV,2013Q2,2013-06-30,분기별 영업이익,273000000,USD,공시,https://www.sec.gov/Archives/edgar/data/798354/000119312513312502/,,15
+Fiserv,FISV,2013Q2,2013-06-30,분기별 당기순이익(지배),151000000,USD,공시,https://www.sec.gov/Archives/edgar/data/798354/000119312513312502/,,15
+Fiserv,FISV,2013Q2,2013-06-30,분기별 영업활동현금흐름,175000000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/798354/000119312513312502/ ; https://www.sec.gov/Archives/edgar/data/798354/000119312513192051/,누적 397000000 − 직전누적 222000000 (시작 2013-01-01),15
+Fiserv,FISV,2013Q2,2013-06-30,분기말 자산총계,9434000000,USD,공시,https://www.sec.gov/Archives/edgar/data/798354/000119312513312502/,,15
+Fiserv,FISV,2013Q2,2013-06-30,분기말 부채총계,5971000000,USD,공시,https://www.sec.gov/Archives/edgar/data/798354/000119312513312502/,,15
+Fiserv,FISV,2013Q2,2013-06-30,분기말 총자본(자기자본),3463000000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/798354/000119312513312502/,"StockholdersEquity, MinorityInterest 태그 없음",15
+Fiserv,FISV,2013Q2,2013-06-30,분기말 지배지분 자본,3463000000,USD,공시,https://www.sec.gov/Archives/edgar/data/798354/000119312513312502/,,15
+Fiserv,FISV,2013Q2,2013-06-28,분기말 종가,87.41,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/FISV?interval=1d&events=splits (2013-06-28),분할조정 종가 21.8525 × 이후 분할계수 4,15
+Fiserv,FISV,2013Q2,2013-07-25,분기말 상장주식수,130090406,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/798354/000119312513312502/,dei:EntityCommonStockSharesOutstanding 클래스 합,15
+Fiserv,FISV,2013Q2,2013-06-28,분기말 시가총액,11371202388,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/FISV?interval=1d&events=splits (2013-06-28) ; https://www.sec.gov/Archives/edgar/data/798354/000119312513312502/,종가 87.41 × 주식수 130090406,15
+Fiserv,FISV,2013Q3,2013-09-30,분기별 매출액,1201000000,USD,공시,https://www.sec.gov/Archives/edgar/data/798354/000119312513418089/,,15
+Fiserv,FISV,2013Q3,2013-09-30,분기별 영업이익,280000000,USD,공시,https://www.sec.gov/Archives/edgar/data/798354/000119312513418089/,,15
+Fiserv,FISV,2013Q3,2013-09-30,분기별 당기순이익(지배),159000000,USD,공시,https://www.sec.gov/Archives/edgar/data/798354/000119312513418089/,,15
+Fiserv,FISV,2013Q3,2013-09-30,분기별 영업활동현금흐름,284000000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/798354/000119312513418089/ ; https://www.sec.gov/Archives/edgar/data/798354/000119312513312502/,누적 681000000 − 직전누적 397000000 (시작 2013-01-01),15
+Fiserv,FISV,2013Q3,2013-09-30,분기말 자산총계,9456000000,USD,공시,https://www.sec.gov/Archives/edgar/data/798354/000119312513418089/,,15
+Fiserv,FISV,2013Q3,2013-09-30,분기말 부채총계,5996000000,USD,공시,https://www.sec.gov/Archives/edgar/data/798354/000119312513418089/,,15
+Fiserv,FISV,2013Q3,2013-09-30,분기말 총자본(자기자본),3460000000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/798354/000119312513418089/,"StockholdersEquity, MinorityInterest 태그 없음",15
+Fiserv,FISV,2013Q3,2013-09-30,분기말 지배지분 자본,3460000000,USD,공시,https://www.sec.gov/Archives/edgar/data/798354/000119312513418089/,,15
+Fiserv,FISV,2013Q3,2013-09-30,분기말 종가,101.05,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/FISV?interval=1d&events=splits (2013-09-30),분할조정 종가 25.2625 × 이후 분할계수 4,15
+Fiserv,FISV,2013Q3,2013-10-24,분기말 상장주식수,128969152,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/798354/000119312513418089/,dei:EntityCommonStockSharesOutstanding 클래스 합,15
+Fiserv,FISV,2013Q3,2013-09-30,분기말 시가총액,13032332810,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/FISV?interval=1d&events=splits (2013-09-30) ; https://www.sec.gov/Archives/edgar/data/798354/000119312513418089/,종가 101.05 × 주식수 128969152,15
+Fiserv,FISV,2013Q4,2013-12-31,분기별 매출액,1263000000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/798354/000119312514060861/ ; https://www.sec.gov/Archives/edgar/data/798354/000119312513418089/,연간 4814000000 − 9개월누적 3551000000 (Revenues),15
+Fiserv,FISV,2013Q4,2013-12-31,분기별 영업이익,297000000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/798354/000119312514060861/ ; https://www.sec.gov/Archives/edgar/data/798354/000119312513418089/,연간 1061000000 − 9개월누적 764000000 (OperatingIncomeLoss),15
+Fiserv,FISV,2013Q4,2013-12-31,분기별 당기순이익(지배),221000000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/798354/000119312514060861/ ; https://www.sec.gov/Archives/edgar/data/798354/000119312513418089/,연간 648000000 − 9개월누적 427000000 (NetIncomeLoss),15
+Fiserv,FISV,2013Q4,2013-12-31,분기별 영업활동현금흐름,358000000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/798354/000119312514060861/ ; https://www.sec.gov/Archives/edgar/data/798354/000119312513418089/,누적 1039000000 − 직전누적 681000000 (시작 2013-01-01),15
+Fiserv,FISV,2013Q4,2013-12-31,분기말 자산총계,9513000000,USD,공시,https://www.sec.gov/Archives/edgar/data/798354/000119312514060861/,,15
+Fiserv,FISV,2013Q4,2013-12-31,분기말 부채총계,5928000000,USD,공시,https://www.sec.gov/Archives/edgar/data/798354/000119312514060861/,,15
+Fiserv,FISV,2013Q4,2013-12-31,분기말 총자본(자기자본),3585000000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/798354/000119312514060861/,"StockholdersEquity, MinorityInterest 태그 없음",15
+Fiserv,FISV,2013Q4,2013-12-31,분기말 지배지분 자본,3585000000,USD,공시,https://www.sec.gov/Archives/edgar/data/798354/000119312514060861/,,15
+Fiserv,FISV,2013Q4,2013-12-31,분기말 종가,59.05,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/FISV?interval=1d&events=splits (2013-12-31),분할조정 종가 29.525 × 이후 분할계수 2,15
+Fiserv,FISV,2013Q4,2014-02-14,분기말 상장주식수,254486523,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/798354/000119312514060861/,dei:EntityCommonStockSharesOutstanding 클래스 합,15
+Fiserv,FISV,2013Q4,2013-12-31,분기말 시가총액,15027429183,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/FISV?interval=1d&events=splits (2013-12-31) ; https://www.sec.gov/Archives/edgar/data/798354/000119312514060861/,종가 59.05 × 주식수 254486523,15
+Fiserv,FISV,2014Q1,2014-03-31,분기별 매출액,1234000000,USD,공시,https://www.sec.gov/Archives/edgar/data/798354/000119312514171890/,,15
+Fiserv,FISV,2014Q1,2014-03-31,분기별 영업이익,271000000,USD,공시,https://www.sec.gov/Archives/edgar/data/798354/000119312514171890/,,15
+Fiserv,FISV,2014Q1,2014-03-31,분기별 당기순이익(지배),168000000,USD,공시,https://www.sec.gov/Archives/edgar/data/798354/000119312514171890/,,15
+Fiserv,FISV,2014Q1,2014-03-31,분기별 영업활동현금흐름,292000000,USD,공시,https://www.sec.gov/Archives/edgar/data/798354/000119312514171890/,,15
+Fiserv,FISV,2014Q1,2014-03-31,분기말 자산총계,9473000000,USD,공시,https://www.sec.gov/Archives/edgar/data/798354/000119312514171890/,,15
+Fiserv,FISV,2014Q1,2014-03-31,분기말 부채총계,6030000000,USD,공시,https://www.sec.gov/Archives/edgar/data/798354/000119312514171890/,,15
+Fiserv,FISV,2014Q1,2014-03-31,분기말 총자본(자기자본),3443000000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/798354/000119312514171890/,"StockholdersEquity, MinorityInterest 태그 없음",15
+Fiserv,FISV,2014Q1,2014-03-31,분기말 지배지분 자본,3443000000,USD,공시,https://www.sec.gov/Archives/edgar/data/798354/000119312514171890/,,15
+Fiserv,FISV,2014Q1,2014-03-31,분기말 종가,56.69,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/FISV?interval=1d&events=splits (2014-03-31),분할조정 종가 28.345 × 이후 분할계수 2,15
+Fiserv,FISV,2014Q1,2014-04-24,분기말 상장주식수,249228029,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/798354/000119312514171890/,dei:EntityCommonStockSharesOutstanding 클래스 합,15
+Fiserv,FISV,2014Q1,2014-03-31,분기말 시가총액,14128736964,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/FISV?interval=1d&events=splits (2014-03-31) ; https://www.sec.gov/Archives/edgar/data/798354/000119312514171890/,종가 56.69 × 주식수 249228029,15
+Fiserv,FISV,2014Q2,2014-06-30,분기별 매출액,1253000000,USD,공시,https://www.sec.gov/Archives/edgar/data/798354/000119312514286896/,,15
+Fiserv,FISV,2014Q2,2014-06-30,분기별 영업이익,307000000,USD,공시,https://www.sec.gov/Archives/edgar/data/798354/000119312514286896/,,15
+Fiserv,FISV,2014Q2,2014-06-30,분기별 당기순이익(지배),166000000,USD,공시,https://www.sec.gov/Archives/edgar/data/798354/000119312514286896/,,15
+Fiserv,FISV,2014Q2,2014-06-30,분기별 영업활동현금흐름,277000000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/798354/000119312514286896/ ; https://www.sec.gov/Archives/edgar/data/798354/000119312514171890/,누적 569000000 − 직전누적 292000000 (시작 2014-01-01),15
+Fiserv,FISV,2014Q2,2014-06-30,분기말 자산총계,9403000000,USD,공시,https://www.sec.gov/Archives/edgar/data/798354/000119312514286896/,,15
+Fiserv,FISV,2014Q2,2014-06-30,분기말 부채총계,5928000000,USD,공시,https://www.sec.gov/Archives/edgar/data/798354/000119312514286896/,,15
+Fiserv,FISV,2014Q2,2014-06-30,분기말 총자본(자기자본),3475000000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/798354/000119312514286896/,"StockholdersEquity, MinorityInterest 태그 없음",15
+Fiserv,FISV,2014Q2,2014-06-30,분기말 지배지분 자본,3475000000,USD,공시,https://www.sec.gov/Archives/edgar/data/798354/000119312514286896/,,15
+Fiserv,FISV,2014Q2,2014-06-30,분기말 종가,60.32,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/FISV?interval=1d&events=splits (2014-06-30),분할조정 종가 30.16 × 이후 분할계수 2,15
+Fiserv,FISV,2014Q2,2014-07-24,분기말 상장주식수,249219225,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/798354/000119312514286896/,dei:EntityCommonStockSharesOutstanding 클래스 합,15
+Fiserv,FISV,2014Q2,2014-06-30,분기말 시가총액,15032903652,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/FISV?interval=1d&events=splits (2014-06-30) ; https://www.sec.gov/Archives/edgar/data/798354/000119312514286896/,종가 60.32 × 주식수 249219225,15
+Fiserv,FISV,2014Q3,2014-09-30,분기별 매출액,1263000000,USD,공시,https://www.sec.gov/Archives/edgar/data/798354/000119312514387385/,,15
+Fiserv,FISV,2014Q3,2014-09-30,분기별 영업이익,315000000,USD,공시,https://www.sec.gov/Archives/edgar/data/798354/000119312514387385/,,15
+Fiserv,FISV,2014Q3,2014-09-30,분기별 당기순이익(지배),239000000,USD,공시,https://www.sec.gov/Archives/edgar/data/798354/000119312514387385/,,15
+Fiserv,FISV,2014Q3,2014-09-30,분기별 영업활동현금흐름,391000000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/798354/000119312514387385/ ; https://www.sec.gov/Archives/edgar/data/798354/000119312514286896/,누적 960000000 − 직전누적 569000000 (시작 2014-01-01),15
+Fiserv,FISV,2014Q3,2014-09-30,분기말 자산총계,9438000000,USD,공시,https://www.sec.gov/Archives/edgar/data/798354/000119312514387385/,,15
+Fiserv,FISV,2014Q3,2014-09-30,분기말 부채총계,5976000000,USD,공시,https://www.sec.gov/Archives/edgar/data/798354/000119312514387385/,,15
+Fiserv,FISV,2014Q3,2014-09-30,분기말 총자본(자기자본),3462000000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/798354/000119312514387385/,"StockholdersEquity, MinorityInterest 태그 없음",15
+Fiserv,FISV,2014Q3,2014-09-30,분기말 지배지분 자본,3462000000,USD,공시,https://www.sec.gov/Archives/edgar/data/798354/000119312514387385/,,15
+Fiserv,FISV,2014Q3,2014-09-30,분기말 종가,64.64,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/FISV?interval=1d&events=splits (2014-09-30),분할조정 종가 32.32 × 이후 분할계수 2,15
+Fiserv,FISV,2014Q3,2014-10-23,분기말 상장주식수,243966081,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/798354/000119312514387385/,dei:EntityCommonStockSharesOutstanding 클래스 합,15
+Fiserv,FISV,2014Q3,2014-09-30,분기말 시가총액,15769967476,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/FISV?interval=1d&events=splits (2014-09-30) ; https://www.sec.gov/Archives/edgar/data/798354/000119312514387385/,종가 64.64 × 주식수 243966081,15
+Fiserv,FISV,2014Q4,2014-12-31,분기별 매출액,1316000000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/798354/000119312515056319/ ; https://www.sec.gov/Archives/edgar/data/798354/000119312514387385/,연간 5066000000 − 9개월누적 3750000000 (Revenues),15
+Fiserv,FISV,2014Q4,2014-12-31,분기별 영업이익,317000000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/798354/000119312515056319/ ; https://www.sec.gov/Archives/edgar/data/798354/000119312514387385/,연간 1210000000 − 9개월누적 893000000 (OperatingIncomeLoss),15
+Fiserv,FISV,2014Q4,2014-12-31,분기별 당기순이익(지배),181000000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/798354/000119312515056319/ ; https://www.sec.gov/Archives/edgar/data/798354/000119312514387385/,연간 754000000 − 9개월누적 573000000 (NetIncomeLoss),15
+Fiserv,FISV,2014Q4,2014-12-31,분기별 영업활동현금흐름,347000000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/798354/000119312515056319/ ; https://www.sec.gov/Archives/edgar/data/798354/000119312514387385/,누적 1307000000 − 직전누적 960000000 (시작 2014-01-01),15
+Fiserv,FISV,2014Q4,2014-12-31,분기말 자산총계,9308000000,USD,공시(재작성 반영),https://www.sec.gov/Archives/edgar/data/798354/000079835417000006/,원 공시 9337000000 (https://www.sec.gov/Archives/edgar/data/798354/000119312515056319/),15
+Fiserv,FISV,2014Q4,2014-12-31,분기말 부채총계,6013000000,USD,공시(재작성 반영),https://www.sec.gov/Archives/edgar/data/798354/000162828016011435/,원 공시 6042000000 (https://www.sec.gov/Archives/edgar/data/798354/000119312515056319/),15
+Fiserv,FISV,2014Q4,2014-12-31,분기말 총자본(자기자본),3295000000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/798354/000119312515056319/,"StockholdersEquity, MinorityInterest 태그 없음",15
+Fiserv,FISV,2014Q4,2014-12-31,분기말 지배지분 자본,3295000000,USD,공시,https://www.sec.gov/Archives/edgar/data/798354/000119312515056319/,,15
+Fiserv,FISV,2014Q4,2014-12-31,분기말 종가,70.97,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/FISV?interval=1d&events=splits (2014-12-31),분할조정 종가 35.485 × 이후 분할계수 2,15
+Fiserv,FISV,2014Q4,2015-02-13,분기말 상장주식수,238692815,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/798354/000119312515056319/,dei:EntityCommonStockSharesOutstanding 클래스 합,15
+Fiserv,FISV,2014Q4,2014-12-31,분기말 시가총액,16940029081,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/FISV?interval=1d&events=splits (2014-12-31) ; https://www.sec.gov/Archives/edgar/data/798354/000119312515056319/,종가 70.97 × 주식수 238692815,15
+Fiserv,FISV,2015Q1,2015-03-31,분기별 매출액,1275000000,USD,공시,https://www.sec.gov/Archives/edgar/data/798354/000119312515174385/,,15
+Fiserv,FISV,2015Q1,2015-03-31,분기별 영업이익,314000000,USD,공시,https://www.sec.gov/Archives/edgar/data/798354/000119312515174385/,,15
+Fiserv,FISV,2015Q1,2015-03-31,분기별 당기순이익(지배),178000000,USD,공시,https://www.sec.gov/Archives/edgar/data/798354/000119312515174385/,,15
+Fiserv,FISV,2015Q1,2015-03-31,분기별 영업활동현금흐름,346000000,USD,공시,https://www.sec.gov/Archives/edgar/data/798354/000119312515174385/,,15
+Fiserv,FISV,2015Q1,2015-03-31,분기말 자산총계,9335000000,USD,공시,https://www.sec.gov/Archives/edgar/data/798354/000119312515174385/,,15
+Fiserv,FISV,2015Q1,2015-03-31,분기말 부채총계,6117000000,USD,공시,https://www.sec.gov/Archives/edgar/data/798354/000119312515174385/,,15
+Fiserv,FISV,2015Q1,2015-03-31,분기말 총자본(자기자본),3218000000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/798354/000119312515174385/,"StockholdersEquity, MinorityInterest 태그 없음",15
+Fiserv,FISV,2015Q1,2015-03-31,분기말 지배지분 자본,3218000000,USD,공시,https://www.sec.gov/Archives/edgar/data/798354/000119312515174385/,,15
+Fiserv,FISV,2015Q1,2015-03-31,분기말 종가,79.4,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/FISV?interval=1d&events=splits (2015-03-31),분할조정 종가 39.7 × 이후 분할계수 2,15
+Fiserv,FISV,2015Q1,2015-04-30,분기말 상장주식수,236788515,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/798354/000119312515174385/,dei:EntityCommonStockSharesOutstanding 클래스 합,15
+Fiserv,FISV,2015Q1,2015-03-31,분기말 시가총액,18801008091,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/FISV?interval=1d&events=splits (2015-03-31) ; https://www.sec.gov/Archives/edgar/data/798354/000119312515174385/,종가 79.4 × 주식수 236788515,15
+Fiserv,FISV,2015Q2,2015-06-30,분기별 매출액,1298000000,USD,공시,https://www.sec.gov/Archives/edgar/data/798354/000119312515270747/,,15
+Fiserv,FISV,2015Q2,2015-06-30,분기별 영업이익,326000000,USD,공시,https://www.sec.gov/Archives/edgar/data/798354/000119312515270747/,,15
+Fiserv,FISV,2015Q2,2015-06-30,분기별 당기순이익(지배),127000000,USD,공시,https://www.sec.gov/Archives/edgar/data/798354/000119312515270747/,,15
+Fiserv,FISV,2015Q2,2015-06-30,분기별 영업활동현금흐름,254000000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/798354/000119312515270747/ ; https://www.sec.gov/Archives/edgar/data/798354/000119312515174385/,누적 600000000 − 직전누적 346000000 (시작 2015-01-01),15
+Fiserv,FISV,2015Q2,2015-06-30,분기말 자산총계,9588000000,USD,공시,https://www.sec.gov/Archives/edgar/data/798354/000119312515270747/,,15
+Fiserv,FISV,2015Q2,2015-06-30,분기말 부채총계,6445000000,USD,공시,https://www.sec.gov/Archives/edgar/data/798354/000119312515270747/,,15
+Fiserv,FISV,2015Q2,2015-06-30,분기말 총자본(자기자본),3143000000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/798354/000119312515270747/,"StockholdersEquity, MinorityInterest 태그 없음",15
+Fiserv,FISV,2015Q2,2015-06-30,분기말 지배지분 자본,3143000000,USD,공시,https://www.sec.gov/Archives/edgar/data/798354/000119312515270747/,,15
+Fiserv,FISV,2015Q2,2015-06-30,분기말 종가,82.83,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/FISV?interval=1d&events=splits (2015-06-30),분할조정 종가 41.415 × 이후 분할계수 2,15
+Fiserv,FISV,2015Q2,2015-07-23,분기말 상장주식수,234577658,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/798354/000119312515270747/,dei:EntityCommonStockSharesOutstanding 클래스 합,15
+Fiserv,FISV,2015Q2,2015-06-30,분기말 시가총액,19430067412,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/FISV?interval=1d&events=splits (2015-06-30) ; https://www.sec.gov/Archives/edgar/data/798354/000119312515270747/,종가 82.83 × 주식수 234577658,15
+Fiserv,FISV,2015Q3,2015-09-30,분기별 매출액,1313000000,USD,공시,https://www.sec.gov/Archives/edgar/data/798354/000162828015007937/,,15
+Fiserv,FISV,2015Q3,2015-09-30,분기별 영업이익,342000000,USD,공시,https://www.sec.gov/Archives/edgar/data/798354/000162828015007937/,,15
+Fiserv,FISV,2015Q3,2015-09-30,분기별 당기순이익(지배),218000000,USD,공시,https://www.sec.gov/Archives/edgar/data/798354/000162828015007937/,,15
+Fiserv,FISV,2015Q3,2015-09-30,분기별 영업활동현금흐름,355000000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/798354/000162828015007937/ ; https://www.sec.gov/Archives/edgar/data/798354/000119312515270747/,누적 955000000 − 직전누적 600000000 (시작 2015-01-01),15
+Fiserv,FISV,2015Q3,2015-09-30,분기말 자산총계,9387000000,USD,공시,https://www.sec.gov/Archives/edgar/data/798354/000162828015007937/,,15
+Fiserv,FISV,2015Q3,2015-09-30,분기말 부채총계,6518000000,USD,공시,https://www.sec.gov/Archives/edgar/data/798354/000162828015007937/,,15
+Fiserv,FISV,2015Q3,2015-09-30,분기말 총자본(자기자본),2869000000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/798354/000162828015007937/,"StockholdersEquity, MinorityInterest 태그 없음",15
+Fiserv,FISV,2015Q3,2015-09-30,분기말 지배지분 자본,2869000000,USD,공시,https://www.sec.gov/Archives/edgar/data/798354/000162828015007937/,,15
+Fiserv,FISV,2015Q3,2015-09-30,분기말 종가,86.61,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/FISV?interval=1d&events=splits (2015-09-30),분할조정 종가 43.305 × 이후 분할계수 2,15
+Fiserv,FISV,2015Q3,2015-10-22,분기말 상장주식수,228538696,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/798354/000162828015007937/,dei:EntityCommonStockSharesOutstanding 클래스 합,15
+Fiserv,FISV,2015Q3,2015-09-30,분기말 시가총액,19793736461,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/FISV?interval=1d&events=splits (2015-09-30) ; https://www.sec.gov/Archives/edgar/data/798354/000162828015007937/,종가 86.61 × 주식수 228538696,15
+Fiserv,FISV,2015Q4,2015-12-31,분기별 매출액,1368000000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/798354/000162828016011435/ ; https://www.sec.gov/Archives/edgar/data/798354/000162828015007937/,연간 5254000000 − 9개월누적 3886000000 (Revenues),15
+Fiserv,FISV,2015Q4,2015-12-31,분기별 영업이익,329000000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/798354/000162828016011435/ ; https://www.sec.gov/Archives/edgar/data/798354/000162828015007937/,연간 1311000000 − 9개월누적 982000000 (OperatingIncomeLoss),15
+Fiserv,FISV,2015Q4,2015-12-31,분기별 당기순이익(지배),189000000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/798354/000162828016011435/ ; https://www.sec.gov/Archives/edgar/data/798354/000162828015007937/,연간 712000000 − 9개월누적 523000000 (NetIncomeLoss),15
+Fiserv,FISV,2015Q4,2015-12-31,분기별 영업활동현금흐름,391000000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/798354/000162828016011435/ ; https://www.sec.gov/Archives/edgar/data/798354/000162828015007937/,누적 1346000000 − 직전누적 955000000 (시작 2015-01-01),15
+Fiserv,FISV,2015Q4,2015-12-31,분기말 자산총계,9340000000,USD,공시,https://www.sec.gov/Archives/edgar/data/798354/000162828016011435/,,15
+Fiserv,FISV,2015Q4,2015-12-31,분기말 부채총계,6680000000,USD,공시,https://www.sec.gov/Archives/edgar/data/798354/000162828016011435/,,15
+Fiserv,FISV,2015Q4,2015-12-31,분기말 총자본(자기자본),2660000000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/798354/000162828016011435/,"StockholdersEquity, MinorityInterest 태그 없음",15
+Fiserv,FISV,2015Q4,2015-12-31,분기말 지배지분 자본,2660000000,USD,공시,https://www.sec.gov/Archives/edgar/data/798354/000162828016011435/,,15
+Fiserv,FISV,2015Q4,2015-12-31,분기말 종가,91.46,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/FISV?interval=1d&events=splits (2015-12-31),분할조정 종가 45.73 × 이후 분할계수 2,15
+Fiserv,FISV,2015Q4,2016-02-12,분기말 상장주식수,222937301,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/798354/000162828016011435/,dei:EntityCommonStockSharesOutstanding 클래스 합,15
+Fiserv,FISV,2015Q4,2015-12-31,분기말 시가총액,20389845549,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/FISV?interval=1d&events=splits (2015-12-31) ; https://www.sec.gov/Archives/edgar/data/798354/000162828016011435/,종가 91.46 × 주식수 222937301,15
+Fiserv,FISV,2016Q1,2016-03-31,분기별 매출액,1331000000,USD,공시,https://www.sec.gov/Archives/edgar/data/798354/000079835416000008/,,15
+Fiserv,FISV,2016Q1,2016-03-31,분기별 영업이익,339000000,USD,공시,https://www.sec.gov/Archives/edgar/data/798354/000079835416000008/,,15
+Fiserv,FISV,2016Q1,2016-03-31,분기별 당기순이익(지배),289000000,USD,공시,https://www.sec.gov/Archives/edgar/data/798354/000079835416000008/,,15
+Fiserv,FISV,2016Q1,2016-03-31,분기별 영업활동현금흐름,509000000,USD,공시,https://www.sec.gov/Archives/edgar/data/798354/000079835416000008/,,15
+Fiserv,FISV,2016Q1,2016-03-31,분기말 자산총계,9552000000,USD,공시,https://www.sec.gov/Archives/edgar/data/798354/000079835416000008/,,15
+Fiserv,FISV,2016Q1,2016-03-31,분기말 부채총계,6868000000,USD,공시,https://www.sec.gov/Archives/edgar/data/798354/000079835416000008/,,15
+Fiserv,FISV,2016Q1,2016-03-31,분기말 총자본(자기자본),2684000000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/798354/000079835416000008/,"StockholdersEquity, MinorityInterest 태그 없음",15
+Fiserv,FISV,2016Q1,2016-03-31,분기말 지배지분 자본,2684000000,USD,공시,https://www.sec.gov/Archives/edgar/data/798354/000079835416000008/,,15
+Fiserv,FISV,2016Q1,2016-03-31,분기말 종가,102.58,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/FISV?interval=1d&events=splits (2016-03-31),분할조정 종가 51.29 × 이후 분할계수 2,15
+Fiserv,FISV,2016Q1,2016-04-30,분기말 상장주식수,222329901,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/798354/000079835416000008/,dei:EntityCommonStockSharesOutstanding 클래스 합,15
+Fiserv,FISV,2016Q1,2016-03-31,분기말 시가총액,22806601245,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/FISV?interval=1d&events=splits (2016-03-31) ; https://www.sec.gov/Archives/edgar/data/798354/000079835416000008/,종가 102.58 × 주식수 222329901,15
+Fiserv,FISV,2016Q2,2016-06-30,분기별 매출액,1363000000,USD,공시,https://www.sec.gov/Archives/edgar/data/798354/000079835416000017/,,15
+Fiserv,FISV,2016Q2,2016-06-30,분기별 영업이익,362000000,USD,공시,https://www.sec.gov/Archives/edgar/data/798354/000079835416000017/,,15
+Fiserv,FISV,2016Q2,2016-06-30,분기별 당기순이익(지배),212000000,USD,공시,https://www.sec.gov/Archives/edgar/data/798354/000079835416000017/,,15
+Fiserv,FISV,2016Q2,2016-06-30,분기별 영업활동현금흐름,178000000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/798354/000079835416000017/ ; https://www.sec.gov/Archives/edgar/data/798354/000079835416000008/,누적 687000000 − 직전누적 509000000 (시작 2016-01-01),15
+Fiserv,FISV,2016Q2,2016-06-30,분기말 자산총계,9530000000,USD,공시,https://www.sec.gov/Archives/edgar/data/798354/000079835416000017/,,15
+Fiserv,FISV,2016Q2,2016-06-30,분기말 부채총계,6888000000,USD,공시,https://www.sec.gov/Archives/edgar/data/798354/000079835416000017/,,15
+Fiserv,FISV,2016Q2,2016-06-30,분기말 총자본(자기자본),2642000000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/798354/000079835416000017/,"StockholdersEquity, MinorityInterest 태그 없음",15
+Fiserv,FISV,2016Q2,2016-06-30,분기말 지배지분 자본,2642000000,USD,공시,https://www.sec.gov/Archives/edgar/data/798354/000079835416000017/,,15
+Fiserv,FISV,2016Q2,2016-06-30,분기말 종가,108.73,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/FISV?interval=1d&events=splits (2016-06-30),분할조정 종가 54.365 × 이후 분할계수 2,15
+Fiserv,FISV,2016Q2,2016-07-31,분기말 상장주식수,219815160,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/798354/000079835416000017/,dei:EntityCommonStockSharesOutstanding 클래스 합,15
+Fiserv,FISV,2016Q2,2016-06-30,분기말 시가총액,23900502347,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/FISV?interval=1d&events=splits (2016-06-30) ; https://www.sec.gov/Archives/edgar/data/798354/000079835416000017/,종가 108.73 × 주식수 219815160,15
+Fiserv,FISV,2016Q3,2016-09-30,분기별 매출액,1380000000,USD,공시,https://www.sec.gov/Archives/edgar/data/798354/000079835416000022/,,15
+Fiserv,FISV,2016Q3,2016-09-30,분기별 영업이익,369000000,USD,공시,https://www.sec.gov/Archives/edgar/data/798354/000079835416000022/,,15
+Fiserv,FISV,2016Q3,2016-09-30,분기별 당기순이익(지배),214000000,USD,공시,https://www.sec.gov/Archives/edgar/data/798354/000079835416000022/,,15
+Fiserv,FISV,2016Q3,2016-09-30,분기별 영업활동현금흐름,355000000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/798354/000079835416000022/ ; https://www.sec.gov/Archives/edgar/data/798354/000079835416000017/,누적 1042000000 − 직전누적 687000000 (시작 2016-01-01),15
+Fiserv,FISV,2016Q3,2016-09-30,분기말 자산총계,9637000000,USD,공시,https://www.sec.gov/Archives/edgar/data/798354/000079835416000022/,,15
+Fiserv,FISV,2016Q3,2016-09-30,분기말 부채총계,7068000000,USD,공시,https://www.sec.gov/Archives/edgar/data/798354/000079835416000022/,,15
+Fiserv,FISV,2016Q3,2016-09-30,분기말 총자본(자기자본),2569000000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/798354/000079835416000022/,"StockholdersEquity, MinorityInterest 태그 없음",15
+Fiserv,FISV,2016Q3,2016-09-30,분기말 지배지분 자본,2569000000,USD,공시,https://www.sec.gov/Archives/edgar/data/798354/000079835416000022/,,15
+Fiserv,FISV,2016Q3,2016-09-30,분기말 종가,99.47,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/FISV?interval=1d&events=splits (2016-09-30),분할조정 종가 49.735 × 이후 분할계수 2,15
+Fiserv,FISV,2016Q3,2016-10-21,분기말 상장주식수,217057326,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/798354/000079835416000022/,dei:EntityCommonStockSharesOutstanding 클래스 합,15
+Fiserv,FISV,2016Q3,2016-09-30,분기말 시가총액,21590692217,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/FISV?interval=1d&events=splits (2016-09-30) ; https://www.sec.gov/Archives/edgar/data/798354/000079835416000022/,종가 99.47 × 주식수 217057326,15
+Fiserv,FISV,2016Q4,2016-12-31,분기별 매출액,1431000000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/798354/000079835417000006/ ; https://www.sec.gov/Archives/edgar/data/798354/000079835416000022/,연간 5505000000 − 9개월누적 4074000000 (Revenues),15
+Fiserv,FISV,2016Q4,2016-12-31,분기별 영업이익,375000000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/798354/000079835417000006/ ; https://www.sec.gov/Archives/edgar/data/798354/000079835416000022/,연간 1445000000 − 9개월누적 1070000000 (OperatingIncomeLoss),15
+Fiserv,FISV,2016Q4,2016-12-31,분기별 당기순이익(지배),215000000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/798354/000079835417000006/ ; https://www.sec.gov/Archives/edgar/data/798354/000079835416000022/,연간 930000000 − 9개월누적 715000000 (NetIncomeLoss),15
+Fiserv,FISV,2016Q4,2016-12-31,분기별 영업활동현금흐름,389000000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/798354/000079835417000006/ ; https://www.sec.gov/Archives/edgar/data/798354/000079835416000022/,누적 1431000000 − 직전누적 1042000000 (시작 2016-01-01),15
+Fiserv,FISV,2016Q4,2016-12-31,분기말 자산총계,9743000000,USD,공시,https://www.sec.gov/Archives/edgar/data/798354/000079835417000006/,,15
+Fiserv,FISV,2016Q4,2016-12-31,분기말 부채총계,7202000000,USD,공시,https://www.sec.gov/Archives/edgar/data/798354/000079835417000006/,,15
+Fiserv,FISV,2016Q4,2016-12-31,분기말 총자본(자기자본),2541000000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/798354/000079835417000006/,"StockholdersEquity, MinorityInterest 태그 없음",15
+Fiserv,FISV,2016Q4,2016-12-31,분기말 지배지분 자본,2541000000,USD,공시,https://www.sec.gov/Archives/edgar/data/798354/000079835417000006/,,15
+Fiserv,FISV,2016Q4,2016-12-30,분기말 종가,106.28,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/FISV?interval=1d&events=splits (2016-12-30),분할조정 종가 53.14 × 이후 분할계수 2,15
+Fiserv,FISV,2016Q4,2017-02-16,분기말 상장주식수,214563950,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/798354/000079835417000006/,dei:EntityCommonStockSharesOutstanding 클래스 합,15
+Fiserv,FISV,2016Q4,2016-12-30,분기말 시가총액,22803856606,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/FISV?interval=1d&events=splits (2016-12-30) ; https://www.sec.gov/Archives/edgar/data/798354/000079835417000006/,종가 106.28 × 주식수 214563950,15
+Fiserv,FISV,2017Q1,2017-03-31,분기별 매출액,1394000000,USD,공시,https://www.sec.gov/Archives/edgar/data/798354/000079835417000011/,,15
+Fiserv,FISV,2017Q1,2017-03-31,분기별 영업이익,365000000,USD,공시,https://www.sec.gov/Archives/edgar/data/798354/000079835417000011/,,15
+Fiserv,FISV,2017Q1,2017-03-31,분기별 당기순이익(지배),247000000,USD,공시,https://www.sec.gov/Archives/edgar/data/798354/000079835417000011/,,15
+Fiserv,FISV,2017Q1,2017-03-31,분기별 영업활동현금흐름,463000000,USD,공시,https://www.sec.gov/Archives/edgar/data/798354/000079835417000011/,,15
+Fiserv,FISV,2017Q1,2017-03-31,분기말 자산총계,9696000000,USD,공시,https://www.sec.gov/Archives/edgar/data/798354/000079835417000011/,,15
+Fiserv,FISV,2017Q1,2017-03-31,분기말 부채총계,7272000000,USD,공시,https://www.sec.gov/Archives/edgar/data/798354/000079835417000011/,,15
+Fiserv,FISV,2017Q1,2017-03-31,분기말 총자본(자기자본),2424000000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/798354/000079835417000011/,"StockholdersEquity, MinorityInterest 태그 없음",15
+Fiserv,FISV,2017Q1,2017-03-31,분기말 지배지분 자본,2424000000,USD,공시,https://www.sec.gov/Archives/edgar/data/798354/000079835417000011/,,15
+Fiserv,FISV,2017Q1,2017-03-31,분기말 종가,115.31,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/FISV?interval=1d&events=splits (2017-03-31),분할조정 종가 57.655 × 이후 분할계수 2,15
+Fiserv,FISV,2017Q1,2017-04-21,분기말 상장주식수,212377981,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/798354/000079835417000011/,dei:EntityCommonStockSharesOutstanding 클래스 합,15
+Fiserv,FISV,2017Q1,2017-03-31,분기말 시가총액,24489304989,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/FISV?interval=1d&events=splits (2017-03-31) ; https://www.sec.gov/Archives/edgar/data/798354/000079835417000011/,종가 115.31 × 주식수 212377981,15
+Fiserv,FISV,2017Q2,2017-06-30,분기별 매출액,1386000000,USD,공시,https://www.sec.gov/Archives/edgar/data/798354/000079835417000019/,,15
+Fiserv,FISV,2017Q2,2017-06-30,분기별 영업이익,372000000,USD,공시,https://www.sec.gov/Archives/edgar/data/798354/000079835417000019/,,15
+Fiserv,FISV,2017Q2,2017-06-30,분기별 당기순이익(지배),221000000,USD,공시,https://www.sec.gov/Archives/edgar/data/798354/000079835417000019/,,15
+Fiserv,FISV,2017Q2,2017-06-30,분기별 영업활동현금흐름,228000000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/798354/000079835417000019/ ; https://www.sec.gov/Archives/edgar/data/798354/000079835417000011/,누적 691000000 − 직전누적 463000000 (시작 2017-01-01),15
+Fiserv,FISV,2017Q2,2017-06-30,분기말 자산총계,9685000000,USD,공시,https://www.sec.gov/Archives/edgar/data/798354/000079835417000019/,,15
+Fiserv,FISV,2017Q2,2017-06-30,분기말 부채총계,7294000000,USD,공시,https://www.sec.gov/Archives/edgar/data/798354/000079835417000019/,,15
+Fiserv,FISV,2017Q2,2017-06-30,분기말 총자본(자기자본),2391000000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/798354/000079835417000019/,"StockholdersEquity, MinorityInterest 태그 없음",15
+Fiserv,FISV,2017Q2,2017-06-30,분기말 지배지분 자본,2391000000,USD,공시,https://www.sec.gov/Archives/edgar/data/798354/000079835417000019/,,15
+Fiserv,FISV,2017Q2,2017-06-30,분기말 종가,122.34,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/FISV?interval=1d&events=splits (2017-06-30),분할조정 종가 61.17 × 이후 분할계수 2,15
+Fiserv,FISV,2017Q2,2017-07-28,분기말 상장주식수,210465540,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/798354/000079835417000019/,dei:EntityCommonStockSharesOutstanding 클래스 합,15
+Fiserv,FISV,2017Q2,2017-06-30,분기말 시가총액,25748354164,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/FISV?interval=1d&events=splits (2017-06-30) ; https://www.sec.gov/Archives/edgar/data/798354/000079835417000019/,종가 122.34 × 주식수 210465540,15
+Fiserv,FISV,2017Q3,2017-09-30,분기별 매출액,1400000000,USD,공시,https://www.sec.gov/Archives/edgar/data/798354/000079835417000023/,,15
+Fiserv,FISV,2017Q3,2017-09-30,분기별 영업이익,370000000,USD,공시,https://www.sec.gov/Archives/edgar/data/798354/000079835417000023/,,15
+Fiserv,FISV,2017Q3,2017-09-30,분기별 당기순이익(지배),232000000,USD,공시,https://www.sec.gov/Archives/edgar/data/798354/000079835417000023/,,15
+Fiserv,FISV,2017Q3,2017-09-30,분기별 영업활동현금흐름,324000000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/798354/000079835417000023/ ; https://www.sec.gov/Archives/edgar/data/798354/000079835417000019/,누적 1015000000 − 직전누적 691000000 (시작 2017-01-01),15
+Fiserv,FISV,2017Q3,2017-09-30,분기말 자산총계,10199000000,USD,공시,https://www.sec.gov/Archives/edgar/data/798354/000079835417000023/,,15
+Fiserv,FISV,2017Q3,2017-09-30,분기말 부채총계,7849000000,USD,공시,https://www.sec.gov/Archives/edgar/data/798354/000079835417000023/,,15
+Fiserv,FISV,2017Q3,2017-09-30,분기말 총자본(자기자본),2350000000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/798354/000079835417000023/,"StockholdersEquity, MinorityInterest 태그 없음",15
+Fiserv,FISV,2017Q3,2017-09-30,분기말 지배지분 자본,2350000000,USD,공시,https://www.sec.gov/Archives/edgar/data/798354/000079835417000023/,,15
+Fiserv,FISV,2017Q3,2017-09-29,분기말 종가,128.96,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/FISV?interval=1d&events=splits (2017-09-29),분할조정 종가 64.48 × 이후 분할계수 2,15
+Fiserv,FISV,2017Q3,2017-10-26,분기말 상장주식수,208399394,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/798354/000079835417000023/,dei:EntityCommonStockSharesOutstanding 클래스 합,15
+Fiserv,FISV,2017Q3,2017-09-29,분기말 시가총액,26875185850,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/FISV?interval=1d&events=splits (2017-09-29) ; https://www.sec.gov/Archives/edgar/data/798354/000079835417000023/,종가 128.96 × 주식수 208399394,15
+Fiserv,FISV,2017Q4,2017-12-31,분기별 매출액,1516000000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/798354/000079835418000005/ ; https://www.sec.gov/Archives/edgar/data/798354/000079835417000023/,연간 5696000000 − 9개월누적 4180000000 (Revenues),15
+Fiserv,FISV,2017Q4,2017-12-31,분기별 영업이익,425000000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/798354/000079835418000005/ ; https://www.sec.gov/Archives/edgar/data/798354/000079835417000023/,연간 1532000000 − 9개월누적 1107000000 (OperatingIncomeLoss),15
+Fiserv,FISV,2017Q4,2017-12-31,분기별 당기순이익(지배),546000000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/798354/000079835418000005/ ; https://www.sec.gov/Archives/edgar/data/798354/000079835417000023/,연간 1246000000 − 9개월누적 700000000 (NetIncomeLoss),15
+Fiserv,FISV,2017Q4,2017-12-31,분기별 영업활동현금흐름,468000000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/798354/000079835418000005/ ; https://www.sec.gov/Archives/edgar/data/798354/000079835417000023/,누적 1483000000 − 직전누적 1015000000 (시작 2017-01-01),15
+Fiserv,FISV,2017Q4,2017-12-31,분기말 자산총계,10289000000,USD,공시,https://www.sec.gov/Archives/edgar/data/798354/000079835418000005/,,15
+Fiserv,FISV,2017Q4,2017-12-31,분기말 부채총계,7558000000,USD,공시,https://www.sec.gov/Archives/edgar/data/798354/000079835418000005/,,15
+Fiserv,FISV,2017Q4,2017-12-31,분기말 총자본(자기자본),2731000000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/798354/000079835418000005/,"StockholdersEquity, MinorityInterest 태그 없음",15
+Fiserv,FISV,2017Q4,2017-12-31,분기말 지배지분 자본,2731000000,USD,공시,https://www.sec.gov/Archives/edgar/data/798354/000079835418000005/,,15
+Fiserv,FISV,2017Q4,2017-12-29,분기말 종가,131.13,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/FISV?interval=1d&events=splits (2017-12-29),분할조정 종가 65.565 × 이후 분할계수 2,15
+Fiserv,FISV,2017Q4,2018-02-16,분기말 상장주식수,206607864,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/798354/000079835418000005/,dei:EntityCommonStockSharesOutstanding 클래스 합,15
+Fiserv,FISV,2017Q4,2017-12-29,분기말 시가총액,27092489206,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/FISV?interval=1d&events=splits (2017-12-29) ; https://www.sec.gov/Archives/edgar/data/798354/000079835418000005/,종가 131.13 × 주식수 206607864,15
+Fiserv,FISV,2018Q1,2018-03-31,분기별 매출액,1440000000,USD,공시,https://www.sec.gov/Archives/edgar/data/798354/000079835418000009/,,15
+Fiserv,FISV,2018Q1,2018-03-31,분기별 영업이익,608000000,USD,공시,https://www.sec.gov/Archives/edgar/data/798354/000079835418000009/,,15
+Fiserv,FISV,2018Q1,2018-03-31,분기별 당기순이익(지배),423000000,USD,공시,https://www.sec.gov/Archives/edgar/data/798354/000079835418000009/,,15
+Fiserv,FISV,2018Q1,2018-03-31,분기별 영업활동현금흐름,372000000,USD,공시,https://www.sec.gov/Archives/edgar/data/798354/000079835418000009/,,15
+Fiserv,FISV,2018Q1,2018-03-31,분기말 자산총계,10167000000,USD,공시,https://www.sec.gov/Archives/edgar/data/798354/000079835418000009/,,15
+Fiserv,FISV,2018Q1,2018-03-31,분기말 부채총계,7196000000,USD,공시,https://www.sec.gov/Archives/edgar/data/798354/000079835418000009/,,15
+Fiserv,FISV,2018Q1,2018-03-31,분기말 총자본(자기자본),2971000000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/798354/000079835418000009/,"StockholdersEquity, MinorityInterest 태그 없음",15
+Fiserv,FISV,2018Q1,2018-03-31,분기말 지배지분 자본,2971000000,USD,공시,https://www.sec.gov/Archives/edgar/data/798354/000079835418000009/,,15
+Fiserv,FISV,2018Q1,2018-03-29,분기말 종가,71.31,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/FISV?interval=1d&events=splits (2018-03-29),,15
+Fiserv,FISV,2018Q1,2018-04-26,분기말 상장주식수,409436764,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/798354/000079835418000009/,dei:EntityCommonStockSharesOutstanding 클래스 합,15
+Fiserv,FISV,2018Q1,2018-03-29,분기말 시가총액,29196935641,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/FISV?interval=1d&events=splits (2018-03-29) ; https://www.sec.gov/Archives/edgar/data/798354/000079835418000009/,종가 71.31 × 주식수 409436764,15
+Fiserv,FISV,2018Q2,2018-06-30,분기별 매출액,1420000000,USD,공시,https://www.sec.gov/Archives/edgar/data/798354/000079835418000017/,,15
+Fiserv,FISV,2018Q2,2018-06-30,분기별 영업이익,358000000,USD,공시,https://www.sec.gov/Archives/edgar/data/798354/000079835418000017/,,15
+Fiserv,FISV,2018Q2,2018-06-30,분기별 당기순이익(지배),251000000,USD,공시,https://www.sec.gov/Archives/edgar/data/798354/000079835418000017/,,15
+Fiserv,FISV,2018Q2,2018-06-30,분기별 영업활동현금흐름,241000000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/798354/000079835418000017/ ; https://www.sec.gov/Archives/edgar/data/798354/000079835418000009/,누적 613000000 − 직전누적 372000000 (시작 2018-01-01),15
+Fiserv,FISV,2018Q2,2018-06-30,분기말 자산총계,10218000000,USD,공시,https://www.sec.gov/Archives/edgar/data/798354/000079835418000017/,,15
+Fiserv,FISV,2018Q2,2018-06-30,분기말 부채총계,7368000000,USD,공시,https://www.sec.gov/Archives/edgar/data/798354/000079835418000017/,,15
+Fiserv,FISV,2018Q2,2018-06-30,분기말 총자본(자기자본),2850000000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/798354/000079835418000017/,"StockholdersEquity, MinorityInterest 태그 없음",15
+Fiserv,FISV,2018Q2,2018-06-30,분기말 지배지분 자본,2850000000,USD,공시,https://www.sec.gov/Archives/edgar/data/798354/000079835418000017/,,15
+Fiserv,FISV,2018Q2,2018-06-29,분기말 종가,74.09,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/FISV?interval=1d&events=splits (2018-06-29),,15
+Fiserv,FISV,2018Q2,2018-07-24,분기말 상장주식수,404927094,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/798354/000079835418000017/,dei:EntityCommonStockSharesOutstanding 클래스 합,15
+Fiserv,FISV,2018Q2,2018-06-29,분기말 시가총액,30001048394,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/FISV?interval=1d&events=splits (2018-06-29) ; https://www.sec.gov/Archives/edgar/data/798354/000079835418000017/,종가 74.09 × 주식수 404927094,15
+Fiserv,FISV,2018Q3,2018-09-30,분기별 매출액,1412000000,USD,공시,https://www.sec.gov/Archives/edgar/data/798354/000079835418000021/,,15
+Fiserv,FISV,2018Q3,2018-09-30,분기별 영업이익,356000000,USD,공시,https://www.sec.gov/Archives/edgar/data/798354/000079835418000021/,,15
+Fiserv,FISV,2018Q3,2018-09-30,분기별 당기순이익(지배),227000000,USD,공시,https://www.sec.gov/Archives/edgar/data/798354/000079835418000021/,,15
+Fiserv,FISV,2018Q3,2018-09-30,분기별 영업활동현금흐름,368000000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/798354/000079835418000021/ ; https://www.sec.gov/Archives/edgar/data/798354/000079835418000017/,누적 981000000 − 직전누적 613000000 (시작 2018-01-01),15
+Fiserv,FISV,2018Q3,2018-09-30,분기말 자산총계,10748000000,USD,공시,https://www.sec.gov/Archives/edgar/data/798354/000079835418000021/,,15
+Fiserv,FISV,2018Q3,2018-09-30,분기말 부채총계,8087000000,USD,공시,https://www.sec.gov/Archives/edgar/data/798354/000079835418000021/,,15
+Fiserv,FISV,2018Q3,2018-09-30,분기말 총자본(자기자본),2661000000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/798354/000079835418000021/,"StockholdersEquity, MinorityInterest 태그 없음",15
+Fiserv,FISV,2018Q3,2018-09-30,분기말 지배지분 자본,2661000000,USD,공시,https://www.sec.gov/Archives/edgar/data/798354/000079835418000021/,,15
+Fiserv,FISV,2018Q3,2018-09-28,분기말 종가,82.38,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/FISV?interval=1d&events=splits (2018-09-28),,15
+Fiserv,FISV,2018Q3,2018-10-26,분기말 상장주식수,398470777,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/798354/000079835418000021/,dei:EntityCommonStockSharesOutstanding 클래스 합,15
+Fiserv,FISV,2018Q3,2018-09-28,분기말 시가총액,32826022609,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/FISV?interval=1d&events=splits (2018-09-28) ; https://www.sec.gov/Archives/edgar/data/798354/000079835418000021/,종가 82.38 × 주식수 398470777,15
+Fiserv,FISV,2018Q4,2018-12-31,분기별 매출액,1551000000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/798354/000079835419000005/ ; https://www.sec.gov/Archives/edgar/data/798354/000079835418000021/,연간 5823000000 − 9개월누적 4272000000 (Revenues),15
+Fiserv,FISV,2018Q4,2018-12-31,분기별 영업이익,431000000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/798354/000079835419000005/ ; https://www.sec.gov/Archives/edgar/data/798354/000079835418000021/,연간 1753000000 − 9개월누적 1322000000 (OperatingIncomeLoss),15
+Fiserv,FISV,2018Q4,2018-12-31,분기별 당기순이익(지배),286000000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/798354/000079835419000005/ ; https://www.sec.gov/Archives/edgar/data/798354/000079835418000021/,연간 1187000000 − 9개월누적 901000000 (NetIncomeLoss),15
+Fiserv,FISV,2018Q4,2018-12-31,분기별 영업활동현금흐름,571000000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/798354/000079835419000005/ ; https://www.sec.gov/Archives/edgar/data/798354/000079835418000021/,누적 1552000000 − 직전누적 981000000 (시작 2018-01-01),15
+Fiserv,FISV,2018Q4,2018-12-31,분기말 자산총계,11262000000,USD,공시,https://www.sec.gov/Archives/edgar/data/798354/000079835419000005/,,15
+Fiserv,FISV,2018Q4,2018-12-31,분기말 부채총계,8969000000,USD,공시,https://www.sec.gov/Archives/edgar/data/798354/000079835419000005/,,15
+Fiserv,FISV,2018Q4,2018-12-31,분기말 총자본(자기자본),2293000000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/798354/000079835419000005/,"StockholdersEquity, MinorityInterest 태그 없음",15
+Fiserv,FISV,2018Q4,2018-12-31,분기말 지배지분 자본,2293000000,USD,공시,https://www.sec.gov/Archives/edgar/data/798354/000079835419000005/,,15
+Fiserv,FISV,2018Q4,2018-12-31,분기말 종가,73.49,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/FISV?interval=1d&events=splits (2018-12-31),,15
+Fiserv,FISV,2018Q4,2019-02-15,분기말 상장주식수,391586971,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/798354/000079835419000005/,dei:EntityCommonStockSharesOutstanding 클래스 합,15
+Fiserv,FISV,2018Q4,2018-12-31,분기말 시가총액,28777726499,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/FISV?interval=1d&events=splits (2018-12-31) ; https://www.sec.gov/Archives/edgar/data/798354/000079835419000005/,종가 73.49 × 주식수 391586971,15
+Fiserv,FISV,2019Q1,2019-03-31,분기별 매출액,1502000000,USD,공시,https://www.sec.gov/Archives/edgar/data/798354/000079835419000009/,,15
+Fiserv,FISV,2019Q1,2019-03-31,분기별 영업이익,373000000,USD,공시,https://www.sec.gov/Archives/edgar/data/798354/000079835419000009/,,15
+Fiserv,FISV,2019Q1,2019-03-31,분기별 당기순이익(지배),225000000,USD,공시,https://www.sec.gov/Archives/edgar/data/798354/000079835419000009/,,15
+Fiserv,FISV,2019Q1,2019-03-31,분기별 영업활동현금흐름,373000000,USD,공시,https://www.sec.gov/Archives/edgar/data/798354/000079835419000009/,,15
+Fiserv,FISV,2019Q1,2019-03-31,분기말 자산총계,11676000000,USD,공시,https://www.sec.gov/Archives/edgar/data/798354/000079835419000009/,,15
+Fiserv,FISV,2019Q1,2019-03-31,분기말 부채총계,9282000000,USD,공시,https://www.sec.gov/Archives/edgar/data/798354/000079835419000009/,,15
+Fiserv,FISV,2019Q1,2019-03-31,분기말 총자본(자기자본),2394000000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/798354/000079835419000009/,"StockholdersEquity, MinorityInterest 태그 없음",15
+Fiserv,FISV,2019Q1,2019-03-31,분기말 지배지분 자본,2394000000,USD,공시,https://www.sec.gov/Archives/edgar/data/798354/000079835419000009/,,15
+Fiserv,FISV,2019Q1,2019-03-29,분기말 종가,88.28,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/FISV?interval=1d&events=splits (2019-03-29),,15
+Fiserv,FISV,2019Q1,2019-04-25,분기말 상장주식수,392439838,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/798354/000079835419000009/,dei:EntityCommonStockSharesOutstanding 클래스 합,15
+Fiserv,FISV,2019Q1,2019-03-29,분기말 시가총액,34644588899,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/FISV?interval=1d&events=splits (2019-03-29) ; https://www.sec.gov/Archives/edgar/data/798354/000079835419000009/,종가 88.28 × 주식수 392439838,15
+Fiserv,FISV,2019Q2,2019-06-30,분기별 매출액,1512000000,USD,공시,https://www.sec.gov/Archives/edgar/data/798354/000079835419000019/,,15
+Fiserv,FISV,2019Q2,2019-06-30,분기별 영업이익,384000000,USD,공시,https://www.sec.gov/Archives/edgar/data/798354/000079835419000019/,,15
+Fiserv,FISV,2019Q2,2019-06-30,분기별 당기순이익(지배),223000000,USD,공시,https://www.sec.gov/Archives/edgar/data/798354/000079835419000019/,,15
+Fiserv,FISV,2019Q2,2019-06-30,분기별 영업활동현금흐름,206000000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/798354/000079835419000019/ ; https://www.sec.gov/Archives/edgar/data/798354/000079835419000009/,누적 579000000 − 직전누적 373000000 (시작 2019-01-01),15
+Fiserv,FISV,2019Q2,2019-06-30,분기말 자산총계,19640000000,USD,공시,https://www.sec.gov/Archives/edgar/data/798354/000079835419000019/,,15
+Fiserv,FISV,2019Q2,2019-06-30,분기말 부채총계,17094000000,USD,공시,https://www.sec.gov/Archives/edgar/data/798354/000079835419000019/,,15
+Fiserv,FISV,2019Q2,2019-06-30,분기말 총자본(자기자본),2546000000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/798354/000079835419000019/,"StockholdersEquity, MinorityInterest 태그 없음",15
+Fiserv,FISV,2019Q2,2019-06-30,분기말 지배지분 자본,2546000000,USD,공시,https://www.sec.gov/Archives/edgar/data/798354/000079835419000019/,,15
+Fiserv,FISV,2019Q2,2019-06-28,분기말 종가,91.16,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/FISV?interval=1d&events=splits (2019-06-28),,15
+Fiserv,FISV,2019Q2,2019-07-22,분기말 상장주식수,392972846,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/798354/000079835419000019/,dei:EntityCommonStockSharesOutstanding 클래스 합,15
+Fiserv,FISV,2019Q2,2019-06-28,분기말 시가총액,35823404641,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/FISV?interval=1d&events=splits (2019-06-28) ; https://www.sec.gov/Archives/edgar/data/798354/000079835419000019/,종가 91.16 × 주식수 392972846,15
+Fiserv,FISV,2019Q3,2019-09-30,분기별 매출액,3128000000,USD,공시,https://www.sec.gov/Archives/edgar/data/798354/000079835419000025/,,15
+Fiserv,FISV,2019Q3,2019-09-30,분기별 영업이익,374000000,USD,공시,https://www.sec.gov/Archives/edgar/data/798354/000079835419000025/,,15
+Fiserv,FISV,2019Q3,2019-09-30,분기별 당기순이익(지배),198000000,USD,공시,https://www.sec.gov/Archives/edgar/data/798354/000079835419000025/,,15
+Fiserv,FISV,2019Q3,2019-09-30,분기별 영업활동현금흐름,1038000000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/798354/000079835419000025/ ; https://www.sec.gov/Archives/edgar/data/798354/000079835419000019/,누적 1617000000 − 직전누적 579000000 (시작 2019-01-01),15
+Fiserv,FISV,2019Q3,2019-09-30,분기말 자산총계,77864000000,USD,공시,https://www.sec.gov/Archives/edgar/data/798354/000079835419000025/,,15
+Fiserv,FISV,2019Q3,2019-09-30,분기말 부채총계,44012000000,USD,공시,https://www.sec.gov/Archives/edgar/data/798354/000079835419000025/,메자닌(일시자본) 92000000 별도,15
+Fiserv,FISV,2019Q3,2019-09-30,분기말 총자본(자기자본),33760000000,USD,공시,https://www.sec.gov/Archives/edgar/data/798354/000079835419000025/,,15
+Fiserv,FISV,2019Q3,2019-09-30,분기말 지배지분 자본,32669000000,USD,공시,https://www.sec.gov/Archives/edgar/data/798354/000079835419000025/,,15
+Fiserv,FISV,2019Q3,2019-09-30,분기말 종가,103.59,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/FISV?interval=1d&events=splits (2019-09-30),,15
+Fiserv,FISV,2019Q3,2019-10-31,분기말 상장주식수,679895001,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/798354/000079835419000025/,dei:EntityCommonStockSharesOutstanding 클래스 합,15
+Fiserv,FISV,2019Q3,2019-09-30,분기말 시가총액,70430323154,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/FISV?interval=1d&events=splits (2019-09-30) ; https://www.sec.gov/Archives/edgar/data/798354/000079835419000025/,종가 103.59 × 주식수 679895001,15
+Fiserv,FISV,2019Q4,2019-12-31,분기별 매출액,4045000000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/798354/000079835420000006/ ; https://www.sec.gov/Archives/edgar/data/798354/000079835419000025/,연간 10187000000 − 9개월누적 6142000000 (RevenueFromContractWithCustomerExcludingAssessedTax),15
+Fiserv,FISV,2019Q4,2019-12-31,분기별 영업이익,478000000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/798354/000079835420000006/ ; https://www.sec.gov/Archives/edgar/data/798354/000079835419000025/,연간 1609000000 − 9개월누적 1131000000 (OperatingIncomeLoss),15
+Fiserv,FISV,2019Q4,2019-12-31,분기별 당기순이익(지배),247000000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/798354/000079835420000006/ ; https://www.sec.gov/Archives/edgar/data/798354/000079835419000025/,연간 893000000 − 9개월누적 646000000 (NetIncomeLoss),15
+Fiserv,FISV,2019Q4,2019-12-31,분기별 영업활동현금흐름,1178000000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/798354/000079835420000006/ ; https://www.sec.gov/Archives/edgar/data/798354/000079835419000025/,누적 2795000000 − 직전누적 1617000000 (시작 2019-01-01),15
+Fiserv,FISV,2019Q4,2019-12-31,분기말 자산총계,77539000000,USD,공시,https://www.sec.gov/Archives/edgar/data/798354/000079835420000006/,,15
+Fiserv,FISV,2019Q4,2019-12-31,분기말 부채총계,42682000000,USD,공시,https://www.sec.gov/Archives/edgar/data/798354/000079835420000006/,메자닌(일시자본) 262000000 별도,15
+Fiserv,FISV,2019Q4,2019-12-31,분기말 총자본(자기자본),34595000000,USD,공시,https://www.sec.gov/Archives/edgar/data/798354/000079835420000006/,,15
+Fiserv,FISV,2019Q4,2019-12-31,분기말 지배지분 자본,32979000000,USD,공시,https://www.sec.gov/Archives/edgar/data/798354/000079835420000006/,,15
+Fiserv,FISV,2019Q4,2019-12-31,분기말 종가,115.63,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/FISV?interval=1d&events=splits (2019-12-31),,15
+Fiserv,FISV,2019Q4,2020-02-21,분기말 상장주식수,679098783,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/798354/000079835420000006/,dei:EntityCommonStockSharesOutstanding 클래스 합,15
+Fiserv,FISV,2019Q4,2019-12-31,분기말 시가총액,78524192278,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/FISV?interval=1d&events=splits (2019-12-31) ; https://www.sec.gov/Archives/edgar/data/798354/000079835420000006/,종가 115.63 × 주식수 679098783,15
+Fiserv,FISV,2020Q1,2020-03-31,분기별 매출액,3769000000,USD,공시,https://www.sec.gov/Archives/edgar/data/798354/000079835420000013/,,15
+Fiserv,FISV,2020Q1,2020-03-31,분기별 영업이익,629000000,USD,공시,https://www.sec.gov/Archives/edgar/data/798354/000079835420000013/,,15
+Fiserv,FISV,2020Q1,2020-03-31,분기별 당기순이익(지배),392000000,USD,공시,https://www.sec.gov/Archives/edgar/data/798354/000079835420000013/,,15
+Fiserv,FISV,2020Q1,2020-03-31,분기별 영업활동현금흐름,888000000,USD,공시,https://www.sec.gov/Archives/edgar/data/798354/000079835420000013/,,15
+Fiserv,FISV,2020Q1,2020-03-31,분기말 자산총계,72598000000,USD,공시,https://www.sec.gov/Archives/edgar/data/798354/000079835420000013/,,15
+Fiserv,FISV,2020Q1,2020-03-31,분기말 부채총계,39052000000,USD,공시,https://www.sec.gov/Archives/edgar/data/798354/000079835420000013/,메자닌(일시자본) 259000000 별도,15
+Fiserv,FISV,2020Q1,2020-03-31,분기말 총자본(자기자본),33287000000,USD,공시,https://www.sec.gov/Archives/edgar/data/798354/000079835420000013/,,15
+Fiserv,FISV,2020Q1,2020-03-31,분기말 지배지분 자본,31843000000,USD,공시,https://www.sec.gov/Archives/edgar/data/798354/000079835420000013/,,15
+Fiserv,FISV,2020Q1,2020-03-31,분기말 종가,94.99,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/FISV?interval=1d&events=splits (2020-03-31),,15
+Fiserv,FISV,2020Q1,2020-04-30,분기말 상장주식수,669484281,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/798354/000079835420000013/,dei:EntityCommonStockSharesOutstanding 클래스 합,15
+Fiserv,FISV,2020Q1,2020-03-31,분기말 시가총액,63594311852,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/FISV?interval=1d&events=splits (2020-03-31) ; https://www.sec.gov/Archives/edgar/data/798354/000079835420000013/,종가 94.99 × 주식수 669484281,15
+Fiserv,FISV,2020Q2,2020-06-30,분기별 매출액,3465000000,USD,공시,https://www.sec.gov/Archives/edgar/data/798354/000079835420000020/,,15
+Fiserv,FISV,2020Q2,2020-06-30,분기별 영업이익,165000000,USD,공시,https://www.sec.gov/Archives/edgar/data/798354/000079835420000020/,,15
+Fiserv,FISV,2020Q2,2020-06-30,분기별 당기순이익(지배),2000000,USD,공시,https://www.sec.gov/Archives/edgar/data/798354/000079835420000020/,,15
+Fiserv,FISV,2020Q2,2020-06-30,분기별 영업활동현금흐름,1031000000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/798354/000079835420000020/ ; https://www.sec.gov/Archives/edgar/data/798354/000079835420000013/,누적 1919000000 − 직전누적 888000000 (시작 2020-01-01),15
+Fiserv,FISV,2020Q2,2020-06-30,분기말 자산총계,77093000000,USD,공시,https://www.sec.gov/Archives/edgar/data/798354/000079835420000020/,,15
+Fiserv,FISV,2020Q2,2020-06-30,분기말 부채총계,43807000000,USD,공시,https://www.sec.gov/Archives/edgar/data/798354/000079835420000020/,메자닌(일시자본) 258000000 별도,15
+Fiserv,FISV,2020Q2,2020-06-30,분기말 총자본(자기자본),33028000000,USD,공시,https://www.sec.gov/Archives/edgar/data/798354/000079835420000020/,,15
+Fiserv,FISV,2020Q2,2020-06-30,분기말 지배지분 자본,31583000000,USD,공시,https://www.sec.gov/Archives/edgar/data/798354/000079835420000020/,,15
+Fiserv,FISV,2020Q2,2020-06-30,분기말 종가,97.62,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/FISV?interval=1d&events=splits (2020-06-30),,15
+Fiserv,FISV,2020Q2,2020-07-31,분기말 상장주식수,669649953,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/798354/000079835420000020/,dei:EntityCommonStockSharesOutstanding 클래스 합,15
+Fiserv,FISV,2020Q2,2020-06-30,분기말 시가총액,65371228412,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/FISV?interval=1d&events=splits (2020-06-30) ; https://www.sec.gov/Archives/edgar/data/798354/000079835420000020/,종가 97.62 × 주식수 669649953,15
+Fiserv,FISV,2020Q3,2020-09-30,분기별 매출액,3786000000,USD,공시,https://www.sec.gov/Archives/edgar/data/798354/000079835420000024/,,15
+Fiserv,FISV,2020Q3,2020-09-30,분기별 영업이익,542000000,USD,공시,https://www.sec.gov/Archives/edgar/data/798354/000079835420000024/,,15
+Fiserv,FISV,2020Q3,2020-09-30,분기별 당기순이익(지배),264000000,USD,공시,https://www.sec.gov/Archives/edgar/data/798354/000079835420000024/,,15
+Fiserv,FISV,2020Q3,2020-09-30,분기별 영업활동현금흐름,1042000000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/798354/000079835420000024/ ; https://www.sec.gov/Archives/edgar/data/798354/000079835420000020/,누적 2961000000 − 직전누적 1919000000 (시작 2020-01-01),15
+Fiserv,FISV,2020Q3,2020-09-30,분기말 자산총계,72372000000,USD,공시,https://www.sec.gov/Archives/edgar/data/798354/000079835420000024/,,15
+Fiserv,FISV,2020Q3,2020-09-30,분기말 부채총계,39683000000,USD,공시,https://www.sec.gov/Archives/edgar/data/798354/000079835420000024/,메자닌(일시자본) 260000000 별도,15
+Fiserv,FISV,2020Q3,2020-09-30,분기말 총자본(자기자본),32429000000,USD,공시,https://www.sec.gov/Archives/edgar/data/798354/000079835420000024/,,15
+Fiserv,FISV,2020Q3,2020-09-30,분기말 지배지분 자본,31692000000,USD,공시,https://www.sec.gov/Archives/edgar/data/798354/000079835420000024/,,15
+Fiserv,FISV,2020Q3,2020-09-30,분기말 종가,103.05,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/FISV?interval=1d&events=splits (2020-09-30),,15
+Fiserv,FISV,2020Q3,2020-10-23,분기말 상장주식수,670437918,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/798354/000079835420000024/,dei:EntityCommonStockSharesOutstanding 클래스 합,15
+Fiserv,FISV,2020Q3,2020-09-30,분기말 시가총액,69088627450,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/FISV?interval=1d&events=splits (2020-09-30) ; https://www.sec.gov/Archives/edgar/data/798354/000079835420000024/,종가 103.05 × 주식수 670437918,15
+Fiserv,FISV,2020Q4,2020-12-31,분기별 매출액,3832000000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/798354/000079835421000004/ ; https://www.sec.gov/Archives/edgar/data/798354/000079835420000024/,연간 14852000000 − 9개월누적 11020000000 (RevenueFromContractWithCustomerExcludingAssessedTax),15
+Fiserv,FISV,2020Q4,2020-12-31,분기별 영업이익,516000000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/798354/000079835421000004/ ; https://www.sec.gov/Archives/edgar/data/798354/000079835420000024/,연간 1852000000 − 9개월누적 1336000000 (OperatingIncomeLoss),15
+Fiserv,FISV,2020Q4,2020-12-31,분기별 당기순이익(지배),300000000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/798354/000079835421000004/ ; https://www.sec.gov/Archives/edgar/data/798354/000079835420000024/,연간 958000000 − 9개월누적 658000000 (NetIncomeLoss),15
+Fiserv,FISV,2020Q4,2020-12-31,분기별 영업활동현금흐름,1186000000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/798354/000079835421000004/ ; https://www.sec.gov/Archives/edgar/data/798354/000079835420000024/,누적 4147000000 − 직전누적 2961000000 (시작 2020-01-01),15
+Fiserv,FISV,2020Q4,2020-12-31,분기말 자산총계,74619000000,USD,공시,https://www.sec.gov/Archives/edgar/data/798354/000079835421000004/,,15
+Fiserv,FISV,2020Q4,2020-12-31,분기말 부채총계,41290000000,USD,공시,https://www.sec.gov/Archives/edgar/data/798354/000079835421000004/,메자닌(일시자본) 259000000 별도,15
+Fiserv,FISV,2020Q4,2020-12-31,분기말 총자본(자기자본),33070000000,USD,공시,https://www.sec.gov/Archives/edgar/data/798354/000079835421000004/,,15
+Fiserv,FISV,2020Q4,2020-12-31,분기말 지배지분 자본,32330000000,USD,공시,https://www.sec.gov/Archives/edgar/data/798354/000079835421000004/,,15
+Fiserv,FISV,2020Q4,2020-12-31,분기말 종가,113.86,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/FISV?interval=1d&events=splits (2020-12-31),,15
+Fiserv,FISV,2020Q4,2021-02-19,분기말 상장주식수,669459877,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/798354/000079835421000004/,dei:EntityCommonStockSharesOutstanding 클래스 합,15
+Fiserv,FISV,2020Q4,2020-12-31,분기말 시가총액,76224701595,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/FISV?interval=1d&events=splits (2020-12-31) ; https://www.sec.gov/Archives/edgar/data/798354/000079835421000004/,종가 113.86 × 주식수 669459877,15
+Fiserv,FISV,2021Q1,2021-03-31,분기별 매출액,3755000000,USD,공시,https://www.sec.gov/Archives/edgar/data/798354/000079835421000008/,,15
+Fiserv,FISV,2021Q1,2021-03-31,분기별 영업이익,475000000,USD,공시,https://www.sec.gov/Archives/edgar/data/798354/000079835421000008/,,15
+Fiserv,FISV,2021Q1,2021-03-31,분기별 당기순이익(지배),304000000,USD,공시,https://www.sec.gov/Archives/edgar/data/798354/000079835421000008/,,15
+Fiserv,FISV,2021Q1,2021-03-31,분기별 영업활동현금흐름,952000000,USD,공시,https://www.sec.gov/Archives/edgar/data/798354/000079835421000008/,,15
+Fiserv,FISV,2021Q1,2021-03-31,분기말 자산총계,74840000000,USD,공시,https://www.sec.gov/Archives/edgar/data/798354/000079835421000008/,,15
+Fiserv,FISV,2021Q1,2021-03-31,분기말 부채총계,41995000000,USD,공시,https://www.sec.gov/Archives/edgar/data/798354/000079835421000008/,메자닌(일시자본) 259000000 별도,15
+Fiserv,FISV,2021Q1,2021-03-31,분기말 총자본(자기자본),32586000000,USD,공시,https://www.sec.gov/Archives/edgar/data/798354/000079835421000008/,,15
+Fiserv,FISV,2021Q1,2021-03-31,분기말 지배지분 자본,31851000000,USD,공시,https://www.sec.gov/Archives/edgar/data/798354/000079835421000008/,,15
+Fiserv,FISV,2021Q1,2021-03-31,분기말 종가,119.04,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/FISV?interval=1d&events=splits (2021-03-31),,15
+Fiserv,FISV,2021Q1,2021-04-23,분기말 상장주식수,666769382,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/798354/000079835421000008/,dei:EntityCommonStockSharesOutstanding 클래스 합,15
+Fiserv,FISV,2021Q1,2021-03-31,분기말 시가총액,79372227233,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/FISV?interval=1d&events=splits (2021-03-31) ; https://www.sec.gov/Archives/edgar/data/798354/000079835421000008/,종가 119.04 × 주식수 666769382,15
+Fiserv,FISV,2021Q2,2021-06-30,분기별 매출액,4051000000,USD,공시,https://www.sec.gov/Archives/edgar/data/798354/000079835421000014/,,15
+Fiserv,FISV,2021Q2,2021-06-30,분기별 영업이익,644000000,USD,공시,https://www.sec.gov/Archives/edgar/data/798354/000079835421000014/,,15
+Fiserv,FISV,2021Q2,2021-06-30,분기별 당기순이익(지배),269000000,USD,공시,https://www.sec.gov/Archives/edgar/data/798354/000079835421000014/,,15
+Fiserv,FISV,2021Q2,2021-06-30,분기별 영업활동현금흐름,1061000000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/798354/000079835421000014/ ; https://www.sec.gov/Archives/edgar/data/798354/000079835421000008/,누적 2013000000 − 직전누적 952000000 (시작 2021-01-01),15
+Fiserv,FISV,2021Q2,2021-06-30,분기말 자산총계,75776000000,USD,공시,https://www.sec.gov/Archives/edgar/data/798354/000079835421000014/,,15
+Fiserv,FISV,2021Q2,2021-06-30,분기말 부채총계,42983000000,USD,공시,https://www.sec.gov/Archives/edgar/data/798354/000079835421000014/,메자닌(일시자본) 261000000 별도,15
+Fiserv,FISV,2021Q2,2021-06-30,분기말 총자본(자기자본),32532000000,USD,공시,https://www.sec.gov/Archives/edgar/data/798354/000079835421000014/,,15
+Fiserv,FISV,2021Q2,2021-06-30,분기말 지배지분 자본,31793000000,USD,공시,https://www.sec.gov/Archives/edgar/data/798354/000079835421000014/,,15
+Fiserv,FISV,2021Q2,2021-06-30,분기말 종가,106.89,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/FISV?interval=1d&events=splits (2021-06-30),,15
+Fiserv,FISV,2021Q2,2021-07-23,분기말 상장주식수,662204715,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/798354/000079835421000014/,dei:EntityCommonStockSharesOutstanding 클래스 합,15
+Fiserv,FISV,2021Q2,2021-06-30,분기말 시가총액,70783061986,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/FISV?interval=1d&events=splits (2021-06-30) ; https://www.sec.gov/Archives/edgar/data/798354/000079835421000014/,종가 106.89 × 주식수 662204715,15
+Fiserv,FISV,2021Q3,2021-09-30,분기별 매출액,4163000000,USD,공시,https://www.sec.gov/Archives/edgar/data/798354/000079835421000018/,,15
+Fiserv,FISV,2021Q3,2021-09-30,분기별 영업이익,636000000,USD,공시,https://www.sec.gov/Archives/edgar/data/798354/000079835421000018/,,15
+Fiserv,FISV,2021Q3,2021-09-30,분기별 당기순이익(지배),428000000,USD,공시,https://www.sec.gov/Archives/edgar/data/798354/000079835421000018/,,15
+Fiserv,FISV,2021Q3,2021-09-30,분기별 영업활동현금흐름,678000000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/798354/000079835421000018/ ; https://www.sec.gov/Archives/edgar/data/798354/000079835421000014/,누적 2691000000 − 직전누적 2013000000 (시작 2021-01-01),15
+Fiserv,FISV,2021Q3,2021-09-30,분기말 자산총계,75767000000,USD,공시,https://www.sec.gov/Archives/edgar/data/798354/000079835421000018/,,15
+Fiserv,FISV,2021Q3,2021-09-30,분기말 부채총계,43183000000,USD,공시,https://www.sec.gov/Archives/edgar/data/798354/000079835421000018/,메자닌(일시자본) 260000000 별도,15
+Fiserv,FISV,2021Q3,2021-09-30,분기말 총자본(자기자본),32324000000,USD,공시,https://www.sec.gov/Archives/edgar/data/798354/000079835421000018/,,15
+Fiserv,FISV,2021Q3,2021-09-30,분기말 지배지분 자본,31596000000,USD,공시,https://www.sec.gov/Archives/edgar/data/798354/000079835421000018/,,15
+Fiserv,FISV,2021Q3,2021-09-30,분기말 종가,108.5,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/FISV?interval=1d&events=splits (2021-09-30),,15
+Fiserv,FISV,2021Q3,2021-10-22,분기말 상장주식수,660231928,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/798354/000079835421000018/,dei:EntityCommonStockSharesOutstanding 클래스 합,15
+Fiserv,FISV,2021Q3,2021-09-30,분기말 시가총액,71635164188,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/FISV?interval=1d&events=splits (2021-09-30) ; https://www.sec.gov/Archives/edgar/data/798354/000079835421000018/,종가 108.5 × 주식수 660231928,15
+Fiserv,FISV,2021Q4,2021-12-31,분기별 매출액,4257000000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/798354/000079835422000004/ ; https://www.sec.gov/Archives/edgar/data/798354/000079835421000018/,연간 16226000000 − 9개월누적 11969000000 (RevenueFromContractWithCustomerExcludingAssessedTax),15
+Fiserv,FISV,2021Q4,2021-12-31,분기별 영업이익,533000000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/798354/000079835422000004/ ; https://www.sec.gov/Archives/edgar/data/798354/000079835421000018/,연간 2288000000 − 9개월누적 1755000000 (OperatingIncomeLoss),15
+Fiserv,FISV,2021Q4,2021-12-31,분기별 당기순이익(지배),333000000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/798354/000079835422000004/ ; https://www.sec.gov/Archives/edgar/data/798354/000079835421000018/,연간 1334000000 − 9개월누적 1001000000 (NetIncomeLoss),15
+Fiserv,FISV,2021Q4,2021-12-31,분기별 영업활동현금흐름,1343000000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/798354/000079835422000004/ ; https://www.sec.gov/Archives/edgar/data/798354/000079835421000018/,누적 4034000000 − 직전누적 2691000000 (시작 2021-01-01),15
+Fiserv,FISV,2021Q4,2021-12-31,분기말 자산총계,76249000000,USD,공시,https://www.sec.gov/Archives/edgar/data/798354/000079835422000004/,,15
+Fiserv,FISV,2021Q4,2021-12-31,분기말 부채총계,44299000000,USD,공시,https://www.sec.gov/Archives/edgar/data/798354/000079835422000004/,메자닌(일시자본) 278000000 별도,15
+Fiserv,FISV,2021Q4,2021-12-31,분기말 총자본(자기자본),31672000000,USD,공시,https://www.sec.gov/Archives/edgar/data/798354/000079835422000004/,,15
+Fiserv,FISV,2021Q4,2021-12-31,분기말 지배지분 자본,30952000000,USD,공시,https://www.sec.gov/Archives/edgar/data/798354/000079835422000004/,,15
+Fiserv,FISV,2021Q4,2021-12-31,분기말 종가,103.79,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/FISV?interval=1d&events=splits (2021-12-31),,15
+Fiserv,FISV,2021Q4,2022-02-18,분기말 상장주식수,652196905,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/798354/000079835422000004/,dei:EntityCommonStockSharesOutstanding 클래스 합,15
+Fiserv,FISV,2021Q4,2021-12-31,분기말 시가총액,67691516770,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/FISV?interval=1d&events=splits (2021-12-31) ; https://www.sec.gov/Archives/edgar/data/798354/000079835422000004/,종가 103.79 × 주식수 652196905,15
+Fiserv,FISV,2022Q1,2022-03-31,분기별 매출액,4138000000,USD,공시,https://www.sec.gov/Archives/edgar/data/798354/000079835422000009/,,15
+Fiserv,FISV,2022Q1,2022-03-31,분기별 영업이익,846000000,USD,공시,https://www.sec.gov/Archives/edgar/data/798354/000079835422000009/,,15
+Fiserv,FISV,2022Q1,2022-03-31,분기별 당기순이익(지배),669000000,USD,공시,https://www.sec.gov/Archives/edgar/data/798354/000079835422000009/,,15
+Fiserv,FISV,2022Q1,2022-03-31,분기별 영업활동현금흐름,815000000,USD,공시,https://www.sec.gov/Archives/edgar/data/798354/000079835422000009/,,15
+Fiserv,FISV,2022Q1,2022-03-31,분기말 자산총계,75470000000,USD,공시,https://www.sec.gov/Archives/edgar/data/798354/000079835422000009/,,15
+Fiserv,FISV,2022Q1,2022-03-31,분기말 부채총계,43328000000,USD,공시,https://www.sec.gov/Archives/edgar/data/798354/000079835422000009/,메자닌(일시자본) 164000000 별도,15
+Fiserv,FISV,2022Q1,2022-03-31,분기말 총자본(자기자본),31978000000,USD,공시,https://www.sec.gov/Archives/edgar/data/798354/000079835422000009/,,15
+Fiserv,FISV,2022Q1,2022-03-31,분기말 지배지분 자본,31272000000,USD,공시,https://www.sec.gov/Archives/edgar/data/798354/000079835422000009/,,15
+Fiserv,FISV,2022Q1,2022-03-31,분기말 종가,101.4,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/FISV?interval=1d&events=splits (2022-03-31),,15
+Fiserv,FISV,2022Q1,2022-04-22,분기말 상장주식수,646394065,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/798354/000079835422000009/,dei:EntityCommonStockSharesOutstanding 클래스 합,15
+Fiserv,FISV,2022Q1,2022-03-31,분기말 시가총액,65544358191,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/FISV?interval=1d&events=splits (2022-03-31) ; https://www.sec.gov/Archives/edgar/data/798354/000079835422000009/,종가 101.4 × 주식수 646394065,15
+Fiserv,FISV,2022Q2,2022-06-30,분기별 매출액,4450000000,USD,공시,https://www.sec.gov/Archives/edgar/data/798354/000079835422000015/,,15
+Fiserv,FISV,2022Q2,2022-06-30,분기별 영업이익,860000000,USD,공시,https://www.sec.gov/Archives/edgar/data/798354/000079835422000015/,,15
+Fiserv,FISV,2022Q2,2022-06-30,분기별 당기순이익(지배),598000000,USD,공시,https://www.sec.gov/Archives/edgar/data/798354/000079835422000015/,,15
+Fiserv,FISV,2022Q2,2022-06-30,분기별 영업활동현금흐름,990000000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/798354/000079835422000015/ ; https://www.sec.gov/Archives/edgar/data/798354/000079835422000009/,누적 1805000000 − 직전누적 815000000 (시작 2022-01-01),15
+Fiserv,FISV,2022Q2,2022-06-30,분기말 자산총계,77212000000,USD,공시,https://www.sec.gov/Archives/edgar/data/798354/000079835422000015/,,15
+Fiserv,FISV,2022Q2,2022-06-30,분기말 부채총계,45242000000,USD,공시,https://www.sec.gov/Archives/edgar/data/798354/000079835422000015/,메자닌(일시자본) 161000000 별도,15
+Fiserv,FISV,2022Q2,2022-06-30,분기말 총자본(자기자본),31809000000,USD,공시,https://www.sec.gov/Archives/edgar/data/798354/000079835422000015/,,15
+Fiserv,FISV,2022Q2,2022-06-30,분기말 지배지분 자본,31109000000,USD,공시,https://www.sec.gov/Archives/edgar/data/798354/000079835422000015/,,15
+Fiserv,FISV,2022Q2,2022-06-30,분기말 종가,88.97,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/FISV?interval=1d&events=splits (2022-06-30),,15
+Fiserv,FISV,2022Q2,2022-07-22,분기말 상장주식수,639584348,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/798354/000079835422000015/,dei:EntityCommonStockSharesOutstanding 클래스 합,15
+Fiserv,FISV,2022Q2,2022-06-30,분기말 시가총액,56903819442,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/FISV?interval=1d&events=splits (2022-06-30) ; https://www.sec.gov/Archives/edgar/data/798354/000079835422000015/,종가 88.97 × 주식수 639584348,15
+Fiserv,FISV,2022Q3,2022-09-30,분기별 매출액,4518000000,USD,공시,https://www.sec.gov/Archives/edgar/data/798354/000079835422000019/,,15
+Fiserv,FISV,2022Q3,2022-09-30,분기별 영업이익,855000000,USD,공시,https://www.sec.gov/Archives/edgar/data/798354/000079835422000019/,,15
+Fiserv,FISV,2022Q3,2022-09-30,분기별 당기순이익(지배),481000000,USD,공시,https://www.sec.gov/Archives/edgar/data/798354/000079835422000019/,,15
+Fiserv,FISV,2022Q3,2022-09-30,분기별 영업활동현금흐름,1180000000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/798354/000079835422000019/ ; https://www.sec.gov/Archives/edgar/data/798354/000079835422000015/,누적 2985000000 − 직전누적 1805000000 (시작 2022-01-01),15
+Fiserv,FISV,2022Q3,2022-09-30,분기말 자산총계,75640000000,USD,공시,https://www.sec.gov/Archives/edgar/data/798354/000079835422000019/,,15
+Fiserv,FISV,2022Q3,2022-09-30,분기말 부채총계,44497000000,USD,공시,https://www.sec.gov/Archives/edgar/data/798354/000079835422000019/,메자닌(일시자본) 161000000 별도,15
+Fiserv,FISV,2022Q3,2022-09-30,분기말 총자본(자기자본),30982000000,USD,공시,https://www.sec.gov/Archives/edgar/data/798354/000079835422000019/,,15
+Fiserv,FISV,2022Q3,2022-09-30,분기말 지배지분 자본,30326000000,USD,공시,https://www.sec.gov/Archives/edgar/data/798354/000079835422000019/,,15
+Fiserv,FISV,2022Q3,2022-09-30,분기말 종가,93.57,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/FISV?interval=1d&events=splits (2022-09-30),,15
+Fiserv,FISV,2022Q3,2022-10-21,분기말 상장주식수,635028076,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/798354/000079835422000019/,dei:EntityCommonStockSharesOutstanding 클래스 합,15
+Fiserv,FISV,2022Q3,2022-09-30,분기말 시가총액,59419577071,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/FISV?interval=1d&events=splits (2022-09-30) ; https://www.sec.gov/Archives/edgar/data/798354/000079835422000019/,종가 93.57 × 주식수 635028076,15
+Fiserv,FISV,2022Q4,2022-12-31,분기별 매출액,4631000000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/798354/000079835423000004/ ; https://www.sec.gov/Archives/edgar/data/798354/000079835422000019/,연간 17737000000 − 9개월누적 13106000000 (Revenues / 9개월 RevenueFromContractWithCustomerExcludingAssessedTax),15
+Fiserv,FISV,2022Q4,2022-12-31,분기별 영업이익,1179000000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/798354/000079835423000004/ ; https://www.sec.gov/Archives/edgar/data/798354/000079835422000019/,연간 3740000000 − 9개월누적 2561000000 (OperatingIncomeLoss),15
+Fiserv,FISV,2022Q4,2022-12-31,분기별 당기순이익(지배),782000000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/798354/000079835423000004/ ; https://www.sec.gov/Archives/edgar/data/798354/000079835422000019/,연간 2530000000 − 9개월누적 1748000000 (NetIncomeLoss),15
+Fiserv,FISV,2022Q4,2022-12-31,분기별 영업활동현금흐름,1633000000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/798354/000079835423000004/ ; https://www.sec.gov/Archives/edgar/data/798354/000079835422000019/,누적 4618000000 − 직전누적 2985000000 (시작 2022-01-01),15
+Fiserv,FISV,2022Q4,2022-12-31,분기말 자산총계,83869000000,USD,공시,https://www.sec.gov/Archives/edgar/data/798354/000079835423000004/,,15
+Fiserv,FISV,2022Q4,2022-12-31,분기말 부채총계,52181000000,USD,공시,https://www.sec.gov/Archives/edgar/data/798354/000079835423000004/,메자닌(일시자본) 161000000 별도,15
+Fiserv,FISV,2022Q4,2022-12-31,분기말 총자본(자기자본),31527000000,USD,공시,https://www.sec.gov/Archives/edgar/data/798354/000079835423000004/,,15
+Fiserv,FISV,2022Q4,2022-12-31,분기말 지배지분 자본,30828000000,USD,공시,https://www.sec.gov/Archives/edgar/data/798354/000079835423000004/,,15
+Fiserv,FISV,2022Q4,2022-12-30,분기말 종가,101.07,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/FISV?interval=1d&events=splits (2022-12-30),,15
+Fiserv,FISV,2022Q4,2023-02-17,분기말 상장주식수,628126357,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/798354/000079835423000004/,dei:EntityCommonStockSharesOutstanding 클래스 합,15
+Fiserv,FISV,2022Q4,2022-12-30,분기말 시가총액,63484730902,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/FISV?interval=1d&events=splits (2022-12-30) ; https://www.sec.gov/Archives/edgar/data/798354/000079835423000004/,종가 101.07 × 주식수 628126357,15
+Fiserv,FISV,2023Q1,2023-03-31,분기별 매출액,4547000000,USD,공시,https://www.sec.gov/Archives/edgar/data/798354/000079835423000008/,,15
+Fiserv,FISV,2023Q1,2023-03-31,분기별 영업이익,934000000,USD,공시,https://www.sec.gov/Archives/edgar/data/798354/000079835423000008/,,15
+Fiserv,FISV,2023Q1,2023-03-31,분기별 당기순이익(지배),563000000,USD,공시,https://www.sec.gov/Archives/edgar/data/798354/000079835423000008/,,15
+Fiserv,FISV,2023Q1,2023-03-31,분기별 영업활동현금흐름,1130000000,USD,공시,https://www.sec.gov/Archives/edgar/data/798354/000079835423000008/,,15
+Fiserv,FISV,2023Q1,2023-03-31,분기말 자산총계,76548000000,USD,공시,https://www.sec.gov/Archives/edgar/data/798354/000079835423000008/,,15
+Fiserv,FISV,2023Q1,2023-03-31,분기말 부채총계,45594000000,USD,공시,https://www.sec.gov/Archives/edgar/data/798354/000079835423000008/,메자닌(일시자본) 160000000 별도,15
+Fiserv,FISV,2023Q1,2023-03-31,분기말 총자본(자기자본),30794000000,USD,공시,https://www.sec.gov/Archives/edgar/data/798354/000079835423000008/,,15
+Fiserv,FISV,2023Q1,2023-03-31,분기말 지배지분 자본,30077000000,USD,공시,https://www.sec.gov/Archives/edgar/data/798354/000079835423000008/,,15
+Fiserv,FISV,2023Q1,2023-03-31,분기말 종가,113.03,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/FISV?interval=1d&events=splits (2023-03-31),,15
+Fiserv,FISV,2023Q1,2023-04-21,분기말 상장주식수,617309915,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/798354/000079835423000008/,dei:EntityCommonStockSharesOutstanding 클래스 합,15
+Fiserv,FISV,2023Q1,2023-03-31,분기말 시가총액,69774539692,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/FISV?interval=1d&events=splits (2023-03-31) ; https://www.sec.gov/Archives/edgar/data/798354/000079835423000008/,종가 113.03 × 주식수 617309915,15
+Fiserv,FISV,2023Q2,2023-06-30,분기별 매출액,4756000000,USD,공시,https://www.sec.gov/Archives/edgar/data/798354/000079835423000014/,,15
+Fiserv,FISV,2023Q2,2023-06-30,분기별 영업이익,1131000000,USD,공시,https://www.sec.gov/Archives/edgar/data/798354/000079835423000014/,,15
+Fiserv,FISV,2023Q2,2023-06-30,분기별 당기순이익(지배),683000000,USD,공시,https://www.sec.gov/Archives/edgar/data/798354/000079835423000014/,,15
+Fiserv,FISV,2023Q2,2023-06-30,분기별 영업활동현금흐름,878000000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/798354/000079835423000014/ ; https://www.sec.gov/Archives/edgar/data/798354/000079835423000008/,누적 2008000000 − 직전누적 1130000000 (시작 2023-01-01),15
+Fiserv,FISV,2023Q2,2023-06-30,분기말 자산총계,77599000000,USD,공시,https://www.sec.gov/Archives/edgar/data/798354/000079835423000014/,,15
+Fiserv,FISV,2023Q2,2023-06-30,분기말 부채총계,46722000000,USD,공시,https://www.sec.gov/Archives/edgar/data/798354/000079835423000014/,메자닌(일시자본) 161000000 별도,15
+Fiserv,FISV,2023Q2,2023-06-30,분기말 총자본(자기자본),30716000000,USD,공시,https://www.sec.gov/Archives/edgar/data/798354/000079835423000014/,,15
+Fiserv,FISV,2023Q2,2023-06-30,분기말 지배지분 자본,29991000000,USD,공시,https://www.sec.gov/Archives/edgar/data/798354/000079835423000014/,,15
+Fiserv,FISV,2023Q2,2023-06-30,분기말 종가,126.15,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/FISV?interval=1d&events=splits (2023-06-30),,15
+Fiserv,FISV,2023Q2,2023-07-21,분기말 상장주식수,609614903,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/798354/000079835423000014/,dei:EntityCommonStockSharesOutstanding 클래스 합,15
+Fiserv,FISV,2023Q2,2023-06-30,분기말 시가총액,76902920013,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/FISV?interval=1d&events=splits (2023-06-30) ; https://www.sec.gov/Archives/edgar/data/798354/000079835423000014/,종가 126.15 × 주식수 609614903,15
+Fiserv,FISV,2023Q3,2023-09-30,분기별 매출액,4873000000,USD,공시,https://www.sec.gov/Archives/edgar/data/798354/000079835423000018/,,15
+Fiserv,FISV,2023Q3,2023-09-30,분기별 영업이익,1503000000,USD,공시,https://www.sec.gov/Archives/edgar/data/798354/000079835423000018/,,15
+Fiserv,FISV,2023Q3,2023-09-30,분기별 당기순이익(지배),952000000,USD,공시,https://www.sec.gov/Archives/edgar/data/798354/000079835423000018/,,15
+Fiserv,FISV,2023Q3,2023-09-30,분기별 영업활동현금흐름,1559000000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/798354/000079835423000018/ ; https://www.sec.gov/Archives/edgar/data/798354/000079835423000014/,누적 3567000000 − 직전누적 2008000000 (시작 2023-01-01),15
+Fiserv,FISV,2023Q3,2023-09-30,분기말 자산총계,84154000000,USD,공시,https://www.sec.gov/Archives/edgar/data/798354/000079835423000018/,,15
+Fiserv,FISV,2023Q3,2023-09-30,분기말 부채총계,53768000000,USD,공시,https://www.sec.gov/Archives/edgar/data/798354/000079835423000018/,메자닌(일시자본) 161000000 별도,15
+Fiserv,FISV,2023Q3,2023-09-30,분기말 총자본(자기자본),30225000000,USD,공시,https://www.sec.gov/Archives/edgar/data/798354/000079835423000018/,,15
+Fiserv,FISV,2023Q3,2023-09-30,분기말 지배지분 자본,29573000000,USD,공시,https://www.sec.gov/Archives/edgar/data/798354/000079835423000018/,,15
+Fiserv,FISV,2023Q3,2023-09-29,분기말 종가,112.96,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/FISV?interval=1d&events=splits (2023-09-29),,15
+Fiserv,FISV,2023Q3,2023-10-20,분기말 상장주식수,600185716,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/798354/000079835423000018/,dei:EntityCommonStockSharesOutstanding 클래스 합,15
+Fiserv,FISV,2023Q3,2023-09-29,분기말 시가총액,67796978479,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/FISV?interval=1d&events=splits (2023-09-29) ; https://www.sec.gov/Archives/edgar/data/798354/000079835423000018/,종가 112.96 × 주식수 600185716,15
+Fiserv,FISV,2023Q4,2023-12-31,분기별 매출액,4917000000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/798354/000079835424000037/ ; https://www.sec.gov/Archives/edgar/data/798354/000079835423000018/,연간 19093000000 − 9개월누적 14176000000 (Revenues),15
+Fiserv,FISV,2023Q4,2023-12-31,분기별 영업이익,1446000000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/798354/000079835424000037/ ; https://www.sec.gov/Archives/edgar/data/798354/000079835423000018/,연간 5014000000 − 9개월누적 3568000000 (OperatingIncomeLoss),15
+Fiserv,FISV,2023Q4,2023-12-31,분기별 당기순이익(지배),870000000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/798354/000079835424000037/ ; https://www.sec.gov/Archives/edgar/data/798354/000079835423000018/,연간 3068000000 − 9개월누적 2198000000 (NetIncomeLoss),15
+Fiserv,FISV,2023Q4,2023-12-31,분기별 영업활동현금흐름,1595000000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/798354/000079835424000037/ ; https://www.sec.gov/Archives/edgar/data/798354/000079835423000018/,누적 5162000000 − 직전누적 3567000000 (시작 2023-01-01),15
+Fiserv,FISV,2023Q4,2023-12-31,분기말 자산총계,90890000000,USD,공시,https://www.sec.gov/Archives/edgar/data/798354/000079835424000037/,,15
+Fiserv,FISV,2023Q4,2023-12-31,분기말 부채총계,60221000000,USD,공시,https://www.sec.gov/Archives/edgar/data/798354/000079835424000037/,메자닌(일시자본) 161000000 별도,15
+Fiserv,FISV,2023Q4,2023-12-31,분기말 총자본(자기자본),30508000000,USD,공시,https://www.sec.gov/Archives/edgar/data/798354/000079835424000037/,,15
+Fiserv,FISV,2023Q4,2023-12-31,분기말 지배지분 자본,29857000000,USD,공시,https://www.sec.gov/Archives/edgar/data/798354/000079835424000037/,,15
+Fiserv,FISV,2023Q4,2023-12-29,분기말 종가,132.84,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/FISV?interval=1d&events=splits (2023-12-29),,15
+Fiserv,FISV,2023Q4,2024-02-16,분기말 상장주식수,590402536,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/798354/000079835424000037/,dei:EntityCommonStockSharesOutstanding 클래스 합,15
+Fiserv,FISV,2023Q4,2023-12-29,분기말 시가총액,78429072882,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/FISV?interval=1d&events=splits (2023-12-29) ; https://www.sec.gov/Archives/edgar/data/798354/000079835424000037/,종가 132.84 × 주식수 590402536,15
+Fiserv,FISV,2024Q1,2024-03-31,분기별 매출액,4883000000,USD,공시,https://www.sec.gov/Archives/edgar/data/798354/000079835424000100/,,15
+Fiserv,FISV,2024Q1,2024-03-31,분기별 영업이익,1181000000,USD,공시,https://www.sec.gov/Archives/edgar/data/798354/000079835424000100/,,15
+Fiserv,FISV,2024Q1,2024-03-31,분기별 당기순이익(지배),735000000,USD,공시,https://www.sec.gov/Archives/edgar/data/798354/000079835424000100/,,15
+Fiserv,FISV,2024Q1,2024-03-31,분기별 영업활동현금흐름,831000000,USD,공시,https://www.sec.gov/Archives/edgar/data/798354/000079835424000100/,,15
+Fiserv,FISV,2024Q1,2024-03-31,분기말 자산총계,92698000000,USD,공시,https://www.sec.gov/Archives/edgar/data/798354/000079835424000100/,,15
+Fiserv,FISV,2024Q1,2024-03-31,분기말 부채총계,63115000000,USD,공시,https://www.sec.gov/Archives/edgar/data/798354/000079835424000100/,메자닌(일시자본) 160000000 별도,15
+Fiserv,FISV,2024Q1,2024-03-31,분기말 총자본(자기자본),29423000000,USD,공시,https://www.sec.gov/Archives/edgar/data/798354/000079835424000100/,,15
+Fiserv,FISV,2024Q1,2024-03-31,분기말 지배지분 자본,28801000000,USD,공시,https://www.sec.gov/Archives/edgar/data/798354/000079835424000100/,,15
+Fiserv,FISV,2024Q1,2024-03-28,분기말 종가,159.82,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/FISV?interval=1d&events=splits (2024-03-28),,15
+Fiserv,FISV,2024Q1,2024-04-19,분기말 상장주식수,585101873,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/798354/000079835424000100/,dei:EntityCommonStockSharesOutstanding 클래스 합,15
+Fiserv,FISV,2024Q1,2024-03-28,분기말 시가총액,93510981343,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/FISV?interval=1d&events=splits (2024-03-28) ; https://www.sec.gov/Archives/edgar/data/798354/000079835424000100/,종가 159.82 × 주식수 585101873,15
+Fiserv,FISV,2024Q2,2024-06-30,분기별 매출액,5107000000,USD,공시,https://www.sec.gov/Archives/edgar/data/798354/000079835424000156/,,15
+Fiserv,FISV,2024Q2,2024-06-30,분기별 영업이익,1428000000,USD,공시,https://www.sec.gov/Archives/edgar/data/798354/000079835424000156/,,15
+Fiserv,FISV,2024Q2,2024-06-30,분기별 당기순이익(지배),894000000,USD,공시,https://www.sec.gov/Archives/edgar/data/798354/000079835424000156/,,15
+Fiserv,FISV,2024Q2,2024-06-30,분기별 영업활동현금흐름,1341000000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/798354/000079835424000156/ ; https://www.sec.gov/Archives/edgar/data/798354/000079835424000100/,누적 2172000000 − 직전누적 831000000 (시작 2024-01-01),15
+Fiserv,FISV,2024Q2,2024-06-30,분기말 자산총계,93417000000,USD,공시,https://www.sec.gov/Archives/edgar/data/798354/000079835424000156/,,15
+Fiserv,FISV,2024Q2,2024-06-30,분기말 부채총계,64639000000,USD,공시,https://www.sec.gov/Archives/edgar/data/798354/000079835424000156/,,15
+Fiserv,FISV,2024Q2,2024-06-30,분기말 총자본(자기자본),28778000000,USD,공시,https://www.sec.gov/Archives/edgar/data/798354/000079835424000156/,,15
+Fiserv,FISV,2024Q2,2024-06-30,분기말 지배지분 자본,28154000000,USD,공시,https://www.sec.gov/Archives/edgar/data/798354/000079835424000156/,,15
+Fiserv,FISV,2024Q2,2024-06-28,분기말 종가,149.04,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/FISV?interval=1d&events=splits (2024-06-28),,15
+Fiserv,FISV,2024Q2,2024-07-19,분기말 상장주식수,575725190,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/798354/000079835424000156/,dei:EntityCommonStockSharesOutstanding 클래스 합,15
+Fiserv,FISV,2024Q2,2024-06-28,분기말 시가총액,85806082318,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/FISV?interval=1d&events=splits (2024-06-28) ; https://www.sec.gov/Archives/edgar/data/798354/000079835424000156/,종가 149.04 × 주식수 575725190,15
+Fiserv,FISV,2024Q3,2024-09-30,분기별 매출액,5215000000,USD,공시,https://www.sec.gov/Archives/edgar/data/798354/000079835424000190/,,15
+Fiserv,FISV,2024Q3,2024-09-30,분기별 영업이익,1602000000,USD,공시,https://www.sec.gov/Archives/edgar/data/798354/000079835424000190/,,15
+Fiserv,FISV,2024Q3,2024-09-30,분기별 당기순이익(지배),564000000,USD,공시,https://www.sec.gov/Archives/edgar/data/798354/000079835424000190/,,15
+Fiserv,FISV,2024Q3,2024-09-30,분기별 영업활동현금흐름,2238000000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/798354/000079835424000190/ ; https://www.sec.gov/Archives/edgar/data/798354/000079835424000156/,누적 4410000000 − 직전누적 2172000000 (시작 2024-01-01),15
+Fiserv,FISV,2024Q3,2024-09-30,분기말 자산총계,79792000000,USD,공시,https://www.sec.gov/Archives/edgar/data/798354/000079835424000190/,,15
+Fiserv,FISV,2024Q3,2024-09-30,분기말 부채총계,51389000000,USD,공시,https://www.sec.gov/Archives/edgar/data/798354/000079835424000190/,,15
+Fiserv,FISV,2024Q3,2024-09-30,분기말 총자본(자기자본),28403000000,USD,공시,https://www.sec.gov/Archives/edgar/data/798354/000079835424000190/,,15
+Fiserv,FISV,2024Q3,2024-09-30,분기말 지배지분 자본,27751000000,USD,공시,https://www.sec.gov/Archives/edgar/data/798354/000079835424000190/,,15
+Fiserv,FISV,2024Q3,2024-09-30,분기말 종가,179.65,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/FISV?interval=1d&events=splits (2024-09-30),,15
+Fiserv,FISV,2024Q3,2024-10-18,분기말 상장주식수,568918735,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/798354/000079835424000190/,dei:EntityCommonStockSharesOutstanding 클래스 합,15
+Fiserv,FISV,2024Q3,2024-09-30,분기말 시가총액,102206250743,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/FISV?interval=1d&events=splits (2024-09-30) ; https://www.sec.gov/Archives/edgar/data/798354/000079835424000190/,종가 179.65 × 주식수 568918735,15
+Fiserv,FISV,2024Q4,2024-12-31,분기별 매출액,5251000000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/798354/000079835425000047/ ; https://www.sec.gov/Archives/edgar/data/798354/000079835424000190/,연간 20456000000 − 9개월누적 15205000000 (Revenues),15
+Fiserv,FISV,2024Q4,2024-12-31,분기별 영업이익,1668000000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/798354/000079835425000047/ ; https://www.sec.gov/Archives/edgar/data/798354/000079835424000190/,연간 5879000000 − 9개월누적 4211000000 (OperatingIncomeLoss),15
+Fiserv,FISV,2024Q4,2024-12-31,분기별 당기순이익(지배),938000000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/798354/000079835425000047/ ; https://www.sec.gov/Archives/edgar/data/798354/000079835424000190/,연간 3131000000 − 9개월누적 2193000000 (NetIncomeLoss),15
+Fiserv,FISV,2024Q4,2024-12-31,분기별 영업활동현금흐름,2221000000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/798354/000079835425000047/ ; https://www.sec.gov/Archives/edgar/data/798354/000079835424000190/,누적 6631000000 − 직전누적 4410000000 (시작 2024-01-01),15
+Fiserv,FISV,2024Q4,2024-12-31,분기말 자산총계,77176000000,USD,공시,https://www.sec.gov/Archives/edgar/data/798354/000079835425000047/,,15
+Fiserv,FISV,2024Q4,2024-12-31,분기말 부채총계,49490000000,USD,공시,https://www.sec.gov/Archives/edgar/data/798354/000079835425000047/,,15
+Fiserv,FISV,2024Q4,2024-12-31,분기말 총자본(자기자본),27686000000,USD,공시,https://www.sec.gov/Archives/edgar/data/798354/000079835425000047/,,15
+Fiserv,FISV,2024Q4,2024-12-31,분기말 지배지분 자본,27068000000,USD,공시,https://www.sec.gov/Archives/edgar/data/798354/000079835425000047/,,15
+Fiserv,FISV,2024Q4,2024-12-31,분기말 종가,205.42,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/FISV?interval=1d&events=splits (2024-12-31),,15
+Fiserv,FISV,2024Q4,2025-02-14,분기말 상장주식수,561288944,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/798354/000079835425000047/,dei:EntityCommonStockSharesOutstanding 클래스 합,15
+Fiserv,FISV,2024Q4,2024-12-31,분기말 시가총액,115299974876,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/FISV?interval=1d&events=splits (2024-12-31) ; https://www.sec.gov/Archives/edgar/data/798354/000079835425000047/,종가 205.42 × 주식수 561288944,15
+Fiserv,FISV,2025Q1,2025-03-31,분기별 매출액,5130000000,USD,공시,https://www.sec.gov/Archives/edgar/data/798354/000079835425000104/,,15
+Fiserv,FISV,2025Q1,2025-03-31,분기별 영업이익,1395000000,USD,공시,https://www.sec.gov/Archives/edgar/data/798354/000079835425000104/,,15
+Fiserv,FISV,2025Q1,2025-03-31,분기별 당기순이익(지배),851000000,USD,공시,https://www.sec.gov/Archives/edgar/data/798354/000079835425000104/,,15
+Fiserv,FISV,2025Q1,2025-03-31,분기별 영업활동현금흐름,648000000,USD,공시,https://www.sec.gov/Archives/edgar/data/798354/000079835425000104/,,15
+Fiserv,FISV,2025Q1,2025-03-31,분기말 자산총계,80402000000,USD,공시,https://www.sec.gov/Archives/edgar/data/798354/000079835425000104/,,15
+Fiserv,FISV,2025Q1,2025-03-31,분기말 부채총계,53881000000,USD,공시,https://www.sec.gov/Archives/edgar/data/798354/000079835425000104/,,15
+Fiserv,FISV,2025Q1,2025-03-31,분기말 총자본(자기자본),26521000000,USD,공시,https://www.sec.gov/Archives/edgar/data/798354/000079835425000104/,,15
+Fiserv,FISV,2025Q1,2025-03-31,분기말 지배지분 자본,25884000000,USD,공시,https://www.sec.gov/Archives/edgar/data/798354/000079835425000104/,,15
+Fiserv,FISV,2025Q1,2025-03-31,분기말 종가,220.83,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/FISV?interval=1d&events=splits (2025-03-31),,15
+Fiserv,FISV,2025Q1,2025-04-18,분기말 상장주식수,554433824,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/798354/000079835425000104/,dei:EntityCommonStockSharesOutstanding 클래스 합,15
+Fiserv,FISV,2025Q1,2025-03-31,분기말 시가총액,122435621354,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/FISV?interval=1d&events=splits (2025-03-31) ; https://www.sec.gov/Archives/edgar/data/798354/000079835425000104/,종가 220.83 × 주식수 554433824,15
+Fiserv,FISV,2025Q2,2025-06-30,분기별 매출액,5516000000,USD,공시,https://www.sec.gov/Archives/edgar/data/798354/000079835425000163/,,15
+Fiserv,FISV,2025Q2,2025-06-30,분기별 영업이익,1696000000,USD,공시,https://www.sec.gov/Archives/edgar/data/798354/000079835425000163/,,15
+Fiserv,FISV,2025Q2,2025-06-30,분기별 당기순이익(지배),1026000000,USD,공시,https://www.sec.gov/Archives/edgar/data/798354/000079835425000163/,,15
+Fiserv,FISV,2025Q2,2025-06-30,분기별 영업활동현금흐름,1665000000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/798354/000079835425000163/ ; https://www.sec.gov/Archives/edgar/data/798354/000079835425000104/,누적 2313000000 − 직전누적 648000000 (시작 2025-01-01),15
+Fiserv,FISV,2025Q2,2025-06-30,분기말 자산총계,81531000000,USD,공시,https://www.sec.gov/Archives/edgar/data/798354/000079835425000163/,,15
+Fiserv,FISV,2025Q2,2025-06-30,분기말 부채총계,55768000000,USD,공시,https://www.sec.gov/Archives/edgar/data/798354/000079835425000163/,,15
+Fiserv,FISV,2025Q2,2025-06-30,분기말 총자본(자기자본),25763000000,USD,공시,https://www.sec.gov/Archives/edgar/data/798354/000079835425000163/,,15
+Fiserv,FISV,2025Q2,2025-06-30,분기말 지배지분 자본,25215000000,USD,공시,https://www.sec.gov/Archives/edgar/data/798354/000079835425000163/,,15
+Fiserv,FISV,2025Q2,2025-06-30,분기말 종가,172.41,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/FISV?interval=1d&events=splits (2025-06-30),,15
+Fiserv,FISV,2025Q2,2025-07-18,분기말 상장주식수,543593180,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/798354/000079835425000163/,dei:EntityCommonStockSharesOutstanding 클래스 합,15
+Fiserv,FISV,2025Q2,2025-06-30,분기말 시가총액,93720900164,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/FISV?interval=1d&events=splits (2025-06-30) ; https://www.sec.gov/Archives/edgar/data/798354/000079835425000163/,종가 172.41 × 주식수 543593180,15
+Fiserv,FISV,2025Q3,2025-09-30,분기별 매출액,5263000000,USD,공시,https://www.sec.gov/Archives/edgar/data/798354/000079835425000171/,,15
+Fiserv,FISV,2025Q3,2025-09-30,분기별 영업이익,1436000000,USD,공시,https://www.sec.gov/Archives/edgar/data/798354/000079835425000171/,,15
+Fiserv,FISV,2025Q3,2025-09-30,분기별 당기순이익(지배),792000000,USD,공시,https://www.sec.gov/Archives/edgar/data/798354/000079835425000171/,,15
+Fiserv,FISV,2025Q3,2025-09-30,분기별 영업활동현금흐름,1805000000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/798354/000079835425000171/ ; https://www.sec.gov/Archives/edgar/data/798354/000079835425000163/,누적 4118000000 − 직전누적 2313000000 (시작 2025-01-01),15
+Fiserv,FISV,2025Q3,2025-09-30,분기말 자산총계,79370000000,USD,공시,https://www.sec.gov/Archives/edgar/data/798354/000079835425000171/,,15
+Fiserv,FISV,2025Q3,2025-09-30,분기말 부채총계,54226000000,USD,공시,https://www.sec.gov/Archives/edgar/data/798354/000079835425000171/,,15
+Fiserv,FISV,2025Q3,2025-09-30,분기말 총자본(자기자본),25144000000,USD,공시,https://www.sec.gov/Archives/edgar/data/798354/000079835425000171/,,15
+Fiserv,FISV,2025Q3,2025-09-30,분기말 지배지분 자본,25121000000,USD,공시,https://www.sec.gov/Archives/edgar/data/798354/000079835425000171/,,15
+Fiserv,FISV,2025Q3,2025-09-30,분기말 종가,128.93,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/FISV?interval=1d&events=splits (2025-09-30),,15
+Fiserv,FISV,2025Q3,2025-10-24,분기말 상장주식수,537851887,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/798354/000079835425000171/,dei:EntityCommonStockSharesOutstanding 클래스 합,15
+Fiserv,FISV,2025Q3,2025-09-30,분기말 시가총액,69345243791,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/FISV?interval=1d&events=splits (2025-09-30) ; https://www.sec.gov/Archives/edgar/data/798354/000079835425000171/,종가 128.93 × 주식수 537851887,15
+Fiserv,FISV,2025Q4,2025-12-31,분기별 매출액,5284000000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/798354/000079835426000009/ ; https://www.sec.gov/Archives/edgar/data/798354/000079835425000171/,연간 21193000000 − 9개월누적 15909000000 (Revenues),15
+Fiserv,FISV,2025Q4,2025-12-31,분기별 영업이익,1291000000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/798354/000079835426000009/ ; https://www.sec.gov/Archives/edgar/data/798354/000079835425000171/,연간 5818000000 − 9개월누적 4527000000 (OperatingIncomeLoss),15
+Fiserv,FISV,2025Q4,2025-12-31,분기별 당기순이익(지배),811000000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/798354/000079835426000009/ ; https://www.sec.gov/Archives/edgar/data/798354/000079835425000171/,연간 3480000000 − 9개월누적 2669000000 (NetIncomeLoss),15
+Fiserv,FISV,2025Q4,2025-12-31,분기별 영업활동현금흐름,1944000000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/798354/000079835426000009/ ; https://www.sec.gov/Archives/edgar/data/798354/000079835425000171/,누적 6062000000 − 직전누적 4118000000 (시작 2025-01-01),15
+Fiserv,FISV,2025Q4,2025-12-31,분기말 자산총계,80133000000,USD,공시,https://www.sec.gov/Archives/edgar/data/798354/000079835426000009/,,15
+Fiserv,FISV,2025Q4,2025-12-31,분기말 부채총계,54324000000,USD,공시,https://www.sec.gov/Archives/edgar/data/798354/000079835426000009/,,15
+Fiserv,FISV,2025Q4,2025-12-31,분기말 총자본(자기자본),25809000000,USD,공시,https://www.sec.gov/Archives/edgar/data/798354/000079835426000009/,,15
+Fiserv,FISV,2025Q4,2025-12-31,분기말 지배지분 자본,25792000000,USD,공시,https://www.sec.gov/Archives/edgar/data/798354/000079835426000009/,,15
+Fiserv,FISV,2025Q4,2025-12-31,분기말 종가,67.17,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/FISV?interval=1d&events=splits (2025-12-31),,15
+Fiserv,FISV,2025Q4,2026-02-13,분기말 상장주식수,534777512,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/798354/000079835426000009/,dei:EntityCommonStockSharesOutstanding 클래스 합,15
+Fiserv,FISV,2025Q4,2025-12-31,분기말 시가총액,35921005481,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/FISV?interval=1d&events=splits (2025-12-31) ; https://www.sec.gov/Archives/edgar/data/798354/000079835426000009/,종가 67.17 × 주식수 534777512,15
+Fiserv,FISV,2026Q1,2026-03-31,분기별 매출액,5027000000,USD,공시,https://www.sec.gov/Archives/edgar/data/798354/000079835426000018/,,15
+Fiserv,FISV,2026Q1,2026-03-31,분기별 영업이익,918000000,USD,공시,https://www.sec.gov/Archives/edgar/data/798354/000079835426000018/,,15
+Fiserv,FISV,2026Q1,2026-03-31,분기별 당기순이익(지배),571000000,USD,공시,https://www.sec.gov/Archives/edgar/data/798354/000079835426000018/,,15
+Fiserv,FISV,2026Q1,2026-03-31,분기별 영업활동현금흐름,599000000,USD,공시,https://www.sec.gov/Archives/edgar/data/798354/000079835426000018/,,15
+Fiserv,FISV,2026Q1,2026-03-31,분기말 자산총계,80548000000,USD,공시,https://www.sec.gov/Archives/edgar/data/798354/000079835426000018/,,15
+Fiserv,FISV,2026Q1,2026-03-31,분기말 부채총계,54327000000,USD,공시,https://www.sec.gov/Archives/edgar/data/798354/000079835426000018/,,15
+Fiserv,FISV,2026Q1,2026-03-31,분기말 총자본(자기자본),26221000000,USD,공시,https://www.sec.gov/Archives/edgar/data/798354/000079835426000018/,,15
+Fiserv,FISV,2026Q1,2026-03-31,분기말 지배지분 자본,26201000000,USD,공시,https://www.sec.gov/Archives/edgar/data/798354/000079835426000018/,,15
+Fiserv,FISV,2026Q1,2026-03-31,분기말 종가,55.8,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/FISV?interval=1d&events=splits (2026-03-31),,15
+Fiserv,FISV,2026Q1,2026-05-01,분기말 상장주식수,533253986,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/798354/000079835426000018/,dei:EntityCommonStockSharesOutstanding 클래스 합,15
+Fiserv,FISV,2026Q1,2026-03-31,분기말 시가총액,29755572419,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/FISV?interval=1d&events=splits (2026-03-31) ; https://www.sec.gov/Archives/edgar/data/798354/000079835426000018/,종가 55.8 × 주식수 533253986,15
+Fiserv,FISV,2026Q2,2026-06-30,분기별 매출액,5292000000,USD,공시,https://www.sec.gov/Archives/edgar/data/798354/000079835426000031/,,15
+Fiserv,FISV,2026Q2,2026-06-30,분기별 영업이익,1015000000,USD,공시,https://www.sec.gov/Archives/edgar/data/798354/000079835426000031/,,15
+Fiserv,FISV,2026Q2,2026-06-30,분기별 당기순이익(지배),627000000,USD,공시,https://www.sec.gov/Archives/edgar/data/798354/000079835426000031/,,15
+Fiserv,FISV,2026Q2,2026-06-30,분기별 영업활동현금흐름,1483000000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/798354/000079835426000031/ ; https://www.sec.gov/Archives/edgar/data/798354/000079835426000018/,누적 2082000000 − 직전누적 599000000 (시작 2026-01-01),15
+Fiserv,FISV,2026Q2,2026-06-30,분기말 자산총계,80886000000,USD,공시,https://www.sec.gov/Archives/edgar/data/798354/000079835426000031/,,15
+Fiserv,FISV,2026Q2,2026-06-30,분기말 부채총계,53960000000,USD,공시,https://www.sec.gov/Archives/edgar/data/798354/000079835426000031/,,15
+Fiserv,FISV,2026Q2,2026-06-30,분기말 총자본(자기자본),26926000000,USD,공시,https://www.sec.gov/Archives/edgar/data/798354/000079835426000031/,,15
+Fiserv,FISV,2026Q2,2026-06-30,분기말 지배지분 자본,26904000000,USD,공시,https://www.sec.gov/Archives/edgar/data/798354/000079835426000031/,,15
+Fiserv,FISV,2026Q2,2026-06-30,분기말 종가,49.05,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/FISV?interval=1d&events=splits (2026-06-30),,15
+Fiserv,FISV,2026Q2,2026-07-31,분기말 상장주식수,531766721,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/798354/000079835426000031/,dei:EntityCommonStockSharesOutstanding 클래스 합,15
+Fiserv,FISV,2026Q2,2026-06-30,분기말 시가총액,26083157665,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/FISV?interval=1d&events=splits (2026-06-30) ; https://www.sec.gov/Archives/edgar/data/798354/000079835426000031/,종가 49.05 × 주식수 531766721,15

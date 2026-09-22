@@ -1,0 +1,727 @@
+﻿기업,종목코드,기간,기준일,항목,값,통화,값구분,출처,검산,라운드
+TJX Companies,TJX,2010Q1,2010-05-01,분기별 매출액,5016540000,USD,공시,https://www.sec.gov/Archives/edgar/data/109198/000095012310054084/,,5
+TJX Companies,TJX,2010Q1,2010-05-01,분기별 영업이익,미확인,USD,미확인,SEC companyfacts CIK0000109198: 해당 보고서에 OperatingIncomeLoss 태그 없음(영업이익 미공시) ; https://www.sec.gov/Archives/edgar/data/109198/000095012310054084/,,5
+TJX Companies,TJX,2010Q1,2010-05-01,분기별 당기순이익(지배),331434000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/109198/000095012310054084/,,5
+TJX Companies,TJX,2010Q1,2010-05-01,분기별 영업활동현금흐름,527416000,USD,공시,https://www.sec.gov/Archives/edgar/data/109198/000095012310054084/,,5
+TJX Companies,TJX,2010Q1,2010-05-01,분기말 자산총계,7754510000,USD,공시,https://www.sec.gov/Archives/edgar/data/109198/000095012310054084/,,5
+TJX Companies,TJX,2010Q1,2010-05-01,분기말 부채총계,4715132000,USD,계산(부채및자본-총자본),https://www.sec.gov/Archives/edgar/data/109198/000095012310054084/,부채및자본 7754510000 − 총자본 3039378000,5
+TJX Companies,TJX,2010Q1,2010-05-01,분기말 총자본(자기자본),3039378000,USD,공시,https://www.sec.gov/Archives/edgar/data/109198/000095012310054084/,,5
+TJX Companies,TJX,2010Q1,2010-05-01,분기말 지배지분 자본,3039378000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/109198/000095012310054084/,"StockholdersEquityIncludingPortionAttributableToNoncontrollingInterest, MinorityInterest 태그 없음",5
+TJX Companies,TJX,2010Q1,2010-04-30,분기말 종가,46.34,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/TJX?interval=1d&events=splits (2010-04-30),분할조정 종가 11.585 × 이후 분할계수 4,5
+TJX Companies,TJX,2010Q1,2010-05-01,분기말 상장주식수,407979188,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/109198/000095012310054084/,dei:EntityCommonStockSharesOutstanding 클래스 합,5
+TJX Companies,TJX,2010Q1,2010-04-30,분기말 시가총액,18905755572,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/TJX?interval=1d&events=splits (2010-04-30) ; https://www.sec.gov/Archives/edgar/data/109198/000095012310054084/,종가 46.34 × 주식수 407979188,5
+TJX Companies,TJX,2010Q2,2010-07-31,분기별 매출액,5068080000,USD,공시,https://www.sec.gov/Archives/edgar/data/109198/000095012310081603/,,5
+TJX Companies,TJX,2010Q2,2010-07-31,분기별 영업이익,미확인,USD,미확인,SEC companyfacts CIK0000109198: 해당 보고서에 OperatingIncomeLoss 태그 없음(영업이익 미공시) ; https://www.sec.gov/Archives/edgar/data/109198/000095012310081603/,,5
+TJX Companies,TJX,2010Q2,2010-07-31,분기별 당기순이익(지배),304984000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/109198/000095012310081603/,,5
+TJX Companies,TJX,2010Q2,2010-07-31,분기별 영업활동현금흐름,138553000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/109198/000095012310081603/ ; https://www.sec.gov/Archives/edgar/data/109198/000095012310054084/,누적 665969000 − 직전누적 527416000 (시작 2010-01-31),5
+TJX Companies,TJX,2010Q2,2010-07-31,분기말 자산총계,7686709000,USD,공시,https://www.sec.gov/Archives/edgar/data/109198/000095012310081603/,,5
+TJX Companies,TJX,2010Q2,2010-07-31,분기말 부채총계,4713027000,USD,계산(부채및자본-총자본),https://www.sec.gov/Archives/edgar/data/109198/000095012310081603/,부채및자본 7686709000 − 총자본 2973682000,5
+TJX Companies,TJX,2010Q2,2010-07-31,분기말 총자본(자기자본),2973682000,USD,공시,https://www.sec.gov/Archives/edgar/data/109198/000095012310081603/,,5
+TJX Companies,TJX,2010Q2,2010-07-31,분기말 지배지분 자본,2973682000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/109198/000095012310081603/,"StockholdersEquityIncludingPortionAttributableToNoncontrollingInterest, MinorityInterest 태그 없음",5
+TJX Companies,TJX,2010Q2,2010-07-30,분기말 종가,41.52,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/TJX?interval=1d&events=splits (2010-07-30),분할조정 종가 10.38 × 이후 분할계수 4,5
+TJX Companies,TJX,2010Q2,2010-07-31,분기말 상장주식수,400661233,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/109198/000095012310081603/,dei:EntityCommonStockSharesOutstanding 클래스 합,5
+TJX Companies,TJX,2010Q2,2010-07-30,분기말 시가총액,16635454394,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/TJX?interval=1d&events=splits (2010-07-30) ; https://www.sec.gov/Archives/edgar/data/109198/000095012310081603/,종가 41.52 × 주식수 400661233,5
+TJX Companies,TJX,2010Q3,2010-10-30,분기별 매출액,5525847000,USD,공시,https://www.sec.gov/Archives/edgar/data/109198/000095012310108499/,,5
+TJX Companies,TJX,2010Q3,2010-10-30,분기별 영업이익,미확인,USD,미확인,SEC companyfacts CIK0000109198: 해당 보고서에 OperatingIncomeLoss 태그 없음(영업이익 미공시) ; https://www.sec.gov/Archives/edgar/data/109198/000095012310108499/,,5
+TJX Companies,TJX,2010Q3,2010-10-30,분기별 당기순이익(지배),372309000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/109198/000095012310108499/,,5
+TJX Companies,TJX,2010Q3,2010-10-30,분기별 영업활동현금흐름,433223000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/109198/000095012310108499/ ; https://www.sec.gov/Archives/edgar/data/109198/000095012310081603/,누적 1099192000 − 직전누적 665969000 (시작 2010-01-31),5
+TJX Companies,TJX,2010Q3,2010-10-30,분기말 자산총계,8182148000,USD,공시,https://www.sec.gov/Archives/edgar/data/109198/000095012310108499/,,5
+TJX Companies,TJX,2010Q3,2010-10-30,분기말 부채총계,5072826000,USD,계산(부채및자본-총자본),https://www.sec.gov/Archives/edgar/data/109198/000095012310108499/,부채및자본 8182148000 − 총자본 3109322000,5
+TJX Companies,TJX,2010Q3,2010-10-30,분기말 총자본(자기자본),3109322000,USD,공시,https://www.sec.gov/Archives/edgar/data/109198/000095012310108499/,,5
+TJX Companies,TJX,2010Q3,2010-10-30,분기말 지배지분 자본,3109322000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/109198/000095012310108499/,"StockholdersEquityIncludingPortionAttributableToNoncontrollingInterest, MinorityInterest 태그 없음",5
+TJX Companies,TJX,2010Q3,2010-10-29,분기말 종가,45.89,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/TJX?interval=1d&events=splits (2010-10-29),분할조정 종가 11.4725 × 이후 분할계수 4,5
+TJX Companies,TJX,2010Q3,2010-10-30,분기말 상장주식수,395802044,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/109198/000095012310108499/,dei:EntityCommonStockSharesOutstanding 클래스 합,5
+TJX Companies,TJX,2010Q3,2010-10-29,분기말 시가총액,18163355799,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/TJX?interval=1d&events=splits (2010-10-29) ; https://www.sec.gov/Archives/edgar/data/109198/000095012310108499/,종가 45.89 × 주식수 395802044,5
+TJX Companies,TJX,2010Q4,2011-01-29,분기별 매출액,6331726000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/109198/000095012311030274/ ; https://www.sec.gov/Archives/edgar/data/109198/000095012310108499/,연간 21942193000 − 9개월누적 15610467000 (Revenues),5
+TJX Companies,TJX,2010Q4,2011-01-29,분기별 영업이익,미확인,USD,미확인,SEC companyfacts CIK0000109198: 해당 보고서에 OperatingIncomeLoss 태그 없음(영업이익 미공시) ; https://www.sec.gov/Archives/edgar/data/109198/000095012311030274/,,5
+TJX Companies,TJX,2010Q4,2011-01-29,분기별 당기순이익(지배),334414000,USD,"계산(연간-3분기누적, 비지배 없음)",https://www.sec.gov/Archives/edgar/data/109198/000095012311030274/ ; https://www.sec.gov/Archives/edgar/data/109198/000095012310108499/,연간 1343141000 − 9개월누적 1008727000 (ProfitLoss),5
+TJX Companies,TJX,2010Q4,2011-01-29,분기별 영업활동현금흐름,877289000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/109198/000095012311030274/ ; https://www.sec.gov/Archives/edgar/data/109198/000095012310108499/,누적 1976481000 − 직전누적 1099192000 (시작 2010-01-31),5
+TJX Companies,TJX,2010Q4,2011-01-29,분기말 자산총계,7971763000,USD,공시,https://www.sec.gov/Archives/edgar/data/109198/000095012311030274/,,5
+TJX Companies,TJX,2010Q4,2011-01-29,분기말 부채총계,4871864000,USD,계산(부채및자본-총자본),https://www.sec.gov/Archives/edgar/data/109198/000095012311030274/,부채및자본 7971763000 − 총자본 3099899000,5
+TJX Companies,TJX,2010Q4,2011-01-29,분기말 총자본(자기자본),3099899000,USD,공시,https://www.sec.gov/Archives/edgar/data/109198/000095012311030274/,,5
+TJX Companies,TJX,2010Q4,2011-01-29,분기말 지배지분 자본,3099899000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/109198/000095012311030274/,"StockholdersEquityIncludingPortionAttributableToNoncontrollingInterest, MinorityInterest 태그 없음",5
+TJX Companies,TJX,2010Q4,2011-01-28,분기말 종가,47.71,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/TJX?interval=1d&events=splits (2011-01-28),분할조정 종가 11.9275 × 이후 분할계수 4,5
+TJX Companies,TJX,2010Q4,2011-01-29,분기말 상장주식수,389657340,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/109198/000095012311030274/,dei:EntityCommonStockSharesOutstanding 클래스 합,5
+TJX Companies,TJX,2010Q4,2011-01-28,분기말 시가총액,18590551691,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/TJX?interval=1d&events=splits (2011-01-28) ; https://www.sec.gov/Archives/edgar/data/109198/000095012311030274/,종가 47.71 × 주식수 389657340,5
+TJX Companies,TJX,2011Q1,2011-04-30,분기별 매출액,5220295000,USD,공시,https://www.sec.gov/Archives/edgar/data/109198/000095012311054824/,,5
+TJX Companies,TJX,2011Q1,2011-04-30,분기별 영업이익,미확인,USD,미확인,SEC companyfacts CIK0000109198: 해당 보고서에 OperatingIncomeLoss 태그 없음(영업이익 미공시) ; https://www.sec.gov/Archives/edgar/data/109198/000095012311054824/,,5
+TJX Companies,TJX,2011Q1,2011-04-30,분기별 당기순이익(지배),265951000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/109198/000095012311054824/,,5
+TJX Companies,TJX,2011Q1,2011-04-30,분기별 영업활동현금흐름,143094000,USD,공시,https://www.sec.gov/Archives/edgar/data/109198/000095012311054824/,,5
+TJX Companies,TJX,2011Q1,2011-04-30,분기말 자산총계,7984470000,USD,공시,https://www.sec.gov/Archives/edgar/data/109198/000095012311054824/,,5
+TJX Companies,TJX,2011Q1,2011-04-30,분기말 부채총계,4861076000,USD,계산(부채및자본-총자본),https://www.sec.gov/Archives/edgar/data/109198/000095012311054824/,부채및자본 7984470000 − 총자본 3123394000,5
+TJX Companies,TJX,2011Q1,2011-04-30,분기말 총자본(자기자본),3123394000,USD,공시,https://www.sec.gov/Archives/edgar/data/109198/000095012311054824/,,5
+TJX Companies,TJX,2011Q1,2011-04-30,분기말 지배지분 자본,3123394000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/109198/000095012311054824/,"StockholdersEquityIncludingPortionAttributableToNoncontrollingInterest, MinorityInterest 태그 없음",5
+TJX Companies,TJX,2011Q1,2011-04-29,분기말 종가,53.62,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/TJX?interval=1d&events=splits (2011-04-29),분할조정 종가 13.405 × 이후 분할계수 4,5
+TJX Companies,TJX,2011Q1,2011-04-30,분기말 상장주식수,386107203,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/109198/000095012311054824/,dei:EntityCommonStockSharesOutstanding 클래스 합,5
+TJX Companies,TJX,2011Q1,2011-04-29,분기말 시가총액,20703068225,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/TJX?interval=1d&events=splits (2011-04-29) ; https://www.sec.gov/Archives/edgar/data/109198/000095012311054824/,종가 53.62 × 주식수 386107203,5
+TJX Companies,TJX,2011Q2,2011-07-30,분기별 매출액,5468274000,USD,공시,https://www.sec.gov/Archives/edgar/data/109198/000095012311080420/,,5
+TJX Companies,TJX,2011Q2,2011-07-30,분기별 영업이익,미확인,USD,미확인,SEC companyfacts CIK0000109198: 해당 보고서에 OperatingIncomeLoss 태그 없음(영업이익 미공시) ; https://www.sec.gov/Archives/edgar/data/109198/000095012311080420/,,5
+TJX Companies,TJX,2011Q2,2011-07-30,분기별 당기순이익(지배),348338000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/109198/000095012311080420/,,5
+TJX Companies,TJX,2011Q2,2011-07-30,분기별 영업활동현금흐름,182627000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/109198/000095012311080420/ ; https://www.sec.gov/Archives/edgar/data/109198/000095012311054824/,누적 325721000 − 직전누적 143094000 (시작 2011-01-30),5
+TJX Companies,TJX,2011Q2,2011-07-30,분기말 자산총계,8097126000,USD,공시,https://www.sec.gov/Archives/edgar/data/109198/000095012311080420/,,5
+TJX Companies,TJX,2011Q2,2011-07-30,분기말 부채총계,4992137000,USD,계산(부채및자본-총자본),https://www.sec.gov/Archives/edgar/data/109198/000095012311080420/,부채및자본 8097126000 − 총자본 3104989000,5
+TJX Companies,TJX,2011Q2,2011-07-30,분기말 총자본(자기자본),3104989000,USD,공시,https://www.sec.gov/Archives/edgar/data/109198/000095012311080420/,,5
+TJX Companies,TJX,2011Q2,2011-07-30,분기말 지배지분 자본,3104989000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/109198/000095012311080420/,"StockholdersEquityIncludingPortionAttributableToNoncontrollingInterest, MinorityInterest 태그 없음",5
+TJX Companies,TJX,2011Q2,2011-07-29,분기말 종가,55.3,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/TJX?interval=1d&events=splits (2011-07-29),분할조정 종가 13.825 × 이후 분할계수 4,5
+TJX Companies,TJX,2011Q2,2011-07-30,분기말 상장주식수,380980395,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/109198/000095012311080420/,dei:EntityCommonStockSharesOutstanding 클래스 합,5
+TJX Companies,TJX,2011Q2,2011-07-29,분기말 시가총액,21068215844,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/TJX?interval=1d&events=splits (2011-07-29) ; https://www.sec.gov/Archives/edgar/data/109198/000095012311080420/,종가 55.3 × 주식수 380980395,5
+TJX Companies,TJX,2011Q3,2011-10-29,분기별 매출액,5793128000,USD,공시,https://www.sec.gov/Archives/edgar/data/109198/000095012311101489/,,5
+TJX Companies,TJX,2011Q3,2011-10-29,분기별 영업이익,미확인,USD,미확인,SEC companyfacts CIK0000109198: 해당 보고서에 OperatingIncomeLoss 태그 없음(영업이익 미공시) ; https://www.sec.gov/Archives/edgar/data/109198/000095012311101489/,,5
+TJX Companies,TJX,2011Q3,2011-10-29,분기별 당기순이익(지배),406487000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/109198/000095012311101489/,,5
+TJX Companies,TJX,2011Q3,2011-10-29,분기별 영업활동현금흐름,505109000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/109198/000095012311101489/ ; https://www.sec.gov/Archives/edgar/data/109198/000095012311080420/,누적 830830000 − 직전누적 325721000 (시작 2011-01-30),5
+TJX Companies,TJX,2011Q3,2011-10-29,분기말 자산총계,8530980000,USD,공시,https://www.sec.gov/Archives/edgar/data/109198/000095012311101489/,,5
+TJX Companies,TJX,2011Q3,2011-10-29,분기말 부채총계,5347652000,USD,계산(부채및자본-총자본),https://www.sec.gov/Archives/edgar/data/109198/000095012311101489/,부채및자본 8530980000 − 총자본 3183328000,5
+TJX Companies,TJX,2011Q3,2011-10-29,분기말 총자본(자기자본),3183328000,USD,공시,https://www.sec.gov/Archives/edgar/data/109198/000095012311101489/,,5
+TJX Companies,TJX,2011Q3,2011-10-29,분기말 지배지분 자본,3183328000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/109198/000095012311101489/,"StockholdersEquityIncludingPortionAttributableToNoncontrollingInterest, MinorityInterest 태그 없음",5
+TJX Companies,TJX,2011Q3,2011-10-28,분기말 종가,60.37,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/TJX?interval=1d&events=splits (2011-10-28),분할조정 종가 15.0925 × 이후 분할계수 4,5
+TJX Companies,TJX,2011Q3,2011-10-29,분기말 상장주식수,377140120,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/109198/000095012311101489/,dei:EntityCommonStockSharesOutstanding 클래스 합,5
+TJX Companies,TJX,2011Q3,2011-10-28,분기말 시가총액,22767949044,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/TJX?interval=1d&events=splits (2011-10-28) ; https://www.sec.gov/Archives/edgar/data/109198/000095012311101489/,종가 60.37 × 주식수 377140120,5
+TJX Companies,TJX,2011Q4,2012-01-28,분기별 매출액,6709758000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/109198/000119312512134536/ ; https://www.sec.gov/Archives/edgar/data/109198/000095012311101489/,연간 23191455000 − 9개월누적 16481697000 (Revenues),5
+TJX Companies,TJX,2011Q4,2012-01-28,분기별 영업이익,미확인,USD,미확인,SEC companyfacts CIK0000109198: 해당 보고서에 OperatingIncomeLoss 태그 없음(영업이익 미공시) ; https://www.sec.gov/Archives/edgar/data/109198/000119312512134536/,,5
+TJX Companies,TJX,2011Q4,2012-01-28,분기별 당기순이익(지배),475314000,USD,"계산(연간-3분기누적, 비지배 없음)",https://www.sec.gov/Archives/edgar/data/109198/000119312512134536/ ; https://www.sec.gov/Archives/edgar/data/109198/000095012311101489/,연간 1496090000 − 9개월누적 1020776000 (ProfitLoss),5
+TJX Companies,TJX,2011Q4,2012-01-28,분기별 영업활동현금흐름,1085204000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/109198/000119312512134536/ ; https://www.sec.gov/Archives/edgar/data/109198/000095012311101489/,누적 1916034000 − 직전누적 830830000 (시작 2011-01-30),5
+TJX Companies,TJX,2011Q4,2012-01-28,분기말 자산총계,8281605000,USD,공시,https://www.sec.gov/Archives/edgar/data/109198/000119312512134536/,,5
+TJX Companies,TJX,2011Q4,2012-01-28,분기말 부채총계,5072315000,USD,계산(부채및자본-총자본),https://www.sec.gov/Archives/edgar/data/109198/000119312512134536/,부채및자본 8281605000 − 총자본 3209290000,5
+TJX Companies,TJX,2011Q4,2012-01-28,분기말 총자본(자기자본),3209290000,USD,공시,https://www.sec.gov/Archives/edgar/data/109198/000119312512134536/,,5
+TJX Companies,TJX,2011Q4,2012-01-28,분기말 지배지분 자본,3209290000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/109198/000119312512134536/,"StockholdersEquityIncludingPortionAttributableToNoncontrollingInterest, MinorityInterest 태그 없음",5
+TJX Companies,TJX,2011Q4,2012-01-27,분기말 종가,67.37,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/TJX?interval=1d&events=splits (2012-01-27),분할조정 종가 16.8425 × 이후 분할계수 4,5
+TJX Companies,TJX,2011Q4,2012-01-28,분기말 상장주식수,746702028,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/109198/000119312512134536/,dei:EntityCommonStockSharesOutstanding 클래스 합,5
+TJX Companies,TJX,2011Q4,2012-01-27,분기말 시가총액,50305315626,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/TJX?interval=1d&events=splits (2012-01-27) ; https://www.sec.gov/Archives/edgar/data/109198/000119312512134536/,종가 67.37 × 주식수 746702028,5
+TJX Companies,TJX,2012Q1,2012-04-28,분기별 매출액,5798086000,USD,공시,https://www.sec.gov/Archives/edgar/data/109198/000119312512248968/,,5
+TJX Companies,TJX,2012Q1,2012-04-28,분기별 영업이익,미확인,USD,미확인,SEC companyfacts CIK0000109198: 해당 보고서에 OperatingIncomeLoss 태그 없음(영업이익 미공시) ; https://www.sec.gov/Archives/edgar/data/109198/000119312512248968/,,5
+TJX Companies,TJX,2012Q1,2012-04-28,분기별 당기순이익(지배),419200000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/109198/000119312512248968/,,5
+TJX Companies,TJX,2012Q1,2012-04-28,분기별 영업활동현금흐름,704558000,USD,공시,https://www.sec.gov/Archives/edgar/data/109198/000119312512248968/,,5
+TJX Companies,TJX,2012Q1,2012-04-28,분기말 자산총계,8503079000,USD,공시,https://www.sec.gov/Archives/edgar/data/109198/000119312512248968/,,5
+TJX Companies,TJX,2012Q1,2012-04-28,분기말 부채총계,5171266000,USD,계산(부채및자본-총자본),https://www.sec.gov/Archives/edgar/data/109198/000119312512248968/,부채및자본 8503079000 − 총자본 3331813000,5
+TJX Companies,TJX,2012Q1,2012-04-28,분기말 총자본(자기자본),3331813000,USD,공시,https://www.sec.gov/Archives/edgar/data/109198/000119312512248968/,,5
+TJX Companies,TJX,2012Q1,2012-04-28,분기말 지배지분 자본,3331813000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/109198/000119312512248968/,"StockholdersEquityIncludingPortionAttributableToNoncontrollingInterest, MinorityInterest 태그 없음",5
+TJX Companies,TJX,2012Q1,2012-04-27,분기말 종가,42.46,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/TJX?interval=1d&events=splits (2012-04-27),분할조정 종가 21.23 × 이후 분할계수 2,5
+TJX Companies,TJX,2012Q1,2012-04-28,분기말 상장주식수,740952103,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/109198/000119312512248968/,dei:EntityCommonStockSharesOutstanding 클래스 합,5
+TJX Companies,TJX,2012Q1,2012-04-27,분기말 시가총액,31460826293,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/TJX?interval=1d&events=splits (2012-04-27) ; https://www.sec.gov/Archives/edgar/data/109198/000119312512248968/,종가 42.46 × 주식수 740952103,5
+TJX Companies,TJX,2012Q2,2012-07-28,분기별 매출액,5945559000,USD,공시,https://www.sec.gov/Archives/edgar/data/109198/000119312512368181/,,5
+TJX Companies,TJX,2012Q2,2012-07-28,분기별 영업이익,미확인,USD,미확인,SEC companyfacts CIK0000109198: 해당 보고서에 OperatingIncomeLoss 태그 없음(영업이익 미공시) ; https://www.sec.gov/Archives/edgar/data/109198/000119312512368181/,,5
+TJX Companies,TJX,2012Q2,2012-07-28,분기별 당기순이익(지배),421092000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/109198/000119312512368181/,,5
+TJX Companies,TJX,2012Q2,2012-07-28,분기별 영업활동현금흐름,603182000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/109198/000119312512368181/ ; https://www.sec.gov/Archives/edgar/data/109198/000119312512248968/,누적 1307740000 − 직전누적 704558000 (시작 2012-01-29),5
+TJX Companies,TJX,2012Q2,2012-07-28,분기말 자산총계,8636641000,USD,공시,https://www.sec.gov/Archives/edgar/data/109198/000119312512368181/,,5
+TJX Companies,TJX,2012Q2,2012-07-28,분기말 부채총계,5246624000,USD,계산(부채및자본-총자본),https://www.sec.gov/Archives/edgar/data/109198/000119312512368181/,부채및자본 8636641000 − 총자본 3390017000,5
+TJX Companies,TJX,2012Q2,2012-07-28,분기말 총자본(자기자본),3390017000,USD,공시,https://www.sec.gov/Archives/edgar/data/109198/000119312512368181/,,5
+TJX Companies,TJX,2012Q2,2012-07-28,분기말 지배지분 자본,3390017000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/109198/000119312512368181/,"StockholdersEquityIncludingPortionAttributableToNoncontrollingInterest, MinorityInterest 태그 없음",5
+TJX Companies,TJX,2012Q2,2012-07-27,분기말 종가,44.7,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/TJX?interval=1d&events=splits (2012-07-27),분할조정 종가 22.35 × 이후 분할계수 2,5
+TJX Companies,TJX,2012Q2,2012-07-28,분기말 상장주식수,736100493,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/109198/000119312512368181/,dei:EntityCommonStockSharesOutstanding 클래스 합,5
+TJX Companies,TJX,2012Q2,2012-07-27,분기말 시가총액,32903692037,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/TJX?interval=1d&events=splits (2012-07-27) ; https://www.sec.gov/Archives/edgar/data/109198/000119312512368181/,종가 44.7 × 주식수 736100493,5
+TJX Companies,TJX,2012Q3,2012-10-27,분기별 매출액,6410913000,USD,공시,https://www.sec.gov/Archives/edgar/data/109198/000119312512485469/,,5
+TJX Companies,TJX,2012Q3,2012-10-27,분기별 영업이익,미확인,USD,미확인,SEC companyfacts CIK0000109198: 해당 보고서에 OperatingIncomeLoss 태그 없음(영업이익 미공시) ; https://www.sec.gov/Archives/edgar/data/109198/000119312512485469/,,5
+TJX Companies,TJX,2012Q3,2012-10-27,분기별 당기순이익(지배),461551000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/109198/000119312512485469/,,5
+TJX Companies,TJX,2012Q3,2012-10-27,분기별 영업활동현금흐름,772223000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/109198/000119312512485469/ ; https://www.sec.gov/Archives/edgar/data/109198/000119312512368181/,누적 2079963000 − 직전누적 1307740000 (시작 2012-01-29),5
+TJX Companies,TJX,2012Q3,2012-10-27,분기말 자산총계,9172089000,USD,공시,https://www.sec.gov/Archives/edgar/data/109198/000119312512485469/,,5
+TJX Companies,TJX,2012Q3,2012-10-27,분기말 부채총계,5705697000,USD,계산(부채및자본-총자본),https://www.sec.gov/Archives/edgar/data/109198/000119312512485469/,부채및자본 9172089000 − 총자본 3466392000,5
+TJX Companies,TJX,2012Q3,2012-10-27,분기말 총자본(자기자본),3466392000,USD,공시,https://www.sec.gov/Archives/edgar/data/109198/000119312512485469/,,5
+TJX Companies,TJX,2012Q3,2012-10-27,분기말 지배지분 자본,3466392000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/109198/000119312512485469/,"StockholdersEquityIncludingPortionAttributableToNoncontrollingInterest, MinorityInterest 태그 없음",5
+TJX Companies,TJX,2012Q3,2012-10-26,분기말 종가,40.73,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/TJX?interval=1d&events=splits (2012-10-26),분할조정 종가 20.365 × 이후 분할계수 2,5
+TJX Companies,TJX,2012Q3,2012-10-27,분기말 상장주식수,729252705,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/109198/000119312512485469/,dei:EntityCommonStockSharesOutstanding 클래스 합,5
+TJX Companies,TJX,2012Q3,2012-10-26,분기말 시가총액,29702462675,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/TJX?interval=1d&events=splits (2012-10-26) ; https://www.sec.gov/Archives/edgar/data/109198/000119312512485469/,종가 40.73 × 주식수 729252705,5
+TJX Companies,TJX,2012Q4,2013-02-02,분기별 매출액,7723814000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/109198/000119312513138497/ ; https://www.sec.gov/Archives/edgar/data/109198/000119312512485469/,연간 25878372000 − 9개월누적 18154558000 (Revenues),5
+TJX Companies,TJX,2012Q4,2013-02-02,분기별 영업이익,미확인,USD,미확인,SEC companyfacts CIK0000109198: 해당 보고서에 OperatingIncomeLoss 태그 없음(영업이익 미공시) ; https://www.sec.gov/Archives/edgar/data/109198/000119312513138497/,,5
+TJX Companies,TJX,2012Q4,2013-02-02,분기별 당기순이익(지배),604844000,USD,"계산(연간-3분기누적, 비지배 없음)",https://www.sec.gov/Archives/edgar/data/109198/000119312513138497/ ; https://www.sec.gov/Archives/edgar/data/109198/000119312512485469/,연간 1906687000 − 9개월누적 1301843000 (ProfitLoss),5
+TJX Companies,TJX,2012Q4,2013-02-02,분기별 영업활동현금흐름,965651000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/109198/000119312513138497/ ; https://www.sec.gov/Archives/edgar/data/109198/000119312512485469/,누적 3045614000 − 직전누적 2079963000 (시작 2012-01-29),5
+TJX Companies,TJX,2012Q4,2013-02-02,분기말 자산총계,9511855000,USD,공시,https://www.sec.gov/Archives/edgar/data/109198/000119312513138497/,,5
+TJX Companies,TJX,2012Q4,2013-02-02,분기말 부채총계,5845918000,USD,계산(부채및자본-총자본),https://www.sec.gov/Archives/edgar/data/109198/000119312513138497/,부채및자본 9511855000 − 총자본 3665937000,5
+TJX Companies,TJX,2012Q4,2013-02-02,분기말 총자본(자기자본),3665937000,USD,공시,https://www.sec.gov/Archives/edgar/data/109198/000119312513138497/,,5
+TJX Companies,TJX,2012Q4,2013-02-02,분기말 지배지분 자본,3665937000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/109198/000119312513138497/,"StockholdersEquityIncludingPortionAttributableToNoncontrollingInterest, MinorityInterest 태그 없음",5
+TJX Companies,TJX,2012Q4,2013-02-01,분기말 종가,45.3,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/TJX?interval=1d&events=splits (2013-02-01),분할조정 종가 22.65 × 이후 분할계수 2,5
+TJX Companies,TJX,2012Q4,2013-02-02,분기말 상장주식수,723902001,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/109198/000119312513138497/,dei:EntityCommonStockSharesOutstanding 클래스 합,5
+TJX Companies,TJX,2012Q4,2013-02-01,분기말 시가총액,32792760645,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/TJX?interval=1d&events=splits (2013-02-01) ; https://www.sec.gov/Archives/edgar/data/109198/000119312513138497/,종가 45.3 × 주식수 723902001,5
+TJX Companies,TJX,2013Q1,2013-05-04,분기별 매출액,6189609000,USD,공시,https://www.sec.gov/Archives/edgar/data/109198/000119312513243027/,,5
+TJX Companies,TJX,2013Q1,2013-05-04,분기별 영업이익,미확인,USD,미확인,SEC companyfacts CIK0000109198: 해당 보고서에 OperatingIncomeLoss 태그 없음(영업이익 미공시) ; https://www.sec.gov/Archives/edgar/data/109198/000119312513243027/,,5
+TJX Companies,TJX,2013Q1,2013-05-04,분기별 당기순이익(지배),452890000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/109198/000119312513243027/,,5
+TJX Companies,TJX,2013Q1,2013-05-04,분기별 영업활동현금흐름,280749000,USD,공시,https://www.sec.gov/Archives/edgar/data/109198/000119312513243027/,,5
+TJX Companies,TJX,2013Q1,2013-05-04,분기말 자산총계,9840364000,USD,공시,https://www.sec.gov/Archives/edgar/data/109198/000119312513243027/,,5
+TJX Companies,TJX,2013Q1,2013-05-04,분기말 부채총계,6077699000,USD,계산(부채및자본-총자본),https://www.sec.gov/Archives/edgar/data/109198/000119312513243027/,부채및자본 9840364000 − 총자본 3762665000,5
+TJX Companies,TJX,2013Q1,2013-05-04,분기말 총자본(자기자본),3762665000,USD,공시,https://www.sec.gov/Archives/edgar/data/109198/000119312513243027/,,5
+TJX Companies,TJX,2013Q1,2013-05-04,분기말 지배지분 자본,3762665000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/109198/000119312513243027/,"StockholdersEquityIncludingPortionAttributableToNoncontrollingInterest, MinorityInterest 태그 없음",5
+TJX Companies,TJX,2013Q1,2013-05-03,분기말 종가,49.55,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/TJX?interval=1d&events=splits (2013-05-03),분할조정 종가 24.775 × 이후 분할계수 2,5
+TJX Companies,TJX,2013Q1,2013-05-04,분기말 상장주식수,719773253,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/109198/000119312513243027/,dei:EntityCommonStockSharesOutstanding 클래스 합,5
+TJX Companies,TJX,2013Q1,2013-05-03,분기말 시가총액,35664764686,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/TJX?interval=1d&events=splits (2013-05-03) ; https://www.sec.gov/Archives/edgar/data/109198/000119312513243027/,종가 49.55 × 주식수 719773253,5
+TJX Companies,TJX,2013Q2,2013-08-03,분기별 매출액,6442424000,USD,공시,https://www.sec.gov/Archives/edgar/data/109198/000119312513353659/,,5
+TJX Companies,TJX,2013Q2,2013-08-03,분기별 영업이익,미확인,USD,미확인,SEC companyfacts CIK0000109198: 해당 보고서에 OperatingIncomeLoss 태그 없음(영업이익 미공시) ; https://www.sec.gov/Archives/edgar/data/109198/000119312513353659/,,5
+TJX Companies,TJX,2013Q2,2013-08-03,분기별 당기순이익(지배),479559000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/109198/000119312513353659/,,5
+TJX Companies,TJX,2013Q2,2013-08-03,분기별 영업활동현금흐름,530530000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/109198/000119312513353659/ ; https://www.sec.gov/Archives/edgar/data/109198/000119312513243027/,누적 811279000 − 직전누적 280749000 (시작 2013-02-03),5
+TJX Companies,TJX,2013Q2,2013-08-03,분기말 자산총계,9926043000,USD,공시,https://www.sec.gov/Archives/edgar/data/109198/000119312513353659/,,5
+TJX Companies,TJX,2013Q2,2013-08-03,분기말 부채총계,6075904000,USD,계산(부채및자본-총자본),https://www.sec.gov/Archives/edgar/data/109198/000119312513353659/,부채및자본 9926043000 − 총자본 3850139000,5
+TJX Companies,TJX,2013Q2,2013-08-03,분기말 총자본(자기자본),3850139000,USD,공시,https://www.sec.gov/Archives/edgar/data/109198/000119312513353659/,,5
+TJX Companies,TJX,2013Q2,2013-08-03,분기말 지배지분 자본,3850139000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/109198/000119312513353659/,"StockholdersEquityIncludingPortionAttributableToNoncontrollingInterest, MinorityInterest 태그 없음",5
+TJX Companies,TJX,2013Q2,2013-08-02,분기말 종가,53.93,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/TJX?interval=1d&events=splits (2013-08-02),분할조정 종가 26.965 × 이후 분할계수 2,5
+TJX Companies,TJX,2013Q2,2013-08-03,분기말 상장주식수,715235621,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/109198/000119312513353659/,dei:EntityCommonStockSharesOutstanding 클래스 합,5
+TJX Companies,TJX,2013Q2,2013-08-02,분기말 시가총액,38572657041,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/TJX?interval=1d&events=splits (2013-08-02) ; https://www.sec.gov/Archives/edgar/data/109198/000119312513353659/,종가 53.93 × 주식수 715235621,5
+TJX Companies,TJX,2013Q3,2013-11-02,분기별 매출액,6981876000,USD,공시,https://www.sec.gov/Archives/edgar/data/109198/000119312513460472/,,5
+TJX Companies,TJX,2013Q3,2013-11-02,분기별 영업이익,985041000,USD,공시(후속 보고서 비교기간),https://www.sec.gov/Archives/edgar/data/109198/000119312514430808/,OperatingIncomeLoss ; 그 분기 보고서에 연결 총계가 없어 2014-12-02 제출본의 비교기간에서 읽었다,5
+TJX Companies,TJX,2013Q3,2013-11-02,분기별 당기순이익(지배),622655000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/109198/000119312513460472/,,5
+TJX Companies,TJX,2013Q3,2013-11-02,분기별 영업활동현금흐름,822093000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/109198/000119312513460472/ ; https://www.sec.gov/Archives/edgar/data/109198/000119312513353659/,누적 1633372000 − 직전누적 811279000 (시작 2013-02-03),5
+TJX Companies,TJX,2013Q3,2013-11-02,분기말 자산총계,10669239000,USD,공시,https://www.sec.gov/Archives/edgar/data/109198/000119312513460472/,,5
+TJX Companies,TJX,2013Q3,2013-11-02,분기말 부채총계,6545468000,USD,계산(부채및자본-총자본),https://www.sec.gov/Archives/edgar/data/109198/000119312513460472/,부채및자본 10669239000 − 총자본 4123771000,5
+TJX Companies,TJX,2013Q3,2013-11-02,분기말 총자본(자기자본),4123771000,USD,공시,https://www.sec.gov/Archives/edgar/data/109198/000119312513460472/,,5
+TJX Companies,TJX,2013Q3,2013-11-02,분기말 지배지분 자본,4123771000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/109198/000119312513460472/,"StockholdersEquityIncludingPortionAttributableToNoncontrollingInterest, MinorityInterest 태그 없음",5
+TJX Companies,TJX,2013Q3,2013-11-01,분기말 종가,60.88,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/TJX?interval=1d&events=splits (2013-11-01),분할조정 종가 30.44 × 이후 분할계수 2,5
+TJX Companies,TJX,2013Q3,2013-11-02,분기말 상장주식수,711198843,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/109198/000119312513460472/,dei:EntityCommonStockSharesOutstanding 클래스 합,5
+TJX Companies,TJX,2013Q3,2013-11-01,분기말 시가총액,43297785562,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/TJX?interval=1d&events=splits (2013-11-01) ; https://www.sec.gov/Archives/edgar/data/109198/000119312513460472/,종가 60.88 × 주식수 711198843,5
+TJX Companies,TJX,2013Q4,2014-02-01,분기별 매출액,7808787000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/109198/000119312514125980/ ; https://www.sec.gov/Archives/edgar/data/109198/000119312513460472/,연간 27422696000 − 9개월누적 19613909000 (Revenues),5
+TJX Companies,TJX,2013Q4,2014-02-01,분기별 영업이익,미확인,USD,미확인,SEC companyfacts CIK0000109198: 해당 보고서에 OperatingIncomeLoss 태그 없음(영업이익 미공시) ; https://www.sec.gov/Archives/edgar/data/109198/000119312514125980/,,5
+TJX Companies,TJX,2013Q4,2014-02-01,분기별 당기순이익(지배),582292000,USD,"계산(연간-3분기누적, 비지배 없음)",https://www.sec.gov/Archives/edgar/data/109198/000119312514125980/ ; https://www.sec.gov/Archives/edgar/data/109198/000119312513460472/,연간 2137396000 − 9개월누적 1555104000 (ProfitLoss),5
+TJX Companies,TJX,2013Q4,2014-02-01,분기별 영업활동현금흐름,956957000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/109198/000119312514125980/ ; https://www.sec.gov/Archives/edgar/data/109198/000119312513460472/,누적 2590329000 − 직전누적 1633372000 (시작 2013-02-03),5
+TJX Companies,TJX,2013Q4,2014-02-01,분기말 자산총계,10201022000,USD,공시,https://www.sec.gov/Archives/edgar/data/109198/000119312514125980/,,5
+TJX Companies,TJX,2013Q4,2014-02-01,분기말 부채총계,5971129000,USD,계산(부채및자본-총자본),https://www.sec.gov/Archives/edgar/data/109198/000119312514125980/,부채및자본 10201022000 − 총자본 4229893000,5
+TJX Companies,TJX,2013Q4,2014-02-01,분기말 총자본(자기자본),4229893000,USD,공시,https://www.sec.gov/Archives/edgar/data/109198/000119312514125980/,,5
+TJX Companies,TJX,2013Q4,2014-02-01,분기말 지배지분 자본,4229893000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/109198/000119312514125980/,"StockholdersEquityIncludingPortionAttributableToNoncontrollingInterest, MinorityInterest 태그 없음",5
+TJX Companies,TJX,2013Q4,2014-01-31,분기말 종가,57.36,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/TJX?interval=1d&events=splits (2014-01-31),분할조정 종가 28.68 × 이후 분할계수 2,5
+TJX Companies,TJX,2013Q4,2014-03-01,분기말 상장주식수,703683274,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/109198/000119312514125980/,dei:EntityCommonStockSharesOutstanding 클래스 합,5
+TJX Companies,TJX,2013Q4,2014-01-31,분기말 시가총액,40363272597,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/TJX?interval=1d&events=splits (2014-01-31) ; https://www.sec.gov/Archives/edgar/data/109198/000119312514125980/,종가 57.36 × 주식수 703683274,5
+TJX Companies,TJX,2014Q1,2014-05-03,분기별 매출액,6491176000,USD,공시,https://www.sec.gov/Archives/edgar/data/109198/000119312514219652/,,5
+TJX Companies,TJX,2014Q1,2014-05-03,분기별 영업이익,803563000,USD,공시(후속 보고서 비교기간),https://www.sec.gov/Archives/edgar/data/109198/000119312515206466/,OperatingIncomeLoss ; 그 분기 보고서에 연결 총계가 없어 2015-05-29 제출본의 비교기간에서 읽었다,5
+TJX Companies,TJX,2014Q1,2014-05-03,분기별 당기순이익(지배),454317000,USD,공시,https://www.sec.gov/Archives/edgar/data/109198/000119312514219652/,,5
+TJX Companies,TJX,2014Q1,2014-05-03,분기별 영업활동현금흐름,482951000,USD,공시(재작성 반영),https://www.sec.gov/Archives/edgar/data/109198/000119312515206466/,원 공시 473749000 (https://www.sec.gov/Archives/edgar/data/109198/000119312514219652/),5
+TJX Companies,TJX,2014Q1,2014-05-03,분기말 자산총계,10429938000,USD,공시,https://www.sec.gov/Archives/edgar/data/109198/000119312514219652/,,5
+TJX Companies,TJX,2014Q1,2014-05-03,분기말 부채총계,6146444000,USD,계산(부채및자본-총자본),https://www.sec.gov/Archives/edgar/data/109198/000119312514219652/,부채및자본 10429938000 − 총자본 4283494000,5
+TJX Companies,TJX,2014Q1,2014-05-03,분기말 총자본(자기자본),4283494000,USD,공시,https://www.sec.gov/Archives/edgar/data/109198/000119312514219652/,,5
+TJX Companies,TJX,2014Q1,2014-05-03,분기말 지배지분 자본,4283494000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/109198/000119312514219652/,"StockholdersEquityIncludingPortionAttributableToNoncontrollingInterest, MinorityInterest 태그 없음",5
+TJX Companies,TJX,2014Q1,2014-05-02,분기말 종가,58.38,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/TJX?interval=1d&events=splits (2014-05-02),분할조정 종가 29.19 × 이후 분할계수 2,5
+TJX Companies,TJX,2014Q1,2014-05-03,분기말 상장주식수,700312077,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/109198/000119312514219652/,dei:EntityCommonStockSharesOutstanding 클래스 합,5
+TJX Companies,TJX,2014Q1,2014-05-02,분기말 시가총액,40884219055,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/TJX?interval=1d&events=splits (2014-05-02) ; https://www.sec.gov/Archives/edgar/data/109198/000119312514219652/,종가 58.38 × 주식수 700312077,5
+TJX Companies,TJX,2014Q2,2014-08-02,분기별 매출액,6917212000,USD,공시,https://www.sec.gov/Archives/edgar/data/109198/000119312514326553/,,5
+TJX Companies,TJX,2014Q2,2014-08-02,분기별 영업이익,930887000,USD,공시(후속 보고서 비교기간),https://www.sec.gov/Archives/edgar/data/109198/000119312515306470/,OperatingIncomeLoss ; 그 분기 보고서에 연결 총계가 없어 2015-08-28 제출본의 비교기간에서 읽었다,5
+TJX Companies,TJX,2014Q2,2014-08-02,분기별 당기순이익(지배),517624000,USD,공시,https://www.sec.gov/Archives/edgar/data/109198/000119312514326553/,,5
+TJX Companies,TJX,2014Q2,2014-08-02,분기별 영업활동현금흐름,605424000,USD,계산(누적차감)(재작성 반영),https://www.sec.gov/Archives/edgar/data/109198/000119312515306470/ ; https://www.sec.gov/Archives/edgar/data/109198/000119312515206466/,누적 1088375000 − 직전누적 482951000 (시작 2014-02-02) ; 원 공시 602235000 (https://www.sec.gov/Archives/edgar/data/109198/000119312514326553/ ; https://www.sec.gov/Archives/edgar/data/109198/000119312514219652/),5
+TJX Companies,TJX,2014Q2,2014-08-02,분기말 자산총계,10921997000,USD,공시,https://www.sec.gov/Archives/edgar/data/109198/000119312514326553/,,5
+TJX Companies,TJX,2014Q2,2014-08-02,분기말 부채총계,6647345000,USD,계산(부채및자본-총자본),https://www.sec.gov/Archives/edgar/data/109198/000119312514326553/,부채및자본 10921997000 − 총자본 4274652000,5
+TJX Companies,TJX,2014Q2,2014-08-02,분기말 총자본(자기자본),4274652000,USD,공시,https://www.sec.gov/Archives/edgar/data/109198/000119312514326553/,,5
+TJX Companies,TJX,2014Q2,2014-08-02,분기말 지배지분 자본,4274652000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/109198/000119312514326553/,"StockholdersEquityIncludingPortionAttributableToNoncontrollingInterest, MinorityInterest 태그 없음",5
+TJX Companies,TJX,2014Q2,2014-08-01,분기말 종가,53.12,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/TJX?interval=1d&events=splits (2014-08-01),분할조정 종가 26.56 × 이후 분할계수 2,5
+TJX Companies,TJX,2014Q2,2014-08-02,분기말 상장주식수,692941647,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/109198/000119312514326553/,dei:EntityCommonStockSharesOutstanding 클래스 합,5
+TJX Companies,TJX,2014Q2,2014-08-01,분기말 시가총액,36809060289,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/TJX?interval=1d&events=splits (2014-08-01) ; https://www.sec.gov/Archives/edgar/data/109198/000119312514326553/,종가 53.12 × 주식수 692941647,5
+TJX Companies,TJX,2014Q3,2014-11-01,분기별 매출액,7366066000,USD,공시,https://www.sec.gov/Archives/edgar/data/109198/000119312514430808/,,5
+TJX Companies,TJX,2014Q3,2014-11-01,분기별 영업이익,1049644000,USD,공시,https://www.sec.gov/Archives/edgar/data/109198/000119312514430808/,,5
+TJX Companies,TJX,2014Q3,2014-11-01,분기별 당기순이익(지배),594957000,USD,공시,https://www.sec.gov/Archives/edgar/data/109198/000119312514430808/,,5
+TJX Companies,TJX,2014Q3,2014-11-01,분기별 영업활동현금흐름,737166000,USD,계산(누적차감)(재작성 반영),https://www.sec.gov/Archives/edgar/data/109198/000119312515391899/ ; https://www.sec.gov/Archives/edgar/data/109198/000119312515306470/,누적 1825541000 − 직전누적 1088375000 (시작 2014-02-02) ; 원 공시 736353000 (https://www.sec.gov/Archives/edgar/data/109198/000119312514430808/ ; https://www.sec.gov/Archives/edgar/data/109198/000119312514326553/),5
+TJX Companies,TJX,2014Q3,2014-11-01,분기말 자산총계,11592048000,USD,공시,https://www.sec.gov/Archives/edgar/data/109198/000119312514430808/,,5
+TJX Companies,TJX,2014Q3,2014-11-01,분기말 부채총계,7218240000,USD,계산(부채및자본-총자본),https://www.sec.gov/Archives/edgar/data/109198/000119312514430808/,부채및자본 11592048000 − 총자본 4373808000,5
+TJX Companies,TJX,2014Q3,2014-11-01,분기말 총자본(자기자본),4373808000,USD,공시,https://www.sec.gov/Archives/edgar/data/109198/000119312514430808/,,5
+TJX Companies,TJX,2014Q3,2014-11-01,분기말 지배지분 자본,4373808000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/109198/000119312514430808/,"StockholdersEquityIncludingPortionAttributableToNoncontrollingInterest, MinorityInterest 태그 없음",5
+TJX Companies,TJX,2014Q3,2014-10-31,분기말 종가,63.32,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/TJX?interval=1d&events=splits (2014-10-31),분할조정 종가 31.66 × 이후 분할계수 2,5
+TJX Companies,TJX,2014Q3,2014-11-01,분기말 상장주식수,688900341,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/109198/000119312514430808/,dei:EntityCommonStockSharesOutstanding 클래스 합,5
+TJX Companies,TJX,2014Q3,2014-10-31,분기말 시가총액,43621169592,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/TJX?interval=1d&events=splits (2014-10-31) ; https://www.sec.gov/Archives/edgar/data/109198/000119312514430808/,종가 63.32 × 주식수 688900341,5
+TJX Companies,TJX,2014Q4,2015-01-31,분기별 매출액,8303953000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/109198/000119312515114276/ ; https://www.sec.gov/Archives/edgar/data/109198/000119312514430808/,연간 29078407000 − 9개월누적 20774454000 (Revenues),5
+TJX Companies,TJX,2014Q4,2015-01-31,분기별 영업이익,1146821000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/109198/000119312515114276/ ; https://www.sec.gov/Archives/edgar/data/109198/000119312514430808/,연간 3930915000 − 9개월누적 2784094000 (OperatingIncomeLoss),5
+TJX Companies,TJX,2014Q4,2015-01-31,분기별 당기순이익(지배),648230000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/109198/000119312515114276/ ; https://www.sec.gov/Archives/edgar/data/109198/000119312514430808/,연간 2215128000 − 9개월누적 1566898000 (NetIncomeLoss),5
+TJX Companies,TJX,2014Q4,2015-01-31,분기별 영업활동현금흐름,1182828000,USD,계산(누적차감)(재작성 반영),https://www.sec.gov/Archives/edgar/data/109198/000119312515114276/ ; https://www.sec.gov/Archives/edgar/data/109198/000119312515391899/,누적 3008369000 − 직전누적 1825541000 (시작 2014-02-02) ; 원 공시 1196032000 (https://www.sec.gov/Archives/edgar/data/109198/000119312515114276/ ; https://www.sec.gov/Archives/edgar/data/109198/000119312514430808/),5
+TJX Companies,TJX,2014Q4,2015-01-31,분기말 자산총계,11128381000,USD,공시,https://www.sec.gov/Archives/edgar/data/109198/000119312515114276/,,5
+TJX Companies,TJX,2014Q4,2015-01-31,분기말 부채총계,6864151000,USD,계산(부채및자본-총자본),https://www.sec.gov/Archives/edgar/data/109198/000119312515114276/,부채및자본 11128381000 − 총자본 4264230000,5
+TJX Companies,TJX,2014Q4,2015-01-31,분기말 총자본(자기자본),4264230000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/109198/000119312515114276/,"StockholdersEquity, MinorityInterest 태그 없음",5
+TJX Companies,TJX,2014Q4,2015-01-31,분기말 지배지분 자본,4264230000,USD,공시,https://www.sec.gov/Archives/edgar/data/109198/000119312515114276/,,5
+TJX Companies,TJX,2014Q4,2015-01-30,분기말 종가,65.94,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/TJX?interval=1d&events=splits (2015-01-30),분할조정 종가 32.97 × 이후 분할계수 2,5
+TJX Companies,TJX,2014Q4,2015-02-28,분기말 상장주식수,683473567,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/109198/000119312515114276/,dei:EntityCommonStockSharesOutstanding 클래스 합,5
+TJX Companies,TJX,2014Q4,2015-01-30,분기말 시가총액,45068247008,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/TJX?interval=1d&events=splits (2015-01-30) ; https://www.sec.gov/Archives/edgar/data/109198/000119312515114276/,종가 65.94 × 주식수 683473567,5
+TJX Companies,TJX,2015Q1,2015-05-02,분기별 매출액,6865637000,USD,공시,https://www.sec.gov/Archives/edgar/data/109198/000119312515206466/,,5
+TJX Companies,TJX,2015Q1,2015-05-02,분기별 영업이익,845129000,USD,공시,https://www.sec.gov/Archives/edgar/data/109198/000119312515206466/,,5
+TJX Companies,TJX,2015Q1,2015-05-02,분기별 당기순이익(지배),474601000,USD,공시,https://www.sec.gov/Archives/edgar/data/109198/000119312515206466/,,5
+TJX Companies,TJX,2015Q1,2015-05-02,분기별 영업활동현금흐름,447539000,USD,공시,https://www.sec.gov/Archives/edgar/data/109198/000119312515206466/,,5
+TJX Companies,TJX,2015Q1,2015-05-02,분기말 자산총계,11205843000,USD,공시(재작성 반영),https://www.sec.gov/Archives/edgar/data/109198/000119312516605931/,원 공시 11365946000 (https://www.sec.gov/Archives/edgar/data/109198/000119312515206466/),5
+TJX Companies,TJX,2015Q1,2015-05-02,분기말 부채총계,6915553000,USD,계산(부채및자본-총자본)(재작성 반영),https://www.sec.gov/Archives/edgar/data/109198/000119312516605931/,부채및자본 11205843000 − 총자본 4290290000 ; 원 공시 7075656000 (https://www.sec.gov/Archives/edgar/data/109198/000119312515206466/),5
+TJX Companies,TJX,2015Q1,2015-05-02,분기말 총자본(자기자본),4290290000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/109198/000119312515206466/,"StockholdersEquity, MinorityInterest 태그 없음",5
+TJX Companies,TJX,2015Q1,2015-05-02,분기말 지배지분 자본,4290290000,USD,공시,https://www.sec.gov/Archives/edgar/data/109198/000119312515206466/,,5
+TJX Companies,TJX,2015Q1,2015-05-01,분기말 종가,65.55,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/TJX?interval=1d&events=splits (2015-05-01),분할조정 종가 32.775 × 이후 분할계수 2,5
+TJX Companies,TJX,2015Q1,2015-05-02,분기말 상장주식수,680385015,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/109198/000119312515206466/,dei:EntityCommonStockSharesOutstanding 클래스 합,5
+TJX Companies,TJX,2015Q1,2015-05-01,분기말 시가총액,44599237733,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/TJX?interval=1d&events=splits (2015-05-01) ; https://www.sec.gov/Archives/edgar/data/109198/000119312515206466/,종가 65.55 × 주식수 680385015,5
+TJX Companies,TJX,2015Q2,2015-08-01,분기별 매출액,7363731000,USD,공시,https://www.sec.gov/Archives/edgar/data/109198/000119312515306470/,,5
+TJX Companies,TJX,2015Q2,2015-08-01,분기별 영업이익,998236000,USD,공시,https://www.sec.gov/Archives/edgar/data/109198/000119312515306470/,,5
+TJX Companies,TJX,2015Q2,2015-08-01,분기별 당기순이익(지배),549335000,USD,공시,https://www.sec.gov/Archives/edgar/data/109198/000119312515306470/,,5
+TJX Companies,TJX,2015Q2,2015-08-01,분기별 영업활동현금흐름,481041000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/109198/000119312515306470/ ; https://www.sec.gov/Archives/edgar/data/109198/000119312515206466/,누적 928580000 − 직전누적 447539000 (시작 2015-02-01),5
+TJX Companies,TJX,2015Q2,2015-08-01,분기말 자산총계,11200546000,USD,공시(재작성 반영),https://www.sec.gov/Archives/edgar/data/109198/000119312516693604/,원 공시 11341042000 (https://www.sec.gov/Archives/edgar/data/109198/000119312515306470/),5
+TJX Companies,TJX,2015Q2,2015-08-01,분기말 부채총계,6924479000,USD,계산(부채및자본-총자본)(재작성 반영),https://www.sec.gov/Archives/edgar/data/109198/000119312516693604/,부채및자본 11200546000 − 총자본 4276067000 ; 원 공시 7064975000 (https://www.sec.gov/Archives/edgar/data/109198/000119312515306470/),5
+TJX Companies,TJX,2015Q2,2015-08-01,분기말 총자본(자기자본),4276067000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/109198/000119312515306470/,"StockholdersEquity, MinorityInterest 태그 없음",5
+TJX Companies,TJX,2015Q2,2015-08-01,분기말 지배지분 자본,4276067000,USD,공시,https://www.sec.gov/Archives/edgar/data/109198/000119312515306470/,,5
+TJX Companies,TJX,2015Q2,2015-07-31,분기말 종가,69.82,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/TJX?interval=1d&events=splits (2015-07-31),분할조정 종가 34.91 × 이후 분할계수 2,5
+TJX Companies,TJX,2015Q2,2015-08-01,분기말 상장주식수,674370829,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/109198/000119312515306470/,dei:EntityCommonStockSharesOutstanding 클래스 합,5
+TJX Companies,TJX,2015Q2,2015-07-31,분기말 시가총액,47084571281,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/TJX?interval=1d&events=splits (2015-07-31) ; https://www.sec.gov/Archives/edgar/data/109198/000119312515306470/,종가 69.82 × 주식수 674370829,5
+TJX Companies,TJX,2015Q3,2015-10-31,분기별 매출액,7753495000,USD,공시,https://www.sec.gov/Archives/edgar/data/109198/000119312515391899/,,5
+TJX Companies,TJX,2015Q3,2015-10-31,분기별 영업이익,1041335000,USD,공시,https://www.sec.gov/Archives/edgar/data/109198/000119312515391899/,,5
+TJX Companies,TJX,2015Q3,2015-10-31,분기별 당기순이익(지배),587256000,USD,공시,https://www.sec.gov/Archives/edgar/data/109198/000119312515391899/,,5
+TJX Companies,TJX,2015Q3,2015-10-31,분기별 영업활동현금흐름,727984000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/109198/000119312515391899/ ; https://www.sec.gov/Archives/edgar/data/109198/000119312515306470/,누적 1656564000 − 직전누적 928580000 (시작 2015-02-01),5
+TJX Companies,TJX,2015Q3,2015-10-31,분기말 자산총계,11859496000,USD,공시(재작성 반영),https://www.sec.gov/Archives/edgar/data/109198/000119312516780747/,원 공시 11992433000 (https://www.sec.gov/Archives/edgar/data/109198/000119312515391899/),5
+TJX Companies,TJX,2015Q3,2015-10-31,분기말 부채총계,7509035000,USD,계산(부채및자본-총자본)(재작성 반영),https://www.sec.gov/Archives/edgar/data/109198/000119312516780747/,부채및자본 11859496000 − 총자본 4350461000 ; 원 공시 7641972000 (https://www.sec.gov/Archives/edgar/data/109198/000119312515391899/),5
+TJX Companies,TJX,2015Q3,2015-10-31,분기말 총자본(자기자본),4350461000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/109198/000119312515391899/,"StockholdersEquity, MinorityInterest 태그 없음",5
+TJX Companies,TJX,2015Q3,2015-10-31,분기말 지배지분 자본,4350461000,USD,공시,https://www.sec.gov/Archives/edgar/data/109198/000119312515391899/,,5
+TJX Companies,TJX,2015Q3,2015-10-30,분기말 종가,73.19,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/TJX?interval=1d&events=splits (2015-10-30),분할조정 종가 36.595 × 이후 분할계수 2,5
+TJX Companies,TJX,2015Q3,2015-10-31,분기말 상장주식수,669529129,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/109198/000119312515391899/,dei:EntityCommonStockSharesOutstanding 클래스 합,5
+TJX Companies,TJX,2015Q3,2015-10-30,분기말 시가총액,49002836952,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/TJX?interval=1d&events=splits (2015-10-30) ; https://www.sec.gov/Archives/edgar/data/109198/000119312515391899/,종가 73.19 × 주식수 669529129,5
+TJX Companies,TJX,2015Q4,2016-01-30,분기별 매출액,8962075000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/109198/000119312516521424/ ; https://www.sec.gov/Archives/edgar/data/109198/000119312515391899/,연간 30944938000 − 9개월누적 21982863000 (SalesRevenueNet),5
+TJX Companies,TJX,2015Q4,2016-01-30,분기별 영업이익,1215643000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/109198/000119312516521424/ ; https://www.sec.gov/Archives/edgar/data/109198/000119312515391899/,연간 4100343000 − 9개월누적 2884700000 (OperatingIncomeLoss),5
+TJX Companies,TJX,2015Q4,2016-01-30,분기별 당기순이익(지배),666466000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/109198/000119312516521424/ ; https://www.sec.gov/Archives/edgar/data/109198/000119312515391899/,연간 2277658000 − 9개월누적 1611192000 (NetIncomeLoss),5
+TJX Companies,TJX,2015Q4,2016-01-30,분기별 영업활동현금흐름,1300351000,USD,계산(누적차감)(재작성 반영),https://www.sec.gov/Archives/edgar/data/109198/000119312518107423/ ; https://www.sec.gov/Archives/edgar/data/109198/000119312515391899/,누적 2956915000 − 직전누적 1656564000 (시작 2015-02-01) ; 원 공시 1280779000 (https://www.sec.gov/Archives/edgar/data/109198/000119312516521424/ ; https://www.sec.gov/Archives/edgar/data/109198/000119312515391899/),5
+TJX Companies,TJX,2015Q4,2016-01-30,분기말 자산총계,11490431000,USD,공시(재작성 반영),https://www.sec.gov/Archives/edgar/data/109198/000119312518107423/,원 공시 11499482000 (https://www.sec.gov/Archives/edgar/data/109198/000119312516521424/),5
+TJX Companies,TJX,2015Q4,2016-01-30,분기말 부채총계,7183356000,USD,계산(부채및자본-총자본)(재작성 반영),https://www.sec.gov/Archives/edgar/data/109198/000119312517099642/,부채및자본 11490431000 − 총자본 4307075000 ; 원 공시 7192407000 (https://www.sec.gov/Archives/edgar/data/109198/000119312516521424/),5
+TJX Companies,TJX,2015Q4,2016-01-30,분기말 총자본(자기자본),4307075000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/109198/000119312516521424/,"StockholdersEquity, MinorityInterest 태그 없음",5
+TJX Companies,TJX,2015Q4,2016-01-30,분기말 지배지분 자본,4307075000,USD,공시,https://www.sec.gov/Archives/edgar/data/109198/000119312516521424/,,5
+TJX Companies,TJX,2015Q4,2016-01-29,분기말 종가,71.24,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/TJX?interval=1d&events=splits (2016-01-29),분할조정 종가 35.62 × 이후 분할계수 2,5
+TJX Companies,TJX,2015Q4,2016-02-27,분기말 상장주식수,662591204,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/109198/000119312516521424/,dei:EntityCommonStockSharesOutstanding 클래스 합,5
+TJX Companies,TJX,2015Q4,2016-01-29,분기말 시가총액,47202997373,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/TJX?interval=1d&events=splits (2016-01-29) ; https://www.sec.gov/Archives/edgar/data/109198/000119312516521424/,종가 71.24 × 주식수 662591204,5
+TJX Companies,TJX,2016Q1,2016-04-30,분기별 매출액,7542356000,USD,공시,https://www.sec.gov/Archives/edgar/data/109198/000119312516605931/,,5
+TJX Companies,TJX,2016Q1,2016-04-30,분기별 영업이익,918886000,USD,공시,https://www.sec.gov/Archives/edgar/data/109198/000119312516605931/,,5
+TJX Companies,TJX,2016Q1,2016-04-30,분기별 당기순이익(지배),508346000,USD,공시,https://www.sec.gov/Archives/edgar/data/109198/000119312516605931/,,5
+TJX Companies,TJX,2016Q1,2016-04-30,분기별 영업활동현금흐름,445233000,USD,공시(재작성 반영),https://www.sec.gov/Archives/edgar/data/109198/000119312517184984/,원 공시 420268000 (https://www.sec.gov/Archives/edgar/data/109198/000119312516605931/),5
+TJX Companies,TJX,2016Q1,2016-04-30,분기말 자산총계,11704722000,USD,공시,https://www.sec.gov/Archives/edgar/data/109198/000119312516605931/,,5
+TJX Companies,TJX,2016Q1,2016-04-30,분기말 부채총계,7169753000,USD,계산(부채및자본-총자본),https://www.sec.gov/Archives/edgar/data/109198/000119312516605931/,부채및자본 11704722000 − 총자본 4534969000,5
+TJX Companies,TJX,2016Q1,2016-04-30,분기말 총자본(자기자본),4534969000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/109198/000119312516605931/,"StockholdersEquity, MinorityInterest 태그 없음",5
+TJX Companies,TJX,2016Q1,2016-04-30,분기말 지배지분 자본,4534969000,USD,공시,https://www.sec.gov/Archives/edgar/data/109198/000119312516605931/,,5
+TJX Companies,TJX,2016Q1,2016-04-29,분기말 종가,75.82,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/TJX?interval=1d&events=splits (2016-04-29),분할조정 종가 37.91 × 이후 분할계수 2,5
+TJX Companies,TJX,2016Q1,2016-04-30,분기말 상장주식수,661083496,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/109198/000119312516605931/,dei:EntityCommonStockSharesOutstanding 클래스 합,5
+TJX Companies,TJX,2016Q1,2016-04-29,분기말 시가총액,50123350667,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/TJX?interval=1d&events=splits (2016-04-29) ; https://www.sec.gov/Archives/edgar/data/109198/000119312516605931/,종가 75.82 × 주식수 661083496,5
+TJX Companies,TJX,2016Q2,2016-07-30,분기별 매출액,7882053000,USD,공시,https://www.sec.gov/Archives/edgar/data/109198/000119312516693604/,,5
+TJX Companies,TJX,2016Q2,2016-07-30,분기별 영업이익,1035194000,USD,공시,https://www.sec.gov/Archives/edgar/data/109198/000119312516693604/,,5
+TJX Companies,TJX,2016Q2,2016-07-30,분기별 당기순이익(지배),562174000,USD,공시,https://www.sec.gov/Archives/edgar/data/109198/000119312516693604/,,5
+TJX Companies,TJX,2016Q2,2016-07-30,분기별 영업활동현금흐름,738351000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/109198/000119312516693604/ ; https://www.sec.gov/Archives/edgar/data/109198/000119312516605931/,누적 1158619000 − 직전누적 420268000 (시작 2016-01-31),5
+TJX Companies,TJX,2016Q2,2016-07-30,분기말 자산총계,11670653000,USD,공시,https://www.sec.gov/Archives/edgar/data/109198/000119312516693604/,,5
+TJX Companies,TJX,2016Q2,2016-07-30,분기말 부채총계,7219297000,USD,계산(부채및자본-총자본),https://www.sec.gov/Archives/edgar/data/109198/000119312516693604/,부채및자본 11670653000 − 총자본 4451356000,5
+TJX Companies,TJX,2016Q2,2016-07-30,분기말 총자본(자기자본),4451356000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/109198/000119312516693604/,"StockholdersEquity, MinorityInterest 태그 없음",5
+TJX Companies,TJX,2016Q2,2016-07-30,분기말 지배지분 자본,4451356000,USD,공시,https://www.sec.gov/Archives/edgar/data/109198/000119312516693604/,,5
+TJX Companies,TJX,2016Q2,2016-07-29,분기말 종가,81.72,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/TJX?interval=1d&events=splits (2016-07-29),분할조정 종가 40.86 × 이후 분할계수 2,5
+TJX Companies,TJX,2016Q2,2016-07-30,분기말 상장주식수,656644919,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/109198/000119312516693604/,dei:EntityCommonStockSharesOutstanding 클래스 합,5
+TJX Companies,TJX,2016Q2,2016-07-29,분기말 시가총액,53661022781,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/TJX?interval=1d&events=splits (2016-07-29) ; https://www.sec.gov/Archives/edgar/data/109198/000119312516693604/,종가 81.72 × 주식수 656644919,5
+TJX Companies,TJX,2016Q3,2016-10-29,분기별 매출액,8291688000,USD,공시,https://www.sec.gov/Archives/edgar/data/109198/000119312516780747/,,5
+TJX Companies,TJX,2016Q3,2016-10-29,분기별 영업이익,1083143000,USD,공시,https://www.sec.gov/Archives/edgar/data/109198/000119312516780747/,,5
+TJX Companies,TJX,2016Q3,2016-10-29,분기별 당기순이익(지배),549786000,USD,공시,https://www.sec.gov/Archives/edgar/data/109198/000119312516780747/,,5
+TJX Companies,TJX,2016Q3,2016-10-29,분기별 영업활동현금흐름,928675000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/109198/000119312516780747/ ; https://www.sec.gov/Archives/edgar/data/109198/000119312516693604/,누적 2087294000 − 직전누적 1158619000 (시작 2016-01-31),5
+TJX Companies,TJX,2016Q3,2016-10-29,분기말 자산총계,12866836000,USD,공시,https://www.sec.gov/Archives/edgar/data/109198/000119312516780747/,,5
+TJX Companies,TJX,2016Q3,2016-10-29,분기말 부채총계,8537025000,USD,계산(부채및자본-총자본),https://www.sec.gov/Archives/edgar/data/109198/000119312516780747/,부채및자본 12866836000 − 총자본 4329811000,5
+TJX Companies,TJX,2016Q3,2016-10-29,분기말 총자본(자기자본),4329811000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/109198/000119312516780747/,"StockholdersEquity, MinorityInterest 태그 없음",5
+TJX Companies,TJX,2016Q3,2016-10-29,분기말 지배지분 자본,4329811000,USD,공시,https://www.sec.gov/Archives/edgar/data/109198/000119312516780747/,,5
+TJX Companies,TJX,2016Q3,2016-10-28,분기말 종가,73.48,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/TJX?interval=1d&events=splits (2016-10-28),분할조정 종가 36.74 × 이후 분할계수 2,5
+TJX Companies,TJX,2016Q3,2016-10-29,분기말 상장주식수,651900739,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/109198/000119312516780747/,dei:EntityCommonStockSharesOutstanding 클래스 합,5
+TJX Companies,TJX,2016Q3,2016-10-28,분기말 시가총액,47901666302,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/TJX?interval=1d&events=splits (2016-10-28) ; https://www.sec.gov/Archives/edgar/data/109198/000119312516780747/,종가 73.48 × 주식수 651900739,5
+TJX Companies,TJX,2016Q4,2017-01-28,분기별 매출액,9467647000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/109198/000119312517099642/ ; https://www.sec.gov/Archives/edgar/data/109198/000119312516780747/,연간 33183744000 − 9개월누적 23716097000 (SalesRevenueNet),5
+TJX Companies,TJX,2016Q4,2017-01-28,분기별 영업이익,1220536000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/109198/000119312517099642/ ; https://www.sec.gov/Archives/edgar/data/109198/000119312516780747/,연간 4257759000 − 9개월누적 3037223000 (OperatingIncomeLoss),5
+TJX Companies,TJX,2016Q4,2017-01-28,분기별 당기순이익(지배),677928000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/109198/000119312517099642/ ; https://www.sec.gov/Archives/edgar/data/109198/000119312516780747/,연간 2298234000 − 9개월누적 1620306000 (NetIncomeLoss),5
+TJX Companies,TJX,2016Q4,2017-01-28,분기별 영업활동현금흐름,1514600000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/109198/000119312517099642/ ; https://www.sec.gov/Archives/edgar/data/109198/000119312516780747/,누적 3601894000 − 직전누적 2087294000 (시작 2016-01-31),5
+TJX Companies,TJX,2016Q4,2017-01-28,분기말 자산총계,12883808000,USD,공시,https://www.sec.gov/Archives/edgar/data/109198/000119312517099642/,,5
+TJX Companies,TJX,2016Q4,2017-01-28,분기말 부채총계,8373209000,USD,계산(부채및자본-총자본),https://www.sec.gov/Archives/edgar/data/109198/000119312517099642/,부채및자본 12883808000 − 총자본 4510599000,5
+TJX Companies,TJX,2016Q4,2017-01-28,분기말 총자본(자기자본),4510599000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/109198/000119312517099642/,"StockholdersEquity, MinorityInterest 태그 없음",5
+TJX Companies,TJX,2016Q4,2017-01-28,분기말 지배지분 자본,4510599000,USD,공시,https://www.sec.gov/Archives/edgar/data/109198/000119312517099642/,,5
+TJX Companies,TJX,2016Q4,2017-01-27,분기말 종가,74.26,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/TJX?interval=1d&events=splits (2017-01-27),분할조정 종가 37.13 × 이후 분할계수 2,5
+TJX Companies,TJX,2016Q4,2017-02-25,분기말 상장주식수,645589872,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/109198/000119312517099642/,dei:EntityCommonStockSharesOutstanding 클래스 합,5
+TJX Companies,TJX,2016Q4,2017-01-27,분기말 시가총액,47941503895,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/TJX?interval=1d&events=splits (2017-01-27) ; https://www.sec.gov/Archives/edgar/data/109198/000119312517099642/,종가 74.26 × 주식수 645589872,5
+TJX Companies,TJX,2017Q1,2017-04-29,분기별 매출액,7784024000,USD,공시,https://www.sec.gov/Archives/edgar/data/109198/000119312517184984/,,5
+TJX Companies,TJX,2017Q1,2017-04-29,분기별 영업이익,948997000,USD,공시,https://www.sec.gov/Archives/edgar/data/109198/000119312517184984/,,5
+TJX Companies,TJX,2017Q1,2017-04-29,분기별 당기순이익(지배),536279000,USD,공시,https://www.sec.gov/Archives/edgar/data/109198/000119312517184984/,,5
+TJX Companies,TJX,2017Q1,2017-04-29,분기별 영업활동현금흐름,448434000,USD,공시,https://www.sec.gov/Archives/edgar/data/109198/000119312517184984/,,5
+TJX Companies,TJX,2017Q1,2017-04-29,분기말 자산총계,12763481000,USD,공시,https://www.sec.gov/Archives/edgar/data/109198/000119312517184984/,,5
+TJX Companies,TJX,2017Q1,2017-04-29,분기말 부채총계,8209958000,USD,계산(부채및자본-총자본),https://www.sec.gov/Archives/edgar/data/109198/000119312517184984/,부채및자본 12763481000 − 총자본 4553523000,5
+TJX Companies,TJX,2017Q1,2017-04-29,분기말 총자본(자기자본),4553523000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/109198/000119312517184984/,"StockholdersEquity, MinorityInterest 태그 없음",5
+TJX Companies,TJX,2017Q1,2017-04-29,분기말 지배지분 자본,4553523000,USD,공시,https://www.sec.gov/Archives/edgar/data/109198/000119312517184984/,,5
+TJX Companies,TJX,2017Q1,2017-04-28,분기말 종가,78.64,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/TJX?interval=1d&events=splits (2017-04-28),분할조정 종가 39.32 × 이후 분할계수 2,5
+TJX Companies,TJX,2017Q1,2017-04-29,분기말 상장주식수,643276269,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/109198/000119312517184984/,dei:EntityCommonStockSharesOutstanding 클래스 합,5
+TJX Companies,TJX,2017Q1,2017-04-28,분기말 시가총액,50587245794,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/TJX?interval=1d&events=splits (2017-04-28) ; https://www.sec.gov/Archives/edgar/data/109198/000119312517184984/,종가 78.64 × 주식수 643276269,5
+TJX Companies,TJX,2017Q2,2017-07-29,분기별 매출액,8357700000,USD,공시,https://www.sec.gov/Archives/edgar/data/109198/000119312517267948/,,5
+TJX Companies,TJX,2017Q2,2017-07-29,분기별 영업이익,1010422000,USD,공시,https://www.sec.gov/Archives/edgar/data/109198/000119312517267948/,,5
+TJX Companies,TJX,2017Q2,2017-07-29,분기별 당기순이익(지배),552957000,USD,공시,https://www.sec.gov/Archives/edgar/data/109198/000119312517267948/,,5
+TJX Companies,TJX,2017Q2,2017-07-29,분기별 영업활동현금흐름,654612000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/109198/000119312517267948/ ; https://www.sec.gov/Archives/edgar/data/109198/000119312517184984/,누적 1103046000 − 직전누적 448434000 (시작 2017-01-29),5
+TJX Companies,TJX,2017Q2,2017-07-29,분기말 자산총계,12935615000,USD,공시,https://www.sec.gov/Archives/edgar/data/109198/000119312517267948/,,5
+TJX Companies,TJX,2017Q2,2017-07-29,분기말 부채총계,8394811000,USD,계산(부채및자본-총자본),https://www.sec.gov/Archives/edgar/data/109198/000119312517267948/,부채및자본 12935615000 − 총자본 4540804000,5
+TJX Companies,TJX,2017Q2,2017-07-29,분기말 총자본(자기자본),4540804000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/109198/000119312517267948/,"StockholdersEquity, MinorityInterest 태그 없음",5
+TJX Companies,TJX,2017Q2,2017-07-29,분기말 지배지분 자본,4540804000,USD,공시,https://www.sec.gov/Archives/edgar/data/109198/000119312517267948/,,5
+TJX Companies,TJX,2017Q2,2017-07-28,분기말 종가,69.6,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/TJX?interval=1d&events=splits (2017-07-28),분할조정 종가 34.8 × 이후 분할계수 2,5
+TJX Companies,TJX,2017Q2,2017-07-29,분기말 상장주식수,636274241,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/109198/000119312517267948/,dei:EntityCommonStockSharesOutstanding 클래스 합,5
+TJX Companies,TJX,2017Q2,2017-07-28,분기말 시가총액,44284687174,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/TJX?interval=1d&events=splits (2017-07-28) ; https://www.sec.gov/Archives/edgar/data/109198/000119312517267948/,종가 69.6 × 주식수 636274241,5
+TJX Companies,TJX,2017Q3,2017-10-28,분기별 매출액,8762220000,USD,공시,https://www.sec.gov/Archives/edgar/data/109198/000119312517353853/,,5
+TJX Companies,TJX,2017Q3,2017-10-28,분기별 영업이익,1123465000,USD,공시,https://www.sec.gov/Archives/edgar/data/109198/000119312517353853/,,5
+TJX Companies,TJX,2017Q3,2017-10-28,분기별 당기순이익(지배),641436000,USD,공시,https://www.sec.gov/Archives/edgar/data/109198/000119312517353853/,,5
+TJX Companies,TJX,2017Q3,2017-10-28,분기별 영업활동현금흐름,826377000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/109198/000119312517353853/ ; https://www.sec.gov/Archives/edgar/data/109198/000119312517267948/,누적 1929423000 − 직전누적 1103046000 (시작 2017-01-29),5
+TJX Companies,TJX,2017Q3,2017-10-28,분기말 자산총계,13877695000,USD,공시,https://www.sec.gov/Archives/edgar/data/109198/000119312517353853/,,5
+TJX Companies,TJX,2017Q3,2017-10-28,분기말 부채총계,9232087000,USD,계산(부채및자본-총자본),https://www.sec.gov/Archives/edgar/data/109198/000119312517353853/,부채및자본 13877695000 − 총자본 4645608000,5
+TJX Companies,TJX,2017Q3,2017-10-28,분기말 총자본(자기자본),4645608000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/109198/000119312517353853/,"StockholdersEquity, MinorityInterest 태그 없음",5
+TJX Companies,TJX,2017Q3,2017-10-28,분기말 지배지분 자본,4645608000,USD,공시,https://www.sec.gov/Archives/edgar/data/109198/000119312517353853/,,5
+TJX Companies,TJX,2017Q3,2017-10-27,분기말 종가,70.54,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/TJX?interval=1d&events=splits (2017-10-27),분할조정 종가 35.27 × 이후 분할계수 2,5
+TJX Companies,TJX,2017Q3,2017-10-28,분기말 상장주식수,632302505,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/109198/000119312517353853/,dei:EntityCommonStockSharesOutstanding 클래스 합,5
+TJX Companies,TJX,2017Q3,2017-10-27,분기말 시가총액,44602618703,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/TJX?interval=1d&events=splits (2017-10-27) ; https://www.sec.gov/Archives/edgar/data/109198/000119312517353853/,종가 70.54 × 주식수 632302505,5
+TJX Companies,TJX,2017Q4,2018-02-03,분기별 매출액,10960720000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/109198/000119312518107423/ ; https://www.sec.gov/Archives/edgar/data/109198/000119312517353853/,연간 35864664000 − 9개월누적 24903944000 (SalesRevenueNet),5
+TJX Companies,TJX,2017Q4,2018-02-03,분기별 영업이익,1320324000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/109198/000119312518107423/ ; https://www.sec.gov/Archives/edgar/data/109198/000119312517353853/,연간 4403208000 − 9개월누적 3082884000 (OperatingIncomeLoss),5
+TJX Companies,TJX,2017Q4,2018-02-03,분기별 당기순이익(지배),877276000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/109198/000119312518107423/ ; https://www.sec.gov/Archives/edgar/data/109198/000119312517353853/,연간 2607948000 − 9개월누적 1730672000 (NetIncomeLoss),5
+TJX Companies,TJX,2017Q4,2018-02-03,분기별 영업활동현금흐름,1096201000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/109198/000119312518107423/ ; https://www.sec.gov/Archives/edgar/data/109198/000119312517353853/,누적 3025624000 − 직전누적 1929423000 (시작 2017-01-29),5
+TJX Companies,TJX,2017Q4,2018-02-03,분기말 자산총계,14058015000,USD,공시,https://www.sec.gov/Archives/edgar/data/109198/000119312518107423/,,5
+TJX Companies,TJX,2017Q4,2018-02-03,분기말 부채총계,8909706000,USD,계산(부채및자본-총자본),https://www.sec.gov/Archives/edgar/data/109198/000119312518107423/,부채및자본 14058015000 − 총자본 5148309000,5
+TJX Companies,TJX,2017Q4,2018-02-03,분기말 총자본(자기자본),5148309000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/109198/000119312518107423/,"StockholdersEquity, MinorityInterest 태그 없음",5
+TJX Companies,TJX,2017Q4,2018-02-03,분기말 지배지분 자본,5148309000,USD,공시,https://www.sec.gov/Archives/edgar/data/109198/000119312518107423/,,5
+TJX Companies,TJX,2017Q4,2018-02-02,분기말 종가,78.47,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/TJX?interval=1d&events=splits (2018-02-02),분할조정 종가 39.235 × 이후 분할계수 2,5
+TJX Companies,TJX,2017Q4,2018-03-03,분기말 상장주식수,627072378,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/109198/000119312518107423/,dei:EntityCommonStockSharesOutstanding 클래스 합,5
+TJX Companies,TJX,2017Q4,2018-02-02,분기말 시가총액,49206369502,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/TJX?interval=1d&events=splits (2018-02-02) ; https://www.sec.gov/Archives/edgar/data/109198/000119312518107423/,종가 78.47 × 주식수 627072378,5
+TJX Companies,TJX,2018Q1,2018-05-05,분기별 매출액,8688720000,USD,공시,https://www.sec.gov/Archives/edgar/data/109198/000119312518181451/,,5
+TJX Companies,TJX,2018Q1,2018-05-05,분기별 영업이익,1063826000,USD,공시,https://www.sec.gov/Archives/edgar/data/109198/000119312518181451/,,5
+TJX Companies,TJX,2018Q1,2018-05-05,분기별 당기순이익(지배),716381000,USD,공시,https://www.sec.gov/Archives/edgar/data/109198/000119312518181451/,,5
+TJX Companies,TJX,2018Q1,2018-05-05,분기별 영업활동현금흐름,724885000,USD,공시,https://www.sec.gov/Archives/edgar/data/109198/000119312518181451/,,5
+TJX Companies,TJX,2018Q1,2018-05-05,분기말 자산총계,14007124000,USD,공시,https://www.sec.gov/Archives/edgar/data/109198/000119312518181451/,,5
+TJX Companies,TJX,2018Q1,2018-05-05,분기말 부채총계,8744716000,USD,계산(부채및자본-총자본),https://www.sec.gov/Archives/edgar/data/109198/000119312518181451/,부채및자본 14007124000 − 총자본 5262408000,5
+TJX Companies,TJX,2018Q1,2018-05-05,분기말 총자본(자기자본),5262408000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/109198/000119312518181451/,"StockholdersEquity, MinorityInterest 태그 없음",5
+TJX Companies,TJX,2018Q1,2018-05-05,분기말 지배지분 자본,5262408000,USD,공시,https://www.sec.gov/Archives/edgar/data/109198/000119312518181451/,,5
+TJX Companies,TJX,2018Q1,2018-05-04,분기말 종가,82.83,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/TJX?interval=1d&events=splits (2018-05-04),분할조정 종가 41.415 × 이후 분할계수 2,5
+TJX Companies,TJX,2018Q1,2018-05-05,분기말 상장주식수,625202688,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/109198/000119312518181451/,dei:EntityCommonStockSharesOutstanding 클래스 합,5
+TJX Companies,TJX,2018Q1,2018-05-04,분기말 시가총액,51785538647,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/TJX?interval=1d&events=splits (2018-05-04) ; https://www.sec.gov/Archives/edgar/data/109198/000119312518181451/,종가 82.83 × 주식수 625202688,5
+TJX Companies,TJX,2018Q2,2018-08-04,분기별 매출액,9331115000,USD,공시,https://www.sec.gov/Archives/edgar/data/109198/000162828018011568/,,5
+TJX Companies,TJX,2018Q2,2018-08-04,분기별 영업이익,1159831000,USD,공시,https://www.sec.gov/Archives/edgar/data/109198/000162828018011568/,,5
+TJX Companies,TJX,2018Q2,2018-08-04,분기별 당기순이익(지배),739626000,USD,공시,https://www.sec.gov/Archives/edgar/data/109198/000162828018011568/,,5
+TJX Companies,TJX,2018Q2,2018-08-04,분기별 영업활동현금흐름,835780000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/109198/000162828018011568/ ; https://www.sec.gov/Archives/edgar/data/109198/000119312518181451/,누적 1560665000 − 직전누적 724885000 (시작 2018-02-04),5
+TJX Companies,TJX,2018Q2,2018-08-04,분기말 자산총계,14111428000,USD,공시,https://www.sec.gov/Archives/edgar/data/109198/000162828018011568/,,5
+TJX Companies,TJX,2018Q2,2018-08-04,분기말 부채총계,8884355000,USD,계산(부채및자본-총자본),https://www.sec.gov/Archives/edgar/data/109198/000162828018011568/,부채및자본 14111428000 − 총자본 5227073000,5
+TJX Companies,TJX,2018Q2,2018-08-04,분기말 총자본(자기자본),5227073000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/109198/000162828018011568/,"StockholdersEquity, MinorityInterest 태그 없음",5
+TJX Companies,TJX,2018Q2,2018-08-04,분기말 지배지분 자본,5227073000,USD,공시,https://www.sec.gov/Archives/edgar/data/109198/000162828018011568/,,5
+TJX Companies,TJX,2018Q2,2018-08-03,분기말 종가,97.59,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/TJX?interval=1d&events=splits (2018-08-03),분할조정 종가 48.795 × 이후 분할계수 2,5
+TJX Companies,TJX,2018Q2,2018-08-04,분기말 상장주식수,620766706,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/109198/000162828018011568/,dei:EntityCommonStockSharesOutstanding 클래스 합,5
+TJX Companies,TJX,2018Q2,2018-08-03,분기말 시가총액,60580622839,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/TJX?interval=1d&events=splits (2018-08-03) ; https://www.sec.gov/Archives/edgar/data/109198/000162828018011568/,종가 97.59 × 주식수 620766706,5
+TJX Companies,TJX,2018Q3,2018-11-03,분기별 매출액,9825759000,USD,공시,https://www.sec.gov/Archives/edgar/data/109198/000162828018014818/,,5
+TJX Companies,TJX,2018Q3,2018-11-03,분기별 영업이익,1213603000,USD,공시,https://www.sec.gov/Archives/edgar/data/109198/000162828018014818/,,5
+TJX Companies,TJX,2018Q3,2018-11-03,분기별 당기순이익(지배),762253000,USD,공시,https://www.sec.gov/Archives/edgar/data/109198/000162828018014818/,,5
+TJX Companies,TJX,2018Q3,2018-11-03,분기별 영업활동현금흐름,917092000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/109198/000162828018014818/ ; https://www.sec.gov/Archives/edgar/data/109198/000162828018011568/,누적 2477757000 − 직전누적 1560665000 (시작 2018-02-04),5
+TJX Companies,TJX,2018Q3,2018-11-03,분기말 자산총계,15025242000,USD,공시,https://www.sec.gov/Archives/edgar/data/109198/000162828018014818/,,5
+TJX Companies,TJX,2018Q3,2018-11-03,분기말 부채총계,9768369000,USD,계산(부채및자본-총자본),https://www.sec.gov/Archives/edgar/data/109198/000162828018014818/,부채및자본 15025242000 − 총자본 5256873000,5
+TJX Companies,TJX,2018Q3,2018-11-03,분기말 총자본(자기자본),5256873000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/109198/000162828018014818/,"StockholdersEquity, MinorityInterest 태그 없음",5
+TJX Companies,TJX,2018Q3,2018-11-03,분기말 지배지분 자본,5256873000,USD,공시,https://www.sec.gov/Archives/edgar/data/109198/000162828018014818/,,5
+TJX Companies,TJX,2018Q3,2018-11-02,분기말 종가,109.49,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/TJX?interval=1d&events=splits (2018-11-02),분할조정 종가 54.745 × 이후 분할계수 2,5
+TJX Companies,TJX,2018Q3,2018-11-03,분기말 상장주식수,1233145248,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/109198/000162828018014818/,dei:EntityCommonStockSharesOutstanding 클래스 합,5
+TJX Companies,TJX,2018Q3,2018-11-02,분기말 시가총액,135017073204,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/TJX?interval=1d&events=splits (2018-11-02) ; https://www.sec.gov/Archives/edgar/data/109198/000162828018014818/,종가 109.49 × 주식수 1233145248,5
+TJX Companies,TJX,2018Q4,2019-02-02,분기별 매출액,11127340000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/109198/000162828019003834/ ; https://www.sec.gov/Archives/edgar/data/109198/000162828018014818/,연간 38972934000 − 9개월누적 27845594000 (RevenueFromContractWithCustomerIncludingAssessedTax),5
+TJX Companies,TJX,2018Q4,2019-02-02,분기별 영업이익,1325967000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/109198/000162828019003834/ ; https://www.sec.gov/Archives/edgar/data/109198/000162828018014818/,연간 4763227000 − 9개월누적 3437260000 (OperatingIncomeLoss),5
+TJX Companies,TJX,2018Q4,2019-02-02,분기별 당기순이익(지배),841538000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/109198/000162828019003834/ ; https://www.sec.gov/Archives/edgar/data/109198/000162828018014818/,연간 3059798000 − 9개월누적 2218260000 (NetIncomeLoss),5
+TJX Companies,TJX,2018Q4,2019-02-02,분기별 영업활동현금흐름,1610702000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/109198/000162828019003834/ ; https://www.sec.gov/Archives/edgar/data/109198/000162828018014818/,누적 4088459000 − 직전누적 2477757000 (시작 2018-02-04),5
+TJX Companies,TJX,2018Q4,2019-02-02,분기말 자산총계,14326029000,USD,공시,https://www.sec.gov/Archives/edgar/data/109198/000162828019003834/,,5
+TJX Companies,TJX,2018Q4,2019-02-02,분기말 부채총계,9277423000,USD,계산(부채및자본-총자본),https://www.sec.gov/Archives/edgar/data/109198/000162828019003834/,부채및자본 14326029000 − 총자본 5048606000,5
+TJX Companies,TJX,2018Q4,2019-02-02,분기말 총자본(자기자본),5048606000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/109198/000162828019003834/,"StockholdersEquity, MinorityInterest 태그 없음",5
+TJX Companies,TJX,2018Q4,2019-02-02,분기말 지배지분 자본,5048606000,USD,공시,https://www.sec.gov/Archives/edgar/data/109198/000162828019003834/,,5
+TJX Companies,TJX,2018Q4,2019-02-01,분기말 종가,48.9,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/TJX?interval=1d&events=splits (2019-02-01),,5
+TJX Companies,TJX,2018Q4,2019-03-02,분기말 상장주식수,1214588500,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/109198/000162828019003834/,dei:EntityCommonStockSharesOutstanding 클래스 합,5
+TJX Companies,TJX,2018Q4,2019-02-01,분기말 시가총액,59393377650,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/TJX?interval=1d&events=splits (2019-02-01) ; https://www.sec.gov/Archives/edgar/data/109198/000162828019003834/,종가 48.9 × 주식수 1214588500,5
+TJX Companies,TJX,2019Q1,2019-05-04,분기별 매출액,9277585000,USD,공시,https://www.sec.gov/Archives/edgar/data/109198/000162828019007432/,,5
+TJX Companies,TJX,2019Q1,2019-05-04,분기별 영업이익,미확인,USD,미확인,SEC companyfacts CIK0000109198: 해당 보고서에 OperatingIncomeLoss 태그 없음(영업이익 미공시) ; https://www.sec.gov/Archives/edgar/data/109198/000162828019007432/,,5
+TJX Companies,TJX,2019Q1,2019-05-04,분기별 당기순이익(지배),700178000,USD,공시,https://www.sec.gov/Archives/edgar/data/109198/000162828019007432/,,5
+TJX Companies,TJX,2019Q1,2019-05-04,분기별 영업활동현금흐름,149239000,USD,공시,https://www.sec.gov/Archives/edgar/data/109198/000162828019007432/,,5
+TJX Companies,TJX,2019Q1,2019-05-04,분기말 자산총계,22489064000,USD,공시,https://www.sec.gov/Archives/edgar/data/109198/000162828019007432/,,5
+TJX Companies,TJX,2019Q1,2019-05-04,분기말 부채총계,17357169000,USD,계산(부채및자본-총자본),https://www.sec.gov/Archives/edgar/data/109198/000162828019007432/,부채및자본 22489064000 − 총자본 5131895000,5
+TJX Companies,TJX,2019Q1,2019-05-04,분기말 총자본(자기자본),5131895000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/109198/000162828019007432/,"StockholdersEquity, MinorityInterest 태그 없음",5
+TJX Companies,TJX,2019Q1,2019-05-04,분기말 지배지분 자본,5131895000,USD,공시,https://www.sec.gov/Archives/edgar/data/109198/000162828019007432/,,5
+TJX Companies,TJX,2019Q1,2019-05-03,분기말 종가,54.03,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/TJX?interval=1d&events=splits (2019-05-03),,5
+TJX Companies,TJX,2019Q1,2019-05-04,분기말 상장주식수,1212667546,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/109198/000162828019007432/,dei:EntityCommonStockSharesOutstanding 클래스 합,5
+TJX Companies,TJX,2019Q1,2019-05-03,분기말 시가총액,65520427510,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/TJX?interval=1d&events=splits (2019-05-03) ; https://www.sec.gov/Archives/edgar/data/109198/000162828019007432/,종가 54.03 × 주식수 1212667546,5
+TJX Companies,TJX,2019Q2,2019-08-03,분기별 매출액,9781596000,USD,공시,https://www.sec.gov/Archives/edgar/data/109198/000162828019011321/,,5
+TJX Companies,TJX,2019Q2,2019-08-03,분기별 영업이익,미확인,USD,미확인,SEC companyfacts CIK0000109198: 해당 보고서에 OperatingIncomeLoss 태그 없음(영업이익 미공시) ; https://www.sec.gov/Archives/edgar/data/109198/000162828019011321/,,5
+TJX Companies,TJX,2019Q2,2019-08-03,분기별 당기순이익(지배),758962000,USD,공시,https://www.sec.gov/Archives/edgar/data/109198/000162828019011321/,,5
+TJX Companies,TJX,2019Q2,2019-08-03,분기별 영업활동현금흐름,750005000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/109198/000162828019011321/ ; https://www.sec.gov/Archives/edgar/data/109198/000162828019007432/,누적 899244000 − 직전누적 149239000 (시작 2019-02-03),5
+TJX Companies,TJX,2019Q2,2019-08-03,분기말 자산총계,22854979000,USD,공시,https://www.sec.gov/Archives/edgar/data/109198/000162828019011321/,,5
+TJX Companies,TJX,2019Q2,2019-08-03,분기말 부채총계,17552367000,USD,계산(부채및자본-총자본),https://www.sec.gov/Archives/edgar/data/109198/000162828019011321/,부채및자본 22854979000 − 총자본 5302612000,5
+TJX Companies,TJX,2019Q2,2019-08-03,분기말 총자본(자기자본),5302612000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/109198/000162828019011321/,"StockholdersEquity, MinorityInterest 태그 없음",5
+TJX Companies,TJX,2019Q2,2019-08-03,분기말 지배지분 자본,5302612000,USD,공시,https://www.sec.gov/Archives/edgar/data/109198/000162828019011321/,,5
+TJX Companies,TJX,2019Q2,2019-08-02,분기말 종가,52.36,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/TJX?interval=1d&events=splits (2019-08-02),,5
+TJX Companies,TJX,2019Q2,2019-08-03,분기말 상장주식수,1208932667,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/109198/000162828019011321/,dei:EntityCommonStockSharesOutstanding 클래스 합,5
+TJX Companies,TJX,2019Q2,2019-08-02,분기말 시가총액,63299714444,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/TJX?interval=1d&events=splits (2019-08-02) ; https://www.sec.gov/Archives/edgar/data/109198/000162828019011321/,종가 52.36 × 주식수 1208932667,5
+TJX Companies,TJX,2019Q3,2019-11-02,분기별 매출액,10451334000,USD,공시,https://www.sec.gov/Archives/edgar/data/109198/000162828019014690/,,5
+TJX Companies,TJX,2019Q3,2019-11-02,분기별 영업이익,미확인,USD,미확인,SEC companyfacts CIK0000109198: 해당 보고서에 OperatingIncomeLoss 태그 없음(영업이익 미공시) ; https://www.sec.gov/Archives/edgar/data/109198/000162828019014690/,,5
+TJX Companies,TJX,2019Q3,2019-11-02,분기별 당기순이익(지배),828263000,USD,공시,https://www.sec.gov/Archives/edgar/data/109198/000162828019014690/,,5
+TJX Companies,TJX,2019Q3,2019-11-02,분기별 영업활동현금흐름,974284000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/109198/000162828019014690/ ; https://www.sec.gov/Archives/edgar/data/109198/000162828019011321/,누적 1873528000 − 직전누적 899244000 (시작 2019-02-03),5
+TJX Companies,TJX,2019Q3,2019-11-02,분기말 자산총계,24288704000,USD,공시,https://www.sec.gov/Archives/edgar/data/109198/000162828019014690/,,5
+TJX Companies,TJX,2019Q3,2019-11-02,분기말 부채총계,18746172000,USD,계산(부채및자본-총자본),https://www.sec.gov/Archives/edgar/data/109198/000162828019014690/,부채및자본 24288704000 − 총자본 5542532000,5
+TJX Companies,TJX,2019Q3,2019-11-02,분기말 총자본(자기자본),5542532000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/109198/000162828019014690/,"StockholdersEquity, MinorityInterest 태그 없음",5
+TJX Companies,TJX,2019Q3,2019-11-02,분기말 지배지분 자본,5542532000,USD,공시,https://www.sec.gov/Archives/edgar/data/109198/000162828019014690/,,5
+TJX Companies,TJX,2019Q3,2019-11-01,분기말 종가,58.01,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/TJX?interval=1d&events=splits (2019-11-01),,5
+TJX Companies,TJX,2019Q3,2019-11-02,분기말 상장주식수,1203183703,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/109198/000162828019014690/,dei:EntityCommonStockSharesOutstanding 클래스 합,5
+TJX Companies,TJX,2019Q3,2019-11-01,분기말 시가총액,69796686611,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/TJX?interval=1d&events=splits (2019-11-01) ; https://www.sec.gov/Archives/edgar/data/109198/000162828019014690/,종가 58.01 × 주식수 1203183703,5
+TJX Companies,TJX,2019Q4,2020-02-01,분기별 매출액,12206462000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/109198/000010919820000004/ ; https://www.sec.gov/Archives/edgar/data/109198/000162828019014690/,연간 41716977000 − 9개월누적 29510515000 (RevenueFromContractWithCustomerIncludingAssessedTax),5
+TJX Companies,TJX,2019Q4,2020-02-01,분기별 영업이익,미확인,USD,미확인,SEC companyfacts CIK0000109198: 해당 보고서에 OperatingIncomeLoss 태그 없음(영업이익 미공시) ; https://www.sec.gov/Archives/edgar/data/109198/000010919820000004/,,5
+TJX Companies,TJX,2019Q4,2020-02-01,분기별 당기순이익(지배),984790000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/109198/000010919820000004/ ; https://www.sec.gov/Archives/edgar/data/109198/000162828019014690/,연간 3272193000 − 9개월누적 2287403000 (NetIncomeLoss),5
+TJX Companies,TJX,2019Q4,2020-02-01,분기별 영업활동현금흐름,2193012000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/109198/000010919820000004/ ; https://www.sec.gov/Archives/edgar/data/109198/000162828019014690/,누적 4066540000 − 직전누적 1873528000 (시작 2019-02-03),5
+TJX Companies,TJX,2019Q4,2020-02-01,분기말 자산총계,24145003000,USD,공시,https://www.sec.gov/Archives/edgar/data/109198/000010919820000004/,,5
+TJX Companies,TJX,2019Q4,2020-02-01,분기말 부채총계,18196791000,USD,계산(부채및자본-총자본),https://www.sec.gov/Archives/edgar/data/109198/000010919820000004/,부채및자본 24145003000 − 총자본 5948212000,5
+TJX Companies,TJX,2019Q4,2020-02-01,분기말 총자본(자기자본),5948212000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/109198/000010919820000004/,"StockholdersEquity, MinorityInterest 태그 없음",5
+TJX Companies,TJX,2019Q4,2020-02-01,분기말 지배지분 자본,5948212000,USD,공시,https://www.sec.gov/Archives/edgar/data/109198/000010919820000004/,,5
+TJX Companies,TJX,2019Q4,2020-01-31,분기말 종가,59.04,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/TJX?interval=1d&events=splits (2020-01-31),,5
+TJX Companies,TJX,2019Q4,2020-02-29,분기말 상장주식수,1197698188,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/109198/000010919820000004/,dei:EntityCommonStockSharesOutstanding 클래스 합,5
+TJX Companies,TJX,2019Q4,2020-01-31,분기말 시가총액,70712101020,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/TJX?interval=1d&events=splits (2020-01-31) ; https://www.sec.gov/Archives/edgar/data/109198/000010919820000004/,종가 59.04 × 주식수 1197698188,5
+TJX Companies,TJX,2020Q1,2020-05-02,분기별 매출액,4408888000,USD,공시,https://www.sec.gov/Archives/edgar/data/109198/000010919820000007/,,5
+TJX Companies,TJX,2020Q1,2020-05-02,분기별 영업이익,미확인,USD,미확인,SEC companyfacts CIK0000109198: 해당 보고서에 OperatingIncomeLoss 태그 없음(영업이익 미공시) ; https://www.sec.gov/Archives/edgar/data/109198/000010919820000007/,,5
+TJX Companies,TJX,2020Q1,2020-05-02,분기별 당기순이익(지배),-887489000,USD,공시,https://www.sec.gov/Archives/edgar/data/109198/000010919820000007/,,5
+TJX Companies,TJX,2020Q1,2020-05-02,분기별 영업활동현금흐름,-3160483000,USD,공시,https://www.sec.gov/Archives/edgar/data/109198/000010919820000007/,,5
+TJX Companies,TJX,2020Q1,2020-05-02,분기말 자산총계,25415240000,USD,공시,https://www.sec.gov/Archives/edgar/data/109198/000010919820000007/,,5
+TJX Companies,TJX,2020Q1,2020-05-02,분기말 부채총계,20676022000,USD,계산(부채및자본-총자본),https://www.sec.gov/Archives/edgar/data/109198/000010919820000007/,부채및자본 25415240000 − 총자본 4739218000,5
+TJX Companies,TJX,2020Q1,2020-05-02,분기말 총자본(자기자본),4739218000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/109198/000010919820000007/,"StockholdersEquity, MinorityInterest 태그 없음",5
+TJX Companies,TJX,2020Q1,2020-05-02,분기말 지배지분 자본,4739218000,USD,공시,https://www.sec.gov/Archives/edgar/data/109198/000010919820000007/,,5
+TJX Companies,TJX,2020Q1,2020-05-01,분기말 종가,48.25,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/TJX?interval=1d&events=splits (2020-05-01),,5
+TJX Companies,TJX,2020Q1,2020-05-02,분기말 상장주식수,1197877094,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/109198/000010919820000007/,dei:EntityCommonStockSharesOutstanding 클래스 합,5
+TJX Companies,TJX,2020Q1,2020-05-01,분기말 시가총액,57797569786,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/TJX?interval=1d&events=splits (2020-05-01) ; https://www.sec.gov/Archives/edgar/data/109198/000010919820000007/,종가 48.25 × 주식수 1197877094,5
+TJX Companies,TJX,2020Q2,2020-08-01,분기별 매출액,6667575000,USD,공시,https://www.sec.gov/Archives/edgar/data/109198/000010919820000019/,,5
+TJX Companies,TJX,2020Q2,2020-08-01,분기별 영업이익,미확인,USD,미확인,SEC companyfacts CIK0000109198: 해당 보고서에 OperatingIncomeLoss 태그 없음(영업이익 미공시) ; https://www.sec.gov/Archives/edgar/data/109198/000010919820000019/,,5
+TJX Companies,TJX,2020Q2,2020-08-01,분기별 당기순이익(지배),-214220000,USD,공시,https://www.sec.gov/Archives/edgar/data/109198/000010919820000019/,,5
+TJX Companies,TJX,2020Q2,2020-08-01,분기별 영업활동현금흐름,3357258000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/109198/000010919820000019/ ; https://www.sec.gov/Archives/edgar/data/109198/000010919820000007/,누적 196775000 − 직전누적 -3160483000 (시작 2020-02-02),5
+TJX Companies,TJX,2020Q2,2020-08-01,분기말 자산총계,26568402000,USD,공시,https://www.sec.gov/Archives/edgar/data/109198/000010919820000019/,,5
+TJX Companies,TJX,2020Q2,2020-08-01,분기말 부채총계,21907833000,USD,계산(부채및자본-총자본),https://www.sec.gov/Archives/edgar/data/109198/000010919820000019/,부채및자본 26568402000 − 총자본 4660569000,5
+TJX Companies,TJX,2020Q2,2020-08-01,분기말 총자본(자기자본),4660569000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/109198/000010919820000019/,"StockholdersEquity, MinorityInterest 태그 없음",5
+TJX Companies,TJX,2020Q2,2020-08-01,분기말 지배지분 자본,4660569000,USD,공시,https://www.sec.gov/Archives/edgar/data/109198/000010919820000019/,,5
+TJX Companies,TJX,2020Q2,2020-07-31,분기말 종가,51.99,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/TJX?interval=1d&events=splits (2020-07-31),,5
+TJX Companies,TJX,2020Q2,2020-08-01,분기말 상장주식수,1199061133,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/109198/000010919820000019/,dei:EntityCommonStockSharesOutstanding 클래스 합,5
+TJX Companies,TJX,2020Q2,2020-07-31,분기말 시가총액,62339188305,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/TJX?interval=1d&events=splits (2020-07-31) ; https://www.sec.gov/Archives/edgar/data/109198/000010919820000019/,종가 51.99 × 주식수 1199061133,5
+TJX Companies,TJX,2020Q3,2020-10-31,분기별 매출액,10117289000,USD,공시,https://www.sec.gov/Archives/edgar/data/109198/000010919820000027/,,5
+TJX Companies,TJX,2020Q3,2020-10-31,분기별 영업이익,미확인,USD,미확인,SEC companyfacts CIK0000109198: 해당 보고서에 OperatingIncomeLoss 태그 없음(영업이익 미공시) ; https://www.sec.gov/Archives/edgar/data/109198/000010919820000027/,,5
+TJX Companies,TJX,2020Q3,2020-10-31,분기별 당기순이익(지배),866656000,USD,공시,https://www.sec.gov/Archives/edgar/data/109198/000010919820000027/,,5
+TJX Companies,TJX,2020Q3,2020-10-31,분기별 영업활동현금흐름,4079985000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/109198/000010919820000027/ ; https://www.sec.gov/Archives/edgar/data/109198/000010919820000019/,누적 4276760000 − 직전누적 196775000 (시작 2020-02-02),5
+TJX Companies,TJX,2020Q3,2020-10-31,분기말 자산총계,31565500000,USD,공시,https://www.sec.gov/Archives/edgar/data/109198/000010919820000027/,,5
+TJX Companies,TJX,2020Q3,2020-10-31,분기말 부채총계,25998744000,USD,계산(부채및자본-총자본),https://www.sec.gov/Archives/edgar/data/109198/000010919820000027/,부채및자본 31565500000 − 총자본 5566756000,5
+TJX Companies,TJX,2020Q3,2020-10-31,분기말 총자본(자기자본),5566756000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/109198/000010919820000027/,"StockholdersEquity, MinorityInterest 태그 없음",5
+TJX Companies,TJX,2020Q3,2020-10-31,분기말 지배지분 자본,5566756000,USD,공시,https://www.sec.gov/Archives/edgar/data/109198/000010919820000027/,,5
+TJX Companies,TJX,2020Q3,2020-10-30,분기말 종가,50.8,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/TJX?interval=1d&events=splits (2020-10-30),,5
+TJX Companies,TJX,2020Q3,2020-10-31,분기말 상장주식수,1200631186,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/109198/000010919820000027/,dei:EntityCommonStockSharesOutstanding 클래스 합,5
+TJX Companies,TJX,2020Q3,2020-10-30,분기말 시가총액,60992064249,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/TJX?interval=1d&events=splits (2020-10-30) ; https://www.sec.gov/Archives/edgar/data/109198/000010919820000027/,종가 50.8 × 주식수 1200631186,5
+TJX Companies,TJX,2020Q4,2021-01-30,분기별 매출액,10943210000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/109198/000010919821000006/ ; https://www.sec.gov/Archives/edgar/data/109198/000010919820000027/,연간 32136962000 − 9개월누적 21193752000 (RevenueFromContractWithCustomerIncludingAssessedTax),5
+TJX Companies,TJX,2020Q4,2021-01-30,분기별 영업이익,미확인,USD,미확인,SEC companyfacts CIK0000109198: 해당 보고서에 OperatingIncomeLoss 태그 없음(영업이익 미공시) ; https://www.sec.gov/Archives/edgar/data/109198/000010919821000006/,,5
+TJX Companies,TJX,2020Q4,2021-01-30,분기별 당기순이익(지배),325523000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/109198/000010919821000006/ ; https://www.sec.gov/Archives/edgar/data/109198/000010919820000027/,연간 90470000 − 9개월누적 -235053000 (NetIncomeLoss),5
+TJX Companies,TJX,2020Q4,2021-01-30,분기별 영업활동현금흐름,285129000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/109198/000010919821000006/ ; https://www.sec.gov/Archives/edgar/data/109198/000010919820000027/,누적 4561889000 − 직전누적 4276760000 (시작 2020-02-02),5
+TJX Companies,TJX,2020Q4,2021-01-30,분기말 자산총계,30813555000,USD,공시,https://www.sec.gov/Archives/edgar/data/109198/000010919821000006/,,5
+TJX Companies,TJX,2020Q4,2021-01-30,분기말 부채총계,24980871000,USD,계산(부채및자본-총자본),https://www.sec.gov/Archives/edgar/data/109198/000010919821000006/,부채및자본 30813555000 − 총자본 5832684000,5
+TJX Companies,TJX,2020Q4,2021-01-30,분기말 총자본(자기자본),5832684000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/109198/000010919821000006/,"StockholdersEquity, MinorityInterest 태그 없음",5
+TJX Companies,TJX,2020Q4,2021-01-30,분기말 지배지분 자본,5832684000,USD,공시,https://www.sec.gov/Archives/edgar/data/109198/000010919821000006/,,5
+TJX Companies,TJX,2020Q4,2021-01-29,분기말 종가,64.04,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/TJX?interval=1d&events=splits (2021-01-29),,5
+TJX Companies,TJX,2020Q4,2021-03-26,분기말 상장주식수,1205970255,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/109198/000010919821000006/,dei:EntityCommonStockSharesOutstanding 클래스 합,5
+TJX Companies,TJX,2020Q4,2021-01-29,분기말 시가총액,77230335130,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/TJX?interval=1d&events=splits (2021-01-29) ; https://www.sec.gov/Archives/edgar/data/109198/000010919821000006/,종가 64.04 × 주식수 1205970255,5
+TJX Companies,TJX,2021Q1,2021-05-01,분기별 매출액,10086661000,USD,공시,https://www.sec.gov/Archives/edgar/data/109198/000010919821000019/,,5
+TJX Companies,TJX,2021Q1,2021-05-01,분기별 영업이익,미확인,USD,미확인,SEC companyfacts CIK0000109198: 해당 보고서에 OperatingIncomeLoss 태그 없음(영업이익 미공시) ; https://www.sec.gov/Archives/edgar/data/109198/000010919821000019/,,5
+TJX Companies,TJX,2021Q1,2021-05-01,분기별 당기순이익(지배),533930000,USD,공시,https://www.sec.gov/Archives/edgar/data/109198/000010919821000019/,,5
+TJX Companies,TJX,2021Q1,2021-05-01,분기별 영업활동현금흐름,-432727000,USD,공시,https://www.sec.gov/Archives/edgar/data/109198/000010919821000019/,,5
+TJX Companies,TJX,2021Q1,2021-05-01,분기말 자산총계,30301434000,USD,공시,https://www.sec.gov/Archives/edgar/data/109198/000010919821000019/,,5
+TJX Companies,TJX,2021Q1,2021-05-01,분기말 부채총계,24162220000,USD,계산(부채및자본-총자본),https://www.sec.gov/Archives/edgar/data/109198/000010919821000019/,부채및자본 30301434000 − 총자본 6139214000,5
+TJX Companies,TJX,2021Q1,2021-05-01,분기말 총자본(자기자본),6139214000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/109198/000010919821000019/,"StockholdersEquity, MinorityInterest 태그 없음",5
+TJX Companies,TJX,2021Q1,2021-05-01,분기말 지배지분 자본,6139214000,USD,공시,https://www.sec.gov/Archives/edgar/data/109198/000010919821000019/,,5
+TJX Companies,TJX,2021Q1,2021-04-30,분기말 종가,71.0,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/TJX?interval=1d&events=splits (2021-04-30),,5
+TJX Companies,TJX,2021Q1,2021-05-21,분기말 상장주식수,1206487186,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/109198/000010919821000019/,dei:EntityCommonStockSharesOutstanding 클래스 합,5
+TJX Companies,TJX,2021Q1,2021-04-30,분기말 시가총액,85660590206,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/TJX?interval=1d&events=splits (2021-04-30) ; https://www.sec.gov/Archives/edgar/data/109198/000010919821000019/,종가 71.0 × 주식수 1206487186,5
+TJX Companies,TJX,2021Q2,2021-07-31,분기별 매출액,12077063000,USD,공시,https://www.sec.gov/Archives/edgar/data/109198/000010919821000027/,,5
+TJX Companies,TJX,2021Q2,2021-07-31,분기별 영업이익,미확인,USD,미확인,SEC companyfacts CIK0000109198: 해당 보고서에 OperatingIncomeLoss 태그 없음(영업이익 미공시) ; https://www.sec.gov/Archives/edgar/data/109198/000010919821000027/,,5
+TJX Companies,TJX,2021Q2,2021-07-31,분기별 당기순이익(지배),785681000,USD,공시,https://www.sec.gov/Archives/edgar/data/109198/000010919821000027/,,5
+TJX Companies,TJX,2021Q2,2021-07-31,분기별 영업활동현금흐름,1379606000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/109198/000010919821000027/ ; https://www.sec.gov/Archives/edgar/data/109198/000010919821000019/,누적 946879000 − 직전누적 -432727000 (시작 2021-01-31),5
+TJX Companies,TJX,2021Q2,2021-07-31,분기말 자산총계,28783446000,USD,공시,https://www.sec.gov/Archives/edgar/data/109198/000010919821000027/,,5
+TJX Companies,TJX,2021Q2,2021-07-31,분기말 부채총계,22377062000,USD,계산(부채및자본-총자본),https://www.sec.gov/Archives/edgar/data/109198/000010919821000027/,부채및자본 28783446000 − 총자본 6406384000,5
+TJX Companies,TJX,2021Q2,2021-07-31,분기말 총자본(자기자본),6406384000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/109198/000010919821000027/,"StockholdersEquity, MinorityInterest 태그 없음",5
+TJX Companies,TJX,2021Q2,2021-07-31,분기말 지배지분 자본,6406384000,USD,공시,https://www.sec.gov/Archives/edgar/data/109198/000010919821000027/,,5
+TJX Companies,TJX,2021Q2,2021-07-30,분기말 종가,68.81,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/TJX?interval=1d&events=splits (2021-07-30),,5
+TJX Companies,TJX,2021Q2,2021-08-20,분기말 상장주식수,1202539197,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/109198/000010919821000027/,dei:EntityCommonStockSharesOutstanding 클래스 합,5
+TJX Companies,TJX,2021Q2,2021-07-30,분기말 시가총액,82746722146,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/TJX?interval=1d&events=splits (2021-07-30) ; https://www.sec.gov/Archives/edgar/data/109198/000010919821000027/,종가 68.81 × 주식수 1202539197,5
+TJX Companies,TJX,2021Q3,2021-10-30,분기별 매출액,12531890000,USD,공시,https://www.sec.gov/Archives/edgar/data/109198/000010919821000030/,,5
+TJX Companies,TJX,2021Q3,2021-10-30,분기별 영업이익,미확인,USD,미확인,SEC companyfacts CIK0000109198: 해당 보고서에 OperatingIncomeLoss 태그 없음(영업이익 미공시) ; https://www.sec.gov/Archives/edgar/data/109198/000010919821000030/,,5
+TJX Companies,TJX,2021Q3,2021-10-30,분기별 당기순이익(지배),1023000000,USD,공시,https://www.sec.gov/Archives/edgar/data/109198/000010919821000030/,,5
+TJX Companies,TJX,2021Q3,2021-10-30,분기별 영업활동현금흐름,1000054000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/109198/000010919821000030/ ; https://www.sec.gov/Archives/edgar/data/109198/000010919821000027/,누적 1946933000 − 직전누적 946879000 (시작 2021-01-31),5
+TJX Companies,TJX,2021Q3,2021-10-30,분기말 자산총계,30070986000,USD,공시,https://www.sec.gov/Archives/edgar/data/109198/000010919821000030/,,5
+TJX Companies,TJX,2021Q3,2021-10-30,분기말 부채총계,23626212000,USD,계산(부채및자본-총자본),https://www.sec.gov/Archives/edgar/data/109198/000010919821000030/,부채및자본 30070986000 − 총자본 6444774000,5
+TJX Companies,TJX,2021Q3,2021-10-30,분기말 총자본(자기자본),6444774000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/109198/000010919821000030/,"StockholdersEquity, MinorityInterest 태그 없음",5
+TJX Companies,TJX,2021Q3,2021-10-30,분기말 지배지분 자본,6444774000,USD,공시,https://www.sec.gov/Archives/edgar/data/109198/000010919821000030/,,5
+TJX Companies,TJX,2021Q3,2021-10-29,분기말 종가,65.49,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/TJX?interval=1d&events=splits (2021-10-29),,5
+TJX Companies,TJX,2021Q3,2021-11-19,분기말 상장주식수,1192878394,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/109198/000010919821000030/,dei:EntityCommonStockSharesOutstanding 클래스 합,5
+TJX Companies,TJX,2021Q3,2021-10-29,분기말 시가총액,78121606023,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/TJX?interval=1d&events=splits (2021-10-29) ; https://www.sec.gov/Archives/edgar/data/109198/000010919821000030/,종가 65.49 × 주식수 1192878394,5
+TJX Companies,TJX,2021Q4,2022-01-29,분기별 매출액,13854368000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/109198/000010919822000008/ ; https://www.sec.gov/Archives/edgar/data/109198/000010919821000030/,연간 48549982000 − 9개월누적 34695614000 (RevenueFromContractWithCustomerIncludingAssessedTax),5
+TJX Companies,TJX,2021Q4,2022-01-29,분기별 영업이익,미확인,USD,미확인,SEC companyfacts CIK0000109198: 해당 보고서에 OperatingIncomeLoss 태그 없음(영업이익 미공시) ; https://www.sec.gov/Archives/edgar/data/109198/000010919822000008/,,5
+TJX Companies,TJX,2021Q4,2022-01-29,분기별 당기순이익(지배),940204000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/109198/000010919822000008/ ; https://www.sec.gov/Archives/edgar/data/109198/000010919821000030/,연간 3282815000 − 9개월누적 2342611000 (NetIncomeLoss),5
+TJX Companies,TJX,2021Q4,2022-01-29,분기별 영업활동현금흐름,1110552000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/109198/000010919822000008/ ; https://www.sec.gov/Archives/edgar/data/109198/000010919821000030/,누적 3057485000 − 직전누적 1946933000 (시작 2021-01-31),5
+TJX Companies,TJX,2021Q4,2022-01-29,분기말 자산총계,28461458000,USD,공시,https://www.sec.gov/Archives/edgar/data/109198/000010919822000008/,,5
+TJX Companies,TJX,2021Q4,2022-01-29,분기말 부채총계,22458466000,USD,계산(부채및자본-총자본),https://www.sec.gov/Archives/edgar/data/109198/000010919822000008/,부채및자본 28461458000 − 총자본 6002992000,5
+TJX Companies,TJX,2021Q4,2022-01-29,분기말 총자본(자기자본),6002992000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/109198/000010919822000008/,"StockholdersEquity, MinorityInterest 태그 없음",5
+TJX Companies,TJX,2021Q4,2022-01-29,분기말 지배지분 자본,6002992000,USD,공시,https://www.sec.gov/Archives/edgar/data/109198/000010919822000008/,,5
+TJX Companies,TJX,2021Q4,2022-01-28,분기말 종가,71.38,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/TJX?interval=1d&events=splits (2022-01-28),,5
+TJX Companies,TJX,2021Q4,2022-03-28,분기말 상장주식수,1175228119,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/109198/000010919822000008/,dei:EntityCommonStockSharesOutstanding 클래스 합,5
+TJX Companies,TJX,2021Q4,2022-01-28,분기말 시가총액,83887783134,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/TJX?interval=1d&events=splits (2022-01-28) ; https://www.sec.gov/Archives/edgar/data/109198/000010919822000008/,종가 71.38 × 주식수 1175228119,5
+TJX Companies,TJX,2022Q1,2022-04-30,분기별 매출액,11406474000,USD,공시,https://www.sec.gov/Archives/edgar/data/109198/000010919822000029/,,5
+TJX Companies,TJX,2022Q1,2022-04-30,분기별 영업이익,미확인,USD,미확인,SEC companyfacts CIK0000109198: 해당 보고서에 OperatingIncomeLoss 태그 없음(영업이익 미공시) ; https://www.sec.gov/Archives/edgar/data/109198/000010919822000029/,,5
+TJX Companies,TJX,2022Q1,2022-04-30,분기별 당기순이익(지배),587473000,USD,공시,https://www.sec.gov/Archives/edgar/data/109198/000010919822000029/,,5
+TJX Companies,TJX,2022Q1,2022-04-30,분기별 영업활동현금흐름,-634476000,USD,공시,https://www.sec.gov/Archives/edgar/data/109198/000010919822000029/,,5
+TJX Companies,TJX,2022Q1,2022-04-30,분기말 자산총계,27709904000,USD,공시,https://www.sec.gov/Archives/edgar/data/109198/000010919822000029/,,5
+TJX Companies,TJX,2022Q1,2022-04-30,분기말 부채총계,22114464000,USD,계산(부채및자본-총자본),https://www.sec.gov/Archives/edgar/data/109198/000010919822000029/,부채및자본 27709904000 − 총자본 5595440000,5
+TJX Companies,TJX,2022Q1,2022-04-30,분기말 총자본(자기자본),5595440000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/109198/000010919822000029/,"StockholdersEquity, MinorityInterest 태그 없음",5
+TJX Companies,TJX,2022Q1,2022-04-30,분기말 지배지분 자본,5595440000,USD,공시,https://www.sec.gov/Archives/edgar/data/109198/000010919822000029/,,5
+TJX Companies,TJX,2022Q1,2022-04-29,분기말 종가,61.28,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/TJX?interval=1d&events=splits (2022-04-29),,5
+TJX Companies,TJX,2022Q1,2022-05-20,분기말 상장주식수,1171635933,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/109198/000010919822000029/,dei:EntityCommonStockSharesOutstanding 클래스 합,5
+TJX Companies,TJX,2022Q1,2022-04-29,분기말 시가총액,71797849974,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/TJX?interval=1d&events=splits (2022-04-29) ; https://www.sec.gov/Archives/edgar/data/109198/000010919822000029/,종가 61.28 × 주식수 1171635933,5
+TJX Companies,TJX,2022Q2,2022-07-30,분기별 매출액,11843008000,USD,공시,https://www.sec.gov/Archives/edgar/data/109198/000010919822000041/,,5
+TJX Companies,TJX,2022Q2,2022-07-30,분기별 영업이익,미확인,USD,미확인,SEC companyfacts CIK0000109198: 해당 보고서에 OperatingIncomeLoss 태그 없음(영업이익 미공시) ; https://www.sec.gov/Archives/edgar/data/109198/000010919822000041/,,5
+TJX Companies,TJX,2022Q2,2022-07-30,분기별 당기순이익(지배),809340000,USD,공시,https://www.sec.gov/Archives/edgar/data/109198/000010919822000041/,,5
+TJX Companies,TJX,2022Q2,2022-07-30,분기별 영업활동현금흐름,640713000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/109198/000010919822000041/ ; https://www.sec.gov/Archives/edgar/data/109198/000010919822000029/,누적 6237000 − 직전누적 -634476000 (시작 2022-01-30),5
+TJX Companies,TJX,2022Q2,2022-07-30,분기말 자산총계,27090606000,USD,공시,https://www.sec.gov/Archives/edgar/data/109198/000010919822000041/,,5
+TJX Companies,TJX,2022Q2,2022-07-30,분기말 부채총계,21693957000,USD,계산(부채및자본-총자본),https://www.sec.gov/Archives/edgar/data/109198/000010919822000041/,부채및자본 27090606000 − 총자본 5396649000,5
+TJX Companies,TJX,2022Q2,2022-07-30,분기말 총자본(자기자본),5396649000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/109198/000010919822000041/,"StockholdersEquity, MinorityInterest 태그 없음",5
+TJX Companies,TJX,2022Q2,2022-07-30,분기말 지배지분 자본,5396649000,USD,공시,https://www.sec.gov/Archives/edgar/data/109198/000010919822000041/,,5
+TJX Companies,TJX,2022Q2,2022-07-29,분기말 종가,61.16,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/TJX?interval=1d&events=splits (2022-07-29),,5
+TJX Companies,TJX,2022Q2,2022-08-19,분기말 상장주식수,1161052961,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/109198/000010919822000041/,dei:EntityCommonStockSharesOutstanding 클래스 합,5
+TJX Companies,TJX,2022Q2,2022-07-29,분기말 시가총액,71009999095,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/TJX?interval=1d&events=splits (2022-07-29) ; https://www.sec.gov/Archives/edgar/data/109198/000010919822000041/,종가 61.16 × 주식수 1161052961,5
+TJX Companies,TJX,2022Q3,2022-10-29,분기별 매출액,12166286000,USD,공시,https://www.sec.gov/Archives/edgar/data/109198/000010919822000044/,,5
+TJX Companies,TJX,2022Q3,2022-10-29,분기별 영업이익,미확인,USD,미확인,SEC companyfacts CIK0000109198: 해당 보고서에 OperatingIncomeLoss 태그 없음(영업이익 미공시) ; https://www.sec.gov/Archives/edgar/data/109198/000010919822000044/,,5
+TJX Companies,TJX,2022Q3,2022-10-29,분기별 당기순이익(지배),1062806000,USD,공시,https://www.sec.gov/Archives/edgar/data/109198/000010919822000044/,,5
+TJX Companies,TJX,2022Q3,2022-10-29,분기별 영업활동현금흐름,1053015000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/109198/000010919822000044/ ; https://www.sec.gov/Archives/edgar/data/109198/000010919822000041/,누적 1059252000 − 직전누적 6237000 (시작 2022-01-30),5
+TJX Companies,TJX,2022Q3,2022-10-29,분기말 자산총계,28428450000,USD,공시,https://www.sec.gov/Archives/edgar/data/109198/000010919822000044/,,5
+TJX Companies,TJX,2022Q3,2022-10-29,분기말 부채총계,22763767000,USD,계산(부채및자본-총자본),https://www.sec.gov/Archives/edgar/data/109198/000010919822000044/,부채및자본 28428450000 − 총자본 5664683000,5
+TJX Companies,TJX,2022Q3,2022-10-29,분기말 총자본(자기자본),5664683000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/109198/000010919822000044/,"StockholdersEquity, MinorityInterest 태그 없음",5
+TJX Companies,TJX,2022Q3,2022-10-29,분기말 지배지분 자본,5664683000,USD,공시,https://www.sec.gov/Archives/edgar/data/109198/000010919822000044/,,5
+TJX Companies,TJX,2022Q3,2022-10-28,분기말 종가,72.5,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/TJX?interval=1d&events=splits (2022-10-28),,5
+TJX Companies,TJX,2022Q3,2022-11-18,분기말 상장주식수,1155504149,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/109198/000010919822000044/,dei:EntityCommonStockSharesOutstanding 클래스 합,5
+TJX Companies,TJX,2022Q3,2022-10-28,분기말 시가총액,83774050802,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/TJX?interval=1d&events=splits (2022-10-28) ; https://www.sec.gov/Archives/edgar/data/109198/000010919822000044/,종가 72.5 × 주식수 1155504149,5
+TJX Companies,TJX,2022Q4,2023-01-28,분기별 매출액,14520232000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/109198/000010919823000004/ ; https://www.sec.gov/Archives/edgar/data/109198/000010919822000044/,연간 49936000000 − 9개월누적 35415768000 (RevenueFromContractWithCustomerIncludingAssessedTax),5
+TJX Companies,TJX,2022Q4,2023-01-28,분기별 영업이익,미확인,USD,미확인,SEC companyfacts CIK0000109198: 해당 보고서에 OperatingIncomeLoss 태그 없음(영업이익 미공시) ; https://www.sec.gov/Archives/edgar/data/109198/000010919823000004/,,5
+TJX Companies,TJX,2022Q4,2023-01-28,분기별 당기순이익(지배),1038381000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/109198/000010919823000004/ ; https://www.sec.gov/Archives/edgar/data/109198/000010919822000044/,연간 3498000000 − 9개월누적 2459619000 (NetIncomeLoss),5
+TJX Companies,TJX,2022Q4,2023-01-28,분기별 영업활동현금흐름,3024748000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/109198/000010919823000004/ ; https://www.sec.gov/Archives/edgar/data/109198/000010919822000044/,누적 4084000000 − 직전누적 1059252000 (시작 2022-01-30),5
+TJX Companies,TJX,2022Q4,2023-01-28,분기말 자산총계,28349000000,USD,공시,https://www.sec.gov/Archives/edgar/data/109198/000010919823000004/,,5
+TJX Companies,TJX,2022Q4,2023-01-28,분기말 부채총계,21985000000,USD,계산(부채및자본-총자본),https://www.sec.gov/Archives/edgar/data/109198/000010919823000004/,부채및자본 28349000000 − 총자본 6364000000,5
+TJX Companies,TJX,2022Q4,2023-01-28,분기말 총자본(자기자본),6364000000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/109198/000010919823000004/,"StockholdersEquity, MinorityInterest 태그 없음",5
+TJX Companies,TJX,2022Q4,2023-01-28,분기말 지배지분 자본,6364000000,USD,공시,https://www.sec.gov/Archives/edgar/data/109198/000010919823000004/,,5
+TJX Companies,TJX,2022Q4,2023-01-27,분기말 종가,81.89,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/TJX?interval=1d&events=splits (2023-01-27),,5
+TJX Companies,TJX,2022Q4,2023-03-27,분기말 상장주식수,1152568938,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/109198/000010919823000004/,dei:EntityCommonStockSharesOutstanding 클래스 합,5
+TJX Companies,TJX,2022Q4,2023-01-27,분기말 시가총액,94383870333,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/TJX?interval=1d&events=splits (2023-01-27) ; https://www.sec.gov/Archives/edgar/data/109198/000010919823000004/,종가 81.89 × 주식수 1152568938,5
+TJX Companies,TJX,2023Q1,2023-04-29,분기별 매출액,11783000000,USD,공시,https://www.sec.gov/Archives/edgar/data/109198/000010919823000031/,,5
+TJX Companies,TJX,2023Q1,2023-04-29,분기별 영업이익,미확인,USD,미확인,SEC companyfacts CIK0000109198: 해당 보고서에 OperatingIncomeLoss 태그 없음(영업이익 미공시) ; https://www.sec.gov/Archives/edgar/data/109198/000010919823000031/,,5
+TJX Companies,TJX,2023Q1,2023-04-29,분기별 당기순이익(지배),891000000,USD,공시,https://www.sec.gov/Archives/edgar/data/109198/000010919823000031/,,5
+TJX Companies,TJX,2023Q1,2023-04-29,분기별 영업활동현금흐름,745000000,USD,공시,https://www.sec.gov/Archives/edgar/data/109198/000010919823000031/,,5
+TJX Companies,TJX,2023Q1,2023-04-29,분기말 자산총계,28681000000,USD,공시,https://www.sec.gov/Archives/edgar/data/109198/000010919823000031/,,5
+TJX Companies,TJX,2023Q1,2023-04-29,분기말 부채총계,22259000000,USD,계산(부채및자본-총자본),https://www.sec.gov/Archives/edgar/data/109198/000010919823000031/,부채및자본 28681000000 − 총자본 6422000000,5
+TJX Companies,TJX,2023Q1,2023-04-29,분기말 총자본(자기자본),6422000000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/109198/000010919823000031/,"StockholdersEquity, MinorityInterest 태그 없음",5
+TJX Companies,TJX,2023Q1,2023-04-29,분기말 지배지분 자본,6422000000,USD,공시,https://www.sec.gov/Archives/edgar/data/109198/000010919823000031/,,5
+TJX Companies,TJX,2023Q1,2023-04-28,분기말 종가,78.82,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/TJX?interval=1d&events=splits (2023-04-28),,5
+TJX Companies,TJX,2023Q1,2023-05-19,분기말 상장주식수,1149238467,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/109198/000010919823000031/,dei:EntityCommonStockSharesOutstanding 클래스 합,5
+TJX Companies,TJX,2023Q1,2023-04-28,분기말 시가총액,90582975969,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/TJX?interval=1d&events=splits (2023-04-28) ; https://www.sec.gov/Archives/edgar/data/109198/000010919823000031/,종가 78.82 × 주식수 1149238467,5
+TJX Companies,TJX,2023Q2,2023-07-29,분기별 매출액,12758000000,USD,공시,https://www.sec.gov/Archives/edgar/data/109198/000010919823000051/,,5
+TJX Companies,TJX,2023Q2,2023-07-29,분기별 영업이익,미확인,USD,미확인,SEC companyfacts CIK0000109198: 해당 보고서에 OperatingIncomeLoss 태그 없음(영업이익 미공시) ; https://www.sec.gov/Archives/edgar/data/109198/000010919823000051/,,5
+TJX Companies,TJX,2023Q2,2023-07-29,분기별 당기순이익(지배),989000000,USD,공시,https://www.sec.gov/Archives/edgar/data/109198/000010919823000051/,,5
+TJX Companies,TJX,2023Q2,2023-07-29,분기별 영업활동현금흐름,1341000000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/109198/000010919823000051/ ; https://www.sec.gov/Archives/edgar/data/109198/000010919823000031/,누적 2086000000 − 직전누적 745000000 (시작 2023-01-29),5
+TJX Companies,TJX,2023Q2,2023-07-29,분기말 자산총계,28922000000,USD,공시,https://www.sec.gov/Archives/edgar/data/109198/000010919823000051/,,5
+TJX Companies,TJX,2023Q2,2023-07-29,분기말 부채총계,22314000000,USD,계산(부채및자본-총자본),https://www.sec.gov/Archives/edgar/data/109198/000010919823000051/,부채및자본 28922000000 − 총자본 6608000000,5
+TJX Companies,TJX,2023Q2,2023-07-29,분기말 총자본(자기자본),6608000000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/109198/000010919823000051/,"StockholdersEquity, MinorityInterest 태그 없음",5
+TJX Companies,TJX,2023Q2,2023-07-29,분기말 지배지분 자본,6608000000,USD,공시,https://www.sec.gov/Archives/edgar/data/109198/000010919823000051/,,5
+TJX Companies,TJX,2023Q2,2023-07-28,분기말 종가,86.85,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/TJX?interval=1d&events=splits (2023-07-28),,5
+TJX Companies,TJX,2023Q2,2023-08-18,분기말 상장주식수,1144080554,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/109198/000010919823000051/,dei:EntityCommonStockSharesOutstanding 클래스 합,5
+TJX Companies,TJX,2023Q2,2023-07-28,분기말 시가총액,99363396115,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/TJX?interval=1d&events=splits (2023-07-28) ; https://www.sec.gov/Archives/edgar/data/109198/000010919823000051/,종가 86.85 × 주식수 1144080554,5
+TJX Companies,TJX,2023Q3,2023-10-28,분기별 매출액,13265000000,USD,공시,https://www.sec.gov/Archives/edgar/data/109198/000010919823000060/,,5
+TJX Companies,TJX,2023Q3,2023-10-28,분기별 영업이익,미확인,USD,미확인,SEC companyfacts CIK0000109198: 해당 보고서에 OperatingIncomeLoss 태그 없음(영업이익 미공시) ; https://www.sec.gov/Archives/edgar/data/109198/000010919823000060/,,5
+TJX Companies,TJX,2023Q3,2023-10-28,분기별 당기순이익(지배),1191000000,USD,공시,https://www.sec.gov/Archives/edgar/data/109198/000010919823000060/,,5
+TJX Companies,TJX,2023Q3,2023-10-28,분기별 영업활동현금흐름,1171000000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/109198/000010919823000060/ ; https://www.sec.gov/Archives/edgar/data/109198/000010919823000051/,누적 3257000000 − 직전누적 2086000000 (시작 2023-01-29),5
+TJX Companies,TJX,2023Q3,2023-10-28,분기말 자산총계,30351000000,USD,공시,https://www.sec.gov/Archives/edgar/data/109198/000010919823000060/,,5
+TJX Companies,TJX,2023Q3,2023-10-28,분기말 부채총계,23518000000,USD,계산(부채및자본-총자본),https://www.sec.gov/Archives/edgar/data/109198/000010919823000060/,부채및자본 30351000000 − 총자본 6833000000,5
+TJX Companies,TJX,2023Q3,2023-10-28,분기말 총자본(자기자본),6833000000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/109198/000010919823000060/,"StockholdersEquity, MinorityInterest 태그 없음",5
+TJX Companies,TJX,2023Q3,2023-10-28,분기말 지배지분 자본,6833000000,USD,공시,https://www.sec.gov/Archives/edgar/data/109198/000010919823000060/,,5
+TJX Companies,TJX,2023Q3,2023-10-27,분기말 종가,87.19,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/TJX?interval=1d&events=splits (2023-10-27),,5
+TJX Companies,TJX,2023Q3,2023-11-17,분기말 상장주식수,1139676816,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/109198/000010919823000060/,dei:EntityCommonStockSharesOutstanding 클래스 합,5
+TJX Companies,TJX,2023Q3,2023-10-27,분기말 시가총액,99368421587,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/TJX?interval=1d&events=splits (2023-10-27) ; https://www.sec.gov/Archives/edgar/data/109198/000010919823000060/,종가 87.19 × 주식수 1139676816,5
+TJX Companies,TJX,2023Q4,2024-02-03,분기별 매출액,16411000000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/109198/000010919824000014/ ; https://www.sec.gov/Archives/edgar/data/109198/000010919823000060/,연간 54217000000 − 9개월누적 37806000000 (RevenueFromContractWithCustomerIncludingAssessedTax),5
+TJX Companies,TJX,2023Q4,2024-02-03,분기별 영업이익,미확인,USD,미확인,SEC companyfacts CIK0000109198: 해당 보고서에 OperatingIncomeLoss 태그 없음(영업이익 미공시) ; https://www.sec.gov/Archives/edgar/data/109198/000010919824000014/,,5
+TJX Companies,TJX,2023Q4,2024-02-03,분기별 당기순이익(지배),1403000000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/109198/000010919824000014/ ; https://www.sec.gov/Archives/edgar/data/109198/000010919823000060/,연간 4474000000 − 9개월누적 3071000000 (NetIncomeLoss),5
+TJX Companies,TJX,2023Q4,2024-02-03,분기별 영업활동현금흐름,2800000000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/109198/000010919824000014/ ; https://www.sec.gov/Archives/edgar/data/109198/000010919823000060/,누적 6057000000 − 직전누적 3257000000 (시작 2023-01-29),5
+TJX Companies,TJX,2023Q4,2024-02-03,분기말 자산총계,29747000000,USD,공시,https://www.sec.gov/Archives/edgar/data/109198/000010919824000014/,,5
+TJX Companies,TJX,2023Q4,2024-02-03,분기말 부채총계,22445000000,USD,계산(부채및자본-총자본),https://www.sec.gov/Archives/edgar/data/109198/000010919824000014/,부채및자본 29747000000 − 총자본 7302000000,5
+TJX Companies,TJX,2023Q4,2024-02-03,분기말 총자본(자기자본),7302000000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/109198/000010919824000014/,"StockholdersEquity, MinorityInterest 태그 없음",5
+TJX Companies,TJX,2023Q4,2024-02-03,분기말 지배지분 자본,7302000000,USD,공시,https://www.sec.gov/Archives/edgar/data/109198/000010919824000014/,,5
+TJX Companies,TJX,2023Q4,2024-02-02,분기말 종가,97.51,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/TJX?interval=1d&events=splits (2024-02-02),,5
+TJX Companies,TJX,2023Q4,2024-03-22,분기말 상장주식수,1132973879,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/109198/000010919824000014/,dei:EntityCommonStockSharesOutstanding 클래스 합,5
+TJX Companies,TJX,2023Q4,2024-02-02,분기말 시가총액,110476282941,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/TJX?interval=1d&events=splits (2024-02-02) ; https://www.sec.gov/Archives/edgar/data/109198/000010919824000014/,종가 97.51 × 주식수 1132973879,5
+TJX Companies,TJX,2024Q1,2024-05-04,분기별 매출액,12479000000,USD,공시,https://www.sec.gov/Archives/edgar/data/109198/000010919824000035/,,5
+TJX Companies,TJX,2024Q1,2024-05-04,분기별 영업이익,미확인,USD,미확인,SEC companyfacts CIK0000109198: 해당 보고서에 OperatingIncomeLoss 태그 없음(영업이익 미공시) ; https://www.sec.gov/Archives/edgar/data/109198/000010919824000035/,,5
+TJX Companies,TJX,2024Q1,2024-05-04,분기별 당기순이익(지배),1070000000,USD,공시,https://www.sec.gov/Archives/edgar/data/109198/000010919824000035/,,5
+TJX Companies,TJX,2024Q1,2024-05-04,분기별 영업활동현금흐름,737000000,USD,공시,https://www.sec.gov/Archives/edgar/data/109198/000010919824000035/,,5
+TJX Companies,TJX,2024Q1,2024-05-04,분기말 자산총계,29679000000,USD,공시,https://www.sec.gov/Archives/edgar/data/109198/000010919824000035/,,5
+TJX Companies,TJX,2024Q1,2024-05-04,분기말 부채총계,22177000000,USD,계산(부채및자본-총자본),https://www.sec.gov/Archives/edgar/data/109198/000010919824000035/,부채및자본 29679000000 − 총자본 7502000000,5
+TJX Companies,TJX,2024Q1,2024-05-04,분기말 총자본(자기자본),7502000000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/109198/000010919824000035/,"StockholdersEquity, MinorityInterest 태그 없음",5
+TJX Companies,TJX,2024Q1,2024-05-04,분기말 지배지분 자본,7502000000,USD,공시,https://www.sec.gov/Archives/edgar/data/109198/000010919824000035/,,5
+TJX Companies,TJX,2024Q1,2024-05-03,분기말 종가,95.11,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/TJX?interval=1d&events=splits (2024-05-03),,5
+TJX Companies,TJX,2024Q1,2024-05-24,분기말 상장주식수,1130149156,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/109198/000010919824000035/,dei:EntityCommonStockSharesOutstanding 클래스 합,5
+TJX Companies,TJX,2024Q1,2024-05-03,분기말 시가총액,107488486227,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/TJX?interval=1d&events=splits (2024-05-03) ; https://www.sec.gov/Archives/edgar/data/109198/000010919824000035/,종가 95.11 × 주식수 1130149156,5
+TJX Companies,TJX,2024Q2,2024-08-03,분기별 매출액,13468000000,USD,공시,https://www.sec.gov/Archives/edgar/data/109198/000010919824000048/,,5
+TJX Companies,TJX,2024Q2,2024-08-03,분기별 영업이익,미확인,USD,미확인,SEC companyfacts CIK0000109198: 해당 보고서에 OperatingIncomeLoss 태그 없음(영업이익 미공시) ; https://www.sec.gov/Archives/edgar/data/109198/000010919824000048/,,5
+TJX Companies,TJX,2024Q2,2024-08-03,분기별 당기순이익(지배),1099000000,USD,공시,https://www.sec.gov/Archives/edgar/data/109198/000010919824000048/,,5
+TJX Companies,TJX,2024Q2,2024-08-03,분기별 영업활동현금흐름,1629000000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/109198/000010919824000048/ ; https://www.sec.gov/Archives/edgar/data/109198/000010919824000035/,누적 2366000000 − 직전누적 737000000 (시작 2024-02-04),5
+TJX Companies,TJX,2024Q2,2024-08-03,분기말 자산총계,30555000000,USD,공시,https://www.sec.gov/Archives/edgar/data/109198/000010919824000048/,,5
+TJX Companies,TJX,2024Q2,2024-08-03,분기말 부채총계,22773000000,USD,계산(부채및자본-총자본),https://www.sec.gov/Archives/edgar/data/109198/000010919824000048/,부채및자본 30555000000 − 총자본 7782000000,5
+TJX Companies,TJX,2024Q2,2024-08-03,분기말 총자본(자기자본),7782000000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/109198/000010919824000048/,"StockholdersEquity, MinorityInterest 태그 없음",5
+TJX Companies,TJX,2024Q2,2024-08-03,분기말 지배지분 자본,7782000000,USD,공시,https://www.sec.gov/Archives/edgar/data/109198/000010919824000048/,,5
+TJX Companies,TJX,2024Q2,2024-08-02,분기말 종가,113.14,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/TJX?interval=1d&events=splits (2024-08-02),,5
+TJX Companies,TJX,2024Q2,2024-08-23,분기말 상장주식수,1127872845,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/109198/000010919824000048/,dei:EntityCommonStockSharesOutstanding 클래스 합,5
+TJX Companies,TJX,2024Q2,2024-08-02,분기말 시가총액,127607533683,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/TJX?interval=1d&events=splits (2024-08-02) ; https://www.sec.gov/Archives/edgar/data/109198/000010919824000048/,종가 113.14 × 주식수 1127872845,5
+TJX Companies,TJX,2024Q3,2024-11-02,분기별 매출액,14063000000,USD,공시,https://www.sec.gov/Archives/edgar/data/109198/000010919824000059/,,5
+TJX Companies,TJX,2024Q3,2024-11-02,분기별 영업이익,미확인,USD,미확인,SEC companyfacts CIK0000109198: 해당 보고서에 OperatingIncomeLoss 태그 없음(영업이익 미공시) ; https://www.sec.gov/Archives/edgar/data/109198/000010919824000059/,,5
+TJX Companies,TJX,2024Q3,2024-11-02,분기별 당기순이익(지배),1297000000,USD,공시,https://www.sec.gov/Archives/edgar/data/109198/000010919824000059/,,5
+TJX Companies,TJX,2024Q3,2024-11-02,분기별 영업활동현금흐름,1046000000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/109198/000010919824000059/ ; https://www.sec.gov/Archives/edgar/data/109198/000010919824000048/,누적 3412000000 − 직전누적 2366000000 (시작 2024-02-04),5
+TJX Companies,TJX,2024Q3,2024-11-02,분기말 자산총계,32436000000,USD,공시,https://www.sec.gov/Archives/edgar/data/109198/000010919824000059/,,5
+TJX Companies,TJX,2024Q3,2024-11-02,분기말 부채총계,24263000000,USD,계산(부채및자본-총자본),https://www.sec.gov/Archives/edgar/data/109198/000010919824000059/,부채및자본 32436000000 − 총자본 8173000000,5
+TJX Companies,TJX,2024Q3,2024-11-02,분기말 총자본(자기자본),8173000000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/109198/000010919824000059/,"StockholdersEquity, MinorityInterest 태그 없음",5
+TJX Companies,TJX,2024Q3,2024-11-02,분기말 지배지분 자본,8173000000,USD,공시,https://www.sec.gov/Archives/edgar/data/109198/000010919824000059/,,5
+TJX Companies,TJX,2024Q3,2024-11-01,분기말 종가,112.39,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/TJX?interval=1d&events=splits (2024-11-01),,5
+TJX Companies,TJX,2024Q3,2024-11-22,분기말 상장주식수,1124158029,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/109198/000010919824000059/,dei:EntityCommonStockSharesOutstanding 클래스 합,5
+TJX Companies,TJX,2024Q3,2024-11-01,분기말 시가총액,126344120879,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/TJX?interval=1d&events=splits (2024-11-01) ; https://www.sec.gov/Archives/edgar/data/109198/000010919824000059/,종가 112.39 × 주식수 1124158029,5
+TJX Companies,TJX,2024Q4,2025-02-01,분기별 매출액,16350000000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/109198/000010919825000010/ ; https://www.sec.gov/Archives/edgar/data/109198/000010919824000059/,연간 56360000000 − 9개월누적 40010000000 (RevenueFromContractWithCustomerIncludingAssessedTax),5
+TJX Companies,TJX,2024Q4,2025-02-01,분기별 영업이익,미확인,USD,미확인,SEC companyfacts CIK0000109198: 해당 보고서에 OperatingIncomeLoss 태그 없음(영업이익 미공시) ; https://www.sec.gov/Archives/edgar/data/109198/000010919825000010/,,5
+TJX Companies,TJX,2024Q4,2025-02-01,분기별 당기순이익(지배),1398000000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/109198/000010919825000010/ ; https://www.sec.gov/Archives/edgar/data/109198/000010919824000059/,연간 4864000000 − 9개월누적 3466000000 (NetIncomeLoss),5
+TJX Companies,TJX,2024Q4,2025-02-01,분기별 영업활동현금흐름,2704000000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/109198/000010919825000010/ ; https://www.sec.gov/Archives/edgar/data/109198/000010919824000059/,누적 6116000000 − 직전누적 3412000000 (시작 2024-02-04),5
+TJX Companies,TJX,2024Q4,2025-02-01,분기말 자산총계,31749000000,USD,공시,https://www.sec.gov/Archives/edgar/data/109198/000010919825000010/,,5
+TJX Companies,TJX,2024Q4,2025-02-01,분기말 부채총계,23356000000,USD,계산(부채및자본-총자본),https://www.sec.gov/Archives/edgar/data/109198/000010919825000010/,부채및자본 31749000000 − 총자본 8393000000,5
+TJX Companies,TJX,2024Q4,2025-02-01,분기말 총자본(자기자본),8393000000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/109198/000010919825000010/,"StockholdersEquity, MinorityInterest 태그 없음",5
+TJX Companies,TJX,2024Q4,2025-02-01,분기말 지배지분 자본,8393000000,USD,공시,https://www.sec.gov/Archives/edgar/data/109198/000010919825000010/,,5
+TJX Companies,TJX,2024Q4,2025-01-31,분기말 종가,124.79,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/TJX?interval=1d&events=splits (2025-01-31),,5
+TJX Companies,TJX,2024Q4,2025-03-21,분기말 상장주식수,1117100487,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/109198/000010919825000010/,dei:EntityCommonStockSharesOutstanding 클래스 합,5
+TJX Companies,TJX,2024Q4,2025-01-31,분기말 시가총액,139402969773,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/TJX?interval=1d&events=splits (2025-01-31) ; https://www.sec.gov/Archives/edgar/data/109198/000010919825000010/,종가 124.79 × 주식수 1117100487,5
+TJX Companies,TJX,2025Q1,2025-05-03,분기별 매출액,13111000000,USD,공시,https://www.sec.gov/Archives/edgar/data/109198/000010919825000043/,,5
+TJX Companies,TJX,2025Q1,2025-05-03,분기별 영업이익,미확인,USD,미확인,SEC companyfacts CIK0000109198: 해당 보고서에 OperatingIncomeLoss 태그 없음(영업이익 미공시) ; https://www.sec.gov/Archives/edgar/data/109198/000010919825000043/,,5
+TJX Companies,TJX,2025Q1,2025-05-03,분기별 당기순이익(지배),1036000000,USD,공시,https://www.sec.gov/Archives/edgar/data/109198/000010919825000043/,,5
+TJX Companies,TJX,2025Q1,2025-05-03,분기별 영업활동현금흐름,394000000,USD,공시,https://www.sec.gov/Archives/edgar/data/109198/000010919825000043/,,5
+TJX Companies,TJX,2025Q1,2025-05-03,분기말 자산총계,31858000000,USD,공시,https://www.sec.gov/Archives/edgar/data/109198/000010919825000043/,,5
+TJX Companies,TJX,2025Q1,2025-05-03,분기말 부채총계,23355000000,USD,계산(부채및자본-총자본),https://www.sec.gov/Archives/edgar/data/109198/000010919825000043/,부채및자본 31858000000 − 총자본 8503000000,5
+TJX Companies,TJX,2025Q1,2025-05-03,분기말 총자본(자기자본),8503000000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/109198/000010919825000043/,"StockholdersEquity, MinorityInterest 태그 없음",5
+TJX Companies,TJX,2025Q1,2025-05-03,분기말 지배지분 자본,8503000000,USD,공시,https://www.sec.gov/Archives/edgar/data/109198/000010919825000043/,,5
+TJX Companies,TJX,2025Q1,2025-05-02,분기말 종가,129.21,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/TJX?interval=1d&events=splits (2025-05-02),,5
+TJX Companies,TJX,2025Q1,2025-05-23,분기말 상장주식수,1115615624,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/109198/000010919825000043/,dei:EntityCommonStockSharesOutstanding 클래스 합,5
+TJX Companies,TJX,2025Q1,2025-05-02,분기말 시가총액,144148694777,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/TJX?interval=1d&events=splits (2025-05-02) ; https://www.sec.gov/Archives/edgar/data/109198/000010919825000043/,종가 129.21 × 주식수 1115615624,5
+TJX Companies,TJX,2025Q2,2025-08-02,분기별 매출액,14401000000,USD,공시,https://www.sec.gov/Archives/edgar/data/109198/000010919825000054/,,5
+TJX Companies,TJX,2025Q2,2025-08-02,분기별 영업이익,미확인,USD,미확인,SEC companyfacts CIK0000109198: 해당 보고서에 OperatingIncomeLoss 태그 없음(영업이익 미공시) ; https://www.sec.gov/Archives/edgar/data/109198/000010919825000054/,,5
+TJX Companies,TJX,2025Q2,2025-08-02,분기별 당기순이익(지배),1243000000,USD,공시,https://www.sec.gov/Archives/edgar/data/109198/000010919825000054/,,5
+TJX Companies,TJX,2025Q2,2025-08-02,분기별 영업활동현금흐름,1791000000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/109198/000010919825000054/ ; https://www.sec.gov/Archives/edgar/data/109198/000010919825000043/,누적 2185000000 − 직전누적 394000000 (시작 2025-02-02),5
+TJX Companies,TJX,2025Q2,2025-08-02,분기말 자산총계,32885000000,USD,공시,https://www.sec.gov/Archives/edgar/data/109198/000010919825000054/,,5
+TJX Companies,TJX,2025Q2,2025-08-02,분기말 부채총계,24019000000,USD,계산(부채및자본-총자본),https://www.sec.gov/Archives/edgar/data/109198/000010919825000054/,부채및자본 32885000000 − 총자본 8866000000,5
+TJX Companies,TJX,2025Q2,2025-08-02,분기말 총자본(자기자본),8866000000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/109198/000010919825000054/,"StockholdersEquity, MinorityInterest 태그 없음",5
+TJX Companies,TJX,2025Q2,2025-08-02,분기말 지배지분 자본,8866000000,USD,공시,https://www.sec.gov/Archives/edgar/data/109198/000010919825000054/,,5
+TJX Companies,TJX,2025Q2,2025-08-01,분기말 종가,126.0,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/TJX?interval=1d&events=splits (2025-08-01),,5
+TJX Companies,TJX,2025Q2,2025-08-22,분기말 상장주식수,1112938750,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/109198/000010919825000054/,dei:EntityCommonStockSharesOutstanding 클래스 합,5
+TJX Companies,TJX,2025Q2,2025-08-01,분기말 시가총액,140230282500,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/TJX?interval=1d&events=splits (2025-08-01) ; https://www.sec.gov/Archives/edgar/data/109198/000010919825000054/,종가 126.0 × 주식수 1112938750,5
+TJX Companies,TJX,2025Q3,2025-11-01,분기별 매출액,15117000000,USD,공시,https://www.sec.gov/Archives/edgar/data/109198/000010919825000061/,,5
+TJX Companies,TJX,2025Q3,2025-11-01,분기별 영업이익,미확인,USD,미확인,SEC companyfacts CIK0000109198: 해당 보고서에 OperatingIncomeLoss 태그 없음(영업이익 미공시) ; https://www.sec.gov/Archives/edgar/data/109198/000010919825000061/,,5
+TJX Companies,TJX,2025Q3,2025-11-01,분기별 당기순이익(지배),1442000000,USD,공시,https://www.sec.gov/Archives/edgar/data/109198/000010919825000061/,,5
+TJX Companies,TJX,2025Q3,2025-11-01,분기별 영업활동현금흐름,1532000000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/109198/000010919825000061/ ; https://www.sec.gov/Archives/edgar/data/109198/000010919825000054/,누적 3717000000 − 직전누적 2185000000 (시작 2025-02-02),5
+TJX Companies,TJX,2025Q3,2025-11-01,분기말 자산총계,35188000000,USD,공시,https://www.sec.gov/Archives/edgar/data/109198/000010919825000061/,,5
+TJX Companies,TJX,2025Q3,2025-11-01,분기말 부채총계,25829000000,USD,계산(부채및자본-총자본),https://www.sec.gov/Archives/edgar/data/109198/000010919825000061/,부채및자본 35188000000 − 총자본 9359000000,5
+TJX Companies,TJX,2025Q3,2025-11-01,분기말 총자본(자기자본),9359000000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/109198/000010919825000061/,"StockholdersEquity, MinorityInterest 태그 없음",5
+TJX Companies,TJX,2025Q3,2025-11-01,분기말 지배지분 자본,9359000000,USD,공시,https://www.sec.gov/Archives/edgar/data/109198/000010919825000061/,,5
+TJX Companies,TJX,2025Q3,2025-10-31,분기말 종가,140.14,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/TJX?interval=1d&events=splits (2025-10-31),,5
+TJX Companies,TJX,2025Q3,2025-11-21,분기말 상장주식수,1110467095,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/109198/000010919825000061/,dei:EntityCommonStockSharesOutstanding 클래스 합,5
+TJX Companies,TJX,2025Q3,2025-10-31,분기말 시가총액,155620858693,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/TJX?interval=1d&events=splits (2025-10-31) ; https://www.sec.gov/Archives/edgar/data/109198/000010919825000061/,종가 140.14 × 주식수 1110467095,5
+TJX Companies,TJX,2025Q4,2026-01-31,분기별 매출액,17743000000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/109198/000010919826000008/ ; https://www.sec.gov/Archives/edgar/data/109198/000010919825000061/,연간 60372000000 − 9개월누적 42629000000 (RevenueFromContractWithCustomerIncludingAssessedTax),5
+TJX Companies,TJX,2025Q4,2026-01-31,분기별 영업이익,미확인,USD,미확인,SEC companyfacts CIK0000109198: 해당 보고서에 OperatingIncomeLoss 태그 없음(영업이익 미공시) ; https://www.sec.gov/Archives/edgar/data/109198/000010919826000008/,,5
+TJX Companies,TJX,2025Q4,2026-01-31,분기별 당기순이익(지배),1773000000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/109198/000010919826000008/ ; https://www.sec.gov/Archives/edgar/data/109198/000010919825000061/,연간 5494000000 − 9개월누적 3721000000 (NetIncomeLoss),5
+TJX Companies,TJX,2025Q4,2026-01-31,분기별 영업활동현금흐름,3157000000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/109198/000010919826000008/ ; https://www.sec.gov/Archives/edgar/data/109198/000010919825000061/,누적 6874000000 − 직전누적 3717000000 (시작 2025-02-02),5
+TJX Companies,TJX,2025Q4,2026-01-31,분기말 자산총계,35767000000,USD,공시,https://www.sec.gov/Archives/edgar/data/109198/000010919826000008/,,5
+TJX Companies,TJX,2025Q4,2026-01-31,분기말 부채총계,25577000000,USD,계산(부채및자본-총자본),https://www.sec.gov/Archives/edgar/data/109198/000010919826000008/,부채및자본 35767000000 − 총자본 10190000000,5
+TJX Companies,TJX,2025Q4,2026-01-31,분기말 총자본(자기자본),10190000000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/109198/000010919826000008/,"StockholdersEquity, MinorityInterest 태그 없음",5
+TJX Companies,TJX,2025Q4,2026-01-31,분기말 지배지분 자본,10190000000,USD,공시,https://www.sec.gov/Archives/edgar/data/109198/000010919826000008/,,5
+TJX Companies,TJX,2025Q4,2026-01-30,분기말 종가,149.81,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/TJX?interval=1d&events=splits (2026-01-30),,5
+TJX Companies,TJX,2025Q4,2026-03-20,분기말 상장주식수,1106810654,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/109198/000010919826000008/,dei:EntityCommonStockSharesOutstanding 클래스 합,5
+TJX Companies,TJX,2025Q4,2026-01-30,분기말 시가총액,165811304076,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/TJX?interval=1d&events=splits (2026-01-30) ; https://www.sec.gov/Archives/edgar/data/109198/000010919826000008/,종가 149.81 × 주식수 1106810654,5
+TJX Companies,TJX,2026Q1,2026-05-02,분기별 매출액,14323000000,USD,공시,https://www.sec.gov/Archives/edgar/data/109198/000010919826000034/,,5
+TJX Companies,TJX,2026Q1,2026-05-02,분기별 영업이익,미확인,USD,미확인,SEC companyfacts CIK0000109198: 해당 보고서에 OperatingIncomeLoss 태그 없음(영업이익 미공시) ; https://www.sec.gov/Archives/edgar/data/109198/000010919826000034/,,5
+TJX Companies,TJX,2026Q1,2026-05-02,분기별 당기순이익(지배),1332000000,USD,공시,https://www.sec.gov/Archives/edgar/data/109198/000010919826000034/,,5
+TJX Companies,TJX,2026Q1,2026-05-02,분기별 영업활동현금흐름,1119000000,USD,공시,https://www.sec.gov/Archives/edgar/data/109198/000010919826000034/,,5
+TJX Companies,TJX,2026Q1,2026-05-02,분기말 자산총계,36158000000,USD,공시,https://www.sec.gov/Archives/edgar/data/109198/000010919826000034/,,5
+TJX Companies,TJX,2026Q1,2026-05-02,분기말 부채총계,25755000000,USD,계산(부채및자본-총자본),https://www.sec.gov/Archives/edgar/data/109198/000010919826000034/,부채및자본 36158000000 − 총자본 10403000000,5
+TJX Companies,TJX,2026Q1,2026-05-02,분기말 총자본(자기자본),10403000000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/109198/000010919826000034/,"StockholdersEquity, MinorityInterest 태그 없음",5
+TJX Companies,TJX,2026Q1,2026-05-02,분기말 지배지분 자본,10403000000,USD,공시,https://www.sec.gov/Archives/edgar/data/109198/000010919826000034/,,5
+TJX Companies,TJX,2026Q1,2026-05-01,분기말 종가,156.83,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/TJX?interval=1d&events=splits (2026-05-01),,5
+TJX Companies,TJX,2026Q1,2026-05-22,분기말 상장주식수,1104704446,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/109198/000010919826000034/,dei:EntityCommonStockSharesOutstanding 클래스 합,5
+TJX Companies,TJX,2026Q1,2026-05-01,분기말 시가총액,173250798266,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/TJX?interval=1d&events=splits (2026-05-01) ; https://www.sec.gov/Archives/edgar/data/109198/000010919826000034/,종가 156.83 × 주식수 1104704446,5
+TJX Companies,TJX,2026Q2,2026-08-01,분기별 매출액,15180000000,USD,공시,https://www.sec.gov/Archives/edgar/data/109198/000010919826000048/,,5
+TJX Companies,TJX,2026Q2,2026-08-01,분기별 영업이익,미확인,USD,미확인,SEC companyfacts CIK0000109198: 해당 보고서에 OperatingIncomeLoss 태그 없음(영업이익 미공시) ; https://www.sec.gov/Archives/edgar/data/109198/000010919826000048/,,5
+TJX Companies,TJX,2026Q2,2026-08-01,분기별 당기순이익(지배),1520000000,USD,공시,https://www.sec.gov/Archives/edgar/data/109198/000010919826000048/,,5
+TJX Companies,TJX,2026Q2,2026-08-01,분기별 영업활동현금흐름,2226000000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/109198/000010919826000048/ ; https://www.sec.gov/Archives/edgar/data/109198/000010919826000034/,누적 3345000000 − 직전누적 1119000000 (시작 2026-02-01),5
+TJX Companies,TJX,2026Q2,2026-08-01,분기말 자산총계,37115000000,USD,공시,https://www.sec.gov/Archives/edgar/data/109198/000010919826000048/,,5
+TJX Companies,TJX,2026Q2,2026-08-01,분기말 부채총계,26464000000,USD,계산(부채및자본-총자본),https://www.sec.gov/Archives/edgar/data/109198/000010919826000048/,부채및자본 37115000000 − 총자본 10651000000,5
+TJX Companies,TJX,2026Q2,2026-08-01,분기말 총자본(자기자본),10651000000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/109198/000010919826000048/,"StockholdersEquity, MinorityInterest 태그 없음",5
+TJX Companies,TJX,2026Q2,2026-08-01,분기말 지배지분 자본,10651000000,USD,공시,https://www.sec.gov/Archives/edgar/data/109198/000010919826000048/,,5
+TJX Companies,TJX,2026Q2,2026-07-31,분기말 종가,157.34,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/TJX?interval=1d&events=splits (2026-07-31),,5
+TJX Companies,TJX,2026Q2,2026-08-21,분기말 상장주식수,1099974061,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/109198/000010919826000048/,dei:EntityCommonStockSharesOutstanding 클래스 합,5
+TJX Companies,TJX,2026Q2,2026-07-31,분기말 시가총액,173069918758,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/TJX?interval=1d&events=splits (2026-07-31) ; https://www.sec.gov/Archives/edgar/data/109198/000010919826000048/,종가 157.34 × 주식수 1099974061,5

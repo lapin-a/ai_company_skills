@@ -1,0 +1,727 @@
+﻿기업,종목코드,기간,기준일,항목,값,통화,값구분,출처,검산,라운드
+AT&T,T,2010Q1,2010-03-31,분기별 매출액,30649000000,USD,공시,https://www.sec.gov/Archives/edgar/data/732717/000073271710000033/,,4
+AT&T,T,2010Q1,2010-03-31,분기별 영업이익,6010000000,USD,공시,https://www.sec.gov/Archives/edgar/data/732717/000073271710000033/,,4
+AT&T,T,2010Q1,2010-03-31,분기별 당기순이익(지배),2475000000,USD,공시,https://www.sec.gov/Archives/edgar/data/732717/000073271710000033/,,4
+AT&T,T,2010Q1,2010-03-31,분기별 영업활동현금흐름,7253000000,USD,공시,https://www.sec.gov/Archives/edgar/data/732717/000073271710000033/,,4
+AT&T,T,2010Q1,2010-03-31,분기말 자산총계,265701000000,USD,공시,https://www.sec.gov/Archives/edgar/data/732717/000073271710000033/,,4
+AT&T,T,2010Q1,2010-03-31,분기말 부채총계,163235000000,USD,계산(부채및자본-총자본),https://www.sec.gov/Archives/edgar/data/732717/000073271710000033/,부채및자본 265701000000 − 총자본 102466000000,4
+AT&T,T,2010Q1,2010-03-31,분기말 총자본(자기자본),102466000000,USD,공시,https://www.sec.gov/Archives/edgar/data/732717/000073271710000033/,,4
+AT&T,T,2010Q1,2010-03-31,분기말 지배지분 자본,102023000000,USD,계산(총자본-비지배),https://www.sec.gov/Archives/edgar/data/732717/000073271710000033/,총자본 102466000000 − 비지배 443000000,4
+AT&T,T,2010Q1,2010-03-31,분기말 종가,25.84,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/T?interval=1d&events=splits (2010-03-31),분할조정 종가 19.5166 × 이후 분할계수 1.324,4
+AT&T,T,2010Q1,2010-04-30,분기말 상장주식수,5909000000,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/732717/000073271710000033/,dei:EntityCommonStockSharesOutstanding 클래스 합,4
+AT&T,T,2010Q1,2010-03-31,분기말 시가총액,152688560000,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/T?interval=1d&events=splits (2010-03-31) ; https://www.sec.gov/Archives/edgar/data/732717/000073271710000033/,종가 25.84 × 주식수 5909000000,4
+AT&T,T,2010Q2,2010-06-30,분기별 매출액,30808000000,USD,공시,https://www.sec.gov/Archives/edgar/data/732717/000073271710000074/,,4
+AT&T,T,2010Q2,2010-06-30,분기별 영업이익,6114000000,USD,공시,https://www.sec.gov/Archives/edgar/data/732717/000073271710000074/,,4
+AT&T,T,2010Q2,2010-06-30,분기별 당기순이익(지배),4023000000,USD,공시,https://www.sec.gov/Archives/edgar/data/732717/000073271710000074/,,4
+AT&T,T,2010Q2,2010-06-30,분기별 영업활동현금흐름,8557000000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/732717/000073271710000074/ ; https://www.sec.gov/Archives/edgar/data/732717/000073271710000033/,누적 15810000000 − 직전누적 7253000000 (시작 2010-01-01),4
+AT&T,T,2010Q2,2010-06-30,분기말 자산총계,267556000000,USD,공시,https://www.sec.gov/Archives/edgar/data/732717/000073271710000074/,,4
+AT&T,T,2010Q2,2010-06-30,분기말 부채총계,164073000000,USD,계산(부채및자본-총자본),https://www.sec.gov/Archives/edgar/data/732717/000073271710000074/,부채및자본 267556000000 − 총자본 103483000000,4
+AT&T,T,2010Q2,2010-06-30,분기말 총자본(자기자본),103483000000,USD,공시,https://www.sec.gov/Archives/edgar/data/732717/000073271710000074/,,4
+AT&T,T,2010Q2,2010-06-30,분기말 지배지분 자본,103046000000,USD,계산(총자본-비지배),https://www.sec.gov/Archives/edgar/data/732717/000073271710000074/,총자본 103483000000 − 비지배 437000000,4
+AT&T,T,2010Q2,2010-06-30,분기말 종가,24.19,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/T?interval=1d&events=splits (2010-06-30),분할조정 종가 18.2704 × 이후 분할계수 1.324,4
+AT&T,T,2010Q2,2010-07-31,분기말 상장주식수,5909046451,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/732717/000073271710000074/,dei:EntityCommonStockSharesOutstanding 클래스 합,4
+AT&T,T,2010Q2,2010-06-30,분기말 시가총액,142939833650,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/T?interval=1d&events=splits (2010-06-30) ; https://www.sec.gov/Archives/edgar/data/732717/000073271710000074/,종가 24.19 × 주식수 5909046451,4
+AT&T,T,2010Q3,2010-09-30,분기별 매출액,31581000000,USD,공시,https://www.sec.gov/Archives/edgar/data/732717/000073271710000091/,,4
+AT&T,T,2010Q3,2010-09-30,분기별 영업이익,5464000000,USD,공시,https://www.sec.gov/Archives/edgar/data/732717/000073271710000091/,,4
+AT&T,T,2010Q3,2010-09-30,분기별 당기순이익(지배),12339000000,USD,공시,https://www.sec.gov/Archives/edgar/data/732717/000073271710000091/,,4
+AT&T,T,2010Q3,2010-09-30,분기별 영업활동현금흐름,9540000000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/732717/000073271710000091/ ; https://www.sec.gov/Archives/edgar/data/732717/000073271710000074/,누적 25350000000 − 직전누적 15810000000 (시작 2010-01-01),4
+AT&T,T,2010Q3,2010-09-30,분기말 자산총계,269252000000,USD,공시,https://www.sec.gov/Archives/edgar/data/732717/000073271710000091/,,4
+AT&T,T,2010Q3,2010-09-30,분기말 부채총계,155959000000,USD,계산(부채및자본-총자본),https://www.sec.gov/Archives/edgar/data/732717/000073271710000091/,부채및자본 269252000000 − 총자본 113293000000,4
+AT&T,T,2010Q3,2010-09-30,분기말 총자본(자기자본),113293000000,USD,공시,https://www.sec.gov/Archives/edgar/data/732717/000073271710000091/,,4
+AT&T,T,2010Q3,2010-09-30,분기말 지배지분 자본,112994000000,USD,계산(총자본-비지배),https://www.sec.gov/Archives/edgar/data/732717/000073271710000091/,총자본 113293000000 − 비지배 299000000,4
+AT&T,T,2010Q3,2010-09-30,분기말 종가,28.6,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/T?interval=1d&events=splits (2010-09-30),분할조정 종가 21.6012 × 이후 분할계수 1.324,4
+AT&T,T,2010Q3,2010-10-31,분기말 상장주식수,5910000000,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/732717/000073271710000091/,dei:EntityCommonStockSharesOutstanding 클래스 합,4
+AT&T,T,2010Q3,2010-09-30,분기말 시가총액,169026000000,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/T?interval=1d&events=splits (2010-09-30) ; https://www.sec.gov/Archives/edgar/data/732717/000073271710000091/,종가 28.6 × 주식수 5910000000,4
+AT&T,T,2010Q4,2010-12-31,분기별 매출액,31361000000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/732717/000073271711000014/ ; https://www.sec.gov/Archives/edgar/data/732717/000073271710000091/,연간 124280000000 − 9개월누적 92919000000 (Revenues),4
+AT&T,T,2010Q4,2010-12-31,분기별 영업이익,1988000000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/732717/000073271711000014/ ; https://www.sec.gov/Archives/edgar/data/732717/000073271710000091/,연간 19573000000 − 9개월누적 17585000000 (OperatingIncomeLoss),4
+AT&T,T,2010Q4,2010-12-31,분기별 당기순이익(지배),1027000000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/732717/000073271711000014/ ; https://www.sec.gov/Archives/edgar/data/732717/000073271710000091/,연간 19864000000 − 9개월누적 18837000000 (NetIncomeLoss),4
+AT&T,T,2010Q4,2010-12-31,분기별 영업활동현금흐름,9643000000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/732717/000073271711000014/ ; https://www.sec.gov/Archives/edgar/data/732717/000073271710000091/,누적 34993000000 − 직전누적 25350000000 (시작 2010-01-01),4
+AT&T,T,2010Q4,2010-12-31,분기말 자산총계,269391000000,USD,공시(재작성 반영),https://www.sec.gov/Archives/edgar/data/732717/000073271712000025/,원 공시 268488000000 (https://www.sec.gov/Archives/edgar/data/732717/000073271711000014/),4
+AT&T,T,2010Q4,2010-12-31,분기말 부채총계,157441000000,USD,계산(부채및자본-총자본)(재작성 반영),https://www.sec.gov/Archives/edgar/data/732717/000073271712000025/,부채및자본 269391000000 − 총자본 111950000000 ; 원 공시 156538000000 (https://www.sec.gov/Archives/edgar/data/732717/000073271711000014/),4
+AT&T,T,2010Q4,2010-12-31,분기말 총자본(자기자본),111950000000,USD,공시,https://www.sec.gov/Archives/edgar/data/732717/000073271711000014/,,4
+AT&T,T,2010Q4,2010-12-31,분기말 지배지분 자본,111647000000,USD,계산(총자본-비지배),https://www.sec.gov/Archives/edgar/data/732717/000073271711000014/,총자본 111950000000 − 비지배 303000000,4
+AT&T,T,2010Q4,2010-12-31,분기말 종가,29.38,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/T?interval=1d&events=splits (2010-12-31),분할조정 종가 22.1903 × 이후 분할계수 1.324,4
+AT&T,T,2010Q4,2010-12-31,분기말 상장주식수,0,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/732717/000073271711000014/,dei:EntityCommonStockSharesOutstanding 클래스 합,4
+AT&T,T,2010Q4,2010-12-31,분기말 시가총액,0,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/T?interval=1d&events=splits (2010-12-31) ; https://www.sec.gov/Archives/edgar/data/732717/000073271711000014/,종가 29.38 × 주식수 0,4
+AT&T,T,2011Q1,2011-03-31,분기별 매출액,31247000000,USD,공시,https://www.sec.gov/Archives/edgar/data/732717/000119312511130267/,,4
+AT&T,T,2011Q1,2011-03-31,분기별 영업이익,5808000000,USD,공시,https://www.sec.gov/Archives/edgar/data/732717/000119312511130267/,,4
+AT&T,T,2011Q1,2011-03-31,분기별 당기순이익(지배),3408000000,USD,공시,https://www.sec.gov/Archives/edgar/data/732717/000119312511130267/,,4
+AT&T,T,2011Q1,2011-03-31,분기별 영업활동현금흐름,7732000000,USD,공시,https://www.sec.gov/Archives/edgar/data/732717/000119312511130267/,,4
+AT&T,T,2011Q1,2011-03-31,분기말 자산총계,268085000000,USD,공시,https://www.sec.gov/Archives/edgar/data/732717/000119312511130267/,,4
+AT&T,T,2011Q1,2011-03-31,분기말 부채총계,155242000000,USD,계산(부채및자본-총자본),https://www.sec.gov/Archives/edgar/data/732717/000119312511130267/,부채및자본 268085000000 − 총자본 112843000000,4
+AT&T,T,2011Q1,2011-03-31,분기말 총자본(자기자본),112843000000,USD,공시,https://www.sec.gov/Archives/edgar/data/732717/000119312511130267/,,4
+AT&T,T,2011Q1,2011-03-31,분기말 지배지분 자본,112544000000,USD,계산(총자본-비지배),https://www.sec.gov/Archives/edgar/data/732717/000119312511130267/,총자본 112843000000 − 비지배 299000000,4
+AT&T,T,2011Q1,2011-03-31,분기말 종가,30.61,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/T?interval=1d&events=splits (2011-03-31),분할조정 종가 23.1193 × 이후 분할계수 1.324,4
+AT&T,T,2011Q1,2011-04-29,분기말 상장주식수,5922000000,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/732717/000119312511130267/,dei:EntityCommonStockSharesOutstanding 클래스 합,4
+AT&T,T,2011Q1,2011-03-31,분기말 시가총액,181272420000,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/T?interval=1d&events=splits (2011-03-31) ; https://www.sec.gov/Archives/edgar/data/732717/000119312511130267/,종가 30.61 × 주식수 5922000000,4
+AT&T,T,2011Q2,2011-06-30,분기별 매출액,31495000000,USD,공시,https://www.sec.gov/Archives/edgar/data/732717/000119312511211863/,,4
+AT&T,T,2011Q2,2011-06-30,분기별 영업이익,6165000000,USD,공시,https://www.sec.gov/Archives/edgar/data/732717/000119312511211863/,,4
+AT&T,T,2011Q2,2011-06-30,분기별 당기순이익(지배),3591000000,USD,공시,https://www.sec.gov/Archives/edgar/data/732717/000119312511211863/,,4
+AT&T,T,2011Q2,2011-06-30,분기별 영업활동현금흐름,9025000000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/732717/000119312511211863/ ; https://www.sec.gov/Archives/edgar/data/732717/000119312511130267/,누적 16757000000 − 직전누적 7732000000 (시작 2011-01-01),4
+AT&T,T,2011Q2,2011-06-30,분기말 자산총계,272014000000,USD,공시,https://www.sec.gov/Archives/edgar/data/732717/000119312511211863/,,4
+AT&T,T,2011Q2,2011-06-30,분기말 부채총계,157905000000,USD,계산(부채및자본-총자본),https://www.sec.gov/Archives/edgar/data/732717/000119312511211863/,부채및자본 272014000000 − 총자본 114109000000,4
+AT&T,T,2011Q2,2011-06-30,분기말 총자본(자기자본),114109000000,USD,공시,https://www.sec.gov/Archives/edgar/data/732717/000119312511211863/,,4
+AT&T,T,2011Q2,2011-06-30,분기말 지배지분 자본,113803000000,USD,계산(총자본-비지배),https://www.sec.gov/Archives/edgar/data/732717/000119312511211863/,총자본 114109000000 − 비지배 306000000,4
+AT&T,T,2011Q2,2011-06-30,분기말 종가,31.41,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/T?interval=1d&events=splits (2011-06-30),분할조정 종가 23.7236 × 이후 분할계수 1.324,4
+AT&T,T,2011Q2,2011-07-29,분기말 상장주식수,5926000000,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/732717/000119312511211863/,dei:EntityCommonStockSharesOutstanding 클래스 합,4
+AT&T,T,2011Q2,2011-06-30,분기말 시가총액,186135660000,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/T?interval=1d&events=splits (2011-06-30) ; https://www.sec.gov/Archives/edgar/data/732717/000119312511211863/,종가 31.41 × 주식수 5926000000,4
+AT&T,T,2011Q3,2011-09-30,분기별 매출액,31478000000,USD,공시,https://www.sec.gov/Archives/edgar/data/732717/000073271711000094/,,4
+AT&T,T,2011Q3,2011-09-30,분기별 영업이익,6235000000,USD,공시,https://www.sec.gov/Archives/edgar/data/732717/000073271711000094/,,4
+AT&T,T,2011Q3,2011-09-30,분기별 당기순이익(지배),3623000000,USD,공시,https://www.sec.gov/Archives/edgar/data/732717/000073271711000094/,,4
+AT&T,T,2011Q3,2011-09-30,분기별 영업활동현금흐름,10393000000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/732717/000073271711000094/ ; https://www.sec.gov/Archives/edgar/data/732717/000119312511211863/,누적 27150000000 − 직전누적 16757000000 (시작 2011-01-01),4
+AT&T,T,2011Q3,2011-09-30,분기말 자산총계,277653000000,USD,공시,https://www.sec.gov/Archives/edgar/data/732717/000073271711000094/,,4
+AT&T,T,2011Q3,2011-09-30,분기말 부채총계,163771000000,USD,계산(부채및자본-총자본),https://www.sec.gov/Archives/edgar/data/732717/000073271711000094/,부채및자본 277653000000 − 총자본 113882000000,4
+AT&T,T,2011Q3,2011-09-30,분기말 총자본(자기자본),113882000000,USD,공시,https://www.sec.gov/Archives/edgar/data/732717/000073271711000094/,,4
+AT&T,T,2011Q3,2011-09-30,분기말 지배지분 자본,113615000000,USD,계산(총자본-비지배),https://www.sec.gov/Archives/edgar/data/732717/000073271711000094/,총자본 113882000000 − 비지배 267000000,4
+AT&T,T,2011Q3,2011-09-30,분기말 종가,28.52,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/T?interval=1d&events=splits (2011-09-30),분할조정 종가 21.5408 × 이후 분할계수 1.324,4
+AT&T,T,2011Q3,2011-10-31,분기말 상장주식수,5926000000,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/732717/000073271711000094/,dei:EntityCommonStockSharesOutstanding 클래스 합,4
+AT&T,T,2011Q3,2011-09-30,분기말 시가총액,169009520000,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/T?interval=1d&events=splits (2011-09-30) ; https://www.sec.gov/Archives/edgar/data/732717/000073271711000094/,종가 28.52 × 주식수 5926000000,4
+AT&T,T,2011Q4,2011-12-31,분기별 매출액,32503000000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/732717/000073271712000025/ ; https://www.sec.gov/Archives/edgar/data/732717/000073271711000094/,연간 126723000000 − 9개월누적 94220000000 (Revenues),4
+AT&T,T,2011Q4,2011-12-31,분기별 영업이익,-8990000000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/732717/000073271712000025/ ; https://www.sec.gov/Archives/edgar/data/732717/000073271711000094/,연간 9218000000 − 9개월누적 18208000000 (OperatingIncomeLoss),4
+AT&T,T,2011Q4,2011-12-31,분기별 당기순이익(지배),-6678000000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/732717/000073271712000025/ ; https://www.sec.gov/Archives/edgar/data/732717/000073271711000094/,연간 3944000000 − 9개월누적 10622000000 (NetIncomeLoss),4
+AT&T,T,2011Q4,2011-12-31,분기별 영업활동현금흐름,7498000000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/732717/000073271712000025/ ; https://www.sec.gov/Archives/edgar/data/732717/000073271711000094/,누적 34648000000 − 직전누적 27150000000 (시작 2011-01-01),4
+AT&T,T,2011Q4,2011-12-31,분기말 자산총계,270442000000,USD,공시(재작성 반영),https://www.sec.gov/Archives/edgar/data/732717/000073271713000017/,원 공시 270344000000 (https://www.sec.gov/Archives/edgar/data/732717/000073271712000025/),4
+AT&T,T,2011Q4,2011-12-31,분기말 부채총계,164645000000,USD,계산(부채및자본-총자본)(재작성 반영),https://www.sec.gov/Archives/edgar/data/732717/000073271713000017/,부채및자본 270442000000 − 총자본 105797000000 ; 원 공시 164547000000 (https://www.sec.gov/Archives/edgar/data/732717/000073271712000025/),4
+AT&T,T,2011Q4,2011-12-31,분기말 총자본(자기자본),105797000000,USD,공시,https://www.sec.gov/Archives/edgar/data/732717/000073271712000025/,,4
+AT&T,T,2011Q4,2011-12-31,분기말 지배지분 자본,105534000000,USD,계산(총자본-비지배),https://www.sec.gov/Archives/edgar/data/732717/000073271712000025/,총자본 105797000000 − 비지배 263000000,4
+AT&T,T,2011Q4,2011-12-30,분기말 종가,30.24,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/T?interval=1d&events=splits (2011-12-30),분할조정 종가 22.8399 × 이후 분할계수 1.324,4
+AT&T,T,2011Q4,2012-01-31,분기말 상장주식수,5929000000,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/732717/000073271712000025/,dei:EntityCommonStockSharesOutstanding 클래스 합,4
+AT&T,T,2011Q4,2011-12-30,분기말 시가총액,179292960000,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/T?interval=1d&events=splits (2011-12-30) ; https://www.sec.gov/Archives/edgar/data/732717/000073271712000025/,종가 30.24 × 주식수 5929000000,4
+AT&T,T,2012Q1,2012-03-31,분기별 매출액,31822000000,USD,공시,https://www.sec.gov/Archives/edgar/data/732717/000073271712000037/,,4
+AT&T,T,2012Q1,2012-03-31,분기별 영업이익,6101000000,USD,공시,https://www.sec.gov/Archives/edgar/data/732717/000073271712000037/,,4
+AT&T,T,2012Q1,2012-03-31,분기별 당기순이익(지배),3584000000,USD,공시,https://www.sec.gov/Archives/edgar/data/732717/000073271712000037/,,4
+AT&T,T,2012Q1,2012-03-31,분기별 영업활동현금흐름,7845000000,USD,공시(재작성 반영),https://www.sec.gov/Archives/edgar/data/732717/000073271713000036/,원 공시 7796000000 (https://www.sec.gov/Archives/edgar/data/732717/000073271712000037/),4
+AT&T,T,2012Q1,2012-03-31,분기말 자산총계,269356000000,USD,공시,https://www.sec.gov/Archives/edgar/data/732717/000073271712000037/,,4
+AT&T,T,2012Q1,2012-03-31,분기말 부채총계,164169000000,USD,계산(부채및자본-총자본),https://www.sec.gov/Archives/edgar/data/732717/000073271712000037/,부채및자본 269356000000 − 총자본 105187000000,4
+AT&T,T,2012Q1,2012-03-31,분기말 총자본(자기자본),105187000000,USD,공시,https://www.sec.gov/Archives/edgar/data/732717/000073271712000037/,,4
+AT&T,T,2012Q1,2012-03-31,분기말 지배지분 자본,104899000000,USD,계산(총자본-비지배),https://www.sec.gov/Archives/edgar/data/732717/000073271712000037/,총자본 105187000000 − 비지배 288000000,4
+AT&T,T,2012Q1,2012-03-30,분기말 종가,31.23,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/T?interval=1d&events=splits (2012-03-30),분할조정 종가 23.5876 × 이후 분할계수 1.324,4
+AT&T,T,2012Q1,2012-04-30,분기말 상장주식수,5863000000,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/732717/000073271712000037/,dei:EntityCommonStockSharesOutstanding 클래스 합,4
+AT&T,T,2012Q1,2012-03-30,분기말 시가총액,183101490000,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/T?interval=1d&events=splits (2012-03-30) ; https://www.sec.gov/Archives/edgar/data/732717/000073271712000037/,종가 31.23 × 주식수 5863000000,4
+AT&T,T,2012Q2,2012-06-30,분기별 매출액,31575000000,USD,공시,https://www.sec.gov/Archives/edgar/data/732717/000073271712000073/,,4
+AT&T,T,2012Q2,2012-06-30,분기별 영업이익,6817000000,USD,공시,https://www.sec.gov/Archives/edgar/data/732717/000073271712000073/,,4
+AT&T,T,2012Q2,2012-06-30,분기별 당기순이익(지배),3902000000,USD,공시,https://www.sec.gov/Archives/edgar/data/732717/000073271712000073/,,4
+AT&T,T,2012Q2,2012-06-30,분기별 영업활동현금흐름,9480000000,USD,계산(누적차감)(재작성 반영),https://www.sec.gov/Archives/edgar/data/732717/000073271713000080/ ; https://www.sec.gov/Archives/edgar/data/732717/000073271713000036/,누적 17325000000 − 직전누적 7845000000 (시작 2012-01-01) ; 원 공시 9663000000 (https://www.sec.gov/Archives/edgar/data/732717/000073271712000073/ ; https://www.sec.gov/Archives/edgar/data/732717/000073271712000037/),4
+AT&T,T,2012Q2,2012-06-30,분기말 자산총계,266294000000,USD,공시,https://www.sec.gov/Archives/edgar/data/732717/000073271712000073/,,4
+AT&T,T,2012Q2,2012-06-30,분기말 부채총계,162715000000,USD,계산(부채및자본-총자본),https://www.sec.gov/Archives/edgar/data/732717/000073271712000073/,부채및자본 266294000000 − 총자본 103579000000,4
+AT&T,T,2012Q2,2012-06-30,분기말 총자본(자기자본),103579000000,USD,공시,https://www.sec.gov/Archives/edgar/data/732717/000073271712000073/,,4
+AT&T,T,2012Q2,2012-06-30,분기말 지배지분 자본,103280000000,USD,계산(총자본-비지배),https://www.sec.gov/Archives/edgar/data/732717/000073271712000073/,총자본 103579000000 − 비지배 299000000,4
+AT&T,T,2012Q2,2012-06-29,분기말 종가,35.66,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/T?interval=1d&events=splits (2012-06-29),분할조정 종가 26.9335 × 이후 분할계수 1.324,4
+AT&T,T,2012Q2,2012-07-31,분기말 상장주식수,5769000000,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/732717/000073271712000073/,dei:EntityCommonStockSharesOutstanding 클래스 합,4
+AT&T,T,2012Q2,2012-06-29,분기말 시가총액,205722540000,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/T?interval=1d&events=splits (2012-06-29) ; https://www.sec.gov/Archives/edgar/data/732717/000073271712000073/,종가 35.66 × 주식수 5769000000,4
+AT&T,T,2012Q3,2012-09-30,분기별 매출액,31459000000,USD,공시,https://www.sec.gov/Archives/edgar/data/732717/000073271712000088/,,4
+AT&T,T,2012Q3,2012-09-30,분기별 영업이익,6037000000,USD,공시,https://www.sec.gov/Archives/edgar/data/732717/000073271712000088/,,4
+AT&T,T,2012Q3,2012-09-30,분기별 당기순이익(지배),3635000000,USD,공시,https://www.sec.gov/Archives/edgar/data/732717/000073271712000088/,,4
+AT&T,T,2012Q3,2012-09-30,분기별 영업활동현금흐름,11331000000,USD,계산(누적차감)(재작성 반영),https://www.sec.gov/Archives/edgar/data/732717/000073271713000099/ ; https://www.sec.gov/Archives/edgar/data/732717/000073271713000080/,누적 28656000000 − 직전누적 17325000000 (시작 2012-01-01) ; 원 공시 11485000000 (https://www.sec.gov/Archives/edgar/data/732717/000073271712000088/ ; https://www.sec.gov/Archives/edgar/data/732717/000073271712000073/),4
+AT&T,T,2012Q3,2012-09-30,분기말 자산총계,266849000000,USD,공시,https://www.sec.gov/Archives/edgar/data/732717/000073271712000088/,,4
+AT&T,T,2012Q3,2012-09-30,분기말 부채총계,165575000000,USD,계산(부채및자본-총자본),https://www.sec.gov/Archives/edgar/data/732717/000073271712000088/,부채및자본 266849000000 − 총자본 101274000000,4
+AT&T,T,2012Q3,2012-09-30,분기말 총자본(자기자본),101274000000,USD,공시,https://www.sec.gov/Archives/edgar/data/732717/000073271712000088/,,4
+AT&T,T,2012Q3,2012-09-30,분기말 지배지분 자본,100957000000,USD,계산(총자본-비지배),https://www.sec.gov/Archives/edgar/data/732717/000073271712000088/,총자본 101274000000 − 비지배 317000000,4
+AT&T,T,2012Q3,2012-09-28,분기말 종가,37.7,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/T?interval=1d&events=splits (2012-09-28),분할조정 종가 28.4743 × 이후 분할계수 1.324,4
+AT&T,T,2012Q3,2012-10-31,분기말 상장주식수,5680000000,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/732717/000073271712000088/,dei:EntityCommonStockSharesOutstanding 클래스 합,4
+AT&T,T,2012Q3,2012-09-28,분기말 시가총액,214136000000,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/T?interval=1d&events=splits (2012-09-28) ; https://www.sec.gov/Archives/edgar/data/732717/000073271712000088/,종가 37.7 × 주식수 5680000000,4
+AT&T,T,2012Q4,2012-12-31,분기별 매출액,32578000000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/732717/000073271713000017/ ; https://www.sec.gov/Archives/edgar/data/732717/000073271712000088/,연간 127434000000 − 9개월누적 94856000000 (Revenues),4
+AT&T,T,2012Q4,2012-12-31,분기별 영업이익,-5958000000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/732717/000073271713000017/ ; https://www.sec.gov/Archives/edgar/data/732717/000073271712000088/,연간 12997000000 − 9개월누적 18955000000 (OperatingIncomeLoss),4
+AT&T,T,2012Q4,2012-12-31,분기별 당기순이익(지배),-3857000000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/732717/000073271713000017/ ; https://www.sec.gov/Archives/edgar/data/732717/000073271712000088/,연간 7264000000 − 9개월누적 11121000000 (NetIncomeLoss),4
+AT&T,T,2012Q4,2012-12-31,분기별 영업활동현금흐름,10520000000,USD,계산(누적차감)(재작성 반영),https://www.sec.gov/Archives/edgar/data/732717/000073271713000017/ ; https://www.sec.gov/Archives/edgar/data/732717/000073271713000099/,누적 39176000000 − 직전누적 28656000000 (시작 2012-01-01) ; 원 공시 10232000000 (https://www.sec.gov/Archives/edgar/data/732717/000073271713000017/ ; https://www.sec.gov/Archives/edgar/data/732717/000073271712000088/),4
+AT&T,T,2012Q4,2012-12-31,분기말 자산총계,272315000000,USD,공시,https://www.sec.gov/Archives/edgar/data/732717/000073271713000017/,,4
+AT&T,T,2012Q4,2012-12-31,분기말 부채총계,176662000000,USD,계산(부채및자본-총자본)(재작성 반영),https://www.sec.gov/Archives/edgar/data/732717/000073271713000017/,부채및자본 272315000000 − 총자본 95653000000 ; 원 공시 179620000000 (https://www.sec.gov/Archives/edgar/data/732717/000073271713000017/),4
+AT&T,T,2012Q4,2012-12-31,분기말 총자본(자기자본),95653000000,USD,공시(재작성 반영),https://www.sec.gov/Archives/edgar/data/732717/000073271716000147/,원 공시 92695000000 (https://www.sec.gov/Archives/edgar/data/732717/000073271713000017/),4
+AT&T,T,2012Q4,2012-12-31,분기말 지배지분 자본,95320000000,USD,계산(총자본-비지배)(재작성 반영),https://www.sec.gov/Archives/edgar/data/732717/000073271716000147/,총자본 95653000000 − 비지배 333000000 ; 원 공시 92362000000 (https://www.sec.gov/Archives/edgar/data/732717/000073271713000017/),4
+AT&T,T,2012Q4,2012-12-31,분기말 종가,33.71,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/T?interval=1d&events=splits (2012-12-31),분할조정 종가 25.4607 × 이후 분할계수 1.324,4
+AT&T,T,2012Q4,2013-02-20,분기말 상장주식수,5492000000,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/732717/000073271713000017/,dei:EntityCommonStockSharesOutstanding 클래스 합,4
+AT&T,T,2012Q4,2012-12-31,분기말 시가총액,185135320000,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/T?interval=1d&events=splits (2012-12-31) ; https://www.sec.gov/Archives/edgar/data/732717/000073271713000017/,종가 33.71 × 주식수 5492000000,4
+AT&T,T,2013Q1,2013-03-31,분기별 매출액,31356000000,USD,공시,https://www.sec.gov/Archives/edgar/data/732717/000073271713000036/,,4
+AT&T,T,2013Q1,2013-03-31,분기별 영업이익,5940000000,USD,공시,https://www.sec.gov/Archives/edgar/data/732717/000073271713000036/,,4
+AT&T,T,2013Q1,2013-03-31,분기별 당기순이익(지배),3700000000,USD,공시,https://www.sec.gov/Archives/edgar/data/732717/000073271713000036/,,4
+AT&T,T,2013Q1,2013-03-31,분기별 영업활동현금흐름,8199000000,USD,공시,https://www.sec.gov/Archives/edgar/data/732717/000073271713000036/,,4
+AT&T,T,2013Q1,2013-03-31,분기말 자산총계,270994000000,USD,공시,https://www.sec.gov/Archives/edgar/data/732717/000073271713000036/,,4
+AT&T,T,2013Q1,2013-03-31,분기말 부채총계,182656000000,USD,계산(부채및자본-총자본),https://www.sec.gov/Archives/edgar/data/732717/000073271713000036/,부채및자본 270994000000 − 총자본 88338000000,4
+AT&T,T,2013Q1,2013-03-31,분기말 총자본(자기자본),88338000000,USD,공시,https://www.sec.gov/Archives/edgar/data/732717/000073271713000036/,,4
+AT&T,T,2013Q1,2013-03-31,분기말 지배지분 자본,87998000000,USD,계산(총자본-비지배),https://www.sec.gov/Archives/edgar/data/732717/000073271713000036/,총자본 88338000000 − 비지배 340000000,4
+AT&T,T,2013Q1,2013-03-28,분기말 종가,36.69,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/T?interval=1d&events=splits (2013-03-28),분할조정 종가 27.7115 × 이후 분할계수 1.324,4
+AT&T,T,2013Q1,2013-04-30,분기말 상장주식수,5380000000,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/732717/000073271713000036/,dei:EntityCommonStockSharesOutstanding 클래스 합,4
+AT&T,T,2013Q1,2013-03-28,분기말 시가총액,197392200000,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/T?interval=1d&events=splits (2013-03-28) ; https://www.sec.gov/Archives/edgar/data/732717/000073271713000036/,종가 36.69 × 주식수 5380000000,4
+AT&T,T,2013Q2,2013-06-30,분기별 매출액,32075000000,USD,공시,https://www.sec.gov/Archives/edgar/data/732717/000073271713000080/,,4
+AT&T,T,2013Q2,2013-06-30,분기별 영업이익,6113000000,USD,공시,https://www.sec.gov/Archives/edgar/data/732717/000073271713000080/,,4
+AT&T,T,2013Q2,2013-06-30,분기별 당기순이익(지배),3822000000,USD,공시,https://www.sec.gov/Archives/edgar/data/732717/000073271713000080/,,4
+AT&T,T,2013Q2,2013-06-30,분기별 영업활동현금흐름,9512000000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/732717/000073271713000080/ ; https://www.sec.gov/Archives/edgar/data/732717/000073271713000036/,누적 17711000000 − 직전누적 8199000000 (시작 2013-01-01),4
+AT&T,T,2013Q2,2013-06-30,분기말 자산총계,272093000000,USD,공시,https://www.sec.gov/Archives/edgar/data/732717/000073271713000080/,,4
+AT&T,T,2013Q2,2013-06-30,분기말 부채총계,185778000000,USD,계산(부채및자본-총자본),https://www.sec.gov/Archives/edgar/data/732717/000073271713000080/,부채및자본 272093000000 − 총자본 86315000000,4
+AT&T,T,2013Q2,2013-06-30,분기말 총자본(자기자본),86315000000,USD,공시,https://www.sec.gov/Archives/edgar/data/732717/000073271713000080/,,4
+AT&T,T,2013Q2,2013-06-30,분기말 지배지분 자본,85980000000,USD,계산(총자본-비지배),https://www.sec.gov/Archives/edgar/data/732717/000073271713000080/,총자본 86315000000 − 비지배 335000000,4
+AT&T,T,2013Q2,2013-06-28,분기말 종가,35.4,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/T?interval=1d&events=splits (2013-06-28),분할조정 종가 26.7372 × 이후 분할계수 1.324,4
+AT&T,T,2013Q2,2013-07-31,분기말 상장주식수,5311000000,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/732717/000073271713000080/,dei:EntityCommonStockSharesOutstanding 클래스 합,4
+AT&T,T,2013Q2,2013-06-28,분기말 시가총액,188009400000,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/T?interval=1d&events=splits (2013-06-28) ; https://www.sec.gov/Archives/edgar/data/732717/000073271713000080/,종가 35.4 × 주식수 5311000000,4
+AT&T,T,2013Q3,2013-09-30,분기별 매출액,32158000000,USD,공시,https://www.sec.gov/Archives/edgar/data/732717/000073271713000099/,,4
+AT&T,T,2013Q3,2013-09-30,분기별 영업이익,6188000000,USD,공시,https://www.sec.gov/Archives/edgar/data/732717/000073271713000099/,,4
+AT&T,T,2013Q3,2013-09-30,분기별 당기순이익(지배),3814000000,USD,공시,https://www.sec.gov/Archives/edgar/data/732717/000073271713000099/,,4
+AT&T,T,2013Q3,2013-09-30,분기별 영업활동현금흐름,9168000000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/732717/000073271713000099/ ; https://www.sec.gov/Archives/edgar/data/732717/000073271713000080/,누적 26879000000 − 직전누적 17711000000 (시작 2013-01-01),4
+AT&T,T,2013Q3,2013-09-30,분기말 자산총계,274599000000,USD,공시,https://www.sec.gov/Archives/edgar/data/732717/000073271713000099/,,4
+AT&T,T,2013Q3,2013-09-30,분기말 부채총계,188469000000,USD,계산(부채및자본-총자본),https://www.sec.gov/Archives/edgar/data/732717/000073271713000099/,부채및자본 274599000000 − 총자본 86130000000,4
+AT&T,T,2013Q3,2013-09-30,분기말 총자본(자기자본),86130000000,USD,공시,https://www.sec.gov/Archives/edgar/data/732717/000073271713000099/,,4
+AT&T,T,2013Q3,2013-09-30,분기말 지배지분 자본,85715000000,USD,계산(총자본-비지배),https://www.sec.gov/Archives/edgar/data/732717/000073271713000099/,총자본 86130000000 − 비지배 415000000,4
+AT&T,T,2013Q3,2013-09-30,분기말 종가,33.82,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/T?interval=1d&events=splits (2013-09-30),분할조정 종가 25.5438 × 이후 분할계수 1.324,4
+AT&T,T,2013Q3,2013-10-31,분기말 상장주식수,5268000000,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/732717/000073271713000099/,dei:EntityCommonStockSharesOutstanding 클래스 합,4
+AT&T,T,2013Q3,2013-09-30,분기말 시가총액,178163760000,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/T?interval=1d&events=splits (2013-09-30) ; https://www.sec.gov/Archives/edgar/data/732717/000073271713000099/,종가 33.82 × 주식수 5268000000,4
+AT&T,T,2013Q4,2013-12-31,분기별 매출액,33163000000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/732717/000073271714000010/ ; https://www.sec.gov/Archives/edgar/data/732717/000073271713000099/,연간 128752000000 − 9개월누적 95589000000 (Revenues),4
+AT&T,T,2013Q4,2013-12-31,분기별 영업이익,12511000000,USD,계산(연간-3분기누적)(재작성 반영),https://www.sec.gov/Archives/edgar/data/732717/000073271716000147/ ; https://www.sec.gov/Archives/edgar/data/732717/000073271713000099/,연간 30752000000 − 9개월누적 18241000000 (OperatingIncomeLoss) ; 원 공시 12238000000 (https://www.sec.gov/Archives/edgar/data/732717/000073271714000010/ ; https://www.sec.gov/Archives/edgar/data/732717/000073271713000099/),4
+AT&T,T,2013Q4,2013-12-31,분기별 당기순이익(지배),7082000000,USD,계산(연간-3분기누적)(재작성 반영),https://www.sec.gov/Archives/edgar/data/732717/000073271716000147/ ; https://www.sec.gov/Archives/edgar/data/732717/000073271713000099/,연간 18418000000 − 9개월누적 11336000000 (NetIncomeLoss) ; 원 공시 6913000000 (https://www.sec.gov/Archives/edgar/data/732717/000073271714000010/ ; https://www.sec.gov/Archives/edgar/data/732717/000073271713000099/),4
+AT&T,T,2013Q4,2013-12-31,분기별 영업활동현금흐름,7917000000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/732717/000073271714000010/ ; https://www.sec.gov/Archives/edgar/data/732717/000073271713000099/,누적 34796000000 − 직전누적 26879000000 (시작 2013-01-01),4
+AT&T,T,2013Q4,2013-12-31,분기말 자산총계,277787000000,USD,공시,https://www.sec.gov/Archives/edgar/data/732717/000073271714000010/,,4
+AT&T,T,2013Q4,2013-12-31,분기말 부채총계,183177000000,USD,계산(부채및자본-총자본)(재작성 반영),https://www.sec.gov/Archives/edgar/data/732717/000073271714000010/,부채및자본 277787000000 − 총자본 94610000000 ; 원 공시 186305000000 (https://www.sec.gov/Archives/edgar/data/732717/000073271714000010/),4
+AT&T,T,2013Q4,2013-12-31,분기말 총자본(자기자본),94610000000,USD,공시(재작성 반영),https://www.sec.gov/Archives/edgar/data/732717/000073271717000021/,원 공시 91482000000 (https://www.sec.gov/Archives/edgar/data/732717/000073271714000010/),4
+AT&T,T,2013Q4,2013-12-31,분기말 지배지분 자본,94116000000,USD,계산(총자본-비지배)(재작성 반영),https://www.sec.gov/Archives/edgar/data/732717/000073271717000021/,총자본 94610000000 − 비지배 494000000 ; 원 공시 90988000000 (https://www.sec.gov/Archives/edgar/data/732717/000073271714000010/),4
+AT&T,T,2013Q4,2013-12-31,분기말 종가,35.16,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/T?interval=1d&events=splits (2013-12-31),분할조정 종가 26.5559 × 이후 분할계수 1.324,4
+AT&T,T,2013Q4,2014-02-14,분기말 상장주식수,5207000000,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/732717/000073271714000010/,dei:EntityCommonStockSharesOutstanding 클래스 합,4
+AT&T,T,2013Q4,2013-12-31,분기말 시가총액,183078120000,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/T?interval=1d&events=splits (2013-12-31) ; https://www.sec.gov/Archives/edgar/data/732717/000073271714000010/,종가 35.16 × 주식수 5207000000,4
+AT&T,T,2014Q1,2014-03-31,분기별 매출액,32476000000,USD,공시,https://www.sec.gov/Archives/edgar/data/732717/000073271714000022/,,4
+AT&T,T,2014Q1,2014-03-31,분기별 영업이익,6335000000,USD,공시(재작성 반영),https://www.sec.gov/Archives/edgar/data/732717/000073271716000147/,원 공시 6278000000 (https://www.sec.gov/Archives/edgar/data/732717/000073271714000022/),4
+AT&T,T,2014Q1,2014-03-31,분기별 당기순이익(지배),3688000000,USD,공시(재작성 반영),https://www.sec.gov/Archives/edgar/data/732717/000073271716000147/,원 공시 3652000000 (https://www.sec.gov/Archives/edgar/data/732717/000073271714000022/),4
+AT&T,T,2014Q1,2014-03-31,분기별 영업활동현금흐름,8799000000,USD,공시,https://www.sec.gov/Archives/edgar/data/732717/000073271714000022/,,4
+AT&T,T,2014Q1,2014-03-31,분기말 자산총계,285340000000,USD,공시,https://www.sec.gov/Archives/edgar/data/732717/000073271714000022/,,4
+AT&T,T,2014Q1,2014-03-31,분기말 부채총계,193971000000,USD,계산(부채및자본-총자본),https://www.sec.gov/Archives/edgar/data/732717/000073271714000022/,부채및자본 285340000000 − 총자본 91369000000,4
+AT&T,T,2014Q1,2014-03-31,분기말 총자본(자기자본),91369000000,USD,공시,https://www.sec.gov/Archives/edgar/data/732717/000073271714000022/,,4
+AT&T,T,2014Q1,2014-03-31,분기말 지배지분 자본,90906000000,USD,계산(총자본-비지배),https://www.sec.gov/Archives/edgar/data/732717/000073271714000022/,총자본 91369000000 − 비지배 463000000,4
+AT&T,T,2014Q1,2014-03-31,분기말 종가,35.07,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/T?interval=1d&events=splits (2014-03-31),분할조정 종가 26.4879 × 이후 분할계수 1.324,4
+AT&T,T,2014Q1,2014-04-30,분기말 상장주식수,5190000000,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/732717/000073271714000022/,dei:EntityCommonStockSharesOutstanding 클래스 합,4
+AT&T,T,2014Q1,2014-03-31,분기말 시가총액,182013300000,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/T?interval=1d&events=splits (2014-03-31) ; https://www.sec.gov/Archives/edgar/data/732717/000073271714000022/,종가 35.07 × 주식수 5190000000,4
+AT&T,T,2014Q2,2014-06-30,분기별 매출액,32575000000,USD,공시,https://www.sec.gov/Archives/edgar/data/732717/000073271714000110/,,4
+AT&T,T,2014Q2,2014-06-30,분기별 영업이익,5739000000,USD,공시(재작성 반영),https://www.sec.gov/Archives/edgar/data/732717/000073271716000147/,원 공시 5616000000 (https://www.sec.gov/Archives/edgar/data/732717/000073271714000110/),4
+AT&T,T,2014Q2,2014-06-30,분기별 당기순이익(지배),3623000000,USD,공시(재작성 반영),https://www.sec.gov/Archives/edgar/data/732717/000073271716000147/,원 공시 3547000000 (https://www.sec.gov/Archives/edgar/data/732717/000073271714000110/),4
+AT&T,T,2014Q2,2014-06-30,분기별 영업활동현금흐름,8070000000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/732717/000073271714000110/ ; https://www.sec.gov/Archives/edgar/data/732717/000073271714000022/,누적 16869000000 − 직전누적 8799000000 (시작 2014-01-01),4
+AT&T,T,2014Q2,2014-06-30,분기말 자산총계,293466000000,USD,공시,https://www.sec.gov/Archives/edgar/data/732717/000073271714000110/,,4
+AT&T,T,2014Q2,2014-06-30,분기말 부채총계,200841000000,USD,계산(부채및자본-총자본),https://www.sec.gov/Archives/edgar/data/732717/000073271714000110/,부채및자본 293466000000 − 총자본 92625000000,4
+AT&T,T,2014Q2,2014-06-30,분기말 총자본(자기자본),92625000000,USD,공시,https://www.sec.gov/Archives/edgar/data/732717/000073271714000110/,,4
+AT&T,T,2014Q2,2014-06-30,분기말 지배지분 자본,92132000000,USD,계산(총자본-비지배),https://www.sec.gov/Archives/edgar/data/732717/000073271714000110/,총자본 92625000000 − 비지배 493000000,4
+AT&T,T,2014Q2,2014-06-30,분기말 종가,35.36,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/T?interval=1d&events=splits (2014-06-30),분할조정 종가 26.7069 × 이후 분할계수 1.324,4
+AT&T,T,2014Q2,2014-07-31,분기말 상장주식수,5186000000,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/732717/000073271714000110/,dei:EntityCommonStockSharesOutstanding 클래스 합,4
+AT&T,T,2014Q2,2014-06-30,분기말 시가총액,183376960000,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/T?interval=1d&events=splits (2014-06-30) ; https://www.sec.gov/Archives/edgar/data/732717/000073271714000110/,종가 35.36 × 주식수 5186000000,4
+AT&T,T,2014Q3,2014-09-30,분기별 매출액,32957000000,USD,공시,https://www.sec.gov/Archives/edgar/data/732717/000073271714000134/,,4
+AT&T,T,2014Q3,2014-09-30,분기별 영업이익,5607000000,USD,공시(재작성 반영),https://www.sec.gov/Archives/edgar/data/732717/000073271716000147/,원 공시 5402000000 (https://www.sec.gov/Archives/edgar/data/732717/000073271714000134/),4
+AT&T,T,2014Q3,2014-09-30,분기별 당기순이익(지배),3130000000,USD,공시(재작성 반영),https://www.sec.gov/Archives/edgar/data/732717/000073271716000147/,원 공시 3002000000 (https://www.sec.gov/Archives/edgar/data/732717/000073271714000134/),4
+AT&T,T,2014Q3,2014-09-30,분기별 영업활동현금흐름,8724000000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/732717/000073271714000134/ ; https://www.sec.gov/Archives/edgar/data/732717/000073271714000110/,누적 25593000000 − 직전누적 16869000000 (시작 2014-01-01),4
+AT&T,T,2014Q3,2014-09-30,분기말 자산총계,287939000000,USD,공시,https://www.sec.gov/Archives/edgar/data/732717/000073271714000134/,,4
+AT&T,T,2014Q3,2014-09-30,분기말 부채총계,194820000000,USD,계산(부채및자본-총자본),https://www.sec.gov/Archives/edgar/data/732717/000073271714000134/,부채및자본 287939000000 − 총자본 93119000000,4
+AT&T,T,2014Q3,2014-09-30,분기말 총자본(자기자본),93119000000,USD,공시,https://www.sec.gov/Archives/edgar/data/732717/000073271714000134/,,4
+AT&T,T,2014Q3,2014-09-30,분기말 지배지분 자본,92613000000,USD,계산(총자본-비지배),https://www.sec.gov/Archives/edgar/data/732717/000073271714000134/,총자본 93119000000 − 비지배 506000000,4
+AT&T,T,2014Q3,2014-09-30,분기말 종가,35.24,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/T?interval=1d&events=splits (2014-09-30),분할조정 종가 26.6163 × 이후 분할계수 1.324,4
+AT&T,T,2014Q3,2014-10-31,분기말 상장주식수,5187000000,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/732717/000073271714000134/,dei:EntityCommonStockSharesOutstanding 클래스 합,4
+AT&T,T,2014Q3,2014-09-30,분기말 시가총액,182789880000,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/T?interval=1d&events=splits (2014-09-30) ; https://www.sec.gov/Archives/edgar/data/732717/000073271714000134/,종가 35.24 × 주식수 5187000000,4
+AT&T,T,2014Q4,2014-12-31,분기별 매출액,34439000000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/732717/000073271715000016/ ; https://www.sec.gov/Archives/edgar/data/732717/000073271714000134/,연간 132447000000 − 9개월누적 98008000000 (Revenues),4
+AT&T,T,2014Q4,2014-12-31,분기별 영업이익,-5469000000,USD,계산(연간-3분기누적)(재작성 반영),https://www.sec.gov/Archives/edgar/data/732717/000073271717000021/ ; https://www.sec.gov/Archives/edgar/data/732717/000073271715000121/,연간 12212000000 − 9개월누적 17681000000 (OperatingIncomeLoss) ; 원 공시 -5550000000 (https://www.sec.gov/Archives/edgar/data/732717/000073271715000016/ ; https://www.sec.gov/Archives/edgar/data/732717/000073271714000134/),4
+AT&T,T,2014Q4,2014-12-31,분기별 당기순이익(지배),-3999000000,USD,계산(연간-3분기누적)(재작성 반영),https://www.sec.gov/Archives/edgar/data/732717/000073271716000147/ ; https://www.sec.gov/Archives/edgar/data/732717/000073271715000121/,연간 6442000000 − 9개월누적 10441000000 (NetIncomeLoss) ; 원 공시 -3977000000 (https://www.sec.gov/Archives/edgar/data/732717/000073271715000016/ ; https://www.sec.gov/Archives/edgar/data/732717/000073271714000134/),4
+AT&T,T,2014Q4,2014-12-31,분기별 영업활동현금흐름,5745000000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/732717/000073271715000016/ ; https://www.sec.gov/Archives/edgar/data/732717/000073271714000134/,누적 31338000000 − 직전누적 25593000000 (시작 2014-01-01),4
+AT&T,T,2014Q4,2014-12-31,분기말 자산총계,296834000000,USD,공시(재작성 반영),https://www.sec.gov/Archives/edgar/data/732717/000073271716000147/,원 공시 292829000000 (https://www.sec.gov/Archives/edgar/data/732717/000073271715000016/),4
+AT&T,T,2014Q4,2014-12-31,분기말 부채총계,206564000000,USD,계산(부채및자본-총자본)(재작성 반영),https://www.sec.gov/Archives/edgar/data/732717/000073271716000147/,부채및자본 296834000000 − 총자본 90270000000 ; 원 공시 205905000000 (https://www.sec.gov/Archives/edgar/data/732717/000073271715000016/),4
+AT&T,T,2014Q4,2014-12-31,분기말 총자본(자기자본),90270000000,USD,공시(재작성 반영),https://www.sec.gov/Archives/edgar/data/732717/000073271718000009/,원 공시 86924000000 (https://www.sec.gov/Archives/edgar/data/732717/000073271715000016/),4
+AT&T,T,2014Q4,2014-12-31,분기말 지배지분 자본,89716000000,USD,계산(총자본-비지배)(재작성 반영),https://www.sec.gov/Archives/edgar/data/732717/000073271718000009/,총자본 90270000000 − 비지배 554000000 ; 원 공시 86370000000 (https://www.sec.gov/Archives/edgar/data/732717/000073271715000016/),4
+AT&T,T,2014Q4,2014-12-31,분기말 종가,33.59,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/T?interval=1d&events=splits (2014-12-31),분할조정 종가 25.3701 × 이후 분할계수 1.324,4
+AT&T,T,2014Q4,2015-02-13,분기말 상장주식수,5190000000,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/732717/000073271715000016/,dei:EntityCommonStockSharesOutstanding 클래스 합,4
+AT&T,T,2014Q4,2014-12-31,분기말 시가총액,174332100000,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/T?interval=1d&events=splits (2014-12-31) ; https://www.sec.gov/Archives/edgar/data/732717/000073271715000016/,종가 33.59 × 주식수 5190000000,4
+AT&T,T,2015Q1,2015-03-31,분기별 매출액,32576000000,USD,공시,https://www.sec.gov/Archives/edgar/data/732717/000073271715000040/,,4
+AT&T,T,2015Q1,2015-03-31,분기별 영업이익,5557000000,USD,공시(재작성 반영),https://www.sec.gov/Archives/edgar/data/732717/000073271717000021/,원 공시 5456000000 (https://www.sec.gov/Archives/edgar/data/732717/000073271715000040/),4
+AT&T,T,2015Q1,2015-03-31,분기별 당기순이익(지배),3263000000,USD,공시(재작성 반영),https://www.sec.gov/Archives/edgar/data/732717/000073271716000160/,원 공시 3200000000 (https://www.sec.gov/Archives/edgar/data/732717/000073271715000040/),4
+AT&T,T,2015Q1,2015-03-31,분기별 영업활동현금흐름,6738000000,USD,공시,https://www.sec.gov/Archives/edgar/data/732717/000073271715000040/,,4
+AT&T,T,2015Q1,2015-03-31,분기말 자산총계,308028000000,USD,공시,https://www.sec.gov/Archives/edgar/data/732717/000073271715000040/,,4
+AT&T,T,2015Q1,2015-03-31,분기말 부채총계,220924000000,USD,계산(부채및자본-총자본),https://www.sec.gov/Archives/edgar/data/732717/000073271715000040/,부채및자본 308028000000 − 총자본 87104000000,4
+AT&T,T,2015Q1,2015-03-31,분기말 총자본(자기자본),87104000000,USD,공시,https://www.sec.gov/Archives/edgar/data/732717/000073271715000040/,,4
+AT&T,T,2015Q1,2015-03-31,분기말 지배지분 자본,86499000000,USD,계산(총자본-비지배),https://www.sec.gov/Archives/edgar/data/732717/000073271715000040/,총자본 87104000000 − 비지배 605000000,4
+AT&T,T,2015Q1,2015-03-31,분기말 종가,32.65,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/T?interval=1d&events=splits (2015-03-31),분할조정 종가 24.6601 × 이후 분할계수 1.324,4
+AT&T,T,2015Q1,2015-04-30,분기말 상장주식수,5193000000,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/732717/000073271715000040/,dei:EntityCommonStockSharesOutstanding 클래스 합,4
+AT&T,T,2015Q1,2015-03-31,분기말 시가총액,169551450000,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/T?interval=1d&events=splits (2015-03-31) ; https://www.sec.gov/Archives/edgar/data/732717/000073271715000040/,종가 32.65 × 주식수 5193000000,4
+AT&T,T,2015Q2,2015-06-30,분기별 매출액,33015000000,USD,공시,https://www.sec.gov/Archives/edgar/data/732717/000073271715000079/,,4
+AT&T,T,2015Q2,2015-06-30,분기별 영업이익,5773000000,USD,공시(재작성 반영),https://www.sec.gov/Archives/edgar/data/732717/000073271717000021/,원 공시 5712000000 (https://www.sec.gov/Archives/edgar/data/732717/000073271715000079/),4
+AT&T,T,2015Q2,2015-06-30,분기별 당기순이익(지배),3082000000,USD,공시(재작성 반영),https://www.sec.gov/Archives/edgar/data/732717/000073271716000195/,원 공시 3044000000 (https://www.sec.gov/Archives/edgar/data/732717/000073271715000079/),4
+AT&T,T,2015Q2,2015-06-30,분기별 영업활동현금흐름,9160000000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/732717/000073271715000079/ ; https://www.sec.gov/Archives/edgar/data/732717/000073271715000040/,누적 15898000000 − 직전누적 6738000000 (시작 2015-01-01),4
+AT&T,T,2015Q2,2015-06-30,분기말 자산총계,326489000000,USD,공시,https://www.sec.gov/Archives/edgar/data/732717/000073271715000079/,,4
+AT&T,T,2015Q2,2015-06-30,분기말 부채총계,238988000000,USD,계산(부채및자본-총자본),https://www.sec.gov/Archives/edgar/data/732717/000073271715000079/,부채및자본 326489000000 − 총자본 87501000000,4
+AT&T,T,2015Q2,2015-06-30,분기말 총자본(자기자본),87501000000,USD,공시,https://www.sec.gov/Archives/edgar/data/732717/000073271715000079/,,4
+AT&T,T,2015Q2,2015-06-30,분기말 지배지분 자본,86859000000,USD,계산(총자본-비지배),https://www.sec.gov/Archives/edgar/data/732717/000073271715000079/,총자본 87501000000 − 비지배 642000000,4
+AT&T,T,2015Q2,2015-06-30,분기말 종가,35.52,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/T?interval=1d&events=splits (2015-06-30),분할조정 종가 26.8278 × 이후 분할계수 1.324,4
+AT&T,T,2015Q2,2015-07-31,분기말 상장주식수,6151000000,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/732717/000073271715000079/,dei:EntityCommonStockSharesOutstanding 클래스 합,4
+AT&T,T,2015Q2,2015-06-30,분기말 시가총액,218483520000,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/T?interval=1d&events=splits (2015-06-30) ; https://www.sec.gov/Archives/edgar/data/732717/000073271715000079/,종가 35.52 × 주식수 6151000000,4
+AT&T,T,2015Q3,2015-10-28,분기별 매출액,미확인,USD,미확인,https://www.sec.gov/Archives/edgar/data/732717/000073271715000121/,,4
+AT&T,T,2015Q3,2015-10-28,분기별 영업이익,미확인,USD,미확인,https://www.sec.gov/Archives/edgar/data/732717/000073271715000121/,,4
+AT&T,T,2015Q3,2015-10-28,분기별 당기순이익(지배),미확인,USD,미확인,https://www.sec.gov/Archives/edgar/data/732717/000073271715000121/,,4
+AT&T,T,2015Q3,2015-10-28,분기별 영업활동현금흐름,미확인,USD,미확인,https://www.sec.gov/Archives/edgar/data/732717/000073271715000121/,,4
+AT&T,T,2015Q3,2015-10-28,분기말 자산총계,미확인,USD,미확인,https://www.sec.gov/Archives/edgar/data/732717/000073271715000121/,,4
+AT&T,T,2015Q3,2015-10-28,분기말 부채총계,미확인,USD,미확인,https://www.sec.gov/Archives/edgar/data/732717/000073271715000121/,,4
+AT&T,T,2015Q3,2015-10-28,분기말 총자본(자기자본),미확인,USD,미확인,https://www.sec.gov/Archives/edgar/data/732717/000073271715000121/,,4
+AT&T,T,2015Q3,2015-10-28,분기말 지배지분 자본,미확인,USD,미확인,https://www.sec.gov/Archives/edgar/data/732717/000073271715000121/,,4
+AT&T,T,2015Q3,2015-10-28,분기말 종가,33.42,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/T?interval=1d&events=splits (2015-10-28),분할조정 종가 25.2417 × 이후 분할계수 1.324,4
+AT&T,T,2015Q3,2015-10-31,분기말 상장주식수,6152000000,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/732717/000073271715000121/,dei:EntityCommonStockSharesOutstanding 클래스 합,4
+AT&T,T,2015Q3,2015-10-28,분기말 시가총액,205599840000,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/T?interval=1d&events=splits (2015-10-28) ; https://www.sec.gov/Archives/edgar/data/732717/000073271715000121/,종가 33.42 × 주식수 6152000000,4
+AT&T,T,2015Q4,2015-12-31,분기별 매출액,미확인,USD,미확인,https://www.sec.gov/Archives/edgar/data/732717/000073271716000147/,,4
+AT&T,T,2015Q4,2015-12-31,분기별 영업이익,미확인,USD,미확인,https://www.sec.gov/Archives/edgar/data/732717/000073271716000147/,,4
+AT&T,T,2015Q4,2015-12-31,분기별 당기순이익(지배),미확인,USD,미확인,https://www.sec.gov/Archives/edgar/data/732717/000073271716000147/,,4
+AT&T,T,2015Q4,2015-12-31,분기별 영업활동현금흐름,데이터 없음(직전 분기 누적 보고서 없음),USD,데이터 없음(직전 보고서 없음),https://www.sec.gov/Archives/edgar/data/732717/000073271716000147/,,4
+AT&T,T,2015Q4,2015-12-31,분기말 자산총계,402672000000,USD,공시,https://www.sec.gov/Archives/edgar/data/732717/000073271716000147/,,4
+AT&T,T,2015Q4,2015-12-31,분기말 부채총계,279032000000,USD,공시,https://www.sec.gov/Archives/edgar/data/732717/000073271716000147/,,4
+AT&T,T,2015Q4,2015-12-31,분기말 총자본(자기자본),123640000000,USD,공시,https://www.sec.gov/Archives/edgar/data/732717/000073271716000147/,,4
+AT&T,T,2015Q4,2015-12-31,분기말 지배지분 자본,122671000000,USD,계산(총자본-비지배),https://www.sec.gov/Archives/edgar/data/732717/000073271716000147/,총자본 123640000000 − 비지배 969000000,4
+AT&T,T,2015Q4,2015-12-31,분기말 종가,34.41,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/T?interval=1d&events=splits (2015-12-31),분할조정 종가 25.9894 × 이후 분할계수 1.324,4
+AT&T,T,2015Q4,2016-02-10,분기말 상장주식수,6151000000,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/732717/000073271716000147/,dei:EntityCommonStockSharesOutstanding 클래스 합,4
+AT&T,T,2015Q4,2015-12-31,분기말 시가총액,211655910000,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/T?interval=1d&events=splits (2015-12-31) ; https://www.sec.gov/Archives/edgar/data/732717/000073271716000147/,종가 34.41 × 주식수 6151000000,4
+AT&T,T,2016Q1,2016-03-31,분기별 매출액,40535000000,USD,공시,https://www.sec.gov/Archives/edgar/data/732717/000073271716000160/,,4
+AT&T,T,2016Q1,2016-03-31,분기별 영업이익,7131000000,USD,공시,https://www.sec.gov/Archives/edgar/data/732717/000073271716000160/,,4
+AT&T,T,2016Q1,2016-03-31,분기별 당기순이익(지배),3803000000,USD,공시,https://www.sec.gov/Archives/edgar/data/732717/000073271716000160/,,4
+AT&T,T,2016Q1,2016-03-31,분기별 영업활동현금흐름,7900000000,USD,공시,https://www.sec.gov/Archives/edgar/data/732717/000073271716000160/,,4
+AT&T,T,2016Q1,2016-03-31,분기말 자산총계,403638000000,USD,공시,https://www.sec.gov/Archives/edgar/data/732717/000073271716000160/,,4
+AT&T,T,2016Q1,2016-03-31,분기말 부채총계,279233000000,USD,계산(부채및자본-총자본),https://www.sec.gov/Archives/edgar/data/732717/000073271716000160/,부채및자본 403638000000 − 총자본 124405000000,4
+AT&T,T,2016Q1,2016-03-31,분기말 총자본(자기자본),124405000000,USD,공시,https://www.sec.gov/Archives/edgar/data/732717/000073271716000160/,,4
+AT&T,T,2016Q1,2016-03-31,분기말 지배지분 자본,123432000000,USD,계산(총자본-비지배),https://www.sec.gov/Archives/edgar/data/732717/000073271716000160/,총자본 124405000000 − 비지배 973000000,4
+AT&T,T,2016Q1,2016-03-31,분기말 종가,39.17,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/T?interval=1d&events=splits (2016-03-31),분할조정 종가 29.5846 × 이후 분할계수 1.324,4
+AT&T,T,2016Q1,2016-04-30,분기말 상장주식수,6156000000,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/732717/000073271716000160/,dei:EntityCommonStockSharesOutstanding 클래스 합,4
+AT&T,T,2016Q1,2016-03-31,분기말 시가총액,241130520000,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/T?interval=1d&events=splits (2016-03-31) ; https://www.sec.gov/Archives/edgar/data/732717/000073271716000160/,종가 39.17 × 주식수 6156000000,4
+AT&T,T,2016Q2,2016-06-30,분기별 매출액,40520000000,USD,공시,https://www.sec.gov/Archives/edgar/data/732717/000073271716000195/,,4
+AT&T,T,2016Q2,2016-06-30,분기별 영업이익,6560000000,USD,공시,https://www.sec.gov/Archives/edgar/data/732717/000073271716000195/,,4
+AT&T,T,2016Q2,2016-06-30,분기별 당기순이익(지배),3408000000,USD,공시,https://www.sec.gov/Archives/edgar/data/732717/000073271716000195/,,4
+AT&T,T,2016Q2,2016-06-30,분기별 영업활동현금흐름,10307000000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/732717/000073271716000195/ ; https://www.sec.gov/Archives/edgar/data/732717/000073271716000160/,누적 18207000000 − 직전누적 7900000000 (시작 2016-01-01),4
+AT&T,T,2016Q2,2016-06-30,분기말 자산총계,401808000000,USD,공시,https://www.sec.gov/Archives/edgar/data/732717/000073271716000195/,,4
+AT&T,T,2016Q2,2016-06-30,분기말 부채총계,277437000000,USD,계산(부채및자본-총자본),https://www.sec.gov/Archives/edgar/data/732717/000073271716000195/,부채및자본 401808000000 − 총자본 124371000000,4
+AT&T,T,2016Q2,2016-06-30,분기말 총자본(자기자본),124371000000,USD,공시,https://www.sec.gov/Archives/edgar/data/732717/000073271716000195/,,4
+AT&T,T,2016Q2,2016-06-30,분기말 지배지분 자본,123402000000,USD,계산(총자본-비지배),https://www.sec.gov/Archives/edgar/data/732717/000073271716000195/,총자본 124371000000 − 비지배 969000000,4
+AT&T,T,2016Q2,2016-06-30,분기말 종가,43.21,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/T?interval=1d&events=splits (2016-06-30),분할조정 종가 32.636 × 이후 분할계수 1.324,4
+AT&T,T,2016Q2,2016-07-31,분기말 상장주식수,6152000000,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/732717/000073271716000195/,dei:EntityCommonStockSharesOutstanding 클래스 합,4
+AT&T,T,2016Q2,2016-06-30,분기말 시가총액,265827920000,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/T?interval=1d&events=splits (2016-06-30) ; https://www.sec.gov/Archives/edgar/data/732717/000073271716000195/,종가 43.21 × 주식수 6152000000,4
+AT&T,T,2016Q3,2016-09-30,분기별 매출액,40890000000,USD,공시,https://www.sec.gov/Archives/edgar/data/732717/000073271716000233/,,4
+AT&T,T,2016Q3,2016-09-30,분기별 영업이익,6408000000,USD,공시,https://www.sec.gov/Archives/edgar/data/732717/000073271716000233/,,4
+AT&T,T,2016Q3,2016-09-30,분기별 당기순이익(지배),3328000000,USD,공시,https://www.sec.gov/Archives/edgar/data/732717/000073271716000233/,,4
+AT&T,T,2016Q3,2016-09-30,분기별 영업활동현금흐름,10995000000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/732717/000073271716000233/ ; https://www.sec.gov/Archives/edgar/data/732717/000073271716000195/,누적 29202000000 − 직전누적 18207000000 (시작 2016-01-01),4
+AT&T,T,2016Q3,2016-09-30,분기말 자산총계,402975000000,USD,공시,https://www.sec.gov/Archives/edgar/data/732717/000073271716000233/,,4
+AT&T,T,2016Q3,2016-09-30,분기말 부채총계,278372000000,USD,계산(부채및자본-총자본),https://www.sec.gov/Archives/edgar/data/732717/000073271716000233/,부채및자본 402975000000 − 총자본 124603000000,4
+AT&T,T,2016Q3,2016-09-30,분기말 총자본(자기자본),124603000000,USD,공시,https://www.sec.gov/Archives/edgar/data/732717/000073271716000233/,,4
+AT&T,T,2016Q3,2016-09-30,분기말 지배지분 자본,123611000000,USD,계산(총자본-비지배),https://www.sec.gov/Archives/edgar/data/732717/000073271716000233/,총자본 124603000000 − 비지배 992000000,4
+AT&T,T,2016Q3,2016-09-30,분기말 종가,40.61,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/T?interval=1d&events=splits (2016-09-30),분할조정 종가 30.6722 × 이후 분할계수 1.324,4
+AT&T,T,2016Q3,2016-10-31,분기말 상장주식수,6141000000,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/732717/000073271716000233/,dei:EntityCommonStockSharesOutstanding 클래스 합,4
+AT&T,T,2016Q3,2016-09-30,분기말 시가총액,249386010000,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/T?interval=1d&events=splits (2016-09-30) ; https://www.sec.gov/Archives/edgar/data/732717/000073271716000233/,종가 40.61 × 주식수 6141000000,4
+AT&T,T,2016Q4,2016-12-31,분기별 매출액,41841000000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/732717/000073271717000021/ ; https://www.sec.gov/Archives/edgar/data/732717/000073271716000233/,연간 163786000000 − 9개월누적 121945000000 (Revenues),4
+AT&T,T,2016Q4,2016-12-31,분기별 영업이익,3444000000,USD,계산(연간-3분기누적)(재작성 반영),https://www.sec.gov/Archives/edgar/data/732717/000119312519045608/ ; https://www.sec.gov/Archives/edgar/data/732717/000073271716000233/,연간 23543000000 − 9개월누적 20099000000 (OperatingIncomeLoss) ; 원 공시 4248000000 (https://www.sec.gov/Archives/edgar/data/732717/000073271717000021/ ; https://www.sec.gov/Archives/edgar/data/732717/000073271716000233/),4
+AT&T,T,2016Q4,2016-12-31,분기별 당기순이익(지배),미확인,USD,미확인,https://www.sec.gov/Archives/edgar/data/732717/000073271717000021/,,4
+AT&T,T,2016Q4,2016-12-31,분기별 영업활동현금흐름,9240000000,USD,계산(누적차감)(재작성 반영),https://www.sec.gov/Archives/edgar/data/732717/000119312519045608/ ; https://www.sec.gov/Archives/edgar/data/732717/000073271716000233/,누적 38442000000 − 직전누적 29202000000 (시작 2016-01-01) ; 원 공시 10142000000 (https://www.sec.gov/Archives/edgar/data/732717/000073271717000021/ ; https://www.sec.gov/Archives/edgar/data/732717/000073271716000233/),4
+AT&T,T,2016Q4,2016-12-31,분기말 자산총계,403821000000,USD,공시,https://www.sec.gov/Archives/edgar/data/732717/000073271717000021/,,4
+AT&T,T,2016Q4,2016-12-31,분기말 부채총계,279711000000,USD,계산(부채및자본-총자본),https://www.sec.gov/Archives/edgar/data/732717/000073271717000021/,부채및자본 403821000000 − 총자본 124110000000,4
+AT&T,T,2016Q4,2016-12-31,분기말 총자본(자기자본),124110000000,USD,공시,https://www.sec.gov/Archives/edgar/data/732717/000073271717000021/,,4
+AT&T,T,2016Q4,2016-12-31,분기말 지배지분 자본,123135000000,USD,계산(총자본-비지배),https://www.sec.gov/Archives/edgar/data/732717/000073271717000021/,총자본 124110000000 − 비지배 975000000,4
+AT&T,T,2016Q4,2016-12-30,분기말 종가,42.53,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/T?interval=1d&events=splits (2016-12-30),분할조정 종가 32.1224 × 이후 분할계수 1.324,4
+AT&T,T,2016Q4,2017-02-10,분기말 상장주식수,6142000000,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/732717/000073271717000021/,dei:EntityCommonStockSharesOutstanding 클래스 합,4
+AT&T,T,2016Q4,2016-12-30,분기말 시가총액,261219260000,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/T?interval=1d&events=splits (2016-12-30) ; https://www.sec.gov/Archives/edgar/data/732717/000073271717000021/,종가 42.53 × 주식수 6142000000,4
+AT&T,T,2017Q1,2017-03-31,분기별 매출액,38038000000,USD,공시(재작성 반영),https://www.sec.gov/Archives/edgar/data/732717/000156276220000064/,원 공시 39365000000 (https://www.sec.gov/Archives/edgar/data/732717/000073271717000055/),4
+AT&T,T,2017Q1,2017-03-31,분기별 영업이익,6201000000,USD,공시(재작성 반영),https://www.sec.gov/Archives/edgar/data/732717/000156276220000064/,원 공시 6864000000 (https://www.sec.gov/Archives/edgar/data/732717/000073271717000055/),4
+AT&T,T,2017Q1,2017-03-31,분기별 당기순이익(지배),4662000000,USD,공시(재작성 반영),https://www.sec.gov/Archives/edgar/data/732717/000156276220000064/,원 공시 3469000000 (https://www.sec.gov/Archives/edgar/data/732717/000073271717000055/),4
+AT&T,T,2017Q1,2017-03-31,분기별 영업활동현금흐름,8965000000,USD,공시(재작성 반영),https://www.sec.gov/Archives/edgar/data/732717/000073271718000024/,원 공시 9218000000 (https://www.sec.gov/Archives/edgar/data/732717/000073271717000055/),4
+AT&T,T,2017Q1,2017-03-31,분기말 자산총계,411903000000,USD,공시,https://www.sec.gov/Archives/edgar/data/732717/000073271717000055/,,4
+AT&T,T,2017Q1,2017-03-31,분기말 부채총계,286922000000,USD,계산(부채및자본-총자본),https://www.sec.gov/Archives/edgar/data/732717/000073271717000055/,부채및자본 411903000000 − 총자본 124981000000,4
+AT&T,T,2017Q1,2017-03-31,분기말 총자본(자기자본),124981000000,USD,공시,https://www.sec.gov/Archives/edgar/data/732717/000073271717000055/,,4
+AT&T,T,2017Q1,2017-03-31,분기말 지배지분 자본,123841000000,USD,계산(총자본-비지배),https://www.sec.gov/Archives/edgar/data/732717/000073271717000055/,총자본 124981000000 − 비지배 1140000000,4
+AT&T,T,2017Q1,2017-03-31,분기말 종가,41.55,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/T?interval=1d&events=splits (2017-03-31),분할조정 종가 31.3822 × 이후 분할계수 1.324,4
+AT&T,T,2017Q1,2017-04-30,분기말 상장주식수,6148000000,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/732717/000073271717000055/,dei:EntityCommonStockSharesOutstanding 클래스 합,4
+AT&T,T,2017Q1,2017-03-31,분기말 시가총액,255449400000,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/T?interval=1d&events=splits (2017-03-31) ; https://www.sec.gov/Archives/edgar/data/732717/000073271717000055/,종가 41.55 × 주식수 6148000000,4
+AT&T,T,2017Q2,2017-06-30,분기별 매출액,38986000000,USD,공시(재작성 반영),https://www.sec.gov/Archives/edgar/data/732717/000156276220000064/,원 공시 39837000000 (https://www.sec.gov/Archives/edgar/data/732717/000073271717000080/),4
+AT&T,T,2017Q2,2017-06-30,분기별 영업이익,6466000000,USD,공시(재작성 반영),https://www.sec.gov/Archives/edgar/data/732717/000156276220000064/,원 공시 7323000000 (https://www.sec.gov/Archives/edgar/data/732717/000073271717000080/),4
+AT&T,T,2017Q2,2017-06-30,분기별 당기순이익(지배),5132000000,USD,공시(재작성 반영),https://www.sec.gov/Archives/edgar/data/732717/000156276220000064/,원 공시 3915000000 (https://www.sec.gov/Archives/edgar/data/732717/000073271717000080/),4
+AT&T,T,2017Q2,2017-06-30,분기별 영업활동현금흐름,9195000000,USD,계산(누적차감)(재작성 반영),https://www.sec.gov/Archives/edgar/data/732717/000073271717000080/ ; https://www.sec.gov/Archives/edgar/data/732717/000073271718000024/,누적 18160000000 − 직전누적 8965000000 (시작 2017-01-01) ; 원 공시 8942000000 (https://www.sec.gov/Archives/edgar/data/732717/000073271717000080/ ; https://www.sec.gov/Archives/edgar/data/732717/000073271717000055/),4
+AT&T,T,2017Q2,2017-06-30,분기말 자산총계,420795000000,USD,공시,https://www.sec.gov/Archives/edgar/data/732717/000073271717000080/,,4
+AT&T,T,2017Q2,2017-06-30,분기말 부채총계,294937000000,USD,계산(부채및자본-총자본),https://www.sec.gov/Archives/edgar/data/732717/000073271717000080/,부채및자본 420795000000 − 총자본 125858000000,4
+AT&T,T,2017Q2,2017-06-30,분기말 총자본(자기자본),125858000000,USD,공시,https://www.sec.gov/Archives/edgar/data/732717/000073271717000080/,,4
+AT&T,T,2017Q2,2017-06-30,분기말 지배지분 자본,124725000000,USD,계산(총자본-비지배),https://www.sec.gov/Archives/edgar/data/732717/000073271717000080/,총자본 125858000000 − 비지배 1133000000,4
+AT&T,T,2017Q2,2017-06-30,분기말 종가,37.73,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/T?interval=1d&events=splits (2017-06-30),분할조정 종가 28.497 × 이후 분할계수 1.324,4
+AT&T,T,2017Q2,2017-07-31,분기말 상장주식수,6140000000,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/732717/000073271717000080/,dei:EntityCommonStockSharesOutstanding 클래스 합,4
+AT&T,T,2017Q2,2017-06-30,분기말 시가총액,231662200000,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/T?interval=1d&events=splits (2017-06-30) ; https://www.sec.gov/Archives/edgar/data/732717/000073271717000080/,종가 37.73 × 주식수 6140000000,4
+AT&T,T,2017Q3,2017-09-30,분기별 매출액,45739000000,USD,공시(재작성 반영),https://www.sec.gov/Archives/edgar/data/732717/000156276220000064/,원 공시 39668000000 (https://www.sec.gov/Archives/edgar/data/732717/000073271717000101/),4
+AT&T,T,2017Q3,2017-09-30,분기별 영업이익,7269000000,USD,공시(재작성 반영),https://www.sec.gov/Archives/edgar/data/732717/000156276220000064/,원 공시 6403000000 (https://www.sec.gov/Archives/edgar/data/732717/000073271717000101/),4
+AT&T,T,2017Q3,2017-09-30,분기별 당기순이익(지배),4718000000,USD,공시(재작성 반영),https://www.sec.gov/Archives/edgar/data/732717/000156276220000064/,원 공시 3029000000 (https://www.sec.gov/Archives/edgar/data/732717/000073271717000101/),4
+AT&T,T,2017Q3,2017-09-30,분기별 영업활동현금흐름,11114000000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/732717/000073271717000101/ ; https://www.sec.gov/Archives/edgar/data/732717/000073271717000080/,누적 29274000000 − 직전누적 18160000000 (시작 2017-01-01),4
+AT&T,T,2017Q3,2017-09-30,분기말 자산총계,443865000000,USD,공시,https://www.sec.gov/Archives/edgar/data/732717/000073271717000101/,,4
+AT&T,T,2017Q3,2017-09-30,분기말 부채총계,317756000000,USD,계산(부채및자본-총자본),https://www.sec.gov/Archives/edgar/data/732717/000073271717000101/,부채및자본 443865000000 − 총자본 126109000000,4
+AT&T,T,2017Q3,2017-09-30,분기말 총자본(자기자본),126109000000,USD,공시,https://www.sec.gov/Archives/edgar/data/732717/000073271717000101/,,4
+AT&T,T,2017Q3,2017-09-30,분기말 지배지분 자본,124960000000,USD,계산(총자본-비지배),https://www.sec.gov/Archives/edgar/data/732717/000073271717000101/,총자본 126109000000 − 비지배 1149000000,4
+AT&T,T,2017Q3,2017-09-29,분기말 종가,39.17,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/T?interval=1d&events=splits (2017-09-29),분할조정 종가 29.5846 × 이후 분할계수 1.324,4
+AT&T,T,2017Q3,2017-10-31,분기말 상장주식수,6139000000,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/732717/000073271717000101/,dei:EntityCommonStockSharesOutstanding 클래스 합,4
+AT&T,T,2017Q3,2017-09-29,분기말 시가총액,240464630000,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/T?interval=1d&events=splits (2017-09-29) ; https://www.sec.gov/Archives/edgar/data/732717/000073271717000101/,종가 39.17 × 주식수 6139000000,4
+AT&T,T,2017Q4,2017-12-31,분기별 매출액,41676000000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/732717/000073271718000009/ ; https://www.sec.gov/Archives/edgar/data/732717/000073271717000101/,연간 160546000000 − 9개월누적 118870000000 (Revenues),4
+AT&T,T,2017Q4,2017-12-31,분기별 영업이익,1281000000,USD,계산(연간-3분기누적)(재작성 반영),https://www.sec.gov/Archives/edgar/data/732717/000156276220000064/ ; https://www.sec.gov/Archives/edgar/data/732717/000073271718000090/,연간 19970000000 − 9개월누적 18689000000 (OperatingIncomeLoss) ; 원 공시 359000000 (https://www.sec.gov/Archives/edgar/data/732717/000073271718000009/ ; https://www.sec.gov/Archives/edgar/data/732717/000073271717000101/),4
+AT&T,T,2017Q4,2017-12-31,분기별 당기순이익(지배),19037000000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/732717/000073271718000009/ ; https://www.sec.gov/Archives/edgar/data/732717/000073271717000101/,연간 29450000000 − 9개월누적 10413000000 (NetIncomeLoss),4
+AT&T,T,2017Q4,2017-12-31,분기별 영업활동현금흐름,8736000000,USD,계산(누적차감)(재작성 반영),https://www.sec.gov/Archives/edgar/data/732717/000156276220000064/ ; https://www.sec.gov/Archives/edgar/data/732717/000073271717000101/,누적 38010000000 − 직전누적 29274000000 (시작 2017-01-01) ; 원 공시 9877000000 (https://www.sec.gov/Archives/edgar/data/732717/000073271718000009/ ; https://www.sec.gov/Archives/edgar/data/732717/000073271717000101/),4
+AT&T,T,2017Q4,2017-12-31,분기말 자산총계,444097000000,USD,공시,https://www.sec.gov/Archives/edgar/data/732717/000073271718000009/,,4
+AT&T,T,2017Q4,2017-12-31,분기말 부채총계,302090000000,USD,계산(부채및자본-총자본),https://www.sec.gov/Archives/edgar/data/732717/000073271718000009/,부채및자본 444097000000 − 총자본 142007000000,4
+AT&T,T,2017Q4,2017-12-31,분기말 총자본(자기자본),142007000000,USD,공시,https://www.sec.gov/Archives/edgar/data/732717/000073271718000009/,,4
+AT&T,T,2017Q4,2017-12-31,분기말 지배지분 자본,140861000000,USD,계산(총자본-비지배),https://www.sec.gov/Archives/edgar/data/732717/000073271718000009/,총자본 142007000000 − 비지배 1146000000,4
+AT&T,T,2017Q4,2017-12-29,분기말 종가,38.88,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/T?interval=1d&events=splits (2017-12-29),분할조정 종가 29.3656 × 이후 분할계수 1.324,4
+AT&T,T,2017Q4,2018-02-09,분기말 상장주식수,6142000000,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/732717/000073271718000009/,dei:EntityCommonStockSharesOutstanding 클래스 합,4
+AT&T,T,2017Q4,2017-12-29,분기말 시가총액,238800960000,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/T?interval=1d&events=splits (2017-12-29) ; https://www.sec.gov/Archives/edgar/data/732717/000073271718000009/,종가 38.88 × 주식수 6142000000,4
+AT&T,T,2018Q1,2018-03-31,분기별 매출액,38038000000,USD,공시,https://www.sec.gov/Archives/edgar/data/732717/000073271718000024/,,4
+AT&T,T,2018Q1,2018-03-31,분기별 영업이익,6201000000,USD,공시,https://www.sec.gov/Archives/edgar/data/732717/000073271718000024/,,4
+AT&T,T,2018Q1,2018-03-31,분기별 당기순이익(지배),4662000000,USD,공시,https://www.sec.gov/Archives/edgar/data/732717/000073271718000024/,,4
+AT&T,T,2018Q1,2018-03-31,분기별 영업활동현금흐름,8947000000,USD,공시,https://www.sec.gov/Archives/edgar/data/732717/000073271718000024/,,4
+AT&T,T,2018Q1,2018-03-31,분기말 자산총계,446343000000,USD,공시,https://www.sec.gov/Archives/edgar/data/732717/000073271718000024/,,4
+AT&T,T,2018Q1,2018-03-31,분기말 부채총계,299267000000,USD,계산(부채및자본-총자본),https://www.sec.gov/Archives/edgar/data/732717/000073271718000024/,부채및자본 446343000000 − 총자본 147076000000,4
+AT&T,T,2018Q1,2018-03-31,분기말 총자본(자기자본),147076000000,USD,공시,https://www.sec.gov/Archives/edgar/data/732717/000073271718000024/,,4
+AT&T,T,2018Q1,2018-03-31,분기말 지배지분 자본,145920000000,USD,계산(총자본-비지배),https://www.sec.gov/Archives/edgar/data/732717/000073271718000024/,총자본 147076000000 − 비지배 1156000000,4
+AT&T,T,2018Q1,2018-03-29,분기말 종가,35.65,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/T?interval=1d&events=splits (2018-03-29),분할조정 종가 26.926 × 이후 분할계수 1.324,4
+AT&T,T,2018Q1,2018-04-30,분기말 상장주식수,6141000000,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/732717/000073271718000024/,dei:EntityCommonStockSharesOutstanding 클래스 합,4
+AT&T,T,2018Q1,2018-03-29,분기말 시가총액,218926650000,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/T?interval=1d&events=splits (2018-03-29) ; https://www.sec.gov/Archives/edgar/data/732717/000073271718000024/,종가 35.65 × 주식수 6141000000,4
+AT&T,T,2018Q2,2018-06-30,분기별 매출액,38986000000,USD,공시,https://www.sec.gov/Archives/edgar/data/732717/000119312518236782/,,4
+AT&T,T,2018Q2,2018-06-30,분기별 영업이익,6466000000,USD,공시,https://www.sec.gov/Archives/edgar/data/732717/000119312518236782/,,4
+AT&T,T,2018Q2,2018-06-30,분기별 당기순이익(지배),5132000000,USD,공시,https://www.sec.gov/Archives/edgar/data/732717/000119312518236782/,,4
+AT&T,T,2018Q2,2018-06-30,분기별 영업활동현금흐름,10229000000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/732717/000119312518236782/ ; https://www.sec.gov/Archives/edgar/data/732717/000073271718000024/,누적 19176000000 − 직전누적 8947000000 (시작 2018-01-01),4
+AT&T,T,2018Q2,2018-06-30,분기말 자산총계,534691000000,USD,공시,https://www.sec.gov/Archives/edgar/data/732717/000119312518236782/,,4
+AT&T,T,2018Q2,2018-06-30,분기말 부채총계,350561000000,USD,계산(부채및자본-총자본),https://www.sec.gov/Archives/edgar/data/732717/000119312518236782/,부채및자본 534691000000 − 총자본 184130000000,4
+AT&T,T,2018Q2,2018-06-30,분기말 총자본(자기자본),184130000000,USD,공시,https://www.sec.gov/Archives/edgar/data/732717/000119312518236782/,,4
+AT&T,T,2018Q2,2018-06-30,분기말 지배지분 자본,182980000000,USD,계산(총자본-비지배),https://www.sec.gov/Archives/edgar/data/732717/000119312518236782/,총자본 184130000000 − 비지배 1150000000,4
+AT&T,T,2018Q2,2018-06-29,분기말 종가,32.11,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/T?interval=1d&events=splits (2018-06-29),분할조정 종가 24.2523 × 이후 분할계수 1.324,4
+AT&T,T,2018Q2,2018-07-31,분기말 상장주식수,7262000000,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/732717/000119312518236782/,dei:EntityCommonStockSharesOutstanding 클래스 합,4
+AT&T,T,2018Q2,2018-06-29,분기말 시가총액,233182820000,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/T?interval=1d&events=splits (2018-06-29) ; https://www.sec.gov/Archives/edgar/data/732717/000119312518236782/,종가 32.11 × 주식수 7262000000,4
+AT&T,T,2018Q3,2018-09-30,분기별 매출액,45739000000,USD,공시,https://www.sec.gov/Archives/edgar/data/732717/000073271718000090/,,4
+AT&T,T,2018Q3,2018-09-30,분기별 영업이익,7269000000,USD,공시,https://www.sec.gov/Archives/edgar/data/732717/000073271718000090/,,4
+AT&T,T,2018Q3,2018-09-30,분기별 당기순이익(지배),4718000000,USD,공시,https://www.sec.gov/Archives/edgar/data/732717/000073271718000090/,,4
+AT&T,T,2018Q3,2018-09-30,분기별 영업활동현금흐름,12346000000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/732717/000073271718000090/ ; https://www.sec.gov/Archives/edgar/data/732717/000119312518236782/,누적 31522000000 − 직전누적 19176000000 (시작 2018-01-01),4
+AT&T,T,2018Q3,2018-09-30,분기말 자산총계,534870000000,USD,공시,https://www.sec.gov/Archives/edgar/data/732717/000073271718000090/,,4
+AT&T,T,2018Q3,2018-09-30,분기말 부채총계,349899000000,USD,계산(부채및자본-총자본),https://www.sec.gov/Archives/edgar/data/732717/000073271718000090/,부채및자본 534870000000 − 총자본 184971000000,4
+AT&T,T,2018Q3,2018-09-30,분기말 총자본(자기자본),184971000000,USD,공시,https://www.sec.gov/Archives/edgar/data/732717/000073271718000090/,,4
+AT&T,T,2018Q3,2018-09-30,분기말 지배지분 자본,183848000000,USD,계산(총자본-비지배),https://www.sec.gov/Archives/edgar/data/732717/000073271718000090/,총자본 184971000000 − 비지배 1123000000,4
+AT&T,T,2018Q3,2018-09-28,분기말 종가,33.58,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/T?interval=1d&events=splits (2018-09-28),분할조정 종가 25.3625 × 이후 분할계수 1.324,4
+AT&T,T,2018Q3,2018-10-31,분기말 상장주식수,7278000000,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/732717/000073271718000090/,dei:EntityCommonStockSharesOutstanding 클래스 합,4
+AT&T,T,2018Q3,2018-09-28,분기말 시가총액,244395240000,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/T?interval=1d&events=splits (2018-09-28) ; https://www.sec.gov/Archives/edgar/data/732717/000073271718000090/,종가 33.58 × 주식수 7278000000,4
+AT&T,T,2018Q4,2018-12-31,분기별 매출액,47993000000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/732717/000119312519045608/ ; https://www.sec.gov/Archives/edgar/data/732717/000073271718000090/,연간 170756000000 − 9개월누적 122763000000 (Revenues),4
+AT&T,T,2018Q4,2018-12-31,분기별 영업이익,6160000000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/732717/000119312519045608/ ; https://www.sec.gov/Archives/edgar/data/732717/000073271718000090/,연간 26096000000 − 9개월누적 19936000000 (OperatingIncomeLoss),4
+AT&T,T,2018Q4,2018-12-31,분기별 당기순이익(지배),4858000000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/732717/000119312519045608/ ; https://www.sec.gov/Archives/edgar/data/732717/000073271718000090/,연간 19370000000 − 9개월누적 14512000000 (NetIncomeLoss),4
+AT&T,T,2018Q4,2018-12-31,분기별 영업활동현금흐름,12080000000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/732717/000119312519045608/ ; https://www.sec.gov/Archives/edgar/data/732717/000073271718000090/,누적 43602000000 − 직전누적 31522000000 (시작 2018-01-01),4
+AT&T,T,2018Q4,2018-12-31,분기말 자산총계,531864000000,USD,공시,https://www.sec.gov/Archives/edgar/data/732717/000119312519045608/,,4
+AT&T,T,2018Q4,2018-12-31,분기말 부채총계,337980000000,USD,계산(부채및자본-총자본),https://www.sec.gov/Archives/edgar/data/732717/000119312519045608/,부채및자본 531864000000 − 총자본 193884000000,4
+AT&T,T,2018Q4,2018-12-31,분기말 총자본(자기자본),193884000000,USD,공시,https://www.sec.gov/Archives/edgar/data/732717/000119312519045608/,,4
+AT&T,T,2018Q4,2018-12-31,분기말 지배지분 자본,184089000000,USD,계산(총자본-비지배),https://www.sec.gov/Archives/edgar/data/732717/000119312519045608/,총자본 193884000000 − 비지배 9795000000,4
+AT&T,T,2018Q4,2018-12-31,분기말 종가,28.54,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/T?interval=1d&events=splits (2018-12-31),분할조정 종가 21.5559 × 이후 분할계수 1.324,4
+AT&T,T,2018Q4,2019-02-12,분기말 상장주식수,7285000000,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/732717/000119312519045608/,dei:EntityCommonStockSharesOutstanding 클래스 합,4
+AT&T,T,2018Q4,2018-12-31,분기말 시가총액,207913900000,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/T?interval=1d&events=splits (2018-12-31) ; https://www.sec.gov/Archives/edgar/data/732717/000119312519045608/,종가 28.54 × 주식수 7285000000,4
+AT&T,T,2019Q1,2019-03-31,분기별 매출액,44827000000,USD,공시,https://www.sec.gov/Archives/edgar/data/732717/000073271719000021/,,4
+AT&T,T,2019Q1,2019-03-31,분기별 영업이익,7233000000,USD,공시,https://www.sec.gov/Archives/edgar/data/732717/000073271719000021/,,4
+AT&T,T,2019Q1,2019-03-31,분기별 당기순이익(지배),4096000000,USD,공시,https://www.sec.gov/Archives/edgar/data/732717/000073271719000021/,,4
+AT&T,T,2019Q1,2019-03-31,분기별 영업활동현금흐름,11052000000,USD,공시,https://www.sec.gov/Archives/edgar/data/732717/000073271719000021/,,4
+AT&T,T,2019Q1,2019-03-31,분기말 자산총계,548384000000,USD,공시,https://www.sec.gov/Archives/edgar/data/732717/000073271719000021/,,4
+AT&T,T,2019Q1,2019-03-31,분기말 부채총계,353433000000,USD,계산(부채및자본-총자본),https://www.sec.gov/Archives/edgar/data/732717/000073271719000021/,부채및자본 548384000000 − 총자본 194951000000,4
+AT&T,T,2019Q1,2019-03-31,분기말 총자본(자기자본),194951000000,USD,공시,https://www.sec.gov/Archives/edgar/data/732717/000073271719000021/,,4
+AT&T,T,2019Q1,2019-03-31,분기말 지배지분 자본,185112000000,USD,계산(총자본-비지배),https://www.sec.gov/Archives/edgar/data/732717/000073271719000021/,총자본 194951000000 − 비지배 9839000000,4
+AT&T,T,2019Q1,2019-03-29,분기말 종가,31.36,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/T?interval=1d&events=splits (2019-03-29),분할조정 종가 23.6858 × 이후 분할계수 1.324,4
+AT&T,T,2019Q1,2019-04-30,분기말 상장주식수,7298000000,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/732717/000073271719000021/,dei:EntityCommonStockSharesOutstanding 클래스 합,4
+AT&T,T,2019Q1,2019-03-29,분기말 시가총액,228865280000,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/T?interval=1d&events=splits (2019-03-29) ; https://www.sec.gov/Archives/edgar/data/732717/000073271719000021/,종가 31.36 × 주식수 7298000000,4
+AT&T,T,2019Q2,2019-06-30,분기별 매출액,44957000000,USD,공시,https://www.sec.gov/Archives/edgar/data/732717/000156276219000164/,,4
+AT&T,T,2019Q2,2019-06-30,분기별 영업이익,7500000000,USD,공시,https://www.sec.gov/Archives/edgar/data/732717/000156276219000164/,,4
+AT&T,T,2019Q2,2019-06-30,분기별 당기순이익(지배),3713000000,USD,공시,https://www.sec.gov/Archives/edgar/data/732717/000156276219000164/,,4
+AT&T,T,2019Q2,2019-06-30,분기별 영업활동현금흐름,14284000000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/732717/000156276219000164/ ; https://www.sec.gov/Archives/edgar/data/732717/000073271719000021/,누적 25336000000 − 직전누적 11052000000 (시작 2019-01-01),4
+AT&T,T,2019Q2,2019-06-30,분기말 자산총계,546914000000,USD,공시,https://www.sec.gov/Archives/edgar/data/732717/000156276219000164/,,4
+AT&T,T,2019Q2,2019-06-30,분기말 부채총계,352833000000,USD,계산(부채및자본-총자본),https://www.sec.gov/Archives/edgar/data/732717/000156276219000164/,부채및자본 546914000000 − 총자본 194081000000,4
+AT&T,T,2019Q2,2019-06-30,분기말 총자본(자기자본),194081000000,USD,공시,https://www.sec.gov/Archives/edgar/data/732717/000156276219000164/,,4
+AT&T,T,2019Q2,2019-06-30,분기말 지배지분 자본,184257000000,USD,계산(총자본-비지배),https://www.sec.gov/Archives/edgar/data/732717/000156276219000164/,총자본 194081000000 − 비지배 9824000000,4
+AT&T,T,2019Q2,2019-06-28,분기말 종가,33.51,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/T?interval=1d&events=splits (2019-06-28),분할조정 종가 25.3097 × 이후 분할계수 1.324,4
+AT&T,T,2019Q2,2019-07-31,분기말 상장주식수,7307000000,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/732717/000156276219000164/,dei:EntityCommonStockSharesOutstanding 클래스 합,4
+AT&T,T,2019Q2,2019-06-28,분기말 시가총액,244857570000,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/T?interval=1d&events=splits (2019-06-28) ; https://www.sec.gov/Archives/edgar/data/732717/000156276219000164/,종가 33.51 × 주식수 7307000000,4
+AT&T,T,2019Q3,2019-09-30,분기별 매출액,44588000000,USD,공시,https://www.sec.gov/Archives/edgar/data/732717/000073271719000056/,,4
+AT&T,T,2019Q3,2019-09-30,분기별 영업이익,7901000000,USD,공시,https://www.sec.gov/Archives/edgar/data/732717/000073271719000056/,,4
+AT&T,T,2019Q3,2019-09-30,분기별 당기순이익(지배),3700000000,USD,공시,https://www.sec.gov/Archives/edgar/data/732717/000073271719000056/,,4
+AT&T,T,2019Q3,2019-09-30,분기별 영업활동현금흐름,11389000000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/732717/000073271719000056/ ; https://www.sec.gov/Archives/edgar/data/732717/000156276219000164/,누적 36725000000 − 직전누적 25336000000 (시작 2019-01-01),4
+AT&T,T,2019Q3,2019-09-30,분기말 자산총계,548796000000,USD,공시,https://www.sec.gov/Archives/edgar/data/732717/000073271719000056/,,4
+AT&T,T,2019Q3,2019-09-30,분기말 부채총계,354469000000,USD,계산(부채및자본-총자본),https://www.sec.gov/Archives/edgar/data/732717/000073271719000056/,부채및자본 548796000000 − 총자본 194327000000,4
+AT&T,T,2019Q3,2019-09-30,분기말 총자본(자기자본),194327000000,USD,공시,https://www.sec.gov/Archives/edgar/data/732717/000073271719000056/,,4
+AT&T,T,2019Q3,2019-09-30,분기말 지배지분 자본,183049000000,USD,계산(총자본-비지배),https://www.sec.gov/Archives/edgar/data/732717/000073271719000056/,총자본 194327000000 − 비지배 11278000000,4
+AT&T,T,2019Q3,2019-09-30,분기말 종가,37.84,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/T?interval=1d&events=splits (2019-09-30),분할조정 종가 28.5801 × 이후 분할계수 1.324,4
+AT&T,T,2019Q3,2019-10-31,분기말 상장주식수,7305000000,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/732717/000073271719000056/,dei:EntityCommonStockSharesOutstanding 클래스 합,4
+AT&T,T,2019Q3,2019-09-30,분기말 시가총액,276421200000,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/T?interval=1d&events=splits (2019-09-30) ; https://www.sec.gov/Archives/edgar/data/732717/000073271719000056/,종가 37.84 × 주식수 7305000000,4
+AT&T,T,2019Q4,2019-12-31,분기별 매출액,46821000000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/732717/000156276220000064/ ; https://www.sec.gov/Archives/edgar/data/732717/000073271719000056/,연간 181193000000 − 9개월누적 134372000000 (Revenues),4
+AT&T,T,2019Q4,2019-12-31,분기별 영업이익,5321000000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/732717/000156276220000064/ ; https://www.sec.gov/Archives/edgar/data/732717/000073271719000056/,연간 27955000000 − 9개월누적 22634000000 (OperatingIncomeLoss),4
+AT&T,T,2019Q4,2019-12-31,분기별 당기순이익(지배),2394000000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/732717/000156276220000064/ ; https://www.sec.gov/Archives/edgar/data/732717/000073271719000056/,연간 13903000000 − 9개월누적 11509000000 (NetIncomeLoss),4
+AT&T,T,2019Q4,2019-12-31,분기별 영업활동현금흐름,11943000000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/732717/000156276220000064/ ; https://www.sec.gov/Archives/edgar/data/732717/000073271719000056/,누적 48668000000 − 직전누적 36725000000 (시작 2019-01-01),4
+AT&T,T,2019Q4,2019-12-31,분기말 자산총계,551669000000,USD,공시,https://www.sec.gov/Archives/edgar/data/732717/000156276220000064/,,4
+AT&T,T,2019Q4,2019-12-31,분기말 부채총계,349735000000,USD,계산(부채및자본-총자본),https://www.sec.gov/Archives/edgar/data/732717/000156276220000064/,부채및자본 551669000000 − 총자본 201934000000,4
+AT&T,T,2019Q4,2019-12-31,분기말 총자본(자기자본),201934000000,USD,공시,https://www.sec.gov/Archives/edgar/data/732717/000156276220000064/,,4
+AT&T,T,2019Q4,2019-12-31,분기말 지배지분 자본,184221000000,USD,계산(총자본-비지배),https://www.sec.gov/Archives/edgar/data/732717/000156276220000064/,총자본 201934000000 − 비지배 17713000000,4
+AT&T,T,2019Q4,2019-12-31,분기말 종가,39.08,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/T?interval=1d&events=splits (2019-12-31),분할조정 종가 29.5166 × 이후 분할계수 1.324,4
+AT&T,T,2019Q4,2020-02-12,분기말 상장주식수,7172884070,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/732717/000156276220000064/,dei:EntityCommonStockSharesOutstanding 클래스 합,4
+AT&T,T,2019Q4,2019-12-31,분기말 시가총액,280316309456,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/T?interval=1d&events=splits (2019-12-31) ; https://www.sec.gov/Archives/edgar/data/732717/000156276220000064/,종가 39.08 × 주식수 7172884070,4
+AT&T,T,2020Q1,2020-03-31,분기별 매출액,42779000000,USD,공시,https://www.sec.gov/Archives/edgar/data/732717/000156276220000171/,,4
+AT&T,T,2020Q1,2020-03-31,분기별 영업이익,7486000000,USD,공시,https://www.sec.gov/Archives/edgar/data/732717/000156276220000171/,,4
+AT&T,T,2020Q1,2020-03-31,분기별 당기순이익(지배),4610000000,USD,공시,https://www.sec.gov/Archives/edgar/data/732717/000156276220000171/,,4
+AT&T,T,2020Q1,2020-03-31,분기별 영업활동현금흐름,8866000000,USD,공시,https://www.sec.gov/Archives/edgar/data/732717/000156276220000171/,,4
+AT&T,T,2020Q1,2020-03-31,분기말 자산총계,545354000000,USD,공시,https://www.sec.gov/Archives/edgar/data/732717/000156276220000171/,,4
+AT&T,T,2020Q1,2020-03-31,분기말 부채총계,349905000000,USD,계산(부채및자본-총자본),https://www.sec.gov/Archives/edgar/data/732717/000156276220000171/,부채및자본 545354000000 − 총자본 195449000000,4
+AT&T,T,2020Q1,2020-03-31,분기말 총자본(자기자본),195449000000,USD,공시,https://www.sec.gov/Archives/edgar/data/732717/000156276220000171/,,4
+AT&T,T,2020Q1,2020-03-31,분기말 지배지분 자본,177779000000,USD,계산(총자본-비지배),https://www.sec.gov/Archives/edgar/data/732717/000156276220000171/,총자본 195449000000 − 비지배 17670000000,4
+AT&T,T,2020Q1,2020-03-31,분기말 종가,29.15,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/T?interval=1d&events=splits (2020-03-31),분할조정 종가 22.0166 × 이후 분할계수 1.324,4
+AT&T,T,2020Q1,2020-04-30,분기말 상장주식수,7125000000,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/732717/000156276220000171/,dei:EntityCommonStockSharesOutstanding 클래스 합,4
+AT&T,T,2020Q1,2020-03-31,분기말 시가총액,207693750000,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/T?interval=1d&events=splits (2020-03-31) ; https://www.sec.gov/Archives/edgar/data/732717/000156276220000171/,종가 29.15 × 주식수 7125000000,4
+AT&T,T,2020Q2,2020-06-30,분기별 매출액,40950000000,USD,공시,https://www.sec.gov/Archives/edgar/data/732717/000156276220000279/,,4
+AT&T,T,2020Q2,2020-06-30,분기별 영업이익,3532000000,USD,공시,https://www.sec.gov/Archives/edgar/data/732717/000156276220000279/,,4
+AT&T,T,2020Q2,2020-06-30,분기별 당기순이익(지배),1281000000,USD,공시,https://www.sec.gov/Archives/edgar/data/732717/000156276220000279/,,4
+AT&T,T,2020Q2,2020-06-30,분기별 영업활동현금흐름,12059000000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/732717/000156276220000279/ ; https://www.sec.gov/Archives/edgar/data/732717/000156276220000171/,누적 20925000000 − 직전누적 8866000000 (시작 2020-01-01),4
+AT&T,T,2020Q2,2020-06-30,분기말 자산총계,547898000000,USD,공시,https://www.sec.gov/Archives/edgar/data/732717/000156276220000279/,,4
+AT&T,T,2020Q2,2020-06-30,분기말 부채총계,354445000000,USD,계산(부채및자본-총자본),https://www.sec.gov/Archives/edgar/data/732717/000156276220000279/,부채및자본 547898000000 − 총자본 193453000000,4
+AT&T,T,2020Q2,2020-06-30,분기말 총자본(자기자본),193453000000,USD,공시,https://www.sec.gov/Archives/edgar/data/732717/000156276220000279/,,4
+AT&T,T,2020Q2,2020-06-30,분기말 지배지분 자본,175896000000,USD,계산(총자본-비지배),https://www.sec.gov/Archives/edgar/data/732717/000156276220000279/,총자본 193453000000 − 비지배 17557000000,4
+AT&T,T,2020Q2,2020-06-30,분기말 종가,30.23,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/T?interval=1d&events=splits (2020-06-30),분할조정 종가 22.8323 × 이후 분할계수 1.324,4
+AT&T,T,2020Q2,2020-07-31,분기말 상장주식수,7125000000,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/732717/000156276220000279/,dei:EntityCommonStockSharesOutstanding 클래스 합,4
+AT&T,T,2020Q2,2020-06-30,분기말 시가총액,215388750000,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/T?interval=1d&events=splits (2020-06-30) ; https://www.sec.gov/Archives/edgar/data/732717/000156276220000279/,종가 30.23 × 주식수 7125000000,4
+AT&T,T,2020Q3,2020-09-30,분기별 매출액,42340000000,USD,공시,https://www.sec.gov/Archives/edgar/data/732717/000073271720000056/,,4
+AT&T,T,2020Q3,2020-09-30,분기별 영업이익,6132000000,USD,공시,https://www.sec.gov/Archives/edgar/data/732717/000073271720000056/,,4
+AT&T,T,2020Q3,2020-09-30,분기별 당기순이익(지배),2816000000,USD,공시,https://www.sec.gov/Archives/edgar/data/732717/000073271720000056/,,4
+AT&T,T,2020Q3,2020-09-30,분기별 영업활동현금흐름,12123000000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/732717/000073271720000056/ ; https://www.sec.gov/Archives/edgar/data/732717/000156276220000279/,누적 33048000000 − 직전누적 20925000000 (시작 2020-01-01),4
+AT&T,T,2020Q3,2020-09-30,분기말 자산총계,538553000000,USD,공시,https://www.sec.gov/Archives/edgar/data/732717/000073271720000056/,,4
+AT&T,T,2020Q3,2020-09-30,분기말 부채총계,343497000000,USD,계산(부채및자본-총자본),https://www.sec.gov/Archives/edgar/data/732717/000073271720000056/,부채및자본 538553000000 − 총자본 195056000000,4
+AT&T,T,2020Q3,2020-09-30,분기말 총자본(자기자본),195056000000,USD,공시,https://www.sec.gov/Archives/edgar/data/732717/000073271720000056/,,4
+AT&T,T,2020Q3,2020-09-30,분기말 지배지분 자본,175553000000,USD,계산(총자본-비지배),https://www.sec.gov/Archives/edgar/data/732717/000073271720000056/,총자본 195056000000 − 비지배 19503000000,4
+AT&T,T,2020Q3,2020-09-30,분기말 종가,28.51,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/T?interval=1d&events=splits (2020-09-30),분할조정 종가 21.5332 × 이후 분할계수 1.324,4
+AT&T,T,2020Q3,2020-10-31,분기말 상장주식수,7126000000,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/732717/000073271720000056/,dei:EntityCommonStockSharesOutstanding 클래스 합,4
+AT&T,T,2020Q3,2020-09-30,분기말 시가총액,203162260000,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/T?interval=1d&events=splits (2020-09-30) ; https://www.sec.gov/Archives/edgar/data/732717/000073271720000056/,종가 28.51 × 주식수 7126000000,4
+AT&T,T,2020Q4,2020-12-31,분기별 매출액,45691000000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/732717/000073271721000012/ ; https://www.sec.gov/Archives/edgar/data/732717/000073271720000056/,연간 171760000000 − 9개월누적 126069000000 (Revenues),4
+AT&T,T,2020Q4,2020-12-31,분기별 영업이익,-10745000000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/732717/000073271721000012/ ; https://www.sec.gov/Archives/edgar/data/732717/000073271720000056/,연간 6405000000 − 9개월누적 17150000000 (OperatingIncomeLoss),4
+AT&T,T,2020Q4,2020-12-31,분기별 당기순이익(지배),-13883000000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/732717/000073271721000012/ ; https://www.sec.gov/Archives/edgar/data/732717/000073271720000056/,연간 -5176000000 − 9개월누적 8707000000 (NetIncomeLoss),4
+AT&T,T,2020Q4,2020-12-31,분기별 영업활동현금흐름,10082000000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/732717/000073271721000012/ ; https://www.sec.gov/Archives/edgar/data/732717/000073271720000056/,누적 43130000000 − 직전누적 33048000000 (시작 2020-01-01),4
+AT&T,T,2020Q4,2020-12-31,분기말 자산총계,525761000000,USD,공시,https://www.sec.gov/Archives/edgar/data/732717/000073271721000012/,,4
+AT&T,T,2020Q4,2020-12-31,분기말 부채총계,346521000000,USD,계산(부채및자본-총자본),https://www.sec.gov/Archives/edgar/data/732717/000073271721000012/,부채및자본 525761000000 − 총자본 179240000000,4
+AT&T,T,2020Q4,2020-12-31,분기말 총자본(자기자본),179240000000,USD,공시,https://www.sec.gov/Archives/edgar/data/732717/000073271721000012/,,4
+AT&T,T,2020Q4,2020-12-31,분기말 지배지분 자본,161673000000,USD,계산(총자본-비지배),https://www.sec.gov/Archives/edgar/data/732717/000073271721000012/,총자본 179240000000 − 비지배 17567000000,4
+AT&T,T,2020Q4,2020-12-31,분기말 종가,28.76,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/T?interval=1d&events=splits (2020-12-31),분할조정 종가 21.7221 × 이후 분할계수 1.324,4
+AT&T,T,2020Q4,2021-02-12,분기말 상장주식수,7131763496,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/732717/000073271721000012/,dei:EntityCommonStockSharesOutstanding 클래스 합,4
+AT&T,T,2020Q4,2020-12-31,분기말 시가총액,205109518145,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/T?interval=1d&events=splits (2020-12-31) ; https://www.sec.gov/Archives/edgar/data/732717/000073271721000012/,종가 28.76 × 주식수 7131763496,4
+AT&T,T,2021Q1,2021-03-31,분기별 매출액,43939000000,USD,공시,https://www.sec.gov/Archives/edgar/data/732717/000073271721000030/,,4
+AT&T,T,2021Q1,2021-03-31,분기별 영업이익,7661000000,USD,공시,https://www.sec.gov/Archives/edgar/data/732717/000073271721000030/,,4
+AT&T,T,2021Q1,2021-03-31,분기별 당기순이익(지배),7550000000,USD,공시,https://www.sec.gov/Archives/edgar/data/732717/000073271721000030/,,4
+AT&T,T,2021Q1,2021-03-31,분기별 영업활동현금흐름,9927000000,USD,공시,https://www.sec.gov/Archives/edgar/data/732717/000073271721000030/,,4
+AT&T,T,2021Q1,2021-03-31,분기말 자산총계,546985000000,USD,공시,https://www.sec.gov/Archives/edgar/data/732717/000073271721000030/,,4
+AT&T,T,2021Q1,2021-03-31,분기말 부채총계,363906000000,USD,계산(부채및자본-총자본),https://www.sec.gov/Archives/edgar/data/732717/000073271721000030/,부채및자본 546985000000 − 총자본 183079000000,4
+AT&T,T,2021Q1,2021-03-31,분기말 총자본(자기자본),183079000000,USD,공시,https://www.sec.gov/Archives/edgar/data/732717/000073271721000030/,,4
+AT&T,T,2021Q1,2021-03-31,분기말 지배지분 자본,165488000000,USD,계산(총자본-비지배),https://www.sec.gov/Archives/edgar/data/732717/000073271721000030/,총자본 183079000000 − 비지배 17591000000,4
+AT&T,T,2021Q1,2021-03-31,분기말 종가,30.27,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/T?interval=1d&events=splits (2021-03-31),분할조정 종가 22.8625 × 이후 분할계수 1.324,4
+AT&T,T,2021Q1,2021-04-30,분기말 상장주식수,7140000000,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/732717/000073271721000030/,dei:EntityCommonStockSharesOutstanding 클래스 합,4
+AT&T,T,2021Q1,2021-03-31,분기말 시가총액,216127800000,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/T?interval=1d&events=splits (2021-03-31) ; https://www.sec.gov/Archives/edgar/data/732717/000073271721000030/,종가 30.27 × 주식수 7140000000,4
+AT&T,T,2021Q2,2021-06-30,분기별 매출액,44045000000,USD,공시,https://www.sec.gov/Archives/edgar/data/732717/000073271721000067/,,4
+AT&T,T,2021Q2,2021-06-30,분기별 영업이익,3269000000,USD,공시,https://www.sec.gov/Archives/edgar/data/732717/000073271721000067/,,4
+AT&T,T,2021Q2,2021-06-30,분기별 당기순이익(지배),1570000000,USD,공시,https://www.sec.gov/Archives/edgar/data/732717/000073271721000067/,,4
+AT&T,T,2021Q2,2021-06-30,분기별 영업활동현금흐름,10910000000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/732717/000073271721000067/ ; https://www.sec.gov/Archives/edgar/data/732717/000073271721000030/,누적 20837000000 − 직전누적 9927000000 (시작 2021-01-01),4
+AT&T,T,2021Q2,2021-06-30,분기말 자산총계,544710000000,USD,공시,https://www.sec.gov/Archives/edgar/data/732717/000073271721000067/,,4
+AT&T,T,2021Q2,2021-06-30,분기말 부채총계,364864000000,USD,계산(부채및자본-총자본),https://www.sec.gov/Archives/edgar/data/732717/000073271721000067/,부채및자본 544710000000 − 총자본 179846000000,4
+AT&T,T,2021Q2,2021-06-30,분기말 총자본(자기자본),179846000000,USD,공시,https://www.sec.gov/Archives/edgar/data/732717/000073271721000067/,,4
+AT&T,T,2021Q2,2021-06-30,분기말 지배지분 자본,162296000000,USD,계산(총자본-비지배),https://www.sec.gov/Archives/edgar/data/732717/000073271721000067/,총자본 179846000000 − 비지배 17550000000,4
+AT&T,T,2021Q2,2021-06-30,분기말 종가,28.78,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/T?interval=1d&events=splits (2021-06-30),분할조정 종가 21.7372 × 이후 분할계수 1.324,4
+AT&T,T,2021Q2,2021-07-30,분기말 상장주식수,7140000000,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/732717/000073271721000067/,dei:EntityCommonStockSharesOutstanding 클래스 합,4
+AT&T,T,2021Q2,2021-06-30,분기말 시가총액,205489200000,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/T?interval=1d&events=splits (2021-06-30) ; https://www.sec.gov/Archives/edgar/data/732717/000073271721000067/,종가 28.78 × 주식수 7140000000,4
+AT&T,T,2021Q3,2021-09-30,분기별 매출액,39922000000,USD,공시,https://www.sec.gov/Archives/edgar/data/732717/000073271721000080/,,4
+AT&T,T,2021Q3,2021-09-30,분기별 영업이익,7109000000,USD,공시,https://www.sec.gov/Archives/edgar/data/732717/000073271721000080/,,4
+AT&T,T,2021Q3,2021-09-30,분기별 당기순이익(지배),5918000000,USD,공시,https://www.sec.gov/Archives/edgar/data/732717/000073271721000080/,,4
+AT&T,T,2021Q3,2021-09-30,분기별 영업활동현금흐름,9866000000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/732717/000073271721000080/ ; https://www.sec.gov/Archives/edgar/data/732717/000073271721000067/,누적 30703000000 − 직전누적 20837000000 (시작 2021-01-01),4
+AT&T,T,2021Q3,2021-09-30,분기말 자산총계,547107000000,USD,공시,https://www.sec.gov/Archives/edgar/data/732717/000073271721000080/,,4
+AT&T,T,2021Q3,2021-09-30,분기말 부채총계,365804000000,USD,계산(부채및자본-총자본),https://www.sec.gov/Archives/edgar/data/732717/000073271721000080/,부채및자본 547107000000 − 총자본 181303000000,4
+AT&T,T,2021Q3,2021-09-30,분기말 총자본(자기자본),181303000000,USD,공시,https://www.sec.gov/Archives/edgar/data/732717/000073271721000080/,,4
+AT&T,T,2021Q3,2021-09-30,분기말 지배지분 자본,163771000000,USD,계산(총자본-비지배),https://www.sec.gov/Archives/edgar/data/732717/000073271721000080/,총자본 181303000000 − 비지배 17532000000,4
+AT&T,T,2021Q3,2021-09-30,분기말 종가,27.01,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/T?interval=1d&events=splits (2021-09-30),분할조정 종가 20.4003 × 이후 분할계수 1.324,4
+AT&T,T,2021Q3,2021-10-29,분기말 상장주식수,7141000000,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/732717/000073271721000080/,dei:EntityCommonStockSharesOutstanding 클래스 합,4
+AT&T,T,2021Q3,2021-09-30,분기말 시가총액,192878410000,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/T?interval=1d&events=splits (2021-09-30) ; https://www.sec.gov/Archives/edgar/data/732717/000073271721000080/,종가 27.01 × 주식수 7141000000,4
+AT&T,T,2021Q4,2021-12-31,분기별 매출액,40958000000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/732717/000073271722000015/ ; https://www.sec.gov/Archives/edgar/data/732717/000073271721000080/,연간 168864000000 − 9개월누적 127906000000 (Revenues),4
+AT&T,T,2021Q4,2021-12-31,분기별 영업이익,5308000000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/732717/000073271722000015/ ; https://www.sec.gov/Archives/edgar/data/732717/000073271721000080/,연간 23347000000 − 9개월누적 18039000000 (OperatingIncomeLoss),4
+AT&T,T,2021Q4,2021-12-31,분기별 당기순이익(지배),5043000000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/732717/000073271722000015/ ; https://www.sec.gov/Archives/edgar/data/732717/000073271721000080/,연간 20081000000 − 9개월누적 15038000000 (NetIncomeLoss),4
+AT&T,T,2021Q4,2021-12-31,분기별 영업활동현금흐름,11254000000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/732717/000073271722000015/ ; https://www.sec.gov/Archives/edgar/data/732717/000073271721000080/,누적 41957000000 − 직전누적 30703000000 (시작 2021-01-01),4
+AT&T,T,2021Q4,2021-12-31,분기말 자산총계,551622000000,USD,공시,https://www.sec.gov/Archives/edgar/data/732717/000073271722000015/,,4
+AT&T,T,2021Q4,2021-12-31,분기말 부채총계,367767000000,USD,계산(부채및자본-총자본),https://www.sec.gov/Archives/edgar/data/732717/000073271722000015/,부채및자본 551622000000 − 총자본 183855000000,4
+AT&T,T,2021Q4,2021-12-31,분기말 총자본(자기자본),183855000000,USD,공시,https://www.sec.gov/Archives/edgar/data/732717/000073271722000015/,,4
+AT&T,T,2021Q4,2021-12-31,분기말 지배지분 자본,166332000000,USD,계산(총자본-비지배),https://www.sec.gov/Archives/edgar/data/732717/000073271722000015/,총자본 183855000000 − 비지배 17523000000,4
+AT&T,T,2021Q4,2021-12-31,분기말 종가,24.6,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/T?interval=1d&events=splits (2021-12-31),분할조정 종가 18.5801 × 이후 분할계수 1.324,4
+AT&T,T,2021Q4,2022-02-11,분기말 상장주식수,7142892741,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/732717/000073271722000015/,dei:EntityCommonStockSharesOutstanding 클래스 합,4
+AT&T,T,2021Q4,2021-12-31,분기말 시가총액,175715161429,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/T?interval=1d&events=splits (2021-12-31) ; https://www.sec.gov/Archives/edgar/data/732717/000073271722000015/,종가 24.6 × 주식수 7142892741,4
+AT&T,T,2022Q1,2022-03-31,분기별 매출액,38105000000,USD,공시,https://www.sec.gov/Archives/edgar/data/732717/000073271722000042/,,4
+AT&T,T,2022Q1,2022-03-31,분기별 영업이익,5641000000,USD,공시,https://www.sec.gov/Archives/edgar/data/732717/000073271722000042/,,4
+AT&T,T,2022Q1,2022-03-31,분기별 당기순이익(지배),4810000000,USD,공시,https://www.sec.gov/Archives/edgar/data/732717/000073271722000042/,,4
+AT&T,T,2022Q1,2022-03-31,분기별 영업활동현금흐름,5732000000,USD,공시,https://www.sec.gov/Archives/edgar/data/732717/000073271722000042/,,4
+AT&T,T,2022Q1,2022-03-31,분기말 자산총계,577195000000,USD,공시,https://www.sec.gov/Archives/edgar/data/732717/000073271722000042/,,4
+AT&T,T,2022Q1,2022-03-31,분기말 부채총계,390639000000,USD,계산(부채및자본-총자본),https://www.sec.gov/Archives/edgar/data/732717/000073271722000042/,부채및자본 577195000000 − 총자본 186556000000,4
+AT&T,T,2022Q1,2022-03-31,분기말 총자본(자기자본),186556000000,USD,공시,https://www.sec.gov/Archives/edgar/data/732717/000073271722000042/,,4
+AT&T,T,2022Q1,2022-03-31,분기말 지배지분 자본,169036000000,USD,계산(총자본-비지배),https://www.sec.gov/Archives/edgar/data/732717/000073271722000042/,총자본 186556000000 − 비지배 17520000000,4
+AT&T,T,2022Q1,2022-03-31,분기말 종가,23.63,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/T?interval=1d&events=splits (2022-03-31),분할조정 종가 17.8474 × 이후 분할계수 1.324,4
+AT&T,T,2022Q1,2022-04-27,분기말 상장주식수,7159000000,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/732717/000073271722000042/,dei:EntityCommonStockSharesOutstanding 클래스 합; 표지 기준일이 분할 후,4
+AT&T,T,2022Q1,2022-03-31,분기말 시가총액,127769765861,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/T?interval=1d&events=splits (2022-03-31) ; https://www.sec.gov/Archives/edgar/data/732717/000073271722000042/,종가 23.63 × 주식수 7159000000 ÷ 분할비율 1.324 (분할일 2022-04-11가 거래일 2022-03-31와 표지 기준일 2022-04-27 사이),4
+AT&T,T,2022Q2,2022-06-30,분기별 매출액,29643000000,USD,공시,https://www.sec.gov/Archives/edgar/data/732717/000073271722000093/,,4
+AT&T,T,2022Q2,2022-06-30,분기별 영업이익,4956000000,USD,공시,https://www.sec.gov/Archives/edgar/data/732717/000073271722000093/,,4
+AT&T,T,2022Q2,2022-06-30,분기별 당기순이익(지배),4157000000,USD,공시,https://www.sec.gov/Archives/edgar/data/732717/000073271722000093/,,4
+AT&T,T,2022Q2,2022-06-30,분기별 영업활동현금흐름,9638000000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/732717/000073271722000093/ ; https://www.sec.gov/Archives/edgar/data/732717/000073271722000042/,누적 15370000000 − 직전누적 5732000000 (시작 2022-01-01),4
+AT&T,T,2022Q2,2022-06-30,분기말 자산총계,426433000000,USD,공시,https://www.sec.gov/Archives/edgar/data/732717/000073271722000093/,,4
+AT&T,T,2022Q2,2022-06-30,분기말 부채총계,291126000000,USD,계산(부채및자본-총자본),https://www.sec.gov/Archives/edgar/data/732717/000073271722000093/,부채및자본 426433000000 − 총자본 135307000000,4
+AT&T,T,2022Q2,2022-06-30,분기말 총자본(자기자본),135307000000,USD,공시,https://www.sec.gov/Archives/edgar/data/732717/000073271722000093/,,4
+AT&T,T,2022Q2,2022-06-30,분기말 지배지분 자본,117746000000,USD,계산(총자본-비지배),https://www.sec.gov/Archives/edgar/data/732717/000073271722000093/,총자본 135307000000 − 비지배 17561000000,4
+AT&T,T,2022Q2,2022-06-30,분기말 종가,20.96,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/T?interval=1d&events=splits (2022-06-30),,4
+AT&T,T,2022Q2,2022-07-28,분기말 상장주식수,7126000000,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/732717/000073271722000093/,dei:EntityCommonStockSharesOutstanding 클래스 합,4
+AT&T,T,2022Q2,2022-06-30,분기말 시가총액,149360960000,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/T?interval=1d&events=splits (2022-06-30) ; https://www.sec.gov/Archives/edgar/data/732717/000073271722000093/,종가 20.96 × 주식수 7126000000,4
+AT&T,T,2022Q3,2022-09-30,분기별 매출액,30043000000,USD,공시,https://www.sec.gov/Archives/edgar/data/732717/000073271722000102/,,4
+AT&T,T,2022Q3,2022-09-30,분기별 영업이익,6012000000,USD,공시,https://www.sec.gov/Archives/edgar/data/732717/000073271722000102/,,4
+AT&T,T,2022Q3,2022-09-30,분기별 당기순이익(지배),6026000000,USD,공시,https://www.sec.gov/Archives/edgar/data/732717/000073271722000102/,,4
+AT&T,T,2022Q3,2022-09-30,분기별 영업활동현금흐름,10094000000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/732717/000073271722000102/ ; https://www.sec.gov/Archives/edgar/data/732717/000073271722000093/,누적 25464000000 − 직전누적 15370000000 (시작 2022-01-01),4
+AT&T,T,2022Q3,2022-09-30,분기말 자산총계,426463000000,USD,공시,https://www.sec.gov/Archives/edgar/data/732717/000073271722000102/,,4
+AT&T,T,2022Q3,2022-09-30,분기말 부채총계,286485000000,USD,계산(부채및자본-총자본),https://www.sec.gov/Archives/edgar/data/732717/000073271722000102/,부채및자본 426463000000 − 총자본 139978000000,4
+AT&T,T,2022Q3,2022-09-30,분기말 총자본(자기자본),139978000000,USD,공시,https://www.sec.gov/Archives/edgar/data/732717/000073271722000102/,,4
+AT&T,T,2022Q3,2022-09-30,분기말 지배지분 자본,122406000000,USD,계산(총자본-비지배),https://www.sec.gov/Archives/edgar/data/732717/000073271722000102/,총자본 139978000000 − 비지배 17572000000,4
+AT&T,T,2022Q3,2022-09-30,분기말 종가,15.34,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/T?interval=1d&events=splits (2022-09-30),,4
+AT&T,T,2022Q3,2022-10-31,분기말 상장주식수,7127000000,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/732717/000073271722000102/,dei:EntityCommonStockSharesOutstanding 클래스 합,4
+AT&T,T,2022Q3,2022-09-30,분기말 시가총액,109328180000,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/T?interval=1d&events=splits (2022-09-30) ; https://www.sec.gov/Archives/edgar/data/732717/000073271722000102/,종가 15.34 × 주식수 7127000000,4
+AT&T,T,2022Q4,2022-12-31,분기별 매출액,31343000000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/732717/000073271723000011/ ; https://www.sec.gov/Archives/edgar/data/732717/000073271722000102/,연간 120741000000 − 9개월누적 89398000000 (Revenues),4
+AT&T,T,2022Q4,2022-12-31,분기별 영업이익,-21092000000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/732717/000073271723000011/ ; https://www.sec.gov/Archives/edgar/data/732717/000073271722000102/,연간 -4587000000 − 9개월누적 16505000000 (OperatingIncomeLoss),4
+AT&T,T,2022Q4,2022-12-31,분기별 당기순이익(지배),-23517000000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/732717/000073271723000011/ ; https://www.sec.gov/Archives/edgar/data/732717/000073271722000102/,연간 -8524000000 − 9개월누적 14993000000 (NetIncomeLoss),4
+AT&T,T,2022Q4,2022-12-31,분기별 영업활동현금흐름,10348000000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/732717/000073271723000011/ ; https://www.sec.gov/Archives/edgar/data/732717/000073271722000102/,누적 35812000000 − 직전누적 25464000000 (시작 2022-01-01),4
+AT&T,T,2022Q4,2022-12-31,분기말 자산총계,402853000000,USD,공시,https://www.sec.gov/Archives/edgar/data/732717/000073271723000011/,,4
+AT&T,T,2022Q4,2022-12-31,분기말 부채총계,296396000000,USD,계산(부채및자본-총자본),https://www.sec.gov/Archives/edgar/data/732717/000073271723000011/,부채및자본 402853000000 − 총자본 106457000000,4
+AT&T,T,2022Q4,2022-12-31,분기말 총자본(자기자본),106457000000,USD,공시,https://www.sec.gov/Archives/edgar/data/732717/000073271723000011/,,4
+AT&T,T,2022Q4,2022-12-31,분기말 지배지분 자본,97500000000,USD,계산(총자본-비지배),https://www.sec.gov/Archives/edgar/data/732717/000073271723000011/,총자본 106457000000 − 비지배 8957000000,4
+AT&T,T,2022Q4,2022-12-30,분기말 종가,18.41,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/T?interval=1d&events=splits (2022-12-30),,4
+AT&T,T,2022Q4,2023-02-08,분기말 상장주식수,7129870323,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/732717/000073271723000011/,dei:EntityCommonStockSharesOutstanding 클래스 합,4
+AT&T,T,2022Q4,2022-12-30,분기말 시가총액,131260912646,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/T?interval=1d&events=splits (2022-12-30) ; https://www.sec.gov/Archives/edgar/data/732717/000073271723000011/,종가 18.41 × 주식수 7129870323,4
+AT&T,T,2023Q1,2023-03-31,분기별 매출액,30139000000,USD,공시,https://www.sec.gov/Archives/edgar/data/732717/000073271723000022/,,4
+AT&T,T,2023Q1,2023-03-31,분기별 영업이익,6002000000,USD,공시,https://www.sec.gov/Archives/edgar/data/732717/000073271723000022/,,4
+AT&T,T,2023Q1,2023-03-31,분기별 당기순이익(지배),4228000000,USD,공시,https://www.sec.gov/Archives/edgar/data/732717/000073271723000022/,,4
+AT&T,T,2023Q1,2023-03-31,분기별 영업활동현금흐름,6678000000,USD,공시,https://www.sec.gov/Archives/edgar/data/732717/000073271723000022/,,4
+AT&T,T,2023Q1,2023-03-31,분기말 자산총계,400873000000,USD,공시,https://www.sec.gov/Archives/edgar/data/732717/000073271723000022/,,4
+AT&T,T,2023Q1,2023-03-31,분기말 부채총계,292527000000,USD,계산(부채및자본-총자본),https://www.sec.gov/Archives/edgar/data/732717/000073271723000022/,부채및자본 400873000000 − 총자본 108346000000,4
+AT&T,T,2023Q1,2023-03-31,분기말 총자본(자기자본),108346000000,USD,공시,https://www.sec.gov/Archives/edgar/data/732717/000073271723000022/,,4
+AT&T,T,2023Q1,2023-03-31,분기말 지배지분 자본,99396000000,USD,계산(총자본-비지배),https://www.sec.gov/Archives/edgar/data/732717/000073271723000022/,총자본 108346000000 − 비지배 8950000000,4
+AT&T,T,2023Q1,2023-03-31,분기말 종가,19.25,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/T?interval=1d&events=splits (2023-03-31),,4
+AT&T,T,2023Q1,2023-04-25,분기말 상장주식수,7149000000,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/732717/000073271723000022/,dei:EntityCommonStockSharesOutstanding 클래스 합,4
+AT&T,T,2023Q1,2023-03-31,분기말 시가총액,137618250000,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/T?interval=1d&events=splits (2023-03-31) ; https://www.sec.gov/Archives/edgar/data/732717/000073271723000022/,종가 19.25 × 주식수 7149000000,4
+AT&T,T,2023Q2,2023-06-30,분기별 매출액,29917000000,USD,공시,https://www.sec.gov/Archives/edgar/data/732717/000073271723000047/,,4
+AT&T,T,2023Q2,2023-06-30,분기별 영업이익,6406000000,USD,공시,https://www.sec.gov/Archives/edgar/data/732717/000073271723000047/,,4
+AT&T,T,2023Q2,2023-06-30,분기별 당기순이익(지배),4489000000,USD,공시,https://www.sec.gov/Archives/edgar/data/732717/000073271723000047/,,4
+AT&T,T,2023Q2,2023-06-30,분기별 영업활동현금흐름,9922000000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/732717/000073271723000047/ ; https://www.sec.gov/Archives/edgar/data/732717/000073271723000022/,누적 16600000000 − 직전누적 6678000000 (시작 2023-01-01),4
+AT&T,T,2023Q2,2023-06-30,분기말 자산총계,408453000000,USD,공시,https://www.sec.gov/Archives/edgar/data/732717/000073271723000047/,,4
+AT&T,T,2023Q2,2023-06-30,분기말 부채총계,290408000000,USD,계산(부채및자본-총자본),https://www.sec.gov/Archives/edgar/data/732717/000073271723000047/,부채및자본 408453000000 − 총자본 116075000000 − 메자닌 1970000000 ; 메자닌(일시자본) 1970000000 별도,4
+AT&T,T,2023Q2,2023-06-30,분기말 총자본(자기자본),116075000000,USD,공시,https://www.sec.gov/Archives/edgar/data/732717/000073271723000047/,,4
+AT&T,T,2023Q2,2023-06-30,분기말 지배지분 자본,101903000000,USD,계산(총자본-비지배),https://www.sec.gov/Archives/edgar/data/732717/000073271723000047/,총자본 116075000000 − 비지배 14172000000,4
+AT&T,T,2023Q2,2023-06-30,분기말 종가,15.95,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/T?interval=1d&events=splits (2023-06-30),,4
+AT&T,T,2023Q2,2023-07-24,분기말 상장주식수,7149000000,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/732717/000073271723000047/,dei:EntityCommonStockSharesOutstanding 클래스 합,4
+AT&T,T,2023Q2,2023-06-30,분기말 시가총액,114026550000,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/T?interval=1d&events=splits (2023-06-30) ; https://www.sec.gov/Archives/edgar/data/732717/000073271723000047/,종가 15.95 × 주식수 7149000000,4
+AT&T,T,2023Q3,2023-09-30,분기별 매출액,30350000000,USD,공시,https://www.sec.gov/Archives/edgar/data/732717/000073271723000057/,,4
+AT&T,T,2023Q3,2023-09-30,분기별 영업이익,5782000000,USD,공시,https://www.sec.gov/Archives/edgar/data/732717/000073271723000057/,,4
+AT&T,T,2023Q3,2023-09-30,분기별 당기순이익(지배),3495000000,USD,공시,https://www.sec.gov/Archives/edgar/data/732717/000073271723000057/,,4
+AT&T,T,2023Q3,2023-09-30,분기별 영업활동현금흐름,10336000000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/732717/000073271723000057/ ; https://www.sec.gov/Archives/edgar/data/732717/000073271723000047/,누적 26936000000 − 직전누적 16600000000 (시작 2023-01-01),4
+AT&T,T,2023Q3,2023-09-30,분기말 자산총계,406698000000,USD,공시,https://www.sec.gov/Archives/edgar/data/732717/000073271723000057/,,4
+AT&T,T,2023Q3,2023-09-30,분기말 부채총계,286871000000,USD,계산(부채및자본-총자본),https://www.sec.gov/Archives/edgar/data/732717/000073271723000057/,부채및자본 406698000000 − 총자본 117855000000 − 메자닌 1972000000 ; 메자닌(일시자본) 1972000000 별도,4
+AT&T,T,2023Q3,2023-09-30,분기말 총자본(자기자본),117855000000,USD,공시,https://www.sec.gov/Archives/edgar/data/732717/000073271723000057/,,4
+AT&T,T,2023Q3,2023-09-30,분기말 지배지분 자본,103703000000,USD,계산(총자본-비지배),https://www.sec.gov/Archives/edgar/data/732717/000073271723000057/,총자본 117855000000 − 비지배 14152000000,4
+AT&T,T,2023Q3,2023-09-29,분기말 종가,15.02,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/T?interval=1d&events=splits (2023-09-29),,4
+AT&T,T,2023Q3,2023-10-25,분기말 상장주식수,7150020118,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/732717/000073271723000057/,dei:EntityCommonStockSharesOutstanding 클래스 합,4
+AT&T,T,2023Q3,2023-09-29,분기말 시가총액,107393302172,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/T?interval=1d&events=splits (2023-09-29) ; https://www.sec.gov/Archives/edgar/data/732717/000073271723000057/,종가 15.02 × 주식수 7150020118,4
+AT&T,T,2023Q4,2023-12-31,분기별 매출액,32022000000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/732717/000073271724000009/ ; https://www.sec.gov/Archives/edgar/data/732717/000073271723000057/,연간 122428000000 − 9개월누적 90406000000 (Revenues),4
+AT&T,T,2023Q4,2023-12-31,분기별 영업이익,5271000000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/732717/000073271724000009/ ; https://www.sec.gov/Archives/edgar/data/732717/000073271723000057/,연간 23461000000 − 9개월누적 18190000000 (OperatingIncomeLoss),4
+AT&T,T,2023Q4,2023-12-31,분기별 당기순이익(지배),2188000000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/732717/000073271724000009/ ; https://www.sec.gov/Archives/edgar/data/732717/000073271723000057/,연간 14400000000 − 9개월누적 12212000000 (NetIncomeLoss),4
+AT&T,T,2023Q4,2023-12-31,분기별 영업활동현금흐름,11378000000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/732717/000073271724000009/ ; https://www.sec.gov/Archives/edgar/data/732717/000073271723000057/,누적 38314000000 − 직전누적 26936000000 (시작 2023-01-01),4
+AT&T,T,2023Q4,2023-12-31,분기말 자산총계,407060000000,USD,공시,https://www.sec.gov/Archives/edgar/data/732717/000073271724000009/,,4
+AT&T,T,2023Q4,2023-12-31,분기말 부채총계,287645000000,USD,계산(부채및자본-총자본),https://www.sec.gov/Archives/edgar/data/732717/000073271724000009/,부채및자본 407060000000 − 총자본 117442000000 − 메자닌 1973000000 ; 메자닌(일시자본) 1973000000 별도,4
+AT&T,T,2023Q4,2023-12-31,분기말 총자본(자기자본),117442000000,USD,공시,https://www.sec.gov/Archives/edgar/data/732717/000073271724000009/,,4
+AT&T,T,2023Q4,2023-12-31,분기말 지배지분 자본,103297000000,USD,계산(총자본-비지배),https://www.sec.gov/Archives/edgar/data/732717/000073271724000009/,총자본 117442000000 − 비지배 14145000000,4
+AT&T,T,2023Q4,2023-12-29,분기말 종가,16.78,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/T?interval=1d&events=splits (2023-12-29),,4
+AT&T,T,2023Q4,2024-02-07,분기말 상장주식수,7152792253,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/732717/000073271724000009/,dei:EntityCommonStockSharesOutstanding 클래스 합,4
+AT&T,T,2023Q4,2023-12-29,분기말 시가총액,120023854005,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/T?interval=1d&events=splits (2023-12-29) ; https://www.sec.gov/Archives/edgar/data/732717/000073271724000009/,종가 16.78 × 주식수 7152792253,4
+AT&T,T,2024Q1,2024-03-31,분기별 매출액,30028000000,USD,공시,https://www.sec.gov/Archives/edgar/data/732717/000073271724000022/,,4
+AT&T,T,2024Q1,2024-03-31,분기별 영업이익,5847000000,USD,공시,https://www.sec.gov/Archives/edgar/data/732717/000073271724000022/,,4
+AT&T,T,2024Q1,2024-03-31,분기별 당기순이익(지배),3445000000,USD,공시,https://www.sec.gov/Archives/edgar/data/732717/000073271724000022/,,4
+AT&T,T,2024Q1,2024-03-31,분기별 영업활동현금흐름,7547000000,USD,공시,https://www.sec.gov/Archives/edgar/data/732717/000073271724000022/,,4
+AT&T,T,2024Q1,2024-03-31,분기말 자산총계,399428000000,USD,공시,https://www.sec.gov/Archives/edgar/data/732717/000073271724000022/,,4
+AT&T,T,2024Q1,2024-03-31,분기말 부채총계,278833000000,USD,계산(부채및자본-총자본),https://www.sec.gov/Archives/edgar/data/732717/000073271724000022/,부채및자본 399428000000 − 총자본 118620000000 − 메자닌 1975000000 ; 메자닌(일시자본) 1975000000 별도,4
+AT&T,T,2024Q1,2024-03-31,분기말 총자본(자기자본),118620000000,USD,공시,https://www.sec.gov/Archives/edgar/data/732717/000073271724000022/,,4
+AT&T,T,2024Q1,2024-03-31,분기말 지배지분 자본,104540000000,USD,계산(총자본-비지배),https://www.sec.gov/Archives/edgar/data/732717/000073271724000022/,총자본 118620000000 − 비지배 14080000000,4
+AT&T,T,2024Q1,2024-03-28,분기말 종가,17.6,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/T?interval=1d&events=splits (2024-03-28),,4
+AT&T,T,2024Q1,2024-04-25,분기말 상장주식수,7170165104,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/732717/000073271724000022/,dei:EntityCommonStockSharesOutstanding 클래스 합,4
+AT&T,T,2024Q1,2024-03-28,분기말 시가총액,126194905830,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/T?interval=1d&events=splits (2024-03-28) ; https://www.sec.gov/Archives/edgar/data/732717/000073271724000022/,종가 17.6 × 주식수 7170165104,4
+AT&T,T,2024Q2,2024-06-30,분기별 매출액,29797000000,USD,공시,https://www.sec.gov/Archives/edgar/data/732717/000073271724000053/,,4
+AT&T,T,2024Q2,2024-06-30,분기별 영업이익,5760000000,USD,공시,https://www.sec.gov/Archives/edgar/data/732717/000073271724000053/,,4
+AT&T,T,2024Q2,2024-06-30,분기별 당기순이익(지배),3597000000,USD,공시,https://www.sec.gov/Archives/edgar/data/732717/000073271724000053/,,4
+AT&T,T,2024Q2,2024-06-30,분기별 영업활동현금흐름,9093000000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/732717/000073271724000053/ ; https://www.sec.gov/Archives/edgar/data/732717/000073271724000022/,누적 16640000000 − 직전누적 7547000000 (시작 2024-01-01),4
+AT&T,T,2024Q2,2024-06-30,분기말 자산총계,398026000000,USD,공시,https://www.sec.gov/Archives/edgar/data/732717/000073271724000053/,,4
+AT&T,T,2024Q2,2024-06-30,분기말 부채총계,276702000000,USD,계산(부채및자본-총자본),https://www.sec.gov/Archives/edgar/data/732717/000073271724000053/,부채및자본 398026000000 − 총자본 119347000000 − 메자닌 1977000000 ; 메자닌(일시자본) 1977000000 별도,4
+AT&T,T,2024Q2,2024-06-30,분기말 총자본(자기자본),119347000000,USD,공시,https://www.sec.gov/Archives/edgar/data/732717/000073271724000053/,,4
+AT&T,T,2024Q2,2024-06-30,분기말 지배지분 자본,105310000000,USD,계산(총자본-비지배),https://www.sec.gov/Archives/edgar/data/732717/000073271724000053/,총자본 119347000000 − 비지배 14037000000,4
+AT&T,T,2024Q2,2024-06-28,분기말 종가,19.11,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/T?interval=1d&events=splits (2024-06-28),,4
+AT&T,T,2024Q2,2024-07-18,분기말 상장주식수,7170243877,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/732717/000073271724000053/,dei:EntityCommonStockSharesOutstanding 클래스 합,4
+AT&T,T,2024Q2,2024-06-28,분기말 시가총액,137023360489,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/T?interval=1d&events=splits (2024-06-28) ; https://www.sec.gov/Archives/edgar/data/732717/000073271724000053/,종가 19.11 × 주식수 7170243877,4
+AT&T,T,2024Q3,2024-09-30,분기별 매출액,30213000000,USD,공시,https://www.sec.gov/Archives/edgar/data/732717/000073271724000059/,,4
+AT&T,T,2024Q3,2024-09-30,분기별 영업이익,2116000000,USD,공시,https://www.sec.gov/Archives/edgar/data/732717/000073271724000059/,,4
+AT&T,T,2024Q3,2024-09-30,분기별 당기순이익(지배),-174000000,USD,공시,https://www.sec.gov/Archives/edgar/data/732717/000073271724000059/,,4
+AT&T,T,2024Q3,2024-09-30,분기별 영업활동현금흐름,10235000000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/732717/000073271724000059/ ; https://www.sec.gov/Archives/edgar/data/732717/000073271724000053/,누적 26875000000 − 직전누적 16640000000 (시작 2024-01-01),4
+AT&T,T,2024Q3,2024-09-30,분기말 자산총계,393719000000,USD,공시,https://www.sec.gov/Archives/edgar/data/732717/000073271724000059/,,4
+AT&T,T,2024Q3,2024-09-30,분기말 부채총계,275459000000,USD,계산(부채및자본-총자본),https://www.sec.gov/Archives/edgar/data/732717/000073271724000059/,부채및자본 393719000000 − 총자본 116282000000 − 메자닌 1978000000 ; 메자닌(일시자본) 1978000000 별도,4
+AT&T,T,2024Q3,2024-09-30,분기말 총자본(자기자본),116282000000,USD,공시,https://www.sec.gov/Archives/edgar/data/732717/000073271724000059/,,4
+AT&T,T,2024Q3,2024-09-30,분기말 지배지분 자본,102351000000,USD,계산(총자본-비지배),https://www.sec.gov/Archives/edgar/data/732717/000073271724000059/,총자본 116282000000 − 비지배 13931000000,4
+AT&T,T,2024Q3,2024-09-30,분기말 종가,22.0,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/T?interval=1d&events=splits (2024-09-30),,4
+AT&T,T,2024Q3,2024-10-24,분기말 상장주식수,7175289157,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/732717/000073271724000059/,dei:EntityCommonStockSharesOutstanding 클래스 합,4
+AT&T,T,2024Q3,2024-09-30,분기말 시가총액,157856361454,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/T?interval=1d&events=splits (2024-09-30) ; https://www.sec.gov/Archives/edgar/data/732717/000073271724000059/,종가 22.0 × 주식수 7175289157,4
+AT&T,T,2024Q4,2024-12-31,분기별 매출액,32298000000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/732717/000073271725000013/ ; https://www.sec.gov/Archives/edgar/data/732717/000073271724000059/,연간 122336000000 − 9개월누적 90038000000 (Revenues),4
+AT&T,T,2024Q4,2024-12-31,분기별 영업이익,5326000000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/732717/000073271725000013/ ; https://www.sec.gov/Archives/edgar/data/732717/000073271724000059/,연간 19049000000 − 9개월누적 13723000000 (OperatingIncomeLoss),4
+AT&T,T,2024Q4,2024-12-31,분기별 당기순이익(지배),4080000000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/732717/000073271725000013/ ; https://www.sec.gov/Archives/edgar/data/732717/000073271724000059/,연간 10948000000 − 9개월누적 6868000000 (NetIncomeLoss),4
+AT&T,T,2024Q4,2024-12-31,분기별 영업활동현금흐름,11896000000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/732717/000073271725000013/ ; https://www.sec.gov/Archives/edgar/data/732717/000073271724000059/,누적 38771000000 − 직전누적 26875000000 (시작 2024-01-01),4
+AT&T,T,2024Q4,2024-12-31,분기말 자산총계,394795000000,USD,공시,https://www.sec.gov/Archives/edgar/data/732717/000073271725000013/,,4
+AT&T,T,2024Q4,2024-12-31,분기말 부채총계,274570000000,USD,계산(부채및자본-총자본),https://www.sec.gov/Archives/edgar/data/732717/000073271725000013/,부채및자본 394795000000 − 총자본 118245000000 − 메자닌 1980000000 ; 메자닌(일시자본) 1980000000 별도,4
+AT&T,T,2024Q4,2024-12-31,분기말 총자본(자기자본),118245000000,USD,공시,https://www.sec.gov/Archives/edgar/data/732717/000073271725000013/,,4
+AT&T,T,2024Q4,2024-12-31,분기말 지배지분 자본,104372000000,USD,계산(총자본-비지배),https://www.sec.gov/Archives/edgar/data/732717/000073271725000013/,총자본 118245000000 − 비지배 13873000000,4
+AT&T,T,2024Q4,2024-12-31,분기말 종가,22.77,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/T?interval=1d&events=splits (2024-12-31),,4
+AT&T,T,2024Q4,2025-01-31,분기말 상장주식수,7178183000,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/732717/000073271725000013/,dei:EntityCommonStockSharesOutstanding 클래스 합,4
+AT&T,T,2024Q4,2024-12-31,분기말 시가총액,163447226910,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/T?interval=1d&events=splits (2024-12-31) ; https://www.sec.gov/Archives/edgar/data/732717/000073271725000013/,종가 22.77 × 주식수 7178183000,4
+AT&T,T,2025Q1,2025-03-31,분기별 매출액,30626000000,USD,공시,https://www.sec.gov/Archives/edgar/data/732717/000073271725000023/,,4
+AT&T,T,2025Q1,2025-03-31,분기별 영업이익,5754000000,USD,공시,https://www.sec.gov/Archives/edgar/data/732717/000073271725000023/,,4
+AT&T,T,2025Q1,2025-03-31,분기별 당기순이익(지배),4351000000,USD,공시,https://www.sec.gov/Archives/edgar/data/732717/000073271725000023/,,4
+AT&T,T,2025Q1,2025-03-31,분기별 영업활동현금흐름,9049000000,USD,공시,https://www.sec.gov/Archives/edgar/data/732717/000073271725000023/,,4
+AT&T,T,2025Q1,2025-03-31,분기말 자산총계,397467000000,USD,공시,https://www.sec.gov/Archives/edgar/data/732717/000073271725000023/,,4
+AT&T,T,2025Q1,2025-03-31,분기말 부채총계,275628000000,USD,계산(부채및자본-총자본),https://www.sec.gov/Archives/edgar/data/732717/000073271725000023/,부채및자본 397467000000 − 총자본 119858000000 − 메자닌 1981000000 ; 메자닌(일시자본) 1981000000 별도,4
+AT&T,T,2025Q1,2025-03-31,분기말 총자본(자기자본),119858000000,USD,공시,https://www.sec.gov/Archives/edgar/data/732717/000073271725000023/,,4
+AT&T,T,2025Q1,2025-03-31,분기말 지배지분 자본,103744000000,USD,계산(총자본-비지배),https://www.sec.gov/Archives/edgar/data/732717/000073271725000023/,총자본 119858000000 − 비지배 16114000000,4
+AT&T,T,2025Q1,2025-03-31,분기말 종가,28.28,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/T?interval=1d&events=splits (2025-03-31),,4
+AT&T,T,2025Q1,2025-04-24,분기말 상장주식수,7195602178,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/732717/000073271725000023/,dei:EntityCommonStockSharesOutstanding 클래스 합,4
+AT&T,T,2025Q1,2025-03-31,분기말 시가총액,203491629594,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/T?interval=1d&events=splits (2025-03-31) ; https://www.sec.gov/Archives/edgar/data/732717/000073271725000023/,종가 28.28 × 주식수 7195602178,4
+AT&T,T,2025Q2,2025-06-30,분기별 매출액,30847000000,USD,공시,https://www.sec.gov/Archives/edgar/data/732717/000073271725000080/,,4
+AT&T,T,2025Q2,2025-06-30,분기별 영업이익,6501000000,USD,공시,https://www.sec.gov/Archives/edgar/data/732717/000073271725000080/,,4
+AT&T,T,2025Q2,2025-06-30,분기별 당기순이익(지배),4500000000,USD,공시,https://www.sec.gov/Archives/edgar/data/732717/000073271725000080/,,4
+AT&T,T,2025Q2,2025-06-30,분기별 영업활동현금흐름,9763000000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/732717/000073271725000080/ ; https://www.sec.gov/Archives/edgar/data/732717/000073271725000023/,누적 18812000000 − 직전누적 9049000000 (시작 2025-01-01),4
+AT&T,T,2025Q2,2025-06-30,분기말 자산총계,405491000000,USD,공시,https://www.sec.gov/Archives/edgar/data/732717/000073271725000080/,,4
+AT&T,T,2025Q2,2025-06-30,분기말 부채총계,282114000000,USD,계산(부채및자본-총자본),https://www.sec.gov/Archives/edgar/data/732717/000073271725000080/,부채및자본 405491000000 − 총자본 121394000000 − 메자닌 1983000000 ; 메자닌(일시자본) 1983000000 별도,4
+AT&T,T,2025Q2,2025-06-30,분기말 총자본(자기자본),121394000000,USD,공시,https://www.sec.gov/Archives/edgar/data/732717/000073271725000080/,,4
+AT&T,T,2025Q2,2025-06-30,분기말 지배지분 자본,105272000000,USD,계산(총자본-비지배),https://www.sec.gov/Archives/edgar/data/732717/000073271725000080/,총자본 121394000000 − 비지배 16122000000,4
+AT&T,T,2025Q2,2025-06-30,분기말 종가,28.94,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/T?interval=1d&events=splits (2025-06-30),,4
+AT&T,T,2025Q2,2025-07-21,분기말 상장주식수,7150385480,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/732717/000073271725000080/,dei:EntityCommonStockSharesOutstanding 클래스 합,4
+AT&T,T,2025Q2,2025-06-30,분기말 시가총액,206932155791,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/T?interval=1d&events=splits (2025-06-30) ; https://www.sec.gov/Archives/edgar/data/732717/000073271725000080/,종가 28.94 × 주식수 7150385480,4
+AT&T,T,2025Q3,2025-09-30,분기별 매출액,30709000000,USD,공시,https://www.sec.gov/Archives/edgar/data/732717/000073271725000171/,,4
+AT&T,T,2025Q3,2025-09-30,분기별 영업이익,6119000000,USD,공시,https://www.sec.gov/Archives/edgar/data/732717/000073271725000171/,,4
+AT&T,T,2025Q3,2025-09-30,분기별 당기순이익(지배),9314000000,USD,공시,https://www.sec.gov/Archives/edgar/data/732717/000073271725000171/,,4
+AT&T,T,2025Q3,2025-09-30,분기별 영업활동현금흐름,10152000000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/732717/000073271725000171/ ; https://www.sec.gov/Archives/edgar/data/732717/000073271725000080/,누적 28964000000 − 직전누적 18812000000 (시작 2025-01-01),4
+AT&T,T,2025Q3,2025-09-30,분기말 자산총계,423213000000,USD,공시,https://www.sec.gov/Archives/edgar/data/732717/000073271725000171/,,4
+AT&T,T,2025Q3,2025-09-30,분기말 부채총계,294474000000,USD,계산(부채및자본-총자본),https://www.sec.gov/Archives/edgar/data/732717/000073271725000171/,부채및자본 423213000000 − 총자본 126755000000 − 메자닌 1984000000 ; 메자닌(일시자본) 1984000000 별도,4
+AT&T,T,2025Q3,2025-09-30,분기말 총자본(자기자본),126755000000,USD,공시,https://www.sec.gov/Archives/edgar/data/732717/000073271725000171/,,4
+AT&T,T,2025Q3,2025-09-30,분기말 지배지분 자본,110708000000,USD,계산(총자본-비지배),https://www.sec.gov/Archives/edgar/data/732717/000073271725000171/,총자본 126755000000 − 비지배 16047000000,4
+AT&T,T,2025Q3,2025-09-30,분기말 종가,28.24,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/T?interval=1d&events=splits (2025-09-30),,4
+AT&T,T,2025Q3,2025-10-21,분기말 상장주식수,7089449495,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/732717/000073271725000171/,dei:EntityCommonStockSharesOutstanding 클래스 합,4
+AT&T,T,2025Q3,2025-09-30,분기말 시가총액,200206053739,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/T?interval=1d&events=splits (2025-09-30) ; https://www.sec.gov/Archives/edgar/data/732717/000073271725000171/,종가 28.24 × 주식수 7089449495,4
+AT&T,T,2025Q4,2025-12-31,분기별 매출액,33466000000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/732717/000073271726000120/ ; https://www.sec.gov/Archives/edgar/data/732717/000073271725000171/,연간 125648000000 − 9개월누적 92182000000 (Revenues),4
+AT&T,T,2025Q4,2025-12-31,분기별 영업이익,5788000000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/732717/000073271726000120/ ; https://www.sec.gov/Archives/edgar/data/732717/000073271725000171/,연간 24162000000 − 9개월누적 18374000000 (OperatingIncomeLoss),4
+AT&T,T,2025Q4,2025-12-31,분기별 당기순이익(지배),3788000000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/732717/000073271726000120/ ; https://www.sec.gov/Archives/edgar/data/732717/000073271725000171/,연간 21953000000 − 9개월누적 18165000000 (NetIncomeLoss),4
+AT&T,T,2025Q4,2025-12-31,분기별 영업활동현금흐름,11320000000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/732717/000073271726000120/ ; https://www.sec.gov/Archives/edgar/data/732717/000073271725000171/,누적 40284000000 − 직전누적 28964000000 (시작 2025-01-01),4
+AT&T,T,2025Q4,2025-12-31,분기말 자산총계,420198000000,USD,공시,https://www.sec.gov/Archives/edgar/data/732717/000073271726000120/,,4
+AT&T,T,2025Q4,2025-12-31,분기말 부채총계,291706000000,USD,계산(부채및자본-총자본),https://www.sec.gov/Archives/edgar/data/732717/000073271726000120/,부채및자본 420198000000 − 총자본 126491000000 − 메자닌 2001000000 ; 메자닌(일시자본) 2001000000 별도,4
+AT&T,T,2025Q4,2025-12-31,분기말 총자본(자기자본),126491000000,USD,공시,https://www.sec.gov/Archives/edgar/data/732717/000073271726000120/,,4
+AT&T,T,2025Q4,2025-12-31,분기말 지배지분 자본,110533000000,USD,계산(총자본-비지배),https://www.sec.gov/Archives/edgar/data/732717/000073271726000120/,총자본 126491000000 − 비지배 15958000000,4
+AT&T,T,2025Q4,2025-12-31,분기말 종가,24.84,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/T?interval=1d&events=splits (2025-12-31),,4
+AT&T,T,2025Q4,2026-01-28,분기말 상장주식수,7000577201,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/732717/000073271726000120/,dei:EntityCommonStockSharesOutstanding 클래스 합,4
+AT&T,T,2025Q4,2025-12-31,분기말 시가총액,173894337673,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/T?interval=1d&events=splits (2025-12-31) ; https://www.sec.gov/Archives/edgar/data/732717/000073271726000120/,종가 24.84 × 주식수 7000577201,4
+AT&T,T,2026Q1,2026-03-31,분기별 매출액,31506000000,USD,공시,https://www.sec.gov/Archives/edgar/data/732717/000073271726000206/,,4
+AT&T,T,2026Q1,2026-03-31,분기별 영업이익,6658000000,USD,공시,https://www.sec.gov/Archives/edgar/data/732717/000073271726000206/,,4
+AT&T,T,2026Q1,2026-03-31,분기별 당기순이익(지배),3829000000,USD,공시,https://www.sec.gov/Archives/edgar/data/732717/000073271726000206/,,4
+AT&T,T,2026Q1,2026-03-31,분기별 영업활동현금흐름,7595000000,USD,공시,https://www.sec.gov/Archives/edgar/data/732717/000073271726000206/,,4
+AT&T,T,2026Q1,2026-03-31,분기말 자산총계,421188000000,USD,공시,https://www.sec.gov/Archives/edgar/data/732717/000073271726000206/,,4
+AT&T,T,2026Q1,2026-03-31,분기말 부채총계,293566000000,USD,계산(부채및자본-총자본),https://www.sec.gov/Archives/edgar/data/732717/000073271726000206/,부채및자본 421188000000 − 총자본 125619000000 − 메자닌 2003000000 ; 메자닌(일시자본) 2003000000 별도,4
+AT&T,T,2026Q1,2026-03-31,분기말 총자본(자기자본),125619000000,USD,공시,https://www.sec.gov/Archives/edgar/data/732717/000073271726000206/,,4
+AT&T,T,2026Q1,2026-03-31,분기말 지배지분 자본,109660000000,USD,계산(총자본-비지배),https://www.sec.gov/Archives/edgar/data/732717/000073271726000206/,총자본 125619000000 − 비지배 15959000000,4
+AT&T,T,2026Q1,2026-03-31,분기말 종가,28.99,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/T?interval=1d&events=splits (2026-03-31),,4
+AT&T,T,2026Q1,2026-04-22,분기말 상장주식수,6948338835,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/732717/000073271726000206/,dei:EntityCommonStockSharesOutstanding 클래스 합,4
+AT&T,T,2026Q1,2026-03-31,분기말 시가총액,201432342827,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/T?interval=1d&events=splits (2026-03-31) ; https://www.sec.gov/Archives/edgar/data/732717/000073271726000206/,종가 28.99 × 주식수 6948338835,4
+AT&T,T,2026Q2,2026-06-30,분기별 매출액,31558000000,USD,공시,https://www.sec.gov/Archives/edgar/data/732717/000073271726000297/,,4
+AT&T,T,2026Q2,2026-06-30,분기별 영업이익,7038000000,USD,공시,https://www.sec.gov/Archives/edgar/data/732717/000073271726000297/,,4
+AT&T,T,2026Q2,2026-06-30,분기별 당기순이익(지배),4627000000,USD,공시,https://www.sec.gov/Archives/edgar/data/732717/000073271726000297/,,4
+AT&T,T,2026Q2,2026-06-30,분기별 영업활동현금흐름,10801000000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/732717/000073271726000297/ ; https://www.sec.gov/Archives/edgar/data/732717/000073271726000206/,누적 18396000000 − 직전누적 7595000000 (시작 2026-01-01),4
+AT&T,T,2026Q2,2026-06-30,분기말 자산총계,428359000000,USD,공시,https://www.sec.gov/Archives/edgar/data/732717/000073271726000297/,,4
+AT&T,T,2026Q2,2026-06-30,분기말 부채총계,299920000000,USD,계산(부채및자본-총자본),https://www.sec.gov/Archives/edgar/data/732717/000073271726000297/,부채및자본 428359000000 − 총자본 126434000000 − 메자닌 2005000000 ; 메자닌(일시자본) 2005000000 별도,4
+AT&T,T,2026Q2,2026-06-30,분기말 총자본(자기자본),126434000000,USD,공시,https://www.sec.gov/Archives/edgar/data/732717/000073271726000297/,,4
+AT&T,T,2026Q2,2026-06-30,분기말 지배지분 자본,110444000000,USD,계산(총자본-비지배),https://www.sec.gov/Archives/edgar/data/732717/000073271726000297/,총자본 126434000000 − 비지배 15990000000,4
+AT&T,T,2026Q2,2026-06-30,분기말 종가,20.7,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/T?interval=1d&events=splits (2026-06-30),,4
+AT&T,T,2026Q2,2026-07-16,분기말 상장주식수,6852385650,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/732717/000073271726000297/,dei:EntityCommonStockSharesOutstanding 클래스 합,4
+AT&T,T,2026Q2,2026-06-30,분기말 시가총액,141844382955,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/T?interval=1d&events=splits (2026-06-30) ; https://www.sec.gov/Archives/edgar/data/732717/000073271726000297/,종가 20.7 × 주식수 6852385650,4

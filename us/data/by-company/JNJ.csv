@@ -1,0 +1,727 @@
+﻿기업,종목코드,기간,기준일,항목,값,통화,값구분,출처,검산,라운드
+Johnson & Johnson,JNJ,2010Q1,2010-04-04,분기별 매출액,미확인,USD,미확인,https://www.sec.gov/Archives/edgar/data/200406/000095012310047299/,,2
+Johnson & Johnson,JNJ,2010Q1,2010-04-04,분기별 영업이익,미확인,USD,미확인,SEC companyfacts CIK0000200406: 해당 보고서에 OperatingIncomeLoss 태그 없음(영업이익 미공시) ; https://www.sec.gov/Archives/edgar/data/200406/000095012310047299/,,2
+Johnson & Johnson,JNJ,2010Q1,2010-04-04,분기별 당기순이익(지배),4526000000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/200406/000095012310047299/,,2
+Johnson & Johnson,JNJ,2010Q1,2010-04-04,분기별 영업활동현금흐름,3690000000,USD,공시,https://www.sec.gov/Archives/edgar/data/200406/000095012310047299/,,2
+Johnson & Johnson,JNJ,2010Q1,2010-04-04,분기말 자산총계,93441000000,USD,공시,https://www.sec.gov/Archives/edgar/data/200406/000095012310047299/,,2
+Johnson & Johnson,JNJ,2010Q1,2010-04-04,분기말 부채총계,40527000000,USD,공시,https://www.sec.gov/Archives/edgar/data/200406/000095012310047299/,,2
+Johnson & Johnson,JNJ,2010Q1,2010-04-04,분기말 총자본(자기자본),52914000000,USD,공시,https://www.sec.gov/Archives/edgar/data/200406/000095012310047299/,,2
+Johnson & Johnson,JNJ,2010Q1,2010-04-04,분기말 지배지분 자본,52914000000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/200406/000095012310047299/,"StockholdersEquityIncludingPortionAttributableToNoncontrollingInterest, MinorityInterest 태그 없음",2
+Johnson & Johnson,JNJ,2010Q1,2010-04-01,분기말 종가,65.77,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/JNJ?interval=1d&events=splits (2010-04-01),,2
+Johnson & Johnson,JNJ,2010Q1,2010-05-02,분기말 상장주식수,2758069561,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/200406/000095012310047299/,dei:EntityCommonStockSharesOutstanding 클래스 합,2
+Johnson & Johnson,JNJ,2010Q1,2010-04-01,분기말 시가총액,181398235027,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/JNJ?interval=1d&events=splits (2010-04-01) ; https://www.sec.gov/Archives/edgar/data/200406/000095012310047299/,종가 65.77 × 주식수 2758069561,2
+Johnson & Johnson,JNJ,2010Q2,2010-07-04,분기별 매출액,미확인,USD,미확인,https://www.sec.gov/Archives/edgar/data/200406/000095012310076076/,,2
+Johnson & Johnson,JNJ,2010Q2,2010-07-04,분기별 영업이익,4378000000,USD,공시(후속 보고서 비교기간),https://www.sec.gov/Archives/edgar/data/200406/000095012311075098/,OperatingIncomeLoss ; 그 분기 보고서에 연결 총계가 없어 2011-08-09 제출본의 비교기간에서 읽었다,2
+Johnson & Johnson,JNJ,2010Q2,2010-07-04,분기별 당기순이익(지배),3449000000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/200406/000095012310076076/,,2
+Johnson & Johnson,JNJ,2010Q2,2010-07-04,분기별 영업활동현금흐름,3837000000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/200406/000095012310076076/ ; https://www.sec.gov/Archives/edgar/data/200406/000095012310047299/,누적 7527000000 − 직전누적 3690000000 (시작 2010-01-04),2
+Johnson & Johnson,JNJ,2010Q2,2010-07-04,분기말 자산총계,92300000000,USD,공시,https://www.sec.gov/Archives/edgar/data/200406/000095012310076076/,,2
+Johnson & Johnson,JNJ,2010Q2,2010-07-04,분기말 부채총계,39449000000,USD,공시,https://www.sec.gov/Archives/edgar/data/200406/000095012310076076/,,2
+Johnson & Johnson,JNJ,2010Q2,2010-07-04,분기말 총자본(자기자본),52851000000,USD,공시,https://www.sec.gov/Archives/edgar/data/200406/000095012310076076/,,2
+Johnson & Johnson,JNJ,2010Q2,2010-07-04,분기말 지배지분 자본,52851000000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/200406/000095012310076076/,"StockholdersEquityIncludingPortionAttributableToNoncontrollingInterest, MinorityInterest 태그 없음",2
+Johnson & Johnson,JNJ,2010Q2,2010-07-02,분기말 종가,59.08,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/JNJ?interval=1d&events=splits (2010-07-02),,2
+Johnson & Johnson,JNJ,2010Q2,2010-07-30,분기말 상장주식수,2754444672,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/200406/000095012310076076/,dei:EntityCommonStockSharesOutstanding 클래스 합,2
+Johnson & Johnson,JNJ,2010Q2,2010-07-02,분기말 시가총액,162732591222,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/JNJ?interval=1d&events=splits (2010-07-02) ; https://www.sec.gov/Archives/edgar/data/200406/000095012310076076/,종가 59.08 × 주식수 2754444672,2
+Johnson & Johnson,JNJ,2010Q3,2010-10-03,분기별 매출액,미확인,USD,미확인,https://www.sec.gov/Archives/edgar/data/200406/000095012310103817/,,2
+Johnson & Johnson,JNJ,2010Q3,2010-10-03,분기별 영업이익,4361000000,USD,공시(후속 보고서 비교기간),https://www.sec.gov/Archives/edgar/data/200406/000095012311096471/,OperatingIncomeLoss ; 그 분기 보고서에 연결 총계가 없어 2011-11-08 제출본의 비교기간에서 읽었다,2
+Johnson & Johnson,JNJ,2010Q3,2010-10-03,분기별 당기순이익(지배),3417000000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/200406/000095012310103817/,,2
+Johnson & Johnson,JNJ,2010Q3,2010-10-03,분기별 영업활동현금흐름,5034000000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/200406/000095012310103817/ ; https://www.sec.gov/Archives/edgar/data/200406/000095012310076076/,누적 12561000000 − 직전누적 7527000000 (시작 2010-01-04),2
+Johnson & Johnson,JNJ,2010Q3,2010-10-03,분기말 자산총계,98247000000,USD,공시,https://www.sec.gov/Archives/edgar/data/200406/000095012310103817/,,2
+Johnson & Johnson,JNJ,2010Q3,2010-10-03,분기말 부채총계,40956000000,USD,공시,https://www.sec.gov/Archives/edgar/data/200406/000095012310103817/,,2
+Johnson & Johnson,JNJ,2010Q3,2010-10-03,분기말 총자본(자기자본),57291000000,USD,공시,https://www.sec.gov/Archives/edgar/data/200406/000095012310103817/,,2
+Johnson & Johnson,JNJ,2010Q3,2010-10-03,분기말 지배지분 자본,57291000000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/200406/000095012310103817/,"StockholdersEquityIncludingPortionAttributableToNoncontrollingInterest, MinorityInterest 태그 없음",2
+Johnson & Johnson,JNJ,2010Q3,2010-10-01,분기말 종가,61.75,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/JNJ?interval=1d&events=splits (2010-10-01),,2
+Johnson & Johnson,JNJ,2010Q3,2010-10-29,분기말 상장주식수,2746253692,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/200406/000095012310103817/,dei:EntityCommonStockSharesOutstanding 클래스 합,2
+Johnson & Johnson,JNJ,2010Q3,2010-10-01,분기말 시가총액,169581165481,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/JNJ?interval=1d&events=splits (2010-10-01) ; https://www.sec.gov/Archives/edgar/data/200406/000095012310103817/,종가 61.75 × 주식수 2746253692,2
+Johnson & Johnson,JNJ,2010Q4,2011-01-02,분기별 매출액,미확인,USD,미확인,https://www.sec.gov/Archives/edgar/data/200406/000095012311018128/,,2
+Johnson & Johnson,JNJ,2010Q4,2011-01-02,분기별 영업이익,미확인,USD,미확인,SEC companyfacts CIK0000200406: 해당 보고서에 OperatingIncomeLoss 태그 없음(영업이익 미공시) ; https://www.sec.gov/Archives/edgar/data/200406/000095012311018128/,,2
+Johnson & Johnson,JNJ,2010Q4,2011-01-02,분기별 당기순이익(지배),1942000000,USD,"계산(연간-3분기누적, 비지배 없음)",https://www.sec.gov/Archives/edgar/data/200406/000095012311018128/ ; https://www.sec.gov/Archives/edgar/data/200406/000095012310103817/,연간 13334000000 − 9개월누적 11392000000 (ProfitLoss),2
+Johnson & Johnson,JNJ,2010Q4,2011-01-02,분기별 영업활동현금흐름,3824000000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/200406/000095012311018128/ ; https://www.sec.gov/Archives/edgar/data/200406/000095012310103817/,누적 16385000000 − 직전누적 12561000000 (시작 2010-01-04),2
+Johnson & Johnson,JNJ,2010Q4,2011-01-02,분기말 자산총계,102908000000,USD,공시,https://www.sec.gov/Archives/edgar/data/200406/000095012311018128/,,2
+Johnson & Johnson,JNJ,2010Q4,2011-01-02,분기말 부채총계,46329000000,USD,공시,https://www.sec.gov/Archives/edgar/data/200406/000095012311018128/,,2
+Johnson & Johnson,JNJ,2010Q4,2011-01-02,분기말 총자본(자기자본),56579000000,USD,공시,https://www.sec.gov/Archives/edgar/data/200406/000095012311018128/,,2
+Johnson & Johnson,JNJ,2010Q4,2011-01-02,분기말 지배지분 자본,56579000000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/200406/000095012311018128/,"StockholdersEquityIncludingPortionAttributableToNoncontrollingInterest, MinorityInterest 태그 없음",2
+Johnson & Johnson,JNJ,2010Q4,2010-12-31,분기말 종가,61.85,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/JNJ?interval=1d&events=splits (2010-12-31),,2
+Johnson & Johnson,JNJ,2010Q4,2011-02-15,분기말 상장주식수,2735213719,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/200406/000095012311018128/,dei:EntityCommonStockSharesOutstanding 클래스 합,2
+Johnson & Johnson,JNJ,2010Q4,2010-12-31,분기말 시가총액,169172968520,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/JNJ?interval=1d&events=splits (2010-12-31) ; https://www.sec.gov/Archives/edgar/data/200406/000095012311018128/,종가 61.85 × 주식수 2735213719,2
+Johnson & Johnson,JNJ,2011Q1,2011-04-03,분기별 매출액,미확인,USD,미확인,https://www.sec.gov/Archives/edgar/data/200406/000095012311048125/,,2
+Johnson & Johnson,JNJ,2011Q1,2011-04-03,분기별 영업이익,4726000000,USD,공시(후속 보고서 비교기간),https://www.sec.gov/Archives/edgar/data/200406/000020040612000081/,OperatingIncomeLoss ; 그 분기 보고서에 연결 총계가 없어 2012-05-07 제출본의 비교기간에서 읽었다,2
+Johnson & Johnson,JNJ,2011Q1,2011-04-03,분기별 당기순이익(지배),3476000000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/200406/000095012311048125/,,2
+Johnson & Johnson,JNJ,2011Q1,2011-04-03,분기별 영업활동현금흐름,2316000000,USD,공시,https://www.sec.gov/Archives/edgar/data/200406/000095012311048125/,,2
+Johnson & Johnson,JNJ,2011Q1,2011-04-03,분기말 자산총계,108150000000,USD,공시,https://www.sec.gov/Archives/edgar/data/200406/000095012311048125/,,2
+Johnson & Johnson,JNJ,2011Q1,2011-04-03,분기말 부채총계,48287000000,USD,공시,https://www.sec.gov/Archives/edgar/data/200406/000095012311048125/,,2
+Johnson & Johnson,JNJ,2011Q1,2011-04-03,분기말 총자본(자기자본),59863000000,USD,공시,https://www.sec.gov/Archives/edgar/data/200406/000095012311048125/,,2
+Johnson & Johnson,JNJ,2011Q1,2011-04-03,분기말 지배지분 자본,59863000000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/200406/000095012311048125/,"StockholdersEquityIncludingPortionAttributableToNoncontrollingInterest, MinorityInterest 태그 없음",2
+Johnson & Johnson,JNJ,2011Q1,2011-04-01,분기말 종가,59.49,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/JNJ?interval=1d&events=splits (2011-04-01),,2
+Johnson & Johnson,JNJ,2011Q1,2011-04-29,분기말 상장주식수,2741143427,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/200406/000095012311048125/,dei:EntityCommonStockSharesOutstanding 클래스 합,2
+Johnson & Johnson,JNJ,2011Q1,2011-04-01,분기말 시가총액,163070622472,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/JNJ?interval=1d&events=splits (2011-04-01) ; https://www.sec.gov/Archives/edgar/data/200406/000095012311048125/,종가 59.49 × 주식수 2741143427,2
+Johnson & Johnson,JNJ,2011Q2,2011-07-03,분기별 매출액,미확인,USD,미확인,https://www.sec.gov/Archives/edgar/data/200406/000095012311075098/,,2
+Johnson & Johnson,JNJ,2011Q2,2011-07-03,분기별 영업이익,3538000000,USD,공시,https://www.sec.gov/Archives/edgar/data/200406/000095012311075098/,,2
+Johnson & Johnson,JNJ,2011Q2,2011-07-03,분기별 당기순이익(지배),2776000000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/200406/000095012311075098/,,2
+Johnson & Johnson,JNJ,2011Q2,2011-07-03,분기별 영업활동현금흐름,3909000000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/200406/000095012311075098/ ; https://www.sec.gov/Archives/edgar/data/200406/000095012311048125/,누적 6225000000 − 직전누적 2316000000 (시작 2011-01-03),2
+Johnson & Johnson,JNJ,2011Q2,2011-07-03,분기말 자산총계,112114000000,USD,공시,https://www.sec.gov/Archives/edgar/data/200406/000095012311075098/,,2
+Johnson & Johnson,JNJ,2011Q2,2011-07-03,분기말 부채총계,49982000000,USD,공시,https://www.sec.gov/Archives/edgar/data/200406/000095012311075098/,,2
+Johnson & Johnson,JNJ,2011Q2,2011-07-03,분기말 총자본(자기자본),62132000000,USD,공시,https://www.sec.gov/Archives/edgar/data/200406/000095012311075098/,,2
+Johnson & Johnson,JNJ,2011Q2,2011-07-03,분기말 지배지분 자본,62132000000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/200406/000095012311075098/,"StockholdersEquityIncludingPortionAttributableToNoncontrollingInterest, MinorityInterest 태그 없음",2
+Johnson & Johnson,JNJ,2011Q2,2011-07-01,분기말 종가,67.3,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/JNJ?interval=1d&events=splits (2011-07-01),,2
+Johnson & Johnson,JNJ,2011Q2,2011-07-29,분기말 상장주식수,2740354114,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/200406/000095012311075098/,dei:EntityCommonStockSharesOutstanding 클래스 합,2
+Johnson & Johnson,JNJ,2011Q2,2011-07-01,분기말 시가총액,184425831872,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/JNJ?interval=1d&events=splits (2011-07-01) ; https://www.sec.gov/Archives/edgar/data/200406/000095012311075098/,종가 67.3 × 주식수 2740354114,2
+Johnson & Johnson,JNJ,2011Q3,2011-10-02,분기별 매출액,미확인,USD,미확인,https://www.sec.gov/Archives/edgar/data/200406/000095012311096471/,,2
+Johnson & Johnson,JNJ,2011Q3,2011-10-02,분기별 영업이익,4649000000,USD,공시,https://www.sec.gov/Archives/edgar/data/200406/000095012311096471/,,2
+Johnson & Johnson,JNJ,2011Q3,2011-10-02,분기별 당기순이익(지배),3202000000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/200406/000095012311096471/,,2
+Johnson & Johnson,JNJ,2011Q3,2011-10-02,분기별 영업활동현금흐름,4622000000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/200406/000095012311096471/ ; https://www.sec.gov/Archives/edgar/data/200406/000095012311075098/,누적 10847000000 − 직전누적 6225000000 (시작 2011-01-03),2
+Johnson & Johnson,JNJ,2011Q3,2011-10-02,분기말 자산총계,111821000000,USD,공시,https://www.sec.gov/Archives/edgar/data/200406/000095012311096471/,,2
+Johnson & Johnson,JNJ,2011Q3,2011-10-02,분기말 부채총계,50294000000,USD,공시,https://www.sec.gov/Archives/edgar/data/200406/000095012311096471/,,2
+Johnson & Johnson,JNJ,2011Q3,2011-10-02,분기말 총자본(자기자본),61527000000,USD,공시,https://www.sec.gov/Archives/edgar/data/200406/000095012311096471/,,2
+Johnson & Johnson,JNJ,2011Q3,2011-10-02,분기말 지배지분 자본,61527000000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/200406/000095012311096471/,"StockholdersEquityIncludingPortionAttributableToNoncontrollingInterest, MinorityInterest 태그 없음",2
+Johnson & Johnson,JNJ,2011Q3,2011-09-30,분기말 종가,63.69,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/JNJ?interval=1d&events=splits (2011-09-30),,2
+Johnson & Johnson,JNJ,2011Q3,2011-10-28,분기말 상장주식수,2730849018,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/200406/000095012311096471/,dei:EntityCommonStockSharesOutstanding 클래스 합,2
+Johnson & Johnson,JNJ,2011Q3,2011-09-30,분기말 시가총액,173927773956,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/JNJ?interval=1d&events=splits (2011-09-30) ; https://www.sec.gov/Archives/edgar/data/200406/000095012311096471/,종가 63.69 × 주식수 2730849018,2
+Johnson & Johnson,JNJ,2011Q4,2012-01-01,분기별 매출액,미확인,USD,미확인,https://www.sec.gov/Archives/edgar/data/200406/000119312512075565/,,2
+Johnson & Johnson,JNJ,2011Q4,2012-01-01,분기별 영업이익,852000000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/200406/000119312512075565/ ; https://www.sec.gov/Archives/edgar/data/200406/000095012311096471/,연간 13765000000 − 9개월누적 12913000000 (OperatingIncomeLoss),2
+Johnson & Johnson,JNJ,2011Q4,2012-01-01,분기별 당기순이익(지배),218000000,USD,"계산(연간-3분기누적, 비지배 없음)",https://www.sec.gov/Archives/edgar/data/200406/000119312512075565/ ; https://www.sec.gov/Archives/edgar/data/200406/000095012311096471/,연간 9672000000 − 9개월누적 9454000000 (ProfitLoss),2
+Johnson & Johnson,JNJ,2011Q4,2012-01-01,분기별 영업활동현금흐름,3451000000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/200406/000119312512075565/ ; https://www.sec.gov/Archives/edgar/data/200406/000095012311096471/,누적 14298000000 − 직전누적 10847000000 (시작 2011-01-03),2
+Johnson & Johnson,JNJ,2011Q4,2012-01-01,분기말 자산총계,113644000000,USD,공시,https://www.sec.gov/Archives/edgar/data/200406/000119312512075565/,,2
+Johnson & Johnson,JNJ,2011Q4,2012-01-01,분기말 부채총계,56564000000,USD,공시,https://www.sec.gov/Archives/edgar/data/200406/000119312512075565/,,2
+Johnson & Johnson,JNJ,2011Q4,2012-01-01,분기말 총자본(자기자본),57080000000,USD,공시,https://www.sec.gov/Archives/edgar/data/200406/000119312512075565/,,2
+Johnson & Johnson,JNJ,2011Q4,2012-01-01,분기말 지배지분 자본,57080000000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/200406/000119312512075565/,"StockholdersEquityIncludingPortionAttributableToNoncontrollingInterest, MinorityInterest 태그 없음",2
+Johnson & Johnson,JNJ,2011Q4,2011-12-30,분기말 종가,65.58,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/JNJ?interval=1d&events=splits (2011-12-30),,2
+Johnson & Johnson,JNJ,2011Q4,2012-02-17,분기말 상장주식수,2745078671,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/200406/000119312512075565/,dei:EntityCommonStockSharesOutstanding 클래스 합,2
+Johnson & Johnson,JNJ,2011Q4,2011-12-30,분기말 시가총액,180022259244,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/JNJ?interval=1d&events=splits (2011-12-30) ; https://www.sec.gov/Archives/edgar/data/200406/000119312512075565/,종가 65.58 × 주식수 2745078671,2
+Johnson & Johnson,JNJ,2012Q1,2012-04-01,분기별 매출액,미확인,USD,미확인,https://www.sec.gov/Archives/edgar/data/200406/000020040612000081/,,2
+Johnson & Johnson,JNJ,2012Q1,2012-04-01,분기별 영업이익,5130000000,USD,공시,https://www.sec.gov/Archives/edgar/data/200406/000020040612000081/,,2
+Johnson & Johnson,JNJ,2012Q1,2012-04-01,분기별 당기순이익(지배),3910000000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/200406/000020040612000081/,,2
+Johnson & Johnson,JNJ,2012Q1,2012-04-01,분기별 영업활동현금흐름,2795000000,USD,공시,https://www.sec.gov/Archives/edgar/data/200406/000020040612000081/,,2
+Johnson & Johnson,JNJ,2012Q1,2012-04-01,분기말 자산총계,116194000000,USD,공시,https://www.sec.gov/Archives/edgar/data/200406/000020040612000081/,,2
+Johnson & Johnson,JNJ,2012Q1,2012-04-01,분기말 부채총계,54828000000,USD,공시,https://www.sec.gov/Archives/edgar/data/200406/000020040612000081/,,2
+Johnson & Johnson,JNJ,2012Q1,2012-04-01,분기말 총자본(자기자본),61366000000,USD,공시,https://www.sec.gov/Archives/edgar/data/200406/000020040612000081/,,2
+Johnson & Johnson,JNJ,2012Q1,2012-04-01,분기말 지배지분 자본,61366000000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/200406/000020040612000081/,"StockholdersEquityIncludingPortionAttributableToNoncontrollingInterest, MinorityInterest 태그 없음",2
+Johnson & Johnson,JNJ,2012Q1,2012-03-30,분기말 종가,65.96,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/JNJ?interval=1d&events=splits (2012-03-30),,2
+Johnson & Johnson,JNJ,2012Q1,2012-04-27,분기말 상장주식수,2746372004,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/200406/000020040612000081/,dei:EntityCommonStockSharesOutstanding 클래스 합,2
+Johnson & Johnson,JNJ,2012Q1,2012-03-30,분기말 시가총액,181150697384,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/JNJ?interval=1d&events=splits (2012-03-30) ; https://www.sec.gov/Archives/edgar/data/200406/000020040612000081/,종가 65.96 × 주식수 2746372004,2
+Johnson & Johnson,JNJ,2012Q2,2012-07-01,분기별 매출액,16475000000,USD,공시(후속 보고서 비교기간),https://www.sec.gov/Archives/edgar/data/200406/000020040613000091/,Revenues ; 그 분기 보고서에 연결 총계가 없어 2013-08-01 제출본의 비교기간에서 읽었다,2
+Johnson & Johnson,JNJ,2012Q2,2012-07-01,분기별 영업이익,2657000000,USD,공시,https://www.sec.gov/Archives/edgar/data/200406/000020040612000119/,,2
+Johnson & Johnson,JNJ,2012Q2,2012-07-01,분기별 당기순이익(지배),1408000000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/200406/000020040612000119/,,2
+Johnson & Johnson,JNJ,2012Q2,2012-07-01,분기별 영업활동현금흐름,4245000000,USD,계산(누적차감)(재작성 반영),https://www.sec.gov/Archives/edgar/data/200406/000020040613000091/ ; https://www.sec.gov/Archives/edgar/data/200406/000020040612000081/,누적 7040000000 − 직전누적 2795000000 (시작 2012-01-02) ; 원 공시 4728000000 (https://www.sec.gov/Archives/edgar/data/200406/000020040612000119/ ; https://www.sec.gov/Archives/edgar/data/200406/000020040612000081/),2
+Johnson & Johnson,JNJ,2012Q2,2012-07-01,분기말 자산총계,115750000000,USD,공시,https://www.sec.gov/Archives/edgar/data/200406/000020040612000119/,,2
+Johnson & Johnson,JNJ,2012Q2,2012-07-01,분기말 부채총계,55316000000,USD,공시,https://www.sec.gov/Archives/edgar/data/200406/000020040612000119/,,2
+Johnson & Johnson,JNJ,2012Q2,2012-07-01,분기말 총자본(자기자본),60434000000,USD,공시,https://www.sec.gov/Archives/edgar/data/200406/000020040612000119/,,2
+Johnson & Johnson,JNJ,2012Q2,2012-07-01,분기말 지배지분 자본,60434000000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/200406/000020040612000119/,"StockholdersEquityIncludingPortionAttributableToNoncontrollingInterest, MinorityInterest 태그 없음",2
+Johnson & Johnson,JNJ,2012Q2,2012-06-29,분기말 종가,67.56,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/JNJ?interval=1d&events=splits (2012-06-29),,2
+Johnson & Johnson,JNJ,2012Q2,2012-07-27,분기말 상장주식수,2757041143,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/200406/000020040612000119/,dei:EntityCommonStockSharesOutstanding 클래스 합,2
+Johnson & Johnson,JNJ,2012Q2,2012-06-29,분기말 시가총액,186265699621,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/JNJ?interval=1d&events=splits (2012-06-29) ; https://www.sec.gov/Archives/edgar/data/200406/000020040612000119/,종가 67.56 × 주식수 2757041143,2
+Johnson & Johnson,JNJ,2012Q3,2012-09-30,분기별 매출액,17052000000,USD,공시(후속 보고서 비교기간),https://www.sec.gov/Archives/edgar/data/200406/000020040613000112/,Revenues ; 그 분기 보고서에 연결 총계가 없어 2013-11-04 제출본의 비교기간에서 읽었다,2
+Johnson & Johnson,JNJ,2012Q3,2012-09-30,분기별 영업이익,3825000000,USD,공시,https://www.sec.gov/Archives/edgar/data/200406/000020040612000140/,,2
+Johnson & Johnson,JNJ,2012Q3,2012-09-30,분기별 당기순이익(지배),2968000000,USD,공시,https://www.sec.gov/Archives/edgar/data/200406/000020040612000140/,,2
+Johnson & Johnson,JNJ,2012Q3,2012-09-30,분기별 영업활동현금흐름,4980000000,USD,계산(누적차감)(재작성 반영),https://www.sec.gov/Archives/edgar/data/200406/000020040612000140/ ; https://www.sec.gov/Archives/edgar/data/200406/000020040613000091/,누적 12020000000 − 직전누적 7040000000 (시작 2012-01-02) ; 원 공시 4497000000 (https://www.sec.gov/Archives/edgar/data/200406/000020040612000140/ ; https://www.sec.gov/Archives/edgar/data/200406/000020040612000119/),2
+Johnson & Johnson,JNJ,2012Q3,2012-09-30,분기말 자산총계,118951000000,USD,공시,https://www.sec.gov/Archives/edgar/data/200406/000020040612000140/,,2
+Johnson & Johnson,JNJ,2012Q3,2012-09-30,분기말 부채총계,55190000000,USD,공시,https://www.sec.gov/Archives/edgar/data/200406/000020040612000140/,,2
+Johnson & Johnson,JNJ,2012Q3,2012-09-30,분기말 총자본(자기자본),63761000000,USD,공시,https://www.sec.gov/Archives/edgar/data/200406/000020040612000140/,,2
+Johnson & Johnson,JNJ,2012Q3,2012-09-30,분기말 지배지분 자본,63761000000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/200406/000020040612000140/,"StockholdersEquityIncludingPortionAttributableToNoncontrollingInterest, MinorityInterest 태그 없음",2
+Johnson & Johnson,JNJ,2012Q3,2012-09-28,분기말 종가,68.91,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/JNJ?interval=1d&events=splits (2012-09-28),,2
+Johnson & Johnson,JNJ,2012Q3,2012-10-26,분기말 상장주식수,2771261581,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/200406/000020040612000140/,dei:EntityCommonStockSharesOutstanding 클래스 합,2
+Johnson & Johnson,JNJ,2012Q3,2012-09-28,분기말 시가총액,190967635547,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/JNJ?interval=1d&events=splits (2012-09-28) ; https://www.sec.gov/Archives/edgar/data/200406/000020040612000140/,종가 68.91 × 주식수 2771261581,2
+Johnson & Johnson,JNJ,2012Q4,2012-12-30,분기별 매출액,미확인,USD,미확인,https://www.sec.gov/Archives/edgar/data/200406/000020040613000038/,,2
+Johnson & Johnson,JNJ,2012Q4,2012-12-30,분기별 영업이익,3342000000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/200406/000020040613000038/ ; https://www.sec.gov/Archives/edgar/data/200406/000020040612000140/,연간 14955000000 − 9개월누적 11613000000 (OperatingIncomeLoss),2
+Johnson & Johnson,JNJ,2012Q4,2012-12-30,분기별 당기순이익(지배),2567000000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/200406/000020040613000038/ ; https://www.sec.gov/Archives/edgar/data/200406/000020040612000140/,연간 10853000000 − 9개월누적 8286000000 (NetIncomeLoss),2
+Johnson & Johnson,JNJ,2012Q4,2012-12-30,분기별 영업활동현금흐름,3376000000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/200406/000020040613000038/ ; https://www.sec.gov/Archives/edgar/data/200406/000020040612000140/,누적 15396000000 − 직전누적 12020000000 (시작 2012-01-02),2
+Johnson & Johnson,JNJ,2012Q4,2012-12-30,분기말 자산총계,121347000000,USD,공시,https://www.sec.gov/Archives/edgar/data/200406/000020040613000038/,,2
+Johnson & Johnson,JNJ,2012Q4,2012-12-30,분기말 부채총계,56521000000,USD,공시,https://www.sec.gov/Archives/edgar/data/200406/000020040613000038/,,2
+Johnson & Johnson,JNJ,2012Q4,2012-12-30,분기말 총자본(자기자본),64826000000,USD,공시,https://www.sec.gov/Archives/edgar/data/200406/000020040613000038/,,2
+Johnson & Johnson,JNJ,2012Q4,2012-12-30,분기말 지배지분 자본,64826000000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/200406/000020040613000038/,"StockholdersEquityIncludingPortionAttributableToNoncontrollingInterest, MinorityInterest 태그 없음",2
+Johnson & Johnson,JNJ,2012Q4,2012-12-28,분기말 종가,69.48,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/JNJ?interval=1d&events=splits (2012-12-28),,2
+Johnson & Johnson,JNJ,2012Q4,2013-02-19,분기말 상장주식수,2795319117,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/200406/000020040613000038/,dei:EntityCommonStockSharesOutstanding 클래스 합,2
+Johnson & Johnson,JNJ,2012Q4,2012-12-28,분기말 시가총액,194218772249,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/JNJ?interval=1d&events=splits (2012-12-28) ; https://www.sec.gov/Archives/edgar/data/200406/000020040613000038/,종가 69.48 × 주식수 2795319117,2
+Johnson & Johnson,JNJ,2013Q1,2013-03-31,분기별 매출액,17505000000,USD,공시(후속 보고서 비교기간),https://www.sec.gov/Archives/edgar/data/200406/000020040614000047/,Revenues ; 그 분기 보고서에 연결 총계가 없어 2014-05-02 제출본의 비교기간에서 읽었다,2
+Johnson & Johnson,JNJ,2013Q1,2013-03-31,분기별 영업이익,4482000000,USD,공시,https://www.sec.gov/Archives/edgar/data/200406/000020040613000057/,,2
+Johnson & Johnson,JNJ,2013Q1,2013-03-31,분기별 당기순이익(지배),3497000000,USD,공시,https://www.sec.gov/Archives/edgar/data/200406/000020040613000057/,,2
+Johnson & Johnson,JNJ,2013Q1,2013-03-31,분기별 영업활동현금흐름,2277000000,USD,공시,https://www.sec.gov/Archives/edgar/data/200406/000020040613000057/,,2
+Johnson & Johnson,JNJ,2013Q1,2013-03-31,분기말 자산총계,121536000000,USD,공시,https://www.sec.gov/Archives/edgar/data/200406/000020040613000057/,,2
+Johnson & Johnson,JNJ,2013Q1,2013-03-31,분기말 부채총계,54681000000,USD,공시,https://www.sec.gov/Archives/edgar/data/200406/000020040613000057/,,2
+Johnson & Johnson,JNJ,2013Q1,2013-03-31,분기말 총자본(자기자본),66855000000,USD,공시,https://www.sec.gov/Archives/edgar/data/200406/000020040613000057/,,2
+Johnson & Johnson,JNJ,2013Q1,2013-03-31,분기말 지배지분 자본,66855000000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/200406/000020040613000057/,"StockholdersEquityIncludingPortionAttributableToNoncontrollingInterest, MinorityInterest 태그 없음",2
+Johnson & Johnson,JNJ,2013Q1,2013-03-28,분기말 종가,81.53,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/JNJ?interval=1d&events=splits (2013-03-28),,2
+Johnson & Johnson,JNJ,2013Q1,2013-04-26,분기말 상장주식수,2808886962,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/200406/000020040613000057/,dei:EntityCommonStockSharesOutstanding 클래스 합,2
+Johnson & Johnson,JNJ,2013Q1,2013-03-28,분기말 시가총액,229008554012,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/JNJ?interval=1d&events=splits (2013-03-28) ; https://www.sec.gov/Archives/edgar/data/200406/000020040613000057/,종가 81.53 × 주식수 2808886962,2
+Johnson & Johnson,JNJ,2013Q2,2013-06-30,분기별 매출액,17877000000,USD,공시,https://www.sec.gov/Archives/edgar/data/200406/000020040613000091/,,2
+Johnson & Johnson,JNJ,2013Q2,2013-06-30,분기별 영업이익,5020000000,USD,공시,https://www.sec.gov/Archives/edgar/data/200406/000020040613000091/,,2
+Johnson & Johnson,JNJ,2013Q2,2013-06-30,분기별 당기순이익(지배),3833000000,USD,공시,https://www.sec.gov/Archives/edgar/data/200406/000020040613000091/,,2
+Johnson & Johnson,JNJ,2013Q2,2013-06-30,분기별 영업활동현금흐름,5051000000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/200406/000020040613000091/ ; https://www.sec.gov/Archives/edgar/data/200406/000020040613000057/,누적 7328000000 − 직전누적 2277000000 (시작 2012-12-31),2
+Johnson & Johnson,JNJ,2013Q2,2013-06-30,분기말 자산총계,124325000000,USD,공시,https://www.sec.gov/Archives/edgar/data/200406/000020040613000091/,,2
+Johnson & Johnson,JNJ,2013Q2,2013-06-30,분기말 부채총계,54660000000,USD,공시,https://www.sec.gov/Archives/edgar/data/200406/000020040613000091/,,2
+Johnson & Johnson,JNJ,2013Q2,2013-06-30,분기말 총자본(자기자본),69665000000,USD,공시,https://www.sec.gov/Archives/edgar/data/200406/000020040613000091/,,2
+Johnson & Johnson,JNJ,2013Q2,2013-06-30,분기말 지배지분 자본,69665000000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/200406/000020040613000091/,"StockholdersEquityIncludingPortionAttributableToNoncontrollingInterest, MinorityInterest 태그 없음",2
+Johnson & Johnson,JNJ,2013Q2,2013-06-28,분기말 종가,85.86,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/JNJ?interval=1d&events=splits (2013-06-28),,2
+Johnson & Johnson,JNJ,2013Q2,2013-07-26,분기말 상장주식수,2818073863,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/200406/000020040613000091/,dei:EntityCommonStockSharesOutstanding 클래스 합,2
+Johnson & Johnson,JNJ,2013Q2,2013-06-28,분기말 시가총액,241959821877,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/JNJ?interval=1d&events=splits (2013-06-28) ; https://www.sec.gov/Archives/edgar/data/200406/000020040613000091/,종가 85.86 × 주식수 2818073863,2
+Johnson & Johnson,JNJ,2013Q3,2013-09-29,분기별 매출액,17575000000,USD,공시,https://www.sec.gov/Archives/edgar/data/200406/000020040613000112/,,2
+Johnson & Johnson,JNJ,2013Q3,2013-09-29,분기별 영업이익,3872000000,USD,공시,https://www.sec.gov/Archives/edgar/data/200406/000020040613000112/,,2
+Johnson & Johnson,JNJ,2013Q3,2013-09-29,분기별 당기순이익(지배),2982000000,USD,공시,https://www.sec.gov/Archives/edgar/data/200406/000020040613000112/,,2
+Johnson & Johnson,JNJ,2013Q3,2013-09-29,분기별 영업활동현금흐름,5947000000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/200406/000020040613000112/ ; https://www.sec.gov/Archives/edgar/data/200406/000020040613000091/,누적 13275000000 − 직전누적 7328000000 (시작 2012-12-31),2
+Johnson & Johnson,JNJ,2013Q3,2013-09-29,분기말 자산총계,126933000000,USD,공시,https://www.sec.gov/Archives/edgar/data/200406/000020040613000112/,,2
+Johnson & Johnson,JNJ,2013Q3,2013-09-29,분기말 부채총계,57129000000,USD,공시,https://www.sec.gov/Archives/edgar/data/200406/000020040613000112/,,2
+Johnson & Johnson,JNJ,2013Q3,2013-09-29,분기말 총자본(자기자본),69804000000,USD,공시,https://www.sec.gov/Archives/edgar/data/200406/000020040613000112/,,2
+Johnson & Johnson,JNJ,2013Q3,2013-09-29,분기말 지배지분 자본,69804000000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/200406/000020040613000112/,"StockholdersEquityIncludingPortionAttributableToNoncontrollingInterest, MinorityInterest 태그 없음",2
+Johnson & Johnson,JNJ,2013Q3,2013-09-27,분기말 종가,86.73,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/JNJ?interval=1d&events=splits (2013-09-27),,2
+Johnson & Johnson,JNJ,2013Q3,2013-10-25,분기말 상장주식수,2821438423,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/200406/000020040613000112/,dei:EntityCommonStockSharesOutstanding 클래스 합,2
+Johnson & Johnson,JNJ,2013Q3,2013-09-27,분기말 시가총액,244703354427,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/JNJ?interval=1d&events=splits (2013-09-27) ; https://www.sec.gov/Archives/edgar/data/200406/000020040613000112/,종가 86.73 × 주식수 2821438423,2
+Johnson & Johnson,JNJ,2013Q4,2013-12-29,분기별 매출액,미확인,USD,미확인,https://www.sec.gov/Archives/edgar/data/200406/000020040614000033/,,2
+Johnson & Johnson,JNJ,2013Q4,2013-12-29,분기별 영업이익,3038000000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/200406/000020040614000033/ ; https://www.sec.gov/Archives/edgar/data/200406/000020040613000112/,연간 16412000000 − 9개월누적 13374000000 (OperatingIncomeLoss),2
+Johnson & Johnson,JNJ,2013Q4,2013-12-29,분기별 당기순이익(지배),3519000000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/200406/000020040614000033/ ; https://www.sec.gov/Archives/edgar/data/200406/000020040613000112/,연간 13831000000 − 9개월누적 10312000000 (NetIncomeLoss),2
+Johnson & Johnson,JNJ,2013Q4,2013-12-29,분기별 영업활동현금흐름,4139000000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/200406/000020040614000033/ ; https://www.sec.gov/Archives/edgar/data/200406/000020040613000112/,누적 17414000000 − 직전누적 13275000000 (시작 2012-12-31),2
+Johnson & Johnson,JNJ,2013Q4,2013-12-29,분기말 자산총계,132683000000,USD,공시,https://www.sec.gov/Archives/edgar/data/200406/000020040614000033/,,2
+Johnson & Johnson,JNJ,2013Q4,2013-12-29,분기말 부채총계,58630000000,USD,공시,https://www.sec.gov/Archives/edgar/data/200406/000020040614000033/,,2
+Johnson & Johnson,JNJ,2013Q4,2013-12-29,분기말 총자본(자기자본),74053000000,USD,공시,https://www.sec.gov/Archives/edgar/data/200406/000020040614000033/,,2
+Johnson & Johnson,JNJ,2013Q4,2013-12-29,분기말 지배지분 자본,74053000000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/200406/000020040614000033/,"StockholdersEquityIncludingPortionAttributableToNoncontrollingInterest, MinorityInterest 태그 없음",2
+Johnson & Johnson,JNJ,2013Q4,2013-12-27,분기말 종가,92.35,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/JNJ?interval=1d&events=splits (2013-12-27),,2
+Johnson & Johnson,JNJ,2013Q4,2014-02-18,분기말 상장주식수,2828901694,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/200406/000020040614000033/,dei:EntityCommonStockSharesOutstanding 클래스 합,2
+Johnson & Johnson,JNJ,2013Q4,2013-12-27,분기말 시가총액,261249071441,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/JNJ?interval=1d&events=splits (2013-12-27) ; https://www.sec.gov/Archives/edgar/data/200406/000020040614000033/,종가 92.35 × 주식수 2828901694,2
+Johnson & Johnson,JNJ,2014Q1,2014-03-30,분기별 매출액,18115000000,USD,공시,https://www.sec.gov/Archives/edgar/data/200406/000020040614000047/,,2
+Johnson & Johnson,JNJ,2014Q1,2014-03-30,분기별 영업이익,5651000000,USD,공시,https://www.sec.gov/Archives/edgar/data/200406/000020040614000047/,,2
+Johnson & Johnson,JNJ,2014Q1,2014-03-30,분기별 당기순이익(지배),4727000000,USD,공시,https://www.sec.gov/Archives/edgar/data/200406/000020040614000047/,,2
+Johnson & Johnson,JNJ,2014Q1,2014-03-30,분기별 영업활동현금흐름,3923000000,USD,공시,https://www.sec.gov/Archives/edgar/data/200406/000020040614000047/,,2
+Johnson & Johnson,JNJ,2014Q1,2014-03-30,분기말 자산총계,133330000000,USD,공시,https://www.sec.gov/Archives/edgar/data/200406/000020040614000047/,,2
+Johnson & Johnson,JNJ,2014Q1,2014-03-30,분기말 부채총계,56748000000,USD,공시,https://www.sec.gov/Archives/edgar/data/200406/000020040614000047/,,2
+Johnson & Johnson,JNJ,2014Q1,2014-03-30,분기말 총자본(자기자본),76582000000,USD,공시,https://www.sec.gov/Archives/edgar/data/200406/000020040614000047/,,2
+Johnson & Johnson,JNJ,2014Q1,2014-03-30,분기말 지배지분 자본,76582000000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/200406/000020040614000047/,"StockholdersEquityIncludingPortionAttributableToNoncontrollingInterest, MinorityInterest 태그 없음",2
+Johnson & Johnson,JNJ,2014Q1,2014-03-28,분기말 종가,97.44,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/JNJ?interval=1d&events=splits (2014-03-28),,2
+Johnson & Johnson,JNJ,2014Q1,2014-04-25,분기말 상장주식수,2829099753,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/200406/000020040614000047/,dei:EntityCommonStockSharesOutstanding 클래스 합,2
+Johnson & Johnson,JNJ,2014Q1,2014-03-28,분기말 시가총액,275667479932,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/JNJ?interval=1d&events=splits (2014-03-28) ; https://www.sec.gov/Archives/edgar/data/200406/000020040614000047/,종가 97.44 × 주식수 2829099753,2
+Johnson & Johnson,JNJ,2014Q2,2014-06-29,분기별 매출액,19495000000,USD,공시,https://www.sec.gov/Archives/edgar/data/200406/000020040614000089/,,2
+Johnson & Johnson,JNJ,2014Q2,2014-06-29,분기별 영업이익,5875000000,USD,공시,https://www.sec.gov/Archives/edgar/data/200406/000020040614000089/,,2
+Johnson & Johnson,JNJ,2014Q2,2014-06-29,분기별 당기순이익(지배),4326000000,USD,공시,https://www.sec.gov/Archives/edgar/data/200406/000020040614000089/,,2
+Johnson & Johnson,JNJ,2014Q2,2014-06-29,분기별 영업활동현금흐름,5529000000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/200406/000020040614000089/ ; https://www.sec.gov/Archives/edgar/data/200406/000020040614000047/,누적 9452000000 − 직전누적 3923000000 (시작 2013-12-30),2
+Johnson & Johnson,JNJ,2014Q2,2014-06-29,분기말 자산총계,135200000000,USD,공시,https://www.sec.gov/Archives/edgar/data/200406/000020040614000089/,,2
+Johnson & Johnson,JNJ,2014Q2,2014-06-29,분기말 부채총계,57152000000,USD,공시,https://www.sec.gov/Archives/edgar/data/200406/000020040614000089/,,2
+Johnson & Johnson,JNJ,2014Q2,2014-06-29,분기말 총자본(자기자본),78048000000,USD,공시,https://www.sec.gov/Archives/edgar/data/200406/000020040614000089/,,2
+Johnson & Johnson,JNJ,2014Q2,2014-06-29,분기말 지배지분 자본,78048000000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/200406/000020040614000089/,"StockholdersEquityIncludingPortionAttributableToNoncontrollingInterest, MinorityInterest 태그 없음",2
+Johnson & Johnson,JNJ,2014Q2,2014-06-27,분기말 종가,104.99,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/JNJ?interval=1d&events=splits (2014-06-27),,2
+Johnson & Johnson,JNJ,2014Q2,2014-07-25,분기말 상장주식수,2820287326,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/200406/000020040614000089/,dei:EntityCommonStockSharesOutstanding 클래스 합,2
+Johnson & Johnson,JNJ,2014Q2,2014-06-27,분기말 시가총액,296101966357,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/JNJ?interval=1d&events=splits (2014-06-27) ; https://www.sec.gov/Archives/edgar/data/200406/000020040614000089/,종가 104.99 × 주식수 2820287326,2
+Johnson & Johnson,JNJ,2014Q3,2014-09-28,분기별 매출액,18467000000,USD,공시,https://www.sec.gov/Archives/edgar/data/200406/000020040614000097/,,2
+Johnson & Johnson,JNJ,2014Q3,2014-09-28,분기별 영업이익,7053000000,USD,공시,https://www.sec.gov/Archives/edgar/data/200406/000020040614000097/,,2
+Johnson & Johnson,JNJ,2014Q3,2014-09-28,분기별 당기순이익(지배),4749000000,USD,공시,https://www.sec.gov/Archives/edgar/data/200406/000020040614000097/,,2
+Johnson & Johnson,JNJ,2014Q3,2014-09-28,분기별 영업활동현금흐름,4654000000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/200406/000020040614000097/ ; https://www.sec.gov/Archives/edgar/data/200406/000020040614000089/,누적 14106000000 − 직전누적 9452000000 (시작 2013-12-30),2
+Johnson & Johnson,JNJ,2014Q3,2014-09-28,분기말 자산총계,132097000000,USD,공시,https://www.sec.gov/Archives/edgar/data/200406/000020040614000097/,,2
+Johnson & Johnson,JNJ,2014Q3,2014-09-28,분기말 부채총계,55506000000,USD,공시,https://www.sec.gov/Archives/edgar/data/200406/000020040614000097/,,2
+Johnson & Johnson,JNJ,2014Q3,2014-09-28,분기말 총자본(자기자본),76591000000,USD,공시,https://www.sec.gov/Archives/edgar/data/200406/000020040614000097/,,2
+Johnson & Johnson,JNJ,2014Q3,2014-09-28,분기말 지배지분 자본,76591000000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/200406/000020040614000097/,"StockholdersEquityIncludingPortionAttributableToNoncontrollingInterest, MinorityInterest 태그 없음",2
+Johnson & Johnson,JNJ,2014Q3,2014-09-26,분기말 종가,107.1,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/JNJ?interval=1d&events=splits (2014-09-26),,2
+Johnson & Johnson,JNJ,2014Q3,2014-10-24,분기말 상장주식수,2799110362,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/200406/000020040614000097/,dei:EntityCommonStockSharesOutstanding 클래스 합,2
+Johnson & Johnson,JNJ,2014Q3,2014-09-26,분기말 시가총액,299784719770,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/JNJ?interval=1d&events=splits (2014-09-26) ; https://www.sec.gov/Archives/edgar/data/200406/000020040614000097/,종가 107.1 × 주식수 2799110362,2
+Johnson & Johnson,JNJ,2014Q4,2014-12-28,분기별 매출액,미확인,USD,미확인,https://www.sec.gov/Archives/edgar/data/200406/000020040615000004/,,2
+Johnson & Johnson,JNJ,2014Q4,2014-12-28,분기별 영업이익,3012000000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/200406/000020040615000004/ ; https://www.sec.gov/Archives/edgar/data/200406/000020040614000097/,연간 21590000000 − 9개월누적 18578000000 (OperatingIncomeLoss),2
+Johnson & Johnson,JNJ,2014Q4,2014-12-28,분기별 당기순이익(지배),2521000000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/200406/000020040615000004/ ; https://www.sec.gov/Archives/edgar/data/200406/000020040614000097/,연간 16323000000 − 9개월누적 13802000000 (NetIncomeLoss),2
+Johnson & Johnson,JNJ,2014Q4,2014-12-28,분기별 영업활동현금흐름,4604000000,USD,계산(누적차감)(재작성 반영),https://www.sec.gov/Archives/edgar/data/200406/000020040617000006/ ; https://www.sec.gov/Archives/edgar/data/200406/000020040614000097/,누적 18710000000 − 직전누적 14106000000 (시작 2013-12-30) ; 원 공시 4365000000 (https://www.sec.gov/Archives/edgar/data/200406/000020040615000004/ ; https://www.sec.gov/Archives/edgar/data/200406/000020040614000097/),2
+Johnson & Johnson,JNJ,2014Q4,2014-12-28,분기말 자산총계,130358000000,USD,공시(재작성 반영),https://www.sec.gov/Archives/edgar/data/200406/000020040616000071/,원 공시 131119000000 (https://www.sec.gov/Archives/edgar/data/200406/000020040615000004/),2
+Johnson & Johnson,JNJ,2014Q4,2014-12-28,분기말 부채총계,60606000000,USD,공시(재작성 반영),https://www.sec.gov/Archives/edgar/data/200406/000020040616000071/,원 공시 61367000000 (https://www.sec.gov/Archives/edgar/data/200406/000020040615000004/),2
+Johnson & Johnson,JNJ,2014Q4,2014-12-28,분기말 총자본(자기자본),69752000000,USD,공시,https://www.sec.gov/Archives/edgar/data/200406/000020040615000004/,,2
+Johnson & Johnson,JNJ,2014Q4,2014-12-28,분기말 지배지분 자본,69752000000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/200406/000020040615000004/,"StockholdersEquityIncludingPortionAttributableToNoncontrollingInterest, MinorityInterest 태그 없음",2
+Johnson & Johnson,JNJ,2014Q4,2014-12-26,분기말 종가,105.06,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/JNJ?interval=1d&events=splits (2014-12-26),,2
+Johnson & Johnson,JNJ,2014Q4,2015-02-17,분기말 상장주식수,2780488708,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/200406/000020040615000004/,dei:EntityCommonStockSharesOutstanding 클래스 합,2
+Johnson & Johnson,JNJ,2014Q4,2014-12-26,분기말 시가총액,292118143662,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/JNJ?interval=1d&events=splits (2014-12-26) ; https://www.sec.gov/Archives/edgar/data/200406/000020040615000004/,종가 105.06 × 주식수 2780488708,2
+Johnson & Johnson,JNJ,2015Q1,2015-03-29,분기별 매출액,미확인,USD,미확인,https://www.sec.gov/Archives/edgar/data/200406/000020040615000019/,,2
+Johnson & Johnson,JNJ,2015Q1,2015-03-29,분기별 영업이익,5827000000,USD,공시,https://www.sec.gov/Archives/edgar/data/200406/000020040615000019/,,2
+Johnson & Johnson,JNJ,2015Q1,2015-03-29,분기별 당기순이익(지배),4320000000,USD,공시,https://www.sec.gov/Archives/edgar/data/200406/000020040615000019/,,2
+Johnson & Johnson,JNJ,2015Q1,2015-03-29,분기별 영업활동현금흐름,2872000000,USD,공시,https://www.sec.gov/Archives/edgar/data/200406/000020040615000019/,,2
+Johnson & Johnson,JNJ,2015Q1,2015-03-29,분기말 자산총계,128590000000,USD,공시,https://www.sec.gov/Archives/edgar/data/200406/000020040615000019/,,2
+Johnson & Johnson,JNJ,2015Q1,2015-03-29,분기말 부채총계,60712000000,USD,공시,https://www.sec.gov/Archives/edgar/data/200406/000020040615000019/,,2
+Johnson & Johnson,JNJ,2015Q1,2015-03-29,분기말 총자본(자기자본),67878000000,USD,공시,https://www.sec.gov/Archives/edgar/data/200406/000020040615000019/,,2
+Johnson & Johnson,JNJ,2015Q1,2015-03-29,분기말 지배지분 자본,67878000000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/200406/000020040615000019/,"StockholdersEquityIncludingPortionAttributableToNoncontrollingInterest, MinorityInterest 태그 없음",2
+Johnson & Johnson,JNJ,2015Q1,2015-03-27,분기말 종가,100.34,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/JNJ?interval=1d&events=splits (2015-03-27),,2
+Johnson & Johnson,JNJ,2015Q1,2015-04-24,분기말 상장주식수,2773045351,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/200406/000020040615000019/,dei:EntityCommonStockSharesOutstanding 클래스 합,2
+Johnson & Johnson,JNJ,2015Q1,2015-03-27,분기말 시가총액,278247370519,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/JNJ?interval=1d&events=splits (2015-03-27) ; https://www.sec.gov/Archives/edgar/data/200406/000020040615000019/,종가 100.34 × 주식수 2773045351,2
+Johnson & Johnson,JNJ,2015Q2,2015-06-28,분기별 매출액,미확인,USD,미확인,https://www.sec.gov/Archives/edgar/data/200406/000020040615000044/,,2
+Johnson & Johnson,JNJ,2015Q2,2015-06-28,분기별 영업이익,미확인,USD,미확인,SEC companyfacts CIK0000200406: 해당 보고서에 OperatingIncomeLoss 태그 없음(영업이익 미공시) ; https://www.sec.gov/Archives/edgar/data/200406/000020040615000044/,,2
+Johnson & Johnson,JNJ,2015Q2,2015-06-28,분기별 당기순이익(지배),4516000000,USD,공시,https://www.sec.gov/Archives/edgar/data/200406/000020040615000044/,,2
+Johnson & Johnson,JNJ,2015Q2,2015-06-28,분기별 영업활동현금흐름,5472000000,USD,계산(누적차감)(재작성 반영),https://www.sec.gov/Archives/edgar/data/200406/000020040616000105/ ; https://www.sec.gov/Archives/edgar/data/200406/000020040615000019/,누적 8344000000 − 직전누적 2872000000 (시작 2014-12-29) ; 원 공시 5200000000 (https://www.sec.gov/Archives/edgar/data/200406/000020040615000044/ ; https://www.sec.gov/Archives/edgar/data/200406/000020040615000019/),2
+Johnson & Johnson,JNJ,2015Q2,2015-06-28,분기말 자산총계,132036000000,USD,공시,https://www.sec.gov/Archives/edgar/data/200406/000020040615000044/,,2
+Johnson & Johnson,JNJ,2015Q2,2015-06-28,분기말 부채총계,60905000000,USD,공시,https://www.sec.gov/Archives/edgar/data/200406/000020040615000044/,,2
+Johnson & Johnson,JNJ,2015Q2,2015-06-28,분기말 총자본(자기자본),71131000000,USD,공시,https://www.sec.gov/Archives/edgar/data/200406/000020040615000044/,,2
+Johnson & Johnson,JNJ,2015Q2,2015-06-28,분기말 지배지분 자본,71131000000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/200406/000020040615000044/,"StockholdersEquityIncludingPortionAttributableToNoncontrollingInterest, MinorityInterest 태그 없음",2
+Johnson & Johnson,JNJ,2015Q2,2015-06-26,분기말 종가,99.64,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/JNJ?interval=1d&events=splits (2015-06-26),,2
+Johnson & Johnson,JNJ,2015Q2,2015-07-24,분기말 상장주식수,2769106237,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/200406/000020040615000044/,dei:EntityCommonStockSharesOutstanding 클래스 합,2
+Johnson & Johnson,JNJ,2015Q2,2015-06-26,분기말 시가총액,275913745455,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/JNJ?interval=1d&events=splits (2015-06-26) ; https://www.sec.gov/Archives/edgar/data/200406/000020040615000044/,종가 99.64 × 주식수 2769106237,2
+Johnson & Johnson,JNJ,2015Q3,2015-09-27,분기별 매출액,미확인,USD,미확인,https://www.sec.gov/Archives/edgar/data/200406/000020040615000060/,,2
+Johnson & Johnson,JNJ,2015Q3,2015-09-27,분기별 영업이익,미확인,USD,미확인,SEC companyfacts CIK0000200406: 해당 보고서에 OperatingIncomeLoss 태그 없음(영업이익 미공시) ; https://www.sec.gov/Archives/edgar/data/200406/000020040615000060/,,2
+Johnson & Johnson,JNJ,2015Q3,2015-09-27,분기별 당기순이익(지배),3358000000,USD,공시,https://www.sec.gov/Archives/edgar/data/200406/000020040615000060/,,2
+Johnson & Johnson,JNJ,2015Q3,2015-09-27,분기별 영업활동현금흐름,6140000000,USD,계산(누적차감)(재작성 반영),https://www.sec.gov/Archives/edgar/data/200406/000020040616000112/ ; https://www.sec.gov/Archives/edgar/data/200406/000020040616000105/,누적 14484000000 − 직전누적 8344000000 (시작 2014-12-29) ; 원 공시 6125000000 (https://www.sec.gov/Archives/edgar/data/200406/000020040615000060/ ; https://www.sec.gov/Archives/edgar/data/200406/000020040615000044/),2
+Johnson & Johnson,JNJ,2015Q3,2015-09-27,분기말 자산총계,133266000000,USD,공시,https://www.sec.gov/Archives/edgar/data/200406/000020040615000060/,,2
+Johnson & Johnson,JNJ,2015Q3,2015-09-27,분기말 부채총계,61712000000,USD,공시,https://www.sec.gov/Archives/edgar/data/200406/000020040615000060/,,2
+Johnson & Johnson,JNJ,2015Q3,2015-09-27,분기말 총자본(자기자본),71554000000,USD,공시,https://www.sec.gov/Archives/edgar/data/200406/000020040615000060/,,2
+Johnson & Johnson,JNJ,2015Q3,2015-09-27,분기말 지배지분 자본,71554000000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/200406/000020040615000060/,"StockholdersEquityIncludingPortionAttributableToNoncontrollingInterest, MinorityInterest 태그 없음",2
+Johnson & Johnson,JNJ,2015Q3,2015-09-25,분기말 종가,91.0,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/JNJ?interval=1d&events=splits (2015-09-25),,2
+Johnson & Johnson,JNJ,2015Q3,2015-10-23,분기말 상장주식수,2766943629,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/200406/000020040615000060/,dei:EntityCommonStockSharesOutstanding 클래스 합,2
+Johnson & Johnson,JNJ,2015Q3,2015-09-25,분기말 시가총액,251791870239,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/JNJ?interval=1d&events=splits (2015-09-25) ; https://www.sec.gov/Archives/edgar/data/200406/000020040615000060/,종가 91.0 × 주식수 2766943629,2
+Johnson & Johnson,JNJ,2015Q4,2016-01-03,분기별 매출액,미확인,USD,미확인,https://www.sec.gov/Archives/edgar/data/200406/000020040616000071/,,2
+Johnson & Johnson,JNJ,2015Q4,2016-01-03,분기별 영업이익,미확인,USD,미확인,SEC companyfacts CIK0000200406: 해당 보고서에 OperatingIncomeLoss 태그 없음(영업이익 미공시) ; https://www.sec.gov/Archives/edgar/data/200406/000020040616000071/,,2
+Johnson & Johnson,JNJ,2015Q4,2016-01-03,분기별 당기순이익(지배),3215000000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/200406/000020040616000071/ ; https://www.sec.gov/Archives/edgar/data/200406/000020040615000060/,연간 15409000000 − 9개월누적 12194000000 (NetIncomeLoss),2
+Johnson & Johnson,JNJ,2015Q4,2016-01-03,분기별 영업활동현금흐름,5085000000,USD,계산(누적차감)(재작성 반영),https://www.sec.gov/Archives/edgar/data/200406/000020040618000005/ ; https://www.sec.gov/Archives/edgar/data/200406/000020040616000112/,누적 19569000000 − 직전누적 14484000000 (시작 2014-12-29) ; 원 공시 5082000000 (https://www.sec.gov/Archives/edgar/data/200406/000020040616000071/ ; https://www.sec.gov/Archives/edgar/data/200406/000020040615000060/),2
+Johnson & Johnson,JNJ,2015Q4,2016-01-03,분기말 자산총계,133411000000,USD,공시,https://www.sec.gov/Archives/edgar/data/200406/000020040616000071/,,2
+Johnson & Johnson,JNJ,2015Q4,2016-01-03,분기말 부채총계,62261000000,USD,공시,https://www.sec.gov/Archives/edgar/data/200406/000020040616000071/,,2
+Johnson & Johnson,JNJ,2015Q4,2016-01-03,분기말 총자본(자기자본),71150000000,USD,공시,https://www.sec.gov/Archives/edgar/data/200406/000020040616000071/,,2
+Johnson & Johnson,JNJ,2015Q4,2016-01-03,분기말 지배지분 자본,71150000000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/200406/000020040616000071/,"StockholdersEquityIncludingPortionAttributableToNoncontrollingInterest, MinorityInterest 태그 없음",2
+Johnson & Johnson,JNJ,2015Q4,2015-12-31,분기말 종가,102.72,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/JNJ?interval=1d&events=splits (2015-12-31),,2
+Johnson & Johnson,JNJ,2015Q4,2016-02-19,분기말 상장주식수,2759359192,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/200406/000020040616000071/,dei:EntityCommonStockSharesOutstanding 클래스 합,2
+Johnson & Johnson,JNJ,2015Q4,2015-12-31,분기말 시가총액,283441376202,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/JNJ?interval=1d&events=splits (2015-12-31) ; https://www.sec.gov/Archives/edgar/data/200406/000020040616000071/,종가 102.72 × 주식수 2759359192,2
+Johnson & Johnson,JNJ,2016Q1,2016-04-03,분기별 매출액,미확인,USD,미확인,https://www.sec.gov/Archives/edgar/data/200406/000020040616000084/,,2
+Johnson & Johnson,JNJ,2016Q1,2016-04-03,분기별 영업이익,미확인,USD,미확인,SEC companyfacts CIK0000200406: 해당 보고서에 OperatingIncomeLoss 태그 없음(영업이익 미공시) ; https://www.sec.gov/Archives/edgar/data/200406/000020040616000084/,,2
+Johnson & Johnson,JNJ,2016Q1,2016-04-03,분기별 당기순이익(지배),4457000000,USD,공시(재작성 반영),https://www.sec.gov/Archives/edgar/data/200406/000020040618000005/,원 공시 4292000000 (https://www.sec.gov/Archives/edgar/data/200406/000020040616000084/),2
+Johnson & Johnson,JNJ,2016Q1,2016-04-03,분기별 영업활동현금흐름,2189000000,USD,공시(재작성 반영),https://www.sec.gov/Archives/edgar/data/200406/000020040617000024/,원 공시 1763000000 (https://www.sec.gov/Archives/edgar/data/200406/000020040616000084/),2
+Johnson & Johnson,JNJ,2016Q1,2016-04-03,분기말 자산총계,136231000000,USD,공시,https://www.sec.gov/Archives/edgar/data/200406/000020040616000084/,,2
+Johnson & Johnson,JNJ,2016Q1,2016-04-03,분기말 부채총계,63584000000,USD,공시,https://www.sec.gov/Archives/edgar/data/200406/000020040616000084/,,2
+Johnson & Johnson,JNJ,2016Q1,2016-04-03,분기말 총자본(자기자본),72647000000,USD,공시,https://www.sec.gov/Archives/edgar/data/200406/000020040616000084/,,2
+Johnson & Johnson,JNJ,2016Q1,2016-04-03,분기말 지배지분 자본,72647000000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/200406/000020040616000084/,"StockholdersEquityIncludingPortionAttributableToNoncontrollingInterest, MinorityInterest 태그 없음",2
+Johnson & Johnson,JNJ,2016Q1,2016-04-01,분기말 종가,109.19,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/JNJ?interval=1d&events=splits (2016-04-01),,2
+Johnson & Johnson,JNJ,2016Q1,2016-04-29,분기말 상장주식수,2750644288,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/200406/000020040616000084/,dei:EntityCommonStockSharesOutstanding 클래스 합,2
+Johnson & Johnson,JNJ,2016Q1,2016-04-01,분기말 시가총액,300342849807,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/JNJ?interval=1d&events=splits (2016-04-01) ; https://www.sec.gov/Archives/edgar/data/200406/000020040616000084/,종가 109.19 × 주식수 2750644288,2
+Johnson & Johnson,JNJ,2016Q2,2016-07-03,분기별 매출액,미확인,USD,미확인,https://www.sec.gov/Archives/edgar/data/200406/000020040616000105/,,2
+Johnson & Johnson,JNJ,2016Q2,2016-07-03,분기별 영업이익,미확인,USD,미확인,SEC companyfacts CIK0000200406: 해당 보고서에 OperatingIncomeLoss 태그 없음(영업이익 미공시) ; https://www.sec.gov/Archives/edgar/data/200406/000020040616000105/,,2
+Johnson & Johnson,JNJ,2016Q2,2016-07-03,분기별 당기순이익(지배),3997000000,USD,공시,https://www.sec.gov/Archives/edgar/data/200406/000020040616000105/,,2
+Johnson & Johnson,JNJ,2016Q2,2016-07-03,분기별 영업활동현금흐름,4564000000,USD,계산(누적차감)(재작성 반영),https://www.sec.gov/Archives/edgar/data/200406/000020040616000105/ ; https://www.sec.gov/Archives/edgar/data/200406/000020040617000024/,누적 6753000000 − 직전누적 2189000000 (시작 2016-01-04) ; 원 공시 4990000000 (https://www.sec.gov/Archives/edgar/data/200406/000020040616000105/ ; https://www.sec.gov/Archives/edgar/data/200406/000020040616000084/),2
+Johnson & Johnson,JNJ,2016Q2,2016-07-03,분기말 자산총계,139814000000,USD,공시,https://www.sec.gov/Archives/edgar/data/200406/000020040616000105/,,2
+Johnson & Johnson,JNJ,2016Q2,2016-07-03,분기말 부채총계,67341000000,USD,공시,https://www.sec.gov/Archives/edgar/data/200406/000020040616000105/,,2
+Johnson & Johnson,JNJ,2016Q2,2016-07-03,분기말 총자본(자기자본),72473000000,USD,공시,https://www.sec.gov/Archives/edgar/data/200406/000020040616000105/,,2
+Johnson & Johnson,JNJ,2016Q2,2016-07-03,분기말 지배지분 자본,72473000000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/200406/000020040616000105/,"StockholdersEquityIncludingPortionAttributableToNoncontrollingInterest, MinorityInterest 태그 없음",2
+Johnson & Johnson,JNJ,2016Q2,2016-07-01,분기말 종가,121.29,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/JNJ?interval=1d&events=splits (2016-07-01),,2
+Johnson & Johnson,JNJ,2016Q2,2016-07-29,분기말 상장주식수,2735876843,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/200406/000020040616000105/,dei:EntityCommonStockSharesOutstanding 클래스 합,2
+Johnson & Johnson,JNJ,2016Q2,2016-07-01,분기말 시가총액,331834502287,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/JNJ?interval=1d&events=splits (2016-07-01) ; https://www.sec.gov/Archives/edgar/data/200406/000020040616000105/,종가 121.29 × 주식수 2735876843,2
+Johnson & Johnson,JNJ,2016Q3,2016-10-02,분기별 매출액,미확인,USD,미확인,https://www.sec.gov/Archives/edgar/data/200406/000020040616000112/,,2
+Johnson & Johnson,JNJ,2016Q3,2016-10-02,분기별 영업이익,미확인,USD,미확인,SEC companyfacts CIK0000200406: 해당 보고서에 OperatingIncomeLoss 태그 없음(영업이익 미공시) ; https://www.sec.gov/Archives/edgar/data/200406/000020040616000112/,,2
+Johnson & Johnson,JNJ,2016Q3,2016-10-02,분기별 당기순이익(지배),4272000000,USD,공시,https://www.sec.gov/Archives/edgar/data/200406/000020040616000112/,,2
+Johnson & Johnson,JNJ,2016Q3,2016-10-02,분기별 영업활동현금흐름,5361000000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/200406/000020040616000112/ ; https://www.sec.gov/Archives/edgar/data/200406/000020040616000105/,누적 12114000000 − 직전누적 6753000000 (시작 2016-01-04),2
+Johnson & Johnson,JNJ,2016Q3,2016-10-02,분기말 자산총계,140369000000,USD,공시,https://www.sec.gov/Archives/edgar/data/200406/000020040616000112/,,2
+Johnson & Johnson,JNJ,2016Q3,2016-10-02,분기말 부채총계,67600000000,USD,공시,https://www.sec.gov/Archives/edgar/data/200406/000020040616000112/,,2
+Johnson & Johnson,JNJ,2016Q3,2016-10-02,분기말 총자본(자기자본),72769000000,USD,공시,https://www.sec.gov/Archives/edgar/data/200406/000020040616000112/,,2
+Johnson & Johnson,JNJ,2016Q3,2016-10-02,분기말 지배지분 자본,72769000000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/200406/000020040616000112/,"StockholdersEquityIncludingPortionAttributableToNoncontrollingInterest, MinorityInterest 태그 없음",2
+Johnson & Johnson,JNJ,2016Q3,2016-09-30,분기말 종가,118.13,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/JNJ?interval=1d&events=splits (2016-09-30),,2
+Johnson & Johnson,JNJ,2016Q3,2016-10-28,분기말 상장주식수,2720531728,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/200406/000020040616000112/,dei:EntityCommonStockSharesOutstanding 클래스 합,2
+Johnson & Johnson,JNJ,2016Q3,2016-09-30,분기말 시가총액,321376413029,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/JNJ?interval=1d&events=splits (2016-09-30) ; https://www.sec.gov/Archives/edgar/data/200406/000020040616000112/,종가 118.13 × 주식수 2720531728,2
+Johnson & Johnson,JNJ,2016Q4,2017-01-01,분기별 매출액,미확인,USD,미확인,https://www.sec.gov/Archives/edgar/data/200406/000020040617000006/,,2
+Johnson & Johnson,JNJ,2016Q4,2017-01-01,분기별 영업이익,미확인,USD,미확인,SEC companyfacts CIK0000200406: 해당 보고서에 OperatingIncomeLoss 태그 없음(영업이익 미공시) ; https://www.sec.gov/Archives/edgar/data/200406/000020040617000006/,,2
+Johnson & Johnson,JNJ,2016Q4,2017-01-01,분기별 당기순이익(지배),3814000000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/200406/000020040617000006/ ; https://www.sec.gov/Archives/edgar/data/200406/000020040616000112/,연간 16540000000 − 9개월누적 12726000000 (NetIncomeLoss),2
+Johnson & Johnson,JNJ,2016Q4,2017-01-01,분기별 영업활동현금흐름,6653000000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/200406/000020040617000006/ ; https://www.sec.gov/Archives/edgar/data/200406/000020040616000112/,누적 18767000000 − 직전누적 12114000000 (시작 2016-01-04),2
+Johnson & Johnson,JNJ,2016Q4,2017-01-01,분기말 자산총계,141208000000,USD,공시,https://www.sec.gov/Archives/edgar/data/200406/000020040617000006/,,2
+Johnson & Johnson,JNJ,2016Q4,2017-01-01,분기말 부채총계,70790000000,USD,공시,https://www.sec.gov/Archives/edgar/data/200406/000020040617000006/,,2
+Johnson & Johnson,JNJ,2016Q4,2017-01-01,분기말 총자본(자기자본),70418000000,USD,공시,https://www.sec.gov/Archives/edgar/data/200406/000020040617000006/,,2
+Johnson & Johnson,JNJ,2016Q4,2017-01-01,분기말 지배지분 자본,70418000000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/200406/000020040617000006/,"StockholdersEquityIncludingPortionAttributableToNoncontrollingInterest, MinorityInterest 태그 없음",2
+Johnson & Johnson,JNJ,2016Q4,2016-12-30,분기말 종가,115.21,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/JNJ?interval=1d&events=splits (2016-12-30),,2
+Johnson & Johnson,JNJ,2016Q4,2017-02-23,분기말 상장주식수,2713346602,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/200406/000020040617000006/,dei:EntityCommonStockSharesOutstanding 클래스 합,2
+Johnson & Johnson,JNJ,2016Q4,2016-12-30,분기말 시가총액,312604662016,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/JNJ?interval=1d&events=splits (2016-12-30) ; https://www.sec.gov/Archives/edgar/data/200406/000020040617000006/,종가 115.21 × 주식수 2713346602,2
+Johnson & Johnson,JNJ,2017Q1,2017-04-02,분기별 매출액,17766000000,USD,공시(후속 보고서 비교기간),https://www.sec.gov/Archives/edgar/data/200406/000020040619000009/,RevenueFromContractWithCustomerExcludingAssessedTax ; 그 분기 보고서에 연결 총계가 없어 2019-02-20 제출본의 비교기간에서 읽었다,2
+Johnson & Johnson,JNJ,2017Q1,2017-04-02,분기별 영업이익,미확인,USD,미확인,SEC companyfacts CIK0000200406: 해당 보고서에 OperatingIncomeLoss 태그 없음(영업이익 미공시) ; https://www.sec.gov/Archives/edgar/data/200406/000020040617000024/,,2
+Johnson & Johnson,JNJ,2017Q1,2017-04-02,분기별 당기순이익(지배),4422000000,USD,공시,https://www.sec.gov/Archives/edgar/data/200406/000020040617000024/,,2
+Johnson & Johnson,JNJ,2017Q1,2017-04-02,분기별 영업활동현금흐름,2913000000,USD,공시,https://www.sec.gov/Archives/edgar/data/200406/000020040617000024/,,2
+Johnson & Johnson,JNJ,2017Q1,2017-04-02,분기말 자산총계,144918000000,USD,공시,https://www.sec.gov/Archives/edgar/data/200406/000020040617000024/,,2
+Johnson & Johnson,JNJ,2017Q1,2017-04-02,분기말 부채총계,74577000000,USD,공시,https://www.sec.gov/Archives/edgar/data/200406/000020040617000024/,,2
+Johnson & Johnson,JNJ,2017Q1,2017-04-02,분기말 총자본(자기자본),70341000000,USD,공시,https://www.sec.gov/Archives/edgar/data/200406/000020040617000024/,,2
+Johnson & Johnson,JNJ,2017Q1,2017-04-02,분기말 지배지분 자본,70341000000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/200406/000020040617000024/,"StockholdersEquityIncludingPortionAttributableToNoncontrollingInterest, MinorityInterest 태그 없음",2
+Johnson & Johnson,JNJ,2017Q1,2017-03-31,분기말 종가,124.55,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/JNJ?interval=1d&events=splits (2017-03-31),,2
+Johnson & Johnson,JNJ,2017Q1,2017-04-28,분기말 상장주식수,2693833081,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/200406/000020040617000024/,dei:EntityCommonStockSharesOutstanding 클래스 합,2
+Johnson & Johnson,JNJ,2017Q1,2017-03-31,분기말 시가총액,335516910239,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/JNJ?interval=1d&events=splits (2017-03-31) ; https://www.sec.gov/Archives/edgar/data/200406/000020040617000024/,종가 124.55 × 주식수 2693833081,2
+Johnson & Johnson,JNJ,2017Q2,2017-07-02,분기별 매출액,18839000000,USD,공시(후속 보고서 비교기간),https://www.sec.gov/Archives/edgar/data/200406/000020040619000009/,RevenueFromContractWithCustomerExcludingAssessedTax ; 그 분기 보고서에 연결 총계가 없어 2019-02-20 제출본의 비교기간에서 읽었다,2
+Johnson & Johnson,JNJ,2017Q2,2017-07-02,분기별 영업이익,미확인,USD,미확인,SEC companyfacts CIK0000200406: 해당 보고서에 OperatingIncomeLoss 태그 없음(영업이익 미공시) ; https://www.sec.gov/Archives/edgar/data/200406/000020040617000042/,,2
+Johnson & Johnson,JNJ,2017Q2,2017-07-02,분기별 당기순이익(지배),3827000000,USD,공시,https://www.sec.gov/Archives/edgar/data/200406/000020040617000042/,,2
+Johnson & Johnson,JNJ,2017Q2,2017-07-02,분기별 영업활동현금흐름,5772000000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/200406/000020040617000042/ ; https://www.sec.gov/Archives/edgar/data/200406/000020040617000024/,누적 8685000000 − 직전누적 2913000000 (시작 2017-01-02),2
+Johnson & Johnson,JNJ,2017Q2,2017-07-02,분기말 자산총계,152807000000,USD,공시,https://www.sec.gov/Archives/edgar/data/200406/000020040617000042/,,2
+Johnson & Johnson,JNJ,2017Q2,2017-07-02,분기말 부채총계,80885000000,USD,공시,https://www.sec.gov/Archives/edgar/data/200406/000020040617000042/,,2
+Johnson & Johnson,JNJ,2017Q2,2017-07-02,분기말 총자본(자기자본),71922000000,USD,공시,https://www.sec.gov/Archives/edgar/data/200406/000020040617000042/,,2
+Johnson & Johnson,JNJ,2017Q2,2017-07-02,분기말 지배지분 자본,71922000000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/200406/000020040617000042/,"StockholdersEquityIncludingPortionAttributableToNoncontrollingInterest, MinorityInterest 태그 없음",2
+Johnson & Johnson,JNJ,2017Q2,2017-06-30,분기말 종가,132.29,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/JNJ?interval=1d&events=splits (2017-06-30),,2
+Johnson & Johnson,JNJ,2017Q2,2017-07-28,분기말 상장주식수,2683999728,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/200406/000020040617000042/,dei:EntityCommonStockSharesOutstanding 클래스 합,2
+Johnson & Johnson,JNJ,2017Q2,2017-06-30,분기말 시가총액,355066324017,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/JNJ?interval=1d&events=splits (2017-06-30) ; https://www.sec.gov/Archives/edgar/data/200406/000020040617000042/,종가 132.29 × 주식수 2683999728,2
+Johnson & Johnson,JNJ,2017Q3,2017-10-01,분기별 매출액,19650000000,USD,공시(후속 보고서 비교기간),https://www.sec.gov/Archives/edgar/data/200406/000020040618000055/,RevenueFromContractWithCustomerExcludingAssessedTax ; 그 분기 보고서에 연결 총계가 없어 2018-10-31 제출본의 비교기간에서 읽었다,2
+Johnson & Johnson,JNJ,2017Q3,2017-10-01,분기별 영업이익,미확인,USD,미확인,SEC companyfacts CIK0000200406: 해당 보고서에 OperatingIncomeLoss 태그 없음(영업이익 미공시) ; https://www.sec.gov/Archives/edgar/data/200406/000020040617000052/,,2
+Johnson & Johnson,JNJ,2017Q3,2017-10-01,분기별 당기순이익(지배),3764000000,USD,공시,https://www.sec.gov/Archives/edgar/data/200406/000020040617000052/,,2
+Johnson & Johnson,JNJ,2017Q3,2017-10-01,분기별 영업활동현금흐름,6266000000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/200406/000020040617000052/ ; https://www.sec.gov/Archives/edgar/data/200406/000020040617000042/,누적 14951000000 − 직전누적 8685000000 (시작 2017-01-02),2
+Johnson & Johnson,JNJ,2017Q3,2017-10-01,분기말 자산총계,155658000000,USD,공시,https://www.sec.gov/Archives/edgar/data/200406/000020040617000052/,,2
+Johnson & Johnson,JNJ,2017Q3,2017-10-01,분기말 부채총계,81679000000,USD,공시,https://www.sec.gov/Archives/edgar/data/200406/000020040617000052/,,2
+Johnson & Johnson,JNJ,2017Q3,2017-10-01,분기말 총자본(자기자본),73979000000,USD,공시,https://www.sec.gov/Archives/edgar/data/200406/000020040617000052/,,2
+Johnson & Johnson,JNJ,2017Q3,2017-10-01,분기말 지배지분 자본,73979000000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/200406/000020040617000052/,"StockholdersEquityIncludingPortionAttributableToNoncontrollingInterest, MinorityInterest 태그 없음",2
+Johnson & Johnson,JNJ,2017Q3,2017-09-29,분기말 종가,130.01,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/JNJ?interval=1d&events=splits (2017-09-29),,2
+Johnson & Johnson,JNJ,2017Q3,2017-10-27,분기말 상장주식수,2686520050,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/200406/000020040617000052/,dei:EntityCommonStockSharesOutstanding 클래스 합,2
+Johnson & Johnson,JNJ,2017Q3,2017-09-29,분기말 시가총액,349274471700,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/JNJ?interval=1d&events=splits (2017-09-29) ; https://www.sec.gov/Archives/edgar/data/200406/000020040617000052/,종가 130.01 × 주식수 2686520050,2
+Johnson & Johnson,JNJ,2017Q4,2017-12-31,분기별 매출액,미확인,USD,미확인,https://www.sec.gov/Archives/edgar/data/200406/000020040618000005/,,2
+Johnson & Johnson,JNJ,2017Q4,2017-12-31,분기별 영업이익,미확인,USD,미확인,SEC companyfacts CIK0000200406: 해당 보고서에 OperatingIncomeLoss 태그 없음(영업이익 미공시) ; https://www.sec.gov/Archives/edgar/data/200406/000020040618000005/,,2
+Johnson & Johnson,JNJ,2017Q4,2017-12-31,분기별 당기순이익(지배),-10713000000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/200406/000020040618000005/ ; https://www.sec.gov/Archives/edgar/data/200406/000020040617000052/,연간 1300000000 − 9개월누적 12013000000 (NetIncomeLoss),2
+Johnson & Johnson,JNJ,2017Q4,2017-12-31,분기별 영업활동현금흐름,6105000000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/200406/000020040618000005/ ; https://www.sec.gov/Archives/edgar/data/200406/000020040617000052/,누적 21056000000 − 직전누적 14951000000 (시작 2017-01-02),2
+Johnson & Johnson,JNJ,2017Q4,2017-12-31,분기말 자산총계,157303000000,USD,공시,https://www.sec.gov/Archives/edgar/data/200406/000020040618000005/,,2
+Johnson & Johnson,JNJ,2017Q4,2017-12-31,분기말 부채총계,97143000000,USD,공시,https://www.sec.gov/Archives/edgar/data/200406/000020040618000005/,,2
+Johnson & Johnson,JNJ,2017Q4,2017-12-31,분기말 총자본(자기자본),60160000000,USD,공시,https://www.sec.gov/Archives/edgar/data/200406/000020040618000005/,,2
+Johnson & Johnson,JNJ,2017Q4,2017-12-31,분기말 지배지분 자본,60160000000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/200406/000020040618000005/,"StockholdersEquityIncludingPortionAttributableToNoncontrollingInterest, MinorityInterest 태그 없음",2
+Johnson & Johnson,JNJ,2017Q4,2017-12-29,분기말 종가,139.72,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/JNJ?interval=1d&events=splits (2017-12-29),,2
+Johnson & Johnson,JNJ,2017Q4,2018-02-16,분기말 상장주식수,2682901553,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/200406/000020040618000005/,dei:EntityCommonStockSharesOutstanding 클래스 합,2
+Johnson & Johnson,JNJ,2017Q4,2017-12-29,분기말 시가총액,374855004985,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/JNJ?interval=1d&events=splits (2017-12-29) ; https://www.sec.gov/Archives/edgar/data/200406/000020040618000005/,종가 139.72 × 주식수 2682901553,2
+Johnson & Johnson,JNJ,2018Q1,2018-04-01,분기별 매출액,20009000000,USD,공시(후속 보고서 비교기간),https://www.sec.gov/Archives/edgar/data/200406/000020040619000009/,RevenueFromContractWithCustomerExcludingAssessedTax ; 그 분기 보고서에 연결 총계가 없어 2019-02-20 제출본의 비교기간에서 읽었다,2
+Johnson & Johnson,JNJ,2018Q1,2018-04-01,분기별 영업이익,미확인,USD,미확인,SEC companyfacts CIK0000200406: 해당 보고서에 OperatingIncomeLoss 태그 없음(영업이익 미공시) ; https://www.sec.gov/Archives/edgar/data/200406/000020040618000019/,,2
+Johnson & Johnson,JNJ,2018Q1,2018-04-01,분기별 당기순이익(지배),4367000000,USD,공시,https://www.sec.gov/Archives/edgar/data/200406/000020040618000019/,,2
+Johnson & Johnson,JNJ,2018Q1,2018-04-01,분기별 영업활동현금흐름,3606000000,USD,공시,https://www.sec.gov/Archives/edgar/data/200406/000020040618000019/,,2
+Johnson & Johnson,JNJ,2018Q1,2018-04-01,분기말 자산총계,156625000000,USD,공시,https://www.sec.gov/Archives/edgar/data/200406/000020040618000019/,,2
+Johnson & Johnson,JNJ,2018Q1,2018-04-01,분기말 부채총계,93370000000,USD,공시,https://www.sec.gov/Archives/edgar/data/200406/000020040618000019/,,2
+Johnson & Johnson,JNJ,2018Q1,2018-04-01,분기말 총자본(자기자본),63255000000,USD,공시,https://www.sec.gov/Archives/edgar/data/200406/000020040618000019/,,2
+Johnson & Johnson,JNJ,2018Q1,2018-04-01,분기말 지배지분 자본,63255000000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/200406/000020040618000019/,"StockholdersEquityIncludingPortionAttributableToNoncontrollingInterest, MinorityInterest 태그 없음",2
+Johnson & Johnson,JNJ,2018Q1,2018-03-29,분기말 종가,128.15,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/JNJ?interval=1d&events=splits (2018-03-29),,2
+Johnson & Johnson,JNJ,2018Q1,2018-04-26,분기말 상장주식수,2682149964,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/200406/000020040618000019/,dei:EntityCommonStockSharesOutstanding 클래스 합,2
+Johnson & Johnson,JNJ,2018Q1,2018-03-29,분기말 시가총액,343717517887,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/JNJ?interval=1d&events=splits (2018-03-29) ; https://www.sec.gov/Archives/edgar/data/200406/000020040618000019/,종가 128.15 × 주식수 2682149964,2
+Johnson & Johnson,JNJ,2018Q2,2018-07-01,분기별 매출액,20830000000,USD,공시(후속 보고서 비교기간),https://www.sec.gov/Archives/edgar/data/200406/000020040619000009/,RevenueFromContractWithCustomerExcludingAssessedTax ; 그 분기 보고서에 연결 총계가 없어 2019-02-20 제출본의 비교기간에서 읽었다,2
+Johnson & Johnson,JNJ,2018Q2,2018-07-01,분기별 영업이익,미확인,USD,미확인,SEC companyfacts CIK0000200406: 해당 보고서에 OperatingIncomeLoss 태그 없음(영업이익 미공시) ; https://www.sec.gov/Archives/edgar/data/200406/000020040618000041/,,2
+Johnson & Johnson,JNJ,2018Q2,2018-07-01,분기별 당기순이익(지배),3954000000,USD,공시,https://www.sec.gov/Archives/edgar/data/200406/000020040618000041/,,2
+Johnson & Johnson,JNJ,2018Q2,2018-07-01,분기별 영업활동현금흐름,6079000000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/200406/000020040618000041/ ; https://www.sec.gov/Archives/edgar/data/200406/000020040618000019/,누적 9685000000 − 직전누적 3606000000 (시작 2018-01-01),2
+Johnson & Johnson,JNJ,2018Q2,2018-07-01,분기말 자산총계,155365000000,USD,공시,https://www.sec.gov/Archives/edgar/data/200406/000020040618000041/,,2
+Johnson & Johnson,JNJ,2018Q2,2018-07-01,분기말 부채총계,92476000000,USD,공시,https://www.sec.gov/Archives/edgar/data/200406/000020040618000041/,,2
+Johnson & Johnson,JNJ,2018Q2,2018-07-01,분기말 총자본(자기자본),62889000000,USD,공시,https://www.sec.gov/Archives/edgar/data/200406/000020040618000041/,,2
+Johnson & Johnson,JNJ,2018Q2,2018-07-01,분기말 지배지분 자본,62889000000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/200406/000020040618000041/,"StockholdersEquityIncludingPortionAttributableToNoncontrollingInterest, MinorityInterest 태그 없음",2
+Johnson & Johnson,JNJ,2018Q2,2018-06-29,분기말 종가,121.34,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/JNJ?interval=1d&events=splits (2018-06-29),,2
+Johnson & Johnson,JNJ,2018Q2,2018-07-27,분기말 상장주식수,2682756061,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/200406/000020040618000041/,dei:EntityCommonStockSharesOutstanding 클래스 합,2
+Johnson & Johnson,JNJ,2018Q2,2018-06-29,분기말 시가총액,325525620442,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/JNJ?interval=1d&events=splits (2018-06-29) ; https://www.sec.gov/Archives/edgar/data/200406/000020040618000041/,종가 121.34 × 주식수 2682756061,2
+Johnson & Johnson,JNJ,2018Q3,2018-09-30,분기별 매출액,20348000000,USD,공시,https://www.sec.gov/Archives/edgar/data/200406/000020040618000055/,,2
+Johnson & Johnson,JNJ,2018Q3,2018-09-30,분기별 영업이익,미확인,USD,미확인,SEC companyfacts CIK0000200406: 해당 보고서에 OperatingIncomeLoss 태그 없음(영업이익 미공시) ; https://www.sec.gov/Archives/edgar/data/200406/000020040618000055/,,2
+Johnson & Johnson,JNJ,2018Q3,2018-09-30,분기별 당기순이익(지배),3934000000,USD,공시,https://www.sec.gov/Archives/edgar/data/200406/000020040618000055/,,2
+Johnson & Johnson,JNJ,2018Q3,2018-09-30,분기별 영업활동현금흐름,6272000000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/200406/000020040618000055/ ; https://www.sec.gov/Archives/edgar/data/200406/000020040618000041/,누적 15957000000 − 직전누적 9685000000 (시작 2018-01-01),2
+Johnson & Johnson,JNJ,2018Q3,2018-09-30,분기말 자산총계,155703000000,USD,공시,https://www.sec.gov/Archives/edgar/data/200406/000020040618000055/,,2
+Johnson & Johnson,JNJ,2018Q3,2018-09-30,분기말 부채총계,91077000000,USD,공시,https://www.sec.gov/Archives/edgar/data/200406/000020040618000055/,,2
+Johnson & Johnson,JNJ,2018Q3,2018-09-30,분기말 총자본(자기자본),64626000000,USD,공시,https://www.sec.gov/Archives/edgar/data/200406/000020040618000055/,,2
+Johnson & Johnson,JNJ,2018Q3,2018-09-30,분기말 지배지분 자본,64626000000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/200406/000020040618000055/,"StockholdersEquityIncludingPortionAttributableToNoncontrollingInterest, MinorityInterest 태그 없음",2
+Johnson & Johnson,JNJ,2018Q3,2018-09-28,분기말 종가,138.17,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/JNJ?interval=1d&events=splits (2018-09-28),,2
+Johnson & Johnson,JNJ,2018Q3,2018-10-26,분기말 상장주식수,2681977969,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/200406/000020040618000055/,dei:EntityCommonStockSharesOutstanding 클래스 합,2
+Johnson & Johnson,JNJ,2018Q3,2018-09-28,분기말 시가총액,370568895977,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/JNJ?interval=1d&events=splits (2018-09-28) ; https://www.sec.gov/Archives/edgar/data/200406/000020040618000055/,종가 138.17 × 주식수 2681977969,2
+Johnson & Johnson,JNJ,2018Q4,2018-12-30,분기별 매출액,20394000000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/200406/000020040619000009/ ; https://www.sec.gov/Archives/edgar/data/200406/000020040618000055/,연간 81581000000 − 9개월누적 61187000000 (RevenueFromContractWithCustomerExcludingAssessedTax),2
+Johnson & Johnson,JNJ,2018Q4,2018-12-30,분기별 영업이익,미확인,USD,미확인,SEC companyfacts CIK0000200406: 해당 보고서에 OperatingIncomeLoss 태그 없음(영업이익 미공시) ; https://www.sec.gov/Archives/edgar/data/200406/000020040619000009/,,2
+Johnson & Johnson,JNJ,2018Q4,2018-12-30,분기별 당기순이익(지배),3042000000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/200406/000020040619000009/ ; https://www.sec.gov/Archives/edgar/data/200406/000020040618000055/,연간 15297000000 − 9개월누적 12255000000 (NetIncomeLoss),2
+Johnson & Johnson,JNJ,2018Q4,2018-12-30,분기별 영업활동현금흐름,6244000000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/200406/000020040619000009/ ; https://www.sec.gov/Archives/edgar/data/200406/000020040618000055/,누적 22201000000 − 직전누적 15957000000 (시작 2018-01-01),2
+Johnson & Johnson,JNJ,2018Q4,2018-12-30,분기말 자산총계,152954000000,USD,공시,https://www.sec.gov/Archives/edgar/data/200406/000020040619000009/,,2
+Johnson & Johnson,JNJ,2018Q4,2018-12-30,분기말 부채총계,93202000000,USD,공시,https://www.sec.gov/Archives/edgar/data/200406/000020040619000009/,,2
+Johnson & Johnson,JNJ,2018Q4,2018-12-30,분기말 총자본(자기자본),59752000000,USD,공시,https://www.sec.gov/Archives/edgar/data/200406/000020040619000009/,,2
+Johnson & Johnson,JNJ,2018Q4,2018-12-30,분기말 지배지분 자본,59752000000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/200406/000020040619000009/,"StockholdersEquityIncludingPortionAttributableToNoncontrollingInterest, MinorityInterest 태그 없음",2
+Johnson & Johnson,JNJ,2018Q4,2018-12-28,분기말 종가,127.27,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/JNJ?interval=1d&events=splits (2018-12-28),,2
+Johnson & Johnson,JNJ,2018Q4,2019-02-15,분기말 상장주식수,2663138579,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/200406/000020040619000009/,dei:EntityCommonStockSharesOutstanding 클래스 합,2
+Johnson & Johnson,JNJ,2018Q4,2018-12-28,분기말 시가총액,338937646949,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/JNJ?interval=1d&events=splits (2018-12-28) ; https://www.sec.gov/Archives/edgar/data/200406/000020040619000009/,종가 127.27 × 주식수 2663138579,2
+Johnson & Johnson,JNJ,2019Q1,2019-03-31,분기별 매출액,20021000000,USD,공시,https://www.sec.gov/Archives/edgar/data/200406/000020040619000033/,,2
+Johnson & Johnson,JNJ,2019Q1,2019-03-31,분기별 영업이익,미확인,USD,미확인,SEC companyfacts CIK0000200406: 해당 보고서에 OperatingIncomeLoss 태그 없음(영업이익 미공시) ; https://www.sec.gov/Archives/edgar/data/200406/000020040619000033/,,2
+Johnson & Johnson,JNJ,2019Q1,2019-03-31,분기별 당기순이익(지배),3749000000,USD,공시,https://www.sec.gov/Archives/edgar/data/200406/000020040619000033/,,2
+Johnson & Johnson,JNJ,2019Q1,2019-03-31,분기별 영업활동현금흐름,3543000000,USD,공시,https://www.sec.gov/Archives/edgar/data/200406/000020040619000033/,,2
+Johnson & Johnson,JNJ,2019Q1,2019-03-31,분기말 자산총계,150027000000,USD,공시,https://www.sec.gov/Archives/edgar/data/200406/000020040619000033/,,2
+Johnson & Johnson,JNJ,2019Q1,2019-03-31,분기말 부채총계,91072000000,USD,공시,https://www.sec.gov/Archives/edgar/data/200406/000020040619000033/,,2
+Johnson & Johnson,JNJ,2019Q1,2019-03-31,분기말 총자본(자기자본),58955000000,USD,공시,https://www.sec.gov/Archives/edgar/data/200406/000020040619000033/,,2
+Johnson & Johnson,JNJ,2019Q1,2019-03-31,분기말 지배지분 자본,58955000000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/200406/000020040619000033/,"StockholdersEquityIncludingPortionAttributableToNoncontrollingInterest, MinorityInterest 태그 없음",2
+Johnson & Johnson,JNJ,2019Q1,2019-03-29,분기말 종가,139.79,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/JNJ?interval=1d&events=splits (2019-03-29),,2
+Johnson & Johnson,JNJ,2019Q1,2019-04-25,분기말 상장주식수,2655055987,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/200406/000020040619000033/,dei:EntityCommonStockSharesOutstanding 클래스 합,2
+Johnson & Johnson,JNJ,2019Q1,2019-03-29,분기말 시가총액,371150276423,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/JNJ?interval=1d&events=splits (2019-03-29) ; https://www.sec.gov/Archives/edgar/data/200406/000020040619000033/,종가 139.79 × 주식수 2655055987,2
+Johnson & Johnson,JNJ,2019Q2,2019-06-30,분기별 매출액,20562000000,USD,공시,https://www.sec.gov/Archives/edgar/data/200406/000020040619000053/,,2
+Johnson & Johnson,JNJ,2019Q2,2019-06-30,분기별 영업이익,미확인,USD,미확인,SEC companyfacts CIK0000200406: 해당 보고서에 OperatingIncomeLoss 태그 없음(영업이익 미공시) ; https://www.sec.gov/Archives/edgar/data/200406/000020040619000053/,,2
+Johnson & Johnson,JNJ,2019Q2,2019-06-30,분기별 당기순이익(지배),5607000000,USD,공시,https://www.sec.gov/Archives/edgar/data/200406/000020040619000053/,,2
+Johnson & Johnson,JNJ,2019Q2,2019-06-30,분기별 영업활동현금흐름,5948000000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/200406/000020040619000053/ ; https://www.sec.gov/Archives/edgar/data/200406/000020040619000033/,누적 9491000000 − 직전누적 3543000000 (시작 2018-12-31),2
+Johnson & Johnson,JNJ,2019Q2,2019-06-30,분기말 자산총계,155117000000,USD,공시,https://www.sec.gov/Archives/edgar/data/200406/000020040619000053/,,2
+Johnson & Johnson,JNJ,2019Q2,2019-06-30,분기말 부채총계,94332000000,USD,공시,https://www.sec.gov/Archives/edgar/data/200406/000020040619000053/,,2
+Johnson & Johnson,JNJ,2019Q2,2019-06-30,분기말 총자본(자기자본),60785000000,USD,공시,https://www.sec.gov/Archives/edgar/data/200406/000020040619000053/,,2
+Johnson & Johnson,JNJ,2019Q2,2019-06-30,분기말 지배지분 자본,60785000000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/200406/000020040619000053/,"StockholdersEquityIncludingPortionAttributableToNoncontrollingInterest, MinorityInterest 태그 없음",2
+Johnson & Johnson,JNJ,2019Q2,2019-06-28,분기말 종가,139.28,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/JNJ?interval=1d&events=splits (2019-06-28),,2
+Johnson & Johnson,JNJ,2019Q2,2019-07-24,분기말 상장주식수,2639165527,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/200406/000020040619000053/,dei:EntityCommonStockSharesOutstanding 클래스 합,2
+Johnson & Johnson,JNJ,2019Q2,2019-06-28,분기말 시가총액,367582974601,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/JNJ?interval=1d&events=splits (2019-06-28) ; https://www.sec.gov/Archives/edgar/data/200406/000020040619000053/,종가 139.28 × 주식수 2639165527,2
+Johnson & Johnson,JNJ,2019Q3,2019-09-29,분기별 매출액,20729000000,USD,공시,https://www.sec.gov/Archives/edgar/data/200406/000020040619000066/,,2
+Johnson & Johnson,JNJ,2019Q3,2019-09-29,분기별 영업이익,미확인,USD,미확인,SEC companyfacts CIK0000200406: 해당 보고서에 OperatingIncomeLoss 태그 없음(영업이익 미공시) ; https://www.sec.gov/Archives/edgar/data/200406/000020040619000066/,,2
+Johnson & Johnson,JNJ,2019Q3,2019-09-29,분기별 당기순이익(지배),1753000000,USD,공시,https://www.sec.gov/Archives/edgar/data/200406/000020040619000066/,,2
+Johnson & Johnson,JNJ,2019Q3,2019-09-29,분기별 영업활동현금흐름,7527000000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/200406/000020040619000066/ ; https://www.sec.gov/Archives/edgar/data/200406/000020040619000053/,누적 17018000000 − 직전누적 9491000000 (시작 2018-12-31),2
+Johnson & Johnson,JNJ,2019Q3,2019-09-29,분기말 자산총계,155521000000,USD,공시,https://www.sec.gov/Archives/edgar/data/200406/000020040619000066/,,2
+Johnson & Johnson,JNJ,2019Q3,2019-09-29,분기말 부채총계,97311000000,USD,공시,https://www.sec.gov/Archives/edgar/data/200406/000020040619000066/,,2
+Johnson & Johnson,JNJ,2019Q3,2019-09-29,분기말 총자본(자기자본),58210000000,USD,공시,https://www.sec.gov/Archives/edgar/data/200406/000020040619000066/,,2
+Johnson & Johnson,JNJ,2019Q3,2019-09-29,분기말 지배지분 자본,58210000000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/200406/000020040619000066/,"StockholdersEquityIncludingPortionAttributableToNoncontrollingInterest, MinorityInterest 태그 없음",2
+Johnson & Johnson,JNJ,2019Q3,2019-09-27,분기말 종가,128.6,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/JNJ?interval=1d&events=splits (2019-09-27),,2
+Johnson & Johnson,JNJ,2019Q3,2019-10-22,분기말 상장주식수,2631872399,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/200406/000020040619000066/,dei:EntityCommonStockSharesOutstanding 클래스 합,2
+Johnson & Johnson,JNJ,2019Q3,2019-09-27,분기말 시가총액,338458790511,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/JNJ?interval=1d&events=splits (2019-09-27) ; https://www.sec.gov/Archives/edgar/data/200406/000020040619000066/,종가 128.6 × 주식수 2631872399,2
+Johnson & Johnson,JNJ,2019Q4,2019-12-29,분기별 매출액,20747000000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/200406/000020040620000010/ ; https://www.sec.gov/Archives/edgar/data/200406/000020040619000066/,연간 82059000000 − 9개월누적 61312000000 (RevenueFromContractWithCustomerExcludingAssessedTax),2
+Johnson & Johnson,JNJ,2019Q4,2019-12-29,분기별 영업이익,미확인,USD,미확인,SEC companyfacts CIK0000200406: 해당 보고서에 OperatingIncomeLoss 태그 없음(영업이익 미공시) ; https://www.sec.gov/Archives/edgar/data/200406/000020040620000010/,,2
+Johnson & Johnson,JNJ,2019Q4,2019-12-29,분기별 당기순이익(지배),4010000000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/200406/000020040620000010/ ; https://www.sec.gov/Archives/edgar/data/200406/000020040619000066/,연간 15119000000 − 9개월누적 11109000000 (NetIncomeLoss),2
+Johnson & Johnson,JNJ,2019Q4,2019-12-29,분기별 영업활동현금흐름,6398000000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/200406/000020040620000010/ ; https://www.sec.gov/Archives/edgar/data/200406/000020040619000066/,누적 23416000000 − 직전누적 17018000000 (시작 2018-12-31),2
+Johnson & Johnson,JNJ,2019Q4,2019-12-29,분기말 자산총계,157728000000,USD,공시,https://www.sec.gov/Archives/edgar/data/200406/000020040620000010/,,2
+Johnson & Johnson,JNJ,2019Q4,2019-12-29,분기말 부채총계,98257000000,USD,공시,https://www.sec.gov/Archives/edgar/data/200406/000020040620000010/,,2
+Johnson & Johnson,JNJ,2019Q4,2019-12-29,분기말 총자본(자기자본),59471000000,USD,공시,https://www.sec.gov/Archives/edgar/data/200406/000020040620000010/,,2
+Johnson & Johnson,JNJ,2019Q4,2019-12-29,분기말 지배지분 자본,59471000000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/200406/000020040620000010/,"StockholdersEquityIncludingPortionAttributableToNoncontrollingInterest, MinorityInterest 태그 없음",2
+Johnson & Johnson,JNJ,2019Q4,2019-12-27,분기말 종가,145.75,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/JNJ?interval=1d&events=splits (2019-12-27),,2
+Johnson & Johnson,JNJ,2019Q4,2020-02-10,분기말 상장주식수,2634721257,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/200406/000020040620000010/,dei:EntityCommonStockSharesOutstanding 클래스 합,2
+Johnson & Johnson,JNJ,2019Q4,2019-12-27,분기말 시가총액,384010623208,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/JNJ?interval=1d&events=splits (2019-12-27) ; https://www.sec.gov/Archives/edgar/data/200406/000020040620000010/,종가 145.75 × 주식수 2634721257,2
+Johnson & Johnson,JNJ,2020Q1,2020-03-29,분기별 매출액,20691000000,USD,공시,https://www.sec.gov/Archives/edgar/data/200406/000020040620000035/,,2
+Johnson & Johnson,JNJ,2020Q1,2020-03-29,분기별 영업이익,미확인,USD,미확인,SEC companyfacts CIK0000200406: 해당 보고서에 OperatingIncomeLoss 태그 없음(영업이익 미공시) ; https://www.sec.gov/Archives/edgar/data/200406/000020040620000035/,,2
+Johnson & Johnson,JNJ,2020Q1,2020-03-29,분기별 당기순이익(지배),5796000000,USD,공시,https://www.sec.gov/Archives/edgar/data/200406/000020040620000035/,,2
+Johnson & Johnson,JNJ,2020Q1,2020-03-29,분기별 영업활동현금흐름,3358000000,USD,공시,https://www.sec.gov/Archives/edgar/data/200406/000020040620000035/,,2
+Johnson & Johnson,JNJ,2020Q1,2020-03-29,분기말 자산총계,155017000000,USD,공시,https://www.sec.gov/Archives/edgar/data/200406/000020040620000035/,,2
+Johnson & Johnson,JNJ,2020Q1,2020-03-29,분기말 부채총계,93723000000,USD,공시,https://www.sec.gov/Archives/edgar/data/200406/000020040620000035/,,2
+Johnson & Johnson,JNJ,2020Q1,2020-03-29,분기말 총자본(자기자본),61294000000,USD,공시,https://www.sec.gov/Archives/edgar/data/200406/000020040620000035/,,2
+Johnson & Johnson,JNJ,2020Q1,2020-03-29,분기말 지배지분 자본,61294000000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/200406/000020040620000035/,"StockholdersEquityIncludingPortionAttributableToNoncontrollingInterest, MinorityInterest 태그 없음",2
+Johnson & Johnson,JNJ,2020Q1,2020-03-27,분기말 종가,123.16,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/JNJ?interval=1d&events=splits (2020-03-27),,2
+Johnson & Johnson,JNJ,2020Q1,2020-04-22,분기말 상장주식수,2634594535,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/200406/000020040620000035/,dei:EntityCommonStockSharesOutstanding 클래스 합,2
+Johnson & Johnson,JNJ,2020Q1,2020-03-27,분기말 시가총액,324476662931,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/JNJ?interval=1d&events=splits (2020-03-27) ; https://www.sec.gov/Archives/edgar/data/200406/000020040620000035/,종가 123.16 × 주식수 2634594535,2
+Johnson & Johnson,JNJ,2020Q2,2020-06-28,분기별 매출액,18336000000,USD,공시,https://www.sec.gov/Archives/edgar/data/200406/000020040620000050/,,2
+Johnson & Johnson,JNJ,2020Q2,2020-06-28,분기별 영업이익,미확인,USD,미확인,SEC companyfacts CIK0000200406: 해당 보고서에 OperatingIncomeLoss 태그 없음(영업이익 미공시) ; https://www.sec.gov/Archives/edgar/data/200406/000020040620000050/,,2
+Johnson & Johnson,JNJ,2020Q2,2020-06-28,분기별 당기순이익(지배),3626000000,USD,공시,https://www.sec.gov/Archives/edgar/data/200406/000020040620000050/,,2
+Johnson & Johnson,JNJ,2020Q2,2020-06-28,분기별 영업활동현금흐름,3452000000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/200406/000020040620000050/ ; https://www.sec.gov/Archives/edgar/data/200406/000020040620000035/,누적 6810000000 − 직전누적 3358000000 (시작 2019-12-30),2
+Johnson & Johnson,JNJ,2020Q2,2020-06-28,분기말 자산총계,158380000000,USD,공시,https://www.sec.gov/Archives/edgar/data/200406/000020040620000050/,,2
+Johnson & Johnson,JNJ,2020Q2,2020-06-28,분기말 부채총계,95402000000,USD,공시,https://www.sec.gov/Archives/edgar/data/200406/000020040620000050/,,2
+Johnson & Johnson,JNJ,2020Q2,2020-06-28,분기말 총자본(자기자본),62978000000,USD,공시,https://www.sec.gov/Archives/edgar/data/200406/000020040620000050/,,2
+Johnson & Johnson,JNJ,2020Q2,2020-06-28,분기말 지배지분 자본,62978000000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/200406/000020040620000050/,"StockholdersEquityIncludingPortionAttributableToNoncontrollingInterest, MinorityInterest 태그 없음",2
+Johnson & Johnson,JNJ,2020Q2,2020-06-26,분기말 종가,137.81,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/JNJ?interval=1d&events=splits (2020-06-26),,2
+Johnson & Johnson,JNJ,2020Q2,2020-07-20,분기말 상장주식수,2632823475,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/200406/000020040620000050/,dei:EntityCommonStockSharesOutstanding 클래스 합,2
+Johnson & Johnson,JNJ,2020Q2,2020-06-26,분기말 시가총액,362829403090,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/JNJ?interval=1d&events=splits (2020-06-26) ; https://www.sec.gov/Archives/edgar/data/200406/000020040620000050/,종가 137.81 × 주식수 2632823475,2
+Johnson & Johnson,JNJ,2020Q3,2020-09-27,분기별 매출액,21082000000,USD,공시,https://www.sec.gov/Archives/edgar/data/200406/000020040620000056/,,2
+Johnson & Johnson,JNJ,2020Q3,2020-09-27,분기별 영업이익,미확인,USD,미확인,SEC companyfacts CIK0000200406: 해당 보고서에 OperatingIncomeLoss 태그 없음(영업이익 미공시) ; https://www.sec.gov/Archives/edgar/data/200406/000020040620000056/,,2
+Johnson & Johnson,JNJ,2020Q3,2020-09-27,분기별 당기순이익(지배),3554000000,USD,공시,https://www.sec.gov/Archives/edgar/data/200406/000020040620000056/,,2
+Johnson & Johnson,JNJ,2020Q3,2020-09-27,분기별 영업활동현금흐름,8383000000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/200406/000020040620000056/ ; https://www.sec.gov/Archives/edgar/data/200406/000020040620000050/,누적 15193000000 − 직전누적 6810000000 (시작 2019-12-30),2
+Johnson & Johnson,JNJ,2020Q3,2020-09-27,분기말 자산총계,170693000000,USD,공시,https://www.sec.gov/Archives/edgar/data/200406/000020040620000056/,,2
+Johnson & Johnson,JNJ,2020Q3,2020-09-27,분기말 부채총계,106220000000,USD,공시,https://www.sec.gov/Archives/edgar/data/200406/000020040620000056/,,2
+Johnson & Johnson,JNJ,2020Q3,2020-09-27,분기말 총자본(자기자본),64473000000,USD,공시,https://www.sec.gov/Archives/edgar/data/200406/000020040620000056/,,2
+Johnson & Johnson,JNJ,2020Q3,2020-09-27,분기말 지배지분 자본,64473000000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/200406/000020040620000056/,"StockholdersEquityIncludingPortionAttributableToNoncontrollingInterest, MinorityInterest 태그 없음",2
+Johnson & Johnson,JNJ,2020Q3,2020-09-25,분기말 종가,145.66,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/JNJ?interval=1d&events=splits (2020-09-25),,2
+Johnson & Johnson,JNJ,2020Q3,2020-10-19,분기말 상장주식수,2632542672,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/200406/000020040620000056/,dei:EntityCommonStockSharesOutstanding 클래스 합,2
+Johnson & Johnson,JNJ,2020Q3,2020-09-25,분기말 시가총액,383456165604,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/JNJ?interval=1d&events=splits (2020-09-25) ; https://www.sec.gov/Archives/edgar/data/200406/000020040620000056/,종가 145.66 × 주식수 2632542672,2
+Johnson & Johnson,JNJ,2020Q4,2021-01-03,분기별 매출액,22475000000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/200406/000020040621000008/ ; https://www.sec.gov/Archives/edgar/data/200406/000020040620000056/,연간 82584000000 − 9개월누적 60109000000 (RevenueFromContractWithCustomerExcludingAssessedTax),2
+Johnson & Johnson,JNJ,2020Q4,2021-01-03,분기별 영업이익,미확인,USD,미확인,SEC companyfacts CIK0000200406: 해당 보고서에 OperatingIncomeLoss 태그 없음(영업이익 미공시) ; https://www.sec.gov/Archives/edgar/data/200406/000020040621000008/,,2
+Johnson & Johnson,JNJ,2020Q4,2021-01-03,분기별 당기순이익(지배),1738000000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/200406/000020040621000008/ ; https://www.sec.gov/Archives/edgar/data/200406/000020040620000056/,연간 14714000000 − 9개월누적 12976000000 (NetIncomeLoss),2
+Johnson & Johnson,JNJ,2020Q4,2021-01-03,분기별 영업활동현금흐름,8343000000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/200406/000020040621000008/ ; https://www.sec.gov/Archives/edgar/data/200406/000020040620000056/,누적 23536000000 − 직전누적 15193000000 (시작 2019-12-30),2
+Johnson & Johnson,JNJ,2020Q4,2021-01-03,분기말 자산총계,174894000000,USD,공시,https://www.sec.gov/Archives/edgar/data/200406/000020040621000008/,,2
+Johnson & Johnson,JNJ,2020Q4,2021-01-03,분기말 부채총계,111616000000,USD,공시,https://www.sec.gov/Archives/edgar/data/200406/000020040621000008/,,2
+Johnson & Johnson,JNJ,2020Q4,2021-01-03,분기말 총자본(자기자본),63278000000,USD,공시,https://www.sec.gov/Archives/edgar/data/200406/000020040621000008/,,2
+Johnson & Johnson,JNJ,2020Q4,2021-01-03,분기말 지배지분 자본,63278000000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/200406/000020040621000008/,"StockholdersEquityIncludingPortionAttributableToNoncontrollingInterest, MinorityInterest 태그 없음",2
+Johnson & Johnson,JNJ,2020Q4,2020-12-31,분기말 종가,157.38,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/JNJ?interval=1d&events=splits (2020-12-31),,2
+Johnson & Johnson,JNJ,2020Q4,2021-02-16,분기말 상장주식수,2628679824,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/200406/000020040621000008/,dei:EntityCommonStockSharesOutstanding 클래스 합,2
+Johnson & Johnson,JNJ,2020Q4,2020-12-31,분기말 시가총액,413701630701,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/JNJ?interval=1d&events=splits (2020-12-31) ; https://www.sec.gov/Archives/edgar/data/200406/000020040621000008/,종가 157.38 × 주식수 2628679824,2
+Johnson & Johnson,JNJ,2021Q1,2021-04-04,분기별 매출액,22321000000,USD,공시,https://www.sec.gov/Archives/edgar/data/200406/000020040621000036/,,2
+Johnson & Johnson,JNJ,2021Q1,2021-04-04,분기별 영업이익,미확인,USD,미확인,SEC companyfacts CIK0000200406: 해당 보고서에 OperatingIncomeLoss 태그 없음(영업이익 미공시) ; https://www.sec.gov/Archives/edgar/data/200406/000020040621000036/,,2
+Johnson & Johnson,JNJ,2021Q1,2021-04-04,분기별 당기순이익(지배),6197000000,USD,공시,https://www.sec.gov/Archives/edgar/data/200406/000020040621000036/,,2
+Johnson & Johnson,JNJ,2021Q1,2021-04-04,분기별 영업활동현금흐름,4074000000,USD,공시,https://www.sec.gov/Archives/edgar/data/200406/000020040621000036/,,2
+Johnson & Johnson,JNJ,2021Q1,2021-04-04,분기말 자산총계,172557000000,USD,공시,https://www.sec.gov/Archives/edgar/data/200406/000020040621000036/,,2
+Johnson & Johnson,JNJ,2021Q1,2021-04-04,분기말 부채총계,106723000000,USD,공시,https://www.sec.gov/Archives/edgar/data/200406/000020040621000036/,,2
+Johnson & Johnson,JNJ,2021Q1,2021-04-04,분기말 총자본(자기자본),65834000000,USD,공시,https://www.sec.gov/Archives/edgar/data/200406/000020040621000036/,,2
+Johnson & Johnson,JNJ,2021Q1,2021-04-04,분기말 지배지분 자본,65834000000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/200406/000020040621000036/,"StockholdersEquityIncludingPortionAttributableToNoncontrollingInterest, MinorityInterest 태그 없음",2
+Johnson & Johnson,JNJ,2021Q1,2021-04-01,분기말 종가,162.83,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/JNJ?interval=1d&events=splits (2021-04-01),,2
+Johnson & Johnson,JNJ,2021Q1,2021-04-23,분기말 상장주식수,2633396003,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/200406/000020040621000036/,dei:EntityCommonStockSharesOutstanding 클래스 합,2
+Johnson & Johnson,JNJ,2021Q1,2021-04-01,분기말 시가총액,428795871168,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/JNJ?interval=1d&events=splits (2021-04-01) ; https://www.sec.gov/Archives/edgar/data/200406/000020040621000036/,종가 162.83 × 주식수 2633396003,2
+Johnson & Johnson,JNJ,2021Q2,2021-07-04,분기별 매출액,23312000000,USD,공시,https://www.sec.gov/Archives/edgar/data/200406/000020040621000057/,,2
+Johnson & Johnson,JNJ,2021Q2,2021-07-04,분기별 영업이익,미확인,USD,미확인,SEC companyfacts CIK0000200406: 해당 보고서에 OperatingIncomeLoss 태그 없음(영업이익 미공시) ; https://www.sec.gov/Archives/edgar/data/200406/000020040621000057/,,2
+Johnson & Johnson,JNJ,2021Q2,2021-07-04,분기별 당기순이익(지배),6278000000,USD,공시,https://www.sec.gov/Archives/edgar/data/200406/000020040621000057/,,2
+Johnson & Johnson,JNJ,2021Q2,2021-07-04,분기별 영업활동현금흐름,5314000000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/200406/000020040621000057/ ; https://www.sec.gov/Archives/edgar/data/200406/000020040621000036/,누적 9388000000 − 직전누적 4074000000 (시작 2021-01-04),2
+Johnson & Johnson,JNJ,2021Q2,2021-07-04,분기말 자산총계,176440000000,USD,공시,https://www.sec.gov/Archives/edgar/data/200406/000020040621000057/,,2
+Johnson & Johnson,JNJ,2021Q2,2021-07-04,분기말 부채총계,106860000000,USD,공시,https://www.sec.gov/Archives/edgar/data/200406/000020040621000057/,,2
+Johnson & Johnson,JNJ,2021Q2,2021-07-04,분기말 총자본(자기자본),69580000000,USD,공시,https://www.sec.gov/Archives/edgar/data/200406/000020040621000057/,,2
+Johnson & Johnson,JNJ,2021Q2,2021-07-04,분기말 지배지분 자본,69580000000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/200406/000020040621000057/,"StockholdersEquityIncludingPortionAttributableToNoncontrollingInterest, MinorityInterest 태그 없음",2
+Johnson & Johnson,JNJ,2021Q2,2021-07-02,분기말 종가,168.98,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/JNJ?interval=1d&events=splits (2021-07-02),,2
+Johnson & Johnson,JNJ,2021Q2,2021-07-23,분기말 상장주식수,2632482092,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/200406/000020040621000057/,dei:EntityCommonStockSharesOutstanding 클래스 합,2
+Johnson & Johnson,JNJ,2021Q2,2021-07-02,분기말 시가총액,444836823906,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/JNJ?interval=1d&events=splits (2021-07-02) ; https://www.sec.gov/Archives/edgar/data/200406/000020040621000057/,종가 168.98 × 주식수 2632482092,2
+Johnson & Johnson,JNJ,2021Q3,2021-10-03,분기별 매출액,23338000000,USD,공시,https://www.sec.gov/Archives/edgar/data/200406/000020040621000070/,,2
+Johnson & Johnson,JNJ,2021Q3,2021-10-03,분기별 영업이익,미확인,USD,미확인,SEC companyfacts CIK0000200406: 해당 보고서에 OperatingIncomeLoss 태그 없음(영업이익 미공시) ; https://www.sec.gov/Archives/edgar/data/200406/000020040621000070/,,2
+Johnson & Johnson,JNJ,2021Q3,2021-10-03,분기별 당기순이익(지배),3667000000,USD,공시,https://www.sec.gov/Archives/edgar/data/200406/000020040621000070/,,2
+Johnson & Johnson,JNJ,2021Q3,2021-10-03,분기별 영업활동현금흐름,8290000000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/200406/000020040621000070/ ; https://www.sec.gov/Archives/edgar/data/200406/000020040621000057/,누적 17678000000 − 직전누적 9388000000 (시작 2021-01-04),2
+Johnson & Johnson,JNJ,2021Q3,2021-10-03,분기말 자산총계,179228000000,USD,공시,https://www.sec.gov/Archives/edgar/data/200406/000020040621000070/,,2
+Johnson & Johnson,JNJ,2021Q3,2021-10-03,분기말 부채총계,108956000000,USD,공시,https://www.sec.gov/Archives/edgar/data/200406/000020040621000070/,,2
+Johnson & Johnson,JNJ,2021Q3,2021-10-03,분기말 총자본(자기자본),70272000000,USD,공시,https://www.sec.gov/Archives/edgar/data/200406/000020040621000070/,,2
+Johnson & Johnson,JNJ,2021Q3,2021-10-03,분기말 지배지분 자본,70272000000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/200406/000020040621000070/,"StockholdersEquityIncludingPortionAttributableToNoncontrollingInterest, MinorityInterest 태그 없음",2
+Johnson & Johnson,JNJ,2021Q3,2021-10-01,분기말 종가,160.47,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/JNJ?interval=1d&events=splits (2021-10-01),,2
+Johnson & Johnson,JNJ,2021Q3,2021-10-22,분기말 상장주식수,2632596969,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/200406/000020040621000070/,dei:EntityCommonStockSharesOutstanding 클래스 합,2
+Johnson & Johnson,JNJ,2021Q3,2021-10-01,분기말 시가총액,422452835615,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/JNJ?interval=1d&events=splits (2021-10-01) ; https://www.sec.gov/Archives/edgar/data/200406/000020040621000070/,종가 160.47 × 주식수 2632596969,2
+Johnson & Johnson,JNJ,2021Q4,2022-01-02,분기별 매출액,24804000000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/200406/000020040622000022/ ; https://www.sec.gov/Archives/edgar/data/200406/000020040621000070/,연간 93775000000 − 9개월누적 68971000000 (RevenueFromContractWithCustomerExcludingAssessedTax),2
+Johnson & Johnson,JNJ,2021Q4,2022-01-02,분기별 영업이익,미확인,USD,미확인,SEC companyfacts CIK0000200406: 해당 보고서에 OperatingIncomeLoss 태그 없음(영업이익 미공시) ; https://www.sec.gov/Archives/edgar/data/200406/000020040622000022/,,2
+Johnson & Johnson,JNJ,2021Q4,2022-01-02,분기별 당기순이익(지배),4736000000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/200406/000020040622000022/ ; https://www.sec.gov/Archives/edgar/data/200406/000020040621000070/,연간 20878000000 − 9개월누적 16142000000 (NetIncomeLoss),2
+Johnson & Johnson,JNJ,2021Q4,2022-01-02,분기별 영업활동현금흐름,5732000000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/200406/000020040622000022/ ; https://www.sec.gov/Archives/edgar/data/200406/000020040621000070/,누적 23410000000 − 직전누적 17678000000 (시작 2021-01-04),2
+Johnson & Johnson,JNJ,2021Q4,2022-01-02,분기말 자산총계,182018000000,USD,공시,https://www.sec.gov/Archives/edgar/data/200406/000020040622000022/,,2
+Johnson & Johnson,JNJ,2021Q4,2022-01-02,분기말 부채총계,107995000000,USD,공시,https://www.sec.gov/Archives/edgar/data/200406/000020040622000022/,,2
+Johnson & Johnson,JNJ,2021Q4,2022-01-02,분기말 총자본(자기자본),74023000000,USD,공시,https://www.sec.gov/Archives/edgar/data/200406/000020040622000022/,,2
+Johnson & Johnson,JNJ,2021Q4,2022-01-02,분기말 지배지분 자본,74023000000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/200406/000020040622000022/,"StockholdersEquityIncludingPortionAttributableToNoncontrollingInterest, MinorityInterest 태그 없음",2
+Johnson & Johnson,JNJ,2021Q4,2021-12-31,분기말 종가,171.07,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/JNJ?interval=1d&events=splits (2021-12-31),,2
+Johnson & Johnson,JNJ,2021Q4,2022-02-10,분기말 상장주식수,2629268158,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/200406/000020040622000022/,dei:EntityCommonStockSharesOutstanding 클래스 합,2
+Johnson & Johnson,JNJ,2021Q4,2021-12-31,분기말 시가총액,449788903789,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/JNJ?interval=1d&events=splits (2021-12-31) ; https://www.sec.gov/Archives/edgar/data/200406/000020040622000022/,종가 171.07 × 주식수 2629268158,2
+Johnson & Johnson,JNJ,2022Q1,2022-04-03,분기별 매출액,23426000000,USD,공시,https://www.sec.gov/Archives/edgar/data/200406/000020040622000048/,,2
+Johnson & Johnson,JNJ,2022Q1,2022-04-03,분기별 영업이익,미확인,USD,미확인,SEC companyfacts CIK0000200406: 해당 보고서에 OperatingIncomeLoss 태그 없음(영업이익 미공시) ; https://www.sec.gov/Archives/edgar/data/200406/000020040622000048/,,2
+Johnson & Johnson,JNJ,2022Q1,2022-04-03,분기별 당기순이익(지배),5149000000,USD,공시,https://www.sec.gov/Archives/edgar/data/200406/000020040622000048/,,2
+Johnson & Johnson,JNJ,2022Q1,2022-04-03,분기별 영업활동현금흐름,3979000000,USD,공시,https://www.sec.gov/Archives/edgar/data/200406/000020040622000048/,,2
+Johnson & Johnson,JNJ,2022Q1,2022-04-03,분기말 자산총계,178355000000,USD,공시,https://www.sec.gov/Archives/edgar/data/200406/000020040622000048/,,2
+Johnson & Johnson,JNJ,2022Q1,2022-04-03,분기말 부채총계,103646000000,USD,공시,https://www.sec.gov/Archives/edgar/data/200406/000020040622000048/,,2
+Johnson & Johnson,JNJ,2022Q1,2022-04-03,분기말 총자본(자기자본),74709000000,USD,공시,https://www.sec.gov/Archives/edgar/data/200406/000020040622000048/,,2
+Johnson & Johnson,JNJ,2022Q1,2022-04-03,분기말 지배지분 자본,74709000000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/200406/000020040622000048/,"StockholdersEquityIncludingPortionAttributableToNoncontrollingInterest, MinorityInterest 태그 없음",2
+Johnson & Johnson,JNJ,2022Q1,2022-04-01,분기말 종가,178.19,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/JNJ?interval=1d&events=splits (2022-04-01),,2
+Johnson & Johnson,JNJ,2022Q1,2022-04-22,분기말 상장주식수,2631401804,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/200406/000020040622000048/,dei:EntityCommonStockSharesOutstanding 클래스 합,2
+Johnson & Johnson,JNJ,2022Q1,2022-04-01,분기말 시가총액,468889487455,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/JNJ?interval=1d&events=splits (2022-04-01) ; https://www.sec.gov/Archives/edgar/data/200406/000020040622000048/,종가 178.19 × 주식수 2631401804,2
+Johnson & Johnson,JNJ,2022Q2,2022-07-03,분기별 매출액,24020000000,USD,공시,https://www.sec.gov/Archives/edgar/data/200406/000020040622000071/,,2
+Johnson & Johnson,JNJ,2022Q2,2022-07-03,분기별 영업이익,미확인,USD,미확인,SEC companyfacts CIK0000200406: 해당 보고서에 OperatingIncomeLoss 태그 없음(영업이익 미공시) ; https://www.sec.gov/Archives/edgar/data/200406/000020040622000071/,,2
+Johnson & Johnson,JNJ,2022Q2,2022-07-03,분기별 당기순이익(지배),4814000000,USD,공시,https://www.sec.gov/Archives/edgar/data/200406/000020040622000071/,,2
+Johnson & Johnson,JNJ,2022Q2,2022-07-03,분기별 영업활동현금흐름,5581000000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/200406/000020040622000071/ ; https://www.sec.gov/Archives/edgar/data/200406/000020040622000048/,누적 9560000000 − 직전누적 3979000000 (시작 2022-01-03),2
+Johnson & Johnson,JNJ,2022Q2,2022-07-03,분기말 자산총계,177724000000,USD,공시,https://www.sec.gov/Archives/edgar/data/200406/000020040622000071/,,2
+Johnson & Johnson,JNJ,2022Q2,2022-07-03,분기말 부채총계,101367000000,USD,공시,https://www.sec.gov/Archives/edgar/data/200406/000020040622000071/,,2
+Johnson & Johnson,JNJ,2022Q2,2022-07-03,분기말 총자본(자기자본),76357000000,USD,공시,https://www.sec.gov/Archives/edgar/data/200406/000020040622000071/,,2
+Johnson & Johnson,JNJ,2022Q2,2022-07-03,분기말 지배지분 자본,76357000000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/200406/000020040622000071/,"StockholdersEquityIncludingPortionAttributableToNoncontrollingInterest, MinorityInterest 태그 없음",2
+Johnson & Johnson,JNJ,2022Q2,2022-07-01,분기말 종가,179.52,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/JNJ?interval=1d&events=splits (2022-07-01),,2
+Johnson & Johnson,JNJ,2022Q2,2022-07-22,분기말 상장주식수,2629179895,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/200406/000020040622000071/,dei:EntityCommonStockSharesOutstanding 클래스 합,2
+Johnson & Johnson,JNJ,2022Q2,2022-07-01,분기말 시가총액,471990374750,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/JNJ?interval=1d&events=splits (2022-07-01) ; https://www.sec.gov/Archives/edgar/data/200406/000020040622000071/,종가 179.52 × 주식수 2629179895,2
+Johnson & Johnson,JNJ,2022Q3,2022-10-02,분기별 매출액,23791000000,USD,공시,https://www.sec.gov/Archives/edgar/data/200406/000020040622000086/,,2
+Johnson & Johnson,JNJ,2022Q3,2022-10-02,분기별 영업이익,미확인,USD,미확인,SEC companyfacts CIK0000200406: 해당 보고서에 OperatingIncomeLoss 태그 없음(영업이익 미공시) ; https://www.sec.gov/Archives/edgar/data/200406/000020040622000086/,,2
+Johnson & Johnson,JNJ,2022Q3,2022-10-02,분기별 당기순이익(지배),4458000000,USD,공시,https://www.sec.gov/Archives/edgar/data/200406/000020040622000086/,,2
+Johnson & Johnson,JNJ,2022Q3,2022-10-02,분기별 영업활동현금흐름,6284000000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/200406/000020040622000086/ ; https://www.sec.gov/Archives/edgar/data/200406/000020040622000071/,누적 15844000000 − 직전누적 9560000000 (시작 2022-01-03),2
+Johnson & Johnson,JNJ,2022Q3,2022-10-02,분기말 자산총계,175124000000,USD,공시,https://www.sec.gov/Archives/edgar/data/200406/000020040622000086/,,2
+Johnson & Johnson,JNJ,2022Q3,2022-10-02,분기말 부채총계,100525000000,USD,공시,https://www.sec.gov/Archives/edgar/data/200406/000020040622000086/,,2
+Johnson & Johnson,JNJ,2022Q3,2022-10-02,분기말 총자본(자기자본),74599000000,USD,공시,https://www.sec.gov/Archives/edgar/data/200406/000020040622000086/,,2
+Johnson & Johnson,JNJ,2022Q3,2022-10-02,분기말 지배지분 자본,74599000000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/200406/000020040622000086/,"StockholdersEquityIncludingPortionAttributableToNoncontrollingInterest, MinorityInterest 태그 없음",2
+Johnson & Johnson,JNJ,2022Q3,2022-09-30,분기말 종가,163.36,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/JNJ?interval=1d&events=splits (2022-09-30),,2
+Johnson & Johnson,JNJ,2022Q3,2022-10-21,분기말 상장주식수,2614483607,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/200406/000020040622000086/,dei:EntityCommonStockSharesOutstanding 클래스 합,2
+Johnson & Johnson,JNJ,2022Q3,2022-09-30,분기말 시가총액,427102042040,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/JNJ?interval=1d&events=splits (2022-09-30) ; https://www.sec.gov/Archives/edgar/data/200406/000020040622000086/,종가 163.36 × 주식수 2614483607,2
+Johnson & Johnson,JNJ,2022Q4,2023-01-01,분기별 매출액,23706000000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/200406/000020040623000016/ ; https://www.sec.gov/Archives/edgar/data/200406/000020040622000086/,연간 94943000000 − 9개월누적 71237000000 (RevenueFromContractWithCustomerExcludingAssessedTax),2
+Johnson & Johnson,JNJ,2022Q4,2023-01-01,분기별 영업이익,미확인,USD,미확인,SEC companyfacts CIK0000200406: 해당 보고서에 OperatingIncomeLoss 태그 없음(영업이익 미공시) ; https://www.sec.gov/Archives/edgar/data/200406/000020040623000016/,,2
+Johnson & Johnson,JNJ,2022Q4,2023-01-01,분기별 당기순이익(지배),3520000000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/200406/000020040623000016/ ; https://www.sec.gov/Archives/edgar/data/200406/000020040622000086/,연간 17941000000 − 9개월누적 14421000000 (NetIncomeLoss),2
+Johnson & Johnson,JNJ,2022Q4,2023-01-01,분기별 영업활동현금흐름,5350000000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/200406/000020040623000016/ ; https://www.sec.gov/Archives/edgar/data/200406/000020040622000086/,누적 21194000000 − 직전누적 15844000000 (시작 2022-01-03),2
+Johnson & Johnson,JNJ,2022Q4,2023-01-01,분기말 자산총계,187378000000,USD,공시,https://www.sec.gov/Archives/edgar/data/200406/000020040623000016/,,2
+Johnson & Johnson,JNJ,2022Q4,2023-01-01,분기말 부채총계,110574000000,USD,공시,https://www.sec.gov/Archives/edgar/data/200406/000020040623000016/,,2
+Johnson & Johnson,JNJ,2022Q4,2023-01-01,분기말 총자본(자기자본),76804000000,USD,공시,https://www.sec.gov/Archives/edgar/data/200406/000020040623000016/,,2
+Johnson & Johnson,JNJ,2022Q4,2023-01-01,분기말 지배지분 자본,76804000000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/200406/000020040623000016/,"StockholdersEquityIncludingPortionAttributableToNoncontrollingInterest, MinorityInterest 태그 없음",2
+Johnson & Johnson,JNJ,2022Q4,2022-12-30,분기말 종가,176.65,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/JNJ?interval=1d&events=splits (2022-12-30),,2
+Johnson & Johnson,JNJ,2022Q4,2023-02-10,분기말 상장주식수,2604286303,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/200406/000020040623000016/,dei:EntityCommonStockSharesOutstanding 클래스 합,2
+Johnson & Johnson,JNJ,2022Q4,2022-12-30,분기말 시가총액,460047175425,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/JNJ?interval=1d&events=splits (2022-12-30) ; https://www.sec.gov/Archives/edgar/data/200406/000020040623000016/,종가 176.65 × 주식수 2604286303,2
+Johnson & Johnson,JNJ,2023Q1,2023-04-02,분기별 매출액,24746000000,USD,공시,https://www.sec.gov/Archives/edgar/data/200406/000020040623000056/,,2
+Johnson & Johnson,JNJ,2023Q1,2023-04-02,분기별 영업이익,미확인,USD,미확인,SEC companyfacts CIK0000200406: 해당 보고서에 OperatingIncomeLoss 태그 없음(영업이익 미공시) ; https://www.sec.gov/Archives/edgar/data/200406/000020040623000056/,,2
+Johnson & Johnson,JNJ,2023Q1,2023-04-02,분기별 당기순이익(지배),-68000000,USD,공시,https://www.sec.gov/Archives/edgar/data/200406/000020040623000056/,,2
+Johnson & Johnson,JNJ,2023Q1,2023-04-02,분기별 영업활동현금흐름,3257000000,USD,공시,https://www.sec.gov/Archives/edgar/data/200406/000020040623000056/,,2
+Johnson & Johnson,JNJ,2023Q1,2023-04-02,분기말 자산총계,195969000000,USD,공시,https://www.sec.gov/Archives/edgar/data/200406/000020040623000056/,,2
+Johnson & Johnson,JNJ,2023Q1,2023-04-02,분기말 부채총계,125100000000,USD,공시,https://www.sec.gov/Archives/edgar/data/200406/000020040623000056/,,2
+Johnson & Johnson,JNJ,2023Q1,2023-04-02,분기말 총자본(자기자본),70869000000,USD,공시,https://www.sec.gov/Archives/edgar/data/200406/000020040623000056/,,2
+Johnson & Johnson,JNJ,2023Q1,2023-04-02,분기말 지배지분 자본,70869000000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/200406/000020040623000056/,"StockholdersEquityIncludingPortionAttributableToNoncontrollingInterest, MinorityInterest 태그 없음",2
+Johnson & Johnson,JNJ,2023Q1,2023-03-31,분기말 종가,155.0,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/JNJ?interval=1d&events=splits (2023-03-31),,2
+Johnson & Johnson,JNJ,2023Q1,2023-04-21,분기말 상장주식수,2598734075,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/200406/000020040623000056/,dei:EntityCommonStockSharesOutstanding 클래스 합,2
+Johnson & Johnson,JNJ,2023Q1,2023-03-31,분기말 시가총액,402803781625,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/JNJ?interval=1d&events=splits (2023-03-31) ; https://www.sec.gov/Archives/edgar/data/200406/000020040623000056/,종가 155.0 × 주식수 2598734075,2
+Johnson & Johnson,JNJ,2023Q2,2023-07-02,분기별 매출액,25530000000,USD,공시,https://www.sec.gov/Archives/edgar/data/200406/000020040623000082/,,2
+Johnson & Johnson,JNJ,2023Q2,2023-07-02,분기별 영업이익,미확인,USD,미확인,SEC companyfacts CIK0000200406: 해당 보고서에 OperatingIncomeLoss 태그 없음(영업이익 미공시) ; https://www.sec.gov/Archives/edgar/data/200406/000020040623000082/,,2
+Johnson & Johnson,JNJ,2023Q2,2023-07-02,분기별 당기순이익(지배),5144000000,USD,공시,https://www.sec.gov/Archives/edgar/data/200406/000020040623000082/,,2
+Johnson & Johnson,JNJ,2023Q2,2023-07-02,분기별 영업활동현금흐름,4182000000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/200406/000020040623000082/ ; https://www.sec.gov/Archives/edgar/data/200406/000020040623000056/,누적 7439000000 − 직전누적 3257000000 (시작 2023-01-02),2
+Johnson & Johnson,JNJ,2023Q2,2023-07-02,분기말 자산총계,191686000000,USD,공시,https://www.sec.gov/Archives/edgar/data/200406/000020040623000082/,,2
+Johnson & Johnson,JNJ,2023Q2,2023-07-02,분기말 부채총계,115277000000,USD,공시,https://www.sec.gov/Archives/edgar/data/200406/000020040623000082/,,2
+Johnson & Johnson,JNJ,2023Q2,2023-07-02,분기말 총자본(자기자본),76409000000,USD,공시,https://www.sec.gov/Archives/edgar/data/200406/000020040623000082/,,2
+Johnson & Johnson,JNJ,2023Q2,2023-07-02,분기말 지배지분 자본,75149000000,USD,공시,https://www.sec.gov/Archives/edgar/data/200406/000020040623000082/,,2
+Johnson & Johnson,JNJ,2023Q2,2023-06-30,분기말 종가,165.52,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/JNJ?interval=1d&events=splits (2023-06-30),,2
+Johnson & Johnson,JNJ,2023Q2,2023-07-24,분기말 상장주식수,2598969594,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/200406/000020040623000082/,dei:EntityCommonStockSharesOutstanding 클래스 합,2
+Johnson & Johnson,JNJ,2023Q2,2023-06-30,분기말 시가총액,430181447199,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/JNJ?interval=1d&events=splits (2023-06-30) ; https://www.sec.gov/Archives/edgar/data/200406/000020040623000082/,종가 165.52 × 주식수 2598969594,2
+Johnson & Johnson,JNJ,2023Q3,2023-10-01,분기별 매출액,21351000000,USD,공시,https://www.sec.gov/Archives/edgar/data/200406/000020040623000102/,,2
+Johnson & Johnson,JNJ,2023Q3,2023-10-01,분기별 영업이익,미확인,USD,미확인,SEC companyfacts CIK0000200406: 해당 보고서에 OperatingIncomeLoss 태그 없음(영업이익 미공시) ; https://www.sec.gov/Archives/edgar/data/200406/000020040623000102/,,2
+Johnson & Johnson,JNJ,2023Q3,2023-10-01,분기별 당기순이익(지배),26028000000,USD,공시,https://www.sec.gov/Archives/edgar/data/200406/000020040623000102/,,2
+Johnson & Johnson,JNJ,2023Q3,2023-10-01,분기별 영업활동현금흐름,7489000000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/200406/000020040623000102/ ; https://www.sec.gov/Archives/edgar/data/200406/000020040623000082/,누적 14928000000 − 직전누적 7439000000 (시작 2023-01-02),2
+Johnson & Johnson,JNJ,2023Q3,2023-10-01,분기말 자산총계,166061000000,USD,공시,https://www.sec.gov/Archives/edgar/data/200406/000020040623000102/,,2
+Johnson & Johnson,JNJ,2023Q3,2023-10-01,분기말 부채총계,94833000000,USD,공시,https://www.sec.gov/Archives/edgar/data/200406/000020040623000102/,,2
+Johnson & Johnson,JNJ,2023Q3,2023-10-01,분기말 총자본(자기자본),71228000000,USD,공시,https://www.sec.gov/Archives/edgar/data/200406/000020040623000102/,,2
+Johnson & Johnson,JNJ,2023Q3,2023-10-01,분기말 지배지분 자본,71228000000,USD,공시,https://www.sec.gov/Archives/edgar/data/200406/000020040623000102/,,2
+Johnson & Johnson,JNJ,2023Q3,2023-09-29,분기말 종가,155.75,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/JNJ?interval=1d&events=splits (2023-09-29),,2
+Johnson & Johnson,JNJ,2023Q3,2023-10-23,분기말 상장주식수,2407278620,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/200406/000020040623000102/,dei:EntityCommonStockSharesOutstanding 클래스 합,2
+Johnson & Johnson,JNJ,2023Q3,2023-09-29,분기말 시가총액,374933645065,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/JNJ?interval=1d&events=splits (2023-09-29) ; https://www.sec.gov/Archives/edgar/data/200406/000020040623000102/,종가 155.75 × 주식수 2407278620,2
+Johnson & Johnson,JNJ,2023Q4,2023-12-31,분기별 매출액,21395000000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/200406/000020040624000013/ ; https://www.sec.gov/Archives/edgar/data/200406/000020040623000102/,연간 85159000000 − 9개월누적 63764000000 (RevenueFromContractWithCustomerExcludingAssessedTax),2
+Johnson & Johnson,JNJ,2023Q4,2023-12-31,분기별 영업이익,미확인,USD,미확인,SEC companyfacts CIK0000200406: 해당 보고서에 OperatingIncomeLoss 태그 없음(영업이익 미공시) ; https://www.sec.gov/Archives/edgar/data/200406/000020040624000013/,,2
+Johnson & Johnson,JNJ,2023Q4,2023-12-31,분기별 당기순이익(지배),4049000000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/200406/000020040624000013/ ; https://www.sec.gov/Archives/edgar/data/200406/000020040623000102/,연간 35153000000 − 9개월누적 31104000000 (NetIncomeLoss),2
+Johnson & Johnson,JNJ,2023Q4,2023-12-31,분기별 영업활동현금흐름,7863000000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/200406/000020040624000013/ ; https://www.sec.gov/Archives/edgar/data/200406/000020040623000102/,누적 22791000000 − 직전누적 14928000000 (시작 2023-01-02),2
+Johnson & Johnson,JNJ,2023Q4,2023-12-31,분기말 자산총계,167558000000,USD,공시,https://www.sec.gov/Archives/edgar/data/200406/000020040624000013/,,2
+Johnson & Johnson,JNJ,2023Q4,2023-12-31,분기말 부채총계,98784000000,USD,공시,https://www.sec.gov/Archives/edgar/data/200406/000020040624000013/,,2
+Johnson & Johnson,JNJ,2023Q4,2023-12-31,분기말 총자본(자기자본),68774000000,USD,공시,https://www.sec.gov/Archives/edgar/data/200406/000020040624000013/,,2
+Johnson & Johnson,JNJ,2023Q4,2023-12-31,분기말 지배지분 자본,68774000000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/200406/000020040624000013/,"StockholdersEquityIncludingPortionAttributableToNoncontrollingInterest, MinorityInterest 태그 없음",2
+Johnson & Johnson,JNJ,2023Q4,2023-12-29,분기말 종가,156.74,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/JNJ?interval=1d&events=splits (2023-12-29),,2
+Johnson & Johnson,JNJ,2023Q4,2024-02-09,분기말 상장주식수,2408767228,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/200406/000020040624000013/,dei:EntityCommonStockSharesOutstanding 클래스 합,2
+Johnson & Johnson,JNJ,2023Q4,2023-12-29,분기말 시가총액,377550175317,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/JNJ?interval=1d&events=splits (2023-12-29) ; https://www.sec.gov/Archives/edgar/data/200406/000020040624000013/,종가 156.74 × 주식수 2408767228,2
+Johnson & Johnson,JNJ,2024Q1,2024-03-31,분기별 매출액,21383000000,USD,공시,https://www.sec.gov/Archives/edgar/data/200406/000020040624000049/,,2
+Johnson & Johnson,JNJ,2024Q1,2024-03-31,분기별 영업이익,미확인,USD,미확인,SEC companyfacts CIK0000200406: 해당 보고서에 OperatingIncomeLoss 태그 없음(영업이익 미공시) ; https://www.sec.gov/Archives/edgar/data/200406/000020040624000049/,,2
+Johnson & Johnson,JNJ,2024Q1,2024-03-31,분기별 당기순이익(지배),3255000000,USD,공시,https://www.sec.gov/Archives/edgar/data/200406/000020040624000049/,,2
+Johnson & Johnson,JNJ,2024Q1,2024-03-31,분기별 영업활동현금흐름,3657000000,USD,공시,https://www.sec.gov/Archives/edgar/data/200406/000020040624000049/,,2
+Johnson & Johnson,JNJ,2024Q1,2024-03-31,분기말 자산총계,171966000000,USD,공시,https://www.sec.gov/Archives/edgar/data/200406/000020040624000049/,,2
+Johnson & Johnson,JNJ,2024Q1,2024-03-31,분기말 부채총계,101946000000,USD,공시,https://www.sec.gov/Archives/edgar/data/200406/000020040624000049/,,2
+Johnson & Johnson,JNJ,2024Q1,2024-03-31,분기말 총자본(자기자본),70020000000,USD,공시,https://www.sec.gov/Archives/edgar/data/200406/000020040624000049/,,2
+Johnson & Johnson,JNJ,2024Q1,2024-03-31,분기말 지배지분 자본,70020000000,USD,공시,https://www.sec.gov/Archives/edgar/data/200406/000020040624000049/,,2
+Johnson & Johnson,JNJ,2024Q1,2024-03-28,분기말 종가,158.19,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/JNJ?interval=1d&events=splits (2024-03-28),,2
+Johnson & Johnson,JNJ,2024Q1,2024-04-25,분기말 상장주식수,2406679183,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/200406/000020040624000049/,dei:EntityCommonStockSharesOutstanding 클래스 합,2
+Johnson & Johnson,JNJ,2024Q1,2024-03-28,분기말 시가총액,380712579959,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/JNJ?interval=1d&events=splits (2024-03-28) ; https://www.sec.gov/Archives/edgar/data/200406/000020040624000049/,종가 158.19 × 주식수 2406679183,2
+Johnson & Johnson,JNJ,2024Q2,2024-06-30,분기별 매출액,22447000000,USD,공시,https://www.sec.gov/Archives/edgar/data/200406/000020040624000075/,,2
+Johnson & Johnson,JNJ,2024Q2,2024-06-30,분기별 영업이익,미확인,USD,미확인,SEC companyfacts CIK0000200406: 해당 보고서에 OperatingIncomeLoss 태그 없음(영업이익 미공시) ; https://www.sec.gov/Archives/edgar/data/200406/000020040624000075/,,2
+Johnson & Johnson,JNJ,2024Q2,2024-06-30,분기별 당기순이익(지배),4686000000,USD,공시,https://www.sec.gov/Archives/edgar/data/200406/000020040624000075/,,2
+Johnson & Johnson,JNJ,2024Q2,2024-06-30,분기별 영업활동현금흐름,5633000000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/200406/000020040624000075/ ; https://www.sec.gov/Archives/edgar/data/200406/000020040624000049/,누적 9290000000 − 직전누적 3657000000 (시작 2024-01-01),2
+Johnson & Johnson,JNJ,2024Q2,2024-06-30,분기말 자산총계,181088000000,USD,공시,https://www.sec.gov/Archives/edgar/data/200406/000020040624000075/,,2
+Johnson & Johnson,JNJ,2024Q2,2024-06-30,분기말 부채총계,109550000000,USD,공시,https://www.sec.gov/Archives/edgar/data/200406/000020040624000075/,,2
+Johnson & Johnson,JNJ,2024Q2,2024-06-30,분기말 총자본(자기자본),71538000000,USD,공시,https://www.sec.gov/Archives/edgar/data/200406/000020040624000075/,,2
+Johnson & Johnson,JNJ,2024Q2,2024-06-30,분기말 지배지분 자본,71538000000,USD,공시,https://www.sec.gov/Archives/edgar/data/200406/000020040624000075/,,2
+Johnson & Johnson,JNJ,2024Q2,2024-06-28,분기말 종가,146.16,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/JNJ?interval=1d&events=splits (2024-06-28),,2
+Johnson & Johnson,JNJ,2024Q2,2024-07-19,분기말 상장주식수,2407243667,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/200406/000020040624000075/,dei:EntityCommonStockSharesOutstanding 클래스 합,2
+Johnson & Johnson,JNJ,2024Q2,2024-06-28,분기말 시가총액,351842734369,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/JNJ?interval=1d&events=splits (2024-06-28) ; https://www.sec.gov/Archives/edgar/data/200406/000020040624000075/,종가 146.16 × 주식수 2407243667,2
+Johnson & Johnson,JNJ,2024Q3,2024-09-29,분기별 매출액,22471000000,USD,공시,https://www.sec.gov/Archives/edgar/data/200406/000020040624000096/,,2
+Johnson & Johnson,JNJ,2024Q3,2024-09-29,분기별 영업이익,미확인,USD,미확인,SEC companyfacts CIK0000200406: 해당 보고서에 OperatingIncomeLoss 태그 없음(영업이익 미공시) ; https://www.sec.gov/Archives/edgar/data/200406/000020040624000096/,,2
+Johnson & Johnson,JNJ,2024Q3,2024-09-29,분기별 당기순이익(지배),2694000000,USD,공시,https://www.sec.gov/Archives/edgar/data/200406/000020040624000096/,,2
+Johnson & Johnson,JNJ,2024Q3,2024-09-29,분기별 영업활동현금흐름,7993000000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/200406/000020040624000096/ ; https://www.sec.gov/Archives/edgar/data/200406/000020040624000075/,누적 17283000000 − 직전누적 9290000000 (시작 2024-01-01),2
+Johnson & Johnson,JNJ,2024Q3,2024-09-29,분기말 자산총계,178287000000,USD,공시,https://www.sec.gov/Archives/edgar/data/200406/000020040624000096/,,2
+Johnson & Johnson,JNJ,2024Q3,2024-09-29,분기말 부채총계,108129000000,USD,공시,https://www.sec.gov/Archives/edgar/data/200406/000020040624000096/,,2
+Johnson & Johnson,JNJ,2024Q3,2024-09-29,분기말 총자본(자기자본),70158000000,USD,공시,https://www.sec.gov/Archives/edgar/data/200406/000020040624000096/,,2
+Johnson & Johnson,JNJ,2024Q3,2024-09-29,분기말 지배지분 자본,70158000000,USD,공시,https://www.sec.gov/Archives/edgar/data/200406/000020040624000096/,,2
+Johnson & Johnson,JNJ,2024Q3,2024-09-27,분기말 종가,161.4,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/JNJ?interval=1d&events=splits (2024-09-27),,2
+Johnson & Johnson,JNJ,2024Q3,2024-10-16,분기말 상장주식수,2407622972,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/200406/000020040624000096/,dei:EntityCommonStockSharesOutstanding 클래스 합,2
+Johnson & Johnson,JNJ,2024Q3,2024-09-27,분기말 시가총액,388590347681,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/JNJ?interval=1d&events=splits (2024-09-27) ; https://www.sec.gov/Archives/edgar/data/200406/000020040624000096/,종가 161.4 × 주식수 2407622972,2
+Johnson & Johnson,JNJ,2024Q4,2024-12-29,분기별 매출액,22520000000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/200406/000020040625000038/ ; https://www.sec.gov/Archives/edgar/data/200406/000020040624000096/,연간 88821000000 − 9개월누적 66301000000 (RevenueFromContractWithCustomerExcludingAssessedTax),2
+Johnson & Johnson,JNJ,2024Q4,2024-12-29,분기별 영업이익,미확인,USD,미확인,SEC companyfacts CIK0000200406: 해당 보고서에 OperatingIncomeLoss 태그 없음(영업이익 미공시) ; https://www.sec.gov/Archives/edgar/data/200406/000020040625000038/,,2
+Johnson & Johnson,JNJ,2024Q4,2024-12-29,분기별 당기순이익(지배),3431000000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/200406/000020040625000038/ ; https://www.sec.gov/Archives/edgar/data/200406/000020040624000096/,연간 14066000000 − 9개월누적 10635000000 (NetIncomeLoss),2
+Johnson & Johnson,JNJ,2024Q4,2024-12-29,분기별 영업활동현금흐름,6983000000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/200406/000020040625000038/ ; https://www.sec.gov/Archives/edgar/data/200406/000020040624000096/,누적 24266000000 − 직전누적 17283000000 (시작 2024-01-01),2
+Johnson & Johnson,JNJ,2024Q4,2024-12-29,분기말 자산총계,180104000000,USD,공시,https://www.sec.gov/Archives/edgar/data/200406/000020040625000038/,,2
+Johnson & Johnson,JNJ,2024Q4,2024-12-29,분기말 부채총계,108614000000,USD,공시,https://www.sec.gov/Archives/edgar/data/200406/000020040625000038/,,2
+Johnson & Johnson,JNJ,2024Q4,2024-12-29,분기말 총자본(자기자본),71490000000,USD,공시,https://www.sec.gov/Archives/edgar/data/200406/000020040625000038/,,2
+Johnson & Johnson,JNJ,2024Q4,2024-12-29,분기말 지배지분 자본,71490000000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/200406/000020040625000038/,"StockholdersEquityIncludingPortionAttributableToNoncontrollingInterest, MinorityInterest 태그 없음",2
+Johnson & Johnson,JNJ,2024Q4,2024-12-27,분기말 종가,145.05,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/JNJ?interval=1d&events=splits (2024-12-27),,2
+Johnson & Johnson,JNJ,2024Q4,2025-02-06,분기말 상장주식수,2407616693,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/200406/000020040625000038/,dei:EntityCommonStockSharesOutstanding 클래스 합,2
+Johnson & Johnson,JNJ,2024Q4,2024-12-27,분기말 시가총액,349224801320,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/JNJ?interval=1d&events=splits (2024-12-27) ; https://www.sec.gov/Archives/edgar/data/200406/000020040625000038/,종가 145.05 × 주식수 2407616693,2
+Johnson & Johnson,JNJ,2025Q1,2025-03-30,분기별 매출액,21893000000,USD,공시,https://www.sec.gov/Archives/edgar/data/200406/000020040625000119/,,2
+Johnson & Johnson,JNJ,2025Q1,2025-03-30,분기별 영업이익,미확인,USD,미확인,SEC companyfacts CIK0000200406: 해당 보고서에 OperatingIncomeLoss 태그 없음(영업이익 미공시) ; https://www.sec.gov/Archives/edgar/data/200406/000020040625000119/,,2
+Johnson & Johnson,JNJ,2025Q1,2025-03-30,분기별 당기순이익(지배),10999000000,USD,공시,https://www.sec.gov/Archives/edgar/data/200406/000020040625000119/,,2
+Johnson & Johnson,JNJ,2025Q1,2025-03-30,분기별 영업활동현금흐름,4174000000,USD,공시,https://www.sec.gov/Archives/edgar/data/200406/000020040625000119/,,2
+Johnson & Johnson,JNJ,2025Q1,2025-03-30,분기말 자산총계,193671000000,USD,공시,https://www.sec.gov/Archives/edgar/data/200406/000020040625000119/,,2
+Johnson & Johnson,JNJ,2025Q1,2025-03-30,분기말 부채총계,115562000000,USD,공시,https://www.sec.gov/Archives/edgar/data/200406/000020040625000119/,,2
+Johnson & Johnson,JNJ,2025Q1,2025-03-30,분기말 총자본(자기자본),78109000000,USD,공시,https://www.sec.gov/Archives/edgar/data/200406/000020040625000119/,,2
+Johnson & Johnson,JNJ,2025Q1,2025-03-30,분기말 지배지분 자본,78109000000,USD,공시,https://www.sec.gov/Archives/edgar/data/200406/000020040625000119/,,2
+Johnson & Johnson,JNJ,2025Q1,2025-03-28,분기말 종가,163.71,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/JNJ?interval=1d&events=splits (2025-03-28),,2
+Johnson & Johnson,JNJ,2025Q1,2025-04-18,분기말 상장주식수,2406073279,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/200406/000020040625000119/,dei:EntityCommonStockSharesOutstanding 클래스 합,2
+Johnson & Johnson,JNJ,2025Q1,2025-03-28,분기말 시가총액,393898256505,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/JNJ?interval=1d&events=splits (2025-03-28) ; https://www.sec.gov/Archives/edgar/data/200406/000020040625000119/,종가 163.71 × 주식수 2406073279,2
+Johnson & Johnson,JNJ,2025Q2,2025-06-29,분기별 매출액,23743000000,USD,공시,https://www.sec.gov/Archives/edgar/data/200406/000020040625000178/,,2
+Johnson & Johnson,JNJ,2025Q2,2025-06-29,분기별 영업이익,미확인,USD,미확인,SEC companyfacts CIK0000200406: 해당 보고서에 OperatingIncomeLoss 태그 없음(영업이익 미공시) ; https://www.sec.gov/Archives/edgar/data/200406/000020040625000178/,,2
+Johnson & Johnson,JNJ,2025Q2,2025-06-29,분기별 당기순이익(지배),5537000000,USD,공시,https://www.sec.gov/Archives/edgar/data/200406/000020040625000178/,,2
+Johnson & Johnson,JNJ,2025Q2,2025-06-29,분기별 영업활동현금흐름,3878000000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/200406/000020040625000178/ ; https://www.sec.gov/Archives/edgar/data/200406/000020040625000119/,누적 8052000000 − 직전누적 4174000000 (시작 2024-12-30),2
+Johnson & Johnson,JNJ,2025Q2,2025-06-29,분기말 자산총계,193389000000,USD,공시,https://www.sec.gov/Archives/edgar/data/200406/000020040625000178/,,2
+Johnson & Johnson,JNJ,2025Q2,2025-06-29,분기말 부채총계,114916000000,USD,공시,https://www.sec.gov/Archives/edgar/data/200406/000020040625000178/,,2
+Johnson & Johnson,JNJ,2025Q2,2025-06-29,분기말 총자본(자기자본),78473000000,USD,공시,https://www.sec.gov/Archives/edgar/data/200406/000020040625000178/,,2
+Johnson & Johnson,JNJ,2025Q2,2025-06-29,분기말 지배지분 자본,78473000000,USD,공시,https://www.sec.gov/Archives/edgar/data/200406/000020040625000178/,,2
+Johnson & Johnson,JNJ,2025Q2,2025-06-27,분기말 종가,152.41,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/JNJ?interval=1d&events=splits (2025-06-27),,2
+Johnson & Johnson,JNJ,2025Q2,2025-07-18,분기말 상장주식수,2408338872,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/200406/000020040625000178/,dei:EntityCommonStockSharesOutstanding 클래스 합,2
+Johnson & Johnson,JNJ,2025Q2,2025-06-27,분기말 시가총액,367054927482,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/JNJ?interval=1d&events=splits (2025-06-27) ; https://www.sec.gov/Archives/edgar/data/200406/000020040625000178/,종가 152.41 × 주식수 2408338872,2
+Johnson & Johnson,JNJ,2025Q3,2025-09-28,분기별 매출액,23993000000,USD,공시,https://www.sec.gov/Archives/edgar/data/200406/000020040625000209/,,2
+Johnson & Johnson,JNJ,2025Q3,2025-09-28,분기별 영업이익,미확인,USD,미확인,SEC companyfacts CIK0000200406: 해당 보고서에 OperatingIncomeLoss 태그 없음(영업이익 미공시) ; https://www.sec.gov/Archives/edgar/data/200406/000020040625000209/,,2
+Johnson & Johnson,JNJ,2025Q3,2025-09-28,분기별 당기순이익(지배),5152000000,USD,공시,https://www.sec.gov/Archives/edgar/data/200406/000020040625000209/,,2
+Johnson & Johnson,JNJ,2025Q3,2025-09-28,분기별 영업활동현금흐름,9169000000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/200406/000020040625000209/ ; https://www.sec.gov/Archives/edgar/data/200406/000020040625000178/,누적 17221000000 − 직전누적 8052000000 (시작 2024-12-30),2
+Johnson & Johnson,JNJ,2025Q3,2025-09-28,분기말 자산총계,192816000000,USD,공시,https://www.sec.gov/Archives/edgar/data/200406/000020040625000209/,,2
+Johnson & Johnson,JNJ,2025Q3,2025-09-28,분기말 부채총계,113539000000,USD,공시,https://www.sec.gov/Archives/edgar/data/200406/000020040625000209/,,2
+Johnson & Johnson,JNJ,2025Q3,2025-09-28,분기말 총자본(자기자본),79277000000,USD,공시,https://www.sec.gov/Archives/edgar/data/200406/000020040625000209/,,2
+Johnson & Johnson,JNJ,2025Q3,2025-09-28,분기말 지배지분 자본,79277000000,USD,공시,https://www.sec.gov/Archives/edgar/data/200406/000020040625000209/,,2
+Johnson & Johnson,JNJ,2025Q3,2025-09-26,분기말 종가,179.71,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/JNJ?interval=1d&events=splits (2025-09-26),,2
+Johnson & Johnson,JNJ,2025Q3,2025-10-17,분기말 상장주식수,2409295102,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/200406/000020040625000209/,dei:EntityCommonStockSharesOutstanding 클래스 합,2
+Johnson & Johnson,JNJ,2025Q3,2025-09-26,분기말 시가총액,432974422780,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/JNJ?interval=1d&events=splits (2025-09-26) ; https://www.sec.gov/Archives/edgar/data/200406/000020040625000209/,종가 179.71 × 주식수 2409295102,2
+Johnson & Johnson,JNJ,2025Q4,2025-12-28,분기별 매출액,24564000000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/200406/000020040626000016/ ; https://www.sec.gov/Archives/edgar/data/200406/000020040625000209/,연간 94193000000 − 9개월누적 69629000000 (RevenueFromContractWithCustomerExcludingAssessedTax),2
+Johnson & Johnson,JNJ,2025Q4,2025-12-28,분기별 영업이익,미확인,USD,미확인,SEC companyfacts CIK0000200406: 해당 보고서에 OperatingIncomeLoss 태그 없음(영업이익 미공시) ; https://www.sec.gov/Archives/edgar/data/200406/000020040626000016/,,2
+Johnson & Johnson,JNJ,2025Q4,2025-12-28,분기별 당기순이익(지배),5116000000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/200406/000020040626000016/ ; https://www.sec.gov/Archives/edgar/data/200406/000020040625000209/,연간 26804000000 − 9개월누적 21688000000 (NetIncomeLoss),2
+Johnson & Johnson,JNJ,2025Q4,2025-12-28,분기별 영업활동현금흐름,7309000000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/200406/000020040626000016/ ; https://www.sec.gov/Archives/edgar/data/200406/000020040625000209/,누적 24530000000 − 직전누적 17221000000 (시작 2024-12-30),2
+Johnson & Johnson,JNJ,2025Q4,2025-12-28,분기말 자산총계,199210000000,USD,공시,https://www.sec.gov/Archives/edgar/data/200406/000020040626000016/,,2
+Johnson & Johnson,JNJ,2025Q4,2025-12-28,분기말 부채총계,117666000000,USD,공시,https://www.sec.gov/Archives/edgar/data/200406/000020040626000016/,,2
+Johnson & Johnson,JNJ,2025Q4,2025-12-28,분기말 총자본(자기자본),81544000000,USD,공시,https://www.sec.gov/Archives/edgar/data/200406/000020040626000016/,,2
+Johnson & Johnson,JNJ,2025Q4,2025-12-28,분기말 지배지분 자본,81544000000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/200406/000020040626000016/,"StockholdersEquityIncludingPortionAttributableToNoncontrollingInterest, MinorityInterest 태그 없음",2
+Johnson & Johnson,JNJ,2025Q4,2025-12-26,분기말 종가,207.63,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/JNJ?interval=1d&events=splits (2025-12-26),,2
+Johnson & Johnson,JNJ,2025Q4,2026-02-06,분기말 상장주식수,2409898936,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/200406/000020040626000016/,dei:EntityCommonStockSharesOutstanding 클래스 합,2
+Johnson & Johnson,JNJ,2025Q4,2025-12-26,분기말 시가총액,500367316082,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/JNJ?interval=1d&events=splits (2025-12-26) ; https://www.sec.gov/Archives/edgar/data/200406/000020040626000016/,종가 207.63 × 주식수 2409898936,2
+Johnson & Johnson,JNJ,2026Q1,2026-03-29,분기별 매출액,24062000000,USD,공시,https://www.sec.gov/Archives/edgar/data/200406/000020040626000087/,,2
+Johnson & Johnson,JNJ,2026Q1,2026-03-29,분기별 영업이익,미확인,USD,미확인,SEC companyfacts CIK0000200406: 해당 보고서에 OperatingIncomeLoss 태그 없음(영업이익 미공시) ; https://www.sec.gov/Archives/edgar/data/200406/000020040626000087/,,2
+Johnson & Johnson,JNJ,2026Q1,2026-03-29,분기별 당기순이익(지배),5235000000,USD,공시,https://www.sec.gov/Archives/edgar/data/200406/000020040626000087/,,2
+Johnson & Johnson,JNJ,2026Q1,2026-03-29,분기별 영업활동현금흐름,2514000000,USD,공시,https://www.sec.gov/Archives/edgar/data/200406/000020040626000087/,,2
+Johnson & Johnson,JNJ,2026Q1,2026-03-29,분기말 자산총계,200894000000,USD,공시,https://www.sec.gov/Archives/edgar/data/200406/000020040626000087/,,2
+Johnson & Johnson,JNJ,2026Q1,2026-03-29,분기말 부채총계,119708000000,USD,공시,https://www.sec.gov/Archives/edgar/data/200406/000020040626000087/,,2
+Johnson & Johnson,JNJ,2026Q1,2026-03-29,분기말 총자본(자기자본),81186000000,USD,공시,https://www.sec.gov/Archives/edgar/data/200406/000020040626000087/,,2
+Johnson & Johnson,JNJ,2026Q1,2026-03-29,분기말 지배지분 자본,81186000000,USD,공시,https://www.sec.gov/Archives/edgar/data/200406/000020040626000087/,,2
+Johnson & Johnson,JNJ,2026Q1,2026-03-27,분기말 종가,240.45,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/JNJ?interval=1d&events=splits (2026-03-27),,2
+Johnson & Johnson,JNJ,2026Q1,2026-04-17,분기말 상장주식수,2407216971,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/200406/000020040626000087/,dei:EntityCommonStockSharesOutstanding 클래스 합,2
+Johnson & Johnson,JNJ,2026Q1,2026-03-27,분기말 시가총액,578815320677,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/JNJ?interval=1d&events=splits (2026-03-27) ; https://www.sec.gov/Archives/edgar/data/200406/000020040626000087/,종가 240.45 × 주식수 2407216971,2
+Johnson & Johnson,JNJ,2026Q2,2026-06-28,분기별 매출액,25310000000,USD,공시,https://www.sec.gov/Archives/edgar/data/200406/000020040626000153/,,2
+Johnson & Johnson,JNJ,2026Q2,2026-06-28,분기별 영업이익,미확인,USD,미확인,SEC companyfacts CIK0000200406: 해당 보고서에 OperatingIncomeLoss 태그 없음(영업이익 미공시) ; https://www.sec.gov/Archives/edgar/data/200406/000020040626000153/,,2
+Johnson & Johnson,JNJ,2026Q2,2026-06-28,분기별 당기순이익(지배),5534000000,USD,공시,https://www.sec.gov/Archives/edgar/data/200406/000020040626000153/,,2
+Johnson & Johnson,JNJ,2026Q2,2026-06-28,분기별 영업활동현금흐름,8616000000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/200406/000020040626000153/ ; https://www.sec.gov/Archives/edgar/data/200406/000020040626000087/,누적 11130000000 − 직전누적 2514000000 (시작 2025-12-29),2
+Johnson & Johnson,JNJ,2026Q2,2026-06-28,분기말 자산총계,201061000000,USD,공시,https://www.sec.gov/Archives/edgar/data/200406/000020040626000153/,,2
+Johnson & Johnson,JNJ,2026Q2,2026-06-28,분기말 부채총계,116090000000,USD,공시,https://www.sec.gov/Archives/edgar/data/200406/000020040626000153/,,2
+Johnson & Johnson,JNJ,2026Q2,2026-06-28,분기말 총자본(자기자본),84971000000,USD,공시,https://www.sec.gov/Archives/edgar/data/200406/000020040626000153/,,2
+Johnson & Johnson,JNJ,2026Q2,2026-06-28,분기말 지배지분 자본,84971000000,USD,공시,https://www.sec.gov/Archives/edgar/data/200406/000020040626000153/,,2
+Johnson & Johnson,JNJ,2026Q2,2026-06-26,분기말 종가,254.66,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/JNJ?interval=1d&events=splits (2026-06-26),,2
+Johnson & Johnson,JNJ,2026Q2,2026-07-17,분기말 상장주식수,2409898597,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/200406/000020040626000153/,dei:EntityCommonStockSharesOutstanding 클래스 합,2
+Johnson & Johnson,JNJ,2026Q2,2026-06-26,분기말 시가총액,613704776712,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/JNJ?interval=1d&events=splits (2026-06-26) ; https://www.sec.gov/Archives/edgar/data/200406/000020040626000153/,종가 254.66 × 주식수 2409898597,2

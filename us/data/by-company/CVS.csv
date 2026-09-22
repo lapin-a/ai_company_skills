@@ -1,0 +1,727 @@
+﻿기업,종목코드,기간,기준일,항목,값,통화,값구분,출처,검산,라운드
+CVS Health,CVS,2010Q1,2010-03-31,분기별 매출액,23760000000,USD,공시,https://www.sec.gov/Archives/edgar/data/64803/000119312510106601/,,6
+CVS Health,CVS,2010Q1,2010-03-31,분기별 영업이익,1410000000,USD,공시,https://www.sec.gov/Archives/edgar/data/64803/000119312510106601/,,6
+CVS Health,CVS,2010Q1,2010-03-31,분기별 당기순이익(지배),771000000,USD,공시,https://www.sec.gov/Archives/edgar/data/64803/000119312510106601/,,6
+CVS Health,CVS,2010Q1,2010-03-31,분기별 영업활동현금흐름,1060000000,USD,공시,https://www.sec.gov/Archives/edgar/data/64803/000119312510106601/,,6
+CVS Health,CVS,2010Q1,2010-03-31,분기말 자산총계,61284000000,USD,공시,https://www.sec.gov/Archives/edgar/data/64803/000119312510106601/,,6
+CVS Health,CVS,2010Q1,2010-03-31,분기말 부채총계,25590000000,USD,계산(부채및자본-총자본),https://www.sec.gov/Archives/edgar/data/64803/000119312510106601/,부채및자본 61284000000 − 총자본 35694000000,6
+CVS Health,CVS,2010Q1,2010-03-31,분기말 총자본(자기자본),35694000000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/64803/000119312510106601/,"StockholdersEquity, MinorityInterest 태그 없음",6
+CVS Health,CVS,2010Q1,2010-03-31,분기말 지배지분 자본,35694000000,USD,공시,https://www.sec.gov/Archives/edgar/data/64803/000119312510106601/,,6
+CVS Health,CVS,2010Q1,2010-03-31,분기말 종가,36.56,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/CVS?interval=1d&events=splits (2010-03-31),,6
+CVS Health,CVS,2010Q1,2010-04-27,분기말 상장주식수,1360884000,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/64803/000119312510106601/,dei:EntityCommonStockSharesOutstanding 클래스 합,6
+CVS Health,CVS,2010Q1,2010-03-31,분기말 시가총액,49753919040,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/CVS?interval=1d&events=splits (2010-03-31) ; https://www.sec.gov/Archives/edgar/data/64803/000119312510106601/,종가 36.56 × 주식수 1360884000,6
+CVS Health,CVS,2010Q2,2010-06-30,분기별 매출액,24007000000,USD,공시,https://www.sec.gov/Archives/edgar/data/64803/000119312510169312/,,6
+CVS Health,CVS,2010Q2,2010-06-30,분기별 영업이익,1501000000,USD,공시,https://www.sec.gov/Archives/edgar/data/64803/000119312510169312/,,6
+CVS Health,CVS,2010Q2,2010-06-30,분기별 당기순이익(지배),821000000,USD,공시,https://www.sec.gov/Archives/edgar/data/64803/000119312510169312/,,6
+CVS Health,CVS,2010Q2,2010-06-30,분기별 영업활동현금흐름,652000000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/64803/000119312510169312/ ; https://www.sec.gov/Archives/edgar/data/64803/000119312510106601/,누적 1712000000 − 직전누적 1060000000 (시작 2010-01-01),6
+CVS Health,CVS,2010Q2,2010-06-30,분기말 자산총계,61524000000,USD,공시,https://www.sec.gov/Archives/edgar/data/64803/000119312510169312/,,6
+CVS Health,CVS,2010Q2,2010-06-30,분기말 부채총계,25652000000,USD,계산(부채및자본-총자본),https://www.sec.gov/Archives/edgar/data/64803/000119312510169312/,부채및자본 61524000000 − 총자본 35872000000,6
+CVS Health,CVS,2010Q2,2010-06-30,분기말 총자본(자기자본),35872000000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/64803/000119312510169312/,"StockholdersEquity, MinorityInterest 태그 없음",6
+CVS Health,CVS,2010Q2,2010-06-30,분기말 지배지분 자본,35872000000,USD,공시,https://www.sec.gov/Archives/edgar/data/64803/000119312510169312/,,6
+CVS Health,CVS,2010Q2,2010-06-30,분기말 종가,29.32,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/CVS?interval=1d&events=splits (2010-06-30),,6
+CVS Health,CVS,2010Q2,2010-07-21,분기말 상장주식수,1358218000,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/64803/000119312510169312/,dei:EntityCommonStockSharesOutstanding 클래스 합,6
+CVS Health,CVS,2010Q2,2010-06-30,분기말 시가총액,39822951760,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/CVS?interval=1d&events=splits (2010-06-30) ; https://www.sec.gov/Archives/edgar/data/64803/000119312510169312/,종가 29.32 × 주식수 1358218000,6
+CVS Health,CVS,2010Q3,2010-09-30,분기별 매출액,23875000000,USD,공시,https://www.sec.gov/Archives/edgar/data/64803/000119312510246290/,,6
+CVS Health,CVS,2010Q3,2010-09-30,분기별 영업이익,1484000000,USD,공시,https://www.sec.gov/Archives/edgar/data/64803/000119312510246290/,,6
+CVS Health,CVS,2010Q3,2010-09-30,분기별 당기순이익(지배),809000000,USD,공시,https://www.sec.gov/Archives/edgar/data/64803/000119312510246290/,,6
+CVS Health,CVS,2010Q3,2010-09-30,분기별 영업활동현금흐름,1292000000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/64803/000119312510246290/ ; https://www.sec.gov/Archives/edgar/data/64803/000119312510169312/,누적 3004000000 − 직전누적 1712000000 (시작 2010-01-01),6
+CVS Health,CVS,2010Q3,2010-09-30,분기말 자산총계,61713000000,USD,공시,https://www.sec.gov/Archives/edgar/data/64803/000119312510246290/,,6
+CVS Health,CVS,2010Q3,2010-09-30,분기말 부채총계,25076000000,USD,계산(부채및자본-총자본),https://www.sec.gov/Archives/edgar/data/64803/000119312510246290/,부채및자본 61713000000 − 총자본 36637000000,6
+CVS Health,CVS,2010Q3,2010-09-30,분기말 총자본(자기자본),36637000000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/64803/000119312510246290/,"StockholdersEquity, MinorityInterest 태그 없음",6
+CVS Health,CVS,2010Q3,2010-09-30,분기말 지배지분 자본,36637000000,USD,공시,https://www.sec.gov/Archives/edgar/data/64803/000119312510246290/,,6
+CVS Health,CVS,2010Q3,2010-09-30,분기말 종가,31.47,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/CVS?interval=1d&events=splits (2010-09-30),,6
+CVS Health,CVS,2010Q3,2010-10-26,분기말 상장주식수,1358800000,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/64803/000119312510246290/,dei:EntityCommonStockSharesOutstanding 클래스 합,6
+CVS Health,CVS,2010Q3,2010-09-30,분기말 시가총액,42761436000,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/CVS?interval=1d&events=splits (2010-09-30) ; https://www.sec.gov/Archives/edgar/data/64803/000119312510246290/,종가 31.47 × 주식수 1358800000,6
+CVS Health,CVS,2010Q4,2010-12-31,분기별 매출액,24772000000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/64803/000119312511040351/ ; https://www.sec.gov/Archives/edgar/data/64803/000119312510246290/,연간 96413000000 − 9개월누적 71641000000 (Revenues),6
+CVS Health,CVS,2010Q4,2010-12-31,분기별 영업이익,1771000000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/64803/000119312511040351/ ; https://www.sec.gov/Archives/edgar/data/64803/000119312510246290/,연간 6165000000 − 9개월누적 4394000000 (OperatingIncomeLoss),6
+CVS Health,CVS,2010Q4,2010-12-31,분기별 당기순이익(지배),1026000000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/64803/000119312511040351/ ; https://www.sec.gov/Archives/edgar/data/64803/000119312510246290/,연간 3427000000 − 9개월누적 2401000000 (NetIncomeLoss),6
+CVS Health,CVS,2010Q4,2010-12-31,분기별 영업활동현금흐름,1775000000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/64803/000119312511040351/ ; https://www.sec.gov/Archives/edgar/data/64803/000119312510246290/,누적 4779000000 − 직전누적 3004000000 (시작 2010-01-01),6
+CVS Health,CVS,2010Q4,2010-12-31,분기말 자산총계,62169000000,USD,공시,https://www.sec.gov/Archives/edgar/data/64803/000119312511040351/,,6
+CVS Health,CVS,2010Q4,2010-12-31,분기말 부채총계,24469000000,USD,계산(부채및자본-총자본),https://www.sec.gov/Archives/edgar/data/64803/000119312511040351/,부채및자본 62169000000 − 총자본 37700000000,6
+CVS Health,CVS,2010Q4,2010-12-31,분기말 총자본(자기자본),37700000000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/64803/000119312511040351/,"StockholdersEquity, MinorityInterest 태그 없음",6
+CVS Health,CVS,2010Q4,2010-12-31,분기말 지배지분 자본,37700000000,USD,공시,https://www.sec.gov/Archives/edgar/data/64803/000119312511040351/,,6
+CVS Health,CVS,2010Q4,2010-12-31,분기말 종가,34.77,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/CVS?interval=1d&events=splits (2010-12-31),,6
+CVS Health,CVS,2010Q4,2011-02-11,분기말 상장주식수,1368174000,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/64803/000119312511040351/,dei:EntityCommonStockSharesOutstanding 클래스 합,6
+CVS Health,CVS,2010Q4,2010-12-31,분기말 시가총액,47571409980,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/CVS?interval=1d&events=splits (2010-12-31) ; https://www.sec.gov/Archives/edgar/data/64803/000119312511040351/,종가 34.77 × 주식수 1368174000,6
+CVS Health,CVS,2011Q1,2011-03-31,분기별 매출액,25880000000,USD,공시,https://www.sec.gov/Archives/edgar/data/64803/000110465911026342/,,6
+CVS Health,CVS,2011Q1,2011-03-31,분기별 영업이익,1311000000,USD,공시,https://www.sec.gov/Archives/edgar/data/64803/000110465911026342/,,6
+CVS Health,CVS,2011Q1,2011-03-31,분기별 당기순이익(지배),713000000,USD,공시,https://www.sec.gov/Archives/edgar/data/64803/000110465911026342/,,6
+CVS Health,CVS,2011Q1,2011-03-31,분기별 영업활동현금흐름,1866000000,USD,공시,https://www.sec.gov/Archives/edgar/data/64803/000110465911026342/,,6
+CVS Health,CVS,2011Q1,2011-03-31,분기말 자산총계,62828000000,USD,공시,https://www.sec.gov/Archives/edgar/data/64803/000110465911026342/,,6
+CVS Health,CVS,2011Q1,2011-03-31,분기말 부채총계,24909000000,USD,계산(부채및자본-총자본),https://www.sec.gov/Archives/edgar/data/64803/000110465911026342/,부채및자본 62828000000 − 총자본 37919000000,6
+CVS Health,CVS,2011Q1,2011-03-31,분기말 총자본(자기자본),37919000000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/64803/000110465911026342/,"StockholdersEquity, MinorityInterest 태그 없음",6
+CVS Health,CVS,2011Q1,2011-03-31,분기말 지배지분 자본,37919000000,USD,공시,https://www.sec.gov/Archives/edgar/data/64803/000110465911026342/,,6
+CVS Health,CVS,2011Q1,2011-03-31,분기말 종가,34.32,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/CVS?interval=1d&events=splits (2011-03-31),,6
+CVS Health,CVS,2011Q1,2011-04-29,분기말 상장주식수,1355941242,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/64803/000110465911026342/,dei:EntityCommonStockSharesOutstanding 클래스 합,6
+CVS Health,CVS,2011Q1,2011-03-31,분기말 시가총액,46535903425,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/CVS?interval=1d&events=splits (2011-03-31) ; https://www.sec.gov/Archives/edgar/data/64803/000110465911026342/,종가 34.32 × 주식수 1355941242,6
+CVS Health,CVS,2011Q2,2011-06-30,분기별 매출액,26629000000,USD,공시,https://www.sec.gov/Archives/edgar/data/64803/000110465911043697/,,6
+CVS Health,CVS,2011Q2,2011-06-30,분기별 영업이익,1490000000,USD,공시,https://www.sec.gov/Archives/edgar/data/64803/000110465911043697/,,6
+CVS Health,CVS,2011Q2,2011-06-30,분기별 당기순이익(지배),816000000,USD,공시,https://www.sec.gov/Archives/edgar/data/64803/000110465911043697/,,6
+CVS Health,CVS,2011Q2,2011-06-30,분기별 영업활동현금흐름,1207000000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/64803/000110465911043697/ ; https://www.sec.gov/Archives/edgar/data/64803/000110465911026342/,누적 3073000000 − 직전누적 1866000000 (시작 2011-01-01),6
+CVS Health,CVS,2011Q2,2011-06-30,분기말 자산총계,65487000000,USD,공시,https://www.sec.gov/Archives/edgar/data/64803/000110465911043697/,,6
+CVS Health,CVS,2011Q2,2011-06-30,분기말 부채총계,27243000000,USD,계산(부채및자본-총자본),https://www.sec.gov/Archives/edgar/data/64803/000110465911043697/,부채및자본 65487000000 − 총자본 38244000000,6
+CVS Health,CVS,2011Q2,2011-06-30,분기말 총자본(자기자본),38244000000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/64803/000110465911043697/,"StockholdersEquity, MinorityInterest 태그 없음",6
+CVS Health,CVS,2011Q2,2011-06-30,분기말 지배지분 자본,38244000000,USD,공시,https://www.sec.gov/Archives/edgar/data/64803/000110465911043697/,,6
+CVS Health,CVS,2011Q2,2011-06-30,분기말 종가,37.58,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/CVS?interval=1d&events=splits (2011-06-30),,6
+CVS Health,CVS,2011Q2,2011-07-29,분기말 상장주식수,1344841045,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/64803/000110465911043697/,dei:EntityCommonStockSharesOutstanding 클래스 합,6
+CVS Health,CVS,2011Q2,2011-06-30,분기말 시가총액,50539126471,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/CVS?interval=1d&events=splits (2011-06-30) ; https://www.sec.gov/Archives/edgar/data/64803/000110465911043697/,종가 37.58 × 주식수 1344841045,6
+CVS Health,CVS,2011Q3,2011-09-30,분기별 매출액,26674000000,USD,공시,https://www.sec.gov/Archives/edgar/data/64803/000110465911060566/,,6
+CVS Health,CVS,2011Q3,2011-09-30,분기별 영업이익,1584000000,USD,공시,https://www.sec.gov/Archives/edgar/data/64803/000110465911060566/,,6
+CVS Health,CVS,2011Q3,2011-09-30,분기별 당기순이익(지배),868000000,USD,계산(연결-비지배),https://www.sec.gov/Archives/edgar/data/64803/000110465911060566/,3개월 연결 867000000 − 비지배 -1000000,6
+CVS Health,CVS,2011Q3,2011-09-30,분기별 영업활동현금흐름,1962000000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/64803/000110465911060566/ ; https://www.sec.gov/Archives/edgar/data/64803/000110465911043697/,누적 5035000000 − 직전누적 3073000000 (시작 2011-01-01),6
+CVS Health,CVS,2011Q3,2011-09-30,분기말 자산총계,65251000000,USD,공시,https://www.sec.gov/Archives/edgar/data/64803/000110465911060566/,,6
+CVS Health,CVS,2011Q3,2011-09-30,분기말 부채총계,27764000000,USD,계산(부채및자본-총자본),https://www.sec.gov/Archives/edgar/data/64803/000110465911060566/,부채및자본 65251000000 − 총자본 37487000000,6
+CVS Health,CVS,2011Q3,2011-09-30,분기말 총자본(자기자본),37487000000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/64803/000110465911060566/,"StockholdersEquity, MinorityInterest 태그 없음",6
+CVS Health,CVS,2011Q3,2011-09-30,분기말 지배지분 자본,37487000000,USD,공시,https://www.sec.gov/Archives/edgar/data/64803/000110465911060566/,,6
+CVS Health,CVS,2011Q3,2011-09-30,분기말 종가,33.59,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/CVS?interval=1d&events=splits (2011-09-30),,6
+CVS Health,CVS,2011Q3,2011-10-31,분기말 상장주식수,1301630309,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/64803/000110465911060566/,dei:EntityCommonStockSharesOutstanding 클래스 합,6
+CVS Health,CVS,2011Q3,2011-09-30,분기말 시가총액,43721762079,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/CVS?interval=1d&events=splits (2011-09-30) ; https://www.sec.gov/Archives/edgar/data/64803/000110465911060566/,종가 33.59 × 주식수 1301630309,6
+CVS Health,CVS,2011Q4,2011-12-31,분기별 매출액,28317000000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/64803/000110465912010850/ ; https://www.sec.gov/Archives/edgar/data/64803/000110465911060566/,연간 107100000000 − 9개월누적 78783000000 (Revenues),6
+CVS Health,CVS,2011Q4,2011-12-31,분기별 영업이익,1957000000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/64803/000110465912010850/ ; https://www.sec.gov/Archives/edgar/data/64803/000110465911060566/,연간 6330000000 − 9개월누적 4373000000 (OperatingIncomeLoss),6
+CVS Health,CVS,2011Q4,2011-12-31,분기별 당기순이익(지배),1064000000,USD,계산(연간(연결-비지배)-3분기누적),https://www.sec.gov/Archives/edgar/data/64803/000110465912010850/ ; https://www.sec.gov/Archives/edgar/data/64803/000110465911060566/,연간 연결 3457000000 − 비지배 -4000000 − (9개월 연결 2394000000 − 비지배 -3000000),6
+CVS Health,CVS,2011Q4,2011-12-31,분기별 영업활동현금흐름,821000000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/64803/000110465912010850/ ; https://www.sec.gov/Archives/edgar/data/64803/000110465911060566/,누적 5856000000 − 직전누적 5035000000 (시작 2011-01-01),6
+CVS Health,CVS,2011Q4,2011-12-31,분기말 자산총계,64543000000,USD,공시,https://www.sec.gov/Archives/edgar/data/64803/000110465912010850/,,6
+CVS Health,CVS,2011Q4,2011-12-31,분기말 부채총계,26492000000,USD,계산(부채및자본-총자본),https://www.sec.gov/Archives/edgar/data/64803/000110465912010850/,부채및자본 64543000000 − 총자본 38051000000,6
+CVS Health,CVS,2011Q4,2011-12-31,분기말 총자본(자기자본),38051000000,USD,공시,https://www.sec.gov/Archives/edgar/data/64803/000110465912010850/,,6
+CVS Health,CVS,2011Q4,2011-12-31,분기말 지배지분 자본,38051000000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/64803/000110465912010850/,"StockholdersEquityIncludingPortionAttributableToNoncontrollingInterest, MinorityInterest 태그 없음",6
+CVS Health,CVS,2011Q4,2011-12-30,분기말 종가,40.78,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/CVS?interval=1d&events=splits (2011-12-30),,6
+CVS Health,CVS,2011Q4,2012-02-10,분기말 상장주식수,1302378570,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/64803/000110465912010850/,dei:EntityCommonStockSharesOutstanding 클래스 합,6
+CVS Health,CVS,2011Q4,2011-12-30,분기말 시가총액,53110998085,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/CVS?interval=1d&events=splits (2011-12-30) ; https://www.sec.gov/Archives/edgar/data/64803/000110465912010850/,종가 40.78 × 주식수 1302378570,6
+CVS Health,CVS,2012Q1,2012-03-31,분기별 매출액,30798000000,USD,공시,https://www.sec.gov/Archives/edgar/data/64803/000110465912031650/,,6
+CVS Health,CVS,2012Q1,2012-03-31,분기별 영업이익,1404000000,USD,공시,https://www.sec.gov/Archives/edgar/data/64803/000110465912031650/,,6
+CVS Health,CVS,2012Q1,2012-03-31,분기별 당기순이익(지배),776000000,USD,계산(연결-비지배),https://www.sec.gov/Archives/edgar/data/64803/000110465912031650/,3개월 연결 775000000 − 비지배 -1000000,6
+CVS Health,CVS,2012Q1,2012-03-31,분기별 영업활동현금흐름,2786000000,USD,공시,https://www.sec.gov/Archives/edgar/data/64803/000110465912031650/,,6
+CVS Health,CVS,2012Q1,2012-03-31,분기말 자산총계,66006000000,USD,공시,https://www.sec.gov/Archives/edgar/data/64803/000110465912031650/,,6
+CVS Health,CVS,2012Q1,2012-03-31,분기말 부채총계,27953000000,USD,계산(부채및자본-총자본),https://www.sec.gov/Archives/edgar/data/64803/000110465912031650/,부채및자본 66006000000 − 총자본 38053000000,6
+CVS Health,CVS,2012Q1,2012-03-31,분기말 총자본(자기자본),38053000000,USD,공시,https://www.sec.gov/Archives/edgar/data/64803/000110465912031650/,,6
+CVS Health,CVS,2012Q1,2012-03-31,분기말 지배지분 자본,38053000000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/64803/000110465912031650/,"StockholdersEquityIncludingPortionAttributableToNoncontrollingInterest, MinorityInterest 태그 없음",6
+CVS Health,CVS,2012Q1,2012-03-30,분기말 종가,44.8,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/CVS?interval=1d&events=splits (2012-03-30),,6
+CVS Health,CVS,2012Q1,2012-04-25,분기말 상장주식수,1281502470,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/64803/000110465912031650/,dei:EntityCommonStockSharesOutstanding 클래스 합,6
+CVS Health,CVS,2012Q1,2012-03-30,분기말 시가총액,57411310656,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/CVS?interval=1d&events=splits (2012-03-30) ; https://www.sec.gov/Archives/edgar/data/64803/000110465912031650/,종가 44.8 × 주식수 1281502470,6
+CVS Health,CVS,2012Q2,2012-06-30,분기별 매출액,30714000000,USD,공시,https://www.sec.gov/Archives/edgar/data/64803/000110465912055261/,,6
+CVS Health,CVS,2012Q2,2012-06-30,분기별 영업이익,1708000000,USD,공시,https://www.sec.gov/Archives/edgar/data/64803/000110465912055261/,,6
+CVS Health,CVS,2012Q2,2012-06-30,분기별 당기순이익(지배),966000000,USD,계산(연결-비지배),https://www.sec.gov/Archives/edgar/data/64803/000110465912055261/,3개월 연결 965000000 − 비지배 -1000000,6
+CVS Health,CVS,2012Q2,2012-06-30,분기별 영업활동현금흐름,1231000000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/64803/000110465912055261/ ; https://www.sec.gov/Archives/edgar/data/64803/000110465912031650/,누적 4017000000 − 직전누적 2786000000 (시작 2012-01-01),6
+CVS Health,CVS,2012Q2,2012-06-30,분기말 자산총계,65589000000,USD,공시,https://www.sec.gov/Archives/edgar/data/64803/000110465912055261/,,6
+CVS Health,CVS,2012Q2,2012-06-30,분기말 부채총계,27676000000,USD,계산(부채및자본-총자본),https://www.sec.gov/Archives/edgar/data/64803/000110465912055261/,부채및자본 65589000000 − 총자본 37913000000,6
+CVS Health,CVS,2012Q2,2012-06-30,분기말 총자본(자기자본),37913000000,USD,공시,https://www.sec.gov/Archives/edgar/data/64803/000110465912055261/,,6
+CVS Health,CVS,2012Q2,2012-06-30,분기말 지배지분 자본,37913000000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/64803/000110465912055261/,"StockholdersEquityIncludingPortionAttributableToNoncontrollingInterest, MinorityInterest 태그 없음",6
+CVS Health,CVS,2012Q2,2012-06-29,분기말 종가,46.73,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/CVS?interval=1d&events=splits (2012-06-29),,6
+CVS Health,CVS,2012Q2,2012-07-31,분기말 상장주식수,1272235875,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/64803/000110465912055261/,dei:EntityCommonStockSharesOutstanding 클래스 합,6
+CVS Health,CVS,2012Q2,2012-06-29,분기말 시가총액,59451582439,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/CVS?interval=1d&events=splits (2012-06-29) ; https://www.sec.gov/Archives/edgar/data/64803/000110465912055261/,종가 46.73 × 주식수 1272235875,6
+CVS Health,CVS,2012Q3,2012-09-30,분기별 매출액,30227000000,USD,공시,https://www.sec.gov/Archives/edgar/data/64803/000110465912074770/,,6
+CVS Health,CVS,2012Q3,2012-09-30,분기별 영업이익,1814000000,USD,공시,https://www.sec.gov/Archives/edgar/data/64803/000110465912074770/,,6
+CVS Health,CVS,2012Q3,2012-09-30,분기별 당기순이익(지배),1006000000,USD,공시(보통주 귀속),https://www.sec.gov/Archives/edgar/data/64803/000110465912074770/,분기 비지배 태그 없음,6
+CVS Health,CVS,2012Q3,2012-09-30,분기별 영업활동현금흐름,923000000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/64803/000110465912074770/ ; https://www.sec.gov/Archives/edgar/data/64803/000110465912055261/,누적 4940000000 − 직전누적 4017000000 (시작 2012-01-01),6
+CVS Health,CVS,2012Q3,2012-09-30,분기말 자산총계,64796000000,USD,공시,https://www.sec.gov/Archives/edgar/data/64803/000110465912074770/,,6
+CVS Health,CVS,2012Q3,2012-09-30,분기말 부채총계,27880000000,USD,계산(부채및자본-총자본),https://www.sec.gov/Archives/edgar/data/64803/000110465912074770/,부채및자본 64796000000 − 총자본 36916000000,6
+CVS Health,CVS,2012Q3,2012-09-30,분기말 총자본(자기자본),36916000000,USD,공시,https://www.sec.gov/Archives/edgar/data/64803/000110465912074770/,,6
+CVS Health,CVS,2012Q3,2012-09-30,분기말 지배지분 자본,36916000000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/64803/000110465912074770/,"StockholdersEquityIncludingPortionAttributableToNoncontrollingInterest, MinorityInterest 태그 없음",6
+CVS Health,CVS,2012Q3,2012-09-28,분기말 종가,48.42,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/CVS?interval=1d&events=splits (2012-09-28),,6
+CVS Health,CVS,2012Q3,2012-10-31,분기말 상장주식수,1246692587,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/64803/000110465912074770/,dei:EntityCommonStockSharesOutstanding 클래스 합,6
+CVS Health,CVS,2012Q3,2012-09-28,분기말 시가총액,60364855063,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/CVS?interval=1d&events=splits (2012-09-28) ; https://www.sec.gov/Archives/edgar/data/64803/000110465912074770/,종가 48.42 × 주식수 1246692587,6
+CVS Health,CVS,2012Q4,2012-12-31,분기별 매출액,31394000000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/64803/000110465913011354/ ; https://www.sec.gov/Archives/edgar/data/64803/000110465912074770/,연간 123133000000 − 9개월누적 91739000000 (Revenues),6
+CVS Health,CVS,2012Q4,2012-12-31,분기별 영업이익,2303000000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/64803/000110465913011354/ ; https://www.sec.gov/Archives/edgar/data/64803/000110465912074770/,연간 7228000000 − 9개월누적 4925000000 (OperatingIncomeLoss),6
+CVS Health,CVS,2012Q4,2012-12-31,분기별 당기순이익(지배),1129000000,USD,계산(연간(연결-비지배)-3분기누적),https://www.sec.gov/Archives/edgar/data/64803/000110465913011354/ ; https://www.sec.gov/Archives/edgar/data/64803/000110465912074770/,연간 연결 3875000000 − 비지배 -2000000 − (9개월 연결 2746000000 − 비지배 -2000000),6
+CVS Health,CVS,2012Q4,2012-12-31,분기별 영업활동현금흐름,1731000000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/64803/000110465913011354/ ; https://www.sec.gov/Archives/edgar/data/64803/000110465912074770/,누적 6671000000 − 직전누적 4940000000 (시작 2012-01-01),6
+CVS Health,CVS,2012Q4,2012-12-31,분기말 자산총계,66221000000,USD,공시(재작성 반영),https://www.sec.gov/Archives/edgar/data/64803/000006480315000008/,원 공시 65912000000 (https://www.sec.gov/Archives/edgar/data/64803/000110465913011354/),6
+CVS Health,CVS,2012Q4,2012-12-31,분기말 부채총계,28568000000,USD,계산(부채및자본-총자본)(재작성 반영),https://www.sec.gov/Archives/edgar/data/64803/000006480314000008/,부채및자본 66221000000 − 총자본 37653000000 ; 원 공시 28208000000 (https://www.sec.gov/Archives/edgar/data/64803/000110465913011354/),6
+CVS Health,CVS,2012Q4,2012-12-31,분기말 총자본(자기자본),37653000000,USD,공시(재작성 반영),https://www.sec.gov/Archives/edgar/data/64803/000006480315000008/,원 공시 37704000000 (https://www.sec.gov/Archives/edgar/data/64803/000110465913011354/),6
+CVS Health,CVS,2012Q4,2012-12-31,분기말 지배지분 자본,37653000000,USD,공시(비지배 없음)(재작성 반영),https://www.sec.gov/Archives/edgar/data/64803/000006480315000008/,"StockholdersEquityIncludingPortionAttributableToNoncontrollingInterest, MinorityInterest 태그 없음 ; 원 공시 37704000000 (https://www.sec.gov/Archives/edgar/data/64803/000110465913011354/)",6
+CVS Health,CVS,2012Q4,2012-12-31,분기말 종가,48.35,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/CVS?interval=1d&events=splits (2012-12-31),,6
+CVS Health,CVS,2012Q4,2013-02-08,분기말 상장주식수,1231194296,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/64803/000110465913011354/,dei:EntityCommonStockSharesOutstanding 클래스 합,6
+CVS Health,CVS,2012Q4,2012-12-31,분기말 시가총액,59528244212,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/CVS?interval=1d&events=splits (2012-12-31) ; https://www.sec.gov/Archives/edgar/data/64803/000110465913011354/,종가 48.35 × 주식수 1231194296,6
+CVS Health,CVS,2013Q1,2013-03-31,분기별 매출액,30751000000,USD,공시(재작성 반영),https://www.sec.gov/Archives/edgar/data/64803/000006480314000017/,원 공시 30763000000 (https://www.sec.gov/Archives/edgar/data/64803/000006480313000005/),6
+CVS Health,CVS,2013Q1,2013-03-31,분기별 영업이익,1694000000,USD,공시(재작성 반영),https://www.sec.gov/Archives/edgar/data/64803/000006480314000017/,원 공시 1699000000 (https://www.sec.gov/Archives/edgar/data/64803/000006480313000005/),6
+CVS Health,CVS,2013Q1,2013-03-31,분기별 당기순이익(지배),954000000,USD,계산(연결-비지배)(재작성 반영),https://www.sec.gov/Archives/edgar/data/64803/000006480314000017/,3개월 연결 954000000 − 비지배 0 ; 원 공시 956000000 (https://www.sec.gov/Archives/edgar/data/64803/000006480313000005/),6
+CVS Health,CVS,2013Q1,2013-03-31,분기별 영업활동현금흐름,1640000000,USD,공시,https://www.sec.gov/Archives/edgar/data/64803/000006480313000005/,,6
+CVS Health,CVS,2013Q1,2013-03-31,분기말 자산총계,66068000000,USD,공시,https://www.sec.gov/Archives/edgar/data/64803/000006480313000005/,,6
+CVS Health,CVS,2013Q1,2013-03-31,분기말 부채총계,27859000000,USD,계산(부채및자본-총자본),https://www.sec.gov/Archives/edgar/data/64803/000006480313000005/,부채및자본 66068000000 − 총자본 38209000000,6
+CVS Health,CVS,2013Q1,2013-03-31,분기말 총자본(자기자본),38209000000,USD,공시,https://www.sec.gov/Archives/edgar/data/64803/000006480313000005/,,6
+CVS Health,CVS,2013Q1,2013-03-31,분기말 지배지분 자본,38209000000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/64803/000006480313000005/,"StockholdersEquityIncludingPortionAttributableToNoncontrollingInterest, MinorityInterest 태그 없음",6
+CVS Health,CVS,2013Q1,2013-03-28,분기말 종가,54.99,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/CVS?interval=1d&events=splits (2013-03-28),,6
+CVS Health,CVS,2013Q1,2013-04-24,분기말 상장주식수,1224392685,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/64803/000006480313000005/,dei:EntityCommonStockSharesOutstanding 클래스 합,6
+CVS Health,CVS,2013Q1,2013-03-28,분기말 시가총액,67329353748,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/CVS?interval=1d&events=splits (2013-03-28) ; https://www.sec.gov/Archives/edgar/data/64803/000006480313000005/,종가 54.99 × 주식수 1224392685,6
+CVS Health,CVS,2013Q2,2013-06-30,분기별 매출액,31248000000,USD,공시,https://www.sec.gov/Archives/edgar/data/64803/000006480313000021/,,6
+CVS Health,CVS,2013Q2,2013-06-30,분기별 영업이익,1968000000,USD,공시,https://www.sec.gov/Archives/edgar/data/64803/000006480313000021/,,6
+CVS Health,CVS,2013Q2,2013-06-30,분기별 당기순이익(지배),1121000000,USD,계산(연결-비지배),https://www.sec.gov/Archives/edgar/data/64803/000006480313000021/,3개월 연결 1121000000 − 비지배 0,6
+CVS Health,CVS,2013Q2,2013-06-30,분기별 영업활동현금흐름,902000000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/64803/000006480313000021/ ; https://www.sec.gov/Archives/edgar/data/64803/000006480313000005/,누적 2542000000 − 직전누적 1640000000 (시작 2013-01-01),6
+CVS Health,CVS,2013Q2,2013-06-30,분기말 자산총계,66284000000,USD,공시,https://www.sec.gov/Archives/edgar/data/64803/000006480313000021/,,6
+CVS Health,CVS,2013Q2,2013-06-30,분기말 부채총계,27378000000,USD,계산(부채및자본-총자본),https://www.sec.gov/Archives/edgar/data/64803/000006480313000021/,부채및자본 66284000000 − 총자본 38906000000,6
+CVS Health,CVS,2013Q2,2013-06-30,분기말 총자본(자기자본),38906000000,USD,공시,https://www.sec.gov/Archives/edgar/data/64803/000006480313000021/,,6
+CVS Health,CVS,2013Q2,2013-06-30,분기말 지배지분 자본,38906000000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/64803/000006480313000021/,"StockholdersEquityIncludingPortionAttributableToNoncontrollingInterest, MinorityInterest 태그 없음",6
+CVS Health,CVS,2013Q2,2013-06-28,분기말 종가,57.18,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/CVS?interval=1d&events=splits (2013-06-28),,6
+CVS Health,CVS,2013Q2,2013-07-31,분기말 상장주식수,1228369418,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/64803/000006480313000021/,dei:EntityCommonStockSharesOutstanding 클래스 합,6
+CVS Health,CVS,2013Q2,2013-06-28,분기말 시가총액,70238163321,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/CVS?interval=1d&events=splits (2013-06-28) ; https://www.sec.gov/Archives/edgar/data/64803/000006480313000021/,종가 57.18 × 주식수 1228369418,6
+CVS Health,CVS,2013Q3,2013-09-30,분기별 매출액,31968000000,USD,공시,https://www.sec.gov/Archives/edgar/data/64803/000006480313000027/,,6
+CVS Health,CVS,2013Q3,2013-09-30,분기별 영업이익,2161000000,USD,공시,https://www.sec.gov/Archives/edgar/data/64803/000006480313000027/,,6
+CVS Health,CVS,2013Q3,2013-09-30,분기별 당기순이익(지배),1254000000,USD,계산(연결-비지배),https://www.sec.gov/Archives/edgar/data/64803/000006480313000027/,3개월 연결 1254000000 − 비지배 0,6
+CVS Health,CVS,2013Q3,2013-09-30,분기별 영업활동현금흐름,1703000000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/64803/000006480313000027/ ; https://www.sec.gov/Archives/edgar/data/64803/000006480313000021/,누적 4245000000 − 직전누적 2542000000 (시작 2013-01-01),6
+CVS Health,CVS,2013Q3,2013-09-30,분기말 자산총계,67805000000,USD,공시,https://www.sec.gov/Archives/edgar/data/64803/000006480313000027/,,6
+CVS Health,CVS,2013Q3,2013-09-30,분기말 부채총계,29271000000,USD,계산(부채및자본-총자본),https://www.sec.gov/Archives/edgar/data/64803/000006480313000027/,부채및자본 67805000000 − 총자본 38534000000,6
+CVS Health,CVS,2013Q3,2013-09-30,분기말 총자본(자기자본),38534000000,USD,공시,https://www.sec.gov/Archives/edgar/data/64803/000006480313000027/,,6
+CVS Health,CVS,2013Q3,2013-09-30,분기말 지배지분 자본,38534000000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/64803/000006480313000027/,"StockholdersEquityIncludingPortionAttributableToNoncontrollingInterest, MinorityInterest 태그 없음",6
+CVS Health,CVS,2013Q3,2013-09-30,분기말 종가,56.75,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/CVS?interval=1d&events=splits (2013-09-30),,6
+CVS Health,CVS,2013Q3,2013-10-31,분기말 상장주식수,1190254167,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/64803/000006480313000027/,dei:EntityCommonStockSharesOutstanding 클래스 합,6
+CVS Health,CVS,2013Q3,2013-09-30,분기말 시가총액,67546923977,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/CVS?interval=1d&events=splits (2013-09-30) ; https://www.sec.gov/Archives/edgar/data/64803/000006480313000027/,종가 56.75 × 주식수 1190254167,6
+CVS Health,CVS,2013Q4,2013-12-31,분기별 매출액,32782000000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/64803/000006480314000008/ ; https://www.sec.gov/Archives/edgar/data/64803/000006480313000027/,연간 126761000000 − 9개월누적 93979000000 (Revenues),6
+CVS Health,CVS,2013Q4,2013-12-31,분기별 영업이익,2209000000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/64803/000006480314000008/ ; https://www.sec.gov/Archives/edgar/data/64803/000006480313000027/,연간 8037000000 − 9개월누적 5828000000 (OperatingIncomeLoss),6
+CVS Health,CVS,2013Q4,2013-12-31,분기별 당기순이익(지배),1261000000,USD,계산(연간(연결-비지배)-3분기누적),https://www.sec.gov/Archives/edgar/data/64803/000006480314000008/ ; https://www.sec.gov/Archives/edgar/data/64803/000006480313000027/,연간 연결 4592000000 − 비지배 0 − (9개월 연결 3331000000 − 비지배 0),6
+CVS Health,CVS,2013Q4,2013-12-31,분기별 영업활동현금흐름,1538000000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/64803/000006480314000008/ ; https://www.sec.gov/Archives/edgar/data/64803/000006480313000027/,누적 5783000000 − 직전누적 4245000000 (시작 2013-01-01),6
+CVS Health,CVS,2013Q4,2013-12-31,분기말 자산총계,71526000000,USD,공시,https://www.sec.gov/Archives/edgar/data/64803/000006480314000008/,,6
+CVS Health,CVS,2013Q4,2013-12-31,분기말 부채총계,33588000000,USD,계산(부채및자본-총자본),https://www.sec.gov/Archives/edgar/data/64803/000006480314000008/,부채및자본 71526000000 − 총자본 37938000000,6
+CVS Health,CVS,2013Q4,2013-12-31,분기말 총자본(자기자본),37938000000,USD,공시,https://www.sec.gov/Archives/edgar/data/64803/000006480314000008/,,6
+CVS Health,CVS,2013Q4,2013-12-31,분기말 지배지분 자본,37938000000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/64803/000006480314000008/,"StockholdersEquityIncludingPortionAttributableToNoncontrollingInterest, MinorityInterest 태그 없음",6
+CVS Health,CVS,2013Q4,2013-12-31,분기말 종가,71.57,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/CVS?interval=1d&events=splits (2013-12-31),,6
+CVS Health,CVS,2013Q4,2014-02-04,분기말 상장주식수,1182427156,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/64803/000006480314000008/,dei:EntityCommonStockSharesOutstanding 클래스 합,6
+CVS Health,CVS,2013Q4,2013-12-31,분기말 시가총액,84626311555,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/CVS?interval=1d&events=splits (2013-12-31) ; https://www.sec.gov/Archives/edgar/data/64803/000006480314000008/,종가 71.57 × 주식수 1182427156,6
+CVS Health,CVS,2014Q1,2014-03-31,분기별 매출액,32689000000,USD,공시,https://www.sec.gov/Archives/edgar/data/64803/000006480314000017/,,6
+CVS Health,CVS,2014Q1,2014-03-31,분기별 영업이익,2024000000,USD,공시,https://www.sec.gov/Archives/edgar/data/64803/000006480314000017/,,6
+CVS Health,CVS,2014Q1,2014-03-31,분기별 당기순이익(지배),1129000000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/64803/000006480314000017/,,6
+CVS Health,CVS,2014Q1,2014-03-31,분기별 영업활동현금흐름,2172000000,USD,공시,https://www.sec.gov/Archives/edgar/data/64803/000006480314000017/,,6
+CVS Health,CVS,2014Q1,2014-03-31,분기말 자산총계,72822000000,USD,공시,https://www.sec.gov/Archives/edgar/data/64803/000006480314000017/,,6
+CVS Health,CVS,2014Q1,2014-03-31,분기말 부채총계,34610000000,USD,계산(부채및자본-총자본),https://www.sec.gov/Archives/edgar/data/64803/000006480314000017/,부채및자본 72822000000 − 총자본 38212000000,6
+CVS Health,CVS,2014Q1,2014-03-31,분기말 총자본(자기자본),38212000000,USD,공시,https://www.sec.gov/Archives/edgar/data/64803/000006480314000017/,,6
+CVS Health,CVS,2014Q1,2014-03-31,분기말 지배지분 자본,38210000000,USD,공시,https://www.sec.gov/Archives/edgar/data/64803/000006480314000017/,,6
+CVS Health,CVS,2014Q1,2014-03-31,분기말 종가,74.86,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/CVS?interval=1d&events=splits (2014-03-31),,6
+CVS Health,CVS,2014Q1,2014-04-25,분기말 상장주식수,1169230063,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/64803/000006480314000017/,dei:EntityCommonStockSharesOutstanding 클래스 합,6
+CVS Health,CVS,2014Q1,2014-03-31,분기말 시가총액,87528562516,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/CVS?interval=1d&events=splits (2014-03-31) ; https://www.sec.gov/Archives/edgar/data/64803/000006480314000017/,종가 74.86 × 주식수 1169230063,6
+CVS Health,CVS,2014Q2,2014-06-30,분기별 매출액,34602000000,USD,공시,https://www.sec.gov/Archives/edgar/data/64803/000006480314000028/,,6
+CVS Health,CVS,2014Q2,2014-06-30,분기별 영업이익,2208000000,USD,공시,https://www.sec.gov/Archives/edgar/data/64803/000006480314000028/,,6
+CVS Health,CVS,2014Q2,2014-06-30,분기별 당기순이익(지배),1246000000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/64803/000006480314000028/,,6
+CVS Health,CVS,2014Q2,2014-06-30,분기별 영업활동현금흐름,897000000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/64803/000006480314000028/ ; https://www.sec.gov/Archives/edgar/data/64803/000006480314000017/,누적 3069000000 − 직전누적 2172000000 (시작 2014-01-01),6
+CVS Health,CVS,2014Q2,2014-06-30,분기말 자산총계,72593000000,USD,공시,https://www.sec.gov/Archives/edgar/data/64803/000006480314000028/,,6
+CVS Health,CVS,2014Q2,2014-06-30,분기말 부채총계,34461000000,USD,계산(부채및자본-총자본),https://www.sec.gov/Archives/edgar/data/64803/000006480314000028/,부채및자본 72593000000 − 총자본 38132000000,6
+CVS Health,CVS,2014Q2,2014-06-30,분기말 총자본(자기자본),38132000000,USD,공시,https://www.sec.gov/Archives/edgar/data/64803/000006480314000028/,,6
+CVS Health,CVS,2014Q2,2014-06-30,분기말 지배지분 자본,38130000000,USD,공시,https://www.sec.gov/Archives/edgar/data/64803/000006480314000028/,,6
+CVS Health,CVS,2014Q2,2014-06-30,분기말 종가,75.37,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/CVS?interval=1d&events=splits (2014-06-30),,6
+CVS Health,CVS,2014Q2,2014-07-31,분기말 상장주식수,1158126112,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/64803/000006480314000028/,dei:EntityCommonStockSharesOutstanding 클래스 합,6
+CVS Health,CVS,2014Q2,2014-06-30,분기말 시가총액,87287965061,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/CVS?interval=1d&events=splits (2014-06-30) ; https://www.sec.gov/Archives/edgar/data/64803/000006480314000028/,종가 75.37 × 주식수 1158126112,6
+CVS Health,CVS,2014Q3,2014-09-30,분기별 매출액,35021000000,USD,공시,https://www.sec.gov/Archives/edgar/data/64803/000006480314000036/,,6
+CVS Health,CVS,2014Q3,2014-09-30,분기별 영업이익,2246000000,USD,공시,https://www.sec.gov/Archives/edgar/data/64803/000006480314000036/,,6
+CVS Health,CVS,2014Q3,2014-09-30,분기별 당기순이익(지배),948000000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/64803/000006480314000036/,,6
+CVS Health,CVS,2014Q3,2014-09-30,분기별 영업활동현금흐름,1645000000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/64803/000006480314000036/ ; https://www.sec.gov/Archives/edgar/data/64803/000006480314000028/,누적 4714000000 − 직전누적 3069000000 (시작 2014-01-01),6
+CVS Health,CVS,2014Q3,2014-09-30,분기말 자산총계,73576000000,USD,공시,https://www.sec.gov/Archives/edgar/data/64803/000006480314000036/,,6
+CVS Health,CVS,2014Q3,2014-09-30,분기말 부채총계,35467000000,USD,계산(부채및자본-총자본),https://www.sec.gov/Archives/edgar/data/64803/000006480314000036/,부채및자본 73576000000 − 총자본 38109000000,6
+CVS Health,CVS,2014Q3,2014-09-30,분기말 총자본(자기자본),38109000000,USD,공시,https://www.sec.gov/Archives/edgar/data/64803/000006480314000036/,,6
+CVS Health,CVS,2014Q3,2014-09-30,분기말 지배지분 자본,38104000000,USD,공시,https://www.sec.gov/Archives/edgar/data/64803/000006480314000036/,,6
+CVS Health,CVS,2014Q3,2014-09-30,분기말 종가,79.59,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/CVS?interval=1d&events=splits (2014-09-30),,6
+CVS Health,CVS,2014Q3,2014-10-30,분기말 상장주식수,1146383477,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/64803/000006480314000036/,dei:EntityCommonStockSharesOutstanding 클래스 합,6
+CVS Health,CVS,2014Q3,2014-09-30,분기말 시가총액,91240660934,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/CVS?interval=1d&events=splits (2014-09-30) ; https://www.sec.gov/Archives/edgar/data/64803/000006480314000036/,종가 79.59 × 주식수 1146383477,6
+CVS Health,CVS,2014Q4,2014-12-31,분기별 매출액,37055000000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/64803/000006480315000008/ ; https://www.sec.gov/Archives/edgar/data/64803/000006480314000036/,연간 139367000000 − 9개월누적 102312000000 (Revenues),6
+CVS Health,CVS,2014Q4,2014-12-31,분기별 영업이익,2321000000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/64803/000006480315000008/ ; https://www.sec.gov/Archives/edgar/data/64803/000006480314000036/,연간 8799000000 − 9개월누적 6478000000 (OperatingIncomeLoss),6
+CVS Health,CVS,2014Q4,2014-12-31,분기별 당기순이익(지배),1321000000,USD,계산(연간(연결-비지배)-3분기누적),https://www.sec.gov/Archives/edgar/data/64803/000006480315000008/ ; https://www.sec.gov/Archives/edgar/data/64803/000006480314000036/,"연간 연결 4644000000 − 비지배 0 − (9개월 연결 3323000000, 비지배 태그 없음)",6
+CVS Health,CVS,2014Q4,2014-12-31,분기별 영업활동현금흐름,3423000000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/64803/000006480315000008/ ; https://www.sec.gov/Archives/edgar/data/64803/000006480314000036/,누적 8137000000 − 직전누적 4714000000 (시작 2014-01-01),6
+CVS Health,CVS,2014Q4,2014-12-31,분기말 자산총계,74187000000,USD,공시(재작성 반영),https://www.sec.gov/Archives/edgar/data/64803/000006480316000074/,원 공시 74252000000 (https://www.sec.gov/Archives/edgar/data/64803/000006480315000008/),6
+CVS Health,CVS,2014Q4,2014-12-31,분기말 부채총계,36224000000,USD,계산(부채및자본-총자본)(재작성 반영),https://www.sec.gov/Archives/edgar/data/64803/000006480316000074/,부채및자본 74187000000 − 총자본 37963000000 ; 원 공시 36289000000 (https://www.sec.gov/Archives/edgar/data/64803/000006480315000008/),6
+CVS Health,CVS,2014Q4,2014-12-31,분기말 총자본(자기자본),37963000000,USD,공시,https://www.sec.gov/Archives/edgar/data/64803/000006480315000008/,,6
+CVS Health,CVS,2014Q4,2014-12-31,분기말 지배지분 자본,37958000000,USD,공시,https://www.sec.gov/Archives/edgar/data/64803/000006480315000008/,,6
+CVS Health,CVS,2014Q4,2014-12-31,분기말 종가,96.31,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/CVS?interval=1d&events=splits (2014-12-31),,6
+CVS Health,CVS,2014Q4,2015-02-03,분기말 상장주식수,1125252739,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/64803/000006480315000008/,dei:EntityCommonStockSharesOutstanding 클래스 합,6
+CVS Health,CVS,2014Q4,2014-12-31,분기말 시가총액,108373091293,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/CVS?interval=1d&events=splits (2014-12-31) ; https://www.sec.gov/Archives/edgar/data/64803/000006480315000008/,종가 96.31 × 주식수 1125252739,6
+CVS Health,CVS,2015Q1,2015-03-31,분기별 매출액,36332000000,USD,공시,https://www.sec.gov/Archives/edgar/data/64803/000006480315000023/,,6
+CVS Health,CVS,2015Q1,2015-03-31,분기별 영업이익,2132000000,USD,공시,https://www.sec.gov/Archives/edgar/data/64803/000006480315000023/,,6
+CVS Health,CVS,2015Q1,2015-03-31,분기별 당기순이익(지배),1221000000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/64803/000006480315000023/,,6
+CVS Health,CVS,2015Q1,2015-03-31,분기별 영업활동현금흐름,1984000000,USD,공시,https://www.sec.gov/Archives/edgar/data/64803/000006480315000023/,,6
+CVS Health,CVS,2015Q1,2015-03-31,분기말 자산총계,73930000000,USD,공시,https://www.sec.gov/Archives/edgar/data/64803/000006480315000023/,,6
+CVS Health,CVS,2015Q1,2015-03-31,분기말 부채총계,36935000000,USD,계산(부채및자본-총자본),https://www.sec.gov/Archives/edgar/data/64803/000006480315000023/,부채및자본 73930000000 − 총자본 36995000000,6
+CVS Health,CVS,2015Q1,2015-03-31,분기말 총자본(자기자본),36995000000,USD,공시,https://www.sec.gov/Archives/edgar/data/64803/000006480315000023/,,6
+CVS Health,CVS,2015Q1,2015-03-31,분기말 지배지분 자본,36990000000,USD,공시,https://www.sec.gov/Archives/edgar/data/64803/000006480315000023/,,6
+CVS Health,CVS,2015Q1,2015-03-31,분기말 종가,103.21,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/CVS?interval=1d&events=splits (2015-03-31),,6
+CVS Health,CVS,2015Q1,2015-04-24,분기말 상장주식수,1128330774,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/64803/000006480315000023/,dei:EntityCommonStockSharesOutstanding 클래스 합,6
+CVS Health,CVS,2015Q1,2015-03-31,분기말 시가총액,116455019185,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/CVS?interval=1d&events=splits (2015-03-31) ; https://www.sec.gov/Archives/edgar/data/64803/000006480315000023/,종가 103.21 × 주식수 1128330774,6
+CVS Health,CVS,2015Q2,2015-06-30,분기별 매출액,37169000000,USD,공시,https://www.sec.gov/Archives/edgar/data/64803/000006480315000054/,,6
+CVS Health,CVS,2015Q2,2015-06-30,분기별 영업이익,2262000000,USD,공시,https://www.sec.gov/Archives/edgar/data/64803/000006480315000054/,,6
+CVS Health,CVS,2015Q2,2015-06-30,분기별 당기순이익(지배),1272000000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/64803/000006480315000054/,,6
+CVS Health,CVS,2015Q2,2015-06-30,분기별 영업활동현금흐름,1037000000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/64803/000006480315000054/ ; https://www.sec.gov/Archives/edgar/data/64803/000006480315000023/,누적 3021000000 − 직전누적 1984000000 (시작 2015-01-01),6
+CVS Health,CVS,2015Q2,2015-06-30,분기말 자산총계,74668000000,USD,공시,https://www.sec.gov/Archives/edgar/data/64803/000006480315000054/,,6
+CVS Health,CVS,2015Q2,2015-06-30,분기말 부채총계,37535000000,USD,계산(부채및자본-총자본),https://www.sec.gov/Archives/edgar/data/64803/000006480315000054/,부채및자본 74668000000 − 총자본 37133000000,6
+CVS Health,CVS,2015Q2,2015-06-30,분기말 총자본(자기자본),37133000000,USD,공시,https://www.sec.gov/Archives/edgar/data/64803/000006480315000054/,,6
+CVS Health,CVS,2015Q2,2015-06-30,분기말 지배지분 자본,37127000000,USD,공시,https://www.sec.gov/Archives/edgar/data/64803/000006480315000054/,,6
+CVS Health,CVS,2015Q2,2015-06-30,분기말 종가,104.88,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/CVS?interval=1d&events=splits (2015-06-30),,6
+CVS Health,CVS,2015Q2,2015-07-29,분기말 상장주식수,1114486195,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/64803/000006480315000054/,dei:EntityCommonStockSharesOutstanding 클래스 합,6
+CVS Health,CVS,2015Q2,2015-06-30,분기말 시가총액,116887312132,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/CVS?interval=1d&events=splits (2015-06-30) ; https://www.sec.gov/Archives/edgar/data/64803/000006480315000054/,종가 104.88 × 주식수 1114486195,6
+CVS Health,CVS,2015Q3,2015-09-30,분기별 매출액,38644000000,USD,공시,https://www.sec.gov/Archives/edgar/data/64803/000006480315000064/,,6
+CVS Health,CVS,2015Q3,2015-09-30,분기별 영업이익,2331000000,USD,공시,https://www.sec.gov/Archives/edgar/data/64803/000006480315000064/,,6
+CVS Health,CVS,2015Q3,2015-09-30,분기별 당기순이익(지배),1246000000,USD,계산(연결-비지배),https://www.sec.gov/Archives/edgar/data/64803/000006480315000064/,3개월 연결 1247000000 − 비지배 1000000,6
+CVS Health,CVS,2015Q3,2015-09-30,분기별 영업활동현금흐름,1820000000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/64803/000006480315000064/ ; https://www.sec.gov/Archives/edgar/data/64803/000006480315000054/,누적 4841000000 − 직전누적 3021000000 (시작 2015-01-01),6
+CVS Health,CVS,2015Q3,2015-09-30,분기말 자산총계,92362000000,USD,공시,https://www.sec.gov/Archives/edgar/data/64803/000006480315000064/,,6
+CVS Health,CVS,2015Q3,2015-09-30,분기말 부채총계,55182000000,USD,계산(부채및자본-총자본),https://www.sec.gov/Archives/edgar/data/64803/000006480315000064/,부채및자본 92362000000 − 총자본 37180000000,6
+CVS Health,CVS,2015Q3,2015-09-30,분기말 총자본(자기자본),37180000000,USD,공시,https://www.sec.gov/Archives/edgar/data/64803/000006480315000064/,,6
+CVS Health,CVS,2015Q3,2015-09-30,분기말 지배지분 자본,37174000000,USD,공시,https://www.sec.gov/Archives/edgar/data/64803/000006480315000064/,,6
+CVS Health,CVS,2015Q3,2015-09-30,분기말 종가,96.48,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/CVS?interval=1d&events=splits (2015-09-30),,6
+CVS Health,CVS,2015Q3,2015-10-23,분기말 상장주식수,1107317129,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/64803/000006480315000064/,dei:EntityCommonStockSharesOutstanding 클래스 합,6
+CVS Health,CVS,2015Q3,2015-09-30,분기말 시가총액,106833956606,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/CVS?interval=1d&events=splits (2015-09-30) ; https://www.sec.gov/Archives/edgar/data/64803/000006480315000064/,종가 96.48 × 주식수 1107317129,6
+CVS Health,CVS,2015Q4,2015-12-31,분기별 매출액,41146000000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/64803/000006480316000074/ ; https://www.sec.gov/Archives/edgar/data/64803/000006480315000064/,연간 153290000000 − 9개월누적 112144000000 (Revenues),6
+CVS Health,CVS,2015Q4,2015-12-31,분기별 영업이익,2729000000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/64803/000006480316000074/ ; https://www.sec.gov/Archives/edgar/data/64803/000006480315000064/,연간 9454000000 − 9개월누적 6725000000 (OperatingIncomeLoss),6
+CVS Health,CVS,2015Q4,2015-12-31,분기별 당기순이익(지배),1498000000,USD,계산(연간(연결-비지배)-3분기누적),https://www.sec.gov/Archives/edgar/data/64803/000006480316000074/ ; https://www.sec.gov/Archives/edgar/data/64803/000006480315000064/,연간 연결 5239000000 − 비지배 2000000 − (9개월 연결 3740000000 − 비지배 1000000),6
+CVS Health,CVS,2015Q4,2015-12-31,분기별 영업활동현금흐름,3571000000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/64803/000006480316000074/ ; https://www.sec.gov/Archives/edgar/data/64803/000006480315000064/,누적 8412000000 − 직전누적 4841000000 (시작 2015-01-01),6
+CVS Health,CVS,2015Q4,2015-12-31,분기말 자산총계,92437000000,USD,공시(재작성 반영),https://www.sec.gov/Archives/edgar/data/64803/000006480317000006/,원 공시 93657000000 (https://www.sec.gov/Archives/edgar/data/64803/000006480316000074/),6
+CVS Health,CVS,2015Q4,2015-12-31,분기말 부채총계,55195000000,USD,계산(부채및자본-총자본)(재작성 반영),https://www.sec.gov/Archives/edgar/data/64803/000006480317000006/,부채및자본 92437000000 − 총자본 37203000000 − 메자닌 39000000 ; 메자닌(일시자본) 39000000 별도 ; 원 공시 56415000000 (https://www.sec.gov/Archives/edgar/data/64803/000006480316000074/),6
+CVS Health,CVS,2015Q4,2015-12-31,분기말 총자본(자기자본),37203000000,USD,공시,https://www.sec.gov/Archives/edgar/data/64803/000006480316000074/,,6
+CVS Health,CVS,2015Q4,2015-12-31,분기말 지배지분 자본,37196000000,USD,공시,https://www.sec.gov/Archives/edgar/data/64803/000006480316000074/,,6
+CVS Health,CVS,2015Q4,2015-12-31,분기말 종가,97.77,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/CVS?interval=1d&events=splits (2015-12-31),,6
+CVS Health,CVS,2015Q4,2016-02-03,분기말 상장주식수,1098490835,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/64803/000006480316000074/,dei:EntityCommonStockSharesOutstanding 클래스 합,6
+CVS Health,CVS,2015Q4,2015-12-31,분기말 시가총액,107399448938,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/CVS?interval=1d&events=splits (2015-12-31) ; https://www.sec.gov/Archives/edgar/data/64803/000006480316000074/,종가 97.77 × 주식수 1098490835,6
+CVS Health,CVS,2016Q1,2016-03-31,분기별 매출액,43215000000,USD,공시,https://www.sec.gov/Archives/edgar/data/64803/000006480316000080/,,6
+CVS Health,CVS,2016Q1,2016-03-31,분기별 영업이익,2176000000,USD,공시,https://www.sec.gov/Archives/edgar/data/64803/000006480316000080/,,6
+CVS Health,CVS,2016Q1,2016-03-31,분기별 당기순이익(지배),1146000000,USD,계산(연결-비지배),https://www.sec.gov/Archives/edgar/data/64803/000006480316000080/,3개월 연결 1147000000 − 비지배 1000000,6
+CVS Health,CVS,2016Q1,2016-03-31,분기별 영업활동현금흐름,2412000000,USD,공시,https://www.sec.gov/Archives/edgar/data/64803/000006480316000080/,,6
+CVS Health,CVS,2016Q1,2016-03-31,분기말 자산총계,92634000000,USD,공시,https://www.sec.gov/Archives/edgar/data/64803/000006480316000080/,,6
+CVS Health,CVS,2016Q1,2016-03-31,분기말 부채총계,56603000000,USD,계산(부채및자본-총자본),https://www.sec.gov/Archives/edgar/data/64803/000006480316000080/,부채및자본 92634000000 − 총자본 36031000000,6
+CVS Health,CVS,2016Q1,2016-03-31,분기말 총자본(자기자본),36031000000,USD,공시,https://www.sec.gov/Archives/edgar/data/64803/000006480316000080/,,6
+CVS Health,CVS,2016Q1,2016-03-31,분기말 지배지분 자본,36025000000,USD,공시,https://www.sec.gov/Archives/edgar/data/64803/000006480316000080/,,6
+CVS Health,CVS,2016Q1,2016-03-31,분기말 종가,103.73,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/CVS?interval=1d&events=splits (2016-03-31),,6
+CVS Health,CVS,2016Q1,2016-04-26,분기말 상장주식수,1074022092,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/64803/000006480316000080/,dei:EntityCommonStockSharesOutstanding 클래스 합,6
+CVS Health,CVS,2016Q1,2016-03-31,분기말 시가총액,111408311603,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/CVS?interval=1d&events=splits (2016-03-31) ; https://www.sec.gov/Archives/edgar/data/64803/000006480316000080/,종가 103.73 × 주식수 1074022092,6
+CVS Health,CVS,2016Q2,2016-06-30,분기별 매출액,43725000000,USD,공시,https://www.sec.gov/Archives/edgar/data/64803/000006480316000090/,,6
+CVS Health,CVS,2016Q2,2016-06-30,분기별 영업이익,2350000000,USD,공시,https://www.sec.gov/Archives/edgar/data/64803/000006480316000090/,,6
+CVS Health,CVS,2016Q2,2016-06-30,분기별 당기순이익(지배),924000000,USD,계산(연결-비지배),https://www.sec.gov/Archives/edgar/data/64803/000006480316000090/,3개월 연결 924000000 − 비지배 0,6
+CVS Health,CVS,2016Q2,2016-06-30,분기별 영업활동현금흐름,1611000000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/64803/000006480316000090/ ; https://www.sec.gov/Archives/edgar/data/64803/000006480316000080/,누적 4023000000 − 직전누적 2412000000 (시작 2016-01-01),6
+CVS Health,CVS,2016Q2,2016-06-30,분기말 자산총계,92748000000,USD,공시,https://www.sec.gov/Archives/edgar/data/64803/000006480316000090/,,6
+CVS Health,CVS,2016Q2,2016-06-30,분기말 부채총계,57982000000,USD,계산(부채및자본-총자본),https://www.sec.gov/Archives/edgar/data/64803/000006480316000090/,부채및자본 92748000000 − 총자본 34766000000,6
+CVS Health,CVS,2016Q2,2016-06-30,분기말 총자본(자기자본),34766000000,USD,공시,https://www.sec.gov/Archives/edgar/data/64803/000006480316000090/,,6
+CVS Health,CVS,2016Q2,2016-06-30,분기말 지배지분 자본,34760000000,USD,공시,https://www.sec.gov/Archives/edgar/data/64803/000006480316000090/,,6
+CVS Health,CVS,2016Q2,2016-06-30,분기말 종가,95.74,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/CVS?interval=1d&events=splits (2016-06-30),,6
+CVS Health,CVS,2016Q2,2016-07-26,분기말 상장주식수,1066214990,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/64803/000006480316000090/,dei:EntityCommonStockSharesOutstanding 클래스 합,6
+CVS Health,CVS,2016Q2,2016-06-30,분기말 시가총액,102079423143,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/CVS?interval=1d&events=splits (2016-06-30) ; https://www.sec.gov/Archives/edgar/data/64803/000006480316000090/,종가 95.74 × 주식수 1066214990,6
+CVS Health,CVS,2016Q3,2016-09-30,분기별 매출액,44615000000,USD,공시,https://www.sec.gov/Archives/edgar/data/64803/000006480316000097/,,6
+CVS Health,CVS,2016Q3,2016-09-30,분기별 영업이익,2817000000,USD,공시,https://www.sec.gov/Archives/edgar/data/64803/000006480316000097/,,6
+CVS Health,CVS,2016Q3,2016-09-30,분기별 당기순이익(지배),1540000000,USD,계산(연결-비지배),https://www.sec.gov/Archives/edgar/data/64803/000006480316000097/,3개월 연결 1541000000 − 비지배 1000000,6
+CVS Health,CVS,2016Q3,2016-09-30,분기별 영업활동현금흐름,3925000000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/64803/000006480316000097/ ; https://www.sec.gov/Archives/edgar/data/64803/000006480316000090/,누적 7948000000 − 직전누적 4023000000 (시작 2016-01-01),6
+CVS Health,CVS,2016Q3,2016-09-30,분기말 자산총계,94156000000,USD,공시,https://www.sec.gov/Archives/edgar/data/64803/000006480316000097/,,6
+CVS Health,CVS,2016Q3,2016-09-30,분기말 부채총계,58202000000,USD,계산(부채및자본-총자본),https://www.sec.gov/Archives/edgar/data/64803/000006480316000097/,부채및자본 94156000000 − 총자본 35954000000,6
+CVS Health,CVS,2016Q3,2016-09-30,분기말 총자본(자기자본),35954000000,USD,공시,https://www.sec.gov/Archives/edgar/data/64803/000006480316000097/,,6
+CVS Health,CVS,2016Q3,2016-09-30,분기말 지배지분 자본,35949000000,USD,공시,https://www.sec.gov/Archives/edgar/data/64803/000006480316000097/,,6
+CVS Health,CVS,2016Q3,2016-09-30,분기말 종가,88.99,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/CVS?interval=1d&events=splits (2016-09-30),,6
+CVS Health,CVS,2016Q3,2016-11-01,분기말 상장주식수,1066439174,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/64803/000006480316000097/,dei:EntityCommonStockSharesOutstanding 클래스 합,6
+CVS Health,CVS,2016Q3,2016-09-30,분기말 시가총액,94902422094,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/CVS?interval=1d&events=splits (2016-09-30) ; https://www.sec.gov/Archives/edgar/data/64803/000006480316000097/,종가 88.99 × 주식수 1066439174,6
+CVS Health,CVS,2016Q4,2016-12-31,분기별 매출액,45971000000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/64803/000006480317000006/ ; https://www.sec.gov/Archives/edgar/data/64803/000006480316000097/,연간 177526000000 − 9개월누적 131555000000 (Revenues),6
+CVS Health,CVS,2016Q4,2016-12-31,분기별 영업이익,2995000000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/64803/000006480317000006/ ; https://www.sec.gov/Archives/edgar/data/64803/000006480316000097/,연간 10338000000 − 9개월누적 7343000000 (OperatingIncomeLoss),6
+CVS Health,CVS,2016Q4,2016-12-31,분기별 당기순이익(지배),1707000000,USD,계산(연간(연결-비지배)-3분기누적),https://www.sec.gov/Archives/edgar/data/64803/000006480317000006/ ; https://www.sec.gov/Archives/edgar/data/64803/000006480316000097/,연간 연결 5319000000 − 비지배 2000000 − (9개월 연결 3612000000 − 비지배 2000000),6
+CVS Health,CVS,2016Q4,2016-12-31,분기별 영업활동현금흐름,2121000000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/64803/000006480317000006/ ; https://www.sec.gov/Archives/edgar/data/64803/000006480316000097/,누적 10069000000 − 직전누적 7948000000 (시작 2016-01-01),6
+CVS Health,CVS,2016Q4,2016-12-31,분기말 자산총계,94462000000,USD,공시,https://www.sec.gov/Archives/edgar/data/64803/000006480317000006/,,6
+CVS Health,CVS,2016Q4,2016-12-31,분기말 부채총계,57628000000,USD,계산(부채및자본-총자본),https://www.sec.gov/Archives/edgar/data/64803/000006480317000006/,부채및자본 94462000000 − 총자본 36834000000,6
+CVS Health,CVS,2016Q4,2016-12-31,분기말 총자본(자기자본),36834000000,USD,공시,https://www.sec.gov/Archives/edgar/data/64803/000006480317000006/,,6
+CVS Health,CVS,2016Q4,2016-12-31,분기말 지배지분 자본,36830000000,USD,공시,https://www.sec.gov/Archives/edgar/data/64803/000006480317000006/,,6
+CVS Health,CVS,2016Q4,2016-12-30,분기말 종가,78.91,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/CVS?interval=1d&events=splits (2016-12-30),,6
+CVS Health,CVS,2016Q4,2017-02-03,분기말 상장주식수,1025699605,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/64803/000006480317000006/,dei:EntityCommonStockSharesOutstanding 클래스 합,6
+CVS Health,CVS,2016Q4,2016-12-30,분기말 시가총액,80937955831,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/CVS?interval=1d&events=splits (2016-12-30) ; https://www.sec.gov/Archives/edgar/data/64803/000006480317000006/,종가 78.91 × 주식수 1025699605,6
+CVS Health,CVS,2017Q1,2017-03-31,분기별 매출액,44514000000,USD,공시,https://www.sec.gov/Archives/edgar/data/64803/000155837017003258/,,6
+CVS Health,CVS,2017Q1,2017-03-31,분기별 영업이익,1793000000,USD,공시,https://www.sec.gov/Archives/edgar/data/64803/000155837017003258/,,6
+CVS Health,CVS,2017Q1,2017-03-31,분기별 당기순이익(지배),952000000,USD,공시,https://www.sec.gov/Archives/edgar/data/64803/000155837017003258/,,6
+CVS Health,CVS,2017Q1,2017-03-31,분기별 영업활동현금흐름,3533000000,USD,공시,https://www.sec.gov/Archives/edgar/data/64803/000155837017003258/,,6
+CVS Health,CVS,2017Q1,2017-03-31,분기말 자산총계,92670000000,USD,공시,https://www.sec.gov/Archives/edgar/data/64803/000155837017003258/,,6
+CVS Health,CVS,2017Q1,2017-03-31,분기말 부채총계,58828000000,USD,계산(부채및자본-총자본),https://www.sec.gov/Archives/edgar/data/64803/000155837017003258/,부채및자본 92670000000 − 총자본 33842000000,6
+CVS Health,CVS,2017Q1,2017-03-31,분기말 총자본(자기자본),33842000000,USD,공시,https://www.sec.gov/Archives/edgar/data/64803/000155837017003258/,,6
+CVS Health,CVS,2017Q1,2017-03-31,분기말 지배지분 자본,33837000000,USD,공시,https://www.sec.gov/Archives/edgar/data/64803/000155837017003258/,,6
+CVS Health,CVS,2017Q1,2017-03-31,분기말 종가,78.5,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/CVS?interval=1d&events=splits (2017-03-31),,6
+CVS Health,CVS,2017Q1,2017-04-26,분기말 상장주식수,1018795398,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/64803/000155837017003258/,dei:EntityCommonStockSharesOutstanding 클래스 합,6
+CVS Health,CVS,2017Q1,2017-03-31,분기말 시가총액,79975438743,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/CVS?interval=1d&events=splits (2017-03-31) ; https://www.sec.gov/Archives/edgar/data/64803/000155837017003258/,종가 78.5 × 주식수 1018795398,6
+CVS Health,CVS,2017Q2,2017-06-30,분기별 매출액,45685000000,USD,공시,https://www.sec.gov/Archives/edgar/data/64803/000155837017006198/,,6
+CVS Health,CVS,2017Q2,2017-06-30,분기별 영업이익,2117000000,USD,공시,https://www.sec.gov/Archives/edgar/data/64803/000155837017006198/,,6
+CVS Health,CVS,2017Q2,2017-06-30,분기별 당기순이익(지배),1098000000,USD,공시,https://www.sec.gov/Archives/edgar/data/64803/000155837017006198/,,6
+CVS Health,CVS,2017Q2,2017-06-30,분기별 영업활동현금흐름,1999000000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/64803/000155837017006198/ ; https://www.sec.gov/Archives/edgar/data/64803/000155837017003258/,누적 5532000000 − 직전누적 3533000000 (시작 2017-01-01),6
+CVS Health,CVS,2017Q2,2017-06-30,분기말 자산총계,92525000000,USD,공시,https://www.sec.gov/Archives/edgar/data/64803/000155837017006198/,,6
+CVS Health,CVS,2017Q2,2017-06-30,분기말 부채총계,58378000000,USD,계산(부채및자본-총자본),https://www.sec.gov/Archives/edgar/data/64803/000155837017006198/,부채및자본 92525000000 − 총자본 34147000000,6
+CVS Health,CVS,2017Q2,2017-06-30,분기말 총자본(자기자본),34147000000,USD,공시,https://www.sec.gov/Archives/edgar/data/64803/000155837017006198/,,6
+CVS Health,CVS,2017Q2,2017-06-30,분기말 지배지분 자본,34142000000,USD,공시,https://www.sec.gov/Archives/edgar/data/64803/000155837017006198/,,6
+CVS Health,CVS,2017Q2,2017-06-30,분기말 종가,80.46,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/CVS?interval=1d&events=splits (2017-06-30),,6
+CVS Health,CVS,2017Q2,2017-08-01,분기말 상장주식수,1016564728,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/64803/000155837017006198/,dei:EntityCommonStockSharesOutstanding 클래스 합,6
+CVS Health,CVS,2017Q2,2017-06-30,분기말 시가총액,81792798015,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/CVS?interval=1d&events=splits (2017-06-30) ; https://www.sec.gov/Archives/edgar/data/64803/000155837017006198/,종가 80.46 × 주식수 1016564728,6
+CVS Health,CVS,2017Q3,2017-09-30,분기별 매출액,46181000000,USD,공시,https://www.sec.gov/Archives/edgar/data/64803/000155837017008250/,,6
+CVS Health,CVS,2017Q3,2017-09-30,분기별 영업이익,2499000000,USD,공시,https://www.sec.gov/Archives/edgar/data/64803/000155837017008250/,,6
+CVS Health,CVS,2017Q3,2017-09-30,분기별 당기순이익(지배),1285000000,USD,공시,https://www.sec.gov/Archives/edgar/data/64803/000155837017008250/,,6
+CVS Health,CVS,2017Q3,2017-09-30,분기별 영업활동현금흐름,2611000000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/64803/000155837017008250/ ; https://www.sec.gov/Archives/edgar/data/64803/000155837017006198/,누적 8143000000 − 직전누적 5532000000 (시작 2017-01-01),6
+CVS Health,CVS,2017Q3,2017-09-30,분기말 자산총계,92853000000,USD,공시,https://www.sec.gov/Archives/edgar/data/64803/000155837017008250/,,6
+CVS Health,CVS,2017Q3,2017-09-30,분기말 부채총계,57985000000,USD,계산(부채및자본-총자본),https://www.sec.gov/Archives/edgar/data/64803/000155837017008250/,부채및자본 92853000000 − 총자본 34868000000,6
+CVS Health,CVS,2017Q3,2017-09-30,분기말 총자본(자기자본),34868000000,USD,공시,https://www.sec.gov/Archives/edgar/data/64803/000155837017008250/,,6
+CVS Health,CVS,2017Q3,2017-09-30,분기말 지배지분 자본,34863000000,USD,공시,https://www.sec.gov/Archives/edgar/data/64803/000155837017008250/,,6
+CVS Health,CVS,2017Q3,2017-09-29,분기말 종가,81.32,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/CVS?interval=1d&events=splits (2017-09-29),,6
+CVS Health,CVS,2017Q3,2017-10-31,분기말 상장주식수,1012992425,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/64803/000155837017008250/,dei:EntityCommonStockSharesOutstanding 클래스 합,6
+CVS Health,CVS,2017Q3,2017-09-29,분기말 시가총액,82376544001,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/CVS?interval=1d&events=splits (2017-09-29) ; https://www.sec.gov/Archives/edgar/data/64803/000155837017008250/,종가 81.32 × 주식수 1012992425,6
+CVS Health,CVS,2017Q4,2017-12-31,분기별 매출액,48385000000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/64803/000155837018000707/ ; https://www.sec.gov/Archives/edgar/data/64803/000155837017008250/,연간 184765000000 − 9개월누적 136380000000 (Revenues),6
+CVS Health,CVS,2017Q4,2017-12-31,분기별 영업이익,3108000000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/64803/000155837018000707/ ; https://www.sec.gov/Archives/edgar/data/64803/000155837017008250/,연간 9517000000 − 9개월누적 6409000000 (OperatingIncomeLoss),6
+CVS Health,CVS,2017Q4,2017-12-31,분기별 당기순이익(지배),3287000000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/64803/000155837018000707/ ; https://www.sec.gov/Archives/edgar/data/64803/000155837017008250/,연간 6622000000 − 9개월누적 3335000000 (NetIncomeLoss),6
+CVS Health,CVS,2017Q4,2017-12-31,분기별 영업활동현금흐름,-136000000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/64803/000155837018000707/ ; https://www.sec.gov/Archives/edgar/data/64803/000155837017008250/,누적 8007000000 − 직전누적 8143000000 (시작 2017-01-01),6
+CVS Health,CVS,2017Q4,2017-12-31,분기말 자산총계,95131000000,USD,공시,https://www.sec.gov/Archives/edgar/data/64803/000155837018000707/,,6
+CVS Health,CVS,2017Q4,2017-12-31,분기말 부채총계,57436000000,USD,계산(부채및자본-총자본),https://www.sec.gov/Archives/edgar/data/64803/000155837018000707/,부채및자본 95131000000 − 총자본 37695000000,6
+CVS Health,CVS,2017Q4,2017-12-31,분기말 총자본(자기자본),37695000000,USD,공시,https://www.sec.gov/Archives/edgar/data/64803/000155837018000707/,,6
+CVS Health,CVS,2017Q4,2017-12-31,분기말 지배지분 자본,37691000000,USD,공시,https://www.sec.gov/Archives/edgar/data/64803/000155837018000707/,,6
+CVS Health,CVS,2017Q4,2017-12-29,분기말 종가,72.5,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/CVS?interval=1d&events=splits (2017-12-29),,6
+CVS Health,CVS,2017Q4,2018-02-09,분기말 상장주식수,1014532157,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/64803/000155837018000707/,dei:EntityCommonStockSharesOutstanding 클래스 합,6
+CVS Health,CVS,2017Q4,2017-12-29,분기말 시가총액,73553581382,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/CVS?interval=1d&events=splits (2017-12-29) ; https://www.sec.gov/Archives/edgar/data/64803/000155837018000707/,종가 72.5 × 주식수 1014532157,6
+CVS Health,CVS,2018Q1,2018-03-31,분기별 매출액,45743000000,USD,공시(재작성 반영),https://www.sec.gov/Archives/edgar/data/64803/000006480319000021/,원 공시 45693000000 (https://www.sec.gov/Archives/edgar/data/64803/000155837018003777/),6
+CVS Health,CVS,2018Q1,2018-03-31,분기별 영업이익,1996000000,USD,공시(재작성 반영),https://www.sec.gov/Archives/edgar/data/64803/000006480319000021/,원 공시 1946000000 (https://www.sec.gov/Archives/edgar/data/64803/000155837018003777/),6
+CVS Health,CVS,2018Q1,2018-03-31,분기별 당기순이익(지배),998000000,USD,공시,https://www.sec.gov/Archives/edgar/data/64803/000155837018003777/,,6
+CVS Health,CVS,2018Q1,2018-03-31,분기별 영업활동현금흐름,2355000000,USD,공시,https://www.sec.gov/Archives/edgar/data/64803/000155837018003777/,,6
+CVS Health,CVS,2018Q1,2018-03-31,분기말 자산총계,135139000000,USD,공시,https://www.sec.gov/Archives/edgar/data/64803/000155837018003777/,,6
+CVS Health,CVS,2018Q1,2018-03-31,분기말 부채총계,96462000000,USD,공시,https://www.sec.gov/Archives/edgar/data/64803/000155837018003777/,,6
+CVS Health,CVS,2018Q1,2018-03-31,분기말 총자본(자기자본),38677000000,USD,공시,https://www.sec.gov/Archives/edgar/data/64803/000155837018003777/,,6
+CVS Health,CVS,2018Q1,2018-03-31,분기말 지배지분 자본,38673000000,USD,공시,https://www.sec.gov/Archives/edgar/data/64803/000155837018003777/,,6
+CVS Health,CVS,2018Q1,2018-03-29,분기말 종가,62.21,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/CVS?interval=1d&events=splits (2018-03-29),,6
+CVS Health,CVS,2018Q1,2018-04-25,분기말 상장주식수,1016646347,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/64803/000155837018003777/,dei:EntityCommonStockSharesOutstanding 클래스 합,6
+CVS Health,CVS,2018Q1,2018-03-29,분기말 시가총액,63245569247,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/CVS?interval=1d&events=splits (2018-03-29) ; https://www.sec.gov/Archives/edgar/data/64803/000155837018003777/,종가 62.21 × 주식수 1016646347,6
+CVS Health,CVS,2018Q2,2018-06-30,분기별 매출액,46708000000,USD,공시,https://www.sec.gov/Archives/edgar/data/64803/000155837018006683/,,6
+CVS Health,CVS,2018Q2,2018-06-30,분기별 영업이익,-1587000000,USD,공시,https://www.sec.gov/Archives/edgar/data/64803/000155837018006683/,,6
+CVS Health,CVS,2018Q2,2018-06-30,분기별 당기순이익(지배),-2563000000,USD,공시,https://www.sec.gov/Archives/edgar/data/64803/000155837018006683/,,6
+CVS Health,CVS,2018Q2,2018-06-30,분기별 영업활동현금흐름,2934000000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/64803/000155837018006683/ ; https://www.sec.gov/Archives/edgar/data/64803/000155837018003777/,누적 5289000000 − 직전누적 2355000000 (시작 2018-01-01),6
+CVS Health,CVS,2018Q2,2018-06-30,분기말 자산총계,133290000000,USD,공시,https://www.sec.gov/Archives/edgar/data/64803/000155837018006683/,,6
+CVS Health,CVS,2018Q2,2018-06-30,분기말 부채총계,97679000000,USD,공시,https://www.sec.gov/Archives/edgar/data/64803/000155837018006683/,,6
+CVS Health,CVS,2018Q2,2018-06-30,분기말 총자본(자기자본),35611000000,USD,공시,https://www.sec.gov/Archives/edgar/data/64803/000155837018006683/,,6
+CVS Health,CVS,2018Q2,2018-06-30,분기말 지배지분 자본,35607000000,USD,공시,https://www.sec.gov/Archives/edgar/data/64803/000155837018006683/,,6
+CVS Health,CVS,2018Q2,2018-06-29,분기말 종가,64.35,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/CVS?interval=1d&events=splits (2018-06-29),,6
+CVS Health,CVS,2018Q2,2018-08-01,분기말 상장주식수,1018063785,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/64803/000155837018006683/,dei:EntityCommonStockSharesOutstanding 클래스 합,6
+CVS Health,CVS,2018Q2,2018-06-29,분기말 시가총액,65512404565,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/CVS?interval=1d&events=splits (2018-06-29) ; https://www.sec.gov/Archives/edgar/data/64803/000155837018006683/,종가 64.35 × 주식수 1018063785,6
+CVS Health,CVS,2018Q3,2018-09-30,분기별 매출액,47269000000,USD,공시,https://www.sec.gov/Archives/edgar/data/64803/000155837018008642/,,6
+CVS Health,CVS,2018Q3,2018-09-30,분기별 영업이익,2353000000,USD,공시,https://www.sec.gov/Archives/edgar/data/64803/000155837018008642/,,6
+CVS Health,CVS,2018Q3,2018-09-30,분기별 당기순이익(지배),1390000000,USD,공시,https://www.sec.gov/Archives/edgar/data/64803/000155837018008642/,,6
+CVS Health,CVS,2018Q3,2018-09-30,분기별 영업활동현금흐름,1097000000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/64803/000155837018008642/ ; https://www.sec.gov/Archives/edgar/data/64803/000155837018006683/,누적 6386000000 − 직전누적 5289000000 (시작 2018-01-01),6
+CVS Health,CVS,2018Q3,2018-09-30,분기말 자산총계,131506000000,USD,공시,https://www.sec.gov/Archives/edgar/data/64803/000155837018008642/,,6
+CVS Health,CVS,2018Q3,2018-09-30,분기말 부채총계,94884000000,USD,공시,https://www.sec.gov/Archives/edgar/data/64803/000155837018008642/,,6
+CVS Health,CVS,2018Q3,2018-09-30,분기말 총자본(자기자본),36622000000,USD,공시,https://www.sec.gov/Archives/edgar/data/64803/000155837018008642/,,6
+CVS Health,CVS,2018Q3,2018-09-30,분기말 지배지분 자본,36618000000,USD,공시,https://www.sec.gov/Archives/edgar/data/64803/000155837018008642/,,6
+CVS Health,CVS,2018Q3,2018-09-28,분기말 종가,78.72,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/CVS?interval=1d&events=splits (2018-09-28),,6
+CVS Health,CVS,2018Q3,2018-10-31,분기말 상장주식수,1018799080,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/64803/000155837018008642/,dei:EntityCommonStockSharesOutstanding 클래스 합,6
+CVS Health,CVS,2018Q3,2018-09-28,분기말 시가총액,80199863578,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/CVS?interval=1d&events=splits (2018-09-28) ; https://www.sec.gov/Archives/edgar/data/64803/000155837018008642/,종가 78.72 × 주식수 1018799080,6
+CVS Health,CVS,2018Q4,2018-12-31,분기별 매출액,54909000000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/64803/000006480319000013/ ; https://www.sec.gov/Archives/edgar/data/64803/000155837018008642/,연간 194579000000 − 9개월누적 139670000000 (Revenues),6
+CVS Health,CVS,2018Q4,2018-12-31,분기별 영업이익,1309000000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/64803/000006480319000013/ ; https://www.sec.gov/Archives/edgar/data/64803/000155837018008642/,연간 4021000000 − 9개월누적 2712000000 (OperatingIncomeLoss),6
+CVS Health,CVS,2018Q4,2018-12-31,분기별 당기순이익(지배),-419000000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/64803/000006480319000013/ ; https://www.sec.gov/Archives/edgar/data/64803/000155837018008642/,연간 -594000000 − 9개월누적 -175000000 (NetIncomeLoss),6
+CVS Health,CVS,2018Q4,2018-12-31,분기별 영업활동현금흐름,2479000000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/64803/000006480319000013/ ; https://www.sec.gov/Archives/edgar/data/64803/000155837018008642/,누적 8865000000 − 직전누적 6386000000 (시작 2018-01-01),6
+CVS Health,CVS,2018Q4,2018-12-31,분기말 자산총계,196456000000,USD,공시,https://www.sec.gov/Archives/edgar/data/64803/000006480319000013/,,6
+CVS Health,CVS,2018Q4,2018-12-31,분기말 부채총계,137913000000,USD,공시,https://www.sec.gov/Archives/edgar/data/64803/000006480319000013/,,6
+CVS Health,CVS,2018Q4,2018-12-31,분기말 총자본(자기자본),58543000000,USD,공시,https://www.sec.gov/Archives/edgar/data/64803/000006480319000013/,,6
+CVS Health,CVS,2018Q4,2018-12-31,분기말 지배지분 자본,58225000000,USD,공시,https://www.sec.gov/Archives/edgar/data/64803/000006480319000013/,,6
+CVS Health,CVS,2018Q4,2018-12-31,분기말 종가,65.52,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/CVS?interval=1d&events=splits (2018-12-31),,6
+CVS Health,CVS,2018Q4,2019-02-19,분기말 상장주식수,1297082165,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/64803/000006480319000013/,dei:EntityCommonStockSharesOutstanding 클래스 합,6
+CVS Health,CVS,2018Q4,2018-12-31,분기말 시가총액,84984823451,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/CVS?interval=1d&events=splits (2018-12-31) ; https://www.sec.gov/Archives/edgar/data/64803/000006480319000013/,종가 65.52 × 주식수 1297082165,6
+CVS Health,CVS,2019Q1,2019-03-31,분기별 매출액,61646000000,USD,공시,https://www.sec.gov/Archives/edgar/data/64803/000006480319000021/,,6
+CVS Health,CVS,2019Q1,2019-03-31,분기별 영업이익,2690000000,USD,공시,https://www.sec.gov/Archives/edgar/data/64803/000006480319000021/,,6
+CVS Health,CVS,2019Q1,2019-03-31,분기별 당기순이익(지배),1421000000,USD,계산(연결-비지배)(재작성 반영),https://www.sec.gov/Archives/edgar/data/64803/000006480319000021/,3개월 연결 1427000000 − 비지배 6000000 ; 원 공시 1433000000 (https://www.sec.gov/Archives/edgar/data/64803/000006480319000021/),6
+CVS Health,CVS,2019Q1,2019-03-31,분기별 영업활동현금흐름,1948000000,USD,공시,https://www.sec.gov/Archives/edgar/data/64803/000006480319000021/,,6
+CVS Health,CVS,2019Q1,2019-03-31,분기말 자산총계,219768000000,USD,공시,https://www.sec.gov/Archives/edgar/data/64803/000006480319000021/,,6
+CVS Health,CVS,2019Q1,2019-03-31,분기말 부채총계,159762000000,USD,공시,https://www.sec.gov/Archives/edgar/data/64803/000006480319000021/,,6
+CVS Health,CVS,2019Q1,2019-03-31,분기말 총자본(자기자본),60006000000,USD,공시,https://www.sec.gov/Archives/edgar/data/64803/000006480319000021/,,6
+CVS Health,CVS,2019Q1,2019-03-31,분기말 지배지분 자본,59686000000,USD,공시,https://www.sec.gov/Archives/edgar/data/64803/000006480319000021/,,6
+CVS Health,CVS,2019Q1,2019-03-29,분기말 종가,53.93,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/CVS?interval=1d&events=splits (2019-03-29),,6
+CVS Health,CVS,2019Q1,2019-04-23,분기말 상장주식수,1299092100,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/64803/000006480319000021/,dei:EntityCommonStockSharesOutstanding 클래스 합,6
+CVS Health,CVS,2019Q1,2019-03-29,분기말 시가총액,70060036953,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/CVS?interval=1d&events=splits (2019-03-29) ; https://www.sec.gov/Archives/edgar/data/64803/000006480319000021/,종가 53.93 × 주식수 1299092100,6
+CVS Health,CVS,2019Q2,2019-06-30,분기별 매출액,63431000000,USD,공시,https://www.sec.gov/Archives/edgar/data/64803/000006480319000039/,,6
+CVS Health,CVS,2019Q2,2019-06-30,분기별 영업이익,3332000000,USD,공시,https://www.sec.gov/Archives/edgar/data/64803/000006480319000039/,,6
+CVS Health,CVS,2019Q2,2019-06-30,분기별 당기순이익(지배),1936000000,USD,공시,https://www.sec.gov/Archives/edgar/data/64803/000006480319000039/,,6
+CVS Health,CVS,2019Q2,2019-06-30,분기별 영업활동현금흐름,5338000000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/64803/000006480319000039/ ; https://www.sec.gov/Archives/edgar/data/64803/000006480319000021/,누적 7286000000 − 직전누적 1948000000 (시작 2019-01-01),6
+CVS Health,CVS,2019Q2,2019-06-30,분기말 자산총계,218904000000,USD,공시,https://www.sec.gov/Archives/edgar/data/64803/000006480319000039/,,6
+CVS Health,CVS,2019Q2,2019-06-30,분기말 부채총계,157305000000,USD,공시,https://www.sec.gov/Archives/edgar/data/64803/000006480319000039/,,6
+CVS Health,CVS,2019Q2,2019-06-30,분기말 총자본(자기자본),61599000000,USD,공시,https://www.sec.gov/Archives/edgar/data/64803/000006480319000039/,,6
+CVS Health,CVS,2019Q2,2019-06-30,분기말 지배지분 자본,61282000000,USD,공시,https://www.sec.gov/Archives/edgar/data/64803/000006480319000039/,,6
+CVS Health,CVS,2019Q2,2019-06-28,분기말 종가,54.49,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/CVS?interval=1d&events=splits (2019-06-28),,6
+CVS Health,CVS,2019Q2,2019-07-30,분기말 상장주식수,1300496722,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/64803/000006480319000039/,dei:EntityCommonStockSharesOutstanding 클래스 합,6
+CVS Health,CVS,2019Q2,2019-06-28,분기말 시가총액,70864066382,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/CVS?interval=1d&events=splits (2019-06-28) ; https://www.sec.gov/Archives/edgar/data/64803/000006480319000039/,종가 54.49 × 주식수 1300496722,6
+CVS Health,CVS,2019Q3,2019-09-30,분기별 매출액,64810000000,USD,공시,https://www.sec.gov/Archives/edgar/data/64803/000006480319000049/,,6
+CVS Health,CVS,2019Q3,2019-09-30,분기별 영업이익,2928000000,USD,공시,https://www.sec.gov/Archives/edgar/data/64803/000006480319000049/,,6
+CVS Health,CVS,2019Q3,2019-09-30,분기별 당기순이익(지배),1530000000,USD,공시,https://www.sec.gov/Archives/edgar/data/64803/000006480319000049/,,6
+CVS Health,CVS,2019Q3,2019-09-30,분기별 영업활동현금흐름,2928000000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/64803/000006480319000049/ ; https://www.sec.gov/Archives/edgar/data/64803/000006480319000039/,누적 10214000000 − 직전누적 7286000000 (시작 2019-01-01),6
+CVS Health,CVS,2019Q3,2019-09-30,분기말 자산총계,220113000000,USD,공시,https://www.sec.gov/Archives/edgar/data/64803/000006480319000049/,,6
+CVS Health,CVS,2019Q3,2019-09-30,분기말 부채총계,157180000000,USD,공시,https://www.sec.gov/Archives/edgar/data/64803/000006480319000049/,,6
+CVS Health,CVS,2019Q3,2019-09-30,분기말 총자본(자기자본),62933000000,USD,공시,https://www.sec.gov/Archives/edgar/data/64803/000006480319000049/,,6
+CVS Health,CVS,2019Q3,2019-09-30,분기말 지배지분 자본,62614000000,USD,공시,https://www.sec.gov/Archives/edgar/data/64803/000006480319000049/,,6
+CVS Health,CVS,2019Q3,2019-09-30,분기말 종가,63.07,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/CVS?interval=1d&events=splits (2019-09-30),,6
+CVS Health,CVS,2019Q3,2019-10-29,분기말 상장주식수,1300964007,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/64803/000006480319000049/,dei:EntityCommonStockSharesOutstanding 클래스 합,6
+CVS Health,CVS,2019Q3,2019-09-30,분기말 시가총액,82051799921,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/CVS?interval=1d&events=splits (2019-09-30) ; https://www.sec.gov/Archives/edgar/data/64803/000006480319000049/,종가 63.07 × 주식수 1300964007,6
+CVS Health,CVS,2019Q4,2019-12-31,분기별 매출액,66889000000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/64803/000006480320000007/ ; https://www.sec.gov/Archives/edgar/data/64803/000006480319000049/,연간 256776000000 − 9개월누적 189887000000 (Revenues),6
+CVS Health,CVS,2019Q4,2019-12-31,분기별 영업이익,3037000000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/64803/000006480320000007/ ; https://www.sec.gov/Archives/edgar/data/64803/000006480319000049/,연간 11987000000 − 9개월누적 8950000000 (OperatingIncomeLoss),6
+CVS Health,CVS,2019Q4,2019-12-31,분기별 당기순이익(지배),1747000000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/64803/000006480320000007/ ; https://www.sec.gov/Archives/edgar/data/64803/000006480319000049/,연간 6634000000 − 9개월누적 4887000000 (NetIncomeLoss),6
+CVS Health,CVS,2019Q4,2019-12-31,분기별 영업활동현금흐름,2634000000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/64803/000006480320000007/ ; https://www.sec.gov/Archives/edgar/data/64803/000006480319000049/,누적 12848000000 − 직전누적 10214000000 (시작 2019-01-01),6
+CVS Health,CVS,2019Q4,2019-12-31,분기말 자산총계,222449000000,USD,공시,https://www.sec.gov/Archives/edgar/data/64803/000006480320000007/,,6
+CVS Health,CVS,2019Q4,2019-12-31,분기말 부채총계,158279000000,USD,공시,https://www.sec.gov/Archives/edgar/data/64803/000006480320000007/,,6
+CVS Health,CVS,2019Q4,2019-12-31,분기말 총자본(자기자본),64170000000,USD,공시,https://www.sec.gov/Archives/edgar/data/64803/000006480320000007/,,6
+CVS Health,CVS,2019Q4,2019-12-31,분기말 지배지분 자본,63864000000,USD,공시,https://www.sec.gov/Archives/edgar/data/64803/000006480320000007/,,6
+CVS Health,CVS,2019Q4,2019-12-31,분기말 종가,74.29,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/CVS?interval=1d&events=splits (2019-12-31),,6
+CVS Health,CVS,2019Q4,2020-02-12,분기말 상장주식수,1304159680,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/64803/000006480320000007/,dei:EntityCommonStockSharesOutstanding 클래스 합,6
+CVS Health,CVS,2019Q4,2019-12-31,분기말 시가총액,96886022627,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/CVS?interval=1d&events=splits (2019-12-31) ; https://www.sec.gov/Archives/edgar/data/64803/000006480320000007/,종가 74.29 × 주식수 1304159680,6
+CVS Health,CVS,2020Q1,2020-03-31,분기별 매출액,66755000000,USD,공시,https://www.sec.gov/Archives/edgar/data/64803/000006480320000015/,,6
+CVS Health,CVS,2020Q1,2020-03-31,분기별 영업이익,3458000000,USD,공시,https://www.sec.gov/Archives/edgar/data/64803/000006480320000015/,,6
+CVS Health,CVS,2020Q1,2020-03-31,분기별 당기순이익(지배),2007000000,USD,공시,https://www.sec.gov/Archives/edgar/data/64803/000006480320000015/,,6
+CVS Health,CVS,2020Q1,2020-03-31,분기별 영업활동현금흐름,3305000000,USD,공시,https://www.sec.gov/Archives/edgar/data/64803/000006480320000015/,,6
+CVS Health,CVS,2020Q1,2020-03-31,분기말 자산총계,230639000000,USD,공시,https://www.sec.gov/Archives/edgar/data/64803/000006480320000015/,,6
+CVS Health,CVS,2020Q1,2020-03-31,분기말 부채총계,165165000000,USD,공시,https://www.sec.gov/Archives/edgar/data/64803/000006480320000015/,,6
+CVS Health,CVS,2020Q1,2020-03-31,분기말 총자본(자기자본),65474000000,USD,공시,https://www.sec.gov/Archives/edgar/data/64803/000006480320000015/,,6
+CVS Health,CVS,2020Q1,2020-03-31,분기말 지배지분 자본,65140000000,USD,공시,https://www.sec.gov/Archives/edgar/data/64803/000006480320000015/,,6
+CVS Health,CVS,2020Q1,2020-03-31,분기말 종가,59.33,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/CVS?interval=1d&events=splits (2020-03-31),,6
+CVS Health,CVS,2020Q1,2020-04-27,분기말 상장주식수,1307090830,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/64803/000006480320000015/,dei:EntityCommonStockSharesOutstanding 클래스 합,6
+CVS Health,CVS,2020Q1,2020-03-31,분기말 시가총액,77549698944,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/CVS?interval=1d&events=splits (2020-03-31) ; https://www.sec.gov/Archives/edgar/data/64803/000006480320000015/,종가 59.33 × 주식수 1307090830,6
+CVS Health,CVS,2020Q2,2020-06-30,분기별 매출액,65341000000,USD,공시,https://www.sec.gov/Archives/edgar/data/64803/000006480320000030/,,6
+CVS Health,CVS,2020Q2,2020-06-30,분기별 영업이익,4680000000,USD,공시,https://www.sec.gov/Archives/edgar/data/64803/000006480320000030/,,6
+CVS Health,CVS,2020Q2,2020-06-30,분기별 당기순이익(지배),2975000000,USD,공시,https://www.sec.gov/Archives/edgar/data/64803/000006480320000030/,,6
+CVS Health,CVS,2020Q2,2020-06-30,분기별 영업활동현금흐름,7119000000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/64803/000006480320000030/ ; https://www.sec.gov/Archives/edgar/data/64803/000006480320000015/,누적 10424000000 − 직전누적 3305000000 (시작 2020-01-01),6
+CVS Health,CVS,2020Q2,2020-06-30,분기말 자산총계,235495000000,USD,공시,https://www.sec.gov/Archives/edgar/data/64803/000006480320000030/,,6
+CVS Health,CVS,2020Q2,2020-06-30,분기말 부채총계,167140000000,USD,공시,https://www.sec.gov/Archives/edgar/data/64803/000006480320000030/,,6
+CVS Health,CVS,2020Q2,2020-06-30,분기말 총자본(자기자본),68355000000,USD,공시,https://www.sec.gov/Archives/edgar/data/64803/000006480320000030/,,6
+CVS Health,CVS,2020Q2,2020-06-30,분기말 지배지분 자본,68022000000,USD,공시,https://www.sec.gov/Archives/edgar/data/64803/000006480320000030/,,6
+CVS Health,CVS,2020Q2,2020-06-30,분기말 종가,64.97,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/CVS?interval=1d&events=splits (2020-06-30),,6
+CVS Health,CVS,2020Q2,2020-07-27,분기말 상장주식수,1308703450,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/64803/000006480320000030/,dei:EntityCommonStockSharesOutstanding 클래스 합,6
+CVS Health,CVS,2020Q2,2020-06-30,분기말 시가총액,85026463146,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/CVS?interval=1d&events=splits (2020-06-30) ; https://www.sec.gov/Archives/edgar/data/64803/000006480320000030/,종가 64.97 × 주식수 1308703450,6
+CVS Health,CVS,2020Q3,2020-09-30,분기별 매출액,67056000000,USD,공시,https://www.sec.gov/Archives/edgar/data/64803/000006480320000041/,,6
+CVS Health,CVS,2020Q3,2020-09-30,분기별 영업이익,3249000000,USD,공시,https://www.sec.gov/Archives/edgar/data/64803/000006480320000041/,,6
+CVS Health,CVS,2020Q3,2020-09-30,분기별 당기순이익(지배),1224000000,USD,공시,https://www.sec.gov/Archives/edgar/data/64803/000006480320000041/,,6
+CVS Health,CVS,2020Q3,2020-09-30,분기별 영업활동현금흐름,1874000000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/64803/000006480320000041/ ; https://www.sec.gov/Archives/edgar/data/64803/000006480320000030/,누적 12298000000 − 직전누적 10424000000 (시작 2020-01-01),6
+CVS Health,CVS,2020Q3,2020-09-30,분기말 자산총계,232898000000,USD,공시,https://www.sec.gov/Archives/edgar/data/64803/000006480320000041/,,6
+CVS Health,CVS,2020Q3,2020-09-30,분기말 부채총계,163786000000,USD,공시,https://www.sec.gov/Archives/edgar/data/64803/000006480320000041/,,6
+CVS Health,CVS,2020Q3,2020-09-30,분기말 총자본(자기자본),69112000000,USD,공시,https://www.sec.gov/Archives/edgar/data/64803/000006480320000041/,,6
+CVS Health,CVS,2020Q3,2020-09-30,분기말 지배지분 자본,68807000000,USD,공시,https://www.sec.gov/Archives/edgar/data/64803/000006480320000041/,,6
+CVS Health,CVS,2020Q3,2020-09-30,분기말 종가,58.4,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/CVS?interval=1d&events=splits (2020-09-30),,6
+CVS Health,CVS,2020Q3,2020-10-28,분기말 상장주식수,1308913498,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/64803/000006480320000041/,dei:EntityCommonStockSharesOutstanding 클래스 합,6
+CVS Health,CVS,2020Q3,2020-09-30,분기말 시가총액,76440548283,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/CVS?interval=1d&events=splits (2020-09-30) ; https://www.sec.gov/Archives/edgar/data/64803/000006480320000041/,종가 58.4 × 주식수 1308913498,6
+CVS Health,CVS,2020Q4,2020-12-31,분기별 매출액,69554000000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/64803/000006480321000011/ ; https://www.sec.gov/Archives/edgar/data/64803/000006480320000041/,연간 268706000000 − 9개월누적 199152000000 (Revenues),6
+CVS Health,CVS,2020Q4,2020-12-31,분기별 영업이익,2524000000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/64803/000006480321000011/ ; https://www.sec.gov/Archives/edgar/data/64803/000006480320000041/,연간 13911000000 − 9개월누적 11387000000 (OperatingIncomeLoss),6
+CVS Health,CVS,2020Q4,2020-12-31,분기별 당기순이익(지배),973000000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/64803/000006480321000011/ ; https://www.sec.gov/Archives/edgar/data/64803/000006480320000041/,연간 7179000000 − 9개월누적 6206000000 (NetIncomeLoss),6
+CVS Health,CVS,2020Q4,2020-12-31,분기별 영업활동현금흐름,3567000000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/64803/000006480321000011/ ; https://www.sec.gov/Archives/edgar/data/64803/000006480320000041/,누적 15865000000 − 직전누적 12298000000 (시작 2020-01-01),6
+CVS Health,CVS,2020Q4,2020-12-31,분기말 자산총계,230715000000,USD,공시,https://www.sec.gov/Archives/edgar/data/64803/000006480321000011/,,6
+CVS Health,CVS,2020Q4,2020-12-31,분기말 부채총계,161014000000,USD,공시,https://www.sec.gov/Archives/edgar/data/64803/000006480321000011/,,6
+CVS Health,CVS,2020Q4,2020-12-31,분기말 총자본(자기자본),69701000000,USD,공시,https://www.sec.gov/Archives/edgar/data/64803/000006480321000011/,,6
+CVS Health,CVS,2020Q4,2020-12-31,분기말 지배지분 자본,69389000000,USD,공시,https://www.sec.gov/Archives/edgar/data/64803/000006480321000011/,,6
+CVS Health,CVS,2020Q4,2020-12-31,분기말 종가,68.3,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/CVS?interval=1d&events=splits (2020-12-31),,6
+CVS Health,CVS,2020Q4,2021-02-08,분기말 상장주식수,1311354926,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/64803/000006480321000011/,dei:EntityCommonStockSharesOutstanding 클래스 합,6
+CVS Health,CVS,2020Q4,2020-12-31,분기말 시가총액,89565541446,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/CVS?interval=1d&events=splits (2020-12-31) ; https://www.sec.gov/Archives/edgar/data/64803/000006480321000011/,종가 68.3 × 주식수 1311354926,6
+CVS Health,CVS,2021Q1,2021-03-31,분기별 매출액,69097000000,USD,공시,https://www.sec.gov/Archives/edgar/data/64803/000006480321000017/,,6
+CVS Health,CVS,2021Q1,2021-03-31,분기별 영업이익,3577000000,USD,공시,https://www.sec.gov/Archives/edgar/data/64803/000006480321000017/,,6
+CVS Health,CVS,2021Q1,2021-03-31,분기별 당기순이익(지배),2223000000,USD,공시,https://www.sec.gov/Archives/edgar/data/64803/000006480321000017/,,6
+CVS Health,CVS,2021Q1,2021-03-31,분기별 영업활동현금흐름,2892000000,USD,공시,https://www.sec.gov/Archives/edgar/data/64803/000006480321000017/,,6
+CVS Health,CVS,2021Q1,2021-03-31,분기말 자산총계,229606000000,USD,공시,https://www.sec.gov/Archives/edgar/data/64803/000006480321000017/,,6
+CVS Health,CVS,2021Q1,2021-03-31,분기말 부채총계,158442000000,USD,공시,https://www.sec.gov/Archives/edgar/data/64803/000006480321000017/,,6
+CVS Health,CVS,2021Q1,2021-03-31,분기말 총자본(자기자본),71164000000,USD,공시,https://www.sec.gov/Archives/edgar/data/64803/000006480321000017/,,6
+CVS Health,CVS,2021Q1,2021-03-31,분기말 지배지분 자본,70850000000,USD,공시,https://www.sec.gov/Archives/edgar/data/64803/000006480321000017/,,6
+CVS Health,CVS,2021Q1,2021-03-31,분기말 종가,75.23,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/CVS?interval=1d&events=splits (2021-03-31),,6
+CVS Health,CVS,2021Q1,2021-04-27,분기말 상장주식수,1316567871,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/64803/000006480321000017/,dei:EntityCommonStockSharesOutstanding 클래스 합,6
+CVS Health,CVS,2021Q1,2021-03-31,분기말 시가총액,99045400935,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/CVS?interval=1d&events=splits (2021-03-31) ; https://www.sec.gov/Archives/edgar/data/64803/000006480321000017/,종가 75.23 × 주식수 1316567871,6
+CVS Health,CVS,2021Q2,2021-06-30,분기별 매출액,72616000000,USD,공시,https://www.sec.gov/Archives/edgar/data/64803/000006480321000028/,,6
+CVS Health,CVS,2021Q2,2021-06-30,분기별 영업이익,4326000000,USD,공시,https://www.sec.gov/Archives/edgar/data/64803/000006480321000028/,,6
+CVS Health,CVS,2021Q2,2021-06-30,분기별 당기순이익(지배),2783000000,USD,공시,https://www.sec.gov/Archives/edgar/data/64803/000006480321000028/,,6
+CVS Health,CVS,2021Q2,2021-06-30,분기별 영업활동현금흐름,5847000000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/64803/000006480321000028/ ; https://www.sec.gov/Archives/edgar/data/64803/000006480321000017/,누적 8739000000 − 직전누적 2892000000 (시작 2021-01-01),6
+CVS Health,CVS,2021Q2,2021-06-30,분기말 자산총계,231164000000,USD,공시,https://www.sec.gov/Archives/edgar/data/64803/000006480321000028/,,6
+CVS Health,CVS,2021Q2,2021-06-30,분기말 부채총계,157599000000,USD,공시,https://www.sec.gov/Archives/edgar/data/64803/000006480321000028/,,6
+CVS Health,CVS,2021Q2,2021-06-30,분기말 총자본(자기자본),73565000000,USD,공시,https://www.sec.gov/Archives/edgar/data/64803/000006480321000028/,,6
+CVS Health,CVS,2021Q2,2021-06-30,분기말 지배지분 자본,73244000000,USD,공시,https://www.sec.gov/Archives/edgar/data/64803/000006480321000028/,,6
+CVS Health,CVS,2021Q2,2021-06-30,분기말 종가,83.44,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/CVS?interval=1d&events=splits (2021-06-30),,6
+CVS Health,CVS,2021Q2,2021-07-28,분기말 상장주식수,1319574744,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/64803/000006480321000028/,dei:EntityCommonStockSharesOutstanding 클래스 합,6
+CVS Health,CVS,2021Q2,2021-06-30,분기말 시가총액,110105316639,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/CVS?interval=1d&events=splits (2021-06-30) ; https://www.sec.gov/Archives/edgar/data/64803/000006480321000028/,종가 83.44 × 주식수 1319574744,6
+CVS Health,CVS,2021Q3,2021-09-30,분기별 매출액,73794000000,USD,공시,https://www.sec.gov/Archives/edgar/data/64803/000006480321000034/,,6
+CVS Health,CVS,2021Q3,2021-09-30,분기별 영업이익,3061000000,USD,공시,https://www.sec.gov/Archives/edgar/data/64803/000006480321000034/,,6
+CVS Health,CVS,2021Q3,2021-09-30,분기별 당기순이익(지배),1598000000,USD,공시,https://www.sec.gov/Archives/edgar/data/64803/000006480321000034/,,6
+CVS Health,CVS,2021Q3,2021-09-30,분기별 영업활동현금흐름,5521000000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/64803/000006480321000034/ ; https://www.sec.gov/Archives/edgar/data/64803/000006480321000028/,누적 14260000000 − 직전누적 8739000000 (시작 2021-01-01),6
+CVS Health,CVS,2021Q3,2021-09-30,분기말 자산총계,234891000000,USD,공시,https://www.sec.gov/Archives/edgar/data/64803/000006480321000034/,,6
+CVS Health,CVS,2021Q3,2021-09-30,분기말 부채총계,160273000000,USD,공시,https://www.sec.gov/Archives/edgar/data/64803/000006480321000034/,,6
+CVS Health,CVS,2021Q3,2021-09-30,분기말 총자본(자기자본),74618000000,USD,공시,https://www.sec.gov/Archives/edgar/data/64803/000006480321000034/,,6
+CVS Health,CVS,2021Q3,2021-09-30,분기말 지배지분 자본,74308000000,USD,공시,https://www.sec.gov/Archives/edgar/data/64803/000006480321000034/,,6
+CVS Health,CVS,2021Q3,2021-09-30,분기말 종가,84.86,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/CVS?interval=1d&events=splits (2021-09-30),,6
+CVS Health,CVS,2021Q3,2021-10-27,분기말 상장주식수,1320058657,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/64803/000006480321000034/,dei:EntityCommonStockSharesOutstanding 클래스 합,6
+CVS Health,CVS,2021Q3,2021-09-30,분기말 시가총액,112020177633,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/CVS?interval=1d&events=splits (2021-09-30) ; https://www.sec.gov/Archives/edgar/data/64803/000006480321000034/,종가 84.86 × 주식수 1320058657,6
+CVS Health,CVS,2021Q4,2021-12-31,분기별 매출액,76604000000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/64803/000006480322000008/ ; https://www.sec.gov/Archives/edgar/data/64803/000006480321000034/,연간 292111000000 − 9개월누적 215507000000 (Revenues),6
+CVS Health,CVS,2021Q4,2021-12-31,분기별 영업이익,2229000000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/64803/000006480322000008/ ; https://www.sec.gov/Archives/edgar/data/64803/000006480321000034/,연간 13193000000 − 9개월누적 10964000000 (OperatingIncomeLoss),6
+CVS Health,CVS,2021Q4,2021-12-31,분기별 당기순이익(지배),1306000000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/64803/000006480322000008/ ; https://www.sec.gov/Archives/edgar/data/64803/000006480321000034/,연간 7910000000 − 9개월누적 6604000000 (NetIncomeLoss),6
+CVS Health,CVS,2021Q4,2021-12-31,분기별 영업활동현금흐름,4005000000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/64803/000006480322000008/ ; https://www.sec.gov/Archives/edgar/data/64803/000006480321000034/,누적 18265000000 − 직전누적 14260000000 (시작 2021-01-01),6
+CVS Health,CVS,2021Q4,2021-12-31,분기말 자산총계,232999000000,USD,공시,https://www.sec.gov/Archives/edgar/data/64803/000006480322000008/,,6
+CVS Health,CVS,2021Q4,2021-12-31,분기말 부채총계,157618000000,USD,공시,https://www.sec.gov/Archives/edgar/data/64803/000006480322000008/,,6
+CVS Health,CVS,2021Q4,2021-12-31,분기말 총자본(자기자본),75381000000,USD,공시,https://www.sec.gov/Archives/edgar/data/64803/000006480322000008/,,6
+CVS Health,CVS,2021Q4,2021-12-31,분기말 지배지분 자본,75075000000,USD,공시,https://www.sec.gov/Archives/edgar/data/64803/000006480322000008/,,6
+CVS Health,CVS,2021Q4,2021-12-31,분기말 종가,103.16,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/CVS?interval=1d&events=splits (2021-12-31),,6
+CVS Health,CVS,2021Q4,2022-02-02,분기말 상장주식수,1312510426,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/64803/000006480322000008/,dei:EntityCommonStockSharesOutstanding 클래스 합,6
+CVS Health,CVS,2021Q4,2021-12-31,분기말 시가총액,135398575546,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/CVS?interval=1d&events=splits (2021-12-31) ; https://www.sec.gov/Archives/edgar/data/64803/000006480322000008/,종가 103.16 × 주식수 1312510426,6
+CVS Health,CVS,2022Q1,2022-03-31,분기별 매출액,76826000000,USD,공시,https://www.sec.gov/Archives/edgar/data/64803/000006480322000016/,,6
+CVS Health,CVS,2022Q1,2022-03-31,분기별 영업이익,3490000000,USD,공시,https://www.sec.gov/Archives/edgar/data/64803/000006480322000016/,,6
+CVS Health,CVS,2022Q1,2022-03-31,분기별 당기순이익(지배),2312000000,USD,공시,https://www.sec.gov/Archives/edgar/data/64803/000006480322000016/,,6
+CVS Health,CVS,2022Q1,2022-03-31,분기별 영업활동현금흐름,3563000000,USD,공시,https://www.sec.gov/Archives/edgar/data/64803/000006480322000016/,,6
+CVS Health,CVS,2022Q1,2022-03-31,분기말 자산총계,232873000000,USD,공시,https://www.sec.gov/Archives/edgar/data/64803/000006480322000016/,,6
+CVS Health,CVS,2022Q1,2022-03-31,분기말 부채총계,158733000000,USD,공시,https://www.sec.gov/Archives/edgar/data/64803/000006480322000016/,,6
+CVS Health,CVS,2022Q1,2022-03-31,분기말 총자본(자기자본),74140000000,USD,공시,https://www.sec.gov/Archives/edgar/data/64803/000006480322000016/,,6
+CVS Health,CVS,2022Q1,2022-03-31,분기말 지배지분 자본,73830000000,USD,공시,https://www.sec.gov/Archives/edgar/data/64803/000006480322000016/,,6
+CVS Health,CVS,2022Q1,2022-03-31,분기말 종가,101.21,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/CVS?interval=1d&events=splits (2022-03-31),,6
+CVS Health,CVS,2022Q1,2022-04-27,분기말 상장주식수,1311309074,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/64803/000006480322000016/,dei:EntityCommonStockSharesOutstanding 클래스 합,6
+CVS Health,CVS,2022Q1,2022-03-31,분기말 시가총액,132717591380,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/CVS?interval=1d&events=splits (2022-03-31) ; https://www.sec.gov/Archives/edgar/data/64803/000006480322000016/,종가 101.21 × 주식수 1311309074,6
+CVS Health,CVS,2022Q2,2022-06-30,분기별 매출액,80636000000,USD,공시,https://www.sec.gov/Archives/edgar/data/64803/000006480322000029/,,6
+CVS Health,CVS,2022Q2,2022-06-30,분기별 영업이익,4569000000,USD,공시,https://www.sec.gov/Archives/edgar/data/64803/000006480322000029/,,6
+CVS Health,CVS,2022Q2,2022-06-30,분기별 당기순이익(지배),2951000000,USD,공시,https://www.sec.gov/Archives/edgar/data/64803/000006480322000029/,,6
+CVS Health,CVS,2022Q2,2022-06-30,분기별 영업활동현금흐름,5443000000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/64803/000006480322000029/ ; https://www.sec.gov/Archives/edgar/data/64803/000006480322000016/,누적 9006000000 − 직전누적 3563000000 (시작 2022-01-01),6
+CVS Health,CVS,2022Q2,2022-06-30,분기말 자산총계,230279000000,USD,공시,https://www.sec.gov/Archives/edgar/data/64803/000006480322000029/,,6
+CVS Health,CVS,2022Q2,2022-06-30,분기말 부채총계,154773000000,USD,공시,https://www.sec.gov/Archives/edgar/data/64803/000006480322000029/,,6
+CVS Health,CVS,2022Q2,2022-06-30,분기말 총자본(자기자본),75506000000,USD,공시,https://www.sec.gov/Archives/edgar/data/64803/000006480322000029/,,6
+CVS Health,CVS,2022Q2,2022-06-30,분기말 지배지분 자본,75184000000,USD,공시,https://www.sec.gov/Archives/edgar/data/64803/000006480322000029/,,6
+CVS Health,CVS,2022Q2,2022-06-30,분기말 종가,92.66,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/CVS?interval=1d&events=splits (2022-06-30),,6
+CVS Health,CVS,2022Q2,2022-07-27,분기말 상장주식수,1312828807,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/64803/000006480322000029/,dei:EntityCommonStockSharesOutstanding 클래스 합,6
+CVS Health,CVS,2022Q2,2022-06-30,분기말 시가총액,121646717257,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/CVS?interval=1d&events=splits (2022-06-30) ; https://www.sec.gov/Archives/edgar/data/64803/000006480322000029/,종가 92.66 × 주식수 1312828807,6
+CVS Health,CVS,2022Q3,2022-09-30,분기별 매출액,81159000000,USD,공시,https://www.sec.gov/Archives/edgar/data/64803/000006480322000038/,,6
+CVS Health,CVS,2022Q3,2022-09-30,분기별 영업이익,-3931000000,USD,공시,https://www.sec.gov/Archives/edgar/data/64803/000006480322000038/,,6
+CVS Health,CVS,2022Q3,2022-09-30,분기별 당기순이익(지배),-3416000000,USD,공시,https://www.sec.gov/Archives/edgar/data/64803/000006480322000038/,,6
+CVS Health,CVS,2022Q3,2022-09-30,분기별 영업활동현금흐름,9123000000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/64803/000006480322000038/ ; https://www.sec.gov/Archives/edgar/data/64803/000006480322000029/,누적 18129000000 − 직전누적 9006000000 (시작 2022-01-01),6
+CVS Health,CVS,2022Q3,2022-09-30,분기말 자산총계,231212000000,USD,공시,https://www.sec.gov/Archives/edgar/data/64803/000006480322000038/,,6
+CVS Health,CVS,2022Q3,2022-09-30,분기말 부채총계,160201000000,USD,공시,https://www.sec.gov/Archives/edgar/data/64803/000006480322000038/,,6
+CVS Health,CVS,2022Q3,2022-09-30,분기말 총자본(자기자본),71011000000,USD,공시,https://www.sec.gov/Archives/edgar/data/64803/000006480322000038/,,6
+CVS Health,CVS,2022Q3,2022-09-30,분기말 지배지분 자본,70683000000,USD,공시,https://www.sec.gov/Archives/edgar/data/64803/000006480322000038/,,6
+CVS Health,CVS,2022Q3,2022-09-30,분기말 종가,95.37,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/CVS?interval=1d&events=splits (2022-09-30),,6
+CVS Health,CVS,2022Q3,2022-10-26,분기말 상장주식수,1313966912,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/64803/000006480322000038/,dei:EntityCommonStockSharesOutstanding 클래스 합,6
+CVS Health,CVS,2022Q3,2022-09-30,분기말 시가총액,125313024397,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/CVS?interval=1d&events=splits (2022-09-30) ; https://www.sec.gov/Archives/edgar/data/64803/000006480322000038/,종가 95.37 × 주식수 1313966912,6
+CVS Health,CVS,2022Q4,2022-12-31,분기별 매출액,83846000000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/64803/000006480323000009/ ; https://www.sec.gov/Archives/edgar/data/64803/000006480322000038/,연간 322467000000 − 9개월누적 238621000000 (Revenues),6
+CVS Health,CVS,2022Q4,2022-12-31,분기별 영업이익,3826000000,USD,계산(연간-3분기누적)(재작성 반영),https://www.sec.gov/Archives/edgar/data/64803/000006480325000007/ ; https://www.sec.gov/Archives/edgar/data/64803/000006480322000038/,연간 7954000000 − 9개월누적 4128000000 (OperatingIncomeLoss) ; 원 공시 3618000000 (https://www.sec.gov/Archives/edgar/data/64803/000006480323000009/ ; https://www.sec.gov/Archives/edgar/data/64803/000006480322000038/),6
+CVS Health,CVS,2022Q4,2022-12-31,분기별 당기순이익(지배),2464000000,USD,계산(연간-3분기누적)(재작성 반영),https://www.sec.gov/Archives/edgar/data/64803/000006480325000007/ ; https://www.sec.gov/Archives/edgar/data/64803/000006480322000038/,연간 4311000000 − 9개월누적 1847000000 (NetIncomeLoss) ; 원 공시 2302000000 (https://www.sec.gov/Archives/edgar/data/64803/000006480323000009/ ; https://www.sec.gov/Archives/edgar/data/64803/000006480322000038/),6
+CVS Health,CVS,2022Q4,2022-12-31,분기별 영업활동현금흐름,-1952000000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/64803/000006480323000009/ ; https://www.sec.gov/Archives/edgar/data/64803/000006480322000038/,누적 16177000000 − 직전누적 18129000000 (시작 2022-01-01),6
+CVS Health,CVS,2022Q4,2022-12-31,분기말 자산총계,228275000000,USD,공시,https://www.sec.gov/Archives/edgar/data/64803/000006480323000009/,,6
+CVS Health,CVS,2022Q4,2022-12-31,분기말 부채총계,156506000000,USD,공시(재작성 반영),https://www.sec.gov/Archives/edgar/data/64803/000006480324000007/,원 공시 156960000000 (https://www.sec.gov/Archives/edgar/data/64803/000006480323000009/),6
+CVS Health,CVS,2022Q4,2022-12-31,분기말 총자본(자기자본),71769000000,USD,공시(재작성 반영),https://www.sec.gov/Archives/edgar/data/64803/000006480326000010/,원 공시 71315000000 (https://www.sec.gov/Archives/edgar/data/64803/000006480323000009/),6
+CVS Health,CVS,2022Q4,2022-12-31,분기말 지배지분 자본,71469000000,USD,공시(재작성 반영),https://www.sec.gov/Archives/edgar/data/64803/000006480324000007/,원 공시 71015000000 (https://www.sec.gov/Archives/edgar/data/64803/000006480323000009/),6
+CVS Health,CVS,2022Q4,2022-12-30,분기말 종가,93.19,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/CVS?interval=1d&events=splits (2022-12-30),,6
+CVS Health,CVS,2022Q4,2023-02-01,분기말 상장주식수,1284111667,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/64803/000006480323000009/,dei:EntityCommonStockSharesOutstanding 클래스 합,6
+CVS Health,CVS,2022Q4,2022-12-30,분기말 시가총액,119666366248,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/CVS?interval=1d&events=splits (2022-12-30) ; https://www.sec.gov/Archives/edgar/data/64803/000006480323000009/,종가 93.19 × 주식수 1284111667,6
+CVS Health,CVS,2023Q1,2023-03-31,분기별 매출액,85278000000,USD,공시,https://www.sec.gov/Archives/edgar/data/64803/000006480323000016/,,6
+CVS Health,CVS,2023Q1,2023-03-31,분기별 영업이익,3446000000,USD,공시,https://www.sec.gov/Archives/edgar/data/64803/000006480323000016/,,6
+CVS Health,CVS,2023Q1,2023-03-31,분기별 당기순이익(지배),2136000000,USD,공시,https://www.sec.gov/Archives/edgar/data/64803/000006480323000016/,,6
+CVS Health,CVS,2023Q1,2023-03-31,분기별 영업활동현금흐름,7438000000,USD,공시,https://www.sec.gov/Archives/edgar/data/64803/000006480323000016/,,6
+CVS Health,CVS,2023Q1,2023-03-31,분기말 자산총계,239330000000,USD,공시,https://www.sec.gov/Archives/edgar/data/64803/000006480323000016/,,6
+CVS Health,CVS,2023Q1,2023-03-31,분기말 부채총계,167750000000,USD,공시,https://www.sec.gov/Archives/edgar/data/64803/000006480323000016/,,6
+CVS Health,CVS,2023Q1,2023-03-31,분기말 총자본(자기자본),71580000000,USD,공시,https://www.sec.gov/Archives/edgar/data/64803/000006480323000016/,,6
+CVS Health,CVS,2023Q1,2023-03-31,분기말 지배지분 자본,71382000000,USD,공시,https://www.sec.gov/Archives/edgar/data/64803/000006480323000016/,,6
+CVS Health,CVS,2023Q1,2023-03-31,분기말 종가,74.31,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/CVS?interval=1d&events=splits (2023-03-31),,6
+CVS Health,CVS,2023Q1,2023-04-26,분기말 상장주식수,1282025283,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/64803/000006480323000016/,dei:EntityCommonStockSharesOutstanding 클래스 합,6
+CVS Health,CVS,2023Q1,2023-03-31,분기말 시가총액,95267298780,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/CVS?interval=1d&events=splits (2023-03-31) ; https://www.sec.gov/Archives/edgar/data/64803/000006480323000016/,종가 74.31 × 주식수 1282025283,6
+CVS Health,CVS,2023Q2,2023-06-30,분기별 매출액,88921000000,USD,공시,https://www.sec.gov/Archives/edgar/data/64803/000006480323000033/,,6
+CVS Health,CVS,2023Q2,2023-06-30,분기별 영업이익,3234000000,USD,공시,https://www.sec.gov/Archives/edgar/data/64803/000006480323000033/,,6
+CVS Health,CVS,2023Q2,2023-06-30,분기별 당기순이익(지배),1901000000,USD,공시,https://www.sec.gov/Archives/edgar/data/64803/000006480323000033/,,6
+CVS Health,CVS,2023Q2,2023-06-30,분기별 영업활동현금흐름,5908000000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/64803/000006480323000033/ ; https://www.sec.gov/Archives/edgar/data/64803/000006480323000016/,누적 13346000000 − 직전누적 7438000000 (시작 2023-01-01),6
+CVS Health,CVS,2023Q2,2023-06-30,분기말 자산총계,250071000000,USD,공시,https://www.sec.gov/Archives/edgar/data/64803/000006480323000033/,,6
+CVS Health,CVS,2023Q2,2023-06-30,분기말 부채총계,177069000000,USD,공시,https://www.sec.gov/Archives/edgar/data/64803/000006480323000033/,,6
+CVS Health,CVS,2023Q2,2023-06-30,분기말 총자본(자기자본),73002000000,USD,공시,https://www.sec.gov/Archives/edgar/data/64803/000006480323000033/,,6
+CVS Health,CVS,2023Q2,2023-06-30,분기말 지배지분 자본,72726000000,USD,공시,https://www.sec.gov/Archives/edgar/data/64803/000006480323000033/,,6
+CVS Health,CVS,2023Q2,2023-06-30,분기말 종가,69.13,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/CVS?interval=1d&events=splits (2023-06-30),,6
+CVS Health,CVS,2023Q2,2023-07-26,분기말 상장주식수,1284398968,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/64803/000006480323000033/,dei:EntityCommonStockSharesOutstanding 클래스 합,6
+CVS Health,CVS,2023Q2,2023-06-30,분기말 시가총액,88790500658,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/CVS?interval=1d&events=splits (2023-06-30) ; https://www.sec.gov/Archives/edgar/data/64803/000006480323000033/,종가 69.13 × 주식수 1284398968,6
+CVS Health,CVS,2023Q3,2023-09-30,분기별 매출액,89764000000,USD,공시,https://www.sec.gov/Archives/edgar/data/64803/000006480323000047/,,6
+CVS Health,CVS,2023Q3,2023-09-30,분기별 영업이익,3690000000,USD,공시,https://www.sec.gov/Archives/edgar/data/64803/000006480323000047/,,6
+CVS Health,CVS,2023Q3,2023-09-30,분기별 당기순이익(지배),2261000000,USD,공시,https://www.sec.gov/Archives/edgar/data/64803/000006480323000047/,,6
+CVS Health,CVS,2023Q3,2023-09-30,분기별 영업활동현금흐름,2716000000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/64803/000006480323000047/ ; https://www.sec.gov/Archives/edgar/data/64803/000006480323000033/,누적 16062000000 − 직전누적 13346000000 (시작 2023-01-01),6
+CVS Health,CVS,2023Q3,2023-09-30,분기말 자산총계,251306000000,USD,공시,https://www.sec.gov/Archives/edgar/data/64803/000006480323000047/,,6
+CVS Health,CVS,2023Q3,2023-09-30,분기말 부채총계,176796000000,USD,공시,https://www.sec.gov/Archives/edgar/data/64803/000006480323000047/,,6
+CVS Health,CVS,2023Q3,2023-09-30,분기말 총자본(자기자본),74510000000,USD,공시,https://www.sec.gov/Archives/edgar/data/64803/000006480323000047/,,6
+CVS Health,CVS,2023Q3,2023-09-30,분기말 지배지분 자본,74337000000,USD,공시,https://www.sec.gov/Archives/edgar/data/64803/000006480323000047/,,6
+CVS Health,CVS,2023Q3,2023-09-29,분기말 종가,69.82,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/CVS?interval=1d&events=splits (2023-09-29),,6
+CVS Health,CVS,2023Q3,2023-10-25,분기말 상장주식수,1286896582,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/64803/000006480323000047/,dei:EntityCommonStockSharesOutstanding 클래스 합,6
+CVS Health,CVS,2023Q3,2023-09-29,분기말 시가총액,89851119355,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/CVS?interval=1d&events=splits (2023-09-29) ; https://www.sec.gov/Archives/edgar/data/64803/000006480323000047/,종가 69.82 × 주식수 1286896582,6
+CVS Health,CVS,2023Q4,2023-12-31,분기별 매출액,93813000000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/64803/000006480324000007/ ; https://www.sec.gov/Archives/edgar/data/64803/000006480323000047/,연간 357776000000 − 9개월누적 263963000000 (Revenues),6
+CVS Health,CVS,2023Q4,2023-12-31,분기별 영업이익,3373000000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/64803/000006480324000007/ ; https://www.sec.gov/Archives/edgar/data/64803/000006480323000047/,연간 13743000000 − 9개월누적 10370000000 (OperatingIncomeLoss),6
+CVS Health,CVS,2023Q4,2023-12-31,분기별 당기순이익(지배),2046000000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/64803/000006480324000007/ ; https://www.sec.gov/Archives/edgar/data/64803/000006480323000047/,연간 8344000000 − 9개월누적 6298000000 (NetIncomeLoss),6
+CVS Health,CVS,2023Q4,2023-12-31,분기별 영업활동현금흐름,-2636000000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/64803/000006480324000007/ ; https://www.sec.gov/Archives/edgar/data/64803/000006480323000047/,누적 13426000000 − 직전누적 16062000000 (시작 2023-01-01),6
+CVS Health,CVS,2023Q4,2023-12-31,분기말 자산총계,249728000000,USD,공시,https://www.sec.gov/Archives/edgar/data/64803/000006480324000007/,,6
+CVS Health,CVS,2023Q4,2023-12-31,분기말 부채총계,173092000000,USD,공시,https://www.sec.gov/Archives/edgar/data/64803/000006480324000007/,,6
+CVS Health,CVS,2023Q4,2023-12-31,분기말 총자본(자기자본),76636000000,USD,공시,https://www.sec.gov/Archives/edgar/data/64803/000006480324000007/,,6
+CVS Health,CVS,2023Q4,2023-12-31,분기말 지배지분 자본,76461000000,USD,공시,https://www.sec.gov/Archives/edgar/data/64803/000006480324000007/,,6
+CVS Health,CVS,2023Q4,2023-12-29,분기말 종가,78.96,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/CVS?interval=1d&events=splits (2023-12-29),,6
+CVS Health,CVS,2023Q4,2024-01-31,분기말 상장주식수,1258449553,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/64803/000006480324000007/,dei:EntityCommonStockSharesOutstanding 클래스 합,6
+CVS Health,CVS,2023Q4,2023-12-29,분기말 시가총액,99367176705,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/CVS?interval=1d&events=splits (2023-12-29) ; https://www.sec.gov/Archives/edgar/data/64803/000006480324000007/,종가 78.96 × 주식수 1258449553,6
+CVS Health,CVS,2024Q1,2024-03-31,분기별 매출액,88437000000,USD,공시,https://www.sec.gov/Archives/edgar/data/64803/000006480324000016/,,6
+CVS Health,CVS,2024Q1,2024-03-31,분기별 영업이익,2271000000,USD,공시,https://www.sec.gov/Archives/edgar/data/64803/000006480324000016/,,6
+CVS Health,CVS,2024Q1,2024-03-31,분기별 당기순이익(지배),1113000000,USD,공시,https://www.sec.gov/Archives/edgar/data/64803/000006480324000016/,,6
+CVS Health,CVS,2024Q1,2024-03-31,분기별 영업활동현금흐름,4903000000,USD,공시,https://www.sec.gov/Archives/edgar/data/64803/000006480324000016/,,6
+CVS Health,CVS,2024Q1,2024-03-31,분기말 자산총계,249743000000,USD,공시,https://www.sec.gov/Archives/edgar/data/64803/000006480324000016/,,6
+CVS Health,CVS,2024Q1,2024-03-31,분기말 부채총계,175593000000,USD,공시,https://www.sec.gov/Archives/edgar/data/64803/000006480324000016/,,6
+CVS Health,CVS,2024Q1,2024-03-31,분기말 총자본(자기자본),74150000000,USD,공시,https://www.sec.gov/Archives/edgar/data/64803/000006480324000016/,,6
+CVS Health,CVS,2024Q1,2024-03-31,분기말 지배지분 자본,73968000000,USD,공시,https://www.sec.gov/Archives/edgar/data/64803/000006480324000016/,,6
+CVS Health,CVS,2024Q1,2024-03-28,분기말 종가,79.76,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/CVS?interval=1d&events=splits (2024-03-28),,6
+CVS Health,CVS,2024Q1,2024-04-24,분기말 상장주식수,1255372972,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/64803/000006480324000016/,dei:EntityCommonStockSharesOutstanding 클래스 합,6
+CVS Health,CVS,2024Q1,2024-03-28,분기말 시가총액,100128548247,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/CVS?interval=1d&events=splits (2024-03-28) ; https://www.sec.gov/Archives/edgar/data/64803/000006480324000016/,종가 79.76 × 주식수 1255372972,6
+CVS Health,CVS,2024Q2,2024-06-30,분기별 매출액,91234000000,USD,공시,https://www.sec.gov/Archives/edgar/data/64803/000006480324000029/,,6
+CVS Health,CVS,2024Q2,2024-06-30,분기별 영업이익,3045000000,USD,공시,https://www.sec.gov/Archives/edgar/data/64803/000006480324000029/,,6
+CVS Health,CVS,2024Q2,2024-06-30,분기별 당기순이익(지배),1770000000,USD,공시,https://www.sec.gov/Archives/edgar/data/64803/000006480324000029/,,6
+CVS Health,CVS,2024Q2,2024-06-30,분기별 영업활동현금흐름,3089000000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/64803/000006480324000029/ ; https://www.sec.gov/Archives/edgar/data/64803/000006480324000016/,누적 7992000000 − 직전누적 4903000000 (시작 2024-01-01),6
+CVS Health,CVS,2024Q2,2024-06-30,분기말 자산총계,252481000000,USD,공시,https://www.sec.gov/Archives/edgar/data/64803/000006480324000029/,,6
+CVS Health,CVS,2024Q2,2024-06-30,분기말 부채총계,177370000000,USD,공시,https://www.sec.gov/Archives/edgar/data/64803/000006480324000029/,,6
+CVS Health,CVS,2024Q2,2024-06-30,분기말 총자본(자기자본),75111000000,USD,공시,https://www.sec.gov/Archives/edgar/data/64803/000006480324000029/,,6
+CVS Health,CVS,2024Q2,2024-06-30,분기말 지배지분 자본,74930000000,USD,공시,https://www.sec.gov/Archives/edgar/data/64803/000006480324000029/,,6
+CVS Health,CVS,2024Q2,2024-06-28,분기말 종가,59.06,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/CVS?interval=1d&events=splits (2024-06-28),,6
+CVS Health,CVS,2024Q2,2024-07-31,분기말 상장주식수,1257979270,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/64803/000006480324000029/,dei:EntityCommonStockSharesOutstanding 클래스 합,6
+CVS Health,CVS,2024Q2,2024-06-28,분기말 시가총액,74296255686,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/CVS?interval=1d&events=splits (2024-06-28) ; https://www.sec.gov/Archives/edgar/data/64803/000006480324000029/,종가 59.06 × 주식수 1257979270,6
+CVS Health,CVS,2024Q3,2024-09-30,분기별 매출액,95428000000,USD,공시,https://www.sec.gov/Archives/edgar/data/64803/000006480324000034/,,6
+CVS Health,CVS,2024Q3,2024-09-30,분기별 영업이익,832000000,USD,공시,https://www.sec.gov/Archives/edgar/data/64803/000006480324000034/,,6
+CVS Health,CVS,2024Q3,2024-09-30,분기별 당기순이익(지배),87000000,USD,공시,https://www.sec.gov/Archives/edgar/data/64803/000006480324000034/,,6
+CVS Health,CVS,2024Q3,2024-09-30,분기별 영업활동현금흐름,-745000000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/64803/000006480324000034/ ; https://www.sec.gov/Archives/edgar/data/64803/000006480324000029/,누적 7247000000 − 직전누적 7992000000 (시작 2024-01-01),6
+CVS Health,CVS,2024Q3,2024-09-30,분기말 자산총계,252427000000,USD,공시,https://www.sec.gov/Archives/edgar/data/64803/000006480324000034/,,6
+CVS Health,CVS,2024Q3,2024-09-30,분기말 부채총계,177321000000,USD,공시,https://www.sec.gov/Archives/edgar/data/64803/000006480324000034/,,6
+CVS Health,CVS,2024Q3,2024-09-30,분기말 총자본(자기자본),75106000000,USD,공시,https://www.sec.gov/Archives/edgar/data/64803/000006480324000034/,,6
+CVS Health,CVS,2024Q3,2024-09-30,분기말 지배지분 자본,74944000000,USD,공시,https://www.sec.gov/Archives/edgar/data/64803/000006480324000034/,,6
+CVS Health,CVS,2024Q3,2024-09-30,분기말 종가,62.88,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/CVS?interval=1d&events=splits (2024-09-30),,6
+CVS Health,CVS,2024Q3,2024-10-30,분기말 상장주식수,1258407645,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/64803/000006480324000034/,dei:EntityCommonStockSharesOutstanding 클래스 합,6
+CVS Health,CVS,2024Q3,2024-09-30,분기말 시가총액,79128672718,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/CVS?interval=1d&events=splits (2024-09-30) ; https://www.sec.gov/Archives/edgar/data/64803/000006480324000034/,종가 62.88 × 주식수 1258407645,6
+CVS Health,CVS,2024Q4,2024-12-31,분기별 매출액,97710000000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/64803/000006480325000007/ ; https://www.sec.gov/Archives/edgar/data/64803/000006480324000034/,연간 372809000000 − 9개월누적 275099000000 (Revenues),6
+CVS Health,CVS,2024Q4,2024-12-31,분기별 영업이익,2368000000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/64803/000006480325000007/ ; https://www.sec.gov/Archives/edgar/data/64803/000006480324000034/,연간 8516000000 − 9개월누적 6148000000 (OperatingIncomeLoss),6
+CVS Health,CVS,2024Q4,2024-12-31,분기별 당기순이익(지배),1644000000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/64803/000006480325000007/ ; https://www.sec.gov/Archives/edgar/data/64803/000006480324000034/,연간 4614000000 − 9개월누적 2970000000 (NetIncomeLoss),6
+CVS Health,CVS,2024Q4,2024-12-31,분기별 영업활동현금흐름,1860000000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/64803/000006480325000007/ ; https://www.sec.gov/Archives/edgar/data/64803/000006480324000034/,누적 9107000000 − 직전누적 7247000000 (시작 2024-01-01),6
+CVS Health,CVS,2024Q4,2024-12-31,분기말 자산총계,253215000000,USD,공시,https://www.sec.gov/Archives/edgar/data/64803/000006480325000007/,,6
+CVS Health,CVS,2024Q4,2024-12-31,분기말 부채총계,177485000000,USD,공시,https://www.sec.gov/Archives/edgar/data/64803/000006480325000007/,,6
+CVS Health,CVS,2024Q4,2024-12-31,분기말 총자본(자기자본),75730000000,USD,공시,https://www.sec.gov/Archives/edgar/data/64803/000006480325000007/,,6
+CVS Health,CVS,2024Q4,2024-12-31,분기말 지배지분 자본,75560000000,USD,공시,https://www.sec.gov/Archives/edgar/data/64803/000006480325000007/,,6
+CVS Health,CVS,2024Q4,2024-12-31,분기말 종가,44.89,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/CVS?interval=1d&events=splits (2024-12-31),,6
+CVS Health,CVS,2024Q4,2025-02-05,분기말 상장주식수,1260795063,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/64803/000006480325000007/,dei:EntityCommonStockSharesOutstanding 클래스 합,6
+CVS Health,CVS,2024Q4,2024-12-31,분기말 시가총액,56597090378,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/CVS?interval=1d&events=splits (2024-12-31) ; https://www.sec.gov/Archives/edgar/data/64803/000006480325000007/,종가 44.89 × 주식수 1260795063,6
+CVS Health,CVS,2025Q1,2025-03-31,분기별 매출액,94588000000,USD,공시,https://www.sec.gov/Archives/edgar/data/64803/000006480325000013/,,6
+CVS Health,CVS,2025Q1,2025-03-31,분기별 영업이익,3374000000,USD,공시,https://www.sec.gov/Archives/edgar/data/64803/000006480325000013/,,6
+CVS Health,CVS,2025Q1,2025-03-31,분기별 당기순이익(지배),1779000000,USD,공시,https://www.sec.gov/Archives/edgar/data/64803/000006480325000013/,,6
+CVS Health,CVS,2025Q1,2025-03-31,분기별 영업활동현금흐름,4556000000,USD,공시,https://www.sec.gov/Archives/edgar/data/64803/000006480325000013/,,6
+CVS Health,CVS,2025Q1,2025-03-31,분기말 자산총계,255585000000,USD,공시,https://www.sec.gov/Archives/edgar/data/64803/000006480325000013/,,6
+CVS Health,CVS,2025Q1,2025-03-31,분기말 부채총계,178475000000,USD,공시,https://www.sec.gov/Archives/edgar/data/64803/000006480325000013/,,6
+CVS Health,CVS,2025Q1,2025-03-31,분기말 총자본(자기자본),77110000000,USD,공시,https://www.sec.gov/Archives/edgar/data/64803/000006480325000013/,,6
+CVS Health,CVS,2025Q1,2025-03-31,분기말 지배지분 자본,76929000000,USD,공시,https://www.sec.gov/Archives/edgar/data/64803/000006480325000013/,,6
+CVS Health,CVS,2025Q1,2025-03-31,분기말 종가,67.75,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/CVS?interval=1d&events=splits (2025-03-31),,6
+CVS Health,CVS,2025Q1,2025-04-23,분기말 상장주식수,1265019429,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/64803/000006480325000013/,dei:EntityCommonStockSharesOutstanding 클래스 합,6
+CVS Health,CVS,2025Q1,2025-03-31,분기말 시가총액,85705066315,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/CVS?interval=1d&events=splits (2025-03-31) ; https://www.sec.gov/Archives/edgar/data/64803/000006480325000013/,종가 67.75 × 주식수 1265019429,6
+CVS Health,CVS,2025Q2,2025-06-30,분기별 매출액,98915000000,USD,공시,https://www.sec.gov/Archives/edgar/data/64803/000006480325000024/,,6
+CVS Health,CVS,2025Q2,2025-06-30,분기별 영업이익,2381000000,USD,공시,https://www.sec.gov/Archives/edgar/data/64803/000006480325000024/,,6
+CVS Health,CVS,2025Q2,2025-06-30,분기별 당기순이익(지배),1021000000,USD,공시,https://www.sec.gov/Archives/edgar/data/64803/000006480325000024/,,6
+CVS Health,CVS,2025Q2,2025-06-30,분기별 영업활동현금흐름,1897000000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/64803/000006480325000024/ ; https://www.sec.gov/Archives/edgar/data/64803/000006480325000013/,누적 6453000000 − 직전누적 4556000000 (시작 2025-01-01),6
+CVS Health,CVS,2025Q2,2025-06-30,분기말 자산총계,258343000000,USD,공시,https://www.sec.gov/Archives/edgar/data/64803/000006480325000024/,,6
+CVS Health,CVS,2025Q2,2025-06-30,분기말 부채총계,180792000000,USD,공시,https://www.sec.gov/Archives/edgar/data/64803/000006480325000024/,,6
+CVS Health,CVS,2025Q2,2025-06-30,분기말 총자본(자기자본),77551000000,USD,공시,https://www.sec.gov/Archives/edgar/data/64803/000006480325000024/,,6
+CVS Health,CVS,2025Q2,2025-06-30,분기말 지배지분 자본,77379000000,USD,공시,https://www.sec.gov/Archives/edgar/data/64803/000006480325000024/,,6
+CVS Health,CVS,2025Q2,2025-06-30,분기말 종가,68.98,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/CVS?interval=1d&events=splits (2025-06-30),,6
+CVS Health,CVS,2025Q2,2025-07-23,분기말 상장주식수,1268326375,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/64803/000006480325000024/,dei:EntityCommonStockSharesOutstanding 클래스 합,6
+CVS Health,CVS,2025Q2,2025-06-30,분기말 시가총액,87489153348,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/CVS?interval=1d&events=splits (2025-06-30) ; https://www.sec.gov/Archives/edgar/data/64803/000006480325000024/,종가 68.98 × 주식수 1268326375,6
+CVS Health,CVS,2025Q3,2025-09-30,분기별 매출액,102871000000,USD,공시,https://www.sec.gov/Archives/edgar/data/64803/000006480325000037/,,6
+CVS Health,CVS,2025Q3,2025-09-30,분기별 영업이익,-3207000000,USD,공시,https://www.sec.gov/Archives/edgar/data/64803/000006480325000037/,,6
+CVS Health,CVS,2025Q3,2025-09-30,분기별 당기순이익(지배),-3975000000,USD,공시,https://www.sec.gov/Archives/edgar/data/64803/000006480325000037/,,6
+CVS Health,CVS,2025Q3,2025-09-30,분기별 영업활동현금흐름,796000000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/64803/000006480325000037/ ; https://www.sec.gov/Archives/edgar/data/64803/000006480325000024/,누적 7249000000 − 직전누적 6453000000 (시작 2025-01-01),6
+CVS Health,CVS,2025Q3,2025-09-30,분기말 자산총계,255327000000,USD,공시,https://www.sec.gov/Archives/edgar/data/64803/000006480325000037/,,6
+CVS Health,CVS,2025Q3,2025-09-30,분기말 부채총계,182217000000,USD,공시,https://www.sec.gov/Archives/edgar/data/64803/000006480325000037/,,6
+CVS Health,CVS,2025Q3,2025-09-30,분기말 총자본(자기자본),73110000000,USD,공시,https://www.sec.gov/Archives/edgar/data/64803/000006480325000037/,,6
+CVS Health,CVS,2025Q3,2025-09-30,분기말 지배지분 자본,72928000000,USD,공시,https://www.sec.gov/Archives/edgar/data/64803/000006480325000037/,,6
+CVS Health,CVS,2025Q3,2025-09-30,분기말 종가,75.39,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/CVS?interval=1d&events=splits (2025-09-30),,6
+CVS Health,CVS,2025Q3,2025-10-22,분기말 상장주식수,1269432485,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/64803/000006480325000037/,dei:EntityCommonStockSharesOutstanding 클래스 합,6
+CVS Health,CVS,2025Q3,2025-09-30,분기말 시가총액,95702515044,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/CVS?interval=1d&events=splits (2025-09-30) ; https://www.sec.gov/Archives/edgar/data/64803/000006480325000037/,종가 75.39 × 주식수 1269432485,6
+CVS Health,CVS,2025Q4,2025-12-31,분기별 매출액,105693000000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/64803/000006480326000010/ ; https://www.sec.gov/Archives/edgar/data/64803/000006480325000037/,연간 402067000000 − 9개월누적 296374000000 (Revenues),6
+CVS Health,CVS,2025Q4,2025-12-31,분기별 영업이익,2112000000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/64803/000006480326000010/ ; https://www.sec.gov/Archives/edgar/data/64803/000006480325000037/,연간 4660000000 − 9개월누적 2548000000 (OperatingIncomeLoss),6
+CVS Health,CVS,2025Q4,2025-12-31,분기별 당기순이익(지배),2943000000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/64803/000006480326000010/ ; https://www.sec.gov/Archives/edgar/data/64803/000006480325000037/,연간 1768000000 − 9개월누적 -1175000000 (NetIncomeLoss),6
+CVS Health,CVS,2025Q4,2025-12-31,분기별 영업활동현금흐름,3390000000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/64803/000006480326000010/ ; https://www.sec.gov/Archives/edgar/data/64803/000006480325000037/,누적 10639000000 − 직전누적 7249000000 (시작 2025-01-01),6
+CVS Health,CVS,2025Q4,2025-12-31,분기말 자산총계,253538000000,USD,공시,https://www.sec.gov/Archives/edgar/data/64803/000006480326000010/,,6
+CVS Health,CVS,2025Q4,2025-12-31,분기말 부채총계,178156000000,USD,공시,https://www.sec.gov/Archives/edgar/data/64803/000006480326000010/,,6
+CVS Health,CVS,2025Q4,2025-12-31,분기말 총자본(자기자본),75382000000,USD,공시,https://www.sec.gov/Archives/edgar/data/64803/000006480326000010/,,6
+CVS Health,CVS,2025Q4,2025-12-31,분기말 지배지분 자본,75214000000,USD,공시,https://www.sec.gov/Archives/edgar/data/64803/000006480326000010/,,6
+CVS Health,CVS,2025Q4,2025-12-31,분기말 종가,79.36,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/CVS?interval=1d&events=splits (2025-12-31),,6
+CVS Health,CVS,2025Q4,2026-02-04,분기말 상장주식수,1272211063,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/64803/000006480326000010/,dei:EntityCommonStockSharesOutstanding 클래스 합,6
+CVS Health,CVS,2025Q4,2025-12-31,분기말 시가총액,100962669960,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/CVS?interval=1d&events=splits (2025-12-31) ; https://www.sec.gov/Archives/edgar/data/64803/000006480326000010/,종가 79.36 × 주식수 1272211063,6
+CVS Health,CVS,2026Q1,2026-03-31,분기별 매출액,100426000000,USD,공시,https://www.sec.gov/Archives/edgar/data/64803/000006480326000052/,,6
+CVS Health,CVS,2026Q1,2026-03-31,분기별 영업이익,4680000000,USD,공시,https://www.sec.gov/Archives/edgar/data/64803/000006480326000052/,,6
+CVS Health,CVS,2026Q1,2026-03-31,분기별 당기순이익(지배),2943000000,USD,공시,https://www.sec.gov/Archives/edgar/data/64803/000006480326000052/,,6
+CVS Health,CVS,2026Q1,2026-03-31,분기별 영업활동현금흐름,4249000000,USD,공시,https://www.sec.gov/Archives/edgar/data/64803/000006480326000052/,,6
+CVS Health,CVS,2026Q1,2026-03-31,분기말 자산총계,252974000000,USD,공시,https://www.sec.gov/Archives/edgar/data/64803/000006480326000052/,,6
+CVS Health,CVS,2026Q1,2026-03-31,분기말 부채총계,175337000000,USD,공시,https://www.sec.gov/Archives/edgar/data/64803/000006480326000052/,,6
+CVS Health,CVS,2026Q1,2026-03-31,분기말 총자본(자기자본),77637000000,USD,공시,https://www.sec.gov/Archives/edgar/data/64803/000006480326000052/,,6
+CVS Health,CVS,2026Q1,2026-03-31,분기말 지배지분 자본,77456000000,USD,공시,https://www.sec.gov/Archives/edgar/data/64803/000006480326000052/,,6
+CVS Health,CVS,2026Q1,2026-03-31,분기말 종가,71.82,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/CVS?interval=1d&events=splits (2026-03-31),,6
+CVS Health,CVS,2026Q1,2026-04-29,분기말 상장주식수,1275927307,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/64803/000006480326000052/,dei:EntityCommonStockSharesOutstanding 클래스 합,6
+CVS Health,CVS,2026Q1,2026-03-31,분기말 시가총액,91637099189,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/CVS?interval=1d&events=splits (2026-03-31) ; https://www.sec.gov/Archives/edgar/data/64803/000006480326000052/,종가 71.82 × 주식수 1275927307,6
+CVS Health,CVS,2026Q2,2026-06-30,분기별 매출액,106096000000,USD,공시,https://www.sec.gov/Archives/edgar/data/64803/000006480326000098/,,6
+CVS Health,CVS,2026Q2,2026-06-30,분기별 영업이익,4703000000,USD,공시,https://www.sec.gov/Archives/edgar/data/64803/000006480326000098/,,6
+CVS Health,CVS,2026Q2,2026-06-30,분기별 당기순이익(지배),2979000000,USD,공시,https://www.sec.gov/Archives/edgar/data/64803/000006480326000098/,,6
+CVS Health,CVS,2026Q2,2026-06-30,분기별 영업활동현금흐름,6345000000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/64803/000006480326000098/ ; https://www.sec.gov/Archives/edgar/data/64803/000006480326000052/,누적 10594000000 − 직전누적 4249000000 (시작 2026-01-01),6
+CVS Health,CVS,2026Q2,2026-06-30,분기말 자산총계,253768000000,USD,공시,https://www.sec.gov/Archives/edgar/data/64803/000006480326000098/,,6
+CVS Health,CVS,2026Q2,2026-06-30,분기말 부채총계,173869000000,USD,공시,https://www.sec.gov/Archives/edgar/data/64803/000006480326000098/,,6
+CVS Health,CVS,2026Q2,2026-06-30,분기말 총자본(자기자본),79899000000,USD,공시,https://www.sec.gov/Archives/edgar/data/64803/000006480326000098/,,6
+CVS Health,CVS,2026Q2,2026-06-30,분기말 지배지분 자본,79702000000,USD,공시,https://www.sec.gov/Archives/edgar/data/64803/000006480326000098/,,6
+CVS Health,CVS,2026Q2,2026-06-30,분기말 종가,103.45,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/CVS?interval=1d&events=splits (2026-06-30),,6
+CVS Health,CVS,2026Q2,2026-07-29,분기말 상장주식수,1278970369,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/64803/000006480326000098/,dei:EntityCommonStockSharesOutstanding 클래스 합,6
+CVS Health,CVS,2026Q2,2026-06-30,분기말 시가총액,132309484673,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/CVS?interval=1d&events=splits (2026-06-30) ; https://www.sec.gov/Archives/edgar/data/64803/000006480326000098/,종가 103.45 × 주식수 1278970369,6

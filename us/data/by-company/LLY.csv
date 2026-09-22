@@ -1,0 +1,727 @@
+﻿기업,종목코드,기간,기준일,항목,값,통화,값구분,출처,검산,라운드
+Eli Lilly,LLY,2010Q1,2010-03-31,분기별 매출액,5485500000,USD,공시,https://www.sec.gov/Archives/edgar/data/59478/000095012310041274/,,1
+Eli Lilly,LLY,2010Q1,2010-03-31,분기별 영업이익,미확인,USD,미확인,SEC companyfacts CIK0000059478: OperatingIncomeLoss 태그 없음(영업이익 미공시),,1
+Eli Lilly,LLY,2010Q1,2010-03-31,분기별 당기순이익(지배),1248100000,USD,공시,https://www.sec.gov/Archives/edgar/data/59478/000095012310041274/,,1
+Eli Lilly,LLY,2010Q1,2010-03-31,분기별 영업활동현금흐름,958000000,USD,공시,https://www.sec.gov/Archives/edgar/data/59478/000095012310041274/,,1
+Eli Lilly,LLY,2010Q1,2010-03-31,분기말 자산총계,27197800000,USD,공시,https://www.sec.gov/Archives/edgar/data/59478/000095012310041274/,,1
+Eli Lilly,LLY,2010Q1,2010-03-31,분기말 부채총계,16735500000,USD,계산(부채및자본-총자본),https://www.sec.gov/Archives/edgar/data/59478/000095012310041274/,부채및자본 27197800000 − 총자본 10462300000,1
+Eli Lilly,LLY,2010Q1,2010-03-31,분기말 총자본(자기자본),10462300000,USD,공시,https://www.sec.gov/Archives/edgar/data/59478/000095012310041274/,,1
+Eli Lilly,LLY,2010Q1,2010-03-31,분기말 지배지분 자본,10459600000,USD,계산(총자본-비지배),https://www.sec.gov/Archives/edgar/data/59478/000095012310041274/,총자본 10462300000 − 비지배 2700000,1
+Eli Lilly,LLY,2010Q1,2010-03-31,분기말 종가,36.22,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/LLY?interval=1d&events=splits (2010-03-31),,1
+Eli Lilly,LLY,2010Q1,2010-04-20,분기말 상장주식수,1153140541,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/59478/000095012310041274/,dei:EntityCommonStockSharesOutstanding 클래스 합,1
+Eli Lilly,LLY,2010Q1,2010-03-31,분기말 시가총액,41766750395,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/LLY?interval=1d&events=splits (2010-03-31) ; https://www.sec.gov/Archives/edgar/data/59478/000095012310041274/,종가 36.22 × 주식수 1153140541,1
+Eli Lilly,LLY,2010Q2,2010-06-30,분기별 매출액,5748700000,USD,공시,https://www.sec.gov/Archives/edgar/data/59478/000095012310070596/,,1
+Eli Lilly,LLY,2010Q2,2010-06-30,분기별 영업이익,미확인,USD,미확인,SEC companyfacts CIK0000059478: OperatingIncomeLoss 태그 없음(영업이익 미공시),,1
+Eli Lilly,LLY,2010Q2,2010-06-30,분기별 당기순이익(지배),1348900000,USD,공시,https://www.sec.gov/Archives/edgar/data/59478/000095012310070596/,,1
+Eli Lilly,LLY,2010Q2,2010-06-30,분기별 영업활동현금흐름,1911600000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/59478/000095012310070596/ ; https://www.sec.gov/Archives/edgar/data/59478/000095012310041274/,누적 2869600000 − 직전누적 958000000 (시작 2010-01-01),1
+Eli Lilly,LLY,2010Q2,2010-06-30,분기말 자산총계,27723100000,USD,공시,https://www.sec.gov/Archives/edgar/data/59478/000095012310070596/,,1
+Eli Lilly,LLY,2010Q2,2010-06-30,분기말 부채총계,17487800000,USD,계산(부채및자본-총자본),https://www.sec.gov/Archives/edgar/data/59478/000095012310070596/,부채및자본 27723100000 − 총자본 10235300000,1
+Eli Lilly,LLY,2010Q2,2010-06-30,분기말 총자본(자기자본),10235300000,USD,공시,https://www.sec.gov/Archives/edgar/data/59478/000095012310070596/,,1
+Eli Lilly,LLY,2010Q2,2010-06-30,분기말 지배지분 자본,10241500000,USD,계산(총자본-비지배),https://www.sec.gov/Archives/edgar/data/59478/000095012310070596/,총자본 10235300000 − 비지배 -6200000,1
+Eli Lilly,LLY,2010Q2,2010-06-30,분기말 종가,33.5,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/LLY?interval=1d&events=splits (2010-06-30),,1
+Eli Lilly,LLY,2010Q2,2010-07-20,분기말 상장주식수,1153140311,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/59478/000095012310070596/,dei:EntityCommonStockSharesOutstanding 클래스 합,1
+Eli Lilly,LLY,2010Q2,2010-06-30,분기말 시가총액,38630200418,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/LLY?interval=1d&events=splits (2010-06-30) ; https://www.sec.gov/Archives/edgar/data/59478/000095012310070596/,종가 33.5 × 주식수 1153140311,1
+Eli Lilly,LLY,2010Q3,2010-09-30,분기별 매출액,5654800000,USD,공시,https://www.sec.gov/Archives/edgar/data/59478/000095012310097867/,,1
+Eli Lilly,LLY,2010Q3,2010-09-30,분기별 영업이익,미확인,USD,미확인,SEC companyfacts CIK0000059478: OperatingIncomeLoss 태그 없음(영업이익 미공시),,1
+Eli Lilly,LLY,2010Q3,2010-09-30,분기별 당기순이익(지배),1302900000,USD,공시,https://www.sec.gov/Archives/edgar/data/59478/000095012310097867/,,1
+Eli Lilly,LLY,2010Q3,2010-09-30,분기별 영업활동현금흐름,1759100000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/59478/000095012310097867/ ; https://www.sec.gov/Archives/edgar/data/59478/000095012310070596/,누적 4628700000 − 직전누적 2869600000 (시작 2010-01-01),1
+Eli Lilly,LLY,2010Q3,2010-09-30,분기말 자산총계,29904300000,USD,공시,https://www.sec.gov/Archives/edgar/data/59478/000095012310097867/,,1
+Eli Lilly,LLY,2010Q3,2010-09-30,분기말 부채총계,17498800000,USD,계산(부채및자본-총자본),https://www.sec.gov/Archives/edgar/data/59478/000095012310097867/,부채및자본 29904300000 − 총자본 12405500000,1
+Eli Lilly,LLY,2010Q3,2010-09-30,분기말 총자본(자기자본),12405500000,USD,공시,https://www.sec.gov/Archives/edgar/data/59478/000095012310097867/,,1
+Eli Lilly,LLY,2010Q3,2010-09-30,분기말 지배지분 자본,12413100000,USD,계산(총자본-비지배),https://www.sec.gov/Archives/edgar/data/59478/000095012310097867/,총자본 12405500000 − 비지배 -7600000,1
+Eli Lilly,LLY,2010Q3,2010-09-30,분기말 종가,36.53,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/LLY?interval=1d&events=splits (2010-09-30),,1
+Eli Lilly,LLY,2010Q3,2010-10-20,분기말 상장주식수,1153143311,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/59478/000095012310097867/,dei:EntityCommonStockSharesOutstanding 클래스 합,1
+Eli Lilly,LLY,2010Q3,2010-09-30,분기말 시가총액,42124325151,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/LLY?interval=1d&events=splits (2010-09-30) ; https://www.sec.gov/Archives/edgar/data/59478/000095012310097867/,종가 36.53 × 주식수 1153143311,1
+Eli Lilly,LLY,2010Q4,2010-12-31,분기별 매출액,6187000000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/59478/000119312511041620/ ; https://www.sec.gov/Archives/edgar/data/59478/000095012310097867/,연간 23076000000 − 9개월누적 16889000000 (Revenues),1
+Eli Lilly,LLY,2010Q4,2010-12-31,분기별 영업이익,미확인,USD,미확인,SEC companyfacts CIK0000059478: OperatingIncomeLoss 태그 없음(영업이익 미공시),,1
+Eli Lilly,LLY,2010Q4,2010-12-31,분기별 당기순이익(지배),1169600000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/59478/000119312511041620/ ; https://www.sec.gov/Archives/edgar/data/59478/000095012310097867/,연간 5069500000 − 9개월누적 3899900000 (NetIncomeLoss),1
+Eli Lilly,LLY,2010Q4,2010-12-31,분기별 영업활동현금흐름,2228100000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/59478/000119312511041620/ ; https://www.sec.gov/Archives/edgar/data/59478/000095012310097867/,누적 6856800000 − 직전누적 4628700000 (시작 2010-01-01),1
+Eli Lilly,LLY,2010Q4,2010-12-31,분기말 자산총계,31001400000,USD,공시,https://www.sec.gov/Archives/edgar/data/59478/000119312511041620/,,1
+Eli Lilly,LLY,2010Q4,2010-12-31,분기말 부채총계,18588600000,USD,계산(부채및자본-총자본),https://www.sec.gov/Archives/edgar/data/59478/000119312511041620/,부채및자본 31001400000 − 총자본 12412800000,1
+Eli Lilly,LLY,2010Q4,2010-12-31,분기말 총자본(자기자본),12412800000,USD,공시,https://www.sec.gov/Archives/edgar/data/59478/000119312511041620/,,1
+Eli Lilly,LLY,2010Q4,2010-12-31,분기말 지배지분 자본,12420300000,USD,계산(총자본-비지배),https://www.sec.gov/Archives/edgar/data/59478/000119312511041620/,총자본 12412800000 − 비지배 -7500000,1
+Eli Lilly,LLY,2010Q4,2010-12-31,분기말 종가,35.04,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/LLY?interval=1d&events=splits (2010-12-31),,1
+Eli Lilly,LLY,2010Q4,2011-02-15,분기말 상장주식수,1157664779,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/59478/000119312511041620/,dei:EntityCommonStockSharesOutstanding 클래스 합,1
+Eli Lilly,LLY,2010Q4,2010-12-31,분기말 시가총액,40564573856,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/LLY?interval=1d&events=splits (2010-12-31) ; https://www.sec.gov/Archives/edgar/data/59478/000119312511041620/,종가 35.04 × 주식수 1157664779,1
+Eli Lilly,LLY,2011Q1,2011-03-31,분기별 매출액,5839200000,USD,공시,https://www.sec.gov/Archives/edgar/data/59478/000119312511117877/,,1
+Eli Lilly,LLY,2011Q1,2011-03-31,분기별 영업이익,미확인,USD,미확인,SEC companyfacts CIK0000059478: OperatingIncomeLoss 태그 없음(영업이익 미공시),,1
+Eli Lilly,LLY,2011Q1,2011-03-31,분기별 당기순이익(지배),1055900000,USD,공시,https://www.sec.gov/Archives/edgar/data/59478/000119312511117877/,,1
+Eli Lilly,LLY,2011Q1,2011-03-31,분기별 영업활동현금흐름,1176100000,USD,공시,https://www.sec.gov/Archives/edgar/data/59478/000119312511117877/,,1
+Eli Lilly,LLY,2011Q1,2011-03-31,분기말 자산총계,31695300000,USD,공시,https://www.sec.gov/Archives/edgar/data/59478/000119312511117877/,,1
+Eli Lilly,LLY,2011Q1,2011-03-31,분기말 부채총계,17761100000,USD,계산(부채및자본-총자본),https://www.sec.gov/Archives/edgar/data/59478/000119312511117877/,부채및자본 31695300000 − 총자본 13934200000,1
+Eli Lilly,LLY,2011Q1,2011-03-31,분기말 총자본(자기자본),13934200000,USD,공시,https://www.sec.gov/Archives/edgar/data/59478/000119312511117877/,,1
+Eli Lilly,LLY,2011Q1,2011-03-31,분기말 지배지분 자본,13938100000,USD,계산(총자본-비지배),https://www.sec.gov/Archives/edgar/data/59478/000119312511117877/,총자본 13934200000 − 비지배 -3900000,1
+Eli Lilly,LLY,2011Q1,2011-03-31,분기말 종가,35.17,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/LLY?interval=1d&events=splits (2011-03-31),,1
+Eli Lilly,LLY,2011Q1,2011-04-20,분기말 상장주식수,1157666449,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/59478/000119312511117877/,dei:EntityCommonStockSharesOutstanding 클래스 합,1
+Eli Lilly,LLY,2011Q1,2011-03-31,분기말 시가총액,40715129011,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/LLY?interval=1d&events=splits (2011-03-31) ; https://www.sec.gov/Archives/edgar/data/59478/000119312511117877/,종가 35.17 × 주식수 1157666449,1
+Eli Lilly,LLY,2011Q2,2011-06-30,분기별 매출액,6252800000,USD,공시,https://www.sec.gov/Archives/edgar/data/59478/000119312511202740/,,1
+Eli Lilly,LLY,2011Q2,2011-06-30,분기별 영업이익,미확인,USD,미확인,SEC companyfacts CIK0000059478: OperatingIncomeLoss 태그 없음(영업이익 미공시),,1
+Eli Lilly,LLY,2011Q2,2011-06-30,분기별 당기순이익(지배),1197300000,USD,공시,https://www.sec.gov/Archives/edgar/data/59478/000119312511202740/,,1
+Eli Lilly,LLY,2011Q2,2011-06-30,분기별 영업활동현금흐름,2040300000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/59478/000119312511202740/ ; https://www.sec.gov/Archives/edgar/data/59478/000119312511117877/,누적 3216400000 − 직전누적 1176100000 (시작 2011-01-01),1
+Eli Lilly,LLY,2011Q2,2011-06-30,분기말 자산총계,32779300000,USD,공시,https://www.sec.gov/Archives/edgar/data/59478/000119312511202740/,,1
+Eli Lilly,LLY,2011Q2,2011-06-30,분기말 부채총계,18502300000,USD,계산(부채및자본-총자본),https://www.sec.gov/Archives/edgar/data/59478/000119312511202740/,부채및자본 32779300000 − 총자본 14277000000,1
+Eli Lilly,LLY,2011Q2,2011-06-30,분기말 총자본(자기자본),14277000000,USD,공시,https://www.sec.gov/Archives/edgar/data/59478/000119312511202740/,,1
+Eli Lilly,LLY,2011Q2,2011-06-30,분기말 지배지분 자본,14276800000,USD,계산(총자본-비지배),https://www.sec.gov/Archives/edgar/data/59478/000119312511202740/,총자본 14277000000 − 비지배 200000,1
+Eli Lilly,LLY,2011Q2,2011-06-30,분기말 종가,37.53,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/LLY?interval=1d&events=splits (2011-06-30),,1
+Eli Lilly,LLY,2011Q2,2011-07-20,분기말 상장주식수,1157688685,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/59478/000119312511202740/,dei:EntityCommonStockSharesOutstanding 클래스 합,1
+Eli Lilly,LLY,2011Q2,2011-06-30,분기말 시가총액,43448056348,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/LLY?interval=1d&events=splits (2011-06-30) ; https://www.sec.gov/Archives/edgar/data/59478/000119312511202740/,종가 37.53 × 주식수 1157688685,1
+Eli Lilly,LLY,2011Q3,2011-09-30,분기별 매출액,6147900000,USD,공시,https://www.sec.gov/Archives/edgar/data/59478/000119312511286084/,,1
+Eli Lilly,LLY,2011Q3,2011-09-30,분기별 영업이익,미확인,USD,미확인,SEC companyfacts CIK0000059478: OperatingIncomeLoss 태그 없음(영업이익 미공시),,1
+Eli Lilly,LLY,2011Q3,2011-09-30,분기별 당기순이익(지배),1236300000,USD,공시,https://www.sec.gov/Archives/edgar/data/59478/000119312511286084/,,1
+Eli Lilly,LLY,2011Q3,2011-09-30,분기별 영업활동현금흐름,2073400000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/59478/000119312511286084/ ; https://www.sec.gov/Archives/edgar/data/59478/000119312511202740/,누적 5289800000 − 직전누적 3216400000 (시작 2011-01-01),1
+Eli Lilly,LLY,2011Q3,2011-09-30,분기말 자산총계,33042200000,USD,공시,https://www.sec.gov/Archives/edgar/data/59478/000119312511286084/,,1
+Eli Lilly,LLY,2011Q3,2011-09-30,분기말 부채총계,17984300000,USD,계산(부채및자본-총자본),https://www.sec.gov/Archives/edgar/data/59478/000119312511286084/,부채및자본 33042200000 − 총자본 15057900000,1
+Eli Lilly,LLY,2011Q3,2011-09-30,분기말 총자본(자기자본),15057900000,USD,공시,https://www.sec.gov/Archives/edgar/data/59478/000119312511286084/,,1
+Eli Lilly,LLY,2011Q3,2011-09-30,분기말 지배지분 자본,15060600000,USD,계산(총자본-비지배),https://www.sec.gov/Archives/edgar/data/59478/000119312511286084/,총자본 15057900000 − 비지배 -2700000,1
+Eli Lilly,LLY,2011Q3,2011-09-30,분기말 종가,36.97,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/LLY?interval=1d&events=splits (2011-09-30),,1
+Eli Lilly,LLY,2011Q3,2011-10-20,분기말 상장주식수,1157762135,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/59478/000119312511286084/,dei:EntityCommonStockSharesOutstanding 클래스 합,1
+Eli Lilly,LLY,2011Q3,2011-09-30,분기말 시가총액,42802466131,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/LLY?interval=1d&events=splits (2011-09-30) ; https://www.sec.gov/Archives/edgar/data/59478/000119312511286084/,종가 36.97 × 주식수 1157762135,1
+Eli Lilly,LLY,2011Q4,2011-12-31,분기별 매출액,6046600000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/59478/000119312512078393/ ; https://www.sec.gov/Archives/edgar/data/59478/000119312511286084/,연간 24286500000 − 9개월누적 18239900000 (Revenues),1
+Eli Lilly,LLY,2011Q4,2011-12-31,분기별 영업이익,미확인,USD,미확인,SEC companyfacts CIK0000059478: OperatingIncomeLoss 태그 없음(영업이익 미공시),,1
+Eli Lilly,LLY,2011Q4,2011-12-31,분기별 당기순이익(지배),858200000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/59478/000119312512078393/ ; https://www.sec.gov/Archives/edgar/data/59478/000119312511286084/,연간 4347700000 − 9개월누적 3489500000 (NetIncomeLoss),1
+Eli Lilly,LLY,2011Q4,2011-12-31,분기별 영업활동현금흐름,1944700000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/59478/000119312512078393/ ; https://www.sec.gov/Archives/edgar/data/59478/000119312511286084/,누적 7234500000 − 직전누적 5289800000 (시작 2011-01-01),1
+Eli Lilly,LLY,2011Q4,2011-12-31,분기말 자산총계,33659800000,USD,공시,https://www.sec.gov/Archives/edgar/data/59478/000119312512078393/,,1
+Eli Lilly,LLY,2011Q4,2011-12-31,분기말 부채총계,20124200000,USD,계산(부채및자본-총자본),https://www.sec.gov/Archives/edgar/data/59478/000119312512078393/,부채및자본 33659800000 − 총자본 13535600000,1
+Eli Lilly,LLY,2011Q4,2011-12-31,분기말 총자본(자기자본),13535600000,USD,공시,https://www.sec.gov/Archives/edgar/data/59478/000119312512078393/,,1
+Eli Lilly,LLY,2011Q4,2011-12-31,분기말 지배지분 자본,13541700000,USD,계산(총자본-비지배),https://www.sec.gov/Archives/edgar/data/59478/000119312512078393/,총자본 13535600000 − 비지배 -6100000,1
+Eli Lilly,LLY,2011Q4,2011-12-30,분기말 종가,41.56,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/LLY?interval=1d&events=splits (2011-12-30),,1
+Eli Lilly,LLY,2011Q4,2012-02-15,분기말 상장주식수,1160406840,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/59478/000119312512078393/,dei:EntityCommonStockSharesOutstanding 클래스 합,1
+Eli Lilly,LLY,2011Q4,2011-12-30,분기말 시가총액,48226508270,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/LLY?interval=1d&events=splits (2011-12-30) ; https://www.sec.gov/Archives/edgar/data/59478/000119312512078393/,종가 41.56 × 주식수 1160406840,1
+Eli Lilly,LLY,2012Q1,2012-03-31,분기별 매출액,5602000000,USD,공시,https://www.sec.gov/Archives/edgar/data/59478/000119312512195656/,,1
+Eli Lilly,LLY,2012Q1,2012-03-31,분기별 영업이익,미확인,USD,미확인,SEC companyfacts CIK0000059478: OperatingIncomeLoss 태그 없음(영업이익 미공시),,1
+Eli Lilly,LLY,2012Q1,2012-03-31,분기별 당기순이익(지배),1011100000,USD,공시,https://www.sec.gov/Archives/edgar/data/59478/000119312512195656/,,1
+Eli Lilly,LLY,2012Q1,2012-03-31,분기별 영업활동현금흐름,852500000,USD,공시,https://www.sec.gov/Archives/edgar/data/59478/000119312512195656/,,1
+Eli Lilly,LLY,2012Q1,2012-03-31,분기말 자산총계,32238200000,USD,공시,https://www.sec.gov/Archives/edgar/data/59478/000119312512195656/,,1
+Eli Lilly,LLY,2012Q1,2012-03-31,분기말 부채총계,17415600000,USD,계산(부채및자본-총자본),https://www.sec.gov/Archives/edgar/data/59478/000119312512195656/,부채및자본 32238200000 − 총자본 14822600000,1
+Eli Lilly,LLY,2012Q1,2012-03-31,분기말 총자본(자기자본),14822600000,USD,공시,https://www.sec.gov/Archives/edgar/data/59478/000119312512195656/,,1
+Eli Lilly,LLY,2012Q1,2012-03-31,분기말 지배지분 자본,14834100000,USD,계산(총자본-비지배),https://www.sec.gov/Archives/edgar/data/59478/000119312512195656/,총자본 14822600000 − 비지배 -11500000,1
+Eli Lilly,LLY,2012Q1,2012-03-30,분기말 종가,40.27,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/LLY?interval=1d&events=splits (2012-03-30),,1
+Eli Lilly,LLY,2012Q1,2012-04-20,분기말 상장주식수,1160415307,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/59478/000119312512195656/,dei:EntityCommonStockSharesOutstanding 클래스 합,1
+Eli Lilly,LLY,2012Q1,2012-03-30,분기말 시가총액,46729924413,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/LLY?interval=1d&events=splits (2012-03-30) ; https://www.sec.gov/Archives/edgar/data/59478/000119312512195656/,종가 40.27 × 주식수 1160415307,1
+Eli Lilly,LLY,2012Q2,2012-06-30,분기별 매출액,5600700000,USD,공시,https://www.sec.gov/Archives/edgar/data/59478/000005947812000006/,,1
+Eli Lilly,LLY,2012Q2,2012-06-30,분기별 영업이익,미확인,USD,미확인,SEC companyfacts CIK0000059478: OperatingIncomeLoss 태그 없음(영업이익 미공시),,1
+Eli Lilly,LLY,2012Q2,2012-06-30,분기별 당기순이익(지배),923600000,USD,공시,https://www.sec.gov/Archives/edgar/data/59478/000005947812000006/,,1
+Eli Lilly,LLY,2012Q2,2012-06-30,분기별 영업활동현금흐름,1306000000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/59478/000005947812000006/ ; https://www.sec.gov/Archives/edgar/data/59478/000119312512195656/,누적 2158500000 − 직전누적 852500000 (시작 2012-01-01),1
+Eli Lilly,LLY,2012Q2,2012-06-30,분기말 자산총계,31812600000,USD,공시,https://www.sec.gov/Archives/edgar/data/59478/000005947812000006/,,1
+Eli Lilly,LLY,2012Q2,2012-06-30,분기말 부채총계,17504700000,USD,계산(부채및자본-총자본),https://www.sec.gov/Archives/edgar/data/59478/000005947812000006/,부채및자본 31812600000 − 총자본 14307900000,1
+Eli Lilly,LLY,2012Q2,2012-06-30,분기말 총자본(자기자본),14307900000,USD,공시,https://www.sec.gov/Archives/edgar/data/59478/000005947812000006/,,1
+Eli Lilly,LLY,2012Q2,2012-06-30,분기말 지배지분 자본,14310400000,USD,계산(총자본-비지배),https://www.sec.gov/Archives/edgar/data/59478/000005947812000006/,총자본 14307900000 − 비지배 -2500000,1
+Eli Lilly,LLY,2012Q2,2012-06-29,분기말 종가,42.91,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/LLY?interval=1d&events=splits (2012-06-29),,1
+Eli Lilly,LLY,2012Q2,2012-07-20,분기말 상장주식수,1160425459,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/59478/000005947812000006/,dei:EntityCommonStockSharesOutstanding 클래스 합,1
+Eli Lilly,LLY,2012Q2,2012-06-29,분기말 시가총액,49793856446,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/LLY?interval=1d&events=splits (2012-06-29) ; https://www.sec.gov/Archives/edgar/data/59478/000005947812000006/,종가 42.91 × 주식수 1160425459,1
+Eli Lilly,LLY,2012Q3,2012-09-30,분기별 매출액,5443300000,USD,공시,https://www.sec.gov/Archives/edgar/data/59478/000005947812000021/,,1
+Eli Lilly,LLY,2012Q3,2012-09-30,분기별 영업이익,미확인,USD,미확인,SEC companyfacts CIK0000059478: OperatingIncomeLoss 태그 없음(영업이익 미공시),,1
+Eli Lilly,LLY,2012Q3,2012-09-30,분기별 당기순이익(지배),1326600000,USD,공시,https://www.sec.gov/Archives/edgar/data/59478/000005947812000021/,,1
+Eli Lilly,LLY,2012Q3,2012-09-30,분기별 영업활동현금흐름,1544300000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/59478/000005947812000021/ ; https://www.sec.gov/Archives/edgar/data/59478/000005947812000006/,누적 3702800000 − 직전누적 2158500000 (시작 2012-01-01),1
+Eli Lilly,LLY,2012Q3,2012-09-30,분기말 자산총계,34321000000,USD,공시,https://www.sec.gov/Archives/edgar/data/59478/000005947812000021/,,1
+Eli Lilly,LLY,2012Q3,2012-09-30,분기말 부채총계,18264100000,USD,계산(부채및자본-총자본),https://www.sec.gov/Archives/edgar/data/59478/000005947812000021/,부채및자본 34321000000 − 총자본 16056900000,1
+Eli Lilly,LLY,2012Q3,2012-09-30,분기말 총자본(자기자본),16056900000,USD,공시,https://www.sec.gov/Archives/edgar/data/59478/000005947812000021/,,1
+Eli Lilly,LLY,2012Q3,2012-09-30,분기말 지배지분 자본,16064500000,USD,계산(총자본-비지배),https://www.sec.gov/Archives/edgar/data/59478/000005947812000021/,총자본 16056900000 − 비지배 -7600000,1
+Eli Lilly,LLY,2012Q3,2012-09-28,분기말 종가,47.41,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/LLY?interval=1d&events=splits (2012-09-28),,1
+Eli Lilly,LLY,2012Q3,2012-10-20,분기말 상장주식수,1160452507,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/59478/000005947812000021/,dei:EntityCommonStockSharesOutstanding 클래스 합,1
+Eli Lilly,LLY,2012Q3,2012-09-28,분기말 시가총액,55017053357,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/LLY?interval=1d&events=splits (2012-09-28) ; https://www.sec.gov/Archives/edgar/data/59478/000005947812000021/,종가 47.41 × 주식수 1160452507,1
+Eli Lilly,LLY,2012Q4,2012-12-31,분기별 매출액,5957400000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/59478/000005947813000007/ ; https://www.sec.gov/Archives/edgar/data/59478/000005947812000021/,연간 22603400000 − 9개월누적 16646000000 (Revenues),1
+Eli Lilly,LLY,2012Q4,2012-12-31,분기별 영업이익,미확인,USD,미확인,SEC companyfacts CIK0000059478: OperatingIncomeLoss 태그 없음(영업이익 미공시),,1
+Eli Lilly,LLY,2012Q4,2012-12-31,분기별 당기순이익(지배),827300000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/59478/000005947813000007/ ; https://www.sec.gov/Archives/edgar/data/59478/000005947812000021/,연간 4088600000 − 9개월누적 3261300000 (NetIncomeLoss),1
+Eli Lilly,LLY,2012Q4,2012-12-31,분기별 영업활동현금흐름,1602000000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/59478/000005947813000007/ ; https://www.sec.gov/Archives/edgar/data/59478/000005947812000021/,누적 5304800000 − 직전누적 3702800000 (시작 2012-01-01),1
+Eli Lilly,LLY,2012Q4,2012-12-31,분기말 자산총계,34398900000,USD,공시,https://www.sec.gov/Archives/edgar/data/59478/000005947813000007/,,1
+Eli Lilly,LLY,2012Q4,2012-12-31,분기말 부채총계,19625000000,USD,계산(부채및자본-총자본),https://www.sec.gov/Archives/edgar/data/59478/000005947813000007/,부채및자본 34398900000 − 총자본 14773900000,1
+Eli Lilly,LLY,2012Q4,2012-12-31,분기말 총자본(자기자본),14773900000,USD,공시,https://www.sec.gov/Archives/edgar/data/59478/000005947813000007/,,1
+Eli Lilly,LLY,2012Q4,2012-12-31,분기말 지배지분 자본,14765200000,USD,계산(총자본-비지배),https://www.sec.gov/Archives/edgar/data/59478/000005947813000007/,총자본 14773900000 − 비지배 8700000,1
+Eli Lilly,LLY,2012Q4,2012-12-31,분기말 종가,49.32,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/LLY?interval=1d&events=splits (2012-12-31),,1
+Eli Lilly,LLY,2012Q4,2013-02-15,분기말 상장주식수,1134411762,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/59478/000005947813000007/,dei:EntityCommonStockSharesOutstanding 클래스 합,1
+Eli Lilly,LLY,2012Q4,2012-12-31,분기말 시가총액,55949188102,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/LLY?interval=1d&events=splits (2012-12-31) ; https://www.sec.gov/Archives/edgar/data/59478/000005947813000007/,종가 49.32 × 주식수 1134411762,1
+Eli Lilly,LLY,2013Q1,2013-03-31,분기별 매출액,5602000000,USD,공시,https://www.sec.gov/Archives/edgar/data/59478/000005947813000019/,,1
+Eli Lilly,LLY,2013Q1,2013-03-31,분기별 영업이익,미확인,USD,미확인,SEC companyfacts CIK0000059478: OperatingIncomeLoss 태그 없음(영업이익 미공시),,1
+Eli Lilly,LLY,2013Q1,2013-03-31,분기별 당기순이익(지배),1548000000,USD,공시,https://www.sec.gov/Archives/edgar/data/59478/000005947813000019/,,1
+Eli Lilly,LLY,2013Q1,2013-03-31,분기별 영업활동현금흐름,379400000,USD,공시,https://www.sec.gov/Archives/edgar/data/59478/000005947813000019/,,1
+Eli Lilly,LLY,2013Q1,2013-03-31,분기말 자산총계,32300100000,USD,공시,https://www.sec.gov/Archives/edgar/data/59478/000005947813000019/,,1
+Eli Lilly,LLY,2013Q1,2013-03-31,분기말 부채총계,17344500000,USD,계산(부채및자본-총자본),https://www.sec.gov/Archives/edgar/data/59478/000005947813000019/,부채및자본 32300100000 − 총자본 14955600000,1
+Eli Lilly,LLY,2013Q1,2013-03-31,분기말 총자본(자기자본),14955600000,USD,공시,https://www.sec.gov/Archives/edgar/data/59478/000005947813000019/,,1
+Eli Lilly,LLY,2013Q1,2013-03-31,분기말 지배지분 자본,14948600000,USD,계산(총자본-비지배),https://www.sec.gov/Archives/edgar/data/59478/000005947813000019/,총자본 14955600000 − 비지배 7000000,1
+Eli Lilly,LLY,2013Q1,2013-03-28,분기말 종가,56.79,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/LLY?interval=1d&events=splits (2013-03-28),,1
+Eli Lilly,LLY,2013Q1,2013-04-20,분기말 상장주식수,1126561464,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/59478/000005947813000019/,dei:EntityCommonStockSharesOutstanding 클래스 합,1
+Eli Lilly,LLY,2013Q1,2013-03-28,분기말 시가총액,63977425541,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/LLY?interval=1d&events=splits (2013-03-28) ; https://www.sec.gov/Archives/edgar/data/59478/000005947813000019/,종가 56.79 × 주식수 1126561464,1
+Eli Lilly,LLY,2013Q2,2013-06-30,분기별 매출액,5929700000,USD,공시,https://www.sec.gov/Archives/edgar/data/59478/000005947813000043/,,1
+Eli Lilly,LLY,2013Q2,2013-06-30,분기별 영업이익,미확인,USD,미확인,SEC companyfacts CIK0000059478: OperatingIncomeLoss 태그 없음(영업이익 미공시),,1
+Eli Lilly,LLY,2013Q2,2013-06-30,분기별 당기순이익(지배),1206200000,USD,공시,https://www.sec.gov/Archives/edgar/data/59478/000005947813000043/,,1
+Eli Lilly,LLY,2013Q2,2013-06-30,분기별 영업활동현금흐름,1637200000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/59478/000005947813000043/ ; https://www.sec.gov/Archives/edgar/data/59478/000005947813000019/,누적 2016600000 − 직전누적 379400000 (시작 2013-01-01),1
+Eli Lilly,LLY,2013Q2,2013-06-30,분기말 자산총계,33226000000,USD,공시,https://www.sec.gov/Archives/edgar/data/59478/000005947813000043/,,1
+Eli Lilly,LLY,2013Q2,2013-06-30,분기말 부채총계,17989600000,USD,계산(부채및자본-총자본),https://www.sec.gov/Archives/edgar/data/59478/000005947813000043/,부채및자본 33226000000 − 총자본 15236400000,1
+Eli Lilly,LLY,2013Q2,2013-06-30,분기말 총자본(자기자본),15236400000,USD,공시,https://www.sec.gov/Archives/edgar/data/59478/000005947813000043/,,1
+Eli Lilly,LLY,2013Q2,2013-06-30,분기말 지배지분 자본,15227400000,USD,계산(총자본-비지배),https://www.sec.gov/Archives/edgar/data/59478/000005947813000043/,총자본 15236400000 − 비지배 9000000,1
+Eli Lilly,LLY,2013Q2,2013-06-28,분기말 종가,49.12,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/LLY?interval=1d&events=splits (2013-06-28),,1
+Eli Lilly,LLY,2013Q2,2013-07-20,분기말 상장주식수,1126637846,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/59478/000005947813000043/,dei:EntityCommonStockSharesOutstanding 클래스 합,1
+Eli Lilly,LLY,2013Q2,2013-06-28,분기말 시가총액,55340450996,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/LLY?interval=1d&events=splits (2013-06-28) ; https://www.sec.gov/Archives/edgar/data/59478/000005947813000043/,종가 49.12 × 주식수 1126637846,1
+Eli Lilly,LLY,2013Q3,2013-09-30,분기별 매출액,5772600000,USD,공시,https://www.sec.gov/Archives/edgar/data/59478/000005947813000057/,,1
+Eli Lilly,LLY,2013Q3,2013-09-30,분기별 영업이익,미확인,USD,미확인,SEC companyfacts CIK0000059478: OperatingIncomeLoss 태그 없음(영업이익 미공시),,1
+Eli Lilly,LLY,2013Q3,2013-09-30,분기별 당기순이익(지배),1203100000,USD,공시,https://www.sec.gov/Archives/edgar/data/59478/000005947813000057/,,1
+Eli Lilly,LLY,2013Q3,2013-09-30,분기별 영업활동현금흐름,1991600000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/59478/000005947813000057/ ; https://www.sec.gov/Archives/edgar/data/59478/000005947813000043/,누적 4008200000 − 직전누적 2016600000 (시작 2013-01-01),1
+Eli Lilly,LLY,2013Q3,2013-09-30,분기말 자산총계,33965600000,USD,공시,https://www.sec.gov/Archives/edgar/data/59478/000005947813000057/,,1
+Eli Lilly,LLY,2013Q3,2013-09-30,분기말 부채총계,17069500000,USD,계산(부채및자본-총자본),https://www.sec.gov/Archives/edgar/data/59478/000005947813000057/,부채및자본 33965600000 − 총자본 16896100000,1
+Eli Lilly,LLY,2013Q3,2013-09-30,분기말 총자본(자기자본),16896100000,USD,공시,https://www.sec.gov/Archives/edgar/data/59478/000005947813000057/,,1
+Eli Lilly,LLY,2013Q3,2013-09-30,분기말 지배지분 자본,16887100000,USD,계산(총자본-비지배),https://www.sec.gov/Archives/edgar/data/59478/000005947813000057/,총자본 16896100000 − 비지배 9000000,1
+Eli Lilly,LLY,2013Q3,2013-09-30,분기말 종가,50.33,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/LLY?interval=1d&events=splits (2013-09-30),,1
+Eli Lilly,LLY,2013Q3,2013-10-23,분기말 상장주식수,1126649615,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/59478/000005947813000057/,dei:EntityCommonStockSharesOutstanding 클래스 합,1
+Eli Lilly,LLY,2013Q3,2013-09-30,분기말 시가총액,56704275123,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/LLY?interval=1d&events=splits (2013-09-30) ; https://www.sec.gov/Archives/edgar/data/59478/000005947813000057/,종가 50.33 × 주식수 1126649615,1
+Eli Lilly,LLY,2013Q4,2013-12-31,분기별 매출액,5808800000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/59478/000005947814000078/ ; https://www.sec.gov/Archives/edgar/data/59478/000005947813000057/,연간 23113100000 − 9개월누적 17304300000 (Revenues),1
+Eli Lilly,LLY,2013Q4,2013-12-31,분기별 영업이익,미확인,USD,미확인,SEC companyfacts CIK0000059478: OperatingIncomeLoss 태그 없음(영업이익 미공시),,1
+Eli Lilly,LLY,2013Q4,2013-12-31,분기별 당기순이익(지배),727500000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/59478/000005947814000078/ ; https://www.sec.gov/Archives/edgar/data/59478/000005947813000057/,연간 4684800000 − 9개월누적 3957300000 (NetIncomeLoss),1
+Eli Lilly,LLY,2013Q4,2013-12-31,분기별 영업활동현금흐름,1726800000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/59478/000005947814000078/ ; https://www.sec.gov/Archives/edgar/data/59478/000005947813000057/,누적 5735000000 − 직전누적 4008200000 (시작 2013-01-01),1
+Eli Lilly,LLY,2013Q4,2013-12-31,분기말 자산총계,35248700000,USD,공시,https://www.sec.gov/Archives/edgar/data/59478/000005947814000078/,,1
+Eli Lilly,LLY,2013Q4,2013-12-31,분기말 부채총계,17608000000,USD,계산(부채및자본-총자본),https://www.sec.gov/Archives/edgar/data/59478/000005947814000078/,부채및자본 35248700000 − 총자본 17640700000,1
+Eli Lilly,LLY,2013Q4,2013-12-31,분기말 총자본(자기자본),17640700000,USD,공시,https://www.sec.gov/Archives/edgar/data/59478/000005947814000078/,,1
+Eli Lilly,LLY,2013Q4,2013-12-31,분기말 지배지분 자본,17631400000,USD,공시,https://www.sec.gov/Archives/edgar/data/59478/000005947814000078/,,1
+Eli Lilly,LLY,2013Q4,2013-12-31,분기말 종가,51.0,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/LLY?interval=1d&events=splits (2013-12-31),,1
+Eli Lilly,LLY,2013Q4,2014-02-14,분기말 상장주식수,1119713084,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/59478/000005947814000078/,dei:EntityCommonStockSharesOutstanding 클래스 합,1
+Eli Lilly,LLY,2013Q4,2013-12-31,분기말 시가총액,57105367284,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/LLY?interval=1d&events=splits (2013-12-31) ; https://www.sec.gov/Archives/edgar/data/59478/000005947814000078/,종가 51.0 × 주식수 1119713084,1
+Eli Lilly,LLY,2014Q1,2014-03-31,분기별 매출액,4683100000,USD,공시,https://www.sec.gov/Archives/edgar/data/59478/000005947814000102/,,1
+Eli Lilly,LLY,2014Q1,2014-03-31,분기별 영업이익,미확인,USD,미확인,SEC companyfacts CIK0000059478: OperatingIncomeLoss 태그 없음(영업이익 미공시),,1
+Eli Lilly,LLY,2014Q1,2014-03-31,분기별 당기순이익(지배),727900000,USD,공시,https://www.sec.gov/Archives/edgar/data/59478/000005947814000102/,,1
+Eli Lilly,LLY,2014Q1,2014-03-31,분기별 영업활동현금흐름,272300000,USD,공시,https://www.sec.gov/Archives/edgar/data/59478/000005947814000102/,,1
+Eli Lilly,LLY,2014Q1,2014-03-31,분기말 자산총계,34756900000,USD,공시,https://www.sec.gov/Archives/edgar/data/59478/000005947814000102/,,1
+Eli Lilly,LLY,2014Q1,2014-03-31,분기말 부채총계,16408200000,USD,계산(부채및자본-총자본),https://www.sec.gov/Archives/edgar/data/59478/000005947814000102/,부채및자본 34756900000 − 총자본 18348700000,1
+Eli Lilly,LLY,2014Q1,2014-03-31,분기말 총자본(자기자본),18348700000,USD,공시,https://www.sec.gov/Archives/edgar/data/59478/000005947814000102/,,1
+Eli Lilly,LLY,2014Q1,2014-03-31,분기말 지배지분 자본,18338100000,USD,공시,https://www.sec.gov/Archives/edgar/data/59478/000005947814000102/,,1
+Eli Lilly,LLY,2014Q1,2014-03-31,분기말 종가,58.86,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/LLY?interval=1d&events=splits (2014-03-31),,1
+Eli Lilly,LLY,2014Q1,2014-04-21,분기말 상장주식수,1119451042,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/59478/000005947814000102/,dei:EntityCommonStockSharesOutstanding 클래스 합,1
+Eli Lilly,LLY,2014Q1,2014-03-31,분기말 시가총액,65890888332,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/LLY?interval=1d&events=splits (2014-03-31) ; https://www.sec.gov/Archives/edgar/data/59478/000005947814000102/,종가 58.86 × 주식수 1119451042,1
+Eli Lilly,LLY,2014Q2,2014-06-30,분기별 매출액,4935600000,USD,공시,https://www.sec.gov/Archives/edgar/data/59478/000005947814000129/,,1
+Eli Lilly,LLY,2014Q2,2014-06-30,분기별 영업이익,미확인,USD,미확인,SEC companyfacts CIK0000059478: OperatingIncomeLoss 태그 없음(영업이익 미공시),,1
+Eli Lilly,LLY,2014Q2,2014-06-30,분기별 당기순이익(지배),733500000,USD,공시,https://www.sec.gov/Archives/edgar/data/59478/000005947814000129/,,1
+Eli Lilly,LLY,2014Q2,2014-06-30,분기별 영업활동현금흐름,1053900000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/59478/000005947814000129/ ; https://www.sec.gov/Archives/edgar/data/59478/000005947814000102/,누적 1326200000 − 직전누적 272300000 (시작 2014-01-01),1
+Eli Lilly,LLY,2014Q2,2014-06-30,분기말 자산총계,35018400000,USD,공시,https://www.sec.gov/Archives/edgar/data/59478/000005947814000129/,,1
+Eli Lilly,LLY,2014Q2,2014-06-30,분기말 부채총계,17023600000,USD,계산(부채및자본-총자본),https://www.sec.gov/Archives/edgar/data/59478/000005947814000129/,부채및자본 35018400000 − 총자본 17994800000,1
+Eli Lilly,LLY,2014Q2,2014-06-30,분기말 총자본(자기자본),17994800000,USD,공시,https://www.sec.gov/Archives/edgar/data/59478/000005947814000129/,,1
+Eli Lilly,LLY,2014Q2,2014-06-30,분기말 지배지분 자본,17983700000,USD,공시,https://www.sec.gov/Archives/edgar/data/59478/000005947814000129/,,1
+Eli Lilly,LLY,2014Q2,2014-06-30,분기말 종가,62.17,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/LLY?interval=1d&events=splits (2014-06-30),,1
+Eli Lilly,LLY,2014Q2,2014-07-21,분기말 상장주식수,1117308330,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/59478/000005947814000129/,dei:EntityCommonStockSharesOutstanding 클래스 합,1
+Eli Lilly,LLY,2014Q2,2014-06-30,분기말 시가총액,69463058876,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/LLY?interval=1d&events=splits (2014-06-30) ; https://www.sec.gov/Archives/edgar/data/59478/000005947814000129/,종가 62.17 × 주식수 1117308330,1
+Eli Lilly,LLY,2014Q3,2014-09-30,분기별 매출액,4875600000,USD,공시,https://www.sec.gov/Archives/edgar/data/59478/000005947814000169/,,1
+Eli Lilly,LLY,2014Q3,2014-09-30,분기별 영업이익,미확인,USD,미확인,SEC companyfacts CIK0000059478: OperatingIncomeLoss 태그 없음(영업이익 미공시),,1
+Eli Lilly,LLY,2014Q3,2014-09-30,분기별 당기순이익(지배),500600000,USD,공시,https://www.sec.gov/Archives/edgar/data/59478/000005947814000169/,,1
+Eli Lilly,LLY,2014Q3,2014-09-30,분기별 영업활동현금흐름,1691300000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/59478/000005947814000169/ ; https://www.sec.gov/Archives/edgar/data/59478/000005947814000129/,누적 3017500000 − 직전누적 1326200000 (시작 2014-01-01),1
+Eli Lilly,LLY,2014Q3,2014-09-30,분기말 자산총계,34648800000,USD,공시,https://www.sec.gov/Archives/edgar/data/59478/000005947814000169/,,1
+Eli Lilly,LLY,2014Q3,2014-09-30,분기말 부채총계,16966300000,USD,계산(부채및자본-총자본),https://www.sec.gov/Archives/edgar/data/59478/000005947814000169/,부채및자본 34648800000 − 총자본 17682500000,1
+Eli Lilly,LLY,2014Q3,2014-09-30,분기말 총자본(자기자본),17682500000,USD,공시,https://www.sec.gov/Archives/edgar/data/59478/000005947814000169/,,1
+Eli Lilly,LLY,2014Q3,2014-09-30,분기말 지배지분 자본,17669300000,USD,공시,https://www.sec.gov/Archives/edgar/data/59478/000005947814000169/,,1
+Eli Lilly,LLY,2014Q3,2014-09-30,분기말 종가,64.85,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/LLY?interval=1d&events=splits (2014-09-30),,1
+Eli Lilly,LLY,2014Q3,2014-10-20,분기말 상장주식수,1113429817,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/59478/000005947814000169/,dei:EntityCommonStockSharesOutstanding 클래스 합,1
+Eli Lilly,LLY,2014Q3,2014-09-30,분기말 시가총액,72205923632,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/LLY?interval=1d&events=splits (2014-09-30) ; https://www.sec.gov/Archives/edgar/data/59478/000005947814000169/,종가 64.85 × 주식수 1113429817,1
+Eli Lilly,LLY,2014Q4,2014-12-31,분기별 매출액,5121300000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/59478/000005947815000100/ ; https://www.sec.gov/Archives/edgar/data/59478/000005947814000169/,연간 19615600000 − 9개월누적 14494300000 (Revenues),1
+Eli Lilly,LLY,2014Q4,2014-12-31,분기별 영업이익,미확인,USD,미확인,SEC companyfacts CIK0000059478: OperatingIncomeLoss 태그 없음(영업이익 미공시),,1
+Eli Lilly,LLY,2014Q4,2014-12-31,분기별 당기순이익(지배),428500000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/59478/000005947815000100/ ; https://www.sec.gov/Archives/edgar/data/59478/000005947814000169/,연간 2390500000 − 9개월누적 1962000000 (NetIncomeLoss),1
+Eli Lilly,LLY,2014Q4,2014-12-31,분기별 영업활동현금흐름,1440900000,USD,계산(누적차감)(재작성 반영),https://www.sec.gov/Archives/edgar/data/59478/000005947817000098/ ; https://www.sec.gov/Archives/edgar/data/59478/000005947814000169/,누적 4458400000 − 직전누적 3017500000 (시작 2014-01-01) ; 원 공시 1349600000 (https://www.sec.gov/Archives/edgar/data/59478/000005947815000100/ ; https://www.sec.gov/Archives/edgar/data/59478/000005947814000169/),1
+Eli Lilly,LLY,2014Q4,2014-12-31,분기말 자산총계,36307600000,USD,공시(재작성 반영),https://www.sec.gov/Archives/edgar/data/59478/000005947816000321/,원 공시 37178200000 (https://www.sec.gov/Archives/edgar/data/59478/000005947815000100/),1
+Eli Lilly,LLY,2014Q4,2014-12-31,분기말 부채총계,20919500000,USD,계산(부채및자본-총자본)(재작성 반영),https://www.sec.gov/Archives/edgar/data/59478/000005947816000321/,부채및자본 36307600000 − 총자본 15388100000 ; 원 공시 21790100000 (https://www.sec.gov/Archives/edgar/data/59478/000005947815000100/),1
+Eli Lilly,LLY,2014Q4,2014-12-31,분기말 총자본(자기자본),15388100000,USD,공시,https://www.sec.gov/Archives/edgar/data/59478/000005947815000100/,,1
+Eli Lilly,LLY,2014Q4,2014-12-31,분기말 지배지분 자본,15373200000,USD,공시,https://www.sec.gov/Archives/edgar/data/59478/000005947815000100/,,1
+Eli Lilly,LLY,2014Q4,2014-12-31,분기말 종가,68.99,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/LLY?interval=1d&events=splits (2014-12-31),,1
+Eli Lilly,LLY,2014Q4,2015-02-13,분기말 상장주식수,1111103942,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/59478/000005947815000100/,dei:EntityCommonStockSharesOutstanding 클래스 합,1
+Eli Lilly,LLY,2014Q4,2014-12-31,분기말 시가총액,76655060959,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/LLY?interval=1d&events=splits (2014-12-31) ; https://www.sec.gov/Archives/edgar/data/59478/000005947815000100/,종가 68.99 × 주식수 1111103942,1
+Eli Lilly,LLY,2015Q1,2015-03-31,분기별 매출액,4644700000,USD,공시,https://www.sec.gov/Archives/edgar/data/59478/000005947815000132/,,1
+Eli Lilly,LLY,2015Q1,2015-03-31,분기별 영업이익,미확인,USD,미확인,SEC companyfacts CIK0000059478: OperatingIncomeLoss 태그 없음(영업이익 미공시),,1
+Eli Lilly,LLY,2015Q1,2015-03-31,분기별 당기순이익(지배),529500000,USD,공시,https://www.sec.gov/Archives/edgar/data/59478/000005947815000132/,,1
+Eli Lilly,LLY,2015Q1,2015-03-31,분기별 영업활동현금흐름,-84800000,USD,공시,https://www.sec.gov/Archives/edgar/data/59478/000005947815000132/,,1
+Eli Lilly,LLY,2015Q1,2015-03-31,분기말 자산총계,35653900000,USD,공시,https://www.sec.gov/Archives/edgar/data/59478/000005947815000132/,,1
+Eli Lilly,LLY,2015Q1,2015-03-31,분기말 부채총계,20707400000,USD,계산(부채및자본-총자본),https://www.sec.gov/Archives/edgar/data/59478/000005947815000132/,부채및자본 35653900000 − 총자본 14946500000,1
+Eli Lilly,LLY,2015Q1,2015-03-31,분기말 총자본(자기자본),14946500000,USD,공시,https://www.sec.gov/Archives/edgar/data/59478/000005947815000132/,,1
+Eli Lilly,LLY,2015Q1,2015-03-31,분기말 지배지분 자본,14919800000,USD,공시,https://www.sec.gov/Archives/edgar/data/59478/000005947815000132/,,1
+Eli Lilly,LLY,2015Q1,2015-03-31,분기말 종가,72.65,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/LLY?interval=1d&events=splits (2015-03-31),,1
+Eli Lilly,LLY,2015Q1,2015-04-20,분기말 상장주식수,1109741140,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/59478/000005947815000132/,dei:EntityCommonStockSharesOutstanding 클래스 합,1
+Eli Lilly,LLY,2015Q1,2015-03-31,분기말 시가총액,80622693821,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/LLY?interval=1d&events=splits (2015-03-31) ; https://www.sec.gov/Archives/edgar/data/59478/000005947815000132/,종가 72.65 × 주식수 1109741140,1
+Eli Lilly,LLY,2015Q2,2015-06-30,분기별 매출액,4978700000,USD,공시,https://www.sec.gov/Archives/edgar/data/59478/000005947815000164/,,1
+Eli Lilly,LLY,2015Q2,2015-06-30,분기별 영업이익,미확인,USD,미확인,SEC companyfacts CIK0000059478: OperatingIncomeLoss 태그 없음(영업이익 미공시),,1
+Eli Lilly,LLY,2015Q2,2015-06-30,분기별 당기순이익(지배),600800000,USD,공시,https://www.sec.gov/Archives/edgar/data/59478/000005947815000164/,,1
+Eli Lilly,LLY,2015Q2,2015-06-30,분기별 영업활동현금흐름,948600000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/59478/000005947815000164/ ; https://www.sec.gov/Archives/edgar/data/59478/000005947815000132/,누적 863800000 − 직전누적 -84800000 (시작 2015-01-01),1
+Eli Lilly,LLY,2015Q2,2015-06-30,분기말 자산총계,36036600000,USD,공시,https://www.sec.gov/Archives/edgar/data/59478/000005947815000164/,,1
+Eli Lilly,LLY,2015Q2,2015-06-30,분기말 부채총계,21331200000,USD,계산(부채및자본-총자본),https://www.sec.gov/Archives/edgar/data/59478/000005947815000164/,부채및자본 36036600000 − 총자본 14705400000,1
+Eli Lilly,LLY,2015Q2,2015-06-30,분기말 총자본(자기자본),14705400000,USD,공시,https://www.sec.gov/Archives/edgar/data/59478/000005947815000164/,,1
+Eli Lilly,LLY,2015Q2,2015-06-30,분기말 지배지분 자본,14670300000,USD,공시,https://www.sec.gov/Archives/edgar/data/59478/000005947815000164/,,1
+Eli Lilly,LLY,2015Q2,2015-06-30,분기말 종가,83.49,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/LLY?interval=1d&events=splits (2015-06-30),,1
+Eli Lilly,LLY,2015Q2,2015-07-20,분기말 상장주식수,1108540541,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/59478/000005947815000164/,dei:EntityCommonStockSharesOutstanding 클래스 합,1
+Eli Lilly,LLY,2015Q2,2015-06-30,분기말 시가총액,92552049768,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/LLY?interval=1d&events=splits (2015-06-30) ; https://www.sec.gov/Archives/edgar/data/59478/000005947815000164/,종가 83.49 × 주식수 1108540541,1
+Eli Lilly,LLY,2015Q3,2015-09-30,분기별 매출액,4959700000,USD,공시,https://www.sec.gov/Archives/edgar/data/59478/000005947815000175/,,1
+Eli Lilly,LLY,2015Q3,2015-09-30,분기별 영업이익,미확인,USD,미확인,SEC companyfacts CIK0000059478: OperatingIncomeLoss 태그 없음(영업이익 미공시),,1
+Eli Lilly,LLY,2015Q3,2015-09-30,분기별 당기순이익(지배),799700000,USD,공시,https://www.sec.gov/Archives/edgar/data/59478/000005947815000175/,,1
+Eli Lilly,LLY,2015Q3,2015-09-30,분기별 영업활동현금흐름,1104700000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/59478/000005947815000175/ ; https://www.sec.gov/Archives/edgar/data/59478/000005947815000164/,누적 1968500000 − 직전누적 863800000 (시작 2015-01-01),1
+Eli Lilly,LLY,2015Q3,2015-09-30,분기말 자산총계,36304700000,USD,공시,https://www.sec.gov/Archives/edgar/data/59478/000005947815000175/,,1
+Eli Lilly,LLY,2015Q3,2015-09-30,분기말 부채총계,21063800000,USD,계산(부채및자본-총자본),https://www.sec.gov/Archives/edgar/data/59478/000005947815000175/,부채및자본 36304700000 − 총자본 15240900000,1
+Eli Lilly,LLY,2015Q3,2015-09-30,분기말 총자본(자기자본),15240900000,USD,공시,https://www.sec.gov/Archives/edgar/data/59478/000005947815000175/,,1
+Eli Lilly,LLY,2015Q3,2015-09-30,분기말 지배지분 자본,15221400000,USD,공시,https://www.sec.gov/Archives/edgar/data/59478/000005947815000175/,,1
+Eli Lilly,LLY,2015Q3,2015-09-30,분기말 종가,83.69,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/LLY?interval=1d&events=splits (2015-09-30),,1
+Eli Lilly,LLY,2015Q3,2015-10-19,분기말 상장주식수,1108076549,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/59478/000005947815000175/,dei:EntityCommonStockSharesOutstanding 클래스 합,1
+Eli Lilly,LLY,2015Q3,2015-09-30,분기말 시가총액,92734926386,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/LLY?interval=1d&events=splits (2015-09-30) ; https://www.sec.gov/Archives/edgar/data/59478/000005947815000175/,종가 83.69 × 주식수 1108076549,1
+Eli Lilly,LLY,2015Q4,2015-12-31,분기별 매출액,5375600000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/59478/000005947816000321/ ; https://www.sec.gov/Archives/edgar/data/59478/000005947815000175/,연간 19958700000 − 9개월누적 14583100000 (Revenues),1
+Eli Lilly,LLY,2015Q4,2015-12-31,분기별 영업이익,미확인,USD,미확인,SEC companyfacts CIK0000059478: OperatingIncomeLoss 태그 없음(영업이익 미공시),,1
+Eli Lilly,LLY,2015Q4,2015-12-31,분기별 당기순이익(지배),478400000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/59478/000005947816000321/ ; https://www.sec.gov/Archives/edgar/data/59478/000005947815000175/,연간 2408400000 − 9개월누적 1930000000 (NetIncomeLoss),1
+Eli Lilly,LLY,2015Q4,2015-12-31,분기별 영업활동현금흐름,996100000,USD,계산(누적차감)(재작성 반영),https://www.sec.gov/Archives/edgar/data/59478/000005947818000089/ ; https://www.sec.gov/Archives/edgar/data/59478/000005947815000175/,누적 2964600000 − 직전누적 1968500000 (시작 2015-01-01) ; 원 공시 804300000 (https://www.sec.gov/Archives/edgar/data/59478/000005947816000321/ ; https://www.sec.gov/Archives/edgar/data/59478/000005947815000175/),1
+Eli Lilly,LLY,2015Q4,2015-12-31,분기말 자산총계,35568900000,USD,공시,https://www.sec.gov/Archives/edgar/data/59478/000005947816000321/,,1
+Eli Lilly,LLY,2015Q4,2015-12-31,분기말 부채총계,20978600000,USD,계산(부채및자본-총자본),https://www.sec.gov/Archives/edgar/data/59478/000005947816000321/,부채및자본 35568900000 − 총자본 14590300000,1
+Eli Lilly,LLY,2015Q4,2015-12-31,분기말 총자본(자기자본),14590300000,USD,공시,https://www.sec.gov/Archives/edgar/data/59478/000005947816000321/,,1
+Eli Lilly,LLY,2015Q4,2015-12-31,분기말 지배지분 자본,14571300000,USD,공시,https://www.sec.gov/Archives/edgar/data/59478/000005947816000321/,,1
+Eli Lilly,LLY,2015Q4,2015-12-31,분기말 종가,84.26,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/LLY?interval=1d&events=splits (2015-12-31),,1
+Eli Lilly,LLY,2015Q4,2016-02-12,분기말 상장주식수,1106093485,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/59478/000005947816000321/,dei:EntityCommonStockSharesOutstanding 클래스 합,1
+Eli Lilly,LLY,2015Q4,2015-12-31,분기말 시가총액,93199437046,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/LLY?interval=1d&events=splits (2015-12-31) ; https://www.sec.gov/Archives/edgar/data/59478/000005947816000321/,종가 84.26 × 주식수 1106093485,1
+Eli Lilly,LLY,2016Q1,2016-03-31,분기별 매출액,4865100000,USD,공시,https://www.sec.gov/Archives/edgar/data/59478/000005947816000353/,,1
+Eli Lilly,LLY,2016Q1,2016-03-31,분기별 영업이익,미확인,USD,미확인,SEC companyfacts CIK0000059478: OperatingIncomeLoss 태그 없음(영업이익 미공시),,1
+Eli Lilly,LLY,2016Q1,2016-03-31,분기별 당기순이익(지배),440100000,USD,공시,https://www.sec.gov/Archives/edgar/data/59478/000005947816000353/,,1
+Eli Lilly,LLY,2016Q1,2016-03-31,분기별 영업활동현금흐름,-219100000,USD,공시(재작성 반영),https://www.sec.gov/Archives/edgar/data/59478/000005947817000129/,원 공시 -326900000 (https://www.sec.gov/Archives/edgar/data/59478/000005947816000353/),1
+Eli Lilly,LLY,2016Q1,2016-03-31,분기말 자산총계,34691800000,USD,공시,https://www.sec.gov/Archives/edgar/data/59478/000005947816000353/,,1
+Eli Lilly,LLY,2016Q1,2016-03-31,분기말 부채총계,19662400000,USD,계산(부채및자본-총자본),https://www.sec.gov/Archives/edgar/data/59478/000005947816000353/,부채및자본 34691800000 − 총자본 15029400000,1
+Eli Lilly,LLY,2016Q1,2016-03-31,분기말 총자본(자기자본),15029400000,USD,공시,https://www.sec.gov/Archives/edgar/data/59478/000005947816000353/,,1
+Eli Lilly,LLY,2016Q1,2016-03-31,분기말 지배지분 자본,15009900000,USD,공시,https://www.sec.gov/Archives/edgar/data/59478/000005947816000353/,,1
+Eli Lilly,LLY,2016Q1,2016-03-31,분기말 종가,72.01,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/LLY?interval=1d&events=splits (2016-03-31),,1
+Eli Lilly,LLY,2016Q1,2016-04-18,분기말 상장주식수,1103837002,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/59478/000005947816000353/,dei:EntityCommonStockSharesOutstanding 클래스 합,1
+Eli Lilly,LLY,2016Q1,2016-03-31,분기말 시가총액,79487302514,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/LLY?interval=1d&events=splits (2016-03-31) ; https://www.sec.gov/Archives/edgar/data/59478/000005947816000353/,종가 72.01 × 주식수 1103837002,1
+Eli Lilly,LLY,2016Q2,2016-06-30,분기별 매출액,5404800000,USD,공시,https://www.sec.gov/Archives/edgar/data/59478/000005947816000399/,,1
+Eli Lilly,LLY,2016Q2,2016-06-30,분기별 영업이익,미확인,USD,미확인,SEC companyfacts CIK0000059478: OperatingIncomeLoss 태그 없음(영업이익 미공시),,1
+Eli Lilly,LLY,2016Q2,2016-06-30,분기별 당기순이익(지배),747700000,USD,공시,https://www.sec.gov/Archives/edgar/data/59478/000005947816000399/,,1
+Eli Lilly,LLY,2016Q2,2016-06-30,분기별 영업활동현금흐름,1401900000,USD,계산(누적차감)(재작성 반영),https://www.sec.gov/Archives/edgar/data/59478/000005947817000183/ ; https://www.sec.gov/Archives/edgar/data/59478/000005947817000129/,누적 1182800000 − 직전누적 -219100000 (시작 2016-01-01) ; 원 공시 1401800000 (https://www.sec.gov/Archives/edgar/data/59478/000005947816000399/ ; https://www.sec.gov/Archives/edgar/data/59478/000005947816000353/),1
+Eli Lilly,LLY,2016Q2,2016-06-30,분기말 자산총계,36475300000,USD,공시,https://www.sec.gov/Archives/edgar/data/59478/000005947816000399/,,1
+Eli Lilly,LLY,2016Q2,2016-06-30,분기말 부채총계,21819100000,USD,계산(부채및자본-총자본),https://www.sec.gov/Archives/edgar/data/59478/000005947816000399/,부채및자본 36475300000 − 총자본 14656200000,1
+Eli Lilly,LLY,2016Q2,2016-06-30,분기말 총자본(자기자본),14656200000,USD,공시,https://www.sec.gov/Archives/edgar/data/59478/000005947816000399/,,1
+Eli Lilly,LLY,2016Q2,2016-06-30,분기말 지배지분 자본,14637300000,USD,공시,https://www.sec.gov/Archives/edgar/data/59478/000005947816000399/,,1
+Eli Lilly,LLY,2016Q2,2016-06-30,분기말 종가,78.75,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/LLY?interval=1d&events=splits (2016-06-30),,1
+Eli Lilly,LLY,2016Q2,2016-07-18,분기말 상장주식수,1103843444,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/59478/000005947816000399/,dei:EntityCommonStockSharesOutstanding 클래스 합,1
+Eli Lilly,LLY,2016Q2,2016-06-30,분기말 시가총액,86927671215,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/LLY?interval=1d&events=splits (2016-06-30) ; https://www.sec.gov/Archives/edgar/data/59478/000005947816000399/,종가 78.75 × 주식수 1103843444,1
+Eli Lilly,LLY,2016Q3,2016-09-30,분기별 매출액,5191700000,USD,공시,https://www.sec.gov/Archives/edgar/data/59478/000005947816000440/,,1
+Eli Lilly,LLY,2016Q3,2016-09-30,분기별 영업이익,미확인,USD,미확인,SEC companyfacts CIK0000059478: OperatingIncomeLoss 태그 없음(영업이익 미공시),,1
+Eli Lilly,LLY,2016Q3,2016-09-30,분기별 당기순이익(지배),778000000,USD,공시,https://www.sec.gov/Archives/edgar/data/59478/000005947816000440/,,1
+Eli Lilly,LLY,2016Q3,2016-09-30,분기별 영업활동현금흐름,1661700000,USD,계산(누적차감)(재작성 반영),https://www.sec.gov/Archives/edgar/data/59478/000005947817000204/ ; https://www.sec.gov/Archives/edgar/data/59478/000005947817000183/,누적 2844500000 − 직전누적 1182800000 (시작 2016-01-01) ; 원 공시 1659200000 (https://www.sec.gov/Archives/edgar/data/59478/000005947816000440/ ; https://www.sec.gov/Archives/edgar/data/59478/000005947816000399/),1
+Eli Lilly,LLY,2016Q3,2016-09-30,분기말 자산총계,37590300000,USD,공시,https://www.sec.gov/Archives/edgar/data/59478/000005947816000440/,,1
+Eli Lilly,LLY,2016Q3,2016-09-30,분기말 부채총계,21974500000,USD,계산(부채및자본-총자본),https://www.sec.gov/Archives/edgar/data/59478/000005947816000440/,부채및자본 37590300000 − 총자본 15615800000,1
+Eli Lilly,LLY,2016Q3,2016-09-30,분기말 총자본(자기자본),15615800000,USD,공시,https://www.sec.gov/Archives/edgar/data/59478/000005947816000440/,,1
+Eli Lilly,LLY,2016Q3,2016-09-30,분기말 지배지분 자본,15589200000,USD,공시,https://www.sec.gov/Archives/edgar/data/59478/000005947816000440/,,1
+Eli Lilly,LLY,2016Q3,2016-09-30,분기말 종가,80.26,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/LLY?interval=1d&events=splits (2016-09-30),,1
+Eli Lilly,LLY,2016Q3,2016-10-17,분기말 상장주식수,1103948230,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/59478/000005947816000440/,dei:EntityCommonStockSharesOutstanding 클래스 합,1
+Eli Lilly,LLY,2016Q3,2016-09-30,분기말 시가총액,88602884940,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/LLY?interval=1d&events=splits (2016-09-30) ; https://www.sec.gov/Archives/edgar/data/59478/000005947816000440/,종가 80.26 × 주식수 1103948230,1
+Eli Lilly,LLY,2016Q4,2016-12-31,분기별 매출액,5760500000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/59478/000005947817000098/ ; https://www.sec.gov/Archives/edgar/data/59478/000005947816000440/,연간 21222100000 − 9개월누적 15461600000 (Revenues),1
+Eli Lilly,LLY,2016Q4,2016-12-31,분기별 영업이익,미확인,USD,미확인,SEC companyfacts CIK0000059478: OperatingIncomeLoss 태그 없음(영업이익 미공시),,1
+Eli Lilly,LLY,2016Q4,2016-12-31,분기별 당기순이익(지배),771800000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/59478/000005947817000098/ ; https://www.sec.gov/Archives/edgar/data/59478/000005947816000440/,연간 2737600000 − 9개월누적 1965800000 (NetIncomeLoss),1
+Eli Lilly,LLY,2016Q4,2016-12-31,분기별 영업활동현금흐름,2006500000,USD,계산(누적차감)(재작성 반영),https://www.sec.gov/Archives/edgar/data/59478/000005947817000098/ ; https://www.sec.gov/Archives/edgar/data/59478/000005947817000204/,누적 4851000000 − 직전누적 2844500000 (시작 2016-01-01) ; 원 공시 2116900000 (https://www.sec.gov/Archives/edgar/data/59478/000005947817000098/ ; https://www.sec.gov/Archives/edgar/data/59478/000005947816000440/),1
+Eli Lilly,LLY,2016Q4,2016-12-31,분기말 자산총계,38805900000,USD,공시,https://www.sec.gov/Archives/edgar/data/59478/000005947817000098/,,1
+Eli Lilly,LLY,2016Q4,2016-12-31,분기말 부채총계,24725400000,USD,계산(부채및자본-총자본),https://www.sec.gov/Archives/edgar/data/59478/000005947817000098/,부채및자본 38805900000 − 총자본 14080500000,1
+Eli Lilly,LLY,2016Q4,2016-12-31,분기말 총자본(자기자본),14080500000,USD,공시,https://www.sec.gov/Archives/edgar/data/59478/000005947817000098/,,1
+Eli Lilly,LLY,2016Q4,2016-12-31,분기말 지배지분 자본,14007700000,USD,공시,https://www.sec.gov/Archives/edgar/data/59478/000005947817000098/,,1
+Eli Lilly,LLY,2016Q4,2016-12-30,분기말 종가,73.55,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/LLY?interval=1d&events=splits (2016-12-30),,1
+Eli Lilly,LLY,2016Q4,2017-02-13,분기말 상장주식수,1103352450,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/59478/000005947817000098/,dei:EntityCommonStockSharesOutstanding 클래스 합,1
+Eli Lilly,LLY,2016Q4,2016-12-30,분기말 시가총액,81151572698,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/LLY?interval=1d&events=splits (2016-12-30) ; https://www.sec.gov/Archives/edgar/data/59478/000005947817000098/,종가 73.55 × 주식수 1103352450,1
+Eli Lilly,LLY,2017Q1,2017-03-31,분기별 매출액,5228300000,USD,공시,https://www.sec.gov/Archives/edgar/data/59478/000005947817000129/,,1
+Eli Lilly,LLY,2017Q1,2017-03-31,분기별 영업이익,미확인,USD,미확인,SEC companyfacts CIK0000059478: OperatingIncomeLoss 태그 없음(영업이익 미공시),,1
+Eli Lilly,LLY,2017Q1,2017-03-31,분기별 당기순이익(지배),-110800000,USD,공시,https://www.sec.gov/Archives/edgar/data/59478/000005947817000129/,,1
+Eli Lilly,LLY,2017Q1,2017-03-31,분기별 영업활동현금흐름,339900000,USD,공시,https://www.sec.gov/Archives/edgar/data/59478/000005947817000129/,,1
+Eli Lilly,LLY,2017Q1,2017-03-31,분기말 자산총계,37624300000,USD,공시,https://www.sec.gov/Archives/edgar/data/59478/000005947817000129/,,1
+Eli Lilly,LLY,2017Q1,2017-03-31,분기말 부채총계,23520600000,USD,계산(부채및자본-총자본),https://www.sec.gov/Archives/edgar/data/59478/000005947817000129/,부채및자본 37624300000 − 총자본 14103700000,1
+Eli Lilly,LLY,2017Q1,2017-03-31,분기말 총자본(자기자본),14103700000,USD,공시,https://www.sec.gov/Archives/edgar/data/59478/000005947817000129/,,1
+Eli Lilly,LLY,2017Q1,2017-03-31,분기말 지배지분 자본,14031000000,USD,공시,https://www.sec.gov/Archives/edgar/data/59478/000005947817000129/,,1
+Eli Lilly,LLY,2017Q1,2017-03-31,분기말 종가,84.11,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/LLY?interval=1d&events=splits (2017-03-31),,1
+Eli Lilly,LLY,2017Q1,2017-04-24,분기말 상장주식수,1103388743,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/59478/000005947817000129/,dei:EntityCommonStockSharesOutstanding 클래스 합,1
+Eli Lilly,LLY,2017Q1,2017-03-31,분기말 시가총액,92806027174,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/LLY?interval=1d&events=splits (2017-03-31) ; https://www.sec.gov/Archives/edgar/data/59478/000005947817000129/,종가 84.11 × 주식수 1103388743,1
+Eli Lilly,LLY,2017Q2,2017-06-30,분기별 매출액,5824300000,USD,공시,https://www.sec.gov/Archives/edgar/data/59478/000005947817000183/,,1
+Eli Lilly,LLY,2017Q2,2017-06-30,분기별 영업이익,미확인,USD,미확인,SEC companyfacts CIK0000059478: OperatingIncomeLoss 태그 없음(영업이익 미공시),,1
+Eli Lilly,LLY,2017Q2,2017-06-30,분기별 당기순이익(지배),1008000000,USD,공시,https://www.sec.gov/Archives/edgar/data/59478/000005947817000183/,,1
+Eli Lilly,LLY,2017Q2,2017-06-30,분기별 영업활동현금흐름,1651100000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/59478/000005947817000183/ ; https://www.sec.gov/Archives/edgar/data/59478/000005947817000129/,누적 1991000000 − 직전누적 339900000 (시작 2017-01-01),1
+Eli Lilly,LLY,2017Q2,2017-06-30,분기말 자산총계,40946500000,USD,공시,https://www.sec.gov/Archives/edgar/data/59478/000005947817000183/,,1
+Eli Lilly,LLY,2017Q2,2017-06-30,분기말 부채총계,26776800000,USD,계산(부채및자본-총자본),https://www.sec.gov/Archives/edgar/data/59478/000005947817000183/,부채및자본 40946500000 − 총자본 14169700000,1
+Eli Lilly,LLY,2017Q2,2017-06-30,분기말 총자본(자기자본),14169700000,USD,공시,https://www.sec.gov/Archives/edgar/data/59478/000005947817000183/,,1
+Eli Lilly,LLY,2017Q2,2017-06-30,분기말 지배지분 자본,14100800000,USD,공시,https://www.sec.gov/Archives/edgar/data/59478/000005947817000183/,,1
+Eli Lilly,LLY,2017Q2,2017-06-30,분기말 종가,82.3,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/LLY?interval=1d&events=splits (2017-06-30),,1
+Eli Lilly,LLY,2017Q2,2017-07-17,분기말 상장주식수,1100988944,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/59478/000005947817000183/,dei:EntityCommonStockSharesOutstanding 클래스 합,1
+Eli Lilly,LLY,2017Q2,2017-06-30,분기말 시가총액,90611390091,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/LLY?interval=1d&events=splits (2017-06-30) ; https://www.sec.gov/Archives/edgar/data/59478/000005947817000183/,종가 82.3 × 주식수 1100988944,1
+Eli Lilly,LLY,2017Q3,2017-09-30,분기별 매출액,5658000000,USD,공시,https://www.sec.gov/Archives/edgar/data/59478/000005947817000204/,,1
+Eli Lilly,LLY,2017Q3,2017-09-30,분기별 영업이익,미확인,USD,미확인,SEC companyfacts CIK0000059478: OperatingIncomeLoss 태그 없음(영업이익 미공시),,1
+Eli Lilly,LLY,2017Q3,2017-09-30,분기별 당기순이익(지배),555600000,USD,공시,https://www.sec.gov/Archives/edgar/data/59478/000005947817000204/,,1
+Eli Lilly,LLY,2017Q3,2017-09-30,분기별 영업활동현금흐름,1881100000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/59478/000005947817000204/ ; https://www.sec.gov/Archives/edgar/data/59478/000005947817000183/,누적 3872100000 − 직전누적 1991000000 (시작 2017-01-01),1
+Eli Lilly,LLY,2017Q3,2017-09-30,분기말 자산총계,43010400000,USD,공시,https://www.sec.gov/Archives/edgar/data/59478/000005947817000204/,,1
+Eli Lilly,LLY,2017Q3,2017-09-30,분기말 부채총계,28049800000,USD,계산(부채및자본-총자본),https://www.sec.gov/Archives/edgar/data/59478/000005947817000204/,부채및자본 43010400000 − 총자본 14960600000,1
+Eli Lilly,LLY,2017Q3,2017-09-30,분기말 총자본(자기자본),14960600000,USD,공시,https://www.sec.gov/Archives/edgar/data/59478/000005947817000204/,,1
+Eli Lilly,LLY,2017Q3,2017-09-30,분기말 지배지분 자본,14890300000,USD,공시,https://www.sec.gov/Archives/edgar/data/59478/000005947817000204/,,1
+Eli Lilly,LLY,2017Q3,2017-09-29,분기말 종가,85.54,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/LLY?interval=1d&events=splits (2017-09-29),,1
+Eli Lilly,LLY,2017Q3,2017-10-23,분기말 상장주식수,1101094711,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/59478/000005947817000204/,dei:EntityCommonStockSharesOutstanding 클래스 합,1
+Eli Lilly,LLY,2017Q3,2017-09-29,분기말 시가총액,94187641579,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/LLY?interval=1d&events=splits (2017-09-29) ; https://www.sec.gov/Archives/edgar/data/59478/000005947817000204/,종가 85.54 × 주식수 1101094711,1
+Eli Lilly,LLY,2017Q4,2017-12-31,분기별 매출액,6160700000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/59478/000005947818000089/ ; https://www.sec.gov/Archives/edgar/data/59478/000005947817000204/,연간 22871300000 − 9개월누적 16710600000 (Revenues),1
+Eli Lilly,LLY,2017Q4,2017-12-31,분기별 영업이익,미확인,USD,미확인,SEC companyfacts CIK0000059478: OperatingIncomeLoss 태그 없음(영업이익 미공시),,1
+Eli Lilly,LLY,2017Q4,2017-12-31,분기별 당기순이익(지배),-1656900000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/59478/000005947818000089/ ; https://www.sec.gov/Archives/edgar/data/59478/000005947817000204/,연간 -204100000 − 9개월누적 1452800000 (NetIncomeLoss),1
+Eli Lilly,LLY,2017Q4,2017-12-31,분기별 영업활동현금흐름,1743500000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/59478/000005947818000089/ ; https://www.sec.gov/Archives/edgar/data/59478/000005947817000204/,누적 5615600000 − 직전누적 3872100000 (시작 2017-01-01),1
+Eli Lilly,LLY,2017Q4,2017-12-31,분기말 자산총계,44981000000,USD,공시,https://www.sec.gov/Archives/edgar/data/59478/000005947818000089/,,1
+Eli Lilly,LLY,2017Q4,2017-12-31,분기말 부채총계,33313100000,USD,계산(부채및자본-총자본),https://www.sec.gov/Archives/edgar/data/59478/000005947818000089/,부채및자본 44981000000 − 총자본 11667900000,1
+Eli Lilly,LLY,2017Q4,2017-12-31,분기말 총자본(자기자본),11667900000,USD,공시,https://www.sec.gov/Archives/edgar/data/59478/000005947818000089/,,1
+Eli Lilly,LLY,2017Q4,2017-12-31,분기말 지배지분 자본,11592200000,USD,공시,https://www.sec.gov/Archives/edgar/data/59478/000005947818000089/,,1
+Eli Lilly,LLY,2017Q4,2017-12-29,분기말 종가,84.46,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/LLY?interval=1d&events=splits (2017-12-29),,1
+Eli Lilly,LLY,2017Q4,2018-02-14,분기말 상장주식수,1095597580,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/59478/000005947818000089/,dei:EntityCommonStockSharesOutstanding 클래스 합,1
+Eli Lilly,LLY,2017Q4,2017-12-29,분기말 시가총액,92534171607,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/LLY?interval=1d&events=splits (2017-12-29) ; https://www.sec.gov/Archives/edgar/data/59478/000005947818000089/,종가 84.46 × 주식수 1095597580,1
+Eli Lilly,LLY,2018Q1,2018-03-31,분기별 매출액,5700000000,USD,공시,https://www.sec.gov/Archives/edgar/data/59478/000005947818000136/,,1
+Eli Lilly,LLY,2018Q1,2018-03-31,분기별 영업이익,미확인,USD,미확인,SEC companyfacts CIK0000059478: OperatingIncomeLoss 태그 없음(영업이익 미공시),,1
+Eli Lilly,LLY,2018Q1,2018-03-31,분기별 당기순이익(지배),1217400000,USD,공시,https://www.sec.gov/Archives/edgar/data/59478/000005947818000136/,,1
+Eli Lilly,LLY,2018Q1,2018-03-31,분기별 영업활동현금흐름,436500000,USD,공시,https://www.sec.gov/Archives/edgar/data/59478/000005947818000136/,,1
+Eli Lilly,LLY,2018Q1,2018-03-31,분기말 자산총계,44355600000,USD,공시,https://www.sec.gov/Archives/edgar/data/59478/000005947818000136/,,1
+Eli Lilly,LLY,2018Q1,2018-03-31,분기말 부채총계,29767800000,USD,계산(부채및자본-총자본),https://www.sec.gov/Archives/edgar/data/59478/000005947818000136/,부채및자본 44355600000 − 총자본 14587800000,1
+Eli Lilly,LLY,2018Q1,2018-03-31,분기말 총자본(자기자본),14587800000,USD,공시,https://www.sec.gov/Archives/edgar/data/59478/000005947818000136/,,1
+Eli Lilly,LLY,2018Q1,2018-03-31,분기말 지배지분 자본,14527000000,USD,공시,https://www.sec.gov/Archives/edgar/data/59478/000005947818000136/,,1
+Eli Lilly,LLY,2018Q1,2018-03-29,분기말 종가,77.37,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/LLY?interval=1d&events=splits (2018-03-29),,1
+Eli Lilly,LLY,2018Q1,2018-04-23,분기말 상장주식수,1085430420,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/59478/000005947818000136/,dei:EntityCommonStockSharesOutstanding 클래스 합,1
+Eli Lilly,LLY,2018Q1,2018-03-29,분기말 시가총액,83979751595,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/LLY?interval=1d&events=splits (2018-03-29) ; https://www.sec.gov/Archives/edgar/data/59478/000005947818000136/,종가 77.37 × 주식수 1085430420,1
+Eli Lilly,LLY,2018Q2,2018-06-30,분기별 매출액,6355200000,USD,공시,https://www.sec.gov/Archives/edgar/data/59478/000005947818000188/,,1
+Eli Lilly,LLY,2018Q2,2018-06-30,분기별 영업이익,미확인,USD,미확인,SEC companyfacts CIK0000059478: OperatingIncomeLoss 태그 없음(영업이익 미공시),,1
+Eli Lilly,LLY,2018Q2,2018-06-30,분기별 당기순이익(지배),-259900000,USD,공시,https://www.sec.gov/Archives/edgar/data/59478/000005947818000188/,,1
+Eli Lilly,LLY,2018Q2,2018-06-30,분기별 영업활동현금흐름,1517500000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/59478/000005947818000188/ ; https://www.sec.gov/Archives/edgar/data/59478/000005947818000136/,누적 1954000000 − 직전누적 436500000 (시작 2018-01-01),1
+Eli Lilly,LLY,2018Q2,2018-06-30,분기말 자산총계,42359200000,USD,공시,https://www.sec.gov/Archives/edgar/data/59478/000005947818000188/,,1
+Eli Lilly,LLY,2018Q2,2018-06-30,분기말 부채총계,30738400000,USD,계산(부채및자본-총자본),https://www.sec.gov/Archives/edgar/data/59478/000005947818000188/,부채및자본 42359200000 − 총자본 11620800000,1
+Eli Lilly,LLY,2018Q2,2018-06-30,분기말 총자본(자기자본),11620800000,USD,공시,https://www.sec.gov/Archives/edgar/data/59478/000005947818000188/,,1
+Eli Lilly,LLY,2018Q2,2018-06-30,분기말 지배지분 자본,11555200000,USD,공시,https://www.sec.gov/Archives/edgar/data/59478/000005947818000188/,,1
+Eli Lilly,LLY,2018Q2,2018-06-29,분기말 종가,85.33,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/LLY?interval=1d&events=splits (2018-06-29),,1
+Eli Lilly,LLY,2018Q2,2018-07-23,분기말 상장주식수,1073987856,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/59478/000005947818000188/,dei:EntityCommonStockSharesOutstanding 클래스 합,1
+Eli Lilly,LLY,2018Q2,2018-06-29,분기말 시가총액,91643383752,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/LLY?interval=1d&events=splits (2018-06-29) ; https://www.sec.gov/Archives/edgar/data/59478/000005947818000188/,종가 85.33 × 주식수 1073987856,1
+Eli Lilly,LLY,2018Q3,2018-09-30,분기별 매출액,6061900000,USD,공시,https://www.sec.gov/Archives/edgar/data/59478/000005947818000256/,,1
+Eli Lilly,LLY,2018Q3,2018-09-30,분기별 영업이익,미확인,USD,미확인,SEC companyfacts CIK0000059478: OperatingIncomeLoss 태그 없음(영업이익 미공시),,1
+Eli Lilly,LLY,2018Q3,2018-09-30,분기별 당기순이익(지배),1149500000,USD,공시,https://www.sec.gov/Archives/edgar/data/59478/000005947818000256/,,1
+Eli Lilly,LLY,2018Q3,2018-09-30,분기별 영업활동현금흐름,2121800000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/59478/000005947818000256/ ; https://www.sec.gov/Archives/edgar/data/59478/000005947818000188/,누적 4075800000 − 직전누적 1954000000 (시작 2018-01-01),1
+Eli Lilly,LLY,2018Q3,2018-09-30,분기말 자산총계,44625100000,USD,공시,https://www.sec.gov/Archives/edgar/data/59478/000005947818000256/,,1
+Eli Lilly,LLY,2018Q3,2018-09-30,분기말 부채총계,30474200000,USD,계산(부채및자본-총자본),https://www.sec.gov/Archives/edgar/data/59478/000005947818000256/,부채및자본 44625100000 − 총자본 14150900000,1
+Eli Lilly,LLY,2018Q3,2018-09-30,분기말 총자본(자기자본),14150900000,USD,공시,https://www.sec.gov/Archives/edgar/data/59478/000005947818000256/,,1
+Eli Lilly,LLY,2018Q3,2018-09-30,분기말 지배지분 자본,13076600000,USD,공시,https://www.sec.gov/Archives/edgar/data/59478/000005947818000256/,,1
+Eli Lilly,LLY,2018Q3,2018-09-28,분기말 종가,107.31,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/LLY?interval=1d&events=splits (2018-09-28),,1
+Eli Lilly,LLY,2018Q3,2018-11-02,분기말 상장주식수,1059322255,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/59478/000005947818000256/,dei:EntityCommonStockSharesOutstanding 클래스 합,1
+Eli Lilly,LLY,2018Q3,2018-09-28,분기말 시가총액,113675871184,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/LLY?interval=1d&events=splits (2018-09-28) ; https://www.sec.gov/Archives/edgar/data/59478/000005947818000256/,종가 107.31 × 주식수 1059322255,1
+Eli Lilly,LLY,2018Q4,2018-12-31,분기별 매출액,6438600000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/59478/000005947819000082/ ; https://www.sec.gov/Archives/edgar/data/59478/000005947818000256/,연간 24555700000 − 9개월누적 18117100000 (Revenues),1
+Eli Lilly,LLY,2018Q4,2018-12-31,분기별 영업이익,미확인,USD,미확인,SEC companyfacts CIK0000059478: OperatingIncomeLoss 태그 없음(영업이익 미공시),,1
+Eli Lilly,LLY,2018Q4,2018-12-31,분기별 당기순이익(지배),1125000000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/59478/000005947819000082/ ; https://www.sec.gov/Archives/edgar/data/59478/000005947818000256/,연간 3232000000 − 9개월누적 2107000000 (NetIncomeLoss),1
+Eli Lilly,LLY,2018Q4,2018-12-31,분기별 영업활동현금흐름,1448700000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/59478/000005947819000082/ ; https://www.sec.gov/Archives/edgar/data/59478/000005947818000256/,누적 5524500000 − 직전누적 4075800000 (시작 2018-01-01),1
+Eli Lilly,LLY,2018Q4,2018-12-31,분기말 자산총계,43908400000,USD,공시,https://www.sec.gov/Archives/edgar/data/59478/000005947819000082/,,1
+Eli Lilly,LLY,2018Q4,2018-12-31,분기말 부채총계,32999300000,USD,계산(부채및자본-총자본),https://www.sec.gov/Archives/edgar/data/59478/000005947819000082/,부채및자본 43908400000 − 총자본 10909100000,1
+Eli Lilly,LLY,2018Q4,2018-12-31,분기말 총자본(자기자본),10909100000,USD,공시,https://www.sec.gov/Archives/edgar/data/59478/000005947819000082/,,1
+Eli Lilly,LLY,2018Q4,2018-12-31,분기말 지배지분 자본,9828700000,USD,공시,https://www.sec.gov/Archives/edgar/data/59478/000005947819000082/,,1
+Eli Lilly,LLY,2018Q4,2018-12-31,분기말 종가,115.72,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/LLY?interval=1d&events=splits (2018-12-31),,1
+Eli Lilly,LLY,2018Q4,2019-02-13,분기말 상장주식수,1035418562,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/59478/000005947819000082/,dei:EntityCommonStockSharesOutstanding 클래스 합,1
+Eli Lilly,LLY,2018Q4,2018-12-31,분기말 시가총액,119818635995,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/LLY?interval=1d&events=splits (2018-12-31) ; https://www.sec.gov/Archives/edgar/data/59478/000005947819000082/,종가 115.72 × 주식수 1035418562,1
+Eli Lilly,LLY,2019Q1,2019-03-31,분기별 매출액,5092200000,USD,공시,https://www.sec.gov/Archives/edgar/data/59478/000005947819000174/,,1
+Eli Lilly,LLY,2019Q1,2019-03-31,분기별 영업이익,미확인,USD,미확인,SEC companyfacts CIK0000059478: OperatingIncomeLoss 태그 없음(영업이익 미공시),,1
+Eli Lilly,LLY,2019Q1,2019-03-31,분기별 당기순이익(지배),4241600000,USD,공시,https://www.sec.gov/Archives/edgar/data/59478/000005947819000174/,,1
+Eli Lilly,LLY,2019Q1,2019-03-31,분기별 영업활동현금흐름,311300000,USD,공시,https://www.sec.gov/Archives/edgar/data/59478/000005947819000174/,,1
+Eli Lilly,LLY,2019Q1,2019-03-31,분기말 자산총계,38006800000,USD,공시,https://www.sec.gov/Archives/edgar/data/59478/000005947819000174/,,1
+Eli Lilly,LLY,2019Q1,2019-03-31,분기말 부채총계,35441800000,USD,계산(부채및자본-총자본),https://www.sec.gov/Archives/edgar/data/59478/000005947819000174/,부채및자본 38006800000 − 총자본 2565000000,1
+Eli Lilly,LLY,2019Q1,2019-03-31,분기말 총자본(자기자본),2565000000,USD,공시,https://www.sec.gov/Archives/edgar/data/59478/000005947819000174/,,1
+Eli Lilly,LLY,2019Q1,2019-03-31,분기말 지배지분 자본,2480300000,USD,공시,https://www.sec.gov/Archives/edgar/data/59478/000005947819000174/,,1
+Eli Lilly,LLY,2019Q1,2019-03-29,분기말 종가,129.76,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/LLY?interval=1d&events=splits (2019-03-29),,1
+Eli Lilly,LLY,2019Q1,2019-04-29,분기말 상장주식수,970830868,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/59478/000005947819000174/,dei:EntityCommonStockSharesOutstanding 클래스 합,1
+Eli Lilly,LLY,2019Q1,2019-03-29,분기말 시가총액,125975013432,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/LLY?interval=1d&events=splits (2019-03-29) ; https://www.sec.gov/Archives/edgar/data/59478/000005947819000174/,종가 129.76 × 주식수 970830868,1
+Eli Lilly,LLY,2019Q2,2019-06-30,분기별 매출액,5636700000,USD,공시,https://www.sec.gov/Archives/edgar/data/59478/000005947819000232/,,1
+Eli Lilly,LLY,2019Q2,2019-06-30,분기별 영업이익,미확인,USD,미확인,SEC companyfacts CIK0000059478: OperatingIncomeLoss 태그 없음(영업이익 미공시),,1
+Eli Lilly,LLY,2019Q2,2019-06-30,분기별 당기순이익(지배),1327200000,USD,공시,https://www.sec.gov/Archives/edgar/data/59478/000005947819000232/,,1
+Eli Lilly,LLY,2019Q2,2019-06-30,분기별 영업활동현금흐름,1051500000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/59478/000005947819000232/ ; https://www.sec.gov/Archives/edgar/data/59478/000005947819000174/,누적 1362800000 − 직전누적 311300000 (시작 2019-01-01),1
+Eli Lilly,LLY,2019Q2,2019-06-30,분기말 자산총계,38666400000,USD,공시,https://www.sec.gov/Archives/edgar/data/59478/000005947819000232/,,1
+Eli Lilly,LLY,2019Q2,2019-06-30,분기말 부채총계,35809100000,USD,계산(부채및자본-총자본),https://www.sec.gov/Archives/edgar/data/59478/000005947819000232/,부채및자본 38666400000 − 총자본 2857300000,1
+Eli Lilly,LLY,2019Q2,2019-06-30,분기말 총자본(자기자본),2857300000,USD,공시,https://www.sec.gov/Archives/edgar/data/59478/000005947819000232/,,1
+Eli Lilly,LLY,2019Q2,2019-06-30,분기말 지배지분 자본,2780500000,USD,공시,https://www.sec.gov/Archives/edgar/data/59478/000005947819000232/,,1
+Eli Lilly,LLY,2019Q2,2019-06-28,분기말 종가,110.79,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/LLY?interval=1d&events=splits (2019-06-28),,1
+Eli Lilly,LLY,2019Q2,2019-07-29,분기말 상장주식수,965432952,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/59478/000005947819000232/,dei:EntityCommonStockSharesOutstanding 클래스 합,1
+Eli Lilly,LLY,2019Q2,2019-06-28,분기말 시가총액,106960316752,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/LLY?interval=1d&events=splits (2019-06-28) ; https://www.sec.gov/Archives/edgar/data/59478/000005947819000232/,종가 110.79 × 주식수 965432952,1
+Eli Lilly,LLY,2019Q3,2019-09-30,분기별 매출액,5476600000,USD,공시,https://www.sec.gov/Archives/edgar/data/59478/000005947819000278/,,1
+Eli Lilly,LLY,2019Q3,2019-09-30,분기별 영업이익,미확인,USD,미확인,SEC companyfacts CIK0000059478: OperatingIncomeLoss 태그 없음(영업이익 미공시),,1
+Eli Lilly,LLY,2019Q3,2019-09-30,분기별 당기순이익(지배),1253900000,USD,공시,https://www.sec.gov/Archives/edgar/data/59478/000005947819000278/,,1
+Eli Lilly,LLY,2019Q3,2019-09-30,분기별 영업활동현금흐름,1510100000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/59478/000005947819000278/ ; https://www.sec.gov/Archives/edgar/data/59478/000005947819000232/,누적 2872900000 − 직전누적 1362800000 (시작 2019-01-01),1
+Eli Lilly,LLY,2019Q3,2019-09-30,분기말 자산총계,37893100000,USD,공시,https://www.sec.gov/Archives/edgar/data/59478/000005947819000278/,,1
+Eli Lilly,LLY,2019Q3,2019-09-30,분기말 부채총계,34430800000,USD,계산(부채및자본-총자본),https://www.sec.gov/Archives/edgar/data/59478/000005947819000278/,부채및자본 37893100000 − 총자본 3462300000,1
+Eli Lilly,LLY,2019Q3,2019-09-30,분기말 총자본(자기자본),3462300000,USD,공시,https://www.sec.gov/Archives/edgar/data/59478/000005947819000278/,,1
+Eli Lilly,LLY,2019Q3,2019-09-30,분기말 지배지분 자본,3382500000,USD,공시,https://www.sec.gov/Archives/edgar/data/59478/000005947819000278/,,1
+Eli Lilly,LLY,2019Q3,2019-09-30,분기말 종가,111.83,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/LLY?interval=1d&events=splits (2019-09-30),,1
+Eli Lilly,LLY,2019Q3,2019-10-21,분기말 상장주식수,960130771,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/59478/000005947819000278/,dei:EntityCommonStockSharesOutstanding 클래스 합,1
+Eli Lilly,LLY,2019Q3,2019-09-30,분기말 시가총액,107371424121,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/LLY?interval=1d&events=splits (2019-09-30) ; https://www.sec.gov/Archives/edgar/data/59478/000005947819000278/,종가 111.83 × 주식수 960130771,1
+Eli Lilly,LLY,2019Q4,2019-12-31,분기별 매출액,6114000000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/59478/000005947820000057/ ; https://www.sec.gov/Archives/edgar/data/59478/000005947819000278/,연간 22319500000 − 9개월누적 16205500000 (Revenues),1
+Eli Lilly,LLY,2019Q4,2019-12-31,분기별 영업이익,미확인,USD,미확인,SEC companyfacts CIK0000059478: OperatingIncomeLoss 태그 없음(영업이익 미공시),,1
+Eli Lilly,LLY,2019Q4,2019-12-31,분기별 당기순이익(지배),1495700000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/59478/000005947820000057/ ; https://www.sec.gov/Archives/edgar/data/59478/000005947819000278/,연간 8318400000 − 9개월누적 6822700000 (NetIncomeLoss),1
+Eli Lilly,LLY,2019Q4,2019-12-31,분기별 영업활동현금흐름,1963700000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/59478/000005947820000057/ ; https://www.sec.gov/Archives/edgar/data/59478/000005947819000278/,누적 4836600000 − 직전누적 2872900000 (시작 2019-01-01),1
+Eli Lilly,LLY,2019Q4,2019-12-31,분기말 자산총계,39286100000,USD,공시,https://www.sec.gov/Archives/edgar/data/59478/000005947820000057/,,1
+Eli Lilly,LLY,2019Q4,2019-12-31,분기말 부채총계,36587000000,USD,계산(부채및자본-총자본),https://www.sec.gov/Archives/edgar/data/59478/000005947820000057/,부채및자본 39286100000 − 총자본 2699100000,1
+Eli Lilly,LLY,2019Q4,2019-12-31,분기말 총자본(자기자본),2699100000,USD,공시,https://www.sec.gov/Archives/edgar/data/59478/000005947820000057/,,1
+Eli Lilly,LLY,2019Q4,2019-12-31,분기말 지배지분 자본,2606900000,USD,공시,https://www.sec.gov/Archives/edgar/data/59478/000005947820000057/,,1
+Eli Lilly,LLY,2019Q4,2019-12-31,분기말 종가,131.43,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/LLY?interval=1d&events=splits (2019-12-31),,1
+Eli Lilly,LLY,2019Q4,2020-02-13,분기말 상장주식수,956382203,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/59478/000005947820000057/,dei:EntityCommonStockSharesOutstanding 클래스 합,1
+Eli Lilly,LLY,2019Q4,2019-12-31,분기말 시가총액,125697312940,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/LLY?interval=1d&events=splits (2019-12-31) ; https://www.sec.gov/Archives/edgar/data/59478/000005947820000057/,종가 131.43 × 주식수 956382203,1
+Eli Lilly,LLY,2020Q1,2020-03-31,분기별 매출액,5859800000,USD,공시,https://www.sec.gov/Archives/edgar/data/59478/000005947820000104/,,1
+Eli Lilly,LLY,2020Q1,2020-03-31,분기별 영업이익,미확인,USD,미확인,SEC companyfacts CIK0000059478: OperatingIncomeLoss 태그 없음(영업이익 미공시),,1
+Eli Lilly,LLY,2020Q1,2020-03-31,분기별 당기순이익(지배),1456500000,USD,공시,https://www.sec.gov/Archives/edgar/data/59478/000005947820000104/,,1
+Eli Lilly,LLY,2020Q1,2020-03-31,분기별 영업활동현금흐름,382400000,USD,공시,https://www.sec.gov/Archives/edgar/data/59478/000005947820000104/,,1
+Eli Lilly,LLY,2020Q1,2020-03-31,분기말 자산총계,41102800000,USD,공시,https://www.sec.gov/Archives/edgar/data/59478/000005947820000104/,,1
+Eli Lilly,LLY,2020Q1,2020-03-31,분기말 부채총계,37905600000,USD,계산(부채및자본-총자본),https://www.sec.gov/Archives/edgar/data/59478/000005947820000104/,부채및자본 41102800000 − 총자본 3197200000,1
+Eli Lilly,LLY,2020Q1,2020-03-31,분기말 총자본(자기자본),3197200000,USD,공시,https://www.sec.gov/Archives/edgar/data/59478/000005947820000104/,,1
+Eli Lilly,LLY,2020Q1,2020-03-31,분기말 지배지분 자본,3078800000,USD,공시,https://www.sec.gov/Archives/edgar/data/59478/000005947820000104/,,1
+Eli Lilly,LLY,2020Q1,2020-03-31,분기말 종가,138.72,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/LLY?interval=1d&events=splits (2020-03-31),,1
+Eli Lilly,LLY,2020Q1,2020-04-27,분기말 상장주식수,956450448,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/59478/000005947820000104/,dei:EntityCommonStockSharesOutstanding 클래스 합,1
+Eli Lilly,LLY,2020Q1,2020-03-31,분기말 시가총액,132678806147,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/LLY?interval=1d&events=splits (2020-03-31) ; https://www.sec.gov/Archives/edgar/data/59478/000005947820000104/,종가 138.72 × 주식수 956450448,1
+Eli Lilly,LLY,2020Q2,2020-06-30,분기별 매출액,5499400000,USD,공시,https://www.sec.gov/Archives/edgar/data/59478/000005947820000131/,,1
+Eli Lilly,LLY,2020Q2,2020-06-30,분기별 영업이익,미확인,USD,미확인,SEC companyfacts CIK0000059478: OperatingIncomeLoss 태그 없음(영업이익 미공시),,1
+Eli Lilly,LLY,2020Q2,2020-06-30,분기별 당기순이익(지배),1412000000,USD,공시,https://www.sec.gov/Archives/edgar/data/59478/000005947820000131/,,1
+Eli Lilly,LLY,2020Q2,2020-06-30,분기별 영업활동현금흐름,2495400000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/59478/000005947820000131/ ; https://www.sec.gov/Archives/edgar/data/59478/000005947820000104/,누적 2877800000 − 직전누적 382400000 (시작 2020-01-01),1
+Eli Lilly,LLY,2020Q2,2020-06-30,분기말 자산총계,41967000000,USD,공시,https://www.sec.gov/Archives/edgar/data/59478/000005947820000131/,,1
+Eli Lilly,LLY,2020Q2,2020-06-30,분기말 부채총계,37695000000,USD,계산(부채및자본-총자본),https://www.sec.gov/Archives/edgar/data/59478/000005947820000131/,부채및자본 41967000000 − 총자본 4272000000,1
+Eli Lilly,LLY,2020Q2,2020-06-30,분기말 총자본(자기자본),4272000000,USD,공시,https://www.sec.gov/Archives/edgar/data/59478/000005947820000131/,,1
+Eli Lilly,LLY,2020Q2,2020-06-30,분기말 지배지분 자본,4092900000,USD,공시,https://www.sec.gov/Archives/edgar/data/59478/000005947820000131/,,1
+Eli Lilly,LLY,2020Q2,2020-06-30,분기말 종가,164.18,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/LLY?interval=1d&events=splits (2020-06-30),,1
+Eli Lilly,LLY,2020Q2,2020-07-27,분기말 상장주식수,956470372,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/59478/000005947820000131/,dei:EntityCommonStockSharesOutstanding 클래스 합,1
+Eli Lilly,LLY,2020Q2,2020-06-30,분기말 시가총액,157033305675,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/LLY?interval=1d&events=splits (2020-06-30) ; https://www.sec.gov/Archives/edgar/data/59478/000005947820000131/,종가 164.18 × 주식수 956470372,1
+Eli Lilly,LLY,2020Q3,2020-09-30,분기별 매출액,5740600000,USD,공시,https://www.sec.gov/Archives/edgar/data/59478/000005947820000155/,,1
+Eli Lilly,LLY,2020Q3,2020-09-30,분기별 영업이익,미확인,USD,미확인,SEC companyfacts CIK0000059478: OperatingIncomeLoss 태그 없음(영업이익 미공시),,1
+Eli Lilly,LLY,2020Q3,2020-09-30,분기별 당기순이익(지배),1208400000,USD,공시,https://www.sec.gov/Archives/edgar/data/59478/000005947820000155/,,1
+Eli Lilly,LLY,2020Q3,2020-09-30,분기별 영업활동현금흐름,1806600000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/59478/000005947820000155/ ; https://www.sec.gov/Archives/edgar/data/59478/000005947820000131/,누적 4684400000 − 직전누적 2877800000 (시작 2020-01-01),1
+Eli Lilly,LLY,2020Q3,2020-09-30,분기말 자산총계,43946000000,USD,공시,https://www.sec.gov/Archives/edgar/data/59478/000005947820000155/,,1
+Eli Lilly,LLY,2020Q3,2020-09-30,분기말 부채총계,38950000000,USD,계산(부채및자본-총자본),https://www.sec.gov/Archives/edgar/data/59478/000005947820000155/,부채및자본 43946000000 − 총자본 4996000000,1
+Eli Lilly,LLY,2020Q3,2020-09-30,분기말 총자본(자기자본),4996000000,USD,공시,https://www.sec.gov/Archives/edgar/data/59478/000005947820000155/,,1
+Eli Lilly,LLY,2020Q3,2020-09-30,분기말 지배지분 자본,4826900000,USD,공시,https://www.sec.gov/Archives/edgar/data/59478/000005947820000155/,,1
+Eli Lilly,LLY,2020Q3,2020-09-30,분기말 종가,148.02,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/LLY?interval=1d&events=splits (2020-09-30),,1
+Eli Lilly,LLY,2020Q3,2020-10-26,분기말 상장주식수,956581598,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/59478/000005947820000155/,dei:EntityCommonStockSharesOutstanding 클래스 합,1
+Eli Lilly,LLY,2020Q3,2020-09-30,분기말 시가총액,141593208136,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/LLY?interval=1d&events=splits (2020-09-30) ; https://www.sec.gov/Archives/edgar/data/59478/000005947820000155/,종가 148.02 × 주식수 956581598,1
+Eli Lilly,LLY,2020Q4,2020-12-31,분기별 매출액,7440000000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/59478/000005947821000083/ ; https://www.sec.gov/Archives/edgar/data/59478/000005947820000155/,연간 24539800000 − 9개월누적 17099800000 (Revenues),1
+Eli Lilly,LLY,2020Q4,2020-12-31,분기별 영업이익,미확인,USD,미확인,SEC companyfacts CIK0000059478: OperatingIncomeLoss 태그 없음(영업이익 미공시),,1
+Eli Lilly,LLY,2020Q4,2020-12-31,분기별 당기순이익(지배),2116800000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/59478/000005947821000083/ ; https://www.sec.gov/Archives/edgar/data/59478/000005947820000155/,연간 6193700000 − 9개월누적 4076900000 (NetIncomeLoss),1
+Eli Lilly,LLY,2020Q4,2020-12-31,분기별 영업활동현금흐름,1815200000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/59478/000005947821000083/ ; https://www.sec.gov/Archives/edgar/data/59478/000005947820000155/,누적 6499600000 − 직전누적 4684400000 (시작 2020-01-01),1
+Eli Lilly,LLY,2020Q4,2020-12-31,분기말 자산총계,46633100000,USD,공시,https://www.sec.gov/Archives/edgar/data/59478/000005947821000083/,,1
+Eli Lilly,LLY,2020Q4,2020-12-31,분기말 부채총계,40807900000,USD,계산(부채및자본-총자본),https://www.sec.gov/Archives/edgar/data/59478/000005947821000083/,부채및자본 46633100000 − 총자본 5825200000,1
+Eli Lilly,LLY,2020Q4,2020-12-31,분기말 총자본(자기자본),5825200000,USD,공시,https://www.sec.gov/Archives/edgar/data/59478/000005947821000083/,,1
+Eli Lilly,LLY,2020Q4,2020-12-31,분기말 지배지분 자본,5641600000,USD,공시,https://www.sec.gov/Archives/edgar/data/59478/000005947821000083/,,1
+Eli Lilly,LLY,2020Q4,2020-12-31,분기말 종가,168.84,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/LLY?interval=1d&events=splits (2020-12-31),,1
+Eli Lilly,LLY,2020Q4,2021-02-12,분기말 상장주식수,958425693,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/59478/000005947821000083/,dei:EntityCommonStockSharesOutstanding 클래스 합,1
+Eli Lilly,LLY,2020Q4,2020-12-31,분기말 시가총액,161820594006,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/LLY?interval=1d&events=splits (2020-12-31) ; https://www.sec.gov/Archives/edgar/data/59478/000005947821000083/,종가 168.84 × 주식수 958425693,1
+Eli Lilly,LLY,2021Q1,2021-03-31,분기별 매출액,6805600000,USD,공시,https://www.sec.gov/Archives/edgar/data/59478/000005947821000122/,,1
+Eli Lilly,LLY,2021Q1,2021-03-31,분기별 영업이익,미확인,USD,미확인,SEC companyfacts CIK0000059478: OperatingIncomeLoss 태그 없음(영업이익 미공시),,1
+Eli Lilly,LLY,2021Q1,2021-03-31,분기별 당기순이익(지배),1355300000,USD,공시,https://www.sec.gov/Archives/edgar/data/59478/000005947821000122/,,1
+Eli Lilly,LLY,2021Q1,2021-03-31,분기별 영업활동현금흐름,1697400000,USD,공시,https://www.sec.gov/Archives/edgar/data/59478/000005947821000122/,,1
+Eli Lilly,LLY,2021Q1,2021-03-31,분기말 자산총계,46838300000,USD,공시,https://www.sec.gov/Archives/edgar/data/59478/000005947821000122/,,1
+Eli Lilly,LLY,2021Q1,2021-03-31,분기말 부채총계,39739000000,USD,계산(부채및자본-총자본),https://www.sec.gov/Archives/edgar/data/59478/000005947821000122/,부채및자본 46838300000 − 총자본 7099300000,1
+Eli Lilly,LLY,2021Q1,2021-03-31,분기말 총자본(자기자본),7099300000,USD,공시,https://www.sec.gov/Archives/edgar/data/59478/000005947821000122/,,1
+Eli Lilly,LLY,2021Q1,2021-03-31,분기말 지배지분 자본,6898700000,USD,공시,https://www.sec.gov/Archives/edgar/data/59478/000005947821000122/,,1
+Eli Lilly,LLY,2021Q1,2021-03-31,분기말 종가,186.82,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/LLY?interval=1d&events=splits (2021-03-31),,1
+Eli Lilly,LLY,2021Q1,2021-04-27,분기말 상장주식수,959025446,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/59478/000005947821000122/,dei:EntityCommonStockSharesOutstanding 클래스 합,1
+Eli Lilly,LLY,2021Q1,2021-03-31,분기말 시가총액,179165133822,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/LLY?interval=1d&events=splits (2021-03-31) ; https://www.sec.gov/Archives/edgar/data/59478/000005947821000122/,종가 186.82 × 주식수 959025446,1
+Eli Lilly,LLY,2021Q2,2021-06-30,분기별 매출액,6740100000,USD,공시,https://www.sec.gov/Archives/edgar/data/59478/000005947821000171/,,1
+Eli Lilly,LLY,2021Q2,2021-06-30,분기별 영업이익,미확인,USD,미확인,SEC companyfacts CIK0000059478: OperatingIncomeLoss 태그 없음(영업이익 미공시),,1
+Eli Lilly,LLY,2021Q2,2021-06-30,분기별 당기순이익(지배),1390200000,USD,공시,https://www.sec.gov/Archives/edgar/data/59478/000005947821000171/,,1
+Eli Lilly,LLY,2021Q2,2021-06-30,분기별 영업활동현금흐름,1775500000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/59478/000005947821000171/ ; https://www.sec.gov/Archives/edgar/data/59478/000005947821000122/,누적 3472900000 − 직전누적 1697400000 (시작 2021-01-01),1
+Eli Lilly,LLY,2021Q2,2021-06-30,분기말 자산총계,47809000000,USD,공시,https://www.sec.gov/Archives/edgar/data/59478/000005947821000171/,,1
+Eli Lilly,LLY,2021Q2,2021-06-30,분기말 부채총계,41145500000,USD,계산(부채및자본-총자본),https://www.sec.gov/Archives/edgar/data/59478/000005947821000171/,부채및자본 47809000000 − 총자본 6663500000,1
+Eli Lilly,LLY,2021Q2,2021-06-30,분기말 총자본(자기자본),6663500000,USD,공시,https://www.sec.gov/Archives/edgar/data/59478/000005947821000171/,,1
+Eli Lilly,LLY,2021Q2,2021-06-30,분기말 지배지분 자본,6444400000,USD,공시,https://www.sec.gov/Archives/edgar/data/59478/000005947821000171/,,1
+Eli Lilly,LLY,2021Q2,2021-06-30,분기말 종가,229.52,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/LLY?interval=1d&events=splits (2021-06-30),,1
+Eli Lilly,LLY,2021Q2,2021-07-30,분기말 상장주식수,956580893,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/59478/000005947821000171/,dei:EntityCommonStockSharesOutstanding 클래스 합,1
+Eli Lilly,LLY,2021Q2,2021-06-30,분기말 시가총액,219554446561,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/LLY?interval=1d&events=splits (2021-06-30) ; https://www.sec.gov/Archives/edgar/data/59478/000005947821000171/,종가 229.52 × 주식수 956580893,1
+Eli Lilly,LLY,2021Q3,2021-09-30,분기별 매출액,6772800000,USD,공시,https://www.sec.gov/Archives/edgar/data/59478/000005947821000216/,,1
+Eli Lilly,LLY,2021Q3,2021-09-30,분기별 영업이익,미확인,USD,미확인,SEC companyfacts CIK0000059478: OperatingIncomeLoss 태그 없음(영업이익 미공시),,1
+Eli Lilly,LLY,2021Q3,2021-09-30,분기별 당기순이익(지배),1110100000,USD,공시,https://www.sec.gov/Archives/edgar/data/59478/000005947821000216/,,1
+Eli Lilly,LLY,2021Q3,2021-09-30,분기별 영업활동현금흐름,1631300000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/59478/000005947821000216/ ; https://www.sec.gov/Archives/edgar/data/59478/000005947821000171/,누적 5104200000 − 직전누적 3472900000 (시작 2021-01-01),1
+Eli Lilly,LLY,2021Q3,2021-09-30,분기말 자산총계,48187000000,USD,공시,https://www.sec.gov/Archives/edgar/data/59478/000005947821000216/,,1
+Eli Lilly,LLY,2021Q3,2021-09-30,분기말 부채총계,40232900000,USD,계산(부채및자본-총자본),https://www.sec.gov/Archives/edgar/data/59478/000005947821000216/,부채및자본 48187000000 − 총자본 7954100000,1
+Eli Lilly,LLY,2021Q3,2021-09-30,분기말 총자본(자기자본),7954100000,USD,공시,https://www.sec.gov/Archives/edgar/data/59478/000005947821000216/,,1
+Eli Lilly,LLY,2021Q3,2021-09-30,분기말 지배지분 자본,7757000000,USD,공시,https://www.sec.gov/Archives/edgar/data/59478/000005947821000216/,,1
+Eli Lilly,LLY,2021Q3,2021-09-30,분기말 종가,231.05,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/LLY?interval=1d&events=splits (2021-09-30),,1
+Eli Lilly,LLY,2021Q3,2021-10-22,분기말 상장주식수,956592393,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/59478/000005947821000216/,dei:EntityCommonStockSharesOutstanding 클래스 합,1
+Eli Lilly,LLY,2021Q3,2021-09-30,분기말 시가총액,221020672403,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/LLY?interval=1d&events=splits (2021-09-30) ; https://www.sec.gov/Archives/edgar/data/59478/000005947821000216/,종가 231.05 × 주식수 956592393,1
+Eli Lilly,LLY,2021Q4,2021-12-31,분기별 매출액,7999900000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/59478/000005947822000068/ ; https://www.sec.gov/Archives/edgar/data/59478/000005947821000216/,연간 28318400000 − 9개월누적 20318500000 (Revenues),1
+Eli Lilly,LLY,2021Q4,2021-12-31,분기별 영업이익,미확인,USD,미확인,SEC companyfacts CIK0000059478: OperatingIncomeLoss 태그 없음(영업이익 미공시),,1
+Eli Lilly,LLY,2021Q4,2021-12-31,분기별 당기순이익(지배),1726100000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/59478/000005947822000068/ ; https://www.sec.gov/Archives/edgar/data/59478/000005947821000216/,연간 5581700000 − 9개월누적 3855600000 (NetIncomeLoss),1
+Eli Lilly,LLY,2021Q4,2021-12-31,분기별 영업활동현금흐름,2156500000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/59478/000005947822000068/ ; https://www.sec.gov/Archives/edgar/data/59478/000005947821000216/,누적 7260700000 − 직전누적 5104200000 (시작 2021-01-01),1
+Eli Lilly,LLY,2021Q4,2021-12-31,분기말 자산총계,48806000000,USD,공시,https://www.sec.gov/Archives/edgar/data/59478/000005947822000068/,,1
+Eli Lilly,LLY,2021Q4,2021-12-31,분기말 부채총계,39651200000,USD,계산(부채및자본-총자본),https://www.sec.gov/Archives/edgar/data/59478/000005947822000068/,부채및자본 48806000000 − 총자본 9154800000,1
+Eli Lilly,LLY,2021Q4,2021-12-31,분기말 총자본(자기자본),9154800000,USD,공시,https://www.sec.gov/Archives/edgar/data/59478/000005947822000068/,,1
+Eli Lilly,LLY,2021Q4,2021-12-31,분기말 지배지분 자본,8979200000,USD,공시,https://www.sec.gov/Archives/edgar/data/59478/000005947822000068/,,1
+Eli Lilly,LLY,2021Q4,2021-12-31,분기말 종가,276.22,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/LLY?interval=1d&events=splits (2021-12-31),,1
+Eli Lilly,LLY,2021Q4,2022-02-18,분기말 상장주식수,952347126,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/59478/000005947822000068/,dei:EntityCommonStockSharesOutstanding 클래스 합,1
+Eli Lilly,LLY,2021Q4,2021-12-31,분기말 시가총액,263057323144,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/LLY?interval=1d&events=splits (2021-12-31) ; https://www.sec.gov/Archives/edgar/data/59478/000005947822000068/,종가 276.22 × 주식수 952347126,1
+Eli Lilly,LLY,2022Q1,2022-03-31,분기별 매출액,7810000000,USD,공시,https://www.sec.gov/Archives/edgar/data/59478/000005947822000133/,,1
+Eli Lilly,LLY,2022Q1,2022-03-31,분기별 영업이익,미확인,USD,미확인,SEC companyfacts CIK0000059478: OperatingIncomeLoss 태그 없음(영업이익 미공시),,1
+Eli Lilly,LLY,2022Q1,2022-03-31,분기별 당기순이익(지배),1902900000,USD,공시,https://www.sec.gov/Archives/edgar/data/59478/000005947822000133/,,1
+Eli Lilly,LLY,2022Q1,2022-03-31,분기별 영업활동현금흐름,2499200000,USD,공시,https://www.sec.gov/Archives/edgar/data/59478/000005947822000133/,,1
+Eli Lilly,LLY,2022Q1,2022-03-31,분기말 자산총계,46919300000,USD,공시,https://www.sec.gov/Archives/edgar/data/59478/000005947822000133/,,1
+Eli Lilly,LLY,2022Q1,2022-03-31,분기말 부채총계,37457300000,USD,계산(부채및자본-총자본),https://www.sec.gov/Archives/edgar/data/59478/000005947822000133/,부채및자본 46919300000 − 총자본 9462000000,1
+Eli Lilly,LLY,2022Q1,2022-03-31,분기말 총자본(자기자본),9462000000,USD,공시,https://www.sec.gov/Archives/edgar/data/59478/000005947822000133/,,1
+Eli Lilly,LLY,2022Q1,2022-03-31,분기말 지배지분 자본,9330800000,USD,공시,https://www.sec.gov/Archives/edgar/data/59478/000005947822000133/,,1
+Eli Lilly,LLY,2022Q1,2022-03-31,분기말 종가,286.37,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/LLY?interval=1d&events=splits (2022-03-31),,1
+Eli Lilly,LLY,2022Q1,2022-04-26,분기말 상장주식수,950159559,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/59478/000005947822000133/,dei:EntityCommonStockSharesOutstanding 클래스 합,1
+Eli Lilly,LLY,2022Q1,2022-03-31,분기말 시가총액,272097192911,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/LLY?interval=1d&events=splits (2022-03-31) ; https://www.sec.gov/Archives/edgar/data/59478/000005947822000133/,종가 286.37 × 주식수 950159559,1
+Eli Lilly,LLY,2022Q2,2022-06-30,분기별 매출액,6488000000,USD,공시,https://www.sec.gov/Archives/edgar/data/59478/000005947822000196/,,1
+Eli Lilly,LLY,2022Q2,2022-06-30,분기별 영업이익,미확인,USD,미확인,SEC companyfacts CIK0000059478: OperatingIncomeLoss 태그 없음(영업이익 미공시),,1
+Eli Lilly,LLY,2022Q2,2022-06-30,분기별 당기순이익(지배),952500000,USD,공시,https://www.sec.gov/Archives/edgar/data/59478/000005947822000196/,,1
+Eli Lilly,LLY,2022Q2,2022-06-30,분기별 영업활동현금흐름,820700000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/59478/000005947822000196/ ; https://www.sec.gov/Archives/edgar/data/59478/000005947822000133/,누적 3319900000 − 직전누적 2499200000 (시작 2022-01-01),1
+Eli Lilly,LLY,2022Q2,2022-06-30,분기말 자산총계,47063600000,USD,공시,https://www.sec.gov/Archives/edgar/data/59478/000005947822000196/,,1
+Eli Lilly,LLY,2022Q2,2022-06-30,분기말 부채총계,38404400000,USD,계산(부채및자본-총자본),https://www.sec.gov/Archives/edgar/data/59478/000005947822000196/,부채및자본 47063600000 − 총자본 8659200000,1
+Eli Lilly,LLY,2022Q2,2022-06-30,분기말 총자본(자기자본),8659200000,USD,공시,https://www.sec.gov/Archives/edgar/data/59478/000005947822000196/,,1
+Eli Lilly,LLY,2022Q2,2022-06-30,분기말 지배지분 자본,8544700000,USD,공시,https://www.sec.gov/Archives/edgar/data/59478/000005947822000196/,,1
+Eli Lilly,LLY,2022Q2,2022-06-30,분기말 종가,324.23,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/LLY?interval=1d&events=splits (2022-06-30),,1
+Eli Lilly,LLY,2022Q2,2022-08-01,분기말 상장주식수,950174817,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/59478/000005947822000196/,dei:EntityCommonStockSharesOutstanding 클래스 합,1
+Eli Lilly,LLY,2022Q2,2022-06-30,분기말 시가총액,308075180916,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/LLY?interval=1d&events=splits (2022-06-30) ; https://www.sec.gov/Archives/edgar/data/59478/000005947822000196/,종가 324.23 × 주식수 950174817,1
+Eli Lilly,LLY,2022Q3,2022-09-30,분기별 매출액,6941600000,USD,공시,https://www.sec.gov/Archives/edgar/data/59478/000005947822000250/,,1
+Eli Lilly,LLY,2022Q3,2022-09-30,분기별 영업이익,미확인,USD,미확인,SEC companyfacts CIK0000059478: OperatingIncomeLoss 태그 없음(영업이익 미공시),,1
+Eli Lilly,LLY,2022Q3,2022-09-30,분기별 당기순이익(지배),1451700000,USD,공시,https://www.sec.gov/Archives/edgar/data/59478/000005947822000250/,,1
+Eli Lilly,LLY,2022Q3,2022-09-30,분기별 영업활동현금흐름,2184800000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/59478/000005947822000250/ ; https://www.sec.gov/Archives/edgar/data/59478/000005947822000196/,누적 5504700000 − 직전누적 3319900000 (시작 2022-01-01),1
+Eli Lilly,LLY,2022Q3,2022-09-30,분기말 자산총계,47461500000,USD,공시,https://www.sec.gov/Archives/edgar/data/59478/000005947822000250/,,1
+Eli Lilly,LLY,2022Q3,2022-09-30,분기말 부채총계,37295600000,USD,계산(부채및자본-총자본),https://www.sec.gov/Archives/edgar/data/59478/000005947822000250/,부채및자본 47461500000 − 총자본 10165900000,1
+Eli Lilly,LLY,2022Q3,2022-09-30,분기말 총자본(자기자본),10165900000,USD,공시,https://www.sec.gov/Archives/edgar/data/59478/000005947822000250/,,1
+Eli Lilly,LLY,2022Q3,2022-09-30,분기말 지배지분 자본,10070100000,USD,공시,https://www.sec.gov/Archives/edgar/data/59478/000005947822000250/,,1
+Eli Lilly,LLY,2022Q3,2022-09-30,분기말 종가,323.35,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/LLY?interval=1d&events=splits (2022-09-30),,1
+Eli Lilly,LLY,2022Q3,2022-10-28,분기말 상장주식수,950177900,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/59478/000005947822000250/,dei:EntityCommonStockSharesOutstanding 클래스 합,1
+Eli Lilly,LLY,2022Q3,2022-09-30,분기말 시가총액,307240023965,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/LLY?interval=1d&events=splits (2022-09-30) ; https://www.sec.gov/Archives/edgar/data/59478/000005947822000250/,종가 323.35 × 주식수 950177900,1
+Eli Lilly,LLY,2022Q4,2022-12-31,분기별 매출액,7301800000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/59478/000005947823000082/ ; https://www.sec.gov/Archives/edgar/data/59478/000005947822000250/,연간 28541400000 − 9개월누적 21239600000 (Revenues),1
+Eli Lilly,LLY,2022Q4,2022-12-31,분기별 영업이익,미확인,USD,미확인,SEC companyfacts CIK0000059478: OperatingIncomeLoss 태그 없음(영업이익 미공시),,1
+Eli Lilly,LLY,2022Q4,2022-12-31,분기별 당기순이익(지배),1937700000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/59478/000005947823000082/ ; https://www.sec.gov/Archives/edgar/data/59478/000005947822000250/,연간 6244800000 − 9개월누적 4307100000 (NetIncomeLoss),1
+Eli Lilly,LLY,2022Q4,2022-12-31,분기별 영업활동현금흐름,1579700000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/59478/000005947823000082/ ; https://www.sec.gov/Archives/edgar/data/59478/000005947822000250/,누적 7084400000 − 직전누적 5504700000 (시작 2022-01-01),1
+Eli Lilly,LLY,2022Q4,2022-12-31,분기말 자산총계,49489800000,USD,공시,https://www.sec.gov/Archives/edgar/data/59478/000005947823000082/,,1
+Eli Lilly,LLY,2022Q4,2022-12-31,분기말 부채총계,38714400000,USD,계산(부채및자본-총자본),https://www.sec.gov/Archives/edgar/data/59478/000005947823000082/,부채및자본 49489800000 − 총자본 10775400000,1
+Eli Lilly,LLY,2022Q4,2022-12-31,분기말 총자본(자기자본),10775400000,USD,공시,https://www.sec.gov/Archives/edgar/data/59478/000005947823000082/,,1
+Eli Lilly,LLY,2022Q4,2022-12-31,분기말 지배지분 자본,10649800000,USD,공시,https://www.sec.gov/Archives/edgar/data/59478/000005947823000082/,,1
+Eli Lilly,LLY,2022Q4,2022-12-30,분기말 종가,365.84,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/LLY?interval=1d&events=splits (2022-12-30),,1
+Eli Lilly,LLY,2022Q4,2023-02-17,분기말 상장주식수,950296118,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/59478/000005947823000082/,dei:EntityCommonStockSharesOutstanding 클래스 합,1
+Eli Lilly,LLY,2022Q4,2022-12-30,분기말 시가총액,347656331809,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/LLY?interval=1d&events=splits (2022-12-30) ; https://www.sec.gov/Archives/edgar/data/59478/000005947823000082/,종가 365.84 × 주식수 950296118,1
+Eli Lilly,LLY,2023Q1,2023-03-31,분기별 매출액,6960000000,USD,공시,https://www.sec.gov/Archives/edgar/data/59478/000005947823000162/,,1
+Eli Lilly,LLY,2023Q1,2023-03-31,분기별 영업이익,미확인,USD,미확인,SEC companyfacts CIK0000059478: OperatingIncomeLoss 태그 없음(영업이익 미공시),,1
+Eli Lilly,LLY,2023Q1,2023-03-31,분기별 당기순이익(지배),1344900000,USD,공시,https://www.sec.gov/Archives/edgar/data/59478/000005947823000162/,,1
+Eli Lilly,LLY,2023Q1,2023-03-31,분기별 영업활동현금흐름,1730600000,USD,공시,https://www.sec.gov/Archives/edgar/data/59478/000005947823000162/,,1
+Eli Lilly,LLY,2023Q1,2023-03-31,분기말 자산총계,53163000000,USD,공시,https://www.sec.gov/Archives/edgar/data/59478/000005947823000162/,,1
+Eli Lilly,LLY,2023Q1,2023-03-31,분기말 부채총계,41868100000,USD,계산(부채및자본-총자본),https://www.sec.gov/Archives/edgar/data/59478/000005947823000162/,부채및자본 53163000000 − 총자본 11294900000,1
+Eli Lilly,LLY,2023Q1,2023-03-31,분기말 총자본(자기자본),11294900000,USD,공시,https://www.sec.gov/Archives/edgar/data/59478/000005947823000162/,,1
+Eli Lilly,LLY,2023Q1,2023-03-31,분기말 지배지분 자본,11190400000,USD,공시,https://www.sec.gov/Archives/edgar/data/59478/000005947823000162/,,1
+Eli Lilly,LLY,2023Q1,2023-03-31,분기말 종가,343.42,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/LLY?interval=1d&events=splits (2023-03-31),,1
+Eli Lilly,LLY,2023Q1,2023-04-24,분기말 상장주식수,949272933,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/59478/000005947823000162/,dei:EntityCommonStockSharesOutstanding 클래스 합,1
+Eli Lilly,LLY,2023Q1,2023-03-31,분기말 시가총액,325999310651,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/LLY?interval=1d&events=splits (2023-03-31) ; https://www.sec.gov/Archives/edgar/data/59478/000005947823000162/,종가 343.42 × 주식수 949272933,1
+Eli Lilly,LLY,2023Q2,2023-06-30,분기별 매출액,8312100000,USD,공시,https://www.sec.gov/Archives/edgar/data/59478/000005947823000221/,,1
+Eli Lilly,LLY,2023Q2,2023-06-30,분기별 영업이익,미확인,USD,미확인,SEC companyfacts CIK0000059478: OperatingIncomeLoss 태그 없음(영업이익 미공시),,1
+Eli Lilly,LLY,2023Q2,2023-06-30,분기별 당기순이익(지배),1763200000,USD,공시,https://www.sec.gov/Archives/edgar/data/59478/000005947823000221/,,1
+Eli Lilly,LLY,2023Q2,2023-06-30,분기별 영업활동현금흐름,631900000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/59478/000005947823000221/ ; https://www.sec.gov/Archives/edgar/data/59478/000005947823000162/,누적 2362500000 − 직전누적 1730600000 (시작 2023-01-01),1
+Eli Lilly,LLY,2023Q2,2023-06-30,분기말 자산총계,54814000000,USD,공시,https://www.sec.gov/Archives/edgar/data/59478/000005947823000221/,,1
+Eli Lilly,LLY,2023Q2,2023-06-30,분기말 부채총계,43664700000,USD,계산(부채및자본-총자본),https://www.sec.gov/Archives/edgar/data/59478/000005947823000221/,부채및자본 54814000000 − 총자본 11149300000,1
+Eli Lilly,LLY,2023Q2,2023-06-30,분기말 총자본(자기자본),11149300000,USD,공시,https://www.sec.gov/Archives/edgar/data/59478/000005947823000221/,,1
+Eli Lilly,LLY,2023Q2,2023-06-30,분기말 지배지분 자본,11063800000,USD,공시,https://www.sec.gov/Archives/edgar/data/59478/000005947823000221/,,1
+Eli Lilly,LLY,2023Q2,2023-06-30,분기말 종가,468.98,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/LLY?interval=1d&events=splits (2023-06-30),,1
+Eli Lilly,LLY,2023Q2,2023-08-03,분기말 상장주식수,949295173,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/59478/000005947823000221/,dei:EntityCommonStockSharesOutstanding 클래스 합,1
+Eli Lilly,LLY,2023Q2,2023-06-30,분기말 시가총액,445200450234,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/LLY?interval=1d&events=splits (2023-06-30) ; https://www.sec.gov/Archives/edgar/data/59478/000005947823000221/,종가 468.98 × 주식수 949295173,1
+Eli Lilly,LLY,2023Q3,2023-09-30,분기별 매출액,9498600000,USD,공시,https://www.sec.gov/Archives/edgar/data/59478/000005947823000284/,,1
+Eli Lilly,LLY,2023Q3,2023-09-30,분기별 영업이익,미확인,USD,미확인,SEC companyfacts CIK0000059478: OperatingIncomeLoss 태그 없음(영업이익 미공시),,1
+Eli Lilly,LLY,2023Q3,2023-09-30,분기별 당기순이익(지배),-57400000,USD,공시,https://www.sec.gov/Archives/edgar/data/59478/000005947823000284/,,1
+Eli Lilly,LLY,2023Q3,2023-09-30,분기별 영업활동현금흐름,2189500000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/59478/000005947823000284/ ; https://www.sec.gov/Archives/edgar/data/59478/000005947823000221/,누적 4552000000 − 직전누적 2362500000 (시작 2023-01-01),1
+Eli Lilly,LLY,2023Q3,2023-09-30,분기말 자산총계,57915500000,USD,공시,https://www.sec.gov/Archives/edgar/data/59478/000005947823000284/,,1
+Eli Lilly,LLY,2023Q3,2023-09-30,분기말 부채총계,46608100000,USD,계산(부채및자본-총자본),https://www.sec.gov/Archives/edgar/data/59478/000005947823000284/,부채및자본 57915500000 − 총자본 11307400000,1
+Eli Lilly,LLY,2023Q3,2023-09-30,분기말 총자본(자기자본),11307400000,USD,공시,https://www.sec.gov/Archives/edgar/data/59478/000005947823000284/,,1
+Eli Lilly,LLY,2023Q3,2023-09-30,분기말 지배지분 자본,11220400000,USD,공시,https://www.sec.gov/Archives/edgar/data/59478/000005947823000284/,,1
+Eli Lilly,LLY,2023Q3,2023-09-29,분기말 종가,537.13,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/LLY?interval=1d&events=splits (2023-09-29),,1
+Eli Lilly,LLY,2023Q3,2023-10-30,분기말 상장주식수,949307237,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/59478/000005947823000284/,dei:EntityCommonStockSharesOutstanding 클래스 합,1
+Eli Lilly,LLY,2023Q3,2023-09-29,분기말 시가총액,509901396210,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/LLY?interval=1d&events=splits (2023-09-29) ; https://www.sec.gov/Archives/edgar/data/59478/000005947823000284/,종가 537.13 × 주식수 949307237,1
+Eli Lilly,LLY,2023Q4,2023-12-31,분기별 매출액,9353400000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/59478/000005947824000065/ ; https://www.sec.gov/Archives/edgar/data/59478/000005947823000284/,연간 34124100000 − 9개월누적 24770700000 (Revenues),1
+Eli Lilly,LLY,2023Q4,2023-12-31,분기별 영업이익,미확인,USD,미확인,SEC companyfacts CIK0000059478: OperatingIncomeLoss 태그 없음(영업이익 미공시),,1
+Eli Lilly,LLY,2023Q4,2023-12-31,분기별 당기순이익(지배),2189700000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/59478/000005947824000065/ ; https://www.sec.gov/Archives/edgar/data/59478/000005947823000284/,연간 5240400000 − 9개월누적 3050700000 (NetIncomeLoss),1
+Eli Lilly,LLY,2023Q4,2023-12-31,분기별 영업활동현금흐름,-311900000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/59478/000005947824000065/ ; https://www.sec.gov/Archives/edgar/data/59478/000005947823000284/,누적 4240100000 − 직전누적 4552000000 (시작 2023-01-01),1
+Eli Lilly,LLY,2023Q4,2023-12-31,분기말 자산총계,64006300000,USD,공시,https://www.sec.gov/Archives/edgar/data/59478/000005947824000065/,,1
+Eli Lilly,LLY,2023Q4,2023-12-31,분기말 부채총계,53142600000,USD,계산(부채및자본-총자본),https://www.sec.gov/Archives/edgar/data/59478/000005947824000065/,부채및자본 64006300000 − 총자본 10863700000,1
+Eli Lilly,LLY,2023Q4,2023-12-31,분기말 총자본(자기자본),10863700000,USD,공시,https://www.sec.gov/Archives/edgar/data/59478/000005947824000065/,,1
+Eli Lilly,LLY,2023Q4,2023-12-31,분기말 지배지분 자본,10771900000,USD,공시,https://www.sec.gov/Archives/edgar/data/59478/000005947824000065/,,1
+Eli Lilly,LLY,2023Q4,2023-12-29,분기말 종가,582.92,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/LLY?interval=1d&events=splits (2023-12-29),,1
+Eli Lilly,LLY,2023Q4,2024-02-16,분기말 상장주식수,950164452,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/59478/000005947824000065/,dei:EntityCommonStockSharesOutstanding 클래스 합,1
+Eli Lilly,LLY,2023Q4,2023-12-29,분기말 시가총액,553869862360,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/LLY?interval=1d&events=splits (2023-12-29) ; https://www.sec.gov/Archives/edgar/data/59478/000005947824000065/,종가 582.92 × 주식수 950164452,1
+Eli Lilly,LLY,2024Q1,2024-03-31,분기별 매출액,8768000000,USD,공시,https://www.sec.gov/Archives/edgar/data/59478/000005947824000118/,,1
+Eli Lilly,LLY,2024Q1,2024-03-31,분기별 영업이익,미확인,USD,미확인,SEC companyfacts CIK0000059478: OperatingIncomeLoss 태그 없음(영업이익 미공시),,1
+Eli Lilly,LLY,2024Q1,2024-03-31,분기별 당기순이익(지배),2242900000,USD,공시,https://www.sec.gov/Archives/edgar/data/59478/000005947824000118/,,1
+Eli Lilly,LLY,2024Q1,2024-03-31,분기별 영업활동현금흐름,1166000000,USD,공시,https://www.sec.gov/Archives/edgar/data/59478/000005947824000118/,,1
+Eli Lilly,LLY,2024Q1,2024-03-31,분기말 자산총계,63943500000,USD,공시,https://www.sec.gov/Archives/edgar/data/59478/000005947824000118/,,1
+Eli Lilly,LLY,2024Q1,2024-03-31,분기말 부채총계,51046100000,USD,계산(부채및자본-총자본),https://www.sec.gov/Archives/edgar/data/59478/000005947824000118/,부채및자본 63943500000 − 총자본 12897400000,1
+Eli Lilly,LLY,2024Q1,2024-03-31,분기말 총자본(자기자본),12897400000,USD,공시,https://www.sec.gov/Archives/edgar/data/59478/000005947824000118/,,1
+Eli Lilly,LLY,2024Q1,2024-03-31,분기말 지배지분 자본,12812200000,USD,공시,https://www.sec.gov/Archives/edgar/data/59478/000005947824000118/,,1
+Eli Lilly,LLY,2024Q1,2024-03-28,분기말 종가,777.96,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/LLY?interval=1d&events=splits (2024-03-28),,1
+Eli Lilly,LLY,2024Q1,2024-04-25,분기말 상장주식수,950405386,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/59478/000005947824000118/,dei:EntityCommonStockSharesOutstanding 클래스 합,1
+Eli Lilly,LLY,2024Q1,2024-03-28,분기말 시가총액,739377374093,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/LLY?interval=1d&events=splits (2024-03-28) ; https://www.sec.gov/Archives/edgar/data/59478/000005947824000118/,종가 777.96 × 주식수 950405386,1
+Eli Lilly,LLY,2024Q2,2024-06-30,분기별 매출액,11302800000,USD,공시,https://www.sec.gov/Archives/edgar/data/59478/000005947824000187/,,1
+Eli Lilly,LLY,2024Q2,2024-06-30,분기별 영업이익,미확인,USD,미확인,SEC companyfacts CIK0000059478: OperatingIncomeLoss 태그 없음(영업이익 미공시),,1
+Eli Lilly,LLY,2024Q2,2024-06-30,분기별 당기순이익(지배),2967000000,USD,공시,https://www.sec.gov/Archives/edgar/data/59478/000005947824000187/,,1
+Eli Lilly,LLY,2024Q2,2024-06-30,분기별 영업활동현금흐름,1466200000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/59478/000005947824000187/ ; https://www.sec.gov/Archives/edgar/data/59478/000005947824000118/,누적 2632200000 − 직전누적 1166000000 (시작 2024-01-01),1
+Eli Lilly,LLY,2024Q2,2024-06-30,분기말 자산총계,71874800000,USD,공시,https://www.sec.gov/Archives/edgar/data/59478/000005947824000187/,,1
+Eli Lilly,LLY,2024Q2,2024-06-30,분기말 부채총계,58239300000,USD,계산(부채및자본-총자본),https://www.sec.gov/Archives/edgar/data/59478/000005947824000187/,부채및자본 71874800000 − 총자본 13635500000,1
+Eli Lilly,LLY,2024Q2,2024-06-30,분기말 총자본(자기자본),13635500000,USD,공시,https://www.sec.gov/Archives/edgar/data/59478/000005947824000187/,,1
+Eli Lilly,LLY,2024Q2,2024-06-30,분기말 지배지분 자본,13562000000,USD,공시,https://www.sec.gov/Archives/edgar/data/59478/000005947824000187/,,1
+Eli Lilly,LLY,2024Q2,2024-06-28,분기말 종가,905.38,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/LLY?interval=1d&events=splits (2024-06-28),,1
+Eli Lilly,LLY,2024Q2,2024-08-05,분기말 상장주식수,950425778,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/59478/000005947824000187/,dei:EntityCommonStockSharesOutstanding 클래스 합,1
+Eli Lilly,LLY,2024Q2,2024-06-28,분기말 시가총액,860496490886,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/LLY?interval=1d&events=splits (2024-06-28) ; https://www.sec.gov/Archives/edgar/data/59478/000005947824000187/,종가 905.38 × 주식수 950425778,1
+Eli Lilly,LLY,2024Q3,2024-09-30,분기별 매출액,11439100000,USD,공시,https://www.sec.gov/Archives/edgar/data/59478/000005947824000245/,,1
+Eli Lilly,LLY,2024Q3,2024-09-30,분기별 영업이익,미확인,USD,미확인,SEC companyfacts CIK0000059478: OperatingIncomeLoss 태그 없음(영업이익 미공시),,1
+Eli Lilly,LLY,2024Q3,2024-09-30,분기별 당기순이익(지배),970300000,USD,공시,https://www.sec.gov/Archives/edgar/data/59478/000005947824000245/,,1
+Eli Lilly,LLY,2024Q3,2024-09-30,분기별 영업활동현금흐름,3711900000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/59478/000005947824000245/ ; https://www.sec.gov/Archives/edgar/data/59478/000005947824000187/,누적 6344100000 − 직전누적 2632200000 (시작 2024-01-01),1
+Eli Lilly,LLY,2024Q3,2024-09-30,분기말 자산총계,75606900000,USD,공시,https://www.sec.gov/Archives/edgar/data/59478/000005947824000245/,,1
+Eli Lilly,LLY,2024Q3,2024-09-30,분기말 부채총계,61286200000,USD,계산(부채및자본-총자본),https://www.sec.gov/Archives/edgar/data/59478/000005947824000245/,부채및자본 75606900000 − 총자본 14320700000,1
+Eli Lilly,LLY,2024Q3,2024-09-30,분기말 총자본(자기자본),14320700000,USD,공시,https://www.sec.gov/Archives/edgar/data/59478/000005947824000245/,,1
+Eli Lilly,LLY,2024Q3,2024-09-30,분기말 지배지분 자본,14240000000,USD,공시,https://www.sec.gov/Archives/edgar/data/59478/000005947824000245/,,1
+Eli Lilly,LLY,2024Q3,2024-09-30,분기말 종가,885.94,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/LLY?interval=1d&events=splits (2024-09-30),,1
+Eli Lilly,LLY,2024Q3,2024-10-25,분기말 상장주식수,949315694,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/59478/000005947824000245/,dei:EntityCommonStockSharesOutstanding 클래스 합,1
+Eli Lilly,LLY,2024Q3,2024-09-30,분기말 시가총액,841036745942,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/LLY?interval=1d&events=splits (2024-09-30) ; https://www.sec.gov/Archives/edgar/data/59478/000005947824000245/,종가 885.94 × 주식수 949315694,1
+Eli Lilly,LLY,2024Q4,2024-12-31,분기별 매출액,13532800000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/59478/000005947825000067/ ; https://www.sec.gov/Archives/edgar/data/59478/000005947824000245/,연간 45042700000 − 9개월누적 31509900000 (Revenues),1
+Eli Lilly,LLY,2024Q4,2024-12-31,분기별 영업이익,미확인,USD,미확인,SEC companyfacts CIK0000059478: OperatingIncomeLoss 태그 없음(영업이익 미공시),,1
+Eli Lilly,LLY,2024Q4,2024-12-31,분기별 당기순이익(지배),4409800000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/59478/000005947825000067/ ; https://www.sec.gov/Archives/edgar/data/59478/000005947824000245/,연간 10590000000 − 9개월누적 6180200000 (NetIncomeLoss),1
+Eli Lilly,LLY,2024Q4,2024-12-31,분기별 영업활동현금흐름,2473800000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/59478/000005947825000067/ ; https://www.sec.gov/Archives/edgar/data/59478/000005947824000245/,누적 8817900000 − 직전누적 6344100000 (시작 2024-01-01),1
+Eli Lilly,LLY,2024Q4,2024-12-31,분기말 자산총계,78714900000,USD,공시,https://www.sec.gov/Archives/edgar/data/59478/000005947825000067/,,1
+Eli Lilly,LLY,2024Q4,2024-12-31,분기말 부채총계,64443300000,USD,계산(부채및자본-총자본),https://www.sec.gov/Archives/edgar/data/59478/000005947825000067/,부채및자본 78714900000 − 총자본 14271600000,1
+Eli Lilly,LLY,2024Q4,2024-12-31,분기말 총자본(자기자본),14271600000,USD,공시,https://www.sec.gov/Archives/edgar/data/59478/000005947825000067/,,1
+Eli Lilly,LLY,2024Q4,2024-12-31,분기말 지배지분 자본,14192100000,USD,공시,https://www.sec.gov/Archives/edgar/data/59478/000005947825000067/,,1
+Eli Lilly,LLY,2024Q4,2024-12-31,분기말 종가,772.0,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/LLY?interval=1d&events=splits (2024-12-31),,1
+Eli Lilly,LLY,2024Q4,2025-02-14,분기말 상장주식수,948169999,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/59478/000005947825000067/,dei:EntityCommonStockSharesOutstanding 클래스 합,1
+Eli Lilly,LLY,2024Q4,2024-12-31,분기말 시가총액,731987239228,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/LLY?interval=1d&events=splits (2024-12-31) ; https://www.sec.gov/Archives/edgar/data/59478/000005947825000067/,종가 772.0 × 주식수 948169999,1
+Eli Lilly,LLY,2025Q1,2025-03-31,분기별 매출액,12728500000,USD,공시,https://www.sec.gov/Archives/edgar/data/59478/000005947825000132/,,1
+Eli Lilly,LLY,2025Q1,2025-03-31,분기별 영업이익,미확인,USD,미확인,SEC companyfacts CIK0000059478: OperatingIncomeLoss 태그 없음(영업이익 미공시),,1
+Eli Lilly,LLY,2025Q1,2025-03-31,분기별 당기순이익(지배),2759300000,USD,공시,https://www.sec.gov/Archives/edgar/data/59478/000005947825000132/,,1
+Eli Lilly,LLY,2025Q1,2025-03-31,분기별 영업활동현금흐름,1665600000,USD,공시,https://www.sec.gov/Archives/edgar/data/59478/000005947825000132/,,1
+Eli Lilly,LLY,2025Q1,2025-03-31,분기말 자산총계,89388800000,USD,공시,https://www.sec.gov/Archives/edgar/data/59478/000005947825000132/,,1
+Eli Lilly,LLY,2025Q1,2025-03-31,분기말 부채총계,73542000000,USD,계산(부채및자본-총자본),https://www.sec.gov/Archives/edgar/data/59478/000005947825000132/,부채및자본 89388800000 − 총자본 15846800000,1
+Eli Lilly,LLY,2025Q1,2025-03-31,분기말 총자본(자기자본),15846800000,USD,공시,https://www.sec.gov/Archives/edgar/data/59478/000005947825000132/,,1
+Eli Lilly,LLY,2025Q1,2025-03-31,분기말 지배지분 자본,15764800000,USD,공시,https://www.sec.gov/Archives/edgar/data/59478/000005947825000132/,,1
+Eli Lilly,LLY,2025Q1,2025-03-31,분기말 종가,825.91,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/LLY?interval=1d&events=splits (2025-03-31),,1
+Eli Lilly,LLY,2025Q1,2025-04-28,분기말 상장주식수,947735651,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/59478/000005947825000132/,dei:EntityCommonStockSharesOutstanding 클래스 합,1
+Eli Lilly,LLY,2025Q1,2025-03-31,분기말 시가총액,782744351517,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/LLY?interval=1d&events=splits (2025-03-31) ; https://www.sec.gov/Archives/edgar/data/59478/000005947825000132/,종가 825.91 × 주식수 947735651,1
+Eli Lilly,LLY,2025Q2,2025-06-30,분기별 매출액,15557700000,USD,공시,https://www.sec.gov/Archives/edgar/data/59478/000005947825000204/,,1
+Eli Lilly,LLY,2025Q2,2025-06-30,분기별 영업이익,미확인,USD,미확인,SEC companyfacts CIK0000059478: OperatingIncomeLoss 태그 없음(영업이익 미공시),,1
+Eli Lilly,LLY,2025Q2,2025-06-30,분기별 당기순이익(지배),5660500000,USD,공시,https://www.sec.gov/Archives/edgar/data/59478/000005947825000204/,,1
+Eli Lilly,LLY,2025Q2,2025-06-30,분기별 영업활동현금흐름,3086900000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/59478/000005947825000204/ ; https://www.sec.gov/Archives/edgar/data/59478/000005947825000132/,누적 4752500000 − 직전누적 1665600000 (시작 2025-01-01),1
+Eli Lilly,LLY,2025Q2,2025-06-30,분기말 자산총계,100922600000,USD,공시,https://www.sec.gov/Archives/edgar/data/59478/000005947825000204/,,1
+Eli Lilly,LLY,2025Q2,2025-06-30,분기말 부채총계,82573500000,USD,계산(부채및자본-총자본),https://www.sec.gov/Archives/edgar/data/59478/000005947825000204/,부채및자본 100922600000 − 총자본 18349100000,1
+Eli Lilly,LLY,2025Q2,2025-06-30,분기말 총자본(자기자본),18349100000,USD,공시,https://www.sec.gov/Archives/edgar/data/59478/000005947825000204/,,1
+Eli Lilly,LLY,2025Q2,2025-06-30,분기말 지배지분 자본,18272900000,USD,공시,https://www.sec.gov/Archives/edgar/data/59478/000005947825000204/,,1
+Eli Lilly,LLY,2025Q2,2025-06-30,분기말 종가,779.53,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/LLY?interval=1d&events=splits (2025-06-30),,1
+Eli Lilly,LLY,2025Q2,2025-08-04,분기말 상장주식수,946456759,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/59478/000005947825000204/,dei:EntityCommonStockSharesOutstanding 클래스 합,1
+Eli Lilly,LLY,2025Q2,2025-06-30,분기말 시가총액,737791437343,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/LLY?interval=1d&events=splits (2025-06-30) ; https://www.sec.gov/Archives/edgar/data/59478/000005947825000204/,종가 779.53 × 주식수 946456759,1
+Eli Lilly,LLY,2025Q3,2025-09-30,분기별 매출액,17600800000,USD,공시,https://www.sec.gov/Archives/edgar/data/59478/000005947825000254/,,1
+Eli Lilly,LLY,2025Q3,2025-09-30,분기별 영업이익,미확인,USD,미확인,SEC companyfacts CIK0000059478: OperatingIncomeLoss 태그 없음(영업이익 미공시),,1
+Eli Lilly,LLY,2025Q3,2025-09-30,분기별 당기순이익(지배),5582500000,USD,공시,https://www.sec.gov/Archives/edgar/data/59478/000005947825000254/,,1
+Eli Lilly,LLY,2025Q3,2025-09-30,분기별 영업활동현금흐름,8835900000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/59478/000005947825000254/ ; https://www.sec.gov/Archives/edgar/data/59478/000005947825000204/,누적 13588400000 − 직전누적 4752500000 (시작 2025-01-01),1
+Eli Lilly,LLY,2025Q3,2025-09-30,분기말 자산총계,114935400000,USD,공시,https://www.sec.gov/Archives/edgar/data/59478/000005947825000254/,,1
+Eli Lilly,LLY,2025Q3,2025-09-30,분기말 부채총계,91084600000,USD,계산(부채및자본-총자본),https://www.sec.gov/Archives/edgar/data/59478/000005947825000254/,부채및자본 114935400000 − 총자본 23850800000,1
+Eli Lilly,LLY,2025Q3,2025-09-30,분기말 총자본(자기자본),23850800000,USD,공시,https://www.sec.gov/Archives/edgar/data/59478/000005947825000254/,,1
+Eli Lilly,LLY,2025Q3,2025-09-30,분기말 지배지분 자본,23793300000,USD,공시,https://www.sec.gov/Archives/edgar/data/59478/000005947825000254/,,1
+Eli Lilly,LLY,2025Q3,2025-09-30,분기말 종가,763.0,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/LLY?interval=1d&events=splits (2025-09-30),,1
+Eli Lilly,LLY,2025Q3,2025-10-27,분기말 상장주식수,945383757,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/59478/000005947825000254/,dei:EntityCommonStockSharesOutstanding 클래스 합,1
+Eli Lilly,LLY,2025Q3,2025-09-30,분기말 시가총액,721327806591,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/LLY?interval=1d&events=splits (2025-09-30) ; https://www.sec.gov/Archives/edgar/data/59478/000005947825000254/,종가 763.0 × 주식수 945383757,1
+Eli Lilly,LLY,2025Q4,2025-12-31,분기별 매출액,19292000000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/59478/000005947826000013/ ; https://www.sec.gov/Archives/edgar/data/59478/000005947825000254/,연간 65179000000 − 9개월누적 45887000000 (Revenues),1
+Eli Lilly,LLY,2025Q4,2025-12-31,분기별 영업이익,미확인,USD,미확인,SEC companyfacts CIK0000059478: OperatingIncomeLoss 태그 없음(영업이익 미공시),,1
+Eli Lilly,LLY,2025Q4,2025-12-31,분기별 당기순이익(지배),6637700000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/59478/000005947826000013/ ; https://www.sec.gov/Archives/edgar/data/59478/000005947825000254/,연간 20640000000 − 9개월누적 14002300000 (NetIncomeLoss),1
+Eli Lilly,LLY,2025Q4,2025-12-31,분기별 영업활동현금흐름,3224600000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/59478/000005947826000013/ ; https://www.sec.gov/Archives/edgar/data/59478/000005947825000254/,누적 16813000000 − 직전누적 13588400000 (시작 2025-01-01),1
+Eli Lilly,LLY,2025Q4,2025-12-31,분기말 자산총계,112476000000,USD,공시,https://www.sec.gov/Archives/edgar/data/59478/000005947826000013/,,1
+Eli Lilly,LLY,2025Q4,2025-12-31,분기말 부채총계,85941000000,USD,계산(부채및자본-총자본),https://www.sec.gov/Archives/edgar/data/59478/000005947826000013/,부채및자본 112476000000 − 총자본 26535000000,1
+Eli Lilly,LLY,2025Q4,2025-12-31,분기말 총자본(자기자본),26535000000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/59478/000005947826000013/,"StockholdersEquity, MinorityInterest 태그 없음",1
+Eli Lilly,LLY,2025Q4,2025-12-31,분기말 지배지분 자본,26535000000,USD,공시,https://www.sec.gov/Archives/edgar/data/59478/000005947826000013/,,1
+Eli Lilly,LLY,2025Q4,2025-12-31,분기말 종가,1074.6801,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/LLY?interval=1d&events=splits (2025-12-31),,1
+Eli Lilly,LLY,2025Q4,2026-02-09,분기말 상장주식수,943357420,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/59478/000005947826000013/,dei:EntityCommonStockSharesOutstanding 클래스 합,1
+Eli Lilly,LLY,2025Q4,2025-12-31,분기말 시가총액,1013807446461,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/LLY?interval=1d&events=splits (2025-12-31) ; https://www.sec.gov/Archives/edgar/data/59478/000005947826000013/,종가 1074.6801 × 주식수 943357420,1
+Eli Lilly,LLY,2026Q1,2026-03-31,분기별 매출액,19799000000,USD,공시,https://www.sec.gov/Archives/edgar/data/59478/000005947826000045/,,1
+Eli Lilly,LLY,2026Q1,2026-03-31,분기별 영업이익,미확인,USD,미확인,SEC companyfacts CIK0000059478: OperatingIncomeLoss 태그 없음(영업이익 미공시),,1
+Eli Lilly,LLY,2026Q1,2026-03-31,분기별 당기순이익(지배),7396000000,USD,공시,https://www.sec.gov/Archives/edgar/data/59478/000005947826000045/,,1
+Eli Lilly,LLY,2026Q1,2026-03-31,분기별 영업활동현금흐름,5333000000,USD,공시,https://www.sec.gov/Archives/edgar/data/59478/000005947826000045/,,1
+Eli Lilly,LLY,2026Q1,2026-03-31,분기말 자산총계,116576000000,USD,공시,https://www.sec.gov/Archives/edgar/data/59478/000005947826000045/,,1
+Eli Lilly,LLY,2026Q1,2026-03-31,분기말 부채총계,85378000000,USD,계산(부채및자본-총자본),https://www.sec.gov/Archives/edgar/data/59478/000005947826000045/,부채및자본 116576000000 − 총자본 31198000000,1
+Eli Lilly,LLY,2026Q1,2026-03-31,분기말 총자본(자기자본),31198000000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/59478/000005947826000045/,"StockholdersEquity, MinorityInterest 태그 없음",1
+Eli Lilly,LLY,2026Q1,2026-03-31,분기말 지배지분 자본,31198000000,USD,공시,https://www.sec.gov/Archives/edgar/data/59478/000005947826000045/,,1
+Eli Lilly,LLY,2026Q1,2026-03-31,분기말 종가,919.77,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/LLY?interval=1d&events=splits (2026-03-31),,1
+Eli Lilly,LLY,2026Q1,2026-04-27,분기말 상장주식수,941741406,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/59478/000005947826000045/,dei:EntityCommonStockSharesOutstanding 클래스 합,1
+Eli Lilly,LLY,2026Q1,2026-03-31,분기말 시가총액,866185492997,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/LLY?interval=1d&events=splits (2026-03-31) ; https://www.sec.gov/Archives/edgar/data/59478/000005947826000045/,종가 919.77 × 주식수 941741406,1
+Eli Lilly,LLY,2026Q2,2026-06-30,분기별 매출액,22974000000,USD,공시,https://www.sec.gov/Archives/edgar/data/59478/000005947826000081/,,1
+Eli Lilly,LLY,2026Q2,2026-06-30,분기별 영업이익,미확인,USD,미확인,SEC companyfacts CIK0000059478: OperatingIncomeLoss 태그 없음(영업이익 미공시),,1
+Eli Lilly,LLY,2026Q2,2026-06-30,분기별 당기순이익(지배),7095000000,USD,공시,https://www.sec.gov/Archives/edgar/data/59478/000005947826000081/,,1
+Eli Lilly,LLY,2026Q2,2026-06-30,분기별 영업활동현금흐름,10690000000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/59478/000005947826000081/ ; https://www.sec.gov/Archives/edgar/data/59478/000005947826000045/,누적 16023000000 − 직전누적 5333000000 (시작 2026-01-01),1
+Eli Lilly,LLY,2026Q2,2026-06-30,분기말 자산총계,142283000000,USD,공시,https://www.sec.gov/Archives/edgar/data/59478/000005947826000081/,,1
+Eli Lilly,LLY,2026Q2,2026-06-30,분기말 부채총계,108404000000,USD,계산(부채및자본-총자본),https://www.sec.gov/Archives/edgar/data/59478/000005947826000081/,부채및자본 142283000000 − 총자본 33879000000,1
+Eli Lilly,LLY,2026Q2,2026-06-30,분기말 총자본(자기자본),33879000000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/59478/000005947826000081/,"StockholdersEquity, MinorityInterest 태그 없음",1
+Eli Lilly,LLY,2026Q2,2026-06-30,분기말 지배지분 자본,33879000000,USD,공시,https://www.sec.gov/Archives/edgar/data/59478/000005947826000081/,,1
+Eli Lilly,LLY,2026Q2,2026-06-30,분기말 종가,1199.4301,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/LLY?interval=1d&events=splits (2026-06-30),,1
+Eli Lilly,LLY,2026Q2,2026-08-03,분기말 상장주식수,941357065,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/59478/000005947826000081/,dei:EntityCommonStockSharesOutstanding 클래스 합,1
+Eli Lilly,LLY,2026Q2,2026-06-30,분기말 시가총액,1129091998609,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/LLY?interval=1d&events=splits (2026-06-30) ; https://www.sec.gov/Archives/edgar/data/59478/000005947826000081/,종가 1199.4301 × 주식수 941357065,1

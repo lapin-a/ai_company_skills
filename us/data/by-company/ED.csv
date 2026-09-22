@@ -1,0 +1,727 @@
+﻿기업,종목코드,기간,기준일,항목,값,통화,값구분,출처,검산,라운드
+Consolidated Edison,ED,2010Q1,2010-03-31,분기별 매출액,3462000000,USD,공시(후속 보고서 비교기간),https://www.sec.gov/Archives/edgar/data/1047862/000119312511128674/,Revenues ; 그 분기 보고서에 연결 총계가 없어 2011-05-05 제출본의 비교기간에서 읽었다,12
+Consolidated Edison,ED,2010Q1,2010-03-31,분기별 영업이익,492000000,USD,공시(후속 보고서 비교기간),https://www.sec.gov/Archives/edgar/data/1047862/000119312511128674/,OperatingIncomeLoss ; 그 분기 보고서에 연결 총계가 없어 2011-05-05 제출본의 비교기간에서 읽었다,12
+Consolidated Edison,ED,2010Q1,2010-03-31,분기별 당기순이익(지배),229000000,USD,공시(후속 보고서 비교기간),https://www.sec.gov/Archives/edgar/data/1047862/000119312511128674/,NetIncomeLoss ; 그 분기 보고서에 연결 총계가 없어 2011-05-05 제출본의 비교기간에서 읽었다,12
+Consolidated Edison,ED,2010Q1,2010-03-31,분기별 영업활동현금흐름,미확인,USD,미확인,https://www.sec.gov/Archives/edgar/data/1047862/000119312510111161/,,12
+Consolidated Edison,ED,2010Q1,2010-03-31,분기말 자산총계,미확인,USD,미확인,https://www.sec.gov/Archives/edgar/data/1047862/000119312510111161/,,12
+Consolidated Edison,ED,2010Q1,2010-03-31,분기말 부채총계,미확인,USD,미확인,https://www.sec.gov/Archives/edgar/data/1047862/000119312510111161/,,12
+Consolidated Edison,ED,2010Q1,2010-03-31,분기말 총자본(자기자본),미확인,USD,미확인,https://www.sec.gov/Archives/edgar/data/1047862/000119312510111161/,,12
+Consolidated Edison,ED,2010Q1,2010-03-31,분기말 지배지분 자본,미확인,USD,미확인,https://www.sec.gov/Archives/edgar/data/1047862/000119312510111161/,,12
+Consolidated Edison,ED,2010Q1,2010-03-31,분기말 종가,44.54,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/ED?interval=1d&events=splits (2010-03-31),,12
+Consolidated Edison,ED,2010Q1,2010-04-30,분기말 상장주식수,281970958,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/1047862/000119312510111161/,dei:EntityCommonStockSharesOutstanding 클래스 합 ; 값은 XBRL 원문(companyfacts 미반영 보고서),12
+Consolidated Edison,ED,2010Q1,2010-03-31,분기말 시가총액,12558986469,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/ED?interval=1d&events=splits (2010-03-31) ; https://www.sec.gov/Archives/edgar/data/1047862/000119312510111161/,종가 44.54 × 주식수 281970958 ; 값은 XBRL 원문(companyfacts 미반영 보고서),12
+Consolidated Edison,ED,2010Q2,2010-06-30,분기별 매출액,3017000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1047862/000119312510180706/,,12
+Consolidated Edison,ED,2010Q2,2010-06-30,분기별 영업이익,429000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1047862/000119312510180706/,,12
+Consolidated Edison,ED,2010Q2,2010-06-30,분기별 당기순이익(지배),186000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1047862/000119312510180706/,,12
+Consolidated Edison,ED,2010Q2,2010-06-30,분기별 영업활동현금흐름,데이터 없음(직전 분기 누적 보고서 없음),USD,데이터 없음(직전 보고서 없음),https://www.sec.gov/Archives/edgar/data/1047862/000119312510180706/,,12
+Consolidated Edison,ED,2010Q2,2010-06-30,분기말 자산총계,34389000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1047862/000119312510180706/,,12
+Consolidated Edison,ED,2010Q2,2010-06-30,분기말 부채총계,23796000000,USD,계산(부채및자본-총자본),https://www.sec.gov/Archives/edgar/data/1047862/000119312510180706/,부채및자본 34389000000 − 총자본 10593000000,12
+Consolidated Edison,ED,2010Q2,2010-06-30,분기말 총자본(자기자본),10593000000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/1047862/000119312510180706/,"StockholdersEquity, MinorityInterest 태그 없음",12
+Consolidated Edison,ED,2010Q2,2010-06-30,분기말 지배지분 자본,10593000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1047862/000119312510180706/,,12
+Consolidated Edison,ED,2010Q2,2010-06-30,분기말 종가,43.1,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/ED?interval=1d&events=splits (2010-06-30),,12
+Consolidated Edison,ED,2010Q2,2010-07-30,분기말 상장주식수,282632105,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/1047862/000119312510180706/,dei:EntityCommonStockSharesOutstanding 클래스 합,12
+Consolidated Edison,ED,2010Q2,2010-06-30,분기말 시가총액,12181443726,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/ED?interval=1d&events=splits (2010-06-30) ; https://www.sec.gov/Archives/edgar/data/1047862/000119312510180706/,종가 43.1 × 주식수 282632105,12
+Consolidated Edison,ED,2010Q3,2010-09-30,분기별 매출액,3707000000,USD,공시(후속 보고서 비교기간),https://www.sec.gov/Archives/edgar/data/1047862/000119312511295332/,Revenues ; 그 분기 보고서에 연결 총계가 없어 2011-11-03 제출본의 비교기간에서 읽었다,12
+Consolidated Edison,ED,2010Q3,2010-09-30,분기별 영업이익,705000000,USD,공시(후속 보고서 비교기간),https://www.sec.gov/Archives/edgar/data/1047862/000119312511295332/,OperatingIncomeLoss ; 그 분기 보고서에 연결 총계가 없어 2011-11-03 제출본의 비교기간에서 읽었다,12
+Consolidated Edison,ED,2010Q3,2010-09-30,분기별 당기순이익(지배),350000000,USD,공시(보통주 귀속),https://www.sec.gov/Archives/edgar/data/1047862/000119312510242050/,,12
+Consolidated Edison,ED,2010Q3,2010-09-30,분기별 영업활동현금흐름,미확인,USD,미확인,https://www.sec.gov/Archives/edgar/data/1047862/000119312510242050/,,12
+Consolidated Edison,ED,2010Q3,2010-09-30,분기말 자산총계,미확인,USD,미확인,https://www.sec.gov/Archives/edgar/data/1047862/000119312510242050/,,12
+Consolidated Edison,ED,2010Q3,2010-09-30,분기말 부채총계,미확인,USD,미확인,https://www.sec.gov/Archives/edgar/data/1047862/000119312510242050/,,12
+Consolidated Edison,ED,2010Q3,2010-09-30,분기말 총자본(자기자본),미확인,USD,미확인,https://www.sec.gov/Archives/edgar/data/1047862/000119312510242050/,,12
+Consolidated Edison,ED,2010Q3,2010-09-30,분기말 지배지분 자본,미확인,USD,미확인,https://www.sec.gov/Archives/edgar/data/1047862/000119312510242050/,,12
+Consolidated Edison,ED,2010Q3,2010-09-30,분기말 종가,48.22,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/ED?interval=1d&events=splits (2010-09-30),,12
+Consolidated Edison,ED,2010Q3,2010-10-27,분기말 상장주식수,290536094,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/1047862/000119312510242050/,dei:EntityCommonStockSharesOutstanding 클래스 합,12
+Consolidated Edison,ED,2010Q3,2010-09-30,분기말 시가총액,14009650453,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/ED?interval=1d&events=splits (2010-09-30) ; https://www.sec.gov/Archives/edgar/data/1047862/000119312510242050/,종가 48.22 × 주식수 290536094,12
+Consolidated Edison,ED,2010Q4,2010-12-31,분기별 매출액,미확인,USD,미확인,https://www.sec.gov/Archives/edgar/data/1047862/000119312511042145/,,12
+Consolidated Edison,ED,2010Q4,2010-12-31,분기별 영업이익,미확인,USD,미확인,https://www.sec.gov/Archives/edgar/data/1047862/000119312511042145/,,12
+Consolidated Edison,ED,2010Q4,2010-12-31,분기별 당기순이익(지배),미확인,USD,미확인,https://www.sec.gov/Archives/edgar/data/1047862/000119312511042145/,,12
+Consolidated Edison,ED,2010Q4,2010-12-31,분기별 영업활동현금흐름,미확인,USD,미확인,https://www.sec.gov/Archives/edgar/data/1047862/000119312511042145/,,12
+Consolidated Edison,ED,2010Q4,2010-12-31,분기말 자산총계,미확인,USD,미확인,https://www.sec.gov/Archives/edgar/data/1047862/000119312511042145/,,12
+Consolidated Edison,ED,2010Q4,2010-12-31,분기말 부채총계,미확인,USD,미확인,https://www.sec.gov/Archives/edgar/data/1047862/000119312511042145/,,12
+Consolidated Edison,ED,2010Q4,2010-12-31,분기말 총자본(자기자본),미확인,USD,미확인,https://www.sec.gov/Archives/edgar/data/1047862/000119312511042145/,,12
+Consolidated Edison,ED,2010Q4,2010-12-31,분기말 지배지분 자본,미확인,USD,미확인,https://www.sec.gov/Archives/edgar/data/1047862/000119312511042145/,,12
+Consolidated Edison,ED,2010Q4,2010-12-31,분기말 종가,49.57,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/ED?interval=1d&events=splits (2010-12-31),,12
+Consolidated Edison,ED,2010Q4,2011-01-31,분기말 상장주식수,291968911,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/1047862/000119312511042145/,dei:EntityCommonStockSharesOutstanding 클래스 합,12
+Consolidated Edison,ED,2010Q4,2010-12-31,분기말 시가총액,14472898918,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/ED?interval=1d&events=splits (2010-12-31) ; https://www.sec.gov/Archives/edgar/data/1047862/000119312511042145/,종가 49.57 × 주식수 291968911,12
+Consolidated Edison,ED,2011Q1,2011-03-31,분기별 매출액,3349000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1047862/000119312511128674/,,12
+Consolidated Edison,ED,2011Q1,2011-03-31,분기별 영업이익,626000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1047862/000119312511128674/,,12
+Consolidated Edison,ED,2011Q1,2011-03-31,분기별 당기순이익(지배),314000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1047862/000119312511128674/,,12
+Consolidated Edison,ED,2011Q1,2011-03-31,분기별 영업활동현금흐름,362000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1047862/000119312511128674/,,12
+Consolidated Edison,ED,2011Q1,2011-03-31,분기말 자산총계,36186000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1047862/000119312511128674/,,12
+Consolidated Edison,ED,2011Q1,2011-03-31,분기말 부채총계,24742000000,USD,계산(부채및자본-총자본),https://www.sec.gov/Archives/edgar/data/1047862/000119312511128674/,부채및자본 36186000000 − 총자본 11444000000,12
+Consolidated Edison,ED,2011Q1,2011-03-31,분기말 총자본(자기자본),11444000000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/1047862/000119312511128674/,"StockholdersEquity, MinorityInterest 태그 없음",12
+Consolidated Edison,ED,2011Q1,2011-03-31,분기말 지배지분 자본,11444000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1047862/000119312511128674/,,12
+Consolidated Edison,ED,2011Q1,2011-03-31,분기말 종가,50.72,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/ED?interval=1d&events=splits (2011-03-31),,12
+Consolidated Edison,ED,2011Q1,2011-04-29,분기말 상장주식수,292577516,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/1047862/000119312511128674/,dei:EntityCommonStockSharesOutstanding 클래스 합,12
+Consolidated Edison,ED,2011Q1,2011-03-31,분기말 시가총액,14839531612,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/ED?interval=1d&events=splits (2011-03-31) ; https://www.sec.gov/Archives/edgar/data/1047862/000119312511128674/,종가 50.72 × 주식수 292577516,12
+Consolidated Edison,ED,2011Q2,2011-06-30,분기별 매출액,2993000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1047862/000119312511210638/,,12
+Consolidated Edison,ED,2011Q2,2011-06-30,분기별 영업이익,398000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1047862/000119312511210638/,,12
+Consolidated Edison,ED,2011Q2,2011-06-30,분기별 당기순이익(지배),168000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1047862/000119312511210638/,,12
+Consolidated Edison,ED,2011Q2,2011-06-30,분기별 영업활동현금흐름,1227000000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/1047862/000119312511210638/ ; https://www.sec.gov/Archives/edgar/data/1047862/000119312511128674/,누적 1589000000 − 직전누적 362000000 (시작 2011-01-01),12
+Consolidated Edison,ED,2011Q2,2011-06-30,분기말 자산총계,36019000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1047862/000119312511210638/,,12
+Consolidated Edison,ED,2011Q2,2011-06-30,분기말 부채총계,24555000000,USD,계산(부채및자본-총자본),https://www.sec.gov/Archives/edgar/data/1047862/000119312511210638/,부채및자본 36019000000 − 총자본 11464000000,12
+Consolidated Edison,ED,2011Q2,2011-06-30,분기말 총자본(자기자본),11464000000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/1047862/000119312511210638/,"StockholdersEquity, MinorityInterest 태그 없음",12
+Consolidated Edison,ED,2011Q2,2011-06-30,분기말 지배지분 자본,11464000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1047862/000119312511210638/,,12
+Consolidated Edison,ED,2011Q2,2011-06-30,분기말 종가,53.24,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/ED?interval=1d&events=splits (2011-06-30),,12
+Consolidated Edison,ED,2011Q2,2011-07-29,분기말 상장주식수,292875896,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/1047862/000119312511210638/,dei:EntityCommonStockSharesOutstanding 클래스 합,12
+Consolidated Edison,ED,2011Q2,2011-06-30,분기말 시가총액,15592712703,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/ED?interval=1d&events=splits (2011-06-30) ; https://www.sec.gov/Archives/edgar/data/1047862/000119312511210638/,종가 53.24 × 주식수 292875896,12
+Consolidated Edison,ED,2011Q3,2011-09-30,분기별 매출액,3629000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1047862/000119312511295332/,,12
+Consolidated Edison,ED,2011Q3,2011-09-30,분기별 영업이익,756000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1047862/000119312511295332/,,12
+Consolidated Edison,ED,2011Q3,2011-09-30,분기별 당기순이익(지배),386000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1047862/000119312511295332/,,12
+Consolidated Edison,ED,2011Q3,2011-09-30,분기별 영업활동현금흐름,572000000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/1047862/000119312511295332/ ; https://www.sec.gov/Archives/edgar/data/1047862/000119312511210638/,누적 2161000000 − 직전누적 1589000000 (시작 2011-01-01),12
+Consolidated Edison,ED,2011Q3,2011-09-30,분기말 자산총계,36535000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1047862/000119312511295332/,,12
+Consolidated Edison,ED,2011Q3,2011-09-30,분기말 부채총계,24868000000,USD,계산(부채및자본-총자본),https://www.sec.gov/Archives/edgar/data/1047862/000119312511295332/,부채및자본 36535000000 − 총자본 11667000000,12
+Consolidated Edison,ED,2011Q3,2011-09-30,분기말 총자본(자기자본),11667000000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/1047862/000119312511295332/,"StockholdersEquity, MinorityInterest 태그 없음",12
+Consolidated Edison,ED,2011Q3,2011-09-30,분기말 지배지분 자본,11667000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1047862/000119312511295332/,,12
+Consolidated Edison,ED,2011Q3,2011-09-30,분기말 종가,57.02,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/ED?interval=1d&events=splits (2011-09-30),,12
+Consolidated Edison,ED,2011Q3,2011-10-28,분기말 상장주식수,292904646,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/1047862/000119312511295332/,dei:EntityCommonStockSharesOutstanding 클래스 합,12
+Consolidated Edison,ED,2011Q3,2011-09-30,분기말 시가총액,16701422915,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/ED?interval=1d&events=splits (2011-09-30) ; https://www.sec.gov/Archives/edgar/data/1047862/000119312511295332/,종가 57.02 × 주식수 292904646,12
+Consolidated Edison,ED,2011Q4,2011-12-31,분기별 매출액,2914000000,USD,계산(연간-3분기누적)(재작성 반영),https://www.sec.gov/Archives/edgar/data/1047862/000119312514061037/ ; https://www.sec.gov/Archives/edgar/data/1047862/000119312511295332/,연간 12886000000 − 9개월누적 9972000000 (Revenues) ; 원 공시 2966000000 (https://www.sec.gov/Archives/edgar/data/1047862/000119312512069828/ ; https://www.sec.gov/Archives/edgar/data/1047862/000119312511295332/),12
+Consolidated Edison,ED,2011Q4,2011-12-31,분기별 영업이익,458000000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/1047862/000119312512069828/ ; https://www.sec.gov/Archives/edgar/data/1047862/000119312511295332/,연간 2239000000 − 9개월누적 1781000000 (OperatingIncomeLoss),12
+Consolidated Edison,ED,2011Q4,2011-12-31,분기별 당기순이익(지배),193000000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/1047862/000119312512069828/ ; https://www.sec.gov/Archives/edgar/data/1047862/000119312511295332/,연간 1062000000 − 9개월누적 869000000 (NetIncomeLoss),12
+Consolidated Edison,ED,2011Q4,2011-12-31,분기별 영업활동현금흐름,976000000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/1047862/000119312512069828/ ; https://www.sec.gov/Archives/edgar/data/1047862/000119312511295332/,누적 3137000000 − 직전누적 2161000000 (시작 2011-01-01),12
+Consolidated Edison,ED,2011Q4,2011-12-31,분기말 자산총계,39214000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1047862/000119312512069828/,,12
+Consolidated Edison,ED,2011Q4,2011-12-31,분기말 부채총계,27565000000,USD,계산(부채및자본-총자본),https://www.sec.gov/Archives/edgar/data/1047862/000119312512069828/,부채및자본 39214000000 − 총자본 11649000000,12
+Consolidated Edison,ED,2011Q4,2011-12-31,분기말 총자본(자기자본),11649000000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/1047862/000119312512069828/,"StockholdersEquity, MinorityInterest 태그 없음",12
+Consolidated Edison,ED,2011Q4,2011-12-31,분기말 지배지분 자본,11649000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1047862/000119312512069828/,,12
+Consolidated Edison,ED,2011Q4,2011-12-30,분기말 종가,62.03,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/ED?interval=1d&events=splits (2011-12-30),,12
+Consolidated Edison,ED,2011Q4,2012-01-31,분기말 상장주식수,292880631,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/1047862/000119312512069828/,dei:EntityCommonStockSharesOutstanding 클래스 합,12
+Consolidated Edison,ED,2011Q4,2011-12-30,분기말 시가총액,18167385541,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/ED?interval=1d&events=splits (2011-12-30) ; https://www.sec.gov/Archives/edgar/data/1047862/000119312512069828/,종가 62.03 × 주식수 292880631,12
+Consolidated Edison,ED,2012Q1,2012-03-31,분기별 매출액,3078000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1047862/000119312512208781/,,12
+Consolidated Edison,ED,2012Q1,2012-03-31,분기별 영업이익,561000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1047862/000119312512208781/,,12
+Consolidated Edison,ED,2012Q1,2012-03-31,분기별 당기순이익(지배),280000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1047862/000119312512208781/,,12
+Consolidated Edison,ED,2012Q1,2012-03-31,분기별 영업활동현금흐름,402000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1047862/000119312512208781/,,12
+Consolidated Edison,ED,2012Q1,2012-03-31,분기말 자산총계,39701000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1047862/000119312512208781/,,12
+Consolidated Edison,ED,2012Q1,2012-03-31,분기말 부채총계,28156000000,USD,계산(부채및자본-총자본),https://www.sec.gov/Archives/edgar/data/1047862/000119312512208781/,부채및자본 39701000000 − 총자본 11545000000,12
+Consolidated Edison,ED,2012Q1,2012-03-31,분기말 총자본(자기자본),11545000000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/1047862/000119312512208781/,"StockholdersEquity, MinorityInterest 태그 없음",12
+Consolidated Edison,ED,2012Q1,2012-03-31,분기말 지배지분 자본,11545000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1047862/000119312512208781/,,12
+Consolidated Edison,ED,2012Q1,2012-03-30,분기말 종가,58.42,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/ED?interval=1d&events=splits (2012-03-30),,12
+Consolidated Edison,ED,2012Q1,2012-04-27,분기말 상장주식수,292904261,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/1047862/000119312512208781/,dei:EntityCommonStockSharesOutstanding 클래스 합,12
+Consolidated Edison,ED,2012Q1,2012-03-30,분기말 시가총액,17111466928,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/ED?interval=1d&events=splits (2012-03-30) ; https://www.sec.gov/Archives/edgar/data/1047862/000119312512208781/,종가 58.42 × 주식수 292904261,12
+Consolidated Edison,ED,2012Q2,2012-06-30,분기별 매출액,2771000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1047862/000119312512332148/,,12
+Consolidated Edison,ED,2012Q2,2012-06-30,분기별 영업이익,475000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1047862/000119312512332148/,,12
+Consolidated Edison,ED,2012Q2,2012-06-30,분기별 당기순이익(지배),214000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1047862/000119312512332148/,,12
+Consolidated Edison,ED,2012Q2,2012-06-30,분기별 영업활동현금흐름,845000000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/1047862/000119312512332148/ ; https://www.sec.gov/Archives/edgar/data/1047862/000119312512208781/,누적 1247000000 − 직전누적 402000000 (시작 2012-01-01),12
+Consolidated Edison,ED,2012Q2,2012-06-30,분기말 자산총계,40049000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1047862/000119312512332148/,,12
+Consolidated Edison,ED,2012Q2,2012-06-30,분기말 부채총계,28470000000,USD,계산(부채및자본-총자본),https://www.sec.gov/Archives/edgar/data/1047862/000119312512332148/,부채및자본 40049000000 − 총자본 11579000000,12
+Consolidated Edison,ED,2012Q2,2012-06-30,분기말 총자본(자기자본),11579000000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/1047862/000119312512332148/,"StockholdersEquity, MinorityInterest 태그 없음",12
+Consolidated Edison,ED,2012Q2,2012-06-30,분기말 지배지분 자본,11579000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1047862/000119312512332148/,,12
+Consolidated Edison,ED,2012Q2,2012-06-29,분기말 종가,62.19,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/ED?interval=1d&events=splits (2012-06-29),,12
+Consolidated Edison,ED,2012Q2,2012-07-31,분기말 상장주식수,292892396,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/1047862/000119312512332148/,dei:EntityCommonStockSharesOutstanding 클래스 합,12
+Consolidated Edison,ED,2012Q2,2012-06-29,분기말 시가총액,18214978107,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/ED?interval=1d&events=splits (2012-06-29) ; https://www.sec.gov/Archives/edgar/data/1047862/000119312512332148/,종가 62.19 × 주식수 292892396,12
+Consolidated Edison,ED,2012Q3,2012-09-30,분기별 매출액,3438000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1047862/000119312512452472/,,12
+Consolidated Edison,ED,2012Q3,2012-09-30,분기별 영업이익,851000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1047862/000119312512452472/,,12
+Consolidated Edison,ED,2012Q3,2012-09-30,분기별 당기순이익(지배),440000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1047862/000119312512452472/,,12
+Consolidated Edison,ED,2012Q3,2012-09-30,분기별 영업활동현금흐름,391000000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/1047862/000119312512452472/ ; https://www.sec.gov/Archives/edgar/data/1047862/000119312512332148/,누적 1638000000 − 직전누적 1247000000 (시작 2012-01-01),12
+Consolidated Edison,ED,2012Q3,2012-09-30,분기말 자산총계,39633000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1047862/000119312512452472/,,12
+Consolidated Edison,ED,2012Q3,2012-09-30,분기말 부채총계,27791000000,USD,계산(부채및자본-총자본),https://www.sec.gov/Archives/edgar/data/1047862/000119312512452472/,부채및자본 39633000000 − 총자본 11842000000,12
+Consolidated Edison,ED,2012Q3,2012-09-30,분기말 총자본(자기자본),11842000000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/1047862/000119312512452472/,"StockholdersEquity, MinorityInterest 태그 없음",12
+Consolidated Edison,ED,2012Q3,2012-09-30,분기말 지배지분 자본,11842000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1047862/000119312512452472/,,12
+Consolidated Edison,ED,2012Q3,2012-09-28,분기말 종가,59.89,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/ED?interval=1d&events=splits (2012-09-28),,12
+Consolidated Edison,ED,2012Q3,2012-10-31,분기말 상장주식수,292872896,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/1047862/000119312512452472/,dei:EntityCommonStockSharesOutstanding 클래스 합,12
+Consolidated Edison,ED,2012Q3,2012-09-28,분기말 시가총액,17540157741,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/ED?interval=1d&events=splits (2012-09-28) ; https://www.sec.gov/Archives/edgar/data/1047862/000119312512452472/,종가 59.89 × 주식수 292872896,12
+Consolidated Edison,ED,2012Q4,2012-12-31,분기별 매출액,2901000000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/1047862/000119312513069310/ ; https://www.sec.gov/Archives/edgar/data/1047862/000119312512452472/,연간 12188000000 − 9개월누적 9287000000 (Revenues),12
+Consolidated Edison,ED,2012Q4,2012-12-31,분기별 영업이익,453000000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/1047862/000119312513069310/ ; https://www.sec.gov/Archives/edgar/data/1047862/000119312512452472/,연간 2339000000 − 9개월누적 1886000000 (OperatingIncomeLoss),12
+Consolidated Edison,ED,2012Q4,2012-12-31,분기별 당기순이익(지배),207000000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/1047862/000119312513069310/ ; https://www.sec.gov/Archives/edgar/data/1047862/000119312512452472/,연간 1141000000 − 9개월누적 934000000 (NetIncomeLoss),12
+Consolidated Edison,ED,2012Q4,2012-12-31,분기별 영업활동현금흐름,961000000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/1047862/000119312513069310/ ; https://www.sec.gov/Archives/edgar/data/1047862/000119312512452472/,누적 2599000000 − 직전누적 1638000000 (시작 2012-01-01),12
+Consolidated Edison,ED,2012Q4,2012-12-31,분기말 자산총계,41209000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1047862/000119312513069310/,,12
+Consolidated Edison,ED,2012Q4,2012-12-31,분기말 부채총계,29340000000,USD,계산(부채및자본-총자본),https://www.sec.gov/Archives/edgar/data/1047862/000119312513069310/,부채및자본 41209000000 − 총자본 11869000000,12
+Consolidated Edison,ED,2012Q4,2012-12-31,분기말 총자본(자기자본),11869000000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/1047862/000119312513069310/,"StockholdersEquity, MinorityInterest 태그 없음",12
+Consolidated Edison,ED,2012Q4,2012-12-31,분기말 지배지분 자본,11869000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1047862/000119312513069310/,,12
+Consolidated Edison,ED,2012Q4,2012-12-31,분기말 종가,55.54,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/ED?interval=1d&events=splits (2012-12-31),,12
+Consolidated Edison,ED,2012Q4,2013-01-31,분기말 상장주식수,292877396,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/1047862/000119312513069310/,dei:EntityCommonStockSharesOutstanding 클래스 합,12
+Consolidated Edison,ED,2012Q4,2012-12-31,분기말 시가총액,16266410574,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/ED?interval=1d&events=splits (2012-12-31) ; https://www.sec.gov/Archives/edgar/data/1047862/000119312513069310/,종가 55.54 × 주식수 292877396,12
+Consolidated Edison,ED,2013Q1,2013-03-31,분기별 매출액,3184000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1047862/000119312513196382/,,12
+Consolidated Edison,ED,2013Q1,2013-03-31,분기별 영업이익,526000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1047862/000119312513196382/,,12
+Consolidated Edison,ED,2013Q1,2013-03-31,분기별 당기순이익(지배),192000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1047862/000119312513196382/,,12
+Consolidated Edison,ED,2013Q1,2013-03-31,분기별 영업활동현금흐름,-84000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1047862/000119312513196382/,,12
+Consolidated Edison,ED,2013Q1,2013-03-31,분기말 자산총계,미확인,USD,미확인,https://www.sec.gov/Archives/edgar/data/1047862/000119312513196382/,자체 검증 실패: 값을 만들지 못한 항목이 있다(자산·부채·총자본·지배지분 중 일부 태그 없음),12
+Consolidated Edison,ED,2013Q1,2013-03-31,분기말 부채총계,미확인,USD,미확인,https://www.sec.gov/Archives/edgar/data/1047862/000119312513196382/,,12
+Consolidated Edison,ED,2013Q1,2013-03-31,분기말 총자본(자기자본),미확인,USD,미확인,https://www.sec.gov/Archives/edgar/data/1047862/000119312513196382/,,12
+Consolidated Edison,ED,2013Q1,2013-03-31,분기말 지배지분 자본,미확인,USD,미확인,https://www.sec.gov/Archives/edgar/data/1047862/000119312513196382/,,12
+Consolidated Edison,ED,2013Q1,2013-03-28,분기말 종가,61.03,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/ED?interval=1d&events=splits (2013-03-28),,12
+Consolidated Edison,ED,2013Q1,2013-04-26,분기말 상장주식수,292894443,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/1047862/000119312513196382/,dei:EntityCommonStockSharesOutstanding 클래스 합,12
+Consolidated Edison,ED,2013Q1,2013-03-28,분기말 시가총액,17875347856,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/ED?interval=1d&events=splits (2013-03-28) ; https://www.sec.gov/Archives/edgar/data/1047862/000119312513196382/,종가 61.03 × 주식수 292894443,12
+Consolidated Edison,ED,2013Q2,2013-06-30,분기별 매출액,2818000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1047862/000119312513315248/,,12
+Consolidated Edison,ED,2013Q2,2013-06-30,분기별 영업이익,386000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1047862/000119312513315248/,,12
+Consolidated Edison,ED,2013Q2,2013-06-30,분기별 당기순이익(지배),172000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1047862/000119312513315248/,,12
+Consolidated Edison,ED,2013Q2,2013-06-30,분기별 영업활동현금흐름,1057000000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/1047862/000119312513315248/ ; https://www.sec.gov/Archives/edgar/data/1047862/000119312513196382/,누적 973000000 − 직전누적 -84000000 (시작 2013-01-01),12
+Consolidated Edison,ED,2013Q2,2013-06-30,분기말 자산총계,미확인,USD,미확인,https://www.sec.gov/Archives/edgar/data/1047862/000119312513315248/,자체 검증 실패: 값을 만들지 못한 항목이 있다(자산·부채·총자본·지배지분 중 일부 태그 없음),12
+Consolidated Edison,ED,2013Q2,2013-06-30,분기말 부채총계,미확인,USD,미확인,https://www.sec.gov/Archives/edgar/data/1047862/000119312513315248/,,12
+Consolidated Edison,ED,2013Q2,2013-06-30,분기말 총자본(자기자본),미확인,USD,미확인,https://www.sec.gov/Archives/edgar/data/1047862/000119312513315248/,,12
+Consolidated Edison,ED,2013Q2,2013-06-30,분기말 지배지분 자본,미확인,USD,미확인,https://www.sec.gov/Archives/edgar/data/1047862/000119312513315248/,,12
+Consolidated Edison,ED,2013Q2,2013-06-28,분기말 종가,58.31,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/ED?interval=1d&events=splits (2013-06-28),,12
+Consolidated Edison,ED,2013Q2,2013-07-26,분기말 상장주식수,292872896,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/1047862/000119312513315248/,dei:EntityCommonStockSharesOutstanding 클래스 합,12
+Consolidated Edison,ED,2013Q2,2013-06-28,분기말 시가총액,17077418566,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/ED?interval=1d&events=splits (2013-06-28) ; https://www.sec.gov/Archives/edgar/data/1047862/000119312513315248/,종가 58.31 × 주식수 292872896,12
+Consolidated Edison,ED,2013Q3,2013-09-30,분기별 매출액,3484000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1047862/000119312513425393/,,12
+Consolidated Edison,ED,2013Q3,2013-09-30,분기별 영업이익,855000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1047862/000119312513425393/,,12
+Consolidated Edison,ED,2013Q3,2013-09-30,분기별 당기순이익(지배),464000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1047862/000119312513425393/,,12
+Consolidated Edison,ED,2013Q3,2013-09-30,분기별 영업활동현금흐름,265000000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/1047862/000119312513425393/ ; https://www.sec.gov/Archives/edgar/data/1047862/000119312513315248/,누적 1238000000 − 직전누적 973000000 (시작 2013-01-01),12
+Consolidated Edison,ED,2013Q3,2013-09-30,분기말 자산총계,미확인,USD,미확인,https://www.sec.gov/Archives/edgar/data/1047862/000119312513425393/,자체 검증 실패: 값을 만들지 못한 항목이 있다(자산·부채·총자본·지배지분 중 일부 태그 없음),12
+Consolidated Edison,ED,2013Q3,2013-09-30,분기말 부채총계,미확인,USD,미확인,https://www.sec.gov/Archives/edgar/data/1047862/000119312513425393/,,12
+Consolidated Edison,ED,2013Q3,2013-09-30,분기말 총자본(자기자본),미확인,USD,미확인,https://www.sec.gov/Archives/edgar/data/1047862/000119312513425393/,,12
+Consolidated Edison,ED,2013Q3,2013-09-30,분기말 지배지분 자본,미확인,USD,미확인,https://www.sec.gov/Archives/edgar/data/1047862/000119312513425393/,,12
+Consolidated Edison,ED,2013Q3,2013-09-30,분기말 종가,55.14,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/ED?interval=1d&events=splits (2013-09-30),,12
+Consolidated Edison,ED,2013Q3,2013-10-30,분기말 상장주식수,292888192,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/1047862/000119312513425393/,dei:EntityCommonStockSharesOutstanding 클래스 합,12
+Consolidated Edison,ED,2013Q3,2013-09-30,분기말 시가총액,16149854907,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/ED?interval=1d&events=splits (2013-09-30) ; https://www.sec.gov/Archives/edgar/data/1047862/000119312513425393/,종가 55.14 × 주식수 292888192,12
+Consolidated Edison,ED,2013Q4,2013-12-31,분기별 매출액,2867000000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/1047862/000119312514061037/ ; https://www.sec.gov/Archives/edgar/data/1047862/000119312513425393/,연간 12354000000 − 9개월누적 9487000000 (Revenues),12
+Consolidated Edison,ED,2013Q4,2013-12-31,분기별 영업이익,477000000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/1047862/000119312514061037/ ; https://www.sec.gov/Archives/edgar/data/1047862/000119312513425393/,연간 2244000000 − 9개월누적 1767000000 (OperatingIncomeLoss),12
+Consolidated Edison,ED,2013Q4,2013-12-31,분기별 당기순이익(지배),234000000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/1047862/000119312514061037/ ; https://www.sec.gov/Archives/edgar/data/1047862/000119312513425393/,연간 1062000000 − 9개월누적 828000000 (NetIncomeLoss),12
+Consolidated Edison,ED,2013Q4,2013-12-31,분기별 영업활동현금흐름,1314000000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/1047862/000119312514061037/ ; https://www.sec.gov/Archives/edgar/data/1047862/000119312513425393/,누적 2552000000 − 직전누적 1238000000 (시작 2013-01-01),12
+Consolidated Edison,ED,2013Q4,2013-12-31,분기말 자산총계,미확인,USD,미확인,https://www.sec.gov/Archives/edgar/data/1047862/000119312514061037/,자체 검증 실패: 값을 만들지 못한 항목이 있다(자산·부채·총자본·지배지분 중 일부 태그 없음),12
+Consolidated Edison,ED,2013Q4,2013-12-31,분기말 부채총계,미확인,USD,미확인,https://www.sec.gov/Archives/edgar/data/1047862/000119312514061037/,,12
+Consolidated Edison,ED,2013Q4,2013-12-31,분기말 총자본(자기자본),미확인,USD,미확인,https://www.sec.gov/Archives/edgar/data/1047862/000119312514061037/,,12
+Consolidated Edison,ED,2013Q4,2013-12-31,분기말 지배지분 자본,미확인,USD,미확인,https://www.sec.gov/Archives/edgar/data/1047862/000119312514061037/,,12
+Consolidated Edison,ED,2013Q4,2013-12-31,분기말 종가,55.28,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/ED?interval=1d&events=splits (2013-12-31),,12
+Consolidated Edison,ED,2013Q4,2014-01-31,분기말 상장주식수,292902495,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/1047862/000119312514061037/,dei:EntityCommonStockSharesOutstanding 클래스 합,12
+Consolidated Edison,ED,2013Q4,2013-12-31,분기말 시가총액,16191649924,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/ED?interval=1d&events=splits (2013-12-31) ; https://www.sec.gov/Archives/edgar/data/1047862/000119312514061037/,종가 55.28 × 주식수 292902495,12
+Consolidated Edison,ED,2014Q1,2014-03-31,분기별 매출액,3789000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1047862/000119312514190303/,,12
+Consolidated Edison,ED,2014Q1,2014-03-31,분기별 영업이익,685000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1047862/000119312514190303/,,12
+Consolidated Edison,ED,2014Q1,2014-03-31,분기별 당기순이익(지배),361000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1047862/000119312514190303/,,12
+Consolidated Edison,ED,2014Q1,2014-03-31,분기별 영업활동현금흐름,224000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1047862/000119312514190303/,,12
+Consolidated Edison,ED,2014Q1,2014-03-31,분기말 자산총계,미확인,USD,미확인,https://www.sec.gov/Archives/edgar/data/1047862/000119312514190303/,자체 검증 실패: 값을 만들지 못한 항목이 있다(자산·부채·총자본·지배지분 중 일부 태그 없음),12
+Consolidated Edison,ED,2014Q1,2014-03-31,분기말 부채총계,미확인,USD,미확인,https://www.sec.gov/Archives/edgar/data/1047862/000119312514190303/,,12
+Consolidated Edison,ED,2014Q1,2014-03-31,분기말 총자본(자기자본),미확인,USD,미확인,https://www.sec.gov/Archives/edgar/data/1047862/000119312514190303/,,12
+Consolidated Edison,ED,2014Q1,2014-03-31,분기말 지배지분 자본,미확인,USD,미확인,https://www.sec.gov/Archives/edgar/data/1047862/000119312514190303/,,12
+Consolidated Edison,ED,2014Q1,2014-03-31,분기말 종가,53.65,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/ED?interval=1d&events=splits (2014-03-31),,12
+Consolidated Edison,ED,2014Q1,2014-05-02,분기말 상장주식수,292894192,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/1047862/000119312514190303/,dei:EntityCommonStockSharesOutstanding 클래스 합,12
+Consolidated Edison,ED,2014Q1,2014-03-31,분기말 시가총액,15713773401,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/ED?interval=1d&events=splits (2014-03-31) ; https://www.sec.gov/Archives/edgar/data/1047862/000119312514190303/,종가 53.65 × 주식수 292894192,12
+Consolidated Edison,ED,2014Q2,2014-06-30,분기별 매출액,2911000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1047862/000119312514300922/,,12
+Consolidated Edison,ED,2014Q2,2014-06-30,분기별 영업이익,455000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1047862/000119312514300922/,,12
+Consolidated Edison,ED,2014Q2,2014-06-30,분기별 당기순이익(지배),212000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1047862/000119312514300922/,,12
+Consolidated Edison,ED,2014Q2,2014-06-30,분기별 영업활동현금흐름,1033000000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/1047862/000119312514300922/ ; https://www.sec.gov/Archives/edgar/data/1047862/000119312514190303/,누적 1257000000 − 직전누적 224000000 (시작 2014-01-01),12
+Consolidated Edison,ED,2014Q2,2014-06-30,분기말 자산총계,40311000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1047862/000119312514300922/,,12
+Consolidated Edison,ED,2014Q2,2014-06-30,분기말 부채총계,27856000000,USD,계산(부채및자본-총자본),https://www.sec.gov/Archives/edgar/data/1047862/000119312514300922/,부채및자본 40311000000 − 총자본 12455000000,12
+Consolidated Edison,ED,2014Q2,2014-06-30,분기말 총자본(자기자본),12455000000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/1047862/000119312514300922/,"StockholdersEquity, MinorityInterest 태그 없음",12
+Consolidated Edison,ED,2014Q2,2014-06-30,분기말 지배지분 자본,12455000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1047862/000119312514300922/,,12
+Consolidated Edison,ED,2014Q2,2014-06-30,분기말 종가,57.74,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/ED?interval=1d&events=splits (2014-06-30),,12
+Consolidated Edison,ED,2014Q2,2014-07-31,분기말 상장주식수,292885004,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/1047862/000119312514300922/,dei:EntityCommonStockSharesOutstanding 클래스 합,12
+Consolidated Edison,ED,2014Q2,2014-06-30,분기말 시가총액,16911180131,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/ED?interval=1d&events=splits (2014-06-30) ; https://www.sec.gov/Archives/edgar/data/1047862/000119312514300922/,종가 57.74 × 주식수 292885004,12
+Consolidated Edison,ED,2014Q3,2014-09-30,분기별 매출액,3390000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1047862/000119312514401232/,,12
+Consolidated Edison,ED,2014Q3,2014-09-30,분기별 영업이익,819000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1047862/000119312514401232/,,12
+Consolidated Edison,ED,2014Q3,2014-09-30,분기별 당기순이익(지배),436000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1047862/000119312514401232/,,12
+Consolidated Edison,ED,2014Q3,2014-09-30,분기별 영업활동현금흐름,494000000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/1047862/000119312514401232/ ; https://www.sec.gov/Archives/edgar/data/1047862/000119312514300922/,누적 1751000000 − 직전누적 1257000000 (시작 2014-01-01),12
+Consolidated Edison,ED,2014Q3,2014-09-30,분기말 자산총계,40667000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1047862/000119312514401232/,,12
+Consolidated Edison,ED,2014Q3,2014-09-30,분기말 부채총계,27951000000,USD,계산(부채및자본-총자본),https://www.sec.gov/Archives/edgar/data/1047862/000119312514401232/,부채및자본 40667000000 − 총자본 12716000000,12
+Consolidated Edison,ED,2014Q3,2014-09-30,분기말 총자본(자기자본),12716000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1047862/000119312514401232/,,12
+Consolidated Edison,ED,2014Q3,2014-09-30,분기말 지배지분 자본,12707000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1047862/000119312514401232/,,12
+Consolidated Edison,ED,2014Q3,2014-09-30,분기말 종가,56.66,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/ED?interval=1d&events=splits (2014-09-30),,12
+Consolidated Edison,ED,2014Q3,2014-10-31,분기말 상장주식수,292887896,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/1047862/000119312514401232/,dei:EntityCommonStockSharesOutstanding 클래스 합,12
+Consolidated Edison,ED,2014Q3,2014-09-30,분기말 시가총액,16595028187,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/ED?interval=1d&events=splits (2014-09-30) ; https://www.sec.gov/Archives/edgar/data/1047862/000119312514401232/,종가 56.66 × 주식수 292887896,12
+Consolidated Edison,ED,2014Q4,2014-12-31,분기별 매출액,2828000000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/1047862/000119312515054350/ ; https://www.sec.gov/Archives/edgar/data/1047862/000119312514401232/,연간 12919000000 − 9개월누적 10091000000 (Revenues),12
+Consolidated Edison,ED,2014Q4,2014-12-31,분기별 영업이익,250000000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/1047862/000119312515054350/ ; https://www.sec.gov/Archives/edgar/data/1047862/000119312514401232/,연간 2209000000 − 9개월누적 1959000000 (OperatingIncomeLoss),12
+Consolidated Edison,ED,2014Q4,2014-12-31,분기별 당기순이익(지배),82000000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/1047862/000119312515054350/ ; https://www.sec.gov/Archives/edgar/data/1047862/000119312514401232/,연간 1092000000 − 9개월누적 1010000000 (NetIncomeLoss),12
+Consolidated Edison,ED,2014Q4,2014-12-31,분기별 영업활동현금흐름,1080000000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/1047862/000119312515054350/ ; https://www.sec.gov/Archives/edgar/data/1047862/000119312514401232/,누적 2831000000 − 직전누적 1751000000 (시작 2014-01-01),12
+Consolidated Edison,ED,2014Q4,2014-12-31,분기말 자산총계,44071000000,USD,공시(재작성 반영),https://www.sec.gov/Archives/edgar/data/1047862/000104786217000029/,원 공시 44308000000 (https://www.sec.gov/Archives/edgar/data/1047862/000119312515054350/),12
+Consolidated Edison,ED,2014Q4,2014-12-31,분기말 부채총계,31486000000,USD,계산(부채및자본-총자본)(재작성 반영),https://www.sec.gov/Archives/edgar/data/1047862/000104786216000225/,부채및자본 44071000000 − 총자본 12585000000 ; 원 공시 31723000000 (https://www.sec.gov/Archives/edgar/data/1047862/000119312515054350/),12
+Consolidated Edison,ED,2014Q4,2014-12-31,분기말 총자본(자기자본),12585000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1047862/000119312515054350/,,12
+Consolidated Edison,ED,2014Q4,2014-12-31,분기말 지배지분 자본,12576000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1047862/000119312515054350/,,12
+Consolidated Edison,ED,2014Q4,2014-12-31,분기말 종가,66.01,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/ED?interval=1d&events=splits (2014-12-31),,12
+Consolidated Edison,ED,2014Q4,2015-01-30,분기말 상장주식수,292888812,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/1047862/000119312515054350/,dei:EntityCommonStockSharesOutstanding 클래스 합,12
+Consolidated Edison,ED,2014Q4,2014-12-31,분기말 시가총액,19333590480,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/ED?interval=1d&events=splits (2014-12-31) ; https://www.sec.gov/Archives/edgar/data/1047862/000119312515054350/,종가 66.01 × 주식수 292888812,12
+Consolidated Edison,ED,2015Q1,2015-03-31,분기별 매출액,3616000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1047862/000119312515177335/,,12
+Consolidated Edison,ED,2015Q1,2015-03-31,분기별 영업이익,726000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1047862/000119312515177335/,,12
+Consolidated Edison,ED,2015Q1,2015-03-31,분기별 당기순이익(지배),370000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1047862/000119312515177335/,,12
+Consolidated Edison,ED,2015Q1,2015-03-31,분기별 영업활동현금흐름,559000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1047862/000119312515177335/,,12
+Consolidated Edison,ED,2015Q1,2015-03-31,분기말 자산총계,43977000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1047862/000119312515177335/,,12
+Consolidated Edison,ED,2015Q1,2015-03-31,분기말 부채총계,31207000000,USD,계산(부채및자본-총자본),https://www.sec.gov/Archives/edgar/data/1047862/000119312515177335/,부채및자본 43977000000 − 총자본 12770000000,12
+Consolidated Edison,ED,2015Q1,2015-03-31,분기말 총자본(자기자본),12770000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1047862/000119312515177335/,,12
+Consolidated Edison,ED,2015Q1,2015-03-31,분기말 지배지분 자본,12761000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1047862/000119312515177335/,,12
+Consolidated Edison,ED,2015Q1,2015-03-31,분기말 종가,61.0,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/ED?interval=1d&events=splits (2015-03-31),,12
+Consolidated Edison,ED,2015Q1,2015-04-30,분기말 상장주식수,292877149,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/1047862/000119312515177335/,dei:EntityCommonStockSharesOutstanding 클래스 합,12
+Consolidated Edison,ED,2015Q1,2015-03-31,분기말 시가총액,17865506089,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/ED?interval=1d&events=splits (2015-03-31) ; https://www.sec.gov/Archives/edgar/data/1047862/000119312515177335/,종가 61.0 × 주식수 292877149,12
+Consolidated Edison,ED,2015Q2,2015-06-30,분기별 매출액,2788000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1047862/000162828015006240/,,12
+Consolidated Edison,ED,2015Q2,2015-06-30,분기별 영업이익,472000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1047862/000162828015006240/,,12
+Consolidated Edison,ED,2015Q2,2015-06-30,분기별 당기순이익(지배),219000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1047862/000162828015006240/,,12
+Consolidated Edison,ED,2015Q2,2015-06-30,분기별 영업활동현금흐름,927000000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/1047862/000162828015006240/ ; https://www.sec.gov/Archives/edgar/data/1047862/000119312515177335/,누적 1486000000 − 직전누적 559000000 (시작 2015-01-01),12
+Consolidated Edison,ED,2015Q2,2015-06-30,분기말 자산총계,44751000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1047862/000162828015006240/,,12
+Consolidated Edison,ED,2015Q2,2015-06-30,분기말 부채총계,31954000000,USD,계산(부채및자본-총자본),https://www.sec.gov/Archives/edgar/data/1047862/000162828015006240/,부채및자본 44751000000 − 총자본 12797000000,12
+Consolidated Edison,ED,2015Q2,2015-06-30,분기말 총자본(자기자본),12797000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1047862/000162828015006240/,,12
+Consolidated Edison,ED,2015Q2,2015-06-30,분기말 지배지분 자본,12788000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1047862/000162828015006240/,,12
+Consolidated Edison,ED,2015Q2,2015-06-30,분기말 종가,57.88,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/ED?interval=1d&events=splits (2015-06-30),,12
+Consolidated Edison,ED,2015Q2,2015-07-31,분기말 상장주식수,292877149,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/1047862/000162828015006240/,dei:EntityCommonStockSharesOutstanding 클래스 합,12
+Consolidated Edison,ED,2015Q2,2015-06-30,분기말 시가총액,16951729384,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/ED?interval=1d&events=splits (2015-06-30) ; https://www.sec.gov/Archives/edgar/data/1047862/000162828015006240/,종가 57.88 × 주식수 292877149,12
+Consolidated Edison,ED,2015Q3,2015-09-30,분기별 매출액,3443000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1047862/000104786215000166/,,12
+Consolidated Edison,ED,2015Q3,2015-09-30,분기별 영업이익,830000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1047862/000104786215000166/,,12
+Consolidated Edison,ED,2015Q3,2015-09-30,분기별 당기순이익(지배),428000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1047862/000104786215000166/,,12
+Consolidated Edison,ED,2015Q3,2015-09-30,분기별 영업활동현금흐름,713000000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/1047862/000104786215000166/ ; https://www.sec.gov/Archives/edgar/data/1047862/000162828015006240/,누적 2199000000 − 직전누적 1486000000 (시작 2015-01-01),12
+Consolidated Edison,ED,2015Q3,2015-09-30,분기말 자산총계,44971000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1047862/000104786215000166/,,12
+Consolidated Edison,ED,2015Q3,2015-09-30,분기말 부채총계,31922000000,USD,계산(부채및자본-총자본),https://www.sec.gov/Archives/edgar/data/1047862/000104786215000166/,부채및자본 44971000000 − 총자본 13049000000,12
+Consolidated Edison,ED,2015Q3,2015-09-30,분기말 총자본(자기자본),13049000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1047862/000104786215000166/,,12
+Consolidated Edison,ED,2015Q3,2015-09-30,분기말 지배지분 자본,13040000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1047862/000104786215000166/,,12
+Consolidated Edison,ED,2015Q3,2015-09-30,분기말 종가,66.85,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/ED?interval=1d&events=splits (2015-09-30),,12
+Consolidated Edison,ED,2015Q3,2015-10-30,분기말 상장주식수,293192258,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/1047862/000104786215000166/,dei:EntityCommonStockSharesOutstanding 클래스 합,12
+Consolidated Edison,ED,2015Q3,2015-09-30,분기말 시가총액,19599902447,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/ED?interval=1d&events=splits (2015-09-30) ; https://www.sec.gov/Archives/edgar/data/1047862/000104786215000166/,종가 66.85 × 주식수 293192258,12
+Consolidated Edison,ED,2015Q4,2015-12-31,분기별 매출액,2707000000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/1047862/000104786216000225/ ; https://www.sec.gov/Archives/edgar/data/1047862/000104786215000166/,연간 12554000000 − 9개월누적 9847000000 (Revenues),12
+Consolidated Edison,ED,2015Q4,2015-12-31,분기별 영업이익,399000000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/1047862/000104786216000225/ ; https://www.sec.gov/Archives/edgar/data/1047862/000104786215000166/,연간 2427000000 − 9개월누적 2028000000 (OperatingIncomeLoss),12
+Consolidated Edison,ED,2015Q4,2015-12-31,분기별 당기순이익(지배),176000000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/1047862/000104786216000225/ ; https://www.sec.gov/Archives/edgar/data/1047862/000104786215000166/,연간 1193000000 − 9개월누적 1017000000 (NetIncomeLoss),12
+Consolidated Edison,ED,2015Q4,2015-12-31,분기별 영업활동현금흐름,1078000000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/1047862/000104786216000225/ ; https://www.sec.gov/Archives/edgar/data/1047862/000104786215000166/,누적 3277000000 − 직전누적 2199000000 (시작 2015-01-01),12
+Consolidated Edison,ED,2015Q4,2015-12-31,분기말 자산총계,45642000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1047862/000104786216000225/,,12
+Consolidated Edison,ED,2015Q4,2015-12-31,분기말 부채총계,32581000000,USD,계산(부채및자본-총자본),https://www.sec.gov/Archives/edgar/data/1047862/000104786216000225/,부채및자본 45642000000 − 총자본 13061000000,12
+Consolidated Edison,ED,2015Q4,2015-12-31,분기말 총자본(자기자본),13061000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1047862/000104786216000225/,,12
+Consolidated Edison,ED,2015Q4,2015-12-31,분기말 지배지분 자본,13052000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1047862/000104786216000225/,,12
+Consolidated Edison,ED,2015Q4,2015-12-31,분기말 종가,64.27,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/ED?interval=1d&events=splits (2015-12-31),,12
+Consolidated Edison,ED,2015Q4,2016-01-29,분기말 상장주식수,293589401,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/1047862/000104786216000225/,dei:EntityCommonStockSharesOutstanding 클래스 합,12
+Consolidated Edison,ED,2015Q4,2015-12-31,분기말 시가총액,18868990802,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/ED?interval=1d&events=splits (2015-12-31) ; https://www.sec.gov/Archives/edgar/data/1047862/000104786216000225/,종가 64.27 × 주식수 293589401,12
+Consolidated Edison,ED,2016Q1,2016-03-31,분기별 매출액,3156000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1047862/000104786216000269/,,12
+Consolidated Edison,ED,2016Q1,2016-03-31,분기별 영업이익,642000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1047862/000104786216000269/,,12
+Consolidated Edison,ED,2016Q1,2016-03-31,분기별 당기순이익(지배),310000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1047862/000104786216000269/,,12
+Consolidated Edison,ED,2016Q1,2016-03-31,분기별 영업활동현금흐름,524000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1047862/000104786216000269/,,12
+Consolidated Edison,ED,2016Q1,2016-03-31,분기말 자산총계,45580000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1047862/000104786216000269/,,12
+Consolidated Edison,ED,2016Q1,2016-03-31,분기말 부채총계,32379000000,USD,계산(부채및자본-총자본),https://www.sec.gov/Archives/edgar/data/1047862/000104786216000269/,부채및자본 45580000000 − 총자본 13201000000,12
+Consolidated Edison,ED,2016Q1,2016-03-31,분기말 총자본(자기자본),13201000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1047862/000104786216000269/,,12
+Consolidated Edison,ED,2016Q1,2016-03-31,분기말 지배지분 자본,13193000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1047862/000104786216000269/,,12
+Consolidated Edison,ED,2016Q1,2016-03-31,분기말 종가,76.62,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/ED?interval=1d&events=splits (2016-03-31),,12
+Consolidated Edison,ED,2016Q1,2016-04-29,분기말 상장주식수,293996588,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/1047862/000104786216000269/,dei:EntityCommonStockSharesOutstanding 클래스 합,12
+Consolidated Edison,ED,2016Q1,2016-03-31,분기말 시가총액,22526018573,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/ED?interval=1d&events=splits (2016-03-31) ; https://www.sec.gov/Archives/edgar/data/1047862/000104786216000269/,종가 76.62 × 주식수 293996588,12
+Consolidated Edison,ED,2016Q2,2016-06-30,분기별 매출액,2794000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1047862/000104786216000332/,,12
+Consolidated Edison,ED,2016Q2,2016-06-30,분기별 영업이익,515000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1047862/000104786216000332/,,12
+Consolidated Edison,ED,2016Q2,2016-06-30,분기별 당기순이익(지배),232000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1047862/000104786216000332/,,12
+Consolidated Edison,ED,2016Q2,2016-06-30,분기별 영업활동현금흐름,1107000000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/1047862/000104786216000332/ ; https://www.sec.gov/Archives/edgar/data/1047862/000104786216000269/,누적 1631000000 − 직전누적 524000000 (시작 2016-01-01),12
+Consolidated Edison,ED,2016Q2,2016-06-30,분기말 자산총계,47270000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1047862/000104786216000332/,,12
+Consolidated Edison,ED,2016Q2,2016-06-30,분기말 부채총계,33312000000,USD,계산(부채및자본-총자본),https://www.sec.gov/Archives/edgar/data/1047862/000104786216000332/,부채및자본 47270000000 − 총자본 13958000000,12
+Consolidated Edison,ED,2016Q2,2016-06-30,분기말 총자본(자기자본),13958000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1047862/000104786216000332/,,12
+Consolidated Edison,ED,2016Q2,2016-06-30,분기말 지배지분 자본,13950000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1047862/000104786216000332/,,12
+Consolidated Edison,ED,2016Q2,2016-06-30,분기말 종가,80.44,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/ED?interval=1d&events=splits (2016-06-30),,12
+Consolidated Edison,ED,2016Q2,2016-07-29,분기말 상장주식수,304414974,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/1047862/000104786216000332/,dei:EntityCommonStockSharesOutstanding 클래스 합,12
+Consolidated Edison,ED,2016Q2,2016-06-30,분기말 시가총액,24487140509,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/ED?interval=1d&events=splits (2016-06-30) ; https://www.sec.gov/Archives/edgar/data/1047862/000104786216000332/,종가 80.44 × 주식수 304414974,12
+Consolidated Edison,ED,2016Q3,2016-09-30,분기별 매출액,3417000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1047862/000104786216000377/,,12
+Consolidated Edison,ED,2016Q3,2016-09-30,분기별 영업이익,940000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1047862/000104786216000377/,,12
+Consolidated Edison,ED,2016Q3,2016-09-30,분기별 당기순이익(지배),497000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1047862/000104786216000377/,,12
+Consolidated Edison,ED,2016Q3,2016-09-30,분기별 영업활동현금흐름,705000000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/1047862/000104786216000377/ ; https://www.sec.gov/Archives/edgar/data/1047862/000104786216000332/,누적 2336000000 − 직전누적 1631000000 (시작 2016-01-01),12
+Consolidated Edison,ED,2016Q3,2016-09-30,분기말 자산총계,47316000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1047862/000104786216000377/,,12
+Consolidated Edison,ED,2016Q3,2016-09-30,분기말 부채총계,33041000000,USD,계산(부채및자본-총자본),https://www.sec.gov/Archives/edgar/data/1047862/000104786216000377/,부채및자본 47316000000 − 총자본 14275000000,12
+Consolidated Edison,ED,2016Q3,2016-09-30,분기말 총자본(자기자본),14275000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1047862/000104786216000377/,,12
+Consolidated Edison,ED,2016Q3,2016-09-30,분기말 지배지분 자본,14267000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1047862/000104786216000377/,,12
+Consolidated Edison,ED,2016Q3,2016-09-30,분기말 종가,75.3,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/ED?interval=1d&events=splits (2016-09-30),,12
+Consolidated Edison,ED,2016Q3,2016-10-28,분기말 상장주식수,304727523,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/1047862/000104786216000377/,dei:EntityCommonStockSharesOutstanding 클래스 합,12
+Consolidated Edison,ED,2016Q3,2016-09-30,분기말 시가총액,22945982482,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/ED?interval=1d&events=splits (2016-09-30) ; https://www.sec.gov/Archives/edgar/data/1047862/000104786216000377/,종가 75.3 × 주식수 304727523,12
+Consolidated Edison,ED,2016Q4,2016-12-31,분기별 매출액,2707000000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/1047862/000104786217000029/ ; https://www.sec.gov/Archives/edgar/data/1047862/000104786216000377/,연간 12075000000 − 9개월누적 9368000000 (Revenues),12
+Consolidated Edison,ED,2016Q4,2016-12-31,분기별 영업이익,478000000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/1047862/000104786217000029/ ; https://www.sec.gov/Archives/edgar/data/1047862/000104786216000377/,연간 2575000000 − 9개월누적 2097000000 (OperatingIncomeLoss),12
+Consolidated Edison,ED,2016Q4,2016-12-31,분기별 당기순이익(지배),206000000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/1047862/000104786217000029/ ; https://www.sec.gov/Archives/edgar/data/1047862/000104786216000377/,연간 1245000000 − 9개월누적 1039000000 (NetIncomeLoss),12
+Consolidated Edison,ED,2016Q4,2016-12-31,분기별 영업활동현금흐름,1123000000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/1047862/000104786217000029/ ; https://www.sec.gov/Archives/edgar/data/1047862/000104786216000377/,누적 3459000000 − 직전누적 2336000000 (시작 2016-01-01),12
+Consolidated Edison,ED,2016Q4,2016-12-31,분기말 자산총계,48255000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1047862/000104786217000029/,,12
+Consolidated Edison,ED,2016Q4,2016-12-31,분기말 부채총계,33949000000,USD,계산(부채및자본-총자본),https://www.sec.gov/Archives/edgar/data/1047862/000104786217000029/,부채및자본 48255000000 − 총자본 14306000000,12
+Consolidated Edison,ED,2016Q4,2016-12-31,분기말 총자본(자기자본),14306000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1047862/000104786217000029/,,12
+Consolidated Edison,ED,2016Q4,2016-12-31,분기말 지배지분 자본,14298000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1047862/000104786217000029/,,12
+Consolidated Edison,ED,2016Q4,2016-12-30,분기말 종가,73.68,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/ED?interval=1d&events=splits (2016-12-30),,12
+Consolidated Edison,ED,2016Q4,2017-01-31,분기말 상장주식수,305059148,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/1047862/000104786217000029/,dei:EntityCommonStockSharesOutstanding 클래스 합,12
+Consolidated Edison,ED,2016Q4,2016-12-30,분기말 시가총액,22476758025,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/ED?interval=1d&events=splits (2016-12-30) ; https://www.sec.gov/Archives/edgar/data/1047862/000104786217000029/,종가 73.68 × 주식수 305059148,12
+Consolidated Edison,ED,2017Q1,2017-03-31,분기별 매출액,3228000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1047862/000104786217000089/,,12
+Consolidated Edison,ED,2017Q1,2017-03-31,분기별 영업이익,812000000,USD,공시(재작성 반영),https://www.sec.gov/Archives/edgar/data/1047862/000104786218000085/,원 공시 771000000 (https://www.sec.gov/Archives/edgar/data/1047862/000104786217000089/),12
+Consolidated Edison,ED,2017Q1,2017-03-31,분기별 당기순이익(지배),388000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1047862/000104786217000089/,,12
+Consolidated Edison,ED,2017Q1,2017-03-31,분기별 영업활동현금흐름,448000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1047862/000104786217000089/,,12
+Consolidated Edison,ED,2017Q1,2017-03-31,분기말 자산총계,48365000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1047862/000104786217000089/,,12
+Consolidated Edison,ED,2017Q1,2017-03-31,분기말 부채총계,33859000000,USD,계산(부채및자본-총자본),https://www.sec.gov/Archives/edgar/data/1047862/000104786217000089/,부채및자본 48365000000 − 총자본 14506000000,12
+Consolidated Edison,ED,2017Q1,2017-03-31,분기말 총자본(자기자본),14506000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1047862/000104786217000089/,,12
+Consolidated Edison,ED,2017Q1,2017-03-31,분기말 지배지분 자본,14498000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1047862/000104786217000089/,,12
+Consolidated Edison,ED,2017Q1,2017-03-31,분기말 종가,77.66,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/ED?interval=1d&events=splits (2017-03-31),,12
+Consolidated Edison,ED,2017Q1,2017-04-28,분기말 상장주식수,305379901,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/1047862/000104786217000089/,dei:EntityCommonStockSharesOutstanding 클래스 합,12
+Consolidated Edison,ED,2017Q1,2017-03-31,분기말 시가총액,23715803112,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/ED?interval=1d&events=splits (2017-03-31) ; https://www.sec.gov/Archives/edgar/data/1047862/000104786217000089/,종가 77.66 × 주식수 305379901,12
+Consolidated Edison,ED,2017Q2,2017-06-30,분기별 매출액,2633000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1047862/000104786217000142/,,12
+Consolidated Edison,ED,2017Q2,2017-06-30,분기별 영업이익,464000000,USD,공시(재작성 반영),https://www.sec.gov/Archives/edgar/data/1047862/000104786218000154/,원 공시 423000000 (https://www.sec.gov/Archives/edgar/data/1047862/000104786217000142/),12
+Consolidated Edison,ED,2017Q2,2017-06-30,분기별 당기순이익(지배),175000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1047862/000104786217000142/,,12
+Consolidated Edison,ED,2017Q2,2017-06-30,분기별 영업활동현금흐름,1126000000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/1047862/000104786217000142/ ; https://www.sec.gov/Archives/edgar/data/1047862/000104786217000089/,누적 1574000000 − 직전누적 448000000 (시작 2017-01-01),12
+Consolidated Edison,ED,2017Q2,2017-06-30,분기말 자산총계,49099000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1047862/000104786217000142/,,12
+Consolidated Edison,ED,2017Q2,2017-06-30,분기말 부채총계,34601000000,USD,계산(부채및자본-총자본),https://www.sec.gov/Archives/edgar/data/1047862/000104786217000142/,부채및자본 49099000000 − 총자본 14498000000,12
+Consolidated Edison,ED,2017Q2,2017-06-30,분기말 총자본(자기자본),14498000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1047862/000104786217000142/,,12
+Consolidated Edison,ED,2017Q2,2017-06-30,분기말 지배지분 자본,14490000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1047862/000104786217000142/,,12
+Consolidated Edison,ED,2017Q2,2017-06-30,분기말 종가,80.82,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/ED?interval=1d&events=splits (2017-06-30),,12
+Consolidated Edison,ED,2017Q2,2017-07-31,분기말 상장주식수,305674488,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/1047862/000104786217000142/,dei:EntityCommonStockSharesOutstanding 클래스 합,12
+Consolidated Edison,ED,2017Q2,2017-06-30,분기말 시가총액,24704612120,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/ED?interval=1d&events=splits (2017-06-30) ; https://www.sec.gov/Archives/edgar/data/1047862/000104786217000142/,종가 80.82 × 주식수 305674488,12
+Consolidated Edison,ED,2017Q3,2017-09-30,분기별 매출액,3211000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1047862/000104786217000176/,,12
+Consolidated Edison,ED,2017Q3,2017-09-30,분기별 영업이익,914000000,USD,공시(재작성 반영),https://www.sec.gov/Archives/edgar/data/1047862/000104786218000193/,원 공시 873000000 (https://www.sec.gov/Archives/edgar/data/1047862/000104786217000176/),12
+Consolidated Edison,ED,2017Q3,2017-09-30,분기별 당기순이익(지배),457000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1047862/000104786217000176/,,12
+Consolidated Edison,ED,2017Q3,2017-09-30,분기별 영업활동현금흐름,653000000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/1047862/000104786217000176/ ; https://www.sec.gov/Archives/edgar/data/1047862/000104786217000142/,누적 2227000000 − 직전누적 1574000000 (시작 2017-01-01),12
+Consolidated Edison,ED,2017Q3,2017-09-30,분기말 자산총계,49246000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1047862/000104786217000176/,,12
+Consolidated Edison,ED,2017Q3,2017-09-30,분기말 부채총계,34136000000,USD,계산(부채및자본-총자본),https://www.sec.gov/Archives/edgar/data/1047862/000104786217000176/,부채및자본 49246000000 − 총자본 15110000000,12
+Consolidated Edison,ED,2017Q3,2017-09-30,분기말 총자본(자기자본),15110000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1047862/000104786217000176/,,12
+Consolidated Edison,ED,2017Q3,2017-09-30,분기말 지배지분 자본,15102000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1047862/000104786217000176/,,12
+Consolidated Edison,ED,2017Q3,2017-09-29,분기말 종가,80.68,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/ED?interval=1d&events=splits (2017-09-29),,12
+Consolidated Edison,ED,2017Q3,2017-10-31,분기말 상장주식수,310068797,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/1047862/000104786217000176/,dei:EntityCommonStockSharesOutstanding 클래스 합,12
+Consolidated Edison,ED,2017Q3,2017-09-29,분기말 시가총액,25016350542,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/ED?interval=1d&events=splits (2017-09-29) ; https://www.sec.gov/Archives/edgar/data/1047862/000104786217000176/,종가 80.68 × 주식수 310068797,12
+Consolidated Edison,ED,2017Q4,2017-12-31,분기별 매출액,2961000000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/1047862/000104786218000037/ ; https://www.sec.gov/Archives/edgar/data/1047862/000104786217000176/,연간 12033000000 − 9개월누적 9072000000 (Revenues),12
+Consolidated Edison,ED,2017Q4,2017-12-31,분기별 영업이익,585000000,USD,계산(연간-3분기누적)(재작성 반영),https://www.sec.gov/Archives/edgar/data/1047862/000104786220000041/ ; https://www.sec.gov/Archives/edgar/data/1047862/000104786218000193/,연간 2774000000 − 9개월누적 2189000000 (OperatingIncomeLoss) ; 원 공시 544000000 (https://www.sec.gov/Archives/edgar/data/1047862/000104786218000037/ ; https://www.sec.gov/Archives/edgar/data/1047862/000104786217000176/),12
+Consolidated Edison,ED,2017Q4,2017-12-31,분기별 당기순이익(지배),505000000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/1047862/000104786218000037/ ; https://www.sec.gov/Archives/edgar/data/1047862/000104786217000176/,연간 1525000000 − 9개월누적 1020000000 (NetIncomeLoss),12
+Consolidated Edison,ED,2017Q4,2017-12-31,분기별 영업활동현금흐름,1140000000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/1047862/000104786218000037/ ; https://www.sec.gov/Archives/edgar/data/1047862/000104786217000176/,누적 3367000000 − 직전누적 2227000000 (시작 2017-01-01),12
+Consolidated Edison,ED,2017Q4,2017-12-31,분기말 자산총계,48111000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1047862/000104786218000037/,,12
+Consolidated Edison,ED,2017Q4,2017-12-31,분기말 부채총계,32686000000,USD,계산(부채및자본-총자본),https://www.sec.gov/Archives/edgar/data/1047862/000104786218000037/,부채및자본 48111000000 − 총자본 15425000000,12
+Consolidated Edison,ED,2017Q4,2017-12-31,분기말 총자본(자기자본),15425000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1047862/000104786218000037/,,12
+Consolidated Edison,ED,2017Q4,2017-12-31,분기말 지배지분 자본,15418000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1047862/000104786218000037/,,12
+Consolidated Edison,ED,2017Q4,2017-12-29,분기말 종가,84.95,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/ED?interval=1d&events=splits (2017-12-29),,12
+Consolidated Edison,ED,2017Q4,2018-01-31,분기말 상장주식수,310397070,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/1047862/000104786218000037/,dei:EntityCommonStockSharesOutstanding 클래스 합,12
+Consolidated Edison,ED,2017Q4,2017-12-29,분기말 시가총액,26368231096,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/ED?interval=1d&events=splits (2017-12-29) ; https://www.sec.gov/Archives/edgar/data/1047862/000104786218000037/,종가 84.95 × 주식수 310397070,12
+Consolidated Edison,ED,2018Q1,2018-03-31,분기별 매출액,3364000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1047862/000104786218000085/,,12
+Consolidated Edison,ED,2018Q1,2018-03-31,분기별 영업이익,755000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1047862/000104786218000085/,,12
+Consolidated Edison,ED,2018Q1,2018-03-31,분기별 당기순이익(지배),428000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1047862/000104786218000085/,,12
+Consolidated Edison,ED,2018Q1,2018-03-31,분기별 영업활동현금흐름,143000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1047862/000104786218000085/,,12
+Consolidated Edison,ED,2018Q1,2018-03-31,분기말 자산총계,48900000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1047862/000104786218000085/,,12
+Consolidated Edison,ED,2018Q1,2018-03-31,분기말 부채총계,33239000000,USD,계산(부채및자본-총자본),https://www.sec.gov/Archives/edgar/data/1047862/000104786218000085/,부채및자본 48900000000 − 총자본 15661000000,12
+Consolidated Edison,ED,2018Q1,2018-03-31,분기말 총자본(자기자본),15661000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1047862/000104786218000085/,,12
+Consolidated Edison,ED,2018Q1,2018-03-31,분기말 지배지분 자본,15654000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1047862/000104786218000085/,,12
+Consolidated Edison,ED,2018Q1,2018-03-29,분기말 종가,77.94,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/ED?interval=1d&events=splits (2018-03-29),,12
+Consolidated Edison,ED,2018Q1,2018-04-30,분기말 상장주식수,310730465,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/1047862/000104786218000085/,dei:EntityCommonStockSharesOutstanding 클래스 합,12
+Consolidated Edison,ED,2018Q1,2018-03-29,분기말 시가총액,24218332442,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/ED?interval=1d&events=splits (2018-03-29) ; https://www.sec.gov/Archives/edgar/data/1047862/000104786218000085/,종가 77.94 × 주식수 310730465,12
+Consolidated Edison,ED,2018Q2,2018-06-30,분기별 매출액,2696000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1047862/000104786218000154/,,12
+Consolidated Edison,ED,2018Q2,2018-06-30,분기별 영업이익,426000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1047862/000104786218000154/,,12
+Consolidated Edison,ED,2018Q2,2018-06-30,분기별 당기순이익(지배),188000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1047862/000104786218000154/,,12
+Consolidated Edison,ED,2018Q2,2018-06-30,분기별 영업활동현금흐름,897000000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/1047862/000104786218000154/ ; https://www.sec.gov/Archives/edgar/data/1047862/000104786218000085/,누적 1040000000 − 직전누적 143000000 (시작 2018-01-01),12
+Consolidated Edison,ED,2018Q2,2018-06-30,분기말 자산총계,49064000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1047862/000104786218000154/,,12
+Consolidated Edison,ED,2018Q2,2018-06-30,분기말 부채총계,33409000000,USD,계산(부채및자본-총자본),https://www.sec.gov/Archives/edgar/data/1047862/000104786218000154/,부채및자본 49064000000 − 총자본 15655000000,12
+Consolidated Edison,ED,2018Q2,2018-06-30,분기말 총자본(자기자본),15655000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1047862/000104786218000154/,,12
+Consolidated Edison,ED,2018Q2,2018-06-30,분기말 지배지분 자본,15648000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1047862/000104786218000154/,,12
+Consolidated Edison,ED,2018Q2,2018-06-29,분기말 종가,77.98,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/ED?interval=1d&events=splits (2018-06-29),,12
+Consolidated Edison,ED,2018Q2,2018-07-31,분기말 상장주식수,311102989,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/1047862/000104786218000154/,dei:EntityCommonStockSharesOutstanding 클래스 합,12
+Consolidated Edison,ED,2018Q2,2018-06-29,분기말 시가총액,24259811082,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/ED?interval=1d&events=splits (2018-06-29) ; https://www.sec.gov/Archives/edgar/data/1047862/000104786218000154/,종가 77.98 × 주식수 311102989,12
+Consolidated Edison,ED,2018Q3,2018-09-30,분기별 매출액,3328000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1047862/000104786218000193/,,12
+Consolidated Edison,ED,2018Q3,2018-09-30,분기별 영업이익,826000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1047862/000104786218000193/,,12
+Consolidated Edison,ED,2018Q3,2018-09-30,분기별 당기순이익(지배),435000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1047862/000104786218000193/,,12
+Consolidated Edison,ED,2018Q3,2018-09-30,분기별 영업활동현금흐름,560000000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/1047862/000104786218000193/ ; https://www.sec.gov/Archives/edgar/data/1047862/000104786218000154/,누적 1600000000 − 직전누적 1040000000 (시작 2018-01-01),12
+Consolidated Edison,ED,2018Q3,2018-09-30,분기말 자산총계,49544000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1047862/000104786218000193/,,12
+Consolidated Edison,ED,2018Q3,2018-09-30,분기말 부채총계,33646000000,USD,계산(부채및자본-총자본),https://www.sec.gov/Archives/edgar/data/1047862/000104786218000193/,부채및자본 49544000000 − 총자본 15898000000,12
+Consolidated Edison,ED,2018Q3,2018-09-30,분기말 총자본(자기자본),15898000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1047862/000104786218000193/,,12
+Consolidated Edison,ED,2018Q3,2018-09-30,분기말 지배지분 자본,15887000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1047862/000104786218000193/,,12
+Consolidated Edison,ED,2018Q3,2018-09-28,분기말 종가,76.19,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/ED?interval=1d&events=splits (2018-09-28),,12
+Consolidated Edison,ED,2018Q3,2018-10-31,분기말 상장주식수,311418948,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/1047862/000104786218000193/,dei:EntityCommonStockSharesOutstanding 클래스 합,12
+Consolidated Edison,ED,2018Q3,2018-09-28,분기말 시가총액,23727009648,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/ED?interval=1d&events=splits (2018-09-28) ; https://www.sec.gov/Archives/edgar/data/1047862/000104786218000193/,종가 76.19 × 주식수 311418948,12
+Consolidated Edison,ED,2018Q4,2018-12-31,분기별 매출액,2949000000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/1047862/000104786219000035/ ; https://www.sec.gov/Archives/edgar/data/1047862/000104786218000193/,연간 12337000000 − 9개월누적 9388000000 (Revenues),12
+Consolidated Edison,ED,2018Q4,2018-12-31,분기별 영업이익,657000000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/1047862/000104786219000035/ ; https://www.sec.gov/Archives/edgar/data/1047862/000104786218000193/,연간 2664000000 − 9개월누적 2007000000 (OperatingIncomeLoss),12
+Consolidated Edison,ED,2018Q4,2018-12-31,분기별 당기순이익(지배),331000000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/1047862/000104786219000035/ ; https://www.sec.gov/Archives/edgar/data/1047862/000104786218000193/,연간 1382000000 − 9개월누적 1051000000 (NetIncomeLoss),12
+Consolidated Edison,ED,2018Q4,2018-12-31,분기별 영업활동현금흐름,1095000000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/1047862/000104786219000035/ ; https://www.sec.gov/Archives/edgar/data/1047862/000104786218000193/,누적 2695000000 − 직전누적 1600000000 (시작 2018-01-01),12
+Consolidated Edison,ED,2018Q4,2018-12-31,분기말 자산총계,53920000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1047862/000104786219000035/,,12
+Consolidated Edison,ED,2018Q4,2018-12-31,분기말 부채총계,37081000000,USD,계산(부채및자본-총자본),https://www.sec.gov/Archives/edgar/data/1047862/000104786219000035/,부채및자본 53920000000 − 총자본 16839000000,12
+Consolidated Edison,ED,2018Q4,2018-12-31,분기말 총자본(자기자본),16839000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1047862/000104786219000035/,,12
+Consolidated Edison,ED,2018Q4,2018-12-31,분기말 지배지분 자본,16726000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1047862/000104786219000035/,,12
+Consolidated Edison,ED,2018Q4,2018-12-31,분기말 종가,76.46,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/ED?interval=1d&events=splits (2018-12-31),,12
+Consolidated Edison,ED,2018Q4,2019-01-31,분기말 상장주식수,321077152,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/1047862/000104786219000035/,dei:EntityCommonStockSharesOutstanding 클래스 합,12
+Consolidated Edison,ED,2018Q4,2018-12-31,분기말 시가총액,24549559042,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/ED?interval=1d&events=splits (2018-12-31) ; https://www.sec.gov/Archives/edgar/data/1047862/000104786219000035/,종가 76.46 × 주식수 321077152,12
+Consolidated Edison,ED,2019Q1,2019-03-31,분기별 매출액,3514000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1047862/000104786219000084/,,12
+Consolidated Edison,ED,2019Q1,2019-03-31,분기별 영업이익,786000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1047862/000104786219000084/,,12
+Consolidated Edison,ED,2019Q1,2019-03-31,분기별 당기순이익(지배),424000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1047862/000104786219000084/,,12
+Consolidated Edison,ED,2019Q1,2019-03-31,분기별 영업활동현금흐름,464000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1047862/000104786219000084/,,12
+Consolidated Edison,ED,2019Q1,2019-03-31,분기말 자산총계,55066000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1047862/000104786219000084/,,12
+Consolidated Edison,ED,2019Q1,2019-03-31,분기말 부채총계,37565000000,USD,계산(부채및자본-총자본),https://www.sec.gov/Archives/edgar/data/1047862/000104786219000084/,부채및자본 55066000000 − 총자본 17501000000,12
+Consolidated Edison,ED,2019Q1,2019-03-31,분기말 총자본(자기자본),17501000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1047862/000104786219000084/,,12
+Consolidated Edison,ED,2019Q1,2019-03-31,분기말 지배지분 자본,17369000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1047862/000104786219000084/,,12
+Consolidated Edison,ED,2019Q1,2019-03-29,분기말 종가,84.81,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/ED?interval=1d&events=splits (2019-03-29),,12
+Consolidated Edison,ED,2019Q1,2019-04-30,분기말 상장주식수,327053801,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/1047862/000104786219000084/,dei:EntityCommonStockSharesOutstanding 클래스 합,12
+Consolidated Edison,ED,2019Q1,2019-03-29,분기말 시가총액,27737432863,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/ED?interval=1d&events=splits (2019-03-29) ; https://www.sec.gov/Archives/edgar/data/1047862/000104786219000084/,종가 84.81 × 주식수 327053801,12
+Consolidated Edison,ED,2019Q2,2019-06-30,분기별 매출액,2744000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1047862/000104786219000137/,,12
+Consolidated Edison,ED,2019Q2,2019-06-30,분기별 영업이익,458000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1047862/000104786219000137/,,12
+Consolidated Edison,ED,2019Q2,2019-06-30,분기별 당기순이익(지배),152000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1047862/000104786219000137/,,12
+Consolidated Edison,ED,2019Q2,2019-06-30,분기별 영업활동현금흐름,1074000000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/1047862/000104786219000137/ ; https://www.sec.gov/Archives/edgar/data/1047862/000104786219000084/,누적 1538000000 − 직전누적 464000000 (시작 2019-01-01),12
+Consolidated Edison,ED,2019Q2,2019-06-30,분기말 자산총계,55602000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1047862/000104786219000137/,,12
+Consolidated Edison,ED,2019Q2,2019-06-30,분기말 부채총계,37737000000,USD,계산(부채및자본-총자본),https://www.sec.gov/Archives/edgar/data/1047862/000104786219000137/,부채및자본 55602000000 − 총자본 17865000000,12
+Consolidated Edison,ED,2019Q2,2019-06-30,분기말 총자본(자기자본),17865000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1047862/000104786219000137/,,12
+Consolidated Edison,ED,2019Q2,2019-06-30,분기말 지배지분 자본,17709000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1047862/000104786219000137/,,12
+Consolidated Edison,ED,2019Q2,2019-06-28,분기말 종가,87.68,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/ED?interval=1d&events=splits (2019-06-28),,12
+Consolidated Edison,ED,2019Q2,2019-07-31,분기말 상장주식수,332144207,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/1047862/000104786219000137/,dei:EntityCommonStockSharesOutstanding 클래스 합,12
+Consolidated Edison,ED,2019Q2,2019-06-28,분기말 시가총액,29122404070,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/ED?interval=1d&events=splits (2019-06-28) ; https://www.sec.gov/Archives/edgar/data/1047862/000104786219000137/,종가 87.68 × 주식수 332144207,12
+Consolidated Edison,ED,2019Q3,2019-09-30,분기별 매출액,3365000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1047862/000104786219000181/,,12
+Consolidated Edison,ED,2019Q3,2019-09-30,분기별 영업이익,867000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1047862/000104786219000181/,,12
+Consolidated Edison,ED,2019Q3,2019-09-30,분기별 당기순이익(지배),473000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1047862/000104786219000181/,,12
+Consolidated Edison,ED,2019Q3,2019-09-30,분기별 영업활동현금흐름,422000000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/1047862/000104786219000181/ ; https://www.sec.gov/Archives/edgar/data/1047862/000104786219000137/,누적 1960000000 − 직전누적 1538000000 (시작 2019-01-01),12
+Consolidated Edison,ED,2019Q3,2019-09-30,분기말 자산총계,55940000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1047862/000104786219000181/,,12
+Consolidated Edison,ED,2019Q3,2019-09-30,분기말 부채총계,37806000000,USD,계산(부채및자본-총자본),https://www.sec.gov/Archives/edgar/data/1047862/000104786219000181/,부채및자본 55940000000 − 총자본 18134000000,12
+Consolidated Edison,ED,2019Q3,2019-09-30,분기말 총자본(자기자본),18134000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1047862/000104786219000181/,,12
+Consolidated Edison,ED,2019Q3,2019-09-30,분기말 지배지분 자본,17959000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1047862/000104786219000181/,,12
+Consolidated Edison,ED,2019Q3,2019-09-30,분기말 종가,94.47,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/ED?interval=1d&events=splits (2019-09-30),,12
+Consolidated Edison,ED,2019Q3,2019-10-31,분기말 상장주식수,332430408,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/1047862/000104786219000181/,dei:EntityCommonStockSharesOutstanding 클래스 합,12
+Consolidated Edison,ED,2019Q3,2019-09-30,분기말 시가총액,31404700644,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/ED?interval=1d&events=splits (2019-09-30) ; https://www.sec.gov/Archives/edgar/data/1047862/000104786219000181/,종가 94.47 × 주식수 332430408,12
+Consolidated Edison,ED,2019Q4,2019-12-31,분기별 매출액,2951000000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/1047862/000104786220000041/ ; https://www.sec.gov/Archives/edgar/data/1047862/000104786219000181/,연간 12574000000 − 9개월누적 9623000000 (Revenues),12
+Consolidated Edison,ED,2019Q4,2019-12-31,분기별 영업이익,565000000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/1047862/000104786220000041/ ; https://www.sec.gov/Archives/edgar/data/1047862/000104786219000181/,연간 2676000000 − 9개월누적 2111000000 (OperatingIncomeLoss),12
+Consolidated Edison,ED,2019Q4,2019-12-31,분기별 당기순이익(지배),295000000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/1047862/000104786220000041/ ; https://www.sec.gov/Archives/edgar/data/1047862/000104786219000181/,연간 1343000000 − 9개월누적 1048000000 (NetIncomeLoss),12
+Consolidated Edison,ED,2019Q4,2019-12-31,분기별 영업활동현금흐름,1174000000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/1047862/000104786220000041/ ; https://www.sec.gov/Archives/edgar/data/1047862/000104786219000181/,누적 3134000000 − 직전누적 1960000000 (시작 2019-01-01),12
+Consolidated Edison,ED,2019Q4,2019-12-31,분기말 자산총계,58079000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1047862/000104786220000041/,,12
+Consolidated Edison,ED,2019Q4,2019-12-31,분기말 부채총계,39866000000,USD,계산(부채및자본-총자본),https://www.sec.gov/Archives/edgar/data/1047862/000104786220000041/,부채및자본 58079000000 − 총자본 18213000000,12
+Consolidated Edison,ED,2019Q4,2019-12-31,분기말 총자본(자기자본),18213000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1047862/000104786220000041/,,12
+Consolidated Edison,ED,2019Q4,2019-12-31,분기말 지배지분 자본,18022000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1047862/000104786220000041/,,12
+Consolidated Edison,ED,2019Q4,2019-12-31,분기말 종가,90.47,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/ED?interval=1d&events=splits (2019-12-31),,12
+Consolidated Edison,ED,2019Q4,2020-01-31,분기말 상장주식수,333775472,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/1047862/000104786220000041/,dei:EntityCommonStockSharesOutstanding 클래스 합,12
+Consolidated Edison,ED,2019Q4,2019-12-31,분기말 시가총액,30196666952,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/ED?interval=1d&events=splits (2019-12-31) ; https://www.sec.gov/Archives/edgar/data/1047862/000104786220000041/,종가 90.47 × 주식수 333775472,12
+Consolidated Edison,ED,2020Q1,2020-03-31,분기별 매출액,3234000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1047862/000104786220000103/,,12
+Consolidated Edison,ED,2020Q1,2020-03-31,분기별 영업이익,808000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1047862/000104786220000103/,,12
+Consolidated Edison,ED,2020Q1,2020-03-31,분기별 당기순이익(지배),375000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1047862/000104786220000103/,,12
+Consolidated Edison,ED,2020Q1,2020-03-31,분기별 영업활동현금흐름,412000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1047862/000104786220000103/,,12
+Consolidated Edison,ED,2020Q1,2020-03-31,분기말 자산총계,59159000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1047862/000104786220000103/,,12
+Consolidated Edison,ED,2020Q1,2020-03-31,분기말 부채총계,40692000000,USD,계산(부채및자본-총자본),https://www.sec.gov/Archives/edgar/data/1047862/000104786220000103/,부채및자본 59159000000 − 총자본 18467000000,12
+Consolidated Edison,ED,2020Q1,2020-03-31,분기말 총자본(자기자본),18467000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1047862/000104786220000103/,,12
+Consolidated Edison,ED,2020Q1,2020-03-31,분기말 지배지분 자본,18261000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1047862/000104786220000103/,,12
+Consolidated Edison,ED,2020Q1,2020-03-31,분기말 종가,78.0,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/ED?interval=1d&events=splits (2020-03-31),,12
+Consolidated Edison,ED,2020Q1,2020-04-30,분기말 상장주식수,334102042,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/1047862/000104786220000103/,dei:EntityCommonStockSharesOutstanding 클래스 합,12
+Consolidated Edison,ED,2020Q1,2020-03-31,분기말 시가총액,26059959276,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/ED?interval=1d&events=splits (2020-03-31) ; https://www.sec.gov/Archives/edgar/data/1047862/000104786220000103/,종가 78.0 × 주식수 334102042,12
+Consolidated Edison,ED,2020Q2,2020-06-30,분기별 매출액,2719000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1047862/000104786220000176/,,12
+Consolidated Edison,ED,2020Q2,2020-06-30,분기별 영업이익,479000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1047862/000104786220000176/,,12
+Consolidated Edison,ED,2020Q2,2020-06-30,분기별 당기순이익(지배),190000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1047862/000104786220000176/,,12
+Consolidated Edison,ED,2020Q2,2020-06-30,분기별 영업활동현금흐름,768000000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/1047862/000104786220000176/ ; https://www.sec.gov/Archives/edgar/data/1047862/000104786220000103/,누적 1180000000 − 직전누적 412000000 (시작 2020-01-01),12
+Consolidated Edison,ED,2020Q2,2020-06-30,분기말 자산총계,59081000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1047862/000104786220000176/,,12
+Consolidated Edison,ED,2020Q2,2020-06-30,분기말 부채총계,40640000000,USD,계산(부채및자본-총자본),https://www.sec.gov/Archives/edgar/data/1047862/000104786220000176/,부채및자본 59081000000 − 총자본 18441000000,12
+Consolidated Edison,ED,2020Q2,2020-06-30,분기말 총자본(자기자본),18441000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1047862/000104786220000176/,,12
+Consolidated Edison,ED,2020Q2,2020-06-30,분기말 지배지분 자본,18225000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1047862/000104786220000176/,,12
+Consolidated Edison,ED,2020Q2,2020-06-30,분기말 종가,71.93,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/ED?interval=1d&events=splits (2020-06-30),,12
+Consolidated Edison,ED,2020Q2,2020-07-31,분기말 상장주식수,334496595,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/1047862/000104786220000176/,dei:EntityCommonStockSharesOutstanding 클래스 합,12
+Consolidated Edison,ED,2020Q2,2020-06-30,분기말 시가총액,24060340078,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/ED?interval=1d&events=splits (2020-06-30) ; https://www.sec.gov/Archives/edgar/data/1047862/000104786220000176/,종가 71.93 × 주식수 334496595,12
+Consolidated Edison,ED,2020Q3,2020-09-30,분기별 매출액,3333000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1047862/000104786220000230/,,12
+Consolidated Edison,ED,2020Q3,2020-09-30,분기별 영업이익,860000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1047862/000104786220000230/,,12
+Consolidated Edison,ED,2020Q3,2020-09-30,분기별 당기순이익(지배),493000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1047862/000104786220000230/,,12
+Consolidated Edison,ED,2020Q3,2020-09-30,분기별 영업활동현금흐름,188000000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/1047862/000104786220000230/ ; https://www.sec.gov/Archives/edgar/data/1047862/000104786220000176/,누적 1368000000 − 직전누적 1180000000 (시작 2020-01-01),12
+Consolidated Edison,ED,2020Q3,2020-09-30,분기말 자산총계,59595000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1047862/000104786220000230/,,12
+Consolidated Edison,ED,2020Q3,2020-09-30,분기말 부채총계,40884000000,USD,계산(부채및자본-총자본),https://www.sec.gov/Archives/edgar/data/1047862/000104786220000230/,부채및자본 59595000000 − 총자본 18711000000,12
+Consolidated Edison,ED,2020Q3,2020-09-30,분기말 총자본(자기자본),18711000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1047862/000104786220000230/,,12
+Consolidated Edison,ED,2020Q3,2020-09-30,분기말 지배지분 자본,18494000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1047862/000104786220000230/,,12
+Consolidated Edison,ED,2020Q3,2020-09-30,분기말 종가,77.8,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/ED?interval=1d&events=splits (2020-09-30),,12
+Consolidated Edison,ED,2020Q3,2020-10-31,분기말 상장주식수,334858832,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/1047862/000104786220000230/,dei:EntityCommonStockSharesOutstanding 클래스 합,12
+Consolidated Edison,ED,2020Q3,2020-09-30,분기말 시가총액,26052017130,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/ED?interval=1d&events=splits (2020-09-30) ; https://www.sec.gov/Archives/edgar/data/1047862/000104786220000230/,종가 77.8 × 주식수 334858832,12
+Consolidated Edison,ED,2020Q4,2020-12-31,분기별 매출액,2960000000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/1047862/000104786221000049/ ; https://www.sec.gov/Archives/edgar/data/1047862/000104786220000230/,연간 12246000000 − 9개월누적 9286000000 (Revenues),12
+Consolidated Edison,ED,2020Q4,2020-12-31,분기별 영업이익,507000000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/1047862/000104786221000049/ ; https://www.sec.gov/Archives/edgar/data/1047862/000104786220000230/,연간 2654000000 − 9개월누적 2147000000 (OperatingIncomeLoss),12
+Consolidated Edison,ED,2020Q4,2020-12-31,분기별 당기순이익(지배),43000000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/1047862/000104786221000049/ ; https://www.sec.gov/Archives/edgar/data/1047862/000104786220000230/,연간 1101000000 − 9개월누적 1058000000 (NetIncomeLoss),12
+Consolidated Edison,ED,2020Q4,2020-12-31,분기별 영업활동현금흐름,830000000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/1047862/000104786221000049/ ; https://www.sec.gov/Archives/edgar/data/1047862/000104786220000230/,누적 2198000000 − 직전누적 1368000000 (시작 2020-01-01),12
+Consolidated Edison,ED,2020Q4,2020-12-31,분기말 자산총계,62895000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1047862/000104786221000049/,,12
+Consolidated Edison,ED,2020Q4,2020-12-31,분기말 부채총계,43830000000,USD,계산(부채및자본-총자본),https://www.sec.gov/Archives/edgar/data/1047862/000104786221000049/,부채및자본 62895000000 − 총자본 19065000000,12
+Consolidated Edison,ED,2020Q4,2020-12-31,분기말 총자본(자기자본),19065000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1047862/000104786221000049/,,12
+Consolidated Edison,ED,2020Q4,2020-12-31,분기말 지배지분 자본,18847000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1047862/000104786221000049/,,12
+Consolidated Edison,ED,2020Q4,2020-12-31,분기말 종가,72.27,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/ED?interval=1d&events=splits (2020-12-31),,12
+Consolidated Edison,ED,2020Q4,2021-01-31,분기말 상장주식수,342419162,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/1047862/000104786221000049/,dei:EntityCommonStockSharesOutstanding 클래스 합,12
+Consolidated Edison,ED,2020Q4,2020-12-31,분기말 시가총액,24746632838,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/ED?interval=1d&events=splits (2020-12-31) ; https://www.sec.gov/Archives/edgar/data/1047862/000104786221000049/,종가 72.27 × 주식수 342419162,12
+Consolidated Edison,ED,2021Q1,2021-03-31,분기별 매출액,3677000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1047862/000104786221000118/,,12
+Consolidated Edison,ED,2021Q1,2021-03-31,분기별 영업이익,860000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1047862/000104786221000118/,,12
+Consolidated Edison,ED,2021Q1,2021-03-31,분기별 당기순이익(지배),419000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1047862/000104786221000118/,,12
+Consolidated Edison,ED,2021Q1,2021-03-31,분기별 영업활동현금흐름,289000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1047862/000104786221000118/,,12
+Consolidated Edison,ED,2021Q1,2021-03-31,분기말 자산총계,62299000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1047862/000104786221000118/,,12
+Consolidated Edison,ED,2021Q1,2021-03-31,분기말 부채총계,43017000000,USD,계산(부채및자본-총자본),https://www.sec.gov/Archives/edgar/data/1047862/000104786221000118/,부채및자본 62299000000 − 총자본 19282000000,12
+Consolidated Edison,ED,2021Q1,2021-03-31,분기말 총자본(자기자본),19282000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1047862/000104786221000118/,,12
+Consolidated Edison,ED,2021Q1,2021-03-31,분기말 지배지분 자본,19033000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1047862/000104786221000118/,,12
+Consolidated Edison,ED,2021Q1,2021-03-31,분기말 종가,74.8,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/ED?interval=1d&events=splits (2021-03-31),,12
+Consolidated Edison,ED,2021Q1,2021-04-30,분기말 상장주식수,342813258,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/1047862/000104786221000118/,dei:EntityCommonStockSharesOutstanding 클래스 합,12
+Consolidated Edison,ED,2021Q1,2021-03-31,분기말 시가총액,25642431698,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/ED?interval=1d&events=splits (2021-03-31) ; https://www.sec.gov/Archives/edgar/data/1047862/000104786221000118/,종가 74.8 × 주식수 342813258,12
+Consolidated Edison,ED,2021Q2,2021-06-30,분기별 매출액,2971000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1047862/000104786221000208/,,12
+Consolidated Edison,ED,2021Q2,2021-06-30,분기별 영업이익,418000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1047862/000104786221000208/,,12
+Consolidated Edison,ED,2021Q2,2021-06-30,분기별 당기순이익(지배),165000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1047862/000104786221000208/,,12
+Consolidated Edison,ED,2021Q2,2021-06-30,분기별 영업활동현금흐름,1104000000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/1047862/000104786221000208/ ; https://www.sec.gov/Archives/edgar/data/1047862/000104786221000118/,누적 1393000000 − 직전누적 289000000 (시작 2021-01-01),12
+Consolidated Edison,ED,2021Q2,2021-06-30,분기말 자산총계,62919000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1047862/000104786221000208/,,12
+Consolidated Edison,ED,2021Q2,2021-06-30,분기말 부채총계,42866000000,USD,계산(부채및자본-총자본),https://www.sec.gov/Archives/edgar/data/1047862/000104786221000208/,부채및자본 62919000000 − 총자본 20053000000,12
+Consolidated Edison,ED,2021Q2,2021-06-30,분기말 총자본(자기자본),20053000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1047862/000104786221000208/,,12
+Consolidated Edison,ED,2021Q2,2021-06-30,분기말 지배지분 자본,19743000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1047862/000104786221000208/,,12
+Consolidated Edison,ED,2021Q2,2021-06-30,분기말 종가,71.72,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/ED?interval=1d&events=splits (2021-06-30),,12
+Consolidated Edison,ED,2021Q2,2021-07-31,분기말 상장주식수,353381808,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/1047862/000104786221000208/,dei:EntityCommonStockSharesOutstanding 클래스 합,12
+Consolidated Edison,ED,2021Q2,2021-06-30,분기말 시가총액,25344543270,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/ED?interval=1d&events=splits (2021-06-30) ; https://www.sec.gov/Archives/edgar/data/1047862/000104786221000208/,종가 71.72 × 주식수 353381808,12
+Consolidated Edison,ED,2021Q3,2021-09-30,분기별 매출액,3613000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1047862/000104786221000256/,,12
+Consolidated Edison,ED,2021Q3,2021-09-30,분기별 영업이익,850000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1047862/000104786221000256/,,12
+Consolidated Edison,ED,2021Q3,2021-09-30,분기별 당기순이익(지배),538000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1047862/000104786221000256/,,12
+Consolidated Edison,ED,2021Q3,2021-09-30,분기별 영업활동현금흐름,319000000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/1047862/000104786221000256/ ; https://www.sec.gov/Archives/edgar/data/1047862/000104786221000208/,누적 1712000000 − 직전누적 1393000000 (시작 2021-01-01),12
+Consolidated Edison,ED,2021Q3,2021-09-30,분기말 자산총계,62938000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1047862/000104786221000256/,,12
+Consolidated Edison,ED,2021Q3,2021-09-30,분기말 부채총계,42561000000,USD,계산(부채및자본-총자본),https://www.sec.gov/Archives/edgar/data/1047862/000104786221000256/,부채및자본 62938000000 − 총자본 20377000000,12
+Consolidated Edison,ED,2021Q3,2021-09-30,분기말 총자본(자기자본),20377000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1047862/000104786221000256/,,12
+Consolidated Edison,ED,2021Q3,2021-09-30,분기말 지배지분 자본,20037000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1047862/000104786221000256/,,12
+Consolidated Edison,ED,2021Q3,2021-09-30,분기말 종가,72.59,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/ED?interval=1d&events=splits (2021-09-30),,12
+Consolidated Edison,ED,2021Q3,2021-10-31,분기말 상장주식수,353748736,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/1047862/000104786221000256/,dei:EntityCommonStockSharesOutstanding 클래스 합,12
+Consolidated Edison,ED,2021Q3,2021-09-30,분기말 시가총액,25678620746,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/ED?interval=1d&events=splits (2021-09-30) ; https://www.sec.gov/Archives/edgar/data/1047862/000104786221000256/,종가 72.59 × 주식수 353748736,12
+Consolidated Edison,ED,2021Q4,2021-12-31,분기별 매출액,3415000000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/1047862/000104786222000039/ ; https://www.sec.gov/Archives/edgar/data/1047862/000104786221000256/,연간 13676000000 − 9개월누적 10261000000 (Revenues),12
+Consolidated Edison,ED,2021Q4,2021-12-31,분기별 영업이익,697000000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/1047862/000104786222000039/ ; https://www.sec.gov/Archives/edgar/data/1047862/000104786221000256/,연간 2826000000 − 9개월누적 2129000000 (OperatingIncomeLoss),12
+Consolidated Edison,ED,2021Q4,2021-12-31,분기별 당기순이익(지배),224000000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/1047862/000104786222000039/ ; https://www.sec.gov/Archives/edgar/data/1047862/000104786221000256/,연간 1346000000 − 9개월누적 1122000000 (NetIncomeLoss),12
+Consolidated Edison,ED,2021Q4,2021-12-31,분기별 영업활동현금흐름,1021000000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/1047862/000104786222000039/ ; https://www.sec.gov/Archives/edgar/data/1047862/000104786221000256/,누적 2733000000 − 직전누적 1712000000 (시작 2021-01-01),12
+Consolidated Edison,ED,2021Q4,2021-12-31,분기말 자산총계,63116000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1047862/000104786222000039/,,12
+Consolidated Edison,ED,2021Q4,2021-12-31,분기말 부채총계,42780000000,USD,계산(부채및자본-총자본),https://www.sec.gov/Archives/edgar/data/1047862/000104786222000039/,부채및자본 63116000000 − 총자본 20336000000,12
+Consolidated Edison,ED,2021Q4,2021-12-31,분기말 총자본(자기자본),20336000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1047862/000104786222000039/,,12
+Consolidated Edison,ED,2021Q4,2021-12-31,분기말 지배지분 자본,20037000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1047862/000104786222000039/,,12
+Consolidated Edison,ED,2021Q4,2021-12-31,분기말 종가,85.32,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/ED?interval=1d&events=splits (2021-12-31),,12
+Consolidated Edison,ED,2021Q4,2022-01-31,분기말 상장주식수,354090402,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/1047862/000104786222000039/,dei:EntityCommonStockSharesOutstanding 클래스 합,12
+Consolidated Edison,ED,2021Q4,2021-12-31,분기말 시가총액,30210993099,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/ED?interval=1d&events=splits (2021-12-31) ; https://www.sec.gov/Archives/edgar/data/1047862/000104786222000039/,종가 85.32 × 주식수 354090402,12
+Consolidated Edison,ED,2022Q1,2022-03-31,분기별 매출액,4060000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1047862/000104786222000123/,,12
+Consolidated Edison,ED,2022Q1,2022-03-31,분기별 영업이익,799000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1047862/000104786222000123/,,12
+Consolidated Edison,ED,2022Q1,2022-03-31,분기별 당기순이익(지배),602000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1047862/000104786222000123/,,12
+Consolidated Edison,ED,2022Q1,2022-03-31,분기별 영업활동현금흐름,473000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1047862/000104786222000123/,,12
+Consolidated Edison,ED,2022Q1,2022-03-31,분기말 자산총계,63737000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1047862/000104786222000123/,,12
+Consolidated Edison,ED,2022Q1,2022-03-31,분기말 부채총계,43114000000,USD,계산(부채및자본-총자본),https://www.sec.gov/Archives/edgar/data/1047862/000104786222000123/,부채및자본 63737000000 − 총자본 20623000000,12
+Consolidated Edison,ED,2022Q1,2022-03-31,분기말 총자본(자기자본),20623000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1047862/000104786222000123/,,12
+Consolidated Edison,ED,2022Q1,2022-03-31,분기말 지배지분 자본,20378000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1047862/000104786222000123/,,12
+Consolidated Edison,ED,2022Q1,2022-03-31,분기말 종가,94.68,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/ED?interval=1d&events=splits (2022-03-31),,12
+Consolidated Edison,ED,2022Q1,2022-04-30,분기말 상장주식수,354294938,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/1047862/000104786222000123/,dei:EntityCommonStockSharesOutstanding 클래스 합,12
+Consolidated Edison,ED,2022Q1,2022-03-31,분기말 시가총액,33544644730,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/ED?interval=1d&events=splits (2022-03-31) ; https://www.sec.gov/Archives/edgar/data/1047862/000104786222000123/,종가 94.68 × 주식수 354294938,12
+Consolidated Edison,ED,2022Q2,2022-06-30,분기별 매출액,3415000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1047862/000104786222000200/,,12
+Consolidated Edison,ED,2022Q2,2022-06-30,분기별 영업이익,387000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1047862/000104786222000200/,,12
+Consolidated Edison,ED,2022Q2,2022-06-30,분기별 당기순이익(지배),255000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1047862/000104786222000200/,,12
+Consolidated Edison,ED,2022Q2,2022-06-30,분기별 영업활동현금흐름,1484000000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/1047862/000104786222000200/ ; https://www.sec.gov/Archives/edgar/data/1047862/000104786222000123/,누적 1957000000 − 직전누적 473000000 (시작 2022-01-01),12
+Consolidated Edison,ED,2022Q2,2022-06-30,분기말 자산총계,65072000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1047862/000104786222000200/,,12
+Consolidated Edison,ED,2022Q2,2022-06-30,분기말 부채총계,44451000000,USD,계산(부채및자본-총자본),https://www.sec.gov/Archives/edgar/data/1047862/000104786222000200/,부채및자본 65072000000 − 총자본 20621000000,12
+Consolidated Edison,ED,2022Q2,2022-06-30,분기말 총자본(자기자본),20621000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1047862/000104786222000200/,,12
+Consolidated Edison,ED,2022Q2,2022-06-30,분기말 지배지분 자본,20387000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1047862/000104786222000200/,,12
+Consolidated Edison,ED,2022Q2,2022-06-30,분기말 종가,95.1,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/ED?interval=1d&events=splits (2022-06-30),,12
+Consolidated Edison,ED,2022Q2,2022-07-31,분기말 상장주식수,354582086,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/1047862/000104786222000200/,dei:EntityCommonStockSharesOutstanding 클래스 합,12
+Consolidated Edison,ED,2022Q2,2022-06-30,분기말 시가총액,33720756379,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/ED?interval=1d&events=splits (2022-06-30) ; https://www.sec.gov/Archives/edgar/data/1047862/000104786222000200/,종가 95.1 × 주식수 354582086,12
+Consolidated Edison,ED,2022Q3,2022-09-30,분기별 매출액,4165000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1047862/000104786222000248/,,12
+Consolidated Edison,ED,2022Q3,2022-09-30,분기별 영업이익,889000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1047862/000104786222000248/,,12
+Consolidated Edison,ED,2022Q3,2022-09-30,분기별 당기순이익(지배),613000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1047862/000104786222000248/,,12
+Consolidated Edison,ED,2022Q3,2022-09-30,분기별 영업활동현금흐름,661000000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/1047862/000104786222000248/ ; https://www.sec.gov/Archives/edgar/data/1047862/000104786222000200/,누적 2618000000 − 직전누적 1957000000 (시작 2022-01-01),12
+Consolidated Edison,ED,2022Q3,2022-09-30,분기말 자산총계,65763000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1047862/000104786222000248/,,12
+Consolidated Edison,ED,2022Q3,2022-09-30,분기말 부채총계,44787000000,USD,계산(부채및자본-총자본),https://www.sec.gov/Archives/edgar/data/1047862/000104786222000248/,부채및자본 65763000000 − 총자본 20976000000,12
+Consolidated Edison,ED,2022Q3,2022-09-30,분기말 총자본(자기자본),20976000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1047862/000104786222000248/,,12
+Consolidated Edison,ED,2022Q3,2022-09-30,분기말 지배지분 자본,20748000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1047862/000104786222000248/,,12
+Consolidated Edison,ED,2022Q3,2022-09-30,분기말 종가,85.76,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/ED?interval=1d&events=splits (2022-09-30),,12
+Consolidated Edison,ED,2022Q3,2022-10-31,분기말 상장주식수,354862848,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/1047862/000104786222000248/,dei:EntityCommonStockSharesOutstanding 클래스 합,12
+Consolidated Edison,ED,2022Q3,2022-09-30,분기말 시가총액,30433037844,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/ED?interval=1d&events=splits (2022-09-30) ; https://www.sec.gov/Archives/edgar/data/1047862/000104786222000248/,종가 85.76 × 주식수 354862848,12
+Consolidated Edison,ED,2022Q4,2022-12-31,분기별 매출액,4031000000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/1047862/000104786223000038/ ; https://www.sec.gov/Archives/edgar/data/1047862/000104786222000248/,연간 15670000000 − 9개월누적 11639000000 (Revenues),12
+Consolidated Edison,ED,2022Q4,2022-12-31,분기별 영업이익,550000000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/1047862/000104786223000038/ ; https://www.sec.gov/Archives/edgar/data/1047862/000104786222000248/,연간 2624000000 − 9개월누적 2074000000 (OperatingIncomeLoss),12
+Consolidated Edison,ED,2022Q4,2022-12-31,분기별 당기순이익(지배),190000000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/1047862/000104786223000038/ ; https://www.sec.gov/Archives/edgar/data/1047862/000104786222000248/,연간 1660000000 − 9개월누적 1470000000 (NetIncomeLoss),12
+Consolidated Edison,ED,2022Q4,2022-12-31,분기별 영업활동현금흐름,1317000000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/1047862/000104786223000038/ ; https://www.sec.gov/Archives/edgar/data/1047862/000104786222000248/,누적 3935000000 − 직전누적 2618000000 (시작 2022-01-01),12
+Consolidated Edison,ED,2022Q4,2022-12-31,분기말 자산총계,69065000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1047862/000104786223000038/,,12
+Consolidated Edison,ED,2022Q4,2022-12-31,분기말 부채총계,48176000000,USD,계산(부채및자본-총자본),https://www.sec.gov/Archives/edgar/data/1047862/000104786223000038/,부채및자본 69065000000 − 총자본 20889000000,12
+Consolidated Edison,ED,2022Q4,2022-12-31,분기말 총자본(자기자본),20889000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1047862/000104786223000038/,,12
+Consolidated Edison,ED,2022Q4,2022-12-31,분기말 지배지분 자본,20687000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1047862/000104786223000038/,,12
+Consolidated Edison,ED,2022Q4,2022-12-30,분기말 종가,95.31,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/ED?interval=1d&events=splits (2022-12-30),,12
+Consolidated Edison,ED,2022Q4,2023-01-31,분기말 상장주식수,355045021,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/1047862/000104786223000038/,dei:EntityCommonStockSharesOutstanding 클래스 합,12
+Consolidated Edison,ED,2022Q4,2022-12-30,분기말 시가총액,33839340952,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/ED?interval=1d&events=splits (2022-12-30) ; https://www.sec.gov/Archives/edgar/data/1047862/000104786223000038/,종가 95.31 × 주식수 355045021,12
+Consolidated Edison,ED,2023Q1,2023-03-31,분기별 매출액,4403000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1047862/000104786223000120/,,12
+Consolidated Edison,ED,2023Q1,2023-03-31,분기별 영업이익,1739000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1047862/000104786223000120/,,12
+Consolidated Edison,ED,2023Q1,2023-03-31,분기별 당기순이익(지배),1433000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1047862/000104786223000120/,,12
+Consolidated Edison,ED,2023Q1,2023-03-31,분기별 영업활동현금흐름,92000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1047862/000104786223000120/,,12
+Consolidated Edison,ED,2023Q1,2023-03-31,분기말 자산총계,62804000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1047862/000104786223000120/,,12
+Consolidated Edison,ED,2023Q1,2023-03-31,분기말 부채총계,41961000000,USD,계산(부채및자본-총자본),https://www.sec.gov/Archives/edgar/data/1047862/000104786223000120/,부채및자본 62804000000 − 총자본 20843000000,12
+Consolidated Edison,ED,2023Q1,2023-03-31,분기말 총자본(자기자본),20843000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1047862/000104786223000120/,,12
+Consolidated Edison,ED,2023Q1,2023-03-31,분기말 지배지분 자본,20843000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1047862/000104786223000120/,,12
+Consolidated Edison,ED,2023Q1,2023-03-31,분기말 종가,95.67,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/ED?interval=1d&events=splits (2023-03-31),,12
+Consolidated Edison,ED,2023Q1,2023-04-30,분기말 상장주식수,346540200,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/1047862/000104786223000120/,dei:EntityCommonStockSharesOutstanding 클래스 합,12
+Consolidated Edison,ED,2023Q1,2023-03-31,분기말 시가총액,33153500934,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/ED?interval=1d&events=splits (2023-03-31) ; https://www.sec.gov/Archives/edgar/data/1047862/000104786223000120/,종가 95.67 × 주식수 346540200,12
+Consolidated Edison,ED,2023Q2,2023-06-30,분기별 매출액,2944000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1047862/000104786223000140/,,12
+Consolidated Edison,ED,2023Q2,2023-06-30,분기별 영업이익,284000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1047862/000104786223000140/,,12
+Consolidated Edison,ED,2023Q2,2023-06-30,분기별 당기순이익(지배),226000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1047862/000104786223000140/,,12
+Consolidated Edison,ED,2023Q2,2023-06-30,분기별 영업활동현금흐름,1072000000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/1047862/000104786223000140/ ; https://www.sec.gov/Archives/edgar/data/1047862/000104786223000120/,누적 1164000000 − 직전누적 92000000 (시작 2023-01-01),12
+Consolidated Edison,ED,2023Q2,2023-06-30,분기말 자산총계,63771000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1047862/000104786223000140/,,12
+Consolidated Edison,ED,2023Q2,2023-06-30,분기말 부채총계,42966000000,USD,계산(부채및자본-총자본),https://www.sec.gov/Archives/edgar/data/1047862/000104786223000140/,부채및자본 63771000000 − 총자본 20805000000,12
+Consolidated Edison,ED,2023Q2,2023-06-30,분기말 총자본(자기자본),20805000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1047862/000104786223000140/,,12
+Consolidated Edison,ED,2023Q2,2023-06-30,분기말 지배지분 자본,20805000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1047862/000104786223000140/,,12
+Consolidated Edison,ED,2023Q2,2023-06-30,분기말 종가,90.4,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/ED?interval=1d&events=splits (2023-06-30),,12
+Consolidated Edison,ED,2023Q2,2023-07-31,분기말 상장주식수,344923585,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/1047862/000104786223000140/,dei:EntityCommonStockSharesOutstanding 클래스 합,12
+Consolidated Edison,ED,2023Q2,2023-06-30,분기말 시가총액,31181092084,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/ED?interval=1d&events=splits (2023-06-30) ; https://www.sec.gov/Archives/edgar/data/1047862/000104786223000140/,종가 90.4 × 주식수 344923585,12
+Consolidated Edison,ED,2023Q3,2023-09-30,분기별 매출액,3872000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1047862/000104786223000161/,,12
+Consolidated Edison,ED,2023Q3,2023-09-30,분기별 영업이익,722000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1047862/000104786223000161/,,12
+Consolidated Edison,ED,2023Q3,2023-09-30,분기별 당기순이익(지배),526000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1047862/000104786223000161/,,12
+Consolidated Edison,ED,2023Q3,2023-09-30,분기별 영업활동현금흐름,17000000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/1047862/000104786223000161/ ; https://www.sec.gov/Archives/edgar/data/1047862/000104786223000140/,누적 1181000000 − 직전누적 1164000000 (시작 2023-01-01),12
+Consolidated Edison,ED,2023Q3,2023-09-30,분기말 자산총계,64405000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1047862/000104786223000161/,,12
+Consolidated Edison,ED,2023Q3,2023-09-30,분기말 부채총계,43327000000,USD,계산(부채및자본-총자본),https://www.sec.gov/Archives/edgar/data/1047862/000104786223000161/,부채및자본 64405000000 − 총자본 21078000000,12
+Consolidated Edison,ED,2023Q3,2023-09-30,분기말 총자본(자기자본),21078000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1047862/000104786223000161/,,12
+Consolidated Edison,ED,2023Q3,2023-09-30,분기말 지배지분 자본,21078000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1047862/000104786223000161/,,12
+Consolidated Edison,ED,2023Q3,2023-09-29,분기말 종가,85.53,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/ED?interval=1d&events=splits (2023-09-29),,12
+Consolidated Edison,ED,2023Q3,2023-10-31,분기말 상장주식수,345219779,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/1047862/000104786223000161/,dei:EntityCommonStockSharesOutstanding 클래스 합,12
+Consolidated Edison,ED,2023Q3,2023-09-29,분기말 시가총액,29526647698,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/ED?interval=1d&events=splits (2023-09-29) ; https://www.sec.gov/Archives/edgar/data/1047862/000104786223000161/,종가 85.53 × 주식수 345219779,12
+Consolidated Edison,ED,2023Q4,2023-12-31,분기별 매출액,3444000000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/1047862/000104786224000012/ ; https://www.sec.gov/Archives/edgar/data/1047862/000104786223000161/,연간 14663000000 − 9개월누적 11219000000 (Revenues),12
+Consolidated Edison,ED,2023Q4,2023-12-31,분기별 영업이익,451000000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/1047862/000104786224000012/ ; https://www.sec.gov/Archives/edgar/data/1047862/000104786223000161/,연간 3196000000 − 9개월누적 2745000000 (OperatingIncomeLoss),12
+Consolidated Edison,ED,2023Q4,2023-12-31,분기별 당기순이익(지배),334000000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/1047862/000104786224000012/ ; https://www.sec.gov/Archives/edgar/data/1047862/000104786223000161/,연간 2519000000 − 9개월누적 2185000000 (NetIncomeLoss),12
+Consolidated Edison,ED,2023Q4,2023-12-31,분기별 영업활동현금흐름,975000000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/1047862/000104786224000012/ ; https://www.sec.gov/Archives/edgar/data/1047862/000104786223000161/,누적 2156000000 − 직전누적 1181000000 (시작 2023-01-01),12
+Consolidated Edison,ED,2023Q4,2023-12-31,분기말 자산총계,66331000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1047862/000104786224000012/,,12
+Consolidated Edison,ED,2023Q4,2023-12-31,분기말 부채총계,45173000000,USD,계산(부채및자본-총자본),https://www.sec.gov/Archives/edgar/data/1047862/000104786224000012/,부채및자본 66331000000 − 총자본 21158000000,12
+Consolidated Edison,ED,2023Q4,2023-12-31,분기말 총자본(자기자본),21158000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1047862/000104786224000012/,,12
+Consolidated Edison,ED,2023Q4,2023-12-31,분기말 지배지분 자본,21158000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1047862/000104786224000012/,,12
+Consolidated Edison,ED,2023Q4,2023-12-29,분기말 종가,90.97,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/ED?interval=1d&events=splits (2023-12-29),,12
+Consolidated Edison,ED,2023Q4,2024-01-31,분기말 상장주식수,345510031,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/1047862/000104786224000012/,dei:EntityCommonStockSharesOutstanding 클래스 합,12
+Consolidated Edison,ED,2023Q4,2023-12-29,분기말 시가총액,31431047520,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/ED?interval=1d&events=splits (2023-12-29) ; https://www.sec.gov/Archives/edgar/data/1047862/000104786224000012/,종가 90.97 × 주식수 345510031,12
+Consolidated Edison,ED,2024Q1,2024-03-31,분기별 매출액,4280000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1047862/000104786224000030/,,12
+Consolidated Edison,ED,2024Q1,2024-03-31,분기별 영업이익,1011000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1047862/000104786224000030/,,12
+Consolidated Edison,ED,2024Q1,2024-03-31,분기별 당기순이익(지배),720000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1047862/000104786224000030/,,12
+Consolidated Edison,ED,2024Q1,2024-03-31,분기별 영업활동현금흐름,573000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1047862/000104786224000030/,,12
+Consolidated Edison,ED,2024Q1,2024-03-31,분기말 자산총계,66680000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1047862/000104786224000030/,,12
+Consolidated Edison,ED,2024Q1,2024-03-31,분기말 부채총계,45065000000,USD,계산(부채및자본-총자본),https://www.sec.gov/Archives/edgar/data/1047862/000104786224000030/,부채및자본 66680000000 − 총자본 21615000000,12
+Consolidated Edison,ED,2024Q1,2024-03-31,분기말 총자본(자기자본),21615000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1047862/000104786224000030/,,12
+Consolidated Edison,ED,2024Q1,2024-03-31,분기말 지배지분 자본,21615000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1047862/000104786224000030/,,12
+Consolidated Edison,ED,2024Q1,2024-03-28,분기말 종가,90.81,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/ED?interval=1d&events=splits (2024-03-28),,12
+Consolidated Edison,ED,2024Q1,2024-04-30,분기말 상장주식수,345834711,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/1047862/000104786224000030/,dei:EntityCommonStockSharesOutstanding 클래스 합,12
+Consolidated Edison,ED,2024Q1,2024-03-28,분기말 시가총액,31405250106,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/ED?interval=1d&events=splits (2024-03-28) ; https://www.sec.gov/Archives/edgar/data/1047862/000104786224000030/,종가 90.81 × 주식수 345834711,12
+Consolidated Edison,ED,2024Q2,2024-06-30,분기별 매출액,3220000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1047862/000104786224000049/,,12
+Consolidated Edison,ED,2024Q2,2024-06-30,분기별 영업이익,320000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1047862/000104786224000049/,,12
+Consolidated Edison,ED,2024Q2,2024-06-30,분기별 당기순이익(지배),202000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1047862/000104786224000049/,,12
+Consolidated Edison,ED,2024Q2,2024-06-30,분기별 영업활동현금흐름,1339000000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/1047862/000104786224000049/ ; https://www.sec.gov/Archives/edgar/data/1047862/000104786224000030/,누적 1912000000 − 직전누적 573000000 (시작 2024-01-01),12
+Consolidated Edison,ED,2024Q2,2024-06-30,분기말 자산총계,67920000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1047862/000104786224000049/,,12
+Consolidated Edison,ED,2024Q2,2024-06-30,분기말 부채총계,46360000000,USD,계산(부채및자본-총자본),https://www.sec.gov/Archives/edgar/data/1047862/000104786224000049/,부채및자본 67920000000 − 총자본 21560000000,12
+Consolidated Edison,ED,2024Q2,2024-06-30,분기말 총자본(자기자본),21560000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1047862/000104786224000049/,,12
+Consolidated Edison,ED,2024Q2,2024-06-30,분기말 지배지분 자본,21560000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1047862/000104786224000049/,,12
+Consolidated Edison,ED,2024Q2,2024-06-28,분기말 종가,89.42,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/ED?interval=1d&events=splits (2024-06-28),,12
+Consolidated Edison,ED,2024Q2,2024-07-31,분기말 상장주식수,346147200,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/1047862/000104786224000049/,dei:EntityCommonStockSharesOutstanding 클래스 합,12
+Consolidated Edison,ED,2024Q2,2024-06-28,분기말 시가총액,30952482624,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/ED?interval=1d&events=splits (2024-06-28) ; https://www.sec.gov/Archives/edgar/data/1047862/000104786224000049/,종가 89.42 × 주식수 346147200,12
+Consolidated Edison,ED,2024Q3,2024-09-30,분기별 매출액,4092000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1047862/000104786224000064/,,12
+Consolidated Edison,ED,2024Q3,2024-09-30,분기별 영업이익,862000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1047862/000104786224000064/,,12
+Consolidated Edison,ED,2024Q3,2024-09-30,분기별 당기순이익(지배),588000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1047862/000104786224000064/,,12
+Consolidated Edison,ED,2024Q3,2024-09-30,분기별 영업활동현금흐름,392000000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/1047862/000104786224000064/ ; https://www.sec.gov/Archives/edgar/data/1047862/000104786224000049/,누적 2304000000 − 직전누적 1912000000 (시작 2024-01-01),12
+Consolidated Edison,ED,2024Q3,2024-09-30,분기말 자산총계,68645000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1047862/000104786224000064/,,12
+Consolidated Edison,ED,2024Q3,2024-09-30,분기말 부채총계,46747000000,USD,계산(부채및자본-총자본),https://www.sec.gov/Archives/edgar/data/1047862/000104786224000064/,부채및자본 68645000000 − 총자본 21898000000,12
+Consolidated Edison,ED,2024Q3,2024-09-30,분기말 총자본(자기자본),21898000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1047862/000104786224000064/,,12
+Consolidated Edison,ED,2024Q3,2024-09-30,분기말 지배지분 자본,21898000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1047862/000104786224000064/,,12
+Consolidated Edison,ED,2024Q3,2024-09-30,분기말 종가,104.13,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/ED?interval=1d&events=splits (2024-09-30),,12
+Consolidated Edison,ED,2024Q3,2024-10-31,분기말 상장주식수,346412190,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/1047862/000104786224000064/,dei:EntityCommonStockSharesOutstanding 클래스 합,12
+Consolidated Edison,ED,2024Q3,2024-09-30,분기말 시가총액,36071901345,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/ED?interval=1d&events=splits (2024-09-30) ; https://www.sec.gov/Archives/edgar/data/1047862/000104786224000064/,종가 104.13 × 주식수 346412190,12
+Consolidated Edison,ED,2024Q4,2024-12-31,분기별 매출액,3669000000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/1047862/000104786225000011/ ; https://www.sec.gov/Archives/edgar/data/1047862/000104786224000064/,연간 15256000000 − 9개월누적 11587000000 (Revenues),12
+Consolidated Edison,ED,2024Q4,2024-12-31,분기별 영업이익,477000000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/1047862/000104786225000011/ ; https://www.sec.gov/Archives/edgar/data/1047862/000104786224000064/,연간 2670000000 − 9개월누적 2193000000 (OperatingIncomeLoss),12
+Consolidated Edison,ED,2024Q4,2024-12-31,분기별 당기순이익(지배),310000000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/1047862/000104786225000011/ ; https://www.sec.gov/Archives/edgar/data/1047862/000104786224000064/,연간 1820000000 − 9개월누적 1510000000 (NetIncomeLoss),12
+Consolidated Edison,ED,2024Q4,2024-12-31,분기별 영업활동현금흐름,1310000000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/1047862/000104786225000011/ ; https://www.sec.gov/Archives/edgar/data/1047862/000104786224000064/,누적 3614000000 − 직전누적 2304000000 (시작 2024-01-01),12
+Consolidated Edison,ED,2024Q4,2024-12-31,분기말 자산총계,70562000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1047862/000104786225000011/,,12
+Consolidated Edison,ED,2024Q4,2024-12-31,분기말 부채총계,48600000000,USD,계산(부채및자본-총자본),https://www.sec.gov/Archives/edgar/data/1047862/000104786225000011/,부채및자본 70562000000 − 총자본 21962000000,12
+Consolidated Edison,ED,2024Q4,2024-12-31,분기말 총자본(자기자본),21962000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1047862/000104786225000011/,,12
+Consolidated Edison,ED,2024Q4,2024-12-31,분기말 지배지분 자본,21962000000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/1047862/000104786225000011/,"StockholdersEquityIncludingPortionAttributableToNoncontrollingInterest, MinorityInterest 태그 없음",12
+Consolidated Edison,ED,2024Q4,2024-12-31,분기말 종가,89.23,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/ED?interval=1d&events=splits (2024-12-31),,12
+Consolidated Edison,ED,2024Q4,2025-01-31,분기말 상장주식수,346711639,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/1047862/000104786225000011/,dei:EntityCommonStockSharesOutstanding 클래스 합,12
+Consolidated Edison,ED,2024Q4,2024-12-31,분기말 시가총액,30937079548,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/ED?interval=1d&events=splits (2024-12-31) ; https://www.sec.gov/Archives/edgar/data/1047862/000104786225000011/,종가 89.23 × 주식수 346711639,12
+Consolidated Edison,ED,2025Q1,2025-03-31,분기별 매출액,4798000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1047862/000104786225000045/,,12
+Consolidated Edison,ED,2025Q1,2025-03-31,분기별 영업이익,1125000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1047862/000104786225000045/,,12
+Consolidated Edison,ED,2025Q1,2025-03-31,분기별 당기순이익(지배),791000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1047862/000104786225000045/,,12
+Consolidated Edison,ED,2025Q1,2025-03-31,분기별 영업활동현금흐름,837000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1047862/000104786225000045/,,12
+Consolidated Edison,ED,2025Q1,2025-03-31,분기말 자산총계,70691000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1047862/000104786225000045/,,12
+Consolidated Edison,ED,2025Q1,2025-03-31,분기말 부채총계,46908000000,USD,계산(부채및자본-총자본),https://www.sec.gov/Archives/edgar/data/1047862/000104786225000045/,부채및자본 70691000000 − 총자본 23783000000,12
+Consolidated Edison,ED,2025Q1,2025-03-31,분기말 총자본(자기자본),23783000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1047862/000104786225000045/,,12
+Consolidated Edison,ED,2025Q1,2025-03-31,분기말 지배지분 자본,23783000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1047862/000104786225000045/,,12
+Consolidated Edison,ED,2025Q1,2025-03-31,분기말 종가,110.59,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/ED?interval=1d&events=splits (2025-03-31),,12
+Consolidated Edison,ED,2025Q1,2025-04-30,분기말 상장주식수,360296124,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/1047862/000104786225000045/,dei:EntityCommonStockSharesOutstanding 클래스 합,12
+Consolidated Edison,ED,2025Q1,2025-03-31,분기말 시가총액,39845148353,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/ED?interval=1d&events=splits (2025-03-31) ; https://www.sec.gov/Archives/edgar/data/1047862/000104786225000045/,종가 110.59 × 주식수 360296124,12
+Consolidated Edison,ED,2025Q2,2025-06-30,분기별 매출액,3595000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1047862/000104786225000069/,,12
+Consolidated Edison,ED,2025Q2,2025-06-30,분기별 영업이익,355000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1047862/000104786225000069/,,12
+Consolidated Edison,ED,2025Q2,2025-06-30,분기별 당기순이익(지배),246000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1047862/000104786225000069/,,12
+Consolidated Edison,ED,2025Q2,2025-06-30,분기별 영업활동현금흐름,1979000000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/1047862/000104786225000069/ ; https://www.sec.gov/Archives/edgar/data/1047862/000104786225000045/,누적 2816000000 − 직전누적 837000000 (시작 2025-01-01),12
+Consolidated Edison,ED,2025Q2,2025-06-30,분기말 자산총계,71501000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1047862/000104786225000069/,,12
+Consolidated Edison,ED,2025Q2,2025-06-30,분기말 부채총계,47745000000,USD,계산(부채및자본-총자본),https://www.sec.gov/Archives/edgar/data/1047862/000104786225000069/,부채및자본 71501000000 − 총자본 23756000000,12
+Consolidated Edison,ED,2025Q2,2025-06-30,분기말 총자본(자기자본),23756000000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/1047862/000104786225000069/,"StockholdersEquity, MinorityInterest 태그 없음",12
+Consolidated Edison,ED,2025Q2,2025-06-30,분기말 지배지분 자본,23756000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1047862/000104786225000069/,,12
+Consolidated Edison,ED,2025Q2,2025-06-30,분기말 종가,100.35,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/ED?interval=1d&events=splits (2025-06-30),,12
+Consolidated Edison,ED,2025Q2,2025-07-31,분기말 상장주식수,360651665,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/1047862/000104786225000069/,dei:EntityCommonStockSharesOutstanding 클래스 합,12
+Consolidated Edison,ED,2025Q2,2025-06-30,분기말 시가총액,36191394583,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/ED?interval=1d&events=splits (2025-06-30) ; https://www.sec.gov/Archives/edgar/data/1047862/000104786225000069/,종가 100.35 × 주식수 360651665,12
+Consolidated Edison,ED,2025Q3,2025-09-30,분기별 매출액,4530000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1047862/000104786225000138/,,12
+Consolidated Edison,ED,2025Q3,2025-09-30,분기별 영업이익,968000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1047862/000104786225000138/,,12
+Consolidated Edison,ED,2025Q3,2025-09-30,분기별 당기순이익(지배),688000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1047862/000104786225000138/,,12
+Consolidated Edison,ED,2025Q3,2025-09-30,분기별 영업활동현금흐름,504000000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/1047862/000104786225000138/ ; https://www.sec.gov/Archives/edgar/data/1047862/000104786225000069/,누적 3320000000 − 직전누적 2816000000 (시작 2025-01-01),12
+Consolidated Edison,ED,2025Q3,2025-09-30,분기말 자산총계,71844000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1047862/000104786225000138/,,12
+Consolidated Edison,ED,2025Q3,2025-09-30,분기말 부채총계,47676000000,USD,계산(부채및자본-총자본),https://www.sec.gov/Archives/edgar/data/1047862/000104786225000138/,부채및자본 71844000000 − 총자본 24168000000,12
+Consolidated Edison,ED,2025Q3,2025-09-30,분기말 총자본(자기자본),24168000000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/1047862/000104786225000138/,"StockholdersEquity, MinorityInterest 태그 없음",12
+Consolidated Edison,ED,2025Q3,2025-09-30,분기말 지배지분 자본,24168000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1047862/000104786225000138/,,12
+Consolidated Edison,ED,2025Q3,2025-09-30,분기말 종가,100.52,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/ED?interval=1d&events=splits (2025-09-30),,12
+Consolidated Edison,ED,2025Q3,2025-10-31,분기말 상장주식수,360935608,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/1047862/000104786225000138/,dei:EntityCommonStockSharesOutstanding 클래스 합,12
+Consolidated Edison,ED,2025Q3,2025-09-30,분기말 시가총액,36281247316,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/ED?interval=1d&events=splits (2025-09-30) ; https://www.sec.gov/Archives/edgar/data/1047862/000104786225000138/,종가 100.52 × 주식수 360935608,12
+Consolidated Edison,ED,2025Q4,2025-12-31,분기별 매출액,3994000000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/1047862/000104786226000031/ ; https://www.sec.gov/Archives/edgar/data/1047862/000104786225000138/,연간 16918000000 − 9개월누적 12924000000 (Revenues),12
+Consolidated Edison,ED,2025Q4,2025-12-31,분기별 영업이익,487000000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/1047862/000104786226000031/ ; https://www.sec.gov/Archives/edgar/data/1047862/000104786225000138/,연간 2935000000 − 9개월누적 2448000000 (OperatingIncomeLoss),12
+Consolidated Edison,ED,2025Q4,2025-12-31,분기별 당기순이익(지배),297000000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/1047862/000104786226000031/ ; https://www.sec.gov/Archives/edgar/data/1047862/000104786225000138/,연간 2023000000 − 9개월누적 1726000000 (NetIncomeLoss),12
+Consolidated Edison,ED,2025Q4,2025-12-31,분기별 영업활동현금흐름,1480000000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/1047862/000104786226000031/ ; https://www.sec.gov/Archives/edgar/data/1047862/000104786225000138/,누적 4800000000 − 직전누적 3320000000 (시작 2025-01-01),12
+Consolidated Edison,ED,2025Q4,2025-12-31,분기말 자산총계,74603000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1047862/000104786226000031/,,12
+Consolidated Edison,ED,2025Q4,2025-12-31,분기말 부채총계,50413000000,USD,계산(부채및자본-총자본),https://www.sec.gov/Archives/edgar/data/1047862/000104786226000031/,부채및자본 74603000000 − 총자본 24190000000,12
+Consolidated Edison,ED,2025Q4,2025-12-31,분기말 총자본(자기자본),24190000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1047862/000104786226000031/,,12
+Consolidated Edison,ED,2025Q4,2025-12-31,분기말 지배지분 자본,24190000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1047862/000104786226000031/,,12
+Consolidated Edison,ED,2025Q4,2025-12-31,분기말 종가,99.32,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/ED?interval=1d&events=splits (2025-12-31),,12
+Consolidated Edison,ED,2025Q4,2026-01-31,분기말 상장주식수,361247438,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/1047862/000104786226000031/,dei:EntityCommonStockSharesOutstanding 클래스 합,12
+Consolidated Edison,ED,2025Q4,2025-12-31,분기말 시가총액,35879095542,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/ED?interval=1d&events=splits (2025-12-31) ; https://www.sec.gov/Archives/edgar/data/1047862/000104786226000031/,종가 99.32 × 주식수 361247438,12
+Consolidated Edison,ED,2026Q1,2026-03-31,분기별 매출액,5095000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1047862/000104786226000091/,,12
+Consolidated Edison,ED,2026Q1,2026-03-31,분기별 영업이익,1177000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1047862/000104786226000091/,,12
+Consolidated Edison,ED,2026Q1,2026-03-31,분기별 당기순이익(지배),924000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1047862/000104786226000091/,,12
+Consolidated Edison,ED,2026Q1,2026-03-31,분기별 영업활동현금흐름,174000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1047862/000104786226000091/,,12
+Consolidated Edison,ED,2026Q1,2026-03-31,분기말 자산총계,74741000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1047862/000104786226000091/,,12
+Consolidated Edison,ED,2026Q1,2026-03-31,분기말 부채총계,49145000000,USD,계산(부채및자본-총자본),https://www.sec.gov/Archives/edgar/data/1047862/000104786226000091/,부채및자본 74741000000 − 총자본 25596000000,12
+Consolidated Edison,ED,2026Q1,2026-03-31,분기말 총자본(자기자본),25596000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1047862/000104786226000091/,,12
+Consolidated Edison,ED,2026Q1,2026-03-31,분기말 지배지분 자본,25596000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1047862/000104786226000091/,,12
+Consolidated Edison,ED,2026Q1,2026-03-31,분기말 종가,113.18,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/ED?interval=1d&events=splits (2026-03-31),,12
+Consolidated Edison,ED,2026Q1,2026-04-30,분기말 상장주식수,368529705,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/1047862/000104786226000091/,dei:EntityCommonStockSharesOutstanding 클래스 합,12
+Consolidated Edison,ED,2026Q1,2026-03-31,분기말 시가총액,41710192012,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/ED?interval=1d&events=splits (2026-03-31) ; https://www.sec.gov/Archives/edgar/data/1047862/000104786226000091/,종가 113.18 × 주식수 368529705,12
+Consolidated Edison,ED,2026Q2,2026-06-30,분기별 매출액,4069000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1047862/000104786226000142/,값은 XBRL 원문(companyfacts 미반영 보고서),12
+Consolidated Edison,ED,2026Q2,2026-06-30,분기별 영업이익,552000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1047862/000104786226000142/,값은 XBRL 원문(companyfacts 미반영 보고서),12
+Consolidated Edison,ED,2026Q2,2026-06-30,분기별 당기순이익(지배),308000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1047862/000104786226000142/,값은 XBRL 원문(companyfacts 미반영 보고서),12
+Consolidated Edison,ED,2026Q2,2026-06-30,분기별 영업활동현금흐름,1797000000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/1047862/000104786226000142/ ; https://www.sec.gov/Archives/edgar/data/1047862/000104786226000091/,누적 1971000000 − 직전누적 174000000 (시작 2026-01-01) ; 값은 XBRL 원문(companyfacts 미반영 보고서),12
+Consolidated Edison,ED,2026Q2,2026-06-30,분기말 자산총계,76459000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1047862/000104786226000142/,값은 XBRL 원문(companyfacts 미반영 보고서),12
+Consolidated Edison,ED,2026Q2,2026-06-30,분기말 부채총계,50740000000,USD,계산(부채및자본-총자본),https://www.sec.gov/Archives/edgar/data/1047862/000104786226000142/,부채및자본 76459000000 − 총자본 25719000000 ; 값은 XBRL 원문(companyfacts 미반영 보고서),12
+Consolidated Edison,ED,2026Q2,2026-06-30,분기말 총자본(자기자본),25719000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1047862/000104786226000142/,값은 XBRL 원문(companyfacts 미반영 보고서),12
+Consolidated Edison,ED,2026Q2,2026-06-30,분기말 지배지분 자본,25719000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1047862/000104786226000142/,값은 XBRL 원문(companyfacts 미반영 보고서),12
+Consolidated Edison,ED,2026Q2,2026-06-30,분기말 종가,110.63,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/ED?interval=1d&events=splits (2026-06-30),,12
+Consolidated Edison,ED,2026Q2,2026-07-31,분기말 상장주식수,369828633,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/1047862/000104786226000142/,dei:EntityCommonStockSharesOutstanding 클래스 합 ; 값은 XBRL 원문(companyfacts 미반영 보고서),12
+Consolidated Edison,ED,2026Q2,2026-06-30,분기말 시가총액,40914141669,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/ED?interval=1d&events=splits (2026-06-30) ; https://www.sec.gov/Archives/edgar/data/1047862/000104786226000142/,종가 110.63 × 주식수 369828633 ; 값은 XBRL 원문(companyfacts 미반영 보고서),12

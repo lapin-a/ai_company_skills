@@ -1,0 +1,727 @@
+﻿기업,종목코드,기간,기준일,항목,값,통화,값구분,출처,검산,라운드
+Flex,FLEX,2010Q1,2010-03-31,분기별 매출액,5940156000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/866374/000095012310052098/ ; https://www.sec.gov/Archives/edgar/data/866374/000095012310007677/,연간 24110733000 − 9개월누적 18170577000 (Revenues),12
+Flex,FLEX,2010Q1,2010-03-31,분기별 영업이익,미확인,USD,미확인,https://www.sec.gov/Archives/edgar/data/866374/000095012310052098/,,12
+Flex,FLEX,2010Q1,2010-03-31,분기별 당기순이익(지배),60108000,USD,"계산(연간-3분기누적, 비지배 없음)",https://www.sec.gov/Archives/edgar/data/866374/000095012310052098/ ; https://www.sec.gov/Archives/edgar/data/866374/000095012310007677/,연간 18594000 − 9개월누적 -41514000 (ProfitLoss),12
+Flex,FLEX,2010Q1,2010-03-31,분기별 영업활동현금흐름,49208000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/866374/000095012310052098/ ; https://www.sec.gov/Archives/edgar/data/866374/000095012310007677/,누적 798916000 − 직전누적 749708000 (시작 2009-04-01),12
+Flex,FLEX,2010Q1,2010-03-31,분기말 자산총계,10642552000,USD,공시,https://www.sec.gov/Archives/edgar/data/866374/000095012310052098/,,12
+Flex,FLEX,2010Q1,2010-03-31,분기말 부채총계,8657985000,USD,계산(부채및자본-총자본),https://www.sec.gov/Archives/edgar/data/866374/000095012310052098/,부채및자본 10642552000 − 총자본 1984567000,12
+Flex,FLEX,2010Q1,2010-03-31,분기말 총자본(자기자본),1984567000,USD,공시,https://www.sec.gov/Archives/edgar/data/866374/000095012310052098/,,12
+Flex,FLEX,2010Q1,2010-03-31,분기말 지배지분 자본,1984567000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/866374/000095012310052098/,"StockholdersEquityIncludingPortionAttributableToNoncontrollingInterest, MinorityInterest 태그 없음",12
+Flex,FLEX,2010Q1,2010-03-31,분기말 종가,7.84,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/FLEX?interval=1d&events=splits (2010-03-31),분할조정 종가 5.9081 × 이후 분할계수 1.327,12
+Flex,FLEX,2010Q1,2010-05-14,분기말 상장주식수,814611688,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/866374/000095012310052098/,dei:EntityCommonStockSharesOutstanding 클래스 합,12
+Flex,FLEX,2010Q1,2010-03-31,분기말 시가총액,6386555634,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/FLEX?interval=1d&events=splits (2010-03-31) ; https://www.sec.gov/Archives/edgar/data/866374/000095012310052098/,종가 7.84 × 주식수 814611688,12
+Flex,FLEX,2010Q2,2010-07-02,분기별 매출액,6565880000,USD,공시,https://www.sec.gov/Archives/edgar/data/866374/000095012310073135/,,12
+Flex,FLEX,2010Q2,2010-07-02,분기별 영업이익,미확인,USD,미확인,https://www.sec.gov/Archives/edgar/data/866374/000095012310073135/,,12
+Flex,FLEX,2010Q2,2010-07-02,분기별 당기순이익(지배),118178000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/866374/000095012310073135/,,12
+Flex,FLEX,2010Q2,2010-07-02,분기별 영업활동현금흐름,88764000,USD,공시,https://www.sec.gov/Archives/edgar/data/866374/000095012310073135/,,12
+Flex,FLEX,2010Q2,2010-07-02,분기말 자산총계,11295226000,USD,공시,https://www.sec.gov/Archives/edgar/data/866374/000095012310073135/,,12
+Flex,FLEX,2010Q2,2010-07-02,분기말 부채총계,9324139000,USD,계산(부채및자본-총자본),https://www.sec.gov/Archives/edgar/data/866374/000095012310073135/,부채및자본 11295226000 − 총자본 1971087000,12
+Flex,FLEX,2010Q2,2010-07-02,분기말 총자본(자기자본),1971087000,USD,공시,https://www.sec.gov/Archives/edgar/data/866374/000095012310073135/,,12
+Flex,FLEX,2010Q2,2010-07-02,분기말 지배지분 자본,1971087000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/866374/000095012310073135/,"StockholdersEquityIncludingPortionAttributableToNoncontrollingInterest, MinorityInterest 태그 없음",12
+Flex,FLEX,2010Q2,2010-07-02,분기말 종가,5.68,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/FLEX?interval=1d&events=splits (2010-07-02),분할조정 종가 4.2803 × 이후 분할계수 1.327,12
+Flex,FLEX,2010Q2,2010-07-30,분기말 상장주식수,785457012,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/866374/000095012310073135/,dei:EntityCommonStockSharesOutstanding 클래스 합,12
+Flex,FLEX,2010Q2,2010-07-02,분기말 시가총액,4461395828,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/FLEX?interval=1d&events=splits (2010-07-02) ; https://www.sec.gov/Archives/edgar/data/866374/000095012310073135/,종가 5.68 × 주식수 785457012,12
+Flex,FLEX,2010Q3,2010-10-01,분기별 매출액,7422338000,USD,공시,https://www.sec.gov/Archives/edgar/data/866374/000095012310100203/,,12
+Flex,FLEX,2010Q3,2010-10-01,분기별 영업이익,미확인,USD,미확인,https://www.sec.gov/Archives/edgar/data/866374/000095012310100203/,,12
+Flex,FLEX,2010Q3,2010-10-01,분기별 당기순이익(지배),144416000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/866374/000095012310100203/,,12
+Flex,FLEX,2010Q3,2010-10-01,분기별 영업활동현금흐름,508755000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/866374/000095012310100203/ ; https://www.sec.gov/Archives/edgar/data/866374/000095012310073135/,누적 597519000 − 직전누적 88764000 (시작 2010-04-01),12
+Flex,FLEX,2010Q3,2010-10-01,분기말 자산총계,12009637000,USD,공시,https://www.sec.gov/Archives/edgar/data/866374/000095012310100203/,,12
+Flex,FLEX,2010Q3,2010-10-01,분기말 부채총계,9990056000,USD,계산(부채및자본-총자본),https://www.sec.gov/Archives/edgar/data/866374/000095012310100203/,부채및자본 12009637000 − 총자본 2019581000,12
+Flex,FLEX,2010Q3,2010-10-01,분기말 총자본(자기자본),2019581000,USD,공시,https://www.sec.gov/Archives/edgar/data/866374/000095012310100203/,,12
+Flex,FLEX,2010Q3,2010-10-01,분기말 지배지분 자본,2019581000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/866374/000095012310100203/,"StockholdersEquityIncludingPortionAttributableToNoncontrollingInterest, MinorityInterest 태그 없음",12
+Flex,FLEX,2010Q3,2010-10-01,분기말 종가,6.04,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/FLEX?interval=1d&events=splits (2010-10-01),분할조정 종가 4.5516 × 이후 분할계수 1.327,12
+Flex,FLEX,2010Q3,2010-10-28,분기말 상장주식수,766200284,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/866374/000095012310100203/,dei:EntityCommonStockSharesOutstanding 클래스 합,12
+Flex,FLEX,2010Q3,2010-10-01,분기말 시가총액,4627849715,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/FLEX?interval=1d&events=splits (2010-10-01) ; https://www.sec.gov/Archives/edgar/data/866374/000095012310100203/,종가 6.04 × 주식수 766200284,12
+Flex,FLEX,2010Q4,2010-12-31,분기별 매출액,7832856000,USD,공시,https://www.sec.gov/Archives/edgar/data/866374/000095012311008376/,,12
+Flex,FLEX,2010Q4,2010-12-31,분기별 영업이익,미확인,USD,미확인,https://www.sec.gov/Archives/edgar/data/866374/000095012311008376/,,12
+Flex,FLEX,2010Q4,2010-12-31,분기별 당기순이익(지배),198290000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/866374/000095012311008376/,,12
+Flex,FLEX,2010Q4,2010-12-31,분기별 영업활동현금흐름,-14689000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/866374/000095012311008376/ ; https://www.sec.gov/Archives/edgar/data/866374/000095012310100203/,누적 582830000 − 직전누적 597519000 (시작 2010-04-01),12
+Flex,FLEX,2010Q4,2010-12-31,분기말 자산총계,11704317000,USD,공시,https://www.sec.gov/Archives/edgar/data/866374/000095012311008376/,,12
+Flex,FLEX,2010Q4,2010-12-31,분기말 부채총계,9537069000,USD,계산(부채및자본-총자본),https://www.sec.gov/Archives/edgar/data/866374/000095012311008376/,부채및자본 11704317000 − 총자본 2167248000,12
+Flex,FLEX,2010Q4,2010-12-31,분기말 총자본(자기자본),2167248000,USD,공시,https://www.sec.gov/Archives/edgar/data/866374/000095012311008376/,,12
+Flex,FLEX,2010Q4,2010-12-31,분기말 지배지분 자본,2167248000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/866374/000095012311008376/,"StockholdersEquityIncludingPortionAttributableToNoncontrollingInterest, MinorityInterest 태그 없음",12
+Flex,FLEX,2010Q4,2010-12-31,분기말 종가,7.85,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/FLEX?interval=1d&events=splits (2010-12-31),분할조정 종가 5.9156 × 이후 분할계수 1.327,12
+Flex,FLEX,2010Q4,2011-01-27,분기말 상장주식수,760012116,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/866374/000095012311008376/,dei:EntityCommonStockSharesOutstanding 클래스 합,12
+Flex,FLEX,2010Q4,2010-12-31,분기말 시가총액,5966095111,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/FLEX?interval=1d&events=splits (2010-12-31) ; https://www.sec.gov/Archives/edgar/data/866374/000095012311008376/,종가 7.85 × 주식수 760012116,12
+Flex,FLEX,2011Q1,2011-03-31,분기별 매출액,6858851000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/866374/000104746911005449/ ; https://www.sec.gov/Archives/edgar/data/866374/000095012311008376/,연간 28679925000 − 9개월누적 21821074000 (Revenues),12
+Flex,FLEX,2011Q1,2011-03-31,분기별 영업이익,미확인,USD,미확인,https://www.sec.gov/Archives/edgar/data/866374/000104746911005449/,,12
+Flex,FLEX,2011Q1,2011-03-31,분기별 당기순이익(지배),135335000,USD,"계산(연간-3분기누적, 비지배 없음)",https://www.sec.gov/Archives/edgar/data/866374/000104746911005449/ ; https://www.sec.gov/Archives/edgar/data/866374/000095012311008376/,연간 596219000 − 9개월누적 460884000 (ProfitLoss),12
+Flex,FLEX,2011Q1,2011-03-31,분기별 영업활동현금흐름,274514000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/866374/000104746911005449/ ; https://www.sec.gov/Archives/edgar/data/866374/000095012311008376/,누적 857344000 − 직전누적 582830000 (시작 2010-04-01),12
+Flex,FLEX,2011Q1,2011-03-31,분기말 자산총계,11633152000,USD,공시,https://www.sec.gov/Archives/edgar/data/866374/000104746911005449/,,12
+Flex,FLEX,2011Q1,2011-03-31,분기말 부채총계,9338456000,USD,계산(부채및자본-총자본),https://www.sec.gov/Archives/edgar/data/866374/000104746911005449/,부채및자본 11633152000 − 총자본 2294696000,12
+Flex,FLEX,2011Q1,2011-03-31,분기말 총자본(자기자본),2294696000,USD,공시,https://www.sec.gov/Archives/edgar/data/866374/000104746911005449/,,12
+Flex,FLEX,2011Q1,2011-03-31,분기말 지배지분 자본,2294696000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/866374/000104746911005449/,"StockholdersEquityIncludingPortionAttributableToNoncontrollingInterest, MinorityInterest 태그 없음",12
+Flex,FLEX,2011Q1,2011-03-31,분기말 종가,7.47,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/FLEX?interval=1d&events=splits (2011-03-31),분할조정 종가 5.6292 × 이후 분할계수 1.327,12
+Flex,FLEX,2011Q1,2011-05-13,분기말 상장주식수,757990826,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/866374/000104746911005449/,dei:EntityCommonStockSharesOutstanding 클래스 합,12
+Flex,FLEX,2011Q1,2011-03-31,분기말 시가총액,5662191470,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/FLEX?interval=1d&events=splits (2011-03-31) ; https://www.sec.gov/Archives/edgar/data/866374/000104746911005449/,종가 7.47 × 주식수 757990826,12
+Flex,FLEX,2011Q2,2011-07-01,분기별 매출액,7547751000,USD,공시,https://www.sec.gov/Archives/edgar/data/866374/000110465911045335/,,12
+Flex,FLEX,2011Q2,2011-07-01,분기별 영업이익,미확인,USD,미확인,https://www.sec.gov/Archives/edgar/data/866374/000110465911045335/,,12
+Flex,FLEX,2011Q2,2011-07-01,분기별 당기순이익(지배),131975000,USD,공시,https://www.sec.gov/Archives/edgar/data/866374/000110465911045335/,,12
+Flex,FLEX,2011Q2,2011-07-01,분기별 영업활동현금흐름,136411000,USD,공시,https://www.sec.gov/Archives/edgar/data/866374/000110465911045335/,,12
+Flex,FLEX,2011Q2,2011-07-01,분기말 자산총계,12183131000,USD,공시,https://www.sec.gov/Archives/edgar/data/866374/000110465911045335/,,12
+Flex,FLEX,2011Q2,2011-07-01,분기말 부채총계,9946670000,USD,계산(부채및자본-총자본),https://www.sec.gov/Archives/edgar/data/866374/000110465911045335/,부채및자본 12183131000 − 총자본 2236461000,12
+Flex,FLEX,2011Q2,2011-07-01,분기말 총자본(자기자본),2236461000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/866374/000110465911045335/,"StockholdersEquity, MinorityInterest 태그 없음",12
+Flex,FLEX,2011Q2,2011-07-01,분기말 지배지분 자본,2236461000,USD,공시,https://www.sec.gov/Archives/edgar/data/866374/000110465911045335/,,12
+Flex,FLEX,2011Q2,2011-07-01,분기말 종가,6.6,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/FLEX?interval=1d&events=splits (2011-07-01),분할조정 종가 4.9736 × 이후 분할계수 1.327,12
+Flex,FLEX,2011Q2,2011-08-01,분기말 상장주식수,731491839,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/866374/000110465911045335/,dei:EntityCommonStockSharesOutstanding 클래스 합,12
+Flex,FLEX,2011Q2,2011-07-01,분기말 시가총액,4827846137,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/FLEX?interval=1d&events=splits (2011-07-01) ; https://www.sec.gov/Archives/edgar/data/866374/000110465911045335/,종가 6.6 × 주식수 731491839,12
+Flex,FLEX,2011Q3,2011-09-30,분기별 매출액,8044342000,USD,공시,https://www.sec.gov/Archives/edgar/data/866374/000110465911061016/,,12
+Flex,FLEX,2011Q3,2011-09-30,분기별 영업이익,미확인,USD,미확인,https://www.sec.gov/Archives/edgar/data/866374/000110465911061016/,,12
+Flex,FLEX,2011Q3,2011-09-30,분기별 당기순이익(지배),129880000,USD,공시,https://www.sec.gov/Archives/edgar/data/866374/000110465911061016/,,12
+Flex,FLEX,2011Q3,2011-09-30,분기별 영업활동현금흐름,300469000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/866374/000110465911061016/ ; https://www.sec.gov/Archives/edgar/data/866374/000110465911045335/,누적 436880000 − 직전누적 136411000 (시작 2011-04-01),12
+Flex,FLEX,2011Q3,2011-09-30,분기말 자산총계,12543198000,USD,공시,https://www.sec.gov/Archives/edgar/data/866374/000110465911061016/,,12
+Flex,FLEX,2011Q3,2011-09-30,분기말 부채총계,10339852000,USD,계산(부채및자본-총자본),https://www.sec.gov/Archives/edgar/data/866374/000110465911061016/,부채및자본 12543198000 − 총자본 2203346000,12
+Flex,FLEX,2011Q3,2011-09-30,분기말 총자본(자기자본),2203346000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/866374/000110465911061016/,"StockholdersEquity, MinorityInterest 태그 없음",12
+Flex,FLEX,2011Q3,2011-09-30,분기말 지배지분 자본,2203346000,USD,공시,https://www.sec.gov/Archives/edgar/data/866374/000110465911061016/,,12
+Flex,FLEX,2011Q3,2011-09-30,분기말 종가,5.63,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/FLEX?interval=1d&events=splits (2011-09-30),분할조정 종가 4.2427 × 이후 분할계수 1.327,12
+Flex,FLEX,2011Q3,2011-10-26,분기말 상장주식수,713189067,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/866374/000110465911061016/,dei:EntityCommonStockSharesOutstanding 클래스 합,12
+Flex,FLEX,2011Q3,2011-09-30,분기말 시가총액,4015254447,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/FLEX?interval=1d&events=splits (2011-09-30) ; https://www.sec.gov/Archives/edgar/data/866374/000110465911061016/,종가 5.63 × 주식수 713189067,12
+Flex,FLEX,2011Q4,2011-12-31,분기별 매출액,7492723000,USD,공시,https://www.sec.gov/Archives/edgar/data/866374/000110465912006174/,,12
+Flex,FLEX,2011Q4,2011-12-31,분기별 영업이익,미확인,USD,미확인,https://www.sec.gov/Archives/edgar/data/866374/000110465912006174/,,12
+Flex,FLEX,2011Q4,2011-12-31,분기별 당기순이익(지배),102177000,USD,공시,https://www.sec.gov/Archives/edgar/data/866374/000110465912006174/,,12
+Flex,FLEX,2011Q4,2011-12-31,분기별 영업활동현금흐름,228704000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/866374/000110465912006174/ ; https://www.sec.gov/Archives/edgar/data/866374/000110465911061016/,누적 665584000 − 직전누적 436880000 (시작 2011-04-01),12
+Flex,FLEX,2011Q4,2011-12-31,분기말 자산총계,11528211000,USD,공시,https://www.sec.gov/Archives/edgar/data/866374/000110465912006174/,,12
+Flex,FLEX,2011Q4,2011-12-31,분기말 부채총계,9307097000,USD,계산(부채및자본-총자본),https://www.sec.gov/Archives/edgar/data/866374/000110465912006174/,부채및자본 11528211000 − 총자본 2221114000,12
+Flex,FLEX,2011Q4,2011-12-31,분기말 총자본(자기자본),2221114000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/866374/000110465912006174/,"StockholdersEquity, MinorityInterest 태그 없음",12
+Flex,FLEX,2011Q4,2011-12-31,분기말 지배지분 자본,2221114000,USD,공시,https://www.sec.gov/Archives/edgar/data/866374/000110465912006174/,,12
+Flex,FLEX,2011Q4,2011-12-30,분기말 종가,5.66,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/FLEX?interval=1d&events=splits (2011-12-30),분할조정 종가 4.2653 × 이후 분할계수 1.327,12
+Flex,FLEX,2011Q4,2012-01-24,분기말 상장주식수,687028025,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/866374/000110465912006174/,dei:EntityCommonStockSharesOutstanding 클래스 합,12
+Flex,FLEX,2011Q4,2011-12-30,분기말 시가총액,3888578622,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/FLEX?interval=1d&events=splits (2011-12-30) ; https://www.sec.gov/Archives/edgar/data/866374/000110465912006174/,종가 5.66 × 주식수 687028025,12
+Flex,FLEX,2012Q1,2012-03-31,분기별 매출액,6302840000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/866374/000104746912006353/ ; https://www.sec.gov/Archives/edgar/data/866374/000110465912006174/,연간 29387656000 − 9개월누적 23084816000 (SalesRevenueNet),12
+Flex,FLEX,2012Q1,2012-03-31,분기별 영업이익,미확인,USD,미확인,https://www.sec.gov/Archives/edgar/data/866374/000104746912006353/,,12
+Flex,FLEX,2012Q1,2012-03-31,분기별 당기순이익(지배),124733000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/866374/000104746912006353/ ; https://www.sec.gov/Archives/edgar/data/866374/000110465912006174/,연간 488765000 − 9개월누적 364032000 (NetIncomeLoss),12
+Flex,FLEX,2012Q1,2012-03-31,분기별 영업활동현금흐름,138684000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/866374/000104746912006353/ ; https://www.sec.gov/Archives/edgar/data/866374/000110465912006174/,누적 804268000 − 직전누적 665584000 (시작 2011-04-01),12
+Flex,FLEX,2012Q1,2012-03-31,분기말 자산총계,11033804000,USD,공시,https://www.sec.gov/Archives/edgar/data/866374/000104746912006353/,,12
+Flex,FLEX,2012Q1,2012-03-31,분기말 부채총계,8749825000,USD,계산(부채및자본-총자본),https://www.sec.gov/Archives/edgar/data/866374/000104746912006353/,부채및자본 11033804000 − 총자본 2283979000,12
+Flex,FLEX,2012Q1,2012-03-31,분기말 총자본(자기자본),2283979000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/866374/000104746912006353/,"StockholdersEquity, MinorityInterest 태그 없음",12
+Flex,FLEX,2012Q1,2012-03-31,분기말 지배지분 자본,2283979000,USD,공시,https://www.sec.gov/Archives/edgar/data/866374/000104746912006353/,,12
+Flex,FLEX,2012Q1,2012-03-30,분기말 종가,7.22,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/FLEX?interval=1d&events=splits (2012-03-30),분할조정 종가 5.4408 × 이후 분할계수 1.327,12
+Flex,FLEX,2012Q1,2012-05-16,분기말 상장주식수,675246882,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/866374/000104746912006353/,dei:EntityCommonStockSharesOutstanding 클래스 합,12
+Flex,FLEX,2012Q1,2012-03-30,분기말 시가총액,4875282488,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/FLEX?interval=1d&events=splits (2012-03-30) ; https://www.sec.gov/Archives/edgar/data/866374/000104746912006353/,종가 7.22 × 주식수 675246882,12
+Flex,FLEX,2012Q2,2012-06-29,분기별 매출액,5989544000,USD,공시,https://www.sec.gov/Archives/edgar/data/866374/000110465912052187/,,12
+Flex,FLEX,2012Q2,2012-06-29,분기별 영업이익,미확인,USD,미확인,https://www.sec.gov/Archives/edgar/data/866374/000110465912052187/,,12
+Flex,FLEX,2012Q2,2012-06-29,분기별 당기순이익(지배),128472000,USD,공시,https://www.sec.gov/Archives/edgar/data/866374/000110465912052187/,,12
+Flex,FLEX,2012Q2,2012-06-29,분기별 영업활동현금흐름,45598000,USD,공시,https://www.sec.gov/Archives/edgar/data/866374/000110465912052187/,,12
+Flex,FLEX,2012Q2,2012-06-29,분기말 자산총계,10975115000,USD,공시,https://www.sec.gov/Archives/edgar/data/866374/000110465912052187/,,12
+Flex,FLEX,2012Q2,2012-06-29,분기말 부채총계,8729305000,USD,계산(부채및자본-총자본),https://www.sec.gov/Archives/edgar/data/866374/000110465912052187/,부채및자본 10975115000 − 총자본 2245810000,12
+Flex,FLEX,2012Q2,2012-06-29,분기말 총자본(자기자본),2245810000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/866374/000110465912052187/,"StockholdersEquity, MinorityInterest 태그 없음",12
+Flex,FLEX,2012Q2,2012-06-29,분기말 지배지분 자본,2245810000,USD,공시,https://www.sec.gov/Archives/edgar/data/866374/000110465912052187/,,12
+Flex,FLEX,2012Q2,2012-06-29,분기말 종가,6.2,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/FLEX?interval=1d&events=splits (2012-06-29),분할조정 종가 4.6722 × 이후 분할계수 1.327,12
+Flex,FLEX,2012Q2,2012-07-24,분기말 상장주식수,665498498,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/866374/000110465912052187/,dei:EntityCommonStockSharesOutstanding 클래스 합,12
+Flex,FLEX,2012Q2,2012-06-29,분기말 시가총액,4126090688,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/FLEX?interval=1d&events=splits (2012-06-29) ; https://www.sec.gov/Archives/edgar/data/866374/000110465912052187/,종가 6.2 × 주식수 665498498,12
+Flex,FLEX,2012Q3,2012-09-28,분기별 매출액,6174841000,USD,공시,https://www.sec.gov/Archives/edgar/data/866374/000110465912071545/,,12
+Flex,FLEX,2012Q3,2012-09-28,분기별 영업이익,미확인,USD,미확인,https://www.sec.gov/Archives/edgar/data/866374/000110465912071545/,,12
+Flex,FLEX,2012Q3,2012-09-28,분기별 당기순이익(지배),150547000,USD,공시,https://www.sec.gov/Archives/edgar/data/866374/000110465912071545/,,12
+Flex,FLEX,2012Q3,2012-09-28,분기별 영업활동현금흐름,482247000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/866374/000110465912071545/ ; https://www.sec.gov/Archives/edgar/data/866374/000110465912052187/,누적 527845000 − 직전누적 45598000 (시작 2012-04-01),12
+Flex,FLEX,2012Q3,2012-09-28,분기말 자산총계,11189268000,USD,공시,https://www.sec.gov/Archives/edgar/data/866374/000110465912071545/,,12
+Flex,FLEX,2012Q3,2012-09-28,분기말 부채총계,8736325000,USD,계산(부채및자본-총자본),https://www.sec.gov/Archives/edgar/data/866374/000110465912071545/,부채및자본 11189268000 − 총자본 2452943000,12
+Flex,FLEX,2012Q3,2012-09-28,분기말 총자본(자기자본),2452943000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/866374/000110465912071545/,"StockholdersEquity, MinorityInterest 태그 없음",12
+Flex,FLEX,2012Q3,2012-09-28,분기말 지배지분 자본,2452943000,USD,공시,https://www.sec.gov/Archives/edgar/data/866374/000110465912071545/,,12
+Flex,FLEX,2012Q3,2012-09-28,분기말 종가,6.0,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/FLEX?interval=1d&events=splits (2012-09-28),분할조정 종가 4.5215 × 이후 분할계수 1.327,12
+Flex,FLEX,2012Q3,2012-10-22,분기말 상장주식수,663220260,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/866374/000110465912071545/,dei:EntityCommonStockSharesOutstanding 클래스 합,12
+Flex,FLEX,2012Q3,2012-09-28,분기말 시가총액,3979321560,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/FLEX?interval=1d&events=splits (2012-09-28) ; https://www.sec.gov/Archives/edgar/data/866374/000110465912071545/,종가 6.0 × 주식수 663220260,12
+Flex,FLEX,2012Q4,2012-12-31,분기별 매출액,6123321000,USD,공시,https://www.sec.gov/Archives/edgar/data/866374/000110465913007151/,,12
+Flex,FLEX,2012Q4,2012-12-31,분기별 영업이익,미확인,USD,미확인,https://www.sec.gov/Archives/edgar/data/866374/000110465913007151/,,12
+Flex,FLEX,2012Q4,2012-12-31,분기별 당기순이익(지배),25040000,USD,공시,https://www.sec.gov/Archives/edgar/data/866374/000110465913007151/,,12
+Flex,FLEX,2012Q4,2012-12-31,분기별 영업활동현금흐름,478212000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/866374/000110465913007151/ ; https://www.sec.gov/Archives/edgar/data/866374/000110465912071545/,누적 1006057000 − 직전누적 527845000 (시작 2012-04-01),12
+Flex,FLEX,2012Q4,2012-12-31,분기말 자산총계,11153694000,USD,공시,https://www.sec.gov/Archives/edgar/data/866374/000110465913007151/,,12
+Flex,FLEX,2012Q4,2012-12-31,분기말 부채총계,8751084000,USD,계산(부채및자본-총자본),https://www.sec.gov/Archives/edgar/data/866374/000110465913007151/,부채및자본 11153694000 − 총자본 2402610000,12
+Flex,FLEX,2012Q4,2012-12-31,분기말 총자본(자기자본),2402610000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/866374/000110465913007151/,"StockholdersEquity, MinorityInterest 태그 없음",12
+Flex,FLEX,2012Q4,2012-12-31,분기말 지배지분 자본,2402610000,USD,공시,https://www.sec.gov/Archives/edgar/data/866374/000110465913007151/,,12
+Flex,FLEX,2012Q4,2012-12-31,분기말 종가,6.21,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/FLEX?interval=1d&events=splits (2012-12-31),분할조정 종가 4.6797 × 이후 분할계수 1.327,12
+Flex,FLEX,2012Q4,2013-01-29,분기말 상장주식수,655826862,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/866374/000110465913007151/,dei:EntityCommonStockSharesOutstanding 클래스 합,12
+Flex,FLEX,2012Q4,2012-12-31,분기말 시가총액,4072684813,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/FLEX?interval=1d&events=splits (2012-12-31) ; https://www.sec.gov/Archives/edgar/data/866374/000110465913007151/,종가 6.21 × 주식수 655826862,12
+Flex,FLEX,2013Q1,2013-03-31,분기별 매출액,5295318000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/866374/000104746913006516/ ; https://www.sec.gov/Archives/edgar/data/866374/000110465913007151/,연간 23569475000 − 9개월누적 18274157000 (SalesRevenueNet),12
+Flex,FLEX,2013Q1,2013-03-31,분기별 영업이익,미확인,USD,미확인,https://www.sec.gov/Archives/edgar/data/866374/000104746913006516/,,12
+Flex,FLEX,2013Q1,2013-03-31,분기별 당기순이익(지배),-27008000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/866374/000104746913006516/ ; https://www.sec.gov/Archives/edgar/data/866374/000110465913007151/,연간 277051000 − 9개월누적 304059000 (NetIncomeLoss),12
+Flex,FLEX,2013Q1,2013-03-31,분기별 영업활동현금흐름,109373000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/866374/000104746913006516/ ; https://www.sec.gov/Archives/edgar/data/866374/000110465913007151/,누적 1115430000 − 직전누적 1006057000 (시작 2012-04-01),12
+Flex,FLEX,2013Q1,2013-03-31,분기말 자산총계,10591555000,USD,공시,https://www.sec.gov/Archives/edgar/data/866374/000104746913006516/,,12
+Flex,FLEX,2013Q1,2013-03-31,분기말 부채총계,8344797000,USD,계산(부채및자본-총자본),https://www.sec.gov/Archives/edgar/data/866374/000104746913006516/,부채및자본 10591555000 − 총자본 2246758000,12
+Flex,FLEX,2013Q1,2013-03-31,분기말 총자본(자기자본),2246758000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/866374/000104746913006516/,"StockholdersEquity, MinorityInterest 태그 없음",12
+Flex,FLEX,2013Q1,2013-03-31,분기말 지배지분 자본,2246758000,USD,공시,https://www.sec.gov/Archives/edgar/data/866374/000104746913006516/,,12
+Flex,FLEX,2013Q1,2013-03-28,분기말 종가,6.76,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/FLEX?interval=1d&events=splits (2013-03-28),분할조정 종가 5.0942 × 이후 분할계수 1.327,12
+Flex,FLEX,2013Q1,2013-05-16,분기말 상장주식수,625659713,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/866374/000104746913006516/,dei:EntityCommonStockSharesOutstanding 클래스 합,12
+Flex,FLEX,2013Q1,2013-03-28,분기말 시가총액,4229459660,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/FLEX?interval=1d&events=splits (2013-03-28) ; https://www.sec.gov/Archives/edgar/data/866374/000104746913006516/,종가 6.76 × 주식수 625659713,12
+Flex,FLEX,2013Q2,2013-06-28,분기별 매출액,5791125000,USD,공시,https://www.sec.gov/Archives/edgar/data/866374/000110465913059063/,,12
+Flex,FLEX,2013Q2,2013-06-28,분기별 영업이익,미확인,USD,미확인,https://www.sec.gov/Archives/edgar/data/866374/000110465913059063/,,12
+Flex,FLEX,2013Q2,2013-06-28,분기별 당기순이익(지배),59257000,USD,공시,https://www.sec.gov/Archives/edgar/data/866374/000110465913059063/,,12
+Flex,FLEX,2013Q2,2013-06-28,분기별 영업활동현금흐름,198576000,USD,공시,https://www.sec.gov/Archives/edgar/data/866374/000110465913059063/,,12
+Flex,FLEX,2013Q2,2013-06-28,분기말 자산총계,11168924000,USD,공시,https://www.sec.gov/Archives/edgar/data/866374/000110465913059063/,,12
+Flex,FLEX,2013Q2,2013-06-28,분기말 부채총계,9080316000,USD,계산(부채및자본-총자본),https://www.sec.gov/Archives/edgar/data/866374/000110465913059063/,부채및자본 11168924000 − 총자본 2088608000,12
+Flex,FLEX,2013Q2,2013-06-28,분기말 총자본(자기자본),2088608000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/866374/000110465913059063/,"StockholdersEquity, MinorityInterest 태그 없음",12
+Flex,FLEX,2013Q2,2013-06-28,분기말 지배지분 자본,2088608000,USD,공시,https://www.sec.gov/Archives/edgar/data/866374/000110465913059063/,,12
+Flex,FLEX,2013Q2,2013-06-28,분기말 종가,7.74,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/FLEX?interval=1d&events=splits (2013-06-28),분할조정 종가 5.8327 × 이후 분할계수 1.327,12
+Flex,FLEX,2013Q2,2013-07-29,분기말 상장주식수,612131904,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/866374/000110465913059063/,dei:EntityCommonStockSharesOutstanding 클래스 합,12
+Flex,FLEX,2013Q2,2013-06-28,분기말 시가총액,4737900937,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/FLEX?interval=1d&events=splits (2013-06-28) ; https://www.sec.gov/Archives/edgar/data/866374/000110465913059063/,종가 7.74 × 주식수 612131904,12
+Flex,FLEX,2013Q3,2013-09-27,분기별 매출액,6410106000,USD,공시,https://www.sec.gov/Archives/edgar/data/866374/000110465913080056/,,12
+Flex,FLEX,2013Q3,2013-09-27,분기별 영업이익,미확인,USD,미확인,https://www.sec.gov/Archives/edgar/data/866374/000110465913080056/,,12
+Flex,FLEX,2013Q3,2013-09-27,분기별 당기순이익(지배),118205000,USD,공시,https://www.sec.gov/Archives/edgar/data/866374/000110465913080056/,,12
+Flex,FLEX,2013Q3,2013-09-27,분기별 영업활동현금흐름,155182000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/866374/000110465913080056/ ; https://www.sec.gov/Archives/edgar/data/866374/000110465913059063/,누적 353758000 − 직전누적 198576000 (시작 2013-04-01),12
+Flex,FLEX,2013Q3,2013-09-27,분기말 자산총계,12004485000,USD,공시,https://www.sec.gov/Archives/edgar/data/866374/000110465913080056/,,12
+Flex,FLEX,2013Q3,2013-09-27,분기말 부채총계,9886020000,USD,계산(부채및자본-총자본),https://www.sec.gov/Archives/edgar/data/866374/000110465913080056/,부채및자본 12004485000 − 총자본 2118465000,12
+Flex,FLEX,2013Q3,2013-09-27,분기말 총자본(자기자본),2118465000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/866374/000110465913080056/,"StockholdersEquity, MinorityInterest 태그 없음",12
+Flex,FLEX,2013Q3,2013-09-27,분기말 지배지분 자본,2118465000,USD,공시,https://www.sec.gov/Archives/edgar/data/866374/000110465913080056/,,12
+Flex,FLEX,2013Q3,2013-09-27,분기말 종가,9.14,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/FLEX?interval=1d&events=splits (2013-09-27),분할조정 종가 6.8877 × 이후 분할계수 1.327,12
+Flex,FLEX,2013Q3,2013-10-25,분기말 상장주식수,607783096,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/866374/000110465913080056/,dei:EntityCommonStockSharesOutstanding 클래스 합,12
+Flex,FLEX,2013Q3,2013-09-27,분기말 시가총액,5555137497,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/FLEX?interval=1d&events=splits (2013-09-27) ; https://www.sec.gov/Archives/edgar/data/866374/000110465913080056/,종가 9.14 × 주식수 607783096,12
+Flex,FLEX,2013Q4,2013-12-31,분기별 매출액,7183442000,USD,공시,https://www.sec.gov/Archives/edgar/data/866374/000110465914005587/,,12
+Flex,FLEX,2013Q4,2013-12-31,분기별 영업이익,미확인,USD,미확인,https://www.sec.gov/Archives/edgar/data/866374/000110465914005587/,,12
+Flex,FLEX,2013Q4,2013-12-31,분기별 당기순이익(지배),145157000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/866374/000110465914005587/,,12
+Flex,FLEX,2013Q4,2013-12-31,분기별 영업활동현금흐름,764549000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/866374/000110465914005587/ ; https://www.sec.gov/Archives/edgar/data/866374/000110465913080056/,누적 1118307000 − 직전누적 353758000 (시작 2013-04-01),12
+Flex,FLEX,2013Q4,2013-12-31,분기말 자산총계,12817037000,USD,공시,https://www.sec.gov/Archives/edgar/data/866374/000110465914005587/,,12
+Flex,FLEX,2013Q4,2013-12-31,분기말 부채총계,10562485000,USD,계산(부채및자본-총자본),https://www.sec.gov/Archives/edgar/data/866374/000110465914005587/,부채및자본 12817037000 − 총자본 2254552000,12
+Flex,FLEX,2013Q4,2013-12-31,분기말 총자본(자기자본),2254552000,USD,공시,https://www.sec.gov/Archives/edgar/data/866374/000110465914005587/,,12
+Flex,FLEX,2013Q4,2013-12-31,분기말 지배지분 자본,2220747000,USD,공시,https://www.sec.gov/Archives/edgar/data/866374/000110465914005587/,,12
+Flex,FLEX,2013Q4,2013-12-31,분기말 종가,7.77,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/FLEX?interval=1d&events=splits (2013-12-31),분할조정 종가 5.8553 × 이후 분할계수 1.327,12
+Flex,FLEX,2013Q4,2014-01-24,분기말 상장주식수,602407232,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/866374/000110465914005587/,dei:EntityCommonStockSharesOutstanding 클래스 합,12
+Flex,FLEX,2013Q4,2013-12-31,분기말 시가총액,4680704193,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/FLEX?interval=1d&events=splits (2013-12-31) ; https://www.sec.gov/Archives/edgar/data/866374/000110465914005587/,종가 7.77 × 주식수 602407232,12
+Flex,FLEX,2014Q1,2014-03-31,분기별 매출액,6723934000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/866374/000104746914005069/ ; https://www.sec.gov/Archives/edgar/data/866374/000110465914005587/,연간 26108607000 − 9개월누적 19384673000 (SalesRevenueNet),12
+Flex,FLEX,2014Q1,2014-03-31,분기별 영업이익,미확인,USD,미확인,https://www.sec.gov/Archives/edgar/data/866374/000104746914005069/,,12
+Flex,FLEX,2014Q1,2014-03-31,분기별 당기순이익(지배),42595000,USD,"계산(연간-3분기누적, 비지배 없음)(재작성 반영)",https://www.sec.gov/Archives/edgar/data/866374/000162828016016576/ ; https://www.sec.gov/Archives/edgar/data/866374/000110465914005587/,연간 365214000 − 9개월누적 322619000 (ProfitLoss) ; 원 공시 42975000 (https://www.sec.gov/Archives/edgar/data/866374/000104746914005069/ ; https://www.sec.gov/Archives/edgar/data/866374/000110465914005587/),12
+Flex,FLEX,2014Q1,2014-03-31,분기별 영업활동현금흐름,98153000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/866374/000104746914005069/ ; https://www.sec.gov/Archives/edgar/data/866374/000110465914005587/,누적 1216460000 − 직전누적 1118307000 (시작 2013-04-01),12
+Flex,FLEX,2014Q1,2014-03-31,분기말 자산총계,12500150000,USD,공시,https://www.sec.gov/Archives/edgar/data/866374/000104746914005069/,,12
+Flex,FLEX,2014Q1,2014-03-31,분기말 부채총계,10298471000,USD,계산(부채및자본-총자본),https://www.sec.gov/Archives/edgar/data/866374/000104746914005069/,부채및자본 12500150000 − 총자본 2201679000,12
+Flex,FLEX,2014Q1,2014-03-31,분기말 총자본(자기자본),2201679000,USD,공시,https://www.sec.gov/Archives/edgar/data/866374/000104746914005069/,,12
+Flex,FLEX,2014Q1,2014-03-31,분기말 지배지분 자본,2163050000,USD,공시,https://www.sec.gov/Archives/edgar/data/866374/000104746914005069/,,12
+Flex,FLEX,2014Q1,2014-03-31,분기말 종가,9.24,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/FLEX?interval=1d&events=splits (2014-03-31),분할조정 종가 6.9631 × 이후 분할계수 1.327,12
+Flex,FLEX,2014Q1,2014-05-14,분기말 상장주식수,585456950,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/866374/000104746914005069/,dei:EntityCommonStockSharesOutstanding 클래스 합,12
+Flex,FLEX,2014Q1,2014-03-31,분기말 시가총액,5409622218,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/FLEX?interval=1d&events=splits (2014-03-31) ; https://www.sec.gov/Archives/edgar/data/866374/000104746914005069/,종가 9.24 × 주식수 585456950,12
+Flex,FLEX,2014Q2,2014-06-27,분기별 매출액,6642745000,USD,공시,https://www.sec.gov/Archives/edgar/data/866374/000110465914054018/,,12
+Flex,FLEX,2014Q2,2014-06-27,분기별 영업이익,미확인,USD,미확인,https://www.sec.gov/Archives/edgar/data/866374/000110465914054018/,,12
+Flex,FLEX,2014Q2,2014-06-27,분기별 당기순이익(지배),173887000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/866374/000110465914054018/,,12
+Flex,FLEX,2014Q2,2014-06-27,분기별 영업활동현금흐름,-81169000,USD,공시,https://www.sec.gov/Archives/edgar/data/866374/000110465914054018/,,12
+Flex,FLEX,2014Q2,2014-06-27,분기말 자산총계,12067824000,USD,공시,https://www.sec.gov/Archives/edgar/data/866374/000110465914054018/,,12
+Flex,FLEX,2014Q2,2014-06-27,분기말 부채총계,9766956000,USD,계산(부채및자본-총자본),https://www.sec.gov/Archives/edgar/data/866374/000110465914054018/,부채및자본 12067824000 − 총자본 2300868000,12
+Flex,FLEX,2014Q2,2014-06-27,분기말 총자본(자기자본),2300868000,USD,공시,https://www.sec.gov/Archives/edgar/data/866374/000110465914054018/,,12
+Flex,FLEX,2014Q2,2014-06-27,분기말 지배지분 자본,2262260000,USD,공시,https://www.sec.gov/Archives/edgar/data/866374/000110465914054018/,,12
+Flex,FLEX,2014Q2,2014-06-27,분기말 종가,11.2,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/FLEX?interval=1d&events=splits (2014-06-27),분할조정 종가 8.4401 × 이후 분할계수 1.327,12
+Flex,FLEX,2014Q2,2014-07-22,분기말 상장주식수,588158853,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/866374/000110465914054018/,dei:EntityCommonStockSharesOutstanding 클래스 합,12
+Flex,FLEX,2014Q2,2014-06-27,분기말 시가총액,6587379154,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/FLEX?interval=1d&events=splits (2014-06-27) ; https://www.sec.gov/Archives/edgar/data/866374/000110465914054018/,종가 11.2 × 주식수 588158853,12
+Flex,FLEX,2014Q3,2014-09-26,분기별 매출액,6528517000,USD,공시,https://www.sec.gov/Archives/edgar/data/866374/000110465914075227/,,12
+Flex,FLEX,2014Q3,2014-09-26,분기별 영업이익,미확인,USD,미확인,https://www.sec.gov/Archives/edgar/data/866374/000110465914075227/,,12
+Flex,FLEX,2014Q3,2014-09-26,분기별 당기순이익(지배),138903000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/866374/000110465914075227/,,12
+Flex,FLEX,2014Q3,2014-09-26,분기별 영업활동현금흐름,387414000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/866374/000110465914075227/ ; https://www.sec.gov/Archives/edgar/data/866374/000110465914054018/,누적 306245000 − 직전누적 -81169000 (시작 2014-04-01),12
+Flex,FLEX,2014Q3,2014-09-26,분기말 자산총계,11919873000,USD,공시,https://www.sec.gov/Archives/edgar/data/866374/000110465914075227/,,12
+Flex,FLEX,2014Q3,2014-09-26,분기말 부채총계,9577019000,USD,계산(부채및자본-총자본),https://www.sec.gov/Archives/edgar/data/866374/000110465914075227/,부채및자본 11919873000 − 총자본 2342854000,12
+Flex,FLEX,2014Q3,2014-09-26,분기말 총자본(자기자본),2342854000,USD,공시,https://www.sec.gov/Archives/edgar/data/866374/000110465914075227/,,12
+Flex,FLEX,2014Q3,2014-09-26,분기말 지배지분 자본,2304554000,USD,공시,https://www.sec.gov/Archives/edgar/data/866374/000110465914075227/,,12
+Flex,FLEX,2014Q3,2014-09-26,분기말 종가,10.51,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/FLEX?interval=1d&events=splits (2014-09-26),분할조정 종가 7.9201 × 이후 분할계수 1.327,12
+Flex,FLEX,2014Q3,2014-10-24,분기말 상장주식수,578974187,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/866374/000110465914075227/,dei:EntityCommonStockSharesOutstanding 클래스 합,12
+Flex,FLEX,2014Q3,2014-09-26,분기말 시가총액,6085018705,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/FLEX?interval=1d&events=splits (2014-09-26) ; https://www.sec.gov/Archives/edgar/data/866374/000110465914075227/,종가 10.51 × 주식수 578974187,12
+Flex,FLEX,2014Q4,2014-12-31,분기별 매출액,7025054000,USD,공시,https://www.sec.gov/Archives/edgar/data/866374/000110465915005354/,,12
+Flex,FLEX,2014Q4,2014-12-31,분기별 영업이익,미확인,USD,미확인,https://www.sec.gov/Archives/edgar/data/866374/000110465915005354/,,12
+Flex,FLEX,2014Q4,2014-12-31,분기별 당기순이익(지배),152899000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/866374/000110465915005354/,,12
+Flex,FLEX,2014Q4,2014-12-31,분기별 영업활동현금흐름,363179000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/866374/000110465915005354/ ; https://www.sec.gov/Archives/edgar/data/866374/000110465914075227/,누적 669424000 − 직전누적 306245000 (시작 2014-04-01),12
+Flex,FLEX,2014Q4,2014-12-31,분기말 자산총계,12090473000,USD,공시,https://www.sec.gov/Archives/edgar/data/866374/000110465915005354/,,12
+Flex,FLEX,2014Q4,2014-12-31,분기말 부채총계,9701628000,USD,계산(부채및자본-총자본),https://www.sec.gov/Archives/edgar/data/866374/000110465915005354/,부채및자본 12090473000 − 총자본 2388845000,12
+Flex,FLEX,2014Q4,2014-12-31,분기말 총자본(자기자본),2388845000,USD,공시,https://www.sec.gov/Archives/edgar/data/866374/000110465915005354/,,12
+Flex,FLEX,2014Q4,2014-12-31,분기말 지배지분 자본,2351092000,USD,공시,https://www.sec.gov/Archives/edgar/data/866374/000110465915005354/,,12
+Flex,FLEX,2014Q4,2014-12-31,분기말 종가,11.18,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/FLEX?interval=1d&events=splits (2014-12-31),분할조정 종가 8.425 × 이후 분할계수 1.327,12
+Flex,FLEX,2014Q4,2015-01-23,분기말 상장주식수,572375941,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/866374/000110465915005354/,dei:EntityCommonStockSharesOutstanding 클래스 합,12
+Flex,FLEX,2014Q4,2014-12-31,분기말 시가총액,6399163020,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/FLEX?interval=1d&events=splits (2014-12-31) ; https://www.sec.gov/Archives/edgar/data/866374/000110465915005354/,종가 11.18 × 주식수 572375941,12
+Flex,FLEX,2015Q1,2015-03-31,분기별 매출액,5951600000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/866374/000104746915004931/ ; https://www.sec.gov/Archives/edgar/data/866374/000110465915005354/,연간 26147916000 − 9개월누적 20196316000 (SalesRevenueNet),12
+Flex,FLEX,2015Q1,2015-03-31,분기별 영업이익,미확인,USD,미확인,https://www.sec.gov/Archives/edgar/data/866374/000104746915004931/,,12
+Flex,FLEX,2015Q1,2015-03-31,분기별 당기순이익(지배),130840000,USD,"계산(연간-3분기누적, 비지배 없음)(재작성 반영)",https://www.sec.gov/Archives/edgar/data/866374/000086637417000005/ ; https://www.sec.gov/Archives/edgar/data/866374/000110465915005354/,연간 596529000 − 9개월누적 465689000 (ProfitLoss) ; 원 공시 135112000 (https://www.sec.gov/Archives/edgar/data/866374/000104746915004931/ ; https://www.sec.gov/Archives/edgar/data/866374/000110465915005354/),12
+Flex,FLEX,2015Q1,2015-03-31,분기별 영업활동현금흐름,124610000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/866374/000104746915004931/ ; https://www.sec.gov/Archives/edgar/data/866374/000110465915005354/,누적 794034000 − 직전누적 669424000 (시작 2014-04-01),12
+Flex,FLEX,2015Q1,2015-03-31,분기말 자산총계,11652891000,USD,공시(재작성 반영),https://www.sec.gov/Archives/edgar/data/866374/000162828016016576/,원 공시 11665624000 (https://www.sec.gov/Archives/edgar/data/866374/000104746915004931/),12
+Flex,FLEX,2015Q1,2015-03-31,분기말 부채총계,9256641000,USD,계산(부채및자본-총자본)(재작성 반영),https://www.sec.gov/Archives/edgar/data/866374/000162828016016576/,부채및자본 11652891000 − 총자본 2396250000 ; 원 공시 9269374000 (https://www.sec.gov/Archives/edgar/data/866374/000104746915004931/),12
+Flex,FLEX,2015Q1,2015-03-31,분기말 총자본(자기자본),2396250000,USD,공시,https://www.sec.gov/Archives/edgar/data/866374/000104746915004931/,,12
+Flex,FLEX,2015Q1,2015-03-31,분기말 지배지분 자본,2360814000,USD,공시,https://www.sec.gov/Archives/edgar/data/866374/000104746915004931/,,12
+Flex,FLEX,2015Q1,2015-03-31,분기말 종가,12.68,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/FLEX?interval=1d&events=splits (2015-03-31),분할조정 종가 9.5554 × 이후 분할계수 1.327,12
+Flex,FLEX,2015Q1,2015-05-14,분기말 상장주식수,563994126,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/866374/000104746915004931/,dei:EntityCommonStockSharesOutstanding 클래스 합,12
+Flex,FLEX,2015Q1,2015-03-31,분기말 시가총액,7151445518,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/FLEX?interval=1d&events=splits (2015-03-31) ; https://www.sec.gov/Archives/edgar/data/866374/000104746915004931/,종가 12.68 × 주식수 563994126,12
+Flex,FLEX,2015Q2,2015-06-26,분기별 매출액,5566248000,USD,공시,https://www.sec.gov/Archives/edgar/data/866374/000162828015005450/,,12
+Flex,FLEX,2015Q2,2015-06-26,분기별 영업이익,미확인,USD,미확인,https://www.sec.gov/Archives/edgar/data/866374/000162828015005450/,,12
+Flex,FLEX,2015Q2,2015-06-26,분기별 당기순이익(지배),110850000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/866374/000162828015005450/,,12
+Flex,FLEX,2015Q2,2015-06-26,분기별 영업활동현금흐름,362276000,USD,공시,https://www.sec.gov/Archives/edgar/data/866374/000162828015005450/,,12
+Flex,FLEX,2015Q2,2015-06-26,분기말 자산총계,12100180000,USD,공시,https://www.sec.gov/Archives/edgar/data/866374/000162828015005450/,,12
+Flex,FLEX,2015Q2,2015-06-26,분기말 부채총계,9612624000,USD,계산(부채및자본-총자본),https://www.sec.gov/Archives/edgar/data/866374/000162828015005450/,부채및자본 12100180000 − 총자본 2487556000,12
+Flex,FLEX,2015Q2,2015-06-26,분기말 총자본(자기자본),2487556000,USD,공시,https://www.sec.gov/Archives/edgar/data/866374/000162828015005450/,,12
+Flex,FLEX,2015Q2,2015-06-26,분기말 지배지분 자본,2451660000,USD,공시,https://www.sec.gov/Archives/edgar/data/866374/000162828015005450/,,12
+Flex,FLEX,2015Q2,2015-06-26,분기말 종가,11.84,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/FLEX?interval=1d&events=splits (2015-06-26),분할조정 종가 8.9224 × 이후 분할계수 1.327,12
+Flex,FLEX,2015Q2,2015-07-20,분기말 상장주식수,566491358,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/866374/000162828015005450/,dei:EntityCommonStockSharesOutstanding 클래스 합,12
+Flex,FLEX,2015Q2,2015-06-26,분기말 시가총액,6707257679,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/FLEX?interval=1d&events=splits (2015-06-26) ; https://www.sec.gov/Archives/edgar/data/866374/000162828015005450/,종가 11.84 × 주식수 566491358,12
+Flex,FLEX,2015Q3,2015-09-25,분기별 매출액,6316762000,USD,공시,https://www.sec.gov/Archives/edgar/data/866374/000162828015007847/,,12
+Flex,FLEX,2015Q3,2015-09-25,분기별 영업이익,미확인,USD,미확인,https://www.sec.gov/Archives/edgar/data/866374/000162828015007847/,,12
+Flex,FLEX,2015Q3,2015-09-25,분기별 당기순이익(지배),122977000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/866374/000162828015007847/,,12
+Flex,FLEX,2015Q3,2015-09-25,분기별 영업활동현금흐름,299719000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/866374/000162828015007847/ ; https://www.sec.gov/Archives/edgar/data/866374/000162828015005450/,누적 661995000 − 직전누적 362276000 (시작 2015-04-01),12
+Flex,FLEX,2015Q3,2015-09-25,분기말 자산총계,12660339000,USD,공시,https://www.sec.gov/Archives/edgar/data/866374/000162828015007847/,,12
+Flex,FLEX,2015Q3,2015-09-25,분기말 부채총계,10204764000,USD,계산(부채및자본-총자본),https://www.sec.gov/Archives/edgar/data/866374/000162828015007847/,부채및자본 12660339000 − 총자본 2455575000,12
+Flex,FLEX,2015Q3,2015-09-25,분기말 총자본(자기자본),2455575000,USD,공시,https://www.sec.gov/Archives/edgar/data/866374/000162828015007847/,,12
+Flex,FLEX,2015Q3,2015-09-25,분기말 지배지분 자본,2420128000,USD,공시,https://www.sec.gov/Archives/edgar/data/866374/000162828015007847/,,12
+Flex,FLEX,2015Q3,2015-09-25,분기말 종가,10.42,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/FLEX?interval=1d&events=splits (2015-09-25),분할조정 종가 7.8523 × 이후 분할계수 1.327,12
+Flex,FLEX,2015Q3,2015-10-20,분기말 상장주식수,556305165,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/866374/000162828015007847/,dei:EntityCommonStockSharesOutstanding 클래스 합,12
+Flex,FLEX,2015Q3,2015-09-25,분기말 시가총액,5796699819,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/FLEX?interval=1d&events=splits (2015-09-25) ; https://www.sec.gov/Archives/edgar/data/866374/000162828015007847/,종가 10.42 × 주식수 556305165,12
+Flex,FLEX,2015Q4,2015-12-31,분기별 매출액,6763177000,USD,공시,https://www.sec.gov/Archives/edgar/data/866374/000162828016010628/,,12
+Flex,FLEX,2015Q4,2015-12-31,분기별 영업이익,미확인,USD,미확인,https://www.sec.gov/Archives/edgar/data/866374/000162828016010628/,,12
+Flex,FLEX,2015Q4,2015-12-31,분기별 당기순이익(지배),148910000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/866374/000162828016010628/,,12
+Flex,FLEX,2015Q4,2015-12-31,분기별 영업활동현금흐름,277777000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/866374/000162828016010628/ ; https://www.sec.gov/Archives/edgar/data/866374/000162828015007847/,누적 939772000 − 직전누적 661995000 (시작 2015-04-01),12
+Flex,FLEX,2015Q4,2015-12-31,분기말 자산총계,13049518000,USD,공시,https://www.sec.gov/Archives/edgar/data/866374/000162828016010628/,,12
+Flex,FLEX,2015Q4,2015-12-31,분기말 부채총계,10471086000,USD,계산(부채및자본-총자본),https://www.sec.gov/Archives/edgar/data/866374/000162828016010628/,부채및자본 13049518000 − 총자본 2578432000,12
+Flex,FLEX,2015Q4,2015-12-31,분기말 총자본(자기자본),2578432000,USD,공시,https://www.sec.gov/Archives/edgar/data/866374/000162828016010628/,,12
+Flex,FLEX,2015Q4,2015-12-31,분기말 지배지분 자본,2543255000,USD,공시,https://www.sec.gov/Archives/edgar/data/866374/000162828016010628/,,12
+Flex,FLEX,2015Q4,2015-12-31,분기말 종가,11.21,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/FLEX?interval=1d&events=splits (2015-12-31),분할조정 종가 8.4476 × 이후 분할계수 1.327,12
+Flex,FLEX,2015Q4,2016-01-25,분기말 상장주식수,548585484,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/866374/000162828016010628/,dei:EntityCommonStockSharesOutstanding 클래스 합,12
+Flex,FLEX,2015Q4,2015-12-31,분기말 시가총액,6149643276,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/FLEX?interval=1d&events=splits (2015-12-31) ; https://www.sec.gov/Archives/edgar/data/866374/000162828016010628/,종가 11.21 × 주식수 548585484,12
+Flex,FLEX,2016Q1,2016-03-31,분기별 매출액,5772698000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/866374/000162828016016576/ ; https://www.sec.gov/Archives/edgar/data/866374/000162828016010628/,연간 24418885000 − 9개월누적 18646187000 (SalesRevenueNet),12
+Flex,FLEX,2016Q1,2016-03-31,분기별 영업이익,미확인,USD,미확인,https://www.sec.gov/Archives/edgar/data/866374/000162828016016576/,,12
+Flex,FLEX,2016Q1,2016-03-31,분기별 당기순이익(지배),54629000,USD,"계산(연간-3분기누적, 비지배 없음)",https://www.sec.gov/Archives/edgar/data/866374/000162828016016576/ ; https://www.sec.gov/Archives/edgar/data/866374/000162828016010628/,연간 437366000 − 9개월누적 382737000 (ProfitLoss),12
+Flex,FLEX,2016Q1,2016-03-31,분기별 영업활동현금흐름,196673000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/866374/000162828016016576/ ; https://www.sec.gov/Archives/edgar/data/866374/000162828016010628/,누적 1136445000 − 직전누적 939772000 (시작 2015-04-01),12
+Flex,FLEX,2016Q1,2016-03-31,분기말 자산총계,12384981000,USD,공시,https://www.sec.gov/Archives/edgar/data/866374/000162828016016576/,,12
+Flex,FLEX,2016Q1,2016-03-31,분기말 부채총계,9779451000,USD,계산(부채및자본-총자본),https://www.sec.gov/Archives/edgar/data/866374/000162828016016576/,부채및자본 12384981000 − 총자본 2605530000,12
+Flex,FLEX,2016Q1,2016-03-31,분기말 총자본(자기자본),2605530000,USD,공시,https://www.sec.gov/Archives/edgar/data/866374/000162828016016576/,,12
+Flex,FLEX,2016Q1,2016-03-31,분기말 지배지분 자본,2570872000,USD,공시,https://www.sec.gov/Archives/edgar/data/866374/000162828016016576/,,12
+Flex,FLEX,2016Q1,2016-03-31,분기말 종가,12.06,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/FLEX?interval=1d&events=splits (2016-03-31),분할조정 종가 9.0882 × 이후 분할계수 1.327,12
+Flex,FLEX,2016Q1,2016-05-11,분기말 상장주식수,542802845,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/866374/000162828016016576/,dei:EntityCommonStockSharesOutstanding 클래스 합,12
+Flex,FLEX,2016Q1,2016-03-31,분기말 시가총액,6546202311,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/FLEX?interval=1d&events=splits (2016-03-31) ; https://www.sec.gov/Archives/edgar/data/866374/000162828016016576/,종가 12.06 × 주식수 542802845,12
+Flex,FLEX,2016Q2,2016-07-01,분기별 매출액,5876813000,USD,공시,https://www.sec.gov/Archives/edgar/data/866374/000162828016017813/,,12
+Flex,FLEX,2016Q2,2016-07-01,분기별 영업이익,미확인,USD,미확인,https://www.sec.gov/Archives/edgar/data/866374/000162828016017813/,,12
+Flex,FLEX,2016Q2,2016-07-01,분기별 당기순이익(지배),105729000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/866374/000162828016017813/,,12
+Flex,FLEX,2016Q2,2016-07-01,분기별 영업활동현금흐름,263932000,USD,공시,https://www.sec.gov/Archives/edgar/data/866374/000162828016017813/,,12
+Flex,FLEX,2016Q2,2016-07-01,분기말 자산총계,12508524000,USD,공시,https://www.sec.gov/Archives/edgar/data/866374/000162828016017813/,,12
+Flex,FLEX,2016Q2,2016-07-01,분기말 부채총계,9841930000,USD,계산(부채및자본-총자본),https://www.sec.gov/Archives/edgar/data/866374/000162828016017813/,부채및자본 12508524000 − 총자본 2666594000,12
+Flex,FLEX,2016Q2,2016-07-01,분기말 총자본(자기자본),2666594000,USD,공시,https://www.sec.gov/Archives/edgar/data/866374/000162828016017813/,,12
+Flex,FLEX,2016Q2,2016-07-01,분기말 지배지분 자본,2623407000,USD,공시,https://www.sec.gov/Archives/edgar/data/866374/000162828016017813/,,12
+Flex,FLEX,2016Q2,2016-07-01,분기말 종가,11.78,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/FLEX?interval=1d&events=splits (2016-07-01),분할조정 종가 8.8772 × 이후 분할계수 1.327,12
+Flex,FLEX,2016Q2,2016-07-22,분기말 상장주식수,545468473,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/866374/000162828016017813/,dei:EntityCommonStockSharesOutstanding 클래스 합,12
+Flex,FLEX,2016Q2,2016-07-01,분기말 시가총액,6425618612,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/FLEX?interval=1d&events=splits (2016-07-01) ; https://www.sec.gov/Archives/edgar/data/866374/000162828016017813/,종가 11.78 × 주식수 545468473,12
+Flex,FLEX,2016Q3,2016-09-30,분기별 매출액,6008525000,USD,공시,https://www.sec.gov/Archives/edgar/data/866374/000086637416000007/,,12
+Flex,FLEX,2016Q3,2016-09-30,분기별 영업이익,미확인,USD,미확인,https://www.sec.gov/Archives/edgar/data/866374/000086637416000007/,,12
+Flex,FLEX,2016Q3,2016-09-30,분기별 당기순이익(지배),-2508000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/866374/000086637416000007/,,12
+Flex,FLEX,2016Q3,2016-09-30,분기별 영업활동현금흐름,279620000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/866374/000086637416000007/ ; https://www.sec.gov/Archives/edgar/data/866374/000162828016017813/,누적 543552000 − 직전누적 263932000 (시작 2016-04-01),12
+Flex,FLEX,2016Q3,2016-09-30,분기말 자산총계,12661134000,USD,공시,https://www.sec.gov/Archives/edgar/data/866374/000086637416000007/,,12
+Flex,FLEX,2016Q3,2016-09-30,분기말 부채총계,10056826000,USD,계산(부채및자본-총자본),https://www.sec.gov/Archives/edgar/data/866374/000086637416000007/,부채및자본 12661134000 − 총자본 2604308000,12
+Flex,FLEX,2016Q3,2016-09-30,분기말 총자본(자기자본),2604308000,USD,공시,https://www.sec.gov/Archives/edgar/data/866374/000086637416000007/,,12
+Flex,FLEX,2016Q3,2016-09-30,분기말 지배지분 자본,2561866000,USD,공시,https://www.sec.gov/Archives/edgar/data/866374/000086637416000007/,,12
+Flex,FLEX,2016Q3,2016-09-30,분기말 종가,13.62,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/FLEX?interval=1d&events=splits (2016-09-30),분할조정 종가 10.2638 × 이후 분할계수 1.327,12
+Flex,FLEX,2016Q3,2016-10-24,분기말 상장주식수,540002824,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/866374/000086637416000007/,dei:EntityCommonStockSharesOutstanding 클래스 합,12
+Flex,FLEX,2016Q3,2016-09-30,분기말 시가총액,7354838463,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/FLEX?interval=1d&events=splits (2016-09-30) ; https://www.sec.gov/Archives/edgar/data/866374/000086637416000007/,종가 13.62 × 주식수 540002824,12
+Flex,FLEX,2016Q4,2016-12-31,분기별 매출액,6114999000,USD,공시,https://www.sec.gov/Archives/edgar/data/866374/000086637417000002/,,12
+Flex,FLEX,2016Q4,2016-12-31,분기별 영업이익,미확인,USD,미확인,https://www.sec.gov/Archives/edgar/data/866374/000086637417000002/,,12
+Flex,FLEX,2016Q4,2016-12-31,분기별 당기순이익(지배),129469000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/866374/000086637417000002/,,12
+Flex,FLEX,2016Q4,2016-12-31,분기별 영업활동현금흐름,469636000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/866374/000086637417000002/ ; https://www.sec.gov/Archives/edgar/data/866374/000086637416000007/,누적 1013188000 − 직전누적 543552000 (시작 2016-04-01),12
+Flex,FLEX,2016Q4,2016-12-31,분기말 자산총계,12803049000,USD,공시,https://www.sec.gov/Archives/edgar/data/866374/000086637417000002/,,12
+Flex,FLEX,2016Q4,2016-12-31,분기말 부채총계,10161552000,USD,계산(부채및자본-총자본),https://www.sec.gov/Archives/edgar/data/866374/000086637417000002/,부채및자본 12803049000 − 총자본 2641497000,12
+Flex,FLEX,2016Q4,2016-12-31,분기말 총자본(자기자본),2641497000,USD,공시,https://www.sec.gov/Archives/edgar/data/866374/000086637417000002/,,12
+Flex,FLEX,2016Q4,2016-12-31,분기말 지배지분 자본,2599895000,USD,공시,https://www.sec.gov/Archives/edgar/data/866374/000086637417000002/,,12
+Flex,FLEX,2016Q4,2016-12-30,분기말 종가,14.37,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/FLEX?interval=1d&events=splits (2016-12-30),분할조정 종가 10.8289 × 이후 분할계수 1.327,12
+Flex,FLEX,2016Q4,2017-01-23,분기말 상장주식수,535220962,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/866374/000086637417000002/,dei:EntityCommonStockSharesOutstanding 클래스 합,12
+Flex,FLEX,2016Q4,2016-12-30,분기말 시가총액,7691125224,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/FLEX?interval=1d&events=splits (2016-12-30) ; https://www.sec.gov/Archives/edgar/data/866374/000086637417000002/,종가 14.37 × 주식수 535220962,12
+Flex,FLEX,2017Q1,2017-03-31,분기별 매출액,5862597000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/866374/000086637417000005/ ; https://www.sec.gov/Archives/edgar/data/866374/000086637417000002/,연간 23862934000 − 9개월누적 18000337000 (SalesRevenueNet),12
+Flex,FLEX,2017Q1,2017-03-31,분기별 영업이익,미확인,USD,미확인,https://www.sec.gov/Archives/edgar/data/866374/000086637417000005/,,12
+Flex,FLEX,2017Q1,2017-03-31,분기별 당기순이익(지배),78382000,USD,"계산(연간-3분기누적, 비지배 없음)",https://www.sec.gov/Archives/edgar/data/866374/000086637417000005/ ; https://www.sec.gov/Archives/edgar/data/866374/000086637417000002/,연간 311072000 − 9개월누적 232690000 (ProfitLoss),12
+Flex,FLEX,2017Q1,2017-03-31,분기별 영업활동현금흐름,136721000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/866374/000086637417000005/ ; https://www.sec.gov/Archives/edgar/data/866374/000086637417000002/,누적 1149909000 − 직전누적 1013188000 (시작 2016-04-01),12
+Flex,FLEX,2017Q1,2017-03-31,분기말 자산총계,12593363000,USD,공시,https://www.sec.gov/Archives/edgar/data/866374/000086637417000005/,,12
+Flex,FLEX,2017Q1,2017-03-31,분기말 부채총계,9915087000,USD,계산(부채및자본-총자본),https://www.sec.gov/Archives/edgar/data/866374/000086637417000005/,부채및자본 12593363000 − 총자본 2678276000,12
+Flex,FLEX,2017Q1,2017-03-31,분기말 총자본(자기자본),2678276000,USD,공시,https://www.sec.gov/Archives/edgar/data/866374/000086637417000005/,,12
+Flex,FLEX,2017Q1,2017-03-31,분기말 지배지분 자본,2644533000,USD,공시,https://www.sec.gov/Archives/edgar/data/866374/000086637417000005/,,12
+Flex,FLEX,2017Q1,2017-03-31,분기말 종가,16.8,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/FLEX?interval=1d&events=splits (2017-03-31),분할조정 종가 12.6601 × 이후 분할계수 1.327,12
+Flex,FLEX,2017Q1,2017-05-10,분기말 상장주식수,529913600,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/866374/000086637417000005/,dei:EntityCommonStockSharesOutstanding 클래스 합,12
+Flex,FLEX,2017Q1,2017-03-31,분기말 시가총액,8902548480,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/FLEX?interval=1d&events=splits (2017-03-31) ; https://www.sec.gov/Archives/edgar/data/866374/000086637417000005/,종가 16.8 × 주식수 529913600,12
+Flex,FLEX,2017Q2,2017-06-30,분기별 매출액,6008272000,USD,공시,https://www.sec.gov/Archives/edgar/data/866374/000086637417000008/,,12
+Flex,FLEX,2017Q2,2017-06-30,분기별 영업이익,미확인,USD,미확인,https://www.sec.gov/Archives/edgar/data/866374/000086637417000008/,,12
+Flex,FLEX,2017Q2,2017-06-30,분기별 당기순이익(지배),124710000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/866374/000086637417000008/,,12
+Flex,FLEX,2017Q2,2017-06-30,분기별 영업활동현금흐름,-695756000,USD,공시(재작성 반영),https://www.sec.gov/Archives/edgar/data/866374/000086637418000010/,원 공시 138516000 (https://www.sec.gov/Archives/edgar/data/866374/000086637417000008/),12
+Flex,FLEX,2017Q2,2017-06-30,분기말 자산총계,13016988000,USD,공시,https://www.sec.gov/Archives/edgar/data/866374/000086637417000008/,,12
+Flex,FLEX,2017Q2,2017-06-30,분기말 부채총계,10207210000,USD,계산(부채및자본-총자본),https://www.sec.gov/Archives/edgar/data/866374/000086637417000008/,부채및자본 13016988000 − 총자본 2809778000,12
+Flex,FLEX,2017Q2,2017-06-30,분기말 총자본(자기자본),2809778000,USD,공시,https://www.sec.gov/Archives/edgar/data/866374/000086637417000008/,,12
+Flex,FLEX,2017Q2,2017-06-30,분기말 지배지분 자본,2722203000,USD,공시,https://www.sec.gov/Archives/edgar/data/866374/000086637417000008/,,12
+Flex,FLEX,2017Q2,2017-06-30,분기말 종가,16.31,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/FLEX?interval=1d&events=splits (2017-06-30),분할조정 종가 12.2909 × 이후 분할계수 1.327,12
+Flex,FLEX,2017Q2,2017-07-26,분기말 상장주식수,532376353,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/866374/000086637417000008/,dei:EntityCommonStockSharesOutstanding 클래스 합,12
+Flex,FLEX,2017Q2,2017-06-30,분기말 시가총액,8683058317,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/FLEX?interval=1d&events=splits (2017-06-30) ; https://www.sec.gov/Archives/edgar/data/866374/000086637417000008/,종가 16.31 × 주식수 532376353,12
+Flex,FLEX,2017Q3,2017-09-29,분기별 매출액,6270420000,USD,공시,https://www.sec.gov/Archives/edgar/data/866374/000086637417000012/,,12
+Flex,FLEX,2017Q3,2017-09-29,분기별 영업이익,미확인,USD,미확인,https://www.sec.gov/Archives/edgar/data/866374/000086637417000012/,,12
+Flex,FLEX,2017Q3,2017-09-29,분기별 당기순이익(지배),205086000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/866374/000086637417000012/,,12
+Flex,FLEX,2017Q3,2017-09-29,분기별 영업활동현금흐름,-1476221000,USD,계산(누적차감)(재작성 반영),https://www.sec.gov/Archives/edgar/data/866374/000086637418000013/ ; https://www.sec.gov/Archives/edgar/data/866374/000086637418000010/,누적 -2171977000 − 직전누적 -695756000 (시작 2017-04-01) ; 원 공시 142289000 (https://www.sec.gov/Archives/edgar/data/866374/000086637417000012/ ; https://www.sec.gov/Archives/edgar/data/866374/000086637417000008/),12
+Flex,FLEX,2017Q3,2017-09-29,분기말 자산총계,13561906000,USD,공시,https://www.sec.gov/Archives/edgar/data/866374/000086637417000012/,,12
+Flex,FLEX,2017Q3,2017-09-29,분기말 부채총계,10689621000,USD,계산(부채및자본-총자본),https://www.sec.gov/Archives/edgar/data/866374/000086637417000012/,부채및자본 13561906000 − 총자본 2872285000,12
+Flex,FLEX,2017Q3,2017-09-29,분기말 총자본(자기자본),2872285000,USD,공시,https://www.sec.gov/Archives/edgar/data/866374/000086637417000012/,,12
+Flex,FLEX,2017Q3,2017-09-29,분기말 지배지분 자본,2872285000,USD,공시,https://www.sec.gov/Archives/edgar/data/866374/000086637417000012/,,12
+Flex,FLEX,2017Q3,2017-09-29,분기말 종가,16.57,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/FLEX?interval=1d&events=splits (2017-09-29),분할조정 종가 12.4868 × 이후 분할계수 1.327,12
+Flex,FLEX,2017Q3,2017-10-26,분기말 상장주식수,528471586,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/866374/000086637417000012/,dei:EntityCommonStockSharesOutstanding 클래스 합,12
+Flex,FLEX,2017Q3,2017-09-29,분기말 시가총액,8756774180,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/FLEX?interval=1d&events=splits (2017-09-29) ; https://www.sec.gov/Archives/edgar/data/866374/000086637417000012/,종가 16.57 × 주식수 528471586,12
+Flex,FLEX,2017Q4,2017-12-31,분기별 매출액,6751552000,USD,공시,https://www.sec.gov/Archives/edgar/data/866374/000086637418000003/,,12
+Flex,FLEX,2017Q4,2017-12-31,분기별 영업이익,미확인,USD,미확인,https://www.sec.gov/Archives/edgar/data/866374/000086637418000003/,,12
+Flex,FLEX,2017Q4,2017-12-31,분기별 당기순이익(지배),118333000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/866374/000086637418000003/,,12
+Flex,FLEX,2017Q4,2017-12-31,분기별 영업활동현금흐름,-935609000,USD,계산(누적차감)(재작성 반영),https://www.sec.gov/Archives/edgar/data/866374/000086637419000003/ ; https://www.sec.gov/Archives/edgar/data/866374/000086637418000013/,누적 -3107586000 − 직전누적 -2171977000 (시작 2017-04-01) ; 원 공시 150213000 (https://www.sec.gov/Archives/edgar/data/866374/000086637418000003/ ; https://www.sec.gov/Archives/edgar/data/866374/000086637417000012/),12
+Flex,FLEX,2017Q4,2017-12-31,분기말 자산총계,13840310000,USD,공시,https://www.sec.gov/Archives/edgar/data/866374/000086637418000003/,,12
+Flex,FLEX,2017Q4,2017-12-31,분기말 부채총계,10860330000,USD,계산(부채및자본-총자본),https://www.sec.gov/Archives/edgar/data/866374/000086637418000003/,부채및자본 13840310000 − 총자본 2979980000,12
+Flex,FLEX,2017Q4,2017-12-31,분기말 총자본(자기자본),2979980000,USD,공시,https://www.sec.gov/Archives/edgar/data/866374/000086637418000003/,,12
+Flex,FLEX,2017Q4,2017-12-31,분기말 지배지분 자본,2979980000,USD,공시,https://www.sec.gov/Archives/edgar/data/866374/000086637418000003/,,12
+Flex,FLEX,2017Q4,2017-12-29,분기말 종가,17.99,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/FLEX?interval=1d&events=splits (2017-12-29),분할조정 종가 13.5569 × 이후 분할계수 1.327,12
+Flex,FLEX,2017Q4,2018-01-24,분기말 상장주식수,527665321,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/866374/000086637418000003/,dei:EntityCommonStockSharesOutstanding 클래스 합,12
+Flex,FLEX,2017Q4,2017-12-29,분기말 시가총액,9492699125,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/FLEX?interval=1d&events=splits (2017-12-29) ; https://www.sec.gov/Archives/edgar/data/866374/000086637418000003/,종가 17.99 × 주식수 527665321,12
+Flex,FLEX,2018Q1,2018-03-31,분기별 매출액,6410887000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/866374/000086637418000007/ ; https://www.sec.gov/Archives/edgar/data/866374/000086637418000003/,연간 25441131000 − 9개월누적 19030244000 (SalesRevenueNet),12
+Flex,FLEX,2018Q1,2018-03-31,분기별 영업이익,미확인,USD,미확인,https://www.sec.gov/Archives/edgar/data/866374/000110465918041261/,,12
+Flex,FLEX,2018Q1,2018-03-31,분기별 당기순이익(지배),-27168000,USD,"계산(연간-3분기누적, 비지배 없음)",https://www.sec.gov/Archives/edgar/data/866374/000086637418000007/ ; https://www.sec.gov/Archives/edgar/data/866374/000086637418000003/,연간 420961000 − 9개월누적 448129000 (ProfitLoss),12
+Flex,FLEX,2018Q1,2018-03-31,분기별 영업활동현금흐름,3861184000,USD,계산(누적차감)(재작성 반영),https://www.sec.gov/Archives/edgar/data/866374/000086637418000007/ ; https://www.sec.gov/Archives/edgar/data/866374/000086637419000003/,누적 753598000 − 직전누적 -3107586000 (시작 2017-04-01) ; 원 공시 322580000 (https://www.sec.gov/Archives/edgar/data/866374/000086637418000007/ ; https://www.sec.gov/Archives/edgar/data/866374/000086637418000003/),12
+Flex,FLEX,2018Q1,2018-03-31,분기말 자산총계,13715855000,USD,공시,https://www.sec.gov/Archives/edgar/data/866374/000086637418000007/,,12
+Flex,FLEX,2018Q1,2018-03-31,분기말 부채총계,10697282000,USD,계산(부채및자본-총자본),https://www.sec.gov/Archives/edgar/data/866374/000086637418000007/,부채및자본 13715855000 − 총자본 3018573000,12
+Flex,FLEX,2018Q1,2018-03-31,분기말 총자본(자기자본),3018573000,USD,공시,https://www.sec.gov/Archives/edgar/data/866374/000086637418000007/,,12
+Flex,FLEX,2018Q1,2018-03-31,분기말 지배지분 자본,3018573000,USD,공시,https://www.sec.gov/Archives/edgar/data/866374/000086637418000007/,,12
+Flex,FLEX,2018Q1,2018-03-29,분기말 종가,16.33,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/FLEX?interval=1d&events=splits (2018-03-29),분할조정 종가 12.306 × 이후 분할계수 1.327,12
+Flex,FLEX,2018Q1,2018-06-08,분기말 상장주식수,528282247,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/866374/000086637418000007/,dei:EntityCommonStockSharesOutstanding 클래스 합,12
+Flex,FLEX,2018Q1,2018-03-29,분기말 시가총액,8626849094,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/FLEX?interval=1d&events=splits (2018-03-29) ; https://www.sec.gov/Archives/edgar/data/866374/000086637418000007/,종가 16.33 × 주식수 528282247,12
+Flex,FLEX,2018Q2,2018-06-29,분기별 매출액,6423956000,USD,공시,https://www.sec.gov/Archives/edgar/data/866374/000086637418000010/,,12
+Flex,FLEX,2018Q2,2018-06-29,분기별 영업이익,미확인,USD,미확인,https://www.sec.gov/Archives/edgar/data/866374/000086637418000010/,,12
+Flex,FLEX,2018Q2,2018-06-29,분기별 당기순이익(지배),116035000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/866374/000086637418000010/,,12
+Flex,FLEX,2018Q2,2018-06-29,분기별 영업활동현금흐름,-943265000,USD,공시(재작성 반영),https://www.sec.gov/Archives/edgar/data/866374/000086637419000010/,원 공시 -671808000 (https://www.sec.gov/Archives/edgar/data/866374/000086637418000010/),12
+Flex,FLEX,2018Q2,2018-06-29,분기말 자산총계,14309688000,USD,공시,https://www.sec.gov/Archives/edgar/data/866374/000086637418000010/,,12
+Flex,FLEX,2018Q2,2018-06-29,분기말 부채총계,11200369000,USD,계산(부채및자본-총자본),https://www.sec.gov/Archives/edgar/data/866374/000086637418000010/,부채및자본 14309688000 − 총자본 3109319000,12
+Flex,FLEX,2018Q2,2018-06-29,분기말 총자본(자기자본),3109319000,USD,공시,https://www.sec.gov/Archives/edgar/data/866374/000086637418000010/,,12
+Flex,FLEX,2018Q2,2018-06-29,분기말 지배지분 자본,3109319000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/866374/000086637418000010/,"StockholdersEquityIncludingPortionAttributableToNoncontrollingInterest, MinorityInterest 태그 없음",12
+Flex,FLEX,2018Q2,2018-06-29,분기말 종가,14.11,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/FLEX?interval=1d&events=splits (2018-06-29),분할조정 종가 10.633 × 이후 분할계수 1.327,12
+Flex,FLEX,2018Q2,2018-07-25,분기말 상장주식수,532762042,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/866374/000086637418000010/,dei:EntityCommonStockSharesOutstanding 클래스 합,12
+Flex,FLEX,2018Q2,2018-06-29,분기말 시가총액,7517272413,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/FLEX?interval=1d&events=splits (2018-06-29) ; https://www.sec.gov/Archives/edgar/data/866374/000086637418000010/,종가 14.11 × 주식수 532762042,12
+Flex,FLEX,2018Q3,2018-09-28,분기별 매출액,6710604000,USD,공시,https://www.sec.gov/Archives/edgar/data/866374/000086637418000013/,,12
+Flex,FLEX,2018Q3,2018-09-28,분기별 영업이익,미확인,USD,미확인,https://www.sec.gov/Archives/edgar/data/866374/000086637418000013/,,12
+Flex,FLEX,2018Q3,2018-09-28,분기별 당기순이익(지배),86885000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/866374/000086637418000013/,,12
+Flex,FLEX,2018Q3,2018-09-28,분기별 영업활동현금흐름,-764331000,USD,계산(누적차감)(재작성 반영),https://www.sec.gov/Archives/edgar/data/866374/000086637418000013/ ; https://www.sec.gov/Archives/edgar/data/866374/000086637419000010/,누적 -1707596000 − 직전누적 -943265000 (시작 2018-04-01) ; 원 공시 -1035788000 (https://www.sec.gov/Archives/edgar/data/866374/000086637418000013/ ; https://www.sec.gov/Archives/edgar/data/866374/000086637418000010/),12
+Flex,FLEX,2018Q3,2018-09-28,분기말 자산총계,14726204000,USD,공시,https://www.sec.gov/Archives/edgar/data/866374/000086637418000013/,,12
+Flex,FLEX,2018Q3,2018-09-28,분기말 부채총계,11556657000,USD,계산(부채및자본-총자본),https://www.sec.gov/Archives/edgar/data/866374/000086637418000013/,부채및자본 14726204000 − 총자본 3169547000,12
+Flex,FLEX,2018Q3,2018-09-28,분기말 총자본(자기자본),3169547000,USD,공시,https://www.sec.gov/Archives/edgar/data/866374/000086637418000013/,,12
+Flex,FLEX,2018Q3,2018-09-28,분기말 지배지분 자본,3169547000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/866374/000086637418000013/,"StockholdersEquityIncludingPortionAttributableToNoncontrollingInterest, MinorityInterest 태그 없음",12
+Flex,FLEX,2018Q3,2018-09-28,분기말 종가,13.12,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/FLEX?interval=1d&events=splits (2018-09-28),분할조정 종가 9.887 × 이후 분할계수 1.327,12
+Flex,FLEX,2018Q3,2018-10-25,분기말 상장주식수,526586420,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/866374/000086637418000013/,dei:EntityCommonStockSharesOutstanding 클래스 합,12
+Flex,FLEX,2018Q3,2018-09-28,분기말 시가총액,6908813830,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/FLEX?interval=1d&events=splits (2018-09-28) ; https://www.sec.gov/Archives/edgar/data/866374/000086637418000013/,종가 13.12 × 주식수 526586420,12
+Flex,FLEX,2018Q4,2018-12-31,분기별 매출액,6944827000,USD,공시,https://www.sec.gov/Archives/edgar/data/866374/000086637419000003/,,12
+Flex,FLEX,2018Q4,2018-12-31,분기별 영업이익,미확인,USD,미확인,https://www.sec.gov/Archives/edgar/data/866374/000086637419000003/,,12
+Flex,FLEX,2018Q4,2018-12-31,분기별 당기순이익(지배),-45169000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/866374/000086637419000003/,,12
+Flex,FLEX,2018Q4,2018-12-31,분기별 영업활동현금흐름,-621009000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/866374/000086637419000003/ ; https://www.sec.gov/Archives/edgar/data/866374/000086637418000013/,누적 -2328605000 − 직전누적 -1707596000 (시작 2018-04-01),12
+Flex,FLEX,2018Q4,2018-12-31,분기말 자산총계,13975085000,USD,공시,https://www.sec.gov/Archives/edgar/data/866374/000086637419000003/,,12
+Flex,FLEX,2018Q4,2018-12-31,분기말 부채총계,10896757000,USD,계산(부채및자본-총자본),https://www.sec.gov/Archives/edgar/data/866374/000086637419000003/,부채및자본 13975085000 − 총자본 3078328000,12
+Flex,FLEX,2018Q4,2018-12-31,분기말 총자본(자기자본),3078328000,USD,공시,https://www.sec.gov/Archives/edgar/data/866374/000086637419000003/,,12
+Flex,FLEX,2018Q4,2018-12-31,분기말 지배지분 자본,3078328000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/866374/000086637419000003/,"StockholdersEquityIncludingPortionAttributableToNoncontrollingInterest, MinorityInterest 태그 없음",12
+Flex,FLEX,2018Q4,2018-12-31,분기말 종가,7.61,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/FLEX?interval=1d&events=splits (2018-12-31),분할조정 종가 5.7347 × 이후 분할계수 1.327,12
+Flex,FLEX,2018Q4,2019-01-28,분기말 상장주식수,521417529,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/866374/000086637419000003/,dei:EntityCommonStockSharesOutstanding 클래스 합,12
+Flex,FLEX,2018Q4,2018-12-31,분기말 시가총액,3967987396,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/FLEX?interval=1d&events=splits (2018-12-31) ; https://www.sec.gov/Archives/edgar/data/866374/000086637419000003/,종가 7.61 × 주식수 521417529,12
+Flex,FLEX,2019Q1,2019-03-31,분기별 매출액,6131124000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/866374/000086637419000006/ ; https://www.sec.gov/Archives/edgar/data/866374/000086637419000003/,연간 26210511000 − 9개월누적 20079387000 (RevenueFromContractWithCustomerExcludingAssessedTax / 9개월 RevenueFromContractWithCustomerIncludingAssessedTax),12
+Flex,FLEX,2019Q1,2019-03-31,분기별 영업이익,미확인,USD,미확인,https://www.sec.gov/Archives/edgar/data/866374/000086637419000006/,,12
+Flex,FLEX,2019Q1,2019-03-31,분기별 당기순이익(지배),-64352000,USD,"계산(연간-3분기누적, 비지배 없음)",https://www.sec.gov/Archives/edgar/data/866374/000086637419000006/ ; https://www.sec.gov/Archives/edgar/data/866374/000086637419000003/,연간 93399000 − 9개월누적 157751000 (ProfitLoss),12
+Flex,FLEX,2019Q1,2019-03-31,분기별 영업활동현금흐름,-642419000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/866374/000086637419000006/ ; https://www.sec.gov/Archives/edgar/data/866374/000086637419000003/,누적 -2971024000 − 직전누적 -2328605000 (시작 2018-04-01),12
+Flex,FLEX,2019Q1,2019-03-31,분기말 자산총계,13499367000,USD,공시,https://www.sec.gov/Archives/edgar/data/866374/000086637419000006/,,12
+Flex,FLEX,2019Q1,2019-03-31,분기말 부채총계,10527007000,USD,계산(부채및자본-총자본),https://www.sec.gov/Archives/edgar/data/866374/000086637419000006/,부채및자본 13499367000 − 총자본 2972360000,12
+Flex,FLEX,2019Q1,2019-03-31,분기말 총자본(자기자본),2972360000,USD,공시,https://www.sec.gov/Archives/edgar/data/866374/000086637419000006/,,12
+Flex,FLEX,2019Q1,2019-03-31,분기말 지배지분 자본,2972360000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/866374/000086637419000006/,"StockholdersEquityIncludingPortionAttributableToNoncontrollingInterest, MinorityInterest 태그 없음",12
+Flex,FLEX,2019Q1,2019-03-29,분기말 종가,10.0,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/FLEX?interval=1d&events=splits (2019-03-29),분할조정 종가 7.5358 × 이후 분할계수 1.327,12
+Flex,FLEX,2019Q1,2019-05-13,분기말 상장주식수,514029702,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/866374/000086637419000006/,dei:EntityCommonStockSharesOutstanding 클래스 합,12
+Flex,FLEX,2019Q1,2019-03-29,분기말 시가총액,5140297020,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/FLEX?interval=1d&events=splits (2019-03-29) ; https://www.sec.gov/Archives/edgar/data/866374/000086637419000006/,종가 10.0 × 주식수 514029702,12
+Flex,FLEX,2019Q2,2019-06-28,분기별 매출액,6175939000,USD,공시,https://www.sec.gov/Archives/edgar/data/866374/000086637419000010/,,12
+Flex,FLEX,2019Q2,2019-06-28,분기별 영업이익,미확인,USD,미확인,https://www.sec.gov/Archives/edgar/data/866374/000086637419000010/,,12
+Flex,FLEX,2019Q2,2019-06-28,분기별 당기순이익(지배),44872000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/866374/000086637419000010/,,12
+Flex,FLEX,2019Q2,2019-06-28,분기별 영업활동현금흐름,-656866000,USD,공시,https://www.sec.gov/Archives/edgar/data/866374/000086637419000010/,,12
+Flex,FLEX,2019Q2,2019-06-28,분기말 자산총계,14429098000,USD,공시,https://www.sec.gov/Archives/edgar/data/866374/000086637419000010/,,12
+Flex,FLEX,2019Q2,2019-06-28,분기말 부채총계,11427283000,USD,계산(부채및자본-총자본),https://www.sec.gov/Archives/edgar/data/866374/000086637419000010/,부채및자본 14429098000 − 총자본 3001815000,12
+Flex,FLEX,2019Q2,2019-06-28,분기말 총자본(자기자본),3001815000,USD,공시,https://www.sec.gov/Archives/edgar/data/866374/000086637419000010/,,12
+Flex,FLEX,2019Q2,2019-06-28,분기말 지배지분 자본,3001815000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/866374/000086637419000010/,"StockholdersEquityIncludingPortionAttributableToNoncontrollingInterest, MinorityInterest 태그 없음",12
+Flex,FLEX,2019Q2,2019-06-28,분기말 종가,9.57,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/FLEX?interval=1d&events=splits (2019-06-28),분할조정 종가 7.2118 × 이후 분할계수 1.327,12
+Flex,FLEX,2019Q2,2019-07-22,분기말 상장주식수,514727523,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/866374/000086637419000010/,dei:EntityCommonStockSharesOutstanding 클래스 합,12
+Flex,FLEX,2019Q2,2019-06-28,분기말 시가총액,4925942395,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/FLEX?interval=1d&events=splits (2019-06-28) ; https://www.sec.gov/Archives/edgar/data/866374/000086637419000010/,종가 9.57 × 주식수 514727523,12
+Flex,FLEX,2019Q3,2019-09-27,분기별 매출액,6088054000,USD,공시,https://www.sec.gov/Archives/edgar/data/866374/000086637419000013/,,12
+Flex,FLEX,2019Q3,2019-09-27,분기별 영업이익,미확인,USD,미확인,https://www.sec.gov/Archives/edgar/data/866374/000086637419000013/,,12
+Flex,FLEX,2019Q3,2019-09-27,분기별 당기순이익(지배),-116940000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/866374/000086637419000013/,,12
+Flex,FLEX,2019Q3,2019-09-27,분기별 영업활동현금흐름,-991546000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/866374/000086637419000013/ ; https://www.sec.gov/Archives/edgar/data/866374/000086637419000010/,누적 -1648412000 − 직전누적 -656866000 (시작 2019-04-01),12
+Flex,FLEX,2019Q3,2019-09-27,분기말 자산총계,14276653000,USD,공시,https://www.sec.gov/Archives/edgar/data/866374/000086637419000013/,,12
+Flex,FLEX,2019Q3,2019-09-27,분기말 부채총계,11470692000,USD,계산(부채및자본-총자본),https://www.sec.gov/Archives/edgar/data/866374/000086637419000013/,부채및자본 14276653000 − 총자본 2805961000,12
+Flex,FLEX,2019Q3,2019-09-27,분기말 총자본(자기자본),2805961000,USD,공시,https://www.sec.gov/Archives/edgar/data/866374/000086637419000013/,,12
+Flex,FLEX,2019Q3,2019-09-27,분기말 지배지분 자본,2805961000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/866374/000086637419000013/,"StockholdersEquityIncludingPortionAttributableToNoncontrollingInterest, MinorityInterest 태그 없음",12
+Flex,FLEX,2019Q3,2019-09-27,분기말 종가,10.38,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/FLEX?interval=1d&events=splits (2019-09-27),분할조정 종가 7.8222 × 이후 분할계수 1.327,12
+Flex,FLEX,2019Q3,2019-10-22,분기말 상장주식수,508308187,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/866374/000086637419000013/,dei:EntityCommonStockSharesOutstanding 클래스 합,12
+Flex,FLEX,2019Q3,2019-09-27,분기말 시가총액,5276238981,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/FLEX?interval=1d&events=splits (2019-09-27) ; https://www.sec.gov/Archives/edgar/data/866374/000086637419000013/,종가 10.38 × 주식수 508308187,12
+Flex,FLEX,2019Q4,2019-12-31,분기별 매출액,6461387000,USD,공시,https://www.sec.gov/Archives/edgar/data/866374/000086637420000003/,,12
+Flex,FLEX,2019Q4,2019-12-31,분기별 영업이익,미확인,USD,미확인,https://www.sec.gov/Archives/edgar/data/866374/000086637420000003/,,12
+Flex,FLEX,2019Q4,2019-12-31,분기별 당기순이익(지배),111388000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/866374/000086637420000003/,,12
+Flex,FLEX,2019Q4,2019-12-31,분기별 영업활동현금흐름,-50894000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/866374/000086637420000003/ ; https://www.sec.gov/Archives/edgar/data/866374/000086637419000013/,누적 -1699306000 − 직전누적 -1648412000 (시작 2019-04-01),12
+Flex,FLEX,2019Q4,2019-12-31,분기말 자산총계,14135417000,USD,공시,https://www.sec.gov/Archives/edgar/data/866374/000086637420000003/,,12
+Flex,FLEX,2019Q4,2019-12-31,분기말 부채총계,11236105000,USD,계산(부채및자본-총자본),https://www.sec.gov/Archives/edgar/data/866374/000086637420000003/,부채및자본 14135417000 − 총자본 2899312000,12
+Flex,FLEX,2019Q4,2019-12-31,분기말 총자본(자기자본),2899312000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/866374/000086637420000003/,"StockholdersEquity, MinorityInterest 태그 없음",12
+Flex,FLEX,2019Q4,2019-12-31,분기말 지배지분 자본,2899312000,USD,공시,https://www.sec.gov/Archives/edgar/data/866374/000086637420000003/,,12
+Flex,FLEX,2019Q4,2019-12-31,분기말 종가,12.62,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/FLEX?interval=1d&events=splits (2019-12-31),분할조정 종가 9.5102 × 이후 분할계수 1.327,12
+Flex,FLEX,2019Q4,2020-01-24,분기말 상장주식수,503991662,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/866374/000086637420000003/,dei:EntityCommonStockSharesOutstanding 클래스 합,12
+Flex,FLEX,2019Q4,2019-12-31,분기말 시가총액,6360374774,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/FLEX?interval=1d&events=splits (2019-12-31) ; https://www.sec.gov/Archives/edgar/data/866374/000086637420000003/,종가 12.62 × 주식수 503991662,12
+Flex,FLEX,2020Q1,2020-03-31,분기별 매출액,5484490000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/866374/000086637420000009/ ; https://www.sec.gov/Archives/edgar/data/866374/000086637420000003/,연간 24209870000 − 9개월누적 18725380000 (RevenueFromContractWithCustomerExcludingAssessedTax),12
+Flex,FLEX,2020Q1,2020-03-31,분기별 영업이익,미확인,USD,미확인,https://www.sec.gov/Archives/edgar/data/866374/000086637420000009/,,12
+Flex,FLEX,2020Q1,2020-03-31,분기별 당기순이익(지배),48259000,USD,"계산(연간-3분기누적, 비지배 없음)",https://www.sec.gov/Archives/edgar/data/866374/000086637420000009/ ; https://www.sec.gov/Archives/edgar/data/866374/000086637420000003/,연간 87579000 − 9개월누적 39320000 (ProfitLoss),12
+Flex,FLEX,2020Q1,2020-03-31,분기별 영업활동현금흐름,166030000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/866374/000086637420000009/ ; https://www.sec.gov/Archives/edgar/data/866374/000086637420000003/,누적 -1533276000 − 직전누적 -1699306000 (시작 2019-04-01),12
+Flex,FLEX,2020Q1,2020-03-31,분기말 자산총계,13689617000,USD,공시,https://www.sec.gov/Archives/edgar/data/866374/000086637420000009/,,12
+Flex,FLEX,2020Q1,2020-03-31,분기말 부채총계,10858464000,USD,계산(부채및자본-총자본),https://www.sec.gov/Archives/edgar/data/866374/000086637420000009/,부채및자본 13689617000 − 총자본 2831153000,12
+Flex,FLEX,2020Q1,2020-03-31,분기말 총자본(자기자본),2831153000,USD,공시,https://www.sec.gov/Archives/edgar/data/866374/000086637420000009/,,12
+Flex,FLEX,2020Q1,2020-03-31,분기말 지배지분 자본,2831153000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/866374/000086637420000009/,"StockholdersEquityIncludingPortionAttributableToNoncontrollingInterest, MinorityInterest 태그 없음",12
+Flex,FLEX,2020Q1,2020-03-31,분기말 종가,8.38,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/FLEX?interval=1d&events=splits (2020-03-31),분할조정 종가 6.315 × 이후 분할계수 1.327,12
+Flex,FLEX,2020Q1,2020-05-20,분기말 상장주식수,497611169,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/866374/000086637420000009/,dei:EntityCommonStockSharesOutstanding 클래스 합,12
+Flex,FLEX,2020Q1,2020-03-31,분기말 시가총액,4169981596,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/FLEX?interval=1d&events=splits (2020-03-31) ; https://www.sec.gov/Archives/edgar/data/866374/000086637420000009/,종가 8.38 × 주식수 497611169,12
+Flex,FLEX,2020Q2,2020-06-26,분기별 매출액,5153333000,USD,공시,https://www.sec.gov/Archives/edgar/data/866374/000086637420000012/,,12
+Flex,FLEX,2020Q2,2020-06-26,분기별 영업이익,미확인,USD,미확인,https://www.sec.gov/Archives/edgar/data/866374/000086637420000012/,,12
+Flex,FLEX,2020Q2,2020-06-26,분기별 당기순이익(지배),51820000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/866374/000086637420000012/,,12
+Flex,FLEX,2020Q2,2020-06-26,분기별 영업활동현금흐름,-629390000,USD,공시,https://www.sec.gov/Archives/edgar/data/866374/000086637420000012/,,12
+Flex,FLEX,2020Q2,2020-06-26,분기말 자산총계,14133068000,USD,공시,https://www.sec.gov/Archives/edgar/data/866374/000086637420000012/,,12
+Flex,FLEX,2020Q2,2020-06-26,분기말 부채총계,11193463000,USD,계산(부채및자본-총자본),https://www.sec.gov/Archives/edgar/data/866374/000086637420000012/,부채및자본 14133068000 − 총자본 2939605000,12
+Flex,FLEX,2020Q2,2020-06-26,분기말 총자본(자기자본),2939605000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/866374/000086637420000012/,"StockholdersEquity, MinorityInterest 태그 없음",12
+Flex,FLEX,2020Q2,2020-06-26,분기말 지배지분 자본,2939605000,USD,공시,https://www.sec.gov/Archives/edgar/data/866374/000086637420000012/,,12
+Flex,FLEX,2020Q2,2020-06-26,분기말 종가,9.93,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/FLEX?interval=1d&events=splits (2020-06-26),분할조정 종가 7.483 × 이후 분할계수 1.327,12
+Flex,FLEX,2020Q2,2020-07-29,분기말 상장주식수,500888523,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/866374/000086637420000012/,dei:EntityCommonStockSharesOutstanding 클래스 합,12
+Flex,FLEX,2020Q2,2020-06-26,분기말 시가총액,4973823033,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/FLEX?interval=1d&events=splits (2020-06-26) ; https://www.sec.gov/Archives/edgar/data/866374/000086637420000012/,종가 9.93 × 주식수 500888523,12
+Flex,FLEX,2020Q3,2020-09-25,분기별 매출액,5985000000,USD,공시,https://www.sec.gov/Archives/edgar/data/866374/000086637420000030/,,12
+Flex,FLEX,2020Q3,2020-09-25,분기별 영업이익,175000000,USD,공시(후속 보고서 비교기간),https://www.sec.gov/Archives/edgar/data/866374/000086637421000062/,OperatingIncomeLoss ; 그 분기 보고서에 연결 총계가 없어 2021-10-29 제출본의 비교기간에서 읽었다,12
+Flex,FLEX,2020Q3,2020-09-25,분기별 당기순이익(지배),113000000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/866374/000086637420000030/,,12
+Flex,FLEX,2020Q3,2020-09-25,분기별 영업활동현금흐름,264390000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/866374/000086637420000030/ ; https://www.sec.gov/Archives/edgar/data/866374/000086637420000012/,누적 -365000000 − 직전누적 -629390000 (시작 2020-04-01),12
+Flex,FLEX,2020Q3,2020-09-25,분기말 자산총계,15001000000,USD,공시,https://www.sec.gov/Archives/edgar/data/866374/000086637420000030/,,12
+Flex,FLEX,2020Q3,2020-09-25,분기말 부채총계,11886000000,USD,계산(부채및자본-총자본),https://www.sec.gov/Archives/edgar/data/866374/000086637420000030/,부채및자본 15001000000 − 총자본 3115000000,12
+Flex,FLEX,2020Q3,2020-09-25,분기말 총자본(자기자본),3115000000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/866374/000086637420000030/,"StockholdersEquity, MinorityInterest 태그 없음",12
+Flex,FLEX,2020Q3,2020-09-25,분기말 지배지분 자본,3115000000,USD,공시,https://www.sec.gov/Archives/edgar/data/866374/000086637420000030/,,12
+Flex,FLEX,2020Q3,2020-09-25,분기말 종가,10.53,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/FLEX?interval=1d&events=splits (2020-09-25),분할조정 종가 7.9352 × 이후 분할계수 1.327,12
+Flex,FLEX,2020Q3,2020-10-26,분기말 상장주식수,501157963,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/866374/000086637420000030/,dei:EntityCommonStockSharesOutstanding 클래스 합,12
+Flex,FLEX,2020Q3,2020-09-25,분기말 시가총액,5277193350,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/FLEX?interval=1d&events=splits (2020-09-25) ; https://www.sec.gov/Archives/edgar/data/866374/000086637420000030/,종가 10.53 × 주식수 501157963,12
+Flex,FLEX,2020Q4,2020-12-31,분기별 매출액,6720000000,USD,공시,https://www.sec.gov/Archives/edgar/data/866374/000086637421000019/,,12
+Flex,FLEX,2020Q4,2020-12-31,분기별 영업이익,미확인,USD,미확인,https://www.sec.gov/Archives/edgar/data/866374/000086637421000019/,,12
+Flex,FLEX,2020Q4,2020-12-31,분기별 당기순이익(지배),208000000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/866374/000086637421000019/,,12
+Flex,FLEX,2020Q4,2020-12-31,분기별 영업활동현금흐름,348000000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/866374/000086637421000019/ ; https://www.sec.gov/Archives/edgar/data/866374/000086637420000030/,누적 -17000000 − 직전누적 -365000000 (시작 2020-04-01),12
+Flex,FLEX,2020Q4,2020-12-31,분기말 자산총계,15668000000,USD,공시,https://www.sec.gov/Archives/edgar/data/866374/000086637421000019/,,12
+Flex,FLEX,2020Q4,2020-12-31,분기말 부채총계,12287000000,USD,계산(부채및자본-총자본),https://www.sec.gov/Archives/edgar/data/866374/000086637421000019/,부채및자본 15668000000 − 총자본 3381000000,12
+Flex,FLEX,2020Q4,2020-12-31,분기말 총자본(자기자본),3381000000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/866374/000086637421000019/,"StockholdersEquity, MinorityInterest 태그 없음",12
+Flex,FLEX,2020Q4,2020-12-31,분기말 지배지분 자본,3381000000,USD,공시,https://www.sec.gov/Archives/edgar/data/866374/000086637421000019/,,12
+Flex,FLEX,2020Q4,2020-12-31,분기말 종가,17.98,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/FLEX?interval=1d&events=splits (2020-12-31),분할조정 종가 13.5494 × 이후 분할계수 1.327,12
+Flex,FLEX,2020Q4,2021-01-25,분기말 상장주식수,499172368,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/866374/000086637421000019/,dei:EntityCommonStockSharesOutstanding 클래스 합,12
+Flex,FLEX,2020Q4,2020-12-31,분기말 시가총액,8975119177,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/FLEX?interval=1d&events=splits (2020-12-31) ; https://www.sec.gov/Archives/edgar/data/866374/000086637421000019/,종가 17.98 × 주식수 499172368,12
+Flex,FLEX,2021Q1,2021-03-31,분기별 매출액,6266000000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/866374/000086637421000030/ ; https://www.sec.gov/Archives/edgar/data/866374/000086637421000019/,연간 24124000000 − 9개월누적 17858000000 (RevenueFromContractWithCustomerExcludingAssessedTax),12
+Flex,FLEX,2021Q1,2021-03-31,분기별 영업이익,282000000,USD,공시(후속 보고서 비교기간),https://www.sec.gov/Archives/edgar/data/866374/000086637422000035/,OperatingIncomeLoss ; 그 분기 보고서에 연결 총계가 없어 2022-05-20 제출본의 비교기간에서 읽었다,12
+Flex,FLEX,2021Q1,2021-03-31,분기별 당기순이익(지배),240000000,USD,"계산(연간-3분기누적, 비지배 없음)",https://www.sec.gov/Archives/edgar/data/866374/000086637421000030/ ; https://www.sec.gov/Archives/edgar/data/866374/000086637421000019/,연간 613000000 − 9개월누적 373000000 (ProfitLoss),12
+Flex,FLEX,2021Q1,2021-03-31,분기별 영업활동현금흐름,161000000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/866374/000086637421000030/ ; https://www.sec.gov/Archives/edgar/data/866374/000086637421000019/,누적 144000000 − 직전누적 -17000000 (시작 2020-04-01),12
+Flex,FLEX,2021Q1,2021-03-31,분기말 자산총계,15836000000,USD,공시,https://www.sec.gov/Archives/edgar/data/866374/000086637421000030/,,12
+Flex,FLEX,2021Q1,2021-03-31,분기말 부채총계,12400000000,USD,계산(부채및자본-총자본),https://www.sec.gov/Archives/edgar/data/866374/000086637421000030/,부채및자본 15836000000 − 총자본 3436000000,12
+Flex,FLEX,2021Q1,2021-03-31,분기말 총자본(자기자본),3436000000,USD,공시,https://www.sec.gov/Archives/edgar/data/866374/000086637421000030/,,12
+Flex,FLEX,2021Q1,2021-03-31,분기말 지배지분 자본,3436000000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/866374/000086637421000030/,"StockholdersEquityIncludingPortionAttributableToNoncontrollingInterest, MinorityInterest 태그 없음",12
+Flex,FLEX,2021Q1,2021-03-31,분기말 종가,18.31,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/FLEX?interval=1d&events=splits (2021-03-31),분할조정 종가 13.798 × 이후 분할계수 1.327,12
+Flex,FLEX,2021Q1,2021-05-14,분기말 상장주식수,490742161,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/866374/000086637421000030/,dei:EntityCommonStockSharesOutstanding 클래스 합,12
+Flex,FLEX,2021Q1,2021-03-31,분기말 시가총액,8985488968,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/FLEX?interval=1d&events=splits (2021-03-31) ; https://www.sec.gov/Archives/edgar/data/866374/000086637421000030/,종가 18.31 × 주식수 490742161,12
+Flex,FLEX,2021Q2,2021-07-02,분기별 매출액,6342000000,USD,공시,https://www.sec.gov/Archives/edgar/data/866374/000086637421000043/,,12
+Flex,FLEX,2021Q2,2021-07-02,분기별 영업이익,255000000,USD,공시(후속 보고서 비교기간),https://www.sec.gov/Archives/edgar/data/866374/000086637422000052/,OperatingIncomeLoss ; 그 분기 보고서에 연결 총계가 없어 2022-07-29 제출본의 비교기간에서 읽었다,12
+Flex,FLEX,2021Q2,2021-07-02,분기별 당기순이익(지배),206000000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/866374/000086637421000043/,,12
+Flex,FLEX,2021Q2,2021-07-02,분기별 영업활동현금흐름,334000000,USD,공시,https://www.sec.gov/Archives/edgar/data/866374/000086637421000043/,,12
+Flex,FLEX,2021Q2,2021-07-02,분기말 자산총계,16192000000,USD,공시,https://www.sec.gov/Archives/edgar/data/866374/000086637421000043/,,12
+Flex,FLEX,2021Q2,2021-07-02,분기말 부채총계,12684000000,USD,계산(부채및자본-총자본),https://www.sec.gov/Archives/edgar/data/866374/000086637421000043/,부채및자본 16192000000 − 총자본 3508000000,12
+Flex,FLEX,2021Q2,2021-07-02,분기말 총자본(자기자본),3508000000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/866374/000086637421000043/,"StockholdersEquity, MinorityInterest 태그 없음",12
+Flex,FLEX,2021Q2,2021-07-02,분기말 지배지분 자본,3508000000,USD,공시,https://www.sec.gov/Archives/edgar/data/866374/000086637421000043/,,12
+Flex,FLEX,2021Q2,2021-07-02,분기말 종가,17.87,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/FLEX?interval=1d&events=splits (2021-07-02),분할조정 종가 13.4665 × 이후 분할계수 1.327,12
+Flex,FLEX,2021Q2,2021-07-26,분기말 상장주식수,488225731,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/866374/000086637421000043/,dei:EntityCommonStockSharesOutstanding 클래스 합,12
+Flex,FLEX,2021Q2,2021-07-02,분기말 시가총액,8724593813,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/FLEX?interval=1d&events=splits (2021-07-02) ; https://www.sec.gov/Archives/edgar/data/866374/000086637421000043/,종가 17.87 × 주식수 488225731,12
+Flex,FLEX,2021Q3,2021-10-01,분기별 매출액,6229000000,USD,공시,https://www.sec.gov/Archives/edgar/data/866374/000086637421000062/,,12
+Flex,FLEX,2021Q3,2021-10-01,분기별 영업이익,237000000,USD,공시,https://www.sec.gov/Archives/edgar/data/866374/000086637421000062/,,12
+Flex,FLEX,2021Q3,2021-10-01,분기별 당기순이익(지배),336000000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/866374/000086637421000062/,,12
+Flex,FLEX,2021Q3,2021-10-01,분기별 영업활동현금흐름,180000000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/866374/000086637421000062/ ; https://www.sec.gov/Archives/edgar/data/866374/000086637421000043/,누적 514000000 − 직전누적 334000000 (시작 2021-04-01),12
+Flex,FLEX,2021Q3,2021-10-01,분기말 자산총계,16711000000,USD,공시,https://www.sec.gov/Archives/edgar/data/866374/000086637421000062/,,12
+Flex,FLEX,2021Q3,2021-10-01,분기말 부채총계,13197000000,USD,계산(부채및자본-총자본),https://www.sec.gov/Archives/edgar/data/866374/000086637421000062/,부채및자본 16711000000 − 총자본 3514000000,12
+Flex,FLEX,2021Q3,2021-10-01,분기말 총자본(자기자본),3514000000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/866374/000086637421000062/,"StockholdersEquity, MinorityInterest 태그 없음",12
+Flex,FLEX,2021Q3,2021-10-01,분기말 지배지분 자본,3514000000,USD,공시,https://www.sec.gov/Archives/edgar/data/866374/000086637421000062/,,12
+Flex,FLEX,2021Q3,2021-10-01,분기말 종가,18.23,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/FLEX?interval=1d&events=splits (2021-10-01),분할조정 종가 13.7378 × 이후 분할계수 1.327,12
+Flex,FLEX,2021Q3,2021-10-25,분기말 상장주식수,470623389,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/866374/000086637421000062/,dei:EntityCommonStockSharesOutstanding 클래스 합,12
+Flex,FLEX,2021Q3,2021-10-01,분기말 시가총액,8579464381,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/FLEX?interval=1d&events=splits (2021-10-01) ; https://www.sec.gov/Archives/edgar/data/866374/000086637421000062/,종가 18.23 × 주식수 470623389,12
+Flex,FLEX,2021Q4,2021-12-31,분기별 매출액,6619000000,USD,공시,https://www.sec.gov/Archives/edgar/data/866374/000086637422000016/,,12
+Flex,FLEX,2021Q4,2021-12-31,분기별 영업이익,251000000,USD,공시,https://www.sec.gov/Archives/edgar/data/866374/000086637422000016/,,12
+Flex,FLEX,2021Q4,2021-12-31,분기별 당기순이익(지배),227000000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/866374/000086637422000016/,,12
+Flex,FLEX,2021Q4,2021-12-31,분기별 영업활동현금흐름,150000000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/866374/000086637422000016/ ; https://www.sec.gov/Archives/edgar/data/866374/000086637421000062/,누적 664000000 − 직전누적 514000000 (시작 2021-04-01),12
+Flex,FLEX,2021Q4,2021-12-31,분기말 자산총계,18175000000,USD,공시,https://www.sec.gov/Archives/edgar/data/866374/000086637422000016/,,12
+Flex,FLEX,2021Q4,2021-12-31,분기말 부채총계,14520000000,USD,계산(부채및자본-총자본),https://www.sec.gov/Archives/edgar/data/866374/000086637422000016/,부채및자본 18175000000 − 총자본 3655000000,12
+Flex,FLEX,2021Q4,2021-12-31,분기말 총자본(자기자본),3655000000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/866374/000086637422000016/,"StockholdersEquity, MinorityInterest 태그 없음",12
+Flex,FLEX,2021Q4,2021-12-31,분기말 지배지분 자본,3655000000,USD,공시,https://www.sec.gov/Archives/edgar/data/866374/000086637422000016/,,12
+Flex,FLEX,2021Q4,2021-12-31,분기말 종가,18.33,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/FLEX?interval=1d&events=splits (2021-12-31),분할조정 종가 13.8131 × 이후 분할계수 1.327,12
+Flex,FLEX,2021Q4,2022-02-01,분기말 상장주식수,464086322,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/866374/000086637422000016/,dei:EntityCommonStockSharesOutstanding 클래스 합,12
+Flex,FLEX,2021Q4,2021-12-31,분기말 시가총액,8506702282,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/FLEX?interval=1d&events=splits (2021-12-31) ; https://www.sec.gov/Archives/edgar/data/866374/000086637422000016/,종가 18.33 × 주식수 464086322,12
+Flex,FLEX,2022Q1,2022-03-31,분기별 매출액,6851000000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/866374/000086637422000035/ ; https://www.sec.gov/Archives/edgar/data/866374/000086637422000016/,연간 26041000000 − 9개월누적 19190000000 (RevenueFromContractWithCustomerExcludingAssessedTax),12
+Flex,FLEX,2022Q1,2022-03-31,분기별 영업이익,227000000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/866374/000086637422000035/ ; https://www.sec.gov/Archives/edgar/data/866374/000086637422000016/,연간 972000000 − 9개월누적 745000000 (OperatingIncomeLoss),12
+Flex,FLEX,2022Q1,2022-03-31,분기별 당기순이익(지배),167000000,USD,계산(연간(연결-비지배)-3분기누적),https://www.sec.gov/Archives/edgar/data/866374/000086637422000035/ ; https://www.sec.gov/Archives/edgar/data/866374/000086637422000016/,"연간 연결 940000000 − 비지배 4000000 − (9개월 연결 769000000, 비지배 태그 없음)",12
+Flex,FLEX,2022Q1,2022-03-31,분기별 영업활동현금흐름,360000000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/866374/000086637422000035/ ; https://www.sec.gov/Archives/edgar/data/866374/000086637422000016/,누적 1024000000 − 직전누적 664000000 (시작 2021-04-01),12
+Flex,FLEX,2022Q1,2022-03-31,분기말 자산총계,19325000000,USD,공시,https://www.sec.gov/Archives/edgar/data/866374/000086637422000035/,,12
+Flex,FLEX,2022Q1,2022-03-31,분기말 부채총계,15118000000,USD,공시,https://www.sec.gov/Archives/edgar/data/866374/000086637422000035/,메자닌(일시자본) 78000000 별도,12
+Flex,FLEX,2022Q1,2022-03-31,분기말 총자본(자기자본),4129000000,USD,공시,https://www.sec.gov/Archives/edgar/data/866374/000086637422000035/,,12
+Flex,FLEX,2022Q1,2022-03-31,분기말 지배지분 자본,4129000000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/866374/000086637422000035/,"StockholdersEquityIncludingPortionAttributableToNoncontrollingInterest, MinorityInterest 태그 없음",12
+Flex,FLEX,2022Q1,2022-03-31,분기말 종가,18.55,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/FLEX?interval=1d&events=splits (2022-03-31),분할조정 종가 13.9789 × 이후 분할계수 1.327,12
+Flex,FLEX,2022Q1,2022-05-16,분기말 상장주식수,457642860,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/866374/000086637422000035/,dei:EntityCommonStockSharesOutstanding 클래스 합,12
+Flex,FLEX,2022Q1,2022-03-31,분기말 시가총액,8489275053,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/FLEX?interval=1d&events=splits (2022-03-31) ; https://www.sec.gov/Archives/edgar/data/866374/000086637422000035/,종가 18.55 × 주식수 457642860,12
+Flex,FLEX,2022Q2,2022-07-01,분기별 매출액,7347000000,USD,공시,https://www.sec.gov/Archives/edgar/data/866374/000086637422000052/,,12
+Flex,FLEX,2022Q2,2022-07-01,분기별 영업이익,272000000,USD,공시,https://www.sec.gov/Archives/edgar/data/866374/000086637422000052/,,12
+Flex,FLEX,2022Q2,2022-07-01,분기별 당기순이익(지배),189000000,USD,공시,https://www.sec.gov/Archives/edgar/data/866374/000086637422000052/,,12
+Flex,FLEX,2022Q2,2022-07-01,분기별 영업활동현금흐름,38000000,USD,공시,https://www.sec.gov/Archives/edgar/data/866374/000086637422000052/,,12
+Flex,FLEX,2022Q2,2022-07-01,분기말 자산총계,20054000000,USD,공시,https://www.sec.gov/Archives/edgar/data/866374/000086637422000052/,,12
+Flex,FLEX,2022Q2,2022-07-01,분기말 부채총계,15879000000,USD,공시,https://www.sec.gov/Archives/edgar/data/866374/000086637422000052/,메자닌(일시자본) 84000000 별도,12
+Flex,FLEX,2022Q2,2022-07-01,분기말 총자본(자기자본),4091000000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/866374/000086637422000052/,"StockholdersEquity, MinorityInterest 태그 없음",12
+Flex,FLEX,2022Q2,2022-07-01,분기말 지배지분 자본,4091000000,USD,공시,https://www.sec.gov/Archives/edgar/data/866374/000086637422000052/,,12
+Flex,FLEX,2022Q2,2022-07-01,분기말 종가,14.25,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/FLEX?interval=1d&events=splits (2022-07-01),분할조정 종가 10.7385 × 이후 분할계수 1.327,12
+Flex,FLEX,2022Q2,2022-07-25,분기말 상장주식수,456084675,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/866374/000086637422000052/,dei:EntityCommonStockSharesOutstanding 클래스 합,12
+Flex,FLEX,2022Q2,2022-07-01,분기말 시가총액,6499206619,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/FLEX?interval=1d&events=splits (2022-07-01) ; https://www.sec.gov/Archives/edgar/data/866374/000086637422000052/,종가 14.25 × 주식수 456084675,12
+Flex,FLEX,2022Q3,2022-09-30,분기별 매출액,7766000000,USD,공시,https://www.sec.gov/Archives/edgar/data/866374/000086637422000074/,,12
+Flex,FLEX,2022Q3,2022-09-30,분기별 영업이익,325000000,USD,공시,https://www.sec.gov/Archives/edgar/data/866374/000086637422000074/,,12
+Flex,FLEX,2022Q3,2022-09-30,분기별 당기순이익(지배),232000000,USD,공시,https://www.sec.gov/Archives/edgar/data/866374/000086637422000074/,,12
+Flex,FLEX,2022Q3,2022-09-30,분기별 영업활동현금흐름,103000000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/866374/000086637422000074/ ; https://www.sec.gov/Archives/edgar/data/866374/000086637422000052/,누적 141000000 − 직전누적 38000000 (시작 2022-04-01),12
+Flex,FLEX,2022Q3,2022-09-30,분기말 자산총계,20623000000,USD,공시,https://www.sec.gov/Archives/edgar/data/866374/000086637422000074/,,12
+Flex,FLEX,2022Q3,2022-09-30,분기말 부채총계,16353000000,USD,공시,https://www.sec.gov/Archives/edgar/data/866374/000086637422000074/,메자닌(일시자본) 90000000 별도,12
+Flex,FLEX,2022Q3,2022-09-30,분기말 총자본(자기자본),4180000000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/866374/000086637422000074/,"StockholdersEquity, MinorityInterest 태그 없음",12
+Flex,FLEX,2022Q3,2022-09-30,분기말 지배지분 자본,4180000000,USD,공시,https://www.sec.gov/Archives/edgar/data/866374/000086637422000074/,,12
+Flex,FLEX,2022Q3,2022-09-30,분기말 종가,16.66,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/FLEX?interval=1d&events=splits (2022-09-30),분할조정 종가 12.5546 × 이후 분할계수 1.327,12
+Flex,FLEX,2022Q3,2022-10-21,분기말 상장주식수,452783958,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/866374/000086637422000074/,dei:EntityCommonStockSharesOutstanding 클래스 합,12
+Flex,FLEX,2022Q3,2022-09-30,분기말 시가총액,7543380740,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/FLEX?interval=1d&events=splits (2022-09-30) ; https://www.sec.gov/Archives/edgar/data/866374/000086637422000074/,종가 16.66 × 주식수 452783958,12
+Flex,FLEX,2022Q4,2022-12-31,분기별 매출액,7756000000,USD,공시,https://www.sec.gov/Archives/edgar/data/866374/000086637423000007/,,12
+Flex,FLEX,2022Q4,2022-12-31,분기별 영업이익,321000000,USD,공시,https://www.sec.gov/Archives/edgar/data/866374/000086637423000007/,,12
+Flex,FLEX,2022Q4,2022-12-31,분기별 당기순이익(지배),230000000,USD,공시,https://www.sec.gov/Archives/edgar/data/866374/000086637423000007/,,12
+Flex,FLEX,2022Q4,2022-12-31,분기별 영업활동현금흐름,359000000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/866374/000086637423000007/ ; https://www.sec.gov/Archives/edgar/data/866374/000086637422000074/,누적 500000000 − 직전누적 141000000 (시작 2022-04-01),12
+Flex,FLEX,2022Q4,2022-12-31,분기말 자산총계,20892000000,USD,공시,https://www.sec.gov/Archives/edgar/data/866374/000086637423000007/,,12
+Flex,FLEX,2022Q4,2022-12-31,분기말 부채총계,16290000000,USD,공시,https://www.sec.gov/Archives/edgar/data/866374/000086637423000007/,메자닌(일시자본) 97000000 별도,12
+Flex,FLEX,2022Q4,2022-12-31,분기말 총자본(자기자본),4505000000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/866374/000086637423000007/,"StockholdersEquity, MinorityInterest 태그 없음",12
+Flex,FLEX,2022Q4,2022-12-31,분기말 지배지분 자본,4505000000,USD,공시,https://www.sec.gov/Archives/edgar/data/866374/000086637423000007/,,12
+Flex,FLEX,2022Q4,2022-12-30,분기말 종가,21.46,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/FLEX?interval=1d&events=splits (2022-12-30),분할조정 종가 16.1718 × 이후 분할계수 1.327,12
+Flex,FLEX,2022Q4,2023-01-20,분기말 상장주식수,451081016,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/866374/000086637423000007/,dei:EntityCommonStockSharesOutstanding 클래스 합,12
+Flex,FLEX,2022Q4,2022-12-30,분기말 시가총액,9680198603,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/FLEX?interval=1d&events=splits (2022-12-30) ; https://www.sec.gov/Archives/edgar/data/866374/000086637423000007/,종가 21.46 × 주식수 451081016,12
+Flex,FLEX,2023Q1,2023-03-31,분기별 매출액,7477000000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/866374/000086637423000028/ ; https://www.sec.gov/Archives/edgar/data/866374/000086637423000007/,연간 30346000000 − 9개월누적 22869000000 (RevenueFromContractWithCustomerExcludingAssessedTax),12
+Flex,FLEX,2023Q1,2023-03-31,분기별 영업이익,266000000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/866374/000086637423000028/ ; https://www.sec.gov/Archives/edgar/data/866374/000086637423000007/,연간 1184000000 − 9개월누적 918000000 (OperatingIncomeLoss),12
+Flex,FLEX,2023Q1,2023-03-31,분기별 당기순이익(지배),142000000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/866374/000086637423000028/ ; https://www.sec.gov/Archives/edgar/data/866374/000086637423000007/,연간 793000000 − 9개월누적 651000000 (NetIncomeLoss),12
+Flex,FLEX,2023Q1,2023-03-31,분기별 영업활동현금흐름,450000000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/866374/000086637423000028/ ; https://www.sec.gov/Archives/edgar/data/866374/000086637423000007/,누적 950000000 − 직전누적 500000000 (시작 2022-04-01),12
+Flex,FLEX,2023Q1,2023-03-31,분기말 자산총계,21407000000,USD,공시(재작성 반영),https://www.sec.gov/Archives/edgar/data/866374/000086637424000021/,원 공시 21395000000 (https://www.sec.gov/Archives/edgar/data/866374/000086637423000028/),12
+Flex,FLEX,2023Q1,2023-03-31,분기말 부채총계,15701000000,USD,공시(재작성 반영),https://www.sec.gov/Archives/edgar/data/866374/000086637424000021/,원 공시 15689000000 (https://www.sec.gov/Archives/edgar/data/866374/000086637423000028/),12
+Flex,FLEX,2023Q1,2023-03-31,분기말 총자본(자기자본),5706000000,USD,공시,https://www.sec.gov/Archives/edgar/data/866374/000086637423000028/,,12
+Flex,FLEX,2023Q1,2023-03-31,분기말 지배지분 자본,5351000000,USD,공시,https://www.sec.gov/Archives/edgar/data/866374/000086637423000028/,,12
+Flex,FLEX,2023Q1,2023-03-31,분기말 종가,23.01,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/FLEX?interval=1d&events=splits (2023-03-31),분할조정 종가 17.3399 × 이후 분할계수 1.327,12
+Flex,FLEX,2023Q1,2023-05-12,분기말 상장주식수,444493546,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/866374/000086637423000028/,dei:EntityCommonStockSharesOutstanding 클래스 합,12
+Flex,FLEX,2023Q1,2023-03-31,분기말 시가총액,10227796493,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/FLEX?interval=1d&events=splits (2023-03-31) ; https://www.sec.gov/Archives/edgar/data/866374/000086637423000028/,종가 23.01 × 주식수 444493546,12
+Flex,FLEX,2023Q2,2023-06-30,분기별 매출액,7336000000,USD,공시,https://www.sec.gov/Archives/edgar/data/866374/000086637423000058/,,12
+Flex,FLEX,2023Q2,2023-06-30,분기별 영업이익,291000000,USD,공시,https://www.sec.gov/Archives/edgar/data/866374/000086637423000058/,,12
+Flex,FLEX,2023Q2,2023-06-30,분기별 당기순이익(지배),186000000,USD,공시,https://www.sec.gov/Archives/edgar/data/866374/000086637423000058/,,12
+Flex,FLEX,2023Q2,2023-06-30,분기별 영업활동현금흐름,6000000,USD,공시,https://www.sec.gov/Archives/edgar/data/866374/000086637423000058/,,12
+Flex,FLEX,2023Q2,2023-06-30,분기말 자산총계,20936000000,USD,공시,https://www.sec.gov/Archives/edgar/data/866374/000086637423000058/,,12
+Flex,FLEX,2023Q2,2023-06-30,분기말 부채총계,15150000000,USD,공시,https://www.sec.gov/Archives/edgar/data/866374/000086637423000058/,,12
+Flex,FLEX,2023Q2,2023-06-30,분기말 총자본(자기자본),5786000000,USD,공시,https://www.sec.gov/Archives/edgar/data/866374/000086637423000058/,,12
+Flex,FLEX,2023Q2,2023-06-30,분기말 지배지분 자본,5406000000,USD,공시,https://www.sec.gov/Archives/edgar/data/866374/000086637423000058/,,12
+Flex,FLEX,2023Q2,2023-06-30,분기말 종가,27.64,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/FLEX?interval=1d&events=splits (2023-06-30),분할조정 종가 20.8289 × 이후 분할계수 1.327,12
+Flex,FLEX,2023Q2,2023-07-21,분기말 상장주식수,446626960,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/866374/000086637423000058/,dei:EntityCommonStockSharesOutstanding 클래스 합,12
+Flex,FLEX,2023Q2,2023-06-30,분기말 시가총액,12344769174,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/FLEX?interval=1d&events=splits (2023-06-30) ; https://www.sec.gov/Archives/edgar/data/866374/000086637423000058/,종가 27.64 × 주식수 446626960,12
+Flex,FLEX,2023Q3,2023-09-29,분기별 매출액,7471000000,USD,공시,https://www.sec.gov/Archives/edgar/data/866374/000086637423000066/,,12
+Flex,FLEX,2023Q3,2023-09-29,분기별 영업이익,376000000,USD,공시,https://www.sec.gov/Archives/edgar/data/866374/000086637423000066/,,12
+Flex,FLEX,2023Q3,2023-09-29,분기별 당기순이익(지배),228000000,USD,공시,https://www.sec.gov/Archives/edgar/data/866374/000086637423000066/,,12
+Flex,FLEX,2023Q3,2023-09-29,분기별 영업활동현금흐름,357000000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/866374/000086637423000066/ ; https://www.sec.gov/Archives/edgar/data/866374/000086637423000058/,누적 363000000 − 직전누적 6000000 (시작 2023-04-01),12
+Flex,FLEX,2023Q3,2023-09-29,분기말 자산총계,20968000000,USD,공시,https://www.sec.gov/Archives/edgar/data/866374/000086637423000066/,,12
+Flex,FLEX,2023Q3,2023-09-29,분기말 부채총계,14612000000,USD,공시,https://www.sec.gov/Archives/edgar/data/866374/000086637423000066/,,12
+Flex,FLEX,2023Q3,2023-09-29,분기말 총자본(자기자본),6356000000,USD,공시,https://www.sec.gov/Archives/edgar/data/866374/000086637423000066/,,12
+Flex,FLEX,2023Q3,2023-09-29,분기말 지배지분 자본,5906000000,USD,공시,https://www.sec.gov/Archives/edgar/data/866374/000086637423000066/,,12
+Flex,FLEX,2023Q3,2023-09-29,분기말 종가,26.98,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/FLEX?interval=1d&events=splits (2023-09-29),분할조정 종가 20.3316 × 이후 분할계수 1.327,12
+Flex,FLEX,2023Q3,2023-10-20,분기말 상장주식수,434856076,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/866374/000086637423000066/,dei:EntityCommonStockSharesOutstanding 클래스 합,12
+Flex,FLEX,2023Q3,2023-09-29,분기말 시가총액,11732416930,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/FLEX?interval=1d&events=splits (2023-09-29) ; https://www.sec.gov/Archives/edgar/data/866374/000086637423000066/,종가 26.98 × 주식수 434856076,12
+Flex,FLEX,2023Q4,2023-12-31,분기별 매출액,7103000000,USD,공시,https://www.sec.gov/Archives/edgar/data/866374/000086637424000012/,,12
+Flex,FLEX,2023Q4,2023-12-31,분기별 영업이익,348000000,USD,공시,https://www.sec.gov/Archives/edgar/data/866374/000086637424000012/,,12
+Flex,FLEX,2023Q4,2023-12-31,분기별 당기순이익(지배),197000000,USD,공시,https://www.sec.gov/Archives/edgar/data/866374/000086637424000012/,,12
+Flex,FLEX,2023Q4,2023-12-31,분기별 영업활동현금흐름,284000000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/866374/000086637424000012/ ; https://www.sec.gov/Archives/edgar/data/866374/000086637423000066/,누적 647000000 − 직전누적 363000000 (시작 2023-04-01),12
+Flex,FLEX,2023Q4,2023-12-31,분기말 자산총계,20366000000,USD,공시,https://www.sec.gov/Archives/edgar/data/866374/000086637424000012/,,12
+Flex,FLEX,2023Q4,2023-12-31,분기말 부채총계,13921000000,USD,공시,https://www.sec.gov/Archives/edgar/data/866374/000086637424000012/,,12
+Flex,FLEX,2023Q4,2023-12-31,분기말 총자본(자기자본),6445000000,USD,공시,https://www.sec.gov/Archives/edgar/data/866374/000086637424000012/,,12
+Flex,FLEX,2023Q4,2023-12-31,분기말 지배지분 자본,5965000000,USD,공시,https://www.sec.gov/Archives/edgar/data/866374/000086637424000012/,,12
+Flex,FLEX,2023Q4,2023-12-29,분기말 종가,30.46,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/FLEX?interval=1d&events=splits (2023-12-29),분할조정 종가 22.954 × 이후 분할계수 1.327,12
+Flex,FLEX,2023Q4,2024-01-26,분기말 상장주식수,421163217,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/866374/000086637424000012/,dei:EntityCommonStockSharesOutstanding 클래스 합; 표지 기준일이 분할 후,12
+Flex,FLEX,2023Q4,2023-12-29,분기말 시가총액,9667393813,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/FLEX?interval=1d&events=splits (2023-12-29) ; https://www.sec.gov/Archives/edgar/data/866374/000086637424000012/,종가 30.46 × 주식수 421163217 ÷ 분할비율 1.327 (분할일 2024-01-03가 거래일 2023-12-29와 표지 기준일 2024-01-26 사이),12
+Flex,FLEX,2024Q1,2024-03-31,분기별 매출액,4505000000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/866374/000086637424000021/ ; https://www.sec.gov/Archives/edgar/data/866374/000086637424000012/,연간 26415000000 − 9개월누적 21910000000 (RevenueFromContractWithCustomerExcludingAssessedTax),12
+Flex,FLEX,2024Q1,2024-03-31,분기별 영업이익,-162000000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/866374/000086637424000021/ ; https://www.sec.gov/Archives/edgar/data/866374/000086637424000012/,연간 853000000 − 9개월누적 1015000000 (OperatingIncomeLoss),12
+Flex,FLEX,2024Q1,2024-03-31,분기별 당기순이익(지배),395000000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/866374/000086637424000021/ ; https://www.sec.gov/Archives/edgar/data/866374/000086637424000012/,연간 1006000000 − 9개월누적 611000000 (NetIncomeLoss),12
+Flex,FLEX,2024Q1,2024-03-31,분기별 영업활동현금흐름,679000000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/866374/000086637424000021/ ; https://www.sec.gov/Archives/edgar/data/866374/000086637424000012/,누적 1326000000 − 직전누적 647000000 (시작 2023-04-01),12
+Flex,FLEX,2024Q1,2024-03-31,분기말 자산총계,18257000000,USD,공시,https://www.sec.gov/Archives/edgar/data/866374/000086637424000021/,,12
+Flex,FLEX,2024Q1,2024-03-31,분기말 부채총계,12932000000,USD,공시,https://www.sec.gov/Archives/edgar/data/866374/000086637424000021/,,12
+Flex,FLEX,2024Q1,2024-03-31,분기말 총자본(자기자본),5325000000,USD,공시,https://www.sec.gov/Archives/edgar/data/866374/000086637424000021/,,12
+Flex,FLEX,2024Q1,2024-03-31,분기말 지배지분 자본,5325000000,USD,공시,https://www.sec.gov/Archives/edgar/data/866374/000086637424000021/,,12
+Flex,FLEX,2024Q1,2024-03-28,분기말 종가,28.61,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/FLEX?interval=1d&events=splits (2024-03-28),,12
+Flex,FLEX,2024Q1,2024-05-10,분기말 상장주식수,401640807,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/866374/000086637424000021/,dei:EntityCommonStockSharesOutstanding 클래스 합,12
+Flex,FLEX,2024Q1,2024-03-28,분기말 시가총액,11490943488,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/FLEX?interval=1d&events=splits (2024-03-28) ; https://www.sec.gov/Archives/edgar/data/866374/000086637424000021/,종가 28.61 × 주식수 401640807,12
+Flex,FLEX,2024Q2,2024-06-28,분기별 매출액,6314000000,USD,공시,https://www.sec.gov/Archives/edgar/data/866374/000086637424000034/,,12
+Flex,FLEX,2024Q2,2024-06-28,분기별 영업이익,233000000,USD,공시,https://www.sec.gov/Archives/edgar/data/866374/000086637424000034/,,12
+Flex,FLEX,2024Q2,2024-06-28,분기별 당기순이익(지배),139000000,USD,공시,https://www.sec.gov/Archives/edgar/data/866374/000086637424000034/,,12
+Flex,FLEX,2024Q2,2024-06-28,분기별 영업활동현금흐름,340000000,USD,공시,https://www.sec.gov/Archives/edgar/data/866374/000086637424000034/,,12
+Flex,FLEX,2024Q2,2024-06-28,분기말 자산총계,17737000000,USD,공시,https://www.sec.gov/Archives/edgar/data/866374/000086637424000034/,,12
+Flex,FLEX,2024Q2,2024-06-28,분기말 부채총계,12741000000,USD,공시,https://www.sec.gov/Archives/edgar/data/866374/000086637424000034/,,12
+Flex,FLEX,2024Q2,2024-06-28,분기말 총자본(자기자본),4996000000,USD,공시,https://www.sec.gov/Archives/edgar/data/866374/000086637424000034/,,12
+Flex,FLEX,2024Q2,2024-06-28,분기말 지배지분 자본,4996000000,USD,공시,https://www.sec.gov/Archives/edgar/data/866374/000086637424000034/,,12
+Flex,FLEX,2024Q2,2024-06-28,분기말 종가,29.49,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/FLEX?interval=1d&events=splits (2024-06-28),,12
+Flex,FLEX,2024Q2,2024-07-19,분기말 상장주식수,397071279,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/866374/000086637424000034/,dei:EntityCommonStockSharesOutstanding 클래스 합,12
+Flex,FLEX,2024Q2,2024-06-28,분기말 시가총액,11709632018,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/FLEX?interval=1d&events=splits (2024-06-28) ; https://www.sec.gov/Archives/edgar/data/866374/000086637424000034/,종가 29.49 × 주식수 397071279,12
+Flex,FLEX,2024Q3,2024-09-27,분기별 매출액,6545000000,USD,공시,https://www.sec.gov/Archives/edgar/data/866374/000086637424000053/,,12
+Flex,FLEX,2024Q3,2024-09-27,분기별 영업이익,297000000,USD,공시,https://www.sec.gov/Archives/edgar/data/866374/000086637424000053/,,12
+Flex,FLEX,2024Q3,2024-09-27,분기별 당기순이익(지배),214000000,USD,공시,https://www.sec.gov/Archives/edgar/data/866374/000086637424000053/,,12
+Flex,FLEX,2024Q3,2024-09-27,분기별 영업활동현금흐름,319000000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/866374/000086637424000053/ ; https://www.sec.gov/Archives/edgar/data/866374/000086637424000034/,누적 659000000 − 직전누적 340000000 (시작 2024-04-01),12
+Flex,FLEX,2024Q3,2024-09-27,분기말 자산총계,18586000000,USD,공시,https://www.sec.gov/Archives/edgar/data/866374/000086637424000053/,,12
+Flex,FLEX,2024Q3,2024-09-27,분기말 부채총계,13583000000,USD,공시,https://www.sec.gov/Archives/edgar/data/866374/000086637424000053/,,12
+Flex,FLEX,2024Q3,2024-09-27,분기말 총자본(자기자본),5003000000,USD,공시,https://www.sec.gov/Archives/edgar/data/866374/000086637424000053/,,12
+Flex,FLEX,2024Q3,2024-09-27,분기말 지배지분 자본,5003000000,USD,공시,https://www.sec.gov/Archives/edgar/data/866374/000086637424000053/,,12
+Flex,FLEX,2024Q3,2024-09-27,분기말 종가,33.56,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/FLEX?interval=1d&events=splits (2024-09-27),,12
+Flex,FLEX,2024Q3,2024-10-25,분기말 상장주식수,387783445,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/866374/000086637424000053/,dei:EntityCommonStockSharesOutstanding 클래스 합,12
+Flex,FLEX,2024Q3,2024-09-27,분기말 시가총액,13014012414,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/FLEX?interval=1d&events=splits (2024-09-27) ; https://www.sec.gov/Archives/edgar/data/866374/000086637424000053/,종가 33.56 × 주식수 387783445,12
+Flex,FLEX,2024Q4,2024-12-31,분기별 매출액,6556000000,USD,공시,https://www.sec.gov/Archives/edgar/data/866374/000086637425000008/,,12
+Flex,FLEX,2024Q4,2024-12-31,분기별 영업이익,334000000,USD,공시,https://www.sec.gov/Archives/edgar/data/866374/000086637425000008/,,12
+Flex,FLEX,2024Q4,2024-12-31,분기별 당기순이익(지배),263000000,USD,공시,https://www.sec.gov/Archives/edgar/data/866374/000086637425000008/,,12
+Flex,FLEX,2024Q4,2024-12-31,분기별 영업활동현금흐름,413000000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/866374/000086637425000008/ ; https://www.sec.gov/Archives/edgar/data/866374/000086637424000053/,누적 1072000000 − 직전누적 659000000 (시작 2024-04-01),12
+Flex,FLEX,2024Q4,2024-12-31,분기말 자산총계,18272000000,USD,공시,https://www.sec.gov/Archives/edgar/data/866374/000086637425000008/,,12
+Flex,FLEX,2024Q4,2024-12-31,분기말 부채총계,13280000000,USD,공시,https://www.sec.gov/Archives/edgar/data/866374/000086637425000008/,,12
+Flex,FLEX,2024Q4,2024-12-31,분기말 총자본(자기자본),4992000000,USD,공시,https://www.sec.gov/Archives/edgar/data/866374/000086637425000008/,,12
+Flex,FLEX,2024Q4,2024-12-31,분기말 지배지분 자본,4992000000,USD,공시,https://www.sec.gov/Archives/edgar/data/866374/000086637425000008/,,12
+Flex,FLEX,2024Q4,2024-12-31,분기말 종가,38.39,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/FLEX?interval=1d&events=splits (2024-12-31),,12
+Flex,FLEX,2024Q4,2025-01-24,분기말 상장주식수,383103055,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/866374/000086637425000008/,dei:EntityCommonStockSharesOutstanding 클래스 합,12
+Flex,FLEX,2024Q4,2024-12-31,분기말 시가총액,14707326281,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/FLEX?interval=1d&events=splits (2024-12-31) ; https://www.sec.gov/Archives/edgar/data/866374/000086637425000008/,종가 38.39 × 주식수 383103055,12
+Flex,FLEX,2025Q1,2025-03-31,분기별 매출액,6398000000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/866374/000086637425000027/ ; https://www.sec.gov/Archives/edgar/data/866374/000086637425000008/,연간 25813000000 − 9개월누적 19415000000 (RevenueFromContractWithCustomerExcludingAssessedTax),12
+Flex,FLEX,2025Q1,2025-03-31,분기별 영업이익,305000000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/866374/000086637425000027/ ; https://www.sec.gov/Archives/edgar/data/866374/000086637425000008/,연간 1169000000 − 9개월누적 864000000 (OperatingIncomeLoss),12
+Flex,FLEX,2025Q1,2025-03-31,분기별 당기순이익(지배),222000000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/866374/000086637425000027/ ; https://www.sec.gov/Archives/edgar/data/866374/000086637425000008/,연간 838000000 − 9개월누적 616000000 (NetIncomeLoss),12
+Flex,FLEX,2025Q1,2025-03-31,분기별 영업활동현금흐름,433000000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/866374/000086637425000027/ ; https://www.sec.gov/Archives/edgar/data/866374/000086637425000008/,누적 1505000000 − 직전누적 1072000000 (시작 2024-04-01),12
+Flex,FLEX,2025Q1,2025-03-31,분기말 자산총계,18381000000,USD,공시,https://www.sec.gov/Archives/edgar/data/866374/000086637425000027/,,12
+Flex,FLEX,2025Q1,2025-03-31,분기말 부채총계,13379000000,USD,공시,https://www.sec.gov/Archives/edgar/data/866374/000086637425000027/,,12
+Flex,FLEX,2025Q1,2025-03-31,분기말 총자본(자기자본),5002000000,USD,공시,https://www.sec.gov/Archives/edgar/data/866374/000086637425000027/,,12
+Flex,FLEX,2025Q1,2025-03-31,분기말 지배지분 자본,5002000000,USD,공시,https://www.sec.gov/Archives/edgar/data/866374/000086637425000027/,,12
+Flex,FLEX,2025Q1,2025-03-31,분기말 종가,33.08,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/FLEX?interval=1d&events=splits (2025-03-31),,12
+Flex,FLEX,2025Q1,2025-05-15,분기말 상장주식수,373315616,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/866374/000086637425000027/,dei:EntityCommonStockSharesOutstanding 클래스 합,12
+Flex,FLEX,2025Q1,2025-03-31,분기말 시가총액,12349280577,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/FLEX?interval=1d&events=splits (2025-03-31) ; https://www.sec.gov/Archives/edgar/data/866374/000086637425000027/,종가 33.08 × 주식수 373315616,12
+Flex,FLEX,2025Q2,2025-06-27,분기별 매출액,6575000000,USD,공시,https://www.sec.gov/Archives/edgar/data/866374/000086637425000043/,,12
+Flex,FLEX,2025Q2,2025-06-27,분기별 영업이익,311000000,USD,공시,https://www.sec.gov/Archives/edgar/data/866374/000086637425000043/,,12
+Flex,FLEX,2025Q2,2025-06-27,분기별 당기순이익(지배),192000000,USD,공시,https://www.sec.gov/Archives/edgar/data/866374/000086637425000043/,,12
+Flex,FLEX,2025Q2,2025-06-27,분기별 영업활동현금흐름,399000000,USD,공시,https://www.sec.gov/Archives/edgar/data/866374/000086637425000043/,,12
+Flex,FLEX,2025Q2,2025-06-27,분기말 자산총계,19132000000,USD,공시,https://www.sec.gov/Archives/edgar/data/866374/000086637425000043/,,12
+Flex,FLEX,2025Q2,2025-06-27,분기말 부채총계,14043000000,USD,공시,https://www.sec.gov/Archives/edgar/data/866374/000086637425000043/,,12
+Flex,FLEX,2025Q2,2025-06-27,분기말 총자본(자기자본),5089000000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/866374/000086637425000043/,"StockholdersEquity, MinorityInterest 태그 없음",12
+Flex,FLEX,2025Q2,2025-06-27,분기말 지배지분 자본,5089000000,USD,공시,https://www.sec.gov/Archives/edgar/data/866374/000086637425000043/,,12
+Flex,FLEX,2025Q2,2025-06-27,분기말 종가,49.89,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/FLEX?interval=1d&events=splits (2025-06-27),,12
+Flex,FLEX,2025Q2,2025-07-18,분기말 상장주식수,375324843,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/866374/000086637425000043/,dei:EntityCommonStockSharesOutstanding 클래스 합,12
+Flex,FLEX,2025Q2,2025-06-27,분기말 시가총액,18724956417,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/FLEX?interval=1d&events=splits (2025-06-27) ; https://www.sec.gov/Archives/edgar/data/866374/000086637425000043/,종가 49.89 × 주식수 375324843,12
+Flex,FLEX,2025Q3,2025-09-26,분기별 매출액,6804000000,USD,공시,https://www.sec.gov/Archives/edgar/data/866374/000086637425000051/,,12
+Flex,FLEX,2025Q3,2025-09-26,분기별 영업이익,296000000,USD,공시,https://www.sec.gov/Archives/edgar/data/866374/000086637425000051/,,12
+Flex,FLEX,2025Q3,2025-09-26,분기별 당기순이익(지배),199000000,USD,공시,https://www.sec.gov/Archives/edgar/data/866374/000086637425000051/,,12
+Flex,FLEX,2025Q3,2025-09-26,분기별 영업활동현금흐름,453000000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/866374/000086637425000051/ ; https://www.sec.gov/Archives/edgar/data/866374/000086637425000043/,누적 852000000 − 직전누적 399000000 (시작 2025-04-01),12
+Flex,FLEX,2025Q3,2025-09-26,분기말 자산총계,19546000000,USD,공시,https://www.sec.gov/Archives/edgar/data/866374/000086637425000051/,,12
+Flex,FLEX,2025Q3,2025-09-26,분기말 부채총계,14511000000,USD,공시,https://www.sec.gov/Archives/edgar/data/866374/000086637425000051/,,12
+Flex,FLEX,2025Q3,2025-09-26,분기말 총자본(자기자본),5035000000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/866374/000086637425000051/,"StockholdersEquity, MinorityInterest 태그 없음",12
+Flex,FLEX,2025Q3,2025-09-26,분기말 지배지분 자본,5035000000,USD,공시,https://www.sec.gov/Archives/edgar/data/866374/000086637425000051/,,12
+Flex,FLEX,2025Q3,2025-09-26,분기말 종가,56.85,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/FLEX?interval=1d&events=splits (2025-09-26),,12
+Flex,FLEX,2025Q3,2025-10-24,분기말 상장주식수,369790328,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/866374/000086637425000051/,dei:EntityCommonStockSharesOutstanding 클래스 합,12
+Flex,FLEX,2025Q3,2025-09-26,분기말 시가총액,21022580147,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/FLEX?interval=1d&events=splits (2025-09-26) ; https://www.sec.gov/Archives/edgar/data/866374/000086637425000051/,종가 56.85 × 주식수 369790328,12
+Flex,FLEX,2025Q4,2025-12-31,분기별 매출액,7058000000,USD,공시,https://www.sec.gov/Archives/edgar/data/866374/000086637426000005/,,12
+Flex,FLEX,2025Q4,2025-12-31,분기별 영업이익,389000000,USD,공시,https://www.sec.gov/Archives/edgar/data/866374/000086637426000005/,,12
+Flex,FLEX,2025Q4,2025-12-31,분기별 당기순이익(지배),239000000,USD,공시,https://www.sec.gov/Archives/edgar/data/866374/000086637426000005/,,12
+Flex,FLEX,2025Q4,2025-12-31,분기별 영업활동현금흐름,420000000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/866374/000086637426000005/ ; https://www.sec.gov/Archives/edgar/data/866374/000086637425000051/,누적 1272000000 − 직전누적 852000000 (시작 2025-04-01),12
+Flex,FLEX,2025Q4,2025-12-31,분기말 자산총계,20820000000,USD,공시,https://www.sec.gov/Archives/edgar/data/866374/000086637426000005/,,12
+Flex,FLEX,2025Q4,2025-12-31,분기말 부채총계,15699000000,USD,공시,https://www.sec.gov/Archives/edgar/data/866374/000086637426000005/,,12
+Flex,FLEX,2025Q4,2025-12-31,분기말 총자본(자기자본),5121000000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/866374/000086637426000005/,"StockholdersEquity, MinorityInterest 태그 없음",12
+Flex,FLEX,2025Q4,2025-12-31,분기말 지배지분 자본,5121000000,USD,공시,https://www.sec.gov/Archives/edgar/data/866374/000086637426000005/,,12
+Flex,FLEX,2025Q4,2025-12-31,분기말 종가,60.42,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/FLEX?interval=1d&events=splits (2025-12-31),,12
+Flex,FLEX,2025Q4,2026-01-30,분기말 상장주식수,367673924,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/866374/000086637426000005/,dei:EntityCommonStockSharesOutstanding 클래스 합,12
+Flex,FLEX,2025Q4,2025-12-31,분기말 시가총액,22214858488,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/FLEX?interval=1d&events=splits (2025-12-31) ; https://www.sec.gov/Archives/edgar/data/866374/000086637426000005/,종가 60.42 × 주식수 367673924,12
+Flex,FLEX,2026Q1,2026-03-31,분기별 매출액,7477000000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/866374/000086637426000012/ ; https://www.sec.gov/Archives/edgar/data/866374/000086637426000005/,연간 27914000000 − 9개월누적 20437000000 (RevenueFromContractWithCustomerExcludingAssessedTax),12
+Flex,FLEX,2026Q1,2026-03-31,분기별 영업이익,372000000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/866374/000086637426000012/ ; https://www.sec.gov/Archives/edgar/data/866374/000086637426000005/,연간 1368000000 − 9개월누적 996000000 (OperatingIncomeLoss),12
+Flex,FLEX,2026Q1,2026-03-31,분기별 당기순이익(지배),250000000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/866374/000086637426000012/ ; https://www.sec.gov/Archives/edgar/data/866374/000086637426000005/,연간 880000000 − 9개월누적 630000000 (NetIncomeLoss),12
+Flex,FLEX,2026Q1,2026-03-31,분기별 영업활동현금흐름,413000000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/866374/000086637426000012/ ; https://www.sec.gov/Archives/edgar/data/866374/000086637426000005/,누적 1685000000 − 직전누적 1272000000 (시작 2025-04-01),12
+Flex,FLEX,2026Q1,2026-03-31,분기말 자산총계,22060000000,USD,공시,https://www.sec.gov/Archives/edgar/data/866374/000086637426000012/,,12
+Flex,FLEX,2026Q1,2026-03-31,분기말 부채총계,16916000000,USD,공시,https://www.sec.gov/Archives/edgar/data/866374/000086637426000012/,,12
+Flex,FLEX,2026Q1,2026-03-31,분기말 총자본(자기자본),5144000000,USD,공시,https://www.sec.gov/Archives/edgar/data/866374/000086637426000012/,,12
+Flex,FLEX,2026Q1,2026-03-31,분기말 지배지분 자본,5144000000,USD,공시,https://www.sec.gov/Archives/edgar/data/866374/000086637426000012/,,12
+Flex,FLEX,2026Q1,2026-03-31,분기말 종가,65.46,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/FLEX?interval=1d&events=splits (2026-03-31),,12
+Flex,FLEX,2026Q1,2026-05-14,분기말 상장주식수,366377923,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/866374/000086637426000012/,dei:EntityCommonStockSharesOutstanding 클래스 합,12
+Flex,FLEX,2026Q1,2026-03-31,분기말 시가총액,23983098840,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/FLEX?interval=1d&events=splits (2026-03-31) ; https://www.sec.gov/Archives/edgar/data/866374/000086637426000012/,종가 65.46 × 주식수 366377923,12
+Flex,FLEX,2026Q2,2026-06-26,분기별 매출액,7928000000,USD,공시,https://www.sec.gov/Archives/edgar/data/866374/000086637426000030/,,12
+Flex,FLEX,2026Q2,2026-06-26,분기별 영업이익,392000000,USD,공시,https://www.sec.gov/Archives/edgar/data/866374/000086637426000030/,,12
+Flex,FLEX,2026Q2,2026-06-26,분기별 당기순이익(지배),285000000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/866374/000086637426000030/,,12
+Flex,FLEX,2026Q2,2026-06-26,분기별 영업활동현금흐름,276000000,USD,공시,https://www.sec.gov/Archives/edgar/data/866374/000086637426000030/,,12
+Flex,FLEX,2026Q2,2026-06-26,분기말 자산총계,25198000000,USD,공시,https://www.sec.gov/Archives/edgar/data/866374/000086637426000030/,,12
+Flex,FLEX,2026Q2,2026-06-26,분기말 부채총계,19698000000,USD,공시,https://www.sec.gov/Archives/edgar/data/866374/000086637426000030/,,12
+Flex,FLEX,2026Q2,2026-06-26,분기말 총자본(자기자본),5500000000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/866374/000086637426000030/,"StockholdersEquity, MinorityInterest 태그 없음",12
+Flex,FLEX,2026Q2,2026-06-26,분기말 지배지분 자본,5500000000,USD,공시,https://www.sec.gov/Archives/edgar/data/866374/000086637426000030/,,12
+Flex,FLEX,2026Q2,2026-06-26,분기말 종가,146.7,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/FLEX?interval=1d&events=splits (2026-06-26),,12
+Flex,FLEX,2026Q2,2026-07-24,분기말 상장주식수,369402978,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/866374/000086637426000030/,dei:EntityCommonStockSharesOutstanding 클래스 합,12
+Flex,FLEX,2026Q2,2026-06-26,분기말 시가총액,54191416873,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/FLEX?interval=1d&events=splits (2026-06-26) ; https://www.sec.gov/Archives/edgar/data/866374/000086637426000030/,종가 146.7 × 주식수 369402978,12

@@ -1,0 +1,727 @@
+﻿기업,종목코드,기간,기준일,항목,값,통화,값구분,출처,검산,라운드
+General Mills,GIS,2010Q1,2010-02-28,분기별 매출액,미확인,USD,미확인,https://www.sec.gov/Archives/edgar/data/40704/000095012310027743/,,18
+General Mills,GIS,2010Q1,2010-02-28,분기별 영업이익,561600000,USD,공시,https://www.sec.gov/Archives/edgar/data/40704/000095012310027743/,,18
+General Mills,GIS,2010Q1,2010-02-28,분기별 당기순이익(지배),332500000,USD,공시,https://www.sec.gov/Archives/edgar/data/40704/000095012310027743/,,18
+General Mills,GIS,2010Q1,2010-02-28,분기별 영업활동현금흐름,571100000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/40704/000095012310027743/ ; https://www.sec.gov/Archives/edgar/data/40704/000095012309071898/,누적 1558200000 − 직전누적 987100000 (시작 2009-06-01),18
+General Mills,GIS,2010Q1,2010-02-28,분기말 자산총계,18216200000,USD,공시,https://www.sec.gov/Archives/edgar/data/40704/000095012310027743/,,18
+General Mills,GIS,2010Q1,2010-02-28,분기말 부채총계,11739100000,USD,공시,https://www.sec.gov/Archives/edgar/data/40704/000095012310027743/,,18
+General Mills,GIS,2010Q1,2010-02-28,분기말 총자본(자기자본),6477100000,USD,공시,https://www.sec.gov/Archives/edgar/data/40704/000095012310027743/,,18
+General Mills,GIS,2010Q1,2010-02-28,분기말 지배지분 자본,6232100000,USD,공시,https://www.sec.gov/Archives/edgar/data/40704/000095012310027743/,,18
+General Mills,GIS,2010Q1,2010-02-26,분기말 종가,72.01,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/GIS?interval=1d&events=splits (2010-02-26),분할조정 종가 36.005 × 이후 분할계수 2,18
+General Mills,GIS,2010Q1,2010-02-28,분기말 상장주식수,331776678,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/40704/000095012310027743/,dei:EntityCommonStockSharesOutstanding 클래스 합,18
+General Mills,GIS,2010Q1,2010-02-26,분기말 시가총액,23891238583,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/GIS?interval=1d&events=splits (2010-02-26) ; https://www.sec.gov/Archives/edgar/data/40704/000095012310027743/,종가 72.01 × 주식수 331776678,18
+General Mills,GIS,2010Q2,2010-05-30,분기별 매출액,미확인,USD,미확인,https://www.sec.gov/Archives/edgar/data/40704/000095012310064517/,,18
+General Mills,GIS,2010Q2,2010-05-30,분기별 영업이익,472900000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/40704/000095012310064517/ ; https://www.sec.gov/Archives/edgar/data/40704/000095012310027743/,연간 2606100000 − 9개월누적 2133200000 (OperatingIncomeLoss),18
+General Mills,GIS,2010Q2,2010-05-30,분기별 당기순이익(지배),211900000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/40704/000095012310064517/ ; https://www.sec.gov/Archives/edgar/data/40704/000095012310027743/,연간 1530500000 − 9개월누적 1318600000 (NetIncomeLoss),18
+General Mills,GIS,2010Q2,2010-05-30,분기별 영업활동현금흐름,623000000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/40704/000095012310064517/ ; https://www.sec.gov/Archives/edgar/data/40704/000095012310027743/,누적 2181200000 − 직전누적 1558200000 (시작 2009-06-01),18
+General Mills,GIS,2010Q2,2010-05-30,분기말 자산총계,17678900000,USD,공시,https://www.sec.gov/Archives/edgar/data/40704/000095012310064517/,,18
+General Mills,GIS,2010Q2,2010-05-30,분기말 부채총계,12030900000,USD,공시,https://www.sec.gov/Archives/edgar/data/40704/000095012310064517/,,18
+General Mills,GIS,2010Q2,2010-05-30,분기말 총자본(자기자본),5648000000,USD,공시,https://www.sec.gov/Archives/edgar/data/40704/000095012310064517/,,18
+General Mills,GIS,2010Q2,2010-05-30,분기말 지배지분 자본,5402900000,USD,공시,https://www.sec.gov/Archives/edgar/data/40704/000095012310064517/,,18
+General Mills,GIS,2010Q2,2010-05-28,분기말 종가,71.23,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/GIS?interval=1d&events=splits (2010-05-28),분할조정 종가 35.615 × 이후 분할계수 2,18
+General Mills,GIS,2010Q2,2010-06-18,분기말 상장주식수,651216065,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/40704/000095012310064517/,dei:EntityCommonStockSharesOutstanding 클래스 합; 표지 기준일이 분할 후,18
+General Mills,GIS,2010Q2,2010-05-28,분기말 시가총액,23193060155,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/GIS?interval=1d&events=splits (2010-05-28) ; https://www.sec.gov/Archives/edgar/data/40704/000095012310064517/,종가 71.23 × 주식수 651216065 ÷ 분할비율 2 (분할일 2010-06-09가 거래일 2010-05-28와 표지 기준일 2010-06-18 사이),18
+General Mills,GIS,2010Q3,2010-08-29,분기별 매출액,미확인,USD,미확인,https://www.sec.gov/Archives/edgar/data/40704/000095012310088122/,,18
+General Mills,GIS,2010Q3,2010-08-29,분기별 영업이익,760400000,USD,공시,https://www.sec.gov/Archives/edgar/data/40704/000095012310088122/,,18
+General Mills,GIS,2010Q3,2010-08-29,분기별 당기순이익(지배),472100000,USD,공시,https://www.sec.gov/Archives/edgar/data/40704/000095012310088122/,,18
+General Mills,GIS,2010Q3,2010-08-29,분기별 영업활동현금흐름,177600000,USD,공시,https://www.sec.gov/Archives/edgar/data/40704/000095012310088122/,,18
+General Mills,GIS,2010Q3,2010-08-29,분기말 자산총계,18210500000,USD,공시,https://www.sec.gov/Archives/edgar/data/40704/000095012310088122/,,18
+General Mills,GIS,2010Q3,2010-08-29,분기말 부채총계,12839100000,USD,공시,https://www.sec.gov/Archives/edgar/data/40704/000095012310088122/,,18
+General Mills,GIS,2010Q3,2010-08-29,분기말 총자본(자기자본),5371400000,USD,공시,https://www.sec.gov/Archives/edgar/data/40704/000095012310088122/,,18
+General Mills,GIS,2010Q3,2010-08-29,분기말 지배지분 자본,5124800000,USD,공시,https://www.sec.gov/Archives/edgar/data/40704/000095012310088122/,,18
+General Mills,GIS,2010Q3,2010-08-27,분기말 종가,36.0,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/GIS?interval=1d&events=splits (2010-08-27),,18
+General Mills,GIS,2010Q3,2010-09-13,분기말 상장주식수,640299621,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/40704/000095012310088122/,dei:EntityCommonStockSharesOutstanding 클래스 합,18
+General Mills,GIS,2010Q3,2010-08-27,분기말 시가총액,23050786356,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/GIS?interval=1d&events=splits (2010-08-27) ; https://www.sec.gov/Archives/edgar/data/40704/000095012310088122/,종가 36.0 × 주식수 640299621,18
+General Mills,GIS,2010Q4,2010-11-28,분기별 매출액,미확인,USD,미확인,https://www.sec.gov/Archives/edgar/data/40704/000095012310114560/,,18
+General Mills,GIS,2010Q4,2010-11-28,분기별 영업이익,822900000,USD,공시,https://www.sec.gov/Archives/edgar/data/40704/000095012310114560/,,18
+General Mills,GIS,2010Q4,2010-11-28,분기별 당기순이익(지배),613900000,USD,공시,https://www.sec.gov/Archives/edgar/data/40704/000095012310114560/,,18
+General Mills,GIS,2010Q4,2010-11-28,분기별 영업활동현금흐름,421900000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/40704/000095012310114560/ ; https://www.sec.gov/Archives/edgar/data/40704/000095012310088122/,누적 599500000 − 직전누적 177600000 (시작 2010-05-31),18
+General Mills,GIS,2010Q4,2010-11-28,분기말 자산총계,18378500000,USD,공시,https://www.sec.gov/Archives/edgar/data/40704/000095012310114560/,,18
+General Mills,GIS,2010Q4,2010-11-28,분기말 부채총계,12493700000,USD,공시,https://www.sec.gov/Archives/edgar/data/40704/000095012310114560/,,18
+General Mills,GIS,2010Q4,2010-11-28,분기말 총자본(자기자본),5884800000,USD,공시,https://www.sec.gov/Archives/edgar/data/40704/000095012310114560/,,18
+General Mills,GIS,2010Q4,2010-11-28,분기말 지배지분 자본,5639600000,USD,공시,https://www.sec.gov/Archives/edgar/data/40704/000095012310114560/,,18
+General Mills,GIS,2010Q4,2010-11-26,분기말 종가,35.11,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/GIS?interval=1d&events=splits (2010-11-26),,18
+General Mills,GIS,2010Q4,2010-12-10,분기말 상장주식수,635811716,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/40704/000095012310114560/,dei:EntityCommonStockSharesOutstanding 클래스 합,18
+General Mills,GIS,2010Q4,2010-11-26,분기말 시가총액,22323349349,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/GIS?interval=1d&events=splits (2010-11-26) ; https://www.sec.gov/Archives/edgar/data/40704/000095012310114560/,종가 35.11 × 주식수 635811716,18
+General Mills,GIS,2011Q1,2011-02-27,분기별 매출액,미확인,USD,미확인,https://www.sec.gov/Archives/edgar/data/40704/000095012311028211/,,18
+General Mills,GIS,2011Q1,2011-02-27,분기별 영업이익,654800000,USD,공시,https://www.sec.gov/Archives/edgar/data/40704/000095012311028211/,,18
+General Mills,GIS,2011Q1,2011-02-27,분기별 당기순이익(지배),392100000,USD,공시,https://www.sec.gov/Archives/edgar/data/40704/000095012311028211/,,18
+General Mills,GIS,2011Q1,2011-02-27,분기별 영업활동현금흐름,648600000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/40704/000095012311028211/ ; https://www.sec.gov/Archives/edgar/data/40704/000095012310114560/,누적 1248100000 − 직전누적 599500000 (시작 2010-05-31),18
+General Mills,GIS,2011Q1,2011-02-27,분기말 자산총계,18281500000,USD,공시,https://www.sec.gov/Archives/edgar/data/40704/000095012311028211/,,18
+General Mills,GIS,2011Q1,2011-02-27,분기말 부채총계,12169300000,USD,공시,https://www.sec.gov/Archives/edgar/data/40704/000095012311028211/,,18
+General Mills,GIS,2011Q1,2011-02-27,분기말 총자본(자기자본),6112200000,USD,공시,https://www.sec.gov/Archives/edgar/data/40704/000095012311028211/,,18
+General Mills,GIS,2011Q1,2011-02-27,분기말 지배지분 자본,5866200000,USD,공시,https://www.sec.gov/Archives/edgar/data/40704/000095012311028211/,,18
+General Mills,GIS,2011Q1,2011-02-25,분기말 종가,37.14,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/GIS?interval=1d&events=splits (2011-02-25),,18
+General Mills,GIS,2011Q1,2011-02-27,분기말 상장주식수,638405347,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/40704/000095012311028211/,dei:EntityCommonStockSharesOutstanding 클래스 합,18
+General Mills,GIS,2011Q1,2011-02-25,분기말 시가총액,23710374588,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/GIS?interval=1d&events=splits (2011-02-25) ; https://www.sec.gov/Archives/edgar/data/40704/000095012311028211/,종가 37.14 × 주식수 638405347,18
+General Mills,GIS,2011Q2,2011-05-29,분기별 매출액,미확인,USD,미확인,https://www.sec.gov/Archives/edgar/data/40704/000095012311064606/,,18
+General Mills,GIS,2011Q2,2011-05-29,분기별 영업이익,536400000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/40704/000095012311064606/ ; https://www.sec.gov/Archives/edgar/data/40704/000095012311028211/,연간 2774500000 − 9개월누적 2238100000 (OperatingIncomeLoss),18
+General Mills,GIS,2011Q2,2011-05-29,분기별 당기순이익(지배),320200000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/40704/000095012311064606/ ; https://www.sec.gov/Archives/edgar/data/40704/000095012311028211/,연간 1798300000 − 9개월누적 1478100000 (NetIncomeLoss),18
+General Mills,GIS,2011Q2,2011-05-29,분기별 영업활동현금흐름,283000000,USD,계산(누적차감)(재작성 반영),https://www.sec.gov/Archives/edgar/data/40704/000119312513282371/ ; https://www.sec.gov/Archives/edgar/data/40704/000095012311028211/,누적 1531100000 − 직전누적 1248100000 (시작 2010-05-31) ; 원 공시 278700000 (https://www.sec.gov/Archives/edgar/data/40704/000095012311064606/ ; https://www.sec.gov/Archives/edgar/data/40704/000095012311028211/),18
+General Mills,GIS,2011Q2,2011-05-29,분기말 자산총계,18674500000,USD,공시,https://www.sec.gov/Archives/edgar/data/40704/000095012311064606/,,18
+General Mills,GIS,2011Q2,2011-05-29,분기말 부채총계,12062300000,USD,공시,https://www.sec.gov/Archives/edgar/data/40704/000095012311064606/,,18
+General Mills,GIS,2011Q2,2011-05-29,분기말 총자본(자기자본),6612200000,USD,공시,https://www.sec.gov/Archives/edgar/data/40704/000095012311064606/,,18
+General Mills,GIS,2011Q2,2011-05-29,분기말 지배지분 자본,6365500000,USD,공시,https://www.sec.gov/Archives/edgar/data/40704/000095012311064606/,,18
+General Mills,GIS,2011Q2,2011-05-27,분기말 종가,39.29,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/GIS?interval=1d&events=splits (2011-05-27),,18
+General Mills,GIS,2011Q2,2011-02-27,분기말 상장주식수,651216065,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/40704/000095012311064606/,dei:EntityCommonStockSharesOutstanding 클래스 합,18
+General Mills,GIS,2011Q2,2011-05-27,분기말 시가총액,25586279194,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/GIS?interval=1d&events=splits (2011-05-27) ; https://www.sec.gov/Archives/edgar/data/40704/000095012311064606/,종가 39.29 × 주식수 651216065,18
+General Mills,GIS,2011Q3,2011-08-28,분기별 매출액,미확인,USD,미확인,https://www.sec.gov/Archives/edgar/data/40704/000119312511253354/,,18
+General Mills,GIS,2011Q3,2011-08-28,분기별 영업이익,638900000,USD,공시,https://www.sec.gov/Archives/edgar/data/40704/000119312511253354/,,18
+General Mills,GIS,2011Q3,2011-08-28,분기별 당기순이익(지배),405600000,USD,공시,https://www.sec.gov/Archives/edgar/data/40704/000119312511253354/,,18
+General Mills,GIS,2011Q3,2011-08-28,분기별 영업활동현금흐름,440800000,USD,공시,https://www.sec.gov/Archives/edgar/data/40704/000119312511253354/,,18
+General Mills,GIS,2011Q3,2011-08-28,분기말 자산총계,21893200000,USD,공시,https://www.sec.gov/Archives/edgar/data/40704/000119312511253354/,,18
+General Mills,GIS,2011Q3,2011-08-28,분기말 부채총계,13979800000,USD,공시,https://www.sec.gov/Archives/edgar/data/40704/000119312511253354/,메자닌(일시자본) 904400000 별도 (원문 gis:RedeemableInterestFairValue 904400000),18
+General Mills,GIS,2011Q3,2011-08-28,분기말 총자본(자기자본),7009000000,USD,공시,https://www.sec.gov/Archives/edgar/data/40704/000119312511253354/,,18
+General Mills,GIS,2011Q3,2011-08-28,분기말 지배지분 자본,6499300000,USD,공시,https://www.sec.gov/Archives/edgar/data/40704/000119312511253354/,,18
+General Mills,GIS,2011Q3,2011-08-26,분기말 종가,36.68,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/GIS?interval=1d&events=splits (2011-08-26),,18
+General Mills,GIS,2011Q3,2011-02-27,분기말 상장주식수,643457394,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/40704/000119312511253354/,dei:EntityCommonStockSharesOutstanding 클래스 합,18
+General Mills,GIS,2011Q3,2011-08-26,분기말 시가총액,23602017212,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/GIS?interval=1d&events=splits (2011-08-26) ; https://www.sec.gov/Archives/edgar/data/40704/000119312511253354/,종가 36.68 × 주식수 643457394,18
+General Mills,GIS,2011Q4,2011-11-27,분기별 매출액,미확인,USD,미확인,https://www.sec.gov/Archives/edgar/data/40704/000119312511347162/,,18
+General Mills,GIS,2011Q4,2011-11-27,분기별 영업이익,716900000,USD,공시,https://www.sec.gov/Archives/edgar/data/40704/000119312511347162/,,18
+General Mills,GIS,2011Q4,2011-11-27,분기별 당기순이익(지배),444800000,USD,공시,https://www.sec.gov/Archives/edgar/data/40704/000119312511347162/,,18
+General Mills,GIS,2011Q4,2011-11-27,분기별 영업활동현금흐름,715700000,USD,계산(누적차감)(재작성 반영),https://www.sec.gov/Archives/edgar/data/40704/000119312512508388/ ; https://www.sec.gov/Archives/edgar/data/40704/000119312511253354/,누적 1156500000 − 직전누적 440800000 (시작 2011-05-30) ; 원 공시 712400000 (https://www.sec.gov/Archives/edgar/data/40704/000119312511347162/ ; https://www.sec.gov/Archives/edgar/data/40704/000119312511253354/),18
+General Mills,GIS,2011Q4,2011-11-27,분기말 자산총계,21466800000,USD,공시,https://www.sec.gov/Archives/edgar/data/40704/000119312511347162/,,18
+General Mills,GIS,2011Q4,2011-11-27,분기말 부채총계,13582100000,USD,공시,https://www.sec.gov/Archives/edgar/data/40704/000119312511347162/,메자닌(일시자본) 831600000 별도 (원문 us-gaap:RedeemableNoncontrollingInterestEquityOtherFairValue 831600000),18
+General Mills,GIS,2011Q4,2011-11-27,분기말 총자본(자기자본),7053100000,USD,공시,https://www.sec.gov/Archives/edgar/data/40704/000119312511347162/,,18
+General Mills,GIS,2011Q4,2011-11-27,분기말 지배지분 자본,6577300000,USD,공시,https://www.sec.gov/Archives/edgar/data/40704/000119312511347162/,,18
+General Mills,GIS,2011Q4,2011-11-25,분기말 종가,38.23,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/GIS?interval=1d&events=splits (2011-11-25),,18
+General Mills,GIS,2011Q4,2011-11-27,분기말 상장주식수,644651180,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/40704/000119312511347162/,dei:EntityCommonStockSharesOutstanding 클래스 합,18
+General Mills,GIS,2011Q4,2011-11-25,분기말 시가총액,24645014611,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/GIS?interval=1d&events=splits (2011-11-25) ; https://www.sec.gov/Archives/edgar/data/40704/000119312511347162/,종가 38.23 × 주식수 644651180,18
+General Mills,GIS,2012Q1,2012-02-26,분기별 매출액,미확인,USD,미확인,https://www.sec.gov/Archives/edgar/data/40704/000119312512125489/,,18
+General Mills,GIS,2012Q1,2012-02-26,분기별 영업이익,668600000,USD,공시,https://www.sec.gov/Archives/edgar/data/40704/000119312512125489/,,18
+General Mills,GIS,2012Q1,2012-02-26,분기별 당기순이익(지배),391500000,USD,공시,https://www.sec.gov/Archives/edgar/data/40704/000119312512125489/,,18
+General Mills,GIS,2012Q1,2012-02-26,분기별 영업활동현금흐름,505100000,USD,계산(누적차감)(재작성 반영),https://www.sec.gov/Archives/edgar/data/40704/000119312513117256/ ; https://www.sec.gov/Archives/edgar/data/40704/000119312512508388/,누적 1661600000 − 직전누적 1156500000 (시작 2011-05-30) ; 원 공시 504000000 (https://www.sec.gov/Archives/edgar/data/40704/000119312512125489/ ; https://www.sec.gov/Archives/edgar/data/40704/000119312511347162/),18
+General Mills,GIS,2012Q1,2012-02-26,분기말 자산총계,21439000000,USD,공시,https://www.sec.gov/Archives/edgar/data/40704/000119312512125489/,,18
+General Mills,GIS,2012Q1,2012-02-26,분기말 부채총계,13186200000,USD,공시,https://www.sec.gov/Archives/edgar/data/40704/000119312512125489/,메자닌(일시자본) 848400000 별도 (원문 us-gaap:RedeemableNoncontrollingInterestEquityOtherFairValue 848400000),18
+General Mills,GIS,2012Q1,2012-02-26,분기말 총자본(자기자본),7404400000,USD,공시,https://www.sec.gov/Archives/edgar/data/40704/000119312512125489/,,18
+General Mills,GIS,2012Q1,2012-02-26,분기말 지배지분 자본,6921600000,USD,공시,https://www.sec.gov/Archives/edgar/data/40704/000119312512125489/,,18
+General Mills,GIS,2012Q1,2012-02-24,분기말 종가,38.15,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/GIS?interval=1d&events=splits (2012-02-24),,18
+General Mills,GIS,2012Q1,2012-02-26,분기말 상장주식수,647308942,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/40704/000119312512125489/,dei:EntityCommonStockSharesOutstanding 클래스 합,18
+General Mills,GIS,2012Q1,2012-02-24,분기말 시가총액,24694836137,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/GIS?interval=1d&events=splits (2012-02-24) ; https://www.sec.gov/Archives/edgar/data/40704/000119312512125489/,종가 38.15 × 주식수 647308942,18
+General Mills,GIS,2012Q2,2012-05-27,분기별 매출액,미확인,USD,미확인,https://www.sec.gov/Archives/edgar/data/40704/000119312512293636/,,18
+General Mills,GIS,2012Q2,2012-05-27,분기별 영업이익,538000000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/40704/000119312512293636/ ; https://www.sec.gov/Archives/edgar/data/40704/000119312512125489/,연간 2562400000 − 9개월누적 2024400000 (OperatingIncomeLoss),18
+General Mills,GIS,2012Q2,2012-05-27,분기별 당기순이익(지배),325400000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/40704/000119312512293636/ ; https://www.sec.gov/Archives/edgar/data/40704/000119312512125489/,연간 1567300000 − 9개월누적 1241900000 (NetIncomeLoss),18
+General Mills,GIS,2012Q2,2012-05-27,분기별 영업활동현금흐름,745600000,USD,계산(누적차감)(재작성 반영),https://www.sec.gov/Archives/edgar/data/40704/000119312514260716/ ; https://www.sec.gov/Archives/edgar/data/40704/000119312513117256/,누적 2407200000 − 직전누적 1661600000 (시작 2011-05-30) ; 원 공시 744800000 (https://www.sec.gov/Archives/edgar/data/40704/000119312512293636/ ; https://www.sec.gov/Archives/edgar/data/40704/000119312512125489/),18
+General Mills,GIS,2012Q2,2012-05-27,분기말 자산총계,21096800000,USD,공시,https://www.sec.gov/Archives/edgar/data/40704/000119312512293636/,,18
+General Mills,GIS,2012Q2,2012-05-27,분기말 부채총계,13366300000,USD,공시,https://www.sec.gov/Archives/edgar/data/40704/000119312512293636/,메자닌(일시자본) 847800000 별도 (원문 us-gaap:RedeemableNoncontrollingInterestEquityOtherFairValue 847800000),18
+General Mills,GIS,2012Q2,2012-05-27,분기말 총자본(자기자본),6882700000,USD,공시,https://www.sec.gov/Archives/edgar/data/40704/000119312512293636/,,18
+General Mills,GIS,2012Q2,2012-05-27,분기말 지배지분 자본,6421700000,USD,공시,https://www.sec.gov/Archives/edgar/data/40704/000119312512293636/,,18
+General Mills,GIS,2012Q2,2012-05-25,분기말 종가,39.08,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/GIS?interval=1d&events=splits (2012-05-25),,18
+General Mills,GIS,2012Q2,2012-06-15,분기말 상장주식수,648588155,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/40704/000119312512293636/,dei:EntityCommonStockSharesOutstanding 클래스 합,18
+General Mills,GIS,2012Q2,2012-05-25,분기말 시가총액,25346825097,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/GIS?interval=1d&events=splits (2012-05-25) ; https://www.sec.gov/Archives/edgar/data/40704/000119312512293636/,종가 39.08 × 주식수 648588155,18
+General Mills,GIS,2012Q3,2012-08-26,분기별 매출액,미확인,USD,미확인,https://www.sec.gov/Archives/edgar/data/40704/000119312512396943/,,18
+General Mills,GIS,2012Q3,2012-08-26,분기별 영업이익,780100000,USD,공시,https://www.sec.gov/Archives/edgar/data/40704/000119312512396943/,,18
+General Mills,GIS,2012Q3,2012-08-26,분기별 당기순이익(지배),548900000,USD,공시,https://www.sec.gov/Archives/edgar/data/40704/000119312512396943/,,18
+General Mills,GIS,2012Q3,2012-08-26,분기별 영업활동현금흐름,488800000,USD,공시,https://www.sec.gov/Archives/edgar/data/40704/000119312512396943/,,18
+General Mills,GIS,2012Q3,2012-08-26,분기말 자산총계,22635300000,USD,공시,https://www.sec.gov/Archives/edgar/data/40704/000119312512396943/,,18
+General Mills,GIS,2012Q3,2012-08-26,분기말 부채총계,14690500000,USD,공시,https://www.sec.gov/Archives/edgar/data/40704/000119312512396943/,메자닌(일시자본) 851600000 별도 (원문 us-gaap:RedeemableNoncontrollingInterestEquityOtherFairValue 851600000),18
+General Mills,GIS,2012Q3,2012-08-26,분기말 총자본(자기자본),7093200000,USD,공시,https://www.sec.gov/Archives/edgar/data/40704/000119312512396943/,,18
+General Mills,GIS,2012Q3,2012-08-26,분기말 지배지분 자본,6645200000,USD,공시,https://www.sec.gov/Archives/edgar/data/40704/000119312512396943/,,18
+General Mills,GIS,2012Q3,2012-08-24,분기말 종가,39.04,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/GIS?interval=1d&events=splits (2012-08-24),,18
+General Mills,GIS,2012Q3,2012-08-30,분기말 상장주식수,645224306,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/40704/000119312512396943/,dei:EntityCommonStockSharesOutstanding 클래스 합,18
+General Mills,GIS,2012Q3,2012-08-24,분기말 시가총액,25189556906,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/GIS?interval=1d&events=splits (2012-08-24) ; https://www.sec.gov/Archives/edgar/data/40704/000119312512396943/,종가 39.04 × 주식수 645224306,18
+General Mills,GIS,2012Q4,2012-11-25,분기별 매출액,미확인,USD,미확인,https://www.sec.gov/Archives/edgar/data/40704/000119312512508388/,,18
+General Mills,GIS,2012Q4,2012-11-25,분기별 영업이익,829000000,USD,공시,https://www.sec.gov/Archives/edgar/data/40704/000119312512508388/,,18
+General Mills,GIS,2012Q4,2012-11-25,분기별 당기순이익(지배),541600000,USD,공시,https://www.sec.gov/Archives/edgar/data/40704/000119312512508388/,,18
+General Mills,GIS,2012Q4,2012-11-25,분기별 영업활동현금흐름,828300000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/40704/000119312512508388/ ; https://www.sec.gov/Archives/edgar/data/40704/000119312512396943/,누적 1317100000 − 직전누적 488800000 (시작 2012-05-28),18
+General Mills,GIS,2012Q4,2012-11-25,분기말 자산총계,22952900000,USD,공시,https://www.sec.gov/Archives/edgar/data/40704/000119312512508388/,,18
+General Mills,GIS,2012Q4,2012-11-25,분기말 부채총계,14635300000,USD,공시,https://www.sec.gov/Archives/edgar/data/40704/000119312512508388/,메자닌(일시자본) 877600000 별도 (원문 us-gaap:RedeemableNoncontrollingInterestEquityOtherFairValue 877600000),18
+General Mills,GIS,2012Q4,2012-11-25,분기말 총자본(자기자본),7440000000,USD,공시,https://www.sec.gov/Archives/edgar/data/40704/000119312512508388/,,18
+General Mills,GIS,2012Q4,2012-11-25,분기말 지배지분 자본,6983700000,USD,공시,https://www.sec.gov/Archives/edgar/data/40704/000119312512508388/,,18
+General Mills,GIS,2012Q4,2012-11-23,분기말 종가,40.77,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/GIS?interval=1d&events=splits (2012-11-23),,18
+General Mills,GIS,2012Q4,2012-12-07,분기말 상장주식수,646595998,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/40704/000119312512508388/,dei:EntityCommonStockSharesOutstanding 클래스 합,18
+General Mills,GIS,2012Q4,2012-11-23,분기말 시가총액,26361718838,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/GIS?interval=1d&events=splits (2012-11-23) ; https://www.sec.gov/Archives/edgar/data/40704/000119312512508388/,종가 40.77 × 주식수 646595998,18
+General Mills,GIS,2013Q1,2013-02-24,분기별 매출액,미확인,USD,미확인,https://www.sec.gov/Archives/edgar/data/40704/000119312513117256/,,18
+General Mills,GIS,2013Q1,2013-02-24,분기별 영업이익,642100000,USD,공시,https://www.sec.gov/Archives/edgar/data/40704/000119312513117256/,,18
+General Mills,GIS,2013Q1,2013-02-24,분기별 당기순이익(지배),398400000,USD,공시,https://www.sec.gov/Archives/edgar/data/40704/000119312513117256/,,18
+General Mills,GIS,2013Q1,2013-02-24,분기별 영업활동현금흐름,828600000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/40704/000119312513117256/ ; https://www.sec.gov/Archives/edgar/data/40704/000119312512508388/,누적 2145700000 − 직전누적 1317100000 (시작 2012-05-28),18
+General Mills,GIS,2013Q1,2013-02-24,분기말 자산총계,22793400000,USD,공시,https://www.sec.gov/Archives/edgar/data/40704/000119312513117256/,,18
+General Mills,GIS,2013Q1,2013-02-24,분기말 부채총계,14329800000,USD,공시,https://www.sec.gov/Archives/edgar/data/40704/000119312513117256/,메자닌(일시자본) 984200000 별도 (원문 us-gaap:RedeemableNoncontrollingInterestEquityOtherFairValue 984200000),18
+General Mills,GIS,2013Q1,2013-02-24,분기말 총자본(자기자본),7479400000,USD,공시,https://www.sec.gov/Archives/edgar/data/40704/000119312513117256/,,18
+General Mills,GIS,2013Q1,2013-02-24,분기말 지배지분 자본,7016700000,USD,공시,https://www.sec.gov/Archives/edgar/data/40704/000119312513117256/,,18
+General Mills,GIS,2013Q1,2013-02-22,분기말 종가,45.67,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/GIS?interval=1d&events=splits (2013-02-22),,18
+General Mills,GIS,2013Q1,2013-03-08,분기말 상장주식수,644657589,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/40704/000119312513117256/,dei:EntityCommonStockSharesOutstanding 클래스 합,18
+General Mills,GIS,2013Q1,2013-02-22,분기말 시가총액,29441512090,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/GIS?interval=1d&events=splits (2013-02-22) ; https://www.sec.gov/Archives/edgar/data/40704/000119312513117256/,종가 45.67 × 주식수 644657589,18
+General Mills,GIS,2013Q2,2013-05-26,분기별 매출액,미확인,USD,미확인,https://www.sec.gov/Archives/edgar/data/40704/000119312513282371/,,18
+General Mills,GIS,2013Q2,2013-05-26,분기별 영업이익,600600000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/40704/000119312513282371/ ; https://www.sec.gov/Archives/edgar/data/40704/000119312513117256/,연간 2851800000 − 9개월누적 2251200000 (OperatingIncomeLoss),18
+General Mills,GIS,2013Q2,2013-05-26,분기별 당기순이익(지배),366300000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/40704/000119312513282371/ ; https://www.sec.gov/Archives/edgar/data/40704/000119312513117256/,연간 1855200000 − 9개월누적 1488900000 (NetIncomeLoss),18
+General Mills,GIS,2013Q2,2013-05-26,분기별 영업활동현금흐름,780300000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/40704/000119312513282371/ ; https://www.sec.gov/Archives/edgar/data/40704/000119312513117256/,누적 2926000000 − 직전누적 2145700000 (시작 2012-05-28),18
+General Mills,GIS,2013Q2,2013-05-26,분기말 자산총계,22658000000,USD,공시,https://www.sec.gov/Archives/edgar/data/40704/000119312513282371/,,18
+General Mills,GIS,2013Q2,2013-05-26,분기말 부채총계,14562000000,USD,공시,https://www.sec.gov/Archives/edgar/data/40704/000119312513282371/,메자닌(일시자본) 967500000 별도 (원문 us-gaap:RedeemableNoncontrollingInterestEquityOtherFairValue 967500000),18
+General Mills,GIS,2013Q2,2013-05-26,분기말 총자본(자기자본),7128500000,USD,공시,https://www.sec.gov/Archives/edgar/data/40704/000119312513282371/,,18
+General Mills,GIS,2013Q2,2013-05-26,분기말 지배지분 자본,6672200000,USD,공시,https://www.sec.gov/Archives/edgar/data/40704/000119312513282371/,,18
+General Mills,GIS,2013Q2,2013-05-24,분기말 종가,48.98,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/GIS?interval=1d&events=splits (2013-05-24),,18
+General Mills,GIS,2013Q2,2013-06-14,분기말 상장주식수,640860417,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/40704/000119312513282371/,dei:EntityCommonStockSharesOutstanding 클래스 합,18
+General Mills,GIS,2013Q2,2013-05-24,분기말 시가총액,31389343225,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/GIS?interval=1d&events=splits (2013-05-24) ; https://www.sec.gov/Archives/edgar/data/40704/000119312513282371/,종가 48.98 × 주식수 640860417,18
+General Mills,GIS,2013Q3,2013-08-25,분기별 매출액,미확인,USD,미확인,https://www.sec.gov/Archives/edgar/data/40704/000119312513370415/,,18
+General Mills,GIS,2013Q3,2013-08-25,분기별 영업이익,734800000,USD,공시,https://www.sec.gov/Archives/edgar/data/40704/000119312513370415/,,18
+General Mills,GIS,2013Q3,2013-08-25,분기별 당기순이익(지배),459300000,USD,공시,https://www.sec.gov/Archives/edgar/data/40704/000119312513370415/,,18
+General Mills,GIS,2013Q3,2013-08-25,분기별 영업활동현금흐름,381100000,USD,공시,https://www.sec.gov/Archives/edgar/data/40704/000119312513370415/,,18
+General Mills,GIS,2013Q3,2013-08-25,분기말 자산총계,22944600000,USD,공시,https://www.sec.gov/Archives/edgar/data/40704/000119312513370415/,,18
+General Mills,GIS,2013Q3,2013-08-25,분기말 부채총계,14654900000,USD,공시,https://www.sec.gov/Archives/edgar/data/40704/000119312513370415/,메자닌(일시자본) 995900000 별도 (원문 us-gaap:RedeemableNoncontrollingInterestEquityOtherFairValue 995900000),18
+General Mills,GIS,2013Q3,2013-08-25,분기말 총자본(자기자본),7293800000,USD,공시,https://www.sec.gov/Archives/edgar/data/40704/000119312513370415/,,18
+General Mills,GIS,2013Q3,2013-08-25,분기말 지배지분 자본,6824300000,USD,공시,https://www.sec.gov/Archives/edgar/data/40704/000119312513370415/,,18
+General Mills,GIS,2013Q3,2013-08-23,분기말 종가,49.82,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/GIS?interval=1d&events=splits (2013-08-23),,18
+General Mills,GIS,2013Q3,2013-09-07,분기말 상장주식수,634262701,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/40704/000119312513370415/,dei:EntityCommonStockSharesOutstanding 클래스 합,18
+General Mills,GIS,2013Q3,2013-08-23,분기말 시가총액,31598967764,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/GIS?interval=1d&events=splits (2013-08-23) ; https://www.sec.gov/Archives/edgar/data/40704/000119312513370415/,종가 49.82 × 주식수 634262701,18
+General Mills,GIS,2013Q4,2013-11-24,분기별 매출액,미확인,USD,미확인,https://www.sec.gov/Archives/edgar/data/40704/000119312513477790/,,18
+General Mills,GIS,2013Q4,2013-11-24,분기별 영업이익,870100000,USD,공시,https://www.sec.gov/Archives/edgar/data/40704/000119312513477790/,,18
+General Mills,GIS,2013Q4,2013-11-24,분기별 당기순이익(지배),549900000,USD,공시,https://www.sec.gov/Archives/edgar/data/40704/000119312513477790/,,18
+General Mills,GIS,2013Q4,2013-11-24,분기별 영업활동현금흐름,627800000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/40704/000119312513477790/ ; https://www.sec.gov/Archives/edgar/data/40704/000119312513370415/,누적 1008900000 − 직전누적 381100000 (시작 2013-05-27),18
+General Mills,GIS,2013Q4,2013-11-24,분기말 자산총계,23152100000,USD,공시,https://www.sec.gov/Archives/edgar/data/40704/000119312513477790/,,18
+General Mills,GIS,2013Q4,2013-11-24,분기말 부채총계,15055200000,USD,공시,https://www.sec.gov/Archives/edgar/data/40704/000119312513477790/,메자닌(일시자본) 1010400000 별도 (원문 us-gaap:RedeemableNoncontrollingInterestEquityOtherFairValue 1010400000),18
+General Mills,GIS,2013Q4,2013-11-24,분기말 총자본(자기자본),7086500000,USD,공시,https://www.sec.gov/Archives/edgar/data/40704/000119312513477790/,,18
+General Mills,GIS,2013Q4,2013-11-24,분기말 지배지분 자본,6633400000,USD,공시,https://www.sec.gov/Archives/edgar/data/40704/000119312513477790/,,18
+General Mills,GIS,2013Q4,2013-11-22,분기말 종가,50.12,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/GIS?interval=1d&events=splits (2013-11-22),,18
+General Mills,GIS,2013Q4,2013-12-06,분기말 상장주식수,624536334,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/40704/000119312513477790/,dei:EntityCommonStockSharesOutstanding 클래스 합,18
+General Mills,GIS,2013Q4,2013-11-22,분기말 시가총액,31301761060,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/GIS?interval=1d&events=splits (2013-11-22) ; https://www.sec.gov/Archives/edgar/data/40704/000119312513477790/,종가 50.12 × 주식수 624536334,18
+General Mills,GIS,2014Q1,2014-02-23,분기별 매출액,미확인,USD,미확인,https://www.sec.gov/Archives/edgar/data/40704/000119312514105810/,,18
+General Mills,GIS,2014Q1,2014-02-23,분기별 영업이익,670600000,USD,공시,https://www.sec.gov/Archives/edgar/data/40704/000119312514105810/,,18
+General Mills,GIS,2014Q1,2014-02-23,분기별 당기순이익(지배),410600000,USD,공시,https://www.sec.gov/Archives/edgar/data/40704/000119312514105810/,,18
+General Mills,GIS,2014Q1,2014-02-23,분기별 영업활동현금흐름,715300000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/40704/000119312514105810/ ; https://www.sec.gov/Archives/edgar/data/40704/000119312513477790/,누적 1724200000 − 직전누적 1008900000 (시작 2013-05-27),18
+General Mills,GIS,2014Q1,2014-02-23,분기말 자산총계,22925000000,USD,공시,https://www.sec.gov/Archives/edgar/data/40704/000119312514105810/,,18
+General Mills,GIS,2014Q1,2014-02-23,분기말 부채총계,15159600000,USD,공시,https://www.sec.gov/Archives/edgar/data/40704/000119312514105810/,메자닌(일시자본) 987300000 별도 (원문 us-gaap:RedeemableNoncontrollingInterestEquityOtherFairValue 987300000),18
+General Mills,GIS,2014Q1,2014-02-23,분기말 총자본(자기자본),6778100000,USD,공시,https://www.sec.gov/Archives/edgar/data/40704/000119312514105810/,,18
+General Mills,GIS,2014Q1,2014-02-23,분기말 지배지분 자본,6307700000,USD,공시,https://www.sec.gov/Archives/edgar/data/40704/000119312514105810/,,18
+General Mills,GIS,2014Q1,2014-02-21,분기말 종가,49.51,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/GIS?interval=1d&events=splits (2014-02-21),,18
+General Mills,GIS,2014Q1,2014-03-07,분기말 상장주식수,614492206,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/40704/000119312514105810/,dei:EntityCommonStockSharesOutstanding 클래스 합,18
+General Mills,GIS,2014Q1,2014-02-21,분기말 시가총액,30423509119,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/GIS?interval=1d&events=splits (2014-02-21) ; https://www.sec.gov/Archives/edgar/data/40704/000119312514105810/,종가 49.51 × 주식수 614492206,18
+General Mills,GIS,2014Q2,2014-05-25,분기별 매출액,미확인,USD,미확인,https://www.sec.gov/Archives/edgar/data/40704/000119312514260716/,,18
+General Mills,GIS,2014Q2,2014-05-25,분기별 영업이익,681900000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/40704/000119312514260716/ ; https://www.sec.gov/Archives/edgar/data/40704/000119312514105810/,연간 2957400000 − 9개월누적 2275500000 (OperatingIncomeLoss),18
+General Mills,GIS,2014Q2,2014-05-25,분기별 당기순이익(지배),404600000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/40704/000119312514260716/ ; https://www.sec.gov/Archives/edgar/data/40704/000119312514105810/,연간 1824400000 − 9개월누적 1419800000 (NetIncomeLoss),18
+General Mills,GIS,2014Q2,2014-05-25,분기별 영업활동현금흐름,816800000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/40704/000119312514260716/ ; https://www.sec.gov/Archives/edgar/data/40704/000119312514105810/,누적 2541000000 − 직전누적 1724200000 (시작 2013-05-27),18
+General Mills,GIS,2014Q2,2014-05-25,분기말 자산총계,23145700000,USD,공시,https://www.sec.gov/Archives/edgar/data/40704/000119312514260716/,,18
+General Mills,GIS,2014Q2,2014-05-25,분기말 부채총계,15156200000,USD,공시,https://www.sec.gov/Archives/edgar/data/40704/000119312514260716/,메자닌(일시자본) 984100000 별도 (원문 us-gaap:RedeemableNoncontrollingInterestEquityOtherFairValue 984100000),18
+General Mills,GIS,2014Q2,2014-05-25,분기말 총자본(자기자본),7005400000,USD,공시,https://www.sec.gov/Archives/edgar/data/40704/000119312514260716/,,18
+General Mills,GIS,2014Q2,2014-05-25,분기말 지배지분 자본,6534800000,USD,공시,https://www.sec.gov/Archives/edgar/data/40704/000119312514260716/,,18
+General Mills,GIS,2014Q2,2014-05-23,분기말 종가,53.81,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/GIS?interval=1d&events=splits (2014-05-23),,18
+General Mills,GIS,2014Q2,2014-06-13,분기말 상장주식수,612508457,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/40704/000119312514260716/,dei:EntityCommonStockSharesOutstanding 클래스 합,18
+General Mills,GIS,2014Q2,2014-05-23,분기말 시가총액,32959080071,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/GIS?interval=1d&events=splits (2014-05-23) ; https://www.sec.gov/Archives/edgar/data/40704/000119312514260716/,종가 53.81 × 주식수 612508457,18
+General Mills,GIS,2014Q3,2014-08-24,분기별 매출액,미확인,USD,미확인,https://www.sec.gov/Archives/edgar/data/40704/000119312514345796/,,18
+General Mills,GIS,2014Q3,2014-08-24,분기별 영업이익,557500000,USD,공시,https://www.sec.gov/Archives/edgar/data/40704/000119312514345796/,,18
+General Mills,GIS,2014Q3,2014-08-24,분기별 당기순이익(지배),345200000,USD,공시,https://www.sec.gov/Archives/edgar/data/40704/000119312514345796/,,18
+General Mills,GIS,2014Q3,2014-08-24,분기별 영업활동현금흐름,329400000,USD,공시,https://www.sec.gov/Archives/edgar/data/40704/000119312514345796/,,18
+General Mills,GIS,2014Q3,2014-08-24,분기말 자산총계,23372800000,USD,공시,https://www.sec.gov/Archives/edgar/data/40704/000119312514345796/,,18
+General Mills,GIS,2014Q3,2014-08-24,분기말 부채총계,15730900000,USD,공시,https://www.sec.gov/Archives/edgar/data/40704/000119312514345796/,메자닌(일시자본) 959100000 별도 (원문 us-gaap:RedeemableNoncontrollingInterestEquityOtherFairValue 959100000),18
+General Mills,GIS,2014Q3,2014-08-24,분기말 총자본(자기자본),6682800000,USD,공시,https://www.sec.gov/Archives/edgar/data/40704/000119312514345796/,,18
+General Mills,GIS,2014Q3,2014-08-24,분기말 지배지분 자본,6202300000,USD,공시,https://www.sec.gov/Archives/edgar/data/40704/000119312514345796/,,18
+General Mills,GIS,2014Q3,2014-08-22,분기말 종가,52.71,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/GIS?interval=1d&events=splits (2014-08-22),,18
+General Mills,GIS,2014Q3,2014-09-05,분기말 상장주식수,603747687,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/40704/000119312514345796/,dei:EntityCommonStockSharesOutstanding 클래스 합,18
+General Mills,GIS,2014Q3,2014-08-22,분기말 시가총액,31823540582,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/GIS?interval=1d&events=splits (2014-08-22) ; https://www.sec.gov/Archives/edgar/data/40704/000119312514345796/,종가 52.71 × 주식수 603747687,18
+General Mills,GIS,2014Q4,2014-11-23,분기별 매출액,미확인,USD,미확인,https://www.sec.gov/Archives/edgar/data/40704/000119312514445397/,,18
+General Mills,GIS,2014Q4,2014-11-23,분기별 영업이익,559000000,USD,공시,https://www.sec.gov/Archives/edgar/data/40704/000119312514445397/,,18
+General Mills,GIS,2014Q4,2014-11-23,분기별 당기순이익(지배),346100000,USD,공시,https://www.sec.gov/Archives/edgar/data/40704/000119312514445397/,,18
+General Mills,GIS,2014Q4,2014-11-23,분기별 영업활동현금흐름,533800000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/40704/000119312514445397/ ; https://www.sec.gov/Archives/edgar/data/40704/000119312514345796/,누적 863200000 − 직전누적 329400000 (시작 2014-05-26),18
+General Mills,GIS,2014Q4,2014-11-23,분기말 자산총계,24203700000,USD,공시,https://www.sec.gov/Archives/edgar/data/40704/000119312514445397/,,18
+General Mills,GIS,2014Q4,2014-11-23,분기말 부채총계,17192100000,USD,공시,https://www.sec.gov/Archives/edgar/data/40704/000119312514445397/,메자닌(일시자본) 901400000 별도 (원문 us-gaap:RedeemableNoncontrollingInterestEquityOtherFairValue 901400000),18
+General Mills,GIS,2014Q4,2014-11-23,분기말 총자본(자기자본),6110200000,USD,공시,https://www.sec.gov/Archives/edgar/data/40704/000119312514445397/,,18
+General Mills,GIS,2014Q4,2014-11-23,분기말 지배지분 자본,5672300000,USD,공시,https://www.sec.gov/Archives/edgar/data/40704/000119312514445397/,,18
+General Mills,GIS,2014Q4,2014-11-21,분기말 종가,51.85,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/GIS?interval=1d&events=splits (2014-11-21),,18
+General Mills,GIS,2014Q4,2014-12-05,분기말 상장주식수,603747687,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/40704/000119312514445397/,dei:EntityCommonStockSharesOutstanding 클래스 합,18
+General Mills,GIS,2014Q4,2014-11-21,분기말 시가총액,31304317571,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/GIS?interval=1d&events=splits (2014-11-21) ; https://www.sec.gov/Archives/edgar/data/40704/000119312514445397/,종가 51.85 × 주식수 603747687,18
+General Mills,GIS,2015Q1,2015-02-22,분기별 매출액,미확인,USD,미확인,https://www.sec.gov/Archives/edgar/data/40704/000119312515096983/,,18
+General Mills,GIS,2015Q1,2015-02-22,분기별 영업이익,537200000,USD,공시,https://www.sec.gov/Archives/edgar/data/40704/000119312515096983/,,18
+General Mills,GIS,2015Q1,2015-02-22,분기별 당기순이익(지배),343200000,USD,공시,https://www.sec.gov/Archives/edgar/data/40704/000119312515096983/,,18
+General Mills,GIS,2015Q1,2015-02-22,분기별 영업활동현금흐름,698200000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/40704/000119312515096983/ ; https://www.sec.gov/Archives/edgar/data/40704/000119312514445397/,누적 1561400000 − 직전누적 863200000 (시작 2014-05-26),18
+General Mills,GIS,2015Q1,2015-02-22,분기말 자산총계,23383100000,USD,공시,https://www.sec.gov/Archives/edgar/data/40704/000119312515096983/,,18
+General Mills,GIS,2015Q1,2015-02-22,분기말 부채총계,16732500000,USD,공시,https://www.sec.gov/Archives/edgar/data/40704/000119312515096983/,메자닌(일시자본) 801500000 별도 (원문 us-gaap:RedeemableNoncontrollingInterestEquityOtherFairValue 801500000),18
+General Mills,GIS,2015Q1,2015-02-22,분기말 총자본(자기자본),5849100000,USD,공시,https://www.sec.gov/Archives/edgar/data/40704/000119312515096983/,,18
+General Mills,GIS,2015Q1,2015-02-22,분기말 지배지분 자본,5441200000,USD,공시,https://www.sec.gov/Archives/edgar/data/40704/000119312515096983/,,18
+General Mills,GIS,2015Q1,2015-02-20,분기말 종가,53.47,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/GIS?interval=1d&events=splits (2015-02-20),,18
+General Mills,GIS,2015Q1,2015-03-06,분기말 상장주식수,596089958,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/40704/000119312515096983/,dei:EntityCommonStockSharesOutstanding 클래스 합,18
+General Mills,GIS,2015Q1,2015-02-20,분기말 시가총액,31872930054,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/GIS?interval=1d&events=splits (2015-02-20) ; https://www.sec.gov/Archives/edgar/data/40704/000119312515096983/,종가 53.47 × 주식수 596089958,18
+General Mills,GIS,2015Q2,2015-05-31,분기별 매출액,미확인,USD,미확인,https://www.sec.gov/Archives/edgar/data/40704/000119312515245476/,,18
+General Mills,GIS,2015Q2,2015-05-31,분기별 영업이익,423600000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/40704/000119312515245476/ ; https://www.sec.gov/Archives/edgar/data/40704/000119312515096983/,연간 2077300000 − 9개월누적 1653700000 (OperatingIncomeLoss),18
+General Mills,GIS,2015Q2,2015-05-31,분기별 당기순이익(지배),186800000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/40704/000119312515245476/ ; https://www.sec.gov/Archives/edgar/data/40704/000119312515096983/,연간 1221300000 − 9개월누적 1034500000 (NetIncomeLoss),18
+General Mills,GIS,2015Q2,2015-05-31,분기별 영업활동현금흐름,981400000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/40704/000119312515245476/ ; https://www.sec.gov/Archives/edgar/data/40704/000119312515096983/,누적 2542800000 − 직전누적 1561400000 (시작 2014-05-26),18
+General Mills,GIS,2015Q2,2015-05-31,분기말 자산총계,21832000000,USD,공시(재작성 반영),https://www.sec.gov/Archives/edgar/data/40704/000119312516638404/,원 공시 21964500000 (https://www.sec.gov/Archives/edgar/data/40704/000119312515245476/),18
+General Mills,GIS,2015Q2,2015-05-31,분기말 부채총계,15660400000,USD,공시(재작성 반영),https://www.sec.gov/Archives/edgar/data/40704/000119312516638404/,메자닌(일시자본) 778900000 별도 (원문 us-gaap:RedeemableNoncontrollingInterestEquityOtherFairValue 778900000) ; 원 공시 15792900000 (https://www.sec.gov/Archives/edgar/data/40704/000119312515245476/),18
+General Mills,GIS,2015Q2,2015-05-31,분기말 총자본(자기자본),5392700000,USD,공시,https://www.sec.gov/Archives/edgar/data/40704/000119312515245476/,,18
+General Mills,GIS,2015Q2,2015-05-31,분기말 지배지분 자본,4996700000,USD,공시,https://www.sec.gov/Archives/edgar/data/40704/000119312515245476/,,18
+General Mills,GIS,2015Q2,2015-05-29,분기말 종가,56.15,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/GIS?interval=1d&events=splits (2015-05-29),,18
+General Mills,GIS,2015Q2,2015-06-12,분기말 상장주식수,598737719,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/40704/000119312515245476/,dei:EntityCommonStockSharesOutstanding 클래스 합,18
+General Mills,GIS,2015Q2,2015-05-29,분기말 시가총액,33619122922,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/GIS?interval=1d&events=splits (2015-05-29) ; https://www.sec.gov/Archives/edgar/data/40704/000119312515245476/,종가 56.15 × 주식수 598737719,18
+General Mills,GIS,2015Q3,2015-08-30,분기별 매출액,미확인,USD,미확인,https://www.sec.gov/Archives/edgar/data/40704/000119312515326176/,,18
+General Mills,GIS,2015Q3,2015-08-30,분기별 영업이익,683300000,USD,공시,https://www.sec.gov/Archives/edgar/data/40704/000119312515326176/,,18
+General Mills,GIS,2015Q3,2015-08-30,분기별 당기순이익(지배),426600000,USD,공시,https://www.sec.gov/Archives/edgar/data/40704/000119312515326176/,,18
+General Mills,GIS,2015Q3,2015-08-30,분기별 영업활동현금흐름,430900000,USD,공시,https://www.sec.gov/Archives/edgar/data/40704/000119312515326176/,,18
+General Mills,GIS,2015Q3,2015-08-30,분기말 자산총계,22322900000,USD,공시,https://www.sec.gov/Archives/edgar/data/40704/000119312515326176/,,18
+General Mills,GIS,2015Q3,2015-08-30,분기말 부채총계,16184300000,USD,공시,https://www.sec.gov/Archives/edgar/data/40704/000119312515326176/,메자닌(일시자본) 786600000 별도 (원문 us-gaap:RedeemableNoncontrollingInterestEquityOtherFairValue 786600000),18
+General Mills,GIS,2015Q3,2015-08-30,분기말 총자본(자기자본),5352000000,USD,공시,https://www.sec.gov/Archives/edgar/data/40704/000119312515326176/,,18
+General Mills,GIS,2015Q3,2015-08-30,분기말 지배지분 자본,4949100000,USD,공시,https://www.sec.gov/Archives/edgar/data/40704/000119312515326176/,,18
+General Mills,GIS,2015Q3,2015-08-28,분기말 종가,57.13,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/GIS?interval=1d&events=splits (2015-08-28),,18
+General Mills,GIS,2015Q3,2015-09-11,분기말 상장주식수,597687535,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/40704/000119312515326176/,dei:EntityCommonStockSharesOutstanding 클래스 합,18
+General Mills,GIS,2015Q3,2015-08-28,분기말 시가총액,34145888875,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/GIS?interval=1d&events=splits (2015-08-28) ; https://www.sec.gov/Archives/edgar/data/40704/000119312515326176/,종가 57.13 × 주식수 597687535,18
+General Mills,GIS,2015Q4,2015-11-29,분기별 매출액,미확인,USD,미확인,https://www.sec.gov/Archives/edgar/data/40704/000119312515406352/,,18
+General Mills,GIS,2015Q4,2015-11-29,분기별 영업이익,905700000,USD,공시,https://www.sec.gov/Archives/edgar/data/40704/000119312515406352/,,18
+General Mills,GIS,2015Q4,2015-11-29,분기별 당기순이익(지배),529500000,USD,공시,https://www.sec.gov/Archives/edgar/data/40704/000119312515406352/,,18
+General Mills,GIS,2015Q4,2015-11-29,분기별 영업활동현금흐름,725100000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/40704/000119312515406352/ ; https://www.sec.gov/Archives/edgar/data/40704/000119312515326176/,누적 1156000000 − 직전누적 430900000 (시작 2015-06-01),18
+General Mills,GIS,2015Q4,2015-11-29,분기말 자산총계,21588700000,USD,공시,https://www.sec.gov/Archives/edgar/data/40704/000119312515406352/,,18
+General Mills,GIS,2015Q4,2015-11-29,분기말 부채총계,15606100000,USD,공시,https://www.sec.gov/Archives/edgar/data/40704/000119312515406352/,메자닌(일시자본) 817400000 별도 (원문 us-gaap:RedeemableNoncontrollingInterestEquityOtherFairValue 817400000),18
+General Mills,GIS,2015Q4,2015-11-29,분기말 총자본(자기자본),5165200000,USD,공시,https://www.sec.gov/Archives/edgar/data/40704/000119312515406352/,,18
+General Mills,GIS,2015Q4,2015-11-29,분기말 지배지분 자본,4797000000,USD,공시,https://www.sec.gov/Archives/edgar/data/40704/000119312515406352/,,18
+General Mills,GIS,2015Q4,2015-11-27,분기말 종가,58.41,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/GIS?interval=1d&events=splits (2015-11-27),,18
+General Mills,GIS,2015Q4,2015-12-09,분기말 상장주식수,593345187,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/40704/000119312515406352/,dei:EntityCommonStockSharesOutstanding 클래스 합,18
+General Mills,GIS,2015Q4,2015-11-27,분기말 시가총액,34657292373,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/GIS?interval=1d&events=splits (2015-11-27) ; https://www.sec.gov/Archives/edgar/data/40704/000119312515406352/,종가 58.41 × 주식수 593345187,18
+General Mills,GIS,2016Q1,2016-02-28,분기별 매출액,미확인,USD,미확인,https://www.sec.gov/Archives/edgar/data/40704/000119312516515116/,,18
+General Mills,GIS,2016Q1,2016-02-28,분기별 영업이익,586300000,USD,공시,https://www.sec.gov/Archives/edgar/data/40704/000119312516515116/,,18
+General Mills,GIS,2016Q1,2016-02-28,분기별 당기순이익(지배),361700000,USD,공시,https://www.sec.gov/Archives/edgar/data/40704/000119312516515116/,,18
+General Mills,GIS,2016Q1,2016-02-28,분기별 영업활동현금흐름,706500000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/40704/000119312516515116/ ; https://www.sec.gov/Archives/edgar/data/40704/000119312515406352/,누적 1862500000 − 직전누적 1156000000 (시작 2015-06-01),18
+General Mills,GIS,2016Q1,2016-02-28,분기말 자산총계,21631600000,USD,공시,https://www.sec.gov/Archives/edgar/data/40704/000119312516515116/,,18
+General Mills,GIS,2016Q1,2016-02-28,분기말 부채총계,15541200000,USD,공시,https://www.sec.gov/Archives/edgar/data/40704/000119312516515116/,메자닌(일시자본) 826700000 별도 (원문 us-gaap:RedeemableNoncontrollingInterestEquityOtherFairValue 826700000),18
+General Mills,GIS,2016Q1,2016-02-28,분기말 총자본(자기자본),5263700000,USD,공시,https://www.sec.gov/Archives/edgar/data/40704/000119312516515116/,,18
+General Mills,GIS,2016Q1,2016-02-28,분기말 지배지분 자본,4888800000,USD,공시,https://www.sec.gov/Archives/edgar/data/40704/000119312516515116/,,18
+General Mills,GIS,2016Q1,2016-02-26,분기말 종가,59.0,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/GIS?interval=1d&events=splits (2016-02-26),,18
+General Mills,GIS,2016Q1,2016-03-11,분기말 상장주식수,594401538,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/40704/000119312516515116/,dei:EntityCommonStockSharesOutstanding 클래스 합,18
+General Mills,GIS,2016Q1,2016-02-26,분기말 시가총액,35069690742,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/GIS?interval=1d&events=splits (2016-02-26) ; https://www.sec.gov/Archives/edgar/data/40704/000119312516515116/,종가 59.0 × 주식수 594401538,18
+General Mills,GIS,2016Q2,2016-05-29,분기별 매출액,미확인,USD,미확인,https://www.sec.gov/Archives/edgar/data/40704/000119312516638404/,,18
+General Mills,GIS,2016Q2,2016-05-29,분기별 영업이익,532100000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/40704/000119312516638404/ ; https://www.sec.gov/Archives/edgar/data/40704/000119312516515116/,연간 2707400000 − 9개월누적 2175300000 (OperatingIncomeLoss),18
+General Mills,GIS,2016Q2,2016-05-29,분기별 당기순이익(지배),379600000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/40704/000119312516638404/ ; https://www.sec.gov/Archives/edgar/data/40704/000119312516515116/,연간 1697400000 − 9개월누적 1317800000 (NetIncomeLoss),18
+General Mills,GIS,2016Q2,2016-05-29,분기별 영업활동현금흐름,767300000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/40704/000119312516638404/ ; https://www.sec.gov/Archives/edgar/data/40704/000119312516515116/,누적 2629800000 − 직전누적 1862500000 (시작 2015-06-01),18
+General Mills,GIS,2016Q2,2016-05-29,분기말 자산총계,21712300000,USD,공시,https://www.sec.gov/Archives/edgar/data/40704/000119312516638404/,,18
+General Mills,GIS,2016Q2,2016-05-29,분기말 부채총계,15559600000,USD,공시,https://www.sec.gov/Archives/edgar/data/40704/000119312516638404/,메자닌(일시자본) 845600000 별도 (원문 us-gaap:RedeemableNoncontrollingInterestEquityOtherFairValue 845600000),18
+General Mills,GIS,2016Q2,2016-05-29,분기말 총자본(자기자본),5307100000,USD,공시,https://www.sec.gov/Archives/edgar/data/40704/000119312516638404/,,18
+General Mills,GIS,2016Q2,2016-05-29,분기말 지배지분 자본,4930200000,USD,공시,https://www.sec.gov/Archives/edgar/data/40704/000119312516638404/,,18
+General Mills,GIS,2016Q2,2016-05-27,분기말 종가,62.87,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/GIS?interval=1d&events=splits (2016-05-27),,18
+General Mills,GIS,2016Q2,2016-06-13,분기말 상장주식수,597020906,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/40704/000119312516638404/,dei:EntityCommonStockSharesOutstanding 클래스 합,18
+General Mills,GIS,2016Q2,2016-05-27,분기말 시가총액,37534704360,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/GIS?interval=1d&events=splits (2016-05-27) ; https://www.sec.gov/Archives/edgar/data/40704/000119312516638404/,종가 62.87 × 주식수 597020906,18
+General Mills,GIS,2016Q3,2016-08-28,분기별 매출액,미확인,USD,미확인,https://www.sec.gov/Archives/edgar/data/40704/000119312516716004/,,18
+General Mills,GIS,2016Q3,2016-08-28,분기별 영업이익,645800000,USD,공시,https://www.sec.gov/Archives/edgar/data/40704/000119312516716004/,,18
+General Mills,GIS,2016Q3,2016-08-28,분기별 당기순이익(지배),409000000,USD,공시,https://www.sec.gov/Archives/edgar/data/40704/000119312516716004/,,18
+General Mills,GIS,2016Q3,2016-08-28,분기별 영업활동현금흐름,288300000,USD,공시,https://www.sec.gov/Archives/edgar/data/40704/000119312516716004/,,18
+General Mills,GIS,2016Q3,2016-08-28,분기말 자산총계,21913100000,USD,공시,https://www.sec.gov/Archives/edgar/data/40704/000119312516716004/,,18
+General Mills,GIS,2016Q3,2016-08-28,분기말 부채총계,15783500000,USD,공시,https://www.sec.gov/Archives/edgar/data/40704/000119312516716004/,메자닌(일시자본) 841000000 별도 (원문 us-gaap:RedeemableNoncontrollingInterestEquityOtherFairValue 841000000),18
+General Mills,GIS,2016Q3,2016-08-28,분기말 총자본(자기자본),5288600000,USD,공시,https://www.sec.gov/Archives/edgar/data/40704/000119312516716004/,,18
+General Mills,GIS,2016Q3,2016-08-28,분기말 지배지분 자본,4908300000,USD,공시,https://www.sec.gov/Archives/edgar/data/40704/000119312516716004/,,18
+General Mills,GIS,2016Q3,2016-08-26,분기말 종가,70.87,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/GIS?interval=1d&events=splits (2016-08-26),,18
+General Mills,GIS,2016Q3,2016-09-09,분기말 상장주식수,591383342,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/40704/000119312516716004/,dei:EntityCommonStockSharesOutstanding 클래스 합,18
+General Mills,GIS,2016Q3,2016-08-26,분기말 시가총액,41911337448,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/GIS?interval=1d&events=splits (2016-08-26) ; https://www.sec.gov/Archives/edgar/data/40704/000119312516716004/,종가 70.87 × 주식수 591383342,18
+General Mills,GIS,2016Q4,2016-11-27,분기별 매출액,미확인,USD,미확인,https://www.sec.gov/Archives/edgar/data/40704/000119312516798939/,,18
+General Mills,GIS,2016Q4,2016-11-27,분기별 영업이익,768900000,USD,공시,https://www.sec.gov/Archives/edgar/data/40704/000119312516798939/,,18
+General Mills,GIS,2016Q4,2016-11-27,분기별 당기순이익(지배),481800000,USD,공시,https://www.sec.gov/Archives/edgar/data/40704/000119312516798939/,,18
+General Mills,GIS,2016Q4,2016-11-27,분기별 영업활동현금흐름,699300000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/40704/000119312516798939/ ; https://www.sec.gov/Archives/edgar/data/40704/000119312516716004/,누적 987600000 − 직전누적 288300000 (시작 2016-05-30),18
+General Mills,GIS,2016Q4,2016-11-27,분기말 자산총계,21602100000,USD,공시,https://www.sec.gov/Archives/edgar/data/40704/000119312516798939/,,18
+General Mills,GIS,2016Q4,2016-11-27,분기말 부채총계,16274600000,USD,공시,https://www.sec.gov/Archives/edgar/data/40704/000119312516798939/,메자닌(일시자본) 801700000 별도 (원문 us-gaap:RedeemableNoncontrollingInterestEquityOtherFairValue 801700000),18
+General Mills,GIS,2016Q4,2016-11-27,분기말 총자본(자기자본),4525800000,USD,공시,https://www.sec.gov/Archives/edgar/data/40704/000119312516798939/,,18
+General Mills,GIS,2016Q4,2016-11-27,분기말 지배지분 자본,4180600000,USD,공시,https://www.sec.gov/Archives/edgar/data/40704/000119312516798939/,,18
+General Mills,GIS,2016Q4,2016-11-25,분기말 종가,62.3,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/GIS?interval=1d&events=splits (2016-11-25),,18
+General Mills,GIS,2016Q4,2016-12-13,분기말 상장주식수,580011272,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/40704/000119312516798939/,dei:EntityCommonStockSharesOutstanding 클래스 합,18
+General Mills,GIS,2016Q4,2016-11-25,분기말 시가총액,36134702246,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/GIS?interval=1d&events=splits (2016-11-25) ; https://www.sec.gov/Archives/edgar/data/40704/000119312516798939/,종가 62.3 × 주식수 580011272,18
+General Mills,GIS,2017Q1,2017-02-26,분기별 매출액,미확인,USD,미확인,https://www.sec.gov/Archives/edgar/data/40704/000119312517090879/,,18
+General Mills,GIS,2017Q1,2017-02-26,분기별 영업이익,542500000,USD,공시,https://www.sec.gov/Archives/edgar/data/40704/000119312517090879/,,18
+General Mills,GIS,2017Q1,2017-02-26,분기별 당기순이익(지배),357800000,USD,공시,https://www.sec.gov/Archives/edgar/data/40704/000119312517090879/,,18
+General Mills,GIS,2017Q1,2017-02-26,분기별 영업활동현금흐름,571100000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/40704/000119312517090879/ ; https://www.sec.gov/Archives/edgar/data/40704/000119312516798939/,누적 1558700000 − 직전누적 987600000 (시작 2016-05-30),18
+General Mills,GIS,2017Q1,2017-02-26,분기말 자산총계,21670300000,USD,공시,https://www.sec.gov/Archives/edgar/data/40704/000119312517090879/,,18
+General Mills,GIS,2017Q1,2017-02-26,분기말 부채총계,16397600000,USD,공시,https://www.sec.gov/Archives/edgar/data/40704/000119312517090879/,메자닌(일시자본) 869200000 별도 (원문 us-gaap:RedeemableNoncontrollingInterestEquityOtherFairValue 869200000),18
+General Mills,GIS,2017Q1,2017-02-26,분기말 총자본(자기자본),4403500000,USD,공시,https://www.sec.gov/Archives/edgar/data/40704/000119312517090879/,,18
+General Mills,GIS,2017Q1,2017-02-26,분기말 지배지분 자본,4063400000,USD,공시,https://www.sec.gov/Archives/edgar/data/40704/000119312517090879/,,18
+General Mills,GIS,2017Q1,2017-02-24,분기말 종가,61.37,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/GIS?interval=1d&events=splits (2017-02-24),,18
+General Mills,GIS,2017Q1,2017-03-14,분기말 상장주식수,576135402,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/40704/000119312517090879/,dei:EntityCommonStockSharesOutstanding 클래스 합,18
+General Mills,GIS,2017Q1,2017-02-24,분기말 시가총액,35357429621,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/GIS?interval=1d&events=splits (2017-02-24) ; https://www.sec.gov/Archives/edgar/data/40704/000119312517090879/,종가 61.37 × 주식수 576135402,18
+General Mills,GIS,2017Q2,2017-05-28,분기별 매출액,미확인,USD,미확인,https://www.sec.gov/Archives/edgar/data/40704/000119312517217396/,,18
+General Mills,GIS,2017Q2,2017-05-28,분기별 영업이익,534900000,USD,계산(연간-3분기누적)(재작성 반영),https://www.sec.gov/Archives/edgar/data/40704/000119312519184675/ ; https://www.sec.gov/Archives/edgar/data/40704/000119312517090879/,연간 2492100000 − 9개월누적 1957200000 (OperatingIncomeLoss) ; 원 공시 609200000 (https://www.sec.gov/Archives/edgar/data/40704/000119312517217396/ ; https://www.sec.gov/Archives/edgar/data/40704/000119312517090879/),18
+General Mills,GIS,2017Q2,2017-05-28,분기별 당기순이익(지배),408900000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/40704/000119312517217396/ ; https://www.sec.gov/Archives/edgar/data/40704/000119312517090879/,연간 1657500000 − 9개월누적 1248600000 (NetIncomeLoss),18
+General Mills,GIS,2017Q2,2017-05-28,분기별 영업활동현금흐름,754600000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/40704/000119312517217396/ ; https://www.sec.gov/Archives/edgar/data/40704/000119312517090879/,누적 2313300000 − 직전누적 1558700000 (시작 2016-05-30),18
+General Mills,GIS,2017Q2,2017-05-28,분기말 자산총계,21812600000,USD,공시,https://www.sec.gov/Archives/edgar/data/40704/000119312517217396/,,18
+General Mills,GIS,2017Q2,2017-05-28,분기말 부채총계,16216200000,USD,공시,https://www.sec.gov/Archives/edgar/data/40704/000119312517217396/,메자닌(일시자본) 910900000 별도 (원문 us-gaap:RedeemableNoncontrollingInterestEquityOtherFairValue 910900000),18
+General Mills,GIS,2017Q2,2017-05-28,분기말 총자본(자기자본),4685500000,USD,공시,https://www.sec.gov/Archives/edgar/data/40704/000119312517217396/,,18
+General Mills,GIS,2017Q2,2017-05-28,분기말 지배지분 자본,4327900000,USD,공시,https://www.sec.gov/Archives/edgar/data/40704/000119312517217396/,,18
+General Mills,GIS,2017Q2,2017-05-26,분기말 종가,57.32,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/GIS?interval=1d&events=splits (2017-05-26),,18
+General Mills,GIS,2017Q2,2017-06-09,분기말 상장주식수,577099679,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/40704/000119312517217396/,dei:EntityCommonStockSharesOutstanding 클래스 합,18
+General Mills,GIS,2017Q2,2017-05-26,분기말 시가총액,33079353600,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/GIS?interval=1d&events=splits (2017-05-26) ; https://www.sec.gov/Archives/edgar/data/40704/000119312517217396/,종가 57.32 × 주식수 577099679,18
+General Mills,GIS,2017Q3,2017-08-27,분기별 매출액,3769200000,USD,공시(후속 보고서 비교기간),https://www.sec.gov/Archives/edgar/data/40704/000119312519184675/,RevenueFromContractWithCustomerExcludingAssessedTax ; 그 분기 보고서에 연결 총계가 없어 2019-06-28 제출본의 비교기간에서 읽었다,18
+General Mills,GIS,2017Q3,2017-08-27,분기별 영업이익,605300000,USD,공시(재작성 반영),https://www.sec.gov/Archives/edgar/data/40704/000119312518276507/,원 공시 625800000 (https://www.sec.gov/Archives/edgar/data/40704/000119312517289410/),18
+General Mills,GIS,2017Q3,2017-08-27,분기별 당기순이익(지배),404700000,USD,공시,https://www.sec.gov/Archives/edgar/data/40704/000119312517289410/,,18
+General Mills,GIS,2017Q3,2017-08-27,분기별 영업활동현금흐름,590500000,USD,공시,https://www.sec.gov/Archives/edgar/data/40704/000119312517289410/,,18
+General Mills,GIS,2017Q3,2017-08-27,분기말 자산총계,22209600000,USD,공시,https://www.sec.gov/Archives/edgar/data/40704/000119312517289410/,,18
+General Mills,GIS,2017Q3,2017-08-27,분기말 부채총계,16959200000,USD,공시,https://www.sec.gov/Archives/edgar/data/40704/000119312517289410/,메자닌(일시자본) 967500000 별도 (원문 us-gaap:RedeemableNoncontrollingInterestEquityOtherFairValue 967500000),18
+General Mills,GIS,2017Q3,2017-08-27,분기말 총자본(자기자본),4282900000,USD,공시,https://www.sec.gov/Archives/edgar/data/40704/000119312517289410/,,18
+General Mills,GIS,2017Q3,2017-08-27,분기말 지배지분 자본,3903800000,USD,공시,https://www.sec.gov/Archives/edgar/data/40704/000119312517289410/,,18
+General Mills,GIS,2017Q3,2017-08-25,분기말 종가,55.02,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/GIS?interval=1d&events=splits (2017-08-25),,18
+General Mills,GIS,2017Q3,2017-09-13,분기말 상장주식수,568338468,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/40704/000119312517289410/,dei:EntityCommonStockSharesOutstanding 클래스 합,18
+General Mills,GIS,2017Q3,2017-08-25,분기말 시가총액,31269982509,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/GIS?interval=1d&events=splits (2017-08-25) ; https://www.sec.gov/Archives/edgar/data/40704/000119312517289410/,종가 55.02 × 주식수 568338468,18
+General Mills,GIS,2017Q4,2017-11-26,분기별 매출액,미확인,USD,미확인,https://www.sec.gov/Archives/edgar/data/40704/000119312517374688/,,18
+General Mills,GIS,2017Q4,2017-11-26,분기별 영업이익,709000000,USD,공시(재작성 반영),https://www.sec.gov/Archives/edgar/data/40704/000119312518353281/,원 공시 729800000 (https://www.sec.gov/Archives/edgar/data/40704/000119312517374688/),18
+General Mills,GIS,2017Q4,2017-11-26,분기별 당기순이익(지배),430500000,USD,공시,https://www.sec.gov/Archives/edgar/data/40704/000119312517374688/,,18
+General Mills,GIS,2017Q4,2017-11-26,분기별 영업활동현금흐름,976300000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/40704/000119312517374688/ ; https://www.sec.gov/Archives/edgar/data/40704/000119312517289410/,누적 1566800000 − 직전누적 590500000 (시작 2017-05-29),18
+General Mills,GIS,2017Q4,2017-11-26,분기말 자산총계,22191500000,USD,공시,https://www.sec.gov/Archives/edgar/data/40704/000119312517374688/,,18
+General Mills,GIS,2017Q4,2017-11-26,분기말 부채총계,16808400000,USD,공시,https://www.sec.gov/Archives/edgar/data/40704/000119312517374688/,메자닌(일시자본) 793400000 별도 (원문 us-gaap:RedeemableNoncontrollingInterestEquityOtherFairValue 793400000),18
+General Mills,GIS,2017Q4,2017-11-26,분기말 총자본(자기자본),4589700000,USD,공시,https://www.sec.gov/Archives/edgar/data/40704/000119312517374688/,,18
+General Mills,GIS,2017Q4,2017-11-26,분기말 지배지분 자본,4230700000,USD,공시,https://www.sec.gov/Archives/edgar/data/40704/000119312517374688/,,18
+General Mills,GIS,2017Q4,2017-11-24,분기말 종가,53.65,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/GIS?interval=1d&events=splits (2017-11-24),,18
+General Mills,GIS,2017Q4,2017-12-11,분기말 상장주식수,569043789,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/40704/000119312517374688/,dei:EntityCommonStockSharesOutstanding 클래스 합,18
+General Mills,GIS,2017Q4,2017-11-24,분기말 시가총액,30529199280,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/GIS?interval=1d&events=splits (2017-11-24) ; https://www.sec.gov/Archives/edgar/data/40704/000119312517374688/,종가 53.65 × 주식수 569043789,18
+General Mills,GIS,2018Q1,2018-02-25,분기별 매출액,3882300000,USD,공시(후속 보고서 비교기간),https://www.sec.gov/Archives/edgar/data/40704/000119312519080962/,RevenueFromContractWithCustomerExcludingAssessedTax ; 그 분기 보고서에 연결 총계가 없어 2019-03-20 제출본의 비교기간에서 읽었다,18
+General Mills,GIS,2018Q1,2018-02-25,분기별 영업이익,569500000,USD,공시(재작성 반영),https://www.sec.gov/Archives/edgar/data/40704/000119312519080962/,원 공시 592700000 (https://www.sec.gov/Archives/edgar/data/40704/000119312518090832/),18
+General Mills,GIS,2018Q1,2018-02-25,분기별 당기순이익(지배),941400000,USD,공시,https://www.sec.gov/Archives/edgar/data/40704/000119312518090832/,,18
+General Mills,GIS,2018Q1,2018-02-25,분기별 영업활동현금흐름,568500000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/40704/000119312518090832/ ; https://www.sec.gov/Archives/edgar/data/40704/000119312517374688/,누적 2135300000 − 직전누적 1566800000 (시작 2017-05-29),18
+General Mills,GIS,2018Q1,2018-02-25,분기말 자산총계,22240600000,USD,공시,https://www.sec.gov/Archives/edgar/data/40704/000119312518090832/,,18
+General Mills,GIS,2018Q1,2018-02-25,분기말 부채총계,16088400000,USD,공시,https://www.sec.gov/Archives/edgar/data/40704/000119312518090832/,메자닌(일시자본) 817500000 별도 (원문 us-gaap:RedeemableNoncontrollingInterestEquityOtherFairValue 817500000),18
+General Mills,GIS,2018Q1,2018-02-25,분기말 총자본(자기자본),5334700000,USD,공시,https://www.sec.gov/Archives/edgar/data/40704/000119312518090832/,,18
+General Mills,GIS,2018Q1,2018-02-25,분기말 지배지분 자본,4965600000,USD,공시,https://www.sec.gov/Archives/edgar/data/40704/000119312518090832/,,18
+General Mills,GIS,2018Q1,2018-02-23,분기말 종가,52.98,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/GIS?interval=1d&events=splits (2018-02-23),,18
+General Mills,GIS,2018Q1,2018-03-12,분기말 상장주식수,570162724,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/40704/000119312518090832/,dei:EntityCommonStockSharesOutstanding 클래스 합,18
+General Mills,GIS,2018Q1,2018-02-23,분기말 시가총액,30207221118,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/GIS?interval=1d&events=splits (2018-02-23) ; https://www.sec.gov/Archives/edgar/data/40704/000119312518090832/,종가 52.98 × 주식수 570162724,18
+General Mills,GIS,2018Q2,2018-05-27,분기별 매출액,3890200000,USD,공시(후속 보고서 비교기간),https://www.sec.gov/Archives/edgar/data/40704/000119312519184675/,RevenueFromContractWithCustomerExcludingAssessedTax ; 그 분기 보고서에 연결 총계가 없어 2019-06-28 제출본의 비교기간에서 읽었다,18
+General Mills,GIS,2018Q2,2018-05-27,분기별 영업이익,536100000,USD,계산(연간-3분기누적)(재작성 반영),https://www.sec.gov/Archives/edgar/data/40704/000119312520186469/ ; https://www.sec.gov/Archives/edgar/data/40704/000119312519080962/,연간 2419900000 − 9개월누적 1883800000 (OperatingIncomeLoss) ; 원 공시 561000000 (https://www.sec.gov/Archives/edgar/data/40704/000119312518209377/ ; https://www.sec.gov/Archives/edgar/data/40704/000119312518090832/),18
+General Mills,GIS,2018Q2,2018-05-27,분기별 당기순이익(지배),354400000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/40704/000119312518209377/ ; https://www.sec.gov/Archives/edgar/data/40704/000119312518090832/,연간 2131000000 − 9개월누적 1776600000 (NetIncomeLoss),18
+General Mills,GIS,2018Q2,2018-05-27,분기별 영업활동현금흐름,705700000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/40704/000119312518209377/ ; https://www.sec.gov/Archives/edgar/data/40704/000119312518090832/,누적 2841000000 − 직전누적 2135300000 (시작 2017-05-29),18
+General Mills,GIS,2018Q2,2018-05-27,분기말 자산총계,30624000000,USD,공시,https://www.sec.gov/Archives/edgar/data/40704/000119312518209377/,,18
+General Mills,GIS,2018Q2,2018-05-27,분기말 부채총계,23355400000,USD,공시,https://www.sec.gov/Archives/edgar/data/40704/000119312518209377/,메자닌(일시자본) 776200000 별도 (원문 us-gaap:RedeemableNoncontrollingInterestEquityOtherFairValue 776200000),18
+General Mills,GIS,2018Q2,2018-05-27,분기말 총자본(자기자본),6492400000,USD,공시,https://www.sec.gov/Archives/edgar/data/40704/000119312518209377/,,18
+General Mills,GIS,2018Q2,2018-05-27,분기말 지배지분 자본,6141100000,USD,공시,https://www.sec.gov/Archives/edgar/data/40704/000119312518209377/,,18
+General Mills,GIS,2018Q2,2018-05-25,분기말 종가,42.64,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/GIS?interval=1d&events=splits (2018-05-25),,18
+General Mills,GIS,2018Q2,2018-06-07,분기말 상장주식수,593367848,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/40704/000119312518209377/,dei:EntityCommonStockSharesOutstanding 클래스 합,18
+General Mills,GIS,2018Q2,2018-05-25,분기말 시가총액,25301205039,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/GIS?interval=1d&events=splits (2018-05-25) ; https://www.sec.gov/Archives/edgar/data/40704/000119312518209377/,종가 42.64 × 주식수 593367848,18
+General Mills,GIS,2018Q3,2018-08-26,분기별 매출액,4094000000,USD,공시(후속 보고서 비교기간),https://www.sec.gov/Archives/edgar/data/40704/000119312519184675/,RevenueFromContractWithCustomerExcludingAssessedTax ; 그 분기 보고서에 연결 총계가 없어 2019-06-28 제출본의 비교기간에서 읽었다,18
+General Mills,GIS,2018Q3,2018-08-26,분기별 영업이익,601500000,USD,공시,https://www.sec.gov/Archives/edgar/data/40704/000119312518276507/,,18
+General Mills,GIS,2018Q3,2018-08-26,분기별 당기순이익(지배),392300000,USD,공시,https://www.sec.gov/Archives/edgar/data/40704/000119312518276507/,,18
+General Mills,GIS,2018Q3,2018-08-26,분기별 영업활동현금흐름,607400000,USD,공시,https://www.sec.gov/Archives/edgar/data/40704/000119312518276507/,,18
+General Mills,GIS,2018Q3,2018-08-26,분기말 자산총계,30554800000,USD,공시,https://www.sec.gov/Archives/edgar/data/40704/000119312518276507/,,18
+General Mills,GIS,2018Q3,2018-08-26,분기말 부채총계,23207400000,USD,공시,https://www.sec.gov/Archives/edgar/data/40704/000119312518276507/,메자닌(일시자본) 771600000 별도 (원문 us-gaap:RedeemableNoncontrollingInterestEquityOtherFairValue 771600000),18
+General Mills,GIS,2018Q3,2018-08-26,분기말 총자본(자기자본),6575800000,USD,공시,https://www.sec.gov/Archives/edgar/data/40704/000119312518276507/,,18
+General Mills,GIS,2018Q3,2018-08-26,분기말 지배지분 자본,6225100000,USD,공시,https://www.sec.gov/Archives/edgar/data/40704/000119312518276507/,,18
+General Mills,GIS,2018Q3,2018-08-24,분기말 종가,45.98,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/GIS?interval=1d&events=splits (2018-08-24),,18
+General Mills,GIS,2018Q3,2018-09-10,분기말 상장주식수,596229932,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/40704/000119312518276507/,dei:EntityCommonStockSharesOutstanding 클래스 합,18
+General Mills,GIS,2018Q3,2018-08-24,분기말 시가총액,27414652273,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/GIS?interval=1d&events=splits (2018-08-24) ; https://www.sec.gov/Archives/edgar/data/40704/000119312518276507/,종가 45.98 × 주식수 596229932,18
+General Mills,GIS,2018Q4,2018-11-25,분기별 매출액,미확인,USD,미확인,https://www.sec.gov/Archives/edgar/data/40704/000119312518353281/,,18
+General Mills,GIS,2018Q4,2018-11-25,분기별 영업이익,547000000,USD,공시,https://www.sec.gov/Archives/edgar/data/40704/000119312518353281/,,18
+General Mills,GIS,2018Q4,2018-11-25,분기별 당기순이익(지배),343400000,USD,공시,https://www.sec.gov/Archives/edgar/data/40704/000119312518353281/,,18
+General Mills,GIS,2018Q4,2018-11-25,분기별 영업활동현금흐름,789100000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/40704/000119312518353281/ ; https://www.sec.gov/Archives/edgar/data/40704/000119312518276507/,누적 1396500000 − 직전누적 607400000 (시작 2018-05-28),18
+General Mills,GIS,2018Q4,2018-11-25,분기말 자산총계,30384000000,USD,공시,https://www.sec.gov/Archives/edgar/data/40704/000119312518353281/,,18
+General Mills,GIS,2018Q4,2018-11-25,분기말 부채총계,22857000000,USD,공시,https://www.sec.gov/Archives/edgar/data/40704/000119312518353281/,메자닌(일시자본) 547600000 별도 (원문 us-gaap:RedeemableNoncontrollingInterestEquityOtherFairValue 547600000),18
+General Mills,GIS,2018Q4,2018-11-25,분기말 총자본(자기자본),6979400000,USD,공시,https://www.sec.gov/Archives/edgar/data/40704/000119312518353281/,,18
+General Mills,GIS,2018Q4,2018-11-25,분기말 지배지분 자본,6651800000,USD,공시,https://www.sec.gov/Archives/edgar/data/40704/000119312518353281/,,18
+General Mills,GIS,2018Q4,2018-11-23,분기말 종가,43.37,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/GIS?interval=1d&events=splits (2018-11-23),,18
+General Mills,GIS,2018Q4,2018-12-07,분기말 상장주식수,596748917,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/40704/000119312518353281/,dei:EntityCommonStockSharesOutstanding 클래스 합,18
+General Mills,GIS,2018Q4,2018-11-23,분기말 시가총액,25881000530,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/GIS?interval=1d&events=splits (2018-11-23) ; https://www.sec.gov/Archives/edgar/data/40704/000119312518353281/,종가 43.37 × 주식수 596748917,18
+General Mills,GIS,2019Q1,2019-02-24,분기별 매출액,4198300000,USD,공시,https://www.sec.gov/Archives/edgar/data/40704/000119312519080962/,,18
+General Mills,GIS,2019Q1,2019-02-24,분기별 영업이익,651300000,USD,공시,https://www.sec.gov/Archives/edgar/data/40704/000119312519080962/,,18
+General Mills,GIS,2019Q1,2019-02-24,분기별 당기순이익(지배),446800000,USD,공시,https://www.sec.gov/Archives/edgar/data/40704/000119312519080962/,,18
+General Mills,GIS,2019Q1,2019-02-24,분기별 영업활동현금흐름,631100000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/40704/000119312519080962/ ; https://www.sec.gov/Archives/edgar/data/40704/000119312518353281/,누적 2027600000 − 직전누적 1396500000 (시작 2018-05-28),18
+General Mills,GIS,2019Q1,2019-02-24,분기말 자산총계,30285800000,USD,공시,https://www.sec.gov/Archives/edgar/data/40704/000119312519080962/,,18
+General Mills,GIS,2019Q1,2019-02-24,분기말 부채총계,22487500000,USD,공시,https://www.sec.gov/Archives/edgar/data/40704/000119312519080962/,메자닌(일시자본) 548900000 별도 (원문 us-gaap:RedeemableNoncontrollingInterestEquityOtherFairValue 548900000),18
+General Mills,GIS,2019Q1,2019-02-24,분기말 총자본(자기자본),7249400000,USD,공시,https://www.sec.gov/Archives/edgar/data/40704/000119312519080962/,,18
+General Mills,GIS,2019Q1,2019-02-24,분기말 지배지분 자본,6930400000,USD,공시,https://www.sec.gov/Archives/edgar/data/40704/000119312519080962/,,18
+General Mills,GIS,2019Q1,2019-02-22,분기말 종가,46.58,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/GIS?interval=1d&events=splits (2019-02-22),,18
+General Mills,GIS,2019Q1,2019-03-11,분기말 상장주식수,598790681,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/40704/000119312519080962/,dei:EntityCommonStockSharesOutstanding 클래스 합,18
+General Mills,GIS,2019Q1,2019-02-22,분기말 시가총액,27891669921,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/GIS?interval=1d&events=splits (2019-02-22) ; https://www.sec.gov/Archives/edgar/data/40704/000119312519080962/,종가 46.58 × 주식수 598790681,18
+General Mills,GIS,2019Q2,2019-05-26,분기별 매출액,4161700000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/40704/000119312519184675/ ; https://www.sec.gov/Archives/edgar/data/40704/000119312519080962/,연간 16865200000 − 9개월누적 12703500000 (RevenueFromContractWithCustomerExcludingAssessedTax),18
+General Mills,GIS,2019Q2,2019-05-26,분기별 영업이익,716100000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/40704/000119312519184675/ ; https://www.sec.gov/Archives/edgar/data/40704/000119312519080962/,연간 2515900000 − 9개월누적 1799800000 (OperatingIncomeLoss),18
+General Mills,GIS,2019Q2,2019-05-26,분기별 당기순이익(지배),570200000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/40704/000119312519184675/ ; https://www.sec.gov/Archives/edgar/data/40704/000119312519080962/,연간 1752700000 − 9개월누적 1182500000 (NetIncomeLoss),18
+General Mills,GIS,2019Q2,2019-05-26,분기별 영업활동현금흐름,779400000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/40704/000119312519184675/ ; https://www.sec.gov/Archives/edgar/data/40704/000119312519080962/,누적 2807000000 − 직전누적 2027600000 (시작 2018-05-28),18
+General Mills,GIS,2019Q2,2019-05-26,분기말 자산총계,30111200000,USD,공시,https://www.sec.gov/Archives/edgar/data/40704/000119312519184675/,,18
+General Mills,GIS,2019Q2,2019-05-26,분기말 부채총계,22191800000,USD,공시,https://www.sec.gov/Archives/edgar/data/40704/000119312519184675/,메자닌(일시자본) 551700000 별도 (원문 us-gaap:RedeemableNoncontrollingInterestEquityOtherFairValue 551700000),18
+General Mills,GIS,2019Q2,2019-05-26,분기말 총자본(자기자본),7367700000,USD,공시,https://www.sec.gov/Archives/edgar/data/40704/000119312519184675/,,18
+General Mills,GIS,2019Q2,2019-05-26,분기말 지배지분 자본,7054500000,USD,공시,https://www.sec.gov/Archives/edgar/data/40704/000119312519184675/,,18
+General Mills,GIS,2019Q2,2019-05-24,분기말 종가,52.81,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/GIS?interval=1d&events=splits (2019-05-24),,18
+General Mills,GIS,2019Q2,2019-06-10,분기말 상장주식수,601959611,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/40704/000119312519184675/,dei:EntityCommonStockSharesOutstanding 클래스 합,18
+General Mills,GIS,2019Q2,2019-05-24,분기말 시가총액,31789487057,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/GIS?interval=1d&events=splits (2019-05-24) ; https://www.sec.gov/Archives/edgar/data/40704/000119312519184675/,종가 52.81 × 주식수 601959611,18
+General Mills,GIS,2019Q3,2019-08-25,분기별 매출액,4002500000,USD,공시,https://www.sec.gov/Archives/edgar/data/40704/000119312519248132/,,18
+General Mills,GIS,2019Q3,2019-08-25,분기별 영업이익,662400000,USD,공시,https://www.sec.gov/Archives/edgar/data/40704/000119312519248132/,,18
+General Mills,GIS,2019Q3,2019-08-25,분기별 당기순이익(지배),520600000,USD,공시,https://www.sec.gov/Archives/edgar/data/40704/000119312519248132/,,18
+General Mills,GIS,2019Q3,2019-08-25,분기별 영업활동현금흐름,572100000,USD,공시,https://www.sec.gov/Archives/edgar/data/40704/000119312519248132/,,18
+General Mills,GIS,2019Q3,2019-08-25,분기말 자산총계,30313200000,USD,공시,https://www.sec.gov/Archives/edgar/data/40704/000119312519248132/,,18
+General Mills,GIS,2019Q3,2019-08-25,분기말 부채총계,22069800000,USD,공시,https://www.sec.gov/Archives/edgar/data/40704/000119312519248132/,메자닌(일시자본) 547800000 별도 (원문 us-gaap:RedeemableNoncontrollingInterestEquityOtherFairValue 547800000),18
+General Mills,GIS,2019Q3,2019-08-25,분기말 총자본(자기자본),7695600000,USD,공시,https://www.sec.gov/Archives/edgar/data/40704/000119312519248132/,,18
+General Mills,GIS,2019Q3,2019-08-25,분기말 지배지분 자본,7382800000,USD,공시,https://www.sec.gov/Archives/edgar/data/40704/000119312519248132/,,18
+General Mills,GIS,2019Q3,2019-08-23,분기말 종가,53.63,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/GIS?interval=1d&events=splits (2019-08-23),,18
+General Mills,GIS,2019Q3,2019-09-10,분기말 상장주식수,604393769,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/40704/000119312519248132/,dei:EntityCommonStockSharesOutstanding 클래스 합,18
+General Mills,GIS,2019Q3,2019-08-23,분기말 시가총액,32413637831,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/GIS?interval=1d&events=splits (2019-08-23) ; https://www.sec.gov/Archives/edgar/data/40704/000119312519248132/,종가 53.63 × 주식수 604393769,18
+General Mills,GIS,2019Q4,2019-11-24,분기별 매출액,4420800000,USD,공시,https://www.sec.gov/Archives/edgar/data/40704/000119312519317557/,,18
+General Mills,GIS,2019Q4,2019-11-24,분기별 영업이익,811200000,USD,공시,https://www.sec.gov/Archives/edgar/data/40704/000119312519317557/,,18
+General Mills,GIS,2019Q4,2019-11-24,분기별 당기순이익(지배),580800000,USD,공시,https://www.sec.gov/Archives/edgar/data/40704/000119312519317557/,,18
+General Mills,GIS,2019Q4,2019-11-24,분기별 영업활동현금흐름,884500000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/40704/000119312519317557/ ; https://www.sec.gov/Archives/edgar/data/40704/000119312519248132/,누적 1456600000 − 직전누적 572100000 (시작 2019-05-27),18
+General Mills,GIS,2019Q4,2019-11-24,분기말 자산총계,30452400000,USD,공시,https://www.sec.gov/Archives/edgar/data/40704/000119312519317557/,,18
+General Mills,GIS,2019Q4,2019-11-24,분기말 부채총계,21886700000,USD,공시,https://www.sec.gov/Archives/edgar/data/40704/000119312519317557/,메자닌(일시자본) 545100000 별도 (원문 us-gaap:RedeemableNoncontrollingInterestEquityOtherFairValue 545100000),18
+General Mills,GIS,2019Q4,2019-11-24,분기말 총자본(자기자본),8020600000,USD,공시,https://www.sec.gov/Archives/edgar/data/40704/000119312519317557/,,18
+General Mills,GIS,2019Q4,2019-11-24,분기말 지배지분 자본,7712300000,USD,공시,https://www.sec.gov/Archives/edgar/data/40704/000119312519317557/,,18
+General Mills,GIS,2019Q4,2019-11-22,분기말 종가,52.69,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/GIS?interval=1d&events=splits (2019-11-22),,18
+General Mills,GIS,2019Q4,2019-12-10,분기말 상장주식수,604816813,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/40704/000119312519317557/,dei:EntityCommonStockSharesOutstanding 클래스 합,18
+General Mills,GIS,2019Q4,2019-11-22,분기말 시가총액,31867797877,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/GIS?interval=1d&events=splits (2019-11-22) ; https://www.sec.gov/Archives/edgar/data/40704/000119312519317557/,종가 52.69 × 주식수 604816813,18
+General Mills,GIS,2020Q1,2020-02-23,분기별 매출액,4180300000,USD,공시,https://www.sec.gov/Archives/edgar/data/40704/000119312520077160/,,18
+General Mills,GIS,2020Q1,2020-02-23,분기별 영업이익,650800000,USD,공시,https://www.sec.gov/Archives/edgar/data/40704/000119312520077160/,,18
+General Mills,GIS,2020Q1,2020-02-23,분기별 당기순이익(지배),454100000,USD,공시,https://www.sec.gov/Archives/edgar/data/40704/000119312520077160/,,18
+General Mills,GIS,2020Q1,2020-02-23,분기별 영업활동현금흐름,703200000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/40704/000119312520077160/ ; https://www.sec.gov/Archives/edgar/data/40704/000119312519317557/,누적 2159800000 − 직전누적 1456600000 (시작 2019-05-27),18
+General Mills,GIS,2020Q1,2020-02-23,분기말 자산총계,30248700000,USD,공시,https://www.sec.gov/Archives/edgar/data/40704/000119312520077160/,,18
+General Mills,GIS,2020Q1,2020-02-23,분기말 부채총계,21850000000,USD,공시,https://www.sec.gov/Archives/edgar/data/40704/000119312520077160/,메자닌(일시자본) 538600000 별도 (원문 us-gaap:RedeemableNoncontrollingInterestEquityOtherFairValue 538600000),18
+General Mills,GIS,2020Q1,2020-02-23,분기말 총자본(자기자본),7860100000,USD,공시,https://www.sec.gov/Archives/edgar/data/40704/000119312520077160/,,18
+General Mills,GIS,2020Q1,2020-02-23,분기말 지배지분 자본,7575100000,USD,공시,https://www.sec.gov/Archives/edgar/data/40704/000119312520077160/,,18
+General Mills,GIS,2020Q1,2020-02-21,분기말 종가,53.92,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/GIS?interval=1d&events=splits (2020-02-21),,18
+General Mills,GIS,2020Q1,2020-03-10,분기말 상장주식수,606138918,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/40704/000119312520077160/,dei:EntityCommonStockSharesOutstanding 클래스 합,18
+General Mills,GIS,2020Q1,2020-02-21,분기말 시가총액,32683010459,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/GIS?interval=1d&events=splits (2020-02-21) ; https://www.sec.gov/Archives/edgar/data/40704/000119312520077160/,종가 53.92 × 주식수 606138918,18
+General Mills,GIS,2020Q2,2020-05-31,분기별 매출액,5023000000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/40704/000119312520186469/ ; https://www.sec.gov/Archives/edgar/data/40704/000119312520077160/,연간 17626600000 − 9개월누적 12603600000 (RevenueFromContractWithCustomerExcludingAssessedTax),18
+General Mills,GIS,2020Q2,2020-05-31,분기별 영업이익,829500000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/40704/000119312520186469/ ; https://www.sec.gov/Archives/edgar/data/40704/000119312520077160/,연간 2953900000 − 9개월누적 2124400000 (OperatingIncomeLoss),18
+General Mills,GIS,2020Q2,2020-05-31,분기별 당기순이익(지배),625700000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/40704/000119312520186469/ ; https://www.sec.gov/Archives/edgar/data/40704/000119312520077160/,연간 2181200000 − 9개월누적 1555500000 (NetIncomeLoss),18
+General Mills,GIS,2020Q2,2020-05-31,분기별 영업활동현금흐름,1516400000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/40704/000119312520186469/ ; https://www.sec.gov/Archives/edgar/data/40704/000119312520077160/,누적 3676200000 − 직전누적 2159800000 (시작 2019-05-27),18
+General Mills,GIS,2020Q2,2020-05-31,분기말 자산총계,30806700000,USD,공시,https://www.sec.gov/Archives/edgar/data/40704/000119312520186469/,,18
+General Mills,GIS,2020Q2,2020-05-31,분기말 부채총계,21912600000,USD,공시,https://www.sec.gov/Archives/edgar/data/40704/000119312520186469/,메자닌(일시자본) 544600000 별도 (원문 us-gaap:RedeemableNoncontrollingInterestEquityOtherFairValue 544600000),18
+General Mills,GIS,2020Q2,2020-05-31,분기말 총자본(자기자본),8349500000,USD,공시,https://www.sec.gov/Archives/edgar/data/40704/000119312520186469/,,18
+General Mills,GIS,2020Q2,2020-05-31,분기말 지배지분 자본,8058500000,USD,공시,https://www.sec.gov/Archives/edgar/data/40704/000119312520186469/,,18
+General Mills,GIS,2020Q2,2020-05-29,분기말 종가,63.04,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/GIS?interval=1d&events=splits (2020-05-29),,18
+General Mills,GIS,2020Q2,2020-06-15,분기말 상장주식수,609869264,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/40704/000119312520186469/,dei:EntityCommonStockSharesOutstanding 클래스 합,18
+General Mills,GIS,2020Q2,2020-05-29,분기말 시가총액,38446158403,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/GIS?interval=1d&events=splits (2020-05-29) ; https://www.sec.gov/Archives/edgar/data/40704/000119312520186469/,종가 63.04 × 주식수 609869264,18
+General Mills,GIS,2020Q3,2020-08-30,분기별 매출액,4364000000,USD,공시,https://www.sec.gov/Archives/edgar/data/40704/000119312520252378/,,18
+General Mills,GIS,2020Q3,2020-08-30,분기별 영업이익,853700000,USD,공시,https://www.sec.gov/Archives/edgar/data/40704/000119312520252378/,,18
+General Mills,GIS,2020Q3,2020-08-30,분기별 당기순이익(지배),638900000,USD,공시,https://www.sec.gov/Archives/edgar/data/40704/000119312520252378/,,18
+General Mills,GIS,2020Q3,2020-08-30,분기별 영업활동현금흐름,583600000,USD,공시,https://www.sec.gov/Archives/edgar/data/40704/000119312520252378/,,18
+General Mills,GIS,2020Q3,2020-08-30,분기말 자산총계,31262200000,USD,공시,https://www.sec.gov/Archives/edgar/data/40704/000119312520252378/,,18
+General Mills,GIS,2020Q3,2020-08-30,분기말 부채총계,21919400000,USD,공시,https://www.sec.gov/Archives/edgar/data/40704/000119312520252378/,메자닌(일시자본) 584900000 별도 (원문 us-gaap:RedeemableNoncontrollingInterestEquityOtherFairValue 584900000),18
+General Mills,GIS,2020Q3,2020-08-30,분기말 총자본(자기자본),8757900000,USD,공시,https://www.sec.gov/Archives/edgar/data/40704/000119312520252378/,,18
+General Mills,GIS,2020Q3,2020-08-30,분기말 지배지분 자본,8444600000,USD,공시,https://www.sec.gov/Archives/edgar/data/40704/000119312520252378/,,18
+General Mills,GIS,2020Q3,2020-08-28,분기말 종가,63.39,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/GIS?interval=1d&events=splits (2020-08-28),,18
+General Mills,GIS,2020Q3,2020-09-15,분기말 상장주식수,611333854,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/40704/000119312520252378/,dei:EntityCommonStockSharesOutstanding 클래스 합,18
+General Mills,GIS,2020Q3,2020-08-28,분기말 시가총액,38752453005,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/GIS?interval=1d&events=splits (2020-08-28) ; https://www.sec.gov/Archives/edgar/data/40704/000119312520252378/,종가 63.39 × 주식수 611333854,18
+General Mills,GIS,2020Q4,2020-11-29,분기별 매출액,4719400000,USD,공시,https://www.sec.gov/Archives/edgar/data/40704/000119312520320164/,,18
+General Mills,GIS,2020Q4,2020-11-29,분기별 영업이익,916600000,USD,공시,https://www.sec.gov/Archives/edgar/data/40704/000119312520320164/,,18
+General Mills,GIS,2020Q4,2020-11-29,분기별 당기순이익(지배),688400000,USD,공시,https://www.sec.gov/Archives/edgar/data/40704/000119312520320164/,,18
+General Mills,GIS,2020Q4,2020-11-29,분기별 영업활동현금흐름,843200000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/40704/000119312520320164/ ; https://www.sec.gov/Archives/edgar/data/40704/000119312520252378/,누적 1426800000 − 직전누적 583600000 (시작 2020-06-01),18
+General Mills,GIS,2020Q4,2020-11-29,분기말 자산총계,32307600000,USD,공시,https://www.sec.gov/Archives/edgar/data/40704/000119312520320164/,,18
+General Mills,GIS,2020Q4,2020-11-29,분기말 부채총계,22867300000,USD,공시,https://www.sec.gov/Archives/edgar/data/40704/000119312520320164/,메자닌(일시자본) 587700000 별도 (원문 us-gaap:RedeemableNoncontrollingInterestEquityOtherFairValue 587700000),18
+General Mills,GIS,2020Q4,2020-11-29,분기말 총자본(자기자본),8852600000,USD,공시,https://www.sec.gov/Archives/edgar/data/40704/000119312520320164/,,18
+General Mills,GIS,2020Q4,2020-11-29,분기말 지배지분 자본,8550000000,USD,공시,https://www.sec.gov/Archives/edgar/data/40704/000119312520320164/,,18
+General Mills,GIS,2020Q4,2020-11-27,분기말 종가,60.13,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/GIS?interval=1d&events=splits (2020-11-27),,18
+General Mills,GIS,2020Q4,2020-12-10,분기말 상장주식수,611436598,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/40704/000119312520320164/,dei:EntityCommonStockSharesOutstanding 클래스 합,18
+General Mills,GIS,2020Q4,2020-11-27,분기말 시가총액,36765682638,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/GIS?interval=1d&events=splits (2020-11-27) ; https://www.sec.gov/Archives/edgar/data/40704/000119312520320164/,종가 60.13 × 주식수 611436598,18
+General Mills,GIS,2021Q1,2021-02-28,분기별 매출액,4520000000,USD,공시,https://www.sec.gov/Archives/edgar/data/40704/000119312521092576/,,18
+General Mills,GIS,2021Q1,2021-02-28,분기별 영업이익,826600000,USD,공시,https://www.sec.gov/Archives/edgar/data/40704/000119312521092576/,,18
+General Mills,GIS,2021Q1,2021-02-28,분기별 당기순이익(지배),595700000,USD,공시,https://www.sec.gov/Archives/edgar/data/40704/000119312521092576/,,18
+General Mills,GIS,2021Q1,2021-02-28,분기별 영업활동현금흐름,781100000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/40704/000119312521092576/ ; https://www.sec.gov/Archives/edgar/data/40704/000119312520320164/,누적 2207900000 − 직전누적 1426800000 (시작 2020-06-01),18
+General Mills,GIS,2021Q1,2021-02-28,분기말 자산총계,32648800000,USD,공시,https://www.sec.gov/Archives/edgar/data/40704/000119312521092576/,,18
+General Mills,GIS,2021Q1,2021-02-28,분기말 부채총계,22864900000,USD,공시,https://www.sec.gov/Archives/edgar/data/40704/000119312521092576/,메자닌(일시자본) 596000000 별도 (원문 us-gaap:RedeemableNoncontrollingInterestEquityOtherFairValue 596000000),18
+General Mills,GIS,2021Q1,2021-02-28,분기말 총자본(자기자본),9187900000,USD,공시,https://www.sec.gov/Archives/edgar/data/40704/000119312521092576/,,18
+General Mills,GIS,2021Q1,2021-02-28,분기말 지배지분 자본,8890300000,USD,공시,https://www.sec.gov/Archives/edgar/data/40704/000119312521092576/,,18
+General Mills,GIS,2021Q1,2021-02-26,분기말 종가,55.01,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/GIS?interval=1d&events=splits (2021-02-26),,18
+General Mills,GIS,2021Q1,2021-03-15,분기말 상장주식수,609971269,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/40704/000119312521092576/,dei:EntityCommonStockSharesOutstanding 클래스 합,18
+General Mills,GIS,2021Q1,2021-02-26,분기말 시가총액,33554519508,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/GIS?interval=1d&events=splits (2021-02-26) ; https://www.sec.gov/Archives/edgar/data/40704/000119312521092576/,종가 55.01 × 주식수 609971269,18
+General Mills,GIS,2021Q2,2021-05-30,분기별 매출액,-11414200000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/40704/000119312521204830/ ; https://www.sec.gov/Archives/edgar/data/40704/000119312521092576/,연간 2189200000 − 9개월누적 13603400000 (Revenues / 9개월 RevenueFromContractWithCustomerExcludingAssessedTax),18
+General Mills,GIS,2021Q2,2021-05-30,분기별 영업이익,547900000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/40704/000119312521204830/ ; https://www.sec.gov/Archives/edgar/data/40704/000119312521092576/,연간 3144800000 − 9개월누적 2596900000 (OperatingIncomeLoss),18
+General Mills,GIS,2021Q2,2021-05-30,분기별 당기순이익(지배),416800000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/40704/000119312521204830/ ; https://www.sec.gov/Archives/edgar/data/40704/000119312521092576/,연간 2339800000 − 9개월누적 1923000000 (NetIncomeLoss),18
+General Mills,GIS,2021Q2,2021-05-30,분기별 영업활동현금흐름,775300000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/40704/000119312521204830/ ; https://www.sec.gov/Archives/edgar/data/40704/000119312521092576/,누적 2983200000 − 직전누적 2207900000 (시작 2020-06-01),18
+General Mills,GIS,2021Q2,2021-05-30,분기말 자산총계,31841900000,USD,공시,https://www.sec.gov/Archives/edgar/data/40704/000119312521204830/,,18
+General Mills,GIS,2021Q2,2021-05-30,분기말 부채총계,21463800000,USD,공시,https://www.sec.gov/Archives/edgar/data/40704/000119312521204830/,메자닌(일시자본) 604900000 별도 (원문 us-gaap:RedeemableNoncontrollingInterestEquityOtherFairValue 604900000),18
+General Mills,GIS,2021Q2,2021-05-30,분기말 총자본(자기자본),9773200000,USD,공시,https://www.sec.gov/Archives/edgar/data/40704/000119312521204830/,,18
+General Mills,GIS,2021Q2,2021-05-30,분기말 지배지분 자본,9470400000,USD,공시,https://www.sec.gov/Archives/edgar/data/40704/000119312521204830/,,18
+General Mills,GIS,2021Q2,2021-05-28,분기말 종가,62.86,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/GIS?interval=1d&events=splits (2021-05-28),,18
+General Mills,GIS,2021Q2,2021-06-15,분기말 상장주식수,607210408,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/40704/000119312521204830/,dei:EntityCommonStockSharesOutstanding 클래스 합,18
+General Mills,GIS,2021Q2,2021-05-28,분기말 시가총액,38169246247,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/GIS?interval=1d&events=splits (2021-05-28) ; https://www.sec.gov/Archives/edgar/data/40704/000119312521204830/,종가 62.86 × 주식수 607210408,18
+General Mills,GIS,2021Q3,2021-08-29,분기별 매출액,4539900000,USD,공시,https://www.sec.gov/Archives/edgar/data/40704/000119312521279392/,,18
+General Mills,GIS,2021Q3,2021-08-29,분기별 영업이익,844300000,USD,공시,https://www.sec.gov/Archives/edgar/data/40704/000119312521279392/,,18
+General Mills,GIS,2021Q3,2021-08-29,분기별 당기순이익(지배),627000000,USD,공시,https://www.sec.gov/Archives/edgar/data/40704/000119312521279392/,,18
+General Mills,GIS,2021Q3,2021-08-29,분기별 영업활동현금흐름,369800000,USD,공시,https://www.sec.gov/Archives/edgar/data/40704/000119312521279392/,,18
+General Mills,GIS,2021Q3,2021-08-29,분기말 자산총계,32332200000,USD,공시,https://www.sec.gov/Archives/edgar/data/40704/000119312521279392/,,18
+General Mills,GIS,2021Q3,2021-08-29,분기말 부채총계,21762400000,USD,공시,https://www.sec.gov/Archives/edgar/data/40704/000119312521279392/,메자닌(일시자본) 584000000 별도 (원문 us-gaap:RedeemableNoncontrollingInterestEquityOtherFairValue 584000000),18
+General Mills,GIS,2021Q3,2021-08-29,분기말 총자본(자기자본),9985800000,USD,공시,https://www.sec.gov/Archives/edgar/data/40704/000119312521279392/,,18
+General Mills,GIS,2021Q3,2021-08-29,분기말 지배지분 자본,9692300000,USD,공시,https://www.sec.gov/Archives/edgar/data/40704/000119312521279392/,,18
+General Mills,GIS,2021Q3,2021-08-27,분기말 종가,57.73,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/GIS?interval=1d&events=splits (2021-08-27),,18
+General Mills,GIS,2021Q3,2021-09-14,분기말 상장주식수,605692452,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/40704/000119312521279392/,dei:EntityCommonStockSharesOutstanding 클래스 합,18
+General Mills,GIS,2021Q3,2021-08-27,분기말 시가총액,34966625254,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/GIS?interval=1d&events=splits (2021-08-27) ; https://www.sec.gov/Archives/edgar/data/40704/000119312521279392/,종가 57.73 × 주식수 605692452,18
+General Mills,GIS,2021Q4,2021-11-28,분기별 매출액,5024000000,USD,공시,https://www.sec.gov/Archives/edgar/data/40704/000119312521363624/,,18
+General Mills,GIS,2021Q4,2021-11-28,분기별 영업이익,800100000,USD,공시,https://www.sec.gov/Archives/edgar/data/40704/000119312521363624/,,18
+General Mills,GIS,2021Q4,2021-11-28,분기별 당기순이익(지배),597200000,USD,공시,https://www.sec.gov/Archives/edgar/data/40704/000119312521363624/,,18
+General Mills,GIS,2021Q4,2021-11-28,분기별 영업활동현금흐름,1128000000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/40704/000119312521363624/ ; https://www.sec.gov/Archives/edgar/data/40704/000119312521279392/,누적 1497800000 − 직전누적 369800000 (시작 2021-05-31),18
+General Mills,GIS,2021Q4,2021-11-28,분기말 자산총계,32481600000,USD,공시,https://www.sec.gov/Archives/edgar/data/40704/000119312521363624/,,18
+General Mills,GIS,2021Q4,2021-11-28,분기말 부채총계,22115300000,USD,공시,https://www.sec.gov/Archives/edgar/data/40704/000119312521363624/,메자닌(일시자본) 561600000 별도 (원문 us-gaap:RedeemableNoncontrollingInterestEquityOtherFairValue 561600000),18
+General Mills,GIS,2021Q4,2021-11-28,분기말 총자본(자기자본),9804700000,USD,공시,https://www.sec.gov/Archives/edgar/data/40704/000119312521363624/,,18
+General Mills,GIS,2021Q4,2021-11-28,분기말 지배지분 자본,9524500000,USD,공시,https://www.sec.gov/Archives/edgar/data/40704/000119312521363624/,,18
+General Mills,GIS,2021Q4,2021-11-26,분기말 종가,62.76,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/GIS?interval=1d&events=splits (2021-11-26),,18
+General Mills,GIS,2021Q4,2021-12-14,분기말 상장주식수,603206700,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/40704/000119312521363624/,dei:EntityCommonStockSharesOutstanding 클래스 합,18
+General Mills,GIS,2021Q4,2021-11-26,분기말 시가총액,37857252492,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/GIS?interval=1d&events=splits (2021-11-26) ; https://www.sec.gov/Archives/edgar/data/40704/000119312521363624/,종가 62.76 × 주식수 603206700,18
+General Mills,GIS,2022Q1,2022-02-27,분기별 매출액,4537700000,USD,공시,https://www.sec.gov/Archives/edgar/data/40704/000119312522082733/,,18
+General Mills,GIS,2022Q1,2022-02-27,분기별 영업이익,815300000,USD,공시,https://www.sec.gov/Archives/edgar/data/40704/000119312522082733/,,18
+General Mills,GIS,2022Q1,2022-02-27,분기별 당기순이익(지배),660300000,USD,공시,https://www.sec.gov/Archives/edgar/data/40704/000119312522082733/,,18
+General Mills,GIS,2022Q1,2022-02-27,분기별 영업활동현금흐름,730300000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/40704/000119312522082733/ ; https://www.sec.gov/Archives/edgar/data/40704/000119312521363624/,누적 2228100000 − 직전누적 1497800000 (시작 2021-05-31),18
+General Mills,GIS,2022Q1,2022-02-27,분기말 자산총계,31143800000,USD,공시,https://www.sec.gov/Archives/edgar/data/40704/000119312522082733/,,18
+General Mills,GIS,2022Q1,2022-02-27,분기말 부채총계,21068100000,USD,공시,https://www.sec.gov/Archives/edgar/data/40704/000119312522082733/,,18
+General Mills,GIS,2022Q1,2022-02-27,분기말 총자본(자기자본),10075700000,USD,공시,https://www.sec.gov/Archives/edgar/data/40704/000119312522082733/,,18
+General Mills,GIS,2022Q1,2022-02-27,분기말 지배지분 자본,9812900000,USD,공시,https://www.sec.gov/Archives/edgar/data/40704/000119312522082733/,,18
+General Mills,GIS,2022Q1,2022-02-25,분기말 종가,67.99,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/GIS?interval=1d&events=splits (2022-02-25),,18
+General Mills,GIS,2022Q1,2022-03-14,분기말 상장주식수,602212031,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/40704/000119312522082733/,dei:EntityCommonStockSharesOutstanding 클래스 합,18
+General Mills,GIS,2022Q1,2022-02-25,분기말 시가총액,40944395988,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/GIS?interval=1d&events=splits (2022-02-25) ; https://www.sec.gov/Archives/edgar/data/40704/000119312522082733/,종가 67.99 × 주식수 602212031,18
+General Mills,GIS,2022Q2,2022-05-29,분기별 매출액,-11967300000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/40704/000119312522185257/ ; https://www.sec.gov/Archives/edgar/data/40704/000119312522082733/,연간 2134300000 − 9개월누적 14101600000 (Revenues / 9개월 RevenueFromContractWithCustomerExcludingAssessedTax),18
+General Mills,GIS,2022Q2,2022-05-29,분기별 영업이익,1016100000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/40704/000119312522185257/ ; https://www.sec.gov/Archives/edgar/data/40704/000119312522082733/,연간 3475800000 − 9개월누적 2459700000 (OperatingIncomeLoss),18
+General Mills,GIS,2022Q2,2022-05-29,분기별 당기순이익(지배),822800000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/40704/000119312522185257/ ; https://www.sec.gov/Archives/edgar/data/40704/000119312522082733/,연간 2707300000 − 9개월누적 1884500000 (NetIncomeLoss),18
+General Mills,GIS,2022Q2,2022-05-29,분기별 영업활동현금흐름,1088000000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/40704/000119312522185257/ ; https://www.sec.gov/Archives/edgar/data/40704/000119312522082733/,누적 3316100000 − 직전누적 2228100000 (시작 2021-05-31),18
+General Mills,GIS,2022Q2,2022-05-29,분기말 자산총계,31090100000,USD,공시,https://www.sec.gov/Archives/edgar/data/40704/000119312522185257/,,18
+General Mills,GIS,2022Q2,2022-05-29,분기말 부채총계,20302100000,USD,공시,https://www.sec.gov/Archives/edgar/data/40704/000119312522185257/,,18
+General Mills,GIS,2022Q2,2022-05-29,분기말 총자본(자기자본),10788000000,USD,공시,https://www.sec.gov/Archives/edgar/data/40704/000119312522185257/,,18
+General Mills,GIS,2022Q2,2022-05-29,분기말 지배지분 자본,10542400000,USD,공시,https://www.sec.gov/Archives/edgar/data/40704/000119312522185257/,,18
+General Mills,GIS,2022Q2,2022-05-27,분기말 종가,69.89,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/GIS?interval=1d&events=splits (2022-05-27),,18
+General Mills,GIS,2022Q2,2022-06-15,분기말 상장주식수,597158440,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/40704/000119312522185257/,dei:EntityCommonStockSharesOutstanding 클래스 합,18
+General Mills,GIS,2022Q2,2022-05-27,분기말 시가총액,41735403372,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/GIS?interval=1d&events=splits (2022-05-27) ; https://www.sec.gov/Archives/edgar/data/40704/000119312522185257/,종가 69.89 × 주식수 597158440,18
+General Mills,GIS,2022Q3,2022-08-28,분기별 매출액,4717600000,USD,공시,https://www.sec.gov/Archives/edgar/data/40704/000119312522248384/,,18
+General Mills,GIS,2022Q3,2022-08-28,분기별 영업이익,1085600000,USD,공시,https://www.sec.gov/Archives/edgar/data/40704/000119312522248384/,,18
+General Mills,GIS,2022Q3,2022-08-28,분기별 당기순이익(지배),820000000,USD,공시,https://www.sec.gov/Archives/edgar/data/40704/000119312522248384/,,18
+General Mills,GIS,2022Q3,2022-08-28,분기별 영업활동현금흐름,388800000,USD,공시,https://www.sec.gov/Archives/edgar/data/40704/000119312522248384/,,18
+General Mills,GIS,2022Q3,2022-08-28,분기말 자산총계,31107200000,USD,공시,https://www.sec.gov/Archives/edgar/data/40704/000119312522248384/,,18
+General Mills,GIS,2022Q3,2022-08-28,분기말 부채총계,20281600000,USD,공시,https://www.sec.gov/Archives/edgar/data/40704/000119312522248384/,,18
+General Mills,GIS,2022Q3,2022-08-28,분기말 총자본(자기자본),10825600000,USD,공시,https://www.sec.gov/Archives/edgar/data/40704/000119312522248384/,,18
+General Mills,GIS,2022Q3,2022-08-28,분기말 지배지분 자본,10574800000,USD,공시,https://www.sec.gov/Archives/edgar/data/40704/000119312522248384/,,18
+General Mills,GIS,2022Q3,2022-08-26,분기말 종가,76.32,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/GIS?interval=1d&events=splits (2022-08-26),,18
+General Mills,GIS,2022Q3,2022-09-14,분기말 상장주식수,593535650,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/40704/000119312522248384/,dei:EntityCommonStockSharesOutstanding 클래스 합,18
+General Mills,GIS,2022Q3,2022-08-26,분기말 시가총액,45298640808,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/GIS?interval=1d&events=splits (2022-08-26) ; https://www.sec.gov/Archives/edgar/data/40704/000119312522248384/,종가 76.32 × 주식수 593535650,18
+General Mills,GIS,2022Q4,2022-11-27,분기별 매출액,5220700000,USD,공시,https://www.sec.gov/Archives/edgar/data/40704/000119312522309146/,,18
+General Mills,GIS,2022Q4,2022-11-27,분기별 영업이익,799800000,USD,공시,https://www.sec.gov/Archives/edgar/data/40704/000119312522309146/,,18
+General Mills,GIS,2022Q4,2022-11-27,분기별 당기순이익(지배),605900000,USD,공시,https://www.sec.gov/Archives/edgar/data/40704/000119312522309146/,,18
+General Mills,GIS,2022Q4,2022-11-27,분기별 영업활동현금흐름,811900000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/40704/000119312522309146/ ; https://www.sec.gov/Archives/edgar/data/40704/000119312522248384/,누적 1200700000 − 직전누적 388800000 (시작 2022-05-30),18
+General Mills,GIS,2022Q4,2022-11-27,분기말 자산총계,31319800000,USD,공시,https://www.sec.gov/Archives/edgar/data/40704/000119312522309146/,,18
+General Mills,GIS,2022Q4,2022-11-27,분기말 부채총계,20947700000,USD,공시,https://www.sec.gov/Archives/edgar/data/40704/000119312522309146/,,18
+General Mills,GIS,2022Q4,2022-11-27,분기말 총자본(자기자본),10372100000,USD,공시,https://www.sec.gov/Archives/edgar/data/40704/000119312522309146/,,18
+General Mills,GIS,2022Q4,2022-11-27,분기말 지배지분 자본,10121200000,USD,공시,https://www.sec.gov/Archives/edgar/data/40704/000119312522309146/,,18
+General Mills,GIS,2022Q4,2022-11-25,분기말 종가,82.97,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/GIS?interval=1d&events=splits (2022-11-25),,18
+General Mills,GIS,2022Q4,2022-12-13,분기말 상장주식수,589610717,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/40704/000119312522309146/,dei:EntityCommonStockSharesOutstanding 클래스 합,18
+General Mills,GIS,2022Q4,2022-11-25,분기말 시가총액,48920001189,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/GIS?interval=1d&events=splits (2022-11-25) ; https://www.sec.gov/Archives/edgar/data/40704/000119312522309146/,종가 82.97 × 주식수 589610717,18
+General Mills,GIS,2023Q1,2023-02-26,분기별 매출액,5125900000,USD,공시,https://www.sec.gov/Archives/edgar/data/40704/000119312523077864/,,18
+General Mills,GIS,2023Q1,2023-02-26,분기별 영업이익,730200000,USD,공시,https://www.sec.gov/Archives/edgar/data/40704/000119312523077864/,,18
+General Mills,GIS,2023Q1,2023-02-26,분기별 당기순이익(지배),553100000,USD,공시,https://www.sec.gov/Archives/edgar/data/40704/000119312523077864/,,18
+General Mills,GIS,2023Q1,2023-02-26,분기별 영업활동현금흐름,826300000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/40704/000119312523077864/ ; https://www.sec.gov/Archives/edgar/data/40704/000119312522309146/,누적 2027000000 − 직전누적 1200700000 (시작 2022-05-30),18
+General Mills,GIS,2023Q1,2023-02-26,분기말 자산총계,31199800000,USD,공시,https://www.sec.gov/Archives/edgar/data/40704/000119312523077864/,,18
+General Mills,GIS,2023Q1,2023-02-26,분기말 부채총계,20716100000,USD,공시,https://www.sec.gov/Archives/edgar/data/40704/000119312523077864/,,18
+General Mills,GIS,2023Q1,2023-02-26,분기말 총자본(자기자본),10483700000,USD,공시,https://www.sec.gov/Archives/edgar/data/40704/000119312523077864/,,18
+General Mills,GIS,2023Q1,2023-02-26,분기말 지배지분 자본,10234500000,USD,공시,https://www.sec.gov/Archives/edgar/data/40704/000119312523077864/,,18
+General Mills,GIS,2023Q1,2023-02-24,분기말 종가,80.64,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/GIS?interval=1d&events=splits (2023-02-24),,18
+General Mills,GIS,2023Q1,2023-03-13,분기말 상장주식수,587354488,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/40704/000119312523077864/,dei:EntityCommonStockSharesOutstanding 클래스 합,18
+General Mills,GIS,2023Q1,2023-02-24,분기말 시가총액,47364265912,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/GIS?interval=1d&events=splits (2023-02-24) ; https://www.sec.gov/Archives/edgar/data/40704/000119312523077864/,종가 80.64 × 주식수 587354488,18
+General Mills,GIS,2023Q2,2023-05-28,분기별 매출액,-13106800000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/40704/000119312523177500/ ; https://www.sec.gov/Archives/edgar/data/40704/000119312523077864/,연간 1957400000 − 9개월누적 15064200000 (Revenues / 9개월 RevenueFromContractWithCustomerExcludingAssessedTax),18
+General Mills,GIS,2023Q2,2023-05-28,분기별 영업이익,818200000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/40704/000119312523177500/ ; https://www.sec.gov/Archives/edgar/data/40704/000119312523077864/,연간 3433800000 − 9개월누적 2615600000 (OperatingIncomeLoss),18
+General Mills,GIS,2023Q2,2023-05-28,분기별 당기순이익(지배),614900000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/40704/000119312523177500/ ; https://www.sec.gov/Archives/edgar/data/40704/000119312523077864/,연간 2593900000 − 9개월누적 1979000000 (NetIncomeLoss),18
+General Mills,GIS,2023Q2,2023-05-28,분기별 영업활동현금흐름,751600000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/40704/000119312523177500/ ; https://www.sec.gov/Archives/edgar/data/40704/000119312523077864/,누적 2778600000 − 직전누적 2027000000 (시작 2022-05-30),18
+General Mills,GIS,2023Q2,2023-05-28,분기말 자산총계,31451700000,USD,공시,https://www.sec.gov/Archives/edgar/data/40704/000119312523177500/,,18
+General Mills,GIS,2023Q2,2023-05-28,분기말 부채총계,20751700000,USD,공시,https://www.sec.gov/Archives/edgar/data/40704/000119312523177500/,,18
+General Mills,GIS,2023Q2,2023-05-28,분기말 총자본(자기자본),10700000000,USD,공시,https://www.sec.gov/Archives/edgar/data/40704/000119312523177500/,,18
+General Mills,GIS,2023Q2,2023-05-28,분기말 지배지분 자본,10449600000,USD,공시,https://www.sec.gov/Archives/edgar/data/40704/000119312523177500/,,18
+General Mills,GIS,2023Q2,2023-05-26,분기말 종가,84.18,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/GIS?interval=1d&events=splits (2023-05-26),,18
+General Mills,GIS,2023Q2,2023-06-14,분기말 상장주식수,585182745,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/40704/000119312523177500/,dei:EntityCommonStockSharesOutstanding 클래스 합,18
+General Mills,GIS,2023Q2,2023-05-26,분기말 시가총액,49260683474,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/GIS?interval=1d&events=splits (2023-05-26) ; https://www.sec.gov/Archives/edgar/data/40704/000119312523177500/,종가 84.18 × 주식수 585182745,18
+General Mills,GIS,2023Q3,2023-08-27,분기별 매출액,4904700000,USD,공시,https://www.sec.gov/Archives/edgar/data/40704/000119312523238563/,,18
+General Mills,GIS,2023Q3,2023-08-27,분기별 영업이익,930000000,USD,공시,https://www.sec.gov/Archives/edgar/data/40704/000119312523238563/,,18
+General Mills,GIS,2023Q3,2023-08-27,분기별 당기순이익(지배),673500000,USD,공시,https://www.sec.gov/Archives/edgar/data/40704/000119312523238563/,,18
+General Mills,GIS,2023Q3,2023-08-27,분기별 영업활동현금흐름,378100000,USD,공시,https://www.sec.gov/Archives/edgar/data/40704/000119312523238563/,,18
+General Mills,GIS,2023Q3,2023-08-27,분기말 자산총계,31319700000,USD,공시,https://www.sec.gov/Archives/edgar/data/40704/000119312523238563/,,18
+General Mills,GIS,2023Q3,2023-08-27,분기말 부채총계,20804300000,USD,공시,https://www.sec.gov/Archives/edgar/data/40704/000119312523238563/,,18
+General Mills,GIS,2023Q3,2023-08-27,분기말 총자본(자기자본),10515400000,USD,공시,https://www.sec.gov/Archives/edgar/data/40704/000119312523238563/,,18
+General Mills,GIS,2023Q3,2023-08-27,분기말 지배지분 자본,10262400000,USD,공시,https://www.sec.gov/Archives/edgar/data/40704/000119312523238563/,,18
+General Mills,GIS,2023Q3,2023-08-25,분기말 종가,68.37,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/GIS?interval=1d&events=splits (2023-08-25),,18
+General Mills,GIS,2023Q3,2023-09-13,분기말 상장주식수,581279229,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/40704/000119312523238563/,dei:EntityCommonStockSharesOutstanding 클래스 합,18
+General Mills,GIS,2023Q3,2023-08-25,분기말 시가총액,39742060887,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/GIS?interval=1d&events=splits (2023-08-25) ; https://www.sec.gov/Archives/edgar/data/40704/000119312523238563/,종가 68.37 × 주식수 581279229,18
+General Mills,GIS,2023Q4,2023-11-26,분기별 매출액,5139400000,USD,공시,https://www.sec.gov/Archives/edgar/data/40704/000119312523299930/,,18
+General Mills,GIS,2023Q4,2023-11-26,분기별 영업이익,811800000,USD,공시,https://www.sec.gov/Archives/edgar/data/40704/000119312523299930/,,18
+General Mills,GIS,2023Q4,2023-11-26,분기별 당기순이익(지배),595500000,USD,공시,https://www.sec.gov/Archives/edgar/data/40704/000119312523299930/,,18
+General Mills,GIS,2023Q4,2023-11-26,분기별 영업활동현금흐름,1117700000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/40704/000119312523299930/ ; https://www.sec.gov/Archives/edgar/data/40704/000119312523238563/,누적 1495800000 − 직전누적 378100000 (시작 2023-05-29),18
+General Mills,GIS,2023Q4,2023-11-26,분기말 자산총계,31233400000,USD,공시,https://www.sec.gov/Archives/edgar/data/40704/000119312523299930/,,18
+General Mills,GIS,2023Q4,2023-11-26,분기말 부채총계,21601500000,USD,공시,https://www.sec.gov/Archives/edgar/data/40704/000119312523299930/,,18
+General Mills,GIS,2023Q4,2023-11-26,분기말 총자본(자기자본),9631900000,USD,공시,https://www.sec.gov/Archives/edgar/data/40704/000119312523299930/,,18
+General Mills,GIS,2023Q4,2023-11-26,분기말 지배지분 자본,9378800000,USD,공시,https://www.sec.gov/Archives/edgar/data/40704/000119312523299930/,,18
+General Mills,GIS,2023Q4,2023-11-24,분기말 종가,65.18,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/GIS?interval=1d&events=splits (2023-11-24),,18
+General Mills,GIS,2023Q4,2023-12-13,분기말 상장주식수,567890100,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/40704/000119312523299930/,dei:EntityCommonStockSharesOutstanding 클래스 합,18
+General Mills,GIS,2023Q4,2023-11-24,분기말 시가총액,37015076718,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/GIS?interval=1d&events=splits (2023-11-24) ; https://www.sec.gov/Archives/edgar/data/40704/000119312523299930/,종가 65.18 × 주식수 567890100,18
+General Mills,GIS,2024Q1,2024-02-25,분기별 매출액,5099200000,USD,공시,https://www.sec.gov/Archives/edgar/data/40704/000119312524072690/,,18
+General Mills,GIS,2024Q1,2024-02-25,분기별 영업이익,910700000,USD,공시,https://www.sec.gov/Archives/edgar/data/40704/000119312524072690/,,18
+General Mills,GIS,2024Q1,2024-02-25,분기별 당기순이익(지배),670100000,USD,공시,https://www.sec.gov/Archives/edgar/data/40704/000119312524072690/,,18
+General Mills,GIS,2024Q1,2024-02-25,분기별 영업활동현금흐름,943100000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/40704/000119312524072690/ ; https://www.sec.gov/Archives/edgar/data/40704/000119312523299930/,누적 2438900000 − 직전누적 1495800000 (시작 2023-05-29),18
+General Mills,GIS,2024Q1,2024-02-25,분기말 자산총계,30860500000,USD,공시,https://www.sec.gov/Archives/edgar/data/40704/000119312524072690/,,18
+General Mills,GIS,2024Q1,2024-02-25,분기말 부채총계,21169200000,USD,공시,https://www.sec.gov/Archives/edgar/data/40704/000119312524072690/,,18
+General Mills,GIS,2024Q1,2024-02-25,분기말 총자본(자기자본),9691300000,USD,공시,https://www.sec.gov/Archives/edgar/data/40704/000119312524072690/,,18
+General Mills,GIS,2024Q1,2024-02-25,분기말 지배지분 자본,9436800000,USD,공시,https://www.sec.gov/Archives/edgar/data/40704/000119312524072690/,,18
+General Mills,GIS,2024Q1,2024-02-23,분기말 종가,65.32,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/GIS?interval=1d&events=splits (2024-02-23),,18
+General Mills,GIS,2024Q1,2024-03-13,분기말 상장주식수,564548763,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/40704/000119312524072690/,dei:EntityCommonStockSharesOutstanding 클래스 합,18
+General Mills,GIS,2024Q1,2024-02-23,분기말 시가총액,36876325199,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/GIS?interval=1d&events=splits (2024-02-23) ; https://www.sec.gov/Archives/edgar/data/40704/000119312524072690/,종가 65.32 × 주식수 564548763,18
+General Mills,GIS,2024Q2,2024-05-26,분기별 매출액,-13105500000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/40704/000119312524168943/ ; https://www.sec.gov/Archives/edgar/data/40704/000119312524072690/,연간 2037800000 − 9개월누적 15143300000 (Revenues / 9개월 RevenueFromContractWithCustomerExcludingAssessedTax),18
+General Mills,GIS,2024Q2,2024-05-26,분기별 영업이익,779200000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/40704/000119312524168943/ ; https://www.sec.gov/Archives/edgar/data/40704/000119312524072690/,연간 3431700000 − 9개월누적 2652500000 (OperatingIncomeLoss),18
+General Mills,GIS,2024Q2,2024-05-26,분기별 당기순이익(지배),557500000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/40704/000119312524168943/ ; https://www.sec.gov/Archives/edgar/data/40704/000119312524072690/,연간 2496600000 − 9개월누적 1939100000 (NetIncomeLoss),18
+General Mills,GIS,2024Q2,2024-05-26,분기별 영업활동현금흐름,863700000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/40704/000119312524168943/ ; https://www.sec.gov/Archives/edgar/data/40704/000119312524072690/,누적 3302600000 − 직전누적 2438900000 (시작 2023-05-29),18
+General Mills,GIS,2024Q2,2024-05-26,분기말 자산총계,31469900000,USD,공시,https://www.sec.gov/Archives/edgar/data/40704/000119312524168943/,,18
+General Mills,GIS,2024Q2,2024-05-26,분기말 부채총계,21821400000,USD,공시,https://www.sec.gov/Archives/edgar/data/40704/000119312524168943/,,18
+General Mills,GIS,2024Q2,2024-05-26,분기말 총자본(자기자본),9648500000,USD,공시,https://www.sec.gov/Archives/edgar/data/40704/000119312524168943/,,18
+General Mills,GIS,2024Q2,2024-05-26,분기말 지배지분 자본,9396700000,USD,공시,https://www.sec.gov/Archives/edgar/data/40704/000119312524168943/,,18
+General Mills,GIS,2024Q2,2024-05-24,분기말 종가,68.3,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/GIS?interval=1d&events=splits (2024-05-24),,18
+General Mills,GIS,2024Q2,2024-06-10,분기말 상장주식수,558145667,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/40704/000119312524168943/,dei:EntityCommonStockSharesOutstanding 클래스 합,18
+General Mills,GIS,2024Q2,2024-05-24,분기말 시가총액,38121349056,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/GIS?interval=1d&events=splits (2024-05-24) ; https://www.sec.gov/Archives/edgar/data/40704/000119312524168943/,종가 68.3 × 주식수 558145667,18
+General Mills,GIS,2024Q3,2024-08-25,분기별 매출액,4848100000,USD,공시,https://www.sec.gov/Archives/edgar/data/40704/000119312524221344/,,18
+General Mills,GIS,2024Q3,2024-08-25,분기별 영업이익,831500000,USD,공시,https://www.sec.gov/Archives/edgar/data/40704/000119312524221344/,,18
+General Mills,GIS,2024Q3,2024-08-25,분기별 당기순이익(지배),579900000,USD,공시,https://www.sec.gov/Archives/edgar/data/40704/000119312524221344/,,18
+General Mills,GIS,2024Q3,2024-08-25,분기별 영업활동현금흐름,624200000,USD,공시,https://www.sec.gov/Archives/edgar/data/40704/000119312524221344/,,18
+General Mills,GIS,2024Q3,2024-08-25,분기말 자산총계,31769200000,USD,공시,https://www.sec.gov/Archives/edgar/data/40704/000119312524221344/,,18
+General Mills,GIS,2024Q3,2024-08-25,분기말 부채총계,22242600000,USD,공시,https://www.sec.gov/Archives/edgar/data/40704/000119312524221344/,,18
+General Mills,GIS,2024Q3,2024-08-25,분기말 총자본(자기자본),9526600000,USD,공시,https://www.sec.gov/Archives/edgar/data/40704/000119312524221344/,,18
+General Mills,GIS,2024Q3,2024-08-25,분기말 지배지분 자본,9275600000,USD,공시,https://www.sec.gov/Archives/edgar/data/40704/000119312524221344/,,18
+General Mills,GIS,2024Q3,2024-08-23,분기말 종가,70.83,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/GIS?interval=1d&events=splits (2024-08-23),,18
+General Mills,GIS,2024Q3,2024-09-11,분기말 상장주식수,555158898,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/40704/000119312524221344/,dei:EntityCommonStockSharesOutstanding 클래스 합,18
+General Mills,GIS,2024Q3,2024-08-23,분기말 시가총액,39321904745,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/GIS?interval=1d&events=splits (2024-08-23) ; https://www.sec.gov/Archives/edgar/data/40704/000119312524221344/,종가 70.83 × 주식수 555158898,18
+General Mills,GIS,2024Q4,2024-11-24,분기별 매출액,5240100000,USD,공시,https://www.sec.gov/Archives/edgar/data/40704/000119312524281288/,,18
+General Mills,GIS,2024Q4,2024-11-24,분기별 영업이익,1077900000,USD,공시,https://www.sec.gov/Archives/edgar/data/40704/000119312524281288/,,18
+General Mills,GIS,2024Q4,2024-11-24,분기별 당기순이익(지배),795700000,USD,공시,https://www.sec.gov/Archives/edgar/data/40704/000119312524281288/,,18
+General Mills,GIS,2024Q4,2024-11-24,분기별 영업활동현금흐름,1150500000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/40704/000119312524281288/ ; https://www.sec.gov/Archives/edgar/data/40704/000119312524221344/,누적 1774700000 − 직전누적 624200000 (시작 2024-05-27),18
+General Mills,GIS,2024Q4,2024-11-24,분기말 자산총계,33396100000,USD,공시,https://www.sec.gov/Archives/edgar/data/40704/000119312524281288/,,18
+General Mills,GIS,2024Q4,2024-11-24,분기말 부채총계,23946900000,USD,공시,https://www.sec.gov/Archives/edgar/data/40704/000119312524281288/,,18
+General Mills,GIS,2024Q4,2024-11-24,분기말 총자본(자기자본),9449200000,USD,공시,https://www.sec.gov/Archives/edgar/data/40704/000119312524281288/,,18
+General Mills,GIS,2024Q4,2024-11-24,분기말 지배지분 자본,9200700000,USD,공시,https://www.sec.gov/Archives/edgar/data/40704/000119312524281288/,,18
+General Mills,GIS,2024Q4,2024-11-22,분기말 종가,65.0,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/GIS?interval=1d&events=splits (2024-11-22),,18
+General Mills,GIS,2024Q4,2024-12-11,분기말 상장주식수,551231250,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/40704/000119312524281288/,dei:EntityCommonStockSharesOutstanding 클래스 합,18
+General Mills,GIS,2024Q4,2024-11-22,분기말 시가총액,35830031250,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/GIS?interval=1d&events=splits (2024-11-22) ; https://www.sec.gov/Archives/edgar/data/40704/000119312524281288/,종가 65.0 × 주식수 551231250,18
+General Mills,GIS,2025Q1,2025-02-23,분기별 매출액,4842200000,USD,공시,https://www.sec.gov/Archives/edgar/data/40704/000119312525057880/,,18
+General Mills,GIS,2025Q1,2025-02-23,분기별 영업이익,891400000,USD,공시,https://www.sec.gov/Archives/edgar/data/40704/000119312525057880/,,18
+General Mills,GIS,2025Q1,2025-02-23,분기별 당기순이익(지배),625600000,USD,공시,https://www.sec.gov/Archives/edgar/data/40704/000119312525057880/,,18
+General Mills,GIS,2025Q1,2025-02-23,분기별 영업활동현금흐름,531900000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/40704/000119312525057880/ ; https://www.sec.gov/Archives/edgar/data/40704/000119312524281288/,누적 2306600000 − 직전누적 1774700000 (시작 2024-05-27),18
+General Mills,GIS,2025Q1,2025-02-23,분기말 자산총계,32706200000,USD,공시,https://www.sec.gov/Archives/edgar/data/40704/000119312525057880/,,18
+General Mills,GIS,2025Q1,2025-02-23,분기말 부채총계,23193600000,USD,공시,https://www.sec.gov/Archives/edgar/data/40704/000119312525057880/,,18
+General Mills,GIS,2025Q1,2025-02-23,분기말 총자본(자기자본),9512600000,USD,공시,https://www.sec.gov/Archives/edgar/data/40704/000119312525057880/,,18
+General Mills,GIS,2025Q1,2025-02-23,분기말 지배지분 자본,9263200000,USD,공시,https://www.sec.gov/Archives/edgar/data/40704/000119312525057880/,,18
+General Mills,GIS,2025Q1,2025-02-21,분기말 종가,61.0,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/GIS?interval=1d&events=splits (2025-02-21),,18
+General Mills,GIS,2025Q1,2025-03-12,분기말 상장주식수,547600534,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/40704/000119312525057880/,dei:EntityCommonStockSharesOutstanding 클래스 합,18
+General Mills,GIS,2025Q1,2025-02-21,분기말 시가총액,33403632574,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/GIS?interval=1d&events=splits (2025-02-21) ; https://www.sec.gov/Archives/edgar/data/40704/000119312525057880/,종가 61.0 × 주식수 547600534,18
+General Mills,GIS,2025Q2,2025-05-25,분기별 매출액,4556200000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/40704/000119312525147079/ ; https://www.sec.gov/Archives/edgar/data/40704/000119312525057880/,연간 19486600000 − 9개월누적 14930400000 (RevenueFromContractWithCustomerExcludingAssessedTax),18
+General Mills,GIS,2025Q2,2025-05-25,분기별 영업이익,504000000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/40704/000119312525147079/ ; https://www.sec.gov/Archives/edgar/data/40704/000119312525057880/,연간 3304800000 − 9개월누적 2800800000 (OperatingIncomeLoss),18
+General Mills,GIS,2025Q2,2025-05-25,분기별 당기순이익(지배),294000000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/40704/000119312525147079/ ; https://www.sec.gov/Archives/edgar/data/40704/000119312525057880/,연간 2295200000 − 9개월누적 2001200000 (NetIncomeLoss),18
+General Mills,GIS,2025Q2,2025-05-25,분기별 영업활동현금흐름,611600000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/40704/000119312525147079/ ; https://www.sec.gov/Archives/edgar/data/40704/000119312525057880/,누적 2918200000 − 직전누적 2306600000 (시작 2024-05-27),18
+General Mills,GIS,2025Q2,2025-05-25,분기말 자산총계,33071100000,USD,공시,https://www.sec.gov/Archives/edgar/data/40704/000119312525147079/,,18
+General Mills,GIS,2025Q2,2025-05-25,분기말 부채총계,23859900000,USD,공시,https://www.sec.gov/Archives/edgar/data/40704/000119312525147079/,,18
+General Mills,GIS,2025Q2,2025-05-25,분기말 총자본(자기자본),9211200000,USD,공시,https://www.sec.gov/Archives/edgar/data/40704/000119312525147079/,,18
+General Mills,GIS,2025Q2,2025-05-25,분기말 지배지분 자본,9199200000,USD,공시,https://www.sec.gov/Archives/edgar/data/40704/000119312525147079/,,18
+General Mills,GIS,2025Q2,2025-05-23,분기말 종가,53.38,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/GIS?interval=1d&events=splits (2025-05-23),,18
+General Mills,GIS,2025Q2,2025-06-09,분기말 상장주식수,542427490,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/40704/000119312525147079/,dei:EntityCommonStockSharesOutstanding 클래스 합,18
+General Mills,GIS,2025Q2,2025-05-23,분기말 시가총액,28954779416,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/GIS?interval=1d&events=splits (2025-05-23) ; https://www.sec.gov/Archives/edgar/data/40704/000119312525147079/,종가 53.38 × 주식수 542427490,18
+General Mills,GIS,2025Q3,2025-08-24,분기별 매출액,4517500000,USD,공시,https://www.sec.gov/Archives/edgar/data/40704/000119312525206304/,,18
+General Mills,GIS,2025Q3,2025-08-24,분기별 영업이익,1725800000,USD,공시,https://www.sec.gov/Archives/edgar/data/40704/000119312525206304/,,18
+General Mills,GIS,2025Q3,2025-08-24,분기별 당기순이익(지배),1204200000,USD,공시,https://www.sec.gov/Archives/edgar/data/40704/000119312525206304/,,18
+General Mills,GIS,2025Q3,2025-08-24,분기별 영업활동현금흐름,397000000,USD,공시,https://www.sec.gov/Archives/edgar/data/40704/000119312525206304/,,18
+General Mills,GIS,2025Q3,2025-08-24,분기말 자산총계,33015600000,USD,공시,https://www.sec.gov/Archives/edgar/data/40704/000119312525206304/,,18
+General Mills,GIS,2025Q3,2025-08-24,분기말 부채총계,23496700000,USD,공시,https://www.sec.gov/Archives/edgar/data/40704/000119312525206304/,,18
+General Mills,GIS,2025Q3,2025-08-24,분기말 총자본(자기자본),9518900000,USD,공시,https://www.sec.gov/Archives/edgar/data/40704/000119312525206304/,,18
+General Mills,GIS,2025Q3,2025-08-24,분기말 지배지분 자본,9506600000,USD,공시,https://www.sec.gov/Archives/edgar/data/40704/000119312525206304/,,18
+General Mills,GIS,2025Q3,2025-08-22,분기말 종가,50.18,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/GIS?interval=1d&events=splits (2025-08-22),,18
+General Mills,GIS,2025Q3,2025-09-10,분기말 상장주식수,533416422,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/40704/000119312525206304/,dei:EntityCommonStockSharesOutstanding 클래스 합,18
+General Mills,GIS,2025Q3,2025-08-22,분기말 시가총액,26766836056,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/GIS?interval=1d&events=splits (2025-08-22) ; https://www.sec.gov/Archives/edgar/data/40704/000119312525206304/,종가 50.18 × 주식수 533416422,18
+General Mills,GIS,2025Q4,2025-11-23,분기별 매출액,4860800000,USD,공시,https://www.sec.gov/Archives/edgar/data/40704/000162828025057598/,,18
+General Mills,GIS,2025Q4,2025-11-23,분기별 영업이익,728000000,USD,공시,https://www.sec.gov/Archives/edgar/data/40704/000162828025057598/,,18
+General Mills,GIS,2025Q4,2025-11-23,분기별 당기순이익(지배),413000000,USD,공시,https://www.sec.gov/Archives/edgar/data/40704/000162828025057598/,,18
+General Mills,GIS,2025Q4,2025-11-23,분기별 영업활동현금흐름,819300000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/40704/000162828025057598/ ; https://www.sec.gov/Archives/edgar/data/40704/000119312525206304/,누적 1216300000 − 직전누적 397000000 (시작 2025-05-26),18
+General Mills,GIS,2025Q4,2025-11-23,분기말 자산총계,32549000000,USD,공시,https://www.sec.gov/Archives/edgar/data/40704/000162828025057598/,,18
+General Mills,GIS,2025Q4,2025-11-23,분기말 부채총계,23220200000,USD,공시,https://www.sec.gov/Archives/edgar/data/40704/000162828025057598/,,18
+General Mills,GIS,2025Q4,2025-11-23,분기말 총자본(자기자본),9328800000,USD,공시,https://www.sec.gov/Archives/edgar/data/40704/000162828025057598/,,18
+General Mills,GIS,2025Q4,2025-11-23,분기말 지배지분 자본,9316400000,USD,공시,https://www.sec.gov/Archives/edgar/data/40704/000162828025057598/,,18
+General Mills,GIS,2025Q4,2025-11-21,분기말 종가,48.33,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/GIS?interval=1d&events=splits (2025-11-21),,18
+General Mills,GIS,2025Q4,2025-12-10,분기말 상장주식수,533582081,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/40704/000162828025057598/,dei:EntityCommonStockSharesOutstanding 클래스 합,18
+General Mills,GIS,2025Q4,2025-11-21,분기말 시가총액,25788021975,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/GIS?interval=1d&events=splits (2025-11-21) ; https://www.sec.gov/Archives/edgar/data/40704/000162828025057598/,종가 48.33 × 주식수 533582081,18
+General Mills,GIS,2026Q1,2026-02-22,분기별 매출액,4436700000,USD,공시,https://www.sec.gov/Archives/edgar/data/40704/000162828026019398/,,18
+General Mills,GIS,2026Q1,2026-02-22,분기별 영업이익,524600000,USD,공시,https://www.sec.gov/Archives/edgar/data/40704/000162828026019398/,,18
+General Mills,GIS,2026Q1,2026-02-22,분기별 당기순이익(지배),303100000,USD,공시,https://www.sec.gov/Archives/edgar/data/40704/000162828026019398/,,18
+General Mills,GIS,2026Q1,2026-02-22,분기별 영업활동현금흐름,397900000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/40704/000162828026019398/ ; https://www.sec.gov/Archives/edgar/data/40704/000162828025057598/,누적 1614200000 − 직전누적 1216300000 (시작 2025-05-26),18
+General Mills,GIS,2026Q1,2026-02-22,분기말 자산총계,32403100000,USD,공시,https://www.sec.gov/Archives/edgar/data/40704/000162828026019398/,,18
+General Mills,GIS,2026Q1,2026-02-22,분기말 부채총계,23046100000,USD,공시,https://www.sec.gov/Archives/edgar/data/40704/000162828026019398/,,18
+General Mills,GIS,2026Q1,2026-02-22,분기말 총자본(자기자본),9357000000,USD,공시,https://www.sec.gov/Archives/edgar/data/40704/000162828026019398/,,18
+General Mills,GIS,2026Q1,2026-02-22,분기말 지배지분 자본,9343300000,USD,공시,https://www.sec.gov/Archives/edgar/data/40704/000162828026019398/,,18
+General Mills,GIS,2026Q1,2026-02-20,분기말 종가,44.62,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/GIS?interval=1d&events=splits (2026-02-20),,18
+General Mills,GIS,2026Q1,2026-03-11,분기말 상장주식수,533681218,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/40704/000162828026019398/,dei:EntityCommonStockSharesOutstanding 클래스 합,18
+General Mills,GIS,2026Q1,2026-02-20,분기말 시가총액,23812855947,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/GIS?interval=1d&events=splits (2026-02-20) ; https://www.sec.gov/Archives/edgar/data/40704/000162828026019398/,종가 44.62 × 주식수 533681218,18
+General Mills,GIS,2026Q2,2026-05-31,분기별 매출액,4609600000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/40704/000162828026046466/ ; https://www.sec.gov/Archives/edgar/data/40704/000162828026019398/,연간 18424600000 − 9개월누적 13815000000 (RevenueFromContractWithCustomerExcludingAssessedTax),18
+General Mills,GIS,2026Q2,2026-05-31,분기별 영업이익,-2092600000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/40704/000162828026046466/ ; https://www.sec.gov/Archives/edgar/data/40704/000162828026019398/,연간 885800000 − 9개월누적 2978400000 (OperatingIncomeLoss),18
+General Mills,GIS,2026Q2,2026-05-31,분기별 당기순이익(지배),-2007900000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/40704/000162828026046466/ ; https://www.sec.gov/Archives/edgar/data/40704/000162828026019398/,연간 -87600000 − 9개월누적 1920300000 (NetIncomeLoss),18
+General Mills,GIS,2026Q2,2026-05-31,분기별 영업활동현금흐름,552000000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/40704/000162828026046466/ ; https://www.sec.gov/Archives/edgar/data/40704/000162828026019398/,누적 2166200000 − 직전누적 1614200000 (시작 2025-05-26),18
+General Mills,GIS,2026Q2,2026-05-31,분기말 자산총계,30016700000,USD,공시,https://www.sec.gov/Archives/edgar/data/40704/000162828026046466/,,18
+General Mills,GIS,2026Q2,2026-05-31,분기말 부채총계,22636100000,USD,공시,https://www.sec.gov/Archives/edgar/data/40704/000162828026046466/,,18
+General Mills,GIS,2026Q2,2026-05-31,분기말 총자본(자기자본),7380600000,USD,공시,https://www.sec.gov/Archives/edgar/data/40704/000162828026046466/,,18
+General Mills,GIS,2026Q2,2026-05-31,분기말 지배지분 자본,7368400000,USD,공시,https://www.sec.gov/Archives/edgar/data/40704/000162828026046466/,,18
+General Mills,GIS,2026Q2,2026-05-29,분기말 종가,33.81,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/GIS?interval=1d&events=splits (2026-05-29),,18
+General Mills,GIS,2026Q2,2026-06-15,분기말 상장주식수,533708396,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/40704/000162828026046466/,dei:EntityCommonStockSharesOutstanding 클래스 합,18
+General Mills,GIS,2026Q2,2026-05-29,분기말 시가총액,18044680869,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/GIS?interval=1d&events=splits (2026-05-29) ; https://www.sec.gov/Archives/edgar/data/40704/000162828026046466/,종가 33.81 × 주식수 533708396,18

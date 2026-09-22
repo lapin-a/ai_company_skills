@@ -1,0 +1,727 @@
+﻿기업,종목코드,기간,기준일,항목,값,통화,값구분,출처,검산,라운드
+Ciena,CIEN,2010Q1,2010-04-30,분기별 매출액,253471000,USD,공시(후속 보고서 비교기간),https://www.sec.gov/Archives/edgar/data/936395/000095012311057860/,SalesRevenueNet ; 그 분기 보고서에 연결 총계가 없어 2011-06-09 제출본의 비교기간에서 읽었다,11
+Ciena,CIEN,2010Q1,2010-04-30,분기별 영업이익,-91222000,USD,공시(후속 보고서 비교기간),https://www.sec.gov/Archives/edgar/data/936395/000095012311057860/,OperatingIncomeLoss ; 그 분기 보고서에 연결 총계가 없어 2011-06-09 제출본의 비교기간에서 읽었다,11
+Ciena,CIEN,2010Q1,2010-04-30,분기별 당기순이익(지배),-90009000,USD,공시(후속 보고서 비교기간),https://www.sec.gov/Archives/edgar/data/936395/000095012311057860/,NetIncomeLoss ; 그 분기 보고서에 연결 총계가 없어 2011-06-09 제출본의 비교기간에서 읽었다,11
+Ciena,CIEN,2010Q1,2010-04-30,분기별 영업활동현금흐름,미확인,USD,미확인,https://www.sec.gov/Archives/edgar/data/936395/000095012310057280/,,11
+Ciena,CIEN,2010Q1,2010-04-30,분기말 자산총계,미확인,USD,미확인,https://www.sec.gov/Archives/edgar/data/936395/000095012310057280/,,11
+Ciena,CIEN,2010Q1,2010-04-30,분기말 부채총계,미확인,USD,미확인,https://www.sec.gov/Archives/edgar/data/936395/000095012310057280/,,11
+Ciena,CIEN,2010Q1,2010-04-30,분기말 총자본(자기자본),미확인,USD,미확인,https://www.sec.gov/Archives/edgar/data/936395/000095012310057280/,,11
+Ciena,CIEN,2010Q1,2010-04-30,분기말 지배지분 자본,미확인,USD,미확인,https://www.sec.gov/Archives/edgar/data/936395/000095012310057280/,,11
+Ciena,CIEN,2010Q1,2010-04-30,분기말 종가,18.53,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/CIEN?interval=1d&events=splits (2010-04-30),,11
+Ciena,CIEN,2010Q1,2010-04-30,분기말 상장주식수,미확인,,미확인,SEC companyfacts·XBRL 원문 모두 dei 표지 주식수 없음,,11
+Ciena,CIEN,2010Q1,2010-04-30,분기말 시가총액,미확인,,미확인,SEC companyfacts·XBRL 원문 모두 dei 표지 주식수 없음,,11
+Ciena,CIEN,2010Q2,2010-07-31,분기별 매출액,389675000,USD,공시,https://www.sec.gov/Archives/edgar/data/936395/000095012310084625/,,11
+Ciena,CIEN,2010Q2,2010-07-31,분기별 영업이익,-99553000,USD,공시,https://www.sec.gov/Archives/edgar/data/936395/000095012310084625/,,11
+Ciena,CIEN,2010Q2,2010-07-31,분기별 당기순이익(지배),-109855000,USD,공시,https://www.sec.gov/Archives/edgar/data/936395/000095012310084625/,,11
+Ciena,CIEN,2010Q2,2010-07-31,분기별 영업활동현금흐름,데이터 없음(직전 분기 누적 보고서 없음),USD,데이터 없음(직전 보고서 없음),https://www.sec.gov/Archives/edgar/data/936395/000095012310084625/,,11
+Ciena,CIEN,2010Q2,2010-07-31,분기말 자산총계,1811471000,USD,공시,https://www.sec.gov/Archives/edgar/data/936395/000095012310084625/,,11
+Ciena,CIEN,2010Q2,2010-07-31,분기말 부채총계,1583176000,USD,공시,https://www.sec.gov/Archives/edgar/data/936395/000095012310084625/,,11
+Ciena,CIEN,2010Q2,2010-07-31,분기말 총자본(자기자본),228295000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/936395/000095012310084625/,"StockholdersEquity, MinorityInterest 태그 없음",11
+Ciena,CIEN,2010Q2,2010-07-31,분기말 지배지분 자본,228295000,USD,공시,https://www.sec.gov/Archives/edgar/data/936395/000095012310084625/,,11
+Ciena,CIEN,2010Q2,2010-07-30,분기말 종가,13.09,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/CIEN?interval=1d&events=splits (2010-07-30),,11
+Ciena,CIEN,2010Q2,2010-09-03,분기말 상장주식수,0,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/936395/000095012310084625/,dei:EntityCommonStockSharesOutstanding 클래스 합,11
+Ciena,CIEN,2010Q2,2010-07-30,분기말 시가총액,0,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/CIEN?interval=1d&events=splits (2010-07-30) ; https://www.sec.gov/Archives/edgar/data/936395/000095012310084625/,종가 13.09 × 주식수 0,11
+Ciena,CIEN,2010Q3,2010-10-31,분기별 매출액,417614000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/936395/000095012310115852/ ; https://www.sec.gov/Archives/edgar/data/936395/000095012310084625/,연간 1236636000 − 9개월누적 819022000 (SalesRevenueNet),11
+Ciena,CIEN,2010Q3,2010-10-31,분기별 영업이익,-81180000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/936395/000095012310115852/ ; https://www.sec.gov/Archives/edgar/data/936395/000095012310084625/,연간 -321819000 − 9개월누적 -240639000 (OperatingIncomeLoss),11
+Ciena,CIEN,2010Q3,2010-10-31,분기별 당기순이익(지배),-80317000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/936395/000095012310115852/ ; https://www.sec.gov/Archives/edgar/data/936395/000095012310084625/,연간 -333514000 − 9개월누적 -253197000 (NetIncomeLoss),11
+Ciena,CIEN,2010Q3,2010-10-31,분기별 영업활동현금흐름,-25774000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/936395/000095012310115852/ ; https://www.sec.gov/Archives/edgar/data/936395/000095012310084625/,누적 -229010000 − 직전누적 -203236000 (시작 2009-11-01),11
+Ciena,CIEN,2010Q3,2010-10-31,분기말 자산총계,2118093000,USD,공시,https://www.sec.gov/Archives/edgar/data/936395/000095012310115852/,,11
+Ciena,CIEN,2010Q3,2010-10-31,분기말 부채총계,1958800000,USD,공시,https://www.sec.gov/Archives/edgar/data/936395/000095012310115852/,,11
+Ciena,CIEN,2010Q3,2010-10-31,분기말 총자본(자기자본),159293000,USD,공시,https://www.sec.gov/Archives/edgar/data/936395/000095012310115852/,,11
+Ciena,CIEN,2010Q3,2010-10-31,분기말 지배지분 자본,159293000,USD,공시,https://www.sec.gov/Archives/edgar/data/936395/000095012310115852/,,11
+Ciena,CIEN,2010Q3,2010-10-29,분기말 종가,13.81,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/CIEN?interval=1d&events=splits (2010-10-29),,11
+Ciena,CIEN,2010Q3,2010-12-15,분기말 상장주식수,94146715,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/936395/000095012310115852/,dei:EntityCommonStockSharesOutstanding 클래스 합,11
+Ciena,CIEN,2010Q3,2010-10-29,분기말 시가총액,1300166134,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/CIEN?interval=1d&events=splits (2010-10-29) ; https://www.sec.gov/Archives/edgar/data/936395/000095012310115852/,종가 13.81 × 주식수 94146715,11
+Ciena,CIEN,2010Q4,2011-01-31,분기별 매출액,433308000,USD,공시,https://www.sec.gov/Archives/edgar/data/936395/000095012311024166/,,11
+Ciena,CIEN,2010Q4,2011-01-31,분기별 영업이익,-73892000,USD,공시,https://www.sec.gov/Archives/edgar/data/936395/000095012311024166/,,11
+Ciena,CIEN,2010Q4,2011-01-31,분기별 당기순이익(지배),-79056000,USD,공시,https://www.sec.gov/Archives/edgar/data/936395/000095012311024166/,,11
+Ciena,CIEN,2010Q4,2011-01-31,분기별 영업활동현금흐름,-63661000,USD,공시,https://www.sec.gov/Archives/edgar/data/936395/000095012311024166/,,11
+Ciena,CIEN,2010Q4,2011-01-31,분기말 자산총계,2049644000,USD,공시,https://www.sec.gov/Archives/edgar/data/936395/000095012311024166/,,11
+Ciena,CIEN,2010Q4,2011-01-31,분기말 부채총계,1954517000,USD,공시,https://www.sec.gov/Archives/edgar/data/936395/000095012311024166/,,11
+Ciena,CIEN,2010Q4,2011-01-31,분기말 총자본(자기자본),95127000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/936395/000095012311024166/,"StockholdersEquity, MinorityInterest 태그 없음",11
+Ciena,CIEN,2010Q4,2011-01-31,분기말 지배지분 자본,95127000,USD,공시,https://www.sec.gov/Archives/edgar/data/936395/000095012311024166/,,11
+Ciena,CIEN,2010Q4,2011-01-31,분기말 종가,22.03,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/CIEN?interval=1d&events=splits (2011-01-31),,11
+Ciena,CIEN,2010Q4,2011-03-04,분기말 상장주식수,95005508,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/936395/000095012311024166/,dei:EntityCommonStockSharesOutstanding 클래스 합,11
+Ciena,CIEN,2010Q4,2011-01-31,분기말 시가총액,2092971341,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/CIEN?interval=1d&events=splits (2011-01-31) ; https://www.sec.gov/Archives/edgar/data/936395/000095012311024166/,종가 22.03 × 주식수 95005508,11
+Ciena,CIEN,2011Q1,2011-04-30,분기별 매출액,417894000,USD,공시,https://www.sec.gov/Archives/edgar/data/936395/000095012311057860/,,11
+Ciena,CIEN,2011Q1,2011-04-30,분기별 영업이익,-55618000,USD,공시,https://www.sec.gov/Archives/edgar/data/936395/000095012311057860/,,11
+Ciena,CIEN,2011Q1,2011-04-30,분기별 당기순이익(지배),-62686000,USD,공시,https://www.sec.gov/Archives/edgar/data/936395/000095012311057860/,,11
+Ciena,CIEN,2011Q1,2011-04-30,분기별 영업활동현금흐름,-51787000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/936395/000095012311057860/ ; https://www.sec.gov/Archives/edgar/data/936395/000095012311024166/,누적 -115448000 − 직전누적 -63661000 (시작 2010-11-01),11
+Ciena,CIEN,2011Q1,2011-04-30,분기말 자산총계,2004884000,USD,공시,https://www.sec.gov/Archives/edgar/data/936395/000095012311057860/,,11
+Ciena,CIEN,2011Q1,2011-04-30,분기말 부채총계,1955179000,USD,공시,https://www.sec.gov/Archives/edgar/data/936395/000095012311057860/,,11
+Ciena,CIEN,2011Q1,2011-04-30,분기말 총자본(자기자본),49705000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/936395/000095012311057860/,"StockholdersEquity, MinorityInterest 태그 없음",11
+Ciena,CIEN,2011Q1,2011-04-30,분기말 지배지분 자본,49705000,USD,공시,https://www.sec.gov/Archives/edgar/data/936395/000095012311057860/,,11
+Ciena,CIEN,2011Q1,2011-04-29,분기말 종가,28.24,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/CIEN?interval=1d&events=splits (2011-04-29),,11
+Ciena,CIEN,2011Q1,2011-06-03,분기말 상장주식수,95681685,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/936395/000095012311057860/,dei:EntityCommonStockSharesOutstanding 클래스 합,11
+Ciena,CIEN,2011Q1,2011-04-29,분기말 시가총액,2702050784,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/CIEN?interval=1d&events=splits (2011-04-29) ; https://www.sec.gov/Archives/edgar/data/936395/000095012311057860/,종가 28.24 × 주식수 95681685,11
+Ciena,CIEN,2011Q2,2011-07-31,분기별 매출액,435313000,USD,공시,https://www.sec.gov/Archives/edgar/data/936395/000095012311083442/,,11
+Ciena,CIEN,2011Q2,2011-07-31,분기별 영업이익,-17385000,USD,공시,https://www.sec.gov/Archives/edgar/data/936395/000095012311083442/,,11
+Ciena,CIEN,2011Q2,2011-07-31,분기별 당기순이익(지배),-31450000,USD,공시,https://www.sec.gov/Archives/edgar/data/936395/000095012311083442/,,11
+Ciena,CIEN,2011Q2,2011-07-31,분기별 영업활동현금흐름,-17037000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/936395/000095012311083442/ ; https://www.sec.gov/Archives/edgar/data/936395/000095012311057860/,누적 -132485000 − 직전누적 -115448000 (시작 2010-11-01),11
+Ciena,CIEN,2011Q2,2011-07-31,분기말 자산총계,1938433000,USD,공시,https://www.sec.gov/Archives/edgar/data/936395/000095012311083442/,,11
+Ciena,CIEN,2011Q2,2011-07-31,분기말 부채총계,1909862000,USD,공시,https://www.sec.gov/Archives/edgar/data/936395/000095012311083442/,,11
+Ciena,CIEN,2011Q2,2011-07-31,분기말 총자본(자기자본),28571000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/936395/000095012311083442/,"StockholdersEquity, MinorityInterest 태그 없음",11
+Ciena,CIEN,2011Q2,2011-07-31,분기말 지배지분 자본,28571000,USD,공시,https://www.sec.gov/Archives/edgar/data/936395/000095012311083442/,,11
+Ciena,CIEN,2011Q2,2011-07-29,분기말 종가,15.46,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/CIEN?interval=1d&events=splits (2011-07-29),,11
+Ciena,CIEN,2011Q2,2011-08-27,분기말 상장주식수,96884073,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/936395/000095012311083442/,dei:EntityCommonStockSharesOutstanding 클래스 합,11
+Ciena,CIEN,2011Q2,2011-07-29,분기말 시가총액,1497827769,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/CIEN?interval=1d&events=splits (2011-07-29) ; https://www.sec.gov/Archives/edgar/data/936395/000095012311083442/,종가 15.46 × 주식수 96884073,11
+Ciena,CIEN,2011Q3,2011-10-31,분기별 매출액,455455000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/936395/000093639511000009/ ; https://www.sec.gov/Archives/edgar/data/936395/000095012311083442/,연간 1741970000 − 9개월누적 1286515000 (SalesRevenueNet),11
+Ciena,CIEN,2011Q3,2011-10-31,분기별 영업이익,-16298000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/936395/000093639511000009/ ; https://www.sec.gov/Archives/edgar/data/936395/000095012311083442/,연간 -163193000 − 9개월누적 -146895000 (OperatingIncomeLoss),11
+Ciena,CIEN,2011Q3,2011-10-31,분기별 당기순이익(지배),-22329000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/936395/000093639511000009/ ; https://www.sec.gov/Archives/edgar/data/936395/000095012311083442/,연간 -195521000 − 9개월누적 -173192000 (NetIncomeLoss),11
+Ciena,CIEN,2011Q3,2011-10-31,분기별 영업활동현금흐름,42000000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/936395/000093639511000009/ ; https://www.sec.gov/Archives/edgar/data/936395/000095012311083442/,누적 -90485000 − 직전누적 -132485000 (시작 2010-11-01),11
+Ciena,CIEN,2011Q3,2011-10-31,분기말 자산총계,1951418000,USD,공시,https://www.sec.gov/Archives/edgar/data/936395/000093639511000009/,,11
+Ciena,CIEN,2011Q3,2011-10-31,분기말 부채총계,1937545000,USD,공시,https://www.sec.gov/Archives/edgar/data/936395/000093639511000009/,,11
+Ciena,CIEN,2011Q3,2011-10-31,분기말 총자본(자기자본),13873000,USD,공시,https://www.sec.gov/Archives/edgar/data/936395/000093639511000009/,,11
+Ciena,CIEN,2011Q3,2011-10-31,분기말 지배지분 자본,13873000,USD,공시,https://www.sec.gov/Archives/edgar/data/936395/000093639511000009/,,11
+Ciena,CIEN,2011Q3,2011-10-31,분기말 종가,13.18,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/CIEN?interval=1d&events=splits (2011-10-31),,11
+Ciena,CIEN,2011Q3,2011-12-15,분기말 상장주식수,97442608,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/936395/000093639511000009/,dei:EntityCommonStockSharesOutstanding 클래스 합,11
+Ciena,CIEN,2011Q3,2011-10-31,분기말 시가총액,1284293573,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/CIEN?interval=1d&events=splits (2011-10-31) ; https://www.sec.gov/Archives/edgar/data/936395/000093639511000009/,종가 13.18 × 주식수 97442608,11
+Ciena,CIEN,2011Q4,2012-01-31,분기별 매출액,416685000,USD,공시,https://www.sec.gov/Archives/edgar/data/936395/000093639512000028/,,11
+Ciena,CIEN,2011Q4,2012-01-31,분기별 영업이익,-31176000,USD,공시,https://www.sec.gov/Archives/edgar/data/936395/000093639512000028/,,11
+Ciena,CIEN,2011Q4,2012-01-31,분기별 당기순이익(지배),-47653000,USD,공시,https://www.sec.gov/Archives/edgar/data/936395/000093639512000028/,,11
+Ciena,CIEN,2011Q4,2012-01-31,분기별 영업활동현금흐름,12881000,USD,공시,https://www.sec.gov/Archives/edgar/data/936395/000093639512000028/,,11
+Ciena,CIEN,2011Q4,2012-01-31,분기말 자산총계,1918256000,USD,공시,https://www.sec.gov/Archives/edgar/data/936395/000093639512000028/,,11
+Ciena,CIEN,2011Q4,2012-01-31,분기말 부채총계,1939360000,USD,공시,https://www.sec.gov/Archives/edgar/data/936395/000093639512000028/,,11
+Ciena,CIEN,2011Q4,2012-01-31,분기말 총자본(자기자본),-21104000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/936395/000093639512000028/,"StockholdersEquity, MinorityInterest 태그 없음",11
+Ciena,CIEN,2011Q4,2012-01-31,분기말 지배지분 자본,-21104000,USD,공시,https://www.sec.gov/Archives/edgar/data/936395/000093639512000028/,,11
+Ciena,CIEN,2011Q4,2012-01-31,분기말 종가,14.55,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/CIEN?interval=1d&events=splits (2012-01-31),,11
+Ciena,CIEN,2011Q4,2012-02-25,분기말 상장주식수,98659716,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/936395/000093639512000028/,dei:EntityCommonStockSharesOutstanding 클래스 합,11
+Ciena,CIEN,2011Q4,2012-01-31,분기말 시가총액,1435498868,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/CIEN?interval=1d&events=splits (2012-01-31) ; https://www.sec.gov/Archives/edgar/data/936395/000093639512000028/,종가 14.55 × 주식수 98659716,11
+Ciena,CIEN,2012Q1,2012-04-30,분기별 매출액,477617000,USD,공시,https://www.sec.gov/Archives/edgar/data/936395/000093639512000047/,,11
+Ciena,CIEN,2012Q1,2012-04-30,분기별 영업이익,-11463000,USD,공시,https://www.sec.gov/Archives/edgar/data/936395/000093639512000047/,,11
+Ciena,CIEN,2012Q1,2012-04-30,분기별 당기순이익(지배),-27780000,USD,공시,https://www.sec.gov/Archives/edgar/data/936395/000093639512000047/,,11
+Ciena,CIEN,2012Q1,2012-04-30,분기별 영업활동현금흐름,60475000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/936395/000093639512000047/ ; https://www.sec.gov/Archives/edgar/data/936395/000093639512000028/,누적 73356000 − 직전누적 12881000 (시작 2011-11-01),11
+Ciena,CIEN,2012Q1,2012-04-30,분기말 자산총계,1928640000,USD,공시,https://www.sec.gov/Archives/edgar/data/936395/000093639512000047/,,11
+Ciena,CIEN,2012Q1,2012-04-30,분기말 부채총계,1969709000,USD,공시,https://www.sec.gov/Archives/edgar/data/936395/000093639512000047/,,11
+Ciena,CIEN,2012Q1,2012-04-30,분기말 총자본(자기자본),-41069000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/936395/000093639512000047/,"StockholdersEquity, MinorityInterest 태그 없음",11
+Ciena,CIEN,2012Q1,2012-04-30,분기말 지배지분 자본,-41069000,USD,공시,https://www.sec.gov/Archives/edgar/data/936395/000093639512000047/,,11
+Ciena,CIEN,2012Q1,2012-04-30,분기말 종가,14.82,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/CIEN?interval=1d&events=splits (2012-04-30),,11
+Ciena,CIEN,2012Q1,2012-05-26,분기말 상장주식수,99153854,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/936395/000093639512000047/,dei:EntityCommonStockSharesOutstanding 클래스 합,11
+Ciena,CIEN,2012Q1,2012-04-30,분기말 시가총액,1469460116,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/CIEN?interval=1d&events=splits (2012-04-30) ; https://www.sec.gov/Archives/edgar/data/936395/000093639512000047/,종가 14.82 × 주식수 99153854,11
+Ciena,CIEN,2012Q2,2012-07-31,분기별 매출액,474090000,USD,공시,https://www.sec.gov/Archives/edgar/data/936395/000093639512000059/,,11
+Ciena,CIEN,2012Q2,2012-07-31,분기별 영업이익,-15272000,USD,공시,https://www.sec.gov/Archives/edgar/data/936395/000093639512000059/,,11
+Ciena,CIEN,2012Q2,2012-07-31,분기별 당기순이익(지배),-29817000,USD,공시,https://www.sec.gov/Archives/edgar/data/936395/000093639512000059/,,11
+Ciena,CIEN,2012Q2,2012-07-31,분기별 영업활동현금흐름,23145000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/936395/000093639512000059/ ; https://www.sec.gov/Archives/edgar/data/936395/000093639512000047/,누적 96501000 − 직전누적 73356000 (시작 2011-11-01),11
+Ciena,CIEN,2012Q2,2012-07-31,분기말 자산총계,1915261000,USD,공시,https://www.sec.gov/Archives/edgar/data/936395/000093639512000059/,,11
+Ciena,CIEN,2012Q2,2012-07-31,분기말 부채총계,1975519000,USD,공시,https://www.sec.gov/Archives/edgar/data/936395/000093639512000059/,,11
+Ciena,CIEN,2012Q2,2012-07-31,분기말 총자본(자기자본),-60258000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/936395/000093639512000059/,"StockholdersEquity, MinorityInterest 태그 없음",11
+Ciena,CIEN,2012Q2,2012-07-31,분기말 지배지분 자본,-60258000,USD,공시,https://www.sec.gov/Archives/edgar/data/936395/000093639512000059/,,11
+Ciena,CIEN,2012Q2,2012-07-31,분기말 종가,16.03,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/CIEN?interval=1d&events=splits (2012-07-31),,11
+Ciena,CIEN,2012Q2,2012-08-24,분기말 상장주식수,100202169,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/936395/000093639512000059/,dei:EntityCommonStockSharesOutstanding 클래스 합,11
+Ciena,CIEN,2012Q2,2012-07-31,분기말 시가총액,1606240769,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/CIEN?interval=1d&events=splits (2012-07-31) ; https://www.sec.gov/Archives/edgar/data/936395/000093639512000059/,종가 16.03 × 주식수 100202169,11
+Ciena,CIEN,2012Q3,2012-10-31,분기별 매출액,465531000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/936395/000093639512000075/ ; https://www.sec.gov/Archives/edgar/data/936395/000093639512000059/,연간 1833923000 − 9개월누적 1368392000 (SalesRevenueNet),11
+Ciena,CIEN,2012Q3,2012-10-31,분기별 영업이익,-21935000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/936395/000093639512000075/ ; https://www.sec.gov/Archives/edgar/data/936395/000093639512000059/,연간 -79846000 − 9개월누적 -57911000 (OperatingIncomeLoss),11
+Ciena,CIEN,2012Q3,2012-10-31,분기별 당기순이익(지배),-38771000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/936395/000093639512000075/ ; https://www.sec.gov/Archives/edgar/data/936395/000093639512000059/,연간 -144021000 − 9개월누적 -105250000 (NetIncomeLoss),11
+Ciena,CIEN,2012Q3,2012-10-31,분기별 영업활동현금흐름,10588000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/936395/000093639512000075/ ; https://www.sec.gov/Archives/edgar/data/936395/000093639512000059/,누적 107089000 − 직전누적 96501000 (시작 2011-11-01),11
+Ciena,CIEN,2012Q3,2012-10-31,분기말 자산총계,1881143000,USD,공시,https://www.sec.gov/Archives/edgar/data/936395/000093639512000075/,,11
+Ciena,CIEN,2012Q3,2012-10-31,분기말 부채총계,1970115000,USD,공시,https://www.sec.gov/Archives/edgar/data/936395/000093639512000075/,,11
+Ciena,CIEN,2012Q3,2012-10-31,분기말 총자본(자기자본),-88972000,USD,공시,https://www.sec.gov/Archives/edgar/data/936395/000093639512000075/,,11
+Ciena,CIEN,2012Q3,2012-10-31,분기말 지배지분 자본,-88972000,USD,공시,https://www.sec.gov/Archives/edgar/data/936395/000093639512000075/,,11
+Ciena,CIEN,2012Q3,2012-10-31,분기말 종가,12.42,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/CIEN?interval=1d&events=splits (2012-10-31),,11
+Ciena,CIEN,2012Q3,2012-12-13,분기말 상장주식수,100610686,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/936395/000093639512000075/,dei:EntityCommonStockSharesOutstanding 클래스 합,11
+Ciena,CIEN,2012Q3,2012-10-31,분기말 시가총액,1249584720,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/CIEN?interval=1d&events=splits (2012-10-31) ; https://www.sec.gov/Archives/edgar/data/936395/000093639512000075/,종가 12.42 × 주식수 100610686,11
+Ciena,CIEN,2012Q4,2013-01-31,분기별 매출액,453093000,USD,공시,https://www.sec.gov/Archives/edgar/data/936395/000093639513000019/,,11
+Ciena,CIEN,2012Q4,2013-01-31,분기별 영업이익,-5609000,USD,공시,https://www.sec.gov/Archives/edgar/data/936395/000093639513000019/,,11
+Ciena,CIEN,2012Q4,2013-01-31,분기별 당기순이익(지배),-47324000,USD,공시,https://www.sec.gov/Archives/edgar/data/936395/000093639513000019/,,11
+Ciena,CIEN,2012Q4,2013-01-31,분기별 영업활동현금흐름,-45726000,USD,공시,https://www.sec.gov/Archives/edgar/data/936395/000093639513000019/,,11
+Ciena,CIEN,2012Q4,2013-01-31,분기말 자산총계,1885172000,USD,공시,https://www.sec.gov/Archives/edgar/data/936395/000093639513000019/,,11
+Ciena,CIEN,2012Q4,2013-01-31,분기말 부채총계,1963807000,USD,공시,https://www.sec.gov/Archives/edgar/data/936395/000093639513000019/,,11
+Ciena,CIEN,2012Q4,2013-01-31,분기말 총자본(자기자본),-78635000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/936395/000093639513000019/,"StockholdersEquity, MinorityInterest 태그 없음",11
+Ciena,CIEN,2012Q4,2013-01-31,분기말 지배지분 자본,-78635000,USD,공시,https://www.sec.gov/Archives/edgar/data/936395/000093639513000019/,,11
+Ciena,CIEN,2012Q4,2013-01-31,분기말 종가,15.66,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/CIEN?interval=1d&events=splits (2013-01-31),,11
+Ciena,CIEN,2012Q4,2013-03-08,분기말 상장주식수,101527083,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/936395/000093639513000019/,dei:EntityCommonStockSharesOutstanding 클래스 합,11
+Ciena,CIEN,2012Q4,2013-01-31,분기말 시가총액,1589914120,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/CIEN?interval=1d&events=splits (2013-01-31) ; https://www.sec.gov/Archives/edgar/data/936395/000093639513000019/,종가 15.66 × 주식수 101527083,11
+Ciena,CIEN,2013Q1,2013-04-30,분기별 매출액,507712000,USD,공시,https://www.sec.gov/Archives/edgar/data/936395/000093639513000029/,,11
+Ciena,CIEN,2013Q1,2013-04-30,분기별 영업이익,-10580000,USD,공시,https://www.sec.gov/Archives/edgar/data/936395/000093639513000029/,,11
+Ciena,CIEN,2013Q1,2013-04-30,분기별 당기순이익(지배),-27079000,USD,공시,https://www.sec.gov/Archives/edgar/data/936395/000093639513000029/,,11
+Ciena,CIEN,2013Q1,2013-04-30,분기별 영업활동현금흐름,44857000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/936395/000093639513000029/ ; https://www.sec.gov/Archives/edgar/data/936395/000093639513000019/,누적 -869000 − 직전누적 -45726000 (시작 2012-11-01),11
+Ciena,CIEN,2013Q1,2013-04-30,분기말 자산총계,1693344000,USD,공시,https://www.sec.gov/Archives/edgar/data/936395/000093639513000029/,,11
+Ciena,CIEN,2013Q1,2013-04-30,분기말 부채총계,1791281000,USD,공시,https://www.sec.gov/Archives/edgar/data/936395/000093639513000029/,,11
+Ciena,CIEN,2013Q1,2013-04-30,분기말 총자본(자기자본),-97937000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/936395/000093639513000029/,"StockholdersEquity, MinorityInterest 태그 없음",11
+Ciena,CIEN,2013Q1,2013-04-30,분기말 지배지분 자본,-97937000,USD,공시,https://www.sec.gov/Archives/edgar/data/936395/000093639513000029/,,11
+Ciena,CIEN,2013Q1,2013-04-30,분기말 종가,14.96,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/CIEN?interval=1d&events=splits (2013-04-30),,11
+Ciena,CIEN,2013Q1,2013-06-07,분기말 상장주식수,102052816,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/936395/000093639513000029/,dei:EntityCommonStockSharesOutstanding 클래스 합,11
+Ciena,CIEN,2013Q1,2013-04-30,분기말 시가총액,1526710127,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/CIEN?interval=1d&events=splits (2013-04-30) ; https://www.sec.gov/Archives/edgar/data/936395/000093639513000029/,종가 14.96 × 주식수 102052816,11
+Ciena,CIEN,2013Q2,2013-07-31,분기별 매출액,538356000,USD,공시,https://www.sec.gov/Archives/edgar/data/936395/000093639513000040/,,11
+Ciena,CIEN,2013Q2,2013-07-31,분기별 영업이익,14831000,USD,공시,https://www.sec.gov/Archives/edgar/data/936395/000093639513000040/,,11
+Ciena,CIEN,2013Q2,2013-07-31,분기별 당기순이익(지배),-1231000,USD,공시,https://www.sec.gov/Archives/edgar/data/936395/000093639513000040/,,11
+Ciena,CIEN,2013Q2,2013-07-31,분기별 영업활동현금흐름,41996000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/936395/000093639513000040/ ; https://www.sec.gov/Archives/edgar/data/936395/000093639513000029/,누적 41127000 − 직전누적 -869000 (시작 2012-11-01),11
+Ciena,CIEN,2013Q2,2013-07-31,분기말 자산총계,1727355000,USD,공시,https://www.sec.gov/Archives/edgar/data/936395/000093639513000040/,,11
+Ciena,CIEN,2013Q2,2013-07-31,분기말 부채총계,1810523000,USD,공시,https://www.sec.gov/Archives/edgar/data/936395/000093639513000040/,,11
+Ciena,CIEN,2013Q2,2013-07-31,분기말 총자본(자기자본),-83168000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/936395/000093639513000040/,"StockholdersEquity, MinorityInterest 태그 없음",11
+Ciena,CIEN,2013Q2,2013-07-31,분기말 지배지분 자본,-83168000,USD,공시,https://www.sec.gov/Archives/edgar/data/936395/000093639513000040/,,11
+Ciena,CIEN,2013Q2,2013-07-31,분기말 종가,22.06,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/CIEN?interval=1d&events=splits (2013-07-31),,11
+Ciena,CIEN,2013Q2,2013-09-06,분기말 상장주식수,103142108,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/936395/000093639513000040/,dei:EntityCommonStockSharesOutstanding 클래스 합,11
+Ciena,CIEN,2013Q2,2013-07-31,분기말 시가총액,2275314902,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/CIEN?interval=1d&events=splits (2013-07-31) ; https://www.sec.gov/Archives/edgar/data/936395/000093639513000040/,종가 22.06 × 주식수 103142108,11
+Ciena,CIEN,2013Q3,2013-10-31,분기별 매출액,583385000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/936395/000093639513000057/ ; https://www.sec.gov/Archives/edgar/data/936395/000093639513000040/,연간 2082546000 − 9개월누적 1499161000 (SalesRevenueNet),11
+Ciena,CIEN,2013Q3,2013-10-31,분기별 영업이익,-417000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/936395/000093639513000057/ ; https://www.sec.gov/Archives/edgar/data/936395/000093639513000040/,연간 -1775000 − 9개월누적 -1358000 (OperatingIncomeLoss),11
+Ciena,CIEN,2013Q3,2013-10-31,분기별 당기순이익(지배),-9797000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/936395/000093639513000057/ ; https://www.sec.gov/Archives/edgar/data/936395/000093639513000040/,연간 -85431000 − 9개월누적 -75634000 (NetIncomeLoss),11
+Ciena,CIEN,2013Q3,2013-10-31,분기별 영업활동현금흐름,3551000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/936395/000093639513000057/ ; https://www.sec.gov/Archives/edgar/data/936395/000093639513000040/,누적 44678000 − 직전누적 41127000 (시작 2012-11-01),11
+Ciena,CIEN,2013Q3,2013-10-31,분기말 자산총계,1802770000,USD,공시,https://www.sec.gov/Archives/edgar/data/936395/000093639513000057/,,11
+Ciena,CIEN,2013Q3,2013-10-31,분기말 부채총계,1885447000,USD,공시,https://www.sec.gov/Archives/edgar/data/936395/000093639513000057/,,11
+Ciena,CIEN,2013Q3,2013-10-31,분기말 총자본(자기자본),-82677000,USD,공시,https://www.sec.gov/Archives/edgar/data/936395/000093639513000057/,,11
+Ciena,CIEN,2013Q3,2013-10-31,분기말 지배지분 자본,-82677000,USD,공시,https://www.sec.gov/Archives/edgar/data/936395/000093639513000057/,,11
+Ciena,CIEN,2013Q3,2013-10-31,분기말 종가,23.27,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/CIEN?interval=1d&events=splits (2013-10-31),,11
+Ciena,CIEN,2013Q3,2013-12-12,분기말 상장주식수,103708240,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/936395/000093639513000057/,dei:EntityCommonStockSharesOutstanding 클래스 합,11
+Ciena,CIEN,2013Q3,2013-10-31,분기말 시가총액,2413290745,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/CIEN?interval=1d&events=splits (2013-10-31) ; https://www.sec.gov/Archives/edgar/data/936395/000093639513000057/,종가 23.27 × 주식수 103708240,11
+Ciena,CIEN,2013Q4,2014-01-31,분기별 매출액,533703000,USD,공시,https://www.sec.gov/Archives/edgar/data/936395/000093639514000021/,,11
+Ciena,CIEN,2013Q4,2014-01-31,분기별 영업이익,3355000,USD,공시,https://www.sec.gov/Archives/edgar/data/936395/000093639514000021/,,11
+Ciena,CIEN,2013Q4,2014-01-31,분기별 당기순이익(지배),-15936000,USD,공시,https://www.sec.gov/Archives/edgar/data/936395/000093639514000021/,,11
+Ciena,CIEN,2013Q4,2014-01-31,분기별 영업활동현금흐름,-37158000,USD,공시,https://www.sec.gov/Archives/edgar/data/936395/000093639514000021/,,11
+Ciena,CIEN,2013Q4,2014-01-31,분기말 자산총계,1800615000,USD,공시,https://www.sec.gov/Archives/edgar/data/936395/000093639514000021/,,11
+Ciena,CIEN,2013Q4,2014-01-31,분기말 부채총계,1887476000,USD,공시,https://www.sec.gov/Archives/edgar/data/936395/000093639514000021/,,11
+Ciena,CIEN,2013Q4,2014-01-31,분기말 총자본(자기자본),-86861000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/936395/000093639514000021/,"StockholdersEquity, MinorityInterest 태그 없음",11
+Ciena,CIEN,2013Q4,2014-01-31,분기말 지배지분 자본,-86861000,USD,공시,https://www.sec.gov/Archives/edgar/data/936395/000093639514000021/,,11
+Ciena,CIEN,2013Q4,2014-01-31,분기말 종가,23.33,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/CIEN?interval=1d&events=splits (2014-01-31),,11
+Ciena,CIEN,2013Q4,2014-02-28,분기말 상장주식수,105028191,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/936395/000093639514000021/,dei:EntityCommonStockSharesOutstanding 클래스 합,11
+Ciena,CIEN,2013Q4,2014-01-31,분기말 시가총액,2450307696,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/CIEN?interval=1d&events=splits (2014-01-31) ; https://www.sec.gov/Archives/edgar/data/936395/000093639514000021/,종가 23.33 × 주식수 105028191,11
+Ciena,CIEN,2014Q1,2014-04-30,분기별 매출액,560061000,USD,공시,https://www.sec.gov/Archives/edgar/data/936395/000093639514000040/,,11
+Ciena,CIEN,2014Q1,2014-04-30,분기별 영업이익,7162000,USD,공시,https://www.sec.gov/Archives/edgar/data/936395/000093639514000040/,,11
+Ciena,CIEN,2014Q1,2014-04-30,분기별 당기순이익(지배),-10158000,USD,공시,https://www.sec.gov/Archives/edgar/data/936395/000093639514000040/,,11
+Ciena,CIEN,2014Q1,2014-04-30,분기별 영업활동현금흐름,1991000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/936395/000093639514000040/ ; https://www.sec.gov/Archives/edgar/data/936395/000093639514000021/,누적 -35167000 − 직전누적 -37158000 (시작 2013-11-01),11
+Ciena,CIEN,2014Q1,2014-04-30,분기말 자산총계,1795464000,USD,공시,https://www.sec.gov/Archives/edgar/data/936395/000093639514000040/,,11
+Ciena,CIEN,2014Q1,2014-04-30,분기말 부채총계,1876304000,USD,공시,https://www.sec.gov/Archives/edgar/data/936395/000093639514000040/,,11
+Ciena,CIEN,2014Q1,2014-04-30,분기말 총자본(자기자본),-80840000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/936395/000093639514000040/,"StockholdersEquity, MinorityInterest 태그 없음",11
+Ciena,CIEN,2014Q1,2014-04-30,분기말 지배지분 자본,-80840000,USD,공시,https://www.sec.gov/Archives/edgar/data/936395/000093639514000040/,,11
+Ciena,CIEN,2014Q1,2014-04-30,분기말 종가,19.77,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/CIEN?interval=1d&events=splits (2014-04-30),,11
+Ciena,CIEN,2014Q1,2014-06-06,분기말 상장주식수,105593414,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/936395/000093639514000040/,dei:EntityCommonStockSharesOutstanding 클래스 합,11
+Ciena,CIEN,2014Q1,2014-04-30,분기말 시가총액,2087581795,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/CIEN?interval=1d&events=splits (2014-04-30) ; https://www.sec.gov/Archives/edgar/data/936395/000093639514000040/,종가 19.77 × 주식수 105593414,11
+Ciena,CIEN,2014Q2,2014-07-31,분기별 매출액,603562000,USD,공시,https://www.sec.gov/Archives/edgar/data/936395/000093639514000051/,,11
+Ciena,CIEN,2014Q2,2014-07-31,분기별 영업이익,37002000,USD,공시,https://www.sec.gov/Archives/edgar/data/936395/000093639514000051/,,11
+Ciena,CIEN,2014Q2,2014-07-31,분기별 당기순이익(지배),16160000,USD,공시,https://www.sec.gov/Archives/edgar/data/936395/000093639514000051/,,11
+Ciena,CIEN,2014Q2,2014-07-31,분기별 영업활동현금흐름,51134000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/936395/000093639514000051/ ; https://www.sec.gov/Archives/edgar/data/936395/000093639514000040/,누적 15967000 − 직전누적 -35167000 (시작 2013-11-01),11
+Ciena,CIEN,2014Q2,2014-07-31,분기말 자산총계,2100417000,USD,공시,https://www.sec.gov/Archives/edgar/data/936395/000093639514000051/,,11
+Ciena,CIEN,2014Q2,2014-07-31,분기말 부채총계,2145571000,USD,공시,https://www.sec.gov/Archives/edgar/data/936395/000093639514000051/,,11
+Ciena,CIEN,2014Q2,2014-07-31,분기말 총자본(자기자본),-45154000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/936395/000093639514000051/,"StockholdersEquity, MinorityInterest 태그 없음",11
+Ciena,CIEN,2014Q2,2014-07-31,분기말 지배지분 자본,-45154000,USD,공시,https://www.sec.gov/Archives/edgar/data/936395/000093639514000051/,,11
+Ciena,CIEN,2014Q2,2014-07-31,분기말 종가,19.53,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/CIEN?interval=1d&events=splits (2014-07-31),,11
+Ciena,CIEN,2014Q2,2014-09-02,분기말 상장주식수,106566064,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/936395/000093639514000051/,dei:EntityCommonStockSharesOutstanding 클래스 합,11
+Ciena,CIEN,2014Q2,2014-07-31,분기말 시가총액,2081235230,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/CIEN?interval=1d&events=splits (2014-07-31) ; https://www.sec.gov/Archives/edgar/data/936395/000093639514000051/,종가 19.53 × 주식수 106566064,11
+Ciena,CIEN,2014Q3,2014-11-01,분기별 매출액,미확인,USD,미확인,https://www.sec.gov/Archives/edgar/data/936395/000093639514000063/,,11
+Ciena,CIEN,2014Q3,2014-11-01,분기별 영업이익,미확인,USD,미확인,https://www.sec.gov/Archives/edgar/data/936395/000093639514000063/,,11
+Ciena,CIEN,2014Q3,2014-11-01,분기별 당기순이익(지배),미확인,USD,미확인,https://www.sec.gov/Archives/edgar/data/936395/000093639514000063/,,11
+Ciena,CIEN,2014Q3,2014-11-01,분기별 영업활동현금흐름,미확인,USD,미확인,https://www.sec.gov/Archives/edgar/data/936395/000093639514000063/,,11
+Ciena,CIEN,2014Q3,2014-11-01,분기말 자산총계,미확인,USD,미확인,https://www.sec.gov/Archives/edgar/data/936395/000093639514000063/,,11
+Ciena,CIEN,2014Q3,2014-11-01,분기말 부채총계,미확인,USD,미확인,https://www.sec.gov/Archives/edgar/data/936395/000093639514000063/,,11
+Ciena,CIEN,2014Q3,2014-11-01,분기말 총자본(자기자본),미확인,USD,미확인,https://www.sec.gov/Archives/edgar/data/936395/000093639514000063/,,11
+Ciena,CIEN,2014Q3,2014-11-01,분기말 지배지분 자본,미확인,USD,미확인,https://www.sec.gov/Archives/edgar/data/936395/000093639514000063/,,11
+Ciena,CIEN,2014Q3,2014-10-31,분기말 종가,16.76,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/CIEN?interval=1d&events=splits (2014-10-31),,11
+Ciena,CIEN,2014Q3,2014-12-12,분기말 상장주식수,106985271,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/936395/000093639514000063/,dei:EntityCommonStockSharesOutstanding 클래스 합,11
+Ciena,CIEN,2014Q3,2014-10-31,분기말 시가총액,1793073142,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/CIEN?interval=1d&events=splits (2014-10-31) ; https://www.sec.gov/Archives/edgar/data/936395/000093639514000063/,종가 16.76 × 주식수 106985271,11
+Ciena,CIEN,2014Q4,2015-01-31,분기별 매출액,529162000,USD,공시,https://www.sec.gov/Archives/edgar/data/936395/000093639515000024/,,11
+Ciena,CIEN,2014Q4,2015-01-31,분기별 영업이익,4165000,USD,공시,https://www.sec.gov/Archives/edgar/data/936395/000093639515000024/,,11
+Ciena,CIEN,2014Q4,2015-01-31,분기별 당기순이익(지배),-18779000,USD,공시,https://www.sec.gov/Archives/edgar/data/936395/000093639515000024/,,11
+Ciena,CIEN,2014Q4,2015-01-31,분기별 영업활동현금흐름,22138000,USD,공시,https://www.sec.gov/Archives/edgar/data/936395/000093639515000024/,,11
+Ciena,CIEN,2014Q4,2015-01-31,분기말 자산총계,2056155000,USD,공시,https://www.sec.gov/Archives/edgar/data/936395/000093639515000024/,,11
+Ciena,CIEN,2014Q4,2015-01-31,분기말 부채총계,2144730000,USD,공시,https://www.sec.gov/Archives/edgar/data/936395/000093639515000024/,,11
+Ciena,CIEN,2014Q4,2015-01-31,분기말 총자본(자기자본),-88575000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/936395/000093639515000024/,"StockholdersEquity, MinorityInterest 태그 없음",11
+Ciena,CIEN,2014Q4,2015-01-31,분기말 지배지분 자본,-88575000,USD,공시,https://www.sec.gov/Archives/edgar/data/936395/000093639515000024/,,11
+Ciena,CIEN,2014Q4,2015-01-30,분기말 종가,18.52,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/CIEN?interval=1d&events=splits (2015-01-30),,11
+Ciena,CIEN,2014Q4,2015-03-06,분기말 상장주식수,108281817,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/936395/000093639515000024/,dei:EntityCommonStockSharesOutstanding 클래스 합,11
+Ciena,CIEN,2014Q4,2015-01-30,분기말 시가총액,2005379251,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/CIEN?interval=1d&events=splits (2015-01-30) ; https://www.sec.gov/Archives/edgar/data/936395/000093639515000024/,종가 18.52 × 주식수 108281817,11
+Ciena,CIEN,2015Q1,2015-05-02,분기별 매출액,미확인,USD,미확인,https://www.sec.gov/Archives/edgar/data/936395/000093639515000038/,,11
+Ciena,CIEN,2015Q1,2015-05-02,분기별 영업이익,미확인,USD,미확인,https://www.sec.gov/Archives/edgar/data/936395/000093639515000038/,,11
+Ciena,CIEN,2015Q1,2015-05-02,분기별 당기순이익(지배),미확인,USD,미확인,https://www.sec.gov/Archives/edgar/data/936395/000093639515000038/,,11
+Ciena,CIEN,2015Q1,2015-05-02,분기별 영업활동현금흐름,미확인,USD,미확인,https://www.sec.gov/Archives/edgar/data/936395/000093639515000038/,,11
+Ciena,CIEN,2015Q1,2015-05-02,분기말 자산총계,미확인,USD,미확인,https://www.sec.gov/Archives/edgar/data/936395/000093639515000038/,,11
+Ciena,CIEN,2015Q1,2015-05-02,분기말 부채총계,미확인,USD,미확인,https://www.sec.gov/Archives/edgar/data/936395/000093639515000038/,,11
+Ciena,CIEN,2015Q1,2015-05-02,분기말 총자본(자기자본),미확인,USD,미확인,https://www.sec.gov/Archives/edgar/data/936395/000093639515000038/,,11
+Ciena,CIEN,2015Q1,2015-05-02,분기말 지배지분 자본,미확인,USD,미확인,https://www.sec.gov/Archives/edgar/data/936395/000093639515000038/,,11
+Ciena,CIEN,2015Q1,2015-05-01,분기말 종가,21.29,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/CIEN?interval=1d&events=splits (2015-05-01),,11
+Ciena,CIEN,2015Q1,2015-06-05,분기말 상장주식수,117746722,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/936395/000093639515000038/,dei:EntityCommonStockSharesOutstanding 클래스 합,11
+Ciena,CIEN,2015Q1,2015-05-01,분기말 시가총액,2506827711,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/CIEN?interval=1d&events=splits (2015-05-01) ; https://www.sec.gov/Archives/edgar/data/936395/000093639515000038/,종가 21.29 × 주식수 117746722,11
+Ciena,CIEN,2015Q2,2015-08-01,분기별 매출액,미확인,USD,미확인,https://www.sec.gov/Archives/edgar/data/936395/000093639515000053/,,11
+Ciena,CIEN,2015Q2,2015-08-01,분기별 영업이익,미확인,USD,미확인,https://www.sec.gov/Archives/edgar/data/936395/000093639515000053/,,11
+Ciena,CIEN,2015Q2,2015-08-01,분기별 당기순이익(지배),미확인,USD,미확인,https://www.sec.gov/Archives/edgar/data/936395/000093639515000053/,,11
+Ciena,CIEN,2015Q2,2015-08-01,분기별 영업활동현금흐름,미확인,USD,미확인,https://www.sec.gov/Archives/edgar/data/936395/000093639515000053/,,11
+Ciena,CIEN,2015Q2,2015-08-01,분기말 자산총계,미확인,USD,미확인,https://www.sec.gov/Archives/edgar/data/936395/000093639515000053/,,11
+Ciena,CIEN,2015Q2,2015-08-01,분기말 부채총계,미확인,USD,미확인,https://www.sec.gov/Archives/edgar/data/936395/000093639515000053/,,11
+Ciena,CIEN,2015Q2,2015-08-01,분기말 총자본(자기자본),미확인,USD,미확인,https://www.sec.gov/Archives/edgar/data/936395/000093639515000053/,,11
+Ciena,CIEN,2015Q2,2015-08-01,분기말 지배지분 자본,미확인,USD,미확인,https://www.sec.gov/Archives/edgar/data/936395/000093639515000053/,,11
+Ciena,CIEN,2015Q2,2015-07-31,분기말 종가,25.45,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/CIEN?interval=1d&events=splits (2015-07-31),,11
+Ciena,CIEN,2015Q2,2015-09-04,분기말 상장주식수,134754004,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/936395/000093639515000053/,dei:EntityCommonStockSharesOutstanding 클래스 합,11
+Ciena,CIEN,2015Q2,2015-07-31,분기말 시가총액,3429489402,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/CIEN?interval=1d&events=splits (2015-07-31) ; https://www.sec.gov/Archives/edgar/data/936395/000093639515000053/,종가 25.45 × 주식수 134754004,11
+Ciena,CIEN,2015Q3,2015-10-31,분기별 매출액,미확인,USD,미확인,https://www.sec.gov/Archives/edgar/data/936395/000093639515000062/,,11
+Ciena,CIEN,2015Q3,2015-10-31,분기별 영업이익,미확인,USD,미확인,https://www.sec.gov/Archives/edgar/data/936395/000093639515000062/,,11
+Ciena,CIEN,2015Q3,2015-10-31,분기별 당기순이익(지배),미확인,USD,미확인,https://www.sec.gov/Archives/edgar/data/936395/000093639515000062/,,11
+Ciena,CIEN,2015Q3,2015-10-31,분기별 영업활동현금흐름,데이터 없음(직전 분기 누적 보고서 없음),USD,데이터 없음(직전 보고서 없음),https://www.sec.gov/Archives/edgar/data/936395/000093639515000062/,,11
+Ciena,CIEN,2015Q3,2015-10-31,분기말 자산총계,2695051000,USD,공시,https://www.sec.gov/Archives/edgar/data/936395/000093639515000062/,,11
+Ciena,CIEN,2015Q3,2015-10-31,분기말 부채총계,2074175000,USD,공시,https://www.sec.gov/Archives/edgar/data/936395/000093639515000062/,,11
+Ciena,CIEN,2015Q3,2015-10-31,분기말 총자본(자기자본),620876000,USD,공시,https://www.sec.gov/Archives/edgar/data/936395/000093639515000062/,,11
+Ciena,CIEN,2015Q3,2015-10-31,분기말 지배지분 자본,620876000,USD,공시,https://www.sec.gov/Archives/edgar/data/936395/000093639515000062/,,11
+Ciena,CIEN,2015Q3,2015-10-30,분기말 종가,24.14,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/CIEN?interval=1d&events=splits (2015-10-30),,11
+Ciena,CIEN,2015Q3,2015-12-11,분기말 상장주식수,135790185,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/936395/000093639515000062/,dei:EntityCommonStockSharesOutstanding 클래스 합,11
+Ciena,CIEN,2015Q3,2015-10-30,분기말 시가총액,3277975066,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/CIEN?interval=1d&events=splits (2015-10-30) ; https://www.sec.gov/Archives/edgar/data/936395/000093639515000062/,종가 24.14 × 주식수 135790185,11
+Ciena,CIEN,2015Q4,2016-01-31,분기별 매출액,573115000,USD,공시,https://www.sec.gov/Archives/edgar/data/936395/000093639516000083/,,11
+Ciena,CIEN,2015Q4,2016-01-31,분기별 영업이익,11239000,USD,공시,https://www.sec.gov/Archives/edgar/data/936395/000093639516000083/,,11
+Ciena,CIEN,2015Q4,2016-01-31,분기별 당기순이익(지배),-11546000,USD,공시,https://www.sec.gov/Archives/edgar/data/936395/000093639516000083/,,11
+Ciena,CIEN,2015Q4,2016-01-31,분기별 영업활동현금흐름,14980000,USD,공시,https://www.sec.gov/Archives/edgar/data/936395/000093639516000083/,,11
+Ciena,CIEN,2015Q4,2016-01-31,분기말 자산총계,2589315000,USD,공시,https://www.sec.gov/Archives/edgar/data/936395/000093639516000083/,,11
+Ciena,CIEN,2015Q4,2016-01-31,분기말 부채총계,1962288000,USD,공시,https://www.sec.gov/Archives/edgar/data/936395/000093639516000083/,,11
+Ciena,CIEN,2015Q4,2016-01-31,분기말 총자본(자기자본),627027000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/936395/000093639516000083/,"StockholdersEquity, MinorityInterest 태그 없음",11
+Ciena,CIEN,2015Q4,2016-01-31,분기말 지배지분 자본,627027000,USD,공시,https://www.sec.gov/Archives/edgar/data/936395/000093639516000083/,,11
+Ciena,CIEN,2015Q4,2016-01-29,분기말 종가,17.77,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/CIEN?interval=1d&events=splits (2016-01-29),,11
+Ciena,CIEN,2015Q4,2016-03-04,분기말 상장주식수,137548675,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/936395/000093639516000083/,dei:EntityCommonStockSharesOutstanding 클래스 합,11
+Ciena,CIEN,2015Q4,2016-01-29,분기말 시가총액,2444239955,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/CIEN?interval=1d&events=splits (2016-01-29) ; https://www.sec.gov/Archives/edgar/data/936395/000093639516000083/,종가 17.77 × 주식수 137548675,11
+Ciena,CIEN,2016Q1,2016-04-30,분기별 매출액,640717000,USD,공시,https://www.sec.gov/Archives/edgar/data/936395/000093639516000104/,,11
+Ciena,CIEN,2016Q1,2016-04-30,분기별 영업이익,28233000,USD,공시,https://www.sec.gov/Archives/edgar/data/936395/000093639516000104/,,11
+Ciena,CIEN,2016Q1,2016-04-30,분기별 당기순이익(지배),13997000,USD,공시,https://www.sec.gov/Archives/edgar/data/936395/000093639516000104/,,11
+Ciena,CIEN,2016Q1,2016-04-30,분기별 영업활동현금흐름,60702000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/936395/000093639516000104/ ; https://www.sec.gov/Archives/edgar/data/936395/000093639516000083/,누적 75682000 − 직전누적 14980000 (시작 2015-11-01),11
+Ciena,CIEN,2016Q1,2016-04-30,분기말 자산총계,2981583000,USD,공시,https://www.sec.gov/Archives/edgar/data/936395/000093639516000104/,,11
+Ciena,CIEN,2016Q1,2016-04-30,분기말 부채총계,2312571000,USD,공시,https://www.sec.gov/Archives/edgar/data/936395/000093639516000104/,,11
+Ciena,CIEN,2016Q1,2016-04-30,분기말 총자본(자기자본),669012000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/936395/000093639516000104/,"StockholdersEquity, MinorityInterest 태그 없음",11
+Ciena,CIEN,2016Q1,2016-04-30,분기말 지배지분 자본,669012000,USD,공시,https://www.sec.gov/Archives/edgar/data/936395/000093639516000104/,,11
+Ciena,CIEN,2016Q1,2016-04-29,분기말 종가,16.83,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/CIEN?interval=1d&events=splits (2016-04-29),,11
+Ciena,CIEN,2016Q1,2016-06-03,분기말 상장주식수,138116410,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/936395/000093639516000104/,dei:EntityCommonStockSharesOutstanding 클래스 합,11
+Ciena,CIEN,2016Q1,2016-04-29,분기말 시가총액,2324499180,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/CIEN?interval=1d&events=splits (2016-04-29) ; https://www.sec.gov/Archives/edgar/data/936395/000093639516000104/,종가 16.83 × 주식수 138116410,11
+Ciena,CIEN,2016Q2,2016-07-31,분기별 매출액,670550000,USD,공시,https://www.sec.gov/Archives/edgar/data/936395/000093639516000115/,,11
+Ciena,CIEN,2016Q2,2016-07-31,분기별 영업이익,57024000,USD,공시,https://www.sec.gov/Archives/edgar/data/936395/000093639516000115/,,11
+Ciena,CIEN,2016Q2,2016-07-31,분기별 당기순이익(지배),33546000,USD,공시,https://www.sec.gov/Archives/edgar/data/936395/000093639516000115/,,11
+Ciena,CIEN,2016Q2,2016-07-31,분기별 영업활동현금흐름,77127000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/936395/000093639516000115/ ; https://www.sec.gov/Archives/edgar/data/936395/000093639516000104/,누적 152809000 − 직전누적 75682000 (시작 2015-11-01),11
+Ciena,CIEN,2016Q2,2016-07-31,분기말 자산총계,3043658000,USD,공시,https://www.sec.gov/Archives/edgar/data/936395/000093639516000115/,,11
+Ciena,CIEN,2016Q2,2016-07-31,분기말 부채총계,2322099000,USD,공시,https://www.sec.gov/Archives/edgar/data/936395/000093639516000115/,,11
+Ciena,CIEN,2016Q2,2016-07-31,분기말 총자본(자기자본),721559000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/936395/000093639516000115/,"StockholdersEquity, MinorityInterest 태그 없음",11
+Ciena,CIEN,2016Q2,2016-07-31,분기말 지배지분 자본,721559000,USD,공시,https://www.sec.gov/Archives/edgar/data/936395/000093639516000115/,,11
+Ciena,CIEN,2016Q2,2016-07-29,분기말 종가,19.19,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/CIEN?interval=1d&events=splits (2016-07-29),,11
+Ciena,CIEN,2016Q2,2016-09-02,분기말 상장주식수,139341312,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/936395/000093639516000115/,dei:EntityCommonStockSharesOutstanding 클래스 합,11
+Ciena,CIEN,2016Q2,2016-07-29,분기말 시가총액,2673959777,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/CIEN?interval=1d&events=splits (2016-07-29) ; https://www.sec.gov/Archives/edgar/data/936395/000093639516000115/,종가 19.19 × 주식수 139341312,11
+Ciena,CIEN,2016Q3,2016-10-31,분기별 매출액,716191000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/936395/000093639516000128/ ; https://www.sec.gov/Archives/edgar/data/936395/000093639516000115/,연간 2600573000 − 9개월누적 1884382000 (SalesRevenueNet),11
+Ciena,CIEN,2016Q3,2016-10-31,분기별 영업이익,59673000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/936395/000093639516000128/ ; https://www.sec.gov/Archives/edgar/data/936395/000093639516000115/,연간 156169000 − 9개월누적 96496000 (OperatingIncomeLoss),11
+Ciena,CIEN,2016Q3,2016-10-31,분기별 당기순이익(지배),36587000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/936395/000093639516000128/ ; https://www.sec.gov/Archives/edgar/data/936395/000093639516000115/,연간 72584000 − 9개월누적 35997000 (NetIncomeLoss),11
+Ciena,CIEN,2016Q3,2016-10-31,분기별 영업활동현금흐름,136711000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/936395/000093639516000128/ ; https://www.sec.gov/Archives/edgar/data/936395/000093639516000115/,누적 289520000 − 직전누적 152809000 (시작 2015-11-01),11
+Ciena,CIEN,2016Q3,2016-10-31,분기말 자산총계,2873575000,USD,공시(재작성 반영),https://www.sec.gov/Archives/edgar/data/936395/000093639517000064/,원 공시 2882442000 (https://www.sec.gov/Archives/edgar/data/936395/000093639516000128/),11
+Ciena,CIEN,2016Q3,2016-10-31,분기말 부채총계,2107234000,USD,공시(재작성 반영),https://www.sec.gov/Archives/edgar/data/936395/000093639517000064/,원 공시 2116101000 (https://www.sec.gov/Archives/edgar/data/936395/000093639516000128/),11
+Ciena,CIEN,2016Q3,2016-10-31,분기말 총자본(자기자본),766341000,USD,공시,https://www.sec.gov/Archives/edgar/data/936395/000093639516000128/,,11
+Ciena,CIEN,2016Q3,2016-10-31,분기말 지배지분 자본,766341000,USD,공시,https://www.sec.gov/Archives/edgar/data/936395/000093639516000128/,,11
+Ciena,CIEN,2016Q3,2016-10-31,분기말 종가,19.38,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/CIEN?interval=1d&events=splits (2016-10-31),,11
+Ciena,CIEN,2016Q3,2016-12-16,분기말 상장주식수,140379744,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/936395/000093639516000128/,dei:EntityCommonStockSharesOutstanding 클래스 합,11
+Ciena,CIEN,2016Q3,2016-10-31,분기말 시가총액,2720559439,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/CIEN?interval=1d&events=splits (2016-10-31) ; https://www.sec.gov/Archives/edgar/data/936395/000093639516000128/,종가 19.38 × 주식수 140379744,11
+Ciena,CIEN,2016Q4,2017-01-31,분기별 매출액,621497000,USD,공시,https://www.sec.gov/Archives/edgar/data/936395/000093639517000020/,,11
+Ciena,CIEN,2016Q4,2017-01-31,분기별 영업이익,19104000,USD,공시,https://www.sec.gov/Archives/edgar/data/936395/000093639517000020/,,11
+Ciena,CIEN,2016Q4,2017-01-31,분기별 당기순이익(지배),3861000,USD,공시,https://www.sec.gov/Archives/edgar/data/936395/000093639517000020/,,11
+Ciena,CIEN,2016Q4,2017-01-31,분기별 영업활동현금흐름,-26250000,USD,공시,https://www.sec.gov/Archives/edgar/data/936395/000093639517000020/,,11
+Ciena,CIEN,2016Q4,2017-01-31,분기말 자산총계,2860094000,USD,공시,https://www.sec.gov/Archives/edgar/data/936395/000093639517000020/,,11
+Ciena,CIEN,2016Q4,2017-01-31,분기말 부채총계,2061201000,USD,공시,https://www.sec.gov/Archives/edgar/data/936395/000093639517000020/,,11
+Ciena,CIEN,2016Q4,2017-01-31,분기말 총자본(자기자본),798893000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/936395/000093639517000020/,"StockholdersEquity, MinorityInterest 태그 없음",11
+Ciena,CIEN,2016Q4,2017-01-31,분기말 지배지분 자본,798893000,USD,공시,https://www.sec.gov/Archives/edgar/data/936395/000093639517000020/,,11
+Ciena,CIEN,2016Q4,2017-01-31,분기말 종가,24.34,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/CIEN?interval=1d&events=splits (2017-01-31),,11
+Ciena,CIEN,2016Q4,2017-03-03,분기말 상장주식수,141317330,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/936395/000093639517000020/,dei:EntityCommonStockSharesOutstanding 클래스 합,11
+Ciena,CIEN,2016Q4,2017-01-31,분기말 시가총액,3439663812,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/CIEN?interval=1d&events=splits (2017-01-31) ; https://www.sec.gov/Archives/edgar/data/936395/000093639517000020/,종가 24.34 × 주식수 141317330,11
+Ciena,CIEN,2017Q1,2017-04-30,분기별 매출액,707022000,USD,공시,https://www.sec.gov/Archives/edgar/data/936395/000093639517000038/,,11
+Ciena,CIEN,2017Q1,2017-04-30,분기별 영업이익,57820000,USD,공시,https://www.sec.gov/Archives/edgar/data/936395/000093639517000038/,,11
+Ciena,CIEN,2017Q1,2017-04-30,분기별 당기순이익(지배),38026000,USD,공시,https://www.sec.gov/Archives/edgar/data/936395/000093639517000038/,,11
+Ciena,CIEN,2017Q1,2017-04-30,분기별 영업활동현금흐름,71998000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/936395/000093639517000038/ ; https://www.sec.gov/Archives/edgar/data/936395/000093639517000020/,누적 45748000 − 직전누적 -26250000 (시작 2016-11-01),11
+Ciena,CIEN,2017Q1,2017-04-30,분기말 자산총계,2777103000,USD,공시,https://www.sec.gov/Archives/edgar/data/936395/000093639517000038/,,11
+Ciena,CIEN,2017Q1,2017-04-30,분기말 부채총계,1930558000,USD,공시,https://www.sec.gov/Archives/edgar/data/936395/000093639517000038/,,11
+Ciena,CIEN,2017Q1,2017-04-30,분기말 총자본(자기자본),846545000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/936395/000093639517000038/,"StockholdersEquity, MinorityInterest 태그 없음",11
+Ciena,CIEN,2017Q1,2017-04-30,분기말 지배지분 자본,846545000,USD,공시,https://www.sec.gov/Archives/edgar/data/936395/000093639517000038/,,11
+Ciena,CIEN,2017Q1,2017-04-28,분기말 종가,22.91,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/CIEN?interval=1d&events=splits (2017-04-28),,11
+Ciena,CIEN,2017Q1,2017-06-02,분기말 상장주식수,141831617,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/936395/000093639517000038/,dei:EntityCommonStockSharesOutstanding 클래스 합,11
+Ciena,CIEN,2017Q1,2017-04-28,분기말 시가총액,3249362345,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/CIEN?interval=1d&events=splits (2017-04-28) ; https://www.sec.gov/Archives/edgar/data/936395/000093639517000038/,종가 22.91 × 주식수 141831617,11
+Ciena,CIEN,2017Q2,2017-07-31,분기별 매출액,728719000,USD,공시,https://www.sec.gov/Archives/edgar/data/936395/000093639517000051/,,11
+Ciena,CIEN,2017Q2,2017-07-31,분기별 영업이익,81999000,USD,공시,https://www.sec.gov/Archives/edgar/data/936395/000093639517000051/,,11
+Ciena,CIEN,2017Q2,2017-07-31,분기별 당기순이익(지배),60010000,USD,공시,https://www.sec.gov/Archives/edgar/data/936395/000093639517000051/,,11
+Ciena,CIEN,2017Q2,2017-07-31,분기별 영업활동현금흐름,50597000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/936395/000093639517000051/ ; https://www.sec.gov/Archives/edgar/data/936395/000093639517000038/,누적 96345000 − 직전누적 45748000 (시작 2016-11-01),11
+Ciena,CIEN,2017Q2,2017-07-31,분기말 자산총계,2736660000,USD,공시,https://www.sec.gov/Archives/edgar/data/936395/000093639517000051/,,11
+Ciena,CIEN,2017Q2,2017-07-31,분기말 부채총계,1792350000,USD,공시,https://www.sec.gov/Archives/edgar/data/936395/000093639517000051/,,11
+Ciena,CIEN,2017Q2,2017-07-31,분기말 총자본(자기자본),944310000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/936395/000093639517000051/,"StockholdersEquity, MinorityInterest 태그 없음",11
+Ciena,CIEN,2017Q2,2017-07-31,분기말 지배지분 자본,944310000,USD,공시,https://www.sec.gov/Archives/edgar/data/936395/000093639517000051/,,11
+Ciena,CIEN,2017Q2,2017-07-31,분기말 종가,25.75,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/CIEN?interval=1d&events=splits (2017-07-31),,11
+Ciena,CIEN,2017Q2,2017-09-01,분기말 상장주식수,142688322,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/936395/000093639517000051/,dei:EntityCommonStockSharesOutstanding 클래스 합,11
+Ciena,CIEN,2017Q2,2017-07-31,분기말 시가총액,3674224292,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/CIEN?interval=1d&events=splits (2017-07-31) ; https://www.sec.gov/Archives/edgar/data/936395/000093639517000051/,종가 25.75 × 주식수 142688322,11
+Ciena,CIEN,2017Q3,2017-10-31,분기별 매출액,744449000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/936395/000093639517000064/ ; https://www.sec.gov/Archives/edgar/data/936395/000093639517000051/,연간 2801687000 − 9개월누적 2057238000 (SalesRevenueNet),11
+Ciena,CIEN,2017Q3,2017-10-31,분기별 영업이익,55799000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/936395/000093639517000064/ ; https://www.sec.gov/Archives/edgar/data/936395/000093639517000051/,연간 214722000 − 9개월누적 158923000 (OperatingIncomeLoss),11
+Ciena,CIEN,2017Q3,2017-10-31,분기별 당기순이익(지배),1160056000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/936395/000093639517000064/ ; https://www.sec.gov/Archives/edgar/data/936395/000093639517000051/,연간 1261953000 − 9개월누적 101897000 (NetIncomeLoss),11
+Ciena,CIEN,2017Q3,2017-10-31,분기별 영업활동현금흐름,138537000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/936395/000093639517000064/ ; https://www.sec.gov/Archives/edgar/data/936395/000093639517000051/,누적 234882000 − 직전누적 96345000 (시작 2016-11-01),11
+Ciena,CIEN,2017Q3,2017-10-31,분기말 자산총계,3951711000,USD,공시,https://www.sec.gov/Archives/edgar/data/936395/000093639517000064/,,11
+Ciena,CIEN,2017Q3,2017-10-31,분기말 부채총계,1815369000,USD,공시,https://www.sec.gov/Archives/edgar/data/936395/000093639517000064/,,11
+Ciena,CIEN,2017Q3,2017-10-31,분기말 총자본(자기자본),2136342000,USD,공시,https://www.sec.gov/Archives/edgar/data/936395/000093639517000064/,,11
+Ciena,CIEN,2017Q3,2017-10-31,분기말 지배지분 자본,2136342000,USD,공시,https://www.sec.gov/Archives/edgar/data/936395/000093639517000064/,,11
+Ciena,CIEN,2017Q3,2017-10-31,분기말 종가,21.27,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/CIEN?interval=1d&events=splits (2017-10-31),,11
+Ciena,CIEN,2017Q3,2017-12-15,분기말 상장주식수,143679592,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/936395/000093639517000064/,dei:EntityCommonStockSharesOutstanding 클래스 합,11
+Ciena,CIEN,2017Q3,2017-10-31,분기말 시가총액,3056064922,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/CIEN?interval=1d&events=splits (2017-10-31) ; https://www.sec.gov/Archives/edgar/data/936395/000093639517000064/,종가 21.27 × 주식수 143679592,11
+Ciena,CIEN,2017Q4,2018-01-31,분기별 매출액,646135000,USD,공시,https://www.sec.gov/Archives/edgar/data/936395/000093639518000013/,,11
+Ciena,CIEN,2017Q4,2018-01-31,분기별 영업이익,16736000,USD,공시,https://www.sec.gov/Archives/edgar/data/936395/000093639518000013/,,11
+Ciena,CIEN,2017Q4,2018-01-31,분기별 당기순이익(지배),-473363000,USD,공시,https://www.sec.gov/Archives/edgar/data/936395/000093639518000013/,,11
+Ciena,CIEN,2017Q4,2018-01-31,분기별 영업활동현금흐름,35703000,USD,공시,https://www.sec.gov/Archives/edgar/data/936395/000093639518000013/,,11
+Ciena,CIEN,2017Q4,2018-01-31,분기말 자산총계,3469384000,USD,공시,https://www.sec.gov/Archives/edgar/data/936395/000093639518000013/,,11
+Ciena,CIEN,2017Q4,2018-01-31,분기말 부채총계,1713244000,USD,공시,https://www.sec.gov/Archives/edgar/data/936395/000093639518000013/,,11
+Ciena,CIEN,2017Q4,2018-01-31,분기말 총자본(자기자본),1756140000,USD,공시,https://www.sec.gov/Archives/edgar/data/936395/000093639518000013/,,11
+Ciena,CIEN,2017Q4,2018-01-31,분기말 지배지분 자본,1756140000,USD,공시,https://www.sec.gov/Archives/edgar/data/936395/000093639518000013/,,11
+Ciena,CIEN,2017Q4,2018-01-31,분기말 종가,21.28,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/CIEN?interval=1d&events=splits (2018-01-31),,11
+Ciena,CIEN,2017Q4,2018-03-05,분기말 상장주식수,143586925,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/936395/000093639518000013/,dei:EntityCommonStockSharesOutstanding 클래스 합,11
+Ciena,CIEN,2017Q4,2018-01-31,분기말 시가총액,3055529764,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/CIEN?interval=1d&events=splits (2018-01-31) ; https://www.sec.gov/Archives/edgar/data/936395/000093639518000013/,종가 21.28 × 주식수 143586925,11
+Ciena,CIEN,2018Q1,2018-04-30,분기별 매출액,729978000,USD,공시,https://www.sec.gov/Archives/edgar/data/936395/000093639518000024/,,11
+Ciena,CIEN,2018Q1,2018-04-30,분기별 영업이익,32066000,USD,공시,https://www.sec.gov/Archives/edgar/data/936395/000093639518000024/,,11
+Ciena,CIEN,2018Q1,2018-04-30,분기별 당기순이익(지배),13856000,USD,공시,https://www.sec.gov/Archives/edgar/data/936395/000093639518000024/,,11
+Ciena,CIEN,2018Q1,2018-04-30,분기별 영업활동현금흐름,37427000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/936395/000093639518000024/ ; https://www.sec.gov/Archives/edgar/data/936395/000093639518000013/,누적 73130000 − 직전누적 35703000 (시작 2017-11-01),11
+Ciena,CIEN,2018Q1,2018-04-30,분기말 자산총계,3506554000,USD,공시,https://www.sec.gov/Archives/edgar/data/936395/000093639518000024/,,11
+Ciena,CIEN,2018Q1,2018-04-30,분기말 부채총계,1762435000,USD,공시,https://www.sec.gov/Archives/edgar/data/936395/000093639518000024/,,11
+Ciena,CIEN,2018Q1,2018-04-30,분기말 총자본(자기자본),1744119000,USD,공시,https://www.sec.gov/Archives/edgar/data/936395/000093639518000024/,,11
+Ciena,CIEN,2018Q1,2018-04-30,분기말 지배지분 자본,1744119000,USD,공시,https://www.sec.gov/Archives/edgar/data/936395/000093639518000024/,,11
+Ciena,CIEN,2018Q1,2018-04-30,분기말 종가,25.75,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/CIEN?interval=1d&events=splits (2018-04-30),,11
+Ciena,CIEN,2018Q1,2018-06-04,분기말 상장주식수,142827652,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/936395/000093639518000024/,dei:EntityCommonStockSharesOutstanding 클래스 합,11
+Ciena,CIEN,2018Q1,2018-04-30,분기말 시가총액,3677812039,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/CIEN?interval=1d&events=splits (2018-04-30) ; https://www.sec.gov/Archives/edgar/data/936395/000093639518000024/,종가 25.75 × 주식수 142827652,11
+Ciena,CIEN,2018Q2,2018-07-31,분기별 매출액,818817000,USD,공시,https://www.sec.gov/Archives/edgar/data/936395/000093639518000037/,,11
+Ciena,CIEN,2018Q2,2018-07-31,분기별 영업이익,85274000,USD,공시,https://www.sec.gov/Archives/edgar/data/936395/000093639518000037/,,11
+Ciena,CIEN,2018Q2,2018-07-31,분기별 당기순이익(지배),50840000,USD,공시,https://www.sec.gov/Archives/edgar/data/936395/000093639518000037/,,11
+Ciena,CIEN,2018Q2,2018-07-31,분기별 영업활동현금흐름,88105000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/936395/000093639518000037/ ; https://www.sec.gov/Archives/edgar/data/936395/000093639518000024/,누적 161235000 − 직전누적 73130000 (시작 2017-11-01),11
+Ciena,CIEN,2018Q2,2018-07-31,분기말 자산총계,3622695000,USD,공시,https://www.sec.gov/Archives/edgar/data/936395/000093639518000037/,,11
+Ciena,CIEN,2018Q2,2018-07-31,분기말 부채총계,1843741000,USD,공시,https://www.sec.gov/Archives/edgar/data/936395/000093639518000037/,,11
+Ciena,CIEN,2018Q2,2018-07-31,분기말 총자본(자기자본),1778954000,USD,공시,https://www.sec.gov/Archives/edgar/data/936395/000093639518000037/,,11
+Ciena,CIEN,2018Q2,2018-07-31,분기말 지배지분 자본,1778954000,USD,공시,https://www.sec.gov/Archives/edgar/data/936395/000093639518000037/,,11
+Ciena,CIEN,2018Q2,2018-07-31,분기말 종가,25.4,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/CIEN?interval=1d&events=splits (2018-07-31),,11
+Ciena,CIEN,2018Q2,2018-08-31,분기말 상장주식수,142601249,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/936395/000093639518000037/,dei:EntityCommonStockSharesOutstanding 클래스 합,11
+Ciena,CIEN,2018Q2,2018-07-31,분기말 시가총액,3622071725,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/CIEN?interval=1d&events=splits (2018-07-31) ; https://www.sec.gov/Archives/edgar/data/936395/000093639518000037/,종가 25.4 × 주식수 142601249,11
+Ciena,CIEN,2018Q3,2018-10-31,분기별 매출액,899356000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/936395/000093639518000048/ ; https://www.sec.gov/Archives/edgar/data/936395/000093639518000037/,연간 3094286000 − 9개월누적 2194930000 (Revenues),11
+Ciena,CIEN,2018Q3,2018-10-31,분기별 영업이익,95870000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/936395/000093639518000048/ ; https://www.sec.gov/Archives/edgar/data/936395/000093639518000037/,연간 229946000 − 9개월누적 134076000 (OperatingIncomeLoss),11
+Ciena,CIEN,2018Q3,2018-10-31,분기별 당기순이익(지배),63977000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/936395/000093639518000048/ ; https://www.sec.gov/Archives/edgar/data/936395/000093639518000037/,연간 -344690000 − 9개월누적 -408667000 (NetIncomeLoss),11
+Ciena,CIEN,2018Q3,2018-10-31,분기별 영업활동현금흐름,68026000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/936395/000093639518000048/ ; https://www.sec.gov/Archives/edgar/data/936395/000093639518000037/,누적 229261000 − 직전누적 161235000 (시작 2017-11-01),11
+Ciena,CIEN,2018Q3,2018-10-31,분기말 자산총계,3756523000,USD,공시,https://www.sec.gov/Archives/edgar/data/936395/000093639518000048/,,11
+Ciena,CIEN,2018Q3,2018-10-31,분기말 부채총계,1827189000,USD,공시,https://www.sec.gov/Archives/edgar/data/936395/000093639518000048/,,11
+Ciena,CIEN,2018Q3,2018-10-31,분기말 총자본(자기자본),1929334000,USD,공시,https://www.sec.gov/Archives/edgar/data/936395/000093639518000048/,,11
+Ciena,CIEN,2018Q3,2018-10-31,분기말 지배지분 자본,1929334000,USD,공시,https://www.sec.gov/Archives/edgar/data/936395/000093639518000048/,,11
+Ciena,CIEN,2018Q3,2018-10-31,분기말 종가,31.26,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/CIEN?interval=1d&events=splits (2018-10-31),,11
+Ciena,CIEN,2018Q3,2018-12-17,분기말 상장주식수,156481822,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/936395/000093639518000048/,dei:EntityCommonStockSharesOutstanding 클래스 합,11
+Ciena,CIEN,2018Q3,2018-10-31,분기말 시가총액,4891621756,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/CIEN?interval=1d&events=splits (2018-10-31) ; https://www.sec.gov/Archives/edgar/data/936395/000093639518000048/,종가 31.26 × 주식수 156481822,11
+Ciena,CIEN,2018Q4,2019-01-31,분기별 매출액,778527000,USD,공시,https://www.sec.gov/Archives/edgar/data/936395/000093639519000010/,,11
+Ciena,CIEN,2018Q4,2019-01-31,분기별 영업이익,47943000,USD,공시,https://www.sec.gov/Archives/edgar/data/936395/000093639519000010/,,11
+Ciena,CIEN,2018Q4,2019-01-31,분기별 당기순이익(지배),33616000,USD,공시,https://www.sec.gov/Archives/edgar/data/936395/000093639519000010/,,11
+Ciena,CIEN,2018Q4,2019-01-31,분기별 영업활동현금흐름,-14105000,USD,공시,https://www.sec.gov/Archives/edgar/data/936395/000093639519000010/,,11
+Ciena,CIEN,2018Q4,2019-01-31,분기말 자산총계,3618106000,USD,공시,https://www.sec.gov/Archives/edgar/data/936395/000093639519000010/,,11
+Ciena,CIEN,2018Q4,2019-01-31,분기말 부채총계,1563801000,USD,공시,https://www.sec.gov/Archives/edgar/data/936395/000093639519000010/,,11
+Ciena,CIEN,2018Q4,2019-01-31,분기말 총자본(자기자본),2054305000,USD,공시,https://www.sec.gov/Archives/edgar/data/936395/000093639519000010/,,11
+Ciena,CIEN,2018Q4,2019-01-31,분기말 지배지분 자본,2054305000,USD,공시,https://www.sec.gov/Archives/edgar/data/936395/000093639519000010/,,11
+Ciena,CIEN,2018Q4,2019-01-31,분기말 종가,38.09,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/CIEN?interval=1d&events=splits (2019-01-31),,11
+Ciena,CIEN,2018Q4,2019-03-06,분기말 상장주식수,155953204,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/936395/000093639519000010/,dei:EntityCommonStockSharesOutstanding 클래스 합,11
+Ciena,CIEN,2018Q4,2019-01-31,분기말 시가총액,5940257540,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/CIEN?interval=1d&events=splits (2019-01-31) ; https://www.sec.gov/Archives/edgar/data/936395/000093639519000010/,종가 38.09 × 주식수 155953204,11
+Ciena,CIEN,2019Q1,2019-04-30,분기별 매출액,865011000,USD,공시,https://www.sec.gov/Archives/edgar/data/936395/000093639519000021/,,11
+Ciena,CIEN,2019Q1,2019-04-30,분기별 영업이익,80320000,USD,공시,https://www.sec.gov/Archives/edgar/data/936395/000093639519000021/,,11
+Ciena,CIEN,2019Q1,2019-04-30,분기별 당기순이익(지배),52738000,USD,공시,https://www.sec.gov/Archives/edgar/data/936395/000093639519000021/,,11
+Ciena,CIEN,2019Q1,2019-04-30,분기별 영업활동현금흐름,104117000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/936395/000093639519000021/ ; https://www.sec.gov/Archives/edgar/data/936395/000093639519000010/,누적 90012000 − 직전누적 -14105000 (시작 2018-11-01),11
+Ciena,CIEN,2019Q1,2019-04-30,분기말 자산총계,3686778000,USD,공시,https://www.sec.gov/Archives/edgar/data/936395/000093639519000021/,,11
+Ciena,CIEN,2019Q1,2019-04-30,분기말 부채총계,1623579000,USD,공시,https://www.sec.gov/Archives/edgar/data/936395/000093639519000021/,,11
+Ciena,CIEN,2019Q1,2019-04-30,분기말 총자본(자기자본),2063199000,USD,공시,https://www.sec.gov/Archives/edgar/data/936395/000093639519000021/,,11
+Ciena,CIEN,2019Q1,2019-04-30,분기말 지배지분 자본,2063199000,USD,공시,https://www.sec.gov/Archives/edgar/data/936395/000093639519000021/,,11
+Ciena,CIEN,2019Q1,2019-04-30,분기말 종가,38.36,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/CIEN?interval=1d&events=splits (2019-04-30),,11
+Ciena,CIEN,2019Q1,2019-06-07,분기말 상장주식수,155088524,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/936395/000093639519000021/,dei:EntityCommonStockSharesOutstanding 클래스 합,11
+Ciena,CIEN,2019Q1,2019-04-30,분기말 시가총액,5949195781,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/CIEN?interval=1d&events=splits (2019-04-30) ; https://www.sec.gov/Archives/edgar/data/936395/000093639519000021/,종가 38.36 × 주식수 155088524,11
+Ciena,CIEN,2019Q2,2019-07-31,분기별 매출액,960606000,USD,공시,https://www.sec.gov/Archives/edgar/data/936395/000093639519000040/,,11
+Ciena,CIEN,2019Q2,2019-07-31,분기별 영업이익,125301000,USD,공시,https://www.sec.gov/Archives/edgar/data/936395/000093639519000040/,,11
+Ciena,CIEN,2019Q2,2019-07-31,분기별 당기순이익(지배),86749000,USD,공시,https://www.sec.gov/Archives/edgar/data/936395/000093639519000040/,,11
+Ciena,CIEN,2019Q2,2019-07-31,분기별 영업활동현금흐름,83115000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/936395/000093639519000040/ ; https://www.sec.gov/Archives/edgar/data/936395/000093639519000021/,누적 173127000 − 직전누적 90012000 (시작 2018-11-01),11
+Ciena,CIEN,2019Q2,2019-07-31,분기말 자산총계,3775708000,USD,공시,https://www.sec.gov/Archives/edgar/data/936395/000093639519000040/,,11
+Ciena,CIEN,2019Q2,2019-07-31,분기말 부채총계,1656324000,USD,공시,https://www.sec.gov/Archives/edgar/data/936395/000093639519000040/,,11
+Ciena,CIEN,2019Q2,2019-07-31,분기말 총자본(자기자본),2119384000,USD,공시,https://www.sec.gov/Archives/edgar/data/936395/000093639519000040/,,11
+Ciena,CIEN,2019Q2,2019-07-31,분기말 지배지분 자본,2119384000,USD,공시,https://www.sec.gov/Archives/edgar/data/936395/000093639519000040/,,11
+Ciena,CIEN,2019Q2,2019-07-31,분기말 종가,45.22,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/CIEN?interval=1d&events=splits (2019-07-31),,11
+Ciena,CIEN,2019Q2,2019-09-06,분기말 상장주식수,154696211,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/936395/000093639519000040/,dei:EntityCommonStockSharesOutstanding 클래스 합,11
+Ciena,CIEN,2019Q2,2019-07-31,분기말 시가총액,6995362661,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/CIEN?interval=1d&events=splits (2019-07-31) ; https://www.sec.gov/Archives/edgar/data/936395/000093639519000040/,종가 45.22 × 주식수 154696211,11
+Ciena,CIEN,2019Q3,2019-10-31,분기별 매출액,967987000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/936395/000093639519000056/ ; https://www.sec.gov/Archives/edgar/data/936395/000093639519000040/,연간 3572131000 − 9개월누적 2604144000 (Revenues),11
+Ciena,CIEN,2019Q3,2019-10-31,분기별 영업이익,93202000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/936395/000093639519000056/ ; https://www.sec.gov/Archives/edgar/data/936395/000093639519000040/,연간 346766000 − 9개월누적 253564000 (OperatingIncomeLoss),11
+Ciena,CIEN,2019Q3,2019-10-31,분기별 당기순이익(지배),80331000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/936395/000093639519000056/ ; https://www.sec.gov/Archives/edgar/data/936395/000093639519000040/,연간 253434000 − 9개월누적 173103000 (NetIncomeLoss),11
+Ciena,CIEN,2019Q3,2019-10-31,분기별 영업활동현금흐름,240013000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/936395/000093639519000056/ ; https://www.sec.gov/Archives/edgar/data/936395/000093639519000040/,누적 413140000 − 직전누적 173127000 (시작 2018-11-01),11
+Ciena,CIEN,2019Q3,2019-10-31,분기말 자산총계,3893346000,USD,공시,https://www.sec.gov/Archives/edgar/data/936395/000093639519000056/,,11
+Ciena,CIEN,2019Q3,2019-10-31,분기말 부채총계,1720585000,USD,공시,https://www.sec.gov/Archives/edgar/data/936395/000093639519000056/,,11
+Ciena,CIEN,2019Q3,2019-10-31,분기말 총자본(자기자본),2172761000,USD,공시,https://www.sec.gov/Archives/edgar/data/936395/000093639519000056/,,11
+Ciena,CIEN,2019Q3,2019-10-31,분기말 지배지분 자본,2172761000,USD,공시,https://www.sec.gov/Archives/edgar/data/936395/000093639519000056/,,11
+Ciena,CIEN,2019Q3,2019-10-31,분기말 종가,37.12,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/CIEN?interval=1d&events=splits (2019-10-31),,11
+Ciena,CIEN,2019Q3,2019-12-16,분기말 상장주식수,154054072,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/936395/000093639519000056/,dei:EntityCommonStockSharesOutstanding 클래스 합,11
+Ciena,CIEN,2019Q3,2019-10-31,분기말 시가총액,5718487153,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/CIEN?interval=1d&events=splits (2019-10-31) ; https://www.sec.gov/Archives/edgar/data/936395/000093639519000056/,종가 37.12 × 주식수 154054072,11
+Ciena,CIEN,2019Q4,2020-01-31,분기별 매출액,832912000,USD,공시,https://www.sec.gov/Archives/edgar/data/936395/000093639520000011/,,11
+Ciena,CIEN,2019Q4,2020-01-31,분기별 영업이익,77957000,USD,공시,https://www.sec.gov/Archives/edgar/data/936395/000093639520000011/,,11
+Ciena,CIEN,2019Q4,2020-01-31,분기별 당기순이익(지배),62328000,USD,공시,https://www.sec.gov/Archives/edgar/data/936395/000093639520000011/,,11
+Ciena,CIEN,2019Q4,2020-01-31,분기별 영업활동현금흐름,39764000,USD,공시,https://www.sec.gov/Archives/edgar/data/936395/000093639520000011/,,11
+Ciena,CIEN,2019Q4,2020-01-31,분기말 자산총계,3830887000,USD,공시,https://www.sec.gov/Archives/edgar/data/936395/000093639520000011/,,11
+Ciena,CIEN,2019Q4,2020-01-31,분기말 부채총계,1637237000,USD,공시,https://www.sec.gov/Archives/edgar/data/936395/000093639520000011/,,11
+Ciena,CIEN,2019Q4,2020-01-31,분기말 총자본(자기자본),2193650000,USD,공시,https://www.sec.gov/Archives/edgar/data/936395/000093639520000011/,,11
+Ciena,CIEN,2019Q4,2020-01-31,분기말 지배지분 자본,2193650000,USD,공시,https://www.sec.gov/Archives/edgar/data/936395/000093639520000011/,,11
+Ciena,CIEN,2019Q4,2020-01-31,분기말 종가,40.67,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/CIEN?interval=1d&events=splits (2020-01-31),,11
+Ciena,CIEN,2019Q4,2020-03-06,분기말 상장주식수,153503455,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/936395/000093639520000011/,dei:EntityCommonStockSharesOutstanding 클래스 합,11
+Ciena,CIEN,2019Q4,2020-01-31,분기말 시가총액,6242985515,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/CIEN?interval=1d&events=splits (2020-01-31) ; https://www.sec.gov/Archives/edgar/data/936395/000093639520000011/,종가 40.67 × 주식수 153503455,11
+Ciena,CIEN,2020Q1,2020-05-02,분기별 매출액,894053000,USD,공시,https://www.sec.gov/Archives/edgar/data/936395/000093639520000028/,,11
+Ciena,CIEN,2020Q1,2020-05-02,분기별 영업이익,127488000,USD,공시,https://www.sec.gov/Archives/edgar/data/936395/000093639520000028/,,11
+Ciena,CIEN,2020Q1,2020-05-02,분기별 당기순이익(지배),91655000,USD,공시,https://www.sec.gov/Archives/edgar/data/936395/000093639520000028/,,11
+Ciena,CIEN,2020Q1,2020-05-02,분기별 영업활동현금흐름,데이터 없음(직전 분기 누적 보고서 없음),USD,데이터 없음(직전 보고서 없음),https://www.sec.gov/Archives/edgar/data/936395/000093639520000028/,,11
+Ciena,CIEN,2020Q1,2020-05-02,분기말 자산총계,3856762000,USD,공시,https://www.sec.gov/Archives/edgar/data/936395/000093639520000028/,,11
+Ciena,CIEN,2020Q1,2020-05-02,분기말 부채총계,1616186000,USD,공시,https://www.sec.gov/Archives/edgar/data/936395/000093639520000028/,,11
+Ciena,CIEN,2020Q1,2020-05-02,분기말 총자본(자기자본),2240576000,USD,공시,https://www.sec.gov/Archives/edgar/data/936395/000093639520000028/,,11
+Ciena,CIEN,2020Q1,2020-05-02,분기말 지배지분 자본,2240576000,USD,공시,https://www.sec.gov/Archives/edgar/data/936395/000093639520000028/,,11
+Ciena,CIEN,2020Q1,2020-05-01,분기말 종가,46.34,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/CIEN?interval=1d&events=splits (2020-05-01),,11
+Ciena,CIEN,2020Q1,2020-06-05,분기말 상장주식수,153644375,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/936395/000093639520000028/,dei:EntityCommonStockSharesOutstanding 클래스 합,11
+Ciena,CIEN,2020Q1,2020-05-01,분기말 시가총액,7119880338,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/CIEN?interval=1d&events=splits (2020-05-01) ; https://www.sec.gov/Archives/edgar/data/936395/000093639520000028/,종가 46.34 × 주식수 153644375,11
+Ciena,CIEN,2020Q2,2020-08-01,분기별 매출액,976712000,USD,공시,https://www.sec.gov/Archives/edgar/data/936395/000093639520000036/,,11
+Ciena,CIEN,2020Q2,2020-08-01,분기별 영업이익,188036000,USD,공시,https://www.sec.gov/Archives/edgar/data/936395/000093639520000036/,,11
+Ciena,CIEN,2020Q2,2020-08-01,분기별 당기순이익(지배),142267000,USD,공시,https://www.sec.gov/Archives/edgar/data/936395/000093639520000036/,,11
+Ciena,CIEN,2020Q2,2020-08-01,분기별 영업활동현금흐름,175429000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/936395/000093639520000036/ ; https://www.sec.gov/Archives/edgar/data/936395/000093639520000028/,누적 306359000 − 직전누적 130930000 (시작 2019-11-03),11
+Ciena,CIEN,2020Q2,2020-08-01,분기말 자산총계,4055188000,USD,공시,https://www.sec.gov/Archives/edgar/data/936395/000093639520000036/,,11
+Ciena,CIEN,2020Q2,2020-08-01,분기말 부채총계,1626321000,USD,공시,https://www.sec.gov/Archives/edgar/data/936395/000093639520000036/,,11
+Ciena,CIEN,2020Q2,2020-08-01,분기말 총자본(자기자본),2428867000,USD,공시,https://www.sec.gov/Archives/edgar/data/936395/000093639520000036/,,11
+Ciena,CIEN,2020Q2,2020-08-01,분기말 지배지분 자본,2428867000,USD,공시,https://www.sec.gov/Archives/edgar/data/936395/000093639520000036/,,11
+Ciena,CIEN,2020Q2,2020-07-31,분기말 종가,59.51,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/CIEN?interval=1d&events=splits (2020-07-31),,11
+Ciena,CIEN,2020Q2,2020-09-04,분기말 상장주식수,154319547,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/936395/000093639520000036/,dei:EntityCommonStockSharesOutstanding 클래스 합,11
+Ciena,CIEN,2020Q2,2020-07-31,분기말 시가총액,9183556242,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/CIEN?interval=1d&events=splits (2020-07-31) ; https://www.sec.gov/Archives/edgar/data/936395/000093639520000036/,종가 59.51 × 주식수 154319547,11
+Ciena,CIEN,2020Q3,2020-10-31,분기별 매출액,828480000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/936395/000093639520000042/ ; https://www.sec.gov/Archives/edgar/data/936395/000093639520000036/,연간 3532157000 − 9개월누적 2703677000 (Revenues),11
+Ciena,CIEN,2020Q3,2020-10-31,분기별 영업이익,93483000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/936395/000093639520000042/ ; https://www.sec.gov/Archives/edgar/data/936395/000093639520000036/,연간 486964000 − 9개월누적 393481000 (OperatingIncomeLoss),11
+Ciena,CIEN,2020Q3,2020-10-31,분기별 당기순이익(지배),65041000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/936395/000093639520000042/ ; https://www.sec.gov/Archives/edgar/data/936395/000093639520000036/,연간 361291000 − 9개월누적 296250000 (NetIncomeLoss),11
+Ciena,CIEN,2020Q3,2020-10-31,분기별 영업활동현금흐름,187295000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/936395/000093639520000042/ ; https://www.sec.gov/Archives/edgar/data/936395/000093639520000036/,누적 493654000 − 직전누적 306359000 (시작 2019-11-03),11
+Ciena,CIEN,2020Q3,2020-10-31,분기말 자산총계,4180917000,USD,공시,https://www.sec.gov/Archives/edgar/data/936395/000093639520000042/,,11
+Ciena,CIEN,2020Q3,2020-10-31,분기말 부채총계,1671320000,USD,공시,https://www.sec.gov/Archives/edgar/data/936395/000093639520000042/,,11
+Ciena,CIEN,2020Q3,2020-10-31,분기말 총자본(자기자본),2509597000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/936395/000093639520000042/,"StockholdersEquity, MinorityInterest 태그 없음",11
+Ciena,CIEN,2020Q3,2020-10-31,분기말 지배지분 자본,2509597000,USD,공시,https://www.sec.gov/Archives/edgar/data/936395/000093639520000042/,,11
+Ciena,CIEN,2020Q3,2020-10-30,분기말 종가,39.39,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/CIEN?interval=1d&events=splits (2020-10-30),,11
+Ciena,CIEN,2020Q3,2020-12-11,분기말 상장주식수,154564349,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/936395/000093639520000042/,dei:EntityCommonStockSharesOutstanding 클래스 합,11
+Ciena,CIEN,2020Q3,2020-10-30,분기말 시가총액,6088289707,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/CIEN?interval=1d&events=splits (2020-10-30) ; https://www.sec.gov/Archives/edgar/data/936395/000093639520000042/,종가 39.39 × 주식수 154564349,11
+Ciena,CIEN,2020Q4,2021-01-30,분기별 매출액,757130000,USD,공시,https://www.sec.gov/Archives/edgar/data/936395/000093639521000010/,,11
+Ciena,CIEN,2020Q4,2021-01-30,분기별 영업이익,75795000,USD,공시,https://www.sec.gov/Archives/edgar/data/936395/000093639521000010/,,11
+Ciena,CIEN,2020Q4,2021-01-30,분기별 당기순이익(지배),55348000,USD,공시,https://www.sec.gov/Archives/edgar/data/936395/000093639521000010/,,11
+Ciena,CIEN,2020Q4,2021-01-30,분기별 영업활동현금흐름,-7319000,USD,공시,https://www.sec.gov/Archives/edgar/data/936395/000093639521000010/,,11
+Ciena,CIEN,2020Q4,2021-01-30,분기말 자산총계,4186897000,USD,공시,https://www.sec.gov/Archives/edgar/data/936395/000093639521000010/,,11
+Ciena,CIEN,2020Q4,2021-01-30,분기말 부채총계,1600384000,USD,공시,https://www.sec.gov/Archives/edgar/data/936395/000093639521000010/,,11
+Ciena,CIEN,2020Q4,2021-01-30,분기말 총자본(자기자본),2586513000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/936395/000093639521000010/,"StockholdersEquity, MinorityInterest 태그 없음",11
+Ciena,CIEN,2020Q4,2021-01-30,분기말 지배지분 자본,2586513000,USD,공시,https://www.sec.gov/Archives/edgar/data/936395/000093639521000010/,,11
+Ciena,CIEN,2020Q4,2021-01-29,분기말 종가,53.39,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/CIEN?interval=1d&events=splits (2021-01-29),,11
+Ciena,CIEN,2020Q4,2021-03-05,분기말 상장주식수,155003312,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/936395/000093639521000010/,dei:EntityCommonStockSharesOutstanding 클래스 합,11
+Ciena,CIEN,2020Q4,2021-01-29,분기말 시가총액,8275626828,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/CIEN?interval=1d&events=splits (2021-01-29) ; https://www.sec.gov/Archives/edgar/data/936395/000093639521000010/,종가 53.39 × 주식수 155003312,11
+Ciena,CIEN,2021Q1,2021-05-01,분기별 매출액,833927000,USD,공시,https://www.sec.gov/Archives/edgar/data/936395/000093639521000034/,,11
+Ciena,CIEN,2021Q1,2021-05-01,분기별 영업이익,133629000,USD,공시,https://www.sec.gov/Archives/edgar/data/936395/000093639521000034/,,11
+Ciena,CIEN,2021Q1,2021-05-01,분기별 당기순이익(지배),103117000,USD,공시,https://www.sec.gov/Archives/edgar/data/936395/000093639521000034/,,11
+Ciena,CIEN,2021Q1,2021-05-01,분기별 영업활동현금흐름,224978000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/936395/000093639521000034/ ; https://www.sec.gov/Archives/edgar/data/936395/000093639521000010/,누적 217659000 − 직전누적 -7319000 (시작 2020-11-01),11
+Ciena,CIEN,2021Q1,2021-05-01,분기말 자산총계,4388013000,USD,공시,https://www.sec.gov/Archives/edgar/data/936395/000093639521000034/,,11
+Ciena,CIEN,2021Q1,2021-05-01,분기말 부채총계,1694750000,USD,공시,https://www.sec.gov/Archives/edgar/data/936395/000093639521000034/,,11
+Ciena,CIEN,2021Q1,2021-05-01,분기말 총자본(자기자본),2693263000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/936395/000093639521000034/,"StockholdersEquity, MinorityInterest 태그 없음",11
+Ciena,CIEN,2021Q1,2021-05-01,분기말 지배지분 자본,2693263000,USD,공시,https://www.sec.gov/Archives/edgar/data/936395/000093639521000034/,,11
+Ciena,CIEN,2021Q1,2021-04-30,분기말 종가,50.47,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/CIEN?interval=1d&events=splits (2021-04-30),,11
+Ciena,CIEN,2021Q1,2021-06-04,분기말 상장주식수,154767152,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/936395/000093639521000034/,dei:EntityCommonStockSharesOutstanding 클래스 합,11
+Ciena,CIEN,2021Q1,2021-04-30,분기말 시가총액,7811098161,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/CIEN?interval=1d&events=splits (2021-04-30) ; https://www.sec.gov/Archives/edgar/data/936395/000093639521000034/,종가 50.47 × 주식수 154767152,11
+Ciena,CIEN,2021Q2,2021-07-31,분기별 매출액,988141000,USD,공시,https://www.sec.gov/Archives/edgar/data/936395/000093639521000040/,,11
+Ciena,CIEN,2021Q2,2021-07-31,분기별 영업이익,148523000,USD,공시,https://www.sec.gov/Archives/edgar/data/936395/000093639521000040/,,11
+Ciena,CIEN,2021Q2,2021-07-31,분기별 당기순이익(지배),238232000,USD,공시,https://www.sec.gov/Archives/edgar/data/936395/000093639521000040/,,11
+Ciena,CIEN,2021Q2,2021-07-31,분기별 영업활동현금흐름,69097000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/936395/000093639521000040/ ; https://www.sec.gov/Archives/edgar/data/936395/000093639521000034/,누적 286756000 − 직전누적 217659000 (시작 2020-11-01),11
+Ciena,CIEN,2021Q2,2021-07-31,분기말 자산총계,4655868000,USD,공시,https://www.sec.gov/Archives/edgar/data/936395/000093639521000040/,,11
+Ciena,CIEN,2021Q2,2021-07-31,분기말 부채총계,1731632000,USD,공시,https://www.sec.gov/Archives/edgar/data/936395/000093639521000040/,,11
+Ciena,CIEN,2021Q2,2021-07-31,분기말 총자본(자기자본),2924236000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/936395/000093639521000040/,"StockholdersEquity, MinorityInterest 태그 없음",11
+Ciena,CIEN,2021Q2,2021-07-31,분기말 지배지분 자본,2924236000,USD,공시,https://www.sec.gov/Archives/edgar/data/936395/000093639521000040/,,11
+Ciena,CIEN,2021Q2,2021-07-30,분기말 종가,58.14,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/CIEN?interval=1d&events=splits (2021-07-30),,11
+Ciena,CIEN,2021Q2,2021-09-03,분기말 상장주식수,154929206,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/936395/000093639521000040/,dei:EntityCommonStockSharesOutstanding 클래스 합,11
+Ciena,CIEN,2021Q2,2021-07-30,분기말 시가총액,9007584037,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/CIEN?interval=1d&events=splits (2021-07-30) ; https://www.sec.gov/Archives/edgar/data/936395/000093639521000040/,종가 58.14 × 주식수 154929206,11
+Ciena,CIEN,2021Q3,2021-10-30,분기별 매출액,1041486000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/936395/000093639521000054/ ; https://www.sec.gov/Archives/edgar/data/936395/000093639521000040/,연간 3620684000 − 9개월누적 2579198000 (Revenues),11
+Ciena,CIEN,2021Q3,2021-10-30,분기별 영업이익,137409000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/936395/000093639521000054/ ; https://www.sec.gov/Archives/edgar/data/936395/000093639521000040/,연간 495356000 − 9개월누적 357947000 (OperatingIncomeLoss),11
+Ciena,CIEN,2021Q3,2021-10-30,분기별 당기순이익(지배),103499000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/936395/000093639521000054/ ; https://www.sec.gov/Archives/edgar/data/936395/000093639521000040/,연간 500196000 − 9개월누적 396697000 (NetIncomeLoss),11
+Ciena,CIEN,2021Q3,2021-10-30,분기별 영업활동현금흐름,254890000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/936395/000093639521000054/ ; https://www.sec.gov/Archives/edgar/data/936395/000093639521000040/,누적 541646000 − 직전누적 286756000 (시작 2020-11-01),11
+Ciena,CIEN,2021Q3,2021-10-30,분기말 자산총계,4865227000,USD,공시,https://www.sec.gov/Archives/edgar/data/936395/000093639521000054/,,11
+Ciena,CIEN,2021Q3,2021-10-30,분기말 부채총계,1845209000,USD,공시,https://www.sec.gov/Archives/edgar/data/936395/000093639521000054/,,11
+Ciena,CIEN,2021Q3,2021-10-30,분기말 총자본(자기자본),3020018000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/936395/000093639521000054/,"StockholdersEquity, MinorityInterest 태그 없음",11
+Ciena,CIEN,2021Q3,2021-10-30,분기말 지배지분 자본,3020018000,USD,공시,https://www.sec.gov/Archives/edgar/data/936395/000093639521000054/,,11
+Ciena,CIEN,2021Q3,2021-10-29,분기말 종가,54.29,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/CIEN?interval=1d&events=splits (2021-10-29),,11
+Ciena,CIEN,2021Q3,2021-12-10,분기말 상장주식수,154882650,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/936395/000093639521000054/,dei:EntityCommonStockSharesOutstanding 클래스 합,11
+Ciena,CIEN,2021Q3,2021-10-29,분기말 시가총액,8408579068,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/CIEN?interval=1d&events=splits (2021-10-29) ; https://www.sec.gov/Archives/edgar/data/936395/000093639521000054/,종가 54.29 × 주식수 154882650,11
+Ciena,CIEN,2021Q4,2022-01-29,분기별 매출액,844443000,USD,공시,https://www.sec.gov/Archives/edgar/data/936395/000093639522000029/,,11
+Ciena,CIEN,2021Q4,2022-01-29,분기별 영업이익,60004000,USD,공시,https://www.sec.gov/Archives/edgar/data/936395/000093639522000029/,,11
+Ciena,CIEN,2021Q4,2022-01-29,분기별 당기순이익(지배),45823000,USD,공시,https://www.sec.gov/Archives/edgar/data/936395/000093639522000029/,,11
+Ciena,CIEN,2021Q4,2022-01-29,분기별 영업활동현금흐름,-54411000,USD,공시,https://www.sec.gov/Archives/edgar/data/936395/000093639522000029/,,11
+Ciena,CIEN,2021Q4,2022-01-29,분기말 자산총계,4900362000,USD,공시,https://www.sec.gov/Archives/edgar/data/936395/000093639522000029/,,11
+Ciena,CIEN,2021Q4,2022-01-29,분기말 부채총계,2085572000,USD,공시,https://www.sec.gov/Archives/edgar/data/936395/000093639522000029/,,11
+Ciena,CIEN,2021Q4,2022-01-29,분기말 총자본(자기자본),2814790000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/936395/000093639522000029/,"StockholdersEquity, MinorityInterest 태그 없음",11
+Ciena,CIEN,2021Q4,2022-01-29,분기말 지배지분 자본,2814790000,USD,공시,https://www.sec.gov/Archives/edgar/data/936395/000093639522000029/,,11
+Ciena,CIEN,2021Q4,2022-01-28,분기말 종가,64.75,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/CIEN?interval=1d&events=splits (2022-01-28),,11
+Ciena,CIEN,2021Q4,2022-03-04,분기말 상장주식수,152126441,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/936395/000093639522000029/,dei:EntityCommonStockSharesOutstanding 클래스 합,11
+Ciena,CIEN,2021Q4,2022-01-28,분기말 시가총액,9850187055,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/CIEN?interval=1d&events=splits (2022-01-28) ; https://www.sec.gov/Archives/edgar/data/936395/000093639522000029/,종가 64.75 × 주식수 152126441,11
+Ciena,CIEN,2022Q1,2022-04-30,분기별 매출액,949227000,USD,공시,https://www.sec.gov/Archives/edgar/data/936395/000093639522000045/,,11
+Ciena,CIEN,2022Q1,2022-04-30,분기별 영업이익,58429000,USD,공시,https://www.sec.gov/Archives/edgar/data/936395/000093639522000045/,,11
+Ciena,CIEN,2022Q1,2022-04-30,분기별 당기순이익(지배),38922000,USD,공시,https://www.sec.gov/Archives/edgar/data/936395/000093639522000045/,,11
+Ciena,CIEN,2022Q1,2022-04-30,분기별 영업활동현금흐름,106552000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/936395/000093639522000045/ ; https://www.sec.gov/Archives/edgar/data/936395/000093639522000029/,누적 52141000 − 직전누적 -54411000 (시작 2021-10-31),11
+Ciena,CIEN,2022Q1,2022-04-30,분기말 자산총계,4964129000,USD,공시,https://www.sec.gov/Archives/edgar/data/936395/000093639522000045/,,11
+Ciena,CIEN,2022Q1,2022-04-30,분기말 부채총계,2181707000,USD,공시,https://www.sec.gov/Archives/edgar/data/936395/000093639522000045/,,11
+Ciena,CIEN,2022Q1,2022-04-30,분기말 총자본(자기자본),2782422000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/936395/000093639522000045/,"StockholdersEquity, MinorityInterest 태그 없음",11
+Ciena,CIEN,2022Q1,2022-04-30,분기말 지배지분 자본,2782422000,USD,공시,https://www.sec.gov/Archives/edgar/data/936395/000093639522000045/,,11
+Ciena,CIEN,2022Q1,2022-04-29,분기말 종가,55.17,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/CIEN?interval=1d&events=splits (2022-04-29),,11
+Ciena,CIEN,2022Q1,2022-06-03,분기말 상장주식수,149704796,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/936395/000093639522000045/,dei:EntityCommonStockSharesOutstanding 클래스 합,11
+Ciena,CIEN,2022Q1,2022-04-29,분기말 시가총액,8259213595,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/CIEN?interval=1d&events=splits (2022-04-29) ; https://www.sec.gov/Archives/edgar/data/936395/000093639522000045/,종가 55.17 × 주식수 149704796,11
+Ciena,CIEN,2022Q2,2022-07-30,분기별 매출액,867981000,USD,공시,https://www.sec.gov/Archives/edgar/data/936395/000093639522000053/,,11
+Ciena,CIEN,2022Q2,2022-07-30,분기별 영업이익,27107000,USD,공시,https://www.sec.gov/Archives/edgar/data/936395/000093639522000053/,,11
+Ciena,CIEN,2022Q2,2022-07-30,분기별 당기순이익(지배),10512000,USD,공시,https://www.sec.gov/Archives/edgar/data/936395/000093639522000053/,,11
+Ciena,CIEN,2022Q2,2022-07-30,분기별 영업활동현금흐름,-205390000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/936395/000093639522000053/ ; https://www.sec.gov/Archives/edgar/data/936395/000093639522000045/,누적 -153249000 − 직전누적 52141000 (시작 2021-10-31),11
+Ciena,CIEN,2022Q2,2022-07-30,분기말 자산총계,4900782000,USD,공시,https://www.sec.gov/Archives/edgar/data/936395/000093639522000053/,,11
+Ciena,CIEN,2022Q2,2022-07-30,분기말 부채총계,2233046000,USD,공시,https://www.sec.gov/Archives/edgar/data/936395/000093639522000053/,,11
+Ciena,CIEN,2022Q2,2022-07-30,분기말 총자본(자기자본),2667736000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/936395/000093639522000053/,"StockholdersEquity, MinorityInterest 태그 없음",11
+Ciena,CIEN,2022Q2,2022-07-30,분기말 지배지분 자본,2667736000,USD,공시,https://www.sec.gov/Archives/edgar/data/936395/000093639522000053/,,11
+Ciena,CIEN,2022Q2,2022-07-29,분기말 종가,51.6,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/CIEN?interval=1d&events=splits (2022-07-29),,11
+Ciena,CIEN,2022Q2,2022-09-02,분기말 상장주식수,148141810,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/936395/000093639522000053/,dei:EntityCommonStockSharesOutstanding 클래스 합,11
+Ciena,CIEN,2022Q2,2022-07-29,분기말 시가총액,7644117396,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/CIEN?interval=1d&events=splits (2022-07-29) ; https://www.sec.gov/Archives/edgar/data/936395/000093639522000053/,종가 51.6 × 주식수 148141810,11
+Ciena,CIEN,2022Q3,2022-10-29,분기별 매출액,971010000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/936395/000093639522000065/ ; https://www.sec.gov/Archives/edgar/data/936395/000093639522000053/,연간 3632661000 − 9개월누적 2661651000 (Revenues),11
+Ciena,CIEN,2022Q3,2022-10-29,분기별 영업이익,77268000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/936395/000093639522000065/ ; https://www.sec.gov/Archives/edgar/data/936395/000093639522000053/,연간 222808000 − 9개월누적 145540000 (OperatingIncomeLoss),11
+Ciena,CIEN,2022Q3,2022-10-29,분기별 당기순이익(지배),57645000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/936395/000093639522000065/ ; https://www.sec.gov/Archives/edgar/data/936395/000093639522000053/,연간 152902000 − 9개월누적 95257000 (NetIncomeLoss),11
+Ciena,CIEN,2022Q3,2022-10-29,분기별 영업활동현금흐름,-14507000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/936395/000093639522000065/ ; https://www.sec.gov/Archives/edgar/data/936395/000093639522000053/,누적 -167756000 − 직전누적 -153249000 (시작 2021-10-31),11
+Ciena,CIEN,2022Q3,2022-10-29,분기말 자산총계,5069632000,USD,공시,https://www.sec.gov/Archives/edgar/data/936395/000093639522000065/,,11
+Ciena,CIEN,2022Q3,2022-10-29,분기말 부채총계,2356771000,USD,공시,https://www.sec.gov/Archives/edgar/data/936395/000093639522000065/,,11
+Ciena,CIEN,2022Q3,2022-10-29,분기말 총자본(자기자본),2712861000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/936395/000093639522000065/,"StockholdersEquity, MinorityInterest 태그 없음",11
+Ciena,CIEN,2022Q3,2022-10-29,분기말 지배지분 자본,2712861000,USD,공시,https://www.sec.gov/Archives/edgar/data/936395/000093639522000065/,,11
+Ciena,CIEN,2022Q3,2022-10-28,분기말 종가,48.25,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/CIEN?interval=1d&events=splits (2022-10-28),,11
+Ciena,CIEN,2022Q3,2022-12-09,분기말 상장주식수,148415009,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/936395/000093639522000065/,dei:EntityCommonStockSharesOutstanding 클래스 합,11
+Ciena,CIEN,2022Q3,2022-10-28,분기말 시가총액,7161024184,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/CIEN?interval=1d&events=splits (2022-10-28) ; https://www.sec.gov/Archives/edgar/data/936395/000093639522000065/,종가 48.25 × 주식수 148415009,11
+Ciena,CIEN,2022Q4,2023-01-28,분기별 매출액,1056521000,USD,공시,https://www.sec.gov/Archives/edgar/data/936395/000093639523000014/,,11
+Ciena,CIEN,2022Q4,2023-01-28,분기별 영업이익,85216000,USD,공시,https://www.sec.gov/Archives/edgar/data/936395/000093639523000014/,,11
+Ciena,CIEN,2022Q4,2023-01-28,분기별 당기순이익(지배),76241000,USD,공시,https://www.sec.gov/Archives/edgar/data/936395/000093639523000014/,,11
+Ciena,CIEN,2022Q4,2023-01-28,분기별 영업활동현금흐름,-265639000,USD,공시,https://www.sec.gov/Archives/edgar/data/936395/000093639523000014/,,11
+Ciena,CIEN,2022Q4,2023-01-28,분기말 자산총계,5672497000,USD,공시,https://www.sec.gov/Archives/edgar/data/936395/000093639523000014/,,11
+Ciena,CIEN,2022Q4,2023-01-28,분기말 부채총계,2834202000,USD,공시,https://www.sec.gov/Archives/edgar/data/936395/000093639523000014/,,11
+Ciena,CIEN,2022Q4,2023-01-28,분기말 총자본(자기자본),2838295000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/936395/000093639523000014/,"StockholdersEquity, MinorityInterest 태그 없음",11
+Ciena,CIEN,2022Q4,2023-01-28,분기말 지배지분 자본,2838295000,USD,공시,https://www.sec.gov/Archives/edgar/data/936395/000093639523000014/,,11
+Ciena,CIEN,2022Q4,2023-01-27,분기말 종가,51.03,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/CIEN?interval=1d&events=splits (2023-01-27),,11
+Ciena,CIEN,2022Q4,2023-03-03,분기말 상장주식수,149159768,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/936395/000093639523000014/,dei:EntityCommonStockSharesOutstanding 클래스 합,11
+Ciena,CIEN,2022Q4,2023-01-27,분기말 시가총액,7611622961,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/CIEN?interval=1d&events=splits (2023-01-27) ; https://www.sec.gov/Archives/edgar/data/936395/000093639523000014/,종가 51.03 × 주식수 149159768,11
+Ciena,CIEN,2023Q1,2023-04-29,분기별 매출액,1132655000,USD,공시,https://www.sec.gov/Archives/edgar/data/936395/000093639523000027/,,11
+Ciena,CIEN,2023Q1,2023-04-29,분기별 영업이익,102813000,USD,공시,https://www.sec.gov/Archives/edgar/data/936395/000093639523000027/,,11
+Ciena,CIEN,2023Q1,2023-04-29,분기별 당기순이익(지배),57654000,USD,공시,https://www.sec.gov/Archives/edgar/data/936395/000093639523000027/,,11
+Ciena,CIEN,2023Q1,2023-04-29,분기별 영업활동현금흐름,229811000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/936395/000093639523000027/ ; https://www.sec.gov/Archives/edgar/data/936395/000093639523000014/,누적 -35828000 − 직전누적 -265639000 (시작 2022-10-30),11
+Ciena,CIEN,2023Q1,2023-04-29,분기말 자산총계,5775638000,USD,공시,https://www.sec.gov/Archives/edgar/data/936395/000093639523000027/,,11
+Ciena,CIEN,2023Q1,2023-04-29,분기말 부채총계,2866985000,USD,공시,https://www.sec.gov/Archives/edgar/data/936395/000093639523000027/,,11
+Ciena,CIEN,2023Q1,2023-04-29,분기말 총자본(자기자본),2908653000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/936395/000093639523000027/,"StockholdersEquity, MinorityInterest 태그 없음",11
+Ciena,CIEN,2023Q1,2023-04-29,분기말 지배지분 자본,2908653000,USD,공시,https://www.sec.gov/Archives/edgar/data/936395/000093639523000027/,,11
+Ciena,CIEN,2023Q1,2023-04-28,분기말 종가,46.04,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/CIEN?interval=1d&events=splits (2023-04-28),,11
+Ciena,CIEN,2023Q1,2023-06-02,분기말 상장주식수,149498607,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/936395/000093639523000027/,dei:EntityCommonStockSharesOutstanding 클래스 합,11
+Ciena,CIEN,2023Q1,2023-04-28,분기말 시가총액,6882915866,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/CIEN?interval=1d&events=splits (2023-04-28) ; https://www.sec.gov/Archives/edgar/data/936395/000093639523000027/,종가 46.04 × 주식수 149498607,11
+Ciena,CIEN,2023Q2,2023-07-29,분기별 매출액,1067886000,USD,공시,https://www.sec.gov/Archives/edgar/data/936395/000093639523000034/,,11
+Ciena,CIEN,2023Q2,2023-07-29,분기별 영업이익,78214000,USD,공시,https://www.sec.gov/Archives/edgar/data/936395/000093639523000034/,,11
+Ciena,CIEN,2023Q2,2023-07-29,분기별 당기순이익(지배),29733000,USD,공시,https://www.sec.gov/Archives/edgar/data/936395/000093639523000034/,,11
+Ciena,CIEN,2023Q2,2023-07-29,분기별 영업활동현금흐름,8688000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/936395/000093639523000034/ ; https://www.sec.gov/Archives/edgar/data/936395/000093639523000027/,누적 -27140000 − 직전누적 -35828000 (시작 2022-10-30),11
+Ciena,CIEN,2023Q2,2023-07-29,분기말 자산총계,5723214000,USD,공시,https://www.sec.gov/Archives/edgar/data/936395/000093639523000034/,,11
+Ciena,CIEN,2023Q2,2023-07-29,분기말 부채총계,2776207000,USD,공시,https://www.sec.gov/Archives/edgar/data/936395/000093639523000034/,,11
+Ciena,CIEN,2023Q2,2023-07-29,분기말 총자본(자기자본),2947007000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/936395/000093639523000034/,"StockholdersEquity, MinorityInterest 태그 없음",11
+Ciena,CIEN,2023Q2,2023-07-29,분기말 지배지분 자본,2947007000,USD,공시,https://www.sec.gov/Archives/edgar/data/936395/000093639523000034/,,11
+Ciena,CIEN,2023Q2,2023-07-28,분기말 종가,41.58,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/CIEN?interval=1d&events=splits (2023-07-28),,11
+Ciena,CIEN,2023Q2,2023-09-01,분기말 상장주식수,147842355,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/936395/000093639523000034/,dei:EntityCommonStockSharesOutstanding 클래스 합,11
+Ciena,CIEN,2023Q2,2023-07-28,분기말 시가총액,6147285121,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/CIEN?interval=1d&events=splits (2023-07-28) ; https://www.sec.gov/Archives/edgar/data/936395/000093639523000034/,종가 41.58 × 주식수 147842355,11
+Ciena,CIEN,2023Q3,2023-10-28,분기별 매출액,1129487000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/936395/000093639523000044/ ; https://www.sec.gov/Archives/edgar/data/936395/000093639523000034/,연간 4386549000 − 9개월누적 3257062000 (Revenues),11
+Ciena,CIEN,2023Q3,2023-10-28,분기별 영업이익,91302000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/936395/000093639523000044/ ; https://www.sec.gov/Archives/edgar/data/936395/000093639523000034/,연간 357545000 − 9개월누적 266243000 (OperatingIncomeLoss),11
+Ciena,CIEN,2023Q3,2023-10-28,분기별 당기순이익(지배),91199000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/936395/000093639523000044/ ; https://www.sec.gov/Archives/edgar/data/936395/000093639523000034/,연간 254827000 − 9개월누적 163628000 (NetIncomeLoss),11
+Ciena,CIEN,2023Q3,2023-10-28,분기별 영업활동현금흐름,195472000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/936395/000093639523000044/ ; https://www.sec.gov/Archives/edgar/data/936395/000093639523000034/,누적 168332000 − 직전누적 -27140000 (시작 2022-10-30),11
+Ciena,CIEN,2023Q3,2023-10-28,분기말 자산총계,5601495000,USD,공시,https://www.sec.gov/Archives/edgar/data/936395/000093639523000044/,,11
+Ciena,CIEN,2023Q3,2023-10-28,분기말 부채총계,2753134000,USD,공시,https://www.sec.gov/Archives/edgar/data/936395/000093639523000044/,,11
+Ciena,CIEN,2023Q3,2023-10-28,분기말 총자본(자기자본),2848361000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/936395/000093639523000044/,"StockholdersEquity, MinorityInterest 태그 없음",11
+Ciena,CIEN,2023Q3,2023-10-28,분기말 지배지분 자본,2848361000,USD,공시,https://www.sec.gov/Archives/edgar/data/936395/000093639523000044/,,11
+Ciena,CIEN,2023Q3,2023-10-27,분기말 종가,41.02,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/CIEN?interval=1d&events=splits (2023-10-27),,11
+Ciena,CIEN,2023Q3,2023-12-08,분기말 상장주식수,144830337,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/936395/000093639523000044/,dei:EntityCommonStockSharesOutstanding 클래스 합,11
+Ciena,CIEN,2023Q3,2023-10-27,분기말 시가총액,5940940424,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/CIEN?interval=1d&events=splits (2023-10-27) ; https://www.sec.gov/Archives/edgar/data/936395/000093639523000044/,종가 41.02 × 주식수 144830337,11
+Ciena,CIEN,2023Q4,2024-01-27,분기별 매출액,1037709000,USD,공시,https://www.sec.gov/Archives/edgar/data/936395/000093639524000008/,,11
+Ciena,CIEN,2023Q4,2024-01-27,분기별 영업이익,84629000,USD,공시,https://www.sec.gov/Archives/edgar/data/936395/000093639524000008/,,11
+Ciena,CIEN,2023Q4,2024-01-27,분기별 당기순이익(지배),49547000,USD,공시,https://www.sec.gov/Archives/edgar/data/936395/000093639524000008/,,11
+Ciena,CIEN,2023Q4,2024-01-27,분기별 영업활동현금흐름,266076000,USD,공시,https://www.sec.gov/Archives/edgar/data/936395/000093639524000008/,,11
+Ciena,CIEN,2023Q4,2024-01-27,분기말 자산총계,5593210000,USD,공시,https://www.sec.gov/Archives/edgar/data/936395/000093639524000008/,,11
+Ciena,CIEN,2023Q4,2024-01-27,분기말 부채총계,2669711000,USD,공시,https://www.sec.gov/Archives/edgar/data/936395/000093639524000008/,,11
+Ciena,CIEN,2023Q4,2024-01-27,분기말 총자본(자기자본),2923499000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/936395/000093639524000008/,"StockholdersEquity, MinorityInterest 태그 없음",11
+Ciena,CIEN,2023Q4,2024-01-27,분기말 지배지분 자본,2923499000,USD,공시,https://www.sec.gov/Archives/edgar/data/936395/000093639524000008/,,11
+Ciena,CIEN,2023Q4,2024-01-26,분기말 종가,51.42,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/CIEN?interval=1d&events=splits (2024-01-26),,11
+Ciena,CIEN,2023Q4,2024-03-01,분기말 상장주식수,144602692,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/936395/000093639524000008/,dei:EntityCommonStockSharesOutstanding 클래스 합,11
+Ciena,CIEN,2023Q4,2024-01-26,분기말 시가총액,7435470423,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/CIEN?interval=1d&events=splits (2024-01-26) ; https://www.sec.gov/Archives/edgar/data/936395/000093639524000008/,종가 51.42 × 주식수 144602692,11
+Ciena,CIEN,2024Q1,2024-04-27,분기별 매출액,910826000,USD,공시,https://www.sec.gov/Archives/edgar/data/936395/000093639524000025/,,11
+Ciena,CIEN,2024Q1,2024-04-27,분기별 영업이익,-3965000,USD,공시,https://www.sec.gov/Archives/edgar/data/936395/000093639524000025/,,11
+Ciena,CIEN,2024Q1,2024-04-27,분기별 당기순이익(지배),-16849000,USD,공시,https://www.sec.gov/Archives/edgar/data/936395/000093639524000025/,,11
+Ciena,CIEN,2024Q1,2024-04-27,분기별 영업활동현금흐름,58473000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/936395/000093639524000025/ ; https://www.sec.gov/Archives/edgar/data/936395/000093639524000008/,누적 324549000 − 직전누적 266076000 (시작 2023-10-29),11
+Ciena,CIEN,2024Q1,2024-04-27,분기말 자산총계,5614803000,USD,공시,https://www.sec.gov/Archives/edgar/data/936395/000093639524000025/,,11
+Ciena,CIEN,2024Q1,2024-04-27,분기말 부채총계,2734547000,USD,공시,https://www.sec.gov/Archives/edgar/data/936395/000093639524000025/,,11
+Ciena,CIEN,2024Q1,2024-04-27,분기말 총자본(자기자본),2880256000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/936395/000093639524000025/,"StockholdersEquity, MinorityInterest 태그 없음",11
+Ciena,CIEN,2024Q1,2024-04-27,분기말 지배지분 자본,2880256000,USD,공시,https://www.sec.gov/Archives/edgar/data/936395/000093639524000025/,,11
+Ciena,CIEN,2024Q1,2024-04-26,분기말 종가,46.61,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/CIEN?interval=1d&events=splits (2024-04-26),,11
+Ciena,CIEN,2024Q1,2024-05-31,분기말 상장주식수,143705017,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/936395/000093639524000025/,dei:EntityCommonStockSharesOutstanding 클래스 합,11
+Ciena,CIEN,2024Q1,2024-04-26,분기말 시가총액,6698090842,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/CIEN?interval=1d&events=splits (2024-04-26) ; https://www.sec.gov/Archives/edgar/data/936395/000093639524000025/,종가 46.61 × 주식수 143705017,11
+Ciena,CIEN,2024Q2,2024-07-27,분기별 매출액,942308000,USD,공시,https://www.sec.gov/Archives/edgar/data/936395/000093639524000032/,,11
+Ciena,CIEN,2024Q2,2024-07-27,분기별 영업이익,26743000,USD,공시,https://www.sec.gov/Archives/edgar/data/936395/000093639524000032/,,11
+Ciena,CIEN,2024Q2,2024-07-27,분기별 당기순이익(지배),14230000,USD,공시,https://www.sec.gov/Archives/edgar/data/936395/000093639524000032/,,11
+Ciena,CIEN,2024Q2,2024-07-27,분기별 영업활동현금흐름,-159377000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/936395/000093639524000032/ ; https://www.sec.gov/Archives/edgar/data/936395/000093639524000025/,누적 165172000 − 직전누적 324549000 (시작 2023-10-29),11
+Ciena,CIEN,2024Q2,2024-07-27,분기말 자산총계,5575130000,USD,공시,https://www.sec.gov/Archives/edgar/data/936395/000093639524000032/,,11
+Ciena,CIEN,2024Q2,2024-07-27,분기말 부채총계,2684258000,USD,공시,https://www.sec.gov/Archives/edgar/data/936395/000093639524000032/,,11
+Ciena,CIEN,2024Q2,2024-07-27,분기말 총자본(자기자본),2890872000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/936395/000093639524000032/,"StockholdersEquity, MinorityInterest 태그 없음",11
+Ciena,CIEN,2024Q2,2024-07-27,분기말 지배지분 자본,2890872000,USD,공시,https://www.sec.gov/Archives/edgar/data/936395/000093639524000032/,,11
+Ciena,CIEN,2024Q2,2024-07-26,분기말 종가,50.16,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/CIEN?interval=1d&events=splits (2024-07-26),,11
+Ciena,CIEN,2024Q2,2024-08-30,분기말 상장주식수,144427200,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/936395/000093639524000032/,dei:EntityCommonStockSharesOutstanding 클래스 합,11
+Ciena,CIEN,2024Q2,2024-07-26,분기말 시가총액,7244468352,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/CIEN?interval=1d&events=splits (2024-07-26) ; https://www.sec.gov/Archives/edgar/data/936395/000093639524000032/,종가 50.16 × 주식수 144427200,11
+Ciena,CIEN,2024Q3,2024-11-02,분기별 매출액,1124112000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/936395/000093639524000044/ ; https://www.sec.gov/Archives/edgar/data/936395/000093639524000032/,연간 4014955000 − 9개월누적 2890843000 (Revenues),11
+Ciena,CIEN,2024Q3,2024-11-02,분기별 영업이익,59210000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/936395/000093639524000044/ ; https://www.sec.gov/Archives/edgar/data/936395/000093639524000032/,연간 166617000 − 9개월누적 107407000 (OperatingIncomeLoss),11
+Ciena,CIEN,2024Q3,2024-11-02,분기별 당기순이익(지배),37028000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/936395/000093639524000044/ ; https://www.sec.gov/Archives/edgar/data/936395/000093639524000032/,연간 83956000 − 9개월누적 46928000 (NetIncomeLoss),11
+Ciena,CIEN,2024Q3,2024-11-02,분기별 영업활동현금흐름,349360000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/936395/000093639524000044/ ; https://www.sec.gov/Archives/edgar/data/936395/000093639524000032/,누적 514532000 − 직전누적 165172000 (시작 2023-10-29),11
+Ciena,CIEN,2024Q3,2024-11-02,분기말 자산총계,5641337000,USD,공시,https://www.sec.gov/Archives/edgar/data/936395/000093639524000044/,,11
+Ciena,CIEN,2024Q3,2024-11-02,분기말 부채총계,2825199000,USD,공시,https://www.sec.gov/Archives/edgar/data/936395/000093639524000044/,,11
+Ciena,CIEN,2024Q3,2024-11-02,분기말 총자본(자기자본),2816138000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/936395/000093639524000044/,"StockholdersEquity, MinorityInterest 태그 없음",11
+Ciena,CIEN,2024Q3,2024-11-02,분기말 지배지분 자본,2816138000,USD,공시,https://www.sec.gov/Archives/edgar/data/936395/000093639524000044/,,11
+Ciena,CIEN,2024Q3,2024-11-01,분기말 종가,63.97,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/CIEN?interval=1d&events=splits (2024-11-01),,11
+Ciena,CIEN,2024Q3,2024-12-13,분기말 상장주식수,142115595,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/936395/000093639524000044/,dei:EntityCommonStockSharesOutstanding 클래스 합,11
+Ciena,CIEN,2024Q3,2024-11-01,분기말 시가총액,9091134612,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/CIEN?interval=1d&events=splits (2024-11-01) ; https://www.sec.gov/Archives/edgar/data/936395/000093639524000044/,종가 63.97 × 주식수 142115595,11
+Ciena,CIEN,2024Q4,2025-02-01,분기별 매출액,1072260000,USD,공시,https://www.sec.gov/Archives/edgar/data/936395/000093639525000011/,,11
+Ciena,CIEN,2024Q4,2025-02-01,분기별 영업이익,80663000,USD,공시,https://www.sec.gov/Archives/edgar/data/936395/000093639525000011/,,11
+Ciena,CIEN,2024Q4,2025-02-01,분기별 당기순이익(지배),44572000,USD,공시,https://www.sec.gov/Archives/edgar/data/936395/000093639525000011/,,11
+Ciena,CIEN,2024Q4,2025-02-01,분기별 영업활동현금흐름,103723000,USD,공시,https://www.sec.gov/Archives/edgar/data/936395/000093639525000011/,,11
+Ciena,CIEN,2024Q4,2025-02-01,분기말 자산총계,5572902000,USD,공시,https://www.sec.gov/Archives/edgar/data/936395/000093639525000011/,,11
+Ciena,CIEN,2024Q4,2025-02-01,분기말 부채총계,2779523000,USD,공시,https://www.sec.gov/Archives/edgar/data/936395/000093639525000011/,,11
+Ciena,CIEN,2024Q4,2025-02-01,분기말 총자본(자기자본),2793379000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/936395/000093639525000011/,"StockholdersEquity, MinorityInterest 태그 없음",11
+Ciena,CIEN,2024Q4,2025-02-01,분기말 지배지분 자본,2793379000,USD,공시,https://www.sec.gov/Archives/edgar/data/936395/000093639525000011/,,11
+Ciena,CIEN,2024Q4,2025-01-31,분기말 종가,87.14,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/CIEN?interval=1d&events=splits (2025-01-31),,11
+Ciena,CIEN,2024Q4,2025-03-07,분기말 상장주식수,142145676,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/936395/000093639525000011/,dei:EntityCommonStockSharesOutstanding 클래스 합,11
+Ciena,CIEN,2024Q4,2025-01-31,분기말 시가총액,12386574207,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/CIEN?interval=1d&events=splits (2025-01-31) ; https://www.sec.gov/Archives/edgar/data/936395/000093639525000011/,종가 87.14 × 주식수 142145676,11
+Ciena,CIEN,2025Q1,2025-05-03,분기별 매출액,1125878000,USD,공시,https://www.sec.gov/Archives/edgar/data/936395/000093639525000025/,,11
+Ciena,CIEN,2025Q1,2025-05-03,분기별 영업이익,32842000,USD,공시,https://www.sec.gov/Archives/edgar/data/936395/000093639525000025/,,11
+Ciena,CIEN,2025Q1,2025-05-03,분기별 당기순이익(지배),8969000,USD,공시,https://www.sec.gov/Archives/edgar/data/936395/000093639525000025/,,11
+Ciena,CIEN,2025Q1,2025-05-03,분기별 영업활동현금흐름,156946000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/936395/000093639525000025/ ; https://www.sec.gov/Archives/edgar/data/936395/000093639525000011/,누적 260669000 − 직전누적 103723000 (시작 2024-11-03),11
+Ciena,CIEN,2025Q1,2025-05-03,분기말 자산총계,5659366000,USD,공시,https://www.sec.gov/Archives/edgar/data/936395/000093639525000025/,,11
+Ciena,CIEN,2025Q1,2025-05-03,분기말 부채총계,2882987000,USD,공시,https://www.sec.gov/Archives/edgar/data/936395/000093639525000025/,,11
+Ciena,CIEN,2025Q1,2025-05-03,분기말 총자본(자기자본),2776379000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/936395/000093639525000025/,"StockholdersEquity, MinorityInterest 태그 없음",11
+Ciena,CIEN,2025Q1,2025-05-03,분기말 지배지분 자본,2776379000,USD,공시,https://www.sec.gov/Archives/edgar/data/936395/000093639525000025/,,11
+Ciena,CIEN,2025Q1,2025-05-02,분기말 종가,72.85,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/CIEN?interval=1d&events=splits (2025-05-02),,11
+Ciena,CIEN,2025Q1,2025-05-30,분기말 상장주식수,141367218,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/936395/000093639525000025/,dei:EntityCommonStockSharesOutstanding 클래스 합,11
+Ciena,CIEN,2025Q1,2025-05-02,분기말 시가총액,10298601831,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/CIEN?interval=1d&events=splits (2025-05-02) ; https://www.sec.gov/Archives/edgar/data/936395/000093639525000025/,종가 72.85 × 주식수 141367218,11
+Ciena,CIEN,2025Q2,2025-08-02,분기별 매출액,1219385000,USD,공시,https://www.sec.gov/Archives/edgar/data/936395/000093639525000041/,,11
+Ciena,CIEN,2025Q2,2025-08-02,분기별 영업이익,73535000,USD,공시,https://www.sec.gov/Archives/edgar/data/936395/000093639525000041/,,11
+Ciena,CIEN,2025Q2,2025-08-02,분기별 당기순이익(지배),50308000,USD,공시,https://www.sec.gov/Archives/edgar/data/936395/000093639525000041/,,11
+Ciena,CIEN,2025Q2,2025-08-02,분기별 영업활동현금흐름,174347000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/936395/000093639525000041/ ; https://www.sec.gov/Archives/edgar/data/936395/000093639525000025/,누적 435016000 − 직전누적 260669000 (시작 2024-11-03),11
+Ciena,CIEN,2025Q2,2025-08-02,분기말 자산총계,5748778000,USD,공시,https://www.sec.gov/Archives/edgar/data/936395/000093639525000041/,,11
+Ciena,CIEN,2025Q2,2025-08-02,분기말 부채총계,2961477000,USD,공시,https://www.sec.gov/Archives/edgar/data/936395/000093639525000041/,,11
+Ciena,CIEN,2025Q2,2025-08-02,분기말 총자본(자기자본),2787301000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/936395/000093639525000041/,"StockholdersEquity, MinorityInterest 태그 없음",11
+Ciena,CIEN,2025Q2,2025-08-02,분기말 지배지분 자본,2787301000,USD,공시,https://www.sec.gov/Archives/edgar/data/936395/000093639525000041/,,11
+Ciena,CIEN,2025Q2,2025-08-01,분기말 종가,88.63,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/CIEN?interval=1d&events=splits (2025-08-01),,11
+Ciena,CIEN,2025Q2,2025-08-29,분기말 상장주식수,141055908,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/936395/000093639525000041/,dei:EntityCommonStockSharesOutstanding 클래스 합,11
+Ciena,CIEN,2025Q2,2025-08-01,분기말 시가총액,12501785126,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/CIEN?interval=1d&events=splits (2025-08-01) ; https://www.sec.gov/Archives/edgar/data/936395/000093639525000041/,종가 88.63 × 주식수 141055908,11
+Ciena,CIEN,2025Q3,2025-11-01,분기별 매출액,1351984000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/936395/000162828025056698/ ; https://www.sec.gov/Archives/edgar/data/936395/000093639525000041/,연간 4769507000 − 9개월누적 3417523000 (Revenues),11
+Ciena,CIEN,2025Q3,2025-11-01,분기별 영업이익,10491000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/936395/000162828025056698/ ; https://www.sec.gov/Archives/edgar/data/936395/000093639525000041/,연간 197531000 − 9개월누적 187040000 (OperatingIncomeLoss),11
+Ciena,CIEN,2025Q3,2025-11-01,분기별 당기순이익(지배),19489000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/936395/000162828025056698/ ; https://www.sec.gov/Archives/edgar/data/936395/000093639525000041/,연간 123338000 − 9개월누적 103849000 (NetIncomeLoss),11
+Ciena,CIEN,2025Q3,2025-11-01,분기별 영업활동현금흐름,371077000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/936395/000162828025056698/ ; https://www.sec.gov/Archives/edgar/data/936395/000093639525000041/,누적 806093000 − 직전누적 435016000 (시작 2024-11-03),11
+Ciena,CIEN,2025Q3,2025-11-01,분기말 자산총계,5864667000,USD,공시,https://www.sec.gov/Archives/edgar/data/936395/000162828025056698/,,11
+Ciena,CIEN,2025Q3,2025-11-01,분기말 부채총계,3135344000,USD,공시,https://www.sec.gov/Archives/edgar/data/936395/000162828025056698/,,11
+Ciena,CIEN,2025Q3,2025-11-01,분기말 총자본(자기자본),2729323000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/936395/000162828025056698/,"StockholdersEquity, MinorityInterest 태그 없음",11
+Ciena,CIEN,2025Q3,2025-11-01,분기말 지배지분 자본,2729323000,USD,공시,https://www.sec.gov/Archives/edgar/data/936395/000162828025056698/,,11
+Ciena,CIEN,2025Q3,2025-10-31,분기말 종가,189.92,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/CIEN?interval=1d&events=splits (2025-10-31),,11
+Ciena,CIEN,2025Q3,2025-12-05,분기말 상장주식수,140854735,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/936395/000162828025056698/,dei:EntityCommonStockSharesOutstanding 클래스 합,11
+Ciena,CIEN,2025Q3,2025-10-31,분기말 시가총액,26751131271,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/CIEN?interval=1d&events=splits (2025-10-31) ; https://www.sec.gov/Archives/edgar/data/936395/000162828025056698/,종가 189.92 × 주식수 140854735,11
+Ciena,CIEN,2025Q4,2026-01-31,분기별 매출액,1427042000,USD,공시,https://www.sec.gov/Archives/edgar/data/936395/000162828026015152/,,11
+Ciena,CIEN,2025Q4,2026-01-31,분기별 영업이익,189412000,USD,공시,https://www.sec.gov/Archives/edgar/data/936395/000162828026015152/,,11
+Ciena,CIEN,2025Q4,2026-01-31,분기별 당기순이익(지배),150283000,USD,공시,https://www.sec.gov/Archives/edgar/data/936395/000162828026015152/,,11
+Ciena,CIEN,2025Q4,2026-01-31,분기별 영업활동현금흐름,227645000,USD,공시,https://www.sec.gov/Archives/edgar/data/936395/000162828026015152/,,11
+Ciena,CIEN,2025Q4,2026-01-31,분기말 자산총계,5892359000,USD,공시,https://www.sec.gov/Archives/edgar/data/936395/000162828026015152/,,11
+Ciena,CIEN,2025Q4,2026-01-31,분기말 부채총계,3100001000,USD,공시,https://www.sec.gov/Archives/edgar/data/936395/000162828026015152/,,11
+Ciena,CIEN,2025Q4,2026-01-31,분기말 총자본(자기자본),2792358000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/936395/000162828026015152/,"StockholdersEquity, MinorityInterest 태그 없음",11
+Ciena,CIEN,2025Q4,2026-01-31,분기말 지배지분 자본,2792358000,USD,공시,https://www.sec.gov/Archives/edgar/data/936395/000162828026015152/,,11
+Ciena,CIEN,2025Q4,2026-01-30,분기말 종가,251.81,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/CIEN?interval=1d&events=splits (2026-01-30),,11
+Ciena,CIEN,2025Q4,2026-02-27,분기말 상장주식수,141398427,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/936395/000162828026015152/,dei:EntityCommonStockSharesOutstanding 클래스 합,11
+Ciena,CIEN,2025Q4,2026-01-30,분기말 시가총액,35605537903,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/CIEN?interval=1d&events=splits (2026-01-30) ; https://www.sec.gov/Archives/edgar/data/936395/000162828026015152/,종가 251.81 × 주식수 141398427,11
+Ciena,CIEN,2026Q1,2026-05-02,분기별 매출액,1570739000,USD,공시,https://www.sec.gov/Archives/edgar/data/936395/000162828026040767/,,11
+Ciena,CIEN,2026Q1,2026-05-02,분기별 영업이익,237871000,USD,공시,https://www.sec.gov/Archives/edgar/data/936395/000162828026040767/,,11
+Ciena,CIEN,2026Q1,2026-05-02,분기별 당기순이익(지배),218220000,USD,공시,https://www.sec.gov/Archives/edgar/data/936395/000162828026040767/,,11
+Ciena,CIEN,2026Q1,2026-05-02,분기별 영업활동현금흐름,259702000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/936395/000162828026040767/ ; https://www.sec.gov/Archives/edgar/data/936395/000162828026015152/,누적 487347000 − 직전누적 227645000 (시작 2025-11-02),11
+Ciena,CIEN,2026Q1,2026-05-02,분기말 자산총계,6039449000,USD,공시,https://www.sec.gov/Archives/edgar/data/936395/000162828026040767/,,11
+Ciena,CIEN,2026Q1,2026-05-02,분기말 부채총계,3147224000,USD,공시,https://www.sec.gov/Archives/edgar/data/936395/000162828026040767/,,11
+Ciena,CIEN,2026Q1,2026-05-02,분기말 총자본(자기자본),2892225000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/936395/000162828026040767/,"StockholdersEquity, MinorityInterest 태그 없음",11
+Ciena,CIEN,2026Q1,2026-05-02,분기말 지배지분 자본,2892225000,USD,공시,https://www.sec.gov/Archives/edgar/data/936395/000162828026040767/,,11
+Ciena,CIEN,2026Q1,2026-05-01,분기말 종가,535.29,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/CIEN?interval=1d&events=splits (2026-05-01),,11
+Ciena,CIEN,2026Q1,2026-05-29,분기말 상장주식수,141552922,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/936395/000162828026040767/,dei:EntityCommonStockSharesOutstanding 클래스 합,11
+Ciena,CIEN,2026Q1,2026-05-01,분기말 시가총액,75771863617,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/CIEN?interval=1d&events=splits (2026-05-01) ; https://www.sec.gov/Archives/edgar/data/936395/000162828026040767/,종가 535.29 × 주식수 141552922,11
+Ciena,CIEN,2026Q2,2026-08-01,분기별 매출액,1671129000,USD,공시,https://www.sec.gov/Archives/edgar/data/936395/000162828026060361/,,11
+Ciena,CIEN,2026Q2,2026-08-01,분기별 영업이익,301179000,USD,공시,https://www.sec.gov/Archives/edgar/data/936395/000162828026060361/,,11
+Ciena,CIEN,2026Q2,2026-08-01,분기별 당기순이익(지배),266418000,USD,공시,https://www.sec.gov/Archives/edgar/data/936395/000162828026060361/,,11
+Ciena,CIEN,2026Q2,2026-08-01,분기별 영업활동현금흐름,196259000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/936395/000162828026060361/ ; https://www.sec.gov/Archives/edgar/data/936395/000162828026040767/,누적 683606000 − 직전누적 487347000 (시작 2025-11-02),11
+Ciena,CIEN,2026Q2,2026-08-01,분기말 자산총계,7997240000,USD,공시,https://www.sec.gov/Archives/edgar/data/936395/000162828026060361/,,11
+Ciena,CIEN,2026Q2,2026-08-01,분기말 부채총계,4940502000,USD,공시,https://www.sec.gov/Archives/edgar/data/936395/000162828026060361/,,11
+Ciena,CIEN,2026Q2,2026-08-01,분기말 총자본(자기자본),3056738000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/936395/000162828026060361/,"StockholdersEquity, MinorityInterest 태그 없음",11
+Ciena,CIEN,2026Q2,2026-08-01,분기말 지배지분 자본,3056738000,USD,공시,https://www.sec.gov/Archives/edgar/data/936395/000162828026060361/,,11
+Ciena,CIEN,2026Q2,2026-07-31,분기말 종가,377.05,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/CIEN?interval=1d&events=splits (2026-07-31),,11
+Ciena,CIEN,2026Q2,2026-08-28,분기말 상장주식수,141808525,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/936395/000162828026060361/,dei:EntityCommonStockSharesOutstanding 클래스 합,11
+Ciena,CIEN,2026Q2,2026-07-31,분기말 시가총액,53468904351,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/CIEN?interval=1d&events=splits (2026-07-31) ; https://www.sec.gov/Archives/edgar/data/936395/000162828026060361/,종가 377.05 × 주식수 141808525,11

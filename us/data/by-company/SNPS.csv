@@ -1,0 +1,727 @@
+﻿기업,종목코드,기간,기준일,항목,값,통화,값구분,출처,검산,라운드
+Synopsys,SNPS,2010Q1,2010-04-30,분기별 매출액,338106000,USD,공시(후속 보고서 비교기간),https://www.sec.gov/Archives/edgar/data/883241/000119312511153412/,Revenues ; 그 분기 보고서에 연결 총계가 없어 2011-05-27 제출본의 비교기간에서 읽었다,8
+Synopsys,SNPS,2010Q1,2010-04-30,분기별 영업이익,44968000,USD,공시(후속 보고서 비교기간),https://www.sec.gov/Archives/edgar/data/883241/000119312511153412/,OperatingIncomeLoss ; 그 분기 보고서에 연결 총계가 없어 2011-05-27 제출본의 비교기간에서 읽었다,8
+Synopsys,SNPS,2010Q1,2010-04-30,분기별 당기순이익(지배),39549000,USD,공시(후속 보고서 비교기간),https://www.sec.gov/Archives/edgar/data/883241/000119312511153412/,NetIncomeLoss ; 그 분기 보고서에 연결 총계가 없어 2011-05-27 제출본의 비교기간에서 읽었다,8
+Synopsys,SNPS,2010Q1,2010-04-30,분기별 영업활동현금흐름,미확인,USD,미확인,https://www.sec.gov/Archives/edgar/data/883241/000119312510133054/,,8
+Synopsys,SNPS,2010Q1,2010-04-30,분기말 자산총계,미확인,USD,미확인,https://www.sec.gov/Archives/edgar/data/883241/000119312510133054/,,8
+Synopsys,SNPS,2010Q1,2010-04-30,분기말 부채총계,미확인,USD,미확인,https://www.sec.gov/Archives/edgar/data/883241/000119312510133054/,,8
+Synopsys,SNPS,2010Q1,2010-04-30,분기말 총자본(자기자본),미확인,USD,미확인,https://www.sec.gov/Archives/edgar/data/883241/000119312510133054/,,8
+Synopsys,SNPS,2010Q1,2010-04-30,분기말 지배지분 자본,미확인,USD,미확인,https://www.sec.gov/Archives/edgar/data/883241/000119312510133054/,,8
+Synopsys,SNPS,2010Q1,2010-04-30,분기말 종가,22.66,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/SNPS?interval=1d&events=splits (2010-04-30),,8
+Synopsys,SNPS,2010Q1,2010-04-30,분기말 상장주식수,미확인,,미확인,SEC companyfacts·XBRL 원문 모두 dei 표지 주식수 없음,,8
+Synopsys,SNPS,2010Q1,2010-04-30,분기말 시가총액,미확인,,미확인,SEC companyfacts·XBRL 원문 모두 dei 표지 주식수 없음,,8
+Synopsys,SNPS,2010Q2,2010-07-31,분기별 매출액,336929000,USD,공시,https://www.sec.gov/Archives/edgar/data/883241/000119312510206743/,,8
+Synopsys,SNPS,2010Q2,2010-07-31,분기별 영업이익,50793000,USD,공시,https://www.sec.gov/Archives/edgar/data/883241/000119312510206743/,,8
+Synopsys,SNPS,2010Q2,2010-07-31,분기별 당기순이익(지배),39327000,USD,공시,https://www.sec.gov/Archives/edgar/data/883241/000119312510206743/,,8
+Synopsys,SNPS,2010Q2,2010-07-31,분기별 영업활동현금흐름,데이터 없음(직전 분기 누적 보고서 없음),USD,데이터 없음(직전 보고서 없음),https://www.sec.gov/Archives/edgar/data/883241/000119312510206743/,,8
+Synopsys,SNPS,2010Q2,2010-07-31,분기말 자산총계,3114649000,USD,공시,https://www.sec.gov/Archives/edgar/data/883241/000119312510206743/,,8
+Synopsys,SNPS,2010Q2,2010-07-31,분기말 부채총계,1064839000,USD,공시,https://www.sec.gov/Archives/edgar/data/883241/000119312510206743/,,8
+Synopsys,SNPS,2010Q2,2010-07-31,분기말 총자본(자기자본),2049810000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/883241/000119312510206743/,"StockholdersEquity, MinorityInterest 태그 없음",8
+Synopsys,SNPS,2010Q2,2010-07-31,분기말 지배지분 자본,2049810000,USD,공시,https://www.sec.gov/Archives/edgar/data/883241/000119312510206743/,,8
+Synopsys,SNPS,2010Q2,2010-07-30,분기말 종가,21.84,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/SNPS?interval=1d&events=splits (2010-07-30),,8
+Synopsys,SNPS,2010Q2,2010-09-03,분기말 상장주식수,148561589,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/883241/000119312510206743/,dei:EntityCommonStockSharesOutstanding 클래스 합,8
+Synopsys,SNPS,2010Q2,2010-07-30,분기말 시가총액,3244585104,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/SNPS?interval=1d&events=splits (2010-07-30) ; https://www.sec.gov/Archives/edgar/data/883241/000119312510206743/,종가 21.84 × 주식수 148561589,8
+Synopsys,SNPS,2010Q3,2010-10-31,분기별 매출액,375459000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/883241/000119312511028105/ ; https://www.sec.gov/Archives/edgar/data/883241/000119312510206743/,연간 1380661000 − 9개월누적 1005202000 (Revenues),8
+Synopsys,SNPS,2010Q3,2010-10-31,분기별 영업이익,33257000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/883241/000119312511028105/ ; https://www.sec.gov/Archives/edgar/data/883241/000119312510206743/,연간 184110000 − 9개월누적 150853000 (OperatingIncomeLoss),8
+Synopsys,SNPS,2010Q3,2010-10-31,분기별 당기순이익(지배),25401000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/883241/000119312511028105/ ; https://www.sec.gov/Archives/edgar/data/883241/000119312510206743/,연간 237063000 − 9개월누적 211662000 (NetIncomeLoss),8
+Synopsys,SNPS,2010Q3,2010-10-31,분기별 영업활동현금흐름,96892000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/883241/000119312511028105/ ; https://www.sec.gov/Archives/edgar/data/883241/000119312510206743/,누적 341036000 − 직전누적 244144000 (시작 2009-11-01),8
+Synopsys,SNPS,2010Q3,2010-10-31,분기말 자산총계,3286541000,USD,공시,https://www.sec.gov/Archives/edgar/data/883241/000119312511028105/,,8
+Synopsys,SNPS,2010Q3,2010-10-31,분기말 부채총계,1186359000,USD,공시,https://www.sec.gov/Archives/edgar/data/883241/000119312511028105/,,8
+Synopsys,SNPS,2010Q3,2010-10-31,분기말 총자본(자기자본),2100182000,USD,공시,https://www.sec.gov/Archives/edgar/data/883241/000119312511028105/,,8
+Synopsys,SNPS,2010Q3,2010-10-31,분기말 지배지분 자본,2100182000,USD,공시,https://www.sec.gov/Archives/edgar/data/883241/000119312511028105/,,8
+Synopsys,SNPS,2010Q3,2010-10-29,분기말 종가,25.58,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/SNPS?interval=1d&events=splits (2010-10-29),,8
+Synopsys,SNPS,2010Q3,2010-12-04,분기말 상장주식수,149300000,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/883241/000119312511028105/,dei:EntityCommonStockSharesOutstanding 클래스 합,8
+Synopsys,SNPS,2010Q3,2010-10-29,분기말 시가총액,3819094000,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/SNPS?interval=1d&events=splits (2010-10-29) ; https://www.sec.gov/Archives/edgar/data/883241/000119312511028105/,종가 25.58 × 주식수 149300000,8
+Synopsys,SNPS,2010Q4,2011-01-31,분기별 매출액,364644000,USD,공시,https://www.sec.gov/Archives/edgar/data/883241/000119312511053667/,,8
+Synopsys,SNPS,2010Q4,2011-01-31,분기별 영업이익,46662000,USD,공시,https://www.sec.gov/Archives/edgar/data/883241/000119312511053667/,,8
+Synopsys,SNPS,2010Q4,2011-01-31,분기별 당기순이익(지배),48226000,USD,공시,https://www.sec.gov/Archives/edgar/data/883241/000119312511053667/,,8
+Synopsys,SNPS,2010Q4,2011-01-31,분기별 영업활동현금흐름,-39633000,USD,공시,https://www.sec.gov/Archives/edgar/data/883241/000119312511053667/,,8
+Synopsys,SNPS,2010Q4,2011-01-31,분기말 자산총계,3213288000,USD,공시,https://www.sec.gov/Archives/edgar/data/883241/000119312511053667/,,8
+Synopsys,SNPS,2010Q4,2011-01-31,분기말 부채총계,1055415000,USD,공시,https://www.sec.gov/Archives/edgar/data/883241/000119312511053667/,,8
+Synopsys,SNPS,2010Q4,2011-01-31,분기말 총자본(자기자본),2157873000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/883241/000119312511053667/,"StockholdersEquity, MinorityInterest 태그 없음",8
+Synopsys,SNPS,2010Q4,2011-01-31,분기말 지배지분 자본,2157873000,USD,공시,https://www.sec.gov/Archives/edgar/data/883241/000119312511053667/,,8
+Synopsys,SNPS,2010Q4,2011-01-31,분기말 종가,27.13,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/SNPS?interval=1d&events=splits (2011-01-31),,8
+Synopsys,SNPS,2010Q4,2011-03-01,분기말 상장주식수,150936792,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/883241/000119312511053667/,dei:EntityCommonStockSharesOutstanding 클래스 합,8
+Synopsys,SNPS,2010Q4,2011-01-31,분기말 시가총액,4094915167,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/SNPS?interval=1d&events=splits (2011-01-31) ; https://www.sec.gov/Archives/edgar/data/883241/000119312511053667/,종가 27.13 × 주식수 150936792,8
+Synopsys,SNPS,2011Q1,2011-04-30,분기별 매출액,393670000,USD,공시,https://www.sec.gov/Archives/edgar/data/883241/000119312511157337/,,8
+Synopsys,SNPS,2011Q1,2011-04-30,분기별 영업이익,51685000,USD,공시,https://www.sec.gov/Archives/edgar/data/883241/000119312511157337/,,8
+Synopsys,SNPS,2011Q1,2011-04-30,분기별 당기순이익(지배),81114000,USD,공시,https://www.sec.gov/Archives/edgar/data/883241/000119312511157337/,,8
+Synopsys,SNPS,2011Q1,2011-04-30,분기별 영업활동현금흐름,96488000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/883241/000119312511157337/ ; https://www.sec.gov/Archives/edgar/data/883241/000119312511053667/,누적 56855000 − 직전누적 -39633000 (시작 2010-11-01),8
+Synopsys,SNPS,2011Q1,2011-04-30,분기말 자산총계,3209469000,USD,공시,https://www.sec.gov/Archives/edgar/data/883241/000119312511157337/,,8
+Synopsys,SNPS,2011Q1,2011-04-30,분기말 부채총계,1062071000,USD,공시,https://www.sec.gov/Archives/edgar/data/883241/000119312511157337/,,8
+Synopsys,SNPS,2011Q1,2011-04-30,분기말 총자본(자기자본),2147398000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/883241/000119312511157337/,"StockholdersEquity, MinorityInterest 태그 없음",8
+Synopsys,SNPS,2011Q1,2011-04-30,분기말 지배지분 자본,2147398000,USD,공시,https://www.sec.gov/Archives/edgar/data/883241/000119312511157337/,,8
+Synopsys,SNPS,2011Q1,2011-04-29,분기말 종가,27.39,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/SNPS?interval=1d&events=splits (2011-04-29),,8
+Synopsys,SNPS,2011Q1,2011-05-23,분기말 상장주식수,146679418,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/883241/000119312511157337/,dei:EntityCommonStockSharesOutstanding 클래스 합,8
+Synopsys,SNPS,2011Q1,2011-04-29,분기말 시가총액,4017549259,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/SNPS?interval=1d&events=splits (2011-04-29) ; https://www.sec.gov/Archives/edgar/data/883241/000119312511157337/,종가 27.39 × 주식수 146679418,8
+Synopsys,SNPS,2011Q2,2011-07-31,분기별 매출액,386795000,USD,공시,https://www.sec.gov/Archives/edgar/data/883241/000119312511240188/,,8
+Synopsys,SNPS,2011Q2,2011-07-31,분기별 영업이익,58179000,USD,공시,https://www.sec.gov/Archives/edgar/data/883241/000119312511240188/,,8
+Synopsys,SNPS,2011Q2,2011-07-31,분기별 당기순이익(지배),52082000,USD,공시,https://www.sec.gov/Archives/edgar/data/883241/000119312511240188/,,8
+Synopsys,SNPS,2011Q2,2011-07-31,분기별 영업활동현금흐름,310435000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/883241/000119312511240188/ ; https://www.sec.gov/Archives/edgar/data/883241/000119312511157337/,누적 367290000 − 직전누적 56855000 (시작 2010-11-01),8
+Synopsys,SNPS,2011Q2,2011-07-31,분기말 자산총계,3368638000,USD,공시,https://www.sec.gov/Archives/edgar/data/883241/000119312511240188/,,8
+Synopsys,SNPS,2011Q2,2011-07-31,분기말 부채총계,1247131000,USD,공시,https://www.sec.gov/Archives/edgar/data/883241/000119312511240188/,,8
+Synopsys,SNPS,2011Q2,2011-07-31,분기말 총자본(자기자본),2121507000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/883241/000119312511240188/,"StockholdersEquity, MinorityInterest 태그 없음",8
+Synopsys,SNPS,2011Q2,2011-07-31,분기말 지배지분 자본,2121507000,USD,공시,https://www.sec.gov/Archives/edgar/data/883241/000119312511240188/,,8
+Synopsys,SNPS,2011Q2,2011-07-29,분기말 종가,23.97,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/SNPS?interval=1d&events=splits (2011-07-29),,8
+Synopsys,SNPS,2011Q2,2011-08-29,분기말 상장주식수,144053580,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/883241/000119312511240188/,dei:EntityCommonStockSharesOutstanding 클래스 합,8
+Synopsys,SNPS,2011Q2,2011-07-29,분기말 시가총액,3452964313,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/SNPS?interval=1d&events=splits (2011-07-29) ; https://www.sec.gov/Archives/edgar/data/883241/000119312511240188/,종가 23.97 × 주식수 144053580,8
+Synopsys,SNPS,2011Q3,2011-10-31,분기별 매출액,390534000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/883241/000119312511343034/ ; https://www.sec.gov/Archives/edgar/data/883241/000119312511240188/,연간 1535643000 − 9개월누적 1145109000 (Revenues),8
+Synopsys,SNPS,2011Q3,2011-10-31,분기별 영업이익,56317000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/883241/000119312511343034/ ; https://www.sec.gov/Archives/edgar/data/883241/000119312511240188/,연간 212843000 − 9개월누적 156526000 (OperatingIncomeLoss),8
+Synopsys,SNPS,2011Q3,2011-10-31,분기별 당기순이익(지배),39942000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/883241/000119312511343034/ ; https://www.sec.gov/Archives/edgar/data/883241/000119312511240188/,연간 221364000 − 9개월누적 181422000 (NetIncomeLoss),8
+Synopsys,SNPS,2011Q3,2011-10-31,분기별 영업활동현금흐름,73026000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/883241/000119312511343034/ ; https://www.sec.gov/Archives/edgar/data/883241/000119312511240188/,누적 440316000 − 직전누적 367290000 (시작 2010-11-01),8
+Synopsys,SNPS,2011Q3,2011-10-31,분기말 자산총계,3368844000,USD,공시(재작성 반영),https://www.sec.gov/Archives/edgar/data/883241/000119312512510596/,원 공시 3367334000 (https://www.sec.gov/Archives/edgar/data/883241/000119312511343034/),8
+Synopsys,SNPS,2011Q3,2011-10-31,분기말 부채총계,1267544000,USD,공시(재작성 반영),https://www.sec.gov/Archives/edgar/data/883241/000119312512510596/,원 공시 1266034000 (https://www.sec.gov/Archives/edgar/data/883241/000119312511343034/),8
+Synopsys,SNPS,2011Q3,2011-10-31,분기말 총자본(자기자본),2101300000,USD,공시,https://www.sec.gov/Archives/edgar/data/883241/000119312511343034/,,8
+Synopsys,SNPS,2011Q3,2011-10-31,분기말 지배지분 자본,2101300000,USD,공시,https://www.sec.gov/Archives/edgar/data/883241/000119312511343034/,,8
+Synopsys,SNPS,2011Q3,2011-10-31,분기말 종가,26.81,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/SNPS?interval=1d&events=splits (2011-10-31),,8
+Synopsys,SNPS,2011Q3,2011-12-03,분기말 상장주식수,144200000,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/883241/000119312511343034/,dei:EntityCommonStockSharesOutstanding 클래스 합,8
+Synopsys,SNPS,2011Q3,2011-10-31,분기말 시가총액,3866002000,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/SNPS?interval=1d&events=splits (2011-10-31) ; https://www.sec.gov/Archives/edgar/data/883241/000119312511343034/,종가 26.81 × 주식수 144200000,8
+Synopsys,SNPS,2011Q4,2012-01-31,분기별 매출액,425496000,USD,공시,https://www.sec.gov/Archives/edgar/data/883241/000119312512099331/,,8
+Synopsys,SNPS,2011Q4,2012-01-31,분기별 영업이익,70003000,USD,공시,https://www.sec.gov/Archives/edgar/data/883241/000119312512099331/,,8
+Synopsys,SNPS,2011Q4,2012-01-31,분기별 당기순이익(지배),56694000,USD,공시,https://www.sec.gov/Archives/edgar/data/883241/000119312512099331/,,8
+Synopsys,SNPS,2011Q4,2012-01-31,분기별 영업활동현금흐름,-39318000,USD,공시,https://www.sec.gov/Archives/edgar/data/883241/000119312512099331/,,8
+Synopsys,SNPS,2011Q4,2012-01-31,분기말 자산총계,3299000000,USD,공시,https://www.sec.gov/Archives/edgar/data/883241/000119312512099331/,,8
+Synopsys,SNPS,2011Q4,2012-01-31,분기말 부채총계,1127195000,USD,공시,https://www.sec.gov/Archives/edgar/data/883241/000119312512099331/,,8
+Synopsys,SNPS,2011Q4,2012-01-31,분기말 총자본(자기자본),2171805000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/883241/000119312512099331/,"StockholdersEquity, MinorityInterest 태그 없음",8
+Synopsys,SNPS,2011Q4,2012-01-31,분기말 지배지분 자본,2171805000,USD,공시,https://www.sec.gov/Archives/edgar/data/883241/000119312512099331/,,8
+Synopsys,SNPS,2011Q4,2012-01-31,분기말 종가,29.17,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/SNPS?interval=1d&events=splits (2012-01-31),,8
+Synopsys,SNPS,2011Q4,2012-02-29,분기말 상장주식수,145795657,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/883241/000119312512099331/,dei:EntityCommonStockSharesOutstanding 클래스 합,8
+Synopsys,SNPS,2011Q4,2012-01-31,분기말 시가총액,4252859315,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/SNPS?interval=1d&events=splits (2012-01-31) ; https://www.sec.gov/Archives/edgar/data/883241/000119312512099331/,종가 29.17 × 주식수 145795657,8
+Synopsys,SNPS,2012Q1,2012-04-30,분기별 매출액,432561000,USD,공시,https://www.sec.gov/Archives/edgar/data/883241/000119312512257478/,,8
+Synopsys,SNPS,2012Q1,2012-04-30,분기별 영업이익,17136000,USD,공시,https://www.sec.gov/Archives/edgar/data/883241/000119312512257478/,,8
+Synopsys,SNPS,2012Q1,2012-04-30,분기별 당기순이익(지배),20971000,USD,공시,https://www.sec.gov/Archives/edgar/data/883241/000119312512257478/,,8
+Synopsys,SNPS,2012Q1,2012-04-30,분기별 영업활동현금흐름,126774000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/883241/000119312512257478/ ; https://www.sec.gov/Archives/edgar/data/883241/000119312512099331/,누적 87456000 − 직전누적 -39318000 (시작 2011-11-01),8
+Synopsys,SNPS,2012Q1,2012-04-30,분기말 자산총계,3744482000,USD,공시,https://www.sec.gov/Archives/edgar/data/883241/000119312512257478/,,8
+Synopsys,SNPS,2012Q1,2012-04-30,분기말 부채총계,1454506000,USD,공시,https://www.sec.gov/Archives/edgar/data/883241/000119312512257478/,,8
+Synopsys,SNPS,2012Q1,2012-04-30,분기말 총자본(자기자본),2289976000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/883241/000119312512257478/,"StockholdersEquity, MinorityInterest 태그 없음",8
+Synopsys,SNPS,2012Q1,2012-04-30,분기말 지배지분 자본,2289976000,USD,공시,https://www.sec.gov/Archives/edgar/data/883241/000119312512257478/,,8
+Synopsys,SNPS,2012Q1,2012-04-30,분기말 종가,30.01,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/SNPS?interval=1d&events=splits (2012-04-30),,8
+Synopsys,SNPS,2012Q1,2012-05-29,분기말 상장주식수,147089645,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/883241/000119312512257478/,dei:EntityCommonStockSharesOutstanding 클래스 합,8
+Synopsys,SNPS,2012Q1,2012-04-30,분기말 시가총액,4414160246,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/SNPS?interval=1d&events=splits (2012-04-30) ; https://www.sec.gov/Archives/edgar/data/883241/000119312512257478/,종가 30.01 × 주식수 147089645,8
+Synopsys,SNPS,2012Q2,2012-07-31,분기별 매출액,443747000,USD,공시,https://www.sec.gov/Archives/edgar/data/883241/000119312512377617/,,8
+Synopsys,SNPS,2012Q2,2012-07-31,분기별 영업이익,63395000,USD,공시,https://www.sec.gov/Archives/edgar/data/883241/000119312512377617/,,8
+Synopsys,SNPS,2012Q2,2012-07-31,분기별 당기순이익(지배),75656000,USD,공시,https://www.sec.gov/Archives/edgar/data/883241/000119312512377617/,,8
+Synopsys,SNPS,2012Q2,2012-07-31,분기별 영업활동현금흐름,295680000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/883241/000119312512377617/ ; https://www.sec.gov/Archives/edgar/data/883241/000119312512257478/,누적 383136000 − 직전누적 87456000 (시작 2011-11-01),8
+Synopsys,SNPS,2012Q2,2012-07-31,분기말 자산총계,3869271000,USD,공시,https://www.sec.gov/Archives/edgar/data/883241/000119312512377617/,,8
+Synopsys,SNPS,2012Q2,2012-07-31,분기말 부채총계,1478171000,USD,공시,https://www.sec.gov/Archives/edgar/data/883241/000119312512377617/,,8
+Synopsys,SNPS,2012Q2,2012-07-31,분기말 총자본(자기자본),2391100000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/883241/000119312512377617/,"StockholdersEquity, MinorityInterest 태그 없음",8
+Synopsys,SNPS,2012Q2,2012-07-31,분기말 지배지분 자본,2391100000,USD,공시,https://www.sec.gov/Archives/edgar/data/883241/000119312512377617/,,8
+Synopsys,SNPS,2012Q2,2012-07-31,분기말 종가,30.29,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/SNPS?interval=1d&events=splits (2012-07-31),,8
+Synopsys,SNPS,2012Q2,2012-08-27,분기말 상장주식수,149126370,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/883241/000119312512377617/,dei:EntityCommonStockSharesOutstanding 클래스 합,8
+Synopsys,SNPS,2012Q2,2012-07-31,분기말 시가총액,4517037747,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/SNPS?interval=1d&events=splits (2012-07-31) ; https://www.sec.gov/Archives/edgar/data/883241/000119312512377617/,종가 30.29 × 주식수 149126370,8
+Synopsys,SNPS,2012Q3,2012-10-31,분기별 매출액,454213000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/883241/000119312512510596/ ; https://www.sec.gov/Archives/edgar/data/883241/000119312512377617/,연간 1756017000 − 9개월누적 1301804000 (Revenues),8
+Synopsys,SNPS,2012Q3,2012-10-31,분기별 영업이익,39490000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/883241/000119312512510596/ ; https://www.sec.gov/Archives/edgar/data/883241/000119312512377617/,연간 190024000 − 9개월누적 150534000 (OperatingIncomeLoss),8
+Synopsys,SNPS,2012Q3,2012-10-31,분기별 당기순이익(지배),28577000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/883241/000119312512510596/ ; https://www.sec.gov/Archives/edgar/data/883241/000119312512377617/,연간 181898000 − 9개월누적 153321000 (NetIncomeLoss),8
+Synopsys,SNPS,2012Q3,2012-10-31,분기별 영업활동현금흐름,102932000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/883241/000119312512510596/ ; https://www.sec.gov/Archives/edgar/data/883241/000119312512377617/,누적 486068000 − 직전누적 383136000 (시작 2011-11-01),8
+Synopsys,SNPS,2012Q3,2012-10-31,분기말 자산총계,4147656000,USD,공시,https://www.sec.gov/Archives/edgar/data/883241/000119312512510596/,,8
+Synopsys,SNPS,2012Q3,2012-10-31,분기말 부채총계,1603685000,USD,공시,https://www.sec.gov/Archives/edgar/data/883241/000119312512510596/,,8
+Synopsys,SNPS,2012Q3,2012-10-31,분기말 총자본(자기자본),2543971000,USD,공시,https://www.sec.gov/Archives/edgar/data/883241/000119312512510596/,,8
+Synopsys,SNPS,2012Q3,2012-10-31,분기말 지배지분 자본,2501686000,USD,공시,https://www.sec.gov/Archives/edgar/data/883241/000119312512510596/,,8
+Synopsys,SNPS,2012Q3,2012-10-31,분기말 종가,32.2,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/SNPS?interval=1d&events=splits (2012-10-31),,8
+Synopsys,SNPS,2012Q3,2012-12-08,분기말 상장주식수,151200000,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/883241/000119312512510596/,dei:EntityCommonStockSharesOutstanding 클래스 합,8
+Synopsys,SNPS,2012Q3,2012-10-31,분기말 시가총액,4868640000,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/SNPS?interval=1d&events=splits (2012-10-31) ; https://www.sec.gov/Archives/edgar/data/883241/000119312512510596/,종가 32.2 × 주식수 151200000,8
+Synopsys,SNPS,2012Q4,2013-01-31,분기별 매출액,475137000,USD,공시,https://www.sec.gov/Archives/edgar/data/883241/000119312513088256/,,8
+Synopsys,SNPS,2012Q4,2013-01-31,분기별 영업이익,60981000,USD,공시,https://www.sec.gov/Archives/edgar/data/883241/000119312513088256/,,8
+Synopsys,SNPS,2012Q4,2013-01-31,분기별 당기순이익(지배),69922000,USD,공시,https://www.sec.gov/Archives/edgar/data/883241/000119312513088256/,,8
+Synopsys,SNPS,2012Q4,2013-01-31,분기별 영업활동현금흐름,-91438000,USD,공시,https://www.sec.gov/Archives/edgar/data/883241/000119312513088256/,,8
+Synopsys,SNPS,2012Q4,2013-01-31,분기말 자산총계,4020546000,USD,공시,https://www.sec.gov/Archives/edgar/data/883241/000119312513088256/,,8
+Synopsys,SNPS,2012Q4,2013-01-31,분기말 부채총계,1418387000,USD,공시,https://www.sec.gov/Archives/edgar/data/883241/000119312513088256/,,8
+Synopsys,SNPS,2012Q4,2013-01-31,분기말 총자본(자기자본),2602159000,USD,공시,https://www.sec.gov/Archives/edgar/data/883241/000119312513088256/,,8
+Synopsys,SNPS,2012Q4,2013-01-31,분기말 지배지분 자본,2602159000,USD,공시,https://www.sec.gov/Archives/edgar/data/883241/000119312513088256/,,8
+Synopsys,SNPS,2012Q4,2013-01-31,분기말 종가,33.44,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/SNPS?interval=1d&events=splits (2013-01-31),,8
+Synopsys,SNPS,2012Q4,2013-03-01,분기말 상장주식수,153796717,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/883241/000119312513088256/,dei:EntityCommonStockSharesOutstanding 클래스 합,8
+Synopsys,SNPS,2012Q4,2013-01-31,분기말 시가총액,5142962216,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/SNPS?interval=1d&events=splits (2013-01-31) ; https://www.sec.gov/Archives/edgar/data/883241/000119312513088256/,종가 33.44 × 주식수 153796717,8
+Synopsys,SNPS,2013Q1,2013-04-30,분기별 매출액,499257000,USD,공시,https://www.sec.gov/Archives/edgar/data/883241/000119312513243521/,,8
+Synopsys,SNPS,2013Q1,2013-04-30,분기별 영업이익,79503000,USD,공시,https://www.sec.gov/Archives/edgar/data/883241/000119312513243521/,,8
+Synopsys,SNPS,2013Q1,2013-04-30,분기별 당기순이익(지배),68691000,USD,공시,https://www.sec.gov/Archives/edgar/data/883241/000119312513243521/,,8
+Synopsys,SNPS,2013Q1,2013-04-30,분기별 영업활동현금흐름,133730000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/883241/000119312513243521/ ; https://www.sec.gov/Archives/edgar/data/883241/000119312513088256/,누적 42292000 − 직전누적 -91438000 (시작 2012-11-01),8
+Synopsys,SNPS,2013Q1,2013-04-30,분기말 자산총계,4098888000,USD,공시,https://www.sec.gov/Archives/edgar/data/883241/000119312513243521/,,8
+Synopsys,SNPS,2013Q1,2013-04-30,분기말 부채총계,1399956000,USD,공시,https://www.sec.gov/Archives/edgar/data/883241/000119312513243521/,,8
+Synopsys,SNPS,2013Q1,2013-04-30,분기말 총자본(자기자본),2698932000,USD,공시,https://www.sec.gov/Archives/edgar/data/883241/000119312513243521/,,8
+Synopsys,SNPS,2013Q1,2013-04-30,분기말 지배지분 자본,2698932000,USD,공시,https://www.sec.gov/Archives/edgar/data/883241/000119312513243521/,,8
+Synopsys,SNPS,2013Q1,2013-04-30,분기말 종가,35.57,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/SNPS?interval=1d&events=splits (2013-04-30),,8
+Synopsys,SNPS,2013Q1,2013-05-28,분기말 상장주식수,153764405,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/883241/000119312513243521/,dei:EntityCommonStockSharesOutstanding 클래스 합,8
+Synopsys,SNPS,2013Q1,2013-04-30,분기말 시가총액,5469399886,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/SNPS?interval=1d&events=splits (2013-04-30) ; https://www.sec.gov/Archives/edgar/data/883241/000119312513243521/,종가 35.57 × 주식수 153764405,8
+Synopsys,SNPS,2013Q2,2013-07-31,분기별 매출액,482945000,USD,공시,https://www.sec.gov/Archives/edgar/data/883241/000119312513353975/,,8
+Synopsys,SNPS,2013Q2,2013-07-31,분기별 영업이익,54995000,USD,공시,https://www.sec.gov/Archives/edgar/data/883241/000119312513353975/,,8
+Synopsys,SNPS,2013Q2,2013-07-31,분기별 당기순이익(지배),52297000,USD,공시,https://www.sec.gov/Archives/edgar/data/883241/000119312513353975/,,8
+Synopsys,SNPS,2013Q2,2013-07-31,분기별 영업활동현금흐름,263078000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/883241/000119312513353975/ ; https://www.sec.gov/Archives/edgar/data/883241/000119312513243521/,누적 305370000 − 직전누적 42292000 (시작 2012-11-01),8
+Synopsys,SNPS,2013Q2,2013-07-31,분기말 자산총계,4288472000,USD,공시,https://www.sec.gov/Archives/edgar/data/883241/000119312513353975/,,8
+Synopsys,SNPS,2013Q2,2013-07-31,분기말 부채총계,1552342000,USD,공시,https://www.sec.gov/Archives/edgar/data/883241/000119312513353975/,,8
+Synopsys,SNPS,2013Q2,2013-07-31,분기말 총자본(자기자본),2736130000,USD,공시,https://www.sec.gov/Archives/edgar/data/883241/000119312513353975/,,8
+Synopsys,SNPS,2013Q2,2013-07-31,분기말 지배지분 자본,2736130000,USD,공시,https://www.sec.gov/Archives/edgar/data/883241/000119312513353975/,,8
+Synopsys,SNPS,2013Q2,2013-07-31,분기말 종가,37.04,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/SNPS?interval=1d&events=splits (2013-07-31),,8
+Synopsys,SNPS,2013Q2,2013-08-28,분기말 상장주식수,154408347,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/883241/000119312513353975/,dei:EntityCommonStockSharesOutstanding 클래스 합,8
+Synopsys,SNPS,2013Q2,2013-07-31,분기말 시가총액,5719285173,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/SNPS?interval=1d&events=splits (2013-07-31) ; https://www.sec.gov/Archives/edgar/data/883241/000119312513353975/,종가 37.04 × 주식수 154408347,8
+Synopsys,SNPS,2013Q3,2013-10-31,분기별 매출액,504875000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/883241/000119312513479653/ ; https://www.sec.gov/Archives/edgar/data/883241/000119312513353975/,연간 1962214000 − 9개월누적 1457339000 (Revenues),8
+Synopsys,SNPS,2013Q3,2013-10-31,분기별 영업이익,51014000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/883241/000119312513479653/ ; https://www.sec.gov/Archives/edgar/data/883241/000119312513353975/,연간 246493000 − 9개월누적 195479000 (OperatingIncomeLoss),8
+Synopsys,SNPS,2013Q3,2013-10-31,분기별 당기순이익(지배),56890000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/883241/000119312513479653/ ; https://www.sec.gov/Archives/edgar/data/883241/000119312513353975/,연간 247800000 − 9개월누적 190910000 (NetIncomeLoss),8
+Synopsys,SNPS,2013Q3,2013-10-31,분기별 영업활동현금흐름,191335000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/883241/000119312513479653/ ; https://www.sec.gov/Archives/edgar/data/883241/000119312513353975/,누적 496705000 − 직전누적 305370000 (시작 2012-11-01),8
+Synopsys,SNPS,2013Q3,2013-10-31,분기말 자산총계,4358935000,USD,공시,https://www.sec.gov/Archives/edgar/data/883241/000119312513479653/,,8
+Synopsys,SNPS,2013Q3,2013-10-31,분기말 부채총계,1570658000,USD,공시,https://www.sec.gov/Archives/edgar/data/883241/000119312513479653/,,8
+Synopsys,SNPS,2013Q3,2013-10-31,분기말 총자본(자기자본),2788277000,USD,공시,https://www.sec.gov/Archives/edgar/data/883241/000119312513479653/,,8
+Synopsys,SNPS,2013Q3,2013-10-31,분기말 지배지분 자본,2788277000,USD,공시,https://www.sec.gov/Archives/edgar/data/883241/000119312513479653/,,8
+Synopsys,SNPS,2013Q3,2013-10-31,분기말 종가,36.42,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/SNPS?interval=1d&events=splits (2013-10-31),,8
+Synopsys,SNPS,2013Q3,2013-12-13,분기말 상장주식수,154342900,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/883241/000119312513479653/,dei:EntityCommonStockSharesOutstanding 클래스 합,8
+Synopsys,SNPS,2013Q3,2013-10-31,분기말 시가총액,5621168418,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/SNPS?interval=1d&events=splits (2013-10-31) ; https://www.sec.gov/Archives/edgar/data/883241/000119312513479653/,종가 36.42 × 주식수 154342900,8
+Synopsys,SNPS,2013Q4,2014-01-31,분기별 매출액,478951000,USD,공시,https://www.sec.gov/Archives/edgar/data/883241/000119312514069985/,,8
+Synopsys,SNPS,2013Q4,2014-01-31,분기별 영업이익,60156000,USD,공시,https://www.sec.gov/Archives/edgar/data/883241/000119312514069985/,,8
+Synopsys,SNPS,2013Q4,2014-01-31,분기별 당기순이익(지배),67696000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/883241/000119312514069985/,,8
+Synopsys,SNPS,2013Q4,2014-01-31,분기별 영업활동현금흐름,-73892000,USD,공시,https://www.sec.gov/Archives/edgar/data/883241/000119312514069985/,,8
+Synopsys,SNPS,2013Q4,2014-01-31,분기말 자산총계,4192156000,USD,공시,https://www.sec.gov/Archives/edgar/data/883241/000119312514069985/,,8
+Synopsys,SNPS,2013Q4,2014-01-31,분기말 부채총계,1368941000,USD,공시,https://www.sec.gov/Archives/edgar/data/883241/000119312514069985/,,8
+Synopsys,SNPS,2013Q4,2014-01-31,분기말 총자본(자기자본),2823215000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/883241/000119312514069985/,"StockholdersEquity, MinorityInterest 태그 없음",8
+Synopsys,SNPS,2013Q4,2014-01-31,분기말 지배지분 자본,2823215000,USD,공시,https://www.sec.gov/Archives/edgar/data/883241/000119312514069985/,,8
+Synopsys,SNPS,2013Q4,2014-01-31,분기말 종가,39.86,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/SNPS?interval=1d&events=splits (2014-01-31),,8
+Synopsys,SNPS,2013Q4,2014-02-24,분기말 상장주식수,154083614,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/883241/000119312514069985/,dei:EntityCommonStockSharesOutstanding 클래스 합,8
+Synopsys,SNPS,2013Q4,2014-01-31,분기말 시가총액,6141772854,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/SNPS?interval=1d&events=splits (2014-01-31) ; https://www.sec.gov/Archives/edgar/data/883241/000119312514069985/,종가 39.86 × 주식수 154083614,8
+Synopsys,SNPS,2014Q1,2014-04-30,분기별 매출액,517697000,USD,공시,https://www.sec.gov/Archives/edgar/data/883241/000119312514213430/,,8
+Synopsys,SNPS,2014Q1,2014-04-30,분기별 영업이익,63834000,USD,공시,https://www.sec.gov/Archives/edgar/data/883241/000119312514213430/,,8
+Synopsys,SNPS,2014Q1,2014-04-30,분기별 당기순이익(지배),63317000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/883241/000119312514213430/,,8
+Synopsys,SNPS,2014Q1,2014-04-30,분기별 영업활동현금흐름,111803000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/883241/000119312514213430/ ; https://www.sec.gov/Archives/edgar/data/883241/000119312514069985/,누적 37911000 − 직전누적 -73892000 (시작 2013-11-01),8
+Synopsys,SNPS,2014Q1,2014-04-30,분기말 자산총계,4560536000,USD,공시,https://www.sec.gov/Archives/edgar/data/883241/000119312514213430/,,8
+Synopsys,SNPS,2014Q1,2014-04-30,분기말 부채총계,1641417000,USD,공시,https://www.sec.gov/Archives/edgar/data/883241/000119312514213430/,,8
+Synopsys,SNPS,2014Q1,2014-04-30,분기말 총자본(자기자본),2919119000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/883241/000119312514213430/,"StockholdersEquity, MinorityInterest 태그 없음",8
+Synopsys,SNPS,2014Q1,2014-04-30,분기말 지배지분 자본,2919119000,USD,공시,https://www.sec.gov/Archives/edgar/data/883241/000119312514213430/,,8
+Synopsys,SNPS,2014Q1,2014-04-30,분기말 종가,37.62,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/SNPS?interval=1d&events=splits (2014-04-30),,8
+Synopsys,SNPS,2014Q1,2014-05-23,분기말 상장주식수,154734978,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/883241/000119312514213430/,dei:EntityCommonStockSharesOutstanding 클래스 합,8
+Synopsys,SNPS,2014Q1,2014-04-30,분기말 시가총액,5821129872,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/SNPS?interval=1d&events=splits (2014-04-30) ; https://www.sec.gov/Archives/edgar/data/883241/000119312514213430/,종가 37.62 × 주식수 154734978,8
+Synopsys,SNPS,2014Q2,2014-07-31,분기별 매출액,521812000,USD,공시,https://www.sec.gov/Archives/edgar/data/883241/000088324114000005/,,8
+Synopsys,SNPS,2014Q2,2014-07-31,분기별 영업이익,67227000,USD,공시,https://www.sec.gov/Archives/edgar/data/883241/000088324114000005/,,8
+Synopsys,SNPS,2014Q2,2014-07-31,분기별 당기순이익(지배),65656000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/883241/000088324114000005/,,8
+Synopsys,SNPS,2014Q2,2014-07-31,분기별 영업활동현금흐름,340130000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/883241/000088324114000005/ ; https://www.sec.gov/Archives/edgar/data/883241/000119312514213430/,누적 378041000 − 직전누적 37911000 (시작 2013-11-01),8
+Synopsys,SNPS,2014Q2,2014-07-31,분기말 자산총계,4544929000,USD,공시,https://www.sec.gov/Archives/edgar/data/883241/000088324114000005/,,8
+Synopsys,SNPS,2014Q2,2014-07-31,분기말 부채총계,1548876000,USD,공시,https://www.sec.gov/Archives/edgar/data/883241/000088324114000005/,,8
+Synopsys,SNPS,2014Q2,2014-07-31,분기말 총자본(자기자본),2996053000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/883241/000088324114000005/,"StockholdersEquity, MinorityInterest 태그 없음",8
+Synopsys,SNPS,2014Q2,2014-07-31,분기말 지배지분 자본,2996053000,USD,공시,https://www.sec.gov/Archives/edgar/data/883241/000088324114000005/,,8
+Synopsys,SNPS,2014Q2,2014-07-31,분기말 종가,37.77,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/SNPS?interval=1d&events=splits (2014-07-31),,8
+Synopsys,SNPS,2014Q2,2014-08-22,분기말 상장주식수,155825554,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/883241/000088324114000005/,dei:EntityCommonStockSharesOutstanding 클래스 합,8
+Synopsys,SNPS,2014Q2,2014-07-31,분기말 시가총액,5885531175,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/SNPS?interval=1d&events=splits (2014-07-31) ; https://www.sec.gov/Archives/edgar/data/883241/000088324114000005/,종가 37.77 × 주식수 155825554,8
+Synopsys,SNPS,2014Q3,2014-10-31,분기별 매출액,539012000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/883241/000088324114000008/ ; https://www.sec.gov/Archives/edgar/data/883241/000088324114000005/,연간 2057472000 − 9개월누적 1518460000 (Revenues),8
+Synopsys,SNPS,2014Q3,2014-10-31,분기별 영업이익,57500000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/883241/000088324114000008/ ; https://www.sec.gov/Archives/edgar/data/883241/000088324114000005/,연간 248717000 − 9개월누적 191217000 (OperatingIncomeLoss),8
+Synopsys,SNPS,2014Q3,2014-10-31,분기별 당기순이익(지배),62455000,USD,"계산(연간-3분기누적, 비지배 없음)",https://www.sec.gov/Archives/edgar/data/883241/000088324114000008/ ; https://www.sec.gov/Archives/edgar/data/883241/000088324114000005/,연간 259124000 − 9개월누적 196669000 (ProfitLoss),8
+Synopsys,SNPS,2014Q3,2014-10-31,분기별 영업활동현금흐름,172912000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/883241/000088324114000008/ ; https://www.sec.gov/Archives/edgar/data/883241/000088324114000005/,누적 550953000 − 직전누적 378041000 (시작 2013-11-01),8
+Synopsys,SNPS,2014Q3,2014-10-31,분기말 자산총계,4775499000,USD,공시,https://www.sec.gov/Archives/edgar/data/883241/000088324114000008/,,8
+Synopsys,SNPS,2014Q3,2014-10-31,분기말 부채총계,1719329000,USD,공시,https://www.sec.gov/Archives/edgar/data/883241/000088324114000008/,,8
+Synopsys,SNPS,2014Q3,2014-10-31,분기말 총자본(자기자본),3056170000,USD,공시,https://www.sec.gov/Archives/edgar/data/883241/000088324114000008/,,8
+Synopsys,SNPS,2014Q3,2014-10-31,분기말 지배지분 자본,3056170000,USD,공시,https://www.sec.gov/Archives/edgar/data/883241/000088324114000008/,,8
+Synopsys,SNPS,2014Q3,2014-10-31,분기말 종가,40.98,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/SNPS?interval=1d&events=splits (2014-10-31),,8
+Synopsys,SNPS,2014Q3,2014-12-10,분기말 상장주식수,153103327,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/883241/000088324114000008/,dei:EntityCommonStockSharesOutstanding 클래스 합,8
+Synopsys,SNPS,2014Q3,2014-10-31,분기말 시가총액,6274174340,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/SNPS?interval=1d&events=splits (2014-10-31) ; https://www.sec.gov/Archives/edgar/data/883241/000088324114000008/,종가 40.98 × 주식수 153103327,8
+Synopsys,SNPS,2014Q4,2015-01-31,분기별 매출액,542043000,USD,공시,https://www.sec.gov/Archives/edgar/data/883241/000088324115000004/,,8
+Synopsys,SNPS,2014Q4,2015-01-31,분기별 영업이익,71499000,USD,공시,https://www.sec.gov/Archives/edgar/data/883241/000088324115000004/,,8
+Synopsys,SNPS,2014Q4,2015-01-31,분기별 당기순이익(지배),65189000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/883241/000088324115000004/,,8
+Synopsys,SNPS,2014Q4,2015-01-31,분기별 영업활동현금흐름,-87343000,USD,공시,https://www.sec.gov/Archives/edgar/data/883241/000088324115000004/,,8
+Synopsys,SNPS,2014Q4,2015-01-31,분기말 자산총계,4662349000,USD,공시,https://www.sec.gov/Archives/edgar/data/883241/000088324115000004/,,8
+Synopsys,SNPS,2014Q4,2015-01-31,분기말 부채총계,1725328000,USD,공시,https://www.sec.gov/Archives/edgar/data/883241/000088324115000004/,,8
+Synopsys,SNPS,2014Q4,2015-01-31,분기말 총자본(자기자본),2937021000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/883241/000088324115000004/,"StockholdersEquity, MinorityInterest 태그 없음",8
+Synopsys,SNPS,2014Q4,2015-01-31,분기말 지배지분 자본,2937021000,USD,공시,https://www.sec.gov/Archives/edgar/data/883241/000088324115000004/,,8
+Synopsys,SNPS,2014Q4,2015-01-30,분기말 종가,42.99,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/SNPS?interval=1d&events=splits (2015-01-30),,8
+Synopsys,SNPS,2014Q4,2015-02-20,분기말 상장주식수,153686533,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/883241/000088324115000004/,dei:EntityCommonStockSharesOutstanding 클래스 합,8
+Synopsys,SNPS,2014Q4,2015-01-30,분기말 시가총액,6606984054,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/SNPS?interval=1d&events=splits (2015-01-30) ; https://www.sec.gov/Archives/edgar/data/883241/000088324115000004/,종가 42.99 × 주식수 153686533,8
+Synopsys,SNPS,2015Q1,2015-04-30,분기별 매출액,557204000,USD,공시,https://www.sec.gov/Archives/edgar/data/883241/000088324115000008/,,8
+Synopsys,SNPS,2015Q1,2015-04-30,분기별 영업이익,75927000,USD,공시,https://www.sec.gov/Archives/edgar/data/883241/000088324115000008/,,8
+Synopsys,SNPS,2015Q1,2015-04-30,분기별 당기순이익(지배),55596000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/883241/000088324115000008/,,8
+Synopsys,SNPS,2015Q1,2015-04-30,분기별 영업활동현금흐름,155079000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/883241/000088324115000008/ ; https://www.sec.gov/Archives/edgar/data/883241/000088324115000004/,누적 67736000 − 직전누적 -87343000 (시작 2014-11-01),8
+Synopsys,SNPS,2015Q1,2015-04-30,분기말 자산총계,4756167000,USD,공시,https://www.sec.gov/Archives/edgar/data/883241/000088324115000008/,,8
+Synopsys,SNPS,2015Q1,2015-04-30,분기말 부채총계,1691169000,USD,공시,https://www.sec.gov/Archives/edgar/data/883241/000088324115000008/,,8
+Synopsys,SNPS,2015Q1,2015-04-30,분기말 총자본(자기자본),3064998000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/883241/000088324115000008/,"StockholdersEquity, MinorityInterest 태그 없음",8
+Synopsys,SNPS,2015Q1,2015-04-30,분기말 지배지분 자본,3064998000,USD,공시,https://www.sec.gov/Archives/edgar/data/883241/000088324115000008/,,8
+Synopsys,SNPS,2015Q1,2015-04-30,분기말 종가,46.88,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/SNPS?interval=1d&events=splits (2015-04-30),,8
+Synopsys,SNPS,2015Q1,2015-05-20,분기말 상장주식수,155086820,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/883241/000088324115000008/,dei:EntityCommonStockSharesOutstanding 클래스 합,8
+Synopsys,SNPS,2015Q1,2015-04-30,분기말 시가총액,7270470122,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/SNPS?interval=1d&events=splits (2015-04-30) ; https://www.sec.gov/Archives/edgar/data/883241/000088324115000008/,종가 46.88 × 주식수 155086820,8
+Synopsys,SNPS,2015Q2,2015-07-31,분기별 매출액,555805000,USD,공시,https://www.sec.gov/Archives/edgar/data/883241/000088324115000011/,,8
+Synopsys,SNPS,2015Q2,2015-07-31,분기별 영업이익,61482000,USD,공시,https://www.sec.gov/Archives/edgar/data/883241/000088324115000011/,,8
+Synopsys,SNPS,2015Q2,2015-07-31,분기별 당기순이익(지배),55387000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/883241/000088324115000011/,,8
+Synopsys,SNPS,2015Q2,2015-07-31,분기별 영업활동현금흐름,275007000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/883241/000088324115000011/ ; https://www.sec.gov/Archives/edgar/data/883241/000088324115000008/,누적 342743000 − 직전누적 67736000 (시작 2014-11-01),8
+Synopsys,SNPS,2015Q2,2015-07-31,분기말 자산총계,4953972000,USD,공시,https://www.sec.gov/Archives/edgar/data/883241/000088324115000011/,,8
+Synopsys,SNPS,2015Q2,2015-07-31,분기말 부채총계,1815724000,USD,공시,https://www.sec.gov/Archives/edgar/data/883241/000088324115000011/,,8
+Synopsys,SNPS,2015Q2,2015-07-31,분기말 총자본(자기자본),3138248000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/883241/000088324115000011/,"StockholdersEquity, MinorityInterest 태그 없음",8
+Synopsys,SNPS,2015Q2,2015-07-31,분기말 지배지분 자본,3138248000,USD,공시,https://www.sec.gov/Archives/edgar/data/883241/000088324115000011/,,8
+Synopsys,SNPS,2015Q2,2015-07-31,분기말 종가,50.84,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/SNPS?interval=1d&events=splits (2015-07-31),,8
+Synopsys,SNPS,2015Q2,2015-08-20,분기말 상장주식수,155947407,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/883241/000088324115000011/,dei:EntityCommonStockSharesOutstanding 클래스 합,8
+Synopsys,SNPS,2015Q2,2015-07-31,분기말 시가총액,7928366172,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/SNPS?interval=1d&events=splits (2015-07-31) ; https://www.sec.gov/Archives/edgar/data/883241/000088324115000011/,종가 50.84 × 주식수 155947407,8
+Synopsys,SNPS,2015Q3,2015-10-31,분기별 매출액,587159000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/883241/000088324115000014/ ; https://www.sec.gov/Archives/edgar/data/883241/000088324115000011/,연간 2242211000 − 9개월누적 1655052000 (Revenues),8
+Synopsys,SNPS,2015Q3,2015-10-31,분기별 영업이익,57558000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/883241/000088324115000014/ ; https://www.sec.gov/Archives/edgar/data/883241/000088324115000011/,연간 266466000 − 9개월누적 208908000 (OperatingIncomeLoss),8
+Synopsys,SNPS,2015Q3,2015-10-31,분기별 당기순이익(지배),미확인,USD,미확인,https://www.sec.gov/Archives/edgar/data/883241/000088324115000014/,,8
+Synopsys,SNPS,2015Q3,2015-10-31,분기별 영업활동현금흐름,152417000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/883241/000088324115000014/ ; https://www.sec.gov/Archives/edgar/data/883241/000088324115000011/,누적 495160000 − 직전누적 342743000 (시작 2014-11-01),8
+Synopsys,SNPS,2015Q3,2015-10-31,분기말 자산총계,5045739000,USD,공시,https://www.sec.gov/Archives/edgar/data/883241/000088324115000014/,,8
+Synopsys,SNPS,2015Q3,2015-10-31,분기말 부채총계,1911750000,USD,공시,https://www.sec.gov/Archives/edgar/data/883241/000088324115000014/,,8
+Synopsys,SNPS,2015Q3,2015-10-31,분기말 총자본(자기자본),3133989000,USD,공시,https://www.sec.gov/Archives/edgar/data/883241/000088324115000014/,,8
+Synopsys,SNPS,2015Q3,2015-10-31,분기말 지배지분 자본,3133989000,USD,공시,https://www.sec.gov/Archives/edgar/data/883241/000088324115000014/,,8
+Synopsys,SNPS,2015Q3,2015-10-30,분기말 종가,49.98,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/SNPS?interval=1d&events=splits (2015-10-30),,8
+Synopsys,SNPS,2015Q3,2015-12-10,분기말 상장주식수,151452864,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/883241/000088324115000014/,dei:EntityCommonStockSharesOutstanding 클래스 합,8
+Synopsys,SNPS,2015Q3,2015-10-30,분기말 시가총액,7569614143,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/SNPS?interval=1d&events=splits (2015-10-30) ; https://www.sec.gov/Archives/edgar/data/883241/000088324115000014/,종가 49.98 × 주식수 151452864,8
+Synopsys,SNPS,2015Q4,2016-01-31,분기별 매출액,568604000,USD,공시,https://www.sec.gov/Archives/edgar/data/883241/000088324116000017/,,8
+Synopsys,SNPS,2015Q4,2016-01-31,분기별 영업이익,71110000,USD,공시,https://www.sec.gov/Archives/edgar/data/883241/000088324116000017/,,8
+Synopsys,SNPS,2015Q4,2016-01-31,분기별 당기순이익(지배),60035000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/883241/000088324116000017/,,8
+Synopsys,SNPS,2015Q4,2016-01-31,분기별 영업활동현금흐름,-35170000,USD,공시,https://www.sec.gov/Archives/edgar/data/883241/000088324116000017/,,8
+Synopsys,SNPS,2015Q4,2016-01-31,분기말 자산총계,4747523000,USD,공시,https://www.sec.gov/Archives/edgar/data/883241/000088324116000017/,,8
+Synopsys,SNPS,2015Q4,2016-01-31,분기말 부채총계,1757140000,USD,공시,https://www.sec.gov/Archives/edgar/data/883241/000088324116000017/,,8
+Synopsys,SNPS,2015Q4,2016-01-31,분기말 총자본(자기자본),2990383000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/883241/000088324116000017/,"StockholdersEquity, MinorityInterest 태그 없음",8
+Synopsys,SNPS,2015Q4,2016-01-31,분기말 지배지분 자본,2990383000,USD,공시,https://www.sec.gov/Archives/edgar/data/883241/000088324116000017/,,8
+Synopsys,SNPS,2015Q4,2016-01-29,분기말 종가,42.9,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/SNPS?interval=1d&events=splits (2016-01-29),,8
+Synopsys,SNPS,2015Q4,2016-02-19,분기말 상장주식수,151527833,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/883241/000088324116000017/,dei:EntityCommonStockSharesOutstanding 클래스 합,8
+Synopsys,SNPS,2015Q4,2016-01-29,분기말 시가총액,6500544036,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/SNPS?interval=1d&events=splits (2016-01-29) ; https://www.sec.gov/Archives/edgar/data/883241/000088324116000017/,종가 42.9 × 주식수 151527833,8
+Synopsys,SNPS,2016Q1,2016-04-30,분기별 매출액,605005000,USD,공시,https://www.sec.gov/Archives/edgar/data/883241/000088324116000020/,,8
+Synopsys,SNPS,2016Q1,2016-04-30,분기별 영업이익,86806000,USD,공시,https://www.sec.gov/Archives/edgar/data/883241/000088324116000020/,,8
+Synopsys,SNPS,2016Q1,2016-04-30,분기별 당기순이익(지배),69376000,USD,공시,https://www.sec.gov/Archives/edgar/data/883241/000088324116000020/,,8
+Synopsys,SNPS,2016Q1,2016-04-30,분기별 영업활동현금흐름,222434000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/883241/000088324116000020/ ; https://www.sec.gov/Archives/edgar/data/883241/000088324116000017/,누적 187264000 − 직전누적 -35170000 (시작 2015-11-01),8
+Synopsys,SNPS,2016Q1,2016-04-30,분기말 자산총계,4965263000,USD,공시,https://www.sec.gov/Archives/edgar/data/883241/000088324116000020/,,8
+Synopsys,SNPS,2016Q1,2016-04-30,분기말 부채총계,1815258000,USD,공시,https://www.sec.gov/Archives/edgar/data/883241/000088324116000020/,,8
+Synopsys,SNPS,2016Q1,2016-04-30,분기말 총자본(자기자본),3150005000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/883241/000088324116000020/,"StockholdersEquity, MinorityInterest 태그 없음",8
+Synopsys,SNPS,2016Q1,2016-04-30,분기말 지배지분 자본,3150005000,USD,공시,https://www.sec.gov/Archives/edgar/data/883241/000088324116000020/,,8
+Synopsys,SNPS,2016Q1,2016-04-29,분기말 종가,47.52,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/SNPS?interval=1d&events=splits (2016-04-29),,8
+Synopsys,SNPS,2016Q1,2016-05-23,분기말 상장주식수,151826274,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/883241/000088324116000020/,dei:EntityCommonStockSharesOutstanding 클래스 합,8
+Synopsys,SNPS,2016Q1,2016-04-29,분기말 시가총액,7214784540,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/SNPS?interval=1d&events=splits (2016-04-29) ; https://www.sec.gov/Archives/edgar/data/883241/000088324116000020/,종가 47.52 × 주식수 151826274,8
+Synopsys,SNPS,2016Q2,2016-07-31,분기별 매출액,615204000,USD,공시,https://www.sec.gov/Archives/edgar/data/883241/000088324116000022/,,8
+Synopsys,SNPS,2016Q2,2016-07-31,분기별 영업이익,76722000,USD,공시,https://www.sec.gov/Archives/edgar/data/883241/000088324116000022/,,8
+Synopsys,SNPS,2016Q2,2016-07-31,분기별 당기순이익(지배),64718000,USD,공시,https://www.sec.gov/Archives/edgar/data/883241/000088324116000022/,,8
+Synopsys,SNPS,2016Q2,2016-07-31,분기별 영업활동현금흐름,251709000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/883241/000088324116000022/ ; https://www.sec.gov/Archives/edgar/data/883241/000088324116000020/,누적 438973000 − 직전누적 187264000 (시작 2015-11-01),8
+Synopsys,SNPS,2016Q2,2016-07-31,분기말 자산총계,5108789000,USD,공시,https://www.sec.gov/Archives/edgar/data/883241/000088324116000022/,,8
+Synopsys,SNPS,2016Q2,2016-07-31,분기말 부채총계,1988043000,USD,공시,https://www.sec.gov/Archives/edgar/data/883241/000088324116000022/,,8
+Synopsys,SNPS,2016Q2,2016-07-31,분기말 총자본(자기자본),3120746000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/883241/000088324116000022/,"StockholdersEquity, MinorityInterest 태그 없음",8
+Synopsys,SNPS,2016Q2,2016-07-31,분기말 지배지분 자본,3120746000,USD,공시,https://www.sec.gov/Archives/edgar/data/883241/000088324116000022/,,8
+Synopsys,SNPS,2016Q2,2016-07-29,분기말 종가,54.16,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/SNPS?interval=1d&events=splits (2016-07-29),,8
+Synopsys,SNPS,2016Q2,2016-08-19,분기말 상장주식수,151338876,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/883241/000088324116000022/,dei:EntityCommonStockSharesOutstanding 클래스 합,8
+Synopsys,SNPS,2016Q2,2016-07-29,분기말 시가총액,8196513524,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/SNPS?interval=1d&events=splits (2016-07-29) ; https://www.sec.gov/Archives/edgar/data/883241/000088324116000022/,종가 54.16 × 주식수 151338876,8
+Synopsys,SNPS,2016Q3,2016-10-31,분기별 매출액,633719000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/883241/000088324116000027/ ; https://www.sec.gov/Archives/edgar/data/883241/000088324116000022/,연간 2422532000 − 9개월누적 1788813000 (Revenues),8
+Synopsys,SNPS,2016Q3,2016-10-31,분기별 영업이익,82757000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/883241/000088324116000027/ ; https://www.sec.gov/Archives/edgar/data/883241/000088324116000022/,연간 317395000 − 9개월누적 234638000 (OperatingIncomeLoss),8
+Synopsys,SNPS,2016Q3,2016-10-31,분기별 당기순이익(지배),72697000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/883241/000088324116000027/ ; https://www.sec.gov/Archives/edgar/data/883241/000088324116000022/,연간 266826000 − 9개월누적 194129000 (NetIncomeLoss),8
+Synopsys,SNPS,2016Q3,2016-10-31,분기별 영업활동현금흐름,147662000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/883241/000088324116000027/ ; https://www.sec.gov/Archives/edgar/data/883241/000088324116000022/,누적 586635000 − 직전누적 438973000 (시작 2015-11-01),8
+Synopsys,SNPS,2016Q3,2016-10-31,분기말 자산총계,5240365000,USD,공시,https://www.sec.gov/Archives/edgar/data/883241/000088324116000027/,,8
+Synopsys,SNPS,2016Q3,2016-10-31,분기말 부채총계,2045219000,USD,공시,https://www.sec.gov/Archives/edgar/data/883241/000088324116000027/,,8
+Synopsys,SNPS,2016Q3,2016-10-31,분기말 총자본(자기자본),3195146000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/883241/000088324116000027/,"StockholdersEquity, MinorityInterest 태그 없음",8
+Synopsys,SNPS,2016Q3,2016-10-31,분기말 지배지분 자본,3195146000,USD,공시,https://www.sec.gov/Archives/edgar/data/883241/000088324116000027/,,8
+Synopsys,SNPS,2016Q3,2016-10-31,분기말 종가,59.31,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/SNPS?interval=1d&events=splits (2016-10-31),,8
+Synopsys,SNPS,2016Q3,2016-12-07,분기말 상장주식수,150101203,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/883241/000088324116000027/,dei:EntityCommonStockSharesOutstanding 클래스 합,8
+Synopsys,SNPS,2016Q3,2016-10-31,분기말 시가총액,8902502350,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/SNPS?interval=1d&events=splits (2016-10-31) ; https://www.sec.gov/Archives/edgar/data/883241/000088324116000027/,종가 59.31 × 주식수 150101203,8
+Synopsys,SNPS,2016Q4,2017-01-31,분기별 매출액,652786000,USD,공시,https://www.sec.gov/Archives/edgar/data/883241/000088324117000003/,,8
+Synopsys,SNPS,2016Q4,2017-01-31,분기별 영업이익,96874000,USD,공시,https://www.sec.gov/Archives/edgar/data/883241/000088324117000003/,,8
+Synopsys,SNPS,2016Q4,2017-01-31,분기별 당기순이익(지배),86588000,USD,공시,https://www.sec.gov/Archives/edgar/data/883241/000088324117000003/,,8
+Synopsys,SNPS,2016Q4,2017-01-31,분기별 영업활동현금흐름,46882000,USD,공시,https://www.sec.gov/Archives/edgar/data/883241/000088324117000003/,,8
+Synopsys,SNPS,2016Q4,2017-01-31,분기말 자산총계,5264254000,USD,공시,https://www.sec.gov/Archives/edgar/data/883241/000088324117000003/,,8
+Synopsys,SNPS,2016Q4,2017-01-31,분기말 부채총계,1939569000,USD,공시,https://www.sec.gov/Archives/edgar/data/883241/000088324117000003/,,8
+Synopsys,SNPS,2016Q4,2017-01-31,분기말 총자본(자기자본),3324685000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/883241/000088324117000003/,"StockholdersEquity, MinorityInterest 태그 없음",8
+Synopsys,SNPS,2016Q4,2017-01-31,분기말 지배지분 자본,3324685000,USD,공시,https://www.sec.gov/Archives/edgar/data/883241/000088324117000003/,,8
+Synopsys,SNPS,2016Q4,2017-01-31,분기말 종가,62.89,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/SNPS?interval=1d&events=splits (2017-01-31),,8
+Synopsys,SNPS,2016Q4,2017-02-15,분기말 상장주식수,150497680,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/883241/000088324117000003/,dei:EntityCommonStockSharesOutstanding 클래스 합,8
+Synopsys,SNPS,2016Q4,2017-01-31,분기말 시가총액,9464799095,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/SNPS?interval=1d&events=splits (2017-01-31) ; https://www.sec.gov/Archives/edgar/data/883241/000088324117000003/,종가 62.89 × 주식수 150497680,8
+Synopsys,SNPS,2017Q1,2017-04-30,분기별 매출액,680069000,USD,공시,https://www.sec.gov/Archives/edgar/data/883241/000088324117000005/,,8
+Synopsys,SNPS,2017Q1,2017-04-30,분기별 영업이익,53606000,USD,공시,https://www.sec.gov/Archives/edgar/data/883241/000088324117000005/,,8
+Synopsys,SNPS,2017Q1,2017-04-30,분기별 당기순이익(지배),53306000,USD,공시,https://www.sec.gov/Archives/edgar/data/883241/000088324117000005/,,8
+Synopsys,SNPS,2017Q1,2017-04-30,분기별 영업활동현금흐름,122975000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/883241/000088324117000005/ ; https://www.sec.gov/Archives/edgar/data/883241/000088324117000003/,누적 169857000 − 직전누적 46882000 (시작 2016-11-01),8
+Synopsys,SNPS,2017Q1,2017-04-30,분기말 자산총계,5466558000,USD,공시,https://www.sec.gov/Archives/edgar/data/883241/000088324117000005/,,8
+Synopsys,SNPS,2017Q1,2017-04-30,분기말 부채총계,2089063000,USD,공시,https://www.sec.gov/Archives/edgar/data/883241/000088324117000005/,,8
+Synopsys,SNPS,2017Q1,2017-04-30,분기말 총자본(자기자본),3377495000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/883241/000088324117000005/,"StockholdersEquity, MinorityInterest 태그 없음",8
+Synopsys,SNPS,2017Q1,2017-04-30,분기말 지배지분 자본,3377495000,USD,공시,https://www.sec.gov/Archives/edgar/data/883241/000088324117000005/,,8
+Synopsys,SNPS,2017Q1,2017-04-28,분기말 종가,73.7,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/SNPS?interval=1d&events=splits (2017-04-28),,8
+Synopsys,SNPS,2017Q1,2017-05-17,분기말 상장주식수,150310618,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/883241/000088324117000005/,dei:EntityCommonStockSharesOutstanding 클래스 합,8
+Synopsys,SNPS,2017Q1,2017-04-28,분기말 시가총액,11077892547,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/SNPS?interval=1d&events=splits (2017-04-28) ; https://www.sec.gov/Archives/edgar/data/883241/000088324117000005/,종가 73.7 × 주식수 150310618,8
+Synopsys,SNPS,2017Q2,2017-07-31,분기별 매출액,695381000,USD,공시,https://www.sec.gov/Archives/edgar/data/883241/000088324117000007/,,8
+Synopsys,SNPS,2017Q2,2017-07-31,분기별 영업이익,105370000,USD,공시,https://www.sec.gov/Archives/edgar/data/883241/000088324117000007/,,8
+Synopsys,SNPS,2017Q2,2017-07-31,분기별 당기순이익(지배),116751000,USD,공시,https://www.sec.gov/Archives/edgar/data/883241/000088324117000007/,,8
+Synopsys,SNPS,2017Q2,2017-07-31,분기별 영업활동현금흐름,279854000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/883241/000088324117000007/ ; https://www.sec.gov/Archives/edgar/data/883241/000088324117000005/,누적 449711000 − 직전누적 169857000 (시작 2016-11-01),8
+Synopsys,SNPS,2017Q2,2017-07-31,분기말 자산총계,5678939000,USD,공시,https://www.sec.gov/Archives/edgar/data/883241/000088324117000007/,,8
+Synopsys,SNPS,2017Q2,2017-07-31,분기말 부채총계,2255771000,USD,공시,https://www.sec.gov/Archives/edgar/data/883241/000088324117000007/,,8
+Synopsys,SNPS,2017Q2,2017-07-31,분기말 총자본(자기자본),3423168000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/883241/000088324117000007/,"StockholdersEquity, MinorityInterest 태그 없음",8
+Synopsys,SNPS,2017Q2,2017-07-31,분기말 지배지분 자본,3423168000,USD,공시,https://www.sec.gov/Archives/edgar/data/883241/000088324117000007/,,8
+Synopsys,SNPS,2017Q2,2017-07-31,분기말 종가,76.57,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/SNPS?interval=1d&events=splits (2017-07-31),,8
+Synopsys,SNPS,2017Q2,2017-08-15,분기말 상장주식수,150247663,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/883241/000088324117000007/,dei:EntityCommonStockSharesOutstanding 클래스 합,8
+Synopsys,SNPS,2017Q2,2017-07-31,분기말 시가총액,11504463556,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/SNPS?interval=1d&events=splits (2017-07-31) ; https://www.sec.gov/Archives/edgar/data/883241/000088324117000007/,종가 76.57 × 주식수 150247663,8
+Synopsys,SNPS,2017Q3,2017-10-31,분기별 매출액,696644000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/883241/000088324117000014/ ; https://www.sec.gov/Archives/edgar/data/883241/000088324117000007/,연간 2724880000 − 9개월누적 2028236000 (Revenues),8
+Synopsys,SNPS,2017Q3,2017-10-31,분기별 영업이익,91713000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/883241/000088324117000014/ ; https://www.sec.gov/Archives/edgar/data/883241/000088324117000007/,연간 347563000 − 9개월누적 255850000 (OperatingIncomeLoss),8
+Synopsys,SNPS,2017Q3,2017-10-31,분기별 당기순이익(지배),-120082000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/883241/000088324117000014/ ; https://www.sec.gov/Archives/edgar/data/883241/000088324117000007/,연간 136563000 − 9개월누적 256645000 (NetIncomeLoss),8
+Synopsys,SNPS,2017Q3,2017-10-31,분기별 영업활동현금흐름,184854000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/883241/000088324117000014/ ; https://www.sec.gov/Archives/edgar/data/883241/000088324117000007/,누적 634565000 − 직전누적 449711000 (시작 2016-11-01),8
+Synopsys,SNPS,2017Q3,2017-10-31,분기말 자산총계,5396414000,USD,공시,https://www.sec.gov/Archives/edgar/data/883241/000088324117000014/,,8
+Synopsys,SNPS,2017Q3,2017-10-31,분기말 부채총계,2116690000,USD,공시,https://www.sec.gov/Archives/edgar/data/883241/000088324117000014/,,8
+Synopsys,SNPS,2017Q3,2017-10-31,분기말 총자본(자기자본),3279724000,USD,공시,https://www.sec.gov/Archives/edgar/data/883241/000088324117000014/,,8
+Synopsys,SNPS,2017Q3,2017-10-31,분기말 지배지분 자본,3275620000,USD,공시,https://www.sec.gov/Archives/edgar/data/883241/000088324117000014/,,8
+Synopsys,SNPS,2017Q3,2017-10-31,분기말 종가,86.52,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/SNPS?interval=1d&events=splits (2017-10-31),,8
+Synopsys,SNPS,2017Q3,2017-12-11,분기말 상장주식수,148713662,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/883241/000088324117000014/,dei:EntityCommonStockSharesOutstanding 클래스 합,8
+Synopsys,SNPS,2017Q3,2017-10-31,분기말 시가총액,12866706036,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/SNPS?interval=1d&events=splits (2017-10-31) ; https://www.sec.gov/Archives/edgar/data/883241/000088324117000014/,종가 86.52 × 주식수 148713662,8
+Synopsys,SNPS,2017Q4,2018-01-31,분기별 매출액,769426000,USD,공시,https://www.sec.gov/Archives/edgar/data/883241/000088324118000002/,,8
+Synopsys,SNPS,2017Q4,2018-01-31,분기별 영업이익,107718000,USD,공시,https://www.sec.gov/Archives/edgar/data/883241/000088324118000002/,,8
+Synopsys,SNPS,2017Q4,2018-01-31,분기별 당기순이익(지배),-3691000,USD,공시,https://www.sec.gov/Archives/edgar/data/883241/000088324118000002/,,8
+Synopsys,SNPS,2017Q4,2018-01-31,분기별 영업활동현금흐름,-59054000,USD,공시(재작성 반영),https://www.sec.gov/Archives/edgar/data/883241/000088324119000008/,원 공시 -59365000 (https://www.sec.gov/Archives/edgar/data/883241/000088324118000002/),8
+Synopsys,SNPS,2017Q4,2018-01-31,분기말 자산총계,5717549000,USD,공시,https://www.sec.gov/Archives/edgar/data/883241/000088324118000002/,,8
+Synopsys,SNPS,2017Q4,2018-01-31,분기말 부채총계,2576916000,USD,공시,https://www.sec.gov/Archives/edgar/data/883241/000088324118000002/,,8
+Synopsys,SNPS,2017Q4,2018-01-31,분기말 총자본(자기자본),3140633000,USD,공시,https://www.sec.gov/Archives/edgar/data/883241/000088324118000002/,,8
+Synopsys,SNPS,2017Q4,2018-01-31,분기말 지배지분 자본,3136529000,USD,공시,https://www.sec.gov/Archives/edgar/data/883241/000088324118000002/,,8
+Synopsys,SNPS,2017Q4,2018-01-31,분기말 종가,92.61,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/SNPS?interval=1d&events=splits (2018-01-31),,8
+Synopsys,SNPS,2017Q4,2018-02-21,분기말 상장주식수,148725114,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/883241/000088324118000002/,dei:EntityCommonStockSharesOutstanding 클래스 합,8
+Synopsys,SNPS,2017Q4,2018-01-31,분기말 시가총액,13773432808,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/SNPS?interval=1d&events=splits (2018-01-31) ; https://www.sec.gov/Archives/edgar/data/883241/000088324118000002/,종가 92.61 × 주식수 148725114,8
+Synopsys,SNPS,2018Q1,2018-04-30,분기별 매출액,776836000,USD,공시,https://www.sec.gov/Archives/edgar/data/883241/000088324118000005/,,8
+Synopsys,SNPS,2018Q1,2018-04-30,분기별 영업이익,127014000,USD,공시,https://www.sec.gov/Archives/edgar/data/883241/000088324118000005/,,8
+Synopsys,SNPS,2018Q1,2018-04-30,분기별 당기순이익(지배),102472000,USD,공시,https://www.sec.gov/Archives/edgar/data/883241/000088324118000005/,,8
+Synopsys,SNPS,2018Q1,2018-04-30,분기별 영업활동현금흐름,63369000,USD,계산(누적차감)(재작성 반영),https://www.sec.gov/Archives/edgar/data/883241/000088324119000011/ ; https://www.sec.gov/Archives/edgar/data/883241/000088324119000008/,누적 4315000 − 직전누적 -59054000 (시작 2017-11-01) ; 원 공시 63430000 (https://www.sec.gov/Archives/edgar/data/883241/000088324118000005/ ; https://www.sec.gov/Archives/edgar/data/883241/000088324118000002/),8
+Synopsys,SNPS,2018Q1,2018-04-30,분기말 자산총계,5699071000,USD,공시,https://www.sec.gov/Archives/edgar/data/883241/000088324118000005/,,8
+Synopsys,SNPS,2018Q1,2018-04-30,분기말 부채총계,2438674000,USD,공시,https://www.sec.gov/Archives/edgar/data/883241/000088324118000005/,,8
+Synopsys,SNPS,2018Q1,2018-04-30,분기말 총자본(자기자본),3260397000,USD,공시,https://www.sec.gov/Archives/edgar/data/883241/000088324118000005/,,8
+Synopsys,SNPS,2018Q1,2018-04-30,분기말 지배지분 자본,3256293000,USD,공시,https://www.sec.gov/Archives/edgar/data/883241/000088324118000005/,,8
+Synopsys,SNPS,2018Q1,2018-04-30,분기말 종가,85.51,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/SNPS?interval=1d&events=splits (2018-04-30),,8
+Synopsys,SNPS,2018Q1,2018-05-23,분기말 상장주식수,149010904,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/883241/000088324118000005/,dei:EntityCommonStockSharesOutstanding 클래스 합,8
+Synopsys,SNPS,2018Q1,2018-04-30,분기말 시가총액,12741922401,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/SNPS?interval=1d&events=splits (2018-04-30) ; https://www.sec.gov/Archives/edgar/data/883241/000088324118000005/,종가 85.51 × 주식수 149010904,8
+Synopsys,SNPS,2018Q2,2018-07-31,분기별 매출액,779714000,USD,공시,https://www.sec.gov/Archives/edgar/data/883241/000088324118000008/,,8
+Synopsys,SNPS,2018Q2,2018-07-31,분기별 영업이익,63968000,USD,공시,https://www.sec.gov/Archives/edgar/data/883241/000088324118000008/,,8
+Synopsys,SNPS,2018Q2,2018-07-31,분기별 당기순이익(지배),79409000,USD,공시,https://www.sec.gov/Archives/edgar/data/883241/000088324118000008/,,8
+Synopsys,SNPS,2018Q2,2018-07-31,분기별 영업활동현금흐름,288956000,USD,계산(누적차감)(재작성 반영),https://www.sec.gov/Archives/edgar/data/883241/000088324118000008/ ; https://www.sec.gov/Archives/edgar/data/883241/000088324119000011/,누적 293271000 − 직전누적 4315000 (시작 2017-11-01) ; 원 공시 289206000 (https://www.sec.gov/Archives/edgar/data/883241/000088324118000008/ ; https://www.sec.gov/Archives/edgar/data/883241/000088324118000005/),8
+Synopsys,SNPS,2018Q2,2018-07-31,분기말 자산총계,5795215000,USD,공시,https://www.sec.gov/Archives/edgar/data/883241/000088324118000008/,,8
+Synopsys,SNPS,2018Q2,2018-07-31,분기말 부채총계,2631213000,USD,공시,https://www.sec.gov/Archives/edgar/data/883241/000088324118000008/,,8
+Synopsys,SNPS,2018Q2,2018-07-31,분기말 총자본(자기자본),3164002000,USD,공시,https://www.sec.gov/Archives/edgar/data/883241/000088324118000008/,,8
+Synopsys,SNPS,2018Q2,2018-07-31,분기말 지배지분 자본,3158139000,USD,공시,https://www.sec.gov/Archives/edgar/data/883241/000088324118000008/,,8
+Synopsys,SNPS,2018Q2,2018-07-31,분기말 종가,89.43,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/SNPS?interval=1d&events=splits (2018-07-31),,8
+Synopsys,SNPS,2018Q2,2018-08-22,분기말 상장주식수,148588107,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/883241/000088324118000008/,dei:EntityCommonStockSharesOutstanding 클래스 합,8
+Synopsys,SNPS,2018Q2,2018-07-31,분기말 시가총액,13288234409,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/SNPS?interval=1d&events=splits (2018-07-31) ; https://www.sec.gov/Archives/edgar/data/883241/000088324118000008/,종가 89.43 × 주식수 148588107,8
+Synopsys,SNPS,2018Q3,2018-10-31,분기별 매출액,795082000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/883241/000088324118000012/ ; https://www.sec.gov/Archives/edgar/data/883241/000088324118000008/,연간 3121058000 − 9개월누적 2325976000 (Revenues),8
+Synopsys,SNPS,2018Q3,2018-10-31,분기별 영업이익,61525000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/883241/000088324118000012/ ; https://www.sec.gov/Archives/edgar/data/883241/000088324118000008/,연간 360225000 − 9개월누적 298700000 (OperatingIncomeLoss),8
+Synopsys,SNPS,2018Q3,2018-10-31,분기별 당기순이익(지배),254328000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/883241/000088324118000012/ ; https://www.sec.gov/Archives/edgar/data/883241/000088324118000008/,연간 432518000 − 9개월누적 178190000 (NetIncomeLoss),8
+Synopsys,SNPS,2018Q3,2018-10-31,분기별 영업활동현금흐름,130961000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/883241/000088324118000012/ ; https://www.sec.gov/Archives/edgar/data/883241/000088324118000008/,누적 424232000 − 직전누적 293271000 (시작 2017-11-01),8
+Synopsys,SNPS,2018Q3,2018-10-31,분기말 자산총계,6145974000,USD,공시,https://www.sec.gov/Archives/edgar/data/883241/000088324118000012/,,8
+Synopsys,SNPS,2018Q3,2018-10-31,분기말 부채총계,2660959000,USD,공시,https://www.sec.gov/Archives/edgar/data/883241/000088324118000012/,,8
+Synopsys,SNPS,2018Q3,2018-10-31,분기말 총자본(자기자본),3485015000,USD,공시,https://www.sec.gov/Archives/edgar/data/883241/000088324118000012/,,8
+Synopsys,SNPS,2018Q3,2018-10-31,분기말 지배지분 자본,3479152000,USD,공시,https://www.sec.gov/Archives/edgar/data/883241/000088324118000012/,,8
+Synopsys,SNPS,2018Q3,2018-10-31,분기말 종가,89.53,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/SNPS?interval=1d&events=splits (2018-10-31),,8
+Synopsys,SNPS,2018Q3,2018-12-12,분기말 상장주식수,149515012,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/883241/000088324118000012/,dei:EntityCommonStockSharesOutstanding 클래스 합,8
+Synopsys,SNPS,2018Q3,2018-10-31,분기말 시가총액,13386079024,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/SNPS?interval=1d&events=splits (2018-10-31) ; https://www.sec.gov/Archives/edgar/data/883241/000088324118000012/,종가 89.53 × 주식수 149515012,8
+Synopsys,SNPS,2018Q4,2019-01-31,분기별 매출액,820401000,USD,공시,https://www.sec.gov/Archives/edgar/data/883241/000088324119000008/,,8
+Synopsys,SNPS,2018Q4,2019-01-31,분기별 영업이익,147414000,USD,공시,https://www.sec.gov/Archives/edgar/data/883241/000088324119000008/,,8
+Synopsys,SNPS,2018Q4,2019-01-31,분기별 당기순이익(지배),153514000,USD,공시,https://www.sec.gov/Archives/edgar/data/883241/000088324119000008/,,8
+Synopsys,SNPS,2018Q4,2019-01-31,분기별 영업활동현금흐름,-144019000,USD,공시,https://www.sec.gov/Archives/edgar/data/883241/000088324119000008/,,8
+Synopsys,SNPS,2018Q4,2019-01-31,분기말 자산총계,6344486000,USD,공시,https://www.sec.gov/Archives/edgar/data/883241/000088324119000008/,,8
+Synopsys,SNPS,2018Q4,2019-01-31,분기말 부채총계,2559821000,USD,공시,https://www.sec.gov/Archives/edgar/data/883241/000088324119000008/,,8
+Synopsys,SNPS,2018Q4,2019-01-31,분기말 총자본(자기자본),3784665000,USD,공시,https://www.sec.gov/Archives/edgar/data/883241/000088324119000008/,,8
+Synopsys,SNPS,2018Q4,2019-01-31,분기말 지배지분 자본,3778802000,USD,공시,https://www.sec.gov/Archives/edgar/data/883241/000088324119000008/,,8
+Synopsys,SNPS,2018Q4,2019-01-31,분기말 종가,93.35,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/SNPS?interval=1d&events=splits (2019-01-31),,8
+Synopsys,SNPS,2018Q4,2019-02-22,분기말 상장주식수,149675824,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/883241/000088324119000008/,dei:EntityCommonStockSharesOutstanding 클래스 합,8
+Synopsys,SNPS,2018Q4,2019-01-31,분기말 시가총액,13972238170,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/SNPS?interval=1d&events=splits (2019-01-31) ; https://www.sec.gov/Archives/edgar/data/883241/000088324119000008/,종가 93.35 × 주식수 149675824,8
+Synopsys,SNPS,2019Q1,2019-04-30,분기별 매출액,836242000,USD,공시,https://www.sec.gov/Archives/edgar/data/883241/000088324119000011/,,8
+Synopsys,SNPS,2019Q1,2019-04-30,분기별 영업이익,115502000,USD,공시,https://www.sec.gov/Archives/edgar/data/883241/000088324119000011/,,8
+Synopsys,SNPS,2019Q1,2019-04-30,분기별 당기순이익(지배),118210000,USD,공시,https://www.sec.gov/Archives/edgar/data/883241/000088324119000011/,,8
+Synopsys,SNPS,2019Q1,2019-04-30,분기별 영업활동현금흐름,352820000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/883241/000088324119000011/ ; https://www.sec.gov/Archives/edgar/data/883241/000088324119000008/,누적 208801000 − 직전누적 -144019000 (시작 2018-11-01),8
+Synopsys,SNPS,2019Q1,2019-04-30,분기말 자산총계,6194223000,USD,공시,https://www.sec.gov/Archives/edgar/data/883241/000088324119000011/,,8
+Synopsys,SNPS,2019Q1,2019-04-30,분기말 부채총계,2278788000,USD,공시,https://www.sec.gov/Archives/edgar/data/883241/000088324119000011/,,8
+Synopsys,SNPS,2019Q1,2019-04-30,분기말 총자본(자기자본),3915435000,USD,공시,https://www.sec.gov/Archives/edgar/data/883241/000088324119000011/,,8
+Synopsys,SNPS,2019Q1,2019-04-30,분기말 지배지분 자본,3909572000,USD,공시,https://www.sec.gov/Archives/edgar/data/883241/000088324119000011/,,8
+Synopsys,SNPS,2019Q1,2019-04-30,분기말 종가,121.08,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/SNPS?interval=1d&events=splits (2019-04-30),,8
+Synopsys,SNPS,2019Q1,2019-05-22,분기말 상장주식수,149899115,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/883241/000088324119000011/,dei:EntityCommonStockSharesOutstanding 클래스 합,8
+Synopsys,SNPS,2019Q1,2019-04-30,분기말 시가총액,18149784844,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/SNPS?interval=1d&events=splits (2019-04-30) ; https://www.sec.gov/Archives/edgar/data/883241/000088324119000011/,종가 121.08 × 주식수 149899115,8
+Synopsys,SNPS,2019Q2,2019-07-31,분기별 매출액,852970000,USD,공시,https://www.sec.gov/Archives/edgar/data/883241/000088324119000015/,,8
+Synopsys,SNPS,2019Q2,2019-07-31,분기별 영업이익,127594000,USD,공시,https://www.sec.gov/Archives/edgar/data/883241/000088324119000015/,,8
+Synopsys,SNPS,2019Q2,2019-07-31,분기별 당기순이익(지배),99929000,USD,공시,https://www.sec.gov/Archives/edgar/data/883241/000088324119000015/,,8
+Synopsys,SNPS,2019Q2,2019-07-31,분기별 영업활동현금흐름,370463000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/883241/000088324119000015/ ; https://www.sec.gov/Archives/edgar/data/883241/000088324119000011/,누적 579264000 − 직전누적 208801000 (시작 2018-11-01),8
+Synopsys,SNPS,2019Q2,2019-07-31,분기말 자산총계,6153408000,USD,공시,https://www.sec.gov/Archives/edgar/data/883241/000088324119000015/,,8
+Synopsys,SNPS,2019Q2,2019-07-31,분기말 부채총계,2213739000,USD,공시,https://www.sec.gov/Archives/edgar/data/883241/000088324119000015/,,8
+Synopsys,SNPS,2019Q2,2019-07-31,분기말 총자본(자기자본),3939669000,USD,공시,https://www.sec.gov/Archives/edgar/data/883241/000088324119000015/,,8
+Synopsys,SNPS,2019Q2,2019-07-31,분기말 지배지분 자본,3933806000,USD,공시,https://www.sec.gov/Archives/edgar/data/883241/000088324119000015/,,8
+Synopsys,SNPS,2019Q2,2019-07-31,분기말 종가,132.76,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/SNPS?interval=1d&events=splits (2019-07-31),,8
+Synopsys,SNPS,2019Q2,2019-08-21,분기말 상장주식수,150286586,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/883241/000088324119000015/,dei:EntityCommonStockSharesOutstanding 클래스 합,8
+Synopsys,SNPS,2019Q2,2019-07-31,분기말 시가총액,19952047157,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/SNPS?interval=1d&events=splits (2019-07-31) ; https://www.sec.gov/Archives/edgar/data/883241/000088324119000015/,종가 132.76 × 주식수 150286586,8
+Synopsys,SNPS,2019Q3,2019-10-31,분기별 매출액,851081000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/883241/000088324119000019/ ; https://www.sec.gov/Archives/edgar/data/883241/000088324119000015/,연간 3360694000 − 9개월누적 2509613000 (Revenues / 9개월 RevenueFromContractWithCustomerExcludingAssessedTax),8
+Synopsys,SNPS,2019Q3,2019-10-31,분기별 영업이익,129721000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/883241/000088324119000019/ ; https://www.sec.gov/Archives/edgar/data/883241/000088324119000015/,연간 520231000 − 9개월누적 390510000 (OperatingIncomeLoss),8
+Synopsys,SNPS,2019Q3,2019-10-31,분기별 당기순이익(지배),160714000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/883241/000088324119000019/ ; https://www.sec.gov/Archives/edgar/data/883241/000088324119000015/,연간 532367000 − 9개월누적 371653000 (NetIncomeLoss),8
+Synopsys,SNPS,2019Q3,2019-10-31,분기별 영업활동현금흐름,221249000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/883241/000088324119000019/ ; https://www.sec.gov/Archives/edgar/data/883241/000088324119000015/,누적 800513000 − 직전누적 579264000 (시작 2018-11-01),8
+Synopsys,SNPS,2019Q3,2019-10-31,분기말 자산총계,6405160000,USD,공시,https://www.sec.gov/Archives/edgar/data/883241/000088324119000019/,,8
+Synopsys,SNPS,2019Q3,2019-10-31,분기말 부채총계,2316284000,USD,공시,https://www.sec.gov/Archives/edgar/data/883241/000088324119000019/,,8
+Synopsys,SNPS,2019Q3,2019-10-31,분기말 총자본(자기자본),4088876000,USD,공시,https://www.sec.gov/Archives/edgar/data/883241/000088324119000019/,,8
+Synopsys,SNPS,2019Q3,2019-10-31,분기말 지배지분 자본,4083013000,USD,공시,https://www.sec.gov/Archives/edgar/data/883241/000088324119000019/,,8
+Synopsys,SNPS,2019Q3,2019-10-31,분기말 종가,135.75,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/SNPS?interval=1d&events=splits (2019-10-31),,8
+Synopsys,SNPS,2019Q3,2019-12-13,분기말 상장주식수,150534877,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/883241/000088324119000019/,dei:EntityCommonStockSharesOutstanding 클래스 합,8
+Synopsys,SNPS,2019Q3,2019-10-31,분기말 시가총액,20435109553,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/SNPS?interval=1d&events=splits (2019-10-31) ; https://www.sec.gov/Archives/edgar/data/883241/000088324119000019/,종가 135.75 × 주식수 150534877,8
+Synopsys,SNPS,2019Q4,2020-01-31,분기별 매출액,834381000,USD,공시,https://www.sec.gov/Archives/edgar/data/883241/000088324120000006/,,8
+Synopsys,SNPS,2019Q4,2020-01-31,분기별 영업이익,87516000,USD,공시,https://www.sec.gov/Archives/edgar/data/883241/000088324120000006/,,8
+Synopsys,SNPS,2019Q4,2020-01-31,분기별 당기순이익(지배),104061000,USD,공시,https://www.sec.gov/Archives/edgar/data/883241/000088324120000006/,,8
+Synopsys,SNPS,2019Q4,2020-01-31,분기별 영업활동현금흐름,9820000,USD,공시,https://www.sec.gov/Archives/edgar/data/883241/000088324120000006/,,8
+Synopsys,SNPS,2019Q4,2020-01-31,분기말 자산총계,7202903000,USD,공시,https://www.sec.gov/Archives/edgar/data/883241/000088324120000006/,,8
+Synopsys,SNPS,2019Q4,2020-01-31,분기말 부채총계,3048213000,USD,공시,https://www.sec.gov/Archives/edgar/data/883241/000088324120000006/,,8
+Synopsys,SNPS,2019Q4,2020-01-31,분기말 총자본(자기자본),4154690000,USD,공시,https://www.sec.gov/Archives/edgar/data/883241/000088324120000006/,,8
+Synopsys,SNPS,2019Q4,2020-01-31,분기말 지배지분 자본,4148827000,USD,공시,https://www.sec.gov/Archives/edgar/data/883241/000088324120000006/,,8
+Synopsys,SNPS,2019Q4,2020-01-31,분기말 종가,147.51,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/SNPS?interval=1d&events=splits (2020-01-31),,8
+Synopsys,SNPS,2019Q4,2020-02-19,분기말 상장주식수,150227140,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/883241/000088324120000006/,dei:EntityCommonStockSharesOutstanding 클래스 합,8
+Synopsys,SNPS,2019Q4,2020-01-31,분기말 시가총액,22160005421,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/SNPS?interval=1d&events=splits (2020-01-31) ; https://www.sec.gov/Archives/edgar/data/883241/000088324120000006/,종가 147.51 × 주식수 150227140,8
+Synopsys,SNPS,2020Q1,2020-04-30,분기별 매출액,861327000,USD,공시,https://www.sec.gov/Archives/edgar/data/883241/000088324120000009/,,8
+Synopsys,SNPS,2020Q1,2020-04-30,분기별 영업이익,125895000,USD,공시,https://www.sec.gov/Archives/edgar/data/883241/000088324120000009/,,8
+Synopsys,SNPS,2020Q1,2020-04-30,분기별 당기순이익(지배),109920000,USD,공시,https://www.sec.gov/Archives/edgar/data/883241/000088324120000009/,,8
+Synopsys,SNPS,2020Q1,2020-04-30,분기별 영업활동현금흐름,379919000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/883241/000088324120000009/ ; https://www.sec.gov/Archives/edgar/data/883241/000088324120000006/,누적 389739000 − 직전누적 9820000 (시작 2019-11-01),8
+Synopsys,SNPS,2020Q1,2020-04-30,분기말 자산총계,7322466000,USD,공시,https://www.sec.gov/Archives/edgar/data/883241/000088324120000009/,,8
+Synopsys,SNPS,2020Q1,2020-04-30,분기말 부채총계,3041517000,USD,공시,https://www.sec.gov/Archives/edgar/data/883241/000088324120000009/,,8
+Synopsys,SNPS,2020Q1,2020-04-30,분기말 총자본(자기자본),4280949000,USD,공시,https://www.sec.gov/Archives/edgar/data/883241/000088324120000009/,,8
+Synopsys,SNPS,2020Q1,2020-04-30,분기말 지배지분 자본,4275086000,USD,공시,https://www.sec.gov/Archives/edgar/data/883241/000088324120000009/,,8
+Synopsys,SNPS,2020Q1,2020-04-30,분기말 종가,157.12,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/SNPS?interval=1d&events=splits (2020-04-30),,8
+Synopsys,SNPS,2020Q1,2020-05-20,분기말 상장주식수,150788707,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/883241/000088324120000009/,dei:EntityCommonStockSharesOutstanding 클래스 합,8
+Synopsys,SNPS,2020Q1,2020-04-30,분기말 시가총액,23691921644,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/SNPS?interval=1d&events=splits (2020-04-30) ; https://www.sec.gov/Archives/edgar/data/883241/000088324120000009/,종가 157.12 × 주식수 150788707,8
+Synopsys,SNPS,2020Q2,2020-07-31,분기별 매출액,964134000,USD,공시,https://www.sec.gov/Archives/edgar/data/883241/000088324120000012/,,8
+Synopsys,SNPS,2020Q2,2020-07-31,분기별 영업이익,210598000,USD,공시,https://www.sec.gov/Archives/edgar/data/883241/000088324120000012/,,8
+Synopsys,SNPS,2020Q2,2020-07-31,분기별 당기순이익(지배),252911000,USD,공시,https://www.sec.gov/Archives/edgar/data/883241/000088324120000012/,,8
+Synopsys,SNPS,2020Q2,2020-07-31,분기별 영업활동현금흐름,399423000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/883241/000088324120000012/ ; https://www.sec.gov/Archives/edgar/data/883241/000088324120000009/,누적 789162000 − 직전누적 389739000 (시작 2019-11-01),8
+Synopsys,SNPS,2020Q2,2020-07-31,분기말 자산총계,7663250000,USD,공시,https://www.sec.gov/Archives/edgar/data/883241/000088324120000012/,,8
+Synopsys,SNPS,2020Q2,2020-07-31,분기말 부채총계,3061933000,USD,공시,https://www.sec.gov/Archives/edgar/data/883241/000088324120000012/,,8
+Synopsys,SNPS,2020Q2,2020-07-31,분기말 총자본(자기자본),4601317000,USD,공시,https://www.sec.gov/Archives/edgar/data/883241/000088324120000012/,,8
+Synopsys,SNPS,2020Q2,2020-07-31,분기말 지배지분 자본,4595925000,USD,공시,https://www.sec.gov/Archives/edgar/data/883241/000088324120000012/,,8
+Synopsys,SNPS,2020Q2,2020-07-31,분기말 종가,199.22,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/SNPS?interval=1d&events=splits (2020-07-31),,8
+Synopsys,SNPS,2020Q2,2020-08-19,분기말 상장주식수,151761689,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/883241/000088324120000012/,dei:EntityCommonStockSharesOutstanding 클래스 합,8
+Synopsys,SNPS,2020Q2,2020-07-31,분기말 시가총액,30233963683,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/SNPS?interval=1d&events=splits (2020-07-31) ; https://www.sec.gov/Archives/edgar/data/883241/000088324120000012/,종가 199.22 × 주식수 151761689,8
+Synopsys,SNPS,2020Q3,2020-10-31,분기별 매출액,1025439000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/883241/000088324120000015/ ; https://www.sec.gov/Archives/edgar/data/883241/000088324120000012/,연간 3685281000 − 9개월누적 2659842000 (Revenues / 9개월 RevenueFromContractWithCustomerExcludingAssessedTax),8
+Synopsys,SNPS,2020Q3,2020-10-31,분기별 영업이익,196132000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/883241/000088324120000015/ ; https://www.sec.gov/Archives/edgar/data/883241/000088324120000012/,연간 620141000 − 9개월누적 424009000 (OperatingIncomeLoss),8
+Synopsys,SNPS,2020Q3,2020-10-31,분기별 당기순이익(지배),197455000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/883241/000088324120000015/ ; https://www.sec.gov/Archives/edgar/data/883241/000088324120000012/,연간 664347000 − 9개월누적 466892000 (NetIncomeLoss),8
+Synopsys,SNPS,2020Q3,2020-10-31,분기별 영업활동현금흐름,202151000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/883241/000088324120000015/ ; https://www.sec.gov/Archives/edgar/data/883241/000088324120000012/,누적 991313000 − 직전누적 789162000 (시작 2019-11-01),8
+Synopsys,SNPS,2020Q3,2020-10-31,분기말 자산총계,8030062000,USD,공시,https://www.sec.gov/Archives/edgar/data/883241/000088324120000015/,,8
+Synopsys,SNPS,2020Q3,2020-10-31,분기말 부채총계,3117695000,USD,공시,https://www.sec.gov/Archives/edgar/data/883241/000088324120000015/,,8
+Synopsys,SNPS,2020Q3,2020-10-31,분기말 총자본(자기자본),4912367000,USD,공시,https://www.sec.gov/Archives/edgar/data/883241/000088324120000015/,,8
+Synopsys,SNPS,2020Q3,2020-10-31,분기말 지배지분 자본,4907404000,USD,공시,https://www.sec.gov/Archives/edgar/data/883241/000088324120000015/,,8
+Synopsys,SNPS,2020Q3,2020-10-30,분기말 종가,213.86,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/SNPS?interval=1d&events=splits (2020-10-30),,8
+Synopsys,SNPS,2020Q3,2020-12-10,분기말 상장주식수,153032497,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/883241/000088324120000015/,dei:EntityCommonStockSharesOutstanding 클래스 합,8
+Synopsys,SNPS,2020Q3,2020-10-30,분기말 시가총액,32727529808,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/SNPS?interval=1d&events=splits (2020-10-30) ; https://www.sec.gov/Archives/edgar/data/883241/000088324120000015/,종가 213.86 × 주식수 153032497,8
+Synopsys,SNPS,2020Q4,2021-01-31,분기별 매출액,970321000,USD,공시,https://www.sec.gov/Archives/edgar/data/883241/000088324121000009/,,8
+Synopsys,SNPS,2020Q4,2021-01-31,분기별 영업이익,148348000,USD,공시,https://www.sec.gov/Archives/edgar/data/883241/000088324121000009/,,8
+Synopsys,SNPS,2020Q4,2021-01-31,분기별 당기순이익(지배),162345000,USD,공시,https://www.sec.gov/Archives/edgar/data/883241/000088324121000009/,,8
+Synopsys,SNPS,2020Q4,2021-01-31,분기별 영업활동현금흐름,173958000,USD,공시,https://www.sec.gov/Archives/edgar/data/883241/000088324121000009/,,8
+Synopsys,SNPS,2020Q4,2021-01-31,분기말 자산총계,8012838000,USD,공시,https://www.sec.gov/Archives/edgar/data/883241/000088324121000009/,,8
+Synopsys,SNPS,2020Q4,2021-01-31,분기말 부채총계,3125940000,USD,공시,https://www.sec.gov/Archives/edgar/data/883241/000088324121000009/,,8
+Synopsys,SNPS,2020Q4,2021-01-31,분기말 총자본(자기자본),4886898000,USD,공시,https://www.sec.gov/Archives/edgar/data/883241/000088324121000009/,,8
+Synopsys,SNPS,2020Q4,2021-01-31,분기말 지배지분 자본,4882252000,USD,공시,https://www.sec.gov/Archives/edgar/data/883241/000088324121000009/,,8
+Synopsys,SNPS,2020Q4,2021-01-29,분기말 종가,255.45,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/SNPS?interval=1d&events=splits (2021-01-29),,8
+Synopsys,SNPS,2020Q4,2021-02-17,분기말 상장주식수,152373162,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/883241/000088324121000009/,dei:EntityCommonStockSharesOutstanding 클래스 합,8
+Synopsys,SNPS,2020Q4,2021-01-29,분기말 시가총액,38923724233,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/SNPS?interval=1d&events=splits (2021-01-29) ; https://www.sec.gov/Archives/edgar/data/883241/000088324121000009/,종가 255.45 × 주식수 152373162,8
+Synopsys,SNPS,2021Q1,2021-04-30,분기별 매출액,1024323000,USD,공시,https://www.sec.gov/Archives/edgar/data/883241/000088324121000012/,,8
+Synopsys,SNPS,2021Q1,2021-04-30,분기별 영업이익,194231000,USD,공시,https://www.sec.gov/Archives/edgar/data/883241/000088324121000012/,,8
+Synopsys,SNPS,2021Q1,2021-04-30,분기별 당기순이익(지배),195078000,USD,공시,https://www.sec.gov/Archives/edgar/data/883241/000088324121000012/,,8
+Synopsys,SNPS,2021Q1,2021-04-30,분기별 영업활동현금흐름,526338000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/883241/000088324121000012/ ; https://www.sec.gov/Archives/edgar/data/883241/000088324121000009/,누적 700296000 − 직전누적 173958000 (시작 2020-11-01),8
+Synopsys,SNPS,2021Q1,2021-04-30,분기말 자산총계,8339565000,USD,공시,https://www.sec.gov/Archives/edgar/data/883241/000088324121000012/,,8
+Synopsys,SNPS,2021Q1,2021-04-30,분기말 부채총계,3247060000,USD,공시,https://www.sec.gov/Archives/edgar/data/883241/000088324121000012/,,8
+Synopsys,SNPS,2021Q1,2021-04-30,분기말 총자본(자기자본),5092505000,USD,공시,https://www.sec.gov/Archives/edgar/data/883241/000088324121000012/,,8
+Synopsys,SNPS,2021Q1,2021-04-30,분기말 지배지분 자본,5088135000,USD,공시,https://www.sec.gov/Archives/edgar/data/883241/000088324121000012/,,8
+Synopsys,SNPS,2021Q1,2021-04-30,분기말 종가,247.06,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/SNPS?interval=1d&events=splits (2021-04-30),,8
+Synopsys,SNPS,2021Q1,2021-05-19,분기말 상장주식수,152574904,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/883241/000088324121000012/,dei:EntityCommonStockSharesOutstanding 클래스 합,8
+Synopsys,SNPS,2021Q1,2021-04-30,분기말 시가총액,37695155782,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/SNPS?interval=1d&events=splits (2021-04-30) ; https://www.sec.gov/Archives/edgar/data/883241/000088324121000012/,종가 247.06 × 주식수 152574904,8
+Synopsys,SNPS,2021Q2,2021-07-31,분기별 매출액,1057130000,USD,공시,https://www.sec.gov/Archives/edgar/data/883241/000088324121000017/,,8
+Synopsys,SNPS,2021Q2,2021-07-31,분기별 영업이익,201923000,USD,공시,https://www.sec.gov/Archives/edgar/data/883241/000088324121000017/,,8
+Synopsys,SNPS,2021Q2,2021-07-31,분기별 당기순이익(지배),198646000,USD,공시,https://www.sec.gov/Archives/edgar/data/883241/000088324121000017/,,8
+Synopsys,SNPS,2021Q2,2021-07-31,분기별 영업활동현금흐름,421767000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/883241/000088324121000017/ ; https://www.sec.gov/Archives/edgar/data/883241/000088324121000012/,누적 1122063000 − 직전누적 700296000 (시작 2020-11-01),8
+Synopsys,SNPS,2021Q2,2021-07-31,분기말 자산총계,8485906000,USD,공시,https://www.sec.gov/Archives/edgar/data/883241/000088324121000017/,,8
+Synopsys,SNPS,2021Q2,2021-07-31,분기말 부채총계,3330770000,USD,공시,https://www.sec.gov/Archives/edgar/data/883241/000088324121000017/,,8
+Synopsys,SNPS,2021Q2,2021-07-31,분기말 총자본(자기자본),5155136000,USD,공시,https://www.sec.gov/Archives/edgar/data/883241/000088324121000017/,,8
+Synopsys,SNPS,2021Q2,2021-07-31,분기말 지배지분 자본,5151020000,USD,공시,https://www.sec.gov/Archives/edgar/data/883241/000088324121000017/,,8
+Synopsys,SNPS,2021Q2,2021-07-30,분기말 종가,287.99,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/SNPS?interval=1d&events=splits (2021-07-30),,8
+Synopsys,SNPS,2021Q2,2021-08-18,분기말 상장주식수,152502754,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/883241/000088324121000017/,dei:EntityCommonStockSharesOutstanding 클래스 합,8
+Synopsys,SNPS,2021Q2,2021-07-30,분기말 시가총액,43919268124,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/SNPS?interval=1d&events=splits (2021-07-30) ; https://www.sec.gov/Archives/edgar/data/883241/000088324121000017/,종가 287.99 × 주식수 152502754,8
+Synopsys,SNPS,2021Q3,2021-10-31,분기별 매출액,1152419000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/883241/000088324121000022/ ; https://www.sec.gov/Archives/edgar/data/883241/000088324121000017/,연간 4204193000 − 9개월누적 3051774000 (Revenues / 9개월 RevenueFromContractWithCustomerExcludingAssessedTax),8
+Synopsys,SNPS,2021Q3,2021-10-31,분기별 영업이익,190288000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/883241/000088324121000022/ ; https://www.sec.gov/Archives/edgar/data/883241/000088324121000017/,연간 734790000 − 9개월누적 544502000 (OperatingIncomeLoss),8
+Synopsys,SNPS,2021Q3,2021-10-31,분기별 당기순이익(지배),201447000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/883241/000088324121000022/ ; https://www.sec.gov/Archives/edgar/data/883241/000088324121000017/,연간 757516000 − 9개월누적 556069000 (NetIncomeLoss),8
+Synopsys,SNPS,2021Q3,2021-10-31,분기별 영업활동현금흐름,370559000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/883241/000088324121000022/ ; https://www.sec.gov/Archives/edgar/data/883241/000088324121000017/,누적 1492622000 − 직전누적 1122063000 (시작 2020-11-01),8
+Synopsys,SNPS,2021Q3,2021-10-31,분기말 자산총계,8752260000,USD,공시,https://www.sec.gov/Archives/edgar/data/883241/000088324121000022/,,8
+Synopsys,SNPS,2021Q3,2021-10-31,분기말 부채총계,3453317000,USD,공시,https://www.sec.gov/Archives/edgar/data/883241/000088324121000022/,,8
+Synopsys,SNPS,2021Q3,2021-10-31,분기말 총자본(자기자본),5298943000,USD,공시,https://www.sec.gov/Archives/edgar/data/883241/000088324121000022/,,8
+Synopsys,SNPS,2021Q3,2021-10-31,분기말 지배지분 자본,5295137000,USD,공시,https://www.sec.gov/Archives/edgar/data/883241/000088324121000022/,,8
+Synopsys,SNPS,2021Q3,2021-10-29,분기말 종가,333.18,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/SNPS?interval=1d&events=splits (2021-10-29),,8
+Synopsys,SNPS,2021Q3,2021-12-08,분기말 상장주식수,153438336,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/883241/000088324121000022/,dei:EntityCommonStockSharesOutstanding 클래스 합,8
+Synopsys,SNPS,2021Q3,2021-10-29,분기말 시가총액,51122584788,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/SNPS?interval=1d&events=splits (2021-10-29) ; https://www.sec.gov/Archives/edgar/data/883241/000088324121000022/,종가 333.18 × 주식수 153438336,8
+Synopsys,SNPS,2021Q4,2022-01-31,분기별 매출액,1270255000,USD,공시,https://www.sec.gov/Archives/edgar/data/883241/000088324122000003/,,8
+Synopsys,SNPS,2021Q4,2022-01-31,분기별 영업이익,347036000,USD,공시,https://www.sec.gov/Archives/edgar/data/883241/000088324122000003/,,8
+Synopsys,SNPS,2021Q4,2022-01-31,분기별 당기순이익(지배),313687000,USD,공시,https://www.sec.gov/Archives/edgar/data/883241/000088324122000003/,,8
+Synopsys,SNPS,2021Q4,2022-01-31,분기별 영업활동현금흐름,155744000,USD,공시,https://www.sec.gov/Archives/edgar/data/883241/000088324122000003/,,8
+Synopsys,SNPS,2021Q4,2022-01-31,분기말 자산총계,8901346000,USD,공시,https://www.sec.gov/Archives/edgar/data/883241/000088324122000003/,,8
+Synopsys,SNPS,2021Q4,2022-01-31,분기말 부채총계,3511113000,USD,공시,https://www.sec.gov/Archives/edgar/data/883241/000088324122000003/,,8
+Synopsys,SNPS,2021Q4,2022-01-31,분기말 총자본(자기자본),5390233000,USD,공시,https://www.sec.gov/Archives/edgar/data/883241/000088324122000003/,,8
+Synopsys,SNPS,2021Q4,2022-01-31,분기말 지배지분 자본,5386773000,USD,공시,https://www.sec.gov/Archives/edgar/data/883241/000088324122000003/,,8
+Synopsys,SNPS,2021Q4,2022-01-31,분기말 종가,310.5,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/SNPS?interval=1d&events=splits (2022-01-31),,8
+Synopsys,SNPS,2021Q4,2022-02-16,분기말 상장주식수,153098717,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/883241/000088324122000003/,dei:EntityCommonStockSharesOutstanding 클래스 합,8
+Synopsys,SNPS,2021Q4,2022-01-31,분기말 시가총액,47537151628,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/SNPS?interval=1d&events=splits (2022-01-31) ; https://www.sec.gov/Archives/edgar/data/883241/000088324122000003/,종가 310.5 × 주식수 153098717,8
+Synopsys,SNPS,2022Q1,2022-04-30,분기별 매출액,1279229000,USD,공시,https://www.sec.gov/Archives/edgar/data/883241/000088324122000011/,,8
+Synopsys,SNPS,2022Q1,2022-04-30,분기별 영업이익,363701000,USD,공시,https://www.sec.gov/Archives/edgar/data/883241/000088324122000011/,,8
+Synopsys,SNPS,2022Q1,2022-04-30,분기별 당기순이익(지배),294781000,USD,공시,https://www.sec.gov/Archives/edgar/data/883241/000088324122000011/,,8
+Synopsys,SNPS,2022Q1,2022-04-30,분기별 영업활동현금흐름,749957000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/883241/000088324122000011/ ; https://www.sec.gov/Archives/edgar/data/883241/000088324122000003/,누적 905701000 − 직전누적 155744000 (시작 2021-11-01),8
+Synopsys,SNPS,2022Q1,2022-04-30,분기말 자산총계,9210381000,USD,공시,https://www.sec.gov/Archives/edgar/data/883241/000088324122000011/,,8
+Synopsys,SNPS,2022Q1,2022-04-30,분기말 부채총계,3599435000,USD,공시,https://www.sec.gov/Archives/edgar/data/883241/000088324122000011/,메자닌(일시자본) 43516000 별도,8
+Synopsys,SNPS,2022Q1,2022-04-30,분기말 총자본(자기자본),5567430000,USD,공시,https://www.sec.gov/Archives/edgar/data/883241/000088324122000011/,,8
+Synopsys,SNPS,2022Q1,2022-04-30,분기말 지배지분 자본,5564311000,USD,공시,https://www.sec.gov/Archives/edgar/data/883241/000088324122000011/,,8
+Synopsys,SNPS,2022Q1,2022-04-29,분기말 종가,286.79,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/SNPS?interval=1d&events=splits (2022-04-29),,8
+Synopsys,SNPS,2022Q1,2022-05-18,분기말 상장주식수,152970249,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/883241/000088324122000011/,dei:EntityCommonStockSharesOutstanding 클래스 합,8
+Synopsys,SNPS,2022Q1,2022-04-29,분기말 시가총액,43870337711,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/SNPS?interval=1d&events=splits (2022-04-29) ; https://www.sec.gov/Archives/edgar/data/883241/000088324122000011/,종가 286.79 × 주식수 152970249,8
+Synopsys,SNPS,2022Q2,2022-07-31,분기별 매출액,1247766000,USD,공시,https://www.sec.gov/Archives/edgar/data/883241/000088324122000014/,,8
+Synopsys,SNPS,2022Q2,2022-07-31,분기별 영업이익,233928000,USD,공시,https://www.sec.gov/Archives/edgar/data/883241/000088324122000014/,,8
+Synopsys,SNPS,2022Q2,2022-07-31,분기별 당기순이익(지배),222626000,USD,공시,https://www.sec.gov/Archives/edgar/data/883241/000088324122000014/,,8
+Synopsys,SNPS,2022Q2,2022-07-31,분기별 영업활동현금흐름,439694000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/883241/000088324122000014/ ; https://www.sec.gov/Archives/edgar/data/883241/000088324122000011/,누적 1345395000 − 직전누적 905701000 (시작 2021-11-01),8
+Synopsys,SNPS,2022Q2,2022-07-31,분기말 자산총계,9329547000,USD,공시,https://www.sec.gov/Archives/edgar/data/883241/000088324122000014/,,8
+Synopsys,SNPS,2022Q2,2022-07-31,분기말 부채총계,3677905000,USD,공시,https://www.sec.gov/Archives/edgar/data/883241/000088324122000014/,메자닌(일시자본) 43516000 별도,8
+Synopsys,SNPS,2022Q2,2022-07-31,분기말 총자본(자기자본),5608126000,USD,공시,https://www.sec.gov/Archives/edgar/data/883241/000088324122000014/,,8
+Synopsys,SNPS,2022Q2,2022-07-31,분기말 지배지분 자본,5604026000,USD,공시,https://www.sec.gov/Archives/edgar/data/883241/000088324122000014/,,8
+Synopsys,SNPS,2022Q2,2022-07-29,분기말 종가,367.5,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/SNPS?interval=1d&events=splits (2022-07-29),,8
+Synopsys,SNPS,2022Q2,2022-08-17,분기말 상장주식수,152911344,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/883241/000088324122000014/,dei:EntityCommonStockSharesOutstanding 클래스 합,8
+Synopsys,SNPS,2022Q2,2022-07-29,분기말 시가총액,56194918920,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/SNPS?interval=1d&events=splits (2022-07-29) ; https://www.sec.gov/Archives/edgar/data/883241/000088324122000014/,종가 367.5 × 주식수 152911344,8
+Synopsys,SNPS,2022Q3,2022-10-31,분기별 매출액,1284292000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/883241/000088324122000017/ ; https://www.sec.gov/Archives/edgar/data/883241/000088324122000014/,연간 5081542000 − 9개월누적 3797250000 (Revenues / 9개월 RevenueFromContractWithCustomerExcludingAssessedTax),8
+Synopsys,SNPS,2022Q3,2022-10-31,분기별 영업이익,217373000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/883241/000088324122000017/ ; https://www.sec.gov/Archives/edgar/data/883241/000088324122000014/,연간 1162038000 − 9개월누적 944665000 (OperatingIncomeLoss),8
+Synopsys,SNPS,2022Q3,2022-10-31,분기별 당기순이익(지배),153500000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/883241/000088324122000017/ ; https://www.sec.gov/Archives/edgar/data/883241/000088324122000014/,연간 984594000 − 9개월누적 831094000 (NetIncomeLoss),8
+Synopsys,SNPS,2022Q3,2022-10-31,분기별 영업활동현금흐름,393505000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/883241/000088324122000017/ ; https://www.sec.gov/Archives/edgar/data/883241/000088324122000014/,누적 1738900000 − 직전누적 1345395000 (시작 2021-11-01),8
+Synopsys,SNPS,2022Q3,2022-10-31,분기말 자산총계,9418087000,USD,공시,https://www.sec.gov/Archives/edgar/data/883241/000088324122000017/,,8
+Synopsys,SNPS,2022Q3,2022-10-31,분기말 부채총계,3858897000,USD,공시,https://www.sec.gov/Archives/edgar/data/883241/000088324122000017/,메자닌(일시자본) 38664000 별도,8
+Synopsys,SNPS,2022Q3,2022-10-31,분기말 총자본(자기자본),5520526000,USD,공시,https://www.sec.gov/Archives/edgar/data/883241/000088324122000017/,,8
+Synopsys,SNPS,2022Q3,2022-10-31,분기말 지배지분 자본,5515725000,USD,공시,https://www.sec.gov/Archives/edgar/data/883241/000088324122000017/,,8
+Synopsys,SNPS,2022Q3,2022-10-31,분기말 종가,292.55,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/SNPS?interval=1d&events=splits (2022-10-31),,8
+Synopsys,SNPS,2022Q3,2022-12-07,분기말 상장주식수,152417194,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/883241/000088324122000017/,dei:EntityCommonStockSharesOutstanding 클래스 합,8
+Synopsys,SNPS,2022Q3,2022-10-31,분기말 시가총액,44589650105,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/SNPS?interval=1d&events=splits (2022-10-31) ; https://www.sec.gov/Archives/edgar/data/883241/000088324122000017/,종가 292.55 × 주식수 152417194,8
+Synopsys,SNPS,2022Q4,2023-01-31,분기별 매출액,1361340000,USD,공시,https://www.sec.gov/Archives/edgar/data/883241/000088324123000005/,,8
+Synopsys,SNPS,2022Q4,2023-01-31,분기별 영업이익,255932000,USD,공시,https://www.sec.gov/Archives/edgar/data/883241/000088324123000005/,,8
+Synopsys,SNPS,2022Q4,2023-01-31,분기별 당기순이익(지배),271536000,USD,공시,https://www.sec.gov/Archives/edgar/data/883241/000088324123000005/,,8
+Synopsys,SNPS,2022Q4,2023-01-31,분기별 영업활동현금흐름,114751000,USD,공시,https://www.sec.gov/Archives/edgar/data/883241/000088324123000005/,,8
+Synopsys,SNPS,2022Q4,2023-01-31,분기말 자산총계,9565624000,USD,공시,https://www.sec.gov/Archives/edgar/data/883241/000088324123000005/,,8
+Synopsys,SNPS,2022Q4,2023-01-31,분기말 부채총계,3886873000,USD,공시,https://www.sec.gov/Archives/edgar/data/883241/000088324123000005/,메자닌(일시자본) 36049000 별도,8
+Synopsys,SNPS,2022Q4,2023-01-31,분기말 총자본(자기자본),5642702000,USD,공시,https://www.sec.gov/Archives/edgar/data/883241/000088324123000005/,,8
+Synopsys,SNPS,2022Q4,2023-01-31,분기말 지배지분 자본,5636754000,USD,공시,https://www.sec.gov/Archives/edgar/data/883241/000088324123000005/,,8
+Synopsys,SNPS,2022Q4,2023-01-31,분기말 종가,353.75,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/SNPS?interval=1d&events=splits (2023-01-31),,8
+Synopsys,SNPS,2022Q4,2023-02-15,분기말 상장주식수,152301677,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/883241/000088324123000005/,dei:EntityCommonStockSharesOutstanding 클래스 합,8
+Synopsys,SNPS,2022Q4,2023-01-31,분기말 시가총액,53876718239,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/SNPS?interval=1d&events=splits (2023-01-31) ; https://www.sec.gov/Archives/edgar/data/883241/000088324123000005/,종가 353.75 × 주식수 152301677,8
+Synopsys,SNPS,2023Q1,2023-04-30,분기별 매출액,1394863000,USD,공시,https://www.sec.gov/Archives/edgar/data/883241/000088324123000012/,,8
+Synopsys,SNPS,2023Q1,2023-04-30,분기별 영업이익,287332000,USD,공시,https://www.sec.gov/Archives/edgar/data/883241/000088324123000012/,,8
+Synopsys,SNPS,2023Q1,2023-04-30,분기별 당기순이익(지배),272910000,USD,공시,https://www.sec.gov/Archives/edgar/data/883241/000088324123000012/,,8
+Synopsys,SNPS,2023Q1,2023-04-30,분기별 영업활동현금흐름,702940000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/883241/000088324123000012/ ; https://www.sec.gov/Archives/edgar/data/883241/000088324123000005/,누적 817691000 − 직전누적 114751000 (시작 2022-11-01),8
+Synopsys,SNPS,2023Q1,2023-04-30,분기말 자산총계,9790732000,USD,공시,https://www.sec.gov/Archives/edgar/data/883241/000088324123000012/,,8
+Synopsys,SNPS,2023Q1,2023-04-30,분기말 부채총계,3917910000,USD,공시,https://www.sec.gov/Archives/edgar/data/883241/000088324123000012/,메자닌(일시자본) 35877000 별도,8
+Synopsys,SNPS,2023Q1,2023-04-30,분기말 총자본(자기자본),5836945000,USD,공시,https://www.sec.gov/Archives/edgar/data/883241/000088324123000012/,,8
+Synopsys,SNPS,2023Q1,2023-04-30,분기말 지배지분 자본,5831859000,USD,공시,https://www.sec.gov/Archives/edgar/data/883241/000088324123000012/,,8
+Synopsys,SNPS,2023Q1,2023-04-28,분기말 종가,371.32,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/SNPS?interval=1d&events=splits (2023-04-28),,8
+Synopsys,SNPS,2023Q1,2023-05-17,분기말 상장주식수,152159561,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/883241/000088324123000012/,dei:EntityCommonStockSharesOutstanding 클래스 합,8
+Synopsys,SNPS,2023Q1,2023-04-28,분기말 시가총액,56499888191,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/SNPS?interval=1d&events=splits (2023-04-28) ; https://www.sec.gov/Archives/edgar/data/883241/000088324123000012/,종가 371.32 × 주식수 152159561,8
+Synopsys,SNPS,2023Q2,2023-07-31,분기별 매출액,1487288000,USD,공시,https://www.sec.gov/Archives/edgar/data/883241/000088324123000016/,,8
+Synopsys,SNPS,2023Q2,2023-07-31,분기별 영업이익,295474000,USD,공시,https://www.sec.gov/Archives/edgar/data/883241/000088324123000016/,,8
+Synopsys,SNPS,2023Q2,2023-07-31,분기별 당기순이익(지배),336252000,USD,공시,https://www.sec.gov/Archives/edgar/data/883241/000088324123000016/,,8
+Synopsys,SNPS,2023Q2,2023-07-31,분기별 영업활동현금흐름,559522000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/883241/000088324123000016/ ; https://www.sec.gov/Archives/edgar/data/883241/000088324123000012/,누적 1377213000 − 직전누적 817691000 (시작 2022-11-01),8
+Synopsys,SNPS,2023Q2,2023-07-31,분기말 자산총계,9923231000,USD,공시,https://www.sec.gov/Archives/edgar/data/883241/000088324123000016/,,8
+Synopsys,SNPS,2023Q2,2023-07-31,분기말 부채총계,3923350000,USD,공시,https://www.sec.gov/Archives/edgar/data/883241/000088324123000016/,메자닌(일시자본) 35877000 별도,8
+Synopsys,SNPS,2023Q2,2023-07-31,분기말 총자본(자기자본),5964004000,USD,공시,https://www.sec.gov/Archives/edgar/data/883241/000088324123000016/,,8
+Synopsys,SNPS,2023Q2,2023-07-31,분기말 지배지분 자본,5958555000,USD,공시,https://www.sec.gov/Archives/edgar/data/883241/000088324123000016/,,8
+Synopsys,SNPS,2023Q2,2023-07-31,분기말 종가,451.8,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/SNPS?interval=1d&events=splits (2023-07-31),,8
+Synopsys,SNPS,2023Q2,2023-08-16,분기말 상장주식수,152083817,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/883241/000088324123000016/,dei:EntityCommonStockSharesOutstanding 클래스 합,8
+Synopsys,SNPS,2023Q2,2023-07-31,분기말 시가총액,68711468521,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/SNPS?interval=1d&events=splits (2023-07-31) ; https://www.sec.gov/Archives/edgar/data/883241/000088324123000016/,종가 451.8 × 주식수 152083817,8
+Synopsys,SNPS,2023Q3,2023-10-31,분기별 매출액,1599128000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/883241/000088324123000019/ ; https://www.sec.gov/Archives/edgar/data/883241/000088324123000016/,연간 5842619000 − 9개월누적 4243491000 (RevenueFromContractWithCustomerExcludingAssessedTax),8
+Synopsys,SNPS,2023Q3,2023-10-31,분기별 영업이익,430521000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/883241/000088324123000019/ ; https://www.sec.gov/Archives/edgar/data/883241/000088324123000016/,연간 1269259000 − 9개월누적 838738000 (OperatingIncomeLoss),8
+Synopsys,SNPS,2023Q3,2023-10-31,분기별 당기순이익(지배),349190000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/883241/000088324123000019/ ; https://www.sec.gov/Archives/edgar/data/883241/000088324123000016/,연간 1229888000 − 9개월누적 880698000 (NetIncomeLoss),8
+Synopsys,SNPS,2023Q3,2023-10-31,분기별 영업활동현금흐름,326061000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/883241/000088324123000019/ ; https://www.sec.gov/Archives/edgar/data/883241/000088324123000016/,누적 1703274000 − 직전누적 1377213000 (시작 2022-11-01),8
+Synopsys,SNPS,2023Q3,2023-10-31,분기말 자산총계,10333131000,USD,공시,https://www.sec.gov/Archives/edgar/data/883241/000088324123000019/,,8
+Synopsys,SNPS,2023Q3,2023-10-31,분기말 부채총계,4148830000,USD,공시,https://www.sec.gov/Archives/edgar/data/883241/000088324123000019/,메자닌(일시자본) 31043000 별도,8
+Synopsys,SNPS,2023Q3,2023-10-31,분기말 총자본(자기자본),6153258000,USD,공시,https://www.sec.gov/Archives/edgar/data/883241/000088324123000019/,,8
+Synopsys,SNPS,2023Q3,2023-10-31,분기말 지배지분 자본,6147308000,USD,공시,https://www.sec.gov/Archives/edgar/data/883241/000088324123000019/,,8
+Synopsys,SNPS,2023Q3,2023-10-31,분기말 종가,469.44,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/SNPS?interval=1d&events=splits (2023-10-31),,8
+Synopsys,SNPS,2023Q3,2023-12-06,분기말 상장주식수,151986878,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/883241/000088324123000019/,dei:EntityCommonStockSharesOutstanding 클래스 합,8
+Synopsys,SNPS,2023Q3,2023-10-31,분기말 시가총액,71348720008,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/SNPS?interval=1d&events=splits (2023-10-31) ; https://www.sec.gov/Archives/edgar/data/883241/000088324123000019/,종가 469.44 × 주식수 151986878,8
+Synopsys,SNPS,2023Q4,2024-01-31,분기별 매출액,1649230000,USD,공시,https://www.sec.gov/Archives/edgar/data/883241/000088324124000013/,,8
+Synopsys,SNPS,2023Q4,2024-01-31,분기별 영업이익,359620000,USD,공시,https://www.sec.gov/Archives/edgar/data/883241/000088324124000013/,,8
+Synopsys,SNPS,2023Q4,2024-01-31,분기별 당기순이익(지배),449112000,USD,공시,https://www.sec.gov/Archives/edgar/data/883241/000088324124000013/,,8
+Synopsys,SNPS,2023Q4,2024-01-31,분기별 영업활동현금흐름,-87790000,USD,공시,https://www.sec.gov/Archives/edgar/data/883241/000088324124000013/,,8
+Synopsys,SNPS,2023Q4,2024-01-31,분기말 자산총계,10558259000,USD,공시,https://www.sec.gov/Archives/edgar/data/883241/000088324124000013/,,8
+Synopsys,SNPS,2023Q4,2024-01-31,분기말 부채총계,3851642000,USD,공시,https://www.sec.gov/Archives/edgar/data/883241/000088324124000013/,메자닌(일시자본) 31043000 별도,8
+Synopsys,SNPS,2023Q4,2024-01-31,분기말 총자본(자기자본),6675574000,USD,공시,https://www.sec.gov/Archives/edgar/data/883241/000088324124000013/,,8
+Synopsys,SNPS,2023Q4,2024-01-31,분기말 지배지분 자본,6670984000,USD,공시,https://www.sec.gov/Archives/edgar/data/883241/000088324124000013/,,8
+Synopsys,SNPS,2023Q4,2024-01-31,분기말 종가,533.35,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/SNPS?interval=1d&events=splits (2024-01-31),,8
+Synopsys,SNPS,2023Q4,2024-02-21,분기말 상장주식수,152543690,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/883241/000088324124000013/,dei:EntityCommonStockSharesOutstanding 클래스 합,8
+Synopsys,SNPS,2023Q4,2024-01-31,분기말 시가총액,81359177062,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/SNPS?interval=1d&events=splits (2024-01-31) ; https://www.sec.gov/Archives/edgar/data/883241/000088324124000013/,종가 533.35 × 주식수 152543690,8
+Synopsys,SNPS,2024Q1,2024-04-30,분기별 매출액,1454712000,USD,공시,https://www.sec.gov/Archives/edgar/data/883241/000088324124000016/,,8
+Synopsys,SNPS,2024Q1,2024-04-30,분기별 영업이익,332072000,USD,공시,https://www.sec.gov/Archives/edgar/data/883241/000088324124000016/,,8
+Synopsys,SNPS,2024Q1,2024-04-30,분기별 당기순이익(지배),292107000,USD,공시,https://www.sec.gov/Archives/edgar/data/883241/000088324124000016/,,8
+Synopsys,SNPS,2024Q1,2024-04-30,분기별 영업활동현금흐름,476590000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/883241/000088324124000016/ ; https://www.sec.gov/Archives/edgar/data/883241/000088324124000013/,누적 388800000 − 직전누적 -87790000 (시작 2023-11-01),8
+Synopsys,SNPS,2024Q1,2024-04-30,분기말 자산총계,11011837000,USD,공시,https://www.sec.gov/Archives/edgar/data/883241/000088324124000016/,,8
+Synopsys,SNPS,2024Q1,2024-04-30,분기말 부채총계,3822996000,USD,공시,https://www.sec.gov/Archives/edgar/data/883241/000088324124000016/,메자닌(일시자본) 31043000 별도,8
+Synopsys,SNPS,2024Q1,2024-04-30,분기말 총자본(자기자본),7157798000,USD,공시,https://www.sec.gov/Archives/edgar/data/883241/000088324124000016/,,8
+Synopsys,SNPS,2024Q1,2024-04-30,분기말 지배지분 자본,7153160000,USD,공시,https://www.sec.gov/Archives/edgar/data/883241/000088324124000016/,,8
+Synopsys,SNPS,2024Q1,2024-04-30,분기말 종가,530.59,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/SNPS?interval=1d&events=splits (2024-04-30),,8
+Synopsys,SNPS,2024Q1,2024-05-22,분기말 상장주식수,153216093,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/883241/000088324124000016/,dei:EntityCommonStockSharesOutstanding 클래스 합,8
+Synopsys,SNPS,2024Q1,2024-04-30,분기말 시가총액,81294926785,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/SNPS?interval=1d&events=splits (2024-04-30) ; https://www.sec.gov/Archives/edgar/data/883241/000088324124000016/,종가 530.59 × 주식수 153216093,8
+Synopsys,SNPS,2024Q2,2024-07-31,분기별 매출액,1525749000,USD,공시,https://www.sec.gov/Archives/edgar/data/883241/000088324124000021/,,8
+Synopsys,SNPS,2024Q2,2024-07-31,분기별 영업이익,360211000,USD,공시,https://www.sec.gov/Archives/edgar/data/883241/000088324124000021/,,8
+Synopsys,SNPS,2024Q2,2024-07-31,분기별 당기순이익(지배),408055000,USD,공시,https://www.sec.gov/Archives/edgar/data/883241/000088324124000021/,,8
+Synopsys,SNPS,2024Q2,2024-07-31,분기별 영업활동현금흐름,455411000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/883241/000088324124000021/ ; https://www.sec.gov/Archives/edgar/data/883241/000088324124000016/,누적 844211000 − 직전누적 388800000 (시작 2023-11-01),8
+Synopsys,SNPS,2024Q2,2024-07-31,분기말 자산총계,11648684000,USD,공시,https://www.sec.gov/Archives/edgar/data/883241/000088324124000021/,,8
+Synopsys,SNPS,2024Q2,2024-07-31,분기말 부채총계,3903269000,USD,공시,https://www.sec.gov/Archives/edgar/data/883241/000088324124000021/,메자닌(일시자본) 31043000 별도,8
+Synopsys,SNPS,2024Q2,2024-07-31,분기말 총자본(자기자본),7714372000,USD,공시,https://www.sec.gov/Archives/edgar/data/883241/000088324124000021/,,8
+Synopsys,SNPS,2024Q2,2024-07-31,분기말 지배지분 자본,7709396000,USD,공시,https://www.sec.gov/Archives/edgar/data/883241/000088324124000021/,,8
+Synopsys,SNPS,2024Q2,2024-07-31,분기말 종가,558.32,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/SNPS?interval=1d&events=splits (2024-07-31),,8
+Synopsys,SNPS,2024Q2,2024-08-21,분기말 상장주식수,153613744,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/883241/000088324124000021/,dei:EntityCommonStockSharesOutstanding 클래스 합,8
+Synopsys,SNPS,2024Q2,2024-07-31,분기말 시가총액,85765625550,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/SNPS?interval=1d&events=splits (2024-07-31) ; https://www.sec.gov/Archives/edgar/data/883241/000088324124000021/,종가 558.32 × 주식수 153613744,8
+Synopsys,SNPS,2024Q3,2024-10-31,분기별 매출액,1635986000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/883241/000088324124000024/ ; https://www.sec.gov/Archives/edgar/data/883241/000088324124000021/,연간 6127436000 − 9개월누적 4491450000 (RevenueFromContractWithCustomerExcludingAssessedTax),8
+Synopsys,SNPS,2024Q3,2024-10-31,분기별 영업이익,310802000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/883241/000088324124000024/ ; https://www.sec.gov/Archives/edgar/data/883241/000088324124000021/,연간 1355711000 − 9개월누적 1044909000 (OperatingIncomeLoss),8
+Synopsys,SNPS,2024Q3,2024-10-31,분기별 당기순이익(지배),1114106000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/883241/000088324124000024/ ; https://www.sec.gov/Archives/edgar/data/883241/000088324124000021/,연간 2263380000 − 9개월누적 1149274000 (NetIncomeLoss),8
+Synopsys,SNPS,2024Q3,2024-10-31,분기별 영업활동현금흐름,562818000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/883241/000088324124000024/ ; https://www.sec.gov/Archives/edgar/data/883241/000088324124000021/,누적 1407029000 − 직전누적 844211000 (시작 2023-11-01),8
+Synopsys,SNPS,2024Q3,2024-10-31,분기말 자산총계,13073561000,USD,공시,https://www.sec.gov/Archives/edgar/data/883241/000088324124000024/,,8
+Synopsys,SNPS,2024Q3,2024-10-31,분기말 부채총계,4050355000,USD,공시,https://www.sec.gov/Archives/edgar/data/883241/000088324124000024/,메자닌(일시자본) 30000000 별도,8
+Synopsys,SNPS,2024Q3,2024-10-31,분기말 총자본(자기자본),8993206000,USD,공시,https://www.sec.gov/Archives/edgar/data/883241/000088324124000024/,,8
+Synopsys,SNPS,2024Q3,2024-10-31,분기말 지배지분 자본,8990702000,USD,공시,https://www.sec.gov/Archives/edgar/data/883241/000088324124000024/,,8
+Synopsys,SNPS,2024Q3,2024-10-31,분기말 종가,513.61,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/SNPS?interval=1d&events=splits (2024-10-31),,8
+Synopsys,SNPS,2024Q3,2024-12-16,분기말 상장주식수,154578449,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/883241/000088324124000024/,dei:EntityCommonStockSharesOutstanding 클래스 합,8
+Synopsys,SNPS,2024Q3,2024-10-31,분기말 시가총액,79393037191,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/SNPS?interval=1d&events=splits (2024-10-31) ; https://www.sec.gov/Archives/edgar/data/883241/000088324124000024/,종가 513.61 × 주식수 154578449,8
+Synopsys,SNPS,2024Q4,2025-01-31,분기별 매출액,1455315000,USD,공시,https://www.sec.gov/Archives/edgar/data/883241/000088324125000014/,,8
+Synopsys,SNPS,2024Q4,2025-01-31,분기별 영업이익,251839000,USD,공시,https://www.sec.gov/Archives/edgar/data/883241/000088324125000014/,,8
+Synopsys,SNPS,2024Q4,2025-01-31,분기별 당기순이익(지배),295683000,USD,공시,https://www.sec.gov/Archives/edgar/data/883241/000088324125000014/,,8
+Synopsys,SNPS,2024Q4,2025-01-31,분기별 영업활동현금흐름,-67455000,USD,공시,https://www.sec.gov/Archives/edgar/data/883241/000088324125000014/,,8
+Synopsys,SNPS,2024Q4,2025-01-31,분기말 자산총계,13041089000,USD,공시,https://www.sec.gov/Archives/edgar/data/883241/000088324125000014/,,8
+Synopsys,SNPS,2024Q4,2025-01-31,분기말 부채총계,3736188000,USD,공시,https://www.sec.gov/Archives/edgar/data/883241/000088324125000014/,,8
+Synopsys,SNPS,2024Q4,2025-01-31,분기말 총자본(자기자본),9304901000,USD,공시,https://www.sec.gov/Archives/edgar/data/883241/000088324125000014/,,8
+Synopsys,SNPS,2024Q4,2025-01-31,분기말 지배지분 자본,9304792000,USD,공시,https://www.sec.gov/Archives/edgar/data/883241/000088324125000014/,,8
+Synopsys,SNPS,2024Q4,2025-01-31,분기말 종가,525.48,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/SNPS?interval=1d&events=splits (2025-01-31),,8
+Synopsys,SNPS,2024Q4,2025-02-24,분기말 상장주식수,154620076,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/883241/000088324125000014/,dei:EntityCommonStockSharesOutstanding 클래스 합,8
+Synopsys,SNPS,2024Q4,2025-01-31,분기말 시가총액,81249757536,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/SNPS?interval=1d&events=splits (2025-01-31) ; https://www.sec.gov/Archives/edgar/data/883241/000088324125000014/,종가 525.48 × 주식수 154620076,8
+Synopsys,SNPS,2025Q1,2025-04-30,분기별 매출액,1604266000,USD,공시,https://www.sec.gov/Archives/edgar/data/883241/000088324125000017/,,8
+Synopsys,SNPS,2025Q1,2025-04-30,분기별 영업이익,376426000,USD,공시,https://www.sec.gov/Archives/edgar/data/883241/000088324125000017/,,8
+Synopsys,SNPS,2025Q1,2025-04-30,분기별 당기순이익(지배),345332000,USD,공시,https://www.sec.gov/Archives/edgar/data/883241/000088324125000017/,,8
+Synopsys,SNPS,2025Q1,2025-04-30,분기별 영업활동현금흐름,275365000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/883241/000088324125000017/ ; https://www.sec.gov/Archives/edgar/data/883241/000088324125000014/,누적 207910000 − 직전누적 -67455000 (시작 2024-11-01),8
+Synopsys,SNPS,2025Q1,2025-04-30,분기말 자산총계,23756517000,USD,공시,https://www.sec.gov/Archives/edgar/data/883241/000088324125000017/,,8
+Synopsys,SNPS,2025Q1,2025-04-30,분기말 부채총계,13840912000,USD,공시,https://www.sec.gov/Archives/edgar/data/883241/000088324125000017/,,8
+Synopsys,SNPS,2025Q1,2025-04-30,분기말 총자본(자기자본),9915605000,USD,공시,https://www.sec.gov/Archives/edgar/data/883241/000088324125000017/,,8
+Synopsys,SNPS,2025Q1,2025-04-30,분기말 지배지분 자본,9915718000,USD,공시,https://www.sec.gov/Archives/edgar/data/883241/000088324125000017/,,8
+Synopsys,SNPS,2025Q1,2025-04-30,분기말 종가,459.01,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/SNPS?interval=1d&events=splits (2025-04-30),,8
+Synopsys,SNPS,2025Q1,2025-05-23,분기말 상장주식수,155160938,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/883241/000088324125000017/,dei:EntityCommonStockSharesOutstanding 클래스 합,8
+Synopsys,SNPS,2025Q1,2025-04-30,분기말 시가총액,71220422151,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/SNPS?interval=1d&events=splits (2025-04-30) ; https://www.sec.gov/Archives/edgar/data/883241/000088324125000017/,종가 459.01 × 주식수 155160938,8
+Synopsys,SNPS,2025Q2,2025-07-31,분기별 매출액,1739737000,USD,공시,https://www.sec.gov/Archives/edgar/data/883241/000088324125000024/,,8
+Synopsys,SNPS,2025Q2,2025-07-31,분기별 영업이익,165269000,USD,공시,https://www.sec.gov/Archives/edgar/data/883241/000088324125000024/,,8
+Synopsys,SNPS,2025Q2,2025-07-31,분기별 당기순이익(지배),242509000,USD,공시,https://www.sec.gov/Archives/edgar/data/883241/000088324125000024/,,8
+Synopsys,SNPS,2025Q2,2025-07-31,분기별 영업활동현금흐름,670960000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/883241/000088324125000024/ ; https://www.sec.gov/Archives/edgar/data/883241/000088324125000017/,누적 878870000 − 직전누적 207910000 (시작 2024-11-01),8
+Synopsys,SNPS,2025Q2,2025-07-31,분기말 자산총계,48230256000,USD,공시,https://www.sec.gov/Archives/edgar/data/883241/000088324125000024/,,8
+Synopsys,SNPS,2025Q2,2025-07-31,분기말 부채총계,20616070000,USD,공시,https://www.sec.gov/Archives/edgar/data/883241/000088324125000024/,,8
+Synopsys,SNPS,2025Q2,2025-07-31,분기말 총자본(자기자본),27614186000,USD,공시,https://www.sec.gov/Archives/edgar/data/883241/000088324125000024/,,8
+Synopsys,SNPS,2025Q2,2025-07-31,분기말 지배지분 자본,27614531000,USD,공시,https://www.sec.gov/Archives/edgar/data/883241/000088324125000024/,,8
+Synopsys,SNPS,2025Q2,2025-07-31,분기말 종가,633.47,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/SNPS?interval=1d&events=splits (2025-07-31),,8
+Synopsys,SNPS,2025Q2,2025-09-05,분기말 상장주식수,185748673,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/883241/000088324125000024/,dei:EntityCommonStockSharesOutstanding 클래스 합,8
+Synopsys,SNPS,2025Q2,2025-07-31,분기말 시가총액,117666211885,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/SNPS?interval=1d&events=splits (2025-07-31) ; https://www.sec.gov/Archives/edgar/data/883241/000088324125000024/,종가 633.47 × 주식수 185748673,8
+Synopsys,SNPS,2025Q3,2025-10-31,분기별 매출액,2254860000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/883241/000088324125000028/ ; https://www.sec.gov/Archives/edgar/data/883241/000088324125000024/,연간 7054178000 − 9개월누적 4799318000 (RevenueFromContractWithCustomerExcludingAssessedTax),8
+Synopsys,SNPS,2025Q3,2025-10-31,분기별 영업이익,121393000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/883241/000088324125000028/ ; https://www.sec.gov/Archives/edgar/data/883241/000088324125000024/,연간 914927000 − 9개월누적 793534000 (OperatingIncomeLoss),8
+Synopsys,SNPS,2025Q3,2025-10-31,분기별 당기순이익(지배),448696000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/883241/000088324125000028/ ; https://www.sec.gov/Archives/edgar/data/883241/000088324125000024/,연간 1332220000 − 9개월누적 883524000 (NetIncomeLoss),8
+Synopsys,SNPS,2025Q3,2025-10-31,분기별 영업활동현금흐름,639738000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/883241/000088324125000028/ ; https://www.sec.gov/Archives/edgar/data/883241/000088324125000024/,누적 1518608000 − 직전누적 878870000 (시작 2024-11-01),8
+Synopsys,SNPS,2025Q3,2025-10-31,분기말 자산총계,48224461000,USD,공시,https://www.sec.gov/Archives/edgar/data/883241/000088324125000028/,,8
+Synopsys,SNPS,2025Q3,2025-10-31,분기말 부채총계,19897446000,USD,공시,https://www.sec.gov/Archives/edgar/data/883241/000088324125000028/,,8
+Synopsys,SNPS,2025Q3,2025-10-31,분기말 총자본(자기자본),28327015000,USD,공시,https://www.sec.gov/Archives/edgar/data/883241/000088324125000028/,,8
+Synopsys,SNPS,2025Q3,2025-10-31,분기말 지배지분 자본,28327602000,USD,공시,https://www.sec.gov/Archives/edgar/data/883241/000088324125000028/,,8
+Synopsys,SNPS,2025Q3,2025-10-31,분기말 종가,453.82,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/SNPS?interval=1d&events=splits (2025-10-31),,8
+Synopsys,SNPS,2025Q3,2025-12-15,분기말 상장주식수,191318206,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/883241/000088324125000028/,dei:EntityCommonStockSharesOutstanding 클래스 합,8
+Synopsys,SNPS,2025Q3,2025-10-31,분기말 시가총액,86824028247,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/SNPS?interval=1d&events=splits (2025-10-31) ; https://www.sec.gov/Archives/edgar/data/883241/000088324125000028/,종가 453.82 × 주식수 191318206,8
+Synopsys,SNPS,2025Q4,2026-01-31,분기별 매출액,2408798000,USD,공시,https://www.sec.gov/Archives/edgar/data/883241/000088324126000014/,,8
+Synopsys,SNPS,2025Q4,2026-01-31,분기별 영업이익,203046000,USD,공시,https://www.sec.gov/Archives/edgar/data/883241/000088324126000014/,,8
+Synopsys,SNPS,2025Q4,2026-01-31,분기별 당기순이익(지배),64958000,USD,공시,https://www.sec.gov/Archives/edgar/data/883241/000088324126000014/,,8
+Synopsys,SNPS,2025Q4,2026-01-31,분기별 영업활동현금흐름,856832000,USD,공시,https://www.sec.gov/Archives/edgar/data/883241/000088324126000014/,,8
+Synopsys,SNPS,2025Q4,2026-01-31,분기말 자산총계,47237928000,USD,공시,https://www.sec.gov/Archives/edgar/data/883241/000088324126000014/,,8
+Synopsys,SNPS,2025Q4,2026-01-31,분기말 부채총계,16689930000,USD,공시,https://www.sec.gov/Archives/edgar/data/883241/000088324126000014/,,8
+Synopsys,SNPS,2025Q4,2026-01-31,분기말 총자본(자기자본),30547998000,USD,공시,https://www.sec.gov/Archives/edgar/data/883241/000088324126000014/,,8
+Synopsys,SNPS,2025Q4,2026-01-31,분기말 지배지분 자본,30548827000,USD,공시,https://www.sec.gov/Archives/edgar/data/883241/000088324126000014/,,8
+Synopsys,SNPS,2025Q4,2026-01-30,분기말 종가,465.12,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/SNPS?interval=1d&events=splits (2026-01-30),,8
+Synopsys,SNPS,2025Q4,2026-02-23,분기말 상장주식수,191562027,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/883241/000088324126000014/,dei:EntityCommonStockSharesOutstanding 클래스 합,8
+Synopsys,SNPS,2025Q4,2026-01-30,분기말 시가총액,89099329998,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/SNPS?interval=1d&events=splits (2026-01-30) ; https://www.sec.gov/Archives/edgar/data/883241/000088324126000014/,종가 465.12 × 주식수 191562027,8
+Synopsys,SNPS,2026Q1,2026-04-30,분기별 매출액,2275985000,USD,공시,https://www.sec.gov/Archives/edgar/data/883241/000088324126000018/,,8
+Synopsys,SNPS,2026Q1,2026-04-30,분기별 영업이익,120426000,USD,공시,https://www.sec.gov/Archives/edgar/data/883241/000088324126000018/,,8
+Synopsys,SNPS,2026Q1,2026-04-30,분기별 당기순이익(지배),17105000,USD,공시,https://www.sec.gov/Archives/edgar/data/883241/000088324126000018/,,8
+Synopsys,SNPS,2026Q1,2026-04-30,분기별 영업활동현금흐름,628934000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/883241/000088324126000018/ ; https://www.sec.gov/Archives/edgar/data/883241/000088324126000014/,누적 1485766000 − 직전누적 856832000 (시작 2025-11-01),8
+Synopsys,SNPS,2026Q1,2026-04-30,분기말 자산총계,46889027000,USD,공시,https://www.sec.gov/Archives/edgar/data/883241/000088324126000018/,,8
+Synopsys,SNPS,2026Q1,2026-04-30,분기말 부채총계,16411962000,USD,공시,https://www.sec.gov/Archives/edgar/data/883241/000088324126000018/,,8
+Synopsys,SNPS,2026Q1,2026-04-30,분기말 총자본(자기자본),30477065000,USD,공시,https://www.sec.gov/Archives/edgar/data/883241/000088324126000018/,,8
+Synopsys,SNPS,2026Q1,2026-04-30,분기말 지배지분 자본,30478131000,USD,공시,https://www.sec.gov/Archives/edgar/data/883241/000088324126000018/,,8
+Synopsys,SNPS,2026Q1,2026-04-30,분기말 종가,482.6,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/SNPS?interval=1d&events=splits (2026-04-30),,8
+Synopsys,SNPS,2026Q1,2026-05-22,분기말 상장주식수,191479325,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/883241/000088324126000018/,dei:EntityCommonStockSharesOutstanding 클래스 합,8
+Synopsys,SNPS,2026Q1,2026-04-30,분기말 시가총액,92407922245,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/SNPS?interval=1d&events=splits (2026-04-30) ; https://www.sec.gov/Archives/edgar/data/883241/000088324126000018/,종가 482.6 × 주식수 191479325,8
+Synopsys,SNPS,2026Q2,2026-07-31,분기별 매출액,2476822000,USD,공시,https://www.sec.gov/Archives/edgar/data/883241/000088324126000025/,,8
+Synopsys,SNPS,2026Q2,2026-07-31,분기별 영업이익,357491000,USD,공시,https://www.sec.gov/Archives/edgar/data/883241/000088324126000025/,,8
+Synopsys,SNPS,2026Q2,2026-07-31,분기별 당기순이익(지배),545800000,USD,공시,https://www.sec.gov/Archives/edgar/data/883241/000088324126000025/,,8
+Synopsys,SNPS,2026Q2,2026-07-31,분기별 영업활동현금흐름,812837000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/883241/000088324126000025/ ; https://www.sec.gov/Archives/edgar/data/883241/000088324126000018/,누적 2298603000 − 직전누적 1485766000 (시작 2025-11-01),8
+Synopsys,SNPS,2026Q2,2026-07-31,분기말 자산총계,47726263000,USD,공시,https://www.sec.gov/Archives/edgar/data/883241/000088324126000025/,,8
+Synopsys,SNPS,2026Q2,2026-07-31,분기말 부채총계,16574884000,USD,공시,https://www.sec.gov/Archives/edgar/data/883241/000088324126000025/,,8
+Synopsys,SNPS,2026Q2,2026-07-31,분기말 총자본(자기자본),31151379000,USD,공시,https://www.sec.gov/Archives/edgar/data/883241/000088324126000025/,,8
+Synopsys,SNPS,2026Q2,2026-07-31,분기말 지배지분 자본,31152539000,USD,공시,https://www.sec.gov/Archives/edgar/data/883241/000088324126000025/,,8
+Synopsys,SNPS,2026Q2,2026-07-31,분기말 종가,388.76,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/SNPS?interval=1d&events=splits (2026-07-31),,8
+Synopsys,SNPS,2026Q2,2026-08-24,분기말 상장주식수,191636646,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/883241/000088324126000025/,dei:EntityCommonStockSharesOutstanding 클래스 합,8
+Synopsys,SNPS,2026Q2,2026-07-31,분기말 시가총액,74500662499,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/SNPS?interval=1d&events=splits (2026-07-31) ; https://www.sec.gov/Archives/edgar/data/883241/000088324126000025/,종가 388.76 × 주식수 191636646,8

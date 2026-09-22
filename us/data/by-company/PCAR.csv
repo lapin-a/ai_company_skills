@@ -1,0 +1,727 @@
+﻿기업,종목코드,기간,기준일,항목,값,통화,값구분,출처,검산,라운드
+PACCAR,PCAR,2010Q1,2010-03-31,분기별 매출액,2230700000,USD,공시(후속 보고서 비교기간),https://www.sec.gov/Archives/edgar/data/75362/000119312511130097/,SalesRevenueNet ; 그 분기 보고서에 연결 총계가 없어 2011-05-06 제출본의 비교기간에서 읽었다,9
+PACCAR,PCAR,2010Q1,2010-03-31,분기별 영업이익,미확인,USD,미확인,SEC companyfacts CIK0000075362: 해당 보고서에 OperatingIncomeLoss 태그 없음(영업이익 미공시) ; SEC companyfacts CIK0000075362: OperatingIncomeLoss 태그 없음(영업이익 미공시),,9
+PACCAR,PCAR,2010Q1,2010-03-31,분기별 당기순이익(지배),68300000,USD,공시,https://www.sec.gov/Archives/edgar/data/75362/000119312510108284/,,9
+PACCAR,PCAR,2010Q1,2010-03-31,분기별 영업활동현금흐름,285400000,USD,공시,https://www.sec.gov/Archives/edgar/data/75362/000119312510108284/,,9
+PACCAR,PCAR,2010Q1,2010-03-31,분기말 자산총계,13990000000,USD,공시,https://www.sec.gov/Archives/edgar/data/75362/000119312510108284/,,9
+PACCAR,PCAR,2010Q1,2010-03-31,분기말 부채총계,8897400000,USD,계산(부채및자본-총자본),https://www.sec.gov/Archives/edgar/data/75362/000119312510108284/,부채및자본 13990000000 − 총자본 5092600000,9
+PACCAR,PCAR,2010Q1,2010-03-31,분기말 총자본(자기자본),5092600000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/75362/000119312510108284/,"StockholdersEquity, MinorityInterest 태그 없음",9
+PACCAR,PCAR,2010Q1,2010-03-31,분기말 지배지분 자본,5092600000,USD,공시,https://www.sec.gov/Archives/edgar/data/75362/000119312510108284/,,9
+PACCAR,PCAR,2010Q1,2010-03-31,분기말 종가,43.34,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/PCAR?interval=1d&events=splits (2010-03-31),분할조정 종가 28.8933 × 이후 분할계수 1.5,9
+PACCAR,PCAR,2010Q1,2010-04-30,분기말 상장주식수,364898310,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/75362/000119312510108284/,dei:EntityCommonStockSharesOutstanding 클래스 합,9
+PACCAR,PCAR,2010Q1,2010-03-31,분기말 시가총액,15814692755,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/PCAR?interval=1d&events=splits (2010-03-31) ; https://www.sec.gov/Archives/edgar/data/75362/000119312510108284/,종가 43.34 × 주식수 364898310,9
+PACCAR,PCAR,2010Q2,2010-06-30,분기별 매출액,2464100000,USD,공시,https://www.sec.gov/Archives/edgar/data/75362/000119312510181384/,,9
+PACCAR,PCAR,2010Q2,2010-06-30,분기별 영업이익,미확인,USD,미확인,SEC companyfacts CIK0000075362: 해당 보고서에 OperatingIncomeLoss 태그 없음(영업이익 미공시) ; SEC companyfacts CIK0000075362: OperatingIncomeLoss 태그 없음(영업이익 미공시),,9
+PACCAR,PCAR,2010Q2,2010-06-30,분기별 당기순이익(지배),99600000,USD,공시,https://www.sec.gov/Archives/edgar/data/75362/000119312510181384/,,9
+PACCAR,PCAR,2010Q2,2010-06-30,분기별 영업활동현금흐름,514100000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/75362/000119312510181384/ ; https://www.sec.gov/Archives/edgar/data/75362/000119312510108284/,누적 799500000 − 직전누적 285400000 (시작 2010-01-01),9
+PACCAR,PCAR,2010Q2,2010-06-30,분기말 자산총계,13422300000,USD,공시,https://www.sec.gov/Archives/edgar/data/75362/000119312510181384/,,9
+PACCAR,PCAR,2010Q2,2010-06-30,분기말 부채총계,8427900000,USD,계산(부채및자본-총자본),https://www.sec.gov/Archives/edgar/data/75362/000119312510181384/,부채및자본 13422300000 − 총자본 4994400000,9
+PACCAR,PCAR,2010Q2,2010-06-30,분기말 총자본(자기자본),4994400000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/75362/000119312510181384/,"StockholdersEquity, MinorityInterest 태그 없음",9
+PACCAR,PCAR,2010Q2,2010-06-30,분기말 지배지분 자본,4994400000,USD,공시,https://www.sec.gov/Archives/edgar/data/75362/000119312510181384/,,9
+PACCAR,PCAR,2010Q2,2010-06-30,분기말 종가,39.87,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/PCAR?interval=1d&events=splits (2010-06-30),분할조정 종가 26.58 × 이후 분할계수 1.5,9
+PACCAR,PCAR,2010Q2,2010-07-31,분기말 상장주식수,364532187,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/75362/000119312510181384/,dei:EntityCommonStockSharesOutstanding 클래스 합,9
+PACCAR,PCAR,2010Q2,2010-06-30,분기말 시가총액,14533898296,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/PCAR?interval=1d&events=splits (2010-06-30) ; https://www.sec.gov/Archives/edgar/data/75362/000119312510181384/,종가 39.87 × 주식수 364532187,9
+PACCAR,PCAR,2010Q3,2010-09-30,분기별 매출액,2542500000,USD,공시,https://www.sec.gov/Archives/edgar/data/75362/000119312510251749/,,9
+PACCAR,PCAR,2010Q3,2010-09-30,분기별 영업이익,미확인,USD,미확인,SEC companyfacts CIK0000075362: 해당 보고서에 OperatingIncomeLoss 태그 없음(영업이익 미공시) ; SEC companyfacts CIK0000075362: OperatingIncomeLoss 태그 없음(영업이익 미공시),,9
+PACCAR,PCAR,2010Q3,2010-09-30,분기별 당기순이익(지배),119900000,USD,공시,https://www.sec.gov/Archives/edgar/data/75362/000119312510251749/,,9
+PACCAR,PCAR,2010Q3,2010-09-30,분기별 영업활동현금흐름,363300000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/75362/000119312510251749/ ; https://www.sec.gov/Archives/edgar/data/75362/000119312510181384/,누적 1162800000 − 직전누적 799500000 (시작 2010-01-01),9
+PACCAR,PCAR,2010Q3,2010-09-30,분기말 자산총계,13983500000,USD,공시,https://www.sec.gov/Archives/edgar/data/75362/000119312510251749/,,9
+PACCAR,PCAR,2010Q3,2010-09-30,분기말 부채총계,8667500000,USD,계산(부채및자본-총자본),https://www.sec.gov/Archives/edgar/data/75362/000119312510251749/,부채및자본 13983500000 − 총자본 5316000000,9
+PACCAR,PCAR,2010Q3,2010-09-30,분기말 총자본(자기자본),5316000000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/75362/000119312510251749/,"StockholdersEquity, MinorityInterest 태그 없음",9
+PACCAR,PCAR,2010Q3,2010-09-30,분기말 지배지분 자본,5316000000,USD,공시,https://www.sec.gov/Archives/edgar/data/75362/000119312510251749/,,9
+PACCAR,PCAR,2010Q3,2010-09-30,분기말 종가,48.15,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/PCAR?interval=1d&events=splits (2010-09-30),분할조정 종가 32.1 × 이후 분할계수 1.5,9
+PACCAR,PCAR,2010Q3,2010-10-31,분기말 상장주식수,364700782,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/75362/000119312510251749/,dei:EntityCommonStockSharesOutstanding 클래스 합,9
+PACCAR,PCAR,2010Q3,2010-09-30,분기말 시가총액,17560342653,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/PCAR?interval=1d&events=splits (2010-09-30) ; https://www.sec.gov/Archives/edgar/data/75362/000119312510251749/,종가 48.15 × 주식수 364700782,9
+PACCAR,PCAR,2010Q4,2010-12-31,분기별 매출액,3055600000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/75362/000119312511051678/ ; https://www.sec.gov/Archives/edgar/data/75362/000119312510251749/,연간 10292900000 − 9개월누적 7237300000 (Revenues / 9개월 SalesRevenueNet),9
+PACCAR,PCAR,2010Q4,2010-12-31,분기별 영업이익,미확인,USD,미확인,SEC companyfacts CIK0000075362: 해당 보고서에 OperatingIncomeLoss 태그 없음(영업이익 미공시) ; SEC companyfacts CIK0000075362: OperatingIncomeLoss 태그 없음(영업이익 미공시),,9
+PACCAR,PCAR,2010Q4,2010-12-31,분기별 당기순이익(지배),169800000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/75362/000119312511051678/ ; https://www.sec.gov/Archives/edgar/data/75362/000119312510251749/,연간 457600000 − 9개월누적 287800000 (NetIncomeLoss),9
+PACCAR,PCAR,2010Q4,2010-12-31,분기별 영업활동현금흐름,388600000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/75362/000119312511051678/ ; https://www.sec.gov/Archives/edgar/data/75362/000119312510251749/,누적 1551400000 − 직전누적 1162800000 (시작 2010-01-01),9
+PACCAR,PCAR,2010Q4,2010-12-31,분기말 자산총계,14234100000,USD,공시,https://www.sec.gov/Archives/edgar/data/75362/000119312511051678/,,9
+PACCAR,PCAR,2010Q4,2010-12-31,분기말 부채총계,8876300000,USD,계산(부채및자본-총자본),https://www.sec.gov/Archives/edgar/data/75362/000119312511051678/,부채및자본 14234100000 − 총자본 5357800000,9
+PACCAR,PCAR,2010Q4,2010-12-31,분기말 총자본(자기자본),5357800000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/75362/000119312511051678/,"StockholdersEquity, MinorityInterest 태그 없음",9
+PACCAR,PCAR,2010Q4,2010-12-31,분기말 지배지분 자본,5357800000,USD,공시,https://www.sec.gov/Archives/edgar/data/75362/000119312511051678/,,9
+PACCAR,PCAR,2010Q4,2010-12-31,분기말 종가,57.34,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/PCAR?interval=1d&events=splits (2010-12-31),분할조정 종가 38.2267 × 이후 분할계수 1.5,9
+PACCAR,PCAR,2010Q4,2011-01-31,분기말 상장주식수,365331459,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/75362/000119312511051678/,dei:EntityCommonStockSharesOutstanding 클래스 합,9
+PACCAR,PCAR,2010Q4,2010-12-31,분기말 시가총액,20948105859,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/PCAR?interval=1d&events=splits (2010-12-31) ; https://www.sec.gov/Archives/edgar/data/75362/000119312511051678/,종가 57.34 × 주식수 365331459,9
+PACCAR,PCAR,2011Q1,2011-03-31,분기별 매출액,3283600000,USD,공시,https://www.sec.gov/Archives/edgar/data/75362/000119312511130097/,,9
+PACCAR,PCAR,2011Q1,2011-03-31,분기별 영업이익,미확인,USD,미확인,SEC companyfacts CIK0000075362: 해당 보고서에 OperatingIncomeLoss 태그 없음(영업이익 미공시) ; SEC companyfacts CIK0000075362: OperatingIncomeLoss 태그 없음(영업이익 미공시),,9
+PACCAR,PCAR,2011Q1,2011-03-31,분기별 당기순이익(지배),193300000,USD,공시,https://www.sec.gov/Archives/edgar/data/75362/000119312511130097/,,9
+PACCAR,PCAR,2011Q1,2011-03-31,분기별 영업활동현금흐름,459300000,USD,공시,https://www.sec.gov/Archives/edgar/data/75362/000119312511130097/,,9
+PACCAR,PCAR,2011Q1,2011-03-31,분기말 자산총계,15133700000,USD,공시,https://www.sec.gov/Archives/edgar/data/75362/000119312511130097/,,9
+PACCAR,PCAR,2011Q1,2011-03-31,분기말 부채총계,9484800000,USD,계산(부채및자본-총자본),https://www.sec.gov/Archives/edgar/data/75362/000119312511130097/,부채및자본 15133700000 − 총자본 5648900000,9
+PACCAR,PCAR,2011Q1,2011-03-31,분기말 총자본(자기자본),5648900000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/75362/000119312511130097/,"StockholdersEquity, MinorityInterest 태그 없음",9
+PACCAR,PCAR,2011Q1,2011-03-31,분기말 지배지분 자본,5648900000,USD,공시,https://www.sec.gov/Archives/edgar/data/75362/000119312511130097/,,9
+PACCAR,PCAR,2011Q1,2011-03-31,분기말 종가,52.36,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/PCAR?interval=1d&events=splits (2011-03-31),분할조정 종가 34.9067 × 이후 분할계수 1.5,9
+PACCAR,PCAR,2011Q1,2011-04-30,분기말 상장주식수,365468969,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/75362/000119312511130097/,dei:EntityCommonStockSharesOutstanding 클래스 합,9
+PACCAR,PCAR,2011Q1,2011-03-31,분기말 시가총액,19135955217,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/PCAR?interval=1d&events=splits (2011-03-31) ; https://www.sec.gov/Archives/edgar/data/75362/000119312511130097/,종가 52.36 × 주식수 365468969,9
+PACCAR,PCAR,2011Q2,2011-06-30,분기별 매출액,3960700000,USD,공시,https://www.sec.gov/Archives/edgar/data/75362/000119312511214310/,,9
+PACCAR,PCAR,2011Q2,2011-06-30,분기별 영업이익,미확인,USD,미확인,SEC companyfacts CIK0000075362: 해당 보고서에 OperatingIncomeLoss 태그 없음(영업이익 미공시) ; SEC companyfacts CIK0000075362: OperatingIncomeLoss 태그 없음(영업이익 미공시),,9
+PACCAR,PCAR,2011Q2,2011-06-30,분기별 당기순이익(지배),239700000,USD,공시,https://www.sec.gov/Archives/edgar/data/75362/000119312511214310/,,9
+PACCAR,PCAR,2011Q2,2011-06-30,분기별 영업활동현금흐름,332700000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/75362/000119312511214310/ ; https://www.sec.gov/Archives/edgar/data/75362/000119312511130097/,누적 792000000 − 직전누적 459300000 (시작 2011-01-01),9
+PACCAR,PCAR,2011Q2,2011-06-30,분기말 자산총계,16301000000,USD,공시,https://www.sec.gov/Archives/edgar/data/75362/000119312511214310/,,9
+PACCAR,PCAR,2011Q2,2011-06-30,분기말 부채총계,10387000000,USD,계산(부채및자본-총자본),https://www.sec.gov/Archives/edgar/data/75362/000119312511214310/,부채및자본 16301000000 − 총자본 5914000000,9
+PACCAR,PCAR,2011Q2,2011-06-30,분기말 총자본(자기자본),5914000000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/75362/000119312511214310/,"StockholdersEquity, MinorityInterest 태그 없음",9
+PACCAR,PCAR,2011Q2,2011-06-30,분기말 지배지분 자본,5914000000,USD,공시,https://www.sec.gov/Archives/edgar/data/75362/000119312511214310/,,9
+PACCAR,PCAR,2011Q2,2011-06-30,분기말 종가,51.09,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/PCAR?interval=1d&events=splits (2011-06-30),분할조정 종가 34.06 × 이후 분할계수 1.5,9
+PACCAR,PCAR,2011Q2,2011-07-31,분기말 상장주식수,365516212,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/75362/000119312511214310/,dei:EntityCommonStockSharesOutstanding 클래스 합,9
+PACCAR,PCAR,2011Q2,2011-06-30,분기말 시가총액,18674223271,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/PCAR?interval=1d&events=splits (2011-06-30) ; https://www.sec.gov/Archives/edgar/data/75362/000119312511214310/,종가 51.09 × 주식수 365516212,9
+PACCAR,PCAR,2011Q3,2011-09-30,분기별 매출액,4257100000,USD,공시,https://www.sec.gov/Archives/edgar/data/75362/000119312511299857/,,9
+PACCAR,PCAR,2011Q3,2011-09-30,분기별 영업이익,미확인,USD,미확인,SEC companyfacts CIK0000075362: 해당 보고서에 OperatingIncomeLoss 태그 없음(영업이익 미공시) ; SEC companyfacts CIK0000075362: OperatingIncomeLoss 태그 없음(영업이익 미공시),,9
+PACCAR,PCAR,2011Q3,2011-09-30,분기별 당기순이익(지배),281600000,USD,공시,https://www.sec.gov/Archives/edgar/data/75362/000119312511299857/,,9
+PACCAR,PCAR,2011Q3,2011-09-30,분기별 영업활동현금흐름,359300000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/75362/000119312511299857/ ; https://www.sec.gov/Archives/edgar/data/75362/000119312511214310/,누적 1151300000 − 직전누적 792000000 (시작 2011-01-01),9
+PACCAR,PCAR,2011Q3,2011-09-30,분기말 자산총계,16354300000,USD,공시,https://www.sec.gov/Archives/edgar/data/75362/000119312511299857/,,9
+PACCAR,PCAR,2011Q3,2011-09-30,분기말 부채총계,10760400000,USD,계산(부채및자본-총자본),https://www.sec.gov/Archives/edgar/data/75362/000119312511299857/,부채및자본 16354300000 − 총자본 5593900000,9
+PACCAR,PCAR,2011Q3,2011-09-30,분기말 총자본(자기자본),5593900000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/75362/000119312511299857/,"StockholdersEquity, MinorityInterest 태그 없음",9
+PACCAR,PCAR,2011Q3,2011-09-30,분기말 지배지분 자본,5593900000,USD,공시,https://www.sec.gov/Archives/edgar/data/75362/000119312511299857/,,9
+PACCAR,PCAR,2011Q3,2011-09-30,분기말 종가,33.82,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/PCAR?interval=1d&events=splits (2011-09-30),분할조정 종가 22.5467 × 이후 분할계수 1.5,9
+PACCAR,PCAR,2011Q3,2011-10-31,분기말 상장주식수,358217233,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/75362/000119312511299857/,dei:EntityCommonStockSharesOutstanding 클래스 합,9
+PACCAR,PCAR,2011Q3,2011-09-30,분기말 시가총액,12114906820,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/PCAR?interval=1d&events=splits (2011-09-30) ; https://www.sec.gov/Archives/edgar/data/75362/000119312511299857/,종가 33.82 × 주식수 358217233,9
+PACCAR,PCAR,2011Q4,2011-12-31,분기별 매출액,4853800000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/75362/000119312512086978/ ; https://www.sec.gov/Archives/edgar/data/75362/000119312511299857/,연간 16355200000 − 9개월누적 11501400000 (Revenues / 9개월 SalesRevenueNet),9
+PACCAR,PCAR,2011Q4,2011-12-31,분기별 영업이익,미확인,USD,미확인,SEC companyfacts CIK0000075362: 해당 보고서에 OperatingIncomeLoss 태그 없음(영업이익 미공시) ; SEC companyfacts CIK0000075362: OperatingIncomeLoss 태그 없음(영업이익 미공시),,9
+PACCAR,PCAR,2011Q4,2011-12-31,분기별 당기순이익(지배),327700000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/75362/000119312512086978/ ; https://www.sec.gov/Archives/edgar/data/75362/000119312511299857/,연간 1042300000 − 9개월누적 714600000 (NetIncomeLoss),9
+PACCAR,PCAR,2011Q4,2011-12-31,분기별 영업활동현금흐름,441300000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/75362/000119312512086978/ ; https://www.sec.gov/Archives/edgar/data/75362/000119312511299857/,누적 1592600000 − 직전누적 1151300000 (시작 2011-01-01),9
+PACCAR,PCAR,2011Q4,2011-12-31,분기말 자산총계,17172700000,USD,공시,https://www.sec.gov/Archives/edgar/data/75362/000119312512086978/,,9
+PACCAR,PCAR,2011Q4,2011-12-31,분기말 부채총계,11808300000,USD,계산(부채및자본-총자본),https://www.sec.gov/Archives/edgar/data/75362/000119312512086978/,부채및자본 17172700000 − 총자본 5364400000,9
+PACCAR,PCAR,2011Q4,2011-12-31,분기말 총자본(자기자본),5364400000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/75362/000119312512086978/,"StockholdersEquity, MinorityInterest 태그 없음",9
+PACCAR,PCAR,2011Q4,2011-12-31,분기말 지배지분 자본,5364400000,USD,공시,https://www.sec.gov/Archives/edgar/data/75362/000119312512086978/,,9
+PACCAR,PCAR,2011Q4,2011-12-30,분기말 종가,37.47,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/PCAR?interval=1d&events=splits (2011-12-30),분할조정 종가 24.98 × 이후 분할계수 1.5,9
+PACCAR,PCAR,2011Q4,2012-01-31,분기말 상장주식수,356877678,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/75362/000119312512086978/,dei:EntityCommonStockSharesOutstanding 클래스 합,9
+PACCAR,PCAR,2011Q4,2011-12-30,분기말 시가총액,13372206595,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/PCAR?interval=1d&events=splits (2011-12-30) ; https://www.sec.gov/Archives/edgar/data/75362/000119312512086978/,종가 37.47 × 주식수 356877678,9
+PACCAR,PCAR,2012Q1,2012-03-31,분기별 매출액,4776100000,USD,공시,https://www.sec.gov/Archives/edgar/data/75362/000119312512224972/,,9
+PACCAR,PCAR,2012Q1,2012-03-31,분기별 영업이익,미확인,USD,미확인,SEC companyfacts CIK0000075362: 해당 보고서에 OperatingIncomeLoss 태그 없음(영업이익 미공시) ; SEC companyfacts CIK0000075362: OperatingIncomeLoss 태그 없음(영업이익 미공시),,9
+PACCAR,PCAR,2012Q1,2012-03-31,분기별 당기순이익(지배),327300000,USD,공시,https://www.sec.gov/Archives/edgar/data/75362/000119312512224972/,,9
+PACCAR,PCAR,2012Q1,2012-03-31,분기별 영업활동현금흐름,126300000,USD,공시,https://www.sec.gov/Archives/edgar/data/75362/000119312512224972/,,9
+PACCAR,PCAR,2012Q1,2012-03-31,분기말 자산총계,18157800000,USD,공시,https://www.sec.gov/Archives/edgar/data/75362/000119312512224972/,,9
+PACCAR,PCAR,2012Q1,2012-03-31,분기말 부채총계,12438700000,USD,계산(부채및자본-총자본),https://www.sec.gov/Archives/edgar/data/75362/000119312512224972/,부채및자본 18157800000 − 총자본 5719100000,9
+PACCAR,PCAR,2012Q1,2012-03-31,분기말 총자본(자기자본),5719100000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/75362/000119312512224972/,"StockholdersEquity, MinorityInterest 태그 없음",9
+PACCAR,PCAR,2012Q1,2012-03-31,분기말 지배지분 자본,5719100000,USD,공시,https://www.sec.gov/Archives/edgar/data/75362/000119312512224972/,,9
+PACCAR,PCAR,2012Q1,2012-03-30,분기말 종가,46.83,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/PCAR?interval=1d&events=splits (2012-03-30),분할조정 종가 31.22 × 이후 분할계수 1.5,9
+PACCAR,PCAR,2012Q1,2012-04-30,분기말 상장주식수,356687249,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/75362/000119312512224972/,dei:EntityCommonStockSharesOutstanding 클래스 합,9
+PACCAR,PCAR,2012Q1,2012-03-30,분기말 시가총액,16703663871,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/PCAR?interval=1d&events=splits (2012-03-30) ; https://www.sec.gov/Archives/edgar/data/75362/000119312512224972/,종가 46.83 × 주식수 356687249,9
+PACCAR,PCAR,2012Q2,2012-06-30,분기별 매출액,4457200000,USD,공시,https://www.sec.gov/Archives/edgar/data/75362/000119312512344247/,,9
+PACCAR,PCAR,2012Q2,2012-06-30,분기별 영업이익,미확인,USD,미확인,SEC companyfacts CIK0000075362: 해당 보고서에 OperatingIncomeLoss 태그 없음(영업이익 미공시) ; SEC companyfacts CIK0000075362: OperatingIncomeLoss 태그 없음(영업이익 미공시),,9
+PACCAR,PCAR,2012Q2,2012-06-30,분기별 당기순이익(지배),297200000,USD,공시,https://www.sec.gov/Archives/edgar/data/75362/000119312512344247/,,9
+PACCAR,PCAR,2012Q2,2012-06-30,분기별 영업활동현금흐름,317700000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/75362/000119312512344247/ ; https://www.sec.gov/Archives/edgar/data/75362/000119312512224972/,누적 444000000 − 직전누적 126300000 (시작 2012-01-01),9
+PACCAR,PCAR,2012Q2,2012-06-30,분기말 자산총계,18244800000,USD,공시,https://www.sec.gov/Archives/edgar/data/75362/000119312512344247/,,9
+PACCAR,PCAR,2012Q2,2012-06-30,분기말 부채총계,12532700000,USD,계산(부채및자본-총자본),https://www.sec.gov/Archives/edgar/data/75362/000119312512344247/,부채및자본 18244800000 − 총자본 5712100000,9
+PACCAR,PCAR,2012Q2,2012-06-30,분기말 총자본(자기자본),5712100000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/75362/000119312512344247/,"StockholdersEquity, MinorityInterest 태그 없음",9
+PACCAR,PCAR,2012Q2,2012-06-30,분기말 지배지분 자본,5712100000,USD,공시,https://www.sec.gov/Archives/edgar/data/75362/000119312512344247/,,9
+PACCAR,PCAR,2012Q2,2012-06-29,분기말 종가,39.19,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/PCAR?interval=1d&events=splits (2012-06-29),분할조정 종가 26.1267 × 이후 분할계수 1.5,9
+PACCAR,PCAR,2012Q2,2012-07-31,분기말 상장주식수,353505180,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/75362/000119312512344247/,dei:EntityCommonStockSharesOutstanding 클래스 합,9
+PACCAR,PCAR,2012Q2,2012-06-29,분기말 시가총액,13853868004,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/PCAR?interval=1d&events=splits (2012-06-29) ; https://www.sec.gov/Archives/edgar/data/75362/000119312512344247/,종가 39.19 × 주식수 353505180,9
+PACCAR,PCAR,2012Q3,2012-09-30,분기별 매출액,3820200000,USD,공시,https://www.sec.gov/Archives/edgar/data/75362/000119312512457500/,,9
+PACCAR,PCAR,2012Q3,2012-09-30,분기별 영업이익,미확인,USD,미확인,SEC companyfacts CIK0000075362: 해당 보고서에 OperatingIncomeLoss 태그 없음(영업이익 미공시) ; SEC companyfacts CIK0000075362: OperatingIncomeLoss 태그 없음(영업이익 미공시),,9
+PACCAR,PCAR,2012Q3,2012-09-30,분기별 당기순이익(지배),233600000,USD,공시,https://www.sec.gov/Archives/edgar/data/75362/000119312512457500/,,9
+PACCAR,PCAR,2012Q3,2012-09-30,분기별 영업활동현금흐름,472600000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/75362/000119312512457500/ ; https://www.sec.gov/Archives/edgar/data/75362/000119312512344247/,누적 916600000 − 직전누적 444000000 (시작 2012-01-01),9
+PACCAR,PCAR,2012Q3,2012-09-30,분기말 자산총계,18692500000,USD,공시,https://www.sec.gov/Archives/edgar/data/75362/000119312512457500/,,9
+PACCAR,PCAR,2012Q3,2012-09-30,분기말 부채총계,12830400000,USD,계산(부채및자본-총자본),https://www.sec.gov/Archives/edgar/data/75362/000119312512457500/,부채및자본 18692500000 − 총자본 5862100000,9
+PACCAR,PCAR,2012Q3,2012-09-30,분기말 총자본(자기자본),5862100000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/75362/000119312512457500/,"StockholdersEquity, MinorityInterest 태그 없음",9
+PACCAR,PCAR,2012Q3,2012-09-30,분기말 지배지분 자본,5862100000,USD,공시,https://www.sec.gov/Archives/edgar/data/75362/000119312512457500/,,9
+PACCAR,PCAR,2012Q3,2012-09-28,분기말 종가,40.02,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/PCAR?interval=1d&events=splits (2012-09-28),분할조정 종가 26.68 × 이후 분할계수 1.5,9
+PACCAR,PCAR,2012Q3,2012-10-31,분기말 상장주식수,353030892,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/75362/000119312512457500/,dei:EntityCommonStockSharesOutstanding 클래스 합,9
+PACCAR,PCAR,2012Q3,2012-09-28,분기말 시가총액,14128296298,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/PCAR?interval=1d&events=splits (2012-09-28) ; https://www.sec.gov/Archives/edgar/data/75362/000119312512457500/,종가 40.02 × 주식수 353030892,9
+PACCAR,PCAR,2012Q4,2012-12-31,분기별 매출액,3997000000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/75362/000119312513080215/ ; https://www.sec.gov/Archives/edgar/data/75362/000119312512457500/,연간 17050500000 − 9개월누적 13053500000 (Revenues / 9개월 SalesRevenueNet),9
+PACCAR,PCAR,2012Q4,2012-12-31,분기별 영업이익,미확인,USD,미확인,SEC companyfacts CIK0000075362: 해당 보고서에 OperatingIncomeLoss 태그 없음(영업이익 미공시) ; SEC companyfacts CIK0000075362: OperatingIncomeLoss 태그 없음(영업이익 미공시),,9
+PACCAR,PCAR,2012Q4,2012-12-31,분기별 당기순이익(지배),253500000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/75362/000119312513080215/ ; https://www.sec.gov/Archives/edgar/data/75362/000119312512457500/,연간 1111600000 − 9개월누적 858100000 (NetIncomeLoss),9
+PACCAR,PCAR,2012Q4,2012-12-31,분기별 영업활동현금흐름,602400000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/75362/000119312513080215/ ; https://www.sec.gov/Archives/edgar/data/75362/000119312512457500/,누적 1519000000 − 직전누적 916600000 (시작 2012-01-01),9
+PACCAR,PCAR,2012Q4,2012-12-31,분기말 자산총계,18627800000,USD,공시,https://www.sec.gov/Archives/edgar/data/75362/000119312513080215/,,9
+PACCAR,PCAR,2012Q4,2012-12-31,분기말 부채총계,12780900000,USD,계산(부채및자본-총자본),https://www.sec.gov/Archives/edgar/data/75362/000119312513080215/,부채및자본 18627800000 − 총자본 5846900000,9
+PACCAR,PCAR,2012Q4,2012-12-31,분기말 총자본(자기자본),5846900000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/75362/000119312513080215/,"StockholdersEquity, MinorityInterest 태그 없음",9
+PACCAR,PCAR,2012Q4,2012-12-31,분기말 지배지분 자본,5846900000,USD,공시,https://www.sec.gov/Archives/edgar/data/75362/000119312513080215/,,9
+PACCAR,PCAR,2012Q4,2012-12-31,분기말 종가,45.21,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/PCAR?interval=1d&events=splits (2012-12-31),분할조정 종가 30.14 × 이후 분할계수 1.5,9
+PACCAR,PCAR,2012Q4,2013-01-31,분기말 상장주식수,353468322,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/75362/000119312513080215/,dei:EntityCommonStockSharesOutstanding 클래스 합,9
+PACCAR,PCAR,2012Q4,2012-12-31,분기말 시가총액,15980302838,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/PCAR?interval=1d&events=splits (2012-12-31) ; https://www.sec.gov/Archives/edgar/data/75362/000119312513080215/,종가 45.21 × 주식수 353468322,9
+PACCAR,PCAR,2013Q1,2013-03-31,분기별 매출액,3924300000,USD,공시,https://www.sec.gov/Archives/edgar/data/75362/000119312513207512/,,9
+PACCAR,PCAR,2013Q1,2013-03-31,분기별 영업이익,미확인,USD,미확인,SEC companyfacts CIK0000075362: 해당 보고서에 OperatingIncomeLoss 태그 없음(영업이익 미공시) ; SEC companyfacts CIK0000075362: OperatingIncomeLoss 태그 없음(영업이익 미공시),,9
+PACCAR,PCAR,2013Q1,2013-03-31,분기별 당기순이익(지배),236100000,USD,공시,https://www.sec.gov/Archives/edgar/data/75362/000119312513207512/,,9
+PACCAR,PCAR,2013Q1,2013-03-31,분기별 영업활동현금흐름,384000000,USD,공시,https://www.sec.gov/Archives/edgar/data/75362/000119312513207512/,,9
+PACCAR,PCAR,2013Q1,2013-03-31,분기말 자산총계,18834100000,USD,공시,https://www.sec.gov/Archives/edgar/data/75362/000119312513207512/,,9
+PACCAR,PCAR,2013Q1,2013-03-31,분기말 부채총계,12886200000,USD,계산(부채및자본-총자본),https://www.sec.gov/Archives/edgar/data/75362/000119312513207512/,부채및자본 18834100000 − 총자본 5947900000,9
+PACCAR,PCAR,2013Q1,2013-03-31,분기말 총자본(자기자본),5947900000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/75362/000119312513207512/,"StockholdersEquity, MinorityInterest 태그 없음",9
+PACCAR,PCAR,2013Q1,2013-03-31,분기말 지배지분 자본,5947900000,USD,공시,https://www.sec.gov/Archives/edgar/data/75362/000119312513207512/,,9
+PACCAR,PCAR,2013Q1,2013-03-28,분기말 종가,50.56,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/PCAR?interval=1d&events=splits (2013-03-28),분할조정 종가 33.7067 × 이후 분할계수 1.5,9
+PACCAR,PCAR,2013Q1,2013-04-30,분기말 상장주식수,353720149,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/75362/000119312513207512/,dei:EntityCommonStockSharesOutstanding 클래스 합,9
+PACCAR,PCAR,2013Q1,2013-03-28,분기말 시가총액,17884090733,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/PCAR?interval=1d&events=splits (2013-03-28) ; https://www.sec.gov/Archives/edgar/data/75362/000119312513207512/,종가 50.56 × 주식수 353720149,9
+PACCAR,PCAR,2013Q2,2013-06-30,분기별 매출액,4300500000,USD,공시,https://www.sec.gov/Archives/edgar/data/75362/000119312513324177/,,9
+PACCAR,PCAR,2013Q2,2013-06-30,분기별 영업이익,미확인,USD,미확인,SEC companyfacts CIK0000075362: 해당 보고서에 OperatingIncomeLoss 태그 없음(영업이익 미공시) ; SEC companyfacts CIK0000075362: OperatingIncomeLoss 태그 없음(영업이익 미공시),,9
+PACCAR,PCAR,2013Q2,2013-06-30,분기별 당기순이익(지배),291600000,USD,공시,https://www.sec.gov/Archives/edgar/data/75362/000119312513324177/,,9
+PACCAR,PCAR,2013Q2,2013-06-30,분기별 영업활동현금흐름,768600000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/75362/000119312513324177/ ; https://www.sec.gov/Archives/edgar/data/75362/000119312513207512/,누적 1152600000 − 직전누적 384000000 (시작 2013-01-01),9
+PACCAR,PCAR,2013Q2,2013-06-30,분기말 자산총계,19202000000,USD,공시,https://www.sec.gov/Archives/edgar/data/75362/000119312513324177/,,9
+PACCAR,PCAR,2013Q2,2013-06-30,분기말 부채총계,13090400000,USD,계산(부채및자본-총자본),https://www.sec.gov/Archives/edgar/data/75362/000119312513324177/,부채및자본 19202000000 − 총자본 6111600000,9
+PACCAR,PCAR,2013Q2,2013-06-30,분기말 총자본(자기자본),6111600000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/75362/000119312513324177/,"StockholdersEquity, MinorityInterest 태그 없음",9
+PACCAR,PCAR,2013Q2,2013-06-30,분기말 지배지분 자본,6111600000,USD,공시,https://www.sec.gov/Archives/edgar/data/75362/000119312513324177/,,9
+PACCAR,PCAR,2013Q2,2013-06-28,분기말 종가,53.66,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/PCAR?interval=1d&events=splits (2013-06-28),분할조정 종가 35.7733 × 이후 분할계수 1.5,9
+PACCAR,PCAR,2013Q2,2013-07-31,분기말 상장주식수,353973089,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/75362/000119312513324177/,dei:EntityCommonStockSharesOutstanding 클래스 합,9
+PACCAR,PCAR,2013Q2,2013-06-28,분기말 시가총액,18994195956,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/PCAR?interval=1d&events=splits (2013-06-28) ; https://www.sec.gov/Archives/edgar/data/75362/000119312513324177/,종가 53.66 × 주식수 353973089,9
+PACCAR,PCAR,2013Q3,2013-09-30,분기별 매출액,4300100000,USD,공시,https://www.sec.gov/Archives/edgar/data/75362/000119312513432974/,,9
+PACCAR,PCAR,2013Q3,2013-09-30,분기별 영업이익,미확인,USD,미확인,SEC companyfacts CIK0000075362: 해당 보고서에 OperatingIncomeLoss 태그 없음(영업이익 미공시) ; SEC companyfacts CIK0000075362: OperatingIncomeLoss 태그 없음(영업이익 미공시),,9
+PACCAR,PCAR,2013Q3,2013-09-30,분기별 당기순이익(지배),309400000,USD,공시,https://www.sec.gov/Archives/edgar/data/75362/000119312513432974/,,9
+PACCAR,PCAR,2013Q3,2013-09-30,분기별 영업활동현금흐름,547700000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/75362/000119312513432974/ ; https://www.sec.gov/Archives/edgar/data/75362/000119312513324177/,누적 1700300000 − 직전누적 1152600000 (시작 2013-01-01),9
+PACCAR,PCAR,2013Q3,2013-09-30,분기말 자산총계,20311600000,USD,공시,https://www.sec.gov/Archives/edgar/data/75362/000119312513432974/,,9
+PACCAR,PCAR,2013Q3,2013-09-30,분기말 부채총계,13830700000,USD,계산(부채및자본-총자본),https://www.sec.gov/Archives/edgar/data/75362/000119312513432974/,부채및자본 20311600000 − 총자본 6480900000,9
+PACCAR,PCAR,2013Q3,2013-09-30,분기말 총자본(자기자본),6480900000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/75362/000119312513432974/,"StockholdersEquity, MinorityInterest 태그 없음",9
+PACCAR,PCAR,2013Q3,2013-09-30,분기말 지배지분 자본,6480900000,USD,공시,https://www.sec.gov/Archives/edgar/data/75362/000119312513432974/,,9
+PACCAR,PCAR,2013Q3,2013-09-30,분기말 종가,55.66,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/PCAR?interval=1d&events=splits (2013-09-30),분할조정 종가 37.1067 × 이후 분할계수 1.5,9
+PACCAR,PCAR,2013Q3,2013-10-31,분기말 상장주식수,354091886,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/75362/000119312513432974/,dei:EntityCommonStockSharesOutstanding 클래스 합,9
+PACCAR,PCAR,2013Q3,2013-09-30,분기말 시가총액,19708754375,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/PCAR?interval=1d&events=splits (2013-09-30) ; https://www.sec.gov/Archives/edgar/data/75362/000119312513432974/,종가 55.66 × 주식수 354091886,9
+PACCAR,PCAR,2013Q4,2013-12-31,분기별 매출액,4598900000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/75362/000119312514073103/ ; https://www.sec.gov/Archives/edgar/data/75362/000119312513432974/,연간 17123800000 − 9개월누적 12524900000 (Revenues / 9개월 SalesRevenueNet),9
+PACCAR,PCAR,2013Q4,2013-12-31,분기별 영업이익,미확인,USD,미확인,SEC companyfacts CIK0000075362: 해당 보고서에 OperatingIncomeLoss 태그 없음(영업이익 미공시) ; SEC companyfacts CIK0000075362: OperatingIncomeLoss 태그 없음(영업이익 미공시),,9
+PACCAR,PCAR,2013Q4,2013-12-31,분기별 당기순이익(지배),334200000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/75362/000119312514073103/ ; https://www.sec.gov/Archives/edgar/data/75362/000119312513432974/,연간 1171300000 − 9개월누적 837100000 (NetIncomeLoss),9
+PACCAR,PCAR,2013Q4,2013-12-31,분기별 영업활동현금흐름,675400000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/75362/000119312514073103/ ; https://www.sec.gov/Archives/edgar/data/75362/000119312513432974/,누적 2375700000 − 직전누적 1700300000 (시작 2013-01-01),9
+PACCAR,PCAR,2013Q4,2013-12-31,분기말 자산총계,20725500000,USD,공시,https://www.sec.gov/Archives/edgar/data/75362/000119312514073103/,,9
+PACCAR,PCAR,2013Q4,2013-12-31,분기말 부채총계,14091200000,USD,계산(부채및자본-총자본),https://www.sec.gov/Archives/edgar/data/75362/000119312514073103/,부채및자본 20725500000 − 총자본 6634300000,9
+PACCAR,PCAR,2013Q4,2013-12-31,분기말 총자본(자기자본),6634300000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/75362/000119312514073103/,"StockholdersEquity, MinorityInterest 태그 없음",9
+PACCAR,PCAR,2013Q4,2013-12-31,분기말 지배지분 자본,6634300000,USD,공시,https://www.sec.gov/Archives/edgar/data/75362/000119312514073103/,,9
+PACCAR,PCAR,2013Q4,2013-12-31,분기말 종가,59.17,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/PCAR?interval=1d&events=splits (2013-12-31),분할조정 종가 39.4467 × 이후 분할계수 1.5,9
+PACCAR,PCAR,2013Q4,2014-01-31,분기말 상장주식수,354402609,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/75362/000119312514073103/,dei:EntityCommonStockSharesOutstanding 클래스 합,9
+PACCAR,PCAR,2013Q4,2013-12-31,분기말 시가총액,20970002375,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/PCAR?interval=1d&events=splits (2013-12-31) ; https://www.sec.gov/Archives/edgar/data/75362/000119312514073103/,종가 59.17 × 주식수 354402609,9
+PACCAR,PCAR,2014Q1,2014-03-31,분기별 매출액,4379900000,USD,공시,https://www.sec.gov/Archives/edgar/data/75362/000119312514187511/,,9
+PACCAR,PCAR,2014Q1,2014-03-31,분기별 영업이익,미확인,USD,미확인,SEC companyfacts CIK0000075362: 해당 보고서에 OperatingIncomeLoss 태그 없음(영업이익 미공시) ; SEC companyfacts CIK0000075362: OperatingIncomeLoss 태그 없음(영업이익 미공시),,9
+PACCAR,PCAR,2014Q1,2014-03-31,분기별 당기순이익(지배),273900000,USD,공시,https://www.sec.gov/Archives/edgar/data/75362/000119312514187511/,,9
+PACCAR,PCAR,2014Q1,2014-03-31,분기별 영업활동현금흐름,285700000,USD,공시,https://www.sec.gov/Archives/edgar/data/75362/000119312514187511/,,9
+PACCAR,PCAR,2014Q1,2014-03-31,분기말 자산총계,20597600000,USD,공시,https://www.sec.gov/Archives/edgar/data/75362/000119312514187511/,,9
+PACCAR,PCAR,2014Q1,2014-03-31,분기말 부채총계,13734100000,USD,계산(부채및자본-총자본),https://www.sec.gov/Archives/edgar/data/75362/000119312514187511/,부채및자본 20597600000 − 총자본 6863500000,9
+PACCAR,PCAR,2014Q1,2014-03-31,분기말 총자본(자기자본),6863500000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/75362/000119312514187511/,"StockholdersEquity, MinorityInterest 태그 없음",9
+PACCAR,PCAR,2014Q1,2014-03-31,분기말 지배지분 자본,6863500000,USD,공시,https://www.sec.gov/Archives/edgar/data/75362/000119312514187511/,,9
+PACCAR,PCAR,2014Q1,2014-03-31,분기말 종가,67.44,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/PCAR?interval=1d&events=splits (2014-03-31),분할조정 종가 44.96 × 이후 분할계수 1.5,9
+PACCAR,PCAR,2014Q1,2014-04-30,분기말 상장주식수,354697430,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/75362/000119312514187511/,dei:EntityCommonStockSharesOutstanding 클래스 합,9
+PACCAR,PCAR,2014Q1,2014-03-31,분기말 시가총액,23920794679,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/PCAR?interval=1d&events=splits (2014-03-31) ; https://www.sec.gov/Archives/edgar/data/75362/000119312514187511/,종가 67.44 × 주식수 354697430,9
+PACCAR,PCAR,2014Q2,2014-06-30,분기별 매출액,4569600000,USD,공시,https://www.sec.gov/Archives/edgar/data/75362/000119312514300871/,,9
+PACCAR,PCAR,2014Q2,2014-06-30,분기별 영업이익,미확인,USD,미확인,SEC companyfacts CIK0000075362: 해당 보고서에 OperatingIncomeLoss 태그 없음(영업이익 미공시) ; SEC companyfacts CIK0000075362: OperatingIncomeLoss 태그 없음(영업이익 미공시),,9
+PACCAR,PCAR,2014Q2,2014-06-30,분기별 당기순이익(지배),319200000,USD,공시,https://www.sec.gov/Archives/edgar/data/75362/000119312514300871/,,9
+PACCAR,PCAR,2014Q2,2014-06-30,분기별 영업활동현금흐름,555100000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/75362/000119312514300871/ ; https://www.sec.gov/Archives/edgar/data/75362/000119312514187511/,누적 840800000 − 직전누적 285700000 (시작 2014-01-01),9
+PACCAR,PCAR,2014Q2,2014-06-30,분기말 자산총계,20907400000,USD,공시,https://www.sec.gov/Archives/edgar/data/75362/000119312514300871/,,9
+PACCAR,PCAR,2014Q2,2014-06-30,분기말 부채총계,13748100000,USD,계산(부채및자본-총자본),https://www.sec.gov/Archives/edgar/data/75362/000119312514300871/,부채및자본 20907400000 − 총자본 7159300000,9
+PACCAR,PCAR,2014Q2,2014-06-30,분기말 총자본(자기자본),7159300000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/75362/000119312514300871/,"StockholdersEquity, MinorityInterest 태그 없음",9
+PACCAR,PCAR,2014Q2,2014-06-30,분기말 지배지분 자본,7159300000,USD,공시,https://www.sec.gov/Archives/edgar/data/75362/000119312514300871/,,9
+PACCAR,PCAR,2014Q2,2014-06-30,분기말 종가,62.83,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/PCAR?interval=1d&events=splits (2014-06-30),분할조정 종가 41.8867 × 이후 분할계수 1.5,9
+PACCAR,PCAR,2014Q2,2014-07-31,분기말 상장주식수,354768689,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/75362/000119312514300871/,dei:EntityCommonStockSharesOutstanding 클래스 합,9
+PACCAR,PCAR,2014Q2,2014-06-30,분기말 시가총액,22290116730,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/PCAR?interval=1d&events=splits (2014-06-30) ; https://www.sec.gov/Archives/edgar/data/75362/000119312514300871/,종가 62.83 × 주식수 354768689,9
+PACCAR,PCAR,2014Q3,2014-09-30,분기별 매출액,4928400000,USD,공시,https://www.sec.gov/Archives/edgar/data/75362/000119312514401045/,,9
+PACCAR,PCAR,2014Q3,2014-09-30,분기별 영업이익,미확인,USD,미확인,SEC companyfacts CIK0000075362: 해당 보고서에 OperatingIncomeLoss 태그 없음(영업이익 미공시) ; SEC companyfacts CIK0000075362: OperatingIncomeLoss 태그 없음(영업이익 미공시),,9
+PACCAR,PCAR,2014Q3,2014-09-30,분기별 당기순이익(지배),371400000,USD,공시,https://www.sec.gov/Archives/edgar/data/75362/000119312514401045/,,9
+PACCAR,PCAR,2014Q3,2014-09-30,분기별 영업활동현금흐름,760800000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/75362/000119312514401045/ ; https://www.sec.gov/Archives/edgar/data/75362/000119312514300871/,누적 1601600000 − 직전누적 840800000 (시작 2014-01-01),9
+PACCAR,PCAR,2014Q3,2014-09-30,분기말 자산총계,21026100000,USD,공시,https://www.sec.gov/Archives/edgar/data/75362/000119312514401045/,,9
+PACCAR,PCAR,2014Q3,2014-09-30,분기말 부채총계,13863400000,USD,계산(부채및자본-총자본),https://www.sec.gov/Archives/edgar/data/75362/000119312514401045/,부채및자본 21026100000 − 총자본 7162700000,9
+PACCAR,PCAR,2014Q3,2014-09-30,분기말 총자본(자기자본),7162700000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/75362/000119312514401045/,"StockholdersEquity, MinorityInterest 태그 없음",9
+PACCAR,PCAR,2014Q3,2014-09-30,분기말 지배지분 자본,7162700000,USD,공시,https://www.sec.gov/Archives/edgar/data/75362/000119312514401045/,,9
+PACCAR,PCAR,2014Q3,2014-09-30,분기말 종가,56.88,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/PCAR?interval=1d&events=splits (2014-09-30),분할조정 종가 37.92 × 이후 분할계수 1.5,9
+PACCAR,PCAR,2014Q3,2014-10-31,분기말 상장주식수,354104279,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/75362/000119312514401045/,dei:EntityCommonStockSharesOutstanding 클래스 합,9
+PACCAR,PCAR,2014Q3,2014-09-30,분기말 시가총액,20141451390,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/PCAR?interval=1d&events=splits (2014-09-30) ; https://www.sec.gov/Archives/edgar/data/75362/000119312514401045/,종가 56.88 × 주식수 354104279,9
+PACCAR,PCAR,2014Q4,2014-12-31,분기별 매출액,5119100000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/75362/000119312515065702/ ; https://www.sec.gov/Archives/edgar/data/75362/000119312514401045/,연간 18997000000 − 9개월누적 13877900000 (Revenues / 9개월 SalesRevenueNet),9
+PACCAR,PCAR,2014Q4,2014-12-31,분기별 영업이익,미확인,USD,미확인,SEC companyfacts CIK0000075362: 해당 보고서에 OperatingIncomeLoss 태그 없음(영업이익 미공시) ; SEC companyfacts CIK0000075362: OperatingIncomeLoss 태그 없음(영업이익 미공시),,9
+PACCAR,PCAR,2014Q4,2014-12-31,분기별 당기순이익(지배),394300000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/75362/000119312515065702/ ; https://www.sec.gov/Archives/edgar/data/75362/000119312514401045/,연간 1358800000 − 9개월누적 964500000 (NetIncomeLoss),9
+PACCAR,PCAR,2014Q4,2014-12-31,분기별 영업활동현금흐름,522000000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/75362/000119312515065702/ ; https://www.sec.gov/Archives/edgar/data/75362/000119312514401045/,누적 2123600000 − 직전누적 1601600000 (시작 2014-01-01),9
+PACCAR,PCAR,2014Q4,2014-12-31,분기말 자산총계,20618800000,USD,공시,https://www.sec.gov/Archives/edgar/data/75362/000119312515065702/,,9
+PACCAR,PCAR,2014Q4,2014-12-31,분기말 부채총계,13865600000,USD,계산(부채및자본-총자본),https://www.sec.gov/Archives/edgar/data/75362/000119312515065702/,부채및자본 20618800000 − 총자본 6753200000,9
+PACCAR,PCAR,2014Q4,2014-12-31,분기말 총자본(자기자본),6753200000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/75362/000119312515065702/,"StockholdersEquity, MinorityInterest 태그 없음",9
+PACCAR,PCAR,2014Q4,2014-12-31,분기말 지배지분 자본,6753200000,USD,공시,https://www.sec.gov/Archives/edgar/data/75362/000119312515065702/,,9
+PACCAR,PCAR,2014Q4,2014-12-31,분기말 종가,68.01,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/PCAR?interval=1d&events=splits (2014-12-31),분할조정 종가 45.34 × 이후 분할계수 1.5,9
+PACCAR,PCAR,2014Q4,2015-01-31,분기말 상장주식수,354515811,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/75362/000119312515065702/,dei:EntityCommonStockSharesOutstanding 클래스 합,9
+PACCAR,PCAR,2014Q4,2014-12-31,분기말 시가총액,24110620306,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/PCAR?interval=1d&events=splits (2014-12-31) ; https://www.sec.gov/Archives/edgar/data/75362/000119312515065702/,종가 68.01 × 주식수 354515811,9
+PACCAR,PCAR,2015Q1,2015-03-31,분기별 매출액,4832700000,USD,공시,https://www.sec.gov/Archives/edgar/data/75362/000119312515174512/,,9
+PACCAR,PCAR,2015Q1,2015-03-31,분기별 영업이익,미확인,USD,미확인,SEC companyfacts CIK0000075362: 해당 보고서에 OperatingIncomeLoss 태그 없음(영업이익 미공시) ; SEC companyfacts CIK0000075362: OperatingIncomeLoss 태그 없음(영업이익 미공시),,9
+PACCAR,PCAR,2015Q1,2015-03-31,분기별 당기순이익(지배),378400000,USD,공시,https://www.sec.gov/Archives/edgar/data/75362/000119312515174512/,,9
+PACCAR,PCAR,2015Q1,2015-03-31,분기별 영업활동현금흐름,476200000,USD,공시,https://www.sec.gov/Archives/edgar/data/75362/000119312515174512/,,9
+PACCAR,PCAR,2015Q1,2015-03-31,분기말 자산총계,20326800000,USD,공시,https://www.sec.gov/Archives/edgar/data/75362/000119312515174512/,,9
+PACCAR,PCAR,2015Q1,2015-03-31,분기말 부채총계,13595200000,USD,계산(부채및자본-총자본),https://www.sec.gov/Archives/edgar/data/75362/000119312515174512/,부채및자본 20326800000 − 총자본 6731600000,9
+PACCAR,PCAR,2015Q1,2015-03-31,분기말 총자본(자기자본),6731600000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/75362/000119312515174512/,"StockholdersEquity, MinorityInterest 태그 없음",9
+PACCAR,PCAR,2015Q1,2015-03-31,분기말 지배지분 자본,6731600000,USD,공시,https://www.sec.gov/Archives/edgar/data/75362/000119312515174512/,,9
+PACCAR,PCAR,2015Q1,2015-03-31,분기말 종가,63.14,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/PCAR?interval=1d&events=splits (2015-03-31),분할조정 종가 42.0933 × 이후 분할계수 1.5,9
+PACCAR,PCAR,2015Q1,2015-04-30,분기말 상장주식수,354796684,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/75362/000119312515174512/,dei:EntityCommonStockSharesOutstanding 클래스 합,9
+PACCAR,PCAR,2015Q1,2015-03-31,분기말 시가총액,22401862628,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/PCAR?interval=1d&events=splits (2015-03-31) ; https://www.sec.gov/Archives/edgar/data/75362/000119312515174512/,종가 63.14 × 주식수 354796684,9
+PACCAR,PCAR,2015Q2,2015-06-30,분기별 매출액,5079900000,USD,공시,https://www.sec.gov/Archives/edgar/data/75362/000119312515281040/,,9
+PACCAR,PCAR,2015Q2,2015-06-30,분기별 영업이익,미확인,USD,미확인,SEC companyfacts CIK0000075362: 해당 보고서에 OperatingIncomeLoss 태그 없음(영업이익 미공시) ; SEC companyfacts CIK0000075362: OperatingIncomeLoss 태그 없음(영업이익 미공시),,9
+PACCAR,PCAR,2015Q2,2015-06-30,분기별 당기순이익(지배),447200000,USD,공시,https://www.sec.gov/Archives/edgar/data/75362/000119312515281040/,,9
+PACCAR,PCAR,2015Q2,2015-06-30,분기별 영업활동현금흐름,710900000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/75362/000119312515281040/ ; https://www.sec.gov/Archives/edgar/data/75362/000119312515174512/,누적 1187100000 − 직전누적 476200000 (시작 2015-01-01),9
+PACCAR,PCAR,2015Q2,2015-06-30,분기말 자산총계,21415300000,USD,공시,https://www.sec.gov/Archives/edgar/data/75362/000119312515281040/,,9
+PACCAR,PCAR,2015Q2,2015-06-30,분기말 부채총계,14196700000,USD,계산(부채및자본-총자본),https://www.sec.gov/Archives/edgar/data/75362/000119312515281040/,부채및자본 21415300000 − 총자본 7218600000,9
+PACCAR,PCAR,2015Q2,2015-06-30,분기말 총자본(자기자본),7218600000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/75362/000119312515281040/,"StockholdersEquity, MinorityInterest 태그 없음",9
+PACCAR,PCAR,2015Q2,2015-06-30,분기말 지배지분 자본,7218600000,USD,공시,https://www.sec.gov/Archives/edgar/data/75362/000119312515281040/,,9
+PACCAR,PCAR,2015Q2,2015-06-30,분기말 종가,63.81,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/PCAR?interval=1d&events=splits (2015-06-30),분할조정 종가 42.54 × 이후 분할계수 1.5,9
+PACCAR,PCAR,2015Q2,2015-07-31,분기말 상장주식수,354968454,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/75362/000119312515281040/,dei:EntityCommonStockSharesOutstanding 클래스 합,9
+PACCAR,PCAR,2015Q2,2015-06-30,분기말 시가총액,22650537050,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/PCAR?interval=1d&events=splits (2015-06-30) ; https://www.sec.gov/Archives/edgar/data/75362/000119312515281040/,종가 63.81 × 주식수 354968454,9
+PACCAR,PCAR,2015Q3,2015-09-30,분기별 매출액,4847200000,USD,공시,https://www.sec.gov/Archives/edgar/data/75362/000119312515368291/,,9
+PACCAR,PCAR,2015Q3,2015-09-30,분기별 영업이익,미확인,USD,미확인,SEC companyfacts CIK0000075362: 해당 보고서에 OperatingIncomeLoss 태그 없음(영업이익 미공시) ; SEC companyfacts CIK0000075362: OperatingIncomeLoss 태그 없음(영업이익 미공시),,9
+PACCAR,PCAR,2015Q3,2015-09-30,분기별 당기순이익(지배),431200000,USD,공시,https://www.sec.gov/Archives/edgar/data/75362/000119312515368291/,,9
+PACCAR,PCAR,2015Q3,2015-09-30,분기별 영업활동현금흐름,664100000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/75362/000119312515368291/ ; https://www.sec.gov/Archives/edgar/data/75362/000119312515281040/,누적 1851200000 − 직전누적 1187100000 (시작 2015-01-01),9
+PACCAR,PCAR,2015Q3,2015-09-30,분기말 자산총계,21519800000,USD,공시,https://www.sec.gov/Archives/edgar/data/75362/000119312515368291/,,9
+PACCAR,PCAR,2015Q3,2015-09-30,분기말 부채총계,14176000000,USD,계산(부채및자본-총자본),https://www.sec.gov/Archives/edgar/data/75362/000119312515368291/,부채및자본 21519800000 − 총자본 7343800000,9
+PACCAR,PCAR,2015Q3,2015-09-30,분기말 총자본(자기자본),7343800000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/75362/000119312515368291/,"StockholdersEquity, MinorityInterest 태그 없음",9
+PACCAR,PCAR,2015Q3,2015-09-30,분기말 지배지분 자본,7343800000,USD,공시,https://www.sec.gov/Archives/edgar/data/75362/000119312515368291/,,9
+PACCAR,PCAR,2015Q3,2015-09-30,분기말 종가,52.17,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/PCAR?interval=1d&events=splits (2015-09-30),분할조정 종가 34.78 × 이후 분할계수 1.5,9
+PACCAR,PCAR,2015Q3,2015-10-31,분기말 상장주식수,353455752,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/75362/000119312515368291/,dei:EntityCommonStockSharesOutstanding 클래스 합,9
+PACCAR,PCAR,2015Q3,2015-09-30,분기말 시가총액,18439786582,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/PCAR?interval=1d&events=splits (2015-09-30) ; https://www.sec.gov/Archives/edgar/data/75362/000119312515368291/,종가 52.17 × 주식수 353455752,9
+PACCAR,PCAR,2015Q4,2015-12-31,분기별 매출액,4355300000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/75362/000119312516465258/ ; https://www.sec.gov/Archives/edgar/data/75362/000119312515368291/,연간 19115100000 − 9개월누적 14759800000 (Revenues),9
+PACCAR,PCAR,2015Q4,2015-12-31,분기별 영업이익,미확인,USD,미확인,SEC companyfacts CIK0000075362: 해당 보고서에 OperatingIncomeLoss 태그 없음(영업이익 미공시) ; SEC companyfacts CIK0000075362: OperatingIncomeLoss 태그 없음(영업이익 미공시),,9
+PACCAR,PCAR,2015Q4,2015-12-31,분기별 당기순이익(지배),347200000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/75362/000119312516465258/ ; https://www.sec.gov/Archives/edgar/data/75362/000119312515368291/,연간 1604000000 − 9개월누적 1256800000 (NetIncomeLoss),9
+PACCAR,PCAR,2015Q4,2015-12-31,분기별 영업활동현금흐름,704800000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/75362/000119312516465258/ ; https://www.sec.gov/Archives/edgar/data/75362/000119312515368291/,누적 2556000000 − 직전누적 1851200000 (시작 2015-01-01),9
+PACCAR,PCAR,2015Q4,2015-12-31,분기말 자산총계,21109800000,USD,공시,https://www.sec.gov/Archives/edgar/data/75362/000119312516465258/,,9
+PACCAR,PCAR,2015Q4,2015-12-31,분기말 부채총계,14169400000,USD,계산(부채및자본-총자본),https://www.sec.gov/Archives/edgar/data/75362/000119312516465258/,부채및자본 21109800000 − 총자본 6940400000,9
+PACCAR,PCAR,2015Q4,2015-12-31,분기말 총자본(자기자본),6940400000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/75362/000119312516465258/,"StockholdersEquity, MinorityInterest 태그 없음",9
+PACCAR,PCAR,2015Q4,2015-12-31,분기말 지배지분 자본,6940400000,USD,공시,https://www.sec.gov/Archives/edgar/data/75362/000119312516465258/,,9
+PACCAR,PCAR,2015Q4,2015-12-31,분기말 종가,47.4,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/PCAR?interval=1d&events=splits (2015-12-31),분할조정 종가 31.6 × 이후 분할계수 1.5,9
+PACCAR,PCAR,2015Q4,2016-01-31,분기말 상장주식수,351358497,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/75362/000119312516465258/,dei:EntityCommonStockSharesOutstanding 클래스 합,9
+PACCAR,PCAR,2015Q4,2015-12-31,분기말 시가총액,16654392758,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/PCAR?interval=1d&events=splits (2015-12-31) ; https://www.sec.gov/Archives/edgar/data/75362/000119312516465258/,종가 47.4 × 주식수 351358497,9
+PACCAR,PCAR,2016Q1,2016-03-31,분기별 매출액,4300000000,USD,공시,https://www.sec.gov/Archives/edgar/data/75362/000119312516577596/,,9
+PACCAR,PCAR,2016Q1,2016-03-31,분기별 영업이익,미확인,USD,미확인,SEC companyfacts CIK0000075362: 해당 보고서에 OperatingIncomeLoss 태그 없음(영업이익 미공시) ; SEC companyfacts CIK0000075362: OperatingIncomeLoss 태그 없음(영업이익 미공시),,9
+PACCAR,PCAR,2016Q1,2016-03-31,분기별 당기순이익(지배),-594600000,USD,공시,https://www.sec.gov/Archives/edgar/data/75362/000119312516577596/,,9
+PACCAR,PCAR,2016Q1,2016-03-31,분기별 영업활동현금흐름,795800000,USD,공시,https://www.sec.gov/Archives/edgar/data/75362/000119312516577596/,,9
+PACCAR,PCAR,2016Q1,2016-03-31,분기말 자산총계,21356900000,USD,공시,https://www.sec.gov/Archives/edgar/data/75362/000119312516577596/,,9
+PACCAR,PCAR,2016Q1,2016-03-31,분기말 부채총계,15013700000,USD,계산(부채및자본-총자본),https://www.sec.gov/Archives/edgar/data/75362/000119312516577596/,부채및자본 21356900000 − 총자본 6343200000,9
+PACCAR,PCAR,2016Q1,2016-03-31,분기말 총자본(자기자본),6343200000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/75362/000119312516577596/,"StockholdersEquity, MinorityInterest 태그 없음",9
+PACCAR,PCAR,2016Q1,2016-03-31,분기말 지배지분 자본,6343200000,USD,공시,https://www.sec.gov/Archives/edgar/data/75362/000119312516577596/,,9
+PACCAR,PCAR,2016Q1,2016-03-31,분기말 종가,54.69,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/PCAR?interval=1d&events=splits (2016-03-31),분할조정 종가 36.46 × 이후 분할계수 1.5,9
+PACCAR,PCAR,2016Q1,2016-04-30,분기말 상장주식수,350462850,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/75362/000119312516577596/,dei:EntityCommonStockSharesOutstanding 클래스 합,9
+PACCAR,PCAR,2016Q1,2016-03-31,분기말 시가총액,19166813266,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/PCAR?interval=1d&events=splits (2016-03-31) ; https://www.sec.gov/Archives/edgar/data/75362/000119312516577596/,종가 54.69 × 주식수 350462850,9
+PACCAR,PCAR,2016Q2,2016-06-30,분기별 매출액,4413200000,USD,공시,https://www.sec.gov/Archives/edgar/data/75362/000119312516670077/,,9
+PACCAR,PCAR,2016Q2,2016-06-30,분기별 영업이익,미확인,USD,미확인,SEC companyfacts CIK0000075362: 해당 보고서에 OperatingIncomeLoss 태그 없음(영업이익 미공시) ; SEC companyfacts CIK0000075362: OperatingIncomeLoss 태그 없음(영업이익 미공시),,9
+PACCAR,PCAR,2016Q2,2016-06-30,분기별 당기순이익(지배),481300000,USD,공시,https://www.sec.gov/Archives/edgar/data/75362/000119312516670077/,,9
+PACCAR,PCAR,2016Q2,2016-06-30,분기별 영업활동현금흐름,853600000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/75362/000119312516670077/ ; https://www.sec.gov/Archives/edgar/data/75362/000119312516577596/,누적 1649400000 − 직전누적 795800000 (시작 2016-01-01),9
+PACCAR,PCAR,2016Q2,2016-06-30,분기말 자산총계,21427200000,USD,공시,https://www.sec.gov/Archives/edgar/data/75362/000119312516670077/,,9
+PACCAR,PCAR,2016Q2,2016-06-30,분기말 부채총계,14717500000,USD,계산(부채및자본-총자본),https://www.sec.gov/Archives/edgar/data/75362/000119312516670077/,부채및자본 21427200000 − 총자본 6709700000,9
+PACCAR,PCAR,2016Q2,2016-06-30,분기말 총자본(자기자본),6709700000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/75362/000119312516670077/,"StockholdersEquity, MinorityInterest 태그 없음",9
+PACCAR,PCAR,2016Q2,2016-06-30,분기말 지배지분 자본,6709700000,USD,공시,https://www.sec.gov/Archives/edgar/data/75362/000119312516670077/,,9
+PACCAR,PCAR,2016Q2,2016-06-30,분기말 종가,51.87,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/PCAR?interval=1d&events=splits (2016-06-30),분할조정 종가 34.58 × 이후 분할계수 1.5,9
+PACCAR,PCAR,2016Q2,2016-07-31,분기말 상장주식수,350528311,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/75362/000119312516670077/,dei:EntityCommonStockSharesOutstanding 클래스 합,9
+PACCAR,PCAR,2016Q2,2016-06-30,분기말 시가총액,18181903492,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/PCAR?interval=1d&events=splits (2016-06-30) ; https://www.sec.gov/Archives/edgar/data/75362/000119312516670077/,종가 51.87 × 주식수 350528311,9
+PACCAR,PCAR,2016Q3,2016-09-30,분기별 매출액,4249400000,USD,공시,https://www.sec.gov/Archives/edgar/data/75362/000119312516760179/,,9
+PACCAR,PCAR,2016Q3,2016-09-30,분기별 영업이익,미확인,USD,미확인,SEC companyfacts CIK0000075362: 해당 보고서에 OperatingIncomeLoss 태그 없음(영업이익 미공시) ; SEC companyfacts CIK0000075362: OperatingIncomeLoss 태그 없음(영업이익 미공시),,9
+PACCAR,PCAR,2016Q3,2016-09-30,분기별 당기순이익(지배),346200000,USD,공시,https://www.sec.gov/Archives/edgar/data/75362/000119312516760179/,,9
+PACCAR,PCAR,2016Q3,2016-09-30,분기별 영업활동현금흐름,-158900000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/75362/000119312516760179/ ; https://www.sec.gov/Archives/edgar/data/75362/000119312516670077/,누적 1490500000 − 직전누적 1649400000 (시작 2016-01-01),9
+PACCAR,PCAR,2016Q3,2016-09-30,분기말 자산총계,20968900000,USD,공시,https://www.sec.gov/Archives/edgar/data/75362/000119312516760179/,,9
+PACCAR,PCAR,2016Q3,2016-09-30,분기말 부채총계,13990700000,USD,계산(부채및자본-총자본),https://www.sec.gov/Archives/edgar/data/75362/000119312516760179/,부채및자본 20968900000 − 총자본 6978200000,9
+PACCAR,PCAR,2016Q3,2016-09-30,분기말 총자본(자기자본),6978200000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/75362/000119312516760179/,"StockholdersEquity, MinorityInterest 태그 없음",9
+PACCAR,PCAR,2016Q3,2016-09-30,분기말 지배지분 자본,6978200000,USD,공시,https://www.sec.gov/Archives/edgar/data/75362/000119312516760179/,,9
+PACCAR,PCAR,2016Q3,2016-09-30,분기말 종가,58.78,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/PCAR?interval=1d&events=splits (2016-09-30),분할조정 종가 39.1867 × 이후 분할계수 1.5,9
+PACCAR,PCAR,2016Q3,2016-10-31,분기말 상장주식수,350537271,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/75362/000119312516760179/,dei:EntityCommonStockSharesOutstanding 클래스 합,9
+PACCAR,PCAR,2016Q3,2016-09-30,분기말 시가총액,20604580789,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/PCAR?interval=1d&events=splits (2016-09-30) ; https://www.sec.gov/Archives/edgar/data/75362/000119312516760179/,종가 58.78 × 주식수 350537271,9
+PACCAR,PCAR,2016Q4,2016-12-31,분기별 매출액,4070700000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/75362/000119312517050405/ ; https://www.sec.gov/Archives/edgar/data/75362/000119312516760179/,연간 17033300000 − 9개월누적 12962600000 (Revenues),9
+PACCAR,PCAR,2016Q4,2016-12-31,분기별 영업이익,미확인,USD,미확인,SEC companyfacts CIK0000075362: 해당 보고서에 OperatingIncomeLoss 태그 없음(영업이익 미공시) ; SEC companyfacts CIK0000075362: OperatingIncomeLoss 태그 없음(영업이익 미공시),,9
+PACCAR,PCAR,2016Q4,2016-12-31,분기별 당기순이익(지배),288800000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/75362/000119312517050405/ ; https://www.sec.gov/Archives/edgar/data/75362/000119312516760179/,연간 521700000 − 9개월누적 232900000 (NetIncomeLoss),9
+PACCAR,PCAR,2016Q4,2016-12-31,분기별 영업활동현금흐름,810300000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/75362/000119312517050405/ ; https://www.sec.gov/Archives/edgar/data/75362/000119312516760179/,누적 2300800000 − 직전누적 1490500000 (시작 2016-01-01),9
+PACCAR,PCAR,2016Q4,2016-12-31,분기말 자산총계,20638900000,USD,공시,https://www.sec.gov/Archives/edgar/data/75362/000119312517050405/,,9
+PACCAR,PCAR,2016Q4,2016-12-31,분기말 부채총계,13861300000,USD,계산(부채및자본-총자본),https://www.sec.gov/Archives/edgar/data/75362/000119312517050405/,부채및자본 20638900000 − 총자본 6777600000,9
+PACCAR,PCAR,2016Q4,2016-12-31,분기말 총자본(자기자본),6777600000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/75362/000119312517050405/,"StockholdersEquity, MinorityInterest 태그 없음",9
+PACCAR,PCAR,2016Q4,2016-12-31,분기말 지배지분 자본,6777600000,USD,공시,https://www.sec.gov/Archives/edgar/data/75362/000119312517050405/,,9
+PACCAR,PCAR,2016Q4,2016-12-30,분기말 종가,63.9,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/PCAR?interval=1d&events=splits (2016-12-30),분할조정 종가 42.6 × 이후 분할계수 1.5,9
+PACCAR,PCAR,2016Q4,2017-01-31,분기말 상장주식수,350896879,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/75362/000119312517050405/,dei:EntityCommonStockSharesOutstanding 클래스 합,9
+PACCAR,PCAR,2016Q4,2016-12-30,분기말 시가총액,22422310568,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/PCAR?interval=1d&events=splits (2016-12-30) ; https://www.sec.gov/Archives/edgar/data/75362/000119312517050405/,종가 63.9 × 주식수 350896879,9
+PACCAR,PCAR,2017Q1,2017-03-31,분기별 매출액,4237900000,USD,공시,https://www.sec.gov/Archives/edgar/data/75362/000119312517158733/,,9
+PACCAR,PCAR,2017Q1,2017-03-31,분기별 영업이익,미확인,USD,미확인,SEC companyfacts CIK0000075362: 해당 보고서에 OperatingIncomeLoss 태그 없음(영업이익 미공시) ; SEC companyfacts CIK0000075362: OperatingIncomeLoss 태그 없음(영업이익 미공시),,9
+PACCAR,PCAR,2017Q1,2017-03-31,분기별 당기순이익(지배),310300000,USD,공시,https://www.sec.gov/Archives/edgar/data/75362/000119312517158733/,,9
+PACCAR,PCAR,2017Q1,2017-03-31,분기별 영업활동현금흐름,610500000,USD,공시,https://www.sec.gov/Archives/edgar/data/75362/000119312517158733/,,9
+PACCAR,PCAR,2017Q1,2017-03-31,분기말 자산총계,21039700000,USD,공시,https://www.sec.gov/Archives/edgar/data/75362/000119312517158733/,,9
+PACCAR,PCAR,2017Q1,2017-03-31,분기말 부채총계,13960400000,USD,계산(부채및자본-총자본),https://www.sec.gov/Archives/edgar/data/75362/000119312517158733/,부채및자본 21039700000 − 총자본 7079300000,9
+PACCAR,PCAR,2017Q1,2017-03-31,분기말 총자본(자기자본),7079300000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/75362/000119312517158733/,"StockholdersEquity, MinorityInterest 태그 없음",9
+PACCAR,PCAR,2017Q1,2017-03-31,분기말 지배지분 자본,7079300000,USD,공시,https://www.sec.gov/Archives/edgar/data/75362/000119312517158733/,,9
+PACCAR,PCAR,2017Q1,2017-03-31,분기말 종가,67.2,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/PCAR?interval=1d&events=splits (2017-03-31),분할조정 종가 44.8 × 이후 분할계수 1.5,9
+PACCAR,PCAR,2017Q1,2017-04-30,분기말 상장주식수,351279601,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/75362/000119312517158733/,dei:EntityCommonStockSharesOutstanding 클래스 합,9
+PACCAR,PCAR,2017Q1,2017-03-31,분기말 시가총액,23605989187,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/PCAR?interval=1d&events=splits (2017-03-31) ; https://www.sec.gov/Archives/edgar/data/75362/000119312517158733/,종가 67.2 × 주식수 351279601,9
+PACCAR,PCAR,2017Q2,2017-06-30,분기별 매출액,4704200000,USD,공시,https://www.sec.gov/Archives/edgar/data/75362/000119312517248773/,,9
+PACCAR,PCAR,2017Q2,2017-06-30,분기별 영업이익,미확인,USD,미확인,SEC companyfacts CIK0000075362: 해당 보고서에 OperatingIncomeLoss 태그 없음(영업이익 미공시) ; SEC companyfacts CIK0000075362: OperatingIncomeLoss 태그 없음(영업이익 미공시),,9
+PACCAR,PCAR,2017Q2,2017-06-30,분기별 당기순이익(지배),373000000,USD,공시,https://www.sec.gov/Archives/edgar/data/75362/000119312517248773/,,9
+PACCAR,PCAR,2017Q2,2017-06-30,분기별 영업활동현금흐름,574700000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/75362/000119312517248773/ ; https://www.sec.gov/Archives/edgar/data/75362/000119312517158733/,누적 1185200000 − 직전누적 610500000 (시작 2017-01-01),9
+PACCAR,PCAR,2017Q2,2017-06-30,분기말 자산총계,22053300000,USD,공시,https://www.sec.gov/Archives/edgar/data/75362/000119312517248773/,,9
+PACCAR,PCAR,2017Q2,2017-06-30,분기말 부채총계,14552800000,USD,계산(부채및자본-총자본),https://www.sec.gov/Archives/edgar/data/75362/000119312517248773/,부채및자본 22053300000 − 총자본 7500500000,9
+PACCAR,PCAR,2017Q2,2017-06-30,분기말 총자본(자기자본),7500500000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/75362/000119312517248773/,"StockholdersEquity, MinorityInterest 태그 없음",9
+PACCAR,PCAR,2017Q2,2017-06-30,분기말 지배지분 자본,7500500000,USD,공시,https://www.sec.gov/Archives/edgar/data/75362/000119312517248773/,,9
+PACCAR,PCAR,2017Q2,2017-06-30,분기말 종가,66.04,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/PCAR?interval=1d&events=splits (2017-06-30),분할조정 종가 44.0267 × 이후 분할계수 1.5,9
+PACCAR,PCAR,2017Q2,2017-07-31,분기말 상장주식수,351376481,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/75362/000119312517248773/,dei:EntityCommonStockSharesOutstanding 클래스 합,9
+PACCAR,PCAR,2017Q2,2017-06-30,분기말 시가총액,23204902805,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/PCAR?interval=1d&events=splits (2017-06-30) ; https://www.sec.gov/Archives/edgar/data/75362/000119312517248773/,종가 66.04 × 주식수 351376481,9
+PACCAR,PCAR,2017Q3,2017-09-30,분기별 매출액,5059700000,USD,공시,https://www.sec.gov/Archives/edgar/data/75362/000156459017021522/,,9
+PACCAR,PCAR,2017Q3,2017-09-30,분기별 영업이익,미확인,USD,미확인,SEC companyfacts CIK0000075362: 해당 보고서에 OperatingIncomeLoss 태그 없음(영업이익 미공시) ; SEC companyfacts CIK0000075362: OperatingIncomeLoss 태그 없음(영업이익 미공시),,9
+PACCAR,PCAR,2017Q3,2017-09-30,분기별 당기순이익(지배),402700000,USD,공시,https://www.sec.gov/Archives/edgar/data/75362/000156459017021522/,,9
+PACCAR,PCAR,2017Q3,2017-09-30,분기별 영업활동현금흐름,637300000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/75362/000156459017021522/ ; https://www.sec.gov/Archives/edgar/data/75362/000119312517248773/,누적 1822500000 − 직전누적 1185200000 (시작 2017-01-01),9
+PACCAR,PCAR,2017Q3,2017-09-30,분기말 자산총계,23103900000,USD,공시,https://www.sec.gov/Archives/edgar/data/75362/000156459017021522/,,9
+PACCAR,PCAR,2017Q3,2017-09-30,분기말 부채총계,15168300000,USD,계산(부채및자본-총자본),https://www.sec.gov/Archives/edgar/data/75362/000156459017021522/,부채및자본 23103900000 − 총자본 7935600000,9
+PACCAR,PCAR,2017Q3,2017-09-30,분기말 총자본(자기자본),7935600000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/75362/000156459017021522/,"StockholdersEquity, MinorityInterest 태그 없음",9
+PACCAR,PCAR,2017Q3,2017-09-30,분기말 지배지분 자본,7935600000,USD,공시,https://www.sec.gov/Archives/edgar/data/75362/000156459017021522/,,9
+PACCAR,PCAR,2017Q3,2017-09-29,분기말 종가,72.34,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/PCAR?interval=1d&events=splits (2017-09-29),분할조정 종가 48.2267 × 이후 분할계수 1.5,9
+PACCAR,PCAR,2017Q3,2017-10-31,분기말 상장주식수,351610175,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/75362/000156459017021522/,dei:EntityCommonStockSharesOutstanding 클래스 합,9
+PACCAR,PCAR,2017Q3,2017-09-29,분기말 시가총액,25435480060,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/PCAR?interval=1d&events=splits (2017-09-29) ; https://www.sec.gov/Archives/edgar/data/75362/000156459017021522/,종가 72.34 × 주식수 351610175,9
+PACCAR,PCAR,2017Q4,2017-12-31,분기별 매출액,5454600000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/75362/000156459018002675/ ; https://www.sec.gov/Archives/edgar/data/75362/000156459017021522/,연간 19456400000 − 9개월누적 14001800000 (Revenues),9
+PACCAR,PCAR,2017Q4,2017-12-31,분기별 영업이익,미확인,USD,미확인,SEC companyfacts CIK0000075362: 해당 보고서에 OperatingIncomeLoss 태그 없음(영업이익 미공시) ; SEC companyfacts CIK0000075362: OperatingIncomeLoss 태그 없음(영업이익 미공시),,9
+PACCAR,PCAR,2017Q4,2017-12-31,분기별 당기순이익(지배),589200000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/75362/000156459018002675/ ; https://www.sec.gov/Archives/edgar/data/75362/000156459017021522/,연간 1675200000 − 9개월누적 1086000000 (NetIncomeLoss),9
+PACCAR,PCAR,2017Q4,2017-12-31,분기별 영업활동현금흐름,893300000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/75362/000156459018002675/ ; https://www.sec.gov/Archives/edgar/data/75362/000156459017021522/,누적 2715800000 − 직전누적 1822500000 (시작 2017-01-01),9
+PACCAR,PCAR,2017Q4,2017-12-31,분기말 자산총계,23440200000,USD,공시,https://www.sec.gov/Archives/edgar/data/75362/000156459018002675/,,9
+PACCAR,PCAR,2017Q4,2017-12-31,분기말 부채총계,15389700000,USD,계산(부채및자본-총자본),https://www.sec.gov/Archives/edgar/data/75362/000156459018002675/,부채및자본 23440200000 − 총자본 8050500000,9
+PACCAR,PCAR,2017Q4,2017-12-31,분기말 총자본(자기자본),8050500000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/75362/000156459018002675/,"StockholdersEquity, MinorityInterest 태그 없음",9
+PACCAR,PCAR,2017Q4,2017-12-31,분기말 지배지분 자본,8050500000,USD,공시,https://www.sec.gov/Archives/edgar/data/75362/000156459018002675/,,9
+PACCAR,PCAR,2017Q4,2017-12-29,분기말 종가,71.08,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/PCAR?interval=1d&events=splits (2017-12-29),분할조정 종가 47.3867 × 이후 분할계수 1.5,9
+PACCAR,PCAR,2017Q4,2018-01-31,분기말 상장주식수,351986606,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/75362/000156459018002675/,dei:EntityCommonStockSharesOutstanding 클래스 합,9
+PACCAR,PCAR,2017Q4,2017-12-29,분기말 시가총액,25019207954,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/PCAR?interval=1d&events=splits (2017-12-29) ; https://www.sec.gov/Archives/edgar/data/75362/000156459018002675/,종가 71.08 × 주식수 351986606,9
+PACCAR,PCAR,2018Q1,2018-03-31,분기별 매출액,5654000000,USD,공시,https://www.sec.gov/Archives/edgar/data/75362/000156459018010845/,,9
+PACCAR,PCAR,2018Q1,2018-03-31,분기별 영업이익,미확인,USD,미확인,SEC companyfacts CIK0000075362: 해당 보고서에 OperatingIncomeLoss 태그 없음(영업이익 미공시) ; SEC companyfacts CIK0000075362: OperatingIncomeLoss 태그 없음(영업이익 미공시),,9
+PACCAR,PCAR,2018Q1,2018-03-31,분기별 당기순이익(지배),512100000,USD,공시,https://www.sec.gov/Archives/edgar/data/75362/000156459018010845/,,9
+PACCAR,PCAR,2018Q1,2018-03-31,분기별 영업활동현금흐름,525300000,USD,공시,https://www.sec.gov/Archives/edgar/data/75362/000156459018010845/,,9
+PACCAR,PCAR,2018Q1,2018-03-31,분기말 자산총계,23781700000,USD,공시,https://www.sec.gov/Archives/edgar/data/75362/000156459018010845/,,9
+PACCAR,PCAR,2018Q1,2018-03-31,분기말 부채총계,15214400000,USD,계산(부채및자본-총자본),https://www.sec.gov/Archives/edgar/data/75362/000156459018010845/,부채및자본 23781700000 − 총자본 8567300000,9
+PACCAR,PCAR,2018Q1,2018-03-31,분기말 총자본(자기자본),8567300000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/75362/000156459018010845/,"StockholdersEquity, MinorityInterest 태그 없음",9
+PACCAR,PCAR,2018Q1,2018-03-31,분기말 지배지분 자본,8567300000,USD,공시,https://www.sec.gov/Archives/edgar/data/75362/000156459018010845/,,9
+PACCAR,PCAR,2018Q1,2018-03-29,분기말 종가,66.17,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/PCAR?interval=1d&events=splits (2018-03-29),분할조정 종가 44.1133 × 이후 분할계수 1.5,9
+PACCAR,PCAR,2018Q1,2018-04-30,분기말 상장주식수,351811817,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/75362/000156459018010845/,dei:EntityCommonStockSharesOutstanding 클래스 합,9
+PACCAR,PCAR,2018Q1,2018-03-29,분기말 시가총액,23279387931,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/PCAR?interval=1d&events=splits (2018-03-29) ; https://www.sec.gov/Archives/edgar/data/75362/000156459018010845/,종가 66.17 × 주식수 351811817,9
+PACCAR,PCAR,2018Q2,2018-06-30,분기별 매출액,5805200000,USD,공시,https://www.sec.gov/Archives/edgar/data/75362/000156459018019160/,,9
+PACCAR,PCAR,2018Q2,2018-06-30,분기별 영업이익,미확인,USD,미확인,SEC companyfacts CIK0000075362: 해당 보고서에 OperatingIncomeLoss 태그 없음(영업이익 미공시) ; SEC companyfacts CIK0000075362: OperatingIncomeLoss 태그 없음(영업이익 미공시),,9
+PACCAR,PCAR,2018Q2,2018-06-30,분기별 당기순이익(지배),559600000,USD,공시,https://www.sec.gov/Archives/edgar/data/75362/000156459018019160/,,9
+PACCAR,PCAR,2018Q2,2018-06-30,분기별 영업활동현금흐름,673200000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/75362/000156459018019160/ ; https://www.sec.gov/Archives/edgar/data/75362/000156459018010845/,누적 1198500000 − 직전누적 525300000 (시작 2018-01-01),9
+PACCAR,PCAR,2018Q2,2018-06-30,분기말 자산총계,24155800000,USD,공시,https://www.sec.gov/Archives/edgar/data/75362/000156459018019160/,,9
+PACCAR,PCAR,2018Q2,2018-06-30,분기말 부채총계,15376400000,USD,계산(부채및자본-총자본),https://www.sec.gov/Archives/edgar/data/75362/000156459018019160/,부채및자본 24155800000 − 총자본 8779400000,9
+PACCAR,PCAR,2018Q2,2018-06-30,분기말 총자본(자기자본),8779400000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/75362/000156459018019160/,"StockholdersEquity, MinorityInterest 태그 없음",9
+PACCAR,PCAR,2018Q2,2018-06-30,분기말 지배지분 자본,8779400000,USD,공시,https://www.sec.gov/Archives/edgar/data/75362/000156459018019160/,,9
+PACCAR,PCAR,2018Q2,2018-06-29,분기말 종가,61.96,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/PCAR?interval=1d&events=splits (2018-06-29),분할조정 종가 41.3067 × 이후 분할계수 1.5,9
+PACCAR,PCAR,2018Q2,2018-07-31,분기말 상장주식수,350543255,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/75362/000156459018019160/,dei:EntityCommonStockSharesOutstanding 클래스 합,9
+PACCAR,PCAR,2018Q2,2018-06-29,분기말 시가총액,21719660080,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/PCAR?interval=1d&events=splits (2018-06-29) ; https://www.sec.gov/Archives/edgar/data/75362/000156459018019160/,종가 61.96 × 주식수 350543255,9
+PACCAR,PCAR,2018Q3,2018-09-30,분기별 매출액,5756800000,USD,공시,https://www.sec.gov/Archives/edgar/data/75362/000156459018026487/,,9
+PACCAR,PCAR,2018Q3,2018-09-30,분기별 영업이익,미확인,USD,미확인,SEC companyfacts CIK0000075362: 해당 보고서에 OperatingIncomeLoss 태그 없음(영업이익 미공시) ; SEC companyfacts CIK0000075362: OperatingIncomeLoss 태그 없음(영업이익 미공시),,9
+PACCAR,PCAR,2018Q3,2018-09-30,분기별 당기순이익(지배),545300000,USD,공시,https://www.sec.gov/Archives/edgar/data/75362/000156459018026487/,,9
+PACCAR,PCAR,2018Q3,2018-09-30,분기별 영업활동현금흐름,728700000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/75362/000156459018026487/ ; https://www.sec.gov/Archives/edgar/data/75362/000156459018019160/,누적 1927200000 − 직전누적 1198500000 (시작 2018-01-01),9
+PACCAR,PCAR,2018Q3,2018-09-30,분기말 자산총계,25103400000,USD,공시,https://www.sec.gov/Archives/edgar/data/75362/000156459018026487/,,9
+PACCAR,PCAR,2018Q3,2018-09-30,분기말 부채총계,15932400000,USD,계산(부채및자본-총자본),https://www.sec.gov/Archives/edgar/data/75362/000156459018026487/,부채및자본 25103400000 − 총자본 9171000000,9
+PACCAR,PCAR,2018Q3,2018-09-30,분기말 총자본(자기자본),9171000000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/75362/000156459018026487/,"StockholdersEquity, MinorityInterest 태그 없음",9
+PACCAR,PCAR,2018Q3,2018-09-30,분기말 지배지분 자본,9171000000,USD,공시,https://www.sec.gov/Archives/edgar/data/75362/000156459018026487/,,9
+PACCAR,PCAR,2018Q3,2018-09-28,분기말 종가,68.19,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/PCAR?interval=1d&events=splits (2018-09-28),분할조정 종가 45.46 × 이후 분할계수 1.5,9
+PACCAR,PCAR,2018Q3,2018-10-31,분기말 상장주식수,349435196,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/75362/000156459018026487/,dei:EntityCommonStockSharesOutstanding 클래스 합,9
+PACCAR,PCAR,2018Q3,2018-09-28,분기말 시가총액,23827986015,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/PCAR?interval=1d&events=splits (2018-09-28) ; https://www.sec.gov/Archives/edgar/data/75362/000156459018026487/,종가 68.19 × 주식수 349435196,9
+PACCAR,PCAR,2018Q4,2018-12-31,분기별 매출액,6279700000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/75362/000156459019003670/ ; https://www.sec.gov/Archives/edgar/data/75362/000156459018026487/,연간 23495700000 − 9개월누적 17216000000 (Revenues),9
+PACCAR,PCAR,2018Q4,2018-12-31,분기별 영업이익,미확인,USD,미확인,SEC companyfacts CIK0000075362: 해당 보고서에 OperatingIncomeLoss 태그 없음(영업이익 미공시) ; SEC companyfacts CIK0000075362: OperatingIncomeLoss 태그 없음(영업이익 미공시),,9
+PACCAR,PCAR,2018Q4,2018-12-31,분기별 당기순이익(지배),578100000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/75362/000156459019003670/ ; https://www.sec.gov/Archives/edgar/data/75362/000156459018026487/,연간 2195100000 − 9개월누적 1617000000 (NetIncomeLoss),9
+PACCAR,PCAR,2018Q4,2018-12-31,분기별 영업활동현금흐름,1065100000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/75362/000156459019003670/ ; https://www.sec.gov/Archives/edgar/data/75362/000156459018026487/,누적 2992300000 − 직전누적 1927200000 (시작 2018-01-01),9
+PACCAR,PCAR,2018Q4,2018-12-31,분기말 자산총계,25482400000,USD,공시,https://www.sec.gov/Archives/edgar/data/75362/000156459019003670/,,9
+PACCAR,PCAR,2018Q4,2018-12-31,분기말 부채총계,16889500000,USD,계산(부채및자본-총자본),https://www.sec.gov/Archives/edgar/data/75362/000156459019003670/,부채및자본 25482400000 − 총자본 8592900000,9
+PACCAR,PCAR,2018Q4,2018-12-31,분기말 총자본(자기자본),8592900000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/75362/000156459019003670/,"StockholdersEquity, MinorityInterest 태그 없음",9
+PACCAR,PCAR,2018Q4,2018-12-31,분기말 지배지분 자본,8592900000,USD,공시,https://www.sec.gov/Archives/edgar/data/75362/000156459019003670/,,9
+PACCAR,PCAR,2018Q4,2018-12-31,분기말 종가,57.14,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/PCAR?interval=1d&events=splits (2018-12-31),분할조정 종가 38.0933 × 이후 분할계수 1.5,9
+PACCAR,PCAR,2018Q4,2019-01-31,분기말 상장주식수,346718291,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/75362/000156459019003670/,dei:EntityCommonStockSharesOutstanding 클래스 합,9
+PACCAR,PCAR,2018Q4,2018-12-31,분기말 시가총액,19811483148,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/PCAR?interval=1d&events=splits (2018-12-31) ; https://www.sec.gov/Archives/edgar/data/75362/000156459019003670/,종가 57.14 × 주식수 346718291,9
+PACCAR,PCAR,2019Q1,2019-03-31,분기별 매출액,6487600000,USD,공시,https://www.sec.gov/Archives/edgar/data/75362/000156459019015329/,,9
+PACCAR,PCAR,2019Q1,2019-03-31,분기별 영업이익,미확인,USD,미확인,SEC companyfacts CIK0000075362: 해당 보고서에 OperatingIncomeLoss 태그 없음(영업이익 미공시) ; SEC companyfacts CIK0000075362: OperatingIncomeLoss 태그 없음(영업이익 미공시),,9
+PACCAR,PCAR,2019Q1,2019-03-31,분기별 당기순이익(지배),629000000,USD,공시,https://www.sec.gov/Archives/edgar/data/75362/000156459019015329/,,9
+PACCAR,PCAR,2019Q1,2019-03-31,분기별 영업활동현금흐름,363000000,USD,공시,https://www.sec.gov/Archives/edgar/data/75362/000156459019015329/,,9
+PACCAR,PCAR,2019Q1,2019-03-31,분기말 자산총계,26157000000,USD,공시,https://www.sec.gov/Archives/edgar/data/75362/000156459019015329/,,9
+PACCAR,PCAR,2019Q1,2019-03-31,분기말 부채총계,17051500000,USD,계산(부채및자본-총자본),https://www.sec.gov/Archives/edgar/data/75362/000156459019015329/,부채및자본 26157000000 − 총자본 9105500000,9
+PACCAR,PCAR,2019Q1,2019-03-31,분기말 총자본(자기자본),9105500000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/75362/000156459019015329/,"StockholdersEquity, MinorityInterest 태그 없음",9
+PACCAR,PCAR,2019Q1,2019-03-31,분기말 지배지분 자본,9105500000,USD,공시,https://www.sec.gov/Archives/edgar/data/75362/000156459019015329/,,9
+PACCAR,PCAR,2019Q1,2019-03-29,분기말 종가,68.14,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/PCAR?interval=1d&events=splits (2019-03-29),분할조정 종가 45.4267 × 이후 분할계수 1.5,9
+PACCAR,PCAR,2019Q1,2019-04-30,분기말 상장주식수,346443375,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/75362/000156459019015329/,dei:EntityCommonStockSharesOutstanding 클래스 합,9
+PACCAR,PCAR,2019Q1,2019-03-29,분기말 시가총액,23606651572,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/PCAR?interval=1d&events=splits (2019-03-29) ; https://www.sec.gov/Archives/edgar/data/75362/000156459019015329/,종가 68.14 × 주식수 346443375,9
+PACCAR,PCAR,2019Q2,2019-06-30,분기별 매출액,6627900000,USD,공시,https://www.sec.gov/Archives/edgar/data/75362/000156459019028370/,,9
+PACCAR,PCAR,2019Q2,2019-06-30,분기별 영업이익,미확인,USD,미확인,SEC companyfacts CIK0000075362: 해당 보고서에 OperatingIncomeLoss 태그 없음(영업이익 미공시) ; SEC companyfacts CIK0000075362: OperatingIncomeLoss 태그 없음(영업이익 미공시),,9
+PACCAR,PCAR,2019Q2,2019-06-30,분기별 당기순이익(지배),619700000,USD,공시,https://www.sec.gov/Archives/edgar/data/75362/000156459019028370/,,9
+PACCAR,PCAR,2019Q2,2019-06-30,분기별 영업활동현금흐름,826500000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/75362/000156459019028370/ ; https://www.sec.gov/Archives/edgar/data/75362/000156459019015329/,누적 1189500000 − 직전누적 363000000 (시작 2019-01-01),9
+PACCAR,PCAR,2019Q2,2019-06-30,분기말 자산총계,27168200000,USD,공시,https://www.sec.gov/Archives/edgar/data/75362/000156459019028370/,,9
+PACCAR,PCAR,2019Q2,2019-06-30,분기말 부채총계,17532800000,USD,계산(부채및자본-총자본),https://www.sec.gov/Archives/edgar/data/75362/000156459019028370/,부채및자본 27168200000 − 총자본 9635400000,9
+PACCAR,PCAR,2019Q2,2019-06-30,분기말 총자본(자기자본),9635400000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/75362/000156459019028370/,"StockholdersEquity, MinorityInterest 태그 없음",9
+PACCAR,PCAR,2019Q2,2019-06-30,분기말 지배지분 자본,9635400000,USD,공시,https://www.sec.gov/Archives/edgar/data/75362/000156459019028370/,,9
+PACCAR,PCAR,2019Q2,2019-06-28,분기말 종가,71.66,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/PCAR?interval=1d&events=splits (2019-06-28),분할조정 종가 47.7733 × 이후 분할계수 1.5,9
+PACCAR,PCAR,2019Q2,2019-07-31,분기말 상장주식수,346369155,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/75362/000156459019028370/,dei:EntityCommonStockSharesOutstanding 클래스 합,9
+PACCAR,PCAR,2019Q2,2019-06-28,분기말 시가총액,24820813647,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/PCAR?interval=1d&events=splits (2019-06-28) ; https://www.sec.gov/Archives/edgar/data/75362/000156459019028370/,종가 71.66 × 주식수 346369155,9
+PACCAR,PCAR,2019Q3,2019-09-30,분기별 매출액,6367000000,USD,공시,https://www.sec.gov/Archives/edgar/data/75362/000156459019038819/,,9
+PACCAR,PCAR,2019Q3,2019-09-30,분기별 영업이익,미확인,USD,미확인,SEC companyfacts CIK0000075362: 해당 보고서에 OperatingIncomeLoss 태그 없음(영업이익 미공시) ; SEC companyfacts CIK0000075362: OperatingIncomeLoss 태그 없음(영업이익 미공시),,9
+PACCAR,PCAR,2019Q3,2019-09-30,분기별 당기순이익(지배),607900000,USD,공시,https://www.sec.gov/Archives/edgar/data/75362/000156459019038819/,,9
+PACCAR,PCAR,2019Q3,2019-09-30,분기별 영업활동현금흐름,727100000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/75362/000156459019038819/ ; https://www.sec.gov/Archives/edgar/data/75362/000156459019028370/,누적 1916600000 − 직전누적 1189500000 (시작 2019-01-01),9
+PACCAR,PCAR,2019Q3,2019-09-30,분기말 자산총계,27767700000,USD,공시,https://www.sec.gov/Archives/edgar/data/75362/000156459019038819/,,9
+PACCAR,PCAR,2019Q3,2019-09-30,분기말 부채총계,17805000000,USD,계산(부채및자본-총자본),https://www.sec.gov/Archives/edgar/data/75362/000156459019038819/,부채및자본 27767700000 − 총자본 9962700000,9
+PACCAR,PCAR,2019Q3,2019-09-30,분기말 총자본(자기자본),9962700000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/75362/000156459019038819/,"StockholdersEquity, MinorityInterest 태그 없음",9
+PACCAR,PCAR,2019Q3,2019-09-30,분기말 지배지분 자본,9962700000,USD,공시,https://www.sec.gov/Archives/edgar/data/75362/000156459019038819/,,9
+PACCAR,PCAR,2019Q3,2019-09-30,분기말 종가,70.01,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/PCAR?interval=1d&events=splits (2019-09-30),분할조정 종가 46.6733 × 이후 분할계수 1.5,9
+PACCAR,PCAR,2019Q3,2019-10-25,분기말 상장주식수,345873618,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/75362/000156459019038819/,dei:EntityCommonStockSharesOutstanding 클래스 합,9
+PACCAR,PCAR,2019Q3,2019-09-30,분기말 시가총액,24214611996,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/PCAR?interval=1d&events=splits (2019-09-30) ; https://www.sec.gov/Archives/edgar/data/75362/000156459019038819/,종가 70.01 × 주식수 345873618,9
+PACCAR,PCAR,2019Q4,2019-12-31,분기별 매출액,6117200000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/75362/000156459020005276/ ; https://www.sec.gov/Archives/edgar/data/75362/000156459019038819/,연간 25599700000 − 9개월누적 19482500000 (Revenues),9
+PACCAR,PCAR,2019Q4,2019-12-31,분기별 영업이익,미확인,USD,미확인,SEC companyfacts CIK0000075362: 해당 보고서에 OperatingIncomeLoss 태그 없음(영업이익 미공시) ; SEC companyfacts CIK0000075362: OperatingIncomeLoss 태그 없음(영업이익 미공시),,9
+PACCAR,PCAR,2019Q4,2019-12-31,분기별 당기순이익(지배),531300000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/75362/000156459020005276/ ; https://www.sec.gov/Archives/edgar/data/75362/000156459019038819/,연간 2387900000 − 9개월누적 1856600000 (NetIncomeLoss),9
+PACCAR,PCAR,2019Q4,2019-12-31,분기별 영업활동현금흐름,943700000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/75362/000156459020005276/ ; https://www.sec.gov/Archives/edgar/data/75362/000156459019038819/,누적 2860300000 − 직전누적 1916600000 (시작 2019-01-01),9
+PACCAR,PCAR,2019Q4,2019-12-31,분기말 자산총계,28361100000,USD,공시,https://www.sec.gov/Archives/edgar/data/75362/000156459020005276/,,9
+PACCAR,PCAR,2019Q4,2019-12-31,분기말 부채총계,18655000000,USD,계산(부채및자본-총자본),https://www.sec.gov/Archives/edgar/data/75362/000156459020005276/,부채및자본 28361100000 − 총자본 9706100000,9
+PACCAR,PCAR,2019Q4,2019-12-31,분기말 총자본(자기자본),9706100000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/75362/000156459020005276/,"StockholdersEquity, MinorityInterest 태그 없음",9
+PACCAR,PCAR,2019Q4,2019-12-31,분기말 지배지분 자본,9706100000,USD,공시,https://www.sec.gov/Archives/edgar/data/75362/000156459020005276/,,9
+PACCAR,PCAR,2019Q4,2019-12-31,분기말 종가,79.1,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/PCAR?interval=1d&events=splits (2019-12-31),분할조정 종가 52.7333 × 이후 분할계수 1.5,9
+PACCAR,PCAR,2019Q4,2020-01-31,분기말 상장주식수,346353327,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/75362/000156459020005276/,dei:EntityCommonStockSharesOutstanding 클래스 합,9
+PACCAR,PCAR,2019Q4,2019-12-31,분기말 시가총액,27396548166,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/PCAR?interval=1d&events=splits (2019-12-31) ; https://www.sec.gov/Archives/edgar/data/75362/000156459020005276/,종가 79.1 × 주식수 346353327,9
+PACCAR,PCAR,2020Q1,2020-03-31,분기별 매출액,5161700000,USD,공시,https://www.sec.gov/Archives/edgar/data/75362/000156459020020820/,,9
+PACCAR,PCAR,2020Q1,2020-03-31,분기별 영업이익,미확인,USD,미확인,SEC companyfacts CIK0000075362: 해당 보고서에 OperatingIncomeLoss 태그 없음(영업이익 미공시) ; SEC companyfacts CIK0000075362: OperatingIncomeLoss 태그 없음(영업이익 미공시),,9
+PACCAR,PCAR,2020Q1,2020-03-31,분기별 당기순이익(지배),359400000,USD,공시,https://www.sec.gov/Archives/edgar/data/75362/000156459020020820/,,9
+PACCAR,PCAR,2020Q1,2020-03-31,분기별 영업활동현금흐름,425900000,USD,공시,https://www.sec.gov/Archives/edgar/data/75362/000156459020020820/,,9
+PACCAR,PCAR,2020Q1,2020-03-31,분기말 자산총계,27294700000,USD,공시,https://www.sec.gov/Archives/edgar/data/75362/000156459020020820/,,9
+PACCAR,PCAR,2020Q1,2020-03-31,분기말 부채총계,17657300000,USD,계산(부채및자본-총자본),https://www.sec.gov/Archives/edgar/data/75362/000156459020020820/,부채및자본 27294700000 − 총자본 9637400000,9
+PACCAR,PCAR,2020Q1,2020-03-31,분기말 총자본(자기자본),9637400000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/75362/000156459020020820/,"StockholdersEquity, MinorityInterest 태그 없음",9
+PACCAR,PCAR,2020Q1,2020-03-31,분기말 지배지분 자본,9637400000,USD,공시,https://www.sec.gov/Archives/edgar/data/75362/000156459020020820/,,9
+PACCAR,PCAR,2020Q1,2020-03-31,분기말 종가,61.13,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/PCAR?interval=1d&events=splits (2020-03-31),분할조정 종가 40.7533 × 이후 분할계수 1.5,9
+PACCAR,PCAR,2020Q1,2020-04-30,분기말 상장주식수,345726900,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/75362/000156459020020820/,dei:EntityCommonStockSharesOutstanding 클래스 합,9
+PACCAR,PCAR,2020Q1,2020-03-31,분기말 시가총액,21134285397,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/PCAR?interval=1d&events=splits (2020-03-31) ; https://www.sec.gov/Archives/edgar/data/75362/000156459020020820/,종가 61.13 × 주식수 345726900,9
+PACCAR,PCAR,2020Q2,2020-06-30,분기별 매출액,3062200000,USD,공시,https://www.sec.gov/Archives/edgar/data/75362/000156459020035572/,,9
+PACCAR,PCAR,2020Q2,2020-06-30,분기별 영업이익,미확인,USD,미확인,SEC companyfacts CIK0000075362: 해당 보고서에 OperatingIncomeLoss 태그 없음(영업이익 미공시) ; SEC companyfacts CIK0000075362: OperatingIncomeLoss 태그 없음(영업이익 미공시),,9
+PACCAR,PCAR,2020Q2,2020-06-30,분기별 당기순이익(지배),147700000,USD,공시,https://www.sec.gov/Archives/edgar/data/75362/000156459020035572/,,9
+PACCAR,PCAR,2020Q2,2020-06-30,분기별 영업활동현금흐름,934900000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/75362/000156459020035572/ ; https://www.sec.gov/Archives/edgar/data/75362/000156459020020820/,누적 1360800000 − 직전누적 425900000 (시작 2020-01-01),9
+PACCAR,PCAR,2020Q2,2020-06-30,분기말 자산총계,26406400000,USD,공시,https://www.sec.gov/Archives/edgar/data/75362/000156459020035572/,,9
+PACCAR,PCAR,2020Q2,2020-06-30,분기말 부채총계,16629600000,USD,계산(부채및자본-총자본),https://www.sec.gov/Archives/edgar/data/75362/000156459020035572/,부채및자본 26406400000 − 총자본 9776800000,9
+PACCAR,PCAR,2020Q2,2020-06-30,분기말 총자본(자기자본),9776800000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/75362/000156459020035572/,"StockholdersEquity, MinorityInterest 태그 없음",9
+PACCAR,PCAR,2020Q2,2020-06-30,분기말 지배지분 자본,9776800000,USD,공시,https://www.sec.gov/Archives/edgar/data/75362/000156459020035572/,,9
+PACCAR,PCAR,2020Q2,2020-06-30,분기말 종가,74.85,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/PCAR?interval=1d&events=splits (2020-06-30),분할조정 종가 49.9 × 이후 분할계수 1.5,9
+PACCAR,PCAR,2020Q2,2020-07-30,분기말 상장주식수,346148924,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/75362/000156459020035572/,dei:EntityCommonStockSharesOutstanding 클래스 합,9
+PACCAR,PCAR,2020Q2,2020-06-30,분기말 시가총액,25909246961,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/PCAR?interval=1d&events=splits (2020-06-30) ; https://www.sec.gov/Archives/edgar/data/75362/000156459020035572/,종가 74.85 × 주식수 346148924,9
+PACCAR,PCAR,2020Q3,2020-09-30,분기별 매출액,4936000000,USD,공시,https://www.sec.gov/Archives/edgar/data/75362/000156459020049631/,,9
+PACCAR,PCAR,2020Q3,2020-09-30,분기별 영업이익,미확인,USD,미확인,SEC companyfacts CIK0000075362: 해당 보고서에 OperatingIncomeLoss 태그 없음(영업이익 미공시) ; SEC companyfacts CIK0000075362: OperatingIncomeLoss 태그 없음(영업이익 미공시),,9
+PACCAR,PCAR,2020Q3,2020-09-30,분기별 당기순이익(지배),385500000,USD,공시,https://www.sec.gov/Archives/edgar/data/75362/000156459020049631/,,9
+PACCAR,PCAR,2020Q3,2020-09-30,분기별 영업활동현금흐름,831700000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/75362/000156459020049631/ ; https://www.sec.gov/Archives/edgar/data/75362/000156459020035572/,누적 2192500000 − 직전누적 1360800000 (시작 2020-01-01),9
+PACCAR,PCAR,2020Q3,2020-09-30,분기말 자산총계,27233700000,USD,공시,https://www.sec.gov/Archives/edgar/data/75362/000156459020049631/,,9
+PACCAR,PCAR,2020Q3,2020-09-30,분기말 부채총계,17049300000,USD,계산(부채및자본-총자본),https://www.sec.gov/Archives/edgar/data/75362/000156459020049631/,부채및자본 27233700000 − 총자본 10184400000,9
+PACCAR,PCAR,2020Q3,2020-09-30,분기말 총자본(자기자본),10184400000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/75362/000156459020049631/,"StockholdersEquity, MinorityInterest 태그 없음",9
+PACCAR,PCAR,2020Q3,2020-09-30,분기말 지배지분 자본,10184400000,USD,공시,https://www.sec.gov/Archives/edgar/data/75362/000156459020049631/,,9
+PACCAR,PCAR,2020Q3,2020-09-30,분기말 종가,85.28,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/PCAR?interval=1d&events=splits (2020-09-30),분할조정 종가 56.8533 × 이후 분할계수 1.5,9
+PACCAR,PCAR,2020Q3,2020-10-29,분기말 상장주식수,346439802,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/75362/000156459020049631/,dei:EntityCommonStockSharesOutstanding 클래스 합,9
+PACCAR,PCAR,2020Q3,2020-09-30,분기말 시가총액,29544386315,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/PCAR?interval=1d&events=splits (2020-09-30) ; https://www.sec.gov/Archives/edgar/data/75362/000156459020049631/,종가 85.28 × 주식수 346439802,9
+PACCAR,PCAR,2020Q4,2020-12-31,분기별 매출액,5568600000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/75362/000156459021006370/ ; https://www.sec.gov/Archives/edgar/data/75362/000156459020049631/,연간 18728500000 − 9개월누적 13159900000 (Revenues),9
+PACCAR,PCAR,2020Q4,2020-12-31,분기별 영업이익,미확인,USD,미확인,SEC companyfacts CIK0000075362: 해당 보고서에 OperatingIncomeLoss 태그 없음(영업이익 미공시) ; SEC companyfacts CIK0000075362: OperatingIncomeLoss 태그 없음(영업이익 미공시),,9
+PACCAR,PCAR,2020Q4,2020-12-31,분기별 당기순이익(지배),405800000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/75362/000156459021006370/ ; https://www.sec.gov/Archives/edgar/data/75362/000156459020049631/,연간 1298400000 − 9개월누적 892600000 (NetIncomeLoss),9
+PACCAR,PCAR,2020Q4,2020-12-31,분기별 영업활동현금흐름,794700000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/75362/000156459021006370/ ; https://www.sec.gov/Archives/edgar/data/75362/000156459020049631/,누적 2987200000 − 직전누적 2192500000 (시작 2020-01-01),9
+PACCAR,PCAR,2020Q4,2020-12-31,분기말 자산총계,28260000000,USD,공시,https://www.sec.gov/Archives/edgar/data/75362/000156459021006370/,,9
+PACCAR,PCAR,2020Q4,2020-12-31,분기말 부채총계,17870000000,USD,계산(부채및자본-총자본),https://www.sec.gov/Archives/edgar/data/75362/000156459021006370/,부채및자본 28260000000 − 총자본 10390000000,9
+PACCAR,PCAR,2020Q4,2020-12-31,분기말 총자본(자기자본),10390000000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/75362/000156459021006370/,"StockholdersEquity, MinorityInterest 태그 없음",9
+PACCAR,PCAR,2020Q4,2020-12-31,분기말 지배지분 자본,10390000000,USD,공시,https://www.sec.gov/Archives/edgar/data/75362/000156459021006370/,,9
+PACCAR,PCAR,2020Q4,2020-12-31,분기말 종가,86.28,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/PCAR?interval=1d&events=splits (2020-12-31),분할조정 종가 57.52 × 이후 분할계수 1.5,9
+PACCAR,PCAR,2020Q4,2021-01-31,분기말 상장주식수,346936820,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/75362/000156459021006370/,dei:EntityCommonStockSharesOutstanding 클래스 합,9
+PACCAR,PCAR,2020Q4,2020-12-31,분기말 시가총액,29933708830,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/PCAR?interval=1d&events=splits (2020-12-31) ; https://www.sec.gov/Archives/edgar/data/75362/000156459021006370/,종가 86.28 × 주식수 346936820,9
+PACCAR,PCAR,2021Q1,2021-03-31,분기별 매출액,5845500000,USD,공시,https://www.sec.gov/Archives/edgar/data/75362/000156459021022825/,,9
+PACCAR,PCAR,2021Q1,2021-03-31,분기별 영업이익,미확인,USD,미확인,SEC companyfacts CIK0000075362: 해당 보고서에 OperatingIncomeLoss 태그 없음(영업이익 미공시) ; SEC companyfacts CIK0000075362: OperatingIncomeLoss 태그 없음(영업이익 미공시),,9
+PACCAR,PCAR,2021Q1,2021-03-31,분기별 당기순이익(지배),470100000,USD,공시,https://www.sec.gov/Archives/edgar/data/75362/000156459021022825/,,9
+PACCAR,PCAR,2021Q1,2021-03-31,분기별 영업활동현금흐름,536900000,USD,공시,https://www.sec.gov/Archives/edgar/data/75362/000156459021022825/,,9
+PACCAR,PCAR,2021Q1,2021-03-31,분기말 자산총계,28503400000,USD,공시,https://www.sec.gov/Archives/edgar/data/75362/000156459021022825/,,9
+PACCAR,PCAR,2021Q1,2021-03-31,분기말 부채총계,17641700000,USD,계산(부채및자본-총자본)(재작성 반영),https://www.sec.gov/Archives/edgar/data/75362/000156459021022825/,부채및자본 28503400000 − 총자본 10861700000 ; 원 공시 17785700000 (https://www.sec.gov/Archives/edgar/data/75362/000156459021022825/),9
+PACCAR,PCAR,2021Q1,2021-03-31,분기말 총자본(자기자본),10861700000,USD,공시(비지배 없음)(재작성 반영),https://www.sec.gov/Archives/edgar/data/75362/000156459022017431/,"StockholdersEquity, MinorityInterest 태그 없음 ; 원 공시 10717700000 (https://www.sec.gov/Archives/edgar/data/75362/000156459021022825/)",9
+PACCAR,PCAR,2021Q1,2021-03-31,분기말 지배지분 자본,10861700000,USD,공시(재작성 반영),https://www.sec.gov/Archives/edgar/data/75362/000156459022017431/,원 공시 10717700000 (https://www.sec.gov/Archives/edgar/data/75362/000156459021022825/),9
+PACCAR,PCAR,2021Q1,2021-03-31,분기말 종가,92.92,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/PCAR?interval=1d&events=splits (2021-03-31),분할조정 종가 61.9467 × 이후 분할계수 1.5,9
+PACCAR,PCAR,2021Q1,2021-04-29,분기말 상장주식수,347156397,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/75362/000156459021022825/,dei:EntityCommonStockSharesOutstanding 클래스 합,9
+PACCAR,PCAR,2021Q1,2021-03-31,분기말 시가총액,32257772409,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/PCAR?interval=1d&events=splits (2021-03-31) ; https://www.sec.gov/Archives/edgar/data/75362/000156459021022825/,종가 92.92 × 주식수 347156397,9
+PACCAR,PCAR,2021Q2,2021-06-30,분기별 매출액,5843900000,USD,공시,https://www.sec.gov/Archives/edgar/data/75362/000156459021039777/,,9
+PACCAR,PCAR,2021Q2,2021-06-30,분기별 영업이익,미확인,USD,미확인,SEC companyfacts CIK0000075362: 해당 보고서에 OperatingIncomeLoss 태그 없음(영업이익 미공시) ; SEC companyfacts CIK0000075362: OperatingIncomeLoss 태그 없음(영업이익 미공시),,9
+PACCAR,PCAR,2021Q2,2021-06-30,분기별 당기순이익(지배),492900000,USD,공시,https://www.sec.gov/Archives/edgar/data/75362/000156459021039777/,,9
+PACCAR,PCAR,2021Q2,2021-06-30,분기별 영업활동현금흐름,330800000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/75362/000156459021039777/ ; https://www.sec.gov/Archives/edgar/data/75362/000156459021022825/,누적 867700000 − 직전누적 536900000 (시작 2021-01-01),9
+PACCAR,PCAR,2021Q2,2021-06-30,분기말 자산총계,29012200000,USD,공시,https://www.sec.gov/Archives/edgar/data/75362/000156459021039777/,,9
+PACCAR,PCAR,2021Q2,2021-06-30,분기말 부채총계,17681900000,USD,계산(부채및자본-총자본)(재작성 반영),https://www.sec.gov/Archives/edgar/data/75362/000156459021039777/,부채및자본 29012200000 − 총자본 11330300000 ; 원 공시 17828400000 (https://www.sec.gov/Archives/edgar/data/75362/000156459021039777/),9
+PACCAR,PCAR,2021Q2,2021-06-30,분기말 총자본(자기자본),11330300000,USD,공시(비지배 없음)(재작성 반영),https://www.sec.gov/Archives/edgar/data/75362/000156459022027473/,"StockholdersEquity, MinorityInterest 태그 없음 ; 원 공시 11183800000 (https://www.sec.gov/Archives/edgar/data/75362/000156459021039777/)",9
+PACCAR,PCAR,2021Q2,2021-06-30,분기말 지배지분 자본,11330300000,USD,공시(재작성 반영),https://www.sec.gov/Archives/edgar/data/75362/000156459022027473/,원 공시 11183800000 (https://www.sec.gov/Archives/edgar/data/75362/000156459021039777/),9
+PACCAR,PCAR,2021Q2,2021-06-30,분기말 종가,89.25,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/PCAR?interval=1d&events=splits (2021-06-30),분할조정 종가 59.5 × 이후 분할계수 1.5,9
+PACCAR,PCAR,2021Q2,2021-07-29,분기말 상장주식수,347173392,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/75362/000156459021039777/,dei:EntityCommonStockSharesOutstanding 클래스 합,9
+PACCAR,PCAR,2021Q2,2021-06-30,분기말 시가총액,30985225236,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/PCAR?interval=1d&events=splits (2021-06-30) ; https://www.sec.gov/Archives/edgar/data/75362/000156459021039777/,종가 89.25 × 주식수 347173392,9
+PACCAR,PCAR,2021Q3,2021-09-30,분기별 매출액,5146800000,USD,공시,https://www.sec.gov/Archives/edgar/data/75362/000156459021053170/,,9
+PACCAR,PCAR,2021Q3,2021-09-30,분기별 영업이익,미확인,USD,미확인,SEC companyfacts CIK0000075362: 해당 보고서에 OperatingIncomeLoss 태그 없음(영업이익 미공시) ; SEC companyfacts CIK0000075362: OperatingIncomeLoss 태그 없음(영업이익 미공시),,9
+PACCAR,PCAR,2021Q3,2021-09-30,분기별 당기순이익(지배),377700000,USD,공시,https://www.sec.gov/Archives/edgar/data/75362/000156459021053170/,,9
+PACCAR,PCAR,2021Q3,2021-09-30,분기별 영업활동현금흐름,282500000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/75362/000156459021053170/ ; https://www.sec.gov/Archives/edgar/data/75362/000156459021039777/,누적 1150200000 − 직전누적 867700000 (시작 2021-01-01),9
+PACCAR,PCAR,2021Q3,2021-09-30,분기말 자산총계,27909900000,USD,공시,https://www.sec.gov/Archives/edgar/data/75362/000156459021053170/,,9
+PACCAR,PCAR,2021Q3,2021-09-30,분기말 부채총계,16430100000,USD,계산(부채및자본-총자본)(재작성 반영),https://www.sec.gov/Archives/edgar/data/75362/000156459021053170/,부채및자본 27909900000 − 총자본 11479800000 ; 원 공시 16579500000 (https://www.sec.gov/Archives/edgar/data/75362/000156459021053170/),9
+PACCAR,PCAR,2021Q3,2021-09-30,분기말 총자본(자기자본),11479800000,USD,공시(비지배 없음)(재작성 반영),https://www.sec.gov/Archives/edgar/data/75362/000156459022035704/,"StockholdersEquity, MinorityInterest 태그 없음 ; 원 공시 11330400000 (https://www.sec.gov/Archives/edgar/data/75362/000156459021053170/)",9
+PACCAR,PCAR,2021Q3,2021-09-30,분기말 지배지분 자본,11479800000,USD,공시(재작성 반영),https://www.sec.gov/Archives/edgar/data/75362/000156459022035704/,원 공시 11330400000 (https://www.sec.gov/Archives/edgar/data/75362/000156459021053170/),9
+PACCAR,PCAR,2021Q3,2021-09-30,분기말 종가,78.92,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/PCAR?interval=1d&events=splits (2021-09-30),분할조정 종가 52.6133 × 이후 분할계수 1.5,9
+PACCAR,PCAR,2021Q3,2021-10-28,분기말 상장주식수,347177323,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/75362/000156459021053170/,dei:EntityCommonStockSharesOutstanding 클래스 합,9
+PACCAR,PCAR,2021Q3,2021-09-30,분기말 시가총액,27399234331,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/PCAR?interval=1d&events=splits (2021-09-30) ; https://www.sec.gov/Archives/edgar/data/75362/000156459021053170/,종가 78.92 × 주식수 347177323,9
+PACCAR,PCAR,2021Q4,2021-12-31,분기별 매출액,6686100000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/75362/000156459022006237/ ; https://www.sec.gov/Archives/edgar/data/75362/000156459021053170/,연간 23522300000 − 9개월누적 16836200000 (Revenues),9
+PACCAR,PCAR,2021Q4,2021-12-31,분기별 영업이익,미확인,USD,미확인,SEC companyfacts CIK0000075362: 해당 보고서에 OperatingIncomeLoss 태그 없음(영업이익 미공시) ; SEC companyfacts CIK0000075362: OperatingIncomeLoss 태그 없음(영업이익 미공시),,9
+PACCAR,PCAR,2021Q4,2021-12-31,분기별 당기순이익(지배),511400000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/75362/000156459022006237/ ; https://www.sec.gov/Archives/edgar/data/75362/000156459021053170/,연간 1852100000 − 9개월누적 1340700000 (NetIncomeLoss),9
+PACCAR,PCAR,2021Q4,2021-12-31,분기별 영업활동현금흐름,1036500000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/75362/000156459022006237/ ; https://www.sec.gov/Archives/edgar/data/75362/000156459021053170/,누적 2186700000 − 직전누적 1150200000 (시작 2021-01-01),9
+PACCAR,PCAR,2021Q4,2021-12-31,분기말 자산총계,29509400000,USD,공시(재작성 반영),https://www.sec.gov/Archives/edgar/data/75362/000095017024017900/,원 공시 29301700000 (https://www.sec.gov/Archives/edgar/data/75362/000156459022006237/),9
+PACCAR,PCAR,2021Q4,2021-12-31,분기말 부채총계,17915400000,USD,계산(부채및자본-총자본)(재작성 반영),https://www.sec.gov/Archives/edgar/data/75362/000156459023002203/,부채및자본 29509400000 − 총자본 11594000000 ; 원 공시 17864300000 (https://www.sec.gov/Archives/edgar/data/75362/000156459022006237/),9
+PACCAR,PCAR,2021Q4,2021-12-31,분기말 총자본(자기자본),11594000000,USD,공시(비지배 없음)(재작성 반영),https://www.sec.gov/Archives/edgar/data/75362/000095017024017900/,"StockholdersEquity, MinorityInterest 태그 없음 ; 원 공시 11437400000 (https://www.sec.gov/Archives/edgar/data/75362/000156459022006237/)",9
+PACCAR,PCAR,2021Q4,2021-12-31,분기말 지배지분 자본,11594000000,USD,공시(재작성 반영),https://www.sec.gov/Archives/edgar/data/75362/000095017024017900/,원 공시 11437400000 (https://www.sec.gov/Archives/edgar/data/75362/000156459022006237/),9
+PACCAR,PCAR,2021Q4,2021-12-31,분기말 종가,88.26,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/PCAR?interval=1d&events=splits (2021-12-31),분할조정 종가 58.84 × 이후 분할계수 1.5,9
+PACCAR,PCAR,2021Q4,2022-01-31,분기말 상장주식수,347571995,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/75362/000156459022006237/,dei:EntityCommonStockSharesOutstanding 클래스 합,9
+PACCAR,PCAR,2021Q4,2021-12-31,분기말 시가총액,30676704279,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/PCAR?interval=1d&events=splits (2021-12-31) ; https://www.sec.gov/Archives/edgar/data/75362/000156459022006237/,종가 88.26 × 주식수 347571995,9
+PACCAR,PCAR,2022Q1,2022-03-31,분기별 매출액,6472600000,USD,공시,https://www.sec.gov/Archives/edgar/data/75362/000156459022017431/,,9
+PACCAR,PCAR,2022Q1,2022-03-31,분기별 영업이익,미확인,USD,미확인,SEC companyfacts CIK0000075362: 해당 보고서에 OperatingIncomeLoss 태그 없음(영업이익 미공시) ; SEC companyfacts CIK0000075362: OperatingIncomeLoss 태그 없음(영업이익 미공시),,9
+PACCAR,PCAR,2022Q1,2022-03-31,분기별 당기순이익(지배),600500000,USD,공시,https://www.sec.gov/Archives/edgar/data/75362/000156459022017431/,,9
+PACCAR,PCAR,2022Q1,2022-03-31,분기별 영업활동현금흐름,459300000,USD,공시,https://www.sec.gov/Archives/edgar/data/75362/000156459022017431/,,9
+PACCAR,PCAR,2022Q1,2022-03-31,분기말 자산총계,30586100000,USD,공시,https://www.sec.gov/Archives/edgar/data/75362/000156459022017431/,,9
+PACCAR,PCAR,2022Q1,2022-03-31,분기말 부채총계,18442800000,USD,계산(부채및자본-총자본),https://www.sec.gov/Archives/edgar/data/75362/000156459022017431/,부채및자본 30586100000 − 총자본 12143300000,9
+PACCAR,PCAR,2022Q1,2022-03-31,분기말 총자본(자기자본),12143300000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/75362/000156459022017431/,"StockholdersEquity, MinorityInterest 태그 없음",9
+PACCAR,PCAR,2022Q1,2022-03-31,분기말 지배지분 자본,12143300000,USD,공시,https://www.sec.gov/Archives/edgar/data/75362/000156459022017431/,,9
+PACCAR,PCAR,2022Q1,2022-03-31,분기말 종가,88.07,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/PCAR?interval=1d&events=splits (2022-03-31),분할조정 종가 58.7133 × 이후 분할계수 1.5,9
+PACCAR,PCAR,2022Q1,2022-04-28,분기말 상장주식수,347683222,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/75362/000156459022017431/,dei:EntityCommonStockSharesOutstanding 클래스 합,9
+PACCAR,PCAR,2022Q1,2022-03-31,분기말 시가총액,30620461362,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/PCAR?interval=1d&events=splits (2022-03-31) ; https://www.sec.gov/Archives/edgar/data/75362/000156459022017431/,종가 88.07 × 주식수 347683222,9
+PACCAR,PCAR,2022Q2,2022-06-30,분기별 매출액,7158700000,USD,공시,https://www.sec.gov/Archives/edgar/data/75362/000156459022027473/,,9
+PACCAR,PCAR,2022Q2,2022-06-30,분기별 영업이익,미확인,USD,미확인,SEC companyfacts CIK0000075362: 해당 보고서에 OperatingIncomeLoss 태그 없음(영업이익 미공시) ; SEC companyfacts CIK0000075362: OperatingIncomeLoss 태그 없음(영업이익 미공시),,9
+PACCAR,PCAR,2022Q2,2022-06-30,분기별 당기순이익(지배),720400000,USD,공시,https://www.sec.gov/Archives/edgar/data/75362/000156459022027473/,,9
+PACCAR,PCAR,2022Q2,2022-06-30,분기별 영업활동현금흐름,638200000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/75362/000156459022027473/ ; https://www.sec.gov/Archives/edgar/data/75362/000156459022017431/,누적 1097500000 − 직전누적 459300000 (시작 2022-01-01),9
+PACCAR,PCAR,2022Q2,2022-06-30,분기말 자산총계,30588700000,USD,공시,https://www.sec.gov/Archives/edgar/data/75362/000156459022027473/,,9
+PACCAR,PCAR,2022Q2,2022-06-30,분기말 부채총계,18070700000,USD,계산(부채및자본-총자본),https://www.sec.gov/Archives/edgar/data/75362/000156459022027473/,부채및자본 30588700000 − 총자본 12518000000,9
+PACCAR,PCAR,2022Q2,2022-06-30,분기말 총자본(자기자본),12518000000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/75362/000156459022027473/,"StockholdersEquity, MinorityInterest 태그 없음",9
+PACCAR,PCAR,2022Q2,2022-06-30,분기말 지배지분 자본,12518000000,USD,공시,https://www.sec.gov/Archives/edgar/data/75362/000156459022027473/,,9
+PACCAR,PCAR,2022Q2,2022-06-30,분기말 종가,82.34,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/PCAR?interval=1d&events=splits (2022-06-30),분할조정 종가 54.8933 × 이후 분할계수 1.5,9
+PACCAR,PCAR,2022Q2,2022-07-28,분기말 상장주식수,347718742,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/75362/000156459022027473/,dei:EntityCommonStockSharesOutstanding 클래스 합,9
+PACCAR,PCAR,2022Q2,2022-06-30,분기말 시가총액,28631161216,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/PCAR?interval=1d&events=splits (2022-06-30) ; https://www.sec.gov/Archives/edgar/data/75362/000156459022027473/,종가 82.34 × 주식수 347718742,9
+PACCAR,PCAR,2022Q3,2022-09-30,분기별 매출액,7058900000,USD,공시,https://www.sec.gov/Archives/edgar/data/75362/000156459022035704/,,9
+PACCAR,PCAR,2022Q3,2022-09-30,분기별 영업이익,미확인,USD,미확인,SEC companyfacts CIK0000075362: 해당 보고서에 OperatingIncomeLoss 태그 없음(영업이익 미공시) ; SEC companyfacts CIK0000075362: OperatingIncomeLoss 태그 없음(영업이익 미공시),,9
+PACCAR,PCAR,2022Q3,2022-09-30,분기별 당기순이익(지배),769400000,USD,공시,https://www.sec.gov/Archives/edgar/data/75362/000156459022035704/,,9
+PACCAR,PCAR,2022Q3,2022-09-30,분기별 영업활동현금흐름,680700000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/75362/000156459022035704/ ; https://www.sec.gov/Archives/edgar/data/75362/000156459022027473/,누적 1778200000 − 직전누적 1097500000 (시작 2022-01-01),9
+PACCAR,PCAR,2022Q3,2022-09-30,분기말 자산총계,30623600000,USD,공시,https://www.sec.gov/Archives/edgar/data/75362/000156459022035704/,,9
+PACCAR,PCAR,2022Q3,2022-09-30,분기말 부채총계,17730100000,USD,계산(부채및자본-총자본),https://www.sec.gov/Archives/edgar/data/75362/000156459022035704/,부채및자본 30623600000 − 총자본 12893500000,9
+PACCAR,PCAR,2022Q3,2022-09-30,분기말 총자본(자기자본),12893500000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/75362/000156459022035704/,"StockholdersEquity, MinorityInterest 태그 없음",9
+PACCAR,PCAR,2022Q3,2022-09-30,분기말 지배지분 자본,12893500000,USD,공시,https://www.sec.gov/Archives/edgar/data/75362/000156459022035704/,,9
+PACCAR,PCAR,2022Q3,2022-09-30,분기말 종가,83.69,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/PCAR?interval=1d&events=splits (2022-09-30),분할조정 종가 55.7933 × 이후 분할계수 1.5,9
+PACCAR,PCAR,2022Q3,2022-10-25,분기말 상장주식수,347767575,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/75362/000156459022035704/,dei:EntityCommonStockSharesOutstanding 클래스 합,9
+PACCAR,PCAR,2022Q3,2022-09-30,분기말 시가총액,29104668352,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/PCAR?interval=1d&events=splits (2022-09-30) ; https://www.sec.gov/Archives/edgar/data/75362/000156459022035704/,종가 83.69 × 주식수 347767575,9
+PACCAR,PCAR,2022Q4,2022-12-31,분기별 매출액,8129500000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/75362/000156459023002203/ ; https://www.sec.gov/Archives/edgar/data/75362/000156459022035704/,연간 28819700000 − 9개월누적 20690200000 (Revenues),9
+PACCAR,PCAR,2022Q4,2022-12-31,분기별 영업이익,미확인,USD,미확인,SEC companyfacts CIK0000075362: 해당 보고서에 OperatingIncomeLoss 태그 없음(영업이익 미공시) ; SEC companyfacts CIK0000075362: OperatingIncomeLoss 태그 없음(영업이익 미공시),,9
+PACCAR,PCAR,2022Q4,2022-12-31,분기별 당기순이익(지배),921300000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/75362/000156459023002203/ ; https://www.sec.gov/Archives/edgar/data/75362/000156459022035704/,연간 3011600000 − 9개월누적 2090300000 (NetIncomeLoss),9
+PACCAR,PCAR,2022Q4,2022-12-31,분기별 영업활동현금흐름,1248800000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/75362/000156459023002203/ ; https://www.sec.gov/Archives/edgar/data/75362/000156459022035704/,누적 3027000000 − 직전누적 1778200000 (시작 2022-01-01),9
+PACCAR,PCAR,2022Q4,2022-12-31,분기말 자산총계,33275500000,USD,공시,https://www.sec.gov/Archives/edgar/data/75362/000156459023002203/,,9
+PACCAR,PCAR,2022Q4,2022-12-31,분기말 부채총계,20108400000,USD,계산(부채및자본-총자본),https://www.sec.gov/Archives/edgar/data/75362/000156459023002203/,부채및자본 33275500000 − 총자본 13167100000,9
+PACCAR,PCAR,2022Q4,2022-12-31,분기말 총자본(자기자본),13167100000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/75362/000156459023002203/,"StockholdersEquity, MinorityInterest 태그 없음",9
+PACCAR,PCAR,2022Q4,2022-12-31,분기말 지배지분 자본,13167100000,USD,공시,https://www.sec.gov/Archives/edgar/data/75362/000156459023002203/,,9
+PACCAR,PCAR,2022Q4,2022-12-30,분기말 종가,98.97,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/PCAR?interval=1d&events=splits (2022-12-30),분할조정 종가 65.98 × 이후 분할계수 1.5,9
+PACCAR,PCAR,2022Q4,2023-02-10,분기말 상장주식수,522513846,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/75362/000156459023002203/,dei:EntityCommonStockSharesOutstanding 클래스 합; 표지 기준일이 분할 후,9
+PACCAR,PCAR,2022Q4,2022-12-30,분기말 시가총액,34475463559,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/PCAR?interval=1d&events=splits (2022-12-30) ; https://www.sec.gov/Archives/edgar/data/75362/000156459023002203/,종가 98.97 × 주식수 522513846 ÷ 분할비율 1.5 (분할일 2023-02-08가 거래일 2022-12-30와 표지 기준일 2023-02-10 사이),9
+PACCAR,PCAR,2023Q1,2023-03-31,분기별 매출액,8473300000,USD,공시,https://www.sec.gov/Archives/edgar/data/75362/000156459023006847/,,9
+PACCAR,PCAR,2023Q1,2023-03-31,분기별 영업이익,미확인,USD,미확인,SEC companyfacts CIK0000075362: 해당 보고서에 OperatingIncomeLoss 태그 없음(영업이익 미공시) ; SEC companyfacts CIK0000075362: OperatingIncomeLoss 태그 없음(영업이익 미공시),,9
+PACCAR,PCAR,2023Q1,2023-03-31,분기별 당기순이익(지배),733900000,USD,공시,https://www.sec.gov/Archives/edgar/data/75362/000156459023006847/,,9
+PACCAR,PCAR,2023Q1,2023-03-31,분기별 영업활동현금흐름,684800000,USD,공시,https://www.sec.gov/Archives/edgar/data/75362/000156459023006847/,,9
+PACCAR,PCAR,2023Q1,2023-03-31,분기말 자산총계,34826400000,USD,공시,https://www.sec.gov/Archives/edgar/data/75362/000156459023006847/,,9
+PACCAR,PCAR,2023Q1,2023-03-31,분기말 부채총계,20944400000,USD,계산(부채및자본-총자본),https://www.sec.gov/Archives/edgar/data/75362/000156459023006847/,부채및자본 34826400000 − 총자본 13882000000,9
+PACCAR,PCAR,2023Q1,2023-03-31,분기말 총자본(자기자본),13882000000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/75362/000156459023006847/,"StockholdersEquity, MinorityInterest 태그 없음",9
+PACCAR,PCAR,2023Q1,2023-03-31,분기말 지배지분 자본,13882000000,USD,공시,https://www.sec.gov/Archives/edgar/data/75362/000156459023006847/,,9
+PACCAR,PCAR,2023Q1,2023-03-31,분기말 종가,73.2,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/PCAR?interval=1d&events=splits (2023-03-31),,9
+PACCAR,PCAR,2023Q1,2023-04-28,분기말 상장주식수,522579036,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/75362/000156459023006847/,dei:EntityCommonStockSharesOutstanding 클래스 합,9
+PACCAR,PCAR,2023Q1,2023-03-31,분기말 시가총액,38252785435,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/PCAR?interval=1d&events=splits (2023-03-31) ; https://www.sec.gov/Archives/edgar/data/75362/000156459023006847/,종가 73.2 × 주식수 522579036,9
+PACCAR,PCAR,2023Q2,2023-06-30,분기별 매출액,8881100000,USD,공시,https://www.sec.gov/Archives/edgar/data/75362/000095017023037133/,,9
+PACCAR,PCAR,2023Q2,2023-06-30,분기별 영업이익,미확인,USD,미확인,SEC companyfacts CIK0000075362: 해당 보고서에 OperatingIncomeLoss 태그 없음(영업이익 미공시) ; SEC companyfacts CIK0000075362: OperatingIncomeLoss 태그 없음(영업이익 미공시),,9
+PACCAR,PCAR,2023Q2,2023-06-30,분기별 당기순이익(지배),1221100000,USD,공시,https://www.sec.gov/Archives/edgar/data/75362/000095017023037133/,,9
+PACCAR,PCAR,2023Q2,2023-06-30,분기별 영업활동현금흐름,975500000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/75362/000095017023037133/ ; https://www.sec.gov/Archives/edgar/data/75362/000156459023006847/,누적 1660300000 − 직전누적 684800000 (시작 2023-01-01),9
+PACCAR,PCAR,2023Q2,2023-06-30,분기말 자산총계,36867700000,USD,공시,https://www.sec.gov/Archives/edgar/data/75362/000095017023037133/,,9
+PACCAR,PCAR,2023Q2,2023-06-30,분기말 부채총계,21788400000,USD,계산(부채및자본-총자본),https://www.sec.gov/Archives/edgar/data/75362/000095017023037133/,부채및자본 36867700000 − 총자본 15079300000,9
+PACCAR,PCAR,2023Q2,2023-06-30,분기말 총자본(자기자본),15079300000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/75362/000095017023037133/,"StockholdersEquity, MinorityInterest 태그 없음",9
+PACCAR,PCAR,2023Q2,2023-06-30,분기말 지배지분 자본,15079300000,USD,공시,https://www.sec.gov/Archives/edgar/data/75362/000095017023037133/,,9
+PACCAR,PCAR,2023Q2,2023-06-30,분기말 종가,83.65,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/PCAR?interval=1d&events=splits (2023-06-30),,9
+PACCAR,PCAR,2023Q2,2023-07-28,분기말 상장주식수,522805095,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/75362/000095017023037133/,dei:EntityCommonStockSharesOutstanding 클래스 합,9
+PACCAR,PCAR,2023Q2,2023-06-30,분기말 시가총액,43732646197,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/PCAR?interval=1d&events=splits (2023-06-30) ; https://www.sec.gov/Archives/edgar/data/75362/000095017023037133/,종가 83.65 × 주식수 522805095,9
+PACCAR,PCAR,2023Q3,2023-09-30,분기별 매출액,8696400000,USD,공시,https://www.sec.gov/Archives/edgar/data/75362/000095017023058179/,,9
+PACCAR,PCAR,2023Q3,2023-09-30,분기별 영업이익,미확인,USD,미확인,SEC companyfacts CIK0000075362: 해당 보고서에 OperatingIncomeLoss 태그 없음(영업이익 미공시) ; SEC companyfacts CIK0000075362: OperatingIncomeLoss 태그 없음(영업이익 미공시),,9
+PACCAR,PCAR,2023Q3,2023-09-30,분기별 당기순이익(지배),1228500000,USD,공시,https://www.sec.gov/Archives/edgar/data/75362/000095017023058179/,,9
+PACCAR,PCAR,2023Q3,2023-09-30,분기별 영업활동현금흐름,1343000000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/75362/000095017023058179/ ; https://www.sec.gov/Archives/edgar/data/75362/000095017023037133/,누적 3003300000 − 직전누적 1660300000 (시작 2023-01-01),9
+PACCAR,PCAR,2023Q3,2023-09-30,분기말 자산총계,38039500000,USD,공시,https://www.sec.gov/Archives/edgar/data/75362/000095017023058179/,,9
+PACCAR,PCAR,2023Q3,2023-09-30,분기말 부채총계,22016400000,USD,계산(부채및자본-총자본),https://www.sec.gov/Archives/edgar/data/75362/000095017023058179/,부채및자본 38039500000 − 총자본 16023100000,9
+PACCAR,PCAR,2023Q3,2023-09-30,분기말 총자본(자기자본),16023100000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/75362/000095017023058179/,"StockholdersEquity, MinorityInterest 태그 없음",9
+PACCAR,PCAR,2023Q3,2023-09-30,분기말 지배지분 자본,16023100000,USD,공시,https://www.sec.gov/Archives/edgar/data/75362/000095017023058179/,,9
+PACCAR,PCAR,2023Q3,2023-09-29,분기말 종가,85.02,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/PCAR?interval=1d&events=splits (2023-09-29),,9
+PACCAR,PCAR,2023Q3,2023-10-30,분기말 상장주식수,523075842,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/75362/000095017023058179/,dei:EntityCommonStockSharesOutstanding 클래스 합,9
+PACCAR,PCAR,2023Q3,2023-09-29,분기말 시가총액,44471908087,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/PCAR?interval=1d&events=splits (2023-09-29) ; https://www.sec.gov/Archives/edgar/data/75362/000095017023058179/,종가 85.02 × 주식수 523075842,9
+PACCAR,PCAR,2023Q4,2023-12-31,분기별 매출액,9076600000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/75362/000095017024017900/ ; https://www.sec.gov/Archives/edgar/data/75362/000095017023058179/,연간 35127400000 − 9개월누적 26050800000 (Revenues),9
+PACCAR,PCAR,2023Q4,2023-12-31,분기별 영업이익,미확인,USD,미확인,SEC companyfacts CIK0000075362: 해당 보고서에 OperatingIncomeLoss 태그 없음(영업이익 미공시) ; SEC companyfacts CIK0000075362: OperatingIncomeLoss 태그 없음(영업이익 미공시),,9
+PACCAR,PCAR,2023Q4,2023-12-31,분기별 당기순이익(지배),1417300000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/75362/000095017024017900/ ; https://www.sec.gov/Archives/edgar/data/75362/000095017023058179/,연간 4600800000 − 9개월누적 3183500000 (NetIncomeLoss),9
+PACCAR,PCAR,2023Q4,2023-12-31,분기별 영업활동현금흐름,1186700000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/75362/000095017024017900/ ; https://www.sec.gov/Archives/edgar/data/75362/000095017023058179/,누적 4190000000 − 직전누적 3003300000 (시작 2023-01-01),9
+PACCAR,PCAR,2023Q4,2023-12-31,분기말 자산총계,40823400000,USD,공시,https://www.sec.gov/Archives/edgar/data/75362/000095017024017900/,,9
+PACCAR,PCAR,2023Q4,2023-12-31,분기말 부채총계,24944600000,USD,계산(부채및자본-총자본),https://www.sec.gov/Archives/edgar/data/75362/000095017024017900/,부채및자본 40823400000 − 총자본 15878800000,9
+PACCAR,PCAR,2023Q4,2023-12-31,분기말 총자본(자기자본),15878800000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/75362/000095017024017900/,"StockholdersEquity, MinorityInterest 태그 없음",9
+PACCAR,PCAR,2023Q4,2023-12-31,분기말 지배지분 자본,15878800000,USD,공시,https://www.sec.gov/Archives/edgar/data/75362/000095017024017900/,,9
+PACCAR,PCAR,2023Q4,2023-12-29,분기말 종가,97.65,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/PCAR?interval=1d&events=splits (2023-12-29),,9
+PACCAR,PCAR,2023Q4,2024-02-09,분기말 상장주식수,523883677,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/75362/000095017024017900/,dei:EntityCommonStockSharesOutstanding 클래스 합,9
+PACCAR,PCAR,2023Q4,2023-12-29,분기말 시가총액,51157241059,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/PCAR?interval=1d&events=splits (2023-12-29) ; https://www.sec.gov/Archives/edgar/data/75362/000095017024017900/,종가 97.65 × 주식수 523883677,9
+PACCAR,PCAR,2024Q1,2024-03-31,분기별 매출액,8744300000,USD,공시,https://www.sec.gov/Archives/edgar/data/75362/000095017024052081/,,9
+PACCAR,PCAR,2024Q1,2024-03-31,분기별 영업이익,미확인,USD,미확인,SEC companyfacts CIK0000075362: 해당 보고서에 OperatingIncomeLoss 태그 없음(영업이익 미공시) ; SEC companyfacts CIK0000075362: OperatingIncomeLoss 태그 없음(영업이익 미공시),,9
+PACCAR,PCAR,2024Q1,2024-03-31,분기별 당기순이익(지배),1195300000,USD,공시,https://www.sec.gov/Archives/edgar/data/75362/000095017024052081/,,9
+PACCAR,PCAR,2024Q1,2024-03-31,분기별 영업활동현금흐름,1469000000,USD,공시,https://www.sec.gov/Archives/edgar/data/75362/000095017024052081/,,9
+PACCAR,PCAR,2024Q1,2024-03-31,분기말 자산총계,40373600000,USD,공시,https://www.sec.gov/Archives/edgar/data/75362/000095017024052081/,,9
+PACCAR,PCAR,2024Q1,2024-03-31,분기말 부채총계,23501700000,USD,계산(부채및자본-총자본),https://www.sec.gov/Archives/edgar/data/75362/000095017024052081/,부채및자본 40373600000 − 총자본 16871900000,9
+PACCAR,PCAR,2024Q1,2024-03-31,분기말 총자본(자기자본),16871900000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/75362/000095017024052081/,"StockholdersEquity, MinorityInterest 태그 없음",9
+PACCAR,PCAR,2024Q1,2024-03-31,분기말 지배지분 자본,16871900000,USD,공시,https://www.sec.gov/Archives/edgar/data/75362/000095017024052081/,,9
+PACCAR,PCAR,2024Q1,2024-03-28,분기말 종가,123.89,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/PCAR?interval=1d&events=splits (2024-03-28),,9
+PACCAR,PCAR,2024Q1,2024-04-29,분기말 상장주식수,524145446,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/75362/000095017024052081/,dei:EntityCommonStockSharesOutstanding 클래스 합,9
+PACCAR,PCAR,2024Q1,2024-03-28,분기말 시가총액,64936379305,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/PCAR?interval=1d&events=splits (2024-03-28) ; https://www.sec.gov/Archives/edgar/data/75362/000095017024052081/,종가 123.89 × 주식수 524145446,9
+PACCAR,PCAR,2024Q2,2024-06-30,분기별 매출액,8772100000,USD,공시,https://www.sec.gov/Archives/edgar/data/75362/000095017024088553/,,9
+PACCAR,PCAR,2024Q2,2024-06-30,분기별 영업이익,미확인,USD,미확인,SEC companyfacts CIK0000075362: 해당 보고서에 OperatingIncomeLoss 태그 없음(영업이익 미공시) ; SEC companyfacts CIK0000075362: OperatingIncomeLoss 태그 없음(영업이익 미공시),,9
+PACCAR,PCAR,2024Q2,2024-06-30,분기별 당기순이익(지배),1122600000,USD,공시,https://www.sec.gov/Archives/edgar/data/75362/000095017024088553/,,9
+PACCAR,PCAR,2024Q2,2024-06-30,분기별 영업활동현금흐름,440000000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/75362/000095017024088553/ ; https://www.sec.gov/Archives/edgar/data/75362/000095017024052081/,누적 1909000000 − 직전누적 1469000000 (시작 2024-01-01),9
+PACCAR,PCAR,2024Q2,2024-06-30,분기말 자산총계,41176600000,USD,공시,https://www.sec.gov/Archives/edgar/data/75362/000095017024088553/,,9
+PACCAR,PCAR,2024Q2,2024-06-30,분기말 부채총계,23473700000,USD,계산(부채및자본-총자본),https://www.sec.gov/Archives/edgar/data/75362/000095017024088553/,부채및자본 41176600000 − 총자본 17702900000,9
+PACCAR,PCAR,2024Q2,2024-06-30,분기말 총자본(자기자본),17702900000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/75362/000095017024088553/,"StockholdersEquity, MinorityInterest 태그 없음",9
+PACCAR,PCAR,2024Q2,2024-06-30,분기말 지배지분 자본,17702900000,USD,공시,https://www.sec.gov/Archives/edgar/data/75362/000095017024088553/,,9
+PACCAR,PCAR,2024Q2,2024-06-28,분기말 종가,102.94,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/PCAR?interval=1d&events=splits (2024-06-28),,9
+PACCAR,PCAR,2024Q2,2024-07-26,분기말 상장주식수,524221826,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/75362/000095017024088553/,dei:EntityCommonStockSharesOutstanding 클래스 합,9
+PACCAR,PCAR,2024Q2,2024-06-28,분기말 시가총액,53963394768,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/PCAR?interval=1d&events=splits (2024-06-28) ; https://www.sec.gov/Archives/edgar/data/75362/000095017024088553/,종가 102.94 × 주식수 524221826,9
+PACCAR,PCAR,2024Q3,2024-09-30,분기별 매출액,8239900000,USD,공시,https://www.sec.gov/Archives/edgar/data/75362/000095017024118960/,,9
+PACCAR,PCAR,2024Q3,2024-09-30,분기별 영업이익,미확인,USD,미확인,SEC companyfacts CIK0000075362: 해당 보고서에 OperatingIncomeLoss 태그 없음(영업이익 미공시) ; SEC companyfacts CIK0000075362: OperatingIncomeLoss 태그 없음(영업이익 미공시),,9
+PACCAR,PCAR,2024Q3,2024-09-30,분기별 당기순이익(지배),972100000,USD,공시,https://www.sec.gov/Archives/edgar/data/75362/000095017024118960/,,9
+PACCAR,PCAR,2024Q3,2024-09-30,분기별 영업활동현금흐름,1286200000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/75362/000095017024118960/ ; https://www.sec.gov/Archives/edgar/data/75362/000095017024088553/,누적 3195200000 − 직전누적 1909000000 (시작 2024-01-01),9
+PACCAR,PCAR,2024Q3,2024-09-30,분기말 자산총계,43281800000,USD,공시,https://www.sec.gov/Archives/edgar/data/75362/000095017024118960/,,9
+PACCAR,PCAR,2024Q3,2024-09-30,분기말 부채총계,24618200000,USD,계산(부채및자본-총자본),https://www.sec.gov/Archives/edgar/data/75362/000095017024118960/,부채및자본 43281800000 − 총자본 18663600000,9
+PACCAR,PCAR,2024Q3,2024-09-30,분기말 총자본(자기자본),18663600000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/75362/000095017024118960/,"StockholdersEquity, MinorityInterest 태그 없음",9
+PACCAR,PCAR,2024Q3,2024-09-30,분기말 지배지분 자본,18663600000,USD,공시,https://www.sec.gov/Archives/edgar/data/75362/000095017024118960/,,9
+PACCAR,PCAR,2024Q3,2024-09-30,분기말 종가,98.68,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/PCAR?interval=1d&events=splits (2024-09-30),,9
+PACCAR,PCAR,2024Q3,2024-10-25,분기말 상장주식수,524300554,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/75362/000095017024118960/,dei:EntityCommonStockSharesOutstanding 클래스 합,9
+PACCAR,PCAR,2024Q3,2024-09-30,분기말 시가총액,51737978669,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/PCAR?interval=1d&events=splits (2024-09-30) ; https://www.sec.gov/Archives/edgar/data/75362/000095017024118960/,종가 98.68 × 주식수 524300554,9
+PACCAR,PCAR,2024Q4,2024-12-31,분기별 매출액,7907500000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/75362/000095017025023145/ ; https://www.sec.gov/Archives/edgar/data/75362/000095017024118960/,연간 33663800000 − 9개월누적 25756300000 (Revenues),9
+PACCAR,PCAR,2024Q4,2024-12-31,분기별 영업이익,미확인,USD,미확인,SEC companyfacts CIK0000075362: 해당 보고서에 OperatingIncomeLoss 태그 없음(영업이익 미공시) ; SEC companyfacts CIK0000075362: OperatingIncomeLoss 태그 없음(영업이익 미공시),,9
+PACCAR,PCAR,2024Q4,2024-12-31,분기별 당기순이익(지배),872000000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/75362/000095017025023145/ ; https://www.sec.gov/Archives/edgar/data/75362/000095017024118960/,연간 4162000000 − 9개월누적 3290000000 (NetIncomeLoss),9
+PACCAR,PCAR,2024Q4,2024-12-31,분기별 영업활동현금흐름,1445700000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/75362/000095017025023145/ ; https://www.sec.gov/Archives/edgar/data/75362/000095017024118960/,누적 4640900000 − 직전누적 3195200000 (시작 2024-01-01),9
+PACCAR,PCAR,2024Q4,2024-12-31,분기말 자산총계,43418900000,USD,공시,https://www.sec.gov/Archives/edgar/data/75362/000095017025023145/,,9
+PACCAR,PCAR,2024Q4,2024-12-31,분기말 부채총계,25912000000,USD,계산(부채및자본-총자본),https://www.sec.gov/Archives/edgar/data/75362/000095017025023145/,부채및자본 43418900000 − 총자본 17506900000,9
+PACCAR,PCAR,2024Q4,2024-12-31,분기말 총자본(자기자본),17506900000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/75362/000095017025023145/,"StockholdersEquity, MinorityInterest 태그 없음",9
+PACCAR,PCAR,2024Q4,2024-12-31,분기말 지배지분 자본,17506900000,USD,공시,https://www.sec.gov/Archives/edgar/data/75362/000095017025023145/,,9
+PACCAR,PCAR,2024Q4,2024-12-31,분기말 종가,104.02,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/PCAR?interval=1d&events=splits (2024-12-31),,9
+PACCAR,PCAR,2024Q4,2025-01-31,분기말 상장주식수,524802603,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/75362/000095017025023145/,dei:EntityCommonStockSharesOutstanding 클래스 합,9
+PACCAR,PCAR,2024Q4,2024-12-31,분기말 시가총액,54589966764,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/PCAR?interval=1d&events=splits (2024-12-31) ; https://www.sec.gov/Archives/edgar/data/75362/000095017025023145/,종가 104.02 × 주식수 524802603,9
+PACCAR,PCAR,2025Q1,2025-03-31,분기별 매출액,7441700000,USD,공시,https://www.sec.gov/Archives/edgar/data/75362/000095017025061813/,,9
+PACCAR,PCAR,2025Q1,2025-03-31,분기별 영업이익,미확인,USD,미확인,SEC companyfacts CIK0000075362: 해당 보고서에 OperatingIncomeLoss 태그 없음(영업이익 미공시) ; SEC companyfacts CIK0000075362: OperatingIncomeLoss 태그 없음(영업이익 미공시),,9
+PACCAR,PCAR,2025Q1,2025-03-31,분기별 당기순이익(지배),505100000,USD,공시,https://www.sec.gov/Archives/edgar/data/75362/000095017025061813/,,9
+PACCAR,PCAR,2025Q1,2025-03-31,분기별 영업활동현금흐름,910300000,USD,공시,https://www.sec.gov/Archives/edgar/data/75362/000095017025061813/,,9
+PACCAR,PCAR,2025Q1,2025-03-31,분기말 자산총계,42724700000,USD,공시,https://www.sec.gov/Archives/edgar/data/75362/000095017025061813/,,9
+PACCAR,PCAR,2025Q1,2025-03-31,분기말 부채총계,24702600000,USD,계산(부채및자본-총자본),https://www.sec.gov/Archives/edgar/data/75362/000095017025061813/,부채및자본 42724700000 − 총자본 18022100000,9
+PACCAR,PCAR,2025Q1,2025-03-31,분기말 총자본(자기자본),18022100000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/75362/000095017025061813/,"StockholdersEquity, MinorityInterest 태그 없음",9
+PACCAR,PCAR,2025Q1,2025-03-31,분기말 지배지분 자본,18022100000,USD,공시,https://www.sec.gov/Archives/edgar/data/75362/000095017025061813/,,9
+PACCAR,PCAR,2025Q1,2025-03-31,분기말 종가,97.37,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/PCAR?interval=1d&events=splits (2025-03-31),,9
+PACCAR,PCAR,2025Q1,2025-04-25,분기말 상장주식수,524959425,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/75362/000095017025061813/,dei:EntityCommonStockSharesOutstanding 클래스 합,9
+PACCAR,PCAR,2025Q1,2025-03-31,분기말 시가총액,51115299212,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/PCAR?interval=1d&events=splits (2025-03-31) ; https://www.sec.gov/Archives/edgar/data/75362/000095017025061813/,종가 97.37 × 주식수 524959425,9
+PACCAR,PCAR,2025Q2,2025-06-30,분기별 매출액,7510500000,USD,공시,https://www.sec.gov/Archives/edgar/data/75362/000095017025100887/,,9
+PACCAR,PCAR,2025Q2,2025-06-30,분기별 영업이익,미확인,USD,미확인,SEC companyfacts CIK0000075362: 해당 보고서에 OperatingIncomeLoss 태그 없음(영업이익 미공시) ; SEC companyfacts CIK0000075362: OperatingIncomeLoss 태그 없음(영업이익 미공시),,9
+PACCAR,PCAR,2025Q2,2025-06-30,분기별 당기순이익(지배),723800000,USD,공시,https://www.sec.gov/Archives/edgar/data/75362/000095017025100887/,,9
+PACCAR,PCAR,2025Q2,2025-06-30,분기별 영업활동현금흐름,833400000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/75362/000095017025100887/ ; https://www.sec.gov/Archives/edgar/data/75362/000095017025061813/,누적 1743700000 − 직전누적 910300000 (시작 2025-01-01),9
+PACCAR,PCAR,2025Q2,2025-06-30,분기말 자산총계,44094800000,USD,공시,https://www.sec.gov/Archives/edgar/data/75362/000095017025100887/,,9
+PACCAR,PCAR,2025Q2,2025-06-30,분기말 부채총계,25152200000,USD,계산(부채및자본-총자본),https://www.sec.gov/Archives/edgar/data/75362/000095017025100887/,부채및자본 44094800000 − 총자본 18942600000,9
+PACCAR,PCAR,2025Q2,2025-06-30,분기말 총자본(자기자본),18942600000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/75362/000095017025100887/,"StockholdersEquity, MinorityInterest 태그 없음",9
+PACCAR,PCAR,2025Q2,2025-06-30,분기말 지배지분 자본,18942600000,USD,공시,https://www.sec.gov/Archives/edgar/data/75362/000095017025100887/,,9
+PACCAR,PCAR,2025Q2,2025-06-30,분기말 종가,95.06,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/PCAR?interval=1d&events=splits (2025-06-30),,9
+PACCAR,PCAR,2025Q2,2025-07-25,분기말 상장주식수,525103392,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/75362/000095017025100887/,dei:EntityCommonStockSharesOutstanding 클래스 합,9
+PACCAR,PCAR,2025Q2,2025-06-30,분기말 시가총액,49916328444,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/PCAR?interval=1d&events=splits (2025-06-30) ; https://www.sec.gov/Archives/edgar/data/75362/000095017025100887/,종가 95.06 × 주식수 525103392,9
+PACCAR,PCAR,2025Q3,2025-09-30,분기별 매출액,6671800000,USD,공시,https://www.sec.gov/Archives/edgar/data/75362/000119312525258509/,,9
+PACCAR,PCAR,2025Q3,2025-09-30,분기별 영업이익,미확인,USD,미확인,SEC companyfacts CIK0000075362: 해당 보고서에 OperatingIncomeLoss 태그 없음(영업이익 미공시) ; SEC companyfacts CIK0000075362: OperatingIncomeLoss 태그 없음(영업이익 미공시),,9
+PACCAR,PCAR,2025Q3,2025-09-30,분기별 당기순이익(지배),590000000,USD,공시,https://www.sec.gov/Archives/edgar/data/75362/000119312525258509/,,9
+PACCAR,PCAR,2025Q3,2025-09-30,분기별 영업활동현금흐름,1527800000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/75362/000119312525258509/ ; https://www.sec.gov/Archives/edgar/data/75362/000095017025100887/,누적 3271500000 − 직전누적 1743700000 (시작 2025-01-01),9
+PACCAR,PCAR,2025Q3,2025-09-30,분기말 자산총계,44201200000,USD,공시,https://www.sec.gov/Archives/edgar/data/75362/000119312525258509/,,9
+PACCAR,PCAR,2025Q3,2025-09-30,분기말 부채총계,24832600000,USD,계산(부채및자본-총자본),https://www.sec.gov/Archives/edgar/data/75362/000119312525258509/,부채및자본 44201200000 − 총자본 19368600000,9
+PACCAR,PCAR,2025Q3,2025-09-30,분기말 총자본(자기자본),19368600000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/75362/000119312525258509/,"StockholdersEquity, MinorityInterest 태그 없음",9
+PACCAR,PCAR,2025Q3,2025-09-30,분기말 지배지분 자본,19368600000,USD,공시,https://www.sec.gov/Archives/edgar/data/75362/000119312525258509/,,9
+PACCAR,PCAR,2025Q3,2025-09-30,분기말 종가,98.32,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/PCAR?interval=1d&events=splits (2025-09-30),,9
+PACCAR,PCAR,2025Q3,2025-10-24,분기말 상장주식수,525204359,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/75362/000119312525258509/,dei:EntityCommonStockSharesOutstanding 클래스 합,9
+PACCAR,PCAR,2025Q3,2025-09-30,분기말 시가총액,51638092577,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/PCAR?interval=1d&events=splits (2025-09-30) ; https://www.sec.gov/Archives/edgar/data/75362/000119312525258509/,종가 98.32 × 주식수 525204359,9
+PACCAR,PCAR,2025Q4,2025-12-31,분기별 매출액,6820800000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/75362/000119312526057025/ ; https://www.sec.gov/Archives/edgar/data/75362/000119312525258509/,연간 28444800000 − 9개월누적 21624000000 (Revenues),9
+PACCAR,PCAR,2025Q4,2025-12-31,분기별 영업이익,미확인,USD,미확인,SEC companyfacts CIK0000075362: 해당 보고서에 OperatingIncomeLoss 태그 없음(영업이익 미공시) ; SEC companyfacts CIK0000075362: OperatingIncomeLoss 태그 없음(영업이익 미공시),,9
+PACCAR,PCAR,2025Q4,2025-12-31,분기별 당기순이익(지배),556900000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/75362/000119312526057025/ ; https://www.sec.gov/Archives/edgar/data/75362/000119312525258509/,연간 2375800000 − 9개월누적 1818900000 (NetIncomeLoss),9
+PACCAR,PCAR,2025Q4,2025-12-31,분기별 영업활동현금흐름,1144300000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/75362/000119312526057025/ ; https://www.sec.gov/Archives/edgar/data/75362/000119312525258509/,누적 4415800000 − 직전누적 3271500000 (시작 2025-01-01),9
+PACCAR,PCAR,2025Q4,2025-12-31,분기말 자산총계,44336200000,USD,공시,https://www.sec.gov/Archives/edgar/data/75362/000119312526057025/,,9
+PACCAR,PCAR,2025Q4,2025-12-31,분기말 부채총계,25072200000,USD,계산(부채및자본-총자본),https://www.sec.gov/Archives/edgar/data/75362/000119312526057025/,부채및자본 44336200000 − 총자본 19264000000,9
+PACCAR,PCAR,2025Q4,2025-12-31,분기말 총자본(자기자본),19264000000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/75362/000119312526057025/,"StockholdersEquity, MinorityInterest 태그 없음",9
+PACCAR,PCAR,2025Q4,2025-12-31,분기말 지배지분 자본,19264000000,USD,공시,https://www.sec.gov/Archives/edgar/data/75362/000119312526057025/,,9
+PACCAR,PCAR,2025Q4,2025-12-31,분기말 종가,109.51,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/PCAR?interval=1d&events=splits (2025-12-31),,9
+PACCAR,PCAR,2025Q4,2026-01-31,분기말 상장주식수,525894443,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/75362/000119312526057025/,dei:EntityCommonStockSharesOutstanding 클래스 합,9
+PACCAR,PCAR,2025Q4,2025-12-31,분기말 시가총액,57590700453,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/PCAR?interval=1d&events=splits (2025-12-31) ; https://www.sec.gov/Archives/edgar/data/75362/000119312526057025/,종가 109.51 × 주식수 525894443,9
+PACCAR,PCAR,2026Q1,2026-03-31,분기별 매출액,6776500000,USD,공시,https://www.sec.gov/Archives/edgar/data/75362/000119312526191499/,,9
+PACCAR,PCAR,2026Q1,2026-03-31,분기별 영업이익,미확인,USD,미확인,SEC companyfacts CIK0000075362: 해당 보고서에 OperatingIncomeLoss 태그 없음(영업이익 미공시) ; SEC companyfacts CIK0000075362: OperatingIncomeLoss 태그 없음(영업이익 미공시),,9
+PACCAR,PCAR,2026Q1,2026-03-31,분기별 당기순이익(지배),605300000,USD,공시,https://www.sec.gov/Archives/edgar/data/75362/000119312526191499/,,9
+PACCAR,PCAR,2026Q1,2026-03-31,분기별 영업활동현금흐름,971800000,USD,공시,https://www.sec.gov/Archives/edgar/data/75362/000119312526191499/,,9
+PACCAR,PCAR,2026Q1,2026-03-31,분기말 자산총계,43553500000,USD,공시,https://www.sec.gov/Archives/edgar/data/75362/000119312526191499/,,9
+PACCAR,PCAR,2026Q1,2026-03-31,분기말 부채총계,23796900000,USD,계산(부채및자본-총자본),https://www.sec.gov/Archives/edgar/data/75362/000119312526191499/,부채및자본 43553500000 − 총자본 19756600000,9
+PACCAR,PCAR,2026Q1,2026-03-31,분기말 총자본(자기자본),19756600000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/75362/000119312526191499/,"StockholdersEquity, MinorityInterest 태그 없음",9
+PACCAR,PCAR,2026Q1,2026-03-31,분기말 지배지분 자본,19756600000,USD,공시,https://www.sec.gov/Archives/edgar/data/75362/000119312526191499/,,9
+PACCAR,PCAR,2026Q1,2026-03-31,분기말 종가,115.5,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/PCAR?interval=1d&events=splits (2026-03-31),,9
+PACCAR,PCAR,2026Q1,2026-04-24,분기말 상장주식수,526286229,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/75362/000119312526191499/,dei:EntityCommonStockSharesOutstanding 클래스 합,9
+PACCAR,PCAR,2026Q1,2026-03-31,분기말 시가총액,60786059450,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/PCAR?interval=1d&events=splits (2026-03-31) ; https://www.sec.gov/Archives/edgar/data/75362/000119312526191499/,종가 115.5 × 주식수 526286229,9
+PACCAR,PCAR,2026Q2,2026-06-30,분기별 매출액,7546700000,USD,공시,https://www.sec.gov/Archives/edgar/data/75362/000119312526323642/,,9
+PACCAR,PCAR,2026Q2,2026-06-30,분기별 영업이익,미확인,USD,미확인,SEC companyfacts CIK0000075362: 해당 보고서에 OperatingIncomeLoss 태그 없음(영업이익 미공시) ; SEC companyfacts CIK0000075362: OperatingIncomeLoss 태그 없음(영업이익 미공시),,9
+PACCAR,PCAR,2026Q2,2026-06-30,분기별 당기순이익(지배),752000000,USD,공시,https://www.sec.gov/Archives/edgar/data/75362/000119312526323642/,,9
+PACCAR,PCAR,2026Q2,2026-06-30,분기별 영업활동현금흐름,700800000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/75362/000119312526323642/ ; https://www.sec.gov/Archives/edgar/data/75362/000119312526191499/,누적 1672600000 − 직전누적 971800000 (시작 2026-01-01),9
+PACCAR,PCAR,2026Q2,2026-06-30,분기말 자산총계,43980100000,USD,공시,https://www.sec.gov/Archives/edgar/data/75362/000119312526323642/,,9
+PACCAR,PCAR,2026Q2,2026-06-30,분기말 부채총계,23658800000,USD,계산(부채및자본-총자본),https://www.sec.gov/Archives/edgar/data/75362/000119312526323642/,부채및자본 43980100000 − 총자본 20321300000,9
+PACCAR,PCAR,2026Q2,2026-06-30,분기말 총자본(자기자본),20321300000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/75362/000119312526323642/,"StockholdersEquity, MinorityInterest 태그 없음",9
+PACCAR,PCAR,2026Q2,2026-06-30,분기말 지배지분 자본,20321300000,USD,공시,https://www.sec.gov/Archives/edgar/data/75362/000119312526323642/,,9
+PACCAR,PCAR,2026Q2,2026-06-30,분기말 종가,120.12,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/PCAR?interval=1d&events=splits (2026-06-30),,9
+PACCAR,PCAR,2026Q2,2026-07-24,분기말 상장주식수,526364953,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/75362/000119312526323642/,dei:EntityCommonStockSharesOutstanding 클래스 합,9
+PACCAR,PCAR,2026Q2,2026-06-30,분기말 시가총액,63226958154,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/PCAR?interval=1d&events=splits (2026-06-30) ; https://www.sec.gov/Archives/edgar/data/75362/000119312526323642/,종가 120.12 × 주식수 526364953,9

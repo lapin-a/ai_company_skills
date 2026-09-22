@@ -1,0 +1,727 @@
+﻿기업,종목코드,기간,기준일,항목,값,통화,값구분,출처,검산,라운드
+Salesforce,CRM,2010Q1,2010-04-30,분기별 매출액,376813000,USD,공시,https://www.sec.gov/Archives/edgar/data/1108524/000095013010001306/,,4
+Salesforce,CRM,2010Q1,2010-04-30,분기별 영업이익,33050000,USD,공시,https://www.sec.gov/Archives/edgar/data/1108524/000095013010001306/,,4
+Salesforce,CRM,2010Q1,2010-04-30,분기별 당기순이익(지배),17745000,USD,공시,https://www.sec.gov/Archives/edgar/data/1108524/000095013010001306/,,4
+Salesforce,CRM,2010Q1,2010-04-30,분기별 영업활동현금흐름,143183000,USD,공시,https://www.sec.gov/Archives/edgar/data/1108524/000095013010001306/,,4
+Salesforce,CRM,2010Q1,2010-04-30,분기말 자산총계,2488097000,USD,공시,https://www.sec.gov/Archives/edgar/data/1108524/000095013010001306/,,4
+Salesforce,CRM,2010Q1,2010-04-30,분기말 부채총계,1339730000,USD,공시,https://www.sec.gov/Archives/edgar/data/1108524/000095013010001306/,,4
+Salesforce,CRM,2010Q1,2010-04-30,분기말 총자본(자기자본),1148367000,USD,공시,https://www.sec.gov/Archives/edgar/data/1108524/000095013010001306/,,4
+Salesforce,CRM,2010Q1,2010-04-30,분기말 지배지분 자본,1134510000,USD,공시,https://www.sec.gov/Archives/edgar/data/1108524/000095013010001306/,,4
+Salesforce,CRM,2010Q1,2010-04-30,분기말 종가,85.6,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/CRM?interval=1d&events=splits (2010-04-30),분할조정 종가 21.4 × 이후 분할계수 4,4
+Salesforce,CRM,2010Q1,2010-04-30,분기말 상장주식수,128700000,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/1108524/000095013010001306/,dei:EntityCommonStockSharesOutstanding 클래스 합,4
+Salesforce,CRM,2010Q1,2010-04-30,분기말 시가총액,11016720000,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/CRM?interval=1d&events=splits (2010-04-30) ; https://www.sec.gov/Archives/edgar/data/1108524/000095013010001306/,종가 85.6 × 주식수 128700000,4
+Salesforce,CRM,2010Q2,2010-07-31,분기별 매출액,394372000,USD,공시,https://www.sec.gov/Archives/edgar/data/1108524/000119312510207193/,,4
+Salesforce,CRM,2010Q2,2010-07-31,분기별 영업이익,29682000,USD,공시,https://www.sec.gov/Archives/edgar/data/1108524/000119312510207193/,,4
+Salesforce,CRM,2010Q2,2010-07-31,분기별 당기순이익(지배),14744000,USD,공시,https://www.sec.gov/Archives/edgar/data/1108524/000119312510207193/,,4
+Salesforce,CRM,2010Q2,2010-07-31,분기별 영업활동현금흐름,76096000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/1108524/000119312510207193/ ; https://www.sec.gov/Archives/edgar/data/1108524/000095013010001306/,누적 219279000 − 직전누적 143183000 (시작 2010-02-01),4
+Salesforce,CRM,2010Q2,2010-07-31,분기말 자산총계,2698476000,USD,공시,https://www.sec.gov/Archives/edgar/data/1108524/000119312510207193/,,4
+Salesforce,CRM,2010Q2,2010-07-31,분기말 부채총계,1442921000,USD,공시,https://www.sec.gov/Archives/edgar/data/1108524/000119312510207193/,,4
+Salesforce,CRM,2010Q2,2010-07-31,분기말 총자본(자기자본),1255555000,USD,공시,https://www.sec.gov/Archives/edgar/data/1108524/000119312510207193/,,4
+Salesforce,CRM,2010Q2,2010-07-31,분기말 지배지분 자본,1240626000,USD,공시,https://www.sec.gov/Archives/edgar/data/1108524/000119312510207193/,,4
+Salesforce,CRM,2010Q2,2010-07-30,분기말 종가,98.95,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/CRM?interval=1d&events=splits (2010-07-30),분할조정 종가 24.7375 × 이후 분할계수 4,4
+Salesforce,CRM,2010Q2,2010-07-31,분기말 상장주식수,129900000,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/1108524/000119312510207193/,dei:EntityCommonStockSharesOutstanding 클래스 합,4
+Salesforce,CRM,2010Q2,2010-07-30,분기말 시가총액,12853605000,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/CRM?interval=1d&events=splits (2010-07-30) ; https://www.sec.gov/Archives/edgar/data/1108524/000119312510207193/,종가 98.95 × 주식수 129900000,4
+Salesforce,CRM,2010Q3,2010-10-31,분기별 매출액,429087000,USD,공시,https://www.sec.gov/Archives/edgar/data/1108524/000119312510268895/,,4
+Salesforce,CRM,2010Q3,2010-10-31,분기별 영업이익,35156000,USD,공시,https://www.sec.gov/Archives/edgar/data/1108524/000119312510268895/,,4
+Salesforce,CRM,2010Q3,2010-10-31,분기별 당기순이익(지배),21072000,USD,공시,https://www.sec.gov/Archives/edgar/data/1108524/000119312510268895/,,4
+Salesforce,CRM,2010Q3,2010-10-31,분기별 영업활동현금흐름,74040000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/1108524/000119312510268895/ ; https://www.sec.gov/Archives/edgar/data/1108524/000119312510207193/,누적 293319000 − 직전누적 219279000 (시작 2010-02-01),4
+Salesforce,CRM,2010Q3,2010-10-31,분기말 자산총계,2740694000,USD,공시,https://www.sec.gov/Archives/edgar/data/1108524/000119312510268895/,,4
+Salesforce,CRM,2010Q3,2010-10-31,분기말 부채총계,1528228000,USD,공시,https://www.sec.gov/Archives/edgar/data/1108524/000119312510268895/,,4
+Salesforce,CRM,2010Q3,2010-10-31,분기말 총자본(자기자본),1212466000,USD,공시,https://www.sec.gov/Archives/edgar/data/1108524/000119312510268895/,,4
+Salesforce,CRM,2010Q3,2010-10-31,분기말 지배지분 자본,1210288000,USD,공시,https://www.sec.gov/Archives/edgar/data/1108524/000119312510268895/,,4
+Salesforce,CRM,2010Q3,2010-10-29,분기말 종가,116.07,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/CRM?interval=1d&events=splits (2010-10-29),분할조정 종가 29.0175 × 이후 분할계수 4,4
+Salesforce,CRM,2010Q3,2010-10-31,분기말 상장주식수,131400000,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/1108524/000119312510268895/,dei:EntityCommonStockSharesOutstanding 클래스 합,4
+Salesforce,CRM,2010Q3,2010-10-29,분기말 시가총액,15251598000,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/CRM?interval=1d&events=splits (2010-10-29) ; https://www.sec.gov/Archives/edgar/data/1108524/000119312510268895/,종가 116.07 × 주식수 131400000,4
+Salesforce,CRM,2010Q4,2011-01-31,분기별 매출액,456867000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/1108524/000119312511075314/ ; https://www.sec.gov/Archives/edgar/data/1108524/000119312510268895/,연간 1657139000 − 9개월누적 1200272000 (Revenues),4
+Salesforce,CRM,2010Q4,2011-01-31,분기별 영업이익,-391000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/1108524/000119312511075314/ ; https://www.sec.gov/Archives/edgar/data/1108524/000119312510268895/,연간 97497000 − 9개월누적 97888000 (OperatingIncomeLoss),4
+Salesforce,CRM,2010Q4,2011-01-31,분기별 당기순이익(지배),10913000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/1108524/000119312511075314/ ; https://www.sec.gov/Archives/edgar/data/1108524/000119312510268895/,연간 64474000 − 9개월누적 53561000 (NetIncomeLoss),4
+Salesforce,CRM,2010Q4,2011-01-31,분기별 영업활동현금흐름,165762000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/1108524/000119312511075314/ ; https://www.sec.gov/Archives/edgar/data/1108524/000119312510268895/,누적 459081000 − 직전누적 293319000 (시작 2010-02-01),4
+Salesforce,CRM,2010Q4,2011-01-31,분기말 자산총계,3091165000,USD,공시,https://www.sec.gov/Archives/edgar/data/1108524/000119312511075314/,,4
+Salesforce,CRM,2010Q4,2011-01-31,분기말 부채총계,1814674000,USD,공시,https://www.sec.gov/Archives/edgar/data/1108524/000119312511075314/,,4
+Salesforce,CRM,2010Q4,2011-01-31,분기말 총자본(자기자본),1276491000,USD,공시,https://www.sec.gov/Archives/edgar/data/1108524/000119312511075314/,,4
+Salesforce,CRM,2010Q4,2011-01-31,분기말 지배지분 자본,1276491000,USD,공시,https://www.sec.gov/Archives/edgar/data/1108524/000119312511075314/,,4
+Salesforce,CRM,2010Q4,2011-01-31,분기말 종가,129.14,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/CRM?interval=1d&events=splits (2011-01-31),분할조정 종가 32.285 × 이후 분할계수 4,4
+Salesforce,CRM,2010Q4,2011-01-31,분기말 상장주식수,132900000,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/1108524/000119312511075314/,dei:EntityCommonStockSharesOutstanding 클래스 합,4
+Salesforce,CRM,2010Q4,2011-01-31,분기말 시가총액,17162706000,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/CRM?interval=1d&events=splits (2011-01-31) ; https://www.sec.gov/Archives/edgar/data/1108524/000119312511075314/,종가 129.14 × 주식수 132900000,4
+Salesforce,CRM,2011Q1,2011-04-30,분기별 매출액,504364000,USD,공시,https://www.sec.gov/Archives/edgar/data/1108524/000119312511151778/,,4
+Salesforce,CRM,2011Q1,2011-04-30,분기별 영업이익,-2803000,USD,공시,https://www.sec.gov/Archives/edgar/data/1108524/000119312511151778/,,4
+Salesforce,CRM,2011Q1,2011-04-30,분기별 당기순이익(지배),530000,USD,공시,https://www.sec.gov/Archives/edgar/data/1108524/000119312511151778/,,4
+Salesforce,CRM,2011Q1,2011-04-30,분기별 영업활동현금흐름,139518000,USD,공시,https://www.sec.gov/Archives/edgar/data/1108524/000119312511151778/,,4
+Salesforce,CRM,2011Q1,2011-04-30,분기말 자산총계,3128068000,USD,공시,https://www.sec.gov/Archives/edgar/data/1108524/000119312511151778/,,4
+Salesforce,CRM,2011Q1,2011-04-30,분기말 부채총계,1775795000,USD,공시,https://www.sec.gov/Archives/edgar/data/1108524/000119312511151778/,메자닌(일시자본) 96631000 별도 (원문 us-gaap:TemporaryEquityCarryingAmount 96631000),4
+Salesforce,CRM,2011Q1,2011-04-30,분기말 총자본(자기자본),1255642000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/1108524/000119312511151778/,"StockholdersEquity, MinorityInterest 태그 없음",4
+Salesforce,CRM,2011Q1,2011-04-30,분기말 지배지분 자본,1255642000,USD,공시,https://www.sec.gov/Archives/edgar/data/1108524/000119312511151778/,,4
+Salesforce,CRM,2011Q1,2011-04-29,분기말 종가,138.6,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/CRM?interval=1d&events=splits (2011-04-29),분할조정 종가 34.65 × 이후 분할계수 4,4
+Salesforce,CRM,2011Q1,2011-04-30,분기말 상장주식수,133.9,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/1108524/000119312511151778/,dei:EntityCommonStockSharesOutstanding 클래스 합,4
+Salesforce,CRM,2011Q1,2011-04-29,분기말 시가총액,18559,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/CRM?interval=1d&events=splits (2011-04-29) ; https://www.sec.gov/Archives/edgar/data/1108524/000119312511151778/,종가 138.6 × 주식수 133,4
+Salesforce,CRM,2011Q2,2011-07-31,분기별 매출액,546002000,USD,공시,https://www.sec.gov/Archives/edgar/data/1108524/000119312511241110/,,4
+Salesforce,CRM,2011Q2,2011-07-31,분기별 영업이익,-15748000,USD,공시,https://www.sec.gov/Archives/edgar/data/1108524/000119312511241110/,,4
+Salesforce,CRM,2011Q2,2011-07-31,분기별 당기순이익(지배),-4268000,USD,공시,https://www.sec.gov/Archives/edgar/data/1108524/000119312511241110/,,4
+Salesforce,CRM,2011Q2,2011-07-31,분기별 영업활동현금흐름,82933000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/1108524/000119312511241110/ ; https://www.sec.gov/Archives/edgar/data/1108524/000119312511151778/,누적 222451000 − 직전누적 139518000 (시작 2011-02-01),4
+Salesforce,CRM,2011Q2,2011-07-31,분기말 자산총계,3421328000,USD,공시,https://www.sec.gov/Archives/edgar/data/1108524/000119312511241110/,,4
+Salesforce,CRM,2011Q2,2011-07-31,분기말 부채총계,1912433000,USD,공시,https://www.sec.gov/Archives/edgar/data/1108524/000119312511241110/,메자닌(일시자본) 90772000 별도 (원문 us-gaap:TemporaryEquityCarryingAmount 90772000),4
+Salesforce,CRM,2011Q2,2011-07-31,분기말 총자본(자기자본),1418123000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/1108524/000119312511241110/,"StockholdersEquity, MinorityInterest 태그 없음",4
+Salesforce,CRM,2011Q2,2011-07-31,분기말 지배지분 자본,1418123000,USD,공시,https://www.sec.gov/Archives/edgar/data/1108524/000119312511241110/,,4
+Salesforce,CRM,2011Q2,2011-07-29,분기말 종가,144.71,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/CRM?interval=1d&events=splits (2011-07-29),분할조정 종가 36.1775 × 이후 분할계수 4,4
+Salesforce,CRM,2011Q2,2011-07-31,분기말 상장주식수,135500000,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/1108524/000119312511241110/,dei:EntityCommonStockSharesOutstanding 클래스 합,4
+Salesforce,CRM,2011Q2,2011-07-29,분기말 시가총액,19608205000,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/CRM?interval=1d&events=splits (2011-07-29) ; https://www.sec.gov/Archives/edgar/data/1108524/000119312511241110/,종가 144.71 × 주식수 135500000,4
+Salesforce,CRM,2011Q3,2011-10-31,분기별 매출액,584260000,USD,공시,https://www.sec.gov/Archives/edgar/data/1108524/000119312511324675/,,4
+Salesforce,CRM,2011Q3,2011-10-31,분기별 영업이익,-10157000,USD,공시,https://www.sec.gov/Archives/edgar/data/1108524/000119312511324675/,,4
+Salesforce,CRM,2011Q3,2011-10-31,분기별 당기순이익(지배),-3756000,USD,공시,https://www.sec.gov/Archives/edgar/data/1108524/000119312511324675/,,4
+Salesforce,CRM,2011Q3,2011-10-31,분기별 영업활동현금흐름,128709000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/1108524/000119312511324675/ ; https://www.sec.gov/Archives/edgar/data/1108524/000119312511241110/,누적 351160000 − 직전누적 222451000 (시작 2011-02-01),4
+Salesforce,CRM,2011Q3,2011-10-31,분기말 자산총계,3511278000,USD,공시,https://www.sec.gov/Archives/edgar/data/1108524/000119312511324675/,,4
+Salesforce,CRM,2011Q3,2011-10-31,분기말 부채총계,1928118000,USD,공시,https://www.sec.gov/Archives/edgar/data/1108524/000119312511324675/,메자닌(일시자본) 84771000 별도 (원문 us-gaap:TemporaryEquityCarryingAmount 84771000),4
+Salesforce,CRM,2011Q3,2011-10-31,분기말 총자본(자기자본),1498389000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/1108524/000119312511324675/,"StockholdersEquity, MinorityInterest 태그 없음",4
+Salesforce,CRM,2011Q3,2011-10-31,분기말 지배지분 자본,1498389000,USD,공시,https://www.sec.gov/Archives/edgar/data/1108524/000119312511324675/,,4
+Salesforce,CRM,2011Q3,2011-10-31,분기말 종가,133.17,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/CRM?interval=1d&events=splits (2011-10-31),분할조정 종가 33.2925 × 이후 분할계수 4,4
+Salesforce,CRM,2011Q3,2011-10-31,분기말 상장주식수,136000000,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/1108524/000119312511324675/,dei:EntityCommonStockSharesOutstanding 클래스 합,4
+Salesforce,CRM,2011Q3,2011-10-31,분기말 시가총액,18111120000,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/CRM?interval=1d&events=splits (2011-10-31) ; https://www.sec.gov/Archives/edgar/data/1108524/000119312511324675/,종가 133.17 × 주식수 136000000,4
+Salesforce,CRM,2011Q4,2012-01-31,분기별 매출액,631913000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/1108524/000119312512107281/ ; https://www.sec.gov/Archives/edgar/data/1108524/000119312511324675/,연간 2266539000 − 9개월누적 1634626000 (Revenues),4
+Salesforce,CRM,2011Q4,2012-01-31,분기별 영업이익,-6377000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/1108524/000119312512107281/ ; https://www.sec.gov/Archives/edgar/data/1108524/000119312511324675/,연간 -35085000 − 9개월누적 -28708000 (OperatingIncomeLoss),4
+Salesforce,CRM,2011Q4,2012-01-31,분기별 당기순이익(지배),-4078000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/1108524/000119312512107281/ ; https://www.sec.gov/Archives/edgar/data/1108524/000119312511324675/,연간 -11572000 − 9개월누적 -7494000 (NetIncomeLoss),4
+Salesforce,CRM,2011Q4,2012-01-31,분기별 영업활동현금흐름,240347000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/1108524/000119312512107281/ ; https://www.sec.gov/Archives/edgar/data/1108524/000119312511324675/,누적 591507000 − 직전누적 351160000 (시작 2011-02-01),4
+Salesforce,CRM,2011Q4,2012-01-31,분기말 자산총계,4164154000,USD,공시,https://www.sec.gov/Archives/edgar/data/1108524/000119312512107281/,,4
+Salesforce,CRM,2011Q4,2012-01-31,분기말 부채총계,2498053000,USD,공시,https://www.sec.gov/Archives/edgar/data/1108524/000119312512107281/,메자닌(일시자본) 78741000 별도 (원문 us-gaap:TemporaryEquityCarryingAmount 78741000),4
+Salesforce,CRM,2011Q4,2012-01-31,분기말 총자본(자기자본),1587360000,USD,공시,https://www.sec.gov/Archives/edgar/data/1108524/000119312512107281/,,4
+Salesforce,CRM,2011Q4,2012-01-31,분기말 지배지분 자본,1587360000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/1108524/000119312512107281/,"StockholdersEquityIncludingPortionAttributableToNoncontrollingInterest, MinorityInterest 태그 없음",4
+Salesforce,CRM,2011Q4,2012-01-31,분기말 종가,116.8,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/CRM?interval=1d&events=splits (2012-01-31),분할조정 종가 29.2 × 이후 분할계수 4,4
+Salesforce,CRM,2011Q4,2012-01-31,분기말 상장주식수,137000000,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/1108524/000119312512107281/,dei:EntityCommonStockSharesOutstanding 클래스 합,4
+Salesforce,CRM,2011Q4,2012-01-31,분기말 시가총액,16001600000,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/CRM?interval=1d&events=splits (2012-01-31) ; https://www.sec.gov/Archives/edgar/data/1108524/000119312512107281/,종가 116.8 × 주식수 137000000,4
+Salesforce,CRM,2012Q1,2012-04-30,분기별 매출액,695467000,USD,공시,https://www.sec.gov/Archives/edgar/data/1108524/000119312512249119/,,4
+Salesforce,CRM,2012Q1,2012-04-30,분기별 영업이익,-22249000,USD,공시,https://www.sec.gov/Archives/edgar/data/1108524/000119312512249119/,,4
+Salesforce,CRM,2012Q1,2012-04-30,분기별 당기순이익(지배),-19475000,USD,공시,https://www.sec.gov/Archives/edgar/data/1108524/000119312512249119/,,4
+Salesforce,CRM,2012Q1,2012-04-30,분기별 영업활동현금흐름,213212000,USD,공시,https://www.sec.gov/Archives/edgar/data/1108524/000119312512249119/,,4
+Salesforce,CRM,2012Q1,2012-04-30,분기말 자산총계,4156092000,USD,공시,https://www.sec.gov/Archives/edgar/data/1108524/000119312512249119/,,4
+Salesforce,CRM,2012Q1,2012-04-30,분기말 부채총계,2346323000,USD,공시,https://www.sec.gov/Archives/edgar/data/1108524/000119312512249119/,,4
+Salesforce,CRM,2012Q1,2012-04-30,분기말 총자본(자기자본),1809769000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/1108524/000119312512249119/,"StockholdersEquity, MinorityInterest 태그 없음",4
+Salesforce,CRM,2012Q1,2012-04-30,분기말 지배지분 자본,1809769000,USD,공시,https://www.sec.gov/Archives/edgar/data/1108524/000119312512249119/,,4
+Salesforce,CRM,2012Q1,2012-04-30,분기말 종가,155.73,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/CRM?interval=1d&events=splits (2012-04-30),분할조정 종가 38.9325 × 이후 분할계수 4,4
+Salesforce,CRM,2012Q1,2012-04-30,분기말 상장주식수,138000000,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/1108524/000119312512249119/,dei:EntityCommonStockSharesOutstanding 클래스 합,4
+Salesforce,CRM,2012Q1,2012-04-30,분기말 시가총액,21490740000,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/CRM?interval=1d&events=splits (2012-04-30) ; https://www.sec.gov/Archives/edgar/data/1108524/000119312512249119/,종가 155.73 × 주식수 138000000,4
+Salesforce,CRM,2012Q2,2012-07-31,분기별 매출액,731649000,USD,공시,https://www.sec.gov/Archives/edgar/data/1108524/000119312512377656/,,4
+Salesforce,CRM,2012Q2,2012-07-31,분기별 영업이익,-13466000,USD,공시,https://www.sec.gov/Archives/edgar/data/1108524/000119312512377656/,,4
+Salesforce,CRM,2012Q2,2012-07-31,분기별 당기순이익(지배),-9829000,USD,공시,https://www.sec.gov/Archives/edgar/data/1108524/000119312512377656/,,4
+Salesforce,CRM,2012Q2,2012-07-31,분기별 영업활동현금흐름,136197000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/1108524/000119312512377656/ ; https://www.sec.gov/Archives/edgar/data/1108524/000119312512249119/,누적 349409000 − 직전누적 213212000 (시작 2012-02-01),4
+Salesforce,CRM,2012Q2,2012-07-31,분기말 자산총계,4453570000,USD,공시,https://www.sec.gov/Archives/edgar/data/1108524/000119312512377656/,,4
+Salesforce,CRM,2012Q2,2012-07-31,분기말 부채총계,2494899000,USD,공시,https://www.sec.gov/Archives/edgar/data/1108524/000119312512377656/,메자닌(일시자본) 66357000 별도,4
+Salesforce,CRM,2012Q2,2012-07-31,분기말 총자본(자기자본),1892314000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/1108524/000119312512377656/,"StockholdersEquity, MinorityInterest 태그 없음",4
+Salesforce,CRM,2012Q2,2012-07-31,분기말 지배지분 자본,1892314000,USD,공시,https://www.sec.gov/Archives/edgar/data/1108524/000119312512377656/,,4
+Salesforce,CRM,2012Q2,2012-07-31,분기말 종가,124.36,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/CRM?interval=1d&events=splits (2012-07-31),분할조정 종가 31.09 × 이후 분할계수 4,4
+Salesforce,CRM,2012Q2,2012-07-31,분기말 상장주식수,139000000,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/1108524/000119312512377656/,dei:EntityCommonStockSharesOutstanding 클래스 합,4
+Salesforce,CRM,2012Q2,2012-07-31,분기말 시가총액,17286040000,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/CRM?interval=1d&events=splits (2012-07-31) ; https://www.sec.gov/Archives/edgar/data/1108524/000119312512377656/,종가 124.36 × 주식수 139000000,4
+Salesforce,CRM,2012Q3,2012-10-31,분기별 매출액,788398000,USD,공시,https://www.sec.gov/Archives/edgar/data/1108524/000119312512483959/,,4
+Salesforce,CRM,2012Q3,2012-10-31,분기별 영업이익,-54188000,USD,공시,https://www.sec.gov/Archives/edgar/data/1108524/000119312512483959/,,4
+Salesforce,CRM,2012Q3,2012-10-31,분기별 당기순이익(지배),-220297000,USD,공시,https://www.sec.gov/Archives/edgar/data/1108524/000119312512483959/,,4
+Salesforce,CRM,2012Q3,2012-10-31,분기별 영업활동현금흐름,105915000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/1108524/000119312512483959/ ; https://www.sec.gov/Archives/edgar/data/1108524/000119312512377656/,누적 455324000 − 직전누적 349409000 (시작 2012-02-01),4
+Salesforce,CRM,2012Q3,2012-10-31,분기말 자산총계,4642290000,USD,공시,https://www.sec.gov/Archives/edgar/data/1108524/000119312512483959/,,4
+Salesforce,CRM,2012Q3,2012-10-31,분기말 부채총계,2498676000,USD,공시,https://www.sec.gov/Archives/edgar/data/1108524/000119312512483959/,메자닌(일시자본) 59999000 별도,4
+Salesforce,CRM,2012Q3,2012-10-31,분기말 총자본(자기자본),2083615000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/1108524/000119312512483959/,"StockholdersEquity, MinorityInterest 태그 없음",4
+Salesforce,CRM,2012Q3,2012-10-31,분기말 지배지분 자본,2083615000,USD,공시,https://www.sec.gov/Archives/edgar/data/1108524/000119312512483959/,,4
+Salesforce,CRM,2012Q3,2012-10-31,분기말 종가,145.98,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/CRM?interval=1d&events=splits (2012-10-31),분할조정 종가 36.495 × 이후 분할계수 4,4
+Salesforce,CRM,2012Q3,2012-10-31,분기말 상장주식수,142000000,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/1108524/000119312512483959/,dei:EntityCommonStockSharesOutstanding 클래스 합,4
+Salesforce,CRM,2012Q3,2012-10-31,분기말 시가총액,20729160000,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/CRM?interval=1d&events=splits (2012-10-31) ; https://www.sec.gov/Archives/edgar/data/1108524/000119312512483959/,종가 145.98 × 주식수 142000000,4
+Salesforce,CRM,2012Q4,2013-01-31,분기별 매출액,834681000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/1108524/000119312513098852/ ; https://www.sec.gov/Archives/edgar/data/1108524/000119312512483959/,연간 3050195000 − 9개월누적 2215514000 (Revenues),4
+Salesforce,CRM,2012Q4,2013-01-31,분기별 영업이익,-20807000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/1108524/000119312513098852/ ; https://www.sec.gov/Archives/edgar/data/1108524/000119312512483959/,연간 -110710000 − 9개월누적 -89903000 (OperatingIncomeLoss),4
+Salesforce,CRM,2012Q4,2013-01-31,분기별 당기순이익(지배),-20844000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/1108524/000119312513098852/ ; https://www.sec.gov/Archives/edgar/data/1108524/000119312512483959/,연간 -270445000 − 9개월누적 -249601000 (NetIncomeLoss),4
+Salesforce,CRM,2012Q4,2013-01-31,분기별 영업활동현금흐름,281573000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/1108524/000119312513098852/ ; https://www.sec.gov/Archives/edgar/data/1108524/000119312512483959/,누적 736897000 − 직전누적 455324000 (시작 2012-02-01),4
+Salesforce,CRM,2012Q4,2013-01-31,분기말 자산총계,5528956000,USD,공시,https://www.sec.gov/Archives/edgar/data/1108524/000119312513098852/,,4
+Salesforce,CRM,2012Q4,2013-01-31,분기말 부채총계,3157711000,USD,공시,https://www.sec.gov/Archives/edgar/data/1108524/000119312513098852/,메자닌(일시자본) 53612000 별도,4
+Salesforce,CRM,2012Q4,2013-01-31,분기말 총자본(자기자본),2317633000,USD,공시,https://www.sec.gov/Archives/edgar/data/1108524/000119312513098852/,,4
+Salesforce,CRM,2012Q4,2013-01-31,분기말 지배지분 자본,2317633000,USD,공시,https://www.sec.gov/Archives/edgar/data/1108524/000119312513098852/,,4
+Salesforce,CRM,2012Q4,2013-01-31,분기말 종가,172.13,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/CRM?interval=1d&events=splits (2013-01-31),분할조정 종가 43.0325 × 이후 분할계수 4,4
+Salesforce,CRM,2012Q4,2013-01-31,분기말 상장주식수,146400000,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/1108524/000119312513098852/,dei:EntityCommonStockSharesOutstanding 클래스 합,4
+Salesforce,CRM,2012Q4,2013-01-31,분기말 시가총액,25199832000,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/CRM?interval=1d&events=splits (2013-01-31) ; https://www.sec.gov/Archives/edgar/data/1108524/000119312513098852/,종가 172.13 × 주식수 146400000,4
+Salesforce,CRM,2013Q1,2013-04-30,분기별 매출액,892633000,USD,공시,https://www.sec.gov/Archives/edgar/data/1108524/000119312513235664/,,4
+Salesforce,CRM,2013Q1,2013-04-30,분기별 영업이익,-44540000,USD,공시,https://www.sec.gov/Archives/edgar/data/1108524/000119312513235664/,,4
+Salesforce,CRM,2013Q1,2013-04-30,분기별 당기순이익(지배),-67721000,USD,공시,https://www.sec.gov/Archives/edgar/data/1108524/000119312513235664/,,4
+Salesforce,CRM,2013Q1,2013-04-30,분기별 영업활동현금흐름,283189000,USD,공시,https://www.sec.gov/Archives/edgar/data/1108524/000119312513235664/,,4
+Salesforce,CRM,2013Q1,2013-04-30,분기말 자산총계,6513709000,USD,공시,https://www.sec.gov/Archives/edgar/data/1108524/000119312513235664/,,4
+Salesforce,CRM,2013Q1,2013-04-30,분기말 부채총계,4003833000,USD,공시,https://www.sec.gov/Archives/edgar/data/1108524/000119312513235664/,메자닌(일시자본) 47080000 별도,4
+Salesforce,CRM,2013Q1,2013-04-30,분기말 총자본(자기자본),2462796000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/1108524/000119312513235664/,"StockholdersEquity, MinorityInterest 태그 없음",4
+Salesforce,CRM,2013Q1,2013-04-30,분기말 지배지분 자본,2462796000,USD,공시,https://www.sec.gov/Archives/edgar/data/1108524/000119312513235664/,,4
+Salesforce,CRM,2013Q1,2013-04-30,분기말 종가,41.11,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/CRM?interval=1d&events=splits (2013-04-30),,4
+Salesforce,CRM,2013Q1,2013-04-30,분기말 상장주식수,590000000,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/1108524/000119312513235664/,dei:EntityCommonStockSharesOutstanding 클래스 합,4
+Salesforce,CRM,2013Q1,2013-04-30,분기말 시가총액,24254900000,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/CRM?interval=1d&events=splits (2013-04-30) ; https://www.sec.gov/Archives/edgar/data/1108524/000119312513235664/,종가 41.11 × 주식수 590000000,4
+Salesforce,CRM,2013Q2,2013-07-31,분기별 매출액,957094000,USD,공시,https://www.sec.gov/Archives/edgar/data/1108524/000119312513354101/,,4
+Salesforce,CRM,2013Q2,2013-07-31,분기별 영업이익,-39857000,USD,공시,https://www.sec.gov/Archives/edgar/data/1108524/000119312513354101/,,4
+Salesforce,CRM,2013Q2,2013-07-31,분기별 당기순이익(지배),76603000,USD,공시,https://www.sec.gov/Archives/edgar/data/1108524/000119312513354101/,,4
+Salesforce,CRM,2013Q2,2013-07-31,분기별 영업활동현금흐름,183183000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/1108524/000119312513354101/ ; https://www.sec.gov/Archives/edgar/data/1108524/000119312513235664/,누적 466372000 − 직전누적 283189000 (시작 2013-02-01),4
+Salesforce,CRM,2013Q2,2013-07-31,분기말 자산총계,7969896000,USD,공시,https://www.sec.gov/Archives/edgar/data/1108524/000119312513354101/,,4
+Salesforce,CRM,2013Q2,2013-07-31,분기말 부채총계,5110748000,USD,공시,https://www.sec.gov/Archives/edgar/data/1108524/000119312513354101/,메자닌(일시자본) 40499000 별도,4
+Salesforce,CRM,2013Q2,2013-07-31,분기말 총자본(자기자본),2818649000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/1108524/000119312513354101/,"StockholdersEquity, MinorityInterest 태그 없음",4
+Salesforce,CRM,2013Q2,2013-07-31,분기말 지배지분 자본,2818649000,USD,공시,https://www.sec.gov/Archives/edgar/data/1108524/000119312513354101/,,4
+Salesforce,CRM,2013Q2,2013-07-31,분기말 종가,43.75,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/CRM?interval=1d&events=splits (2013-07-31),,4
+Salesforce,CRM,2013Q2,2013-07-31,분기말 상장주식수,596000000,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/1108524/000119312513354101/,dei:EntityCommonStockSharesOutstanding 클래스 합,4
+Salesforce,CRM,2013Q2,2013-07-31,분기말 시가총액,26075000000,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/CRM?interval=1d&events=splits (2013-07-31) ; https://www.sec.gov/Archives/edgar/data/1108524/000119312513354101/,종가 43.75 × 주식수 596000000,4
+Salesforce,CRM,2013Q3,2013-10-31,분기별 매출액,1076034000,USD,공시,https://www.sec.gov/Archives/edgar/data/1108524/000119312513453124/,,4
+Salesforce,CRM,2013Q3,2013-10-31,분기별 영업이익,-97931000,USD,공시,https://www.sec.gov/Archives/edgar/data/1108524/000119312513453124/,,4
+Salesforce,CRM,2013Q3,2013-10-31,분기별 당기순이익(지배),-124434000,USD,공시,https://www.sec.gov/Archives/edgar/data/1108524/000119312513453124/,,4
+Salesforce,CRM,2013Q3,2013-10-31,분기별 영업활동현금흐름,137859000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/1108524/000119312513453124/ ; https://www.sec.gov/Archives/edgar/data/1108524/000119312513354101/,누적 604231000 − 직전누적 466372000 (시작 2013-02-01),4
+Salesforce,CRM,2013Q3,2013-10-31,분기말 자산총계,8097634000,USD,공시,https://www.sec.gov/Archives/edgar/data/1108524/000119312513453124/,,4
+Salesforce,CRM,2013Q3,2013-10-31,분기말 부채총계,5151547000,USD,공시,https://www.sec.gov/Archives/edgar/data/1108524/000119312513453124/,메자닌(일시자본) 33731000 별도,4
+Salesforce,CRM,2013Q3,2013-10-31,분기말 총자본(자기자본),2912356000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/1108524/000119312513453124/,"StockholdersEquity, MinorityInterest 태그 없음",4
+Salesforce,CRM,2013Q3,2013-10-31,분기말 지배지분 자본,2912356000,USD,공시,https://www.sec.gov/Archives/edgar/data/1108524/000119312513453124/,,4
+Salesforce,CRM,2013Q3,2013-10-31,분기말 종가,53.36,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/CRM?interval=1d&events=splits (2013-10-31),,4
+Salesforce,CRM,2013Q3,2013-10-31,분기말 상장주식수,603000000,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/1108524/000119312513453124/,dei:EntityCommonStockSharesOutstanding 클래스 합,4
+Salesforce,CRM,2013Q3,2013-10-31,분기말 시가총액,32176080000,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/CRM?interval=1d&events=splits (2013-10-31) ; https://www.sec.gov/Archives/edgar/data/1108524/000119312513453124/,종가 53.36 × 주식수 603000000,4
+Salesforce,CRM,2013Q4,2014-01-31,분기별 매출액,1145242000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/1108524/000119312514084762/ ; https://www.sec.gov/Archives/edgar/data/1108524/000119312513453124/,연간 4071003000 − 9개월누적 2925761000 (Revenues),4
+Salesforce,CRM,2013Q4,2014-01-31,분기별 영업이익,-103746000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/1108524/000119312514084762/ ; https://www.sec.gov/Archives/edgar/data/1108524/000119312513453124/,연간 -286074000 − 9개월누적 -182328000 (OperatingIncomeLoss),4
+Salesforce,CRM,2013Q4,2014-01-31,분기별 당기순이익(지배),-116623000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/1108524/000119312514084762/ ; https://www.sec.gov/Archives/edgar/data/1108524/000119312513453124/,연간 -232175000 − 9개월누적 -115552000 (NetIncomeLoss),4
+Salesforce,CRM,2013Q4,2014-01-31,분기별 영업활동현금흐름,271238000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/1108524/000119312514084762/ ; https://www.sec.gov/Archives/edgar/data/1108524/000119312513453124/,누적 875469000 − 직전누적 604231000 (시작 2013-02-01),4
+Salesforce,CRM,2013Q4,2014-01-31,분기말 자산총계,9152930000,USD,공시,https://www.sec.gov/Archives/edgar/data/1108524/000119312514084762/,,4
+Salesforce,CRM,2013Q4,2014-01-31,분기말 부채총계,6087715000,USD,공시,https://www.sec.gov/Archives/edgar/data/1108524/000119312514084762/,메자닌(일시자본) 26705000 별도,4
+Salesforce,CRM,2013Q4,2014-01-31,분기말 총자본(자기자본),3038510000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/1108524/000119312514084762/,"StockholdersEquity, MinorityInterest 태그 없음",4
+Salesforce,CRM,2013Q4,2014-01-31,분기말 지배지분 자본,3038510000,USD,공시,https://www.sec.gov/Archives/edgar/data/1108524/000119312514084762/,,4
+Salesforce,CRM,2013Q4,2014-01-31,분기말 종가,60.53,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/CRM?interval=1d&events=splits (2014-01-31),,4
+Salesforce,CRM,2013Q4,2014-01-31,분기말 상장주식수,610100000,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/1108524/000119312514084762/,dei:EntityCommonStockSharesOutstanding 클래스 합,4
+Salesforce,CRM,2013Q4,2014-01-31,분기말 시가총액,36929353000,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/CRM?interval=1d&events=splits (2014-01-31) ; https://www.sec.gov/Archives/edgar/data/1108524/000119312514084762/,종가 60.53 × 주식수 610100000,4
+Salesforce,CRM,2014Q1,2014-04-30,분기별 매출액,1226772000,USD,공시,https://www.sec.gov/Archives/edgar/data/1108524/000144530514002370/,,4
+Salesforce,CRM,2014Q1,2014-04-30,분기별 영업이익,-55341000,USD,공시,https://www.sec.gov/Archives/edgar/data/1108524/000144530514002370/,,4
+Salesforce,CRM,2014Q1,2014-04-30,분기별 당기순이익(지배),-96911000,USD,공시,https://www.sec.gov/Archives/edgar/data/1108524/000144530514002370/,,4
+Salesforce,CRM,2014Q1,2014-04-30,분기별 영업활동현금흐름,473087000,USD,공시,https://www.sec.gov/Archives/edgar/data/1108524/000144530514002370/,,4
+Salesforce,CRM,2014Q1,2014-04-30,분기말 자산총계,8641344000,USD,공시,https://www.sec.gov/Archives/edgar/data/1108524/000144530514002370/,,4
+Salesforce,CRM,2014Q1,2014-04-30,분기말 부채총계,5499487000,USD,공시,https://www.sec.gov/Archives/edgar/data/1108524/000144530514002370/,메자닌(일시자본) 9943000 별도,4
+Salesforce,CRM,2014Q1,2014-04-30,분기말 총자본(자기자본),3131914000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/1108524/000144530514002370/,"StockholdersEquity, MinorityInterest 태그 없음",4
+Salesforce,CRM,2014Q1,2014-04-30,분기말 지배지분 자본,3131914000,USD,공시,https://www.sec.gov/Archives/edgar/data/1108524/000144530514002370/,,4
+Salesforce,CRM,2014Q1,2014-04-30,분기말 종가,51.65,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/CRM?interval=1d&events=splits (2014-04-30),,4
+Salesforce,CRM,2014Q1,2014-04-30,분기말 상장주식수,614000000,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/1108524/000144530514002370/,dei:EntityCommonStockSharesOutstanding 클래스 합,4
+Salesforce,CRM,2014Q1,2014-04-30,분기말 시가총액,31713100000,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/CRM?interval=1d&events=splits (2014-04-30) ; https://www.sec.gov/Archives/edgar/data/1108524/000144530514002370/,종가 51.65 × 주식수 614000000,4
+Salesforce,CRM,2014Q2,2014-07-31,분기별 매출액,1318551000,USD,공시,https://www.sec.gov/Archives/edgar/data/1108524/000110852414000009/,,4
+Salesforce,CRM,2014Q2,2014-07-31,분기별 영업이익,-33434000,USD,공시,https://www.sec.gov/Archives/edgar/data/1108524/000110852414000009/,,4
+Salesforce,CRM,2014Q2,2014-07-31,분기별 당기순이익(지배),-61088000,USD,공시,https://www.sec.gov/Archives/edgar/data/1108524/000110852414000009/,,4
+Salesforce,CRM,2014Q2,2014-07-31,분기별 영업활동현금흐름,245893000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/1108524/000110852414000009/ ; https://www.sec.gov/Archives/edgar/data/1108524/000144530514002370/,누적 718980000 − 직전누적 473087000 (시작 2014-02-01),4
+Salesforce,CRM,2014Q2,2014-07-31,분기말 자산총계,9009828000,USD,공시,https://www.sec.gov/Archives/edgar/data/1108524/000110852414000009/,,4
+Salesforce,CRM,2014Q2,2014-07-31,분기말 부채총계,5703082000,USD,공시,https://www.sec.gov/Archives/edgar/data/1108524/000110852414000009/,메자닌(일시자본) 6178000 별도,4
+Salesforce,CRM,2014Q2,2014-07-31,분기말 총자본(자기자본),3300568000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/1108524/000110852414000009/,"StockholdersEquity, MinorityInterest 태그 없음",4
+Salesforce,CRM,2014Q2,2014-07-31,분기말 지배지분 자본,3300568000,USD,공시,https://www.sec.gov/Archives/edgar/data/1108524/000110852414000009/,,4
+Salesforce,CRM,2014Q2,2014-07-31,분기말 종가,54.25,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/CRM?interval=1d&events=splits (2014-07-31),,4
+Salesforce,CRM,2014Q2,2014-07-31,분기말 상장주식수,619000000,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/1108524/000110852414000009/,dei:EntityCommonStockSharesOutstanding 클래스 합,4
+Salesforce,CRM,2014Q2,2014-07-31,분기말 시가총액,33580750000,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/CRM?interval=1d&events=splits (2014-07-31) ; https://www.sec.gov/Archives/edgar/data/1108524/000110852414000009/,종가 54.25 × 주식수 619000000,4
+Salesforce,CRM,2014Q3,2014-10-31,분기별 매출액,1383655000,USD,공시,https://www.sec.gov/Archives/edgar/data/1108524/000110852414000023/,,4
+Salesforce,CRM,2014Q3,2014-10-31,분기별 영업이익,-22042000,USD,공시,https://www.sec.gov/Archives/edgar/data/1108524/000110852414000023/,,4
+Salesforce,CRM,2014Q3,2014-10-31,분기별 당기순이익(지배),-38924000,USD,공시,https://www.sec.gov/Archives/edgar/data/1108524/000110852414000023/,,4
+Salesforce,CRM,2014Q3,2014-10-31,분기별 영업활동현금흐름,122511000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/1108524/000110852414000023/ ; https://www.sec.gov/Archives/edgar/data/1108524/000110852414000009/,누적 841491000 − 직전누적 718980000 (시작 2014-02-01),4
+Salesforce,CRM,2014Q3,2014-10-31,분기말 자산총계,9412663000,USD,공시,https://www.sec.gov/Archives/edgar/data/1108524/000110852414000023/,,4
+Salesforce,CRM,2014Q3,2014-10-31,분기말 부채총계,5620167000,USD,공시,https://www.sec.gov/Archives/edgar/data/1108524/000110852414000023/,메자닌(일시자본) 1882000 별도,4
+Salesforce,CRM,2014Q3,2014-10-31,분기말 총자본(자기자본),3790614000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/1108524/000110852414000023/,"StockholdersEquity, MinorityInterest 태그 없음",4
+Salesforce,CRM,2014Q3,2014-10-31,분기말 지배지분 자본,3790614000,USD,공시,https://www.sec.gov/Archives/edgar/data/1108524/000110852414000023/,,4
+Salesforce,CRM,2014Q3,2014-10-31,분기말 종가,63.99,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/CRM?interval=1d&events=splits (2014-10-31),,4
+Salesforce,CRM,2014Q3,2014-10-31,분기말 상장주식수,631000000,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/1108524/000110852414000023/,dei:EntityCommonStockSharesOutstanding 클래스 합,4
+Salesforce,CRM,2014Q3,2014-10-31,분기말 시가총액,40377690000,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/CRM?interval=1d&events=splits (2014-10-31) ; https://www.sec.gov/Archives/edgar/data/1108524/000110852414000023/,종가 63.99 × 주식수 631000000,4
+Salesforce,CRM,2014Q4,2015-01-31,분기별 매출액,1444608000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/1108524/000110852415000008/ ; https://www.sec.gov/Archives/edgar/data/1108524/000110852414000023/,연간 5373586000 − 9개월누적 3928978000 (Revenues),4
+Salesforce,CRM,2014Q4,2015-01-31,분기별 영업이익,-34816000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/1108524/000110852415000008/ ; https://www.sec.gov/Archives/edgar/data/1108524/000110852414000023/,연간 -145633000 − 9개월누적 -110817000 (OperatingIncomeLoss),4
+Salesforce,CRM,2014Q4,2015-01-31,분기별 당기순이익(지배),-65765000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/1108524/000110852415000008/ ; https://www.sec.gov/Archives/edgar/data/1108524/000110852414000023/,연간 -262688000 − 9개월누적 -196923000 (NetIncomeLoss),4
+Salesforce,CRM,2014Q4,2015-01-31,분기별 영업활동현금흐름,339953000,USD,계산(누적차감)(재작성 반영),https://www.sec.gov/Archives/edgar/data/1108524/000110852417000006/ ; https://www.sec.gov/Archives/edgar/data/1108524/000110852414000023/,누적 1181444000 − 직전누적 841491000 (시작 2014-02-01) ; 원 공시 332223000 (https://www.sec.gov/Archives/edgar/data/1108524/000110852415000008/ ; https://www.sec.gov/Archives/edgar/data/1108524/000110852414000023/),4
+Salesforce,CRM,2014Q4,2015-01-31,분기말 자산총계,10665127000,USD,공시(재작성 반영),https://www.sec.gov/Archives/edgar/data/1108524/000110852416000053/,원 공시 10692982000 (https://www.sec.gov/Archives/edgar/data/1108524/000110852415000008/),4
+Salesforce,CRM,2014Q4,2015-01-31,분기말 부채총계,6689944000,USD,공시(재작성 반영),https://www.sec.gov/Archives/edgar/data/1108524/000110852416000053/,원 공시 6717799000 (https://www.sec.gov/Archives/edgar/data/1108524/000110852415000008/),4
+Salesforce,CRM,2014Q4,2015-01-31,분기말 총자본(자기자본),3975183000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/1108524/000110852415000008/,"StockholdersEquity, MinorityInterest 태그 없음",4
+Salesforce,CRM,2014Q4,2015-01-31,분기말 지배지분 자본,3975183000,USD,공시,https://www.sec.gov/Archives/edgar/data/1108524/000110852415000008/,,4
+Salesforce,CRM,2014Q4,2015-01-30,분기말 종가,56.45,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/CRM?interval=1d&events=splits (2015-01-30),,4
+Salesforce,CRM,2014Q4,2015-01-31,분기말 상장주식수,650600000,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/1108524/000110852415000008/,dei:EntityCommonStockSharesOutstanding 클래스 합,4
+Salesforce,CRM,2014Q4,2015-01-30,분기말 시가총액,36726370000,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/CRM?interval=1d&events=splits (2015-01-30) ; https://www.sec.gov/Archives/edgar/data/1108524/000110852415000008/,종가 56.45 × 주식수 650600000,4
+Salesforce,CRM,2015Q1,2015-04-30,분기별 매출액,1511167000,USD,공시(후속 보고서 비교기간),https://www.sec.gov/Archives/edgar/data/1108524/000110852416000053/,Revenues ; 그 분기 보고서에 연결 총계가 없어 2016-03-07 제출본의 비교기간에서 읽었다,4
+Salesforce,CRM,2015Q1,2015-04-30,분기별 영업이익,31105000,USD,공시,https://www.sec.gov/Archives/edgar/data/1108524/000110852415000014/,,4
+Salesforce,CRM,2015Q1,2015-04-30,분기별 당기순이익(지배),4092000,USD,공시,https://www.sec.gov/Archives/edgar/data/1108524/000110852415000014/,,4
+Salesforce,CRM,2015Q1,2015-04-30,분기별 영업활동현금흐름,735081000,USD,공시(재작성 반영),https://www.sec.gov/Archives/edgar/data/1108524/000110852416000066/,원 공시 730857000 (https://www.sec.gov/Archives/edgar/data/1108524/000110852415000014/),4
+Salesforce,CRM,2015Q1,2015-04-30,분기말 자산총계,10365682000,USD,공시,https://www.sec.gov/Archives/edgar/data/1108524/000110852415000014/,,4
+Salesforce,CRM,2015Q1,2015-04-30,분기말 부채총계,6130479000,USD,공시,https://www.sec.gov/Archives/edgar/data/1108524/000110852415000014/,,4
+Salesforce,CRM,2015Q1,2015-04-30,분기말 총자본(자기자본),4235203000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/1108524/000110852415000014/,"StockholdersEquity, MinorityInterest 태그 없음",4
+Salesforce,CRM,2015Q1,2015-04-30,분기말 지배지분 자본,4235203000,USD,공시,https://www.sec.gov/Archives/edgar/data/1108524/000110852415000014/,,4
+Salesforce,CRM,2015Q1,2015-04-30,분기말 종가,72.82,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/CRM?interval=1d&events=splits (2015-04-30),,4
+Salesforce,CRM,2015Q1,2015-04-30,분기말 상장주식수,656000000,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/1108524/000110852415000014/,dei:EntityCommonStockSharesOutstanding 클래스 합,4
+Salesforce,CRM,2015Q1,2015-04-30,분기말 시가총액,47769920000,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/CRM?interval=1d&events=splits (2015-04-30) ; https://www.sec.gov/Archives/edgar/data/1108524/000110852415000014/,종가 72.82 × 주식수 656000000,4
+Salesforce,CRM,2015Q2,2015-07-31,분기별 매출액,1634684000,USD,공시(후속 보고서 비교기간),https://www.sec.gov/Archives/edgar/data/1108524/000110852416000053/,Revenues ; 그 분기 보고서에 연결 총계가 없어 2016-03-07 제출본의 비교기간에서 읽었다,4
+Salesforce,CRM,2015Q2,2015-07-31,분기별 영업이익,19824000,USD,공시,https://www.sec.gov/Archives/edgar/data/1108524/000110852415000025/,,4
+Salesforce,CRM,2015Q2,2015-07-31,분기별 당기순이익(지배),-852000,USD,공시,https://www.sec.gov/Archives/edgar/data/1108524/000110852415000025/,,4
+Salesforce,CRM,2015Q2,2015-07-31,분기별 영업활동현금흐름,304278000,USD,계산(누적차감)(재작성 반영),https://www.sec.gov/Archives/edgar/data/1108524/000110852416000085/ ; https://www.sec.gov/Archives/edgar/data/1108524/000110852416000066/,누적 1039359000 − 직전누적 735081000 (시작 2015-02-01) ; 원 공시 304411000 (https://www.sec.gov/Archives/edgar/data/1108524/000110852415000025/ ; https://www.sec.gov/Archives/edgar/data/1108524/000110852415000014/),4
+Salesforce,CRM,2015Q2,2015-07-31,분기말 자산총계,10793977000,USD,공시,https://www.sec.gov/Archives/edgar/data/1108524/000110852415000025/,,4
+Salesforce,CRM,2015Q2,2015-07-31,분기말 부채총계,6258174000,USD,공시,https://www.sec.gov/Archives/edgar/data/1108524/000110852415000025/,,4
+Salesforce,CRM,2015Q2,2015-07-31,분기말 총자본(자기자본),4535803000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/1108524/000110852415000025/,"StockholdersEquity, MinorityInterest 태그 없음",4
+Salesforce,CRM,2015Q2,2015-07-31,분기말 지배지분 자본,4535803000,USD,공시,https://www.sec.gov/Archives/edgar/data/1108524/000110852415000025/,,4
+Salesforce,CRM,2015Q2,2015-07-31,분기말 종가,73.3,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/CRM?interval=1d&events=splits (2015-07-31),,4
+Salesforce,CRM,2015Q2,2015-07-31,분기말 상장주식수,660000000,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/1108524/000110852415000025/,dei:EntityCommonStockSharesOutstanding 클래스 합,4
+Salesforce,CRM,2015Q2,2015-07-31,분기말 시가총액,48378000000,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/CRM?interval=1d&events=splits (2015-07-31) ; https://www.sec.gov/Archives/edgar/data/1108524/000110852415000025/,종가 73.3 × 주식수 660000000,4
+Salesforce,CRM,2015Q3,2015-10-31,분기별 매출액,1711967000,USD,공시(후속 보고서 비교기간),https://www.sec.gov/Archives/edgar/data/1108524/000110852416000053/,Revenues ; 그 분기 보고서에 연결 총계가 없어 2016-03-07 제출본의 비교기간에서 읽었다,4
+Salesforce,CRM,2015Q3,2015-10-31,분기별 영업이익,43434000,USD,공시,https://www.sec.gov/Archives/edgar/data/1108524/000110852415000034/,,4
+Salesforce,CRM,2015Q3,2015-10-31,분기별 당기순이익(지배),-25157000,USD,공시,https://www.sec.gov/Archives/edgar/data/1108524/000110852415000034/,,4
+Salesforce,CRM,2015Q3,2015-10-31,분기별 영업활동현금흐름,162514000,USD,계산(누적차감)(재작성 반영),https://www.sec.gov/Archives/edgar/data/1108524/000110852416000128/ ; https://www.sec.gov/Archives/edgar/data/1108524/000110852416000085/,누적 1201873000 − 직전누적 1039359000 (시작 2015-02-01) ; 원 공시 117907000 (https://www.sec.gov/Archives/edgar/data/1108524/000110852415000034/ ; https://www.sec.gov/Archives/edgar/data/1108524/000110852415000025/),4
+Salesforce,CRM,2015Q3,2015-10-31,분기말 자산총계,10911966000,USD,공시,https://www.sec.gov/Archives/edgar/data/1108524/000110852415000034/,,4
+Salesforce,CRM,2015Q3,2015-10-31,분기말 부채총계,6162012000,USD,공시,https://www.sec.gov/Archives/edgar/data/1108524/000110852415000034/,,4
+Salesforce,CRM,2015Q3,2015-10-31,분기말 총자본(자기자본),4749954000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/1108524/000110852415000034/,"StockholdersEquity, MinorityInterest 태그 없음",4
+Salesforce,CRM,2015Q3,2015-10-31,분기말 지배지분 자본,4749954000,USD,공시,https://www.sec.gov/Archives/edgar/data/1108524/000110852415000034/,,4
+Salesforce,CRM,2015Q3,2015-10-30,분기말 종가,77.71,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/CRM?interval=1d&events=splits (2015-10-30),,4
+Salesforce,CRM,2015Q3,2015-10-31,분기말 상장주식수,664000000,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/1108524/000110852415000034/,dei:EntityCommonStockSharesOutstanding 클래스 합,4
+Salesforce,CRM,2015Q3,2015-10-30,분기말 시가총액,51599440000,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/CRM?interval=1d&events=splits (2015-10-30) ; https://www.sec.gov/Archives/edgar/data/1108524/000110852415000034/,종가 77.71 × 주식수 664000000,4
+Salesforce,CRM,2015Q4,2016-01-31,분기별 매출액,미확인,USD,미확인,https://www.sec.gov/Archives/edgar/data/1108524/000110852416000053/,,4
+Salesforce,CRM,2015Q4,2016-01-31,분기별 영업이익,20560000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/1108524/000110852416000053/ ; https://www.sec.gov/Archives/edgar/data/1108524/000110852415000034/,연간 114923000 − 9개월누적 94363000 (OperatingIncomeLoss),4
+Salesforce,CRM,2015Q4,2016-01-31,분기별 당기순이익(지배),-25509000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/1108524/000110852416000053/ ; https://www.sec.gov/Archives/edgar/data/1108524/000110852415000034/,연간 -47426000 − 9개월누적 -21917000 (NetIncomeLoss),4
+Salesforce,CRM,2015Q4,2016-01-31,분기별 영업활동현금흐름,470208000,USD,계산(누적차감)(재작성 반영),https://www.sec.gov/Archives/edgar/data/1108524/000110852418000011/ ; https://www.sec.gov/Archives/edgar/data/1108524/000110852416000128/,누적 1672081000 − 직전누적 1201873000 (시작 2015-02-01) ; 원 공시 459410000 (https://www.sec.gov/Archives/edgar/data/1108524/000110852416000053/ ; https://www.sec.gov/Archives/edgar/data/1108524/000110852415000034/),4
+Salesforce,CRM,2015Q4,2016-01-31,분기말 자산총계,12762920000,USD,공시(재작성 반영),https://www.sec.gov/Archives/edgar/data/1108524/000110852417000006/,원 공시 12770772000 (https://www.sec.gov/Archives/edgar/data/1108524/000110852416000053/),4
+Salesforce,CRM,2015Q4,2016-01-31,분기말 부채총계,7760051000,USD,공시(재작성 반영),https://www.sec.gov/Archives/edgar/data/1108524/000110852417000006/,원 공시 7767903000 (https://www.sec.gov/Archives/edgar/data/1108524/000110852416000053/),4
+Salesforce,CRM,2015Q4,2016-01-31,분기말 총자본(자기자본),5002869000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/1108524/000110852416000053/,"StockholdersEquity, MinorityInterest 태그 없음",4
+Salesforce,CRM,2015Q4,2016-01-31,분기말 지배지분 자본,5002869000,USD,공시,https://www.sec.gov/Archives/edgar/data/1108524/000110852416000053/,,4
+Salesforce,CRM,2015Q4,2016-01-29,분기말 종가,68.06,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/CRM?interval=1d&events=splits (2016-01-29),,4
+Salesforce,CRM,2015Q4,2016-01-31,분기말 상장주식수,670900000,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/1108524/000110852416000053/,dei:EntityCommonStockSharesOutstanding 클래스 합,4
+Salesforce,CRM,2015Q4,2016-01-29,분기말 시가총액,45661454000,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/CRM?interval=1d&events=splits (2016-01-29) ; https://www.sec.gov/Archives/edgar/data/1108524/000110852416000053/,종가 68.06 × 주식수 670900000,4
+Salesforce,CRM,2016Q1,2016-04-30,분기별 매출액,1916603000,USD,공시(후속 보고서 비교기간),https://www.sec.gov/Archives/edgar/data/1108524/000110852417000006/,Revenues ; 그 분기 보고서에 연결 총계가 없어 2017-03-06 제출본의 비교기간에서 읽었다,4
+Salesforce,CRM,2016Q1,2016-04-30,분기별 영업이익,51986000,USD,공시,https://www.sec.gov/Archives/edgar/data/1108524/000110852416000066/,,4
+Salesforce,CRM,2016Q1,2016-04-30,분기별 당기순이익(지배),38759000,USD,공시,https://www.sec.gov/Archives/edgar/data/1108524/000110852416000066/,,4
+Salesforce,CRM,2016Q1,2016-04-30,분기별 영업활동현금흐름,1051062000,USD,공시,https://www.sec.gov/Archives/edgar/data/1108524/000110852416000066/,,4
+Salesforce,CRM,2016Q1,2016-04-30,분기말 자산총계,12817270000,USD,공시,https://www.sec.gov/Archives/edgar/data/1108524/000110852416000066/,,4
+Salesforce,CRM,2016Q1,2016-04-30,분기말 부채총계,7233006000,USD,공시,https://www.sec.gov/Archives/edgar/data/1108524/000110852416000066/,,4
+Salesforce,CRM,2016Q1,2016-04-30,분기말 총자본(자기자본),5584264000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/1108524/000110852416000066/,"StockholdersEquity, MinorityInterest 태그 없음",4
+Salesforce,CRM,2016Q1,2016-04-30,분기말 지배지분 자본,5584264000,USD,공시,https://www.sec.gov/Archives/edgar/data/1108524/000110852416000066/,,4
+Salesforce,CRM,2016Q1,2016-04-29,분기말 종가,75.8,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/CRM?interval=1d&events=splits (2016-04-29),,4
+Salesforce,CRM,2016Q1,2016-04-30,분기말 상장주식수,677500000,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/1108524/000110852416000066/,dei:EntityCommonStockSharesOutstanding 클래스 합,4
+Salesforce,CRM,2016Q1,2016-04-29,분기말 시가총액,51354500000,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/CRM?interval=1d&events=splits (2016-04-29) ; https://www.sec.gov/Archives/edgar/data/1108524/000110852416000066/,종가 75.8 × 주식수 677500000,4
+Salesforce,CRM,2016Q2,2016-07-31,분기별 매출액,2036618000,USD,공시(후속 보고서 비교기간),https://www.sec.gov/Archives/edgar/data/1108524/000110852417000006/,Revenues ; 그 분기 보고서에 연결 총계가 없어 2017-03-06 제출본의 비교기간에서 읽었다,4
+Salesforce,CRM,2016Q2,2016-07-31,분기별 영업이익,32551000,USD,공시,https://www.sec.gov/Archives/edgar/data/1108524/000110852416000085/,,4
+Salesforce,CRM,2016Q2,2016-07-31,분기별 당기순이익(지배),229622000,USD,공시,https://www.sec.gov/Archives/edgar/data/1108524/000110852416000085/,,4
+Salesforce,CRM,2016Q2,2016-07-31,분기별 영업활동현금흐름,250678000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/1108524/000110852416000085/ ; https://www.sec.gov/Archives/edgar/data/1108524/000110852416000066/,누적 1301740000 − 직전누적 1051062000 (시작 2016-02-01),4
+Salesforce,CRM,2016Q2,2016-07-31,분기말 자산총계,14381314000,USD,공시,https://www.sec.gov/Archives/edgar/data/1108524/000110852416000085/,,4
+Salesforce,CRM,2016Q2,2016-07-31,분기말 부채총계,8248738000,USD,공시,https://www.sec.gov/Archives/edgar/data/1108524/000110852416000085/,,4
+Salesforce,CRM,2016Q2,2016-07-31,분기말 총자본(자기자본),6132576000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/1108524/000110852416000085/,"StockholdersEquity, MinorityInterest 태그 없음",4
+Salesforce,CRM,2016Q2,2016-07-31,분기말 지배지분 자본,6132576000,USD,공시,https://www.sec.gov/Archives/edgar/data/1108524/000110852416000085/,,4
+Salesforce,CRM,2016Q2,2016-07-29,분기말 종가,81.8,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/CRM?interval=1d&events=splits (2016-07-29),,4
+Salesforce,CRM,2016Q2,2016-07-31,분기말 상장주식수,685000000,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/1108524/000110852416000085/,dei:EntityCommonStockSharesOutstanding 클래스 합,4
+Salesforce,CRM,2016Q2,2016-07-29,분기말 시가총액,56033000000,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/CRM?interval=1d&events=splits (2016-07-29) ; https://www.sec.gov/Archives/edgar/data/1108524/000110852416000085/,종가 81.8 × 주식수 685000000,4
+Salesforce,CRM,2016Q3,2016-10-31,분기별 매출액,2144775000,USD,공시(후속 보고서 비교기간),https://www.sec.gov/Archives/edgar/data/1108524/000110852417000006/,Revenues ; 그 분기 보고서에 연결 총계가 없어 2017-03-06 제출본의 비교기간에서 읽었다,4
+Salesforce,CRM,2016Q3,2016-10-31,분기별 영업이익,3036000,USD,공시,https://www.sec.gov/Archives/edgar/data/1108524/000110852416000128/,,4
+Salesforce,CRM,2016Q3,2016-10-31,분기별 당기순이익(지배),-37309000,USD,공시,https://www.sec.gov/Archives/edgar/data/1108524/000110852416000128/,,4
+Salesforce,CRM,2016Q3,2016-10-31,분기별 영업활동현금흐름,154312000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/1108524/000110852416000128/ ; https://www.sec.gov/Archives/edgar/data/1108524/000110852416000085/,누적 1456052000 − 직전누적 1301740000 (시작 2016-02-01),4
+Salesforce,CRM,2016Q3,2016-10-31,분기말 자산총계,14387669000,USD,공시,https://www.sec.gov/Archives/edgar/data/1108524/000110852416000128/,,4
+Salesforce,CRM,2016Q3,2016-10-31,분기말 부채총계,7581632000,USD,공시,https://www.sec.gov/Archives/edgar/data/1108524/000110852416000128/,,4
+Salesforce,CRM,2016Q3,2016-10-31,분기말 총자본(자기자본),6806037000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/1108524/000110852416000128/,"StockholdersEquity, MinorityInterest 태그 없음",4
+Salesforce,CRM,2016Q3,2016-10-31,분기말 지배지분 자본,6806037000,USD,공시,https://www.sec.gov/Archives/edgar/data/1108524/000110852416000128/,,4
+Salesforce,CRM,2016Q3,2016-10-31,분기말 종가,75.16,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/CRM?interval=1d&events=splits (2016-10-31),,4
+Salesforce,CRM,2016Q3,2016-10-31,분기말 상장주식수,696700000,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/1108524/000110852416000128/,dei:EntityCommonStockSharesOutstanding 클래스 합,4
+Salesforce,CRM,2016Q3,2016-10-31,분기말 시가총액,52363972000,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/CRM?interval=1d&events=splits (2016-10-31) ; https://www.sec.gov/Archives/edgar/data/1108524/000110852416000128/,종가 75.16 × 주식수 696700000,4
+Salesforce,CRM,2016Q4,2017-01-31,분기별 매출액,미확인,USD,미확인,https://www.sec.gov/Archives/edgar/data/1108524/000110852417000006/,,4
+Salesforce,CRM,2016Q4,2017-01-31,분기별 영업이익,130427000,USD,계산(연간-3분기누적)(재작성 반영),https://www.sec.gov/Archives/edgar/data/1108524/000110852419000009/ ; https://www.sec.gov/Archives/edgar/data/1108524/000110852416000128/,연간 218000000 − 9개월누적 87573000 (OperatingIncomeLoss) ; 원 공시 -23345000 (https://www.sec.gov/Archives/edgar/data/1108524/000110852417000006/ ; https://www.sec.gov/Archives/edgar/data/1108524/000110852416000128/),4
+Salesforce,CRM,2016Q4,2017-01-31,분기별 당기순이익(지배),91928000,USD,계산(연간-3분기누적)(재작성 반영),https://www.sec.gov/Archives/edgar/data/1108524/000110852419000009/ ; https://www.sec.gov/Archives/edgar/data/1108524/000110852416000128/,연간 323000000 − 9개월누적 231072000 (NetIncomeLoss) ; 원 공시 -51440000 (https://www.sec.gov/Archives/edgar/data/1108524/000110852417000006/ ; https://www.sec.gov/Archives/edgar/data/1108524/000110852416000128/),4
+Salesforce,CRM,2016Q4,2017-01-31,분기별 영업활동현금흐름,706146000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/1108524/000110852417000006/ ; https://www.sec.gov/Archives/edgar/data/1108524/000110852416000128/,누적 2162198000 − 직전누적 1456052000 (시작 2016-02-01),4
+Salesforce,CRM,2016Q4,2017-01-31,분기말 자산총계,17584923000,USD,공시,https://www.sec.gov/Archives/edgar/data/1108524/000110852417000006/,,4
+Salesforce,CRM,2016Q4,2017-01-31,분기말 부채총계,10084796000,USD,공시,https://www.sec.gov/Archives/edgar/data/1108524/000110852417000006/,,4
+Salesforce,CRM,2016Q4,2017-01-31,분기말 총자본(자기자본),7500127000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/1108524/000110852417000006/,"StockholdersEquity, MinorityInterest 태그 없음",4
+Salesforce,CRM,2016Q4,2017-01-31,분기말 지배지분 자본,7500127000,USD,공시,https://www.sec.gov/Archives/edgar/data/1108524/000110852417000006/,,4
+Salesforce,CRM,2016Q4,2017-01-31,분기말 종가,79.1,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/CRM?interval=1d&events=splits (2017-01-31),,4
+Salesforce,CRM,2016Q4,2017-01-31,분기말 상장주식수,707500000,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/1108524/000110852417000006/,dei:EntityCommonStockSharesOutstanding 클래스 합,4
+Salesforce,CRM,2016Q4,2017-01-31,분기말 시가총액,55963250000,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/CRM?interval=1d&events=splits (2017-01-31) ; https://www.sec.gov/Archives/edgar/data/1108524/000110852417000006/,종가 79.1 × 주식수 707500000,4
+Salesforce,CRM,2017Q1,2017-04-30,분기별 매출액,2397000000,USD,공시(후속 보고서 비교기간),https://www.sec.gov/Archives/edgar/data/1108524/000110852418000035/,RevenueFromContractWithCustomerExcludingAssessedTax ; 그 분기 보고서에 연결 총계가 없어 2018-05-31 제출본의 비교기간에서 읽었다,4
+Salesforce,CRM,2017Q1,2017-04-30,분기별 영업이익,4000000,USD,공시(재작성 반영),https://www.sec.gov/Archives/edgar/data/1108524/000110852419000009/,원 공시 -8882000 (https://www.sec.gov/Archives/edgar/data/1108524/000110852417000012/),4
+Salesforce,CRM,2017Q1,2017-04-30,분기별 당기순이익(지배),1000000,USD,공시(재작성 반영),https://www.sec.gov/Archives/edgar/data/1108524/000110852419000009/,원 공시 -9207000 (https://www.sec.gov/Archives/edgar/data/1108524/000110852417000012/),4
+Salesforce,CRM,2017Q1,2017-04-30,분기별 영업활동현금흐름,1229584000,USD,공시,https://www.sec.gov/Archives/edgar/data/1108524/000110852417000012/,,4
+Salesforce,CRM,2017Q1,2017-04-30,분기말 자산총계,17058930000,USD,공시,https://www.sec.gov/Archives/edgar/data/1108524/000110852417000012/,,4
+Salesforce,CRM,2017Q1,2017-04-30,분기말 부채총계,9124442000,USD,공시,https://www.sec.gov/Archives/edgar/data/1108524/000110852417000012/,,4
+Salesforce,CRM,2017Q1,2017-04-30,분기말 총자본(자기자본),7934488000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/1108524/000110852417000012/,"StockholdersEquity, MinorityInterest 태그 없음",4
+Salesforce,CRM,2017Q1,2017-04-30,분기말 지배지분 자본,7934488000,USD,공시,https://www.sec.gov/Archives/edgar/data/1108524/000110852417000012/,,4
+Salesforce,CRM,2017Q1,2017-04-28,분기말 종가,86.12,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/CRM?interval=1d&events=splits (2017-04-28),,4
+Salesforce,CRM,2017Q1,2017-04-30,분기말 상장주식수,712200000,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/1108524/000110852417000012/,dei:EntityCommonStockSharesOutstanding 클래스 합,4
+Salesforce,CRM,2017Q1,2017-04-28,분기말 시가총액,61334664000,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/CRM?interval=1d&events=splits (2017-04-28) ; https://www.sec.gov/Archives/edgar/data/1108524/000110852417000012/,종가 86.12 × 주식수 712200000,4
+Salesforce,CRM,2017Q2,2017-07-31,분기별 매출액,2577000000,USD,공시(후속 보고서 비교기간),https://www.sec.gov/Archives/edgar/data/1108524/000110852418000057/,RevenueFromContractWithCustomerExcludingAssessedTax ; 그 분기 보고서에 연결 총계가 없어 2018-08-31 제출본의 비교기간에서 읽었다,4
+Salesforce,CRM,2017Q2,2017-07-31,분기별 영업이익,84000000,USD,공시(재작성 반영),https://www.sec.gov/Archives/edgar/data/1108524/000110852419000009/,원 공시 50793000 (https://www.sec.gov/Archives/edgar/data/1108524/000110852417000020/),4
+Salesforce,CRM,2017Q2,2017-07-31,분기별 당기순이익(지배),46000000,USD,공시(재작성 반영),https://www.sec.gov/Archives/edgar/data/1108524/000110852419000009/,원 공시 17736000 (https://www.sec.gov/Archives/edgar/data/1108524/000110852417000020/),4
+Salesforce,CRM,2017Q2,2017-07-31,분기별 영업활동현금흐름,331269000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/1108524/000110852417000020/ ; https://www.sec.gov/Archives/edgar/data/1108524/000110852417000012/,누적 1560853000 − 직전누적 1229584000 (시작 2017-02-01),4
+Salesforce,CRM,2017Q2,2017-07-31,분기말 자산총계,17418803000,USD,공시,https://www.sec.gov/Archives/edgar/data/1108524/000110852417000020/,,4
+Salesforce,CRM,2017Q2,2017-07-31,분기말 부채총계,8950266000,USD,공시,https://www.sec.gov/Archives/edgar/data/1108524/000110852417000020/,메자닌(일시자본) 17223000 별도,4
+Salesforce,CRM,2017Q2,2017-07-31,분기말 총자본(자기자본),8451314000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/1108524/000110852417000020/,"StockholdersEquity, MinorityInterest 태그 없음",4
+Salesforce,CRM,2017Q2,2017-07-31,분기말 지배지분 자본,8451314000,USD,공시,https://www.sec.gov/Archives/edgar/data/1108524/000110852417000020/,,4
+Salesforce,CRM,2017Q2,2017-07-31,분기말 종가,90.8,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/CRM?interval=1d&events=splits (2017-07-31),,4
+Salesforce,CRM,2017Q2,2017-07-31,분기말 상장주식수,718700000,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/1108524/000110852417000020/,dei:EntityCommonStockSharesOutstanding 클래스 합,4
+Salesforce,CRM,2017Q2,2017-07-31,분기말 시가총액,65257960000,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/CRM?interval=1d&events=splits (2017-07-31) ; https://www.sec.gov/Archives/edgar/data/1108524/000110852417000020/,종가 90.8 × 주식수 718700000,4
+Salesforce,CRM,2017Q3,2017-10-31,분기별 매출액,2701000000,USD,공시(후속 보고서 비교기간),https://www.sec.gov/Archives/edgar/data/1108524/000110852418000087/,RevenueFromContractWithCustomerExcludingAssessedTax ; 그 분기 보고서에 연결 총계가 없어 2018-11-28 제출본의 비교기간에서 읽었다,4
+Salesforce,CRM,2017Q3,2017-10-31,분기별 영업이익,155000000,USD,공시(재작성 반영),https://www.sec.gov/Archives/edgar/data/1108524/000110852419000009/,원 공시 115988000 (https://www.sec.gov/Archives/edgar/data/1108524/000110852417000040/),4
+Salesforce,CRM,2017Q3,2017-10-31,분기별 당기순이익(지배),107000000,USD,공시(재작성 반영),https://www.sec.gov/Archives/edgar/data/1108524/000110852419000009/,원 공시 51394000 (https://www.sec.gov/Archives/edgar/data/1108524/000110852417000040/),4
+Salesforce,CRM,2017Q3,2017-10-31,분기별 영업활동현금흐름,125792000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/1108524/000110852417000040/ ; https://www.sec.gov/Archives/edgar/data/1108524/000110852417000020/,누적 1686645000 − 직전누적 1560853000 (시작 2017-02-01),4
+Salesforce,CRM,2017Q3,2017-10-31,분기말 자산총계,17490036000,USD,공시,https://www.sec.gov/Archives/edgar/data/1108524/000110852417000040/,,4
+Salesforce,CRM,2017Q3,2017-10-31,분기말 부채총계,8649869000,USD,공시,https://www.sec.gov/Archives/edgar/data/1108524/000110852417000040/,메자닌(일시자본) 10797000 별도,4
+Salesforce,CRM,2017Q3,2017-10-31,분기말 총자본(자기자본),8829370000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/1108524/000110852417000040/,"StockholdersEquity, MinorityInterest 태그 없음",4
+Salesforce,CRM,2017Q3,2017-10-31,분기말 지배지분 자본,8829370000,USD,공시,https://www.sec.gov/Archives/edgar/data/1108524/000110852417000040/,,4
+Salesforce,CRM,2017Q3,2017-10-31,분기말 종가,102.34,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/CRM?interval=1d&events=splits (2017-10-31),,4
+Salesforce,CRM,2017Q3,2017-10-31,분기말 상장주식수,722300000,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/1108524/000110852417000040/,dei:EntityCommonStockSharesOutstanding 클래스 합,4
+Salesforce,CRM,2017Q3,2017-10-31,분기말 시가총액,73920182000,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/CRM?interval=1d&events=splits (2017-10-31) ; https://www.sec.gov/Archives/edgar/data/1108524/000110852417000040/,종가 102.34 × 주식수 722300000,4
+Salesforce,CRM,2017Q4,2018-01-31,분기별 매출액,미확인,USD,미확인,https://www.sec.gov/Archives/edgar/data/1108524/000110852418000011/,,4
+Salesforce,CRM,2017Q4,2018-01-31,분기별 영업이익,211000000,USD,계산(연간-3분기누적)(재작성 반영),https://www.sec.gov/Archives/edgar/data/1108524/000110852420000014/ ; https://www.sec.gov/Archives/edgar/data/1108524/000110852418000087/,연간 454000000 − 9개월누적 243000000 (OperatingIncomeLoss) ; 원 공시 77869000 (https://www.sec.gov/Archives/edgar/data/1108524/000110852418000011/ ; https://www.sec.gov/Archives/edgar/data/1108524/000110852417000040/),4
+Salesforce,CRM,2017Q4,2018-01-31,분기별 당기순이익(지배),206000000,USD,계산(연간-3분기누적)(재작성 반영),https://www.sec.gov/Archives/edgar/data/1108524/000110852420000014/ ; https://www.sec.gov/Archives/edgar/data/1108524/000110852418000087/,연간 360000000 − 9개월누적 154000000 (NetIncomeLoss) ; 원 공시 67555000 (https://www.sec.gov/Archives/edgar/data/1108524/000110852418000011/ ; https://www.sec.gov/Archives/edgar/data/1108524/000110852417000040/),4
+Salesforce,CRM,2017Q4,2018-01-31,분기별 영업활동현금흐름,1051320000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/1108524/000110852418000011/ ; https://www.sec.gov/Archives/edgar/data/1108524/000110852417000040/,누적 2737965000 − 직전누적 1686645000 (시작 2017-02-01),4
+Salesforce,CRM,2017Q4,2018-01-31,분기말 자산총계,21984000000,USD,공시(재작성 반영),https://www.sec.gov/Archives/edgar/data/1108524/000110852419000009/,원 공시 21009802000 (https://www.sec.gov/Archives/edgar/data/1108524/000110852418000011/),4
+Salesforce,CRM,2017Q4,2018-01-31,분기말 부채총계,11608000000,USD,공시(재작성 반영),https://www.sec.gov/Archives/edgar/data/1108524/000110852419000009/,메자닌(일시자본) 3867000 부채총계에 포함 ; 원 공시 11617439000 (https://www.sec.gov/Archives/edgar/data/1108524/000110852418000011/),4
+Salesforce,CRM,2017Q4,2018-01-31,분기말 총자본(자기자본),10376000000,USD,공시(비지배 없음)(재작성 반영),https://www.sec.gov/Archives/edgar/data/1108524/000110852422000008/,"StockholdersEquity, MinorityInterest 태그 없음 ; 원 공시 9388496000 (https://www.sec.gov/Archives/edgar/data/1108524/000110852418000011/)",4
+Salesforce,CRM,2017Q4,2018-01-31,분기말 지배지분 자본,10376000000,USD,공시(재작성 반영),https://www.sec.gov/Archives/edgar/data/1108524/000110852422000008/,원 공시 9388496000 (https://www.sec.gov/Archives/edgar/data/1108524/000110852418000011/),4
+Salesforce,CRM,2017Q4,2018-01-31,분기말 종가,113.91,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/CRM?interval=1d&events=splits (2018-01-31),,4
+Salesforce,CRM,2017Q4,2018-02-28,분기말 상장주식수,731500000,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/1108524/000110852418000011/,dei:EntityCommonStockSharesOutstanding 클래스 합,4
+Salesforce,CRM,2017Q4,2018-01-31,분기말 시가총액,83325165000,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/CRM?interval=1d&events=splits (2018-01-31) ; https://www.sec.gov/Archives/edgar/data/1108524/000110852418000011/,종가 113.91 × 주식수 731500000,4
+Salesforce,CRM,2018Q1,2018-04-30,분기별 매출액,3006000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1108524/000110852418000035/,,4
+Salesforce,CRM,2018Q1,2018-04-30,분기별 영업이익,191000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1108524/000110852418000035/,,4
+Salesforce,CRM,2018Q1,2018-04-30,분기별 당기순이익(지배),344000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1108524/000110852418000035/,,4
+Salesforce,CRM,2018Q1,2018-04-30,분기별 영업활동현금흐름,1466000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1108524/000110852418000035/,,4
+Salesforce,CRM,2018Q1,2018-04-30,분기말 자산총계,22963000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1108524/000110852418000035/,,4
+Salesforce,CRM,2018Q1,2018-04-30,분기말 부채총계,11903000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1108524/000110852418000035/,,4
+Salesforce,CRM,2018Q1,2018-04-30,분기말 총자본(자기자본),11060000000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/1108524/000110852418000035/,"StockholdersEquity, MinorityInterest 태그 없음",4
+Salesforce,CRM,2018Q1,2018-04-30,분기말 지배지분 자본,11060000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1108524/000110852418000035/,,4
+Salesforce,CRM,2018Q1,2018-04-30,분기말 종가,120.99,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/CRM?interval=1d&events=splits (2018-04-30),,4
+Salesforce,CRM,2018Q1,2018-04-30,분기말 상장주식수,733900000,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/1108524/000110852418000035/,dei:EntityCommonStockSharesOutstanding 클래스 합,4
+Salesforce,CRM,2018Q1,2018-04-30,분기말 시가총액,88794561000,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/CRM?interval=1d&events=splits (2018-04-30) ; https://www.sec.gov/Archives/edgar/data/1108524/000110852418000035/,종가 120.99 × 주식수 733900000,4
+Salesforce,CRM,2018Q2,2018-07-31,분기별 매출액,3281000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1108524/000110852418000057/,,4
+Salesforce,CRM,2018Q2,2018-07-31,분기별 영업이익,115000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1108524/000110852418000057/,,4
+Salesforce,CRM,2018Q2,2018-07-31,분기별 당기순이익(지배),299000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1108524/000110852418000057/,,4
+Salesforce,CRM,2018Q2,2018-07-31,분기별 영업활동현금흐름,458000000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/1108524/000110852418000057/ ; https://www.sec.gov/Archives/edgar/data/1108524/000110852418000035/,누적 1924000000 − 직전누적 1466000000 (시작 2018-02-01),4
+Salesforce,CRM,2018Q2,2018-07-31,분기말 자산총계,25823000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1108524/000110852418000057/,,4
+Salesforce,CRM,2018Q2,2018-07-31,분기말 부채총계,12295000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1108524/000110852418000057/,,4
+Salesforce,CRM,2018Q2,2018-07-31,분기말 총자본(자기자본),13527000000,USD,공시(비지배 없음)(재작성 반영),https://www.sec.gov/Archives/edgar/data/1108524/000110852419000076/,"StockholdersEquity, MinorityInterest 태그 없음 ; 원 공시 13528000000 (https://www.sec.gov/Archives/edgar/data/1108524/000110852418000057/)",4
+Salesforce,CRM,2018Q2,2018-07-31,분기말 지배지분 자본,13527000000,USD,공시(재작성 반영),https://www.sec.gov/Archives/edgar/data/1108524/000110852419000076/,원 공시 13528000000 (https://www.sec.gov/Archives/edgar/data/1108524/000110852418000057/),4
+Salesforce,CRM,2018Q2,2018-07-31,분기말 종가,137.15,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/CRM?interval=1d&events=splits (2018-07-31),,4
+Salesforce,CRM,2018Q2,2018-07-31,분기말 상장주식수,756700000,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/1108524/000110852418000057/,dei:EntityCommonStockSharesOutstanding 클래스 합,4
+Salesforce,CRM,2018Q2,2018-07-31,분기말 시가총액,103781405000,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/CRM?interval=1d&events=splits (2018-07-31) ; https://www.sec.gov/Archives/edgar/data/1108524/000110852418000057/,종가 137.15 × 주식수 756700000,4
+Salesforce,CRM,2018Q3,2018-10-31,분기별 매출액,3392000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1108524/000110852418000087/,,4
+Salesforce,CRM,2018Q3,2018-10-31,분기별 영업이익,92000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1108524/000110852418000087/,,4
+Salesforce,CRM,2018Q3,2018-10-31,분기별 당기순이익(지배),105000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1108524/000110852418000087/,,4
+Salesforce,CRM,2018Q3,2018-10-31,분기별 영업활동현금흐름,143000000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/1108524/000110852418000087/ ; https://www.sec.gov/Archives/edgar/data/1108524/000110852418000057/,누적 2067000000 − 직전누적 1924000000 (시작 2018-02-01),4
+Salesforce,CRM,2018Q3,2018-10-31,분기말 자산총계,26588000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1108524/000110852418000087/,,4
+Salesforce,CRM,2018Q3,2018-10-31,분기말 부채총계,11895000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1108524/000110852418000087/,,4
+Salesforce,CRM,2018Q3,2018-10-31,분기말 총자본(자기자본),14693000000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/1108524/000110852418000087/,"StockholdersEquity, MinorityInterest 태그 없음",4
+Salesforce,CRM,2018Q3,2018-10-31,분기말 지배지분 자본,14693000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1108524/000110852418000087/,,4
+Salesforce,CRM,2018Q3,2018-10-31,분기말 종가,137.24,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/CRM?interval=1d&events=splits (2018-10-31),,4
+Salesforce,CRM,2018Q3,2018-10-31,분기말 상장주식수,765000000,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/1108524/000110852418000087/,dei:EntityCommonStockSharesOutstanding 클래스 합,4
+Salesforce,CRM,2018Q3,2018-10-31,분기말 시가총액,104988600000,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/CRM?interval=1d&events=splits (2018-10-31) ; https://www.sec.gov/Archives/edgar/data/1108524/000110852418000087/,종가 137.24 × 주식수 765000000,4
+Salesforce,CRM,2018Q4,2019-01-31,분기별 매출액,3603000000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/1108524/000110852419000009/ ; https://www.sec.gov/Archives/edgar/data/1108524/000110852418000087/,연간 13282000000 − 9개월누적 9679000000 (RevenueFromContractWithCustomerExcludingAssessedTax),4
+Salesforce,CRM,2018Q4,2019-01-31,분기별 영업이익,137000000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/1108524/000110852419000009/ ; https://www.sec.gov/Archives/edgar/data/1108524/000110852418000087/,연간 535000000 − 9개월누적 398000000 (OperatingIncomeLoss),4
+Salesforce,CRM,2018Q4,2019-01-31,분기별 당기순이익(지배),362000000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/1108524/000110852419000009/ ; https://www.sec.gov/Archives/edgar/data/1108524/000110852418000087/,연간 1110000000 − 9개월누적 748000000 (NetIncomeLoss),4
+Salesforce,CRM,2018Q4,2019-01-31,분기별 영업활동현금흐름,1331000000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/1108524/000110852419000009/ ; https://www.sec.gov/Archives/edgar/data/1108524/000110852418000087/,누적 3398000000 − 직전누적 2067000000 (시작 2018-02-01),4
+Salesforce,CRM,2018Q4,2019-01-31,분기말 자산총계,30737000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1108524/000110852419000009/,,4
+Salesforce,CRM,2018Q4,2019-01-31,분기말 부채총계,15132000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1108524/000110852419000009/,,4
+Salesforce,CRM,2018Q4,2019-01-31,분기말 총자본(자기자본),15605000000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/1108524/000110852419000009/,"StockholdersEquity, MinorityInterest 태그 없음",4
+Salesforce,CRM,2018Q4,2019-01-31,분기말 지배지분 자본,15605000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1108524/000110852419000009/,,4
+Salesforce,CRM,2018Q4,2019-01-31,분기말 종가,151.97,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/CRM?interval=1d&events=splits (2019-01-31),,4
+Salesforce,CRM,2018Q4,2019-02-28,분기말 상장주식수,771000000,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/1108524/000110852419000009/,dei:EntityCommonStockSharesOutstanding 클래스 합,4
+Salesforce,CRM,2018Q4,2019-01-31,분기말 시가총액,117168870000,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/CRM?interval=1d&events=splits (2019-01-31) ; https://www.sec.gov/Archives/edgar/data/1108524/000110852419000009/,종가 151.97 × 주식수 771000000,4
+Salesforce,CRM,2019Q1,2019-04-30,분기별 매출액,3737000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1108524/000110852419000025/,,4
+Salesforce,CRM,2019Q1,2019-04-30,분기별 영업이익,210000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1108524/000110852419000025/,,4
+Salesforce,CRM,2019Q1,2019-04-30,분기별 당기순이익(지배),392000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1108524/000110852419000025/,,4
+Salesforce,CRM,2019Q1,2019-04-30,분기별 영업활동현금흐름,1965000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1108524/000110852419000025/,,4
+Salesforce,CRM,2019Q1,2019-04-30,분기말 자산총계,33154000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1108524/000110852419000025/,,4
+Salesforce,CRM,2019Q1,2019-04-30,분기말 부채총계,16708000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1108524/000110852419000025/,,4
+Salesforce,CRM,2019Q1,2019-04-30,분기말 총자본(자기자본),16446000000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/1108524/000110852419000025/,"StockholdersEquity, MinorityInterest 태그 없음",4
+Salesforce,CRM,2019Q1,2019-04-30,분기말 지배지분 자본,16446000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1108524/000110852419000025/,,4
+Salesforce,CRM,2019Q1,2019-04-30,분기말 종가,165.35,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/CRM?interval=1d&events=splits (2019-04-30),,4
+Salesforce,CRM,2019Q1,2019-05-31,분기말 상장주식수,776000000,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/1108524/000110852419000025/,dei:EntityCommonStockSharesOutstanding 클래스 합,4
+Salesforce,CRM,2019Q1,2019-04-30,분기말 시가총액,128311600000,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/CRM?interval=1d&events=splits (2019-04-30) ; https://www.sec.gov/Archives/edgar/data/1108524/000110852419000025/,종가 165.35 × 주식수 776000000,4
+Salesforce,CRM,2019Q2,2019-07-31,분기별 매출액,3997000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1108524/000110852419000052/,,4
+Salesforce,CRM,2019Q2,2019-07-31,분기별 영업이익,58000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1108524/000110852419000052/,,4
+Salesforce,CRM,2019Q2,2019-07-31,분기별 당기순이익(지배),91000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1108524/000110852419000052/,,4
+Salesforce,CRM,2019Q2,2019-07-31,분기별 영업활동현금흐름,436000000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/1108524/000110852419000052/ ; https://www.sec.gov/Archives/edgar/data/1108524/000110852419000025/,누적 2401000000 − 직전누적 1965000000 (시작 2019-02-01),4
+Salesforce,CRM,2019Q2,2019-07-31,분기말 자산총계,33336000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1108524/000110852419000052/,,4
+Salesforce,CRM,2019Q2,2019-07-31,분기말 부채총계,16170000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1108524/000110852419000052/,,4
+Salesforce,CRM,2019Q2,2019-07-31,분기말 총자본(자기자본),17166000000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/1108524/000110852419000052/,"StockholdersEquity, MinorityInterest 태그 없음",4
+Salesforce,CRM,2019Q2,2019-07-31,분기말 지배지분 자본,17166000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1108524/000110852419000052/,,4
+Salesforce,CRM,2019Q2,2019-07-31,분기말 종가,154.5,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/CRM?interval=1d&events=splits (2019-07-31),,4
+Salesforce,CRM,2019Q2,2019-08-15,분기말 상장주식수,877000000,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/1108524/000110852419000052/,dei:EntityCommonStockSharesOutstanding 클래스 합,4
+Salesforce,CRM,2019Q2,2019-07-31,분기말 시가총액,135496500000,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/CRM?interval=1d&events=splits (2019-07-31) ; https://www.sec.gov/Archives/edgar/data/1108524/000110852419000052/,종가 154.5 × 주식수 877000000,4
+Salesforce,CRM,2019Q3,2019-10-31,분기별 매출액,4513000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1108524/000110852419000076/,,4
+Salesforce,CRM,2019Q3,2019-10-31,분기별 영업이익,65000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1108524/000110852419000076/,,4
+Salesforce,CRM,2019Q3,2019-10-31,분기별 당기순이익(지배),-109000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1108524/000110852419000076/,,4
+Salesforce,CRM,2019Q3,2019-10-31,분기별 영업활동현금흐름,298000000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/1108524/000110852419000076/ ; https://www.sec.gov/Archives/edgar/data/1108524/000110852419000052/,누적 2699000000 − 직전누적 2401000000 (시작 2019-02-01),4
+Salesforce,CRM,2019Q3,2019-10-31,분기말 자산총계,49942000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1108524/000110852419000076/,,4
+Salesforce,CRM,2019Q3,2019-10-31,분기말 부채총계,16663000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1108524/000110852419000076/,,4
+Salesforce,CRM,2019Q3,2019-10-31,분기말 총자본(자기자본),33279000000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/1108524/000110852419000076/,"StockholdersEquity, MinorityInterest 태그 없음",4
+Salesforce,CRM,2019Q3,2019-10-31,분기말 지배지분 자본,33279000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1108524/000110852419000076/,,4
+Salesforce,CRM,2019Q3,2019-10-31,분기말 종가,156.49,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/CRM?interval=1d&events=splits (2019-10-31),,4
+Salesforce,CRM,2019Q3,2019-11-29,분기말 상장주식수,887000000,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/1108524/000110852419000076/,dei:EntityCommonStockSharesOutstanding 클래스 합,4
+Salesforce,CRM,2019Q3,2019-10-31,분기말 시가총액,138806630000,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/CRM?interval=1d&events=splits (2019-10-31) ; https://www.sec.gov/Archives/edgar/data/1108524/000110852419000076/,종가 156.49 × 주식수 887000000,4
+Salesforce,CRM,2019Q4,2020-01-31,분기별 매출액,4851000000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/1108524/000110852420000014/ ; https://www.sec.gov/Archives/edgar/data/1108524/000110852419000076/,연간 17098000000 − 9개월누적 12247000000 (RevenueFromContractWithCustomerExcludingAssessedTax),4
+Salesforce,CRM,2019Q4,2020-01-31,분기별 영업이익,-36000000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/1108524/000110852420000014/ ; https://www.sec.gov/Archives/edgar/data/1108524/000110852419000076/,연간 297000000 − 9개월누적 333000000 (OperatingIncomeLoss),4
+Salesforce,CRM,2019Q4,2020-01-31,분기별 당기순이익(지배),-248000000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/1108524/000110852420000014/ ; https://www.sec.gov/Archives/edgar/data/1108524/000110852419000076/,연간 126000000 − 9개월누적 374000000 (NetIncomeLoss),4
+Salesforce,CRM,2019Q4,2020-01-31,분기별 영업활동현금흐름,1632000000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/1108524/000110852420000014/ ; https://www.sec.gov/Archives/edgar/data/1108524/000110852419000076/,누적 4331000000 − 직전누적 2699000000 (시작 2019-02-01),4
+Salesforce,CRM,2019Q4,2020-01-31,분기말 자산총계,55126000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1108524/000110852420000014/,,4
+Salesforce,CRM,2019Q4,2020-01-31,분기말 부채총계,21241000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1108524/000110852420000014/,,4
+Salesforce,CRM,2019Q4,2020-01-31,분기말 총자본(자기자본),33885000000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/1108524/000110852420000014/,"StockholdersEquity, MinorityInterest 태그 없음",4
+Salesforce,CRM,2019Q4,2020-01-31,분기말 지배지분 자본,33885000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1108524/000110852420000014/,,4
+Salesforce,CRM,2019Q4,2020-01-31,분기말 종가,182.31,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/CRM?interval=1d&events=splits (2020-01-31),,4
+Salesforce,CRM,2019Q4,2020-02-29,분기말 상장주식수,895000000,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/1108524/000110852420000014/,dei:EntityCommonStockSharesOutstanding 클래스 합,4
+Salesforce,CRM,2019Q4,2020-01-31,분기말 시가총액,163167450000,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/CRM?interval=1d&events=splits (2020-01-31) ; https://www.sec.gov/Archives/edgar/data/1108524/000110852420000014/,종가 182.31 × 주식수 895000000,4
+Salesforce,CRM,2020Q1,2020-04-30,분기별 매출액,4865000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1108524/000110852422000007/,,4
+Salesforce,CRM,2020Q1,2020-04-30,분기별 영업이익,-140000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1108524/000110852422000007/,,4
+Salesforce,CRM,2020Q1,2020-04-30,분기별 당기순이익(지배),99000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1108524/000110852422000007/,,4
+Salesforce,CRM,2020Q1,2020-04-30,분기별 영업활동현금흐름,1859000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1108524/000110852422000007/,,4
+Salesforce,CRM,2020Q1,2020-04-30,분기말 자산총계,53623000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1108524/000110852422000007/,,4
+Salesforce,CRM,2020Q1,2020-04-30,분기말 부채총계,19058000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1108524/000110852422000007/,,4
+Salesforce,CRM,2020Q1,2020-04-30,분기말 총자본(자기자본),34565000000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/1108524/000110852422000007/,"StockholdersEquity, MinorityInterest 태그 없음",4
+Salesforce,CRM,2020Q1,2020-04-30,분기말 지배지분 자본,34565000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1108524/000110852422000007/,,4
+Salesforce,CRM,2020Q1,2020-04-30,분기말 종가,161.95,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/CRM?interval=1d&events=splits (2020-04-30),,4
+Salesforce,CRM,2020Q1,2020-05-29,분기말 상장주식수,901000000,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/1108524/000110852422000007/,dei:EntityCommonStockSharesOutstanding 클래스 합,4
+Salesforce,CRM,2020Q1,2020-04-30,분기말 시가총액,145916950000,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/CRM?interval=1d&events=splits (2020-04-30) ; https://www.sec.gov/Archives/edgar/data/1108524/000110852422000007/,종가 161.95 × 주식수 901000000,4
+Salesforce,CRM,2020Q2,2020-07-31,분기별 매출액,5151000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1108524/000110852420000041/,,4
+Salesforce,CRM,2020Q2,2020-07-31,분기별 영업이익,178000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1108524/000110852420000041/,,4
+Salesforce,CRM,2020Q2,2020-07-31,분기별 당기순이익(지배),2625000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1108524/000110852420000041/,,4
+Salesforce,CRM,2020Q2,2020-07-31,분기별 영업활동현금흐름,429000000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/1108524/000110852420000041/ ; https://www.sec.gov/Archives/edgar/data/1108524/000110852422000007/,누적 2288000000 − 직전누적 1859000000 (시작 2020-02-01),4
+Salesforce,CRM,2020Q2,2020-07-31,분기말 자산총계,57780000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1108524/000110852420000041/,,4
+Salesforce,CRM,2020Q2,2020-07-31,분기말 부채총계,19340000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1108524/000110852420000041/,,4
+Salesforce,CRM,2020Q2,2020-07-31,분기말 총자본(자기자본),38440000000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/1108524/000110852420000041/,"StockholdersEquity, MinorityInterest 태그 없음",4
+Salesforce,CRM,2020Q2,2020-07-31,분기말 지배지분 자본,38440000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1108524/000110852420000041/,,4
+Salesforce,CRM,2020Q2,2020-07-31,분기말 종가,194.85,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/CRM?interval=1d&events=splits (2020-07-31),,4
+Salesforce,CRM,2020Q2,2020-08-25,분기말 상장주식수,910000000,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/1108524/000110852420000041/,dei:EntityCommonStockSharesOutstanding 클래스 합,4
+Salesforce,CRM,2020Q2,2020-07-31,분기말 시가총액,177313500000,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/CRM?interval=1d&events=splits (2020-07-31) ; https://www.sec.gov/Archives/edgar/data/1108524/000110852420000041/,종가 194.85 × 주식수 910000000,4
+Salesforce,CRM,2020Q3,2020-10-31,분기별 매출액,5419000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1108524/000110852420000047/,,4
+Salesforce,CRM,2020Q3,2020-10-31,분기별 영업이익,224000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1108524/000110852420000047/,,4
+Salesforce,CRM,2020Q3,2020-10-31,분기별 당기순이익(지배),1081000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1108524/000110852420000047/,,4
+Salesforce,CRM,2020Q3,2020-10-31,분기별 영업활동현금흐름,339000000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/1108524/000110852420000047/ ; https://www.sec.gov/Archives/edgar/data/1108524/000110852420000041/,누적 2627000000 − 직전누적 2288000000 (시작 2020-02-01),4
+Salesforce,CRM,2020Q3,2020-10-31,분기말 자산총계,59136000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1108524/000110852420000047/,,4
+Salesforce,CRM,2020Q3,2020-10-31,분기말 부채총계,18826000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1108524/000110852420000047/,,4
+Salesforce,CRM,2020Q3,2020-10-31,분기말 총자본(자기자본),40310000000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/1108524/000110852420000047/,"StockholdersEquity, MinorityInterest 태그 없음",4
+Salesforce,CRM,2020Q3,2020-10-31,분기말 지배지분 자본,40310000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1108524/000110852420000047/,,4
+Salesforce,CRM,2020Q3,2020-10-30,분기말 종가,232.27,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/CRM?interval=1d&events=splits (2020-10-30),,4
+Salesforce,CRM,2020Q3,2020-12-01,분기말 상장주식수,915000000,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/1108524/000110852420000047/,dei:EntityCommonStockSharesOutstanding 클래스 합,4
+Salesforce,CRM,2020Q3,2020-10-30,분기말 시가총액,212527050000,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/CRM?interval=1d&events=splits (2020-10-30) ; https://www.sec.gov/Archives/edgar/data/1108524/000110852420000047/,종가 232.27 × 주식수 915000000,4
+Salesforce,CRM,2020Q4,2021-01-31,분기별 매출액,5817000000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/1108524/000110852422000008/ ; https://www.sec.gov/Archives/edgar/data/1108524/000110852420000047/,연간 21252000000 − 9개월누적 15435000000 (RevenueFromContractWithCustomerExcludingAssessedTax),4
+Salesforce,CRM,2020Q4,2021-01-31,분기별 영업이익,193000000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/1108524/000110852422000008/ ; https://www.sec.gov/Archives/edgar/data/1108524/000110852420000047/,연간 455000000 − 9개월누적 262000000 (OperatingIncomeLoss),4
+Salesforce,CRM,2020Q4,2021-01-31,분기별 당기순이익(지배),267000000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/1108524/000110852422000008/ ; https://www.sec.gov/Archives/edgar/data/1108524/000110852420000047/,연간 4072000000 − 9개월누적 3805000000 (NetIncomeLoss),4
+Salesforce,CRM,2020Q4,2021-01-31,분기별 영업활동현금흐름,2174000000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/1108524/000110852422000008/ ; https://www.sec.gov/Archives/edgar/data/1108524/000110852420000047/,누적 4801000000 − 직전누적 2627000000 (시작 2020-02-01),4
+Salesforce,CRM,2020Q4,2021-01-31,분기말 자산총계,66301000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1108524/000110852422000008/,,4
+Salesforce,CRM,2020Q4,2021-01-31,분기말 부채총계,24808000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1108524/000110852422000008/,,4
+Salesforce,CRM,2020Q4,2021-01-31,분기말 총자본(자기자본),41493000000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/1108524/000110852422000008/,"StockholdersEquity, MinorityInterest 태그 없음",4
+Salesforce,CRM,2020Q4,2021-01-31,분기말 지배지분 자본,41493000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1108524/000110852422000008/,,4
+Salesforce,CRM,2020Q4,2021-01-29,분기말 종가,225.56,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/CRM?interval=1d&events=splits (2021-01-29),,4
+Salesforce,CRM,2020Q4,2021-03-15,분기말 상장주식수,921000000,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/1108524/000110852422000008/,dei:EntityCommonStockSharesOutstanding 클래스 합,4
+Salesforce,CRM,2020Q4,2021-01-29,분기말 시가총액,207740760000,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/CRM?interval=1d&events=splits (2021-01-29) ; https://www.sec.gov/Archives/edgar/data/1108524/000110852422000008/,종가 225.56 × 주식수 921000000,4
+Salesforce,CRM,2021Q1,2021-04-30,분기별 매출액,5963000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1108524/000110852421000030/,,4
+Salesforce,CRM,2021Q1,2021-04-30,분기별 영업이익,354000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1108524/000110852421000030/,,4
+Salesforce,CRM,2021Q1,2021-04-30,분기별 당기순이익(지배),469000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1108524/000110852421000030/,,4
+Salesforce,CRM,2021Q1,2021-04-30,분기별 영업활동현금흐름,3228000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1108524/000110852421000030/,,4
+Salesforce,CRM,2021Q1,2021-04-30,분기말 자산총계,64885000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1108524/000110852421000030/,,4
+Salesforce,CRM,2021Q1,2021-04-30,분기말 부채총계,22318000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1108524/000110852421000030/,,4
+Salesforce,CRM,2021Q1,2021-04-30,분기말 총자본(자기자본),42567000000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/1108524/000110852421000030/,"StockholdersEquity, MinorityInterest 태그 없음",4
+Salesforce,CRM,2021Q1,2021-04-30,분기말 지배지분 자본,42567000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1108524/000110852421000030/,,4
+Salesforce,CRM,2021Q1,2021-04-30,분기말 종가,230.32,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/CRM?interval=1d&events=splits (2021-04-30),,4
+Salesforce,CRM,2021Q1,2021-05-27,분기말 상장주식수,926000000,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/1108524/000110852421000030/,dei:EntityCommonStockSharesOutstanding 클래스 합,4
+Salesforce,CRM,2021Q1,2021-04-30,분기말 시가총액,213276320000,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/CRM?interval=1d&events=splits (2021-04-30) ; https://www.sec.gov/Archives/edgar/data/1108524/000110852421000030/,종가 230.32 × 주식수 926000000,4
+Salesforce,CRM,2021Q2,2021-07-31,분기별 매출액,6340000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1108524/000110852421000047/,,4
+Salesforce,CRM,2021Q2,2021-07-31,분기별 영업이익,332000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1108524/000110852421000047/,,4
+Salesforce,CRM,2021Q2,2021-07-31,분기별 당기순이익(지배),535000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1108524/000110852421000047/,,4
+Salesforce,CRM,2021Q2,2021-07-31,분기별 영업활동현금흐름,386000000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/1108524/000110852421000047/ ; https://www.sec.gov/Archives/edgar/data/1108524/000110852421000030/,누적 3614000000 − 직전누적 3228000000 (시작 2021-02-01),4
+Salesforce,CRM,2021Q2,2021-07-31,분기말 자산총계,88658000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1108524/000110852421000047/,,4
+Salesforce,CRM,2021Q2,2021-07-31,분기말 부채총계,33138000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1108524/000110852421000047/,,4
+Salesforce,CRM,2021Q2,2021-07-31,분기말 총자본(자기자본),55520000000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/1108524/000110852421000047/,"StockholdersEquity, MinorityInterest 태그 없음",4
+Salesforce,CRM,2021Q2,2021-07-31,분기말 지배지분 자본,55520000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1108524/000110852421000047/,,4
+Salesforce,CRM,2021Q2,2021-07-30,분기말 종가,241.93,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/CRM?interval=1d&events=splits (2021-07-30),,4
+Salesforce,CRM,2021Q2,2021-08-25,분기말 상장주식수,979000000,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/1108524/000110852421000047/,dei:EntityCommonStockSharesOutstanding 클래스 합,4
+Salesforce,CRM,2021Q2,2021-07-30,분기말 시가총액,236849470000,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/CRM?interval=1d&events=splits (2021-07-30) ; https://www.sec.gov/Archives/edgar/data/1108524/000110852421000047/,종가 241.93 × 주식수 979000000,4
+Salesforce,CRM,2021Q3,2021-10-31,분기별 매출액,6863000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1108524/000110852421000055/,,4
+Salesforce,CRM,2021Q3,2021-10-31,분기별 영업이익,38000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1108524/000110852421000055/,,4
+Salesforce,CRM,2021Q3,2021-10-31,분기별 당기순이익(지배),468000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1108524/000110852421000055/,,4
+Salesforce,CRM,2021Q3,2021-10-31,분기별 영업활동현금흐름,404000000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/1108524/000110852421000055/ ; https://www.sec.gov/Archives/edgar/data/1108524/000110852421000047/,누적 4018000000 − 직전누적 3614000000 (시작 2021-02-01),4
+Salesforce,CRM,2021Q3,2021-10-31,분기말 자산총계,87436000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1108524/000110852421000055/,,4
+Salesforce,CRM,2021Q3,2021-10-31,분기말 부채총계,30382000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1108524/000110852421000055/,,4
+Salesforce,CRM,2021Q3,2021-10-31,분기말 총자본(자기자본),57054000000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/1108524/000110852421000055/,"StockholdersEquity, MinorityInterest 태그 없음",4
+Salesforce,CRM,2021Q3,2021-10-31,분기말 지배지분 자본,57054000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1108524/000110852421000055/,,4
+Salesforce,CRM,2021Q3,2021-10-29,분기말 종가,299.69,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/CRM?interval=1d&events=splits (2021-10-29),,4
+Salesforce,CRM,2021Q3,2021-11-30,분기말 상장주식수,985000000,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/1108524/000110852421000055/,dei:EntityCommonStockSharesOutstanding 클래스 합,4
+Salesforce,CRM,2021Q3,2021-10-29,분기말 시가총액,295194650000,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/CRM?interval=1d&events=splits (2021-10-29) ; https://www.sec.gov/Archives/edgar/data/1108524/000110852421000055/,종가 299.69 × 주식수 985000000,4
+Salesforce,CRM,2021Q4,2022-01-31,분기별 매출액,7326000000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/1108524/000110852422000013/ ; https://www.sec.gov/Archives/edgar/data/1108524/000110852421000055/,연간 26492000000 − 9개월누적 19166000000 (RevenueFromContractWithCustomerExcludingAssessedTax),4
+Salesforce,CRM,2021Q4,2022-01-31,분기별 영업이익,-176000000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/1108524/000110852422000013/ ; https://www.sec.gov/Archives/edgar/data/1108524/000110852421000055/,연간 548000000 − 9개월누적 724000000 (OperatingIncomeLoss),4
+Salesforce,CRM,2021Q4,2022-01-31,분기별 당기순이익(지배),-28000000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/1108524/000110852422000013/ ; https://www.sec.gov/Archives/edgar/data/1108524/000110852421000055/,연간 1444000000 − 9개월누적 1472000000 (NetIncomeLoss),4
+Salesforce,CRM,2021Q4,2022-01-31,분기별 영업활동현금흐름,1982000000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/1108524/000110852422000013/ ; https://www.sec.gov/Archives/edgar/data/1108524/000110852421000055/,누적 6000000000 − 직전누적 4018000000 (시작 2021-02-01),4
+Salesforce,CRM,2021Q4,2022-01-31,분기말 자산총계,95209000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1108524/000110852422000013/,,4
+Salesforce,CRM,2021Q4,2022-01-31,분기말 부채총계,37078000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1108524/000110852422000013/,,4
+Salesforce,CRM,2021Q4,2022-01-31,분기말 총자본(자기자본),58131000000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/1108524/000110852422000013/,"StockholdersEquity, MinorityInterest 태그 없음",4
+Salesforce,CRM,2021Q4,2022-01-31,분기말 지배지분 자본,58131000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1108524/000110852422000013/,,4
+Salesforce,CRM,2021Q4,2022-01-31,분기말 종가,232.63,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/CRM?interval=1d&events=splits (2022-01-31),,4
+Salesforce,CRM,2021Q4,2022-03-01,분기말 상장주식수,990000000,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/1108524/000110852422000013/,dei:EntityCommonStockSharesOutstanding 클래스 합,4
+Salesforce,CRM,2021Q4,2022-01-31,분기말 시가총액,230303700000,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/CRM?interval=1d&events=splits (2022-01-31) ; https://www.sec.gov/Archives/edgar/data/1108524/000110852422000013/,종가 232.63 × 주식수 990000000,4
+Salesforce,CRM,2022Q1,2022-04-30,분기별 매출액,7411000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1108524/000110852422000022/,,4
+Salesforce,CRM,2022Q1,2022-04-30,분기별 영업이익,20000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1108524/000110852422000022/,,4
+Salesforce,CRM,2022Q1,2022-04-30,분기별 당기순이익(지배),28000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1108524/000110852422000022/,,4
+Salesforce,CRM,2022Q1,2022-04-30,분기별 영업활동현금흐름,3676000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1108524/000110852422000022/,,4
+Salesforce,CRM,2022Q1,2022-04-30,분기말 자산총계,93022000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1108524/000110852422000022/,,4
+Salesforce,CRM,2022Q1,2022-04-30,분기말 부채총계,34146000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1108524/000110852422000022/,,4
+Salesforce,CRM,2022Q1,2022-04-30,분기말 총자본(자기자본),58876000000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/1108524/000110852422000022/,"StockholdersEquity, MinorityInterest 태그 없음",4
+Salesforce,CRM,2022Q1,2022-04-30,분기말 지배지분 자본,58876000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1108524/000110852422000022/,,4
+Salesforce,CRM,2022Q1,2022-04-29,분기말 종가,175.94,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/CRM?interval=1d&events=splits (2022-04-29),,4
+Salesforce,CRM,2022Q1,2022-05-31,분기말 상장주식수,995000000,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/1108524/000110852422000022/,dei:EntityCommonStockSharesOutstanding 클래스 합,4
+Salesforce,CRM,2022Q1,2022-04-29,분기말 시가총액,175060300000,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/CRM?interval=1d&events=splits (2022-04-29) ; https://www.sec.gov/Archives/edgar/data/1108524/000110852422000022/,종가 175.94 × 주식수 995000000,4
+Salesforce,CRM,2022Q2,2022-07-31,분기별 매출액,7720000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1108524/000110852422000041/,,4
+Salesforce,CRM,2022Q2,2022-07-31,분기별 영업이익,193000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1108524/000110852422000041/,,4
+Salesforce,CRM,2022Q2,2022-07-31,분기별 당기순이익(지배),68000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1108524/000110852422000041/,,4
+Salesforce,CRM,2022Q2,2022-07-31,분기별 영업활동현금흐름,334000000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/1108524/000110852422000041/ ; https://www.sec.gov/Archives/edgar/data/1108524/000110852422000022/,누적 4010000000 − 직전누적 3676000000 (시작 2022-02-01),4
+Salesforce,CRM,2022Q2,2022-07-31,분기말 자산총계,94148000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1108524/000110852422000041/,,4
+Salesforce,CRM,2022Q2,2022-07-31,분기말 부채총계,34050000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1108524/000110852422000041/,,4
+Salesforce,CRM,2022Q2,2022-07-31,분기말 총자본(자기자본),60098000000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/1108524/000110852422000041/,"StockholdersEquity, MinorityInterest 태그 없음",4
+Salesforce,CRM,2022Q2,2022-07-31,분기말 지배지분 자본,60098000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1108524/000110852422000041/,,4
+Salesforce,CRM,2022Q2,2022-07-29,분기말 종가,184.02,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/CRM?interval=1d&events=splits (2022-07-29),,4
+Salesforce,CRM,2022Q2,2022-08-24,분기말 상장주식수,1000000000,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/1108524/000110852422000041/,dei:EntityCommonStockSharesOutstanding 클래스 합,4
+Salesforce,CRM,2022Q2,2022-07-29,분기말 시가총액,184020000000,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/CRM?interval=1d&events=splits (2022-07-29) ; https://www.sec.gov/Archives/edgar/data/1108524/000110852422000041/,종가 184.02 × 주식수 1000000000,4
+Salesforce,CRM,2022Q3,2022-10-31,분기별 매출액,7837000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1108524/000110852422000060/,,4
+Salesforce,CRM,2022Q3,2022-10-31,분기별 영업이익,460000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1108524/000110852422000060/,,4
+Salesforce,CRM,2022Q3,2022-10-31,분기별 당기순이익(지배),210000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1108524/000110852422000060/,,4
+Salesforce,CRM,2022Q3,2022-10-31,분기별 영업활동현금흐름,313000000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/1108524/000110852422000060/ ; https://www.sec.gov/Archives/edgar/data/1108524/000110852422000041/,누적 4323000000 − 직전누적 4010000000 (시작 2022-02-01),4
+Salesforce,CRM,2022Q3,2022-10-31,분기말 자산총계,91884000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1108524/000110852422000060/,,4
+Salesforce,CRM,2022Q3,2022-10-31,분기말 부채총계,32533000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1108524/000110852422000060/,,4
+Salesforce,CRM,2022Q3,2022-10-31,분기말 총자본(자기자본),59351000000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/1108524/000110852422000060/,"StockholdersEquity, MinorityInterest 태그 없음",4
+Salesforce,CRM,2022Q3,2022-10-31,분기말 지배지분 자본,59351000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1108524/000110852422000060/,,4
+Salesforce,CRM,2022Q3,2022-10-31,분기말 종가,162.59,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/CRM?interval=1d&events=splits (2022-10-31),,4
+Salesforce,CRM,2022Q3,2022-11-29,분기말 상장주식수,1000000000,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/1108524/000110852422000060/,dei:EntityCommonStockSharesOutstanding 클래스 합,4
+Salesforce,CRM,2022Q3,2022-10-31,분기말 시가총액,162590000000,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/CRM?interval=1d&events=splits (2022-10-31) ; https://www.sec.gov/Archives/edgar/data/1108524/000110852422000060/,종가 162.59 × 주식수 1000000000,4
+Salesforce,CRM,2022Q4,2023-01-31,분기별 매출액,8384000000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/1108524/000110852423000011/ ; https://www.sec.gov/Archives/edgar/data/1108524/000110852422000060/,연간 31352000000 − 9개월누적 22968000000 (RevenueFromContractWithCustomerExcludingAssessedTax),4
+Salesforce,CRM,2022Q4,2023-01-31,분기별 영업이익,357000000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/1108524/000110852423000011/ ; https://www.sec.gov/Archives/edgar/data/1108524/000110852422000060/,연간 1030000000 − 9개월누적 673000000 (OperatingIncomeLoss),4
+Salesforce,CRM,2022Q4,2023-01-31,분기별 당기순이익(지배),-98000000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/1108524/000110852423000011/ ; https://www.sec.gov/Archives/edgar/data/1108524/000110852422000060/,연간 208000000 − 9개월누적 306000000 (NetIncomeLoss),4
+Salesforce,CRM,2022Q4,2023-01-31,분기별 영업활동현금흐름,2788000000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/1108524/000110852423000011/ ; https://www.sec.gov/Archives/edgar/data/1108524/000110852422000060/,누적 7111000000 − 직전누적 4323000000 (시작 2022-02-01),4
+Salesforce,CRM,2022Q4,2023-01-31,분기말 자산총계,98849000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1108524/000110852423000011/,,4
+Salesforce,CRM,2022Q4,2023-01-31,분기말 부채총계,40490000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1108524/000110852423000011/,,4
+Salesforce,CRM,2022Q4,2023-01-31,분기말 총자본(자기자본),58359000000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/1108524/000110852423000011/,"StockholdersEquity, MinorityInterest 태그 없음",4
+Salesforce,CRM,2022Q4,2023-01-31,분기말 지배지분 자본,58359000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1108524/000110852423000011/,,4
+Salesforce,CRM,2022Q4,2023-01-31,분기말 종가,167.97,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/CRM?interval=1d&events=splits (2023-01-31),,4
+Salesforce,CRM,2022Q4,2023-03-07,분기말 상장주식수,1000000000,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/1108524/000110852423000011/,dei:EntityCommonStockSharesOutstanding 클래스 합,4
+Salesforce,CRM,2022Q4,2023-01-31,분기말 시가총액,167970000000,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/CRM?interval=1d&events=splits (2023-01-31) ; https://www.sec.gov/Archives/edgar/data/1108524/000110852423000011/,종가 167.97 × 주식수 1000000000,4
+Salesforce,CRM,2023Q1,2023-04-30,분기별 매출액,8247000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1108524/000110852423000023/,,4
+Salesforce,CRM,2023Q1,2023-04-30,분기별 영업이익,412000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1108524/000110852423000023/,,4
+Salesforce,CRM,2023Q1,2023-04-30,분기별 당기순이익(지배),199000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1108524/000110852423000023/,,4
+Salesforce,CRM,2023Q1,2023-04-30,분기별 영업활동현금흐름,4491000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1108524/000110852423000023/,,4
+Salesforce,CRM,2023Q1,2023-04-30,분기말 자산총계,93541000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1108524/000110852423000023/,,4
+Salesforce,CRM,2023Q1,2023-04-30,분기말 부채총계,36129000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1108524/000110852423000023/,,4
+Salesforce,CRM,2023Q1,2023-04-30,분기말 총자본(자기자본),57412000000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/1108524/000110852423000023/,"StockholdersEquity, MinorityInterest 태그 없음",4
+Salesforce,CRM,2023Q1,2023-04-30,분기말 지배지분 자본,57412000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1108524/000110852423000023/,,4
+Salesforce,CRM,2023Q1,2023-04-28,분기말 종가,198.37,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/CRM?interval=1d&events=splits (2023-04-28),,4
+Salesforce,CRM,2023Q1,2023-05-30,분기말 상장주식수,974000000,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/1108524/000110852423000023/,dei:EntityCommonStockSharesOutstanding 클래스 합,4
+Salesforce,CRM,2023Q1,2023-04-28,분기말 시가총액,193212380000,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/CRM?interval=1d&events=splits (2023-04-28) ; https://www.sec.gov/Archives/edgar/data/1108524/000110852423000023/,종가 198.37 × 주식수 974000000,4
+Salesforce,CRM,2023Q2,2023-07-31,분기별 매출액,8603000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1108524/000110852423000040/,,4
+Salesforce,CRM,2023Q2,2023-07-31,분기별 영업이익,1476000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1108524/000110852423000040/,,4
+Salesforce,CRM,2023Q2,2023-07-31,분기별 당기순이익(지배),1267000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1108524/000110852423000040/,,4
+Salesforce,CRM,2023Q2,2023-07-31,분기별 영업활동현금흐름,808000000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/1108524/000110852423000040/ ; https://www.sec.gov/Archives/edgar/data/1108524/000110852423000023/,누적 5299000000 − 직전누적 4491000000 (시작 2023-02-01),4
+Salesforce,CRM,2023Q2,2023-07-31,분기말 자산총계,92447000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1108524/000110852423000040/,,4
+Salesforce,CRM,2023Q2,2023-07-31,분기말 부채총계,34365000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1108524/000110852423000040/,,4
+Salesforce,CRM,2023Q2,2023-07-31,분기말 총자본(자기자본),58082000000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/1108524/000110852423000040/,"StockholdersEquity, MinorityInterest 태그 없음",4
+Salesforce,CRM,2023Q2,2023-07-31,분기말 지배지분 자본,58082000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1108524/000110852423000040/,,4
+Salesforce,CRM,2023Q2,2023-07-31,분기말 종가,225.01,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/CRM?interval=1d&events=splits (2023-07-31),,4
+Salesforce,CRM,2023Q2,2023-08-28,분기말 상장주식수,973000000,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/1108524/000110852423000040/,dei:EntityCommonStockSharesOutstanding 클래스 합,4
+Salesforce,CRM,2023Q2,2023-07-31,분기말 시가총액,218934730000,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/CRM?interval=1d&events=splits (2023-07-31) ; https://www.sec.gov/Archives/edgar/data/1108524/000110852423000040/,종가 225.01 × 주식수 973000000,4
+Salesforce,CRM,2023Q3,2023-10-31,분기별 매출액,8720000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1108524/000110852423000048/,,4
+Salesforce,CRM,2023Q3,2023-10-31,분기별 영업이익,1501000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1108524/000110852423000048/,,4
+Salesforce,CRM,2023Q3,2023-10-31,분기별 당기순이익(지배),1224000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1108524/000110852423000048/,,4
+Salesforce,CRM,2023Q3,2023-10-31,분기별 영업활동현금흐름,1532000000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/1108524/000110852423000048/ ; https://www.sec.gov/Archives/edgar/data/1108524/000110852423000040/,누적 6831000000 − 직전누적 5299000000 (시작 2023-02-01),4
+Salesforce,CRM,2023Q3,2023-10-31,분기말 자산총계,91022000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1108524/000110852423000048/,,4
+Salesforce,CRM,2023Q3,2023-10-31,분기말 부채총계,32932000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1108524/000110852423000048/,,4
+Salesforce,CRM,2023Q3,2023-10-31,분기말 총자본(자기자본),58090000000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/1108524/000110852423000048/,"StockholdersEquity, MinorityInterest 태그 없음",4
+Salesforce,CRM,2023Q3,2023-10-31,분기말 지배지분 자본,58090000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1108524/000110852423000048/,,4
+Salesforce,CRM,2023Q3,2023-10-31,분기말 종가,200.83,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/CRM?interval=1d&events=splits (2023-10-31),,4
+Salesforce,CRM,2023Q3,2023-11-27,분기말 상장주식수,968000000,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/1108524/000110852423000048/,dei:EntityCommonStockSharesOutstanding 클래스 합,4
+Salesforce,CRM,2023Q3,2023-10-31,분기말 시가총액,194403440000,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/CRM?interval=1d&events=splits (2023-10-31) ; https://www.sec.gov/Archives/edgar/data/1108524/000110852423000048/,종가 200.83 × 주식수 968000000,4
+Salesforce,CRM,2023Q4,2024-01-31,분기별 매출액,9287000000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/1108524/000110852424000005/ ; https://www.sec.gov/Archives/edgar/data/1108524/000110852423000048/,연간 34857000000 − 9개월누적 25570000000 (RevenueFromContractWithCustomerExcludingAssessedTax),4
+Salesforce,CRM,2023Q4,2024-01-31,분기별 영업이익,1622000000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/1108524/000110852424000005/ ; https://www.sec.gov/Archives/edgar/data/1108524/000110852423000048/,연간 5011000000 − 9개월누적 3389000000 (OperatingIncomeLoss),4
+Salesforce,CRM,2023Q4,2024-01-31,분기별 당기순이익(지배),1446000000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/1108524/000110852424000005/ ; https://www.sec.gov/Archives/edgar/data/1108524/000110852423000048/,연간 4136000000 − 9개월누적 2690000000 (NetIncomeLoss),4
+Salesforce,CRM,2023Q4,2024-01-31,분기별 영업활동현금흐름,3403000000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/1108524/000110852424000005/ ; https://www.sec.gov/Archives/edgar/data/1108524/000110852423000048/,누적 10234000000 − 직전누적 6831000000 (시작 2023-02-01),4
+Salesforce,CRM,2023Q4,2024-01-31,분기말 자산총계,99823000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1108524/000110852424000005/,,4
+Salesforce,CRM,2023Q4,2024-01-31,분기말 부채총계,40177000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1108524/000110852424000005/,,4
+Salesforce,CRM,2023Q4,2024-01-31,분기말 총자본(자기자본),59646000000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/1108524/000110852424000005/,"StockholdersEquity, MinorityInterest 태그 없음",4
+Salesforce,CRM,2023Q4,2024-01-31,분기말 지배지분 자본,59646000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1108524/000110852424000005/,,4
+Salesforce,CRM,2023Q4,2024-01-31,분기말 종가,281.09,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/CRM?interval=1d&events=splits (2024-01-31),,4
+Salesforce,CRM,2023Q4,2024-02-29,분기말 상장주식수,970000000,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/1108524/000110852424000005/,dei:EntityCommonStockSharesOutstanding 클래스 합,4
+Salesforce,CRM,2023Q4,2024-01-31,분기말 시가총액,272657300000,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/CRM?interval=1d&events=splits (2024-01-31) ; https://www.sec.gov/Archives/edgar/data/1108524/000110852424000005/,종가 281.09 × 주식수 970000000,4
+Salesforce,CRM,2024Q1,2024-04-30,분기별 매출액,9133000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1108524/000110852424000009/,,4
+Salesforce,CRM,2024Q1,2024-04-30,분기별 영업이익,1709000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1108524/000110852424000009/,,4
+Salesforce,CRM,2024Q1,2024-04-30,분기별 당기순이익(지배),1533000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1108524/000110852424000009/,,4
+Salesforce,CRM,2024Q1,2024-04-30,분기별 영업활동현금흐름,6247000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1108524/000110852424000009/,,4
+Salesforce,CRM,2024Q1,2024-04-30,분기말 자산총계,96180000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1108524/000110852424000009/,,4
+Salesforce,CRM,2024Q1,2024-04-30,분기말 부채총계,36497000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1108524/000110852424000009/,,4
+Salesforce,CRM,2024Q1,2024-04-30,분기말 총자본(자기자본),59683000000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/1108524/000110852424000009/,"StockholdersEquity, MinorityInterest 태그 없음",4
+Salesforce,CRM,2024Q1,2024-04-30,분기말 지배지분 자본,59683000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1108524/000110852424000009/,,4
+Salesforce,CRM,2024Q1,2024-04-30,분기말 종가,268.94,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/CRM?interval=1d&events=splits (2024-04-30),,4
+Salesforce,CRM,2024Q1,2024-05-24,분기말 상장주식수,969000000,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/1108524/000110852424000009/,dei:EntityCommonStockSharesOutstanding 클래스 합,4
+Salesforce,CRM,2024Q1,2024-04-30,분기말 시가총액,260602860000,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/CRM?interval=1d&events=splits (2024-04-30) ; https://www.sec.gov/Archives/edgar/data/1108524/000110852424000009/,종가 268.94 × 주식수 969000000,4
+Salesforce,CRM,2024Q2,2024-07-31,분기별 매출액,9325000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1108524/000110852424000022/,,4
+Salesforce,CRM,2024Q2,2024-07-31,분기별 영업이익,1783000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1108524/000110852424000022/,,4
+Salesforce,CRM,2024Q2,2024-07-31,분기별 당기순이익(지배),1429000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1108524/000110852424000022/,,4
+Salesforce,CRM,2024Q2,2024-07-31,분기별 영업활동현금흐름,892000000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/1108524/000110852424000022/ ; https://www.sec.gov/Archives/edgar/data/1108524/000110852424000009/,누적 7139000000 − 직전누적 6247000000 (시작 2024-02-01),4
+Salesforce,CRM,2024Q2,2024-07-31,분기말 자산총계,92180000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1108524/000110852424000022/,,4
+Salesforce,CRM,2024Q2,2024-07-31,분기말 부채총계,34547000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1108524/000110852424000022/,,4
+Salesforce,CRM,2024Q2,2024-07-31,분기말 총자본(자기자본),57633000000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/1108524/000110852424000022/,"StockholdersEquity, MinorityInterest 태그 없음",4
+Salesforce,CRM,2024Q2,2024-07-31,분기말 지배지분 자본,57633000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1108524/000110852424000022/,,4
+Salesforce,CRM,2024Q2,2024-07-31,분기말 종가,258.8,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/CRM?interval=1d&events=splits (2024-07-31),,4
+Salesforce,CRM,2024Q2,2024-08-23,분기말 상장주식수,956000000,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/1108524/000110852424000022/,dei:EntityCommonStockSharesOutstanding 클래스 합,4
+Salesforce,CRM,2024Q2,2024-07-31,분기말 시가총액,247412800000,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/CRM?interval=1d&events=splits (2024-07-31) ; https://www.sec.gov/Archives/edgar/data/1108524/000110852424000022/,종가 258.8 × 주식수 956000000,4
+Salesforce,CRM,2024Q3,2024-10-31,분기별 매출액,9444000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1108524/000110852424000034/,,4
+Salesforce,CRM,2024Q3,2024-10-31,분기별 영업이익,1893000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1108524/000110852424000034/,,4
+Salesforce,CRM,2024Q3,2024-10-31,분기별 당기순이익(지배),1527000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1108524/000110852424000034/,,4
+Salesforce,CRM,2024Q3,2024-10-31,분기별 영업활동현금흐름,1983000000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/1108524/000110852424000034/ ; https://www.sec.gov/Archives/edgar/data/1108524/000110852424000022/,누적 9122000000 − 직전누적 7139000000 (시작 2024-02-01),4
+Salesforce,CRM,2024Q3,2024-10-31,분기말 자산총계,91395000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1108524/000110852424000034/,,4
+Salesforce,CRM,2024Q3,2024-10-31,분기말 부채총계,32870000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1108524/000110852424000034/,,4
+Salesforce,CRM,2024Q3,2024-10-31,분기말 총자본(자기자본),58525000000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/1108524/000110852424000034/,"StockholdersEquity, MinorityInterest 태그 없음",4
+Salesforce,CRM,2024Q3,2024-10-31,분기말 지배지분 자본,58525000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1108524/000110852424000034/,,4
+Salesforce,CRM,2024Q3,2024-10-31,분기말 종가,291.37,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/CRM?interval=1d&events=splits (2024-10-31),,4
+Salesforce,CRM,2024Q3,2024-11-27,분기말 상장주식수,957000000,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/1108524/000110852424000034/,dei:EntityCommonStockSharesOutstanding 클래스 합,4
+Salesforce,CRM,2024Q3,2024-10-31,분기말 시가총액,278841090000,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/CRM?interval=1d&events=splits (2024-10-31) ; https://www.sec.gov/Archives/edgar/data/1108524/000110852424000034/,종가 291.37 × 주식수 957000000,4
+Salesforce,CRM,2024Q4,2025-01-31,분기별 매출액,9993000000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/1108524/000110852425000006/ ; https://www.sec.gov/Archives/edgar/data/1108524/000110852424000034/,연간 37895000000 − 9개월누적 27902000000 (RevenueFromContractWithCustomerExcludingAssessedTax),4
+Salesforce,CRM,2024Q4,2025-01-31,분기별 영업이익,1820000000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/1108524/000110852425000006/ ; https://www.sec.gov/Archives/edgar/data/1108524/000110852424000034/,연간 7205000000 − 9개월누적 5385000000 (OperatingIncomeLoss),4
+Salesforce,CRM,2024Q4,2025-01-31,분기별 당기순이익(지배),1708000000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/1108524/000110852425000006/ ; https://www.sec.gov/Archives/edgar/data/1108524/000110852424000034/,연간 6197000000 − 9개월누적 4489000000 (NetIncomeLoss),4
+Salesforce,CRM,2024Q4,2025-01-31,분기별 영업활동현금흐름,3970000000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/1108524/000110852425000006/ ; https://www.sec.gov/Archives/edgar/data/1108524/000110852424000034/,누적 13092000000 − 직전누적 9122000000 (시작 2024-02-01),4
+Salesforce,CRM,2024Q4,2025-01-31,분기말 자산총계,102928000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1108524/000110852425000006/,,4
+Salesforce,CRM,2024Q4,2025-01-31,분기말 부채총계,41755000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1108524/000110852425000006/,,4
+Salesforce,CRM,2024Q4,2025-01-31,분기말 총자본(자기자본),61173000000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/1108524/000110852425000006/,"StockholdersEquity, MinorityInterest 태그 없음",4
+Salesforce,CRM,2024Q4,2025-01-31,분기말 지배지분 자본,61173000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1108524/000110852425000006/,,4
+Salesforce,CRM,2024Q4,2025-01-31,분기말 종가,341.7,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/CRM?interval=1d&events=splits (2025-01-31),,4
+Salesforce,CRM,2024Q4,2025-02-28,분기말 상장주식수,961000000,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/1108524/000110852425000006/,dei:EntityCommonStockSharesOutstanding 클래스 합,4
+Salesforce,CRM,2024Q4,2025-01-31,분기말 시가총액,328373700000,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/CRM?interval=1d&events=splits (2025-01-31) ; https://www.sec.gov/Archives/edgar/data/1108524/000110852425000006/,종가 341.7 × 주식수 961000000,4
+Salesforce,CRM,2025Q1,2025-04-30,분기별 매출액,9829000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1108524/000110852425000030/,,4
+Salesforce,CRM,2025Q1,2025-04-30,분기별 영업이익,1942000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1108524/000110852425000030/,,4
+Salesforce,CRM,2025Q1,2025-04-30,분기별 당기순이익(지배),1541000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1108524/000110852425000030/,,4
+Salesforce,CRM,2025Q1,2025-04-30,분기별 영업활동현금흐름,6476000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1108524/000110852425000030/,,4
+Salesforce,CRM,2025Q1,2025-04-30,분기말 자산총계,98610000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1108524/000110852425000030/,,4
+Salesforce,CRM,2025Q1,2025-04-30,분기말 부채총계,37944000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1108524/000110852425000030/,,4
+Salesforce,CRM,2025Q1,2025-04-30,분기말 총자본(자기자본),60666000000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/1108524/000110852425000030/,"StockholdersEquity, MinorityInterest 태그 없음",4
+Salesforce,CRM,2025Q1,2025-04-30,분기말 지배지분 자본,60666000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1108524/000110852425000030/,,4
+Salesforce,CRM,2025Q1,2025-04-30,분기말 종가,268.71,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/CRM?interval=1d&events=splits (2025-04-30),,4
+Salesforce,CRM,2025Q1,2025-05-22,분기말 상장주식수,956000000,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/1108524/000110852425000030/,dei:EntityCommonStockSharesOutstanding 클래스 합,4
+Salesforce,CRM,2025Q1,2025-04-30,분기말 시가총액,256886760000,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/CRM?interval=1d&events=splits (2025-04-30) ; https://www.sec.gov/Archives/edgar/data/1108524/000110852425000030/,종가 268.71 × 주식수 956000000,4
+Salesforce,CRM,2025Q2,2025-07-31,분기별 매출액,10236000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1108524/000110852425000088/,,4
+Salesforce,CRM,2025Q2,2025-07-31,분기별 영업이익,2332000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1108524/000110852425000088/,,4
+Salesforce,CRM,2025Q2,2025-07-31,분기별 당기순이익(지배),1887000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1108524/000110852425000088/,,4
+Salesforce,CRM,2025Q2,2025-07-31,분기별 영업활동현금흐름,740000000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/1108524/000110852425000088/ ; https://www.sec.gov/Archives/edgar/data/1108524/000110852425000030/,누적 7216000000 − 직전누적 6476000000 (시작 2025-02-01),4
+Salesforce,CRM,2025Q2,2025-07-31,분기말 자산총계,97573000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1108524/000110852425000088/,,4
+Salesforce,CRM,2025Q2,2025-07-31,분기말 부채총계,36245000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1108524/000110852425000088/,,4
+Salesforce,CRM,2025Q2,2025-07-31,분기말 총자본(자기자본),61328000000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/1108524/000110852425000088/,"StockholdersEquity, MinorityInterest 태그 없음",4
+Salesforce,CRM,2025Q2,2025-07-31,분기말 지배지분 자본,61328000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1108524/000110852425000088/,,4
+Salesforce,CRM,2025Q2,2025-07-31,분기말 종가,258.33,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/CRM?interval=1d&events=splits (2025-07-31),,4
+Salesforce,CRM,2025Q2,2025-08-28,분기말 상장주식수,952000000,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/1108524/000110852425000088/,dei:EntityCommonStockSharesOutstanding 클래스 합,4
+Salesforce,CRM,2025Q2,2025-07-31,분기말 시가총액,245930160000,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/CRM?interval=1d&events=splits (2025-07-31) ; https://www.sec.gov/Archives/edgar/data/1108524/000110852425000088/,종가 258.33 × 주식수 952000000,4
+Salesforce,CRM,2025Q3,2025-10-31,분기별 매출액,10259000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1108524/000110852425000238/,,4
+Salesforce,CRM,2025Q3,2025-10-31,분기별 영업이익,2188000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1108524/000110852425000238/,,4
+Salesforce,CRM,2025Q3,2025-10-31,분기별 당기순이익(지배),2086000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1108524/000110852425000238/,,4
+Salesforce,CRM,2025Q3,2025-10-31,분기별 영업활동현금흐름,2316000000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/1108524/000110852425000238/ ; https://www.sec.gov/Archives/edgar/data/1108524/000110852425000088/,누적 9532000000 − 직전누적 7216000000 (시작 2025-02-01),4
+Salesforce,CRM,2025Q3,2025-10-31,분기말 자산총계,95144000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1108524/000110852425000238/,,4
+Salesforce,CRM,2025Q3,2025-10-31,분기말 부채총계,35123000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1108524/000110852425000238/,,4
+Salesforce,CRM,2025Q3,2025-10-31,분기말 총자본(자기자본),60021000000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/1108524/000110852425000238/,"StockholdersEquity, MinorityInterest 태그 없음",4
+Salesforce,CRM,2025Q3,2025-10-31,분기말 지배지분 자본,60021000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1108524/000110852425000238/,,4
+Salesforce,CRM,2025Q3,2025-10-31,분기말 종가,260.41,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/CRM?interval=1d&events=splits (2025-10-31),,4
+Salesforce,CRM,2025Q3,2025-11-28,분기말 상장주식수,937000000,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/1108524/000110852425000238/,dei:EntityCommonStockSharesOutstanding 클래스 합,4
+Salesforce,CRM,2025Q3,2025-10-31,분기말 시가총액,244004170000,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/CRM?interval=1d&events=splits (2025-10-31) ; https://www.sec.gov/Archives/edgar/data/1108524/000110852425000238/,종가 260.41 × 주식수 937000000,4
+Salesforce,CRM,2025Q4,2026-01-31,분기별 매출액,11201000000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/1108524/000110852426000060/ ; https://www.sec.gov/Archives/edgar/data/1108524/000110852425000238/,연간 41525000000 − 9개월누적 30324000000 (RevenueFromContractWithCustomerExcludingAssessedTax),4
+Salesforce,CRM,2025Q4,2026-01-31,분기별 영업이익,1869000000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/1108524/000110852426000060/ ; https://www.sec.gov/Archives/edgar/data/1108524/000110852425000238/,연간 8331000000 − 9개월누적 6462000000 (OperatingIncomeLoss),4
+Salesforce,CRM,2025Q4,2026-01-31,분기별 당기순이익(지배),1943000000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/1108524/000110852426000060/ ; https://www.sec.gov/Archives/edgar/data/1108524/000110852425000238/,연간 7457000000 − 9개월누적 5514000000 (NetIncomeLoss),4
+Salesforce,CRM,2025Q4,2026-01-31,분기별 영업활동현금흐름,5464000000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/1108524/000110852426000060/ ; https://www.sec.gov/Archives/edgar/data/1108524/000110852425000238/,누적 14996000000 − 직전누적 9532000000 (시작 2025-02-01),4
+Salesforce,CRM,2025Q4,2026-01-31,분기말 자산총계,112305000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1108524/000110852426000060/,,4
+Salesforce,CRM,2025Q4,2026-01-31,분기말 부채총계,53163000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1108524/000110852426000060/,,4
+Salesforce,CRM,2025Q4,2026-01-31,분기말 총자본(자기자본),59142000000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/1108524/000110852426000060/,"StockholdersEquity, MinorityInterest 태그 없음",4
+Salesforce,CRM,2025Q4,2026-01-31,분기말 지배지분 자본,59142000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1108524/000110852426000060/,,4
+Salesforce,CRM,2025Q4,2026-01-30,분기말 종가,212.29,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/CRM?interval=1d&events=splits (2026-01-30),,4
+Salesforce,CRM,2025Q4,2026-02-25,분기말 상장주식수,923000000,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/1108524/000110852426000060/,dei:EntityCommonStockSharesOutstanding 클래스 합,4
+Salesforce,CRM,2025Q4,2026-01-30,분기말 시가총액,195943670000,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/CRM?interval=1d&events=splits (2026-01-30) ; https://www.sec.gov/Archives/edgar/data/1108524/000110852426000060/,종가 212.29 × 주식수 923000000,4
+Salesforce,CRM,2026Q1,2026-04-30,분기별 매출액,11133000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1108524/000110852426000127/,,4
+Salesforce,CRM,2026Q1,2026-04-30,분기별 영업이익,2347000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1108524/000110852426000127/,,4
+Salesforce,CRM,2026Q1,2026-04-30,분기별 당기순이익(지배),2107000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1108524/000110852426000127/,,4
+Salesforce,CRM,2026Q1,2026-04-30,분기별 영업활동현금흐름,6701000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1108524/000110852426000127/,,4
+Salesforce,CRM,2026Q1,2026-04-30,분기말 자산총계,106680000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1108524/000110852426000127/,,4
+Salesforce,CRM,2026Q1,2026-04-30,분기말 부채총계,72445000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1108524/000110852426000127/,,4
+Salesforce,CRM,2026Q1,2026-04-30,분기말 총자본(자기자본),34235000000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/1108524/000110852426000127/,"StockholdersEquity, MinorityInterest 태그 없음",4
+Salesforce,CRM,2026Q1,2026-04-30,분기말 지배지분 자본,34235000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1108524/000110852426000127/,,4
+Salesforce,CRM,2026Q1,2026-04-30,분기말 종가,176.53,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/CRM?interval=1d&events=splits (2026-04-30),,4
+Salesforce,CRM,2026Q1,2026-05-21,분기말 상장주식수,819000000,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/1108524/000110852426000127/,dei:EntityCommonStockSharesOutstanding 클래스 합,4
+Salesforce,CRM,2026Q1,2026-04-30,분기말 시가총액,144578070000,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/CRM?interval=1d&events=splits (2026-04-30) ; https://www.sec.gov/Archives/edgar/data/1108524/000110852426000127/,종가 176.53 × 주식수 819000000,4
+Salesforce,CRM,2026Q2,2026-07-31,분기별 매출액,11345000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1108524/000110852426000190/,,4
+Salesforce,CRM,2026Q2,2026-07-31,분기별 영업이익,2331000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1108524/000110852426000190/,,4
+Salesforce,CRM,2026Q2,2026-07-31,분기별 당기순이익(지배),3526000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1108524/000110852426000190/,,4
+Salesforce,CRM,2026Q2,2026-07-31,분기별 영업활동현금흐름,1269000000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/1108524/000110852426000190/ ; https://www.sec.gov/Archives/edgar/data/1108524/000110852426000127/,누적 7970000000 − 직전누적 6701000000 (시작 2026-02-01),4
+Salesforce,CRM,2026Q2,2026-07-31,분기말 자산총계,109620000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1108524/000110852426000190/,,4
+Salesforce,CRM,2026Q2,2026-07-31,분기말 부채총계,71242000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1108524/000110852426000190/,,4
+Salesforce,CRM,2026Q2,2026-07-31,분기말 총자본(자기자본),38378000000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/1108524/000110852426000190/,"StockholdersEquity, MinorityInterest 태그 없음",4
+Salesforce,CRM,2026Q2,2026-07-31,분기말 지배지분 자본,38378000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1108524/000110852426000190/,,4
+Salesforce,CRM,2026Q2,2026-07-31,분기말 종가,184.02,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/CRM?interval=1d&events=splits (2026-07-31),,4
+Salesforce,CRM,2026Q2,2026-08-20,분기말 상장주식수,823000000,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/1108524/000110852426000190/,dei:EntityCommonStockSharesOutstanding 클래스 합,4
+Salesforce,CRM,2026Q2,2026-07-31,분기말 시가총액,151448460000,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/CRM?interval=1d&events=splits (2026-07-31) ; https://www.sec.gov/Archives/edgar/data/1108524/000110852426000190/,종가 184.02 × 주식수 823000000,4

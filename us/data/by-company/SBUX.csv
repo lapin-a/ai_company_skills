@@ -1,0 +1,727 @@
+﻿기업,종목코드,기간,기준일,항목,값,통화,값구분,출처,검산,라운드
+Starbucks,SBUX,2010Q1,2010-03-28,분기별 매출액,2534700000,USD,공시,https://www.sec.gov/Archives/edgar/data/829224/000119312510104825/,,6
+Starbucks,SBUX,2010Q1,2010-03-28,분기별 영업이익,339800000,USD,공시,https://www.sec.gov/Archives/edgar/data/829224/000119312510104825/,,6
+Starbucks,SBUX,2010Q1,2010-03-28,분기별 당기순이익(지배),217300000,USD,공시,https://www.sec.gov/Archives/edgar/data/829224/000119312510104825/,,6
+Starbucks,SBUX,2010Q1,2010-03-28,분기별 영업활동현금흐름,189100000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/829224/000119312510104825/ ; https://www.sec.gov/Archives/edgar/data/829224/000095012310007737/,누적 957800000 − 직전누적 768700000 (시작 2009-09-28),6
+Starbucks,SBUX,2010Q1,2010-03-28,분기말 자산총계,6144700000,USD,공시,https://www.sec.gov/Archives/edgar/data/829224/000119312510104825/,,6
+Starbucks,SBUX,2010Q1,2010-03-28,분기말 부채총계,2590000000,USD,공시,https://www.sec.gov/Archives/edgar/data/829224/000119312510104825/,,6
+Starbucks,SBUX,2010Q1,2010-03-28,분기말 총자본(자기자본),3554700000,USD,공시,https://www.sec.gov/Archives/edgar/data/829224/000119312510104825/,,6
+Starbucks,SBUX,2010Q1,2010-03-28,분기말 지배지분 자본,3541000000,USD,공시,https://www.sec.gov/Archives/edgar/data/829224/000119312510104825/,,6
+Starbucks,SBUX,2010Q1,2010-03-26,분기말 종가,24.59,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/SBUX?interval=1d&events=splits (2010-03-26),분할조정 종가 12.295 × 이후 분할계수 2,6
+Starbucks,SBUX,2010Q1,2010-04-26,분기말 상장주식수,745100000,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/829224/000119312510104825/,dei:EntityCommonStockSharesOutstanding 클래스 합,6
+Starbucks,SBUX,2010Q1,2010-03-26,분기말 시가총액,18322009000,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/SBUX?interval=1d&events=splits (2010-03-26) ; https://www.sec.gov/Archives/edgar/data/829224/000119312510104825/,종가 24.59 × 주식수 745100000,6
+Starbucks,SBUX,2010Q2,2010-06-27,분기별 매출액,2612000000,USD,공시,https://www.sec.gov/Archives/edgar/data/829224/000119312510173723/,,6
+Starbucks,SBUX,2010Q2,2010-06-27,분기별 영업이익,327700000,USD,공시,https://www.sec.gov/Archives/edgar/data/829224/000119312510173723/,,6
+Starbucks,SBUX,2010Q2,2010-06-27,분기별 당기순이익(지배),207900000,USD,공시,https://www.sec.gov/Archives/edgar/data/829224/000119312510173723/,,6
+Starbucks,SBUX,2010Q2,2010-06-27,분기별 영업활동현금흐름,417600000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/829224/000119312510173723/ ; https://www.sec.gov/Archives/edgar/data/829224/000119312510104825/,누적 1375400000 − 직전누적 957800000 (시작 2009-09-28),6
+Starbucks,SBUX,2010Q2,2010-06-27,분기말 자산총계,6206900000,USD,공시,https://www.sec.gov/Archives/edgar/data/829224/000119312510173723/,,6
+Starbucks,SBUX,2010Q2,2010-06-27,분기말 부채총계,2672300000,USD,공시,https://www.sec.gov/Archives/edgar/data/829224/000119312510173723/,,6
+Starbucks,SBUX,2010Q2,2010-06-27,분기말 총자본(자기자본),3534600000,USD,공시,https://www.sec.gov/Archives/edgar/data/829224/000119312510173723/,,6
+Starbucks,SBUX,2010Q2,2010-06-27,분기말 지배지분 자본,3520900000,USD,공시,https://www.sec.gov/Archives/edgar/data/829224/000119312510173723/,,6
+Starbucks,SBUX,2010Q2,2010-06-25,분기말 종가,26.81,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/SBUX?interval=1d&events=splits (2010-06-25),분할조정 종가 13.405 × 이후 분할계수 2,6
+Starbucks,SBUX,2010Q2,2010-07-26,분기말 상장주식수,740100000,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/829224/000119312510173723/,dei:EntityCommonStockSharesOutstanding 클래스 합,6
+Starbucks,SBUX,2010Q2,2010-06-25,분기말 시가총액,19842081000,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/SBUX?interval=1d&events=splits (2010-06-25) ; https://www.sec.gov/Archives/edgar/data/829224/000119312510173723/,종가 26.81 × 주식수 740100000,6
+Starbucks,SBUX,2010Q3,2010-10-03,분기별 매출액,2838000000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/829224/000119312510266333/ ; https://www.sec.gov/Archives/edgar/data/829224/000119312510173723/,연간 10707400000 − 9개월누적 7869400000 (SalesRevenueNet),6
+Starbucks,SBUX,2010Q3,2010-10-03,분기별 영업이익,399300000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/829224/000119312510266333/ ; https://www.sec.gov/Archives/edgar/data/829224/000119312510173723/,연간 1419400000 − 9개월누적 1020100000 (OperatingIncomeLoss),6
+Starbucks,SBUX,2010Q3,2010-10-03,분기별 당기순이익(지배),278900000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/829224/000119312510266333/ ; https://www.sec.gov/Archives/edgar/data/829224/000119312510173723/,연간 945600000 − 9개월누적 666700000 (NetIncomeLoss),6
+Starbucks,SBUX,2010Q3,2010-10-03,분기별 영업활동현금흐름,329500000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/829224/000119312510266333/ ; https://www.sec.gov/Archives/edgar/data/829224/000119312510173723/,누적 1704900000 − 직전누적 1375400000 (시작 2009-09-28),6
+Starbucks,SBUX,2010Q3,2010-10-03,분기말 자산총계,6385900000,USD,공시,https://www.sec.gov/Archives/edgar/data/829224/000119312510266333/,,6
+Starbucks,SBUX,2010Q3,2010-10-03,분기말 부채총계,2703600000,USD,공시,https://www.sec.gov/Archives/edgar/data/829224/000119312510266333/,,6
+Starbucks,SBUX,2010Q3,2010-10-03,분기말 총자본(자기자본),3682300000,USD,공시,https://www.sec.gov/Archives/edgar/data/829224/000119312510266333/,,6
+Starbucks,SBUX,2010Q3,2010-10-03,분기말 지배지분 자본,3674700000,USD,공시,https://www.sec.gov/Archives/edgar/data/829224/000119312510266333/,,6
+Starbucks,SBUX,2010Q3,2010-10-01,분기말 종가,25.94,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/SBUX?interval=1d&events=splits (2010-10-01),분할조정 종가 12.97 × 이후 분할계수 2,6
+Starbucks,SBUX,2010Q3,2010-11-12,분기말 상장주식수,741100000,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/829224/000119312510266333/,dei:EntityCommonStockSharesOutstanding 클래스 합,6
+Starbucks,SBUX,2010Q3,2010-10-01,분기말 시가총액,19224134000,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/SBUX?interval=1d&events=splits (2010-10-01) ; https://www.sec.gov/Archives/edgar/data/829224/000119312510266333/,종가 25.94 × 주식수 741100000,6
+Starbucks,SBUX,2010Q4,2011-01-02,분기별 매출액,2950800000,USD,공시,https://www.sec.gov/Archives/edgar/data/829224/000119312511024207/,,6
+Starbucks,SBUX,2010Q4,2011-01-02,분기별 영업이익,501900000,USD,공시,https://www.sec.gov/Archives/edgar/data/829224/000119312511024207/,,6
+Starbucks,SBUX,2010Q4,2011-01-02,분기별 당기순이익(지배),346600000,USD,공시,https://www.sec.gov/Archives/edgar/data/829224/000119312511024207/,,6
+Starbucks,SBUX,2010Q4,2011-01-02,분기별 영업활동현금흐름,673600000,USD,공시,https://www.sec.gov/Archives/edgar/data/829224/000119312511024207/,,6
+Starbucks,SBUX,2010Q4,2011-01-02,분기말 자산총계,6931100000,USD,공시,https://www.sec.gov/Archives/edgar/data/829224/000119312511024207/,,6
+Starbucks,SBUX,2010Q4,2011-01-02,분기말 부채총계,2870800000,USD,공시,https://www.sec.gov/Archives/edgar/data/829224/000119312511024207/,,6
+Starbucks,SBUX,2010Q4,2011-01-02,분기말 총자본(자기자본),4060300000,USD,공시,https://www.sec.gov/Archives/edgar/data/829224/000119312511024207/,,6
+Starbucks,SBUX,2010Q4,2011-01-02,분기말 지배지분 자본,4051700000,USD,공시,https://www.sec.gov/Archives/edgar/data/829224/000119312511024207/,,6
+Starbucks,SBUX,2010Q4,2010-12-31,분기말 종가,32.13,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/SBUX?interval=1d&events=splits (2010-12-31),분할조정 종가 16.065 × 이후 분할계수 2,6
+Starbucks,SBUX,2010Q4,2011-01-28,분기말 상장주식수,746000000,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/829224/000119312511024207/,dei:EntityCommonStockSharesOutstanding 클래스 합,6
+Starbucks,SBUX,2010Q4,2010-12-31,분기말 시가총액,23968980000,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/SBUX?interval=1d&events=splits (2010-12-31) ; https://www.sec.gov/Archives/edgar/data/829224/000119312511024207/,종가 32.13 × 주식수 746000000,6
+Starbucks,SBUX,2011Q1,2011-04-03,분기별 매출액,2785700000,USD,공시,https://www.sec.gov/Archives/edgar/data/829224/000119312511130357/,,6
+Starbucks,SBUX,2011Q1,2011-04-03,분기별 영업이익,376100000,USD,공시,https://www.sec.gov/Archives/edgar/data/829224/000119312511130357/,,6
+Starbucks,SBUX,2011Q1,2011-04-03,분기별 당기순이익(지배),261600000,USD,공시,https://www.sec.gov/Archives/edgar/data/829224/000119312511130357/,,6
+Starbucks,SBUX,2011Q1,2011-04-03,분기별 영업활동현금흐름,-4100000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/829224/000119312511130357/ ; https://www.sec.gov/Archives/edgar/data/829224/000119312511024207/,누적 669500000 − 직전누적 673600000 (시작 2010-10-04),6
+Starbucks,SBUX,2011Q1,2011-04-03,분기말 자산총계,7027600000,USD,공시,https://www.sec.gov/Archives/edgar/data/829224/000119312511130357/,,6
+Starbucks,SBUX,2011Q1,2011-04-03,분기말 부채총계,2700400000,USD,공시,https://www.sec.gov/Archives/edgar/data/829224/000119312511130357/,,6
+Starbucks,SBUX,2011Q1,2011-04-03,분기말 총자본(자기자본),4327200000,USD,공시,https://www.sec.gov/Archives/edgar/data/829224/000119312511130357/,,6
+Starbucks,SBUX,2011Q1,2011-04-03,분기말 지배지분 자본,4317800000,USD,공시,https://www.sec.gov/Archives/edgar/data/829224/000119312511130357/,,6
+Starbucks,SBUX,2011Q1,2011-04-01,분기말 종가,37.25,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/SBUX?interval=1d&events=splits (2011-04-01),분할조정 종가 18.625 × 이후 분할계수 2,6
+Starbucks,SBUX,2011Q1,2011-04-29,분기말 상장주식수,749600000,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/829224/000119312511130357/,dei:EntityCommonStockSharesOutstanding 클래스 합,6
+Starbucks,SBUX,2011Q1,2011-04-01,분기말 시가총액,27922600000,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/SBUX?interval=1d&events=splits (2011-04-01) ; https://www.sec.gov/Archives/edgar/data/829224/000119312511130357/,종가 37.25 × 주식수 749600000,6
+Starbucks,SBUX,2011Q2,2011-07-03,분기별 매출액,2932200000,USD,공시,https://www.sec.gov/Archives/edgar/data/829224/000119312511212221/,,6
+Starbucks,SBUX,2011Q2,2011-07-03,분기별 영업이익,402200000,USD,공시,https://www.sec.gov/Archives/edgar/data/829224/000119312511212221/,,6
+Starbucks,SBUX,2011Q2,2011-07-03,분기별 당기순이익(지배),279100000,USD,공시,https://www.sec.gov/Archives/edgar/data/829224/000119312511212221/,,6
+Starbucks,SBUX,2011Q2,2011-07-03,분기별 영업활동현금흐름,457200000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/829224/000119312511212221/ ; https://www.sec.gov/Archives/edgar/data/829224/000119312511130357/,누적 1126700000 − 직전누적 669500000 (시작 2010-10-04),6
+Starbucks,SBUX,2011Q2,2011-07-03,분기말 자산총계,7097800000,USD,공시,https://www.sec.gov/Archives/edgar/data/829224/000119312511212221/,,6
+Starbucks,SBUX,2011Q2,2011-07-03,분기말 부채총계,2756300000,USD,공시,https://www.sec.gov/Archives/edgar/data/829224/000119312511212221/,,6
+Starbucks,SBUX,2011Q2,2011-07-03,분기말 총자본(자기자본),4341500000,USD,공시,https://www.sec.gov/Archives/edgar/data/829224/000119312511212221/,,6
+Starbucks,SBUX,2011Q2,2011-07-03,분기말 지배지분 자본,4338900000,USD,공시,https://www.sec.gov/Archives/edgar/data/829224/000119312511212221/,,6
+Starbucks,SBUX,2011Q2,2011-07-01,분기말 종가,40.19,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/SBUX?interval=1d&events=splits (2011-07-01),분할조정 종가 20.095 × 이후 분할계수 2,6
+Starbucks,SBUX,2011Q2,2011-07-29,분기말 상장주식수,746100000,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/829224/000119312511212221/,dei:EntityCommonStockSharesOutstanding 클래스 합,6
+Starbucks,SBUX,2011Q2,2011-07-01,분기말 시가총액,29985759000,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/SBUX?interval=1d&events=splits (2011-07-01) ; https://www.sec.gov/Archives/edgar/data/829224/000119312511212221/,종가 40.19 × 주식수 746100000,6
+Starbucks,SBUX,2011Q3,2011-10-02,분기별 매출액,3031700000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/829224/000119312511317175/ ; https://www.sec.gov/Archives/edgar/data/829224/000119312511212221/,연간 11700400000 − 9개월누적 8668700000 (Revenues),6
+Starbucks,SBUX,2011Q3,2011-10-02,분기별 영업이익,448200000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/829224/000119312511317175/ ; https://www.sec.gov/Archives/edgar/data/829224/000119312511212221/,연간 1728500000 − 9개월누적 1280300000 (OperatingIncomeLoss),6
+Starbucks,SBUX,2011Q3,2011-10-02,분기별 당기순이익(지배),358300000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/829224/000119312511317175/ ; https://www.sec.gov/Archives/edgar/data/829224/000119312511212221/,연간 1245700000 − 9개월누적 887400000 (NetIncomeLoss),6
+Starbucks,SBUX,2011Q3,2011-10-02,분기별 영업활동현금흐름,485700000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/829224/000119312511317175/ ; https://www.sec.gov/Archives/edgar/data/829224/000119312511212221/,누적 1612400000 − 직전누적 1126700000 (시작 2010-10-04),6
+Starbucks,SBUX,2011Q3,2011-10-02,분기말 자산총계,7360400000,USD,공시,https://www.sec.gov/Archives/edgar/data/829224/000119312511317175/,,6
+Starbucks,SBUX,2011Q3,2011-10-02,분기말 부채총계,2973100000,USD,공시,https://www.sec.gov/Archives/edgar/data/829224/000119312511317175/,,6
+Starbucks,SBUX,2011Q3,2011-10-02,분기말 총자본(자기자본),4387300000,USD,공시,https://www.sec.gov/Archives/edgar/data/829224/000119312511317175/,,6
+Starbucks,SBUX,2011Q3,2011-10-02,분기말 지배지분 자본,4384900000,USD,공시,https://www.sec.gov/Archives/edgar/data/829224/000119312511317175/,,6
+Starbucks,SBUX,2011Q3,2011-09-30,분기말 종가,37.29,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/SBUX?interval=1d&events=splits (2011-09-30),분할조정 종가 18.645 × 이후 분할계수 2,6
+Starbucks,SBUX,2011Q3,2011-11-11,분기말 상장주식수,745400000,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/829224/000119312511317175/,dei:EntityCommonStockSharesOutstanding 클래스 합,6
+Starbucks,SBUX,2011Q3,2011-09-30,분기말 시가총액,27795966000,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/SBUX?interval=1d&events=splits (2011-09-30) ; https://www.sec.gov/Archives/edgar/data/829224/000119312511317175/,종가 37.29 × 주식수 745400000,6
+Starbucks,SBUX,2011Q4,2012-01-01,분기별 매출액,3435900000,USD,공시,https://www.sec.gov/Archives/edgar/data/829224/000119312512032427/,,6
+Starbucks,SBUX,2011Q4,2012-01-01,분기별 영업이익,556000000,USD,공시,https://www.sec.gov/Archives/edgar/data/829224/000119312512032427/,,6
+Starbucks,SBUX,2011Q4,2012-01-01,분기별 당기순이익(지배),382100000,USD,공시,https://www.sec.gov/Archives/edgar/data/829224/000119312512032427/,,6
+Starbucks,SBUX,2011Q4,2012-01-01,분기별 영업활동현금흐름,466300000,USD,공시,https://www.sec.gov/Archives/edgar/data/829224/000119312512032427/,,6
+Starbucks,SBUX,2011Q4,2012-01-01,분기말 자산총계,7835600000,USD,공시,https://www.sec.gov/Archives/edgar/data/829224/000119312512032427/,,6
+Starbucks,SBUX,2011Q4,2012-01-01,분기말 부채총계,3060300000,USD,공시,https://www.sec.gov/Archives/edgar/data/829224/000119312512032427/,,6
+Starbucks,SBUX,2011Q4,2012-01-01,분기말 총자본(자기자본),4775300000,USD,공시,https://www.sec.gov/Archives/edgar/data/829224/000119312512032427/,,6
+Starbucks,SBUX,2011Q4,2012-01-01,분기말 지배지분 자본,4772800000,USD,공시,https://www.sec.gov/Archives/edgar/data/829224/000119312512032427/,,6
+Starbucks,SBUX,2011Q4,2011-12-30,분기말 종가,46.01,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/SBUX?interval=1d&events=splits (2011-12-30),분할조정 종가 23.005 × 이후 분할계수 2,6
+Starbucks,SBUX,2011Q4,2012-01-25,분기말 상장주식수,753400000,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/829224/000119312512032427/,dei:EntityCommonStockSharesOutstanding 클래스 합,6
+Starbucks,SBUX,2011Q4,2011-12-30,분기말 시가총액,34663934000,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/SBUX?interval=1d&events=splits (2011-12-30) ; https://www.sec.gov/Archives/edgar/data/829224/000119312512032427/,종가 46.01 × 주식수 753400000,6
+Starbucks,SBUX,2012Q1,2012-04-01,분기별 매출액,3195900000,USD,공시,https://www.sec.gov/Archives/edgar/data/829224/000119312512204460/,,6
+Starbucks,SBUX,2012Q1,2012-04-01,분기별 영업이익,430400000,USD,공시,https://www.sec.gov/Archives/edgar/data/829224/000119312512204460/,,6
+Starbucks,SBUX,2012Q1,2012-04-01,분기별 당기순이익(지배),309900000,USD,공시,https://www.sec.gov/Archives/edgar/data/829224/000119312512204460/,,6
+Starbucks,SBUX,2012Q1,2012-04-01,분기별 영업활동현금흐름,109300000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/829224/000119312512204460/ ; https://www.sec.gov/Archives/edgar/data/829224/000119312512032427/,누적 575600000 − 직전누적 466300000 (시작 2011-10-03),6
+Starbucks,SBUX,2012Q1,2012-04-01,분기말 자산총계,8006500000,USD,공시,https://www.sec.gov/Archives/edgar/data/829224/000119312512204460/,,6
+Starbucks,SBUX,2012Q1,2012-04-01,분기말 부채총계,2869800000,USD,공시,https://www.sec.gov/Archives/edgar/data/829224/000119312512204460/,,6
+Starbucks,SBUX,2012Q1,2012-04-01,분기말 총자본(자기자본),5136700000,USD,공시,https://www.sec.gov/Archives/edgar/data/829224/000119312512204460/,,6
+Starbucks,SBUX,2012Q1,2012-04-01,분기말 지배지분 자본,5133900000,USD,공시,https://www.sec.gov/Archives/edgar/data/829224/000119312512204460/,,6
+Starbucks,SBUX,2012Q1,2012-03-30,분기말 종가,55.89,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/SBUX?interval=1d&events=splits (2012-03-30),분할조정 종가 27.945 × 이후 분할계수 2,6
+Starbucks,SBUX,2012Q1,2012-04-25,분기말 상장주식수,758500000,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/829224/000119312512204460/,dei:EntityCommonStockSharesOutstanding 클래스 합,6
+Starbucks,SBUX,2012Q1,2012-03-30,분기말 시가총액,42392565000,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/SBUX?interval=1d&events=splits (2012-03-30) ; https://www.sec.gov/Archives/edgar/data/829224/000119312512204460/,종가 55.89 × 주식수 758500000,6
+Starbucks,SBUX,2012Q2,2012-07-01,분기별 매출액,3303600000,USD,공시,https://www.sec.gov/Archives/edgar/data/829224/000144530512002431/,,6
+Starbucks,SBUX,2012Q2,2012-07-01,분기별 영업이익,491600000,USD,공시,https://www.sec.gov/Archives/edgar/data/829224/000144530512002431/,,6
+Starbucks,SBUX,2012Q2,2012-07-01,분기별 당기순이익(지배),333100000,USD,공시,https://www.sec.gov/Archives/edgar/data/829224/000144530512002431/,,6
+Starbucks,SBUX,2012Q2,2012-07-01,분기별 영업활동현금흐름,551300000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/829224/000144530512002431/ ; https://www.sec.gov/Archives/edgar/data/829224/000119312512204460/,누적 1126900000 − 직전누적 575600000 (시작 2011-10-03),6
+Starbucks,SBUX,2012Q2,2012-07-01,분기말 자산총계,8308900000,USD,공시,https://www.sec.gov/Archives/edgar/data/829224/000144530512002431/,,6
+Starbucks,SBUX,2012Q2,2012-07-01,분기말 부채총계,2920900000,USD,공시,https://www.sec.gov/Archives/edgar/data/829224/000144530512002431/,,6
+Starbucks,SBUX,2012Q2,2012-07-01,분기말 총자본(자기자본),5388000000,USD,공시,https://www.sec.gov/Archives/edgar/data/829224/000144530512002431/,,6
+Starbucks,SBUX,2012Q2,2012-07-01,분기말 지배지분 자본,5385000000,USD,공시,https://www.sec.gov/Archives/edgar/data/829224/000144530512002431/,,6
+Starbucks,SBUX,2012Q2,2012-06-29,분기말 종가,53.32,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/SBUX?interval=1d&events=splits (2012-06-29),분할조정 종가 26.66 × 이후 분할계수 2,6
+Starbucks,SBUX,2012Q2,2012-07-25,분기말 상장주식수,760000000,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/829224/000144530512002431/,dei:EntityCommonStockSharesOutstanding 클래스 합,6
+Starbucks,SBUX,2012Q2,2012-06-29,분기말 시가총액,40523200000,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/SBUX?interval=1d&events=splits (2012-06-29) ; https://www.sec.gov/Archives/edgar/data/829224/000144530512002431/,종가 53.32 × 주식수 760000000,6
+Starbucks,SBUX,2012Q3,2012-09-30,분기별 매출액,3341400000,USD,계산(연간-3분기누적)(재작성 반영),https://www.sec.gov/Archives/edgar/data/829224/000082922414000008/ ; https://www.sec.gov/Archives/edgar/data/829224/000144530512002431/,연간 13276800000 − 9개월누적 9935400000 (Revenues) ; 원 공시 3364100000 (https://www.sec.gov/Archives/edgar/data/829224/000082922412000007/ ; https://www.sec.gov/Archives/edgar/data/829224/000144530512002431/),6
+Starbucks,SBUX,2012Q3,2012-09-30,분기별 영업이익,519500000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/829224/000082922412000007/ ; https://www.sec.gov/Archives/edgar/data/829224/000144530512002431/,연간 1997400000 − 9개월누적 1477900000 (OperatingIncomeLoss),6
+Starbucks,SBUX,2012Q3,2012-09-30,분기별 당기순이익(지배),358700000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/829224/000082922412000007/ ; https://www.sec.gov/Archives/edgar/data/829224/000144530512002431/,연간 1383800000 − 9개월누적 1025100000 (NetIncomeLoss),6
+Starbucks,SBUX,2012Q3,2012-09-30,분기별 영업활동현금흐름,623400000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/829224/000082922412000007/ ; https://www.sec.gov/Archives/edgar/data/829224/000144530512002431/,누적 1750300000 − 직전누적 1126900000 (시작 2011-10-03),6
+Starbucks,SBUX,2012Q3,2012-09-30,분기말 자산총계,8219200000,USD,공시,https://www.sec.gov/Archives/edgar/data/829224/000082922412000007/,,6
+Starbucks,SBUX,2012Q3,2012-09-30,분기말 부채총계,3104700000,USD,공시,https://www.sec.gov/Archives/edgar/data/829224/000082922412000007/,,6
+Starbucks,SBUX,2012Q3,2012-09-30,분기말 총자본(자기자본),5114500000,USD,공시,https://www.sec.gov/Archives/edgar/data/829224/000082922412000007/,,6
+Starbucks,SBUX,2012Q3,2012-09-30,분기말 지배지분 자본,5109000000,USD,공시,https://www.sec.gov/Archives/edgar/data/829224/000082922412000007/,,6
+Starbucks,SBUX,2012Q3,2012-09-28,분기말 종가,50.71,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/SBUX?interval=1d&events=splits (2012-09-28),분할조정 종가 25.355 × 이후 분할계수 2,6
+Starbucks,SBUX,2012Q3,2012-11-09,분기말 상장주식수,743600000,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/829224/000082922412000007/,dei:EntityCommonStockSharesOutstanding 클래스 합,6
+Starbucks,SBUX,2012Q3,2012-09-28,분기말 시가총액,37707956000,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/SBUX?interval=1d&events=splits (2012-09-28) ; https://www.sec.gov/Archives/edgar/data/829224/000082922412000007/,종가 50.71 × 주식수 743600000,6
+Starbucks,SBUX,2012Q4,2012-12-30,분기별 매출액,3793200000,USD,공시(재작성 반영),https://www.sec.gov/Archives/edgar/data/829224/000082922414000008/,원 공시 3799600000 (https://www.sec.gov/Archives/edgar/data/829224/000082922413000007/),6
+Starbucks,SBUX,2012Q4,2012-12-30,분기별 영업이익,630600000,USD,공시,https://www.sec.gov/Archives/edgar/data/829224/000082922413000007/,,6
+Starbucks,SBUX,2012Q4,2012-12-30,분기별 당기순이익(지배),432200000,USD,공시,https://www.sec.gov/Archives/edgar/data/829224/000082922413000007/,,6
+Starbucks,SBUX,2012Q4,2012-12-30,분기별 영업활동현금흐름,1067300000,USD,공시,https://www.sec.gov/Archives/edgar/data/829224/000082922413000007/,,6
+Starbucks,SBUX,2012Q4,2012-12-30,분기말 자산총계,8490100000,USD,공시,https://www.sec.gov/Archives/edgar/data/829224/000082922413000007/,,6
+Starbucks,SBUX,2012Q4,2012-12-30,분기말 부채총계,3315100000,USD,공시,https://www.sec.gov/Archives/edgar/data/829224/000082922413000007/,,6
+Starbucks,SBUX,2012Q4,2012-12-30,분기말 총자본(자기자본),5175000000,USD,공시,https://www.sec.gov/Archives/edgar/data/829224/000082922413000007/,,6
+Starbucks,SBUX,2012Q4,2012-12-30,분기말 지배지분 자본,5169300000,USD,공시,https://www.sec.gov/Archives/edgar/data/829224/000082922413000007/,,6
+Starbucks,SBUX,2012Q4,2012-12-28,분기말 종가,52.64,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/SBUX?interval=1d&events=splits (2012-12-28),분할조정 종가 26.32 × 이후 분할계수 2,6
+Starbucks,SBUX,2012Q4,2013-01-23,분기말 상장주식수,749300000,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/829224/000082922413000007/,dei:EntityCommonStockSharesOutstanding 클래스 합,6
+Starbucks,SBUX,2012Q4,2012-12-28,분기말 시가총액,39443152000,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/SBUX?interval=1d&events=splits (2012-12-28) ; https://www.sec.gov/Archives/edgar/data/829224/000082922413000007/,종가 52.64 × 주식수 749300000,6
+Starbucks,SBUX,2013Q1,2013-03-31,분기별 매출액,3549600000,USD,공시(재작성 반영),https://www.sec.gov/Archives/edgar/data/829224/000082922414000008/,원 공시 3555900000 (https://www.sec.gov/Archives/edgar/data/829224/000082922413000024/),6
+Starbucks,SBUX,2013Q1,2013-03-31,분기별 영업이익,544100000,USD,공시,https://www.sec.gov/Archives/edgar/data/829224/000082922413000024/,,6
+Starbucks,SBUX,2013Q1,2013-03-31,분기별 당기순이익(지배),390400000,USD,공시,https://www.sec.gov/Archives/edgar/data/829224/000082922413000024/,,6
+Starbucks,SBUX,2013Q1,2013-03-31,분기별 영업활동현금흐름,305200000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/829224/000082922413000024/ ; https://www.sec.gov/Archives/edgar/data/829224/000082922413000007/,누적 1372500000 − 직전누적 1067300000 (시작 2012-10-01),6
+Starbucks,SBUX,2013Q1,2013-03-31,분기말 자산총계,8502800000,USD,공시,https://www.sec.gov/Archives/edgar/data/829224/000082922413000024/,,6
+Starbucks,SBUX,2013Q1,2013-03-31,분기말 부채총계,3175300000,USD,공시,https://www.sec.gov/Archives/edgar/data/829224/000082922413000024/,,6
+Starbucks,SBUX,2013Q1,2013-03-31,분기말 총자본(자기자본),5327500000,USD,공시,https://www.sec.gov/Archives/edgar/data/829224/000082922413000024/,,6
+Starbucks,SBUX,2013Q1,2013-03-31,분기말 지배지분 자본,5321400000,USD,공시,https://www.sec.gov/Archives/edgar/data/829224/000082922413000024/,,6
+Starbucks,SBUX,2013Q1,2013-03-28,분기말 종가,56.95,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/SBUX?interval=1d&events=splits (2013-03-28),분할조정 종가 28.475 × 이후 분할계수 2,6
+Starbucks,SBUX,2013Q1,2013-04-24,분기말 상장주식수,748700000,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/829224/000082922413000024/,dei:EntityCommonStockSharesOutstanding 클래스 합,6
+Starbucks,SBUX,2013Q1,2013-03-28,분기말 시가총액,42638465000,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/SBUX?interval=1d&events=splits (2013-03-28) ; https://www.sec.gov/Archives/edgar/data/829224/000082922413000024/,종가 56.95 × 주식수 748700000,6
+Starbucks,SBUX,2013Q2,2013-06-30,분기별 매출액,3735300000,USD,공시(재작성 반영),https://www.sec.gov/Archives/edgar/data/829224/000082922414000008/,원 공시 3741700000 (https://www.sec.gov/Archives/edgar/data/829224/000082922413000032/),6
+Starbucks,SBUX,2013Q2,2013-06-30,분기별 영업이익,615200000,USD,공시,https://www.sec.gov/Archives/edgar/data/829224/000082922413000032/,,6
+Starbucks,SBUX,2013Q2,2013-06-30,분기별 당기순이익(지배),417800000,USD,공시,https://www.sec.gov/Archives/edgar/data/829224/000082922413000032/,,6
+Starbucks,SBUX,2013Q2,2013-06-30,분기별 영업활동현금흐름,665300000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/829224/000082922413000032/ ; https://www.sec.gov/Archives/edgar/data/829224/000082922413000024/,누적 2037800000 − 직전누적 1372500000 (시작 2012-10-01),6
+Starbucks,SBUX,2013Q2,2013-06-30,분기말 자산총계,9062400000,USD,공시,https://www.sec.gov/Archives/edgar/data/829224/000082922413000032/,,6
+Starbucks,SBUX,2013Q2,2013-06-30,분기말 부채총계,3314800000,USD,공시,https://www.sec.gov/Archives/edgar/data/829224/000082922413000032/,,6
+Starbucks,SBUX,2013Q2,2013-06-30,분기말 총자본(자기자본),5747600000,USD,공시,https://www.sec.gov/Archives/edgar/data/829224/000082922413000032/,,6
+Starbucks,SBUX,2013Q2,2013-06-30,분기말 지배지분 자본,5741500000,USD,공시,https://www.sec.gov/Archives/edgar/data/829224/000082922413000032/,,6
+Starbucks,SBUX,2013Q2,2013-06-28,분기말 종가,65.51,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/SBUX?interval=1d&events=splits (2013-06-28),분할조정 종가 32.755 × 이후 분할계수 2,6
+Starbucks,SBUX,2013Q2,2013-07-24,분기말 상장주식수,751400000,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/829224/000082922413000032/,dei:EntityCommonStockSharesOutstanding 클래스 합,6
+Starbucks,SBUX,2013Q2,2013-06-28,분기말 시가총액,49224214000,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/SBUX?interval=1d&events=splits (2013-06-28) ; https://www.sec.gov/Archives/edgar/data/829224/000082922413000032/,종가 65.51 × 주식수 751400000,6
+Starbucks,SBUX,2013Q3,2013-09-29,분기별 매출액,3769600000,USD,계산(연간-3분기누적)(재작성 반영),https://www.sec.gov/Archives/edgar/data/829224/000082922414000008/ ; https://www.sec.gov/Archives/edgar/data/829224/000082922413000032/,연간 14866800000 − 9개월누적 11097200000 (Revenues) ; 원 공시 3795000000 (https://www.sec.gov/Archives/edgar/data/829224/000082922413000044/ ; https://www.sec.gov/Archives/edgar/data/829224/000082922413000032/),6
+Starbucks,SBUX,2013Q3,2013-09-29,분기별 영업이익,-2115300000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/829224/000082922413000044/ ; https://www.sec.gov/Archives/edgar/data/829224/000082922413000032/,연간 -325400000 − 9개월누적 1789900000 (OperatingIncomeLoss),6
+Starbucks,SBUX,2013Q3,2013-09-29,분기별 당기순이익(지배),-1232000000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/829224/000082922413000044/ ; https://www.sec.gov/Archives/edgar/data/829224/000082922413000032/,연간 8300000 − 9개월누적 1240300000 (NetIncomeLoss),6
+Starbucks,SBUX,2013Q3,2013-09-29,분기별 영업활동현금흐름,870500000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/829224/000082922413000044/ ; https://www.sec.gov/Archives/edgar/data/829224/000082922413000032/,누적 2908300000 − 직전누적 2037800000 (시작 2012-10-01),6
+Starbucks,SBUX,2013Q3,2013-09-29,분기말 자산총계,11516700000,USD,공시,https://www.sec.gov/Archives/edgar/data/829224/000082922413000044/,,6
+Starbucks,SBUX,2013Q3,2013-09-29,분기말 부채총계,7034400000,USD,공시,https://www.sec.gov/Archives/edgar/data/829224/000082922413000044/,,6
+Starbucks,SBUX,2013Q3,2013-09-29,분기말 총자본(자기자본),4482300000,USD,공시,https://www.sec.gov/Archives/edgar/data/829224/000082922413000044/,,6
+Starbucks,SBUX,2013Q3,2013-09-29,분기말 지배지분 자본,4480200000,USD,공시,https://www.sec.gov/Archives/edgar/data/829224/000082922413000044/,,6
+Starbucks,SBUX,2013Q3,2013-09-27,분기말 종가,77.33,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/SBUX?interval=1d&events=splits (2013-09-27),분할조정 종가 38.665 × 이후 분할계수 2,6
+Starbucks,SBUX,2013Q3,2013-11-08,분기말 상장주식수,753600000,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/829224/000082922413000044/,dei:EntityCommonStockSharesOutstanding 클래스 합,6
+Starbucks,SBUX,2013Q3,2013-09-27,분기말 시가총액,58275888000,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/SBUX?interval=1d&events=splits (2013-09-27) ; https://www.sec.gov/Archives/edgar/data/829224/000082922413000044/,종가 77.33 × 주식수 753600000,6
+Starbucks,SBUX,2013Q4,2013-12-29,분기별 매출액,4239600000,USD,공시,https://www.sec.gov/Archives/edgar/data/829224/000082922414000008/,,6
+Starbucks,SBUX,2013Q4,2013-12-29,분기별 영업이익,813500000,USD,공시,https://www.sec.gov/Archives/edgar/data/829224/000082922414000008/,,6
+Starbucks,SBUX,2013Q4,2013-12-29,분기별 당기순이익(지배),540700000,USD,공시,https://www.sec.gov/Archives/edgar/data/829224/000082922414000008/,,6
+Starbucks,SBUX,2013Q4,2013-12-29,분기별 영업활동현금흐름,-1401900000,USD,공시,https://www.sec.gov/Archives/edgar/data/829224/000082922414000008/,,6
+Starbucks,SBUX,2013Q4,2013-12-29,분기말 자산총계,10255200000,USD,공시,https://www.sec.gov/Archives/edgar/data/829224/000082922414000008/,,6
+Starbucks,SBUX,2013Q4,2013-12-29,분기말 부채총계,5365700000,USD,공시,https://www.sec.gov/Archives/edgar/data/829224/000082922414000008/,,6
+Starbucks,SBUX,2013Q4,2013-12-29,분기말 총자본(자기자본),4889500000,USD,공시,https://www.sec.gov/Archives/edgar/data/829224/000082922414000008/,,6
+Starbucks,SBUX,2013Q4,2013-12-29,분기말 지배지분 자본,4887400000,USD,공시,https://www.sec.gov/Archives/edgar/data/829224/000082922414000008/,,6
+Starbucks,SBUX,2013Q4,2013-12-27,분기말 종가,78.57,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/SBUX?interval=1d&events=splits (2013-12-27),분할조정 종가 39.285 × 이후 분할계수 2,6
+Starbucks,SBUX,2013Q4,2014-01-22,분기말 상장주식수,755900000,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/829224/000082922414000008/,dei:EntityCommonStockSharesOutstanding 클래스 합,6
+Starbucks,SBUX,2013Q4,2013-12-27,분기말 시가총액,59391063000,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/SBUX?interval=1d&events=splits (2013-12-27) ; https://www.sec.gov/Archives/edgar/data/829224/000082922414000008/,종가 78.57 × 주식수 755900000,6
+Starbucks,SBUX,2014Q1,2014-03-30,분기별 매출액,3873800000,USD,공시,https://www.sec.gov/Archives/edgar/data/829224/000082922414000021/,,6
+Starbucks,SBUX,2014Q1,2014-03-30,분기별 영업이익,644100000,USD,공시,https://www.sec.gov/Archives/edgar/data/829224/000082922414000021/,,6
+Starbucks,SBUX,2014Q1,2014-03-30,분기별 당기순이익(지배),427000000,USD,공시,https://www.sec.gov/Archives/edgar/data/829224/000082922414000021/,,6
+Starbucks,SBUX,2014Q1,2014-03-30,분기별 영업활동현금흐름,418400000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/829224/000082922414000021/ ; https://www.sec.gov/Archives/edgar/data/829224/000082922414000008/,누적 -983500000 − 직전누적 -1401900000 (시작 2013-09-30),6
+Starbucks,SBUX,2014Q1,2014-03-30,분기말 자산총계,10097000000,USD,공시,https://www.sec.gov/Archives/edgar/data/829224/000082922414000021/,,6
+Starbucks,SBUX,2014Q1,2014-03-30,분기말 부채총계,5149900000,USD,공시,https://www.sec.gov/Archives/edgar/data/829224/000082922414000021/,,6
+Starbucks,SBUX,2014Q1,2014-03-30,분기말 총자본(자기자본),4947100000,USD,공시,https://www.sec.gov/Archives/edgar/data/829224/000082922414000021/,,6
+Starbucks,SBUX,2014Q1,2014-03-30,분기말 지배지분 자본,4945100000,USD,공시,https://www.sec.gov/Archives/edgar/data/829224/000082922414000021/,,6
+Starbucks,SBUX,2014Q1,2014-03-28,분기말 종가,73.7,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/SBUX?interval=1d&events=splits (2014-03-28),분할조정 종가 36.85 × 이후 분할계수 2,6
+Starbucks,SBUX,2014Q1,2014-04-23,분기말 상장주식수,752800000,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/829224/000082922414000021/,dei:EntityCommonStockSharesOutstanding 클래스 합,6
+Starbucks,SBUX,2014Q1,2014-03-28,분기말 시가총액,55481360000,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/SBUX?interval=1d&events=splits (2014-03-28) ; https://www.sec.gov/Archives/edgar/data/829224/000082922414000021/,종가 73.7 × 주식수 752800000,6
+Starbucks,SBUX,2014Q2,2014-06-29,분기별 매출액,4153700000,USD,공시,https://www.sec.gov/Archives/edgar/data/829224/000082922414000030/,,6
+Starbucks,SBUX,2014Q2,2014-06-29,분기별 영업이익,768500000,USD,공시,https://www.sec.gov/Archives/edgar/data/829224/000082922414000030/,,6
+Starbucks,SBUX,2014Q2,2014-06-29,분기별 당기순이익(지배),512600000,USD,공시,https://www.sec.gov/Archives/edgar/data/829224/000082922414000030/,,6
+Starbucks,SBUX,2014Q2,2014-06-29,분기별 영업활동현금흐름,850100000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/829224/000082922414000030/ ; https://www.sec.gov/Archives/edgar/data/829224/000082922414000021/,누적 -133400000 − 직전누적 -983500000 (시작 2013-09-30),6
+Starbucks,SBUX,2014Q2,2014-06-29,분기말 자산총계,10385300000,USD,공시,https://www.sec.gov/Archives/edgar/data/829224/000082922414000030/,,6
+Starbucks,SBUX,2014Q2,2014-06-29,분기말 부채총계,5314500000,USD,공시,https://www.sec.gov/Archives/edgar/data/829224/000082922414000030/,,6
+Starbucks,SBUX,2014Q2,2014-06-29,분기말 총자본(자기자본),5070800000,USD,공시,https://www.sec.gov/Archives/edgar/data/829224/000082922414000030/,,6
+Starbucks,SBUX,2014Q2,2014-06-29,분기말 지배지분 자본,5068800000,USD,공시,https://www.sec.gov/Archives/edgar/data/829224/000082922414000030/,,6
+Starbucks,SBUX,2014Q2,2014-06-27,분기말 종가,77.94,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/SBUX?interval=1d&events=splits (2014-06-27),분할조정 종가 38.97 × 이후 분할계수 2,6
+Starbucks,SBUX,2014Q2,2014-07-23,분기말 상장주식수,751200000,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/829224/000082922414000030/,dei:EntityCommonStockSharesOutstanding 클래스 합,6
+Starbucks,SBUX,2014Q2,2014-06-27,분기말 시가총액,58548528000,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/SBUX?interval=1d&events=splits (2014-06-27) ; https://www.sec.gov/Archives/edgar/data/829224/000082922414000030/,종가 77.94 × 주식수 751200000,6
+Starbucks,SBUX,2014Q3,2014-09-28,분기별 매출액,4180700000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/829224/000082922414000041/ ; https://www.sec.gov/Archives/edgar/data/829224/000082922414000030/,연간 16447800000 − 9개월누적 12267100000 (SalesRevenueNet),6
+Starbucks,SBUX,2014Q3,2014-09-28,분기별 영업이익,854800000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/829224/000082922414000041/ ; https://www.sec.gov/Archives/edgar/data/829224/000082922414000030/,연간 3081100000 − 9개월누적 2226300000 (OperatingIncomeLoss),6
+Starbucks,SBUX,2014Q3,2014-09-28,분기별 당기순이익(지배),587800000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/829224/000082922414000041/ ; https://www.sec.gov/Archives/edgar/data/829224/000082922414000030/,연간 2068100000 − 9개월누적 1480300000 (NetIncomeLoss),6
+Starbucks,SBUX,2014Q3,2014-09-28,분기별 영업활동현금흐름,741200000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/829224/000082922414000041/ ; https://www.sec.gov/Archives/edgar/data/829224/000082922414000030/,누적 607800000 − 직전누적 -133400000 (시작 2013-09-30),6
+Starbucks,SBUX,2014Q3,2014-09-28,분기말 자산총계,10752900000,USD,공시,https://www.sec.gov/Archives/edgar/data/829224/000082922414000041/,,6
+Starbucks,SBUX,2014Q3,2014-09-28,분기말 부채총계,5479200000,USD,공시,https://www.sec.gov/Archives/edgar/data/829224/000082922414000041/,,6
+Starbucks,SBUX,2014Q3,2014-09-28,분기말 총자본(자기자본),5273700000,USD,공시,https://www.sec.gov/Archives/edgar/data/829224/000082922414000041/,,6
+Starbucks,SBUX,2014Q3,2014-09-28,분기말 지배지분 자본,5272000000,USD,공시,https://www.sec.gov/Archives/edgar/data/829224/000082922414000041/,,6
+Starbucks,SBUX,2014Q3,2014-09-26,분기말 종가,75.17,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/SBUX?interval=1d&events=splits (2014-09-26),분할조정 종가 37.585 × 이후 분할계수 2,6
+Starbucks,SBUX,2014Q3,2014-11-07,분기말 상장주식수,748300000,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/829224/000082922414000041/,dei:EntityCommonStockSharesOutstanding 클래스 합,6
+Starbucks,SBUX,2014Q3,2014-09-26,분기말 시가총액,56249711000,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/SBUX?interval=1d&events=splits (2014-09-26) ; https://www.sec.gov/Archives/edgar/data/829224/000082922414000041/,종가 75.17 × 주식수 748300000,6
+Starbucks,SBUX,2014Q4,2014-12-28,분기별 매출액,4803200000,USD,공시,https://www.sec.gov/Archives/edgar/data/829224/000082922415000006/,,6
+Starbucks,SBUX,2014Q4,2014-12-28,분기별 영업이익,915500000,USD,공시,https://www.sec.gov/Archives/edgar/data/829224/000082922415000006/,,6
+Starbucks,SBUX,2014Q4,2014-12-28,분기별 당기순이익(지배),983100000,USD,공시,https://www.sec.gov/Archives/edgar/data/829224/000082922415000006/,,6
+Starbucks,SBUX,2014Q4,2014-12-28,분기별 영업활동현금흐름,1425200000,USD,공시,https://www.sec.gov/Archives/edgar/data/829224/000082922415000006/,,6
+Starbucks,SBUX,2014Q4,2014-12-28,분기말 자산총계,12351100000,USD,공시,https://www.sec.gov/Archives/edgar/data/829224/000082922415000006/,,6
+Starbucks,SBUX,2014Q4,2014-12-28,분기말 부채총계,6193300000,USD,공시,https://www.sec.gov/Archives/edgar/data/829224/000082922415000006/,,6
+Starbucks,SBUX,2014Q4,2014-12-28,분기말 총자본(자기자본),6157800000,USD,공시,https://www.sec.gov/Archives/edgar/data/829224/000082922415000006/,,6
+Starbucks,SBUX,2014Q4,2014-12-28,분기말 지배지분 자본,5775400000,USD,공시,https://www.sec.gov/Archives/edgar/data/829224/000082922415000006/,,6
+Starbucks,SBUX,2014Q4,2014-12-26,분기말 종가,81.83,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/SBUX?interval=1d&events=splits (2014-12-26),분할조정 종가 40.915 × 이후 분할계수 2,6
+Starbucks,SBUX,2014Q4,2015-01-21,분기말 상장주식수,749800000,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/829224/000082922415000006/,dei:EntityCommonStockSharesOutstanding 클래스 합,6
+Starbucks,SBUX,2014Q4,2014-12-26,분기말 시가총액,61356134000,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/SBUX?interval=1d&events=splits (2014-12-26) ; https://www.sec.gov/Archives/edgar/data/829224/000082922415000006/,종가 81.83 × 주식수 749800000,6
+Starbucks,SBUX,2015Q1,2015-03-29,분기별 매출액,4563500000,USD,공시,https://www.sec.gov/Archives/edgar/data/829224/000082922415000017/,,6
+Starbucks,SBUX,2015Q1,2015-03-29,분기별 영업이익,777500000,USD,공시,https://www.sec.gov/Archives/edgar/data/829224/000082922415000017/,,6
+Starbucks,SBUX,2015Q1,2015-03-29,분기별 당기순이익(지배),494900000,USD,공시,https://www.sec.gov/Archives/edgar/data/829224/000082922415000017/,,6
+Starbucks,SBUX,2015Q1,2015-03-29,분기별 영업활동현금흐름,575700000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/829224/000082922415000017/ ; https://www.sec.gov/Archives/edgar/data/829224/000082922415000006/,누적 2000900000 − 직전누적 1425200000 (시작 2014-09-29),6
+Starbucks,SBUX,2015Q1,2015-03-29,분기말 자산총계,12190700000,USD,공시,https://www.sec.gov/Archives/edgar/data/829224/000082922415000017/,,6
+Starbucks,SBUX,2015Q1,2015-03-29,분기말 부채총계,6180000000,USD,공시,https://www.sec.gov/Archives/edgar/data/829224/000082922415000017/,,6
+Starbucks,SBUX,2015Q1,2015-03-29,분기말 총자본(자기자본),6010700000,USD,공시,https://www.sec.gov/Archives/edgar/data/829224/000082922415000017/,,6
+Starbucks,SBUX,2015Q1,2015-03-29,분기말 지배지분 자본,6008700000,USD,공시,https://www.sec.gov/Archives/edgar/data/829224/000082922415000017/,,6
+Starbucks,SBUX,2015Q1,2015-03-27,분기말 종가,95.07,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/SBUX?interval=1d&events=splits (2015-03-27),분할조정 종가 47.535 × 이후 분할계수 2,6
+Starbucks,SBUX,2015Q1,2015-04-22,분기말 상장주식수,1500500000,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/829224/000082922415000017/,dei:EntityCommonStockSharesOutstanding 클래스 합; 표지 기준일이 분할 후,6
+Starbucks,SBUX,2015Q1,2015-03-27,분기말 시가총액,71326267500,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/SBUX?interval=1d&events=splits (2015-03-27) ; https://www.sec.gov/Archives/edgar/data/829224/000082922415000017/,종가 95.07 × 주식수 1500500000 ÷ 분할비율 2 (분할일 2015-04-09가 거래일 2015-03-27와 표지 기준일 2015-04-22 사이),6
+Starbucks,SBUX,2015Q2,2015-06-28,분기별 매출액,4881200000,USD,공시,https://www.sec.gov/Archives/edgar/data/829224/000082922415000029/,,6
+Starbucks,SBUX,2015Q2,2015-06-28,분기별 영업이익,938600000,USD,공시,https://www.sec.gov/Archives/edgar/data/829224/000082922415000029/,,6
+Starbucks,SBUX,2015Q2,2015-06-28,분기별 당기순이익(지배),626700000,USD,공시,https://www.sec.gov/Archives/edgar/data/829224/000082922415000029/,,6
+Starbucks,SBUX,2015Q2,2015-06-28,분기별 영업활동현금흐름,778300000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/829224/000082922415000029/ ; https://www.sec.gov/Archives/edgar/data/829224/000082922415000017/,누적 2779200000 − 직전누적 2000900000 (시작 2014-09-29),6
+Starbucks,SBUX,2015Q2,2015-06-28,분기말 자산총계,12868800000,USD,공시,https://www.sec.gov/Archives/edgar/data/829224/000082922415000029/,,6
+Starbucks,SBUX,2015Q2,2015-06-28,분기말 부채총계,7010500000,USD,공시,https://www.sec.gov/Archives/edgar/data/829224/000082922415000029/,,6
+Starbucks,SBUX,2015Q2,2015-06-28,분기말 총자본(자기자본),5858300000,USD,공시,https://www.sec.gov/Archives/edgar/data/829224/000082922415000029/,,6
+Starbucks,SBUX,2015Q2,2015-06-28,분기말 지배지분 자본,5856500000,USD,공시,https://www.sec.gov/Archives/edgar/data/829224/000082922415000029/,,6
+Starbucks,SBUX,2015Q2,2015-06-26,분기말 종가,54.62,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/SBUX?interval=1d&events=splits (2015-06-26),,6
+Starbucks,SBUX,2015Q2,2015-07-22,분기말 상장주식수,1484200000,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/829224/000082922415000029/,dei:EntityCommonStockSharesOutstanding 클래스 합,6
+Starbucks,SBUX,2015Q2,2015-06-26,분기말 시가총액,81067004000,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/SBUX?interval=1d&events=splits (2015-06-26) ; https://www.sec.gov/Archives/edgar/data/829224/000082922415000029/,종가 54.62 × 주식수 1484200000,6
+Starbucks,SBUX,2015Q3,2015-09-27,분기별 매출액,4914800000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/829224/000082922415000038/ ; https://www.sec.gov/Archives/edgar/data/829224/000082922415000029/,연간 19162700000 − 9개월누적 14247900000 (SalesRevenueNet),6
+Starbucks,SBUX,2015Q3,2015-09-27,분기별 영업이익,969400000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/829224/000082922415000038/ ; https://www.sec.gov/Archives/edgar/data/829224/000082922415000029/,연간 3601000000 − 9개월누적 2631600000 (OperatingIncomeLoss),6
+Starbucks,SBUX,2015Q3,2015-09-27,분기별 당기순이익(지배),652500000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/829224/000082922415000038/ ; https://www.sec.gov/Archives/edgar/data/829224/000082922415000029/,연간 2757400000 − 9개월누적 2104900000 (NetIncomeLoss),6
+Starbucks,SBUX,2015Q3,2015-09-27,분기별 영업활동현금흐름,969900000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/829224/000082922415000038/ ; https://www.sec.gov/Archives/edgar/data/829224/000082922415000029/,누적 3749100000 − 직전누적 2779200000 (시작 2014-09-29),6
+Starbucks,SBUX,2015Q3,2015-09-27,분기말 자산총계,12416300000,USD,공시(재작성 반영),https://www.sec.gov/Archives/edgar/data/829224/000082922416000083/,원 공시 12446100000 (https://www.sec.gov/Archives/edgar/data/829224/000082922415000038/),6
+Starbucks,SBUX,2015Q3,2015-09-27,분기말 부채총계,6596500000,USD,공시(재작성 반영),https://www.sec.gov/Archives/edgar/data/829224/000082922416000083/,원 공시 6626300000 (https://www.sec.gov/Archives/edgar/data/829224/000082922415000038/),6
+Starbucks,SBUX,2015Q3,2015-09-27,분기말 총자본(자기자본),5819800000,USD,공시,https://www.sec.gov/Archives/edgar/data/829224/000082922415000038/,,6
+Starbucks,SBUX,2015Q3,2015-09-27,분기말 지배지분 자본,5818000000,USD,공시,https://www.sec.gov/Archives/edgar/data/829224/000082922415000038/,,6
+Starbucks,SBUX,2015Q3,2015-09-25,분기말 종가,57.99,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/SBUX?interval=1d&events=splits (2015-09-25),,6
+Starbucks,SBUX,2015Q3,2015-11-06,분기말 상장주식수,1484800000,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/829224/000082922415000038/,dei:EntityCommonStockSharesOutstanding 클래스 합,6
+Starbucks,SBUX,2015Q3,2015-09-25,분기말 시가총액,86103552000,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/SBUX?interval=1d&events=splits (2015-09-25) ; https://www.sec.gov/Archives/edgar/data/829224/000082922415000038/,종가 57.99 × 주식수 1484800000,6
+Starbucks,SBUX,2015Q4,2015-12-27,분기별 매출액,5373500000,USD,공시,https://www.sec.gov/Archives/edgar/data/829224/000082922416000049/,,6
+Starbucks,SBUX,2015Q4,2015-12-27,분기별 영업이익,1058000000,USD,공시,https://www.sec.gov/Archives/edgar/data/829224/000082922416000049/,,6
+Starbucks,SBUX,2015Q4,2015-12-27,분기별 당기순이익(지배),687600000,USD,공시,https://www.sec.gov/Archives/edgar/data/829224/000082922416000049/,,6
+Starbucks,SBUX,2015Q4,2015-12-27,분기별 영업활동현금흐름,1636000000,USD,공시,https://www.sec.gov/Archives/edgar/data/829224/000082922416000049/,,6
+Starbucks,SBUX,2015Q4,2015-12-27,분기말 자산총계,12943500000,USD,공시,https://www.sec.gov/Archives/edgar/data/829224/000082922416000049/,,6
+Starbucks,SBUX,2015Q4,2015-12-27,분기말 부채총계,6960100000,USD,공시,https://www.sec.gov/Archives/edgar/data/829224/000082922416000049/,,6
+Starbucks,SBUX,2015Q4,2015-12-27,분기말 총자본(자기자본),5983400000,USD,공시,https://www.sec.gov/Archives/edgar/data/829224/000082922416000049/,,6
+Starbucks,SBUX,2015Q4,2015-12-27,분기말 지배지분 자본,5981500000,USD,공시,https://www.sec.gov/Archives/edgar/data/829224/000082922416000049/,,6
+Starbucks,SBUX,2015Q4,2015-12-24,분기말 종가,60.32,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/SBUX?interval=1d&events=splits (2015-12-24),,6
+Starbucks,SBUX,2015Q4,2016-01-20,분기말 상장주식수,1478100000,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/829224/000082922416000049/,dei:EntityCommonStockSharesOutstanding 클래스 합,6
+Starbucks,SBUX,2015Q4,2015-12-24,분기말 시가총액,89158992000,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/SBUX?interval=1d&events=splits (2015-12-24) ; https://www.sec.gov/Archives/edgar/data/829224/000082922416000049/,종가 60.32 × 주식수 1478100000,6
+Starbucks,SBUX,2016Q1,2016-03-27,분기별 매출액,4993200000,USD,공시,https://www.sec.gov/Archives/edgar/data/829224/000082922416000062/,,6
+Starbucks,SBUX,2016Q1,2016-03-27,분기별 영업이익,864200000,USD,공시,https://www.sec.gov/Archives/edgar/data/829224/000082922416000062/,,6
+Starbucks,SBUX,2016Q1,2016-03-27,분기별 당기순이익(지배),575100000,USD,공시,https://www.sec.gov/Archives/edgar/data/829224/000082922416000062/,,6
+Starbucks,SBUX,2016Q1,2016-03-27,분기별 영업활동현금흐름,549500000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/829224/000082922416000062/ ; https://www.sec.gov/Archives/edgar/data/829224/000082922416000049/,누적 2185500000 − 직전누적 1636000000 (시작 2015-09-28),6
+Starbucks,SBUX,2016Q1,2016-03-27,분기말 자산총계,12519400000,USD,공시,https://www.sec.gov/Archives/edgar/data/829224/000082922416000062/,,6
+Starbucks,SBUX,2016Q1,2016-03-27,분기말 부채총계,7423000000,USD,공시,https://www.sec.gov/Archives/edgar/data/829224/000082922416000062/,,6
+Starbucks,SBUX,2016Q1,2016-03-27,분기말 총자본(자기자본),5096400000,USD,공시,https://www.sec.gov/Archives/edgar/data/829224/000082922416000062/,,6
+Starbucks,SBUX,2016Q1,2016-03-27,분기말 지배지분 자본,5094600000,USD,공시,https://www.sec.gov/Archives/edgar/data/829224/000082922416000062/,,6
+Starbucks,SBUX,2016Q1,2016-03-24,분기말 종가,58.36,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/SBUX?interval=1d&events=splits (2016-03-24),,6
+Starbucks,SBUX,2016Q1,2016-04-20,분기말 상장주식수,1464900000,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/829224/000082922416000062/,dei:EntityCommonStockSharesOutstanding 클래스 합,6
+Starbucks,SBUX,2016Q1,2016-03-24,분기말 시가총액,85491564000,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/SBUX?interval=1d&events=splits (2016-03-24) ; https://www.sec.gov/Archives/edgar/data/829224/000082922416000062/,종가 58.36 × 주식수 1464900000,6
+Starbucks,SBUX,2016Q2,2016-06-26,분기별 매출액,5238000000,USD,공시,https://www.sec.gov/Archives/edgar/data/829224/000082922416000074/,,6
+Starbucks,SBUX,2016Q2,2016-06-26,분기별 영업이익,1022300000,USD,공시,https://www.sec.gov/Archives/edgar/data/829224/000082922416000074/,,6
+Starbucks,SBUX,2016Q2,2016-06-26,분기별 당기순이익(지배),754100000,USD,공시,https://www.sec.gov/Archives/edgar/data/829224/000082922416000074/,,6
+Starbucks,SBUX,2016Q2,2016-06-26,분기별 영업활동현금흐름,1081400000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/829224/000082922416000074/ ; https://www.sec.gov/Archives/edgar/data/829224/000082922416000062/,누적 3266900000 − 직전누적 2185500000 (시작 2015-09-28),6
+Starbucks,SBUX,2016Q2,2016-06-26,분기말 자산총계,13833200000,USD,공시,https://www.sec.gov/Archives/edgar/data/829224/000082922416000074/,,6
+Starbucks,SBUX,2016Q2,2016-06-26,분기말 부채총계,8109200000,USD,공시,https://www.sec.gov/Archives/edgar/data/829224/000082922416000074/,,6
+Starbucks,SBUX,2016Q2,2016-06-26,분기말 총자본(자기자본),5724000000,USD,공시,https://www.sec.gov/Archives/edgar/data/829224/000082922416000074/,,6
+Starbucks,SBUX,2016Q2,2016-06-26,분기말 지배지분 자본,5721800000,USD,공시,https://www.sec.gov/Archives/edgar/data/829224/000082922416000074/,,6
+Starbucks,SBUX,2016Q2,2016-06-24,분기말 종가,54.68,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/SBUX?interval=1d&events=splits (2016-06-24),,6
+Starbucks,SBUX,2016Q2,2016-07-20,분기말 상장주식수,1466600000,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/829224/000082922416000074/,dei:EntityCommonStockSharesOutstanding 클래스 합,6
+Starbucks,SBUX,2016Q2,2016-06-24,분기말 시가총액,80193688000,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/SBUX?interval=1d&events=splits (2016-06-24) ; https://www.sec.gov/Archives/edgar/data/829224/000082922416000074/,종가 54.68 × 주식수 1466600000,6
+Starbucks,SBUX,2016Q3,2016-10-02,분기별 매출액,5711200000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/829224/000082922416000083/ ; https://www.sec.gov/Archives/edgar/data/829224/000082922416000074/,연간 21315900000 − 9개월누적 15604700000 (SalesRevenueNet),6
+Starbucks,SBUX,2016Q3,2016-10-02,분기별 영업이익,1227400000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/829224/000082922416000083/ ; https://www.sec.gov/Archives/edgar/data/829224/000082922416000074/,연간 4171900000 − 9개월누적 2944500000 (OperatingIncomeLoss),6
+Starbucks,SBUX,2016Q3,2016-10-02,분기별 당기순이익(지배),800900000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/829224/000082922416000083/ ; https://www.sec.gov/Archives/edgar/data/829224/000082922416000074/,연간 2817700000 − 9개월누적 2016800000 (NetIncomeLoss),6
+Starbucks,SBUX,2016Q3,2016-10-02,분기별 영업활동현금흐름,1431000000,USD,계산(누적차감)(재작성 반영),https://www.sec.gov/Archives/edgar/data/829224/000082922418000052/ ; https://www.sec.gov/Archives/edgar/data/829224/000082922416000074/,누적 4697900000 − 직전누적 3266900000 (시작 2015-09-28) ; 원 공시 1308200000 (https://www.sec.gov/Archives/edgar/data/829224/000082922416000083/ ; https://www.sec.gov/Archives/edgar/data/829224/000082922416000074/),6
+Starbucks,SBUX,2016Q3,2016-10-02,분기말 자산총계,14312500000,USD,공시(재작성 반영),https://www.sec.gov/Archives/edgar/data/829224/000082922418000052/,원 공시 14329500000 (https://www.sec.gov/Archives/edgar/data/829224/000082922416000083/),6
+Starbucks,SBUX,2016Q3,2016-10-02,분기말 부채총계,8421800000,USD,공시(재작성 반영),https://www.sec.gov/Archives/edgar/data/829224/000082922417000049/,원 공시 8438800000 (https://www.sec.gov/Archives/edgar/data/829224/000082922416000083/),6
+Starbucks,SBUX,2016Q3,2016-10-02,분기말 총자본(자기자본),5890700000,USD,공시,https://www.sec.gov/Archives/edgar/data/829224/000082922416000083/,,6
+Starbucks,SBUX,2016Q3,2016-10-02,분기말 지배지분 자본,5884000000,USD,공시,https://www.sec.gov/Archives/edgar/data/829224/000082922416000083/,,6
+Starbucks,SBUX,2016Q3,2016-09-30,분기말 종가,54.14,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/SBUX?interval=1d&events=splits (2016-09-30),,6
+Starbucks,SBUX,2016Q3,2016-11-11,분기말 상장주식수,1455400000,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/829224/000082922416000083/,dei:EntityCommonStockSharesOutstanding 클래스 합,6
+Starbucks,SBUX,2016Q3,2016-09-30,분기말 시가총액,78795356000,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/SBUX?interval=1d&events=splits (2016-09-30) ; https://www.sec.gov/Archives/edgar/data/829224/000082922416000083/,종가 54.14 × 주식수 1455400000,6
+Starbucks,SBUX,2016Q4,2017-01-01,분기별 매출액,5732900000,USD,공시,https://www.sec.gov/Archives/edgar/data/829224/000082922417000005/,,6
+Starbucks,SBUX,2016Q4,2017-01-01,분기별 영업이익,1132600000,USD,공시,https://www.sec.gov/Archives/edgar/data/829224/000082922417000005/,,6
+Starbucks,SBUX,2016Q4,2017-01-01,분기별 당기순이익(지배),751800000,USD,공시,https://www.sec.gov/Archives/edgar/data/829224/000082922417000005/,,6
+Starbucks,SBUX,2016Q4,2017-01-01,분기별 영업활동현금흐름,1529800000,USD,공시(재작성 반영),https://www.sec.gov/Archives/edgar/data/829224/000082922418000009/,원 공시 1495700000 (https://www.sec.gov/Archives/edgar/data/829224/000082922417000005/),6
+Starbucks,SBUX,2016Q4,2017-01-01,분기말 자산총계,14017300000,USD,공시,https://www.sec.gov/Archives/edgar/data/829224/000082922417000005/,,6
+Starbucks,SBUX,2016Q4,2017-01-01,분기말 부채총계,8214200000,USD,공시,https://www.sec.gov/Archives/edgar/data/829224/000082922417000005/,,6
+Starbucks,SBUX,2016Q4,2017-01-01,분기말 총자본(자기자본),5803100000,USD,공시,https://www.sec.gov/Archives/edgar/data/829224/000082922417000005/,,6
+Starbucks,SBUX,2016Q4,2017-01-01,분기말 지배지분 자본,5796600000,USD,공시,https://www.sec.gov/Archives/edgar/data/829224/000082922417000005/,,6
+Starbucks,SBUX,2016Q4,2016-12-30,분기말 종가,55.52,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/SBUX?interval=1d&events=splits (2016-12-30),,6
+Starbucks,SBUX,2016Q4,2017-01-25,분기말 상장주식수,1457400000,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/829224/000082922417000005/,dei:EntityCommonStockSharesOutstanding 클래스 합,6
+Starbucks,SBUX,2016Q4,2016-12-30,분기말 시가총액,80914848000,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/SBUX?interval=1d&events=splits (2016-12-30) ; https://www.sec.gov/Archives/edgar/data/829224/000082922417000005/,종가 55.52 × 주식수 1457400000,6
+Starbucks,SBUX,2017Q1,2017-04-02,분기별 매출액,5294000000,USD,공시,https://www.sec.gov/Archives/edgar/data/829224/000082922417000021/,,6
+Starbucks,SBUX,2017Q1,2017-04-02,분기별 영업이익,935400000,USD,공시,https://www.sec.gov/Archives/edgar/data/829224/000082922417000021/,,6
+Starbucks,SBUX,2017Q1,2017-04-02,분기별 당기순이익(지배),652800000,USD,공시,https://www.sec.gov/Archives/edgar/data/829224/000082922417000021/,,6
+Starbucks,SBUX,2017Q1,2017-04-02,분기별 영업활동현금흐름,461900000,USD,계산(누적차감)(재작성 반영),https://www.sec.gov/Archives/edgar/data/829224/000082922418000022/ ; https://www.sec.gov/Archives/edgar/data/829224/000082922418000009/,누적 1991700000 − 직전누적 1529800000 (시작 2016-10-03) ; 원 공시 443300000 (https://www.sec.gov/Archives/edgar/data/829224/000082922417000021/ ; https://www.sec.gov/Archives/edgar/data/829224/000082922417000005/),6
+Starbucks,SBUX,2017Q1,2017-04-02,분기말 자산총계,14227900000,USD,공시,https://www.sec.gov/Archives/edgar/data/829224/000082922417000021/,,6
+Starbucks,SBUX,2017Q1,2017-04-02,분기말 부채총계,8616500000,USD,공시,https://www.sec.gov/Archives/edgar/data/829224/000082922417000021/,,6
+Starbucks,SBUX,2017Q1,2017-04-02,분기말 총자본(자기자본),5611400000,USD,공시,https://www.sec.gov/Archives/edgar/data/829224/000082922417000021/,,6
+Starbucks,SBUX,2017Q1,2017-04-02,분기말 지배지분 자본,5605000000,USD,공시,https://www.sec.gov/Archives/edgar/data/829224/000082922417000021/,,6
+Starbucks,SBUX,2017Q1,2017-03-31,분기말 종가,58.39,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/SBUX?interval=1d&events=splits (2017-03-31),,6
+Starbucks,SBUX,2017Q1,2017-04-26,분기말 상장주식수,1448100000,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/829224/000082922417000021/,dei:EntityCommonStockSharesOutstanding 클래스 합,6
+Starbucks,SBUX,2017Q1,2017-03-31,분기말 시가총액,84554559000,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/SBUX?interval=1d&events=splits (2017-03-31) ; https://www.sec.gov/Archives/edgar/data/829224/000082922417000021/,종가 58.39 × 주식수 1448100000,6
+Starbucks,SBUX,2017Q2,2017-07-02,분기별 매출액,5661500000,USD,공시,https://www.sec.gov/Archives/edgar/data/829224/000082922417000036/,,6
+Starbucks,SBUX,2017Q2,2017-07-02,분기별 영업이익,1044200000,USD,공시,https://www.sec.gov/Archives/edgar/data/829224/000082922417000036/,,6
+Starbucks,SBUX,2017Q2,2017-07-02,분기별 당기순이익(지배),691600000,USD,공시,https://www.sec.gov/Archives/edgar/data/829224/000082922417000036/,,6
+Starbucks,SBUX,2017Q2,2017-07-02,분기별 영업활동현금흐름,1167300000,USD,계산(누적차감)(재작성 반영),https://www.sec.gov/Archives/edgar/data/829224/000082922418000037/ ; https://www.sec.gov/Archives/edgar/data/829224/000082922418000022/,누적 3159000000 − 직전누적 1991700000 (시작 2016-10-03) ; 원 공시 1150600000 (https://www.sec.gov/Archives/edgar/data/829224/000082922417000036/ ; https://www.sec.gov/Archives/edgar/data/829224/000082922417000021/),6
+Starbucks,SBUX,2017Q2,2017-07-02,분기말 자산총계,14522700000,USD,공시,https://www.sec.gov/Archives/edgar/data/829224/000082922417000036/,,6
+Starbucks,SBUX,2017Q2,2017-07-02,분기말 부채총계,8673200000,USD,공시,https://www.sec.gov/Archives/edgar/data/829224/000082922417000036/,,6
+Starbucks,SBUX,2017Q2,2017-07-02,분기말 총자본(자기자본),5849500000,USD,공시,https://www.sec.gov/Archives/edgar/data/829224/000082922417000036/,,6
+Starbucks,SBUX,2017Q2,2017-07-02,분기말 지배지분 자본,5843400000,USD,공시,https://www.sec.gov/Archives/edgar/data/829224/000082922417000036/,,6
+Starbucks,SBUX,2017Q2,2017-06-30,분기말 종가,58.31,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/SBUX?interval=1d&events=splits (2017-06-30),,6
+Starbucks,SBUX,2017Q2,2017-07-27,분기말 상장주식수,1443900000,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/829224/000082922417000036/,dei:EntityCommonStockSharesOutstanding 클래스 합,6
+Starbucks,SBUX,2017Q2,2017-06-30,분기말 시가총액,84193809000,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/SBUX?interval=1d&events=splits (2017-06-30) ; https://www.sec.gov/Archives/edgar/data/829224/000082922417000036/,종가 58.31 × 주식수 1443900000,6
+Starbucks,SBUX,2017Q3,2017-10-01,분기별 매출액,5698300000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/829224/000082922417000049/ ; https://www.sec.gov/Archives/edgar/data/829224/000082922417000036/,연간 22386800000 − 9개월누적 16688500000 (SalesRevenueNet),6
+Starbucks,SBUX,2017Q3,2017-10-01,분기별 영업이익,1022600000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/829224/000082922417000049/ ; https://www.sec.gov/Archives/edgar/data/829224/000082922417000036/,연간 4134700000 − 9개월누적 3112100000 (OperatingIncomeLoss),6
+Starbucks,SBUX,2017Q3,2017-10-01,분기별 당기순이익(지배),788600000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/829224/000082922417000049/ ; https://www.sec.gov/Archives/edgar/data/829224/000082922417000036/,연간 2884700000 − 9개월누적 2096100000 (NetIncomeLoss),6
+Starbucks,SBUX,2017Q3,2017-10-01,분기별 영업활동현금흐름,1092800000,USD,계산(누적차감)(재작성 반영),https://www.sec.gov/Archives/edgar/data/829224/000082922419000051/ ; https://www.sec.gov/Archives/edgar/data/829224/000082922418000037/,누적 4251800000 − 직전누적 3159000000 (시작 2016-10-03) ; 원 공시 1084700000 (https://www.sec.gov/Archives/edgar/data/829224/000082922417000049/ ; https://www.sec.gov/Archives/edgar/data/829224/000082922417000036/),6
+Starbucks,SBUX,2017Q3,2017-10-01,분기말 자산총계,14365600000,USD,공시,https://www.sec.gov/Archives/edgar/data/829224/000082922417000049/,,6
+Starbucks,SBUX,2017Q3,2017-10-01,분기말 부채총계,8908600000,USD,공시,https://www.sec.gov/Archives/edgar/data/829224/000082922417000049/,,6
+Starbucks,SBUX,2017Q3,2017-10-01,분기말 총자본(자기자본),5457000000,USD,공시,https://www.sec.gov/Archives/edgar/data/829224/000082922417000049/,,6
+Starbucks,SBUX,2017Q3,2017-10-01,분기말 지배지분 자본,5450100000,USD,공시,https://www.sec.gov/Archives/edgar/data/829224/000082922417000049/,,6
+Starbucks,SBUX,2017Q3,2017-09-29,분기말 종가,53.71,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/SBUX?interval=1d&events=splits (2017-09-29),,6
+Starbucks,SBUX,2017Q3,2017-11-10,분기말 상장주식수,1422800000,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/829224/000082922417000049/,dei:EntityCommonStockSharesOutstanding 클래스 합,6
+Starbucks,SBUX,2017Q3,2017-09-29,분기말 시가총액,76418588000,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/SBUX?interval=1d&events=splits (2017-09-29) ; https://www.sec.gov/Archives/edgar/data/829224/000082922417000049/,종가 53.71 × 주식수 1422800000,6
+Starbucks,SBUX,2017Q4,2017-12-31,분기별 매출액,6073700000,USD,공시,https://www.sec.gov/Archives/edgar/data/829224/000082922418000009/,,6
+Starbucks,SBUX,2017Q4,2017-12-31,분기별 영업이익,1116100000,USD,공시,https://www.sec.gov/Archives/edgar/data/829224/000082922418000009/,,6
+Starbucks,SBUX,2017Q4,2017-12-31,분기별 당기순이익(지배),2250200000,USD,공시,https://www.sec.gov/Archives/edgar/data/829224/000082922418000009/,,6
+Starbucks,SBUX,2017Q4,2017-12-31,분기별 영업활동현금흐름,1834000000,USD,공시,https://www.sec.gov/Archives/edgar/data/829224/000082922418000009/,,6
+Starbucks,SBUX,2017Q4,2017-12-31,분기말 자산총계,18518500000,USD,공시,https://www.sec.gov/Archives/edgar/data/829224/000082922418000009/,,6
+Starbucks,SBUX,2017Q4,2017-12-31,분기말 부채총계,12759600000,USD,공시,https://www.sec.gov/Archives/edgar/data/829224/000082922418000009/,,6
+Starbucks,SBUX,2017Q4,2017-12-31,분기말 총자본(자기자본),5758900000,USD,공시,https://www.sec.gov/Archives/edgar/data/829224/000082922418000009/,,6
+Starbucks,SBUX,2017Q4,2017-12-31,분기말 지배지분 자본,5752100000,USD,공시,https://www.sec.gov/Archives/edgar/data/829224/000082922418000009/,,6
+Starbucks,SBUX,2017Q4,2017-12-29,분기말 종가,57.43,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/SBUX?interval=1d&events=splits (2017-12-29),,6
+Starbucks,SBUX,2017Q4,2018-01-24,분기말 상장주식수,1405600000,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/829224/000082922418000009/,dei:EntityCommonStockSharesOutstanding 클래스 합,6
+Starbucks,SBUX,2017Q4,2017-12-29,분기말 시가총액,80723608000,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/SBUX?interval=1d&events=splits (2017-12-29) ; https://www.sec.gov/Archives/edgar/data/829224/000082922418000009/,종가 57.43 × 주식수 1405600000,6
+Starbucks,SBUX,2018Q1,2018-04-01,분기별 매출액,6031800000,USD,공시,https://www.sec.gov/Archives/edgar/data/829224/000082922418000022/,,6
+Starbucks,SBUX,2018Q1,2018-04-01,분기별 영업이익,772500000,USD,공시,https://www.sec.gov/Archives/edgar/data/829224/000082922418000022/,,6
+Starbucks,SBUX,2018Q1,2018-04-01,분기별 당기순이익(지배),660100000,USD,공시,https://www.sec.gov/Archives/edgar/data/829224/000082922418000022/,,6
+Starbucks,SBUX,2018Q1,2018-04-01,분기별 영업활동현금흐름,454500000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/829224/000082922418000022/ ; https://www.sec.gov/Archives/edgar/data/829224/000082922418000009/,누적 2288500000 − 직전누적 1834000000 (시작 2017-10-02),6
+Starbucks,SBUX,2018Q1,2018-04-01,분기말 자산총계,17553500000,USD,공시,https://www.sec.gov/Archives/edgar/data/829224/000082922418000022/,,6
+Starbucks,SBUX,2018Q1,2018-04-01,분기말 부채총계,12835800000,USD,공시,https://www.sec.gov/Archives/edgar/data/829224/000082922418000022/,,6
+Starbucks,SBUX,2018Q1,2018-04-01,분기말 총자본(자기자본),4717700000,USD,공시,https://www.sec.gov/Archives/edgar/data/829224/000082922418000022/,,6
+Starbucks,SBUX,2018Q1,2018-04-01,분기말 지배지분 자본,4711200000,USD,공시,https://www.sec.gov/Archives/edgar/data/829224/000082922418000022/,,6
+Starbucks,SBUX,2018Q1,2018-03-29,분기말 종가,57.89,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/SBUX?interval=1d&events=splits (2018-03-29),,6
+Starbucks,SBUX,2018Q1,2018-04-25,분기말 상장주식수,1380000000,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/829224/000082922418000022/,dei:EntityCommonStockSharesOutstanding 클래스 합,6
+Starbucks,SBUX,2018Q1,2018-03-29,분기말 시가총액,79888200000,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/SBUX?interval=1d&events=splits (2018-03-29) ; https://www.sec.gov/Archives/edgar/data/829224/000082922418000022/,종가 57.89 × 주식수 1380000000,6
+Starbucks,SBUX,2018Q2,2018-07-01,분기별 매출액,6310300000,USD,공시,https://www.sec.gov/Archives/edgar/data/829224/000082922418000037/,,6
+Starbucks,SBUX,2018Q2,2018-07-01,분기별 영업이익,1038200000,USD,공시,https://www.sec.gov/Archives/edgar/data/829224/000082922418000037/,,6
+Starbucks,SBUX,2018Q2,2018-07-01,분기별 당기순이익(지배),852500000,USD,공시,https://www.sec.gov/Archives/edgar/data/829224/000082922418000037/,,6
+Starbucks,SBUX,2018Q2,2018-07-01,분기별 영업활동현금흐름,1215900000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/829224/000082922418000037/ ; https://www.sec.gov/Archives/edgar/data/829224/000082922418000022/,누적 3504400000 − 직전누적 2288500000 (시작 2017-10-02),6
+Starbucks,SBUX,2018Q2,2018-07-01,분기말 자산총계,17182100000,USD,공시,https://www.sec.gov/Archives/edgar/data/829224/000082922418000037/,,6
+Starbucks,SBUX,2018Q2,2018-07-01,분기말 부채총계,13185400000,USD,공시,https://www.sec.gov/Archives/edgar/data/829224/000082922418000037/,,6
+Starbucks,SBUX,2018Q2,2018-07-01,분기말 총자본(자기자본),3996700000,USD,공시,https://www.sec.gov/Archives/edgar/data/829224/000082922418000037/,,6
+Starbucks,SBUX,2018Q2,2018-07-01,분기말 지배지분 자본,3990700000,USD,공시,https://www.sec.gov/Archives/edgar/data/829224/000082922418000037/,,6
+Starbucks,SBUX,2018Q2,2018-06-29,분기말 종가,48.85,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/SBUX?interval=1d&events=splits (2018-06-29),,6
+Starbucks,SBUX,2018Q2,2018-07-25,분기말 상장주식수,1349100000,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/829224/000082922418000037/,dei:EntityCommonStockSharesOutstanding 클래스 합,6
+Starbucks,SBUX,2018Q2,2018-06-29,분기말 시가총액,65903535000,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/SBUX?interval=1d&events=splits (2018-06-29) ; https://www.sec.gov/Archives/edgar/data/829224/000082922418000037/,종가 48.85 × 주식수 1349100000,6
+Starbucks,SBUX,2018Q3,2018-09-30,분기별 매출액,6303600000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/829224/000082922418000052/ ; https://www.sec.gov/Archives/edgar/data/829224/000082922418000037/,연간 24719500000 − 9개월누적 18415900000 (Revenues),6
+Starbucks,SBUX,2018Q3,2018-09-30,분기별 영업이익,956400000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/829224/000082922418000052/ ; https://www.sec.gov/Archives/edgar/data/829224/000082922418000037/,연간 3883300000 − 9개월누적 2926900000 (OperatingIncomeLoss),6
+Starbucks,SBUX,2018Q3,2018-09-30,분기별 당기순이익(지배),755500000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/829224/000082922418000052/ ; https://www.sec.gov/Archives/edgar/data/829224/000082922418000037/,연간 4518300000 − 9개월누적 3762800000 (NetIncomeLoss),6
+Starbucks,SBUX,2018Q3,2018-09-30,분기별 영업활동현금흐름,8433400000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/829224/000082922418000052/ ; https://www.sec.gov/Archives/edgar/data/829224/000082922418000037/,누적 11937800000 − 직전누적 3504400000 (시작 2017-10-02),6
+Starbucks,SBUX,2018Q3,2018-09-30,분기말 자산총계,24156400000,USD,공시,https://www.sec.gov/Archives/edgar/data/829224/000082922418000052/,,6
+Starbucks,SBUX,2018Q3,2018-09-30,분기말 부채총계,22980600000,USD,공시,https://www.sec.gov/Archives/edgar/data/829224/000082922418000052/,,6
+Starbucks,SBUX,2018Q3,2018-09-30,분기말 총자본(자기자본),1175800000,USD,공시,https://www.sec.gov/Archives/edgar/data/829224/000082922418000052/,,6
+Starbucks,SBUX,2018Q3,2018-09-30,분기말 지배지분 자본,1169500000,USD,공시,https://www.sec.gov/Archives/edgar/data/829224/000082922418000052/,,6
+Starbucks,SBUX,2018Q3,2018-09-28,분기말 종가,56.84,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/SBUX?interval=1d&events=splits (2018-09-28),,6
+Starbucks,SBUX,2018Q3,2018-11-09,분기말 상장주식수,1240600000,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/829224/000082922418000052/,dei:EntityCommonStockSharesOutstanding 클래스 합,6
+Starbucks,SBUX,2018Q3,2018-09-28,분기말 시가총액,70515704000,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/SBUX?interval=1d&events=splits (2018-09-28) ; https://www.sec.gov/Archives/edgar/data/829224/000082922418000052/,종가 56.84 × 주식수 1240600000,6
+Starbucks,SBUX,2018Q4,2018-12-30,분기별 매출액,6632700000,USD,공시,https://www.sec.gov/Archives/edgar/data/829224/000082922419000011/,,6
+Starbucks,SBUX,2018Q4,2018-12-30,분기별 영업이익,1015700000,USD,공시,https://www.sec.gov/Archives/edgar/data/829224/000082922419000011/,,6
+Starbucks,SBUX,2018Q4,2018-12-30,분기별 당기순이익(지배),760600000,USD,공시,https://www.sec.gov/Archives/edgar/data/829224/000082922419000011/,,6
+Starbucks,SBUX,2018Q4,2018-12-30,분기별 영업활동현금흐름,2379000000,USD,공시,https://www.sec.gov/Archives/edgar/data/829224/000082922419000011/,,6
+Starbucks,SBUX,2018Q4,2018-12-30,분기말 자산총계,19981300000,USD,공시,https://www.sec.gov/Archives/edgar/data/829224/000082922419000011/,,6
+Starbucks,SBUX,2018Q4,2018-12-30,분기말 부채총계,22860100000,USD,공시,https://www.sec.gov/Archives/edgar/data/829224/000082922419000011/,,6
+Starbucks,SBUX,2018Q4,2018-12-30,분기말 총자본(자기자본),-2878800000,USD,공시,https://www.sec.gov/Archives/edgar/data/829224/000082922419000011/,,6
+Starbucks,SBUX,2018Q4,2018-12-30,분기말 지배지분 자본,-2884900000,USD,공시,https://www.sec.gov/Archives/edgar/data/829224/000082922419000011/,,6
+Starbucks,SBUX,2018Q4,2018-12-28,분기말 종가,63.39,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/SBUX?interval=1d&events=splits (2018-12-28),,6
+Starbucks,SBUX,2018Q4,2019-01-23,분기말 상장주식수,1243600000,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/829224/000082922419000011/,dei:EntityCommonStockSharesOutstanding 클래스 합,6
+Starbucks,SBUX,2018Q4,2018-12-28,분기말 시가총액,78831804000,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/SBUX?interval=1d&events=splits (2018-12-28) ; https://www.sec.gov/Archives/edgar/data/829224/000082922419000011/,종가 63.39 × 주식수 1243600000,6
+Starbucks,SBUX,2019Q1,2019-03-31,분기별 매출액,6305900000,USD,공시,https://www.sec.gov/Archives/edgar/data/829224/000082922419000024/,,6
+Starbucks,SBUX,2019Q1,2019-03-31,분기별 영업이익,857700000,USD,공시,https://www.sec.gov/Archives/edgar/data/829224/000082922419000024/,,6
+Starbucks,SBUX,2019Q1,2019-03-31,분기별 당기순이익(지배),663200000,USD,공시,https://www.sec.gov/Archives/edgar/data/829224/000082922419000024/,,6
+Starbucks,SBUX,2019Q1,2019-03-31,분기별 영업활동현금흐름,390400000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/829224/000082922419000024/ ; https://www.sec.gov/Archives/edgar/data/829224/000082922419000011/,누적 2769400000 − 직전누적 2379000000 (시작 2018-10-01),6
+Starbucks,SBUX,2019Q1,2019-03-31,분기말 자산총계,17641900000,USD,공시,https://www.sec.gov/Archives/edgar/data/829224/000082922419000024/,,6
+Starbucks,SBUX,2019Q1,2019-03-31,분기말 부채총계,22677100000,USD,공시,https://www.sec.gov/Archives/edgar/data/829224/000082922419000024/,,6
+Starbucks,SBUX,2019Q1,2019-03-31,분기말 총자본(자기자본),-5035200000,USD,공시,https://www.sec.gov/Archives/edgar/data/829224/000082922419000024/,,6
+Starbucks,SBUX,2019Q1,2019-03-31,분기말 지배지분 자본,-5036900000,USD,공시,https://www.sec.gov/Archives/edgar/data/829224/000082922419000024/,,6
+Starbucks,SBUX,2019Q1,2019-03-29,분기말 종가,74.34,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/SBUX?interval=1d&events=splits (2019-03-29),,6
+Starbucks,SBUX,2019Q1,2019-04-24,분기말 상장주식수,1211200000,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/829224/000082922419000024/,dei:EntityCommonStockSharesOutstanding 클래스 합,6
+Starbucks,SBUX,2019Q1,2019-03-29,분기말 시가총액,90040608000,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/SBUX?interval=1d&events=splits (2019-03-29) ; https://www.sec.gov/Archives/edgar/data/829224/000082922419000024/,종가 74.34 × 주식수 1211200000,6
+Starbucks,SBUX,2019Q2,2019-06-30,분기별 매출액,6823000000,USD,공시,https://www.sec.gov/Archives/edgar/data/829224/000082922419000036/,,6
+Starbucks,SBUX,2019Q2,2019-06-30,분기별 영업이익,1121300000,USD,공시,https://www.sec.gov/Archives/edgar/data/829224/000082922419000036/,,6
+Starbucks,SBUX,2019Q2,2019-06-30,분기별 당기순이익(지배),1372800000,USD,공시,https://www.sec.gov/Archives/edgar/data/829224/000082922419000036/,,6
+Starbucks,SBUX,2019Q2,2019-06-30,분기별 영업활동현금흐름,1169400000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/829224/000082922419000036/ ; https://www.sec.gov/Archives/edgar/data/829224/000082922419000024/,누적 3938800000 − 직전누적 2769400000 (시작 2018-10-01),6
+Starbucks,SBUX,2019Q2,2019-06-30,분기말 자산총계,20894400000,USD,공시,https://www.sec.gov/Archives/edgar/data/829224/000082922419000036/,,6
+Starbucks,SBUX,2019Q2,2019-06-30,분기말 부채총계,25213400000,USD,공시,https://www.sec.gov/Archives/edgar/data/829224/000082922419000036/,,6
+Starbucks,SBUX,2019Q2,2019-06-30,분기말 총자본(자기자본),-4319000000,USD,공시,https://www.sec.gov/Archives/edgar/data/829224/000082922419000036/,,6
+Starbucks,SBUX,2019Q2,2019-06-30,분기말 지배지분 자본,-4320600000,USD,공시,https://www.sec.gov/Archives/edgar/data/829224/000082922419000036/,,6
+Starbucks,SBUX,2019Q2,2019-06-28,분기말 종가,83.83,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/SBUX?interval=1d&events=splits (2019-06-28),,6
+Starbucks,SBUX,2019Q2,2019-07-24,분기말 상장주식수,1197000000,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/829224/000082922419000036/,dei:EntityCommonStockSharesOutstanding 클래스 합,6
+Starbucks,SBUX,2019Q2,2019-06-28,분기말 시가총액,100344510000,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/SBUX?interval=1d&events=splits (2019-06-28) ; https://www.sec.gov/Archives/edgar/data/829224/000082922419000036/,종가 83.83 × 주식수 1197000000,6
+Starbucks,SBUX,2019Q3,2019-09-29,분기별 매출액,6747000000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/829224/000082922419000051/ ; https://www.sec.gov/Archives/edgar/data/829224/000082922419000036/,연간 26508600000 − 9개월누적 19761600000 (Revenues),6
+Starbucks,SBUX,2019Q3,2019-09-29,분기별 영업이익,1083300000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/829224/000082922419000051/ ; https://www.sec.gov/Archives/edgar/data/829224/000082922419000036/,연간 4077900000 − 9개월누적 2994600000 (OperatingIncomeLoss),6
+Starbucks,SBUX,2019Q3,2019-09-29,분기별 당기순이익(지배),802800000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/829224/000082922419000051/ ; https://www.sec.gov/Archives/edgar/data/829224/000082922419000036/,연간 3599200000 − 9개월누적 2796400000 (NetIncomeLoss),6
+Starbucks,SBUX,2019Q3,2019-09-29,분기별 영업활동현금흐름,1108200000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/829224/000082922419000051/ ; https://www.sec.gov/Archives/edgar/data/829224/000082922419000036/,누적 5047000000 − 직전누적 3938800000 (시작 2018-10-01),6
+Starbucks,SBUX,2019Q3,2019-09-29,분기말 자산총계,19219600000,USD,공시,https://www.sec.gov/Archives/edgar/data/829224/000082922419000051/,,6
+Starbucks,SBUX,2019Q3,2019-09-29,분기말 부채총계,25450600000,USD,공시,https://www.sec.gov/Archives/edgar/data/829224/000082922419000051/,,6
+Starbucks,SBUX,2019Q3,2019-09-29,분기말 총자본(자기자본),-6231000000,USD,공시,https://www.sec.gov/Archives/edgar/data/829224/000082922419000051/,,6
+Starbucks,SBUX,2019Q3,2019-09-29,분기말 지배지분 자본,-6232200000,USD,공시,https://www.sec.gov/Archives/edgar/data/829224/000082922419000051/,,6
+Starbucks,SBUX,2019Q3,2019-09-27,분기말 종가,88.37,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/SBUX?interval=1d&events=splits (2019-09-27),,6
+Starbucks,SBUX,2019Q3,2019-11-08,분기말 상장주식수,1181000000,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/829224/000082922419000051/,dei:EntityCommonStockSharesOutstanding 클래스 합,6
+Starbucks,SBUX,2019Q3,2019-09-27,분기말 시가총액,104364970000,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/SBUX?interval=1d&events=splits (2019-09-27) ; https://www.sec.gov/Archives/edgar/data/829224/000082922419000051/,종가 88.37 × 주식수 1181000000,6
+Starbucks,SBUX,2019Q4,2019-12-29,분기별 매출액,7097100000,USD,공시,https://www.sec.gov/Archives/edgar/data/829224/000082922420000012/,,6
+Starbucks,SBUX,2019Q4,2019-12-29,분기별 영업이익,1219800000,USD,공시,https://www.sec.gov/Archives/edgar/data/829224/000082922420000012/,,6
+Starbucks,SBUX,2019Q4,2019-12-29,분기별 당기순이익(지배),885700000,USD,공시,https://www.sec.gov/Archives/edgar/data/829224/000082922420000012/,,6
+Starbucks,SBUX,2019Q4,2019-12-29,분기별 영업활동현금흐름,1836100000,USD,공시,https://www.sec.gov/Archives/edgar/data/829224/000082922420000012/,,6
+Starbucks,SBUX,2019Q4,2019-12-29,분기말 자산총계,27731300000,USD,공시,https://www.sec.gov/Archives/edgar/data/829224/000082922420000012/,,6
+Starbucks,SBUX,2019Q4,2019-12-29,분기말 부채총계,34490400000,USD,공시,https://www.sec.gov/Archives/edgar/data/829224/000082922420000012/,,6
+Starbucks,SBUX,2019Q4,2019-12-29,분기말 총자본(자기자본),-6759100000,USD,공시,https://www.sec.gov/Archives/edgar/data/829224/000082922420000012/,,6
+Starbucks,SBUX,2019Q4,2019-12-29,분기말 지배지분 자본,-6759900000,USD,공시,https://www.sec.gov/Archives/edgar/data/829224/000082922420000012/,,6
+Starbucks,SBUX,2019Q4,2019-12-27,분기말 종가,88.13,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/SBUX?interval=1d&events=splits (2019-12-27),,6
+Starbucks,SBUX,2019Q4,2020-01-22,분기말 상장주식수,1173700000,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/829224/000082922420000012/,dei:EntityCommonStockSharesOutstanding 클래스 합,6
+Starbucks,SBUX,2019Q4,2019-12-27,분기말 시가총액,103438181000,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/SBUX?interval=1d&events=splits (2019-12-27) ; https://www.sec.gov/Archives/edgar/data/829224/000082922420000012/,종가 88.13 × 주식수 1173700000,6
+Starbucks,SBUX,2020Q1,2020-03-29,분기별 매출액,5995700000,USD,공시,https://www.sec.gov/Archives/edgar/data/829224/000082922420000045/,,6
+Starbucks,SBUX,2020Q1,2020-03-29,분기별 영업이익,487400000,USD,공시,https://www.sec.gov/Archives/edgar/data/829224/000082922420000045/,,6
+Starbucks,SBUX,2020Q1,2020-03-29,분기별 당기순이익(지배),328400000,USD,공시,https://www.sec.gov/Archives/edgar/data/829224/000082922420000045/,,6
+Starbucks,SBUX,2020Q1,2020-03-29,분기별 영업활동현금흐름,-1361300000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/829224/000082922420000045/ ; https://www.sec.gov/Archives/edgar/data/829224/000082922420000012/,누적 474800000 − 직전누적 1836100000 (시작 2019-09-30),6
+Starbucks,SBUX,2020Q1,2020-03-29,분기말 자산총계,27478900000,USD,공시,https://www.sec.gov/Archives/edgar/data/829224/000082922420000045/,,6
+Starbucks,SBUX,2020Q1,2020-03-29,분기말 부채총계,35011800000,USD,공시,https://www.sec.gov/Archives/edgar/data/829224/000082922420000045/,,6
+Starbucks,SBUX,2020Q1,2020-03-29,분기말 총자본(자기자본),-7532900000,USD,공시,https://www.sec.gov/Archives/edgar/data/829224/000082922420000045/,,6
+Starbucks,SBUX,2020Q1,2020-03-29,분기말 지배지분 자본,-7530100000,USD,공시,https://www.sec.gov/Archives/edgar/data/829224/000082922420000045/,,6
+Starbucks,SBUX,2020Q1,2020-03-27,분기말 종가,66.34,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/SBUX?interval=1d&events=splits (2020-03-27),,6
+Starbucks,SBUX,2020Q1,2020-04-22,분기말 상장주식수,1168300000,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/829224/000082922420000045/,dei:EntityCommonStockSharesOutstanding 클래스 합,6
+Starbucks,SBUX,2020Q1,2020-03-27,분기말 시가총액,77505022000,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/SBUX?interval=1d&events=splits (2020-03-27) ; https://www.sec.gov/Archives/edgar/data/829224/000082922420000045/,종가 66.34 × 주식수 1168300000,6
+Starbucks,SBUX,2020Q2,2020-06-28,분기별 매출액,4222100000,USD,공시,https://www.sec.gov/Archives/edgar/data/829224/000082922420000066/,,6
+Starbucks,SBUX,2020Q2,2020-06-28,분기별 영업이익,-703900000,USD,공시,https://www.sec.gov/Archives/edgar/data/829224/000082922420000066/,,6
+Starbucks,SBUX,2020Q2,2020-06-28,분기별 당기순이익(지배),-678400000,USD,공시,https://www.sec.gov/Archives/edgar/data/829224/000082922420000066/,,6
+Starbucks,SBUX,2020Q2,2020-06-28,분기별 영업활동현금흐름,-367700000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/829224/000082922420000066/ ; https://www.sec.gov/Archives/edgar/data/829224/000082922420000045/,누적 107100000 − 직전누적 474800000 (시작 2019-09-30),6
+Starbucks,SBUX,2020Q2,2020-06-28,분기말 자산총계,29140600000,USD,공시,https://www.sec.gov/Archives/edgar/data/829224/000082922420000066/,,6
+Starbucks,SBUX,2020Q2,2020-06-28,분기말 부채총계,37764900000,USD,공시,https://www.sec.gov/Archives/edgar/data/829224/000082922420000066/,,6
+Starbucks,SBUX,2020Q2,2020-06-28,분기말 총자본(자기자본),-8624300000,USD,공시,https://www.sec.gov/Archives/edgar/data/829224/000082922420000066/,,6
+Starbucks,SBUX,2020Q2,2020-06-28,분기말 지배지분 자본,-8621600000,USD,공시,https://www.sec.gov/Archives/edgar/data/829224/000082922420000066/,,6
+Starbucks,SBUX,2020Q2,2020-06-26,분기말 종가,71.57,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/SBUX?interval=1d&events=splits (2020-06-26),,6
+Starbucks,SBUX,2020Q2,2020-07-22,분기말 상장주식수,1169000000,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/829224/000082922420000066/,dei:EntityCommonStockSharesOutstanding 클래스 합,6
+Starbucks,SBUX,2020Q2,2020-06-26,분기말 시가총액,83665330000,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/SBUX?interval=1d&events=splits (2020-06-26) ; https://www.sec.gov/Archives/edgar/data/829224/000082922420000066/,종가 71.57 × 주식수 1169000000,6
+Starbucks,SBUX,2020Q3,2020-09-27,분기별 매출액,6203100000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/829224/000082922420000078/ ; https://www.sec.gov/Archives/edgar/data/829224/000082922420000066/,연간 23518000000 − 9개월누적 17314900000 (Revenues),6
+Starbucks,SBUX,2020Q3,2020-09-27,분기별 영업이익,558300000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/829224/000082922420000078/ ; https://www.sec.gov/Archives/edgar/data/829224/000082922420000066/,연간 1561700000 − 9개월누적 1003400000 (OperatingIncomeLoss),6
+Starbucks,SBUX,2020Q3,2020-09-27,분기별 당기순이익(지배),392600000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/829224/000082922420000078/ ; https://www.sec.gov/Archives/edgar/data/829224/000082922420000066/,연간 928300000 − 9개월누적 535700000 (NetIncomeLoss),6
+Starbucks,SBUX,2020Q3,2020-09-27,분기별 영업활동현금흐름,1490700000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/829224/000082922420000078/ ; https://www.sec.gov/Archives/edgar/data/829224/000082922420000066/,누적 1597800000 − 직전누적 107100000 (시작 2019-09-30),6
+Starbucks,SBUX,2020Q3,2020-09-27,분기말 자산총계,29374500000,USD,공시,https://www.sec.gov/Archives/edgar/data/829224/000082922420000078/,,6
+Starbucks,SBUX,2020Q3,2020-09-27,분기말 부채총계,37173900000,USD,공시,https://www.sec.gov/Archives/edgar/data/829224/000082922420000078/,,6
+Starbucks,SBUX,2020Q3,2020-09-27,분기말 총자본(자기자본),-7799400000,USD,공시,https://www.sec.gov/Archives/edgar/data/829224/000082922420000078/,,6
+Starbucks,SBUX,2020Q3,2020-09-27,분기말 지배지분 자본,-7805100000,USD,공시,https://www.sec.gov/Archives/edgar/data/829224/000082922420000078/,,6
+Starbucks,SBUX,2020Q3,2020-09-25,분기말 종가,84.3,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/SBUX?interval=1d&events=splits (2020-09-25),,6
+Starbucks,SBUX,2020Q3,2020-11-06,분기말 상장주식수,1173700000,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/829224/000082922420000078/,dei:EntityCommonStockSharesOutstanding 클래스 합,6
+Starbucks,SBUX,2020Q3,2020-09-25,분기말 시가총액,98942910000,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/SBUX?interval=1d&events=splits (2020-09-25) ; https://www.sec.gov/Archives/edgar/data/829224/000082922420000078/,종가 84.3 × 주식수 1173700000,6
+Starbucks,SBUX,2020Q4,2020-12-27,분기별 매출액,6749400000,USD,공시,https://www.sec.gov/Archives/edgar/data/829224/000082922421000029/,,6
+Starbucks,SBUX,2020Q4,2020-12-27,분기별 영업이익,913500000,USD,공시,https://www.sec.gov/Archives/edgar/data/829224/000082922421000029/,,6
+Starbucks,SBUX,2020Q4,2020-12-27,분기별 당기순이익(지배),622200000,USD,공시,https://www.sec.gov/Archives/edgar/data/829224/000082922421000029/,,6
+Starbucks,SBUX,2020Q4,2020-12-27,분기별 영업활동현금흐름,1835700000,USD,공시,https://www.sec.gov/Archives/edgar/data/829224/000082922421000029/,,6
+Starbucks,SBUX,2020Q4,2020-12-27,분기말 자산총계,29968400000,USD,공시,https://www.sec.gov/Archives/edgar/data/829224/000082922421000029/,,6
+Starbucks,SBUX,2020Q4,2020-12-27,분기말 부채총계,37872400000,USD,공시,https://www.sec.gov/Archives/edgar/data/829224/000082922421000029/,,6
+Starbucks,SBUX,2020Q4,2020-12-27,분기말 총자본(자기자본),-7904000000,USD,공시,https://www.sec.gov/Archives/edgar/data/829224/000082922421000029/,,6
+Starbucks,SBUX,2020Q4,2020-12-27,분기말 지배지분 자본,-7909700000,USD,공시,https://www.sec.gov/Archives/edgar/data/829224/000082922421000029/,,6
+Starbucks,SBUX,2020Q4,2020-12-24,분기말 종가,102.01,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/SBUX?interval=1d&events=splits (2020-12-24),,6
+Starbucks,SBUX,2020Q4,2021-01-20,분기말 상장주식수,1177300000,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/829224/000082922421000029/,dei:EntityCommonStockSharesOutstanding 클래스 합,6
+Starbucks,SBUX,2020Q4,2020-12-24,분기말 시가총액,120096373000,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/SBUX?interval=1d&events=splits (2020-12-24) ; https://www.sec.gov/Archives/edgar/data/829224/000082922421000029/,종가 102.01 × 주식수 1177300000,6
+Starbucks,SBUX,2021Q1,2021-03-28,분기별 매출액,6668000000,USD,공시,https://www.sec.gov/Archives/edgar/data/829224/000082922421000053/,,6
+Starbucks,SBUX,2021Q1,2021-03-28,분기별 영업이익,987600000,USD,공시,https://www.sec.gov/Archives/edgar/data/829224/000082922421000053/,,6
+Starbucks,SBUX,2021Q1,2021-03-28,분기별 당기순이익(지배),659400000,USD,공시,https://www.sec.gov/Archives/edgar/data/829224/000082922421000053/,,6
+Starbucks,SBUX,2021Q1,2021-03-28,분기별 영업활동현금흐름,883800000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/829224/000082922421000053/ ; https://www.sec.gov/Archives/edgar/data/829224/000082922421000029/,누적 2719500000 − 직전누적 1835700000 (시작 2020-09-28),6
+Starbucks,SBUX,2021Q1,2021-03-28,분기말 자산총계,28371700000,USD,공시,https://www.sec.gov/Archives/edgar/data/829224/000082922421000053/,,6
+Starbucks,SBUX,2021Q1,2021-03-28,분기말 부채총계,36020000000,USD,공시,https://www.sec.gov/Archives/edgar/data/829224/000082922421000053/,,6
+Starbucks,SBUX,2021Q1,2021-03-28,분기말 총자본(자기자본),-7648300000,USD,공시,https://www.sec.gov/Archives/edgar/data/829224/000082922421000053/,,6
+Starbucks,SBUX,2021Q1,2021-03-28,분기말 지배지분 자본,-7654000000,USD,공시,https://www.sec.gov/Archives/edgar/data/829224/000082922421000053/,,6
+Starbucks,SBUX,2021Q1,2021-03-26,분기말 종가,109.9,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/SBUX?interval=1d&events=splits (2021-03-26),,6
+Starbucks,SBUX,2021Q1,2021-04-21,분기말 상장주식수,1178300000,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/829224/000082922421000053/,dei:EntityCommonStockSharesOutstanding 클래스 합,6
+Starbucks,SBUX,2021Q1,2021-03-26,분기말 시가총액,129495170000,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/SBUX?interval=1d&events=splits (2021-03-26) ; https://www.sec.gov/Archives/edgar/data/829224/000082922421000053/,종가 109.9 × 주식수 1178300000,6
+Starbucks,SBUX,2021Q2,2021-06-27,분기별 매출액,7496500000,USD,공시,https://www.sec.gov/Archives/edgar/data/829224/000082922421000075/,,6
+Starbucks,SBUX,2021Q2,2021-06-27,분기별 영업이익,1488700000,USD,공시,https://www.sec.gov/Archives/edgar/data/829224/000082922421000075/,,6
+Starbucks,SBUX,2021Q2,2021-06-27,분기별 당기순이익(지배),1153400000,USD,공시,https://www.sec.gov/Archives/edgar/data/829224/000082922421000075/,,6
+Starbucks,SBUX,2021Q2,2021-06-27,분기별 영업활동현금흐름,1748900000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/829224/000082922421000075/ ; https://www.sec.gov/Archives/edgar/data/829224/000082922421000053/,누적 4468400000 − 직전누적 2719500000 (시작 2020-09-28),6
+Starbucks,SBUX,2021Q2,2021-06-27,분기말 자산총계,29476800000,USD,공시,https://www.sec.gov/Archives/edgar/data/829224/000082922421000075/,,6
+Starbucks,SBUX,2021Q2,2021-06-27,분기말 부채총계,36271100000,USD,공시,https://www.sec.gov/Archives/edgar/data/829224/000082922421000075/,,6
+Starbucks,SBUX,2021Q2,2021-06-27,분기말 총자본(자기자본),-6794300000,USD,공시,https://www.sec.gov/Archives/edgar/data/829224/000082922421000075/,,6
+Starbucks,SBUX,2021Q2,2021-06-27,분기말 지배지분 자본,-6800800000,USD,공시,https://www.sec.gov/Archives/edgar/data/829224/000082922421000075/,,6
+Starbucks,SBUX,2021Q2,2021-06-25,분기말 종가,113.04,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/SBUX?interval=1d&events=splits (2021-06-25),,6
+Starbucks,SBUX,2021Q2,2021-07-21,분기말 상장주식수,1179100000,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/829224/000082922421000075/,dei:EntityCommonStockSharesOutstanding 클래스 합,6
+Starbucks,SBUX,2021Q2,2021-06-25,분기말 시가총액,133285464000,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/SBUX?interval=1d&events=splits (2021-06-25) ; https://www.sec.gov/Archives/edgar/data/829224/000082922421000075/,종가 113.04 × 주식수 1179100000,6
+Starbucks,SBUX,2021Q3,2021-10-03,분기별 매출액,8146700000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/829224/000082922421000086/ ; https://www.sec.gov/Archives/edgar/data/829224/000082922421000075/,연간 29060600000 − 9개월누적 20913900000 (Revenues),6
+Starbucks,SBUX,2021Q3,2021-10-03,분기별 영업이익,1482200000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/829224/000082922421000086/ ; https://www.sec.gov/Archives/edgar/data/829224/000082922421000075/,연간 4872100000 − 9개월누적 3389900000 (OperatingIncomeLoss),6
+Starbucks,SBUX,2021Q3,2021-10-03,분기별 당기순이익(지배),1764400000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/829224/000082922421000086/ ; https://www.sec.gov/Archives/edgar/data/829224/000082922421000075/,연간 4199300000 − 9개월누적 2434900000 (NetIncomeLoss),6
+Starbucks,SBUX,2021Q3,2021-10-03,분기별 영업활동현금흐름,1520700000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/829224/000082922421000086/ ; https://www.sec.gov/Archives/edgar/data/829224/000082922421000075/,누적 5989100000 − 직전누적 4468400000 (시작 2020-09-28),6
+Starbucks,SBUX,2021Q3,2021-10-03,분기말 자산총계,31392600000,USD,공시,https://www.sec.gov/Archives/edgar/data/829224/000082922421000086/,,6
+Starbucks,SBUX,2021Q3,2021-10-03,분기말 부채총계,36707100000,USD,공시,https://www.sec.gov/Archives/edgar/data/829224/000082922421000086/,,6
+Starbucks,SBUX,2021Q3,2021-10-03,분기말 총자본(자기자본),-5314500000,USD,공시,https://www.sec.gov/Archives/edgar/data/829224/000082922421000086/,,6
+Starbucks,SBUX,2021Q3,2021-10-03,분기말 지배지분 자본,-5321200000,USD,공시,https://www.sec.gov/Archives/edgar/data/829224/000082922421000086/,,6
+Starbucks,SBUX,2021Q3,2021-10-01,분기말 종가,112.92,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/SBUX?interval=1d&events=splits (2021-10-01),,6
+Starbucks,SBUX,2021Q3,2021-11-12,분기말 상장주식수,1173200000,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/829224/000082922421000086/,dei:EntityCommonStockSharesOutstanding 클래스 합,6
+Starbucks,SBUX,2021Q3,2021-10-01,분기말 시가총액,132477744000,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/SBUX?interval=1d&events=splits (2021-10-01) ; https://www.sec.gov/Archives/edgar/data/829224/000082922421000086/,종가 112.92 × 주식수 1173200000,6
+Starbucks,SBUX,2021Q4,2022-01-02,분기별 매출액,8050400000,USD,공시,https://www.sec.gov/Archives/edgar/data/829224/000082922422000012/,,6
+Starbucks,SBUX,2021Q4,2022-01-02,분기별 영업이익,1177800000,USD,공시,https://www.sec.gov/Archives/edgar/data/829224/000082922422000012/,,6
+Starbucks,SBUX,2021Q4,2022-01-02,분기별 당기순이익(지배),815900000,USD,공시,https://www.sec.gov/Archives/edgar/data/829224/000082922422000012/,,6
+Starbucks,SBUX,2021Q4,2022-01-02,분기별 영업활동현금흐름,1870900000,USD,공시,https://www.sec.gov/Archives/edgar/data/829224/000082922422000012/,,6
+Starbucks,SBUX,2021Q4,2022-01-02,분기말 자산총계,28833900000,USD,공시,https://www.sec.gov/Archives/edgar/data/829224/000082922422000012/,,6
+Starbucks,SBUX,2021Q4,2022-01-02,분기말 부채총계,37284200000,USD,공시,https://www.sec.gov/Archives/edgar/data/829224/000082922422000012/,,6
+Starbucks,SBUX,2021Q4,2022-01-02,분기말 총자본(자기자본),-8450300000,USD,공시,https://www.sec.gov/Archives/edgar/data/829224/000082922422000012/,,6
+Starbucks,SBUX,2021Q4,2022-01-02,분기말 지배지분 자본,-8457200000,USD,공시,https://www.sec.gov/Archives/edgar/data/829224/000082922422000012/,,6
+Starbucks,SBUX,2021Q4,2021-12-31,분기말 종가,116.97,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/SBUX?interval=1d&events=splits (2021-12-31),,6
+Starbucks,SBUX,2021Q4,2022-01-26,분기말 상장주식수,1150300000,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/829224/000082922422000012/,dei:EntityCommonStockSharesOutstanding 클래스 합,6
+Starbucks,SBUX,2021Q4,2021-12-31,분기말 시가총액,134550591000,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/SBUX?interval=1d&events=splits (2021-12-31) ; https://www.sec.gov/Archives/edgar/data/829224/000082922422000012/,종가 116.97 × 주식수 1150300000,6
+Starbucks,SBUX,2022Q1,2022-04-03,분기별 매출액,7635600000,USD,공시,https://www.sec.gov/Archives/edgar/data/829224/000082922422000030/,,6
+Starbucks,SBUX,2022Q1,2022-04-03,분기별 영업이익,948900000,USD,공시,https://www.sec.gov/Archives/edgar/data/829224/000082922422000030/,,6
+Starbucks,SBUX,2022Q1,2022-04-03,분기별 당기순이익(지배),674500000,USD,공시,https://www.sec.gov/Archives/edgar/data/829224/000082922422000030/,,6
+Starbucks,SBUX,2022Q1,2022-04-03,분기별 영업활동현금흐름,161900000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/829224/000082922422000030/ ; https://www.sec.gov/Archives/edgar/data/829224/000082922422000012/,누적 2032800000 − 직전누적 1870900000 (시작 2021-10-04),6
+Starbucks,SBUX,2022Q1,2022-04-03,분기말 자산총계,29021500000,USD,공시,https://www.sec.gov/Archives/edgar/data/829224/000082922422000030/,,6
+Starbucks,SBUX,2022Q1,2022-04-03,분기말 부채총계,37782700000,USD,공시,https://www.sec.gov/Archives/edgar/data/829224/000082922422000030/,,6
+Starbucks,SBUX,2022Q1,2022-04-03,분기말 총자본(자기자본),-8761200000,USD,공시,https://www.sec.gov/Archives/edgar/data/829224/000082922422000030/,,6
+Starbucks,SBUX,2022Q1,2022-04-03,분기말 지배지분 자본,-8768000000,USD,공시,https://www.sec.gov/Archives/edgar/data/829224/000082922422000030/,,6
+Starbucks,SBUX,2022Q1,2022-04-01,분기말 종가,91.49,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/SBUX?interval=1d&events=splits (2022-04-01),,6
+Starbucks,SBUX,2022Q1,2022-04-27,분기말 상장주식수,1146900000,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/829224/000082922422000030/,dei:EntityCommonStockSharesOutstanding 클래스 합,6
+Starbucks,SBUX,2022Q1,2022-04-01,분기말 시가총액,104929881000,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/SBUX?interval=1d&events=splits (2022-04-01) ; https://www.sec.gov/Archives/edgar/data/829224/000082922422000030/,종가 91.49 × 주식수 1146900000,6
+Starbucks,SBUX,2022Q2,2022-07-03,분기별 매출액,8150100000,USD,공시,https://www.sec.gov/Archives/edgar/data/829224/000082922422000039/,,6
+Starbucks,SBUX,2022Q2,2022-07-03,분기별 영업이익,1295500000,USD,공시,https://www.sec.gov/Archives/edgar/data/829224/000082922422000039/,,6
+Starbucks,SBUX,2022Q2,2022-07-03,분기별 당기순이익(지배),912900000,USD,공시,https://www.sec.gov/Archives/edgar/data/829224/000082922422000039/,,6
+Starbucks,SBUX,2022Q2,2022-07-03,분기별 영업활동현금흐름,1264800000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/829224/000082922422000039/ ; https://www.sec.gov/Archives/edgar/data/829224/000082922422000030/,누적 3297600000 − 직전누적 2032800000 (시작 2021-10-04),6
+Starbucks,SBUX,2022Q2,2022-07-03,분기말 자산총계,28156200000,USD,공시,https://www.sec.gov/Archives/edgar/data/829224/000082922422000039/,,6
+Starbucks,SBUX,2022Q2,2022-07-03,분기말 부채총계,36815100000,USD,공시,https://www.sec.gov/Archives/edgar/data/829224/000082922422000039/,,6
+Starbucks,SBUX,2022Q2,2022-07-03,분기말 총자본(자기자본),-8658900000,USD,공시,https://www.sec.gov/Archives/edgar/data/829224/000082922422000039/,,6
+Starbucks,SBUX,2022Q2,2022-07-03,분기말 지배지분 자본,-8666500000,USD,공시,https://www.sec.gov/Archives/edgar/data/829224/000082922422000039/,,6
+Starbucks,SBUX,2022Q2,2022-07-01,분기말 종가,79.26,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/SBUX?interval=1d&events=splits (2022-07-01),,6
+Starbucks,SBUX,2022Q2,2022-07-27,분기말 상장주식수,1147400000,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/829224/000082922422000039/,dei:EntityCommonStockSharesOutstanding 클래스 합,6
+Starbucks,SBUX,2022Q2,2022-07-01,분기말 시가총액,90942924000,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/SBUX?interval=1d&events=splits (2022-07-01) ; https://www.sec.gov/Archives/edgar/data/829224/000082922422000039/,종가 79.26 × 주식수 1147400000,6
+Starbucks,SBUX,2022Q3,2022-10-02,분기별 매출액,8414200000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/829224/000082922422000058/ ; https://www.sec.gov/Archives/edgar/data/829224/000082922422000039/,연간 32250300000 − 9개월누적 23836100000 (Revenues),6
+Starbucks,SBUX,2022Q3,2022-10-02,분기별 영업이익,1195500000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/829224/000082922422000058/ ; https://www.sec.gov/Archives/edgar/data/829224/000082922422000039/,연간 4617800000 − 9개월누적 3422300000 (OperatingIncomeLoss),6
+Starbucks,SBUX,2022Q3,2022-10-02,분기별 당기순이익(지배),878300000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/829224/000082922422000058/ ; https://www.sec.gov/Archives/edgar/data/829224/000082922422000039/,연간 3281600000 − 9개월누적 2403300000 (NetIncomeLoss),6
+Starbucks,SBUX,2022Q3,2022-10-02,분기별 영업활동현금흐름,1099700000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/829224/000082922422000058/ ; https://www.sec.gov/Archives/edgar/data/829224/000082922422000039/,누적 4397300000 − 직전누적 3297600000 (시작 2021-10-04),6
+Starbucks,SBUX,2022Q3,2022-10-02,분기말 자산총계,27978400000,USD,공시,https://www.sec.gov/Archives/edgar/data/829224/000082922422000058/,,6
+Starbucks,SBUX,2022Q3,2022-10-02,분기말 부채총계,36677100000,USD,공시,https://www.sec.gov/Archives/edgar/data/829224/000082922422000058/,,6
+Starbucks,SBUX,2022Q3,2022-10-02,분기말 총자본(자기자본),-8698700000,USD,공시,https://www.sec.gov/Archives/edgar/data/829224/000082922422000058/,,6
+Starbucks,SBUX,2022Q3,2022-10-02,분기말 지배지분 자본,-8706600000,USD,공시,https://www.sec.gov/Archives/edgar/data/829224/000082922422000058/,,6
+Starbucks,SBUX,2022Q3,2022-09-30,분기말 종가,84.26,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/SBUX?interval=1d&events=splits (2022-09-30),,6
+Starbucks,SBUX,2022Q3,2022-11-11,분기말 상장주식수,1147800000,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/829224/000082922422000058/,dei:EntityCommonStockSharesOutstanding 클래스 합,6
+Starbucks,SBUX,2022Q3,2022-09-30,분기말 시가총액,96713628000,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/SBUX?interval=1d&events=splits (2022-09-30) ; https://www.sec.gov/Archives/edgar/data/829224/000082922422000058/,종가 84.26 × 주식수 1147800000,6
+Starbucks,SBUX,2022Q4,2023-01-01,분기별 매출액,8713900000,USD,공시,https://www.sec.gov/Archives/edgar/data/829224/000082922423000017/,,6
+Starbucks,SBUX,2022Q4,2023-01-01,분기별 영업이익,1253100000,USD,공시,https://www.sec.gov/Archives/edgar/data/829224/000082922423000017/,,6
+Starbucks,SBUX,2022Q4,2023-01-01,분기별 당기순이익(지배),855200000,USD,공시,https://www.sec.gov/Archives/edgar/data/829224/000082922423000017/,,6
+Starbucks,SBUX,2022Q4,2023-01-01,분기별 영업활동현금흐름,1593200000,USD,공시,https://www.sec.gov/Archives/edgar/data/829224/000082922423000017/,,6
+Starbucks,SBUX,2022Q4,2023-01-01,분기말 자산총계,28256100000,USD,공시,https://www.sec.gov/Archives/edgar/data/829224/000082922423000017/,,6
+Starbucks,SBUX,2022Q4,2023-01-01,분기말 부채총계,36922000000,USD,공시,https://www.sec.gov/Archives/edgar/data/829224/000082922423000017/,,6
+Starbucks,SBUX,2022Q4,2023-01-01,분기말 총자본(자기자본),-8665900000,USD,공시,https://www.sec.gov/Archives/edgar/data/829224/000082922423000017/,,6
+Starbucks,SBUX,2022Q4,2023-01-01,분기말 지배지분 자본,-8673800000,USD,공시,https://www.sec.gov/Archives/edgar/data/829224/000082922423000017/,,6
+Starbucks,SBUX,2022Q4,2022-12-30,분기말 종가,99.2,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/SBUX?interval=1d&events=splits (2022-12-30),,6
+Starbucks,SBUX,2022Q4,2023-01-27,분기말 상장주식수,1149300000,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/829224/000082922423000017/,dei:EntityCommonStockSharesOutstanding 클래스 합,6
+Starbucks,SBUX,2022Q4,2022-12-30,분기말 시가총액,114010560000,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/SBUX?interval=1d&events=splits (2022-12-30) ; https://www.sec.gov/Archives/edgar/data/829224/000082922423000017/,종가 99.2 × 주식수 1149300000,6
+Starbucks,SBUX,2023Q1,2023-04-02,분기별 매출액,8719800000,USD,공시,https://www.sec.gov/Archives/edgar/data/829224/000082922423000037/,,6
+Starbucks,SBUX,2023Q1,2023-04-02,분기별 영업이익,1327500000,USD,공시,https://www.sec.gov/Archives/edgar/data/829224/000082922423000037/,,6
+Starbucks,SBUX,2023Q1,2023-04-02,분기별 당기순이익(지배),908300000,USD,공시,https://www.sec.gov/Archives/edgar/data/829224/000082922423000037/,,6
+Starbucks,SBUX,2023Q1,2023-04-02,분기별 영업활동현금흐름,767600000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/829224/000082922423000037/ ; https://www.sec.gov/Archives/edgar/data/829224/000082922423000017/,누적 2360800000 − 직전누적 1593200000 (시작 2022-10-03),6
+Starbucks,SBUX,2023Q1,2023-04-02,분기말 자산총계,28609000000,USD,공시,https://www.sec.gov/Archives/edgar/data/829224/000082922423000037/,,6
+Starbucks,SBUX,2023Q1,2023-04-02,분기말 부채총계,37108400000,USD,공시,https://www.sec.gov/Archives/edgar/data/829224/000082922423000037/,,6
+Starbucks,SBUX,2023Q1,2023-04-02,분기말 총자본(자기자본),-8499400000,USD,공시,https://www.sec.gov/Archives/edgar/data/829224/000082922423000037/,,6
+Starbucks,SBUX,2023Q1,2023-04-02,분기말 지배지분 자본,-8506900000,USD,공시,https://www.sec.gov/Archives/edgar/data/829224/000082922423000037/,,6
+Starbucks,SBUX,2023Q1,2023-03-31,분기말 종가,104.13,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/SBUX?interval=1d&events=splits (2023-03-31),,6
+Starbucks,SBUX,2023Q1,2023-04-26,분기말 상장주식수,1146400000,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/829224/000082922423000037/,dei:EntityCommonStockSharesOutstanding 클래스 합,6
+Starbucks,SBUX,2023Q1,2023-03-31,분기말 시가총액,119374632000,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/SBUX?interval=1d&events=splits (2023-03-31) ; https://www.sec.gov/Archives/edgar/data/829224/000082922423000037/,종가 104.13 × 주식수 1146400000,6
+Starbucks,SBUX,2023Q2,2023-07-02,분기별 매출액,9168300000,USD,공시,https://www.sec.gov/Archives/edgar/data/829224/000082922423000044/,,6
+Starbucks,SBUX,2023Q2,2023-07-02,분기별 영업이익,1583900000,USD,공시,https://www.sec.gov/Archives/edgar/data/829224/000082922423000044/,,6
+Starbucks,SBUX,2023Q2,2023-07-02,분기별 당기순이익(지배),1141700000,USD,공시,https://www.sec.gov/Archives/edgar/data/829224/000082922423000044/,,6
+Starbucks,SBUX,2023Q2,2023-07-02,분기별 영업활동현금흐름,1702900000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/829224/000082922423000044/ ; https://www.sec.gov/Archives/edgar/data/829224/000082922423000037/,누적 4063700000 − 직전누적 2360800000 (시작 2022-10-03),6
+Starbucks,SBUX,2023Q2,2023-07-02,분기말 자산총계,28733000000,USD,공시,https://www.sec.gov/Archives/edgar/data/829224/000082922423000044/,,6
+Starbucks,SBUX,2023Q2,2023-07-02,분기말 부채총계,37074600000,USD,공시,https://www.sec.gov/Archives/edgar/data/829224/000082922423000044/,,6
+Starbucks,SBUX,2023Q2,2023-07-02,분기말 총자본(자기자본),-8341600000,USD,공시,https://www.sec.gov/Archives/edgar/data/829224/000082922423000044/,,6
+Starbucks,SBUX,2023Q2,2023-07-02,분기말 지배지분 자본,-8348600000,USD,공시,https://www.sec.gov/Archives/edgar/data/829224/000082922423000044/,,6
+Starbucks,SBUX,2023Q2,2023-06-30,분기말 종가,99.06,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/SBUX?interval=1d&events=splits (2023-06-30),,6
+Starbucks,SBUX,2023Q2,2023-07-26,분기말 상장주식수,1145400000,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/829224/000082922423000044/,dei:EntityCommonStockSharesOutstanding 클래스 합,6
+Starbucks,SBUX,2023Q2,2023-06-30,분기말 시가총액,113463324000,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/SBUX?interval=1d&events=splits (2023-06-30) ; https://www.sec.gov/Archives/edgar/data/829224/000082922423000044/,종가 99.06 × 주식수 1145400000,6
+Starbucks,SBUX,2023Q3,2023-10-01,분기별 매출액,9373600000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/829224/000082922423000058/ ; https://www.sec.gov/Archives/edgar/data/829224/000082922423000044/,연간 35975600000 − 9개월누적 26602000000 (Revenues),6
+Starbucks,SBUX,2023Q3,2023-10-01,분기별 영업이익,1706200000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/829224/000082922423000058/ ; https://www.sec.gov/Archives/edgar/data/829224/000082922423000044/,연간 5870800000 − 9개월누적 4164600000 (OperatingIncomeLoss),6
+Starbucks,SBUX,2023Q3,2023-10-01,분기별 당기순이익(지배),1219300000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/829224/000082922423000058/ ; https://www.sec.gov/Archives/edgar/data/829224/000082922423000044/,연간 4124500000 − 9개월누적 2905200000 (NetIncomeLoss),6
+Starbucks,SBUX,2023Q3,2023-10-01,분기별 영업활동현금흐름,1945000000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/829224/000082922423000058/ ; https://www.sec.gov/Archives/edgar/data/829224/000082922423000044/,누적 6008700000 − 직전누적 4063700000 (시작 2022-10-03),6
+Starbucks,SBUX,2023Q3,2023-10-01,분기말 자산총계,29445500000,USD,공시,https://www.sec.gov/Archives/edgar/data/829224/000082922423000058/,,6
+Starbucks,SBUX,2023Q3,2023-10-01,분기말 부채총계,37433300000,USD,공시,https://www.sec.gov/Archives/edgar/data/829224/000082922423000058/,,6
+Starbucks,SBUX,2023Q3,2023-10-01,분기말 총자본(자기자본),-7987800000,USD,공시,https://www.sec.gov/Archives/edgar/data/829224/000082922423000058/,,6
+Starbucks,SBUX,2023Q3,2023-10-01,분기말 지배지분 자본,-7994800000,USD,공시,https://www.sec.gov/Archives/edgar/data/829224/000082922423000058/,,6
+Starbucks,SBUX,2023Q3,2023-09-29,분기말 종가,91.27,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/SBUX?interval=1d&events=splits (2023-09-29),,6
+Starbucks,SBUX,2023Q3,2023-11-10,분기말 상장주식수,1136700000,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/829224/000082922423000058/,dei:EntityCommonStockSharesOutstanding 클래스 합,6
+Starbucks,SBUX,2023Q3,2023-09-29,분기말 시가총액,103746609000,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/SBUX?interval=1d&events=splits (2023-09-29) ; https://www.sec.gov/Archives/edgar/data/829224/000082922423000058/,종가 91.27 × 주식수 1136700000,6
+Starbucks,SBUX,2023Q4,2023-12-31,분기별 매출액,9425300000,USD,공시,https://www.sec.gov/Archives/edgar/data/829224/000082922424000013/,,6
+Starbucks,SBUX,2023Q4,2023-12-31,분기별 영업이익,1485400000,USD,공시,https://www.sec.gov/Archives/edgar/data/829224/000082922424000013/,,6
+Starbucks,SBUX,2023Q4,2023-12-31,분기별 당기순이익(지배),1024400000,USD,공시,https://www.sec.gov/Archives/edgar/data/829224/000082922424000013/,,6
+Starbucks,SBUX,2023Q4,2023-12-31,분기별 영업활동현금흐름,2383900000,USD,공시,https://www.sec.gov/Archives/edgar/data/829224/000082922424000013/,,6
+Starbucks,SBUX,2023Q4,2023-12-31,분기말 자산총계,29179700000,USD,공시,https://www.sec.gov/Archives/edgar/data/829224/000082922424000013/,,6
+Starbucks,SBUX,2023Q4,2023-12-31,분기말 부채총계,37788600000,USD,공시,https://www.sec.gov/Archives/edgar/data/829224/000082922424000013/,,6
+Starbucks,SBUX,2023Q4,2023-12-31,분기말 총자본(자기자본),-8608900000,USD,공시,https://www.sec.gov/Archives/edgar/data/829224/000082922424000013/,,6
+Starbucks,SBUX,2023Q4,2023-12-31,분기말 지배지분 자본,-8616000000,USD,공시,https://www.sec.gov/Archives/edgar/data/829224/000082922424000013/,,6
+Starbucks,SBUX,2023Q4,2023-12-29,분기말 종가,96.01,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/SBUX?interval=1d&events=splits (2023-12-29),,6
+Starbucks,SBUX,2023Q4,2024-01-24,분기말 상장주식수,1132200000,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/829224/000119312524037988/,dei:EntityCommonStockSharesOutstanding 클래스 합 ; 값은 XBRL 원문(companyfacts 미반영 보고서),6
+Starbucks,SBUX,2023Q4,2023-12-29,분기말 시가총액,108702522000,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/SBUX?interval=1d&events=splits (2023-12-29) ; https://www.sec.gov/Archives/edgar/data/829224/000119312524037988/,종가 96.01 × 주식수 1132200000 ; 값은 XBRL 원문(companyfacts 미반영 보고서),6
+Starbucks,SBUX,2024Q1,2024-03-31,분기별 매출액,8563000000,USD,공시,https://www.sec.gov/Archives/edgar/data/829224/000082922424000024/,,6
+Starbucks,SBUX,2024Q1,2024-03-31,분기별 영업이익,1098900000,USD,공시,https://www.sec.gov/Archives/edgar/data/829224/000082922424000024/,,6
+Starbucks,SBUX,2024Q1,2024-03-31,분기별 당기순이익(지배),772400000,USD,공시,https://www.sec.gov/Archives/edgar/data/829224/000082922424000024/,,6
+Starbucks,SBUX,2024Q1,2024-03-31,분기별 영업활동현금흐름,506000000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/829224/000082922424000024/ ; https://www.sec.gov/Archives/edgar/data/829224/000082922424000013/,누적 2889900000 − 직전누적 2383900000 (시작 2023-10-02),6
+Starbucks,SBUX,2024Q1,2024-03-31,분기말 자산총계,29363200000,USD,공시,https://www.sec.gov/Archives/edgar/data/829224/000082922424000024/,,6
+Starbucks,SBUX,2024Q1,2024-03-31,분기말 부채총계,37805400000,USD,공시,https://www.sec.gov/Archives/edgar/data/829224/000082922424000024/,,6
+Starbucks,SBUX,2024Q1,2024-03-31,분기말 총자본(자기자본),-8442200000,USD,공시,https://www.sec.gov/Archives/edgar/data/829224/000082922424000024/,,6
+Starbucks,SBUX,2024Q1,2024-03-31,분기말 지배지분 자본,-8449400000,USD,공시,https://www.sec.gov/Archives/edgar/data/829224/000082922424000024/,,6
+Starbucks,SBUX,2024Q1,2024-03-28,분기말 종가,91.39,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/SBUX?interval=1d&events=splits (2024-03-28),,6
+Starbucks,SBUX,2024Q1,2024-04-24,분기말 상장주식수,1132700000,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/829224/000082922424000024/,dei:EntityCommonStockSharesOutstanding 클래스 합,6
+Starbucks,SBUX,2024Q1,2024-03-28,분기말 시가총액,103517453000,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/SBUX?interval=1d&events=splits (2024-03-28) ; https://www.sec.gov/Archives/edgar/data/829224/000082922424000024/,종가 91.39 × 주식수 1132700000,6
+Starbucks,SBUX,2024Q2,2024-06-30,분기별 매출액,9113900000,USD,공시,https://www.sec.gov/Archives/edgar/data/829224/000082922424000042/,,6
+Starbucks,SBUX,2024Q2,2024-06-30,분기별 영업이익,1517500000,USD,공시,https://www.sec.gov/Archives/edgar/data/829224/000082922424000042/,,6
+Starbucks,SBUX,2024Q2,2024-06-30,분기별 당기순이익(지배),1054800000,USD,공시,https://www.sec.gov/Archives/edgar/data/829224/000082922424000042/,,6
+Starbucks,SBUX,2024Q2,2024-06-30,분기별 영업활동현금흐름,1670100000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/829224/000082922424000042/ ; https://www.sec.gov/Archives/edgar/data/829224/000082922424000024/,누적 4560000000 − 직전누적 2889900000 (시작 2023-10-02),6
+Starbucks,SBUX,2024Q2,2024-06-30,분기말 자산총계,30111800000,USD,공시,https://www.sec.gov/Archives/edgar/data/829224/000082922424000042/,,6
+Starbucks,SBUX,2024Q2,2024-06-30,분기말 부채총계,38049200000,USD,공시,https://www.sec.gov/Archives/edgar/data/829224/000082922424000042/,,6
+Starbucks,SBUX,2024Q2,2024-06-30,분기말 총자본(자기자본),-7937400000,USD,공시,https://www.sec.gov/Archives/edgar/data/829224/000082922424000042/,,6
+Starbucks,SBUX,2024Q2,2024-06-30,분기말 지배지분 자본,-7945400000,USD,공시,https://www.sec.gov/Archives/edgar/data/829224/000082922424000042/,,6
+Starbucks,SBUX,2024Q2,2024-06-28,분기말 종가,77.85,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/SBUX?interval=1d&events=splits (2024-06-28),,6
+Starbucks,SBUX,2024Q2,2024-07-24,분기말 상장주식수,1133200000,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/829224/000082922424000042/,dei:EntityCommonStockSharesOutstanding 클래스 합,6
+Starbucks,SBUX,2024Q2,2024-06-28,분기말 시가총액,88219620000,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/SBUX?interval=1d&events=splits (2024-06-28) ; https://www.sec.gov/Archives/edgar/data/829224/000082922424000042/,종가 77.85 × 주식수 1133200000,6
+Starbucks,SBUX,2024Q3,2024-09-29,분기별 매출액,9073900000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/829224/000082922424000057/ ; https://www.sec.gov/Archives/edgar/data/829224/000082922424000042/,연간 36176200000 − 9개월누적 27102300000 (Revenues),6
+Starbucks,SBUX,2024Q3,2024-09-29,분기별 영업이익,1306900000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/829224/000082922424000057/ ; https://www.sec.gov/Archives/edgar/data/829224/000082922424000042/,연간 5408800000 − 9개월누적 4101900000 (OperatingIncomeLoss),6
+Starbucks,SBUX,2024Q3,2024-09-29,분기별 당기순이익(지배),909200000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/829224/000082922424000057/ ; https://www.sec.gov/Archives/edgar/data/829224/000082922424000042/,연간 3760900000 − 9개월누적 2851700000 (NetIncomeLoss),6
+Starbucks,SBUX,2024Q3,2024-09-29,분기별 영업활동현금흐름,1535600000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/829224/000082922424000057/ ; https://www.sec.gov/Archives/edgar/data/829224/000082922424000042/,누적 6095600000 − 직전누적 4560000000 (시작 2023-10-02),6
+Starbucks,SBUX,2024Q3,2024-09-29,분기말 자산총계,31339300000,USD,공시,https://www.sec.gov/Archives/edgar/data/829224/000082922424000057/,,6
+Starbucks,SBUX,2024Q3,2024-09-29,분기말 부채총계,38780900000,USD,공시,https://www.sec.gov/Archives/edgar/data/829224/000082922424000057/,,6
+Starbucks,SBUX,2024Q3,2024-09-29,분기말 총자본(자기자본),-7441600000,USD,공시,https://www.sec.gov/Archives/edgar/data/829224/000082922424000057/,,6
+Starbucks,SBUX,2024Q3,2024-09-29,분기말 지배지분 자본,-7448900000,USD,공시,https://www.sec.gov/Archives/edgar/data/829224/000082922424000057/,,6
+Starbucks,SBUX,2024Q3,2024-09-27,분기말 종가,97.36,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/SBUX?interval=1d&events=splits (2024-09-27),,6
+Starbucks,SBUX,2024Q3,2024-11-13,분기말 상장주식수,1133800000,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/829224/000082922424000057/,dei:EntityCommonStockSharesOutstanding 클래스 합,6
+Starbucks,SBUX,2024Q3,2024-09-27,분기말 시가총액,110386768000,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/SBUX?interval=1d&events=splits (2024-09-27) ; https://www.sec.gov/Archives/edgar/data/829224/000082922424000057/,종가 97.36 × 주식수 1133800000,6
+Starbucks,SBUX,2024Q4,2024-12-29,분기별 매출액,9397800000,USD,공시,https://www.sec.gov/Archives/edgar/data/829224/000082922425000014/,,6
+Starbucks,SBUX,2024Q4,2024-12-29,분기별 영업이익,1121700000,USD,공시,https://www.sec.gov/Archives/edgar/data/829224/000082922425000014/,,6
+Starbucks,SBUX,2024Q4,2024-12-29,분기별 당기순이익(지배),780800000,USD,공시,https://www.sec.gov/Archives/edgar/data/829224/000082922425000014/,,6
+Starbucks,SBUX,2024Q4,2024-12-29,분기별 영업활동현금흐름,2072000000,USD,공시,https://www.sec.gov/Archives/edgar/data/829224/000082922425000014/,,6
+Starbucks,SBUX,2024Q4,2024-12-29,분기말 자산총계,31893100000,USD,공시,https://www.sec.gov/Archives/edgar/data/829224/000082922425000014/,,6
+Starbucks,SBUX,2024Q4,2024-12-29,분기말 부채총계,39357700000,USD,공시,https://www.sec.gov/Archives/edgar/data/829224/000082922425000014/,,6
+Starbucks,SBUX,2024Q4,2024-12-29,분기말 총자본(자기자본),-7464600000,USD,공시,https://www.sec.gov/Archives/edgar/data/829224/000082922425000014/,,6
+Starbucks,SBUX,2024Q4,2024-12-29,분기말 지배지분 자본,-7471700000,USD,공시,https://www.sec.gov/Archives/edgar/data/829224/000082922425000014/,,6
+Starbucks,SBUX,2024Q4,2024-12-27,분기말 종가,92.25,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/SBUX?interval=1d&events=splits (2024-12-27),,6
+Starbucks,SBUX,2024Q4,2025-01-22,분기말 상장주식수,1135900000,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/829224/000082922425000014/,dei:EntityCommonStockSharesOutstanding 클래스 합,6
+Starbucks,SBUX,2024Q4,2024-12-27,분기말 시가총액,104786775000,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/SBUX?interval=1d&events=splits (2024-12-27) ; https://www.sec.gov/Archives/edgar/data/829224/000082922425000014/,종가 92.25 × 주식수 1135900000,6
+Starbucks,SBUX,2025Q1,2025-03-30,분기별 매출액,8761600000,USD,공시,https://www.sec.gov/Archives/edgar/data/829224/000082922425000034/,,6
+Starbucks,SBUX,2025Q1,2025-03-30,분기별 영업이익,601000000,USD,공시,https://www.sec.gov/Archives/edgar/data/829224/000082922425000034/,,6
+Starbucks,SBUX,2025Q1,2025-03-30,분기별 당기순이익(지배),384200000,USD,공시,https://www.sec.gov/Archives/edgar/data/829224/000082922425000034/,,6
+Starbucks,SBUX,2025Q1,2025-03-30,분기별 영업활동현금흐름,292000000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/829224/000082922425000034/ ; https://www.sec.gov/Archives/edgar/data/829224/000082922425000014/,누적 2364000000 − 직전누적 2072000000 (시작 2024-09-30),6
+Starbucks,SBUX,2025Q1,2025-03-30,분기말 자산총계,31633100000,USD,공시,https://www.sec.gov/Archives/edgar/data/829224/000082922425000034/,,6
+Starbucks,SBUX,2025Q1,2025-03-30,분기말 부채총계,39248500000,USD,공시,https://www.sec.gov/Archives/edgar/data/829224/000082922425000034/,,6
+Starbucks,SBUX,2025Q1,2025-03-30,분기말 총자본(자기자본),-7615400000,USD,공시,https://www.sec.gov/Archives/edgar/data/829224/000082922425000034/,,6
+Starbucks,SBUX,2025Q1,2025-03-30,분기말 지배지분 자본,-7622500000,USD,공시,https://www.sec.gov/Archives/edgar/data/829224/000082922425000034/,,6
+Starbucks,SBUX,2025Q1,2025-03-28,분기말 종가,97.73,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/SBUX?interval=1d&events=splits (2025-03-28),,6
+Starbucks,SBUX,2025Q1,2025-04-23,분기말 상장주식수,1136400000,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/829224/000082922425000034/,dei:EntityCommonStockSharesOutstanding 클래스 합,6
+Starbucks,SBUX,2025Q1,2025-03-28,분기말 시가총액,111060372000,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/SBUX?interval=1d&events=splits (2025-03-28) ; https://www.sec.gov/Archives/edgar/data/829224/000082922425000034/,종가 97.73 × 주식수 1136400000,6
+Starbucks,SBUX,2025Q2,2025-06-29,분기별 매출액,9456000000,USD,공시,https://www.sec.gov/Archives/edgar/data/829224/000082922425000058/,,6
+Starbucks,SBUX,2025Q2,2025-06-29,분기별 영업이익,935600000,USD,공시,https://www.sec.gov/Archives/edgar/data/829224/000082922425000058/,,6
+Starbucks,SBUX,2025Q2,2025-06-29,분기별 당기순이익(지배),558300000,USD,공시,https://www.sec.gov/Archives/edgar/data/829224/000082922425000058/,,6
+Starbucks,SBUX,2025Q2,2025-06-29,분기별 영업활동현금흐름,1001700000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/829224/000082922425000058/ ; https://www.sec.gov/Archives/edgar/data/829224/000082922425000034/,누적 3365700000 − 직전누적 2364000000 (시작 2024-09-30),6
+Starbucks,SBUX,2025Q2,2025-06-29,분기말 자산총계,33649200000,USD,공시,https://www.sec.gov/Archives/edgar/data/829224/000082922425000058/,,6
+Starbucks,SBUX,2025Q2,2025-06-29,분기말 부채총계,41327800000,USD,공시,https://www.sec.gov/Archives/edgar/data/829224/000082922425000058/,,6
+Starbucks,SBUX,2025Q2,2025-06-29,분기말 총자본(자기자본),-7678600000,USD,공시,https://www.sec.gov/Archives/edgar/data/829224/000082922425000058/,,6
+Starbucks,SBUX,2025Q2,2025-06-29,분기말 지배지분 자본,-7686000000,USD,공시,https://www.sec.gov/Archives/edgar/data/829224/000082922425000058/,,6
+Starbucks,SBUX,2025Q2,2025-06-27,분기말 종가,92.11,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/SBUX?interval=1d&events=splits (2025-06-27),,6
+Starbucks,SBUX,2025Q2,2025-07-23,분기말 상장주식수,1136700000,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/829224/000082922425000058/,dei:EntityCommonStockSharesOutstanding 클래스 합,6
+Starbucks,SBUX,2025Q2,2025-06-27,분기말 시가총액,104701437000,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/SBUX?interval=1d&events=splits (2025-06-27) ; https://www.sec.gov/Archives/edgar/data/829224/000082922425000058/,종가 92.11 × 주식수 1136700000,6
+Starbucks,SBUX,2025Q3,2025-09-28,분기별 매출액,9569000000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/829224/000082922425000114/ ; https://www.sec.gov/Archives/edgar/data/829224/000082922425000058/,연간 37184400000 − 9개월누적 27615400000 (Revenues),6
+Starbucks,SBUX,2025Q3,2025-09-28,분기별 영업이익,278200000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/829224/000082922425000114/ ; https://www.sec.gov/Archives/edgar/data/829224/000082922425000058/,연간 2936600000 − 9개월누적 2658400000 (OperatingIncomeLoss),6
+Starbucks,SBUX,2025Q3,2025-09-28,분기별 당기순이익(지배),133200000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/829224/000082922425000114/ ; https://www.sec.gov/Archives/edgar/data/829224/000082922425000058/,연간 1856400000 − 9개월누적 1723200000 (NetIncomeLoss),6
+Starbucks,SBUX,2025Q3,2025-09-28,분기별 영업활동현금흐름,1381800000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/829224/000082922425000114/ ; https://www.sec.gov/Archives/edgar/data/829224/000082922425000058/,누적 4747500000 − 직전누적 3365700000 (시작 2024-09-30),6
+Starbucks,SBUX,2025Q3,2025-09-28,분기말 자산총계,32019700000,USD,공시,https://www.sec.gov/Archives/edgar/data/829224/000082922425000114/,,6
+Starbucks,SBUX,2025Q3,2025-09-28,분기말 부채총계,40108900000,USD,공시,https://www.sec.gov/Archives/edgar/data/829224/000082922425000114/,,6
+Starbucks,SBUX,2025Q3,2025-09-28,분기말 총자본(자기자본),-8089200000,USD,공시,https://www.sec.gov/Archives/edgar/data/829224/000082922425000114/,,6
+Starbucks,SBUX,2025Q3,2025-09-28,분기말 지배지분 자본,-8096600000,USD,공시,https://www.sec.gov/Archives/edgar/data/829224/000082922425000114/,,6
+Starbucks,SBUX,2025Q3,2025-09-26,분기말 종가,83.39,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/SBUX?interval=1d&events=splits (2025-09-26),,6
+Starbucks,SBUX,2025Q3,2025-11-07,분기말 상장주식수,1137100000,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/829224/000082922425000114/,dei:EntityCommonStockSharesOutstanding 클래스 합,6
+Starbucks,SBUX,2025Q3,2025-09-26,분기말 시가총액,94822769000,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/SBUX?interval=1d&events=splits (2025-09-26) ; https://www.sec.gov/Archives/edgar/data/829224/000082922425000114/,종가 83.39 × 주식수 1137100000,6
+Starbucks,SBUX,2025Q4,2025-12-28,분기별 매출액,9915100000,USD,공시,https://www.sec.gov/Archives/edgar/data/829224/000082922426000011/,,6
+Starbucks,SBUX,2025Q4,2025-12-28,분기별 영업이익,890800000,USD,공시,https://www.sec.gov/Archives/edgar/data/829224/000082922426000011/,,6
+Starbucks,SBUX,2025Q4,2025-12-28,분기별 당기순이익(지배),293300000,USD,공시,https://www.sec.gov/Archives/edgar/data/829224/000082922426000011/,,6
+Starbucks,SBUX,2025Q4,2025-12-28,분기별 영업활동현금흐름,1597700000,USD,공시,https://www.sec.gov/Archives/edgar/data/829224/000082922426000011/,,6
+Starbucks,SBUX,2025Q4,2025-12-28,분기말 자산총계,32228300000,USD,공시,https://www.sec.gov/Archives/edgar/data/829224/000082922426000011/,,6
+Starbucks,SBUX,2025Q4,2025-12-28,분기말 부채총계,40609600000,USD,공시,https://www.sec.gov/Archives/edgar/data/829224/000082922426000011/,,6
+Starbucks,SBUX,2025Q4,2025-12-28,분기말 총자본(자기자본),-8381300000,USD,공시,https://www.sec.gov/Archives/edgar/data/829224/000082922426000011/,,6
+Starbucks,SBUX,2025Q4,2025-12-28,분기말 지배지분 자본,-8388700000,USD,공시,https://www.sec.gov/Archives/edgar/data/829224/000082922426000011/,,6
+Starbucks,SBUX,2025Q4,2025-12-26,분기말 종가,85.08,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/SBUX?interval=1d&events=splits (2025-12-26),,6
+Starbucks,SBUX,2025Q4,2026-01-22,분기말 상장주식수,1139300000,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/829224/000082922426000011/,dei:EntityCommonStockSharesOutstanding 클래스 합,6
+Starbucks,SBUX,2025Q4,2025-12-26,분기말 시가총액,96931644000,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/SBUX?interval=1d&events=splits (2025-12-26) ; https://www.sec.gov/Archives/edgar/data/829224/000082922426000011/,종가 85.08 × 주식수 1139300000,6
+Starbucks,SBUX,2026Q1,2026-03-29,분기별 매출액,9531500000,USD,공시,https://www.sec.gov/Archives/edgar/data/829224/000082922426000080/,,6
+Starbucks,SBUX,2026Q1,2026-03-29,분기별 영업이익,828100000,USD,공시,https://www.sec.gov/Archives/edgar/data/829224/000082922426000080/,,6
+Starbucks,SBUX,2026Q1,2026-03-29,분기별 당기순이익(지배),510900000,USD,공시,https://www.sec.gov/Archives/edgar/data/829224/000082922426000080/,,6
+Starbucks,SBUX,2026Q1,2026-03-29,분기별 영업활동현금흐름,364500000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/829224/000082922426000080/ ; https://www.sec.gov/Archives/edgar/data/829224/000082922426000011/,누적 1962200000 − 직전누적 1597700000 (시작 2025-09-29),6
+Starbucks,SBUX,2026Q1,2026-03-29,분기말 자산총계,30557500000,USD,공시,https://www.sec.gov/Archives/edgar/data/829224/000082922426000080/,,6
+Starbucks,SBUX,2026Q1,2026-03-29,분기말 부채총계,39015200000,USD,공시,https://www.sec.gov/Archives/edgar/data/829224/000082922426000080/,,6
+Starbucks,SBUX,2026Q1,2026-03-29,분기말 총자본(자기자본),-8457700000,USD,공시,https://www.sec.gov/Archives/edgar/data/829224/000082922426000080/,,6
+Starbucks,SBUX,2026Q1,2026-03-29,분기말 지배지분 자본,-8465100000,USD,공시,https://www.sec.gov/Archives/edgar/data/829224/000082922426000080/,,6
+Starbucks,SBUX,2026Q1,2026-03-27,분기말 종가,86.81,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/SBUX?interval=1d&events=splits (2026-03-27),,6
+Starbucks,SBUX,2026Q1,2026-04-22,분기말 상장주식수,1139700000,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/829224/000082922426000080/,dei:EntityCommonStockSharesOutstanding 클래스 합,6
+Starbucks,SBUX,2026Q1,2026-03-27,분기말 시가총액,98937357000,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/SBUX?interval=1d&events=splits (2026-03-27) ; https://www.sec.gov/Archives/edgar/data/829224/000082922426000080/,종가 86.81 × 주식수 1139700000,6
+Starbucks,SBUX,2026Q2,2026-06-28,분기별 매출액,9322700000,USD,공시,https://www.sec.gov/Archives/edgar/data/829224/000082922426000130/,,6
+Starbucks,SBUX,2026Q2,2026-06-28,분기별 영업이익,980400000,USD,공시,https://www.sec.gov/Archives/edgar/data/829224/000082922426000130/,,6
+Starbucks,SBUX,2026Q2,2026-06-28,분기별 당기순이익(지배),1045300000,USD,공시,https://www.sec.gov/Archives/edgar/data/829224/000082922426000130/,,6
+Starbucks,SBUX,2026Q2,2026-06-28,분기별 영업활동현금흐름,1641900000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/829224/000082922426000130/ ; https://www.sec.gov/Archives/edgar/data/829224/000082922426000080/,누적 3604100000 − 직전누적 1962200000 (시작 2025-09-29),6
+Starbucks,SBUX,2026Q2,2026-06-28,분기말 자산총계,28294700000,USD,공시,https://www.sec.gov/Archives/edgar/data/829224/000082922426000130/,,6
+Starbucks,SBUX,2026Q2,2026-06-28,분기말 부채총계,35961800000,USD,공시,https://www.sec.gov/Archives/edgar/data/829224/000082922426000130/,,6
+Starbucks,SBUX,2026Q2,2026-06-28,분기말 총자본(자기자본),-7667100000,USD,공시,https://www.sec.gov/Archives/edgar/data/829224/000082922426000130/,,6
+Starbucks,SBUX,2026Q2,2026-06-28,분기말 지배지분 자본,-7674300000,USD,공시,https://www.sec.gov/Archives/edgar/data/829224/000082922426000130/,,6
+Starbucks,SBUX,2026Q2,2026-06-26,분기말 종가,104.6,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/SBUX?interval=1d&events=splits (2026-06-26),,6
+Starbucks,SBUX,2026Q2,2026-07-23,분기말 상장주식수,1140000000,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/829224/000082922426000130/,dei:EntityCommonStockSharesOutstanding 클래스 합,6
+Starbucks,SBUX,2026Q2,2026-06-26,분기말 시가총액,119244000000,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/SBUX?interval=1d&events=splits (2026-06-26) ; https://www.sec.gov/Archives/edgar/data/829224/000082922426000130/,종가 104.6 × 주식수 1140000000,6

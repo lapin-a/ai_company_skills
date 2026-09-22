@@ -1,0 +1,727 @@
+﻿기업,종목코드,기간,기준일,항목,값,통화,값구분,출처,검산,라운드
+IDEX,IEX,2010Q1,2010-03-31,분기별 매출액,355598000,USD,공시(후속 보고서 비교기간),https://www.sec.gov/Archives/edgar/data/832101/000095012311043713/,SalesRevenueNet ; 그 분기 보고서에 연결 총계가 없어 2011-05-03 제출본의 비교기간에서 읽었다,23
+IDEX,IEX,2010Q1,2010-03-31,분기별 영업이익,57893000,USD,공시(후속 보고서 비교기간),https://www.sec.gov/Archives/edgar/data/832101/000095012311043713/,OperatingIncomeLoss ; 그 분기 보고서에 연결 총계가 없어 2011-05-03 제출본의 비교기간에서 읽었다,23
+IDEX,IEX,2010Q1,2010-03-31,분기별 당기순이익(지배),36625000,USD,공시(후속 보고서 비교기간),https://www.sec.gov/Archives/edgar/data/832101/000095012311043713/,NetIncomeLoss ; 그 분기 보고서에 연결 총계가 없어 2011-05-03 제출본의 비교기간에서 읽었다,23
+IDEX,IEX,2010Q1,2010-03-31,분기별 영업활동현금흐름,미확인,USD,미확인,https://www.sec.gov/Archives/edgar/data/832101/000095012310044480/,,23
+IDEX,IEX,2010Q1,2010-03-31,분기말 자산총계,미확인,USD,미확인,https://www.sec.gov/Archives/edgar/data/832101/000095012310044480/,,23
+IDEX,IEX,2010Q1,2010-03-31,분기말 부채총계,미확인,USD,미확인,https://www.sec.gov/Archives/edgar/data/832101/000095012310044480/,,23
+IDEX,IEX,2010Q1,2010-03-31,분기말 총자본(자기자본),미확인,USD,미확인,https://www.sec.gov/Archives/edgar/data/832101/000095012310044480/,,23
+IDEX,IEX,2010Q1,2010-03-31,분기말 지배지분 자본,미확인,USD,미확인,https://www.sec.gov/Archives/edgar/data/832101/000095012310044480/,,23
+IDEX,IEX,2010Q1,2010-03-31,분기말 종가,33.1,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/IEX?interval=1d&events=splits (2010-03-31),,23
+IDEX,IEX,2010Q1,2010-03-31,분기말 상장주식수,미확인,,미확인,SEC companyfacts·XBRL 원문 모두 dei 표지 주식수 없음,,23
+IDEX,IEX,2010Q1,2010-03-31,분기말 시가총액,미확인,,미확인,SEC companyfacts·XBRL 원문 모두 dei 표지 주식수 없음,,23
+IDEX,IEX,2010Q2,2010-06-30,분기별 매출액,378526000,USD,공시,https://www.sec.gov/Archives/edgar/data/832101/000095012310074296/,,23
+IDEX,IEX,2010Q2,2010-06-30,분기별 영업이익,62780000,USD,공시,https://www.sec.gov/Archives/edgar/data/832101/000095012310074296/,,23
+IDEX,IEX,2010Q2,2010-06-30,분기별 당기순이익(지배),40398000,USD,공시,https://www.sec.gov/Archives/edgar/data/832101/000095012310074296/,,23
+IDEX,IEX,2010Q2,2010-06-30,분기별 영업활동현금흐름,데이터 없음(직전 분기 누적 보고서 없음),USD,데이터 없음(직전 보고서 없음),https://www.sec.gov/Archives/edgar/data/832101/000095012310074296/,,23
+IDEX,IEX,2010Q2,2010-06-30,분기말 자산총계,2211527000,USD,공시,https://www.sec.gov/Archives/edgar/data/832101/000095012310074296/,,23
+IDEX,IEX,2010Q2,2010-06-30,분기말 부채총계,939392000,USD,공시,https://www.sec.gov/Archives/edgar/data/832101/000095012310074296/,,23
+IDEX,IEX,2010Q2,2010-06-30,분기말 총자본(자기자본),1272135000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/832101/000095012310074296/,"StockholdersEquity, MinorityInterest 태그 없음",23
+IDEX,IEX,2010Q2,2010-06-30,분기말 지배지분 자본,1272135000,USD,공시,https://www.sec.gov/Archives/edgar/data/832101/000095012310074296/,,23
+IDEX,IEX,2010Q2,2010-06-30,분기말 종가,28.57,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/IEX?interval=1d&events=splits (2010-06-30),,23
+IDEX,IEX,2010Q2,2010-07-31,분기말 상장주식수,81463661,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/832101/000095012310074296/,dei:EntityCommonStockSharesOutstanding 클래스 합,23
+IDEX,IEX,2010Q2,2010-06-30,분기말 시가총액,2327416795,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/IEX?interval=1d&events=splits (2010-06-30) ; https://www.sec.gov/Archives/edgar/data/832101/000095012310074296/,종가 28.57 × 주식수 81463661,23
+IDEX,IEX,2010Q3,2010-09-30,분기별 매출액,373731000,USD,공시,https://www.sec.gov/Archives/edgar/data/832101/000095012310100265/,,23
+IDEX,IEX,2010Q3,2010-09-30,분기별 영업이익,62439000,USD,공시,https://www.sec.gov/Archives/edgar/data/832101/000095012310100265/,,23
+IDEX,IEX,2010Q3,2010-09-30,분기별 당기순이익(지배),38564000,USD,공시,https://www.sec.gov/Archives/edgar/data/832101/000095012310100265/,,23
+IDEX,IEX,2010Q3,2010-09-30,분기별 영업활동현금흐름,61641000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/832101/000095012310100265/ ; https://www.sec.gov/Archives/edgar/data/832101/000095012310074296/,누적 157346000 − 직전누적 95705000 (시작 2010-01-01),23
+IDEX,IEX,2010Q3,2010-09-30,분기말 자산총계,2346461000,USD,공시,https://www.sec.gov/Archives/edgar/data/832101/000095012310100265/,,23
+IDEX,IEX,2010Q3,2010-09-30,분기말 부채총계,1010703000,USD,공시,https://www.sec.gov/Archives/edgar/data/832101/000095012310100265/,,23
+IDEX,IEX,2010Q3,2010-09-30,분기말 총자본(자기자본),1335758000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/832101/000095012310100265/,"StockholdersEquity, MinorityInterest 태그 없음",23
+IDEX,IEX,2010Q3,2010-09-30,분기말 지배지분 자본,1335758000,USD,공시,https://www.sec.gov/Archives/edgar/data/832101/000095012310100265/,,23
+IDEX,IEX,2010Q3,2010-09-30,분기말 종가,35.51,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/IEX?interval=1d&events=splits (2010-09-30),,23
+IDEX,IEX,2010Q3,2010-10-30,분기말 상장주식수,81885485,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/832101/000095012310100265/,dei:EntityCommonStockSharesOutstanding 클래스 합,23
+IDEX,IEX,2010Q3,2010-09-30,분기말 시가총액,2907753572,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/IEX?interval=1d&events=splits (2010-09-30) ; https://www.sec.gov/Archives/edgar/data/832101/000095012310100265/,종가 35.51 × 주식수 81885485,23
+IDEX,IEX,2010Q4,2010-12-31,분기별 매출액,405218000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/832101/000095012311018609/ ; https://www.sec.gov/Archives/edgar/data/832101/000095012310100265/,연간 1513073000 − 9개월누적 1107855000 (SalesRevenueNet),23
+IDEX,IEX,2010Q4,2010-12-31,분기별 영업이익,66004000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/832101/000095012311018609/ ; https://www.sec.gov/Archives/edgar/data/832101/000095012310100265/,연간 249116000 − 9개월누적 183112000 (OperatingIncomeLoss),23
+IDEX,IEX,2010Q4,2010-12-31,분기별 당기순이익(지배),41513000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/832101/000095012311018609/ ; https://www.sec.gov/Archives/edgar/data/832101/000095012310100265/,연간 157100000 − 9개월누적 115587000 (NetIncomeLoss),23
+IDEX,IEX,2010Q4,2010-12-31,분기별 영업활동현금흐름,27131000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/832101/000095012311018609/ ; https://www.sec.gov/Archives/edgar/data/832101/000095012310100265/,누적 184477000 − 직전누적 157346000 (시작 2010-01-01),23
+IDEX,IEX,2010Q4,2010-12-31,분기말 자산총계,2381695000,USD,공시,https://www.sec.gov/Archives/edgar/data/832101/000095012311018609/,,23
+IDEX,IEX,2010Q4,2010-12-31,분기말 부채총계,1006035000,USD,공시,https://www.sec.gov/Archives/edgar/data/832101/000095012311018609/,,23
+IDEX,IEX,2010Q4,2010-12-31,분기말 총자본(자기자본),1375660000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/832101/000095012311018609/,"StockholdersEquity, MinorityInterest 태그 없음",23
+IDEX,IEX,2010Q4,2010-12-31,분기말 지배지분 자본,1375660000,USD,공시,https://www.sec.gov/Archives/edgar/data/832101/000095012311018609/,,23
+IDEX,IEX,2010Q4,2010-12-31,분기말 종가,39.12,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/IEX?interval=1d&events=splits (2010-12-31),,23
+IDEX,IEX,2010Q4,2011-02-17,분기말 상장주식수,82441446,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/832101/000095012311018609/,dei:EntityCommonStockSharesOutstanding 클래스 합,23
+IDEX,IEX,2010Q4,2010-12-31,분기말 시가총액,3225109368,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/IEX?interval=1d&events=splits (2010-12-31) ; https://www.sec.gov/Archives/edgar/data/832101/000095012311018609/,종가 39.12 × 주식수 82441446,23
+IDEX,IEX,2011Q1,2011-03-31,분기별 매출액,427089000,USD,공시,https://www.sec.gov/Archives/edgar/data/832101/000095012311043713/,,23
+IDEX,IEX,2011Q1,2011-03-31,분기별 영업이익,77721000,USD,공시,https://www.sec.gov/Archives/edgar/data/832101/000095012311043713/,,23
+IDEX,IEX,2011Q1,2011-03-31,분기별 당기순이익(지배),47951000,USD,공시,https://www.sec.gov/Archives/edgar/data/832101/000095012311043713/,,23
+IDEX,IEX,2011Q1,2011-03-31,분기별 영업활동현금흐름,29127000,USD,공시,https://www.sec.gov/Archives/edgar/data/832101/000095012311043713/,,23
+IDEX,IEX,2011Q1,2011-03-31,분기말 자산총계,2465428000,USD,공시,https://www.sec.gov/Archives/edgar/data/832101/000095012311043713/,,23
+IDEX,IEX,2011Q1,2011-03-31,분기말 부채총계,992442000,USD,공시,https://www.sec.gov/Archives/edgar/data/832101/000095012311043713/,,23
+IDEX,IEX,2011Q1,2011-03-31,분기말 총자본(자기자본),1472986000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/832101/000095012311043713/,"StockholdersEquity, MinorityInterest 태그 없음",23
+IDEX,IEX,2011Q1,2011-03-31,분기말 지배지분 자본,1472986000,USD,공시,https://www.sec.gov/Archives/edgar/data/832101/000095012311043713/,,23
+IDEX,IEX,2011Q1,2011-03-31,분기말 종가,43.65,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/IEX?interval=1d&events=splits (2011-03-31),,23
+IDEX,IEX,2011Q1,2011-04-28,분기말 상장주식수,82881231,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/832101/000095012311043713/,dei:EntityCommonStockSharesOutstanding 클래스 합,23
+IDEX,IEX,2011Q1,2011-03-31,분기말 시가총액,3617765733,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/IEX?interval=1d&events=splits (2011-03-31) ; https://www.sec.gov/Archives/edgar/data/832101/000095012311043713/,종가 43.65 × 주식수 82881231,23
+IDEX,IEX,2011Q2,2011-06-30,분기별 매출액,453798000,USD,공시,https://www.sec.gov/Archives/edgar/data/832101/000095012311074497/,,23
+IDEX,IEX,2011Q2,2011-06-30,분기별 영업이익,79629000,USD,공시,https://www.sec.gov/Archives/edgar/data/832101/000095012311074497/,,23
+IDEX,IEX,2011Q2,2011-06-30,분기별 당기순이익(지배),50182000,USD,공시,https://www.sec.gov/Archives/edgar/data/832101/000095012311074497/,,23
+IDEX,IEX,2011Q2,2011-06-30,분기별 영업활동현금흐름,51711000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/832101/000095012311074497/ ; https://www.sec.gov/Archives/edgar/data/832101/000095012311043713/,누적 80838000 − 직전누적 29127000 (시작 2011-01-01),23
+IDEX,IEX,2011Q2,2011-06-30,분기말 자산총계,2923320000,USD,공시,https://www.sec.gov/Archives/edgar/data/832101/000095012311074497/,,23
+IDEX,IEX,2011Q2,2011-06-30,분기말 부채총계,1411670000,USD,공시,https://www.sec.gov/Archives/edgar/data/832101/000095012311074497/,,23
+IDEX,IEX,2011Q2,2011-06-30,분기말 총자본(자기자본),1511650000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/832101/000095012311074497/,"StockholdersEquity, MinorityInterest 태그 없음",23
+IDEX,IEX,2011Q2,2011-06-30,분기말 지배지분 자본,1511650000,USD,공시,https://www.sec.gov/Archives/edgar/data/832101/000095012311074497/,,23
+IDEX,IEX,2011Q2,2011-06-30,분기말 종가,45.85,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/IEX?interval=1d&events=splits (2011-06-30),,23
+IDEX,IEX,2011Q2,2011-07-31,분기말 상장주식수,83079161,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/832101/000095012311074497/,dei:EntityCommonStockSharesOutstanding 클래스 합,23
+IDEX,IEX,2011Q2,2011-06-30,분기말 시가총액,3809179532,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/IEX?interval=1d&events=splits (2011-06-30) ; https://www.sec.gov/Archives/edgar/data/832101/000095012311074497/,종가 45.85 × 주식수 83079161,23
+IDEX,IEX,2011Q3,2011-09-30,분기별 매출액,476881000,USD,공시,https://www.sec.gov/Archives/edgar/data/832101/000119312511288786/,,23
+IDEX,IEX,2011Q3,2011-09-30,분기별 영업이익,71305000,USD,공시,https://www.sec.gov/Archives/edgar/data/832101/000119312511288786/,,23
+IDEX,IEX,2011Q3,2011-09-30,분기별 당기순이익(지배),48336000,USD,공시,https://www.sec.gov/Archives/edgar/data/832101/000119312511288786/,,23
+IDEX,IEX,2011Q3,2011-09-30,분기별 영업활동현금흐름,94771000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/832101/000119312511288786/ ; https://www.sec.gov/Archives/edgar/data/832101/000095012311074497/,누적 175609000 − 직전누적 80838000 (시작 2011-01-01),23
+IDEX,IEX,2011Q3,2011-09-30,분기말 자산총계,2893728000,USD,공시,https://www.sec.gov/Archives/edgar/data/832101/000119312511288786/,,23
+IDEX,IEX,2011Q3,2011-09-30,분기말 부채총계,1388307000,USD,공시,https://www.sec.gov/Archives/edgar/data/832101/000119312511288786/,,23
+IDEX,IEX,2011Q3,2011-09-30,분기말 총자본(자기자본),1505421000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/832101/000119312511288786/,"StockholdersEquity, MinorityInterest 태그 없음",23
+IDEX,IEX,2011Q3,2011-09-30,분기말 지배지분 자본,1505421000,USD,공시,https://www.sec.gov/Archives/edgar/data/832101/000119312511288786/,,23
+IDEX,IEX,2011Q3,2011-09-30,분기말 종가,31.16,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/IEX?interval=1d&events=splits (2011-09-30),,23
+IDEX,IEX,2011Q3,2011-10-26,분기말 상장주식수,83439010,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/832101/000119312511288786/,dei:EntityCommonStockSharesOutstanding 클래스 합,23
+IDEX,IEX,2011Q3,2011-09-30,분기말 시가총액,2599959552,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/IEX?interval=1d&events=splits (2011-09-30) ; https://www.sec.gov/Archives/edgar/data/832101/000119312511288786/,종가 31.16 × 주식수 83439010,23
+IDEX,IEX,2011Q4,2011-12-31,분기별 매출액,480683000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/832101/000119312512078246/ ; https://www.sec.gov/Archives/edgar/data/832101/000119312511288786/,연간 1838451000 − 9개월누적 1357768000 (Revenues / 9개월 SalesRevenueNet),23
+IDEX,IEX,2011Q4,2011-12-31,분기별 영업이익,76001000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/832101/000119312512078246/ ; https://www.sec.gov/Archives/edgar/data/832101/000119312511288786/,연간 304656000 − 9개월누적 228655000 (OperatingIncomeLoss),23
+IDEX,IEX,2011Q4,2011-12-31,분기별 당기순이익(지배),47388000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/832101/000119312512078246/ ; https://www.sec.gov/Archives/edgar/data/832101/000119312511288786/,연간 193857000 − 9개월누적 146469000 (NetIncomeLoss),23
+IDEX,IEX,2011Q4,2011-12-31,분기별 영업활동현금흐름,41632000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/832101/000119312512078246/ ; https://www.sec.gov/Archives/edgar/data/832101/000119312511288786/,누적 217241000 − 직전누적 175609000 (시작 2011-01-01),23
+IDEX,IEX,2011Q4,2011-12-31,분기말 자산총계,2836107000,USD,공시,https://www.sec.gov/Archives/edgar/data/832101/000119312512078246/,,23
+IDEX,IEX,2011Q4,2011-12-31,분기말 부채총계,1322972000,USD,공시,https://www.sec.gov/Archives/edgar/data/832101/000119312512078246/,,23
+IDEX,IEX,2011Q4,2011-12-31,분기말 총자본(자기자본),1513135000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/832101/000119312512078246/,"StockholdersEquity, MinorityInterest 태그 없음",23
+IDEX,IEX,2011Q4,2011-12-31,분기말 지배지분 자본,1513135000,USD,공시,https://www.sec.gov/Archives/edgar/data/832101/000119312512078246/,,23
+IDEX,IEX,2011Q4,2011-12-30,분기말 종가,37.11,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/IEX?interval=1d&events=splits (2011-12-30),,23
+IDEX,IEX,2011Q4,2012-02-17,분기말 상장주식수,83804606,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/832101/000119312512078246/,dei:EntityCommonStockSharesOutstanding 클래스 합,23
+IDEX,IEX,2011Q4,2011-12-30,분기말 시가총액,3109988929,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/IEX?interval=1d&events=splits (2011-12-30) ; https://www.sec.gov/Archives/edgar/data/832101/000119312512078246/,종가 37.11 × 주식수 83804606,23
+IDEX,IEX,2012Q1,2012-03-31,분기별 매출액,489417000,USD,공시,https://www.sec.gov/Archives/edgar/data/832101/000119312512218054/,,23
+IDEX,IEX,2012Q1,2012-03-31,분기별 영업이익,84569000,USD,공시,https://www.sec.gov/Archives/edgar/data/832101/000119312512218054/,,23
+IDEX,IEX,2012Q1,2012-03-31,분기별 당기순이익(지배),52171000,USD,공시,https://www.sec.gov/Archives/edgar/data/832101/000119312512218054/,,23
+IDEX,IEX,2012Q1,2012-03-31,분기별 영업활동현금흐름,58742000,USD,공시,https://www.sec.gov/Archives/edgar/data/832101/000119312512218054/,,23
+IDEX,IEX,2012Q1,2012-03-31,분기말 자산총계,2879126000,USD,공시,https://www.sec.gov/Archives/edgar/data/832101/000119312512218054/,,23
+IDEX,IEX,2012Q1,2012-03-31,분기말 부채총계,1278555000,USD,공시,https://www.sec.gov/Archives/edgar/data/832101/000119312512218054/,,23
+IDEX,IEX,2012Q1,2012-03-31,분기말 총자본(자기자본),1600571000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/832101/000119312512218054/,"StockholdersEquity, MinorityInterest 태그 없음",23
+IDEX,IEX,2012Q1,2012-03-31,분기말 지배지분 자본,1600571000,USD,공시,https://www.sec.gov/Archives/edgar/data/832101/000119312512218054/,,23
+IDEX,IEX,2012Q1,2012-03-30,분기말 종가,42.13,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/IEX?interval=1d&events=splits (2012-03-30),,23
+IDEX,IEX,2012Q1,2012-04-30,분기말 상장주식수,84017857,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/832101/000119312512218054/,dei:EntityCommonStockSharesOutstanding 클래스 합,23
+IDEX,IEX,2012Q1,2012-03-30,분기말 시가총액,3539672315,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/IEX?interval=1d&events=splits (2012-03-30) ; https://www.sec.gov/Archives/edgar/data/832101/000119312512218054/,종가 42.13 × 주식수 84017857,23
+IDEX,IEX,2012Q2,2012-06-30,분기별 매출액,494144000,USD,공시,https://www.sec.gov/Archives/edgar/data/832101/000119312512328998/,,23
+IDEX,IEX,2012Q2,2012-06-30,분기별 영업이익,88650000,USD,공시,https://www.sec.gov/Archives/edgar/data/832101/000119312512328998/,,23
+IDEX,IEX,2012Q2,2012-06-30,분기별 당기순이익(지배),54351000,USD,공시,https://www.sec.gov/Archives/edgar/data/832101/000119312512328998/,,23
+IDEX,IEX,2012Q2,2012-06-30,분기별 영업활동현금흐름,80736000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/832101/000119312512328998/ ; https://www.sec.gov/Archives/edgar/data/832101/000119312512218054/,누적 139478000 − 직전누적 58742000 (시작 2012-01-01),23
+IDEX,IEX,2012Q2,2012-06-30,분기말 자산총계,2856802000,USD,공시,https://www.sec.gov/Archives/edgar/data/832101/000119312512328998/,,23
+IDEX,IEX,2012Q2,2012-06-30,분기말 부채총계,1277549000,USD,공시,https://www.sec.gov/Archives/edgar/data/832101/000119312512328998/,,23
+IDEX,IEX,2012Q2,2012-06-30,분기말 총자본(자기자본),1579253000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/832101/000119312512328998/,"StockholdersEquity, MinorityInterest 태그 없음",23
+IDEX,IEX,2012Q2,2012-06-30,분기말 지배지분 자본,1579253000,USD,공시,https://www.sec.gov/Archives/edgar/data/832101/000119312512328998/,,23
+IDEX,IEX,2012Q2,2012-06-29,분기말 종가,38.98,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/IEX?interval=1d&events=splits (2012-06-29),,23
+IDEX,IEX,2012Q2,2012-07-26,분기말 상장주식수,83383928,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/832101/000119312512328998/,dei:EntityCommonStockSharesOutstanding 클래스 합,23
+IDEX,IEX,2012Q2,2012-06-29,분기말 시가총액,3250305513,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/IEX?interval=1d&events=splits (2012-06-29) ; https://www.sec.gov/Archives/edgar/data/832101/000119312512328998/,종가 38.98 × 주식수 83383928,23
+IDEX,IEX,2012Q3,2012-09-30,분기별 매출액,479859000,USD,공시,https://www.sec.gov/Archives/edgar/data/832101/000119312512449176/,,23
+IDEX,IEX,2012Q3,2012-09-30,분기별 영업이익,80588000,USD,공시,https://www.sec.gov/Archives/edgar/data/832101/000119312512449176/,,23
+IDEX,IEX,2012Q3,2012-09-30,분기별 당기순이익(지배),50127000,USD,공시,https://www.sec.gov/Archives/edgar/data/832101/000119312512449176/,,23
+IDEX,IEX,2012Q3,2012-09-30,분기별 영업활동현금흐름,101020000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/832101/000119312512449176/ ; https://www.sec.gov/Archives/edgar/data/832101/000119312512328998/,누적 240498000 − 직전누적 139478000 (시작 2012-01-01),23
+IDEX,IEX,2012Q3,2012-09-30,분기말 자산총계,2957435000,USD,공시,https://www.sec.gov/Archives/edgar/data/832101/000119312512449176/,,23
+IDEX,IEX,2012Q3,2012-09-30,분기말 부채총계,1348598000,USD,공시,https://www.sec.gov/Archives/edgar/data/832101/000119312512449176/,,23
+IDEX,IEX,2012Q3,2012-09-30,분기말 총자본(자기자본),1608837000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/832101/000119312512449176/,"StockholdersEquity, MinorityInterest 태그 없음",23
+IDEX,IEX,2012Q3,2012-09-30,분기말 지배지분 자본,1608837000,USD,공시,https://www.sec.gov/Archives/edgar/data/832101/000119312512449176/,,23
+IDEX,IEX,2012Q3,2012-09-28,분기말 종가,41.77,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/IEX?interval=1d&events=splits (2012-09-28),,23
+IDEX,IEX,2012Q3,2012-10-25,분기말 상장주식수,82658275,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/832101/000119312512449176/,dei:EntityCommonStockSharesOutstanding 클래스 합,23
+IDEX,IEX,2012Q3,2012-09-28,분기말 시가총액,3452636147,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/IEX?interval=1d&events=splits (2012-09-28) ; https://www.sec.gov/Archives/edgar/data/832101/000119312512449176/,종가 41.77 × 주식수 82658275,23
+IDEX,IEX,2012Q4,2012-12-31,분기별 매출액,490838000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/832101/000119312513069436/ ; https://www.sec.gov/Archives/edgar/data/832101/000119312512449176/,연간 1954258000 − 9개월누적 1463420000 (Revenues / 9개월 SalesRevenueNet),23
+IDEX,IEX,2012Q4,2012-12-31,분기별 영업이익,-125589000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/832101/000119312513069436/ ; https://www.sec.gov/Archives/edgar/data/832101/000119312512449176/,연간 128218000 − 9개월누적 253807000 (OperatingIncomeLoss),23
+IDEX,IEX,2012Q4,2012-12-31,분기별 당기순이익(지배),-119019000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/832101/000119312513069436/ ; https://www.sec.gov/Archives/edgar/data/832101/000119312512449176/,연간 37630000 − 9개월누적 156649000 (NetIncomeLoss),23
+IDEX,IEX,2012Q4,2012-12-31,분기별 영업활동현금흐름,85682000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/832101/000119312513069436/ ; https://www.sec.gov/Archives/edgar/data/832101/000119312512449176/,누적 326180000 − 직전누적 240498000 (시작 2012-01-01),23
+IDEX,IEX,2012Q4,2012-12-31,분기말 자산총계,2785390000,USD,공시,https://www.sec.gov/Archives/edgar/data/832101/000119312513069436/,,23
+IDEX,IEX,2012Q4,2012-12-31,분기말 부채총계,1320392000,USD,공시,https://www.sec.gov/Archives/edgar/data/832101/000119312513069436/,,23
+IDEX,IEX,2012Q4,2012-12-31,분기말 총자본(자기자본),1464998000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/832101/000119312513069436/,"StockholdersEquity, MinorityInterest 태그 없음",23
+IDEX,IEX,2012Q4,2012-12-31,분기말 지배지분 자본,1464998000,USD,공시,https://www.sec.gov/Archives/edgar/data/832101/000119312513069436/,,23
+IDEX,IEX,2012Q4,2012-12-31,분기말 종가,46.53,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/IEX?interval=1d&events=splits (2012-12-31),,23
+IDEX,IEX,2012Q4,2013-02-15,분기말 상장주식수,82523658,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/832101/000119312513069436/,dei:EntityCommonStockSharesOutstanding 클래스 합,23
+IDEX,IEX,2012Q4,2012-12-31,분기말 시가총액,3839825807,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/IEX?interval=1d&events=splits (2012-12-31) ; https://www.sec.gov/Archives/edgar/data/832101/000119312513069436/,종가 46.53 × 주식수 82523658,23
+IDEX,IEX,2013Q1,2013-03-31,분기별 매출액,494448000,USD,공시,https://www.sec.gov/Archives/edgar/data/832101/000119312513199528/,,23
+IDEX,IEX,2013Q1,2013-03-31,분기별 영업이익,94712000,USD,공시,https://www.sec.gov/Archives/edgar/data/832101/000119312513199528/,,23
+IDEX,IEX,2013Q1,2013-03-31,분기별 당기순이익(지배),61300000,USD,공시,https://www.sec.gov/Archives/edgar/data/832101/000119312513199528/,,23
+IDEX,IEX,2013Q1,2013-03-31,분기별 영업활동현금흐름,72195000,USD,공시,https://www.sec.gov/Archives/edgar/data/832101/000119312513199528/,,23
+IDEX,IEX,2013Q1,2013-03-31,분기말 자산총계,2822600000,USD,공시,https://www.sec.gov/Archives/edgar/data/832101/000119312513199528/,,23
+IDEX,IEX,2013Q1,2013-03-31,분기말 부채총계,1340953000,USD,공시,https://www.sec.gov/Archives/edgar/data/832101/000119312513199528/,,23
+IDEX,IEX,2013Q1,2013-03-31,분기말 총자본(자기자본),1481647000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/832101/000119312513199528/,"StockholdersEquity, MinorityInterest 태그 없음",23
+IDEX,IEX,2013Q1,2013-03-31,분기말 지배지분 자본,1481647000,USD,공시,https://www.sec.gov/Archives/edgar/data/832101/000119312513199528/,,23
+IDEX,IEX,2013Q1,2013-03-28,분기말 종가,53.42,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/IEX?interval=1d&events=splits (2013-03-28),,23
+IDEX,IEX,2013Q1,2013-04-29,분기말 상장주식수,82231721,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/832101/000119312513199528/,dei:EntityCommonStockSharesOutstanding 클래스 합,23
+IDEX,IEX,2013Q1,2013-03-28,분기말 시가총액,4392818536,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/IEX?interval=1d&events=splits (2013-03-28) ; https://www.sec.gov/Archives/edgar/data/832101/000119312513199528/,종가 53.42 × 주식수 82231721,23
+IDEX,IEX,2013Q2,2013-06-30,분기별 매출액,518445000,USD,공시,https://www.sec.gov/Archives/edgar/data/832101/000119312513318966/,,23
+IDEX,IEX,2013Q2,2013-06-30,분기별 영업이익,99559000,USD,공시,https://www.sec.gov/Archives/edgar/data/832101/000119312513318966/,,23
+IDEX,IEX,2013Q2,2013-06-30,분기별 당기순이익(지배),62561000,USD,공시,https://www.sec.gov/Archives/edgar/data/832101/000119312513318966/,,23
+IDEX,IEX,2013Q2,2013-06-30,분기별 영업활동현금흐름,109319000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/832101/000119312513318966/ ; https://www.sec.gov/Archives/edgar/data/832101/000119312513199528/,누적 181514000 − 직전누적 72195000 (시작 2013-01-01),23
+IDEX,IEX,2013Q2,2013-06-30,분기말 자산총계,2827652000,USD,공시,https://www.sec.gov/Archives/edgar/data/832101/000119312513318966/,,23
+IDEX,IEX,2013Q2,2013-06-30,분기말 부채총계,1348160000,USD,공시,https://www.sec.gov/Archives/edgar/data/832101/000119312513318966/,,23
+IDEX,IEX,2013Q2,2013-06-30,분기말 총자본(자기자본),1479492000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/832101/000119312513318966/,"StockholdersEquity, MinorityInterest 태그 없음",23
+IDEX,IEX,2013Q2,2013-06-30,분기말 지배지분 자본,1479492000,USD,공시,https://www.sec.gov/Archives/edgar/data/832101/000119312513318966/,,23
+IDEX,IEX,2013Q2,2013-06-28,분기말 종가,53.81,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/IEX?interval=1d&events=splits (2013-06-28),,23
+IDEX,IEX,2013Q2,2013-07-31,분기말 상장주식수,81760702,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/832101/000119312513318966/,dei:EntityCommonStockSharesOutstanding 클래스 합,23
+IDEX,IEX,2013Q2,2013-06-28,분기말 시가총액,4399543375,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/IEX?interval=1d&events=splits (2013-06-28) ; https://www.sec.gov/Archives/edgar/data/832101/000119312513318966/,종가 53.81 × 주식수 81760702,23
+IDEX,IEX,2013Q3,2013-09-30,분기별 매출액,490617000,USD,공시,https://www.sec.gov/Archives/edgar/data/832101/000144530513002609/,,23
+IDEX,IEX,2013Q3,2013-09-30,분기별 영업이익,97369000,USD,공시,https://www.sec.gov/Archives/edgar/data/832101/000144530513002609/,,23
+IDEX,IEX,2013Q3,2013-09-30,분기별 당기순이익(지배),63799000,USD,공시,https://www.sec.gov/Archives/edgar/data/832101/000144530513002609/,,23
+IDEX,IEX,2013Q3,2013-09-30,분기별 영업활동현금흐름,118396000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/832101/000144530513002609/ ; https://www.sec.gov/Archives/edgar/data/832101/000119312513318966/,누적 299910000 − 직전누적 181514000 (시작 2013-01-01),23
+IDEX,IEX,2013Q3,2013-09-30,분기말 자산총계,2849381000,USD,공시,https://www.sec.gov/Archives/edgar/data/832101/000144530513002609/,,23
+IDEX,IEX,2013Q3,2013-09-30,분기말 부채총계,1334857000,USD,공시,https://www.sec.gov/Archives/edgar/data/832101/000144530513002609/,,23
+IDEX,IEX,2013Q3,2013-09-30,분기말 총자본(자기자본),1514524000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/832101/000144530513002609/,"StockholdersEquity, MinorityInterest 태그 없음",23
+IDEX,IEX,2013Q3,2013-09-30,분기말 지배지분 자본,1514524000,USD,공시,https://www.sec.gov/Archives/edgar/data/832101/000144530513002609/,,23
+IDEX,IEX,2013Q3,2013-09-30,분기말 종가,65.25,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/IEX?interval=1d&events=splits (2013-09-30),,23
+IDEX,IEX,2013Q3,2013-10-28,분기말 상장주식수,81119481,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/832101/000144530513002609/,dei:EntityCommonStockSharesOutstanding 클래스 합,23
+IDEX,IEX,2013Q3,2013-09-30,분기말 시가총액,5293046135,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/IEX?interval=1d&events=splits (2013-09-30) ; https://www.sec.gov/Archives/edgar/data/832101/000144530513002609/,종가 65.25 × 주식수 81119481,23
+IDEX,IEX,2013Q4,2013-12-31,분기별 매출액,520620000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/832101/000144530514000435/ ; https://www.sec.gov/Archives/edgar/data/832101/000144530513002609/,연간 2024130000 − 9개월누적 1503510000 (Revenues / 9개월 SalesRevenueNet),23
+IDEX,IEX,2013Q4,2013-12-31,분기별 영업이익,103873000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/832101/000144530514000435/ ; https://www.sec.gov/Archives/edgar/data/832101/000144530513002609/,연간 395513000 − 9개월누적 291640000 (OperatingIncomeLoss),23
+IDEX,IEX,2013Q4,2013-12-31,분기별 당기순이익(지배),67555000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/832101/000144530514000435/ ; https://www.sec.gov/Archives/edgar/data/832101/000144530513002609/,연간 255215000 − 9개월누적 187660000 (NetIncomeLoss),23
+IDEX,IEX,2013Q4,2013-12-31,분기별 영업활동현금흐름,101612000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/832101/000144530514000435/ ; https://www.sec.gov/Archives/edgar/data/832101/000144530513002609/,누적 401522000 − 직전누적 299910000 (시작 2013-01-01),23
+IDEX,IEX,2013Q4,2013-12-31,분기말 자산총계,2887577000,USD,공시,https://www.sec.gov/Archives/edgar/data/832101/000144530514000435/,,23
+IDEX,IEX,2013Q4,2013-12-31,분기말 부채총계,1314588000,USD,공시,https://www.sec.gov/Archives/edgar/data/832101/000144530514000435/,,23
+IDEX,IEX,2013Q4,2013-12-31,분기말 총자본(자기자본),1572989000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/832101/000144530514000435/,"StockholdersEquity, MinorityInterest 태그 없음",23
+IDEX,IEX,2013Q4,2013-12-31,분기말 지배지분 자본,1572989000,USD,공시,https://www.sec.gov/Archives/edgar/data/832101/000144530514000435/,,23
+IDEX,IEX,2013Q4,2013-12-31,분기말 종가,73.85,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/IEX?interval=1d&events=splits (2013-12-31),,23
+IDEX,IEX,2013Q4,2014-02-10,분기말 상장주식수,80889147,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/832101/000144530514000435/,dei:EntityCommonStockSharesOutstanding 클래스 합,23
+IDEX,IEX,2013Q4,2013-12-31,분기말 시가총액,5973663506,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/IEX?interval=1d&events=splits (2013-12-31) ; https://www.sec.gov/Archives/edgar/data/832101/000144530514000435/,종가 73.85 × 주식수 80889147,23
+IDEX,IEX,2014Q1,2014-03-31,분기별 매출액,543996000,USD,공시,https://www.sec.gov/Archives/edgar/data/832101/000144530514001514/,,23
+IDEX,IEX,2014Q1,2014-03-31,분기별 영업이익,113835000,USD,공시,https://www.sec.gov/Archives/edgar/data/832101/000144530514001514/,,23
+IDEX,IEX,2014Q1,2014-03-31,분기별 당기순이익(지배),74548000,USD,공시,https://www.sec.gov/Archives/edgar/data/832101/000144530514001514/,,23
+IDEX,IEX,2014Q1,2014-03-31,분기별 영업활동현금흐름,74185000,USD,공시,https://www.sec.gov/Archives/edgar/data/832101/000144530514001514/,,23
+IDEX,IEX,2014Q1,2014-03-31,분기말 자산총계,2951822000,USD,공시,https://www.sec.gov/Archives/edgar/data/832101/000144530514001514/,,23
+IDEX,IEX,2014Q1,2014-03-31,분기말 부채총계,1330824000,USD,공시,https://www.sec.gov/Archives/edgar/data/832101/000144530514001514/,,23
+IDEX,IEX,2014Q1,2014-03-31,분기말 총자본(자기자본),1620998000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/832101/000144530514001514/,"StockholdersEquity, MinorityInterest 태그 없음",23
+IDEX,IEX,2014Q1,2014-03-31,분기말 지배지분 자본,1620998000,USD,공시,https://www.sec.gov/Archives/edgar/data/832101/000144530514001514/,,23
+IDEX,IEX,2014Q1,2014-03-31,분기말 종가,72.89,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/IEX?interval=1d&events=splits (2014-03-31),,23
+IDEX,IEX,2014Q1,2014-04-23,분기말 상장주식수,80618840,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/832101/000144530514001514/,dei:EntityCommonStockSharesOutstanding 클래스 합,23
+IDEX,IEX,2014Q1,2014-03-31,분기말 시가총액,5876307248,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/IEX?interval=1d&events=splits (2014-03-31) ; https://www.sec.gov/Archives/edgar/data/832101/000144530514001514/,종가 72.89 × 주식수 80618840,23
+IDEX,IEX,2014Q2,2014-06-30,분기별 매출액,546693000,USD,공시,https://www.sec.gov/Archives/edgar/data/832101/000144530514002979/,,23
+IDEX,IEX,2014Q2,2014-06-30,분기별 영업이익,112088000,USD,공시,https://www.sec.gov/Archives/edgar/data/832101/000144530514002979/,,23
+IDEX,IEX,2014Q2,2014-06-30,분기별 당기순이익(지배),71777000,USD,공시,https://www.sec.gov/Archives/edgar/data/832101/000144530514002979/,,23
+IDEX,IEX,2014Q2,2014-06-30,분기별 영업활동현금흐름,91995000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/832101/000144530514002979/ ; https://www.sec.gov/Archives/edgar/data/832101/000144530514001514/,누적 166180000 − 직전누적 74185000 (시작 2014-01-01),23
+IDEX,IEX,2014Q2,2014-06-30,분기말 자산총계,2990997000,USD,공시,https://www.sec.gov/Archives/edgar/data/832101/000144530514002979/,,23
+IDEX,IEX,2014Q2,2014-06-30,분기말 부채총계,1366110000,USD,공시,https://www.sec.gov/Archives/edgar/data/832101/000144530514002979/,,23
+IDEX,IEX,2014Q2,2014-06-30,분기말 총자본(자기자본),1624887000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/832101/000144530514002979/,"StockholdersEquity, MinorityInterest 태그 없음",23
+IDEX,IEX,2014Q2,2014-06-30,분기말 지배지분 자본,1624887000,USD,공시,https://www.sec.gov/Archives/edgar/data/832101/000144530514002979/,,23
+IDEX,IEX,2014Q2,2014-06-30,분기말 종가,80.74,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/IEX?interval=1d&events=splits (2014-06-30),,23
+IDEX,IEX,2014Q2,2014-07-25,분기말 상장주식수,80071953,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/832101/000144530514002979/,dei:EntityCommonStockSharesOutstanding 클래스 합,23
+IDEX,IEX,2014Q2,2014-06-30,분기말 시가총액,6465009485,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/IEX?interval=1d&events=splits (2014-06-30) ; https://www.sec.gov/Archives/edgar/data/832101/000144530514002979/,종가 80.74 × 주식수 80071953,23
+IDEX,IEX,2014Q3,2014-09-30,분기별 매출액,533179000,USD,공시,https://www.sec.gov/Archives/edgar/data/832101/000083210114000009/,,23
+IDEX,IEX,2014Q3,2014-09-30,분기별 영업이익,110847000,USD,공시,https://www.sec.gov/Archives/edgar/data/832101/000083210114000009/,,23
+IDEX,IEX,2014Q3,2014-09-30,분기별 당기순이익(지배),71441000,USD,공시,https://www.sec.gov/Archives/edgar/data/832101/000083210114000009/,,23
+IDEX,IEX,2014Q3,2014-09-30,분기별 영업활동현금흐름,100403000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/832101/000083210114000009/ ; https://www.sec.gov/Archives/edgar/data/832101/000144530514002979/,누적 266583000 − 직전누적 166180000 (시작 2014-01-01),23
+IDEX,IEX,2014Q3,2014-09-30,분기말 자산총계,2939312000,USD,공시,https://www.sec.gov/Archives/edgar/data/832101/000083210114000009/,,23
+IDEX,IEX,2014Q3,2014-09-30,분기말 부채총계,1351412000,USD,공시,https://www.sec.gov/Archives/edgar/data/832101/000083210114000009/,,23
+IDEX,IEX,2014Q3,2014-09-30,분기말 총자본(자기자본),1587900000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/832101/000083210114000009/,"StockholdersEquity, MinorityInterest 태그 없음",23
+IDEX,IEX,2014Q3,2014-09-30,분기말 지배지분 자본,1587900000,USD,공시,https://www.sec.gov/Archives/edgar/data/832101/000083210114000009/,,23
+IDEX,IEX,2014Q3,2014-09-30,분기말 종가,72.37,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/IEX?interval=1d&events=splits (2014-09-30),,23
+IDEX,IEX,2014Q3,2014-10-23,분기말 상장주식수,79396501,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/832101/000083210114000009/,dei:EntityCommonStockSharesOutstanding 클래스 합,23
+IDEX,IEX,2014Q3,2014-09-30,분기말 시가총액,5745924777,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/IEX?interval=1d&events=splits (2014-09-30) ; https://www.sec.gov/Archives/edgar/data/832101/000083210114000009/,종가 72.37 × 주식수 79396501,23
+IDEX,IEX,2014Q4,2014-12-31,분기별 매출액,523899000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/832101/000083210115000009/ ; https://www.sec.gov/Archives/edgar/data/832101/000083210114000009/,연간 2147767000 − 9개월누적 1623868000 (Revenues / 9개월 SalesRevenueNet),23
+IDEX,IEX,2014Q4,2014-12-31,분기별 영업이익,94454000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/832101/000083210115000009/ ; https://www.sec.gov/Archives/edgar/data/832101/000083210114000009/,연간 431224000 − 9개월누적 336770000 (OperatingIncomeLoss),23
+IDEX,IEX,2014Q4,2014-12-31,분기별 당기순이익(지배),61620000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/832101/000083210115000009/ ; https://www.sec.gov/Archives/edgar/data/832101/000083210114000009/,연간 279386000 − 9개월누적 217766000 (NetIncomeLoss),23
+IDEX,IEX,2014Q4,2014-12-31,분기별 영업활동현금흐름,101378000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/832101/000083210115000009/ ; https://www.sec.gov/Archives/edgar/data/832101/000083210114000009/,누적 367961000 − 직전누적 266583000 (시작 2014-01-01),23
+IDEX,IEX,2014Q4,2014-12-31,분기말 자산총계,2903463000,USD,공시(재작성 반영),https://www.sec.gov/Archives/edgar/data/832101/000083210117000016/,원 공시 2908070000 (https://www.sec.gov/Archives/edgar/data/832101/000083210115000009/),23
+IDEX,IEX,2014Q4,2014-12-31,분기말 부채총계,1417012000,USD,공시(재작성 반영),https://www.sec.gov/Archives/edgar/data/832101/000083210116000057/,원 공시 1421619000 (https://www.sec.gov/Archives/edgar/data/832101/000083210115000009/),23
+IDEX,IEX,2014Q4,2014-12-31,분기말 총자본(자기자본),1486451000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/832101/000083210115000009/,"StockholdersEquity, MinorityInterest 태그 없음",23
+IDEX,IEX,2014Q4,2014-12-31,분기말 지배지분 자본,1486451000,USD,공시,https://www.sec.gov/Archives/edgar/data/832101/000083210115000009/,,23
+IDEX,IEX,2014Q4,2014-12-31,분기말 종가,77.84,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/IEX?interval=1d&events=splits (2014-12-31),,23
+IDEX,IEX,2014Q4,2015-02-17,분기말 상장주식수,78232245,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/832101/000083210115000009/,dei:EntityCommonStockSharesOutstanding 클래스 합,23
+IDEX,IEX,2014Q4,2014-12-31,분기말 시가총액,6089597951,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/IEX?interval=1d&events=splits (2014-12-31) ; https://www.sec.gov/Archives/edgar/data/832101/000083210115000009/,종가 77.84 × 주식수 78232245,23
+IDEX,IEX,2015Q1,2015-03-31,분기별 매출액,502198000,USD,공시,https://www.sec.gov/Archives/edgar/data/832101/000083210115000021/,,23
+IDEX,IEX,2015Q1,2015-03-31,분기별 영업이익,101757000,USD,공시,https://www.sec.gov/Archives/edgar/data/832101/000083210115000021/,,23
+IDEX,IEX,2015Q1,2015-03-31,분기별 당기순이익(지배),65954000,USD,공시,https://www.sec.gov/Archives/edgar/data/832101/000083210115000021/,,23
+IDEX,IEX,2015Q1,2015-03-31,분기별 영업활동현금흐름,49404000,USD,공시,https://www.sec.gov/Archives/edgar/data/832101/000083210115000021/,,23
+IDEX,IEX,2015Q1,2015-03-31,분기말 자산총계,2869154000,USD,공시,https://www.sec.gov/Archives/edgar/data/832101/000083210115000021/,,23
+IDEX,IEX,2015Q1,2015-03-31,분기말 부채총계,1418162000,USD,공시,https://www.sec.gov/Archives/edgar/data/832101/000083210115000021/,,23
+IDEX,IEX,2015Q1,2015-03-31,분기말 총자본(자기자본),1450992000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/832101/000083210115000021/,"StockholdersEquity, MinorityInterest 태그 없음",23
+IDEX,IEX,2015Q1,2015-03-31,분기말 지배지분 자본,1450992000,USD,공시,https://www.sec.gov/Archives/edgar/data/832101/000083210115000021/,,23
+IDEX,IEX,2015Q1,2015-03-31,분기말 종가,75.83,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/IEX?interval=1d&events=splits (2015-03-31),,23
+IDEX,IEX,2015Q1,2015-04-22,분기말 상장주식수,77943229,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/832101/000083210115000021/,dei:EntityCommonStockSharesOutstanding 클래스 합,23
+IDEX,IEX,2015Q1,2015-03-31,분기말 시가총액,5910435055,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/IEX?interval=1d&events=splits (2015-03-31) ; https://www.sec.gov/Archives/edgar/data/832101/000083210115000021/,종가 75.83 × 주식수 77943229,23
+IDEX,IEX,2015Q2,2015-06-30,분기별 매출액,514881000,USD,공시,https://www.sec.gov/Archives/edgar/data/832101/000083210115000031/,,23
+IDEX,IEX,2015Q2,2015-06-30,분기별 영업이익,109909000,USD,공시,https://www.sec.gov/Archives/edgar/data/832101/000083210115000031/,,23
+IDEX,IEX,2015Q2,2015-06-30,분기별 당기순이익(지배),69585000,USD,공시,https://www.sec.gov/Archives/edgar/data/832101/000083210115000031/,,23
+IDEX,IEX,2015Q2,2015-06-30,분기별 영업활동현금흐름,99024000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/832101/000083210115000031/ ; https://www.sec.gov/Archives/edgar/data/832101/000083210115000021/,누적 148428000 − 직전누적 49404000 (시작 2015-01-01),23
+IDEX,IEX,2015Q2,2015-06-30,분기말 자산총계,2903358000,USD,공시,https://www.sec.gov/Archives/edgar/data/832101/000083210115000031/,,23
+IDEX,IEX,2015Q2,2015-06-30,분기말 부채총계,1448550000,USD,공시,https://www.sec.gov/Archives/edgar/data/832101/000083210115000031/,,23
+IDEX,IEX,2015Q2,2015-06-30,분기말 총자본(자기자본),1454808000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/832101/000083210115000031/,"StockholdersEquity, MinorityInterest 태그 없음",23
+IDEX,IEX,2015Q2,2015-06-30,분기말 지배지분 자본,1454808000,USD,공시,https://www.sec.gov/Archives/edgar/data/832101/000083210115000031/,,23
+IDEX,IEX,2015Q2,2015-06-30,분기말 종가,78.58,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/IEX?interval=1d&events=splits (2015-06-30),,23
+IDEX,IEX,2015Q2,2015-07-23,분기말 상장주식수,77392051,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/832101/000083210115000031/,dei:EntityCommonStockSharesOutstanding 클래스 합,23
+IDEX,IEX,2015Q2,2015-06-30,분기말 시가총액,6081467368,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/IEX?interval=1d&events=splits (2015-06-30) ; https://www.sec.gov/Archives/edgar/data/832101/000083210115000031/,종가 78.58 × 주식수 77392051,23
+IDEX,IEX,2015Q3,2015-09-30,분기별 매출액,503791000,USD,공시,https://www.sec.gov/Archives/edgar/data/832101/000083210115000039/,,23
+IDEX,IEX,2015Q3,2015-09-30,분기별 영업이익,121813000,USD,공시,https://www.sec.gov/Archives/edgar/data/832101/000083210115000039/,,23
+IDEX,IEX,2015Q3,2015-09-30,분기별 당기순이익(지배),79505000,USD,공시,https://www.sec.gov/Archives/edgar/data/832101/000083210115000039/,,23
+IDEX,IEX,2015Q3,2015-09-30,분기별 영업활동현금흐름,113353000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/832101/000083210115000039/ ; https://www.sec.gov/Archives/edgar/data/832101/000083210115000031/,누적 261781000 − 직전누적 148428000 (시작 2015-01-01),23
+IDEX,IEX,2015Q3,2015-09-30,분기말 자산총계,2870362000,USD,공시,https://www.sec.gov/Archives/edgar/data/832101/000083210115000039/,,23
+IDEX,IEX,2015Q3,2015-09-30,분기말 부채총계,1441769000,USD,공시,https://www.sec.gov/Archives/edgar/data/832101/000083210115000039/,,23
+IDEX,IEX,2015Q3,2015-09-30,분기말 총자본(자기자본),1428593000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/832101/000083210115000039/,"StockholdersEquity, MinorityInterest 태그 없음",23
+IDEX,IEX,2015Q3,2015-09-30,분기말 지배지분 자본,1428593000,USD,공시,https://www.sec.gov/Archives/edgar/data/832101/000083210115000039/,,23
+IDEX,IEX,2015Q3,2015-09-30,분기말 종가,71.3,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/IEX?interval=1d&events=splits (2015-09-30),,23
+IDEX,IEX,2015Q3,2015-10-21,분기말 상장주식수,76518607,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/832101/000083210115000039/,dei:EntityCommonStockSharesOutstanding 클래스 합,23
+IDEX,IEX,2015Q3,2015-09-30,분기말 시가총액,5455776679,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/IEX?interval=1d&events=splits (2015-09-30) ; https://www.sec.gov/Archives/edgar/data/832101/000083210115000039/,종가 71.3 × 주식수 76518607,23
+IDEX,IEX,2015Q4,2015-12-31,분기별 매출액,499798000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/832101/000083210116000057/ ; https://www.sec.gov/Archives/edgar/data/832101/000083210115000039/,연간 2020668000 − 9개월누적 1520870000 (Revenues / 9개월 SalesRevenueNet),23
+IDEX,IEX,2015Q4,2015-12-31,분기별 영업이익,103511000,USD,계산(연간-3분기누적)(재작성 반영),https://www.sec.gov/Archives/edgar/data/832101/000083210118000019/ ; https://www.sec.gov/Archives/edgar/data/832101/000083210115000039/,연간 436990000 − 9개월누적 333479000 (OperatingIncomeLoss) ; 원 공시 98259000 (https://www.sec.gov/Archives/edgar/data/832101/000083210116000057/ ; https://www.sec.gov/Archives/edgar/data/832101/000083210115000039/),23
+IDEX,IEX,2015Q4,2015-12-31,분기별 당기순이익(지배),67763000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/832101/000083210116000057/ ; https://www.sec.gov/Archives/edgar/data/832101/000083210115000039/,연간 282807000 − 9개월누적 215044000 (NetIncomeLoss),23
+IDEX,IEX,2015Q4,2015-12-31,분기별 영업활동현금흐름,98540000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/832101/000083210116000057/ ; https://www.sec.gov/Archives/edgar/data/832101/000083210115000039/,누적 360321000 − 직전누적 261781000 (시작 2015-01-01),23
+IDEX,IEX,2015Q4,2015-12-31,분기말 자산총계,2805443000,USD,공시,https://www.sec.gov/Archives/edgar/data/832101/000083210116000057/,,23
+IDEX,IEX,2015Q4,2015-12-31,분기말 부채총계,1362152000,USD,공시,https://www.sec.gov/Archives/edgar/data/832101/000083210116000057/,,23
+IDEX,IEX,2015Q4,2015-12-31,분기말 총자본(자기자본),1443291000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/832101/000083210116000057/,"StockholdersEquity, MinorityInterest 태그 없음",23
+IDEX,IEX,2015Q4,2015-12-31,분기말 지배지분 자본,1443291000,USD,공시,https://www.sec.gov/Archives/edgar/data/832101/000083210116000057/,,23
+IDEX,IEX,2015Q4,2015-12-31,분기말 종가,76.61,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/IEX?interval=1d&events=splits (2015-12-31),,23
+IDEX,IEX,2015Q4,2016-02-16,분기말 상장주식수,75929397,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/832101/000083210116000057/,dei:EntityCommonStockSharesOutstanding 클래스 합,23
+IDEX,IEX,2015Q4,2015-12-31,분기말 시가총액,5816951104,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/IEX?interval=1d&events=splits (2015-12-31) ; https://www.sec.gov/Archives/edgar/data/832101/000083210116000057/,종가 76.61 × 주식수 75929397,23
+IDEX,IEX,2016Q1,2016-03-31,분기별 매출액,502572000,USD,공시,https://www.sec.gov/Archives/edgar/data/832101/000083210116000067/,,23
+IDEX,IEX,2016Q1,2016-03-31,분기별 영업이익,103345000,USD,공시(재작성 반영),https://www.sec.gov/Archives/edgar/data/832101/000083210118000019/,원 공시 102557000 (https://www.sec.gov/Archives/edgar/data/832101/000083210116000067/),23
+IDEX,IEX,2016Q1,2016-03-31,분기별 당기순이익(지배),68130000,USD,공시,https://www.sec.gov/Archives/edgar/data/832101/000083210116000067/,,23
+IDEX,IEX,2016Q1,2016-03-31,분기별 영업활동현금흐름,70365000,USD,공시,https://www.sec.gov/Archives/edgar/data/832101/000083210116000067/,,23
+IDEX,IEX,2016Q1,2016-03-31,분기말 자산총계,3142298000,USD,공시,https://www.sec.gov/Archives/edgar/data/832101/000083210116000067/,,23
+IDEX,IEX,2016Q1,2016-03-31,분기말 부채총계,1649388000,USD,공시,https://www.sec.gov/Archives/edgar/data/832101/000083210116000067/,,23
+IDEX,IEX,2016Q1,2016-03-31,분기말 총자본(자기자본),1492910000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/832101/000083210116000067/,"StockholdersEquity, MinorityInterest 태그 없음",23
+IDEX,IEX,2016Q1,2016-03-31,분기말 지배지분 자본,1492910000,USD,공시,https://www.sec.gov/Archives/edgar/data/832101/000083210116000067/,,23
+IDEX,IEX,2016Q1,2016-03-31,분기말 종가,82.88,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/IEX?interval=1d&events=splits (2016-03-31),,23
+IDEX,IEX,2016Q1,2016-04-20,분기말 상장주식수,75900965,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/832101/000083210116000067/,dei:EntityCommonStockSharesOutstanding 클래스 합,23
+IDEX,IEX,2016Q1,2016-03-31,분기말 시가총액,6290671979,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/IEX?interval=1d&events=splits (2016-03-31) ; https://www.sec.gov/Archives/edgar/data/832101/000083210116000067/,종가 82.88 × 주식수 75900965,23
+IDEX,IEX,2016Q2,2016-06-30,분기별 매출액,549696000,USD,공시,https://www.sec.gov/Archives/edgar/data/832101/000083210116000085/,,23
+IDEX,IEX,2016Q2,2016-06-30,분기별 영업이익,113823000,USD,공시(재작성 반영),https://www.sec.gov/Archives/edgar/data/832101/000083210118000019/,원 공시 112976000 (https://www.sec.gov/Archives/edgar/data/832101/000083210116000085/),23
+IDEX,IEX,2016Q2,2016-06-30,분기별 당기순이익(지배),75759000,USD,공시,https://www.sec.gov/Archives/edgar/data/832101/000083210116000085/,,23
+IDEX,IEX,2016Q2,2016-06-30,분기별 영업활동현금흐름,88478000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/832101/000083210116000085/ ; https://www.sec.gov/Archives/edgar/data/832101/000083210116000067/,누적 158843000 − 직전누적 70365000 (시작 2016-01-01),23
+IDEX,IEX,2016Q2,2016-06-30,분기말 자산총계,3109356000,USD,공시,https://www.sec.gov/Archives/edgar/data/832101/000083210116000085/,,23
+IDEX,IEX,2016Q2,2016-06-30,분기말 부채총계,1612426000,USD,공시,https://www.sec.gov/Archives/edgar/data/832101/000083210116000085/,,23
+IDEX,IEX,2016Q2,2016-06-30,분기말 총자본(자기자본),1496930000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/832101/000083210116000085/,"StockholdersEquity, MinorityInterest 태그 없음",23
+IDEX,IEX,2016Q2,2016-06-30,분기말 지배지분 자본,1496930000,USD,공시,https://www.sec.gov/Archives/edgar/data/832101/000083210116000085/,,23
+IDEX,IEX,2016Q2,2016-06-30,분기말 종가,82.1,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/IEX?interval=1d&events=splits (2016-06-30),,23
+IDEX,IEX,2016Q2,2016-07-28,분기말 상장주식수,76130884,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/832101/000083210116000085/,dei:EntityCommonStockSharesOutstanding 클래스 합,23
+IDEX,IEX,2016Q2,2016-06-30,분기말 시가총액,6250345576,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/IEX?interval=1d&events=splits (2016-06-30) ; https://www.sec.gov/Archives/edgar/data/832101/000083210116000085/,종가 82.1 × 주식수 76130884,23
+IDEX,IEX,2016Q3,2016-09-30,분기별 매출액,530356000,USD,공시,https://www.sec.gov/Archives/edgar/data/832101/000083210116000093/,,23
+IDEX,IEX,2016Q3,2016-09-30,분기별 영업이익,109708000,USD,공시(재작성 반영),https://www.sec.gov/Archives/edgar/data/832101/000083210118000019/,원 공시 108857000 (https://www.sec.gov/Archives/edgar/data/832101/000083210116000093/),23
+IDEX,IEX,2016Q3,2016-09-30,분기별 당기순이익(지배),69873000,USD,공시,https://www.sec.gov/Archives/edgar/data/832101/000083210116000093/,,23
+IDEX,IEX,2016Q3,2016-09-30,분기별 영업활동현금흐름,125481000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/832101/000083210116000093/ ; https://www.sec.gov/Archives/edgar/data/832101/000083210116000085/,누적 284324000 − 직전누적 158843000 (시작 2016-01-01),23
+IDEX,IEX,2016Q3,2016-09-30,분기말 자산총계,3262464000,USD,공시,https://www.sec.gov/Archives/edgar/data/832101/000083210116000093/,,23
+IDEX,IEX,2016Q3,2016-09-30,분기말 부채총계,1707721000,USD,공시,https://www.sec.gov/Archives/edgar/data/832101/000083210116000093/,,23
+IDEX,IEX,2016Q3,2016-09-30,분기말 총자본(자기자본),1554743000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/832101/000083210116000093/,"StockholdersEquity, MinorityInterest 태그 없음",23
+IDEX,IEX,2016Q3,2016-09-30,분기말 지배지분 자본,1554743000,USD,공시,https://www.sec.gov/Archives/edgar/data/832101/000083210116000093/,,23
+IDEX,IEX,2016Q3,2016-09-30,분기말 종가,93.57,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/IEX?interval=1d&events=splits (2016-09-30),,23
+IDEX,IEX,2016Q3,2016-10-18,분기말 상장주식수,76242245,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/832101/000083210116000093/,dei:EntityCommonStockSharesOutstanding 클래스 합,23
+IDEX,IEX,2016Q3,2016-09-30,분기말 시가총액,7133986865,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/IEX?interval=1d&events=splits (2016-09-30) ; https://www.sec.gov/Archives/edgar/data/832101/000083210116000093/,종가 93.57 × 주식수 76242245,23
+IDEX,IEX,2016Q4,2016-12-31,분기별 매출액,530419000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/832101/000083210117000016/ ; https://www.sec.gov/Archives/edgar/data/832101/000083210116000093/,연간 2113043000 − 9개월누적 1582624000 (Revenues / 9개월 SalesRevenueNet),23
+IDEX,IEX,2016Q4,2016-12-31,분기별 영업이익,88007000,USD,계산(연간-3분기누적)(재작성 반영),https://www.sec.gov/Archives/edgar/data/832101/000083210119000005/ ; https://www.sec.gov/Archives/edgar/data/832101/000083210116000093/,연간 412397000 − 9개월누적 324390000 (OperatingIncomeLoss) ; 원 공시 81411000 (https://www.sec.gov/Archives/edgar/data/832101/000083210117000016/ ; https://www.sec.gov/Archives/edgar/data/832101/000083210116000093/),23
+IDEX,IEX,2016Q4,2016-12-31,분기별 당기순이익(지배),57347000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/832101/000083210117000016/ ; https://www.sec.gov/Archives/edgar/data/832101/000083210116000093/,연간 271109000 − 9개월누적 213762000 (NetIncomeLoss),23
+IDEX,IEX,2016Q4,2016-12-31,분기별 영업활동현금흐름,115593000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/832101/000083210117000016/ ; https://www.sec.gov/Archives/edgar/data/832101/000083210116000093/,누적 399917000 − 직전누적 284324000 (시작 2016-01-01),23
+IDEX,IEX,2016Q4,2016-12-31,분기말 자산총계,3154944000,USD,공시,https://www.sec.gov/Archives/edgar/data/832101/000083210117000016/,,23
+IDEX,IEX,2016Q4,2016-12-31,분기말 부채총계,1611050000,USD,공시,https://www.sec.gov/Archives/edgar/data/832101/000083210117000016/,,23
+IDEX,IEX,2016Q4,2016-12-31,분기말 총자본(자기자본),1543894000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/832101/000083210117000016/,"StockholdersEquity, MinorityInterest 태그 없음",23
+IDEX,IEX,2016Q4,2016-12-31,분기말 지배지분 자본,1543894000,USD,공시,https://www.sec.gov/Archives/edgar/data/832101/000083210117000016/,,23
+IDEX,IEX,2016Q4,2016-12-30,분기말 종가,90.06,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/IEX?interval=1d&events=splits (2016-12-30),,23
+IDEX,IEX,2016Q4,2017-02-14,분기말 상장주식수,76248604,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/832101/000083210117000016/,dei:EntityCommonStockSharesOutstanding 클래스 합,23
+IDEX,IEX,2016Q4,2016-12-30,분기말 시가총액,6866949276,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/IEX?interval=1d&events=splits (2016-12-30) ; https://www.sec.gov/Archives/edgar/data/832101/000083210117000016/,종가 90.06 × 주식수 76248604,23
+IDEX,IEX,2017Q1,2017-03-31,분기별 매출액,553552000,USD,공시,https://www.sec.gov/Archives/edgar/data/832101/000083210117000027/,,23
+IDEX,IEX,2017Q1,2017-03-31,분기별 영업이익,115671000,USD,공시,https://www.sec.gov/Archives/edgar/data/832101/000083210117000027/,,23
+IDEX,IEX,2017Q1,2017-03-31,분기별 당기순이익(지배),75899000,USD,공시,https://www.sec.gov/Archives/edgar/data/832101/000083210117000027/,,23
+IDEX,IEX,2017Q1,2017-03-31,분기별 영업활동현금흐름,84979000,USD,공시,https://www.sec.gov/Archives/edgar/data/832101/000083210117000027/,,23
+IDEX,IEX,2017Q1,2017-03-31,분기말 자산총계,3163785000,USD,공시,https://www.sec.gov/Archives/edgar/data/832101/000083210117000027/,,23
+IDEX,IEX,2017Q1,2017-03-31,분기말 부채총계,1522480000,USD,공시,https://www.sec.gov/Archives/edgar/data/832101/000083210117000027/,,23
+IDEX,IEX,2017Q1,2017-03-31,분기말 총자본(자기자본),1641305000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/832101/000083210117000027/,"StockholdersEquity, MinorityInterest 태그 없음",23
+IDEX,IEX,2017Q1,2017-03-31,분기말 지배지분 자본,1641305000,USD,공시,https://www.sec.gov/Archives/edgar/data/832101/000083210117000027/,,23
+IDEX,IEX,2017Q1,2017-03-31,분기말 종가,93.51,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/IEX?interval=1d&events=splits (2017-03-31),,23
+IDEX,IEX,2017Q1,2017-04-19,분기말 상장주식수,76307919,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/832101/000083210117000027/,dei:EntityCommonStockSharesOutstanding 클래스 합,23
+IDEX,IEX,2017Q1,2017-03-31,분기말 시가총액,7135553506,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/IEX?interval=1d&events=splits (2017-03-31) ; https://www.sec.gov/Archives/edgar/data/832101/000083210117000027/,종가 93.51 × 주식수 76307919,23
+IDEX,IEX,2017Q2,2017-06-30,분기별 매출액,573366000,USD,공시,https://www.sec.gov/Archives/edgar/data/832101/000083210117000037/,,23
+IDEX,IEX,2017Q2,2017-06-30,분기별 영업이익,125133000,USD,공시,https://www.sec.gov/Archives/edgar/data/832101/000083210117000037/,,23
+IDEX,IEX,2017Q2,2017-06-30,분기별 당기순이익(지배),83844000,USD,공시,https://www.sec.gov/Archives/edgar/data/832101/000083210117000037/,,23
+IDEX,IEX,2017Q2,2017-06-30,분기별 영업활동현금흐름,87601000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/832101/000083210117000037/ ; https://www.sec.gov/Archives/edgar/data/832101/000083210117000027/,누적 172580000 − 직전누적 84979000 (시작 2017-01-01),23
+IDEX,IEX,2017Q2,2017-06-30,분기말 자산총계,3224165000,USD,공시,https://www.sec.gov/Archives/edgar/data/832101/000083210117000037/,,23
+IDEX,IEX,2017Q2,2017-06-30,분기말 부채총계,1497154000,USD,공시,https://www.sec.gov/Archives/edgar/data/832101/000083210117000037/,,23
+IDEX,IEX,2017Q2,2017-06-30,분기말 총자본(자기자본),1727011000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/832101/000083210117000037/,"StockholdersEquity, MinorityInterest 태그 없음",23
+IDEX,IEX,2017Q2,2017-06-30,분기말 지배지분 자본,1727011000,USD,공시,https://www.sec.gov/Archives/edgar/data/832101/000083210117000037/,,23
+IDEX,IEX,2017Q2,2017-06-30,분기말 종가,113.01,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/IEX?interval=1d&events=splits (2017-06-30),,23
+IDEX,IEX,2017Q2,2017-07-19,분기말 상장주식수,76425918,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/832101/000083210117000037/,dei:EntityCommonStockSharesOutstanding 클래스 합,23
+IDEX,IEX,2017Q2,2017-06-30,분기말 시가총액,8636892993,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/IEX?interval=1d&events=splits (2017-06-30) ; https://www.sec.gov/Archives/edgar/data/832101/000083210117000037/,종가 113.01 × 주식수 76425918,23
+IDEX,IEX,2017Q3,2017-09-30,분기별 매출액,574490000,USD,공시,https://www.sec.gov/Archives/edgar/data/832101/000083210117000051/,,23
+IDEX,IEX,2017Q3,2017-09-30,분기별 영업이익,126504000,USD,공시,https://www.sec.gov/Archives/edgar/data/832101/000083210117000051/,,23
+IDEX,IEX,2017Q3,2017-09-30,분기별 당기순이익(지배),83768000,USD,공시,https://www.sec.gov/Archives/edgar/data/832101/000083210117000051/,,23
+IDEX,IEX,2017Q3,2017-09-30,분기별 영업활동현금흐름,124000000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/832101/000083210117000051/ ; https://www.sec.gov/Archives/edgar/data/832101/000083210117000037/,누적 296580000 − 직전누적 172580000 (시작 2017-01-01),23
+IDEX,IEX,2017Q3,2017-09-30,분기말 자산총계,3317761000,USD,공시,https://www.sec.gov/Archives/edgar/data/832101/000083210117000051/,,23
+IDEX,IEX,2017Q3,2017-09-30,분기말 부채총계,1507449000,USD,공시,https://www.sec.gov/Archives/edgar/data/832101/000083210117000051/,,23
+IDEX,IEX,2017Q3,2017-09-30,분기말 총자본(자기자본),1810312000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/832101/000083210117000051/,"StockholdersEquity, MinorityInterest 태그 없음",23
+IDEX,IEX,2017Q3,2017-09-30,분기말 지배지분 자본,1810312000,USD,공시,https://www.sec.gov/Archives/edgar/data/832101/000083210117000051/,,23
+IDEX,IEX,2017Q3,2017-09-29,분기말 종가,121.47,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/IEX?interval=1d&events=splits (2017-09-29),,23
+IDEX,IEX,2017Q3,2017-10-19,분기말 상장주식수,76401845,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/832101/000083210117000051/,dei:EntityCommonStockSharesOutstanding 클래스 합,23
+IDEX,IEX,2017Q3,2017-09-29,분기말 시가총액,9280532112,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/IEX?interval=1d&events=splits (2017-09-29) ; https://www.sec.gov/Archives/edgar/data/832101/000083210117000051/,종가 121.47 × 주식수 76401845,23
+IDEX,IEX,2017Q4,2017-12-31,분기별 매출액,585904000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/832101/000083210118000019/ ; https://www.sec.gov/Archives/edgar/data/832101/000083210117000051/,연간 2287312000 − 9개월누적 1701408000 (Revenues),23
+IDEX,IEX,2017Q4,2017-12-31,분기별 영업이익,135248000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/832101/000083210118000019/ ; https://www.sec.gov/Archives/edgar/data/832101/000083210117000051/,연간 502556000 − 9개월누적 367308000 (OperatingIncomeLoss),23
+IDEX,IEX,2017Q4,2017-12-31,분기별 당기순이익(지배),93746000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/832101/000083210118000019/ ; https://www.sec.gov/Archives/edgar/data/832101/000083210117000051/,연간 337257000 − 9개월누적 243511000 (NetIncomeLoss),23
+IDEX,IEX,2017Q4,2017-12-31,분기별 영업활동현금흐름,136173000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/832101/000083210118000019/ ; https://www.sec.gov/Archives/edgar/data/832101/000083210117000051/,누적 432753000 − 직전누적 296580000 (시작 2017-01-01),23
+IDEX,IEX,2017Q4,2017-12-31,분기말 자산총계,3399628000,USD,공시,https://www.sec.gov/Archives/edgar/data/832101/000083210118000019/,,23
+IDEX,IEX,2017Q4,2017-12-31,분기말 부채총계,1513086000,USD,공시,https://www.sec.gov/Archives/edgar/data/832101/000083210118000019/,,23
+IDEX,IEX,2017Q4,2017-12-31,분기말 총자본(자기자본),1886542000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/832101/000083210118000019/,"StockholdersEquity, MinorityInterest 태그 없음",23
+IDEX,IEX,2017Q4,2017-12-31,분기말 지배지분 자본,1886542000,USD,공시,https://www.sec.gov/Archives/edgar/data/832101/000083210118000019/,,23
+IDEX,IEX,2017Q4,2017-12-29,분기말 종가,131.97,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/IEX?interval=1d&events=splits (2017-12-29),,23
+IDEX,IEX,2017Q4,2018-02-14,분기말 상장주식수,76535263,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/832101/000083210118000019/,dei:EntityCommonStockSharesOutstanding 클래스 합,23
+IDEX,IEX,2017Q4,2017-12-29,분기말 시가총액,10100358658,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/IEX?interval=1d&events=splits (2017-12-29) ; https://www.sec.gov/Archives/edgar/data/832101/000083210118000019/,종가 131.97 × 주식수 76535263,23
+IDEX,IEX,2018Q1,2018-03-31,분기별 매출액,612324000,USD,공시,https://www.sec.gov/Archives/edgar/data/832101/000083210118000027/,,23
+IDEX,IEX,2018Q1,2018-03-31,분기별 영업이익,136683000,USD,공시,https://www.sec.gov/Archives/edgar/data/832101/000083210118000027/,,23
+IDEX,IEX,2018Q1,2018-03-31,분기별 당기순이익(지배),98958000,USD,공시,https://www.sec.gov/Archives/edgar/data/832101/000083210118000027/,,23
+IDEX,IEX,2018Q1,2018-03-31,분기별 영업활동현금흐름,71729000,USD,공시,https://www.sec.gov/Archives/edgar/data/832101/000083210118000027/,,23
+IDEX,IEX,2018Q1,2018-03-31,분기말 자산총계,3485459000,USD,공시,https://www.sec.gov/Archives/edgar/data/832101/000083210118000027/,,23
+IDEX,IEX,2018Q1,2018-03-31,분기말 부채총계,1468574000,USD,공시,https://www.sec.gov/Archives/edgar/data/832101/000083210118000027/,,23
+IDEX,IEX,2018Q1,2018-03-31,분기말 총자본(자기자본),2016885000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/832101/000083210118000027/,"StockholdersEquity, MinorityInterest 태그 없음",23
+IDEX,IEX,2018Q1,2018-03-31,분기말 지배지분 자본,2016885000,USD,공시,https://www.sec.gov/Archives/edgar/data/832101/000083210118000027/,,23
+IDEX,IEX,2018Q1,2018-03-29,분기말 종가,142.51,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/IEX?interval=1d&events=splits (2018-03-29),,23
+IDEX,IEX,2018Q1,2018-04-24,분기말 상장주식수,76718262,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/832101/000083210118000027/,dei:EntityCommonStockSharesOutstanding 클래스 합,23
+IDEX,IEX,2018Q1,2018-03-29,분기말 시가총액,10933119518,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/IEX?interval=1d&events=splits (2018-03-29) ; https://www.sec.gov/Archives/edgar/data/832101/000083210118000027/,종가 142.51 × 주식수 76718262,23
+IDEX,IEX,2018Q2,2018-06-30,분기별 매출액,634360000,USD,공시,https://www.sec.gov/Archives/edgar/data/832101/000083210118000037/,,23
+IDEX,IEX,2018Q2,2018-06-30,분기별 영업이익,147831000,USD,공시,https://www.sec.gov/Archives/edgar/data/832101/000083210118000037/,,23
+IDEX,IEX,2018Q2,2018-06-30,분기별 당기순이익(지배),107126000,USD,공시,https://www.sec.gov/Archives/edgar/data/832101/000083210118000037/,,23
+IDEX,IEX,2018Q2,2018-06-30,분기별 영업활동현금흐름,120697000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/832101/000083210118000037/ ; https://www.sec.gov/Archives/edgar/data/832101/000083210118000027/,누적 192426000 − 직전누적 71729000 (시작 2018-01-01),23
+IDEX,IEX,2018Q2,2018-06-30,분기말 자산총계,3483458000,USD,공시,https://www.sec.gov/Archives/edgar/data/832101/000083210118000037/,,23
+IDEX,IEX,2018Q2,2018-06-30,분기말 부채총계,1494307000,USD,공시,https://www.sec.gov/Archives/edgar/data/832101/000083210118000037/,,23
+IDEX,IEX,2018Q2,2018-06-30,분기말 총자본(자기자본),1989151000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/832101/000083210118000037/,"StockholdersEquity, MinorityInterest 태그 없음",23
+IDEX,IEX,2018Q2,2018-06-30,분기말 지배지분 자본,1989151000,USD,공시,https://www.sec.gov/Archives/edgar/data/832101/000083210118000037/,,23
+IDEX,IEX,2018Q2,2018-06-29,분기말 종가,136.48,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/IEX?interval=1d&events=splits (2018-06-29),,23
+IDEX,IEX,2018Q2,2018-07-23,분기말 상장주식수,76680296,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/832101/000083210118000037/,dei:EntityCommonStockSharesOutstanding 클래스 합,23
+IDEX,IEX,2018Q2,2018-06-29,분기말 시가총액,10465326798,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/IEX?interval=1d&events=splits (2018-06-29) ; https://www.sec.gov/Archives/edgar/data/832101/000083210118000037/,종가 136.48 × 주식수 76680296,23
+IDEX,IEX,2018Q3,2018-09-30,분기별 매출액,622888000,USD,공시,https://www.sec.gov/Archives/edgar/data/832101/000083210118000045/,,23
+IDEX,IEX,2018Q3,2018-09-30,분기별 영업이익,145133000,USD,공시,https://www.sec.gov/Archives/edgar/data/832101/000083210118000045/,,23
+IDEX,IEX,2018Q3,2018-09-30,분기별 당기순이익(지배),106352000,USD,공시,https://www.sec.gov/Archives/edgar/data/832101/000083210118000045/,,23
+IDEX,IEX,2018Q3,2018-09-30,분기별 영업활동현금흐름,133327000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/832101/000083210118000045/ ; https://www.sec.gov/Archives/edgar/data/832101/000083210118000037/,누적 325753000 − 직전누적 192426000 (시작 2018-01-01),23
+IDEX,IEX,2018Q3,2018-09-30,분기말 자산총계,3554807000,USD,공시,https://www.sec.gov/Archives/edgar/data/832101/000083210118000045/,,23
+IDEX,IEX,2018Q3,2018-09-30,분기말 부채총계,1494233000,USD,공시,https://www.sec.gov/Archives/edgar/data/832101/000083210118000045/,,23
+IDEX,IEX,2018Q3,2018-09-30,분기말 총자본(자기자본),2060574000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/832101/000083210118000045/,"StockholdersEquity, MinorityInterest 태그 없음",23
+IDEX,IEX,2018Q3,2018-09-30,분기말 지배지분 자본,2060574000,USD,공시,https://www.sec.gov/Archives/edgar/data/832101/000083210118000045/,,23
+IDEX,IEX,2018Q3,2018-09-28,분기말 종가,150.66,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/IEX?interval=1d&events=splits (2018-09-28),,23
+IDEX,IEX,2018Q3,2018-10-22,분기말 상장주식수,76709717,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/832101/000083210118000045/,dei:EntityCommonStockSharesOutstanding 클래스 합,23
+IDEX,IEX,2018Q3,2018-09-28,분기말 시가총액,11557085963,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/IEX?interval=1d&events=splits (2018-09-28) ; https://www.sec.gov/Archives/edgar/data/832101/000083210118000045/,종가 150.66 × 주식수 76709717,23
+IDEX,IEX,2018Q4,2018-12-31,분기별 매출액,614094000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/832101/000083210119000005/ ; https://www.sec.gov/Archives/edgar/data/832101/000083210118000045/,연간 2483666000 − 9개월누적 1869572000 (Revenues),23
+IDEX,IEX,2018Q4,2018-12-31,분기별 영업이익,139441000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/832101/000083210119000005/ ; https://www.sec.gov/Archives/edgar/data/832101/000083210118000045/,연간 569088000 − 9개월누적 429647000 (OperatingIncomeLoss),23
+IDEX,IEX,2018Q4,2018-12-31,분기별 당기순이익(지배),98137000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/832101/000083210119000005/ ; https://www.sec.gov/Archives/edgar/data/832101/000083210118000045/,연간 410573000 − 9개월누적 312436000 (NetIncomeLoss),23
+IDEX,IEX,2018Q4,2018-12-31,분기별 영업활동현금흐름,153592000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/832101/000083210119000005/ ; https://www.sec.gov/Archives/edgar/data/832101/000083210118000045/,누적 479345000 − 직전누적 325753000 (시작 2018-01-01),23
+IDEX,IEX,2018Q4,2018-12-31,분기말 자산총계,3473857000,USD,공시,https://www.sec.gov/Archives/edgar/data/832101/000083210119000005/,,23
+IDEX,IEX,2018Q4,2018-12-31,분기말 부채총계,1479217000,USD,공시,https://www.sec.gov/Archives/edgar/data/832101/000083210119000005/,,23
+IDEX,IEX,2018Q4,2018-12-31,분기말 총자본(자기자본),1994640000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/832101/000083210119000005/,"StockholdersEquity, MinorityInterest 태그 없음",23
+IDEX,IEX,2018Q4,2018-12-31,분기말 지배지분 자본,1994640000,USD,공시,https://www.sec.gov/Archives/edgar/data/832101/000083210119000005/,,23
+IDEX,IEX,2018Q4,2018-12-31,분기말 종가,126.26,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/IEX?interval=1d&events=splits (2018-12-31),,23
+IDEX,IEX,2018Q4,2019-02-15,분기말 상장주식수,75792814,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/832101/000083210119000005/,dei:EntityCommonStockSharesOutstanding 클래스 합,23
+IDEX,IEX,2018Q4,2018-12-31,분기말 시가총액,9569600696,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/IEX?interval=1d&events=splits (2018-12-31) ; https://www.sec.gov/Archives/edgar/data/832101/000083210119000005/,종가 126.26 × 주식수 75792814,23
+IDEX,IEX,2019Q1,2019-03-31,분기별 매출액,622231000,USD,공시,https://www.sec.gov/Archives/edgar/data/832101/000083210119000010/,,23
+IDEX,IEX,2019Q1,2019-03-31,분기별 영업이익,147782000,USD,공시,https://www.sec.gov/Archives/edgar/data/832101/000083210119000010/,,23
+IDEX,IEX,2019Q1,2019-03-31,분기별 당기순이익(지배),110268000,USD,공시,https://www.sec.gov/Archives/edgar/data/832101/000083210119000010/,,23
+IDEX,IEX,2019Q1,2019-03-31,분기별 영업활동현금흐름,88663000,USD,공시,https://www.sec.gov/Archives/edgar/data/832101/000083210119000010/,,23
+IDEX,IEX,2019Q1,2019-03-31,분기말 자산총계,3551460000,USD,공시,https://www.sec.gov/Archives/edgar/data/832101/000083210119000010/,,23
+IDEX,IEX,2019Q1,2019-03-31,분기말 부채총계,1496228000,USD,공시,https://www.sec.gov/Archives/edgar/data/832101/000083210119000010/,,23
+IDEX,IEX,2019Q1,2019-03-31,분기말 총자본(자기자본),2055232000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/832101/000083210119000010/,"StockholdersEquity, MinorityInterest 태그 없음",23
+IDEX,IEX,2019Q1,2019-03-31,분기말 지배지분 자본,2055232000,USD,공시,https://www.sec.gov/Archives/edgar/data/832101/000083210119000010/,,23
+IDEX,IEX,2019Q1,2019-03-29,분기말 종가,151.74,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/IEX?interval=1d&events=splits (2019-03-29),,23
+IDEX,IEX,2019Q1,2019-04-23,분기말 상장주식수,75707118,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/832101/000083210119000010/,dei:EntityCommonStockSharesOutstanding 클래스 합,23
+IDEX,IEX,2019Q1,2019-03-29,분기말 시가총액,11487798085,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/IEX?interval=1d&events=splits (2019-03-29) ; https://www.sec.gov/Archives/edgar/data/832101/000083210119000010/,종가 151.74 × 주식수 75707118,23
+IDEX,IEX,2019Q2,2019-06-30,분기별 매출액,642099000,USD,공시,https://www.sec.gov/Archives/edgar/data/832101/000083210119000024/,,23
+IDEX,IEX,2019Q2,2019-06-30,분기별 영업이익,155283000,USD,공시,https://www.sec.gov/Archives/edgar/data/832101/000083210119000024/,,23
+IDEX,IEX,2019Q2,2019-06-30,분기별 당기순이익(지배),113209000,USD,공시,https://www.sec.gov/Archives/edgar/data/832101/000083210119000024/,,23
+IDEX,IEX,2019Q2,2019-06-30,분기별 영업활동현금흐름,131175000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/832101/000083210119000024/ ; https://www.sec.gov/Archives/edgar/data/832101/000083210119000010/,누적 219838000 − 직전누적 88663000 (시작 2019-01-01),23
+IDEX,IEX,2019Q2,2019-06-30,분기말 자산총계,3640215000,USD,공시,https://www.sec.gov/Archives/edgar/data/832101/000083210119000024/,,23
+IDEX,IEX,2019Q2,2019-06-30,분기말 부채총계,1528174000,USD,공시,https://www.sec.gov/Archives/edgar/data/832101/000083210119000024/,,23
+IDEX,IEX,2019Q2,2019-06-30,분기말 총자본(자기자본),2112041000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/832101/000083210119000024/,"StockholdersEquity, MinorityInterest 태그 없음",23
+IDEX,IEX,2019Q2,2019-06-30,분기말 지배지분 자본,2112041000,USD,공시,https://www.sec.gov/Archives/edgar/data/832101/000083210119000024/,,23
+IDEX,IEX,2019Q2,2019-06-28,분기말 종가,172.14,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/IEX?interval=1d&events=splits (2019-06-28),,23
+IDEX,IEX,2019Q2,2019-07-23,분기말 상장주식수,75847167,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/832101/000083210119000024/,dei:EntityCommonStockSharesOutstanding 클래스 합,23
+IDEX,IEX,2019Q2,2019-06-28,분기말 시가총액,13056331327,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/IEX?interval=1d&events=splits (2019-06-28) ; https://www.sec.gov/Archives/edgar/data/832101/000083210119000024/,종가 172.14 × 주식수 75847167,23
+IDEX,IEX,2019Q3,2019-09-30,분기별 매출액,624246000,USD,공시,https://www.sec.gov/Archives/edgar/data/832101/000083210119000031/,,23
+IDEX,IEX,2019Q3,2019-09-30,분기별 영업이익,141765000,USD,공시,https://www.sec.gov/Archives/edgar/data/832101/000083210119000031/,,23
+IDEX,IEX,2019Q3,2019-09-30,분기별 당기순이익(지배),105194000,USD,공시,https://www.sec.gov/Archives/edgar/data/832101/000083210119000031/,,23
+IDEX,IEX,2019Q3,2019-09-30,분기별 영업활동현금흐름,157064000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/832101/000083210119000031/ ; https://www.sec.gov/Archives/edgar/data/832101/000083210119000024/,누적 376902000 − 직전누적 219838000 (시작 2019-01-01),23
+IDEX,IEX,2019Q3,2019-09-30,분기말 자산총계,3713895000,USD,공시,https://www.sec.gov/Archives/edgar/data/832101/000083210119000031/,,23
+IDEX,IEX,2019Q3,2019-09-30,분기말 부채총계,1550842000,USD,공시,https://www.sec.gov/Archives/edgar/data/832101/000083210119000031/,,23
+IDEX,IEX,2019Q3,2019-09-30,분기말 총자본(자기자본),2163053000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/832101/000083210119000031/,"StockholdersEquity, MinorityInterest 태그 없음",23
+IDEX,IEX,2019Q3,2019-09-30,분기말 지배지분 자본,2163053000,USD,공시,https://www.sec.gov/Archives/edgar/data/832101/000083210119000031/,,23
+IDEX,IEX,2019Q3,2019-09-30,분기말 종가,163.88,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/IEX?interval=1d&events=splits (2019-09-30),,23
+IDEX,IEX,2019Q3,2019-10-23,분기말 상장주식수,76059867,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/832101/000083210119000031/,dei:EntityCommonStockSharesOutstanding 클래스 합,23
+IDEX,IEX,2019Q3,2019-09-30,분기말 시가총액,12464691004,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/IEX?interval=1d&events=splits (2019-09-30) ; https://www.sec.gov/Archives/edgar/data/832101/000083210119000031/,종가 163.88 × 주식수 76059867,23
+IDEX,IEX,2019Q4,2019-12-31,분기별 매출액,605997000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/832101/000083210120000007/ ; https://www.sec.gov/Archives/edgar/data/832101/000083210119000031/,연간 2494573000 − 9개월누적 1888576000 (Revenues),23
+IDEX,IEX,2019Q4,2019-12-31,분기별 영업이익,134173000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/832101/000083210120000007/ ; https://www.sec.gov/Archives/edgar/data/832101/000083210119000031/,연간 579003000 − 9개월누적 444830000 (OperatingIncomeLoss),23
+IDEX,IEX,2019Q4,2019-12-31,분기별 당기순이익(지배),96850000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/832101/000083210120000007/ ; https://www.sec.gov/Archives/edgar/data/832101/000083210119000031/,연간 425521000 − 9개월누적 328671000 (NetIncomeLoss),23
+IDEX,IEX,2019Q4,2019-12-31,분기별 영업활동현금흐름,151160000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/832101/000083210120000007/ ; https://www.sec.gov/Archives/edgar/data/832101/000083210119000031/,누적 528062000 − 직전누적 376902000 (시작 2019-01-01),23
+IDEX,IEX,2019Q4,2019-12-31,분기말 자산총계,3813912000,USD,공시,https://www.sec.gov/Archives/edgar/data/832101/000083210120000007/,,23
+IDEX,IEX,2019Q4,2019-12-31,분기말 부채총계,1550683000,USD,공시,https://www.sec.gov/Archives/edgar/data/832101/000083210120000007/,,23
+IDEX,IEX,2019Q4,2019-12-31,분기말 총자본(자기자본),2263229000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/832101/000083210120000007/,"StockholdersEquity, MinorityInterest 태그 없음",23
+IDEX,IEX,2019Q4,2019-12-31,분기말 지배지분 자본,2263229000,USD,공시,https://www.sec.gov/Archives/edgar/data/832101/000083210120000007/,,23
+IDEX,IEX,2019Q4,2019-12-31,분기말 종가,172.0,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/IEX?interval=1d&events=splits (2019-12-31),,23
+IDEX,IEX,2019Q4,2020-02-18,분기말 상장주식수,76205390,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/832101/000083210120000007/,dei:EntityCommonStockSharesOutstanding 클래스 합,23
+IDEX,IEX,2019Q4,2019-12-31,분기말 시가총액,13107327080,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/IEX?interval=1d&events=splits (2019-12-31) ; https://www.sec.gov/Archives/edgar/data/832101/000083210120000007/,종가 172.0 × 주식수 76205390,23
+IDEX,IEX,2020Q1,2020-03-31,분기별 매출액,594462000,USD,공시,https://www.sec.gov/Archives/edgar/data/832101/000083210120000014/,,23
+IDEX,IEX,2020Q1,2020-03-31,분기별 영업이익,139941000,USD,공시,https://www.sec.gov/Archives/edgar/data/832101/000083210120000014/,,23
+IDEX,IEX,2020Q1,2020-03-31,분기별 당기순이익(지배),101998000,USD,공시,https://www.sec.gov/Archives/edgar/data/832101/000083210120000014/,,23
+IDEX,IEX,2020Q1,2020-03-31,분기별 영업활동현금흐름,84760000,USD,공시,https://www.sec.gov/Archives/edgar/data/832101/000083210120000014/,,23
+IDEX,IEX,2020Q1,2020-03-31,분기말 자산총계,3943677000,USD,공시,https://www.sec.gov/Archives/edgar/data/832101/000083210120000014/,,23
+IDEX,IEX,2020Q1,2020-03-31,분기말 부채총계,1713890000,USD,공시,https://www.sec.gov/Archives/edgar/data/832101/000083210120000014/,,23
+IDEX,IEX,2020Q1,2020-03-31,분기말 총자본(자기자본),2229787000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/832101/000083210120000014/,"StockholdersEquity, MinorityInterest 태그 없음",23
+IDEX,IEX,2020Q1,2020-03-31,분기말 지배지분 자본,2229787000,USD,공시,https://www.sec.gov/Archives/edgar/data/832101/000083210120000014/,,23
+IDEX,IEX,2020Q1,2020-03-31,분기말 종가,138.11,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/IEX?interval=1d&events=splits (2020-03-31),,23
+IDEX,IEX,2020Q1,2020-04-17,분기말 상장주식수,75391873,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/832101/000083210120000014/,dei:EntityCommonStockSharesOutstanding 클래스 합,23
+IDEX,IEX,2020Q1,2020-03-31,분기말 시가총액,10412371580,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/IEX?interval=1d&events=splits (2020-03-31) ; https://www.sec.gov/Archives/edgar/data/832101/000083210120000014/,종가 138.11 × 주식수 75391873,23
+IDEX,IEX,2020Q2,2020-06-30,분기별 매출액,561249000,USD,공시,https://www.sec.gov/Archives/edgar/data/832101/000083210120000027/,,23
+IDEX,IEX,2020Q2,2020-06-30,분기별 영업이익,110594000,USD,공시,https://www.sec.gov/Archives/edgar/data/832101/000083210120000027/,,23
+IDEX,IEX,2020Q2,2020-06-30,분기별 당기순이익(지배),70864000,USD,공시,https://www.sec.gov/Archives/edgar/data/832101/000083210120000027/,,23
+IDEX,IEX,2020Q2,2020-06-30,분기별 영업활동현금흐름,169453000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/832101/000083210120000027/ ; https://www.sec.gov/Archives/edgar/data/832101/000083210120000014/,누적 254213000 − 직전누적 84760000 (시작 2020-01-01),23
+IDEX,IEX,2020Q2,2020-06-30,분기말 자산총계,4073592000,USD,공시,https://www.sec.gov/Archives/edgar/data/832101/000083210120000027/,,23
+IDEX,IEX,2020Q2,2020-06-30,분기말 부채총계,1812555000,USD,공시,https://www.sec.gov/Archives/edgar/data/832101/000083210120000027/,,23
+IDEX,IEX,2020Q2,2020-06-30,분기말 총자본(자기자본),2261037000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/832101/000083210120000027/,"StockholdersEquity, MinorityInterest 태그 없음",23
+IDEX,IEX,2020Q2,2020-06-30,분기말 지배지분 자본,2261037000,USD,공시,https://www.sec.gov/Archives/edgar/data/832101/000083210120000027/,,23
+IDEX,IEX,2020Q2,2020-06-30,분기말 종가,158.04,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/IEX?interval=1d&events=splits (2020-06-30),,23
+IDEX,IEX,2020Q2,2020-07-17,분기말 상장주식수,75510410,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/832101/000083210120000027/,dei:EntityCommonStockSharesOutstanding 클래스 합,23
+IDEX,IEX,2020Q2,2020-06-30,분기말 시가총액,11933665196,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/IEX?interval=1d&events=splits (2020-06-30) ; https://www.sec.gov/Archives/edgar/data/832101/000083210120000027/,종가 158.04 × 주식수 75510410,23
+IDEX,IEX,2020Q3,2020-09-30,분기별 매출액,581113000,USD,공시,https://www.sec.gov/Archives/edgar/data/832101/000083210120000039/,,23
+IDEX,IEX,2020Q3,2020-09-30,분기별 영업이익,131213000,USD,공시,https://www.sec.gov/Archives/edgar/data/832101/000083210120000039/,,23
+IDEX,IEX,2020Q3,2020-09-30,분기별 당기순이익(지배),103848000,USD,공시,https://www.sec.gov/Archives/edgar/data/832101/000083210120000039/,,23
+IDEX,IEX,2020Q3,2020-09-30,분기별 영업활동현금흐름,153686000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/832101/000083210120000039/ ; https://www.sec.gov/Archives/edgar/data/832101/000083210120000027/,누적 407899000 − 직전누적 254213000 (시작 2020-01-01),23
+IDEX,IEX,2020Q3,2020-09-30,분기말 자산총계,4225595000,USD,공시,https://www.sec.gov/Archives/edgar/data/832101/000083210120000039/,,23
+IDEX,IEX,2020Q3,2020-09-30,분기말 부채총계,1829066000,USD,공시,https://www.sec.gov/Archives/edgar/data/832101/000083210120000039/,,23
+IDEX,IEX,2020Q3,2020-09-30,분기말 총자본(자기자본),2396529000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/832101/000083210120000039/,"StockholdersEquity, MinorityInterest 태그 없음",23
+IDEX,IEX,2020Q3,2020-09-30,분기말 지배지분 자본,2396529000,USD,공시,https://www.sec.gov/Archives/edgar/data/832101/000083210120000039/,,23
+IDEX,IEX,2020Q3,2020-09-30,분기말 종가,182.41,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/IEX?interval=1d&events=splits (2020-09-30),,23
+IDEX,IEX,2020Q3,2020-10-23,분기말 상장주식수,75705784,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/832101/000083210120000039/,dei:EntityCommonStockSharesOutstanding 클래스 합,23
+IDEX,IEX,2020Q3,2020-09-30,분기말 시가총액,13809492059,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/IEX?interval=1d&events=splits (2020-09-30) ; https://www.sec.gov/Archives/edgar/data/832101/000083210120000039/,종가 182.41 × 주식수 75705784,23
+IDEX,IEX,2020Q4,2020-12-31,분기별 매출액,614822000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/832101/000083210121000017/ ; https://www.sec.gov/Archives/edgar/data/832101/000083210120000039/,연간 2351646000 − 9개월누적 1736824000 (Revenues),23
+IDEX,IEX,2020Q4,2020-12-31,분기별 영업이익,138965000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/832101/000083210121000017/ ; https://www.sec.gov/Archives/edgar/data/832101/000083210120000039/,연간 520713000 − 9개월누적 381748000 (OperatingIncomeLoss),23
+IDEX,IEX,2020Q4,2020-12-31,분기별 당기순이익(지배),101068000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/832101/000083210121000017/ ; https://www.sec.gov/Archives/edgar/data/832101/000083210120000039/,연간 377778000 − 9개월누적 276710000 (NetIncomeLoss),23
+IDEX,IEX,2020Q4,2020-12-31,분기별 영업활동현금흐름,161374000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/832101/000083210121000017/ ; https://www.sec.gov/Archives/edgar/data/832101/000083210120000039/,누적 569273000 − 직전누적 407899000 (시작 2020-01-01),23
+IDEX,IEX,2020Q4,2020-12-31,분기말 자산총계,4414398000,USD,공시,https://www.sec.gov/Archives/edgar/data/832101/000083210121000017/,,23
+IDEX,IEX,2020Q4,2020-12-31,분기말 부채총계,1874072000,USD,공시,https://www.sec.gov/Archives/edgar/data/832101/000083210121000017/,,23
+IDEX,IEX,2020Q4,2020-12-31,분기말 총자본(자기자본),2540326000,USD,공시,https://www.sec.gov/Archives/edgar/data/832101/000083210121000017/,,23
+IDEX,IEX,2020Q4,2020-12-31,분기말 지배지분 자본,2540203000,USD,공시,https://www.sec.gov/Archives/edgar/data/832101/000083210121000017/,,23
+IDEX,IEX,2020Q4,2020-12-31,분기말 종가,199.2,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/IEX?interval=1d&events=splits (2020-12-31),,23
+IDEX,IEX,2020Q4,2021-02-22,분기말 상장주식수,75889737,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/832101/000083210121000017/,dei:EntityCommonStockSharesOutstanding 클래스 합,23
+IDEX,IEX,2020Q4,2020-12-31,분기말 시가총액,15117235610,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/IEX?interval=1d&events=splits (2020-12-31) ; https://www.sec.gov/Archives/edgar/data/832101/000083210121000017/,종가 199.2 × 주식수 75889737,23
+IDEX,IEX,2021Q1,2021-03-31,분기별 매출액,652036000,USD,공시,https://www.sec.gov/Archives/edgar/data/832101/000083210121000029/,,23
+IDEX,IEX,2021Q1,2021-03-31,분기별 영업이익,155547000,USD,공시,https://www.sec.gov/Archives/edgar/data/832101/000083210121000029/,,23
+IDEX,IEX,2021Q1,2021-03-31,분기별 당기순이익(지배),112708000,USD,공시,https://www.sec.gov/Archives/edgar/data/832101/000083210121000029/,,23
+IDEX,IEX,2021Q1,2021-03-31,분기별 영업활동현금흐름,109324000,USD,공시,https://www.sec.gov/Archives/edgar/data/832101/000083210121000029/,,23
+IDEX,IEX,2021Q1,2021-03-31,분기말 자산총계,4460731000,USD,공시,https://www.sec.gov/Archives/edgar/data/832101/000083210121000029/,,23
+IDEX,IEX,2021Q1,2021-03-31,분기말 부채총계,1850716000,USD,공시,https://www.sec.gov/Archives/edgar/data/832101/000083210121000029/,,23
+IDEX,IEX,2021Q1,2021-03-31,분기말 총자본(자기자본),2610015000,USD,공시,https://www.sec.gov/Archives/edgar/data/832101/000083210121000029/,,23
+IDEX,IEX,2021Q1,2021-03-31,분기말 지배지분 자본,2609926000,USD,공시,https://www.sec.gov/Archives/edgar/data/832101/000083210121000029/,,23
+IDEX,IEX,2021Q1,2021-03-31,분기말 종가,209.32,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/IEX?interval=1d&events=splits (2021-03-31),,23
+IDEX,IEX,2021Q1,2021-04-22,분기말 상장주식수,75931032,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/832101/000083210121000029/,dei:EntityCommonStockSharesOutstanding 클래스 합,23
+IDEX,IEX,2021Q1,2021-03-31,분기말 시가총액,15893883618,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/IEX?interval=1d&events=splits (2021-03-31) ; https://www.sec.gov/Archives/edgar/data/832101/000083210121000029/,종가 209.32 × 주식수 75931032,23
+IDEX,IEX,2021Q2,2021-06-30,분기별 매출액,685947000,USD,공시,https://www.sec.gov/Archives/edgar/data/832101/000083210121000053/,,23
+IDEX,IEX,2021Q2,2021-06-30,분기별 영업이익,158256000,USD,공시,https://www.sec.gov/Archives/edgar/data/832101/000083210121000053/,,23
+IDEX,IEX,2021Q2,2021-06-30,분기별 당기순이익(지배),102195000,USD,공시,https://www.sec.gov/Archives/edgar/data/832101/000083210121000053/,,23
+IDEX,IEX,2021Q2,2021-06-30,분기별 영업활동현금흐름,136272000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/832101/000083210121000053/ ; https://www.sec.gov/Archives/edgar/data/832101/000083210121000029/,누적 245596000 − 직전누적 109324000 (시작 2021-01-01),23
+IDEX,IEX,2021Q2,2021-06-30,분기말 자산총계,4782997000,USD,공시,https://www.sec.gov/Archives/edgar/data/832101/000083210121000053/,,23
+IDEX,IEX,2021Q2,2021-06-30,분기말 부채총계,2110133000,USD,공시,https://www.sec.gov/Archives/edgar/data/832101/000083210121000053/,,23
+IDEX,IEX,2021Q2,2021-06-30,분기말 총자본(자기자본),2672864000,USD,공시,https://www.sec.gov/Archives/edgar/data/832101/000083210121000053/,,23
+IDEX,IEX,2021Q2,2021-06-30,분기말 지배지분 자본,2672796000,USD,공시,https://www.sec.gov/Archives/edgar/data/832101/000083210121000053/,,23
+IDEX,IEX,2021Q2,2021-06-30,분기말 종가,220.05,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/IEX?interval=1d&events=splits (2021-06-30),,23
+IDEX,IEX,2021Q2,2021-07-23,분기말 상장주식수,75998135,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/832101/000083210121000053/,dei:EntityCommonStockSharesOutstanding 클래스 합,23
+IDEX,IEX,2021Q2,2021-06-30,분기말 시가총액,16723389607,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/IEX?interval=1d&events=splits (2021-06-30) ; https://www.sec.gov/Archives/edgar/data/832101/000083210121000053/,종가 220.05 × 주식수 75998135,23
+IDEX,IEX,2021Q3,2021-09-30,분기별 매출액,712019000,USD,공시,https://www.sec.gov/Archives/edgar/data/832101/000083210121000060/,,23
+IDEX,IEX,2021Q3,2021-09-30,분기별 영업이익,161185000,USD,공시,https://www.sec.gov/Archives/edgar/data/832101/000083210121000060/,,23
+IDEX,IEX,2021Q3,2021-09-30,분기별 당기순이익(지배),115742000,USD,공시,https://www.sec.gov/Archives/edgar/data/832101/000083210121000060/,,23
+IDEX,IEX,2021Q3,2021-09-30,분기별 영업활동현금흐름,156633000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/832101/000083210121000060/ ; https://www.sec.gov/Archives/edgar/data/832101/000083210121000053/,누적 402229000 − 직전누적 245596000 (시작 2021-01-01),23
+IDEX,IEX,2021Q3,2021-09-30,분기말 자산총계,4854579000,USD,공시,https://www.sec.gov/Archives/edgar/data/832101/000083210121000060/,,23
+IDEX,IEX,2021Q3,2021-09-30,분기말 부채총계,2128296000,USD,공시,https://www.sec.gov/Archives/edgar/data/832101/000083210121000060/,,23
+IDEX,IEX,2021Q3,2021-09-30,분기말 총자본(자기자본),2726283000,USD,공시,https://www.sec.gov/Archives/edgar/data/832101/000083210121000060/,,23
+IDEX,IEX,2021Q3,2021-09-30,분기말 지배지분 자본,2726245000,USD,공시,https://www.sec.gov/Archives/edgar/data/832101/000083210121000060/,,23
+IDEX,IEX,2021Q3,2021-09-30,분기말 종가,206.95,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/IEX?interval=1d&events=splits (2021-09-30),,23
+IDEX,IEX,2021Q3,2021-10-22,분기말 상장주식수,76031495,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/832101/000083210121000060/,dei:EntityCommonStockSharesOutstanding 클래스 합,23
+IDEX,IEX,2021Q3,2021-09-30,분기말 시가총액,15734717890,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/IEX?interval=1d&events=splits (2021-09-30) ; https://www.sec.gov/Archives/edgar/data/832101/000083210121000060/,종가 206.95 × 주식수 76031495,23
+IDEX,IEX,2021Q4,2021-12-31,분기별 매출액,714798000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/832101/000083210122000008/ ; https://www.sec.gov/Archives/edgar/data/832101/000083210121000060/,연간 2764800000 − 9개월누적 2050002000 (Revenues),23
+IDEX,IEX,2021Q4,2021-12-31,분기별 영업이익,162012000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/832101/000083210122000008/ ; https://www.sec.gov/Archives/edgar/data/832101/000083210121000060/,연간 637000000 − 9개월누적 474988000 (OperatingIncomeLoss),23
+IDEX,IEX,2021Q4,2021-12-31,분기별 당기순이익(지배),118755000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/832101/000083210122000008/ ; https://www.sec.gov/Archives/edgar/data/832101/000083210121000060/,연간 449400000 − 9개월누적 330645000 (NetIncomeLoss),23
+IDEX,IEX,2021Q4,2021-12-31,분기별 영업활동현금흐름,163071000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/832101/000083210122000008/ ; https://www.sec.gov/Archives/edgar/data/832101/000083210121000060/,누적 565300000 − 직전누적 402229000 (시작 2021-01-01),23
+IDEX,IEX,2021Q4,2021-12-31,분기말 자산총계,4917200000,USD,공시,https://www.sec.gov/Archives/edgar/data/832101/000083210122000008/,,23
+IDEX,IEX,2021Q4,2021-12-31,분기말 부채총계,2114100000,USD,공시,https://www.sec.gov/Archives/edgar/data/832101/000083210122000008/,,23
+IDEX,IEX,2021Q4,2021-12-31,분기말 총자본(자기자본),2803100000,USD,공시,https://www.sec.gov/Archives/edgar/data/832101/000083210122000008/,,23
+IDEX,IEX,2021Q4,2021-12-31,분기말 지배지분 자본,2803100000,USD,공시,https://www.sec.gov/Archives/edgar/data/832101/000083210122000008/,,23
+IDEX,IEX,2021Q4,2021-12-31,분기말 종가,236.32,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/IEX?interval=1d&events=splits (2021-12-31),,23
+IDEX,IEX,2021Q4,2022-02-18,분기말 상장주식수,76119749,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/832101/000083210122000008/,dei:EntityCommonStockSharesOutstanding 클래스 합,23
+IDEX,IEX,2021Q4,2021-12-31,분기말 시가총액,17988619084,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/IEX?interval=1d&events=splits (2021-12-31) ; https://www.sec.gov/Archives/edgar/data/832101/000083210122000008/,종가 236.32 × 주식수 76119749,23
+IDEX,IEX,2022Q1,2022-03-31,분기별 매출액,751100000,USD,공시,https://www.sec.gov/Archives/edgar/data/832101/000083210122000016/,,23
+IDEX,IEX,2022Q1,2022-03-31,분기별 영업이익,187600000,USD,공시,https://www.sec.gov/Archives/edgar/data/832101/000083210122000016/,,23
+IDEX,IEX,2022Q1,2022-03-31,분기별 당기순이익(지배),140000000,USD,공시,https://www.sec.gov/Archives/edgar/data/832101/000083210122000016/,,23
+IDEX,IEX,2022Q1,2022-03-31,분기별 영업활동현금흐름,79700000,USD,공시,https://www.sec.gov/Archives/edgar/data/832101/000083210122000016/,,23
+IDEX,IEX,2022Q1,2022-03-31,분기말 자산총계,4999700000,USD,공시,https://www.sec.gov/Archives/edgar/data/832101/000083210122000016/,,23
+IDEX,IEX,2022Q1,2022-03-31,분기말 부채총계,2100800000,USD,공시,https://www.sec.gov/Archives/edgar/data/832101/000083210122000016/,,23
+IDEX,IEX,2022Q1,2022-03-31,분기말 총자본(자기자본),2898900000,USD,공시,https://www.sec.gov/Archives/edgar/data/832101/000083210122000016/,,23
+IDEX,IEX,2022Q1,2022-03-31,분기말 지배지분 자본,2899000000,USD,공시,https://www.sec.gov/Archives/edgar/data/832101/000083210122000016/,,23
+IDEX,IEX,2022Q1,2022-03-31,분기말 종가,191.73,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/IEX?interval=1d&events=splits (2022-03-31),,23
+IDEX,IEX,2022Q1,2022-04-22,분기말 상장주식수,76005607,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/832101/000083210122000016/,dei:EntityCommonStockSharesOutstanding 클래스 합,23
+IDEX,IEX,2022Q1,2022-03-31,분기말 시가총액,14572555030,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/IEX?interval=1d&events=splits (2022-03-31) ; https://www.sec.gov/Archives/edgar/data/832101/000083210122000016/,종가 191.73 × 주식수 76005607,23
+IDEX,IEX,2022Q2,2022-06-30,분기별 매출액,796100000,USD,공시,https://www.sec.gov/Archives/edgar/data/832101/000083210122000043/,,23
+IDEX,IEX,2022Q2,2022-06-30,분기별 영업이익,186600000,USD,공시,https://www.sec.gov/Archives/edgar/data/832101/000083210122000043/,,23
+IDEX,IEX,2022Q2,2022-06-30,분기별 당기순이익(지배),138200000,USD,공시,https://www.sec.gov/Archives/edgar/data/832101/000083210122000043/,,23
+IDEX,IEX,2022Q2,2022-06-30,분기별 영업활동현금흐름,112300000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/832101/000083210122000043/ ; https://www.sec.gov/Archives/edgar/data/832101/000083210122000016/,누적 192000000 − 직전누적 79700000 (시작 2022-01-01),23
+IDEX,IEX,2022Q2,2022-06-30,분기말 자산총계,4912800000,USD,공시,https://www.sec.gov/Archives/edgar/data/832101/000083210122000043/,,23
+IDEX,IEX,2022Q2,2022-06-30,분기말 부채총계,2124800000,USD,공시,https://www.sec.gov/Archives/edgar/data/832101/000083210122000043/,,23
+IDEX,IEX,2022Q2,2022-06-30,분기말 총자본(자기자본),2788000000,USD,공시,https://www.sec.gov/Archives/edgar/data/832101/000083210122000043/,,23
+IDEX,IEX,2022Q2,2022-06-30,분기말 지배지분 자본,2788200000,USD,공시,https://www.sec.gov/Archives/edgar/data/832101/000083210122000043/,,23
+IDEX,IEX,2022Q2,2022-06-30,분기말 종가,181.63,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/IEX?interval=1d&events=splits (2022-06-30),,23
+IDEX,IEX,2022Q2,2022-07-22,분기말 상장주식수,75475605,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/832101/000083210122000043/,dei:EntityCommonStockSharesOutstanding 클래스 합,23
+IDEX,IEX,2022Q2,2022-06-30,분기말 시가총액,13708634136,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/IEX?interval=1d&events=splits (2022-06-30) ; https://www.sec.gov/Archives/edgar/data/832101/000083210122000043/,종가 181.63 × 주식수 75475605,23
+IDEX,IEX,2022Q3,2022-09-30,분기별 매출액,824000000,USD,공시,https://www.sec.gov/Archives/edgar/data/832101/000083210122000056/,,23
+IDEX,IEX,2022Q3,2022-09-30,분기별 영업이익,202200000,USD,공시,https://www.sec.gov/Archives/edgar/data/832101/000083210122000056/,,23
+IDEX,IEX,2022Q3,2022-09-30,분기별 당기순이익(지배),178700000,USD,공시,https://www.sec.gov/Archives/edgar/data/832101/000083210122000056/,,23
+IDEX,IEX,2022Q3,2022-09-30,분기별 영업활동현금흐름,198100000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/832101/000083210122000056/ ; https://www.sec.gov/Archives/edgar/data/832101/000083210122000043/,누적 390100000 − 직전누적 192000000 (시작 2022-01-01),23
+IDEX,IEX,2022Q3,2022-09-30,분기말 자산총계,4892600000,USD,공시,https://www.sec.gov/Archives/edgar/data/832101/000083210122000056/,,23
+IDEX,IEX,2022Q3,2022-09-30,분기말 부채총계,2090000000,USD,공시,https://www.sec.gov/Archives/edgar/data/832101/000083210122000056/,,23
+IDEX,IEX,2022Q3,2022-09-30,분기말 총자본(자기자본),2802600000,USD,공시,https://www.sec.gov/Archives/edgar/data/832101/000083210122000056/,,23
+IDEX,IEX,2022Q3,2022-09-30,분기말 지배지분 자본,2802800000,USD,공시,https://www.sec.gov/Archives/edgar/data/832101/000083210122000056/,,23
+IDEX,IEX,2022Q3,2022-09-30,분기말 종가,199.85,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/IEX?interval=1d&events=splits (2022-09-30),,23
+IDEX,IEX,2022Q3,2022-10-21,분기말 상장주식수,75421109,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/832101/000083210122000056/,dei:EntityCommonStockSharesOutstanding 클래스 합,23
+IDEX,IEX,2022Q3,2022-09-30,분기말 시가총액,15072908634,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/IEX?interval=1d&events=splits (2022-09-30) ; https://www.sec.gov/Archives/edgar/data/832101/000083210122000056/,종가 199.85 × 주식수 75421109,23
+IDEX,IEX,2022Q4,2022-12-31,분기별 매출액,810700000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/832101/000083210123000013/ ; https://www.sec.gov/Archives/edgar/data/832101/000083210122000056/,연간 3181900000 − 9개월누적 2371200000 (Revenues),23
+IDEX,IEX,2022Q4,2022-12-31,분기별 영업이익,175000000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/832101/000083210123000013/ ; https://www.sec.gov/Archives/edgar/data/832101/000083210122000056/,연간 751400000 − 9개월누적 576400000 (OperatingIncomeLoss),23
+IDEX,IEX,2022Q4,2022-12-31,분기별 당기순이익(지배),130000000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/832101/000083210123000013/ ; https://www.sec.gov/Archives/edgar/data/832101/000083210122000056/,연간 586900000 − 9개월누적 456900000 (NetIncomeLoss),23
+IDEX,IEX,2022Q4,2022-12-31,분기별 영업활동현금흐름,167300000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/832101/000083210123000013/ ; https://www.sec.gov/Archives/edgar/data/832101/000083210122000056/,누적 557400000 − 직전누적 390100000 (시작 2022-01-01),23
+IDEX,IEX,2022Q4,2022-12-31,분기말 자산총계,5511900000,USD,공시,https://www.sec.gov/Archives/edgar/data/832101/000083210123000013/,,23
+IDEX,IEX,2022Q4,2022-12-31,분기말 부채총계,2472300000,USD,공시,https://www.sec.gov/Archives/edgar/data/832101/000083210123000013/,,23
+IDEX,IEX,2022Q4,2022-12-31,분기말 총자본(자기자본),3039600000,USD,공시,https://www.sec.gov/Archives/edgar/data/832101/000083210123000013/,,23
+IDEX,IEX,2022Q4,2022-12-31,분기말 지배지분 자본,3039300000,USD,공시,https://www.sec.gov/Archives/edgar/data/832101/000083210123000013/,,23
+IDEX,IEX,2022Q4,2022-12-30,분기말 종가,228.33,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/IEX?interval=1d&events=splits (2022-12-30),,23
+IDEX,IEX,2022Q4,2023-02-17,분기말 상장주식수,75518200,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/832101/000083210123000013/,dei:EntityCommonStockSharesOutstanding 클래스 합,23
+IDEX,IEX,2022Q4,2022-12-30,분기말 시가총액,17243070606,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/IEX?interval=1d&events=splits (2022-12-30) ; https://www.sec.gov/Archives/edgar/data/832101/000083210123000013/,종가 228.33 × 주식수 75518200,23
+IDEX,IEX,2023Q1,2023-03-31,분기별 매출액,845400000,USD,공시,https://www.sec.gov/Archives/edgar/data/832101/000083210123000019/,,23
+IDEX,IEX,2023Q1,2023-03-31,분기별 영업이익,192300000,USD,공시,https://www.sec.gov/Archives/edgar/data/832101/000083210123000019/,,23
+IDEX,IEX,2023Q1,2023-03-31,분기별 당기순이익(지배),139800000,USD,공시,https://www.sec.gov/Archives/edgar/data/832101/000083210123000019/,,23
+IDEX,IEX,2023Q1,2023-03-31,분기별 영업활동현금흐름,147900000,USD,공시,https://www.sec.gov/Archives/edgar/data/832101/000083210123000019/,,23
+IDEX,IEX,2023Q1,2023-03-31,분기말 자산총계,5658000000,USD,공시,https://www.sec.gov/Archives/edgar/data/832101/000083210123000019/,,23
+IDEX,IEX,2023Q1,2023-03-31,분기말 부채총계,2428500000,USD,공시,https://www.sec.gov/Archives/edgar/data/832101/000083210123000019/,,23
+IDEX,IEX,2023Q1,2023-03-31,분기말 총자본(자기자본),3229500000,USD,공시,https://www.sec.gov/Archives/edgar/data/832101/000083210123000019/,,23
+IDEX,IEX,2023Q1,2023-03-31,분기말 지배지분 자본,3229200000,USD,공시,https://www.sec.gov/Archives/edgar/data/832101/000083210123000019/,,23
+IDEX,IEX,2023Q1,2023-03-31,분기말 종가,231.03,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/IEX?interval=1d&events=splits (2023-03-31),,23
+IDEX,IEX,2023Q1,2023-04-21,분기말 상장주식수,75576366,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/832101/000083210123000019/,dei:EntityCommonStockSharesOutstanding 클래스 합,23
+IDEX,IEX,2023Q1,2023-03-31,분기말 시가총액,17460407837,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/IEX?interval=1d&events=splits (2023-03-31) ; https://www.sec.gov/Archives/edgar/data/832101/000083210123000019/,종가 231.03 × 주식수 75576366,23
+IDEX,IEX,2023Q2,2023-06-30,분기별 매출액,846200000,USD,공시,https://www.sec.gov/Archives/edgar/data/832101/000083210123000034/,,23
+IDEX,IEX,2023Q2,2023-06-30,분기별 영업이익,200100000,USD,공시,https://www.sec.gov/Archives/edgar/data/832101/000083210123000034/,,23
+IDEX,IEX,2023Q2,2023-06-30,분기별 당기순이익(지배),138600000,USD,공시,https://www.sec.gov/Archives/edgar/data/832101/000083210123000034/,,23
+IDEX,IEX,2023Q2,2023-06-30,분기별 영업활동현금흐름,141200000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/832101/000083210123000034/ ; https://www.sec.gov/Archives/edgar/data/832101/000083210123000019/,누적 289100000 − 직전누적 147900000 (시작 2023-01-01),23
+IDEX,IEX,2023Q2,2023-06-30,분기말 자산총계,5719900000,USD,공시,https://www.sec.gov/Archives/edgar/data/832101/000083210123000034/,,23
+IDEX,IEX,2023Q2,2023-06-30,분기말 부채총계,2441000000,USD,공시,https://www.sec.gov/Archives/edgar/data/832101/000083210123000034/,,23
+IDEX,IEX,2023Q2,2023-06-30,분기말 총자본(자기자본),3278900000,USD,공시,https://www.sec.gov/Archives/edgar/data/832101/000083210123000034/,,23
+IDEX,IEX,2023Q2,2023-06-30,분기말 지배지분 자본,3278700000,USD,공시,https://www.sec.gov/Archives/edgar/data/832101/000083210123000034/,,23
+IDEX,IEX,2023Q2,2023-06-30,분기말 종가,215.26,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/IEX?interval=1d&events=splits (2023-06-30),,23
+IDEX,IEX,2023Q2,2023-07-21,분기말 상장주식수,75601661,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/832101/000083210123000034/,dei:EntityCommonStockSharesOutstanding 클래스 합,23
+IDEX,IEX,2023Q2,2023-06-30,분기말 시가총액,16274013547,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/IEX?interval=1d&events=splits (2023-06-30) ; https://www.sec.gov/Archives/edgar/data/832101/000083210123000034/,종가 215.26 × 주식수 75601661,23
+IDEX,IEX,2023Q3,2023-09-30,분기별 매출액,793400000,USD,공시,https://www.sec.gov/Archives/edgar/data/832101/000083210123000048/,,23
+IDEX,IEX,2023Q3,2023-09-30,분기별 영업이익,179600000,USD,공시,https://www.sec.gov/Archives/edgar/data/832101/000083210123000048/,,23
+IDEX,IEX,2023Q3,2023-09-30,분기별 당기순이익(지배),209100000,USD,공시,https://www.sec.gov/Archives/edgar/data/832101/000083210123000048/,,23
+IDEX,IEX,2023Q3,2023-09-30,분기별 영업활동현금흐름,226600000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/832101/000083210123000048/ ; https://www.sec.gov/Archives/edgar/data/832101/000083210123000034/,누적 515700000 − 직전누적 289100000 (시작 2023-01-01),23
+IDEX,IEX,2023Q3,2023-09-30,분기말 자산총계,5669600000,USD,공시,https://www.sec.gov/Archives/edgar/data/832101/000083210123000048/,,23
+IDEX,IEX,2023Q3,2023-09-30,분기말 부채총계,2282400000,USD,공시,https://www.sec.gov/Archives/edgar/data/832101/000083210123000048/,,23
+IDEX,IEX,2023Q3,2023-09-30,분기말 총자본(자기자본),3387200000,USD,공시,https://www.sec.gov/Archives/edgar/data/832101/000083210123000048/,,23
+IDEX,IEX,2023Q3,2023-09-30,분기말 지배지분 자본,3387100000,USD,공시,https://www.sec.gov/Archives/edgar/data/832101/000083210123000048/,,23
+IDEX,IEX,2023Q3,2023-09-29,분기말 종가,208.02,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/IEX?interval=1d&events=splits (2023-09-29),,23
+IDEX,IEX,2023Q3,2023-10-20,분기말 상장주식수,75625539,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/832101/000083210123000048/,dei:EntityCommonStockSharesOutstanding 클래스 합,23
+IDEX,IEX,2023Q3,2023-09-29,분기말 시가총액,15731624623,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/IEX?interval=1d&events=splits (2023-09-29) ; https://www.sec.gov/Archives/edgar/data/832101/000083210123000048/,종가 208.02 × 주식수 75625539,23
+IDEX,IEX,2023Q4,2023-12-31,분기별 매출액,788900000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/832101/000083210124000009/ ; https://www.sec.gov/Archives/edgar/data/832101/000083210123000048/,연간 3273900000 − 9개월누적 2485000000 (Revenues),23
+IDEX,IEX,2023Q4,2023-12-31,분기별 영업이익,160500000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/832101/000083210124000009/ ; https://www.sec.gov/Archives/edgar/data/832101/000083210123000048/,연간 732500000 − 9개월누적 572000000 (OperatingIncomeLoss),23
+IDEX,IEX,2023Q4,2023-12-31,분기별 당기순이익(지배),108600000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/832101/000083210124000009/ ; https://www.sec.gov/Archives/edgar/data/832101/000083210123000048/,연간 596100000 − 9개월누적 487500000 (NetIncomeLoss),23
+IDEX,IEX,2023Q4,2023-12-31,분기별 영업활동현금흐름,201000000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/832101/000083210124000009/ ; https://www.sec.gov/Archives/edgar/data/832101/000083210123000048/,누적 716700000 − 직전누적 515700000 (시작 2023-01-01),23
+IDEX,IEX,2023Q4,2023-12-31,분기말 자산총계,5865200000,USD,공시,https://www.sec.gov/Archives/edgar/data/832101/000083210124000009/,,23
+IDEX,IEX,2023Q4,2023-12-31,분기말 부채총계,2324000000,USD,공시,https://www.sec.gov/Archives/edgar/data/832101/000083210124000009/,,23
+IDEX,IEX,2023Q4,2023-12-31,분기말 총자본(자기자본),3541200000,USD,공시,https://www.sec.gov/Archives/edgar/data/832101/000083210124000009/,,23
+IDEX,IEX,2023Q4,2023-12-31,분기말 지배지분 자본,3541400000,USD,공시,https://www.sec.gov/Archives/edgar/data/832101/000083210124000009/,,23
+IDEX,IEX,2023Q4,2023-12-29,분기말 종가,217.11,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/IEX?interval=1d&events=splits (2023-12-29),,23
+IDEX,IEX,2023Q4,2024-02-16,분기말 상장주식수,75644654,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/832101/000083210124000009/,dei:EntityCommonStockSharesOutstanding 클래스 합,23
+IDEX,IEX,2023Q4,2023-12-29,분기말 시가총액,16423210830,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/IEX?interval=1d&events=splits (2023-12-29) ; https://www.sec.gov/Archives/edgar/data/832101/000083210124000009/,종가 217.11 × 주식수 75644654,23
+IDEX,IEX,2024Q1,2024-03-31,분기별 매출액,800500000,USD,공시,https://www.sec.gov/Archives/edgar/data/832101/000083210124000016/,,23
+IDEX,IEX,2024Q1,2024-03-31,분기별 영업이익,161200000,USD,공시,https://www.sec.gov/Archives/edgar/data/832101/000083210124000016/,,23
+IDEX,IEX,2024Q1,2024-03-31,분기별 당기순이익(지배),121400000,USD,공시,https://www.sec.gov/Archives/edgar/data/832101/000083210124000016/,,23
+IDEX,IEX,2024Q1,2024-03-31,분기별 영업활동현금흐름,156600000,USD,공시,https://www.sec.gov/Archives/edgar/data/832101/000083210124000016/,,23
+IDEX,IEX,2024Q1,2024-03-31,분기말 자산총계,5889400000,USD,공시,https://www.sec.gov/Archives/edgar/data/832101/000083210124000016/,,23
+IDEX,IEX,2024Q1,2024-03-31,분기말 부채총계,2271100000,USD,공시,https://www.sec.gov/Archives/edgar/data/832101/000083210124000016/,,23
+IDEX,IEX,2024Q1,2024-03-31,분기말 총자본(자기자본),3618300000,USD,공시,https://www.sec.gov/Archives/edgar/data/832101/000083210124000016/,,23
+IDEX,IEX,2024Q1,2024-03-31,분기말 지배지분 자본,3618600000,USD,공시,https://www.sec.gov/Archives/edgar/data/832101/000083210124000016/,,23
+IDEX,IEX,2024Q1,2024-03-28,분기말 종가,244.02,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/IEX?interval=1d&events=splits (2024-03-28),,23
+IDEX,IEX,2024Q1,2024-04-19,분기말 상장주식수,75695352,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/832101/000083210124000016/,dei:EntityCommonStockSharesOutstanding 클래스 합,23
+IDEX,IEX,2024Q1,2024-03-28,분기말 시가총액,18471179795,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/IEX?interval=1d&events=splits (2024-03-28) ; https://www.sec.gov/Archives/edgar/data/832101/000083210124000016/,종가 244.02 × 주식수 75695352,23
+IDEX,IEX,2024Q2,2024-06-30,분기별 매출액,807200000,USD,공시,https://www.sec.gov/Archives/edgar/data/832101/000083210124000044/,,23
+IDEX,IEX,2024Q2,2024-06-30,분기별 영업이익,182700000,USD,공시,https://www.sec.gov/Archives/edgar/data/832101/000083210124000044/,,23
+IDEX,IEX,2024Q2,2024-06-30,분기별 당기순이익(지배),141300000,USD,공시,https://www.sec.gov/Archives/edgar/data/832101/000083210124000044/,,23
+IDEX,IEX,2024Q2,2024-06-30,분기별 영업활동현금흐름,133600000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/832101/000083210124000044/ ; https://www.sec.gov/Archives/edgar/data/832101/000083210124000016/,누적 290200000 − 직전누적 156600000 (시작 2024-01-01),23
+IDEX,IEX,2024Q2,2024-06-30,분기말 자산총계,5903300000,USD,공시,https://www.sec.gov/Archives/edgar/data/832101/000083210124000044/,,23
+IDEX,IEX,2024Q2,2024-06-30,분기말 부채총계,2249900000,USD,공시,https://www.sec.gov/Archives/edgar/data/832101/000083210124000044/,,23
+IDEX,IEX,2024Q2,2024-06-30,분기말 총자본(자기자본),3653400000,USD,공시,https://www.sec.gov/Archives/edgar/data/832101/000083210124000044/,,23
+IDEX,IEX,2024Q2,2024-06-30,분기말 지배지분 자본,3653800000,USD,공시,https://www.sec.gov/Archives/edgar/data/832101/000083210124000044/,,23
+IDEX,IEX,2024Q2,2024-06-28,분기말 종가,201.2,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/IEX?interval=1d&events=splits (2024-06-28),,23
+IDEX,IEX,2024Q2,2024-07-26,분기말 상장주식수,75703395,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/832101/000083210124000044/,dei:EntityCommonStockSharesOutstanding 클래스 합,23
+IDEX,IEX,2024Q2,2024-06-28,분기말 시가총액,15231523074,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/IEX?interval=1d&events=splits (2024-06-28) ; https://www.sec.gov/Archives/edgar/data/832101/000083210124000044/,종가 201.2 × 주식수 75703395,23
+IDEX,IEX,2024Q3,2024-09-30,분기별 매출액,798200000,USD,공시,https://www.sec.gov/Archives/edgar/data/832101/000083210124000055/,,23
+IDEX,IEX,2024Q3,2024-09-30,분기별 영업이익,168000000,USD,공시,https://www.sec.gov/Archives/edgar/data/832101/000083210124000055/,,23
+IDEX,IEX,2024Q3,2024-09-30,분기별 당기순이익(지배),119100000,USD,공시,https://www.sec.gov/Archives/edgar/data/832101/000083210124000055/,,23
+IDEX,IEX,2024Q3,2024-09-30,분기별 영업활동현금흐름,205300000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/832101/000083210124000055/ ; https://www.sec.gov/Archives/edgar/data/832101/000083210124000044/,누적 495500000 − 직전누적 290200000 (시작 2024-01-01),23
+IDEX,IEX,2024Q3,2024-09-30,분기말 자산총계,6967500000,USD,공시,https://www.sec.gov/Archives/edgar/data/832101/000083210124000055/,,23
+IDEX,IEX,2024Q3,2024-09-30,분기말 부채총계,3149200000,USD,공시,https://www.sec.gov/Archives/edgar/data/832101/000083210124000055/,,23
+IDEX,IEX,2024Q3,2024-09-30,분기말 총자본(자기자본),3818300000,USD,공시,https://www.sec.gov/Archives/edgar/data/832101/000083210124000055/,,23
+IDEX,IEX,2024Q3,2024-09-30,분기말 지배지분 자본,3818900000,USD,공시,https://www.sec.gov/Archives/edgar/data/832101/000083210124000055/,,23
+IDEX,IEX,2024Q3,2024-09-30,분기말 종가,214.5,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/IEX?interval=1d&events=splits (2024-09-30),,23
+IDEX,IEX,2024Q3,2024-10-25,분기말 상장주식수,75723308,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/832101/000083210124000055/,dei:EntityCommonStockSharesOutstanding 클래스 합,23
+IDEX,IEX,2024Q3,2024-09-30,분기말 시가총액,16242649566,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/IEX?interval=1d&events=splits (2024-09-30) ; https://www.sec.gov/Archives/edgar/data/832101/000083210124000055/,종가 214.5 × 주식수 75723308,23
+IDEX,IEX,2024Q4,2024-12-31,분기별 매출액,862900000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/832101/000083210125000010/ ; https://www.sec.gov/Archives/edgar/data/832101/000083210124000055/,연간 3268800000 − 9개월누적 2405900000 (Revenues),23
+IDEX,IEX,2024Q4,2024-12-31,분기별 영업이익,165300000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/832101/000083210125000010/ ; https://www.sec.gov/Archives/edgar/data/832101/000083210124000055/,연간 677200000 − 9개월누적 511900000 (OperatingIncomeLoss),23
+IDEX,IEX,2024Q4,2024-12-31,분기별 당기순이익(지배),123200000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/832101/000083210125000010/ ; https://www.sec.gov/Archives/edgar/data/832101/000083210124000055/,연간 505000000 − 9개월누적 381800000 (NetIncomeLoss),23
+IDEX,IEX,2024Q4,2024-12-31,분기별 영업활동현금흐름,172600000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/832101/000083210125000010/ ; https://www.sec.gov/Archives/edgar/data/832101/000083210124000055/,누적 668100000 − 직전누적 495500000 (시작 2024-01-01),23
+IDEX,IEX,2024Q4,2024-12-31,분기말 자산총계,6745300000,USD,공시,https://www.sec.gov/Archives/edgar/data/832101/000083210125000010/,,23
+IDEX,IEX,2024Q4,2024-12-31,분기말 부채총계,2951200000,USD,공시,https://www.sec.gov/Archives/edgar/data/832101/000083210125000010/,,23
+IDEX,IEX,2024Q4,2024-12-31,분기말 총자본(자기자본),3794100000,USD,공시,https://www.sec.gov/Archives/edgar/data/832101/000083210125000010/,,23
+IDEX,IEX,2024Q4,2024-12-31,분기말 지배지분 자본,3794700000,USD,공시,https://www.sec.gov/Archives/edgar/data/832101/000083210125000010/,,23
+IDEX,IEX,2024Q4,2024-12-31,분기말 종가,209.29,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/IEX?interval=1d&events=splits (2024-12-31),,23
+IDEX,IEX,2024Q4,2025-02-14,분기말 상장주식수,75784047,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/832101/000083210125000010/,dei:EntityCommonStockSharesOutstanding 클래스 합,23
+IDEX,IEX,2024Q4,2024-12-31,분기말 시가총액,15860843197,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/IEX?interval=1d&events=splits (2024-12-31) ; https://www.sec.gov/Archives/edgar/data/832101/000083210125000010/,종가 209.29 × 주식수 75784047,23
+IDEX,IEX,2025Q1,2025-03-31,분기별 매출액,814300000,USD,공시,https://www.sec.gov/Archives/edgar/data/832101/000083210125000017/,,23
+IDEX,IEX,2025Q1,2025-03-31,분기별 영업이익,142000000,USD,공시,https://www.sec.gov/Archives/edgar/data/832101/000083210125000017/,,23
+IDEX,IEX,2025Q1,2025-03-31,분기별 당기순이익(지배),95500000,USD,공시,https://www.sec.gov/Archives/edgar/data/832101/000083210125000017/,,23
+IDEX,IEX,2025Q1,2025-03-31,분기별 영업활동현금흐름,105700000,USD,공시,https://www.sec.gov/Archives/edgar/data/832101/000083210125000017/,,23
+IDEX,IEX,2025Q1,2025-03-31,분기말 자산총계,6795100000,USD,공시,https://www.sec.gov/Archives/edgar/data/832101/000083210125000017/,,23
+IDEX,IEX,2025Q1,2025-03-31,분기말 부채총계,2889200000,USD,공시,https://www.sec.gov/Archives/edgar/data/832101/000083210125000017/,,23
+IDEX,IEX,2025Q1,2025-03-31,분기말 총자본(자기자본),3905900000,USD,공시,https://www.sec.gov/Archives/edgar/data/832101/000083210125000017/,,23
+IDEX,IEX,2025Q1,2025-03-31,분기말 지배지분 자본,3906600000,USD,공시,https://www.sec.gov/Archives/edgar/data/832101/000083210125000017/,,23
+IDEX,IEX,2025Q1,2025-03-31,분기말 종가,180.97,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/IEX?interval=1d&events=splits (2025-03-31),,23
+IDEX,IEX,2025Q1,2025-04-25,분기말 상장주식수,75544606,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/832101/000083210125000017/,dei:EntityCommonStockSharesOutstanding 클래스 합,23
+IDEX,IEX,2025Q1,2025-03-31,분기말 시가총액,13671307348,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/IEX?interval=1d&events=splits (2025-03-31) ; https://www.sec.gov/Archives/edgar/data/832101/000083210125000017/,종가 180.97 × 주식수 75544606,23
+IDEX,IEX,2025Q2,2025-06-30,분기별 매출액,865400000,USD,공시,https://www.sec.gov/Archives/edgar/data/832101/000083210125000032/,,23
+IDEX,IEX,2025Q2,2025-06-30,분기별 영업이익,187900000,USD,공시,https://www.sec.gov/Archives/edgar/data/832101/000083210125000032/,,23
+IDEX,IEX,2025Q2,2025-06-30,분기별 당기순이익(지배),131600000,USD,공시,https://www.sec.gov/Archives/edgar/data/832101/000083210125000032/,,23
+IDEX,IEX,2025Q2,2025-06-30,분기별 영업활동현금흐름,161700000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/832101/000083210125000032/ ; https://www.sec.gov/Archives/edgar/data/832101/000083210125000017/,누적 267400000 − 직전누적 105700000 (시작 2025-01-01),23
+IDEX,IEX,2025Q2,2025-06-30,분기말 자산총계,6876100000,USD,공시,https://www.sec.gov/Archives/edgar/data/832101/000083210125000032/,,23
+IDEX,IEX,2025Q2,2025-06-30,분기말 부채총계,2865700000,USD,공시,https://www.sec.gov/Archives/edgar/data/832101/000083210125000032/,,23
+IDEX,IEX,2025Q2,2025-06-30,분기말 총자본(자기자본),4010400000,USD,공시,https://www.sec.gov/Archives/edgar/data/832101/000083210125000032/,,23
+IDEX,IEX,2025Q2,2025-06-30,분기말 지배지분 자본,4011600000,USD,공시,https://www.sec.gov/Archives/edgar/data/832101/000083210125000032/,,23
+IDEX,IEX,2025Q2,2025-06-30,분기말 종가,175.57,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/IEX?interval=1d&events=splits (2025-06-30),,23
+IDEX,IEX,2025Q2,2025-07-25,분기말 상장주식수,75287284,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/832101/000083210125000032/,dei:EntityCommonStockSharesOutstanding 클래스 합,23
+IDEX,IEX,2025Q2,2025-06-30,분기말 시가총액,13218188452,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/IEX?interval=1d&events=splits (2025-06-30) ; https://www.sec.gov/Archives/edgar/data/832101/000083210125000032/,종가 175.57 × 주식수 75287284,23
+IDEX,IEX,2025Q3,2025-09-30,분기별 매출액,878700000,USD,공시,https://www.sec.gov/Archives/edgar/data/832101/000162828025047080/,,23
+IDEX,IEX,2025Q3,2025-09-30,분기별 영업이익,185800000,USD,공시,https://www.sec.gov/Archives/edgar/data/832101/000162828025047080/,,23
+IDEX,IEX,2025Q3,2025-09-30,분기별 당기순이익(지배),127800000,USD,공시,https://www.sec.gov/Archives/edgar/data/832101/000162828025047080/,,23
+IDEX,IEX,2025Q3,2025-09-30,분기별 영업활동현금흐름,203500000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/832101/000162828025047080/ ; https://www.sec.gov/Archives/edgar/data/832101/000083210125000032/,누적 470900000 − 직전누적 267400000 (시작 2025-01-01),23
+IDEX,IEX,2025Q3,2025-09-30,분기말 자산총계,6969700000,USD,공시,https://www.sec.gov/Archives/edgar/data/832101/000162828025047080/,,23
+IDEX,IEX,2025Q3,2025-09-30,분기말 부채총계,2959600000,USD,공시,https://www.sec.gov/Archives/edgar/data/832101/000162828025047080/,,23
+IDEX,IEX,2025Q3,2025-09-30,분기말 총자본(자기자본),4010100000,USD,공시,https://www.sec.gov/Archives/edgar/data/832101/000162828025047080/,,23
+IDEX,IEX,2025Q3,2025-09-30,분기말 지배지분 자본,4011400000,USD,공시,https://www.sec.gov/Archives/edgar/data/832101/000162828025047080/,,23
+IDEX,IEX,2025Q3,2025-09-30,분기말 종가,162.76,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/IEX?interval=1d&events=splits (2025-09-30),,23
+IDEX,IEX,2025Q3,2025-10-24,분기말 상장주식수,74849436,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/832101/000162828025047080/,dei:EntityCommonStockSharesOutstanding 클래스 합,23
+IDEX,IEX,2025Q3,2025-09-30,분기말 시가총액,12182494203,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/IEX?interval=1d&events=splits (2025-09-30) ; https://www.sec.gov/Archives/edgar/data/832101/000162828025047080/,종가 162.76 × 주식수 74849436,23
+IDEX,IEX,2025Q4,2025-12-31,분기별 매출액,899100000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/832101/000083210126000003/ ; https://www.sec.gov/Archives/edgar/data/832101/000162828025047080/,연간 3457500000 − 9개월누적 2558400000 (Revenues),23
+IDEX,IEX,2025Q4,2025-12-31,분기별 영업이익,183600000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/832101/000083210126000003/ ; https://www.sec.gov/Archives/edgar/data/832101/000162828025047080/,연간 699300000 − 9개월누적 515700000 (OperatingIncomeLoss),23
+IDEX,IEX,2025Q4,2025-12-31,분기별 당기순이익(지배),128300000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/832101/000083210126000003/ ; https://www.sec.gov/Archives/edgar/data/832101/000162828025047080/,연간 483200000 − 9개월누적 354900000 (NetIncomeLoss),23
+IDEX,IEX,2025Q4,2025-12-31,분기별 영업활동현금흐름,209500000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/832101/000083210126000003/ ; https://www.sec.gov/Archives/edgar/data/832101/000162828025047080/,누적 680400000 − 직전누적 470900000 (시작 2025-01-01),23
+IDEX,IEX,2025Q4,2025-12-31,분기말 자산총계,6927000000,USD,공시,https://www.sec.gov/Archives/edgar/data/832101/000083210126000003/,,23
+IDEX,IEX,2025Q4,2025-12-31,분기말 부채총계,2900800000,USD,공시,https://www.sec.gov/Archives/edgar/data/832101/000083210126000003/,,23
+IDEX,IEX,2025Q4,2025-12-31,분기말 총자본(자기자본),4026200000,USD,공시,https://www.sec.gov/Archives/edgar/data/832101/000083210126000003/,,23
+IDEX,IEX,2025Q4,2025-12-31,분기말 지배지분 자본,4027500000,USD,공시,https://www.sec.gov/Archives/edgar/data/832101/000083210126000003/,,23
+IDEX,IEX,2025Q4,2025-12-31,분기말 종가,177.94,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/IEX?interval=1d&events=splits (2025-12-31),,23
+IDEX,IEX,2025Q4,2026-02-13,분기말 상장주식수,74347824,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/832101/000083210126000003/,dei:EntityCommonStockSharesOutstanding 클래스 합,23
+IDEX,IEX,2025Q4,2025-12-31,분기말 시가총액,13229451803,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/IEX?interval=1d&events=splits (2025-12-31) ; https://www.sec.gov/Archives/edgar/data/832101/000083210126000003/,종가 177.94 × 주식수 74347824,23
+IDEX,IEX,2026Q1,2026-03-31,분기별 매출액,886900000,USD,공시,https://www.sec.gov/Archives/edgar/data/832101/000083210126000009/,,23
+IDEX,IEX,2026Q1,2026-03-31,분기별 영업이익,172400000,USD,공시,https://www.sec.gov/Archives/edgar/data/832101/000083210126000009/,,23
+IDEX,IEX,2026Q1,2026-03-31,분기별 당기순이익(지배),120000000,USD,공시,https://www.sec.gov/Archives/edgar/data/832101/000083210126000009/,,23
+IDEX,IEX,2026Q1,2026-03-31,분기별 영업활동현금흐름,103700000,USD,공시,https://www.sec.gov/Archives/edgar/data/832101/000083210126000009/,,23
+IDEX,IEX,2026Q1,2026-03-31,분기말 자산총계,6918600000,USD,공시,https://www.sec.gov/Archives/edgar/data/832101/000083210126000009/,,23
+IDEX,IEX,2026Q1,2026-03-31,분기말 부채총계,2870200000,USD,공시,https://www.sec.gov/Archives/edgar/data/832101/000083210126000009/,,23
+IDEX,IEX,2026Q1,2026-03-31,분기말 총자본(자기자본),4048400000,USD,공시,https://www.sec.gov/Archives/edgar/data/832101/000083210126000009/,,23
+IDEX,IEX,2026Q1,2026-03-31,분기말 지배지분 자본,4049800000,USD,공시,https://www.sec.gov/Archives/edgar/data/832101/000083210126000009/,,23
+IDEX,IEX,2026Q1,2026-03-31,분기말 종가,189.55,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/IEX?interval=1d&events=splits (2026-03-31),,23
+IDEX,IEX,2026Q1,2026-04-24,분기말 상장주식수,74015052,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/832101/000083210126000009/,dei:EntityCommonStockSharesOutstanding 클래스 합,23
+IDEX,IEX,2026Q1,2026-03-31,분기말 시가총액,14029553107,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/IEX?interval=1d&events=splits (2026-03-31) ; https://www.sec.gov/Archives/edgar/data/832101/000083210126000009/,종가 189.55 × 주식수 74015052,23
+IDEX,IEX,2026Q2,2026-06-30,분기별 매출액,920600000,USD,공시,https://www.sec.gov/Archives/edgar/data/832101/000083210126000022/,,23
+IDEX,IEX,2026Q2,2026-06-30,분기별 영업이익,199900000,USD,공시,https://www.sec.gov/Archives/edgar/data/832101/000083210126000022/,,23
+IDEX,IEX,2026Q2,2026-06-30,분기별 당기순이익(지배),143400000,USD,공시,https://www.sec.gov/Archives/edgar/data/832101/000083210126000022/,,23
+IDEX,IEX,2026Q2,2026-06-30,분기별 영업활동현금흐름,200000000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/832101/000083210126000022/ ; https://www.sec.gov/Archives/edgar/data/832101/000083210126000009/,누적 303700000 − 직전누적 103700000 (시작 2026-01-01),23
+IDEX,IEX,2026Q2,2026-06-30,분기말 자산총계,6930000000,USD,공시,https://www.sec.gov/Archives/edgar/data/832101/000083210126000022/,,23
+IDEX,IEX,2026Q2,2026-06-30,분기말 부채총계,2923400000,USD,공시,https://www.sec.gov/Archives/edgar/data/832101/000083210126000022/,,23
+IDEX,IEX,2026Q2,2026-06-30,분기말 총자본(자기자본),4006600000,USD,공시,https://www.sec.gov/Archives/edgar/data/832101/000083210126000022/,,23
+IDEX,IEX,2026Q2,2026-06-30,분기말 지배지분 자본,4008000000,USD,공시,https://www.sec.gov/Archives/edgar/data/832101/000083210126000022/,,23
+IDEX,IEX,2026Q2,2026-06-30,분기말 종가,226.95,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/IEX?interval=1d&events=splits (2026-06-30),,23
+IDEX,IEX,2026Q2,2026-07-24,분기말 상장주식수,73719896,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/832101/000083210126000022/,dei:EntityCommonStockSharesOutstanding 클래스 합,23
+IDEX,IEX,2026Q2,2026-06-30,분기말 시가총액,16730730397,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/IEX?interval=1d&events=splits (2026-06-30) ; https://www.sec.gov/Archives/edgar/data/832101/000083210126000022/,종가 226.95 × 주식수 73719896,23

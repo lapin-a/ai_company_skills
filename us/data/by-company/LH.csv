@@ -1,0 +1,727 @@
+﻿기업,종목코드,기간,기준일,항목,값,통화,값구분,출처,검산,라운드
+Labcorp Holdings,LH,2010Q1,2010-03-31,분기별 매출액,1193600000,USD,공시,https://www.sec.gov/Archives/edgar/data/920148/000092014810000040/,,15
+Labcorp Holdings,LH,2010Q1,2010-03-31,분기별 영업이익,234200000,USD,공시,https://www.sec.gov/Archives/edgar/data/920148/000092014810000040/,,15
+Labcorp Holdings,LH,2010Q1,2010-03-31,분기별 당기순이익(지배),132700000,USD,공시,https://www.sec.gov/Archives/edgar/data/920148/000092014810000040/,,15
+Labcorp Holdings,LH,2010Q1,2010-03-31,분기별 영업활동현금흐름,232000000,USD,공시,https://www.sec.gov/Archives/edgar/data/920148/000092014810000040/,,15
+Labcorp Holdings,LH,2010Q1,2010-03-31,분기말 자산총계,4934200000,USD,공시,https://www.sec.gov/Archives/edgar/data/920148/000092014810000040/,,15
+Labcorp Holdings,LH,2010Q1,2010-03-31,분기말 부채총계,2755600000,USD,공시,https://www.sec.gov/Archives/edgar/data/920148/000092014810000040/,,15
+Labcorp Holdings,LH,2010Q1,2010-03-31,분기말 총자본(자기자본),2178600000,USD,계산(지배+비지배),https://www.sec.gov/Archives/edgar/data/920148/000092014810000040/,지배 2158400000 + 비지배 20200000,15
+Labcorp Holdings,LH,2010Q1,2010-03-31,분기말 지배지분 자본,2158400000,USD,공시,https://www.sec.gov/Archives/edgar/data/920148/000092014810000040/,,15
+Labcorp Holdings,LH,2010Q1,2010-03-31,분기말 종가,75.71,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/LH?interval=1d&events=splits (2010-03-31),분할조정 종가 65.043 × 이후 분할계수 1.164,15
+Labcorp Holdings,LH,2010Q1,2010-04-22,분기말 상장주식수,104000000,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/920148/000092014810000040/,dei:EntityCommonStockSharesOutstanding 클래스 합,15
+Labcorp Holdings,LH,2010Q1,2010-03-31,분기말 시가총액,7873840000,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/LH?interval=1d&events=splits (2010-03-31) ; https://www.sec.gov/Archives/edgar/data/920148/000092014810000040/,종가 75.71 × 주식수 104000000,15
+Labcorp Holdings,LH,2010Q2,2010-06-30,분기별 매출액,1238400000,USD,공시,https://www.sec.gov/Archives/edgar/data/920148/000092014810000073/,,15
+Labcorp Holdings,LH,2010Q2,2010-06-30,분기별 영업이익,270500000,USD,공시,https://www.sec.gov/Archives/edgar/data/920148/000092014810000073/,,15
+Labcorp Holdings,LH,2010Q2,2010-06-30,분기별 당기순이익(지배),153700000,USD,공시,https://www.sec.gov/Archives/edgar/data/920148/000092014810000073/,,15
+Labcorp Holdings,LH,2010Q2,2010-06-30,분기별 영업활동현금흐름,216200000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/920148/000092014810000073/ ; https://www.sec.gov/Archives/edgar/data/920148/000092014810000040/,누적 448200000 − 직전누적 232000000 (시작 2010-01-01),15
+Labcorp Holdings,LH,2010Q2,2010-06-30,분기말 자산총계,미확인,USD,미확인,https://www.sec.gov/Archives/edgar/data/920148/000092014810000073/,자체 검증 실패: 자산 4958400000 ≠ 부채 2730100000 + 총자본 2209000000 + 메자닌 0 (차이 19300000),15
+Labcorp Holdings,LH,2010Q2,2010-06-30,분기말 부채총계,미확인,USD,미확인,https://www.sec.gov/Archives/edgar/data/920148/000092014810000073/,자체 검증 실패: 자산 4958400000 ≠ 부채 2730100000 + 총자본 2209000000 + 메자닌 0 (차이 19300000),15
+Labcorp Holdings,LH,2010Q2,2010-06-30,분기말 총자본(자기자본),미확인,USD,미확인,https://www.sec.gov/Archives/edgar/data/920148/000092014810000073/,자체 검증 실패: 자산 4958400000 ≠ 부채 2730100000 + 총자본 2209000000 + 메자닌 0 (차이 19300000),15
+Labcorp Holdings,LH,2010Q2,2010-06-30,분기말 지배지분 자본,2209000000,USD,공시,https://www.sec.gov/Archives/edgar/data/920148/000092014810000073/,,15
+Labcorp Holdings,LH,2010Q2,2010-06-30,분기말 종가,75.35,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/LH?interval=1d&events=splits (2010-06-30),분할조정 종가 64.7337 × 이후 분할계수 1.164,15
+Labcorp Holdings,LH,2010Q2,2010-07-22,분기말 상장주식수,102800000,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/920148/000092014810000073/,dei:EntityCommonStockSharesOutstanding 클래스 합,15
+Labcorp Holdings,LH,2010Q2,2010-06-30,분기말 시가총액,7745980000,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/LH?interval=1d&events=splits (2010-06-30) ; https://www.sec.gov/Archives/edgar/data/920148/000092014810000073/,종가 75.35 × 주식수 102800000,15
+Labcorp Holdings,LH,2010Q3,2010-09-30,분기별 매출액,1276500000,USD,공시,https://www.sec.gov/Archives/edgar/data/920148/000092014810000098/,,15
+Labcorp Holdings,LH,2010Q3,2010-09-30,분기별 영업이익,235300000,USD,공시,https://www.sec.gov/Archives/edgar/data/920148/000092014810000098/,,15
+Labcorp Holdings,LH,2010Q3,2010-09-30,분기별 당기순이익(지배),140000000,USD,공시,https://www.sec.gov/Archives/edgar/data/920148/000092014810000098/,,15
+Labcorp Holdings,LH,2010Q3,2010-09-30,분기별 영업활동현금흐름,176200000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/920148/000092014810000098/ ; https://www.sec.gov/Archives/edgar/data/920148/000092014810000073/,누적 624400000 − 직전누적 448200000 (시작 2010-01-01),15
+Labcorp Holdings,LH,2010Q3,2010-09-30,분기말 자산총계,미확인,USD,미확인,https://www.sec.gov/Archives/edgar/data/920148/000092014810000098/,자체 검증 실패: 자산 5047600000 ≠ 부채 2757400000 + 총자본 2270200000 + 메자닌 0 (차이 20000000),15
+Labcorp Holdings,LH,2010Q3,2010-09-30,분기말 부채총계,미확인,USD,미확인,https://www.sec.gov/Archives/edgar/data/920148/000092014810000098/,자체 검증 실패: 자산 5047600000 ≠ 부채 2757400000 + 총자본 2270200000 + 메자닌 0 (차이 20000000),15
+Labcorp Holdings,LH,2010Q3,2010-09-30,분기말 총자본(자기자본),미확인,USD,미확인,https://www.sec.gov/Archives/edgar/data/920148/000092014810000098/,자체 검증 실패: 자산 5047600000 ≠ 부채 2757400000 + 총자본 2270200000 + 메자닌 0 (차이 20000000),15
+Labcorp Holdings,LH,2010Q3,2010-09-30,분기말 지배지분 자본,2270200000,USD,공시,https://www.sec.gov/Archives/edgar/data/920148/000092014810000098/,,15
+Labcorp Holdings,LH,2010Q3,2010-09-30,분기말 종가,78.43,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/LH?interval=1d&events=splits (2010-09-30),분할조정 종가 67.3797 × 이후 분할계수 1.164,15
+Labcorp Holdings,LH,2010Q3,2010-10-21,분기말 상장주식수,101700000,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/920148/000092014810000098/,dei:EntityCommonStockSharesOutstanding 클래스 합,15
+Labcorp Holdings,LH,2010Q3,2010-09-30,분기말 시가총액,7976331000,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/LH?interval=1d&events=splits (2010-09-30) ; https://www.sec.gov/Archives/edgar/data/920148/000092014810000098/,종가 78.43 × 주식수 101700000,15
+Labcorp Holdings,LH,2010Q4,2010-12-31,분기별 매출액,1295400000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/920148/000092014811000024/ ; https://www.sec.gov/Archives/edgar/data/920148/000092014810000098/,연간 5003900000 − 9개월누적 3708500000 (SalesRevenueNet),15
+Labcorp Holdings,LH,2010Q4,2010-12-31,분기별 영업이익,238800000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/920148/000092014811000024/ ; https://www.sec.gov/Archives/edgar/data/920148/000092014810000098/,연간 978800000 − 9개월누적 740000000 (OperatingIncomeLoss),15
+Labcorp Holdings,LH,2010Q4,2010-12-31,분기별 당기순이익(지배),131800000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/920148/000092014811000024/ ; https://www.sec.gov/Archives/edgar/data/920148/000092014810000098/,연간 558200000 − 9개월누적 426400000 (NetIncomeLoss),15
+Labcorp Holdings,LH,2010Q4,2010-12-31,분기별 영업활동현금흐름,259200000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/920148/000092014811000024/ ; https://www.sec.gov/Archives/edgar/data/920148/000092014810000098/,누적 883600000 − 직전누적 624400000 (시작 2010-01-01),15
+Labcorp Holdings,LH,2010Q4,2010-12-31,분기말 자산총계,미확인,USD,미확인,https://www.sec.gov/Archives/edgar/data/920148/000092014811000024/,자체 검증 실패: 자산 6187800000 ≠ 부채 3700900000 + 총자본 2466300000 + 메자닌 0 (차이 20600000),15
+Labcorp Holdings,LH,2010Q4,2010-12-31,분기말 부채총계,미확인,USD,미확인,https://www.sec.gov/Archives/edgar/data/920148/000092014811000024/,자체 검증 실패: 자산 6187800000 ≠ 부채 3700900000 + 총자본 2466300000 + 메자닌 0 (차이 20600000),15
+Labcorp Holdings,LH,2010Q4,2010-12-31,분기말 총자본(자기자본),미확인,USD,미확인,https://www.sec.gov/Archives/edgar/data/920148/000092014811000024/,자체 검증 실패: 자산 6187800000 ≠ 부채 3700900000 + 총자본 2466300000 + 메자닌 0 (차이 20600000),15
+Labcorp Holdings,LH,2010Q4,2010-12-31,분기말 지배지분 자본,2466300000,USD,공시,https://www.sec.gov/Archives/edgar/data/920148/000092014811000024/,,15
+Labcorp Holdings,LH,2010Q4,2010-12-31,분기말 종가,87.92,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/LH?interval=1d&events=splits (2010-12-31),분할조정 종가 75.5326 × 이후 분할계수 1.164,15
+Labcorp Holdings,LH,2010Q4,2011-02-18,분기말 상장주식수,100000000,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/920148/000092014811000024/,dei:EntityCommonStockSharesOutstanding 클래스 합,15
+Labcorp Holdings,LH,2010Q4,2010-12-31,분기말 시가총액,8792000000,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/LH?interval=1d&events=splits (2010-12-31) ; https://www.sec.gov/Archives/edgar/data/920148/000092014811000024/,종가 87.92 × 주식수 100000000,15
+Labcorp Holdings,LH,2011Q1,2011-03-31,분기별 매출액,1368400000,USD,공시,https://www.sec.gov/Archives/edgar/data/920148/000092014811000043/,,15
+Labcorp Holdings,LH,2011Q1,2011-03-31,분기별 영업이익,235800000,USD,공시,https://www.sec.gov/Archives/edgar/data/920148/000092014811000043/,,15
+Labcorp Holdings,LH,2011Q1,2011-03-31,분기별 당기순이익(지배),127100000,USD,공시,https://www.sec.gov/Archives/edgar/data/920148/000092014811000043/,,15
+Labcorp Holdings,LH,2011Q1,2011-03-31,분기별 영업활동현금흐름,215300000,USD,공시,https://www.sec.gov/Archives/edgar/data/920148/000092014811000043/,,15
+Labcorp Holdings,LH,2011Q1,2011-03-31,분기말 자산총계,미확인,USD,미확인,https://www.sec.gov/Archives/edgar/data/920148/000092014811000043/,자체 검증 실패: 자산 6201600000 ≠ 부채 3780000000 + 총자본 2400400000 + 메자닌 0 (차이 21200000),15
+Labcorp Holdings,LH,2011Q1,2011-03-31,분기말 부채총계,미확인,USD,미확인,https://www.sec.gov/Archives/edgar/data/920148/000092014811000043/,자체 검증 실패: 자산 6201600000 ≠ 부채 3780000000 + 총자본 2400400000 + 메자닌 0 (차이 21200000),15
+Labcorp Holdings,LH,2011Q1,2011-03-31,분기말 총자본(자기자본),미확인,USD,미확인,https://www.sec.gov/Archives/edgar/data/920148/000092014811000043/,자체 검증 실패: 자산 6201600000 ≠ 부채 3780000000 + 총자본 2400400000 + 메자닌 0 (차이 21200000),15
+Labcorp Holdings,LH,2011Q1,2011-03-31,분기말 지배지분 자본,2400400000,USD,공시,https://www.sec.gov/Archives/edgar/data/920148/000092014811000043/,,15
+Labcorp Holdings,LH,2011Q1,2011-03-31,분기말 종가,92.13,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/LH?interval=1d&events=splits (2011-03-31),분할조정 종가 79.1495 × 이후 분할계수 1.164,15
+Labcorp Holdings,LH,2011Q1,2011-04-26,분기말 상장주식수,100200000,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/920148/000092014811000043/,dei:EntityCommonStockSharesOutstanding 클래스 합,15
+Labcorp Holdings,LH,2011Q1,2011-03-31,분기말 시가총액,9231426000,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/LH?interval=1d&events=splits (2011-03-31) ; https://www.sec.gov/Archives/edgar/data/920148/000092014811000043/,종가 92.13 × 주식수 100200000,15
+Labcorp Holdings,LH,2011Q2,2011-06-30,분기별 매출액,1403300000,USD,공시,https://www.sec.gov/Archives/edgar/data/920148/000092014811000071/,,15
+Labcorp Holdings,LH,2011Q2,2011-06-30,분기별 영업이익,225700000,USD,공시,https://www.sec.gov/Archives/edgar/data/920148/000092014811000071/,,15
+Labcorp Holdings,LH,2011Q2,2011-06-30,분기별 당기순이익(지배),122900000,USD,공시,https://www.sec.gov/Archives/edgar/data/920148/000092014811000071/,,15
+Labcorp Holdings,LH,2011Q2,2011-06-30,분기별 영업활동현금흐름,184900000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/920148/000092014811000071/ ; https://www.sec.gov/Archives/edgar/data/920148/000092014811000043/,누적 400200000 − 직전누적 215300000 (시작 2011-01-01),15
+Labcorp Holdings,LH,2011Q2,2011-06-30,분기말 자산총계,6168300000,USD,공시,https://www.sec.gov/Archives/edgar/data/920148/000092014811000071/,,15
+Labcorp Holdings,LH,2011Q2,2011-06-30,분기말 부채총계,3567100000,USD,공시,https://www.sec.gov/Archives/edgar/data/920148/000092014811000071/,메자닌(일시자본) 21400000 별도 (원문 lh:NoncontrollingInterestMezzanineEquity 21400000),15
+Labcorp Holdings,LH,2011Q2,2011-06-30,분기말 총자본(자기자본),2579800000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/920148/000092014811000071/,"StockholdersEquity, MinorityInterest 태그 없음",15
+Labcorp Holdings,LH,2011Q2,2011-06-30,분기말 지배지분 자본,2579800000,USD,공시,https://www.sec.gov/Archives/edgar/data/920148/000092014811000071/,,15
+Labcorp Holdings,LH,2011Q2,2011-06-30,분기말 종가,96.79,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/LH?interval=1d&events=splits (2011-06-30),분할조정 종가 83.1529 × 이후 분할계수 1.164,15
+Labcorp Holdings,LH,2011Q2,2011-07-21,분기말 상장주식수,101400000,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/920148/000092014811000071/,dei:EntityCommonStockSharesOutstanding 클래스 합,15
+Labcorp Holdings,LH,2011Q2,2011-06-30,분기말 시가총액,9814506000,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/LH?interval=1d&events=splits (2011-06-30) ; https://www.sec.gov/Archives/edgar/data/920148/000092014811000071/,종가 96.79 × 주식수 101400000,15
+Labcorp Holdings,LH,2011Q3,2011-09-30,분기별 매출액,1404500000,USD,공시,https://www.sec.gov/Archives/edgar/data/920148/000092014811000095/,,15
+Labcorp Holdings,LH,2011Q3,2011-09-30,분기별 영업이익,239400000,USD,공시,https://www.sec.gov/Archives/edgar/data/920148/000092014811000095/,,15
+Labcorp Holdings,LH,2011Q3,2011-09-30,분기별 당기순이익(지배),134300000,USD,공시,https://www.sec.gov/Archives/edgar/data/920148/000092014811000095/,,15
+Labcorp Holdings,LH,2011Q3,2011-09-30,분기별 영업활동현금흐름,176800000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/920148/000092014811000095/ ; https://www.sec.gov/Archives/edgar/data/920148/000092014811000071/,누적 577000000 − 직전누적 400200000 (시작 2011-01-01),15
+Labcorp Holdings,LH,2011Q3,2011-09-30,분기말 자산총계,6053200000,USD,공시,https://www.sec.gov/Archives/edgar/data/920148/000092014811000095/,,15
+Labcorp Holdings,LH,2011Q3,2011-09-30,분기말 부채총계,3490300000,USD,공시,https://www.sec.gov/Archives/edgar/data/920148/000092014811000095/,메자닌(일시자본) 19600000 별도 (원문 lh:NoncontrollingInterestMezzanineEquity 19600000),15
+Labcorp Holdings,LH,2011Q3,2011-09-30,분기말 총자본(자기자본),2543300000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/920148/000092014811000095/,"StockholdersEquity, MinorityInterest 태그 없음",15
+Labcorp Holdings,LH,2011Q3,2011-09-30,분기말 지배지분 자본,2543300000,USD,공시,https://www.sec.gov/Archives/edgar/data/920148/000092014811000095/,,15
+Labcorp Holdings,LH,2011Q3,2011-09-30,분기말 종가,79.05,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/LH?interval=1d&events=splits (2011-09-30),분할조정 종가 67.9124 × 이후 분할계수 1.164,15
+Labcorp Holdings,LH,2011Q3,2011-10-24,분기말 상장주식수,99100000,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/920148/000092014811000095/,dei:EntityCommonStockSharesOutstanding 클래스 합,15
+Labcorp Holdings,LH,2011Q3,2011-09-30,분기말 시가총액,7833855000,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/LH?interval=1d&events=splits (2011-09-30) ; https://www.sec.gov/Archives/edgar/data/920148/000092014811000095/,종가 79.05 × 주식수 99100000,15
+Labcorp Holdings,LH,2011Q4,2011-12-31,분기별 매출액,1366100000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/920148/000092014812000039/ ; https://www.sec.gov/Archives/edgar/data/920148/000092014811000095/,연간 5542300000 − 9개월누적 4176200000 (SalesRevenueNet),15
+Labcorp Holdings,LH,2011Q4,2011-12-31,분기별 영업이익,247500000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/920148/000092014812000039/ ; https://www.sec.gov/Archives/edgar/data/920148/000092014811000095/,연간 948400000 − 9개월누적 700900000 (OperatingIncomeLoss),15
+Labcorp Holdings,LH,2011Q4,2011-12-31,분기별 당기순이익(지배),135400000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/920148/000092014812000039/ ; https://www.sec.gov/Archives/edgar/data/920148/000092014811000095/,연간 519700000 − 9개월누적 384300000 (NetIncomeLoss),15
+Labcorp Holdings,LH,2011Q4,2011-12-31,분기별 영업활동현금흐름,278600000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/920148/000092014812000039/ ; https://www.sec.gov/Archives/edgar/data/920148/000092014811000095/,누적 855600000 − 직전누적 577000000 (시작 2011-01-01),15
+Labcorp Holdings,LH,2011Q4,2011-12-31,분기말 자산총계,6111800000,USD,공시(재작성 반영),https://www.sec.gov/Archives/edgar/data/920148/000092014813000022/,원 공시 6136600000 (https://www.sec.gov/Archives/edgar/data/920148/000092014812000039/),15
+Labcorp Holdings,LH,2011Q4,2011-12-31,분기말 부채총계,3588100000,USD,공시(재작성 반영),https://www.sec.gov/Archives/edgar/data/920148/000092014813000022/,메자닌(일시자본) 20200000 별도 (원문 lh:NoncontrollingInterestMezzanineEquity 20200000) ; 원 공시 3612900000 (https://www.sec.gov/Archives/edgar/data/920148/000092014812000039/),15
+Labcorp Holdings,LH,2011Q4,2011-12-31,분기말 총자본(자기자본),2503500000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/920148/000092014812000039/,"StockholdersEquity, MinorityInterest 태그 없음",15
+Labcorp Holdings,LH,2011Q4,2011-12-31,분기말 지배지분 자본,2503500000,USD,공시,https://www.sec.gov/Archives/edgar/data/920148/000092014812000039/,,15
+Labcorp Holdings,LH,2011Q4,2011-12-30,분기말 종가,85.97,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/LH?interval=1d&events=splits (2011-12-30),분할조정 종가 73.8574 × 이후 분할계수 1.164,15
+Labcorp Holdings,LH,2011Q4,2012-02-17,분기말 상장주식수,97200000,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/920148/000092014812000039/,dei:EntityCommonStockSharesOutstanding 클래스 합,15
+Labcorp Holdings,LH,2011Q4,2011-12-30,분기말 시가총액,8356284000,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/LH?interval=1d&events=splits (2011-12-30) ; https://www.sec.gov/Archives/edgar/data/920148/000092014812000039/,종가 85.97 × 주식수 97200000,15
+Labcorp Holdings,LH,2012Q1,2012-03-31,분기별 매출액,1423300000,USD,공시,https://www.sec.gov/Archives/edgar/data/920148/000092014812000057/,,15
+Labcorp Holdings,LH,2012Q1,2012-03-31,분기별 영업이익,287100000,USD,공시,https://www.sec.gov/Archives/edgar/data/920148/000092014812000057/,,15
+Labcorp Holdings,LH,2012Q1,2012-03-31,분기별 당기순이익(지배),161600000,USD,공시,https://www.sec.gov/Archives/edgar/data/920148/000092014812000057/,,15
+Labcorp Holdings,LH,2012Q1,2012-03-31,분기별 영업활동현금흐름,197100000,USD,공시,https://www.sec.gov/Archives/edgar/data/920148/000092014812000057/,,15
+Labcorp Holdings,LH,2012Q1,2012-03-31,분기말 자산총계,6130600000,USD,공시,https://www.sec.gov/Archives/edgar/data/920148/000092014812000057/,,15
+Labcorp Holdings,LH,2012Q1,2012-03-31,분기말 부채총계,3512400000,USD,공시,https://www.sec.gov/Archives/edgar/data/920148/000092014812000057/,메자닌(일시자본) 20600000 별도 (원문 lh:NoncontrollingInterestMezzanineEquity 20600000),15
+Labcorp Holdings,LH,2012Q1,2012-03-31,분기말 총자본(자기자본),2597600000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/920148/000092014812000057/,"StockholdersEquity, MinorityInterest 태그 없음",15
+Labcorp Holdings,LH,2012Q1,2012-03-31,분기말 지배지분 자본,2597600000,USD,공시,https://www.sec.gov/Archives/edgar/data/920148/000092014812000057/,,15
+Labcorp Holdings,LH,2012Q1,2012-03-30,분기말 종가,91.54,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/LH?interval=1d&events=splits (2012-03-30),분할조정 종가 78.6426 × 이후 분할계수 1.164,15
+Labcorp Holdings,LH,2012Q1,2012-04-24,분기말 상장주식수,96.8,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/920148/000092014812000057/,dei:EntityCommonStockSharesOutstanding 클래스 합,15
+Labcorp Holdings,LH,2012Q1,2012-03-30,분기말 시가총액,8861,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/LH?interval=1d&events=splits (2012-03-30) ; https://www.sec.gov/Archives/edgar/data/920148/000092014812000057/,종가 91.54 × 주식수 96,15
+Labcorp Holdings,LH,2012Q2,2012-06-30,분기별 매출액,1423400000,USD,공시,https://www.sec.gov/Archives/edgar/data/920148/000092014812000095/,,15
+Labcorp Holdings,LH,2012Q2,2012-06-30,분기별 영업이익,276000000,USD,공시,https://www.sec.gov/Archives/edgar/data/920148/000092014812000095/,,15
+Labcorp Holdings,LH,2012Q2,2012-06-30,분기별 당기순이익(지배),153300000,USD,공시,https://www.sec.gov/Archives/edgar/data/920148/000092014812000095/,,15
+Labcorp Holdings,LH,2012Q2,2012-06-30,분기별 영업활동현금흐름,186300000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/920148/000092014812000095/ ; https://www.sec.gov/Archives/edgar/data/920148/000092014812000057/,누적 383400000 − 직전누적 197100000 (시작 2012-01-01),15
+Labcorp Holdings,LH,2012Q2,2012-06-30,분기말 자산총계,6098300000,USD,공시,https://www.sec.gov/Archives/edgar/data/920148/000092014812000095/,,15
+Labcorp Holdings,LH,2012Q2,2012-06-30,분기말 부채총계,3446300000,USD,공시,https://www.sec.gov/Archives/edgar/data/920148/000092014812000095/,메자닌(일시자본) 20200000 별도 (원문 lh:NoncontrollingInterestMezzanineEquity 20200000),15
+Labcorp Holdings,LH,2012Q2,2012-06-30,분기말 총자본(자기자본),2631800000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/920148/000092014812000095/,"StockholdersEquity, MinorityInterest 태그 없음",15
+Labcorp Holdings,LH,2012Q2,2012-06-30,분기말 지배지분 자본,2631800000,USD,공시,https://www.sec.gov/Archives/edgar/data/920148/000092014812000095/,,15
+Labcorp Holdings,LH,2012Q2,2012-06-29,분기말 종가,92.61,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/LH?interval=1d&events=splits (2012-06-29),분할조정 종가 79.5619 × 이후 분할계수 1.164,15
+Labcorp Holdings,LH,2012Q2,2012-07-26,분기말 상장주식수,95900000,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/920148/000092014812000095/,dei:EntityCommonStockSharesOutstanding 클래스 합,15
+Labcorp Holdings,LH,2012Q2,2012-06-29,분기말 시가총액,8881299000,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/LH?interval=1d&events=splits (2012-06-29) ; https://www.sec.gov/Archives/edgar/data/920148/000092014812000095/,종가 92.61 × 주식수 95900000,15
+Labcorp Holdings,LH,2012Q3,2012-09-30,분기별 매출액,1419400000,USD,공시,https://www.sec.gov/Archives/edgar/data/920148/000092014812000123/,,15
+Labcorp Holdings,LH,2012Q3,2012-09-30,분기별 영업이익,245100000,USD,공시,https://www.sec.gov/Archives/edgar/data/920148/000092014812000123/,,15
+Labcorp Holdings,LH,2012Q3,2012-09-30,분기별 당기순이익(지배),147200000,USD,공시(재작성 반영),https://www.sec.gov/Archives/edgar/data/920148/000092014813000044/,원 공시 148000000 (https://www.sec.gov/Archives/edgar/data/920148/000092014812000123/),15
+Labcorp Holdings,LH,2012Q3,2012-09-30,분기별 영업활동현금흐름,203800000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/920148/000092014812000123/ ; https://www.sec.gov/Archives/edgar/data/920148/000092014812000095/,누적 587200000 − 직전누적 383400000 (시작 2012-01-01),15
+Labcorp Holdings,LH,2012Q3,2012-09-30,분기말 자산총계,6814300000,USD,공시,https://www.sec.gov/Archives/edgar/data/920148/000092014812000123/,,15
+Labcorp Holdings,LH,2012Q3,2012-09-30,분기말 부채총계,4076700000,USD,공시,https://www.sec.gov/Archives/edgar/data/920148/000092014812000123/,메자닌(일시자본) 20900000 별도 (원문 lh:NoncontrollingInterestMezzanineEquity 20900000),15
+Labcorp Holdings,LH,2012Q3,2012-09-30,분기말 총자본(자기자본),2716700000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/920148/000092014812000123/,"StockholdersEquity, MinorityInterest 태그 없음",15
+Labcorp Holdings,LH,2012Q3,2012-09-30,분기말 지배지분 자본,2716700000,USD,공시,https://www.sec.gov/Archives/edgar/data/920148/000092014812000123/,,15
+Labcorp Holdings,LH,2012Q3,2012-09-28,분기말 종가,92.47,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/LH?interval=1d&events=splits (2012-09-28),분할조정 종가 79.4416 × 이후 분할계수 1.164,15
+Labcorp Holdings,LH,2012Q3,2012-10-24,분기말 상장주식수,94600000,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/920148/000092014812000123/,dei:EntityCommonStockSharesOutstanding 클래스 합,15
+Labcorp Holdings,LH,2012Q3,2012-09-28,분기말 시가총액,8747662000,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/LH?interval=1d&events=splits (2012-09-28) ; https://www.sec.gov/Archives/edgar/data/920148/000092014812000123/,종가 92.47 × 주식수 94600000,15
+Labcorp Holdings,LH,2012Q4,2012-12-31,분기별 매출액,1405300000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/920148/000092014813000022/ ; https://www.sec.gov/Archives/edgar/data/920148/000092014812000123/,연간 5671400000 − 9개월누적 4266100000 (SalesRevenueNet),15
+Labcorp Holdings,LH,2012Q4,2012-12-31,분기별 영업이익,215300000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/920148/000092014813000022/ ; https://www.sec.gov/Archives/edgar/data/920148/000092014812000123/,연간 1023500000 − 9개월누적 808200000 (OperatingIncomeLoss),15
+Labcorp Holdings,LH,2012Q4,2012-12-31,분기별 당기순이익(지배),120200000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/920148/000092014813000022/ ; https://www.sec.gov/Archives/edgar/data/920148/000092014812000123/,연간 583100000 − 9개월누적 462900000 (NetIncomeLoss),15
+Labcorp Holdings,LH,2012Q4,2012-12-31,분기별 영업활동현금흐름,254200000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/920148/000092014813000022/ ; https://www.sec.gov/Archives/edgar/data/920148/000092014812000123/,누적 841400000 − 직전누적 587200000 (시작 2012-01-01),15
+Labcorp Holdings,LH,2012Q4,2012-12-31,분기말 자산총계,6795000000,USD,공시,https://www.sec.gov/Archives/edgar/data/920148/000092014813000022/,,15
+Labcorp Holdings,LH,2012Q4,2012-12-31,분기말 부채총계,4056900000,USD,공시,https://www.sec.gov/Archives/edgar/data/920148/000092014813000022/,메자닌(일시자본) 20700000 별도 (원문 lh:NoncontrollingInterestMezzanineEquity 20700000),15
+Labcorp Holdings,LH,2012Q4,2012-12-31,분기말 총자본(자기자본),2717400000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/920148/000092014813000022/,"StockholdersEquity, MinorityInterest 태그 없음",15
+Labcorp Holdings,LH,2012Q4,2012-12-31,분기말 지배지분 자본,2717400000,USD,공시,https://www.sec.gov/Archives/edgar/data/920148/000092014813000022/,,15
+Labcorp Holdings,LH,2012Q4,2012-12-31,분기말 종가,86.62,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/LH?interval=1d&events=splits (2012-12-31),분할조정 종가 74.4158 × 이후 분할계수 1.164,15
+Labcorp Holdings,LH,2012Q4,2013-02-20,분기말 상장주식수,93100000,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/920148/000092014813000022/,dei:EntityCommonStockSharesOutstanding 클래스 합,15
+Labcorp Holdings,LH,2012Q4,2012-12-31,분기말 시가총액,8064322000,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/LH?interval=1d&events=splits (2012-12-31) ; https://www.sec.gov/Archives/edgar/data/920148/000092014813000022/,종가 86.62 × 주식수 93100000,15
+Labcorp Holdings,LH,2013Q1,2013-03-31,분기별 매출액,1440900000,USD,공시,https://www.sec.gov/Archives/edgar/data/920148/000092014813000044/,,15
+Labcorp Holdings,LH,2013Q1,2013-03-31,분기별 영업이익,262000000,USD,공시,https://www.sec.gov/Archives/edgar/data/920148/000092014813000044/,,15
+Labcorp Holdings,LH,2013Q1,2013-03-31,분기별 당기순이익(지배),147200000,USD,공시,https://www.sec.gov/Archives/edgar/data/920148/000092014813000044/,,15
+Labcorp Holdings,LH,2013Q1,2013-03-31,분기별 영업활동현금흐름,198200000,USD,공시,https://www.sec.gov/Archives/edgar/data/920148/000092014813000044/,,15
+Labcorp Holdings,LH,2013Q1,2013-03-31,분기말 자산총계,6569400000,USD,공시,https://www.sec.gov/Archives/edgar/data/920148/000092014813000044/,,15
+Labcorp Holdings,LH,2013Q1,2013-03-31,분기말 부채총계,3770200000,USD,공시,https://www.sec.gov/Archives/edgar/data/920148/000092014813000044/,메자닌(일시자본) 20900000 별도 (원문 lh:NoncontrollingInterestMezzanineEquity 20900000),15
+Labcorp Holdings,LH,2013Q1,2013-03-31,분기말 총자본(자기자본),2778300000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/920148/000092014813000044/,"StockholdersEquity, MinorityInterest 태그 없음",15
+Labcorp Holdings,LH,2013Q1,2013-03-31,분기말 지배지분 자본,2778300000,USD,공시,https://www.sec.gov/Archives/edgar/data/920148/000092014813000044/,,15
+Labcorp Holdings,LH,2013Q1,2013-03-28,분기말 종가,90.2,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/LH?interval=1d&events=splits (2013-03-28),분할조정 종가 77.4914 × 이후 분할계수 1.164,15
+Labcorp Holdings,LH,2013Q1,2013-04-29,분기말 상장주식수,92900000,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/920148/000092014813000044/,dei:EntityCommonStockSharesOutstanding 클래스 합,15
+Labcorp Holdings,LH,2013Q1,2013-03-28,분기말 시가총액,8379580000,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/LH?interval=1d&events=splits (2013-03-28) ; https://www.sec.gov/Archives/edgar/data/920148/000092014813000044/,종가 90.2 × 주식수 92900000,15
+Labcorp Holdings,LH,2013Q2,2013-06-30,분기별 매출액,1468200000,USD,공시,https://www.sec.gov/Archives/edgar/data/920148/000092014813000072/,,15
+Labcorp Holdings,LH,2013Q2,2013-06-30,분기별 영업이익,269300000,USD,공시,https://www.sec.gov/Archives/edgar/data/920148/000092014813000072/,,15
+Labcorp Holdings,LH,2013Q2,2013-06-30,분기별 당기순이익(지배),151900000,USD,공시,https://www.sec.gov/Archives/edgar/data/920148/000092014813000072/,,15
+Labcorp Holdings,LH,2013Q2,2013-06-30,분기별 영업활동현금흐름,137600000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/920148/000092014813000072/ ; https://www.sec.gov/Archives/edgar/data/920148/000092014813000044/,누적 335800000 − 직전누적 198200000 (시작 2013-01-01),15
+Labcorp Holdings,LH,2013Q2,2013-06-30,분기말 자산총계,6591900000,USD,공시,https://www.sec.gov/Archives/edgar/data/920148/000092014813000072/,,15
+Labcorp Holdings,LH,2013Q2,2013-06-30,분기말 부채총계,3908100000,USD,공시,https://www.sec.gov/Archives/edgar/data/920148/000092014813000072/,메자닌(일시자본) 20400000 별도 (원문 lh:NoncontrollingInterestMezzanineEquity 20400000),15
+Labcorp Holdings,LH,2013Q2,2013-06-30,분기말 총자본(자기자본),2663400000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/920148/000092014813000072/,"StockholdersEquity, MinorityInterest 태그 없음",15
+Labcorp Holdings,LH,2013Q2,2013-06-30,분기말 지배지분 자본,2663400000,USD,공시,https://www.sec.gov/Archives/edgar/data/920148/000092014813000072/,,15
+Labcorp Holdings,LH,2013Q2,2013-06-28,분기말 종가,100.1,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/LH?interval=1d&events=splits (2013-06-28),분할조정 종가 85.9966 × 이후 분할계수 1.164,15
+Labcorp Holdings,LH,2013Q2,2013-07-26,분기말 상장주식수,90100000,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/920148/000092014813000072/,dei:EntityCommonStockSharesOutstanding 클래스 합,15
+Labcorp Holdings,LH,2013Q2,2013-06-28,분기말 시가총액,9019010000,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/LH?interval=1d&events=splits (2013-06-28) ; https://www.sec.gov/Archives/edgar/data/920148/000092014813000072/,종가 100.1 × 주식수 90100000,15
+Labcorp Holdings,LH,2013Q3,2013-09-30,분기별 매출액,1462200000,USD,공시,https://www.sec.gov/Archives/edgar/data/920148/000092014813000096/,,15
+Labcorp Holdings,LH,2013Q3,2013-09-30,분기별 영업이익,244600000,USD,공시,https://www.sec.gov/Archives/edgar/data/920148/000092014813000096/,,15
+Labcorp Holdings,LH,2013Q3,2013-09-30,분기별 당기순이익(지배),148300000,USD,공시,https://www.sec.gov/Archives/edgar/data/920148/000092014813000096/,,15
+Labcorp Holdings,LH,2013Q3,2013-09-30,분기별 영업활동현금흐름,234200000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/920148/000092014813000096/ ; https://www.sec.gov/Archives/edgar/data/920148/000092014813000072/,누적 570000000 − 직전누적 335800000 (시작 2013-01-01),15
+Labcorp Holdings,LH,2013Q3,2013-09-30,분기말 자산총계,6686700000,USD,공시,https://www.sec.gov/Archives/edgar/data/920148/000092014813000096/,,15
+Labcorp Holdings,LH,2013Q3,2013-09-30,분기말 부채총계,4101100000,USD,공시,https://www.sec.gov/Archives/edgar/data/920148/000092014813000096/,메자닌(일시자본) 20000000 별도 (원문 lh:NoncontrollingInterestMezzanineEquity 20000000),15
+Labcorp Holdings,LH,2013Q3,2013-09-30,분기말 총자본(자기자본),2565600000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/920148/000092014813000096/,"StockholdersEquity, MinorityInterest 태그 없음",15
+Labcorp Holdings,LH,2013Q3,2013-09-30,분기말 지배지분 자본,2565600000,USD,공시,https://www.sec.gov/Archives/edgar/data/920148/000092014813000096/,,15
+Labcorp Holdings,LH,2013Q3,2013-09-30,분기말 종가,99.14,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/LH?interval=1d&events=splits (2013-09-30),분할조정 종가 85.1718 × 이후 분할계수 1.164,15
+Labcorp Holdings,LH,2013Q3,2013-10-23,분기말 상장주식수,87400000,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/920148/000092014813000096/,dei:EntityCommonStockSharesOutstanding 클래스 합,15
+Labcorp Holdings,LH,2013Q3,2013-09-30,분기말 시가총액,8664836000,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/LH?interval=1d&events=splits (2013-09-30) ; https://www.sec.gov/Archives/edgar/data/920148/000092014813000096/,종가 99.14 × 주식수 87400000,15
+Labcorp Holdings,LH,2013Q4,2013-12-31,분기별 매출액,1437000000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/920148/000092014814000021/ ; https://www.sec.gov/Archives/edgar/data/920148/000092014813000096/,연간 5808300000 − 9개월누적 4371300000 (SalesRevenueNet),15
+Labcorp Holdings,LH,2013Q4,2013-12-31,분기별 영업이익,215000000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/920148/000092014814000021/ ; https://www.sec.gov/Archives/edgar/data/920148/000092014813000096/,연간 990900000 − 9개월누적 775900000 (OperatingIncomeLoss),15
+Labcorp Holdings,LH,2013Q4,2013-12-31,분기별 당기순이익(지배),126300000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/920148/000092014814000021/ ; https://www.sec.gov/Archives/edgar/data/920148/000092014813000096/,연간 573800000 − 9개월누적 447500000 (NetIncomeLoss),15
+Labcorp Holdings,LH,2013Q4,2013-12-31,분기별 영업활동현금흐름,248700000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/920148/000092014814000021/ ; https://www.sec.gov/Archives/edgar/data/920148/000092014813000096/,누적 818700000 − 직전누적 570000000 (시작 2013-01-01),15
+Labcorp Holdings,LH,2013Q4,2013-12-31,분기말 자산총계,6965900000,USD,공시,https://www.sec.gov/Archives/edgar/data/920148/000092014814000021/,,15
+Labcorp Holdings,LH,2013Q4,2013-12-31,분기말 부채총계,4455200000,USD,공시,https://www.sec.gov/Archives/edgar/data/920148/000092014814000021/,메자닌(일시자본) 19400000 별도 (원문 lh:NoncontrollingInterestMezzanineEquity 19400000),15
+Labcorp Holdings,LH,2013Q4,2013-12-31,분기말 총자본(자기자본),2491300000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/920148/000092014814000021/,"StockholdersEquity, MinorityInterest 태그 없음",15
+Labcorp Holdings,LH,2013Q4,2013-12-31,분기말 지배지분 자본,2491300000,USD,공시,https://www.sec.gov/Archives/edgar/data/920148/000092014814000021/,,15
+Labcorp Holdings,LH,2013Q4,2013-12-31,분기말 종가,91.37,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/LH?interval=1d&events=splits (2013-12-31),분할조정 종가 78.4966 × 이후 분할계수 1.164,15
+Labcorp Holdings,LH,2013Q4,2014-02-20,분기말 상장주식수,85300000,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/920148/000092014814000021/,dei:EntityCommonStockSharesOutstanding 클래스 합,15
+Labcorp Holdings,LH,2013Q4,2013-12-31,분기말 시가총액,7793861000,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/LH?interval=1d&events=splits (2013-12-31) ; https://www.sec.gov/Archives/edgar/data/920148/000092014814000021/,종가 91.37 × 주식수 85300000,15
+Labcorp Holdings,LH,2014Q1,2014-03-31,분기별 매출액,6011600000,USD,공시(재작성 반영),https://www.sec.gov/Archives/edgar/data/920148/000092014817000018/,원 공시 1430700000 (https://www.sec.gov/Archives/edgar/data/920148/000092014814000046/),15
+Labcorp Holdings,LH,2014Q1,2014-03-31,분기별 영업이익,904300000,USD,공시(재작성 반영),https://www.sec.gov/Archives/edgar/data/920148/000092014817000018/,원 공시 203300000 (https://www.sec.gov/Archives/edgar/data/920148/000092014814000046/),15
+Labcorp Holdings,LH,2014Q1,2014-03-31,분기별 당기순이익(지배),511200000,USD,공시(재작성 반영),https://www.sec.gov/Archives/edgar/data/920148/000092014817000018/,원 공시 113100000 (https://www.sec.gov/Archives/edgar/data/920148/000092014814000046/),15
+Labcorp Holdings,LH,2014Q1,2014-03-31,분기별 영업활동현금흐름,739000000,USD,공시(재작성 반영),https://www.sec.gov/Archives/edgar/data/920148/000092014817000018/,원 공시 142300000 (https://www.sec.gov/Archives/edgar/data/920148/000092014814000046/),15
+Labcorp Holdings,LH,2014Q1,2014-03-31,분기말 자산총계,6992400000,USD,공시,https://www.sec.gov/Archives/edgar/data/920148/000092014814000046/,,15
+Labcorp Holdings,LH,2014Q1,2014-03-31,분기말 부채총계,4472500000,USD,공시,https://www.sec.gov/Archives/edgar/data/920148/000092014814000046/,메자닌(일시자본) 18600000 별도 (원문 lh:NoncontrollingInterestMezzanineEquity 18600000),15
+Labcorp Holdings,LH,2014Q1,2014-03-31,분기말 총자본(자기자본),2501300000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/920148/000092014814000046/,"StockholdersEquity, MinorityInterest 태그 없음",15
+Labcorp Holdings,LH,2014Q1,2014-03-31,분기말 지배지분 자본,2501300000,USD,공시,https://www.sec.gov/Archives/edgar/data/920148/000092014814000046/,,15
+Labcorp Holdings,LH,2014Q1,2014-03-31,분기말 종가,98.21,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/LH?interval=1d&events=splits (2014-03-31),분할조정 종가 84.3728 × 이후 분할계수 1.164,15
+Labcorp Holdings,LH,2014Q1,2014-04-24,분기말 상장주식수,84800000,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/920148/000092014814000046/,dei:EntityCommonStockSharesOutstanding 클래스 합,15
+Labcorp Holdings,LH,2014Q1,2014-03-31,분기말 시가총액,8328208000,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/LH?interval=1d&events=splits (2014-03-31) ; https://www.sec.gov/Archives/edgar/data/920148/000092014814000046/,종가 98.21 × 주식수 84800000,15
+Labcorp Holdings,LH,2014Q2,2014-06-30,분기별 매출액,1516400000,USD,공시,https://www.sec.gov/Archives/edgar/data/920148/000092014814000074/,,15
+Labcorp Holdings,LH,2014Q2,2014-06-30,분기별 영업이익,246700000,USD,공시,https://www.sec.gov/Archives/edgar/data/920148/000092014814000074/,,15
+Labcorp Holdings,LH,2014Q2,2014-06-30,분기별 당기순이익(지배),141300000,USD,공시,https://www.sec.gov/Archives/edgar/data/920148/000092014814000074/,,15
+Labcorp Holdings,LH,2014Q2,2014-06-30,분기별 영업활동현금흐름,-389300000,USD,계산(누적차감)(재작성 반영),https://www.sec.gov/Archives/edgar/data/920148/000092014814000074/ ; https://www.sec.gov/Archives/edgar/data/920148/000092014817000018/,누적 349700000 − 직전누적 739000000 (시작 2014-01-01) ; 원 공시 207400000 (https://www.sec.gov/Archives/edgar/data/920148/000092014814000074/ ; https://www.sec.gov/Archives/edgar/data/920148/000092014814000046/),15
+Labcorp Holdings,LH,2014Q2,2014-06-30,분기말 자산총계,7144800000,USD,공시,https://www.sec.gov/Archives/edgar/data/920148/000092014814000074/,,15
+Labcorp Holdings,LH,2014Q2,2014-06-30,분기말 부채총계,4469100000,USD,공시,https://www.sec.gov/Archives/edgar/data/920148/000092014814000074/,메자닌(일시자본) 19300000 별도 (원문 lh:NoncontrollingInterestMezzanineEquity 19300000),15
+Labcorp Holdings,LH,2014Q2,2014-06-30,분기말 총자본(자기자본),2656400000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/920148/000092014814000074/,"StockholdersEquity, MinorityInterest 태그 없음",15
+Labcorp Holdings,LH,2014Q2,2014-06-30,분기말 지배지분 자본,2656400000,USD,공시,https://www.sec.gov/Archives/edgar/data/920148/000092014814000074/,,15
+Labcorp Holdings,LH,2014Q2,2014-06-30,분기말 종가,102.4,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/LH?interval=1d&events=splits (2014-06-30),분할조정 종가 87.9725 × 이후 분할계수 1.164,15
+Labcorp Holdings,LH,2014Q2,2014-07-24,분기말 상장주식수,84900000,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/920148/000092014814000074/,dei:EntityCommonStockSharesOutstanding 클래스 합,15
+Labcorp Holdings,LH,2014Q2,2014-06-30,분기말 시가총액,8693760000,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/LH?interval=1d&events=splits (2014-06-30) ; https://www.sec.gov/Archives/edgar/data/920148/000092014814000074/,종가 102.4 × 주식수 84900000,15
+Labcorp Holdings,LH,2014Q3,2014-09-30,분기별 매출액,1551800000,USD,공시,https://www.sec.gov/Archives/edgar/data/920148/000092014814000098/,,15
+Labcorp Holdings,LH,2014Q3,2014-09-30,분기별 영업이익,241400000,USD,공시,https://www.sec.gov/Archives/edgar/data/920148/000092014814000098/,,15
+Labcorp Holdings,LH,2014Q3,2014-09-30,분기별 당기순이익(지배),137200000,USD,공시,https://www.sec.gov/Archives/edgar/data/920148/000092014814000098/,,15
+Labcorp Holdings,LH,2014Q3,2014-09-30,분기별 영업활동현금흐름,175600000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/920148/000092014814000098/ ; https://www.sec.gov/Archives/edgar/data/920148/000092014814000074/,누적 525300000 − 직전누적 349700000 (시작 2014-01-01),15
+Labcorp Holdings,LH,2014Q3,2014-09-30,분기말 자산총계,7231800000,USD,공시,https://www.sec.gov/Archives/edgar/data/920148/000092014814000098/,,15
+Labcorp Holdings,LH,2014Q3,2014-09-30,분기말 부채총계,4442600000,USD,공시,https://www.sec.gov/Archives/edgar/data/920148/000092014814000098/,메자닌(일시자본) 18400000 별도 (원문 lh:NoncontrollingInterestMezzanineEquity 18400000),15
+Labcorp Holdings,LH,2014Q3,2014-09-30,분기말 총자본(자기자본),2770800000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/920148/000092014814000098/,"StockholdersEquity, MinorityInterest 태그 없음",15
+Labcorp Holdings,LH,2014Q3,2014-09-30,분기말 지배지분 자본,2770800000,USD,공시,https://www.sec.gov/Archives/edgar/data/920148/000092014814000098/,,15
+Labcorp Holdings,LH,2014Q3,2014-09-30,분기말 종가,101.75,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/LH?interval=1d&events=splits (2014-09-30),분할조정 종가 87.4141 × 이후 분할계수 1.164,15
+Labcorp Holdings,LH,2014Q3,2014-11-06,분기말 상장주식수,84500000,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/920148/000092014814000098/,dei:EntityCommonStockSharesOutstanding 클래스 합,15
+Labcorp Holdings,LH,2014Q3,2014-09-30,분기말 시가총액,8597875000,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/LH?interval=1d&events=splits (2014-09-30) ; https://www.sec.gov/Archives/edgar/data/920148/000092014814000098/,종가 101.75 × 주식수 84500000,15
+Labcorp Holdings,LH,2014Q4,2014-12-31,분기별 매출액,1512700000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/920148/000092014815000020/ ; https://www.sec.gov/Archives/edgar/data/920148/000092014814000098/,연간 6011600000 − 9개월누적 4498900000 (SalesRevenueNet),15
+Labcorp Holdings,LH,2014Q4,2014-12-31,분기별 영업이익,219000000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/920148/000092014815000020/ ; https://www.sec.gov/Archives/edgar/data/920148/000092014814000098/,연간 910400000 − 9개월누적 691400000 (OperatingIncomeLoss),15
+Labcorp Holdings,LH,2014Q4,2014-12-31,분기별 당기순이익(지배),119600000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/920148/000092014815000020/ ; https://www.sec.gov/Archives/edgar/data/920148/000092014814000098/,연간 511200000 − 9개월누적 391600000 (NetIncomeLoss),15
+Labcorp Holdings,LH,2014Q4,2014-12-31,분기별 영업활동현금흐름,213700000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/920148/000092014815000020/ ; https://www.sec.gov/Archives/edgar/data/920148/000092014814000098/,누적 739000000 − 직전누적 525300000 (시작 2014-01-01),15
+Labcorp Holdings,LH,2014Q4,2014-12-31,분기말 자산총계,7301800000,USD,공시,https://www.sec.gov/Archives/edgar/data/920148/000092014815000020/,,15
+Labcorp Holdings,LH,2014Q4,2014-12-31,분기말 부채총계,4463600000,USD,공시,https://www.sec.gov/Archives/edgar/data/920148/000092014815000020/,메자닌(일시자본) 17700000 별도 (원문 lh:NoncontrollingInterestMezzanineEquity 17700000),15
+Labcorp Holdings,LH,2014Q4,2014-12-31,분기말 총자본(자기자본),2820500000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/920148/000092014815000020/,"StockholdersEquity, MinorityInterest 태그 없음",15
+Labcorp Holdings,LH,2014Q4,2014-12-31,분기말 지배지분 자본,2820500000,USD,공시,https://www.sec.gov/Archives/edgar/data/920148/000092014815000020/,,15
+Labcorp Holdings,LH,2014Q4,2014-12-31,분기말 종가,107.9,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/LH?interval=1d&events=splits (2014-12-31),분할조정 종가 92.6976 × 이후 분할계수 1.164,15
+Labcorp Holdings,LH,2014Q4,2015-02-20,분기말 상장주식수,100300000,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/920148/000092014815000020/,dei:EntityCommonStockSharesOutstanding 클래스 합,15
+Labcorp Holdings,LH,2014Q4,2014-12-31,분기말 시가총액,10822370000,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/LH?interval=1d&events=splits (2014-12-31) ; https://www.sec.gov/Archives/edgar/data/920148/000092014815000020/,종가 107.9 × 주식수 100300000,15
+Labcorp Holdings,LH,2015Q1,2015-03-31,분기별 매출액,1793200000,USD,공시,https://www.sec.gov/Archives/edgar/data/920148/000092014815000057/,,15
+Labcorp Holdings,LH,2015Q1,2015-03-31,분기별 영업이익,132400000,USD,공시(재작성 반영),https://www.sec.gov/Archives/edgar/data/920148/000092014816000193/,원 공시 130200000 (https://www.sec.gov/Archives/edgar/data/920148/000092014815000057/),15
+Labcorp Holdings,LH,2015Q1,2015-03-31,분기별 당기순이익(지배),3000000,USD,공시(재작성 반영),https://www.sec.gov/Archives/edgar/data/920148/000092014817000018/,원 공시 700000 (https://www.sec.gov/Archives/edgar/data/920148/000092014815000057/),15
+Labcorp Holdings,LH,2015Q1,2015-03-31,분기별 영업활동현금흐름,-86900000,USD,공시,https://www.sec.gov/Archives/edgar/data/920148/000092014815000057/,,15
+Labcorp Holdings,LH,2015Q1,2015-03-31,분기말 자산총계,14150600000,USD,공시,https://www.sec.gov/Archives/edgar/data/920148/000092014815000057/,,15
+Labcorp Holdings,LH,2015Q1,2015-03-31,분기말 부채총계,9616800000,USD,공시,https://www.sec.gov/Archives/edgar/data/920148/000092014815000057/,메자닌(일시자본) 16200000 별도 (원문 lh:NoncontrollingInterestMezzanineEquity 16200000),15
+Labcorp Holdings,LH,2015Q1,2015-03-31,분기말 총자본(자기자본),4517600000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/920148/000092014815000057/,"StockholdersEquity, MinorityInterest 태그 없음",15
+Labcorp Holdings,LH,2015Q1,2015-03-31,분기말 지배지분 자본,4517600000,USD,공시,https://www.sec.gov/Archives/edgar/data/920148/000092014815000057/,,15
+Labcorp Holdings,LH,2015Q1,2015-03-31,분기말 종가,126.09,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/LH?interval=1d&events=splits (2015-03-31),분할조정 종가 108.3247 × 이후 분할계수 1.164,15
+Labcorp Holdings,LH,2015Q1,2015-04-30,분기말 상장주식수,100400000,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/920148/000092014815000057/,dei:EntityCommonStockSharesOutstanding 클래스 합,15
+Labcorp Holdings,LH,2015Q1,2015-03-31,분기말 시가총액,12659436000,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/LH?interval=1d&events=splits (2015-03-31) ; https://www.sec.gov/Archives/edgar/data/920148/000092014815000057/,종가 126.09 × 주식수 100400000,15
+Labcorp Holdings,LH,2015Q2,2015-06-30,분기별 매출액,2269100000,USD,공시,https://www.sec.gov/Archives/edgar/data/920148/000092014815000097/,,15
+Labcorp Holdings,LH,2015Q2,2015-06-30,분기별 영업이익,323300000,USD,공시(재작성 반영),https://www.sec.gov/Archives/edgar/data/920148/000092014816000220/,원 공시 321300000 (https://www.sec.gov/Archives/edgar/data/920148/000092014815000097/),15
+Labcorp Holdings,LH,2015Q2,2015-06-30,분기별 당기순이익(지배),169900000,USD,공시(재작성 반영),https://www.sec.gov/Archives/edgar/data/920148/000092014817000018/,원 공시 168400000 (https://www.sec.gov/Archives/edgar/data/920148/000092014815000097/),15
+Labcorp Holdings,LH,2015Q2,2015-06-30,분기별 영업활동현금흐름,396700000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/920148/000092014815000097/ ; https://www.sec.gov/Archives/edgar/data/920148/000092014815000057/,누적 309800000 − 직전누적 -86900000 (시작 2015-01-01),15
+Labcorp Holdings,LH,2015Q2,2015-06-30,분기말 자산총계,14465200000,USD,공시,https://www.sec.gov/Archives/edgar/data/920148/000092014815000097/,,15
+Labcorp Holdings,LH,2015Q2,2015-06-30,분기말 부채총계,9679000000,USD,공시,https://www.sec.gov/Archives/edgar/data/920148/000092014815000097/,메자닌(일시자본) 16500000 별도 (원문 lh:NoncontrollingInterestMezzanineEquity 16500000),15
+Labcorp Holdings,LH,2015Q2,2015-06-30,분기말 총자본(자기자본),4769700000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/920148/000092014815000097/,"StockholdersEquity, MinorityInterest 태그 없음",15
+Labcorp Holdings,LH,2015Q2,2015-06-30,분기말 지배지분 자본,4769700000,USD,공시,https://www.sec.gov/Archives/edgar/data/920148/000092014815000097/,,15
+Labcorp Holdings,LH,2015Q2,2015-06-30,분기말 종가,121.22,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/LH?interval=1d&events=splits (2015-06-30),분할조정 종가 104.1409 × 이후 분할계수 1.164,15
+Labcorp Holdings,LH,2015Q2,2015-07-27,분기말 상장주식수,100600000,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/920148/000092014815000097/,dei:EntityCommonStockSharesOutstanding 클래스 합,15
+Labcorp Holdings,LH,2015Q2,2015-06-30,분기말 시가총액,12194732000,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/LH?interval=1d&events=splits (2015-06-30) ; https://www.sec.gov/Archives/edgar/data/920148/000092014815000097/,종가 121.22 × 주식수 100600000,15
+Labcorp Holdings,LH,2015Q3,2015-09-30,분기별 매출액,2317300000,USD,공시,https://www.sec.gov/Archives/edgar/data/920148/000092014815000133/,,15
+Labcorp Holdings,LH,2015Q3,2015-09-30,분기별 영업이익,308100000,USD,공시(재작성 반영),https://www.sec.gov/Archives/edgar/data/920148/000092014816000248/,원 공시 306900000 (https://www.sec.gov/Archives/edgar/data/920148/000092014815000133/),15
+Labcorp Holdings,LH,2015Q3,2015-09-30,분기별 당기순이익(지배),154700000,USD,공시(재작성 반영),https://www.sec.gov/Archives/edgar/data/920148/000092014817000018/,원 공시 152800000 (https://www.sec.gov/Archives/edgar/data/920148/000092014815000133/),15
+Labcorp Holdings,LH,2015Q3,2015-09-30,분기별 영업활동현금흐름,288000000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/920148/000092014815000133/ ; https://www.sec.gov/Archives/edgar/data/920148/000092014815000097/,누적 597800000 − 직전누적 309800000 (시작 2015-01-01),15
+Labcorp Holdings,LH,2015Q3,2015-09-30,분기말 자산총계,14422300000,USD,공시,https://www.sec.gov/Archives/edgar/data/920148/000092014815000133/,,15
+Labcorp Holdings,LH,2015Q3,2015-09-30,분기말 부채총계,9493300000,USD,공시,https://www.sec.gov/Archives/edgar/data/920148/000092014815000133/,메자닌(일시자본) 15500000 별도 (원문 lh:NoncontrollingInterestMezzanineEquity 15500000),15
+Labcorp Holdings,LH,2015Q3,2015-09-30,분기말 총자본(자기자본),4913500000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/920148/000092014815000133/,"StockholdersEquity, MinorityInterest 태그 없음",15
+Labcorp Holdings,LH,2015Q3,2015-09-30,분기말 지배지분 자본,4913500000,USD,공시,https://www.sec.gov/Archives/edgar/data/920148/000092014815000133/,,15
+Labcorp Holdings,LH,2015Q3,2015-09-30,분기말 종가,108.47,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/LH?interval=1d&events=splits (2015-09-30),분할조정 종가 93.1873 × 이후 분할계수 1.164,15
+Labcorp Holdings,LH,2015Q3,2015-10-27,분기말 상장주식수,101200000,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/920148/000092014815000133/,dei:EntityCommonStockSharesOutstanding 클래스 합,15
+Labcorp Holdings,LH,2015Q3,2015-09-30,분기말 시가총액,10977164000,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/LH?interval=1d&events=splits (2015-09-30) ; https://www.sec.gov/Archives/edgar/data/920148/000092014815000133/,종가 108.47 × 주식수 101200000,15
+Labcorp Holdings,LH,2015Q4,2015-12-31,분기별 매출액,2300500000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/920148/000092014816000165/ ; https://www.sec.gov/Archives/edgar/data/920148/000092014815000133/,연간 8680100000 − 9개월누적 6379600000 (Revenues),15
+Labcorp Holdings,LH,2015Q4,2015-12-31,분기별 영업이익,236500000,USD,계산(연간-3분기누적)(재작성 반영),https://www.sec.gov/Archives/edgar/data/920148/000092014818000024/ ; https://www.sec.gov/Archives/edgar/data/920148/000092014816000248/,연간 996800000 − 9개월누적 760300000 (OperatingIncomeLoss) ; 원 공시 243400000 (https://www.sec.gov/Archives/edgar/data/920148/000092014816000165/ ; https://www.sec.gov/Archives/edgar/data/920148/000092014815000133/),15
+Labcorp Holdings,LH,2015Q4,2015-12-31,분기별 당기순이익(지배),110000000,USD,계산(연간-3분기누적)(재작성 반영),https://www.sec.gov/Archives/edgar/data/920148/000092014818000024/ ; https://www.sec.gov/Archives/edgar/data/920148/000092014816000248/,연간 437600000 − 9개월누적 327600000 (NetIncomeLoss) ; 원 공시 114300000 (https://www.sec.gov/Archives/edgar/data/920148/000092014816000165/ ; https://www.sec.gov/Archives/edgar/data/920148/000092014815000133/),15
+Labcorp Holdings,LH,2015Q4,2015-12-31,분기별 영업활동현금흐름,384600000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/920148/000092014816000165/ ; https://www.sec.gov/Archives/edgar/data/920148/000092014815000133/,누적 982400000 − 직전누적 597800000 (시작 2015-01-01),15
+Labcorp Holdings,LH,2015Q4,2015-12-31,분기말 자산총계,14104700000,USD,공시(재작성 반영),https://www.sec.gov/Archives/edgar/data/920148/000092014817000018/,원 공시 14221700000 (https://www.sec.gov/Archives/edgar/data/920148/000092014816000165/),15
+Labcorp Holdings,LH,2015Q4,2015-12-31,분기말 부채총계,9144700000,USD,공시(재작성 반영),https://www.sec.gov/Archives/edgar/data/920148/000092014817000018/,메자닌(일시자본) 14900000 별도 (원문 lh:NoncontrollingInterestMezzanineEquity 14900000) ; 원 공시 9262400000 (https://www.sec.gov/Archives/edgar/data/920148/000092014816000165/),15
+Labcorp Holdings,LH,2015Q4,2015-12-31,분기말 총자본(자기자본),4945100000,USD,공시(비지배 없음)(재작성 반영),https://www.sec.gov/Archives/edgar/data/920148/000092014818000024/,"StockholdersEquity, MinorityInterest 태그 없음 ; 원 공시 4944400000 (https://www.sec.gov/Archives/edgar/data/920148/000092014816000165/)",15
+Labcorp Holdings,LH,2015Q4,2015-12-31,분기말 지배지분 자본,4945100000,USD,공시(재작성 반영),https://www.sec.gov/Archives/edgar/data/920148/000092014818000024/,원 공시 4944400000 (https://www.sec.gov/Archives/edgar/data/920148/000092014816000165/),15
+Labcorp Holdings,LH,2015Q4,2015-12-31,분기말 종가,123.64,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/LH?interval=1d&events=splits (2015-12-31),분할조정 종가 106.2199 × 이후 분할계수 1.164,15
+Labcorp Holdings,LH,2015Q4,2016-02-23,분기말 상장주식수,101700000,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/920148/000092014816000165/,dei:EntityCommonStockSharesOutstanding 클래스 합,15
+Labcorp Holdings,LH,2015Q4,2015-12-31,분기말 시가총액,12574188000,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/LH?interval=1d&events=splits (2015-12-31) ; https://www.sec.gov/Archives/edgar/data/920148/000092014816000165/,종가 123.64 × 주식수 101700000,15
+Labcorp Holdings,LH,2016Q1,2016-03-31,분기별 매출액,9641800000,USD,공시(재작성 반영),https://www.sec.gov/Archives/edgar/data/920148/000092014818000024/,원 공시 2368000000 (https://www.sec.gov/Archives/edgar/data/920148/000092014816000193/),15
+Labcorp Holdings,LH,2016Q1,2016-03-31,분기별 영업이익,299500000,USD,공시(재작성 반영),https://www.sec.gov/Archives/edgar/data/920148/000092014817000044/,원 공시 301900000 (https://www.sec.gov/Archives/edgar/data/920148/000092014816000193/),15
+Labcorp Holdings,LH,2016Q1,2016-03-31,분기별 당기순이익(지배),164100000,USD,공시(재작성 반영),https://www.sec.gov/Archives/edgar/data/920148/000092014818000024/,원 공시 160200000 (https://www.sec.gov/Archives/edgar/data/920148/000092014816000193/),15
+Labcorp Holdings,LH,2016Q1,2016-03-31,분기별 영업활동현금흐름,127600000,USD,공시(재작성 반영),https://www.sec.gov/Archives/edgar/data/920148/000092014817000044/,원 공시 123000000 (https://www.sec.gov/Archives/edgar/data/920148/000092014816000193/),15
+Labcorp Holdings,LH,2016Q1,2016-03-31,분기말 자산총계,14410400000,USD,공시,https://www.sec.gov/Archives/edgar/data/920148/000092014816000193/,,15
+Labcorp Holdings,LH,2016Q1,2016-03-31,분기말 부채총계,9228100000,USD,공시,https://www.sec.gov/Archives/edgar/data/920148/000092014816000193/,메자닌(일시자본) 15800000 별도 (원문 lh:NoncontrollingInterestMezzanineEquity 15800000),15
+Labcorp Holdings,LH,2016Q1,2016-03-31,분기말 총자본(자기자본),5166500000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/920148/000092014816000193/,"StockholdersEquity, MinorityInterest 태그 없음",15
+Labcorp Holdings,LH,2016Q1,2016-03-31,분기말 지배지분 자본,5166500000,USD,공시,https://www.sec.gov/Archives/edgar/data/920148/000092014816000193/,,15
+Labcorp Holdings,LH,2016Q1,2016-03-31,분기말 종가,117.13,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/LH?interval=1d&events=splits (2016-03-31),분할조정 종가 100.6272 × 이후 분할계수 1.164,15
+Labcorp Holdings,LH,2016Q1,2016-05-04,분기말 상장주식수,102400000,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/920148/000092014816000193/,dei:EntityCommonStockSharesOutstanding 클래스 합,15
+Labcorp Holdings,LH,2016Q1,2016-03-31,분기말 시가총액,11994112000,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/LH?interval=1d&events=splits (2016-03-31) ; https://www.sec.gov/Archives/edgar/data/920148/000092014816000193/,종가 117.13 × 주식수 102400000,15
+Labcorp Holdings,LH,2016Q2,2016-06-30,분기별 매출액,2430700000,USD,공시,https://www.sec.gov/Archives/edgar/data/920148/000092014816000220/,,15
+Labcorp Holdings,LH,2016Q2,2016-06-30,분기별 영업이익,365500000,USD,공시(재작성 반영),https://www.sec.gov/Archives/edgar/data/920148/000092014817000079/,원 공시 366900000 (https://www.sec.gov/Archives/edgar/data/920148/000092014816000220/),15
+Labcorp Holdings,LH,2016Q2,2016-06-30,분기별 당기순이익(지배),204100000,USD,공시(재작성 반영),https://www.sec.gov/Archives/edgar/data/920148/000092014818000024/,원 공시 198200000 (https://www.sec.gov/Archives/edgar/data/920148/000092014816000220/),15
+Labcorp Holdings,LH,2016Q2,2016-06-30,분기별 영업활동현금흐름,349500000,USD,계산(누적차감)(재작성 반영),https://www.sec.gov/Archives/edgar/data/920148/000092014817000079/ ; https://www.sec.gov/Archives/edgar/data/920148/000092014817000044/,누적 477100000 − 직전누적 127600000 (시작 2016-01-01) ; 원 공시 343600000 (https://www.sec.gov/Archives/edgar/data/920148/000092014816000220/ ; https://www.sec.gov/Archives/edgar/data/920148/000092014816000193/),15
+Labcorp Holdings,LH,2016Q2,2016-06-30,분기말 자산총계,14199000000,USD,공시,https://www.sec.gov/Archives/edgar/data/920148/000092014816000220/,,15
+Labcorp Holdings,LH,2016Q2,2016-06-30,분기말 부채총계,8870100000,USD,공시,https://www.sec.gov/Archives/edgar/data/920148/000092014816000220/,메자닌(일시자본) 15900000 별도 (원문 lh:NoncontrollingInterestMezzanineEquity 15900000),15
+Labcorp Holdings,LH,2016Q2,2016-06-30,분기말 총자본(자기자본),5313000000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/920148/000092014816000220/,"StockholdersEquity, MinorityInterest 태그 없음",15
+Labcorp Holdings,LH,2016Q2,2016-06-30,분기말 지배지분 자본,5313000000,USD,공시,https://www.sec.gov/Archives/edgar/data/920148/000092014816000220/,,15
+Labcorp Holdings,LH,2016Q2,2016-06-30,분기말 종가,130.27,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/LH?interval=1d&events=splits (2016-06-30),분할조정 종가 111.9158 × 이후 분할계수 1.164,15
+Labcorp Holdings,LH,2016Q2,2016-07-26,분기말 상장주식수,102300000,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/920148/000092014816000220/,dei:EntityCommonStockSharesOutstanding 클래스 합,15
+Labcorp Holdings,LH,2016Q2,2016-06-30,분기말 시가총액,13326621000,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/LH?interval=1d&events=splits (2016-06-30) ; https://www.sec.gov/Archives/edgar/data/920148/000092014816000220/,종가 130.27 × 주식수 102300000,15
+Labcorp Holdings,LH,2016Q3,2016-09-30,분기별 매출액,2414700000,USD,공시,https://www.sec.gov/Archives/edgar/data/920148/000092014816000248/,,15
+Labcorp Holdings,LH,2016Q3,2016-09-30,분기별 영업이익,324000000,USD,공시,https://www.sec.gov/Archives/edgar/data/920148/000092014816000248/,,15
+Labcorp Holdings,LH,2016Q3,2016-09-30,분기별 당기순이익(지배),179500000,USD,공시,https://www.sec.gov/Archives/edgar/data/920148/000092014816000248/,,15
+Labcorp Holdings,LH,2016Q3,2016-09-30,분기별 영업활동현금흐름,249900000,USD,계산(누적차감)(재작성 반영),https://www.sec.gov/Archives/edgar/data/920148/000092014816000248/ ; https://www.sec.gov/Archives/edgar/data/920148/000092014817000079/,누적 727000000 − 직전누적 477100000 (시작 2016-01-01) ; 원 공시 260400000 (https://www.sec.gov/Archives/edgar/data/920148/000092014816000248/ ; https://www.sec.gov/Archives/edgar/data/920148/000092014816000220/),15
+Labcorp Holdings,LH,2016Q3,2016-09-30,분기말 자산총계,14483000000,USD,공시,https://www.sec.gov/Archives/edgar/data/920148/000092014816000248/,,15
+Labcorp Holdings,LH,2016Q3,2016-09-30,분기말 부채총계,8944000000,USD,공시,https://www.sec.gov/Archives/edgar/data/920148/000092014816000248/,메자닌(일시자본) 15600000 별도 (원문 lh:NoncontrollingInterestMezzanineEquity 15600000),15
+Labcorp Holdings,LH,2016Q3,2016-09-30,분기말 총자본(자기자본),5523400000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/920148/000092014816000248/,"StockholdersEquity, MinorityInterest 태그 없음",15
+Labcorp Holdings,LH,2016Q3,2016-09-30,분기말 지배지분 자본,5523400000,USD,공시,https://www.sec.gov/Archives/edgar/data/920148/000092014816000248/,,15
+Labcorp Holdings,LH,2016Q3,2016-09-30,분기말 종가,137.48,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/LH?interval=1d&events=splits (2016-09-30),분할조정 종가 118.11 × 이후 분할계수 1.164,15
+Labcorp Holdings,LH,2016Q3,2016-10-26,분기말 상장주식수,103000000,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/920148/000092014816000248/,dei:EntityCommonStockSharesOutstanding 클래스 합,15
+Labcorp Holdings,LH,2016Q3,2016-09-30,분기말 시가총액,14160440000,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/LH?interval=1d&events=splits (2016-09-30) ; https://www.sec.gov/Archives/edgar/data/920148/000092014816000248/,종가 137.48 × 주식수 103000000,15
+Labcorp Holdings,LH,2016Q4,2016-12-31,분기별 매출액,2428400000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/920148/000092014817000018/ ; https://www.sec.gov/Archives/edgar/data/920148/000092014816000248/,연간 9641800000 − 9개월누적 7213400000 (Revenues),15
+Labcorp Holdings,LH,2016Q4,2016-12-31,분기별 영업이익,323400000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/920148/000092014817000018/ ; https://www.sec.gov/Archives/edgar/data/920148/000092014816000248/,연간 1312400000 − 9개월누적 989000000 (OperatingIncomeLoss),15
+Labcorp Holdings,LH,2016Q4,2016-12-31,분기별 당기순이익(지배),184400000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/920148/000092014817000018/ ; https://www.sec.gov/Archives/edgar/data/920148/000092014816000248/,연간 732100000 − 9개월누적 547700000 (NetIncomeLoss),15
+Labcorp Holdings,LH,2016Q4,2016-12-31,분기별 영업활동현금흐름,448900000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/920148/000092014817000018/ ; https://www.sec.gov/Archives/edgar/data/920148/000092014816000248/,누적 1175900000 − 직전누적 727000000 (시작 2016-01-01),15
+Labcorp Holdings,LH,2016Q4,2016-12-31,분기말 자산총계,14247000000,USD,공시,https://www.sec.gov/Archives/edgar/data/920148/000092014817000018/,,15
+Labcorp Holdings,LH,2016Q4,2016-12-31,분기말 부채총계,8726000000,USD,공시,https://www.sec.gov/Archives/edgar/data/920148/000092014817000018/,메자닌(일시자본) 15200000 별도 (원문 lh:NoncontrollingInterestMezzanineEquity 15200000),15
+Labcorp Holdings,LH,2016Q4,2016-12-31,분기말 총자본(자기자본),5505800000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/920148/000092014817000018/,"StockholdersEquity, MinorityInterest 태그 없음",15
+Labcorp Holdings,LH,2016Q4,2016-12-31,분기말 지배지분 자본,5505800000,USD,공시,https://www.sec.gov/Archives/edgar/data/920148/000092014817000018/,,15
+Labcorp Holdings,LH,2016Q4,2016-12-30,분기말 종가,128.38,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/LH?interval=1d&events=splits (2016-12-30),분할조정 종가 110.2921 × 이후 분할계수 1.164,15
+Labcorp Holdings,LH,2016Q4,2017-02-22,분기말 상장주식수,102300000,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/920148/000092014817000018/,dei:EntityCommonStockSharesOutstanding 클래스 합,15
+Labcorp Holdings,LH,2016Q4,2016-12-30,분기말 시가총액,13133274000,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/LH?interval=1d&events=splits (2016-12-30) ; https://www.sec.gov/Archives/edgar/data/920148/000092014817000018/,종가 128.38 × 주식수 102300000,15
+Labcorp Holdings,LH,2017Q1,2017-03-31,분기별 매출액,2413700000,USD,공시(재작성 반영),https://www.sec.gov/Archives/edgar/data/920148/000092014818000062/,원 공시 2447000000 (https://www.sec.gov/Archives/edgar/data/920148/000092014817000044/),15
+Labcorp Holdings,LH,2017Q1,2017-03-31,분기별 영업이익,318100000,USD,공시(재작성 반영),https://www.sec.gov/Archives/edgar/data/920148/000092014818000062/,원 공시 332700000 (https://www.sec.gov/Archives/edgar/data/920148/000092014817000044/),15
+Labcorp Holdings,LH,2017Q1,2017-03-31,분기별 당기순이익(지배),183000000,USD,공시(재작성 반영),https://www.sec.gov/Archives/edgar/data/920148/000092014818000062/,원 공시 192200000 (https://www.sec.gov/Archives/edgar/data/920148/000092014817000044/),15
+Labcorp Holdings,LH,2017Q1,2017-03-31,분기별 영업활동현금흐름,225900000,USD,공시(재작성 반영),https://www.sec.gov/Archives/edgar/data/920148/000092014818000062/,원 공시 233800000 (https://www.sec.gov/Archives/edgar/data/920148/000092014817000044/),15
+Labcorp Holdings,LH,2017Q1,2017-03-31,분기말 자산총계,14428000000,USD,공시,https://www.sec.gov/Archives/edgar/data/920148/000092014817000044/,,15
+Labcorp Holdings,LH,2017Q1,2017-03-31,분기말 부채총계,8761800000,USD,공시,https://www.sec.gov/Archives/edgar/data/920148/000092014817000044/,메자닌(일시자본) 15500000 별도 (원문 lh:NoncontrollingInterestMezzanineEquity 15500000),15
+Labcorp Holdings,LH,2017Q1,2017-03-31,분기말 총자본(자기자본),5650700000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/920148/000092014817000044/,"StockholdersEquity, MinorityInterest 태그 없음",15
+Labcorp Holdings,LH,2017Q1,2017-03-31,분기말 지배지분 자본,5650700000,USD,공시,https://www.sec.gov/Archives/edgar/data/920148/000092014817000044/,,15
+Labcorp Holdings,LH,2017Q1,2017-03-31,분기말 종가,143.47,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/LH?interval=1d&events=splits (2017-03-31),분할조정 종가 123.256 × 이후 분할계수 1.164,15
+Labcorp Holdings,LH,2017Q1,2017-04-26,분기말 상장주식수,102300000,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/920148/000092014817000044/,dei:EntityCommonStockSharesOutstanding 클래스 합,15
+Labcorp Holdings,LH,2017Q1,2017-03-31,분기말 시가총액,14676981000,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/LH?interval=1d&events=splits (2017-03-31) ; https://www.sec.gov/Archives/edgar/data/920148/000092014817000044/,종가 143.47 × 주식수 102300000,15
+Labcorp Holdings,LH,2017Q2,2017-06-30,분기별 매출액,2542900000,USD,공시,https://www.sec.gov/Archives/edgar/data/920148/000092014817000079/,,15
+Labcorp Holdings,LH,2017Q2,2017-06-30,분기별 영업이익,336000000,USD,공시,https://www.sec.gov/Archives/edgar/data/920148/000092014817000079/,,15
+Labcorp Holdings,LH,2017Q2,2017-06-30,분기별 당기순이익(지배),188600000,USD,공시,https://www.sec.gov/Archives/edgar/data/920148/000092014817000079/,,15
+Labcorp Holdings,LH,2017Q2,2017-06-30,분기별 영업활동현금흐름,318600000,USD,계산(누적차감)(재작성 반영),https://www.sec.gov/Archives/edgar/data/920148/000092014817000079/ ; https://www.sec.gov/Archives/edgar/data/920148/000092014818000062/,누적 544500000 − 직전누적 225900000 (시작 2017-01-01) ; 원 공시 310700000 (https://www.sec.gov/Archives/edgar/data/920148/000092014817000079/ ; https://www.sec.gov/Archives/edgar/data/920148/000092014817000044/),15
+Labcorp Holdings,LH,2017Q2,2017-06-30,분기말 자산총계,14902500000,USD,공시,https://www.sec.gov/Archives/edgar/data/920148/000092014817000079/,,15
+Labcorp Holdings,LH,2017Q2,2017-06-30,분기말 부채총계,9008500000,USD,공시,https://www.sec.gov/Archives/edgar/data/920148/000092014817000079/,메자닌(일시자본) 15900000 별도 (원문 lh:NoncontrollingInterestMezzanineEquity 15900000),15
+Labcorp Holdings,LH,2017Q2,2017-06-30,분기말 총자본(자기자본),5878100000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/920148/000092014817000079/,"StockholdersEquity, MinorityInterest 태그 없음",15
+Labcorp Holdings,LH,2017Q2,2017-06-30,분기말 지배지분 자본,5878100000,USD,공시,https://www.sec.gov/Archives/edgar/data/920148/000092014817000079/,,15
+Labcorp Holdings,LH,2017Q2,2017-06-30,분기말 종가,154.14,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/LH?interval=1d&events=splits (2017-06-30),분할조정 종가 132.4227 × 이후 분할계수 1.164,15
+Labcorp Holdings,LH,2017Q2,2017-07-28,분기말 상장주식수,101800000,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/920148/000092014817000079/,dei:EntityCommonStockSharesOutstanding 클래스 합,15
+Labcorp Holdings,LH,2017Q2,2017-06-30,분기말 시가총액,15691452000,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/LH?interval=1d&events=splits (2017-06-30) ; https://www.sec.gov/Archives/edgar/data/920148/000092014817000079/,종가 154.14 × 주식수 101800000,15
+Labcorp Holdings,LH,2017Q3,2017-09-30,분기별 매출액,2655200000,USD,공시,https://www.sec.gov/Archives/edgar/data/920148/000092014817000112/,,15
+Labcorp Holdings,LH,2017Q3,2017-09-30,분기별 영업이익,341300000,USD,공시,https://www.sec.gov/Archives/edgar/data/920148/000092014817000112/,,15
+Labcorp Holdings,LH,2017Q3,2017-09-30,분기별 당기순이익(지배),180600000,USD,공시,https://www.sec.gov/Archives/edgar/data/920148/000092014817000112/,,15
+Labcorp Holdings,LH,2017Q3,2017-09-30,분기별 영업활동현금흐름,350900000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/920148/000092014817000112/ ; https://www.sec.gov/Archives/edgar/data/920148/000092014817000079/,누적 895400000 − 직전누적 544500000 (시작 2017-01-01),15
+Labcorp Holdings,LH,2017Q3,2017-09-30,분기말 자산총계,16691800000,USD,공시,https://www.sec.gov/Archives/edgar/data/920148/000092014817000112/,,15
+Labcorp Holdings,LH,2017Q3,2017-09-30,분기말 부채총계,10539000000,USD,공시,https://www.sec.gov/Archives/edgar/data/920148/000092014817000112/,메자닌(일시자본) 26900000 별도 (원문 lh:NoncontrollingInterestMezzanineEquity 26900000),15
+Labcorp Holdings,LH,2017Q3,2017-09-30,분기말 총자본(자기자본),6125900000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/920148/000092014817000112/,"StockholdersEquity, MinorityInterest 태그 없음",15
+Labcorp Holdings,LH,2017Q3,2017-09-30,분기말 지배지분 자본,6125900000,USD,공시,https://www.sec.gov/Archives/edgar/data/920148/000092014817000112/,,15
+Labcorp Holdings,LH,2017Q3,2017-09-29,분기말 종가,150.97,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/LH?interval=1d&events=splits (2017-09-29),분할조정 종가 129.6993 × 이후 분할계수 1.164,15
+Labcorp Holdings,LH,2017Q3,2017-10-30,분기말 상장주식수,101800000,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/920148/000092014817000112/,dei:EntityCommonStockSharesOutstanding 클래스 합,15
+Labcorp Holdings,LH,2017Q3,2017-09-29,분기말 시가총액,15368746000,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/LH?interval=1d&events=splits (2017-09-29) ; https://www.sec.gov/Archives/edgar/data/920148/000092014817000112/,종가 150.97 × 주식수 101800000,15
+Labcorp Holdings,LH,2017Q4,2017-12-31,분기별 매출액,2796300000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/920148/000092014818000024/ ; https://www.sec.gov/Archives/edgar/data/920148/000092014817000112/,연간 10441400000 − 9개월누적 7645100000 (Revenues),15
+Labcorp Holdings,LH,2017Q4,2017-12-31,분기별 영업이익,354200000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/920148/000092014818000024/ ; https://www.sec.gov/Archives/edgar/data/920148/000092014817000112/,연간 1364200000 − 9개월누적 1010000000 (OperatingIncomeLoss),15
+Labcorp Holdings,LH,2017Q4,2017-12-31,분기별 당기순이익(지배),706800000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/920148/000092014818000024/ ; https://www.sec.gov/Archives/edgar/data/920148/000092014817000112/,연간 1268200000 − 9개월누적 561400000 (NetIncomeLoss),15
+Labcorp Holdings,LH,2017Q4,2017-12-31,분기별 영업활동현금흐름,564000000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/920148/000092014818000024/ ; https://www.sec.gov/Archives/edgar/data/920148/000092014817000112/,누적 1459400000 − 직전누적 895400000 (시작 2017-01-01),15
+Labcorp Holdings,LH,2017Q4,2017-12-31,분기말 자산총계,16673000000,USD,공시(재작성 반영),https://www.sec.gov/Archives/edgar/data/920148/000092014819000033/,원 공시 16568000000 (https://www.sec.gov/Archives/edgar/data/920148/000092014818000024/),15
+Labcorp Holdings,LH,2017Q4,2017-12-31,분기말 부채총계,9848100000,USD,공시(재작성 반영),https://www.sec.gov/Archives/edgar/data/920148/000092014819000033/,메자닌(일시자본) 20800000 별도 (원문 lh:NoncontrollingInterestMezzanineEquity 20800000) ; 원 공시 9717200000 (https://www.sec.gov/Archives/edgar/data/920148/000092014818000024/),15
+Labcorp Holdings,LH,2017Q4,2017-12-31,분기말 총자본(자기자본),6804100000,USD,공시(비지배 없음)(재작성 반영),https://www.sec.gov/Archives/edgar/data/920148/000092014821000018/,"StockholdersEquity, MinorityInterest 태그 없음 ; 원 공시 6830000000 (https://www.sec.gov/Archives/edgar/data/920148/000092014818000024/)",15
+Labcorp Holdings,LH,2017Q4,2017-12-31,분기말 지배지분 자본,6804100000,USD,공시(재작성 반영),https://www.sec.gov/Archives/edgar/data/920148/000092014821000018/,원 공시 6830000000 (https://www.sec.gov/Archives/edgar/data/920148/000092014818000024/),15
+Labcorp Holdings,LH,2017Q4,2017-12-29,분기말 종가,159.51,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/LH?interval=1d&events=splits (2017-12-29),분할조정 종가 137.0361 × 이후 분할계수 1.164,15
+Labcorp Holdings,LH,2017Q4,2018-02-22,분기말 상장주식수,101900000,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/920148/000092014818000024/,dei:EntityCommonStockSharesOutstanding 클래스 합,15
+Labcorp Holdings,LH,2017Q4,2017-12-29,분기말 시가총액,16254069000,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/LH?interval=1d&events=splits (2017-12-29) ; https://www.sec.gov/Archives/edgar/data/920148/000092014818000024/,종가 159.51 × 주식수 101900000,15
+Labcorp Holdings,LH,2018Q1,2018-03-31,분기별 매출액,2848300000,USD,공시,https://www.sec.gov/Archives/edgar/data/920148/000092014818000062/,,15
+Labcorp Holdings,LH,2018Q1,2018-03-31,분기별 영업이익,305400000,USD,공시,https://www.sec.gov/Archives/edgar/data/920148/000092014818000062/,,15
+Labcorp Holdings,LH,2018Q1,2018-03-31,분기별 당기순이익(지배),173200000,USD,공시,https://www.sec.gov/Archives/edgar/data/920148/000092014818000062/,,15
+Labcorp Holdings,LH,2018Q1,2018-03-31,분기별 영업활동현금흐름,154700000,USD,공시,https://www.sec.gov/Archives/edgar/data/920148/000092014818000062/,,15
+Labcorp Holdings,LH,2018Q1,2018-03-31,분기말 자산총계,16831700000,USD,공시,https://www.sec.gov/Archives/edgar/data/920148/000092014818000062/,,15
+Labcorp Holdings,LH,2018Q1,2018-03-31,분기말 부채총계,9827500000,USD,공시,https://www.sec.gov/Archives/edgar/data/920148/000092014818000062/,메자닌(일시자본) 20200000 별도 (원문 lh:NoncontrollingInterestMezzanineEquity 20200000),15
+Labcorp Holdings,LH,2018Q1,2018-03-31,분기말 총자본(자기자본),6984000000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/920148/000092014818000062/,"StockholdersEquity, MinorityInterest 태그 없음",15
+Labcorp Holdings,LH,2018Q1,2018-03-31,분기말 지배지분 자본,6984000000,USD,공시,https://www.sec.gov/Archives/edgar/data/920148/000092014818000062/,,15
+Labcorp Holdings,LH,2018Q1,2018-03-29,분기말 종가,161.75,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/LH?interval=1d&events=splits (2018-03-29),분할조정 종가 138.9605 × 이후 분할계수 1.164,15
+Labcorp Holdings,LH,2018Q1,2018-04-27,분기말 상장주식수,102300000,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/920148/000092014818000062/,dei:EntityCommonStockSharesOutstanding 클래스 합,15
+Labcorp Holdings,LH,2018Q1,2018-03-29,분기말 시가총액,16547025000,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/LH?interval=1d&events=splits (2018-03-29) ; https://www.sec.gov/Archives/edgar/data/920148/000092014818000062/,종가 161.75 × 주식수 102300000,15
+Labcorp Holdings,LH,2018Q2,2018-06-30,분기별 매출액,2866300000,USD,공시,https://www.sec.gov/Archives/edgar/data/920148/000092014818000097/,,15
+Labcorp Holdings,LH,2018Q2,2018-06-30,분기별 영업이익,369200000,USD,공시,https://www.sec.gov/Archives/edgar/data/920148/000092014818000097/,,15
+Labcorp Holdings,LH,2018Q2,2018-06-30,분기별 당기순이익(지배),233800000,USD,공시,https://www.sec.gov/Archives/edgar/data/920148/000092014818000097/,,15
+Labcorp Holdings,LH,2018Q2,2018-06-30,분기별 영업활동현금흐름,367300000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/920148/000092014818000097/ ; https://www.sec.gov/Archives/edgar/data/920148/000092014818000062/,누적 522000000 − 직전누적 154700000 (시작 2018-01-01),15
+Labcorp Holdings,LH,2018Q2,2018-06-30,분기말 자산총계,16504500000,USD,공시,https://www.sec.gov/Archives/edgar/data/920148/000092014818000097/,,15
+Labcorp Holdings,LH,2018Q2,2018-06-30,분기말 부채총계,9446800000,USD,공시,https://www.sec.gov/Archives/edgar/data/920148/000092014818000097/,메자닌(일시자본) 20000000 별도 (원문 lh:NoncontrollingInterestMezzanineEquity 20000000),15
+Labcorp Holdings,LH,2018Q2,2018-06-30,분기말 총자본(자기자본),7037700000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/920148/000092014818000097/,"StockholdersEquity, MinorityInterest 태그 없음",15
+Labcorp Holdings,LH,2018Q2,2018-06-30,분기말 지배지분 자본,7037700000,USD,공시,https://www.sec.gov/Archives/edgar/data/920148/000092014818000097/,,15
+Labcorp Holdings,LH,2018Q2,2018-06-29,분기말 종가,179.53,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/LH?interval=1d&events=splits (2018-06-29),분할조정 종가 154.2354 × 이후 분할계수 1.164,15
+Labcorp Holdings,LH,2018Q2,2018-07-25,분기말 상장주식수,101900000,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/920148/000092014818000097/,dei:EntityCommonStockSharesOutstanding 클래스 합,15
+Labcorp Holdings,LH,2018Q2,2018-06-29,분기말 시가총액,18294107000,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/LH?interval=1d&events=splits (2018-06-29) ; https://www.sec.gov/Archives/edgar/data/920148/000092014818000097/,종가 179.53 × 주식수 101900000,15
+Labcorp Holdings,LH,2018Q3,2018-09-30,분기별 매출액,2831300000,USD,공시,https://www.sec.gov/Archives/edgar/data/920148/000092014818000130/,,15
+Labcorp Holdings,LH,2018Q3,2018-09-30,분기별 영업이익,343400000,USD,공시,https://www.sec.gov/Archives/edgar/data/920148/000092014818000130/,,15
+Labcorp Holdings,LH,2018Q3,2018-09-30,분기별 당기순이익(지배),318800000,USD,공시,https://www.sec.gov/Archives/edgar/data/920148/000092014818000130/,,15
+Labcorp Holdings,LH,2018Q3,2018-09-30,분기별 영업활동현금흐름,297000000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/920148/000092014818000130/ ; https://www.sec.gov/Archives/edgar/data/920148/000092014818000097/,누적 819000000 − 직전누적 522000000 (시작 2018-01-01),15
+Labcorp Holdings,LH,2018Q3,2018-09-30,분기말 자산총계,16661400000,USD,공시,https://www.sec.gov/Archives/edgar/data/920148/000092014818000130/,,15
+Labcorp Holdings,LH,2018Q3,2018-09-30,분기말 부채총계,9392900000,USD,공시,https://www.sec.gov/Archives/edgar/data/920148/000092014818000130/,메자닌(일시자본) 20400000 별도 (원문 lh:NoncontrollingInterestMezzanineEquity 20400000),15
+Labcorp Holdings,LH,2018Q3,2018-09-30,분기말 총자본(자기자본),7248100000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/920148/000092014818000130/,"StockholdersEquity, MinorityInterest 태그 없음",15
+Labcorp Holdings,LH,2018Q3,2018-09-30,분기말 지배지분 자본,7248100000,USD,공시,https://www.sec.gov/Archives/edgar/data/920148/000092014818000130/,,15
+Labcorp Holdings,LH,2018Q3,2018-09-28,분기말 종가,173.68,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/LH?interval=1d&events=splits (2018-09-28),분할조정 종가 149.2096 × 이후 분할계수 1.164,15
+Labcorp Holdings,LH,2018Q3,2018-10-26,분기말 상장주식수,100900000,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/920148/000092014818000130/,dei:EntityCommonStockSharesOutstanding 클래스 합,15
+Labcorp Holdings,LH,2018Q3,2018-09-28,분기말 시가총액,17524312000,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/LH?interval=1d&events=splits (2018-09-28) ; https://www.sec.gov/Archives/edgar/data/920148/000092014818000130/,종가 173.68 × 주식수 100900000,15
+Labcorp Holdings,LH,2018Q4,2018-12-31,분기별 매출액,2787500000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/920148/000092014819000033/ ; https://www.sec.gov/Archives/edgar/data/920148/000092014818000130/,연간 11333400000 − 9개월누적 8545900000 (Revenues),15
+Labcorp Holdings,LH,2018Q4,2018-12-31,분기별 영업이익,307700000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/920148/000092014819000033/ ; https://www.sec.gov/Archives/edgar/data/920148/000092014818000130/,연간 1325700000 − 9개월누적 1018000000 (OperatingIncomeLoss),15
+Labcorp Holdings,LH,2018Q4,2018-12-31,분기별 당기순이익(지배),157900000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/920148/000092014819000033/ ; https://www.sec.gov/Archives/edgar/data/920148/000092014818000130/,연간 883700000 − 9개월누적 725800000 (NetIncomeLoss),15
+Labcorp Holdings,LH,2018Q4,2018-12-31,분기별 영업활동현금흐름,486400000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/920148/000092014819000033/ ; https://www.sec.gov/Archives/edgar/data/920148/000092014818000130/,누적 1305400000 − 직전누적 819000000 (시작 2018-01-01),15
+Labcorp Holdings,LH,2018Q4,2018-12-31,분기말 자산총계,16185300000,USD,공시,https://www.sec.gov/Archives/edgar/data/920148/000092014819000033/,,15
+Labcorp Holdings,LH,2018Q4,2018-12-31,분기말 부채총계,9194800000,USD,공시,https://www.sec.gov/Archives/edgar/data/920148/000092014819000033/,메자닌(일시자본) 19100000 별도 (원문 lh:NoncontrollingInterestMezzanineEquity 19100000),15
+Labcorp Holdings,LH,2018Q4,2018-12-31,분기말 총자본(자기자본),6971400000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/920148/000092014819000033/,"StockholdersEquity, MinorityInterest 태그 없음",15
+Labcorp Holdings,LH,2018Q4,2018-12-31,분기말 지배지분 자본,6971400000,USD,공시,https://www.sec.gov/Archives/edgar/data/920148/000092014819000033/,,15
+Labcorp Holdings,LH,2018Q4,2018-12-31,분기말 종가,126.36,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/LH?interval=1d&events=splits (2018-12-31),분할조정 종가 108.5567 × 이후 분할계수 1.164,15
+Labcorp Holdings,LH,2018Q4,2019-02-26,분기말 상장주식수,98600000,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/920148/000092014819000033/,dei:EntityCommonStockSharesOutstanding 클래스 합,15
+Labcorp Holdings,LH,2018Q4,2018-12-31,분기말 시가총액,12459096000,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/LH?interval=1d&events=splits (2018-12-31) ; https://www.sec.gov/Archives/edgar/data/920148/000092014819000033/,종가 126.36 × 주식수 98600000,15
+Labcorp Holdings,LH,2019Q1,2019-03-31,분기별 매출액,2791200000,USD,공시,https://www.sec.gov/Archives/edgar/data/920148/000092014819000053/,,15
+Labcorp Holdings,LH,2019Q1,2019-03-31,분기별 영업이익,318200000,USD,공시,https://www.sec.gov/Archives/edgar/data/920148/000092014819000053/,,15
+Labcorp Holdings,LH,2019Q1,2019-03-31,분기별 당기순이익(지배),185600000,USD,공시,https://www.sec.gov/Archives/edgar/data/920148/000092014819000053/,,15
+Labcorp Holdings,LH,2019Q1,2019-03-31,분기별 영업활동현금흐름,165800000,USD,공시,https://www.sec.gov/Archives/edgar/data/920148/000092014819000053/,,15
+Labcorp Holdings,LH,2019Q1,2019-03-31,분기말 자산총계,16970800000,USD,공시,https://www.sec.gov/Archives/edgar/data/920148/000092014819000053/,,15
+Labcorp Holdings,LH,2019Q1,2019-03-31,분기말 부채총계,9840000000,USD,공시,https://www.sec.gov/Archives/edgar/data/920148/000092014819000053/,메자닌(일시자본) 19500000 별도 (원문 lh:NoncontrollingInterestMezzanineEquity 19500000),15
+Labcorp Holdings,LH,2019Q1,2019-03-31,분기말 총자본(자기자본),7111300000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/920148/000092014819000053/,"StockholdersEquity, MinorityInterest 태그 없음",15
+Labcorp Holdings,LH,2019Q1,2019-03-31,분기말 지배지분 자본,7111300000,USD,공시,https://www.sec.gov/Archives/edgar/data/920148/000092014819000053/,,15
+Labcorp Holdings,LH,2019Q1,2019-03-29,분기말 종가,152.98,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/LH?interval=1d&events=splits (2019-03-29),분할조정 종가 131.4261 × 이후 분할계수 1.164,15
+Labcorp Holdings,LH,2019Q1,2019-05-01,분기말 상장주식수,98500000,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/920148/000092014819000053/,dei:EntityCommonStockSharesOutstanding 클래스 합,15
+Labcorp Holdings,LH,2019Q1,2019-03-29,분기말 시가총액,15068530000,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/LH?interval=1d&events=splits (2019-03-29) ; https://www.sec.gov/Archives/edgar/data/920148/000092014819000053/,종가 152.98 × 주식수 98500000,15
+Labcorp Holdings,LH,2019Q2,2019-06-30,분기별 매출액,2881700000,USD,공시,https://www.sec.gov/Archives/edgar/data/920148/000092014819000076/,,15
+Labcorp Holdings,LH,2019Q2,2019-06-30,분기별 영업이익,335700000,USD,공시,https://www.sec.gov/Archives/edgar/data/920148/000092014819000076/,,15
+Labcorp Holdings,LH,2019Q2,2019-06-30,분기별 당기순이익(지배),190400000,USD,공시,https://www.sec.gov/Archives/edgar/data/920148/000092014819000076/,,15
+Labcorp Holdings,LH,2019Q2,2019-06-30,분기별 영업활동현금흐름,253500000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/920148/000092014819000076/ ; https://www.sec.gov/Archives/edgar/data/920148/000092014819000053/,누적 419300000 − 직전누적 165800000 (시작 2019-01-01),15
+Labcorp Holdings,LH,2019Q2,2019-06-30,분기말 자산총계,17744400000,USD,공시,https://www.sec.gov/Archives/edgar/data/920148/000092014819000076/,,15
+Labcorp Holdings,LH,2019Q2,2019-06-30,분기말 부채총계,10580000000,USD,공시,https://www.sec.gov/Archives/edgar/data/920148/000092014819000076/,메자닌(일시자본) 20000000 별도 (원문 lh:NoncontrollingInterestMezzanineEquity 20000000),15
+Labcorp Holdings,LH,2019Q2,2019-06-30,분기말 총자본(자기자본),7144400000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/920148/000092014819000076/,"StockholdersEquity, MinorityInterest 태그 없음",15
+Labcorp Holdings,LH,2019Q2,2019-06-30,분기말 지배지분 자본,7144400000,USD,공시,https://www.sec.gov/Archives/edgar/data/920148/000092014819000076/,,15
+Labcorp Holdings,LH,2019Q2,2019-06-28,분기말 종가,172.9,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/LH?interval=1d&events=splits (2019-06-28),분할조정 종가 148.5395 × 이후 분할계수 1.164,15
+Labcorp Holdings,LH,2019Q2,2019-08-06,분기말 상장주식수,97700000,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/920148/000092014819000076/,dei:EntityCommonStockSharesOutstanding 클래스 합,15
+Labcorp Holdings,LH,2019Q2,2019-06-28,분기말 시가총액,16892330000,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/LH?interval=1d&events=splits (2019-06-28) ; https://www.sec.gov/Archives/edgar/data/920148/000092014819000076/,종가 172.9 × 주식수 97700000,15
+Labcorp Holdings,LH,2019Q3,2019-09-30,분기별 매출액,2928500000,USD,공시,https://www.sec.gov/Archives/edgar/data/920148/000092014819000092/,,15
+Labcorp Holdings,LH,2019Q3,2019-09-30,분기별 영업이익,339900000,USD,공시,https://www.sec.gov/Archives/edgar/data/920148/000092014819000092/,,15
+Labcorp Holdings,LH,2019Q3,2019-09-30,분기별 당기순이익(지배),-317200000,USD,공시(재작성 반영),https://www.sec.gov/Archives/edgar/data/920148/000092014821000041/,원 공시 220700000 (https://www.sec.gov/Archives/edgar/data/920148/000092014819000092/),15
+Labcorp Holdings,LH,2019Q3,2019-09-30,분기별 영업활동현금흐름,455600000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/920148/000092014819000092/ ; https://www.sec.gov/Archives/edgar/data/920148/000092014819000076/,누적 874900000 − 직전누적 419300000 (시작 2019-01-01),15
+Labcorp Holdings,LH,2019Q3,2019-09-30,분기말 자산총계,17847800000,USD,공시,https://www.sec.gov/Archives/edgar/data/920148/000092014819000092/,,15
+Labcorp Holdings,LH,2019Q3,2019-09-30,분기말 부채총계,10597000000,USD,공시,https://www.sec.gov/Archives/edgar/data/920148/000092014819000092/,메자닌(일시자본) 19700000 별도 (원문 lh:NoncontrollingInterestMezzanineEquity 19700000),15
+Labcorp Holdings,LH,2019Q3,2019-09-30,분기말 총자본(자기자본),7231100000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/920148/000092014819000092/,"StockholdersEquity, MinorityInterest 태그 없음",15
+Labcorp Holdings,LH,2019Q3,2019-09-30,분기말 지배지분 자본,7231100000,USD,공시,https://www.sec.gov/Archives/edgar/data/920148/000092014819000092/,,15
+Labcorp Holdings,LH,2019Q3,2019-09-30,분기말 종가,168.0,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/LH?interval=1d&events=splits (2019-09-30),분할조정 종가 144.3299 × 이후 분할계수 1.164,15
+Labcorp Holdings,LH,2019Q3,2019-10-29,분기말 상장주식수,97100000,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/920148/000092014819000092/,dei:EntityCommonStockSharesOutstanding 클래스 합,15
+Labcorp Holdings,LH,2019Q3,2019-09-30,분기말 시가총액,16312800000,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/LH?interval=1d&events=splits (2019-09-30) ; https://www.sec.gov/Archives/edgar/data/920148/000092014819000092/,종가 168.0 × 주식수 97100000,15
+Labcorp Holdings,LH,2019Q4,2019-12-31,분기별 매출액,2953400000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/920148/000092014820000011/ ; https://www.sec.gov/Archives/edgar/data/920148/000092014819000092/,연간 11554800000 − 9개월누적 8601400000 (Revenues),15
+Labcorp Holdings,LH,2019Q4,2019-12-31,분기별 영업이익,336400000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/920148/000092014820000011/ ; https://www.sec.gov/Archives/edgar/data/920148/000092014819000092/,연간 1330200000 − 9개월누적 993800000 (OperatingIncomeLoss),15
+Labcorp Holdings,LH,2019Q4,2019-12-31,분기별 당기순이익(지배),227100000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/920148/000092014820000011/ ; https://www.sec.gov/Archives/edgar/data/920148/000092014819000092/,연간 823800000 − 9개월누적 596700000 (NetIncomeLoss),15
+Labcorp Holdings,LH,2019Q4,2019-12-31,분기별 영업활동현금흐름,569800000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/920148/000092014820000011/ ; https://www.sec.gov/Archives/edgar/data/920148/000092014819000092/,누적 1444700000 − 직전누적 874900000 (시작 2019-01-01),15
+Labcorp Holdings,LH,2019Q4,2019-12-31,분기말 자산총계,18046400000,USD,공시,https://www.sec.gov/Archives/edgar/data/920148/000092014820000011/,,15
+Labcorp Holdings,LH,2019Q4,2019-12-31,분기말 부채총계,10459300000,USD,공시,https://www.sec.gov/Archives/edgar/data/920148/000092014820000011/,메자닌(일시자본) 20100000 별도 (원문 lh:NoncontrollingInterestMezzanineEquity 20100000),15
+Labcorp Holdings,LH,2019Q4,2019-12-31,분기말 총자본(자기자본),7567000000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/920148/000092014820000011/,"StockholdersEquity, MinorityInterest 태그 없음",15
+Labcorp Holdings,LH,2019Q4,2019-12-31,분기말 지배지분 자본,7567000000,USD,공시,https://www.sec.gov/Archives/edgar/data/920148/000092014820000011/,,15
+Labcorp Holdings,LH,2019Q4,2019-12-31,분기말 종가,169.17,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/LH?interval=1d&events=splits (2019-12-31),분할조정 종가 145.3351 × 이후 분할계수 1.164,15
+Labcorp Holdings,LH,2019Q4,2020-02-26,분기말 상장주식수,97300000,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/920148/000092014820000016/,dei:EntityCommonStockSharesOutstanding 클래스 합 ; 값은 XBRL 원문(companyfacts 미반영 보고서),15
+Labcorp Holdings,LH,2019Q4,2019-12-31,분기말 시가총액,16460241000,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/LH?interval=1d&events=splits (2019-12-31) ; https://www.sec.gov/Archives/edgar/data/920148/000092014820000016/,종가 169.17 × 주식수 97300000 ; 값은 XBRL 원문(companyfacts 미반영 보고서),15
+Labcorp Holdings,LH,2020Q1,2020-03-31,분기별 매출액,2823800000,USD,공시,https://www.sec.gov/Archives/edgar/data/920148/000092014820000029/,,15
+Labcorp Holdings,LH,2020Q1,2020-03-31,분기별 영업이익,-192600000,USD,공시,https://www.sec.gov/Archives/edgar/data/920148/000092014820000029/,,15
+Labcorp Holdings,LH,2020Q1,2020-03-31,분기별 당기순이익(지배),-317200000,USD,공시,https://www.sec.gov/Archives/edgar/data/920148/000092014820000029/,,15
+Labcorp Holdings,LH,2020Q1,2020-03-31,분기별 영업활동현금흐름,203800000,USD,공시,https://www.sec.gov/Archives/edgar/data/920148/000092014820000029/,,15
+Labcorp Holdings,LH,2020Q1,2020-03-31,분기말 자산총계,17298400000,USD,공시,https://www.sec.gov/Archives/edgar/data/920148/000092014820000029/,,15
+Labcorp Holdings,LH,2020Q1,2020-03-31,분기말 부채총계,10259800000,USD,공시,https://www.sec.gov/Archives/edgar/data/920148/000092014820000029/,메자닌(일시자본) 18500000 별도 (원문 lh:NoncontrollingInterestMezzanineEquity 18500000),15
+Labcorp Holdings,LH,2020Q1,2020-03-31,분기말 총자본(자기자본),7020100000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/920148/000092014820000029/,"StockholdersEquity, MinorityInterest 태그 없음",15
+Labcorp Holdings,LH,2020Q1,2020-03-31,분기말 지배지분 자본,7020100000,USD,공시,https://www.sec.gov/Archives/edgar/data/920148/000092014820000029/,,15
+Labcorp Holdings,LH,2020Q1,2020-03-31,분기말 종가,126.39,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/LH?interval=1d&events=splits (2020-03-31),분할조정 종가 108.5825 × 이후 분할계수 1.164,15
+Labcorp Holdings,LH,2020Q1,2020-05-06,분기말 상장주식수,97200000,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/920148/000092014820000029/,dei:EntityCommonStockSharesOutstanding 클래스 합,15
+Labcorp Holdings,LH,2020Q1,2020-03-31,분기말 시가총액,12285108000,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/LH?interval=1d&events=splits (2020-03-31) ; https://www.sec.gov/Archives/edgar/data/920148/000092014820000029/,종가 126.39 × 주식수 97200000,15
+Labcorp Holdings,LH,2020Q2,2020-06-30,분기별 매출액,2768800000,USD,공시,https://www.sec.gov/Archives/edgar/data/920148/000092014820000043/,,15
+Labcorp Holdings,LH,2020Q2,2020-06-30,분기별 영업이익,297700000,USD,공시,https://www.sec.gov/Archives/edgar/data/920148/000092014820000043/,,15
+Labcorp Holdings,LH,2020Q2,2020-06-30,분기별 당기순이익(지배),231600000,USD,공시,https://www.sec.gov/Archives/edgar/data/920148/000092014820000043/,,15
+Labcorp Holdings,LH,2020Q2,2020-06-30,분기별 영업활동현금흐름,370700000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/920148/000092014820000043/ ; https://www.sec.gov/Archives/edgar/data/920148/000092014820000029/,누적 574500000 − 직전누적 203800000 (시작 2020-01-01),15
+Labcorp Holdings,LH,2020Q2,2020-06-30,분기말 자산총계,17849100000,USD,공시,https://www.sec.gov/Archives/edgar/data/920148/000092014820000043/,,15
+Labcorp Holdings,LH,2020Q2,2020-06-30,분기말 부채총계,10476900000,USD,공시,https://www.sec.gov/Archives/edgar/data/920148/000092014820000043/,메자닌(일시자본) 19500000 별도 (원문 lh:NoncontrollingInterestMezzanineEquity 19500000),15
+Labcorp Holdings,LH,2020Q2,2020-06-30,분기말 총자본(자기자본),7352700000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/920148/000092014820000043/,"StockholdersEquity, MinorityInterest 태그 없음",15
+Labcorp Holdings,LH,2020Q2,2020-06-30,분기말 지배지분 자본,7352700000,USD,공시,https://www.sec.gov/Archives/edgar/data/920148/000092014820000043/,,15
+Labcorp Holdings,LH,2020Q2,2020-06-30,분기말 종가,166.11,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/LH?interval=1d&events=splits (2020-06-30),분할조정 종가 142.7062 × 이후 분할계수 1.164,15
+Labcorp Holdings,LH,2020Q2,2020-07-29,분기말 상장주식수,97400000,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/920148/000092014820000043/,dei:EntityCommonStockSharesOutstanding 클래스 합,15
+Labcorp Holdings,LH,2020Q2,2020-06-30,분기말 시가총액,16179114000,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/LH?interval=1d&events=splits (2020-06-30) ; https://www.sec.gov/Archives/edgar/data/920148/000092014820000043/,종가 166.11 × 주식수 97400000,15
+Labcorp Holdings,LH,2020Q3,2020-09-30,분기별 매출액,3896100000,USD,공시,https://www.sec.gov/Archives/edgar/data/920148/000092014820000058/,,15
+Labcorp Holdings,LH,2020Q3,2020-09-30,분기별 영업이익,1047100000,USD,공시,https://www.sec.gov/Archives/edgar/data/920148/000092014820000058/,,15
+Labcorp Holdings,LH,2020Q3,2020-09-30,분기별 당기순이익(지배),703400000,USD,공시,https://www.sec.gov/Archives/edgar/data/920148/000092014820000058/,,15
+Labcorp Holdings,LH,2020Q3,2020-09-30,분기별 영업활동현금흐름,786200000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/920148/000092014820000058/ ; https://www.sec.gov/Archives/edgar/data/920148/000092014820000043/,누적 1360700000 − 직전누적 574500000 (시작 2020-01-01),15
+Labcorp Holdings,LH,2020Q3,2020-09-30,분기말 자산총계,18739600000,USD,공시,https://www.sec.gov/Archives/edgar/data/920148/000092014820000058/,,15
+Labcorp Holdings,LH,2020Q3,2020-09-30,분기말 부채총계,10480600000,USD,공시,https://www.sec.gov/Archives/edgar/data/920148/000092014820000058/,메자닌(일시자본) 19900000 별도 (원문 lh:NoncontrollingInterestMezzanineEquity 19900000),15
+Labcorp Holdings,LH,2020Q3,2020-09-30,분기말 총자본(자기자본),8239100000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/920148/000092014820000058/,"StockholdersEquity, MinorityInterest 태그 없음",15
+Labcorp Holdings,LH,2020Q3,2020-09-30,분기말 지배지분 자본,8239100000,USD,공시,https://www.sec.gov/Archives/edgar/data/920148/000092014820000058/,,15
+Labcorp Holdings,LH,2020Q3,2020-09-30,분기말 종가,188.27,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/LH?interval=1d&events=splits (2020-09-30),분할조정 종가 161.744 × 이후 분할계수 1.164,15
+Labcorp Holdings,LH,2020Q3,2020-10-28,분기말 상장주식수,97400000,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/920148/000092014820000058/,dei:EntityCommonStockSharesOutstanding 클래스 합,15
+Labcorp Holdings,LH,2020Q3,2020-09-30,분기말 시가총액,18337498000,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/LH?interval=1d&events=splits (2020-09-30) ; https://www.sec.gov/Archives/edgar/data/920148/000092014820000058/,종가 188.27 × 주식수 97400000,15
+Labcorp Holdings,LH,2020Q4,2020-12-31,분기별 매출액,4489800000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/920148/000092014821000018/ ; https://www.sec.gov/Archives/edgar/data/920148/000092014820000058/,연간 13978500000 − 9개월누적 9488700000 (Revenues),15
+Labcorp Holdings,LH,2020Q4,2020-12-31,분기별 영업이익,1293200000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/920148/000092014821000018/ ; https://www.sec.gov/Archives/edgar/data/920148/000092014820000058/,연간 2445400000 − 9개월누적 1152200000 (OperatingIncomeLoss),15
+Labcorp Holdings,LH,2020Q4,2020-12-31,분기별 당기순이익(지배),938300000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/920148/000092014821000018/ ; https://www.sec.gov/Archives/edgar/data/920148/000092014820000058/,연간 1556100000 − 9개월누적 617800000 (NetIncomeLoss),15
+Labcorp Holdings,LH,2020Q4,2020-12-31,분기별 영업활동현금흐름,774600000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/920148/000092014821000018/ ; https://www.sec.gov/Archives/edgar/data/920148/000092014820000058/,누적 2135300000 − 직전누적 1360700000 (시작 2020-01-01),15
+Labcorp Holdings,LH,2020Q4,2020-12-31,분기말 자산총계,20071700000,USD,공시,https://www.sec.gov/Archives/edgar/data/920148/000092014821000018/,,15
+Labcorp Holdings,LH,2020Q4,2020-12-31,분기말 부채총계,10614400000,USD,공시(재작성 반영),https://www.sec.gov/Archives/edgar/data/920148/000092014822000015/,메자닌(일시자본) 20700000 별도 (원문 lh:NoncontrollingInterestMezzanineEquity 20700000) ; 원 공시 10691300000 (https://www.sec.gov/Archives/edgar/data/920148/000092014821000018/),15
+Labcorp Holdings,LH,2020Q4,2020-12-31,분기말 총자본(자기자본),9436600000,USD,공시(비지배 없음)(재작성 반영),https://www.sec.gov/Archives/edgar/data/920148/000092014824000014/,"StockholdersEquity, MinorityInterest 태그 없음 ; 원 공시 9359700000 (https://www.sec.gov/Archives/edgar/data/920148/000092014821000018/)",15
+Labcorp Holdings,LH,2020Q4,2020-12-31,분기말 지배지분 자본,9436600000,USD,공시(재작성 반영),https://www.sec.gov/Archives/edgar/data/920148/000092014824000014/,원 공시 9359700000 (https://www.sec.gov/Archives/edgar/data/920148/000092014821000018/),15
+Labcorp Holdings,LH,2020Q4,2020-12-31,분기말 종가,203.55,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/LH?interval=1d&events=splits (2020-12-31),분할조정 종가 174.8711 × 이후 분할계수 1.164,15
+Labcorp Holdings,LH,2020Q4,2021-02-24,분기말 상장주식수,97600000,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/920148/000092014821000018/,dei:EntityCommonStockSharesOutstanding 클래스 합,15
+Labcorp Holdings,LH,2020Q4,2020-12-31,분기말 시가총액,19866480000,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/LH?interval=1d&events=splits (2020-12-31) ; https://www.sec.gov/Archives/edgar/data/920148/000092014821000018/,종가 203.55 × 주식수 97600000,15
+Labcorp Holdings,LH,2021Q1,2021-03-31,분기별 매출액,4161500000,USD,공시,https://www.sec.gov/Archives/edgar/data/920148/000092014821000041/,,15
+Labcorp Holdings,LH,2021Q1,2021-03-31,분기별 영업이익,1057900000,USD,공시,https://www.sec.gov/Archives/edgar/data/920148/000092014821000041/,,15
+Labcorp Holdings,LH,2021Q1,2021-03-31,분기별 당기순이익(지배),769600000,USD,공시,https://www.sec.gov/Archives/edgar/data/920148/000092014821000041/,,15
+Labcorp Holdings,LH,2021Q1,2021-03-31,분기별 영업활동현금흐름,1157600000,USD,공시,https://www.sec.gov/Archives/edgar/data/920148/000092014821000041/,,15
+Labcorp Holdings,LH,2021Q1,2021-03-31,분기말 자산총계,20417100000,USD,공시,https://www.sec.gov/Archives/edgar/data/920148/000092014821000041/,,15
+Labcorp Holdings,LH,2021Q1,2021-03-31,분기말 부채총계,10374700000,USD,공시,https://www.sec.gov/Archives/edgar/data/920148/000092014821000041/,메자닌(일시자본) 20900000 별도 (원문 lh:NoncontrollingInterestMezzanineEquity 20900000),15
+Labcorp Holdings,LH,2021Q1,2021-03-31,분기말 총자본(자기자본),10021500000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/920148/000092014821000041/,"StockholdersEquity, MinorityInterest 태그 없음",15
+Labcorp Holdings,LH,2021Q1,2021-03-31,분기말 지배지분 자본,10021500000,USD,공시,https://www.sec.gov/Archives/edgar/data/920148/000092014821000041/,,15
+Labcorp Holdings,LH,2021Q1,2021-03-31,분기말 종가,255.03,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/LH?interval=1d&events=splits (2021-03-31),분할조정 종가 219.0979 × 이후 분할계수 1.164,15
+Labcorp Holdings,LH,2021Q1,2021-05-03,분기말 상장주식수,97700000,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/920148/000092014821000041/,dei:EntityCommonStockSharesOutstanding 클래스 합,15
+Labcorp Holdings,LH,2021Q1,2021-03-31,분기말 시가총액,24916431000,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/LH?interval=1d&events=splits (2021-03-31) ; https://www.sec.gov/Archives/edgar/data/920148/000092014821000041/,종가 255.03 × 주식수 97700000,15
+Labcorp Holdings,LH,2021Q2,2021-06-30,분기별 매출액,3840700000,USD,공시,https://www.sec.gov/Archives/edgar/data/920148/000092014821000051/,,15
+Labcorp Holdings,LH,2021Q2,2021-06-30,분기별 영업이익,704100000,USD,공시,https://www.sec.gov/Archives/edgar/data/920148/000092014821000051/,,15
+Labcorp Holdings,LH,2021Q2,2021-06-30,분기별 당기순이익(지배),467400000,USD,공시,https://www.sec.gov/Archives/edgar/data/920148/000092014821000051/,,15
+Labcorp Holdings,LH,2021Q2,2021-06-30,분기별 영업활동현금흐름,487200000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/920148/000092014821000051/ ; https://www.sec.gov/Archives/edgar/data/920148/000092014821000041/,누적 1644800000 − 직전누적 1157600000 (시작 2021-01-01),15
+Labcorp Holdings,LH,2021Q2,2021-06-30,분기말 자산총계,20417100000,USD,공시,https://www.sec.gov/Archives/edgar/data/920148/000092014821000051/,,15
+Labcorp Holdings,LH,2021Q2,2021-06-30,분기말 부채총계,10151000000,USD,공시,https://www.sec.gov/Archives/edgar/data/920148/000092014821000051/,메자닌(일시자본) 21000000 별도 (원문 lh:NoncontrollingInterestMezzanineEquity 21000000),15
+Labcorp Holdings,LH,2021Q2,2021-06-30,분기말 총자본(자기자본),10245100000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/920148/000092014821000051/,"StockholdersEquity, MinorityInterest 태그 없음",15
+Labcorp Holdings,LH,2021Q2,2021-06-30,분기말 지배지분 자본,10245100000,USD,공시,https://www.sec.gov/Archives/edgar/data/920148/000092014821000051/,,15
+Labcorp Holdings,LH,2021Q2,2021-06-30,분기말 종가,275.85,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/LH?interval=1d&events=splits (2021-06-30),분할조정 종가 236.9845 × 이후 분할계수 1.164,15
+Labcorp Holdings,LH,2021Q2,2021-08-04,분기말 상장주식수,96400000,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/920148/000092014821000051/,dei:EntityCommonStockSharesOutstanding 클래스 합,15
+Labcorp Holdings,LH,2021Q2,2021-06-30,분기말 시가총액,26591940000,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/LH?interval=1d&events=splits (2021-06-30) ; https://www.sec.gov/Archives/edgar/data/920148/000092014821000051/,종가 275.85 × 주식수 96400000,15
+Labcorp Holdings,LH,2021Q3,2021-09-30,분기별 매출액,4062600000,USD,공시,https://www.sec.gov/Archives/edgar/data/920148/000092014821000070/,,15
+Labcorp Holdings,LH,2021Q3,2021-09-30,분기별 영업이익,766900000,USD,공시,https://www.sec.gov/Archives/edgar/data/920148/000092014821000070/,,15
+Labcorp Holdings,LH,2021Q3,2021-09-30,분기별 당기순이익(지배),587300000,USD,공시,https://www.sec.gov/Archives/edgar/data/920148/000092014821000070/,,15
+Labcorp Holdings,LH,2021Q3,2021-09-30,분기별 영업활동현금흐름,767300000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/920148/000092014821000070/ ; https://www.sec.gov/Archives/edgar/data/920148/000092014821000051/,누적 2412100000 − 직전누적 1644800000 (시작 2021-01-01),15
+Labcorp Holdings,LH,2021Q3,2021-09-30,분기말 자산총계,20866500000,USD,공시,https://www.sec.gov/Archives/edgar/data/920148/000092014821000070/,,15
+Labcorp Holdings,LH,2021Q3,2021-09-30,분기말 부채총계,10321400000,USD,공시,https://www.sec.gov/Archives/edgar/data/920148/000092014821000070/,메자닌(일시자본) 20600000 별도 (원문 lh:NoncontrollingInterestMezzanineEquity 20600000),15
+Labcorp Holdings,LH,2021Q3,2021-09-30,분기말 총자본(자기자본),10524500000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/920148/000092014821000070/,"StockholdersEquity, MinorityInterest 태그 없음",15
+Labcorp Holdings,LH,2021Q3,2021-09-30,분기말 지배지분 자본,10524500000,USD,공시,https://www.sec.gov/Archives/edgar/data/920148/000092014821000070/,,15
+Labcorp Holdings,LH,2021Q3,2021-09-30,분기말 종가,281.44,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/LH?interval=1d&events=splits (2021-09-30),분할조정 종가 241.7869 × 이후 분할계수 1.164,15
+Labcorp Holdings,LH,2021Q3,2021-11-01,분기말 상장주식수,95700000,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/920148/000092014821000070/,dei:EntityCommonStockSharesOutstanding 클래스 합,15
+Labcorp Holdings,LH,2021Q3,2021-09-30,분기말 시가총액,26933808000,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/LH?interval=1d&events=splits (2021-09-30) ; https://www.sec.gov/Archives/edgar/data/920148/000092014821000070/,종가 281.44 × 주식수 95700000,15
+Labcorp Holdings,LH,2021Q4,2021-12-31,분기별 매출액,4056100000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/920148/000092014822000015/ ; https://www.sec.gov/Archives/edgar/data/920148/000092014821000070/,연간 16120900000 − 9개월누적 12064800000 (Revenues),15
+Labcorp Holdings,LH,2021Q4,2021-12-31,분기별 영업이익,730600000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/920148/000092014822000015/ ; https://www.sec.gov/Archives/edgar/data/920148/000092014821000070/,연간 3259500000 − 9개월누적 2528900000 (OperatingIncomeLoss),15
+Labcorp Holdings,LH,2021Q4,2021-12-31,분기별 당기순이익(지배),553000000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/920148/000092014822000015/ ; https://www.sec.gov/Archives/edgar/data/920148/000092014821000070/,연간 2377300000 − 9개월누적 1824300000 (NetIncomeLoss),15
+Labcorp Holdings,LH,2021Q4,2021-12-31,분기별 영업활동현금흐름,697500000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/920148/000092014822000015/ ; https://www.sec.gov/Archives/edgar/data/920148/000092014821000070/,누적 3109600000 − 직전누적 2412100000 (시작 2021-01-01),15
+Labcorp Holdings,LH,2021Q4,2021-12-31,분기말 자산총계,20385400000,USD,공시,https://www.sec.gov/Archives/edgar/data/920148/000092014822000015/,,15
+Labcorp Holdings,LH,2021Q4,2021-12-31,분기말 부채총계,10091400000,USD,공시,https://www.sec.gov/Archives/edgar/data/920148/000092014822000015/,메자닌(일시자본) 20600000 별도 (원문 lh:NoncontrollingInterestMezzanineEquity 20600000),15
+Labcorp Holdings,LH,2021Q4,2021-12-31,분기말 총자본(자기자본),10273400000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/920148/000092014822000015/,"StockholdersEquity, MinorityInterest 태그 없음",15
+Labcorp Holdings,LH,2021Q4,2021-12-31,분기말 지배지분 자본,10273400000,USD,공시,https://www.sec.gov/Archives/edgar/data/920148/000092014822000015/,,15
+Labcorp Holdings,LH,2021Q4,2021-12-31,분기말 종가,314.21,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/LH?interval=1d&events=splits (2021-12-31),분할조정 종가 269.9398 × 이후 분할계수 1.164,15
+Labcorp Holdings,LH,2021Q4,2022-02-24,분기말 상장주식수,93400000,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/920148/000092014822000015/,dei:EntityCommonStockSharesOutstanding 클래스 합,15
+Labcorp Holdings,LH,2021Q4,2021-12-31,분기말 시가총액,29347214000,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/LH?interval=1d&events=splits (2021-12-31) ; https://www.sec.gov/Archives/edgar/data/920148/000092014822000015/,종가 314.21 × 주식수 93400000,15
+Labcorp Holdings,LH,2022Q1,2022-03-31,분기별 매출액,3899600000,USD,공시,https://www.sec.gov/Archives/edgar/data/920148/000092014822000025/,,15
+Labcorp Holdings,LH,2022Q1,2022-03-31,분기별 영업이익,687900000,USD,공시,https://www.sec.gov/Archives/edgar/data/920148/000092014822000025/,,15
+Labcorp Holdings,LH,2022Q1,2022-03-31,분기별 당기순이익(지배),491600000,USD,공시,https://www.sec.gov/Archives/edgar/data/920148/000092014822000025/,,15
+Labcorp Holdings,LH,2022Q1,2022-03-31,분기별 영업활동현금흐름,356000000,USD,공시,https://www.sec.gov/Archives/edgar/data/920148/000092014822000025/,,15
+Labcorp Holdings,LH,2022Q1,2022-03-31,분기말 자산총계,20728400000,USD,공시,https://www.sec.gov/Archives/edgar/data/920148/000092014822000025/,,15
+Labcorp Holdings,LH,2022Q1,2022-03-31,분기말 부채총계,9986700000,USD,공시,https://www.sec.gov/Archives/edgar/data/920148/000092014822000025/,메자닌(일시자본) 20600000 별도 (원문 lh:NoncontrollingInterestMezzanineEquity 20600000),15
+Labcorp Holdings,LH,2022Q1,2022-03-31,분기말 총자본(자기자본),10721100000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/920148/000092014822000025/,"StockholdersEquity, MinorityInterest 태그 없음",15
+Labcorp Holdings,LH,2022Q1,2022-03-31,분기말 지배지분 자본,10721100000,USD,공시,https://www.sec.gov/Archives/edgar/data/920148/000092014822000025/,,15
+Labcorp Holdings,LH,2022Q1,2022-03-31,분기말 종가,263.66,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/LH?interval=1d&events=splits (2022-03-31),분할조정 종가 226.512 × 이후 분할계수 1.164,15
+Labcorp Holdings,LH,2022Q1,2022-04-28,분기말 상장주식수,92700000,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/920148/000092014822000025/,dei:EntityCommonStockSharesOutstanding 클래스 합,15
+Labcorp Holdings,LH,2022Q1,2022-03-31,분기말 시가총액,24441282000,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/LH?interval=1d&events=splits (2022-03-31) ; https://www.sec.gov/Archives/edgar/data/920148/000092014822000025/,종가 263.66 × 주식수 92700000,15
+Labcorp Holdings,LH,2022Q2,2022-06-30,분기별 매출액,3696900000,USD,공시,https://www.sec.gov/Archives/edgar/data/920148/000092014822000041/,,15
+Labcorp Holdings,LH,2022Q2,2022-06-30,분기별 영업이익,525900000,USD,공시,https://www.sec.gov/Archives/edgar/data/920148/000092014822000041/,,15
+Labcorp Holdings,LH,2022Q2,2022-06-30,분기별 당기순이익(지배),358600000,USD,공시,https://www.sec.gov/Archives/edgar/data/920148/000092014822000041/,,15
+Labcorp Holdings,LH,2022Q2,2022-06-30,분기별 영업활동현금흐름,572500000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/920148/000092014822000041/ ; https://www.sec.gov/Archives/edgar/data/920148/000092014822000025/,누적 928500000 − 직전누적 356000000 (시작 2022-01-01),15
+Labcorp Holdings,LH,2022Q2,2022-06-30,분기말 자산총계,20403100000,USD,공시,https://www.sec.gov/Archives/edgar/data/920148/000092014822000041/,,15
+Labcorp Holdings,LH,2022Q2,2022-06-30,분기말 부채총계,9982400000,USD,공시,https://www.sec.gov/Archives/edgar/data/920148/000092014822000041/,메자닌(일시자본) 20000000 별도 (원문 lh:NoncontrollingInterestMezzanineEquity 20000000),15
+Labcorp Holdings,LH,2022Q2,2022-06-30,분기말 총자본(자기자본),10400700000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/920148/000092014822000041/,"StockholdersEquity, MinorityInterest 태그 없음",15
+Labcorp Holdings,LH,2022Q2,2022-06-30,분기말 지배지분 자본,10400700000,USD,공시,https://www.sec.gov/Archives/edgar/data/920148/000092014822000041/,,15
+Labcorp Holdings,LH,2022Q2,2022-06-30,분기말 종가,234.36,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/LH?interval=1d&events=splits (2022-06-30),분할조정 종가 201.3402 × 이후 분할계수 1.164,15
+Labcorp Holdings,LH,2022Q2,2022-07-29,분기말 상장주식수,90400000,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/920148/000092014822000041/,dei:EntityCommonStockSharesOutstanding 클래스 합,15
+Labcorp Holdings,LH,2022Q2,2022-06-30,분기말 시가총액,21186144000,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/LH?interval=1d&events=splits (2022-06-30) ; https://www.sec.gov/Archives/edgar/data/920148/000092014822000041/,종가 234.36 × 주식수 90400000,15
+Labcorp Holdings,LH,2022Q3,2022-09-30,분기별 매출액,3606100000,USD,공시,https://www.sec.gov/Archives/edgar/data/920148/000092014822000060/,,15
+Labcorp Holdings,LH,2022Q3,2022-09-30,분기별 영업이익,469400000,USD,공시,https://www.sec.gov/Archives/edgar/data/920148/000092014822000060/,,15
+Labcorp Holdings,LH,2022Q3,2022-09-30,분기별 당기순이익(지배),352800000,USD,공시,https://www.sec.gov/Archives/edgar/data/920148/000092014822000060/,,15
+Labcorp Holdings,LH,2022Q3,2022-09-30,분기별 영업활동현금흐름,373800000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/920148/000092014822000060/ ; https://www.sec.gov/Archives/edgar/data/920148/000092014822000041/,누적 1302300000 − 직전누적 928500000 (시작 2022-01-01),15
+Labcorp Holdings,LH,2022Q3,2022-09-30,분기말 자산총계,19826000000,USD,공시,https://www.sec.gov/Archives/edgar/data/920148/000092014822000060/,,15
+Labcorp Holdings,LH,2022Q3,2022-09-30,분기말 부채총계,9714900000,USD,공시,https://www.sec.gov/Archives/edgar/data/920148/000092014822000060/,메자닌(일시자본) 18900000 별도 (원문 lh:NoncontrollingInterestMezzanineEquity 18900000),15
+Labcorp Holdings,LH,2022Q3,2022-09-30,분기말 총자본(자기자본),10092200000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/920148/000092014822000060/,"StockholdersEquity, MinorityInterest 태그 없음",15
+Labcorp Holdings,LH,2022Q3,2022-09-30,분기말 지배지분 자본,10092200000,USD,공시,https://www.sec.gov/Archives/edgar/data/920148/000092014822000060/,,15
+Labcorp Holdings,LH,2022Q3,2022-09-30,분기말 종가,204.81,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/LH?interval=1d&events=splits (2022-09-30),분할조정 종가 175.9536 × 이후 분할계수 1.164,15
+Labcorp Holdings,LH,2022Q3,2022-10-31,분기말 상장주식수,88600000,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/920148/000092014822000060/,dei:EntityCommonStockSharesOutstanding 클래스 합,15
+Labcorp Holdings,LH,2022Q3,2022-09-30,분기말 시가총액,18146166000,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/LH?interval=1d&events=splits (2022-09-30) ; https://www.sec.gov/Archives/edgar/data/920148/000092014822000060/,종가 204.81 × 주식수 88600000,15
+Labcorp Holdings,LH,2022Q4,2022-12-31,분기별 매출액,3674200000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/920148/000092014823000017/ ; https://www.sec.gov/Archives/edgar/data/920148/000092014822000060/,연간 14876800000 − 9개월누적 11202600000 (Revenues),15
+Labcorp Holdings,LH,2022Q4,2022-12-31,분기별 영업이익,90700000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/920148/000092014823000017/ ; https://www.sec.gov/Archives/edgar/data/920148/000092014822000060/,연간 1773900000 − 9개월누적 1683200000 (OperatingIncomeLoss),15
+Labcorp Holdings,LH,2022Q4,2022-12-31,분기별 당기순이익(지배),76100000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/920148/000092014823000017/ ; https://www.sec.gov/Archives/edgar/data/920148/000092014822000060/,연간 1279100000 − 9개월누적 1203000000 (NetIncomeLoss),15
+Labcorp Holdings,LH,2022Q4,2022-12-31,분기별 영업활동현금흐름,653600000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/920148/000092014823000017/ ; https://www.sec.gov/Archives/edgar/data/920148/000092014822000060/,누적 1955900000 − 직전누적 1302300000 (시작 2022-01-01),15
+Labcorp Holdings,LH,2022Q4,2022-12-31,분기말 자산총계,20155100000,USD,공시,https://www.sec.gov/Archives/edgar/data/920148/000092014823000017/,,15
+Labcorp Holdings,LH,2022Q4,2022-12-31,분기말 부채총계,10039600000,USD,공시,https://www.sec.gov/Archives/edgar/data/920148/000092014823000017/,메자닌(일시자본) 18900000 별도 (원문 lh:NoncontrollingInterestMezzanineEquity 18900000),15
+Labcorp Holdings,LH,2022Q4,2022-12-31,분기말 총자본(자기자본),10096600000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/920148/000092014823000017/,"StockholdersEquity, MinorityInterest 태그 없음",15
+Labcorp Holdings,LH,2022Q4,2022-12-31,분기말 지배지분 자본,10096600000,USD,공시,https://www.sec.gov/Archives/edgar/data/920148/000092014823000017/,,15
+Labcorp Holdings,LH,2022Q4,2022-12-30,분기말 종가,235.48,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/LH?interval=1d&events=splits (2022-12-30),분할조정 종가 202.3024 × 이후 분할계수 1.164,15
+Labcorp Holdings,LH,2022Q4,2023-02-27,분기말 상장주식수,88500000,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/920148/000092014823000017/,dei:EntityCommonStockSharesOutstanding 클래스 합,15
+Labcorp Holdings,LH,2022Q4,2022-12-30,분기말 시가총액,20839980000,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/LH?interval=1d&events=splits (2022-12-30) ; https://www.sec.gov/Archives/edgar/data/920148/000092014823000017/,종가 235.48 × 주식수 88500000,15
+Labcorp Holdings,LH,2023Q1,2023-03-31,분기별 매출액,3777900000,USD,공시,https://www.sec.gov/Archives/edgar/data/920148/000092014823000030/,,15
+Labcorp Holdings,LH,2023Q1,2023-03-31,분기별 영업이익,341000000,USD,공시,https://www.sec.gov/Archives/edgar/data/920148/000092014823000030/,,15
+Labcorp Holdings,LH,2023Q1,2023-03-31,분기별 당기순이익(지배),212900000,USD,공시,https://www.sec.gov/Archives/edgar/data/920148/000092014823000030/,,15
+Labcorp Holdings,LH,2023Q1,2023-03-31,분기별 영업활동현금흐름,121200000,USD,공시,https://www.sec.gov/Archives/edgar/data/920148/000092014823000030/,,15
+Labcorp Holdings,LH,2023Q1,2023-03-31,분기말 자산총계,20200000000,USD,공시,https://www.sec.gov/Archives/edgar/data/920148/000092014823000030/,,15
+Labcorp Holdings,LH,2023Q1,2023-03-31,분기말 부채총계,9839200000,USD,공시,https://www.sec.gov/Archives/edgar/data/920148/000092014823000030/,메자닌(일시자본) 19300000 별도 (원문 lh:NoncontrollingInterestMezzanineEquity 19300000),15
+Labcorp Holdings,LH,2023Q1,2023-03-31,분기말 총자본(자기자본),10341500000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/920148/000092014823000030/,"StockholdersEquity, MinorityInterest 태그 없음",15
+Labcorp Holdings,LH,2023Q1,2023-03-31,분기말 지배지분 자본,10341500000,USD,공시,https://www.sec.gov/Archives/edgar/data/920148/000092014823000030/,,15
+Labcorp Holdings,LH,2023Q1,2023-03-31,분기말 종가,229.42,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/LH?interval=1d&events=splits (2023-03-31),분할조정 종가 197.0962 × 이후 분할계수 1.164,15
+Labcorp Holdings,LH,2023Q1,2023-05-03,분기말 상장주식수,88600000,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/920148/000092014823000030/,dei:EntityCommonStockSharesOutstanding 클래스 합,15
+Labcorp Holdings,LH,2023Q1,2023-03-31,분기말 시가총액,20326612000,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/LH?interval=1d&events=splits (2023-03-31) ; https://www.sec.gov/Archives/edgar/data/920148/000092014823000030/,종가 229.42 × 주식수 88600000,15
+Labcorp Holdings,LH,2023Q2,2023-06-30,분기별 매출액,3033700000,USD,공시,https://www.sec.gov/Archives/edgar/data/920148/000092014823000063/,,15
+Labcorp Holdings,LH,2023Q2,2023-06-30,분기별 영업이익,266300000,USD,공시,https://www.sec.gov/Archives/edgar/data/920148/000092014823000063/,,15
+Labcorp Holdings,LH,2023Q2,2023-06-30,분기별 당기순이익(지배),188900000,USD,공시,https://www.sec.gov/Archives/edgar/data/920148/000092014823000063/,,15
+Labcorp Holdings,LH,2023Q2,2023-06-30,분기별 영업활동현금흐름,351400000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/920148/000092014823000063/ ; https://www.sec.gov/Archives/edgar/data/920148/000092014823000030/,누적 472600000 − 직전누적 121200000 (시작 2023-01-01),15
+Labcorp Holdings,LH,2023Q2,2023-06-30,분기말 자산총계,17718700000,USD,공시,https://www.sec.gov/Archives/edgar/data/920148/000092014823000063/,,15
+Labcorp Holdings,LH,2023Q2,2023-06-30,분기말 부채총계,8913900000,USD,공시,https://www.sec.gov/Archives/edgar/data/920148/000092014823000063/,메자닌(일시자본) 19800000 별도 (원문 lh:NoncontrollingInterestMezzanineEquity 19800000),15
+Labcorp Holdings,LH,2023Q2,2023-06-30,분기말 총자본(자기자본),8785000000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/920148/000092014823000063/,"StockholdersEquity, MinorityInterest 태그 없음",15
+Labcorp Holdings,LH,2023Q2,2023-06-30,분기말 지배지분 자본,8785000000,USD,공시,https://www.sec.gov/Archives/edgar/data/920148/000092014823000063/,,15
+Labcorp Holdings,LH,2023Q2,2023-06-30,분기말 종가,241.33,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/LH?interval=1d&events=splits (2023-06-30),분할조정 종가 207.3282 × 이후 분할계수 1.164,15
+Labcorp Holdings,LH,2023Q2,2023-08-03,분기말 상장주식수,88600000,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/920148/000092014823000063/,dei:EntityCommonStockSharesOutstanding 클래스 합; 표지 기준일이 분할 후,15
+Labcorp Holdings,LH,2023Q2,2023-06-30,분기말 시가총액,18369276632,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/LH?interval=1d&events=splits (2023-06-30) ; https://www.sec.gov/Archives/edgar/data/920148/000092014823000063/,종가 241.33 × 주식수 88600000 ÷ 분할비율 1.164 (분할일 2023-07-03가 거래일 2023-06-30와 표지 기준일 2023-08-03 사이),15
+Labcorp Holdings,LH,2023Q3,2023-09-30,분기별 매출액,3056800000,USD,공시,https://www.sec.gov/Archives/edgar/data/920148/000092014823000081/,,15
+Labcorp Holdings,LH,2023Q3,2023-09-30,분기별 영업이익,252300000,USD,공시,https://www.sec.gov/Archives/edgar/data/920148/000092014823000081/,,15
+Labcorp Holdings,LH,2023Q3,2023-09-30,분기별 당기순이익(지배),183300000,USD,공시,https://www.sec.gov/Archives/edgar/data/920148/000092014823000081/,,15
+Labcorp Holdings,LH,2023Q3,2023-09-30,분기별 영업활동현금흐름,275500000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/920148/000092014823000081/ ; https://www.sec.gov/Archives/edgar/data/920148/000092014823000063/,누적 748100000 − 직전누적 472600000 (시작 2023-01-01),15
+Labcorp Holdings,LH,2023Q3,2023-09-30,분기말 자산총계,16886000000,USD,공시,https://www.sec.gov/Archives/edgar/data/920148/000092014823000081/,,15
+Labcorp Holdings,LH,2023Q3,2023-09-30,분기말 부채총계,8993500000,USD,공시,https://www.sec.gov/Archives/edgar/data/920148/000092014823000081/,메자닌(일시자본) 19400000 별도 (원문 lh:NoncontrollingInterestMezzanineEquity 19400000),15
+Labcorp Holdings,LH,2023Q3,2023-09-30,분기말 총자본(자기자본),7873100000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/920148/000092014823000081/,"StockholdersEquity, MinorityInterest 태그 없음",15
+Labcorp Holdings,LH,2023Q3,2023-09-30,분기말 지배지분 자본,7873100000,USD,공시,https://www.sec.gov/Archives/edgar/data/920148/000092014823000081/,,15
+Labcorp Holdings,LH,2023Q3,2023-09-29,분기말 종가,201.05,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/LH?interval=1d&events=splits (2023-09-29),,15
+Labcorp Holdings,LH,2023Q3,2023-10-27,분기말 상장주식수,84900000,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/920148/000092014823000081/,dei:EntityCommonStockSharesOutstanding 클래스 합,15
+Labcorp Holdings,LH,2023Q3,2023-09-29,분기말 시가총액,17069145000,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/LH?interval=1d&events=splits (2023-09-29) ; https://www.sec.gov/Archives/edgar/data/920148/000092014823000081/,종가 201.05 × 주식수 84900000,15
+Labcorp Holdings,LH,2023Q4,2023-12-31,분기별 매출액,3033300000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/920148/000092014824000014/ ; https://www.sec.gov/Archives/edgar/data/920148/000092014823000081/,연간 12161600000 − 9개월누적 9128300000 (Revenues),15
+Labcorp Holdings,LH,2023Q4,2023-12-31,분기별 영업이익,-122800000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/920148/000092014824000014/ ; https://www.sec.gov/Archives/edgar/data/920148/000092014823000081/,연간 725600000 − 9개월누적 848400000 (OperatingIncomeLoss),15
+Labcorp Holdings,LH,2023Q4,2023-12-31,분기별 당기순이익(지배),-167100000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/920148/000092014824000014/ ; https://www.sec.gov/Archives/edgar/data/920148/000092014823000081/,연간 418000000 − 9개월누적 585100000 (NetIncomeLoss),15
+Labcorp Holdings,LH,2023Q4,2023-12-31,분기별 영업활동현금흐름,579600000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/920148/000092014824000014/ ; https://www.sec.gov/Archives/edgar/data/920148/000092014823000081/,누적 1327700000 − 직전누적 748100000 (시작 2023-01-01),15
+Labcorp Holdings,LH,2023Q4,2023-12-31,분기말 자산총계,16725100000,USD,공시,https://www.sec.gov/Archives/edgar/data/920148/000092014824000014/,,15
+Labcorp Holdings,LH,2023Q4,2023-12-31,분기말 부채총계,8834600000,USD,공시,https://www.sec.gov/Archives/edgar/data/920148/000092014824000014/,메자닌(일시자본) 15500000 별도 (원문 lh:NoncontrollingInterestMezzanineEquity 15500000),15
+Labcorp Holdings,LH,2023Q4,2023-12-31,분기말 총자본(자기자본),7875000000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/920148/000092014824000014/,"StockholdersEquity, MinorityInterest 태그 없음",15
+Labcorp Holdings,LH,2023Q4,2023-12-31,분기말 지배지분 자본,7875000000,USD,공시,https://www.sec.gov/Archives/edgar/data/920148/000092014824000014/,,15
+Labcorp Holdings,LH,2023Q4,2023-12-29,분기말 종가,227.29,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/LH?interval=1d&events=splits (2023-12-29),,15
+Labcorp Holdings,LH,2023Q4,2024-02-23,분기말 상장주식수,84100000,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/920148/000092014824000014/,dei:EntityCommonStockSharesOutstanding 클래스 합,15
+Labcorp Holdings,LH,2023Q4,2023-12-29,분기말 시가총액,19115089000,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/LH?interval=1d&events=splits (2023-12-29) ; https://www.sec.gov/Archives/edgar/data/920148/000092014824000014/,종가 227.29 × 주식수 84100000,15
+Labcorp Holdings,LH,2024Q1,2024-03-31,분기별 매출액,3176600000,USD,공시,https://www.sec.gov/Archives/edgar/data/920148/000092014824000032/,,15
+Labcorp Holdings,LH,2024Q1,2024-03-31,분기별 영업이익,321300000,USD,공시,https://www.sec.gov/Archives/edgar/data/920148/000092014824000032/,,15
+Labcorp Holdings,LH,2024Q1,2024-03-31,분기별 당기순이익(지배),228000000,USD,공시,https://www.sec.gov/Archives/edgar/data/920148/000092014824000032/,,15
+Labcorp Holdings,LH,2024Q1,2024-03-31,분기별 영업활동현금흐름,-29800000,USD,공시,https://www.sec.gov/Archives/edgar/data/920148/000092014824000032/,,15
+Labcorp Holdings,LH,2024Q1,2024-03-31,분기말 자산총계,16531000000,USD,공시,https://www.sec.gov/Archives/edgar/data/920148/000092014824000032/,,15
+Labcorp Holdings,LH,2024Q1,2024-03-31,분기말 부채총계,8556200000,USD,공시,https://www.sec.gov/Archives/edgar/data/920148/000092014824000032/,메자닌(일시자본) 15200000 별도 (원문 lh:NoncontrollingInterestMezzanineEquity 15200000),15
+Labcorp Holdings,LH,2024Q1,2024-03-31,분기말 총자본(자기자본),7959600000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/920148/000092014824000032/,"StockholdersEquity, MinorityInterest 태그 없음",15
+Labcorp Holdings,LH,2024Q1,2024-03-31,분기말 지배지분 자본,7959600000,USD,공시,https://www.sec.gov/Archives/edgar/data/920148/000092014824000032/,,15
+Labcorp Holdings,LH,2024Q1,2024-03-28,분기말 종가,218.46,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/LH?interval=1d&events=splits (2024-03-28),,15
+Labcorp Holdings,LH,2024Q1,2024-04-29,분기말 상장주식수,84293628,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/920148/000092014824000032/,dei:EntityCommonStockSharesOutstanding 클래스 합,15
+Labcorp Holdings,LH,2024Q1,2024-03-28,분기말 시가총액,18414785973,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/LH?interval=1d&events=splits (2024-03-28) ; https://www.sec.gov/Archives/edgar/data/920148/000092014824000032/,종가 218.46 × 주식수 84293628,15
+Labcorp Holdings,LH,2024Q2,2024-06-30,분기별 매출액,3220900000,USD,공시,https://www.sec.gov/Archives/edgar/data/920148/000092014824000099/,,15
+Labcorp Holdings,LH,2024Q2,2024-06-30,분기별 영업이익,294800000,USD,공시,https://www.sec.gov/Archives/edgar/data/920148/000092014824000099/,,15
+Labcorp Holdings,LH,2024Q2,2024-06-30,분기별 당기순이익(지배),205300000,USD,공시,https://www.sec.gov/Archives/edgar/data/920148/000092014824000099/,,15
+Labcorp Holdings,LH,2024Q2,2024-06-30,분기별 영업활동현금흐름,561100000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/920148/000092014824000099/ ; https://www.sec.gov/Archives/edgar/data/920148/000092014824000032/,누적 531300000 − 직전누적 -29800000 (시작 2024-01-01),15
+Labcorp Holdings,LH,2024Q2,2024-06-30,분기말 자산총계,16712300000,USD,공시,https://www.sec.gov/Archives/edgar/data/920148/000092014824000099/,,15
+Labcorp Holdings,LH,2024Q2,2024-06-30,분기말 부채총계,8691500000,USD,공시,https://www.sec.gov/Archives/edgar/data/920148/000092014824000099/,메자닌(일시자본) 15000000 별도 (원문 lh:NoncontrollingInterestMezzanineEquity 15000000),15
+Labcorp Holdings,LH,2024Q2,2024-06-30,분기말 총자본(자기자본),8005800000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/920148/000092014824000099/,"StockholdersEquity, MinorityInterest 태그 없음",15
+Labcorp Holdings,LH,2024Q2,2024-06-30,분기말 지배지분 자본,8005800000,USD,공시,https://www.sec.gov/Archives/edgar/data/920148/000092014824000099/,,15
+Labcorp Holdings,LH,2024Q2,2024-06-28,분기말 종가,203.51,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/LH?interval=1d&events=splits (2024-06-28),,15
+Labcorp Holdings,LH,2024Q2,2024-08-01,분기말 상장주식수,83963277,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/920148/000092014824000099/,dei:EntityCommonStockSharesOutstanding 클래스 합,15
+Labcorp Holdings,LH,2024Q2,2024-06-28,분기말 시가총액,17087366502,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/LH?interval=1d&events=splits (2024-06-28) ; https://www.sec.gov/Archives/edgar/data/920148/000092014824000099/,종가 203.51 × 주식수 83963277,15
+Labcorp Holdings,LH,2024Q3,2024-09-30,분기별 매출액,3282000000,USD,공시,https://www.sec.gov/Archives/edgar/data/920148/000092014824000118/,,15
+Labcorp Holdings,LH,2024Q3,2024-09-30,분기별 영업이익,254100000,USD,공시,https://www.sec.gov/Archives/edgar/data/920148/000092014824000118/,,15
+Labcorp Holdings,LH,2024Q3,2024-09-30,분기별 당기순이익(지배),169300000,USD,공시,https://www.sec.gov/Archives/edgar/data/920148/000092014824000118/,,15
+Labcorp Holdings,LH,2024Q3,2024-09-30,분기별 영업활동현금흐름,277300000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/920148/000092014824000118/ ; https://www.sec.gov/Archives/edgar/data/920148/000092014824000099/,누적 808600000 − 직전누적 531300000 (시작 2024-01-01),15
+Labcorp Holdings,LH,2024Q3,2024-09-30,분기말 자산총계,18612500000,USD,공시,https://www.sec.gov/Archives/edgar/data/920148/000092014824000118/,,15
+Labcorp Holdings,LH,2024Q3,2024-09-30,분기말 부채총계,10427100000,USD,공시,https://www.sec.gov/Archives/edgar/data/920148/000092014824000118/,메자닌(일시자본) 15200000 별도 (원문 lh:NoncontrollingInterestMezzanineEquity 15200000),15
+Labcorp Holdings,LH,2024Q3,2024-09-30,분기말 총자본(자기자본),8170200000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/920148/000092014824000118/,"StockholdersEquity, MinorityInterest 태그 없음",15
+Labcorp Holdings,LH,2024Q3,2024-09-30,분기말 지배지분 자본,8170200000,USD,공시,https://www.sec.gov/Archives/edgar/data/920148/000092014824000118/,,15
+Labcorp Holdings,LH,2024Q3,2024-09-30,분기말 종가,223.48,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/LH?interval=1d&events=splits (2024-09-30),,15
+Labcorp Holdings,LH,2024Q3,2024-10-28,분기말 상장주식수,83639261,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/920148/000092014824000118/,dei:EntityCommonStockSharesOutstanding 클래스 합,15
+Labcorp Holdings,LH,2024Q3,2024-09-30,분기말 시가총액,18691702048,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/LH?interval=1d&events=splits (2024-09-30) ; https://www.sec.gov/Archives/edgar/data/920148/000092014824000118/,종가 223.48 × 주식수 83639261,15
+Labcorp Holdings,LH,2024Q4,2024-12-31,분기별 매출액,3329400000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/920148/000092014825000032/ ; https://www.sec.gov/Archives/edgar/data/920148/000092014824000118/,연간 13008900000 − 9개월누적 9679500000 (Revenues),15
+Labcorp Holdings,LH,2024Q4,2024-12-31,분기별 영업이익,216500000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/920148/000092014825000032/ ; https://www.sec.gov/Archives/edgar/data/920148/000092014824000118/,연간 1086700000 − 9개월누적 870200000 (OperatingIncomeLoss),15
+Labcorp Holdings,LH,2024Q4,2024-12-31,분기별 당기순이익(지배),143400000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/920148/000092014825000032/ ; https://www.sec.gov/Archives/edgar/data/920148/000092014824000118/,연간 746000000 − 9개월누적 602600000 (NetIncomeLoss),15
+Labcorp Holdings,LH,2024Q4,2024-12-31,분기별 영업활동현금흐름,777200000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/920148/000092014825000032/ ; https://www.sec.gov/Archives/edgar/data/920148/000092014824000118/,누적 1585800000 − 직전누적 808600000 (시작 2024-01-01),15
+Labcorp Holdings,LH,2024Q4,2024-12-31,분기말 자산총계,18379000000,USD,공시,https://www.sec.gov/Archives/edgar/data/920148/000092014825000032/,,15
+Labcorp Holdings,LH,2024Q4,2024-12-31,분기말 부채총계,10312500000,USD,공시,https://www.sec.gov/Archives/edgar/data/920148/000092014825000032/,메자닌(일시자본) 14300000 별도 (원문 lh:NoncontrollingInterestMezzanineEquity 14300000),15
+Labcorp Holdings,LH,2024Q4,2024-12-31,분기말 총자본(자기자본),8052200000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/920148/000092014825000032/,"StockholdersEquity, MinorityInterest 태그 없음",15
+Labcorp Holdings,LH,2024Q4,2024-12-31,분기말 지배지분 자본,8052200000,USD,공시,https://www.sec.gov/Archives/edgar/data/920148/000092014825000032/,,15
+Labcorp Holdings,LH,2024Q4,2024-12-31,분기말 종가,229.32,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/LH?interval=1d&events=splits (2024-12-31),,15
+Labcorp Holdings,LH,2024Q4,2025-02-24,분기말 상장주식수,83700000,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/920148/000092014825000032/,dei:EntityCommonStockSharesOutstanding 클래스 합,15
+Labcorp Holdings,LH,2024Q4,2024-12-31,분기말 시가총액,19194084000,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/LH?interval=1d&events=splits (2024-12-31) ; https://www.sec.gov/Archives/edgar/data/920148/000092014825000032/,종가 229.32 × 주식수 83700000,15
+Labcorp Holdings,LH,2025Q1,2025-03-31,분기별 매출액,3345100000,USD,공시,https://www.sec.gov/Archives/edgar/data/920148/000092014825000059/,,15
+Labcorp Holdings,LH,2025Q1,2025-03-31,분기별 영업이익,326000000,USD,공시,https://www.sec.gov/Archives/edgar/data/920148/000092014825000059/,,15
+Labcorp Holdings,LH,2025Q1,2025-03-31,분기별 당기순이익(지배),212800000,USD,공시,https://www.sec.gov/Archives/edgar/data/920148/000092014825000059/,,15
+Labcorp Holdings,LH,2025Q1,2025-03-31,분기별 영업활동현금흐름,18500000,USD,공시,https://www.sec.gov/Archives/edgar/data/920148/000092014825000059/,,15
+Labcorp Holdings,LH,2025Q1,2025-03-31,분기말 자산총계,17603800000,USD,공시,https://www.sec.gov/Archives/edgar/data/920148/000092014825000059/,,15
+Labcorp Holdings,LH,2025Q1,2025-03-31,분기말 부채총계,9282100000,USD,공시,https://www.sec.gov/Archives/edgar/data/920148/000092014825000059/,메자닌(일시자본) 14300000 별도 (원문 lh:NoncontrollingInterestMezzanineEquity 14300000),15
+Labcorp Holdings,LH,2025Q1,2025-03-31,분기말 총자본(자기자본),8307400000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/920148/000092014825000059/,"StockholdersEquity, MinorityInterest 태그 없음",15
+Labcorp Holdings,LH,2025Q1,2025-03-31,분기말 지배지분 자본,8307400000,USD,공시,https://www.sec.gov/Archives/edgar/data/920148/000092014825000059/,,15
+Labcorp Holdings,LH,2025Q1,2025-03-31,분기말 종가,232.74,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/LH?interval=1d&events=splits (2025-03-31),,15
+Labcorp Holdings,LH,2025Q1,2025-04-28,분기말 상장주식수,83700000,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/920148/000092014825000059/,dei:EntityCommonStockSharesOutstanding 클래스 합,15
+Labcorp Holdings,LH,2025Q1,2025-03-31,분기말 시가총액,19480338000,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/LH?interval=1d&events=splits (2025-03-31) ; https://www.sec.gov/Archives/edgar/data/920148/000092014825000059/,종가 232.74 × 주식수 83700000,15
+Labcorp Holdings,LH,2025Q2,2025-06-30,분기별 매출액,3527300000,USD,공시,https://www.sec.gov/Archives/edgar/data/920148/000092014825000081/,,15
+Labcorp Holdings,LH,2025Q2,2025-06-30,분기별 영업이익,394500000,USD,공시,https://www.sec.gov/Archives/edgar/data/920148/000092014825000081/,,15
+Labcorp Holdings,LH,2025Q2,2025-06-30,분기별 당기순이익(지배),237900000,USD,공시,https://www.sec.gov/Archives/edgar/data/920148/000092014825000081/,,15
+Labcorp Holdings,LH,2025Q2,2025-06-30,분기별 영업활동현금흐름,620600000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/920148/000092014825000081/ ; https://www.sec.gov/Archives/edgar/data/920148/000092014825000059/,누적 639100000 − 직전누적 18500000 (시작 2025-01-01),15
+Labcorp Holdings,LH,2025Q2,2025-06-30,분기말 자산총계,18059900000,USD,공시,https://www.sec.gov/Archives/edgar/data/920148/000092014825000081/,,15
+Labcorp Holdings,LH,2025Q2,2025-06-30,분기말 부채총계,9570500000,USD,공시,https://www.sec.gov/Archives/edgar/data/920148/000092014825000081/,메자닌(일시자본) 16700000 별도 (원문 lh:NoncontrollingInterestMezzanineEquity 16700000),15
+Labcorp Holdings,LH,2025Q2,2025-06-30,분기말 총자본(자기자본),8472700000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/920148/000092014825000081/,"StockholdersEquity, MinorityInterest 태그 없음",15
+Labcorp Holdings,LH,2025Q2,2025-06-30,분기말 지배지분 자본,8472700000,USD,공시,https://www.sec.gov/Archives/edgar/data/920148/000092014825000081/,,15
+Labcorp Holdings,LH,2025Q2,2025-06-30,분기말 종가,262.51,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/LH?interval=1d&events=splits (2025-06-30),,15
+Labcorp Holdings,LH,2025Q2,2025-07-31,분기말 상장주식수,83100000,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/920148/000092014825000081/,dei:EntityCommonStockSharesOutstanding 클래스 합,15
+Labcorp Holdings,LH,2025Q2,2025-06-30,분기말 시가총액,21814581000,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/LH?interval=1d&events=splits (2025-06-30) ; https://www.sec.gov/Archives/edgar/data/920148/000092014825000081/,종가 262.51 × 주식수 83100000,15
+Labcorp Holdings,LH,2025Q3,2025-09-30,분기별 매출액,3563500000,USD,공시,https://www.sec.gov/Archives/edgar/data/920148/000092014825000096/,,15
+Labcorp Holdings,LH,2025Q3,2025-09-30,분기별 영업이익,396600000,USD,공시,https://www.sec.gov/Archives/edgar/data/920148/000092014825000096/,,15
+Labcorp Holdings,LH,2025Q3,2025-09-30,분기별 당기순이익(지배),261100000,USD,공시,https://www.sec.gov/Archives/edgar/data/920148/000092014825000096/,,15
+Labcorp Holdings,LH,2025Q3,2025-09-30,분기별 영업활동현금흐름,387200000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/920148/000092014825000096/ ; https://www.sec.gov/Archives/edgar/data/920148/000092014825000081/,누적 1026300000 − 직전누적 639100000 (시작 2025-01-01),15
+Labcorp Holdings,LH,2025Q3,2025-09-30,분기말 자산총계,18261600000,USD,공시,https://www.sec.gov/Archives/edgar/data/920148/000092014825000096/,,15
+Labcorp Holdings,LH,2025Q3,2025-09-30,분기말 부채총계,9548600000,USD,공시,https://www.sec.gov/Archives/edgar/data/920148/000092014825000096/,메자닌(일시자본) 16100000 별도 (원문 lh:NoncontrollingInterestMezzanineEquity 16100000),15
+Labcorp Holdings,LH,2025Q3,2025-09-30,분기말 총자본(자기자본),8696900000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/920148/000092014825000096/,"StockholdersEquity, MinorityInterest 태그 없음",15
+Labcorp Holdings,LH,2025Q3,2025-09-30,분기말 지배지분 자본,8696900000,USD,공시,https://www.sec.gov/Archives/edgar/data/920148/000092014825000096/,,15
+Labcorp Holdings,LH,2025Q3,2025-09-30,분기말 종가,287.06,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/LH?interval=1d&events=splits (2025-09-30),,15
+Labcorp Holdings,LH,2025Q3,2025-10-30,분기말 상장주식수,82900000,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/920148/000092014825000096/,dei:EntityCommonStockSharesOutstanding 클래스 합,15
+Labcorp Holdings,LH,2025Q3,2025-09-30,분기말 시가총액,23797274000,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/LH?interval=1d&events=splits (2025-09-30) ; https://www.sec.gov/Archives/edgar/data/920148/000092014825000096/,종가 287.06 × 주식수 82900000,15
+Labcorp Holdings,LH,2025Q4,2025-12-31,분기별 매출액,3515800000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/920148/000092014826000111/ ; https://www.sec.gov/Archives/edgar/data/920148/000092014825000096/,연간 13951700000 − 9개월누적 10435900000 (Revenues),15
+Labcorp Holdings,LH,2025Q4,2025-12-31,분기별 영업이익,267600000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/920148/000092014826000111/ ; https://www.sec.gov/Archives/edgar/data/920148/000092014825000096/,연간 1384700000 − 9개월누적 1117100000 (OperatingIncomeLoss),15
+Labcorp Holdings,LH,2025Q4,2025-12-31,분기별 당기순이익(지배),164700000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/920148/000092014826000111/ ; https://www.sec.gov/Archives/edgar/data/920148/000092014825000096/,연간 876500000 − 9개월누적 711800000 (NetIncomeLoss),15
+Labcorp Holdings,LH,2025Q4,2025-12-31,분기별 영업활동현금흐름,614200000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/920148/000092014826000111/ ; https://www.sec.gov/Archives/edgar/data/920148/000092014825000096/,누적 1640500000 − 직전누적 1026300000 (시작 2025-01-01),15
+Labcorp Holdings,LH,2025Q4,2025-12-31,분기말 자산총계,18392700000,USD,공시,https://www.sec.gov/Archives/edgar/data/920148/000092014826000111/,,15
+Labcorp Holdings,LH,2025Q4,2025-12-31,분기말 부채총계,9756000000,USD,공시,https://www.sec.gov/Archives/edgar/data/920148/000092014826000111/,메자닌(일시자본) 16900000 별도 (원문 lh:NoncontrollingInterestMezzanineEquity 16900000),15
+Labcorp Holdings,LH,2025Q4,2025-12-31,분기말 총자본(자기자본),8619800000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/920148/000092014826000111/,"StockholdersEquity, MinorityInterest 태그 없음",15
+Labcorp Holdings,LH,2025Q4,2025-12-31,분기말 지배지분 자본,8619800000,USD,공시,https://www.sec.gov/Archives/edgar/data/920148/000092014826000111/,,15
+Labcorp Holdings,LH,2025Q4,2025-12-31,분기말 종가,250.88,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/LH?interval=1d&events=splits (2025-12-31),,15
+Labcorp Holdings,LH,2025Q4,2026-02-23,분기말 상장주식수,82400000,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/920148/000092014826000111/,dei:EntityCommonStockSharesOutstanding 클래스 합,15
+Labcorp Holdings,LH,2025Q4,2025-12-31,분기말 시가총액,20672512000,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/LH?interval=1d&events=splits (2025-12-31) ; https://www.sec.gov/Archives/edgar/data/920148/000092014826000111/,종가 250.88 × 주식수 82400000,15
+Labcorp Holdings,LH,2026Q1,2026-03-31,분기별 매출액,3537600000,USD,공시,https://www.sec.gov/Archives/edgar/data/920148/000092014826000139/,,15
+Labcorp Holdings,LH,2026Q1,2026-03-31,분기별 영업이익,380800000,USD,공시,https://www.sec.gov/Archives/edgar/data/920148/000092014826000139/,,15
+Labcorp Holdings,LH,2026Q1,2026-03-31,분기별 당기순이익(지배),277800000,USD,공시,https://www.sec.gov/Archives/edgar/data/920148/000092014826000139/,,15
+Labcorp Holdings,LH,2026Q1,2026-03-31,분기별 영업활동현금흐름,191500000,USD,공시,https://www.sec.gov/Archives/edgar/data/920148/000092014826000139/,,15
+Labcorp Holdings,LH,2026Q1,2026-03-31,분기말 자산총계,19087100000,USD,공시,https://www.sec.gov/Archives/edgar/data/920148/000092014826000139/,,15
+Labcorp Holdings,LH,2026Q1,2026-03-31,분기말 부채총계,10341600000,USD,공시,https://www.sec.gov/Archives/edgar/data/920148/000092014826000139/,메자닌(일시자본) 16900000 별도 (원문 lh:NoncontrollingInterestMezzanineEquity 16900000),15
+Labcorp Holdings,LH,2026Q1,2026-03-31,분기말 총자본(자기자본),8728600000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/920148/000092014826000139/,"StockholdersEquity, MinorityInterest 태그 없음",15
+Labcorp Holdings,LH,2026Q1,2026-03-31,분기말 지배지분 자본,8728600000,USD,공시,https://www.sec.gov/Archives/edgar/data/920148/000092014826000139/,,15
+Labcorp Holdings,LH,2026Q1,2026-03-31,분기말 종가,266.81,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/LH?interval=1d&events=splits (2026-03-31),,15
+Labcorp Holdings,LH,2026Q1,2026-05-01,분기말 상장주식수,82000000,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/920148/000092014826000139/,dei:EntityCommonStockSharesOutstanding 클래스 합,15
+Labcorp Holdings,LH,2026Q1,2026-03-31,분기말 시가총액,21878420000,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/LH?interval=1d&events=splits (2026-03-31) ; https://www.sec.gov/Archives/edgar/data/920148/000092014826000139/,종가 266.81 × 주식수 82000000,15
+Labcorp Holdings,LH,2026Q2,2026-06-30,분기별 매출액,3731100000,USD,공시,https://www.sec.gov/Archives/edgar/data/920148/000092014826000175/,,15
+Labcorp Holdings,LH,2026Q2,2026-06-30,분기별 영업이익,451600000,USD,공시,https://www.sec.gov/Archives/edgar/data/920148/000092014826000175/,,15
+Labcorp Holdings,LH,2026Q2,2026-06-30,분기별 당기순이익(지배),298700000,USD,공시,https://www.sec.gov/Archives/edgar/data/920148/000092014826000175/,,15
+Labcorp Holdings,LH,2026Q2,2026-06-30,분기별 영업활동현금흐름,445500000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/920148/000092014826000175/ ; https://www.sec.gov/Archives/edgar/data/920148/000092014826000139/,누적 637000000 − 직전누적 191500000 (시작 2026-01-01),15
+Labcorp Holdings,LH,2026Q2,2026-06-30,분기말 자산총계,18532300000,USD,공시,https://www.sec.gov/Archives/edgar/data/920148/000092014826000175/,,15
+Labcorp Holdings,LH,2026Q2,2026-06-30,분기말 부채총계,9909100000,USD,공시,https://www.sec.gov/Archives/edgar/data/920148/000092014826000175/,메자닌(일시자본) 16400000 별도 (원문 lh:NoncontrollingInterestMezzanineEquity 16400000),15
+Labcorp Holdings,LH,2026Q2,2026-06-30,분기말 총자본(자기자본),8606800000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/920148/000092014826000175/,"StockholdersEquity, MinorityInterest 태그 없음",15
+Labcorp Holdings,LH,2026Q2,2026-06-30,분기말 지배지분 자본,8606800000,USD,공시,https://www.sec.gov/Archives/edgar/data/920148/000092014826000175/,,15
+Labcorp Holdings,LH,2026Q2,2026-06-30,분기말 종가,280.0,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/LH?interval=1d&events=splits (2026-06-30),,15
+Labcorp Holdings,LH,2026Q2,2026-08-04,분기말 상장주식수,81100000,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/920148/000092014826000175/,dei:EntityCommonStockSharesOutstanding 클래스 합,15
+Labcorp Holdings,LH,2026Q2,2026-06-30,분기말 시가총액,22708000000,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/LH?interval=1d&events=splits (2026-06-30) ; https://www.sec.gov/Archives/edgar/data/920148/000092014826000175/,종가 280.0 × 주식수 81100000,15

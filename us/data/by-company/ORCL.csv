@@ -1,0 +1,727 @@
+﻿기업,종목코드,기간,기준일,항목,값,통화,값구분,출처,검산,라운드
+Oracle,ORCL,2010Q1,2010-02-28,분기별 매출액,6404000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1341439/000119312510070192/,,3
+Oracle,ORCL,2010Q1,2010-02-28,분기별 영업이익,1843000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1341439/000119312510070192/,,3
+Oracle,ORCL,2010Q1,2010-02-28,분기별 당기순이익(지배),1189000000,USD,공시(보통주 귀속),https://www.sec.gov/Archives/edgar/data/1341439/000119312510070192/,,3
+Oracle,ORCL,2010Q1,2010-02-28,분기별 영업활동현금흐름,1781000000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/1341439/000119312510070192/ ; https://www.sec.gov/Archives/edgar/data/1341439/000119312509257212/,누적 6170000000 − 직전누적 4389000000 (시작 2009-06-01),3
+Oracle,ORCL,2010Q1,2010-02-28,분기말 자산총계,59386000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1341439/000119312510070192/,,3
+Oracle,ORCL,2010Q1,2010-02-28,분기말 부채총계,30535000000,USD,계산(부채및자본-총자본),https://www.sec.gov/Archives/edgar/data/1341439/000119312510070192/,부채및자본 59386000000 − 총자본 28851000000,3
+Oracle,ORCL,2010Q1,2010-02-28,분기말 총자본(자기자본),28851000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1341439/000119312510070192/,,3
+Oracle,ORCL,2010Q1,2010-02-28,분기말 지배지분 자본,28476000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1341439/000119312510070192/,,3
+Oracle,ORCL,2010Q1,2010-02-26,분기말 종가,24.65,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/ORCL?interval=1d&events=splits (2010-02-26),,3
+Oracle,ORCL,2010Q1,2010-03-23,분기말 상장주식수,5019091000,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/1341439/000119312510070192/,dei:EntityCommonStockSharesOutstanding 클래스 합,3
+Oracle,ORCL,2010Q1,2010-02-26,분기말 시가총액,123720593150,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/ORCL?interval=1d&events=splits (2010-02-26) ; https://www.sec.gov/Archives/edgar/data/1341439/000119312510070192/,종가 24.65 × 주식수 5019091000,3
+Oracle,ORCL,2010Q2,2010-05-31,분기별 매출액,9505000000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/1341439/000119312510151896/ ; https://www.sec.gov/Archives/edgar/data/1341439/000119312510070192/,연간 26820000000 − 9개월누적 17315000000 (Revenues),3
+Oracle,ORCL,2010Q2,2010-05-31,분기별 영업이익,3300000000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/1341439/000119312510151896/ ; https://www.sec.gov/Archives/edgar/data/1341439/000119312510070192/,연간 9062000000 − 9개월누적 5762000000 (OperatingIncomeLoss),3
+Oracle,ORCL,2010Q2,2010-05-31,분기별 당기순이익(지배),2363000000,USD,"계산(연간-3분기누적, 보통주 귀속)",https://www.sec.gov/Archives/edgar/data/1341439/000119312510151896/ ; https://www.sec.gov/Archives/edgar/data/1341439/000119312510070192/,연간 6135000000 − 9개월누적 3772000000 (NetIncomeLossAvailableToCommonStockholdersBasic),3
+Oracle,ORCL,2010Q2,2010-05-31,분기별 영업활동현금흐름,2511000000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/1341439/000119312510151896/ ; https://www.sec.gov/Archives/edgar/data/1341439/000119312510070192/,누적 8681000000 − 직전누적 6170000000 (시작 2009-06-01),3
+Oracle,ORCL,2010Q2,2010-05-31,분기말 자산총계,61578000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1341439/000119312510151896/,,3
+Oracle,ORCL,2010Q2,2010-05-31,분기말 부채총계,30379000000,USD,계산(부채및자본-총자본),https://www.sec.gov/Archives/edgar/data/1341439/000119312510151896/,부채및자본 61578000000 − 총자본 31199000000,3
+Oracle,ORCL,2010Q2,2010-05-31,분기말 총자본(자기자본),31199000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1341439/000119312510151896/,,3
+Oracle,ORCL,2010Q2,2010-05-31,분기말 지배지분 자본,30798000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1341439/000119312510151896/,,3
+Oracle,ORCL,2010Q2,2010-05-28,분기말 종가,22.57,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/ORCL?interval=1d&events=splits (2010-05-28),,3
+Oracle,ORCL,2010Q2,2010-06-22,분기말 상장주식수,5026247000,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/1341439/000119312510151896/,dei:EntityCommonStockSharesOutstanding 클래스 합,3
+Oracle,ORCL,2010Q2,2010-05-28,분기말 시가총액,113442394790,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/ORCL?interval=1d&events=splits (2010-05-28) ; https://www.sec.gov/Archives/edgar/data/1341439/000119312510151896/,종가 22.57 × 주식수 5026247000,3
+Oracle,ORCL,2010Q3,2010-08-31,분기별 매출액,7502000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1341439/000119312510219697/,,3
+Oracle,ORCL,2010Q3,2010-08-31,분기별 영업이익,1917000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1341439/000119312510219697/,,3
+Oracle,ORCL,2010Q3,2010-08-31,분기별 당기순이익(지배),1352000000,USD,공시(보통주 귀속),https://www.sec.gov/Archives/edgar/data/1341439/000119312510219697/,,3
+Oracle,ORCL,2010Q3,2010-08-31,분기별 영업활동현금흐름,3817000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1341439/000119312510219697/,,3
+Oracle,ORCL,2010Q3,2010-08-31,분기말 자산총계,65255000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1341439/000119312510219697/,,3
+Oracle,ORCL,2010Q3,2010-08-31,분기말 부채총계,32743000000,USD,계산(부채및자본-총자본),https://www.sec.gov/Archives/edgar/data/1341439/000119312510219697/,부채및자본 65255000000 − 총자본 32512000000,3
+Oracle,ORCL,2010Q3,2010-08-31,분기말 총자본(자기자본),32512000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1341439/000119312510219697/,,3
+Oracle,ORCL,2010Q3,2010-08-31,분기말 지배지분 자본,32106000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1341439/000119312510219697/,,3
+Oracle,ORCL,2010Q3,2010-08-31,분기말 종가,21.84,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/ORCL?interval=1d&events=splits (2010-08-31),,3
+Oracle,ORCL,2010Q3,2010-09-13,분기말 상장주식수,5027114000,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/1341439/000119312510219697/,dei:EntityCommonStockSharesOutstanding 클래스 합,3
+Oracle,ORCL,2010Q3,2010-08-31,분기말 시가총액,109792169760,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/ORCL?interval=1d&events=splits (2010-08-31) ; https://www.sec.gov/Archives/edgar/data/1341439/000119312510219697/,종가 21.84 × 주식수 5027114000,3
+Oracle,ORCL,2010Q4,2010-11-30,분기별 매출액,8582000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1341439/000119312510285703/,,3
+Oracle,ORCL,2010Q4,2010-11-30,분기별 영업이익,2770000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1341439/000119312510285703/,,3
+Oracle,ORCL,2010Q4,2010-11-30,분기별 당기순이익(지배),1870000000,USD,공시(보통주 귀속),https://www.sec.gov/Archives/edgar/data/1341439/000119312510285703/,,3
+Oracle,ORCL,2010Q4,2010-11-30,분기별 영업활동현금흐름,944000000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/1341439/000119312510285703/ ; https://www.sec.gov/Archives/edgar/data/1341439/000119312510219697/,누적 4761000000 − 직전누적 3817000000 (시작 2010-06-01),3
+Oracle,ORCL,2010Q4,2010-11-30,분기말 자산총계,67243000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1341439/000119312510285703/,,3
+Oracle,ORCL,2010Q4,2010-11-30,분기말 부채총계,32393000000,USD,계산(부채및자본-총자본),https://www.sec.gov/Archives/edgar/data/1341439/000119312510285703/,부채및자본 67243000000 − 총자본 34850000000,3
+Oracle,ORCL,2010Q4,2010-11-30,분기말 총자본(자기자본),34850000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1341439/000119312510285703/,,3
+Oracle,ORCL,2010Q4,2010-11-30,분기말 지배지분 자본,34412000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1341439/000119312510285703/,,3
+Oracle,ORCL,2010Q4,2010-11-30,분기말 종가,27.05,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/ORCL?interval=1d&events=splits (2010-11-30),,3
+Oracle,ORCL,2010Q4,2010-12-13,분기말 상장주식수,5052420000,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/1341439/000119312510285703/,dei:EntityCommonStockSharesOutstanding 클래스 합,3
+Oracle,ORCL,2010Q4,2010-11-30,분기말 시가총액,136667961000,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/ORCL?interval=1d&events=splits (2010-11-30) ; https://www.sec.gov/Archives/edgar/data/1341439/000119312510285703/,종가 27.05 × 주식수 5052420000,3
+Oracle,ORCL,2011Q1,2011-02-28,분기별 매출액,8764000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1341439/000119312511081178/,,3
+Oracle,ORCL,2011Q1,2011-02-28,분기별 영업이익,2987000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1341439/000119312511081178/,,3
+Oracle,ORCL,2011Q1,2011-02-28,분기별 당기순이익(지배),2116000000,USD,공시(보통주 귀속),https://www.sec.gov/Archives/edgar/data/1341439/000119312511081178/,,3
+Oracle,ORCL,2011Q1,2011-02-28,분기별 영업활동현금흐름,2676000000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/1341439/000119312511081178/ ; https://www.sec.gov/Archives/edgar/data/1341439/000119312510285703/,누적 7437000000 − 직전누적 4761000000 (시작 2010-06-01),3
+Oracle,ORCL,2011Q1,2011-02-28,분기말 자산총계,67666000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1341439/000119312511081178/,,3
+Oracle,ORCL,2011Q1,2011-02-28,분기말 부채총계,30607000000,USD,계산(부채및자본-총자본),https://www.sec.gov/Archives/edgar/data/1341439/000119312511081178/,부채및자본 67666000000 − 총자본 37059000000,3
+Oracle,ORCL,2011Q1,2011-02-28,분기말 총자본(자기자본),37059000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1341439/000119312511081178/,,3
+Oracle,ORCL,2011Q1,2011-02-28,분기말 지배지분 자본,36617000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1341439/000119312511081178/,,3
+Oracle,ORCL,2011Q1,2011-02-28,분기말 종가,32.9,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/ORCL?interval=1d&events=splits (2011-02-28),,3
+Oracle,ORCL,2011Q1,2011-03-21,분기말 상장주식수,5060516000,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/1341439/000119312511081178/,dei:EntityCommonStockSharesOutstanding 클래스 합,3
+Oracle,ORCL,2011Q1,2011-02-28,분기말 시가총액,166490976400,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/ORCL?interval=1d&events=splits (2011-02-28) ; https://www.sec.gov/Archives/edgar/data/1341439/000119312511081178/,종가 32.9 × 주식수 5060516000,3
+Oracle,ORCL,2011Q2,2011-05-31,분기별 매출액,10775000000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/1341439/000119312511174819/ ; https://www.sec.gov/Archives/edgar/data/1341439/000119312511081178/,연간 35622000000 − 9개월누적 24847000000 (Revenues),3
+Oracle,ORCL,2011Q2,2011-05-31,분기별 영업이익,4359000000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/1341439/000119312511174819/ ; https://www.sec.gov/Archives/edgar/data/1341439/000119312511081178/,연간 12033000000 − 9개월누적 7674000000 (OperatingIncomeLoss),3
+Oracle,ORCL,2011Q2,2011-05-31,분기별 당기순이익(지배),3209000000,USD,"계산(연간-3분기누적, 보통주 귀속)",https://www.sec.gov/Archives/edgar/data/1341439/000119312511174819/ ; https://www.sec.gov/Archives/edgar/data/1341439/000119312511081178/,연간 8547000000 − 9개월누적 5338000000 (NetIncomeLossAvailableToCommonStockholdersBasic),3
+Oracle,ORCL,2011Q2,2011-05-31,분기별 영업활동현금흐름,3777000000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/1341439/000119312511174819/ ; https://www.sec.gov/Archives/edgar/data/1341439/000119312511081178/,누적 11214000000 − 직전누적 7437000000 (시작 2010-06-01),3
+Oracle,ORCL,2011Q2,2011-05-31,분기말 자산총계,73535000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1341439/000119312511174819/,,3
+Oracle,ORCL,2011Q2,2011-05-31,분기말 부채총계,33290000000,USD,계산(부채및자본-총자본),https://www.sec.gov/Archives/edgar/data/1341439/000119312511174819/,부채및자본 73535000000 − 총자본 40245000000,3
+Oracle,ORCL,2011Q2,2011-05-31,분기말 총자본(자기자본),40245000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1341439/000119312511174819/,,3
+Oracle,ORCL,2011Q2,2011-05-31,분기말 지배지분 자본,39776000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1341439/000119312511174819/,,3
+Oracle,ORCL,2011Q2,2011-05-31,분기말 종가,34.22,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/ORCL?interval=1d&events=splits (2011-05-31),,3
+Oracle,ORCL,2011Q2,2011-06-20,분기말 상장주식수,5065515000,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/1341439/000119312511174819/,dei:EntityCommonStockSharesOutstanding 클래스 합,3
+Oracle,ORCL,2011Q2,2011-05-31,분기말 시가총액,173341923300,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/ORCL?interval=1d&events=splits (2011-05-31) ; https://www.sec.gov/Archives/edgar/data/1341439/000119312511174819/,종가 34.22 × 주식수 5065515000,3
+Oracle,ORCL,2011Q3,2011-08-31,분기별 매출액,8374000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1341439/000119312511255436/,,3
+Oracle,ORCL,2011Q3,2011-08-31,분기별 영업이익,2683000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1341439/000119312511255436/,,3
+Oracle,ORCL,2011Q3,2011-08-31,분기별 당기순이익(지배),1840000000,USD,공시(보통주 귀속),https://www.sec.gov/Archives/edgar/data/1341439/000119312511255436/,,3
+Oracle,ORCL,2011Q3,2011-08-31,분기별 영업활동현금흐름,5421000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1341439/000119312511255436/,,3
+Oracle,ORCL,2011Q3,2011-08-31,분기말 자산총계,73859000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1341439/000119312511255436/,,3
+Oracle,ORCL,2011Q3,2011-08-31,분기말 부채총계,32620000000,USD,계산(부채및자본-총자본),https://www.sec.gov/Archives/edgar/data/1341439/000119312511255436/,부채및자본 73859000000 − 총자본 41239000000,3
+Oracle,ORCL,2011Q3,2011-08-31,분기말 총자본(자기자본),41239000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1341439/000119312511255436/,,3
+Oracle,ORCL,2011Q3,2011-08-31,분기말 지배지분 자본,40892000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1341439/000119312511255436/,,3
+Oracle,ORCL,2011Q3,2011-08-31,분기말 종가,28.07,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/ORCL?interval=1d&events=splits (2011-08-31),,3
+Oracle,ORCL,2011Q3,2011-09-16,분기말 상장주식수,5044602000,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/1341439/000119312511255436/,dei:EntityCommonStockSharesOutstanding 클래스 합,3
+Oracle,ORCL,2011Q3,2011-08-31,분기말 시가총액,141601978140,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/ORCL?interval=1d&events=splits (2011-08-31) ; https://www.sec.gov/Archives/edgar/data/1341439/000119312511255436/,종가 28.07 × 주식수 5044602000,3
+Oracle,ORCL,2011Q4,2011-11-30,분기별 매출액,8792000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1341439/000119312511351954/,,3
+Oracle,ORCL,2011Q4,2011-11-30,분기별 영업이익,3111000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1341439/000119312511351954/,,3
+Oracle,ORCL,2011Q4,2011-11-30,분기별 당기순이익(지배),2192000000,USD,공시(보통주 귀속),https://www.sec.gov/Archives/edgar/data/1341439/000119312511351954/,,3
+Oracle,ORCL,2011Q4,2011-11-30,분기별 영업활동현금흐름,1255000000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/1341439/000119312511351954/ ; https://www.sec.gov/Archives/edgar/data/1341439/000119312511255436/,누적 6676000000 − 직전누적 5421000000 (시작 2011-06-01),3
+Oracle,ORCL,2011Q4,2011-11-30,분기말 자산총계,72910000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1341439/000119312511351954/,,3
+Oracle,ORCL,2011Q4,2011-11-30,분기말 부채총계,30643000000,USD,계산(부채및자본-총자본),https://www.sec.gov/Archives/edgar/data/1341439/000119312511351954/,부채및자본 72910000000 − 총자본 42267000000,3
+Oracle,ORCL,2011Q4,2011-11-30,분기말 총자본(자기자본),42267000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1341439/000119312511351954/,,3
+Oracle,ORCL,2011Q4,2011-11-30,분기말 지배지분 자본,41920000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1341439/000119312511351954/,,3
+Oracle,ORCL,2011Q4,2011-11-30,분기말 종가,31.35,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/ORCL?interval=1d&events=splits (2011-11-30),,3
+Oracle,ORCL,2011Q4,2011-12-16,분기말 상장주식수,5025837000,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/1341439/000119312511351954/,dei:EntityCommonStockSharesOutstanding 클래스 합,3
+Oracle,ORCL,2011Q4,2011-11-30,분기말 시가총액,157559989950,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/ORCL?interval=1d&events=splits (2011-11-30) ; https://www.sec.gov/Archives/edgar/data/1341439/000119312511351954/,종가 31.35 × 주식수 5025837000,3
+Oracle,ORCL,2012Q1,2012-02-29,분기별 매출액,9039000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1341439/000119312512129918/,,3
+Oracle,ORCL,2012Q1,2012-02-29,분기별 영업이익,3317000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1341439/000119312512129918/,,3
+Oracle,ORCL,2012Q1,2012-02-29,분기별 당기순이익(지배),2498000000,USD,공시(보통주 귀속),https://www.sec.gov/Archives/edgar/data/1341439/000119312512129918/,,3
+Oracle,ORCL,2012Q1,2012-02-29,분기별 영업활동현금흐름,3010000000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/1341439/000119312512129918/ ; https://www.sec.gov/Archives/edgar/data/1341439/000119312511351954/,누적 9686000000 − 직전누적 6676000000 (시작 2011-06-01),3
+Oracle,ORCL,2012Q1,2012-02-29,분기말 자산총계,74361000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1341439/000119312512129918/,,3
+Oracle,ORCL,2012Q1,2012-02-29,분기말 부채총계,31095000000,USD,계산(부채및자본-총자본),https://www.sec.gov/Archives/edgar/data/1341439/000119312512129918/,부채및자본 74361000000 − 총자본 43266000000,3
+Oracle,ORCL,2012Q1,2012-02-29,분기말 총자본(자기자본),43266000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1341439/000119312512129918/,,3
+Oracle,ORCL,2012Q1,2012-02-29,분기말 지배지분 자본,42873000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1341439/000119312512129918/,,3
+Oracle,ORCL,2012Q1,2012-02-29,분기말 종가,29.25,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/ORCL?interval=1d&events=splits (2012-02-29),,3
+Oracle,ORCL,2012Q1,2012-03-19,분기말 상장주식수,4975106000,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/1341439/000119312512129918/,dei:EntityCommonStockSharesOutstanding 클래스 합,3
+Oracle,ORCL,2012Q1,2012-02-29,분기말 시가총액,145521850500,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/ORCL?interval=1d&events=splits (2012-02-29) ; https://www.sec.gov/Archives/edgar/data/1341439/000119312512129918/,종가 29.25 × 주식수 4975106000,3
+Oracle,ORCL,2012Q2,2012-05-31,분기별 매출액,10916000000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/1341439/000119312512284007/ ; https://www.sec.gov/Archives/edgar/data/1341439/000119312512129918/,연간 37121000000 − 9개월누적 26205000000 (Revenues),3
+Oracle,ORCL,2012Q2,2012-05-31,분기별 영업이익,4595000000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/1341439/000119312512284007/ ; https://www.sec.gov/Archives/edgar/data/1341439/000119312512129918/,연간 13706000000 − 9개월누적 9111000000 (OperatingIncomeLoss),3
+Oracle,ORCL,2012Q2,2012-05-31,분기별 당기순이익(지배),3571000000,USD,"계산(연간-3분기누적, 비지배 없음)",https://www.sec.gov/Archives/edgar/data/1341439/000119312512284007/ ; https://www.sec.gov/Archives/edgar/data/1341439/000119312512129918/,연간 10100000000 − 9개월누적 6529000000 (ProfitLoss / 9개월 NetIncomeLossAvailableToCommonStockholdersBasic),3
+Oracle,ORCL,2012Q2,2012-05-31,분기별 영업활동현금흐름,4057000000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/1341439/000119312512284007/ ; https://www.sec.gov/Archives/edgar/data/1341439/000119312512129918/,누적 13743000000 − 직전누적 9686000000 (시작 2011-06-01),3
+Oracle,ORCL,2012Q2,2012-05-31,분기말 자산총계,78327000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1341439/000119312512284007/,,3
+Oracle,ORCL,2012Q2,2012-05-31,분기말 부채총계,34240000000,USD,계산(부채및자본-총자본),https://www.sec.gov/Archives/edgar/data/1341439/000119312512284007/,부채및자본 78327000000 − 총자본 44087000000,3
+Oracle,ORCL,2012Q2,2012-05-31,분기말 총자본(자기자본),44087000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1341439/000119312512284007/,,3
+Oracle,ORCL,2012Q2,2012-05-31,분기말 지배지분 자본,43688000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1341439/000119312512284007/,,3
+Oracle,ORCL,2012Q2,2012-05-31,분기말 종가,26.47,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/ORCL?interval=1d&events=splits (2012-05-31),,3
+Oracle,ORCL,2012Q2,2012-06-20,분기말 상장주식수,4882506000,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/1341439/000119312512284007/,dei:EntityCommonStockSharesOutstanding 클래스 합,3
+Oracle,ORCL,2012Q2,2012-05-31,분기말 시가총액,129239933820,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/ORCL?interval=1d&events=splits (2012-05-31) ; https://www.sec.gov/Archives/edgar/data/1341439/000119312512284007/,종가 26.47 × 주식수 4882506000,3
+Oracle,ORCL,2012Q3,2012-08-31,분기별 매출액,8181000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1341439/000119312512401697/,,3
+Oracle,ORCL,2012Q3,2012-08-31,분기별 영업이익,2879000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1341439/000119312512401697/,,3
+Oracle,ORCL,2012Q3,2012-08-31,분기별 당기순이익(지배),2034000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1341439/000119312512401697/,,3
+Oracle,ORCL,2012Q3,2012-08-31,분기별 영업활동현금흐름,5671000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1341439/000119312512401697/,,3
+Oracle,ORCL,2012Q3,2012-08-31,분기말 자산총계,76558000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1341439/000119312512401697/,,3
+Oracle,ORCL,2012Q3,2012-08-31,분기말 부채총계,32822000000,USD,계산(부채및자본-총자본),https://www.sec.gov/Archives/edgar/data/1341439/000119312512401697/,부채및자본 76558000000 − 총자본 43736000000,3
+Oracle,ORCL,2012Q3,2012-08-31,분기말 총자본(자기자본),43736000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1341439/000119312512401697/,,3
+Oracle,ORCL,2012Q3,2012-08-31,분기말 지배지분 자본,43329000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1341439/000119312512401697/,,3
+Oracle,ORCL,2012Q3,2012-08-31,분기말 종가,31.65,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/ORCL?interval=1d&events=splits (2012-08-31),,3
+Oracle,ORCL,2012Q3,2012-09-17,분기말 상장주식수,4819056000000000,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/1341439/000119312512401697/,dei:EntityCommonStockSharesOutstanding 클래스 합,3
+Oracle,ORCL,2012Q3,2012-08-31,분기말 시가총액,152523122400000000,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/ORCL?interval=1d&events=splits (2012-08-31) ; https://www.sec.gov/Archives/edgar/data/1341439/000119312512401697/,종가 31.65 × 주식수 4819056000000000,3
+Oracle,ORCL,2012Q4,2012-11-30,분기별 매출액,9094000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1341439/000119312512513009/,,3
+Oracle,ORCL,2012Q4,2012-11-30,분기별 영업이익,3471000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1341439/000119312512513009/,,3
+Oracle,ORCL,2012Q4,2012-11-30,분기별 당기순이익(지배),2581000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1341439/000119312512513009/,,3
+Oracle,ORCL,2012Q4,2012-11-30,분기별 영업활동현금흐름,795000000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/1341439/000119312512513009/ ; https://www.sec.gov/Archives/edgar/data/1341439/000119312512401697/,누적 6466000000 − 직전누적 5671000000 (시작 2012-06-01),3
+Oracle,ORCL,2012Q4,2012-11-30,분기말 자산총계,79657000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1341439/000119312512513009/,,3
+Oracle,ORCL,2012Q4,2012-11-30,분기말 부채총계,36247000000,USD,계산(부채및자본-총자본),https://www.sec.gov/Archives/edgar/data/1341439/000119312512513009/,부채및자본 79657000000 − 총자본 43410000000,3
+Oracle,ORCL,2012Q4,2012-11-30,분기말 총자본(자기자본),43410000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1341439/000119312512513009/,,3
+Oracle,ORCL,2012Q4,2012-11-30,분기말 지배지분 자본,42983000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1341439/000119312512513009/,,3
+Oracle,ORCL,2012Q4,2012-11-30,분기말 종가,32.18,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/ORCL?interval=1d&events=splits (2012-11-30),,3
+Oracle,ORCL,2012Q4,2012-12-14,분기말 상장주식수,4734297000,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/1341439/000119312512513009/,dei:EntityCommonStockSharesOutstanding 클래스 합,3
+Oracle,ORCL,2012Q4,2012-11-30,분기말 시가총액,152349677460,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/ORCL?interval=1d&events=splits (2012-11-30) ; https://www.sec.gov/Archives/edgar/data/1341439/000119312512513009/,종가 32.18 × 주식수 4734297000,3
+Oracle,ORCL,2013Q1,2013-02-28,분기별 매출액,8958000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1341439/000119312513122271/,,3
+Oracle,ORCL,2013Q1,2013-02-28,분기별 영업이익,3334000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1341439/000119312513122271/,,3
+Oracle,ORCL,2013Q1,2013-02-28,분기별 당기순이익(지배),2504000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1341439/000119312513122271/,,3
+Oracle,ORCL,2013Q1,2013-02-28,분기별 영업활동현금흐름,3194000000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/1341439/000119312513122271/ ; https://www.sec.gov/Archives/edgar/data/1341439/000119312512513009/,누적 9660000000 − 직전누적 6466000000 (시작 2012-06-01),3
+Oracle,ORCL,2013Q1,2013-02-28,분기말 자산총계,79450000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1341439/000119312513122271/,,3
+Oracle,ORCL,2013Q1,2013-02-28,분기말 부채총계,35660000000,USD,계산(부채및자본-총자본),https://www.sec.gov/Archives/edgar/data/1341439/000119312513122271/,부채및자본 79450000000 − 총자본 43790000000,3
+Oracle,ORCL,2013Q1,2013-02-28,분기말 총자본(자기자본),43790000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1341439/000119312513122271/,,3
+Oracle,ORCL,2013Q1,2013-02-28,분기말 지배지분 자본,43348000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1341439/000119312513122271/,,3
+Oracle,ORCL,2013Q1,2013-02-28,분기말 종가,34.24,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/ORCL?interval=1d&events=splits (2013-02-28),,3
+Oracle,ORCL,2013Q1,2013-03-15,분기말 상장주식수,4710658000,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/1341439/000119312513122271/,dei:EntityCommonStockSharesOutstanding 클래스 합,3
+Oracle,ORCL,2013Q1,2013-02-28,분기말 시가총액,161292929920,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/ORCL?interval=1d&events=splits (2013-02-28) ; https://www.sec.gov/Archives/edgar/data/1341439/000119312513122271/,종가 34.24 × 주식수 4710658000,3
+Oracle,ORCL,2013Q2,2013-05-31,분기별 매출액,10947000000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/1341439/000119312513272832/ ; https://www.sec.gov/Archives/edgar/data/1341439/000119312513122271/,연간 37180000000 − 9개월누적 26233000000 (Revenues),3
+Oracle,ORCL,2013Q2,2013-05-31,분기별 영업이익,5000000000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/1341439/000119312513272832/ ; https://www.sec.gov/Archives/edgar/data/1341439/000119312513122271/,연간 14684000000 − 9개월누적 9684000000 (OperatingIncomeLoss),3
+Oracle,ORCL,2013Q2,2013-05-31,분기별 당기순이익(지배),3806000000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/1341439/000119312513272832/ ; https://www.sec.gov/Archives/edgar/data/1341439/000119312513122271/,연간 10925000000 − 9개월누적 7119000000 (NetIncomeLoss),3
+Oracle,ORCL,2013Q2,2013-05-31,분기별 영업활동현금흐름,4564000000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/1341439/000119312513272832/ ; https://www.sec.gov/Archives/edgar/data/1341439/000119312513122271/,누적 14224000000 − 직전누적 9660000000 (시작 2012-06-01),3
+Oracle,ORCL,2013Q2,2013-05-31,분기말 자산총계,81812000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1341439/000119312513272832/,,3
+Oracle,ORCL,2013Q2,2013-05-31,분기말 부채총계,36667000000,USD,계산(부채및자본-총자본),https://www.sec.gov/Archives/edgar/data/1341439/000119312513272832/,부채및자본 81812000000 − 총자본 45145000000,3
+Oracle,ORCL,2013Q2,2013-05-31,분기말 총자본(자기자본),45145000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1341439/000119312513272832/,,3
+Oracle,ORCL,2013Q2,2013-05-31,분기말 지배지분 자본,44648000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1341439/000119312513272832/,,3
+Oracle,ORCL,2013Q2,2013-05-31,분기말 종가,33.78,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/ORCL?interval=1d&events=splits (2013-05-31),,3
+Oracle,ORCL,2013Q2,2013-06-19,분기말 상장주식수,4630807000,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/1341439/000119312513272832/,dei:EntityCommonStockSharesOutstanding 클래스 합,3
+Oracle,ORCL,2013Q2,2013-05-31,분기말 시가총액,156428660460,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/ORCL?interval=1d&events=splits (2013-05-31) ; https://www.sec.gov/Archives/edgar/data/1341439/000119312513272832/,종가 33.78 × 주식수 4630807000,3
+Oracle,ORCL,2013Q3,2013-08-31,분기별 매출액,8372000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1341439/000119312513373455/,,3
+Oracle,ORCL,2013Q3,2013-08-31,분기별 영업이익,2873000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1341439/000119312513373455/,,3
+Oracle,ORCL,2013Q3,2013-08-31,분기별 당기순이익(지배),2191000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1341439/000119312513373455/,,3
+Oracle,ORCL,2013Q3,2013-08-31,분기별 영업활동현금흐름,6292000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1341439/000119312513373455/,,3
+Oracle,ORCL,2013Q3,2013-08-31,분기말 자산총계,86406000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1341439/000119312513373455/,,3
+Oracle,ORCL,2013Q3,2013-08-31,분기말 부채총계,42420000000,USD,계산(부채및자본-총자본),https://www.sec.gov/Archives/edgar/data/1341439/000119312513373455/,부채및자본 86406000000 − 총자본 43986000000,3
+Oracle,ORCL,2013Q3,2013-08-31,분기말 총자본(자기자본),43986000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1341439/000119312513373455/,,3
+Oracle,ORCL,2013Q3,2013-08-31,분기말 지배지분 자본,43541000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1341439/000119312513373455/,,3
+Oracle,ORCL,2013Q3,2013-08-30,분기말 종가,31.86,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/ORCL?interval=1d&events=splits (2013-08-30),,3
+Oracle,ORCL,2013Q3,2013-09-13,분기말 상장주식수,4557459000,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/1341439/000119312513373455/,dei:EntityCommonStockSharesOutstanding 클래스 합,3
+Oracle,ORCL,2013Q3,2013-08-30,분기말 시가총액,145200643740,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/ORCL?interval=1d&events=splits (2013-08-30) ; https://www.sec.gov/Archives/edgar/data/1341439/000119312513373455/,종가 31.86 × 주식수 4557459000,3
+Oracle,ORCL,2013Q4,2013-11-30,분기별 매출액,9275000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1341439/000119312513481081/,,3
+Oracle,ORCL,2013Q4,2013-11-30,분기별 영업이익,3410000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1341439/000119312513481081/,,3
+Oracle,ORCL,2013Q4,2013-11-30,분기별 당기순이익(지배),2553000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1341439/000119312513481081/,,3
+Oracle,ORCL,2013Q4,2013-11-30,분기별 영업활동현금흐름,1146000000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/1341439/000119312513481081/ ; https://www.sec.gov/Archives/edgar/data/1341439/000119312513373455/,누적 7438000000 − 직전누적 6292000000 (시작 2013-06-01),3
+Oracle,ORCL,2013Q4,2013-11-30,분기말 자산총계,85238000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1341439/000119312513481081/,,3
+Oracle,ORCL,2013Q4,2013-11-30,분기말 부채총계,41172000000,USD,계산(부채및자본-총자본),https://www.sec.gov/Archives/edgar/data/1341439/000119312513481081/,부채및자본 85238000000 − 총자본 44066000000,3
+Oracle,ORCL,2013Q4,2013-11-30,분기말 총자본(자기자본),44066000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1341439/000119312513481081/,,3
+Oracle,ORCL,2013Q4,2013-11-30,분기말 지배지분 자본,43563000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1341439/000119312513481081/,,3
+Oracle,ORCL,2013Q4,2013-11-29,분기말 종가,35.29,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/ORCL?interval=1d&events=splits (2013-11-29),,3
+Oracle,ORCL,2013Q4,2013-12-13,분기말 상장주식수,4497409000,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/1341439/000119312513481081/,dei:EntityCommonStockSharesOutstanding 클래스 합,3
+Oracle,ORCL,2013Q4,2013-11-29,분기말 시가총액,158713563610,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/ORCL?interval=1d&events=splits (2013-11-29) ; https://www.sec.gov/Archives/edgar/data/1341439/000119312513481081/,종가 35.29 × 주식수 4497409000,3
+Oracle,ORCL,2014Q1,2014-01-31,분기별 매출액,미확인,USD,미확인,https://www.sec.gov/Archives/edgar/data/1341439/000119312514108126/,,3
+Oracle,ORCL,2014Q1,2014-01-31,분기별 영업이익,미확인,USD,미확인,https://www.sec.gov/Archives/edgar/data/1341439/000119312514108126/,,3
+Oracle,ORCL,2014Q1,2014-01-31,분기별 당기순이익(지배),미확인,USD,미확인,https://www.sec.gov/Archives/edgar/data/1341439/000119312514108126/,,3
+Oracle,ORCL,2014Q1,2014-01-31,분기별 영업활동현금흐름,미확인,USD,미확인,https://www.sec.gov/Archives/edgar/data/1341439/000119312514108126/,,3
+Oracle,ORCL,2014Q1,2014-01-31,분기말 자산총계,미확인,USD,미확인,https://www.sec.gov/Archives/edgar/data/1341439/000119312514108126/,,3
+Oracle,ORCL,2014Q1,2014-01-31,분기말 부채총계,미확인,USD,미확인,https://www.sec.gov/Archives/edgar/data/1341439/000119312514108126/,,3
+Oracle,ORCL,2014Q1,2014-01-31,분기말 총자본(자기자본),미확인,USD,미확인,https://www.sec.gov/Archives/edgar/data/1341439/000119312514108126/,,3
+Oracle,ORCL,2014Q1,2014-01-31,분기말 지배지분 자본,미확인,USD,미확인,https://www.sec.gov/Archives/edgar/data/1341439/000119312514108126/,,3
+Oracle,ORCL,2014Q1,2014-01-31,분기말 종가,36.9,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/ORCL?interval=1d&events=splits (2014-01-31),,3
+Oracle,ORCL,2014Q1,2014-03-13,분기말 상장주식수,4458886000,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/1341439/000119312514108126/,dei:EntityCommonStockSharesOutstanding 클래스 합,3
+Oracle,ORCL,2014Q1,2014-01-31,분기말 시가총액,164532893400,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/ORCL?interval=1d&events=splits (2014-01-31) ; https://www.sec.gov/Archives/edgar/data/1341439/000119312514108126/,종가 36.9 × 주식수 4458886000,3
+Oracle,ORCL,2014Q2,2014-05-31,분기별 매출액,미확인,USD,미확인,https://www.sec.gov/Archives/edgar/data/1341439/000119312514251351/,,3
+Oracle,ORCL,2014Q2,2014-05-31,분기별 영업이익,미확인,USD,미확인,https://www.sec.gov/Archives/edgar/data/1341439/000119312514251351/,,3
+Oracle,ORCL,2014Q2,2014-05-31,분기별 당기순이익(지배),미확인,USD,미확인,https://www.sec.gov/Archives/edgar/data/1341439/000119312514251351/,,3
+Oracle,ORCL,2014Q2,2014-05-31,분기별 영업활동현금흐름,데이터 없음(직전 분기 누적 보고서 없음),USD,데이터 없음(직전 보고서 없음),https://www.sec.gov/Archives/edgar/data/1341439/000119312514251351/,,3
+Oracle,ORCL,2014Q2,2014-05-31,분기말 자산총계,90266000000,USD,공시(재작성 반영),https://www.sec.gov/Archives/edgar/data/1341439/000119312515235239/,원 공시 90344000000 (https://www.sec.gov/Archives/edgar/data/1341439/000119312514251351/),3
+Oracle,ORCL,2014Q2,2014-05-31,분기말 부채총계,42819000000,USD,계산(부채및자본-총자본)(재작성 반영),https://www.sec.gov/Archives/edgar/data/1341439/000119312515235239/,부채및자본 90266000000 − 총자본 47447000000 ; 원 공시 42897000000 (https://www.sec.gov/Archives/edgar/data/1341439/000119312514251351/),3
+Oracle,ORCL,2014Q2,2014-05-31,분기말 총자본(자기자본),47447000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1341439/000119312514251351/,,3
+Oracle,ORCL,2014Q2,2014-05-31,분기말 지배지분 자본,46878000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1341439/000119312514251351/,,3
+Oracle,ORCL,2014Q2,2014-05-30,분기말 종가,42.02,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/ORCL?interval=1d&events=splits (2014-05-30),,3
+Oracle,ORCL,2014Q2,2014-06-19,분기말 상장주식수,4454889000,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/1341439/000119312514251351/,dei:EntityCommonStockSharesOutstanding 클래스 합,3
+Oracle,ORCL,2014Q2,2014-05-30,분기말 시가총액,187194435780,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/ORCL?interval=1d&events=splits (2014-05-30) ; https://www.sec.gov/Archives/edgar/data/1341439/000119312514251351/,종가 42.02 × 주식수 4454889000,3
+Oracle,ORCL,2014Q3,2014-08-31,분기별 매출액,8596000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1341439/000119312514350291/,,3
+Oracle,ORCL,2014Q3,2014-08-31,분기별 영업이익,2963000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1341439/000119312514350291/,,3
+Oracle,ORCL,2014Q3,2014-08-31,분기별 당기순이익(지배),2184000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1341439/000119312514350291/,,3
+Oracle,ORCL,2014Q3,2014-08-31,분기별 영업활동현금흐름,6728000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1341439/000119312514350291/,,3
+Oracle,ORCL,2014Q3,2014-08-31,분기말 자산총계,99726000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1341439/000119312514350291/,,3
+Oracle,ORCL,2014Q3,2014-08-31,분기말 부채총계,51795000000,USD,계산(부채및자본-총자본),https://www.sec.gov/Archives/edgar/data/1341439/000119312514350291/,부채및자본 99726000000 − 총자본 47931000000,3
+Oracle,ORCL,2014Q3,2014-08-31,분기말 총자본(자기자본),47931000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1341439/000119312514350291/,,3
+Oracle,ORCL,2014Q3,2014-08-31,분기말 지배지분 자본,47354000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1341439/000119312514350291/,,3
+Oracle,ORCL,2014Q3,2014-08-29,분기말 종가,41.53,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/ORCL?interval=1d&events=splits (2014-08-29),,3
+Oracle,ORCL,2014Q3,2014-09-16,분기말 상장주식수,4431304000,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/1341439/000119312514350291/,dei:EntityCommonStockSharesOutstanding 클래스 합,3
+Oracle,ORCL,2014Q3,2014-08-29,분기말 시가총액,184032055120,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/ORCL?interval=1d&events=splits (2014-08-29) ; https://www.sec.gov/Archives/edgar/data/1341439/000119312514350291/,종가 41.53 × 주식수 4431304000,3
+Oracle,ORCL,2014Q4,2014-11-30,분기별 매출액,9598000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1341439/000119312514448728/,,3
+Oracle,ORCL,2014Q4,2014-11-30,분기별 영업이익,3542000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1341439/000119312514448728/,,3
+Oracle,ORCL,2014Q4,2014-11-30,분기별 당기순이익(지배),2502000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1341439/000119312514448728/,,3
+Oracle,ORCL,2014Q4,2014-11-30,분기별 영업활동현금흐름,1062000000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/1341439/000119312514448728/ ; https://www.sec.gov/Archives/edgar/data/1341439/000119312514350291/,누적 7790000000 − 직전누적 6728000000 (시작 2014-06-01),3
+Oracle,ORCL,2014Q4,2014-11-30,분기말 자산총계,98305000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1341439/000119312514448728/,,3
+Oracle,ORCL,2014Q4,2014-11-30,분기말 부채총계,50343000000,USD,계산(부채및자본-총자본),https://www.sec.gov/Archives/edgar/data/1341439/000119312514448728/,부채및자본 98305000000 − 총자본 47962000000,3
+Oracle,ORCL,2014Q4,2014-11-30,분기말 총자본(자기자본),47962000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1341439/000119312514448728/,,3
+Oracle,ORCL,2014Q4,2014-11-30,분기말 지배지분 자본,47543000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1341439/000119312514448728/,,3
+Oracle,ORCL,2014Q4,2014-11-28,분기말 종가,42.41,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/ORCL?interval=1d&events=splits (2014-11-28),,3
+Oracle,ORCL,2014Q4,2014-12-12,분기말 상장주식수,4391367000,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/1341439/000119312514448728/,dei:EntityCommonStockSharesOutstanding 클래스 합,3
+Oracle,ORCL,2014Q4,2014-11-28,분기말 시가총액,186237874470,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/ORCL?interval=1d&events=splits (2014-11-28) ; https://www.sec.gov/Archives/edgar/data/1341439/000119312514448728/,종가 42.41 × 주식수 4391367000,3
+Oracle,ORCL,2015Q1,2015-02-28,분기별 매출액,9327000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1341439/000119312515098586/,,3
+Oracle,ORCL,2015Q1,2015-02-28,분기별 영업이익,3383000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1341439/000119312515098586/,,3
+Oracle,ORCL,2015Q1,2015-02-28,분기별 당기순이익(지배),2495000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1341439/000119312515098586/,,3
+Oracle,ORCL,2015Q1,2015-02-28,분기별 영업활동현금흐름,2263000000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/1341439/000119312515098586/ ; https://www.sec.gov/Archives/edgar/data/1341439/000119312514448728/,누적 10053000000 − 직전누적 7790000000 (시작 2014-06-01),3
+Oracle,ORCL,2015Q1,2015-02-28,분기말 자산총계,98816000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1341439/000119312515098586/,,3
+Oracle,ORCL,2015Q1,2015-02-28,분기말 부채총계,50284000000,USD,계산(부채및자본-총자본),https://www.sec.gov/Archives/edgar/data/1341439/000119312515098586/,부채및자본 98816000000 − 총자본 48532000000,3
+Oracle,ORCL,2015Q1,2015-02-28,분기말 총자본(자기자본),48532000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1341439/000119312515098586/,,3
+Oracle,ORCL,2015Q1,2015-02-28,분기말 지배지분 자본,48095000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1341439/000119312515098586/,,3
+Oracle,ORCL,2015Q1,2015-02-27,분기말 종가,43.82,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/ORCL?interval=1d&events=splits (2015-02-27),,3
+Oracle,ORCL,2015Q1,2015-03-12,분기말 상장주식수,4367070000,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/1341439/000119312515098586/,dei:EntityCommonStockSharesOutstanding 클래스 합,3
+Oracle,ORCL,2015Q1,2015-02-27,분기말 시가총액,191365007400,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/ORCL?interval=1d&events=splits (2015-02-27) ; https://www.sec.gov/Archives/edgar/data/1341439/000119312515098586/,종가 43.82 × 주식수 4367070000,3
+Oracle,ORCL,2015Q2,2015-05-31,분기별 매출액,10706000000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/1341439/000119312515235239/ ; https://www.sec.gov/Archives/edgar/data/1341439/000119312515098586/,연간 38226000000 − 9개월누적 27520000000 (Revenues),3
+Oracle,ORCL,2015Q2,2015-05-31,분기별 영업이익,3982000000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/1341439/000119312515235239/ ; https://www.sec.gov/Archives/edgar/data/1341439/000119312515098586/,연간 13871000000 − 9개월누적 9889000000 (OperatingIncomeLoss),3
+Oracle,ORCL,2015Q2,2015-05-31,분기별 당기순이익(지배),2757000000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/1341439/000119312515235239/ ; https://www.sec.gov/Archives/edgar/data/1341439/000119312515098586/,연간 9938000000 − 9개월누적 7181000000 (NetIncomeLoss),3
+Oracle,ORCL,2015Q2,2015-05-31,분기별 영업활동현금흐름,4527000000,USD,계산(누적차감)(재작성 반영),https://www.sec.gov/Archives/edgar/data/1341439/000119312517214833/ ; https://www.sec.gov/Archives/edgar/data/1341439/000119312515098586/,누적 14580000000 − 직전누적 10053000000 (시작 2014-06-01) ; 원 공시 4283000000 (https://www.sec.gov/Archives/edgar/data/1341439/000119312515235239/ ; https://www.sec.gov/Archives/edgar/data/1341439/000119312515098586/),3
+Oracle,ORCL,2015Q2,2015-05-31,분기말 자산총계,110903000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1341439/000119312515235239/,,3
+Oracle,ORCL,2015Q2,2015-05-31,분기말 부채총계,61805000000,USD,계산(부채및자본-총자본),https://www.sec.gov/Archives/edgar/data/1341439/000119312515235239/,부채및자본 110903000000 − 총자본 49098000000,3
+Oracle,ORCL,2015Q2,2015-05-31,분기말 총자본(자기자본),49098000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1341439/000119312515235239/,,3
+Oracle,ORCL,2015Q2,2015-05-31,분기말 지배지분 자본,48663000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1341439/000119312515235239/,,3
+Oracle,ORCL,2015Q2,2015-05-29,분기말 종가,43.49,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/ORCL?interval=1d&events=splits (2015-05-29),,3
+Oracle,ORCL,2015Q2,2015-06-18,분기말 상장주식수,4336077000,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/1341439/000119312515235239/,dei:EntityCommonStockSharesOutstanding 클래스 합,3
+Oracle,ORCL,2015Q2,2015-05-29,분기말 시가총액,188575988730,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/ORCL?interval=1d&events=splits (2015-05-29) ; https://www.sec.gov/Archives/edgar/data/1341439/000119312515235239/,종가 43.49 × 주식수 4336077000,3
+Oracle,ORCL,2015Q3,2015-08-31,분기별 매출액,8448000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1341439/000119312515323532/,,3
+Oracle,ORCL,2015Q3,2015-08-31,분기별 영업이익,2654000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1341439/000119312515323532/,,3
+Oracle,ORCL,2015Q3,2015-08-31,분기별 당기순이익(지배),1747000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1341439/000119312515323532/,,3
+Oracle,ORCL,2015Q3,2015-08-31,분기별 영업활동현금흐름,5881000000,USD,공시(재작성 반영),https://www.sec.gov/Archives/edgar/data/1341439/000119312516713596/,원 공시 5856000000 (https://www.sec.gov/Archives/edgar/data/1341439/000119312515323532/),3
+Oracle,ORCL,2015Q3,2015-08-31,분기말 자산총계,109706000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1341439/000119312515323532/,,3
+Oracle,ORCL,2015Q3,2015-08-31,분기말 부채총계,62168000000,USD,계산(부채및자본-총자본),https://www.sec.gov/Archives/edgar/data/1341439/000119312515323532/,부채및자본 109706000000 − 총자본 47538000000,3
+Oracle,ORCL,2015Q3,2015-08-31,분기말 총자본(자기자본),47538000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1341439/000119312515323532/,,3
+Oracle,ORCL,2015Q3,2015-08-31,분기말 지배지분 자본,47097000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1341439/000119312515323532/,,3
+Oracle,ORCL,2015Q3,2015-08-31,분기말 종가,37.09,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/ORCL?interval=1d&events=splits (2015-08-31),,3
+Oracle,ORCL,2015Q3,2015-09-11,분기말 상장주식수,4268744000,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/1341439/000119312515323532/,dei:EntityCommonStockSharesOutstanding 클래스 합,3
+Oracle,ORCL,2015Q3,2015-08-31,분기말 시가총액,158327714960,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/ORCL?interval=1d&events=splits (2015-08-31) ; https://www.sec.gov/Archives/edgar/data/1341439/000119312515323532/,종가 37.09 × 주식수 4268744000,3
+Oracle,ORCL,2015Q4,2015-11-30,분기별 매출액,8993000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1341439/000119312515407703/,,3
+Oracle,ORCL,2015Q4,2015-11-30,분기별 영업이익,2955000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1341439/000119312515407703/,,3
+Oracle,ORCL,2015Q4,2015-11-30,분기별 당기순이익(지배),2197000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1341439/000119312515407703/,,3
+Oracle,ORCL,2015Q4,2015-11-30,분기별 영업활동현금흐름,516000000,USD,계산(누적차감)(재작성 반영),https://www.sec.gov/Archives/edgar/data/1341439/000119312516797253/ ; https://www.sec.gov/Archives/edgar/data/1341439/000119312516713596/,누적 6397000000 − 직전누적 5881000000 (시작 2015-06-01) ; 원 공시 501000000 (https://www.sec.gov/Archives/edgar/data/1341439/000119312515407703/ ; https://www.sec.gov/Archives/edgar/data/1341439/000119312515323532/),3
+Oracle,ORCL,2015Q4,2015-11-30,분기말 자산총계,106483000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1341439/000119312515407703/,,3
+Oracle,ORCL,2015Q4,2015-11-30,분기말 부채총계,60151000000,USD,계산(부채및자본-총자본),https://www.sec.gov/Archives/edgar/data/1341439/000119312515407703/,부채및자본 106483000000 − 총자본 46332000000,3
+Oracle,ORCL,2015Q4,2015-11-30,분기말 총자본(자기자본),46332000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1341439/000119312515407703/,,3
+Oracle,ORCL,2015Q4,2015-11-30,분기말 지배지분 자본,45924000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1341439/000119312515407703/,,3
+Oracle,ORCL,2015Q4,2015-11-30,분기말 종가,38.97,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/ORCL?interval=1d&events=splits (2015-11-30),,3
+Oracle,ORCL,2015Q4,2015-12-11,분기말 상장주식수,4201220000,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/1341439/000119312515407703/,dei:EntityCommonStockSharesOutstanding 클래스 합,3
+Oracle,ORCL,2015Q4,2015-11-30,분기말 시가총액,163721543400,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/ORCL?interval=1d&events=splits (2015-11-30) ; https://www.sec.gov/Archives/edgar/data/1341439/000119312515407703/,종가 38.97 × 주식수 4201220000,3
+Oracle,ORCL,2016Q1,2016-02-29,분기별 매출액,9012000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1341439/000119312516510333/,,3
+Oracle,ORCL,2016Q1,2016-02-29,분기별 영업이익,3027000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1341439/000119312516510333/,,3
+Oracle,ORCL,2016Q1,2016-02-29,분기별 당기순이익(지배),2142000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1341439/000119312516510333/,,3
+Oracle,ORCL,2016Q1,2016-02-29,분기별 영업활동현금흐름,3495000000,USD,계산(누적차감)(재작성 반영),https://www.sec.gov/Archives/edgar/data/1341439/000119312517087309/ ; https://www.sec.gov/Archives/edgar/data/1341439/000119312516797253/,누적 9892000000 − 직전누적 6397000000 (시작 2015-06-01) ; 원 공시 3474000000 (https://www.sec.gov/Archives/edgar/data/1341439/000119312516510333/ ; https://www.sec.gov/Archives/edgar/data/1341439/000119312515407703/),3
+Oracle,ORCL,2016Q1,2016-02-29,분기말 자산총계,104894000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1341439/000119312516510333/,,3
+Oracle,ORCL,2016Q1,2016-02-29,분기말 부채총계,58558000000,USD,계산(부채및자본-총자본),https://www.sec.gov/Archives/edgar/data/1341439/000119312516510333/,부채및자본 104894000000 − 총자본 46336000000,3
+Oracle,ORCL,2016Q1,2016-02-29,분기말 총자본(자기자본),46336000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1341439/000119312516510333/,,3
+Oracle,ORCL,2016Q1,2016-02-29,분기말 지배지분 자본,45870000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1341439/000119312516510333/,,3
+Oracle,ORCL,2016Q1,2016-02-29,분기말 종가,36.78,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/ORCL?interval=1d&events=splits (2016-02-29),,3
+Oracle,ORCL,2016Q1,2016-03-11,분기말 상장주식수,4149865000,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/1341439/000119312516510333/,dei:EntityCommonStockSharesOutstanding 클래스 합,3
+Oracle,ORCL,2016Q1,2016-02-29,분기말 시가총액,152632034700,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/ORCL?interval=1d&events=splits (2016-02-29) ; https://www.sec.gov/Archives/edgar/data/1341439/000119312516510333/,종가 36.78 × 주식수 4149865000,3
+Oracle,ORCL,2016Q2,2016-05-31,분기별 매출액,10594000000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/1341439/000119312516628942/ ; https://www.sec.gov/Archives/edgar/data/1341439/000119312516510333/,연간 37047000000 − 9개월누적 26453000000 (Revenues),3
+Oracle,ORCL,2016Q2,2016-05-31,분기별 영업이익,3968000000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/1341439/000119312516628942/ ; https://www.sec.gov/Archives/edgar/data/1341439/000119312516510333/,연간 12604000000 − 9개월누적 8636000000 (OperatingIncomeLoss),3
+Oracle,ORCL,2016Q2,2016-05-31,분기별 당기순이익(지배),2814000000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/1341439/000119312516628942/ ; https://www.sec.gov/Archives/edgar/data/1341439/000119312516510333/,연간 8901000000 − 9개월누적 6087000000 (NetIncomeLoss),3
+Oracle,ORCL,2016Q2,2016-05-31,분기별 영업활동현금흐름,3793000000,USD,계산(누적차감)(재작성 반영),https://www.sec.gov/Archives/edgar/data/1341439/000119312517214833/ ; https://www.sec.gov/Archives/edgar/data/1341439/000119312517087309/,누적 13685000000 − 직전누적 9892000000 (시작 2015-06-01) ; 원 공시 3730000000 (https://www.sec.gov/Archives/edgar/data/1341439/000119312516628942/ ; https://www.sec.gov/Archives/edgar/data/1341439/000119312516510333/),3
+Oracle,ORCL,2016Q2,2016-05-31,분기말 자산총계,112180000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1341439/000119312516628942/,,3
+Oracle,ORCL,2016Q2,2016-05-31,분기말 부채총계,64390000000,USD,계산(부채및자본-총자본),https://www.sec.gov/Archives/edgar/data/1341439/000119312516628942/,부채및자본 112180000000 − 총자본 47790000000,3
+Oracle,ORCL,2016Q2,2016-05-31,분기말 총자본(자기자본),47790000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1341439/000119312516628942/,,3
+Oracle,ORCL,2016Q2,2016-05-31,분기말 지배지분 자본,47289000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1341439/000119312516628942/,,3
+Oracle,ORCL,2016Q2,2016-05-31,분기말 종가,40.2,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/ORCL?interval=1d&events=splits (2016-05-31),,3
+Oracle,ORCL,2016Q2,2016-06-15,분기말 상장주식수,4122730000,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/1341439/000119312516628942/,dei:EntityCommonStockSharesOutstanding 클래스 합,3
+Oracle,ORCL,2016Q2,2016-05-31,분기말 시가총액,165733746000,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/ORCL?interval=1d&events=splits (2016-05-31) ; https://www.sec.gov/Archives/edgar/data/1341439/000119312516628942/,종가 40.2 × 주식수 4122730000,3
+Oracle,ORCL,2016Q3,2016-08-31,분기별 매출액,8595000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1341439/000119312516713596/,,3
+Oracle,ORCL,2016Q3,2016-08-31,분기별 영업이익,2641000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1341439/000119312516713596/,,3
+Oracle,ORCL,2016Q3,2016-08-31,분기별 당기순이익(지배),1832000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1341439/000119312516713596/,,3
+Oracle,ORCL,2016Q3,2016-08-31,분기별 영업활동현금흐름,5875000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1341439/000119312516713596/,,3
+Oracle,ORCL,2016Q3,2016-08-31,분기말 자산총계,123223000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1341439/000119312516713596/,,3
+Oracle,ORCL,2016Q3,2016-08-31,분기말 부채총계,75391000000,USD,계산(부채및자본-총자본),https://www.sec.gov/Archives/edgar/data/1341439/000119312516713596/,부채및자본 123223000000 − 총자본 47832000000,3
+Oracle,ORCL,2016Q3,2016-08-31,분기말 총자본(자기자본),47832000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1341439/000119312516713596/,,3
+Oracle,ORCL,2016Q3,2016-08-31,분기말 지배지분 자본,47435000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1341439/000119312516713596/,,3
+Oracle,ORCL,2016Q3,2016-08-31,분기말 종가,41.22,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/ORCL?interval=1d&events=splits (2016-08-31),,3
+Oracle,ORCL,2016Q3,2016-09-12,분기말 상장주식수,4105567000,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/1341439/000119312516713596/,dei:EntityCommonStockSharesOutstanding 클래스 합,3
+Oracle,ORCL,2016Q3,2016-08-31,분기말 시가총액,169231471740,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/ORCL?interval=1d&events=splits (2016-08-31) ; https://www.sec.gov/Archives/edgar/data/1341439/000119312516713596/,종가 41.22 × 주식수 4105567000,3
+Oracle,ORCL,2016Q4,2016-11-30,분기별 매출액,9035000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1341439/000119312516797253/,,3
+Oracle,ORCL,2016Q4,2016-11-30,분기별 영업이익,3037000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1341439/000119312516797253/,,3
+Oracle,ORCL,2016Q4,2016-11-30,분기별 당기순이익(지배),2032000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1341439/000119312516797253/,,3
+Oracle,ORCL,2016Q4,2016-11-30,분기별 영업활동현금흐름,1086000000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/1341439/000119312516797253/ ; https://www.sec.gov/Archives/edgar/data/1341439/000119312516713596/,누적 6961000000 − 직전누적 5875000000 (시작 2016-06-01),3
+Oracle,ORCL,2016Q4,2016-11-30,분기말 자산총계,123600000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1341439/000119312516797253/,,3
+Oracle,ORCL,2016Q4,2016-11-30,분기말 부채총계,74755000000,USD,계산(부채및자본-총자본),https://www.sec.gov/Archives/edgar/data/1341439/000119312516797253/,부채및자본 123600000000 − 총자본 48845000000,3
+Oracle,ORCL,2016Q4,2016-11-30,분기말 총자본(자기자본),48845000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1341439/000119312516797253/,,3
+Oracle,ORCL,2016Q4,2016-11-30,분기말 지배지분 자본,48462000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1341439/000119312516797253/,,3
+Oracle,ORCL,2016Q4,2016-11-30,분기말 종가,40.19,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/ORCL?interval=1d&events=splits (2016-11-30),,3
+Oracle,ORCL,2016Q4,2016-12-12,분기말 상장주식수,4102353000,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/1341439/000119312516797253/,dei:EntityCommonStockSharesOutstanding 클래스 합,3
+Oracle,ORCL,2016Q4,2016-11-30,분기말 시가총액,164873567070,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/ORCL?interval=1d&events=splits (2016-11-30) ; https://www.sec.gov/Archives/edgar/data/1341439/000119312516797253/,종가 40.19 × 주식수 4102353000,3
+Oracle,ORCL,2017Q1,2017-02-28,분기별 매출액,9205000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1341439/000119312517087309/,,3
+Oracle,ORCL,2017Q1,2017-02-28,분기별 영업이익,2959000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1341439/000119312517087309/,,3
+Oracle,ORCL,2017Q1,2017-02-28,분기별 당기순이익(지배),2239000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1341439/000119312517087309/,,3
+Oracle,ORCL,2017Q1,2017-02-28,분기별 영업활동현금흐름,2699000000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/1341439/000119312517087309/ ; https://www.sec.gov/Archives/edgar/data/1341439/000119312516797253/,누적 9660000000 − 직전누적 6961000000 (시작 2016-06-01),3
+Oracle,ORCL,2017Q1,2017-02-28,분기말 자산총계,125382000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1341439/000119312517087309/,,3
+Oracle,ORCL,2017Q1,2017-02-28,분기말 부채총계,74359000000,USD,계산(부채및자본-총자본),https://www.sec.gov/Archives/edgar/data/1341439/000119312517087309/,부채및자본 125382000000 − 총자본 51023000000,3
+Oracle,ORCL,2017Q1,2017-02-28,분기말 총자본(자기자본),51023000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1341439/000119312517087309/,,3
+Oracle,ORCL,2017Q1,2017-02-28,분기말 지배지분 자본,50615000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1341439/000119312517087309/,,3
+Oracle,ORCL,2017Q1,2017-02-28,분기말 종가,42.59,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/ORCL?interval=1d&events=splits (2017-02-28),,3
+Oracle,ORCL,2017Q1,2017-03-13,분기말 상장주식수,4114684000,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/1341439/000119312517087309/,dei:EntityCommonStockSharesOutstanding 클래스 합,3
+Oracle,ORCL,2017Q1,2017-02-28,분기말 시가총액,175244391560,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/ORCL?interval=1d&events=splits (2017-02-28) ; https://www.sec.gov/Archives/edgar/data/1341439/000119312517087309/,종가 42.59 × 주식수 4114684000,3
+Oracle,ORCL,2017Q2,2017-05-31,분기별 매출액,10893000000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/1341439/000119312517214833/ ; https://www.sec.gov/Archives/edgar/data/1341439/000119312517087309/,연간 37728000000 − 9개월누적 26835000000 (Revenues),3
+Oracle,ORCL,2017Q2,2017-05-31,분기별 영업이익,4074000000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/1341439/000119312517214833/ ; https://www.sec.gov/Archives/edgar/data/1341439/000119312517087309/,연간 12710000000 − 9개월누적 8636000000 (OperatingIncomeLoss),3
+Oracle,ORCL,2017Q2,2017-05-31,분기별 당기순이익(지배),3232000000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/1341439/000119312517214833/ ; https://www.sec.gov/Archives/edgar/data/1341439/000119312517087309/,연간 9335000000 − 9개월누적 6103000000 (NetIncomeLoss),3
+Oracle,ORCL,2017Q2,2017-05-31,분기별 영업활동현금흐름,4466000000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/1341439/000119312517214833/ ; https://www.sec.gov/Archives/edgar/data/1341439/000119312517087309/,누적 14126000000 − 직전누적 9660000000 (시작 2016-06-01),3
+Oracle,ORCL,2017Q2,2017-05-31,분기말 자산총계,134991000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1341439/000119312517214833/,,3
+Oracle,ORCL,2017Q2,2017-05-31,분기말 부채총계,80745000000,USD,계산(부채및자본-총자본),https://www.sec.gov/Archives/edgar/data/1341439/000119312517214833/,부채및자본 134991000000 − 총자본 54246000000,3
+Oracle,ORCL,2017Q2,2017-05-31,분기말 총자본(자기자본),54246000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1341439/000119312517214833/,,3
+Oracle,ORCL,2017Q2,2017-05-31,분기말 지배지분 자본,53860000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1341439/000119312517214833/,,3
+Oracle,ORCL,2017Q2,2017-05-31,분기말 종가,45.39,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/ORCL?interval=1d&events=splits (2017-05-31),,3
+Oracle,ORCL,2017Q2,2017-06-16,분기말 상장주식수,4136682000,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/1341439/000119312517214833/,dei:EntityCommonStockSharesOutstanding 클래스 합,3
+Oracle,ORCL,2017Q2,2017-05-31,분기말 시가총액,187763995980,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/ORCL?interval=1d&events=splits (2017-05-31) ; https://www.sec.gov/Archives/edgar/data/1341439/000119312517214833/,종가 45.39 × 주식수 4136682000,3
+Oracle,ORCL,2017Q3,2017-08-31,분기별 매출액,9187000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1341439/000119312517287455/,,3
+Oracle,ORCL,2017Q3,2017-08-31,분기별 영업이익,2749000000,USD,공시(재작성 반영),https://www.sec.gov/Archives/edgar/data/1341439/000156459018023315/,원 공시 2821000000 (https://www.sec.gov/Archives/edgar/data/1341439/000119312517287455/),3
+Oracle,ORCL,2017Q3,2017-08-31,분기별 당기순이익(지배),2144000000,USD,공시(재작성 반영),https://www.sec.gov/Archives/edgar/data/1341439/000156459018023315/,원 공시 2210000000 (https://www.sec.gov/Archives/edgar/data/1341439/000119312517287455/),3
+Oracle,ORCL,2017Q3,2017-08-31,분기별 영업활동현금흐름,6566000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1341439/000119312517287455/,,3
+Oracle,ORCL,2017Q3,2017-08-31,분기말 자산총계,133597000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1341439/000119312517287455/,,3
+Oracle,ORCL,2017Q3,2017-08-31,분기말 부채총계,77231000000,USD,계산(부채및자본-총자본),https://www.sec.gov/Archives/edgar/data/1341439/000119312517287455/,부채및자본 133597000000 − 총자본 56366000000,3
+Oracle,ORCL,2017Q3,2017-08-31,분기말 총자본(자기자본),56366000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1341439/000119312517287455/,,3
+Oracle,ORCL,2017Q3,2017-08-31,분기말 지배지분 자본,55959000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1341439/000119312517287455/,,3
+Oracle,ORCL,2017Q3,2017-08-31,분기말 종가,50.33,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/ORCL?interval=1d&events=splits (2017-08-31),,3
+Oracle,ORCL,2017Q3,2017-09-11,분기말 상장주식수,4173053000,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/1341439/000119312517287455/,dei:EntityCommonStockSharesOutstanding 클래스 합,3
+Oracle,ORCL,2017Q3,2017-08-31,분기말 시가총액,210029757490,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/ORCL?interval=1d&events=splits (2017-08-31) ; https://www.sec.gov/Archives/edgar/data/1341439/000119312517287455/,종가 50.33 × 주식수 4173053000,3
+Oracle,ORCL,2017Q4,2017-11-30,분기별 매출액,9621000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1341439/000119312517372232/,,3
+Oracle,ORCL,2017Q4,2017-11-30,분기별 영업이익,3069000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1341439/000119312517372232/,,3
+Oracle,ORCL,2017Q4,2017-11-30,분기별 당기순이익(지배),2233000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1341439/000119312517372232/,,3
+Oracle,ORCL,2017Q4,2017-11-30,분기별 영업활동현금흐름,850000000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/1341439/000119312517372232/ ; https://www.sec.gov/Archives/edgar/data/1341439/000119312517287455/,누적 7416000000 − 직전누적 6566000000 (시작 2017-06-01),3
+Oracle,ORCL,2017Q4,2017-11-30,분기말 자산총계,138762000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1341439/000119312517372232/,,3
+Oracle,ORCL,2017Q4,2017-11-30,분기말 부채총계,82462000000,USD,계산(부채및자본-총자본),https://www.sec.gov/Archives/edgar/data/1341439/000119312517372232/,부채및자본 138762000000 − 총자본 56300000000,3
+Oracle,ORCL,2017Q4,2017-11-30,분기말 총자본(자기자본),56300000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1341439/000119312517372232/,,3
+Oracle,ORCL,2017Q4,2017-11-30,분기말 지배지분 자본,55868000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1341439/000119312517372232/,,3
+Oracle,ORCL,2017Q4,2017-11-30,분기말 종가,49.06,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/ORCL?interval=1d&events=splits (2017-11-30),,3
+Oracle,ORCL,2017Q4,2017-12-11,분기말 상장주식수,4139602000,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/1341439/000119312517372232/,dei:EntityCommonStockSharesOutstanding 클래스 합,3
+Oracle,ORCL,2017Q4,2017-11-30,분기말 시가총액,203088874120,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/ORCL?interval=1d&events=splits (2017-11-30) ; https://www.sec.gov/Archives/edgar/data/1341439/000119312517372232/,종가 49.06 × 주식수 4139602000,3
+Oracle,ORCL,2018Q1,2018-02-28,분기별 매출액,9771000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1341439/000119312518090646/,,3
+Oracle,ORCL,2018Q1,2018-02-28,분기별 영업이익,3410000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1341439/000119312518090646/,,3
+Oracle,ORCL,2018Q1,2018-02-28,분기별 당기순이익(지배),-4024000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1341439/000119312518090646/,,3
+Oracle,ORCL,2018Q1,2018-02-28,분기별 영업활동현금흐름,3310000000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/1341439/000119312518090646/ ; https://www.sec.gov/Archives/edgar/data/1341439/000119312517372232/,누적 10726000000 − 직전누적 7416000000 (시작 2017-06-01),3
+Oracle,ORCL,2018Q1,2018-02-28,분기말 자산총계,138201000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1341439/000119312518090646/,,3
+Oracle,ORCL,2018Q1,2018-02-28,분기말 부채총계,89929000000,USD,계산(부채및자본-총자본),https://www.sec.gov/Archives/edgar/data/1341439/000119312518090646/,부채및자본 138201000000 − 총자본 48272000000,3
+Oracle,ORCL,2018Q1,2018-02-28,분기말 총자본(자기자본),48272000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1341439/000119312518090646/,,3
+Oracle,ORCL,2018Q1,2018-02-28,분기말 지배지분 자본,47789000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1341439/000119312518090646/,,3
+Oracle,ORCL,2018Q1,2018-02-28,분기말 종가,50.67,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/ORCL?interval=1d&events=splits (2018-02-28),,3
+Oracle,ORCL,2018Q1,2018-03-15,분기말 상장주식수,4082313000,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/1341439/000119312518090646/,dei:EntityCommonStockSharesOutstanding 클래스 합,3
+Oracle,ORCL,2018Q1,2018-02-28,분기말 시가총액,206850799710,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/ORCL?interval=1d&events=splits (2018-02-28) ; https://www.sec.gov/Archives/edgar/data/1341439/000119312518090646/,종가 50.67 × 주식수 4082313000,3
+Oracle,ORCL,2018Q2,2018-05-31,분기별 매출액,11252000000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/1341439/000119312518201034/ ; https://www.sec.gov/Archives/edgar/data/1341439/000119312518090646/,연간 39831000000 − 9개월누적 28579000000 (Revenues),3
+Oracle,ORCL,2018Q2,2018-05-31,분기별 영업이익,4380000000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/1341439/000119312518201034/ ; https://www.sec.gov/Archives/edgar/data/1341439/000119312518090646/,연간 13679000000 − 9개월누적 9299000000 (OperatingIncomeLoss),3
+Oracle,ORCL,2018Q2,2018-05-31,분기별 당기순이익(지배),3407000000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/1341439/000119312518201034/ ; https://www.sec.gov/Archives/edgar/data/1341439/000119312518090646/,연간 3825000000 − 9개월누적 418000000 (NetIncomeLoss),3
+Oracle,ORCL,2018Q2,2018-05-31,분기별 영업활동현금흐름,4660000000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/1341439/000119312518201034/ ; https://www.sec.gov/Archives/edgar/data/1341439/000119312518090646/,누적 15386000000 − 직전누적 10726000000 (시작 2017-06-01),3
+Oracle,ORCL,2018Q2,2018-05-31,분기말 자산총계,137851000000,USD,공시(재작성 반영),https://www.sec.gov/Archives/edgar/data/1341439/000156459019023119/,원 공시 137264000000 (https://www.sec.gov/Archives/edgar/data/1341439/000119312518201034/),3
+Oracle,ORCL,2018Q2,2018-05-31,분기말 부채총계,90978000000,USD,계산(부채및자본-총자본)(재작성 반영),https://www.sec.gov/Archives/edgar/data/1341439/000156459019023119/,부채및자본 137851000000 − 총자본 46873000000 ; 원 공시 91040000000 (https://www.sec.gov/Archives/edgar/data/1341439/000119312518201034/),3
+Oracle,ORCL,2018Q2,2018-05-31,분기말 총자본(자기자본),46873000000,USD,공시(재작성 반영),https://www.sec.gov/Archives/edgar/data/1341439/000156459021033616/,원 공시 46224000000 (https://www.sec.gov/Archives/edgar/data/1341439/000119312518201034/),3
+Oracle,ORCL,2018Q2,2018-05-31,분기말 지배지분 자본,46372000000,USD,공시(재작성 반영),https://www.sec.gov/Archives/edgar/data/1341439/000156459019023119/,원 공시 45726000000 (https://www.sec.gov/Archives/edgar/data/1341439/000119312518201034/),3
+Oracle,ORCL,2018Q2,2018-05-31,분기말 종가,46.72,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/ORCL?interval=1d&events=splits (2018-05-31),,3
+Oracle,ORCL,2018Q2,2018-06-15,분기말 상장주식수,3981155000,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/1341439/000119312518201034/,dei:EntityCommonStockSharesOutstanding 클래스 합,3
+Oracle,ORCL,2018Q2,2018-05-31,분기말 시가총액,185999561600,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/ORCL?interval=1d&events=splits (2018-05-31) ; https://www.sec.gov/Archives/edgar/data/1341439/000119312518201034/,종가 46.72 × 주식수 3981155000,3
+Oracle,ORCL,2018Q3,2018-08-31,분기별 매출액,9193000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1341439/000156459018023315/,,3
+Oracle,ORCL,2018Q3,2018-08-31,분기별 영업이익,2778000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1341439/000156459018023315/,,3
+Oracle,ORCL,2018Q3,2018-08-31,분기별 당기순이익(지배),2265000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1341439/000156459018023315/,,3
+Oracle,ORCL,2018Q3,2018-08-31,분기별 영업활동현금흐름,6722000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1341439/000156459018023315/,,3
+Oracle,ORCL,2018Q3,2018-08-31,분기말 자산총계,128358000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1341439/000156459018023315/,,3
+Oracle,ORCL,2018Q3,2018-08-31,분기말 부채총계,89794000000,USD,계산(부채및자본-총자본),https://www.sec.gov/Archives/edgar/data/1341439/000156459018023315/,부채및자본 128358000000 − 총자본 38564000000,3
+Oracle,ORCL,2018Q3,2018-08-31,분기말 총자본(자기자본),38564000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1341439/000156459018023315/,,3
+Oracle,ORCL,2018Q3,2018-08-31,분기말 지배지분 자본,38067000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1341439/000156459018023315/,,3
+Oracle,ORCL,2018Q3,2018-08-31,분기말 종가,48.58,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/ORCL?interval=1d&events=splits (2018-08-31),,3
+Oracle,ORCL,2018Q3,2018-09-13,분기말 상장주식수,3787960000,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/1341439/000156459018023315/,dei:EntityCommonStockSharesOutstanding 클래스 합,3
+Oracle,ORCL,2018Q3,2018-08-31,분기말 시가총액,184019096800,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/ORCL?interval=1d&events=splits (2018-08-31) ; https://www.sec.gov/Archives/edgar/data/1341439/000156459018023315/,종가 48.58 × 주식수 3787960000,3
+Oracle,ORCL,2018Q4,2018-11-30,분기별 매출액,9562000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1341439/000156459018031113/,,3
+Oracle,ORCL,2018Q4,2018-11-30,분기별 영업이익,3101000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1341439/000156459018031113/,,3
+Oracle,ORCL,2018Q4,2018-11-30,분기별 당기순이익(지배),2333000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1341439/000156459018031113/,,3
+Oracle,ORCL,2018Q4,2018-11-30,분기별 영업활동현금흐름,546000000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/1341439/000156459018031113/ ; https://www.sec.gov/Archives/edgar/data/1341439/000156459018023315/,누적 7268000000 − 직전누적 6722000000 (시작 2018-06-01),3
+Oracle,ORCL,2018Q4,2018-11-30,분기말 자산총계,118318000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1341439/000156459018031113/,,3
+Oracle,ORCL,2018Q4,2018-11-30,분기말 부채총계,87263000000,USD,계산(부채및자본-총자본),https://www.sec.gov/Archives/edgar/data/1341439/000156459018031113/,부채및자본 118318000000 − 총자본 31055000000,3
+Oracle,ORCL,2018Q4,2018-11-30,분기말 총자본(자기자본),31055000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1341439/000156459018031113/,,3
+Oracle,ORCL,2018Q4,2018-11-30,분기말 지배지분 자본,30572000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1341439/000156459018031113/,,3
+Oracle,ORCL,2018Q4,2018-11-30,분기말 종가,48.76,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/ORCL?interval=1d&events=splits (2018-11-30),,3
+Oracle,ORCL,2018Q4,2018-12-14,분기말 상장주식수,3588919000,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/1341439/000156459018031113/,dei:EntityCommonStockSharesOutstanding 클래스 합,3
+Oracle,ORCL,2018Q4,2018-11-30,분기말 시가총액,174995690440,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/ORCL?interval=1d&events=splits (2018-11-30) ; https://www.sec.gov/Archives/edgar/data/1341439/000156459018031113/,종가 48.76 × 주식수 3588919000,3
+Oracle,ORCL,2019Q1,2019-02-28,분기별 매출액,9614000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1341439/000156459019008273/,,3
+Oracle,ORCL,2019Q1,2019-02-28,분기별 영업이익,3399000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1341439/000156459019008273/,,3
+Oracle,ORCL,2019Q1,2019-02-28,분기별 당기순이익(지배),2745000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1341439/000156459019008273/,,3
+Oracle,ORCL,2019Q1,2019-02-28,분기별 영업활동현금흐름,2861000000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/1341439/000156459019008273/ ; https://www.sec.gov/Archives/edgar/data/1341439/000156459018031113/,누적 10129000000 − 직전누적 7268000000 (시작 2018-06-01),3
+Oracle,ORCL,2019Q1,2019-02-28,분기말 자산총계,109438000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1341439/000156459019008273/,,3
+Oracle,ORCL,2019Q1,2019-02-28,분기말 부채총계,85200000000,USD,계산(부채및자본-총자본),https://www.sec.gov/Archives/edgar/data/1341439/000156459019008273/,부채및자본 109438000000 − 총자본 24238000000,3
+Oracle,ORCL,2019Q1,2019-02-28,분기말 총자본(자기자본),24238000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1341439/000156459019008273/,,3
+Oracle,ORCL,2019Q1,2019-02-28,분기말 지배지분 자본,23714000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1341439/000156459019008273/,,3
+Oracle,ORCL,2019Q1,2019-02-28,분기말 종가,52.13,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/ORCL?interval=1d&events=splits (2019-02-28),,3
+Oracle,ORCL,2019Q1,2019-03-13,분기말 상장주식수,3417654000,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/1341439/000156459019008273/,dei:EntityCommonStockSharesOutstanding 클래스 합,3
+Oracle,ORCL,2019Q1,2019-02-28,분기말 시가총액,178162303020,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/ORCL?interval=1d&events=splits (2019-02-28) ; https://www.sec.gov/Archives/edgar/data/1341439/000156459019008273/,종가 52.13 × 주식수 3417654000,3
+Oracle,ORCL,2019Q2,2019-05-31,분기별 매출액,11137000000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/1341439/000156459019023119/ ; https://www.sec.gov/Archives/edgar/data/1341439/000156459019008273/,연간 39506000000 − 9개월누적 28369000000 (Revenues / 9개월 RevenueFromContractWithCustomerExcludingAssessedTax),3
+Oracle,ORCL,2019Q2,2019-05-31,분기별 영업이익,4257000000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/1341439/000156459019023119/ ; https://www.sec.gov/Archives/edgar/data/1341439/000156459019008273/,연간 13535000000 − 9개월누적 9278000000 (OperatingIncomeLoss),3
+Oracle,ORCL,2019Q2,2019-05-31,분기별 당기순이익(지배),3740000000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/1341439/000156459019023119/ ; https://www.sec.gov/Archives/edgar/data/1341439/000156459019008273/,연간 11083000000 − 9개월누적 7343000000 (NetIncomeLoss),3
+Oracle,ORCL,2019Q2,2019-05-31,분기별 영업활동현금흐름,4422000000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/1341439/000156459019023119/ ; https://www.sec.gov/Archives/edgar/data/1341439/000156459019008273/,누적 14551000000 − 직전누적 10129000000 (시작 2018-06-01),3
+Oracle,ORCL,2019Q2,2019-05-31,분기말 자산총계,108709000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1341439/000156459019023119/,,3
+Oracle,ORCL,2019Q2,2019-05-31,분기말 부채총계,86346000000,USD,계산(부채및자본-총자본),https://www.sec.gov/Archives/edgar/data/1341439/000156459019023119/,부채및자본 108709000000 − 총자본 22363000000,3
+Oracle,ORCL,2019Q2,2019-05-31,분기말 총자본(자기자본),22363000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1341439/000156459019023119/,,3
+Oracle,ORCL,2019Q2,2019-05-31,분기말 지배지분 자본,21785000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1341439/000156459019023119/,,3
+Oracle,ORCL,2019Q2,2019-05-31,분기말 종가,50.6,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/ORCL?interval=1d&events=splits (2019-05-31),,3
+Oracle,ORCL,2019Q2,2019-06-17,분기말 상장주식수,3335819000,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/1341439/000156459019023119/,dei:EntityCommonStockSharesOutstanding 클래스 합,3
+Oracle,ORCL,2019Q2,2019-05-31,분기말 시가총액,168792441400,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/ORCL?interval=1d&events=splits (2019-05-31) ; https://www.sec.gov/Archives/edgar/data/1341439/000156459019023119/,종가 50.6 × 주식수 3335819000,3
+Oracle,ORCL,2019Q3,2019-08-31,분기별 매출액,9218000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1341439/000156459019034717/,,3
+Oracle,ORCL,2019Q3,2019-08-31,분기별 영업이익,2877000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1341439/000156459019034717/,,3
+Oracle,ORCL,2019Q3,2019-08-31,분기별 당기순이익(지배),2137000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1341439/000156459019034717/,,3
+Oracle,ORCL,2019Q3,2019-08-31,분기별 영업활동현금흐름,6000000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1341439/000156459019034717/,,3
+Oracle,ORCL,2019Q3,2019-08-31,분기말 자산총계,106229000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1341439/000156459019034717/,,3
+Oracle,ORCL,2019Q3,2019-08-31,분기말 부채총계,87210000000,USD,계산(부채및자본-총자본),https://www.sec.gov/Archives/edgar/data/1341439/000156459019034717/,부채및자본 106229000000 − 총자본 19019000000,3
+Oracle,ORCL,2019Q3,2019-08-31,분기말 총자본(자기자본),19019000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1341439/000156459019034717/,,3
+Oracle,ORCL,2019Q3,2019-08-31,분기말 지배지분 자본,18433000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1341439/000156459019034717/,,3
+Oracle,ORCL,2019Q3,2019-08-30,분기말 종가,52.06,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/ORCL?interval=1d&events=splits (2019-08-30),,3
+Oracle,ORCL,2019Q3,2019-09-10,분기말 상장주식수,3288330000,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/1341439/000156459019034717/,dei:EntityCommonStockSharesOutstanding 클래스 합,3
+Oracle,ORCL,2019Q3,2019-08-30,분기말 시가총액,171190459800,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/ORCL?interval=1d&events=splits (2019-08-30) ; https://www.sec.gov/Archives/edgar/data/1341439/000156459019034717/,종가 52.06 × 주식수 3288330000,3
+Oracle,ORCL,2019Q4,2019-11-30,분기별 매출액,9614000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1341439/000156459019045966/,,3
+Oracle,ORCL,2019Q4,2019-11-30,분기별 영업이익,3183000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1341439/000156459019045966/,,3
+Oracle,ORCL,2019Q4,2019-11-30,분기별 당기순이익(지배),2311000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1341439/000156459019045966/,,3
+Oracle,ORCL,2019Q4,2019-11-30,분기별 영업활동현금흐름,513000000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/1341439/000156459019045966/ ; https://www.sec.gov/Archives/edgar/data/1341439/000156459019034717/,누적 6513000000 − 직전누적 6000000000 (시작 2019-06-01),3
+Oracle,ORCL,2019Q4,2019-11-30,분기말 자산총계,98443000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1341439/000156459019045966/,,3
+Oracle,ORCL,2019Q4,2019-11-30,분기말 부채총계,82258000000,USD,계산(부채및자본-총자본),https://www.sec.gov/Archives/edgar/data/1341439/000156459019045966/,부채및자본 98443000000 − 총자본 16185000000,3
+Oracle,ORCL,2019Q4,2019-11-30,분기말 총자본(자기자본),16185000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1341439/000156459019045966/,,3
+Oracle,ORCL,2019Q4,2019-11-30,분기말 지배지분 자본,15563000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1341439/000156459019045966/,,3
+Oracle,ORCL,2019Q4,2019-11-29,분기말 종가,56.14,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/ORCL?interval=1d&events=splits (2019-11-29),,3
+Oracle,ORCL,2019Q4,2019-12-09,분기말 상장주식수,3207649000,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/1341439/000156459019045966/,dei:EntityCommonStockSharesOutstanding 클래스 합,3
+Oracle,ORCL,2019Q4,2019-11-29,분기말 시가총액,180077414860,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/ORCL?interval=1d&events=splits (2019-11-29) ; https://www.sec.gov/Archives/edgar/data/1341439/000156459019045966/,종가 56.14 × 주식수 3207649000,3
+Oracle,ORCL,2020Q1,2020-02-29,분기별 매출액,9796000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1341439/000156459020010833/,,3
+Oracle,ORCL,2020Q1,2020-02-29,분기별 영업이익,3528000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1341439/000156459020010833/,,3
+Oracle,ORCL,2020Q1,2020-02-29,분기별 당기순이익(지배),2571000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1341439/000156459020010833/,,3
+Oracle,ORCL,2020Q1,2020-02-29,분기별 영업활동현금흐름,3012000000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/1341439/000156459020010833/ ; https://www.sec.gov/Archives/edgar/data/1341439/000156459019045966/,누적 9525000000 − 직전누적 6513000000 (시작 2019-06-01),3
+Oracle,ORCL,2020Q1,2020-02-29,분기말 자산총계,96704000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1341439/000156459020010833/,,3
+Oracle,ORCL,2020Q1,2020-02-29,분기말 부채총계,81823000000,USD,계산(부채및자본-총자본),https://www.sec.gov/Archives/edgar/data/1341439/000156459020010833/,부채및자본 96704000000 − 총자본 14881000000,3
+Oracle,ORCL,2020Q1,2020-02-29,분기말 총자본(자기자본),14881000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1341439/000156459020010833/,,3
+Oracle,ORCL,2020Q1,2020-02-29,분기말 지배지분 자본,14235000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1341439/000156459020010833/,,3
+Oracle,ORCL,2020Q1,2020-02-28,분기말 종가,49.46,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/ORCL?interval=1d&events=splits (2020-02-28),,3
+Oracle,ORCL,2020Q1,2020-03-09,분기말 상장주식수,3153584000,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/1341439/000156459020010833/,dei:EntityCommonStockSharesOutstanding 클래스 합,3
+Oracle,ORCL,2020Q1,2020-02-28,분기말 시가총액,155976264640,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/ORCL?interval=1d&events=splits (2020-02-28) ; https://www.sec.gov/Archives/edgar/data/1341439/000156459020010833/,종가 49.46 × 주식수 3153584000,3
+Oracle,ORCL,2020Q2,2020-05-31,분기별 매출액,10439000000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/1341439/000156459020030125/ ; https://www.sec.gov/Archives/edgar/data/1341439/000156459020010833/,연간 39068000000 − 9개월누적 28629000000 (RevenueFromContractWithCustomerExcludingAssessedTax),3
+Oracle,ORCL,2020Q2,2020-05-31,분기별 영업이익,4308000000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/1341439/000156459020030125/ ; https://www.sec.gov/Archives/edgar/data/1341439/000156459020010833/,연간 13896000000 − 9개월누적 9588000000 (OperatingIncomeLoss),3
+Oracle,ORCL,2020Q2,2020-05-31,분기별 당기순이익(지배),3116000000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/1341439/000156459020030125/ ; https://www.sec.gov/Archives/edgar/data/1341439/000156459020010833/,연간 10135000000 − 9개월누적 7019000000 (NetIncomeLoss),3
+Oracle,ORCL,2020Q2,2020-05-31,분기별 영업활동현금흐름,3614000000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/1341439/000156459020030125/ ; https://www.sec.gov/Archives/edgar/data/1341439/000156459020010833/,누적 13139000000 − 직전누적 9525000000 (시작 2019-06-01),3
+Oracle,ORCL,2020Q2,2020-05-31,분기말 자산총계,115438000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1341439/000156459020030125/,,3
+Oracle,ORCL,2020Q2,2020-05-31,분기말 부채총계,102721000000,USD,계산(부채및자본-총자본),https://www.sec.gov/Archives/edgar/data/1341439/000156459020030125/,부채및자본 115438000000 − 총자본 12717000000,3
+Oracle,ORCL,2020Q2,2020-05-31,분기말 총자본(자기자본),12717000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1341439/000156459020030125/,,3
+Oracle,ORCL,2020Q2,2020-05-31,분기말 지배지분 자본,12074000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1341439/000156459020030125/,,3
+Oracle,ORCL,2020Q2,2020-05-29,분기말 종가,53.77,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/ORCL?interval=1d&events=splits (2020-05-29),,3
+Oracle,ORCL,2020Q2,2020-06-16,분기말 상장주식수,3068682000,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/1341439/000156459020030125/,dei:EntityCommonStockSharesOutstanding 클래스 합,3
+Oracle,ORCL,2020Q2,2020-05-29,분기말 시가총액,165003031140,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/ORCL?interval=1d&events=splits (2020-05-29) ; https://www.sec.gov/Archives/edgar/data/1341439/000156459020030125/,종가 53.77 × 주식수 3068682000,3
+Oracle,ORCL,2020Q3,2020-08-31,분기별 매출액,9367000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1341439/000156459020043448/,,3
+Oracle,ORCL,2020Q3,2020-08-31,분기별 영업이익,3211000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1341439/000156459020043448/,,3
+Oracle,ORCL,2020Q3,2020-08-31,분기별 당기순이익(지배),2251000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1341439/000156459020043448/,,3
+Oracle,ORCL,2020Q3,2020-08-31,분기별 영업활동현금흐름,5953000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1341439/000156459020043448/,,3
+Oracle,ORCL,2020Q3,2020-08-31,분기말 자산총계,113546000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1341439/000156459020043448/,,3
+Oracle,ORCL,2020Q3,2020-08-31,분기말 부채총계,103406000000,USD,계산(부채및자본-총자본),https://www.sec.gov/Archives/edgar/data/1341439/000156459020043448/,부채및자본 113546000000 − 총자본 10140000000,3
+Oracle,ORCL,2020Q3,2020-08-31,분기말 총자본(자기자본),10140000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1341439/000156459020043448/,,3
+Oracle,ORCL,2020Q3,2020-08-31,분기말 지배지분 자본,9491000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1341439/000156459020043448/,,3
+Oracle,ORCL,2020Q3,2020-08-31,분기말 종가,57.22,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/ORCL?interval=1d&events=splits (2020-08-31),,3
+Oracle,ORCL,2020Q3,2020-09-04,분기말 상장주식수,3007161000,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/1341439/000156459020043448/,dei:EntityCommonStockSharesOutstanding 클래스 합,3
+Oracle,ORCL,2020Q3,2020-08-31,분기말 시가총액,172069752420,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/ORCL?interval=1d&events=splits (2020-08-31) ; https://www.sec.gov/Archives/edgar/data/1341439/000156459020043448/,종가 57.22 × 주식수 3007161000,3
+Oracle,ORCL,2020Q4,2020-11-30,분기별 매출액,9800000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1341439/000156459020056896/,,3
+Oracle,ORCL,2020Q4,2020-11-30,분기별 영업이익,3583000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1341439/000156459020056896/,,3
+Oracle,ORCL,2020Q4,2020-11-30,분기별 당기순이익(지배),2442000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1341439/000156459020056896/,,3
+Oracle,ORCL,2020Q4,2020-11-30,분기별 영업활동현금흐름,1388000000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/1341439/000156459020056896/ ; https://www.sec.gov/Archives/edgar/data/1341439/000156459020043448/,누적 7341000000 − 직전누적 5953000000 (시작 2020-06-01),3
+Oracle,ORCL,2020Q4,2020-11-30,분기말 자산총계,110014000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1341439/000156459020056896/,,3
+Oracle,ORCL,2020Q4,2020-11-30,분기말 부채총계,101398000000,USD,계산(부채및자본-총자본),https://www.sec.gov/Archives/edgar/data/1341439/000156459020056896/,부채및자본 110014000000 − 총자본 8616000000,3
+Oracle,ORCL,2020Q4,2020-11-30,분기말 총자본(자기자본),8616000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1341439/000156459020056896/,,3
+Oracle,ORCL,2020Q4,2020-11-30,분기말 지배지분 자본,7917000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1341439/000156459020056896/,,3
+Oracle,ORCL,2020Q4,2020-11-30,분기말 종가,57.72,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/ORCL?interval=1d&events=splits (2020-11-30),,3
+Oracle,ORCL,2020Q4,2020-12-04,분기말 상장주식수,2944034000,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/1341439/000156459020056896/,dei:EntityCommonStockSharesOutstanding 클래스 합,3
+Oracle,ORCL,2020Q4,2020-11-30,분기말 시가총액,169929642480,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/ORCL?interval=1d&events=splits (2020-11-30) ; https://www.sec.gov/Archives/edgar/data/1341439/000156459020056896/,종가 57.72 × 주식수 2944034000,3
+Oracle,ORCL,2021Q1,2021-02-28,분기별 매출액,10085000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1341439/000156459021012539/,,3
+Oracle,ORCL,2021Q1,2021-02-28,분기별 영업이익,3878000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1341439/000156459021012539/,,3
+Oracle,ORCL,2021Q1,2021-02-28,분기별 당기순이익(지배),5021000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1341439/000156459021012539/,,3
+Oracle,ORCL,2021Q1,2021-02-28,분기별 영업활동현금흐름,3704000000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/1341439/000156459021012539/ ; https://www.sec.gov/Archives/edgar/data/1341439/000156459020056896/,누적 11045000000 − 직전누적 7341000000 (시작 2020-06-01),3
+Oracle,ORCL,2021Q1,2021-02-28,분기말 자산총계,118109000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1341439/000156459021012539/,,3
+Oracle,ORCL,2021Q1,2021-02-28,분기말 부채총계,108472000000,USD,계산(부채및자본-총자본),https://www.sec.gov/Archives/edgar/data/1341439/000156459021012539/,부채및자본 118109000000 − 총자본 9637000000,3
+Oracle,ORCL,2021Q1,2021-02-28,분기말 총자본(자기자본),9637000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1341439/000156459021012539/,,3
+Oracle,ORCL,2021Q1,2021-02-28,분기말 지배지분 자본,8900000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1341439/000156459021012539/,,3
+Oracle,ORCL,2021Q1,2021-02-26,분기말 종가,64.51,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/ORCL?interval=1d&events=splits (2021-02-26),,3
+Oracle,ORCL,2021Q1,2021-03-05,분기말 상장주식수,2883535000,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/1341439/000156459021012539/,dei:EntityCommonStockSharesOutstanding 클래스 합,3
+Oracle,ORCL,2021Q1,2021-02-26,분기말 시가총액,186016842850,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/ORCL?interval=1d&events=splits (2021-02-26) ; https://www.sec.gov/Archives/edgar/data/1341439/000156459021012539/,종가 64.51 × 주식수 2883535000,3
+Oracle,ORCL,2021Q2,2021-05-31,분기별 매출액,11227000000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/1341439/000156459021033616/ ; https://www.sec.gov/Archives/edgar/data/1341439/000156459021012539/,연간 40479000000 − 9개월누적 29252000000 (RevenueFromContractWithCustomerExcludingAssessedTax),3
+Oracle,ORCL,2021Q2,2021-05-31,분기별 영업이익,4541000000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/1341439/000156459021033616/ ; https://www.sec.gov/Archives/edgar/data/1341439/000156459021012539/,연간 15213000000 − 9개월누적 10672000000 (OperatingIncomeLoss),3
+Oracle,ORCL,2021Q2,2021-05-31,분기별 당기순이익(지배),4032000000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/1341439/000156459021033616/ ; https://www.sec.gov/Archives/edgar/data/1341439/000156459021012539/,연간 13746000000 − 9개월누적 9714000000 (NetIncomeLoss),3
+Oracle,ORCL,2021Q2,2021-05-31,분기별 영업활동현금흐름,4842000000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/1341439/000156459021033616/ ; https://www.sec.gov/Archives/edgar/data/1341439/000156459021012539/,누적 15887000000 − 직전누적 11045000000 (시작 2020-06-01),3
+Oracle,ORCL,2021Q2,2021-05-31,분기말 자산총계,131107000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1341439/000156459021033616/,,3
+Oracle,ORCL,2021Q2,2021-05-31,분기말 부채총계,125155000000,USD,계산(부채및자본-총자본),https://www.sec.gov/Archives/edgar/data/1341439/000156459021033616/,부채및자본 131107000000 − 총자본 5952000000,3
+Oracle,ORCL,2021Q2,2021-05-31,분기말 총자본(자기자본),5952000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1341439/000156459021033616/,,3
+Oracle,ORCL,2021Q2,2021-05-31,분기말 지배지분 자본,5238000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1341439/000156459021033616/,,3
+Oracle,ORCL,2021Q2,2021-05-28,분기말 종가,78.74,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/ORCL?interval=1d&events=splits (2021-05-28),,3
+Oracle,ORCL,2021Q2,2021-06-15,분기말 상장주식수,2792000000,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/1341439/000156459021033616/,dei:EntityCommonStockSharesOutstanding 클래스 합,3
+Oracle,ORCL,2021Q2,2021-05-28,분기말 시가총액,219842080000,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/ORCL?interval=1d&events=splits (2021-05-28) ; https://www.sec.gov/Archives/edgar/data/1341439/000156459021033616/,종가 78.74 × 주식수 2792000000,3
+Oracle,ORCL,2021Q3,2021-08-31,분기별 매출액,9728000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1341439/000156459021047772/,,3
+Oracle,ORCL,2021Q3,2021-08-31,분기별 영업이익,3427000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1341439/000156459021047772/,,3
+Oracle,ORCL,2021Q3,2021-08-31,분기별 당기순이익(지배),2457000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1341439/000156459021047772/,,3
+Oracle,ORCL,2021Q3,2021-08-31,분기별 영업활동현금흐름,5391000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1341439/000156459021047772/,,3
+Oracle,ORCL,2021Q3,2021-08-31,분기말 자산총계,122924000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1341439/000156459021047772/,,3
+Oracle,ORCL,2021Q3,2021-08-31,분기말 부채총계,124054000000,USD,계산(부채및자본-총자본),https://www.sec.gov/Archives/edgar/data/1341439/000156459021047772/,부채및자본 122924000000 − 총자본 -1130000000,3
+Oracle,ORCL,2021Q3,2021-08-31,분기말 총자본(자기자본),-1130000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1341439/000156459021047772/,,3
+Oracle,ORCL,2021Q3,2021-08-31,분기말 지배지분 자본,-1541000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1341439/000156459021047772/,,3
+Oracle,ORCL,2021Q3,2021-08-31,분기말 종가,89.13,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/ORCL?interval=1d&events=splits (2021-08-31),,3
+Oracle,ORCL,2021Q3,2021-09-06,분기말 상장주식수,2738179000,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/1341439/000156459021047772/,dei:EntityCommonStockSharesOutstanding 클래스 합,3
+Oracle,ORCL,2021Q3,2021-08-31,분기말 시가총액,244053894270,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/ORCL?interval=1d&events=splits (2021-08-31) ; https://www.sec.gov/Archives/edgar/data/1341439/000156459021047772/,종가 89.13 × 주식수 2738179000,3
+Oracle,ORCL,2021Q4,2021-11-30,분기별 매출액,10360000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1341439/000156459021060022/,,3
+Oracle,ORCL,2021Q4,2021-11-30,분기별 영업이익,-824000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1341439/000156459021060022/,,3
+Oracle,ORCL,2021Q4,2021-11-30,분기별 당기순이익(지배),-1247000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1341439/000156459021060022/,,3
+Oracle,ORCL,2021Q4,2021-11-30,분기별 영업활동현금흐름,-3682000000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/1341439/000156459021060022/ ; https://www.sec.gov/Archives/edgar/data/1341439/000156459021047772/,누적 1709000000 − 직전누적 5391000000 (시작 2021-06-01),3
+Oracle,ORCL,2021Q4,2021-11-30,분기말 자산총계,106897000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1341439/000156459021060022/,,3
+Oracle,ORCL,2021Q4,2021-11-30,분기말 부채총계,116555000000,USD,계산(부채및자본-총자본),https://www.sec.gov/Archives/edgar/data/1341439/000156459021060022/,부채및자본 106897000000 − 총자본 -9658000000,3
+Oracle,ORCL,2021Q4,2021-11-30,분기말 총자본(자기자본),-9658000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1341439/000156459021060022/,,3
+Oracle,ORCL,2021Q4,2021-11-30,분기말 지배지분 자본,-10101000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1341439/000156459021060022/,,3
+Oracle,ORCL,2021Q4,2021-11-30,분기말 종가,90.74,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/ORCL?interval=1d&events=splits (2021-11-30),,3
+Oracle,ORCL,2021Q4,2021-12-06,분기말 상장주식수,2670447000,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/1341439/000156459021060022/,dei:EntityCommonStockSharesOutstanding 클래스 합,3
+Oracle,ORCL,2021Q4,2021-11-30,분기말 시가총액,242316360780,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/ORCL?interval=1d&events=splits (2021-11-30) ; https://www.sec.gov/Archives/edgar/data/1341439/000156459021060022/,종가 90.74 × 주식수 2670447000,3
+Oracle,ORCL,2022Q1,2022-02-28,분기별 매출액,10513000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1341439/000156459022009859/,,3
+Oracle,ORCL,2022Q1,2022-02-28,분기별 영업이익,3822000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1341439/000156459022009859/,,3
+Oracle,ORCL,2022Q1,2022-02-28,분기별 당기순이익(지배),2319000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1341439/000156459022009859/,,3
+Oracle,ORCL,2022Q1,2022-02-28,분기별 영업활동현금흐름,3845000000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/1341439/000156459022009859/ ; https://www.sec.gov/Archives/edgar/data/1341439/000156459021060022/,누적 5554000000 − 직전누적 1709000000 (시작 2021-06-01),3
+Oracle,ORCL,2022Q1,2022-02-28,분기말 자산총계,108644000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1341439/000156459022009859/,,3
+Oracle,ORCL,2022Q1,2022-02-28,분기말 부채총계,116855000000,USD,계산(부채및자본-총자본),https://www.sec.gov/Archives/edgar/data/1341439/000156459022009859/,부채및자본 108644000000 − 총자본 -8211000000,3
+Oracle,ORCL,2022Q1,2022-02-28,분기말 총자본(자기자본),-8211000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1341439/000156459022009859/,,3
+Oracle,ORCL,2022Q1,2022-02-28,분기말 지배지분 자본,-8696000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1341439/000156459022009859/,,3
+Oracle,ORCL,2022Q1,2022-02-28,분기말 종가,75.97,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/ORCL?interval=1d&events=splits (2022-02-28),,3
+Oracle,ORCL,2022Q1,2022-03-07,분기말 상장주식수,2668157000,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/1341439/000156459022009859/,dei:EntityCommonStockSharesOutstanding 클래스 합,3
+Oracle,ORCL,2022Q1,2022-02-28,분기말 시가총액,202699887290,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/ORCL?interval=1d&events=splits (2022-02-28) ; https://www.sec.gov/Archives/edgar/data/1341439/000156459022009859/,종가 75.97 × 주식수 2668157000,3
+Oracle,ORCL,2022Q2,2022-05-31,분기별 매출액,11840000000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/1341439/000156459022023675/ ; https://www.sec.gov/Archives/edgar/data/1341439/000156459022009859/,연간 42440000000 − 9개월누적 30600000000 (RevenueFromContractWithCustomerExcludingAssessedTax),3
+Oracle,ORCL,2022Q2,2022-05-31,분기별 영업이익,4502000000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/1341439/000156459022023675/ ; https://www.sec.gov/Archives/edgar/data/1341439/000156459022009859/,연간 10926000000 − 9개월누적 6424000000 (OperatingIncomeLoss),3
+Oracle,ORCL,2022Q2,2022-05-31,분기별 당기순이익(지배),3189000000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/1341439/000156459022023675/ ; https://www.sec.gov/Archives/edgar/data/1341439/000156459022009859/,연간 6717000000 − 9개월누적 3528000000 (NetIncomeLoss),3
+Oracle,ORCL,2022Q2,2022-05-31,분기별 영업활동현금흐름,3985000000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/1341439/000156459022023675/ ; https://www.sec.gov/Archives/edgar/data/1341439/000156459022009859/,누적 9539000000 − 직전누적 5554000000 (시작 2021-06-01),3
+Oracle,ORCL,2022Q2,2022-05-31,분기말 자산총계,109297000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1341439/000156459022023675/,,3
+Oracle,ORCL,2022Q2,2022-05-31,분기말 부채총계,115065000000,USD,계산(부채및자본-총자본),https://www.sec.gov/Archives/edgar/data/1341439/000156459022023675/,부채및자본 109297000000 − 총자본 -5768000000,3
+Oracle,ORCL,2022Q2,2022-05-31,분기말 총자본(자기자본),-5768000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1341439/000156459022023675/,,3
+Oracle,ORCL,2022Q2,2022-05-31,분기말 지배지분 자본,-6220000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1341439/000156459022023675/,,3
+Oracle,ORCL,2022Q2,2022-05-31,분기말 종가,71.92,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/ORCL?interval=1d&events=splits (2022-05-31),,3
+Oracle,ORCL,2022Q2,2022-06-13,분기말 상장주식수,2664926000,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/1341439/000156459022023675/,dei:EntityCommonStockSharesOutstanding 클래스 합,3
+Oracle,ORCL,2022Q2,2022-05-31,분기말 시가총액,191661477920,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/ORCL?interval=1d&events=splits (2022-05-31) ; https://www.sec.gov/Archives/edgar/data/1341439/000156459022023675/,종가 71.92 × 주식수 2664926000,3
+Oracle,ORCL,2022Q3,2022-08-31,분기별 매출액,11445000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1341439/000156459022031545/,,3
+Oracle,ORCL,2022Q3,2022-08-31,분기별 영업이익,2623000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1341439/000156459022031545/,,3
+Oracle,ORCL,2022Q3,2022-08-31,분기별 당기순이익(지배),1548000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1341439/000156459022031545/,,3
+Oracle,ORCL,2022Q3,2022-08-31,분기별 영업활동현금흐름,6394000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1341439/000156459022031545/,,3
+Oracle,ORCL,2022Q3,2022-08-31,분기말 자산총계,130309000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1341439/000156459022031545/,,3
+Oracle,ORCL,2022Q3,2022-08-31,분기말 부채총계,135758000000,USD,계산(부채및자본-총자본),https://www.sec.gov/Archives/edgar/data/1341439/000156459022031545/,부채및자본 130309000000 − 총자본 -5449000000,3
+Oracle,ORCL,2022Q3,2022-08-31,분기말 총자본(자기자본),-5449000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1341439/000156459022031545/,,3
+Oracle,ORCL,2022Q3,2022-08-31,분기말 지배지분 자본,-5875000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1341439/000156459022031545/,,3
+Oracle,ORCL,2022Q3,2022-08-31,분기말 종가,74.15,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/ORCL?interval=1d&events=splits (2022-08-31),,3
+Oracle,ORCL,2022Q3,2022-09-08,분기말 상장주식수,2695653000,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/1341439/000156459022031545/,dei:EntityCommonStockSharesOutstanding 클래스 합,3
+Oracle,ORCL,2022Q3,2022-08-31,분기말 시가총액,199882669950,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/ORCL?interval=1d&events=splits (2022-08-31) ; https://www.sec.gov/Archives/edgar/data/1341439/000156459022031545/,종가 74.15 × 주식수 2695653000,3
+Oracle,ORCL,2022Q4,2022-11-30,분기별 매출액,12275000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1341439/000156459022039278/,,3
+Oracle,ORCL,2022Q4,2022-11-30,분기별 영업이익,3071000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1341439/000156459022039278/,,3
+Oracle,ORCL,2022Q4,2022-11-30,분기별 당기순이익(지배),1741000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1341439/000156459022039278/,,3
+Oracle,ORCL,2022Q4,2022-11-30,분기별 영업활동현금흐름,849000000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/1341439/000156459022039278/ ; https://www.sec.gov/Archives/edgar/data/1341439/000156459022031545/,누적 7243000000 − 직전누적 6394000000 (시작 2022-06-01),3
+Oracle,ORCL,2022Q4,2022-11-30,분기말 자산총계,128469000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1341439/000156459022039278/,,3
+Oracle,ORCL,2022Q4,2022-11-30,분기말 부채총계,132245000000,USD,계산(부채및자본-총자본),https://www.sec.gov/Archives/edgar/data/1341439/000156459022039278/,부채및자본 128469000000 − 총자본 -3776000000,3
+Oracle,ORCL,2022Q4,2022-11-30,분기말 총자본(자기자본),-3776000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1341439/000156459022039278/,,3
+Oracle,ORCL,2022Q4,2022-11-30,분기말 지배지분 자본,-4246000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1341439/000156459022039278/,,3
+Oracle,ORCL,2022Q4,2022-11-30,분기말 종가,83.03,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/ORCL?interval=1d&events=splits (2022-11-30),,3
+Oracle,ORCL,2022Q4,2022-12-07,분기말 상장주식수,2696253000,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/1341439/000156459022039278/,dei:EntityCommonStockSharesOutstanding 클래스 합,3
+Oracle,ORCL,2022Q4,2022-11-30,분기말 시가총액,223869886590,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/ORCL?interval=1d&events=splits (2022-11-30) ; https://www.sec.gov/Archives/edgar/data/1341439/000156459022039278/,종가 83.03 × 주식수 2696253000,3
+Oracle,ORCL,2023Q1,2023-02-28,분기별 매출액,12398000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1341439/000156459023003413/,,3
+Oracle,ORCL,2023Q1,2023-02-28,분기별 영업이익,3260000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1341439/000156459023003413/,,3
+Oracle,ORCL,2023Q1,2023-02-28,분기별 당기순이익(지배),1896000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1341439/000156459023003413/,,3
+Oracle,ORCL,2023Q1,2023-02-28,분기별 영업활동현금흐름,4275000000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/1341439/000156459023003413/ ; https://www.sec.gov/Archives/edgar/data/1341439/000156459022039278/,누적 11518000000 − 직전누적 7243000000 (시작 2022-06-01),3
+Oracle,ORCL,2023Q1,2023-02-28,분기말 자산총계,131620000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1341439/000156459023003413/,,3
+Oracle,ORCL,2023Q1,2023-02-28,분기말 부채총계,133532000000,USD,계산(부채및자본-총자본),https://www.sec.gov/Archives/edgar/data/1341439/000156459023003413/,부채및자본 131620000000 − 총자본 -1912000000,3
+Oracle,ORCL,2023Q1,2023-02-28,분기말 총자본(자기자본),-1912000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1341439/000156459023003413/,,3
+Oracle,ORCL,2023Q1,2023-02-28,분기말 지배지분 자본,-2421000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1341439/000156459023003413/,,3
+Oracle,ORCL,2023Q1,2023-02-28,분기말 종가,87.4,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/ORCL?interval=1d&events=splits (2023-02-28),,3
+Oracle,ORCL,2023Q1,2023-03-06,분기말 상장주식수,2699802000,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/1341439/000156459023003413/,dei:EntityCommonStockSharesOutstanding 클래스 합,3
+Oracle,ORCL,2023Q1,2023-02-28,분기말 시가총액,235962694800,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/ORCL?interval=1d&events=splits (2023-02-28) ; https://www.sec.gov/Archives/edgar/data/1341439/000156459023003413/,종가 87.4 × 주식수 2699802000,3
+Oracle,ORCL,2023Q2,2023-05-31,분기별 매출액,13836000000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/1341439/000095017023028914/ ; https://www.sec.gov/Archives/edgar/data/1341439/000156459023003413/,연간 49954000000 − 9개월누적 36118000000 (Revenues / 9개월 RevenueFromContractWithCustomerExcludingAssessedTax),3
+Oracle,ORCL,2023Q2,2023-05-31,분기별 영업이익,4140000000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/1341439/000095017023028914/ ; https://www.sec.gov/Archives/edgar/data/1341439/000156459023003413/,연간 13093000000 − 9개월누적 8953000000 (OperatingIncomeLoss),3
+Oracle,ORCL,2023Q2,2023-05-31,분기별 당기순이익(지배),3319000000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/1341439/000095017023028914/ ; https://www.sec.gov/Archives/edgar/data/1341439/000156459023003413/,연간 8503000000 − 9개월누적 5184000000 (NetIncomeLoss),3
+Oracle,ORCL,2023Q2,2023-05-31,분기별 영업활동현금흐름,5647000000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/1341439/000095017023028914/ ; https://www.sec.gov/Archives/edgar/data/1341439/000156459023003413/,누적 17165000000 − 직전누적 11518000000 (시작 2022-06-01),3
+Oracle,ORCL,2023Q2,2023-05-31,분기말 자산총계,134384000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1341439/000095017023028914/,,3
+Oracle,ORCL,2023Q2,2023-05-31,분기말 부채총계,132828000000,USD,계산(부채및자본-총자본),https://www.sec.gov/Archives/edgar/data/1341439/000095017023028914/,부채및자본 134384000000 − 총자본 1556000000,3
+Oracle,ORCL,2023Q2,2023-05-31,분기말 총자본(자기자본),1556000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1341439/000095017023028914/,,3
+Oracle,ORCL,2023Q2,2023-05-31,분기말 지배지분 자본,1073000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1341439/000095017023028914/,,3
+Oracle,ORCL,2023Q2,2023-05-31,분기말 종가,105.94,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/ORCL?interval=1d&events=splits (2023-05-31),,3
+Oracle,ORCL,2023Q2,2023-06-12,분기말 상장주식수,2714259000,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/1341439/000095017023028914/,dei:EntityCommonStockSharesOutstanding 클래스 합,3
+Oracle,ORCL,2023Q2,2023-05-31,분기말 시가총액,287548598460,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/ORCL?interval=1d&events=splits (2023-05-31) ; https://www.sec.gov/Archives/edgar/data/1341439/000095017023028914/,종가 105.94 × 주식수 2714259000,3
+Oracle,ORCL,2023Q3,2023-08-31,분기별 매출액,12453000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1341439/000095017023047713/,,3
+Oracle,ORCL,2023Q3,2023-08-31,분기별 영업이익,3296000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1341439/000095017023047713/,,3
+Oracle,ORCL,2023Q3,2023-08-31,분기별 당기순이익(지배),2420000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1341439/000095017023047713/,,3
+Oracle,ORCL,2023Q3,2023-08-31,분기별 영업활동현금흐름,6974000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1341439/000095017023047713/,,3
+Oracle,ORCL,2023Q3,2023-08-31,분기말 자산총계,136662000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1341439/000095017023047713/,,3
+Oracle,ORCL,2023Q3,2023-08-31,분기말 부채총계,133821000000,USD,계산(부채및자본-총자본),https://www.sec.gov/Archives/edgar/data/1341439/000095017023047713/,부채및자본 136662000000 − 총자본 2841000000,3
+Oracle,ORCL,2023Q3,2023-08-31,분기말 총자본(자기자본),2841000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1341439/000095017023047713/,,3
+Oracle,ORCL,2023Q3,2023-08-31,분기말 지배지분 자본,2370000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1341439/000095017023047713/,,3
+Oracle,ORCL,2023Q3,2023-08-31,분기말 종가,120.39,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/ORCL?interval=1d&events=splits (2023-08-31),,3
+Oracle,ORCL,2023Q3,2023-09-07,분기말 상장주식수,2739821000,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/1341439/000095017023047713/,dei:EntityCommonStockSharesOutstanding 클래스 합,3
+Oracle,ORCL,2023Q3,2023-08-31,분기말 시가총액,329847050190,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/ORCL?interval=1d&events=splits (2023-08-31) ; https://www.sec.gov/Archives/edgar/data/1341439/000095017023047713/,종가 120.39 × 주식수 2739821000,3
+Oracle,ORCL,2023Q4,2023-11-30,분기별 매출액,12941000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1341439/000095017023069682/,,3
+Oracle,ORCL,2023Q4,2023-11-30,분기별 영업이익,3622000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1341439/000095017023069682/,,3
+Oracle,ORCL,2023Q4,2023-11-30,분기별 당기순이익(지배),2503000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1341439/000095017023069682/,,3
+Oracle,ORCL,2023Q4,2023-11-30,분기별 영업활동현금흐름,143000000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/1341439/000095017023069682/ ; https://www.sec.gov/Archives/edgar/data/1341439/000095017023047713/,누적 7117000000 − 직전누적 6974000000 (시작 2023-06-01),3
+Oracle,ORCL,2023Q4,2023-11-30,분기말 자산총계,134324000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1341439/000095017023069682/,,3
+Oracle,ORCL,2023Q4,2023-11-30,분기말 부채총계,129946000000,USD,계산(부채및자본-총자본),https://www.sec.gov/Archives/edgar/data/1341439/000095017023069682/,부채및자본 134324000000 − 총자본 4378000000,3
+Oracle,ORCL,2023Q4,2023-11-30,분기말 총자본(자기자본),4378000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1341439/000095017023069682/,,3
+Oracle,ORCL,2023Q4,2023-11-30,분기말 지배지분 자본,3866000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1341439/000095017023069682/,,3
+Oracle,ORCL,2023Q4,2023-11-30,분기말 종가,116.21,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/ORCL?interval=1d&events=splits (2023-11-30),,3
+Oracle,ORCL,2023Q4,2023-12-07,분기말 상장주식수,2748922000,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/1341439/000095017023069682/,dei:EntityCommonStockSharesOutstanding 클래스 합,3
+Oracle,ORCL,2023Q4,2023-11-30,분기말 시가총액,319452225620,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/ORCL?interval=1d&events=splits (2023-11-30) ; https://www.sec.gov/Archives/edgar/data/1341439/000095017023069682/,종가 116.21 × 주식수 2748922000,3
+Oracle,ORCL,2024Q1,2024-02-29,분기별 매출액,13280000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1341439/000095017024029904/,,3
+Oracle,ORCL,2024Q1,2024-02-29,분기별 영업이익,3750000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1341439/000095017024029904/,,3
+Oracle,ORCL,2024Q1,2024-02-29,분기별 당기순이익(지배),2401000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1341439/000095017024029904/,,3
+Oracle,ORCL,2024Q1,2024-02-29,분기별 영업활동현금흐름,5475000000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/1341439/000095017024029904/ ; https://www.sec.gov/Archives/edgar/data/1341439/000095017023069682/,누적 12592000000 − 직전누적 7117000000 (시작 2023-06-01),3
+Oracle,ORCL,2024Q1,2024-02-29,분기말 자산총계,137082000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1341439/000095017024029904/,,3
+Oracle,ORCL,2024Q1,2024-02-29,분기말 부채총계,130900000000,USD,계산(부채및자본-총자본),https://www.sec.gov/Archives/edgar/data/1341439/000095017024029904/,부채및자본 137082000000 − 총자본 6182000000,3
+Oracle,ORCL,2024Q1,2024-02-29,분기말 총자본(자기자본),6182000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1341439/000095017024029904/,,3
+Oracle,ORCL,2024Q1,2024-02-29,분기말 지배지분 자본,5623000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1341439/000095017024029904/,,3
+Oracle,ORCL,2024Q1,2024-02-29,분기말 종가,111.68,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/ORCL?interval=1d&events=splits (2024-02-29),,3
+Oracle,ORCL,2024Q1,2024-03-07,분기말 상장주식수,2748514000,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/1341439/000095017024029904/,dei:EntityCommonStockSharesOutstanding 클래스 합,3
+Oracle,ORCL,2024Q1,2024-02-29,분기말 시가총액,306954043520,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/ORCL?interval=1d&events=splits (2024-02-29) ; https://www.sec.gov/Archives/edgar/data/1341439/000095017024029904/,종가 111.68 × 주식수 2748514000,3
+Oracle,ORCL,2024Q2,2024-05-31,분기별 매출액,14287000000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/1341439/000095017024075605/ ; https://www.sec.gov/Archives/edgar/data/1341439/000095017024029904/,연간 52961000000 − 9개월누적 38674000000 (Revenues / 9개월 RevenueFromContractWithCustomerExcludingAssessedTax),3
+Oracle,ORCL,2024Q2,2024-05-31,분기별 영업이익,4686000000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/1341439/000095017024075605/ ; https://www.sec.gov/Archives/edgar/data/1341439/000095017024029904/,연간 15353000000 − 9개월누적 10667000000 (OperatingIncomeLoss),3
+Oracle,ORCL,2024Q2,2024-05-31,분기별 당기순이익(지배),3144000000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/1341439/000095017024075605/ ; https://www.sec.gov/Archives/edgar/data/1341439/000095017024029904/,연간 10467000000 − 9개월누적 7323000000 (NetIncomeLoss),3
+Oracle,ORCL,2024Q2,2024-05-31,분기별 영업활동현금흐름,6081000000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/1341439/000095017024075605/ ; https://www.sec.gov/Archives/edgar/data/1341439/000095017024029904/,누적 18673000000 − 직전누적 12592000000 (시작 2023-06-01),3
+Oracle,ORCL,2024Q2,2024-05-31,분기말 자산총계,140976000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1341439/000095017024075605/,,3
+Oracle,ORCL,2024Q2,2024-05-31,분기말 부채총계,131737000000,USD,계산(부채및자본-총자본),https://www.sec.gov/Archives/edgar/data/1341439/000095017024075605/,부채및자본 140976000000 − 총자본 9239000000,3
+Oracle,ORCL,2024Q2,2024-05-31,분기말 총자본(자기자본),9239000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1341439/000095017024075605/,,3
+Oracle,ORCL,2024Q2,2024-05-31,분기말 지배지분 자본,8704000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1341439/000095017024075605/,,3
+Oracle,ORCL,2024Q2,2024-05-31,분기말 종가,117.19,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/ORCL?interval=1d&events=splits (2024-05-31),,3
+Oracle,ORCL,2024Q2,2024-06-13,분기말 상장주식수,2755860000,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/1341439/000095017024075605/,dei:EntityCommonStockSharesOutstanding 클래스 합,3
+Oracle,ORCL,2024Q2,2024-05-31,분기말 시가총액,322959233400,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/ORCL?interval=1d&events=splits (2024-05-31) ; https://www.sec.gov/Archives/edgar/data/1341439/000095017024075605/,종가 117.19 × 주식수 2755860000,3
+Oracle,ORCL,2024Q3,2024-08-31,분기별 매출액,13307000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1341439/000095017024104905/,,3
+Oracle,ORCL,2024Q3,2024-08-31,분기별 영업이익,3991000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1341439/000095017024104905/,,3
+Oracle,ORCL,2024Q3,2024-08-31,분기별 당기순이익(지배),2929000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1341439/000095017024104905/,,3
+Oracle,ORCL,2024Q3,2024-08-31,분기별 영업활동현금흐름,7427000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1341439/000095017024104905/,,3
+Oracle,ORCL,2024Q3,2024-08-31,분기말 자산총계,144214000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1341439/000095017024104905/,,3
+Oracle,ORCL,2024Q3,2024-08-31,분기말 부채총계,132945000000,USD,계산(부채및자본-총자본),https://www.sec.gov/Archives/edgar/data/1341439/000095017024104905/,부채및자본 144214000000 − 총자본 11269000000,3
+Oracle,ORCL,2024Q3,2024-08-31,분기말 총자본(자기자본),11269000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1341439/000095017024104905/,,3
+Oracle,ORCL,2024Q3,2024-08-31,분기말 지배지분 자본,10816000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1341439/000095017024104905/,,3
+Oracle,ORCL,2024Q3,2024-08-30,분기말 종가,141.29,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/ORCL?interval=1d&events=splits (2024-08-30),,3
+Oracle,ORCL,2024Q3,2024-09-06,분기말 상장주식수,2770968000,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/1341439/000095017024104905/,dei:EntityCommonStockSharesOutstanding 클래스 합,3
+Oracle,ORCL,2024Q3,2024-08-30,분기말 시가총액,391510068720,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/ORCL?interval=1d&events=splits (2024-08-30) ; https://www.sec.gov/Archives/edgar/data/1341439/000095017024104905/,종가 141.29 × 주식수 2770968000,3
+Oracle,ORCL,2024Q4,2024-11-30,분기별 매출액,14059000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1341439/000095017024134973/,,3
+Oracle,ORCL,2024Q4,2024-11-30,분기별 영업이익,4220000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1341439/000095017024134973/,,3
+Oracle,ORCL,2024Q4,2024-11-30,분기별 당기순이익(지배),3151000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1341439/000095017024134973/,,3
+Oracle,ORCL,2024Q4,2024-11-30,분기별 영업활동현금흐름,1304000000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/1341439/000095017024134973/ ; https://www.sec.gov/Archives/edgar/data/1341439/000095017024104905/,누적 8731000000 − 직전누적 7427000000 (시작 2024-06-01),3
+Oracle,ORCL,2024Q4,2024-11-30,분기말 자산총계,148483000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1341439/000095017024134973/,,3
+Oracle,ORCL,2024Q4,2024-11-30,분기말 부채총계,134247000000,USD,계산(부채및자본-총자본),https://www.sec.gov/Archives/edgar/data/1341439/000095017024134973/,부채및자본 148483000000 − 총자본 14236000000,3
+Oracle,ORCL,2024Q4,2024-11-30,분기말 총자본(자기자본),14236000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1341439/000095017024134973/,,3
+Oracle,ORCL,2024Q4,2024-11-30,분기말 지배지분 자본,13746000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1341439/000095017024134973/,,3
+Oracle,ORCL,2024Q4,2024-11-29,분기말 종가,184.84,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/ORCL?interval=1d&events=splits (2024-11-29),,3
+Oracle,ORCL,2024Q4,2024-12-06,분기말 상장주식수,2796956000,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/1341439/000095017024134973/,dei:EntityCommonStockSharesOutstanding 클래스 합,3
+Oracle,ORCL,2024Q4,2024-11-29,분기말 시가총액,516989347040,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/ORCL?interval=1d&events=splits (2024-11-29) ; https://www.sec.gov/Archives/edgar/data/1341439/000095017024134973/,종가 184.84 × 주식수 2796956000,3
+Oracle,ORCL,2025Q1,2025-02-28,분기별 매출액,14130000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1341439/000095017025037143/,,3
+Oracle,ORCL,2025Q1,2025-02-28,분기별 영업이익,4358000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1341439/000095017025037143/,,3
+Oracle,ORCL,2025Q1,2025-02-28,분기별 당기순이익(지배),2936000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1341439/000095017025037143/,,3
+Oracle,ORCL,2025Q1,2025-02-28,분기별 영업활동현금흐름,5933000000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/1341439/000095017025037143/ ; https://www.sec.gov/Archives/edgar/data/1341439/000095017024134973/,누적 14664000000 − 직전누적 8731000000 (시작 2024-06-01),3
+Oracle,ORCL,2025Q1,2025-02-28,분기말 자산총계,161378000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1341439/000095017025037143/,,3
+Oracle,ORCL,2025Q1,2025-02-28,분기말 부채총계,144117000000,USD,계산(부채및자본-총자본),https://www.sec.gov/Archives/edgar/data/1341439/000095017025037143/,부채및자본 161378000000 − 총자본 17261000000,3
+Oracle,ORCL,2025Q1,2025-02-28,분기말 총자본(자기자본),17261000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1341439/000095017025037143/,,3
+Oracle,ORCL,2025Q1,2025-02-28,분기말 지배지분 자본,16730000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1341439/000095017025037143/,,3
+Oracle,ORCL,2025Q1,2025-02-28,분기말 종가,166.06,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/ORCL?interval=1d&events=splits (2025-02-28),,3
+Oracle,ORCL,2025Q1,2025-03-07,분기말 상장주식수,2804234000,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/1341439/000095017025037143/,dei:EntityCommonStockSharesOutstanding 클래스 합,3
+Oracle,ORCL,2025Q1,2025-02-28,분기말 시가총액,465671098040,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/ORCL?interval=1d&events=splits (2025-02-28) ; https://www.sec.gov/Archives/edgar/data/1341439/000095017025037143/,종가 166.06 × 주식수 2804234000,3
+Oracle,ORCL,2025Q2,2025-05-31,분기별 매출액,15903000000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/1341439/000095017025087926/ ; https://www.sec.gov/Archives/edgar/data/1341439/000095017025037143/,연간 57399000000 − 9개월누적 41496000000 (Revenues / 9개월 RevenueFromContractWithCustomerExcludingAssessedTax),3
+Oracle,ORCL,2025Q2,2025-05-31,분기별 영업이익,5109000000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/1341439/000095017025087926/ ; https://www.sec.gov/Archives/edgar/data/1341439/000095017025037143/,연간 17678000000 − 9개월누적 12569000000 (OperatingIncomeLoss),3
+Oracle,ORCL,2025Q2,2025-05-31,분기별 당기순이익(지배),3427000000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/1341439/000095017025087926/ ; https://www.sec.gov/Archives/edgar/data/1341439/000095017025037143/,연간 12443000000 − 9개월누적 9016000000 (NetIncomeLoss),3
+Oracle,ORCL,2025Q2,2025-05-31,분기별 영업활동현금흐름,6157000000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/1341439/000095017025087926/ ; https://www.sec.gov/Archives/edgar/data/1341439/000095017025037143/,누적 20821000000 − 직전누적 14664000000 (시작 2024-06-01),3
+Oracle,ORCL,2025Q2,2025-05-31,분기말 자산총계,168361000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1341439/000095017025087926/,,3
+Oracle,ORCL,2025Q2,2025-05-31,분기말 부채총계,147392000000,USD,계산(부채및자본-총자본),https://www.sec.gov/Archives/edgar/data/1341439/000095017025087926/,부채및자본 168361000000 − 총자본 20969000000,3
+Oracle,ORCL,2025Q2,2025-05-31,분기말 총자본(자기자본),20969000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1341439/000095017025087926/,,3
+Oracle,ORCL,2025Q2,2025-05-31,분기말 지배지분 자본,20451000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1341439/000095017025087926/,,3
+Oracle,ORCL,2025Q2,2025-05-30,분기말 종가,165.53,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/ORCL?interval=1d&events=splits (2025-05-30),,3
+Oracle,ORCL,2025Q2,2025-06-13,분기말 상장주식수,2808833000,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/1341439/000095017025087926/,dei:EntityCommonStockSharesOutstanding 클래스 합,3
+Oracle,ORCL,2025Q2,2025-05-30,분기말 시가총액,464946126490,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/ORCL?interval=1d&events=splits (2025-05-30) ; https://www.sec.gov/Archives/edgar/data/1341439/000095017025087926/,종가 165.53 × 주식수 2808833000,3
+Oracle,ORCL,2025Q3,2025-08-31,분기별 매출액,14926000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1341439/000119312525200095/,,3
+Oracle,ORCL,2025Q3,2025-08-31,분기별 영업이익,4277000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1341439/000119312525200095/,,3
+Oracle,ORCL,2025Q3,2025-08-31,분기별 당기순이익(지배),2927000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1341439/000119312525200095/,,3
+Oracle,ORCL,2025Q3,2025-08-31,분기별 영업활동현금흐름,8140000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1341439/000119312525200095/,,3
+Oracle,ORCL,2025Q3,2025-08-31,분기말 자산총계,180449000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1341439/000119312525200095/,,3
+Oracle,ORCL,2025Q3,2025-08-31,분기말 부채총계,155783000000,USD,계산(부채및자본-총자본),https://www.sec.gov/Archives/edgar/data/1341439/000119312525200095/,부채및자본 180449000000 − 총자본 24666000000,3
+Oracle,ORCL,2025Q3,2025-08-31,분기말 총자본(자기자본),24666000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1341439/000119312525200095/,,3
+Oracle,ORCL,2025Q3,2025-08-31,분기말 지배지분 자본,24154000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1341439/000119312525200095/,,3
+Oracle,ORCL,2025Q3,2025-08-29,분기말 종가,226.13,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/ORCL?interval=1d&events=splits (2025-08-29),,3
+Oracle,ORCL,2025Q3,2025-09-05,분기말 상장주식수,2841714000,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/1341439/000119312525200095/,dei:EntityCommonStockSharesOutstanding 클래스 합,3
+Oracle,ORCL,2025Q3,2025-08-29,분기말 시가총액,642596786820,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/ORCL?interval=1d&events=splits (2025-08-29) ; https://www.sec.gov/Archives/edgar/data/1341439/000119312525200095/,종가 226.13 × 주식수 2841714000,3
+Oracle,ORCL,2025Q4,2025-11-30,분기별 매출액,16058000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1341439/000119312525315925/,,3
+Oracle,ORCL,2025Q4,2025-11-30,분기별 영업이익,4731000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1341439/000119312525315925/,,3
+Oracle,ORCL,2025Q4,2025-11-30,분기별 당기순이익(지배),6135000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1341439/000119312525315925/,,3
+Oracle,ORCL,2025Q4,2025-11-30,분기별 영업활동현금흐름,2066000000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/1341439/000119312525315925/ ; https://www.sec.gov/Archives/edgar/data/1341439/000119312525200095/,누적 10206000000 − 직전누적 8140000000 (시작 2025-06-01),3
+Oracle,ORCL,2025Q4,2025-11-30,분기말 자산총계,204984000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1341439/000119312525315925/,,3
+Oracle,ORCL,2025Q4,2025-11-30,분기말 부채총계,174527000000,USD,계산(부채및자본-총자본),https://www.sec.gov/Archives/edgar/data/1341439/000119312525315925/,부채및자본 204984000000 − 총자본 30457000000,3
+Oracle,ORCL,2025Q4,2025-11-30,분기말 총자본(자기자본),30457000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1341439/000119312525315925/,,3
+Oracle,ORCL,2025Q4,2025-11-30,분기말 지배지분 자본,29951000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1341439/000119312525315925/,,3
+Oracle,ORCL,2025Q4,2025-11-28,분기말 종가,201.95,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/ORCL?interval=1d&events=splits (2025-11-28),,3
+Oracle,ORCL,2025Q4,2025-12-05,분기말 상장주식수,2873130000,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/1341439/000119312525315925/,dei:EntityCommonStockSharesOutstanding 클래스 합,3
+Oracle,ORCL,2025Q4,2025-11-28,분기말 시가총액,580228603500,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/ORCL?interval=1d&events=splits (2025-11-28) ; https://www.sec.gov/Archives/edgar/data/1341439/000119312525315925/,종가 201.95 × 주식수 2873130000,3
+Oracle,ORCL,2026Q1,2026-02-28,분기별 매출액,17190000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1341439/000119312526101045/,,3
+Oracle,ORCL,2026Q1,2026-02-28,분기별 영업이익,5464000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1341439/000119312526101045/,,3
+Oracle,ORCL,2026Q1,2026-02-28,분기별 당기순이익(지배),3721000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1341439/000119312526101045/,,3
+Oracle,ORCL,2026Q1,2026-02-28,분기별 영업활동현금흐름,7151000000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/1341439/000119312526101045/ ; https://www.sec.gov/Archives/edgar/data/1341439/000119312525315925/,누적 17357000000 − 직전누적 10206000000 (시작 2025-06-01),3
+Oracle,ORCL,2026Q1,2026-02-28,분기말 자산총계,245240000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1341439/000119312526101045/,,3
+Oracle,ORCL,2026Q1,2026-02-28,분기말 부채총계,206189000000,USD,계산(부채및자본-총자본),https://www.sec.gov/Archives/edgar/data/1341439/000119312526101045/,부채및자본 245240000000 − 총자본 39051000000,3
+Oracle,ORCL,2026Q1,2026-02-28,분기말 총자본(자기자본),39051000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1341439/000119312526101045/,,3
+Oracle,ORCL,2026Q1,2026-02-28,분기말 지배지분 자본,38495000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1341439/000119312526101045/,,3
+Oracle,ORCL,2026Q1,2026-02-27,분기말 종가,145.4,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/ORCL?interval=1d&events=splits (2026-02-27),,3
+Oracle,ORCL,2026Q1,2026-03-05,분기말 상장주식수,2876046000,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/1341439/000119312526101045/,dei:EntityCommonStockSharesOutstanding 클래스 합,3
+Oracle,ORCL,2026Q1,2026-02-27,분기말 시가총액,418177088400,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/ORCL?interval=1d&events=splits (2026-02-27) ; https://www.sec.gov/Archives/edgar/data/1341439/000119312526101045/,종가 145.4 × 주식수 2876046000,3
+Oracle,ORCL,2026Q2,2026-05-31,분기별 매출액,19184000000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/1341439/000119312526277521/ ; https://www.sec.gov/Archives/edgar/data/1341439/000119312526101045/,연간 67357000000 − 9개월누적 48173000000 (Revenues / 9개월 RevenueFromContractWithCustomerExcludingAssessedTax),3
+Oracle,ORCL,2026Q2,2026-05-31,분기별 영업이익,6133000000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/1341439/000119312526277521/ ; https://www.sec.gov/Archives/edgar/data/1341439/000119312526101045/,연간 20606000000 − 9개월누적 14473000000 (OperatingIncomeLoss),3
+Oracle,ORCL,2026Q2,2026-05-31,분기별 당기순이익(지배),4304000000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/1341439/000119312526277521/ ; https://www.sec.gov/Archives/edgar/data/1341439/000119312526101045/,연간 17087000000 − 9개월누적 12783000000 (NetIncomeLoss),3
+Oracle,ORCL,2026Q2,2026-05-31,분기별 영업활동현금흐름,14620000000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/1341439/000119312526277521/ ; https://www.sec.gov/Archives/edgar/data/1341439/000119312526101045/,누적 31977000000 − 직전누적 17357000000 (시작 2025-06-01),3
+Oracle,ORCL,2026Q2,2026-05-31,분기말 자산총계,261759000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1341439/000119312526277521/,,3
+Oracle,ORCL,2026Q2,2026-05-31,분기말 부채총계,218703000000,USD,계산(부채및자본-총자본),https://www.sec.gov/Archives/edgar/data/1341439/000119312526277521/,부채및자본 261759000000 − 총자본 43056000000,3
+Oracle,ORCL,2026Q2,2026-05-31,분기말 총자본(자기자본),43056000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1341439/000119312526277521/,,3
+Oracle,ORCL,2026Q2,2026-05-31,분기말 지배지분 자본,42508000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1341439/000119312526277521/,,3
+Oracle,ORCL,2026Q2,2026-05-29,분기말 종가,225.78,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/ORCL?interval=1d&events=splits (2026-05-29),,3
+Oracle,ORCL,2026Q2,2026-06-12,분기말 상장주식수,2880471000,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/1341439/000119312526277521/,dei:EntityCommonStockSharesOutstanding 클래스 합,3
+Oracle,ORCL,2026Q2,2026-05-29,분기말 시가총액,650352742380,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/ORCL?interval=1d&events=splits (2026-05-29) ; https://www.sec.gov/Archives/edgar/data/1341439/000119312526277521/,종가 225.78 × 주식수 2880471000,3

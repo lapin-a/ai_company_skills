@@ -1,0 +1,727 @@
+﻿기업,종목코드,기간,기준일,항목,값,통화,값구분,출처,검산,라운드
+ONEOK,OKE,2010Q1,2010-06-30,분기별 매출액,2807131000,USD,공시,https://www.sec.gov/Archives/edgar/data/1039684/000090928110000134/,,10
+ONEOK,OKE,2010Q1,2010-06-30,분기별 영업이익,178713000,USD,공시,https://www.sec.gov/Archives/edgar/data/1039684/000090928110000134/,,10
+ONEOK,OKE,2010Q1,2010-06-30,분기별 당기순이익(지배),41724000,USD,공시,https://www.sec.gov/Archives/edgar/data/1039684/000090928110000134/,,10
+ONEOK,OKE,2010Q1,2010-06-30,분기별 영업활동현금흐름,데이터 없음(직전 분기 누적 보고서 없음),USD,데이터 없음(직전 보고서 없음),https://www.sec.gov/Archives/edgar/data/1039684/000090928110000134/,,10
+ONEOK,OKE,2010Q1,2010-06-30,분기말 자산총계,12119911000,USD,공시,https://www.sec.gov/Archives/edgar/data/1039684/000090928110000134/,,10
+ONEOK,OKE,2010Q1,2010-06-30,분기말 부채총계,8249337000,USD,계산(부채및자본-총자본),https://www.sec.gov/Archives/edgar/data/1039684/000090928110000134/,부채및자본 12119911000 − 총자본 3870574000,10
+ONEOK,OKE,2010Q1,2010-06-30,분기말 총자본(자기자본),3870574000,USD,공시,https://www.sec.gov/Archives/edgar/data/1039684/000090928110000134/,,10
+ONEOK,OKE,2010Q1,2010-06-30,분기말 지배지분 자본,2387229000,USD,공시,https://www.sec.gov/Archives/edgar/data/1039684/000090928110000134/,,10
+ONEOK,OKE,2010Q1,2010-06-30,분기말 종가,43.25,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/OKE?interval=1d&events=splits (2010-06-30),분할조정 종가 18.9328 × 이후 분할계수 2.2844,10
+ONEOK,OKE,2010Q1,2010-07-28,분기말 상장주식수,106418886,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/1039684/000090928110000134/,dei:EntityCommonStockSharesOutstanding 클래스 합,10
+ONEOK,OKE,2010Q1,2010-06-30,분기말 시가총액,4602616820,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/OKE?interval=1d&events=splits (2010-06-30) ; https://www.sec.gov/Archives/edgar/data/1039684/000090928110000134/,종가 43.25 × 주식수 106418886,10
+ONEOK,OKE,2010Q2,2010-09-30,분기별 매출액,2942703000,USD,공시,https://www.sec.gov/Archives/edgar/data/1039684/000103968410000043/,,10
+ONEOK,OKE,2010Q2,2010-09-30,분기별 영업이익,186904000,USD,공시,https://www.sec.gov/Archives/edgar/data/1039684/000103968410000043/,,10
+ONEOK,OKE,2010Q2,2010-09-30,분기별 당기순이익(지배),55295000,USD,공시,https://www.sec.gov/Archives/edgar/data/1039684/000103968410000043/,,10
+ONEOK,OKE,2010Q2,2010-09-30,분기별 영업활동현금흐름,168904000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/1039684/000103968410000043/ ; https://www.sec.gov/Archives/edgar/data/1039684/000090928110000134/,누적 760031000 − 직전누적 591127000 (시작 2010-01-01),10
+ONEOK,OKE,2010Q2,2010-09-30,분기말 자산총계,11929753000,USD,공시,https://www.sec.gov/Archives/edgar/data/1039684/000103968410000043/,,10
+ONEOK,OKE,2010Q2,2010-09-30,분기말 부채총계,8034358000,USD,계산(부채및자본-총자본),https://www.sec.gov/Archives/edgar/data/1039684/000103968410000043/,부채및자본 11929753000 − 총자본 3895395000,10
+ONEOK,OKE,2010Q2,2010-09-30,분기말 총자본(자기자본),3895395000,USD,공시,https://www.sec.gov/Archives/edgar/data/1039684/000103968410000043/,,10
+ONEOK,OKE,2010Q2,2010-09-30,분기말 지배지분 자본,2414479000,USD,공시,https://www.sec.gov/Archives/edgar/data/1039684/000103968410000043/,,10
+ONEOK,OKE,2010Q2,2010-09-30,분기말 종가,45.04,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/OKE?interval=1d&events=splits (2010-09-30),분할조정 종가 19.7163 × 이후 분할계수 2.2844,10
+ONEOK,OKE,2010Q2,2010-10-29,분기말 상장주식수,106491549,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/1039684/000103968410000043/,dei:EntityCommonStockSharesOutstanding 클래스 합,10
+ONEOK,OKE,2010Q2,2010-09-30,분기말 시가총액,4796379367,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/OKE?interval=1d&events=splits (2010-09-30) ; https://www.sec.gov/Archives/edgar/data/1039684/000103968410000043/,종가 45.04 × 주식수 106491549,10
+ONEOK,OKE,2010Q3,,분기별 매출액,미확인,,미확인,해당 라벨 보고서 없음,,10
+ONEOK,OKE,2010Q3,,분기별 영업이익,미확인,,미확인,해당 라벨 보고서 없음,,10
+ONEOK,OKE,2010Q3,,분기별 당기순이익(지배),미확인,,미확인,해당 라벨 보고서 없음,,10
+ONEOK,OKE,2010Q3,,분기별 영업활동현금흐름,미확인,,미확인,해당 라벨 보고서 없음,,10
+ONEOK,OKE,2010Q3,,분기말 자산총계,미확인,,미확인,해당 라벨 보고서 없음,,10
+ONEOK,OKE,2010Q3,,분기말 부채총계,미확인,,미확인,해당 라벨 보고서 없음,,10
+ONEOK,OKE,2010Q3,,분기말 총자본(자기자본),미확인,,미확인,해당 라벨 보고서 없음,,10
+ONEOK,OKE,2010Q3,,분기말 지배지분 자본,미확인,,미확인,해당 라벨 보고서 없음,,10
+ONEOK,OKE,2010Q3,,분기말 종가,미확인,,미확인,해당 라벨 보고서 없음,,10
+ONEOK,OKE,2010Q3,,분기말 상장주식수,미확인,,미확인,해당 라벨 보고서 없음,,10
+ONEOK,OKE,2010Q3,,분기말 시가총액,미확인,,미확인,해당 라벨 보고서 없음,,10
+ONEOK,OKE,2010Q4,2011-02-22,분기별 매출액,미확인,USD,미확인,https://www.sec.gov/Archives/edgar/data/1039684/000103968411000029/,,10
+ONEOK,OKE,2010Q4,2011-02-22,분기별 영업이익,미확인,USD,미확인,https://www.sec.gov/Archives/edgar/data/1039684/000103968411000029/,,10
+ONEOK,OKE,2010Q4,2011-02-22,분기별 당기순이익(지배),미확인,USD,미확인,https://www.sec.gov/Archives/edgar/data/1039684/000103968411000029/,,10
+ONEOK,OKE,2010Q4,2011-02-22,분기별 영업활동현금흐름,미확인,USD,미확인,https://www.sec.gov/Archives/edgar/data/1039684/000103968411000029/,,10
+ONEOK,OKE,2010Q4,2011-02-22,분기말 자산총계,미확인,USD,미확인,https://www.sec.gov/Archives/edgar/data/1039684/000103968411000029/,,10
+ONEOK,OKE,2010Q4,2011-02-22,분기말 부채총계,미확인,USD,미확인,https://www.sec.gov/Archives/edgar/data/1039684/000103968411000029/,,10
+ONEOK,OKE,2010Q4,2011-02-22,분기말 총자본(자기자본),미확인,USD,미확인,https://www.sec.gov/Archives/edgar/data/1039684/000103968411000029/,,10
+ONEOK,OKE,2010Q4,2011-02-22,분기말 지배지분 자본,미확인,USD,미확인,https://www.sec.gov/Archives/edgar/data/1039684/000103968411000029/,,10
+ONEOK,OKE,2010Q4,2011-02-22,분기말 종가,63.33,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/OKE?interval=1d&events=splits (2011-02-22),분할조정 종가 27.7228 × 이후 분할계수 2.2844,10
+ONEOK,OKE,2010Q4,2011-02-14,분기말 상장주식수,107021170,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/1039684/000103968411000029/,dei:EntityCommonStockSharesOutstanding 클래스 합,10
+ONEOK,OKE,2010Q4,2011-02-22,분기말 시가총액,6777650696,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/OKE?interval=1d&events=splits (2011-02-22) ; https://www.sec.gov/Archives/edgar/data/1039684/000103968411000029/,종가 63.33 × 주식수 107021170,10
+ONEOK,OKE,2011Q1,2011-05-04,분기별 매출액,미확인,USD,미확인,https://www.sec.gov/Archives/edgar/data/1039684/000103968411000056/,,10
+ONEOK,OKE,2011Q1,2011-05-04,분기별 영업이익,미확인,USD,미확인,https://www.sec.gov/Archives/edgar/data/1039684/000103968411000056/,,10
+ONEOK,OKE,2011Q1,2011-05-04,분기별 당기순이익(지배),미확인,USD,미확인,https://www.sec.gov/Archives/edgar/data/1039684/000103968411000056/,,10
+ONEOK,OKE,2011Q1,2011-05-04,분기별 영업활동현금흐름,미확인,USD,미확인,https://www.sec.gov/Archives/edgar/data/1039684/000103968411000056/,,10
+ONEOK,OKE,2011Q1,2011-05-04,분기말 자산총계,미확인,USD,미확인,https://www.sec.gov/Archives/edgar/data/1039684/000103968411000056/,,10
+ONEOK,OKE,2011Q1,2011-05-04,분기말 부채총계,미확인,USD,미확인,https://www.sec.gov/Archives/edgar/data/1039684/000103968411000056/,,10
+ONEOK,OKE,2011Q1,2011-05-04,분기말 총자본(자기자본),미확인,USD,미확인,https://www.sec.gov/Archives/edgar/data/1039684/000103968411000056/,,10
+ONEOK,OKE,2011Q1,2011-05-04,분기말 지배지분 자본,미확인,USD,미확인,https://www.sec.gov/Archives/edgar/data/1039684/000103968411000056/,,10
+ONEOK,OKE,2011Q1,2011-05-04,분기말 종가,67.45,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/OKE?interval=1d&events=splits (2011-05-04),분할조정 종가 29.5264 × 이후 분할계수 2.2844,10
+ONEOK,OKE,2011Q1,2011-04-28,분기말 상장주식수,107120130,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/1039684/000103968411000056/,dei:EntityCommonStockSharesOutstanding 클래스 합,10
+ONEOK,OKE,2011Q1,2011-05-04,분기말 시가총액,7225252768,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/OKE?interval=1d&events=splits (2011-05-04) ; https://www.sec.gov/Archives/edgar/data/1039684/000103968411000056/,종가 67.45 × 주식수 107120130,10
+ONEOK,OKE,2011Q2,2011-06-30,분기별 매출액,3514476000,USD,공시,https://www.sec.gov/Archives/edgar/data/1039684/000103968411000097/,,10
+ONEOK,OKE,2011Q2,2011-06-30,분기별 영업이익,216917000,USD,공시,https://www.sec.gov/Archives/edgar/data/1039684/000103968411000097/,,10
+ONEOK,OKE,2011Q2,2011-06-30,분기별 당기순이익(지배),55142000,USD,공시,https://www.sec.gov/Archives/edgar/data/1039684/000103968411000097/,,10
+ONEOK,OKE,2011Q2,2011-06-30,분기별 영업활동현금흐름,데이터 없음(직전 분기 누적 보고서 없음),USD,데이터 없음(직전 보고서 없음),https://www.sec.gov/Archives/edgar/data/1039684/000103968411000097/,,10
+ONEOK,OKE,2011Q2,2011-06-30,분기말 자산총계,13036333000,USD,공시,https://www.sec.gov/Archives/edgar/data/1039684/000103968411000097/,,10
+ONEOK,OKE,2011Q2,2011-06-30,분기말 부채총계,9338629000,USD,계산(부채및자본-총자본),https://www.sec.gov/Archives/edgar/data/1039684/000103968411000097/,부채및자본 13036333000 − 총자본 3697704000,10
+ONEOK,OKE,2011Q2,2011-06-30,분기말 총자본(자기자본),3697704000,USD,공시,https://www.sec.gov/Archives/edgar/data/1039684/000103968411000097/,,10
+ONEOK,OKE,2011Q2,2011-06-30,분기말 지배지분 자본,2217089000,USD,공시,https://www.sec.gov/Archives/edgar/data/1039684/000103968411000097/,,10
+ONEOK,OKE,2011Q2,2011-06-30,분기말 종가,74.01,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/OKE?interval=1d&events=splits (2011-06-30),분할조정 종가 32.398 × 이후 분할계수 2.2844,10
+ONEOK,OKE,2011Q2,2011-07-28,분기말 상장주식수,103534175,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/1039684/000103968411000097/,dei:EntityCommonStockSharesOutstanding 클래스 합,10
+ONEOK,OKE,2011Q2,2011-06-30,분기말 시가총액,7662564292,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/OKE?interval=1d&events=splits (2011-06-30) ; https://www.sec.gov/Archives/edgar/data/1039684/000103968411000097/,종가 74.01 × 주식수 103534175,10
+ONEOK,OKE,2011Q3,2011-09-30,분기별 매출액,3595191000,USD,공시,https://www.sec.gov/Archives/edgar/data/1039684/000103968411000125/,,10
+ONEOK,OKE,2011Q3,2011-09-30,분기별 영업이익,248881000,USD,공시,https://www.sec.gov/Archives/edgar/data/1039684/000103968411000125/,,10
+ONEOK,OKE,2011Q3,2011-09-30,분기별 당기순이익(지배),60321000,USD,공시,https://www.sec.gov/Archives/edgar/data/1039684/000103968411000125/,,10
+ONEOK,OKE,2011Q3,2011-09-30,분기별 영업활동현금흐름,154020000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/1039684/000103968411000125/ ; https://www.sec.gov/Archives/edgar/data/1039684/000103968411000097/,누적 1029619000 − 직전누적 875599000 (시작 2011-01-01),10
+ONEOK,OKE,2011Q3,2011-09-30,분기말 자산총계,13171124000,USD,공시,https://www.sec.gov/Archives/edgar/data/1039684/000103968411000125/,,10
+ONEOK,OKE,2011Q3,2011-09-30,분기말 부채총계,9489064000,USD,계산(부채및자본-총자본),https://www.sec.gov/Archives/edgar/data/1039684/000103968411000125/,부채및자본 13171124000 − 총자본 3682060000,10
+ONEOK,OKE,2011Q3,2011-09-30,분기말 총자본(자기자본),3682060000,USD,공시,https://www.sec.gov/Archives/edgar/data/1039684/000103968411000125/,,10
+ONEOK,OKE,2011Q3,2011-09-30,분기말 지배지분 자본,2185960000,USD,공시,https://www.sec.gov/Archives/edgar/data/1039684/000103968411000125/,,10
+ONEOK,OKE,2011Q3,2011-09-30,분기말 종가,66.04,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/OKE?interval=1d&events=splits (2011-09-30),분할조정 종가 28.9091 × 이후 분할계수 2.2844,10
+ONEOK,OKE,2011Q3,2011-10-27,분기말 상장주식수,102989141,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/1039684/000103968411000125/,dei:EntityCommonStockSharesOutstanding 클래스 합,10
+ONEOK,OKE,2011Q3,2011-09-30,분기말 시가총액,6801402872,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/OKE?interval=1d&events=splits (2011-09-30) ; https://www.sec.gov/Archives/edgar/data/1039684/000103968411000125/,종가 66.04 × 주식수 102989141,10
+ONEOK,OKE,2011Q4,2011-12-31,분기별 매출액,3829239000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/1039684/000103968412000027/ ; https://www.sec.gov/Archives/edgar/data/1039684/000103968411000125/,연간 14805794000 − 9개월누적 10976555000 (Revenues),10
+ONEOK,OKE,2011Q4,2011-12-31,분기별 영업이익,363079000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/1039684/000103968412000027/ ; https://www.sec.gov/Archives/edgar/data/1039684/000103968411000125/,연간 1158913000 − 9개월누적 795834000 (OperatingIncomeLoss),10
+ONEOK,OKE,2011Q4,2011-12-31,분기별 당기순이익(지배),115001000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/1039684/000103968412000027/ ; https://www.sec.gov/Archives/edgar/data/1039684/000103968411000125/,연간 360594000 − 9개월누적 245593000 (NetIncomeLoss),10
+ONEOK,OKE,2011Q4,2011-12-31,분기별 영업활동현금흐름,330353000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/1039684/000103968412000027/ ; https://www.sec.gov/Archives/edgar/data/1039684/000103968411000125/,누적 1359972000 − 직전누적 1029619000 (시작 2011-01-01),10
+ONEOK,OKE,2011Q4,2011-12-31,분기말 자산총계,13696635000,USD,공시,https://www.sec.gov/Archives/edgar/data/1039684/000103968412000027/,,10
+ONEOK,OKE,2011Q4,2011-12-31,분기말 부채총계,9896903000,USD,계산(부채및자본-총자본),https://www.sec.gov/Archives/edgar/data/1039684/000103968412000027/,부채및자본 13696635000 − 총자본 3799732000,10
+ONEOK,OKE,2011Q4,2011-12-31,분기말 총자본(자기자본),3799732000,USD,공시,https://www.sec.gov/Archives/edgar/data/1039684/000103968412000027/,,10
+ONEOK,OKE,2011Q4,2011-12-31,분기말 지배지분 자본,2238573000,USD,공시,https://www.sec.gov/Archives/edgar/data/1039684/000103968412000027/,,10
+ONEOK,OKE,2011Q4,2011-12-30,분기말 종가,86.69,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/OKE?interval=1d&events=splits (2011-12-30),분할조정 종가 37.9487 × 이후 분할계수 2.2844,10
+ONEOK,OKE,2011Q4,2012-02-14,분기말 상장주식수,103893790,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/1039684/000103968412000027/,dei:EntityCommonStockSharesOutstanding 클래스 합,10
+ONEOK,OKE,2011Q4,2011-12-30,분기말 시가총액,9006552655,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/OKE?interval=1d&events=splits (2011-12-30) ; https://www.sec.gov/Archives/edgar/data/1039684/000103968412000027/,종가 86.69 × 주식수 103893790,10
+ONEOK,OKE,2012Q1,2012-03-31,분기별 매출액,3414600000,USD,공시,https://www.sec.gov/Archives/edgar/data/1039684/000103968412000046/,,10
+ONEOK,OKE,2012Q1,2012-03-31,분기별 영업이익,325922000,USD,공시,https://www.sec.gov/Archives/edgar/data/1039684/000103968412000046/,,10
+ONEOK,OKE,2012Q1,2012-03-31,분기별 당기순이익(지배),122865000,USD,공시,https://www.sec.gov/Archives/edgar/data/1039684/000103968412000046/,,10
+ONEOK,OKE,2012Q1,2012-03-31,분기별 영업활동현금흐름,426085000,USD,공시,https://www.sec.gov/Archives/edgar/data/1039684/000103968412000046/,,10
+ONEOK,OKE,2012Q1,2012-03-31,분기말 자산총계,14252076000,USD,공시,https://www.sec.gov/Archives/edgar/data/1039684/000103968412000046/,,10
+ONEOK,OKE,2012Q1,2012-03-31,분기말 부채총계,9872621000,USD,계산(부채및자본-총자본),https://www.sec.gov/Archives/edgar/data/1039684/000103968412000046/,부채및자본 14252076000 − 총자본 4379455000,10
+ONEOK,OKE,2012Q1,2012-03-31,분기말 총자본(자기자본),4379455000,USD,공시,https://www.sec.gov/Archives/edgar/data/1039684/000103968412000046/,,10
+ONEOK,OKE,2012Q1,2012-03-31,분기말 지배지분 자본,2256152000,USD,공시,https://www.sec.gov/Archives/edgar/data/1039684/000103968412000046/,,10
+ONEOK,OKE,2012Q1,2012-03-30,분기말 종가,81.66,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/OKE?interval=1d&events=splits (2012-03-30),분할조정 종가 35.7468 × 이후 분할계수 2.2844,10
+ONEOK,OKE,2012Q1,2012-04-27,분기말 상장주식수,103926470,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/1039684/000103968412000046/,dei:EntityCommonStockSharesOutstanding 클래스 합,10
+ONEOK,OKE,2012Q1,2012-03-30,분기말 시가총액,8486635540,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/OKE?interval=1d&events=splits (2012-03-30) ; https://www.sec.gov/Archives/edgar/data/1039684/000103968412000046/,종가 81.66 × 주식수 103926470,10
+ONEOK,OKE,2012Q2,2012-06-30,분기별 매출액,2529260000,USD,공시,https://www.sec.gov/Archives/edgar/data/1039684/000103968412000084/,,10
+ONEOK,OKE,2012Q2,2012-06-30,분기별 영업이익,234079000,USD,공시,https://www.sec.gov/Archives/edgar/data/1039684/000103968412000084/,,10
+ONEOK,OKE,2012Q2,2012-06-30,분기별 당기순이익(지배),60993000,USD,공시,https://www.sec.gov/Archives/edgar/data/1039684/000103968412000084/,,10
+ONEOK,OKE,2012Q2,2012-06-30,분기별 영업활동현금흐름,226525000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/1039684/000103968412000084/ ; https://www.sec.gov/Archives/edgar/data/1039684/000103968412000046/,누적 652610000 − 직전누적 426085000 (시작 2012-01-01),10
+ONEOK,OKE,2012Q2,2012-06-30,분기말 자산총계,13817191000,USD,공시,https://www.sec.gov/Archives/edgar/data/1039684/000103968412000084/,,10
+ONEOK,OKE,2012Q2,2012-06-30,분기말 부채총계,9611203000,USD,계산(부채및자본-총자본),https://www.sec.gov/Archives/edgar/data/1039684/000103968412000084/,부채및자본 13817191000 − 총자본 4205988000,10
+ONEOK,OKE,2012Q2,2012-06-30,분기말 총자본(자기자본),4205988000,USD,공시,https://www.sec.gov/Archives/edgar/data/1039684/000103968412000084/,,10
+ONEOK,OKE,2012Q2,2012-06-30,분기말 지배지분 자본,2089540000,USD,공시,https://www.sec.gov/Archives/edgar/data/1039684/000103968412000084/,,10
+ONEOK,OKE,2012Q2,2012-06-29,분기말 종가,42.31,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/OKE?interval=1d&events=splits (2012-06-29),분할조정 종가 37.0425 × 이후 분할계수 1.1422,10
+ONEOK,OKE,2012Q2,2012-07-27,분기말 상장주식수,205056209,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/1039684/000103968412000084/,dei:EntityCommonStockSharesOutstanding 클래스 합,10
+ONEOK,OKE,2012Q2,2012-06-29,분기말 시가총액,8675928203,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/OKE?interval=1d&events=splits (2012-06-29) ; https://www.sec.gov/Archives/edgar/data/1039684/000103968412000084/,종가 42.31 × 주식수 205056209,10
+ONEOK,OKE,2012Q3,2012-09-30,분기별 매출액,3028775000,USD,공시,https://www.sec.gov/Archives/edgar/data/1039684/000103968412000108/,,10
+ONEOK,OKE,2012Q3,2012-09-30,분기별 영업이익,242913000,USD,공시,https://www.sec.gov/Archives/edgar/data/1039684/000103968412000108/,,10
+ONEOK,OKE,2012Q3,2012-09-30,분기별 당기순이익(지배),65219000,USD,공시,https://www.sec.gov/Archives/edgar/data/1039684/000103968412000108/,,10
+ONEOK,OKE,2012Q3,2012-09-30,분기별 영업활동현금흐름,110249000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/1039684/000103968412000108/ ; https://www.sec.gov/Archives/edgar/data/1039684/000103968412000084/,누적 762859000 − 직전누적 652610000 (시작 2012-01-01),10
+ONEOK,OKE,2012Q3,2012-09-30,분기말 자산총계,15364307000,USD,공시,https://www.sec.gov/Archives/edgar/data/1039684/000103968412000108/,,10
+ONEOK,OKE,2012Q3,2012-09-30,분기말 부채총계,11188748000,USD,계산(부채및자본-총자본),https://www.sec.gov/Archives/edgar/data/1039684/000103968412000108/,부채및자본 15364307000 − 총자본 4175559000,10
+ONEOK,OKE,2012Q3,2012-09-30,분기말 총자본(자기자본),4175559000,USD,공시,https://www.sec.gov/Archives/edgar/data/1039684/000103968412000108/,,10
+ONEOK,OKE,2012Q3,2012-09-30,분기말 지배지분 자본,2065706000,USD,공시,https://www.sec.gov/Archives/edgar/data/1039684/000103968412000108/,,10
+ONEOK,OKE,2012Q3,2012-09-28,분기말 종가,48.31,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/OKE?interval=1d&events=splits (2012-09-28),분할조정 종가 42.2956 × 이후 분할계수 1.1422,10
+ONEOK,OKE,2012Q3,2012-10-26,분기말 상장주식수,204613070,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/1039684/000103968412000108/,dei:EntityCommonStockSharesOutstanding 클래스 합,10
+ONEOK,OKE,2012Q3,2012-09-28,분기말 시가총액,9884857412,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/OKE?interval=1d&events=splits (2012-09-28) ; https://www.sec.gov/Archives/edgar/data/1039684/000103968412000108/,종가 48.31 × 주식수 204613070,10
+ONEOK,OKE,2012Q4,2012-12-31,분기별 매출액,3659924000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/1039684/000103968413000024/ ; https://www.sec.gov/Archives/edgar/data/1039684/000103968412000108/,연간 12632559000 − 9개월누적 8972635000 (Revenues),10
+ONEOK,OKE,2012Q4,2012-12-31,분기별 영업이익,299586000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/1039684/000103968413000024/ ; https://www.sec.gov/Archives/edgar/data/1039684/000103968412000108/,연간 1102500000 − 9개월누적 802914000 (OperatingIncomeLoss),10
+ONEOK,OKE,2012Q4,2012-12-31,분기별 당기순이익(지배),111542000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/1039684/000103968413000024/ ; https://www.sec.gov/Archives/edgar/data/1039684/000103968412000108/,연간 360619000 − 9개월누적 249077000 (NetIncomeLoss),10
+ONEOK,OKE,2012Q4,2012-12-31,분기별 영업활동현금흐름,228084000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/1039684/000103968413000024/ ; https://www.sec.gov/Archives/edgar/data/1039684/000103968412000108/,누적 990943000 − 직전누적 762859000 (시작 2012-01-01),10
+ONEOK,OKE,2012Q4,2012-12-31,분기말 자산총계,15855275000,USD,공시,https://www.sec.gov/Archives/edgar/data/1039684/000103968413000024/,,10
+ONEOK,OKE,2012Q4,2012-12-31,분기말 부채총계,11622825000,USD,계산(부채및자본-총자본),https://www.sec.gov/Archives/edgar/data/1039684/000103968413000024/,부채및자본 15855275000 − 총자본 4232450000,10
+ONEOK,OKE,2012Q4,2012-12-31,분기말 총자본(자기자본),4232450000,USD,공시,https://www.sec.gov/Archives/edgar/data/1039684/000103968413000024/,,10
+ONEOK,OKE,2012Q4,2012-12-31,분기말 지배지분 자본,2129609000,USD,공시,https://www.sec.gov/Archives/edgar/data/1039684/000103968413000024/,,10
+ONEOK,OKE,2012Q4,2012-12-31,분기말 종가,42.75,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/OKE?interval=1d&events=splits (2012-12-31),분할조정 종가 37.4278 × 이후 분할계수 1.1422,10
+ONEOK,OKE,2012Q4,2013-02-19,분기말 상장주식수,204994065,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/1039684/000103968413000024/,dei:EntityCommonStockSharesOutstanding 클래스 합,10
+ONEOK,OKE,2012Q4,2012-12-31,분기말 시가총액,8763496279,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/OKE?interval=1d&events=splits (2012-12-31) ; https://www.sec.gov/Archives/edgar/data/1039684/000103968413000024/,종가 42.75 × 주식수 204994065,10
+ONEOK,OKE,2013Q1,2013-03-31,분기별 매출액,3541445000,USD,공시,https://www.sec.gov/Archives/edgar/data/1039684/000103968413000042/,,10
+ONEOK,OKE,2013Q1,2013-03-31,분기별 영업이익,273849000,USD,공시,https://www.sec.gov/Archives/edgar/data/1039684/000103968413000042/,,10
+ONEOK,OKE,2013Q1,2013-03-31,분기별 당기순이익(지배),112521000,USD,공시,https://www.sec.gov/Archives/edgar/data/1039684/000103968413000042/,,10
+ONEOK,OKE,2013Q1,2013-03-31,분기별 영업활동현금흐름,471498000,USD,공시,https://www.sec.gov/Archives/edgar/data/1039684/000103968413000042/,,10
+ONEOK,OKE,2013Q1,2013-03-31,분기말 자산총계,15446219000,USD,공시,https://www.sec.gov/Archives/edgar/data/1039684/000103968413000042/,,10
+ONEOK,OKE,2013Q1,2013-03-31,분기말 부채총계,11242086000,USD,계산(부채및자본-총자본),https://www.sec.gov/Archives/edgar/data/1039684/000103968413000042/,부채및자본 15446219000 − 총자본 4204133000,10
+ONEOK,OKE,2013Q1,2013-03-31,분기말 총자본(자기자본),4204133000,USD,공시,https://www.sec.gov/Archives/edgar/data/1039684/000103968413000042/,,10
+ONEOK,OKE,2013Q1,2013-03-31,분기말 지배지분 자본,2134354000,USD,공시,https://www.sec.gov/Archives/edgar/data/1039684/000103968413000042/,,10
+ONEOK,OKE,2013Q1,2013-03-28,분기말 종가,47.67,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/OKE?interval=1d&events=splits (2013-03-28),분할조정 종가 41.7352 × 이후 분할계수 1.1422,10
+ONEOK,OKE,2013Q1,2013-04-25,분기말 상장주식수,206107055,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/1039684/000103968413000042/,dei:EntityCommonStockSharesOutstanding 클래스 합,10
+ONEOK,OKE,2013Q1,2013-03-28,분기말 시가총액,9825123312,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/OKE?interval=1d&events=splits (2013-03-28) ; https://www.sec.gov/Archives/edgar/data/1039684/000103968413000042/,종가 47.67 × 주식수 206107055,10
+ONEOK,OKE,2013Q2,2013-06-30,분기별 매출액,3349236000,USD,공시,https://www.sec.gov/Archives/edgar/data/1039684/000103968413000082/,,10
+ONEOK,OKE,2013Q2,2013-06-30,분기별 영업이익,128183000,USD,공시,https://www.sec.gov/Archives/edgar/data/1039684/000103968413000082/,,10
+ONEOK,OKE,2013Q2,2013-06-30,분기별 당기순이익(지배),919000,USD,공시,https://www.sec.gov/Archives/edgar/data/1039684/000103968413000082/,,10
+ONEOK,OKE,2013Q2,2013-06-30,분기별 영업활동현금흐름,316783000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/1039684/000103968413000082/ ; https://www.sec.gov/Archives/edgar/data/1039684/000103968413000042/,누적 788281000 − 직전누적 471498000 (시작 2013-01-01),10
+ONEOK,OKE,2013Q2,2013-06-30,분기말 자산총계,15842274000,USD,공시,https://www.sec.gov/Archives/edgar/data/1039684/000103968413000082/,,10
+ONEOK,OKE,2013Q2,2013-06-30,분기말 부채총계,11667918000,USD,계산(부채및자본-총자본),https://www.sec.gov/Archives/edgar/data/1039684/000103968413000082/,부채및자본 15842274000 − 총자본 4174356000,10
+ONEOK,OKE,2013Q2,2013-06-30,분기말 총자본(자기자본),4174356000,USD,공시,https://www.sec.gov/Archives/edgar/data/1039684/000103968413000082/,,10
+ONEOK,OKE,2013Q2,2013-06-30,분기말 지배지분 자본,2085349000,USD,공시,https://www.sec.gov/Archives/edgar/data/1039684/000103968413000082/,,10
+ONEOK,OKE,2013Q2,2013-06-28,분기말 종가,41.31,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/OKE?interval=1d&events=splits (2013-06-28),분할조정 종가 36.167 × 이후 분할계수 1.1422,10
+ONEOK,OKE,2013Q2,2013-07-24,분기말 상장주식수,206201125,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/1039684/000103968413000082/,dei:EntityCommonStockSharesOutstanding 클래스 합,10
+ONEOK,OKE,2013Q2,2013-06-28,분기말 시가총액,8518168474,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/OKE?interval=1d&events=splits (2013-06-28) ; https://www.sec.gov/Archives/edgar/data/1039684/000103968413000082/,종가 41.31 × 주식수 206201125,10
+ONEOK,OKE,2013Q3,2013-09-30,분기별 매출액,3571925000,USD,공시,https://www.sec.gov/Archives/edgar/data/1039684/000103968413000100/,,10
+ONEOK,OKE,2013Q3,2013-09-30,분기별 영업이익,230081000,USD,공시,https://www.sec.gov/Archives/edgar/data/1039684/000103968413000100/,,10
+ONEOK,OKE,2013Q3,2013-09-30,분기별 당기순이익(지배),62356000,USD,공시,https://www.sec.gov/Archives/edgar/data/1039684/000103968413000100/,,10
+ONEOK,OKE,2013Q3,2013-09-30,분기별 영업활동현금흐름,233265000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/1039684/000103968413000100/ ; https://www.sec.gov/Archives/edgar/data/1039684/000103968413000082/,누적 1021546000 − 직전누적 788281000 (시작 2013-01-01),10
+ONEOK,OKE,2013Q3,2013-09-30,분기말 자산총계,17610343000,USD,공시,https://www.sec.gov/Archives/edgar/data/1039684/000103968413000100/,,10
+ONEOK,OKE,2013Q3,2013-09-30,분기말 부채총계,12919697000,USD,계산(부채및자본-총자본),https://www.sec.gov/Archives/edgar/data/1039684/000103968413000100/,부채및자본 17610343000 − 총자본 4690646000,10
+ONEOK,OKE,2013Q3,2013-09-30,분기말 총자본(자기자본),4690646000,USD,공시,https://www.sec.gov/Archives/edgar/data/1039684/000103968413000100/,,10
+ONEOK,OKE,2013Q3,2013-09-30,분기말 지배지분 자본,2189694000,USD,공시,https://www.sec.gov/Archives/edgar/data/1039684/000103968413000100/,,10
+ONEOK,OKE,2013Q3,2013-09-30,분기말 종가,53.32,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/OKE?interval=1d&events=splits (2013-09-30),분할조정 종가 46.6818 × 이후 분할계수 1.1422,10
+ONEOK,OKE,2013Q3,2013-10-29,분기말 상장주식수,206286720,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/1039684/000103968413000100/,dei:EntityCommonStockSharesOutstanding 클래스 합,10
+ONEOK,OKE,2013Q3,2013-09-30,분기말 시가총액,10999207910,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/OKE?interval=1d&events=splits (2013-09-30) ; https://www.sec.gov/Archives/edgar/data/1039684/000103968413000100/,종가 53.32 × 주식수 206286720,10
+ONEOK,OKE,2013Q4,2013-12-31,분기별 매출액,4140111000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/1039684/000103968414000019/ ; https://www.sec.gov/Archives/edgar/data/1039684/000103968413000100/,연간 14602717000 − 9개월누적 10462606000 (Revenues),10
+ONEOK,OKE,2013Q4,2013-12-31,분기별 영업이익,294621000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/1039684/000103968414000019/ ; https://www.sec.gov/Archives/edgar/data/1039684/000103968413000100/,연간 926734000 − 9개월누적 632113000 (OperatingIncomeLoss),10
+ONEOK,OKE,2013Q4,2013-12-31,분기별 당기순이익(지배),90737000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/1039684/000103968414000019/ ; https://www.sec.gov/Archives/edgar/data/1039684/000103968413000100/,연간 266533000 − 9개월누적 175796000 (NetIncomeLoss),10
+ONEOK,OKE,2013Q4,2013-12-31,분기별 영업활동현금흐름,273221000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/1039684/000103968414000019/ ; https://www.sec.gov/Archives/edgar/data/1039684/000103968413000100/,누적 1294767000 − 직전누적 1021546000 (시작 2013-01-01),10
+ONEOK,OKE,2013Q4,2013-12-31,분기말 자산총계,17707558000,USD,공시,https://www.sec.gov/Archives/edgar/data/1039684/000103968414000019/,,10
+ONEOK,OKE,2013Q4,2013-12-31,분기말 부채총계,12862378000,USD,계산(부채및자본-총자본),https://www.sec.gov/Archives/edgar/data/1039684/000103968414000019/,부채및자본 17707558000 − 총자본 4845180000,10
+ONEOK,OKE,2013Q4,2013-12-31,분기말 총자본(자기자본),4845180000,USD,공시,https://www.sec.gov/Archives/edgar/data/1039684/000103968414000019/,,10
+ONEOK,OKE,2013Q4,2013-12-31,분기말 지배지분 자본,2337851000,USD,공시,https://www.sec.gov/Archives/edgar/data/1039684/000103968414000019/,,10
+ONEOK,OKE,2013Q4,2013-12-31,분기말 종가,62.18,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/OKE?interval=1d&events=splits (2013-12-31),분할조정 종가 54.4388 × 이후 분할계수 1.1422,10
+ONEOK,OKE,2013Q4,2014-02-19,분기말 상장주식수,207814086,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/1039684/000103968414000019/,dei:EntityCommonStockSharesOutstanding 클래스 합; 표지 기준일이 분할 후,10
+ONEOK,OKE,2013Q4,2013-12-31,분기말 시가총액,11313149945,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/OKE?interval=1d&events=splits (2013-12-31) ; https://www.sec.gov/Archives/edgar/data/1039684/000103968414000019/,종가 62.18 × 주식수 207814086 ÷ 분할비율 1.1422 (분할일 2014-02-03가 거래일 2013-12-31와 표지 기준일 2014-02-19 사이),10
+ONEOK,OKE,2014Q1,2014-03-31,분기별 매출액,3163296000,USD,공시,https://www.sec.gov/Archives/edgar/data/1039684/000103968414000034/,,10
+ONEOK,OKE,2014Q1,2014-03-31,분기별 영업이익,294117000,USD,공시,https://www.sec.gov/Archives/edgar/data/1039684/000103968414000034/,,10
+ONEOK,OKE,2014Q1,2014-03-31,분기별 당기순이익(지배),93515000,USD,공시,https://www.sec.gov/Archives/edgar/data/1039684/000103968414000034/,,10
+ONEOK,OKE,2014Q1,2014-03-31,분기별 영업활동현금흐름,490383000,USD,공시,https://www.sec.gov/Archives/edgar/data/1039684/000103968414000034/,,10
+ONEOK,OKE,2014Q1,2014-03-31,분기말 자산총계,13653134000,USD,공시,https://www.sec.gov/Archives/edgar/data/1039684/000103968414000034/,,10
+ONEOK,OKE,2014Q1,2014-03-31,분기말 부채총계,10525427000,USD,계산(부채및자본-총자본),https://www.sec.gov/Archives/edgar/data/1039684/000103968414000034/,부채및자본 13653134000 − 총자본 3127707000,10
+ONEOK,OKE,2014Q1,2014-03-31,분기말 총자본(자기자본),3127707000,USD,공시,https://www.sec.gov/Archives/edgar/data/1039684/000103968414000034/,,10
+ONEOK,OKE,2014Q1,2014-03-31,분기말 지배지분 자본,584500000,USD,공시,https://www.sec.gov/Archives/edgar/data/1039684/000103968414000034/,,10
+ONEOK,OKE,2014Q1,2014-03-31,분기말 종가,59.25,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/OKE?interval=1d&events=splits (2014-03-31),,10
+ONEOK,OKE,2014Q1,2014-04-29,분기말 상장주식수,207868687,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/1039684/000103968414000034/,dei:EntityCommonStockSharesOutstanding 클래스 합,10
+ONEOK,OKE,2014Q1,2014-03-31,분기말 시가총액,12316219705,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/OKE?interval=1d&events=splits (2014-03-31) ; https://www.sec.gov/Archives/edgar/data/1039684/000103968414000034/,종가 59.25 × 주식수 207868687,10
+ONEOK,OKE,2014Q2,2014-06-30,분기별 매출액,3066882000,USD,공시,https://www.sec.gov/Archives/edgar/data/1039684/000103968414000065/,,10
+ONEOK,OKE,2014Q2,2014-06-30,분기별 영업이익,251315000,USD,공시,https://www.sec.gov/Archives/edgar/data/1039684/000103968414000065/,,10
+ONEOK,OKE,2014Q2,2014-06-30,분기별 당기순이익(지배),61590000,USD,공시,https://www.sec.gov/Archives/edgar/data/1039684/000103968414000065/,,10
+ONEOK,OKE,2014Q2,2014-06-30,분기별 영업활동현금흐름,45924000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/1039684/000103968414000065/ ; https://www.sec.gov/Archives/edgar/data/1039684/000103968414000034/,누적 536307000 − 직전누적 490383000 (시작 2014-01-01),10
+ONEOK,OKE,2014Q2,2014-06-30,분기말 자산총계,14384538000,USD,공시,https://www.sec.gov/Archives/edgar/data/1039684/000103968414000065/,,10
+ONEOK,OKE,2014Q2,2014-06-30,분기말 부채총계,10591207000,USD,계산(부채및자본-총자본),https://www.sec.gov/Archives/edgar/data/1039684/000103968414000065/,부채및자본 14384538000 − 총자본 3793331000,10
+ONEOK,OKE,2014Q2,2014-06-30,분기말 총자본(자기자본),3793331000,USD,공시,https://www.sec.gov/Archives/edgar/data/1039684/000103968414000065/,,10
+ONEOK,OKE,2014Q2,2014-06-30,분기말 지배지분 자본,656425000,USD,공시,https://www.sec.gov/Archives/edgar/data/1039684/000103968414000065/,,10
+ONEOK,OKE,2014Q2,2014-06-30,분기말 종가,68.08,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/OKE?interval=1d&events=splits (2014-06-30),,10
+ONEOK,OKE,2014Q2,2014-07-29,분기말 상장주식수,208002586,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/1039684/000103968414000065/,dei:EntityCommonStockSharesOutstanding 클래스 합,10
+ONEOK,OKE,2014Q2,2014-06-30,분기말 시가총액,14160816055,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/OKE?interval=1d&events=splits (2014-06-30) ; https://www.sec.gov/Archives/edgar/data/1039684/000103968414000065/,종가 68.08 × 주식수 208002586,10
+ONEOK,OKE,2014Q3,2014-09-30,분기별 매출액,3120145000,USD,공시,https://www.sec.gov/Archives/edgar/data/1039684/000103968414000086/,,10
+ONEOK,OKE,2014Q3,2014-09-30,분기별 영업이익,291392000,USD,공시,https://www.sec.gov/Archives/edgar/data/1039684/000103968414000086/,,10
+ONEOK,OKE,2014Q3,2014-09-30,분기별 당기순이익(지배),64458000,USD,공시,https://www.sec.gov/Archives/edgar/data/1039684/000103968414000086/,,10
+ONEOK,OKE,2014Q3,2014-09-30,분기별 영업활동현금흐름,334232000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/1039684/000103968414000086/ ; https://www.sec.gov/Archives/edgar/data/1039684/000103968414000065/,누적 870539000 − 직전누적 536307000 (시작 2014-01-01),10
+ONEOK,OKE,2014Q3,2014-09-30,분기말 자산총계,14312196000,USD,공시,https://www.sec.gov/Archives/edgar/data/1039684/000103968414000086/,,10
+ONEOK,OKE,2014Q3,2014-09-30,분기말 부채총계,10552801000,USD,계산(부채및자본-총자본),https://www.sec.gov/Archives/edgar/data/1039684/000103968414000086/,부채및자본 14312196000 − 총자본 3759395000,10
+ONEOK,OKE,2014Q3,2014-09-30,분기말 총자본(자기자본),3759395000,USD,공시,https://www.sec.gov/Archives/edgar/data/1039684/000103968414000086/,,10
+ONEOK,OKE,2014Q3,2014-09-30,분기말 지배지분 자본,623232000,USD,공시,https://www.sec.gov/Archives/edgar/data/1039684/000103968414000086/,,10
+ONEOK,OKE,2014Q3,2014-09-30,분기말 종가,65.55,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/OKE?interval=1d&events=splits (2014-09-30),,10
+ONEOK,OKE,2014Q3,2014-10-28,분기말 상장주식수,208198062,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/1039684/000103968414000086/,dei:EntityCommonStockSharesOutstanding 클래스 합,10
+ONEOK,OKE,2014Q3,2014-09-30,분기말 시가총액,13647382964,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/OKE?interval=1d&events=splits (2014-09-30) ; https://www.sec.gov/Archives/edgar/data/1039684/000103968414000086/,종가 65.55 × 주식수 208198062,10
+ONEOK,OKE,2014Q4,2014-12-31,분기별 매출액,2844768000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/1039684/000103968415000017/ ; https://www.sec.gov/Archives/edgar/data/1039684/000103968414000086/,연간 12195091000 − 9개월누적 9350323000 (Revenues),10
+ONEOK,OKE,2014Q4,2014-12-31,분기별 영업이익,306747000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/1039684/000103968415000017/ ; https://www.sec.gov/Archives/edgar/data/1039684/000103968414000086/,연간 1143571000 − 9개월누적 836824000 (OperatingIncomeLoss),10
+ONEOK,OKE,2014Q4,2014-12-31,분기별 당기순이익(지배),94544000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/1039684/000103968415000017/ ; https://www.sec.gov/Archives/edgar/data/1039684/000103968414000086/,연간 314107000 − 9개월누적 219563000 (NetIncomeLoss),10
+ONEOK,OKE,2014Q4,2014-12-31,분기별 영업활동현금흐름,415071000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/1039684/000103968415000017/ ; https://www.sec.gov/Archives/edgar/data/1039684/000103968414000086/,누적 1285610000 − 직전누적 870539000 (시작 2014-01-01),10
+ONEOK,OKE,2014Q4,2014-12-31,분기말 자산총계,15261773000,USD,공시(재작성 반영),https://www.sec.gov/Archives/edgar/data/1039684/000103968417000019/,원 공시 15304560000 (https://www.sec.gov/Archives/edgar/data/1039684/000103968415000017/),10
+ONEOK,OKE,2014Q4,2014-12-31,분기말 부채총계,11255890000,USD,계산(부채및자본-총자본)(재작성 반영),https://www.sec.gov/Archives/edgar/data/1039684/000103968416000113/,부채및자본 15261773000 − 총자본 4005883000 ; 원 공시 11298677000 (https://www.sec.gov/Archives/edgar/data/1039684/000103968415000017/),10
+ONEOK,OKE,2014Q4,2014-12-31,분기말 총자본(자기자본),4005883000,USD,공시,https://www.sec.gov/Archives/edgar/data/1039684/000103968415000017/,,10
+ONEOK,OKE,2014Q4,2014-12-31,분기말 지배지분 자본,592115000,USD,공시,https://www.sec.gov/Archives/edgar/data/1039684/000103968415000017/,,10
+ONEOK,OKE,2014Q4,2014-12-31,분기말 종가,49.79,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/OKE?interval=1d&events=splits (2014-12-31),,10
+ONEOK,OKE,2014Q4,2015-02-19,분기말 상장주식수,208400547,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/1039684/000103968415000017/,dei:EntityCommonStockSharesOutstanding 클래스 합,10
+ONEOK,OKE,2014Q4,2014-12-31,분기말 시가총액,10376263235,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/OKE?interval=1d&events=splits (2014-12-31) ; https://www.sec.gov/Archives/edgar/data/1039684/000103968415000017/,종가 49.79 × 주식수 208400547,10
+ONEOK,OKE,2015Q1,2015-03-31,분기별 매출액,1805306000,USD,공시,https://www.sec.gov/Archives/edgar/data/1039684/000103968415000034/,,10
+ONEOK,OKE,2015Q1,2015-03-31,분기별 영업이익,196463000,USD,공시,https://www.sec.gov/Archives/edgar/data/1039684/000103968415000034/,,10
+ONEOK,OKE,2015Q1,2015-03-31,분기별 당기순이익(지배),60800000,USD,공시,https://www.sec.gov/Archives/edgar/data/1039684/000103968415000034/,,10
+ONEOK,OKE,2015Q1,2015-03-31,분기별 영업활동현금흐름,39270000,USD,공시,https://www.sec.gov/Archives/edgar/data/1039684/000103968415000034/,,10
+ONEOK,OKE,2015Q1,2015-03-31,분기말 자산총계,15533073000,USD,공시,https://www.sec.gov/Archives/edgar/data/1039684/000103968415000034/,,10
+ONEOK,OKE,2015Q1,2015-03-31,분기말 부채총계,11639785000,USD,계산(부채및자본-총자본),https://www.sec.gov/Archives/edgar/data/1039684/000103968415000034/,부채및자본 15533073000 − 총자본 3893288000,10
+ONEOK,OKE,2015Q1,2015-03-31,분기말 총자본(자기자본),3893288000,USD,공시,https://www.sec.gov/Archives/edgar/data/1039684/000103968415000034/,,10
+ONEOK,OKE,2015Q1,2015-03-31,분기말 지배지분 자본,530158000,USD,공시,https://www.sec.gov/Archives/edgar/data/1039684/000103968415000034/,,10
+ONEOK,OKE,2015Q1,2015-03-31,분기말 종가,48.24,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/OKE?interval=1d&events=splits (2015-03-31),,10
+ONEOK,OKE,2015Q1,2015-04-27,분기말 상장주식수,208760251,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/1039684/000103968415000034/,dei:EntityCommonStockSharesOutstanding 클래스 합,10
+ONEOK,OKE,2015Q1,2015-03-31,분기말 시가총액,10070594508,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/OKE?interval=1d&events=splits (2015-03-31) ; https://www.sec.gov/Archives/edgar/data/1039684/000103968415000034/,종가 48.24 × 주식수 208760251,10
+ONEOK,OKE,2015Q2,2015-06-30,분기별 매출액,2128052000,USD,공시,https://www.sec.gov/Archives/edgar/data/1039684/000103968415000060/,,10
+ONEOK,OKE,2015Q2,2015-06-30,분기별 영업이익,272744000,USD,공시,https://www.sec.gov/Archives/edgar/data/1039684/000103968415000060/,,10
+ONEOK,OKE,2015Q2,2015-06-30,분기별 당기순이익(지배),76505000,USD,공시,https://www.sec.gov/Archives/edgar/data/1039684/000103968415000060/,,10
+ONEOK,OKE,2015Q2,2015-06-30,분기별 영업활동현금흐름,294650000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/1039684/000103968415000060/ ; https://www.sec.gov/Archives/edgar/data/1039684/000103968415000034/,누적 333920000 − 직전누적 39270000 (시작 2015-01-01),10
+ONEOK,OKE,2015Q2,2015-06-30,분기말 자산총계,15651180000,USD,공시,https://www.sec.gov/Archives/edgar/data/1039684/000103968415000060/,,10
+ONEOK,OKE,2015Q2,2015-06-30,분기말 부채총계,11651821000,USD,계산(부채및자본-총자본),https://www.sec.gov/Archives/edgar/data/1039684/000103968415000060/,부채및자본 15651180000 − 총자본 3999359000,10
+ONEOK,OKE,2015Q2,2015-06-30,분기말 총자본(자기자본),3999359000,USD,공시,https://www.sec.gov/Archives/edgar/data/1039684/000103968415000060/,,10
+ONEOK,OKE,2015Q2,2015-06-30,분기말 지배지분 자본,517508000,USD,공시,https://www.sec.gov/Archives/edgar/data/1039684/000103968415000060/,,10
+ONEOK,OKE,2015Q2,2015-06-30,분기말 종가,39.48,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/OKE?interval=1d&events=splits (2015-06-30),,10
+ONEOK,OKE,2015Q2,2015-07-27,분기말 상장주식수,209166994,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/1039684/000103968415000060/,dei:EntityCommonStockSharesOutstanding 클래스 합,10
+ONEOK,OKE,2015Q2,2015-06-30,분기말 시가총액,8257912923,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/OKE?interval=1d&events=splits (2015-06-30) ; https://www.sec.gov/Archives/edgar/data/1039684/000103968415000060/,종가 39.48 × 주식수 209166994,10
+ONEOK,OKE,2015Q3,2015-09-30,분기별 매출액,1898946000,USD,공시,https://www.sec.gov/Archives/edgar/data/1039684/000103968415000076/,,10
+ONEOK,OKE,2015Q3,2015-09-30,분기별 영업이익,284935000,USD,공시,https://www.sec.gov/Archives/edgar/data/1039684/000103968415000076/,,10
+ONEOK,OKE,2015Q3,2015-09-30,분기별 당기순이익(지배),82157000,USD,공시,https://www.sec.gov/Archives/edgar/data/1039684/000103968415000076/,,10
+ONEOK,OKE,2015Q3,2015-09-30,분기별 영업활동현금흐름,361157000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/1039684/000103968415000076/ ; https://www.sec.gov/Archives/edgar/data/1039684/000103968415000060/,누적 695077000 − 직전누적 333920000 (시작 2015-01-01),10
+ONEOK,OKE,2015Q3,2015-09-30,분기말 자산총계,15508298000,USD,공시,https://www.sec.gov/Archives/edgar/data/1039684/000103968415000076/,,10
+ONEOK,OKE,2015Q3,2015-09-30,분기말 부채총계,11470993000,USD,계산(부채및자본-총자본),https://www.sec.gov/Archives/edgar/data/1039684/000103968415000076/,부채및자본 15508298000 − 총자본 4037305000,10
+ONEOK,OKE,2015Q3,2015-09-30,분기말 총자본(자기자본),4037305000,USD,공시,https://www.sec.gov/Archives/edgar/data/1039684/000103968415000076/,,10
+ONEOK,OKE,2015Q3,2015-09-30,분기말 지배지분 자본,414472000,USD,공시,https://www.sec.gov/Archives/edgar/data/1039684/000103968415000076/,,10
+ONEOK,OKE,2015Q3,2015-09-30,분기말 종가,32.2,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/OKE?interval=1d&events=splits (2015-09-30),,10
+ONEOK,OKE,2015Q3,2015-10-26,분기말 상장주식수,209277589,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/1039684/000103968415000076/,dei:EntityCommonStockSharesOutstanding 클래스 합,10
+ONEOK,OKE,2015Q3,2015-09-30,분기말 시가총액,6738738366,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/OKE?interval=1d&events=splits (2015-09-30) ; https://www.sec.gov/Archives/edgar/data/1039684/000103968415000076/,종가 32.2 × 주식수 209277589,10
+ONEOK,OKE,2015Q4,2015-12-31,분기별 매출액,1930902000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/1039684/000103968416000113/ ; https://www.sec.gov/Archives/edgar/data/1039684/000103968415000076/,연간 7763206000 − 9개월누적 5832304000 (Revenues),10
+ONEOK,OKE,2015Q4,2015-12-31,분기별 영업이익,242017000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/1039684/000103968416000113/ ; https://www.sec.gov/Archives/edgar/data/1039684/000103968415000076/,연간 996159000 − 9개월누적 754142000 (OperatingIncomeLoss),10
+ONEOK,OKE,2015Q4,2015-12-31,분기별 당기순이익(지배),25515000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/1039684/000103968416000113/ ; https://www.sec.gov/Archives/edgar/data/1039684/000103968415000076/,연간 244977000 − 9개월누적 219462000 (NetIncomeLoss),10
+ONEOK,OKE,2015Q4,2015-12-31,분기별 영업활동현금흐름,311903000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/1039684/000103968416000113/ ; https://www.sec.gov/Archives/edgar/data/1039684/000103968415000076/,누적 1006980000 − 직전누적 695077000 (시작 2015-01-01),10
+ONEOK,OKE,2015Q4,2015-12-31,분기말 자산총계,15446111000,USD,공시,https://www.sec.gov/Archives/edgar/data/1039684/000103968416000113/,,10
+ONEOK,OKE,2015Q4,2015-12-31,분기말 부채총계,11679775000,USD,계산(부채및자본-총자본),https://www.sec.gov/Archives/edgar/data/1039684/000103968416000113/,부채및자본 15446111000 − 총자본 3766336000,10
+ONEOK,OKE,2015Q4,2015-12-31,분기말 총자본(자기자본),3766336000,USD,공시,https://www.sec.gov/Archives/edgar/data/1039684/000103968416000113/,,10
+ONEOK,OKE,2015Q4,2015-12-31,분기말 지배지분 자본,335798000,USD,공시,https://www.sec.gov/Archives/edgar/data/1039684/000103968416000113/,,10
+ONEOK,OKE,2015Q4,2015-12-31,분기말 종가,24.66,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/OKE?interval=1d&events=splits (2015-12-31),,10
+ONEOK,OKE,2015Q4,2016-02-16,분기말 상장주식수,209989711,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/1039684/000103968416000113/,dei:EntityCommonStockSharesOutstanding 클래스 합,10
+ONEOK,OKE,2015Q4,2015-12-31,분기말 시가총액,5178346273,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/OKE?interval=1d&events=splits (2015-12-31) ; https://www.sec.gov/Archives/edgar/data/1039684/000103968416000113/,종가 24.66 × 주식수 209989711,10
+ONEOK,OKE,2016Q1,2016-03-31,분기별 매출액,1774459000,USD,공시,https://www.sec.gov/Archives/edgar/data/1039684/000103968416000126/,,10
+ONEOK,OKE,2016Q1,2016-03-31,분기별 영업이익,311434000,USD,공시,https://www.sec.gov/Archives/edgar/data/1039684/000103968416000126/,,10
+ONEOK,OKE,2016Q1,2016-03-31,분기별 당기순이익(지배),83446000,USD,공시,https://www.sec.gov/Archives/edgar/data/1039684/000103968416000126/,,10
+ONEOK,OKE,2016Q1,2016-03-31,분기별 영업활동현금흐름,229478000,USD,공시,https://www.sec.gov/Archives/edgar/data/1039684/000103968416000126/,,10
+ONEOK,OKE,2016Q1,2016-03-31,분기말 자산총계,15501149000,USD,공시,https://www.sec.gov/Archives/edgar/data/1039684/000103968416000126/,,10
+ONEOK,OKE,2016Q1,2016-03-31,분기말 부채총계,11855642000,USD,계산(부채및자본-총자본),https://www.sec.gov/Archives/edgar/data/1039684/000103968416000126/,부채및자본 15501149000 − 총자본 3645507000,10
+ONEOK,OKE,2016Q1,2016-03-31,분기말 총자본(자기자본),3645507000,USD,공시,https://www.sec.gov/Archives/edgar/data/1039684/000103968416000126/,,10
+ONEOK,OKE,2016Q1,2016-03-31,분기말 지배지분 자본,286888000,USD,공시,https://www.sec.gov/Archives/edgar/data/1039684/000103968416000126/,,10
+ONEOK,OKE,2016Q1,2016-03-31,분기말 종가,29.86,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/OKE?interval=1d&events=splits (2016-03-31),,10
+ONEOK,OKE,2016Q1,2016-04-25,분기말 상장주식수,210104547,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/1039684/000103968416000126/,dei:EntityCommonStockSharesOutstanding 클래스 합,10
+ONEOK,OKE,2016Q1,2016-03-31,분기말 시가총액,6273721773,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/OKE?interval=1d&events=splits (2016-03-31) ; https://www.sec.gov/Archives/edgar/data/1039684/000103968416000126/,종가 29.86 × 주식수 210104547,10
+ONEOK,OKE,2016Q2,2016-06-30,분기별 매출액,2134107000,USD,공시,https://www.sec.gov/Archives/edgar/data/1039684/000103968416000145/,,10
+ONEOK,OKE,2016Q2,2016-06-30,분기별 영업이익,315285000,USD,공시,https://www.sec.gov/Archives/edgar/data/1039684/000103968416000145/,,10
+ONEOK,OKE,2016Q2,2016-06-30,분기별 당기순이익(지배),85944000,USD,공시,https://www.sec.gov/Archives/edgar/data/1039684/000103968416000145/,,10
+ONEOK,OKE,2016Q2,2016-06-30,분기별 영업활동현금흐름,302128000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/1039684/000103968416000145/ ; https://www.sec.gov/Archives/edgar/data/1039684/000103968416000126/,누적 531606000 − 직전누적 229478000 (시작 2016-01-01),10
+ONEOK,OKE,2016Q2,2016-06-30,분기말 자산총계,15822900000,USD,공시,https://www.sec.gov/Archives/edgar/data/1039684/000103968416000145/,,10
+ONEOK,OKE,2016Q2,2016-06-30,분기말 부채총계,12330723000,USD,계산(부채및자본-총자본),https://www.sec.gov/Archives/edgar/data/1039684/000103968416000145/,부채및자본 15822900000 − 총자본 3492177000,10
+ONEOK,OKE,2016Q2,2016-06-30,분기말 총자본(자기자본),3492177000,USD,공시,https://www.sec.gov/Archives/edgar/data/1039684/000103968416000145/,,10
+ONEOK,OKE,2016Q2,2016-06-30,분기말 지배지분 자본,237429000,USD,공시,https://www.sec.gov/Archives/edgar/data/1039684/000103968416000145/,,10
+ONEOK,OKE,2016Q2,2016-06-30,분기말 종가,47.45,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/OKE?interval=1d&events=splits (2016-06-30),,10
+ONEOK,OKE,2016Q2,2016-07-25,분기말 상장주식수,210426799,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/1039684/000103968416000145/,dei:EntityCommonStockSharesOutstanding 클래스 합,10
+ONEOK,OKE,2016Q2,2016-06-30,분기말 시가총액,9984751613,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/OKE?interval=1d&events=splits (2016-06-30) ; https://www.sec.gov/Archives/edgar/data/1039684/000103968416000145/,종가 47.45 × 주식수 210426799,10
+ONEOK,OKE,2016Q3,2016-09-30,분기별 매출액,2357907000,USD,공시,https://www.sec.gov/Archives/edgar/data/1039684/000103968416000159/,,10
+ONEOK,OKE,2016Q3,2016-09-30,분기별 영업이익,329357000,USD,공시,https://www.sec.gov/Archives/edgar/data/1039684/000103968416000159/,,10
+ONEOK,OKE,2016Q3,2016-09-30,분기별 당기순이익(지배),92144000,USD,공시,https://www.sec.gov/Archives/edgar/data/1039684/000103968416000159/,,10
+ONEOK,OKE,2016Q3,2016-09-30,분기별 영업활동현금흐름,390422000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/1039684/000103968416000159/ ; https://www.sec.gov/Archives/edgar/data/1039684/000103968416000145/,누적 922028000 − 직전누적 531606000 (시작 2016-01-01),10
+ONEOK,OKE,2016Q3,2016-09-30,분기말 자산총계,15982035000,USD,공시,https://www.sec.gov/Archives/edgar/data/1039684/000103968416000159/,,10
+ONEOK,OKE,2016Q3,2016-09-30,분기말 부채총계,12541821000,USD,계산(부채및자본-총자본),https://www.sec.gov/Archives/edgar/data/1039684/000103968416000159/,부채및자본 15982035000 − 총자본 3440214000,10
+ONEOK,OKE,2016Q3,2016-09-30,분기말 총자본(자기자본),3440214000,USD,공시,https://www.sec.gov/Archives/edgar/data/1039684/000103968416000159/,,10
+ONEOK,OKE,2016Q3,2016-09-30,분기말 지배지분 자본,214296000,USD,공시,https://www.sec.gov/Archives/edgar/data/1039684/000103968416000159/,,10
+ONEOK,OKE,2016Q3,2016-09-30,분기말 종가,51.39,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/OKE?interval=1d&events=splits (2016-09-30),,10
+ONEOK,OKE,2016Q3,2016-10-24,분기말 상장주식수,210521971,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/1039684/000103968416000159/,dei:EntityCommonStockSharesOutstanding 클래스 합,10
+ONEOK,OKE,2016Q3,2016-09-30,분기말 시가총액,10818724090,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/OKE?interval=1d&events=splits (2016-09-30) ; https://www.sec.gov/Archives/edgar/data/1039684/000103968416000159/,종가 51.39 × 주식수 210521971,10
+ONEOK,OKE,2016Q4,2016-12-31,분기별 매출액,2654461000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/1039684/000103968417000019/ ; https://www.sec.gov/Archives/edgar/data/1039684/000103968416000159/,연간 8920934000 − 9개월누적 6266473000 (Revenues),10
+ONEOK,OKE,2016Q4,2016-12-31,분기별 영업이익,329600000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/1039684/000103968417000019/ ; https://www.sec.gov/Archives/edgar/data/1039684/000103968416000159/,연간 1285676000 − 9개월누적 956076000 (OperatingIncomeLoss),10
+ONEOK,OKE,2016Q4,2016-12-31,분기별 당기순이익(지배),90505000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/1039684/000103968417000019/ ; https://www.sec.gov/Archives/edgar/data/1039684/000103968416000159/,연간 352039000 − 9개월누적 261534000 (NetIncomeLoss),10
+ONEOK,OKE,2016Q4,2016-12-31,분기별 영업활동현금흐름,429586000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/1039684/000103968417000019/ ; https://www.sec.gov/Archives/edgar/data/1039684/000103968416000159/,누적 1351614000 − 직전누적 922028000 (시작 2016-01-01),10
+ONEOK,OKE,2016Q4,2016-12-31,분기말 자산총계,16138751000,USD,공시,https://www.sec.gov/Archives/edgar/data/1039684/000103968417000019/,,10
+ONEOK,OKE,2016Q4,2016-12-31,분기말 부채총계,12709836000,USD,계산(부채및자본-총자본),https://www.sec.gov/Archives/edgar/data/1039684/000103968417000019/,부채및자본 16138751000 − 총자본 3428915000,10
+ONEOK,OKE,2016Q4,2016-12-31,분기말 총자본(자기자본),3428915000,USD,공시,https://www.sec.gov/Archives/edgar/data/1039684/000103968417000019/,,10
+ONEOK,OKE,2016Q4,2016-12-31,분기말 지배지분 자본,188745000,USD,공시,https://www.sec.gov/Archives/edgar/data/1039684/000103968417000019/,,10
+ONEOK,OKE,2016Q4,2016-12-30,분기말 종가,57.41,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/OKE?interval=1d&events=splits (2016-12-30),,10
+ONEOK,OKE,2016Q4,2017-02-21,분기말 상장주식수,210757806,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/1039684/000103968417000019/,dei:EntityCommonStockSharesOutstanding 클래스 합,10
+ONEOK,OKE,2016Q4,2016-12-30,분기말 시가총액,12099605642,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/OKE?interval=1d&events=splits (2016-12-30) ; https://www.sec.gov/Archives/edgar/data/1039684/000103968417000019/,종가 57.41 × 주식수 210757806,10
+ONEOK,OKE,2017Q1,2017-03-31,분기별 매출액,2749611000,USD,공시,https://www.sec.gov/Archives/edgar/data/1039684/000103968417000045/,,10
+ONEOK,OKE,2017Q1,2017-03-31,분기별 영업이익,317137000,USD,공시(재작성 반영),https://www.sec.gov/Archives/edgar/data/1039684/000103968418000034/,원 공시 314420000 (https://www.sec.gov/Archives/edgar/data/1039684/000103968417000045/),10
+ONEOK,OKE,2017Q1,2017-03-31,분기별 당기순이익(지배),87361000,USD,공시,https://www.sec.gov/Archives/edgar/data/1039684/000103968417000045/,,10
+ONEOK,OKE,2017Q1,2017-03-31,분기별 영업활동현금흐름,269090000,USD,공시,https://www.sec.gov/Archives/edgar/data/1039684/000103968417000045/,,10
+ONEOK,OKE,2017Q1,2017-03-31,분기말 자산총계,16067558000,USD,공시,https://www.sec.gov/Archives/edgar/data/1039684/000103968417000045/,,10
+ONEOK,OKE,2017Q1,2017-03-31,분기말 부채총계,12598045000,USD,계산(부채및자본-총자본),https://www.sec.gov/Archives/edgar/data/1039684/000103968417000045/,부채및자본 16067558000 − 총자본 3469513000,10
+ONEOK,OKE,2017Q1,2017-03-31,분기말 총자본(자기자본),3469513000,USD,공시,https://www.sec.gov/Archives/edgar/data/1039684/000103968417000045/,,10
+ONEOK,OKE,2017Q1,2017-03-31,분기말 지배지분 자본,238382000,USD,공시,https://www.sec.gov/Archives/edgar/data/1039684/000103968417000045/,,10
+ONEOK,OKE,2017Q1,2017-03-31,분기말 종가,55.44,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/OKE?interval=1d&events=splits (2017-03-31),,10
+ONEOK,OKE,2017Q1,2017-04-24,분기말 상장주식수,210909327,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/1039684/000103968417000045/,dei:EntityCommonStockSharesOutstanding 클래스 합,10
+ONEOK,OKE,2017Q1,2017-03-31,분기말 시가총액,11692813089,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/OKE?interval=1d&events=splits (2017-03-31) ; https://www.sec.gov/Archives/edgar/data/1039684/000103968417000045/,종가 55.44 × 주식수 210909327,10
+ONEOK,OKE,2017Q2,2017-06-30,분기별 매출액,2725772000,USD,공시,https://www.sec.gov/Archives/edgar/data/1039684/000103968417000099/,,10
+ONEOK,OKE,2017Q2,2017-06-30,분기별 영업이익,319450000,USD,공시(재작성 반영),https://www.sec.gov/Archives/edgar/data/1039684/000103968418000056/,원 공시 316733000 (https://www.sec.gov/Archives/edgar/data/1039684/000103968417000099/),10
+ONEOK,OKE,2017Q2,2017-06-30,분기별 당기순이익(지배),71693000,USD,공시,https://www.sec.gov/Archives/edgar/data/1039684/000103968417000099/,,10
+ONEOK,OKE,2017Q2,2017-06-30,분기별 영업활동현금흐름,373801000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/1039684/000103968417000099/ ; https://www.sec.gov/Archives/edgar/data/1039684/000103968417000045/,누적 642891000 − 직전누적 269090000 (시작 2017-01-01),10
+ONEOK,OKE,2017Q2,2017-06-30,분기말 자산총계,16672923000,USD,공시,https://www.sec.gov/Archives/edgar/data/1039684/000103968417000099/,,10
+ONEOK,OKE,2017Q2,2017-06-30,분기말 부채총계,11107692000,USD,계산(부채및자본-총자본),https://www.sec.gov/Archives/edgar/data/1039684/000103968417000099/,부채및자본 16672923000 − 총자본 5565231000,10
+ONEOK,OKE,2017Q2,2017-06-30,분기말 총자본(자기자본),5565231000,USD,공시,https://www.sec.gov/Archives/edgar/data/1039684/000103968417000099/,,10
+ONEOK,OKE,2017Q2,2017-06-30,분기말 지배지분 자본,5407747000,USD,공시,https://www.sec.gov/Archives/edgar/data/1039684/000103968417000099/,,10
+ONEOK,OKE,2017Q2,2017-06-30,분기말 종가,52.16,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/OKE?interval=1d&events=splits (2017-06-30),,10
+ONEOK,OKE,2017Q2,2017-07-24,분기말 상장주식수,380008256,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/1039684/000103968417000099/,dei:EntityCommonStockSharesOutstanding 클래스 합,10
+ONEOK,OKE,2017Q2,2017-06-30,분기말 시가총액,19821230633,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/OKE?interval=1d&events=splits (2017-06-30) ; https://www.sec.gov/Archives/edgar/data/1039684/000103968417000099/,종가 52.16 × 주식수 380008256,10
+ONEOK,OKE,2017Q3,2017-09-30,분기별 매출액,2906366000,USD,공시,https://www.sec.gov/Archives/edgar/data/1039684/000103968417000117/,,10
+ONEOK,OKE,2017Q3,2017-09-30,분기별 영업이익,354622000,USD,공시(재작성 반영),https://www.sec.gov/Archives/edgar/data/1039684/000103968418000078/,원 공시 351906000 (https://www.sec.gov/Archives/edgar/data/1039684/000103968417000117/),10
+ONEOK,OKE,2017Q3,2017-09-30,분기별 당기순이익(지배),165742000,USD,공시,https://www.sec.gov/Archives/edgar/data/1039684/000103968417000117/,,10
+ONEOK,OKE,2017Q3,2017-09-30,분기별 영업활동현금흐름,293105000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/1039684/000103968417000117/ ; https://www.sec.gov/Archives/edgar/data/1039684/000103968417000099/,누적 935996000 − 직전누적 642891000 (시작 2017-01-01),10
+ONEOK,OKE,2017Q3,2017-09-30,분기말 자산총계,16764841000,USD,공시,https://www.sec.gov/Archives/edgar/data/1039684/000103968417000117/,,10
+ONEOK,OKE,2017Q3,2017-09-30,분기말 부채총계,11248458000,USD,계산(부채및자본-총자본),https://www.sec.gov/Archives/edgar/data/1039684/000103968417000117/,부채및자본 16764841000 − 총자본 5516383000,10
+ONEOK,OKE,2017Q3,2017-09-30,분기말 총자본(자기자본),5516383000,USD,공시,https://www.sec.gov/Archives/edgar/data/1039684/000103968417000117/,,10
+ONEOK,OKE,2017Q3,2017-09-30,분기말 지배지분 자본,5359495000,USD,공시,https://www.sec.gov/Archives/edgar/data/1039684/000103968417000117/,,10
+ONEOK,OKE,2017Q3,2017-09-29,분기말 종가,55.41,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/OKE?interval=1d&events=splits (2017-09-29),,10
+ONEOK,OKE,2017Q3,2017-10-23,분기말 상장주식수,383436687,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/1039684/000103968417000117/,dei:EntityCommonStockSharesOutstanding 클래스 합,10
+ONEOK,OKE,2017Q3,2017-09-29,분기말 시가총액,21246226827,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/OKE?interval=1d&events=splits (2017-09-29) ; https://www.sec.gov/Archives/edgar/data/1039684/000103968417000117/,종가 55.41 × 주식수 383436687,10
+ONEOK,OKE,2017Q4,2017-12-31,분기별 매출액,3792158000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/1039684/000103968418000021/ ; https://www.sec.gov/Archives/edgar/data/1039684/000103968417000117/,연간 12173907000 − 9개월누적 8381749000 (Revenues),10
+ONEOK,OKE,2017Q4,2017-12-31,분기별 영업이익,400562000,USD,계산(연간-3분기누적)(재작성 반영),https://www.sec.gov/Archives/edgar/data/1039684/000103968420000012/ ; https://www.sec.gov/Archives/edgar/data/1039684/000103968418000078/,연간 1391771000 − 9개월누적 991209000 (OperatingIncomeLoss) ; 원 공시 397836000 (https://www.sec.gov/Archives/edgar/data/1039684/000103968418000021/ ; https://www.sec.gov/Archives/edgar/data/1039684/000103968417000117/),10
+ONEOK,OKE,2017Q4,2017-12-31,분기별 당기순이익(지배),63045000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/1039684/000103968418000021/ ; https://www.sec.gov/Archives/edgar/data/1039684/000103968417000117/,연간 387841000 − 9개월누적 324796000 (NetIncomeLoss),10
+ONEOK,OKE,2017Q4,2017-12-31,분기별 영업활동현금흐름,379416000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/1039684/000103968418000021/ ; https://www.sec.gov/Archives/edgar/data/1039684/000103968417000117/,누적 1315412000 − 직전누적 935996000 (시작 2017-01-01),10
+ONEOK,OKE,2017Q4,2017-12-31,분기말 자산총계,16845937000,USD,공시,https://www.sec.gov/Archives/edgar/data/1039684/000103968418000021/,,10
+ONEOK,OKE,2017Q4,2017-12-31,분기말 부채총계,11160585000,USD,계산(부채및자본-총자본),https://www.sec.gov/Archives/edgar/data/1039684/000103968418000021/,부채및자본 16845937000 − 총자본 5685352000,10
+ONEOK,OKE,2017Q4,2017-12-31,분기말 총자본(자기자본),5685352000,USD,공시,https://www.sec.gov/Archives/edgar/data/1039684/000103968418000021/,,10
+ONEOK,OKE,2017Q4,2017-12-31,분기말 지배지분 자본,5527867000,USD,공시,https://www.sec.gov/Archives/edgar/data/1039684/000103968418000021/,,10
+ONEOK,OKE,2017Q4,2017-12-29,분기말 종가,53.45,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/OKE?interval=1d&events=splits (2017-12-29),,10
+ONEOK,OKE,2017Q4,2018-02-22,분기말 상장주식수,410634227,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/1039684/000103968418000021/,dei:EntityCommonStockSharesOutstanding 클래스 합,10
+ONEOK,OKE,2017Q4,2017-12-29,분기말 시가총액,21948399433,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/OKE?interval=1d&events=splits (2017-12-29) ; https://www.sec.gov/Archives/edgar/data/1039684/000103968418000021/,종가 53.45 × 주식수 410634227,10
+ONEOK,OKE,2018Q1,2018-03-31,분기별 매출액,3102077000,USD,공시,https://www.sec.gov/Archives/edgar/data/1039684/000103968418000034/,,10
+ONEOK,OKE,2018Q1,2018-03-31,분기별 영업이익,419699000,USD,공시,https://www.sec.gov/Archives/edgar/data/1039684/000103968418000034/,,10
+ONEOK,OKE,2018Q1,2018-03-31,분기별 당기순이익(지배),264508000,USD,공시,https://www.sec.gov/Archives/edgar/data/1039684/000103968418000034/,,10
+ONEOK,OKE,2018Q1,2018-03-31,분기별 영업활동현금흐름,495321000,USD,공시,https://www.sec.gov/Archives/edgar/data/1039684/000103968418000034/,,10
+ONEOK,OKE,2018Q1,2018-03-31,분기말 자산총계,16432347000,USD,공시,https://www.sec.gov/Archives/edgar/data/1039684/000103968418000034/,,10
+ONEOK,OKE,2018Q1,2018-03-31,분기말 부채총계,9563095000,USD,계산(부채및자본-총자본),https://www.sec.gov/Archives/edgar/data/1039684/000103968418000034/,부채및자본 16432347000 − 총자본 6869252000,10
+ONEOK,OKE,2018Q1,2018-03-31,분기말 총자본(자기자본),6869252000,USD,공시,https://www.sec.gov/Archives/edgar/data/1039684/000103968418000034/,,10
+ONEOK,OKE,2018Q1,2018-03-31,분기말 지배지분 자본,6701446000,USD,공시,https://www.sec.gov/Archives/edgar/data/1039684/000103968418000034/,,10
+ONEOK,OKE,2018Q1,2018-03-29,분기말 종가,56.92,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/OKE?interval=1d&events=splits (2018-03-29),,10
+ONEOK,OKE,2018Q1,2018-04-23,분기말 상장주식수,411076188,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/1039684/000103968418000034/,dei:EntityCommonStockSharesOutstanding 클래스 합,10
+ONEOK,OKE,2018Q1,2018-03-29,분기말 시가총액,23398456621,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/OKE?interval=1d&events=splits (2018-03-29) ; https://www.sec.gov/Archives/edgar/data/1039684/000103968418000034/,종가 56.92 × 주식수 411076188,10
+ONEOK,OKE,2018Q2,2018-06-30,분기별 매출액,2960529000,USD,공시,https://www.sec.gov/Archives/edgar/data/1039684/000103968418000056/,,10
+ONEOK,OKE,2018Q2,2018-06-30,분기별 영업이익,448366000,USD,공시,https://www.sec.gov/Archives/edgar/data/1039684/000103968418000056/,,10
+ONEOK,OKE,2018Q2,2018-06-30,분기별 당기순이익(지배),281048000,USD,공시,https://www.sec.gov/Archives/edgar/data/1039684/000103968418000056/,,10
+ONEOK,OKE,2018Q2,2018-06-30,분기별 영업활동현금흐름,507649000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/1039684/000103968418000056/ ; https://www.sec.gov/Archives/edgar/data/1039684/000103968418000034/,누적 1002970000 − 직전누적 495321000 (시작 2018-01-01),10
+ONEOK,OKE,2018Q2,2018-06-30,분기말 자산총계,16913720000,USD,공시,https://www.sec.gov/Archives/edgar/data/1039684/000103968418000056/,,10
+ONEOK,OKE,2018Q2,2018-06-30,분기말 부채총계,10075237000,USD,계산(부채및자본-총자본),https://www.sec.gov/Archives/edgar/data/1039684/000103968418000056/,부채및자본 16913720000 − 총자본 6838483000,10
+ONEOK,OKE,2018Q2,2018-06-30,분기말 총자본(자기자본),6838483000,USD,공시,https://www.sec.gov/Archives/edgar/data/1039684/000103968418000056/,,10
+ONEOK,OKE,2018Q2,2018-06-30,분기말 지배지분 자본,6664860000,USD,공시,https://www.sec.gov/Archives/edgar/data/1039684/000103968418000056/,,10
+ONEOK,OKE,2018Q2,2018-06-29,분기말 종가,69.83,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/OKE?interval=1d&events=splits (2018-06-29),,10
+ONEOK,OKE,2018Q2,2018-07-23,분기말 상장주식수,411249474,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/1039684/000103968418000056/,dei:EntityCommonStockSharesOutstanding 클래스 합,10
+ONEOK,OKE,2018Q2,2018-06-29,분기말 시가총액,28717550769,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/OKE?interval=1d&events=splits (2018-06-29) ; https://www.sec.gov/Archives/edgar/data/1039684/000103968418000056/,종가 69.83 × 주식수 411249474,10
+ONEOK,OKE,2018Q3,2018-09-30,분기별 매출액,3393890000,USD,공시,https://www.sec.gov/Archives/edgar/data/1039684/000103968418000078/,,10
+ONEOK,OKE,2018Q3,2018-09-30,분기별 영업이익,495534000,USD,공시,https://www.sec.gov/Archives/edgar/data/1039684/000103968418000078/,,10
+ONEOK,OKE,2018Q3,2018-09-30,분기별 당기순이익(지배),313259000,USD,공시,https://www.sec.gov/Archives/edgar/data/1039684/000103968418000078/,,10
+ONEOK,OKE,2018Q3,2018-09-30,분기별 영업활동현금흐름,513480000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/1039684/000103968418000078/ ; https://www.sec.gov/Archives/edgar/data/1039684/000103968418000056/,누적 1516450000 − 직전누적 1002970000 (시작 2018-01-01),10
+ONEOK,OKE,2018Q3,2018-09-30,분기말 자산총계,17911314000,USD,공시,https://www.sec.gov/Archives/edgar/data/1039684/000103968418000078/,,10
+ONEOK,OKE,2018Q3,2018-09-30,분기말 부채총계,11258556000,USD,계산(부채및자본-총자본),https://www.sec.gov/Archives/edgar/data/1039684/000103968418000078/,부채및자본 17911314000 − 총자본 6652758000,10
+ONEOK,OKE,2018Q3,2018-09-30,분기말 총자본(자기자본),6652758000,USD,공시,https://www.sec.gov/Archives/edgar/data/1039684/000103968418000078/,,10
+ONEOK,OKE,2018Q3,2018-09-30,분기말 지배지분 자본,6652758000,USD,공시,https://www.sec.gov/Archives/edgar/data/1039684/000103968418000078/,,10
+ONEOK,OKE,2018Q3,2018-09-28,분기말 종가,67.79,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/OKE?interval=1d&events=splits (2018-09-28),,10
+ONEOK,OKE,2018Q3,2018-10-22,분기말 상장주식수,411361477,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/1039684/000103968418000078/,dei:EntityCommonStockSharesOutstanding 클래스 합,10
+ONEOK,OKE,2018Q3,2018-09-28,분기말 시가총액,27886194526,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/OKE?interval=1d&events=splits (2018-09-28) ; https://www.sec.gov/Archives/edgar/data/1039684/000103968418000078/,종가 67.79 × 주식수 411361477,10
+ONEOK,OKE,2018Q4,2018-12-31,분기별 매출액,3136700000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/1039684/000103968419000016/ ; https://www.sec.gov/Archives/edgar/data/1039684/000103968418000078/,연간 12593196000 − 9개월누적 9456496000 (Revenues),10
+ONEOK,OKE,2018Q4,2018-12-31,분기별 영업이익,471865000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/1039684/000103968419000016/ ; https://www.sec.gov/Archives/edgar/data/1039684/000103968418000078/,연간 1835464000 − 9개월누적 1363599000 (OperatingIncomeLoss),10
+ONEOK,OKE,2018Q4,2018-12-31,분기별 당기순이익(지배),292888000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/1039684/000103968419000016/ ; https://www.sec.gov/Archives/edgar/data/1039684/000103968418000078/,연간 1151703000 − 9개월누적 858815000 (NetIncomeLoss),10
+ONEOK,OKE,2018Q4,2018-12-31,분기별 영업활동현금흐름,670269000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/1039684/000103968419000016/ ; https://www.sec.gov/Archives/edgar/data/1039684/000103968418000078/,누적 2186719000 − 직전누적 1516450000 (시작 2018-01-01),10
+ONEOK,OKE,2018Q4,2018-12-31,분기말 자산총계,18231671000,USD,공시,https://www.sec.gov/Archives/edgar/data/1039684/000103968419000016/,,10
+ONEOK,OKE,2018Q4,2018-12-31,분기말 부채총계,11652128000,USD,계산(부채및자본-총자본),https://www.sec.gov/Archives/edgar/data/1039684/000103968419000016/,부채및자본 18231671000 − 총자본 6579543000,10
+ONEOK,OKE,2018Q4,2018-12-31,분기말 총자본(자기자본),6579543000,USD,공시,https://www.sec.gov/Archives/edgar/data/1039684/000103968419000016/,,10
+ONEOK,OKE,2018Q4,2018-12-31,분기말 지배지분 자본,6579543000,USD,공시,https://www.sec.gov/Archives/edgar/data/1039684/000103968419000016/,,10
+ONEOK,OKE,2018Q4,2018-12-31,분기말 종가,53.95,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/OKE?interval=1d&events=splits (2018-12-31),,10
+ONEOK,OKE,2018Q4,2019-02-19,분기말 상장주식수,411611382,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/1039684/000103968419000016/,dei:EntityCommonStockSharesOutstanding 클래스 합,10
+ONEOK,OKE,2018Q4,2018-12-31,분기말 시가총액,22206434059,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/OKE?interval=1d&events=splits (2018-12-31) ; https://www.sec.gov/Archives/edgar/data/1039684/000103968419000016/,종가 53.95 × 주식수 411611382,10
+ONEOK,OKE,2019Q1,2019-03-31,분기별 매출액,2779958000,USD,공시,https://www.sec.gov/Archives/edgar/data/1039684/000103968419000030/,,10
+ONEOK,OKE,2019Q1,2019-03-31,분기별 영업이익,468742000,USD,공시,https://www.sec.gov/Archives/edgar/data/1039684/000103968419000030/,,10
+ONEOK,OKE,2019Q1,2019-03-31,분기별 당기순이익(지배),337208000,USD,공시,https://www.sec.gov/Archives/edgar/data/1039684/000103968419000030/,,10
+ONEOK,OKE,2019Q1,2019-03-31,분기별 영업활동현금흐름,353606000,USD,공시,https://www.sec.gov/Archives/edgar/data/1039684/000103968419000030/,,10
+ONEOK,OKE,2019Q1,2019-03-31,분기말 자산총계,18934325000,USD,공시,https://www.sec.gov/Archives/edgar/data/1039684/000103968419000030/,,10
+ONEOK,OKE,2019Q1,2019-03-31,분기말 부채총계,12492319000,USD,계산(부채및자본-총자본),https://www.sec.gov/Archives/edgar/data/1039684/000103968419000030/,부채및자본 18934325000 − 총자본 6442006000,10
+ONEOK,OKE,2019Q1,2019-03-31,분기말 총자본(자기자본),6442006000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/1039684/000103968419000030/,"StockholdersEquity, MinorityInterest 태그 없음",10
+ONEOK,OKE,2019Q1,2019-03-31,분기말 지배지분 자본,6442006000,USD,공시,https://www.sec.gov/Archives/edgar/data/1039684/000103968419000030/,,10
+ONEOK,OKE,2019Q1,2019-03-29,분기말 종가,69.84,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/OKE?interval=1d&events=splits (2019-03-29),,10
+ONEOK,OKE,2019Q1,2019-04-22,분기말 상장주식수,412756216,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/1039684/000103968419000030/,dei:EntityCommonStockSharesOutstanding 클래스 합,10
+ONEOK,OKE,2019Q1,2019-03-29,분기말 시가총액,28826894125,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/OKE?interval=1d&events=splits (2019-03-29) ; https://www.sec.gov/Archives/edgar/data/1039684/000103968419000030/,종가 69.84 × 주식수 412756216,10
+ONEOK,OKE,2019Q2,2019-06-30,분기별 매출액,2457575000,USD,공시,https://www.sec.gov/Archives/edgar/data/1039684/000103968419000056/,,10
+ONEOK,OKE,2019Q2,2019-06-30,분기별 영업이익,476146000,USD,공시,https://www.sec.gov/Archives/edgar/data/1039684/000103968419000056/,,10
+ONEOK,OKE,2019Q2,2019-06-30,분기별 당기순이익(지배),311963000,USD,공시,https://www.sec.gov/Archives/edgar/data/1039684/000103968419000056/,,10
+ONEOK,OKE,2019Q2,2019-06-30,분기별 영업활동현금흐름,614345000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/1039684/000103968419000056/ ; https://www.sec.gov/Archives/edgar/data/1039684/000103968419000030/,누적 967951000 − 직전누적 353606000 (시작 2019-01-01),10
+ONEOK,OKE,2019Q2,2019-06-30,분기말 자산총계,19751594000,USD,공시,https://www.sec.gov/Archives/edgar/data/1039684/000103968419000056/,,10
+ONEOK,OKE,2019Q2,2019-06-30,분기말 부채총계,13403458000,USD,계산(부채및자본-총자본),https://www.sec.gov/Archives/edgar/data/1039684/000103968419000056/,부채및자본 19751594000 − 총자본 6348136000,10
+ONEOK,OKE,2019Q2,2019-06-30,분기말 총자본(자기자본),6348136000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/1039684/000103968419000056/,"StockholdersEquity, MinorityInterest 태그 없음",10
+ONEOK,OKE,2019Q2,2019-06-30,분기말 지배지분 자본,6348136000,USD,공시,https://www.sec.gov/Archives/edgar/data/1039684/000103968419000056/,,10
+ONEOK,OKE,2019Q2,2019-06-28,분기말 종가,68.81,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/OKE?interval=1d&events=splits (2019-06-28),,10
+ONEOK,OKE,2019Q2,2019-07-22,분기말 상장주식수,412968278,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/1039684/000103968419000056/,dei:EntityCommonStockSharesOutstanding 클래스 합,10
+ONEOK,OKE,2019Q2,2019-06-28,분기말 시가총액,28416347209,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/OKE?interval=1d&events=splits (2019-06-28) ; https://www.sec.gov/Archives/edgar/data/1039684/000103968419000056/,종가 68.81 × 주식수 412968278,10
+ONEOK,OKE,2019Q3,2019-09-30,분기별 매출액,2263228000,USD,공시,https://www.sec.gov/Archives/edgar/data/1039684/000103968419000076/,,10
+ONEOK,OKE,2019Q3,2019-09-30,분기별 영업이익,482151000,USD,공시,https://www.sec.gov/Archives/edgar/data/1039684/000103968419000076/,,10
+ONEOK,OKE,2019Q3,2019-09-30,분기별 당기순이익(지배),309155000,USD,공시,https://www.sec.gov/Archives/edgar/data/1039684/000103968419000076/,,10
+ONEOK,OKE,2019Q3,2019-09-30,분기별 영업활동현금흐름,358894000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/1039684/000103968419000076/ ; https://www.sec.gov/Archives/edgar/data/1039684/000103968419000056/,누적 1326845000 − 직전누적 967951000 (시작 2019-01-01),10
+ONEOK,OKE,2019Q3,2019-09-30,분기말 자산총계,21335907000,USD,공시,https://www.sec.gov/Archives/edgar/data/1039684/000103968419000076/,,10
+ONEOK,OKE,2019Q3,2019-09-30,분기말 부채총계,15117001000,USD,계산(부채및자본-총자본),https://www.sec.gov/Archives/edgar/data/1039684/000103968419000076/,부채및자본 21335907000 − 총자본 6218906000,10
+ONEOK,OKE,2019Q3,2019-09-30,분기말 총자본(자기자본),6218906000,USD,공시,https://www.sec.gov/Archives/edgar/data/1039684/000103968419000076/,,10
+ONEOK,OKE,2019Q3,2019-09-30,분기말 지배지분 자본,6218906000,USD,공시,https://www.sec.gov/Archives/edgar/data/1039684/000103968419000076/,,10
+ONEOK,OKE,2019Q3,2019-09-30,분기말 종가,73.69,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/OKE?interval=1d&events=splits (2019-09-30),,10
+ONEOK,OKE,2019Q3,2019-10-21,분기말 상장주식수,413084650,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/1039684/000103968419000076/,dei:EntityCommonStockSharesOutstanding 클래스 합,10
+ONEOK,OKE,2019Q3,2019-09-30,분기말 시가총액,30440207858,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/OKE?interval=1d&events=splits (2019-09-30) ; https://www.sec.gov/Archives/edgar/data/1039684/000103968419000076/,종가 73.69 × 주식수 413084650,10
+ONEOK,OKE,2019Q4,2019-12-31,분기별 매출액,2663606000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/1039684/000103968420000012/ ; https://www.sec.gov/Archives/edgar/data/1039684/000103968419000076/,연간 10164367000 − 9개월누적 7500761000 (Revenues),10
+ONEOK,OKE,2019Q4,2019-12-31,분기별 영업이익,487314000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/1039684/000103968420000012/ ; https://www.sec.gov/Archives/edgar/data/1039684/000103968419000076/,연간 1914353000 − 9개월누적 1427039000 (OperatingIncomeLoss),10
+ONEOK,OKE,2019Q4,2019-12-31,분기별 당기순이익(지배),320251000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/1039684/000103968420000012/ ; https://www.sec.gov/Archives/edgar/data/1039684/000103968419000076/,연간 1278577000 − 9개월누적 958326000 (NetIncomeLoss),10
+ONEOK,OKE,2019Q4,2019-12-31,분기별 영업활동현금흐름,619934000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/1039684/000103968420000012/ ; https://www.sec.gov/Archives/edgar/data/1039684/000103968419000076/,누적 1946779000 − 직전누적 1326845000 (시작 2019-01-01),10
+ONEOK,OKE,2019Q4,2019-12-31,분기말 자산총계,21812121000,USD,공시,https://www.sec.gov/Archives/edgar/data/1039684/000103968420000012/,,10
+ONEOK,OKE,2019Q4,2019-12-31,분기말 부채총계,15586170000,USD,계산(부채및자본-총자본),https://www.sec.gov/Archives/edgar/data/1039684/000103968420000012/,부채및자본 21812121000 − 총자본 6225951000,10
+ONEOK,OKE,2019Q4,2019-12-31,분기말 총자본(자기자본),6225951000,USD,공시,https://www.sec.gov/Archives/edgar/data/1039684/000103968420000012/,,10
+ONEOK,OKE,2019Q4,2019-12-31,분기말 지배지분 자본,6225951000,USD,공시,https://www.sec.gov/Archives/edgar/data/1039684/000103968420000012/,,10
+ONEOK,OKE,2019Q4,2019-12-31,분기말 종가,75.67,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/OKE?interval=1d&events=splits (2019-12-31),,10
+ONEOK,OKE,2019Q4,2020-02-18,분기말 상장주식수,413319000,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/1039684/000103968420000012/,dei:EntityCommonStockSharesOutstanding 클래스 합,10
+ONEOK,OKE,2019Q4,2019-12-31,분기말 시가총액,31275848730,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/OKE?interval=1d&events=splits (2019-12-31) ; https://www.sec.gov/Archives/edgar/data/1039684/000103968420000012/,종가 75.67 × 주식수 413319000,10
+ONEOK,OKE,2020Q1,2020-03-31,분기별 매출액,2136672000,USD,공시,https://www.sec.gov/Archives/edgar/data/1039684/000103968420000036/,,10
+ONEOK,OKE,2020Q1,2020-03-31,분기별 영업이익,-83469000,USD,공시,https://www.sec.gov/Archives/edgar/data/1039684/000103968420000036/,,10
+ONEOK,OKE,2020Q1,2020-03-31,분기별 당기순이익(지배),-141857000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/1039684/000103968420000036/,,10
+ONEOK,OKE,2020Q1,2020-03-31,분기별 영업활동현금흐름,422721000,USD,공시,https://www.sec.gov/Archives/edgar/data/1039684/000103968420000036/,,10
+ONEOK,OKE,2020Q1,2020-03-31,분기말 자산총계,21969440000,USD,공시,https://www.sec.gov/Archives/edgar/data/1039684/000103968420000036/,,10
+ONEOK,OKE,2020Q1,2020-03-31,분기말 부채총계,16408799000,USD,계산(부채및자본-총자본),https://www.sec.gov/Archives/edgar/data/1039684/000103968420000036/,부채및자본 21969440000 − 총자본 5560641000,10
+ONEOK,OKE,2020Q1,2020-03-31,분기말 총자본(자기자본),5560641000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/1039684/000103968420000036/,"StockholdersEquity, MinorityInterest 태그 없음",10
+ONEOK,OKE,2020Q1,2020-03-31,분기말 지배지분 자본,5560641000,USD,공시,https://www.sec.gov/Archives/edgar/data/1039684/000103968420000036/,,10
+ONEOK,OKE,2020Q1,2020-03-31,분기말 종가,21.81,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/OKE?interval=1d&events=splits (2020-03-31),,10
+ONEOK,OKE,2020Q1,2020-04-20,분기말 상장주식수,413907211,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/1039684/000103968420000036/,dei:EntityCommonStockSharesOutstanding 클래스 합,10
+ONEOK,OKE,2020Q1,2020-03-31,분기말 시가총액,9027316272,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/OKE?interval=1d&events=splits (2020-03-31) ; https://www.sec.gov/Archives/edgar/data/1039684/000103968420000036/,종가 21.81 × 주식수 413907211,10
+ONEOK,OKE,2020Q2,2020-06-30,분기별 매출액,1660729000,USD,공시,https://www.sec.gov/Archives/edgar/data/1039684/000103968420000057/,,10
+ONEOK,OKE,2020Q2,2020-06-30,분기별 영업이익,355730000,USD,공시,https://www.sec.gov/Archives/edgar/data/1039684/000103968420000057/,,10
+ONEOK,OKE,2020Q2,2020-06-30,분기별 당기순이익(지배),134321000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/1039684/000103968420000057/,,10
+ONEOK,OKE,2020Q2,2020-06-30,분기별 영업활동현금흐름,313697000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/1039684/000103968420000057/ ; https://www.sec.gov/Archives/edgar/data/1039684/000103968420000036/,누적 736418000 − 직전누적 422721000 (시작 2020-01-01),10
+ONEOK,OKE,2020Q2,2020-06-30,분기말 자산총계,22992467000,USD,공시,https://www.sec.gov/Archives/edgar/data/1039684/000103968420000057/,,10
+ONEOK,OKE,2020Q2,2020-06-30,분기말 부채총계,16751815000,USD,계산(부채및자본-총자본),https://www.sec.gov/Archives/edgar/data/1039684/000103968420000057/,부채및자본 22992467000 − 총자본 6240652000,10
+ONEOK,OKE,2020Q2,2020-06-30,분기말 총자본(자기자본),6240652000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/1039684/000103968420000057/,"StockholdersEquity, MinorityInterest 태그 없음",10
+ONEOK,OKE,2020Q2,2020-06-30,분기말 지배지분 자본,6240652000,USD,공시,https://www.sec.gov/Archives/edgar/data/1039684/000103968420000057/,,10
+ONEOK,OKE,2020Q2,2020-06-30,분기말 종가,33.22,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/OKE?interval=1d&events=splits (2020-06-30),,10
+ONEOK,OKE,2020Q2,2020-07-20,분기말 상장주식수,444201950,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/1039684/000103968420000057/,dei:EntityCommonStockSharesOutstanding 클래스 합,10
+ONEOK,OKE,2020Q2,2020-06-30,분기말 시가총액,14756388779,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/OKE?interval=1d&events=splits (2020-06-30) ; https://www.sec.gov/Archives/edgar/data/1039684/000103968420000057/,종가 33.22 × 주식수 444201950,10
+ONEOK,OKE,2020Q3,2020-09-30,분기별 매출액,2174264000,USD,공시,https://www.sec.gov/Archives/edgar/data/1039684/000103968420000076/,,10
+ONEOK,OKE,2020Q3,2020-09-30,분기별 영업이익,550433000,USD,공시,https://www.sec.gov/Archives/edgar/data/1039684/000103968420000076/,,10
+ONEOK,OKE,2020Q3,2020-09-30,분기별 당기순이익(지배),312316000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/1039684/000103968420000076/,,10
+ONEOK,OKE,2020Q3,2020-09-30,분기별 영업활동현금흐름,366710000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/1039684/000103968420000076/ ; https://www.sec.gov/Archives/edgar/data/1039684/000103968420000057/,누적 1103128000 − 직전누적 736418000 (시작 2020-01-01),10
+ONEOK,OKE,2020Q3,2020-09-30,분기말 자산총계,22780876000,USD,공시,https://www.sec.gov/Archives/edgar/data/1039684/000103968420000076/,,10
+ONEOK,OKE,2020Q3,2020-09-30,분기말 부채총계,16634764000,USD,계산(부채및자본-총자본),https://www.sec.gov/Archives/edgar/data/1039684/000103968420000076/,부채및자본 22780876000 − 총자본 6146112000,10
+ONEOK,OKE,2020Q3,2020-09-30,분기말 총자본(자기자본),6146112000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/1039684/000103968420000076/,"StockholdersEquity, MinorityInterest 태그 없음",10
+ONEOK,OKE,2020Q3,2020-09-30,분기말 지배지분 자본,6146112000,USD,공시,https://www.sec.gov/Archives/edgar/data/1039684/000103968420000076/,,10
+ONEOK,OKE,2020Q3,2020-09-30,분기말 종가,25.98,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/OKE?interval=1d&events=splits (2020-09-30),,10
+ONEOK,OKE,2020Q3,2020-10-19,분기말 상장주식수,444397414,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/1039684/000103968420000076/,dei:EntityCommonStockSharesOutstanding 클래스 합,10
+ONEOK,OKE,2020Q3,2020-09-30,분기말 시가총액,11545444816,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/OKE?interval=1d&events=splits (2020-09-30) ; https://www.sec.gov/Archives/edgar/data/1039684/000103968420000076/,종가 25.98 × 주식수 444397414,10
+ONEOK,OKE,2020Q4,2020-12-31,분기별 매출액,2570577000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/1039684/000103968421000015/ ; https://www.sec.gov/Archives/edgar/data/1039684/000103968420000076/,연간 8542242000 − 9개월누적 5971665000 (Revenues),10
+ONEOK,OKE,2020Q4,2020-12-31,분기별 영업이익,538663000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/1039684/000103968421000015/ ; https://www.sec.gov/Archives/edgar/data/1039684/000103968420000076/,연간 1361357000 − 9개월누적 822694000 (OperatingIncomeLoss),10
+ONEOK,OKE,2020Q4,2020-12-31,분기별 당기순이익(지배),308029000,USD,계산(연간(연결-비지배)-3분기누적),https://www.sec.gov/Archives/edgar/data/1039684/000103968421000015/ ; https://www.sec.gov/Archives/edgar/data/1039684/000103968420000076/,"연간 연결 612809000 − 비지배 0 − (9개월 연결 304780000, 비지배 태그 없음)",10
+ONEOK,OKE,2020Q4,2020-12-31,분기별 영업활동현금흐름,795940000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/1039684/000103968421000015/ ; https://www.sec.gov/Archives/edgar/data/1039684/000103968420000076/,누적 1899068000 − 직전누적 1103128000 (시작 2020-01-01),10
+ONEOK,OKE,2020Q4,2020-12-31,분기말 자산총계,23078754000,USD,공시,https://www.sec.gov/Archives/edgar/data/1039684/000103968421000015/,,10
+ONEOK,OKE,2020Q4,2020-12-31,분기말 부채총계,17036356000,USD,계산(부채및자본-총자본),https://www.sec.gov/Archives/edgar/data/1039684/000103968421000015/,부채및자본 23078754000 − 총자본 6042398000,10
+ONEOK,OKE,2020Q4,2020-12-31,분기말 총자본(자기자본),6042398000,USD,공시,https://www.sec.gov/Archives/edgar/data/1039684/000103968421000015/,,10
+ONEOK,OKE,2020Q4,2020-12-31,분기말 지배지분 자본,6042398000,USD,공시,https://www.sec.gov/Archives/edgar/data/1039684/000103968421000015/,,10
+ONEOK,OKE,2020Q4,2020-12-31,분기말 종가,38.38,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/OKE?interval=1d&events=splits (2020-12-31),,10
+ONEOK,OKE,2020Q4,2021-02-16,분기말 상장주식수,444983595,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/1039684/000103968421000015/,dei:EntityCommonStockSharesOutstanding 클래스 합,10
+ONEOK,OKE,2020Q4,2020-12-31,분기말 시가총액,17078470376,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/OKE?interval=1d&events=splits (2020-12-31) ; https://www.sec.gov/Archives/edgar/data/1039684/000103968421000015/,종가 38.38 × 주식수 444983595,10
+ONEOK,OKE,2021Q1,2021-03-31,분기별 매출액,3194679000,USD,공시,https://www.sec.gov/Archives/edgar/data/1039684/000103968421000035/,,10
+ONEOK,OKE,2021Q1,2021-03-31,분기별 영업이익,664721000,USD,공시,https://www.sec.gov/Archives/edgar/data/1039684/000103968421000035/,,10
+ONEOK,OKE,2021Q1,2021-03-31,분기별 당기순이익(지배),386176000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/1039684/000103968421000035/,,10
+ONEOK,OKE,2021Q1,2021-03-31,분기별 영업활동현금흐름,533317000,USD,공시,https://www.sec.gov/Archives/edgar/data/1039684/000103968421000035/,,10
+ONEOK,OKE,2021Q1,2021-03-31,분기말 자산총계,23179929000,USD,공시,https://www.sec.gov/Archives/edgar/data/1039684/000103968421000035/,,10
+ONEOK,OKE,2021Q1,2021-03-31,분기말 부채총계,17082964000,USD,계산(부채및자본-총자본),https://www.sec.gov/Archives/edgar/data/1039684/000103968421000035/,부채및자본 23179929000 − 총자본 6096965000,10
+ONEOK,OKE,2021Q1,2021-03-31,분기말 총자본(자기자본),6096965000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/1039684/000103968421000035/,"StockholdersEquity, MinorityInterest 태그 없음",10
+ONEOK,OKE,2021Q1,2021-03-31,분기말 지배지분 자본,6096965000,USD,공시,https://www.sec.gov/Archives/edgar/data/1039684/000103968421000035/,,10
+ONEOK,OKE,2021Q1,2021-03-31,분기말 종가,50.66,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/OKE?interval=1d&events=splits (2021-03-31),,10
+ONEOK,OKE,2021Q1,2021-04-19,분기말 상장주식수,445536572,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/1039684/000103968421000035/,dei:EntityCommonStockSharesOutstanding 클래스 합,10
+ONEOK,OKE,2021Q1,2021-03-31,분기말 시가총액,22570882738,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/OKE?interval=1d&events=splits (2021-03-31) ; https://www.sec.gov/Archives/edgar/data/1039684/000103968421000035/,종가 50.66 × 주식수 445536572,10
+ONEOK,OKE,2021Q2,2021-06-30,분기별 매출액,3388964000,USD,공시,https://www.sec.gov/Archives/edgar/data/1039684/000103968421000056/,,10
+ONEOK,OKE,2021Q2,2021-06-30,분기별 영업이익,611512000,USD,공시,https://www.sec.gov/Archives/edgar/data/1039684/000103968421000056/,,10
+ONEOK,OKE,2021Q2,2021-06-30,분기별 당기순이익(지배),342139000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/1039684/000103968421000056/,,10
+ONEOK,OKE,2021Q2,2021-06-30,분기별 영업활동현금흐름,544666000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/1039684/000103968421000056/ ; https://www.sec.gov/Archives/edgar/data/1039684/000103968421000035/,누적 1077983000 − 직전누적 533317000 (시작 2021-01-01),10
+ONEOK,OKE,2021Q2,2021-06-30,분기말 자산총계,23437248000,USD,공시,https://www.sec.gov/Archives/edgar/data/1039684/000103968421000056/,,10
+ONEOK,OKE,2021Q2,2021-06-30,분기말 부채총계,17526862000,USD,계산(부채및자본-총자본),https://www.sec.gov/Archives/edgar/data/1039684/000103968421000056/,부채및자본 23437248000 − 총자본 5910386000,10
+ONEOK,OKE,2021Q2,2021-06-30,분기말 총자본(자기자본),5910386000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/1039684/000103968421000056/,"StockholdersEquity, MinorityInterest 태그 없음",10
+ONEOK,OKE,2021Q2,2021-06-30,분기말 지배지분 자본,5910386000,USD,공시,https://www.sec.gov/Archives/edgar/data/1039684/000103968421000056/,,10
+ONEOK,OKE,2021Q2,2021-06-30,분기말 종가,55.64,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/OKE?interval=1d&events=splits (2021-06-30),,10
+ONEOK,OKE,2021Q2,2021-07-26,분기말 상장주식수,445660920,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/1039684/000103968421000056/,dei:EntityCommonStockSharesOutstanding 클래스 합,10
+ONEOK,OKE,2021Q2,2021-06-30,분기말 시가총액,24796573589,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/OKE?interval=1d&events=splits (2021-06-30) ; https://www.sec.gov/Archives/edgar/data/1039684/000103968421000056/,종가 55.64 × 주식수 445660920,10
+ONEOK,OKE,2021Q3,2021-09-30,분기별 매출액,4536175000,USD,공시,https://www.sec.gov/Archives/edgar/data/1039684/000103968421000072/,,10
+ONEOK,OKE,2021Q3,2021-09-30,분기별 영업이익,667859000,USD,공시,https://www.sec.gov/Archives/edgar/data/1039684/000103968421000072/,,10
+ONEOK,OKE,2021Q3,2021-09-30,분기별 당기순이익(지배),392018000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/1039684/000103968421000072/,,10
+ONEOK,OKE,2021Q3,2021-09-30,분기별 영업활동현금흐름,413179000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/1039684/000103968421000072/ ; https://www.sec.gov/Archives/edgar/data/1039684/000103968421000056/,누적 1491162000 − 직전누적 1077983000 (시작 2021-01-01),10
+ONEOK,OKE,2021Q3,2021-09-30,분기말 자산총계,23872331000,USD,공시,https://www.sec.gov/Archives/edgar/data/1039684/000103968421000072/,,10
+ONEOK,OKE,2021Q3,2021-09-30,분기말 부채총계,18031456000,USD,계산(부채및자본-총자본),https://www.sec.gov/Archives/edgar/data/1039684/000103968421000072/,부채및자본 23872331000 − 총자본 5840875000,10
+ONEOK,OKE,2021Q3,2021-09-30,분기말 총자본(자기자본),5840875000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/1039684/000103968421000072/,"StockholdersEquity, MinorityInterest 태그 없음",10
+ONEOK,OKE,2021Q3,2021-09-30,분기말 지배지분 자본,5840875000,USD,공시,https://www.sec.gov/Archives/edgar/data/1039684/000103968421000072/,,10
+ONEOK,OKE,2021Q3,2021-09-30,분기말 종가,57.99,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/OKE?interval=1d&events=splits (2021-09-30),,10
+ONEOK,OKE,2021Q3,2021-10-25,분기말 상장주식수,445936703,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/1039684/000103968421000072/,dei:EntityCommonStockSharesOutstanding 클래스 합,10
+ONEOK,OKE,2021Q3,2021-09-30,분기말 시가총액,25859869407,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/OKE?interval=1d&events=splits (2021-09-30) ; https://www.sec.gov/Archives/edgar/data/1039684/000103968421000072/,종가 57.99 × 주식수 445936703,10
+ONEOK,OKE,2021Q4,2021-12-31,분기별 매출액,5420491000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/1039684/000103968422000015/ ; https://www.sec.gov/Archives/edgar/data/1039684/000103968421000072/,연간 16540309000 − 9개월누적 11119818000 (Revenues),10
+ONEOK,OKE,2021Q4,2021-12-31,분기별 영업이익,652167000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/1039684/000103968422000015/ ; https://www.sec.gov/Archives/edgar/data/1039684/000103968421000072/,연간 2596259000 − 9개월누적 1944092000 (OperatingIncomeLoss),10
+ONEOK,OKE,2021Q4,2021-12-31,분기별 당기순이익(지배),379373000,USD,"계산(연간-3분기누적, 비지배 없음)",https://www.sec.gov/Archives/edgar/data/1039684/000103968422000015/ ; https://www.sec.gov/Archives/edgar/data/1039684/000103968421000072/,연간 1499706000 − 9개월누적 1120333000 (ProfitLoss),10
+ONEOK,OKE,2021Q4,2021-12-31,분기별 영업활동현금흐름,1055110000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/1039684/000103968422000015/ ; https://www.sec.gov/Archives/edgar/data/1039684/000103968421000072/,누적 2546272000 − 직전누적 1491162000 (시작 2021-01-01),10
+ONEOK,OKE,2021Q4,2021-12-31,분기말 자산총계,23621613000,USD,공시,https://www.sec.gov/Archives/edgar/data/1039684/000103968422000015/,,10
+ONEOK,OKE,2021Q4,2021-12-31,분기말 부채총계,17606450000,USD,계산(부채및자본-총자본),https://www.sec.gov/Archives/edgar/data/1039684/000103968422000015/,부채및자본 23621613000 − 총자본 6015163000,10
+ONEOK,OKE,2021Q4,2021-12-31,분기말 총자본(자기자본),6015163000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/1039684/000103968422000015/,"StockholdersEquity, MinorityInterest 태그 없음",10
+ONEOK,OKE,2021Q4,2021-12-31,분기말 지배지분 자본,6015163000,USD,공시,https://www.sec.gov/Archives/edgar/data/1039684/000103968422000015/,,10
+ONEOK,OKE,2021Q4,2021-12-31,분기말 종가,58.76,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/OKE?interval=1d&events=splits (2021-12-31),,10
+ONEOK,OKE,2021Q4,2022-02-22,분기말 상장주식수,446213285,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/1039684/000103968422000015/,dei:EntityCommonStockSharesOutstanding 클래스 합,10
+ONEOK,OKE,2021Q4,2021-12-31,분기말 시가총액,26219492627,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/OKE?interval=1d&events=splits (2021-12-31) ; https://www.sec.gov/Archives/edgar/data/1039684/000103968422000015/,종가 58.76 × 주식수 446213285,10
+ONEOK,OKE,2022Q1,2022-03-31,분기별 매출액,5444609000,USD,공시,https://www.sec.gov/Archives/edgar/data/1039684/000103968422000034/,,10
+ONEOK,OKE,2022Q1,2022-03-31,분기별 영업이익,662456000,USD,공시,https://www.sec.gov/Archives/edgar/data/1039684/000103968422000034/,,10
+ONEOK,OKE,2022Q1,2022-03-31,분기별 당기순이익(지배),391171000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/1039684/000103968422000034/,,10
+ONEOK,OKE,2022Q1,2022-03-31,분기별 영업활동현금흐름,462211000,USD,공시,https://www.sec.gov/Archives/edgar/data/1039684/000103968422000034/,,10
+ONEOK,OKE,2022Q1,2022-03-31,분기말 자산총계,23992705000,USD,공시,https://www.sec.gov/Archives/edgar/data/1039684/000103968422000034/,,10
+ONEOK,OKE,2022Q1,2022-03-31,분기말 부채총계,17999011000,USD,계산(부채및자본-총자본),https://www.sec.gov/Archives/edgar/data/1039684/000103968422000034/,부채및자본 23992705000 − 총자본 5993694000,10
+ONEOK,OKE,2022Q1,2022-03-31,분기말 총자본(자기자본),5993694000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/1039684/000103968422000034/,"StockholdersEquity, MinorityInterest 태그 없음",10
+ONEOK,OKE,2022Q1,2022-03-31,분기말 지배지분 자본,5993694000,USD,공시,https://www.sec.gov/Archives/edgar/data/1039684/000103968422000034/,,10
+ONEOK,OKE,2022Q1,2022-03-31,분기말 종가,70.63,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/OKE?interval=1d&events=splits (2022-03-31),,10
+ONEOK,OKE,2022Q1,2022-04-25,분기말 상장주식수,446616031,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/1039684/000103968422000034/,dei:EntityCommonStockSharesOutstanding 클래스 합,10
+ONEOK,OKE,2022Q1,2022-03-31,분기말 시가총액,31544490270,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/OKE?interval=1d&events=splits (2022-03-31) ; https://www.sec.gov/Archives/edgar/data/1039684/000103968422000034/,종가 70.63 × 주식수 446616031,10
+ONEOK,OKE,2022Q2,2022-06-30,분기별 매출액,5996721000,USD,공시,https://www.sec.gov/Archives/edgar/data/1039684/000103968422000059/,,10
+ONEOK,OKE,2022Q2,2022-06-30,분기별 영업이익,688950000,USD,공시,https://www.sec.gov/Archives/edgar/data/1039684/000103968422000059/,,10
+ONEOK,OKE,2022Q2,2022-06-30,분기별 당기순이익(지배),414378000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/1039684/000103968422000059/,,10
+ONEOK,OKE,2022Q2,2022-06-30,분기별 영업활동현금흐름,787373000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/1039684/000103968422000059/ ; https://www.sec.gov/Archives/edgar/data/1039684/000103968422000034/,누적 1249584000 − 직전누적 462211000 (시작 2022-01-01),10
+ONEOK,OKE,2022Q2,2022-06-30,분기말 자산총계,24526804000,USD,공시,https://www.sec.gov/Archives/edgar/data/1039684/000103968422000059/,,10
+ONEOK,OKE,2022Q2,2022-06-30,분기말 부채총계,18412175000,USD,계산(부채및자본-총자본),https://www.sec.gov/Archives/edgar/data/1039684/000103968422000059/,부채및자본 24526804000 − 총자본 6114629000,10
+ONEOK,OKE,2022Q2,2022-06-30,분기말 총자본(자기자본),6114629000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/1039684/000103968422000059/,"StockholdersEquity, MinorityInterest 태그 없음",10
+ONEOK,OKE,2022Q2,2022-06-30,분기말 지배지분 자본,6114629000,USD,공시,https://www.sec.gov/Archives/edgar/data/1039684/000103968422000059/,,10
+ONEOK,OKE,2022Q2,2022-06-30,분기말 종가,55.5,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/OKE?interval=1d&events=splits (2022-06-30),,10
+ONEOK,OKE,2022Q2,2022-08-01,분기말 상장주식수,446862227,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/1039684/000103968422000059/,dei:EntityCommonStockSharesOutstanding 클래스 합,10
+ONEOK,OKE,2022Q2,2022-06-30,분기말 시가총액,24800853598,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/OKE?interval=1d&events=splits (2022-06-30) ; https://www.sec.gov/Archives/edgar/data/1039684/000103968422000059/,종가 55.5 × 주식수 446862227,10
+ONEOK,OKE,2022Q3,2022-09-30,분기별 매출액,5913531000,USD,공시,https://www.sec.gov/Archives/edgar/data/1039684/000103968422000076/,,10
+ONEOK,OKE,2022Q3,2022-09-30,분기별 영업이익,699201000,USD,공시,https://www.sec.gov/Archives/edgar/data/1039684/000103968422000076/,,10
+ONEOK,OKE,2022Q3,2022-09-30,분기별 당기순이익(지배),431751000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/1039684/000103968422000076/,,10
+ONEOK,OKE,2022Q3,2022-09-30,분기별 영업활동현금흐름,615922000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/1039684/000103968422000076/ ; https://www.sec.gov/Archives/edgar/data/1039684/000103968422000059/,누적 1865506000 − 직전누적 1249584000 (시작 2022-01-01),10
+ONEOK,OKE,2022Q3,2022-09-30,분기말 자산총계,24439243000,USD,공시,https://www.sec.gov/Archives/edgar/data/1039684/000103968422000076/,,10
+ONEOK,OKE,2022Q3,2022-09-30,분기말 부채총계,18126974000,USD,계산(부채및자본-총자본),https://www.sec.gov/Archives/edgar/data/1039684/000103968422000076/,부채및자본 24439243000 − 총자본 6312269000,10
+ONEOK,OKE,2022Q3,2022-09-30,분기말 총자본(자기자본),6312269000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/1039684/000103968422000076/,"StockholdersEquity, MinorityInterest 태그 없음",10
+ONEOK,OKE,2022Q3,2022-09-30,분기말 지배지분 자본,6312269000,USD,공시,https://www.sec.gov/Archives/edgar/data/1039684/000103968422000076/,,10
+ONEOK,OKE,2022Q3,2022-09-30,분기말 종가,51.24,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/OKE?interval=1d&events=splits (2022-09-30),,10
+ONEOK,OKE,2022Q3,2022-10-24,분기말 상장주식수,446953842,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/1039684/000103968422000076/,dei:EntityCommonStockSharesOutstanding 클래스 합,10
+ONEOK,OKE,2022Q3,2022-09-30,분기말 시가총액,22901914864,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/OKE?interval=1d&events=splits (2022-09-30) ; https://www.sec.gov/Archives/edgar/data/1039684/000103968422000076/,종가 51.24 × 주식수 446953842,10
+ONEOK,OKE,2022Q4,2022-12-31,분기별 매출액,5032031000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/1039684/000103968423000016/ ; https://www.sec.gov/Archives/edgar/data/1039684/000103968422000076/,연간 22386892000 − 9개월누적 17354861000 (Revenues),10
+ONEOK,OKE,2022Q4,2022-12-31,분기별 영업이익,756812000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/1039684/000103968423000016/ ; https://www.sec.gov/Archives/edgar/data/1039684/000103968422000076/,연간 2807419000 − 9개월누적 2050607000 (OperatingIncomeLoss),10
+ONEOK,OKE,2022Q4,2022-12-31,분기별 당기순이익(지배),484921000,USD,"계산(연간-3분기누적, 비지배 없음)",https://www.sec.gov/Archives/edgar/data/1039684/000103968423000016/ ; https://www.sec.gov/Archives/edgar/data/1039684/000103968422000076/,연간 1722221000 − 9개월누적 1237300000 (ProfitLoss),10
+ONEOK,OKE,2022Q4,2022-12-31,분기별 영업활동현금흐름,1040449000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/1039684/000103968423000016/ ; https://www.sec.gov/Archives/edgar/data/1039684/000103968422000076/,누적 2905955000 − 직전누적 1865506000 (시작 2022-01-01),10
+ONEOK,OKE,2022Q4,2022-12-31,분기말 자산총계,24379094000,USD,공시,https://www.sec.gov/Archives/edgar/data/1039684/000103968423000016/,,10
+ONEOK,OKE,2022Q4,2022-12-31,분기말 부채총계,17885209000,USD,계산(부채및자본-총자본),https://www.sec.gov/Archives/edgar/data/1039684/000103968423000016/,부채및자본 24379094000 − 총자본 6493885000,10
+ONEOK,OKE,2022Q4,2022-12-31,분기말 총자본(자기자본),6493885000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/1039684/000103968423000016/,"StockholdersEquity, MinorityInterest 태그 없음",10
+ONEOK,OKE,2022Q4,2022-12-31,분기말 지배지분 자본,6493885000,USD,공시,https://www.sec.gov/Archives/edgar/data/1039684/000103968423000016/,,10
+ONEOK,OKE,2022Q4,2022-12-30,분기말 종가,65.7,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/OKE?interval=1d&events=splits (2022-12-30),,10
+ONEOK,OKE,2022Q4,2023-02-21,분기말 상장주식수,447220972,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/1039684/000103968423000016/,dei:EntityCommonStockSharesOutstanding 클래스 합,10
+ONEOK,OKE,2022Q4,2022-12-30,분기말 시가총액,29382417860,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/OKE?interval=1d&events=splits (2022-12-30) ; https://www.sec.gov/Archives/edgar/data/1039684/000103968423000016/,종가 65.7 × 주식수 447220972,10
+ONEOK,OKE,2023Q1,2023-03-31,분기별 매출액,4521000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1039684/000103968423000037/,,10
+ONEOK,OKE,2023Q1,2023-03-31,분기별 영업이익,1497000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1039684/000103968423000037/,,10
+ONEOK,OKE,2023Q1,2023-03-31,분기별 당기순이익(지배),1049000000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/1039684/000103968423000037/,,10
+ONEOK,OKE,2023Q1,2023-03-31,분기별 영업활동현금흐름,1221000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1039684/000103968423000037/,,10
+ONEOK,OKE,2023Q1,2023-03-31,분기말 자산총계,24464000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1039684/000103968423000037/,,10
+ONEOK,OKE,2023Q1,2023-03-31,분기말 부채총계,17332000000,USD,계산(부채및자본-총자본),https://www.sec.gov/Archives/edgar/data/1039684/000103968423000037/,부채및자본 24464000000 − 총자본 7132000000,10
+ONEOK,OKE,2023Q1,2023-03-31,분기말 총자본(자기자본),7132000000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/1039684/000103968423000037/,"StockholdersEquity, MinorityInterest 태그 없음",10
+ONEOK,OKE,2023Q1,2023-03-31,분기말 지배지분 자본,7132000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1039684/000103968423000037/,,10
+ONEOK,OKE,2023Q1,2023-03-31,분기말 종가,63.54,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/OKE?interval=1d&events=splits (2023-03-31),,10
+ONEOK,OKE,2023Q1,2023-04-24,분기말 상장주식수,447443257,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/1039684/000103968423000037/,dei:EntityCommonStockSharesOutstanding 클래스 합,10
+ONEOK,OKE,2023Q1,2023-03-31,분기말 시가총액,28430544550,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/OKE?interval=1d&events=splits (2023-03-31) ; https://www.sec.gov/Archives/edgar/data/1039684/000103968423000037/,종가 63.54 × 주식수 447443257,10
+ONEOK,OKE,2023Q2,2023-06-30,분기별 매출액,3732000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1039684/000103968423000061/,,10
+ONEOK,OKE,2023Q2,2023-06-30,분기별 영업이익,737000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1039684/000103968423000061/,,10
+ONEOK,OKE,2023Q2,2023-06-30,분기별 당기순이익(지배),468000000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/1039684/000103968423000061/,,10
+ONEOK,OKE,2023Q2,2023-06-30,분기별 영업활동현금흐름,772000000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/1039684/000103968423000061/ ; https://www.sec.gov/Archives/edgar/data/1039684/000103968423000037/,누적 1993000000 − 직전누적 1221000000 (시작 2023-01-01),10
+ONEOK,OKE,2023Q2,2023-06-30,분기말 자산총계,24038000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1039684/000103968423000061/,,10
+ONEOK,OKE,2023Q2,2023-06-30,분기말 부채총계,16820000000,USD,계산(부채및자본-총자본),https://www.sec.gov/Archives/edgar/data/1039684/000103968423000061/,부채및자본 24038000000 − 총자본 7218000000,10
+ONEOK,OKE,2023Q2,2023-06-30,분기말 총자본(자기자본),7218000000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/1039684/000103968423000061/,"StockholdersEquity, MinorityInterest 태그 없음",10
+ONEOK,OKE,2023Q2,2023-06-30,분기말 지배지분 자본,7218000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1039684/000103968423000061/,,10
+ONEOK,OKE,2023Q2,2023-06-30,분기말 종가,61.72,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/OKE?interval=1d&events=splits (2023-06-30),,10
+ONEOK,OKE,2023Q2,2023-07-31,분기말 상장주식수,447674825,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/1039684/000103968423000061/,dei:EntityCommonStockSharesOutstanding 클래스 합,10
+ONEOK,OKE,2023Q2,2023-06-30,분기말 시가총액,27630490199,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/OKE?interval=1d&events=splits (2023-06-30) ; https://www.sec.gov/Archives/edgar/data/1039684/000103968423000061/,종가 61.72 × 주식수 447674825,10
+ONEOK,OKE,2023Q3,2023-09-30,분기별 매출액,4189000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1039684/000103968423000081/,,10
+ONEOK,OKE,2023Q3,2023-09-30,분기별 영업이익,739000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1039684/000103968423000081/,,10
+ONEOK,OKE,2023Q3,2023-09-30,분기별 당기순이익(지배),454000000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/1039684/000103968423000081/,,10
+ONEOK,OKE,2023Q3,2023-09-30,분기별 영업활동현금흐름,920000000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/1039684/000103968423000081/ ; https://www.sec.gov/Archives/edgar/data/1039684/000103968423000061/,누적 2913000000 − 직전누적 1993000000 (시작 2023-01-01),10
+ONEOK,OKE,2023Q3,2023-09-30,분기말 자산총계,43939000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1039684/000103968423000081/,,10
+ONEOK,OKE,2023Q3,2023-09-30,분기말 부채총계,27640000000,USD,계산(부채및자본-총자본),https://www.sec.gov/Archives/edgar/data/1039684/000103968423000081/,부채및자본 43939000000 − 총자본 16299000000,10
+ONEOK,OKE,2023Q3,2023-09-30,분기말 총자본(자기자본),16299000000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/1039684/000103968423000081/,"StockholdersEquity, MinorityInterest 태그 없음",10
+ONEOK,OKE,2023Q3,2023-09-30,분기말 지배지분 자본,16299000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1039684/000103968423000081/,,10
+ONEOK,OKE,2023Q3,2023-09-29,분기말 종가,63.43,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/OKE?interval=1d&events=splits (2023-09-29),,10
+ONEOK,OKE,2023Q3,2023-10-23,분기말 상장주식수,582550734,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/1039684/000103968423000081/,dei:EntityCommonStockSharesOutstanding 클래스 합,10
+ONEOK,OKE,2023Q3,2023-09-29,분기말 시가총액,36951193058,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/OKE?interval=1d&events=splits (2023-09-29) ; https://www.sec.gov/Archives/edgar/data/1039684/000103968423000081/,종가 63.43 × 주식수 582550734,10
+ONEOK,OKE,2023Q4,2023-12-31,분기별 매출액,5235000000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/1039684/000103968424000015/ ; https://www.sec.gov/Archives/edgar/data/1039684/000103968423000081/,연간 17677000000 − 9개월누적 12442000000 (RevenueFromContractWithCustomerExcludingAssessedTax),10
+ONEOK,OKE,2023Q4,2023-12-31,분기별 영업이익,1099000000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/1039684/000103968424000015/ ; https://www.sec.gov/Archives/edgar/data/1039684/000103968423000081/,연간 4072000000 − 9개월누적 2973000000 (OperatingIncomeLoss),10
+ONEOK,OKE,2023Q4,2023-12-31,분기별 당기순이익(지배),688000000,USD,"계산(연간-3분기누적, 비지배 없음)",https://www.sec.gov/Archives/edgar/data/1039684/000103968424000015/ ; https://www.sec.gov/Archives/edgar/data/1039684/000103968423000081/,연간 2659000000 − 9개월누적 1971000000 (ProfitLoss),10
+ONEOK,OKE,2023Q4,2023-12-31,분기별 영업활동현금흐름,1508000000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/1039684/000103968424000015/ ; https://www.sec.gov/Archives/edgar/data/1039684/000103968423000081/,누적 4421000000 − 직전누적 2913000000 (시작 2023-01-01),10
+ONEOK,OKE,2023Q4,2023-12-31,분기말 자산총계,44266000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1039684/000103968424000015/,,10
+ONEOK,OKE,2023Q4,2023-12-31,분기말 부채총계,27782000000,USD,계산(부채및자본-총자본),https://www.sec.gov/Archives/edgar/data/1039684/000103968424000015/,부채및자본 44266000000 − 총자본 16484000000,10
+ONEOK,OKE,2023Q4,2023-12-31,분기말 총자본(자기자본),16484000000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/1039684/000103968424000015/,"StockholdersEquity, MinorityInterest 태그 없음",10
+ONEOK,OKE,2023Q4,2023-12-31,분기말 지배지분 자본,16484000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1039684/000103968424000015/,,10
+ONEOK,OKE,2023Q4,2023-12-29,분기말 종가,70.22,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/OKE?interval=1d&events=splits (2023-12-29),,10
+ONEOK,OKE,2023Q4,2024-02-20,분기말 상장주식수,583159446,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/1039684/000103968424000015/,dei:EntityCommonStockSharesOutstanding 클래스 합,10
+ONEOK,OKE,2023Q4,2023-12-29,분기말 시가총액,40949456298,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/OKE?interval=1d&events=splits (2023-12-29) ; https://www.sec.gov/Archives/edgar/data/1039684/000103968424000015/,종가 70.22 × 주식수 583159446,10
+ONEOK,OKE,2024Q1,2024-03-31,분기별 매출액,4781000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1039684/000103968424000035/,,10
+ONEOK,OKE,2024Q1,2024-03-31,분기별 영업이익,1064000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1039684/000103968424000035/,,10
+ONEOK,OKE,2024Q1,2024-03-31,분기별 당기순이익(지배),639000000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/1039684/000103968424000035/,,10
+ONEOK,OKE,2024Q1,2024-03-31,분기별 영업활동현금흐름,596000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1039684/000103968424000035/,,10
+ONEOK,OKE,2024Q1,2024-03-31,분기말 자산총계,44390000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1039684/000103968424000035/,,10
+ONEOK,OKE,2024Q1,2024-03-31,분기말 부채총계,27945000000,USD,계산(부채및자본-총자본),https://www.sec.gov/Archives/edgar/data/1039684/000103968424000035/,부채및자본 44390000000 − 총자본 16445000000,10
+ONEOK,OKE,2024Q1,2024-03-31,분기말 총자본(자기자본),16445000000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/1039684/000103968424000035/,"StockholdersEquity, MinorityInterest 태그 없음",10
+ONEOK,OKE,2024Q1,2024-03-31,분기말 지배지분 자본,16445000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1039684/000103968424000035/,,10
+ONEOK,OKE,2024Q1,2024-03-28,분기말 종가,80.17,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/OKE?interval=1d&events=splits (2024-03-28),,10
+ONEOK,OKE,2024Q1,2024-04-22,분기말 상장주식수,583646909,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/1039684/000103968424000035/,dei:EntityCommonStockSharesOutstanding 클래스 합,10
+ONEOK,OKE,2024Q1,2024-03-28,분기말 시가총액,46790972695,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/OKE?interval=1d&events=splits (2024-03-28) ; https://www.sec.gov/Archives/edgar/data/1039684/000103968424000035/,종가 80.17 × 주식수 583646909,10
+ONEOK,OKE,2024Q2,2024-06-30,분기별 매출액,4894000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1039684/000103968424000138/,,10
+ONEOK,OKE,2024Q2,2024-06-30,분기별 영업이익,1229000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1039684/000103968424000138/,,10
+ONEOK,OKE,2024Q2,2024-06-30,분기별 당기순이익(지배),780000000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/1039684/000103968424000138/,,10
+ONEOK,OKE,2024Q2,2024-06-30,분기별 영업활동현금흐름,1430000000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/1039684/000103968424000138/ ; https://www.sec.gov/Archives/edgar/data/1039684/000103968424000035/,누적 2026000000 − 직전누적 596000000 (시작 2024-01-01),10
+ONEOK,OKE,2024Q2,2024-06-30,분기말 자산총계,44535000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1039684/000103968424000138/,,10
+ONEOK,OKE,2024Q2,2024-06-30,분기말 부채총계,27826000000,USD,계산(부채및자본-총자본),https://www.sec.gov/Archives/edgar/data/1039684/000103968424000138/,부채및자본 44535000000 − 총자본 16709000000,10
+ONEOK,OKE,2024Q2,2024-06-30,분기말 총자본(자기자본),16709000000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/1039684/000103968424000138/,"StockholdersEquity, MinorityInterest 태그 없음",10
+ONEOK,OKE,2024Q2,2024-06-30,분기말 지배지분 자본,16709000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1039684/000103968424000138/,,10
+ONEOK,OKE,2024Q2,2024-06-28,분기말 종가,81.55,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/OKE?interval=1d&events=splits (2024-06-28),,10
+ONEOK,OKE,2024Q2,2024-07-29,분기말 상장주식수,584073924,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/1039684/000103968424000138/,dei:EntityCommonStockSharesOutstanding 클래스 합,10
+ONEOK,OKE,2024Q2,2024-06-28,분기말 시가총액,47631228502,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/OKE?interval=1d&events=splits (2024-06-28) ; https://www.sec.gov/Archives/edgar/data/1039684/000103968424000138/,종가 81.55 × 주식수 584073924,10
+ONEOK,OKE,2024Q3,2024-09-30,분기별 매출액,5023000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1039684/000103968424000342/,,10
+ONEOK,OKE,2024Q3,2024-09-30,분기별 영업이익,1128000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1039684/000103968424000342/,,10
+ONEOK,OKE,2024Q3,2024-09-30,분기별 당기순이익(지배),693000000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/1039684/000103968424000342/,,10
+ONEOK,OKE,2024Q3,2024-09-30,분기별 영업활동현금흐름,1251000000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/1039684/000103968424000342/ ; https://www.sec.gov/Archives/edgar/data/1039684/000103968424000138/,누적 3277000000 − 직전누적 2026000000 (시작 2024-01-01),10
+ONEOK,OKE,2024Q3,2024-09-30,분기말 자산총계,51050000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1039684/000103968424000342/,,10
+ONEOK,OKE,2024Q3,2024-09-30,분기말 부채총계,34163000000,USD,계산(부채및자본-총자본),https://www.sec.gov/Archives/edgar/data/1039684/000103968424000342/,부채및자본 51050000000 − 총자본 16887000000,10
+ONEOK,OKE,2024Q3,2024-09-30,분기말 총자본(자기자본),16887000000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/1039684/000103968424000342/,"StockholdersEquity, MinorityInterest 태그 없음",10
+ONEOK,OKE,2024Q3,2024-09-30,분기말 지배지분 자본,16887000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1039684/000103968424000342/,,10
+ONEOK,OKE,2024Q3,2024-09-30,분기말 종가,91.13,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/OKE?interval=1d&events=splits (2024-09-30),,10
+ONEOK,OKE,2024Q3,2024-10-21,분기말 상장주식수,584184191,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/1039684/000103968424000342/,dei:EntityCommonStockSharesOutstanding 클래스 합,10
+ONEOK,OKE,2024Q3,2024-09-30,분기말 시가총액,53236705326,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/OKE?interval=1d&events=splits (2024-09-30) ; https://www.sec.gov/Archives/edgar/data/1039684/000103968424000342/,종가 91.13 × 주식수 584184191,10
+ONEOK,OKE,2024Q4,2024-12-31,분기별 매출액,7000000000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/1039684/000103968425000036/ ; https://www.sec.gov/Archives/edgar/data/1039684/000103968424000342/,연간 21698000000 − 9개월누적 14698000000 (RevenueFromContractWithCustomerExcludingAssessedTax),10
+ONEOK,OKE,2024Q4,2024-12-31,분기별 영업이익,1568000000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/1039684/000103968425000036/ ; https://www.sec.gov/Archives/edgar/data/1039684/000103968424000342/,연간 4989000000 − 9개월누적 3421000000 (OperatingIncomeLoss),10
+ONEOK,OKE,2024Q4,2024-12-31,분기별 당기순이익(지배),923000000,USD,계산(연간(연결-비지배)-3분기누적),https://www.sec.gov/Archives/edgar/data/1039684/000103968425000036/ ; https://www.sec.gov/Archives/edgar/data/1039684/000103968424000342/,"연간 연결 3112000000 − 비지배 77000000 − (9개월 연결 2112000000, 비지배 태그 없음)",10
+ONEOK,OKE,2024Q4,2024-12-31,분기별 영업활동현금흐름,1611000000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/1039684/000103968425000036/ ; https://www.sec.gov/Archives/edgar/data/1039684/000103968424000342/,누적 4888000000 − 직전누적 3277000000 (시작 2024-01-01),10
+ONEOK,OKE,2024Q4,2024-12-31,분기말 자산총계,64069000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1039684/000103968425000036/,,10
+ONEOK,OKE,2024Q4,2024-12-31,분기말 부채총계,41936000000,USD,계산(부채및자본-총자본),https://www.sec.gov/Archives/edgar/data/1039684/000103968425000036/,부채및자본 64069000000 − 총자본 22133000000,10
+ONEOK,OKE,2024Q4,2024-12-31,분기말 총자본(자기자본),22133000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1039684/000103968425000036/,,10
+ONEOK,OKE,2024Q4,2024-12-31,분기말 지배지분 자본,17036000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1039684/000103968425000036/,,10
+ONEOK,OKE,2024Q4,2024-12-31,분기말 종가,100.4,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/OKE?interval=1d&events=splits (2024-12-31),,10
+ONEOK,OKE,2024Q4,2025-02-17,분기말 상장주식수,624339588,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/1039684/000103968425000036/,dei:EntityCommonStockSharesOutstanding 클래스 합,10
+ONEOK,OKE,2024Q4,2024-12-31,분기말 시가총액,62683694635,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/OKE?interval=1d&events=splits (2024-12-31) ; https://www.sec.gov/Archives/edgar/data/1039684/000103968425000036/,종가 100.4 × 주식수 624339588,10
+ONEOK,OKE,2025Q1,2025-03-31,분기별 매출액,8043000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1039684/000103968425000061/,,10
+ONEOK,OKE,2025Q1,2025-03-31,분기별 영업이익,1220000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1039684/000103968425000061/,,10
+ONEOK,OKE,2025Q1,2025-03-31,분기별 당기순이익(지배),636000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1039684/000103968425000061/,,10
+ONEOK,OKE,2025Q1,2025-03-31,분기별 영업활동현금흐름,904000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1039684/000103968425000061/,,10
+ONEOK,OKE,2025Q1,2025-03-31,분기말 자산총계,64263000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1039684/000103968425000061/,,10
+ONEOK,OKE,2025Q1,2025-03-31,분기말 부채총계,42143000000,USD,계산(부채및자본-총자본),https://www.sec.gov/Archives/edgar/data/1039684/000103968425000061/,부채및자본 64263000000 − 총자본 22120000000,10
+ONEOK,OKE,2025Q1,2025-03-31,분기말 총자본(자기자본),22120000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1039684/000103968425000061/,,10
+ONEOK,OKE,2025Q1,2025-03-31,분기말 지배지분 자본,21364000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1039684/000103968425000061/,,10
+ONEOK,OKE,2025Q1,2025-03-31,분기말 종가,99.22,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/OKE?interval=1d&events=splits (2025-03-31),,10
+ONEOK,OKE,2025Q1,2025-04-21,분기말 상장주식수,624632479,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/1039684/000103968425000061/,dei:EntityCommonStockSharesOutstanding 클래스 합,10
+ONEOK,OKE,2025Q1,2025-03-31,분기말 시가총액,61976034566,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/OKE?interval=1d&events=splits (2025-03-31) ; https://www.sec.gov/Archives/edgar/data/1039684/000103968425000061/,종가 99.22 × 주식수 624632479,10
+ONEOK,OKE,2025Q2,2025-06-30,분기별 매출액,7887000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1039684/000103968425000114/,,10
+ONEOK,OKE,2025Q2,2025-06-30,분기별 영업이익,1431000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1039684/000103968425000114/,,10
+ONEOK,OKE,2025Q2,2025-06-30,분기별 당기순이익(지배),841000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1039684/000103968425000114/,,10
+ONEOK,OKE,2025Q2,2025-06-30,분기별 영업활동현금흐름,1525000000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/1039684/000103968425000114/ ; https://www.sec.gov/Archives/edgar/data/1039684/000103968425000061/,누적 2429000000 − 직전누적 904000000 (시작 2025-01-01),10
+ONEOK,OKE,2025Q2,2025-06-30,분기말 자산총계,64524000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1039684/000103968425000114/,,10
+ONEOK,OKE,2025Q2,2025-06-30,분기말 부채총계,42620000000,USD,계산(부채및자본-총자본),https://www.sec.gov/Archives/edgar/data/1039684/000103968425000114/,부채및자본 64524000000 − 총자본 21904000000,10
+ONEOK,OKE,2025Q2,2025-06-30,분기말 총자본(자기자본),21904000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1039684/000103968425000114/,,10
+ONEOK,OKE,2025Q2,2025-06-30,분기말 지배지분 자본,21830000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1039684/000103968425000114/,,10
+ONEOK,OKE,2025Q2,2025-06-30,분기말 종가,81.63,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/OKE?interval=1d&events=splits (2025-06-30),,10
+ONEOK,OKE,2025Q2,2025-07-28,분기말 상장주식수,629755979,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/1039684/000103968425000114/,dei:EntityCommonStockSharesOutstanding 클래스 합,10
+ONEOK,OKE,2025Q2,2025-06-30,분기말 시가총액,51406980566,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/OKE?interval=1d&events=splits (2025-06-30) ; https://www.sec.gov/Archives/edgar/data/1039684/000103968425000114/,종가 81.63 × 주식수 629755979,10
+ONEOK,OKE,2025Q3,2025-09-30,분기별 매출액,8634000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1039684/000103968425000123/,,10
+ONEOK,OKE,2025Q3,2025-09-30,분기별 영업이익,1558000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1039684/000103968425000123/,,10
+ONEOK,OKE,2025Q3,2025-09-30,분기별 당기순이익(지배),939000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1039684/000103968425000123/,,10
+ONEOK,OKE,2025Q3,2025-09-30,분기별 영업활동현금흐름,1624000000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/1039684/000103968425000123/ ; https://www.sec.gov/Archives/edgar/data/1039684/000103968425000114/,누적 4053000000 − 직전누적 2429000000 (시작 2025-01-01),10
+ONEOK,OKE,2025Q3,2025-09-30,분기말 자산총계,66616000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1039684/000103968425000123/,,10
+ONEOK,OKE,2025Q3,2025-09-30,분기말 부채총계,44459000000,USD,계산(부채및자본-총자본),https://www.sec.gov/Archives/edgar/data/1039684/000103968425000123/,부채및자본 66616000000 − 총자본 22157000000,10
+ONEOK,OKE,2025Q3,2025-09-30,분기말 총자본(자기자본),22157000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1039684/000103968425000123/,,10
+ONEOK,OKE,2025Q3,2025-09-30,분기말 지배지분 자본,22081000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1039684/000103968425000123/,,10
+ONEOK,OKE,2025Q3,2025-09-30,분기말 종가,72.97,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/OKE?interval=1d&events=splits (2025-09-30),,10
+ONEOK,OKE,2025Q3,2025-10-20,분기말 상장주식수,629231557,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/1039684/000103968425000123/,dei:EntityCommonStockSharesOutstanding 클래스 합,10
+ONEOK,OKE,2025Q3,2025-09-30,분기말 시가총액,45915026714,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/OKE?interval=1d&events=splits (2025-09-30) ; https://www.sec.gov/Archives/edgar/data/1039684/000103968425000123/,종가 72.97 × 주식수 629231557,10
+ONEOK,OKE,2025Q4,2025-12-31,분기별 매출액,9065000000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/1039684/000103968426000006/ ; https://www.sec.gov/Archives/edgar/data/1039684/000103968425000123/,연간 33629000000 − 9개월누적 24564000000 (RevenueFromContractWithCustomerExcludingAssessedTax),10
+ONEOK,OKE,2025Q4,2025-12-31,분기별 영업이익,1532000000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/1039684/000103968426000006/ ; https://www.sec.gov/Archives/edgar/data/1039684/000103968425000123/,연간 5741000000 − 9개월누적 4209000000 (OperatingIncomeLoss),10
+ONEOK,OKE,2025Q4,2025-12-31,분기별 당기순이익(지배),977000000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/1039684/000103968426000006/ ; https://www.sec.gov/Archives/edgar/data/1039684/000103968425000123/,연간 3393000000 − 9개월누적 2416000000 (NetIncomeLoss),10
+ONEOK,OKE,2025Q4,2025-12-31,분기별 영업활동현금흐름,1546000000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/1039684/000103968426000006/ ; https://www.sec.gov/Archives/edgar/data/1039684/000103968425000123/,누적 5599000000 − 직전누적 4053000000 (시작 2025-01-01),10
+ONEOK,OKE,2025Q4,2025-12-31,분기말 자산총계,66641000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1039684/000103968426000006/,,10
+ONEOK,OKE,2025Q4,2025-12-31,분기말 부채총계,44072000000,USD,계산(부채및자본-총자본),https://www.sec.gov/Archives/edgar/data/1039684/000103968426000006/,부채및자본 66641000000 − 총자본 22569000000,10
+ONEOK,OKE,2025Q4,2025-12-31,분기말 총자본(자기자본),22569000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1039684/000103968426000006/,,10
+ONEOK,OKE,2025Q4,2025-12-31,분기말 지배지분 자본,22485000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1039684/000103968426000006/,,10
+ONEOK,OKE,2025Q4,2025-12-31,분기말 종가,73.5,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/OKE?interval=1d&events=splits (2025-12-31),,10
+ONEOK,OKE,2025Q4,2026-02-16,분기말 상장주식수,629783634,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/1039684/000103968426000006/,dei:EntityCommonStockSharesOutstanding 클래스 합,10
+ONEOK,OKE,2025Q4,2025-12-31,분기말 시가총액,46289097099,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/OKE?interval=1d&events=splits (2025-12-31) ; https://www.sec.gov/Archives/edgar/data/1039684/000103968426000006/,종가 73.5 × 주식수 629783634,10
+ONEOK,OKE,2026Q1,2026-03-31,분기별 매출액,9618000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1039684/000103968426000017/,,10
+ONEOK,OKE,2026Q1,2026-03-31,분기별 영업이익,1428000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1039684/000103968426000017/,,10
+ONEOK,OKE,2026Q1,2026-03-31,분기별 당기순이익(지배),774000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1039684/000103968426000017/,,10
+ONEOK,OKE,2026Q1,2026-03-31,분기별 영업활동현금흐름,934000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1039684/000103968426000017/,,10
+ONEOK,OKE,2026Q1,2026-03-31,분기말 자산총계,68203000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1039684/000103968426000017/,,10
+ONEOK,OKE,2026Q1,2026-03-31,분기말 부채총계,45715000000,USD,계산(부채및자본-총자본),https://www.sec.gov/Archives/edgar/data/1039684/000103968426000017/,부채및자본 68203000000 − 총자본 22447000000 − 메자닌 41000000 ; 메자닌(일시자본) 41000000 별도,10
+ONEOK,OKE,2026Q1,2026-03-31,분기말 총자본(자기자본),22447000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1039684/000103968426000017/,,10
+ONEOK,OKE,2026Q1,2026-03-31,분기말 지배지분 자본,22357000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1039684/000103968426000017/,,10
+ONEOK,OKE,2026Q1,2026-03-31,분기말 종가,90.39,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/OKE?interval=1d&events=splits (2026-03-31),,10
+ONEOK,OKE,2026Q1,2026-04-20,분기말 상장주식수,630032852,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/1039684/000103968426000017/,dei:EntityCommonStockSharesOutstanding 클래스 합,10
+ONEOK,OKE,2026Q1,2026-03-31,분기말 시가총액,56948669492,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/OKE?interval=1d&events=splits (2026-03-31) ; https://www.sec.gov/Archives/edgar/data/1039684/000103968426000017/,종가 90.39 × 주식수 630032852,10
+ONEOK,OKE,2026Q2,2026-06-30,분기별 매출액,12049000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1039684/000103968426000029/,,10
+ONEOK,OKE,2026Q2,2026-06-30,분기별 영업이익,1593000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1039684/000103968426000029/,,10
+ONEOK,OKE,2026Q2,2026-06-30,분기별 당기순이익(지배),966000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1039684/000103968426000029/,,10
+ONEOK,OKE,2026Q2,2026-06-30,분기별 영업활동현금흐름,2053000000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/1039684/000103968426000029/ ; https://www.sec.gov/Archives/edgar/data/1039684/000103968426000017/,누적 2987000000 − 직전누적 934000000 (시작 2026-01-01),10
+ONEOK,OKE,2026Q2,2026-06-30,분기말 자산총계,68549000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1039684/000103968426000029/,,10
+ONEOK,OKE,2026Q2,2026-06-30,분기말 부채총계,45468000000,USD,계산(부채및자본-총자본),https://www.sec.gov/Archives/edgar/data/1039684/000103968426000029/,부채및자본 68549000000 − 총자본 23037000000 − 메자닌 44000000 ; 메자닌(일시자본) 44000000 별도,10
+ONEOK,OKE,2026Q2,2026-06-30,분기말 총자본(자기자본),23037000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1039684/000103968426000029/,,10
+ONEOK,OKE,2026Q2,2026-06-30,분기말 지배지분 자본,22937000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1039684/000103968426000029/,,10
+ONEOK,OKE,2026Q2,2026-06-30,분기말 종가,86.94,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/OKE?interval=1d&events=splits (2026-06-30),,10
+ONEOK,OKE,2026Q2,2026-07-27,분기말 상장주식수,630369667,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/1039684/000103968426000029/,dei:EntityCommonStockSharesOutstanding 클래스 합,10
+ONEOK,OKE,2026Q2,2026-06-30,분기말 시가총액,54804338849,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/OKE?interval=1d&events=splits (2026-06-30) ; https://www.sec.gov/Archives/edgar/data/1039684/000103968426000029/,종가 86.94 × 주식수 630369667,10

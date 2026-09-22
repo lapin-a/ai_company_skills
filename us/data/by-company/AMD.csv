@@ -1,0 +1,727 @@
+﻿기업,종목코드,기간,기준일,항목,값,통화,값구분,출처,검산,라운드
+AMD,AMD,2010Q1,2010-03-27,분기별 매출액,미확인,USD,미확인,https://www.sec.gov/Archives/edgar/data/2488/000119312510106750/,,2
+AMD,AMD,2010Q1,2010-03-27,분기별 영업이익,182000000,USD,공시(후속 보고서 비교기간),https://www.sec.gov/Archives/edgar/data/2488/000119312511134452/,OperatingIncomeLoss ; 그 분기 보고서에 연결 총계가 없어 2011-05-10 제출본의 비교기간에서 읽었다,2
+AMD,AMD,2010Q1,2010-03-27,분기별 당기순이익(지배),미확인,USD,미확인,https://www.sec.gov/Archives/edgar/data/2488/000119312510106750/,,2
+AMD,AMD,2010Q1,2010-03-27,분기별 영업활동현금흐름,미확인,USD,미확인,https://www.sec.gov/Archives/edgar/data/2488/000119312510106750/,,2
+AMD,AMD,2010Q1,2010-03-27,분기말 자산총계,미확인,USD,미확인,https://www.sec.gov/Archives/edgar/data/2488/000119312510106750/,,2
+AMD,AMD,2010Q1,2010-03-27,분기말 부채총계,미확인,USD,미확인,https://www.sec.gov/Archives/edgar/data/2488/000119312510106750/,,2
+AMD,AMD,2010Q1,2010-03-27,분기말 총자본(자기자본),미확인,USD,미확인,https://www.sec.gov/Archives/edgar/data/2488/000119312510106750/,,2
+AMD,AMD,2010Q1,2010-03-27,분기말 지배지분 자본,미확인,USD,미확인,https://www.sec.gov/Archives/edgar/data/2488/000119312510106750/,,2
+AMD,AMD,2010Q1,2010-03-26,분기말 종가,9.02,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/AMD?interval=1d&events=splits (2010-03-26),,2
+AMD,AMD,2010Q1,2010-03-27,분기말 상장주식수,미확인,,미확인,SEC companyfacts·XBRL 원문 모두 dei 표지 주식수 없음,,2
+AMD,AMD,2010Q1,2010-03-27,분기말 시가총액,미확인,,미확인,SEC companyfacts·XBRL 원문 모두 dei 표지 주식수 없음,,2
+AMD,AMD,2010Q2,2010-06-26,분기별 매출액,미확인,USD,미확인,https://www.sec.gov/Archives/edgar/data/2488/000119312510177386/,,2
+AMD,AMD,2010Q2,2010-06-26,분기별 영업이익,125000000,USD,공시,https://www.sec.gov/Archives/edgar/data/2488/000119312510177386/,,2
+AMD,AMD,2010Q2,2010-06-26,분기별 당기순이익(지배),-43000000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/2488/000119312510177386/,,2
+AMD,AMD,2010Q2,2010-06-26,분기별 영업활동현금흐름,데이터 없음(직전 분기 누적 보고서 없음),USD,데이터 없음(직전 보고서 없음),https://www.sec.gov/Archives/edgar/data/2488/000119312510177386/,,2
+AMD,AMD,2010Q2,2010-06-26,분기말 자산총계,4955000000,USD,공시,https://www.sec.gov/Archives/edgar/data/2488/000119312510177386/,,2
+AMD,AMD,2010Q2,2010-06-26,분기말 부채총계,4203000000,USD,계산(부채및자본-총자본),https://www.sec.gov/Archives/edgar/data/2488/000119312510177386/,부채및자본 4955000000 − 총자본 752000000,2
+AMD,AMD,2010Q2,2010-06-26,분기말 총자본(자기자본),752000000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/2488/000119312510177386/,"StockholdersEquity, MinorityInterest 태그 없음",2
+AMD,AMD,2010Q2,2010-06-26,분기말 지배지분 자본,752000000,USD,공시,https://www.sec.gov/Archives/edgar/data/2488/000119312510177386/,,2
+AMD,AMD,2010Q2,2010-06-25,분기말 종가,8.09,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/AMD?interval=1d&events=splits (2010-06-25),,2
+AMD,AMD,2010Q2,2010-07-30,분기말 상장주식수,674570113,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/2488/000119312510177386/,dei:EntityCommonStockSharesOutstanding 클래스 합,2
+AMD,AMD,2010Q2,2010-06-25,분기말 시가총액,5457272214,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/AMD?interval=1d&events=splits (2010-06-25) ; https://www.sec.gov/Archives/edgar/data/2488/000119312510177386/,종가 8.09 × 주식수 674570113,2
+AMD,AMD,2010Q3,2010-09-25,분기별 매출액,미확인,USD,미확인,https://www.sec.gov/Archives/edgar/data/2488/000119312510246357/,,2
+AMD,AMD,2010Q3,2010-09-25,분기별 영업이익,128000000,USD,공시,https://www.sec.gov/Archives/edgar/data/2488/000119312510246357/,,2
+AMD,AMD,2010Q3,2010-09-25,분기별 당기순이익(지배),-118000000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/2488/000119312510246357/,,2
+AMD,AMD,2010Q3,2010-09-25,분기별 영업활동현금흐름,-124000000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/2488/000119312510246357/ ; https://www.sec.gov/Archives/edgar/data/2488/000119312510177386/,누적 -199000000 − 직전누적 -75000000 (시작 2009-12-27),2
+AMD,AMD,2010Q3,2010-09-25,분기말 자산총계,4595000000,USD,공시,https://www.sec.gov/Archives/edgar/data/2488/000119312510246357/,,2
+AMD,AMD,2010Q3,2010-09-25,분기말 부채총계,3981000000,USD,계산(부채및자본-총자본),https://www.sec.gov/Archives/edgar/data/2488/000119312510246357/,부채및자본 4595000000 − 총자본 614000000,2
+AMD,AMD,2010Q3,2010-09-25,분기말 총자본(자기자본),614000000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/2488/000119312510246357/,"StockholdersEquity, MinorityInterest 태그 없음",2
+AMD,AMD,2010Q3,2010-09-25,분기말 지배지분 자본,614000000,USD,공시,https://www.sec.gov/Archives/edgar/data/2488/000119312510246357/,,2
+AMD,AMD,2010Q3,2010-09-24,분기말 종가,6.84,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/AMD?interval=1d&events=splits (2010-09-24),,2
+AMD,AMD,2010Q3,2010-10-25,분기말 상장주식수,681762518,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/2488/000119312510246357/,dei:EntityCommonStockSharesOutstanding 클래스 합,2
+AMD,AMD,2010Q3,2010-09-24,분기말 시가총액,4663255623,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/AMD?interval=1d&events=splits (2010-09-24) ; https://www.sec.gov/Archives/edgar/data/2488/000119312510246357/,종가 6.84 × 주식수 681762518,2
+AMD,AMD,2010Q4,2010-12-25,분기별 매출액,미확인,USD,미확인,https://www.sec.gov/Archives/edgar/data/2488/000119312511040392/,,2
+AMD,AMD,2010Q4,2010-12-25,분기별 영업이익,413000000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/2488/000119312511040392/ ; https://www.sec.gov/Archives/edgar/data/2488/000119312510246357/,연간 848000000 − 9개월누적 435000000 (OperatingIncomeLoss),2
+AMD,AMD,2010Q4,2010-12-25,분기별 당기순이익(지배),375000000,USD,"계산(연간-3분기누적, 비지배 없음)",https://www.sec.gov/Archives/edgar/data/2488/000119312511040392/ ; https://www.sec.gov/Archives/edgar/data/2488/000119312510246357/,연간 471000000 − 9개월누적 96000000 (ProfitLoss),2
+AMD,AMD,2010Q4,2010-12-25,분기별 영업활동현금흐름,-213000000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/2488/000119312511040392/ ; https://www.sec.gov/Archives/edgar/data/2488/000119312510246357/,누적 -412000000 − 직전누적 -199000000 (시작 2009-12-27),2
+AMD,AMD,2010Q4,2010-12-25,분기말 자산총계,4964000000,USD,공시,https://www.sec.gov/Archives/edgar/data/2488/000119312511040392/,,2
+AMD,AMD,2010Q4,2010-12-25,분기말 부채총계,3951000000,USD,계산(부채및자본-총자본),https://www.sec.gov/Archives/edgar/data/2488/000119312511040392/,부채및자본 4964000000 − 총자본 1013000000,2
+AMD,AMD,2010Q4,2010-12-25,분기말 총자본(자기자본),1013000000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/2488/000119312511040392/,"StockholdersEquity, MinorityInterest 태그 없음",2
+AMD,AMD,2010Q4,2010-12-25,분기말 지배지분 자본,1013000000,USD,공시,https://www.sec.gov/Archives/edgar/data/2488/000119312511040392/,,2
+AMD,AMD,2010Q4,2010-12-23,분기말 종가,8.04,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/AMD?interval=1d&events=splits (2010-12-23),,2
+AMD,AMD,2010Q4,2011-02-14,분기말 상장주식수,685229616,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/2488/000119312511040392/,dei:EntityCommonStockSharesOutstanding 클래스 합,2
+AMD,AMD,2010Q4,2010-12-23,분기말 시가총액,5509246113,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/AMD?interval=1d&events=splits (2010-12-23) ; https://www.sec.gov/Archives/edgar/data/2488/000119312511040392/,종가 8.04 × 주식수 685229616,2
+AMD,AMD,2011Q1,2011-04-02,분기별 매출액,미확인,USD,미확인,https://www.sec.gov/Archives/edgar/data/2488/000119312511200905/,,2
+AMD,AMD,2011Q1,2011-04-02,분기별 영업이익,54000000,USD,공시,https://www.sec.gov/Archives/edgar/data/2488/000119312511134452/,,2
+AMD,AMD,2011Q1,2011-04-02,분기별 당기순이익(지배),510000000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/2488/000119312511134452/,,2
+AMD,AMD,2011Q1,2011-04-02,분기별 영업활동현금흐름,-168000000,USD,공시,https://www.sec.gov/Archives/edgar/data/2488/000119312511134452/,,2
+AMD,AMD,2011Q1,2011-04-02,분기말 자산총계,5209000000,USD,공시,https://www.sec.gov/Archives/edgar/data/2488/000119312511134452/,,2
+AMD,AMD,2011Q1,2011-04-02,분기말 부채총계,3651000000,USD,계산(부채및자본-총자본),https://www.sec.gov/Archives/edgar/data/2488/000119312511134452/,부채및자본 5209000000 − 총자본 1558000000,2
+AMD,AMD,2011Q1,2011-04-02,분기말 총자본(자기자본),1558000000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/2488/000119312511134452/,"StockholdersEquity, MinorityInterest 태그 없음",2
+AMD,AMD,2011Q1,2011-04-02,분기말 지배지분 자본,1558000000,USD,공시,https://www.sec.gov/Archives/edgar/data/2488/000119312511134452/,,2
+AMD,AMD,2011Q1,2011-04-01,분기말 종가,8.36,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/AMD?interval=1d&events=splits (2011-04-01),,2
+AMD,AMD,2011Q1,2011-05-02,분기말 상장주식수,687543533,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/2488/000119312511134452/,dei:EntityCommonStockSharesOutstanding 클래스 합,2
+AMD,AMD,2011Q1,2011-04-01,분기말 시가총액,5747863936,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/AMD?interval=1d&events=splits (2011-04-01) ; https://www.sec.gov/Archives/edgar/data/2488/000119312511134452/,종가 8.36 × 주식수 687543533,2
+AMD,AMD,2011Q2,2011-07-02,분기별 매출액,미확인,USD,미확인,https://www.sec.gov/Archives/edgar/data/2488/000119312511218202/,,2
+AMD,AMD,2011Q2,2011-07-02,분기별 영업이익,105000000,USD,공시,https://www.sec.gov/Archives/edgar/data/2488/000119312511218202/,,2
+AMD,AMD,2011Q2,2011-07-02,분기별 당기순이익(지배),61000000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/2488/000119312511218202/,,2
+AMD,AMD,2011Q2,2011-07-02,분기별 영업활동현금흐름,174000000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/2488/000119312511218202/ ; https://www.sec.gov/Archives/edgar/data/2488/000119312511134452/,누적 6000000 − 직전누적 -168000000 (시작 2010-12-26),2
+AMD,AMD,2011Q2,2011-07-02,분기말 자산총계,5224000000,USD,공시,https://www.sec.gov/Archives/edgar/data/2488/000119312511218202/,,2
+AMD,AMD,2011Q2,2011-07-02,분기말 부채총계,3583000000,USD,계산(부채및자본-총자본),https://www.sec.gov/Archives/edgar/data/2488/000119312511218202/,부채및자본 5224000000 − 총자본 1641000000,2
+AMD,AMD,2011Q2,2011-07-02,분기말 총자본(자기자본),1641000000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/2488/000119312511218202/,"StockholdersEquity, MinorityInterest 태그 없음",2
+AMD,AMD,2011Q2,2011-07-02,분기말 지배지분 자본,1641000000,USD,공시,https://www.sec.gov/Archives/edgar/data/2488/000119312511218202/,,2
+AMD,AMD,2011Q2,2011-07-01,분기말 종가,7.11,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/AMD?interval=1d&events=splits (2011-07-01),,2
+AMD,AMD,2011Q2,2011-08-02,분기말 상장주식수,691332302,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/2488/000119312511218202/,dei:EntityCommonStockSharesOutstanding 클래스 합,2
+AMD,AMD,2011Q2,2011-07-01,분기말 시가총액,4915372667,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/AMD?interval=1d&events=splits (2011-07-01) ; https://www.sec.gov/Archives/edgar/data/2488/000119312511218202/,종가 7.11 × 주식수 691332302,2
+AMD,AMD,2011Q3,2011-10-01,분기별 매출액,미확인,USD,미확인,https://www.sec.gov/Archives/edgar/data/2488/000119312511304833/,,2
+AMD,AMD,2011Q3,2011-10-01,분기별 영업이익,138000000,USD,공시,https://www.sec.gov/Archives/edgar/data/2488/000119312511304833/,,2
+AMD,AMD,2011Q3,2011-10-01,분기별 당기순이익(지배),97000000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/2488/000119312511304833/,,2
+AMD,AMD,2011Q3,2011-10-01,분기별 영업활동현금흐름,189000000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/2488/000119312511304833/ ; https://www.sec.gov/Archives/edgar/data/2488/000119312511218202/,누적 195000000 − 직전누적 6000000 (시작 2010-12-26),2
+AMD,AMD,2011Q3,2011-10-01,분기말 자산총계,5236000000,USD,공시,https://www.sec.gov/Archives/edgar/data/2488/000119312511304833/,,2
+AMD,AMD,2011Q3,2011-10-01,분기말 부채총계,3492000000,USD,계산(부채및자본-총자본),https://www.sec.gov/Archives/edgar/data/2488/000119312511304833/,부채및자본 5236000000 − 총자본 1744000000,2
+AMD,AMD,2011Q3,2011-10-01,분기말 총자본(자기자본),1744000000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/2488/000119312511304833/,"StockholdersEquity, MinorityInterest 태그 없음",2
+AMD,AMD,2011Q3,2011-10-01,분기말 지배지분 자본,1744000000,USD,공시,https://www.sec.gov/Archives/edgar/data/2488/000119312511304833/,,2
+AMD,AMD,2011Q3,2011-09-30,분기말 종가,5.08,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/AMD?interval=1d&events=splits (2011-09-30),,2
+AMD,AMD,2011Q3,2011-11-01,분기말 상장주식수,696922739,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/2488/000119312511304833/,dei:EntityCommonStockSharesOutstanding 클래스 합,2
+AMD,AMD,2011Q3,2011-09-30,분기말 시가총액,3540367514,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/AMD?interval=1d&events=splits (2011-09-30) ; https://www.sec.gov/Archives/edgar/data/2488/000119312511304833/,종가 5.08 × 주식수 696922739,2
+AMD,AMD,2011Q4,2011-12-31,분기별 매출액,미확인,USD,미확인,https://www.sec.gov/Archives/edgar/data/2488/000119312512075837/,,2
+AMD,AMD,2011Q4,2011-12-31,분기별 영업이익,71000000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/2488/000119312512075837/ ; https://www.sec.gov/Archives/edgar/data/2488/000119312511304833/,연간 368000000 − 9개월누적 297000000 (OperatingIncomeLoss),2
+AMD,AMD,2011Q4,2011-12-31,분기별 당기순이익(지배),-177000000,USD,"계산(연간-3분기누적, 비지배 없음)",https://www.sec.gov/Archives/edgar/data/2488/000119312512075837/ ; https://www.sec.gov/Archives/edgar/data/2488/000119312511304833/,연간 491000000 − 9개월누적 668000000 (ProfitLoss),2
+AMD,AMD,2011Q4,2011-12-31,분기별 영업활동현금흐름,187000000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/2488/000119312512075837/ ; https://www.sec.gov/Archives/edgar/data/2488/000119312511304833/,누적 382000000 − 직전누적 195000000 (시작 2010-12-26),2
+AMD,AMD,2011Q4,2011-12-31,분기말 자산총계,4954000000,USD,공시,https://www.sec.gov/Archives/edgar/data/2488/000119312512075837/,,2
+AMD,AMD,2011Q4,2011-12-31,분기말 부채총계,3364000000,USD,계산(부채및자본-총자본),https://www.sec.gov/Archives/edgar/data/2488/000119312512075837/,부채및자본 4954000000 − 총자본 1590000000,2
+AMD,AMD,2011Q4,2011-12-31,분기말 총자본(자기자본),1590000000,USD,계산(지배+비지배),https://www.sec.gov/Archives/edgar/data/2488/000119312512075837/,지배 1590000000 + 비지배 0,2
+AMD,AMD,2011Q4,2011-12-31,분기말 지배지분 자본,1590000000,USD,공시,https://www.sec.gov/Archives/edgar/data/2488/000119312512075837/,,2
+AMD,AMD,2011Q4,2011-12-30,분기말 종가,5.4,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/AMD?interval=1d&events=splits (2011-12-30),,2
+AMD,AMD,2011Q4,2012-02-17,분기말 상장주식수,698485070,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/2488/000119312512075837/,dei:EntityCommonStockSharesOutstanding 클래스 합,2
+AMD,AMD,2011Q4,2011-12-30,분기말 시가총액,3771819378,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/AMD?interval=1d&events=splits (2011-12-30) ; https://www.sec.gov/Archives/edgar/data/2488/000119312512075837/,종가 5.4 × 주식수 698485070,2
+AMD,AMD,2012Q1,2012-03-31,분기별 매출액,1585000000,USD,공시(후속 보고서 비교기간),https://www.sec.gov/Archives/edgar/data/2488/000119312513201635/,SalesRevenueNet ; 그 분기 보고서에 연결 총계가 없어 2013-05-06 제출본의 비교기간에서 읽었다,2
+AMD,AMD,2012Q1,2012-03-31,분기별 영업이익,-580000000,USD,공시,https://www.sec.gov/Archives/edgar/data/2488/000119312512222047/,,2
+AMD,AMD,2012Q1,2012-03-31,분기별 당기순이익(지배),-590000000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/2488/000119312512222047/,,2
+AMD,AMD,2012Q1,2012-03-31,분기별 영업활동현금흐름,107000000,USD,공시,https://www.sec.gov/Archives/edgar/data/2488/000119312512222047/,,2
+AMD,AMD,2012Q1,2012-03-31,분기말 자산총계,4988000000,USD,공시,https://www.sec.gov/Archives/edgar/data/2488/000119312512222047/,,2
+AMD,AMD,2012Q1,2012-03-31,분기말 부채총계,3936000000,USD,계산(부채및자본-총자본),https://www.sec.gov/Archives/edgar/data/2488/000119312512222047/,부채및자본 4988000000 − 총자본 1052000000,2
+AMD,AMD,2012Q1,2012-03-31,분기말 총자본(자기자본),1052000000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/2488/000119312512222047/,"StockholdersEquity, MinorityInterest 태그 없음",2
+AMD,AMD,2012Q1,2012-03-31,분기말 지배지분 자본,1052000000,USD,공시,https://www.sec.gov/Archives/edgar/data/2488/000119312512222047/,,2
+AMD,AMD,2012Q1,2012-03-30,분기말 종가,8.02,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/AMD?interval=1d&events=splits (2012-03-30),,2
+AMD,AMD,2012Q1,2012-05-02,분기말 상장주식수,701348804,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/2488/000119312512222047/,dei:EntityCommonStockSharesOutstanding 클래스 합,2
+AMD,AMD,2012Q1,2012-03-30,분기말 시가총액,5624817408,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/AMD?interval=1d&events=splits (2012-03-30) ; https://www.sec.gov/Archives/edgar/data/2488/000119312512222047/,종가 8.02 × 주식수 701348804,2
+AMD,AMD,2012Q2,2012-06-30,분기별 매출액,1413000000,USD,공시(후속 보고서 비교기간),https://www.sec.gov/Archives/edgar/data/2488/000119312513315281/,SalesRevenueNet ; 그 분기 보고서에 연결 총계가 없어 2013-08-01 제출본의 비교기간에서 읽었다,2
+AMD,AMD,2012Q2,2012-06-30,분기별 영업이익,77000000,USD,공시,https://www.sec.gov/Archives/edgar/data/2488/000119312512332074/,,2
+AMD,AMD,2012Q2,2012-06-30,분기별 당기순이익(지배),37000000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/2488/000119312512332074/,,2
+AMD,AMD,2012Q2,2012-06-30,분기별 영업활동현금흐름,81000000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/2488/000119312512332074/ ; https://www.sec.gov/Archives/edgar/data/2488/000119312512222047/,누적 188000000 − 직전누적 107000000 (시작 2012-01-01),2
+AMD,AMD,2012Q2,2012-06-30,분기말 자산총계,5041000000,USD,공시,https://www.sec.gov/Archives/edgar/data/2488/000119312512332074/,,2
+AMD,AMD,2012Q2,2012-06-30,분기말 부채총계,3924000000,USD,계산(부채및자본-총자본),https://www.sec.gov/Archives/edgar/data/2488/000119312512332074/,부채및자본 5041000000 − 총자본 1117000000,2
+AMD,AMD,2012Q2,2012-06-30,분기말 총자본(자기자본),1117000000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/2488/000119312512332074/,"StockholdersEquity, MinorityInterest 태그 없음",2
+AMD,AMD,2012Q2,2012-06-30,분기말 지배지분 자본,1117000000,USD,공시,https://www.sec.gov/Archives/edgar/data/2488/000119312512332074/,,2
+AMD,AMD,2012Q2,2012-06-29,분기말 종가,5.73,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/AMD?interval=1d&events=splits (2012-06-29),,2
+AMD,AMD,2012Q2,2012-07-27,분기말 상장주식수,707555106000000,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/2488/000119312512332074/,dei:EntityCommonStockSharesOutstanding 클래스 합,2
+AMD,AMD,2012Q2,2012-06-29,분기말 시가총액,4054290757380000,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/AMD?interval=1d&events=splits (2012-06-29) ; https://www.sec.gov/Archives/edgar/data/2488/000119312512332074/,종가 5.73 × 주식수 707555106000000,2
+AMD,AMD,2012Q3,2012-09-29,분기별 매출액,1269000000,USD,공시(후속 보고서 비교기간),https://www.sec.gov/Archives/edgar/data/2488/000119312513418892/,SalesRevenueNet ; 그 분기 보고서에 연결 총계가 없어 2013-10-30 제출본의 비교기간에서 읽었다,2
+AMD,AMD,2012Q3,2012-09-29,분기별 영업이익,-131000000,USD,공시,https://www.sec.gov/Archives/edgar/data/2488/000119312512446647/,,2
+AMD,AMD,2012Q3,2012-09-29,분기별 당기순이익(지배),-157000000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/2488/000119312512446647/,,2
+AMD,AMD,2012Q3,2012-09-29,분기별 영업활동현금흐름,-240000000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/2488/000119312512446647/ ; https://www.sec.gov/Archives/edgar/data/2488/000119312512332074/,누적 -52000000 − 직전누적 188000000 (시작 2012-01-01),2
+AMD,AMD,2012Q3,2012-09-29,분기말 자산총계,4612000000,USD,공시,https://www.sec.gov/Archives/edgar/data/2488/000119312512446647/,,2
+AMD,AMD,2012Q3,2012-09-29,분기말 부채총계,3623000000,USD,계산(부채및자본-총자본),https://www.sec.gov/Archives/edgar/data/2488/000119312512446647/,부채및자본 4612000000 − 총자본 989000000,2
+AMD,AMD,2012Q3,2012-09-29,분기말 총자본(자기자본),989000000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/2488/000119312512446647/,"StockholdersEquity, MinorityInterest 태그 없음",2
+AMD,AMD,2012Q3,2012-09-29,분기말 지배지분 자본,989000000,USD,공시,https://www.sec.gov/Archives/edgar/data/2488/000119312512446647/,,2
+AMD,AMD,2012Q3,2012-09-28,분기말 종가,3.37,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/AMD?interval=1d&events=splits (2012-09-28),,2
+AMD,AMD,2012Q3,2012-10-29,분기말 상장주식수,711947807,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/2488/000119312512446647/,dei:EntityCommonStockSharesOutstanding 클래스 합,2
+AMD,AMD,2012Q3,2012-09-28,분기말 시가총액,2399264110,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/AMD?interval=1d&events=splits (2012-09-28) ; https://www.sec.gov/Archives/edgar/data/2488/000119312512446647/,종가 3.37 × 주식수 711947807,2
+AMD,AMD,2012Q4,2012-12-29,분기별 매출액,미확인,USD,미확인,https://www.sec.gov/Archives/edgar/data/2488/000119312513069422/,,2
+AMD,AMD,2012Q4,2012-12-29,분기별 영업이익,-422000000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/2488/000119312513069422/ ; https://www.sec.gov/Archives/edgar/data/2488/000119312512446647/,연간 -1056000000 − 9개월누적 -634000000 (OperatingIncomeLoss),2
+AMD,AMD,2012Q4,2012-12-29,분기별 당기순이익(지배),미확인,USD,미확인,https://www.sec.gov/Archives/edgar/data/2488/000119312513069422/,,2
+AMD,AMD,2012Q4,2012-12-29,분기별 영업활동현금흐름,-286000000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/2488/000119312513069422/ ; https://www.sec.gov/Archives/edgar/data/2488/000119312512446647/,누적 -338000000 − 직전누적 -52000000 (시작 2012-01-01),2
+AMD,AMD,2012Q4,2012-12-29,분기말 자산총계,4000000000,USD,공시,https://www.sec.gov/Archives/edgar/data/2488/000119312513069422/,,2
+AMD,AMD,2012Q4,2012-12-29,분기말 부채총계,3462000000,USD,계산(부채및자본-총자본),https://www.sec.gov/Archives/edgar/data/2488/000119312513069422/,부채및자본 4000000000 − 총자본 538000000,2
+AMD,AMD,2012Q4,2012-12-29,분기말 총자본(자기자본),538000000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/2488/000119312513069422/,"StockholdersEquity, MinorityInterest 태그 없음",2
+AMD,AMD,2012Q4,2012-12-29,분기말 지배지분 자본,538000000,USD,공시,https://www.sec.gov/Archives/edgar/data/2488/000119312513069422/,,2
+AMD,AMD,2012Q4,2012-12-28,분기말 종가,2.28,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/AMD?interval=1d&events=splits (2012-12-28),,2
+AMD,AMD,2012Q4,2013-02-15,분기말 상장주식수,714077254,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/2488/000119312513069422/,dei:EntityCommonStockSharesOutstanding 클래스 합,2
+AMD,AMD,2012Q4,2012-12-28,분기말 시가총액,1628096139,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/AMD?interval=1d&events=splits (2012-12-28) ; https://www.sec.gov/Archives/edgar/data/2488/000119312513069422/,종가 2.28 × 주식수 714077254,2
+AMD,AMD,2013Q1,2013-03-31,분기별 매출액,미확인,USD,미확인,https://www.sec.gov/Archives/edgar/data/2488/000119312513201635/,,2
+AMD,AMD,2013Q1,2013-03-31,분기별 영업이익,미확인,USD,미확인,https://www.sec.gov/Archives/edgar/data/2488/000119312513201635/,,2
+AMD,AMD,2013Q1,2013-03-31,분기별 당기순이익(지배),미확인,USD,미확인,https://www.sec.gov/Archives/edgar/data/2488/000119312513201635/,,2
+AMD,AMD,2013Q1,2013-03-31,분기별 영업활동현금흐름,미확인,USD,미확인,https://www.sec.gov/Archives/edgar/data/2488/000119312513201635/,,2
+AMD,AMD,2013Q1,2013-03-31,분기말 자산총계,미확인,USD,미확인,https://www.sec.gov/Archives/edgar/data/2488/000119312513201635/,,2
+AMD,AMD,2013Q1,2013-03-31,분기말 부채총계,미확인,USD,미확인,https://www.sec.gov/Archives/edgar/data/2488/000119312513201635/,,2
+AMD,AMD,2013Q1,2013-03-31,분기말 총자본(자기자본),미확인,USD,미확인,https://www.sec.gov/Archives/edgar/data/2488/000119312513201635/,,2
+AMD,AMD,2013Q1,2013-03-31,분기말 지배지분 자본,미확인,USD,미확인,https://www.sec.gov/Archives/edgar/data/2488/000119312513201635/,,2
+AMD,AMD,2013Q1,2013-03-28,분기말 종가,2.55,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/AMD?interval=1d&events=splits (2013-03-28),,2
+AMD,AMD,2013Q1,2013-04-29,분기말 상장주식수,714485630,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/2488/000119312513201635/,dei:EntityCommonStockSharesOutstanding 클래스 합,2
+AMD,AMD,2013Q1,2013-03-28,분기말 시가총액,1821938356,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/AMD?interval=1d&events=splits (2013-03-28) ; https://www.sec.gov/Archives/edgar/data/2488/000119312513201635/,종가 2.55 × 주식수 714485630,2
+AMD,AMD,2013Q2,2013-06-29,분기별 매출액,1161000000,USD,공시,https://www.sec.gov/Archives/edgar/data/2488/000119312513315281/,,2
+AMD,AMD,2013Q2,2013-06-29,분기별 영업이익,-29000000,USD,공시,https://www.sec.gov/Archives/edgar/data/2488/000119312513315281/,,2
+AMD,AMD,2013Q2,2013-06-29,분기별 당기순이익(지배),-74000000,USD,공시,https://www.sec.gov/Archives/edgar/data/2488/000119312513315281/,,2
+AMD,AMD,2013Q2,2013-06-29,분기별 영업활동현금흐름,데이터 없음(직전 분기 누적 보고서 없음),USD,데이터 없음(직전 보고서 없음),https://www.sec.gov/Archives/edgar/data/2488/000119312513315281/,,2
+AMD,AMD,2013Q2,2013-06-29,분기말 자산총계,3897000000,USD,공시,https://www.sec.gov/Archives/edgar/data/2488/000119312513315281/,,2
+AMD,AMD,2013Q2,2013-06-29,분기말 부채총계,3538000000,USD,계산(부채및자본-총자본),https://www.sec.gov/Archives/edgar/data/2488/000119312513315281/,부채및자본 3897000000 − 총자본 359000000,2
+AMD,AMD,2013Q2,2013-06-29,분기말 총자본(자기자본),359000000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/2488/000119312513315281/,"StockholdersEquity, MinorityInterest 태그 없음",2
+AMD,AMD,2013Q2,2013-06-29,분기말 지배지분 자본,359000000,USD,공시,https://www.sec.gov/Archives/edgar/data/2488/000119312513315281/,,2
+AMD,AMD,2013Q2,2013-06-28,분기말 종가,4.08,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/AMD?interval=1d&events=splits (2013-06-28),,2
+AMD,AMD,2013Q2,2013-07-29,분기말 상장주식수,720015466,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/2488/000119312513315281/,dei:EntityCommonStockSharesOutstanding 클래스 합,2
+AMD,AMD,2013Q2,2013-06-28,분기말 시가총액,2937663101,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/AMD?interval=1d&events=splits (2013-06-28) ; https://www.sec.gov/Archives/edgar/data/2488/000119312513315281/,종가 4.08 × 주식수 720015466,2
+AMD,AMD,2013Q3,2013-09-28,분기별 매출액,1461000000,USD,공시,https://www.sec.gov/Archives/edgar/data/2488/000119312513418892/,,2
+AMD,AMD,2013Q3,2013-09-28,분기별 영업이익,95000000,USD,공시,https://www.sec.gov/Archives/edgar/data/2488/000119312513418892/,,2
+AMD,AMD,2013Q3,2013-09-28,분기별 당기순이익(지배),48000000,USD,공시,https://www.sec.gov/Archives/edgar/data/2488/000119312513418892/,,2
+AMD,AMD,2013Q3,2013-09-28,분기별 영업활동현금흐름,21000000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/2488/000119312513418892/ ; https://www.sec.gov/Archives/edgar/data/2488/000119312513315281/,누적 -169000000 − 직전누적 -190000000 (시작 2012-12-30),2
+AMD,AMD,2013Q3,2013-09-28,분기말 자산총계,4317000000,USD,공시,https://www.sec.gov/Archives/edgar/data/2488/000119312513418892/,,2
+AMD,AMD,2013Q3,2013-09-28,분기말 부채총계,3883000000,USD,계산(부채및자본-총자본),https://www.sec.gov/Archives/edgar/data/2488/000119312513418892/,부채및자본 4317000000 − 총자본 434000000,2
+AMD,AMD,2013Q3,2013-09-28,분기말 총자본(자기자본),434000000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/2488/000119312513418892/,"StockholdersEquity, MinorityInterest 태그 없음",2
+AMD,AMD,2013Q3,2013-09-28,분기말 지배지분 자본,434000000,USD,공시,https://www.sec.gov/Archives/edgar/data/2488/000119312513418892/,,2
+AMD,AMD,2013Q3,2013-09-27,분기말 종가,3.86,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/AMD?interval=1d&events=splits (2013-09-27),,2
+AMD,AMD,2013Q3,2013-10-28,분기말 상장주식수,723686830,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/2488/000119312513418892/,dei:EntityCommonStockSharesOutstanding 클래스 합,2
+AMD,AMD,2013Q3,2013-09-27,분기말 시가총액,2793431164,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/AMD?interval=1d&events=splits (2013-09-27) ; https://www.sec.gov/Archives/edgar/data/2488/000119312513418892/,종가 3.86 × 주식수 723686830,2
+AMD,AMD,2013Q4,2013-12-28,분기별 매출액,1589000000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/2488/000119312514057240/ ; https://www.sec.gov/Archives/edgar/data/2488/000119312513418892/,연간 5299000000 − 9개월누적 3710000000 (SalesRevenueNet),2
+AMD,AMD,2013Q4,2013-12-28,분기별 영업이익,135000000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/2488/000119312514057240/ ; https://www.sec.gov/Archives/edgar/data/2488/000119312513418892/,연간 103000000 − 9개월누적 -32000000 (OperatingIncomeLoss),2
+AMD,AMD,2013Q4,2013-12-28,분기별 당기순이익(지배),89000000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/2488/000119312514057240/ ; https://www.sec.gov/Archives/edgar/data/2488/000119312513418892/,연간 -83000000 − 9개월누적 -172000000 (NetIncomeLoss),2
+AMD,AMD,2013Q4,2013-12-28,분기별 영업활동현금흐름,21000000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/2488/000119312514057240/ ; https://www.sec.gov/Archives/edgar/data/2488/000119312513418892/,누적 -148000000 − 직전누적 -169000000 (시작 2012-12-30),2
+AMD,AMD,2013Q4,2013-12-28,분기말 자산총계,4337000000,USD,공시,https://www.sec.gov/Archives/edgar/data/2488/000119312514057240/,,2
+AMD,AMD,2013Q4,2013-12-28,분기말 부채총계,3793000000,USD,계산(부채및자본-총자본),https://www.sec.gov/Archives/edgar/data/2488/000119312514057240/,부채및자본 4337000000 − 총자본 544000000,2
+AMD,AMD,2013Q4,2013-12-28,분기말 총자본(자기자본),544000000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/2488/000119312514057240/,"StockholdersEquity, MinorityInterest 태그 없음",2
+AMD,AMD,2013Q4,2013-12-28,분기말 지배지분 자본,544000000,USD,공시,https://www.sec.gov/Archives/edgar/data/2488/000119312514057240/,,2
+AMD,AMD,2013Q4,2013-12-27,분기말 종가,3.78,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/AMD?interval=1d&events=splits (2013-12-27),,2
+AMD,AMD,2013Q4,2014-02-14,분기말 상장주식수,726115663,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/2488/000119312514057240/,dei:EntityCommonStockSharesOutstanding 클래스 합,2
+AMD,AMD,2013Q4,2013-12-27,분기말 시가총액,2744717206,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/AMD?interval=1d&events=splits (2013-12-27) ; https://www.sec.gov/Archives/edgar/data/2488/000119312514057240/,종가 3.78 × 주식수 726115663,2
+AMD,AMD,2014Q1,2014-03-29,분기별 매출액,1397000000,USD,공시,https://www.sec.gov/Archives/edgar/data/2488/000119312514177314/,,2
+AMD,AMD,2014Q1,2014-03-29,분기별 영업이익,49000000,USD,공시,https://www.sec.gov/Archives/edgar/data/2488/000119312514177314/,,2
+AMD,AMD,2014Q1,2014-03-29,분기별 당기순이익(지배),-20000000,USD,공시,https://www.sec.gov/Archives/edgar/data/2488/000119312514177314/,,2
+AMD,AMD,2014Q1,2014-03-29,분기별 영업활동현금흐름,-204000000,USD,공시,https://www.sec.gov/Archives/edgar/data/2488/000119312514177314/,,2
+AMD,AMD,2014Q1,2014-03-29,분기말 자산총계,4108000000,USD,공시,https://www.sec.gov/Archives/edgar/data/2488/000119312514177314/,,2
+AMD,AMD,2014Q1,2014-03-29,분기말 부채총계,3597000000,USD,계산(부채및자본-총자본),https://www.sec.gov/Archives/edgar/data/2488/000119312514177314/,부채및자본 4108000000 − 총자본 511000000,2
+AMD,AMD,2014Q1,2014-03-29,분기말 총자본(자기자본),511000000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/2488/000119312514177314/,"StockholdersEquity, MinorityInterest 태그 없음",2
+AMD,AMD,2014Q1,2014-03-29,분기말 지배지분 자본,511000000,USD,공시,https://www.sec.gov/Archives/edgar/data/2488/000119312514177314/,,2
+AMD,AMD,2014Q1,2014-03-28,분기말 종가,3.88,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/AMD?interval=1d&events=splits (2014-03-28),,2
+AMD,AMD,2014Q1,2014-04-28,분기말 상장주식수,762041883,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/2488/000119312514177314/,dei:EntityCommonStockSharesOutstanding 클래스 합,2
+AMD,AMD,2014Q1,2014-03-28,분기말 시가총액,2956722506,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/AMD?interval=1d&events=splits (2014-03-28) ; https://www.sec.gov/Archives/edgar/data/2488/000119312514177314/,종가 3.88 × 주식수 762041883,2
+AMD,AMD,2014Q2,2014-06-28,분기별 매출액,1441000000,USD,공시,https://www.sec.gov/Archives/edgar/data/2488/000119312514289796/,,2
+AMD,AMD,2014Q2,2014-06-28,분기별 영업이익,63000000,USD,공시,https://www.sec.gov/Archives/edgar/data/2488/000119312514289796/,,2
+AMD,AMD,2014Q2,2014-06-28,분기별 당기순이익(지배),-36000000,USD,공시,https://www.sec.gov/Archives/edgar/data/2488/000119312514289796/,,2
+AMD,AMD,2014Q2,2014-06-28,분기별 영업활동현금흐름,-28000000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/2488/000119312514289796/ ; https://www.sec.gov/Archives/edgar/data/2488/000119312514177314/,누적 -232000000 − 직전누적 -204000000 (시작 2013-12-29),2
+AMD,AMD,2014Q2,2014-06-28,분기말 자산총계,4246000000,USD,공시,https://www.sec.gov/Archives/edgar/data/2488/000119312514289796/,,2
+AMD,AMD,2014Q2,2014-06-28,분기말 부채총계,3745000000,USD,계산(부채및자본-총자본),https://www.sec.gov/Archives/edgar/data/2488/000119312514289796/,부채및자본 4246000000 − 총자본 501000000,2
+AMD,AMD,2014Q2,2014-06-28,분기말 총자본(자기자본),501000000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/2488/000119312514289796/,"StockholdersEquity, MinorityInterest 태그 없음",2
+AMD,AMD,2014Q2,2014-06-28,분기말 지배지분 자본,501000000,USD,공시,https://www.sec.gov/Archives/edgar/data/2488/000119312514289796/,,2
+AMD,AMD,2014Q2,2014-06-27,분기말 종가,4.11,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/AMD?interval=1d&events=splits (2014-06-27),,2
+AMD,AMD,2014Q2,2014-07-28,분기말 상장주식수,765509752,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/2488/000119312514289796/,dei:EntityCommonStockSharesOutstanding 클래스 합,2
+AMD,AMD,2014Q2,2014-06-27,분기말 시가총액,3146245081,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/AMD?interval=1d&events=splits (2014-06-27) ; https://www.sec.gov/Archives/edgar/data/2488/000119312514289796/,종가 4.11 × 주식수 765509752,2
+AMD,AMD,2014Q3,2014-09-27,분기별 매출액,1429000000,USD,공시,https://www.sec.gov/Archives/edgar/data/2488/000119312514389701/,,2
+AMD,AMD,2014Q3,2014-09-27,분기별 영업이익,63000000,USD,공시,https://www.sec.gov/Archives/edgar/data/2488/000119312514389701/,,2
+AMD,AMD,2014Q3,2014-09-27,분기별 당기순이익(지배),17000000,USD,공시,https://www.sec.gov/Archives/edgar/data/2488/000119312514389701/,,2
+AMD,AMD,2014Q3,2014-09-27,분기별 영업활동현금흐름,18000000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/2488/000119312514389701/ ; https://www.sec.gov/Archives/edgar/data/2488/000119312514289796/,누적 -214000000 − 직전누적 -232000000 (시작 2013-12-29),2
+AMD,AMD,2014Q3,2014-09-27,분기말 자산총계,4325000000,USD,공시,https://www.sec.gov/Archives/edgar/data/2488/000119312514389701/,,2
+AMD,AMD,2014Q3,2014-09-27,분기말 부채총계,3790000000,USD,계산(부채및자본-총자본),https://www.sec.gov/Archives/edgar/data/2488/000119312514389701/,부채및자본 4325000000 − 총자본 535000000,2
+AMD,AMD,2014Q3,2014-09-27,분기말 총자본(자기자본),535000000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/2488/000119312514389701/,"StockholdersEquity, MinorityInterest 태그 없음",2
+AMD,AMD,2014Q3,2014-09-27,분기말 지배지분 자본,535000000,USD,공시,https://www.sec.gov/Archives/edgar/data/2488/000119312514389701/,,2
+AMD,AMD,2014Q3,2014-09-26,분기말 종가,3.6,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/AMD?interval=1d&events=splits (2014-09-26),,2
+AMD,AMD,2014Q3,2014-10-27,분기말 상장주식수,775340409,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/2488/000119312514389701/,dei:EntityCommonStockSharesOutstanding 클래스 합,2
+AMD,AMD,2014Q3,2014-09-26,분기말 시가총액,2791225472,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/AMD?interval=1d&events=splits (2014-09-26) ; https://www.sec.gov/Archives/edgar/data/2488/000119312514389701/,종가 3.6 × 주식수 775340409,2
+AMD,AMD,2014Q4,2014-12-27,분기별 매출액,1239000000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/2488/000119312515054362/ ; https://www.sec.gov/Archives/edgar/data/2488/000119312514389701/,연간 5506000000 − 9개월누적 4267000000 (SalesRevenueNet),2
+AMD,AMD,2014Q4,2014-12-27,분기별 영업이익,-330000000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/2488/000119312515054362/ ; https://www.sec.gov/Archives/edgar/data/2488/000119312514389701/,연간 -155000000 − 9개월누적 175000000 (OperatingIncomeLoss),2
+AMD,AMD,2014Q4,2014-12-27,분기별 당기순이익(지배),-364000000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/2488/000119312515054362/ ; https://www.sec.gov/Archives/edgar/data/2488/000119312514389701/,연간 -403000000 − 9개월누적 -39000000 (NetIncomeLoss),2
+AMD,AMD,2014Q4,2014-12-27,분기별 영업활동현금흐름,116000000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/2488/000119312515054362/ ; https://www.sec.gov/Archives/edgar/data/2488/000119312514389701/,누적 -98000000 − 직전누적 -214000000 (시작 2013-12-29),2
+AMD,AMD,2014Q4,2014-12-27,분기말 자산총계,3767000000,USD,공시,https://www.sec.gov/Archives/edgar/data/2488/000119312515054362/,,2
+AMD,AMD,2014Q4,2014-12-27,분기말 부채총계,3580000000,USD,계산(부채및자본-총자본),https://www.sec.gov/Archives/edgar/data/2488/000119312515054362/,부채및자본 3767000000 − 총자본 187000000,2
+AMD,AMD,2014Q4,2014-12-27,분기말 총자본(자기자본),187000000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/2488/000119312515054362/,"StockholdersEquity, MinorityInterest 태그 없음",2
+AMD,AMD,2014Q4,2014-12-27,분기말 지배지분 자본,187000000,USD,공시,https://www.sec.gov/Archives/edgar/data/2488/000119312515054362/,,2
+AMD,AMD,2014Q4,2014-12-26,분기말 종가,2.65,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/AMD?interval=1d&events=splits (2014-12-26),,2
+AMD,AMD,2014Q4,2015-02-13,분기말 상장주식수,777300258,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/2488/000119312515054362/,dei:EntityCommonStockSharesOutstanding 클래스 합,2
+AMD,AMD,2014Q4,2014-12-26,분기말 시가총액,2059845684,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/AMD?interval=1d&events=splits (2014-12-26) ; https://www.sec.gov/Archives/edgar/data/2488/000119312515054362/,종가 2.65 × 주식수 777300258,2
+AMD,AMD,2015Q1,2015-03-28,분기별 매출액,1030000000,USD,공시,https://www.sec.gov/Archives/edgar/data/2488/000119312515156842/,,2
+AMD,AMD,2015Q1,2015-03-28,분기별 영업이익,-137000000,USD,공시,https://www.sec.gov/Archives/edgar/data/2488/000119312515156842/,,2
+AMD,AMD,2015Q1,2015-03-28,분기별 당기순이익(지배),-180000000,USD,공시,https://www.sec.gov/Archives/edgar/data/2488/000119312515156842/,,2
+AMD,AMD,2015Q1,2015-03-28,분기별 영업활동현금흐름,-173000000,USD,공시,https://www.sec.gov/Archives/edgar/data/2488/000119312515156842/,,2
+AMD,AMD,2015Q1,2015-03-28,분기말 자산총계,3428000000,USD,공시,https://www.sec.gov/Archives/edgar/data/2488/000119312515156842/,,2
+AMD,AMD,2015Q1,2015-03-28,분기말 부채총계,3411000000,USD,계산(부채및자본-총자본),https://www.sec.gov/Archives/edgar/data/2488/000119312515156842/,부채및자본 3428000000 − 총자본 17000000,2
+AMD,AMD,2015Q1,2015-03-28,분기말 총자본(자기자본),17000000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/2488/000119312515156842/,"StockholdersEquity, MinorityInterest 태그 없음",2
+AMD,AMD,2015Q1,2015-03-28,분기말 지배지분 자본,17000000,USD,공시,https://www.sec.gov/Archives/edgar/data/2488/000119312515156842/,,2
+AMD,AMD,2015Q1,2015-03-27,분기말 종가,2.72,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/AMD?interval=1d&events=splits (2015-03-27),,2
+AMD,AMD,2015Q1,2015-04-24,분기말 상장주식수,778059809,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/2488/000119312515156842/,dei:EntityCommonStockSharesOutstanding 클래스 합,2
+AMD,AMD,2015Q1,2015-03-27,분기말 시가총액,2116322680,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/AMD?interval=1d&events=splits (2015-03-27) ; https://www.sec.gov/Archives/edgar/data/2488/000119312515156842/,종가 2.72 × 주식수 778059809,2
+AMD,AMD,2015Q2,2015-06-27,분기별 매출액,942000000,USD,공시,https://www.sec.gov/Archives/edgar/data/2488/000162828015005620/,,2
+AMD,AMD,2015Q2,2015-06-27,분기별 영업이익,-137000000,USD,공시,https://www.sec.gov/Archives/edgar/data/2488/000162828015005620/,,2
+AMD,AMD,2015Q2,2015-06-27,분기별 당기순이익(지배),-181000000,USD,공시,https://www.sec.gov/Archives/edgar/data/2488/000162828015005620/,,2
+AMD,AMD,2015Q2,2015-06-27,분기별 영업활동현금흐름,-58000000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/2488/000162828015005620/ ; https://www.sec.gov/Archives/edgar/data/2488/000119312515156842/,누적 -231000000 − 직전누적 -173000000 (시작 2014-12-28),2
+AMD,AMD,2015Q2,2015-06-27,분기말 자산총계,3381000000,USD,공시,https://www.sec.gov/Archives/edgar/data/2488/000162828015005620/,,2
+AMD,AMD,2015Q2,2015-06-27,분기말 부채총계,3522000000,USD,계산(부채및자본-총자본),https://www.sec.gov/Archives/edgar/data/2488/000162828015005620/,부채및자본 3381000000 − 총자본 -141000000,2
+AMD,AMD,2015Q2,2015-06-27,분기말 총자본(자기자본),-141000000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/2488/000162828015005620/,"StockholdersEquity, MinorityInterest 태그 없음",2
+AMD,AMD,2015Q2,2015-06-27,분기말 지배지분 자본,-141000000,USD,공시,https://www.sec.gov/Archives/edgar/data/2488/000162828015005620/,,2
+AMD,AMD,2015Q2,2015-06-26,분기말 종가,2.47,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/AMD?interval=1d&events=splits (2015-06-26),,2
+AMD,AMD,2015Q2,2015-07-24,분기말 상장주식수,779177660,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/2488/000162828015005620/,dei:EntityCommonStockSharesOutstanding 클래스 합,2
+AMD,AMD,2015Q2,2015-06-26,분기말 시가총액,1924568820,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/AMD?interval=1d&events=splits (2015-06-26) ; https://www.sec.gov/Archives/edgar/data/2488/000162828015005620/,종가 2.47 × 주식수 779177660,2
+AMD,AMD,2015Q3,2015-09-26,분기별 매출액,1061000000,USD,공시,https://www.sec.gov/Archives/edgar/data/2488/000000248815000067/,,2
+AMD,AMD,2015Q3,2015-09-26,분기별 영업이익,-158000000,USD,공시,https://www.sec.gov/Archives/edgar/data/2488/000000248815000067/,,2
+AMD,AMD,2015Q3,2015-09-26,분기별 당기순이익(지배),-197000000,USD,공시,https://www.sec.gov/Archives/edgar/data/2488/000000248815000067/,,2
+AMD,AMD,2015Q3,2015-09-26,분기별 영업활동현금흐름,-59000000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/2488/000000248815000067/ ; https://www.sec.gov/Archives/edgar/data/2488/000162828015005620/,누적 -290000000 − 직전누적 -231000000 (시작 2014-12-28),2
+AMD,AMD,2015Q3,2015-09-26,분기말 자산총계,3229000000,USD,공시,https://www.sec.gov/Archives/edgar/data/2488/000000248815000067/,,2
+AMD,AMD,2015Q3,2015-09-26,분기말 부채총계,3565000000,USD,계산(부채및자본-총자본),https://www.sec.gov/Archives/edgar/data/2488/000000248815000067/,부채및자본 3229000000 − 총자본 -336000000,2
+AMD,AMD,2015Q3,2015-09-26,분기말 총자본(자기자본),-336000000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/2488/000000248815000067/,"StockholdersEquity, MinorityInterest 태그 없음",2
+AMD,AMD,2015Q3,2015-09-26,분기말 지배지분 자본,-336000000,USD,공시,https://www.sec.gov/Archives/edgar/data/2488/000000248815000067/,,2
+AMD,AMD,2015Q3,2015-09-25,분기말 종가,1.71,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/AMD?interval=1d&events=splits (2015-09-25),,2
+AMD,AMD,2015Q3,2015-10-29,분기말 상장주식수,790189438,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/2488/000000248815000067/,dei:EntityCommonStockSharesOutstanding 클래스 합,2
+AMD,AMD,2015Q3,2015-09-25,분기말 시가총액,1351223939,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/AMD?interval=1d&events=splits (2015-09-25) ; https://www.sec.gov/Archives/edgar/data/2488/000000248815000067/,종가 1.71 × 주식수 790189438,2
+AMD,AMD,2015Q4,2015-12-26,분기별 매출액,958000000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/2488/000000248816000111/ ; https://www.sec.gov/Archives/edgar/data/2488/000000248815000067/,연간 3991000000 − 9개월누적 3033000000 (SalesRevenueNet),2
+AMD,AMD,2015Q4,2015-12-26,분기별 영업이익,-49000000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/2488/000000248816000111/ ; https://www.sec.gov/Archives/edgar/data/2488/000000248815000067/,연간 -481000000 − 9개월누적 -432000000 (OperatingIncomeLoss),2
+AMD,AMD,2015Q4,2015-12-26,분기별 당기순이익(지배),-102000000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/2488/000000248816000111/ ; https://www.sec.gov/Archives/edgar/data/2488/000000248815000067/,연간 -660000000 − 9개월누적 -558000000 (NetIncomeLoss),2
+AMD,AMD,2015Q4,2015-12-26,분기별 영업활동현금흐름,64000000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/2488/000000248816000111/ ; https://www.sec.gov/Archives/edgar/data/2488/000000248815000067/,누적 -226000000 − 직전누적 -290000000 (시작 2014-12-28),2
+AMD,AMD,2015Q4,2015-12-26,분기말 자산총계,3084000000,USD,공시(재작성 반영),https://www.sec.gov/Archives/edgar/data/2488/000000248817000043/,원 공시 3109000000 (https://www.sec.gov/Archives/edgar/data/2488/000000248816000111/),2
+AMD,AMD,2015Q4,2015-12-26,분기말 부채총계,3434000000,USD,계산(부채및자본-총자본)(재작성 반영),https://www.sec.gov/Archives/edgar/data/2488/000000248817000043/,부채및자본 3084000000 − 총자본 -350000000 ; 원 공시 3521000000 (https://www.sec.gov/Archives/edgar/data/2488/000000248816000111/),2
+AMD,AMD,2015Q4,2015-12-26,분기말 총자본(자기자본),-350000000,USD,공시(비지배 없음)(재작성 반영),https://www.sec.gov/Archives/edgar/data/2488/000000248819000011/,"StockholdersEquity, MinorityInterest 태그 없음 ; 원 공시 -412000000 (https://www.sec.gov/Archives/edgar/data/2488/000000248816000111/)",2
+AMD,AMD,2015Q4,2015-12-26,분기말 지배지분 자본,-350000000,USD,공시(재작성 반영),https://www.sec.gov/Archives/edgar/data/2488/000000248819000011/,원 공시 -412000000 (https://www.sec.gov/Archives/edgar/data/2488/000000248816000111/),2
+AMD,AMD,2015Q4,2015-12-24,분기말 종가,2.92,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/AMD?interval=1d&events=splits (2015-12-24),,2
+AMD,AMD,2015Q4,2016-02-12,분기말 상장주식수,793248190,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/2488/000000248816000111/,dei:EntityCommonStockSharesOutstanding 클래스 합,2
+AMD,AMD,2015Q4,2015-12-24,분기말 시가총액,2316284715,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/AMD?interval=1d&events=splits (2015-12-24) ; https://www.sec.gov/Archives/edgar/data/2488/000000248816000111/,종가 2.92 × 주식수 793248190,2
+AMD,AMD,2016Q1,2016-03-26,분기별 매출액,832000000,USD,공시,https://www.sec.gov/Archives/edgar/data/2488/000000248816000124/,,2
+AMD,AMD,2016Q1,2016-03-26,분기별 영업이익,-68000000,USD,공시,https://www.sec.gov/Archives/edgar/data/2488/000000248816000124/,,2
+AMD,AMD,2016Q1,2016-03-26,분기별 당기순이익(지배),-109000000,USD,공시,https://www.sec.gov/Archives/edgar/data/2488/000000248816000124/,,2
+AMD,AMD,2016Q1,2016-03-26,분기별 영업활동현금흐름,-42000000,USD,공시,https://www.sec.gov/Archives/edgar/data/2488/000000248816000124/,,2
+AMD,AMD,2016Q1,2016-03-26,분기말 자산총계,2981000000,USD,공시,https://www.sec.gov/Archives/edgar/data/2488/000000248816000124/,,2
+AMD,AMD,2016Q1,2016-03-26,분기말 부채총계,3484000000,USD,계산(부채및자본-총자본),https://www.sec.gov/Archives/edgar/data/2488/000000248816000124/,부채및자본 2981000000 − 총자본 -503000000,2
+AMD,AMD,2016Q1,2016-03-26,분기말 총자본(자기자본),-503000000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/2488/000000248816000124/,"StockholdersEquity, MinorityInterest 태그 없음",2
+AMD,AMD,2016Q1,2016-03-26,분기말 지배지분 자본,-503000000,USD,공시,https://www.sec.gov/Archives/edgar/data/2488/000000248816000124/,,2
+AMD,AMD,2016Q1,2016-03-24,분기말 종가,2.79,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/AMD?interval=1d&events=splits (2016-03-24),,2
+AMD,AMD,2016Q1,2016-04-22,분기말 상장주식수,793519835,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/2488/000000248816000124/,dei:EntityCommonStockSharesOutstanding 클래스 합,2
+AMD,AMD,2016Q1,2016-03-24,분기말 시가총액,2213920340,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/AMD?interval=1d&events=splits (2016-03-24) ; https://www.sec.gov/Archives/edgar/data/2488/000000248816000124/,종가 2.79 × 주식수 793519835,2
+AMD,AMD,2016Q2,2016-06-25,분기별 매출액,1027000000,USD,공시,https://www.sec.gov/Archives/edgar/data/2488/000000248816000213/,,2
+AMD,AMD,2016Q2,2016-06-25,분기별 영업이익,-8000000,USD,공시,https://www.sec.gov/Archives/edgar/data/2488/000000248816000213/,,2
+AMD,AMD,2016Q2,2016-06-25,분기별 당기순이익(지배),69000000,USD,공시,https://www.sec.gov/Archives/edgar/data/2488/000000248816000213/,,2
+AMD,AMD,2016Q2,2016-06-25,분기별 영업활동현금흐름,-85000000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/2488/000000248816000213/ ; https://www.sec.gov/Archives/edgar/data/2488/000000248816000124/,누적 -127000000 − 직전누적 -42000000 (시작 2015-12-27),2
+AMD,AMD,2016Q2,2016-06-25,분기말 자산총계,3316000000,USD,공시,https://www.sec.gov/Archives/edgar/data/2488/000000248816000213/,,2
+AMD,AMD,2016Q2,2016-06-25,분기말 부채총계,3729000000,USD,계산(부채및자본-총자본),https://www.sec.gov/Archives/edgar/data/2488/000000248816000213/,부채및자본 3316000000 − 총자본 -413000000,2
+AMD,AMD,2016Q2,2016-06-25,분기말 총자본(자기자본),-413000000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/2488/000000248816000213/,"StockholdersEquity, MinorityInterest 태그 없음",2
+AMD,AMD,2016Q2,2016-06-25,분기말 지배지분 자본,-413000000,USD,공시,https://www.sec.gov/Archives/edgar/data/2488/000000248816000213/,,2
+AMD,AMD,2016Q2,2016-06-24,분기말 종가,4.88,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/AMD?interval=1d&events=splits (2016-06-24),,2
+AMD,AMD,2016Q2,2016-07-21,분기말 상장주식수,795557811,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/2488/000000248816000213/,dei:EntityCommonStockSharesOutstanding 클래스 합,2
+AMD,AMD,2016Q2,2016-06-24,분기말 시가총액,3882322118,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/AMD?interval=1d&events=splits (2016-06-24) ; https://www.sec.gov/Archives/edgar/data/2488/000000248816000213/,종가 4.88 × 주식수 795557811,2
+AMD,AMD,2016Q3,2016-09-24,분기별 매출액,1307000000,USD,공시,https://www.sec.gov/Archives/edgar/data/2488/000000248816000263/,,2
+AMD,AMD,2016Q3,2016-09-24,분기별 영업이익,-293000000,USD,공시,https://www.sec.gov/Archives/edgar/data/2488/000000248816000263/,,2
+AMD,AMD,2016Q3,2016-09-24,분기별 당기순이익(지배),-406000000,USD,공시,https://www.sec.gov/Archives/edgar/data/2488/000000248816000263/,,2
+AMD,AMD,2016Q3,2016-09-24,분기별 영업활동현금흐름,29000000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/2488/000000248816000263/ ; https://www.sec.gov/Archives/edgar/data/2488/000000248816000213/,누적 -98000000 − 직전누적 -127000000 (시작 2015-12-27),2
+AMD,AMD,2016Q3,2016-09-24,분기말 자산총계,3616000000,USD,공시,https://www.sec.gov/Archives/edgar/data/2488/000000248816000263/,,2
+AMD,AMD,2016Q3,2016-09-24,분기말 부채총계,3231000000,USD,계산(부채및자본-총자본),https://www.sec.gov/Archives/edgar/data/2488/000000248816000263/,부채및자본 3616000000 − 총자본 385000000,2
+AMD,AMD,2016Q3,2016-09-24,분기말 총자본(자기자본),385000000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/2488/000000248816000263/,"StockholdersEquity, MinorityInterest 태그 없음",2
+AMD,AMD,2016Q3,2016-09-24,분기말 지배지분 자본,385000000,USD,공시,https://www.sec.gov/Archives/edgar/data/2488/000000248816000263/,,2
+AMD,AMD,2016Q3,2016-09-23,분기말 종가,6.55,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/AMD?interval=1d&events=splits (2016-09-23),,2
+AMD,AMD,2016Q3,2016-10-21,분기말 상장주식수,926868716,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/2488/000000248816000263/,dei:EntityCommonStockSharesOutstanding 클래스 합,2
+AMD,AMD,2016Q3,2016-09-23,분기말 시가총액,6070990090,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/AMD?interval=1d&events=splits (2016-09-23) ; https://www.sec.gov/Archives/edgar/data/2488/000000248816000263/,종가 6.55 × 주식수 926868716,2
+AMD,AMD,2016Q4,2016-12-31,분기별 매출액,1106000000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/2488/000000248817000043/ ; https://www.sec.gov/Archives/edgar/data/2488/000000248816000263/,연간 4272000000 − 9개월누적 3166000000 (SalesRevenueNet),2
+AMD,AMD,2016Q4,2016-12-31,분기별 영업이익,-4000000,USD,계산(연간-3분기누적)(재작성 반영),https://www.sec.gov/Archives/edgar/data/2488/000000248819000011/ ; https://www.sec.gov/Archives/edgar/data/2488/000000248816000263/,연간 -373000000 − 9개월누적 -369000000 (OperatingIncomeLoss) ; 원 공시 -3000000 (https://www.sec.gov/Archives/edgar/data/2488/000000248817000043/ ; https://www.sec.gov/Archives/edgar/data/2488/000000248816000263/),2
+AMD,AMD,2016Q4,2016-12-31,분기별 당기순이익(지배),-52000000,USD,계산(연간-3분기누적)(재작성 반영),https://www.sec.gov/Archives/edgar/data/2488/000000248819000011/ ; https://www.sec.gov/Archives/edgar/data/2488/000000248816000263/,연간 -498000000 − 9개월누적 -446000000 (NetIncomeLoss) ; 원 공시 -51000000 (https://www.sec.gov/Archives/edgar/data/2488/000000248817000043/ ; https://www.sec.gov/Archives/edgar/data/2488/000000248816000263/),2
+AMD,AMD,2016Q4,2016-12-31,분기별 영업활동현금흐름,179000000,USD,계산(누적차감)(재작성 반영),https://www.sec.gov/Archives/edgar/data/2488/000000248819000011/ ; https://www.sec.gov/Archives/edgar/data/2488/000000248816000263/,누적 81000000 − 직전누적 -98000000 (시작 2015-12-27) ; 원 공시 188000000 (https://www.sec.gov/Archives/edgar/data/2488/000000248817000043/ ; https://www.sec.gov/Archives/edgar/data/2488/000000248816000263/),2
+AMD,AMD,2016Q4,2016-12-31,분기말 자산총계,3321000000,USD,공시,https://www.sec.gov/Archives/edgar/data/2488/000000248817000043/,,2
+AMD,AMD,2016Q4,2016-12-31,분기말 부채총계,2844000000,USD,계산(부채및자본-총자본)(재작성 반영),https://www.sec.gov/Archives/edgar/data/2488/000000248817000043/,부채및자본 3321000000 − 총자본 477000000 ; 원 공시 2905000000 (https://www.sec.gov/Archives/edgar/data/2488/000000248817000043/),2
+AMD,AMD,2016Q4,2016-12-31,분기말 총자본(자기자본),477000000,USD,공시(비지배 없음)(재작성 반영),https://www.sec.gov/Archives/edgar/data/2488/000000248819000011/,"StockholdersEquity, MinorityInterest 태그 없음 ; 원 공시 416000000 (https://www.sec.gov/Archives/edgar/data/2488/000000248817000043/)",2
+AMD,AMD,2016Q4,2016-12-31,분기말 지배지분 자본,477000000,USD,공시(재작성 반영),https://www.sec.gov/Archives/edgar/data/2488/000000248819000011/,원 공시 416000000 (https://www.sec.gov/Archives/edgar/data/2488/000000248817000043/),2
+AMD,AMD,2016Q4,2016-12-30,분기말 종가,11.34,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/AMD?interval=1d&events=splits (2016-12-30),,2
+AMD,AMD,2016Q4,2017-02-10,분기말 상장주식수,940758118,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/2488/000000248817000043/,dei:EntityCommonStockSharesOutstanding 클래스 합,2
+AMD,AMD,2016Q4,2016-12-30,분기말 시가총액,10668197058,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/AMD?interval=1d&events=splits (2016-12-30) ; https://www.sec.gov/Archives/edgar/data/2488/000000248817000043/,종가 11.34 × 주식수 940758118,2
+AMD,AMD,2017Q1,2017-04-01,분기별 매출액,1178000000,USD,공시(재작성 반영),https://www.sec.gov/Archives/edgar/data/2488/000000248818000068/,원 공시 984000000 (https://www.sec.gov/Archives/edgar/data/2488/000000248817000107/),2
+AMD,AMD,2017Q1,2017-04-01,분기별 영업이익,11000000,USD,공시(재작성 반영),https://www.sec.gov/Archives/edgar/data/2488/000000248819000011/,원 공시 -29000000 (https://www.sec.gov/Archives/edgar/data/2488/000000248817000107/),2
+AMD,AMD,2017Q1,2017-04-01,분기별 당기순이익(지배),-33000000,USD,공시(재작성 반영),https://www.sec.gov/Archives/edgar/data/2488/000000248819000011/,원 공시 -73000000 (https://www.sec.gov/Archives/edgar/data/2488/000000248817000107/),2
+AMD,AMD,2017Q1,2017-04-01,분기별 영업활동현금흐름,-299000000,USD,공시,https://www.sec.gov/Archives/edgar/data/2488/000000248817000107/,,2
+AMD,AMD,2017Q1,2017-04-01,분기말 자산총계,3299000000,USD,공시,https://www.sec.gov/Archives/edgar/data/2488/000000248817000107/,,2
+AMD,AMD,2017Q1,2017-04-01,분기말 부채총계,2890000000,USD,계산(부채및자본-총자본),https://www.sec.gov/Archives/edgar/data/2488/000000248817000107/,부채및자본 3299000000 − 총자본 409000000,2
+AMD,AMD,2017Q1,2017-04-01,분기말 총자본(자기자본),409000000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/2488/000000248817000107/,"StockholdersEquity, MinorityInterest 태그 없음",2
+AMD,AMD,2017Q1,2017-04-01,분기말 지배지분 자본,409000000,USD,공시,https://www.sec.gov/Archives/edgar/data/2488/000000248817000107/,,2
+AMD,AMD,2017Q1,2017-03-31,분기말 종가,14.55,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/AMD?interval=1d&events=splits (2017-03-31),,2
+AMD,AMD,2017Q1,2017-05-04,분기말 상장주식수,945016174,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/2488/000000248817000107/,dei:EntityCommonStockSharesOutstanding 클래스 합,2
+AMD,AMD,2017Q1,2017-03-31,분기말 시가총액,13749985332,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/AMD?interval=1d&events=splits (2017-03-31) ; https://www.sec.gov/Archives/edgar/data/2488/000000248817000107/,종가 14.55 × 주식수 945016174,2
+AMD,AMD,2017Q2,2017-07-01,분기별 매출액,1222000000,USD,공시,https://www.sec.gov/Archives/edgar/data/2488/000000248817000156/,,2
+AMD,AMD,2017Q2,2017-07-01,분기별 영업이익,-1000000,USD,공시(재작성 반영),https://www.sec.gov/Archives/edgar/data/2488/000000248819000011/,원 공시 25000000 (https://www.sec.gov/Archives/edgar/data/2488/000000248817000156/),2
+AMD,AMD,2017Q2,2017-07-01,분기별 당기순이익(지배),-42000000,USD,공시(재작성 반영),https://www.sec.gov/Archives/edgar/data/2488/000000248819000011/,원 공시 -16000000 (https://www.sec.gov/Archives/edgar/data/2488/000000248817000156/),2
+AMD,AMD,2017Q2,2017-07-01,분기별 영업활동현금흐름,-82000000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/2488/000000248817000156/ ; https://www.sec.gov/Archives/edgar/data/2488/000000248817000107/,누적 -381000000 − 직전누적 -299000000 (시작 2017-01-01),2
+AMD,AMD,2017Q2,2017-07-01,분기말 자산총계,3370000000,USD,공시,https://www.sec.gov/Archives/edgar/data/2488/000000248817000156/,,2
+AMD,AMD,2017Q2,2017-07-01,분기말 부채총계,2953000000,USD,계산(부채및자본-총자본),https://www.sec.gov/Archives/edgar/data/2488/000000248817000156/,부채및자본 3370000000 − 총자본 417000000,2
+AMD,AMD,2017Q2,2017-07-01,분기말 총자본(자기자본),417000000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/2488/000000248817000156/,"StockholdersEquity, MinorityInterest 태그 없음",2
+AMD,AMD,2017Q2,2017-07-01,분기말 지배지분 자본,417000000,USD,공시,https://www.sec.gov/Archives/edgar/data/2488/000000248817000156/,,2
+AMD,AMD,2017Q2,2017-06-30,분기말 종가,12.48,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/AMD?interval=1d&events=splits (2017-06-30),,2
+AMD,AMD,2017Q2,2017-07-28,분기말 상장주식수,946779039,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/2488/000000248817000156/,dei:EntityCommonStockSharesOutstanding 클래스 합,2
+AMD,AMD,2017Q2,2017-06-30,분기말 시가총액,11815802407,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/AMD?interval=1d&events=splits (2017-06-30) ; https://www.sec.gov/Archives/edgar/data/2488/000000248817000156/,종가 12.48 × 주식수 946779039,2
+AMD,AMD,2017Q3,2017-09-30,분기별 매출액,1643000000,USD,공시,https://www.sec.gov/Archives/edgar/data/2488/000000248817000227/,,2
+AMD,AMD,2017Q3,2017-09-30,분기별 영업이익,119000000,USD,공시(재작성 반영),https://www.sec.gov/Archives/edgar/data/2488/000000248819000011/,원 공시 126000000 (https://www.sec.gov/Archives/edgar/data/2488/000000248817000227/),2
+AMD,AMD,2017Q3,2017-09-30,분기별 당기순이익(지배),61000000,USD,공시(재작성 반영),https://www.sec.gov/Archives/edgar/data/2488/000000248819000011/,원 공시 71000000 (https://www.sec.gov/Archives/edgar/data/2488/000000248817000227/),2
+AMD,AMD,2017Q3,2017-09-30,분기별 영업활동현금흐름,69000000,USD,계산(누적차감)(재작성 반영),https://www.sec.gov/Archives/edgar/data/2488/000000248818000189/ ; https://www.sec.gov/Archives/edgar/data/2488/000000248817000156/,누적 -312000000 − 직전누적 -381000000 (시작 2017-01-01) ; 원 공시 66000000 (https://www.sec.gov/Archives/edgar/data/2488/000000248817000227/ ; https://www.sec.gov/Archives/edgar/data/2488/000000248817000156/),2
+AMD,AMD,2017Q3,2017-09-30,분기말 자산총계,3586000000,USD,공시,https://www.sec.gov/Archives/edgar/data/2488/000000248817000227/,,2
+AMD,AMD,2017Q3,2017-09-30,분기말 부채총계,3066000000,USD,계산(부채및자본-총자본),https://www.sec.gov/Archives/edgar/data/2488/000000248817000227/,부채및자본 3586000000 − 총자본 520000000,2
+AMD,AMD,2017Q3,2017-09-30,분기말 총자본(자기자본),520000000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/2488/000000248817000227/,"StockholdersEquity, MinorityInterest 태그 없음",2
+AMD,AMD,2017Q3,2017-09-30,분기말 지배지분 자본,520000000,USD,공시,https://www.sec.gov/Archives/edgar/data/2488/000000248817000227/,,2
+AMD,AMD,2017Q3,2017-09-29,분기말 종가,12.75,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/AMD?interval=1d&events=splits (2017-09-29),,2
+AMD,AMD,2017Q3,2017-10-27,분기말 상장주식수,964798603,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/2488/000000248817000227/,dei:EntityCommonStockSharesOutstanding 클래스 합,2
+AMD,AMD,2017Q3,2017-09-29,분기말 시가총액,12301182188,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/AMD?interval=1d&events=splits (2017-09-29) ; https://www.sec.gov/Archives/edgar/data/2488/000000248817000227/,종가 12.75 × 주식수 964798603,2
+AMD,AMD,2017Q4,2017-12-30,분기별 매출액,1480000000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/2488/000000248818000042/ ; https://www.sec.gov/Archives/edgar/data/2488/000000248817000227/,연간 5329000000 − 9개월누적 3849000000 (SalesRevenueNet),2
+AMD,AMD,2017Q4,2017-12-30,분기별 영업이익,-2000000,USD,계산(연간-3분기누적)(재작성 반영),https://www.sec.gov/Archives/edgar/data/2488/000000248820000008/ ; https://www.sec.gov/Archives/edgar/data/2488/000000248818000189/,연간 127000000 − 9개월누적 129000000 (OperatingIncomeLoss) ; 원 공시 82000000 (https://www.sec.gov/Archives/edgar/data/2488/000000248818000042/ ; https://www.sec.gov/Archives/edgar/data/2488/000000248817000227/),2
+AMD,AMD,2017Q4,2017-12-30,분기별 당기순이익(지배),-19000000,USD,계산(연간-3분기누적)(재작성 반영),https://www.sec.gov/Archives/edgar/data/2488/000000248820000008/ ; https://www.sec.gov/Archives/edgar/data/2488/000000248818000189/,연간 -33000000 − 9개월누적 -14000000 (NetIncomeLoss) ; 원 공시 61000000 (https://www.sec.gov/Archives/edgar/data/2488/000000248818000042/ ; https://www.sec.gov/Archives/edgar/data/2488/000000248817000227/),2
+AMD,AMD,2017Q4,2017-12-30,분기별 영업활동현금흐름,324000000,USD,계산(누적차감)(재작성 반영),https://www.sec.gov/Archives/edgar/data/2488/000000248820000008/ ; https://www.sec.gov/Archives/edgar/data/2488/000000248818000189/,누적 12000000 − 직전누적 -312000000 (시작 2017-01-01) ; 원 공시 383000000 (https://www.sec.gov/Archives/edgar/data/2488/000000248818000042/ ; https://www.sec.gov/Archives/edgar/data/2488/000000248817000227/),2
+AMD,AMD,2017Q4,2017-12-30,분기말 자산총계,3552000000,USD,공시(재작성 반영),https://www.sec.gov/Archives/edgar/data/2488/000000248819000011/,원 공시 3540000000 (https://www.sec.gov/Archives/edgar/data/2488/000000248818000042/),2
+AMD,AMD,2017Q4,2017-12-30,분기말 부채총계,2956000000,USD,계산(부채및자본-총자본)(재작성 반영),https://www.sec.gov/Archives/edgar/data/2488/000000248819000011/,부채및자본 3552000000 − 총자본 596000000 ; 원 공시 2929000000 (https://www.sec.gov/Archives/edgar/data/2488/000000248818000042/),2
+AMD,AMD,2017Q4,2017-12-30,분기말 총자본(자기자본),596000000,USD,공시(비지배 없음)(재작성 반영),https://www.sec.gov/Archives/edgar/data/2488/000000248820000008/,"StockholdersEquity, MinorityInterest 태그 없음 ; 원 공시 611000000 (https://www.sec.gov/Archives/edgar/data/2488/000000248818000042/)",2
+AMD,AMD,2017Q4,2017-12-30,분기말 지배지분 자본,596000000,USD,공시(재작성 반영),https://www.sec.gov/Archives/edgar/data/2488/000000248820000008/,원 공시 611000000 (https://www.sec.gov/Archives/edgar/data/2488/000000248818000042/),2
+AMD,AMD,2017Q4,2017-12-29,분기말 종가,10.28,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/AMD?interval=1d&events=splits (2017-12-29),,2
+AMD,AMD,2017Q4,2018-02-23,분기말 상장주식수,969110191,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/2488/000000248818000042/,dei:EntityCommonStockSharesOutstanding 클래스 합,2
+AMD,AMD,2017Q4,2017-12-29,분기말 시가총액,9962452763,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/AMD?interval=1d&events=splits (2017-12-29) ; https://www.sec.gov/Archives/edgar/data/2488/000000248818000042/,종가 10.28 × 주식수 969110191,2
+AMD,AMD,2018Q1,2018-03-31,분기별 매출액,1647000000,USD,공시,https://www.sec.gov/Archives/edgar/data/2488/000000248818000068/,,2
+AMD,AMD,2018Q1,2018-03-31,분기별 영업이익,120000000,USD,공시,https://www.sec.gov/Archives/edgar/data/2488/000000248818000068/,,2
+AMD,AMD,2018Q1,2018-03-31,분기별 당기순이익(지배),81000000,USD,공시,https://www.sec.gov/Archives/edgar/data/2488/000000248818000068/,,2
+AMD,AMD,2018Q1,2018-03-31,분기별 영업활동현금흐름,-107000000,USD,공시(재작성 반영),https://www.sec.gov/Archives/edgar/data/2488/000000248819000045/,원 공시 -86000000 (https://www.sec.gov/Archives/edgar/data/2488/000000248818000068/),2
+AMD,AMD,2018Q1,2018-03-31,분기말 자산총계,3763000000,USD,공시,https://www.sec.gov/Archives/edgar/data/2488/000000248818000068/,,2
+AMD,AMD,2018Q1,2018-03-31,분기말 부채총계,3048000000,USD,계산(부채및자본-총자본),https://www.sec.gov/Archives/edgar/data/2488/000000248818000068/,부채및자본 3763000000 − 총자본 715000000,2
+AMD,AMD,2018Q1,2018-03-31,분기말 총자본(자기자본),715000000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/2488/000000248818000068/,"StockholdersEquity, MinorityInterest 태그 없음",2
+AMD,AMD,2018Q1,2018-03-31,분기말 지배지분 자본,715000000,USD,공시,https://www.sec.gov/Archives/edgar/data/2488/000000248818000068/,,2
+AMD,AMD,2018Q1,2018-03-29,분기말 종가,10.05,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/AMD?interval=1d&events=splits (2018-03-29),,2
+AMD,AMD,2018Q1,2018-04-27,분기말 상장주식수,969343988,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/2488/000000248818000068/,dei:EntityCommonStockSharesOutstanding 클래스 합,2
+AMD,AMD,2018Q1,2018-03-29,분기말 시가총액,9741907079,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/AMD?interval=1d&events=splits (2018-03-29) ; https://www.sec.gov/Archives/edgar/data/2488/000000248818000068/,종가 10.05 × 주식수 969343988,2
+AMD,AMD,2018Q2,2018-06-30,분기별 매출액,1756000000,USD,공시,https://www.sec.gov/Archives/edgar/data/2488/000000248818000128/,,2
+AMD,AMD,2018Q2,2018-06-30,분기별 영업이익,153000000,USD,공시,https://www.sec.gov/Archives/edgar/data/2488/000000248818000128/,,2
+AMD,AMD,2018Q2,2018-06-30,분기별 당기순이익(지배),116000000,USD,공시,https://www.sec.gov/Archives/edgar/data/2488/000000248818000128/,,2
+AMD,AMD,2018Q2,2018-06-30,분기별 영업활동현금흐름,-55000000,USD,계산(누적차감)(재작성 반영),https://www.sec.gov/Archives/edgar/data/2488/000000248819000104/ ; https://www.sec.gov/Archives/edgar/data/2488/000000248819000045/,누적 -162000000 − 직전누적 -107000000 (시작 2017-12-31) ; 원 공시 -45000000 (https://www.sec.gov/Archives/edgar/data/2488/000000248818000128/ ; https://www.sec.gov/Archives/edgar/data/2488/000000248818000068/),2
+AMD,AMD,2018Q2,2018-06-30,분기말 자산총계,4103000000,USD,공시,https://www.sec.gov/Archives/edgar/data/2488/000000248818000128/,,2
+AMD,AMD,2018Q2,2018-06-30,분기말 부채총계,3224000000,USD,계산(부채및자본-총자본),https://www.sec.gov/Archives/edgar/data/2488/000000248818000128/,부채및자본 4103000000 − 총자본 879000000,2
+AMD,AMD,2018Q2,2018-06-30,분기말 총자본(자기자본),879000000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/2488/000000248818000128/,"StockholdersEquity, MinorityInterest 태그 없음",2
+AMD,AMD,2018Q2,2018-06-30,분기말 지배지분 자본,879000000,USD,공시,https://www.sec.gov/Archives/edgar/data/2488/000000248818000128/,,2
+AMD,AMD,2018Q2,2018-06-29,분기말 종가,14.99,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/AMD?interval=1d&events=splits (2018-06-29),,2
+AMD,AMD,2018Q2,2018-07-27,분기말 상장주식수,974872409,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/2488/000000248818000128/,dei:EntityCommonStockSharesOutstanding 클래스 합,2
+AMD,AMD,2018Q2,2018-06-29,분기말 시가총액,14613337411,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/AMD?interval=1d&events=splits (2018-06-29) ; https://www.sec.gov/Archives/edgar/data/2488/000000248818000128/,종가 14.99 × 주식수 974872409,2
+AMD,AMD,2018Q3,2018-09-29,분기별 매출액,1653000000,USD,공시,https://www.sec.gov/Archives/edgar/data/2488/000000248818000189/,,2
+AMD,AMD,2018Q3,2018-09-29,분기별 영업이익,150000000,USD,공시,https://www.sec.gov/Archives/edgar/data/2488/000000248818000189/,,2
+AMD,AMD,2018Q3,2018-09-29,분기별 당기순이익(지배),102000000,USD,공시,https://www.sec.gov/Archives/edgar/data/2488/000000248818000189/,,2
+AMD,AMD,2018Q3,2018-09-29,분기별 영업활동현금흐름,76000000,USD,계산(누적차감)(재작성 반영),https://www.sec.gov/Archives/edgar/data/2488/000000248819000159/ ; https://www.sec.gov/Archives/edgar/data/2488/000000248819000104/,누적 -86000000 − 직전누적 -162000000 (시작 2017-12-31) ; 원 공시 95000000 (https://www.sec.gov/Archives/edgar/data/2488/000000248818000189/ ; https://www.sec.gov/Archives/edgar/data/2488/000000248818000128/),2
+AMD,AMD,2018Q3,2018-09-29,분기말 자산총계,4347000000,USD,공시,https://www.sec.gov/Archives/edgar/data/2488/000000248818000189/,,2
+AMD,AMD,2018Q3,2018-09-29,분기말 부채총계,3222000000,USD,계산(부채및자본-총자본),https://www.sec.gov/Archives/edgar/data/2488/000000248818000189/,부채및자본 4347000000 − 총자본 1125000000,2
+AMD,AMD,2018Q3,2018-09-29,분기말 총자본(자기자본),1125000000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/2488/000000248818000189/,"StockholdersEquity, MinorityInterest 태그 없음",2
+AMD,AMD,2018Q3,2018-09-29,분기말 지배지분 자본,1125000000,USD,공시,https://www.sec.gov/Archives/edgar/data/2488/000000248818000189/,,2
+AMD,AMD,2018Q3,2018-09-28,분기말 종가,30.89,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/AMD?interval=1d&events=splits (2018-09-28),,2
+AMD,AMD,2018Q3,2018-10-26,분기말 상장주식수,999407216,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/2488/000000248818000189/,dei:EntityCommonStockSharesOutstanding 클래스 합,2
+AMD,AMD,2018Q3,2018-09-28,분기말 시가총액,30871688902,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/AMD?interval=1d&events=splits (2018-09-28) ; https://www.sec.gov/Archives/edgar/data/2488/000000248818000189/,종가 30.89 × 주식수 999407216,2
+AMD,AMD,2018Q4,2018-12-29,분기별 매출액,1419000000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/2488/000000248819000011/ ; https://www.sec.gov/Archives/edgar/data/2488/000000248818000189/,연간 6475000000 − 9개월누적 5056000000 (RevenueFromContractWithCustomerExcludingAssessedTax),2
+AMD,AMD,2018Q4,2018-12-29,분기별 영업이익,28000000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/2488/000000248819000011/ ; https://www.sec.gov/Archives/edgar/data/2488/000000248818000189/,연간 451000000 − 9개월누적 423000000 (OperatingIncomeLoss),2
+AMD,AMD,2018Q4,2018-12-29,분기별 당기순이익(지배),38000000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/2488/000000248819000011/ ; https://www.sec.gov/Archives/edgar/data/2488/000000248818000189/,연간 337000000 − 9개월누적 299000000 (NetIncomeLoss),2
+AMD,AMD,2018Q4,2018-12-29,분기별 영업활동현금흐름,120000000,USD,계산(누적차감)(재작성 반영),https://www.sec.gov/Archives/edgar/data/2488/000000248819000011/ ; https://www.sec.gov/Archives/edgar/data/2488/000000248819000159/,누적 34000000 − 직전누적 -86000000 (시작 2017-12-31) ; 원 공시 70000000 (https://www.sec.gov/Archives/edgar/data/2488/000000248819000011/ ; https://www.sec.gov/Archives/edgar/data/2488/000000248818000189/),2
+AMD,AMD,2018Q4,2018-12-29,분기말 자산총계,4556000000,USD,공시,https://www.sec.gov/Archives/edgar/data/2488/000000248819000011/,,2
+AMD,AMD,2018Q4,2018-12-29,분기말 부채총계,3290000000,USD,계산(부채및자본-총자본),https://www.sec.gov/Archives/edgar/data/2488/000000248819000011/,부채및자본 4556000000 − 총자본 1266000000,2
+AMD,AMD,2018Q4,2018-12-29,분기말 총자본(자기자본),1266000000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/2488/000000248819000011/,"StockholdersEquity, MinorityInterest 태그 없음",2
+AMD,AMD,2018Q4,2018-12-29,분기말 지배지분 자본,1266000000,USD,공시,https://www.sec.gov/Archives/edgar/data/2488/000000248819000011/,,2
+AMD,AMD,2018Q4,2018-12-28,분기말 종가,17.82,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/AMD?interval=1d&events=splits (2018-12-28),,2
+AMD,AMD,2018Q4,2019-02-01,분기말 상장주식수,1005298882,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/2488/000000248819000011/,dei:EntityCommonStockSharesOutstanding 클래스 합,2
+AMD,AMD,2018Q4,2018-12-28,분기말 시가총액,17914426077,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/AMD?interval=1d&events=splits (2018-12-28) ; https://www.sec.gov/Archives/edgar/data/2488/000000248819000011/,종가 17.82 × 주식수 1005298882,2
+AMD,AMD,2019Q1,2019-03-30,분기별 매출액,1272000000,USD,공시,https://www.sec.gov/Archives/edgar/data/2488/000000248819000045/,,2
+AMD,AMD,2019Q1,2019-03-30,분기별 영업이익,38000000,USD,공시,https://www.sec.gov/Archives/edgar/data/2488/000000248819000045/,,2
+AMD,AMD,2019Q1,2019-03-30,분기별 당기순이익(지배),16000000,USD,공시,https://www.sec.gov/Archives/edgar/data/2488/000000248819000045/,,2
+AMD,AMD,2019Q1,2019-03-30,분기별 영업활동현금흐름,-213000000,USD,공시,https://www.sec.gov/Archives/edgar/data/2488/000000248819000045/,,2
+AMD,AMD,2019Q1,2019-03-30,분기말 자산총계,4931000000,USD,공시,https://www.sec.gov/Archives/edgar/data/2488/000000248819000045/,,2
+AMD,AMD,2019Q1,2019-03-30,분기말 부채총계,3143000000,USD,계산(부채및자본-총자본),https://www.sec.gov/Archives/edgar/data/2488/000000248819000045/,부채및자본 4931000000 − 총자본 1788000000,2
+AMD,AMD,2019Q1,2019-03-30,분기말 총자본(자기자본),1788000000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/2488/000000248819000045/,"StockholdersEquity, MinorityInterest 태그 없음",2
+AMD,AMD,2019Q1,2019-03-30,분기말 지배지분 자본,1788000000,USD,공시,https://www.sec.gov/Archives/edgar/data/2488/000000248819000045/,,2
+AMD,AMD,2019Q1,2019-03-29,분기말 종가,25.52,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/AMD?interval=1d&events=splits (2019-03-29),,2
+AMD,AMD,2019Q1,2019-04-26,분기말 상장주식수,1081600723,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/2488/000000248819000045/,dei:EntityCommonStockSharesOutstanding 클래스 합,2
+AMD,AMD,2019Q1,2019-03-29,분기말 시가총액,27602450451,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/AMD?interval=1d&events=splits (2019-03-29) ; https://www.sec.gov/Archives/edgar/data/2488/000000248819000045/,종가 25.52 × 주식수 1081600723,2
+AMD,AMD,2019Q2,2019-06-29,분기별 매출액,1531000000,USD,공시,https://www.sec.gov/Archives/edgar/data/2488/000000248819000104/,,2
+AMD,AMD,2019Q2,2019-06-29,분기별 영업이익,59000000,USD,공시,https://www.sec.gov/Archives/edgar/data/2488/000000248819000104/,,2
+AMD,AMD,2019Q2,2019-06-29,분기별 당기순이익(지배),35000000,USD,공시,https://www.sec.gov/Archives/edgar/data/2488/000000248819000104/,,2
+AMD,AMD,2019Q2,2019-06-29,분기별 영업활동현금흐름,30000000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/2488/000000248819000104/ ; https://www.sec.gov/Archives/edgar/data/2488/000000248819000045/,누적 -183000000 − 직전누적 -213000000 (시작 2018-12-30),2
+AMD,AMD,2019Q2,2019-06-29,분기말 자산총계,5102000000,USD,공시,https://www.sec.gov/Archives/edgar/data/2488/000000248819000104/,,2
+AMD,AMD,2019Q2,2019-06-29,분기말 부채총계,3201000000,USD,계산(부채및자본-총자본),https://www.sec.gov/Archives/edgar/data/2488/000000248819000104/,부채및자본 5102000000 − 총자본 1901000000,2
+AMD,AMD,2019Q2,2019-06-29,분기말 총자본(자기자본),1901000000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/2488/000000248819000104/,"StockholdersEquity, MinorityInterest 태그 없음",2
+AMD,AMD,2019Q2,2019-06-29,분기말 지배지분 자본,1901000000,USD,공시,https://www.sec.gov/Archives/edgar/data/2488/000000248819000104/,,2
+AMD,AMD,2019Q2,2019-06-28,분기말 종가,30.37,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/AMD?interval=1d&events=splits (2019-06-28),,2
+AMD,AMD,2019Q2,2019-07-26,분기말 상장주식수,1085546359,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/2488/000000248819000104/,dei:EntityCommonStockSharesOutstanding 클래스 합,2
+AMD,AMD,2019Q2,2019-06-28,분기말 시가총액,32968042923,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/AMD?interval=1d&events=splits (2019-06-28) ; https://www.sec.gov/Archives/edgar/data/2488/000000248819000104/,종가 30.37 × 주식수 1085546359,2
+AMD,AMD,2019Q3,2019-09-28,분기별 매출액,1801000000,USD,공시,https://www.sec.gov/Archives/edgar/data/2488/000000248819000159/,,2
+AMD,AMD,2019Q3,2019-09-28,분기별 영업이익,186000000,USD,공시,https://www.sec.gov/Archives/edgar/data/2488/000000248819000159/,,2
+AMD,AMD,2019Q3,2019-09-28,분기별 당기순이익(지배),120000000,USD,공시,https://www.sec.gov/Archives/edgar/data/2488/000000248819000159/,,2
+AMD,AMD,2019Q3,2019-09-28,분기별 영업활동현금흐름,234000000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/2488/000000248819000159/ ; https://www.sec.gov/Archives/edgar/data/2488/000000248819000104/,누적 51000000 − 직전누적 -183000000 (시작 2018-12-30),2
+AMD,AMD,2019Q3,2019-09-28,분기말 자산총계,5253000000,USD,공시,https://www.sec.gov/Archives/edgar/data/2488/000000248819000159/,,2
+AMD,AMD,2019Q3,2019-09-28,분기말 부채총계,3077000000,USD,계산(부채및자본-총자본),https://www.sec.gov/Archives/edgar/data/2488/000000248819000159/,부채및자본 5253000000 − 총자본 2176000000,2
+AMD,AMD,2019Q3,2019-09-28,분기말 총자본(자기자본),2176000000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/2488/000000248819000159/,"StockholdersEquity, MinorityInterest 태그 없음",2
+AMD,AMD,2019Q3,2019-09-28,분기말 지배지분 자본,2176000000,USD,공시,https://www.sec.gov/Archives/edgar/data/2488/000000248819000159/,,2
+AMD,AMD,2019Q3,2019-09-27,분기말 종가,28.72,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/AMD?interval=1d&events=splits (2019-09-27),,2
+AMD,AMD,2019Q3,2019-10-25,분기말 상장주식수,1113627528,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/2488/000000248819000159/,dei:EntityCommonStockSharesOutstanding 클래스 합,2
+AMD,AMD,2019Q3,2019-09-27,분기말 시가총액,31983382604,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/AMD?interval=1d&events=splits (2019-09-27) ; https://www.sec.gov/Archives/edgar/data/2488/000000248819000159/,종가 28.72 × 주식수 1113627528,2
+AMD,AMD,2019Q4,2019-12-28,분기별 매출액,2127000000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/2488/000000248820000008/ ; https://www.sec.gov/Archives/edgar/data/2488/000000248819000159/,연간 6731000000 − 9개월누적 4604000000 (RevenueFromContractWithCustomerExcludingAssessedTax),2
+AMD,AMD,2019Q4,2019-12-28,분기별 영업이익,348000000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/2488/000000248820000008/ ; https://www.sec.gov/Archives/edgar/data/2488/000000248819000159/,연간 631000000 − 9개월누적 283000000 (OperatingIncomeLoss),2
+AMD,AMD,2019Q4,2019-12-28,분기별 당기순이익(지배),170000000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/2488/000000248820000008/ ; https://www.sec.gov/Archives/edgar/data/2488/000000248819000159/,연간 341000000 − 9개월누적 171000000 (NetIncomeLoss),2
+AMD,AMD,2019Q4,2019-12-28,분기별 영업활동현금흐름,442000000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/2488/000000248820000008/ ; https://www.sec.gov/Archives/edgar/data/2488/000000248819000159/,누적 493000000 − 직전누적 51000000 (시작 2018-12-30),2
+AMD,AMD,2019Q4,2019-12-28,분기말 자산총계,6028000000,USD,공시,https://www.sec.gov/Archives/edgar/data/2488/000000248820000008/,,2
+AMD,AMD,2019Q4,2019-12-28,분기말 부채총계,3201000000,USD,계산(부채및자본-총자본),https://www.sec.gov/Archives/edgar/data/2488/000000248820000008/,부채및자본 6028000000 − 총자본 2827000000,2
+AMD,AMD,2019Q4,2019-12-28,분기말 총자본(자기자본),2827000000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/2488/000000248820000008/,"StockholdersEquity, MinorityInterest 태그 없음",2
+AMD,AMD,2019Q4,2019-12-28,분기말 지배지분 자본,2827000000,USD,공시,https://www.sec.gov/Archives/edgar/data/2488/000000248820000008/,,2
+AMD,AMD,2019Q4,2019-12-27,분기말 종가,46.18,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/AMD?interval=1d&events=splits (2019-12-27),,2
+AMD,AMD,2019Q4,2020-01-31,분기말 상장주식수,1169661536,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/2488/000000248820000008/,dei:EntityCommonStockSharesOutstanding 클래스 합,2
+AMD,AMD,2019Q4,2019-12-27,분기말 시가총액,54014969732,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/AMD?interval=1d&events=splits (2019-12-27) ; https://www.sec.gov/Archives/edgar/data/2488/000000248820000008/,종가 46.18 × 주식수 1169661536,2
+AMD,AMD,2020Q1,2020-03-28,분기별 매출액,1786000000,USD,공시,https://www.sec.gov/Archives/edgar/data/2488/000000248820000051/,,2
+AMD,AMD,2020Q1,2020-03-28,분기별 영업이익,177000000,USD,공시,https://www.sec.gov/Archives/edgar/data/2488/000000248820000051/,,2
+AMD,AMD,2020Q1,2020-03-28,분기별 당기순이익(지배),162000000,USD,공시,https://www.sec.gov/Archives/edgar/data/2488/000000248820000051/,,2
+AMD,AMD,2020Q1,2020-03-28,분기별 영업활동현금흐름,-65000000,USD,공시,https://www.sec.gov/Archives/edgar/data/2488/000000248820000051/,,2
+AMD,AMD,2020Q1,2020-03-28,분기말 자산총계,5864000000,USD,공시,https://www.sec.gov/Archives/edgar/data/2488/000000248820000051/,,2
+AMD,AMD,2020Q1,2020-03-28,분기말 부채총계,2827000000,USD,계산(부채및자본-총자본),https://www.sec.gov/Archives/edgar/data/2488/000000248820000051/,부채및자본 5864000000 − 총자본 3037000000,2
+AMD,AMD,2020Q1,2020-03-28,분기말 총자본(자기자본),3037000000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/2488/000000248820000051/,"StockholdersEquity, MinorityInterest 태그 없음",2
+AMD,AMD,2020Q1,2020-03-28,분기말 지배지분 자본,3037000000,USD,공시,https://www.sec.gov/Archives/edgar/data/2488/000000248820000051/,,2
+AMD,AMD,2020Q1,2020-03-27,분기말 종가,46.58,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/AMD?interval=1d&events=splits (2020-03-27),,2
+AMD,AMD,2020Q1,2020-04-24,분기말 상장주식수,1171190397,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/2488/000000248820000051/,dei:EntityCommonStockSharesOutstanding 클래스 합,2
+AMD,AMD,2020Q1,2020-03-27,분기말 시가총액,54554048692,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/AMD?interval=1d&events=splits (2020-03-27) ; https://www.sec.gov/Archives/edgar/data/2488/000000248820000051/,종가 46.58 × 주식수 1171190397,2
+AMD,AMD,2020Q2,2020-06-27,분기별 매출액,1932000000,USD,공시,https://www.sec.gov/Archives/edgar/data/2488/000000248820000103/,,2
+AMD,AMD,2020Q2,2020-06-27,분기별 영업이익,173000000,USD,공시,https://www.sec.gov/Archives/edgar/data/2488/000000248820000103/,,2
+AMD,AMD,2020Q2,2020-06-27,분기별 당기순이익(지배),157000000,USD,공시,https://www.sec.gov/Archives/edgar/data/2488/000000248820000103/,,2
+AMD,AMD,2020Q2,2020-06-27,분기별 영업활동현금흐름,243000000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/2488/000000248820000103/ ; https://www.sec.gov/Archives/edgar/data/2488/000000248820000051/,누적 178000000 − 직전누적 -65000000 (시작 2019-12-29),2
+AMD,AMD,2020Q2,2020-06-27,분기말 자산총계,6583000000,USD,공시,https://www.sec.gov/Archives/edgar/data/2488/000000248820000103/,,2
+AMD,AMD,2020Q2,2020-06-27,분기말 부채총계,3278000000,USD,계산(부채및자본-총자본),https://www.sec.gov/Archives/edgar/data/2488/000000248820000103/,부채및자본 6583000000 − 총자본 3305000000,2
+AMD,AMD,2020Q2,2020-06-27,분기말 총자본(자기자본),3305000000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/2488/000000248820000103/,"StockholdersEquity, MinorityInterest 태그 없음",2
+AMD,AMD,2020Q2,2020-06-27,분기말 지배지분 자본,3305000000,USD,공시,https://www.sec.gov/Archives/edgar/data/2488/000000248820000103/,,2
+AMD,AMD,2020Q2,2020-06-26,분기말 종가,50.1,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/AMD?interval=1d&events=splits (2020-06-26),,2
+AMD,AMD,2020Q2,2020-07-24,분기말 상장주식수,1174056713,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/2488/000000248820000103/,dei:EntityCommonStockSharesOutstanding 클래스 합,2
+AMD,AMD,2020Q2,2020-06-26,분기말 시가총액,58820241321,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/AMD?interval=1d&events=splits (2020-06-26) ; https://www.sec.gov/Archives/edgar/data/2488/000000248820000103/,종가 50.1 × 주식수 1174056713,2
+AMD,AMD,2020Q3,2020-09-26,분기별 매출액,2801000000,USD,공시,https://www.sec.gov/Archives/edgar/data/2488/000000248820000164/,,2
+AMD,AMD,2020Q3,2020-09-26,분기별 영업이익,449000000,USD,공시,https://www.sec.gov/Archives/edgar/data/2488/000000248820000164/,,2
+AMD,AMD,2020Q3,2020-09-26,분기별 당기순이익(지배),390000000,USD,공시,https://www.sec.gov/Archives/edgar/data/2488/000000248820000164/,,2
+AMD,AMD,2020Q3,2020-09-26,분기별 영업활동현금흐름,339000000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/2488/000000248820000164/ ; https://www.sec.gov/Archives/edgar/data/2488/000000248820000103/,누적 517000000 − 직전누적 178000000 (시작 2019-12-29),2
+AMD,AMD,2020Q3,2020-09-26,분기말 자산총계,7023000000,USD,공시,https://www.sec.gov/Archives/edgar/data/2488/000000248820000164/,,2
+AMD,AMD,2020Q3,2020-09-26,분기말 부채총계,3156000000,USD,계산(부채및자본-총자본),https://www.sec.gov/Archives/edgar/data/2488/000000248820000164/,부채및자본 7023000000 − 총자본 3867000000,2
+AMD,AMD,2020Q3,2020-09-26,분기말 총자본(자기자본),3867000000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/2488/000000248820000164/,"StockholdersEquity, MinorityInterest 태그 없음",2
+AMD,AMD,2020Q3,2020-09-26,분기말 지배지분 자본,3867000000,USD,공시,https://www.sec.gov/Archives/edgar/data/2488/000000248820000164/,,2
+AMD,AMD,2020Q3,2020-09-25,분기말 종가,78.06,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/AMD?interval=1d&events=splits (2020-09-25),,2
+AMD,AMD,2020Q3,2020-10-23,분기말 상장주식수,1202711638,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/2488/000000248820000164/,dei:EntityCommonStockSharesOutstanding 클래스 합,2
+AMD,AMD,2020Q3,2020-09-25,분기말 시가총액,93883670462,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/AMD?interval=1d&events=splits (2020-09-25) ; https://www.sec.gov/Archives/edgar/data/2488/000000248820000164/,종가 78.06 × 주식수 1202711638,2
+AMD,AMD,2020Q4,2020-12-26,분기별 매출액,3244000000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/2488/000162828021001185/ ; https://www.sec.gov/Archives/edgar/data/2488/000000248820000164/,연간 9763000000 − 9개월누적 6519000000 (RevenueFromContractWithCustomerExcludingAssessedTax),2
+AMD,AMD,2020Q4,2020-12-26,분기별 영업이익,570000000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/2488/000162828021001185/ ; https://www.sec.gov/Archives/edgar/data/2488/000000248820000164/,연간 1369000000 − 9개월누적 799000000 (OperatingIncomeLoss),2
+AMD,AMD,2020Q4,2020-12-26,분기별 당기순이익(지배),1781000000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/2488/000162828021001185/ ; https://www.sec.gov/Archives/edgar/data/2488/000000248820000164/,연간 2490000000 − 9개월누적 709000000 (NetIncomeLoss),2
+AMD,AMD,2020Q4,2020-12-26,분기별 영업활동현금흐름,554000000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/2488/000162828021001185/ ; https://www.sec.gov/Archives/edgar/data/2488/000000248820000164/,누적 1071000000 − 직전누적 517000000 (시작 2019-12-29),2
+AMD,AMD,2020Q4,2020-12-26,분기말 자산총계,8962000000,USD,공시,https://www.sec.gov/Archives/edgar/data/2488/000162828021001185/,,2
+AMD,AMD,2020Q4,2020-12-26,분기말 부채총계,3125000000,USD,계산(부채및자본-총자본),https://www.sec.gov/Archives/edgar/data/2488/000162828021001185/,부채및자본 8962000000 − 총자본 5837000000,2
+AMD,AMD,2020Q4,2020-12-26,분기말 총자본(자기자본),5837000000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/2488/000162828021001185/,"StockholdersEquity, MinorityInterest 태그 없음",2
+AMD,AMD,2020Q4,2020-12-26,분기말 지배지분 자본,5837000000,USD,공시,https://www.sec.gov/Archives/edgar/data/2488/000162828021001185/,,2
+AMD,AMD,2020Q4,2020-12-24,분기말 종가,91.81,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/AMD?interval=1d&events=splits (2020-12-24),,2
+AMD,AMD,2020Q4,2021-01-22,분기말 상장주식수,1211280009,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/2488/000162828021001185/,dei:EntityCommonStockSharesOutstanding 클래스 합,2
+AMD,AMD,2020Q4,2020-12-24,분기말 시가총액,111207617626,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/AMD?interval=1d&events=splits (2020-12-24) ; https://www.sec.gov/Archives/edgar/data/2488/000162828021001185/,종가 91.81 × 주식수 1211280009,2
+AMD,AMD,2021Q1,2021-03-27,분기별 매출액,3445000000,USD,공시,https://www.sec.gov/Archives/edgar/data/2488/000000248821000056/,,2
+AMD,AMD,2021Q1,2021-03-27,분기별 영업이익,662000000,USD,공시,https://www.sec.gov/Archives/edgar/data/2488/000000248821000056/,,2
+AMD,AMD,2021Q1,2021-03-27,분기별 당기순이익(지배),555000000,USD,공시,https://www.sec.gov/Archives/edgar/data/2488/000000248821000056/,,2
+AMD,AMD,2021Q1,2021-03-27,분기별 영업활동현금흐름,898000000,USD,공시,https://www.sec.gov/Archives/edgar/data/2488/000000248821000056/,,2
+AMD,AMD,2021Q1,2021-03-27,분기말 자산총계,10047000000,USD,공시,https://www.sec.gov/Archives/edgar/data/2488/000000248821000056/,,2
+AMD,AMD,2021Q1,2021-03-27,분기말 부채총계,3570000000,USD,계산(부채및자본-총자본),https://www.sec.gov/Archives/edgar/data/2488/000000248821000056/,부채및자본 10047000000 − 총자본 6477000000,2
+AMD,AMD,2021Q1,2021-03-27,분기말 총자본(자기자본),6477000000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/2488/000000248821000056/,"StockholdersEquity, MinorityInterest 태그 없음",2
+AMD,AMD,2021Q1,2021-03-27,분기말 지배지분 자본,6477000000,USD,공시,https://www.sec.gov/Archives/edgar/data/2488/000000248821000056/,,2
+AMD,AMD,2021Q1,2021-03-26,분기말 종가,77.41,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/AMD?interval=1d&events=splits (2021-03-26),,2
+AMD,AMD,2021Q1,2021-04-23,분기말 상장주식수,1215020976,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/2488/000000248821000056/,dei:EntityCommonStockSharesOutstanding 클래스 합,2
+AMD,AMD,2021Q1,2021-03-26,분기말 시가총액,94054773752,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/AMD?interval=1d&events=splits (2021-03-26) ; https://www.sec.gov/Archives/edgar/data/2488/000000248821000056/,종가 77.41 × 주식수 1215020976,2
+AMD,AMD,2021Q2,2021-06-26,분기별 매출액,3850000000,USD,공시,https://www.sec.gov/Archives/edgar/data/2488/000000248821000116/,,2
+AMD,AMD,2021Q2,2021-06-26,분기별 영업이익,831000000,USD,공시,https://www.sec.gov/Archives/edgar/data/2488/000000248821000116/,,2
+AMD,AMD,2021Q2,2021-06-26,분기별 당기순이익(지배),710000000,USD,공시,https://www.sec.gov/Archives/edgar/data/2488/000000248821000116/,,2
+AMD,AMD,2021Q2,2021-06-26,분기별 영업활동현금흐름,952000000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/2488/000000248821000116/ ; https://www.sec.gov/Archives/edgar/data/2488/000000248821000056/,누적 1850000000 − 직전누적 898000000 (시작 2020-12-27),2
+AMD,AMD,2021Q2,2021-06-26,분기말 자산총계,10691000000,USD,공시,https://www.sec.gov/Archives/edgar/data/2488/000000248821000116/,,2
+AMD,AMD,2021Q2,2021-06-26,분기말 부채총계,3626000000,USD,계산(부채및자본-총자본),https://www.sec.gov/Archives/edgar/data/2488/000000248821000116/,부채및자본 10691000000 − 총자본 7065000000,2
+AMD,AMD,2021Q2,2021-06-26,분기말 총자본(자기자본),7065000000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/2488/000000248821000116/,"StockholdersEquity, MinorityInterest 태그 없음",2
+AMD,AMD,2021Q2,2021-06-26,분기말 지배지분 자본,7065000000,USD,공시,https://www.sec.gov/Archives/edgar/data/2488/000000248821000116/,,2
+AMD,AMD,2021Q2,2021-06-25,분기말 종가,85.62,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/AMD?interval=1d&events=splits (2021-06-25),,2
+AMD,AMD,2021Q2,2021-07-23,분기말 상장주식수,1212965282,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/2488/000000248821000116/,dei:EntityCommonStockSharesOutstanding 클래스 합,2
+AMD,AMD,2021Q2,2021-06-25,분기말 시가총액,103854087445,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/AMD?interval=1d&events=splits (2021-06-25) ; https://www.sec.gov/Archives/edgar/data/2488/000000248821000116/,종가 85.62 × 주식수 1212965282,2
+AMD,AMD,2021Q3,2021-09-25,분기별 매출액,4313000000,USD,공시,https://www.sec.gov/Archives/edgar/data/2488/000000248821000178/,,2
+AMD,AMD,2021Q3,2021-09-25,분기별 영업이익,948000000,USD,공시,https://www.sec.gov/Archives/edgar/data/2488/000000248821000178/,,2
+AMD,AMD,2021Q3,2021-09-25,분기별 당기순이익(지배),923000000,USD,공시,https://www.sec.gov/Archives/edgar/data/2488/000000248821000178/,,2
+AMD,AMD,2021Q3,2021-09-25,분기별 영업활동현금흐름,849000000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/2488/000000248821000178/ ; https://www.sec.gov/Archives/edgar/data/2488/000000248821000116/,누적 2699000000 − 직전누적 1850000000 (시작 2020-12-27),2
+AMD,AMD,2021Q3,2021-09-25,분기말 자산총계,11153000000,USD,공시,https://www.sec.gov/Archives/edgar/data/2488/000000248821000178/,,2
+AMD,AMD,2021Q3,2021-09-25,분기말 부채총계,4017000000,USD,계산(부채및자본-총자본),https://www.sec.gov/Archives/edgar/data/2488/000000248821000178/,부채및자본 11153000000 − 총자본 7136000000,2
+AMD,AMD,2021Q3,2021-09-25,분기말 총자본(자기자본),7136000000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/2488/000000248821000178/,"StockholdersEquity, MinorityInterest 태그 없음",2
+AMD,AMD,2021Q3,2021-09-25,분기말 지배지분 자본,7136000000,USD,공시,https://www.sec.gov/Archives/edgar/data/2488/000000248821000178/,,2
+AMD,AMD,2021Q3,2021-09-24,분기말 종가,105.8,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/AMD?interval=1d&events=splits (2021-09-24),,2
+AMD,AMD,2021Q3,2021-10-22,분기말 상장주식수,1207610455,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/2488/000000248821000178/,dei:EntityCommonStockSharesOutstanding 클래스 합,2
+AMD,AMD,2021Q3,2021-09-24,분기말 시가총액,127765186139,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/AMD?interval=1d&events=splits (2021-09-24) ; https://www.sec.gov/Archives/edgar/data/2488/000000248821000178/,종가 105.8 × 주식수 1207610455,2
+AMD,AMD,2021Q4,2021-12-25,분기별 매출액,4826000000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/2488/000000248822000016/ ; https://www.sec.gov/Archives/edgar/data/2488/000000248821000178/,연간 16434000000 − 9개월누적 11608000000 (RevenueFromContractWithCustomerExcludingAssessedTax),2
+AMD,AMD,2021Q4,2021-12-25,분기별 영업이익,1207000000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/2488/000000248822000016/ ; https://www.sec.gov/Archives/edgar/data/2488/000000248821000178/,연간 3648000000 − 9개월누적 2441000000 (OperatingIncomeLoss),2
+AMD,AMD,2021Q4,2021-12-25,분기별 당기순이익(지배),974000000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/2488/000000248822000016/ ; https://www.sec.gov/Archives/edgar/data/2488/000000248821000178/,연간 3162000000 − 9개월누적 2188000000 (NetIncomeLoss),2
+AMD,AMD,2021Q4,2021-12-25,분기별 영업활동현금흐름,822000000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/2488/000000248822000016/ ; https://www.sec.gov/Archives/edgar/data/2488/000000248821000178/,누적 3521000000 − 직전누적 2699000000 (시작 2020-12-27),2
+AMD,AMD,2021Q4,2021-12-25,분기말 자산총계,12419000000,USD,공시,https://www.sec.gov/Archives/edgar/data/2488/000000248822000016/,,2
+AMD,AMD,2021Q4,2021-12-25,분기말 부채총계,4922000000,USD,계산(부채및자본-총자본),https://www.sec.gov/Archives/edgar/data/2488/000000248822000016/,부채및자본 12419000000 − 총자본 7497000000,2
+AMD,AMD,2021Q4,2021-12-25,분기말 총자본(자기자본),7497000000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/2488/000000248822000016/,"StockholdersEquity, MinorityInterest 태그 없음",2
+AMD,AMD,2021Q4,2021-12-25,분기말 지배지분 자본,7497000000,USD,공시,https://www.sec.gov/Archives/edgar/data/2488/000000248822000016/,,2
+AMD,AMD,2021Q4,2021-12-23,분기말 종가,146.14,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/AMD?interval=1d&events=splits (2021-12-23),,2
+AMD,AMD,2021Q4,2022-01-28,분기말 상장주식수,1199303422,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/2488/000000248822000016/,dei:EntityCommonStockSharesOutstanding 클래스 합,2
+AMD,AMD,2021Q4,2021-12-23,분기말 시가총액,175266202091,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/AMD?interval=1d&events=splits (2021-12-23) ; https://www.sec.gov/Archives/edgar/data/2488/000000248822000016/,종가 146.14 × 주식수 1199303422,2
+AMD,AMD,2022Q1,2022-03-26,분기별 매출액,5887000000,USD,공시,https://www.sec.gov/Archives/edgar/data/2488/000000248822000078/,,2
+AMD,AMD,2022Q1,2022-03-26,분기별 영업이익,951000000,USD,공시,https://www.sec.gov/Archives/edgar/data/2488/000000248822000078/,,2
+AMD,AMD,2022Q1,2022-03-26,분기별 당기순이익(지배),786000000,USD,공시,https://www.sec.gov/Archives/edgar/data/2488/000000248822000078/,,2
+AMD,AMD,2022Q1,2022-03-26,분기별 영업활동현금흐름,995000000,USD,공시,https://www.sec.gov/Archives/edgar/data/2488/000000248822000078/,,2
+AMD,AMD,2022Q1,2022-03-26,분기말 자산총계,66915000000,USD,공시,https://www.sec.gov/Archives/edgar/data/2488/000000248822000078/,,2
+AMD,AMD,2022Q1,2022-03-26,분기말 부채총계,11582000000,USD,계산(부채및자본-총자본),https://www.sec.gov/Archives/edgar/data/2488/000000248822000078/,부채및자본 66915000000 − 총자본 55333000000,2
+AMD,AMD,2022Q1,2022-03-26,분기말 총자본(자기자본),55333000000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/2488/000000248822000078/,"StockholdersEquity, MinorityInterest 태그 없음",2
+AMD,AMD,2022Q1,2022-03-26,분기말 지배지분 자본,55333000000,USD,공시,https://www.sec.gov/Archives/edgar/data/2488/000000248822000078/,,2
+AMD,AMD,2022Q1,2022-03-25,분기말 종가,119.67,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/AMD?interval=1d&events=splits (2022-03-25),,2
+AMD,AMD,2022Q1,2022-04-27,분기말 상장주식수,1620507904,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/2488/000000248822000078/,dei:EntityCommonStockSharesOutstanding 클래스 합,2
+AMD,AMD,2022Q1,2022-03-25,분기말 시가총액,193926180872,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/AMD?interval=1d&events=splits (2022-03-25) ; https://www.sec.gov/Archives/edgar/data/2488/000000248822000078/,종가 119.67 × 주식수 1620507904,2
+AMD,AMD,2022Q2,2022-06-25,분기별 매출액,6550000000,USD,공시,https://www.sec.gov/Archives/edgar/data/2488/000000248822000123/,,2
+AMD,AMD,2022Q2,2022-06-25,분기별 영업이익,526000000,USD,공시,https://www.sec.gov/Archives/edgar/data/2488/000000248822000123/,,2
+AMD,AMD,2022Q2,2022-06-25,분기별 당기순이익(지배),447000000,USD,공시,https://www.sec.gov/Archives/edgar/data/2488/000000248822000123/,,2
+AMD,AMD,2022Q2,2022-06-25,분기별 영업활동현금흐름,1038000000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/2488/000000248822000123/ ; https://www.sec.gov/Archives/edgar/data/2488/000000248822000078/,누적 2033000000 − 직전누적 995000000 (시작 2021-12-26),2
+AMD,AMD,2022Q2,2022-06-25,분기말 자산총계,67502000000,USD,공시,https://www.sec.gov/Archives/edgar/data/2488/000000248822000123/,,2
+AMD,AMD,2022Q2,2022-06-25,분기말 부채총계,12333000000,USD,계산(부채및자본-총자본),https://www.sec.gov/Archives/edgar/data/2488/000000248822000123/,부채및자본 67502000000 − 총자본 55169000000,2
+AMD,AMD,2022Q2,2022-06-25,분기말 총자본(자기자본),55169000000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/2488/000000248822000123/,"StockholdersEquity, MinorityInterest 태그 없음",2
+AMD,AMD,2022Q2,2022-06-25,분기말 지배지분 자본,55169000000,USD,공시,https://www.sec.gov/Archives/edgar/data/2488/000000248822000123/,,2
+AMD,AMD,2022Q2,2022-06-24,분기말 종가,87.08,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/AMD?interval=1d&events=splits (2022-06-24),,2
+AMD,AMD,2022Q2,2022-07-28,분기말 상장주식수,1614320900,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/2488/000000248822000123/,dei:EntityCommonStockSharesOutstanding 클래스 합,2
+AMD,AMD,2022Q2,2022-06-24,분기말 시가총액,140575063972,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/AMD?interval=1d&events=splits (2022-06-24) ; https://www.sec.gov/Archives/edgar/data/2488/000000248822000123/,종가 87.08 × 주식수 1614320900,2
+AMD,AMD,2022Q3,2022-09-24,분기별 매출액,5565000000,USD,공시,https://www.sec.gov/Archives/edgar/data/2488/000000248822000170/,,2
+AMD,AMD,2022Q3,2022-09-24,분기별 영업이익,-64000000,USD,공시,https://www.sec.gov/Archives/edgar/data/2488/000000248822000170/,,2
+AMD,AMD,2022Q3,2022-09-24,분기별 당기순이익(지배),66000000,USD,공시,https://www.sec.gov/Archives/edgar/data/2488/000000248822000170/,,2
+AMD,AMD,2022Q3,2022-09-24,분기별 영업활동현금흐름,965000000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/2488/000000248822000170/ ; https://www.sec.gov/Archives/edgar/data/2488/000000248822000123/,누적 2998000000 − 직전누적 2033000000 (시작 2021-12-26),2
+AMD,AMD,2022Q3,2022-09-24,분기말 자산총계,67811000000,USD,공시,https://www.sec.gov/Archives/edgar/data/2488/000000248822000170/,,2
+AMD,AMD,2022Q3,2022-09-24,분기말 부채총계,13269000000,USD,계산(부채및자본-총자본),https://www.sec.gov/Archives/edgar/data/2488/000000248822000170/,부채및자본 67811000000 − 총자본 54542000000,2
+AMD,AMD,2022Q3,2022-09-24,분기말 총자본(자기자본),54542000000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/2488/000000248822000170/,"StockholdersEquity, MinorityInterest 태그 없음",2
+AMD,AMD,2022Q3,2022-09-24,분기말 지배지분 자본,54542000000,USD,공시,https://www.sec.gov/Archives/edgar/data/2488/000000248822000170/,,2
+AMD,AMD,2022Q3,2022-09-23,분기말 종가,67.96,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/AMD?interval=1d&events=splits (2022-09-23),,2
+AMD,AMD,2022Q3,2022-10-28,분기말 상장주식수,1612356162,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/2488/000000248822000170/,dei:EntityCommonStockSharesOutstanding 클래스 합,2
+AMD,AMD,2022Q3,2022-09-23,분기말 시가총액,109575724770,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/AMD?interval=1d&events=splits (2022-09-23) ; https://www.sec.gov/Archives/edgar/data/2488/000000248822000170/,종가 67.96 × 주식수 1612356162,2
+AMD,AMD,2022Q4,2022-12-31,분기별 매출액,5599000000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/2488/000000248823000047/ ; https://www.sec.gov/Archives/edgar/data/2488/000000248822000170/,연간 23601000000 − 9개월누적 18002000000 (RevenueFromContractWithCustomerExcludingAssessedTax),2
+AMD,AMD,2022Q4,2022-12-31,분기별 영업이익,-149000000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/2488/000000248823000047/ ; https://www.sec.gov/Archives/edgar/data/2488/000000248822000170/,연간 1264000000 − 9개월누적 1413000000 (OperatingIncomeLoss),2
+AMD,AMD,2022Q4,2022-12-31,분기별 당기순이익(지배),21000000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/2488/000000248823000047/ ; https://www.sec.gov/Archives/edgar/data/2488/000000248822000170/,연간 1320000000 − 9개월누적 1299000000 (NetIncomeLoss),2
+AMD,AMD,2022Q4,2022-12-31,분기별 영업활동현금흐름,567000000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/2488/000000248823000047/ ; https://www.sec.gov/Archives/edgar/data/2488/000000248822000170/,누적 3565000000 − 직전누적 2998000000 (시작 2021-12-26),2
+AMD,AMD,2022Q4,2022-12-31,분기말 자산총계,67580000000,USD,공시,https://www.sec.gov/Archives/edgar/data/2488/000000248823000047/,,2
+AMD,AMD,2022Q4,2022-12-31,분기말 부채총계,12830000000,USD,계산(부채및자본-총자본),https://www.sec.gov/Archives/edgar/data/2488/000000248823000047/,부채및자본 67580000000 − 총자본 54750000000,2
+AMD,AMD,2022Q4,2022-12-31,분기말 총자본(자기자본),54750000000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/2488/000000248823000047/,"StockholdersEquity, MinorityInterest 태그 없음",2
+AMD,AMD,2022Q4,2022-12-31,분기말 지배지분 자본,54750000000,USD,공시,https://www.sec.gov/Archives/edgar/data/2488/000000248823000047/,,2
+AMD,AMD,2022Q4,2022-12-30,분기말 종가,64.77,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/AMD?interval=1d&events=splits (2022-12-30),,2
+AMD,AMD,2022Q4,2023-02-22,분기말 상장주식수,1611388217,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/2488/000000248823000047/,dei:EntityCommonStockSharesOutstanding 클래스 합,2
+AMD,AMD,2022Q4,2022-12-30,분기말 시가총액,104369614815,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/AMD?interval=1d&events=splits (2022-12-30) ; https://www.sec.gov/Archives/edgar/data/2488/000000248823000047/,종가 64.77 × 주식수 1611388217,2
+AMD,AMD,2023Q1,2023-04-01,분기별 매출액,5353000000,USD,공시,https://www.sec.gov/Archives/edgar/data/2488/000000248823000076/,,2
+AMD,AMD,2023Q1,2023-04-01,분기별 영업이익,-145000000,USD,공시,https://www.sec.gov/Archives/edgar/data/2488/000000248823000076/,,2
+AMD,AMD,2023Q1,2023-04-01,분기별 당기순이익(지배),-139000000,USD,공시,https://www.sec.gov/Archives/edgar/data/2488/000000248823000076/,,2
+AMD,AMD,2023Q1,2023-04-01,분기별 영업활동현금흐름,486000000,USD,공시,https://www.sec.gov/Archives/edgar/data/2488/000000248823000076/,,2
+AMD,AMD,2023Q1,2023-04-01,분기말 자산총계,67634000000,USD,공시,https://www.sec.gov/Archives/edgar/data/2488/000000248823000076/,,2
+AMD,AMD,2023Q1,2023-04-01,분기말 부채총계,12940000000,USD,계산(부채및자본-총자본),https://www.sec.gov/Archives/edgar/data/2488/000000248823000076/,부채및자본 67634000000 − 총자본 54694000000,2
+AMD,AMD,2023Q1,2023-04-01,분기말 총자본(자기자본),54694000000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/2488/000000248823000076/,"StockholdersEquity, MinorityInterest 태그 없음",2
+AMD,AMD,2023Q1,2023-04-01,분기말 지배지분 자본,54694000000,USD,공시,https://www.sec.gov/Archives/edgar/data/2488/000000248823000076/,,2
+AMD,AMD,2023Q1,2023-03-31,분기말 종가,98.01,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/AMD?interval=1d&events=splits (2023-03-31),,2
+AMD,AMD,2023Q1,2023-04-28,분기말 상장주식수,1610361870,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/2488/000000248823000076/,dei:EntityCommonStockSharesOutstanding 클래스 합,2
+AMD,AMD,2023Q1,2023-03-31,분기말 시가총액,157831566879,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/AMD?interval=1d&events=splits (2023-03-31) ; https://www.sec.gov/Archives/edgar/data/2488/000000248823000076/,종가 98.01 × 주식수 1610361870,2
+AMD,AMD,2023Q2,2023-07-01,분기별 매출액,5359000000,USD,공시,https://www.sec.gov/Archives/edgar/data/2488/000000248823000139/,,2
+AMD,AMD,2023Q2,2023-07-01,분기별 영업이익,-20000000,USD,공시,https://www.sec.gov/Archives/edgar/data/2488/000000248823000139/,,2
+AMD,AMD,2023Q2,2023-07-01,분기별 당기순이익(지배),27000000,USD,공시,https://www.sec.gov/Archives/edgar/data/2488/000000248823000139/,,2
+AMD,AMD,2023Q2,2023-07-01,분기별 영업활동현금흐름,379000000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/2488/000000248823000139/ ; https://www.sec.gov/Archives/edgar/data/2488/000000248823000076/,누적 865000000 − 직전누적 486000000 (시작 2023-01-01),2
+AMD,AMD,2023Q2,2023-07-01,분기말 자산총계,67967000000,USD,공시,https://www.sec.gov/Archives/edgar/data/2488/000000248823000139/,,2
+AMD,AMD,2023Q2,2023-07-01,분기말 부채총계,12831000000,USD,계산(부채및자본-총자본),https://www.sec.gov/Archives/edgar/data/2488/000000248823000139/,부채및자본 67967000000 − 총자본 55136000000,2
+AMD,AMD,2023Q2,2023-07-01,분기말 총자본(자기자본),55136000000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/2488/000000248823000139/,"StockholdersEquity, MinorityInterest 태그 없음",2
+AMD,AMD,2023Q2,2023-07-01,분기말 지배지분 자본,55136000000,USD,공시,https://www.sec.gov/Archives/edgar/data/2488/000000248823000139/,,2
+AMD,AMD,2023Q2,2023-06-30,분기말 종가,113.91,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/AMD?interval=1d&events=splits (2023-06-30),,2
+AMD,AMD,2023Q2,2023-07-28,분기말 상장주식수,1615671380,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/2488/000000248823000139/,dei:EntityCommonStockSharesOutstanding 클래스 합,2
+AMD,AMD,2023Q2,2023-06-30,분기말 시가총액,184041126896,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/AMD?interval=1d&events=splits (2023-06-30) ; https://www.sec.gov/Archives/edgar/data/2488/000000248823000139/,종가 113.91 × 주식수 1615671380,2
+AMD,AMD,2023Q3,2023-09-30,분기별 매출액,5800000000,USD,공시,https://www.sec.gov/Archives/edgar/data/2488/000000248823000195/,,2
+AMD,AMD,2023Q3,2023-09-30,분기별 영업이익,224000000,USD,공시,https://www.sec.gov/Archives/edgar/data/2488/000000248823000195/,,2
+AMD,AMD,2023Q3,2023-09-30,분기별 당기순이익(지배),299000000,USD,공시,https://www.sec.gov/Archives/edgar/data/2488/000000248823000195/,,2
+AMD,AMD,2023Q3,2023-09-30,분기별 영업활동현금흐름,421000000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/2488/000000248823000195/ ; https://www.sec.gov/Archives/edgar/data/2488/000000248823000139/,누적 1286000000 − 직전누적 865000000 (시작 2023-01-01),2
+AMD,AMD,2023Q3,2023-09-30,분기말 자산총계,67626000000,USD,공시,https://www.sec.gov/Archives/edgar/data/2488/000000248823000195/,,2
+AMD,AMD,2023Q3,2023-09-30,분기말 부채총계,12656000000,USD,계산(부채및자본-총자본),https://www.sec.gov/Archives/edgar/data/2488/000000248823000195/,부채및자본 67626000000 − 총자본 54970000000,2
+AMD,AMD,2023Q3,2023-09-30,분기말 총자본(자기자본),54970000000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/2488/000000248823000195/,"StockholdersEquity, MinorityInterest 태그 없음",2
+AMD,AMD,2023Q3,2023-09-30,분기말 지배지분 자본,54970000000,USD,공시,https://www.sec.gov/Archives/edgar/data/2488/000000248823000195/,,2
+AMD,AMD,2023Q3,2023-09-29,분기말 종가,102.82,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/AMD?interval=1d&events=splits (2023-09-29),,2
+AMD,AMD,2023Q3,2023-10-27,분기말 상장주식수,1615498891,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/2488/000000248823000195/,dei:EntityCommonStockSharesOutstanding 클래스 합,2
+AMD,AMD,2023Q3,2023-09-29,분기말 시가총액,166105595973,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/AMD?interval=1d&events=splits (2023-09-29) ; https://www.sec.gov/Archives/edgar/data/2488/000000248823000195/,종가 102.82 × 주식수 1615498891,2
+AMD,AMD,2023Q4,2023-12-30,분기별 매출액,6168000000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/2488/000000248824000012/ ; https://www.sec.gov/Archives/edgar/data/2488/000000248823000195/,연간 22680000000 − 9개월누적 16512000000 (RevenueFromContractWithCustomerExcludingAssessedTax),2
+AMD,AMD,2023Q4,2023-12-30,분기별 영업이익,342000000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/2488/000000248824000012/ ; https://www.sec.gov/Archives/edgar/data/2488/000000248823000195/,연간 401000000 − 9개월누적 59000000 (OperatingIncomeLoss),2
+AMD,AMD,2023Q4,2023-12-30,분기별 당기순이익(지배),667000000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/2488/000000248824000012/ ; https://www.sec.gov/Archives/edgar/data/2488/000000248823000195/,연간 854000000 − 9개월누적 187000000 (NetIncomeLoss),2
+AMD,AMD,2023Q4,2023-12-30,분기별 영업활동현금흐름,381000000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/2488/000000248824000012/ ; https://www.sec.gov/Archives/edgar/data/2488/000000248823000195/,누적 1667000000 − 직전누적 1286000000 (시작 2023-01-01),2
+AMD,AMD,2023Q4,2023-12-30,분기말 자산총계,67885000000,USD,공시,https://www.sec.gov/Archives/edgar/data/2488/000000248824000012/,,2
+AMD,AMD,2023Q4,2023-12-30,분기말 부채총계,11993000000,USD,계산(부채및자본-총자본),https://www.sec.gov/Archives/edgar/data/2488/000000248824000012/,부채및자본 67885000000 − 총자본 55892000000,2
+AMD,AMD,2023Q4,2023-12-30,분기말 총자본(자기자본),55892000000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/2488/000000248824000012/,"StockholdersEquity, MinorityInterest 태그 없음",2
+AMD,AMD,2023Q4,2023-12-30,분기말 지배지분 자본,55892000000,USD,공시,https://www.sec.gov/Archives/edgar/data/2488/000000248824000012/,,2
+AMD,AMD,2023Q4,2023-12-29,분기말 종가,147.41,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/AMD?interval=1d&events=splits (2023-12-29),,2
+AMD,AMD,2023Q4,2024-01-25,분기말 상장주식수,1615786841,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/2488/000000248824000012/,dei:EntityCommonStockSharesOutstanding 클래스 합,2
+AMD,AMD,2023Q4,2023-12-29,분기말 시가총액,238183138232,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/AMD?interval=1d&events=splits (2023-12-29) ; https://www.sec.gov/Archives/edgar/data/2488/000000248824000012/,종가 147.41 × 주식수 1615786841,2
+AMD,AMD,2024Q1,2024-03-30,분기별 매출액,5473000000,USD,공시,https://www.sec.gov/Archives/edgar/data/2488/000000248824000056/,,2
+AMD,AMD,2024Q1,2024-03-30,분기별 영업이익,36000000,USD,공시,https://www.sec.gov/Archives/edgar/data/2488/000000248824000056/,,2
+AMD,AMD,2024Q1,2024-03-30,분기별 당기순이익(지배),123000000,USD,공시,https://www.sec.gov/Archives/edgar/data/2488/000000248824000056/,,2
+AMD,AMD,2024Q1,2024-03-30,분기별 영업활동현금흐름,521000000,USD,공시,https://www.sec.gov/Archives/edgar/data/2488/000000248824000056/,,2
+AMD,AMD,2024Q1,2024-03-30,분기말 자산총계,67895000000,USD,공시,https://www.sec.gov/Archives/edgar/data/2488/000000248824000056/,,2
+AMD,AMD,2024Q1,2024-03-30,분기말 부채총계,11697000000,USD,계산(부채및자본-총자본),https://www.sec.gov/Archives/edgar/data/2488/000000248824000056/,부채및자본 67895000000 − 총자본 56198000000,2
+AMD,AMD,2024Q1,2024-03-30,분기말 총자본(자기자본),56198000000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/2488/000000248824000056/,"StockholdersEquity, MinorityInterest 태그 없음",2
+AMD,AMD,2024Q1,2024-03-30,분기말 지배지분 자본,56198000000,USD,공시,https://www.sec.gov/Archives/edgar/data/2488/000000248824000056/,,2
+AMD,AMD,2024Q1,2024-03-28,분기말 종가,180.49,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/AMD?interval=1d&events=splits (2024-03-28),,2
+AMD,AMD,2024Q1,2024-04-25,분기말 상장주식수,1616313871,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/2488/000000248824000056/,dei:EntityCommonStockSharesOutstanding 클래스 합,2
+AMD,AMD,2024Q1,2024-03-28,분기말 시가총액,291728490577,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/AMD?interval=1d&events=splits (2024-03-28) ; https://www.sec.gov/Archives/edgar/data/2488/000000248824000056/,종가 180.49 × 주식수 1616313871,2
+AMD,AMD,2024Q2,2024-06-29,분기별 매출액,5835000000,USD,공시,https://www.sec.gov/Archives/edgar/data/2488/000000248824000123/,,2
+AMD,AMD,2024Q2,2024-06-29,분기별 영업이익,269000000,USD,공시,https://www.sec.gov/Archives/edgar/data/2488/000000248824000123/,,2
+AMD,AMD,2024Q2,2024-06-29,분기별 당기순이익(지배),265000000,USD,공시,https://www.sec.gov/Archives/edgar/data/2488/000000248824000123/,,2
+AMD,AMD,2024Q2,2024-06-29,분기별 영업활동현금흐름,593000000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/2488/000000248824000123/ ; https://www.sec.gov/Archives/edgar/data/2488/000000248824000056/,누적 1114000000 − 직전누적 521000000 (시작 2023-12-31),2
+AMD,AMD,2024Q2,2024-06-29,분기말 자산총계,67886000000,USD,공시,https://www.sec.gov/Archives/edgar/data/2488/000000248824000123/,,2
+AMD,AMD,2024Q2,2024-06-29,분기말 부채총계,11348000000,USD,계산(부채및자본-총자본),https://www.sec.gov/Archives/edgar/data/2488/000000248824000123/,부채및자본 67886000000 − 총자본 56538000000,2
+AMD,AMD,2024Q2,2024-06-29,분기말 총자본(자기자본),56538000000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/2488/000000248824000123/,"StockholdersEquity, MinorityInterest 태그 없음",2
+AMD,AMD,2024Q2,2024-06-29,분기말 지배지분 자본,56538000000,USD,공시,https://www.sec.gov/Archives/edgar/data/2488/000000248824000123/,,2
+AMD,AMD,2024Q2,2024-06-28,분기말 종가,162.21,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/AMD?interval=1d&events=splits (2024-06-28),,2
+AMD,AMD,2024Q2,2024-07-24,분기말 상장주식수,1618481845,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/2488/000000248824000123/,dei:EntityCommonStockSharesOutstanding 클래스 합,2
+AMD,AMD,2024Q2,2024-06-28,분기말 시가총액,262533940077,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/AMD?interval=1d&events=splits (2024-06-28) ; https://www.sec.gov/Archives/edgar/data/2488/000000248824000123/,종가 162.21 × 주식수 1618481845,2
+AMD,AMD,2024Q3,2024-09-28,분기별 매출액,6819000000,USD,공시,https://www.sec.gov/Archives/edgar/data/2488/000000248824000163/,,2
+AMD,AMD,2024Q3,2024-09-28,분기별 영업이익,724000000,USD,공시,https://www.sec.gov/Archives/edgar/data/2488/000000248824000163/,,2
+AMD,AMD,2024Q3,2024-09-28,분기별 당기순이익(지배),771000000,USD,공시,https://www.sec.gov/Archives/edgar/data/2488/000000248824000163/,,2
+AMD,AMD,2024Q3,2024-09-28,분기별 영업활동현금흐름,628000000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/2488/000000248824000163/ ; https://www.sec.gov/Archives/edgar/data/2488/000000248824000123/,누적 1742000000 − 직전누적 1114000000 (시작 2023-12-31),2
+AMD,AMD,2024Q3,2024-09-28,분기말 자산총계,69636000000,USD,공시,https://www.sec.gov/Archives/edgar/data/2488/000000248824000163/,,2
+AMD,AMD,2024Q3,2024-09-28,분기말 부채총계,12651000000,USD,계산(부채및자본-총자본),https://www.sec.gov/Archives/edgar/data/2488/000000248824000163/,부채및자본 69636000000 − 총자본 56985000000,2
+AMD,AMD,2024Q3,2024-09-28,분기말 총자본(자기자본),56985000000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/2488/000000248824000163/,"StockholdersEquity, MinorityInterest 태그 없음",2
+AMD,AMD,2024Q3,2024-09-28,분기말 지배지분 자본,56985000000,USD,공시,https://www.sec.gov/Archives/edgar/data/2488/000000248824000163/,,2
+AMD,AMD,2024Q3,2024-09-27,분기말 종가,164.35,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/AMD?interval=1d&events=splits (2024-09-27),,2
+AMD,AMD,2024Q3,2024-10-23,분기말 상장주식수,1622807346,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/2488/000000248824000163/,dei:EntityCommonStockSharesOutstanding 클래스 합,2
+AMD,AMD,2024Q3,2024-09-27,분기말 시가총액,266708387315,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/AMD?interval=1d&events=splits (2024-09-27) ; https://www.sec.gov/Archives/edgar/data/2488/000000248824000163/,종가 164.35 × 주식수 1622807346,2
+AMD,AMD,2024Q4,2024-12-28,분기별 매출액,7658000000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/2488/000000248825000012/ ; https://www.sec.gov/Archives/edgar/data/2488/000000248824000163/,연간 25785000000 − 9개월누적 18127000000 (RevenueFromContractWithCustomerExcludingAssessedTax),2
+AMD,AMD,2024Q4,2024-12-28,분기별 영업이익,871000000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/2488/000000248825000012/ ; https://www.sec.gov/Archives/edgar/data/2488/000000248824000163/,연간 1900000000 − 9개월누적 1029000000 (OperatingIncomeLoss),2
+AMD,AMD,2024Q4,2024-12-28,분기별 당기순이익(지배),482000000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/2488/000000248825000012/ ; https://www.sec.gov/Archives/edgar/data/2488/000000248824000163/,연간 1641000000 − 9개월누적 1159000000 (NetIncomeLoss),2
+AMD,AMD,2024Q4,2024-12-28,분기별 영업활동현금흐름,1299000000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/2488/000000248825000012/ ; https://www.sec.gov/Archives/edgar/data/2488/000000248824000163/,누적 3041000000 − 직전누적 1742000000 (시작 2023-12-31),2
+AMD,AMD,2024Q4,2024-12-28,분기말 자산총계,69226000000,USD,공시,https://www.sec.gov/Archives/edgar/data/2488/000000248825000012/,,2
+AMD,AMD,2024Q4,2024-12-28,분기말 부채총계,11658000000,USD,계산(부채및자본-총자본),https://www.sec.gov/Archives/edgar/data/2488/000000248825000012/,부채및자본 69226000000 − 총자본 57568000000,2
+AMD,AMD,2024Q4,2024-12-28,분기말 총자본(자기자본),57568000000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/2488/000000248825000012/,"StockholdersEquity, MinorityInterest 태그 없음",2
+AMD,AMD,2024Q4,2024-12-28,분기말 지배지분 자본,57568000000,USD,공시,https://www.sec.gov/Archives/edgar/data/2488/000000248825000012/,,2
+AMD,AMD,2024Q4,2024-12-27,분기말 종가,125.19,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/AMD?interval=1d&events=splits (2024-12-27),,2
+AMD,AMD,2024Q4,2025-01-30,분기말 상장주식수,1620477962,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/2488/000000248825000012/,dei:EntityCommonStockSharesOutstanding 클래스 합,2
+AMD,AMD,2024Q4,2024-12-27,분기말 시가총액,202867636063,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/AMD?interval=1d&events=splits (2024-12-27) ; https://www.sec.gov/Archives/edgar/data/2488/000000248825000012/,종가 125.19 × 주식수 1620477962,2
+AMD,AMD,2025Q1,2025-03-29,분기별 매출액,7438000000,USD,공시,https://www.sec.gov/Archives/edgar/data/2488/000000248825000047/,,2
+AMD,AMD,2025Q1,2025-03-29,분기별 영업이익,806000000,USD,공시,https://www.sec.gov/Archives/edgar/data/2488/000000248825000047/,,2
+AMD,AMD,2025Q1,2025-03-29,분기별 당기순이익(지배),709000000,USD,공시,https://www.sec.gov/Archives/edgar/data/2488/000000248825000047/,,2
+AMD,AMD,2025Q1,2025-03-29,분기별 영업활동현금흐름,939000000,USD,공시,https://www.sec.gov/Archives/edgar/data/2488/000000248825000047/,,2
+AMD,AMD,2025Q1,2025-03-29,분기말 자산총계,71550000000,USD,공시,https://www.sec.gov/Archives/edgar/data/2488/000000248825000047/,,2
+AMD,AMD,2025Q1,2025-03-29,분기말 부채총계,13669000000,USD,계산(부채및자본-총자본),https://www.sec.gov/Archives/edgar/data/2488/000000248825000047/,부채및자본 71550000000 − 총자본 57881000000,2
+AMD,AMD,2025Q1,2025-03-29,분기말 총자본(자기자본),57881000000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/2488/000000248825000047/,"StockholdersEquity, MinorityInterest 태그 없음",2
+AMD,AMD,2025Q1,2025-03-29,분기말 지배지분 자본,57881000000,USD,공시,https://www.sec.gov/Archives/edgar/data/2488/000000248825000047/,,2
+AMD,AMD,2025Q1,2025-03-28,분기말 종가,103.22,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/AMD?interval=1d&events=splits (2025-03-28),,2
+AMD,AMD,2025Q1,2025-05-01,분기말 상장주식수,1621404195,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/2488/000000248825000047/,dei:EntityCommonStockSharesOutstanding 클래스 합,2
+AMD,AMD,2025Q1,2025-03-28,분기말 시가총액,167361341008,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/AMD?interval=1d&events=splits (2025-03-28) ; https://www.sec.gov/Archives/edgar/data/2488/000000248825000047/,종가 103.22 × 주식수 1621404195,2
+AMD,AMD,2025Q2,2025-06-28,분기별 매출액,7685000000,USD,공시,https://www.sec.gov/Archives/edgar/data/2488/000000248825000108/,,2
+AMD,AMD,2025Q2,2025-06-28,분기별 영업이익,-134000000,USD,공시,https://www.sec.gov/Archives/edgar/data/2488/000000248825000108/,,2
+AMD,AMD,2025Q2,2025-06-28,분기별 당기순이익(지배),872000000,USD,공시,https://www.sec.gov/Archives/edgar/data/2488/000000248825000108/,,2
+AMD,AMD,2025Q2,2025-06-28,분기별 영업활동현금흐름,2011000000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/2488/000000248825000108/ ; https://www.sec.gov/Archives/edgar/data/2488/000000248825000047/,누적 2950000000 − 직전누적 939000000 (시작 2024-12-29),2
+AMD,AMD,2025Q2,2025-06-28,분기말 자산총계,74820000000,USD,공시,https://www.sec.gov/Archives/edgar/data/2488/000000248825000108/,,2
+AMD,AMD,2025Q2,2025-06-28,분기말 부채총계,15155000000,USD,계산(부채및자본-총자본),https://www.sec.gov/Archives/edgar/data/2488/000000248825000108/,부채및자본 74820000000 − 총자본 59665000000,2
+AMD,AMD,2025Q2,2025-06-28,분기말 총자본(자기자본),59665000000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/2488/000000248825000108/,"StockholdersEquity, MinorityInterest 태그 없음",2
+AMD,AMD,2025Q2,2025-06-28,분기말 지배지분 자본,59665000000,USD,공시,https://www.sec.gov/Archives/edgar/data/2488/000000248825000108/,,2
+AMD,AMD,2025Q2,2025-06-27,분기말 종가,143.81,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/AMD?interval=1d&events=splits (2025-06-27),,2
+AMD,AMD,2025Q2,2025-07-30,분기말 상장주식수,1622843689,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/2488/000000248825000108/,dei:EntityCommonStockSharesOutstanding 클래스 합,2
+AMD,AMD,2025Q2,2025-06-27,분기말 시가총액,233381150915,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/AMD?interval=1d&events=splits (2025-06-27) ; https://www.sec.gov/Archives/edgar/data/2488/000000248825000108/,종가 143.81 × 주식수 1622843689,2
+AMD,AMD,2025Q3,2025-09-27,분기별 매출액,9246000000,USD,공시,https://www.sec.gov/Archives/edgar/data/2488/000000248825000166/,,2
+AMD,AMD,2025Q3,2025-09-27,분기별 영업이익,1270000000,USD,공시,https://www.sec.gov/Archives/edgar/data/2488/000000248825000166/,,2
+AMD,AMD,2025Q3,2025-09-27,분기별 당기순이익(지배),1243000000,USD,공시,https://www.sec.gov/Archives/edgar/data/2488/000000248825000166/,,2
+AMD,AMD,2025Q3,2025-09-27,분기별 영업활동현금흐름,2159000000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/2488/000000248825000166/ ; https://www.sec.gov/Archives/edgar/data/2488/000000248825000108/,누적 5109000000 − 직전누적 2950000000 (시작 2024-12-29),2
+AMD,AMD,2025Q3,2025-09-27,분기말 자산총계,76891000000,USD,공시,https://www.sec.gov/Archives/edgar/data/2488/000000248825000166/,,2
+AMD,AMD,2025Q3,2025-09-27,분기말 부채총계,16101000000,USD,계산(부채및자본-총자본),https://www.sec.gov/Archives/edgar/data/2488/000000248825000166/,부채및자본 76891000000 − 총자본 60790000000,2
+AMD,AMD,2025Q3,2025-09-27,분기말 총자본(자기자본),60790000000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/2488/000000248825000166/,"StockholdersEquity, MinorityInterest 태그 없음",2
+AMD,AMD,2025Q3,2025-09-27,분기말 지배지분 자본,60790000000,USD,공시,https://www.sec.gov/Archives/edgar/data/2488/000000248825000166/,,2
+AMD,AMD,2025Q3,2025-09-26,분기말 종가,159.46,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/AMD?interval=1d&events=splits (2025-09-26),,2
+AMD,AMD,2025Q3,2025-10-30,분기말 상장주식수,1628041540,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/2488/000000248825000166/,dei:EntityCommonStockSharesOutstanding 클래스 합,2
+AMD,AMD,2025Q3,2025-09-26,분기말 시가총액,259607503968,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/AMD?interval=1d&events=splits (2025-09-26) ; https://www.sec.gov/Archives/edgar/data/2488/000000248825000166/,종가 159.46 × 주식수 1628041540,2
+AMD,AMD,2025Q4,2025-12-27,분기별 매출액,10270000000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/2488/000000248826000018/ ; https://www.sec.gov/Archives/edgar/data/2488/000000248825000166/,연간 34639000000 − 9개월누적 24369000000 (RevenueFromContractWithCustomerExcludingAssessedTax),2
+AMD,AMD,2025Q4,2025-12-27,분기별 영업이익,1752000000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/2488/000000248826000018/ ; https://www.sec.gov/Archives/edgar/data/2488/000000248825000166/,연간 3694000000 − 9개월누적 1942000000 (OperatingIncomeLoss),2
+AMD,AMD,2025Q4,2025-12-27,분기별 당기순이익(지배),1511000000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/2488/000000248826000018/ ; https://www.sec.gov/Archives/edgar/data/2488/000000248825000166/,연간 4335000000 − 9개월누적 2824000000 (NetIncomeLoss),2
+AMD,AMD,2025Q4,2025-12-27,분기별 영업활동현금흐름,2600000000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/2488/000000248826000018/ ; https://www.sec.gov/Archives/edgar/data/2488/000000248825000166/,누적 7709000000 − 직전누적 5109000000 (시작 2024-12-29),2
+AMD,AMD,2025Q4,2025-12-27,분기말 자산총계,76926000000,USD,공시,https://www.sec.gov/Archives/edgar/data/2488/000000248826000018/,,2
+AMD,AMD,2025Q4,2025-12-27,분기말 부채총계,13927000000,USD,계산(부채및자본-총자본),https://www.sec.gov/Archives/edgar/data/2488/000000248826000018/,부채및자본 76926000000 − 총자본 62999000000,2
+AMD,AMD,2025Q4,2025-12-27,분기말 총자본(자기자본),62999000000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/2488/000000248826000018/,"StockholdersEquity, MinorityInterest 태그 없음",2
+AMD,AMD,2025Q4,2025-12-27,분기말 지배지분 자본,62999000000,USD,공시,https://www.sec.gov/Archives/edgar/data/2488/000000248826000018/,,2
+AMD,AMD,2025Q4,2025-12-26,분기말 종가,214.99,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/AMD?interval=1d&events=splits (2025-12-26),,2
+AMD,AMD,2025Q4,2026-01-30,분기말 상장주식수,1630410843,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/2488/000000248826000021/,dei:EntityCommonStockSharesOutstanding 클래스 합 ; 값은 XBRL 원문(companyfacts 미반영 보고서),2
+AMD,AMD,2025Q4,2025-12-26,분기말 시가총액,350522027137,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/AMD?interval=1d&events=splits (2025-12-26) ; https://www.sec.gov/Archives/edgar/data/2488/000000248826000021/,종가 214.99 × 주식수 1630410843 ; 값은 XBRL 원문(companyfacts 미반영 보고서),2
+AMD,AMD,2026Q1,2026-03-28,분기별 매출액,10253000000,USD,공시,https://www.sec.gov/Archives/edgar/data/2488/000000248826000076/,,2
+AMD,AMD,2026Q1,2026-03-28,분기별 영업이익,1476000000,USD,공시,https://www.sec.gov/Archives/edgar/data/2488/000000248826000076/,,2
+AMD,AMD,2026Q1,2026-03-28,분기별 당기순이익(지배),1383000000,USD,공시,https://www.sec.gov/Archives/edgar/data/2488/000000248826000076/,,2
+AMD,AMD,2026Q1,2026-03-28,분기별 영업활동현금흐름,2955000000,USD,공시,https://www.sec.gov/Archives/edgar/data/2488/000000248826000076/,,2
+AMD,AMD,2026Q1,2026-03-28,분기말 자산총계,79642000000,USD,공시,https://www.sec.gov/Archives/edgar/data/2488/000000248826000076/,,2
+AMD,AMD,2026Q1,2026-03-28,분기말 부채총계,15180000000,USD,계산(부채및자본-총자본),https://www.sec.gov/Archives/edgar/data/2488/000000248826000076/,부채및자본 79642000000 − 총자본 64462000000,2
+AMD,AMD,2026Q1,2026-03-28,분기말 총자본(자기자본),64462000000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/2488/000000248826000076/,"StockholdersEquity, MinorityInterest 태그 없음",2
+AMD,AMD,2026Q1,2026-03-28,분기말 지배지분 자본,64462000000,USD,공시,https://www.sec.gov/Archives/edgar/data/2488/000000248826000076/,,2
+AMD,AMD,2026Q1,2026-03-27,분기말 종가,201.99,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/AMD?interval=1d&events=splits (2026-03-27),,2
+AMD,AMD,2026Q1,2026-04-29,분기말 상장주식수,1630600639,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/2488/000000248826000076/,dei:EntityCommonStockSharesOutstanding 클래스 합,2
+AMD,AMD,2026Q1,2026-03-27,분기말 시가총액,329365023072,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/AMD?interval=1d&events=splits (2026-03-27) ; https://www.sec.gov/Archives/edgar/data/2488/000000248826000076/,종가 201.99 × 주식수 1630600639,2
+AMD,AMD,2026Q2,2026-06-27,분기별 매출액,11536000000,USD,공시,https://www.sec.gov/Archives/edgar/data/2488/000000248826000123/,,2
+AMD,AMD,2026Q2,2026-06-27,분기별 영업이익,1990000000,USD,공시,https://www.sec.gov/Archives/edgar/data/2488/000000248826000123/,,2
+AMD,AMD,2026Q2,2026-06-27,분기별 당기순이익(지배),2297000000,USD,공시,https://www.sec.gov/Archives/edgar/data/2488/000000248826000123/,,2
+AMD,AMD,2026Q2,2026-06-27,분기별 영업활동현금흐름,2366000000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/2488/000000248826000123/ ; https://www.sec.gov/Archives/edgar/data/2488/000000248826000076/,누적 5321000000 − 직전누적 2955000000 (시작 2025-12-28),2
+AMD,AMD,2026Q2,2026-06-27,분기말 자산총계,84464000000,USD,공시,https://www.sec.gov/Archives/edgar/data/2488/000000248826000123/,,2
+AMD,AMD,2026Q2,2026-06-27,분기말 부채총계,17240000000,USD,계산(부채및자본-총자본),https://www.sec.gov/Archives/edgar/data/2488/000000248826000123/,부채및자본 84464000000 − 총자본 67224000000,2
+AMD,AMD,2026Q2,2026-06-27,분기말 총자본(자기자본),67224000000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/2488/000000248826000123/,"StockholdersEquity, MinorityInterest 태그 없음",2
+AMD,AMD,2026Q2,2026-06-27,분기말 지배지분 자본,67224000000,USD,공시,https://www.sec.gov/Archives/edgar/data/2488/000000248826000123/,,2
+AMD,AMD,2026Q2,2026-06-26,분기말 종가,521.58,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/AMD?interval=1d&events=splits (2026-06-26),,2
+AMD,AMD,2026Q2,2026-07-29,분기말 상장주식수,1632475042,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/2488/000000248826000123/,dei:EntityCommonStockSharesOutstanding 클래스 합,2
+AMD,AMD,2026Q2,2026-06-26,분기말 시가총액,851466332406,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/AMD?interval=1d&events=splits (2026-06-26) ; https://www.sec.gov/Archives/edgar/data/2488/000000248826000123/,종가 521.58 × 주식수 1632475042,2

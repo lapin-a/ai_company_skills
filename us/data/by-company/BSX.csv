@@ -1,0 +1,727 @@
+﻿기업,종목코드,기간,기준일,항목,값,통화,값구분,출처,검산,라운드
+Boston Scientific,BSX,2010Q1,2010-03-31,분기별 매출액,1960000000,USD,공시,https://www.sec.gov/Archives/edgar/data/885725/000095012310045592/,,9
+Boston Scientific,BSX,2010Q1,2010-03-31,분기별 영업이익,-1486000000,USD,공시,https://www.sec.gov/Archives/edgar/data/885725/000095012310045592/,,9
+Boston Scientific,BSX,2010Q1,2010-03-31,분기별 당기순이익(지배),-1589000000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/885725/000095012310045592/,,9
+Boston Scientific,BSX,2010Q1,2010-03-31,분기별 영업활동현금흐름,-284000000,USD,공시,https://www.sec.gov/Archives/edgar/data/885725/000095012310045592/,,9
+Boston Scientific,BSX,2010Q1,2010-03-31,분기말 자산총계,22853000000,USD,공시,https://www.sec.gov/Archives/edgar/data/885725/000095012310045592/,,9
+Boston Scientific,BSX,2010Q1,2010-03-31,분기말 부채총계,12072000000,USD,계산(부채및자본-총자본),https://www.sec.gov/Archives/edgar/data/885725/000095012310045592/,부채및자본 22853000000 − 총자본 10781000000,9
+Boston Scientific,BSX,2010Q1,2010-03-31,분기말 총자본(자기자본),10781000000,USD,공시,https://www.sec.gov/Archives/edgar/data/885725/000095012310045592/,,9
+Boston Scientific,BSX,2010Q1,2010-03-31,분기말 지배지분 자본,10781000000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/885725/000095012310045592/,"StockholdersEquityIncludingPortionAttributableToNoncontrollingInterest, MinorityInterest 태그 없음",9
+Boston Scientific,BSX,2010Q1,2010-03-31,분기말 종가,7.22,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/BSX?interval=1d&events=splits (2010-03-31),,9
+Boston Scientific,BSX,2010Q1,2010-03-31,분기말 상장주식수,1516323967,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/885725/000095012310045592/,dei:EntityCommonStockSharesOutstanding 클래스 합,9
+Boston Scientific,BSX,2010Q1,2010-03-31,분기말 시가총액,10947859042,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/BSX?interval=1d&events=splits (2010-03-31) ; https://www.sec.gov/Archives/edgar/data/885725/000095012310045592/,종가 7.22 × 주식수 1516323967,9
+Boston Scientific,BSX,2010Q2,2010-06-30,분기별 매출액,1928000000,USD,공시,https://www.sec.gov/Archives/edgar/data/885725/000095012310073251/,,9
+Boston Scientific,BSX,2010Q2,2010-06-30,분기별 영업이익,231000000,USD,공시,https://www.sec.gov/Archives/edgar/data/885725/000095012310073251/,,9
+Boston Scientific,BSX,2010Q2,2010-06-30,분기별 당기순이익(지배),98000000,USD,공시,https://www.sec.gov/Archives/edgar/data/885725/000095012310073251/,,9
+Boston Scientific,BSX,2010Q2,2010-06-30,분기별 영업활동현금흐름,286000000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/885725/000095012310073251/ ; https://www.sec.gov/Archives/edgar/data/885725/000095012310045592/,누적 2000000 − 직전누적 -284000000 (시작 2010-01-01),9
+Boston Scientific,BSX,2010Q2,2010-06-30,분기말 자산총계,23019000000,USD,공시,https://www.sec.gov/Archives/edgar/data/885725/000095012310073251/,,9
+Boston Scientific,BSX,2010Q2,2010-06-30,분기말 부채총계,12126000000,USD,계산(부채및자본-총자본),https://www.sec.gov/Archives/edgar/data/885725/000095012310073251/,부채및자본 23019000000 − 총자본 10893000000,9
+Boston Scientific,BSX,2010Q2,2010-06-30,분기말 총자본(자기자본),10893000000,USD,공시,https://www.sec.gov/Archives/edgar/data/885725/000095012310073251/,,9
+Boston Scientific,BSX,2010Q2,2010-06-30,분기말 지배지분 자본,10893000000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/885725/000095012310073251/,"StockholdersEquityIncludingPortionAttributableToNoncontrollingInterest, MinorityInterest 태그 없음",9
+Boston Scientific,BSX,2010Q2,2010-06-30,분기말 종가,5.8,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/BSX?interval=1d&events=splits (2010-06-30),,9
+Boston Scientific,BSX,2010Q2,2010-06-30,분기말 상장주식수,1516901783,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/885725/000095012310073251/,dei:EntityCommonStockSharesOutstanding 클래스 합,9
+Boston Scientific,BSX,2010Q2,2010-06-30,분기말 시가총액,8798030341,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/BSX?interval=1d&events=splits (2010-06-30) ; https://www.sec.gov/Archives/edgar/data/885725/000095012310073251/,종가 5.8 × 주식수 1516901783,9
+Boston Scientific,BSX,2010Q3,2010-09-30,분기별 매출액,1916000000,USD,공시,https://www.sec.gov/Archives/edgar/data/885725/000095012310101570/,,9
+Boston Scientific,BSX,2010Q3,2010-09-30,분기별 영업이익,251000000,USD,공시,https://www.sec.gov/Archives/edgar/data/885725/000095012310101570/,,9
+Boston Scientific,BSX,2010Q3,2010-09-30,분기별 당기순이익(지배),190000000,USD,공시,https://www.sec.gov/Archives/edgar/data/885725/000095012310101570/,,9
+Boston Scientific,BSX,2010Q3,2010-09-30,분기별 영업활동현금흐름,-126000000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/885725/000095012310101570/ ; https://www.sec.gov/Archives/edgar/data/885725/000095012310073251/,누적 -124000000 − 직전누적 2000000 (시작 2010-01-01),9
+Boston Scientific,BSX,2010Q3,2010-09-30,분기말 자산총계,22486000000,USD,공시,https://www.sec.gov/Archives/edgar/data/885725/000095012310101570/,,9
+Boston Scientific,BSX,2010Q3,2010-09-30,분기말 부채총계,11448000000,USD,계산(부채및자본-총자본),https://www.sec.gov/Archives/edgar/data/885725/000095012310101570/,부채및자본 22486000000 − 총자본 11038000000,9
+Boston Scientific,BSX,2010Q3,2010-09-30,분기말 총자본(자기자본),11038000000,USD,공시,https://www.sec.gov/Archives/edgar/data/885725/000095012310101570/,,9
+Boston Scientific,BSX,2010Q3,2010-09-30,분기말 지배지분 자본,11038000000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/885725/000095012310101570/,"StockholdersEquityIncludingPortionAttributableToNoncontrollingInterest, MinorityInterest 태그 없음",9
+Boston Scientific,BSX,2010Q3,2010-09-30,분기말 종가,6.13,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/BSX?interval=1d&events=splits (2010-09-30),,9
+Boston Scientific,BSX,2010Q3,2010-10-31,분기말 상장주식수,1520076600,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/885725/000095012310101570/,dei:EntityCommonStockSharesOutstanding 클래스 합,9
+Boston Scientific,BSX,2010Q3,2010-09-30,분기말 시가총액,9318069558,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/BSX?interval=1d&events=splits (2010-09-30) ; https://www.sec.gov/Archives/edgar/data/885725/000095012310101570/,종가 6.13 × 주식수 1520076600,9
+Boston Scientific,BSX,2010Q4,2010-12-31,분기별 매출액,2002000000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/885725/000095012311015112/ ; https://www.sec.gov/Archives/edgar/data/885725/000095012310101570/,연간 7806000000 − 9개월누적 5804000000 (SalesRevenueNet),9
+Boston Scientific,BSX,2010Q4,2010-12-31,분기별 영업이익,348000000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/885725/000095012311015112/ ; https://www.sec.gov/Archives/edgar/data/885725/000095012310101570/,연간 -656000000 − 9개월누적 -1004000000 (OperatingIncomeLoss),9
+Boston Scientific,BSX,2010Q4,2010-12-31,분기별 당기순이익(지배),236000000,USD,"계산(연간-3분기누적, 비지배 없음)",https://www.sec.gov/Archives/edgar/data/885725/000095012311015112/ ; https://www.sec.gov/Archives/edgar/data/885725/000095012310101570/,연간 -1065000000 − 9개월누적 -1301000000 (ProfitLoss),9
+Boston Scientific,BSX,2010Q4,2010-12-31,분기별 영업활동현금흐름,449000000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/885725/000095012311015112/ ; https://www.sec.gov/Archives/edgar/data/885725/000095012310101570/,누적 325000000 − 직전누적 -124000000 (시작 2010-01-01),9
+Boston Scientific,BSX,2010Q4,2010-12-31,분기말 자산총계,22128000000,USD,공시,https://www.sec.gov/Archives/edgar/data/885725/000095012311015112/,,9
+Boston Scientific,BSX,2010Q4,2010-12-31,분기말 부채총계,10832000000,USD,계산(부채및자본-총자본),https://www.sec.gov/Archives/edgar/data/885725/000095012311015112/,부채및자본 22128000000 − 총자본 11296000000,9
+Boston Scientific,BSX,2010Q4,2010-12-31,분기말 총자본(자기자본),11296000000,USD,공시,https://www.sec.gov/Archives/edgar/data/885725/000095012311015112/,,9
+Boston Scientific,BSX,2010Q4,2010-12-31,분기말 지배지분 자본,11296000000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/885725/000095012311015112/,"StockholdersEquityIncludingPortionAttributableToNoncontrollingInterest, MinorityInterest 태그 없음",9
+Boston Scientific,BSX,2010Q4,2010-12-31,분기말 종가,7.57,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/BSX?interval=1d&events=splits (2010-12-31),,9
+Boston Scientific,BSX,2010Q4,2011-01-31,분기말 상장주식수,1523368979,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/885725/000095012311015112/,dei:EntityCommonStockSharesOutstanding 클래스 합,9
+Boston Scientific,BSX,2010Q4,2010-12-31,분기말 시가총액,11531903171,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/BSX?interval=1d&events=splits (2010-12-31) ; https://www.sec.gov/Archives/edgar/data/885725/000095012311015112/,종가 7.57 × 주식수 1523368979,9
+Boston Scientific,BSX,2011Q1,2011-03-31,분기별 매출액,1925000000,USD,공시,https://www.sec.gov/Archives/edgar/data/885725/000095012311045648/,,9
+Boston Scientific,BSX,2011Q1,2011-03-31,분기별 영업이익,322000000,USD,공시,https://www.sec.gov/Archives/edgar/data/885725/000095012311045648/,,9
+Boston Scientific,BSX,2011Q1,2011-03-31,분기별 당기순이익(지배),46000000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/885725/000095012311045648/,,9
+Boston Scientific,BSX,2011Q1,2011-03-31,분기별 영업활동현금흐름,-97000000,USD,공시,https://www.sec.gov/Archives/edgar/data/885725/000095012311045648/,,9
+Boston Scientific,BSX,2011Q1,2011-03-31,분기말 자산총계,22070000000,USD,공시,https://www.sec.gov/Archives/edgar/data/885725/000095012311045648/,,9
+Boston Scientific,BSX,2011Q1,2011-03-31,분기말 부채총계,10701000000,USD,계산(부채및자본-총자본),https://www.sec.gov/Archives/edgar/data/885725/000095012311045648/,부채및자본 22070000000 − 총자본 11369000000,9
+Boston Scientific,BSX,2011Q1,2011-03-31,분기말 총자본(자기자본),11369000000,USD,공시,https://www.sec.gov/Archives/edgar/data/885725/000095012311045648/,,9
+Boston Scientific,BSX,2011Q1,2011-03-31,분기말 지배지분 자본,11369000000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/885725/000095012311045648/,"StockholdersEquityIncludingPortionAttributableToNoncontrollingInterest, MinorityInterest 태그 없음",9
+Boston Scientific,BSX,2011Q1,2011-03-31,분기말 종가,7.19,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/BSX?interval=1d&events=splits (2011-03-31),,9
+Boston Scientific,BSX,2011Q1,2011-03-31,분기말 상장주식수,1528206257,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/885725/000095012311045648/,dei:EntityCommonStockSharesOutstanding 클래스 합,9
+Boston Scientific,BSX,2011Q1,2011-03-31,분기말 시가총액,10987802988,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/BSX?interval=1d&events=splits (2011-03-31) ; https://www.sec.gov/Archives/edgar/data/885725/000095012311045648/,종가 7.19 × 주식수 1528206257,9
+Boston Scientific,BSX,2011Q2,2011-06-30,분기별 매출액,1975000000,USD,공시,https://www.sec.gov/Archives/edgar/data/885725/000088572511000042/,,9
+Boston Scientific,BSX,2011Q2,2011-06-30,분기별 영업이익,237000000,USD,공시,https://www.sec.gov/Archives/edgar/data/885725/000088572511000042/,,9
+Boston Scientific,BSX,2011Q2,2011-06-30,분기별 당기순이익(지배),146000000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/885725/000088572511000042/,,9
+Boston Scientific,BSX,2011Q2,2011-06-30,분기별 영업활동현금흐름,390000000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/885725/000088572511000042/ ; https://www.sec.gov/Archives/edgar/data/885725/000095012311045648/,누적 293000000 − 직전누적 -97000000 (시작 2011-01-01),9
+Boston Scientific,BSX,2011Q2,2011-06-30,분기말 자산총계,21559000000,USD,공시,https://www.sec.gov/Archives/edgar/data/885725/000088572511000042/,,9
+Boston Scientific,BSX,2011Q2,2011-06-30,분기말 부채총계,10019000000,USD,계산(부채및자본-총자본),https://www.sec.gov/Archives/edgar/data/885725/000088572511000042/,부채및자본 21559000000 − 총자본 11540000000,9
+Boston Scientific,BSX,2011Q2,2011-06-30,분기말 총자본(자기자본),11540000000,USD,공시,https://www.sec.gov/Archives/edgar/data/885725/000088572511000042/,,9
+Boston Scientific,BSX,2011Q2,2011-06-30,분기말 지배지분 자본,11540000000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/885725/000088572511000042/,"StockholdersEquityIncludingPortionAttributableToNoncontrollingInterest, MinorityInterest 태그 없음",9
+Boston Scientific,BSX,2011Q2,2011-06-30,분기말 종가,6.91,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/BSX?interval=1d&events=splits (2011-06-30),,9
+Boston Scientific,BSX,2011Q2,2011-07-31,분기말 상장주식수,1530671153,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/885725/000088572511000042/,dei:EntityCommonStockSharesOutstanding 클래스 합,9
+Boston Scientific,BSX,2011Q2,2011-06-30,분기말 시가총액,10576937667,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/BSX?interval=1d&events=splits (2011-06-30) ; https://www.sec.gov/Archives/edgar/data/885725/000088572511000042/,종가 6.91 × 주식수 1530671153,9
+Boston Scientific,BSX,2011Q3,2011-09-30,분기별 매출액,1874000000,USD,공시,https://www.sec.gov/Archives/edgar/data/885725/000088572511000055/,,9
+Boston Scientific,BSX,2011Q3,2011-09-30,분기별 영업이익,174000000,USD,공시,https://www.sec.gov/Archives/edgar/data/885725/000088572511000055/,,9
+Boston Scientific,BSX,2011Q3,2011-09-30,분기별 당기순이익(지배),142000000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/885725/000088572511000055/,,9
+Boston Scientific,BSX,2011Q3,2011-09-30,분기별 영업활동현금흐름,366000000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/885725/000088572511000055/ ; https://www.sec.gov/Archives/edgar/data/885725/000088572511000042/,누적 659000000 − 직전누적 293000000 (시작 2011-01-01),9
+Boston Scientific,BSX,2011Q3,2011-09-30,분기말 자산총계,21502000000,USD,공시,https://www.sec.gov/Archives/edgar/data/885725/000088572511000055/,,9
+Boston Scientific,BSX,2011Q3,2011-09-30,분기말 부채총계,9981000000,USD,계산(부채및자본-총자본),https://www.sec.gov/Archives/edgar/data/885725/000088572511000055/,부채및자본 21502000000 − 총자본 11521000000,9
+Boston Scientific,BSX,2011Q3,2011-09-30,분기말 총자본(자기자본),11521000000,USD,공시,https://www.sec.gov/Archives/edgar/data/885725/000088572511000055/,,9
+Boston Scientific,BSX,2011Q3,2011-09-30,분기말 지배지분 자본,11521000000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/885725/000088572511000055/,"StockholdersEquityIncludingPortionAttributableToNoncontrollingInterest, MinorityInterest 태그 없음",9
+Boston Scientific,BSX,2011Q3,2011-09-30,분기말 종가,5.91,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/BSX?interval=1d&events=splits (2011-09-30),,9
+Boston Scientific,BSX,2011Q3,2011-10-31,분기말 상장주식수,1481505741,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/885725/000088572511000055/,dei:EntityCommonStockSharesOutstanding 클래스 합,9
+Boston Scientific,BSX,2011Q3,2011-09-30,분기말 시가총액,8755698929,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/BSX?interval=1d&events=splits (2011-09-30) ; https://www.sec.gov/Archives/edgar/data/885725/000088572511000055/,종가 5.91 × 주식수 1481505741,9
+Boston Scientific,BSX,2011Q4,2011-12-31,분기별 매출액,1848000000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/885725/000088572512000006/ ; https://www.sec.gov/Archives/edgar/data/885725/000088572511000055/,연간 7622000000 − 9개월누적 5774000000 (SalesRevenueNet),9
+Boston Scientific,BSX,2011Q4,2011-12-31,분기별 영업이익,170000000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/885725/000088572512000006/ ; https://www.sec.gov/Archives/edgar/data/885725/000088572511000055/,연간 904000000 − 9개월누적 734000000 (OperatingIncomeLoss),9
+Boston Scientific,BSX,2011Q4,2011-12-31,분기별 당기순이익(지배),107000000,USD,"계산(연간-3분기누적, 비지배 없음)",https://www.sec.gov/Archives/edgar/data/885725/000088572512000006/ ; https://www.sec.gov/Archives/edgar/data/885725/000088572511000055/,연간 441000000 − 9개월누적 334000000 (ProfitLoss),9
+Boston Scientific,BSX,2011Q4,2011-12-31,분기별 영업활동현금흐름,349000000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/885725/000088572512000006/ ; https://www.sec.gov/Archives/edgar/data/885725/000088572511000055/,누적 1008000000 − 직전누적 659000000 (시작 2011-01-01),9
+Boston Scientific,BSX,2011Q4,2011-12-31,분기말 자산총계,21290000000,USD,공시,https://www.sec.gov/Archives/edgar/data/885725/000088572512000006/,,9
+Boston Scientific,BSX,2011Q4,2011-12-31,분기말 부채총계,9937000000,USD,계산(부채및자본-총자본),https://www.sec.gov/Archives/edgar/data/885725/000088572512000006/,부채및자본 21290000000 − 총자본 11353000000,9
+Boston Scientific,BSX,2011Q4,2011-12-31,분기말 총자본(자기자본),11353000000,USD,공시,https://www.sec.gov/Archives/edgar/data/885725/000088572512000006/,,9
+Boston Scientific,BSX,2011Q4,2011-12-31,분기말 지배지분 자본,11353000000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/885725/000088572512000006/,"StockholdersEquityIncludingPortionAttributableToNoncontrollingInterest, MinorityInterest 태그 없음",9
+Boston Scientific,BSX,2011Q4,2011-12-30,분기말 종가,5.34,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/BSX?interval=1d&events=splits (2011-12-30),,9
+Boston Scientific,BSX,2011Q4,2012-01-31,분기말 상장주식수,1451346240,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/885725/000088572512000006/,dei:EntityCommonStockSharesOutstanding 클래스 합,9
+Boston Scientific,BSX,2011Q4,2011-12-30,분기말 시가총액,7750188922,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/BSX?interval=1d&events=splits (2011-12-30) ; https://www.sec.gov/Archives/edgar/data/885725/000088572512000006/,종가 5.34 × 주식수 1451346240,9
+Boston Scientific,BSX,2012Q1,2012-03-31,분기별 매출액,1866000000,USD,공시,https://www.sec.gov/Archives/edgar/data/885725/000088572512000017/,,9
+Boston Scientific,BSX,2012Q1,2012-03-31,분기별 영업이익,196000000,USD,공시,https://www.sec.gov/Archives/edgar/data/885725/000088572512000017/,,9
+Boston Scientific,BSX,2012Q1,2012-03-31,분기별 당기순이익(지배),113000000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/885725/000088572512000017/,,9
+Boston Scientific,BSX,2012Q1,2012-03-31,분기별 영업활동현금흐름,212000000,USD,공시,https://www.sec.gov/Archives/edgar/data/885725/000088572512000017/,,9
+Boston Scientific,BSX,2012Q1,2012-03-31,분기말 자산총계,21185000000,USD,공시,https://www.sec.gov/Archives/edgar/data/885725/000088572512000017/,,9
+Boston Scientific,BSX,2012Q1,2012-03-31,분기말 부채총계,9789000000,USD,계산(부채및자본-총자본),https://www.sec.gov/Archives/edgar/data/885725/000088572512000017/,부채및자본 21185000000 − 총자본 11396000000,9
+Boston Scientific,BSX,2012Q1,2012-03-31,분기말 총자본(자기자본),11396000000,USD,공시,https://www.sec.gov/Archives/edgar/data/885725/000088572512000017/,,9
+Boston Scientific,BSX,2012Q1,2012-03-31,분기말 지배지분 자본,11396000000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/885725/000088572512000017/,"StockholdersEquityIncludingPortionAttributableToNoncontrollingInterest, MinorityInterest 태그 없음",9
+Boston Scientific,BSX,2012Q1,2012-03-30,분기말 종가,5.98,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/BSX?interval=1d&events=splits (2012-03-30),,9
+Boston Scientific,BSX,2012Q1,2012-04-30,분기말 상장주식수,1429295312,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/885725/000088572512000017/,dei:EntityCommonStockSharesOutstanding 클래스 합,9
+Boston Scientific,BSX,2012Q1,2012-03-30,분기말 시가총액,8547185966,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/BSX?interval=1d&events=splits (2012-03-30) ; https://www.sec.gov/Archives/edgar/data/885725/000088572512000017/,종가 5.98 × 주식수 1429295312,9
+Boston Scientific,BSX,2012Q2,2012-06-30,분기별 매출액,1828000000,USD,공시,https://www.sec.gov/Archives/edgar/data/885725/000088572512000029/,,9
+Boston Scientific,BSX,2012Q2,2012-06-30,분기별 영업이익,-3587000000,USD,공시,https://www.sec.gov/Archives/edgar/data/885725/000088572512000029/,,9
+Boston Scientific,BSX,2012Q2,2012-06-30,분기별 당기순이익(지배),-3578000000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/885725/000088572512000029/,,9
+Boston Scientific,BSX,2012Q2,2012-06-30,분기별 영업활동현금흐름,407000000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/885725/000088572512000029/ ; https://www.sec.gov/Archives/edgar/data/885725/000088572512000017/,누적 619000000 − 직전누적 212000000 (시작 2012-01-01),9
+Boston Scientific,BSX,2012Q2,2012-06-30,분기말 자산총계,17818000000,USD,공시,https://www.sec.gov/Archives/edgar/data/885725/000088572512000029/,,9
+Boston Scientific,BSX,2012Q2,2012-06-30,분기말 부채총계,10090000000,USD,계산(부채및자본-총자본),https://www.sec.gov/Archives/edgar/data/885725/000088572512000029/,부채및자본 17818000000 − 총자본 7728000000,9
+Boston Scientific,BSX,2012Q2,2012-06-30,분기말 총자본(자기자본),7728000000,USD,공시,https://www.sec.gov/Archives/edgar/data/885725/000088572512000029/,,9
+Boston Scientific,BSX,2012Q2,2012-06-30,분기말 지배지분 자본,7728000000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/885725/000088572512000029/,"StockholdersEquityIncludingPortionAttributableToNoncontrollingInterest, MinorityInterest 태그 없음",9
+Boston Scientific,BSX,2012Q2,2012-06-29,분기말 종가,5.67,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/BSX?interval=1d&events=splits (2012-06-29),,9
+Boston Scientific,BSX,2012Q2,2012-07-31,분기말 상장주식수,1418982422,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/885725/000088572512000029/,dei:EntityCommonStockSharesOutstanding 클래스 합,9
+Boston Scientific,BSX,2012Q2,2012-06-29,분기말 시가총액,8045630333,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/BSX?interval=1d&events=splits (2012-06-29) ; https://www.sec.gov/Archives/edgar/data/885725/000088572512000029/,종가 5.67 × 주식수 1418982422,9
+Boston Scientific,BSX,2012Q3,2012-09-30,분기별 매출액,1735000000,USD,공시,https://www.sec.gov/Archives/edgar/data/885725/000088572512000043/,,9
+Boston Scientific,BSX,2012Q3,2012-09-30,분기별 영업이익,-594000000,USD,공시,https://www.sec.gov/Archives/edgar/data/885725/000088572512000043/,,9
+Boston Scientific,BSX,2012Q3,2012-09-30,분기별 당기순이익(지배),-664000000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/885725/000088572512000043/,,9
+Boston Scientific,BSX,2012Q3,2012-09-30,분기별 영업활동현금흐름,272000000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/885725/000088572512000043/ ; https://www.sec.gov/Archives/edgar/data/885725/000088572512000029/,누적 891000000 − 직전누적 619000000 (시작 2012-01-01),9
+Boston Scientific,BSX,2012Q3,2012-09-30,분기말 자산총계,16898000000,USD,공시,https://www.sec.gov/Archives/edgar/data/885725/000088572512000043/,,9
+Boston Scientific,BSX,2012Q3,2012-09-30,분기말 부채총계,10070000000,USD,계산(부채및자본-총자본),https://www.sec.gov/Archives/edgar/data/885725/000088572512000043/,부채및자본 16898000000 − 총자본 6828000000,9
+Boston Scientific,BSX,2012Q3,2012-09-30,분기말 총자본(자기자본),6828000000,USD,공시,https://www.sec.gov/Archives/edgar/data/885725/000088572512000043/,,9
+Boston Scientific,BSX,2012Q3,2012-09-30,분기말 지배지분 자본,6828000000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/885725/000088572512000043/,"StockholdersEquityIncludingPortionAttributableToNoncontrollingInterest, MinorityInterest 태그 없음",9
+Boston Scientific,BSX,2012Q3,2012-09-28,분기말 종가,5.74,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/BSX?interval=1d&events=splits (2012-09-28),,9
+Boston Scientific,BSX,2012Q3,2012-10-31,분기말 상장주식수,1372983740,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/885725/000088572512000043/,dei:EntityCommonStockSharesOutstanding 클래스 합,9
+Boston Scientific,BSX,2012Q3,2012-09-28,분기말 시가총액,7880926668,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/BSX?interval=1d&events=splits (2012-09-28) ; https://www.sec.gov/Archives/edgar/data/885725/000088572512000043/,종가 5.74 × 주식수 1372983740,9
+Boston Scientific,BSX,2012Q4,2012-12-31,분기별 매출액,1821000000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/885725/000088572513000007/ ; https://www.sec.gov/Archives/edgar/data/885725/000088572512000043/,연간 7249000000 − 9개월누적 5428000000 (SalesRevenueNet),9
+Boston Scientific,BSX,2012Q4,2012-12-31,분기별 영업이익,117000000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/885725/000088572513000007/ ; https://www.sec.gov/Archives/edgar/data/885725/000088572512000043/,연간 -3868000000 − 9개월누적 -3985000000 (OperatingIncomeLoss),9
+Boston Scientific,BSX,2012Q4,2012-12-31,분기별 당기순이익(지배),61000000,USD,"계산(연간-3분기누적, 비지배 없음)",https://www.sec.gov/Archives/edgar/data/885725/000088572513000007/ ; https://www.sec.gov/Archives/edgar/data/885725/000088572512000043/,연간 -4068000000 − 9개월누적 -4129000000 (ProfitLoss),9
+Boston Scientific,BSX,2012Q4,2012-12-31,분기별 영업활동현금흐름,369000000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/885725/000088572513000007/ ; https://www.sec.gov/Archives/edgar/data/885725/000088572512000043/,누적 1260000000 − 직전누적 891000000 (시작 2012-01-01),9
+Boston Scientific,BSX,2012Q4,2012-12-31,분기말 자산총계,17154000000,USD,공시,https://www.sec.gov/Archives/edgar/data/885725/000088572513000007/,,9
+Boston Scientific,BSX,2012Q4,2012-12-31,분기말 부채총계,10284000000,USD,계산(부채및자본-총자본),https://www.sec.gov/Archives/edgar/data/885725/000088572513000007/,부채및자본 17154000000 − 총자본 6870000000,9
+Boston Scientific,BSX,2012Q4,2012-12-31,분기말 총자본(자기자본),6870000000,USD,공시,https://www.sec.gov/Archives/edgar/data/885725/000088572513000007/,,9
+Boston Scientific,BSX,2012Q4,2012-12-31,분기말 지배지분 자본,6870000000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/885725/000088572513000007/,"StockholdersEquityIncludingPortionAttributableToNoncontrollingInterest, MinorityInterest 태그 없음",9
+Boston Scientific,BSX,2012Q4,2012-12-31,분기말 종가,5.73,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/BSX?interval=1d&events=splits (2012-12-31),,9
+Boston Scientific,BSX,2012Q4,2013-01-31,분기말 상장주식수,1357426289,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/885725/000088572513000007/,dei:EntityCommonStockSharesOutstanding 클래스 합,9
+Boston Scientific,BSX,2012Q4,2012-12-31,분기말 시가총액,7778052636,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/BSX?interval=1d&events=splits (2012-12-31) ; https://www.sec.gov/Archives/edgar/data/885725/000088572513000007/,종가 5.73 × 주식수 1357426289,9
+Boston Scientific,BSX,2013Q1,2013-03-31,분기별 매출액,1761000000,USD,공시,https://www.sec.gov/Archives/edgar/data/885725/000088572513000015/,,9
+Boston Scientific,BSX,2013Q1,2013-03-31,분기별 영업이익,-330000000,USD,공시,https://www.sec.gov/Archives/edgar/data/885725/000088572513000015/,,9
+Boston Scientific,BSX,2013Q1,2013-03-31,분기별 당기순이익(지배),-354000000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/885725/000088572513000015/,,9
+Boston Scientific,BSX,2013Q1,2013-03-31,분기별 영업활동현금흐름,163000000,USD,공시,https://www.sec.gov/Archives/edgar/data/885725/000088572513000015/,,9
+Boston Scientific,BSX,2013Q1,2013-03-31,분기말 자산총계,16763000000,USD,공시,https://www.sec.gov/Archives/edgar/data/885725/000088572513000015/,,9
+Boston Scientific,BSX,2013Q1,2013-03-31,분기말 부채총계,10260000000,USD,계산(부채및자본-총자본),https://www.sec.gov/Archives/edgar/data/885725/000088572513000015/,부채및자본 16763000000 − 총자본 6503000000,9
+Boston Scientific,BSX,2013Q1,2013-03-31,분기말 총자본(자기자본),6503000000,USD,공시,https://www.sec.gov/Archives/edgar/data/885725/000088572513000015/,,9
+Boston Scientific,BSX,2013Q1,2013-03-31,분기말 지배지분 자본,6503000000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/885725/000088572513000015/,"StockholdersEquityIncludingPortionAttributableToNoncontrollingInterest, MinorityInterest 태그 없음",9
+Boston Scientific,BSX,2013Q1,2013-03-28,분기말 종가,7.81,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/BSX?interval=1d&events=splits (2013-03-28),,9
+Boston Scientific,BSX,2013Q1,2013-04-30,분기말 상장주식수,1349092384,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/885725/000088572513000015/,dei:EntityCommonStockSharesOutstanding 클래스 합,9
+Boston Scientific,BSX,2013Q1,2013-03-28,분기말 시가총액,10536411519,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/BSX?interval=1d&events=splits (2013-03-28) ; https://www.sec.gov/Archives/edgar/data/885725/000088572513000015/,종가 7.81 × 주식수 1349092384,9
+Boston Scientific,BSX,2013Q2,2013-06-30,분기별 매출액,1809000000,USD,공시,https://www.sec.gov/Archives/edgar/data/885725/000088572513000037/,,9
+Boston Scientific,BSX,2013Q2,2013-06-30,분기별 영업이익,220000000,USD,공시,https://www.sec.gov/Archives/edgar/data/885725/000088572513000037/,,9
+Boston Scientific,BSX,2013Q2,2013-06-30,분기별 당기순이익(지배),130000000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/885725/000088572513000037/,,9
+Boston Scientific,BSX,2013Q2,2013-06-30,분기별 영업활동현금흐름,396000000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/885725/000088572513000037/ ; https://www.sec.gov/Archives/edgar/data/885725/000088572513000015/,누적 559000000 − 직전누적 163000000 (시작 2013-01-01),9
+Boston Scientific,BSX,2013Q2,2013-06-30,분기말 자산총계,16996000000,USD,공시,https://www.sec.gov/Archives/edgar/data/885725/000088572513000037/,,9
+Boston Scientific,BSX,2013Q2,2013-06-30,분기말 부채총계,10393000000,USD,계산(부채및자본-총자본),https://www.sec.gov/Archives/edgar/data/885725/000088572513000037/,부채및자본 16996000000 − 총자본 6603000000,9
+Boston Scientific,BSX,2013Q2,2013-06-30,분기말 총자본(자기자본),6603000000,USD,공시,https://www.sec.gov/Archives/edgar/data/885725/000088572513000037/,,9
+Boston Scientific,BSX,2013Q2,2013-06-30,분기말 지배지분 자본,6603000000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/885725/000088572513000037/,"StockholdersEquityIncludingPortionAttributableToNoncontrollingInterest, MinorityInterest 태그 없음",9
+Boston Scientific,BSX,2013Q2,2013-06-28,분기말 종가,9.27,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/BSX?interval=1d&events=splits (2013-06-28),,9
+Boston Scientific,BSX,2013Q2,2013-07-31,분기말 상장주식수,1342873847,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/885725/000088572513000037/,dei:EntityCommonStockSharesOutstanding 클래스 합,9
+Boston Scientific,BSX,2013Q2,2013-06-28,분기말 시가총액,12448440562,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/BSX?interval=1d&events=splits (2013-06-28) ; https://www.sec.gov/Archives/edgar/data/885725/000088572513000037/,종가 9.27 × 주식수 1342873847,9
+Boston Scientific,BSX,2013Q3,2013-09-30,분기별 매출액,1735000000,USD,공시,https://www.sec.gov/Archives/edgar/data/885725/000088572513000045/,,9
+Boston Scientific,BSX,2013Q3,2013-09-30,분기별 영업이익,103000000,USD,공시,https://www.sec.gov/Archives/edgar/data/885725/000088572513000045/,,9
+Boston Scientific,BSX,2013Q3,2013-09-30,분기별 당기순이익(지배),-5000000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/885725/000088572513000045/,,9
+Boston Scientific,BSX,2013Q3,2013-09-30,분기별 영업활동현금흐름,250000000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/885725/000088572513000045/ ; https://www.sec.gov/Archives/edgar/data/885725/000088572513000037/,누적 809000000 − 직전누적 559000000 (시작 2013-01-01),9
+Boston Scientific,BSX,2013Q3,2013-09-30,분기말 자산총계,16917000000,USD,공시,https://www.sec.gov/Archives/edgar/data/885725/000088572513000045/,,9
+Boston Scientific,BSX,2013Q3,2013-09-30,분기말 부채총계,10354000000,USD,계산(부채및자본-총자본),https://www.sec.gov/Archives/edgar/data/885725/000088572513000045/,부채및자본 16917000000 − 총자본 6563000000,9
+Boston Scientific,BSX,2013Q3,2013-09-30,분기말 총자본(자기자본),6563000000,USD,공시,https://www.sec.gov/Archives/edgar/data/885725/000088572513000045/,,9
+Boston Scientific,BSX,2013Q3,2013-09-30,분기말 지배지분 자본,6563000000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/885725/000088572513000045/,"StockholdersEquityIncludingPortionAttributableToNoncontrollingInterest, MinorityInterest 태그 없음",9
+Boston Scientific,BSX,2013Q3,2013-09-30,분기말 종가,11.74,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/BSX?interval=1d&events=splits (2013-09-30),,9
+Boston Scientific,BSX,2013Q3,2013-10-31,분기말 상장주식수,1335221407,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/885725/000088572513000045/,dei:EntityCommonStockSharesOutstanding 클래스 합,9
+Boston Scientific,BSX,2013Q3,2013-09-30,분기말 시가총액,15675499318,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/BSX?interval=1d&events=splits (2013-09-30) ; https://www.sec.gov/Archives/edgar/data/885725/000088572513000045/,종가 11.74 × 주식수 1335221407,9
+Boston Scientific,BSX,2013Q4,2013-12-31,분기별 매출액,1838000000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/885725/000088572514000005/ ; https://www.sec.gov/Archives/edgar/data/885725/000088572513000045/,연간 7143000000 − 9개월누적 5305000000 (SalesRevenueNet),9
+Boston Scientific,BSX,2013Q4,2013-12-31,분기별 영업이익,126000000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/885725/000088572514000005/ ; https://www.sec.gov/Archives/edgar/data/885725/000088572513000045/,연간 120000000 − 9개월누적 -6000000 (OperatingIncomeLoss),9
+Boston Scientific,BSX,2013Q4,2013-12-31,분기별 당기순이익(지배),108000000,USD,"계산(연간-3분기누적, 비지배 없음)",https://www.sec.gov/Archives/edgar/data/885725/000088572514000005/ ; https://www.sec.gov/Archives/edgar/data/885725/000088572513000045/,연간 -121000000 − 9개월누적 -229000000 (ProfitLoss),9
+Boston Scientific,BSX,2013Q4,2013-12-31,분기별 영업활동현금흐름,273000000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/885725/000088572514000005/ ; https://www.sec.gov/Archives/edgar/data/885725/000088572513000045/,누적 1082000000 − 직전누적 809000000 (시작 2013-01-01),9
+Boston Scientific,BSX,2013Q4,2013-12-31,분기말 자산총계,16571000000,USD,공시,https://www.sec.gov/Archives/edgar/data/885725/000088572514000005/,,9
+Boston Scientific,BSX,2013Q4,2013-12-31,분기말 부채총계,10032000000,USD,계산(부채및자본-총자본),https://www.sec.gov/Archives/edgar/data/885725/000088572514000005/,부채및자본 16571000000 − 총자본 6539000000,9
+Boston Scientific,BSX,2013Q4,2013-12-31,분기말 총자본(자기자본),6539000000,USD,공시,https://www.sec.gov/Archives/edgar/data/885725/000088572514000005/,,9
+Boston Scientific,BSX,2013Q4,2013-12-31,분기말 지배지분 자본,6539000000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/885725/000088572514000005/,"StockholdersEquityIncludingPortionAttributableToNoncontrollingInterest, MinorityInterest 태그 없음",9
+Boston Scientific,BSX,2013Q4,2013-12-31,분기말 종가,12.02,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/BSX?interval=1d&events=splits (2013-12-31),,9
+Boston Scientific,BSX,2013Q4,2014-01-31,분기말 상장주식수,1324192809,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/885725/000088572514000005/,dei:EntityCommonStockSharesOutstanding 클래스 합,9
+Boston Scientific,BSX,2013Q4,2013-12-31,분기말 시가총액,15916797564,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/BSX?interval=1d&events=splits (2013-12-31) ; https://www.sec.gov/Archives/edgar/data/885725/000088572514000005/,종가 12.02 × 주식수 1324192809,9
+Boston Scientific,BSX,2014Q1,2014-03-31,분기별 매출액,1778000000,USD,공시,https://www.sec.gov/Archives/edgar/data/885725/000088572514000010/,,9
+Boston Scientific,BSX,2014Q1,2014-03-31,분기별 영업이익,197000000,USD,공시,https://www.sec.gov/Archives/edgar/data/885725/000088572514000010/,,9
+Boston Scientific,BSX,2014Q1,2014-03-31,분기별 당기순이익(지배),133000000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/885725/000088572514000010/,,9
+Boston Scientific,BSX,2014Q1,2014-03-31,분기별 영업활동현금흐름,198000000,USD,공시,https://www.sec.gov/Archives/edgar/data/885725/000088572514000010/,,9
+Boston Scientific,BSX,2014Q1,2014-03-31,분기말 자산총계,16335000000,USD,공시,https://www.sec.gov/Archives/edgar/data/885725/000088572514000010/,,9
+Boston Scientific,BSX,2014Q1,2014-03-31,분기말 부채총계,9801000000,USD,계산(부채및자본-총자본),https://www.sec.gov/Archives/edgar/data/885725/000088572514000010/,부채및자본 16335000000 − 총자본 6534000000,9
+Boston Scientific,BSX,2014Q1,2014-03-31,분기말 총자본(자기자본),6534000000,USD,공시,https://www.sec.gov/Archives/edgar/data/885725/000088572514000010/,,9
+Boston Scientific,BSX,2014Q1,2014-03-31,분기말 지배지분 자본,6534000000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/885725/000088572514000010/,"StockholdersEquityIncludingPortionAttributableToNoncontrollingInterest, MinorityInterest 태그 없음",9
+Boston Scientific,BSX,2014Q1,2014-03-31,분기말 종가,13.52,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/BSX?interval=1d&events=splits (2014-03-31),,9
+Boston Scientific,BSX,2014Q1,2014-04-30,분기말 상장주식수,1322675633,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/885725/000088572514000010/,dei:EntityCommonStockSharesOutstanding 클래스 합,9
+Boston Scientific,BSX,2014Q1,2014-03-31,분기말 시가총액,17882574558,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/BSX?interval=1d&events=splits (2014-03-31) ; https://www.sec.gov/Archives/edgar/data/885725/000088572514000010/,종가 13.52 × 주식수 1322675633,9
+Boston Scientific,BSX,2014Q2,2014-06-30,분기별 매출액,1869000000,USD,공시,https://www.sec.gov/Archives/edgar/data/885725/000088572514000022/,,9
+Boston Scientific,BSX,2014Q2,2014-06-30,분기별 영업이익,-69000000,USD,공시,https://www.sec.gov/Archives/edgar/data/885725/000088572514000022/,,9
+Boston Scientific,BSX,2014Q2,2014-06-30,분기별 당기순이익(지배),4000000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/885725/000088572514000022/,,9
+Boston Scientific,BSX,2014Q2,2014-06-30,분기별 영업활동현금흐름,285000000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/885725/000088572514000022/ ; https://www.sec.gov/Archives/edgar/data/885725/000088572514000010/,누적 483000000 − 직전누적 198000000 (시작 2014-01-01),9
+Boston Scientific,BSX,2014Q2,2014-06-30,분기말 자산총계,16477000000,USD,공시,https://www.sec.gov/Archives/edgar/data/885725/000088572514000022/,,9
+Boston Scientific,BSX,2014Q2,2014-06-30,분기말 부채총계,9933000000,USD,계산(부채및자본-총자본),https://www.sec.gov/Archives/edgar/data/885725/000088572514000022/,부채및자본 16477000000 − 총자본 6544000000,9
+Boston Scientific,BSX,2014Q2,2014-06-30,분기말 총자본(자기자본),6544000000,USD,공시,https://www.sec.gov/Archives/edgar/data/885725/000088572514000022/,,9
+Boston Scientific,BSX,2014Q2,2014-06-30,분기말 지배지분 자본,6544000000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/885725/000088572514000022/,"StockholdersEquityIncludingPortionAttributableToNoncontrollingInterest, MinorityInterest 태그 없음",9
+Boston Scientific,BSX,2014Q2,2014-06-30,분기말 종가,12.77,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/BSX?interval=1d&events=splits (2014-06-30),,9
+Boston Scientific,BSX,2014Q2,2014-07-31,분기말 상장주식수,1325707830,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/885725/000088572514000022/,dei:EntityCommonStockSharesOutstanding 클래스 합,9
+Boston Scientific,BSX,2014Q2,2014-06-30,분기말 시가총액,16929288989,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/BSX?interval=1d&events=splits (2014-06-30) ; https://www.sec.gov/Archives/edgar/data/885725/000088572514000022/,종가 12.77 × 주식수 1325707830,9
+Boston Scientific,BSX,2014Q3,2014-09-30,분기별 매출액,1860000000,USD,공시,https://www.sec.gov/Archives/edgar/data/885725/000088572514000030/,,9
+Boston Scientific,BSX,2014Q3,2014-09-30,분기별 영업이익,64000000,USD,공시,https://www.sec.gov/Archives/edgar/data/885725/000088572514000030/,,9
+Boston Scientific,BSX,2014Q3,2014-09-30,분기별 당기순이익(지배),43000000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/885725/000088572514000030/,,9
+Boston Scientific,BSX,2014Q3,2014-09-30,분기별 영업활동현금흐름,346000000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/885725/000088572514000030/ ; https://www.sec.gov/Archives/edgar/data/885725/000088572514000022/,누적 829000000 − 직전누적 483000000 (시작 2014-01-01),9
+Boston Scientific,BSX,2014Q3,2014-09-30,분기말 자산총계,16718000000,USD,공시,https://www.sec.gov/Archives/edgar/data/885725/000088572514000030/,,9
+Boston Scientific,BSX,2014Q3,2014-09-30,분기말 부채총계,10017000000,USD,계산(부채및자본-총자본),https://www.sec.gov/Archives/edgar/data/885725/000088572514000030/,부채및자본 16718000000 − 총자본 6701000000,9
+Boston Scientific,BSX,2014Q3,2014-09-30,분기말 총자본(자기자본),6701000000,USD,공시,https://www.sec.gov/Archives/edgar/data/885725/000088572514000030/,,9
+Boston Scientific,BSX,2014Q3,2014-09-30,분기말 지배지분 자본,6701000000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/885725/000088572514000030/,"StockholdersEquityIncludingPortionAttributableToNoncontrollingInterest, MinorityInterest 태그 없음",9
+Boston Scientific,BSX,2014Q3,2014-09-30,분기말 종가,11.81,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/BSX?interval=1d&events=splits (2014-09-30),,9
+Boston Scientific,BSX,2014Q3,2014-10-31,분기말 상장주식수,1326489890,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/885725/000088572514000030/,dei:EntityCommonStockSharesOutstanding 클래스 합,9
+Boston Scientific,BSX,2014Q3,2014-09-30,분기말 시가총액,15665845601,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/BSX?interval=1d&events=splits (2014-09-30) ; https://www.sec.gov/Archives/edgar/data/885725/000088572514000030/,종가 11.81 × 주식수 1326489890,9
+Boston Scientific,BSX,2014Q4,2014-12-31,분기별 매출액,1955000000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/885725/000088572515000006/ ; https://www.sec.gov/Archives/edgar/data/885725/000088572514000030/,연간 7462000000 − 9개월누적 5507000000 (Revenues),9
+Boston Scientific,BSX,2014Q4,2014-12-31,분기별 영업이익,-492000000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/885725/000088572515000006/ ; https://www.sec.gov/Archives/edgar/data/885725/000088572514000030/,연간 -301000000 − 9개월누적 191000000 (OperatingIncomeLoss),9
+Boston Scientific,BSX,2014Q4,2014-12-31,분기별 당기순이익(지배),-299000000,USD,"계산(연간-3분기누적, 비지배 없음)",https://www.sec.gov/Archives/edgar/data/885725/000088572515000006/ ; https://www.sec.gov/Archives/edgar/data/885725/000088572514000030/,연간 -119000000 − 9개월누적 180000000 (ProfitLoss),9
+Boston Scientific,BSX,2014Q4,2014-12-31,분기별 영업활동현금흐름,440000000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/885725/000088572515000006/ ; https://www.sec.gov/Archives/edgar/data/885725/000088572514000030/,누적 1269000000 − 직전누적 829000000 (시작 2014-01-01),9
+Boston Scientific,BSX,2014Q4,2014-12-31,분기말 자산총계,17024000000,USD,공시(재작성 반영),https://www.sec.gov/Archives/edgar/data/885725/000088572516000028/,원 공시 17042000000 (https://www.sec.gov/Archives/edgar/data/885725/000088572515000006/),9
+Boston Scientific,BSX,2014Q4,2014-12-31,분기말 부채총계,10567000000,USD,계산(부채및자본-총자본)(재작성 반영),https://www.sec.gov/Archives/edgar/data/885725/000088572516000028/,부채및자본 17024000000 − 총자본 6457000000 ; 원 공시 10585000000 (https://www.sec.gov/Archives/edgar/data/885725/000088572515000006/),9
+Boston Scientific,BSX,2014Q4,2014-12-31,분기말 총자본(자기자본),6457000000,USD,공시,https://www.sec.gov/Archives/edgar/data/885725/000088572515000006/,,9
+Boston Scientific,BSX,2014Q4,2014-12-31,분기말 지배지분 자본,6457000000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/885725/000088572515000006/,"StockholdersEquityIncludingPortionAttributableToNoncontrollingInterest, MinorityInterest 태그 없음",9
+Boston Scientific,BSX,2014Q4,2014-12-31,분기말 종가,13.25,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/BSX?interval=1d&events=splits (2014-12-31),,9
+Boston Scientific,BSX,2014Q4,2015-01-30,분기말 상장주식수,1330512367,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/885725/000088572515000006/,dei:EntityCommonStockSharesOutstanding 클래스 합,9
+Boston Scientific,BSX,2014Q4,2014-12-31,분기말 시가총액,17629288863,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/BSX?interval=1d&events=splits (2014-12-31) ; https://www.sec.gov/Archives/edgar/data/885725/000088572515000006/,종가 13.25 × 주식수 1330512367,9
+Boston Scientific,BSX,2015Q1,2015-03-31,분기별 매출액,1891000000,USD,공시,https://www.sec.gov/Archives/edgar/data/885725/000088572515000012/,,9
+Boston Scientific,BSX,2015Q1,2015-03-31,분기별 영업이익,24000000,USD,공시,https://www.sec.gov/Archives/edgar/data/885725/000088572515000012/,,9
+Boston Scientific,BSX,2015Q1,2015-03-31,분기별 당기순이익(지배),-1000000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/885725/000088572515000012/,,9
+Boston Scientific,BSX,2015Q1,2015-03-31,분기별 영업활동현금흐름,-197000000,USD,공시,https://www.sec.gov/Archives/edgar/data/885725/000088572515000012/,,9
+Boston Scientific,BSX,2015Q1,2015-03-31,분기말 자산총계,16472000000,USD,공시,https://www.sec.gov/Archives/edgar/data/885725/000088572515000012/,,9
+Boston Scientific,BSX,2015Q1,2015-03-31,분기말 부채총계,9971000000,USD,계산(부채및자본-총자본),https://www.sec.gov/Archives/edgar/data/885725/000088572515000012/,부채및자본 16472000000 − 총자본 6501000000,9
+Boston Scientific,BSX,2015Q1,2015-03-31,분기말 총자본(자기자본),6501000000,USD,공시,https://www.sec.gov/Archives/edgar/data/885725/000088572515000012/,,9
+Boston Scientific,BSX,2015Q1,2015-03-31,분기말 지배지분 자본,6501000000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/885725/000088572515000012/,"StockholdersEquityIncludingPortionAttributableToNoncontrollingInterest, MinorityInterest 태그 없음",9
+Boston Scientific,BSX,2015Q1,2015-03-31,분기말 종가,17.75,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/BSX?interval=1d&events=splits (2015-03-31),,9
+Boston Scientific,BSX,2015Q1,2015-04-30,분기말 상장주식수,1340675902,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/885725/000088572515000012/,dei:EntityCommonStockSharesOutstanding 클래스 합,9
+Boston Scientific,BSX,2015Q1,2015-03-31,분기말 시가총액,23796997260,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/BSX?interval=1d&events=splits (2015-03-31) ; https://www.sec.gov/Archives/edgar/data/885725/000088572515000012/,종가 17.75 × 주식수 1340675902,9
+Boston Scientific,BSX,2015Q2,2015-06-30,분기별 매출액,1981000000,USD,공시,https://www.sec.gov/Archives/edgar/data/885725/000088572515000020/,,9
+Boston Scientific,BSX,2015Q2,2015-06-30,분기별 영업이익,219000000,USD,공시,https://www.sec.gov/Archives/edgar/data/885725/000088572515000020/,,9
+Boston Scientific,BSX,2015Q2,2015-06-30,분기별 당기순이익(지배),102000000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/885725/000088572515000020/,,9
+Boston Scientific,BSX,2015Q2,2015-06-30,분기별 영업활동현금흐름,60000000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/885725/000088572515000020/ ; https://www.sec.gov/Archives/edgar/data/885725/000088572515000012/,누적 -137000000 − 직전누적 -197000000 (시작 2015-01-01),9
+Boston Scientific,BSX,2015Q2,2015-06-30,분기말 자산총계,17123000000,USD,공시,https://www.sec.gov/Archives/edgar/data/885725/000088572515000020/,,9
+Boston Scientific,BSX,2015Q2,2015-06-30,분기말 부채총계,10543000000,USD,계산(부채및자본-총자본),https://www.sec.gov/Archives/edgar/data/885725/000088572515000020/,부채및자본 17123000000 − 총자본 6580000000,9
+Boston Scientific,BSX,2015Q2,2015-06-30,분기말 총자본(자기자본),6580000000,USD,공시,https://www.sec.gov/Archives/edgar/data/885725/000088572515000020/,,9
+Boston Scientific,BSX,2015Q2,2015-06-30,분기말 지배지분 자본,6580000000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/885725/000088572515000020/,"StockholdersEquityIncludingPortionAttributableToNoncontrollingInterest, MinorityInterest 태그 없음",9
+Boston Scientific,BSX,2015Q2,2015-06-30,분기말 종가,17.7,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/BSX?interval=1d&events=splits (2015-06-30),,9
+Boston Scientific,BSX,2015Q2,2015-07-31,분기말 상장주식수,1343956583,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/885725/000088572515000020/,dei:EntityCommonStockSharesOutstanding 클래스 합,9
+Boston Scientific,BSX,2015Q2,2015-06-30,분기말 시가총액,23788031519,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/BSX?interval=1d&events=splits (2015-06-30) ; https://www.sec.gov/Archives/edgar/data/885725/000088572515000020/,종가 17.7 × 주식수 1343956583,9
+Boston Scientific,BSX,2015Q3,2015-09-30,분기별 매출액,2038000000,USD,공시,https://www.sec.gov/Archives/edgar/data/885725/000088572515000024/,,9
+Boston Scientific,BSX,2015Q3,2015-09-30,분기별 영업이익,-299000000,USD,공시,https://www.sec.gov/Archives/edgar/data/885725/000088572515000024/,,9
+Boston Scientific,BSX,2015Q3,2015-09-30,분기별 당기순이익(지배),-198000000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/885725/000088572515000024/,,9
+Boston Scientific,BSX,2015Q3,2015-09-30,분기별 영업활동현금흐름,408000000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/885725/000088572515000024/ ; https://www.sec.gov/Archives/edgar/data/885725/000088572515000020/,누적 271000000 − 직전누적 -137000000 (시작 2015-01-01),9
+Boston Scientific,BSX,2015Q3,2015-09-30,분기말 자산총계,18215000000,USD,공시,https://www.sec.gov/Archives/edgar/data/885725/000088572515000024/,,9
+Boston Scientific,BSX,2015Q3,2015-09-30,분기말 부채총계,11805000000,USD,계산(부채및자본-총자본),https://www.sec.gov/Archives/edgar/data/885725/000088572515000024/,부채및자본 18215000000 − 총자본 6410000000,9
+Boston Scientific,BSX,2015Q3,2015-09-30,분기말 총자본(자기자본),6410000000,USD,공시,https://www.sec.gov/Archives/edgar/data/885725/000088572515000024/,,9
+Boston Scientific,BSX,2015Q3,2015-09-30,분기말 지배지분 자본,6410000000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/885725/000088572515000024/,"StockholdersEquityIncludingPortionAttributableToNoncontrollingInterest, MinorityInterest 태그 없음",9
+Boston Scientific,BSX,2015Q3,2015-09-30,분기말 종가,16.41,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/BSX?interval=1d&events=splits (2015-09-30),,9
+Boston Scientific,BSX,2015Q3,2015-10-30,분기말 상장주식수,1345195041,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/885725/000088572515000024/,dei:EntityCommonStockSharesOutstanding 클래스 합,9
+Boston Scientific,BSX,2015Q3,2015-09-30,분기말 시가총액,22074650623,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/BSX?interval=1d&events=splits (2015-09-30) ; https://www.sec.gov/Archives/edgar/data/885725/000088572515000024/,종가 16.41 × 주식수 1345195041,9
+Boston Scientific,BSX,2015Q4,2015-12-31,분기별 매출액,2158000000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/885725/000088572516000028/ ; https://www.sec.gov/Archives/edgar/data/885725/000088572515000024/,연간 8068000000 − 9개월누적 5910000000 (Revenues),9
+Boston Scientific,BSX,2015Q4,2015-12-31,분기별 영업이익,-227000000,USD,계산(연간-3분기누적)(재작성 반영),https://www.sec.gov/Archives/edgar/data/885725/000088572518000010/ ; https://www.sec.gov/Archives/edgar/data/885725/000088572515000024/,연간 -283000000 − 9개월누적 -56000000 (OperatingIncomeLoss) ; 원 공시 -271000000 (https://www.sec.gov/Archives/edgar/data/885725/000088572516000028/ ; https://www.sec.gov/Archives/edgar/data/885725/000088572515000024/),9
+Boston Scientific,BSX,2015Q4,2015-12-31,분기별 당기순이익(지배),-142000000,USD,"계산(연간-3분기누적, 비지배 없음)",https://www.sec.gov/Archives/edgar/data/885725/000088572516000028/ ; https://www.sec.gov/Archives/edgar/data/885725/000088572515000024/,연간 -239000000 − 9개월누적 -97000000 (ProfitLoss),9
+Boston Scientific,BSX,2015Q4,2015-12-31,분기별 영업활동현금흐름,420000000,USD,계산(누적차감)(재작성 반영),https://www.sec.gov/Archives/edgar/data/885725/000088572518000010/ ; https://www.sec.gov/Archives/edgar/data/885725/000088572515000024/,누적 691000000 − 직전누적 271000000 (시작 2015-01-01) ; 원 공시 329000000 (https://www.sec.gov/Archives/edgar/data/885725/000088572516000028/ ; https://www.sec.gov/Archives/edgar/data/885725/000088572515000024/),9
+Boston Scientific,BSX,2015Q4,2015-12-31,분기말 자산총계,18133000000,USD,공시,https://www.sec.gov/Archives/edgar/data/885725/000088572516000028/,,9
+Boston Scientific,BSX,2015Q4,2015-12-31,분기말 부채총계,11813000000,USD,계산(부채및자본-총자본),https://www.sec.gov/Archives/edgar/data/885725/000088572516000028/,부채및자본 18133000000 − 총자본 6320000000,9
+Boston Scientific,BSX,2015Q4,2015-12-31,분기말 총자본(자기자본),6320000000,USD,공시,https://www.sec.gov/Archives/edgar/data/885725/000088572516000028/,,9
+Boston Scientific,BSX,2015Q4,2015-12-31,분기말 지배지분 자본,6320000000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/885725/000088572516000028/,"StockholdersEquityIncludingPortionAttributableToNoncontrollingInterest, MinorityInterest 태그 없음",9
+Boston Scientific,BSX,2015Q4,2015-12-31,분기말 종가,18.44,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/BSX?interval=1d&events=splits (2015-12-31),,9
+Boston Scientific,BSX,2015Q4,2016-01-29,분기말 상장주식수,1348346253,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/885725/000088572516000028/,dei:EntityCommonStockSharesOutstanding 클래스 합,9
+Boston Scientific,BSX,2015Q4,2015-12-31,분기말 시가총액,24863504905,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/BSX?interval=1d&events=splits (2015-12-31) ; https://www.sec.gov/Archives/edgar/data/885725/000088572516000028/,종가 18.44 × 주식수 1348346253,9
+Boston Scientific,BSX,2016Q1,2016-03-31,분기별 매출액,1964000000,USD,공시,https://www.sec.gov/Archives/edgar/data/885725/000088572516000035/,,9
+Boston Scientific,BSX,2016Q1,2016-03-31,분기별 영업이익,293000000,USD,공시,https://www.sec.gov/Archives/edgar/data/885725/000088572516000035/,,9
+Boston Scientific,BSX,2016Q1,2016-03-31,분기별 당기순이익(지배),202000000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/885725/000088572516000035/,,9
+Boston Scientific,BSX,2016Q1,2016-03-31,분기별 영업활동현금흐름,116000000,USD,공시,https://www.sec.gov/Archives/edgar/data/885725/000088572516000035/,,9
+Boston Scientific,BSX,2016Q1,2016-03-31,분기말 자산총계,17718000000,USD,공시,https://www.sec.gov/Archives/edgar/data/885725/000088572516000035/,,9
+Boston Scientific,BSX,2016Q1,2016-03-31,분기말 부채총계,11261000000,USD,계산(부채및자본-총자본),https://www.sec.gov/Archives/edgar/data/885725/000088572516000035/,부채및자본 17718000000 − 총자본 6457000000,9
+Boston Scientific,BSX,2016Q1,2016-03-31,분기말 총자본(자기자본),6457000000,USD,공시,https://www.sec.gov/Archives/edgar/data/885725/000088572516000035/,,9
+Boston Scientific,BSX,2016Q1,2016-03-31,분기말 지배지분 자본,6457000000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/885725/000088572516000035/,"StockholdersEquityIncludingPortionAttributableToNoncontrollingInterest, MinorityInterest 태그 없음",9
+Boston Scientific,BSX,2016Q1,2016-03-31,분기말 종가,18.81,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/BSX?interval=1d&events=splits (2016-03-31),,9
+Boston Scientific,BSX,2016Q1,2016-04-29,분기말 상장주식수,1356866856,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/885725/000088572516000035/,dei:EntityCommonStockSharesOutstanding 클래스 합,9
+Boston Scientific,BSX,2016Q1,2016-03-31,분기말 시가총액,25522665561,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/BSX?interval=1d&events=splits (2016-03-31) ; https://www.sec.gov/Archives/edgar/data/885725/000088572516000035/,종가 18.81 × 주식수 1356866856,9
+Boston Scientific,BSX,2016Q2,2016-06-30,분기별 매출액,2127000000,USD,공시(재작성 반영),https://www.sec.gov/Archives/edgar/data/885725/000088572517000028/,원 공시 2288000000 (https://www.sec.gov/Archives/edgar/data/885725/000088572516000045/),9
+Boston Scientific,BSX,2016Q2,2016-06-30,분기별 영업이익,-334000000,USD,공시,https://www.sec.gov/Archives/edgar/data/885725/000088572516000045/,,9
+Boston Scientific,BSX,2016Q2,2016-06-30,분기별 당기순이익(지배),-207000000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/885725/000088572516000045/,,9
+Boston Scientific,BSX,2016Q2,2016-06-30,분기별 영업활동현금흐름,421000000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/885725/000088572516000045/ ; https://www.sec.gov/Archives/edgar/data/885725/000088572516000035/,누적 537000000 − 직전누적 116000000 (시작 2016-01-01),9
+Boston Scientific,BSX,2016Q2,2016-06-30,분기말 자산총계,17838000000,USD,공시,https://www.sec.gov/Archives/edgar/data/885725/000088572516000045/,,9
+Boston Scientific,BSX,2016Q2,2016-06-30,분기말 부채총계,11618000000,USD,계산(부채및자본-총자본),https://www.sec.gov/Archives/edgar/data/885725/000088572516000045/,부채및자본 17838000000 − 총자본 6220000000,9
+Boston Scientific,BSX,2016Q2,2016-06-30,분기말 총자본(자기자본),6220000000,USD,공시,https://www.sec.gov/Archives/edgar/data/885725/000088572516000045/,,9
+Boston Scientific,BSX,2016Q2,2016-06-30,분기말 지배지분 자본,6220000000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/885725/000088572516000045/,"StockholdersEquityIncludingPortionAttributableToNoncontrollingInterest, MinorityInterest 태그 없음",9
+Boston Scientific,BSX,2016Q2,2016-06-30,분기말 종가,23.37,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/BSX?interval=1d&events=splits (2016-06-30),,9
+Boston Scientific,BSX,2016Q2,2016-07-29,분기말 상장주식수,1360743339,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/885725/000088572516000045/,dei:EntityCommonStockSharesOutstanding 클래스 합,9
+Boston Scientific,BSX,2016Q2,2016-06-30,분기말 시가총액,31800571832,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/BSX?interval=1d&events=splits (2016-06-30) ; https://www.sec.gov/Archives/edgar/data/885725/000088572516000045/,종가 23.37 × 주식수 1360743339,9
+Boston Scientific,BSX,2016Q3,2016-09-30,분기별 매출액,2096000000,USD,공시(재작성 반영),https://www.sec.gov/Archives/edgar/data/885725/000088572517000037/,원 공시 2251000000 (https://www.sec.gov/Archives/edgar/data/885725/000088572516000053/),9
+Boston Scientific,BSX,2016Q3,2016-09-30,분기별 영업이익,348000000,USD,공시,https://www.sec.gov/Archives/edgar/data/885725/000088572516000053/,,9
+Boston Scientific,BSX,2016Q3,2016-09-30,분기별 당기순이익(지배),228000000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/885725/000088572516000053/,,9
+Boston Scientific,BSX,2016Q3,2016-09-30,분기별 영업활동현금흐름,-31000000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/885725/000088572516000053/ ; https://www.sec.gov/Archives/edgar/data/885725/000088572516000045/,누적 506000000 − 직전누적 537000000 (시작 2016-01-01),9
+Boston Scientific,BSX,2016Q3,2016-09-30,분기말 자산총계,17697000000,USD,공시,https://www.sec.gov/Archives/edgar/data/885725/000088572516000053/,,9
+Boston Scientific,BSX,2016Q3,2016-09-30,분기말 부채총계,11215000000,USD,계산(부채및자본-총자본),https://www.sec.gov/Archives/edgar/data/885725/000088572516000053/,부채및자본 17697000000 − 총자본 6482000000,9
+Boston Scientific,BSX,2016Q3,2016-09-30,분기말 총자본(자기자본),6482000000,USD,공시,https://www.sec.gov/Archives/edgar/data/885725/000088572516000053/,,9
+Boston Scientific,BSX,2016Q3,2016-09-30,분기말 지배지분 자본,6482000000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/885725/000088572516000053/,"StockholdersEquityIncludingPortionAttributableToNoncontrollingInterest, MinorityInterest 태그 없음",9
+Boston Scientific,BSX,2016Q3,2016-09-30,분기말 종가,23.8,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/BSX?interval=1d&events=splits (2016-09-30),,9
+Boston Scientific,BSX,2016Q3,2016-10-31,분기말 상장주식수,1361677050,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/885725/000088572516000053/,dei:EntityCommonStockSharesOutstanding 클래스 합,9
+Boston Scientific,BSX,2016Q3,2016-09-30,분기말 시가총액,32407913790,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/BSX?interval=1d&events=splits (2016-09-30) ; https://www.sec.gov/Archives/edgar/data/885725/000088572516000053/,종가 23.8 × 주식수 1361677050,9
+Boston Scientific,BSX,2016Q4,2016-12-31,분기별 매출액,2855000000,USD,계산(연간-3분기누적)(재작성 반영),https://www.sec.gov/Archives/edgar/data/885725/000088572517000006/ ; https://www.sec.gov/Archives/edgar/data/885725/000088572517000037/,연간 9076000000 − 9개월누적 6221000000 (Revenues) ; 원 공시 2390000000 (https://www.sec.gov/Archives/edgar/data/885725/000088572517000006/ ; https://www.sec.gov/Archives/edgar/data/885725/000088572516000053/),9
+Boston Scientific,BSX,2016Q4,2016-12-31,분기별 영업이익,140000000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/885725/000088572517000006/ ; https://www.sec.gov/Archives/edgar/data/885725/000088572516000053/,연간 447000000 − 9개월누적 307000000 (OperatingIncomeLoss),9
+Boston Scientific,BSX,2016Q4,2016-12-31,분기별 당기순이익(지배),124000000,USD,"계산(연간-3분기누적, 비지배 없음)",https://www.sec.gov/Archives/edgar/data/885725/000088572517000006/ ; https://www.sec.gov/Archives/edgar/data/885725/000088572516000053/,연간 347000000 − 9개월누적 223000000 (ProfitLoss),9
+Boston Scientific,BSX,2016Q4,2016-12-31,분기별 영업활동현금흐름,676000000,USD,계산(누적차감)(재작성 반영),https://www.sec.gov/Archives/edgar/data/885725/000088572519000011/ ; https://www.sec.gov/Archives/edgar/data/885725/000088572516000053/,누적 1182000000 − 직전누적 506000000 (시작 2016-01-01) ; 원 공시 466000000 (https://www.sec.gov/Archives/edgar/data/885725/000088572517000006/ ; https://www.sec.gov/Archives/edgar/data/885725/000088572516000053/),9
+Boston Scientific,BSX,2016Q4,2016-12-31,분기말 자산총계,18096000000,USD,공시,https://www.sec.gov/Archives/edgar/data/885725/000088572517000006/,,9
+Boston Scientific,BSX,2016Q4,2016-12-31,분기말 부채총계,11363000000,USD,계산(부채및자본-총자본),https://www.sec.gov/Archives/edgar/data/885725/000088572517000006/,부채및자본 18096000000 − 총자본 6733000000,9
+Boston Scientific,BSX,2016Q4,2016-12-31,분기말 총자본(자기자본),6733000000,USD,공시,https://www.sec.gov/Archives/edgar/data/885725/000088572517000006/,,9
+Boston Scientific,BSX,2016Q4,2016-12-31,분기말 지배지분 자본,6733000000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/885725/000088572517000006/,"StockholdersEquityIncludingPortionAttributableToNoncontrollingInterest, MinorityInterest 태그 없음",9
+Boston Scientific,BSX,2016Q4,2016-12-30,분기말 종가,21.63,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/BSX?interval=1d&events=splits (2016-12-30),,9
+Boston Scientific,BSX,2016Q4,2017-01-31,분기말 상장주식수,1363488640,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/885725/000088572517000006/,dei:EntityCommonStockSharesOutstanding 클래스 합,9
+Boston Scientific,BSX,2016Q4,2016-12-30,분기말 시가총액,29492259283,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/BSX?interval=1d&events=splits (2016-12-30) ; https://www.sec.gov/Archives/edgar/data/885725/000088572517000006/,종가 21.63 × 주식수 1363488640,9
+Boston Scientific,BSX,2017Q1,2017-03-31,분기별 매출액,2201000000,USD,공시,https://www.sec.gov/Archives/edgar/data/885725/000088572517000019/,,9
+Boston Scientific,BSX,2017Q1,2017-03-31,분기별 영업이익,364000000,USD,공시,https://www.sec.gov/Archives/edgar/data/885725/000088572517000019/,,9
+Boston Scientific,BSX,2017Q1,2017-03-31,분기별 당기순이익(지배),290000000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/885725/000088572517000019/,,9
+Boston Scientific,BSX,2017Q1,2017-03-31,분기별 영업활동현금흐름,-7000000,USD,공시(재작성 반영),https://www.sec.gov/Archives/edgar/data/885725/000088572518000021/,원 공시 114000000 (https://www.sec.gov/Archives/edgar/data/885725/000088572517000019/),9
+Boston Scientific,BSX,2017Q1,2017-03-31,분기말 자산총계,17943000000,USD,공시,https://www.sec.gov/Archives/edgar/data/885725/000088572517000019/,,9
+Boston Scientific,BSX,2017Q1,2017-03-31,분기말 부채총계,10890000000,USD,계산(부채및자본-총자본),https://www.sec.gov/Archives/edgar/data/885725/000088572517000019/,부채및자본 17943000000 − 총자본 7053000000,9
+Boston Scientific,BSX,2017Q1,2017-03-31,분기말 총자본(자기자본),7053000000,USD,공시,https://www.sec.gov/Archives/edgar/data/885725/000088572517000019/,,9
+Boston Scientific,BSX,2017Q1,2017-03-31,분기말 지배지분 자본,7053000000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/885725/000088572517000019/,"StockholdersEquityIncludingPortionAttributableToNoncontrollingInterest, MinorityInterest 태그 없음",9
+Boston Scientific,BSX,2017Q1,2017-03-31,분기말 종가,24.87,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/BSX?interval=1d&events=splits (2017-03-31),,9
+Boston Scientific,BSX,2017Q1,2017-04-28,분기말 상장주식수,1369401733,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/885725/000088572517000019/,dei:EntityCommonStockSharesOutstanding 클래스 합,9
+Boston Scientific,BSX,2017Q1,2017-03-31,분기말 시가총액,34057021100,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/BSX?interval=1d&events=splits (2017-03-31) ; https://www.sec.gov/Archives/edgar/data/885725/000088572517000019/,종가 24.87 × 주식수 1369401733,9
+Boston Scientific,BSX,2017Q2,2017-06-30,분기별 매출액,2281000000,USD,공시,https://www.sec.gov/Archives/edgar/data/885725/000088572517000028/,,9
+Boston Scientific,BSX,2017Q2,2017-06-30,분기별 영업이익,225000000,USD,공시,https://www.sec.gov/Archives/edgar/data/885725/000088572517000028/,,9
+Boston Scientific,BSX,2017Q2,2017-06-30,분기별 당기순이익(지배),146000000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/885725/000088572517000028/,,9
+Boston Scientific,BSX,2017Q2,2017-06-30,분기별 영업활동현금흐름,306000000,USD,계산(누적차감)(재작성 반영),https://www.sec.gov/Archives/edgar/data/885725/000088572517000028/ ; https://www.sec.gov/Archives/edgar/data/885725/000088572518000021/,누적 299000000 − 직전누적 -7000000 (시작 2017-01-01) ; 원 공시 185000000 (https://www.sec.gov/Archives/edgar/data/885725/000088572517000028/ ; https://www.sec.gov/Archives/edgar/data/885725/000088572517000019/),9
+Boston Scientific,BSX,2017Q2,2017-06-30,분기말 자산총계,18382000000,USD,공시,https://www.sec.gov/Archives/edgar/data/885725/000088572517000028/,,9
+Boston Scientific,BSX,2017Q2,2017-06-30,분기말 부채총계,11147000000,USD,계산(부채및자본-총자본),https://www.sec.gov/Archives/edgar/data/885725/000088572517000028/,부채및자본 18382000000 − 총자본 7235000000,9
+Boston Scientific,BSX,2017Q2,2017-06-30,분기말 총자본(자기자본),7235000000,USD,공시,https://www.sec.gov/Archives/edgar/data/885725/000088572517000028/,,9
+Boston Scientific,BSX,2017Q2,2017-06-30,분기말 지배지분 자본,7235000000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/885725/000088572517000028/,"StockholdersEquityIncludingPortionAttributableToNoncontrollingInterest, MinorityInterest 태그 없음",9
+Boston Scientific,BSX,2017Q2,2017-06-30,분기말 종가,27.72,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/BSX?interval=1d&events=splits (2017-06-30),,9
+Boston Scientific,BSX,2017Q2,2017-07-31,분기말 상장주식수,1372127044,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/885725/000088572517000028/,dei:EntityCommonStockSharesOutstanding 클래스 합,9
+Boston Scientific,BSX,2017Q2,2017-06-30,분기말 시가총액,38035361660,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/BSX?interval=1d&events=splits (2017-06-30) ; https://www.sec.gov/Archives/edgar/data/885725/000088572517000028/,종가 27.72 × 주식수 1372127044,9
+Boston Scientific,BSX,2017Q3,2017-09-30,분기별 매출액,2216000000,USD,공시,https://www.sec.gov/Archives/edgar/data/885725/000088572517000037/,,9
+Boston Scientific,BSX,2017Q3,2017-09-30,분기별 영업이익,377000000,USD,공시,https://www.sec.gov/Archives/edgar/data/885725/000088572517000037/,,9
+Boston Scientific,BSX,2017Q3,2017-09-30,분기별 당기순이익(지배),283000000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/885725/000088572517000037/,,9
+Boston Scientific,BSX,2017Q3,2017-09-30,분기별 영업활동현금흐름,443000000,USD,계산(누적차감)(재작성 반영),https://www.sec.gov/Archives/edgar/data/885725/000088572518000045/ ; https://www.sec.gov/Archives/edgar/data/885725/000088572517000028/,누적 742000000 − 직전누적 299000000 (시작 2017-01-01) ; 원 공시 255000000 (https://www.sec.gov/Archives/edgar/data/885725/000088572517000037/ ; https://www.sec.gov/Archives/edgar/data/885725/000088572517000028/),9
+Boston Scientific,BSX,2017Q3,2017-09-30,분기말 자산총계,18636000000,USD,공시,https://www.sec.gov/Archives/edgar/data/885725/000088572517000037/,,9
+Boston Scientific,BSX,2017Q3,2017-09-30,분기말 부채총계,11048000000,USD,계산(부채및자본-총자본),https://www.sec.gov/Archives/edgar/data/885725/000088572517000037/,부채및자본 18636000000 − 총자본 7588000000,9
+Boston Scientific,BSX,2017Q3,2017-09-30,분기말 총자본(자기자본),7588000000,USD,공시,https://www.sec.gov/Archives/edgar/data/885725/000088572517000037/,,9
+Boston Scientific,BSX,2017Q3,2017-09-30,분기말 지배지분 자본,7588000000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/885725/000088572517000037/,"StockholdersEquityIncludingPortionAttributableToNoncontrollingInterest, MinorityInterest 태그 없음",9
+Boston Scientific,BSX,2017Q3,2017-09-29,분기말 종가,29.17,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/BSX?interval=1d&events=splits (2017-09-29),,9
+Boston Scientific,BSX,2017Q3,2017-10-31,분기말 상장주식수,1373195517,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/885725/000088572517000037/,dei:EntityCommonStockSharesOutstanding 클래스 합,9
+Boston Scientific,BSX,2017Q3,2017-09-29,분기말 시가총액,40056113231,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/BSX?interval=1d&events=splits (2017-09-29) ; https://www.sec.gov/Archives/edgar/data/885725/000088572517000037/,종가 29.17 × 주식수 1373195517,9
+Boston Scientific,BSX,2017Q4,2017-12-31,분기별 매출액,미확인,USD,미확인,https://www.sec.gov/Archives/edgar/data/885725/000088572518000010/,연간 태그(SalesRevenueNet)가 1~3분기 태그(Revenues)와 다르고 9개월 누적도 다르다 (6640000000 vs 6700000000),9
+Boston Scientific,BSX,2017Q4,2017-12-31,분기별 영업이익,318000000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/885725/000088572518000010/ ; https://www.sec.gov/Archives/edgar/data/885725/000088572517000037/,연간 1285000000 − 9개월누적 967000000 (OperatingIncomeLoss),9
+Boston Scientific,BSX,2017Q4,2017-12-31,분기별 당기순이익(지배),-615000000,USD,"계산(연간-3분기누적, 비지배 없음)",https://www.sec.gov/Archives/edgar/data/885725/000088572518000010/ ; https://www.sec.gov/Archives/edgar/data/885725/000088572517000037/,연간 104000000 − 9개월누적 719000000 (ProfitLoss),9
+Boston Scientific,BSX,2017Q4,2017-12-31,분기별 영업활동현금흐름,684000000,USD,계산(누적차감)(재작성 반영),https://www.sec.gov/Archives/edgar/data/885725/000088572518000010/ ; https://www.sec.gov/Archives/edgar/data/885725/000088572518000045/,누적 1426000000 − 직전누적 742000000 (시작 2017-01-01) ; 원 공시 872000000 (https://www.sec.gov/Archives/edgar/data/885725/000088572518000010/ ; https://www.sec.gov/Archives/edgar/data/885725/000088572517000037/),9
+Boston Scientific,BSX,2017Q4,2017-12-31,분기말 자산총계,19042000000,USD,공시,https://www.sec.gov/Archives/edgar/data/885725/000088572518000010/,,9
+Boston Scientific,BSX,2017Q4,2017-12-31,분기말 부채총계,12030000000,USD,계산(부채및자본-총자본),https://www.sec.gov/Archives/edgar/data/885725/000088572518000010/,부채및자본 19042000000 − 총자본 7012000000,9
+Boston Scientific,BSX,2017Q4,2017-12-31,분기말 총자본(자기자본),7012000000,USD,공시,https://www.sec.gov/Archives/edgar/data/885725/000088572518000010/,,9
+Boston Scientific,BSX,2017Q4,2017-12-31,분기말 지배지분 자본,7012000000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/885725/000088572518000010/,"StockholdersEquityIncludingPortionAttributableToNoncontrollingInterest, MinorityInterest 태그 없음",9
+Boston Scientific,BSX,2017Q4,2017-12-29,분기말 종가,24.79,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/BSX?interval=1d&events=splits (2017-12-29),,9
+Boston Scientific,BSX,2017Q4,2018-01-31,분기말 상장주식수,1374910797,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/885725/000088572518000010/,dei:EntityCommonStockSharesOutstanding 클래스 합,9
+Boston Scientific,BSX,2017Q4,2017-12-29,분기말 시가총액,34084038658,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/BSX?interval=1d&events=splits (2017-12-29) ; https://www.sec.gov/Archives/edgar/data/885725/000088572518000010/,종가 24.79 × 주식수 1374910797,9
+Boston Scientific,BSX,2018Q1,2018-03-31,분기별 매출액,2379000000,USD,공시,https://www.sec.gov/Archives/edgar/data/885725/000088572518000021/,,9
+Boston Scientific,BSX,2018Q1,2018-03-31,분기별 영업이익,407000000,USD,공시,https://www.sec.gov/Archives/edgar/data/885725/000088572518000021/,,9
+Boston Scientific,BSX,2018Q1,2018-03-31,분기별 당기순이익(지배),298000000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/885725/000088572518000021/,,9
+Boston Scientific,BSX,2018Q1,2018-03-31,분기별 영업활동현금흐름,193000000,USD,공시,https://www.sec.gov/Archives/edgar/data/885725/000088572518000021/,,9
+Boston Scientific,BSX,2018Q1,2018-03-31,분기말 자산총계,19202000000,USD,공시,https://www.sec.gov/Archives/edgar/data/885725/000088572518000021/,,9
+Boston Scientific,BSX,2018Q1,2018-03-31,분기말 부채총계,12172000000,USD,계산(부채및자본-총자본),https://www.sec.gov/Archives/edgar/data/885725/000088572518000021/,부채및자본 19202000000 − 총자본 7030000000,9
+Boston Scientific,BSX,2018Q1,2018-03-31,분기말 총자본(자기자본),7030000000,USD,공시,https://www.sec.gov/Archives/edgar/data/885725/000088572518000021/,,9
+Boston Scientific,BSX,2018Q1,2018-03-31,분기말 지배지분 자본,7030000000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/885725/000088572518000021/,"StockholdersEquityIncludingPortionAttributableToNoncontrollingInterest, MinorityInterest 태그 없음",9
+Boston Scientific,BSX,2018Q1,2018-03-29,분기말 종가,27.32,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/BSX?interval=1d&events=splits (2018-03-29),,9
+Boston Scientific,BSX,2018Q1,2018-04-25,분기말 상장주식수,1379810502,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/885725/000088572518000021/,dei:EntityCommonStockSharesOutstanding 클래스 합,9
+Boston Scientific,BSX,2018Q1,2018-03-29,분기말 시가총액,37696422915,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/BSX?interval=1d&events=splits (2018-03-29) ; https://www.sec.gov/Archives/edgar/data/885725/000088572518000021/,종가 27.32 × 주식수 1379810502,9
+Boston Scientific,BSX,2018Q2,2018-06-30,분기별 매출액,2490000000,USD,공시,https://www.sec.gov/Archives/edgar/data/885725/000088572518000032/,,9
+Boston Scientific,BSX,2018Q2,2018-06-30,분기별 영업이익,392000000,USD,공시,https://www.sec.gov/Archives/edgar/data/885725/000088572518000032/,,9
+Boston Scientific,BSX,2018Q2,2018-06-30,분기별 당기순이익(지배),555000000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/885725/000088572518000032/,,9
+Boston Scientific,BSX,2018Q2,2018-06-30,분기별 영업활동현금흐름,-403000000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/885725/000088572518000032/ ; https://www.sec.gov/Archives/edgar/data/885725/000088572518000021/,누적 -210000000 − 직전누적 193000000 (시작 2018-01-01),9
+Boston Scientific,BSX,2018Q2,2018-06-30,분기말 자산총계,19615000000,USD,공시,https://www.sec.gov/Archives/edgar/data/885725/000088572518000032/,,9
+Boston Scientific,BSX,2018Q2,2018-06-30,분기말 부채총계,11871000000,USD,계산(부채및자본-총자본),https://www.sec.gov/Archives/edgar/data/885725/000088572518000032/,부채및자본 19615000000 − 총자본 7744000000,9
+Boston Scientific,BSX,2018Q2,2018-06-30,분기말 총자본(자기자본),7744000000,USD,공시,https://www.sec.gov/Archives/edgar/data/885725/000088572518000032/,,9
+Boston Scientific,BSX,2018Q2,2018-06-30,분기말 지배지분 자본,7744000000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/885725/000088572518000032/,"StockholdersEquityIncludingPortionAttributableToNoncontrollingInterest, MinorityInterest 태그 없음",9
+Boston Scientific,BSX,2018Q2,2018-06-29,분기말 종가,32.7,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/BSX?interval=1d&events=splits (2018-06-29),,9
+Boston Scientific,BSX,2018Q2,2018-07-25,분기말 상장주식수,1382924777,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/885725/000088572518000032/,dei:EntityCommonStockSharesOutstanding 클래스 합,9
+Boston Scientific,BSX,2018Q2,2018-06-29,분기말 시가총액,45221640208,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/BSX?interval=1d&events=splits (2018-06-29) ; https://www.sec.gov/Archives/edgar/data/885725/000088572518000032/,종가 32.7 × 주식수 1382924777,9
+Boston Scientific,BSX,2018Q3,2018-09-30,분기별 매출액,2393000000,USD,공시,https://www.sec.gov/Archives/edgar/data/885725/000088572518000045/,,9
+Boston Scientific,BSX,2018Q3,2018-09-30,분기별 영업이익,388000000,USD,공시,https://www.sec.gov/Archives/edgar/data/885725/000088572518000045/,,9
+Boston Scientific,BSX,2018Q3,2018-09-30,분기별 당기순이익(지배),432000000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/885725/000088572518000045/,,9
+Boston Scientific,BSX,2018Q3,2018-09-30,분기별 영업활동현금흐름,501000000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/885725/000088572518000045/ ; https://www.sec.gov/Archives/edgar/data/885725/000088572518000032/,누적 291000000 − 직전누적 -210000000 (시작 2018-01-01),9
+Boston Scientific,BSX,2018Q3,2018-09-30,분기말 자산총계,20379000000,USD,공시,https://www.sec.gov/Archives/edgar/data/885725/000088572518000045/,,9
+Boston Scientific,BSX,2018Q3,2018-09-30,분기말 부채총계,12090000000,USD,계산(부채및자본-총자본),https://www.sec.gov/Archives/edgar/data/885725/000088572518000045/,부채및자본 20379000000 − 총자본 8289000000,9
+Boston Scientific,BSX,2018Q3,2018-09-30,분기말 총자본(자기자본),8289000000,USD,공시,https://www.sec.gov/Archives/edgar/data/885725/000088572518000045/,,9
+Boston Scientific,BSX,2018Q3,2018-09-30,분기말 지배지분 자본,8289000000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/885725/000088572518000045/,"StockholdersEquityIncludingPortionAttributableToNoncontrollingInterest, MinorityInterest 태그 없음",9
+Boston Scientific,BSX,2018Q3,2018-09-28,분기말 종가,38.5,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/BSX?interval=1d&events=splits (2018-09-28),,9
+Boston Scientific,BSX,2018Q3,2018-10-23,분기말 상장주식수,1383800781,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/885725/000088572518000045/,dei:EntityCommonStockSharesOutstanding 클래스 합,9
+Boston Scientific,BSX,2018Q3,2018-09-28,분기말 시가총액,53276330068,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/BSX?interval=1d&events=splits (2018-09-28) ; https://www.sec.gov/Archives/edgar/data/885725/000088572518000045/,종가 38.5 × 주식수 1383800781,9
+Boston Scientific,BSX,2018Q4,2018-12-31,분기별 매출액,2561000000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/885725/000088572519000011/ ; https://www.sec.gov/Archives/edgar/data/885725/000088572518000045/,연간 9823000000 − 9개월누적 7262000000 (RevenueFromContractWithCustomerExcludingAssessedTax),9
+Boston Scientific,BSX,2018Q4,2018-12-31,분기별 영업이익,319000000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/885725/000088572519000011/ ; https://www.sec.gov/Archives/edgar/data/885725/000088572518000045/,연간 1506000000 − 9개월누적 1187000000 (OperatingIncomeLoss),9
+Boston Scientific,BSX,2018Q4,2018-12-31,분기별 당기순이익(지배),386000000,USD,"계산(연간-3분기누적, 비지배 없음)",https://www.sec.gov/Archives/edgar/data/885725/000088572519000011/ ; https://www.sec.gov/Archives/edgar/data/885725/000088572518000045/,연간 1671000000 − 9개월누적 1285000000 (ProfitLoss),9
+Boston Scientific,BSX,2018Q4,2018-12-31,분기별 영업활동현금흐름,19000000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/885725/000088572519000011/ ; https://www.sec.gov/Archives/edgar/data/885725/000088572518000045/,누적 310000000 − 직전누적 291000000 (시작 2018-01-01),9
+Boston Scientific,BSX,2018Q4,2018-12-31,분기말 자산총계,20999000000,USD,공시,https://www.sec.gov/Archives/edgar/data/885725/000088572519000011/,,9
+Boston Scientific,BSX,2018Q4,2018-12-31,분기말 부채총계,12273000000,USD,계산(부채및자본-총자본),https://www.sec.gov/Archives/edgar/data/885725/000088572519000011/,부채및자본 20999000000 − 총자본 8726000000,9
+Boston Scientific,BSX,2018Q4,2018-12-31,분기말 총자본(자기자본),8726000000,USD,공시,https://www.sec.gov/Archives/edgar/data/885725/000088572519000011/,,9
+Boston Scientific,BSX,2018Q4,2018-12-31,분기말 지배지분 자본,8726000000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/885725/000088572519000011/,"StockholdersEquityIncludingPortionAttributableToNoncontrollingInterest, MinorityInterest 태그 없음",9
+Boston Scientific,BSX,2018Q4,2018-12-31,분기말 종가,35.34,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/BSX?interval=1d&events=splits (2018-12-31),,9
+Boston Scientific,BSX,2018Q4,2019-01-31,분기말 상장주식수,1385961926,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/885725/000088572519000011/,dei:EntityCommonStockSharesOutstanding 클래스 합,9
+Boston Scientific,BSX,2018Q4,2018-12-31,분기말 시가총액,48979894465,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/BSX?interval=1d&events=splits (2018-12-31) ; https://www.sec.gov/Archives/edgar/data/885725/000088572519000011/,종가 35.34 × 주식수 1385961926,9
+Boston Scientific,BSX,2019Q1,2019-03-31,분기별 매출액,2493000000,USD,공시,https://www.sec.gov/Archives/edgar/data/885725/000088572519000024/,,9
+Boston Scientific,BSX,2019Q1,2019-03-31,분기별 영업이익,541000000,USD,공시,https://www.sec.gov/Archives/edgar/data/885725/000088572519000024/,,9
+Boston Scientific,BSX,2019Q1,2019-03-31,분기별 당기순이익(지배),424000000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/885725/000088572519000024/,,9
+Boston Scientific,BSX,2019Q1,2019-03-31,분기별 영업활동현금흐름,350000000,USD,공시,https://www.sec.gov/Archives/edgar/data/885725/000088572519000024/,,9
+Boston Scientific,BSX,2019Q1,2019-03-31,분기말 자산총계,23802000000,USD,공시,https://www.sec.gov/Archives/edgar/data/885725/000088572519000024/,,9
+Boston Scientific,BSX,2019Q1,2019-03-31,분기말 부채총계,14569000000,USD,계산(부채및자본-총자본),https://www.sec.gov/Archives/edgar/data/885725/000088572519000024/,부채및자본 23802000000 − 총자본 9233000000,9
+Boston Scientific,BSX,2019Q1,2019-03-31,분기말 총자본(자기자본),9233000000,USD,공시,https://www.sec.gov/Archives/edgar/data/885725/000088572519000024/,,9
+Boston Scientific,BSX,2019Q1,2019-03-31,분기말 지배지분 자본,9233000000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/885725/000088572519000024/,"StockholdersEquityIncludingPortionAttributableToNoncontrollingInterest, MinorityInterest 태그 없음",9
+Boston Scientific,BSX,2019Q1,2019-03-29,분기말 종가,38.38,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/BSX?interval=1d&events=splits (2019-03-29),,9
+Boston Scientific,BSX,2019Q1,2019-04-23,분기말 상장주식수,1390652506,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/885725/000088572519000024/,dei:EntityCommonStockSharesOutstanding 클래스 합,9
+Boston Scientific,BSX,2019Q1,2019-03-29,분기말 시가총액,53373243180,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/BSX?interval=1d&events=splits (2019-03-29) ; https://www.sec.gov/Archives/edgar/data/885725/000088572519000024/,종가 38.38 × 주식수 1390652506,9
+Boston Scientific,BSX,2019Q2,2019-06-30,분기별 매출액,2631000000,USD,공시,https://www.sec.gov/Archives/edgar/data/885725/000088572519000040/,,9
+Boston Scientific,BSX,2019Q2,2019-06-30,분기별 영업이익,384000000,USD,공시,https://www.sec.gov/Archives/edgar/data/885725/000088572519000040/,,9
+Boston Scientific,BSX,2019Q2,2019-06-30,분기별 당기순이익(지배),154000000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/885725/000088572519000040/,,9
+Boston Scientific,BSX,2019Q2,2019-06-30,분기별 영업활동현금흐름,292000000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/885725/000088572519000040/ ; https://www.sec.gov/Archives/edgar/data/885725/000088572519000024/,누적 642000000 − 직전누적 350000000 (시작 2019-01-01),9
+Boston Scientific,BSX,2019Q2,2019-06-30,분기말 자산총계,24309000000,USD,공시,https://www.sec.gov/Archives/edgar/data/885725/000088572519000040/,,9
+Boston Scientific,BSX,2019Q2,2019-06-30,분기말 부채총계,14884000000,USD,계산(부채및자본-총자본),https://www.sec.gov/Archives/edgar/data/885725/000088572519000040/,부채및자본 24309000000 − 총자본 9425000000,9
+Boston Scientific,BSX,2019Q2,2019-06-30,분기말 총자본(자기자본),9425000000,USD,공시,https://www.sec.gov/Archives/edgar/data/885725/000088572519000040/,,9
+Boston Scientific,BSX,2019Q2,2019-06-30,분기말 지배지분 자본,9425000000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/885725/000088572519000040/,"StockholdersEquityIncludingPortionAttributableToNoncontrollingInterest, MinorityInterest 태그 없음",9
+Boston Scientific,BSX,2019Q2,2019-06-28,분기말 종가,42.98,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/BSX?interval=1d&events=splits (2019-06-28),,9
+Boston Scientific,BSX,2019Q2,2019-07-23,분기말 상장주식수,1392973426,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/885725/000088572519000040/,dei:EntityCommonStockSharesOutstanding 클래스 합,9
+Boston Scientific,BSX,2019Q2,2019-06-28,분기말 시가총액,59869997849,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/BSX?interval=1d&events=splits (2019-06-28) ; https://www.sec.gov/Archives/edgar/data/885725/000088572519000040/,종가 42.98 × 주식수 1392973426,9
+Boston Scientific,BSX,2019Q3,2019-09-30,분기별 매출액,2707000000,USD,공시,https://www.sec.gov/Archives/edgar/data/885725/000088572519000045/,,9
+Boston Scientific,BSX,2019Q3,2019-09-30,분기별 영업이익,383000000,USD,공시,https://www.sec.gov/Archives/edgar/data/885725/000088572519000045/,,9
+Boston Scientific,BSX,2019Q3,2019-09-30,분기별 당기순이익(지배),126000000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/885725/000088572519000045/,,9
+Boston Scientific,BSX,2019Q3,2019-09-30,분기별 영업활동현금흐름,502000000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/885725/000088572519000045/ ; https://www.sec.gov/Archives/edgar/data/885725/000088572519000040/,누적 1144000000 − 직전누적 642000000 (시작 2019-01-01),9
+Boston Scientific,BSX,2019Q3,2019-09-30,분기말 자산총계,26756000000,USD,공시,https://www.sec.gov/Archives/edgar/data/885725/000088572519000045/,,9
+Boston Scientific,BSX,2019Q3,2019-09-30,분기말 부채총계,17057000000,USD,계산(부채및자본-총자본),https://www.sec.gov/Archives/edgar/data/885725/000088572519000045/,부채및자본 26756000000 − 총자본 9699000000,9
+Boston Scientific,BSX,2019Q3,2019-09-30,분기말 총자본(자기자본),9699000000,USD,공시,https://www.sec.gov/Archives/edgar/data/885725/000088572519000045/,,9
+Boston Scientific,BSX,2019Q3,2019-09-30,분기말 지배지분 자본,9699000000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/885725/000088572519000045/,"StockholdersEquityIncludingPortionAttributableToNoncontrollingInterest, MinorityInterest 태그 없음",9
+Boston Scientific,BSX,2019Q3,2019-09-30,분기말 종가,40.69,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/BSX?interval=1d&events=splits (2019-09-30),,9
+Boston Scientific,BSX,2019Q3,2019-10-22,분기말 상장주식수,1393823592,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/885725/000088572519000045/,dei:EntityCommonStockSharesOutstanding 클래스 합,9
+Boston Scientific,BSX,2019Q3,2019-09-30,분기말 시가총액,56714681958,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/BSX?interval=1d&events=splits (2019-09-30) ; https://www.sec.gov/Archives/edgar/data/885725/000088572519000045/,종가 40.69 × 주식수 1393823592,9
+Boston Scientific,BSX,2019Q4,2019-12-31,분기별 매출액,2904000000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/885725/000088572520000012/ ; https://www.sec.gov/Archives/edgar/data/885725/000088572519000045/,연간 10735000000 − 9개월누적 7831000000 (RevenueFromContractWithCustomerExcludingAssessedTax),9
+Boston Scientific,BSX,2019Q4,2019-12-31,분기별 영업이익,210000000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/885725/000088572520000012/ ; https://www.sec.gov/Archives/edgar/data/885725/000088572519000045/,연간 1518000000 − 9개월누적 1308000000 (OperatingIncomeLoss),9
+Boston Scientific,BSX,2019Q4,2019-12-31,분기별 당기순이익(지배),3996000000,USD,"계산(연간-3분기누적, 비지배 없음)",https://www.sec.gov/Archives/edgar/data/885725/000088572520000012/ ; https://www.sec.gov/Archives/edgar/data/885725/000088572519000045/,연간 4700000000 − 9개월누적 704000000 (ProfitLoss),9
+Boston Scientific,BSX,2019Q4,2019-12-31,분기별 영업활동현금흐름,692000000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/885725/000088572520000012/ ; https://www.sec.gov/Archives/edgar/data/885725/000088572519000045/,누적 1836000000 − 직전누적 1144000000 (시작 2019-01-01),9
+Boston Scientific,BSX,2019Q4,2019-12-31,분기말 자산총계,30565000000,USD,공시,https://www.sec.gov/Archives/edgar/data/885725/000088572520000012/,,9
+Boston Scientific,BSX,2019Q4,2019-12-31,분기말 부채총계,16688000000,USD,계산(부채및자본-총자본),https://www.sec.gov/Archives/edgar/data/885725/000088572520000012/,부채및자본 30565000000 − 총자본 13877000000,9
+Boston Scientific,BSX,2019Q4,2019-12-31,분기말 총자본(자기자본),13877000000,USD,공시,https://www.sec.gov/Archives/edgar/data/885725/000088572520000012/,,9
+Boston Scientific,BSX,2019Q4,2019-12-31,분기말 지배지분 자본,13877000000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/885725/000088572520000012/,"StockholdersEquityIncludingPortionAttributableToNoncontrollingInterest, MinorityInterest 태그 없음",9
+Boston Scientific,BSX,2019Q4,2019-12-31,분기말 종가,45.22,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/BSX?interval=1d&events=splits (2019-12-31),,9
+Boston Scientific,BSX,2019Q4,2020-01-31,분기말 상장주식수,1396195349,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/885725/000088572520000012/,dei:EntityCommonStockSharesOutstanding 클래스 합,9
+Boston Scientific,BSX,2019Q4,2019-12-31,분기말 시가총액,63135953682,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/BSX?interval=1d&events=splits (2019-12-31) ; https://www.sec.gov/Archives/edgar/data/885725/000088572520000012/,종가 45.22 × 주식수 1396195349,9
+Boston Scientific,BSX,2020Q1,2020-03-31,분기별 매출액,2543000000,USD,공시,https://www.sec.gov/Archives/edgar/data/885725/000088572520000022/,,9
+Boston Scientific,BSX,2020Q1,2020-03-31,분기별 영업이익,146000000,USD,공시,https://www.sec.gov/Archives/edgar/data/885725/000088572520000022/,,9
+Boston Scientific,BSX,2020Q1,2020-03-31,분기별 당기순이익(지배),11000000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/885725/000088572520000022/,,9
+Boston Scientific,BSX,2020Q1,2020-03-31,분기별 영업활동현금흐름,-77000000,USD,공시,https://www.sec.gov/Archives/edgar/data/885725/000088572520000022/,,9
+Boston Scientific,BSX,2020Q1,2020-03-31,분기말 자산총계,30113000000,USD,공시,https://www.sec.gov/Archives/edgar/data/885725/000088572520000022/,,9
+Boston Scientific,BSX,2020Q1,2020-03-31,분기말 부채총계,16309000000,USD,계산(부채및자본-총자본),https://www.sec.gov/Archives/edgar/data/885725/000088572520000022/,부채및자본 30113000000 − 총자본 13804000000,9
+Boston Scientific,BSX,2020Q1,2020-03-31,분기말 총자본(자기자본),13804000000,USD,공시,https://www.sec.gov/Archives/edgar/data/885725/000088572520000022/,,9
+Boston Scientific,BSX,2020Q1,2020-03-31,분기말 지배지분 자본,13804000000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/885725/000088572520000022/,"StockholdersEquityIncludingPortionAttributableToNoncontrollingInterest, MinorityInterest 태그 없음",9
+Boston Scientific,BSX,2020Q1,2020-03-31,분기말 종가,32.63,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/BSX?interval=1d&events=splits (2020-03-31),,9
+Boston Scientific,BSX,2020Q1,2020-04-30,분기말 상장주식수,1399350122,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/885725/000088572520000022/,dei:EntityCommonStockSharesOutstanding 클래스 합,9
+Boston Scientific,BSX,2020Q1,2020-03-31,분기말 시가총액,45660794481,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/BSX?interval=1d&events=splits (2020-03-31) ; https://www.sec.gov/Archives/edgar/data/885725/000088572520000022/,종가 32.63 × 주식수 1399350122,9
+Boston Scientific,BSX,2020Q2,2020-06-30,분기별 매출액,2003000000,USD,공시,https://www.sec.gov/Archives/edgar/data/885725/000088572520000036/,,9
+Boston Scientific,BSX,2020Q2,2020-06-30,분기별 영업이익,-71000000,USD,공시,https://www.sec.gov/Archives/edgar/data/885725/000088572520000036/,,9
+Boston Scientific,BSX,2020Q2,2020-06-30,분기별 당기순이익(지배),-147000000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/885725/000088572520000036/,,9
+Boston Scientific,BSX,2020Q2,2020-06-30,분기별 영업활동현금흐름,269000000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/885725/000088572520000036/ ; https://www.sec.gov/Archives/edgar/data/885725/000088572520000022/,누적 192000000 − 직전누적 -77000000 (시작 2020-01-01),9
+Boston Scientific,BSX,2020Q2,2020-06-30,분기말 자산총계,30823000000,USD,공시,https://www.sec.gov/Archives/edgar/data/885725/000088572520000036/,,9
+Boston Scientific,BSX,2020Q2,2020-06-30,분기말 부채총계,15207000000,USD,계산(부채및자본-총자본),https://www.sec.gov/Archives/edgar/data/885725/000088572520000036/,부채및자본 30823000000 − 총자본 15616000000,9
+Boston Scientific,BSX,2020Q2,2020-06-30,분기말 총자본(자기자본),15616000000,USD,공시,https://www.sec.gov/Archives/edgar/data/885725/000088572520000036/,,9
+Boston Scientific,BSX,2020Q2,2020-06-30,분기말 지배지분 자본,15616000000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/885725/000088572520000036/,"StockholdersEquityIncludingPortionAttributableToNoncontrollingInterest, MinorityInterest 태그 없음",9
+Boston Scientific,BSX,2020Q2,2020-06-30,분기말 종가,35.11,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/BSX?interval=1d&events=splits (2020-06-30),,9
+Boston Scientific,BSX,2020Q2,2020-07-31,분기말 상장주식수,1430674668,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/885725/000088572520000036/,dei:EntityCommonStockSharesOutstanding 클래스 합,9
+Boston Scientific,BSX,2020Q2,2020-06-30,분기말 시가총액,50230987593,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/BSX?interval=1d&events=splits (2020-06-30) ; https://www.sec.gov/Archives/edgar/data/885725/000088572520000036/,종가 35.11 × 주식수 1430674668,9
+Boston Scientific,BSX,2020Q3,2020-09-30,분기별 매출액,2659000000,USD,공시,https://www.sec.gov/Archives/edgar/data/885725/000088572520000044/,,9
+Boston Scientific,BSX,2020Q3,2020-09-30,분기별 영업이익,-205000000,USD,공시,https://www.sec.gov/Archives/edgar/data/885725/000088572520000044/,,9
+Boston Scientific,BSX,2020Q3,2020-09-30,분기별 당기순이익(지배),-155000000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/885725/000088572520000044/,,9
+Boston Scientific,BSX,2020Q3,2020-09-30,분기별 영업활동현금흐름,643000000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/885725/000088572520000044/ ; https://www.sec.gov/Archives/edgar/data/885725/000088572520000036/,누적 835000000 − 직전누적 192000000 (시작 2020-01-01),9
+Boston Scientific,BSX,2020Q3,2020-09-30,분기말 자산총계,30845000000,USD,공시,https://www.sec.gov/Archives/edgar/data/885725/000088572520000044/,,9
+Boston Scientific,BSX,2020Q3,2020-09-30,분기말 부채총계,15281000000,USD,계산(부채및자본-총자본),https://www.sec.gov/Archives/edgar/data/885725/000088572520000044/,부채및자본 30845000000 − 총자본 15564000000,9
+Boston Scientific,BSX,2020Q3,2020-09-30,분기말 총자본(자기자본),15564000000,USD,공시,https://www.sec.gov/Archives/edgar/data/885725/000088572520000044/,,9
+Boston Scientific,BSX,2020Q3,2020-09-30,분기말 지배지분 자본,15564000000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/885725/000088572520000044/,"StockholdersEquityIncludingPortionAttributableToNoncontrollingInterest, MinorityInterest 태그 없음",9
+Boston Scientific,BSX,2020Q3,2020-09-30,분기말 종가,38.21,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/BSX?interval=1d&events=splits (2020-09-30),,9
+Boston Scientific,BSX,2020Q3,2020-10-30,분기말 상장주식수,1431921459,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/885725/000088572520000044/,dei:EntityCommonStockSharesOutstanding 클래스 합,9
+Boston Scientific,BSX,2020Q3,2020-09-30,분기말 시가총액,54713718948,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/BSX?interval=1d&events=splits (2020-09-30) ; https://www.sec.gov/Archives/edgar/data/885725/000088572520000044/,종가 38.21 × 주식수 1431921459,9
+Boston Scientific,BSX,2020Q4,2020-12-31,분기별 매출액,2709000000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/885725/000088572521000008/ ; https://www.sec.gov/Archives/edgar/data/885725/000088572520000044/,연간 9913000000 − 9개월누적 7204000000 (RevenueFromContractWithCustomerExcludingAssessedTax),9
+Boston Scientific,BSX,2020Q4,2020-12-31,분기별 영업이익,50000000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/885725/000088572521000008/ ; https://www.sec.gov/Archives/edgar/data/885725/000088572520000044/,연간 -80000000 − 9개월누적 -130000000 (OperatingIncomeLoss),9
+Boston Scientific,BSX,2020Q4,2020-12-31,분기별 당기순이익(지배),210000000,USD,"계산(연간-3분기누적, 비지배 없음)",https://www.sec.gov/Archives/edgar/data/885725/000088572521000008/ ; https://www.sec.gov/Archives/edgar/data/885725/000088572520000044/,연간 -82000000 − 9개월누적 -292000000 (ProfitLoss),9
+Boston Scientific,BSX,2020Q4,2020-12-31,분기별 영업활동현금흐름,673000000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/885725/000088572521000008/ ; https://www.sec.gov/Archives/edgar/data/885725/000088572520000044/,누적 1508000000 − 직전누적 835000000 (시작 2020-01-01),9
+Boston Scientific,BSX,2020Q4,2020-12-31,분기말 자산총계,30777000000,USD,공시,https://www.sec.gov/Archives/edgar/data/885725/000088572521000008/,,9
+Boston Scientific,BSX,2020Q4,2020-12-31,분기말 부채총계,15451000000,USD,계산(부채및자본-총자본),https://www.sec.gov/Archives/edgar/data/885725/000088572521000008/,부채및자본 30777000000 − 총자본 15326000000,9
+Boston Scientific,BSX,2020Q4,2020-12-31,분기말 총자본(자기자본),15326000000,USD,공시,https://www.sec.gov/Archives/edgar/data/885725/000088572521000008/,,9
+Boston Scientific,BSX,2020Q4,2020-12-31,분기말 지배지분 자본,15326000000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/885725/000088572521000008/,"StockholdersEquityIncludingPortionAttributableToNoncontrollingInterest, MinorityInterest 태그 없음",9
+Boston Scientific,BSX,2020Q4,2020-12-31,분기말 종가,35.95,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/BSX?interval=1d&events=splits (2020-12-31),,9
+Boston Scientific,BSX,2020Q4,2021-01-29,분기말 상장주식수,1417165707,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/885725/000088572521000008/,dei:EntityCommonStockSharesOutstanding 클래스 합,9
+Boston Scientific,BSX,2020Q4,2020-12-31,분기말 시가총액,50947107167,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/BSX?interval=1d&events=splits (2020-12-31) ; https://www.sec.gov/Archives/edgar/data/885725/000088572521000008/,종가 35.95 × 주식수 1417165707,9
+Boston Scientific,BSX,2021Q1,2021-03-31,분기별 매출액,2752000000,USD,공시,https://www.sec.gov/Archives/edgar/data/885725/000088572521000014/,,9
+Boston Scientific,BSX,2021Q1,2021-03-31,분기별 영업이익,370000000,USD,공시,https://www.sec.gov/Archives/edgar/data/885725/000088572521000014/,,9
+Boston Scientific,BSX,2021Q1,2021-03-31,분기별 당기순이익(지배),341000000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/885725/000088572521000014/,,9
+Boston Scientific,BSX,2021Q1,2021-03-31,분기별 영업활동현금흐름,284000000,USD,공시,https://www.sec.gov/Archives/edgar/data/885725/000088572521000014/,,9
+Boston Scientific,BSX,2021Q1,2021-03-31,분기말 자산총계,30900000000,USD,공시,https://www.sec.gov/Archives/edgar/data/885725/000088572521000014/,,9
+Boston Scientific,BSX,2021Q1,2021-03-31,분기말 부채총계,15181000000,USD,계산(부채및자본-총자본),https://www.sec.gov/Archives/edgar/data/885725/000088572521000014/,부채및자본 30900000000 − 총자본 15719000000,9
+Boston Scientific,BSX,2021Q1,2021-03-31,분기말 총자본(자기자본),15719000000,USD,공시,https://www.sec.gov/Archives/edgar/data/885725/000088572521000014/,,9
+Boston Scientific,BSX,2021Q1,2021-03-31,분기말 지배지분 자본,15719000000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/885725/000088572521000014/,"StockholdersEquityIncludingPortionAttributableToNoncontrollingInterest, MinorityInterest 태그 없음",9
+Boston Scientific,BSX,2021Q1,2021-03-31,분기말 종가,38.65,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/BSX?interval=1d&events=splits (2021-03-31),,9
+Boston Scientific,BSX,2021Q1,2021-04-30,분기말 상장주식수,1420910855,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/885725/000088572521000014/,dei:EntityCommonStockSharesOutstanding 클래스 합,9
+Boston Scientific,BSX,2021Q1,2021-03-31,분기말 시가총액,54918204546,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/BSX?interval=1d&events=splits (2021-03-31) ; https://www.sec.gov/Archives/edgar/data/885725/000088572521000014/,종가 38.65 × 주식수 1420910855,9
+Boston Scientific,BSX,2021Q2,2021-06-30,분기별 매출액,3077000000,USD,공시,https://www.sec.gov/Archives/edgar/data/885725/000088572521000036/,,9
+Boston Scientific,BSX,2021Q2,2021-06-30,분기별 영업이익,262000000,USD,공시,https://www.sec.gov/Archives/edgar/data/885725/000088572521000036/,,9
+Boston Scientific,BSX,2021Q2,2021-06-30,분기별 당기순이익(지배),186000000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/885725/000088572521000036/,,9
+Boston Scientific,BSX,2021Q2,2021-06-30,분기별 영업활동현금흐름,643000000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/885725/000088572521000036/ ; https://www.sec.gov/Archives/edgar/data/885725/000088572521000014/,누적 927000000 − 직전누적 284000000 (시작 2021-01-01),9
+Boston Scientific,BSX,2021Q2,2021-06-30,분기말 자산총계,31168000000,USD,공시,https://www.sec.gov/Archives/edgar/data/885725/000088572521000036/,,9
+Boston Scientific,BSX,2021Q2,2021-06-30,분기말 부채총계,15226000000,USD,계산(부채및자본-총자본),https://www.sec.gov/Archives/edgar/data/885725/000088572521000036/,부채및자본 31168000000 − 총자본 15942000000,9
+Boston Scientific,BSX,2021Q2,2021-06-30,분기말 총자본(자기자본),15942000000,USD,공시,https://www.sec.gov/Archives/edgar/data/885725/000088572521000036/,,9
+Boston Scientific,BSX,2021Q2,2021-06-30,분기말 지배지분 자본,15942000000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/885725/000088572521000036/,"StockholdersEquityIncludingPortionAttributableToNoncontrollingInterest, MinorityInterest 태그 없음",9
+Boston Scientific,BSX,2021Q2,2021-06-30,분기말 종가,42.76,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/BSX?interval=1d&events=splits (2021-06-30),,9
+Boston Scientific,BSX,2021Q2,2021-07-30,분기말 상장주식수,1423852648,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/885725/000088572521000036/,dei:EntityCommonStockSharesOutstanding 클래스 합,9
+Boston Scientific,BSX,2021Q2,2021-06-30,분기말 시가총액,60883939228,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/BSX?interval=1d&events=splits (2021-06-30) ; https://www.sec.gov/Archives/edgar/data/885725/000088572521000036/,종가 42.76 × 주식수 1423852648,9
+Boston Scientific,BSX,2021Q3,2021-09-30,분기별 매출액,2932000000,USD,공시,https://www.sec.gov/Archives/edgar/data/885725/000088572521000052/,,9
+Boston Scientific,BSX,2021Q3,2021-09-30,분기별 영업이익,387000000,USD,공시,https://www.sec.gov/Archives/edgar/data/885725/000088572521000052/,,9
+Boston Scientific,BSX,2021Q3,2021-09-30,분기별 당기순이익(지배),419000000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/885725/000088572521000052/,,9
+Boston Scientific,BSX,2021Q3,2021-09-30,분기별 영업활동현금흐름,465000000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/885725/000088572521000052/ ; https://www.sec.gov/Archives/edgar/data/885725/000088572521000036/,누적 1392000000 − 직전누적 927000000 (시작 2021-01-01),9
+Boston Scientific,BSX,2021Q3,2021-09-30,분기말 자산총계,31877000000,USD,공시,https://www.sec.gov/Archives/edgar/data/885725/000088572521000052/,,9
+Boston Scientific,BSX,2021Q3,2021-09-30,분기말 부채총계,15415000000,USD,계산(부채및자본-총자본),https://www.sec.gov/Archives/edgar/data/885725/000088572521000052/,부채및자본 31877000000 − 총자본 16462000000,9
+Boston Scientific,BSX,2021Q3,2021-09-30,분기말 총자본(자기자본),16462000000,USD,공시,https://www.sec.gov/Archives/edgar/data/885725/000088572521000052/,,9
+Boston Scientific,BSX,2021Q3,2021-09-30,분기말 지배지분 자본,16462000000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/885725/000088572521000052/,"StockholdersEquityIncludingPortionAttributableToNoncontrollingInterest, MinorityInterest 태그 없음",9
+Boston Scientific,BSX,2021Q3,2021-09-30,분기말 종가,43.39,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/BSX?interval=1d&events=splits (2021-09-30),,9
+Boston Scientific,BSX,2021Q3,2021-10-29,분기말 상장주식수,1424992477,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/885725/000088572521000052/,dei:EntityCommonStockSharesOutstanding 클래스 합,9
+Boston Scientific,BSX,2021Q3,2021-09-30,분기말 시가총액,61830423577,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/BSX?interval=1d&events=splits (2021-09-30) ; https://www.sec.gov/Archives/edgar/data/885725/000088572521000052/,종가 43.39 × 주식수 1424992477,9
+Boston Scientific,BSX,2021Q4,2021-12-31,분기별 매출액,3127000000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/885725/000088572522000006/ ; https://www.sec.gov/Archives/edgar/data/885725/000088572521000052/,연간 11888000000 − 9개월누적 8761000000 (RevenueFromContractWithCustomerExcludingAssessedTax),9
+Boston Scientific,BSX,2021Q4,2021-12-31,분기별 영업이익,180000000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/885725/000088572522000006/ ; https://www.sec.gov/Archives/edgar/data/885725/000088572521000052/,연간 1199000000 − 9개월누적 1019000000 (OperatingIncomeLoss),9
+Boston Scientific,BSX,2021Q4,2021-12-31,분기별 당기순이익(지배),95000000,USD,"계산(연간-3분기누적, 비지배 없음)",https://www.sec.gov/Archives/edgar/data/885725/000088572522000006/ ; https://www.sec.gov/Archives/edgar/data/885725/000088572521000052/,연간 1041000000 − 9개월누적 946000000 (ProfitLoss),9
+Boston Scientific,BSX,2021Q4,2021-12-31,분기별 영업활동현금흐름,478000000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/885725/000088572522000006/ ; https://www.sec.gov/Archives/edgar/data/885725/000088572521000052/,누적 1870000000 − 직전누적 1392000000 (시작 2021-01-01),9
+Boston Scientific,BSX,2021Q4,2021-12-31,분기말 자산총계,32229000000,USD,공시,https://www.sec.gov/Archives/edgar/data/885725/000088572522000006/,,9
+Boston Scientific,BSX,2021Q4,2021-12-31,분기말 부채총계,15607000000,USD,계산(부채및자본-총자본),https://www.sec.gov/Archives/edgar/data/885725/000088572522000006/,부채및자본 32229000000 − 총자본 16622000000,9
+Boston Scientific,BSX,2021Q4,2021-12-31,분기말 총자본(자기자본),16622000000,USD,공시,https://www.sec.gov/Archives/edgar/data/885725/000088572522000006/,,9
+Boston Scientific,BSX,2021Q4,2021-12-31,분기말 지배지분 자본,16622000000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/885725/000088572522000006/,"StockholdersEquityIncludingPortionAttributableToNoncontrollingInterest, MinorityInterest 태그 없음",9
+Boston Scientific,BSX,2021Q4,2021-12-31,분기말 종가,42.48,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/BSX?interval=1d&events=splits (2021-12-31),,9
+Boston Scientific,BSX,2021Q4,2022-01-31,분기말 상장주식수,1426724712,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/885725/000088572522000006/,dei:EntityCommonStockSharesOutstanding 클래스 합,9
+Boston Scientific,BSX,2021Q4,2021-12-31,분기말 시가총액,60607265766,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/BSX?interval=1d&events=splits (2021-12-31) ; https://www.sec.gov/Archives/edgar/data/885725/000088572522000006/,종가 42.48 × 주식수 1426724712,9
+Boston Scientific,BSX,2022Q1,2022-03-31,분기별 매출액,3026000000,USD,공시,https://www.sec.gov/Archives/edgar/data/885725/000088572522000013/,,9
+Boston Scientific,BSX,2022Q1,2022-03-31,분기별 영업이익,466000000,USD,공시,https://www.sec.gov/Archives/edgar/data/885725/000088572522000013/,,9
+Boston Scientific,BSX,2022Q1,2022-03-31,분기별 당기순이익(지배),110000000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/885725/000088572522000013/,,9
+Boston Scientific,BSX,2022Q1,2022-03-31,분기별 영업활동현금흐름,-58000000,USD,공시,https://www.sec.gov/Archives/edgar/data/885725/000088572522000013/,,9
+Boston Scientific,BSX,2022Q1,2022-03-31,분기말 자산총계,32337000000,USD,공시,https://www.sec.gov/Archives/edgar/data/885725/000088572522000013/,,9
+Boston Scientific,BSX,2022Q1,2022-03-31,분기말 부채총계,15602000000,USD,계산(부채및자본-총자본),https://www.sec.gov/Archives/edgar/data/885725/000088572522000013/,부채및자본 32337000000 − 총자본 16735000000,9
+Boston Scientific,BSX,2022Q1,2022-03-31,분기말 총자본(자기자본),16735000000,USD,공시,https://www.sec.gov/Archives/edgar/data/885725/000088572522000013/,,9
+Boston Scientific,BSX,2022Q1,2022-03-31,분기말 지배지분 자본,16735000000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/885725/000088572522000013/,"StockholdersEquityIncludingPortionAttributableToNoncontrollingInterest, MinorityInterest 태그 없음",9
+Boston Scientific,BSX,2022Q1,2022-03-31,분기말 종가,44.29,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/BSX?interval=1d&events=splits (2022-03-31),,9
+Boston Scientific,BSX,2022Q1,2022-04-29,분기말 상장주식수,1429571199,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/885725/000088572522000013/,dei:EntityCommonStockSharesOutstanding 클래스 합,9
+Boston Scientific,BSX,2022Q1,2022-03-31,분기말 시가총액,63315708404,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/BSX?interval=1d&events=splits (2022-03-31) ; https://www.sec.gov/Archives/edgar/data/885725/000088572522000013/,종가 44.29 × 주식수 1429571199,9
+Boston Scientific,BSX,2022Q2,2022-06-30,분기별 매출액,3244000000,USD,공시,https://www.sec.gov/Archives/edgar/data/885725/000088572522000023/,,9
+Boston Scientific,BSX,2022Q2,2022-06-30,분기별 영업이익,423000000,USD,공시,https://www.sec.gov/Archives/edgar/data/885725/000088572522000023/,,9
+Boston Scientific,BSX,2022Q2,2022-06-30,분기별 당기순이익(지배),260000000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/885725/000088572522000023/,,9
+Boston Scientific,BSX,2022Q2,2022-06-30,분기별 영업활동현금흐름,307000000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/885725/000088572522000023/ ; https://www.sec.gov/Archives/edgar/data/885725/000088572522000013/,누적 249000000 − 직전누적 -58000000 (시작 2022-01-01),9
+Boston Scientific,BSX,2022Q2,2022-06-30,분기말 자산총계,32189000000,USD,공시,https://www.sec.gov/Archives/edgar/data/885725/000088572522000023/,,9
+Boston Scientific,BSX,2022Q2,2022-06-30,분기말 부채총계,14938000000,USD,계산(부채및자본-총자본),https://www.sec.gov/Archives/edgar/data/885725/000088572522000023/,부채및자본 32189000000 − 총자본 17251000000,9
+Boston Scientific,BSX,2022Q2,2022-06-30,분기말 총자본(자기자본),17251000000,USD,공시,https://www.sec.gov/Archives/edgar/data/885725/000088572522000023/,,9
+Boston Scientific,BSX,2022Q2,2022-06-30,분기말 지배지분 자본,17251000000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/885725/000088572522000023/,"StockholdersEquityIncludingPortionAttributableToNoncontrollingInterest, MinorityInterest 태그 없음",9
+Boston Scientific,BSX,2022Q2,2022-06-30,분기말 종가,37.27,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/BSX?interval=1d&events=splits (2022-06-30),,9
+Boston Scientific,BSX,2022Q2,2022-07-29,분기말 상장주식수,1431614313,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/885725/000088572522000023/,dei:EntityCommonStockSharesOutstanding 클래스 합,9
+Boston Scientific,BSX,2022Q2,2022-06-30,분기말 시가총액,53356265446,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/BSX?interval=1d&events=splits (2022-06-30) ; https://www.sec.gov/Archives/edgar/data/885725/000088572522000023/,종가 37.27 × 주식수 1431614313,9
+Boston Scientific,BSX,2022Q3,2022-09-30,분기별 매출액,3170000000,USD,공시,https://www.sec.gov/Archives/edgar/data/885725/000088572522000028/,,9
+Boston Scientific,BSX,2022Q3,2022-09-30,분기별 영업이익,358000000,USD,공시,https://www.sec.gov/Archives/edgar/data/885725/000088572522000028/,,9
+Boston Scientific,BSX,2022Q3,2022-09-30,분기별 당기순이익(지배),188000000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/885725/000088572522000028/,,9
+Boston Scientific,BSX,2022Q3,2022-09-30,분기별 영업활동현금흐름,470000000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/885725/000088572522000028/ ; https://www.sec.gov/Archives/edgar/data/885725/000088572522000023/,누적 719000000 − 직전누적 249000000 (시작 2022-01-01),9
+Boston Scientific,BSX,2022Q3,2022-09-30,분기말 자산총계,31947000000,USD,공시,https://www.sec.gov/Archives/edgar/data/885725/000088572522000028/,,9
+Boston Scientific,BSX,2022Q3,2022-09-30,분기말 부채총계,14307000000,USD,계산(부채및자본-총자본),https://www.sec.gov/Archives/edgar/data/885725/000088572522000028/,부채및자본 31947000000 − 총자본 17640000000,9
+Boston Scientific,BSX,2022Q3,2022-09-30,분기말 총자본(자기자본),17640000000,USD,공시,https://www.sec.gov/Archives/edgar/data/885725/000088572522000028/,,9
+Boston Scientific,BSX,2022Q3,2022-09-30,분기말 지배지분 자본,17640000000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/885725/000088572522000028/,"StockholdersEquityIncludingPortionAttributableToNoncontrollingInterest, MinorityInterest 태그 없음",9
+Boston Scientific,BSX,2022Q3,2022-09-30,분기말 종가,38.73,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/BSX?interval=1d&events=splits (2022-09-30),,9
+Boston Scientific,BSX,2022Q3,2022-10-31,분기말 상장주식수,1432311282,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/885725/000088572522000028/,dei:EntityCommonStockSharesOutstanding 클래스 합,9
+Boston Scientific,BSX,2022Q3,2022-09-30,분기말 시가총액,55473415952,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/BSX?interval=1d&events=splits (2022-09-30) ; https://www.sec.gov/Archives/edgar/data/885725/000088572522000028/,종가 38.73 × 주식수 1432311282,9
+Boston Scientific,BSX,2022Q4,2022-12-31,분기별 매출액,3242000000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/885725/000088572523000008/ ; https://www.sec.gov/Archives/edgar/data/885725/000088572522000028/,연간 12682000000 − 9개월누적 9440000000 (RevenueFromContractWithCustomerExcludingAssessedTax),9
+Boston Scientific,BSX,2022Q4,2022-12-31,분기별 영업이익,402000000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/885725/000088572523000008/ ; https://www.sec.gov/Archives/edgar/data/885725/000088572522000028/,연간 1649000000 − 9개월누적 1247000000 (OperatingIncomeLoss),9
+Boston Scientific,BSX,2022Q4,2022-12-31,분기별 당기순이익(지배),140000000,USD,"계산(연간-3분기누적, 비지배 없음)",https://www.sec.gov/Archives/edgar/data/885725/000088572523000008/ ; https://www.sec.gov/Archives/edgar/data/885725/000088572522000028/,연간 698000000 − 9개월누적 558000000 (ProfitLoss),9
+Boston Scientific,BSX,2022Q4,2022-12-31,분기별 영업활동현금흐름,807000000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/885725/000088572523000008/ ; https://www.sec.gov/Archives/edgar/data/885725/000088572522000028/,누적 1526000000 − 직전누적 719000000 (시작 2022-01-01),9
+Boston Scientific,BSX,2022Q4,2022-12-31,분기말 자산총계,32469000000,USD,공시,https://www.sec.gov/Archives/edgar/data/885725/000088572523000008/,,9
+Boston Scientific,BSX,2022Q4,2022-12-31,분기말 부채총계,14896000000,USD,계산(부채및자본-총자본),https://www.sec.gov/Archives/edgar/data/885725/000088572523000008/,부채및자본 32469000000 − 총자본 17573000000,9
+Boston Scientific,BSX,2022Q4,2022-12-31,분기말 총자본(자기자본),17573000000,USD,공시,https://www.sec.gov/Archives/edgar/data/885725/000088572523000008/,,9
+Boston Scientific,BSX,2022Q4,2022-12-31,분기말 지배지분 자본,17573000000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/885725/000088572523000008/,"StockholdersEquityIncludingPortionAttributableToNoncontrollingInterest, MinorityInterest 태그 없음",9
+Boston Scientific,BSX,2022Q4,2022-12-30,분기말 종가,46.27,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/BSX?interval=1d&events=splits (2022-12-30),,9
+Boston Scientific,BSX,2022Q4,2023-01-31,분기말 상장주식수,1434780104,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/885725/000088572523000008/,dei:EntityCommonStockSharesOutstanding 클래스 합,9
+Boston Scientific,BSX,2022Q4,2022-12-30,분기말 시가총액,66387275412,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/BSX?interval=1d&events=splits (2022-12-30) ; https://www.sec.gov/Archives/edgar/data/885725/000088572523000008/,종가 46.27 × 주식수 1434780104,9
+Boston Scientific,BSX,2023Q1,2023-03-31,분기별 매출액,3389000000,USD,공시,https://www.sec.gov/Archives/edgar/data/885725/000088572523000026/,,9
+Boston Scientific,BSX,2023Q1,2023-03-31,분기별 영업이익,552000000,USD,공시,https://www.sec.gov/Archives/edgar/data/885725/000088572523000026/,,9
+Boston Scientific,BSX,2023Q1,2023-03-31,분기별 당기순이익(지배),314000000,USD,계산(연결-비지배),https://www.sec.gov/Archives/edgar/data/885725/000088572523000026/,3개월 연결 314000000 − 비지배 0,9
+Boston Scientific,BSX,2023Q1,2023-03-31,분기별 영업활동현금흐름,190000000,USD,공시,https://www.sec.gov/Archives/edgar/data/885725/000088572523000026/,,9
+Boston Scientific,BSX,2023Q1,2023-03-31,분기말 자산총계,32892000000,USD,공시,https://www.sec.gov/Archives/edgar/data/885725/000088572523000026/,,9
+Boston Scientific,BSX,2023Q1,2023-03-31,분기말 부채총계,14783000000,USD,계산(부채및자본-총자본),https://www.sec.gov/Archives/edgar/data/885725/000088572523000026/,부채및자본 32892000000 − 총자본 18109000000,9
+Boston Scientific,BSX,2023Q1,2023-03-31,분기말 총자본(자기자본),18109000000,USD,공시,https://www.sec.gov/Archives/edgar/data/885725/000088572523000026/,,9
+Boston Scientific,BSX,2023Q1,2023-03-31,분기말 지배지분 자본,17850000000,USD,공시,https://www.sec.gov/Archives/edgar/data/885725/000088572523000026/,,9
+Boston Scientific,BSX,2023Q1,2023-03-31,분기말 종가,50.03,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/BSX?interval=1d&events=splits (2023-03-31),,9
+Boston Scientific,BSX,2023Q1,2023-04-28,분기말 상장주식수,1437698101,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/885725/000088572523000026/,dei:EntityCommonStockSharesOutstanding 클래스 합,9
+Boston Scientific,BSX,2023Q1,2023-03-31,분기말 시가총액,71928035993,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/BSX?interval=1d&events=splits (2023-03-31) ; https://www.sec.gov/Archives/edgar/data/885725/000088572523000026/,종가 50.03 × 주식수 1437698101,9
+Boston Scientific,BSX,2023Q2,2023-06-30,분기별 매출액,3599000000,USD,공시,https://www.sec.gov/Archives/edgar/data/885725/000088572523000043/,,9
+Boston Scientific,BSX,2023Q2,2023-06-30,분기별 영업이익,514000000,USD,공시,https://www.sec.gov/Archives/edgar/data/885725/000088572523000043/,,9
+Boston Scientific,BSX,2023Q2,2023-06-30,분기별 당기순이익(지배),270000000,USD,계산(연결-비지배),https://www.sec.gov/Archives/edgar/data/885725/000088572523000043/,3개월 연결 270000000 − 비지배 0,9
+Boston Scientific,BSX,2023Q2,2023-06-30,분기별 영업활동현금흐름,658000000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/885725/000088572523000043/ ; https://www.sec.gov/Archives/edgar/data/885725/000088572523000026/,누적 848000000 − 직전누적 190000000 (시작 2023-01-01),9
+Boston Scientific,BSX,2023Q2,2023-06-30,분기말 자산총계,33601000000,USD,공시,https://www.sec.gov/Archives/edgar/data/885725/000088572523000043/,,9
+Boston Scientific,BSX,2023Q2,2023-06-30,분기말 부채총계,15116000000,USD,계산(부채및자본-총자본),https://www.sec.gov/Archives/edgar/data/885725/000088572523000043/,부채및자본 33601000000 − 총자본 18485000000,9
+Boston Scientific,BSX,2023Q2,2023-06-30,분기말 총자본(자기자본),18485000000,USD,공시,https://www.sec.gov/Archives/edgar/data/885725/000088572523000043/,,9
+Boston Scientific,BSX,2023Q2,2023-06-30,분기말 지배지분 자본,18226000000,USD,공시,https://www.sec.gov/Archives/edgar/data/885725/000088572523000043/,,9
+Boston Scientific,BSX,2023Q2,2023-06-30,분기말 종가,54.09,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/BSX?interval=1d&events=splits (2023-06-30),,9
+Boston Scientific,BSX,2023Q2,2023-07-31,분기말 상장주식수,1464223263,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/885725/000088572523000043/,dei:EntityCommonStockSharesOutstanding 클래스 합,9
+Boston Scientific,BSX,2023Q2,2023-06-30,분기말 시가총액,79199836296,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/BSX?interval=1d&events=splits (2023-06-30) ; https://www.sec.gov/Archives/edgar/data/885725/000088572523000043/,종가 54.09 × 주식수 1464223263,9
+Boston Scientific,BSX,2023Q3,2023-09-30,분기별 매출액,3527000000,USD,공시,https://www.sec.gov/Archives/edgar/data/885725/000088572523000048/,,9
+Boston Scientific,BSX,2023Q3,2023-09-30,분기별 영업이익,693000000,USD,공시,https://www.sec.gov/Archives/edgar/data/885725/000088572523000048/,,9
+Boston Scientific,BSX,2023Q3,2023-09-30,분기별 당기순이익(지배),504000000,USD,계산(연결-비지배),https://www.sec.gov/Archives/edgar/data/885725/000088572523000048/,3개월 연결 504000000 − 비지배 0,9
+Boston Scientific,BSX,2023Q3,2023-09-30,분기별 영업활동현금흐름,698000000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/885725/000088572523000048/ ; https://www.sec.gov/Archives/edgar/data/885725/000088572523000043/,누적 1546000000 − 직전누적 848000000 (시작 2023-01-01),9
+Boston Scientific,BSX,2023Q3,2023-09-30,분기말 자산총계,34043000000,USD,공시,https://www.sec.gov/Archives/edgar/data/885725/000088572523000048/,,9
+Boston Scientific,BSX,2023Q3,2023-09-30,분기말 부채총계,14914000000,USD,계산(부채및자본-총자본),https://www.sec.gov/Archives/edgar/data/885725/000088572523000048/,부채및자본 34043000000 − 총자본 19129000000,9
+Boston Scientific,BSX,2023Q3,2023-09-30,분기말 총자본(자기자본),19129000000,USD,공시,https://www.sec.gov/Archives/edgar/data/885725/000088572523000048/,,9
+Boston Scientific,BSX,2023Q3,2023-09-30,분기말 지배지분 자본,18886000000,USD,공시,https://www.sec.gov/Archives/edgar/data/885725/000088572523000048/,,9
+Boston Scientific,BSX,2023Q3,2023-09-29,분기말 종가,52.8,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/BSX?interval=1d&events=splits (2023-09-29),,9
+Boston Scientific,BSX,2023Q3,2023-10-31,분기말 상장주식수,1464982777,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/885725/000088572523000048/,dei:EntityCommonStockSharesOutstanding 클래스 합,9
+Boston Scientific,BSX,2023Q3,2023-09-29,분기말 시가총액,77351090626,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/BSX?interval=1d&events=splits (2023-09-29) ; https://www.sec.gov/Archives/edgar/data/885725/000088572523000048/,종가 52.8 × 주식수 1464982777,9
+Boston Scientific,BSX,2023Q4,2023-12-31,분기별 매출액,3725000000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/885725/000088572524000017/ ; https://www.sec.gov/Archives/edgar/data/885725/000088572523000048/,연간 14240000000 − 9개월누적 10515000000 (RevenueFromContractWithCustomerExcludingAssessedTax),9
+Boston Scientific,BSX,2023Q4,2023-12-31,분기별 영업이익,584000000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/885725/000088572524000017/ ; https://www.sec.gov/Archives/edgar/data/885725/000088572523000048/,연간 2343000000 − 9개월누적 1759000000 (OperatingIncomeLoss),9
+Boston Scientific,BSX,2023Q4,2023-12-31,분기별 당기순이익(지배),505000000,USD,계산(연간(연결-비지배)-3분기누적)(재작성 반영),https://www.sec.gov/Archives/edgar/data/885725/000088572524000017/ ; https://www.sec.gov/Archives/edgar/data/885725/000088572523000048/,연간 연결 1592000000 − 비지배 -1000000 − (9개월 연결 1088000000 − 비지배 0) ; 원 공시 503000000 (https://www.sec.gov/Archives/edgar/data/885725/000088572524000017/ ; https://www.sec.gov/Archives/edgar/data/885725/000088572523000048/),9
+Boston Scientific,BSX,2023Q4,2023-12-31,분기별 영업활동현금흐름,957000000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/885725/000088572524000017/ ; https://www.sec.gov/Archives/edgar/data/885725/000088572523000048/,누적 2503000000 − 직전누적 1546000000 (시작 2023-01-01),9
+Boston Scientific,BSX,2023Q4,2023-12-31,분기말 자산총계,35136000000,USD,공시,https://www.sec.gov/Archives/edgar/data/885725/000088572524000017/,,9
+Boston Scientific,BSX,2023Q4,2023-12-31,분기말 부채총계,15606000000,USD,계산(부채및자본-총자본),https://www.sec.gov/Archives/edgar/data/885725/000088572524000017/,부채및자본 35136000000 − 총자본 19530000000,9
+Boston Scientific,BSX,2023Q4,2023-12-31,분기말 총자본(자기자본),19530000000,USD,공시,https://www.sec.gov/Archives/edgar/data/885725/000088572524000017/,,9
+Boston Scientific,BSX,2023Q4,2023-12-31,분기말 지배지분 자본,19282000000,USD,공시,https://www.sec.gov/Archives/edgar/data/885725/000088572524000017/,,9
+Boston Scientific,BSX,2023Q4,2023-12-29,분기말 종가,57.81,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/BSX?interval=1d&events=splits (2023-12-29),,9
+Boston Scientific,BSX,2023Q4,2024-01-31,분기말 상장주식수,1467095627,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/885725/000088572524000020/,dei:EntityCommonStockSharesOutstanding 클래스 합 ; 값은 XBRL 원문(companyfacts 미반영 보고서),9
+Boston Scientific,BSX,2023Q4,2023-12-29,분기말 시가총액,84812798197,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/BSX?interval=1d&events=splits (2023-12-29) ; https://www.sec.gov/Archives/edgar/data/885725/000088572524000020/,종가 57.81 × 주식수 1467095627 ; 값은 XBRL 원문(companyfacts 미반영 보고서),9
+Boston Scientific,BSX,2024Q1,2024-03-31,분기별 매출액,3856000000,USD,공시,https://www.sec.gov/Archives/edgar/data/885725/000088572524000046/,,9
+Boston Scientific,BSX,2024Q1,2024-03-31,분기별 영업이익,675000000,USD,공시,https://www.sec.gov/Archives/edgar/data/885725/000088572524000046/,,9
+Boston Scientific,BSX,2024Q1,2024-03-31,분기별 당기순이익(지배),494000000,USD,계산(연결-비지배)(재작성 반영),https://www.sec.gov/Archives/edgar/data/885725/000088572524000046/,3개월 연결 493000000 − 비지배 -1000000 ; 원 공시 492000000 (https://www.sec.gov/Archives/edgar/data/885725/000088572524000046/),9
+Boston Scientific,BSX,2024Q1,2024-03-31,분기별 영업활동현금흐름,164000000,USD,공시,https://www.sec.gov/Archives/edgar/data/885725/000088572524000046/,,9
+Boston Scientific,BSX,2024Q1,2024-03-31,분기말 자산총계,36669000000,USD,공시,https://www.sec.gov/Archives/edgar/data/885725/000088572524000046/,,9
+Boston Scientific,BSX,2024Q1,2024-03-31,분기말 부채총계,16501000000,USD,계산(부채및자본-총자본),https://www.sec.gov/Archives/edgar/data/885725/000088572524000046/,부채및자본 36669000000 − 총자본 20168000000,9
+Boston Scientific,BSX,2024Q1,2024-03-31,분기말 총자본(자기자본),20168000000,USD,공시,https://www.sec.gov/Archives/edgar/data/885725/000088572524000046/,,9
+Boston Scientific,BSX,2024Q1,2024-03-31,분기말 지배지분 자본,19926000000,USD,공시,https://www.sec.gov/Archives/edgar/data/885725/000088572524000046/,,9
+Boston Scientific,BSX,2024Q1,2024-03-28,분기말 종가,68.49,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/BSX?interval=1d&events=splits (2024-03-28),,9
+Boston Scientific,BSX,2024Q1,2024-04-29,분기말 상장주식수,1470179843,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/885725/000088572524000046/,dei:EntityCommonStockSharesOutstanding 클래스 합,9
+Boston Scientific,BSX,2024Q1,2024-03-28,분기말 시가총액,100692617447,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/BSX?interval=1d&events=splits (2024-03-28) ; https://www.sec.gov/Archives/edgar/data/885725/000088572524000046/,종가 68.49 × 주식수 1470179843,9
+Boston Scientific,BSX,2024Q2,2024-06-30,분기별 매출액,4120000000,USD,공시,https://www.sec.gov/Archives/edgar/data/885725/000088572524000068/,,9
+Boston Scientific,BSX,2024Q2,2024-06-30,분기별 영업이익,520000000,USD,공시,https://www.sec.gov/Archives/edgar/data/885725/000088572524000068/,,9
+Boston Scientific,BSX,2024Q2,2024-06-30,분기별 당기순이익(지배),324000000,USD,계산(연결-비지배),https://www.sec.gov/Archives/edgar/data/885725/000088572524000068/,3개월 연결 322000000 − 비지배 -2000000,9
+Boston Scientific,BSX,2024Q2,2024-06-30,분기별 영업활동현금흐름,813000000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/885725/000088572524000068/ ; https://www.sec.gov/Archives/edgar/data/885725/000088572524000046/,누적 977000000 − 직전누적 164000000 (시작 2024-01-01),9
+Boston Scientific,BSX,2024Q2,2024-06-30,분기말 자산총계,37108000000,USD,공시,https://www.sec.gov/Archives/edgar/data/885725/000088572524000068/,,9
+Boston Scientific,BSX,2024Q2,2024-06-30,분기말 부채총계,16499000000,USD,계산(부채및자본-총자본),https://www.sec.gov/Archives/edgar/data/885725/000088572524000068/,부채및자본 37108000000 − 총자본 20609000000,9
+Boston Scientific,BSX,2024Q2,2024-06-30,분기말 총자본(자기자본),20609000000,USD,공시,https://www.sec.gov/Archives/edgar/data/885725/000088572524000068/,,9
+Boston Scientific,BSX,2024Q2,2024-06-30,분기말 지배지분 자본,20371000000,USD,공시,https://www.sec.gov/Archives/edgar/data/885725/000088572524000068/,,9
+Boston Scientific,BSX,2024Q2,2024-06-28,분기말 종가,77.01,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/BSX?interval=1d&events=splits (2024-06-28),,9
+Boston Scientific,BSX,2024Q2,2024-07-30,분기말 상장주식수,1472626135,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/885725/000088572524000068/,dei:EntityCommonStockSharesOutstanding 클래스 합,9
+Boston Scientific,BSX,2024Q2,2024-06-28,분기말 시가총액,113406938656,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/BSX?interval=1d&events=splits (2024-06-28) ; https://www.sec.gov/Archives/edgar/data/885725/000088572524000068/,종가 77.01 × 주식수 1472626135,9
+Boston Scientific,BSX,2024Q3,2024-09-30,분기별 매출액,4209000000,USD,공시,https://www.sec.gov/Archives/edgar/data/885725/000088572524000073/,,9
+Boston Scientific,BSX,2024Q3,2024-09-30,분기별 영업이익,733000000,USD,공시,https://www.sec.gov/Archives/edgar/data/885725/000088572524000073/,,9
+Boston Scientific,BSX,2024Q3,2024-09-30,분기별 당기순이익(지배),468000000,USD,계산(연결-비지배),https://www.sec.gov/Archives/edgar/data/885725/000088572524000073/,3개월 연결 468000000 − 비지배 0,9
+Boston Scientific,BSX,2024Q3,2024-09-30,분기별 영업활동현금흐름,1002000000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/885725/000088572524000073/ ; https://www.sec.gov/Archives/edgar/data/885725/000088572524000068/,누적 1979000000 − 직전누적 977000000 (시작 2024-01-01),9
+Boston Scientific,BSX,2024Q3,2024-09-30,분기말 자산총계,38078000000,USD,공시,https://www.sec.gov/Archives/edgar/data/885725/000088572524000073/,,9
+Boston Scientific,BSX,2024Q3,2024-09-30,분기말 부채총계,17122000000,USD,계산(부채및자본-총자본),https://www.sec.gov/Archives/edgar/data/885725/000088572524000073/,부채및자본 38078000000 − 총자본 20956000000,9
+Boston Scientific,BSX,2024Q3,2024-09-30,분기말 총자본(자기자본),20956000000,USD,공시,https://www.sec.gov/Archives/edgar/data/885725/000088572524000073/,,9
+Boston Scientific,BSX,2024Q3,2024-09-30,분기말 지배지분 자본,20708000000,USD,공시,https://www.sec.gov/Archives/edgar/data/885725/000088572524000073/,,9
+Boston Scientific,BSX,2024Q3,2024-09-30,분기말 종가,83.8,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/BSX?interval=1d&events=splits (2024-09-30),,9
+Boston Scientific,BSX,2024Q3,2024-10-29,분기말 상장주식수,1473827485,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/885725/000088572524000073/,dei:EntityCommonStockSharesOutstanding 클래스 합,9
+Boston Scientific,BSX,2024Q3,2024-09-30,분기말 시가총액,123506743243,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/BSX?interval=1d&events=splits (2024-09-30) ; https://www.sec.gov/Archives/edgar/data/885725/000088572524000073/,종가 83.8 × 주식수 1473827485,9
+Boston Scientific,BSX,2024Q4,2024-12-31,분기별 매출액,4561000000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/885725/000088572525000011/ ; https://www.sec.gov/Archives/edgar/data/885725/000088572524000073/,연간 16747000000 − 9개월누적 12186000000 (RevenueFromContractWithCustomerExcludingAssessedTax),9
+Boston Scientific,BSX,2024Q4,2024-12-31,분기별 영업이익,675000000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/885725/000088572525000011/ ; https://www.sec.gov/Archives/edgar/data/885725/000088572524000073/,연간 2603000000 − 9개월누적 1928000000 (OperatingIncomeLoss),9
+Boston Scientific,BSX,2024Q4,2024-12-31,분기별 당기순이익(지배),566000000,USD,계산(연간(연결-비지배)-3분기누적)(재작성 반영),https://www.sec.gov/Archives/edgar/data/885725/000088572525000011/ ; https://www.sec.gov/Archives/edgar/data/885725/000088572524000073/,연간 연결 1846000000 − 비지배 -8000000 − (9개월 연결 1284000000 − 비지배 -4000000) ; 원 공시 574000000 (https://www.sec.gov/Archives/edgar/data/885725/000088572525000011/ ; https://www.sec.gov/Archives/edgar/data/885725/000088572524000073/),9
+Boston Scientific,BSX,2024Q4,2024-12-31,분기별 영업활동현금흐름,1456000000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/885725/000088572525000011/ ; https://www.sec.gov/Archives/edgar/data/885725/000088572524000073/,누적 3435000000 − 직전누적 1979000000 (시작 2024-01-01),9
+Boston Scientific,BSX,2024Q4,2024-12-31,분기말 자산총계,39395000000,USD,공시,https://www.sec.gov/Archives/edgar/data/885725/000088572525000011/,,9
+Boston Scientific,BSX,2024Q4,2024-12-31,분기말 부채총계,17392000000,USD,계산(부채및자본-총자본),https://www.sec.gov/Archives/edgar/data/885725/000088572525000011/,부채및자본 39395000000 − 총자본 22003000000,9
+Boston Scientific,BSX,2024Q4,2024-12-31,분기말 총자본(자기자본),22003000000,USD,공시,https://www.sec.gov/Archives/edgar/data/885725/000088572525000011/,,9
+Boston Scientific,BSX,2024Q4,2024-12-31,분기말 지배지분 자본,21770000000,USD,공시,https://www.sec.gov/Archives/edgar/data/885725/000088572525000011/,,9
+Boston Scientific,BSX,2024Q4,2024-12-31,분기말 종가,89.32,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/BSX?interval=1d&events=splits (2024-12-31),,9
+Boston Scientific,BSX,2024Q4,2025-01-31,분기말 상장주식수,1475778104,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/885725/000088572525000011/,dei:EntityCommonStockSharesOutstanding 클래스 합,9
+Boston Scientific,BSX,2024Q4,2024-12-31,분기말 시가총액,131816500249,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/BSX?interval=1d&events=splits (2024-12-31) ; https://www.sec.gov/Archives/edgar/data/885725/000088572525000011/,종가 89.32 × 주식수 1475778104,9
+Boston Scientific,BSX,2025Q1,2025-03-31,분기별 매출액,4663000000,USD,공시,https://www.sec.gov/Archives/edgar/data/885725/000088572525000026/,,9
+Boston Scientific,BSX,2025Q1,2025-03-31,분기별 영업이익,921000000,USD,공시,https://www.sec.gov/Archives/edgar/data/885725/000088572525000026/,,9
+Boston Scientific,BSX,2025Q1,2025-03-31,분기별 당기순이익(지배),674000000,USD,계산(연결-비지배),https://www.sec.gov/Archives/edgar/data/885725/000088572525000026/,3개월 연결 672000000 − 비지배 -2000000,9
+Boston Scientific,BSX,2025Q1,2025-03-31,분기별 영업활동현금흐름,541000000,USD,공시,https://www.sec.gov/Archives/edgar/data/885725/000088572525000026/,,9
+Boston Scientific,BSX,2025Q1,2025-03-31,분기말 자산총계,40140000000,USD,공시,https://www.sec.gov/Archives/edgar/data/885725/000088572525000026/,,9
+Boston Scientific,BSX,2025Q1,2025-03-31,분기말 부채총계,17694000000,USD,계산(부채및자본-총자본),https://www.sec.gov/Archives/edgar/data/885725/000088572525000026/,부채및자본 40140000000 − 총자본 22446000000,9
+Boston Scientific,BSX,2025Q1,2025-03-31,분기말 총자본(자기자본),22446000000,USD,공시,https://www.sec.gov/Archives/edgar/data/885725/000088572525000026/,,9
+Boston Scientific,BSX,2025Q1,2025-03-31,분기말 지배지분 자본,22212000000,USD,공시,https://www.sec.gov/Archives/edgar/data/885725/000088572525000026/,,9
+Boston Scientific,BSX,2025Q1,2025-03-31,분기말 종가,100.88,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/BSX?interval=1d&events=splits (2025-03-31),,9
+Boston Scientific,BSX,2025Q1,2025-04-29,분기말 상장주식수,1479446345,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/885725/000088572525000026/,dei:EntityCommonStockSharesOutstanding 클래스 합,9
+Boston Scientific,BSX,2025Q1,2025-03-31,분기말 시가총액,149246547284,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/BSX?interval=1d&events=splits (2025-03-31) ; https://www.sec.gov/Archives/edgar/data/885725/000088572525000026/,종가 100.88 × 주식수 1479446345,9
+Boston Scientific,BSX,2025Q2,2025-06-30,분기별 매출액,5061000000,USD,공시,https://www.sec.gov/Archives/edgar/data/885725/000088572525000041/,,9
+Boston Scientific,BSX,2025Q2,2025-06-30,분기별 영업이익,819000000,USD,공시,https://www.sec.gov/Archives/edgar/data/885725/000088572525000041/,,9
+Boston Scientific,BSX,2025Q2,2025-06-30,분기별 당기순이익(지배),797000000,USD,계산(연결-비지배),https://www.sec.gov/Archives/edgar/data/885725/000088572525000041/,3개월 연결 795000000 − 비지배 -2000000,9
+Boston Scientific,BSX,2025Q2,2025-06-30,분기별 영업활동현금흐름,1286000000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/885725/000088572525000041/ ; https://www.sec.gov/Archives/edgar/data/885725/000088572525000026/,누적 1827000000 − 직전누적 541000000 (시작 2025-01-01),9
+Boston Scientific,BSX,2025Q2,2025-06-30,분기말 자산총계,41559000000,USD,공시,https://www.sec.gov/Archives/edgar/data/885725/000088572525000041/,,9
+Boston Scientific,BSX,2025Q2,2025-06-30,분기말 부채총계,18906000000,USD,계산(부채및자본-총자본),https://www.sec.gov/Archives/edgar/data/885725/000088572525000041/,부채및자본 41559000000 − 총자본 22653000000,9
+Boston Scientific,BSX,2025Q2,2025-06-30,분기말 총자본(자기자본),22653000000,USD,공시,https://www.sec.gov/Archives/edgar/data/885725/000088572525000041/,,9
+Boston Scientific,BSX,2025Q2,2025-06-30,분기말 지배지분 자본,22418000000,USD,공시,https://www.sec.gov/Archives/edgar/data/885725/000088572525000041/,,9
+Boston Scientific,BSX,2025Q2,2025-06-30,분기말 종가,107.41,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/BSX?interval=1d&events=splits (2025-06-30),,9
+Boston Scientific,BSX,2025Q2,2025-07-29,분기말 상장주식수,1481751634,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/885725/000088572525000041/,dei:EntityCommonStockSharesOutstanding 클래스 합,9
+Boston Scientific,BSX,2025Q2,2025-06-30,분기말 시가총액,159154943008,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/BSX?interval=1d&events=splits (2025-06-30) ; https://www.sec.gov/Archives/edgar/data/885725/000088572525000041/,종가 107.41 × 주식수 1481751634,9
+Boston Scientific,BSX,2025Q3,2025-09-30,분기별 매출액,5065000000,USD,공시,https://www.sec.gov/Archives/edgar/data/885725/000088572525000050/,,9
+Boston Scientific,BSX,2025Q3,2025-09-30,분기별 영업이익,1048000000,USD,공시,https://www.sec.gov/Archives/edgar/data/885725/000088572525000050/,,9
+Boston Scientific,BSX,2025Q3,2025-09-30,분기별 당기순이익(지배),755000000,USD,계산(연결-비지배),https://www.sec.gov/Archives/edgar/data/885725/000088572525000050/,3개월 연결 755000000 − 비지배 0,9
+Boston Scientific,BSX,2025Q3,2025-09-30,분기별 영업활동현금흐름,1343000000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/885725/000088572525000050/ ; https://www.sec.gov/Archives/edgar/data/885725/000088572525000041/,누적 3170000000 − 직전누적 1827000000 (시작 2025-01-01),9
+Boston Scientific,BSX,2025Q3,2025-09-30,분기말 자산총계,42707000000,USD,공시,https://www.sec.gov/Archives/edgar/data/885725/000088572525000050/,,9
+Boston Scientific,BSX,2025Q3,2025-09-30,분기말 부채총계,19077000000,USD,계산(부채및자본-총자본),https://www.sec.gov/Archives/edgar/data/885725/000088572525000050/,부채및자본 42707000000 − 총자본 23630000000,9
+Boston Scientific,BSX,2025Q3,2025-09-30,분기말 총자본(자기자본),23630000000,USD,공시,https://www.sec.gov/Archives/edgar/data/885725/000088572525000050/,,9
+Boston Scientific,BSX,2025Q3,2025-09-30,분기말 지배지분 자본,23394000000,USD,공시,https://www.sec.gov/Archives/edgar/data/885725/000088572525000050/,,9
+Boston Scientific,BSX,2025Q3,2025-09-30,분기말 종가,97.63,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/BSX?interval=1d&events=splits (2025-09-30),,9
+Boston Scientific,BSX,2025Q3,2025-10-30,분기말 상장주식수,1482442039,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/885725/000088572525000050/,dei:EntityCommonStockSharesOutstanding 클래스 합,9
+Boston Scientific,BSX,2025Q3,2025-09-30,분기말 시가총액,144730816268,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/BSX?interval=1d&events=splits (2025-09-30) ; https://www.sec.gov/Archives/edgar/data/885725/000088572525000050/,종가 97.63 × 주식수 1482442039,9
+Boston Scientific,BSX,2025Q4,2025-12-31,분기별 매출액,5286000000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/885725/000088572526000010/ ; https://www.sec.gov/Archives/edgar/data/885725/000088572525000050/,연간 20074000000 − 9개월누적 14788000000 (RevenueFromContractWithCustomerExcludingAssessedTax),9
+Boston Scientific,BSX,2025Q4,2025-12-31,분기별 영업이익,825000000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/885725/000088572526000010/ ; https://www.sec.gov/Archives/edgar/data/885725/000088572525000050/,연간 3613000000 − 9개월누적 2788000000 (OperatingIncomeLoss),9
+Boston Scientific,BSX,2025Q4,2025-12-31,분기별 당기순이익(지배),672000000,USD,계산(연간(연결-비지배)-3분기누적),https://www.sec.gov/Archives/edgar/data/885725/000088572526000010/ ; https://www.sec.gov/Archives/edgar/data/885725/000088572525000050/,연간 연결 2892000000 − 비지배 -6000000 − (9개월 연결 2222000000 − 비지배 -4000000),9
+Boston Scientific,BSX,2025Q4,2025-12-31,분기별 영업활동현금흐름,1364000000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/885725/000088572526000010/ ; https://www.sec.gov/Archives/edgar/data/885725/000088572525000050/,누적 4534000000 − 직전누적 3170000000 (시작 2025-01-01),9
+Boston Scientific,BSX,2025Q4,2025-12-31,분기말 자산총계,43673000000,USD,공시,https://www.sec.gov/Archives/edgar/data/885725/000088572526000010/,,9
+Boston Scientific,BSX,2025Q4,2025-12-31,분기말 부채총계,19201000000,USD,계산(부채및자본-총자본),https://www.sec.gov/Archives/edgar/data/885725/000088572526000010/,부채및자본 43673000000 − 총자본 24472000000,9
+Boston Scientific,BSX,2025Q4,2025-12-31,분기말 총자본(자기자본),24472000000,USD,공시,https://www.sec.gov/Archives/edgar/data/885725/000088572526000010/,,9
+Boston Scientific,BSX,2025Q4,2025-12-31,분기말 지배지분 자본,24233000000,USD,공시,https://www.sec.gov/Archives/edgar/data/885725/000088572526000010/,,9
+Boston Scientific,BSX,2025Q4,2025-12-31,분기말 종가,95.35,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/BSX?interval=1d&events=splits (2025-12-31),,9
+Boston Scientific,BSX,2025Q4,2026-01-30,분기말 상장주식수,1483885456,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/885725/000088572526000010/,dei:EntityCommonStockSharesOutstanding 클래스 합,9
+Boston Scientific,BSX,2025Q4,2025-12-31,분기말 시가총액,141488478230,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/BSX?interval=1d&events=splits (2025-12-31) ; https://www.sec.gov/Archives/edgar/data/885725/000088572526000010/,종가 95.35 × 주식수 1483885456,9
+Boston Scientific,BSX,2026Q1,2026-03-31,분기별 매출액,5203000000,USD,공시,https://www.sec.gov/Archives/edgar/data/885725/000088572526000033/,,9
+Boston Scientific,BSX,2026Q1,2026-03-31,분기별 영업이익,1101000000,USD,공시,https://www.sec.gov/Archives/edgar/data/885725/000088572526000033/,,9
+Boston Scientific,BSX,2026Q1,2026-03-31,분기별 당기순이익(지배),1341000000,USD,계산(연결-비지배),https://www.sec.gov/Archives/edgar/data/885725/000088572526000033/,3개월 연결 1339000000 − 비지배 -2000000,9
+Boston Scientific,BSX,2026Q1,2026-03-31,분기별 영업활동현금흐름,348000000,USD,공시,https://www.sec.gov/Archives/edgar/data/885725/000088572526000033/,,9
+Boston Scientific,BSX,2026Q1,2026-03-31,분기말 자산총계,44351000000,USD,공시,https://www.sec.gov/Archives/edgar/data/885725/000088572526000033/,,9
+Boston Scientific,BSX,2026Q1,2026-03-31,분기말 부채총계,18247000000,USD,계산(부채및자본-총자본),https://www.sec.gov/Archives/edgar/data/885725/000088572526000033/,부채및자본 44351000000 − 총자본 26104000000,9
+Boston Scientific,BSX,2026Q1,2026-03-31,분기말 총자본(자기자본),26104000000,USD,공시,https://www.sec.gov/Archives/edgar/data/885725/000088572526000033/,,9
+Boston Scientific,BSX,2026Q1,2026-03-31,분기말 지배지분 자본,25864000000,USD,공시,https://www.sec.gov/Archives/edgar/data/885725/000088572526000033/,,9
+Boston Scientific,BSX,2026Q1,2026-03-31,분기말 종가,62.75,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/BSX?interval=1d&events=splits (2026-03-31),,9
+Boston Scientific,BSX,2026Q1,2026-04-29,분기말 상장주식수,1486355179,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/885725/000088572526000033/,dei:EntityCommonStockSharesOutstanding 클래스 합,9
+Boston Scientific,BSX,2026Q1,2026-03-31,분기말 시가총액,93268787482,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/BSX?interval=1d&events=splits (2026-03-31) ; https://www.sec.gov/Archives/edgar/data/885725/000088572526000033/,종가 62.75 × 주식수 1486355179,9
+Boston Scientific,BSX,2026Q2,2026-06-30,분기별 매출액,5442000000,USD,공시,https://www.sec.gov/Archives/edgar/data/885725/000088572526000053/,,9
+Boston Scientific,BSX,2026Q2,2026-06-30,분기별 영업이익,1178000000,USD,공시,https://www.sec.gov/Archives/edgar/data/885725/000088572526000053/,,9
+Boston Scientific,BSX,2026Q2,2026-06-30,분기별 당기순이익(지배),907000000,USD,계산(연결-비지배),https://www.sec.gov/Archives/edgar/data/885725/000088572526000053/,3개월 연결 905000000 − 비지배 -2000000,9
+Boston Scientific,BSX,2026Q2,2026-06-30,분기별 영업활동현금흐름,1474000000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/885725/000088572526000053/ ; https://www.sec.gov/Archives/edgar/data/885725/000088572526000033/,누적 1822000000 − 직전누적 348000000 (시작 2026-01-01),9
+Boston Scientific,BSX,2026Q2,2026-06-30,분기말 자산총계,45216000000,USD,공시,https://www.sec.gov/Archives/edgar/data/885725/000088572526000053/,,9
+Boston Scientific,BSX,2026Q2,2026-06-30,분기말 부채총계,20044000000,USD,계산(부채및자본-총자본),https://www.sec.gov/Archives/edgar/data/885725/000088572526000053/,부채및자본 45216000000 − 총자본 25172000000,9
+Boston Scientific,BSX,2026Q2,2026-06-30,분기말 총자본(자기자본),25172000000,USD,공시,https://www.sec.gov/Archives/edgar/data/885725/000088572526000053/,,9
+Boston Scientific,BSX,2026Q2,2026-06-30,분기말 지배지분 자본,24930000000,USD,공시,https://www.sec.gov/Archives/edgar/data/885725/000088572526000053/,,9
+Boston Scientific,BSX,2026Q2,2026-06-30,분기말 종가,42.68,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/BSX?interval=1d&events=splits (2026-06-30),,9
+Boston Scientific,BSX,2026Q2,2026-07-30,분기말 상장주식수,1449229526,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/885725/000088572526000053/,dei:EntityCommonStockSharesOutstanding 클래스 합,9
+Boston Scientific,BSX,2026Q2,2026-06-30,분기말 시가총액,61853116170,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/BSX?interval=1d&events=splits (2026-06-30) ; https://www.sec.gov/Archives/edgar/data/885725/000088572526000053/,종가 42.68 × 주식수 1449229526,9

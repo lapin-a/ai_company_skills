@@ -1,0 +1,727 @@
+﻿기업,종목코드,기간,기준일,항목,값,통화,값구분,출처,검산,라운드
+Sherwin-Williams,SHW,2010Q1,2010-03-31,분기별 매출액,1565482000,USD,공시,https://www.sec.gov/Archives/edgar/data/89800/000095012310039508/,,8
+Sherwin-Williams,SHW,2010Q1,2010-03-31,분기별 영업이익,미확인,USD,미확인,SEC companyfacts CIK0000089800: 해당 보고서에 OperatingIncomeLoss 태그 없음(영업이익 미공시) ; https://www.sec.gov/Archives/edgar/data/89800/000095012310039508/,,8
+Sherwin-Williams,SHW,2010Q1,2010-03-31,분기별 당기순이익(지배),32603000,USD,공시,https://www.sec.gov/Archives/edgar/data/89800/000095012310039508/,,8
+Sherwin-Williams,SHW,2010Q1,2010-03-31,분기별 영업활동현금흐름,-115818000,USD,공시,https://www.sec.gov/Archives/edgar/data/89800/000095012310039508/,,8
+Sherwin-Williams,SHW,2010Q1,2010-03-31,분기말 자산총계,4509146000,USD,공시,https://www.sec.gov/Archives/edgar/data/89800/000095012310039508/,,8
+Sherwin-Williams,SHW,2010Q1,2010-03-31,분기말 부채총계,3014000000,USD,계산(부채및자본-총자본),https://www.sec.gov/Archives/edgar/data/89800/000095012310039508/,부채및자본 4509146000 − 총자본 1495146000,8
+Sherwin-Williams,SHW,2010Q1,2010-03-31,분기말 총자본(자기자본),1495146000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/89800/000095012310039508/,"StockholdersEquity, MinorityInterest 태그 없음",8
+Sherwin-Williams,SHW,2010Q1,2010-03-31,분기말 지배지분 자본,1495146000,USD,공시,https://www.sec.gov/Archives/edgar/data/89800/000095012310039508/,,8
+Sherwin-Williams,SHW,2010Q1,2010-03-31,분기말 종가,67.68,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/SHW?interval=1d&events=splits (2010-03-31),분할조정 종가 22.56 × 이후 분할계수 3,8
+Sherwin-Williams,SHW,2010Q1,2010-03-31,분기말 상장주식수,109735117,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/89800/000095012310039508/,dei:EntityCommonStockSharesOutstanding 클래스 합,8
+Sherwin-Williams,SHW,2010Q1,2010-03-31,분기말 시가총액,7426872719,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/SHW?interval=1d&events=splits (2010-03-31) ; https://www.sec.gov/Archives/edgar/data/89800/000095012310039508/,종가 67.68 × 주식수 109735117,8
+Sherwin-Williams,SHW,2010Q2,2010-06-30,분기별 매출액,2143064000,USD,공시,https://www.sec.gov/Archives/edgar/data/89800/000095012310068492/,,8
+Sherwin-Williams,SHW,2010Q2,2010-06-30,분기별 영업이익,332607000,USD,공시(후속 보고서 비교기간),https://www.sec.gov/Archives/edgar/data/89800/000095012311068880/,OperatingIncomeLoss ; 그 분기 보고서에 연결 총계가 없어 2011-07-27 제출본의 비교기간에서 읽었다,8
+Sherwin-Williams,SHW,2010Q2,2010-06-30,분기별 당기순이익(지배),181706000,USD,공시,https://www.sec.gov/Archives/edgar/data/89800/000095012310068492/,,8
+Sherwin-Williams,SHW,2010Q2,2010-06-30,분기별 영업활동현금흐름,352274000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/89800/000095012310068492/ ; https://www.sec.gov/Archives/edgar/data/89800/000095012310039508/,누적 236456000 − 직전누적 -115818000 (시작 2010-01-01),8
+Sherwin-Williams,SHW,2010Q2,2010-06-30,분기말 자산총계,4740286000,USD,공시,https://www.sec.gov/Archives/edgar/data/89800/000095012310068492/,,8
+Sherwin-Williams,SHW,2010Q2,2010-06-30,분기말 부채총계,3209060000,USD,계산(부채및자본-총자본),https://www.sec.gov/Archives/edgar/data/89800/000095012310068492/,부채및자본 4740286000 − 총자본 1531226000,8
+Sherwin-Williams,SHW,2010Q2,2010-06-30,분기말 총자본(자기자본),1531226000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/89800/000095012310068492/,"StockholdersEquity, MinorityInterest 태그 없음",8
+Sherwin-Williams,SHW,2010Q2,2010-06-30,분기말 지배지분 자본,1531226000,USD,공시,https://www.sec.gov/Archives/edgar/data/89800/000095012310068492/,,8
+Sherwin-Williams,SHW,2010Q2,2010-06-30,분기말 종가,69.19,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/SHW?interval=1d&events=splits (2010-06-30),분할조정 종가 23.0633 × 이후 분할계수 3,8
+Sherwin-Williams,SHW,2010Q2,2010-06-30,분기말 상장주식수,108790303,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/89800/000095012310068492/,dei:EntityCommonStockSharesOutstanding 클래스 합,8
+Sherwin-Williams,SHW,2010Q2,2010-06-30,분기말 시가총액,7527201065,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/SHW?interval=1d&events=splits (2010-06-30) ; https://www.sec.gov/Archives/edgar/data/89800/000095012310068492/,종가 69.19 × 주식수 108790303,8
+Sherwin-Williams,SHW,2010Q3,2010-09-30,분기별 매출액,2172259000,USD,공시,https://www.sec.gov/Archives/edgar/data/89800/000095012310097227/,,8
+Sherwin-Williams,SHW,2010Q3,2010-09-30,분기별 영업이익,316703000,USD,공시(후속 보고서 비교기간),https://www.sec.gov/Archives/edgar/data/89800/000095012311092333/,OperatingIncomeLoss ; 그 분기 보고서에 연결 총계가 없어 2011-10-27 제출본의 비교기간에서 읽었다,8
+Sherwin-Williams,SHW,2010Q3,2010-09-30,분기별 당기순이익(지배),175258000,USD,공시,https://www.sec.gov/Archives/edgar/data/89800/000095012310097227/,,8
+Sherwin-Williams,SHW,2010Q3,2010-09-30,분기별 영업활동현금흐름,241154000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/89800/000095012310097227/ ; https://www.sec.gov/Archives/edgar/data/89800/000095012310068492/,누적 477610000 − 직전누적 236456000 (시작 2010-01-01),8
+Sherwin-Williams,SHW,2010Q3,2010-09-30,분기말 자산총계,5180683000,USD,공시,https://www.sec.gov/Archives/edgar/data/89800/000095012310097227/,,8
+Sherwin-Williams,SHW,2010Q3,2010-09-30,분기말 부채총계,3537547000,USD,계산(부채및자본-총자본),https://www.sec.gov/Archives/edgar/data/89800/000095012310097227/,부채및자본 5180683000 − 총자본 1643136000,8
+Sherwin-Williams,SHW,2010Q3,2010-09-30,분기말 총자본(자기자본),1643136000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/89800/000095012310097227/,"StockholdersEquity, MinorityInterest 태그 없음",8
+Sherwin-Williams,SHW,2010Q3,2010-09-30,분기말 지배지분 자본,1643136000,USD,공시,https://www.sec.gov/Archives/edgar/data/89800/000095012310097227/,,8
+Sherwin-Williams,SHW,2010Q3,2010-09-30,분기말 종가,75.14,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/SHW?interval=1d&events=splits (2010-09-30),분할조정 종가 25.0467 × 이후 분할계수 3,8
+Sherwin-Williams,SHW,2010Q3,2010-09-30,분기말 상장주식수,107934798,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/89800/000095012310097227/,dei:EntityCommonStockSharesOutstanding 클래스 합,8
+Sherwin-Williams,SHW,2010Q3,2010-09-30,분기말 시가총액,8110220722,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/SHW?interval=1d&events=splits (2010-09-30) ; https://www.sec.gov/Archives/edgar/data/89800/000095012310097227/,종가 75.14 × 주식수 107934798,8
+Sherwin-Williams,SHW,2010Q4,2010-12-31,분기별 매출액,1895619000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/89800/000095012311017092/ ; https://www.sec.gov/Archives/edgar/data/89800/000095012310097227/,연간 7776424000 − 9개월누적 5880805000 (Revenues),8
+Sherwin-Williams,SHW,2010Q4,2010-12-31,분기별 영업이익,미확인,USD,미확인,SEC companyfacts CIK0000089800: 해당 보고서에 OperatingIncomeLoss 태그 없음(영업이익 미공시) ; https://www.sec.gov/Archives/edgar/data/89800/000095012311017092/,,8
+Sherwin-Williams,SHW,2010Q4,2010-12-31,분기별 당기순이익(지배),72918000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/89800/000095012311017092/ ; https://www.sec.gov/Archives/edgar/data/89800/000095012310097227/,연간 462485000 − 9개월누적 389567000 (NetIncomeLoss),8
+Sherwin-Williams,SHW,2010Q4,2010-12-31,분기별 영업활동현금흐름,228980000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/89800/000095012311017092/ ; https://www.sec.gov/Archives/edgar/data/89800/000095012310097227/,누적 706590000 − 직전누적 477610000 (시작 2010-01-01),8
+Sherwin-Williams,SHW,2010Q4,2010-12-31,분기말 자산총계,5169235000,USD,공시,https://www.sec.gov/Archives/edgar/data/89800/000095012311017092/,,8
+Sherwin-Williams,SHW,2010Q4,2010-12-31,분기말 부채총계,3559795000,USD,계산(부채및자본-총자본),https://www.sec.gov/Archives/edgar/data/89800/000095012311017092/,부채및자본 5169235000 − 총자본 1609440000,8
+Sherwin-Williams,SHW,2010Q4,2010-12-31,분기말 총자본(자기자본),1609440000,USD,공시,https://www.sec.gov/Archives/edgar/data/89800/000095012311017092/,,8
+Sherwin-Williams,SHW,2010Q4,2010-12-31,분기말 지배지분 자본,1609440000,USD,공시,https://www.sec.gov/Archives/edgar/data/89800/000095012311017092/,,8
+Sherwin-Williams,SHW,2010Q4,2010-12-31,분기말 종가,83.75,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/SHW?interval=1d&events=splits (2010-12-31),분할조정 종가 27.9167 × 이후 분할계수 3,8
+Sherwin-Williams,SHW,2010Q4,2011-01-31,분기말 상장주식수,107242439,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/89800/000095012311017092/,dei:EntityCommonStockSharesOutstanding 클래스 합,8
+Sherwin-Williams,SHW,2010Q4,2010-12-31,분기말 시가총액,8981554266,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/SHW?interval=1d&events=splits (2010-12-31) ; https://www.sec.gov/Archives/edgar/data/89800/000095012311017092/,종가 83.75 × 주식수 107242439,8
+Sherwin-Williams,SHW,2011Q1,2011-03-31,분기별 매출액,1855586000,USD,공시,https://www.sec.gov/Archives/edgar/data/89800/000095012311039103/,,8
+Sherwin-Williams,SHW,2011Q1,2011-03-31,분기별 영업이익,미확인,USD,미확인,SEC companyfacts CIK0000089800: 해당 보고서에 OperatingIncomeLoss 태그 없음(영업이익 미공시) ; https://www.sec.gov/Archives/edgar/data/89800/000095012311039103/,,8
+Sherwin-Williams,SHW,2011Q1,2011-03-31,분기별 당기순이익(지배),68316000,USD,공시,https://www.sec.gov/Archives/edgar/data/89800/000095012311039103/,,8
+Sherwin-Williams,SHW,2011Q1,2011-03-31,분기별 영업활동현금흐름,-153166000,USD,공시,https://www.sec.gov/Archives/edgar/data/89800/000095012311039103/,,8
+Sherwin-Williams,SHW,2011Q1,2011-03-31,분기말 자산총계,5443653000,USD,공시,https://www.sec.gov/Archives/edgar/data/89800/000095012311039103/,,8
+Sherwin-Williams,SHW,2011Q1,2011-03-31,분기말 부채총계,3835761000,USD,계산(부채및자본-총자본),https://www.sec.gov/Archives/edgar/data/89800/000095012311039103/,부채및자본 5443653000 − 총자본 1607892000,8
+Sherwin-Williams,SHW,2011Q1,2011-03-31,분기말 총자본(자기자본),1607892000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/89800/000095012311039103/,"StockholdersEquity, MinorityInterest 태그 없음",8
+Sherwin-Williams,SHW,2011Q1,2011-03-31,분기말 지배지분 자본,1607892000,USD,공시,https://www.sec.gov/Archives/edgar/data/89800/000095012311039103/,,8
+Sherwin-Williams,SHW,2011Q1,2011-03-31,분기말 종가,83.99,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/SHW?interval=1d&events=splits (2011-03-31),분할조정 종가 27.9967 × 이후 분할계수 3,8
+Sherwin-Williams,SHW,2011Q1,2011-03-31,분기말 상장주식수,106463621,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/89800/000095012311039103/,dei:EntityCommonStockSharesOutstanding 클래스 합,8
+Sherwin-Williams,SHW,2011Q1,2011-03-31,분기말 시가총액,8941879528,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/SHW?interval=1d&events=splits (2011-03-31) ; https://www.sec.gov/Archives/edgar/data/89800/000095012311039103/,종가 83.99 × 주식수 106463621,8
+Sherwin-Williams,SHW,2011Q2,2011-06-30,분기별 매출액,2354751000,USD,공시,https://www.sec.gov/Archives/edgar/data/89800/000095012311068880/,,8
+Sherwin-Williams,SHW,2011Q2,2011-06-30,분기별 영업이익,314072000,USD,공시,https://www.sec.gov/Archives/edgar/data/89800/000095012311068880/,,8
+Sherwin-Williams,SHW,2011Q2,2011-06-30,분기별 당기순이익(지배),179115000,USD,공시,https://www.sec.gov/Archives/edgar/data/89800/000095012311068880/,,8
+Sherwin-Williams,SHW,2011Q2,2011-06-30,분기별 영업활동현금흐름,261332000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/89800/000095012311068880/ ; https://www.sec.gov/Archives/edgar/data/89800/000095012311039103/,누적 108166000 − 직전누적 -153166000 (시작 2011-01-01),8
+Sherwin-Williams,SHW,2011Q2,2011-06-30,분기말 자산총계,5633769000,USD,공시,https://www.sec.gov/Archives/edgar/data/89800/000095012311068880/,,8
+Sherwin-Williams,SHW,2011Q2,2011-06-30,분기말 부채총계,3886957000,USD,계산(부채및자본-총자본),https://www.sec.gov/Archives/edgar/data/89800/000095012311068880/,부채및자본 5633769000 − 총자본 1746812000,8
+Sherwin-Williams,SHW,2011Q2,2011-06-30,분기말 총자본(자기자본),1746812000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/89800/000095012311068880/,"StockholdersEquity, MinorityInterest 태그 없음",8
+Sherwin-Williams,SHW,2011Q2,2011-06-30,분기말 지배지분 자본,1746812000,USD,공시,https://www.sec.gov/Archives/edgar/data/89800/000095012311068880/,,8
+Sherwin-Williams,SHW,2011Q2,2011-06-30,분기말 종가,83.87,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/SHW?interval=1d&events=splits (2011-06-30),분할조정 종가 27.9567 × 이후 분할계수 3,8
+Sherwin-Williams,SHW,2011Q2,2011-06-30,분기말 상장주식수,106278767,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/89800/000095012311068880/,dei:EntityCommonStockSharesOutstanding 클래스 합,8
+Sherwin-Williams,SHW,2011Q2,2011-06-30,분기말 시가총액,8913600188,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/SHW?interval=1d&events=splits (2011-06-30) ; https://www.sec.gov/Archives/edgar/data/89800/000095012311068880/,종가 83.87 × 주식수 106278767,8
+Sherwin-Williams,SHW,2011Q3,2011-09-30,분기별 매출액,2484920000,USD,공시,https://www.sec.gov/Archives/edgar/data/89800/000095012311092333/,,8
+Sherwin-Williams,SHW,2011Q3,2011-09-30,분기별 영업이익,321417000,USD,공시,https://www.sec.gov/Archives/edgar/data/89800/000095012311092333/,,8
+Sherwin-Williams,SHW,2011Q3,2011-09-30,분기별 당기순이익(지배),179877000,USD,공시,https://www.sec.gov/Archives/edgar/data/89800/000095012311092333/,,8
+Sherwin-Williams,SHW,2011Q3,2011-09-30,분기별 영업활동현금흐름,337797000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/89800/000095012311092333/ ; https://www.sec.gov/Archives/edgar/data/89800/000095012311068880/,누적 445963000 − 직전누적 108166000 (시작 2011-01-01),8
+Sherwin-Williams,SHW,2011Q3,2011-09-30,분기말 자산총계,5490139000,USD,공시,https://www.sec.gov/Archives/edgar/data/89800/000095012311092333/,,8
+Sherwin-Williams,SHW,2011Q3,2011-09-30,분기말 부채총계,3840212000,USD,계산(부채및자본-총자본),https://www.sec.gov/Archives/edgar/data/89800/000095012311092333/,부채및자본 5490139000 − 총자본 1649927000,8
+Sherwin-Williams,SHW,2011Q3,2011-09-30,분기말 총자본(자기자본),1649927000,USD,공시,https://www.sec.gov/Archives/edgar/data/89800/000095012311092333/,,8
+Sherwin-Williams,SHW,2011Q3,2011-09-30,분기말 지배지분 자본,1635302000,USD,공시,https://www.sec.gov/Archives/edgar/data/89800/000095012311092333/,,8
+Sherwin-Williams,SHW,2011Q3,2011-09-30,분기말 종가,74.32,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/SHW?interval=1d&events=splits (2011-09-30),분할조정 종가 24.7733 × 이후 분할계수 3,8
+Sherwin-Williams,SHW,2011Q3,2011-09-30,분기말 상장주식수,103760672,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/89800/000095012311092333/,dei:EntityCommonStockSharesOutstanding 클래스 합,8
+Sherwin-Williams,SHW,2011Q3,2011-09-30,분기말 시가총액,7711493143,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/SHW?interval=1d&events=splits (2011-09-30) ; https://www.sec.gov/Archives/edgar/data/89800/000095012311092333/,종가 74.32 × 주식수 103760672,8
+Sherwin-Williams,SHW,2011Q4,2011-12-31,분기별 매출액,2070442000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/89800/000119312512075061/ ; https://www.sec.gov/Archives/edgar/data/89800/000095012311092333/,연간 8765699000 − 9개월누적 6695257000 (SalesRevenueNet),8
+Sherwin-Williams,SHW,2011Q4,2011-12-31,분기별 영업이익,미확인,USD,미확인,SEC companyfacts CIK0000089800: 해당 보고서에 OperatingIncomeLoss 태그 없음(영업이익 미공시) ; https://www.sec.gov/Archives/edgar/data/89800/000119312512075061/,,8
+Sherwin-Williams,SHW,2011Q4,2011-12-31,분기별 당기순이익(지배),14552000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/89800/000119312512075061/ ; https://www.sec.gov/Archives/edgar/data/89800/000095012311092333/,연간 441860000 − 9개월누적 427308000 (NetIncomeLoss),8
+Sherwin-Williams,SHW,2011Q4,2011-12-31,분기별 영업활동현금흐름,289849000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/89800/000119312512075061/ ; https://www.sec.gov/Archives/edgar/data/89800/000095012311092333/,누적 735812000 − 직전누적 445963000 (시작 2011-01-01),8
+Sherwin-Williams,SHW,2011Q4,2011-12-31,분기말 자산총계,5229252000,USD,공시,https://www.sec.gov/Archives/edgar/data/89800/000119312512075061/,,8
+Sherwin-Williams,SHW,2011Q4,2011-12-31,분기말 부채총계,3712333000,USD,계산(부채및자본-총자본),https://www.sec.gov/Archives/edgar/data/89800/000119312512075061/,부채및자본 5229252000 − 총자본 1516919000,8
+Sherwin-Williams,SHW,2011Q4,2011-12-31,분기말 총자본(자기자본),1516919000,USD,공시,https://www.sec.gov/Archives/edgar/data/89800/000119312512075061/,,8
+Sherwin-Williams,SHW,2011Q4,2011-12-31,분기말 지배지분 자본,1516919000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/89800/000119312512075061/,"StockholdersEquityIncludingPortionAttributableToNoncontrollingInterest, MinorityInterest 태그 없음",8
+Sherwin-Williams,SHW,2011Q4,2011-12-30,분기말 종가,89.27,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/SHW?interval=1d&events=splits (2011-12-30),분할조정 종가 29.7567 × 이후 분할계수 3,8
+Sherwin-Williams,SHW,2011Q4,2012-01-31,분기말 상장주식수,104168777,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/89800/000119312512075061/,dei:EntityCommonStockSharesOutstanding 클래스 합,8
+Sherwin-Williams,SHW,2011Q4,2011-12-30,분기말 시가총액,9299146723,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/SHW?interval=1d&events=splits (2011-12-30) ; https://www.sec.gov/Archives/edgar/data/89800/000119312512075061/,종가 89.27 × 주식수 104168777,8
+Sherwin-Williams,SHW,2012Q1,2012-03-31,분기별 매출액,2136344000,USD,공시,https://www.sec.gov/Archives/edgar/data/89800/000119312512181759/,,8
+Sherwin-Williams,SHW,2012Q1,2012-03-31,분기별 영업이익,216542000,USD,공시(후속 보고서 비교기간),https://www.sec.gov/Archives/edgar/data/89800/000008980013000058/,OperatingIncomeLoss ; 그 분기 보고서에 연결 총계가 없어 2013-04-24 제출본의 비교기간에서 읽었다,8
+Sherwin-Williams,SHW,2012Q1,2012-03-31,분기별 당기순이익(지배),100216000,USD,공시,https://www.sec.gov/Archives/edgar/data/89800/000119312512181759/,,8
+Sherwin-Williams,SHW,2012Q1,2012-03-31,분기별 영업활동현금흐름,-154839000,USD,공시,https://www.sec.gov/Archives/edgar/data/89800/000119312512181759/,,8
+Sherwin-Williams,SHW,2012Q1,2012-03-31,분기말 자산총계,5456919000,USD,공시,https://www.sec.gov/Archives/edgar/data/89800/000119312512181759/,,8
+Sherwin-Williams,SHW,2012Q1,2012-03-31,분기말 부채총계,3948322000,USD,계산(부채및자본-총자본),https://www.sec.gov/Archives/edgar/data/89800/000119312512181759/,부채및자본 5456919000 − 총자본 1508597000,8
+Sherwin-Williams,SHW,2012Q1,2012-03-31,분기말 총자본(자기자본),1508597000,USD,공시,https://www.sec.gov/Archives/edgar/data/89800/000119312512181759/,,8
+Sherwin-Williams,SHW,2012Q1,2012-03-31,분기말 지배지분 자본,1508597000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/89800/000119312512181759/,"StockholdersEquityIncludingPortionAttributableToNoncontrollingInterest, MinorityInterest 태그 없음",8
+Sherwin-Williams,SHW,2012Q1,2012-03-30,분기말 종가,108.67,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/SHW?interval=1d&events=splits (2012-03-30),분할조정 종가 36.2233 × 이후 분할계수 3,8
+Sherwin-Williams,SHW,2012Q1,2012-03-31,분기말 상장주식수,103277120,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/89800/000119312512181759/,dei:EntityCommonStockSharesOutstanding 클래스 합,8
+Sherwin-Williams,SHW,2012Q1,2012-03-30,분기말 시가총액,11223124630,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/SHW?interval=1d&events=splits (2012-03-30) ; https://www.sec.gov/Archives/edgar/data/89800/000119312512181759/,종가 108.67 × 주식수 103277120,8
+Sherwin-Williams,SHW,2012Q2,2012-06-30,분기별 매출액,2573022000,USD,공시,https://www.sec.gov/Archives/edgar/data/89800/000119312512314228/,,8
+Sherwin-Williams,SHW,2012Q2,2012-06-30,분기별 영업이익,405052000,USD,공시(후속 보고서 비교기간),https://www.sec.gov/Archives/edgar/data/89800/000008980013000074/,OperatingIncomeLoss ; 그 분기 보고서에 연결 총계가 없어 2013-07-24 제출본의 비교기간에서 읽었다,8
+Sherwin-Williams,SHW,2012Q2,2012-06-30,분기별 당기순이익(지배),227813000,USD,공시,https://www.sec.gov/Archives/edgar/data/89800/000119312512314228/,,8
+Sherwin-Williams,SHW,2012Q2,2012-06-30,분기별 영업활동현금흐름,356951000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/89800/000119312512314228/ ; https://www.sec.gov/Archives/edgar/data/89800/000119312512181759/,누적 202112000 − 직전누적 -154839000 (시작 2012-01-01),8
+Sherwin-Williams,SHW,2012Q2,2012-06-30,분기말 자산총계,5626375000,USD,공시,https://www.sec.gov/Archives/edgar/data/89800/000119312512314228/,,8
+Sherwin-Williams,SHW,2012Q2,2012-06-30,분기말 부채총계,4087122000,USD,계산(부채및자본-총자본),https://www.sec.gov/Archives/edgar/data/89800/000119312512314228/,부채및자본 5626375000 − 총자본 1539253000,8
+Sherwin-Williams,SHW,2012Q2,2012-06-30,분기말 총자본(자기자본),1539253000,USD,공시,https://www.sec.gov/Archives/edgar/data/89800/000119312512314228/,,8
+Sherwin-Williams,SHW,2012Q2,2012-06-30,분기말 지배지분 자본,1539253000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/89800/000119312512314228/,"StockholdersEquityIncludingPortionAttributableToNoncontrollingInterest, MinorityInterest 태그 없음",8
+Sherwin-Williams,SHW,2012Q2,2012-06-29,분기말 종가,132.35,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/SHW?interval=1d&events=splits (2012-06-29),분할조정 종가 44.1167 × 이후 분할계수 3,8
+Sherwin-Williams,SHW,2012Q2,2012-06-30,분기말 상장주식수,102632285,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/89800/000119312512314228/,dei:EntityCommonStockSharesOutstanding 클래스 합,8
+Sherwin-Williams,SHW,2012Q2,2012-06-29,분기말 시가총액,13583382920,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/SHW?interval=1d&events=splits (2012-06-29) ; https://www.sec.gov/Archives/edgar/data/89800/000119312512314228/,종가 132.35 × 주식수 102632285,8
+Sherwin-Williams,SHW,2012Q3,2012-09-30,분기별 매출액,2603226000,USD,공시,https://www.sec.gov/Archives/edgar/data/89800/000008980012000123/,,8
+Sherwin-Williams,SHW,2012Q3,2012-09-30,분기별 영업이익,415963000,USD,공시(후속 보고서 비교기간),https://www.sec.gov/Archives/edgar/data/89800/000008980013000094/,OperatingIncomeLoss ; 그 분기 보고서에 연결 총계가 없어 2013-10-30 제출본의 비교기간에서 읽었다,8
+Sherwin-Williams,SHW,2012Q3,2012-09-30,분기별 당기순이익(지배),234953000,USD,공시,https://www.sec.gov/Archives/edgar/data/89800/000008980012000123/,,8
+Sherwin-Williams,SHW,2012Q3,2012-09-30,분기별 영업활동현금흐름,367153000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/89800/000008980012000123/ ; https://www.sec.gov/Archives/edgar/data/89800/000119312512314228/,누적 569265000 − 직전누적 202112000 (시작 2012-01-01),8
+Sherwin-Williams,SHW,2012Q3,2012-09-30,분기말 자산총계,5625265000,USD,공시,https://www.sec.gov/Archives/edgar/data/89800/000008980012000123/,,8
+Sherwin-Williams,SHW,2012Q3,2012-09-30,분기말 부채총계,3845855000,USD,계산(부채및자본-총자본),https://www.sec.gov/Archives/edgar/data/89800/000008980012000123/,부채및자본 5625265000 − 총자본 1779410000,8
+Sherwin-Williams,SHW,2012Q3,2012-09-30,분기말 총자본(자기자본),1779410000,USD,공시,https://www.sec.gov/Archives/edgar/data/89800/000008980012000123/,,8
+Sherwin-Williams,SHW,2012Q3,2012-09-30,분기말 지배지분 자본,1779410000,USD,공시,https://www.sec.gov/Archives/edgar/data/89800/000008980012000123/,,8
+Sherwin-Williams,SHW,2012Q3,2012-09-28,분기말 종가,148.91,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/SHW?interval=1d&events=splits (2012-09-28),분할조정 종가 49.6367 × 이후 분할계수 3,8
+Sherwin-Williams,SHW,2012Q3,2012-09-30,분기말 상장주식수,103107051,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/89800/000008980012000123/,dei:EntityCommonStockSharesOutstanding 클래스 합,8
+Sherwin-Williams,SHW,2012Q3,2012-09-28,분기말 시가총액,15353670964,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/SHW?interval=1d&events=splits (2012-09-28) ; https://www.sec.gov/Archives/edgar/data/89800/000008980012000123/,종가 148.91 × 주식수 103107051,8
+Sherwin-Williams,SHW,2012Q4,2012-12-31,분기별 매출액,2221870000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/89800/000008980013000046/ ; https://www.sec.gov/Archives/edgar/data/89800/000008980012000123/,연간 9534462000 − 9개월누적 7312592000 (SalesRevenueNet),8
+Sherwin-Williams,SHW,2012Q4,2012-12-31,분기별 영업이익,269443000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/89800/000008980013000046/ ; https://www.sec.gov/Archives/edgar/data/89800/000008980013000094/,연간 1307000000 − 9개월누적 1037557000 (OperatingIncomeLoss),8
+Sherwin-Williams,SHW,2012Q4,2012-12-31,분기별 당기순이익(지배),68052000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/89800/000008980013000046/ ; https://www.sec.gov/Archives/edgar/data/89800/000008980012000123/,연간 631034000 − 9개월누적 562982000 (NetIncomeLoss),8
+Sherwin-Williams,SHW,2012Q4,2012-12-31,분기별 영업활동현금흐름,318621000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/89800/000008980013000046/ ; https://www.sec.gov/Archives/edgar/data/89800/000008980012000123/,누적 887886000 − 직전누적 569265000 (시작 2012-01-01),8
+Sherwin-Williams,SHW,2012Q4,2012-12-31,분기말 자산총계,6234737000,USD,공시,https://www.sec.gov/Archives/edgar/data/89800/000008980013000046/,,8
+Sherwin-Williams,SHW,2012Q4,2012-12-31,분기말 부채총계,4442933000,USD,계산(부채및자본-총자본),https://www.sec.gov/Archives/edgar/data/89800/000008980013000046/,부채및자본 6234737000 − 총자본 1791804000,8
+Sherwin-Williams,SHW,2012Q4,2012-12-31,분기말 총자본(자기자본),1791804000,USD,공시,https://www.sec.gov/Archives/edgar/data/89800/000008980013000046/,,8
+Sherwin-Williams,SHW,2012Q4,2012-12-31,분기말 지배지분 자본,1791804000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/89800/000008980013000046/,"StockholdersEquityIncludingPortionAttributableToNoncontrollingInterest, MinorityInterest 태그 없음",8
+Sherwin-Williams,SHW,2012Q4,2012-12-31,분기말 종가,153.82,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/SHW?interval=1d&events=splits (2012-12-31),분할조정 종가 51.2733 × 이후 분할계수 3,8
+Sherwin-Williams,SHW,2012Q4,2013-01-31,분기말 상장주식수,103402093,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/89800/000008980013000046/,dei:EntityCommonStockSharesOutstanding 클래스 합,8
+Sherwin-Williams,SHW,2012Q4,2012-12-31,분기말 시가총액,15905309945,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/SHW?interval=1d&events=splits (2012-12-31) ; https://www.sec.gov/Archives/edgar/data/89800/000008980013000046/,종가 153.82 × 주식수 103402093,8
+Sherwin-Williams,SHW,2013Q1,2013-03-31,분기별 매출액,2167168000,USD,공시,https://www.sec.gov/Archives/edgar/data/89800/000008980013000058/,,8
+Sherwin-Williams,SHW,2013Q1,2013-03-31,분기별 영업이익,238455000,USD,공시,https://www.sec.gov/Archives/edgar/data/89800/000008980013000058/,,8
+Sherwin-Williams,SHW,2013Q1,2013-03-31,분기별 당기순이익(지배),116185000,USD,공시,https://www.sec.gov/Archives/edgar/data/89800/000008980013000058/,,8
+Sherwin-Williams,SHW,2013Q1,2013-03-31,분기별 영업활동현금흐름,-91131000,USD,공시,https://www.sec.gov/Archives/edgar/data/89800/000008980013000058/,,8
+Sherwin-Williams,SHW,2013Q1,2013-03-31,분기말 자산총계,6166220000,USD,공시,https://www.sec.gov/Archives/edgar/data/89800/000008980013000058/,,8
+Sherwin-Williams,SHW,2013Q1,2013-03-31,분기말 부채총계,4353265000,USD,계산(부채및자본-총자본),https://www.sec.gov/Archives/edgar/data/89800/000008980013000058/,부채및자본 6166220000 − 총자본 1812955000,8
+Sherwin-Williams,SHW,2013Q1,2013-03-31,분기말 총자본(자기자본),1812955000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/89800/000008980013000058/,"StockholdersEquity, MinorityInterest 태그 없음",8
+Sherwin-Williams,SHW,2013Q1,2013-03-31,분기말 지배지분 자본,1812955000,USD,공시,https://www.sec.gov/Archives/edgar/data/89800/000008980013000058/,,8
+Sherwin-Williams,SHW,2013Q1,2013-03-28,분기말 종가,168.89,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/SHW?interval=1d&events=splits (2013-03-28),분할조정 종가 56.2967 × 이후 분할계수 3,8
+Sherwin-Williams,SHW,2013Q1,2013-03-31,분기말 상장주식수,103164522,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/89800/000008980013000058/,dei:EntityCommonStockSharesOutstanding 클래스 합,8
+Sherwin-Williams,SHW,2013Q1,2013-03-28,분기말 시가총액,17423456121,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/SHW?interval=1d&events=splits (2013-03-28) ; https://www.sec.gov/Archives/edgar/data/89800/000008980013000058/,종가 168.89 × 주식수 103164522,8
+Sherwin-Williams,SHW,2013Q2,2013-06-30,분기별 매출액,2713889000,USD,공시,https://www.sec.gov/Archives/edgar/data/89800/000008980013000074/,,8
+Sherwin-Williams,SHW,2013Q2,2013-06-30,분기별 영업이익,467332000,USD,공시,https://www.sec.gov/Archives/edgar/data/89800/000008980013000074/,,8
+Sherwin-Williams,SHW,2013Q2,2013-06-30,분기별 당기순이익(지배),257287000,USD,공시,https://www.sec.gov/Archives/edgar/data/89800/000008980013000074/,,8
+Sherwin-Williams,SHW,2013Q2,2013-06-30,분기별 영업활동현금흐름,393206000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/89800/000008980013000074/ ; https://www.sec.gov/Archives/edgar/data/89800/000008980013000058/,누적 302075000 − 직전누적 -91131000 (시작 2013-01-01),8
+Sherwin-Williams,SHW,2013Q2,2013-06-30,분기말 자산총계,6408504000,USD,공시,https://www.sec.gov/Archives/edgar/data/89800/000008980013000074/,,8
+Sherwin-Williams,SHW,2013Q2,2013-06-30,분기말 부채총계,4540974000,USD,계산(부채및자본-총자본),https://www.sec.gov/Archives/edgar/data/89800/000008980013000074/,부채및자본 6408504000 − 총자본 1867530000,8
+Sherwin-Williams,SHW,2013Q2,2013-06-30,분기말 총자본(자기자본),1867530000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/89800/000008980013000074/,"StockholdersEquity, MinorityInterest 태그 없음",8
+Sherwin-Williams,SHW,2013Q2,2013-06-30,분기말 지배지분 자본,1867530000,USD,공시,https://www.sec.gov/Archives/edgar/data/89800/000008980013000074/,,8
+Sherwin-Williams,SHW,2013Q2,2013-06-28,분기말 종가,176.6,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/SHW?interval=1d&events=splits (2013-06-28),분할조정 종가 58.8667 × 이후 분할계수 3,8
+Sherwin-Williams,SHW,2013Q2,2013-06-30,분기말 상장주식수,102683128,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/89800/000008980013000074/,dei:EntityCommonStockSharesOutstanding 클래스 합,8
+Sherwin-Williams,SHW,2013Q2,2013-06-28,분기말 시가총액,18133840405,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/SHW?interval=1d&events=splits (2013-06-28) ; https://www.sec.gov/Archives/edgar/data/89800/000008980013000074/,종가 176.6 × 주식수 102683128,8
+Sherwin-Williams,SHW,2013Q3,2013-09-30,분기별 매출액,2847417000,USD,공시,https://www.sec.gov/Archives/edgar/data/89800/000008980013000094/,,8
+Sherwin-Williams,SHW,2013Q3,2013-09-30,분기별 영업이익,475970000,USD,공시,https://www.sec.gov/Archives/edgar/data/89800/000008980013000094/,,8
+Sherwin-Williams,SHW,2013Q3,2013-09-30,분기별 당기순이익(지배),262966000,USD,공시,https://www.sec.gov/Archives/edgar/data/89800/000008980013000094/,,8
+Sherwin-Williams,SHW,2013Q3,2013-09-30,분기별 영업활동현금흐름,475836000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/89800/000008980013000094/ ; https://www.sec.gov/Archives/edgar/data/89800/000008980013000074/,누적 777911000 − 직전누적 302075000 (시작 2013-01-01),8
+Sherwin-Williams,SHW,2013Q3,2013-09-30,분기말 자산총계,6921588000,USD,공시,https://www.sec.gov/Archives/edgar/data/89800/000008980013000094/,,8
+Sherwin-Williams,SHW,2013Q3,2013-09-30,분기말 부채총계,5051937000,USD,계산(부채및자본-총자본),https://www.sec.gov/Archives/edgar/data/89800/000008980013000094/,부채및자본 6921588000 − 총자본 1869651000,8
+Sherwin-Williams,SHW,2013Q3,2013-09-30,분기말 총자본(자기자본),1869651000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/89800/000008980013000094/,"StockholdersEquity, MinorityInterest 태그 없음",8
+Sherwin-Williams,SHW,2013Q3,2013-09-30,분기말 지배지분 자본,1869651000,USD,공시,https://www.sec.gov/Archives/edgar/data/89800/000008980013000094/,,8
+Sherwin-Williams,SHW,2013Q3,2013-09-30,분기말 종가,182.18,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/SHW?interval=1d&events=splits (2013-09-30),분할조정 종가 60.7267 × 이후 분할계수 3,8
+Sherwin-Williams,SHW,2013Q3,2013-09-30,분기말 상장주식수,101333029,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/89800/000008980013000094/,dei:EntityCommonStockSharesOutstanding 클래스 합,8
+Sherwin-Williams,SHW,2013Q3,2013-09-30,분기말 시가총액,18460851223,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/SHW?interval=1d&events=splits (2013-09-30) ; https://www.sec.gov/Archives/edgar/data/89800/000008980013000094/,종가 182.18 × 주식수 101333029,8
+Sherwin-Williams,SHW,2013Q4,2013-12-31,분기별 매출액,2457526000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/89800/000008980014000045/ ; https://www.sec.gov/Archives/edgar/data/89800/000008980013000094/,연간 10186000000 − 9개월누적 7728474000 (Revenues),8
+Sherwin-Williams,SHW,2013Q4,2013-12-31,분기별 영업이익,미확인,USD,미확인,SEC companyfacts CIK0000089800: 해당 보고서에 OperatingIncomeLoss 태그 없음(영업이익 미공시) ; https://www.sec.gov/Archives/edgar/data/89800/000008980014000045/,,8
+Sherwin-Williams,SHW,2013Q4,2013-12-31,분기별 당기순이익(지배),116123000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/89800/000008980014000045/ ; https://www.sec.gov/Archives/edgar/data/89800/000008980013000094/,연간 752561000 − 9개월누적 636438000 (NetIncomeLoss),8
+Sherwin-Williams,SHW,2013Q4,2013-12-31,분기별 영업활동현금흐름,305855000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/89800/000008980014000045/ ; https://www.sec.gov/Archives/edgar/data/89800/000008980013000094/,누적 1083766000 − 직전누적 777911000 (시작 2013-01-01),8
+Sherwin-Williams,SHW,2013Q4,2013-12-31,분기말 자산총계,6382507000,USD,공시,https://www.sec.gov/Archives/edgar/data/89800/000008980014000045/,,8
+Sherwin-Williams,SHW,2013Q4,2013-12-31,분기말 부채총계,4607972000,USD,계산(부채및자본-총자본),https://www.sec.gov/Archives/edgar/data/89800/000008980014000045/,부채및자본 6382507000 − 총자본 1774535000,8
+Sherwin-Williams,SHW,2013Q4,2013-12-31,분기말 총자본(자기자본),1774535000,USD,공시,https://www.sec.gov/Archives/edgar/data/89800/000008980014000045/,,8
+Sherwin-Williams,SHW,2013Q4,2013-12-31,분기말 지배지분 자본,1774535000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/89800/000008980014000045/,"StockholdersEquityIncludingPortionAttributableToNoncontrollingInterest, MinorityInterest 태그 없음",8
+Sherwin-Williams,SHW,2013Q4,2013-12-31,분기말 종가,183.5,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/SHW?interval=1d&events=splits (2013-12-31),분할조정 종가 61.1667 × 이후 분할계수 3,8
+Sherwin-Williams,SHW,2013Q4,2014-01-31,분기말 상장주식수,100296737,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/89800/000008980014000045/,dei:EntityCommonStockSharesOutstanding 클래스 합,8
+Sherwin-Williams,SHW,2013Q4,2013-12-31,분기말 시가총액,18404451240,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/SHW?interval=1d&events=splits (2013-12-31) ; https://www.sec.gov/Archives/edgar/data/89800/000008980014000045/,종가 183.5 × 주식수 100296737,8
+Sherwin-Williams,SHW,2014Q1,2014-03-31,분기별 매출액,2366556000,USD,공시,https://www.sec.gov/Archives/edgar/data/89800/000008980014000059/,,8
+Sherwin-Williams,SHW,2014Q1,2014-03-31,분기별 영업이익,253817000,USD,공시,https://www.sec.gov/Archives/edgar/data/89800/000008980014000059/,,8
+Sherwin-Williams,SHW,2014Q1,2014-03-31,분기별 당기순이익(지배),115457000,USD,공시,https://www.sec.gov/Archives/edgar/data/89800/000008980014000059/,,8
+Sherwin-Williams,SHW,2014Q1,2014-03-31,분기별 영업활동현금흐름,-83119000,USD,공시,https://www.sec.gov/Archives/edgar/data/89800/000008980014000059/,,8
+Sherwin-Williams,SHW,2014Q1,2014-03-31,분기말 자산총계,6189225000,USD,공시,https://www.sec.gov/Archives/edgar/data/89800/000008980014000059/,,8
+Sherwin-Williams,SHW,2014Q1,2014-03-31,분기말 부채총계,4536186000,USD,계산(부채및자본-총자본),https://www.sec.gov/Archives/edgar/data/89800/000008980014000059/,부채및자본 6189225000 − 총자본 1653039000,8
+Sherwin-Williams,SHW,2014Q1,2014-03-31,분기말 총자본(자기자본),1653039000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/89800/000008980014000059/,"StockholdersEquity, MinorityInterest 태그 없음",8
+Sherwin-Williams,SHW,2014Q1,2014-03-31,분기말 지배지분 자본,1653039000,USD,공시,https://www.sec.gov/Archives/edgar/data/89800/000008980014000059/,,8
+Sherwin-Williams,SHW,2014Q1,2014-03-31,분기말 종가,197.13,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/SHW?interval=1d&events=splits (2014-03-31),분할조정 종가 65.71 × 이후 분할계수 3,8
+Sherwin-Williams,SHW,2014Q1,2014-03-31,분기말 상장주식수,99651879,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/89800/000008980014000059/,dei:EntityCommonStockSharesOutstanding 클래스 합,8
+Sherwin-Williams,SHW,2014Q1,2014-03-31,분기말 시가총액,19644374907,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/SHW?interval=1d&events=splits (2014-03-31) ; https://www.sec.gov/Archives/edgar/data/89800/000008980014000059/,종가 197.13 × 주식수 99651879,8
+Sherwin-Williams,SHW,2014Q2,2014-06-30,분기별 매출액,3042995000,USD,공시,https://www.sec.gov/Archives/edgar/data/89800/000008980014000068/,,8
+Sherwin-Williams,SHW,2014Q2,2014-06-30,분기별 영업이익,528870000,USD,공시,https://www.sec.gov/Archives/edgar/data/89800/000008980014000068/,,8
+Sherwin-Williams,SHW,2014Q2,2014-06-30,분기별 당기순이익(지배),291447000,USD,공시,https://www.sec.gov/Archives/edgar/data/89800/000008980014000068/,,8
+Sherwin-Williams,SHW,2014Q2,2014-06-30,분기별 영업활동현금흐름,414699000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/89800/000008980014000068/ ; https://www.sec.gov/Archives/edgar/data/89800/000008980014000059/,누적 331580000 − 직전누적 -83119000 (시작 2014-01-01),8
+Sherwin-Williams,SHW,2014Q2,2014-06-30,분기말 자산총계,6341000000,USD,공시,https://www.sec.gov/Archives/edgar/data/89800/000008980014000068/,,8
+Sherwin-Williams,SHW,2014Q2,2014-06-30,분기말 부채총계,4816041000,USD,계산(부채및자본-총자본),https://www.sec.gov/Archives/edgar/data/89800/000008980014000068/,부채및자본 6341000000 − 총자본 1524959000,8
+Sherwin-Williams,SHW,2014Q2,2014-06-30,분기말 총자본(자기자본),1524959000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/89800/000008980014000068/,"StockholdersEquity, MinorityInterest 태그 없음",8
+Sherwin-Williams,SHW,2014Q2,2014-06-30,분기말 지배지분 자본,1524959000,USD,공시,https://www.sec.gov/Archives/edgar/data/89800/000008980014000068/,,8
+Sherwin-Williams,SHW,2014Q2,2014-06-30,분기말 종가,206.91,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/SHW?interval=1d&events=splits (2014-06-30),분할조정 종가 68.97 × 이후 분할계수 3,8
+Sherwin-Williams,SHW,2014Q2,2014-06-30,분기말 상장주식수,97787954,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/89800/000008980014000068/,dei:EntityCommonStockSharesOutstanding 클래스 합,8
+Sherwin-Williams,SHW,2014Q2,2014-06-30,분기말 시가총액,20233305562,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/SHW?interval=1d&events=splits (2014-06-30) ; https://www.sec.gov/Archives/edgar/data/89800/000008980014000068/,종가 206.91 × 주식수 97787954,8
+Sherwin-Williams,SHW,2014Q3,2014-09-30,분기별 매출액,3150570000,USD,공시,https://www.sec.gov/Archives/edgar/data/89800/000008980014000072/,,8
+Sherwin-Williams,SHW,2014Q3,2014-09-30,분기별 영업이익,583339000,USD,공시,https://www.sec.gov/Archives/edgar/data/89800/000008980014000072/,,8
+Sherwin-Williams,SHW,2014Q3,2014-09-30,분기별 당기순이익(지배),326240000,USD,공시,https://www.sec.gov/Archives/edgar/data/89800/000008980014000072/,,8
+Sherwin-Williams,SHW,2014Q3,2014-09-30,분기별 영업활동현금흐름,549730000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/89800/000008980014000072/ ; https://www.sec.gov/Archives/edgar/data/89800/000008980014000068/,누적 881310000 − 직전누적 331580000 (시작 2014-01-01),8
+Sherwin-Williams,SHW,2014Q3,2014-09-30,분기말 자산총계,6317005000,USD,공시,https://www.sec.gov/Archives/edgar/data/89800/000008980014000072/,,8
+Sherwin-Williams,SHW,2014Q3,2014-09-30,분기말 부채총계,4965069000,USD,계산(부채및자본-총자본),https://www.sec.gov/Archives/edgar/data/89800/000008980014000072/,부채및자본 6317005000 − 총자본 1351936000,8
+Sherwin-Williams,SHW,2014Q3,2014-09-30,분기말 총자본(자기자본),1351936000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/89800/000008980014000072/,"StockholdersEquity, MinorityInterest 태그 없음",8
+Sherwin-Williams,SHW,2014Q3,2014-09-30,분기말 지배지분 자본,1351936000,USD,공시,https://www.sec.gov/Archives/edgar/data/89800/000008980014000072/,,8
+Sherwin-Williams,SHW,2014Q3,2014-09-30,분기말 종가,218.99,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/SHW?interval=1d&events=splits (2014-09-30),분할조정 종가 72.9967 × 이후 분할계수 3,8
+Sherwin-Williams,SHW,2014Q3,2014-09-30,분기말 상장주식수,95997693,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/89800/000008980014000072/,dei:EntityCommonStockSharesOutstanding 클래스 합,8
+Sherwin-Williams,SHW,2014Q3,2014-09-30,분기말 시가총액,21022534790,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/SHW?interval=1d&events=splits (2014-09-30) ; https://www.sec.gov/Archives/edgar/data/89800/000008980014000072/,종가 218.99 × 주식수 95997693,8
+Sherwin-Williams,SHW,2014Q4,2014-12-31,분기별 매출액,2569879000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/89800/000008980015000004/ ; https://www.sec.gov/Archives/edgar/data/89800/000008980014000072/,연간 11130000000 − 9개월누적 8560121000 (Revenues),8
+Sherwin-Williams,SHW,2014Q4,2014-12-31,분기별 영업이익,미확인,USD,미확인,SEC companyfacts CIK0000089800: 해당 보고서에 OperatingIncomeLoss 태그 없음(영업이익 미공시) ; https://www.sec.gov/Archives/edgar/data/89800/000008980015000004/,,8
+Sherwin-Williams,SHW,2014Q4,2014-12-31,분기별 당기순이익(지배),132743000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/89800/000008980015000004/ ; https://www.sec.gov/Archives/edgar/data/89800/000008980014000072/,연간 865887000 − 9개월누적 733144000 (NetIncomeLoss),8
+Sherwin-Williams,SHW,2014Q4,2014-12-31,분기별 영업활동현금흐름,200218000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/89800/000008980015000004/ ; https://www.sec.gov/Archives/edgar/data/89800/000008980014000072/,누적 1081528000 − 직전누적 881310000 (시작 2014-01-01),8
+Sherwin-Williams,SHW,2014Q4,2014-12-31,분기말 자산총계,5699333000,USD,공시(재작성 반영),https://www.sec.gov/Archives/edgar/data/89800/000008980017000005/,원 공시 5706052000 (https://www.sec.gov/Archives/edgar/data/89800/000008980015000004/),8
+Sherwin-Williams,SHW,2014Q4,2014-12-31,분기말 부채총계,4702863000,USD,계산(부채및자본-총자본)(재작성 반영),https://www.sec.gov/Archives/edgar/data/89800/000008980017000005/,부채및자본 5699333000 − 총자본 996470000 ; 원 공시 4709582000 (https://www.sec.gov/Archives/edgar/data/89800/000008980015000004/),8
+Sherwin-Williams,SHW,2014Q4,2014-12-31,분기말 총자본(자기자본),996470000,USD,공시,https://www.sec.gov/Archives/edgar/data/89800/000008980015000004/,,8
+Sherwin-Williams,SHW,2014Q4,2014-12-31,분기말 지배지분 자본,996470000,USD,공시,https://www.sec.gov/Archives/edgar/data/89800/000008980015000004/,,8
+Sherwin-Williams,SHW,2014Q4,2014-12-31,분기말 종가,263.04,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/SHW?interval=1d&events=splits (2014-12-31),분할조정 종가 87.68 × 이후 분할계수 3,8
+Sherwin-Williams,SHW,2014Q4,2015-01-31,분기말 상장주식수,94894689,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/89800/000008980015000004/,dei:EntityCommonStockSharesOutstanding 클래스 합,8
+Sherwin-Williams,SHW,2014Q4,2014-12-31,분기말 시가총액,24961098995,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/SHW?interval=1d&events=splits (2014-12-31) ; https://www.sec.gov/Archives/edgar/data/89800/000008980015000004/,종가 263.04 × 주식수 94894689,8
+Sherwin-Williams,SHW,2015Q1,2015-03-31,분기별 매출액,2450284000,USD,공시,https://www.sec.gov/Archives/edgar/data/89800/000008980015000008/,,8
+Sherwin-Williams,SHW,2015Q1,2015-03-31,분기별 영업이익,280382000,USD,공시,https://www.sec.gov/Archives/edgar/data/89800/000008980015000008/,,8
+Sherwin-Williams,SHW,2015Q1,2015-03-31,분기별 당기순이익(지배),131404000,USD,공시,https://www.sec.gov/Archives/edgar/data/89800/000008980015000008/,,8
+Sherwin-Williams,SHW,2015Q1,2015-03-31,분기별 영업활동현금흐름,-55068000,USD,공시,https://www.sec.gov/Archives/edgar/data/89800/000008980015000008/,,8
+Sherwin-Williams,SHW,2015Q1,2015-03-31,분기말 자산총계,5852846000,USD,공시(재작성 반영),https://www.sec.gov/Archives/edgar/data/89800/000008980016000030/,원 공시 5859250000 (https://www.sec.gov/Archives/edgar/data/89800/000008980015000008/),8
+Sherwin-Williams,SHW,2015Q1,2015-03-31,분기말 부채총계,5383674000,USD,계산(부채및자본-총자본)(재작성 반영),https://www.sec.gov/Archives/edgar/data/89800/000008980016000030/,부채및자본 5852846000 − 총자본 469172000 ; 원 공시 5390078000 (https://www.sec.gov/Archives/edgar/data/89800/000008980015000008/),8
+Sherwin-Williams,SHW,2015Q1,2015-03-31,분기말 총자본(자기자본),469172000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/89800/000008980015000008/,"StockholdersEquity, MinorityInterest 태그 없음",8
+Sherwin-Williams,SHW,2015Q1,2015-03-31,분기말 지배지분 자본,469172000,USD,공시,https://www.sec.gov/Archives/edgar/data/89800/000008980015000008/,,8
+Sherwin-Williams,SHW,2015Q1,2015-03-31,분기말 종가,284.5,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/SHW?interval=1d&events=splits (2015-03-31),분할조정 종가 94.8333 × 이후 분할계수 3,8
+Sherwin-Williams,SHW,2015Q1,2015-03-31,분기말 상장주식수,93186295,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/89800/000008980015000008/,dei:EntityCommonStockSharesOutstanding 클래스 합,8
+Sherwin-Williams,SHW,2015Q1,2015-03-31,분기말 시가총액,26511500928,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/SHW?interval=1d&events=splits (2015-03-31) ; https://www.sec.gov/Archives/edgar/data/89800/000008980015000008/,종가 284.5 × 주식수 93186295,8
+Sherwin-Williams,SHW,2015Q2,2015-06-30,분기별 매출액,3132139000,USD,공시,https://www.sec.gov/Archives/edgar/data/89800/000008980015000015/,,8
+Sherwin-Williams,SHW,2015Q2,2015-06-30,분기별 영업이익,608927000,USD,공시,https://www.sec.gov/Archives/edgar/data/89800/000008980015000015/,,8
+Sherwin-Williams,SHW,2015Q2,2015-06-30,분기별 당기순이익(지배),349937000,USD,공시,https://www.sec.gov/Archives/edgar/data/89800/000008980015000015/,,8
+Sherwin-Williams,SHW,2015Q2,2015-06-30,분기별 영업활동현금흐름,404088000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/89800/000008980015000015/ ; https://www.sec.gov/Archives/edgar/data/89800/000008980015000008/,누적 349020000 − 직전누적 -55068000 (시작 2015-01-01),8
+Sherwin-Williams,SHW,2015Q2,2015-06-30,분기말 자산총계,6128575000,USD,공시(재작성 반영),https://www.sec.gov/Archives/edgar/data/89800/000008980016000036/,원 공시 6134664000 (https://www.sec.gov/Archives/edgar/data/89800/000008980015000015/),8
+Sherwin-Williams,SHW,2015Q2,2015-06-30,분기말 부채총계,5371233000,USD,계산(부채및자본-총자본)(재작성 반영),https://www.sec.gov/Archives/edgar/data/89800/000008980016000036/,부채및자본 6128575000 − 총자본 757342000 ; 원 공시 5377322000 (https://www.sec.gov/Archives/edgar/data/89800/000008980015000015/),8
+Sherwin-Williams,SHW,2015Q2,2015-06-30,분기말 총자본(자기자본),757342000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/89800/000008980015000015/,"StockholdersEquity, MinorityInterest 태그 없음",8
+Sherwin-Williams,SHW,2015Q2,2015-06-30,분기말 지배지분 자본,757342000,USD,공시,https://www.sec.gov/Archives/edgar/data/89800/000008980015000015/,,8
+Sherwin-Williams,SHW,2015Q2,2015-06-30,분기말 종가,275.02,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/SHW?interval=1d&events=splits (2015-06-30),분할조정 종가 91.6733 × 이후 분할계수 3,8
+Sherwin-Williams,SHW,2015Q2,2015-06-30,분기말 상장주식수,93210645,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/89800/000008980015000015/,dei:EntityCommonStockSharesOutstanding 클래스 합,8
+Sherwin-Williams,SHW,2015Q2,2015-06-30,분기말 시가총액,25634791588,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/SHW?interval=1d&events=splits (2015-06-30) ; https://www.sec.gov/Archives/edgar/data/89800/000008980015000015/,종가 275.02 × 주식수 93210645,8
+Sherwin-Williams,SHW,2015Q3,2015-09-30,분기별 매출액,3152285000,USD,공시,https://www.sec.gov/Archives/edgar/data/89800/000008980015000020/,,8
+Sherwin-Williams,SHW,2015Q3,2015-09-30,분기별 영업이익,652962000,USD,공시,https://www.sec.gov/Archives/edgar/data/89800/000008980015000020/,,8
+Sherwin-Williams,SHW,2015Q3,2015-09-30,분기별 당기순이익(지배),374491000,USD,공시,https://www.sec.gov/Archives/edgar/data/89800/000008980015000020/,,8
+Sherwin-Williams,SHW,2015Q3,2015-09-30,분기별 영업활동현금흐름,553484000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/89800/000008980015000020/ ; https://www.sec.gov/Archives/edgar/data/89800/000008980015000015/,누적 902504000 − 직전누적 349020000 (시작 2015-01-01),8
+Sherwin-Williams,SHW,2015Q3,2015-09-30,분기말 자산총계,6088978000,USD,공시(재작성 반영),https://www.sec.gov/Archives/edgar/data/89800/000008980016000039/,원 공시 6102023000 (https://www.sec.gov/Archives/edgar/data/89800/000008980015000020/),8
+Sherwin-Williams,SHW,2015Q3,2015-09-30,분기말 부채총계,5112813000,USD,계산(부채및자본-총자본)(재작성 반영),https://www.sec.gov/Archives/edgar/data/89800/000008980016000039/,부채및자본 6088978000 − 총자본 976165000 ; 원 공시 5125858000 (https://www.sec.gov/Archives/edgar/data/89800/000008980015000020/),8
+Sherwin-Williams,SHW,2015Q3,2015-09-30,분기말 총자본(자기자본),976165000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/89800/000008980015000020/,"StockholdersEquity, MinorityInterest 태그 없음",8
+Sherwin-Williams,SHW,2015Q3,2015-09-30,분기말 지배지분 자본,976165000,USD,공시,https://www.sec.gov/Archives/edgar/data/89800/000008980015000020/,,8
+Sherwin-Williams,SHW,2015Q3,2015-09-30,분기말 종가,222.78,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/SHW?interval=1d&events=splits (2015-09-30),분할조정 종가 74.26 × 이후 분할계수 3,8
+Sherwin-Williams,SHW,2015Q3,2015-09-30,분기말 상장주식수,93100515,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/89800/000008980015000020/,dei:EntityCommonStockSharesOutstanding 클래스 합,8
+Sherwin-Williams,SHW,2015Q3,2015-09-30,분기말 시가총액,20740932732,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/SHW?interval=1d&events=splits (2015-09-30) ; https://www.sec.gov/Archives/edgar/data/89800/000008980015000020/,종가 222.78 × 주식수 93100515,8
+Sherwin-Williams,SHW,2015Q4,2015-12-31,분기별 매출액,2604292000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/89800/000008980016000026/ ; https://www.sec.gov/Archives/edgar/data/89800/000008980015000020/,연간 11339000000 − 9개월누적 8734708000 (Revenues),8
+Sherwin-Williams,SHW,2015Q4,2015-12-31,분기별 영업이익,420729000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/89800/000008980016000026/ ; https://www.sec.gov/Archives/edgar/data/89800/000008980015000020/,연간 1963000000 − 9개월누적 1542271000 (OperatingIncomeLoss),8
+Sherwin-Williams,SHW,2015Q4,2015-12-31,분기별 당기순이익(지배),198017000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/89800/000008980016000026/ ; https://www.sec.gov/Archives/edgar/data/89800/000008980015000020/,연간 1053849000 − 9개월누적 855832000 (NetIncomeLoss),8
+Sherwin-Williams,SHW,2015Q4,2015-12-31,분기별 영업활동현금흐름,544959000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/89800/000008980016000026/ ; https://www.sec.gov/Archives/edgar/data/89800/000008980015000020/,누적 1447463000 − 직전누적 902504000 (시작 2015-01-01),8
+Sherwin-Williams,SHW,2015Q4,2015-12-31,분기말 자산총계,5778937000,USD,공시(재작성 반영),https://www.sec.gov/Archives/edgar/data/89800/000008980018000004/,원 공시 5791855000 (https://www.sec.gov/Archives/edgar/data/89800/000008980016000026/),8
+Sherwin-Williams,SHW,2015Q4,2015-12-31,분기말 부채총계,4911027000,USD,계산(부채및자본-총자본)(재작성 반영),https://www.sec.gov/Archives/edgar/data/89800/000008980018000004/,부채및자본 5778937000 − 총자본 867910000 ; 원 공시 4923945000 (https://www.sec.gov/Archives/edgar/data/89800/000008980016000026/),8
+Sherwin-Williams,SHW,2015Q4,2015-12-31,분기말 총자본(자기자본),867910000,USD,공시,https://www.sec.gov/Archives/edgar/data/89800/000008980016000026/,,8
+Sherwin-Williams,SHW,2015Q4,2015-12-31,분기말 지배지분 자본,867910000,USD,공시,https://www.sec.gov/Archives/edgar/data/89800/000008980016000026/,,8
+Sherwin-Williams,SHW,2015Q4,2015-12-31,분기말 종가,259.6,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/SHW?interval=1d&events=splits (2015-12-31),분할조정 종가 86.5333 × 이후 분할계수 3,8
+Sherwin-Williams,SHW,2015Q4,2016-01-31,분기말 상장주식수,92270422,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/89800/000008980016000026/,dei:EntityCommonStockSharesOutstanding 클래스 합,8
+Sherwin-Williams,SHW,2015Q4,2015-12-31,분기말 시가총액,23953401551,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/SHW?interval=1d&events=splits (2015-12-31) ; https://www.sec.gov/Archives/edgar/data/89800/000008980016000026/,종가 259.6 × 주식수 92270422,8
+Sherwin-Williams,SHW,2016Q1,2016-03-31,분기별 매출액,2574024000,USD,공시,https://www.sec.gov/Archives/edgar/data/89800/000008980016000030/,,8
+Sherwin-Williams,SHW,2016Q1,2016-03-31,분기별 영업이익,365152000,USD,공시,https://www.sec.gov/Archives/edgar/data/89800/000008980016000030/,,8
+Sherwin-Williams,SHW,2016Q1,2016-03-31,분기별 당기순이익(지배),164876000,USD,공시(재작성 반영),https://www.sec.gov/Archives/edgar/data/89800/000008980017000009/,원 공시 147128000 (https://www.sec.gov/Archives/edgar/data/89800/000008980016000030/),8
+Sherwin-Williams,SHW,2016Q1,2016-03-31,분기별 영업활동현금흐름,-62059000,USD,공시(재작성 반영),https://www.sec.gov/Archives/edgar/data/89800/000008980017000009/,원 공시 -79807000 (https://www.sec.gov/Archives/edgar/data/89800/000008980016000030/),8
+Sherwin-Williams,SHW,2016Q1,2016-03-31,분기말 자산총계,6038309000,USD,공시,https://www.sec.gov/Archives/edgar/data/89800/000008980016000030/,,8
+Sherwin-Williams,SHW,2016Q1,2016-03-31,분기말 부채총계,5037486000,USD,계산(부채및자본-총자본),https://www.sec.gov/Archives/edgar/data/89800/000008980016000030/,부채및자본 6038309000 − 총자본 1000823000,8
+Sherwin-Williams,SHW,2016Q1,2016-03-31,분기말 총자본(자기자본),1000823000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/89800/000008980016000030/,"StockholdersEquity, MinorityInterest 태그 없음",8
+Sherwin-Williams,SHW,2016Q1,2016-03-31,분기말 지배지분 자본,1000823000,USD,공시,https://www.sec.gov/Archives/edgar/data/89800/000008980016000030/,,8
+Sherwin-Williams,SHW,2016Q1,2016-03-31,분기말 종가,284.67,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/SHW?interval=1d&events=splits (2016-03-31),분할조정 종가 94.89 × 이후 분할계수 3,8
+Sherwin-Williams,SHW,2016Q1,2016-03-31,분기말 상장주식수,92495113,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/89800/000008980016000030/,dei:EntityCommonStockSharesOutstanding 클래스 합,8
+Sherwin-Williams,SHW,2016Q1,2016-03-31,분기말 시가총액,26330583818,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/SHW?interval=1d&events=splits (2016-03-31) ; https://www.sec.gov/Archives/edgar/data/89800/000008980016000030/,종가 284.67 × 주식수 92495113,8
+Sherwin-Williams,SHW,2016Q2,2016-06-30,분기별 매출액,3219525000,USD,공시,https://www.sec.gov/Archives/edgar/data/89800/000008980016000036/,,8
+Sherwin-Williams,SHW,2016Q2,2016-06-30,분기별 영업이익,672881000,USD,공시,https://www.sec.gov/Archives/edgar/data/89800/000008980016000036/,,8
+Sherwin-Williams,SHW,2016Q2,2016-06-30,분기별 당기순이익(지배),378064000,USD,공시,https://www.sec.gov/Archives/edgar/data/89800/000008980016000036/,,8
+Sherwin-Williams,SHW,2016Q2,2016-06-30,분기별 영업활동현금흐름,572042000,USD,계산(누적차감)(재작성 반영),https://www.sec.gov/Archives/edgar/data/89800/000008980016000036/ ; https://www.sec.gov/Archives/edgar/data/89800/000008980017000009/,누적 509983000 − 직전누적 -62059000 (시작 2016-01-01) ; 원 공시 589790000 (https://www.sec.gov/Archives/edgar/data/89800/000008980016000036/ ; https://www.sec.gov/Archives/edgar/data/89800/000008980016000030/),8
+Sherwin-Williams,SHW,2016Q2,2016-06-30,분기말 자산총계,6665677000,USD,공시,https://www.sec.gov/Archives/edgar/data/89800/000008980016000036/,,8
+Sherwin-Williams,SHW,2016Q2,2016-06-30,분기말 부채총계,5419048000,USD,계산(부채및자본-총자본),https://www.sec.gov/Archives/edgar/data/89800/000008980016000036/,부채및자본 6665677000 − 총자본 1246629000,8
+Sherwin-Williams,SHW,2016Q2,2016-06-30,분기말 총자본(자기자본),1246629000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/89800/000008980016000036/,"StockholdersEquity, MinorityInterest 태그 없음",8
+Sherwin-Williams,SHW,2016Q2,2016-06-30,분기말 지배지분 자본,1246629000,USD,공시,https://www.sec.gov/Archives/edgar/data/89800/000008980016000036/,,8
+Sherwin-Williams,SHW,2016Q2,2016-06-30,분기말 종가,293.67,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/SHW?interval=1d&events=splits (2016-06-30),분할조정 종가 97.89 × 이후 분할계수 3,8
+Sherwin-Williams,SHW,2016Q2,2016-06-30,분기말 상장주식수,92221707,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/89800/000008980016000036/,dei:EntityCommonStockSharesOutstanding 클래스 합,8
+Sherwin-Williams,SHW,2016Q2,2016-06-30,분기말 시가총액,27082748695,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/SHW?interval=1d&events=splits (2016-06-30) ; https://www.sec.gov/Archives/edgar/data/89800/000008980016000036/,종가 293.67 × 주식수 92221707,8
+Sherwin-Williams,SHW,2016Q3,2016-09-30,분기별 매출액,3279462000,USD,공시,https://www.sec.gov/Archives/edgar/data/89800/000008980016000039/,,8
+Sherwin-Williams,SHW,2016Q3,2016-09-30,분기별 영업이익,674499000,USD,공시,https://www.sec.gov/Archives/edgar/data/89800/000008980016000039/,,8
+Sherwin-Williams,SHW,2016Q3,2016-09-30,분기별 당기순이익(지배),386733000,USD,공시,https://www.sec.gov/Archives/edgar/data/89800/000008980016000039/,,8
+Sherwin-Williams,SHW,2016Q3,2016-09-30,분기별 영업활동현금흐름,456551000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/89800/000008980016000039/ ; https://www.sec.gov/Archives/edgar/data/89800/000008980016000036/,누적 966534000 − 직전누적 509983000 (시작 2016-01-01),8
+Sherwin-Williams,SHW,2016Q3,2016-09-30,분기말 자산총계,6917771000,USD,공시,https://www.sec.gov/Archives/edgar/data/89800/000008980016000039/,,8
+Sherwin-Williams,SHW,2016Q3,2016-09-30,분기말 부채총계,5319988000,USD,계산(부채및자본-총자본),https://www.sec.gov/Archives/edgar/data/89800/000008980016000039/,부채및자본 6917771000 − 총자본 1597783000,8
+Sherwin-Williams,SHW,2016Q3,2016-09-30,분기말 총자본(자기자본),1597783000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/89800/000008980016000039/,"StockholdersEquity, MinorityInterest 태그 없음",8
+Sherwin-Williams,SHW,2016Q3,2016-09-30,분기말 지배지분 자본,1597783000,USD,공시,https://www.sec.gov/Archives/edgar/data/89800/000008980016000039/,,8
+Sherwin-Williams,SHW,2016Q3,2016-09-30,분기말 종가,276.66,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/SHW?interval=1d&events=splits (2016-09-30),분할조정 종가 92.22 × 이후 분할계수 3,8
+Sherwin-Williams,SHW,2016Q3,2016-09-30,분기말 상장주식수,92907741,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/89800/000008980016000039/,dei:EntityCommonStockSharesOutstanding 클래스 합,8
+Sherwin-Williams,SHW,2016Q3,2016-09-30,분기말 시가총액,25703855625,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/SHW?interval=1d&events=splits (2016-09-30) ; https://www.sec.gov/Archives/edgar/data/89800/000008980016000039/,종가 276.66 × 주식수 92907741,8
+Sherwin-Williams,SHW,2016Q4,2016-12-31,분기별 매출액,2782989000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/89800/000008980017000005/ ; https://www.sec.gov/Archives/edgar/data/89800/000008980016000039/,연간 11856000000 − 9개월누적 9073011000 (Revenues),8
+Sherwin-Williams,SHW,2016Q4,2016-12-31,분기별 영업이익,451468000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/89800/000008980017000005/ ; https://www.sec.gov/Archives/edgar/data/89800/000008980016000039/,연간 2164000000 − 9개월누적 1712532000 (OperatingIncomeLoss),8
+Sherwin-Williams,SHW,2016Q4,2016-12-31,분기별 당기순이익(지배),203030000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/89800/000008980017000005/ ; https://www.sec.gov/Archives/edgar/data/89800/000008980016000039/,연간 1132703000 − 9개월누적 929673000 (NetIncomeLoss),8
+Sherwin-Williams,SHW,2016Q4,2016-12-31,분기별 영업활동현금흐름,342038000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/89800/000008980017000005/ ; https://www.sec.gov/Archives/edgar/data/89800/000008980016000039/,누적 1308572000 − 직전누적 966534000 (시작 2016-01-01),8
+Sherwin-Williams,SHW,2016Q4,2016-12-31,분기말 자산총계,6752521000,USD,공시,https://www.sec.gov/Archives/edgar/data/89800/000008980017000005/,,8
+Sherwin-Williams,SHW,2016Q4,2016-12-31,분기말 부채총계,4874080000,USD,계산(부채및자본-총자본),https://www.sec.gov/Archives/edgar/data/89800/000008980017000005/,부채및자본 6752521000 − 총자본 1878441000,8
+Sherwin-Williams,SHW,2016Q4,2016-12-31,분기말 총자본(자기자본),1878441000,USD,공시,https://www.sec.gov/Archives/edgar/data/89800/000008980017000005/,,8
+Sherwin-Williams,SHW,2016Q4,2016-12-31,분기말 지배지분 자본,1878441000,USD,공시,https://www.sec.gov/Archives/edgar/data/89800/000008980017000005/,,8
+Sherwin-Williams,SHW,2016Q4,2016-12-30,분기말 종가,268.74,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/SHW?interval=1d&events=splits (2016-12-30),분할조정 종가 89.58 × 이후 분할계수 3,8
+Sherwin-Williams,SHW,2016Q4,2017-01-31,분기말 상장주식수,93307230,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/89800/000008980017000005/,dei:EntityCommonStockSharesOutstanding 클래스 합,8
+Sherwin-Williams,SHW,2016Q4,2016-12-30,분기말 시가총액,25075384990,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/SHW?interval=1d&events=splits (2016-12-30) ; https://www.sec.gov/Archives/edgar/data/89800/000008980017000005/,종가 268.74 × 주식수 93307230,8
+Sherwin-Williams,SHW,2017Q1,2017-03-31,분기별 매출액,2761387000,USD,공시,https://www.sec.gov/Archives/edgar/data/89800/000008980017000009/,,8
+Sherwin-Williams,SHW,2017Q1,2017-03-31,분기별 영업이익,418250000,USD,공시,https://www.sec.gov/Archives/edgar/data/89800/000008980017000009/,,8
+Sherwin-Williams,SHW,2017Q1,2017-03-31,분기별 당기순이익(지배),239152000,USD,공시,https://www.sec.gov/Archives/edgar/data/89800/000008980017000009/,,8
+Sherwin-Williams,SHW,2017Q1,2017-03-31,분기별 영업활동현금흐름,231816000,USD,공시,https://www.sec.gov/Archives/edgar/data/89800/000008980017000009/,,8
+Sherwin-Williams,SHW,2017Q1,2017-03-31,분기말 자산총계,6988903000,USD,공시,https://www.sec.gov/Archives/edgar/data/89800/000008980017000009/,,8
+Sherwin-Williams,SHW,2017Q1,2017-03-31,분기말 부채총계,4923553000,USD,계산(부채및자본-총자본),https://www.sec.gov/Archives/edgar/data/89800/000008980017000009/,부채및자본 6988903000 − 총자본 2065350000,8
+Sherwin-Williams,SHW,2017Q1,2017-03-31,분기말 총자본(자기자본),2065350000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/89800/000008980017000009/,"StockholdersEquity, MinorityInterest 태그 없음",8
+Sherwin-Williams,SHW,2017Q1,2017-03-31,분기말 지배지분 자본,2065350000,USD,공시,https://www.sec.gov/Archives/edgar/data/89800/000008980017000009/,,8
+Sherwin-Williams,SHW,2017Q1,2017-03-31,분기말 종가,310.19,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/SHW?interval=1d&events=splits (2017-03-31),분할조정 종가 103.3967 × 이후 분할계수 3,8
+Sherwin-Williams,SHW,2017Q1,2017-03-31,분기말 상장주식수,93128304,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/89800/000008980017000009/,dei:EntityCommonStockSharesOutstanding 클래스 합,8
+Sherwin-Williams,SHW,2017Q1,2017-03-31,분기말 시가총액,28887468618,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/SHW?interval=1d&events=splits (2017-03-31) ; https://www.sec.gov/Archives/edgar/data/89800/000008980017000009/,종가 310.19 × 주식수 93128304,8
+Sherwin-Williams,SHW,2017Q2,2017-06-30,분기별 매출액,3735817000,USD,공시,https://www.sec.gov/Archives/edgar/data/89800/000008980017000019/,,8
+Sherwin-Williams,SHW,2017Q2,2017-06-30,분기별 영업이익,671096000,USD,공시,https://www.sec.gov/Archives/edgar/data/89800/000008980017000019/,,8
+Sherwin-Williams,SHW,2017Q2,2017-06-30,분기별 당기순이익(지배),319111000,USD,공시,https://www.sec.gov/Archives/edgar/data/89800/000008980017000019/,,8
+Sherwin-Williams,SHW,2017Q2,2017-06-30,분기별 영업활동현금흐름,354317000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/89800/000008980017000019/ ; https://www.sec.gov/Archives/edgar/data/89800/000008980017000009/,누적 586133000 − 직전누적 231816000 (시작 2017-01-01),8
+Sherwin-Williams,SHW,2017Q2,2017-06-30,분기말 자산총계,20717398000,USD,공시,https://www.sec.gov/Archives/edgar/data/89800/000008980017000019/,,8
+Sherwin-Williams,SHW,2017Q2,2017-06-30,분기말 부채총계,18326138000,USD,계산(부채및자본-총자본),https://www.sec.gov/Archives/edgar/data/89800/000008980017000019/,부채및자본 20717398000 − 총자본 2391260000,8
+Sherwin-Williams,SHW,2017Q2,2017-06-30,분기말 총자본(자기자본),2391260000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/89800/000008980017000019/,"StockholdersEquity, MinorityInterest 태그 없음",8
+Sherwin-Williams,SHW,2017Q2,2017-06-30,분기말 지배지분 자본,2391260000,USD,공시,https://www.sec.gov/Archives/edgar/data/89800/000008980017000019/,,8
+Sherwin-Williams,SHW,2017Q2,2017-06-30,분기말 종가,350.96,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/SHW?interval=1d&events=splits (2017-06-30),분할조정 종가 116.9867 × 이후 분할계수 3,8
+Sherwin-Williams,SHW,2017Q2,2017-06-30,분기말 상장주식수,93410169,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/89800/000008980017000019/,dei:EntityCommonStockSharesOutstanding 클래스 합,8
+Sherwin-Williams,SHW,2017Q2,2017-06-30,분기말 시가총액,32783232912,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/SHW?interval=1d&events=splits (2017-06-30) ; https://www.sec.gov/Archives/edgar/data/89800/000008980017000019/,종가 350.96 × 주식수 93410169,8
+Sherwin-Williams,SHW,2017Q3,2017-09-30,분기별 매출액,4507020000,USD,공시,https://www.sec.gov/Archives/edgar/data/89800/000008980017000023/,,8
+Sherwin-Williams,SHW,2017Q3,2017-09-30,분기별 영업이익,655619000,USD,공시,https://www.sec.gov/Archives/edgar/data/89800/000008980017000023/,,8
+Sherwin-Williams,SHW,2017Q3,2017-09-30,분기별 당기순이익(지배),316606000,USD,공시,https://www.sec.gov/Archives/edgar/data/89800/000008980017000023/,,8
+Sherwin-Williams,SHW,2017Q3,2017-09-30,분기별 영업활동현금흐름,672699000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/89800/000008980017000023/ ; https://www.sec.gov/Archives/edgar/data/89800/000008980017000019/,누적 1258832000 − 직전누적 586133000 (시작 2017-01-01),8
+Sherwin-Williams,SHW,2017Q3,2017-09-30,분기말 자산총계,20779657000,USD,공시,https://www.sec.gov/Archives/edgar/data/89800/000008980017000023/,,8
+Sherwin-Williams,SHW,2017Q3,2017-09-30,분기말 부채총계,18038668000,USD,계산(부채및자본-총자본),https://www.sec.gov/Archives/edgar/data/89800/000008980017000023/,부채및자본 20779657000 − 총자본 2740989000,8
+Sherwin-Williams,SHW,2017Q3,2017-09-30,분기말 총자본(자기자본),2740989000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/89800/000008980017000023/,"StockholdersEquity, MinorityInterest 태그 없음",8
+Sherwin-Williams,SHW,2017Q3,2017-09-30,분기말 지배지분 자본,2740989000,USD,공시,https://www.sec.gov/Archives/edgar/data/89800/000008980017000023/,,8
+Sherwin-Williams,SHW,2017Q3,2017-09-29,분기말 종가,358.04,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/SHW?interval=1d&events=splits (2017-09-29),분할조정 종가 119.3467 × 이후 분할계수 3,8
+Sherwin-Williams,SHW,2017Q3,2017-09-30,분기말 상장주식수,93513916,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/89800/000008980017000023/,dei:EntityCommonStockSharesOutstanding 클래스 합,8
+Sherwin-Williams,SHW,2017Q3,2017-09-29,분기말 시가총액,33481722485,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/SHW?interval=1d&events=splits (2017-09-29) ; https://www.sec.gov/Archives/edgar/data/89800/000008980017000023/,종가 358.04 × 주식수 93513916,8
+Sherwin-Williams,SHW,2017Q4,2017-12-31,분기별 매출액,3979776000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/89800/000008980018000004/ ; https://www.sec.gov/Archives/edgar/data/89800/000008980017000023/,연간 14984000000 − 9개월누적 11004224000 (Revenues),8
+Sherwin-Williams,SHW,2017Q4,2017-12-31,분기별 영업이익,549035000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/89800/000008980018000004/ ; https://www.sec.gov/Archives/edgar/data/89800/000008980017000023/,연간 2294000000 − 9개월누적 1744965000 (OperatingIncomeLoss),8
+Sherwin-Williams,SHW,2017Q4,2017-12-31,분기별 당기순이익(지배),897393000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/89800/000008980018000004/ ; https://www.sec.gov/Archives/edgar/data/89800/000008980017000023/,연간 1772262000 − 9개월누적 874869000 (NetIncomeLoss),8
+Sherwin-Williams,SHW,2017Q4,2017-12-31,분기별 영업활동현금흐름,625136000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/89800/000008980018000004/ ; https://www.sec.gov/Archives/edgar/data/89800/000008980017000023/,누적 1883968000 − 직전누적 1258832000 (시작 2017-01-01),8
+Sherwin-Williams,SHW,2017Q4,2017-12-31,분기말 자산총계,19899500000,USD,공시(재작성 반영),https://www.sec.gov/Archives/edgar/data/89800/000008980020000005/,원 공시 19958427000 (https://www.sec.gov/Archives/edgar/data/89800/000008980018000004/),8
+Sherwin-Williams,SHW,2017Q4,2017-12-31,분기말 부채총계,16251626000,USD,계산(부채및자본-총자본)(재작성 반영),https://www.sec.gov/Archives/edgar/data/89800/000008980020000005/,부채및자본 19899500000 − 총자본 3647874000 ; 원 공시 16266239000 (https://www.sec.gov/Archives/edgar/data/89800/000008980018000004/),8
+Sherwin-Williams,SHW,2017Q4,2017-12-31,분기말 총자본(자기자본),3647874000,USD,공시(재작성 반영),https://www.sec.gov/Archives/edgar/data/89800/000008980019000014/,비지배지분 태그 없음: 총자본 − 지배 = -26000로 봄 ; 원 공시 3692188000 (https://www.sec.gov/Archives/edgar/data/89800/000008980018000004/),8
+Sherwin-Williams,SHW,2017Q4,2017-12-31,분기말 지배지분 자본,3647900000,USD,공시(재작성 반영),https://www.sec.gov/Archives/edgar/data/89800/000008980021000010/,비지배지분 태그 없음: 총자본 − 지배 = -26000로 봄 ; 원 공시 3692188000 (https://www.sec.gov/Archives/edgar/data/89800/000008980018000004/),8
+Sherwin-Williams,SHW,2017Q4,2017-12-29,분기말 종가,410.04,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/SHW?interval=1d&events=splits (2017-12-29),분할조정 종가 136.68 × 이후 분할계수 3,8
+Sherwin-Williams,SHW,2017Q4,2018-01-31,분기말 상장주식수,93993791,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/89800/000008980018000004/,dei:EntityCommonStockSharesOutstanding 클래스 합,8
+Sherwin-Williams,SHW,2017Q4,2017-12-29,분기말 시가총액,38541214062,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/SHW?interval=1d&events=splits (2017-12-29) ; https://www.sec.gov/Archives/edgar/data/89800/000008980018000004/,종가 410.04 × 주식수 93993791,8
+Sherwin-Williams,SHW,2018Q1,2018-03-31,분기별 매출액,3965006000,USD,공시,https://www.sec.gov/Archives/edgar/data/89800/000008980018000008/,,8
+Sherwin-Williams,SHW,2018Q1,2018-03-31,분기별 영업이익,502386000,USD,공시,https://www.sec.gov/Archives/edgar/data/89800/000008980018000008/,,8
+Sherwin-Williams,SHW,2018Q1,2018-03-31,분기별 당기순이익(지배),250127000,USD,공시,https://www.sec.gov/Archives/edgar/data/89800/000008980018000008/,,8
+Sherwin-Williams,SHW,2018Q1,2018-03-31,분기별 영업활동현금흐름,40749000,USD,공시,https://www.sec.gov/Archives/edgar/data/89800/000008980018000008/,,8
+Sherwin-Williams,SHW,2018Q1,2018-03-31,분기말 자산총계,20308776000,USD,공시(재작성 반영),https://www.sec.gov/Archives/edgar/data/89800/000008980019000008/,원 공시 20367686000 (https://www.sec.gov/Archives/edgar/data/89800/000008980018000008/),8
+Sherwin-Williams,SHW,2018Q1,2018-03-31,분기말 부채총계,16663045000,USD,계산(부채및자본-총자본)(재작성 반영),https://www.sec.gov/Archives/edgar/data/89800/000008980019000008/,부채및자본 20308776000 − 총자본 3645731000 ; 원 공시 16677640000 (https://www.sec.gov/Archives/edgar/data/89800/000008980018000008/),8
+Sherwin-Williams,SHW,2018Q1,2018-03-31,분기말 총자본(자기자본),3645731000,USD,공시(비지배 없음)(재작성 반영),https://www.sec.gov/Archives/edgar/data/89800/000008980019000008/,"StockholdersEquity, MinorityInterest 태그 없음 ; 원 공시 3690046000 (https://www.sec.gov/Archives/edgar/data/89800/000008980018000008/)",8
+Sherwin-Williams,SHW,2018Q1,2018-03-31,분기말 지배지분 자본,3645731000,USD,공시(재작성 반영),https://www.sec.gov/Archives/edgar/data/89800/000008980019000008/,원 공시 3690046000 (https://www.sec.gov/Archives/edgar/data/89800/000008980018000008/),8
+Sherwin-Williams,SHW,2018Q1,2018-03-29,분기말 종가,392.12,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/SHW?interval=1d&events=splits (2018-03-29),분할조정 종가 130.7067 × 이후 분할계수 3,8
+Sherwin-Williams,SHW,2018Q1,2018-03-31,분기말 상장주식수,93545689,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/89800/000008980018000008/,dei:EntityCommonStockSharesOutstanding 클래스 합,8
+Sherwin-Williams,SHW,2018Q1,2018-03-29,분기말 시가총액,36681135571,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/SHW?interval=1d&events=splits (2018-03-29) ; https://www.sec.gov/Archives/edgar/data/89800/000008980018000008/,종가 392.12 × 주식수 93545689,8
+Sherwin-Williams,SHW,2018Q2,2018-06-30,분기별 매출액,4773796000,USD,공시,https://www.sec.gov/Archives/edgar/data/89800/000008980018000014/,,8
+Sherwin-Williams,SHW,2018Q2,2018-06-30,분기별 영업이익,804994000,USD,공시,https://www.sec.gov/Archives/edgar/data/89800/000008980018000014/,,8
+Sherwin-Williams,SHW,2018Q2,2018-06-30,분기별 당기순이익(지배),403604000,USD,공시,https://www.sec.gov/Archives/edgar/data/89800/000008980018000014/,,8
+Sherwin-Williams,SHW,2018Q2,2018-06-30,분기별 영업활동현금흐름,538347000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/89800/000008980018000014/ ; https://www.sec.gov/Archives/edgar/data/89800/000008980018000008/,누적 579096000 − 직전누적 40749000 (시작 2018-01-01),8
+Sherwin-Williams,SHW,2018Q2,2018-06-30,분기말 자산총계,20095822000,USD,공시(재작성 반영),https://www.sec.gov/Archives/edgar/data/89800/000008980019000014/,원 공시 20154732000 (https://www.sec.gov/Archives/edgar/data/89800/000008980018000014/),8
+Sherwin-Williams,SHW,2018Q2,2018-06-30,분기말 부채총계,16393048000,USD,계산(부채및자본-총자본)(재작성 반영),https://www.sec.gov/Archives/edgar/data/89800/000008980019000014/,부채및자본 20095822000 − 총자본 3702774000 ; 원 공시 16407643000 (https://www.sec.gov/Archives/edgar/data/89800/000008980018000014/),8
+Sherwin-Williams,SHW,2018Q2,2018-06-30,분기말 총자본(자기자본),3702774000,USD,공시(비지배 없음)(재작성 반영),https://www.sec.gov/Archives/edgar/data/89800/000008980019000023/,"StockholdersEquity, MinorityInterest 태그 없음 ; 원 공시 3747089000 (https://www.sec.gov/Archives/edgar/data/89800/000008980018000014/)",8
+Sherwin-Williams,SHW,2018Q2,2018-06-30,분기말 지배지분 자본,3702774000,USD,공시(재작성 반영),https://www.sec.gov/Archives/edgar/data/89800/000008980019000023/,원 공시 3747089000 (https://www.sec.gov/Archives/edgar/data/89800/000008980018000014/),8
+Sherwin-Williams,SHW,2018Q2,2018-06-29,분기말 종가,407.57,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/SHW?interval=1d&events=splits (2018-06-29),분할조정 종가 135.8567 × 이후 분할계수 3,8
+Sherwin-Williams,SHW,2018Q2,2018-06-30,분기말 상장주식수,93381022,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/89800/000008980018000014/,dei:EntityCommonStockSharesOutstanding 클래스 합,8
+Sherwin-Williams,SHW,2018Q2,2018-06-29,분기말 시가총액,38059303137,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/SHW?interval=1d&events=splits (2018-06-29) ; https://www.sec.gov/Archives/edgar/data/89800/000008980018000014/,종가 407.57 × 주식수 93381022,8
+Sherwin-Williams,SHW,2018Q3,2018-09-30,분기별 매출액,4731470000,USD,공시,https://www.sec.gov/Archives/edgar/data/89800/000008980018000017/,,8
+Sherwin-Williams,SHW,2018Q3,2018-09-30,분기별 영업이익,766547000,USD,공시,https://www.sec.gov/Archives/edgar/data/89800/000008980018000017/,,8
+Sherwin-Williams,SHW,2018Q3,2018-09-30,분기별 당기순이익(지배),354027000,USD,공시,https://www.sec.gov/Archives/edgar/data/89800/000008980018000017/,,8
+Sherwin-Williams,SHW,2018Q3,2018-09-30,분기별 영업활동현금흐름,852119000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/89800/000008980018000017/ ; https://www.sec.gov/Archives/edgar/data/89800/000008980018000014/,누적 1431215000 − 직전누적 579096000 (시작 2018-01-01),8
+Sherwin-Williams,SHW,2018Q3,2018-09-30,분기말 자산총계,19921786000,USD,공시(재작성 반영),https://www.sec.gov/Archives/edgar/data/89800/000008980019000023/,원 공시 19980696000 (https://www.sec.gov/Archives/edgar/data/89800/000008980018000017/),8
+Sherwin-Williams,SHW,2018Q3,2018-09-30,분기말 부채총계,15946947000,USD,계산(부채및자본-총자본)(재작성 반영),https://www.sec.gov/Archives/edgar/data/89800/000008980019000023/,부채및자본 19921786000 − 총자본 3974839000 ; 원 공시 16005857000 (https://www.sec.gov/Archives/edgar/data/89800/000008980018000017/),8
+Sherwin-Williams,SHW,2018Q3,2018-09-30,분기말 총자본(자기자본),3974839000,USD,공시,https://www.sec.gov/Archives/edgar/data/89800/000008980018000017/,,8
+Sherwin-Williams,SHW,2018Q3,2018-09-30,분기말 지배지분 자본,3930525000,USD,공시(재작성 반영),https://www.sec.gov/Archives/edgar/data/89800/000008980019000023/,비지배지분 태그 없음: 총자본 − 지배 = 44314000로 봄 ; 원 공시 3974839000 (https://www.sec.gov/Archives/edgar/data/89800/000008980018000017/),8
+Sherwin-Williams,SHW,2018Q3,2018-09-28,분기말 종가,455.21,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/SHW?interval=1d&events=splits (2018-09-28),분할조정 종가 151.7367 × 이후 분할계수 3,8
+Sherwin-Williams,SHW,2018Q3,2018-09-30,분기말 상장주식수,93626317,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/89800/000008980018000017/,dei:EntityCommonStockSharesOutstanding 클래스 합,8
+Sherwin-Williams,SHW,2018Q3,2018-09-28,분기말 시가총액,42619635762,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/SHW?interval=1d&events=splits (2018-09-28) ; https://www.sec.gov/Archives/edgar/data/89800/000008980018000017/,종가 455.21 × 주식수 93626317,8
+Sherwin-Williams,SHW,2018Q4,2018-12-31,분기별 매출액,4064221000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/89800/000008980019000004/ ; https://www.sec.gov/Archives/edgar/data/89800/000008980018000017/,연간 17534493000 − 9개월누적 13470272000 (Revenues),8
+Sherwin-Williams,SHW,2018Q4,2018-12-31,분기별 영업이익,537073000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/89800/000008980019000004/ ; https://www.sec.gov/Archives/edgar/data/89800/000008980018000017/,연간 2611000000 − 9개월누적 2073927000 (OperatingIncomeLoss),8
+Sherwin-Williams,SHW,2018Q4,2018-12-31,분기별 당기순이익(지배),100988000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/89800/000008980019000004/ ; https://www.sec.gov/Archives/edgar/data/89800/000008980018000017/,연간 1108746000 − 9개월누적 1007758000 (NetIncomeLoss),8
+Sherwin-Williams,SHW,2018Q4,2018-12-31,분기별 영업활동현금흐름,512485000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/89800/000008980019000004/ ; https://www.sec.gov/Archives/edgar/data/89800/000008980018000017/,누적 1943700000 − 직전누적 1431215000 (시작 2018-01-01),8
+Sherwin-Williams,SHW,2018Q4,2018-12-31,분기말 자산총계,19134279000,USD,공시,https://www.sec.gov/Archives/edgar/data/89800/000008980019000004/,,8
+Sherwin-Williams,SHW,2018Q4,2018-12-31,분기말 부채총계,15403534000,USD,계산(부채및자본-총자본),https://www.sec.gov/Archives/edgar/data/89800/000008980019000004/,부채및자본 19134279000 − 총자본 3730745000,8
+Sherwin-Williams,SHW,2018Q4,2018-12-31,분기말 총자본(자기자본),3730745000,USD,공시,https://www.sec.gov/Archives/edgar/data/89800/000008980019000004/,,8
+Sherwin-Williams,SHW,2018Q4,2018-12-31,분기말 지배지분 자본,3730745000,USD,공시,https://www.sec.gov/Archives/edgar/data/89800/000008980019000004/,,8
+Sherwin-Williams,SHW,2018Q4,2018-12-31,분기말 종가,393.46,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/SHW?interval=1d&events=splits (2018-12-31),분할조정 종가 131.1533 × 이후 분할계수 3,8
+Sherwin-Williams,SHW,2018Q4,2019-01-31,분기말 상장주식수,92718270,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/89800/000008980019000004/,dei:EntityCommonStockSharesOutstanding 클래스 합,8
+Sherwin-Williams,SHW,2018Q4,2018-12-31,분기말 시가총액,36480930514,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/SHW?interval=1d&events=splits (2018-12-31) ; https://www.sec.gov/Archives/edgar/data/89800/000008980019000004/,종가 393.46 × 주식수 92718270,8
+Sherwin-Williams,SHW,2019Q1,2019-03-31,분기별 매출액,4040861000,USD,공시,https://www.sec.gov/Archives/edgar/data/89800/000008980019000008/,,8
+Sherwin-Williams,SHW,2019Q1,2019-03-31,분기별 영업이익,517718000,USD,공시,https://www.sec.gov/Archives/edgar/data/89800/000008980019000008/,,8
+Sherwin-Williams,SHW,2019Q1,2019-03-31,분기별 당기순이익(지배),245237000,USD,공시,https://www.sec.gov/Archives/edgar/data/89800/000008980019000008/,,8
+Sherwin-Williams,SHW,2019Q1,2019-03-31,분기별 영업활동현금흐름,-35950000,USD,공시,https://www.sec.gov/Archives/edgar/data/89800/000008980019000008/,,8
+Sherwin-Williams,SHW,2019Q1,2019-03-31,분기말 자산총계,20961641000,USD,공시,https://www.sec.gov/Archives/edgar/data/89800/000008980019000008/,,8
+Sherwin-Williams,SHW,2019Q1,2019-03-31,분기말 부채총계,17501580000,USD,계산(부채및자본-총자본),https://www.sec.gov/Archives/edgar/data/89800/000008980019000008/,부채및자본 20961641000 − 총자본 3460061000,8
+Sherwin-Williams,SHW,2019Q1,2019-03-31,분기말 총자본(자기자본),3460061000,USD,공시,https://www.sec.gov/Archives/edgar/data/89800/000008980019000008/,,8
+Sherwin-Williams,SHW,2019Q1,2019-03-31,분기말 지배지분 자본,3460061000,USD,공시,https://www.sec.gov/Archives/edgar/data/89800/000008980019000008/,,8
+Sherwin-Williams,SHW,2019Q1,2019-03-29,분기말 종가,430.71,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/SHW?interval=1d&events=splits (2019-03-29),분할조정 종가 143.57 × 이후 분할계수 3,8
+Sherwin-Williams,SHW,2019Q1,2019-03-31,분기말 상장주식수,92316202,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/89800/000008980019000008/,dei:EntityCommonStockSharesOutstanding 클래스 합,8
+Sherwin-Williams,SHW,2019Q1,2019-03-29,분기말 시가총액,39761511363,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/SHW?interval=1d&events=splits (2019-03-29) ; https://www.sec.gov/Archives/edgar/data/89800/000008980019000008/,종가 430.71 × 주식수 92316202,8
+Sherwin-Williams,SHW,2019Q2,2019-06-30,분기별 매출액,4877860000,USD,공시,https://www.sec.gov/Archives/edgar/data/89800/000008980019000014/,,8
+Sherwin-Williams,SHW,2019Q2,2019-06-30,분기별 영업이익,903365000,USD,공시,https://www.sec.gov/Archives/edgar/data/89800/000008980019000014/,,8
+Sherwin-Williams,SHW,2019Q2,2019-06-30,분기별 당기순이익(지배),471003000,USD,공시,https://www.sec.gov/Archives/edgar/data/89800/000008980019000014/,,8
+Sherwin-Williams,SHW,2019Q2,2019-06-30,분기별 영업활동현금흐름,793951000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/89800/000008980019000014/ ; https://www.sec.gov/Archives/edgar/data/89800/000008980019000008/,누적 758001000 − 직전누적 -35950000 (시작 2019-01-01),8
+Sherwin-Williams,SHW,2019Q2,2019-06-30,분기말 자산총계,21186136000,USD,공시,https://www.sec.gov/Archives/edgar/data/89800/000008980019000014/,,8
+Sherwin-Williams,SHW,2019Q2,2019-06-30,분기말 부채총계,17438654000,USD,계산(부채및자본-총자본),https://www.sec.gov/Archives/edgar/data/89800/000008980019000014/,부채및자본 21186136000 − 총자본 3747482000,8
+Sherwin-Williams,SHW,2019Q2,2019-06-30,분기말 총자본(자기자본),3747482000,USD,공시,https://www.sec.gov/Archives/edgar/data/89800/000008980019000014/,,8
+Sherwin-Williams,SHW,2019Q2,2019-06-30,분기말 지배지분 자본,3747482000,USD,공시,https://www.sec.gov/Archives/edgar/data/89800/000008980019000014/,,8
+Sherwin-Williams,SHW,2019Q2,2019-06-28,분기말 종가,458.29,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/SHW?interval=1d&events=splits (2019-06-28),분할조정 종가 152.7633 × 이후 분할계수 3,8
+Sherwin-Williams,SHW,2019Q2,2019-06-30,분기말 상장주식수,92256348,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/89800/000008980019000014/,dei:EntityCommonStockSharesOutstanding 클래스 합,8
+Sherwin-Williams,SHW,2019Q2,2019-06-28,분기말 시가총액,42280161725,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/SHW?interval=1d&events=splits (2019-06-28) ; https://www.sec.gov/Archives/edgar/data/89800/000008980019000014/,종가 458.29 × 주식수 92256348,8
+Sherwin-Williams,SHW,2019Q3,2019-09-30,분기별 매출액,4867650000,USD,공시,https://www.sec.gov/Archives/edgar/data/89800/000008980019000023/,,8
+Sherwin-Williams,SHW,2019Q3,2019-09-30,분기별 영업이익,915994000,USD,공시,https://www.sec.gov/Archives/edgar/data/89800/000008980019000023/,,8
+Sherwin-Williams,SHW,2019Q3,2019-09-30,분기별 당기순이익(지배),576438000,USD,공시,https://www.sec.gov/Archives/edgar/data/89800/000008980019000023/,,8
+Sherwin-Williams,SHW,2019Q3,2019-09-30,분기별 영업활동현금흐름,903406000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/89800/000008980019000023/ ; https://www.sec.gov/Archives/edgar/data/89800/000008980019000014/,누적 1661407000 − 직전누적 758001000 (시작 2019-01-01),8
+Sherwin-Williams,SHW,2019Q3,2019-09-30,분기말 자산총계,20864339000,USD,공시,https://www.sec.gov/Archives/edgar/data/89800/000008980019000023/,,8
+Sherwin-Williams,SHW,2019Q3,2019-09-30,분기말 부채총계,16841479000,USD,계산(부채및자본-총자본),https://www.sec.gov/Archives/edgar/data/89800/000008980019000023/,부채및자본 20864339000 − 총자본 4022860000,8
+Sherwin-Williams,SHW,2019Q3,2019-09-30,분기말 총자본(자기자본),4022860000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/89800/000008980019000023/,"StockholdersEquity, MinorityInterest 태그 없음",8
+Sherwin-Williams,SHW,2019Q3,2019-09-30,분기말 지배지분 자본,4022860000,USD,공시,https://www.sec.gov/Archives/edgar/data/89800/000008980019000023/,,8
+Sherwin-Williams,SHW,2019Q3,2019-09-30,분기말 종가,549.87,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/SHW?interval=1d&events=splits (2019-09-30),분할조정 종가 183.29 × 이후 분할계수 3,8
+Sherwin-Williams,SHW,2019Q3,2019-09-30,분기말 상장주식수,92309240,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/89800/000008980019000023/,dei:EntityCommonStockSharesOutstanding 클래스 합,8
+Sherwin-Williams,SHW,2019Q3,2019-09-30,분기말 시가총액,50758081799,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/SHW?interval=1d&events=splits (2019-09-30) ; https://www.sec.gov/Archives/edgar/data/89800/000008980019000023/,종가 549.87 × 주식수 92309240,8
+Sherwin-Williams,SHW,2019Q4,2019-12-31,분기별 매출액,4114429000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/89800/000008980020000005/ ; https://www.sec.gov/Archives/edgar/data/89800/000008980019000023/,연간 17900800000 − 9개월누적 13786371000 (Revenues),8
+Sherwin-Williams,SHW,2019Q4,2019-12-31,분기별 영업이익,471723000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/89800/000008980020000005/ ; https://www.sec.gov/Archives/edgar/data/89800/000008980019000023/,연간 2808800000 − 9개월누적 2337077000 (OperatingIncomeLoss),8
+Sherwin-Williams,SHW,2019Q4,2019-12-31,분기별 당기순이익(지배),248622000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/89800/000008980020000005/ ; https://www.sec.gov/Archives/edgar/data/89800/000008980019000023/,연간 1541300000 − 9개월누적 1292678000 (NetIncomeLoss),8
+Sherwin-Williams,SHW,2019Q4,2019-12-31,분기별 영업활동현금흐름,659893000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/89800/000008980020000005/ ; https://www.sec.gov/Archives/edgar/data/89800/000008980019000023/,누적 2321300000 − 직전누적 1661407000 (시작 2019-01-01),8
+Sherwin-Williams,SHW,2019Q4,2019-12-31,분기말 자산총계,20496200000,USD,공시,https://www.sec.gov/Archives/edgar/data/89800/000008980020000005/,,8
+Sherwin-Williams,SHW,2019Q4,2019-12-31,분기말 부채총계,16372900000,USD,계산(부채및자본-총자본),https://www.sec.gov/Archives/edgar/data/89800/000008980020000005/,부채및자본 20496200000 − 총자본 4123300000,8
+Sherwin-Williams,SHW,2019Q4,2019-12-31,분기말 총자본(자기자본),4123300000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/89800/000008980020000005/,"StockholdersEquity, MinorityInterest 태그 없음",8
+Sherwin-Williams,SHW,2019Q4,2019-12-31,분기말 지배지분 자본,4123300000,USD,공시,https://www.sec.gov/Archives/edgar/data/89800/000008980020000005/,,8
+Sherwin-Williams,SHW,2019Q4,2019-12-31,분기말 종가,583.54,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/SHW?interval=1d&events=splits (2019-12-31),분할조정 종가 194.5133 × 이후 분할계수 3,8
+Sherwin-Williams,SHW,2019Q4,2020-01-31,분기말 상장주식수,92227704,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/89800/000008980020000005/,dei:EntityCommonStockSharesOutstanding 클래스 합,8
+Sherwin-Williams,SHW,2019Q4,2019-12-31,분기말 시가총액,53818554392,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/SHW?interval=1d&events=splits (2019-12-31) ; https://www.sec.gov/Archives/edgar/data/89800/000008980020000005/,종가 583.54 × 주식수 92227704,8
+Sherwin-Williams,SHW,2020Q1,2020-03-31,분기별 매출액,4146700000,USD,공시,https://www.sec.gov/Archives/edgar/data/89800/000008980020000009/,,8
+Sherwin-Williams,SHW,2020Q1,2020-03-31,분기별 영업이익,585500000,USD,공시,https://www.sec.gov/Archives/edgar/data/89800/000008980020000009/,,8
+Sherwin-Williams,SHW,2020Q1,2020-03-31,분기별 당기순이익(지배),321700000,USD,공시,https://www.sec.gov/Archives/edgar/data/89800/000008980020000009/,,8
+Sherwin-Williams,SHW,2020Q1,2020-03-31,분기별 영업활동현금흐름,54900000,USD,공시,https://www.sec.gov/Archives/edgar/data/89800/000008980020000009/,,8
+Sherwin-Williams,SHW,2020Q1,2020-03-31,분기말 자산총계,20570300000,USD,공시,https://www.sec.gov/Archives/edgar/data/89800/000008980020000009/,,8
+Sherwin-Williams,SHW,2020Q1,2020-03-31,분기말 부채총계,17281200000,USD,계산(부채및자본-총자본),https://www.sec.gov/Archives/edgar/data/89800/000008980020000009/,부채및자본 20570300000 − 총자본 3289100000,8
+Sherwin-Williams,SHW,2020Q1,2020-03-31,분기말 총자본(자기자본),3289100000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/89800/000008980020000009/,"StockholdersEquity, MinorityInterest 태그 없음",8
+Sherwin-Williams,SHW,2020Q1,2020-03-31,분기말 지배지분 자본,3289100000,USD,공시,https://www.sec.gov/Archives/edgar/data/89800/000008980020000009/,,8
+Sherwin-Williams,SHW,2020Q1,2020-03-31,분기말 종가,459.52,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/SHW?interval=1d&events=splits (2020-03-31),분할조정 종가 153.1733 × 이후 분할계수 3,8
+Sherwin-Williams,SHW,2020Q1,2020-03-31,분기말 상장주식수,90800000,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/89800/000008980020000009/,dei:EntityCommonStockSharesOutstanding 클래스 합,8
+Sherwin-Williams,SHW,2020Q1,2020-03-31,분기말 시가총액,41724416000,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/SHW?interval=1d&events=splits (2020-03-31) ; https://www.sec.gov/Archives/edgar/data/89800/000008980020000009/,종가 459.52 × 주식수 90800000,8
+Sherwin-Williams,SHW,2020Q2,2020-06-30,분기별 매출액,4604000000,USD,공시,https://www.sec.gov/Archives/edgar/data/89800/000008980020000020/,,8
+Sherwin-Williams,SHW,2020Q2,2020-06-30,분기별 영업이익,934500000,USD,공시,https://www.sec.gov/Archives/edgar/data/89800/000008980020000020/,,8
+Sherwin-Williams,SHW,2020Q2,2020-06-30,분기별 당기순이익(지배),595900000,USD,공시,https://www.sec.gov/Archives/edgar/data/89800/000008980020000020/,,8
+Sherwin-Williams,SHW,2020Q2,2020-06-30,분기별 영업활동현금흐름,1019700000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/89800/000008980020000020/ ; https://www.sec.gov/Archives/edgar/data/89800/000008980020000009/,누적 1074600000 − 직전누적 54900000 (시작 2020-01-01),8
+Sherwin-Williams,SHW,2020Q2,2020-06-30,분기말 자산총계,20494500000,USD,공시,https://www.sec.gov/Archives/edgar/data/89800/000008980020000020/,,8
+Sherwin-Williams,SHW,2020Q2,2020-06-30,분기말 부채총계,16624600000,USD,계산(부채및자본-총자본),https://www.sec.gov/Archives/edgar/data/89800/000008980020000020/,부채및자본 20494500000 − 총자본 3869900000,8
+Sherwin-Williams,SHW,2020Q2,2020-06-30,분기말 총자본(자기자본),3869900000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/89800/000008980020000020/,"StockholdersEquity, MinorityInterest 태그 없음",8
+Sherwin-Williams,SHW,2020Q2,2020-06-30,분기말 지배지분 자본,3869900000,USD,공시,https://www.sec.gov/Archives/edgar/data/89800/000008980020000020/,,8
+Sherwin-Williams,SHW,2020Q2,2020-06-30,분기말 종가,577.85,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/SHW?interval=1d&events=splits (2020-06-30),분할조정 종가 192.6167 × 이후 분할계수 3,8
+Sherwin-Williams,SHW,2020Q2,2020-06-30,분기말 상장주식수,91049658,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/89800/000008980020000020/,dei:EntityCommonStockSharesOutstanding 클래스 합,8
+Sherwin-Williams,SHW,2020Q2,2020-06-30,분기말 시가총액,52613044875,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/SHW?interval=1d&events=splits (2020-06-30) ; https://www.sec.gov/Archives/edgar/data/89800/000008980020000020/,종가 577.85 × 주식수 91049658,8
+Sherwin-Williams,SHW,2020Q3,2020-09-30,분기별 매출액,5122200000,USD,공시,https://www.sec.gov/Archives/edgar/data/89800/000008980020000024/,,8
+Sherwin-Williams,SHW,2020Q3,2020-09-30,분기별 영업이익,1101000000,USD,공시,https://www.sec.gov/Archives/edgar/data/89800/000008980020000024/,,8
+Sherwin-Williams,SHW,2020Q3,2020-09-30,분기별 당기순이익(지배),705800000,USD,공시,https://www.sec.gov/Archives/edgar/data/89800/000008980020000024/,,8
+Sherwin-Williams,SHW,2020Q3,2020-09-30,분기별 영업활동현금흐름,1489200000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/89800/000008980020000024/ ; https://www.sec.gov/Archives/edgar/data/89800/000008980020000020/,누적 2563800000 − 직전누적 1074600000 (시작 2020-01-01),8
+Sherwin-Williams,SHW,2020Q3,2020-09-30,분기말 자산총계,20809700000,USD,공시,https://www.sec.gov/Archives/edgar/data/89800/000008980020000024/,,8
+Sherwin-Williams,SHW,2020Q3,2020-09-30,분기말 부채총계,16602400000,USD,계산(부채및자본-총자본),https://www.sec.gov/Archives/edgar/data/89800/000008980020000024/,부채및자본 20809700000 − 총자본 4207300000,8
+Sherwin-Williams,SHW,2020Q3,2020-09-30,분기말 총자본(자기자본),4207300000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/89800/000008980020000024/,"StockholdersEquity, MinorityInterest 태그 없음",8
+Sherwin-Williams,SHW,2020Q3,2020-09-30,분기말 지배지분 자본,4207300000,USD,공시,https://www.sec.gov/Archives/edgar/data/89800/000008980020000024/,,8
+Sherwin-Williams,SHW,2020Q3,2020-09-30,분기말 종가,696.74,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/SHW?interval=1d&events=splits (2020-09-30),분할조정 종가 232.2467 × 이후 분할계수 3,8
+Sherwin-Williams,SHW,2020Q3,2020-09-30,분기말 상장주식수,90824506,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/89800/000008980020000024/,dei:EntityCommonStockSharesOutstanding 클래스 합,8
+Sherwin-Williams,SHW,2020Q3,2020-09-30,분기말 시가총액,63281066310,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/SHW?interval=1d&events=splits (2020-09-30) ; https://www.sec.gov/Archives/edgar/data/89800/000008980020000024/,종가 696.74 × 주식수 90824506,8
+Sherwin-Williams,SHW,2020Q4,2020-12-31,분기별 매출액,4488800000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/89800/000008980021000010/ ; https://www.sec.gov/Archives/edgar/data/89800/000008980020000024/,연간 18361700000 − 9개월누적 13872900000 (RevenueFromContractWithCustomerExcludingAssessedTax),8
+Sherwin-Williams,SHW,2020Q4,2020-12-31,분기별 영업이익,752800000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/89800/000008980021000010/ ; https://www.sec.gov/Archives/edgar/data/89800/000008980020000024/,연간 3373800000 − 9개월누적 2621000000 (OperatingIncomeLoss),8
+Sherwin-Williams,SHW,2020Q4,2020-12-31,분기별 당기순이익(지배),407000000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/89800/000008980021000010/ ; https://www.sec.gov/Archives/edgar/data/89800/000008980020000024/,연간 2030400000 − 9개월누적 1623400000 (NetIncomeLoss),8
+Sherwin-Williams,SHW,2020Q4,2020-12-31,분기별 영업활동현금흐름,844800000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/89800/000008980021000010/ ; https://www.sec.gov/Archives/edgar/data/89800/000008980020000024/,누적 3408600000 − 직전누적 2563800000 (시작 2020-01-01),8
+Sherwin-Williams,SHW,2020Q4,2020-12-31,분기말 자산총계,20401600000,USD,공시,https://www.sec.gov/Archives/edgar/data/89800/000008980021000010/,,8
+Sherwin-Williams,SHW,2020Q4,2020-12-31,분기말 부채총계,16790800000,USD,계산(부채및자본-총자본),https://www.sec.gov/Archives/edgar/data/89800/000008980021000010/,부채및자본 20401600000 − 총자본 3610800000,8
+Sherwin-Williams,SHW,2020Q4,2020-12-31,분기말 총자본(자기자본),3610800000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/89800/000008980021000010/,"StockholdersEquity, MinorityInterest 태그 없음",8
+Sherwin-Williams,SHW,2020Q4,2020-12-31,분기말 지배지분 자본,3610800000,USD,공시,https://www.sec.gov/Archives/edgar/data/89800/000008980021000010/,,8
+Sherwin-Williams,SHW,2020Q4,2020-12-31,분기말 종가,734.91,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/SHW?interval=1d&events=splits (2020-12-31),분할조정 종가 244.97 × 이후 분할계수 3,8
+Sherwin-Williams,SHW,2020Q4,2021-01-31,분기말 상장주식수,89601869,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/89800/000008980021000010/,dei:EntityCommonStockSharesOutstanding 클래스 합,8
+Sherwin-Williams,SHW,2020Q4,2020-12-31,분기말 시가총액,65849309547,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/SHW?interval=1d&events=splits (2020-12-31) ; https://www.sec.gov/Archives/edgar/data/89800/000008980021000010/,종가 734.91 × 주식수 89601869,8
+Sherwin-Williams,SHW,2021Q1,2021-03-31,분기별 매출액,4656000000,USD,공시,https://www.sec.gov/Archives/edgar/data/89800/000008980021000016/,,8
+Sherwin-Williams,SHW,2021Q1,2021-03-31,분기별 영업이익,767500000,USD,공시,https://www.sec.gov/Archives/edgar/data/89800/000008980021000016/,,8
+Sherwin-Williams,SHW,2021Q1,2021-03-31,분기별 당기순이익(지배),409600000,USD,공시,https://www.sec.gov/Archives/edgar/data/89800/000008980021000016/,,8
+Sherwin-Williams,SHW,2021Q1,2021-03-31,분기별 영업활동현금흐름,195700000,USD,공시,https://www.sec.gov/Archives/edgar/data/89800/000008980021000016/,,8
+Sherwin-Williams,SHW,2021Q1,2021-03-31,분기말 자산총계,20435000000,USD,공시,https://www.sec.gov/Archives/edgar/data/89800/000008980021000016/,,8
+Sherwin-Williams,SHW,2021Q1,2021-03-31,분기말 부채총계,17356300000,USD,계산(부채및자본-총자본),https://www.sec.gov/Archives/edgar/data/89800/000008980021000016/,부채및자본 20435000000 − 총자본 3078700000,8
+Sherwin-Williams,SHW,2021Q1,2021-03-31,분기말 총자본(자기자본),3078700000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/89800/000008980021000016/,"StockholdersEquity, MinorityInterest 태그 없음",8
+Sherwin-Williams,SHW,2021Q1,2021-03-31,분기말 지배지분 자본,3078700000,USD,공시,https://www.sec.gov/Archives/edgar/data/89800/000008980021000016/,,8
+Sherwin-Williams,SHW,2021Q1,2021-03-31,분기말 종가,738.01,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/SHW?interval=1d&events=splits (2021-03-31),분할조정 종가 246.0033 × 이후 분할계수 3,8
+Sherwin-Williams,SHW,2021Q1,2021-03-31,분기말 상장주식수,265949600,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/89800/000008980021000016/,dei:EntityCommonStockSharesOutstanding 클래스 합,8
+Sherwin-Williams,SHW,2021Q1,2021-03-31,분기말 시가총액,196273464296,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/SHW?interval=1d&events=splits (2021-03-31) ; https://www.sec.gov/Archives/edgar/data/89800/000008980021000016/,종가 738.01 × 주식수 265949600,8
+Sherwin-Williams,SHW,2021Q2,2021-06-30,분기별 매출액,5379800000,USD,공시,https://www.sec.gov/Archives/edgar/data/89800/000008980021000028/,,8
+Sherwin-Williams,SHW,2021Q2,2021-06-30,분기별 영업이익,994900000,USD,공시,https://www.sec.gov/Archives/edgar/data/89800/000008980021000028/,,8
+Sherwin-Williams,SHW,2021Q2,2021-06-30,분기별 당기순이익(지배),648600000,USD,공시,https://www.sec.gov/Archives/edgar/data/89800/000008980021000028/,,8
+Sherwin-Williams,SHW,2021Q2,2021-06-30,분기별 영업활동현금흐름,1005600000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/89800/000008980021000028/ ; https://www.sec.gov/Archives/edgar/data/89800/000008980021000016/,누적 1201300000 − 직전누적 195700000 (시작 2021-01-01),8
+Sherwin-Williams,SHW,2021Q2,2021-06-30,분기말 자산총계,20519600000,USD,공시,https://www.sec.gov/Archives/edgar/data/89800/000008980021000028/,,8
+Sherwin-Williams,SHW,2021Q2,2021-06-30,분기말 부채총계,17679200000,USD,계산(부채및자본-총자본),https://www.sec.gov/Archives/edgar/data/89800/000008980021000028/,부채및자본 20519600000 − 총자본 2840400000,8
+Sherwin-Williams,SHW,2021Q2,2021-06-30,분기말 총자본(자기자본),2840400000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/89800/000008980021000028/,"StockholdersEquity, MinorityInterest 태그 없음",8
+Sherwin-Williams,SHW,2021Q2,2021-06-30,분기말 지배지분 자본,2840400000,USD,공시,https://www.sec.gov/Archives/edgar/data/89800/000008980021000028/,,8
+Sherwin-Williams,SHW,2021Q2,2021-06-30,분기말 종가,272.45,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/SHW?interval=1d&events=splits (2021-06-30),,8
+Sherwin-Williams,SHW,2021Q2,2021-06-30,분기말 상장주식수,263302451,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/89800/000008980021000028/,dei:EntityCommonStockSharesOutstanding 클래스 합,8
+Sherwin-Williams,SHW,2021Q2,2021-06-30,분기말 시가총액,71736752775,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/SHW?interval=1d&events=splits (2021-06-30) ; https://www.sec.gov/Archives/edgar/data/89800/000008980021000028/,종가 272.45 × 주식수 263302451,8
+Sherwin-Williams,SHW,2021Q3,2021-09-30,분기별 매출액,5146700000,USD,공시,https://www.sec.gov/Archives/edgar/data/89800/000008980021000032/,,8
+Sherwin-Williams,SHW,2021Q3,2021-09-30,분기별 영업이익,817700000,USD,공시,https://www.sec.gov/Archives/edgar/data/89800/000008980021000032/,,8
+Sherwin-Williams,SHW,2021Q3,2021-09-30,분기별 당기순이익(지배),502200000,USD,공시,https://www.sec.gov/Archives/edgar/data/89800/000008980021000032/,,8
+Sherwin-Williams,SHW,2021Q3,2021-09-30,분기별 영업활동현금흐름,849400000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/89800/000008980021000032/ ; https://www.sec.gov/Archives/edgar/data/89800/000008980021000028/,누적 2050700000 − 직전누적 1201300000 (시작 2021-01-01),8
+Sherwin-Williams,SHW,2021Q3,2021-09-30,분기말 자산총계,20736600000,USD,공시,https://www.sec.gov/Archives/edgar/data/89800/000008980021000032/,,8
+Sherwin-Williams,SHW,2021Q3,2021-09-30,분기말 부채총계,18046300000,USD,계산(부채및자본-총자본),https://www.sec.gov/Archives/edgar/data/89800/000008980021000032/,부채및자본 20736600000 − 총자본 2690300000,8
+Sherwin-Williams,SHW,2021Q3,2021-09-30,분기말 총자본(자기자본),2690300000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/89800/000008980021000032/,"StockholdersEquity, MinorityInterest 태그 없음",8
+Sherwin-Williams,SHW,2021Q3,2021-09-30,분기말 지배지분 자본,2690300000,USD,공시,https://www.sec.gov/Archives/edgar/data/89800/000008980021000032/,,8
+Sherwin-Williams,SHW,2021Q3,2021-09-30,분기말 종가,279.73,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/SHW?interval=1d&events=splits (2021-09-30),,8
+Sherwin-Williams,SHW,2021Q3,2021-09-30,분기말 상장주식수,262196196,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/89800/000008980021000032/,dei:EntityCommonStockSharesOutstanding 클래스 합,8
+Sherwin-Williams,SHW,2021Q3,2021-09-30,분기말 시가총액,73344141907,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/SHW?interval=1d&events=splits (2021-09-30) ; https://www.sec.gov/Archives/edgar/data/89800/000008980021000032/,종가 279.73 × 주식수 262196196,8
+Sherwin-Williams,SHW,2021Q4,2021-12-31,분기별 매출액,4762100000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/89800/000008980022000007/ ; https://www.sec.gov/Archives/edgar/data/89800/000008980021000032/,연간 19944600000 − 9개월누적 15182500000 (RevenueFromContractWithCustomerExcludingAssessedTax),8
+Sherwin-Williams,SHW,2021Q4,2021-12-31,분기별 영업이익,503600000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/89800/000008980022000007/ ; https://www.sec.gov/Archives/edgar/data/89800/000008980021000032/,연간 3083700000 − 9개월누적 2580100000 (OperatingIncomeLoss),8
+Sherwin-Williams,SHW,2021Q4,2021-12-31,분기별 당기순이익(지배),304000000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/89800/000008980022000007/ ; https://www.sec.gov/Archives/edgar/data/89800/000008980021000032/,연간 1864400000 − 9개월누적 1560400000 (NetIncomeLoss),8
+Sherwin-Williams,SHW,2021Q4,2021-12-31,분기별 영업활동현금흐름,193900000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/89800/000008980022000007/ ; https://www.sec.gov/Archives/edgar/data/89800/000008980021000032/,누적 2244600000 − 직전누적 2050700000 (시작 2021-01-01),8
+Sherwin-Williams,SHW,2021Q4,2021-12-31,분기말 자산총계,20666700000,USD,공시,https://www.sec.gov/Archives/edgar/data/89800/000008980022000007/,,8
+Sherwin-Williams,SHW,2021Q4,2021-12-31,분기말 부채총계,18229500000,USD,계산(부채및자본-총자본),https://www.sec.gov/Archives/edgar/data/89800/000008980022000007/,부채및자본 20666700000 − 총자본 2437200000,8
+Sherwin-Williams,SHW,2021Q4,2021-12-31,분기말 총자본(자기자본),2437200000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/89800/000008980022000007/,"StockholdersEquity, MinorityInterest 태그 없음",8
+Sherwin-Williams,SHW,2021Q4,2021-12-31,분기말 지배지분 자본,2437200000,USD,공시,https://www.sec.gov/Archives/edgar/data/89800/000008980022000007/,,8
+Sherwin-Williams,SHW,2021Q4,2021-12-31,분기말 종가,352.16,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/SHW?interval=1d&events=splits (2021-12-31),,8
+Sherwin-Williams,SHW,2021Q4,2022-01-31,분기말 상장주식수,260373774,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/89800/000008980022000007/,dei:EntityCommonStockSharesOutstanding 클래스 합,8
+Sherwin-Williams,SHW,2021Q4,2021-12-31,분기말 시가총액,91693228252,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/SHW?interval=1d&events=splits (2021-12-31) ; https://www.sec.gov/Archives/edgar/data/89800/000008980022000007/,종가 352.16 × 주식수 260373774,8
+Sherwin-Williams,SHW,2022Q1,2022-03-31,분기별 매출액,4998700000,USD,공시,https://www.sec.gov/Archives/edgar/data/89800/000008980022000017/,,8
+Sherwin-Williams,SHW,2022Q1,2022-03-31,분기별 영업이익,654800000,USD,공시,https://www.sec.gov/Archives/edgar/data/89800/000008980022000017/,,8
+Sherwin-Williams,SHW,2022Q1,2022-03-31,분기별 당기순이익(지배),370800000,USD,공시,https://www.sec.gov/Archives/edgar/data/89800/000008980022000017/,,8
+Sherwin-Williams,SHW,2022Q1,2022-03-31,분기별 영업활동현금흐름,26300000,USD,공시,https://www.sec.gov/Archives/edgar/data/89800/000008980022000017/,,8
+Sherwin-Williams,SHW,2022Q1,2022-03-31,분기말 자산총계,21730400000,USD,공시,https://www.sec.gov/Archives/edgar/data/89800/000008980022000017/,,8
+Sherwin-Williams,SHW,2022Q1,2022-03-31,분기말 부채총계,19496100000,USD,계산(부채및자본-총자본),https://www.sec.gov/Archives/edgar/data/89800/000008980022000017/,부채및자본 21730400000 − 총자본 2234300000,8
+Sherwin-Williams,SHW,2022Q1,2022-03-31,분기말 총자본(자기자본),2234300000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/89800/000008980022000017/,"StockholdersEquity, MinorityInterest 태그 없음",8
+Sherwin-Williams,SHW,2022Q1,2022-03-31,분기말 지배지분 자본,2234300000,USD,공시,https://www.sec.gov/Archives/edgar/data/89800/000008980022000017/,,8
+Sherwin-Williams,SHW,2022Q1,2022-03-31,분기말 종가,249.62,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/SHW?interval=1d&events=splits (2022-03-31),,8
+Sherwin-Williams,SHW,2022Q1,2022-03-31,분기말 상장주식수,260131306,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/89800/000008980022000017/,dei:EntityCommonStockSharesOutstanding 클래스 합,8
+Sherwin-Williams,SHW,2022Q1,2022-03-31,분기말 시가총액,64933976604,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/SHW?interval=1d&events=splits (2022-03-31) ; https://www.sec.gov/Archives/edgar/data/89800/000008980022000017/,종가 249.62 × 주식수 260131306,8
+Sherwin-Williams,SHW,2022Q2,2022-06-30,분기별 매출액,5872300000,USD,공시,https://www.sec.gov/Archives/edgar/data/89800/000008980022000029/,,8
+Sherwin-Williams,SHW,2022Q2,2022-06-30,분기별 영업이익,960700000,USD,공시,https://www.sec.gov/Archives/edgar/data/89800/000008980022000029/,,8
+Sherwin-Williams,SHW,2022Q2,2022-06-30,분기별 당기순이익(지배),577900000,USD,공시,https://www.sec.gov/Archives/edgar/data/89800/000008980022000029/,,8
+Sherwin-Williams,SHW,2022Q2,2022-06-30,분기별 영업활동현금흐름,613400000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/89800/000008980022000029/ ; https://www.sec.gov/Archives/edgar/data/89800/000008980022000017/,누적 639700000 − 직전누적 26300000 (시작 2022-01-01),8
+Sherwin-Williams,SHW,2022Q2,2022-06-30,분기말 자산총계,22052800000,USD,공시,https://www.sec.gov/Archives/edgar/data/89800/000008980022000029/,,8
+Sherwin-Williams,SHW,2022Q2,2022-06-30,분기말 부채총계,19828200000,USD,계산(부채및자본-총자본),https://www.sec.gov/Archives/edgar/data/89800/000008980022000029/,부채및자본 22052800000 − 총자본 2224600000,8
+Sherwin-Williams,SHW,2022Q2,2022-06-30,분기말 총자본(자기자본),2224600000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/89800/000008980022000029/,"StockholdersEquity, MinorityInterest 태그 없음",8
+Sherwin-Williams,SHW,2022Q2,2022-06-30,분기말 지배지분 자본,2224600000,USD,공시,https://www.sec.gov/Archives/edgar/data/89800/000008980022000029/,,8
+Sherwin-Williams,SHW,2022Q2,2022-06-30,분기말 종가,223.91,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/SHW?interval=1d&events=splits (2022-06-30),,8
+Sherwin-Williams,SHW,2022Q2,2022-06-30,분기말 상장주식수,259183053,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/89800/000008980022000029/,dei:EntityCommonStockSharesOutstanding 클래스 합,8
+Sherwin-Williams,SHW,2022Q2,2022-06-30,분기말 시가총액,58033677397,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/SHW?interval=1d&events=splits (2022-06-30) ; https://www.sec.gov/Archives/edgar/data/89800/000008980022000029/,종가 223.91 × 주식수 259183053,8
+Sherwin-Williams,SHW,2022Q3,2022-09-30,분기별 매출액,6047400000,USD,공시,https://www.sec.gov/Archives/edgar/data/89800/000008980022000037/,,8
+Sherwin-Williams,SHW,2022Q3,2022-09-30,분기별 영업이익,1095300000,USD,공시,https://www.sec.gov/Archives/edgar/data/89800/000008980022000037/,,8
+Sherwin-Williams,SHW,2022Q3,2022-09-30,분기별 당기순이익(지배),685100000,USD,공시,https://www.sec.gov/Archives/edgar/data/89800/000008980022000037/,,8
+Sherwin-Williams,SHW,2022Q3,2022-09-30,분기별 영업활동현금흐름,639200000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/89800/000008980022000037/ ; https://www.sec.gov/Archives/edgar/data/89800/000008980022000029/,누적 1278900000 − 직전누적 639700000 (시작 2022-01-01),8
+Sherwin-Williams,SHW,2022Q3,2022-09-30,분기말 자산총계,22245800000,USD,공시,https://www.sec.gov/Archives/edgar/data/89800/000008980022000037/,,8
+Sherwin-Williams,SHW,2022Q3,2022-09-30,분기말 부채총계,19648000000,USD,계산(부채및자본-총자본),https://www.sec.gov/Archives/edgar/data/89800/000008980022000037/,부채및자본 22245800000 − 총자본 2597800000,8
+Sherwin-Williams,SHW,2022Q3,2022-09-30,분기말 총자본(자기자본),2597800000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/89800/000008980022000037/,"StockholdersEquity, MinorityInterest 태그 없음",8
+Sherwin-Williams,SHW,2022Q3,2022-09-30,분기말 지배지분 자본,2597800000,USD,공시,https://www.sec.gov/Archives/edgar/data/89800/000008980022000037/,,8
+Sherwin-Williams,SHW,2022Q3,2022-09-30,분기말 종가,204.75,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/SHW?interval=1d&events=splits (2022-09-30),,8
+Sherwin-Williams,SHW,2022Q3,2022-09-30,분기말 상장주식수,259143416,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/89800/000008980022000037/,dei:EntityCommonStockSharesOutstanding 클래스 합,8
+Sherwin-Williams,SHW,2022Q3,2022-09-30,분기말 시가총액,53059614426,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/SHW?interval=1d&events=splits (2022-09-30) ; https://www.sec.gov/Archives/edgar/data/89800/000008980022000037/,종가 204.75 × 주식수 259143416,8
+Sherwin-Williams,SHW,2022Q4,2022-12-31,분기별 매출액,5230500000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/89800/000008980023000007/ ; https://www.sec.gov/Archives/edgar/data/89800/000008980022000037/,연간 22148900000 − 9개월누적 16918400000 (RevenueFromContractWithCustomerExcludingAssessedTax),8
+Sherwin-Williams,SHW,2022Q4,2022-12-31,분기별 영업이익,686400000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/89800/000008980023000007/ ; https://www.sec.gov/Archives/edgar/data/89800/000008980022000037/,연간 3397200000 − 9개월누적 2710800000 (OperatingIncomeLoss),8
+Sherwin-Williams,SHW,2022Q4,2022-12-31,분기별 당기순이익(지배),386300000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/89800/000008980023000007/ ; https://www.sec.gov/Archives/edgar/data/89800/000008980022000037/,연간 2020100000 − 9개월누적 1633800000 (NetIncomeLoss),8
+Sherwin-Williams,SHW,2022Q4,2022-12-31,분기별 영업활동현금흐름,641000000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/89800/000008980023000007/ ; https://www.sec.gov/Archives/edgar/data/89800/000008980022000037/,누적 1919900000 − 직전누적 1278900000 (시작 2022-01-01),8
+Sherwin-Williams,SHW,2022Q4,2022-12-31,분기말 자산총계,22594000000,USD,공시,https://www.sec.gov/Archives/edgar/data/89800/000008980023000007/,,8
+Sherwin-Williams,SHW,2022Q4,2022-12-31,분기말 부채총계,19491900000,USD,계산(부채및자본-총자본),https://www.sec.gov/Archives/edgar/data/89800/000008980023000007/,부채및자본 22594000000 − 총자본 3102100000,8
+Sherwin-Williams,SHW,2022Q4,2022-12-31,분기말 총자본(자기자본),3102100000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/89800/000008980023000007/,"StockholdersEquity, MinorityInterest 태그 없음",8
+Sherwin-Williams,SHW,2022Q4,2022-12-31,분기말 지배지분 자본,3102100000,USD,공시,https://www.sec.gov/Archives/edgar/data/89800/000008980023000007/,,8
+Sherwin-Williams,SHW,2022Q4,2022-12-30,분기말 종가,237.33,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/SHW?interval=1d&events=splits (2022-12-30),,8
+Sherwin-Williams,SHW,2022Q4,2023-01-31,분기말 상장주식수,258442281,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/89800/000008980023000007/,dei:EntityCommonStockSharesOutstanding 클래스 합,8
+Sherwin-Williams,SHW,2022Q4,2022-12-30,분기말 시가총액,61336106550,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/SHW?interval=1d&events=splits (2022-12-30) ; https://www.sec.gov/Archives/edgar/data/89800/000008980023000007/,종가 237.33 × 주식수 258442281,8
+Sherwin-Williams,SHW,2023Q1,2023-03-31,분기별 매출액,5442400000,USD,공시,https://www.sec.gov/Archives/edgar/data/89800/000008980023000014/,,8
+Sherwin-Williams,SHW,2023Q1,2023-03-31,분기별 영업이익,839400000,USD,공시,https://www.sec.gov/Archives/edgar/data/89800/000008980023000014/,,8
+Sherwin-Williams,SHW,2023Q1,2023-03-31,분기별 당기순이익(지배),477400000,USD,공시,https://www.sec.gov/Archives/edgar/data/89800/000008980023000014/,,8
+Sherwin-Williams,SHW,2023Q1,2023-03-31,분기별 영업활동현금흐름,88200000,USD,공시,https://www.sec.gov/Archives/edgar/data/89800/000008980023000014/,,8
+Sherwin-Williams,SHW,2023Q1,2023-03-31,분기말 자산총계,23129900000,USD,공시,https://www.sec.gov/Archives/edgar/data/89800/000008980023000014/,,8
+Sherwin-Williams,SHW,2023Q1,2023-03-31,분기말 부채총계,19963100000,USD,계산(부채및자본-총자본),https://www.sec.gov/Archives/edgar/data/89800/000008980023000014/,부채및자본 23129900000 − 총자본 3166800000,8
+Sherwin-Williams,SHW,2023Q1,2023-03-31,분기말 총자본(자기자본),3166800000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/89800/000008980023000014/,"StockholdersEquity, MinorityInterest 태그 없음",8
+Sherwin-Williams,SHW,2023Q1,2023-03-31,분기말 지배지분 자본,3166800000,USD,공시,https://www.sec.gov/Archives/edgar/data/89800/000008980023000014/,,8
+Sherwin-Williams,SHW,2023Q1,2023-03-31,분기말 종가,224.77,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/SHW?interval=1d&events=splits (2023-03-31),,8
+Sherwin-Williams,SHW,2023Q1,2023-03-31,분기말 상장주식수,257890316,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/89800/000008980023000014/,dei:EntityCommonStockSharesOutstanding 클래스 합,8
+Sherwin-Williams,SHW,2023Q1,2023-03-31,분기말 시가총액,57966006327,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/SHW?interval=1d&events=splits (2023-03-31) ; https://www.sec.gov/Archives/edgar/data/89800/000008980023000014/,종가 224.77 × 주식수 257890316,8
+Sherwin-Williams,SHW,2023Q2,2023-06-30,분기별 매출액,6240600000,USD,공시,https://www.sec.gov/Archives/edgar/data/89800/000008980023000025/,,8
+Sherwin-Williams,SHW,2023Q2,2023-06-30,분기별 영업이익,1232300000,USD,공시,https://www.sec.gov/Archives/edgar/data/89800/000008980023000025/,,8
+Sherwin-Williams,SHW,2023Q2,2023-06-30,분기별 당기순이익(지배),793700000,USD,공시,https://www.sec.gov/Archives/edgar/data/89800/000008980023000025/,,8
+Sherwin-Williams,SHW,2023Q2,2023-06-30,분기별 영업활동현금흐름,1206400000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/89800/000008980023000025/ ; https://www.sec.gov/Archives/edgar/data/89800/000008980023000014/,누적 1294600000 − 직전누적 88200000 (시작 2023-01-01),8
+Sherwin-Williams,SHW,2023Q2,2023-06-30,분기말 자산총계,23166100000,USD,공시,https://www.sec.gov/Archives/edgar/data/89800/000008980023000025/,,8
+Sherwin-Williams,SHW,2023Q2,2023-06-30,분기말 부채총계,19535000000,USD,계산(부채및자본-총자본),https://www.sec.gov/Archives/edgar/data/89800/000008980023000025/,부채및자본 23166100000 − 총자본 3631100000,8
+Sherwin-Williams,SHW,2023Q2,2023-06-30,분기말 총자본(자기자본),3631100000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/89800/000008980023000025/,"StockholdersEquity, MinorityInterest 태그 없음",8
+Sherwin-Williams,SHW,2023Q2,2023-06-30,분기말 지배지분 자본,3631100000,USD,공시,https://www.sec.gov/Archives/edgar/data/89800/000008980023000025/,,8
+Sherwin-Williams,SHW,2023Q2,2023-06-30,분기말 종가,265.52,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/SHW?interval=1d&events=splits (2023-06-30),,8
+Sherwin-Williams,SHW,2023Q2,2023-06-30,분기말 상장주식수,257148607,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/89800/000008980023000025/,dei:EntityCommonStockSharesOutstanding 클래스 합,8
+Sherwin-Williams,SHW,2023Q2,2023-06-30,분기말 시가총액,68278098131,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/SHW?interval=1d&events=splits (2023-06-30) ; https://www.sec.gov/Archives/edgar/data/89800/000008980023000025/,종가 265.52 × 주식수 257148607,8
+Sherwin-Williams,SHW,2023Q3,2023-09-30,분기별 매출액,6116700000,USD,공시,https://www.sec.gov/Archives/edgar/data/89800/000008980023000031/,,8
+Sherwin-Williams,SHW,2023Q3,2023-09-30,분기별 영업이익,1298800000,USD,공시,https://www.sec.gov/Archives/edgar/data/89800/000008980023000031/,,8
+Sherwin-Williams,SHW,2023Q3,2023-09-30,분기별 당기순이익(지배),761500000,USD,공시,https://www.sec.gov/Archives/edgar/data/89800/000008980023000031/,,8
+Sherwin-Williams,SHW,2023Q3,2023-09-30,분기별 영업활동현금흐름,1308700000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/89800/000008980023000031/ ; https://www.sec.gov/Archives/edgar/data/89800/000008980023000025/,누적 2603300000 − 직전누적 1294600000 (시작 2023-01-01),8
+Sherwin-Williams,SHW,2023Q3,2023-09-30,분기말 자산총계,23004500000,USD,공시,https://www.sec.gov/Archives/edgar/data/89800/000008980023000031/,,8
+Sherwin-Williams,SHW,2023Q3,2023-09-30,분기말 부채총계,19224500000,USD,계산(부채및자본-총자본),https://www.sec.gov/Archives/edgar/data/89800/000008980023000031/,부채및자본 23004500000 − 총자본 3780000000,8
+Sherwin-Williams,SHW,2023Q3,2023-09-30,분기말 총자본(자기자본),3780000000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/89800/000008980023000031/,"StockholdersEquity, MinorityInterest 태그 없음",8
+Sherwin-Williams,SHW,2023Q3,2023-09-30,분기말 지배지분 자본,3780000000,USD,공시,https://www.sec.gov/Archives/edgar/data/89800/000008980023000031/,,8
+Sherwin-Williams,SHW,2023Q3,2023-09-29,분기말 종가,255.05,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/SHW?interval=1d&events=splits (2023-09-29),,8
+Sherwin-Williams,SHW,2023Q3,2023-09-30,분기말 상장주식수,255966090,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/89800/000008980023000031/,dei:EntityCommonStockSharesOutstanding 클래스 합,8
+Sherwin-Williams,SHW,2023Q3,2023-09-29,분기말 시가총액,65284151254,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/SHW?interval=1d&events=splits (2023-09-29) ; https://www.sec.gov/Archives/edgar/data/89800/000008980023000031/,종가 255.05 × 주식수 255966090,8
+Sherwin-Williams,SHW,2023Q4,2023-12-31,분기별 매출액,5252200000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/89800/000008980024000033/ ; https://www.sec.gov/Archives/edgar/data/89800/000008980023000031/,연간 23051900000 − 9개월누적 17799700000 (RevenueFromContractWithCustomerExcludingAssessedTax),8
+Sherwin-Williams,SHW,2023Q4,2023-12-31,분기별 영업이익,791200000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/89800/000008980024000033/ ; https://www.sec.gov/Archives/edgar/data/89800/000008980023000031/,연간 4161700000 − 9개월누적 3370500000 (OperatingIncomeLoss),8
+Sherwin-Williams,SHW,2023Q4,2023-12-31,분기별 당기순이익(지배),356200000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/89800/000008980024000033/ ; https://www.sec.gov/Archives/edgar/data/89800/000008980023000031/,연간 2388800000 − 9개월누적 2032600000 (NetIncomeLoss),8
+Sherwin-Williams,SHW,2023Q4,2023-12-31,분기별 영업활동현금흐름,918600000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/89800/000008980024000033/ ; https://www.sec.gov/Archives/edgar/data/89800/000008980023000031/,누적 3521900000 − 직전누적 2603300000 (시작 2023-01-01),8
+Sherwin-Williams,SHW,2023Q4,2023-12-31,분기말 자산총계,22954400000,USD,공시,https://www.sec.gov/Archives/edgar/data/89800/000008980024000033/,,8
+Sherwin-Williams,SHW,2023Q4,2023-12-31,분기말 부채총계,19238600000,USD,계산(부채및자본-총자본),https://www.sec.gov/Archives/edgar/data/89800/000008980024000033/,부채및자본 22954400000 − 총자본 3715800000,8
+Sherwin-Williams,SHW,2023Q4,2023-12-31,분기말 총자본(자기자본),3715800000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/89800/000008980024000033/,"StockholdersEquity, MinorityInterest 태그 없음",8
+Sherwin-Williams,SHW,2023Q4,2023-12-31,분기말 지배지분 자본,3715800000,USD,공시,https://www.sec.gov/Archives/edgar/data/89800/000008980024000033/,,8
+Sherwin-Williams,SHW,2023Q4,2023-12-29,분기말 종가,311.9,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/SHW?interval=1d&events=splits (2023-12-29),,8
+Sherwin-Williams,SHW,2023Q4,2024-01-31,분기말 상장주식수,254464522,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/89800/000008980024000033/,dei:EntityCommonStockSharesOutstanding 클래스 합,8
+Sherwin-Williams,SHW,2023Q4,2023-12-29,분기말 시가총액,79367484412,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/SHW?interval=1d&events=splits (2023-12-29) ; https://www.sec.gov/Archives/edgar/data/89800/000008980024000033/,종가 311.9 × 주식수 254464522,8
+Sherwin-Williams,SHW,2024Q1,2024-03-31,분기별 매출액,5367300000,USD,공시,https://www.sec.gov/Archives/edgar/data/89800/000008980024000087/,,8
+Sherwin-Williams,SHW,2024Q1,2024-03-31,분기별 영업이익,884300000,USD,공시,https://www.sec.gov/Archives/edgar/data/89800/000008980024000087/,,8
+Sherwin-Williams,SHW,2024Q1,2024-03-31,분기별 당기순이익(지배),505200000,USD,공시,https://www.sec.gov/Archives/edgar/data/89800/000008980024000087/,,8
+Sherwin-Williams,SHW,2024Q1,2024-03-31,분기별 영업활동현금흐름,-58900000,USD,공시,https://www.sec.gov/Archives/edgar/data/89800/000008980024000087/,,8
+Sherwin-Williams,SHW,2024Q1,2024-03-31,분기말 자산총계,23428100000,USD,공시,https://www.sec.gov/Archives/edgar/data/89800/000008980024000087/,,8
+Sherwin-Williams,SHW,2024Q1,2024-03-31,분기말 부채총계,19924400000,USD,계산(부채및자본-총자본),https://www.sec.gov/Archives/edgar/data/89800/000008980024000087/,부채및자본 23428100000 − 총자본 3503700000,8
+Sherwin-Williams,SHW,2024Q1,2024-03-31,분기말 총자본(자기자본),3503700000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/89800/000008980024000087/,"StockholdersEquity, MinorityInterest 태그 없음",8
+Sherwin-Williams,SHW,2024Q1,2024-03-31,분기말 지배지분 자본,3503700000,USD,공시,https://www.sec.gov/Archives/edgar/data/89800/000008980024000087/,,8
+Sherwin-Williams,SHW,2024Q1,2024-03-28,분기말 종가,347.33,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/SHW?interval=1d&events=splits (2024-03-28),,8
+Sherwin-Williams,SHW,2024Q1,2024-03-31,분기말 상장주식수,253549049,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/89800/000008980024000087/,dei:EntityCommonStockSharesOutstanding 클래스 합,8
+Sherwin-Williams,SHW,2024Q1,2024-03-28,분기말 시가총액,88065191189,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/SHW?interval=1d&events=splits (2024-03-28) ; https://www.sec.gov/Archives/edgar/data/89800/000008980024000087/,종가 347.33 × 주식수 253549049,8
+Sherwin-Williams,SHW,2024Q2,2024-06-30,분기별 매출액,6271500000,USD,공시,https://www.sec.gov/Archives/edgar/data/89800/000008980024000105/,,8
+Sherwin-Williams,SHW,2024Q2,2024-06-30,분기별 영업이익,1413000000,USD,공시,https://www.sec.gov/Archives/edgar/data/89800/000008980024000105/,,8
+Sherwin-Williams,SHW,2024Q2,2024-06-30,분기별 당기순이익(지배),889900000,USD,공시,https://www.sec.gov/Archives/edgar/data/89800/000008980024000105/,,8
+Sherwin-Williams,SHW,2024Q2,2024-06-30,분기별 영업활동현금흐름,1202900000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/89800/000008980024000105/ ; https://www.sec.gov/Archives/edgar/data/89800/000008980024000087/,누적 1144000000 − 직전누적 -58900000 (시작 2024-01-01),8
+Sherwin-Williams,SHW,2024Q2,2024-06-30,분기말 자산총계,23734000000,USD,공시,https://www.sec.gov/Archives/edgar/data/89800/000008980024000105/,,8
+Sherwin-Williams,SHW,2024Q2,2024-06-30,분기말 부채총계,19982200000,USD,계산(부채및자본-총자본),https://www.sec.gov/Archives/edgar/data/89800/000008980024000105/,부채및자본 23734000000 − 총자본 3751800000,8
+Sherwin-Williams,SHW,2024Q2,2024-06-30,분기말 총자본(자기자본),3751800000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/89800/000008980024000105/,"StockholdersEquity, MinorityInterest 태그 없음",8
+Sherwin-Williams,SHW,2024Q2,2024-06-30,분기말 지배지분 자본,3751800000,USD,공시,https://www.sec.gov/Archives/edgar/data/89800/000008980024000105/,,8
+Sherwin-Williams,SHW,2024Q2,2024-06-28,분기말 종가,298.43,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/SHW?interval=1d&events=splits (2024-06-28),,8
+Sherwin-Williams,SHW,2024Q2,2024-06-30,분기말 상장주식수,252257630,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/89800/000008980024000105/,dei:EntityCommonStockSharesOutstanding 클래스 합,8
+Sherwin-Williams,SHW,2024Q2,2024-06-28,분기말 시가총액,75281244521,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/SHW?interval=1d&events=splits (2024-06-28) ; https://www.sec.gov/Archives/edgar/data/89800/000008980024000105/,종가 298.43 × 주식수 252257630,8
+Sherwin-Williams,SHW,2024Q3,2024-09-30,분기별 매출액,6162500000,USD,공시,https://www.sec.gov/Archives/edgar/data/89800/000008980024000157/,,8
+Sherwin-Williams,SHW,2024Q3,2024-09-30,분기별 영업이익,1321100000,USD,공시,https://www.sec.gov/Archives/edgar/data/89800/000008980024000157/,,8
+Sherwin-Williams,SHW,2024Q3,2024-09-30,분기별 당기순이익(지배),806200000,USD,공시,https://www.sec.gov/Archives/edgar/data/89800/000008980024000157/,,8
+Sherwin-Williams,SHW,2024Q3,2024-09-30,분기별 영업활동현금흐름,1074700000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/89800/000008980024000157/ ; https://www.sec.gov/Archives/edgar/data/89800/000008980024000105/,누적 2218700000 − 직전누적 1144000000 (시작 2024-01-01),8
+Sherwin-Williams,SHW,2024Q3,2024-09-30,분기말 자산총계,23968300000,USD,공시,https://www.sec.gov/Archives/edgar/data/89800/000008980024000157/,,8
+Sherwin-Williams,SHW,2024Q3,2024-09-30,분기말 부채총계,19812200000,USD,계산(부채및자본-총자본),https://www.sec.gov/Archives/edgar/data/89800/000008980024000157/,부채및자본 23968300000 − 총자본 4156100000,8
+Sherwin-Williams,SHW,2024Q3,2024-09-30,분기말 총자본(자기자본),4156100000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/89800/000008980024000157/,"StockholdersEquity, MinorityInterest 태그 없음",8
+Sherwin-Williams,SHW,2024Q3,2024-09-30,분기말 지배지분 자본,4156100000,USD,공시,https://www.sec.gov/Archives/edgar/data/89800/000008980024000157/,,8
+Sherwin-Williams,SHW,2024Q3,2024-09-30,분기말 종가,381.67,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/SHW?interval=1d&events=splits (2024-09-30),,8
+Sherwin-Williams,SHW,2024Q3,2024-09-30,분기말 상장주식수,251853291,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/89800/000008980024000157/,dei:EntityCommonStockSharesOutstanding 클래스 합,8
+Sherwin-Williams,SHW,2024Q3,2024-09-30,분기말 시가총액,96124845576,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/SHW?interval=1d&events=splits (2024-09-30) ; https://www.sec.gov/Archives/edgar/data/89800/000008980024000157/,종가 381.67 × 주식수 251853291,8
+Sherwin-Williams,SHW,2024Q4,2024-12-31,분기별 매출액,5297200000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/89800/000008980025000030/ ; https://www.sec.gov/Archives/edgar/data/89800/000008980024000157/,연간 23098500000 − 9개월누적 17801300000 (RevenueFromContractWithCustomerExcludingAssessedTax),8
+Sherwin-Williams,SHW,2024Q4,2024-12-31,분기별 영업이익,미확인,USD,미확인,SEC companyfacts CIK0000089800: 해당 보고서에 OperatingIncomeLoss 태그 없음(영업이익 미공시) ; https://www.sec.gov/Archives/edgar/data/89800/000008980025000030/,,8
+Sherwin-Williams,SHW,2024Q4,2024-12-31,분기별 당기순이익(지배),480100000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/89800/000008980025000030/ ; https://www.sec.gov/Archives/edgar/data/89800/000008980024000157/,연간 2681400000 − 9개월누적 2201300000 (NetIncomeLoss),8
+Sherwin-Williams,SHW,2024Q4,2024-12-31,분기별 영업활동현금흐름,934500000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/89800/000008980025000030/ ; https://www.sec.gov/Archives/edgar/data/89800/000008980024000157/,누적 3153200000 − 직전누적 2218700000 (시작 2024-01-01),8
+Sherwin-Williams,SHW,2024Q4,2024-12-31,분기말 자산총계,23632600000,USD,공시,https://www.sec.gov/Archives/edgar/data/89800/000008980025000030/,,8
+Sherwin-Williams,SHW,2024Q4,2024-12-31,분기말 부채총계,19581400000,USD,계산(부채및자본-총자본),https://www.sec.gov/Archives/edgar/data/89800/000008980025000030/,부채및자본 23632600000 − 총자본 4051200000,8
+Sherwin-Williams,SHW,2024Q4,2024-12-31,분기말 총자본(자기자본),4051200000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/89800/000008980025000030/,"StockholdersEquity, MinorityInterest 태그 없음",8
+Sherwin-Williams,SHW,2024Q4,2024-12-31,분기말 지배지분 자본,4051200000,USD,공시,https://www.sec.gov/Archives/edgar/data/89800/000008980025000030/,,8
+Sherwin-Williams,SHW,2024Q4,2024-12-31,분기말 종가,339.93,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/SHW?interval=1d&events=splits (2024-12-31),,8
+Sherwin-Williams,SHW,2024Q4,2025-01-31,분기말 상장주식수,251364135,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/89800/000008980025000030/,dei:EntityCommonStockSharesOutstanding 클래스 합,8
+Sherwin-Williams,SHW,2024Q4,2024-12-31,분기말 시가총액,85446210411,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/SHW?interval=1d&events=splits (2024-12-31) ; https://www.sec.gov/Archives/edgar/data/89800/000008980025000030/,종가 339.93 × 주식수 251364135,8
+Sherwin-Williams,SHW,2025Q1,2025-03-31,분기별 매출액,5305700000,USD,공시,https://www.sec.gov/Archives/edgar/data/89800/000008980025000087/,,8
+Sherwin-Williams,SHW,2025Q1,2025-03-31,분기별 영업이익,미확인,USD,미확인,SEC companyfacts CIK0000089800: 해당 보고서에 OperatingIncomeLoss 태그 없음(영업이익 미공시) ; https://www.sec.gov/Archives/edgar/data/89800/000008980025000087/,,8
+Sherwin-Williams,SHW,2025Q1,2025-03-31,분기별 당기순이익(지배),503900000,USD,공시,https://www.sec.gov/Archives/edgar/data/89800/000008980025000087/,,8
+Sherwin-Williams,SHW,2025Q1,2025-03-31,분기별 영업활동현금흐름,-61100000,USD,공시,https://www.sec.gov/Archives/edgar/data/89800/000008980025000087/,,8
+Sherwin-Williams,SHW,2025Q1,2025-03-31,분기말 자산총계,24636100000,USD,공시,https://www.sec.gov/Archives/edgar/data/89800/000008980025000087/,,8
+Sherwin-Williams,SHW,2025Q1,2025-03-31,분기말 부채총계,20506000000,USD,계산(부채및자본-총자본),https://www.sec.gov/Archives/edgar/data/89800/000008980025000087/,부채및자본 24636100000 − 총자본 4130100000,8
+Sherwin-Williams,SHW,2025Q1,2025-03-31,분기말 총자본(자기자본),4130100000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/89800/000008980025000087/,"StockholdersEquity, MinorityInterest 태그 없음",8
+Sherwin-Williams,SHW,2025Q1,2025-03-31,분기말 지배지분 자본,4130100000,USD,공시,https://www.sec.gov/Archives/edgar/data/89800/000008980025000087/,,8
+Sherwin-Williams,SHW,2025Q1,2025-03-31,분기말 종가,349.19,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/SHW?interval=1d&events=splits (2025-03-31),,8
+Sherwin-Williams,SHW,2025Q1,2025-03-31,분기말 상장주식수,250600582,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/89800/000008980025000087/,dei:EntityCommonStockSharesOutstanding 클래스 합,8
+Sherwin-Williams,SHW,2025Q1,2025-03-31,분기말 시가총액,87507217229,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/SHW?interval=1d&events=splits (2025-03-31) ; https://www.sec.gov/Archives/edgar/data/89800/000008980025000087/,종가 349.19 × 주식수 250600582,8
+Sherwin-Williams,SHW,2025Q2,2025-06-30,분기별 매출액,6314500000,USD,공시,https://www.sec.gov/Archives/edgar/data/89800/000008980025000115/,,8
+Sherwin-Williams,SHW,2025Q2,2025-06-30,분기별 영업이익,미확인,USD,미확인,SEC companyfacts CIK0000089800: 해당 보고서에 OperatingIncomeLoss 태그 없음(영업이익 미공시) ; https://www.sec.gov/Archives/edgar/data/89800/000008980025000115/,,8
+Sherwin-Williams,SHW,2025Q2,2025-06-30,분기별 당기순이익(지배),754700000,USD,공시,https://www.sec.gov/Archives/edgar/data/89800/000008980025000115/,,8
+Sherwin-Williams,SHW,2025Q2,2025-06-30,분기별 영업활동현금흐름,1112600000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/89800/000008980025000115/ ; https://www.sec.gov/Archives/edgar/data/89800/000008980025000087/,누적 1051500000 − 직전누적 -61100000 (시작 2025-01-01),8
+Sherwin-Williams,SHW,2025Q2,2025-06-30,분기말 자산총계,25363600000,USD,공시,https://www.sec.gov/Archives/edgar/data/89800/000008980025000115/,,8
+Sherwin-Williams,SHW,2025Q2,2025-06-30,분기말 부채총계,20962700000,USD,계산(부채및자본-총자본),https://www.sec.gov/Archives/edgar/data/89800/000008980025000115/,부채및자본 25363600000 − 총자본 4400900000,8
+Sherwin-Williams,SHW,2025Q2,2025-06-30,분기말 총자본(자기자본),4400900000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/89800/000008980025000115/,"StockholdersEquity, MinorityInterest 태그 없음",8
+Sherwin-Williams,SHW,2025Q2,2025-06-30,분기말 지배지분 자본,4400900000,USD,공시,https://www.sec.gov/Archives/edgar/data/89800/000008980025000115/,,8
+Sherwin-Williams,SHW,2025Q2,2025-06-30,분기말 종가,343.36,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/SHW?interval=1d&events=splits (2025-06-30),,8
+Sherwin-Williams,SHW,2025Q2,2025-06-30,분기말 상장주식수,249333316,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/89800/000008980025000115/,dei:EntityCommonStockSharesOutstanding 클래스 합,8
+Sherwin-Williams,SHW,2025Q2,2025-06-30,분기말 시가총액,85611087382,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/SHW?interval=1d&events=splits (2025-06-30) ; https://www.sec.gov/Archives/edgar/data/89800/000008980025000115/,종가 343.36 × 주식수 249333316,8
+Sherwin-Williams,SHW,2025Q3,2025-09-30,분기별 매출액,6358200000,USD,공시,https://www.sec.gov/Archives/edgar/data/89800/000008980025000126/,,8
+Sherwin-Williams,SHW,2025Q3,2025-09-30,분기별 영업이익,미확인,USD,미확인,SEC companyfacts CIK0000089800: 해당 보고서에 OperatingIncomeLoss 태그 없음(영업이익 미공시) ; https://www.sec.gov/Archives/edgar/data/89800/000008980025000126/,,8
+Sherwin-Williams,SHW,2025Q3,2025-09-30,분기별 당기순이익(지배),833100000,USD,공시,https://www.sec.gov/Archives/edgar/data/89800/000008980025000126/,,8
+Sherwin-Williams,SHW,2025Q3,2025-09-30,분기별 영업활동현금흐름,1307600000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/89800/000008980025000126/ ; https://www.sec.gov/Archives/edgar/data/89800/000008980025000115/,누적 2359100000 − 직전누적 1051500000 (시작 2025-01-01),8
+Sherwin-Williams,SHW,2025Q3,2025-09-30,분기말 자산총계,26206400000,USD,공시,https://www.sec.gov/Archives/edgar/data/89800/000008980025000126/,,8
+Sherwin-Williams,SHW,2025Q3,2025-09-30,분기말 부채총계,21781100000,USD,계산(부채및자본-총자본),https://www.sec.gov/Archives/edgar/data/89800/000008980025000126/,부채및자본 26206400000 − 총자본 4425300000,8
+Sherwin-Williams,SHW,2025Q3,2025-09-30,분기말 총자본(자기자본),4425300000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/89800/000008980025000126/,"StockholdersEquity, MinorityInterest 태그 없음",8
+Sherwin-Williams,SHW,2025Q3,2025-09-30,분기말 지배지분 자본,4425300000,USD,공시,https://www.sec.gov/Archives/edgar/data/89800/000008980025000126/,,8
+Sherwin-Williams,SHW,2025Q3,2025-09-30,분기말 종가,346.26,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/SHW?interval=1d&events=splits (2025-09-30),,8
+Sherwin-Williams,SHW,2025Q3,2025-09-30,분기말 상장주식수,247893513,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/89800/000008980025000126/,dei:EntityCommonStockSharesOutstanding 클래스 합,8
+Sherwin-Williams,SHW,2025Q3,2025-09-30,분기말 시가총액,85835607811,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/SHW?interval=1d&events=splits (2025-09-30) ; https://www.sec.gov/Archives/edgar/data/89800/000008980025000126/,종가 346.26 × 주식수 247893513,8
+Sherwin-Williams,SHW,2025Q4,2025-12-31,분기별 매출액,5595900000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/89800/000008980026000008/ ; https://www.sec.gov/Archives/edgar/data/89800/000008980025000126/,연간 23574300000 − 9개월누적 17978400000 (RevenueFromContractWithCustomerExcludingAssessedTax),8
+Sherwin-Williams,SHW,2025Q4,2025-12-31,분기별 영업이익,미확인,USD,미확인,SEC companyfacts CIK0000089800: 해당 보고서에 OperatingIncomeLoss 태그 없음(영업이익 미공시) ; https://www.sec.gov/Archives/edgar/data/89800/000008980026000008/,,8
+Sherwin-Williams,SHW,2025Q4,2025-12-31,분기별 당기순이익(지배),476800000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/89800/000008980026000008/ ; https://www.sec.gov/Archives/edgar/data/89800/000008980025000126/,연간 2568500000 − 9개월누적 2091700000 (NetIncomeLoss),8
+Sherwin-Williams,SHW,2025Q4,2025-12-31,분기별 영업활동현금흐름,1092500000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/89800/000008980026000008/ ; https://www.sec.gov/Archives/edgar/data/89800/000008980025000126/,누적 3451600000 − 직전누적 2359100000 (시작 2025-01-01),8
+Sherwin-Williams,SHW,2025Q4,2025-12-31,분기말 자산총계,25901700000,USD,공시,https://www.sec.gov/Archives/edgar/data/89800/000008980026000008/,,8
+Sherwin-Williams,SHW,2025Q4,2025-12-31,분기말 부채총계,21303400000,USD,계산(부채및자본-총자본),https://www.sec.gov/Archives/edgar/data/89800/000008980026000008/,부채및자본 25901700000 − 총자본 4598300000,8
+Sherwin-Williams,SHW,2025Q4,2025-12-31,분기말 총자본(자기자본),4598300000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/89800/000008980026000008/,"StockholdersEquity, MinorityInterest 태그 없음",8
+Sherwin-Williams,SHW,2025Q4,2025-12-31,분기말 지배지분 자본,4598300000,USD,공시,https://www.sec.gov/Archives/edgar/data/89800/000008980026000008/,,8
+Sherwin-Williams,SHW,2025Q4,2025-12-31,분기말 종가,324.03,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/SHW?interval=1d&events=splits (2025-12-31),,8
+Sherwin-Williams,SHW,2025Q4,2026-01-31,분기말 상장주식수,247774767,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/89800/000008980026000008/,dei:EntityCommonStockSharesOutstanding 클래스 합,8
+Sherwin-Williams,SHW,2025Q4,2025-12-31,분기말 시가총액,80286457751,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/SHW?interval=1d&events=splits (2025-12-31) ; https://www.sec.gov/Archives/edgar/data/89800/000008980026000008/,종가 324.03 × 주식수 247774767,8
+Sherwin-Williams,SHW,2026Q1,2026-03-31,분기별 매출액,5666900000,USD,공시,https://www.sec.gov/Archives/edgar/data/89800/000008980026000038/,,8
+Sherwin-Williams,SHW,2026Q1,2026-03-31,분기별 영업이익,미확인,USD,미확인,SEC companyfacts CIK0000089800: 해당 보고서에 OperatingIncomeLoss 태그 없음(영업이익 미공시) ; https://www.sec.gov/Archives/edgar/data/89800/000008980026000038/,,8
+Sherwin-Williams,SHW,2026Q1,2026-03-31,분기별 당기순이익(지배),534700000,USD,공시,https://www.sec.gov/Archives/edgar/data/89800/000008980026000038/,,8
+Sherwin-Williams,SHW,2026Q1,2026-03-31,분기별 영업활동현금흐름,139100000,USD,공시,https://www.sec.gov/Archives/edgar/data/89800/000008980026000038/,,8
+Sherwin-Williams,SHW,2026Q1,2026-03-31,분기말 자산총계,26378700000,USD,공시,https://www.sec.gov/Archives/edgar/data/89800/000008980026000038/,,8
+Sherwin-Williams,SHW,2026Q1,2026-03-31,분기말 부채총계,21947600000,USD,계산(부채및자본-총자본),https://www.sec.gov/Archives/edgar/data/89800/000008980026000038/,부채및자본 26378700000 − 총자본 4431100000,8
+Sherwin-Williams,SHW,2026Q1,2026-03-31,분기말 총자본(자기자본),4431100000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/89800/000008980026000038/,"StockholdersEquity, MinorityInterest 태그 없음",8
+Sherwin-Williams,SHW,2026Q1,2026-03-31,분기말 지배지분 자본,4431100000,USD,공시,https://www.sec.gov/Archives/edgar/data/89800/000008980026000038/,,8
+Sherwin-Williams,SHW,2026Q1,2026-03-31,분기말 종가,320.55,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/SHW?interval=1d&events=splits (2026-03-31),,8
+Sherwin-Williams,SHW,2026Q1,2026-03-31,분기말 상장주식수,246635621,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/89800/000008980026000038/,dei:EntityCommonStockSharesOutstanding 클래스 합,8
+Sherwin-Williams,SHW,2026Q1,2026-03-31,분기말 시가총액,79059048312,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/SHW?interval=1d&events=splits (2026-03-31) ; https://www.sec.gov/Archives/edgar/data/89800/000008980026000038/,종가 320.55 × 주식수 246635621,8
+Sherwin-Williams,SHW,2026Q2,2026-06-30,분기별 매출액,6789300000,USD,공시,https://www.sec.gov/Archives/edgar/data/89800/000008980026000049/,,8
+Sherwin-Williams,SHW,2026Q2,2026-06-30,분기별 영업이익,미확인,USD,미확인,SEC companyfacts CIK0000089800: 해당 보고서에 OperatingIncomeLoss 태그 없음(영업이익 미공시) ; https://www.sec.gov/Archives/edgar/data/89800/000008980026000049/,,8
+Sherwin-Williams,SHW,2026Q2,2026-06-30,분기별 당기순이익(지배),843600000,USD,공시,https://www.sec.gov/Archives/edgar/data/89800/000008980026000049/,,8
+Sherwin-Williams,SHW,2026Q2,2026-06-30,분기별 영업활동현금흐름,1347500000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/89800/000008980026000049/ ; https://www.sec.gov/Archives/edgar/data/89800/000008980026000038/,누적 1486600000 − 직전누적 139100000 (시작 2026-01-01),8
+Sherwin-Williams,SHW,2026Q2,2026-06-30,분기말 자산총계,26951400000,USD,공시,https://www.sec.gov/Archives/edgar/data/89800/000008980026000049/,,8
+Sherwin-Williams,SHW,2026Q2,2026-06-30,분기말 부채총계,23096700000,USD,계산(부채및자본-총자본),https://www.sec.gov/Archives/edgar/data/89800/000008980026000049/,부채및자본 26951400000 − 총자본 3854700000,8
+Sherwin-Williams,SHW,2026Q2,2026-06-30,분기말 총자본(자기자본),3854700000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/89800/000008980026000049/,"StockholdersEquity, MinorityInterest 태그 없음",8
+Sherwin-Williams,SHW,2026Q2,2026-06-30,분기말 지배지분 자본,3854700000,USD,공시,https://www.sec.gov/Archives/edgar/data/89800/000008980026000049/,,8
+Sherwin-Williams,SHW,2026Q2,2026-06-30,분기말 종가,344.32,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/SHW?interval=1d&events=splits (2026-06-30),,8
+Sherwin-Williams,SHW,2026Q2,2026-06-30,분기말 상장주식수,242758151,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/89800/000008980026000049/,dei:EntityCommonStockSharesOutstanding 클래스 합,8
+Sherwin-Williams,SHW,2026Q2,2026-06-30,분기말 시가총액,83586486552,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/SHW?interval=1d&events=splits (2026-06-30) ; https://www.sec.gov/Archives/edgar/data/89800/000008980026000049/,종가 344.32 × 주식수 242758151,8

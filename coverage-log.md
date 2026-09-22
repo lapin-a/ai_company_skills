@@ -8,6 +8,7 @@
 
 - **폴더 구조(2026-09-21 정리):** 국내는 `kr/`(스크립트 · `kr/data/` · `kr/logs/`), 미국은 `us/`(스크립트 · `us/data/` · `us/logs/`). 스크립트는 저장소 루트에서 실행한다(예: `python us/collect_us_round16.py`).
 - 데이터셋: 국내 `kr/data/round1-dataset.csv` ~ `round14-dataset.csv` (14개, 11~14는 금융 항목 세트·`항목세트` 열 추가) · 미국 `us/data/us-round1-dataset.csv` ~ `us-round30-dataset.csv` (30개, 17~30은 5곳 단위). 라운드별 요약은 같은 이름의 `-summary.json`.
+- **회사별 파일(2026-09-23):** `kr/data/by-company/<종목코드>.csv` · `us/data/by-company/<티커>.csv`(재작성 기록이 있으면 `<코드>-restated.csv`, 끝에 `라운드` 열). 라운드 파일에서 만드는 파생물이라 직접 고치지 않는다. 채택 뒤마다 `python split_by_company.py`로 다시 만든다.
 - 공용 검증 스크립트: `tmp_verify/outliers_kr.py`(이상치·부호전환, 국내·미국 공용). 트랙별 검증 스크립트는 각 트랙 로그에 있다.
 
 ## 누적 요약

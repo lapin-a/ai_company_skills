@@ -1,0 +1,727 @@
+﻿기업,종목코드,기간,기준일,항목,값,통화,값구분,출처,검산,라운드
+Amazon,AMZN,2010Q1,2010-03-31,분기별 매출액,7131000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1018724/000119312510090367/,,1
+Amazon,AMZN,2010Q1,2010-03-31,분기별 영업이익,394000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1018724/000119312510090367/,,1
+Amazon,AMZN,2010Q1,2010-03-31,분기별 당기순이익(지배),299000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1018724/000119312510090367/,,1
+Amazon,AMZN,2010Q1,2010-03-31,분기별 영업활동현금흐름,-1098000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1018724/000119312510090367/,,1
+Amazon,AMZN,2010Q1,2010-03-31,분기말 자산총계,12042000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1018724/000119312510090367/,,1
+Amazon,AMZN,2010Q1,2010-03-31,분기말 부채총계,6424000000,USD,계산(부채및자본-총자본),https://www.sec.gov/Archives/edgar/data/1018724/000119312510090367/,부채및자본 12042000000 − 총자본 5618000000,1
+Amazon,AMZN,2010Q1,2010-03-31,분기말 총자본(자기자본),5618000000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/1018724/000119312510090367/,"StockholdersEquity, MinorityInterest 태그 없음",1
+Amazon,AMZN,2010Q1,2010-03-31,분기말 지배지분 자본,5618000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1018724/000119312510090367/,,1
+Amazon,AMZN,2010Q1,2010-03-31,분기말 종가,135.77,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/AMZN?interval=1d&events=splits (2010-03-31),분할조정 종가 6.7885 × 이후 분할계수 20,1
+Amazon,AMZN,2010Q1,2010-04-16,분기말 상장주식수,445671637,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/1018724/000119312510090367/,dei:EntityCommonStockSharesOutstanding 클래스 합,1
+Amazon,AMZN,2010Q1,2010-03-31,분기말 시가총액,60508838155,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/AMZN?interval=1d&events=splits (2010-03-31) ; https://www.sec.gov/Archives/edgar/data/1018724/000119312510090367/,종가 135.77 × 주식수 445671637,1
+Amazon,AMZN,2010Q2,2010-06-30,분기별 매출액,6566000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1018724/000119312510164083/,,1
+Amazon,AMZN,2010Q2,2010-06-30,분기별 영업이익,270000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1018724/000119312510164083/,,1
+Amazon,AMZN,2010Q2,2010-06-30,분기별 당기순이익(지배),207000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1018724/000119312510164083/,,1
+Amazon,AMZN,2010Q2,2010-06-30,분기별 영업활동현금흐름,250000000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/1018724/000119312510164083/ ; https://www.sec.gov/Archives/edgar/data/1018724/000119312510090367/,누적 -848000000 − 직전누적 -1098000000 (시작 2010-01-01),1
+Amazon,AMZN,2010Q2,2010-06-30,분기말 자산총계,12397000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1018724/000119312510164083/,,1
+Amazon,AMZN,2010Q2,2010-06-30,분기말 부채총계,6540000000,USD,계산(부채및자본-총자본),https://www.sec.gov/Archives/edgar/data/1018724/000119312510164083/,부채및자본 12397000000 − 총자본 5857000000,1
+Amazon,AMZN,2010Q2,2010-06-30,분기말 총자본(자기자본),5857000000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/1018724/000119312510164083/,"StockholdersEquity, MinorityInterest 태그 없음",1
+Amazon,AMZN,2010Q2,2010-06-30,분기말 지배지분 자본,5857000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1018724/000119312510164083/,,1
+Amazon,AMZN,2010Q2,2010-06-30,분기말 종가,109.26,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/AMZN?interval=1d&events=splits (2010-06-30),분할조정 종가 5.463 × 이후 분할계수 20,1
+Amazon,AMZN,2010Q2,2010-07-15,분기말 상장주식수,447825009,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/1018724/000119312510164083/,dei:EntityCommonStockSharesOutstanding 클래스 합,1
+Amazon,AMZN,2010Q2,2010-06-30,분기말 시가총액,48929360483,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/AMZN?interval=1d&events=splits (2010-06-30) ; https://www.sec.gov/Archives/edgar/data/1018724/000119312510164083/,종가 109.26 × 주식수 447825009,1
+Amazon,AMZN,2010Q3,2010-09-30,분기별 매출액,7560000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1018724/000119312510233883/,,1
+Amazon,AMZN,2010Q3,2010-09-30,분기별 영업이익,268000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1018724/000119312510233883/,,1
+Amazon,AMZN,2010Q3,2010-09-30,분기별 당기순이익(지배),231000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1018724/000119312510233883/,,1
+Amazon,AMZN,2010Q3,2010-09-30,분기별 영업활동현금흐름,855000000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/1018724/000119312510233883/ ; https://www.sec.gov/Archives/edgar/data/1018724/000119312510164083/,누적 7000000 − 직전누적 -848000000 (시작 2010-01-01),1
+Amazon,AMZN,2010Q3,2010-09-30,분기말 자산총계,14162000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1018724/000119312510233883/,,1
+Amazon,AMZN,2010Q3,2010-09-30,분기말 부채총계,7765000000,USD,계산(부채및자본-총자본),https://www.sec.gov/Archives/edgar/data/1018724/000119312510233883/,부채및자본 14162000000 − 총자본 6397000000,1
+Amazon,AMZN,2010Q3,2010-09-30,분기말 총자본(자기자본),6397000000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/1018724/000119312510233883/,"StockholdersEquity, MinorityInterest 태그 없음",1
+Amazon,AMZN,2010Q3,2010-09-30,분기말 지배지분 자본,6397000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1018724/000119312510233883/,,1
+Amazon,AMZN,2010Q3,2010-09-30,분기말 종가,157.06,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/AMZN?interval=1d&events=splits (2010-09-30),분할조정 종가 7.853 × 이후 분할계수 20,1
+Amazon,AMZN,2010Q3,2010-10-14,분기말 상장주식수,448836757,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/1018724/000119312510233883/,dei:EntityCommonStockSharesOutstanding 클래스 합,1
+Amazon,AMZN,2010Q3,2010-09-30,분기말 시가총액,70494301054,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/AMZN?interval=1d&events=splits (2010-09-30) ; https://www.sec.gov/Archives/edgar/data/1018724/000119312510233883/,종가 157.06 × 주식수 448836757,1
+Amazon,AMZN,2010Q4,2010-12-31,분기별 매출액,12947000000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/1018724/000119312511016253/ ; https://www.sec.gov/Archives/edgar/data/1018724/000119312510233883/,연간 34204000000 − 9개월누적 21257000000 (SalesRevenueNet),1
+Amazon,AMZN,2010Q4,2010-12-31,분기별 영업이익,474000000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/1018724/000119312511016253/ ; https://www.sec.gov/Archives/edgar/data/1018724/000119312510233883/,연간 1406000000 − 9개월누적 932000000 (OperatingIncomeLoss),1
+Amazon,AMZN,2010Q4,2010-12-31,분기별 당기순이익(지배),416000000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/1018724/000119312511016253/ ; https://www.sec.gov/Archives/edgar/data/1018724/000119312510233883/,연간 1152000000 − 9개월누적 736000000 (NetIncomeLoss),1
+Amazon,AMZN,2010Q4,2010-12-31,분기별 영업활동현금흐름,3488000000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/1018724/000119312511016253/ ; https://www.sec.gov/Archives/edgar/data/1018724/000119312510233883/,누적 3495000000 − 직전누적 7000000 (시작 2010-01-01),1
+Amazon,AMZN,2010Q4,2010-12-31,분기말 자산총계,18797000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1018724/000119312511016253/,,1
+Amazon,AMZN,2010Q4,2010-12-31,분기말 부채총계,11933000000,USD,계산(부채및자본-총자본),https://www.sec.gov/Archives/edgar/data/1018724/000119312511016253/,부채및자본 18797000000 − 총자본 6864000000,1
+Amazon,AMZN,2010Q4,2010-12-31,분기말 총자본(자기자본),6864000000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/1018724/000119312511016253/,"StockholdersEquity, MinorityInterest 태그 없음",1
+Amazon,AMZN,2010Q4,2010-12-31,분기말 지배지분 자본,6864000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1018724/000119312511016253/,,1
+Amazon,AMZN,2010Q4,2010-12-31,분기말 종가,180.0,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/AMZN?interval=1d&events=splits (2010-12-31),분할조정 종가 9.0 × 이후 분할계수 20,1
+Amazon,AMZN,2010Q4,2011-01-19,분기말 상장주식수,451003759,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/1018724/000119312511016253/,dei:EntityCommonStockSharesOutstanding 클래스 합,1
+Amazon,AMZN,2010Q4,2010-12-31,분기말 시가총액,81180676620,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/AMZN?interval=1d&events=splits (2010-12-31) ; https://www.sec.gov/Archives/edgar/data/1018724/000119312511016253/,종가 180.0 × 주식수 451003759,1
+Amazon,AMZN,2011Q1,2011-03-31,분기별 매출액,13185000000,USD,공시(재작성 반영),https://www.sec.gov/Archives/edgar/data/1018724/000119312513028520/,원 공시 9857000000 (https://www.sec.gov/Archives/edgar/data/1018724/000119312511110197/),1
+Amazon,AMZN,2011Q1,2011-03-31,분기별 영업이익,322000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1018724/000119312511110197/,,1
+Amazon,AMZN,2011Q1,2011-03-31,분기별 당기순이익(지배),130000000,USD,공시(재작성 반영),https://www.sec.gov/Archives/edgar/data/1018724/000119312513028520/,원 공시 201000000 (https://www.sec.gov/Archives/edgar/data/1018724/000119312511110197/),1
+Amazon,AMZN,2011Q1,2011-03-31,분기별 영업활동현금흐름,-1586000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1018724/000119312511110197/,,1
+Amazon,AMZN,2011Q1,2011-03-31,분기말 자산총계,16882000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1018724/000119312511110197/,,1
+Amazon,AMZN,2011Q1,2011-03-31,분기말 부채총계,9535000000,USD,계산(부채및자본-총자본),https://www.sec.gov/Archives/edgar/data/1018724/000119312511110197/,부채및자본 16882000000 − 총자본 7347000000,1
+Amazon,AMZN,2011Q1,2011-03-31,분기말 총자본(자기자본),7347000000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/1018724/000119312511110197/,"StockholdersEquity, MinorityInterest 태그 없음",1
+Amazon,AMZN,2011Q1,2011-03-31,분기말 지배지분 자본,7347000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1018724/000119312511110197/,,1
+Amazon,AMZN,2011Q1,2011-03-31,분기말 종가,180.13,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/AMZN?interval=1d&events=splits (2011-03-31),분할조정 종가 9.0065 × 이후 분할계수 20,1
+Amazon,AMZN,2011Q1,2011-04-19,분기말 상장주식수,452043073,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/1018724/000119312511110197/,dei:EntityCommonStockSharesOutstanding 클래스 합,1
+Amazon,AMZN,2011Q1,2011-03-31,분기말 시가총액,81426518739,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/AMZN?interval=1d&events=splits (2011-03-31) ; https://www.sec.gov/Archives/edgar/data/1018724/000119312511110197/,종가 180.13 × 주식수 452043073,1
+Amazon,AMZN,2011Q2,2011-06-30,분기별 매출액,12834000000,USD,공시(재작성 반영),https://www.sec.gov/Archives/edgar/data/1018724/000119312513028520/,원 공시 9913000000 (https://www.sec.gov/Archives/edgar/data/1018724/000119312511197823/),1
+Amazon,AMZN,2011Q2,2011-06-30,분기별 영업이익,201000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1018724/000119312511197823/,,1
+Amazon,AMZN,2011Q2,2011-06-30,분기별 당기순이익(지배),7000000,USD,공시(재작성 반영),https://www.sec.gov/Archives/edgar/data/1018724/000119312513028520/,원 공시 191000000 (https://www.sec.gov/Archives/edgar/data/1018724/000119312511197823/),1
+Amazon,AMZN,2011Q2,2011-06-30,분기별 영업활동현금흐름,423000000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/1018724/000119312511197823/ ; https://www.sec.gov/Archives/edgar/data/1018724/000119312511110197/,누적 -1163000000 − 직전누적 -1586000000 (시작 2011-01-01),1
+Amazon,AMZN,2011Q2,2011-06-30,분기말 자산총계,17941000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1018724/000119312511197823/,,1
+Amazon,AMZN,2011Q2,2011-06-30,분기말 부채총계,10176000000,USD,계산(부채및자본-총자본),https://www.sec.gov/Archives/edgar/data/1018724/000119312511197823/,부채및자본 17941000000 − 총자본 7765000000,1
+Amazon,AMZN,2011Q2,2011-06-30,분기말 총자본(자기자본),7765000000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/1018724/000119312511197823/,"StockholdersEquity, MinorityInterest 태그 없음",1
+Amazon,AMZN,2011Q2,2011-06-30,분기말 지배지분 자본,7765000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1018724/000119312511197823/,,1
+Amazon,AMZN,2011Q2,2011-06-30,분기말 종가,204.49,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/AMZN?interval=1d&events=splits (2011-06-30),분할조정 종가 10.2245 × 이후 분할계수 20,1
+Amazon,AMZN,2011Q2,2011-07-15,분기말 상장주식수,453935325,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/1018724/000119312511197823/,dei:EntityCommonStockSharesOutstanding 클래스 합,1
+Amazon,AMZN,2011Q2,2011-06-30,분기말 시가총액,92825234609,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/AMZN?interval=1d&events=splits (2011-06-30) ; https://www.sec.gov/Archives/edgar/data/1018724/000119312511197823/,종가 204.49 × 주식수 453935325,1
+Amazon,AMZN,2011Q3,2011-09-30,분기별 매출액,13806000000,USD,공시(재작성 반영),https://www.sec.gov/Archives/edgar/data/1018724/000119312513028520/,원 공시 10876000000 (https://www.sec.gov/Archives/edgar/data/1018724/000119312511280739/),1
+Amazon,AMZN,2011Q3,2011-09-30,분기별 영업이익,79000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1018724/000119312511280739/,,1
+Amazon,AMZN,2011Q3,2011-09-30,분기별 당기순이익(지배),-274000000,USD,공시(재작성 반영),https://www.sec.gov/Archives/edgar/data/1018724/000119312513028520/,원 공시 63000000 (https://www.sec.gov/Archives/edgar/data/1018724/000119312511280739/),1
+Amazon,AMZN,2011Q3,2011-09-30,분기별 영업활동현금흐름,797000000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/1018724/000119312511280739/ ; https://www.sec.gov/Archives/edgar/data/1018724/000119312511197823/,누적 -366000000 − 직전누적 -1163000000 (시작 2011-01-01),1
+Amazon,AMZN,2011Q3,2011-09-30,분기말 자산총계,19054000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1018724/000119312511280739/,,1
+Amazon,AMZN,2011Q3,2011-09-30,분기말 부채총계,11288000000,USD,계산(부채및자본-총자본),https://www.sec.gov/Archives/edgar/data/1018724/000119312511280739/,부채및자본 19054000000 − 총자본 7766000000,1
+Amazon,AMZN,2011Q3,2011-09-30,분기말 총자본(자기자본),7766000000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/1018724/000119312511280739/,"StockholdersEquity, MinorityInterest 태그 없음",1
+Amazon,AMZN,2011Q3,2011-09-30,분기말 지배지분 자본,7766000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1018724/000119312511280739/,,1
+Amazon,AMZN,2011Q3,2011-09-30,분기말 종가,216.23,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/AMZN?interval=1d&events=splits (2011-09-30),분할조정 종가 10.8115 × 이후 분할계수 20,1
+Amazon,AMZN,2011Q3,2011-10-14,분기말 상장주식수,454754345,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/1018724/000119312511280739/,dei:EntityCommonStockSharesOutstanding 클래스 합,1
+Amazon,AMZN,2011Q3,2011-09-30,분기말 시가총액,98331532019,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/AMZN?interval=1d&events=splits (2011-09-30) ; https://www.sec.gov/Archives/edgar/data/1018724/000119312511280739/,종가 216.23 × 주식수 454754345,1
+Amazon,AMZN,2011Q4,2011-12-31,분기별 매출액,17431000000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/1018724/000119312512032846/ ; https://www.sec.gov/Archives/edgar/data/1018724/000119312511280739/,연간 48077000000 − 9개월누적 30646000000 (SalesRevenueNet),1
+Amazon,AMZN,2011Q4,2011-12-31,분기별 영업이익,260000000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/1018724/000119312512032846/ ; https://www.sec.gov/Archives/edgar/data/1018724/000119312511280739/,연간 862000000 − 9개월누적 602000000 (OperatingIncomeLoss),1
+Amazon,AMZN,2011Q4,2011-12-31,분기별 당기순이익(지배),177000000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/1018724/000119312512032846/ ; https://www.sec.gov/Archives/edgar/data/1018724/000119312511280739/,연간 631000000 − 9개월누적 454000000 (NetIncomeLoss),1
+Amazon,AMZN,2011Q4,2011-12-31,분기별 영업활동현금흐름,4269000000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/1018724/000119312512032846/ ; https://www.sec.gov/Archives/edgar/data/1018724/000119312511280739/,누적 3903000000 − 직전누적 -366000000 (시작 2011-01-01),1
+Amazon,AMZN,2011Q4,2011-12-31,분기말 자산총계,25278000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1018724/000119312512032846/,,1
+Amazon,AMZN,2011Q4,2011-12-31,분기말 부채총계,17521000000,USD,계산(부채및자본-총자본),https://www.sec.gov/Archives/edgar/data/1018724/000119312512032846/,부채및자본 25278000000 − 총자본 7757000000,1
+Amazon,AMZN,2011Q4,2011-12-31,분기말 총자본(자기자본),7757000000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/1018724/000119312512032846/,"StockholdersEquity, MinorityInterest 태그 없음",1
+Amazon,AMZN,2011Q4,2011-12-31,분기말 지배지분 자본,7757000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1018724/000119312512032846/,,1
+Amazon,AMZN,2011Q4,2011-12-30,분기말 종가,173.1,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/AMZN?interval=1d&events=splits (2011-12-30),분할조정 종가 8.655 × 이후 분할계수 20,1
+Amazon,AMZN,2011Q4,2012-01-19,분기말 상장주식수,455068465,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/1018724/000119312512032846/,dei:EntityCommonStockSharesOutstanding 클래스 합,1
+Amazon,AMZN,2011Q4,2011-12-30,분기말 시가총액,78772351292,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/AMZN?interval=1d&events=splits (2011-12-30) ; https://www.sec.gov/Archives/edgar/data/1018724/000119312512032846/,종가 173.1 × 주식수 455068465,1
+Amazon,AMZN,2012Q1,2012-03-31,분기별 매출액,13185000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1018724/000119312512187203/,,1
+Amazon,AMZN,2012Q1,2012-03-31,분기별 영업이익,192000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1018724/000119312512187203/,,1
+Amazon,AMZN,2012Q1,2012-03-31,분기별 당기순이익(지배),130000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1018724/000119312512187203/,,1
+Amazon,AMZN,2012Q1,2012-03-31,분기별 영업활동현금흐름,-2438000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1018724/000119312512187203/,,1
+Amazon,AMZN,2012Q1,2012-03-31,분기말 자산총계,20339000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1018724/000119312512187203/,,1
+Amazon,AMZN,2012Q1,2012-03-31,분기말 부채총계,13068000000,USD,계산(부채및자본-총자본),https://www.sec.gov/Archives/edgar/data/1018724/000119312512187203/,부채및자본 20339000000 − 총자본 7271000000,1
+Amazon,AMZN,2012Q1,2012-03-31,분기말 총자본(자기자본),7271000000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/1018724/000119312512187203/,"StockholdersEquity, MinorityInterest 태그 없음",1
+Amazon,AMZN,2012Q1,2012-03-31,분기말 지배지분 자본,7271000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1018724/000119312512187203/,,1
+Amazon,AMZN,2012Q1,2012-03-30,분기말 종가,202.51,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/AMZN?interval=1d&events=splits (2012-03-30),분할조정 종가 10.1255 × 이후 분할계수 20,1
+Amazon,AMZN,2012Q1,2012-04-13,분기말 상장주식수,450525501,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/1018724/000119312512187203/,dei:EntityCommonStockSharesOutstanding 클래스 합,1
+Amazon,AMZN,2012Q1,2012-03-30,분기말 시가총액,91235919208,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/AMZN?interval=1d&events=splits (2012-03-30) ; https://www.sec.gov/Archives/edgar/data/1018724/000119312512187203/,종가 202.51 × 주식수 450525501,1
+Amazon,AMZN,2012Q2,2012-06-30,분기별 매출액,12834000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1018724/000119312512317409/,,1
+Amazon,AMZN,2012Q2,2012-06-30,분기별 영업이익,107000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1018724/000119312512317409/,,1
+Amazon,AMZN,2012Q2,2012-06-30,분기별 당기순이익(지배),7000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1018724/000119312512317409/,,1
+Amazon,AMZN,2012Q2,2012-06-30,분기별 영업활동현금흐름,594000000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/1018724/000119312512317409/ ; https://www.sec.gov/Archives/edgar/data/1018724/000119312512187203/,누적 -1844000000 − 직전누적 -2438000000 (시작 2012-01-01),1
+Amazon,AMZN,2012Q2,2012-06-30,분기말 자산총계,21022000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1018724/000119312512317409/,,1
+Amazon,AMZN,2012Q2,2012-06-30,분기말 부채총계,13517000000,USD,계산(부채및자본-총자본),https://www.sec.gov/Archives/edgar/data/1018724/000119312512317409/,부채및자본 21022000000 − 총자본 7505000000,1
+Amazon,AMZN,2012Q2,2012-06-30,분기말 총자본(자기자본),7505000000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/1018724/000119312512317409/,"StockholdersEquity, MinorityInterest 태그 없음",1
+Amazon,AMZN,2012Q2,2012-06-30,분기말 지배지분 자본,7505000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1018724/000119312512317409/,,1
+Amazon,AMZN,2012Q2,2012-06-29,분기말 종가,228.35,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/AMZN?interval=1d&events=splits (2012-06-29),분할조정 종가 11.4175 × 이후 분할계수 20,1
+Amazon,AMZN,2012Q2,2012-07-13,분기말 상장주식수,452065256,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/1018724/000119312512317409/,dei:EntityCommonStockSharesOutstanding 클래스 합,1
+Amazon,AMZN,2012Q2,2012-06-29,분기말 시가총액,103229101208,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/AMZN?interval=1d&events=splits (2012-06-29) ; https://www.sec.gov/Archives/edgar/data/1018724/000119312512317409/,종가 228.35 × 주식수 452065256,1
+Amazon,AMZN,2012Q3,2012-09-30,분기별 매출액,13806000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1018724/000119312512436012/,,1
+Amazon,AMZN,2012Q3,2012-09-30,분기별 영업이익,-28000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1018724/000119312512436012/,,1
+Amazon,AMZN,2012Q3,2012-09-30,분기별 당기순이익(지배),-274000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1018724/000119312512436012/,,1
+Amazon,AMZN,2012Q3,2012-09-30,분기별 영업활동현금흐름,943000000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/1018724/000119312512436012/ ; https://www.sec.gov/Archives/edgar/data/1018724/000119312512317409/,누적 -901000000 − 직전누적 -1844000000 (시작 2012-01-01),1
+Amazon,AMZN,2012Q3,2012-09-30,분기말 자산총계,22834000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1018724/000119312512436012/,,1
+Amazon,AMZN,2012Q3,2012-09-30,분기말 부채총계,15281000000,USD,계산(부채및자본-총자본),https://www.sec.gov/Archives/edgar/data/1018724/000119312512436012/,부채및자본 22834000000 − 총자본 7553000000,1
+Amazon,AMZN,2012Q3,2012-09-30,분기말 총자본(자기자본),7553000000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/1018724/000119312512436012/,"StockholdersEquity, MinorityInterest 태그 없음",1
+Amazon,AMZN,2012Q3,2012-09-30,분기말 지배지분 자본,7553000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1018724/000119312512436012/,,1
+Amazon,AMZN,2012Q3,2012-09-28,분기말 종가,254.32,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/AMZN?interval=1d&events=splits (2012-09-28),분할조정 종가 12.716 × 이후 분할계수 20,1
+Amazon,AMZN,2012Q3,2012-10-12,분기말 상장주식수,452958533,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/1018724/000119312512436012/,dei:EntityCommonStockSharesOutstanding 클래스 합,1
+Amazon,AMZN,2012Q3,2012-09-28,분기말 시가총액,115196414113,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/AMZN?interval=1d&events=splits (2012-09-28) ; https://www.sec.gov/Archives/edgar/data/1018724/000119312512436012/,종가 254.32 × 주식수 452958533,1
+Amazon,AMZN,2012Q4,2012-12-31,분기별 매출액,21268000000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/1018724/000119312513028520/ ; https://www.sec.gov/Archives/edgar/data/1018724/000119312512436012/,연간 61093000000 − 9개월누적 39825000000 (SalesRevenueNet),1
+Amazon,AMZN,2012Q4,2012-12-31,분기별 영업이익,405000000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/1018724/000119312513028520/ ; https://www.sec.gov/Archives/edgar/data/1018724/000119312512436012/,연간 676000000 − 9개월누적 271000000 (OperatingIncomeLoss),1
+Amazon,AMZN,2012Q4,2012-12-31,분기별 당기순이익(지배),98000000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/1018724/000119312513028520/ ; https://www.sec.gov/Archives/edgar/data/1018724/000119312512436012/,연간 -39000000 − 9개월누적 -137000000 (NetIncomeLoss),1
+Amazon,AMZN,2012Q4,2012-12-31,분기별 영업활동현금흐름,5081000000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/1018724/000119312513028520/ ; https://www.sec.gov/Archives/edgar/data/1018724/000119312512436012/,누적 4180000000 − 직전누적 -901000000 (시작 2012-01-01),1
+Amazon,AMZN,2012Q4,2012-12-31,분기말 자산총계,32555000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1018724/000119312513028520/,,1
+Amazon,AMZN,2012Q4,2012-12-31,분기말 부채총계,24363000000,USD,계산(부채및자본-총자본),https://www.sec.gov/Archives/edgar/data/1018724/000119312513028520/,부채및자본 32555000000 − 총자본 8192000000,1
+Amazon,AMZN,2012Q4,2012-12-31,분기말 총자본(자기자본),8192000000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/1018724/000119312513028520/,"StockholdersEquity, MinorityInterest 태그 없음",1
+Amazon,AMZN,2012Q4,2012-12-31,분기말 지배지분 자본,8192000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1018724/000119312513028520/,,1
+Amazon,AMZN,2012Q4,2012-12-31,분기말 종가,250.87,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/AMZN?interval=1d&events=splits (2012-12-31),분할조정 종가 12.5435 × 이후 분할계수 20,1
+Amazon,AMZN,2012Q4,2013-01-18,분기말 상장주식수,454551069,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/1018724/000119312513028520/,dei:EntityCommonStockSharesOutstanding 클래스 합,1
+Amazon,AMZN,2012Q4,2012-12-31,분기말 시가총액,114033226680,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/AMZN?interval=1d&events=splits (2012-12-31) ; https://www.sec.gov/Archives/edgar/data/1018724/000119312513028520/,종가 250.87 × 주식수 454551069,1
+Amazon,AMZN,2013Q1,2013-03-31,분기별 매출액,16070000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1018724/000119312513174667/,,1
+Amazon,AMZN,2013Q1,2013-03-31,분기별 영업이익,181000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1018724/000119312513174667/,,1
+Amazon,AMZN,2013Q1,2013-03-31,분기별 당기순이익(지배),82000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1018724/000119312513174667/,,1
+Amazon,AMZN,2013Q1,2013-03-31,분기별 영업활동현금흐름,-2372000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1018724/000119312513174667/,,1
+Amazon,AMZN,2013Q1,2013-03-31,분기말 자산총계,28377000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1018724/000119312513174667/,,1
+Amazon,AMZN,2013Q1,2013-03-31,분기말 부채총계,19945000000,USD,계산(부채및자본-총자본),https://www.sec.gov/Archives/edgar/data/1018724/000119312513174667/,부채및자본 28377000000 − 총자본 8432000000,1
+Amazon,AMZN,2013Q1,2013-03-31,분기말 총자본(자기자본),8432000000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/1018724/000119312513174667/,"StockholdersEquity, MinorityInterest 태그 없음",1
+Amazon,AMZN,2013Q1,2013-03-31,분기말 지배지분 자본,8432000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1018724/000119312513174667/,,1
+Amazon,AMZN,2013Q1,2013-03-28,분기말 종가,266.49,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/AMZN?interval=1d&events=splits (2013-03-28),분할조정 종가 13.3245 × 이후 분할계수 20,1
+Amazon,AMZN,2013Q1,2013-04-12,분기말 상장주식수,455242694,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/1018724/000119312513174667/,dei:EntityCommonStockSharesOutstanding 클래스 합,1
+Amazon,AMZN,2013Q1,2013-03-28,분기말 시가총액,121317625524,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/AMZN?interval=1d&events=splits (2013-03-28) ; https://www.sec.gov/Archives/edgar/data/1018724/000119312513174667/,종가 266.49 × 주식수 455242694,1
+Amazon,AMZN,2013Q2,2013-06-30,분기별 매출액,15704000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1018724/000119312513303204/,,1
+Amazon,AMZN,2013Q2,2013-06-30,분기별 영업이익,79000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1018724/000119312513303204/,,1
+Amazon,AMZN,2013Q2,2013-06-30,분기별 당기순이익(지배),-7000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1018724/000119312513303204/,,1
+Amazon,AMZN,2013Q2,2013-06-30,분기별 영업활동현금흐름,880000000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/1018724/000119312513303204/ ; https://www.sec.gov/Archives/edgar/data/1018724/000119312513174667/,누적 -1492000000 − 직전누적 -2372000000 (시작 2013-01-01),1
+Amazon,AMZN,2013Q2,2013-06-30,분기말 자산총계,29623000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1018724/000119312513303204/,,1
+Amazon,AMZN,2013Q2,2013-06-30,분기말 부채총계,20890000000,USD,계산(부채및자본-총자본),https://www.sec.gov/Archives/edgar/data/1018724/000119312513303204/,부채및자본 29623000000 − 총자본 8733000000,1
+Amazon,AMZN,2013Q2,2013-06-30,분기말 총자본(자기자본),8733000000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/1018724/000119312513303204/,"StockholdersEquity, MinorityInterest 태그 없음",1
+Amazon,AMZN,2013Q2,2013-06-30,분기말 지배지분 자본,8733000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1018724/000119312513303204/,,1
+Amazon,AMZN,2013Q2,2013-06-28,분기말 종가,277.69,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/AMZN?interval=1d&events=splits (2013-06-28),분할조정 종가 13.8845 × 이후 분할계수 20,1
+Amazon,AMZN,2013Q2,2013-07-12,분기말 상장주식수,456883519,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/1018724/000119312513303204/,dei:EntityCommonStockSharesOutstanding 클래스 합,1
+Amazon,AMZN,2013Q2,2013-06-28,분기말 시가총액,126871984391,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/AMZN?interval=1d&events=splits (2013-06-28) ; https://www.sec.gov/Archives/edgar/data/1018724/000119312513303204/,종가 277.69 × 주식수 456883519,1
+Amazon,AMZN,2013Q3,2013-09-30,분기별 매출액,17092000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1018724/000144530513002495/,,1
+Amazon,AMZN,2013Q3,2013-09-30,분기별 영업이익,-25000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1018724/000144530513002495/,,1
+Amazon,AMZN,2013Q3,2013-09-30,분기별 당기순이익(지배),-41000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1018724/000144530513002495/,,1
+Amazon,AMZN,2013Q3,2013-09-30,분기별 영업활동현금흐름,1389000000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/1018724/000144530513002495/ ; https://www.sec.gov/Archives/edgar/data/1018724/000119312513303204/,누적 -103000000 − 직전누적 -1492000000 (시작 2013-01-01),1
+Amazon,AMZN,2013Q3,2013-09-30,분기말 자산총계,31861000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1018724/000144530513002495/,,1
+Amazon,AMZN,2013Q3,2013-09-30,분기말 부채총계,22774000000,USD,계산(부채및자본-총자본),https://www.sec.gov/Archives/edgar/data/1018724/000144530513002495/,부채및자본 31861000000 − 총자본 9087000000,1
+Amazon,AMZN,2013Q3,2013-09-30,분기말 총자본(자기자본),9087000000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/1018724/000144530513002495/,"StockholdersEquity, MinorityInterest 태그 없음",1
+Amazon,AMZN,2013Q3,2013-09-30,분기말 지배지분 자본,9087000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1018724/000144530513002495/,,1
+Amazon,AMZN,2013Q3,2013-09-30,분기말 종가,312.64,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/AMZN?interval=1d&events=splits (2013-09-30),분할조정 종가 15.632 × 이후 분할계수 20,1
+Amazon,AMZN,2013Q3,2013-10-11,분기말 상장주식수,457733620,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/1018724/000144530513002495/,dei:EntityCommonStockSharesOutstanding 클래스 합,1
+Amazon,AMZN,2013Q3,2013-09-30,분기말 시가총액,143105838957,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/AMZN?interval=1d&events=splits (2013-09-30) ; https://www.sec.gov/Archives/edgar/data/1018724/000144530513002495/,종가 312.64 × 주식수 457733620,1
+Amazon,AMZN,2013Q4,2013-12-31,분기별 매출액,25587000000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/1018724/000101872414000006/ ; https://www.sec.gov/Archives/edgar/data/1018724/000144530513002495/,연간 74452000000 − 9개월누적 48865000000 (SalesRevenueNet),1
+Amazon,AMZN,2013Q4,2013-12-31,분기별 영업이익,510000000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/1018724/000101872414000006/ ; https://www.sec.gov/Archives/edgar/data/1018724/000144530513002495/,연간 745000000 − 9개월누적 235000000 (OperatingIncomeLoss),1
+Amazon,AMZN,2013Q4,2013-12-31,분기별 당기순이익(지배),240000000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/1018724/000101872414000006/ ; https://www.sec.gov/Archives/edgar/data/1018724/000144530513002495/,연간 274000000 − 9개월누적 34000000 (NetIncomeLoss),1
+Amazon,AMZN,2013Q4,2013-12-31,분기별 영업활동현금흐름,5578000000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/1018724/000101872414000006/ ; https://www.sec.gov/Archives/edgar/data/1018724/000144530513002495/,누적 5475000000 − 직전누적 -103000000 (시작 2013-01-01),1
+Amazon,AMZN,2013Q4,2013-12-31,분기말 자산총계,40159000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1018724/000101872414000006/,,1
+Amazon,AMZN,2013Q4,2013-12-31,분기말 부채총계,30413000000,USD,계산(부채및자본-총자본),https://www.sec.gov/Archives/edgar/data/1018724/000101872414000006/,부채및자본 40159000000 − 총자본 9746000000,1
+Amazon,AMZN,2013Q4,2013-12-31,분기말 총자본(자기자본),9746000000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/1018724/000101872414000006/,"StockholdersEquity, MinorityInterest 태그 없음",1
+Amazon,AMZN,2013Q4,2013-12-31,분기말 지배지분 자본,9746000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1018724/000101872414000006/,,1
+Amazon,AMZN,2013Q4,2013-12-31,분기말 종가,398.79,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/AMZN?interval=1d&events=splits (2013-12-31),분할조정 종가 19.9395 × 이후 분할계수 20,1
+Amazon,AMZN,2013Q4,2014-01-17,분기말 상장주식수,459264535,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/1018724/000101872414000006/,dei:EntityCommonStockSharesOutstanding 클래스 합,1
+Amazon,AMZN,2013Q4,2013-12-31,분기말 시가총액,183150103913,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/AMZN?interval=1d&events=splits (2013-12-31) ; https://www.sec.gov/Archives/edgar/data/1018724/000101872414000006/,종가 398.79 × 주식수 459264535,1
+Amazon,AMZN,2014Q1,2014-03-31,분기별 매출액,19741000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1018724/000101872414000014/,,1
+Amazon,AMZN,2014Q1,2014-03-31,분기별 영업이익,146000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1018724/000101872414000014/,,1
+Amazon,AMZN,2014Q1,2014-03-31,분기별 당기순이익(지배),108000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1018724/000101872414000014/,,1
+Amazon,AMZN,2014Q1,2014-03-31,분기별 영업활동현금흐름,-2502000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1018724/000101872414000014/,,1
+Amazon,AMZN,2014Q1,2014-03-31,분기말 자산총계,36364000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1018724/000101872414000014/,,1
+Amazon,AMZN,2014Q1,2014-03-31,분기말 부채총계,26036000000,USD,계산(부채및자본-총자본),https://www.sec.gov/Archives/edgar/data/1018724/000101872414000014/,부채및자본 36364000000 − 총자본 10328000000,1
+Amazon,AMZN,2014Q1,2014-03-31,분기말 총자본(자기자본),10328000000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/1018724/000101872414000014/,"StockholdersEquity, MinorityInterest 태그 없음",1
+Amazon,AMZN,2014Q1,2014-03-31,분기말 지배지분 자본,10328000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1018724/000101872414000014/,,1
+Amazon,AMZN,2014Q1,2014-03-31,분기말 종가,336.37,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/AMZN?interval=1d&events=splits (2014-03-31),분할조정 종가 16.8185 × 이후 분할계수 20,1
+Amazon,AMZN,2014Q1,2014-04-16,분기말 상장주식수,460167404,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/1018724/000101872414000014/,dei:EntityCommonStockSharesOutstanding 클래스 합,1
+Amazon,AMZN,2014Q1,2014-03-31,분기말 시가총액,154786509683,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/AMZN?interval=1d&events=splits (2014-03-31) ; https://www.sec.gov/Archives/edgar/data/1018724/000101872414000014/,종가 336.37 × 주식수 460167404,1
+Amazon,AMZN,2014Q2,2014-06-30,분기별 매출액,19340000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1018724/000101872414000025/,,1
+Amazon,AMZN,2014Q2,2014-06-30,분기별 영업이익,-15000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1018724/000101872414000025/,,1
+Amazon,AMZN,2014Q2,2014-06-30,분기별 당기순이익(지배),-126000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1018724/000101872414000025/,,1
+Amazon,AMZN,2014Q2,2014-06-30,분기별 영업활동현금흐름,862000000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/1018724/000101872414000025/ ; https://www.sec.gov/Archives/edgar/data/1018724/000101872414000014/,누적 -1640000000 − 직전누적 -2502000000 (시작 2014-01-01),1
+Amazon,AMZN,2014Q2,2014-06-30,분기말 자산총계,37898000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1018724/000101872414000025/,,1
+Amazon,AMZN,2014Q2,2014-06-30,분기말 부채총계,27296000000,USD,계산(부채및자본-총자본),https://www.sec.gov/Archives/edgar/data/1018724/000101872414000025/,부채및자본 37898000000 − 총자본 10602000000,1
+Amazon,AMZN,2014Q2,2014-06-30,분기말 총자본(자기자본),10602000000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/1018724/000101872414000025/,"StockholdersEquity, MinorityInterest 태그 없음",1
+Amazon,AMZN,2014Q2,2014-06-30,분기말 지배지분 자본,10602000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1018724/000101872414000025/,,1
+Amazon,AMZN,2014Q2,2014-06-30,분기말 종가,324.78,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/AMZN?interval=1d&events=splits (2014-06-30),분할조정 종가 16.239 × 이후 분할계수 20,1
+Amazon,AMZN,2014Q2,2014-07-16,분기말 상장주식수,462036113,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/1018724/000101872414000025/,dei:EntityCommonStockSharesOutstanding 클래스 합,1
+Amazon,AMZN,2014Q2,2014-06-30,분기말 시가총액,150060088780,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/AMZN?interval=1d&events=splits (2014-06-30) ; https://www.sec.gov/Archives/edgar/data/1018724/000101872414000025/,종가 324.78 × 주식수 462036113,1
+Amazon,AMZN,2014Q3,2014-09-30,분기별 매출액,20579000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1018724/000101872414000055/,,1
+Amazon,AMZN,2014Q3,2014-09-30,분기별 영업이익,-544000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1018724/000101872414000055/,,1
+Amazon,AMZN,2014Q3,2014-09-30,분기별 당기순이익(지배),-437000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1018724/000101872414000055/,,1
+Amazon,AMZN,2014Q3,2014-09-30,분기별 영업활동현금흐름,1767000000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/1018724/000101872414000055/ ; https://www.sec.gov/Archives/edgar/data/1018724/000101872414000025/,누적 127000000 − 직전누적 -1640000000 (시작 2014-01-01),1
+Amazon,AMZN,2014Q3,2014-09-30,분기말 자산총계,40419000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1018724/000101872414000055/,,1
+Amazon,AMZN,2014Q3,2014-09-30,분기말 부채총계,30083000000,USD,계산(부채및자본-총자본),https://www.sec.gov/Archives/edgar/data/1018724/000101872414000055/,부채및자본 40419000000 − 총자본 10336000000,1
+Amazon,AMZN,2014Q3,2014-09-30,분기말 총자본(자기자본),10336000000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/1018724/000101872414000055/,"StockholdersEquity, MinorityInterest 태그 없음",1
+Amazon,AMZN,2014Q3,2014-09-30,분기말 지배지분 자본,10336000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1018724/000101872414000055/,,1
+Amazon,AMZN,2014Q3,2014-09-30,분기말 종가,322.44,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/AMZN?interval=1d&events=splits (2014-09-30),분할조정 종가 16.122 × 이후 분할계수 20,1
+Amazon,AMZN,2014Q3,2014-10-15,분기말 상장주식수,463006452,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/1018724/000101872414000055/,dei:EntityCommonStockSharesOutstanding 클래스 합,1
+Amazon,AMZN,2014Q3,2014-09-30,분기말 시가총액,149291800383,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/AMZN?interval=1d&events=splits (2014-09-30) ; https://www.sec.gov/Archives/edgar/data/1018724/000101872414000055/,종가 322.44 × 주식수 463006452,1
+Amazon,AMZN,2014Q4,2014-12-31,분기별 매출액,29329000000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/1018724/000101872415000006/ ; https://www.sec.gov/Archives/edgar/data/1018724/000101872414000055/,연간 88988000000 − 9개월누적 59659000000 (SalesRevenueNet),1
+Amazon,AMZN,2014Q4,2014-12-31,분기별 영업이익,590000000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/1018724/000101872415000006/ ; https://www.sec.gov/Archives/edgar/data/1018724/000101872414000055/,연간 178000000 − 9개월누적 -412000000 (OperatingIncomeLoss),1
+Amazon,AMZN,2014Q4,2014-12-31,분기별 당기순이익(지배),214000000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/1018724/000101872415000006/ ; https://www.sec.gov/Archives/edgar/data/1018724/000101872414000055/,연간 -241000000 − 9개월누적 -455000000 (NetIncomeLoss),1
+Amazon,AMZN,2014Q4,2014-12-31,분기별 영업활동현금흐름,6715000000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/1018724/000101872415000006/ ; https://www.sec.gov/Archives/edgar/data/1018724/000101872414000055/,누적 6842000000 − 직전누적 127000000 (시작 2014-01-01),1
+Amazon,AMZN,2014Q4,2014-12-31,분기말 자산총계,54505000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1018724/000101872415000006/,,1
+Amazon,AMZN,2014Q4,2014-12-31,분기말 부채총계,43764000000,USD,계산(부채및자본-총자본),https://www.sec.gov/Archives/edgar/data/1018724/000101872415000006/,부채및자본 54505000000 − 총자본 10741000000,1
+Amazon,AMZN,2014Q4,2014-12-31,분기말 총자본(자기자본),10741000000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/1018724/000101872415000006/,"StockholdersEquity, MinorityInterest 태그 없음",1
+Amazon,AMZN,2014Q4,2014-12-31,분기말 지배지분 자본,10741000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1018724/000101872415000006/,,1
+Amazon,AMZN,2014Q4,2014-12-31,분기말 종가,310.35,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/AMZN?interval=1d&events=splits (2014-12-31),분할조정 종가 15.5175 × 이후 분할계수 20,1
+Amazon,AMZN,2014Q4,2015-01-16,분기말 상장주식수,464383939,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/1018724/000101872415000006/,dei:EntityCommonStockSharesOutstanding 클래스 합,1
+Amazon,AMZN,2014Q4,2014-12-31,분기말 시가총액,144121555469,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/AMZN?interval=1d&events=splits (2014-12-31) ; https://www.sec.gov/Archives/edgar/data/1018724/000101872415000006/,종가 310.35 × 주식수 464383939,1
+Amazon,AMZN,2015Q1,2015-03-31,분기별 매출액,22717000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1018724/000101872415000038/,,1
+Amazon,AMZN,2015Q1,2015-03-31,분기별 영업이익,255000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1018724/000101872415000038/,,1
+Amazon,AMZN,2015Q1,2015-03-31,분기별 당기순이익(지배),-57000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1018724/000101872415000038/,,1
+Amazon,AMZN,2015Q1,2015-03-31,분기별 영업활동현금흐름,-1499000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1018724/000101872415000038/,,1
+Amazon,AMZN,2015Q1,2015-03-31,분기말 자산총계,50075000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1018724/000101872415000038/,,1
+Amazon,AMZN,2015Q1,2015-03-31,분기말 부채총계,39202000000,USD,계산(부채및자본-총자본),https://www.sec.gov/Archives/edgar/data/1018724/000101872415000038/,부채및자본 50075000000 − 총자본 10873000000,1
+Amazon,AMZN,2015Q1,2015-03-31,분기말 총자본(자기자본),10873000000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/1018724/000101872415000038/,"StockholdersEquity, MinorityInterest 태그 없음",1
+Amazon,AMZN,2015Q1,2015-03-31,분기말 지배지분 자본,10873000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1018724/000101872415000038/,,1
+Amazon,AMZN,2015Q1,2015-03-31,분기말 종가,372.1,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/AMZN?interval=1d&events=splits (2015-03-31),분할조정 종가 18.605 × 이후 분할계수 20,1
+Amazon,AMZN,2015Q1,2015-04-15,분기말 상장주식수,465680957,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/1018724/000101872415000038/,dei:EntityCommonStockSharesOutstanding 클래스 합,1
+Amazon,AMZN,2015Q1,2015-03-31,분기말 시가총액,173279884100,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/AMZN?interval=1d&events=splits (2015-03-31) ; https://www.sec.gov/Archives/edgar/data/1018724/000101872415000038/,종가 372.1 × 주식수 465680957,1
+Amazon,AMZN,2015Q2,2015-06-30,분기별 매출액,23185000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1018724/000101872415000087/,,1
+Amazon,AMZN,2015Q2,2015-06-30,분기별 영업이익,464000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1018724/000101872415000087/,,1
+Amazon,AMZN,2015Q2,2015-06-30,분기별 당기순이익(지배),92000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1018724/000101872415000087/,,1
+Amazon,AMZN,2015Q2,2015-06-30,분기별 영업활동현금흐름,1997000000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/1018724/000101872415000087/ ; https://www.sec.gov/Archives/edgar/data/1018724/000101872415000038/,누적 498000000 − 직전누적 -1499000000 (시작 2015-01-01),1
+Amazon,AMZN,2015Q2,2015-06-30,분기말 자산총계,52440000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1018724/000101872415000087/,,1
+Amazon,AMZN,2015Q2,2015-06-30,분기말 부채총계,40672000000,USD,계산(부채및자본-총자본),https://www.sec.gov/Archives/edgar/data/1018724/000101872415000087/,부채및자본 52440000000 − 총자본 11768000000,1
+Amazon,AMZN,2015Q2,2015-06-30,분기말 총자본(자기자본),11768000000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/1018724/000101872415000087/,"StockholdersEquity, MinorityInterest 태그 없음",1
+Amazon,AMZN,2015Q2,2015-06-30,분기말 지배지분 자본,11768000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1018724/000101872415000087/,,1
+Amazon,AMZN,2015Q2,2015-06-30,분기말 종가,434.09,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/AMZN?interval=1d&events=splits (2015-06-30),분할조정 종가 21.7045 × 이후 분할계수 20,1
+Amazon,AMZN,2015Q2,2015-07-15,분기말 상장주식수,467710218,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/1018724/000101872415000087/,dei:EntityCommonStockSharesOutstanding 클래스 합,1
+Amazon,AMZN,2015Q2,2015-06-30,분기말 시가총액,203028328532,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/AMZN?interval=1d&events=splits (2015-06-30) ; https://www.sec.gov/Archives/edgar/data/1018724/000101872415000087/,종가 434.09 × 주식수 467710218,1
+Amazon,AMZN,2015Q3,2015-09-30,분기별 매출액,25358000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1018724/000101872415000126/,,1
+Amazon,AMZN,2015Q3,2015-09-30,분기별 영업이익,406000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1018724/000101872415000126/,,1
+Amazon,AMZN,2015Q3,2015-09-30,분기별 당기순이익(지배),79000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1018724/000101872415000126/,,1
+Amazon,AMZN,2015Q3,2015-09-30,분기별 영업활동현금흐름,2610000000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/1018724/000101872415000126/ ; https://www.sec.gov/Archives/edgar/data/1018724/000101872415000087/,누적 3108000000 − 직전누적 498000000 (시작 2015-01-01),1
+Amazon,AMZN,2015Q3,2015-09-30,분기말 자산총계,56230000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1018724/000101872415000126/,,1
+Amazon,AMZN,2015Q3,2015-09-30,분기말 부채총계,43800000000,USD,계산(부채및자본-총자본),https://www.sec.gov/Archives/edgar/data/1018724/000101872415000126/,부채및자본 56230000000 − 총자본 12430000000,1
+Amazon,AMZN,2015Q3,2015-09-30,분기말 총자본(자기자본),12430000000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/1018724/000101872415000126/,"StockholdersEquity, MinorityInterest 태그 없음",1
+Amazon,AMZN,2015Q3,2015-09-30,분기말 지배지분 자본,12430000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1018724/000101872415000126/,,1
+Amazon,AMZN,2015Q3,2015-09-30,분기말 종가,511.89,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/AMZN?interval=1d&events=splits (2015-09-30),분할조정 종가 25.5945 × 이후 분할계수 20,1
+Amazon,AMZN,2015Q3,2015-10-14,분기말 상장주식수,468762005,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/1018724/000101872415000126/,dei:EntityCommonStockSharesOutstanding 클래스 합,1
+Amazon,AMZN,2015Q3,2015-09-30,분기말 시가총액,239954582739,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/AMZN?interval=1d&events=splits (2015-09-30) ; https://www.sec.gov/Archives/edgar/data/1018724/000101872415000126/,종가 511.89 × 주식수 468762005,1
+Amazon,AMZN,2015Q4,2015-12-31,분기별 매출액,35747000000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/1018724/000101872416000172/ ; https://www.sec.gov/Archives/edgar/data/1018724/000101872415000126/,연간 107006000000 − 9개월누적 71259000000 (SalesRevenueNet),1
+Amazon,AMZN,2015Q4,2015-12-31,분기별 영업이익,1109000000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/1018724/000101872416000172/ ; https://www.sec.gov/Archives/edgar/data/1018724/000101872415000126/,연간 2233000000 − 9개월누적 1124000000 (OperatingIncomeLoss),1
+Amazon,AMZN,2015Q4,2015-12-31,분기별 당기순이익(지배),482000000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/1018724/000101872416000172/ ; https://www.sec.gov/Archives/edgar/data/1018724/000101872415000126/,연간 596000000 − 9개월누적 114000000 (NetIncomeLoss),1
+Amazon,AMZN,2015Q4,2015-12-31,분기별 영업활동현금흐름,8931000000,USD,계산(누적차감)(재작성 반영),https://www.sec.gov/Archives/edgar/data/1018724/000101872418000005/ ; https://www.sec.gov/Archives/edgar/data/1018724/000101872415000126/,누적 12039000000 − 직전누적 3108000000 (시작 2015-01-01) ; 원 공시 8812000000 (https://www.sec.gov/Archives/edgar/data/1018724/000101872416000172/ ; https://www.sec.gov/Archives/edgar/data/1018724/000101872415000126/),1
+Amazon,AMZN,2015Q4,2015-12-31,분기말 자산총계,64747000000,USD,공시(재작성 반영),https://www.sec.gov/Archives/edgar/data/1018724/000101872418000005/,원 공시 65444000000 (https://www.sec.gov/Archives/edgar/data/1018724/000101872416000172/),1
+Amazon,AMZN,2015Q4,2015-12-31,분기말 부채총계,51363000000,USD,계산(부채및자본-총자본)(재작성 반영),https://www.sec.gov/Archives/edgar/data/1018724/000101872417000011/,부채및자본 64747000000 − 총자본 13384000000 ; 원 공시 52060000000 (https://www.sec.gov/Archives/edgar/data/1018724/000101872416000172/),1
+Amazon,AMZN,2015Q4,2015-12-31,분기말 총자본(자기자본),13384000000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/1018724/000101872416000172/,"StockholdersEquity, MinorityInterest 태그 없음",1
+Amazon,AMZN,2015Q4,2015-12-31,분기말 지배지분 자본,13384000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1018724/000101872416000172/,,1
+Amazon,AMZN,2015Q4,2015-12-31,분기말 종가,675.89,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/AMZN?interval=1d&events=splits (2015-12-31),분할조정 종가 33.7945 × 이후 분할계수 20,1
+Amazon,AMZN,2015Q4,2016-01-20,분기말 상장주식수,470842035,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/1018724/000101872416000172/,dei:EntityCommonStockSharesOutstanding 클래스 합,1
+Amazon,AMZN,2015Q4,2015-12-31,분기말 시가총액,318237423036,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/AMZN?interval=1d&events=splits (2015-12-31) ; https://www.sec.gov/Archives/edgar/data/1018724/000101872416000172/,종가 675.89 × 주식수 470842035,1
+Amazon,AMZN,2016Q1,2016-03-31,분기별 매출액,29128000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1018724/000101872416000227/,,1
+Amazon,AMZN,2016Q1,2016-03-31,분기별 영업이익,1071000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1018724/000101872416000227/,,1
+Amazon,AMZN,2016Q1,2016-03-31,분기별 당기순이익(지배),513000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1018724/000101872416000227/,,1
+Amazon,AMZN,2016Q1,2016-03-31,분기별 영업활동현금흐름,-1953000000,USD,공시(재작성 반영),https://www.sec.gov/Archives/edgar/data/1018724/000101872417000051/,원 공시 -2160000000 (https://www.sec.gov/Archives/edgar/data/1018724/000101872416000227/),1
+Amazon,AMZN,2016Q1,2016-03-31,분기말 자산총계,61128000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1018724/000101872416000227/,,1
+Amazon,AMZN,2016Q1,2016-03-31,분기말 부채총계,46372000000,USD,계산(부채및자본-총자본),https://www.sec.gov/Archives/edgar/data/1018724/000101872416000227/,부채및자본 61128000000 − 총자본 14756000000,1
+Amazon,AMZN,2016Q1,2016-03-31,분기말 총자본(자기자본),14756000000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/1018724/000101872416000227/,"StockholdersEquity, MinorityInterest 태그 없음",1
+Amazon,AMZN,2016Q1,2016-03-31,분기말 지배지분 자본,14756000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1018724/000101872416000227/,,1
+Amazon,AMZN,2016Q1,2016-03-31,분기말 종가,593.64,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/AMZN?interval=1d&events=splits (2016-03-31),분할조정 종가 29.682 × 이후 분할계수 20,1
+Amazon,AMZN,2016Q1,2016-04-20,분기말 상장주식수,471827960,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/1018724/000101872416000227/,dei:EntityCommonStockSharesOutstanding 클래스 합,1
+Amazon,AMZN,2016Q1,2016-03-31,분기말 시가총액,280095950174,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/AMZN?interval=1d&events=splits (2016-03-31) ; https://www.sec.gov/Archives/edgar/data/1018724/000101872416000227/,종가 593.64 × 주식수 471827960,1
+Amazon,AMZN,2016Q2,2016-06-30,분기별 매출액,30404000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1018724/000101872416000286/,,1
+Amazon,AMZN,2016Q2,2016-06-30,분기별 영업이익,1285000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1018724/000101872416000286/,,1
+Amazon,AMZN,2016Q2,2016-06-30,분기별 당기순이익(지배),857000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1018724/000101872416000286/,,1
+Amazon,AMZN,2016Q2,2016-06-30,분기별 영업활동현금흐름,3578000000,USD,계산(누적차감)(재작성 반영),https://www.sec.gov/Archives/edgar/data/1018724/000101872417000100/ ; https://www.sec.gov/Archives/edgar/data/1018724/000101872417000051/,누적 1625000000 − 직전누적 -1953000000 (시작 2016-01-01) ; 원 공시 3465000000 (https://www.sec.gov/Archives/edgar/data/1018724/000101872416000286/ ; https://www.sec.gov/Archives/edgar/data/1018724/000101872416000227/),1
+Amazon,AMZN,2016Q2,2016-06-30,분기말 자산총계,65076000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1018724/000101872416000286/,,1
+Amazon,AMZN,2016Q2,2016-06-30,분기말 부채총계,48538000000,USD,계산(부채및자본-총자본),https://www.sec.gov/Archives/edgar/data/1018724/000101872416000286/,부채및자본 65076000000 − 총자본 16538000000,1
+Amazon,AMZN,2016Q2,2016-06-30,분기말 총자본(자기자본),16538000000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/1018724/000101872416000286/,"StockholdersEquity, MinorityInterest 태그 없음",1
+Amazon,AMZN,2016Q2,2016-06-30,분기말 지배지분 자본,16538000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1018724/000101872416000286/,,1
+Amazon,AMZN,2016Q2,2016-06-30,분기말 종가,715.62,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/AMZN?interval=1d&events=splits (2016-06-30),분할조정 종가 35.781 × 이후 분할계수 20,1
+Amazon,AMZN,2016Q2,2016-07-20,분기말 상장주식수,474073542,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/1018724/000101872416000286/,dei:EntityCommonStockSharesOutstanding 클래스 합,1
+Amazon,AMZN,2016Q2,2016-06-30,분기말 시가총액,339256508126,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/AMZN?interval=1d&events=splits (2016-06-30) ; https://www.sec.gov/Archives/edgar/data/1018724/000101872416000286/,종가 715.62 × 주식수 474073542,1
+Amazon,AMZN,2016Q3,2016-09-30,분기별 매출액,32714000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1018724/000101872416000324/,,1
+Amazon,AMZN,2016Q3,2016-09-30,분기별 영업이익,575000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1018724/000101872416000324/,,1
+Amazon,AMZN,2016Q3,2016-09-30,분기별 당기순이익(지배),252000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1018724/000101872416000324/,,1
+Amazon,AMZN,2016Q3,2016-09-30,분기별 영업활동현금흐름,4659000000,USD,계산(누적차감)(재작성 반영),https://www.sec.gov/Archives/edgar/data/1018724/000101872417000135/ ; https://www.sec.gov/Archives/edgar/data/1018724/000101872417000100/,누적 6284000000 − 직전누적 1625000000 (시작 2016-01-01) ; 원 공시 4486000000 (https://www.sec.gov/Archives/edgar/data/1018724/000101872416000324/ ; https://www.sec.gov/Archives/edgar/data/1018724/000101872416000286/),1
+Amazon,AMZN,2016Q3,2016-09-30,분기말 자산총계,70897000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1018724/000101872416000324/,,1
+Amazon,AMZN,2016Q3,2016-09-30,분기말 부채총계,53115000000,USD,계산(부채및자본-총자본),https://www.sec.gov/Archives/edgar/data/1018724/000101872416000324/,부채및자본 70897000000 − 총자본 17782000000,1
+Amazon,AMZN,2016Q3,2016-09-30,분기말 총자본(자기자본),17782000000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/1018724/000101872416000324/,"StockholdersEquity, MinorityInterest 태그 없음",1
+Amazon,AMZN,2016Q3,2016-09-30,분기말 지배지분 자본,17782000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1018724/000101872416000324/,,1
+Amazon,AMZN,2016Q3,2016-09-30,분기말 종가,837.31,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/AMZN?interval=1d&events=splits (2016-09-30),분할조정 종가 41.8655 × 이후 분할계수 20,1
+Amazon,AMZN,2016Q3,2016-10-19,분기말 상장주식수,475166527,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/1018724/000101872416000324/,dei:EntityCommonStockSharesOutstanding 클래스 합,1
+Amazon,AMZN,2016Q3,2016-09-30,분기말 시가총액,397861684722,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/AMZN?interval=1d&events=splits (2016-09-30) ; https://www.sec.gov/Archives/edgar/data/1018724/000101872416000324/,종가 837.31 × 주식수 475166527,1
+Amazon,AMZN,2016Q4,2016-12-31,분기별 매출액,43741000000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/1018724/000101872417000011/ ; https://www.sec.gov/Archives/edgar/data/1018724/000101872416000324/,연간 135987000000 − 9개월누적 92246000000 (SalesRevenueNet),1
+Amazon,AMZN,2016Q4,2016-12-31,분기별 영업이익,1255000000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/1018724/000101872417000011/ ; https://www.sec.gov/Archives/edgar/data/1018724/000101872416000324/,연간 4186000000 − 9개월누적 2931000000 (OperatingIncomeLoss),1
+Amazon,AMZN,2016Q4,2016-12-31,분기별 당기순이익(지배),749000000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/1018724/000101872417000011/ ; https://www.sec.gov/Archives/edgar/data/1018724/000101872416000324/,연간 2371000000 − 9개월누적 1622000000 (NetIncomeLoss),1
+Amazon,AMZN,2016Q4,2016-12-31,분기별 영업활동현금흐름,10919000000,USD,계산(누적차감)(재작성 반영),https://www.sec.gov/Archives/edgar/data/1018724/000101872419000004/ ; https://www.sec.gov/Archives/edgar/data/1018724/000101872417000135/,누적 17203000000 − 직전누적 6284000000 (시작 2016-01-01) ; 원 공시 10652000000 (https://www.sec.gov/Archives/edgar/data/1018724/000101872417000011/ ; https://www.sec.gov/Archives/edgar/data/1018724/000101872416000324/),1
+Amazon,AMZN,2016Q4,2016-12-31,분기말 자산총계,83402000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1018724/000101872417000011/,,1
+Amazon,AMZN,2016Q4,2016-12-31,분기말 부채총계,64117000000,USD,계산(부채및자본-총자본),https://www.sec.gov/Archives/edgar/data/1018724/000101872417000011/,부채및자본 83402000000 − 총자본 19285000000,1
+Amazon,AMZN,2016Q4,2016-12-31,분기말 총자본(자기자본),19285000000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/1018724/000101872417000011/,"StockholdersEquity, MinorityInterest 태그 없음",1
+Amazon,AMZN,2016Q4,2016-12-31,분기말 지배지분 자본,19285000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1018724/000101872417000011/,,1
+Amazon,AMZN,2016Q4,2016-12-30,분기말 종가,749.87,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/AMZN?interval=1d&events=splits (2016-12-30),분할조정 종가 37.4935 × 이후 분할계수 20,1
+Amazon,AMZN,2016Q4,2017-01-25,분기말 상장주식수,477170618,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/1018724/000101872417000011/,dei:EntityCommonStockSharesOutstanding 클래스 합,1
+Amazon,AMZN,2016Q4,2016-12-30,분기말 시가총액,357815931320,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/AMZN?interval=1d&events=splits (2016-12-30) ; https://www.sec.gov/Archives/edgar/data/1018724/000101872417000011/,종가 749.87 × 주식수 477170618,1
+Amazon,AMZN,2017Q1,2017-03-31,분기별 매출액,35714000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1018724/000101872417000051/,,1
+Amazon,AMZN,2017Q1,2017-03-31,분기별 영업이익,1005000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1018724/000101872417000051/,,1
+Amazon,AMZN,2017Q1,2017-03-31,분기별 당기순이익(지배),724000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1018724/000101872417000051/,,1
+Amazon,AMZN,2017Q1,2017-03-31,분기별 영업활동현금흐름,-1619000000,USD,공시(재작성 반영),https://www.sec.gov/Archives/edgar/data/1018724/000101872418000072/,원 공시 -1590000000 (https://www.sec.gov/Archives/edgar/data/1018724/000101872417000051/),1
+Amazon,AMZN,2017Q1,2017-03-31,분기말 자산총계,80969000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1018724/000101872417000051/,,1
+Amazon,AMZN,2017Q1,2017-03-31,분기말 부채총계,59295000000,USD,계산(부채및자본-총자본),https://www.sec.gov/Archives/edgar/data/1018724/000101872417000051/,부채및자본 80969000000 − 총자본 21674000000,1
+Amazon,AMZN,2017Q1,2017-03-31,분기말 총자본(자기자본),21674000000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/1018724/000101872417000051/,"StockholdersEquity, MinorityInterest 태그 없음",1
+Amazon,AMZN,2017Q1,2017-03-31,분기말 지배지분 자본,21674000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1018724/000101872417000051/,,1
+Amazon,AMZN,2017Q1,2017-03-31,분기말 종가,886.54,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/AMZN?interval=1d&events=splits (2017-03-31),분할조정 종가 44.327 × 이후 분할계수 20,1
+Amazon,AMZN,2017Q1,2017-04-18,분기말 상장주식수,477975499,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/1018724/000101872417000051/,dei:EntityCommonStockSharesOutstanding 클래스 합,1
+Amazon,AMZN,2017Q1,2017-03-31,분기말 시가총액,423744398883,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/AMZN?interval=1d&events=splits (2017-03-31) ; https://www.sec.gov/Archives/edgar/data/1018724/000101872417000051/,종가 886.54 × 주식수 477975499,1
+Amazon,AMZN,2017Q2,2017-06-30,분기별 매출액,37955000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1018724/000101872417000100/,,1
+Amazon,AMZN,2017Q2,2017-06-30,분기별 영업이익,628000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1018724/000101872417000100/,,1
+Amazon,AMZN,2017Q2,2017-06-30,분기별 당기순이익(지배),197000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1018724/000101872417000100/,,1
+Amazon,AMZN,2017Q2,2017-06-30,분기별 영업활동현금흐름,3858000000,USD,계산(누적차감)(재작성 반영),https://www.sec.gov/Archives/edgar/data/1018724/000101872417000100/ ; https://www.sec.gov/Archives/edgar/data/1018724/000101872418000072/,누적 2239000000 − 직전누적 -1619000000 (시작 2017-01-01) ; 원 공시 3829000000 (https://www.sec.gov/Archives/edgar/data/1018724/000101872417000100/ ; https://www.sec.gov/Archives/edgar/data/1018724/000101872417000051/),1
+Amazon,AMZN,2017Q2,2017-06-30,분기말 자산총계,87781000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1018724/000101872417000100/,,1
+Amazon,AMZN,2017Q2,2017-06-30,분기말 부채총계,64567000000,USD,계산(부채및자본-총자본),https://www.sec.gov/Archives/edgar/data/1018724/000101872417000100/,부채및자본 87781000000 − 총자본 23214000000,1
+Amazon,AMZN,2017Q2,2017-06-30,분기말 총자본(자기자본),23214000000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/1018724/000101872417000100/,"StockholdersEquity, MinorityInterest 태그 없음",1
+Amazon,AMZN,2017Q2,2017-06-30,분기말 지배지분 자본,23214000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1018724/000101872417000100/,,1
+Amazon,AMZN,2017Q2,2017-06-30,분기말 종가,968.0,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/AMZN?interval=1d&events=splits (2017-06-30),분할조정 종가 48.4 × 이후 분할계수 20,1
+Amazon,AMZN,2017Q2,2017-07-18,분기말 상장주식수,480379517,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/1018724/000101872417000100/,dei:EntityCommonStockSharesOutstanding 클래스 합,1
+Amazon,AMZN,2017Q2,2017-06-30,분기말 시가총액,465007372456,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/AMZN?interval=1d&events=splits (2017-06-30) ; https://www.sec.gov/Archives/edgar/data/1018724/000101872417000100/,종가 968.0 × 주식수 480379517,1
+Amazon,AMZN,2017Q3,2017-09-30,분기별 매출액,43744000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1018724/000101872417000135/,,1
+Amazon,AMZN,2017Q3,2017-09-30,분기별 영업이익,347000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1018724/000101872417000135/,,1
+Amazon,AMZN,2017Q3,2017-09-30,분기별 당기순이익(지배),256000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1018724/000101872417000135/,,1
+Amazon,AMZN,2017Q3,2017-09-30,분기별 영업활동현금흐름,3768000000,USD,계산(누적차감)(재작성 반영),https://www.sec.gov/Archives/edgar/data/1018724/000101872418000159/ ; https://www.sec.gov/Archives/edgar/data/1018724/000101872417000100/,누적 6007000000 − 직전누적 2239000000 (시작 2017-01-01) ; 원 공시 3851000000 (https://www.sec.gov/Archives/edgar/data/1018724/000101872417000135/ ; https://www.sec.gov/Archives/edgar/data/1018724/000101872417000100/),1
+Amazon,AMZN,2017Q3,2017-09-30,분기말 자산총계,115267000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1018724/000101872417000135/,,1
+Amazon,AMZN,2017Q3,2017-09-30,분기말 부채총계,90609000000,USD,계산(부채및자본-총자본),https://www.sec.gov/Archives/edgar/data/1018724/000101872417000135/,부채및자본 115267000000 − 총자본 24658000000,1
+Amazon,AMZN,2017Q3,2017-09-30,분기말 총자본(자기자본),24658000000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/1018724/000101872417000135/,"StockholdersEquity, MinorityInterest 태그 없음",1
+Amazon,AMZN,2017Q3,2017-09-30,분기말 지배지분 자본,24658000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1018724/000101872417000135/,,1
+Amazon,AMZN,2017Q3,2017-09-29,분기말 종가,961.35,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/AMZN?interval=1d&events=splits (2017-09-29),분할조정 종가 48.0675 × 이후 분할계수 20,1
+Amazon,AMZN,2017Q3,2017-10-18,분기말 상장주식수,481872175,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/1018724/000101872417000135/,dei:EntityCommonStockSharesOutstanding 클래스 합,1
+Amazon,AMZN,2017Q3,2017-09-29,분기말 시가총액,463247815436,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/AMZN?interval=1d&events=splits (2017-09-29) ; https://www.sec.gov/Archives/edgar/data/1018724/000101872417000135/,종가 961.35 × 주식수 481872175,1
+Amazon,AMZN,2017Q4,2017-12-31,분기별 매출액,60453000000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/1018724/000101872418000005/ ; https://www.sec.gov/Archives/edgar/data/1018724/000101872417000135/,연간 177866000000 − 9개월누적 117413000000 (SalesRevenueNet),1
+Amazon,AMZN,2017Q4,2017-12-31,분기별 영업이익,2127000000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/1018724/000101872418000005/ ; https://www.sec.gov/Archives/edgar/data/1018724/000101872417000135/,연간 4106000000 − 9개월누적 1979000000 (OperatingIncomeLoss),1
+Amazon,AMZN,2017Q4,2017-12-31,분기별 당기순이익(지배),1857000000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/1018724/000101872418000005/ ; https://www.sec.gov/Archives/edgar/data/1018724/000101872417000135/,연간 3033000000 − 9개월누적 1176000000 (NetIncomeLoss),1
+Amazon,AMZN,2017Q4,2017-12-31,분기별 영업활동현금흐름,12358000000,USD,계산(누적차감)(재작성 반영),https://www.sec.gov/Archives/edgar/data/1018724/000101872420000004/ ; https://www.sec.gov/Archives/edgar/data/1018724/000101872418000159/,누적 18365000000 − 직전누적 6007000000 (시작 2017-01-01) ; 원 공시 12344000000 (https://www.sec.gov/Archives/edgar/data/1018724/000101872418000005/ ; https://www.sec.gov/Archives/edgar/data/1018724/000101872417000135/),1
+Amazon,AMZN,2017Q4,2017-12-31,분기말 자산총계,131310000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1018724/000101872418000005/,,1
+Amazon,AMZN,2017Q4,2017-12-31,분기말 부채총계,103601000000,USD,계산(부채및자본-총자본),https://www.sec.gov/Archives/edgar/data/1018724/000101872418000005/,부채및자본 131310000000 − 총자본 27709000000,1
+Amazon,AMZN,2017Q4,2017-12-31,분기말 총자본(자기자본),27709000000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/1018724/000101872418000005/,"StockholdersEquity, MinorityInterest 태그 없음",1
+Amazon,AMZN,2017Q4,2017-12-31,분기말 지배지분 자본,27709000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1018724/000101872418000005/,,1
+Amazon,AMZN,2017Q4,2017-12-29,분기말 종가,1169.47,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/AMZN?interval=1d&events=splits (2017-12-29),분할조정 종가 58.4735 × 이후 분할계수 20,1
+Amazon,AMZN,2017Q4,2018-01-24,분기말 상장주식수,484107183,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/1018724/000101872418000005/,dei:EntityCommonStockSharesOutstanding 클래스 합,1
+Amazon,AMZN,2017Q4,2017-12-29,분기말 시가총액,566148827303,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/AMZN?interval=1d&events=splits (2017-12-29) ; https://www.sec.gov/Archives/edgar/data/1018724/000101872418000005/,종가 1169.47 × 주식수 484107183,1
+Amazon,AMZN,2018Q1,2018-03-31,분기별 매출액,51042000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1018724/000101872418000072/,,1
+Amazon,AMZN,2018Q1,2018-03-31,분기별 영업이익,1927000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1018724/000101872418000072/,,1
+Amazon,AMZN,2018Q1,2018-03-31,분기별 당기순이익(지배),1629000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1018724/000101872418000072/,,1
+Amazon,AMZN,2018Q1,2018-03-31,분기별 영업활동현금흐름,-1791000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1018724/000101872418000072/,,1
+Amazon,AMZN,2018Q1,2018-03-31,분기말 자산총계,126362000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1018724/000101872418000072/,,1
+Amazon,AMZN,2018Q1,2018-03-31,분기말 부채총계,94899000000,USD,계산(부채및자본-총자본),https://www.sec.gov/Archives/edgar/data/1018724/000101872418000072/,부채및자본 126362000000 − 총자본 31463000000,1
+Amazon,AMZN,2018Q1,2018-03-31,분기말 총자본(자기자본),31463000000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/1018724/000101872418000072/,"StockholdersEquity, MinorityInterest 태그 없음",1
+Amazon,AMZN,2018Q1,2018-03-31,분기말 지배지분 자본,31463000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1018724/000101872418000072/,,1
+Amazon,AMZN,2018Q1,2018-03-29,분기말 종가,1447.3399,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/AMZN?interval=1d&events=splits (2018-03-29),분할조정 종가 72.367 × 이후 분할계수 20,1
+Amazon,AMZN,2018Q1,2018-04-18,분기말 상장주식수,485226904,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/1018724/000101872418000072/,dei:EntityCommonStockSharesOutstanding 클래스 합,1
+Amazon,AMZN,2018Q1,2018-03-29,분기말 시가총액,702288258713,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/AMZN?interval=1d&events=splits (2018-03-29) ; https://www.sec.gov/Archives/edgar/data/1018724/000101872418000072/,종가 1447.3399 × 주식수 485226904,1
+Amazon,AMZN,2018Q2,2018-06-30,분기별 매출액,52886000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1018724/000101872418000108/,,1
+Amazon,AMZN,2018Q2,2018-06-30,분기별 영업이익,2983000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1018724/000101872418000108/,,1
+Amazon,AMZN,2018Q2,2018-06-30,분기별 당기순이익(지배),2534000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1018724/000101872418000108/,,1
+Amazon,AMZN,2018Q2,2018-06-30,분기별 영업활동현금흐름,7449000000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/1018724/000101872418000108/ ; https://www.sec.gov/Archives/edgar/data/1018724/000101872418000072/,누적 5658000000 − 직전누적 -1791000000 (시작 2018-01-01),1
+Amazon,AMZN,2018Q2,2018-06-30,분기말 자산총계,134100000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1018724/000101872418000108/,,1
+Amazon,AMZN,2018Q2,2018-06-30,분기말 부채총계,99105000000,USD,계산(부채및자본-총자본),https://www.sec.gov/Archives/edgar/data/1018724/000101872418000108/,부채및자본 134100000000 − 총자본 34995000000,1
+Amazon,AMZN,2018Q2,2018-06-30,분기말 총자본(자기자본),34995000000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/1018724/000101872418000108/,"StockholdersEquity, MinorityInterest 태그 없음",1
+Amazon,AMZN,2018Q2,2018-06-30,분기말 지배지분 자본,34995000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1018724/000101872418000108/,,1
+Amazon,AMZN,2018Q2,2018-06-29,분기말 종가,1699.8,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/AMZN?interval=1d&events=splits (2018-06-29),분할조정 종가 84.99 × 이후 분할계수 20,1
+Amazon,AMZN,2018Q2,2018-07-18,분기말 상장주식수,487741189,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/1018724/000101872418000108/,dei:EntityCommonStockSharesOutstanding 클래스 합,1
+Amazon,AMZN,2018Q2,2018-06-29,분기말 시가총액,829062473062,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/AMZN?interval=1d&events=splits (2018-06-29) ; https://www.sec.gov/Archives/edgar/data/1018724/000101872418000108/,종가 1699.8 × 주식수 487741189,1
+Amazon,AMZN,2018Q3,2018-09-30,분기별 매출액,56576000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1018724/000101872418000159/,,1
+Amazon,AMZN,2018Q3,2018-09-30,분기별 영업이익,3724000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1018724/000101872418000159/,,1
+Amazon,AMZN,2018Q3,2018-09-30,분기별 당기순이익(지배),2883000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1018724/000101872418000159/,,1
+Amazon,AMZN,2018Q3,2018-09-30,분기별 영업활동현금흐름,8588000000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/1018724/000101872418000159/ ; https://www.sec.gov/Archives/edgar/data/1018724/000101872418000108/,누적 14246000000 − 직전누적 5658000000 (시작 2018-01-01),1
+Amazon,AMZN,2018Q3,2018-09-30,분기말 자산총계,143695000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1018724/000101872418000159/,,1
+Amazon,AMZN,2018Q3,2018-09-30,분기말 부채총계,104570000000,USD,계산(부채및자본-총자본),https://www.sec.gov/Archives/edgar/data/1018724/000101872418000159/,부채및자본 143695000000 − 총자본 39125000000,1
+Amazon,AMZN,2018Q3,2018-09-30,분기말 총자본(자기자본),39125000000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/1018724/000101872418000159/,"StockholdersEquity, MinorityInterest 태그 없음",1
+Amazon,AMZN,2018Q3,2018-09-30,분기말 지배지분 자본,39125000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1018724/000101872418000159/,,1
+Amazon,AMZN,2018Q3,2018-09-28,분기말 종가,2003.0,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/AMZN?interval=1d&events=splits (2018-09-28),분할조정 종가 100.15 × 이후 분할계수 20,1
+Amazon,AMZN,2018Q3,2018-10-17,분기말 상장주식수,488968628,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/1018724/000101872418000159/,dei:EntityCommonStockSharesOutstanding 클래스 합,1
+Amazon,AMZN,2018Q3,2018-09-28,분기말 시가총액,979404161884,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/AMZN?interval=1d&events=splits (2018-09-28) ; https://www.sec.gov/Archives/edgar/data/1018724/000101872418000159/,종가 2003.0 × 주식수 488968628,1
+Amazon,AMZN,2018Q4,2018-12-31,분기별 매출액,72383000000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/1018724/000101872419000004/ ; https://www.sec.gov/Archives/edgar/data/1018724/000101872418000159/,연간 232887000000 − 9개월누적 160504000000 (RevenueFromContractWithCustomerExcludingAssessedTax),1
+Amazon,AMZN,2018Q4,2018-12-31,분기별 영업이익,3786000000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/1018724/000101872419000004/ ; https://www.sec.gov/Archives/edgar/data/1018724/000101872418000159/,연간 12421000000 − 9개월누적 8635000000 (OperatingIncomeLoss),1
+Amazon,AMZN,2018Q4,2018-12-31,분기별 당기순이익(지배),3027000000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/1018724/000101872419000004/ ; https://www.sec.gov/Archives/edgar/data/1018724/000101872418000159/,연간 10073000000 − 9개월누적 7046000000 (NetIncomeLoss),1
+Amazon,AMZN,2018Q4,2018-12-31,분기별 영업활동현금흐름,16477000000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/1018724/000101872419000004/ ; https://www.sec.gov/Archives/edgar/data/1018724/000101872418000159/,누적 30723000000 − 직전누적 14246000000 (시작 2018-01-01),1
+Amazon,AMZN,2018Q4,2018-12-31,분기말 자산총계,162648000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1018724/000101872419000004/,,1
+Amazon,AMZN,2018Q4,2018-12-31,분기말 부채총계,119099000000,USD,계산(부채및자본-총자본),https://www.sec.gov/Archives/edgar/data/1018724/000101872419000004/,부채및자본 162648000000 − 총자본 43549000000,1
+Amazon,AMZN,2018Q4,2018-12-31,분기말 총자본(자기자본),43549000000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/1018724/000101872419000004/,"StockholdersEquity, MinorityInterest 태그 없음",1
+Amazon,AMZN,2018Q4,2018-12-31,분기말 지배지분 자본,43549000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1018724/000101872419000004/,,1
+Amazon,AMZN,2018Q4,2018-12-31,분기말 종가,1501.9701,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/AMZN?interval=1d&events=splits (2018-12-31),분할조정 종가 75.0985 × 이후 분할계수 20,1
+Amazon,AMZN,2018Q4,2019-01-23,분기말 상장주식수,491202890,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/1018724/000101872419000004/,dei:EntityCommonStockSharesOutstanding 클래스 합,1
+Amazon,AMZN,2018Q4,2018-12-31,분기말 시가총액,737772053814,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/AMZN?interval=1d&events=splits (2018-12-31) ; https://www.sec.gov/Archives/edgar/data/1018724/000101872419000004/,종가 1501.9701 × 주식수 491202890,1
+Amazon,AMZN,2019Q1,2019-03-31,분기별 매출액,59700000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1018724/000101872419000043/,,1
+Amazon,AMZN,2019Q1,2019-03-31,분기별 영업이익,4420000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1018724/000101872419000043/,,1
+Amazon,AMZN,2019Q1,2019-03-31,분기별 당기순이익(지배),3561000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1018724/000101872419000043/,,1
+Amazon,AMZN,2019Q1,2019-03-31,분기별 영업활동현금흐름,1846000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1018724/000101872419000043/,,1
+Amazon,AMZN,2019Q1,2019-03-31,분기말 자산총계,178102000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1018724/000101872419000043/,,1
+Amazon,AMZN,2019Q1,2019-03-31,분기말 부채총계,129692000000,USD,계산(부채및자본-총자본),https://www.sec.gov/Archives/edgar/data/1018724/000101872419000043/,부채및자본 178102000000 − 총자본 48410000000,1
+Amazon,AMZN,2019Q1,2019-03-31,분기말 총자본(자기자본),48410000000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/1018724/000101872419000043/,"StockholdersEquity, MinorityInterest 태그 없음",1
+Amazon,AMZN,2019Q1,2019-03-31,분기말 지배지분 자본,48410000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1018724/000101872419000043/,,1
+Amazon,AMZN,2019Q1,2019-03-29,분기말 종가,1780.75,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/AMZN?interval=1d&events=splits (2019-03-29),분할조정 종가 89.0375 × 이후 분할계수 20,1
+Amazon,AMZN,2019Q1,2019-04-17,분기말 상장주식수,492331776,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/1018724/000101872419000043/,dei:EntityCommonStockSharesOutstanding 클래스 합,1
+Amazon,AMZN,2019Q1,2019-03-29,분기말 시가총액,876719810112,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/AMZN?interval=1d&events=splits (2019-03-29) ; https://www.sec.gov/Archives/edgar/data/1018724/000101872419000043/,종가 1780.75 × 주식수 492331776,1
+Amazon,AMZN,2019Q2,2019-06-30,분기별 매출액,63404000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1018724/000101872419000071/,,1
+Amazon,AMZN,2019Q2,2019-06-30,분기별 영업이익,3084000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1018724/000101872419000071/,,1
+Amazon,AMZN,2019Q2,2019-06-30,분기별 당기순이익(지배),2625000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1018724/000101872419000071/,,1
+Amazon,AMZN,2019Q2,2019-06-30,분기별 영업활동현금흐름,9117000000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/1018724/000101872419000071/ ; https://www.sec.gov/Archives/edgar/data/1018724/000101872419000043/,누적 10963000000 − 직전누적 1846000000 (시작 2019-01-01),1
+Amazon,AMZN,2019Q2,2019-06-30,분기말 자산총계,191351000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1018724/000101872419000071/,,1
+Amazon,AMZN,2019Q2,2019-06-30,분기말 부채총계,138290000000,USD,계산(부채및자본-총자본),https://www.sec.gov/Archives/edgar/data/1018724/000101872419000071/,부채및자본 191351000000 − 총자본 53061000000,1
+Amazon,AMZN,2019Q2,2019-06-30,분기말 총자본(자기자본),53061000000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/1018724/000101872419000071/,"StockholdersEquity, MinorityInterest 태그 없음",1
+Amazon,AMZN,2019Q2,2019-06-30,분기말 지배지분 자본,53061000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1018724/000101872419000071/,,1
+Amazon,AMZN,2019Q2,2019-06-28,분기말 종가,1893.6301,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/AMZN?interval=1d&events=splits (2019-06-28),분할조정 종가 94.6815 × 이후 분할계수 20,1
+Amazon,AMZN,2019Q2,2019-07-17,분기말 상장주식수,494656015,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/1018724/000101872419000071/,dei:EntityCommonStockSharesOutstanding 클래스 합,1
+Amazon,AMZN,2019Q2,2019-06-28,분기말 시가총액,936695519150,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/AMZN?interval=1d&events=splits (2019-06-28) ; https://www.sec.gov/Archives/edgar/data/1018724/000101872419000071/,종가 1893.6301 × 주식수 494656015,1
+Amazon,AMZN,2019Q3,2019-09-30,분기별 매출액,69981000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1018724/000101872419000089/,,1
+Amazon,AMZN,2019Q3,2019-09-30,분기별 영업이익,3157000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1018724/000101872419000089/,,1
+Amazon,AMZN,2019Q3,2019-09-30,분기별 당기순이익(지배),2134000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1018724/000101872419000089/,,1
+Amazon,AMZN,2019Q3,2019-09-30,분기별 영업활동현금흐름,7892000000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/1018724/000101872419000089/ ; https://www.sec.gov/Archives/edgar/data/1018724/000101872419000071/,누적 18855000000 − 직전누적 10963000000 (시작 2019-01-01),1
+Amazon,AMZN,2019Q3,2019-09-30,분기말 자산총계,199099000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1018724/000101872419000089/,,1
+Amazon,AMZN,2019Q3,2019-09-30,분기말 부채총계,142591000000,USD,계산(부채및자본-총자본),https://www.sec.gov/Archives/edgar/data/1018724/000101872419000089/,부채및자본 199099000000 − 총자본 56508000000,1
+Amazon,AMZN,2019Q3,2019-09-30,분기말 총자본(자기자본),56508000000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/1018724/000101872419000089/,"StockholdersEquity, MinorityInterest 태그 없음",1
+Amazon,AMZN,2019Q3,2019-09-30,분기말 지배지분 자본,56508000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1018724/000101872419000089/,,1
+Amazon,AMZN,2019Q3,2019-09-30,분기말 종가,1735.91,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/AMZN?interval=1d&events=splits (2019-09-30),분할조정 종가 86.7955 × 이후 분할계수 20,1
+Amazon,AMZN,2019Q3,2019-10-16,분기말 상장주식수,495797220,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/1018724/000101872419000089/,dei:EntityCommonStockSharesOutstanding 클래스 합,1
+Amazon,AMZN,2019Q3,2019-09-30,분기말 시가총액,860659352170,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/AMZN?interval=1d&events=splits (2019-09-30) ; https://www.sec.gov/Archives/edgar/data/1018724/000101872419000089/,종가 1735.91 × 주식수 495797220,1
+Amazon,AMZN,2019Q4,2019-12-31,분기별 매출액,87436000000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/1018724/000101872420000004/ ; https://www.sec.gov/Archives/edgar/data/1018724/000101872419000089/,연간 280522000000 − 9개월누적 193086000000 (RevenueFromContractWithCustomerExcludingAssessedTax),1
+Amazon,AMZN,2019Q4,2019-12-31,분기별 영업이익,3879000000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/1018724/000101872420000004/ ; https://www.sec.gov/Archives/edgar/data/1018724/000101872419000089/,연간 14541000000 − 9개월누적 10662000000 (OperatingIncomeLoss),1
+Amazon,AMZN,2019Q4,2019-12-31,분기별 당기순이익(지배),3268000000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/1018724/000101872420000004/ ; https://www.sec.gov/Archives/edgar/data/1018724/000101872419000089/,연간 11588000000 − 9개월누적 8320000000 (NetIncomeLoss),1
+Amazon,AMZN,2019Q4,2019-12-31,분기별 영업활동현금흐름,19659000000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/1018724/000101872420000004/ ; https://www.sec.gov/Archives/edgar/data/1018724/000101872419000089/,누적 38514000000 − 직전누적 18855000000 (시작 2019-01-01),1
+Amazon,AMZN,2019Q4,2019-12-31,분기말 자산총계,225248000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1018724/000101872420000004/,,1
+Amazon,AMZN,2019Q4,2019-12-31,분기말 부채총계,163188000000,USD,계산(부채및자본-총자본),https://www.sec.gov/Archives/edgar/data/1018724/000101872420000004/,부채및자본 225248000000 − 총자본 62060000000,1
+Amazon,AMZN,2019Q4,2019-12-31,분기말 총자본(자기자본),62060000000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/1018724/000101872420000004/,"StockholdersEquity, MinorityInterest 태그 없음",1
+Amazon,AMZN,2019Q4,2019-12-31,분기말 지배지분 자본,62060000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1018724/000101872420000004/,,1
+Amazon,AMZN,2019Q4,2019-12-31,분기말 종가,1847.84,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/AMZN?interval=1d&events=splits (2019-12-31),분할조정 종가 92.392 × 이후 분할계수 20,1
+Amazon,AMZN,2019Q4,2020-01-22,분기말 상장주식수,497810444,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/1018724/000101872420000004/,dei:EntityCommonStockSharesOutstanding 클래스 합,1
+Amazon,AMZN,2019Q4,2019-12-31,분기말 시가총액,919874050841,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/AMZN?interval=1d&events=splits (2019-12-31) ; https://www.sec.gov/Archives/edgar/data/1018724/000101872420000004/,종가 1847.84 × 주식수 497810444,1
+Amazon,AMZN,2020Q1,2020-03-31,분기별 매출액,75452000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1018724/000101872420000010/,,1
+Amazon,AMZN,2020Q1,2020-03-31,분기별 영업이익,3989000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1018724/000101872420000010/,,1
+Amazon,AMZN,2020Q1,2020-03-31,분기별 당기순이익(지배),2535000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1018724/000101872420000010/,,1
+Amazon,AMZN,2020Q1,2020-03-31,분기별 영업활동현금흐름,3064000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1018724/000101872420000010/,,1
+Amazon,AMZN,2020Q1,2020-03-31,분기말 자산총계,221238000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1018724/000101872420000010/,,1
+Amazon,AMZN,2020Q1,2020-03-31,분기말 부채총계,155966000000,USD,계산(부채및자본-총자본),https://www.sec.gov/Archives/edgar/data/1018724/000101872420000010/,부채및자본 221238000000 − 총자본 65272000000,1
+Amazon,AMZN,2020Q1,2020-03-31,분기말 총자본(자기자본),65272000000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/1018724/000101872420000010/,"StockholdersEquity, MinorityInterest 태그 없음",1
+Amazon,AMZN,2020Q1,2020-03-31,분기말 지배지분 자본,65272000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1018724/000101872420000010/,,1
+Amazon,AMZN,2020Q1,2020-03-31,분기말 종가,1949.72,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/AMZN?interval=1d&events=splits (2020-03-31),분할조정 종가 97.486 × 이후 분할계수 20,1
+Amazon,AMZN,2020Q1,2020-04-22,분기말 상장주식수,498776032,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/1018724/000101872420000010/,dei:EntityCommonStockSharesOutstanding 클래스 합,1
+Amazon,AMZN,2020Q1,2020-03-31,분기말 시가총액,972473605111,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/AMZN?interval=1d&events=splits (2020-03-31) ; https://www.sec.gov/Archives/edgar/data/1018724/000101872420000010/,종가 1949.72 × 주식수 498776032,1
+Amazon,AMZN,2020Q2,2020-06-30,분기별 매출액,88912000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1018724/000101872420000021/,,1
+Amazon,AMZN,2020Q2,2020-06-30,분기별 영업이익,5843000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1018724/000101872420000021/,,1
+Amazon,AMZN,2020Q2,2020-06-30,분기별 당기순이익(지배),5243000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1018724/000101872420000021/,,1
+Amazon,AMZN,2020Q2,2020-06-30,분기별 영업활동현금흐름,20605000000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/1018724/000101872420000021/ ; https://www.sec.gov/Archives/edgar/data/1018724/000101872420000010/,누적 23669000000 − 직전누적 3064000000 (시작 2020-01-01),1
+Amazon,AMZN,2020Q2,2020-06-30,분기말 자산총계,258314000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1018724/000101872420000021/,,1
+Amazon,AMZN,2020Q2,2020-06-30,분기말 부채총계,184586000000,USD,계산(부채및자본-총자본),https://www.sec.gov/Archives/edgar/data/1018724/000101872420000021/,부채및자본 258314000000 − 총자본 73728000000,1
+Amazon,AMZN,2020Q2,2020-06-30,분기말 총자본(자기자본),73728000000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/1018724/000101872420000021/,"StockholdersEquity, MinorityInterest 태그 없음",1
+Amazon,AMZN,2020Q2,2020-06-30,분기말 지배지분 자본,73728000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1018724/000101872420000021/,,1
+Amazon,AMZN,2020Q2,2020-06-30,분기말 종가,2758.8199,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/AMZN?interval=1d&events=splits (2020-06-30),분할조정 종가 137.941 × 이후 분할계수 20,1
+Amazon,AMZN,2020Q2,2020-07-22,분기말 상장주식수,500889651,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/1018724/000101872420000021/,dei:EntityCommonStockSharesOutstanding 클래스 합,1
+Amazon,AMZN,2020Q2,2020-06-30,분기말 시가총액,1381864336883,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/AMZN?interval=1d&events=splits (2020-06-30) ; https://www.sec.gov/Archives/edgar/data/1018724/000101872420000021/,종가 2758.8199 × 주식수 500889651,1
+Amazon,AMZN,2020Q3,2020-09-30,분기별 매출액,96145000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1018724/000101872420000030/,,1
+Amazon,AMZN,2020Q3,2020-09-30,분기별 영업이익,6194000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1018724/000101872420000030/,,1
+Amazon,AMZN,2020Q3,2020-09-30,분기별 당기순이익(지배),6331000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1018724/000101872420000030/,,1
+Amazon,AMZN,2020Q3,2020-09-30,분기별 영업활동현금흐름,11964000000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/1018724/000101872420000030/ ; https://www.sec.gov/Archives/edgar/data/1018724/000101872420000021/,누적 35633000000 − 직전누적 23669000000 (시작 2020-01-01),1
+Amazon,AMZN,2020Q3,2020-09-30,분기말 자산총계,282179000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1018724/000101872420000030/,,1
+Amazon,AMZN,2020Q3,2020-09-30,분기말 부채총계,199404000000,USD,계산(부채및자본-총자본),https://www.sec.gov/Archives/edgar/data/1018724/000101872420000030/,부채및자본 282179000000 − 총자본 82775000000,1
+Amazon,AMZN,2020Q3,2020-09-30,분기말 총자본(자기자본),82775000000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/1018724/000101872420000030/,"StockholdersEquity, MinorityInterest 태그 없음",1
+Amazon,AMZN,2020Q3,2020-09-30,분기말 지배지분 자본,82775000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1018724/000101872420000030/,,1
+Amazon,AMZN,2020Q3,2020-09-30,분기말 종가,3148.7299,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/AMZN?interval=1d&events=splits (2020-09-30),분할조정 종가 157.4365 × 이후 분할계수 20,1
+Amazon,AMZN,2020Q3,2020-10-21,분기말 상장주식수,501751183,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/1018724/000101872420000030/,dei:EntityCommonStockSharesOutstanding 클래스 합,1
+Amazon,AMZN,2020Q3,2020-09-30,분기말 시가총액,1579878952272,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/AMZN?interval=1d&events=splits (2020-09-30) ; https://www.sec.gov/Archives/edgar/data/1018724/000101872420000030/,종가 3148.7299 × 주식수 501751183,1
+Amazon,AMZN,2020Q4,2020-12-31,분기별 매출액,125555000000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/1018724/000101872421000004/ ; https://www.sec.gov/Archives/edgar/data/1018724/000101872420000030/,연간 386064000000 − 9개월누적 260509000000 (RevenueFromContractWithCustomerExcludingAssessedTax),1
+Amazon,AMZN,2020Q4,2020-12-31,분기별 영업이익,6873000000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/1018724/000101872421000004/ ; https://www.sec.gov/Archives/edgar/data/1018724/000101872420000030/,연간 22899000000 − 9개월누적 16026000000 (OperatingIncomeLoss),1
+Amazon,AMZN,2020Q4,2020-12-31,분기별 당기순이익(지배),7222000000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/1018724/000101872421000004/ ; https://www.sec.gov/Archives/edgar/data/1018724/000101872420000030/,연간 21331000000 − 9개월누적 14109000000 (NetIncomeLoss),1
+Amazon,AMZN,2020Q4,2020-12-31,분기별 영업활동현금흐름,30431000000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/1018724/000101872421000004/ ; https://www.sec.gov/Archives/edgar/data/1018724/000101872420000030/,누적 66064000000 − 직전누적 35633000000 (시작 2020-01-01),1
+Amazon,AMZN,2020Q4,2020-12-31,분기말 자산총계,321195000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1018724/000101872421000004/,,1
+Amazon,AMZN,2020Q4,2020-12-31,분기말 부채총계,227791000000,USD,계산(부채및자본-총자본),https://www.sec.gov/Archives/edgar/data/1018724/000101872421000004/,부채및자본 321195000000 − 총자본 93404000000,1
+Amazon,AMZN,2020Q4,2020-12-31,분기말 총자본(자기자본),93404000000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/1018724/000101872421000004/,"StockholdersEquity, MinorityInterest 태그 없음",1
+Amazon,AMZN,2020Q4,2020-12-31,분기말 지배지분 자본,93404000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1018724/000101872421000004/,,1
+Amazon,AMZN,2020Q4,2020-12-31,분기말 종가,3256.9299,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/AMZN?interval=1d&events=splits (2020-12-31),분할조정 종가 162.8465 × 이후 분할계수 20,1
+Amazon,AMZN,2020Q4,2021-01-20,분기말 상장주식수,503564743,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/1018724/000101872421000004/,dei:EntityCommonStockSharesOutstanding 클래스 합,1
+Amazon,AMZN,2020Q4,2020-12-31,분기말 시가총액,1640075068063,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/AMZN?interval=1d&events=splits (2020-12-31) ; https://www.sec.gov/Archives/edgar/data/1018724/000101872421000004/,종가 3256.9299 × 주식수 503564743,1
+Amazon,AMZN,2021Q1,2021-03-31,분기별 매출액,108518000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1018724/000101872421000010/,,1
+Amazon,AMZN,2021Q1,2021-03-31,분기별 영업이익,8865000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1018724/000101872421000010/,,1
+Amazon,AMZN,2021Q1,2021-03-31,분기별 당기순이익(지배),8107000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1018724/000101872421000010/,,1
+Amazon,AMZN,2021Q1,2021-03-31,분기별 영업활동현금흐름,4213000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1018724/000101872421000010/,,1
+Amazon,AMZN,2021Q1,2021-03-31,분기말 자산총계,323077000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1018724/000101872421000010/,,1
+Amazon,AMZN,2021Q1,2021-03-31,분기말 부채총계,219757000000,USD,계산(부채및자본-총자본),https://www.sec.gov/Archives/edgar/data/1018724/000101872421000010/,부채및자본 323077000000 − 총자본 103320000000,1
+Amazon,AMZN,2021Q1,2021-03-31,분기말 총자본(자기자본),103320000000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/1018724/000101872421000010/,"StockholdersEquity, MinorityInterest 태그 없음",1
+Amazon,AMZN,2021Q1,2021-03-31,분기말 지배지분 자본,103320000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1018724/000101872421000010/,,1
+Amazon,AMZN,2021Q1,2021-03-31,분기말 종가,3094.0799,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/AMZN?interval=1d&events=splits (2021-03-31),분할조정 종가 154.704 × 이후 분할계수 20,1
+Amazon,AMZN,2021Q1,2021-04-21,분기말 상장주식수,504323736,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/1018724/000101872421000010/,dei:EntityCommonStockSharesOutstanding 클래스 합,1
+Amazon,AMZN,2021Q1,2021-03-31,분기말 시가총액,1560417934651,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/AMZN?interval=1d&events=splits (2021-03-31) ; https://www.sec.gov/Archives/edgar/data/1018724/000101872421000010/,종가 3094.0799 × 주식수 504323736,1
+Amazon,AMZN,2021Q2,2021-06-30,분기별 매출액,113080000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1018724/000101872421000020/,,1
+Amazon,AMZN,2021Q2,2021-06-30,분기별 영업이익,7702000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1018724/000101872421000020/,,1
+Amazon,AMZN,2021Q2,2021-06-30,분기별 당기순이익(지배),7778000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1018724/000101872421000020/,,1
+Amazon,AMZN,2021Q2,2021-06-30,분기별 영업활동현금흐름,12715000000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/1018724/000101872421000020/ ; https://www.sec.gov/Archives/edgar/data/1018724/000101872421000010/,누적 16928000000 − 직전누적 4213000000 (시작 2021-01-01),1
+Amazon,AMZN,2021Q2,2021-06-30,분기말 자산총계,360319000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1018724/000101872421000020/,,1
+Amazon,AMZN,2021Q2,2021-06-30,분기말 부채총계,245516000000,USD,계산(부채및자본-총자본),https://www.sec.gov/Archives/edgar/data/1018724/000101872421000020/,부채및자본 360319000000 − 총자본 114803000000,1
+Amazon,AMZN,2021Q2,2021-06-30,분기말 총자본(자기자본),114803000000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/1018724/000101872421000020/,"StockholdersEquity, MinorityInterest 태그 없음",1
+Amazon,AMZN,2021Q2,2021-06-30,분기말 지배지분 자본,114803000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1018724/000101872421000020/,,1
+Amazon,AMZN,2021Q2,2021-06-30,분기말 종가,3440.1599,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/AMZN?interval=1d&events=splits (2021-06-30),분할조정 종가 172.008 × 이후 분할계수 20,1
+Amazon,AMZN,2021Q2,2021-07-21,분기말 상장주식수,506440520,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/1018724/000101872421000020/,dei:EntityCommonStockSharesOutstanding 클래스 합,1
+Amazon,AMZN,2021Q2,2021-06-30,분기말 시가총액,1742236368639,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/AMZN?interval=1d&events=splits (2021-06-30) ; https://www.sec.gov/Archives/edgar/data/1018724/000101872421000020/,종가 3440.1599 × 주식수 506440520,1
+Amazon,AMZN,2021Q3,2021-09-30,분기별 매출액,110812000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1018724/000101872421000028/,,1
+Amazon,AMZN,2021Q3,2021-09-30,분기별 영업이익,4852000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1018724/000101872421000028/,,1
+Amazon,AMZN,2021Q3,2021-09-30,분기별 당기순이익(지배),3156000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1018724/000101872421000028/,,1
+Amazon,AMZN,2021Q3,2021-09-30,분기별 영업활동현금흐름,7313000000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/1018724/000101872421000028/ ; https://www.sec.gov/Archives/edgar/data/1018724/000101872421000020/,누적 24241000000 − 직전누적 16928000000 (시작 2021-01-01),1
+Amazon,AMZN,2021Q3,2021-09-30,분기말 자산총계,382406000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1018724/000101872421000028/,,1
+Amazon,AMZN,2021Q3,2021-09-30,분기말 부채총계,261842000000,USD,계산(부채및자본-총자본),https://www.sec.gov/Archives/edgar/data/1018724/000101872421000028/,부채및자본 382406000000 − 총자본 120564000000,1
+Amazon,AMZN,2021Q3,2021-09-30,분기말 총자본(자기자본),120564000000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/1018724/000101872421000028/,"StockholdersEquity, MinorityInterest 태그 없음",1
+Amazon,AMZN,2021Q3,2021-09-30,분기말 지배지분 자본,120564000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1018724/000101872421000028/,,1
+Amazon,AMZN,2021Q3,2021-09-30,분기말 종가,3285.04,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/AMZN?interval=1d&events=splits (2021-09-30),분할조정 종가 164.252 × 이후 분할계수 20,1
+Amazon,AMZN,2021Q3,2021-10-20,분기말 상장주식수,507147620,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/1018724/000101872421000028/,dei:EntityCommonStockSharesOutstanding 클래스 합,1
+Amazon,AMZN,2021Q3,2021-09-30,분기말 시가총액,1666000217605,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/AMZN?interval=1d&events=splits (2021-09-30) ; https://www.sec.gov/Archives/edgar/data/1018724/000101872421000028/,종가 3285.04 × 주식수 507147620,1
+Amazon,AMZN,2021Q4,2021-12-31,분기별 매출액,137412000000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/1018724/000101872422000005/ ; https://www.sec.gov/Archives/edgar/data/1018724/000101872421000028/,연간 469822000000 − 9개월누적 332410000000 (RevenueFromContractWithCustomerExcludingAssessedTax),1
+Amazon,AMZN,2021Q4,2021-12-31,분기별 영업이익,3460000000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/1018724/000101872422000005/ ; https://www.sec.gov/Archives/edgar/data/1018724/000101872421000028/,연간 24879000000 − 9개월누적 21419000000 (OperatingIncomeLoss),1
+Amazon,AMZN,2021Q4,2021-12-31,분기별 당기순이익(지배),14323000000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/1018724/000101872422000005/ ; https://www.sec.gov/Archives/edgar/data/1018724/000101872421000028/,연간 33364000000 − 9개월누적 19041000000 (NetIncomeLoss),1
+Amazon,AMZN,2021Q4,2021-12-31,분기별 영업활동현금흐름,22086000000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/1018724/000101872422000005/ ; https://www.sec.gov/Archives/edgar/data/1018724/000101872421000028/,누적 46327000000 − 직전누적 24241000000 (시작 2021-01-01),1
+Amazon,AMZN,2021Q4,2021-12-31,분기말 자산총계,420549000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1018724/000101872422000005/,,1
+Amazon,AMZN,2021Q4,2021-12-31,분기말 부채총계,282304000000,USD,계산(부채및자본-총자본),https://www.sec.gov/Archives/edgar/data/1018724/000101872422000005/,부채및자본 420549000000 − 총자본 138245000000,1
+Amazon,AMZN,2021Q4,2021-12-31,분기말 총자본(자기자본),138245000000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/1018724/000101872422000005/,"StockholdersEquity, MinorityInterest 태그 없음",1
+Amazon,AMZN,2021Q4,2021-12-31,분기말 지배지분 자본,138245000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1018724/000101872422000005/,,1
+Amazon,AMZN,2021Q4,2021-12-31,분기말 종가,3334.3399,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/AMZN?interval=1d&events=splits (2021-12-31),분할조정 종가 166.717 × 이후 분할계수 20,1
+Amazon,AMZN,2021Q4,2022-01-26,분기말 상장주식수,508844410,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/1018724/000101872422000005/,dei:EntityCommonStockSharesOutstanding 클래스 합,1
+Amazon,AMZN,2021Q4,2021-12-31,분기말 시가총액,1696660219155,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/AMZN?interval=1d&events=splits (2021-12-31) ; https://www.sec.gov/Archives/edgar/data/1018724/000101872422000005/,종가 3334.3399 × 주식수 508844410,1
+Amazon,AMZN,2022Q1,2022-03-31,분기별 매출액,116444000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1018724/000101872422000013/,,1
+Amazon,AMZN,2022Q1,2022-03-31,분기별 영업이익,3669000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1018724/000101872422000013/,,1
+Amazon,AMZN,2022Q1,2022-03-31,분기별 당기순이익(지배),-3844000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1018724/000101872422000013/,,1
+Amazon,AMZN,2022Q1,2022-03-31,분기별 영업활동현금흐름,-2790000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1018724/000101872422000013/,,1
+Amazon,AMZN,2022Q1,2022-03-31,분기말 자산총계,410767000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1018724/000101872422000013/,,1
+Amazon,AMZN,2022Q1,2022-03-31,분기말 부채총계,276766000000,USD,계산(부채및자본-총자본),https://www.sec.gov/Archives/edgar/data/1018724/000101872422000013/,부채및자본 410767000000 − 총자본 134001000000,1
+Amazon,AMZN,2022Q1,2022-03-31,분기말 총자본(자기자본),134001000000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/1018724/000101872422000013/,"StockholdersEquity, MinorityInterest 태그 없음",1
+Amazon,AMZN,2022Q1,2022-03-31,분기말 지배지분 자본,134001000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1018724/000101872422000013/,,1
+Amazon,AMZN,2022Q1,2022-03-31,분기말 종가,3259.95,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/AMZN?interval=1d&events=splits (2022-03-31),분할조정 종가 162.9975 × 이후 분할계수 20,1
+Amazon,AMZN,2022Q1,2022-04-20,분기말 상장주식수,508720481,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/1018724/000101872422000013/,dei:EntityCommonStockSharesOutstanding 클래스 합,1
+Amazon,AMZN,2022Q1,2022-03-31,분기말 시가총액,1658403332036,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/AMZN?interval=1d&events=splits (2022-03-31) ; https://www.sec.gov/Archives/edgar/data/1018724/000101872422000013/,종가 3259.95 × 주식수 508720481,1
+Amazon,AMZN,2022Q2,2022-06-30,분기별 매출액,121234000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1018724/000101872422000019/,,1
+Amazon,AMZN,2022Q2,2022-06-30,분기별 영업이익,3317000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1018724/000101872422000019/,,1
+Amazon,AMZN,2022Q2,2022-06-30,분기별 당기순이익(지배),-2028000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1018724/000101872422000019/,,1
+Amazon,AMZN,2022Q2,2022-06-30,분기별 영업활동현금흐름,8965000000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/1018724/000101872422000019/ ; https://www.sec.gov/Archives/edgar/data/1018724/000101872422000013/,누적 6175000000 − 직전누적 -2790000000 (시작 2022-01-01),1
+Amazon,AMZN,2022Q2,2022-06-30,분기말 자산총계,419728000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1018724/000101872422000019/,,1
+Amazon,AMZN,2022Q2,2022-06-30,분기말 부채총계,288326000000,USD,계산(부채및자본-총자본),https://www.sec.gov/Archives/edgar/data/1018724/000101872422000019/,부채및자본 419728000000 − 총자본 131402000000,1
+Amazon,AMZN,2022Q2,2022-06-30,분기말 총자본(자기자본),131402000000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/1018724/000101872422000019/,"StockholdersEquity, MinorityInterest 태그 없음",1
+Amazon,AMZN,2022Q2,2022-06-30,분기말 지배지분 자본,131402000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1018724/000101872422000019/,,1
+Amazon,AMZN,2022Q2,2022-06-30,분기말 종가,106.21,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/AMZN?interval=1d&events=splits (2022-06-30),,1
+Amazon,AMZN,2022Q2,2022-07-20,분기말 상장주식수,10187554818,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/1018724/000101872422000019/,dei:EntityCommonStockSharesOutstanding 클래스 합,1
+Amazon,AMZN,2022Q2,2022-06-30,분기말 시가총액,1082020197220,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/AMZN?interval=1d&events=splits (2022-06-30) ; https://www.sec.gov/Archives/edgar/data/1018724/000101872422000019/,종가 106.21 × 주식수 10187554818,1
+Amazon,AMZN,2022Q3,2022-09-30,분기별 매출액,127101000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1018724/000101872422000023/,,1
+Amazon,AMZN,2022Q3,2022-09-30,분기별 영업이익,2525000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1018724/000101872422000023/,,1
+Amazon,AMZN,2022Q3,2022-09-30,분기별 당기순이익(지배),2872000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1018724/000101872422000023/,,1
+Amazon,AMZN,2022Q3,2022-09-30,분기별 영업활동현금흐름,11404000000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/1018724/000101872422000023/ ; https://www.sec.gov/Archives/edgar/data/1018724/000101872422000019/,누적 17579000000 − 직전누적 6175000000 (시작 2022-01-01),1
+Amazon,AMZN,2022Q3,2022-09-30,분기말 자산총계,428362000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1018724/000101872422000023/,,1
+Amazon,AMZN,2022Q3,2022-09-30,분기말 부채총계,290873000000,USD,계산(부채및자본-총자본),https://www.sec.gov/Archives/edgar/data/1018724/000101872422000023/,부채및자본 428362000000 − 총자본 137489000000,1
+Amazon,AMZN,2022Q3,2022-09-30,분기말 총자본(자기자본),137489000000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/1018724/000101872422000023/,"StockholdersEquity, MinorityInterest 태그 없음",1
+Amazon,AMZN,2022Q3,2022-09-30,분기말 지배지분 자본,137489000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1018724/000101872422000023/,,1
+Amazon,AMZN,2022Q3,2022-09-30,분기말 종가,113.0,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/AMZN?interval=1d&events=splits (2022-09-30),,1
+Amazon,AMZN,2022Q3,2022-10-19,분기말 상장주식수,10201654176,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/1018724/000101872422000023/,dei:EntityCommonStockSharesOutstanding 클래스 합,1
+Amazon,AMZN,2022Q3,2022-09-30,분기말 시가총액,1152786921888,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/AMZN?interval=1d&events=splits (2022-09-30) ; https://www.sec.gov/Archives/edgar/data/1018724/000101872422000023/,종가 113.0 × 주식수 10201654176,1
+Amazon,AMZN,2022Q4,2022-12-31,분기별 매출액,149204000000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/1018724/000101872423000004/ ; https://www.sec.gov/Archives/edgar/data/1018724/000101872422000023/,연간 513983000000 − 9개월누적 364779000000 (RevenueFromContractWithCustomerExcludingAssessedTax),1
+Amazon,AMZN,2022Q4,2022-12-31,분기별 영업이익,2737000000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/1018724/000101872423000004/ ; https://www.sec.gov/Archives/edgar/data/1018724/000101872422000023/,연간 12248000000 − 9개월누적 9511000000 (OperatingIncomeLoss),1
+Amazon,AMZN,2022Q4,2022-12-31,분기별 당기순이익(지배),278000000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/1018724/000101872423000004/ ; https://www.sec.gov/Archives/edgar/data/1018724/000101872422000023/,연간 -2722000000 − 9개월누적 -3000000000 (NetIncomeLoss),1
+Amazon,AMZN,2022Q4,2022-12-31,분기별 영업활동현금흐름,29173000000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/1018724/000101872423000004/ ; https://www.sec.gov/Archives/edgar/data/1018724/000101872422000023/,누적 46752000000 − 직전누적 17579000000 (시작 2022-01-01),1
+Amazon,AMZN,2022Q4,2022-12-31,분기말 자산총계,462675000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1018724/000101872423000004/,,1
+Amazon,AMZN,2022Q4,2022-12-31,분기말 부채총계,316632000000,USD,계산(부채및자본-총자본),https://www.sec.gov/Archives/edgar/data/1018724/000101872423000004/,부채및자본 462675000000 − 총자본 146043000000,1
+Amazon,AMZN,2022Q4,2022-12-31,분기말 총자본(자기자본),146043000000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/1018724/000101872423000004/,"StockholdersEquity, MinorityInterest 태그 없음",1
+Amazon,AMZN,2022Q4,2022-12-31,분기말 지배지분 자본,146043000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1018724/000101872423000004/,,1
+Amazon,AMZN,2022Q4,2022-12-30,분기말 종가,84.0,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/AMZN?interval=1d&events=splits (2022-12-30),,1
+Amazon,AMZN,2022Q4,2023-01-25,분기말 상장주식수,10247259757,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/1018724/000101872423000004/,dei:EntityCommonStockSharesOutstanding 클래스 합,1
+Amazon,AMZN,2022Q4,2022-12-30,분기말 시가총액,860769819588,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/AMZN?interval=1d&events=splits (2022-12-30) ; https://www.sec.gov/Archives/edgar/data/1018724/000101872423000004/,종가 84.0 × 주식수 10247259757,1
+Amazon,AMZN,2023Q1,2023-03-31,분기별 매출액,127358000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1018724/000101872423000008/,,1
+Amazon,AMZN,2023Q1,2023-03-31,분기별 영업이익,4774000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1018724/000101872423000008/,,1
+Amazon,AMZN,2023Q1,2023-03-31,분기별 당기순이익(지배),3172000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1018724/000101872423000008/,,1
+Amazon,AMZN,2023Q1,2023-03-31,분기별 영업활동현금흐름,4788000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1018724/000101872423000008/,,1
+Amazon,AMZN,2023Q1,2023-03-31,분기말 자산총계,464378000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1018724/000101872423000008/,,1
+Amazon,AMZN,2023Q1,2023-03-31,분기말 부채총계,309852000000,USD,계산(부채및자본-총자본),https://www.sec.gov/Archives/edgar/data/1018724/000101872423000008/,부채및자본 464378000000 − 총자본 154526000000,1
+Amazon,AMZN,2023Q1,2023-03-31,분기말 총자본(자기자본),154526000000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/1018724/000101872423000008/,"StockholdersEquity, MinorityInterest 태그 없음",1
+Amazon,AMZN,2023Q1,2023-03-31,분기말 지배지분 자본,154526000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1018724/000101872423000008/,,1
+Amazon,AMZN,2023Q1,2023-03-31,분기말 종가,103.29,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/AMZN?interval=1d&events=splits (2023-03-31),,1
+Amazon,AMZN,2023Q1,2023-04-19,분기말 상장주식수,10260353688,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/1018724/000101872423000008/,dei:EntityCommonStockSharesOutstanding 클래스 합,1
+Amazon,AMZN,2023Q1,2023-03-31,분기말 시가총액,1059791932434,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/AMZN?interval=1d&events=splits (2023-03-31) ; https://www.sec.gov/Archives/edgar/data/1018724/000101872423000008/,종가 103.29 × 주식수 10260353688,1
+Amazon,AMZN,2023Q2,2023-06-30,분기별 매출액,134383000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1018724/000101872423000012/,,1
+Amazon,AMZN,2023Q2,2023-06-30,분기별 영업이익,7681000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1018724/000101872423000012/,,1
+Amazon,AMZN,2023Q2,2023-06-30,분기별 당기순이익(지배),6750000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1018724/000101872423000012/,,1
+Amazon,AMZN,2023Q2,2023-06-30,분기별 영업활동현금흐름,16476000000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/1018724/000101872423000012/ ; https://www.sec.gov/Archives/edgar/data/1018724/000101872423000008/,누적 21264000000 − 직전누적 4788000000 (시작 2023-01-01),1
+Amazon,AMZN,2023Q2,2023-06-30,분기말 자산총계,477607000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1018724/000101872423000012/,,1
+Amazon,AMZN,2023Q2,2023-06-30,분기말 부채총계,309005000000,USD,계산(부채및자본-총자본),https://www.sec.gov/Archives/edgar/data/1018724/000101872423000012/,부채및자본 477607000000 − 총자본 168602000000,1
+Amazon,AMZN,2023Q2,2023-06-30,분기말 총자본(자기자본),168602000000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/1018724/000101872423000012/,"StockholdersEquity, MinorityInterest 태그 없음",1
+Amazon,AMZN,2023Q2,2023-06-30,분기말 지배지분 자본,168602000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1018724/000101872423000012/,,1
+Amazon,AMZN,2023Q2,2023-06-30,분기말 종가,130.36,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/AMZN?interval=1d&events=splits (2023-06-30),,1
+Amazon,AMZN,2023Q2,2023-07-21,분기말 상장주식수,10317750796,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/1018724/000101872423000012/,dei:EntityCommonStockSharesOutstanding 클래스 합,1
+Amazon,AMZN,2023Q2,2023-06-30,분기말 시가총액,1345021993767,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/AMZN?interval=1d&events=splits (2023-06-30) ; https://www.sec.gov/Archives/edgar/data/1018724/000101872423000012/,종가 130.36 × 주식수 10317750796,1
+Amazon,AMZN,2023Q3,2023-09-30,분기별 매출액,143083000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1018724/000101872423000018/,,1
+Amazon,AMZN,2023Q3,2023-09-30,분기별 영업이익,11188000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1018724/000101872423000018/,,1
+Amazon,AMZN,2023Q3,2023-09-30,분기별 당기순이익(지배),9879000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1018724/000101872423000018/,,1
+Amazon,AMZN,2023Q3,2023-09-30,분기별 영업활동현금흐름,21217000000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/1018724/000101872423000018/ ; https://www.sec.gov/Archives/edgar/data/1018724/000101872423000012/,누적 42481000000 − 직전누적 21264000000 (시작 2023-01-01),1
+Amazon,AMZN,2023Q3,2023-09-30,분기말 자산총계,486883000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1018724/000101872423000018/,,1
+Amazon,AMZN,2023Q3,2023-09-30,분기말 부채총계,303910000000,USD,계산(부채및자본-총자본),https://www.sec.gov/Archives/edgar/data/1018724/000101872423000018/,부채및자본 486883000000 − 총자본 182973000000,1
+Amazon,AMZN,2023Q3,2023-09-30,분기말 총자본(자기자본),182973000000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/1018724/000101872423000018/,"StockholdersEquity, MinorityInterest 태그 없음",1
+Amazon,AMZN,2023Q3,2023-09-30,분기말 지배지분 자본,182973000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1018724/000101872423000018/,,1
+Amazon,AMZN,2023Q3,2023-09-29,분기말 종가,127.12,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/AMZN?interval=1d&events=splits (2023-09-29),,1
+Amazon,AMZN,2023Q3,2023-10-18,분기말 상장주식수,10334030586,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/1018724/000101872423000018/,dei:EntityCommonStockSharesOutstanding 클래스 합,1
+Amazon,AMZN,2023Q3,2023-09-29,분기말 시가총액,1313661968092,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/AMZN?interval=1d&events=splits (2023-09-29) ; https://www.sec.gov/Archives/edgar/data/1018724/000101872423000018/,종가 127.12 × 주식수 10334030586,1
+Amazon,AMZN,2023Q4,2023-12-31,분기별 매출액,169961000000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/1018724/000101872424000008/ ; https://www.sec.gov/Archives/edgar/data/1018724/000101872423000018/,연간 574785000000 − 9개월누적 404824000000 (RevenueFromContractWithCustomerExcludingAssessedTax),1
+Amazon,AMZN,2023Q4,2023-12-31,분기별 영업이익,13209000000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/1018724/000101872424000008/ ; https://www.sec.gov/Archives/edgar/data/1018724/000101872423000018/,연간 36852000000 − 9개월누적 23643000000 (OperatingIncomeLoss),1
+Amazon,AMZN,2023Q4,2023-12-31,분기별 당기순이익(지배),10624000000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/1018724/000101872424000008/ ; https://www.sec.gov/Archives/edgar/data/1018724/000101872423000018/,연간 30425000000 − 9개월누적 19801000000 (NetIncomeLoss),1
+Amazon,AMZN,2023Q4,2023-12-31,분기별 영업활동현금흐름,42465000000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/1018724/000101872424000008/ ; https://www.sec.gov/Archives/edgar/data/1018724/000101872423000018/,누적 84946000000 − 직전누적 42481000000 (시작 2023-01-01),1
+Amazon,AMZN,2023Q4,2023-12-31,분기말 자산총계,527854000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1018724/000101872424000008/,,1
+Amazon,AMZN,2023Q4,2023-12-31,분기말 부채총계,325979000000,USD,계산(부채및자본-총자본),https://www.sec.gov/Archives/edgar/data/1018724/000101872424000008/,부채및자본 527854000000 − 총자본 201875000000,1
+Amazon,AMZN,2023Q4,2023-12-31,분기말 총자본(자기자본),201875000000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/1018724/000101872424000008/,"StockholdersEquity, MinorityInterest 태그 없음",1
+Amazon,AMZN,2023Q4,2023-12-31,분기말 지배지분 자본,201875000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1018724/000101872424000008/,,1
+Amazon,AMZN,2023Q4,2023-12-29,분기말 종가,151.94,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/AMZN?interval=1d&events=splits (2023-12-29),,1
+Amazon,AMZN,2023Q4,2024-01-24,분기말 상장주식수,10387381291,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/1018724/000101872424000008/,dei:EntityCommonStockSharesOutstanding 클래스 합,1
+Amazon,AMZN,2023Q4,2023-12-29,분기말 시가총액,1578258713355,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/AMZN?interval=1d&events=splits (2023-12-29) ; https://www.sec.gov/Archives/edgar/data/1018724/000101872424000008/,종가 151.94 × 주식수 10387381291,1
+Amazon,AMZN,2024Q1,2024-03-31,분기별 매출액,143313000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1018724/000101872424000083/,,1
+Amazon,AMZN,2024Q1,2024-03-31,분기별 영업이익,15307000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1018724/000101872424000083/,,1
+Amazon,AMZN,2024Q1,2024-03-31,분기별 당기순이익(지배),10431000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1018724/000101872424000083/,,1
+Amazon,AMZN,2024Q1,2024-03-31,분기별 영업활동현금흐름,18989000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1018724/000101872424000083/,,1
+Amazon,AMZN,2024Q1,2024-03-31,분기말 자산총계,530969000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1018724/000101872424000083/,,1
+Amazon,AMZN,2024Q1,2024-03-31,분기말 부채총계,314308000000,USD,계산(부채및자본-총자본),https://www.sec.gov/Archives/edgar/data/1018724/000101872424000083/,부채및자본 530969000000 − 총자본 216661000000,1
+Amazon,AMZN,2024Q1,2024-03-31,분기말 총자본(자기자본),216661000000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/1018724/000101872424000083/,"StockholdersEquity, MinorityInterest 태그 없음",1
+Amazon,AMZN,2024Q1,2024-03-31,분기말 지배지분 자본,216661000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1018724/000101872424000083/,,1
+Amazon,AMZN,2024Q1,2024-03-28,분기말 종가,180.38,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/AMZN?interval=1d&events=splits (2024-03-28),,1
+Amazon,AMZN,2024Q1,2024-04-24,분기말 상장주식수,10406627415,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/1018724/000101872424000083/,dei:EntityCommonStockSharesOutstanding 클래스 합,1
+Amazon,AMZN,2024Q1,2024-03-28,분기말 시가총액,1877147453118,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/AMZN?interval=1d&events=splits (2024-03-28) ; https://www.sec.gov/Archives/edgar/data/1018724/000101872424000083/,종가 180.38 × 주식수 10406627415,1
+Amazon,AMZN,2024Q2,2024-06-30,분기별 매출액,147977000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1018724/000101872424000130/,,1
+Amazon,AMZN,2024Q2,2024-06-30,분기별 영업이익,14672000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1018724/000101872424000130/,,1
+Amazon,AMZN,2024Q2,2024-06-30,분기별 당기순이익(지배),13485000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1018724/000101872424000130/,,1
+Amazon,AMZN,2024Q2,2024-06-30,분기별 영업활동현금흐름,25281000000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/1018724/000101872424000130/ ; https://www.sec.gov/Archives/edgar/data/1018724/000101872424000083/,누적 44270000000 − 직전누적 18989000000 (시작 2024-01-01),1
+Amazon,AMZN,2024Q2,2024-06-30,분기말 자산총계,554818000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1018724/000101872424000130/,,1
+Amazon,AMZN,2024Q2,2024-06-30,분기말 부채총계,318371000000,USD,계산(부채및자본-총자본),https://www.sec.gov/Archives/edgar/data/1018724/000101872424000130/,부채및자본 554818000000 − 총자본 236447000000,1
+Amazon,AMZN,2024Q2,2024-06-30,분기말 총자본(자기자본),236447000000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/1018724/000101872424000130/,"StockholdersEquity, MinorityInterest 태그 없음",1
+Amazon,AMZN,2024Q2,2024-06-30,분기말 지배지분 자본,236447000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1018724/000101872424000130/,,1
+Amazon,AMZN,2024Q2,2024-06-28,분기말 종가,193.25,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/AMZN?interval=1d&events=splits (2024-06-28),,1
+Amazon,AMZN,2024Q2,2024-07-24,분기말 상장주식수,10495566881,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/1018724/000101872424000130/,dei:EntityCommonStockSharesOutstanding 클래스 합,1
+Amazon,AMZN,2024Q2,2024-06-28,분기말 시가총액,2028268299753,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/AMZN?interval=1d&events=splits (2024-06-28) ; https://www.sec.gov/Archives/edgar/data/1018724/000101872424000130/,종가 193.25 × 주식수 10495566881,1
+Amazon,AMZN,2024Q3,2024-09-30,분기별 매출액,158877000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1018724/000101872424000161/,,1
+Amazon,AMZN,2024Q3,2024-09-30,분기별 영업이익,17411000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1018724/000101872424000161/,,1
+Amazon,AMZN,2024Q3,2024-09-30,분기별 당기순이익(지배),15328000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1018724/000101872424000161/,,1
+Amazon,AMZN,2024Q3,2024-09-30,분기별 영업활동현금흐름,25971000000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/1018724/000101872424000161/ ; https://www.sec.gov/Archives/edgar/data/1018724/000101872424000130/,누적 70241000000 − 직전누적 44270000000 (시작 2024-01-01),1
+Amazon,AMZN,2024Q3,2024-09-30,분기말 자산총계,584626000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1018724/000101872424000161/,,1
+Amazon,AMZN,2024Q3,2024-09-30,분기말 부채총계,325475000000,USD,계산(부채및자본-총자본),https://www.sec.gov/Archives/edgar/data/1018724/000101872424000161/,부채및자본 584626000000 − 총자본 259151000000,1
+Amazon,AMZN,2024Q3,2024-09-30,분기말 총자본(자기자본),259151000000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/1018724/000101872424000161/,"StockholdersEquity, MinorityInterest 태그 없음",1
+Amazon,AMZN,2024Q3,2024-09-30,분기말 지배지분 자본,259151000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1018724/000101872424000161/,,1
+Amazon,AMZN,2024Q3,2024-09-30,분기말 종가,186.33,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/AMZN?interval=1d&events=splits (2024-09-30),,1
+Amazon,AMZN,2024Q3,2024-10-18,분기말 상장주식수,10515011008,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/1018724/000101872424000161/,dei:EntityCommonStockSharesOutstanding 클래스 합,1
+Amazon,AMZN,2024Q3,2024-09-30,분기말 시가총액,1959262001121,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/AMZN?interval=1d&events=splits (2024-09-30) ; https://www.sec.gov/Archives/edgar/data/1018724/000101872424000161/,종가 186.33 × 주식수 10515011008,1
+Amazon,AMZN,2024Q4,2024-12-31,분기별 매출액,187792000000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/1018724/000101872425000004/ ; https://www.sec.gov/Archives/edgar/data/1018724/000101872424000161/,연간 637959000000 − 9개월누적 450167000000 (RevenueFromContractWithCustomerExcludingAssessedTax),1
+Amazon,AMZN,2024Q4,2024-12-31,분기별 영업이익,21203000000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/1018724/000101872425000004/ ; https://www.sec.gov/Archives/edgar/data/1018724/000101872424000161/,연간 68593000000 − 9개월누적 47390000000 (OperatingIncomeLoss),1
+Amazon,AMZN,2024Q4,2024-12-31,분기별 당기순이익(지배),20004000000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/1018724/000101872425000004/ ; https://www.sec.gov/Archives/edgar/data/1018724/000101872424000161/,연간 59248000000 − 9개월누적 39244000000 (NetIncomeLoss),1
+Amazon,AMZN,2024Q4,2024-12-31,분기별 영업활동현금흐름,45636000000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/1018724/000101872425000004/ ; https://www.sec.gov/Archives/edgar/data/1018724/000101872424000161/,누적 115877000000 − 직전누적 70241000000 (시작 2024-01-01),1
+Amazon,AMZN,2024Q4,2024-12-31,분기말 자산총계,624894000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1018724/000101872425000004/,,1
+Amazon,AMZN,2024Q4,2024-12-31,분기말 부채총계,338924000000,USD,계산(부채및자본-총자본),https://www.sec.gov/Archives/edgar/data/1018724/000101872425000004/,부채및자본 624894000000 − 총자본 285970000000,1
+Amazon,AMZN,2024Q4,2024-12-31,분기말 총자본(자기자본),285970000000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/1018724/000101872425000004/,"StockholdersEquity, MinorityInterest 태그 없음",1
+Amazon,AMZN,2024Q4,2024-12-31,분기말 지배지분 자본,285970000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1018724/000101872425000004/,,1
+Amazon,AMZN,2024Q4,2024-12-31,분기말 종가,219.39,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/AMZN?interval=1d&events=splits (2024-12-31),,1
+Amazon,AMZN,2024Q4,2025-01-29,분기말 상장주식수,10597729352,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/1018724/000101872425000004/,dei:EntityCommonStockSharesOutstanding 클래스 합,1
+Amazon,AMZN,2024Q4,2024-12-31,분기말 시가총액,2325035842535,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/AMZN?interval=1d&events=splits (2024-12-31) ; https://www.sec.gov/Archives/edgar/data/1018724/000101872425000004/,종가 219.39 × 주식수 10597729352,1
+Amazon,AMZN,2025Q1,2025-03-31,분기별 매출액,155667000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1018724/000101872425000036/,,1
+Amazon,AMZN,2025Q1,2025-03-31,분기별 영업이익,18405000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1018724/000101872425000036/,,1
+Amazon,AMZN,2025Q1,2025-03-31,분기별 당기순이익(지배),17127000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1018724/000101872425000036/,,1
+Amazon,AMZN,2025Q1,2025-03-31,분기별 영업활동현금흐름,17015000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1018724/000101872425000036/,,1
+Amazon,AMZN,2025Q1,2025-03-31,분기말 자산총계,643256000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1018724/000101872425000036/,,1
+Amazon,AMZN,2025Q1,2025-03-31,분기말 부채총계,337389000000,USD,계산(부채및자본-총자본),https://www.sec.gov/Archives/edgar/data/1018724/000101872425000036/,부채및자본 643256000000 − 총자본 305867000000,1
+Amazon,AMZN,2025Q1,2025-03-31,분기말 총자본(자기자본),305867000000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/1018724/000101872425000036/,"StockholdersEquity, MinorityInterest 태그 없음",1
+Amazon,AMZN,2025Q1,2025-03-31,분기말 지배지분 자본,305867000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1018724/000101872425000036/,,1
+Amazon,AMZN,2025Q1,2025-03-31,분기말 종가,190.26,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/AMZN?interval=1d&events=splits (2025-03-31),,1
+Amazon,AMZN,2025Q1,2025-04-23,분기말 상장주식수,10616352407,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/1018724/000101872425000036/,dei:EntityCommonStockSharesOutstanding 클래스 합,1
+Amazon,AMZN,2025Q1,2025-03-31,분기말 시가총액,2019867208956,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/AMZN?interval=1d&events=splits (2025-03-31) ; https://www.sec.gov/Archives/edgar/data/1018724/000101872425000036/,종가 190.26 × 주식수 10616352407,1
+Amazon,AMZN,2025Q2,2025-06-30,분기별 매출액,167702000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1018724/000101872425000086/,,1
+Amazon,AMZN,2025Q2,2025-06-30,분기별 영업이익,19171000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1018724/000101872425000086/,,1
+Amazon,AMZN,2025Q2,2025-06-30,분기별 당기순이익(지배),18164000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1018724/000101872425000086/,,1
+Amazon,AMZN,2025Q2,2025-06-30,분기별 영업활동현금흐름,32515000000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/1018724/000101872425000086/ ; https://www.sec.gov/Archives/edgar/data/1018724/000101872425000036/,누적 49530000000 − 직전누적 17015000000 (시작 2025-01-01),1
+Amazon,AMZN,2025Q2,2025-06-30,분기말 자산총계,682170000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1018724/000101872425000086/,,1
+Amazon,AMZN,2025Q2,2025-06-30,분기말 부채총계,348395000000,USD,계산(부채및자본-총자본),https://www.sec.gov/Archives/edgar/data/1018724/000101872425000086/,부채및자본 682170000000 − 총자본 333775000000,1
+Amazon,AMZN,2025Q2,2025-06-30,분기말 총자본(자기자본),333775000000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/1018724/000101872425000086/,"StockholdersEquity, MinorityInterest 태그 없음",1
+Amazon,AMZN,2025Q2,2025-06-30,분기말 지배지분 자본,333775000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1018724/000101872425000086/,,1
+Amazon,AMZN,2025Q2,2025-06-30,분기말 종가,219.39,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/AMZN?interval=1d&events=splits (2025-06-30),,1
+Amazon,AMZN,2025Q2,2025-07-23,분기말 상장주식수,10664912097,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/1018724/000101872425000086/,dei:EntityCommonStockSharesOutstanding 클래스 합,1
+Amazon,AMZN,2025Q2,2025-06-30,분기말 시가총액,2339775064961,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/AMZN?interval=1d&events=splits (2025-06-30) ; https://www.sec.gov/Archives/edgar/data/1018724/000101872425000086/,종가 219.39 × 주식수 10664912097,1
+Amazon,AMZN,2025Q3,2025-09-30,분기별 매출액,180169000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1018724/000101872425000123/,,1
+Amazon,AMZN,2025Q3,2025-09-30,분기별 영업이익,17422000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1018724/000101872425000123/,,1
+Amazon,AMZN,2025Q3,2025-09-30,분기별 당기순이익(지배),21187000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1018724/000101872425000123/,,1
+Amazon,AMZN,2025Q3,2025-09-30,분기별 영업활동현금흐름,35525000000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/1018724/000101872425000123/ ; https://www.sec.gov/Archives/edgar/data/1018724/000101872425000086/,누적 85055000000 − 직전누적 49530000000 (시작 2025-01-01),1
+Amazon,AMZN,2025Q3,2025-09-30,분기말 자산총계,727921000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1018724/000101872425000123/,,1
+Amazon,AMZN,2025Q3,2025-09-30,분기말 부채총계,358290000000,USD,계산(부채및자본-총자본),https://www.sec.gov/Archives/edgar/data/1018724/000101872425000123/,부채및자본 727921000000 − 총자본 369631000000,1
+Amazon,AMZN,2025Q3,2025-09-30,분기말 총자본(자기자본),369631000000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/1018724/000101872425000123/,"StockholdersEquity, MinorityInterest 태그 없음",1
+Amazon,AMZN,2025Q3,2025-09-30,분기말 지배지분 자본,369631000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1018724/000101872425000123/,,1
+Amazon,AMZN,2025Q3,2025-09-30,분기말 종가,219.57,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/AMZN?interval=1d&events=splits (2025-09-30),,1
+Amazon,AMZN,2025Q3,2025-10-22,분기말 상장주식수,10690216011,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/1018724/000101872425000123/,dei:EntityCommonStockSharesOutstanding 클래스 합,1
+Amazon,AMZN,2025Q3,2025-09-30,분기말 시가총액,2347250729535,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/AMZN?interval=1d&events=splits (2025-09-30) ; https://www.sec.gov/Archives/edgar/data/1018724/000101872425000123/,종가 219.57 × 주식수 10690216011,1
+Amazon,AMZN,2025Q4,2025-12-31,분기별 매출액,213386000000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/1018724/000101872426000004/ ; https://www.sec.gov/Archives/edgar/data/1018724/000101872425000123/,연간 716924000000 − 9개월누적 503538000000 (RevenueFromContractWithCustomerExcludingAssessedTax),1
+Amazon,AMZN,2025Q4,2025-12-31,분기별 영업이익,24977000000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/1018724/000101872426000004/ ; https://www.sec.gov/Archives/edgar/data/1018724/000101872425000123/,연간 79975000000 − 9개월누적 54998000000 (OperatingIncomeLoss),1
+Amazon,AMZN,2025Q4,2025-12-31,분기별 당기순이익(지배),21192000000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/1018724/000101872426000004/ ; https://www.sec.gov/Archives/edgar/data/1018724/000101872425000123/,연간 77670000000 − 9개월누적 56478000000 (NetIncomeLoss),1
+Amazon,AMZN,2025Q4,2025-12-31,분기별 영업활동현금흐름,54459000000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/1018724/000101872426000004/ ; https://www.sec.gov/Archives/edgar/data/1018724/000101872425000123/,누적 139514000000 − 직전누적 85055000000 (시작 2025-01-01),1
+Amazon,AMZN,2025Q4,2025-12-31,분기말 자산총계,818042000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1018724/000101872426000004/,,1
+Amazon,AMZN,2025Q4,2025-12-31,분기말 부채총계,406977000000,USD,계산(부채및자본-총자본),https://www.sec.gov/Archives/edgar/data/1018724/000101872426000004/,부채및자본 818042000000 − 총자본 411065000000,1
+Amazon,AMZN,2025Q4,2025-12-31,분기말 총자본(자기자본),411065000000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/1018724/000101872426000004/,"StockholdersEquity, MinorityInterest 태그 없음",1
+Amazon,AMZN,2025Q4,2025-12-31,분기말 지배지분 자본,411065000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1018724/000101872426000004/,,1
+Amazon,AMZN,2025Q4,2025-12-31,분기말 종가,230.82,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/AMZN?interval=1d&events=splits (2025-12-31),,1
+Amazon,AMZN,2025Q4,2026-01-28,분기말 상장주식수,10734920870,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/1018724/000101872426000004/,dei:EntityCommonStockSharesOutstanding 클래스 합,1
+Amazon,AMZN,2025Q4,2025-12-31,분기말 시가총액,2477834435213,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/AMZN?interval=1d&events=splits (2025-12-31) ; https://www.sec.gov/Archives/edgar/data/1018724/000101872426000004/,종가 230.82 × 주식수 10734920870,1
+Amazon,AMZN,2026Q1,2026-03-31,분기별 매출액,181519000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1018724/000101872426000014/,,1
+Amazon,AMZN,2026Q1,2026-03-31,분기별 영업이익,23852000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1018724/000101872426000014/,,1
+Amazon,AMZN,2026Q1,2026-03-31,분기별 당기순이익(지배),30255000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1018724/000101872426000014/,,1
+Amazon,AMZN,2026Q1,2026-03-31,분기별 영업활동현금흐름,26032000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1018724/000101872426000014/,,1
+Amazon,AMZN,2026Q1,2026-03-31,분기말 자산총계,916630000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1018724/000101872426000014/,,1
+Amazon,AMZN,2026Q1,2026-03-31,분기말 부채총계,474716000000,USD,계산(부채및자본-총자본),https://www.sec.gov/Archives/edgar/data/1018724/000101872426000014/,부채및자본 916630000000 − 총자본 441914000000,1
+Amazon,AMZN,2026Q1,2026-03-31,분기말 총자본(자기자본),441914000000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/1018724/000101872426000014/,"StockholdersEquity, MinorityInterest 태그 없음",1
+Amazon,AMZN,2026Q1,2026-03-31,분기말 지배지분 자본,441914000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1018724/000101872426000014/,,1
+Amazon,AMZN,2026Q1,2026-03-31,분기말 종가,208.27,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/AMZN?interval=1d&events=splits (2026-03-31),,1
+Amazon,AMZN,2026Q1,2026-04-22,분기말 상장주식수,10757109436,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/1018724/000101872426000014/,dei:EntityCommonStockSharesOutstanding 클래스 합,1
+Amazon,AMZN,2026Q1,2026-03-31,분기말 시가총액,2240383182236,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/AMZN?interval=1d&events=splits (2026-03-31) ; https://www.sec.gov/Archives/edgar/data/1018724/000101872426000014/,종가 208.27 × 주식수 10757109436,1
+Amazon,AMZN,2026Q2,2026-06-30,분기별 매출액,200606000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1018724/000101872426000026/,,1
+Amazon,AMZN,2026Q2,2026-06-30,분기별 영업이익,27461000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1018724/000101872426000026/,,1
+Amazon,AMZN,2026Q2,2026-06-30,분기별 당기순이익(지배),62647000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1018724/000101872426000026/,,1
+Amazon,AMZN,2026Q2,2026-06-30,분기별 영업활동현금흐름,45387000000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/1018724/000101872426000026/ ; https://www.sec.gov/Archives/edgar/data/1018724/000101872426000014/,누적 71419000000 − 직전누적 26032000000 (시작 2026-01-01),1
+Amazon,AMZN,2026Q2,2026-06-30,분기말 자산총계,1095689000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1018724/000101872426000026/,,1
+Amazon,AMZN,2026Q2,2026-06-30,분기말 부채총계,544069000000,USD,계산(부채및자본-총자본),https://www.sec.gov/Archives/edgar/data/1018724/000101872426000026/,부채및자본 1095689000000 − 총자본 551620000000,1
+Amazon,AMZN,2026Q2,2026-06-30,분기말 총자본(자기자본),551620000000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/1018724/000101872426000026/,"StockholdersEquity, MinorityInterest 태그 없음",1
+Amazon,AMZN,2026Q2,2026-06-30,분기말 지배지분 자본,551620000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1018724/000101872426000026/,,1
+Amazon,AMZN,2026Q2,2026-06-30,분기말 종가,238.34,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/AMZN?interval=1d&events=splits (2026-06-30),,1
+Amazon,AMZN,2026Q2,2026-07-22,분기말 상장주식수,10786313572,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/1018724/000101872426000026/,dei:EntityCommonStockSharesOutstanding 클래스 합,1
+Amazon,AMZN,2026Q2,2026-06-30,분기말 시가총액,2570809976750,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/AMZN?interval=1d&events=splits (2026-06-30) ; https://www.sec.gov/Archives/edgar/data/1018724/000101872426000026/,종가 238.34 × 주식수 10786313572,1

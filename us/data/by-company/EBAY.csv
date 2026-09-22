@@ -1,0 +1,727 @@
+﻿기업,종목코드,기간,기준일,항목,값,통화,값구분,출처,검산,라운드
+eBay,EBAY,2010Q1,2010-03-31,분기별 매출액,2196057000,USD,공시(후속 보고서 비교기간),https://www.sec.gov/Archives/edgar/data/1065088/000106508811000003/,SalesRevenueNet ; 그 분기 보고서에 연결 총계가 없어 2011-01-28 제출본의 비교기간에서 읽었다,11
+eBay,EBAY,2010Q1,2010-03-31,분기별 영업이익,488609000,USD,공시,https://www.sec.gov/Archives/edgar/data/1065088/000119312510096869/,,11
+eBay,EBAY,2010Q1,2010-03-31,분기별 당기순이익(지배),397653000,USD,공시,https://www.sec.gov/Archives/edgar/data/1065088/000119312510096869/,,11
+eBay,EBAY,2010Q1,2010-03-31,분기별 영업활동현금흐름,418262000,USD,공시,https://www.sec.gov/Archives/edgar/data/1065088/000119312510096869/,,11
+eBay,EBAY,2010Q1,2010-03-31,분기말 자산총계,18690178000,USD,공시,https://www.sec.gov/Archives/edgar/data/1065088/000119312510096869/,,11
+eBay,EBAY,2010Q1,2010-03-31,분기말 부채총계,4565069000,USD,공시,https://www.sec.gov/Archives/edgar/data/1065088/000119312510096869/,,11
+eBay,EBAY,2010Q1,2010-03-31,분기말 총자본(자기자본),14125109000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/1065088/000119312510096869/,"StockholdersEquity, MinorityInterest 태그 없음",11
+eBay,EBAY,2010Q1,2010-03-31,분기말 지배지분 자본,14125109000,USD,공시,https://www.sec.gov/Archives/edgar/data/1065088/000119312510096869/,,11
+eBay,EBAY,2010Q1,2010-03-31,분기말 종가,26.97,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/EBAY?interval=1d&events=splits (2010-03-31),분할조정 종가 11.351 × 이후 분할계수 2.376,11
+eBay,EBAY,2010Q1,2010-04-14,분기말 상장주식수,1306969862,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/1065088/000119312510096869/,dei:EntityCommonStockSharesOutstanding 클래스 합,11
+eBay,EBAY,2010Q1,2010-03-31,분기말 시가총액,35248977178,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/EBAY?interval=1d&events=splits (2010-03-31) ; https://www.sec.gov/Archives/edgar/data/1065088/000119312510096869/,종가 26.97 × 주식수 1306969862,11
+eBay,EBAY,2010Q2,2010-06-30,분기별 매출액,2215379000,USD,공시(후속 보고서 비교기간),https://www.sec.gov/Archives/edgar/data/1065088/000106508811000019/,Revenues ; 그 분기 보고서에 연결 총계가 없어 2011-07-22 제출본의 비교기간에서 읽었다,11
+eBay,EBAY,2010Q2,2010-06-30,분기별 영업이익,484565000,USD,공시,https://www.sec.gov/Archives/edgar/data/1065088/000119312510164115/,,11
+eBay,EBAY,2010Q2,2010-06-30,분기별 당기순이익(지배),412192000,USD,공시,https://www.sec.gov/Archives/edgar/data/1065088/000119312510164115/,,11
+eBay,EBAY,2010Q2,2010-06-30,분기별 영업활동현금흐름,726379000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/1065088/000119312510164115/ ; https://www.sec.gov/Archives/edgar/data/1065088/000119312510096869/,누적 1144641000 − 직전누적 418262000 (시작 2010-01-01),11
+eBay,EBAY,2010Q2,2010-06-30,분기말 자산총계,18747584000,USD,공시,https://www.sec.gov/Archives/edgar/data/1065088/000119312510164115/,,11
+eBay,EBAY,2010Q2,2010-06-30,분기말 부채총계,4578293000,USD,공시,https://www.sec.gov/Archives/edgar/data/1065088/000119312510164115/,,11
+eBay,EBAY,2010Q2,2010-06-30,분기말 총자본(자기자본),14169291000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/1065088/000119312510164115/,"StockholdersEquity, MinorityInterest 태그 없음",11
+eBay,EBAY,2010Q2,2010-06-30,분기말 지배지분 자본,14169291000,USD,공시,https://www.sec.gov/Archives/edgar/data/1065088/000119312510164115/,,11
+eBay,EBAY,2010Q2,2010-06-30,분기말 종가,19.61,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/EBAY?interval=1d&events=splits (2010-06-30),분할조정 종가 8.2534 × 이후 분할계수 2.376,11
+eBay,EBAY,2010Q2,2010-07-15,분기말 상장주식수,1312154640,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/1065088/000119312510164115/,dei:EntityCommonStockSharesOutstanding 클래스 합,11
+eBay,EBAY,2010Q2,2010-06-30,분기말 시가총액,25731352490,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/EBAY?interval=1d&events=splits (2010-06-30) ; https://www.sec.gov/Archives/edgar/data/1065088/000119312510164115/,종가 19.61 × 주식수 1312154640,11
+eBay,EBAY,2010Q3,2010-09-30,분기별 매출액,2249488000,USD,공시,https://www.sec.gov/Archives/edgar/data/1065088/000144530510001112/,,11
+eBay,EBAY,2010Q3,2010-09-30,분기별 영업이익,490176000,USD,공시,https://www.sec.gov/Archives/edgar/data/1065088/000144530510001112/,,11
+eBay,EBAY,2010Q3,2010-09-30,분기별 당기순이익(지배),431929000,USD,공시,https://www.sec.gov/Archives/edgar/data/1065088/000144530510001112/,,11
+eBay,EBAY,2010Q3,2010-09-30,분기별 영업활동현금흐름,747114000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/1065088/000144530510001112/ ; https://www.sec.gov/Archives/edgar/data/1065088/000119312510164115/,누적 1891755000 − 직전누적 1144641000 (시작 2010-01-01),11
+eBay,EBAY,2010Q3,2010-09-30,분기말 자산총계,19948062000,USD,공시,https://www.sec.gov/Archives/edgar/data/1065088/000144530510001112/,,11
+eBay,EBAY,2010Q3,2010-09-30,분기말 부채총계,4914110000,USD,공시,https://www.sec.gov/Archives/edgar/data/1065088/000144530510001112/,,11
+eBay,EBAY,2010Q3,2010-09-30,분기말 총자본(자기자본),15033952000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/1065088/000144530510001112/,"StockholdersEquity, MinorityInterest 태그 없음",11
+eBay,EBAY,2010Q3,2010-09-30,분기말 지배지분 자본,15033952000,USD,공시,https://www.sec.gov/Archives/edgar/data/1065088/000144530510001112/,,11
+eBay,EBAY,2010Q3,2010-09-30,분기말 종가,24.4,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/EBAY?interval=1d&events=splits (2010-09-30),분할조정 종가 10.2694 × 이후 분할계수 2.376,11
+eBay,EBAY,2010Q3,2010-10-14,분기말 상장주식수,1303738840,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/1065088/000144530510001112/,dei:EntityCommonStockSharesOutstanding 클래스 합,11
+eBay,EBAY,2010Q3,2010-09-30,분기말 시가총액,31811227696,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/EBAY?interval=1d&events=splits (2010-09-30) ; https://www.sec.gov/Archives/edgar/data/1065088/000144530510001112/,종가 24.4 × 주식수 1303738840,11
+eBay,EBAY,2010Q4,2010-12-31,분기별 매출액,2495350000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/1065088/000106508811000003/ ; https://www.sec.gov/Archives/edgar/data/1065088/000144530510001112/,연간 9156274000 − 9개월누적 6660924000 (SalesRevenueNet),11
+eBay,EBAY,2010Q4,2010-12-31,분기별 영업이익,590221000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/1065088/000106508811000003/ ; https://www.sec.gov/Archives/edgar/data/1065088/000144530510001112/,연간 2053571000 − 9개월누적 1463350000 (OperatingIncomeLoss),11
+eBay,EBAY,2010Q4,2010-12-31,분기별 당기순이익(지배),559187000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/1065088/000106508811000003/ ; https://www.sec.gov/Archives/edgar/data/1065088/000144530510001112/,연간 1800961000 − 9개월누적 1241774000 (NetIncomeLoss),11
+eBay,EBAY,2010Q4,2010-12-31,분기별 영업활동현금흐름,854005000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/1065088/000106508811000003/ ; https://www.sec.gov/Archives/edgar/data/1065088/000144530510001112/,누적 2745760000 − 직전누적 1891755000 (시작 2010-01-01),11
+eBay,EBAY,2010Q4,2010-12-31,분기말 자산총계,22003762000,USD,공시,https://www.sec.gov/Archives/edgar/data/1065088/000106508811000003/,,11
+eBay,EBAY,2010Q4,2010-12-31,분기말 부채총계,6701583000,USD,공시,https://www.sec.gov/Archives/edgar/data/1065088/000106508811000003/,,11
+eBay,EBAY,2010Q4,2010-12-31,분기말 총자본(자기자본),15302179000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/1065088/000106508811000003/,"StockholdersEquity, MinorityInterest 태그 없음",11
+eBay,EBAY,2010Q4,2010-12-31,분기말 지배지분 자본,15302179000,USD,공시,https://www.sec.gov/Archives/edgar/data/1065088/000106508811000003/,,11
+eBay,EBAY,2010Q4,2010-12-31,분기말 종가,27.83,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/EBAY?interval=1d&events=splits (2010-12-31),분할조정 종가 11.713 × 이후 분할계수 2.376,11
+eBay,EBAY,2010Q4,2011-01-27,분기말 상장주식수,1298369992,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/1065088/000106508811000003/,dei:EntityCommonStockSharesOutstanding 클래스 합,11
+eBay,EBAY,2010Q4,2010-12-31,분기말 시가총액,36133636877,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/EBAY?interval=1d&events=splits (2010-12-31) ; https://www.sec.gov/Archives/edgar/data/1065088/000106508811000003/,종가 27.83 × 주식수 1298369992,11
+eBay,EBAY,2011Q1,2011-03-31,분기별 매출액,2545609000,USD,공시,https://www.sec.gov/Archives/edgar/data/1065088/000106508811000006/,,11
+eBay,EBAY,2011Q1,2011-03-31,분기별 영업이익,564654000,USD,공시,https://www.sec.gov/Archives/edgar/data/1065088/000106508811000006/,,11
+eBay,EBAY,2011Q1,2011-03-31,분기별 당기순이익(지배),475865000,USD,공시,https://www.sec.gov/Archives/edgar/data/1065088/000106508811000006/,,11
+eBay,EBAY,2011Q1,2011-03-31,분기별 영업활동현금흐름,699610000,USD,공시,https://www.sec.gov/Archives/edgar/data/1065088/000106508811000006/,,11
+eBay,EBAY,2011Q1,2011-03-31,분기말 자산총계,23004860000,USD,공시,https://www.sec.gov/Archives/edgar/data/1065088/000106508811000006/,,11
+eBay,EBAY,2011Q1,2011-03-31,분기말 부채총계,7060447000,USD,공시,https://www.sec.gov/Archives/edgar/data/1065088/000106508811000006/,,11
+eBay,EBAY,2011Q1,2011-03-31,분기말 총자본(자기자본),15944413000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/1065088/000106508811000006/,"StockholdersEquity, MinorityInterest 태그 없음",11
+eBay,EBAY,2011Q1,2011-03-31,분기말 지배지분 자본,15944413000,USD,공시,https://www.sec.gov/Archives/edgar/data/1065088/000106508811000006/,,11
+eBay,EBAY,2011Q1,2011-03-31,분기말 종가,31.04,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/EBAY?interval=1d&events=splits (2011-03-31),분할조정 종가 13.064 × 이후 분할계수 2.376,11
+eBay,EBAY,2011Q1,2011-04-25,분기말 상장주식수,1297898817,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/1065088/000106508811000006/,dei:EntityCommonStockSharesOutstanding 클래스 합,11
+eBay,EBAY,2011Q1,2011-03-31,분기말 시가총액,40286779280,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/EBAY?interval=1d&events=splits (2011-03-31) ; https://www.sec.gov/Archives/edgar/data/1065088/000106508811000006/,종가 31.04 × 주식수 1297898817,11
+eBay,EBAY,2011Q2,2011-06-30,분기별 매출액,2760274000,USD,공시,https://www.sec.gov/Archives/edgar/data/1065088/000106508811000019/,,11
+eBay,EBAY,2011Q2,2011-06-30,분기별 영업이익,518899000,USD,공시,https://www.sec.gov/Archives/edgar/data/1065088/000106508811000019/,,11
+eBay,EBAY,2011Q2,2011-06-30,분기별 당기순이익(지배),283407000,USD,공시,https://www.sec.gov/Archives/edgar/data/1065088/000106508811000019/,,11
+eBay,EBAY,2011Q2,2011-06-30,분기별 영업활동현금흐름,782736000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/1065088/000106508811000019/ ; https://www.sec.gov/Archives/edgar/data/1065088/000106508811000006/,누적 1482346000 − 직전누적 699610000 (시작 2011-01-01),11
+eBay,EBAY,2011Q2,2011-06-30,분기말 자산총계,24833954000,USD,공시,https://www.sec.gov/Archives/edgar/data/1065088/000106508811000019/,,11
+eBay,EBAY,2011Q2,2011-06-30,분기말 부채총계,8624072000,USD,공시,https://www.sec.gov/Archives/edgar/data/1065088/000106508811000019/,,11
+eBay,EBAY,2011Q2,2011-06-30,분기말 총자본(자기자본),16209882000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/1065088/000106508811000019/,"StockholdersEquity, MinorityInterest 태그 없음",11
+eBay,EBAY,2011Q2,2011-06-30,분기말 지배지분 자본,16209882000,USD,공시,https://www.sec.gov/Archives/edgar/data/1065088/000106508811000019/,,11
+eBay,EBAY,2011Q2,2011-06-30,분기말 종가,32.27,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/EBAY?interval=1d&events=splits (2011-06-30),분할조정 종가 13.5816 × 이후 분할계수 2.376,11
+eBay,EBAY,2011Q2,2011-07-18,분기말 상장주식수,1288759170,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/1065088/000106508811000019/,dei:EntityCommonStockSharesOutstanding 클래스 합,11
+eBay,EBAY,2011Q2,2011-06-30,분기말 시가총액,41588258416,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/EBAY?interval=1d&events=splits (2011-06-30) ; https://www.sec.gov/Archives/edgar/data/1065088/000106508811000019/,종가 32.27 × 주식수 1288759170,11
+eBay,EBAY,2011Q3,2011-09-30,분기별 매출액,2965761000,USD,공시,https://www.sec.gov/Archives/edgar/data/1065088/000106508811000027/,,11
+eBay,EBAY,2011Q3,2011-09-30,분기별 영업이익,536821000,USD,공시,https://www.sec.gov/Archives/edgar/data/1065088/000106508811000027/,,11
+eBay,EBAY,2011Q3,2011-09-30,분기별 당기순이익(지배),490503000,USD,공시,https://www.sec.gov/Archives/edgar/data/1065088/000106508811000027/,,11
+eBay,EBAY,2011Q3,2011-09-30,분기별 영업활동현금흐름,809068000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/1065088/000106508811000027/ ; https://www.sec.gov/Archives/edgar/data/1065088/000106508811000019/,누적 2291414000 − 직전누적 1482346000 (시작 2011-01-01),11
+eBay,EBAY,2011Q3,2011-09-30,분기말 자산총계,24900537000,USD,공시,https://www.sec.gov/Archives/edgar/data/1065088/000106508811000027/,,11
+eBay,EBAY,2011Q3,2011-09-30,분기말 부채총계,8735211000,USD,공시,https://www.sec.gov/Archives/edgar/data/1065088/000106508811000027/,,11
+eBay,EBAY,2011Q3,2011-09-30,분기말 총자본(자기자본),16165326000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/1065088/000106508811000027/,"StockholdersEquity, MinorityInterest 태그 없음",11
+eBay,EBAY,2011Q3,2011-09-30,분기말 지배지분 자본,16165326000,USD,공시,https://www.sec.gov/Archives/edgar/data/1065088/000106508811000027/,,11
+eBay,EBAY,2011Q3,2011-09-30,분기말 종가,29.49,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/EBAY?interval=1d&events=splits (2011-09-30),분할조정 종가 12.4116 × 이후 분할계수 2.376,11
+eBay,EBAY,2011Q3,2011-10-17,분기말 상장주식수,1290934293,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/1065088/000106508811000027/,dei:EntityCommonStockSharesOutstanding 클래스 합,11
+eBay,EBAY,2011Q3,2011-09-30,분기말 시가총액,38069652301,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/EBAY?interval=1d&events=splits (2011-09-30) ; https://www.sec.gov/Archives/edgar/data/1065088/000106508811000027/,종가 29.49 × 주식수 1290934293,11
+eBay,EBAY,2011Q4,2011-12-31,분기별 매출액,3380010000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/1065088/000106508812000006/ ; https://www.sec.gov/Archives/edgar/data/1065088/000106508811000027/,연간 11651654000 − 9개월누적 8271644000 (Revenues),11
+eBay,EBAY,2011Q4,2011-12-31,분기별 영업이익,753115000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/1065088/000106508812000006/ ; https://www.sec.gov/Archives/edgar/data/1065088/000106508811000027/,연간 2373489000 − 9개월누적 1620374000 (OperatingIncomeLoss),11
+eBay,EBAY,2011Q4,2011-12-31,분기별 당기순이익(지배),1979612000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/1065088/000106508812000006/ ; https://www.sec.gov/Archives/edgar/data/1065088/000106508811000027/,연간 3229387000 − 9개월누적 1249775000 (NetIncomeLoss),11
+eBay,EBAY,2011Q4,2011-12-31,분기별 영업활동현금흐름,982260000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/1065088/000106508812000006/ ; https://www.sec.gov/Archives/edgar/data/1065088/000106508811000027/,누적 3273674000 − 직전누적 2291414000 (시작 2011-01-01),11
+eBay,EBAY,2011Q4,2011-12-31,분기말 자산총계,27320218000,USD,공시,https://www.sec.gov/Archives/edgar/data/1065088/000106508812000006/,,11
+eBay,EBAY,2011Q4,2011-12-31,분기말 부채총계,9390339000,USD,공시,https://www.sec.gov/Archives/edgar/data/1065088/000106508812000006/,,11
+eBay,EBAY,2011Q4,2011-12-31,분기말 총자본(자기자본),17929879000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/1065088/000106508812000006/,"StockholdersEquity, MinorityInterest 태그 없음",11
+eBay,EBAY,2011Q4,2011-12-31,분기말 지배지분 자본,17929879000,USD,공시,https://www.sec.gov/Archives/edgar/data/1065088/000106508812000006/,,11
+eBay,EBAY,2011Q4,2011-12-30,분기말 종가,30.33,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/EBAY?interval=1d&events=splits (2011-12-30),분할조정 종가 12.7652 × 이후 분할계수 2.376,11
+eBay,EBAY,2011Q4,2012-01-23,분기말 상장주식수,1286914976,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/1065088/000106508812000006/,dei:EntityCommonStockSharesOutstanding 클래스 합,11
+eBay,EBAY,2011Q4,2011-12-30,분기말 시가총액,39032131222,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/EBAY?interval=1d&events=splits (2011-12-30) ; https://www.sec.gov/Archives/edgar/data/1065088/000106508812000006/,종가 30.33 × 주식수 1286914976,11
+eBay,EBAY,2012Q1,2012-03-31,분기별 매출액,3277000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1065088/000106508812000037/,,11
+eBay,EBAY,2012Q1,2012-03-31,분기별 영업이익,653000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1065088/000106508812000037/,,11
+eBay,EBAY,2012Q1,2012-03-31,분기별 당기순이익(지배),570000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1065088/000106508812000037/,,11
+eBay,EBAY,2012Q1,2012-03-31,분기별 영업활동현금흐름,531000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1065088/000106508812000037/,,11
+eBay,EBAY,2012Q1,2012-03-31,분기말 자산총계,28207000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1065088/000106508812000037/,,11
+eBay,EBAY,2012Q1,2012-03-31,분기말 부채총계,9498000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1065088/000106508812000037/,,11
+eBay,EBAY,2012Q1,2012-03-31,분기말 총자본(자기자본),18709000000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/1065088/000106508812000037/,"StockholdersEquity, MinorityInterest 태그 없음",11
+eBay,EBAY,2012Q1,2012-03-31,분기말 지배지분 자본,18709000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1065088/000106508812000037/,,11
+eBay,EBAY,2012Q1,2012-03-30,분기말 종가,36.9,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/EBAY?interval=1d&events=splits (2012-03-30),분할조정 종가 15.5303 × 이후 분할계수 2.376,11
+eBay,EBAY,2012Q1,2012-04-16,분기말 상장주식수,1291228450,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/1065088/000106508812000037/,dei:EntityCommonStockSharesOutstanding 클래스 합,11
+eBay,EBAY,2012Q1,2012-03-30,분기말 시가총액,47646329805,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/EBAY?interval=1d&events=splits (2012-03-30) ; https://www.sec.gov/Archives/edgar/data/1065088/000106508812000037/,종가 36.9 × 주식수 1291228450,11
+eBay,EBAY,2012Q2,2012-06-30,분기별 매출액,3398000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1065088/000106508812000085/,,11
+eBay,EBAY,2012Q2,2012-06-30,분기별 영업이익,695000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1065088/000106508812000085/,,11
+eBay,EBAY,2012Q2,2012-06-30,분기별 당기순이익(지배),692000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1065088/000106508812000085/,,11
+eBay,EBAY,2012Q2,2012-06-30,분기별 영업활동현금흐름,768000000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/1065088/000106508812000085/ ; https://www.sec.gov/Archives/edgar/data/1065088/000106508812000037/,누적 1299000000 − 직전누적 531000000 (시작 2012-01-01),11
+eBay,EBAY,2012Q2,2012-06-30,분기말 자산총계,28258000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1065088/000106508812000085/,,11
+eBay,EBAY,2012Q2,2012-06-30,분기말 부채총계,9346000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1065088/000106508812000085/,,11
+eBay,EBAY,2012Q2,2012-06-30,분기말 총자본(자기자본),18912000000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/1065088/000106508812000085/,"StockholdersEquity, MinorityInterest 태그 없음",11
+eBay,EBAY,2012Q2,2012-06-30,분기말 지배지분 자본,18912000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1065088/000106508812000085/,,11
+eBay,EBAY,2012Q2,2012-06-29,분기말 종가,42.01,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/EBAY?interval=1d&events=splits (2012-06-29),분할조정 종가 17.681 × 이후 분할계수 2.376,11
+eBay,EBAY,2012Q2,2012-07-16,분기말 상장주식수,1288670071,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/1065088/000106508812000085/,dei:EntityCommonStockSharesOutstanding 클래스 합,11
+eBay,EBAY,2012Q2,2012-06-29,분기말 시가총액,54137029683,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/EBAY?interval=1d&events=splits (2012-06-29) ; https://www.sec.gov/Archives/edgar/data/1065088/000106508812000085/,종가 42.01 × 주식수 1288670071,11
+eBay,EBAY,2012Q3,2012-09-30,분기별 매출액,3404000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1065088/000106508812000143/,,11
+eBay,EBAY,2012Q3,2012-09-30,분기별 영업이익,667000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1065088/000106508812000143/,,11
+eBay,EBAY,2012Q3,2012-09-30,분기별 당기순이익(지배),597000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1065088/000106508812000143/,,11
+eBay,EBAY,2012Q3,2012-09-30,분기별 영업활동현금흐름,1154000000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/1065088/000106508812000143/ ; https://www.sec.gov/Archives/edgar/data/1065088/000106508812000085/,누적 2453000000 − 직전누적 1299000000 (시작 2012-01-01),11
+eBay,EBAY,2012Q3,2012-09-30,분기말 자산총계,32502000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1065088/000106508812000143/,,11
+eBay,EBAY,2012Q3,2012-09-30,분기말 부채총계,12589000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1065088/000106508812000143/,,11
+eBay,EBAY,2012Q3,2012-09-30,분기말 총자본(자기자본),19913000000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/1065088/000106508812000143/,"StockholdersEquity, MinorityInterest 태그 없음",11
+eBay,EBAY,2012Q3,2012-09-30,분기말 지배지분 자본,19913000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1065088/000106508812000143/,,11
+eBay,EBAY,2012Q3,2012-09-28,분기말 종가,48.37,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/EBAY?interval=1d&events=splits (2012-09-28),분할조정 종가 20.3577 × 이후 분할계수 2.376,11
+eBay,EBAY,2012Q3,2012-10-15,분기말 상장주식수,1293985406,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/1065088/000106508812000143/,dei:EntityCommonStockSharesOutstanding 클래스 합,11
+eBay,EBAY,2012Q3,2012-09-28,분기말 시가총액,62590074088,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/EBAY?interval=1d&events=splits (2012-09-28) ; https://www.sec.gov/Archives/edgar/data/1065088/000106508812000143/,종가 48.37 × 주식수 1293985406,11
+eBay,EBAY,2012Q4,2012-12-31,분기별 매출액,3993000000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/1065088/000106508813000004/ ; https://www.sec.gov/Archives/edgar/data/1065088/000106508812000143/,연간 14072000000 − 9개월누적 10079000000 (Revenues / 9개월 SalesRevenueNet),11
+eBay,EBAY,2012Q4,2012-12-31,분기별 영업이익,873000000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/1065088/000106508813000004/ ; https://www.sec.gov/Archives/edgar/data/1065088/000106508812000143/,연간 2888000000 − 9개월누적 2015000000 (OperatingIncomeLoss),11
+eBay,EBAY,2012Q4,2012-12-31,분기별 당기순이익(지배),750000000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/1065088/000106508813000004/ ; https://www.sec.gov/Archives/edgar/data/1065088/000106508812000143/,연간 2609000000 − 9개월누적 1859000000 (NetIncomeLoss),11
+eBay,EBAY,2012Q4,2012-12-31,분기별 영업활동현금흐름,1385000000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/1065088/000106508813000004/ ; https://www.sec.gov/Archives/edgar/data/1065088/000106508812000143/,누적 3838000000 − 직전누적 2453000000 (시작 2012-01-01),11
+eBay,EBAY,2012Q4,2012-12-31,분기말 자산총계,37074000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1065088/000106508813000004/,,11
+eBay,EBAY,2012Q4,2012-12-31,분기말 부채총계,16209000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1065088/000106508813000004/,,11
+eBay,EBAY,2012Q4,2012-12-31,분기말 총자본(자기자본),20865000000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/1065088/000106508813000004/,"StockholdersEquity, MinorityInterest 태그 없음",11
+eBay,EBAY,2012Q4,2012-12-31,분기말 지배지분 자본,20865000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1065088/000106508813000004/,,11
+eBay,EBAY,2012Q4,2012-12-31,분기말 종가,51.0,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/EBAY?interval=1d&events=splits (2012-12-31),분할조정 종가 21.4646 × 이후 분할계수 2.376,11
+eBay,EBAY,2012Q4,2013-01-28,분기말 상장주식수,1296512321,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/1065088/000106508813000004/,dei:EntityCommonStockSharesOutstanding 클래스 합,11
+eBay,EBAY,2012Q4,2012-12-31,분기말 시가총액,66122128371,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/EBAY?interval=1d&events=splits (2012-12-31) ; https://www.sec.gov/Archives/edgar/data/1065088/000106508813000004/,종가 51.0 × 주식수 1296512321,11
+eBay,EBAY,2013Q1,2013-03-31,분기별 매출액,3748000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1065088/000106508813000058/,,11
+eBay,EBAY,2013Q1,2013-03-31,분기별 영업이익,800000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1065088/000106508813000058/,,11
+eBay,EBAY,2013Q1,2013-03-31,분기별 당기순이익(지배),677000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1065088/000106508813000058/,,11
+eBay,EBAY,2013Q1,2013-03-31,분기별 영업활동현금흐름,937000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1065088/000106508813000058/,,11
+eBay,EBAY,2013Q1,2013-03-31,분기말 자산총계,38000000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1065088/000106508813000058/,,11
+eBay,EBAY,2013Q1,2013-03-31,분기말 부채총계,16888000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1065088/000106508813000058/,,11
+eBay,EBAY,2013Q1,2013-03-31,분기말 총자본(자기자본),21112000000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/1065088/000106508813000058/,"StockholdersEquity, MinorityInterest 태그 없음",11
+eBay,EBAY,2013Q1,2013-03-31,분기말 지배지분 자본,21112000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1065088/000106508813000058/,,11
+eBay,EBAY,2013Q1,2013-03-28,분기말 종가,54.22,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/EBAY?interval=1d&events=splits (2013-03-28),분할조정 종가 22.8199 × 이후 분할계수 2.376,11
+eBay,EBAY,2013Q1,2013-04-15,분기말 상장주식수,1297789554,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/1065088/000106508813000058/,dei:EntityCommonStockSharesOutstanding 클래스 합,11
+eBay,EBAY,2013Q1,2013-03-28,분기말 시가총액,70366149618,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/EBAY?interval=1d&events=splits (2013-03-28) ; https://www.sec.gov/Archives/edgar/data/1065088/000106508813000058/,종가 54.22 × 주식수 1297789554,11
+eBay,EBAY,2013Q2,2013-06-30,분기별 매출액,3877000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1065088/000106508813000116/,,11
+eBay,EBAY,2013Q2,2013-06-30,분기별 영업이익,750000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1065088/000106508813000116/,,11
+eBay,EBAY,2013Q2,2013-06-30,분기별 당기순이익(지배),640000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1065088/000106508813000116/,,11
+eBay,EBAY,2013Q2,2013-06-30,분기별 영업활동현금흐름,1011000000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/1065088/000106508813000116/ ; https://www.sec.gov/Archives/edgar/data/1065088/000106508813000058/,누적 1948000000 − 직전누적 937000000 (시작 2013-01-01),11
+eBay,EBAY,2013Q2,2013-06-30,분기말 자산총계,38550000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1065088/000106508813000116/,,11
+eBay,EBAY,2013Q2,2013-06-30,분기말 부채총계,16899000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1065088/000106508813000116/,,11
+eBay,EBAY,2013Q2,2013-06-30,분기말 총자본(자기자본),21651000000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/1065088/000106508813000116/,"StockholdersEquity, MinorityInterest 태그 없음",11
+eBay,EBAY,2013Q2,2013-06-30,분기말 지배지분 자본,21651000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1065088/000106508813000116/,,11
+eBay,EBAY,2013Q2,2013-06-28,분기말 종가,51.72,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/EBAY?interval=1d&events=splits (2013-06-28),분할조정 종가 21.7677 × 이후 분할계수 2.376,11
+eBay,EBAY,2013Q2,2013-07-15,분기말 상장주식수,1294532392,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/1065088/000106508813000116/,dei:EntityCommonStockSharesOutstanding 클래스 합,11
+eBay,EBAY,2013Q2,2013-06-28,분기말 시가총액,66953215314,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/EBAY?interval=1d&events=splits (2013-06-28) ; https://www.sec.gov/Archives/edgar/data/1065088/000106508813000116/,종가 51.72 × 주식수 1294532392,11
+eBay,EBAY,2013Q3,2013-09-30,분기별 매출액,3892000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1065088/000106508813000162/,,11
+eBay,EBAY,2013Q3,2013-09-30,분기별 영업이익,799000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1065088/000106508813000162/,,11
+eBay,EBAY,2013Q3,2013-09-30,분기별 당기순이익(지배),689000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1065088/000106508813000162/,,11
+eBay,EBAY,2013Q3,2013-09-30,분기별 영업활동현금흐름,1334000000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/1065088/000106508813000162/ ; https://www.sec.gov/Archives/edgar/data/1065088/000106508813000116/,누적 3282000000 − 직전누적 1948000000 (시작 2013-01-01),11
+eBay,EBAY,2013Q3,2013-09-30,분기말 자산총계,40067000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1065088/000106508813000162/,,11
+eBay,EBAY,2013Q3,2013-09-30,분기말 부채총계,17300000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1065088/000106508813000162/,,11
+eBay,EBAY,2013Q3,2013-09-30,분기말 총자본(자기자본),22767000000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/1065088/000106508813000162/,"StockholdersEquity, MinorityInterest 태그 없음",11
+eBay,EBAY,2013Q3,2013-09-30,분기말 지배지분 자본,22767000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1065088/000106508813000162/,,11
+eBay,EBAY,2013Q3,2013-09-30,분기말 종가,55.8,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/EBAY?interval=1d&events=splits (2013-09-30),분할조정 종가 23.4848 × 이후 분할계수 2.376,11
+eBay,EBAY,2013Q3,2013-10-14,분기말 상장주식수,1294597889,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/1065088/000106508813000162/,dei:EntityCommonStockSharesOutstanding 클래스 합,11
+eBay,EBAY,2013Q3,2013-09-30,분기말 시가총액,72238562206,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/EBAY?interval=1d&events=splits (2013-09-30) ; https://www.sec.gov/Archives/edgar/data/1065088/000106508813000162/,종가 55.8 × 주식수 1294597889,11
+eBay,EBAY,2013Q4,2013-12-31,분기별 매출액,4530000000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/1065088/000106508814000010/ ; https://www.sec.gov/Archives/edgar/data/1065088/000106508813000162/,연간 16047000000 − 9개월누적 11517000000 (Revenues / 9개월 SalesRevenueNet),11
+eBay,EBAY,2013Q4,2013-12-31,분기별 영업이익,1022000000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/1065088/000106508814000010/ ; https://www.sec.gov/Archives/edgar/data/1065088/000106508813000162/,연간 3371000000 − 9개월누적 2349000000 (OperatingIncomeLoss),11
+eBay,EBAY,2013Q4,2013-12-31,분기별 당기순이익(지배),850000000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/1065088/000106508814000010/ ; https://www.sec.gov/Archives/edgar/data/1065088/000106508813000162/,연간 2856000000 − 9개월누적 2006000000 (NetIncomeLoss),11
+eBay,EBAY,2013Q4,2013-12-31,분기별 영업활동현금흐름,1713000000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/1065088/000106508814000010/ ; https://www.sec.gov/Archives/edgar/data/1065088/000106508813000162/,누적 4995000000 − 직전누적 3282000000 (시작 2013-01-01),11
+eBay,EBAY,2013Q4,2013-12-31,분기말 자산총계,41488000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1065088/000106508814000010/,,11
+eBay,EBAY,2013Q4,2013-12-31,분기말 부채총계,17841000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1065088/000106508814000010/,,11
+eBay,EBAY,2013Q4,2013-12-31,분기말 총자본(자기자본),23647000000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/1065088/000106508814000010/,"StockholdersEquity, MinorityInterest 태그 없음",11
+eBay,EBAY,2013Q4,2013-12-31,분기말 지배지분 자본,23647000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1065088/000106508814000010/,,11
+eBay,EBAY,2013Q4,2013-12-31,분기말 종가,54.87,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/EBAY?interval=1d&events=splits (2013-12-31),분할조정 종가 23.0934 × 이후 분할계수 2.376,11
+eBay,EBAY,2013Q4,2014-01-24,분기말 상장주식수,1294654966,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/1065088/000106508814000010/,dei:EntityCommonStockSharesOutstanding 클래스 합,11
+eBay,EBAY,2013Q4,2013-12-31,분기말 시가총액,71037717984,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/EBAY?interval=1d&events=splits (2013-12-31) ; https://www.sec.gov/Archives/edgar/data/1065088/000106508814000010/,종가 54.87 × 주식수 1294654966,11
+eBay,EBAY,2014Q1,2014-03-31,분기별 매출액,4262000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1065088/000106508814000060/,,11
+eBay,EBAY,2014Q1,2014-03-31,분기별 영업이익,878000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1065088/000106508814000060/,,11
+eBay,EBAY,2014Q1,2014-03-31,분기별 당기순이익(지배),-2326000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1065088/000106508814000060/,,11
+eBay,EBAY,2014Q1,2014-03-31,분기별 영업활동현금흐름,1174000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1065088/000106508814000060/,,11
+eBay,EBAY,2014Q1,2014-03-31,분기말 자산총계,40545000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1065088/000106508814000060/,,11
+eBay,EBAY,2014Q1,2014-03-31,분기말 부채총계,20936000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1065088/000106508814000060/,,11
+eBay,EBAY,2014Q1,2014-03-31,분기말 총자본(자기자본),19609000000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/1065088/000106508814000060/,"StockholdersEquity, MinorityInterest 태그 없음",11
+eBay,EBAY,2014Q1,2014-03-31,분기말 지배지분 자본,19609000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1065088/000106508814000060/,,11
+eBay,EBAY,2014Q1,2014-03-31,분기말 종가,55.24,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/EBAY?interval=1d&events=splits (2014-03-31),분할조정 종가 23.2492 × 이후 분할계수 2.376,11
+eBay,EBAY,2014Q1,2014-04-25,분기말 상장주식수,1267342622,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/1065088/000106508814000060/,dei:EntityCommonStockSharesOutstanding 클래스 합,11
+eBay,EBAY,2014Q1,2014-03-31,분기말 시가총액,70008006439,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/EBAY?interval=1d&events=splits (2014-03-31) ; https://www.sec.gov/Archives/edgar/data/1065088/000106508814000060/,종가 55.24 × 주식수 1267342622,11
+eBay,EBAY,2014Q2,2014-06-30,분기별 매출액,4366000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1065088/000106508814000120/,,11
+eBay,EBAY,2014Q2,2014-06-30,분기별 영업이익,794000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1065088/000106508814000120/,,11
+eBay,EBAY,2014Q2,2014-06-30,분기별 당기순이익(지배),676000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1065088/000106508814000120/,,11
+eBay,EBAY,2014Q2,2014-06-30,분기별 영업활동현금흐름,1494000000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/1065088/000106508814000120/ ; https://www.sec.gov/Archives/edgar/data/1065088/000106508814000060/,누적 2668000000 − 직전누적 1174000000 (시작 2014-01-01),11
+eBay,EBAY,2014Q2,2014-06-30,분기말 자산총계,41640000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1065088/000106508814000120/,,11
+eBay,EBAY,2014Q2,2014-06-30,분기말 부채총계,22670000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1065088/000106508814000120/,,11
+eBay,EBAY,2014Q2,2014-06-30,분기말 총자본(자기자본),18970000000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/1065088/000106508814000120/,"StockholdersEquity, MinorityInterest 태그 없음",11
+eBay,EBAY,2014Q2,2014-06-30,분기말 지배지분 자본,18970000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1065088/000106508814000120/,,11
+eBay,EBAY,2014Q2,2014-06-30,분기말 종가,50.06,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/EBAY?interval=1d&events=splits (2014-06-30),분할조정 종가 21.069 × 이후 분할계수 2.376,11
+eBay,EBAY,2014Q2,2014-07-11,분기말 상장주식수,1241212669,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/1065088/000106508814000120/,dei:EntityCommonStockSharesOutstanding 클래스 합,11
+eBay,EBAY,2014Q2,2014-06-30,분기말 시가총액,62135106210,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/EBAY?interval=1d&events=splits (2014-06-30) ; https://www.sec.gov/Archives/edgar/data/1065088/000106508814000120/,종가 50.06 × 주식수 1241212669,11
+eBay,EBAY,2014Q3,2014-09-30,분기별 매출액,4353000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1065088/000106508814000156/,,11
+eBay,EBAY,2014Q3,2014-09-30,분기별 영업이익,781000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1065088/000106508814000156/,,11
+eBay,EBAY,2014Q3,2014-09-30,분기별 당기순이익(지배),673000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1065088/000106508814000156/,,11
+eBay,EBAY,2014Q3,2014-09-30,분기별 영업활동현금흐름,1368000000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/1065088/000106508814000156/ ; https://www.sec.gov/Archives/edgar/data/1065088/000106508814000120/,누적 4036000000 − 직전누적 2668000000 (시작 2014-01-01),11
+eBay,EBAY,2014Q3,2014-09-30,분기말 자산총계,44476000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1065088/000106508814000156/,,11
+eBay,EBAY,2014Q3,2014-09-30,분기말 부채총계,24666000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1065088/000106508814000156/,,11
+eBay,EBAY,2014Q3,2014-09-30,분기말 총자본(자기자본),19810000000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/1065088/000106508814000156/,"StockholdersEquity, MinorityInterest 태그 없음",11
+eBay,EBAY,2014Q3,2014-09-30,분기말 지배지분 자본,19810000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1065088/000106508814000156/,,11
+eBay,EBAY,2014Q3,2014-09-30,분기말 종가,56.63,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/EBAY?interval=1d&events=splits (2014-09-30),분할조정 종가 23.8342 × 이후 분할계수 2.376,11
+eBay,EBAY,2014Q3,2014-10-10,분기말 상장주식수,1242367268,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/1065088/000106508814000156/,dei:EntityCommonStockSharesOutstanding 클래스 합,11
+eBay,EBAY,2014Q3,2014-09-30,분기말 시가총액,70355258387,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/EBAY?interval=1d&events=splits (2014-09-30) ; https://www.sec.gov/Archives/edgar/data/1065088/000106508814000156/,종가 56.63 × 주식수 1242367268,11
+eBay,EBAY,2014Q4,2014-12-31,분기별 매출액,4921000000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/1065088/000106508815000054/ ; https://www.sec.gov/Archives/edgar/data/1065088/000106508814000156/,연간 17902000000 − 9개월누적 12981000000 (Revenues / 9개월 SalesRevenueNet),11
+eBay,EBAY,2014Q4,2014-12-31,분기별 영업이익,1061000000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/1065088/000106508815000054/ ; https://www.sec.gov/Archives/edgar/data/1065088/000106508814000156/,연간 3514000000 − 9개월누적 2453000000 (OperatingIncomeLoss),11
+eBay,EBAY,2014Q4,2014-12-31,분기별 당기순이익(지배),1023000000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/1065088/000106508815000054/ ; https://www.sec.gov/Archives/edgar/data/1065088/000106508814000156/,연간 46000000 − 9개월누적 -977000000 (NetIncomeLoss),11
+eBay,EBAY,2014Q4,2014-12-31,분기별 영업활동현금흐름,1641000000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/1065088/000106508815000054/ ; https://www.sec.gov/Archives/edgar/data/1065088/000106508814000156/,누적 5677000000 − 직전누적 4036000000 (시작 2014-01-01),11
+eBay,EBAY,2014Q4,2014-12-31,분기말 자산총계,45132000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1065088/000106508815000054/,,11
+eBay,EBAY,2014Q4,2014-12-31,분기말 부채총계,25226000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1065088/000106508815000054/,,11
+eBay,EBAY,2014Q4,2014-12-31,분기말 총자본(자기자본),19906000000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/1065088/000106508815000054/,"StockholdersEquity, MinorityInterest 태그 없음",11
+eBay,EBAY,2014Q4,2014-12-31,분기말 지배지분 자본,19906000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1065088/000106508815000054/,,11
+eBay,EBAY,2014Q4,2014-12-31,분기말 종가,56.12,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/EBAY?interval=1d&events=splits (2014-12-31),분할조정 종가 23.6195 × 이후 분할계수 2.376,11
+eBay,EBAY,2014Q4,2015-02-02,분기말 상장주식수,1210046829,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/1065088/000106508815000054/,dei:EntityCommonStockSharesOutstanding 클래스 합,11
+eBay,EBAY,2014Q4,2014-12-31,분기말 시가총액,67907828043,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/EBAY?interval=1d&events=splits (2014-12-31) ; https://www.sec.gov/Archives/edgar/data/1065088/000106508815000054/,종가 56.12 × 주식수 1210046829,11
+eBay,EBAY,2015Q1,2015-03-31,분기별 매출액,4448000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1065088/000106508815000116/,,11
+eBay,EBAY,2015Q1,2015-03-31,분기별 영업이익,732000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1065088/000106508815000116/,,11
+eBay,EBAY,2015Q1,2015-03-31,분기별 당기순이익(지배),626000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1065088/000106508815000116/,,11
+eBay,EBAY,2015Q1,2015-03-31,분기별 영업활동현금흐름,1151000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1065088/000106508815000116/,,11
+eBay,EBAY,2015Q1,2015-03-31,분기말 자산총계,44841000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1065088/000106508815000116/,,11
+eBay,EBAY,2015Q1,2015-03-31,분기말 부채총계,25303000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1065088/000106508815000116/,,11
+eBay,EBAY,2015Q1,2015-03-31,분기말 총자본(자기자본),19538000000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/1065088/000106508815000116/,"StockholdersEquity, MinorityInterest 태그 없음",11
+eBay,EBAY,2015Q1,2015-03-31,분기말 지배지분 자본,19538000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1065088/000106508815000116/,,11
+eBay,EBAY,2015Q1,2015-03-31,분기말 종가,57.68,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/EBAY?interval=1d&events=splits (2015-03-31),분할조정 종가 24.2761 × 이후 분할계수 2.376,11
+eBay,EBAY,2015Q1,2015-04-20,분기말 상장주식수,1214821692,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/1065088/000106508815000116/,dei:EntityCommonStockSharesOutstanding 클래스 합,11
+eBay,EBAY,2015Q1,2015-03-31,분기말 시가총액,70070915195,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/EBAY?interval=1d&events=splits (2015-03-31) ; https://www.sec.gov/Archives/edgar/data/1065088/000106508815000116/,종가 57.68 × 주식수 1214821692,11
+eBay,EBAY,2015Q2,2015-06-30,분기별 매출액,4379000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1065088/000106508815000186/,,11
+eBay,EBAY,2015Q2,2015-06-30,분기별 영업이익,741000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1065088/000106508815000186/,,11
+eBay,EBAY,2015Q2,2015-06-30,분기별 당기순이익(지배),83000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1065088/000106508815000186/,,11
+eBay,EBAY,2015Q2,2015-06-30,분기별 영업활동현금흐름,1156000000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/1065088/000106508815000186/ ; https://www.sec.gov/Archives/edgar/data/1065088/000106508815000116/,누적 2307000000 − 직전누적 1151000000 (시작 2015-01-01),11
+eBay,EBAY,2015Q2,2015-06-30,분기말 자산총계,45658000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1065088/000106508815000186/,,11
+eBay,EBAY,2015Q2,2015-06-30,분기말 부채총계,25853000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1065088/000106508815000186/,,11
+eBay,EBAY,2015Q2,2015-06-30,분기말 총자본(자기자본),19805000000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/1065088/000106508815000186/,"StockholdersEquity, MinorityInterest 태그 없음",11
+eBay,EBAY,2015Q2,2015-06-30,분기말 지배지분 자본,19805000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1065088/000106508815000186/,,11
+eBay,EBAY,2015Q2,2015-06-30,분기말 종가,60.24,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/EBAY?interval=1d&events=splits (2015-06-30),분할조정 종가 25.3535 × 이후 분할계수 2.376,11
+eBay,EBAY,2015Q2,2015-07-14,분기말 상장주식수,1218228091,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/1065088/000106508815000186/,dei:EntityCommonStockSharesOutstanding 클래스 합,11
+eBay,EBAY,2015Q2,2015-06-30,분기말 시가총액,73386060202,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/EBAY?interval=1d&events=splits (2015-06-30) ; https://www.sec.gov/Archives/edgar/data/1065088/000106508815000186/,종가 60.24 × 주식수 1218228091,11
+eBay,EBAY,2015Q3,2015-09-30,분기별 매출액,2099000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1065088/000106508815000252/,,11
+eBay,EBAY,2015Q3,2015-09-30,분기별 영업이익,578000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1065088/000106508815000252/,,11
+eBay,EBAY,2015Q3,2015-09-30,분기별 당기순이익(지배),539000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1065088/000106508815000252/,,11
+eBay,EBAY,2015Q3,2015-09-30,분기별 영업활동현금흐름,686000000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/1065088/000106508815000252/ ; https://www.sec.gov/Archives/edgar/data/1065088/000106508815000186/,누적 2993000000 − 직전누적 2307000000 (시작 2015-01-01),11
+eBay,EBAY,2015Q3,2015-09-30,분기말 자산총계,18338000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1065088/000106508815000252/,,11
+eBay,EBAY,2015Q3,2015-09-30,분기말 부채총계,11846000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1065088/000106508815000252/,,11
+eBay,EBAY,2015Q3,2015-09-30,분기말 총자본(자기자본),6492000000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/1065088/000106508815000252/,"StockholdersEquity, MinorityInterest 태그 없음",11
+eBay,EBAY,2015Q3,2015-09-30,분기말 지배지분 자본,6492000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1065088/000106508815000252/,,11
+eBay,EBAY,2015Q3,2015-09-30,분기말 종가,24.44,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/EBAY?interval=1d&events=splits (2015-09-30),,11
+eBay,EBAY,2015Q3,2015-10-26,분기말 상장주식수,1200653879,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/1065088/000106508815000252/,dei:EntityCommonStockSharesOutstanding 클래스 합,11
+eBay,EBAY,2015Q3,2015-09-30,분기말 시가총액,29343980803,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/EBAY?interval=1d&events=splits (2015-09-30) ; https://www.sec.gov/Archives/edgar/data/1065088/000106508815000252/,종가 24.44 × 주식수 1200653879,11
+eBay,EBAY,2015Q4,2015-12-31,분기별 매출액,2322000000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/1065088/000106508816000265/ ; https://www.sec.gov/Archives/edgar/data/1065088/000106508815000252/,연간 8592000000 − 9개월누적 6270000000 (SalesRevenueNet),11
+eBay,EBAY,2015Q4,2015-12-31,분기별 영업이익,662000000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/1065088/000106508816000265/ ; https://www.sec.gov/Archives/edgar/data/1065088/000106508815000252/,연간 2197000000 − 9개월누적 1535000000 (OperatingIncomeLoss),11
+eBay,EBAY,2015Q4,2015-12-31,분기별 당기순이익(지배),477000000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/1065088/000106508816000265/ ; https://www.sec.gov/Archives/edgar/data/1065088/000106508815000252/,연간 1725000000 − 9개월누적 1248000000 (NetIncomeLoss),11
+eBay,EBAY,2015Q4,2015-12-31,분기별 영업활동현금흐름,1040000000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/1065088/000106508816000265/ ; https://www.sec.gov/Archives/edgar/data/1065088/000106508815000252/,누적 4033000000 − 직전누적 2993000000 (시작 2015-01-01),11
+eBay,EBAY,2015Q4,2015-12-31,분기말 자산총계,17755000000,USD,공시(재작성 반영),https://www.sec.gov/Archives/edgar/data/1065088/000106508817000007/,원 공시 17785000000 (https://www.sec.gov/Archives/edgar/data/1065088/000106508816000265/),11
+eBay,EBAY,2015Q4,2015-12-31,분기말 부채총계,11179000000,USD,공시(재작성 반영),https://www.sec.gov/Archives/edgar/data/1065088/000106508817000007/,원 공시 11209000000 (https://www.sec.gov/Archives/edgar/data/1065088/000106508816000265/),11
+eBay,EBAY,2015Q4,2015-12-31,분기말 총자본(자기자본),6576000000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/1065088/000106508816000265/,"StockholdersEquity, MinorityInterest 태그 없음",11
+eBay,EBAY,2015Q4,2015-12-31,분기말 지배지분 자본,6576000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1065088/000106508816000265/,,11
+eBay,EBAY,2015Q4,2015-12-31,분기말 종가,27.48,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/EBAY?interval=1d&events=splits (2015-12-31),,11
+eBay,EBAY,2015Q4,2016-01-27,분기말 상장주식수,1178705177,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/1065088/000106508816000265/,dei:EntityCommonStockSharesOutstanding 클래스 합,11
+eBay,EBAY,2015Q4,2015-12-31,분기말 시가총액,32390818264,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/EBAY?interval=1d&events=splits (2015-12-31) ; https://www.sec.gov/Archives/edgar/data/1065088/000106508816000265/,종가 27.48 × 주식수 1178705177,11
+eBay,EBAY,2016Q1,2016-03-31,분기별 매출액,2137000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1065088/000106508816000296/,,11
+eBay,EBAY,2016Q1,2016-03-31,분기별 영업이익,614000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1065088/000106508816000296/,,11
+eBay,EBAY,2016Q1,2016-03-31,분기별 당기순이익(지배),482000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1065088/000106508816000296/,,11
+eBay,EBAY,2016Q1,2016-03-31,분기별 영업활동현금흐름,641000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1065088/000106508816000296/,,11
+eBay,EBAY,2016Q1,2016-03-31,분기말 자산총계,19608000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1065088/000106508816000296/,,11
+eBay,EBAY,2016Q1,2016-03-31,분기말 부채총계,13291000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1065088/000106508816000296/,,11
+eBay,EBAY,2016Q1,2016-03-31,분기말 총자본(자기자본),6317000000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/1065088/000106508816000296/,"StockholdersEquity, MinorityInterest 태그 없음",11
+eBay,EBAY,2016Q1,2016-03-31,분기말 지배지분 자본,6317000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1065088/000106508816000296/,,11
+eBay,EBAY,2016Q1,2016-03-31,분기말 종가,23.86,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/EBAY?interval=1d&events=splits (2016-03-31),,11
+eBay,EBAY,2016Q1,2016-04-22,분기말 상장주식수,1148904240,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/1065088/000106508816000296/,dei:EntityCommonStockSharesOutstanding 클래스 합,11
+eBay,EBAY,2016Q1,2016-03-31,분기말 시가총액,27412855166,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/EBAY?interval=1d&events=splits (2016-03-31) ; https://www.sec.gov/Archives/edgar/data/1065088/000106508816000296/,종가 23.86 × 주식수 1148904240,11
+eBay,EBAY,2016Q2,2016-06-30,분기별 매출액,2230000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1065088/000106508816000317/,,11
+eBay,EBAY,2016Q2,2016-06-30,분기별 영업이익,531000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1065088/000106508816000317/,,11
+eBay,EBAY,2016Q2,2016-06-30,분기별 당기순이익(지배),435000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1065088/000106508816000317/,,11
+eBay,EBAY,2016Q2,2016-06-30,분기별 영업활동현금흐름,763000000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/1065088/000106508816000317/ ; https://www.sec.gov/Archives/edgar/data/1065088/000106508816000296/,누적 1404000000 − 직전누적 641000000 (시작 2016-01-01),11
+eBay,EBAY,2016Q2,2016-06-30,분기말 자산총계,19993000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1065088/000106508816000317/,,11
+eBay,EBAY,2016Q2,2016-06-30,분기말 부채총계,13540000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1065088/000106508816000317/,,11
+eBay,EBAY,2016Q2,2016-06-30,분기말 총자본(자기자본),6453000000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/1065088/000106508816000317/,"StockholdersEquity, MinorityInterest 태그 없음",11
+eBay,EBAY,2016Q2,2016-06-30,분기말 지배지분 자본,6453000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1065088/000106508816000317/,,11
+eBay,EBAY,2016Q2,2016-06-30,분기말 종가,23.41,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/EBAY?interval=1d&events=splits (2016-06-30),,11
+eBay,EBAY,2016Q2,2016-07-19,분기말 상장주식수,1129018848,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/1065088/000106508816000317/,dei:EntityCommonStockSharesOutstanding 클래스 합,11
+eBay,EBAY,2016Q2,2016-06-30,분기말 시가총액,26430331232,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/EBAY?interval=1d&events=splits (2016-06-30) ; https://www.sec.gov/Archives/edgar/data/1065088/000106508816000317/,종가 23.41 × 주식수 1129018848,11
+eBay,EBAY,2016Q3,2016-09-30,분기별 매출액,2217000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1065088/000106508816000332/,,11
+eBay,EBAY,2016Q3,2016-09-30,분기별 영업이익,542000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1065088/000106508816000332/,,11
+eBay,EBAY,2016Q3,2016-09-30,분기별 당기순이익(지배),413000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1065088/000106508816000332/,,11
+eBay,EBAY,2016Q3,2016-09-30,분기별 영업활동현금흐름,802000000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/1065088/000106508816000332/ ; https://www.sec.gov/Archives/edgar/data/1065088/000106508816000317/,누적 2206000000 − 직전누적 1404000000 (시작 2016-01-01),11
+eBay,EBAY,2016Q3,2016-09-30,분기말 자산총계,20502000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1065088/000106508816000332/,,11
+eBay,EBAY,2016Q3,2016-09-30,분기말 부채총계,13683000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1065088/000106508816000332/,,11
+eBay,EBAY,2016Q3,2016-09-30,분기말 총자본(자기자본),6819000000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/1065088/000106508816000332/,"StockholdersEquity, MinorityInterest 태그 없음",11
+eBay,EBAY,2016Q3,2016-09-30,분기말 지배지분 자본,6819000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1065088/000106508816000332/,,11
+eBay,EBAY,2016Q3,2016-09-30,분기말 종가,32.9,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/EBAY?interval=1d&events=splits (2016-09-30),,11
+eBay,EBAY,2016Q3,2016-10-18,분기말 상장주식수,1117926440,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/1065088/000106508816000332/,dei:EntityCommonStockSharesOutstanding 클래스 합,11
+eBay,EBAY,2016Q3,2016-09-30,분기말 시가총액,36779779876,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/EBAY?interval=1d&events=splits (2016-09-30) ; https://www.sec.gov/Archives/edgar/data/1065088/000106508816000332/,종가 32.9 × 주식수 1117926440,11
+eBay,EBAY,2016Q4,2016-12-31,분기별 매출액,2395000000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/1065088/000106508817000007/ ; https://www.sec.gov/Archives/edgar/data/1065088/000106508816000332/,연간 8979000000 − 9개월누적 6584000000 (SalesRevenueNet),11
+eBay,EBAY,2016Q4,2016-12-31,분기별 영업이익,638000000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/1065088/000106508817000007/ ; https://www.sec.gov/Archives/edgar/data/1065088/000106508816000332/,연간 2325000000 − 9개월누적 1687000000 (OperatingIncomeLoss),11
+eBay,EBAY,2016Q4,2016-12-31,분기별 당기순이익(지배),5936000000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/1065088/000106508817000007/ ; https://www.sec.gov/Archives/edgar/data/1065088/000106508816000332/,연간 7266000000 − 9개월누적 1330000000 (NetIncomeLoss),11
+eBay,EBAY,2016Q4,2016-12-31,분기별 영업활동현금흐름,620000000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/1065088/000106508817000007/ ; https://www.sec.gov/Archives/edgar/data/1065088/000106508816000332/,누적 2826000000 − 직전누적 2206000000 (시작 2016-01-01),11
+eBay,EBAY,2016Q4,2016-12-31,분기말 자산총계,23847000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1065088/000106508817000007/,,11
+eBay,EBAY,2016Q4,2016-12-31,분기말 부채총계,13308000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1065088/000106508817000007/,,11
+eBay,EBAY,2016Q4,2016-12-31,분기말 총자본(자기자본),10539000000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/1065088/000106508817000007/,"StockholdersEquity, MinorityInterest 태그 없음",11
+eBay,EBAY,2016Q4,2016-12-31,분기말 지배지분 자본,10539000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1065088/000106508817000007/,,11
+eBay,EBAY,2016Q4,2016-12-30,분기말 종가,29.69,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/EBAY?interval=1d&events=splits (2016-12-30),,11
+eBay,EBAY,2016Q4,2017-01-30,분기말 상장주식수,1087042601,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/1065088/000106508817000007/,dei:EntityCommonStockSharesOutstanding 클래스 합,11
+eBay,EBAY,2016Q4,2016-12-30,분기말 시가총액,32274294824,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/EBAY?interval=1d&events=splits (2016-12-30) ; https://www.sec.gov/Archives/edgar/data/1065088/000106508817000007/,종가 29.69 × 주식수 1087042601,11
+eBay,EBAY,2017Q1,2017-03-31,분기별 매출액,2303000000,USD,공시(재작성 반영),https://www.sec.gov/Archives/edgar/data/1065088/000106508818000020/,원 공시 2217000000 (https://www.sec.gov/Archives/edgar/data/1065088/000106508817000013/),11
+eBay,EBAY,2017Q1,2017-03-31,분기별 영업이익,547000000,USD,공시(재작성 반영),https://www.sec.gov/Archives/edgar/data/1065088/000106508818000020/,원 공시 546000000 (https://www.sec.gov/Archives/edgar/data/1065088/000106508817000013/),11
+eBay,EBAY,2017Q1,2017-03-31,분기별 당기순이익(지배),1035000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1065088/000106508817000013/,,11
+eBay,EBAY,2017Q1,2017-03-31,분기별 영업활동현금흐름,582000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1065088/000106508817000013/,,11
+eBay,EBAY,2017Q1,2017-03-31,분기말 자산총계,24808000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1065088/000106508817000013/,,11
+eBay,EBAY,2017Q1,2017-03-31,분기말 부채총계,13213000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1065088/000106508817000013/,,11
+eBay,EBAY,2017Q1,2017-03-31,분기말 총자본(자기자본),11595000000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/1065088/000106508817000013/,"StockholdersEquity, MinorityInterest 태그 없음",11
+eBay,EBAY,2017Q1,2017-03-31,분기말 지배지분 자본,11595000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1065088/000106508817000013/,,11
+eBay,EBAY,2017Q1,2017-03-31,분기말 종가,33.57,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/EBAY?interval=1d&events=splits (2017-03-31),,11
+eBay,EBAY,2017Q1,2017-04-17,분기말 상장주식수,1082338026,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/1065088/000106508817000013/,dei:EntityCommonStockSharesOutstanding 클래스 합,11
+eBay,EBAY,2017Q1,2017-03-31,분기말 시가총액,36334087533,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/EBAY?interval=1d&events=splits (2017-03-31) ; https://www.sec.gov/Archives/edgar/data/1065088/000106508817000013/,종가 33.57 × 주식수 1082338026,11
+eBay,EBAY,2017Q2,2017-06-30,분기별 매출액,2328000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1065088/000106508817000029/,,11
+eBay,EBAY,2017Q2,2017-06-30,분기별 영업이익,478000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1065088/000106508817000029/,,11
+eBay,EBAY,2017Q2,2017-06-30,분기별 당기순이익(지배),27000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1065088/000106508817000029/,,11
+eBay,EBAY,2017Q2,2017-06-30,분기별 영업활동현금흐름,699000000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/1065088/000106508817000029/ ; https://www.sec.gov/Archives/edgar/data/1065088/000106508817000013/,누적 1281000000 − 직전누적 582000000 (시작 2017-01-01),11
+eBay,EBAY,2017Q2,2017-06-30,분기말 자산총계,27483000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1065088/000106508817000029/,,11
+eBay,EBAY,2017Q2,2017-06-30,분기말 부채총계,16009000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1065088/000106508817000029/,,11
+eBay,EBAY,2017Q2,2017-06-30,분기말 총자본(자기자본),11474000000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/1065088/000106508817000029/,"StockholdersEquity, MinorityInterest 태그 없음",11
+eBay,EBAY,2017Q2,2017-06-30,분기말 지배지분 자본,11474000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1065088/000106508817000029/,,11
+eBay,EBAY,2017Q2,2017-06-30,분기말 종가,34.92,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/EBAY?interval=1d&events=splits (2017-06-30),,11
+eBay,EBAY,2017Q2,2017-07-17,분기말 상장주식수,1070315519,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/1065088/000106508817000029/,dei:EntityCommonStockSharesOutstanding 클래스 합,11
+eBay,EBAY,2017Q2,2017-06-30,분기말 시가총액,37375417923,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/EBAY?interval=1d&events=splits (2017-06-30) ; https://www.sec.gov/Archives/edgar/data/1065088/000106508817000029/,종가 34.92 × 주식수 1070315519,11
+eBay,EBAY,2017Q3,2017-09-30,분기별 매출액,2409000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1065088/000106508817000051/,,11
+eBay,EBAY,2017Q3,2017-09-30,분기별 영업이익,578000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1065088/000106508817000051/,,11
+eBay,EBAY,2017Q3,2017-09-30,분기별 당기순이익(지배),523000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1065088/000106508817000051/,,11
+eBay,EBAY,2017Q3,2017-09-30,분기별 영업활동현금흐름,877000000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/1065088/000106508817000051/ ; https://www.sec.gov/Archives/edgar/data/1065088/000106508817000029/,누적 2158000000 − 직전누적 1281000000 (시작 2017-01-01),11
+eBay,EBAY,2017Q3,2017-09-30,분기말 자산총계,25943000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1065088/000106508817000051/,,11
+eBay,EBAY,2017Q3,2017-09-30,분기말 부채총계,14660000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1065088/000106508817000051/,,11
+eBay,EBAY,2017Q3,2017-09-30,분기말 총자본(자기자본),11283000000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/1065088/000106508817000051/,"StockholdersEquity, MinorityInterest 태그 없음",11
+eBay,EBAY,2017Q3,2017-09-30,분기말 지배지분 자본,11283000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1065088/000106508817000051/,,11
+eBay,EBAY,2017Q3,2017-09-29,분기말 종가,38.46,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/EBAY?interval=1d&events=splits (2017-09-29),,11
+eBay,EBAY,2017Q3,2017-10-16,분기말 상장주식수,1044571141,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/1065088/000106508817000051/,dei:EntityCommonStockSharesOutstanding 클래스 합,11
+eBay,EBAY,2017Q3,2017-09-29,분기말 시가총액,40174206083,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/EBAY?interval=1d&events=splits (2017-09-29) ; https://www.sec.gov/Archives/edgar/data/1065088/000106508817000051/,종가 38.46 × 주식수 1044571141,11
+eBay,EBAY,2017Q4,2017-12-31,분기별 매출액,2613000000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/1065088/000106508818000009/ ; https://www.sec.gov/Archives/edgar/data/1065088/000106508817000051/,연간 9567000000 − 9개월누적 6954000000 (SalesRevenueNet),11
+eBay,EBAY,2017Q4,2017-12-31,분기별 영업이익,663000000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/1065088/000106508818000009/ ; https://www.sec.gov/Archives/edgar/data/1065088/000106508817000051/,연간 2265000000 − 9개월누적 1602000000 (OperatingIncomeLoss),11
+eBay,EBAY,2017Q4,2017-12-31,분기별 당기순이익(지배),-2601000000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/1065088/000106508818000009/ ; https://www.sec.gov/Archives/edgar/data/1065088/000106508817000051/,연간 -1016000000 − 9개월누적 1585000000 (NetIncomeLoss),11
+eBay,EBAY,2017Q4,2017-12-31,분기별 영업활동현금흐름,988000000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/1065088/000106508818000009/ ; https://www.sec.gov/Archives/edgar/data/1065088/000106508817000051/,누적 3146000000 − 직전누적 2158000000 (시작 2017-01-01),11
+eBay,EBAY,2017Q4,2017-12-31,분기말 자산총계,25986000000,USD,공시(재작성 반영),https://www.sec.gov/Archives/edgar/data/1065088/000106508819000006/,원 공시 25981000000 (https://www.sec.gov/Archives/edgar/data/1065088/000106508818000009/),11
+eBay,EBAY,2017Q4,2017-12-31,분기말 부채총계,17937000000,USD,공시(재작성 반영),https://www.sec.gov/Archives/edgar/data/1065088/000106508819000006/,원 공시 17918000000 (https://www.sec.gov/Archives/edgar/data/1065088/000106508818000009/),11
+eBay,EBAY,2017Q4,2017-12-31,분기말 총자본(자기자본),8049000000,USD,공시(비지배 없음)(재작성 반영),https://www.sec.gov/Archives/edgar/data/1065088/000106508820000006/,"StockholdersEquity, MinorityInterest 태그 없음 ; 원 공시 8063000000 (https://www.sec.gov/Archives/edgar/data/1065088/000106508818000009/)",11
+eBay,EBAY,2017Q4,2017-12-31,분기말 지배지분 자본,8049000000,USD,공시(재작성 반영),https://www.sec.gov/Archives/edgar/data/1065088/000106508820000006/,원 공시 8063000000 (https://www.sec.gov/Archives/edgar/data/1065088/000106508818000009/),11
+eBay,EBAY,2017Q4,2017-12-29,분기말 종가,37.74,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/EBAY?interval=1d&events=splits (2017-12-29),,11
+eBay,EBAY,2017Q4,2018-01-29,분기말 상장주식수,1012079673,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/1065088/000106508818000009/,dei:EntityCommonStockSharesOutstanding 클래스 합,11
+eBay,EBAY,2017Q4,2017-12-29,분기말 시가총액,38195886859,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/EBAY?interval=1d&events=splits (2017-12-29) ; https://www.sec.gov/Archives/edgar/data/1065088/000106508818000009/,종가 37.74 × 주식수 1012079673,11
+eBay,EBAY,2018Q1,2018-03-31,분기별 매출액,2580000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1065088/000106508818000020/,,11
+eBay,EBAY,2018Q1,2018-03-31,분기별 영업이익,579000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1065088/000106508818000020/,,11
+eBay,EBAY,2018Q1,2018-03-31,분기별 당기순이익(지배),407000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1065088/000106508818000020/,,11
+eBay,EBAY,2018Q1,2018-03-31,분기별 영업활동현금흐름,495000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1065088/000106508818000020/,,11
+eBay,EBAY,2018Q1,2018-03-31,분기말 자산총계,24555000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1065088/000106508818000020/,,11
+eBay,EBAY,2018Q1,2018-03-31,분기말 부채총계,16959000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1065088/000106508818000020/,,11
+eBay,EBAY,2018Q1,2018-03-31,분기말 총자본(자기자본),7596000000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/1065088/000106508818000020/,"StockholdersEquity, MinorityInterest 태그 없음",11
+eBay,EBAY,2018Q1,2018-03-31,분기말 지배지분 자본,7596000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1065088/000106508818000020/,,11
+eBay,EBAY,2018Q1,2018-03-29,분기말 종가,40.24,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/EBAY?interval=1d&events=splits (2018-03-29),,11
+eBay,EBAY,2018Q1,2018-04-23,분기말 상장주식수,993978034,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/1065088/000106508818000020/,dei:EntityCommonStockSharesOutstanding 클래스 합,11
+eBay,EBAY,2018Q1,2018-03-29,분기말 시가총액,39997676088,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/EBAY?interval=1d&events=splits (2018-03-29) ; https://www.sec.gov/Archives/edgar/data/1065088/000106508818000020/,종가 40.24 × 주식수 993978034,11
+eBay,EBAY,2018Q2,2018-06-30,분기별 매출액,2640000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1065088/000106508818000032/,,11
+eBay,EBAY,2018Q2,2018-06-30,분기별 영업이익,406000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1065088/000106508818000032/,,11
+eBay,EBAY,2018Q2,2018-06-30,분기별 당기순이익(지배),642000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1065088/000106508818000032/,,11
+eBay,EBAY,2018Q2,2018-06-30,분기별 영업활동현금흐름,372000000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/1065088/000106508818000032/ ; https://www.sec.gov/Archives/edgar/data/1065088/000106508818000020/,누적 867000000 − 직전누적 495000000 (시작 2018-01-01),11
+eBay,EBAY,2018Q2,2018-06-30,분기말 자산총계,23988000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1065088/000106508818000032/,,11
+eBay,EBAY,2018Q2,2018-06-30,분기말 부채총계,16842000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1065088/000106508818000032/,,11
+eBay,EBAY,2018Q2,2018-06-30,분기말 총자본(자기자본),7146000000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/1065088/000106508818000032/,"StockholdersEquity, MinorityInterest 태그 없음",11
+eBay,EBAY,2018Q2,2018-06-30,분기말 지배지분 자본,7146000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1065088/000106508818000032/,,11
+eBay,EBAY,2018Q2,2018-06-29,분기말 종가,36.26,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/EBAY?interval=1d&events=splits (2018-06-29),,11
+eBay,EBAY,2018Q2,2018-07-16,분기말 상장주식수,989549611,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/1065088/000106508818000032/,dei:EntityCommonStockSharesOutstanding 클래스 합,11
+eBay,EBAY,2018Q2,2018-06-29,분기말 시가총액,35881068895,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/EBAY?interval=1d&events=splits (2018-06-29) ; https://www.sec.gov/Archives/edgar/data/1065088/000106508818000032/,종가 36.26 × 주식수 989549611,11
+eBay,EBAY,2018Q3,2018-09-30,분기별 매출액,2649000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1065088/000106508818000045/,,11
+eBay,EBAY,2018Q3,2018-09-30,분기별 영업이익,556000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1065088/000106508818000045/,,11
+eBay,EBAY,2018Q3,2018-09-30,분기별 당기순이익(지배),721000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1065088/000106508818000045/,,11
+eBay,EBAY,2018Q3,2018-09-30,분기별 영업활동현금흐름,558000000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/1065088/000106508818000045/ ; https://www.sec.gov/Archives/edgar/data/1065088/000106508818000032/,누적 1425000000 − 직전누적 867000000 (시작 2018-01-01),11
+eBay,EBAY,2018Q3,2018-09-30,분기말 자산총계,23652000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1065088/000106508818000045/,,11
+eBay,EBAY,2018Q3,2018-09-30,분기말 부채총계,16723000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1065088/000106508818000045/,,11
+eBay,EBAY,2018Q3,2018-09-30,분기말 총자본(자기자본),6929000000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/1065088/000106508818000045/,"StockholdersEquity, MinorityInterest 태그 없음",11
+eBay,EBAY,2018Q3,2018-09-30,분기말 지배지분 자본,6929000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1065088/000106508818000045/,,11
+eBay,EBAY,2018Q3,2018-09-28,분기말 종가,33.02,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/EBAY?interval=1d&events=splits (2018-09-28),,11
+eBay,EBAY,2018Q3,2018-10-29,분기말 상장주식수,962827199,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/1065088/000106508818000045/,dei:EntityCommonStockSharesOutstanding 클래스 합,11
+eBay,EBAY,2018Q3,2018-09-28,분기말 시가총액,31792554111,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/EBAY?interval=1d&events=splits (2018-09-28) ; https://www.sec.gov/Archives/edgar/data/1065088/000106508818000045/,종가 33.02 × 주식수 962827199,11
+eBay,EBAY,2018Q4,2018-12-31,분기별 매출액,2877000000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/1065088/000106508819000006/ ; https://www.sec.gov/Archives/edgar/data/1065088/000106508818000045/,연간 10746000000 − 9개월누적 7869000000 (RevenueFromContractWithCustomerExcludingAssessedTax),11
+eBay,EBAY,2018Q4,2018-12-31,분기별 영업이익,681000000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/1065088/000106508819000006/ ; https://www.sec.gov/Archives/edgar/data/1065088/000106508818000045/,연간 2222000000 − 9개월누적 1541000000 (OperatingIncomeLoss),11
+eBay,EBAY,2018Q4,2018-12-31,분기별 당기순이익(지배),760000000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/1065088/000106508819000006/ ; https://www.sec.gov/Archives/edgar/data/1065088/000106508818000045/,연간 2530000000 − 9개월누적 1770000000 (NetIncomeLoss),11
+eBay,EBAY,2018Q4,2018-12-31,분기별 영업활동현금흐름,1233000000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/1065088/000106508819000006/ ; https://www.sec.gov/Archives/edgar/data/1065088/000106508818000045/,누적 2658000000 − 직전누적 1425000000 (시작 2018-01-01),11
+eBay,EBAY,2018Q4,2018-12-31,분기말 자산총계,22819000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1065088/000106508819000006/,,11
+eBay,EBAY,2018Q4,2018-12-31,분기말 부채총계,16538000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1065088/000106508819000006/,,11
+eBay,EBAY,2018Q4,2018-12-31,분기말 총자본(자기자본),6281000000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/1065088/000106508819000006/,"StockholdersEquity, MinorityInterest 태그 없음",11
+eBay,EBAY,2018Q4,2018-12-31,분기말 지배지분 자본,6281000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1065088/000106508819000006/,,11
+eBay,EBAY,2018Q4,2018-12-31,분기말 종가,28.07,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/EBAY?interval=1d&events=splits (2018-12-31),,11
+eBay,EBAY,2018Q4,2019-01-25,분기말 상장주식수,914880451,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/1065088/000106508819000006/,dei:EntityCommonStockSharesOutstanding 클래스 합,11
+eBay,EBAY,2018Q4,2018-12-31,분기말 시가총액,25680694260,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/EBAY?interval=1d&events=splits (2018-12-31) ; https://www.sec.gov/Archives/edgar/data/1065088/000106508819000006/,종가 28.07 × 주식수 914880451,11
+eBay,EBAY,2019Q1,2019-03-31,분기별 매출액,2643000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1065088/000106508819000020/,,11
+eBay,EBAY,2019Q1,2019-03-31,분기별 영업이익,609000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1065088/000106508819000020/,,11
+eBay,EBAY,2019Q1,2019-03-31,분기별 당기순이익(지배),518000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1065088/000106508819000020/,,11
+eBay,EBAY,2019Q1,2019-03-31,분기별 영업활동현금흐름,550000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1065088/000106508819000020/,,11
+eBay,EBAY,2019Q1,2019-03-31,분기말 자산총계,22329000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1065088/000106508819000020/,,11
+eBay,EBAY,2019Q1,2019-03-31,분기말 부채총계,17126000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1065088/000106508819000020/,,11
+eBay,EBAY,2019Q1,2019-03-31,분기말 총자본(자기자본),5203000000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/1065088/000106508819000020/,"StockholdersEquity, MinorityInterest 태그 없음",11
+eBay,EBAY,2019Q1,2019-03-31,분기말 지배지분 자본,5203000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1065088/000106508819000020/,,11
+eBay,EBAY,2019Q1,2019-03-29,분기말 종가,37.14,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/EBAY?interval=1d&events=splits (2019-03-29),,11
+eBay,EBAY,2019Q1,2019-04-22,분기말 상장주식수,871527401,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/1065088/000106508819000020/,dei:EntityCommonStockSharesOutstanding 클래스 합,11
+eBay,EBAY,2019Q1,2019-03-29,분기말 시가총액,32368527673,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/EBAY?interval=1d&events=splits (2019-03-29) ; https://www.sec.gov/Archives/edgar/data/1065088/000106508819000020/,종가 37.14 × 주식수 871527401,11
+eBay,EBAY,2019Q2,2019-06-30,분기별 매출액,2687000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1065088/000106508819000036/,,11
+eBay,EBAY,2019Q2,2019-06-30,분기별 영업이익,561000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1065088/000106508819000036/,,11
+eBay,EBAY,2019Q2,2019-06-30,분기별 당기순이익(지배),402000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1065088/000106508819000036/,,11
+eBay,EBAY,2019Q2,2019-06-30,분기별 영업활동현금흐름,744000000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/1065088/000106508819000036/ ; https://www.sec.gov/Archives/edgar/data/1065088/000106508819000020/,누적 1294000000 − 직전누적 550000000 (시작 2019-01-01),11
+eBay,EBAY,2019Q2,2019-06-30,분기말 자산총계,21169000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1065088/000106508819000036/,,11
+eBay,EBAY,2019Q2,2019-06-30,분기말 부채총계,17063000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1065088/000106508819000036/,,11
+eBay,EBAY,2019Q2,2019-06-30,분기말 총자본(자기자본),4106000000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/1065088/000106508819000036/,"StockholdersEquity, MinorityInterest 태그 없음",11
+eBay,EBAY,2019Q2,2019-06-30,분기말 지배지분 자본,4106000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1065088/000106508819000036/,,11
+eBay,EBAY,2019Q2,2019-06-28,분기말 종가,39.5,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/EBAY?interval=1d&events=splits (2019-06-28),,11
+eBay,EBAY,2019Q2,2019-07-15,분기말 상장주식수,838763599,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/1065088/000106508819000036/,dei:EntityCommonStockSharesOutstanding 클래스 합,11
+eBay,EBAY,2019Q2,2019-06-28,분기말 시가총액,33131162160,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/EBAY?interval=1d&events=splits (2019-06-28) ; https://www.sec.gov/Archives/edgar/data/1065088/000106508819000036/,종가 39.5 × 주식수 838763599,11
+eBay,EBAY,2019Q3,2019-09-30,분기별 매출액,2649000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1065088/000106508819000043/,,11
+eBay,EBAY,2019Q3,2019-09-30,분기별 영업이익,532000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1065088/000106508819000043/,,11
+eBay,EBAY,2019Q3,2019-09-30,분기별 당기순이익(지배),310000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1065088/000106508819000043/,,11
+eBay,EBAY,2019Q3,2019-09-30,분기별 영업활동현금흐름,1009000000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/1065088/000106508819000043/ ; https://www.sec.gov/Archives/edgar/data/1065088/000106508819000036/,누적 2303000000 − 직전누적 1294000000 (시작 2019-01-01),11
+eBay,EBAY,2019Q3,2019-09-30,분기말 자산총계,18714000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1065088/000106508819000043/,,11
+eBay,EBAY,2019Q3,2019-09-30,분기말 부채총계,15444000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1065088/000106508819000043/,,11
+eBay,EBAY,2019Q3,2019-09-30,분기말 총자본(자기자본),3270000000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/1065088/000106508819000043/,"StockholdersEquity, MinorityInterest 태그 없음",11
+eBay,EBAY,2019Q3,2019-09-30,분기말 지배지분 자본,3270000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1065088/000106508819000043/,,11
+eBay,EBAY,2019Q3,2019-09-30,분기말 종가,38.98,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/EBAY?interval=1d&events=splits (2019-09-30),,11
+eBay,EBAY,2019Q3,2019-10-21,분기말 상장주식수,813525054,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/1065088/000106508819000043/,dei:EntityCommonStockSharesOutstanding 클래스 합,11
+eBay,EBAY,2019Q3,2019-09-30,분기말 시가총액,31711206605,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/EBAY?interval=1d&events=splits (2019-09-30) ; https://www.sec.gov/Archives/edgar/data/1065088/000106508819000043/,종가 38.98 × 주식수 813525054,11
+eBay,EBAY,2019Q4,2019-12-31,분기별 매출액,2821000000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/1065088/000106508820000006/ ; https://www.sec.gov/Archives/edgar/data/1065088/000106508819000043/,연간 10800000000 − 9개월누적 7979000000 (RevenueFromContractWithCustomerExcludingAssessedTax),11
+eBay,EBAY,2019Q4,2019-12-31,분기별 영업이익,619000000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/1065088/000106508820000006/ ; https://www.sec.gov/Archives/edgar/data/1065088/000106508819000043/,연간 2321000000 − 9개월누적 1702000000 (OperatingIncomeLoss),11
+eBay,EBAY,2019Q4,2019-12-31,분기별 당기순이익(지배),556000000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/1065088/000106508820000006/ ; https://www.sec.gov/Archives/edgar/data/1065088/000106508819000043/,연간 1786000000 − 9개월누적 1230000000 (NetIncomeLoss),11
+eBay,EBAY,2019Q4,2019-12-31,분기별 영업활동현금흐름,811000000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/1065088/000106508820000006/ ; https://www.sec.gov/Archives/edgar/data/1065088/000106508819000043/,누적 3114000000 − 직전누적 2303000000 (시작 2019-01-01),11
+eBay,EBAY,2019Q4,2019-12-31,분기말 자산총계,18174000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1065088/000106508820000006/,,11
+eBay,EBAY,2019Q4,2019-12-31,분기말 부채총계,15304000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1065088/000106508820000006/,,11
+eBay,EBAY,2019Q4,2019-12-31,분기말 총자본(자기자본),2870000000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/1065088/000106508820000006/,"StockholdersEquity, MinorityInterest 태그 없음",11
+eBay,EBAY,2019Q4,2019-12-31,분기말 지배지분 자본,2870000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1065088/000106508820000006/,,11
+eBay,EBAY,2019Q4,2019-12-31,분기말 종가,36.11,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/EBAY?interval=1d&events=splits (2019-12-31),,11
+eBay,EBAY,2019Q4,2020-04-15,분기말 상장주식수,700853307,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/1065088/000120677420001423/,dei:EntityCommonStockSharesOutstanding 클래스 합 ; 값은 XBRL 원문(companyfacts 미반영 보고서),11
+eBay,EBAY,2019Q4,2019-12-31,분기말 시가총액,25307812916,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/EBAY?interval=1d&events=splits (2019-12-31) ; https://www.sec.gov/Archives/edgar/data/1065088/000120677420001423/,종가 36.11 × 주식수 700853307 ; 값은 XBRL 원문(companyfacts 미반영 보고서),11
+eBay,EBAY,2020Q1,2020-03-31,분기별 매출액,2374000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1065088/000106508820000018/,,11
+eBay,EBAY,2020Q1,2020-03-31,분기별 영업이익,629000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1065088/000106508820000018/,,11
+eBay,EBAY,2020Q1,2020-03-31,분기별 당기순이익(지배),3412000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1065088/000106508820000018/,,11
+eBay,EBAY,2020Q1,2020-03-31,분기별 영업활동현금흐름,592000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1065088/000106508820000018/,,11
+eBay,EBAY,2020Q1,2020-03-31,분기말 자산총계,18929000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1065088/000106508820000018/,,11
+eBay,EBAY,2020Q1,2020-03-31,분기말 부채총계,16814000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1065088/000106508820000018/,,11
+eBay,EBAY,2020Q1,2020-03-31,분기말 총자본(자기자본),2115000000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/1065088/000106508820000018/,"StockholdersEquity, MinorityInterest 태그 없음",11
+eBay,EBAY,2020Q1,2020-03-31,분기말 지배지분 자본,2115000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1065088/000106508820000018/,,11
+eBay,EBAY,2020Q1,2020-03-31,분기말 종가,30.06,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/EBAY?interval=1d&events=splits (2020-03-31),,11
+eBay,EBAY,2020Q1,2020-04-27,분기말 상장주식수,700853258,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/1065088/000106508820000018/,dei:EntityCommonStockSharesOutstanding 클래스 합,11
+eBay,EBAY,2020Q1,2020-03-31,분기말 시가총액,21067648935,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/EBAY?interval=1d&events=splits (2020-03-31) ; https://www.sec.gov/Archives/edgar/data/1065088/000106508820000018/,종가 30.06 × 주식수 700853258,11
+eBay,EBAY,2020Q2,2020-06-30,분기별 매출액,2865000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1065088/000106508820000030/,,11
+eBay,EBAY,2020Q2,2020-06-30,분기별 영업이익,821000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1065088/000106508820000030/,,11
+eBay,EBAY,2020Q2,2020-06-30,분기별 당기순이익(지배),746000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1065088/000106508820000030/,,11
+eBay,EBAY,2020Q2,2020-06-30,분기별 영업활동현금흐름,964000000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/1065088/000106508820000030/ ; https://www.sec.gov/Archives/edgar/data/1065088/000106508820000018/,누적 1556000000 − 직전누적 592000000 (시작 2020-01-01),11
+eBay,EBAY,2020Q2,2020-06-30,분기말 자산총계,20014000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1065088/000106508820000030/,,11
+eBay,EBAY,2020Q2,2020-06-30,분기말 부채총계,17112000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1065088/000106508820000030/,,11
+eBay,EBAY,2020Q2,2020-06-30,분기말 총자본(자기자본),2902000000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/1065088/000106508820000030/,"StockholdersEquity, MinorityInterest 태그 없음",11
+eBay,EBAY,2020Q2,2020-06-30,분기말 지배지분 자본,2902000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1065088/000106508820000030/,,11
+eBay,EBAY,2020Q2,2020-06-30,분기말 종가,52.45,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/EBAY?interval=1d&events=splits (2020-06-30),,11
+eBay,EBAY,2020Q2,2020-07-27,분기말 상장주식수,699881116,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/1065088/000106508820000030/,dei:EntityCommonStockSharesOutstanding 클래스 합,11
+eBay,EBAY,2020Q2,2020-06-30,분기말 시가총액,36708764534,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/EBAY?interval=1d&events=splits (2020-06-30) ; https://www.sec.gov/Archives/edgar/data/1065088/000106508820000030/,종가 52.45 × 주식수 699881116,11
+eBay,EBAY,2020Q3,2020-09-30,분기별 매출액,2606000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1065088/000106508820000039/,,11
+eBay,EBAY,2020Q3,2020-09-30,분기별 영업이익,679000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1065088/000106508820000039/,,11
+eBay,EBAY,2020Q3,2020-09-30,분기별 당기순이익(지배),664000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1065088/000106508820000039/,,11
+eBay,EBAY,2020Q3,2020-09-30,분기별 영업활동현금흐름,105000000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/1065088/000106508820000039/ ; https://www.sec.gov/Archives/edgar/data/1065088/000106508820000030/,누적 1661000000 − 직전누적 1556000000 (시작 2020-01-01),11
+eBay,EBAY,2020Q3,2020-09-30,분기말 자산총계,18421000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1065088/000106508820000039/,,11
+eBay,EBAY,2020Q3,2020-09-30,분기말 부채총계,15501000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1065088/000106508820000039/,,11
+eBay,EBAY,2020Q3,2020-09-30,분기말 총자본(자기자본),2920000000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/1065088/000106508820000039/,"StockholdersEquity, MinorityInterest 태그 없음",11
+eBay,EBAY,2020Q3,2020-09-30,분기말 지배지분 자본,2920000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1065088/000106508820000039/,,11
+eBay,EBAY,2020Q3,2020-09-30,분기말 종가,52.1,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/EBAY?interval=1d&events=splits (2020-09-30),,11
+eBay,EBAY,2020Q3,2020-10-26,분기말 상장주식수,689338530,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/1065088/000106508820000039/,dei:EntityCommonStockSharesOutstanding 클래스 합,11
+eBay,EBAY,2020Q3,2020-09-30,분기말 시가총액,35914537413,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/EBAY?interval=1d&events=splits (2020-09-30) ; https://www.sec.gov/Archives/edgar/data/1065088/000106508820000039/,종가 52.1 × 주식수 689338530,11
+eBay,EBAY,2020Q4,2020-12-31,분기별 매출액,2868000000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/1065088/000106508821000006/ ; https://www.sec.gov/Archives/edgar/data/1065088/000106508820000039/,연간 10271000000 − 9개월누적 7403000000 (RevenueFromContractWithCustomerExcludingAssessedTax),11
+eBay,EBAY,2020Q4,2020-12-31,분기별 영업이익,677000000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/1065088/000106508821000006/ ; https://www.sec.gov/Archives/edgar/data/1065088/000106508820000039/,연간 2711000000 − 9개월누적 2034000000 (OperatingIncomeLoss),11
+eBay,EBAY,2020Q4,2020-12-31,분기별 당기순이익(지배),845000000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/1065088/000106508821000006/ ; https://www.sec.gov/Archives/edgar/data/1065088/000106508820000039/,연간 5667000000 − 9개월누적 4822000000 (NetIncomeLoss),11
+eBay,EBAY,2020Q4,2020-12-31,분기별 영업활동현금흐름,758000000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/1065088/000106508821000006/ ; https://www.sec.gov/Archives/edgar/data/1065088/000106508820000039/,누적 2419000000 − 직전누적 1661000000 (시작 2020-01-01),11
+eBay,EBAY,2020Q4,2020-12-31,분기말 자산총계,19310000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1065088/000106508821000006/,,11
+eBay,EBAY,2020Q4,2020-12-31,분기말 부채총계,15749000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1065088/000106508821000006/,,11
+eBay,EBAY,2020Q4,2020-12-31,분기말 총자본(자기자본),3561000000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/1065088/000106508821000006/,"StockholdersEquity, MinorityInterest 태그 없음",11
+eBay,EBAY,2020Q4,2020-12-31,분기말 지배지분 자본,3561000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1065088/000106508821000006/,,11
+eBay,EBAY,2020Q4,2020-12-31,분기말 종가,50.25,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/EBAY?interval=1d&events=splits (2020-12-31),,11
+eBay,EBAY,2020Q4,2021-02-01,분기말 상장주식수,680445767,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/1065088/000106508821000006/,dei:EntityCommonStockSharesOutstanding 클래스 합,11
+eBay,EBAY,2020Q4,2020-12-31,분기말 시가총액,34192399792,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/EBAY?interval=1d&events=splits (2020-12-31) ; https://www.sec.gov/Archives/edgar/data/1065088/000106508821000006/,종가 50.25 × 주식수 680445767,11
+eBay,EBAY,2021Q1,2021-03-31,분기별 매출액,3023000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1065088/000106508821000012/,,11
+eBay,EBAY,2021Q1,2021-03-31,분기별 영업이익,842000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1065088/000106508821000012/,,11
+eBay,EBAY,2021Q1,2021-03-31,분기별 당기순이익(지배),641000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1065088/000106508821000012/,,11
+eBay,EBAY,2021Q1,2021-03-31,분기별 영업활동현금흐름,1042000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1065088/000106508821000012/,,11
+eBay,EBAY,2021Q1,2021-03-31,분기말 자산총계,18731000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1065088/000106508821000012/,,11
+eBay,EBAY,2021Q1,2021-03-31,분기말 부채총계,14961000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1065088/000106508821000012/,,11
+eBay,EBAY,2021Q1,2021-03-31,분기말 총자본(자기자본),3770000000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/1065088/000106508821000012/,"StockholdersEquity, MinorityInterest 태그 없음",11
+eBay,EBAY,2021Q1,2021-03-31,분기말 지배지분 자본,3770000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1065088/000106508821000012/,,11
+eBay,EBAY,2021Q1,2021-03-31,분기말 종가,61.24,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/EBAY?interval=1d&events=splits (2021-03-31),,11
+eBay,EBAY,2021Q1,2021-04-26,분기말 상장주식수,681261636,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/1065088/000106508821000012/,dei:EntityCommonStockSharesOutstanding 클래스 합,11
+eBay,EBAY,2021Q1,2021-03-31,분기말 시가총액,41720462589,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/EBAY?interval=1d&events=splits (2021-03-31) ; https://www.sec.gov/Archives/edgar/data/1065088/000106508821000012/,종가 61.24 × 주식수 681261636,11
+eBay,EBAY,2021Q2,2021-06-30,분기별 매출액,2668000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1065088/000106508821000030/,,11
+eBay,EBAY,2021Q2,2021-06-30,분기별 영업이익,732000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1065088/000106508821000030/,,11
+eBay,EBAY,2021Q2,2021-06-30,분기별 당기순이익(지배),10734000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1065088/000106508821000030/,,11
+eBay,EBAY,2021Q2,2021-06-30,분기별 영업활동현금흐름,1067000000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/1065088/000106508821000030/ ; https://www.sec.gov/Archives/edgar/data/1065088/000106508821000012/,누적 2109000000 − 직전누적 1042000000 (시작 2021-01-01),11
+eBay,EBAY,2021Q2,2021-06-30,분기말 자산총계,31823000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1065088/000106508821000030/,,11
+eBay,EBAY,2021Q2,2021-06-30,분기말 부채총계,18807000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1065088/000106508821000030/,,11
+eBay,EBAY,2021Q2,2021-06-30,분기말 총자본(자기자본),13016000000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/1065088/000106508821000030/,"StockholdersEquity, MinorityInterest 태그 없음",11
+eBay,EBAY,2021Q2,2021-06-30,분기말 지배지분 자본,13016000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1065088/000106508821000030/,,11
+eBay,EBAY,2021Q2,2021-06-30,분기말 종가,70.21,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/EBAY?interval=1d&events=splits (2021-06-30),,11
+eBay,EBAY,2021Q2,2021-08-09,분기말 상장주식수,650055805,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/1065088/000106508821000030/,dei:EntityCommonStockSharesOutstanding 클래스 합,11
+eBay,EBAY,2021Q2,2021-06-30,분기말 시가총액,45640418069,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/EBAY?interval=1d&events=splits (2021-06-30) ; https://www.sec.gov/Archives/edgar/data/1065088/000106508821000030/,종가 70.21 × 주식수 650055805,11
+eBay,EBAY,2021Q3,2021-09-30,분기별 매출액,2501000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1065088/000106508821000040/,,11
+eBay,EBAY,2021Q3,2021-09-30,분기별 영업이익,662000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1065088/000106508821000040/,,11
+eBay,EBAY,2021Q3,2021-09-30,분기별 당기순이익(지배),264000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1065088/000106508821000040/,,11
+eBay,EBAY,2021Q3,2021-09-30,분기별 영업활동현금흐름,255000000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/1065088/000106508821000040/ ; https://www.sec.gov/Archives/edgar/data/1065088/000106508821000030/,누적 2364000000 − 직전누적 2109000000 (시작 2021-01-01),11
+eBay,EBAY,2021Q3,2021-09-30,분기말 자산총계,29257000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1065088/000106508821000040/,,11
+eBay,EBAY,2021Q3,2021-09-30,분기말 부채총계,18312000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1065088/000106508821000040/,,11
+eBay,EBAY,2021Q3,2021-09-30,분기말 총자본(자기자본),10945000000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/1065088/000106508821000040/,"StockholdersEquity, MinorityInterest 태그 없음",11
+eBay,EBAY,2021Q3,2021-09-30,분기말 지배지분 자본,10945000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1065088/000106508821000040/,,11
+eBay,EBAY,2021Q3,2021-09-30,분기말 종가,69.67,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/EBAY?interval=1d&events=splits (2021-09-30),,11
+eBay,EBAY,2021Q3,2021-10-25,분기말 상장주식수,626003781,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/1065088/000106508821000040/,dei:EntityCommonStockSharesOutstanding 클래스 합,11
+eBay,EBAY,2021Q3,2021-09-30,분기말 시가총액,43613683422,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/EBAY?interval=1d&events=splits (2021-09-30) ; https://www.sec.gov/Archives/edgar/data/1065088/000106508821000040/,종가 69.67 × 주식수 626003781,11
+eBay,EBAY,2021Q4,2021-12-31,분기별 매출액,2613000000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/1065088/000106508822000006/ ; https://www.sec.gov/Archives/edgar/data/1065088/000106508821000040/,연간 10420000000 − 9개월누적 7807000000 (RevenueFromContractWithCustomerExcludingAssessedTax),11
+eBay,EBAY,2021Q4,2021-12-31,분기별 영업이익,688000000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/1065088/000106508822000006/ ; https://www.sec.gov/Archives/edgar/data/1065088/000106508821000040/,연간 2923000000 − 9개월누적 2235000000 (OperatingIncomeLoss),11
+eBay,EBAY,2021Q4,2021-12-31,분기별 당기순이익(지배),1969000000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/1065088/000106508822000006/ ; https://www.sec.gov/Archives/edgar/data/1065088/000106508821000040/,연간 13608000000 − 9개월누적 11639000000 (NetIncomeLoss),11
+eBay,EBAY,2021Q4,2021-12-31,분기별 영업활동현금흐름,293000000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/1065088/000106508822000006/ ; https://www.sec.gov/Archives/edgar/data/1065088/000106508821000040/,누적 2657000000 − 직전누적 2364000000 (시작 2021-01-01),11
+eBay,EBAY,2021Q4,2021-12-31,분기말 자산총계,26626000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1065088/000106508822000006/,,11
+eBay,EBAY,2021Q4,2021-12-31,분기말 부채총계,16848000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1065088/000106508822000006/,,11
+eBay,EBAY,2021Q4,2021-12-31,분기말 총자본(자기자본),9778000000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/1065088/000106508822000006/,"StockholdersEquity, MinorityInterest 태그 없음",11
+eBay,EBAY,2021Q4,2021-12-31,분기말 지배지분 자본,9778000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1065088/000106508822000006/,,11
+eBay,EBAY,2021Q4,2021-12-31,분기말 종가,66.5,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/EBAY?interval=1d&events=splits (2021-12-31),,11
+eBay,EBAY,2021Q4,2022-05-02,분기말 상장주식수,559842135,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/1065088/000106508822000017/,dei:EntityCommonStockSharesOutstanding 클래스 합 ; 값은 XBRL 원문(companyfacts 미반영 보고서),11
+eBay,EBAY,2021Q4,2021-12-31,분기말 시가총액,37229501978,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/EBAY?interval=1d&events=splits (2021-12-31) ; https://www.sec.gov/Archives/edgar/data/1065088/000106508822000017/,종가 66.5 × 주식수 559842135 ; 값은 XBRL 원문(companyfacts 미반영 보고서),11
+eBay,EBAY,2022Q1,2022-03-31,분기별 매출액,2483000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1065088/000106508822000013/,,11
+eBay,EBAY,2022Q1,2022-03-31,분기별 영업이익,692000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1065088/000106508822000013/,,11
+eBay,EBAY,2022Q1,2022-03-31,분기별 당기순이익(지배),-1341000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1065088/000106508822000013/,,11
+eBay,EBAY,2022Q1,2022-03-31,분기별 영업활동현금흐름,613000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1065088/000106508822000013/,,11
+eBay,EBAY,2022Q1,2022-03-31,분기말 자산총계,22980000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1065088/000106508822000013/,,11
+eBay,EBAY,2022Q1,2022-03-31,분기말 부채총계,15926000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1065088/000106508822000013/,,11
+eBay,EBAY,2022Q1,2022-03-31,분기말 총자본(자기자본),7054000000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/1065088/000106508822000013/,"StockholdersEquity, MinorityInterest 태그 없음",11
+eBay,EBAY,2022Q1,2022-03-31,분기말 지배지분 자본,7054000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1065088/000106508822000013/,,11
+eBay,EBAY,2022Q1,2022-03-31,분기말 종가,57.26,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/EBAY?interval=1d&events=splits (2022-03-31),,11
+eBay,EBAY,2022Q1,2022-05-02,분기말 상장주식수,559842135,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/1065088/000106508822000013/,dei:EntityCommonStockSharesOutstanding 클래스 합,11
+eBay,EBAY,2022Q1,2022-03-31,분기말 시가총액,32056560650,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/EBAY?interval=1d&events=splits (2022-03-31) ; https://www.sec.gov/Archives/edgar/data/1065088/000106508822000013/,종가 57.26 × 주식수 559842135,11
+eBay,EBAY,2022Q2,2022-06-30,분기별 매출액,2422000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1065088/000106508822000022/,,11
+eBay,EBAY,2022Q2,2022-06-30,분기별 영업이익,525000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1065088/000106508822000022/,,11
+eBay,EBAY,2022Q2,2022-06-30,분기별 당기순이익(지배),-531000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1065088/000106508822000022/,,11
+eBay,EBAY,2022Q2,2022-06-30,분기별 영업활동현금흐름,228000000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/1065088/000106508822000022/ ; https://www.sec.gov/Archives/edgar/data/1065088/000106508822000013/,누적 841000000 − 직전누적 613000000 (시작 2022-01-01),11
+eBay,EBAY,2022Q2,2022-06-30,분기말 자산총계,19653000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1065088/000106508822000022/,,11
+eBay,EBAY,2022Q2,2022-06-30,분기말 부채총계,14410000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1065088/000106508822000022/,,11
+eBay,EBAY,2022Q2,2022-06-30,분기말 총자본(자기자본),5243000000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/1065088/000106508822000022/,"StockholdersEquity, MinorityInterest 태그 없음",11
+eBay,EBAY,2022Q2,2022-06-30,분기말 지배지분 자본,5243000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1065088/000106508822000022/,,11
+eBay,EBAY,2022Q2,2022-06-30,분기말 종가,41.67,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/EBAY?interval=1d&events=splits (2022-06-30),,11
+eBay,EBAY,2022Q2,2022-08-01,분기말 상장주식수,549367835,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/1065088/000106508822000022/,dei:EntityCommonStockSharesOutstanding 클래스 합,11
+eBay,EBAY,2022Q2,2022-06-30,분기말 시가총액,22892157684,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/EBAY?interval=1d&events=splits (2022-06-30) ; https://www.sec.gov/Archives/edgar/data/1065088/000106508822000022/,종가 41.67 × 주식수 549367835,11
+eBay,EBAY,2022Q3,2022-09-30,분기별 매출액,2380000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1065088/000106508822000030/,,11
+eBay,EBAY,2022Q3,2022-09-30,분기별 영업이익,568000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1065088/000106508822000030/,,11
+eBay,EBAY,2022Q3,2022-09-30,분기별 당기순이익(지배),-69000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1065088/000106508822000030/,,11
+eBay,EBAY,2022Q3,2022-09-30,분기별 영업활동현금흐름,729000000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/1065088/000106508822000030/ ; https://www.sec.gov/Archives/edgar/data/1065088/000106508822000022/,누적 1570000000 − 직전누적 841000000 (시작 2022-01-01),11
+eBay,EBAY,2022Q3,2022-09-30,분기말 자산총계,19097000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1065088/000106508822000030/,,11
+eBay,EBAY,2022Q3,2022-09-30,분기말 부채총계,14244000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1065088/000106508822000030/,,11
+eBay,EBAY,2022Q3,2022-09-30,분기말 총자본(자기자본),4853000000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/1065088/000106508822000030/,"StockholdersEquity, MinorityInterest 태그 없음",11
+eBay,EBAY,2022Q3,2022-09-30,분기말 지배지분 자본,4853000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1065088/000106508822000030/,,11
+eBay,EBAY,2022Q3,2022-09-30,분기말 종가,36.81,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/EBAY?interval=1d&events=splits (2022-09-30),,11
+eBay,EBAY,2022Q3,2022-11-01,분기말 상장주식수,542659087,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/1065088/000106508822000030/,dei:EntityCommonStockSharesOutstanding 클래스 합,11
+eBay,EBAY,2022Q3,2022-09-30,분기말 시가총액,19975280992,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/EBAY?interval=1d&events=splits (2022-09-30) ; https://www.sec.gov/Archives/edgar/data/1065088/000106508822000030/,종가 36.81 × 주식수 542659087,11
+eBay,EBAY,2022Q4,2022-12-31,분기별 매출액,2510000000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/1065088/000106508823000006/ ; https://www.sec.gov/Archives/edgar/data/1065088/000106508822000030/,연간 9795000000 − 9개월누적 7285000000 (RevenueFromContractWithCustomerExcludingAssessedTax),11
+eBay,EBAY,2022Q4,2022-12-31,분기별 영업이익,565000000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/1065088/000106508823000006/ ; https://www.sec.gov/Archives/edgar/data/1065088/000106508822000030/,연간 2350000000 − 9개월누적 1785000000 (OperatingIncomeLoss),11
+eBay,EBAY,2022Q4,2022-12-31,분기별 당기순이익(지배),672000000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/1065088/000106508823000006/ ; https://www.sec.gov/Archives/edgar/data/1065088/000106508822000030/,연간 -1269000000 − 9개월누적 -1941000000 (NetIncomeLoss),11
+eBay,EBAY,2022Q4,2022-12-31,분기별 영업활동현금흐름,684000000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/1065088/000106508823000006/ ; https://www.sec.gov/Archives/edgar/data/1065088/000106508822000030/,누적 2254000000 − 직전누적 1570000000 (시작 2022-01-01),11
+eBay,EBAY,2022Q4,2022-12-31,분기말 자산총계,20850000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1065088/000106508823000006/,,11
+eBay,EBAY,2022Q4,2022-12-31,분기말 부채총계,15697000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1065088/000106508823000006/,,11
+eBay,EBAY,2022Q4,2022-12-31,분기말 총자본(자기자본),5153000000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/1065088/000106508823000006/,"StockholdersEquity, MinorityInterest 태그 없음",11
+eBay,EBAY,2022Q4,2022-12-31,분기말 지배지분 자본,5153000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1065088/000106508823000006/,,11
+eBay,EBAY,2022Q4,2022-12-30,분기말 종가,41.47,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/EBAY?interval=1d&events=splits (2022-12-30),,11
+eBay,EBAY,2022Q4,2023-05-09,분기말 상장주식수,534736900,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/1065088/000106508823000015/,dei:EntityCommonStockSharesOutstanding 클래스 합 ; 값은 XBRL 원문(companyfacts 미반영 보고서),11
+eBay,EBAY,2022Q4,2022-12-30,분기말 시가총액,22175539243,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/EBAY?interval=1d&events=splits (2022-12-30) ; https://www.sec.gov/Archives/edgar/data/1065088/000106508823000015/,종가 41.47 × 주식수 534736900 ; 값은 XBRL 원문(companyfacts 미반영 보고서),11
+eBay,EBAY,2023Q1,2023-03-31,분기별 매출액,2510000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1065088/000162828023013570/,,11
+eBay,EBAY,2023Q1,2023-03-31,분기별 영업이익,558000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1065088/000162828023013570/,,11
+eBay,EBAY,2023Q1,2023-03-31,분기별 당기순이익(지배),567000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1065088/000162828023013570/,,11
+eBay,EBAY,2023Q1,2023-03-31,분기별 영업활동현금흐름,841000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1065088/000162828023013570/,,11
+eBay,EBAY,2023Q1,2023-03-31,분기말 자산총계,20004000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1065088/000162828023013570/,,11
+eBay,EBAY,2023Q1,2023-03-31,분기말 부채총계,14617000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1065088/000162828023013570/,,11
+eBay,EBAY,2023Q1,2023-03-31,분기말 총자본(자기자본),5387000000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/1065088/000162828023013570/,"StockholdersEquity, MinorityInterest 태그 없음",11
+eBay,EBAY,2023Q1,2023-03-31,분기말 지배지분 자본,5387000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1065088/000162828023013570/,,11
+eBay,EBAY,2023Q1,2023-03-31,분기말 종가,44.37,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/EBAY?interval=1d&events=splits (2023-03-31),,11
+eBay,EBAY,2023Q1,2023-04-24,분기말 상장주식수,534503131,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/1065088/000162828023013570/,dei:EntityCommonStockSharesOutstanding 클래스 합,11
+eBay,EBAY,2023Q1,2023-03-31,분기말 시가총액,23715903922,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/EBAY?interval=1d&events=splits (2023-03-31) ; https://www.sec.gov/Archives/edgar/data/1065088/000162828023013570/,종가 44.37 × 주식수 534503131,11
+eBay,EBAY,2023Q2,2023-06-30,분기별 매출액,2540000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1065088/000106508823000026/,,11
+eBay,EBAY,2023Q2,2023-06-30,분기별 영업이익,518000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1065088/000106508823000026/,,11
+eBay,EBAY,2023Q2,2023-06-30,분기별 당기순이익(지배),171000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1065088/000106508823000026/,,11
+eBay,EBAY,2023Q2,2023-06-30,분기별 영업활동현금흐름,601000000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/1065088/000106508823000026/ ; https://www.sec.gov/Archives/edgar/data/1065088/000162828023013570/,누적 1442000000 − 직전누적 841000000 (시작 2023-01-01),11
+eBay,EBAY,2023Q2,2023-06-30,분기말 자산총계,19956000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1065088/000106508823000026/,,11
+eBay,EBAY,2023Q2,2023-06-30,분기말 부채총계,14688000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1065088/000106508823000026/,,11
+eBay,EBAY,2023Q2,2023-06-30,분기말 총자본(자기자본),5268000000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/1065088/000106508823000026/,"StockholdersEquity, MinorityInterest 태그 없음",11
+eBay,EBAY,2023Q2,2023-06-30,분기말 지배지분 자본,5268000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1065088/000106508823000026/,,11
+eBay,EBAY,2023Q2,2023-06-30,분기말 종가,44.69,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/EBAY?interval=1d&events=splits (2023-06-30),,11
+eBay,EBAY,2023Q2,2023-07-24,분기말 상장주식수,532157390,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/1065088/000106508823000026/,dei:EntityCommonStockSharesOutstanding 클래스 합,11
+eBay,EBAY,2023Q2,2023-06-30,분기말 시가총액,23782113759,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/EBAY?interval=1d&events=splits (2023-06-30) ; https://www.sec.gov/Archives/edgar/data/1065088/000106508823000026/,종가 44.69 × 주식수 532157390,11
+eBay,EBAY,2023Q3,2023-09-30,분기별 매출액,2500000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1065088/000106508823000038/,,11
+eBay,EBAY,2023Q3,2023-09-30,분기별 영업이익,455000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1065088/000106508823000038/,,11
+eBay,EBAY,2023Q3,2023-09-30,분기별 당기순이익(지배),1305000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1065088/000106508823000038/,,11
+eBay,EBAY,2023Q3,2023-09-30,분기별 영업활동현금흐름,862000000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/1065088/000106508823000038/ ; https://www.sec.gov/Archives/edgar/data/1065088/000106508823000026/,누적 2304000000 − 직전누적 1442000000 (시작 2023-01-01),11
+eBay,EBAY,2023Q3,2023-09-30,분기말 자산총계,21184000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1065088/000106508823000038/,,11
+eBay,EBAY,2023Q3,2023-09-30,분기말 부채총계,15285000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1065088/000106508823000038/,,11
+eBay,EBAY,2023Q3,2023-09-30,분기말 총자본(자기자본),5899000000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/1065088/000106508823000038/,"StockholdersEquity, MinorityInterest 태그 없음",11
+eBay,EBAY,2023Q3,2023-09-30,분기말 지배지분 자본,5899000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1065088/000106508823000038/,,11
+eBay,EBAY,2023Q3,2023-09-29,분기말 종가,44.09,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/EBAY?interval=1d&events=splits (2023-09-29),,11
+eBay,EBAY,2023Q3,2023-11-03,분기말 상장주식수,519000000,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/1065088/000106508823000038/,dei:EntityCommonStockSharesOutstanding 클래스 합,11
+eBay,EBAY,2023Q3,2023-09-29,분기말 시가총액,22882710000,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/EBAY?interval=1d&events=splits (2023-09-29) ; https://www.sec.gov/Archives/edgar/data/1065088/000106508823000038/,종가 44.09 × 주식수 519000000,11
+eBay,EBAY,2023Q4,2023-12-31,분기별 매출액,2562000000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/1065088/000106508824000036/ ; https://www.sec.gov/Archives/edgar/data/1065088/000106508823000038/,연간 10112000000 − 9개월누적 7550000000 (RevenueFromContractWithCustomerExcludingAssessedTax),11
+eBay,EBAY,2023Q4,2023-12-31,분기별 영업이익,410000000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/1065088/000106508824000036/ ; https://www.sec.gov/Archives/edgar/data/1065088/000106508823000038/,연간 1941000000 − 9개월누적 1531000000 (OperatingIncomeLoss),11
+eBay,EBAY,2023Q4,2023-12-31,분기별 당기순이익(지배),724000000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/1065088/000106508824000036/ ; https://www.sec.gov/Archives/edgar/data/1065088/000106508823000038/,연간 2767000000 − 9개월누적 2043000000 (NetIncomeLoss),11
+eBay,EBAY,2023Q4,2023-12-31,분기별 영업활동현금흐름,122000000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/1065088/000106508824000036/ ; https://www.sec.gov/Archives/edgar/data/1065088/000106508823000038/,누적 2426000000 − 직전누적 2304000000 (시작 2023-01-01),11
+eBay,EBAY,2023Q4,2023-12-31,분기말 자산총계,21620000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1065088/000106508824000036/,,11
+eBay,EBAY,2023Q4,2023-12-31,분기말 부채총계,15224000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1065088/000106508824000036/,,11
+eBay,EBAY,2023Q4,2023-12-31,분기말 총자본(자기자본),6396000000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/1065088/000106508824000036/,"StockholdersEquity, MinorityInterest 태그 없음",11
+eBay,EBAY,2023Q4,2023-12-31,분기말 지배지분 자본,6396000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1065088/000106508824000036/,,11
+eBay,EBAY,2023Q4,2023-12-29,분기말 종가,43.62,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/EBAY?interval=1d&events=splits (2023-12-29),,11
+eBay,EBAY,2023Q4,2024-05-24,분기말 상장주식수,502000000,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/1065088/000106508824000094/,dei:EntityCommonStockSharesOutstanding 클래스 합 ; 값은 XBRL 원문(companyfacts 미반영 보고서),11
+eBay,EBAY,2023Q4,2023-12-29,분기말 시가총액,21897240000,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/EBAY?interval=1d&events=splits (2023-12-29) ; https://www.sec.gov/Archives/edgar/data/1065088/000106508824000094/,종가 43.62 × 주식수 502000000 ; 값은 XBRL 원문(companyfacts 미반영 보고서),11
+eBay,EBAY,2024Q1,2024-03-31,분기별 매출액,2556000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1065088/000106508824000076/,,11
+eBay,EBAY,2024Q1,2024-03-31,분기별 영업이익,631000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1065088/000106508824000076/,,11
+eBay,EBAY,2024Q1,2024-03-31,분기별 당기순이익(지배),438000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1065088/000106508824000076/,,11
+eBay,EBAY,2024Q1,2024-03-31,분기별 영업활동현금흐름,615000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1065088/000106508824000076/,,11
+eBay,EBAY,2024Q1,2024-03-31,분기말 자산총계,21418000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1065088/000106508824000076/,,11
+eBay,EBAY,2024Q1,2024-03-31,분기말 부채총계,15145000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1065088/000106508824000076/,,11
+eBay,EBAY,2024Q1,2024-03-31,분기말 총자본(자기자본),6273000000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/1065088/000106508824000076/,"StockholdersEquity, MinorityInterest 태그 없음",11
+eBay,EBAY,2024Q1,2024-03-31,분기말 지배지분 자본,6273000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1065088/000106508824000076/,,11
+eBay,EBAY,2024Q1,2024-03-28,분기말 종가,52.78,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/EBAY?interval=1d&events=splits (2024-03-28),,11
+eBay,EBAY,2024Q1,2024-04-29,분기말 상장주식수,506000000,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/1065088/000106508824000076/,dei:EntityCommonStockSharesOutstanding 클래스 합,11
+eBay,EBAY,2024Q1,2024-03-28,분기말 시가총액,26706680000,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/EBAY?interval=1d&events=splits (2024-03-28) ; https://www.sec.gov/Archives/edgar/data/1065088/000106508824000076/,종가 52.78 × 주식수 506000000,11
+eBay,EBAY,2024Q2,2024-06-30,분기별 매출액,2572000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1065088/000106508824000145/,,11
+eBay,EBAY,2024Q2,2024-06-30,분기별 영업이익,549000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1065088/000106508824000145/,,11
+eBay,EBAY,2024Q2,2024-06-30,분기별 당기순이익(지배),224000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1065088/000106508824000145/,,11
+eBay,EBAY,2024Q2,2024-06-30,분기별 영업활동현금흐름,367000000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/1065088/000106508824000145/ ; https://www.sec.gov/Archives/edgar/data/1065088/000106508824000076/,누적 982000000 − 직전누적 615000000 (시작 2024-01-01),11
+eBay,EBAY,2024Q2,2024-06-30,분기말 자산총계,20378000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1065088/000106508824000145/,,11
+eBay,EBAY,2024Q2,2024-06-30,분기말 부채총계,14853000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1065088/000106508824000145/,,11
+eBay,EBAY,2024Q2,2024-06-30,분기말 총자본(자기자본),5525000000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/1065088/000106508824000145/,"StockholdersEquity, MinorityInterest 태그 없음",11
+eBay,EBAY,2024Q2,2024-06-30,분기말 지배지분 자본,5525000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1065088/000106508824000145/,,11
+eBay,EBAY,2024Q2,2024-06-28,분기말 종가,53.72,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/EBAY?interval=1d&events=splits (2024-06-28),,11
+eBay,EBAY,2024Q2,2024-07-26,분기말 상장주식수,489000000,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/1065088/000106508824000145/,dei:EntityCommonStockSharesOutstanding 클래스 합,11
+eBay,EBAY,2024Q2,2024-06-28,분기말 시가총액,26269080000,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/EBAY?interval=1d&events=splits (2024-06-28) ; https://www.sec.gov/Archives/edgar/data/1065088/000106508824000145/,종가 53.72 × 주식수 489000000,11
+eBay,EBAY,2024Q3,2024-09-30,분기별 매출액,2576000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1065088/000106508824000199/,,11
+eBay,EBAY,2024Q3,2024-09-30,분기별 영업이익,595000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1065088/000106508824000199/,,11
+eBay,EBAY,2024Q3,2024-09-30,분기별 당기순이익(지배),634000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1065088/000106508824000199/,,11
+eBay,EBAY,2024Q3,2024-09-30,분기별 영업활동현금흐름,755000000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/1065088/000106508824000199/ ; https://www.sec.gov/Archives/edgar/data/1065088/000106508824000145/,누적 1737000000 − 직전누적 982000000 (시작 2024-01-01),11
+eBay,EBAY,2024Q3,2024-09-30,분기말 자산총계,19915000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1065088/000106508824000199/,,11
+eBay,EBAY,2024Q3,2024-09-30,분기말 부채총계,14495000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1065088/000106508824000199/,,11
+eBay,EBAY,2024Q3,2024-09-30,분기말 총자본(자기자본),5420000000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/1065088/000106508824000199/,"StockholdersEquity, MinorityInterest 태그 없음",11
+eBay,EBAY,2024Q3,2024-09-30,분기말 지배지분 자본,5420000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1065088/000106508824000199/,,11
+eBay,EBAY,2024Q3,2024-09-30,분기말 종가,65.11,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/EBAY?interval=1d&events=splits (2024-09-30),,11
+eBay,EBAY,2024Q3,2024-10-25,분기말 상장주식수,479000000,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/1065088/000106508824000199/,dei:EntityCommonStockSharesOutstanding 클래스 합,11
+eBay,EBAY,2024Q3,2024-09-30,분기말 시가총액,31187690000,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/EBAY?interval=1d&events=splits (2024-09-30) ; https://www.sec.gov/Archives/edgar/data/1065088/000106508824000199/,종가 65.11 × 주식수 479000000,11
+eBay,EBAY,2024Q4,2024-12-31,분기별 매출액,2579000000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/1065088/000106508825000037/ ; https://www.sec.gov/Archives/edgar/data/1065088/000106508824000199/,연간 10283000000 − 9개월누적 7704000000 (RevenueFromContractWithCustomerExcludingAssessedTax),11
+eBay,EBAY,2024Q4,2024-12-31,분기별 영업이익,543000000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/1065088/000106508825000037/ ; https://www.sec.gov/Archives/edgar/data/1065088/000106508824000199/,연간 2318000000 − 9개월누적 1775000000 (OperatingIncomeLoss),11
+eBay,EBAY,2024Q4,2024-12-31,분기별 당기순이익(지배),679000000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/1065088/000106508825000037/ ; https://www.sec.gov/Archives/edgar/data/1065088/000106508824000199/,연간 1975000000 − 9개월누적 1296000000 (NetIncomeLoss),11
+eBay,EBAY,2024Q4,2024-12-31,분기별 영업활동현금흐름,677000000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/1065088/000106508825000037/ ; https://www.sec.gov/Archives/edgar/data/1065088/000106508824000199/,누적 2414000000 − 직전누적 1737000000 (시작 2024-01-01),11
+eBay,EBAY,2024Q4,2024-12-31,분기말 자산총계,19365000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1065088/000106508825000037/,,11
+eBay,EBAY,2024Q4,2024-12-31,분기말 부채총계,14207000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1065088/000106508825000037/,,11
+eBay,EBAY,2024Q4,2024-12-31,분기말 총자본(자기자본),5158000000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/1065088/000106508825000037/,"StockholdersEquity, MinorityInterest 태그 없음",11
+eBay,EBAY,2024Q4,2024-12-31,분기말 지배지분 자본,5158000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1065088/000106508825000037/,,11
+eBay,EBAY,2024Q4,2024-12-31,분기말 종가,61.95,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/EBAY?interval=1d&events=splits (2024-12-31),,11
+eBay,EBAY,2024Q4,2025-05-26,분기말 상장주식수,461000000,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/1065088/000106508825000068/,dei:EntityCommonStockSharesOutstanding 클래스 합 ; 값은 XBRL 원문(companyfacts 미반영 보고서),11
+eBay,EBAY,2024Q4,2024-12-31,분기말 시가총액,28558950000,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/EBAY?interval=1d&events=splits (2024-12-31) ; https://www.sec.gov/Archives/edgar/data/1065088/000106508825000068/,종가 61.95 × 주식수 461000000 ; 값은 XBRL 원문(companyfacts 미반영 보고서),11
+eBay,EBAY,2025Q1,2025-03-31,분기별 매출액,2585000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1065088/000106508825000064/,,11
+eBay,EBAY,2025Q1,2025-03-31,분기별 영업이익,616000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1065088/000106508825000064/,,11
+eBay,EBAY,2025Q1,2025-03-31,분기별 당기순이익(지배),503000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1065088/000106508825000064/,,11
+eBay,EBAY,2025Q1,2025-03-31,분기별 영업활동현금흐름,787000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1065088/000106508825000064/,,11
+eBay,EBAY,2025Q1,2025-03-31,분기말 자산총계,18954000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1065088/000106508825000064/,,11
+eBay,EBAY,2025Q1,2025-03-31,분기말 부채총계,14004000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1065088/000106508825000064/,,11
+eBay,EBAY,2025Q1,2025-03-31,분기말 총자본(자기자본),4950000000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/1065088/000106508825000064/,"StockholdersEquity, MinorityInterest 태그 없음",11
+eBay,EBAY,2025Q1,2025-03-31,분기말 지배지분 자본,4950000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1065088/000106508825000064/,,11
+eBay,EBAY,2025Q1,2025-03-31,분기말 종가,67.73,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/EBAY?interval=1d&events=splits (2025-03-31),,11
+eBay,EBAY,2025Q1,2025-04-28,분기말 상장주식수,461000000,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/1065088/000106508825000064/,dei:EntityCommonStockSharesOutstanding 클래스 합,11
+eBay,EBAY,2025Q1,2025-03-31,분기말 시가총액,31223530000,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/EBAY?interval=1d&events=splits (2025-03-31) ; https://www.sec.gov/Archives/edgar/data/1065088/000106508825000064/,종가 67.73 × 주식수 461000000,11
+eBay,EBAY,2025Q2,2025-06-30,분기별 매출액,2730000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1065088/000106508825000077/,,11
+eBay,EBAY,2025Q2,2025-06-30,분기별 영업이익,484000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1065088/000106508825000077/,,11
+eBay,EBAY,2025Q2,2025-06-30,분기별 당기순이익(지배),368000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1065088/000106508825000077/,,11
+eBay,EBAY,2025Q2,2025-06-30,분기별 영업활동현금흐름,-307000000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/1065088/000106508825000077/ ; https://www.sec.gov/Archives/edgar/data/1065088/000106508825000064/,누적 480000000 − 직전누적 787000000 (시작 2025-01-01),11
+eBay,EBAY,2025Q2,2025-06-30,분기말 자산총계,17961000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1065088/000106508825000077/,,11
+eBay,EBAY,2025Q2,2025-06-30,분기말 부채총계,13212000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1065088/000106508825000077/,,11
+eBay,EBAY,2025Q2,2025-06-30,분기말 총자본(자기자본),4749000000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/1065088/000106508825000077/,"StockholdersEquity, MinorityInterest 태그 없음",11
+eBay,EBAY,2025Q2,2025-06-30,분기말 지배지분 자본,4749000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1065088/000106508825000077/,,11
+eBay,EBAY,2025Q2,2025-06-30,분기말 종가,74.46,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/EBAY?interval=1d&events=splits (2025-06-30),,11
+eBay,EBAY,2025Q2,2025-07-25,분기말 상장주식수,457000000,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/1065088/000106508825000077/,dei:EntityCommonStockSharesOutstanding 클래스 합,11
+eBay,EBAY,2025Q2,2025-06-30,분기말 시가총액,34028220000,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/EBAY?interval=1d&events=splits (2025-06-30) ; https://www.sec.gov/Archives/edgar/data/1065088/000106508825000077/,종가 74.46 × 주식수 457000000,11
+eBay,EBAY,2025Q3,2025-09-30,분기별 매출액,2820000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1065088/000106508825000127/,,11
+eBay,EBAY,2025Q3,2025-09-30,분기별 영업이익,576000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1065088/000106508825000127/,,11
+eBay,EBAY,2025Q3,2025-09-30,분기별 당기순이익(지배),632000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1065088/000106508825000127/,,11
+eBay,EBAY,2025Q3,2025-09-30,분기별 영업활동현금흐름,896000000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/1065088/000106508825000127/ ; https://www.sec.gov/Archives/edgar/data/1065088/000106508825000077/,누적 1376000000 − 직전누적 480000000 (시작 2025-01-01),11
+eBay,EBAY,2025Q3,2025-09-30,분기말 자산총계,17791000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1065088/000106508825000127/,,11
+eBay,EBAY,2025Q3,2025-09-30,분기말 부채총계,13072000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1065088/000106508825000127/,,11
+eBay,EBAY,2025Q3,2025-09-30,분기말 총자본(자기자본),4719000000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/1065088/000106508825000127/,"StockholdersEquity, MinorityInterest 태그 없음",11
+eBay,EBAY,2025Q3,2025-09-30,분기말 지배지분 자본,4719000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1065088/000106508825000127/,,11
+eBay,EBAY,2025Q3,2025-09-30,분기말 종가,90.95,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/EBAY?interval=1d&events=splits (2025-09-30),,11
+eBay,EBAY,2025Q3,2025-10-24,분기말 상장주식수,452000000,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/1065088/000106508825000127/,dei:EntityCommonStockSharesOutstanding 클래스 합,11
+eBay,EBAY,2025Q3,2025-09-30,분기말 시가총액,41109400000,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/EBAY?interval=1d&events=splits (2025-09-30) ; https://www.sec.gov/Archives/edgar/data/1065088/000106508825000127/,종가 90.95 × 주식수 452000000,11
+eBay,EBAY,2025Q4,2025-12-31,분기별 매출액,2965000000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/1065088/000106508826000027/ ; https://www.sec.gov/Archives/edgar/data/1065088/000106508825000127/,연간 11100000000 − 9개월누적 8135000000 (RevenueFromContractWithCustomerExcludingAssessedTax),11
+eBay,EBAY,2025Q4,2025-12-31,분기별 영업이익,601000000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/1065088/000106508826000027/ ; https://www.sec.gov/Archives/edgar/data/1065088/000106508825000127/,연간 2277000000 − 9개월누적 1676000000 (OperatingIncomeLoss),11
+eBay,EBAY,2025Q4,2025-12-31,분기별 당기순이익(지배),528000000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/1065088/000106508826000027/ ; https://www.sec.gov/Archives/edgar/data/1065088/000106508825000127/,연간 2031000000 − 9개월누적 1503000000 (NetIncomeLoss),11
+eBay,EBAY,2025Q4,2025-12-31,분기별 영업활동현금흐름,583000000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/1065088/000106508826000027/ ; https://www.sec.gov/Archives/edgar/data/1065088/000106508825000127/,누적 1959000000 − 직전누적 1376000000 (시작 2025-01-01),11
+eBay,EBAY,2025Q4,2025-12-31,분기말 자산총계,17437000000,USD,공시(재작성 반영),https://www.sec.gov/Archives/edgar/data/1065088/000106508826000177/,원 공시 17610000000 (https://www.sec.gov/Archives/edgar/data/1065088/000106508826000027/),11
+eBay,EBAY,2025Q4,2025-12-31,분기말 부채총계,12954000000,USD,공시(재작성 반영),https://www.sec.gov/Archives/edgar/data/1065088/000106508826000177/,원 공시 12995000000 (https://www.sec.gov/Archives/edgar/data/1065088/000106508826000027/),11
+eBay,EBAY,2025Q4,2025-12-31,분기말 총자본(자기자본),4483000000,USD,공시(비지배 없음)(재작성 반영),https://www.sec.gov/Archives/edgar/data/1065088/000106508826000177/,"StockholdersEquity, MinorityInterest 태그 없음 ; 원 공시 4615000000 (https://www.sec.gov/Archives/edgar/data/1065088/000106508826000027/)",11
+eBay,EBAY,2025Q4,2025-12-31,분기말 지배지분 자본,4483000000,USD,공시(재작성 반영),https://www.sec.gov/Archives/edgar/data/1065088/000106508826000177/,원 공시 4615000000 (https://www.sec.gov/Archives/edgar/data/1065088/000106508826000027/),11
+eBay,EBAY,2025Q4,2025-12-31,분기말 종가,87.1,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/EBAY?interval=1d&events=splits (2025-12-31),,11
+eBay,EBAY,2025Q4,2026-02-13,분기말 상장주식수,448000000,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/1065088/000106508826000027/,dei:EntityCommonStockSharesOutstanding 클래스 합,11
+eBay,EBAY,2025Q4,2025-12-31,분기말 시가총액,39020800000,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/EBAY?interval=1d&events=splits (2025-12-31) ; https://www.sec.gov/Archives/edgar/data/1065088/000106508826000027/,종가 87.1 × 주식수 448000000,11
+eBay,EBAY,2026Q1,2026-03-31,분기별 매출액,3089000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1065088/000106508826000093/,,11
+eBay,EBAY,2026Q1,2026-03-31,분기별 영업이익,611000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1065088/000106508826000093/,,11
+eBay,EBAY,2026Q1,2026-03-31,분기별 당기순이익(지배),512000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1065088/000106508826000093/,,11
+eBay,EBAY,2026Q1,2026-03-31,분기별 영업활동현금흐름,969000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1065088/000106508826000093/,,11
+eBay,EBAY,2026Q1,2026-03-31,분기말 자산총계,17893000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1065088/000106508826000093/,,11
+eBay,EBAY,2026Q1,2026-03-31,분기말 부채총계,13481000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1065088/000106508826000093/,,11
+eBay,EBAY,2026Q1,2026-03-31,분기말 총자본(자기자본),4412000000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/1065088/000106508826000093/,"StockholdersEquity, MinorityInterest 태그 없음",11
+eBay,EBAY,2026Q1,2026-03-31,분기말 지배지분 자본,4412000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1065088/000106508826000093/,,11
+eBay,EBAY,2026Q1,2026-03-31,분기말 종가,91.02,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/EBAY?interval=1d&events=splits (2026-03-31),,11
+eBay,EBAY,2026Q1,2026-04-24,분기말 상장주식수,444000000,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/1065088/000106508826000093/,dei:EntityCommonStockSharesOutstanding 클래스 합,11
+eBay,EBAY,2026Q1,2026-03-31,분기말 시가총액,40412880000,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/EBAY?interval=1d&events=splits (2026-03-31) ; https://www.sec.gov/Archives/edgar/data/1065088/000106508826000093/,종가 91.02 × 주식수 444000000,11
+eBay,EBAY,2026Q2,2026-06-30,분기별 매출액,3134000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1065088/000106508826000177/,,11
+eBay,EBAY,2026Q2,2026-06-30,분기별 영업이익,676000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1065088/000106508826000177/,,11
+eBay,EBAY,2026Q2,2026-06-30,분기별 당기순이익(지배),550000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1065088/000106508826000177/,,11
+eBay,EBAY,2026Q2,2026-06-30,분기별 영업활동현금흐름,523000000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/1065088/000106508826000177/ ; https://www.sec.gov/Archives/edgar/data/1065088/000106508826000093/,누적 1492000000 − 직전누적 969000000 (시작 2026-01-01),11
+eBay,EBAY,2026Q2,2026-06-30,분기말 자산총계,17933000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1065088/000106508826000177/,,11
+eBay,EBAY,2026Q2,2026-06-30,분기말 부채총계,13268000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1065088/000106508826000177/,,11
+eBay,EBAY,2026Q2,2026-06-30,분기말 총자본(자기자본),4665000000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/1065088/000106508826000177/,"StockholdersEquity, MinorityInterest 태그 없음",11
+eBay,EBAY,2026Q2,2026-06-30,분기말 지배지분 자본,4665000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1065088/000106508826000177/,,11
+eBay,EBAY,2026Q2,2026-06-30,분기말 종가,111.75,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/EBAY?interval=1d&events=splits (2026-06-30),,11
+eBay,EBAY,2026Q2,2026-07-31,분기말 상장주식수,445000000,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/1065088/000106508826000177/,dei:EntityCommonStockSharesOutstanding 클래스 합,11
+eBay,EBAY,2026Q2,2026-06-30,분기말 시가총액,49728750000,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/EBAY?interval=1d&events=splits (2026-06-30) ; https://www.sec.gov/Archives/edgar/data/1065088/000106508826000177/,종가 111.75 × 주식수 445000000,11

@@ -1,0 +1,727 @@
+﻿기업,종목코드,기간,기준일,항목,값,통화,값구분,출처,검산,라운드
+PPL,PPL,2010Q1,2010-03-31,분기별 매출액,3033000000,USD,공시,https://www.sec.gov/Archives/edgar/data/922224/000092222410000046/,,15
+PPL,PPL,2010Q1,2010-03-31,분기별 영업이익,492000000,USD,공시,https://www.sec.gov/Archives/edgar/data/922224/000092222410000046/,,15
+PPL,PPL,2010Q1,2010-03-31,분기별 당기순이익(지배),250000000,USD,공시,https://www.sec.gov/Archives/edgar/data/922224/000092222410000046/,,15
+PPL,PPL,2010Q1,2010-03-31,분기별 영업활동현금흐름,798000000,USD,공시,https://www.sec.gov/Archives/edgar/data/922224/000092222410000046/,,15
+PPL,PPL,2010Q1,2010-03-31,분기말 자산총계,24935000000,USD,공시,https://www.sec.gov/Archives/edgar/data/922224/000092222410000046/,,15
+PPL,PPL,2010Q1,2010-03-31,분기말 부채총계,18724000000,USD,계산(부채및자본-총자본),https://www.sec.gov/Archives/edgar/data/922224/000092222410000046/,부채및자본 24935000000 − 총자본 6211000000,15
+PPL,PPL,2010Q1,2010-03-31,분기말 총자본(자기자본),6211000000,USD,공시,https://www.sec.gov/Archives/edgar/data/922224/000092222410000046/,,15
+PPL,PPL,2010Q1,2010-03-31,분기말 지배지분 자본,5892000000,USD,공시,https://www.sec.gov/Archives/edgar/data/922224/000092222410000046/,,15
+PPL,PPL,2010Q1,2010-03-31,분기말 종가,27.71,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/PPL?interval=1d&events=splits (2010-03-31),분할조정 종가 25.8091 × 이후 분할계수 1.07365,15
+PPL,PPL,2010Q1,2010-04-30,분기말 상장주식수,378596962,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/922224/000092222410000046/,dei:EntityCommonStockSharesOutstanding 클래스 합,15
+PPL,PPL,2010Q1,2010-03-31,분기말 시가총액,10490921817,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/PPL?interval=1d&events=splits (2010-03-31) ; https://www.sec.gov/Archives/edgar/data/922224/000092222410000046/,종가 27.71 × 주식수 378596962,15
+PPL,PPL,2010Q2,2010-06-30,분기별 매출액,1503000000,USD,공시,https://www.sec.gov/Archives/edgar/data/922224/000092222410000091/,,15
+PPL,PPL,2010Q2,2010-06-30,분기별 영업이익,238000000,USD,공시,https://www.sec.gov/Archives/edgar/data/922224/000092222410000091/,,15
+PPL,PPL,2010Q2,2010-06-30,분기별 당기순이익(지배),85000000,USD,공시,https://www.sec.gov/Archives/edgar/data/922224/000092222410000091/,,15
+PPL,PPL,2010Q2,2010-06-30,분기별 영업활동현금흐름,-226000000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/922224/000092222410000091/ ; https://www.sec.gov/Archives/edgar/data/922224/000092222410000046/,누적 572000000 − 직전누적 798000000 (시작 2010-01-01),15
+PPL,PPL,2010Q2,2010-06-30,분기말 자산총계,25913000000,USD,공시,https://www.sec.gov/Archives/edgar/data/922224/000092222410000091/,,15
+PPL,PPL,2010Q2,2010-06-30,분기말 부채총계,17708000000,USD,계산(부채및자본-총자본),https://www.sec.gov/Archives/edgar/data/922224/000092222410000091/,부채및자본 25913000000 − 총자본 8205000000,15
+PPL,PPL,2010Q2,2010-06-30,분기말 총자본(자기자본),8205000000,USD,공시,https://www.sec.gov/Archives/edgar/data/922224/000092222410000091/,,15
+PPL,PPL,2010Q2,2010-06-30,분기말 지배지분 자본,7937000000,USD,공시,https://www.sec.gov/Archives/edgar/data/922224/000092222410000091/,,15
+PPL,PPL,2010Q2,2010-06-30,분기말 종가,24.95,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/PPL?interval=1d&events=splits (2010-06-30),분할조정 종가 23.2384 × 이후 분할계수 1.07365,15
+PPL,PPL,2010Q2,2010-07-30,분기말 상장주식수,482723432,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/922224/000092222410000091/,dei:EntityCommonStockSharesOutstanding 클래스 합,15
+PPL,PPL,2010Q2,2010-06-30,분기말 시가총액,12043949628,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/PPL?interval=1d&events=splits (2010-06-30) ; https://www.sec.gov/Archives/edgar/data/922224/000092222410000091/,종가 24.95 × 주식수 482723432,15
+PPL,PPL,2010Q3,2010-09-30,분기별 매출액,2179000000,USD,공시,https://www.sec.gov/Archives/edgar/data/922224/000092222410000124/,,15
+PPL,PPL,2010Q3,2010-09-30,분기별 영업이익,522000000,USD,공시,https://www.sec.gov/Archives/edgar/data/922224/000092222410000124/,,15
+PPL,PPL,2010Q3,2010-09-30,분기별 당기순이익(지배),248000000,USD,공시,https://www.sec.gov/Archives/edgar/data/922224/000092222410000124/,,15
+PPL,PPL,2010Q3,2010-09-30,분기별 영업활동현금흐름,1124000000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/922224/000092222410000124/ ; https://www.sec.gov/Archives/edgar/data/922224/000092222410000091/,누적 1696000000 − 직전누적 572000000 (시작 2010-01-01),15
+PPL,PPL,2010Q3,2010-09-30,분기말 자산총계,26728000000,USD,공시,https://www.sec.gov/Archives/edgar/data/922224/000092222410000124/,,15
+PPL,PPL,2010Q3,2010-09-30,분기말 부채총계,18136000000,USD,계산(부채및자본-총자본),https://www.sec.gov/Archives/edgar/data/922224/000092222410000124/,부채및자본 26728000000 − 총자본 8592000000,15
+PPL,PPL,2010Q3,2010-09-30,분기말 총자본(자기자본),8592000000,USD,공시,https://www.sec.gov/Archives/edgar/data/922224/000092222410000124/,,15
+PPL,PPL,2010Q3,2010-09-30,분기말 지배지분 자본,8324000000,USD,공시,https://www.sec.gov/Archives/edgar/data/922224/000092222410000124/,,15
+PPL,PPL,2010Q3,2010-09-30,분기말 종가,27.23,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/PPL?interval=1d&events=splits (2010-09-30),분할조정 종가 25.362 × 이후 분할계수 1.07365,15
+PPL,PPL,2010Q3,2010-10-22,분기말 상장주식수,483291708,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/922224/000092222410000124/,dei:EntityCommonStockSharesOutstanding 클래스 합,15
+PPL,PPL,2010Q3,2010-09-30,분기말 시가총액,13160033209,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/PPL?interval=1d&events=splits (2010-09-30) ; https://www.sec.gov/Archives/edgar/data/922224/000092222410000124/,종가 27.23 × 주식수 483291708,15
+PPL,PPL,2010Q4,2010-12-31,분기별 매출액,1863000000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/922224/000092222411000029/ ; https://www.sec.gov/Archives/edgar/data/922224/000092222410000124/,연간 8521000000 − 9개월누적 6658000000 (RegulatedAndUnregulatedOperatingRevenue),15
+PPL,PPL,2010Q4,2010-12-31,분기별 영업이익,642000000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/922224/000092222411000029/ ; https://www.sec.gov/Archives/edgar/data/922224/000092222410000124/,연간 1866000000 − 9개월누적 1224000000 (OperatingIncomeLoss),15
+PPL,PPL,2010Q4,2010-12-31,분기별 당기순이익(지배),355000000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/922224/000092222411000029/ ; https://www.sec.gov/Archives/edgar/data/922224/000092222410000124/,연간 938000000 − 9개월누적 583000000 (NetIncomeLoss),15
+PPL,PPL,2010Q4,2010-12-31,분기별 영업활동현금흐름,데이터 없음(직전 분기 누적 보고서 없음),USD,데이터 없음(직전 보고서 없음),https://www.sec.gov/Archives/edgar/data/922224/000092222411000029/,,15
+PPL,PPL,2010Q4,2010-12-31,분기말 자산총계,32837000000,USD,공시,https://www.sec.gov/Archives/edgar/data/922224/000092222411000029/,,15
+PPL,PPL,2010Q4,2010-12-31,분기말 부채총계,24359000000,USD,계산(부채및자본-총자본),https://www.sec.gov/Archives/edgar/data/922224/000092222411000029/,부채및자본 32837000000 − 총자본 8478000000,15
+PPL,PPL,2010Q4,2010-12-31,분기말 총자본(자기자본),8478000000,USD,공시,https://www.sec.gov/Archives/edgar/data/922224/000092222411000029/,,15
+PPL,PPL,2010Q4,2010-12-31,분기말 지배지분 자본,8210000000,USD,공시,https://www.sec.gov/Archives/edgar/data/922224/000092222411000029/,,15
+PPL,PPL,2010Q4,2010-12-31,분기말 종가,26.32,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/PPL?interval=1d&events=splits (2010-12-31),분할조정 종가 24.5144 × 이후 분할계수 1.07365,15
+PPL,PPL,2010Q4,2010-06-30,분기말 상장주식수,482187931,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/922224/000092222411000029/,dei:EntityCommonStockSharesOutstanding 클래스 합,15
+PPL,PPL,2010Q4,2010-12-31,분기말 시가총액,12691186344,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/PPL?interval=1d&events=splits (2010-12-31) ; https://www.sec.gov/Archives/edgar/data/922224/000092222411000029/,종가 26.32 × 주식수 482187931,15
+PPL,PPL,2011Q1,2011-03-31,분기별 매출액,2910000000,USD,공시,https://www.sec.gov/Archives/edgar/data/922224/000092222411000072/,,15
+PPL,PPL,2011Q1,2011-03-31,분기별 영업이익,805000000,USD,공시,https://www.sec.gov/Archives/edgar/data/922224/000092222411000072/,,15
+PPL,PPL,2011Q1,2011-03-31,분기별 당기순이익(지배),401000000,USD,공시,https://www.sec.gov/Archives/edgar/data/922224/000092222411000072/,,15
+PPL,PPL,2011Q1,2011-03-31,분기별 영업활동현금흐름,196000000,USD,공시,https://www.sec.gov/Archives/edgar/data/922224/000092222411000072/,,15
+PPL,PPL,2011Q1,2011-03-31,분기말 자산총계,32741000000,USD,공시,https://www.sec.gov/Archives/edgar/data/922224/000092222411000072/,,15
+PPL,PPL,2011Q1,2011-03-31,분기말 부채총계,23943000000,USD,계산(부채및자본-총자본),https://www.sec.gov/Archives/edgar/data/922224/000092222411000072/,부채및자본 32741000000 − 총자본 8798000000,15
+PPL,PPL,2011Q1,2011-03-31,분기말 총자본(자기자본),8798000000,USD,공시,https://www.sec.gov/Archives/edgar/data/922224/000092222411000072/,,15
+PPL,PPL,2011Q1,2011-03-31,분기말 지배지분 자본,8530000000,USD,공시,https://www.sec.gov/Archives/edgar/data/922224/000092222411000072/,,15
+PPL,PPL,2011Q1,2011-03-31,분기말 종가,25.3,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/PPL?interval=1d&events=splits (2011-03-31),분할조정 종가 23.5644 × 이후 분할계수 1.07365,15
+PPL,PPL,2011Q1,2011-04-29,분기말 상장주식수,577151364,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/922224/000092222411000072/,dei:EntityCommonStockSharesOutstanding 클래스 합,15
+PPL,PPL,2011Q1,2011-03-31,분기말 시가총액,14601929509,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/PPL?interval=1d&events=splits (2011-03-31) ; https://www.sec.gov/Archives/edgar/data/922224/000092222411000072/,종가 25.3 × 주식수 577151364,15
+PPL,PPL,2011Q2,2011-06-30,분기별 매출액,2489000000,USD,공시,https://www.sec.gov/Archives/edgar/data/922224/000092222411000136/,,15
+PPL,PPL,2011Q2,2011-06-30,분기별 영업이익,595000000,USD,공시,https://www.sec.gov/Archives/edgar/data/922224/000092222411000136/,,15
+PPL,PPL,2011Q2,2011-06-30,분기별 당기순이익(지배),196000000,USD,공시,https://www.sec.gov/Archives/edgar/data/922224/000092222411000136/,,15
+PPL,PPL,2011Q2,2011-06-30,분기별 영업활동현금흐름,데이터 없음(직전 분기 누적 보고서 없음),USD,데이터 없음(직전 보고서 없음),https://www.sec.gov/Archives/edgar/data/922224/000092222411000136/,,15
+PPL,PPL,2011Q2,2011-06-30,분기말 자산총계,40537000000,USD,공시,https://www.sec.gov/Archives/edgar/data/922224/000092222411000136/,,15
+PPL,PPL,2011Q2,2011-06-30,분기말 부채총계,29618000000,USD,계산(부채및자본-총자본),https://www.sec.gov/Archives/edgar/data/922224/000092222411000136/,부채및자본 40537000000 − 총자본 10919000000,15
+PPL,PPL,2011Q2,2011-06-30,분기말 총자본(자기자본),10919000000,USD,공시,https://www.sec.gov/Archives/edgar/data/922224/000092222411000136/,,15
+PPL,PPL,2011Q2,2011-06-30,분기말 지배지분 자본,10651000000,USD,공시,https://www.sec.gov/Archives/edgar/data/922224/000092222411000136/,,15
+PPL,PPL,2011Q2,2011-06-30,분기말 종가,27.83,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/PPL?interval=1d&events=splits (2011-06-30),분할조정 종가 25.9209 × 이후 분할계수 1.07365,15
+PPL,PPL,2011Q2,2011-07-31,분기말 상장주식수,577749262,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/922224/000092222411000136/,dei:EntityCommonStockSharesOutstanding 클래스 합,15
+PPL,PPL,2011Q2,2011-06-30,분기말 시가총액,16078761961,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/PPL?interval=1d&events=splits (2011-06-30) ; https://www.sec.gov/Archives/edgar/data/922224/000092222411000136/,종가 27.83 × 주식수 577749262,15
+PPL,PPL,2011Q3,2011-09-30,분기별 매출액,3120000000,USD,공시,https://www.sec.gov/Archives/edgar/data/922224/000092222411000191/,,15
+PPL,PPL,2011Q3,2011-09-30,분기별 영업이익,767000000,USD,공시,https://www.sec.gov/Archives/edgar/data/922224/000092222411000191/,,15
+PPL,PPL,2011Q3,2011-09-30,분기별 당기순이익(지배),444000000,USD,공시,https://www.sec.gov/Archives/edgar/data/922224/000092222411000191/,,15
+PPL,PPL,2011Q3,2011-09-30,분기별 영업활동현금흐름,데이터 없음(직전 분기 누적 보고서 없음),USD,데이터 없음(직전 보고서 없음),https://www.sec.gov/Archives/edgar/data/922224/000092222411000191/,,15
+PPL,PPL,2011Q3,2011-09-30,분기말 자산총계,40956000000,USD,공시,https://www.sec.gov/Archives/edgar/data/922224/000092222411000191/,,15
+PPL,PPL,2011Q3,2011-09-30,분기말 부채총계,29840000000,USD,계산(부채및자본-총자본),https://www.sec.gov/Archives/edgar/data/922224/000092222411000191/,부채및자본 40956000000 − 총자본 11116000000,15
+PPL,PPL,2011Q3,2011-09-30,분기말 총자본(자기자본),11116000000,USD,공시,https://www.sec.gov/Archives/edgar/data/922224/000092222411000191/,,15
+PPL,PPL,2011Q3,2011-09-30,분기말 지배지분 자본,10848000000,USD,공시,https://www.sec.gov/Archives/edgar/data/922224/000092222411000191/,,15
+PPL,PPL,2011Q3,2011-09-30,분기말 종가,28.54,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/PPL?interval=1d&events=splits (2011-09-30),분할조정 종가 26.5822 × 이후 분할계수 1.07365,15
+PPL,PPL,2011Q3,2011-10-31,분기말 상장주식수,578298607,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/922224/000092222411000191/,dei:EntityCommonStockSharesOutstanding 클래스 합,15
+PPL,PPL,2011Q3,2011-09-30,분기말 시가총액,16504642244,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/PPL?interval=1d&events=splits (2011-09-30) ; https://www.sec.gov/Archives/edgar/data/922224/000092222411000191/,종가 28.54 × 주식수 578298607,15
+PPL,PPL,2011Q4,2011-12-31,분기별 매출액,4218000000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/922224/000092222412000023/ ; https://www.sec.gov/Archives/edgar/data/922224/000092222411000191/,연간 12737000000 − 9개월누적 8519000000 (Revenues),15
+PPL,PPL,2011Q4,2011-12-31,분기별 영업이익,934000000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/922224/000092222412000023/ ; https://www.sec.gov/Archives/edgar/data/922224/000092222411000191/,연간 3101000000 − 9개월누적 2167000000 (OperatingIncomeLoss),15
+PPL,PPL,2011Q4,2011-12-31,분기별 당기순이익(지배),454000000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/922224/000092222412000023/ ; https://www.sec.gov/Archives/edgar/data/922224/000092222411000191/,연간 1495000000 − 9개월누적 1041000000 (NetIncomeLoss),15
+PPL,PPL,2011Q4,2011-12-31,분기별 영업활동현금흐름,661000000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/922224/000092222412000023/ ; https://www.sec.gov/Archives/edgar/data/922224/000092222411000191/,누적 2507000000 − 직전누적 1846000000 (시작 2011-01-01),15
+PPL,PPL,2011Q4,2011-12-31,분기말 자산총계,42648000000,USD,공시,https://www.sec.gov/Archives/edgar/data/922224/000092222412000023/,,15
+PPL,PPL,2011Q4,2011-12-31,분기말 부채총계,31552000000,USD,계산(부채및자본-총자본),https://www.sec.gov/Archives/edgar/data/922224/000092222412000023/,부채및자본 42648000000 − 총자본 11096000000,15
+PPL,PPL,2011Q4,2011-12-31,분기말 총자본(자기자본),11096000000,USD,공시,https://www.sec.gov/Archives/edgar/data/922224/000092222412000023/,,15
+PPL,PPL,2011Q4,2011-12-31,분기말 지배지분 자본,10828000000,USD,공시,https://www.sec.gov/Archives/edgar/data/922224/000092222412000023/,,15
+PPL,PPL,2011Q4,2011-12-30,분기말 종가,29.42,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/PPL?interval=1d&events=splits (2011-12-30),분할조정 종가 27.4018 × 이후 분할계수 1.07365,15
+PPL,PPL,2011Q4,2012-01-31,분기말 상장주식수,579234837,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/922224/000092222412000023/,dei:EntityCommonStockSharesOutstanding 클래스 합,15
+PPL,PPL,2011Q4,2011-12-30,분기말 시가총액,17041088905,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/PPL?interval=1d&events=splits (2011-12-30) ; https://www.sec.gov/Archives/edgar/data/922224/000092222412000023/,종가 29.42 × 주식수 579234837,15
+PPL,PPL,2012Q1,2012-03-31,분기별 매출액,4112000000,USD,공시,https://www.sec.gov/Archives/edgar/data/922224/000092222412000054/,,15
+PPL,PPL,2012Q1,2012-03-31,분기별 영업이익,1051000000,USD,공시,https://www.sec.gov/Archives/edgar/data/922224/000092222412000054/,,15
+PPL,PPL,2012Q1,2012-03-31,분기별 당기순이익(지배),541000000,USD,공시,https://www.sec.gov/Archives/edgar/data/922224/000092222412000054/,,15
+PPL,PPL,2012Q1,2012-03-31,분기별 영업활동현금흐름,728000000,USD,공시,https://www.sec.gov/Archives/edgar/data/922224/000092222412000054/,,15
+PPL,PPL,2012Q1,2012-03-31,분기말 자산총계,44082000000,USD,공시,https://www.sec.gov/Archives/edgar/data/922224/000092222412000054/,,15
+PPL,PPL,2012Q1,2012-03-31,분기말 부채총계,32547000000,USD,계산(부채및자본-총자본),https://www.sec.gov/Archives/edgar/data/922224/000092222412000054/,부채및자본 44082000000 − 총자본 11535000000,15
+PPL,PPL,2012Q1,2012-03-31,분기말 총자본(자기자본),11535000000,USD,공시,https://www.sec.gov/Archives/edgar/data/922224/000092222412000054/,,15
+PPL,PPL,2012Q1,2012-03-31,분기말 지배지분 자본,11267000000,USD,공시,https://www.sec.gov/Archives/edgar/data/922224/000092222412000054/,,15
+PPL,PPL,2012Q1,2012-03-30,분기말 종가,28.26,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/PPL?interval=1d&events=splits (2012-03-30),분할조정 종가 26.3214 × 이후 분할계수 1.07365,15
+PPL,PPL,2012Q1,2012-04-30,분기말 상장주식수,580021834,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/922224/000092222412000054/,dei:EntityCommonStockSharesOutstanding 클래스 합,15
+PPL,PPL,2012Q1,2012-03-30,분기말 시가총액,16391417029,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/PPL?interval=1d&events=splits (2012-03-30) ; https://www.sec.gov/Archives/edgar/data/922224/000092222412000054/,종가 28.26 × 주식수 580021834,15
+PPL,PPL,2012Q2,2012-06-30,분기별 매출액,2549000000,USD,공시,https://www.sec.gov/Archives/edgar/data/922224/000092222412000097/,,15
+PPL,PPL,2012Q2,2012-06-30,분기별 영업이익,572000000,USD,공시,https://www.sec.gov/Archives/edgar/data/922224/000092222412000097/,,15
+PPL,PPL,2012Q2,2012-06-30,분기별 당기순이익(지배),271000000,USD,공시,https://www.sec.gov/Archives/edgar/data/922224/000092222412000097/,,15
+PPL,PPL,2012Q2,2012-06-30,분기별 영업활동현금흐름,219000000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/922224/000092222412000097/ ; https://www.sec.gov/Archives/edgar/data/922224/000092222412000054/,누적 947000000 − 직전누적 728000000 (시작 2012-01-01),15
+PPL,PPL,2012Q2,2012-06-30,분기말 자산총계,43508000000,USD,공시,https://www.sec.gov/Archives/edgar/data/922224/000092222412000097/,,15
+PPL,PPL,2012Q2,2012-06-30,분기말 부채총계,32528000000,USD,계산(부채및자본-총자본),https://www.sec.gov/Archives/edgar/data/922224/000092222412000097/,부채및자본 43508000000 − 총자본 10980000000,15
+PPL,PPL,2012Q2,2012-06-30,분기말 총자본(자기자본),10980000000,USD,공시,https://www.sec.gov/Archives/edgar/data/922224/000092222412000097/,,15
+PPL,PPL,2012Q2,2012-06-30,분기말 지배지분 자본,10962000000,USD,공시,https://www.sec.gov/Archives/edgar/data/922224/000092222412000097/,,15
+PPL,PPL,2012Q2,2012-06-29,분기말 종가,27.81,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/PPL?interval=1d&events=splits (2012-06-29),분할조정 종가 25.9022 × 이후 분할계수 1.07365,15
+PPL,PPL,2012Q2,2012-07-31,분기말 상장주식수,580736054,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/922224/000092222412000097/,dei:EntityCommonStockSharesOutstanding 클래스 합,15
+PPL,PPL,2012Q2,2012-06-29,분기말 시가총액,16150269662,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/PPL?interval=1d&events=splits (2012-06-29) ; https://www.sec.gov/Archives/edgar/data/922224/000092222412000097/,종가 27.81 × 주식수 580736054,15
+PPL,PPL,2012Q3,2012-09-30,분기별 매출액,2403000000,USD,공시,https://www.sec.gov/Archives/edgar/data/922224/000092222412000142/,,15
+PPL,PPL,2012Q3,2012-09-30,분기별 영업이익,664000000,USD,공시,https://www.sec.gov/Archives/edgar/data/922224/000092222412000142/,,15
+PPL,PPL,2012Q3,2012-09-30,분기별 당기순이익(지배),355000000,USD,공시,https://www.sec.gov/Archives/edgar/data/922224/000092222412000142/,,15
+PPL,PPL,2012Q3,2012-09-30,분기별 영업활동현금흐름,1147000000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/922224/000092222412000142/ ; https://www.sec.gov/Archives/edgar/data/922224/000092222412000097/,누적 2094000000 − 직전누적 947000000 (시작 2012-01-01),15
+PPL,PPL,2012Q3,2012-09-30,분기말 자산총계,43240000000,USD,공시,https://www.sec.gov/Archives/edgar/data/922224/000092222412000142/,,15
+PPL,PPL,2012Q3,2012-09-30,분기말 부채총계,32008000000,USD,계산(부채및자본-총자본),https://www.sec.gov/Archives/edgar/data/922224/000092222412000142/,부채및자본 43240000000 − 총자본 11232000000,15
+PPL,PPL,2012Q3,2012-09-30,분기말 총자본(자기자본),11232000000,USD,공시,https://www.sec.gov/Archives/edgar/data/922224/000092222412000142/,,15
+PPL,PPL,2012Q3,2012-09-30,분기말 지배지분 자본,11214000000,USD,공시,https://www.sec.gov/Archives/edgar/data/922224/000092222412000142/,,15
+PPL,PPL,2012Q3,2012-09-28,분기말 종가,29.05,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/PPL?interval=1d&events=splits (2012-09-28),분할조정 종가 27.0572 × 이후 분할계수 1.07365,15
+PPL,PPL,2012Q3,2012-10-31,분기말 상장주식수,581705916,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/922224/000092222412000142/,dei:EntityCommonStockSharesOutstanding 클래스 합,15
+PPL,PPL,2012Q3,2012-09-28,분기말 시가총액,16898556860,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/PPL?interval=1d&events=splits (2012-09-28) ; https://www.sec.gov/Archives/edgar/data/922224/000092222412000142/,종가 29.05 × 주식수 581705916,15
+PPL,PPL,2012Q4,2012-12-31,분기별 매출액,3222000000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/922224/000092222413000025/ ; https://www.sec.gov/Archives/edgar/data/922224/000092222412000142/,연간 12286000000 − 9개월누적 9064000000 (Revenues),15
+PPL,PPL,2012Q4,2012-12-31,분기별 영업이익,822000000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/922224/000092222413000025/ ; https://www.sec.gov/Archives/edgar/data/922224/000092222412000142/,연간 3109000000 − 9개월누적 2287000000 (OperatingIncomeLoss),15
+PPL,PPL,2012Q4,2012-12-31,분기별 당기순이익(지배),359000000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/922224/000092222413000025/ ; https://www.sec.gov/Archives/edgar/data/922224/000092222412000142/,연간 1526000000 − 9개월누적 1167000000 (NetIncomeLoss),15
+PPL,PPL,2012Q4,2012-12-31,분기별 영업활동현금흐름,670000000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/922224/000092222413000025/ ; https://www.sec.gov/Archives/edgar/data/922224/000092222412000142/,누적 2764000000 − 직전누적 2094000000 (시작 2012-01-01),15
+PPL,PPL,2012Q4,2012-12-31,분기말 자산총계,43634000000,USD,공시,https://www.sec.gov/Archives/edgar/data/922224/000092222413000025/,,15
+PPL,PPL,2012Q4,2012-12-31,분기말 부채총계,33136000000,USD,계산(부채및자본-총자본),https://www.sec.gov/Archives/edgar/data/922224/000092222413000025/,부채및자본 43634000000 − 총자본 10498000000,15
+PPL,PPL,2012Q4,2012-12-31,분기말 총자본(자기자본),10498000000,USD,공시,https://www.sec.gov/Archives/edgar/data/922224/000092222413000025/,,15
+PPL,PPL,2012Q4,2012-12-31,분기말 지배지분 자본,10480000000,USD,공시,https://www.sec.gov/Archives/edgar/data/922224/000092222413000025/,,15
+PPL,PPL,2012Q4,2012-12-31,분기말 종가,28.63,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/PPL?interval=1d&events=splits (2012-12-31),분할조정 종가 26.666 × 이후 분할계수 1.07365,15
+PPL,PPL,2012Q4,2013-01-31,분기말 상장주식수,582846910,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/922224/000092222413000025/,dei:EntityCommonStockSharesOutstanding 클래스 합,15
+PPL,PPL,2012Q4,2012-12-31,분기말 시가총액,16686907033,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/PPL?interval=1d&events=splits (2012-12-31) ; https://www.sec.gov/Archives/edgar/data/922224/000092222413000025/,종가 28.63 × 주식수 582846910,15
+PPL,PPL,2013Q1,2013-03-31,분기별 매출액,2457000000,USD,공시,https://www.sec.gov/Archives/edgar/data/922224/000092222413000044/,,15
+PPL,PPL,2013Q1,2013-03-31,분기별 영업이익,693000000,USD,공시,https://www.sec.gov/Archives/edgar/data/922224/000092222413000044/,,15
+PPL,PPL,2013Q1,2013-03-31,분기별 당기순이익(지배),413000000,USD,공시,https://www.sec.gov/Archives/edgar/data/922224/000092222413000044/,,15
+PPL,PPL,2013Q1,2013-03-31,분기별 영업활동현금흐름,244000000,USD,공시,https://www.sec.gov/Archives/edgar/data/922224/000092222413000044/,,15
+PPL,PPL,2013Q1,2013-03-31,분기말 자산총계,43341000000,USD,공시,https://www.sec.gov/Archives/edgar/data/922224/000092222413000044/,,15
+PPL,PPL,2013Q1,2013-03-31,분기말 부채총계,32799000000,USD,계산(부채및자본-총자본),https://www.sec.gov/Archives/edgar/data/922224/000092222413000044/,부채및자본 43341000000 − 총자본 10542000000,15
+PPL,PPL,2013Q1,2013-03-31,분기말 총자본(자기자본),10542000000,USD,공시,https://www.sec.gov/Archives/edgar/data/922224/000092222413000044/,,15
+PPL,PPL,2013Q1,2013-03-31,분기말 지배지분 자본,10524000000,USD,공시,https://www.sec.gov/Archives/edgar/data/922224/000092222413000044/,,15
+PPL,PPL,2013Q1,2013-03-28,분기말 종가,31.31,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/PPL?interval=1d&events=splits (2013-03-28),분할조정 종가 29.1621 × 이후 분할계수 1.07365,15
+PPL,PPL,2013Q1,2013-04-30,분기말 상장주식수,592339687,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/922224/000092222413000044/,dei:EntityCommonStockSharesOutstanding 클래스 합,15
+PPL,PPL,2013Q1,2013-03-28,분기말 시가총액,18546155600,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/PPL?interval=1d&events=splits (2013-03-28) ; https://www.sec.gov/Archives/edgar/data/922224/000092222413000044/,종가 31.31 × 주식수 592339687,15
+PPL,PPL,2013Q2,2013-06-30,분기별 매출액,3450000000,USD,공시,https://www.sec.gov/Archives/edgar/data/922224/000092222413000076/,,15
+PPL,PPL,2013Q2,2013-06-30,분기별 영업이익,758000000,USD,공시,https://www.sec.gov/Archives/edgar/data/922224/000092222413000076/,,15
+PPL,PPL,2013Q2,2013-06-30,분기별 당기순이익(지배),405000000,USD,공시,https://www.sec.gov/Archives/edgar/data/922224/000092222413000076/,,15
+PPL,PPL,2013Q2,2013-06-30,분기별 영업활동현금흐름,703000000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/922224/000092222413000076/ ; https://www.sec.gov/Archives/edgar/data/922224/000092222413000044/,누적 947000000 − 직전누적 244000000 (시작 2013-01-01),15
+PPL,PPL,2013Q2,2013-06-30,분기말 자산총계,43746000000,USD,공시,https://www.sec.gov/Archives/edgar/data/922224/000092222413000076/,,15
+PPL,PPL,2013Q2,2013-06-30,분기말 부채총계,32792000000,USD,계산(부채및자본-총자본),https://www.sec.gov/Archives/edgar/data/922224/000092222413000076/,부채및자본 43746000000 − 총자본 10954000000,15
+PPL,PPL,2013Q2,2013-06-30,분기말 총자본(자기자본),10954000000,USD,공시,https://www.sec.gov/Archives/edgar/data/922224/000092222413000076/,,15
+PPL,PPL,2013Q2,2013-06-30,분기말 지배지분 자본,10936000000,USD,공시,https://www.sec.gov/Archives/edgar/data/922224/000092222413000076/,,15
+PPL,PPL,2013Q2,2013-06-28,분기말 종가,30.26,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/PPL?interval=1d&events=splits (2013-06-28),분할조정 종가 28.1842 × 이후 분할계수 1.07365,15
+PPL,PPL,2013Q2,2013-07-31,분기말 상장주식수,631700409,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/922224/000092222413000076/,dei:EntityCommonStockSharesOutstanding 클래스 합,15
+PPL,PPL,2013Q2,2013-06-28,분기말 시가총액,19115254376,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/PPL?interval=1d&events=splits (2013-06-28) ; https://www.sec.gov/Archives/edgar/data/922224/000092222413000076/,종가 30.26 × 주식수 631700409,15
+PPL,PPL,2013Q3,2013-09-30,분기별 매출액,3105000000,USD,공시,https://www.sec.gov/Archives/edgar/data/922224/000092222413000106/,,15
+PPL,PPL,2013Q3,2013-09-30,분기별 영업이익,857000000,USD,공시,https://www.sec.gov/Archives/edgar/data/922224/000092222413000106/,,15
+PPL,PPL,2013Q3,2013-09-30,분기별 당기순이익(지배),410000000,USD,공시,https://www.sec.gov/Archives/edgar/data/922224/000092222413000106/,,15
+PPL,PPL,2013Q3,2013-09-30,분기별 영업활동현금흐름,1276000000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/922224/000092222413000106/ ; https://www.sec.gov/Archives/edgar/data/922224/000092222413000076/,누적 2223000000 − 직전누적 947000000 (시작 2013-01-01),15
+PPL,PPL,2013Q3,2013-09-30,분기말 자산총계,44988000000,USD,공시,https://www.sec.gov/Archives/edgar/data/922224/000092222413000106/,,15
+PPL,PPL,2013Q3,2013-09-30,분기말 부채총계,32626000000,USD,계산(부채및자본-총자본),https://www.sec.gov/Archives/edgar/data/922224/000092222413000106/,부채및자본 44988000000 − 총자본 12362000000,15
+PPL,PPL,2013Q3,2013-09-30,분기말 총자본(자기자본),12362000000,USD,공시,https://www.sec.gov/Archives/edgar/data/922224/000092222413000106/,,15
+PPL,PPL,2013Q3,2013-09-30,분기말 지배지분 자본,12344000000,USD,공시,https://www.sec.gov/Archives/edgar/data/922224/000092222413000106/,,15
+PPL,PPL,2013Q3,2013-09-30,분기말 종가,30.38,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/PPL?interval=1d&events=splits (2013-09-30),분할조정 종가 28.2959 × 이후 분할계수 1.07365,15
+PPL,PPL,2013Q3,2013-10-25,분기말 상장주식수,630249634,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/922224/000092222413000106/,dei:EntityCommonStockSharesOutstanding 클래스 합,15
+PPL,PPL,2013Q3,2013-09-30,분기말 시가총액,19146983881,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/PPL?interval=1d&events=splits (2013-09-30) ; https://www.sec.gov/Archives/edgar/data/922224/000092222413000106/,종가 30.38 × 주식수 630249634,15
+PPL,PPL,2013Q4,2013-12-31,분기별 매출액,2848000000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/922224/000092222414000024/ ; https://www.sec.gov/Archives/edgar/data/922224/000092222413000106/,연간 11860000000 − 9개월누적 9012000000 (Revenues),15
+PPL,PPL,2013Q4,2013-12-31,분기별 영업이익,31000000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/922224/000092222414000024/ ; https://www.sec.gov/Archives/edgar/data/922224/000092222413000106/,연간 2339000000 − 9개월누적 2308000000 (OperatingIncomeLoss),15
+PPL,PPL,2013Q4,2013-12-31,분기별 당기순이익(지배),-98000000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/922224/000092222414000024/ ; https://www.sec.gov/Archives/edgar/data/922224/000092222413000106/,연간 1130000000 − 9개월누적 1228000000 (NetIncomeLoss),15
+PPL,PPL,2013Q4,2013-12-31,분기별 영업활동현금흐름,634000000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/922224/000092222414000024/ ; https://www.sec.gov/Archives/edgar/data/922224/000092222413000106/,누적 2857000000 − 직전누적 2223000000 (시작 2013-01-01),15
+PPL,PPL,2013Q4,2013-12-31,분기말 자산총계,46259000000,USD,공시,https://www.sec.gov/Archives/edgar/data/922224/000092222414000024/,,15
+PPL,PPL,2013Q4,2013-12-31,분기말 부채총계,33793000000,USD,계산(부채및자본-총자본),https://www.sec.gov/Archives/edgar/data/922224/000092222414000024/,부채및자본 46259000000 − 총자본 12466000000,15
+PPL,PPL,2013Q4,2013-12-31,분기말 총자본(자기자본),12466000000,USD,공시,https://www.sec.gov/Archives/edgar/data/922224/000092222414000024/,,15
+PPL,PPL,2013Q4,2013-12-31,분기말 지배지분 자본,12466000000,USD,공시,https://www.sec.gov/Archives/edgar/data/922224/000092222414000024/,,15
+PPL,PPL,2013Q4,2013-12-31,분기말 종가,30.09,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/PPL?interval=1d&events=splits (2013-12-31),분할조정 종가 28.0258 × 이후 분할계수 1.07365,15
+PPL,PPL,2013Q4,2014-01-31,분기말 상장주식수,630716792,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/922224/000092222414000024/,dei:EntityCommonStockSharesOutstanding 클래스 합,15
+PPL,PPL,2013Q4,2013-12-31,분기말 시가총액,18978268271,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/PPL?interval=1d&events=splits (2013-12-31) ; https://www.sec.gov/Archives/edgar/data/922224/000092222414000024/,종가 30.09 × 주식수 630716792,15
+PPL,PPL,2014Q1,2014-03-31,분기별 매출액,1223000000,USD,공시,https://www.sec.gov/Archives/edgar/data/922224/000092222414000044/,,15
+PPL,PPL,2014Q1,2014-03-31,분기별 영업이익,715000000,USD,공시,https://www.sec.gov/Archives/edgar/data/922224/000092222414000044/,,15
+PPL,PPL,2014Q1,2014-03-31,분기별 당기순이익(지배),316000000,USD,공시,https://www.sec.gov/Archives/edgar/data/922224/000092222414000044/,,15
+PPL,PPL,2014Q1,2014-03-31,분기별 영업활동현금흐름,931000000,USD,공시,https://www.sec.gov/Archives/edgar/data/922224/000092222414000044/,,15
+PPL,PPL,2014Q1,2014-03-31,분기말 자산총계,47973000000,USD,공시,https://www.sec.gov/Archives/edgar/data/922224/000092222414000044/,,15
+PPL,PPL,2014Q1,2014-03-31,분기말 부채총계,35256000000,USD,계산(부채및자본-총자본),https://www.sec.gov/Archives/edgar/data/922224/000092222414000044/,부채및자본 47973000000 − 총자본 12717000000,15
+PPL,PPL,2014Q1,2014-03-31,분기말 총자본(자기자본),12717000000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/922224/000092222414000044/,"StockholdersEquity, MinorityInterest 태그 없음",15
+PPL,PPL,2014Q1,2014-03-31,분기말 지배지분 자본,12717000000,USD,공시,https://www.sec.gov/Archives/edgar/data/922224/000092222414000044/,,15
+PPL,PPL,2014Q1,2014-03-31,분기말 종가,33.14,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/PPL?interval=1d&events=splits (2014-03-31),분할조정 종가 30.8666 × 이후 분할계수 1.07365,15
+PPL,PPL,2014Q1,2014-04-25,분기말 상장주식수,631744500,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/922224/000092222414000044/,dei:EntityCommonStockSharesOutstanding 클래스 합,15
+PPL,PPL,2014Q1,2014-03-31,분기말 시가총액,20936012730,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/PPL?interval=1d&events=splits (2014-03-31) ; https://www.sec.gov/Archives/edgar/data/922224/000092222414000044/,종가 33.14 × 주식수 631744500,15
+PPL,PPL,2014Q2,2014-06-30,분기별 매출액,2874000000,USD,공시,https://www.sec.gov/Archives/edgar/data/922224/000092222414000091/,,15
+PPL,PPL,2014Q2,2014-06-30,분기별 영업이익,718000000,USD,공시,https://www.sec.gov/Archives/edgar/data/922224/000092222414000091/,,15
+PPL,PPL,2014Q2,2014-06-30,분기별 당기순이익(지배),229000000,USD,공시,https://www.sec.gov/Archives/edgar/data/922224/000092222414000091/,,15
+PPL,PPL,2014Q2,2014-06-30,분기별 영업활동현금흐름,652000000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/922224/000092222414000091/ ; https://www.sec.gov/Archives/edgar/data/922224/000092222414000044/,누적 1583000000 − 직전누적 931000000 (시작 2014-01-01),15
+PPL,PPL,2014Q2,2014-06-30,분기말 자산총계,48193000000,USD,공시,https://www.sec.gov/Archives/edgar/data/922224/000092222414000091/,,15
+PPL,PPL,2014Q2,2014-06-30,분기말 부채총계,34458000000,USD,계산(부채및자본-총자본),https://www.sec.gov/Archives/edgar/data/922224/000092222414000091/,부채및자본 48193000000 − 총자본 13735000000,15
+PPL,PPL,2014Q2,2014-06-30,분기말 총자본(자기자본),13735000000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/922224/000092222414000091/,"StockholdersEquity, MinorityInterest 태그 없음",15
+PPL,PPL,2014Q2,2014-06-30,분기말 지배지분 자본,13735000000,USD,공시,https://www.sec.gov/Archives/edgar/data/922224/000092222414000091/,,15
+PPL,PPL,2014Q2,2014-06-30,분기말 종가,35.53,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/PPL?interval=1d&events=splits (2014-06-30),분할조정 종가 33.0926 × 이후 분할계수 1.07365,15
+PPL,PPL,2014Q2,2014-07-25,분기말 상장주식수,664381143,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/922224/000092222414000091/,dei:EntityCommonStockSharesOutstanding 클래스 합,15
+PPL,PPL,2014Q2,2014-06-30,분기말 시가총액,23605462011,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/PPL?interval=1d&events=splits (2014-06-30) ; https://www.sec.gov/Archives/edgar/data/922224/000092222414000091/,종가 35.53 × 주식수 664381143,15
+PPL,PPL,2014Q3,2014-09-30,분기별 매출액,3449000000,USD,공시,https://www.sec.gov/Archives/edgar/data/922224/000092222414000132/,,15
+PPL,PPL,2014Q3,2014-09-30,분기별 영업이익,869000000,USD,공시,https://www.sec.gov/Archives/edgar/data/922224/000092222414000132/,,15
+PPL,PPL,2014Q3,2014-09-30,분기별 당기순이익(지배),497000000,USD,공시,https://www.sec.gov/Archives/edgar/data/922224/000092222414000132/,,15
+PPL,PPL,2014Q3,2014-09-30,분기별 영업활동현금흐름,1045000000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/922224/000092222414000132/ ; https://www.sec.gov/Archives/edgar/data/922224/000092222414000091/,누적 2628000000 − 직전누적 1583000000 (시작 2014-01-01),15
+PPL,PPL,2014Q3,2014-09-30,분기말 자산총계,48189000000,USD,공시,https://www.sec.gov/Archives/edgar/data/922224/000092222414000132/,,15
+PPL,PPL,2014Q3,2014-09-30,분기말 부채총계,34215000000,USD,계산(부채및자본-총자본),https://www.sec.gov/Archives/edgar/data/922224/000092222414000132/,부채및자본 48189000000 − 총자본 13974000000,15
+PPL,PPL,2014Q3,2014-09-30,분기말 총자본(자기자본),13974000000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/922224/000092222414000132/,"StockholdersEquity, MinorityInterest 태그 없음",15
+PPL,PPL,2014Q3,2014-09-30,분기말 지배지분 자본,13974000000,USD,공시,https://www.sec.gov/Archives/edgar/data/922224/000092222414000132/,,15
+PPL,PPL,2014Q3,2014-09-30,분기말 종가,32.84,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/PPL?interval=1d&events=splits (2014-09-30),분할조정 종가 30.5872 × 이후 분할계수 1.07365,15
+PPL,PPL,2014Q3,2014-10-31,분기말 상장주식수,665072010,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/922224/000092222414000132/,dei:EntityCommonStockSharesOutstanding 클래스 합,15
+PPL,PPL,2014Q3,2014-09-30,분기말 시가총액,21840964808,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/PPL?interval=1d&events=splits (2014-09-30) ; https://www.sec.gov/Archives/edgar/data/922224/000092222414000132/,종가 32.84 × 주식수 665072010,15
+PPL,PPL,2014Q4,2014-12-31,분기별 매출액,4023000000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/922224/000092222415000016/ ; https://www.sec.gov/Archives/edgar/data/922224/000092222414000132/,연간 11499000000 − 9개월누적 7476000000 (Revenues),15
+PPL,PPL,2014Q4,2014-12-31,분기별 영업이익,983000000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/922224/000092222415000016/ ; https://www.sec.gov/Archives/edgar/data/922224/000092222414000132/,연간 3272000000 − 9개월누적 2289000000 (OperatingIncomeLoss),15
+PPL,PPL,2014Q4,2014-12-31,분기별 당기순이익(지배),695000000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/922224/000092222415000016/ ; https://www.sec.gov/Archives/edgar/data/922224/000092222414000132/,연간 1737000000 − 9개월누적 1042000000 (NetIncomeLoss),15
+PPL,PPL,2014Q4,2014-12-31,분기별 영업활동현금흐름,775000000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/922224/000092222415000016/ ; https://www.sec.gov/Archives/edgar/data/922224/000092222414000132/,누적 3403000000 − 직전누적 2628000000 (시작 2014-01-01),15
+PPL,PPL,2014Q4,2014-12-31,분기말 자산총계,48606000000,USD,공시(재작성 반영),https://www.sec.gov/Archives/edgar/data/922224/000092222416000130/,원 공시 48864000000 (https://www.sec.gov/Archives/edgar/data/922224/000092222415000016/),15
+PPL,PPL,2014Q4,2014-12-31,분기말 부채총계,34978000000,USD,계산(부채및자본-총자본)(재작성 반영),https://www.sec.gov/Archives/edgar/data/922224/000092222416000130/,부채및자본 48606000000 − 총자본 13628000000 ; 원 공시 35236000000 (https://www.sec.gov/Archives/edgar/data/922224/000092222415000016/),15
+PPL,PPL,2014Q4,2014-12-31,분기말 총자본(자기자본),13628000000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/922224/000092222415000016/,"StockholdersEquity, MinorityInterest 태그 없음",15
+PPL,PPL,2014Q4,2014-12-31,분기말 지배지분 자본,13628000000,USD,공시,https://www.sec.gov/Archives/edgar/data/922224/000092222415000016/,,15
+PPL,PPL,2014Q4,2014-12-31,분기말 종가,36.33,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/PPL?interval=1d&events=splits (2014-12-31),분할조정 종가 33.8378 × 이후 분할계수 1.07365,15
+PPL,PPL,2014Q4,2015-01-30,분기말 상장주식수,666968138,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/922224/000092222415000016/,dei:EntityCommonStockSharesOutstanding 클래스 합,15
+PPL,PPL,2014Q4,2014-12-31,분기말 시가총액,24230952454,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/PPL?interval=1d&events=splits (2014-12-31) ; https://www.sec.gov/Archives/edgar/data/922224/000092222415000016/,종가 36.33 × 주식수 666968138,15
+PPL,PPL,2015Q1,2015-03-31,분기별 매출액,3165000000,USD,공시,https://www.sec.gov/Archives/edgar/data/922224/000092222415000044/,,15
+PPL,PPL,2015Q1,2015-03-31,분기별 영업이익,1067000000,USD,공시,https://www.sec.gov/Archives/edgar/data/922224/000092222415000044/,,15
+PPL,PPL,2015Q1,2015-03-31,분기별 당기순이익(지배),647000000,USD,공시,https://www.sec.gov/Archives/edgar/data/922224/000092222415000044/,,15
+PPL,PPL,2015Q1,2015-03-31,분기별 영업활동현금흐름,673000000,USD,공시,https://www.sec.gov/Archives/edgar/data/922224/000092222415000044/,,15
+PPL,PPL,2015Q1,2015-03-31,분기말 자산총계,48921000000,USD,공시,https://www.sec.gov/Archives/edgar/data/922224/000092222415000044/,,15
+PPL,PPL,2015Q1,2015-03-31,분기말 부채총계,34885000000,USD,계산(부채및자본-총자본),https://www.sec.gov/Archives/edgar/data/922224/000092222415000044/,부채및자본 48921000000 − 총자본 14036000000,15
+PPL,PPL,2015Q1,2015-03-31,분기말 총자본(자기자본),14036000000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/922224/000092222415000044/,"StockholdersEquity, MinorityInterest 태그 없음",15
+PPL,PPL,2015Q1,2015-03-31,분기말 지배지분 자본,14036000000,USD,공시,https://www.sec.gov/Archives/edgar/data/922224/000092222415000044/,,15
+PPL,PPL,2015Q1,2015-03-31,분기말 종가,33.66,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/PPL?interval=1d&events=splits (2015-03-31),분할조정 종가 31.3509 × 이후 분할계수 1.07365,15
+PPL,PPL,2015Q1,2015-04-30,분기말 상장주식수,668107248,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/922224/000092222415000044/,dei:EntityCommonStockSharesOutstanding 클래스 합,15
+PPL,PPL,2015Q1,2015-03-31,분기말 시가총액,22488489968,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/PPL?interval=1d&events=splits (2015-03-31) ; https://www.sec.gov/Archives/edgar/data/922224/000092222415000044/,종가 33.66 × 주식수 668107248,15
+PPL,PPL,2015Q2,2015-06-30,분기별 매출액,1781000000,USD,공시,https://www.sec.gov/Archives/edgar/data/922224/000092222415000069/,,15
+PPL,PPL,2015Q2,2015-06-30,분기별 영업이익,638000000,USD,공시,https://www.sec.gov/Archives/edgar/data/922224/000092222415000069/,,15
+PPL,PPL,2015Q2,2015-06-30,분기별 당기순이익(지배),-757000000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/922224/000092222415000069/,,15
+PPL,PPL,2015Q2,2015-06-30,분기별 영업활동현금흐름,640000000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/922224/000092222415000069/ ; https://www.sec.gov/Archives/edgar/data/922224/000092222415000044/,누적 1313000000 − 직전누적 673000000 (시작 2015-01-01),15
+PPL,PPL,2015Q2,2015-06-30,분기말 자산총계,38244000000,USD,공시,https://www.sec.gov/Archives/edgar/data/922224/000092222415000069/,,15
+PPL,PPL,2015Q2,2015-06-30,분기말 부채총계,28303000000,USD,계산(부채및자본-총자본),https://www.sec.gov/Archives/edgar/data/922224/000092222415000069/,부채및자본 38244000000 − 총자본 9941000000,15
+PPL,PPL,2015Q2,2015-06-30,분기말 총자본(자기자본),9941000000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/922224/000092222415000069/,"StockholdersEquity, MinorityInterest 태그 없음",15
+PPL,PPL,2015Q2,2015-06-30,분기말 지배지분 자본,9941000000,USD,공시,https://www.sec.gov/Archives/edgar/data/922224/000092222415000069/,,15
+PPL,PPL,2015Q2,2015-06-30,분기말 종가,29.47,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/PPL?interval=1d&events=splits (2015-06-30),,15
+PPL,PPL,2015Q2,2015-07-24,분기말 상장주식수,669969737,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/922224/000092222415000069/,dei:EntityCommonStockSharesOutstanding 클래스 합,15
+PPL,PPL,2015Q2,2015-06-30,분기말 시가총액,19744008149,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/PPL?interval=1d&events=splits (2015-06-30) ; https://www.sec.gov/Archives/edgar/data/922224/000092222415000069/,종가 29.47 × 주식수 669969737,15
+PPL,PPL,2015Q3,2015-09-30,분기별 매출액,1878000000,USD,공시,https://www.sec.gov/Archives/edgar/data/922224/000092222415000089/,,15
+PPL,PPL,2015Q3,2015-09-30,분기별 영업이익,686000000,USD,공시,https://www.sec.gov/Archives/edgar/data/922224/000092222415000089/,,15
+PPL,PPL,2015Q3,2015-09-30,분기별 당기순이익(지배),393000000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/922224/000092222415000089/,,15
+PPL,PPL,2015Q3,2015-09-30,분기별 영업활동현금흐름,718000000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/922224/000092222415000089/ ; https://www.sec.gov/Archives/edgar/data/922224/000092222415000069/,누적 2031000000 − 직전누적 1313000000 (시작 2015-01-01),15
+PPL,PPL,2015Q3,2015-09-30,분기말 자산총계,39246000000,USD,공시,https://www.sec.gov/Archives/edgar/data/922224/000092222415000089/,,15
+PPL,PPL,2015Q3,2015-09-30,분기말 부채총계,29024000000,USD,계산(부채및자본-총자본),https://www.sec.gov/Archives/edgar/data/922224/000092222415000089/,부채및자본 39246000000 − 총자본 10222000000,15
+PPL,PPL,2015Q3,2015-09-30,분기말 총자본(자기자본),10222000000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/922224/000092222415000089/,"StockholdersEquity, MinorityInterest 태그 없음",15
+PPL,PPL,2015Q3,2015-09-30,분기말 지배지분 자본,10222000000,USD,공시,https://www.sec.gov/Archives/edgar/data/922224/000092222415000089/,,15
+PPL,PPL,2015Q3,2015-09-30,분기말 종가,32.89,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/PPL?interval=1d&events=splits (2015-09-30),,15
+PPL,PPL,2015Q3,2015-10-23,분기말 상장주식수,672845584,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/922224/000092222415000089/,dei:EntityCommonStockSharesOutstanding 클래스 합,15
+PPL,PPL,2015Q3,2015-09-30,분기말 시가총액,22129891258,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/PPL?interval=1d&events=splits (2015-09-30) ; https://www.sec.gov/Archives/edgar/data/922224/000092222415000089/,종가 32.89 × 주식수 672845584,15
+PPL,PPL,2015Q4,2015-12-31,분기별 매출액,1780000000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/922224/000092222416000130/ ; https://www.sec.gov/Archives/edgar/data/922224/000092222415000089/,연간 7669000000 − 9개월누적 5889000000 (Revenues),15
+PPL,PPL,2015Q4,2015-12-31,분기별 영업이익,617000000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/922224/000092222416000130/ ; https://www.sec.gov/Archives/edgar/data/922224/000092222415000089/,연간 2831000000 − 9개월누적 2214000000 (OperatingIncomeLoss),15
+PPL,PPL,2015Q4,2015-12-31,분기별 당기순이익(지배),399000000,USD,"계산(연간-3분기누적, 비지배 없음)",https://www.sec.gov/Archives/edgar/data/922224/000092222416000130/ ; https://www.sec.gov/Archives/edgar/data/922224/000092222415000089/,연간 682000000 − 9개월누적 283000000 (ProfitLoss),15
+PPL,PPL,2015Q4,2015-12-31,분기별 영업활동현금흐름,584000000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/922224/000092222416000130/ ; https://www.sec.gov/Archives/edgar/data/922224/000092222415000089/,누적 2615000000 − 직전누적 2031000000 (시작 2015-01-01),15
+PPL,PPL,2015Q4,2015-12-31,분기말 자산총계,39301000000,USD,공시,https://www.sec.gov/Archives/edgar/data/922224/000092222416000130/,,15
+PPL,PPL,2015Q4,2015-12-31,분기말 부채총계,29382000000,USD,계산(부채및자본-총자본),https://www.sec.gov/Archives/edgar/data/922224/000092222416000130/,부채및자본 39301000000 − 총자본 9919000000,15
+PPL,PPL,2015Q4,2015-12-31,분기말 총자본(자기자본),9919000000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/922224/000092222416000130/,"StockholdersEquity, MinorityInterest 태그 없음",15
+PPL,PPL,2015Q4,2015-12-31,분기말 지배지분 자본,9919000000,USD,공시,https://www.sec.gov/Archives/edgar/data/922224/000092222416000130/,,15
+PPL,PPL,2015Q4,2015-12-31,분기말 종가,34.13,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/PPL?interval=1d&events=splits (2015-12-31),,15
+PPL,PPL,2015Q4,2016-01-31,분기말 상장주식수,675190188,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/922224/000092222416000130/,dei:EntityCommonStockSharesOutstanding 클래스 합,15
+PPL,PPL,2015Q4,2015-12-31,분기말 시가총액,23044241116,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/PPL?interval=1d&events=splits (2015-12-31) ; https://www.sec.gov/Archives/edgar/data/922224/000092222416000130/,종가 34.13 × 주식수 675190188,15
+PPL,PPL,2016Q1,2016-03-31,분기별 매출액,2011000000,USD,공시,https://www.sec.gov/Archives/edgar/data/922224/000092222416000150/,,15
+PPL,PPL,2016Q1,2016-03-31,분기별 영업이익,823000000,USD,공시,https://www.sec.gov/Archives/edgar/data/922224/000092222416000150/,,15
+PPL,PPL,2016Q1,2016-03-31,분기별 당기순이익(지배),481000000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/922224/000092222416000150/,,15
+PPL,PPL,2016Q1,2016-03-31,분기별 영업활동현금흐름,557000000,USD,공시,https://www.sec.gov/Archives/edgar/data/922224/000092222416000150/,,15
+PPL,PPL,2016Q1,2016-03-31,분기말 자산총계,38709000000,USD,공시,https://www.sec.gov/Archives/edgar/data/922224/000092222416000150/,,15
+PPL,PPL,2016Q1,2016-03-31,분기말 부채총계,28947000000,USD,계산(부채및자본-총자본),https://www.sec.gov/Archives/edgar/data/922224/000092222416000150/,부채및자본 38709000000 − 총자본 9762000000,15
+PPL,PPL,2016Q1,2016-03-31,분기말 총자본(자기자본),9762000000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/922224/000092222416000150/,"StockholdersEquity, MinorityInterest 태그 없음",15
+PPL,PPL,2016Q1,2016-03-31,분기말 지배지분 자본,9762000000,USD,공시,https://www.sec.gov/Archives/edgar/data/922224/000092222416000150/,,15
+PPL,PPL,2016Q1,2016-03-31,분기말 종가,38.07,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/PPL?interval=1d&events=splits (2016-03-31),,15
+PPL,PPL,2016Q1,2016-04-22,분기말 상장주식수,676945176,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/922224/000092222416000150/,dei:EntityCommonStockSharesOutstanding 클래스 합,15
+PPL,PPL,2016Q1,2016-03-31,분기말 시가총액,25771302850,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/PPL?interval=1d&events=splits (2016-03-31) ; https://www.sec.gov/Archives/edgar/data/922224/000092222416000150/,종가 38.07 × 주식수 676945176,15
+PPL,PPL,2016Q2,2016-06-30,분기별 매출액,1785000000,USD,공시,https://www.sec.gov/Archives/edgar/data/922224/000092222416000182/,,15
+PPL,PPL,2016Q2,2016-06-30,분기별 영업이익,725000000,USD,공시,https://www.sec.gov/Archives/edgar/data/922224/000092222416000182/,,15
+PPL,PPL,2016Q2,2016-06-30,분기별 당기순이익(지배),483000000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/922224/000092222416000182/,,15
+PPL,PPL,2016Q2,2016-06-30,분기별 영업활동현금흐름,613000000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/922224/000092222416000182/ ; https://www.sec.gov/Archives/edgar/data/922224/000092222416000150/,누적 1170000000 − 직전누적 557000000 (시작 2016-01-01),15
+PPL,PPL,2016Q2,2016-06-30,분기말 자산총계,39528000000,USD,공시,https://www.sec.gov/Archives/edgar/data/922224/000092222416000182/,,15
+PPL,PPL,2016Q2,2016-06-30,분기말 부채총계,29203000000,USD,계산(부채및자본-총자본),https://www.sec.gov/Archives/edgar/data/922224/000092222416000182/,부채및자본 39528000000 − 총자본 10325000000,15
+PPL,PPL,2016Q2,2016-06-30,분기말 총자본(자기자본),10325000000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/922224/000092222416000182/,"StockholdersEquity, MinorityInterest 태그 없음",15
+PPL,PPL,2016Q2,2016-06-30,분기말 지배지분 자본,10325000000,USD,공시,https://www.sec.gov/Archives/edgar/data/922224/000092222416000182/,,15
+PPL,PPL,2016Q2,2016-06-30,분기말 종가,37.75,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/PPL?interval=1d&events=splits (2016-06-30),,15
+PPL,PPL,2016Q2,2016-08-03,분기말 상장주식수,678094068,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/922224/000092222416000182/,dei:EntityCommonStockSharesOutstanding 클래스 합,15
+PPL,PPL,2016Q2,2016-06-30,분기말 시가총액,25598051067,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/PPL?interval=1d&events=splits (2016-06-30) ; https://www.sec.gov/Archives/edgar/data/922224/000092222416000182/,종가 37.75 × 주식수 678094068,15
+PPL,PPL,2016Q3,2016-09-30,분기별 매출액,1889000000,USD,공시,https://www.sec.gov/Archives/edgar/data/922224/000092222416000201/,,15
+PPL,PPL,2016Q3,2016-09-30,분기별 영업이익,786000000,USD,공시,https://www.sec.gov/Archives/edgar/data/922224/000092222416000201/,,15
+PPL,PPL,2016Q3,2016-09-30,분기별 당기순이익(지배),473000000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/922224/000092222416000201/,,15
+PPL,PPL,2016Q3,2016-09-30,분기별 영업활동현금흐름,1060000000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/922224/000092222416000201/ ; https://www.sec.gov/Archives/edgar/data/922224/000092222416000182/,누적 2230000000 − 직전누적 1170000000 (시작 2016-01-01),15
+PPL,PPL,2016Q3,2016-09-30,분기말 자산총계,38038000000,USD,공시,https://www.sec.gov/Archives/edgar/data/922224/000092222416000201/,,15
+PPL,PPL,2016Q3,2016-09-30,분기말 부채총계,28063000000,USD,계산(부채및자본-총자본),https://www.sec.gov/Archives/edgar/data/922224/000092222416000201/,부채및자본 38038000000 − 총자본 9975000000,15
+PPL,PPL,2016Q3,2016-09-30,분기말 총자본(자기자본),9975000000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/922224/000092222416000201/,"StockholdersEquity, MinorityInterest 태그 없음",15
+PPL,PPL,2016Q3,2016-09-30,분기말 지배지분 자본,9975000000,USD,공시,https://www.sec.gov/Archives/edgar/data/922224/000092222416000201/,,15
+PPL,PPL,2016Q3,2016-09-30,분기말 종가,34.57,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/PPL?interval=1d&events=splits (2016-09-30),,15
+PPL,PPL,2016Q3,2016-10-26,분기말 상장주식수,679627323,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/922224/000092222416000201/,dei:EntityCommonStockSharesOutstanding 클래스 합,15
+PPL,PPL,2016Q3,2016-09-30,분기말 시가총액,23494716556,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/PPL?interval=1d&events=splits (2016-09-30) ; https://www.sec.gov/Archives/edgar/data/922224/000092222416000201/,종가 34.57 × 주식수 679627323,15
+PPL,PPL,2016Q4,2016-12-31,분기별 매출액,1832000000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/922224/000092222417000010/ ; https://www.sec.gov/Archives/edgar/data/922224/000092222416000201/,연간 7517000000 − 9개월누적 5685000000 (Revenues),15
+PPL,PPL,2016Q4,2016-12-31,분기별 영업이익,602000000,USD,계산(연간-3분기누적)(재작성 반영),https://www.sec.gov/Archives/edgar/data/922224/000092222419000015/ ; https://www.sec.gov/Archives/edgar/data/922224/000092222416000201/,연간 2936000000 − 9개월누적 2334000000 (OperatingIncomeLoss) ; 원 공시 714000000 (https://www.sec.gov/Archives/edgar/data/922224/000092222417000010/ ; https://www.sec.gov/Archives/edgar/data/922224/000092222416000201/),15
+PPL,PPL,2016Q4,2016-12-31,분기별 당기순이익(지배),465000000,USD,"계산(연간-3분기누적, 비지배 없음)",https://www.sec.gov/Archives/edgar/data/922224/000092222417000010/ ; https://www.sec.gov/Archives/edgar/data/922224/000092222416000201/,연간 1902000000 − 9개월누적 1437000000 (ProfitLoss),15
+PPL,PPL,2016Q4,2016-12-31,분기별 영업활동현금흐름,660000000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/922224/000092222417000010/ ; https://www.sec.gov/Archives/edgar/data/922224/000092222416000201/,누적 2890000000 − 직전누적 2230000000 (시작 2016-01-01),15
+PPL,PPL,2016Q4,2016-12-31,분기말 자산총계,38315000000,USD,공시,https://www.sec.gov/Archives/edgar/data/922224/000092222417000010/,,15
+PPL,PPL,2016Q4,2016-12-31,분기말 부채총계,28416000000,USD,계산(부채및자본-총자본),https://www.sec.gov/Archives/edgar/data/922224/000092222417000010/,부채및자본 38315000000 − 총자본 9899000000,15
+PPL,PPL,2016Q4,2016-12-31,분기말 총자본(자기자본),9899000000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/922224/000092222417000010/,"StockholdersEquity, MinorityInterest 태그 없음",15
+PPL,PPL,2016Q4,2016-12-31,분기말 지배지분 자본,9899000000,USD,공시,https://www.sec.gov/Archives/edgar/data/922224/000092222417000010/,,15
+PPL,PPL,2016Q4,2016-12-30,분기말 종가,34.05,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/PPL?interval=1d&events=splits (2016-12-30),,15
+PPL,PPL,2016Q4,2017-01-31,분기말 상장주식수,680602000,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/922224/000092222417000010/,dei:EntityCommonStockSharesOutstanding 클래스 합,15
+PPL,PPL,2016Q4,2016-12-30,분기말 시가총액,23174498100,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/PPL?interval=1d&events=splits (2016-12-30) ; https://www.sec.gov/Archives/edgar/data/922224/000092222417000010/,종가 34.05 × 주식수 680602000,15
+PPL,PPL,2017Q1,2017-03-31,분기별 매출액,1951000000,USD,공시,https://www.sec.gov/Archives/edgar/data/922224/000092222417000029/,,15
+PPL,PPL,2017Q1,2017-03-31,분기별 영업이익,758000000,USD,공시(재작성 반영),https://www.sec.gov/Archives/edgar/data/922224/000092222419000015/,원 공시 796000000 (https://www.sec.gov/Archives/edgar/data/922224/000092222417000029/),15
+PPL,PPL,2017Q1,2017-03-31,분기별 당기순이익(지배),403000000,USD,공시,https://www.sec.gov/Archives/edgar/data/922224/000092222417000029/,,15
+PPL,PPL,2017Q1,2017-03-31,분기별 영업활동현금흐름,135000000,USD,공시,https://www.sec.gov/Archives/edgar/data/922224/000092222417000029/,,15
+PPL,PPL,2017Q1,2017-03-31,분기말 자산총계,39034000000,USD,공시,https://www.sec.gov/Archives/edgar/data/922224/000092222417000029/,,15
+PPL,PPL,2017Q1,2017-03-31,분기말 부채총계,28925000000,USD,계산(부채및자본-총자본),https://www.sec.gov/Archives/edgar/data/922224/000092222417000029/,부채및자본 39034000000 − 총자본 10109000000,15
+PPL,PPL,2017Q1,2017-03-31,분기말 총자본(자기자본),10109000000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/922224/000092222417000029/,"StockholdersEquity, MinorityInterest 태그 없음",15
+PPL,PPL,2017Q1,2017-03-31,분기말 지배지분 자본,10109000000,USD,공시,https://www.sec.gov/Archives/edgar/data/922224/000092222417000029/,,15
+PPL,PPL,2017Q1,2017-03-31,분기말 종가,37.39,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/PPL?interval=1d&events=splits (2017-03-31),,15
+PPL,PPL,2017Q1,2017-04-27,분기말 상장주식수,683174778,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/922224/000092222417000029/,dei:EntityCommonStockSharesOutstanding 클래스 합,15
+PPL,PPL,2017Q1,2017-03-31,분기말 시가총액,25543904949,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/PPL?interval=1d&events=splits (2017-03-31) ; https://www.sec.gov/Archives/edgar/data/922224/000092222417000029/,종가 37.39 × 주식수 683174778,15
+PPL,PPL,2017Q2,2017-06-30,분기별 매출액,1725000000,USD,공시,https://www.sec.gov/Archives/edgar/data/922224/000092222417000054/,,15
+PPL,PPL,2017Q2,2017-06-30,분기별 영업이익,658000000,USD,공시(재작성 반영),https://www.sec.gov/Archives/edgar/data/922224/000092222419000015/,원 공시 702000000 (https://www.sec.gov/Archives/edgar/data/922224/000092222417000054/),15
+PPL,PPL,2017Q2,2017-06-30,분기별 당기순이익(지배),292000000,USD,공시,https://www.sec.gov/Archives/edgar/data/922224/000092222417000054/,,15
+PPL,PPL,2017Q2,2017-06-30,분기별 영업활동현금흐름,655000000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/922224/000092222417000054/ ; https://www.sec.gov/Archives/edgar/data/922224/000092222417000029/,누적 790000000 − 직전누적 135000000 (시작 2017-01-01),15
+PPL,PPL,2017Q2,2017-06-30,분기말 자산총계,39964000000,USD,공시,https://www.sec.gov/Archives/edgar/data/922224/000092222417000054/,,15
+PPL,PPL,2017Q2,2017-06-30,분기말 부채총계,29474000000,USD,계산(부채및자본-총자본),https://www.sec.gov/Archives/edgar/data/922224/000092222417000054/,부채및자본 39964000000 − 총자본 10490000000,15
+PPL,PPL,2017Q2,2017-06-30,분기말 총자본(자기자본),10490000000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/922224/000092222417000054/,"StockholdersEquity, MinorityInterest 태그 없음",15
+PPL,PPL,2017Q2,2017-06-30,분기말 지배지분 자본,10490000000,USD,공시,https://www.sec.gov/Archives/edgar/data/922224/000092222417000054/,,15
+PPL,PPL,2017Q2,2017-06-30,분기말 종가,38.66,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/PPL?interval=1d&events=splits (2017-06-30),,15
+PPL,PPL,2017Q2,2017-07-27,분기말 상장주식수,685855683,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/922224/000092222417000054/,dei:EntityCommonStockSharesOutstanding 클래스 합,15
+PPL,PPL,2017Q2,2017-06-30,분기말 시가총액,26515180705,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/PPL?interval=1d&events=splits (2017-06-30) ; https://www.sec.gov/Archives/edgar/data/922224/000092222417000054/,종가 38.66 × 주식수 685855683,15
+PPL,PPL,2017Q3,2017-09-30,분기별 매출액,1845000000,USD,공시,https://www.sec.gov/Archives/edgar/data/922224/000092222417000066/,,15
+PPL,PPL,2017Q3,2017-09-30,분기별 영업이익,736000000,USD,공시(재작성 반영),https://www.sec.gov/Archives/edgar/data/922224/000092222419000015/,원 공시 777000000 (https://www.sec.gov/Archives/edgar/data/922224/000092222417000066/),15
+PPL,PPL,2017Q3,2017-09-30,분기별 당기순이익(지배),355000000,USD,공시,https://www.sec.gov/Archives/edgar/data/922224/000092222417000066/,,15
+PPL,PPL,2017Q3,2017-09-30,분기별 영업활동현금흐름,964000000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/922224/000092222417000066/ ; https://www.sec.gov/Archives/edgar/data/922224/000092222417000054/,누적 1754000000 − 직전누적 790000000 (시작 2017-01-01),15
+PPL,PPL,2017Q3,2017-09-30,분기말 자산총계,40758000000,USD,공시,https://www.sec.gov/Archives/edgar/data/922224/000092222417000066/,,15
+PPL,PPL,2017Q3,2017-09-30,분기말 부채총계,30066000000,USD,계산(부채및자본-총자본),https://www.sec.gov/Archives/edgar/data/922224/000092222417000066/,부채및자본 40758000000 − 총자본 10692000000,15
+PPL,PPL,2017Q3,2017-09-30,분기말 총자본(자기자본),10692000000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/922224/000092222417000066/,"StockholdersEquity, MinorityInterest 태그 없음",15
+PPL,PPL,2017Q3,2017-09-30,분기말 지배지분 자본,10692000000,USD,공시,https://www.sec.gov/Archives/edgar/data/922224/000092222417000066/,,15
+PPL,PPL,2017Q3,2017-09-29,분기말 종가,37.95,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/PPL?interval=1d&events=splits (2017-09-29),,15
+PPL,PPL,2017Q3,2017-10-25,분기말 상장주식수,688464316,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/922224/000092222417000066/,dei:EntityCommonStockSharesOutstanding 클래스 합,15
+PPL,PPL,2017Q3,2017-09-29,분기말 시가총액,26127220792,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/PPL?interval=1d&events=splits (2017-09-29) ; https://www.sec.gov/Archives/edgar/data/922224/000092222417000066/,종가 37.95 × 주식수 688464316,15
+PPL,PPL,2017Q4,2017-12-31,분기별 매출액,1926000000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/922224/000092222418000023/ ; https://www.sec.gov/Archives/edgar/data/922224/000092222417000066/,연간 7447000000 − 9개월누적 5521000000 (Revenues),15
+PPL,PPL,2017Q4,2017-12-31,분기별 영업이익,749000000,USD,계산(연간-3분기누적)(재작성 반영),https://www.sec.gov/Archives/edgar/data/922224/000092222420000005/ ; https://www.sec.gov/Archives/edgar/data/922224/000092222418000076/,연간 2901000000 − 9개월누적 2152000000 (OperatingIncomeLoss) ; 원 공시 793000000 (https://www.sec.gov/Archives/edgar/data/922224/000092222418000023/ ; https://www.sec.gov/Archives/edgar/data/922224/000092222417000066/),15
+PPL,PPL,2017Q4,2017-12-31,분기별 당기순이익(지배),미확인,USD,미확인,https://www.sec.gov/Archives/edgar/data/922224/000092222418000023/,,15
+PPL,PPL,2017Q4,2017-12-31,분기별 영업활동현금흐름,707000000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/922224/000092222418000023/ ; https://www.sec.gov/Archives/edgar/data/922224/000092222417000066/,누적 2461000000 − 직전누적 1754000000 (시작 2017-01-01),15
+PPL,PPL,2017Q4,2017-12-31,분기말 자산총계,41479000000,USD,공시,https://www.sec.gov/Archives/edgar/data/922224/000092222418000023/,,15
+PPL,PPL,2017Q4,2017-12-31,분기말 부채총계,30718000000,USD,계산(부채및자본-총자본),https://www.sec.gov/Archives/edgar/data/922224/000092222418000023/,부채및자본 41479000000 − 총자본 10761000000,15
+PPL,PPL,2017Q4,2017-12-31,분기말 총자본(자기자본),10761000000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/922224/000092222418000023/,"StockholdersEquity, MinorityInterest 태그 없음",15
+PPL,PPL,2017Q4,2017-12-31,분기말 지배지분 자본,10761000000,USD,공시,https://www.sec.gov/Archives/edgar/data/922224/000092222418000023/,,15
+PPL,PPL,2017Q4,2017-12-29,분기말 종가,30.95,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/PPL?interval=1d&events=splits (2017-12-29),,15
+PPL,PPL,2017Q4,2018-01-31,분기말 상장주식수,694049792,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/922224/000092222418000023/,dei:EntityCommonStockSharesOutstanding 클래스 합,15
+PPL,PPL,2017Q4,2017-12-29,분기말 시가총액,21480841062,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/PPL?interval=1d&events=splits (2017-12-29) ; https://www.sec.gov/Archives/edgar/data/922224/000092222418000023/,종가 30.95 × 주식수 694049792,15
+PPL,PPL,2018Q1,2018-03-31,분기별 매출액,2126000000,USD,공시,https://www.sec.gov/Archives/edgar/data/922224/000092222418000038/,,15
+PPL,PPL,2018Q1,2018-03-31,분기별 영업이익,851000000,USD,공시,https://www.sec.gov/Archives/edgar/data/922224/000092222418000038/,,15
+PPL,PPL,2018Q1,2018-03-31,분기별 당기순이익(지배),452000000,USD,공시,https://www.sec.gov/Archives/edgar/data/922224/000092222418000038/,,15
+PPL,PPL,2018Q1,2018-03-31,분기별 영업활동현금흐름,566000000,USD,공시,https://www.sec.gov/Archives/edgar/data/922224/000092222418000038/,,15
+PPL,PPL,2018Q1,2018-03-31,분기말 자산총계,42388000000,USD,공시,https://www.sec.gov/Archives/edgar/data/922224/000092222418000038/,,15
+PPL,PPL,2018Q1,2018-03-31,분기말 부채총계,31212000000,USD,계산(부채및자본-총자본),https://www.sec.gov/Archives/edgar/data/922224/000092222418000038/,부채및자본 42388000000 − 총자본 11176000000,15
+PPL,PPL,2018Q1,2018-03-31,분기말 총자본(자기자본),11176000000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/922224/000092222418000038/,"StockholdersEquity, MinorityInterest 태그 없음",15
+PPL,PPL,2018Q1,2018-03-31,분기말 지배지분 자본,11176000000,USD,공시,https://www.sec.gov/Archives/edgar/data/922224/000092222418000038/,,15
+PPL,PPL,2018Q1,2018-03-29,분기말 종가,28.29,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/PPL?interval=1d&events=splits (2018-03-29),,15
+PPL,PPL,2018Q1,2018-04-25,분기말 상장주식수,699042874,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/922224/000092222418000038/,dei:EntityCommonStockSharesOutstanding 클래스 합,15
+PPL,PPL,2018Q1,2018-03-29,분기말 시가총액,19775922905,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/PPL?interval=1d&events=splits (2018-03-29) ; https://www.sec.gov/Archives/edgar/data/922224/000092222418000038/,종가 28.29 × 주식수 699042874,15
+PPL,PPL,2018Q2,2018-06-30,분기별 매출액,1848000000,USD,공시,https://www.sec.gov/Archives/edgar/data/922224/000092222418000058/,,15
+PPL,PPL,2018Q2,2018-06-30,분기별 영업이익,658000000,USD,공시,https://www.sec.gov/Archives/edgar/data/922224/000092222418000058/,,15
+PPL,PPL,2018Q2,2018-06-30,분기별 당기순이익(지배),515000000,USD,공시,https://www.sec.gov/Archives/edgar/data/922224/000092222418000058/,,15
+PPL,PPL,2018Q2,2018-06-30,분기별 영업활동현금흐름,759000000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/922224/000092222418000058/ ; https://www.sec.gov/Archives/edgar/data/922224/000092222418000038/,누적 1325000000 − 직전누적 566000000 (시작 2018-01-01),15
+PPL,PPL,2018Q2,2018-06-30,분기말 자산총계,42830000000,USD,공시,https://www.sec.gov/Archives/edgar/data/922224/000092222418000058/,,15
+PPL,PPL,2018Q2,2018-06-30,분기말 부채총계,31590000000,USD,계산(부채및자본-총자본),https://www.sec.gov/Archives/edgar/data/922224/000092222418000058/,부채및자본 42830000000 − 총자본 11240000000,15
+PPL,PPL,2018Q2,2018-06-30,분기말 총자본(자기자본),11240000000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/922224/000092222418000058/,"StockholdersEquity, MinorityInterest 태그 없음",15
+PPL,PPL,2018Q2,2018-06-30,분기말 지배지분 자본,11240000000,USD,공시,https://www.sec.gov/Archives/edgar/data/922224/000092222418000058/,,15
+PPL,PPL,2018Q2,2018-06-29,분기말 종가,28.55,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/PPL?interval=1d&events=splits (2018-06-29),,15
+PPL,PPL,2018Q2,2018-07-31,분기말 상장주식수,699570660,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/922224/000092222418000058/,dei:EntityCommonStockSharesOutstanding 클래스 합,15
+PPL,PPL,2018Q2,2018-06-29,분기말 시가총액,19972742343,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/PPL?interval=1d&events=splits (2018-06-29) ; https://www.sec.gov/Archives/edgar/data/922224/000092222418000058/,종가 28.55 × 주식수 699570660,15
+PPL,PPL,2018Q3,2018-09-30,분기별 매출액,1872000000,USD,공시,https://www.sec.gov/Archives/edgar/data/922224/000092222418000076/,,15
+PPL,PPL,2018Q3,2018-09-30,분기별 영업이익,686000000,USD,공시,https://www.sec.gov/Archives/edgar/data/922224/000092222418000076/,,15
+PPL,PPL,2018Q3,2018-09-30,분기별 당기순이익(지배),445000000,USD,공시,https://www.sec.gov/Archives/edgar/data/922224/000092222418000076/,,15
+PPL,PPL,2018Q3,2018-09-30,분기별 영업활동현금흐름,885000000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/922224/000092222418000076/ ; https://www.sec.gov/Archives/edgar/data/922224/000092222418000058/,누적 2210000000 − 직전누적 1325000000 (시작 2018-01-01),15
+PPL,PPL,2018Q3,2018-09-30,분기말 자산총계,43042000000,USD,공시,https://www.sec.gov/Archives/edgar/data/922224/000092222418000076/,,15
+PPL,PPL,2018Q3,2018-09-30,분기말 부채총계,31259000000,USD,계산(부채및자본-총자본),https://www.sec.gov/Archives/edgar/data/922224/000092222418000076/,부채및자본 43042000000 − 총자본 11783000000,15
+PPL,PPL,2018Q3,2018-09-30,분기말 총자본(자기자본),11783000000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/922224/000092222418000076/,"StockholdersEquity, MinorityInterest 태그 없음",15
+PPL,PPL,2018Q3,2018-09-30,분기말 지배지분 자본,11783000000,USD,공시,https://www.sec.gov/Archives/edgar/data/922224/000092222418000076/,,15
+PPL,PPL,2018Q3,2018-09-28,분기말 종가,29.26,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/PPL?interval=1d&events=splits (2018-09-28),,15
+PPL,PPL,2018Q3,2018-10-25,분기말 상장주식수,720199922,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/922224/000092222418000076/,dei:EntityCommonStockSharesOutstanding 클래스 합,15
+PPL,PPL,2018Q3,2018-09-28,분기말 시가총액,21073049718,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/PPL?interval=1d&events=splits (2018-09-28) ; https://www.sec.gov/Archives/edgar/data/922224/000092222418000076/,종가 29.26 × 주식수 720199922,15
+PPL,PPL,2018Q4,2018-12-31,분기별 매출액,1939000000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/922224/000092222419000015/ ; https://www.sec.gov/Archives/edgar/data/922224/000092222418000076/,연간 7785000000 − 9개월누적 5846000000 (Revenues),15
+PPL,PPL,2018Q4,2018-12-31,분기별 영업이익,657000000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/922224/000092222419000015/ ; https://www.sec.gov/Archives/edgar/data/922224/000092222418000076/,연간 2852000000 − 9개월누적 2195000000 (OperatingIncomeLoss),15
+PPL,PPL,2018Q4,2018-12-31,분기별 당기순이익(지배),415000000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/922224/000092222419000015/ ; https://www.sec.gov/Archives/edgar/data/922224/000092222418000076/,연간 1827000000 − 9개월누적 1412000000 (NetIncomeLoss),15
+PPL,PPL,2018Q4,2018-12-31,분기별 영업활동현금흐름,611000000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/922224/000092222419000015/ ; https://www.sec.gov/Archives/edgar/data/922224/000092222418000076/,누적 2821000000 − 직전누적 2210000000 (시작 2018-01-01),15
+PPL,PPL,2018Q4,2018-12-31,분기말 자산총계,43396000000,USD,공시,https://www.sec.gov/Archives/edgar/data/922224/000092222419000015/,,15
+PPL,PPL,2018Q4,2018-12-31,분기말 부채총계,31739000000,USD,계산(부채및자본-총자본),https://www.sec.gov/Archives/edgar/data/922224/000092222419000015/,부채및자본 43396000000 − 총자본 11657000000,15
+PPL,PPL,2018Q4,2018-12-31,분기말 총자본(자기자본),11657000000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/922224/000092222419000015/,"StockholdersEquity, MinorityInterest 태그 없음",15
+PPL,PPL,2018Q4,2018-12-31,분기말 지배지분 자본,11657000000,USD,공시,https://www.sec.gov/Archives/edgar/data/922224/000092222419000015/,,15
+PPL,PPL,2018Q4,2018-12-31,분기말 종가,28.33,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/PPL?interval=1d&events=splits (2018-12-31),,15
+PPL,PPL,2018Q4,2019-01-31,분기말 상장주식수,720936897,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/922224/000092222419000015/,dei:EntityCommonStockSharesOutstanding 클래스 합,15
+PPL,PPL,2018Q4,2018-12-31,분기말 시가총액,20424142292,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/PPL?interval=1d&events=splits (2018-12-31) ; https://www.sec.gov/Archives/edgar/data/922224/000092222419000015/,종가 28.33 × 주식수 720936897,15
+PPL,PPL,2019Q1,2019-03-31,분기별 매출액,2079000000,USD,공시,https://www.sec.gov/Archives/edgar/data/922224/000092222419000036/,,15
+PPL,PPL,2019Q1,2019-03-31,분기별 영업이익,781000000,USD,공시,https://www.sec.gov/Archives/edgar/data/922224/000092222419000036/,,15
+PPL,PPL,2019Q1,2019-03-31,분기별 당기순이익(지배),466000000,USD,공시,https://www.sec.gov/Archives/edgar/data/922224/000092222419000036/,,15
+PPL,PPL,2019Q1,2019-03-31,분기별 영업활동현금흐름,474000000,USD,공시,https://www.sec.gov/Archives/edgar/data/922224/000092222419000036/,,15
+PPL,PPL,2019Q1,2019-03-31,분기말 자산총계,44567000000,USD,공시,https://www.sec.gov/Archives/edgar/data/922224/000092222419000036/,,15
+PPL,PPL,2019Q1,2019-03-31,분기말 부채총계,32395000000,USD,계산(부채및자본-총자본),https://www.sec.gov/Archives/edgar/data/922224/000092222419000036/,부채및자본 44567000000 − 총자본 12172000000,15
+PPL,PPL,2019Q1,2019-03-31,분기말 총자본(자기자본),12172000000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/922224/000092222419000036/,"StockholdersEquity, MinorityInterest 태그 없음",15
+PPL,PPL,2019Q1,2019-03-31,분기말 지배지분 자본,12172000000,USD,공시,https://www.sec.gov/Archives/edgar/data/922224/000092222419000036/,,15
+PPL,PPL,2019Q1,2019-03-29,분기말 종가,31.74,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/PPL?interval=1d&events=splits (2019-03-29),,15
+PPL,PPL,2019Q1,2019-04-25,분기말 상장주식수,721742302,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/922224/000092222419000036/,dei:EntityCommonStockSharesOutstanding 클래스 합,15
+PPL,PPL,2019Q1,2019-03-29,분기말 시가총액,22908100665,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/PPL?interval=1d&events=splits (2019-03-29) ; https://www.sec.gov/Archives/edgar/data/922224/000092222419000036/,종가 31.74 × 주식수 721742302,15
+PPL,PPL,2019Q2,2019-06-30,분기별 매출액,1803000000,USD,공시,https://www.sec.gov/Archives/edgar/data/922224/000092222419000050/,,15
+PPL,PPL,2019Q2,2019-06-30,분기별 영업이익,640000000,USD,공시,https://www.sec.gov/Archives/edgar/data/922224/000092222419000050/,,15
+PPL,PPL,2019Q2,2019-06-30,분기별 당기순이익(지배),441000000,USD,공시,https://www.sec.gov/Archives/edgar/data/922224/000092222419000050/,,15
+PPL,PPL,2019Q2,2019-06-30,분기별 영업활동현금흐름,596000000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/922224/000092222419000050/ ; https://www.sec.gov/Archives/edgar/data/922224/000092222419000036/,누적 1070000000 − 직전누적 474000000 (시작 2019-01-01),15
+PPL,PPL,2019Q2,2019-06-30,분기말 자산총계,44204000000,USD,공시,https://www.sec.gov/Archives/edgar/data/922224/000092222419000050/,,15
+PPL,PPL,2019Q2,2019-06-30,분기말 부채총계,32221000000,USD,계산(부채및자본-총자본),https://www.sec.gov/Archives/edgar/data/922224/000092222419000050/,부채및자본 44204000000 − 총자본 11983000000,15
+PPL,PPL,2019Q2,2019-06-30,분기말 총자본(자기자본),11983000000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/922224/000092222419000050/,"StockholdersEquity, MinorityInterest 태그 없음",15
+PPL,PPL,2019Q2,2019-06-30,분기말 지배지분 자본,11983000000,USD,공시,https://www.sec.gov/Archives/edgar/data/922224/000092222419000050/,,15
+PPL,PPL,2019Q2,2019-06-28,분기말 종가,31.01,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/PPL?interval=1d&events=splits (2019-06-28),,15
+PPL,PPL,2019Q2,2019-07-31,분기말 상장주식수,722247303,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/922224/000092222419000050/,dei:EntityCommonStockSharesOutstanding 클래스 합,15
+PPL,PPL,2019Q2,2019-06-28,분기말 시가총액,22396888866,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/PPL?interval=1d&events=splits (2019-06-28) ; https://www.sec.gov/Archives/edgar/data/922224/000092222419000050/,종가 31.01 × 주식수 722247303,15
+PPL,PPL,2019Q3,2019-09-30,분기별 매출액,1933000000,USD,공시,https://www.sec.gov/Archives/edgar/data/922224/000092222419000059/,,15
+PPL,PPL,2019Q3,2019-09-30,분기별 영업이익,726000000,USD,공시,https://www.sec.gov/Archives/edgar/data/922224/000092222419000059/,,15
+PPL,PPL,2019Q3,2019-09-30,분기별 당기순이익(지배),475000000,USD,공시,https://www.sec.gov/Archives/edgar/data/922224/000092222419000059/,,15
+PPL,PPL,2019Q3,2019-09-30,분기별 영업활동현금흐름,818000000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/922224/000092222419000059/ ; https://www.sec.gov/Archives/edgar/data/922224/000092222419000050/,누적 1888000000 − 직전누적 1070000000 (시작 2019-01-01),15
+PPL,PPL,2019Q3,2019-09-30,분기말 자산총계,44559000000,USD,공시,https://www.sec.gov/Archives/edgar/data/922224/000092222419000059/,,15
+PPL,PPL,2019Q3,2019-09-30,분기말 부채총계,32657000000,USD,계산(부채및자본-총자본),https://www.sec.gov/Archives/edgar/data/922224/000092222419000059/,부채및자본 44559000000 − 총자본 11902000000,15
+PPL,PPL,2019Q3,2019-09-30,분기말 총자본(자기자본),11902000000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/922224/000092222419000059/,"StockholdersEquity, MinorityInterest 태그 없음",15
+PPL,PPL,2019Q3,2019-09-30,분기말 지배지분 자본,11902000000,USD,공시,https://www.sec.gov/Archives/edgar/data/922224/000092222419000059/,,15
+PPL,PPL,2019Q3,2019-09-30,분기말 종가,31.49,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/PPL?interval=1d&events=splits (2019-09-30),,15
+PPL,PPL,2019Q3,2019-10-31,분기말 상장주식수,723033043,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/922224/000092222419000059/,dei:EntityCommonStockSharesOutstanding 클래스 합,15
+PPL,PPL,2019Q3,2019-09-30,분기말 시가총액,22768310524,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/PPL?interval=1d&events=splits (2019-09-30) ; https://www.sec.gov/Archives/edgar/data/922224/000092222419000059/,종가 31.49 × 주식수 723033043,15
+PPL,PPL,2019Q4,2019-12-31,분기별 매출액,1954000000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/922224/000092222420000005/ ; https://www.sec.gov/Archives/edgar/data/922224/000092222419000059/,연간 7769000000 − 9개월누적 5815000000 (Revenues),15
+PPL,PPL,2019Q4,2019-12-31,분기별 영업이익,693000000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/922224/000092222420000005/ ; https://www.sec.gov/Archives/edgar/data/922224/000092222419000059/,연간 2840000000 − 9개월누적 2147000000 (OperatingIncomeLoss),15
+PPL,PPL,2019Q4,2019-12-31,분기별 당기순이익(지배),364000000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/922224/000092222420000005/ ; https://www.sec.gov/Archives/edgar/data/922224/000092222419000059/,연간 1746000000 − 9개월누적 1382000000 (NetIncomeLoss),15
+PPL,PPL,2019Q4,2019-12-31,분기별 영업활동현금흐름,539000000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/922224/000092222420000005/ ; https://www.sec.gov/Archives/edgar/data/922224/000092222419000059/,누적 2427000000 − 직전누적 1888000000 (시작 2019-01-01),15
+PPL,PPL,2019Q4,2019-12-31,분기말 자산총계,45680000000,USD,공시,https://www.sec.gov/Archives/edgar/data/922224/000092222420000005/,,15
+PPL,PPL,2019Q4,2019-12-31,분기말 부채총계,32689000000,USD,계산(부채및자본-총자본),https://www.sec.gov/Archives/edgar/data/922224/000092222420000005/,부채및자본 45680000000 − 총자본 12991000000,15
+PPL,PPL,2019Q4,2019-12-31,분기말 총자본(자기자본),12991000000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/922224/000092222420000005/,"StockholdersEquity, MinorityInterest 태그 없음",15
+PPL,PPL,2019Q4,2019-12-31,분기말 지배지분 자본,12991000000,USD,공시,https://www.sec.gov/Archives/edgar/data/922224/000092222420000005/,,15
+PPL,PPL,2019Q4,2019-12-31,분기말 종가,35.88,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/PPL?interval=1d&events=splits (2019-12-31),,15
+PPL,PPL,2019Q4,2020-01-31,분기말 상장주식수,767813625,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/922224/000092222420000005/,dei:EntityCommonStockSharesOutstanding 클래스 합,15
+PPL,PPL,2019Q4,2019-12-31,분기말 시가총액,27549152865,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/PPL?interval=1d&events=splits (2019-12-31) ; https://www.sec.gov/Archives/edgar/data/922224/000092222420000005/,종가 35.88 × 주식수 767813625,15
+PPL,PPL,2020Q1,2020-03-31,분기별 매출액,2054000000,USD,공시,https://www.sec.gov/Archives/edgar/data/922224/000092222420000024/,,15
+PPL,PPL,2020Q1,2020-03-31,분기별 영업이익,817000000,USD,공시,https://www.sec.gov/Archives/edgar/data/922224/000092222420000024/,,15
+PPL,PPL,2020Q1,2020-03-31,분기별 당기순이익(지배),554000000,USD,공시,https://www.sec.gov/Archives/edgar/data/922224/000092222420000024/,,15
+PPL,PPL,2020Q1,2020-03-31,분기별 영업활동현금흐름,692000000,USD,공시,https://www.sec.gov/Archives/edgar/data/922224/000092222420000024/,,15
+PPL,PPL,2020Q1,2020-03-31,분기말 자산총계,46328000000,USD,공시,https://www.sec.gov/Archives/edgar/data/922224/000092222420000024/,,15
+PPL,PPL,2020Q1,2020-03-31,분기말 부채총계,33087000000,USD,계산(부채및자본-총자본),https://www.sec.gov/Archives/edgar/data/922224/000092222420000024/,부채및자본 46328000000 − 총자본 13241000000,15
+PPL,PPL,2020Q1,2020-03-31,분기말 총자본(자기자본),13241000000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/922224/000092222420000024/,"StockholdersEquity, MinorityInterest 태그 없음",15
+PPL,PPL,2020Q1,2020-03-31,분기말 지배지분 자본,13241000000,USD,공시,https://www.sec.gov/Archives/edgar/data/922224/000092222420000024/,,15
+PPL,PPL,2020Q1,2020-03-31,분기말 종가,24.68,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/PPL?interval=1d&events=splits (2020-03-31),,15
+PPL,PPL,2020Q1,2020-04-30,분기말 상장주식수,768763491,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/922224/000092222420000024/,dei:EntityCommonStockSharesOutstanding 클래스 합,15
+PPL,PPL,2020Q1,2020-03-31,분기말 시가총액,18973082958,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/PPL?interval=1d&events=splits (2020-03-31) ; https://www.sec.gov/Archives/edgar/data/922224/000092222420000024/,종가 24.68 × 주식수 768763491,15
+PPL,PPL,2020Q2,2020-06-30,분기별 매출액,1739000000,USD,공시,https://www.sec.gov/Archives/edgar/data/922224/000092222420000046/,,15
+PPL,PPL,2020Q2,2020-06-30,분기별 영업이익,595000000,USD,공시,https://www.sec.gov/Archives/edgar/data/922224/000092222420000046/,,15
+PPL,PPL,2020Q2,2020-06-30,분기별 당기순이익(지배),344000000,USD,공시,https://www.sec.gov/Archives/edgar/data/922224/000092222420000046/,,15
+PPL,PPL,2020Q2,2020-06-30,분기별 영업활동현금흐름,607000000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/922224/000092222420000046/ ; https://www.sec.gov/Archives/edgar/data/922224/000092222420000024/,누적 1299000000 − 직전누적 692000000 (시작 2020-01-01),15
+PPL,PPL,2020Q2,2020-06-30,분기말 자산총계,46520000000,USD,공시,https://www.sec.gov/Archives/edgar/data/922224/000092222420000046/,,15
+PPL,PPL,2020Q2,2020-06-30,분기말 부채총계,33476000000,USD,계산(부채및자본-총자본),https://www.sec.gov/Archives/edgar/data/922224/000092222420000046/,부채및자본 46520000000 − 총자본 13044000000,15
+PPL,PPL,2020Q2,2020-06-30,분기말 총자본(자기자본),13044000000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/922224/000092222420000046/,"StockholdersEquity, MinorityInterest 태그 없음",15
+PPL,PPL,2020Q2,2020-06-30,분기말 지배지분 자본,13044000000,USD,공시,https://www.sec.gov/Archives/edgar/data/922224/000092222420000046/,,15
+PPL,PPL,2020Q2,2020-06-30,분기말 종가,25.84,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/PPL?interval=1d&events=splits (2020-06-30),,15
+PPL,PPL,2020Q2,2020-07-31,분기말 상장주식수,768783540,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/922224/000092222420000046/,dei:EntityCommonStockSharesOutstanding 클래스 합,15
+PPL,PPL,2020Q2,2020-06-30,분기말 시가총액,19865366674,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/PPL?interval=1d&events=splits (2020-06-30) ; https://www.sec.gov/Archives/edgar/data/922224/000092222420000046/,종가 25.84 × 주식수 768783540,15
+PPL,PPL,2020Q3,2020-09-30,분기별 매출액,1885000000,USD,공시,https://www.sec.gov/Archives/edgar/data/922224/000092222420000060/,,15
+PPL,PPL,2020Q3,2020-09-30,분기별 영업이익,687000000,USD,공시,https://www.sec.gov/Archives/edgar/data/922224/000092222420000060/,,15
+PPL,PPL,2020Q3,2020-09-30,분기별 당기순이익(지배),281000000,USD,공시,https://www.sec.gov/Archives/edgar/data/922224/000092222420000060/,,15
+PPL,PPL,2020Q3,2020-09-30,분기별 영업활동현금흐름,948000000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/922224/000092222420000060/ ; https://www.sec.gov/Archives/edgar/data/922224/000092222420000046/,누적 2247000000 − 직전누적 1299000000 (시작 2020-01-01),15
+PPL,PPL,2020Q3,2020-09-30,분기말 자산총계,47924000000,USD,공시,https://www.sec.gov/Archives/edgar/data/922224/000092222420000060/,,15
+PPL,PPL,2020Q3,2020-09-30,분기말 부채총계,34238000000,USD,계산(부채및자본-총자본),https://www.sec.gov/Archives/edgar/data/922224/000092222420000060/,부채및자본 47924000000 − 총자본 13686000000,15
+PPL,PPL,2020Q3,2020-09-30,분기말 총자본(자기자본),13686000000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/922224/000092222420000060/,"StockholdersEquity, MinorityInterest 태그 없음",15
+PPL,PPL,2020Q3,2020-09-30,분기말 지배지분 자본,13686000000,USD,공시,https://www.sec.gov/Archives/edgar/data/922224/000092222420000060/,,15
+PPL,PPL,2020Q3,2020-09-30,분기말 종가,27.21,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/PPL?interval=1d&events=splits (2020-09-30),,15
+PPL,PPL,2020Q3,2020-10-31,분기말 상장주식수,768827321,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/922224/000092222420000060/,dei:EntityCommonStockSharesOutstanding 클래스 합,15
+PPL,PPL,2020Q3,2020-09-30,분기말 시가총액,20919791404,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/PPL?interval=1d&events=splits (2020-09-30) ; https://www.sec.gov/Archives/edgar/data/922224/000092222420000060/,종가 27.21 × 주식수 768827321,15
+PPL,PPL,2020Q4,2020-12-31,분기별 매출액,1929000000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/922224/000092222421000006/ ; https://www.sec.gov/Archives/edgar/data/922224/000092222420000060/,연간 7607000000 − 9개월누적 5678000000 (Revenues),15
+PPL,PPL,2020Q4,2020-12-31,분기별 영업이익,704000000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/922224/000092222421000006/ ; https://www.sec.gov/Archives/edgar/data/922224/000092222420000060/,연간 2803000000 − 9개월누적 2099000000 (OperatingIncomeLoss),15
+PPL,PPL,2020Q4,2020-12-31,분기별 당기순이익(지배),290000000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/922224/000092222421000006/ ; https://www.sec.gov/Archives/edgar/data/922224/000092222420000060/,연간 1469000000 − 9개월누적 1179000000 (NetIncomeLoss),15
+PPL,PPL,2020Q4,2020-12-31,분기별 영업활동현금흐름,499000000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/922224/000092222421000006/ ; https://www.sec.gov/Archives/edgar/data/922224/000092222420000060/,누적 2746000000 − 직전누적 2247000000 (시작 2020-01-01),15
+PPL,PPL,2020Q4,2020-12-31,분기말 자산총계,48116000000,USD,공시,https://www.sec.gov/Archives/edgar/data/922224/000092222421000006/,,15
+PPL,PPL,2020Q4,2020-12-31,분기말 부채총계,34743000000,USD,계산(부채및자본-총자본),https://www.sec.gov/Archives/edgar/data/922224/000092222421000006/,부채및자본 48116000000 − 총자본 13373000000,15
+PPL,PPL,2020Q4,2020-12-31,분기말 총자본(자기자본),13373000000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/922224/000092222421000006/,"StockholdersEquity, MinorityInterest 태그 없음",15
+PPL,PPL,2020Q4,2020-12-31,분기말 지배지분 자본,13373000000,USD,공시,https://www.sec.gov/Archives/edgar/data/922224/000092222421000006/,,15
+PPL,PPL,2020Q4,2020-12-31,분기말 종가,28.2,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/PPL?interval=1d&events=splits (2020-12-31),,15
+PPL,PPL,2020Q4,2021-01-31,분기말 상장주식수,768984785,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/922224/000092222421000006/,dei:EntityCommonStockSharesOutstanding 클래스 합,15
+PPL,PPL,2020Q4,2020-12-31,분기말 시가총액,21685370937,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/PPL?interval=1d&events=splits (2020-12-31) ; https://www.sec.gov/Archives/edgar/data/922224/000092222421000006/,종가 28.2 × 주식수 768984785,15
+PPL,PPL,2021Q1,2021-03-31,분기별 매출액,1498000000,USD,공시,https://www.sec.gov/Archives/edgar/data/922224/000092222421000021/,,15
+PPL,PPL,2021Q1,2021-03-31,분기별 영업이익,415000000,USD,공시,https://www.sec.gov/Archives/edgar/data/922224/000092222421000021/,,15
+PPL,PPL,2021Q1,2021-03-31,분기별 당기순이익(지배),-1840000000,USD,공시,https://www.sec.gov/Archives/edgar/data/922224/000092222421000021/,,15
+PPL,PPL,2021Q1,2021-03-31,분기별 영업활동현금흐름,663000000,USD,공시,https://www.sec.gov/Archives/edgar/data/922224/000092222421000021/,,15
+PPL,PPL,2021Q1,2021-03-31,분기말 자산총계,47781000000,USD,공시,https://www.sec.gov/Archives/edgar/data/922224/000092222421000021/,,15
+PPL,PPL,2021Q1,2021-03-31,분기말 부채총계,36227000000,USD,계산(부채및자본-총자본),https://www.sec.gov/Archives/edgar/data/922224/000092222421000021/,부채및자본 47781000000 − 총자본 11554000000,15
+PPL,PPL,2021Q1,2021-03-31,분기말 총자본(자기자본),11554000000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/922224/000092222421000021/,"StockholdersEquity, MinorityInterest 태그 없음",15
+PPL,PPL,2021Q1,2021-03-31,분기말 지배지분 자본,11554000000,USD,공시,https://www.sec.gov/Archives/edgar/data/922224/000092222421000021/,,15
+PPL,PPL,2021Q1,2021-03-31,분기말 종가,28.84,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/PPL?interval=1d&events=splits (2021-03-31),,15
+PPL,PPL,2021Q1,2021-04-30,분기말 상장주식수,769427879,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/922224/000092222421000021/,dei:EntityCommonStockSharesOutstanding 클래스 합,15
+PPL,PPL,2021Q1,2021-03-31,분기말 시가총액,22190300030,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/PPL?interval=1d&events=splits (2021-03-31) ; https://www.sec.gov/Archives/edgar/data/922224/000092222421000021/,종가 28.84 × 주식수 769427879,15
+PPL,PPL,2021Q2,2021-06-30,분기별 매출액,1288000000,USD,공시,https://www.sec.gov/Archives/edgar/data/922224/000092222421000039/,,15
+PPL,PPL,2021Q2,2021-06-30,분기별 영업이익,270000000,USD,공시,https://www.sec.gov/Archives/edgar/data/922224/000092222421000039/,,15
+PPL,PPL,2021Q2,2021-06-30,분기별 당기순이익(지배),19000000,USD,공시,https://www.sec.gov/Archives/edgar/data/922224/000092222421000039/,,15
+PPL,PPL,2021Q2,2021-06-30,분기별 영업활동현금흐름,858000000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/922224/000092222421000039/ ; https://www.sec.gov/Archives/edgar/data/922224/000092222421000021/,누적 1521000000 − 직전누적 663000000 (시작 2021-01-01),15
+PPL,PPL,2021Q2,2021-06-30,분기말 자산총계,36759000000,USD,공시,https://www.sec.gov/Archives/edgar/data/922224/000092222421000039/,,15
+PPL,PPL,2021Q2,2021-06-30,분기말 부채총계,21807000000,USD,계산(부채및자본-총자본),https://www.sec.gov/Archives/edgar/data/922224/000092222421000039/,부채및자본 36759000000 − 총자본 14952000000,15
+PPL,PPL,2021Q2,2021-06-30,분기말 총자본(자기자본),14952000000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/922224/000092222421000039/,"StockholdersEquity, MinorityInterest 태그 없음",15
+PPL,PPL,2021Q2,2021-06-30,분기말 지배지분 자본,14952000000,USD,공시,https://www.sec.gov/Archives/edgar/data/922224/000092222421000039/,,15
+PPL,PPL,2021Q2,2021-06-30,분기말 종가,27.97,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/PPL?interval=1d&events=splits (2021-06-30),,15
+PPL,PPL,2021Q2,2021-07-30,분기말 상장주식수,769605825,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/922224/000092222421000039/,dei:EntityCommonStockSharesOutstanding 클래스 합,15
+PPL,PPL,2021Q2,2021-06-30,분기말 시가총액,21525874925,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/PPL?interval=1d&events=splits (2021-06-30) ; https://www.sec.gov/Archives/edgar/data/922224/000092222421000039/,종가 27.97 × 주식수 769605825,15
+PPL,PPL,2021Q3,2021-09-30,분기별 매출액,1512000000,USD,공시,https://www.sec.gov/Archives/edgar/data/922224/000092222421000052/,,15
+PPL,PPL,2021Q3,2021-09-30,분기별 영업이익,431000000,USD,공시,https://www.sec.gov/Archives/edgar/data/922224/000092222421000052/,,15
+PPL,PPL,2021Q3,2021-09-30,분기별 당기순이익(지배),207000000,USD,공시,https://www.sec.gov/Archives/edgar/data/922224/000092222421000052/,,15
+PPL,PPL,2021Q3,2021-09-30,분기별 영업활동현금흐름,457000000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/922224/000092222421000052/ ; https://www.sec.gov/Archives/edgar/data/922224/000092222421000039/,누적 1978000000 − 직전누적 1521000000 (시작 2021-01-01),15
+PPL,PPL,2021Q3,2021-09-30,분기말 자산총계,34171000000,USD,공시,https://www.sec.gov/Archives/edgar/data/922224/000092222421000052/,,15
+PPL,PPL,2021Q3,2021-09-30,분기말 부채총계,19595000000,USD,계산(부채및자본-총자본),https://www.sec.gov/Archives/edgar/data/922224/000092222421000052/,부채및자본 34171000000 − 총자본 14576000000,15
+PPL,PPL,2021Q3,2021-09-30,분기말 총자본(자기자본),14576000000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/922224/000092222421000052/,"StockholdersEquity, MinorityInterest 태그 없음",15
+PPL,PPL,2021Q3,2021-09-30,분기말 지배지분 자본,14576000000,USD,공시,https://www.sec.gov/Archives/edgar/data/922224/000092222421000052/,,15
+PPL,PPL,2021Q3,2021-09-30,분기말 종가,27.88,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/PPL?interval=1d&events=splits (2021-09-30),,15
+PPL,PPL,2021Q3,2021-10-31,분기말 상장주식수,750715902,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/922224/000092222421000052/,dei:EntityCommonStockSharesOutstanding 클래스 합,15
+PPL,PPL,2021Q3,2021-09-30,분기말 시가총액,20929959348,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/PPL?interval=1d&events=splits (2021-09-30) ; https://www.sec.gov/Archives/edgar/data/922224/000092222421000052/,종가 27.88 × 주식수 750715902,15
+PPL,PPL,2021Q4,2021-12-31,분기별 매출액,1485000000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/922224/000092222422000005/ ; https://www.sec.gov/Archives/edgar/data/922224/000092222421000052/,연간 5783000000 − 9개월누적 4298000000 (Revenues),15
+PPL,PPL,2021Q4,2021-12-31,분기별 영업이익,308000000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/922224/000092222422000005/ ; https://www.sec.gov/Archives/edgar/data/922224/000092222421000052/,연간 1424000000 − 9개월누적 1116000000 (OperatingIncomeLoss),15
+PPL,PPL,2021Q4,2021-12-31,분기별 당기순이익(지배),134000000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/922224/000092222422000005/ ; https://www.sec.gov/Archives/edgar/data/922224/000092222421000052/,연간 -1480000000 − 9개월누적 -1614000000 (NetIncomeLoss),15
+PPL,PPL,2021Q4,2021-12-31,분기별 영업활동현금흐름,292000000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/922224/000092222422000005/ ; https://www.sec.gov/Archives/edgar/data/922224/000092222421000052/,누적 2270000000 − 직전누적 1978000000 (시작 2021-01-01),15
+PPL,PPL,2021Q4,2021-12-31,분기말 자산총계,33223000000,USD,공시,https://www.sec.gov/Archives/edgar/data/922224/000092222422000005/,,15
+PPL,PPL,2021Q4,2021-12-31,분기말 부채총계,19500000000,USD,계산(부채및자본-총자본),https://www.sec.gov/Archives/edgar/data/922224/000092222422000005/,부채및자본 33223000000 − 총자본 13723000000,15
+PPL,PPL,2021Q4,2021-12-31,분기말 총자본(자기자본),13723000000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/922224/000092222422000005/,"StockholdersEquity, MinorityInterest 태그 없음",15
+PPL,PPL,2021Q4,2021-12-31,분기말 지배지분 자본,13723000000,USD,공시,https://www.sec.gov/Archives/edgar/data/922224/000092222422000005/,,15
+PPL,PPL,2021Q4,2021-12-31,분기말 종가,30.06,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/PPL?interval=1d&events=splits (2021-12-31),,15
+PPL,PPL,2021Q4,2022-01-31,분기말 상장주식수,735361885,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/922224/000092222422000005/,dei:EntityCommonStockSharesOutstanding 클래스 합,15
+PPL,PPL,2021Q4,2021-12-31,분기말 시가총액,22104978263,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/PPL?interval=1d&events=splits (2021-12-31) ; https://www.sec.gov/Archives/edgar/data/922224/000092222422000005/,종가 30.06 × 주식수 735361885,15
+PPL,PPL,2022Q1,2022-03-31,분기별 매출액,1782000000,USD,공시,https://www.sec.gov/Archives/edgar/data/922224/000092222422000024/,,15
+PPL,PPL,2022Q1,2022-03-31,분기별 영업이익,454000000,USD,공시,https://www.sec.gov/Archives/edgar/data/922224/000092222422000024/,,15
+PPL,PPL,2022Q1,2022-03-31,분기별 당기순이익(지배),273000000,USD,공시,https://www.sec.gov/Archives/edgar/data/922224/000092222422000024/,,15
+PPL,PPL,2022Q1,2022-03-31,분기별 영업활동현금흐름,502000000,USD,공시,https://www.sec.gov/Archives/edgar/data/922224/000092222422000024/,,15
+PPL,PPL,2022Q1,2022-03-31,분기말 자산총계,34107000000,USD,공시,https://www.sec.gov/Archives/edgar/data/922224/000092222422000024/,,15
+PPL,PPL,2022Q1,2022-03-31,분기말 부채총계,20242000000,USD,계산(부채및자본-총자본),https://www.sec.gov/Archives/edgar/data/922224/000092222422000024/,부채및자본 34107000000 − 총자본 13865000000,15
+PPL,PPL,2022Q1,2022-03-31,분기말 총자본(자기자본),13865000000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/922224/000092222422000024/,"StockholdersEquity, MinorityInterest 태그 없음",15
+PPL,PPL,2022Q1,2022-03-31,분기말 지배지분 자본,13865000000,USD,공시,https://www.sec.gov/Archives/edgar/data/922224/000092222422000024/,,15
+PPL,PPL,2022Q1,2022-03-31,분기말 종가,28.56,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/PPL?interval=1d&events=splits (2022-03-31),,15
+PPL,PPL,2022Q1,2022-04-29,분기말 상장주식수,735903010,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/922224/000092222422000024/,dei:EntityCommonStockSharesOutstanding 클래스 합,15
+PPL,PPL,2022Q1,2022-03-31,분기말 시가총액,21017389966,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/PPL?interval=1d&events=splits (2022-03-31) ; https://www.sec.gov/Archives/edgar/data/922224/000092222422000024/,종가 28.56 × 주식수 735903010,15
+PPL,PPL,2022Q2,2022-06-30,분기별 매출액,1696000000,USD,공시,https://www.sec.gov/Archives/edgar/data/922224/000092222422000042/,,15
+PPL,PPL,2022Q2,2022-06-30,분기별 영업이익,243000000,USD,공시,https://www.sec.gov/Archives/edgar/data/922224/000092222422000042/,,15
+PPL,PPL,2022Q2,2022-06-30,분기별 당기순이익(지배),119000000,USD,공시,https://www.sec.gov/Archives/edgar/data/922224/000092222422000042/,,15
+PPL,PPL,2022Q2,2022-06-30,분기별 영업활동현금흐름,477000000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/922224/000092222422000042/ ; https://www.sec.gov/Archives/edgar/data/922224/000092222422000024/,누적 979000000 − 직전누적 502000000 (시작 2022-01-01),15
+PPL,PPL,2022Q2,2022-06-30,분기말 자산총계,37062000000,USD,공시,https://www.sec.gov/Archives/edgar/data/922224/000092222422000042/,,15
+PPL,PPL,2022Q2,2022-06-30,분기말 부채총계,23189000000,USD,계산(부채및자본-총자본),https://www.sec.gov/Archives/edgar/data/922224/000092222422000042/,부채및자본 37062000000 − 총자본 13873000000,15
+PPL,PPL,2022Q2,2022-06-30,분기말 총자본(자기자본),13873000000,USD,공시,https://www.sec.gov/Archives/edgar/data/922224/000092222422000042/,,15
+PPL,PPL,2022Q2,2022-06-30,분기말 지배지분 자본,13870000000,USD,공시,https://www.sec.gov/Archives/edgar/data/922224/000092222422000042/,,15
+PPL,PPL,2022Q2,2022-06-30,분기말 종가,27.13,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/PPL?interval=1d&events=splits (2022-06-30),,15
+PPL,PPL,2022Q2,2022-07-29,분기말 상장주식수,736184769,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/922224/000092222422000042/,dei:EntityCommonStockSharesOutstanding 클래스 합,15
+PPL,PPL,2022Q2,2022-06-30,분기말 시가총액,19972692783,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/PPL?interval=1d&events=splits (2022-06-30) ; https://www.sec.gov/Archives/edgar/data/922224/000092222422000042/,종가 27.13 × 주식수 736184769,15
+PPL,PPL,2022Q3,2022-09-30,분기별 매출액,2134000000,USD,공시,https://www.sec.gov/Archives/edgar/data/922224/000092222422000049/,,15
+PPL,PPL,2022Q3,2022-09-30,분기별 영업이익,341000000,USD,공시,https://www.sec.gov/Archives/edgar/data/922224/000092222422000049/,,15
+PPL,PPL,2022Q3,2022-09-30,분기별 당기순이익(지배),174000000,USD,공시,https://www.sec.gov/Archives/edgar/data/922224/000092222422000049/,,15
+PPL,PPL,2022Q3,2022-09-30,분기별 영업활동현금흐름,532000000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/922224/000092222422000049/ ; https://www.sec.gov/Archives/edgar/data/922224/000092222422000042/,누적 1511000000 − 직전누적 979000000 (시작 2022-01-01),15
+PPL,PPL,2022Q3,2022-09-30,분기말 자산총계,37378000000,USD,공시,https://www.sec.gov/Archives/edgar/data/922224/000092222422000049/,,15
+PPL,PPL,2022Q3,2022-09-30,분기말 부채총계,23494000000,USD,계산(부채및자본-총자본),https://www.sec.gov/Archives/edgar/data/922224/000092222422000049/,부채및자본 37378000000 − 총자본 13884000000,15
+PPL,PPL,2022Q3,2022-09-30,분기말 총자본(자기자본),13884000000,USD,공시,https://www.sec.gov/Archives/edgar/data/922224/000092222422000049/,,15
+PPL,PPL,2022Q3,2022-09-30,분기말 지배지분 자본,13881000000,USD,공시,https://www.sec.gov/Archives/edgar/data/922224/000092222422000049/,,15
+PPL,PPL,2022Q3,2022-09-30,분기말 종가,25.35,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/PPL?interval=1d&events=splits (2022-09-30),,15
+PPL,PPL,2022Q3,2022-10-31,분기말 상장주식수,736318284,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/922224/000092222422000049/,dei:EntityCommonStockSharesOutstanding 클래스 합,15
+PPL,PPL,2022Q3,2022-09-30,분기말 시가총액,18665668499,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/PPL?interval=1d&events=splits (2022-09-30) ; https://www.sec.gov/Archives/edgar/data/922224/000092222422000049/,종가 25.35 × 주식수 736318284,15
+PPL,PPL,2022Q4,2022-12-31,분기별 매출액,2290000000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/922224/000092222423000010/ ; https://www.sec.gov/Archives/edgar/data/922224/000092222422000049/,연간 7902000000 − 9개월누적 5612000000 (Revenues),15
+PPL,PPL,2022Q4,2022-12-31,분기별 영업이익,336000000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/922224/000092222423000010/ ; https://www.sec.gov/Archives/edgar/data/922224/000092222422000049/,연간 1374000000 − 9개월누적 1038000000 (OperatingIncomeLoss),15
+PPL,PPL,2022Q4,2022-12-31,분기별 당기순이익(지배),190000000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/922224/000092222423000010/ ; https://www.sec.gov/Archives/edgar/data/922224/000092222422000049/,연간 756000000 − 9개월누적 566000000 (NetIncomeLoss),15
+PPL,PPL,2022Q4,2022-12-31,분기별 영업활동현금흐름,219000000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/922224/000092222423000010/ ; https://www.sec.gov/Archives/edgar/data/922224/000092222422000049/,누적 1730000000 − 직전누적 1511000000 (시작 2022-01-01),15
+PPL,PPL,2022Q4,2022-12-31,분기말 자산총계,37837000000,USD,공시,https://www.sec.gov/Archives/edgar/data/922224/000092222423000010/,,15
+PPL,PPL,2022Q4,2022-12-31,분기말 부채총계,23919000000,USD,계산(부채및자본-총자본),https://www.sec.gov/Archives/edgar/data/922224/000092222423000010/,부채및자본 37837000000 − 총자본 13918000000,15
+PPL,PPL,2022Q4,2022-12-31,분기말 총자본(자기자본),13918000000,USD,공시,https://www.sec.gov/Archives/edgar/data/922224/000092222423000010/,,15
+PPL,PPL,2022Q4,2022-12-31,분기말 지배지분 자본,13915000000,USD,공시,https://www.sec.gov/Archives/edgar/data/922224/000092222423000010/,,15
+PPL,PPL,2022Q4,2022-12-30,분기말 종가,29.22,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/PPL?interval=1d&events=splits (2022-12-30),,15
+PPL,PPL,2022Q4,2023-01-31,분기말 상장주식수,736677854,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/922224/000092222423000010/,dei:EntityCommonStockSharesOutstanding 클래스 합,15
+PPL,PPL,2022Q4,2022-12-30,분기말 시가총액,21525726894,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/PPL?interval=1d&events=splits (2022-12-30) ; https://www.sec.gov/Archives/edgar/data/922224/000092222423000010/,종가 29.22 × 주식수 736677854,15
+PPL,PPL,2023Q1,2023-03-31,분기별 매출액,2415000000,USD,공시,https://www.sec.gov/Archives/edgar/data/922224/000092222423000031/,,15
+PPL,PPL,2023Q1,2023-03-31,분기별 영업이익,498000000,USD,공시,https://www.sec.gov/Archives/edgar/data/922224/000092222423000031/,,15
+PPL,PPL,2023Q1,2023-03-31,분기별 당기순이익(지배),285000000,USD,공시,https://www.sec.gov/Archives/edgar/data/922224/000092222423000031/,,15
+PPL,PPL,2023Q1,2023-03-31,분기별 영업활동현금흐름,430000000,USD,공시,https://www.sec.gov/Archives/edgar/data/922224/000092222423000031/,,15
+PPL,PPL,2023Q1,2023-03-31,분기말 자산총계,38302000000,USD,공시,https://www.sec.gov/Archives/edgar/data/922224/000092222423000031/,,15
+PPL,PPL,2023Q1,2023-03-31,분기말 부채총계,24266000000,USD,계산(부채및자본-총자본),https://www.sec.gov/Archives/edgar/data/922224/000092222423000031/,부채및자본 38302000000 − 총자본 14036000000,15
+PPL,PPL,2023Q1,2023-03-31,분기말 총자본(자기자본),14036000000,USD,공시,https://www.sec.gov/Archives/edgar/data/922224/000092222423000031/,,15
+PPL,PPL,2023Q1,2023-03-31,분기말 지배지분 자본,14033000000,USD,공시,https://www.sec.gov/Archives/edgar/data/922224/000092222423000031/,,15
+PPL,PPL,2023Q1,2023-03-31,분기말 종가,27.79,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/PPL?interval=1d&events=splits (2023-03-31),,15
+PPL,PPL,2023Q1,2023-04-28,분기말 상장주식수,737067641,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/922224/000092222423000031/,dei:EntityCommonStockSharesOutstanding 클래스 합,15
+PPL,PPL,2023Q1,2023-03-31,분기말 시가총액,20483109743,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/PPL?interval=1d&events=splits (2023-03-31) ; https://www.sec.gov/Archives/edgar/data/922224/000092222423000031/,종가 27.79 × 주식수 737067641,15
+PPL,PPL,2023Q2,2023-06-30,분기별 매출액,1823000000,USD,공시,https://www.sec.gov/Archives/edgar/data/922224/000092222423000045/,,15
+PPL,PPL,2023Q2,2023-06-30,분기별 영업이익,305000000,USD,공시,https://www.sec.gov/Archives/edgar/data/922224/000092222423000045/,,15
+PPL,PPL,2023Q2,2023-06-30,분기별 당기순이익(지배),112000000,USD,공시,https://www.sec.gov/Archives/edgar/data/922224/000092222423000045/,,15
+PPL,PPL,2023Q2,2023-06-30,분기별 영업활동현금흐름,412000000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/922224/000092222423000045/ ; https://www.sec.gov/Archives/edgar/data/922224/000092222423000031/,누적 842000000 − 직전누적 430000000 (시작 2023-01-01),15
+PPL,PPL,2023Q2,2023-06-30,분기말 자산총계,38296000000,USD,공시,https://www.sec.gov/Archives/edgar/data/922224/000092222423000045/,,15
+PPL,PPL,2023Q2,2023-06-30,분기말 부채총계,24337000000,USD,계산(부채및자본-총자본),https://www.sec.gov/Archives/edgar/data/922224/000092222423000045/,부채및자본 38296000000 − 총자본 13959000000,15
+PPL,PPL,2023Q2,2023-06-30,분기말 총자본(자기자본),13959000000,USD,공시,https://www.sec.gov/Archives/edgar/data/922224/000092222423000045/,,15
+PPL,PPL,2023Q2,2023-06-30,분기말 지배지분 자본,13959000000,USD,공시,https://www.sec.gov/Archives/edgar/data/922224/000092222423000045/,,15
+PPL,PPL,2023Q2,2023-06-30,분기말 종가,26.46,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/PPL?interval=1d&events=splits (2023-06-30),,15
+PPL,PPL,2023Q2,2023-07-31,분기말 상장주식수,737088540,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/922224/000092222423000045/,dei:EntityCommonStockSharesOutstanding 클래스 합,15
+PPL,PPL,2023Q2,2023-06-30,분기말 시가총액,19503362768,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/PPL?interval=1d&events=splits (2023-06-30) ; https://www.sec.gov/Archives/edgar/data/922224/000092222423000045/,종가 26.46 × 주식수 737088540,15
+PPL,PPL,2023Q3,2023-09-30,분기별 매출액,2043000000,USD,공시,https://www.sec.gov/Archives/edgar/data/922224/000092222423000049/,,15
+PPL,PPL,2023Q3,2023-09-30,분기별 영업이익,437000000,USD,공시,https://www.sec.gov/Archives/edgar/data/922224/000092222423000049/,,15
+PPL,PPL,2023Q3,2023-09-30,분기별 당기순이익(지배),230000000,USD,공시,https://www.sec.gov/Archives/edgar/data/922224/000092222423000049/,,15
+PPL,PPL,2023Q3,2023-09-30,분기별 영업활동현금흐름,806000000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/922224/000092222423000049/ ; https://www.sec.gov/Archives/edgar/data/922224/000092222423000045/,누적 1648000000 − 직전누적 842000000 (시작 2023-01-01),15
+PPL,PPL,2023Q3,2023-09-30,분기말 자산총계,38629000000,USD,공시,https://www.sec.gov/Archives/edgar/data/922224/000092222423000049/,,15
+PPL,PPL,2023Q3,2023-09-30,분기말 부채총계,24617000000,USD,계산(부채및자본-총자본),https://www.sec.gov/Archives/edgar/data/922224/000092222423000049/,부채및자본 38629000000 − 총자본 14012000000,15
+PPL,PPL,2023Q3,2023-09-30,분기말 총자본(자기자본),14012000000,USD,공시,https://www.sec.gov/Archives/edgar/data/922224/000092222423000049/,,15
+PPL,PPL,2023Q3,2023-09-30,분기말 지배지분 자본,14012000000,USD,공시,https://www.sec.gov/Archives/edgar/data/922224/000092222423000049/,,15
+PPL,PPL,2023Q3,2023-09-29,분기말 종가,23.56,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/PPL?interval=1d&events=splits (2023-09-29),,15
+PPL,PPL,2023Q3,2023-10-30,분기말 상장주식수,737124389,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/922224/000092222423000049/,dei:EntityCommonStockSharesOutstanding 클래스 합,15
+PPL,PPL,2023Q3,2023-09-29,분기말 시가총액,17366650605,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/PPL?interval=1d&events=splits (2023-09-29) ; https://www.sec.gov/Archives/edgar/data/922224/000092222423000049/,종가 23.56 × 주식수 737124389,15
+PPL,PPL,2023Q4,2023-12-31,분기별 매출액,2031000000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/922224/000092222424000008/ ; https://www.sec.gov/Archives/edgar/data/922224/000092222423000049/,연간 8312000000 − 9개월누적 6281000000 (Revenues),15
+PPL,PPL,2023Q4,2023-12-31,분기별 영업이익,390000000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/922224/000092222424000008/ ; https://www.sec.gov/Archives/edgar/data/922224/000092222423000049/,연간 1630000000 − 9개월누적 1240000000 (OperatingIncomeLoss),15
+PPL,PPL,2023Q4,2023-12-31,분기별 당기순이익(지배),113000000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/922224/000092222424000008/ ; https://www.sec.gov/Archives/edgar/data/922224/000092222423000049/,연간 740000000 − 9개월누적 627000000 (NetIncomeLoss),15
+PPL,PPL,2023Q4,2023-12-31,분기별 영업활동현금흐름,110000000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/922224/000092222424000008/ ; https://www.sec.gov/Archives/edgar/data/922224/000092222423000049/,누적 1758000000 − 직전누적 1648000000 (시작 2023-01-01),15
+PPL,PPL,2023Q4,2023-12-31,분기말 자산총계,39236000000,USD,공시,https://www.sec.gov/Archives/edgar/data/922224/000092222424000008/,,15
+PPL,PPL,2023Q4,2023-12-31,분기말 부채총계,25303000000,USD,계산(부채및자본-총자본),https://www.sec.gov/Archives/edgar/data/922224/000092222424000008/,부채및자본 39236000000 − 총자본 13933000000,15
+PPL,PPL,2023Q4,2023-12-31,분기말 총자본(자기자본),13933000000,USD,공시,https://www.sec.gov/Archives/edgar/data/922224/000092222424000008/,,15
+PPL,PPL,2023Q4,2023-12-31,분기말 지배지분 자본,13933000000,USD,공시,https://www.sec.gov/Archives/edgar/data/922224/000092222424000008/,,15
+PPL,PPL,2023Q4,2023-12-29,분기말 종가,27.1,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/PPL?interval=1d&events=splits (2023-12-29),,15
+PPL,PPL,2023Q4,2024-01-31,분기말 상장주식수,737603408,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/922224/000092222424000008/,dei:EntityCommonStockSharesOutstanding 클래스 합,15
+PPL,PPL,2023Q4,2023-12-29,분기말 시가총액,19989052357,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/PPL?interval=1d&events=splits (2023-12-29) ; https://www.sec.gov/Archives/edgar/data/922224/000092222424000008/,종가 27.1 × 주식수 737603408,15
+PPL,PPL,2024Q1,2024-03-31,분기별 매출액,2304000000,USD,공시,https://www.sec.gov/Archives/edgar/data/922224/000092222424000014/,,15
+PPL,PPL,2024Q1,2024-03-31,분기별 영업이익,545000000,USD,공시,https://www.sec.gov/Archives/edgar/data/922224/000092222424000014/,,15
+PPL,PPL,2024Q1,2024-03-31,분기별 당기순이익(지배),307000000,USD,공시,https://www.sec.gov/Archives/edgar/data/922224/000092222424000014/,,15
+PPL,PPL,2024Q1,2024-03-31,분기별 영업활동현금흐름,282000000,USD,공시,https://www.sec.gov/Archives/edgar/data/922224/000092222424000014/,,15
+PPL,PPL,2024Q1,2024-03-31,분기말 자산총계,39631000000,USD,공시,https://www.sec.gov/Archives/edgar/data/922224/000092222424000014/,,15
+PPL,PPL,2024Q1,2024-03-31,분기말 부채총계,25573000000,USD,계산(부채및자본-총자본),https://www.sec.gov/Archives/edgar/data/922224/000092222424000014/,부채및자본 39631000000 − 총자본 14058000000,15
+PPL,PPL,2024Q1,2024-03-31,분기말 총자본(자기자본),14058000000,USD,공시,https://www.sec.gov/Archives/edgar/data/922224/000092222424000014/,,15
+PPL,PPL,2024Q1,2024-03-31,분기말 지배지분 자본,14058000000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/922224/000092222424000014/,"StockholdersEquityIncludingPortionAttributableToNoncontrollingInterest, MinorityInterest 태그 없음",15
+PPL,PPL,2024Q1,2024-03-28,분기말 종가,27.53,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/PPL?interval=1d&events=splits (2024-03-28),,15
+PPL,PPL,2024Q1,2024-04-26,분기말 상장주식수,737740859,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/922224/000092222424000014/,dei:EntityCommonStockSharesOutstanding 클래스 합,15
+PPL,PPL,2024Q1,2024-03-28,분기말 시가총액,20310005848,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/PPL?interval=1d&events=splits (2024-03-28) ; https://www.sec.gov/Archives/edgar/data/922224/000092222424000014/,종가 27.53 × 주식수 737740859,15
+PPL,PPL,2024Q2,2024-06-30,분기별 매출액,1881000000,USD,공시,https://www.sec.gov/Archives/edgar/data/922224/000092222424000024/,,15
+PPL,PPL,2024Q2,2024-06-30,분기별 영업이익,390000000,USD,공시,https://www.sec.gov/Archives/edgar/data/922224/000092222424000024/,,15
+PPL,PPL,2024Q2,2024-06-30,분기별 당기순이익(지배),190000000,USD,공시,https://www.sec.gov/Archives/edgar/data/922224/000092222424000024/,,15
+PPL,PPL,2024Q2,2024-06-30,분기별 영업활동현금흐름,766000000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/922224/000092222424000024/ ; https://www.sec.gov/Archives/edgar/data/922224/000092222424000014/,누적 1048000000 − 직전누적 282000000 (시작 2024-01-01),15
+PPL,PPL,2024Q2,2024-06-30,분기말 자산총계,39839000000,USD,공시,https://www.sec.gov/Archives/edgar/data/922224/000092222424000024/,,15
+PPL,PPL,2024Q2,2024-06-30,분기말 부채총계,25774000000,USD,계산(부채및자본-총자본),https://www.sec.gov/Archives/edgar/data/922224/000092222424000024/,부채및자본 39839000000 − 총자본 14065000000,15
+PPL,PPL,2024Q2,2024-06-30,분기말 총자본(자기자본),14065000000,USD,공시,https://www.sec.gov/Archives/edgar/data/922224/000092222424000024/,,15
+PPL,PPL,2024Q2,2024-06-30,분기말 지배지분 자본,14065000000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/922224/000092222424000024/,"StockholdersEquityIncludingPortionAttributableToNoncontrollingInterest, MinorityInterest 태그 없음",15
+PPL,PPL,2024Q2,2024-06-28,분기말 종가,27.65,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/PPL?interval=1d&events=splits (2024-06-28),,15
+PPL,PPL,2024Q2,2024-07-30,분기말 상장주식수,737773304,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/922224/000092222424000024/,dei:EntityCommonStockSharesOutstanding 클래스 합,15
+PPL,PPL,2024Q2,2024-06-28,분기말 시가총액,20399431856,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/PPL?interval=1d&events=splits (2024-06-28) ; https://www.sec.gov/Archives/edgar/data/922224/000092222424000024/,종가 27.65 × 주식수 737773304,15
+PPL,PPL,2024Q3,2024-09-30,분기별 매출액,2066000000,USD,공시,https://www.sec.gov/Archives/edgar/data/922224/000092222424000030/,,15
+PPL,PPL,2024Q3,2024-09-30,분기별 영업이익,428000000,USD,공시,https://www.sec.gov/Archives/edgar/data/922224/000092222424000030/,,15
+PPL,PPL,2024Q3,2024-09-30,분기별 당기순이익(지배),214000000,USD,공시,https://www.sec.gov/Archives/edgar/data/922224/000092222424000030/,,15
+PPL,PPL,2024Q3,2024-09-30,분기별 영업활동현금흐름,781000000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/922224/000092222424000030/ ; https://www.sec.gov/Archives/edgar/data/922224/000092222424000024/,누적 1829000000 − 직전누적 1048000000 (시작 2024-01-01),15
+PPL,PPL,2024Q3,2024-09-30,분기말 자산총계,40472000000,USD,공시,https://www.sec.gov/Archives/edgar/data/922224/000092222424000030/,,15
+PPL,PPL,2024Q3,2024-09-30,분기말 부채총계,26380000000,USD,계산(부채및자본-총자본),https://www.sec.gov/Archives/edgar/data/922224/000092222424000030/,부채및자본 40472000000 − 총자본 14092000000,15
+PPL,PPL,2024Q3,2024-09-30,분기말 총자본(자기자본),14092000000,USD,공시,https://www.sec.gov/Archives/edgar/data/922224/000092222424000030/,,15
+PPL,PPL,2024Q3,2024-09-30,분기말 지배지분 자본,14092000000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/922224/000092222424000030/,"StockholdersEquityIncludingPortionAttributableToNoncontrollingInterest, MinorityInterest 태그 없음",15
+PPL,PPL,2024Q3,2024-09-30,분기말 종가,33.08,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/PPL?interval=1d&events=splits (2024-09-30),,15
+PPL,PPL,2024Q3,2024-10-28,분기말 상장주식수,737970005,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/922224/000092222424000030/,dei:EntityCommonStockSharesOutstanding 클래스 합,15
+PPL,PPL,2024Q3,2024-09-30,분기말 시가총액,24412047765,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/PPL?interval=1d&events=splits (2024-09-30) ; https://www.sec.gov/Archives/edgar/data/922224/000092222424000030/,종가 33.08 × 주식수 737970005,15
+PPL,PPL,2024Q4,2024-12-31,분기별 매출액,2211000000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/922224/000092222425000009/ ; https://www.sec.gov/Archives/edgar/data/922224/000092222424000030/,연간 8462000000 − 9개월누적 6251000000 (Revenues),15
+PPL,PPL,2024Q4,2024-12-31,분기별 영업이익,377000000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/922224/000092222425000009/ ; https://www.sec.gov/Archives/edgar/data/922224/000092222424000030/,연간 1740000000 − 9개월누적 1363000000 (OperatingIncomeLoss),15
+PPL,PPL,2024Q4,2024-12-31,분기별 당기순이익(지배),177000000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/922224/000092222425000009/ ; https://www.sec.gov/Archives/edgar/data/922224/000092222424000030/,연간 888000000 − 9개월누적 711000000 (NetIncomeLoss),15
+PPL,PPL,2024Q4,2024-12-31,분기별 영업활동현금흐름,511000000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/922224/000092222425000009/ ; https://www.sec.gov/Archives/edgar/data/922224/000092222424000030/,누적 2340000000 − 직전누적 1829000000 (시작 2024-01-01),15
+PPL,PPL,2024Q4,2024-12-31,분기말 자산총계,41069000000,USD,공시,https://www.sec.gov/Archives/edgar/data/922224/000092222425000009/,,15
+PPL,PPL,2024Q4,2024-12-31,분기말 부채총계,26992000000,USD,계산(부채및자본-총자본),https://www.sec.gov/Archives/edgar/data/922224/000092222425000009/,부채및자본 41069000000 − 총자본 14077000000,15
+PPL,PPL,2024Q4,2024-12-31,분기말 총자본(자기자본),14077000000,USD,공시,https://www.sec.gov/Archives/edgar/data/922224/000092222425000009/,,15
+PPL,PPL,2024Q4,2024-12-31,분기말 지배지분 자본,14077000000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/922224/000092222425000009/,"StockholdersEquityIncludingPortionAttributableToNoncontrollingInterest, MinorityInterest 태그 없음",15
+PPL,PPL,2024Q4,2024-12-31,분기말 종가,32.46,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/PPL?interval=1d&events=splits (2024-12-31),,15
+PPL,PPL,2024Q4,2025-01-31,분기말 상장주식수,738294081,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/922224/000092222425000009/,dei:EntityCommonStockSharesOutstanding 클래스 합,15
+PPL,PPL,2024Q4,2024-12-31,분기말 시가총액,23965025869,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/PPL?interval=1d&events=splits (2024-12-31) ; https://www.sec.gov/Archives/edgar/data/922224/000092222425000009/,종가 32.46 × 주식수 738294081,15
+PPL,PPL,2025Q1,2025-03-31,분기별 매출액,2504000000,USD,공시,https://www.sec.gov/Archives/edgar/data/922224/000092222425000017/,,15
+PPL,PPL,2025Q1,2025-03-31,분기별 영업이익,678000000,USD,공시,https://www.sec.gov/Archives/edgar/data/922224/000092222425000017/,,15
+PPL,PPL,2025Q1,2025-03-31,분기별 당기순이익(지배),414000000,USD,공시,https://www.sec.gov/Archives/edgar/data/922224/000092222425000017/,,15
+PPL,PPL,2025Q1,2025-03-31,분기별 영업활동현금흐름,513000000,USD,공시,https://www.sec.gov/Archives/edgar/data/922224/000092222425000017/,,15
+PPL,PPL,2025Q1,2025-03-31,분기말 자산총계,41809000000,USD,공시,https://www.sec.gov/Archives/edgar/data/922224/000092222425000017/,,15
+PPL,PPL,2025Q1,2025-03-31,분기말 부채총계,27512000000,USD,계산(부채및자본-총자본),https://www.sec.gov/Archives/edgar/data/922224/000092222425000017/,부채및자본 41809000000 − 총자본 14297000000,15
+PPL,PPL,2025Q1,2025-03-31,분기말 총자본(자기자본),14297000000,USD,공시,https://www.sec.gov/Archives/edgar/data/922224/000092222425000017/,,15
+PPL,PPL,2025Q1,2025-03-31,분기말 지배지분 자본,14297000000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/922224/000092222425000017/,"StockholdersEquityIncludingPortionAttributableToNoncontrollingInterest, MinorityInterest 태그 없음",15
+PPL,PPL,2025Q1,2025-03-31,분기말 종가,36.11,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/PPL?interval=1d&events=splits (2025-03-31),,15
+PPL,PPL,2025Q1,2025-04-25,분기말 상장주식수,739263912,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/922224/000092222425000017/,dei:EntityCommonStockSharesOutstanding 클래스 합,15
+PPL,PPL,2025Q1,2025-03-31,분기말 시가총액,26694819862,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/PPL?interval=1d&events=splits (2025-03-31) ; https://www.sec.gov/Archives/edgar/data/922224/000092222425000017/,종가 36.11 × 주식수 739263912,15
+PPL,PPL,2025Q2,2025-06-30,분기별 매출액,2025000000,USD,공시,https://www.sec.gov/Archives/edgar/data/922224/000092222425000034/,,15
+PPL,PPL,2025Q2,2025-06-30,분기별 영업이익,406000000,USD,공시,https://www.sec.gov/Archives/edgar/data/922224/000092222425000034/,,15
+PPL,PPL,2025Q2,2025-06-30,분기별 당기순이익(지배),183000000,USD,공시,https://www.sec.gov/Archives/edgar/data/922224/000092222425000034/,,15
+PPL,PPL,2025Q2,2025-06-30,분기별 영업활동현금흐름,602000000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/922224/000092222425000034/ ; https://www.sec.gov/Archives/edgar/data/922224/000092222425000017/,누적 1115000000 − 직전누적 513000000 (시작 2025-01-01),15
+PPL,PPL,2025Q2,2025-06-30,분기말 자산총계,42363000000,USD,공시,https://www.sec.gov/Archives/edgar/data/922224/000092222425000034/,,15
+PPL,PPL,2025Q2,2025-06-30,분기말 부채총계,28077000000,USD,계산(부채및자본-총자본),https://www.sec.gov/Archives/edgar/data/922224/000092222425000034/,부채및자본 42363000000 − 총자본 14286000000,15
+PPL,PPL,2025Q2,2025-06-30,분기말 총자본(자기자본),14286000000,USD,공시,https://www.sec.gov/Archives/edgar/data/922224/000092222425000034/,,15
+PPL,PPL,2025Q2,2025-06-30,분기말 지배지분 자본,14286000000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/922224/000092222425000034/,"StockholdersEquityIncludingPortionAttributableToNoncontrollingInterest, MinorityInterest 태그 없음",15
+PPL,PPL,2025Q2,2025-06-30,분기말 종가,33.89,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/PPL?interval=1d&events=splits (2025-06-30),,15
+PPL,PPL,2025Q2,2025-07-25,분기말 상장주식수,739515243,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/922224/000092222425000034/,dei:EntityCommonStockSharesOutstanding 클래스 합,15
+PPL,PPL,2025Q2,2025-06-30,분기말 시가총액,25062171585,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/PPL?interval=1d&events=splits (2025-06-30) ; https://www.sec.gov/Archives/edgar/data/922224/000092222425000034/,종가 33.89 × 주식수 739515243,15
+PPL,PPL,2025Q3,2025-09-30,분기별 매출액,2239000000,USD,공시,https://www.sec.gov/Archives/edgar/data/922224/000092222425000051/,,15
+PPL,PPL,2025Q3,2025-09-30,분기별 영업이익,569000000,USD,공시,https://www.sec.gov/Archives/edgar/data/922224/000092222425000051/,,15
+PPL,PPL,2025Q3,2025-09-30,분기별 당기순이익(지배),318000000,USD,공시,https://www.sec.gov/Archives/edgar/data/922224/000092222425000051/,,15
+PPL,PPL,2025Q3,2025-09-30,분기별 영업활동현금흐름,966000000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/922224/000092222425000051/ ; https://www.sec.gov/Archives/edgar/data/922224/000092222425000034/,누적 2081000000 − 직전누적 1115000000 (시작 2025-01-01),15
+PPL,PPL,2025Q3,2025-09-30,분기말 자산총계,43939000000,USD,공시,https://www.sec.gov/Archives/edgar/data/922224/000092222425000051/,,15
+PPL,PPL,2025Q3,2025-09-30,분기말 부채총계,29526000000,USD,계산(부채및자본-총자본),https://www.sec.gov/Archives/edgar/data/922224/000092222425000051/,부채및자본 43939000000 − 총자본 14413000000,15
+PPL,PPL,2025Q3,2025-09-30,분기말 총자본(자기자본),14413000000,USD,공시,https://www.sec.gov/Archives/edgar/data/922224/000092222425000051/,,15
+PPL,PPL,2025Q3,2025-09-30,분기말 지배지분 자본,14413000000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/922224/000092222425000051/,"StockholdersEquityIncludingPortionAttributableToNoncontrollingInterest, MinorityInterest 태그 없음",15
+PPL,PPL,2025Q3,2025-09-30,분기말 종가,37.16,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/PPL?interval=1d&events=splits (2025-09-30),,15
+PPL,PPL,2025Q3,2025-10-31,분기말 상장주식수,739739177,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/922224/000092222425000051/,dei:EntityCommonStockSharesOutstanding 클래스 합,15
+PPL,PPL,2025Q3,2025-09-30,분기말 시가총액,27488707817,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/PPL?interval=1d&events=splits (2025-09-30) ; https://www.sec.gov/Archives/edgar/data/922224/000092222425000051/,종가 37.16 × 주식수 739739177,15
+PPL,PPL,2025Q4,2025-12-31,분기별 매출액,2274000000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/922224/000092222426000008/ ; https://www.sec.gov/Archives/edgar/data/922224/000092222425000051/,연간 9042000000 − 9개월누적 6768000000 (Revenues),15
+PPL,PPL,2025Q4,2025-12-31,분기별 영업이익,476000000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/922224/000092222426000008/ ; https://www.sec.gov/Archives/edgar/data/922224/000092222425000051/,연간 2129000000 − 9개월누적 1653000000 (OperatingIncomeLoss),15
+PPL,PPL,2025Q4,2025-12-31,분기별 당기순이익(지배),266000000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/922224/000092222426000008/ ; https://www.sec.gov/Archives/edgar/data/922224/000092222425000051/,연간 1181000000 − 9개월누적 915000000 (NetIncomeLoss),15
+PPL,PPL,2025Q4,2025-12-31,분기별 영업활동현금흐름,548000000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/922224/000092222426000008/ ; https://www.sec.gov/Archives/edgar/data/922224/000092222425000051/,누적 2629000000 − 직전누적 2081000000 (시작 2025-01-01),15
+PPL,PPL,2025Q4,2025-12-31,분기말 자산총계,45244000000,USD,공시,https://www.sec.gov/Archives/edgar/data/922224/000092222426000008/,,15
+PPL,PPL,2025Q4,2025-12-31,분기말 부채총계,30363000000,USD,계산(부채및자본-총자본),https://www.sec.gov/Archives/edgar/data/922224/000092222426000008/,부채및자본 45244000000 − 총자본 14881000000,15
+PPL,PPL,2025Q4,2025-12-31,분기말 총자본(자기자본),14881000000,USD,공시,https://www.sec.gov/Archives/edgar/data/922224/000092222426000008/,,15
+PPL,PPL,2025Q4,2025-12-31,분기말 지배지분 자본,14881000000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/922224/000092222426000008/,"StockholdersEquityIncludingPortionAttributableToNoncontrollingInterest, MinorityInterest 태그 없음",15
+PPL,PPL,2025Q4,2025-12-31,분기말 종가,35.02,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/PPL?interval=1d&events=splits (2025-12-31),,15
+PPL,PPL,2025Q4,2026-01-30,분기말 상장주식수,751306792,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/922224/000092222426000008/,dei:EntityCommonStockSharesOutstanding 클래스 합,15
+PPL,PPL,2025Q4,2025-12-31,분기말 시가총액,26310763856,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/PPL?interval=1d&events=splits (2025-12-31) ; https://www.sec.gov/Archives/edgar/data/922224/000092222426000008/,종가 35.02 × 주식수 751306792,15
+PPL,PPL,2026Q1,2026-03-31,분기별 매출액,2774000000,USD,공시,https://www.sec.gov/Archives/edgar/data/922224/000092222426000026/,,15
+PPL,PPL,2026Q1,2026-03-31,분기별 영업이익,745000000,USD,공시,https://www.sec.gov/Archives/edgar/data/922224/000092222426000026/,,15
+PPL,PPL,2026Q1,2026-03-31,분기별 당기순이익(지배),452000000,USD,공시,https://www.sec.gov/Archives/edgar/data/922224/000092222426000026/,,15
+PPL,PPL,2026Q1,2026-03-31,분기별 영업활동현금흐름,557000000,USD,공시,https://www.sec.gov/Archives/edgar/data/922224/000092222426000026/,,15
+PPL,PPL,2026Q1,2026-03-31,분기말 자산총계,46304000000,USD,공시,https://www.sec.gov/Archives/edgar/data/922224/000092222426000026/,,15
+PPL,PPL,2026Q1,2026-03-31,분기말 부채총계,31285000000,USD,계산(부채및자본-총자본),https://www.sec.gov/Archives/edgar/data/922224/000092222426000026/,부채및자본 46304000000 − 총자본 15019000000,15
+PPL,PPL,2026Q1,2026-03-31,분기말 총자본(자기자본),15019000000,USD,공시,https://www.sec.gov/Archives/edgar/data/922224/000092222426000026/,,15
+PPL,PPL,2026Q1,2026-03-31,분기말 지배지분 자본,15019000000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/922224/000092222426000026/,"StockholdersEquityIncludingPortionAttributableToNoncontrollingInterest, MinorityInterest 태그 없음",15
+PPL,PPL,2026Q1,2026-03-31,분기말 종가,38.2,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/PPL?interval=1d&events=splits (2026-03-31),,15
+PPL,PPL,2026Q1,2026-04-30,분기말 상장주식수,752350362,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/922224/000092222426000026/,dei:EntityCommonStockSharesOutstanding 클래스 합,15
+PPL,PPL,2026Q1,2026-03-31,분기말 시가총액,28739783828,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/PPL?interval=1d&events=splits (2026-03-31) ; https://www.sec.gov/Archives/edgar/data/922224/000092222426000026/,종가 38.2 × 주식수 752350362,15
+PPL,PPL,2026Q2,2026-06-30,분기별 매출액,2111000000,USD,공시,https://www.sec.gov/Archives/edgar/data/922224/000092222426000044/,값은 XBRL 원문(companyfacts 미반영 보고서),15
+PPL,PPL,2026Q2,2026-06-30,분기별 영업이익,475000000,USD,공시,https://www.sec.gov/Archives/edgar/data/922224/000092222426000044/,값은 XBRL 원문(companyfacts 미반영 보고서),15
+PPL,PPL,2026Q2,2026-06-30,분기별 당기순이익(지배),230000000,USD,공시,https://www.sec.gov/Archives/edgar/data/922224/000092222426000044/,값은 XBRL 원문(companyfacts 미반영 보고서),15
+PPL,PPL,2026Q2,2026-06-30,분기별 영업활동현금흐름,583000000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/922224/000092222426000044/ ; https://www.sec.gov/Archives/edgar/data/922224/000092222426000026/,누적 1140000000 − 직전누적 557000000 (시작 2026-01-01) ; 값은 XBRL 원문(companyfacts 미반영 보고서),15
+PPL,PPL,2026Q2,2026-06-30,분기말 자산총계,46301000000,USD,공시,https://www.sec.gov/Archives/edgar/data/922224/000092222426000044/,값은 XBRL 원문(companyfacts 미반영 보고서),15
+PPL,PPL,2026Q2,2026-06-30,분기말 부채총계,31256000000,USD,계산(부채및자본-총자본),https://www.sec.gov/Archives/edgar/data/922224/000092222426000044/,부채및자본 46301000000 − 총자본 15045000000 ; 값은 XBRL 원문(companyfacts 미반영 보고서),15
+PPL,PPL,2026Q2,2026-06-30,분기말 총자본(자기자본),15045000000,USD,공시,https://www.sec.gov/Archives/edgar/data/922224/000092222426000044/,값은 XBRL 원문(companyfacts 미반영 보고서),15
+PPL,PPL,2026Q2,2026-06-30,분기말 지배지분 자본,15045000000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/922224/000092222426000044/,"StockholdersEquityIncludingPortionAttributableToNoncontrollingInterest, MinorityInterest 태그 없음 ; 값은 XBRL 원문(companyfacts 미반영 보고서)",15
+PPL,PPL,2026Q2,2026-06-30,분기말 종가,36.35,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/PPL?interval=1d&events=splits (2026-06-30),,15
+PPL,PPL,2026Q2,2026-07-31,분기말 상장주식수,752544841,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/922224/000092222426000044/,dei:EntityCommonStockSharesOutstanding 클래스 합 ; 값은 XBRL 원문(companyfacts 미반영 보고서),15
+PPL,PPL,2026Q2,2026-06-30,분기말 시가총액,27355004970,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/PPL?interval=1d&events=splits (2026-06-30) ; https://www.sec.gov/Archives/edgar/data/922224/000092222426000044/,종가 36.35 × 주식수 752544841 ; 값은 XBRL 원문(companyfacts 미반영 보고서),15

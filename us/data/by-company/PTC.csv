@@ -1,0 +1,727 @@
+﻿기업,종목코드,기간,기준일,항목,값,통화,값구분,출처,검산,라운드
+PTC,PTC,2010Q1,2010-04-03,분기별 매출액,240556000,USD,공시(후속 보고서 비교기간),https://www.sec.gov/Archives/edgar/data/857005/000119312511135885/,SalesRevenueNet ; 그 분기 보고서에 연결 총계가 없어 2011-05-11 제출본의 비교기간에서 읽었다,24
+PTC,PTC,2010Q1,2010-04-03,분기별 영업이익,11511000,USD,공시(후속 보고서 비교기간),https://www.sec.gov/Archives/edgar/data/857005/000119312511135885/,OperatingIncomeLoss ; 그 분기 보고서에 연결 총계가 없어 2011-05-11 제출본의 비교기간에서 읽었다,24
+PTC,PTC,2010Q1,2010-04-03,분기별 당기순이익(지배),9002000,USD,공시(후속 보고서 비교기간),https://www.sec.gov/Archives/edgar/data/857005/000119312511135885/,NetIncomeLoss ; 그 분기 보고서에 연결 총계가 없어 2011-05-11 제출본의 비교기간에서 읽었다,24
+PTC,PTC,2010Q1,2010-04-03,분기별 영업활동현금흐름,미확인,USD,미확인,https://www.sec.gov/Archives/edgar/data/857005/000119312510118795/,,24
+PTC,PTC,2010Q1,2010-04-03,분기말 자산총계,미확인,USD,미확인,https://www.sec.gov/Archives/edgar/data/857005/000119312510118795/,,24
+PTC,PTC,2010Q1,2010-04-03,분기말 부채총계,미확인,USD,미확인,https://www.sec.gov/Archives/edgar/data/857005/000119312510118795/,,24
+PTC,PTC,2010Q1,2010-04-03,분기말 총자본(자기자본),미확인,USD,미확인,https://www.sec.gov/Archives/edgar/data/857005/000119312510118795/,,24
+PTC,PTC,2010Q1,2010-04-03,분기말 지배지분 자본,미확인,USD,미확인,https://www.sec.gov/Archives/edgar/data/857005/000119312510118795/,,24
+PTC,PTC,2010Q1,2010-04-01,분기말 종가,18.04,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/PTC?interval=1d&events=splits (2010-04-01),,24
+PTC,PTC,2010Q1,2010-04-03,분기말 상장주식수,미확인,,미확인,SEC companyfacts·XBRL 원문 모두 dei 표지 주식수 없음,,24
+PTC,PTC,2010Q1,2010-04-03,분기말 시가총액,미확인,,미확인,SEC companyfacts·XBRL 원문 모두 dei 표지 주식수 없음,,24
+PTC,PTC,2010Q2,2010-07-03,분기별 매출액,242998000,USD,공시,https://www.sec.gov/Archives/edgar/data/857005/000119312510187009/,,24
+PTC,PTC,2010Q2,2010-07-03,분기별 영업이익,11978000,USD,공시,https://www.sec.gov/Archives/edgar/data/857005/000119312510187009/,,24
+PTC,PTC,2010Q2,2010-07-03,분기별 당기순이익(지배),10718000,USD,공시,https://www.sec.gov/Archives/edgar/data/857005/000119312510187009/,,24
+PTC,PTC,2010Q2,2010-07-03,분기별 영업활동현금흐름,데이터 없음(직전 분기 누적 보고서 없음),USD,데이터 없음(직전 보고서 없음),https://www.sec.gov/Archives/edgar/data/857005/000119312510187009/,,24
+PTC,PTC,2010Q2,2010-07-03,분기말 자산총계,1269040000,USD,공시,https://www.sec.gov/Archives/edgar/data/857005/000119312510187009/,,24
+PTC,PTC,2010Q2,2010-07-03,분기말 부채총계,534445000,USD,공시,https://www.sec.gov/Archives/edgar/data/857005/000119312510187009/,,24
+PTC,PTC,2010Q2,2010-07-03,분기말 총자본(자기자본),734595000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/857005/000119312510187009/,"StockholdersEquity, MinorityInterest 태그 없음",24
+PTC,PTC,2010Q2,2010-07-03,분기말 지배지분 자본,734595000,USD,공시,https://www.sec.gov/Archives/edgar/data/857005/000119312510187009/,,24
+PTC,PTC,2010Q2,2010-07-02,분기말 종가,15.47,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/PTC?interval=1d&events=splits (2010-07-02),,24
+PTC,PTC,2010Q2,2010-08-06,분기말 상장주식수,115354999,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/857005/000119312510187009/,dei:EntityCommonStockSharesOutstanding 클래스 합,24
+PTC,PTC,2010Q2,2010-07-02,분기말 시가총액,1784541835,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/PTC?interval=1d&events=splits (2010-07-02) ; https://www.sec.gov/Archives/edgar/data/857005/000119312510187009/,종가 15.47 × 주식수 115354999,24
+PTC,PTC,2010Q3,2010-09-30,분기별 매출액,268066000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/857005/000119312510267323/ ; https://www.sec.gov/Archives/edgar/data/857005/000119312510187009/,연간 1010049000 − 9개월누적 741983000 (SalesRevenueNet),24
+PTC,PTC,2010Q3,2010-09-30,분기별 영업이익,28945000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/857005/000119312510267323/ ; https://www.sec.gov/Archives/edgar/data/857005/000119312510187009/,연간 74775000 − 9개월누적 45830000 (OperatingIncomeLoss),24
+PTC,PTC,2010Q3,2010-09-30,분기별 당기순이익(지배),-13215000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/857005/000119312510267323/ ; https://www.sec.gov/Archives/edgar/data/857005/000119312510187009/,연간 24368000 − 9개월누적 37583000 (NetIncomeLoss),24
+PTC,PTC,2010Q3,2010-09-30,분기별 영업활동현금흐름,15568000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/857005/000119312510267323/ ; https://www.sec.gov/Archives/edgar/data/857005/000119312510187009/,누적 156644000 − 직전누적 141076000 (시작 2009-10-01),24
+PTC,PTC,2010Q3,2010-09-30,분기말 자산총계,1307064000,USD,공시,https://www.sec.gov/Archives/edgar/data/857005/000119312510267323/,,24
+PTC,PTC,2010Q3,2010-09-30,분기말 부채총계,559760000,USD,공시,https://www.sec.gov/Archives/edgar/data/857005/000119312510267323/,,24
+PTC,PTC,2010Q3,2010-09-30,분기말 총자본(자기자본),747304000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/857005/000119312510267323/,"StockholdersEquity, MinorityInterest 태그 없음",24
+PTC,PTC,2010Q3,2010-09-30,분기말 지배지분 자본,747304000,USD,공시,https://www.sec.gov/Archives/edgar/data/857005/000119312510267323/,,24
+PTC,PTC,2010Q3,2010-09-30,분기말 종가,19.54,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/PTC?interval=1d&events=splits (2010-09-30),,24
+PTC,PTC,2010Q3,2010-11-18,분기말 상장주식수,117855123,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/857005/000119312510267323/,dei:EntityCommonStockSharesOutstanding 클래스 합,24
+PTC,PTC,2010Q3,2010-09-30,분기말 시가총액,2302889103,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/PTC?interval=1d&events=splits (2010-09-30) ; https://www.sec.gov/Archives/edgar/data/857005/000119312510267323/,종가 19.54 × 주식수 117855123,24
+PTC,PTC,2010Q4,2011-01-01,분기별 매출액,266552000,USD,공시,https://www.sec.gov/Archives/edgar/data/857005/000119312511028935/,,24
+PTC,PTC,2010Q4,2011-01-01,분기별 영업이익,17110000,USD,공시,https://www.sec.gov/Archives/edgar/data/857005/000119312511028935/,,24
+PTC,PTC,2010Q4,2011-01-01,분기별 당기순이익(지배),13260000,USD,공시,https://www.sec.gov/Archives/edgar/data/857005/000119312511028935/,,24
+PTC,PTC,2010Q4,2011-01-01,분기별 영업활동현금흐름,-48038000,USD,공시,https://www.sec.gov/Archives/edgar/data/857005/000119312511028935/,,24
+PTC,PTC,2010Q4,2011-01-01,분기말 자산총계,1267511000,USD,공시,https://www.sec.gov/Archives/edgar/data/857005/000119312511028935/,,24
+PTC,PTC,2010Q4,2011-01-01,분기말 부채총계,503471000,USD,공시,https://www.sec.gov/Archives/edgar/data/857005/000119312511028935/,,24
+PTC,PTC,2010Q4,2011-01-01,분기말 총자본(자기자본),764040000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/857005/000119312511028935/,"StockholdersEquity, MinorityInterest 태그 없음",24
+PTC,PTC,2010Q4,2011-01-01,분기말 지배지분 자본,764040000,USD,공시,https://www.sec.gov/Archives/edgar/data/857005/000119312511028935/,,24
+PTC,PTC,2010Q4,2010-12-31,분기말 종가,22.53,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/PTC?interval=1d&events=splits (2010-12-31),,24
+PTC,PTC,2010Q4,2011-02-04,분기말 상장주식수,118119026,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/857005/000119312511028935/,dei:EntityCommonStockSharesOutstanding 클래스 합,24
+PTC,PTC,2010Q4,2010-12-31,분기말 시가총액,2661221656,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/PTC?interval=1d&events=splits (2010-12-31) ; https://www.sec.gov/Archives/edgar/data/857005/000119312511028935/,종가 22.53 × 주식수 118119026,24
+PTC,PTC,2011Q1,2011-04-02,분기별 매출액,269189000,USD,공시,https://www.sec.gov/Archives/edgar/data/857005/000119312511135885/,,24
+PTC,PTC,2011Q1,2011-04-02,분기별 영업이익,24226000,USD,공시,https://www.sec.gov/Archives/edgar/data/857005/000119312511135885/,,24
+PTC,PTC,2011Q1,2011-04-02,분기별 당기순이익(지배),19017000,USD,공시,https://www.sec.gov/Archives/edgar/data/857005/000119312511135885/,,24
+PTC,PTC,2011Q1,2011-04-02,분기별 영업활동현금흐름,78276000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/857005/000119312511135885/ ; https://www.sec.gov/Archives/edgar/data/857005/000119312511028935/,누적 30238000 − 직전누적 -48038000 (시작 2010-10-01),24
+PTC,PTC,2011Q1,2011-04-02,분기말 자산총계,1347101000,USD,공시,https://www.sec.gov/Archives/edgar/data/857005/000119312511135885/,,24
+PTC,PTC,2011Q1,2011-04-02,분기말 부채총계,544073000,USD,공시,https://www.sec.gov/Archives/edgar/data/857005/000119312511135885/,,24
+PTC,PTC,2011Q1,2011-04-02,분기말 총자본(자기자본),803028000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/857005/000119312511135885/,"StockholdersEquity, MinorityInterest 태그 없음",24
+PTC,PTC,2011Q1,2011-04-02,분기말 지배지분 자본,803028000,USD,공시,https://www.sec.gov/Archives/edgar/data/857005/000119312511135885/,,24
+PTC,PTC,2011Q1,2011-04-01,분기말 종가,22.61,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/PTC?interval=1d&events=splits (2011-04-01),,24
+PTC,PTC,2011Q1,2011-05-06,분기말 상장주식수,119106884,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/857005/000119312511135885/,dei:EntityCommonStockSharesOutstanding 클래스 합,24
+PTC,PTC,2011Q1,2011-04-01,분기말 시가총액,2693006647,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/PTC?interval=1d&events=splits (2011-04-01) ; https://www.sec.gov/Archives/edgar/data/857005/000119312511135885/,종가 22.61 × 주식수 119106884,24
+PTC,PTC,2011Q2,2011-07-02,분기별 매출액,291783000,USD,공시,https://www.sec.gov/Archives/edgar/data/857005/000119312511218270/,,24
+PTC,PTC,2011Q2,2011-07-02,분기별 영업이익,24530000,USD,공시,https://www.sec.gov/Archives/edgar/data/857005/000119312511218270/,,24
+PTC,PTC,2011Q2,2011-07-02,분기별 당기순이익(지배),15526000,USD,공시,https://www.sec.gov/Archives/edgar/data/857005/000119312511218270/,,24
+PTC,PTC,2011Q2,2011-07-02,분기별 영업활동현금흐름,48433000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/857005/000119312511218270/ ; https://www.sec.gov/Archives/edgar/data/857005/000119312511135885/,누적 78671000 − 직전누적 30238000 (시작 2010-10-01),24
+PTC,PTC,2011Q2,2011-07-02,분기말 자산총계,1681513000,USD,공시,https://www.sec.gov/Archives/edgar/data/857005/000119312511218270/,,24
+PTC,PTC,2011Q2,2011-07-02,분기말 부채총계,879369000,USD,공시,https://www.sec.gov/Archives/edgar/data/857005/000119312511218270/,,24
+PTC,PTC,2011Q2,2011-07-02,분기말 총자본(자기자본),802144000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/857005/000119312511218270/,"StockholdersEquity, MinorityInterest 태그 없음",24
+PTC,PTC,2011Q2,2011-07-02,분기말 지배지분 자본,802144000,USD,공시,https://www.sec.gov/Archives/edgar/data/857005/000119312511218270/,,24
+PTC,PTC,2011Q2,2011-07-01,분기말 종가,23.15,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/PTC?interval=1d&events=splits (2011-07-01),,24
+PTC,PTC,2011Q2,2011-08-04,분기말 상장주식수,117565519,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/857005/000119312511218270/,dei:EntityCommonStockSharesOutstanding 클래스 합,24
+PTC,PTC,2011Q2,2011-07-01,분기말 시가총액,2721641765,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/PTC?interval=1d&events=splits (2011-07-01) ; https://www.sec.gov/Archives/edgar/data/857005/000119312511218270/,종가 23.15 × 주식수 117565519,24
+PTC,PTC,2011Q3,2011-09-30,분기별 매출액,339425000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/857005/000119312511320097/ ; https://www.sec.gov/Archives/edgar/data/857005/000119312511218270/,연간 1166949000 − 9개월누적 827524000 (SalesRevenueNet),24
+PTC,PTC,2011Q3,2011-09-30,분기별 영업이익,51248000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/857005/000119312511320097/ ; https://www.sec.gov/Archives/edgar/data/857005/000119312511218270/,연간 117114000 − 9개월누적 65866000 (OperatingIncomeLoss),24
+PTC,PTC,2011Q3,2011-09-30,분기별 당기순이익(지배),37621000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/857005/000119312511320097/ ; https://www.sec.gov/Archives/edgar/data/857005/000119312511218270/,연간 85424000 − 9개월누적 47803000 (NetIncomeLoss),24
+PTC,PTC,2011Q3,2011-09-30,분기별 영업활동현금흐름,27000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/857005/000119312511320097/ ; https://www.sec.gov/Archives/edgar/data/857005/000119312511218270/,누적 78698000 − 직전누적 78671000 (시작 2010-10-01),24
+PTC,PTC,2011Q3,2011-09-30,분기말 자산총계,1629682000,USD,공시,https://www.sec.gov/Archives/edgar/data/857005/000119312511320097/,,24
+PTC,PTC,2011Q3,2011-09-30,분기말 부채총계,806992000,USD,공시,https://www.sec.gov/Archives/edgar/data/857005/000119312511320097/,,24
+PTC,PTC,2011Q3,2011-09-30,분기말 총자본(자기자본),822690000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/857005/000119312511320097/,"StockholdersEquity, MinorityInterest 태그 없음",24
+PTC,PTC,2011Q3,2011-09-30,분기말 지배지분 자본,822690000,USD,공시,https://www.sec.gov/Archives/edgar/data/857005/000119312511320097/,,24
+PTC,PTC,2011Q3,2011-09-30,분기말 종가,15.38,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/PTC?interval=1d&events=splits (2011-09-30),,24
+PTC,PTC,2011Q3,2011-11-17,분기말 상장주식수,118544930,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/857005/000119312511320097/,dei:EntityCommonStockSharesOutstanding 클래스 합,24
+PTC,PTC,2011Q3,2011-09-30,분기말 시가총액,1823221023,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/PTC?interval=1d&events=splits (2011-09-30) ; https://www.sec.gov/Archives/edgar/data/857005/000119312511320097/,종가 15.38 × 주식수 118544930,24
+PTC,PTC,2011Q4,2011-12-31,분기별 매출액,318276000,USD,공시,https://www.sec.gov/Archives/edgar/data/857005/000085700512000005/,,24
+PTC,PTC,2011Q4,2011-12-31,분기별 영업이익,32505000,USD,공시,https://www.sec.gov/Archives/edgar/data/857005/000085700512000005/,,24
+PTC,PTC,2011Q4,2011-12-31,분기별 당기순이익(지배),22123000,USD,공시,https://www.sec.gov/Archives/edgar/data/857005/000085700512000005/,,24
+PTC,PTC,2011Q4,2011-12-31,분기별 영업활동현금흐름,36485000,USD,공시,https://www.sec.gov/Archives/edgar/data/857005/000085700512000005/,,24
+PTC,PTC,2011Q4,2011-12-31,분기말 자산총계,1613385000,USD,공시,https://www.sec.gov/Archives/edgar/data/857005/000085700512000005/,,24
+PTC,PTC,2011Q4,2011-12-31,분기말 부채총계,765656000,USD,공시,https://www.sec.gov/Archives/edgar/data/857005/000085700512000005/,,24
+PTC,PTC,2011Q4,2011-12-31,분기말 총자본(자기자본),847729000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/857005/000085700512000005/,"StockholdersEquity, MinorityInterest 태그 없음",24
+PTC,PTC,2011Q4,2011-12-31,분기말 지배지분 자본,847729000,USD,공시,https://www.sec.gov/Archives/edgar/data/857005/000085700512000005/,,24
+PTC,PTC,2011Q4,2011-12-30,분기말 종가,18.26,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/PTC?interval=1d&events=splits (2011-12-30),,24
+PTC,PTC,2011Q4,2012-02-03,분기말 상장주식수,119103630,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/857005/000085700512000005/,dei:EntityCommonStockSharesOutstanding 클래스 합,24
+PTC,PTC,2011Q4,2011-12-30,분기말 시가총액,2174832284,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/PTC?interval=1d&events=splits (2011-12-30) ; https://www.sec.gov/Archives/edgar/data/857005/000085700512000005/,종가 18.26 × 주식수 119103630,24
+PTC,PTC,2012Q1,2012-03-31,분기별 매출액,301125000,USD,공시,https://www.sec.gov/Archives/edgar/data/857005/000085700512000014/,,24
+PTC,PTC,2012Q1,2012-03-31,분기별 영업이익,6903000,USD,공시,https://www.sec.gov/Archives/edgar/data/857005/000085700512000014/,,24
+PTC,PTC,2012Q1,2012-03-31,분기별 당기순이익(지배),3569000,USD,공시,https://www.sec.gov/Archives/edgar/data/857005/000085700512000014/,,24
+PTC,PTC,2012Q1,2012-03-31,분기별 영업활동현금흐름,96549000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/857005/000085700512000014/ ; https://www.sec.gov/Archives/edgar/data/857005/000085700512000005/,누적 133034000 − 직전누적 36485000 (시작 2011-10-01),24
+PTC,PTC,2012Q1,2012-03-31,분기말 자산총계,1658616000,USD,공시,https://www.sec.gov/Archives/edgar/data/857005/000085700512000014/,,24
+PTC,PTC,2012Q1,2012-03-31,분기말 부채총계,800623000,USD,공시,https://www.sec.gov/Archives/edgar/data/857005/000085700512000014/,,24
+PTC,PTC,2012Q1,2012-03-31,분기말 총자본(자기자본),857993000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/857005/000085700512000014/,"StockholdersEquity, MinorityInterest 태그 없음",24
+PTC,PTC,2012Q1,2012-03-31,분기말 지배지분 자본,857993000,USD,공시,https://www.sec.gov/Archives/edgar/data/857005/000085700512000014/,,24
+PTC,PTC,2012Q1,2012-03-30,분기말 종가,27.94,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/PTC?interval=1d&events=splits (2012-03-30),,24
+PTC,PTC,2012Q1,2012-05-04,분기말 상장주식수,119575472,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/857005/000085700512000014/,dei:EntityCommonStockSharesOutstanding 클래스 합,24
+PTC,PTC,2012Q1,2012-03-30,분기말 시가총액,3340938688,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/PTC?interval=1d&events=splits (2012-03-30) ; https://www.sec.gov/Archives/edgar/data/857005/000085700512000014/,종가 27.94 × 주식수 119575472,24
+PTC,PTC,2012Q2,2012-06-30,분기별 매출액,310983000,USD,공시,https://www.sec.gov/Archives/edgar/data/857005/000085700512000019/,,24
+PTC,PTC,2012Q2,2012-06-30,분기별 영업이익,31083000,USD,공시,https://www.sec.gov/Archives/edgar/data/857005/000085700512000019/,,24
+PTC,PTC,2012Q2,2012-06-30,분기별 당기순이익(지배),22895000,USD,공시,https://www.sec.gov/Archives/edgar/data/857005/000085700512000019/,,24
+PTC,PTC,2012Q2,2012-06-30,분기별 영업활동현금흐름,64010000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/857005/000085700512000019/ ; https://www.sec.gov/Archives/edgar/data/857005/000085700512000014/,누적 197044000 − 직전누적 133034000 (시작 2011-10-01),24
+PTC,PTC,2012Q2,2012-06-30,분기말 자산총계,1611461000,USD,공시,https://www.sec.gov/Archives/edgar/data/857005/000085700512000019/,,24
+PTC,PTC,2012Q2,2012-06-30,분기말 부채총계,748458000,USD,공시,https://www.sec.gov/Archives/edgar/data/857005/000085700512000019/,,24
+PTC,PTC,2012Q2,2012-06-30,분기말 총자본(자기자본),863003000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/857005/000085700512000019/,"StockholdersEquity, MinorityInterest 태그 없음",24
+PTC,PTC,2012Q2,2012-06-30,분기말 지배지분 자본,863003000,USD,공시,https://www.sec.gov/Archives/edgar/data/857005/000085700512000019/,,24
+PTC,PTC,2012Q2,2012-06-29,분기말 종가,20.96,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/PTC?interval=1d&events=splits (2012-06-29),,24
+PTC,PTC,2012Q2,2012-07-26,분기말 상장주식수,119050170,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/857005/000085700512000019/,dei:EntityCommonStockSharesOutstanding 클래스 합,24
+PTC,PTC,2012Q2,2012-06-29,분기말 시가총액,2495291563,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/PTC?interval=1d&events=splits (2012-06-29) ; https://www.sec.gov/Archives/edgar/data/857005/000085700512000019/,종가 20.96 × 주식수 119050170,24
+PTC,PTC,2012Q3,2012-09-30,분기별 매출액,325295000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/857005/000085700512000031/ ; https://www.sec.gov/Archives/edgar/data/857005/000085700512000019/,연간 1255679000 − 9개월누적 930384000 (SalesRevenueNet),24
+PTC,PTC,2012Q3,2012-09-30,분기별 영업이익,57605000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/857005/000085700512000031/ ; https://www.sec.gov/Archives/edgar/data/857005/000085700512000019/,연간 128096000 − 9개월누적 70491000 (OperatingIncomeLoss),24
+PTC,PTC,2012Q3,2012-09-30,분기별 당기순이익(지배),-83985000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/857005/000085700512000031/ ; https://www.sec.gov/Archives/edgar/data/857005/000085700512000019/,연간 -35398000 − 9개월누적 48587000 (NetIncomeLoss),24
+PTC,PTC,2012Q3,2012-09-30,분기별 영업활동현금흐름,20931000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/857005/000085700512000031/ ; https://www.sec.gov/Archives/edgar/data/857005/000085700512000019/,누적 217975000 − 직전누적 197044000 (시작 2011-10-01),24
+PTC,PTC,2012Q3,2012-09-30,분기말 자산총계,1791634000,USD,공시,https://www.sec.gov/Archives/edgar/data/857005/000085700512000031/,,24
+PTC,PTC,2012Q3,2012-09-30,분기말 부채총계,994375000,USD,공시,https://www.sec.gov/Archives/edgar/data/857005/000085700512000031/,,24
+PTC,PTC,2012Q3,2012-09-30,분기말 총자본(자기자본),797259000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/857005/000085700512000031/,"StockholdersEquity, MinorityInterest 태그 없음",24
+PTC,PTC,2012Q3,2012-09-30,분기말 지배지분 자본,797259000,USD,공시,https://www.sec.gov/Archives/edgar/data/857005/000085700512000031/,,24
+PTC,PTC,2012Q3,2012-09-28,분기말 종가,21.77,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/PTC?interval=1d&events=splits (2012-09-28),,24
+PTC,PTC,2012Q3,2012-11-12,분기말 상장주식수,119586083,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/857005/000085700512000031/,dei:EntityCommonStockSharesOutstanding 클래스 합,24
+PTC,PTC,2012Q3,2012-09-28,분기말 시가총액,2603389027,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/PTC?interval=1d&events=splits (2012-09-28) ; https://www.sec.gov/Archives/edgar/data/857005/000085700512000031/,종가 21.77 × 주식수 119586083,24
+PTC,PTC,2012Q4,2012-12-29,분기별 매출액,319751000,USD,공시,https://www.sec.gov/Archives/edgar/data/857005/000085700513000009/,,24
+PTC,PTC,2012Q4,2012-12-29,분기별 영업이익,13859000,USD,공시,https://www.sec.gov/Archives/edgar/data/857005/000085700513000009/,,24
+PTC,PTC,2012Q4,2012-12-29,분기별 당기순이익(지배),35811000,USD,공시,https://www.sec.gov/Archives/edgar/data/857005/000085700513000009/,,24
+PTC,PTC,2012Q4,2012-12-29,분기별 영업활동현금흐름,13636000,USD,공시,https://www.sec.gov/Archives/edgar/data/857005/000085700513000009/,,24
+PTC,PTC,2012Q4,2012-12-29,분기말 자산총계,1802646000,USD,공시,https://www.sec.gov/Archives/edgar/data/857005/000085700513000009/,,24
+PTC,PTC,2012Q4,2012-12-29,분기말 부채총계,976688000,USD,공시,https://www.sec.gov/Archives/edgar/data/857005/000085700513000009/,,24
+PTC,PTC,2012Q4,2012-12-29,분기말 총자본(자기자본),825958000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/857005/000085700513000009/,"StockholdersEquity, MinorityInterest 태그 없음",24
+PTC,PTC,2012Q4,2012-12-29,분기말 지배지분 자본,825958000,USD,공시,https://www.sec.gov/Archives/edgar/data/857005/000085700513000009/,,24
+PTC,PTC,2012Q4,2012-12-28,분기말 종가,22.55,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/PTC?interval=1d&events=splits (2012-12-28),,24
+PTC,PTC,2012Q4,2013-02-04,분기말 상장주식수,119857129,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/857005/000085700513000009/,dei:EntityCommonStockSharesOutstanding 클래스 합,24
+PTC,PTC,2012Q4,2012-12-28,분기말 시가총액,2702778259,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/PTC?interval=1d&events=splits (2012-12-28) ; https://www.sec.gov/Archives/edgar/data/857005/000085700513000009/,종가 22.55 × 주식수 119857129,24
+PTC,PTC,2013Q1,2013-03-30,분기별 매출액,313949000,USD,공시,https://www.sec.gov/Archives/edgar/data/857005/000085700513000018/,,24
+PTC,PTC,2013Q1,2013-03-30,분기별 영업이익,21244000,USD,공시,https://www.sec.gov/Archives/edgar/data/857005/000085700513000018/,,24
+PTC,PTC,2013Q1,2013-03-30,분기별 당기순이익(지배),17037000,USD,공시,https://www.sec.gov/Archives/edgar/data/857005/000085700513000018/,,24
+PTC,PTC,2013Q1,2013-03-30,분기별 영업활동현금흐름,82796000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/857005/000085700513000018/ ; https://www.sec.gov/Archives/edgar/data/857005/000085700513000009/,누적 96432000 − 직전누적 13636000 (시작 2012-10-01),24
+PTC,PTC,2013Q1,2013-03-30,분기말 자산총계,1784819000,USD,공시,https://www.sec.gov/Archives/edgar/data/857005/000085700513000018/,,24
+PTC,PTC,2013Q1,2013-03-30,분기말 부채총계,957020000,USD,공시,https://www.sec.gov/Archives/edgar/data/857005/000085700513000018/,,24
+PTC,PTC,2013Q1,2013-03-30,분기말 총자본(자기자본),827799000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/857005/000085700513000018/,"StockholdersEquity, MinorityInterest 태그 없음",24
+PTC,PTC,2013Q1,2013-03-30,분기말 지배지분 자본,827799000,USD,공시,https://www.sec.gov/Archives/edgar/data/857005/000085700513000018/,,24
+PTC,PTC,2013Q1,2013-03-28,분기말 종가,25.49,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/PTC?interval=1d&events=splits (2013-03-28),,24
+PTC,PTC,2013Q1,2013-05-03,분기말 상장주식수,119620521,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/857005/000085700513000018/,dei:EntityCommonStockSharesOutstanding 클래스 합,24
+PTC,PTC,2013Q1,2013-03-28,분기말 시가총액,3049127080,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/PTC?interval=1d&events=splits (2013-03-28) ; https://www.sec.gov/Archives/edgar/data/857005/000085700513000018/,종가 25.49 × 주식수 119620521,24
+PTC,PTC,2013Q2,2013-06-29,분기별 매출액,314996000,USD,공시,https://www.sec.gov/Archives/edgar/data/857005/000085700513000026/,,24
+PTC,PTC,2013Q2,2013-06-29,분기별 영업이익,43215000,USD,공시,https://www.sec.gov/Archives/edgar/data/857005/000085700513000026/,,24
+PTC,PTC,2013Q2,2013-06-29,분기별 당기순이익(지배),34455000,USD,공시,https://www.sec.gov/Archives/edgar/data/857005/000085700513000026/,,24
+PTC,PTC,2013Q2,2013-06-29,분기별 영업활동현금흐름,84590000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/857005/000085700513000026/ ; https://www.sec.gov/Archives/edgar/data/857005/000085700513000018/,누적 181022000 − 직전누적 96432000 (시작 2012-10-01),24
+PTC,PTC,2013Q2,2013-06-29,분기말 자산총계,1756777000,USD,공시,https://www.sec.gov/Archives/edgar/data/857005/000085700513000026/,,24
+PTC,PTC,2013Q2,2013-06-29,분기말 부채총계,906072000,USD,공시,https://www.sec.gov/Archives/edgar/data/857005/000085700513000026/,,24
+PTC,PTC,2013Q2,2013-06-29,분기말 총자본(자기자본),850705000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/857005/000085700513000026/,"StockholdersEquity, MinorityInterest 태그 없음",24
+PTC,PTC,2013Q2,2013-06-29,분기말 지배지분 자본,850705000,USD,공시,https://www.sec.gov/Archives/edgar/data/857005/000085700513000026/,,24
+PTC,PTC,2013Q2,2013-06-28,분기말 종가,24.53,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/PTC?interval=1d&events=splits (2013-06-28),,24
+PTC,PTC,2013Q2,2013-08-02,분기말 상장주식수,119070239,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/857005/000085700513000026/,dei:EntityCommonStockSharesOutstanding 클래스 합,24
+PTC,PTC,2013Q2,2013-06-28,분기말 시가총액,2920792963,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/PTC?interval=1d&events=splits (2013-06-28) ; https://www.sec.gov/Archives/edgar/data/857005/000085700513000026/,종가 24.53 × 주식수 119070239,24
+PTC,PTC,2013Q3,2013-09-30,분기별 매출액,344845000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/857005/000085700513000038/ ; https://www.sec.gov/Archives/edgar/data/857005/000085700513000026/,연간 1293541000 − 9개월누적 948696000 (SalesRevenueNet),24
+PTC,PTC,2013Q3,2013-09-30,분기별 영업이익,49006000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/857005/000085700513000038/ ; https://www.sec.gov/Archives/edgar/data/857005/000085700513000026/,연간 127324000 − 9개월누적 78318000 (OperatingIncomeLoss),24
+PTC,PTC,2013Q3,2013-09-30,분기별 당기순이익(지배),56466000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/857005/000085700513000038/ ; https://www.sec.gov/Archives/edgar/data/857005/000085700513000026/,연간 143769000 − 9개월누적 87303000 (NetIncomeLoss),24
+PTC,PTC,2013Q3,2013-09-30,분기별 영업활동현금흐름,43661000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/857005/000085700513000038/ ; https://www.sec.gov/Archives/edgar/data/857005/000085700513000026/,누적 224683000 − 직전누적 181022000 (시작 2012-10-01),24
+PTC,PTC,2013Q3,2013-09-30,분기말 자산총계,1828906000,USD,공시,https://www.sec.gov/Archives/edgar/data/857005/000085700513000038/,,24
+PTC,PTC,2013Q3,2013-09-30,분기말 부채총계,902426000,USD,공시,https://www.sec.gov/Archives/edgar/data/857005/000085700513000038/,,24
+PTC,PTC,2013Q3,2013-09-30,분기말 총자본(자기자본),926480000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/857005/000085700513000038/,"StockholdersEquity, MinorityInterest 태그 없음",24
+PTC,PTC,2013Q3,2013-09-30,분기말 지배지분 자본,926480000,USD,공시,https://www.sec.gov/Archives/edgar/data/857005/000085700513000038/,,24
+PTC,PTC,2013Q3,2013-09-30,분기말 종가,28.46,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/PTC?interval=1d&events=splits (2013-09-30),,24
+PTC,PTC,2013Q3,2013-11-18,분기말 상장주식수,119494574,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/857005/000085700513000038/,dei:EntityCommonStockSharesOutstanding 클래스 합,24
+PTC,PTC,2013Q3,2013-09-30,분기말 시가총액,3400815576,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/PTC?interval=1d&events=splits (2013-09-30) ; https://www.sec.gov/Archives/edgar/data/857005/000085700513000038/,종가 28.46 × 주식수 119494574,24
+PTC,PTC,2013Q4,2013-12-28,분기별 매출액,324925000,USD,공시,https://www.sec.gov/Archives/edgar/data/857005/000085700514000004/,,24
+PTC,PTC,2013Q4,2013-12-28,분기별 영업이익,54871000,USD,공시,https://www.sec.gov/Archives/edgar/data/857005/000085700514000004/,,24
+PTC,PTC,2013Q4,2013-12-28,분기별 당기순이익(지배),39657000,USD,공시,https://www.sec.gov/Archives/edgar/data/857005/000085700514000004/,,24
+PTC,PTC,2013Q4,2013-12-28,분기별 영업활동현금흐름,36242000,USD,공시,https://www.sec.gov/Archives/edgar/data/857005/000085700514000004/,,24
+PTC,PTC,2013Q4,2013-12-28,분기말 자산총계,1904742000,USD,공시,https://www.sec.gov/Archives/edgar/data/857005/000085700514000004/,,24
+PTC,PTC,2013Q4,2013-12-28,분기말 부채총계,936094000,USD,공시,https://www.sec.gov/Archives/edgar/data/857005/000085700514000004/,,24
+PTC,PTC,2013Q4,2013-12-28,분기말 총자본(자기자본),968648000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/857005/000085700514000004/,"StockholdersEquity, MinorityInterest 태그 없음",24
+PTC,PTC,2013Q4,2013-12-28,분기말 지배지분 자본,968648000,USD,공시,https://www.sec.gov/Archives/edgar/data/857005/000085700514000004/,,24
+PTC,PTC,2013Q4,2013-12-27,분기말 종가,34.11,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/PTC?interval=1d&events=splits (2013-12-27),,24
+PTC,PTC,2013Q4,2014-02-03,분기말 상장주식수,119070239,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/857005/000085700514000004/,dei:EntityCommonStockSharesOutstanding 클래스 합,24
+PTC,PTC,2013Q4,2013-12-27,분기말 시가총액,4061485852,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/PTC?interval=1d&events=splits (2013-12-27) ; https://www.sec.gov/Archives/edgar/data/857005/000085700514000004/,종가 34.11 × 주식수 119070239,24
+PTC,PTC,2014Q1,2014-03-29,분기별 매출액,328700000,USD,공시,https://www.sec.gov/Archives/edgar/data/857005/000085700514000010/,,24
+PTC,PTC,2014Q1,2014-03-29,분기별 영업이익,51213000,USD,공시,https://www.sec.gov/Archives/edgar/data/857005/000085700514000010/,,24
+PTC,PTC,2014Q1,2014-03-29,분기별 당기순이익(지배),43756000,USD,공시,https://www.sec.gov/Archives/edgar/data/857005/000085700514000010/,,24
+PTC,PTC,2014Q1,2014-03-29,분기별 영업활동현금흐름,110722000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/857005/000085700514000010/ ; https://www.sec.gov/Archives/edgar/data/857005/000085700514000004/,누적 146964000 − 직전누적 36242000 (시작 2013-10-01),24
+PTC,PTC,2014Q1,2014-03-29,분기말 자산총계,1959126000,USD,공시,https://www.sec.gov/Archives/edgar/data/857005/000085700514000010/,,24
+PTC,PTC,2014Q1,2014-03-29,분기말 부채총계,976705000,USD,공시,https://www.sec.gov/Archives/edgar/data/857005/000085700514000010/,,24
+PTC,PTC,2014Q1,2014-03-29,분기말 총자본(자기자본),982421000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/857005/000085700514000010/,"StockholdersEquity, MinorityInterest 태그 없음",24
+PTC,PTC,2014Q1,2014-03-29,분기말 지배지분 자본,982421000,USD,공시,https://www.sec.gov/Archives/edgar/data/857005/000085700514000010/,,24
+PTC,PTC,2014Q1,2014-03-28,분기말 종가,34.84,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/PTC?interval=1d&events=splits (2014-03-28),,24
+PTC,PTC,2014Q1,2014-05-05,분기말 상장주식수,118618612,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/857005/000085700514000010/,dei:EntityCommonStockSharesOutstanding 클래스 합,24
+PTC,PTC,2014Q1,2014-03-28,분기말 시가총액,4132672442,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/PTC?interval=1d&events=splits (2014-03-28) ; https://www.sec.gov/Archives/edgar/data/857005/000085700514000010/,종가 34.84 × 주식수 118618612,24
+PTC,PTC,2014Q2,2014-06-28,분기별 매출액,336634000,USD,공시,https://www.sec.gov/Archives/edgar/data/857005/000085700514000018/,,24
+PTC,PTC,2014Q2,2014-06-28,분기별 영업이익,54384000,USD,공시,https://www.sec.gov/Archives/edgar/data/857005/000085700514000018/,,24
+PTC,PTC,2014Q2,2014-06-28,분기별 당기순이익(지배),38026000,USD,공시,https://www.sec.gov/Archives/edgar/data/857005/000085700514000018/,,24
+PTC,PTC,2014Q2,2014-06-28,분기별 영업활동현금흐름,106423000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/857005/000085700514000018/ ; https://www.sec.gov/Archives/edgar/data/857005/000085700514000010/,누적 253387000 − 직전누적 146964000 (시작 2013-10-01),24
+PTC,PTC,2014Q2,2014-06-28,분기말 자산총계,1958206000,USD,공시,https://www.sec.gov/Archives/edgar/data/857005/000085700514000018/,,24
+PTC,PTC,2014Q2,2014-06-28,분기말 부채총계,985737000,USD,공시,https://www.sec.gov/Archives/edgar/data/857005/000085700514000018/,,24
+PTC,PTC,2014Q2,2014-06-28,분기말 총자본(자기자본),972469000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/857005/000085700514000018/,"StockholdersEquity, MinorityInterest 태그 없음",24
+PTC,PTC,2014Q2,2014-06-28,분기말 지배지분 자본,972469000,USD,공시,https://www.sec.gov/Archives/edgar/data/857005/000085700514000018/,,24
+PTC,PTC,2014Q2,2014-06-27,분기말 종가,38.42,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/PTC?interval=1d&events=splits (2014-06-27),,24
+PTC,PTC,2014Q2,2014-08-04,분기말 상장주식수,117308872,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/857005/000085700514000018/,dei:EntityCommonStockSharesOutstanding 클래스 합,24
+PTC,PTC,2014Q2,2014-06-27,분기말 시가총액,4507006862,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/PTC?interval=1d&events=splits (2014-06-27) ; https://www.sec.gov/Archives/edgar/data/857005/000085700514000018/,종가 38.42 × 주식수 117308872,24
+PTC,PTC,2014Q3,2014-09-30,분기별 매출액,366708000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/857005/000085700514000032/ ; https://www.sec.gov/Archives/edgar/data/857005/000085700514000018/,연간 1356967000 − 9개월누적 990259000 (SalesRevenueNet),24
+PTC,PTC,2014Q3,2014-09-30,분기별 영업이익,36108000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/857005/000085700514000032/ ; https://www.sec.gov/Archives/edgar/data/857005/000085700514000018/,연간 196576000 − 9개월누적 160468000 (OperatingIncomeLoss),24
+PTC,PTC,2014Q3,2014-09-30,분기별 당기순이익(지배),38755000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/857005/000085700514000032/ ; https://www.sec.gov/Archives/edgar/data/857005/000085700514000018/,연간 160194000 − 9개월누적 121439000 (NetIncomeLoss),24
+PTC,PTC,2014Q3,2014-09-30,분기별 영업활동현금흐름,51165000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/857005/000085700514000032/ ; https://www.sec.gov/Archives/edgar/data/857005/000085700514000018/,누적 304552000 − 직전누적 253387000 (시작 2013-10-01),24
+PTC,PTC,2014Q3,2014-09-30,분기말 자산총계,2199954000,USD,공시,https://www.sec.gov/Archives/edgar/data/857005/000085700514000032/,,24
+PTC,PTC,2014Q3,2014-09-30,분기말 부채총계,1346065000,USD,공시,https://www.sec.gov/Archives/edgar/data/857005/000085700514000032/,,24
+PTC,PTC,2014Q3,2014-09-30,분기말 총자본(자기자본),853889000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/857005/000085700514000032/,"StockholdersEquity, MinorityInterest 태그 없음",24
+PTC,PTC,2014Q3,2014-09-30,분기말 지배지분 자본,853889000,USD,공시,https://www.sec.gov/Archives/edgar/data/857005/000085700514000032/,,24
+PTC,PTC,2014Q3,2014-09-30,분기말 종가,36.9,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/PTC?interval=1d&events=splits (2014-09-30),,24
+PTC,PTC,2014Q3,2014-11-24,분기말 상장주식수,115995195,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/857005/000085700514000032/,dei:EntityCommonStockSharesOutstanding 클래스 합,24
+PTC,PTC,2014Q3,2014-09-30,분기말 시가총액,4280222696,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/PTC?interval=1d&events=splits (2014-09-30) ; https://www.sec.gov/Archives/edgar/data/857005/000085700514000032/,종가 36.9 × 주식수 115995195,24
+PTC,PTC,2014Q4,2015-01-03,분기별 매출액,325442000,USD,공시,https://www.sec.gov/Archives/edgar/data/857005/000085700515000007/,,24
+PTC,PTC,2014Q4,2015-01-03,분기별 영업이익,37631000,USD,공시,https://www.sec.gov/Archives/edgar/data/857005/000085700515000007/,,24
+PTC,PTC,2014Q4,2015-01-03,분기별 당기순이익(지배),30284000,USD,공시,https://www.sec.gov/Archives/edgar/data/857005/000085700515000007/,,24
+PTC,PTC,2014Q4,2015-01-03,분기별 영업활동현금흐름,13632000,USD,공시,https://www.sec.gov/Archives/edgar/data/857005/000085700515000007/,,24
+PTC,PTC,2014Q4,2015-01-03,분기말 자산총계,2137223000,USD,공시,https://www.sec.gov/Archives/edgar/data/857005/000085700515000007/,,24
+PTC,PTC,2014Q4,2015-01-03,분기말 부채총계,1281770000,USD,공시,https://www.sec.gov/Archives/edgar/data/857005/000085700515000007/,,24
+PTC,PTC,2014Q4,2015-01-03,분기말 총자본(자기자본),855453000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/857005/000085700515000007/,"StockholdersEquity, MinorityInterest 태그 없음",24
+PTC,PTC,2014Q4,2015-01-03,분기말 지배지분 자본,855453000,USD,공시,https://www.sec.gov/Archives/edgar/data/857005/000085700515000007/,,24
+PTC,PTC,2014Q4,2015-01-02,분기말 종가,36.35,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/PTC?interval=1d&events=splits (2015-01-02),,24
+PTC,PTC,2014Q4,2015-02-09,분기말 상장주식수,114926977,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/857005/000085700515000007/,dei:EntityCommonStockSharesOutstanding 클래스 합,24
+PTC,PTC,2014Q4,2015-01-02,분기말 시가총액,4177595614,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/PTC?interval=1d&events=splits (2015-01-02) ; https://www.sec.gov/Archives/edgar/data/857005/000085700515000007/,종가 36.35 × 주식수 114926977,24
+PTC,PTC,2015Q1,2015-04-04,분기별 매출액,314119000,USD,공시,https://www.sec.gov/Archives/edgar/data/857005/000085700515000021/,,24
+PTC,PTC,2015Q1,2015-04-04,분기별 영업이익,3988000,USD,공시,https://www.sec.gov/Archives/edgar/data/857005/000085700515000021/,,24
+PTC,PTC,2015Q1,2015-04-04,분기별 당기순이익(지배),5392000,USD,공시,https://www.sec.gov/Archives/edgar/data/857005/000085700515000021/,,24
+PTC,PTC,2015Q1,2015-04-04,분기별 영업활동현금흐름,91992000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/857005/000085700515000021/ ; https://www.sec.gov/Archives/edgar/data/857005/000085700515000007/,누적 105624000 − 직전누적 13632000 (시작 2014-10-01),24
+PTC,PTC,2015Q1,2015-04-04,분기말 자산총계,2108630000,USD,공시,https://www.sec.gov/Archives/edgar/data/857005/000085700515000021/,,24
+PTC,PTC,2015Q1,2015-04-04,분기말 부채총계,1254410000,USD,공시,https://www.sec.gov/Archives/edgar/data/857005/000085700515000021/,,24
+PTC,PTC,2015Q1,2015-04-04,분기말 총자본(자기자본),854220000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/857005/000085700515000021/,"StockholdersEquity, MinorityInterest 태그 없음",24
+PTC,PTC,2015Q1,2015-04-04,분기말 지배지분 자본,854220000,USD,공시,https://www.sec.gov/Archives/edgar/data/857005/000085700515000021/,,24
+PTC,PTC,2015Q1,2015-04-02,분기말 종가,36.51,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/PTC?interval=1d&events=splits (2015-04-02),,24
+PTC,PTC,2015Q1,2015-05-07,분기말 상장주식수,114986644,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/857005/000085700515000021/,dei:EntityCommonStockSharesOutstanding 클래스 합,24
+PTC,PTC,2015Q1,2015-04-02,분기말 시가총액,4198162372,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/PTC?interval=1d&events=splits (2015-04-02) ; https://www.sec.gov/Archives/edgar/data/857005/000085700515000021/,종가 36.51 × 주식수 114986644,24
+PTC,PTC,2015Q2,2015-07-04,분기별 매출액,303113000,USD,공시,https://www.sec.gov/Archives/edgar/data/857005/000085700515000028/,,24
+PTC,PTC,2015Q2,2015-07-04,분기별 영업이익,21607000,USD,공시,https://www.sec.gov/Archives/edgar/data/857005/000085700515000028/,,24
+PTC,PTC,2015Q2,2015-07-04,분기별 당기순이익(지배),17435000,USD,공시,https://www.sec.gov/Archives/edgar/data/857005/000085700515000028/,,24
+PTC,PTC,2015Q2,2015-07-04,분기별 영업활동현금흐름,86839000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/857005/000085700515000028/ ; https://www.sec.gov/Archives/edgar/data/857005/000085700515000021/,누적 192463000 − 직전누적 105624000 (시작 2014-10-01),24
+PTC,PTC,2015Q2,2015-07-04,분기말 자산총계,2146601000,USD,공시,https://www.sec.gov/Archives/edgar/data/857005/000085700515000028/,,24
+PTC,PTC,2015Q2,2015-07-04,분기말 부채총계,1316278000,USD,공시,https://www.sec.gov/Archives/edgar/data/857005/000085700515000028/,,24
+PTC,PTC,2015Q2,2015-07-04,분기말 총자본(자기자본),830323000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/857005/000085700515000028/,"StockholdersEquity, MinorityInterest 태그 없음",24
+PTC,PTC,2015Q2,2015-07-04,분기말 지배지분 자본,830323000,USD,공시,https://www.sec.gov/Archives/edgar/data/857005/000085700515000028/,,24
+PTC,PTC,2015Q2,2015-07-02,분기말 종가,41.18,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/PTC?interval=1d&events=splits (2015-07-02),,24
+PTC,PTC,2015Q2,2015-08-10,분기말 상장주식수,114168760,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/857005/000085700515000028/,dei:EntityCommonStockSharesOutstanding 클래스 합,24
+PTC,PTC,2015Q2,2015-07-02,분기말 시가총액,4701469537,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/PTC?interval=1d&events=splits (2015-07-02) ; https://www.sec.gov/Archives/edgar/data/857005/000085700515000028/,종가 41.18 × 주식수 114168760,24
+PTC,PTC,2015Q3,2015-09-30,분기별 매출액,312568000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/857005/000085700515000042/ ; https://www.sec.gov/Archives/edgar/data/857005/000085700515000028/,연간 1255242000 − 9개월누적 942674000 (SalesRevenueNet),24
+PTC,PTC,2015Q3,2015-09-30,분기별 영업이익,-21610000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/857005/000085700515000042/ ; https://www.sec.gov/Archives/edgar/data/857005/000085700515000028/,연간 41616000 − 9개월누적 63226000 (OperatingIncomeLoss),24
+PTC,PTC,2015Q3,2015-09-30,분기별 당기순이익(지배),-5554000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/857005/000085700515000042/ ; https://www.sec.gov/Archives/edgar/data/857005/000085700515000028/,연간 47557000 − 9개월누적 53111000 (NetIncomeLoss),24
+PTC,PTC,2015Q3,2015-09-30,분기별 영업활동현금흐름,-12560000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/857005/000085700515000042/ ; https://www.sec.gov/Archives/edgar/data/857005/000085700515000028/,누적 179903000 − 직전누적 192463000 (시작 2014-10-01),24
+PTC,PTC,2015Q3,2015-09-30,분기말 자산총계,2209913000,USD,공시,https://www.sec.gov/Archives/edgar/data/857005/000085700515000042/,,24
+PTC,PTC,2015Q3,2015-09-30,분기말 부채총계,1349742000,USD,공시,https://www.sec.gov/Archives/edgar/data/857005/000085700515000042/,,24
+PTC,PTC,2015Q3,2015-09-30,분기말 총자본(자기자본),860171000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/857005/000085700515000042/,"StockholdersEquity, MinorityInterest 태그 없음",24
+PTC,PTC,2015Q3,2015-09-30,분기말 지배지분 자본,860171000,USD,공시,https://www.sec.gov/Archives/edgar/data/857005/000085700515000042/,,24
+PTC,PTC,2015Q3,2015-09-30,분기말 종가,31.74,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/PTC?interval=1d&events=splits (2015-09-30),,24
+PTC,PTC,2015Q3,2015-11-20,분기말 상장주식수,114529462,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/857005/000085700515000042/,dei:EntityCommonStockSharesOutstanding 클래스 합,24
+PTC,PTC,2015Q3,2015-09-30,분기말 시가총액,3635165124,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/PTC?interval=1d&events=splits (2015-09-30) ; https://www.sec.gov/Archives/edgar/data/857005/000085700515000042/,종가 31.74 × 주식수 114529462,24
+PTC,PTC,2015Q4,2016-01-02,분기별 매출액,291017000,USD,공시,https://www.sec.gov/Archives/edgar/data/857005/000085700516000050/,,24
+PTC,PTC,2015Q4,2016-01-02,분기별 영업이익,-13292000,USD,공시,https://www.sec.gov/Archives/edgar/data/857005/000085700516000050/,,24
+PTC,PTC,2015Q4,2016-01-02,분기별 당기순이익(지배),-23892000,USD,공시,https://www.sec.gov/Archives/edgar/data/857005/000085700516000050/,,24
+PTC,PTC,2015Q4,2016-01-02,분기별 영업활동현금흐름,61254000,USD,공시,https://www.sec.gov/Archives/edgar/data/857005/000085700516000050/,,24
+PTC,PTC,2015Q4,2016-01-02,분기말 자산총계,2215893000,USD,공시,https://www.sec.gov/Archives/edgar/data/857005/000085700516000050/,,24
+PTC,PTC,2015Q4,2016-01-02,분기말 부채총계,1379956000,USD,공시,https://www.sec.gov/Archives/edgar/data/857005/000085700516000050/,,24
+PTC,PTC,2015Q4,2016-01-02,분기말 총자본(자기자본),835937000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/857005/000085700516000050/,"StockholdersEquity, MinorityInterest 태그 없음",24
+PTC,PTC,2015Q4,2016-01-02,분기말 지배지분 자본,835937000,USD,공시,https://www.sec.gov/Archives/edgar/data/857005/000085700516000050/,,24
+PTC,PTC,2015Q4,2015-12-31,분기말 종가,34.63,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/PTC?interval=1d&events=splits (2015-12-31),,24
+PTC,PTC,2015Q4,2016-02-08,분기말 상장주식수,114531686,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/857005/000085700516000050/,dei:EntityCommonStockSharesOutstanding 클래스 합,24
+PTC,PTC,2015Q4,2015-12-31,분기말 시가총액,3966232286,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/PTC?interval=1d&events=splits (2015-12-31) ; https://www.sec.gov/Archives/edgar/data/857005/000085700516000050/,종가 34.63 × 주식수 114531686,24
+PTC,PTC,2016Q1,2016-04-02,분기별 매출액,272627000,USD,공시,https://www.sec.gov/Archives/edgar/data/857005/000085700516000059/,,24
+PTC,PTC,2016Q1,2016-04-02,분기별 영업이익,1758000,USD,공시,https://www.sec.gov/Archives/edgar/data/857005/000085700516000059/,,24
+PTC,PTC,2016Q1,2016-04-02,분기별 당기순이익(지배),-5173000,USD,공시,https://www.sec.gov/Archives/edgar/data/857005/000085700516000059/,,24
+PTC,PTC,2016Q1,2016-04-02,분기별 영업활동현금흐름,48885000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/857005/000085700516000059/ ; https://www.sec.gov/Archives/edgar/data/857005/000085700516000050/,누적 110139000 − 직전누적 61254000 (시작 2015-10-01),24
+PTC,PTC,2016Q1,2016-04-02,분기말 자산총계,2411502000,USD,공시,https://www.sec.gov/Archives/edgar/data/857005/000085700516000059/,,24
+PTC,PTC,2016Q1,2016-04-02,분기말 부채총계,1557398000,USD,공시,https://www.sec.gov/Archives/edgar/data/857005/000085700516000059/,,24
+PTC,PTC,2016Q1,2016-04-02,분기말 총자본(자기자본),854104000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/857005/000085700516000059/,"StockholdersEquity, MinorityInterest 태그 없음",24
+PTC,PTC,2016Q1,2016-04-02,분기말 지배지분 자본,854104000,USD,공시,https://www.sec.gov/Archives/edgar/data/857005/000085700516000059/,,24
+PTC,PTC,2016Q1,2016-04-01,분기말 종가,33.0,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/PTC?interval=1d&events=splits (2016-04-01),,24
+PTC,PTC,2016Q1,2016-05-09,분기말 상장주식수,114622526,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/857005/000085700516000059/,dei:EntityCommonStockSharesOutstanding 클래스 합,24
+PTC,PTC,2016Q1,2016-04-01,분기말 시가총액,3782543358,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/PTC?interval=1d&events=splits (2016-04-01) ; https://www.sec.gov/Archives/edgar/data/857005/000085700516000059/,종가 33.0 × 주식수 114622526,24
+PTC,PTC,2016Q2,2016-07-02,분기별 매출액,288652000,USD,공시,https://www.sec.gov/Archives/edgar/data/857005/000085700516000068/,,24
+PTC,PTC,2016Q2,2016-07-02,분기별 영업이익,7596000,USD,공시,https://www.sec.gov/Archives/edgar/data/857005/000085700516000068/,,24
+PTC,PTC,2016Q2,2016-07-02,분기별 당기순이익(지배),3073000,USD,공시,https://www.sec.gov/Archives/edgar/data/857005/000085700516000068/,,24
+PTC,PTC,2016Q2,2016-07-02,분기별 영업활동현금흐름,59457000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/857005/000085700516000068/ ; https://www.sec.gov/Archives/edgar/data/857005/000085700516000059/,누적 169596000 − 직전누적 110139000 (시작 2015-10-01),24
+PTC,PTC,2016Q2,2016-07-02,분기말 자산총계,2339146000,USD,공시,https://www.sec.gov/Archives/edgar/data/857005/000085700516000068/,,24
+PTC,PTC,2016Q2,2016-07-02,분기말 부채총계,1476485000,USD,공시,https://www.sec.gov/Archives/edgar/data/857005/000085700516000068/,,24
+PTC,PTC,2016Q2,2016-07-02,분기말 총자본(자기자본),862661000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/857005/000085700516000068/,"StockholdersEquity, MinorityInterest 태그 없음",24
+PTC,PTC,2016Q2,2016-07-02,분기말 지배지분 자본,862661000,USD,공시,https://www.sec.gov/Archives/edgar/data/857005/000085700516000068/,,24
+PTC,PTC,2016Q2,2016-07-01,분기말 종가,37.9,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/PTC?interval=1d&events=splits (2016-07-01),,24
+PTC,PTC,2016Q2,2016-08-08,분기말 상장주식수,114956077,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/857005/000085700516000068/,dei:EntityCommonStockSharesOutstanding 클래스 합,24
+PTC,PTC,2016Q2,2016-07-01,분기말 시가총액,4356835318,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/PTC?interval=1d&events=splits (2016-07-01) ; https://www.sec.gov/Archives/edgar/data/857005/000085700516000068/,종가 37.9 × 주식수 114956077,24
+PTC,PTC,2016Q3,2016-09-30,분기별 매출액,288237000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/857005/000085700516000071/ ; https://www.sec.gov/Archives/edgar/data/857005/000085700516000068/,연간 1140533000 − 9개월누적 852296000 (SalesRevenueNet),24
+PTC,PTC,2016Q3,2016-09-30,분기별 영업이익,-33075000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/857005/000085700516000071/ ; https://www.sec.gov/Archives/edgar/data/857005/000085700516000068/,연간 -37014000 − 9개월누적 -3939000 (OperatingIncomeLoss),24
+PTC,PTC,2016Q3,2016-09-30,분기별 당기순이익(지배),-28473000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/857005/000085700516000071/ ; https://www.sec.gov/Archives/edgar/data/857005/000085700516000068/,연간 -54465000 − 9개월누적 -25992000 (NetIncomeLoss),24
+PTC,PTC,2016Q3,2016-09-30,분기별 영업활동현금흐름,13665000,USD,계산(누적차감)(재작성 반영),https://www.sec.gov/Archives/edgar/data/857005/000085700518000025/ ; https://www.sec.gov/Archives/edgar/data/857005/000085700516000068/,누적 183261000 − 직전누적 169596000 (시작 2015-10-01) ; 원 공시 13572000 (https://www.sec.gov/Archives/edgar/data/857005/000085700516000071/ ; https://www.sec.gov/Archives/edgar/data/857005/000085700516000068/),24
+PTC,PTC,2016Q3,2016-09-30,분기말 자산총계,2345729000,USD,공시(재작성 반영),https://www.sec.gov/Archives/edgar/data/857005/000085700517000021/,원 공시 2352253000 (https://www.sec.gov/Archives/edgar/data/857005/000085700516000071/),24
+PTC,PTC,2016Q3,2016-09-30,분기말 부채총계,1503063000,USD,공시(재작성 반영),https://www.sec.gov/Archives/edgar/data/857005/000085700517000021/,원 공시 1509587000 (https://www.sec.gov/Archives/edgar/data/857005/000085700516000071/),24
+PTC,PTC,2016Q3,2016-09-30,분기말 총자본(자기자본),842666000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/857005/000085700516000071/,"StockholdersEquity, MinorityInterest 태그 없음",24
+PTC,PTC,2016Q3,2016-09-30,분기말 지배지분 자본,842666000,USD,공시,https://www.sec.gov/Archives/edgar/data/857005/000085700516000071/,,24
+PTC,PTC,2016Q3,2016-09-30,분기말 종가,44.31,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/PTC?interval=1d&events=splits (2016-09-30),,24
+PTC,PTC,2016Q3,2016-11-16,분기말 상장주식수,115604111,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/857005/000085700516000071/,dei:EntityCommonStockSharesOutstanding 클래스 합,24
+PTC,PTC,2016Q3,2016-09-30,분기말 시가총액,5122418158,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/PTC?interval=1d&events=splits (2016-09-30) ; https://www.sec.gov/Archives/edgar/data/857005/000085700516000071/,종가 44.31 × 주식수 115604111,24
+PTC,PTC,2016Q4,2016-12-31,분기별 매출액,286327000,USD,공시,https://www.sec.gov/Archives/edgar/data/857005/000085700517000004/,,24
+PTC,PTC,2016Q4,2016-12-31,분기별 영업이익,4561000,USD,공시,https://www.sec.gov/Archives/edgar/data/857005/000085700517000004/,,24
+PTC,PTC,2016Q4,2016-12-31,분기별 당기순이익(지배),-9141000,USD,공시,https://www.sec.gov/Archives/edgar/data/857005/000085700517000004/,,24
+PTC,PTC,2016Q4,2016-12-31,분기별 영업활동현금흐름,-47876000,USD,공시(재작성 반영),https://www.sec.gov/Archives/edgar/data/857005/000085700518000004/,원 공시 -47978000 (https://www.sec.gov/Archives/edgar/data/857005/000085700517000004/),24
+PTC,PTC,2016Q4,2016-12-31,분기말 자산총계,2196941000,USD,공시,https://www.sec.gov/Archives/edgar/data/857005/000085700517000004/,,24
+PTC,PTC,2016Q4,2016-12-31,분기말 부채총계,1377976000,USD,공시,https://www.sec.gov/Archives/edgar/data/857005/000085700517000004/,,24
+PTC,PTC,2016Q4,2016-12-31,분기말 총자본(자기자본),818965000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/857005/000085700517000004/,"StockholdersEquity, MinorityInterest 태그 없음",24
+PTC,PTC,2016Q4,2016-12-31,분기말 지배지분 자본,818965000,USD,공시,https://www.sec.gov/Archives/edgar/data/857005/000085700517000004/,,24
+PTC,PTC,2016Q4,2016-12-30,분기말 종가,46.27,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/PTC?interval=1d&events=splits (2016-12-30),,24
+PTC,PTC,2016Q4,2017-02-01,분기말 상장주식수,115721488,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/857005/000085700517000004/,dei:EntityCommonStockSharesOutstanding 클래스 합,24
+PTC,PTC,2016Q4,2016-12-30,분기말 시가총액,5354433250,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/PTC?interval=1d&events=splits (2016-12-30) ; https://www.sec.gov/Archives/edgar/data/857005/000085700517000004/,종가 46.27 × 주식수 115721488,24
+PTC,PTC,2017Q1,2017-04-01,분기별 매출액,280040000,USD,공시,https://www.sec.gov/Archives/edgar/data/857005/000085700517000009/,,24
+PTC,PTC,2017Q1,2017-04-01,분기별 영업이익,7513000,USD,공시,https://www.sec.gov/Archives/edgar/data/857005/000085700517000009/,,24
+PTC,PTC,2017Q1,2017-04-01,분기별 당기순이익(지배),-1104000,USD,공시,https://www.sec.gov/Archives/edgar/data/857005/000085700517000009/,,24
+PTC,PTC,2017Q1,2017-04-01,분기별 영업활동현금흐름,76426000,USD,계산(누적차감)(재작성 반영),https://www.sec.gov/Archives/edgar/data/857005/000085700518000008/ ; https://www.sec.gov/Archives/edgar/data/857005/000085700518000004/,누적 28550000 − 직전누적 -47876000 (시작 2016-10-01) ; 원 공시 76389000 (https://www.sec.gov/Archives/edgar/data/857005/000085700517000009/ ; https://www.sec.gov/Archives/edgar/data/857005/000085700517000004/),24
+PTC,PTC,2017Q1,2017-04-01,분기말 자산총계,2333748000,USD,공시,https://www.sec.gov/Archives/edgar/data/857005/000085700517000009/,,24
+PTC,PTC,2017Q1,2017-04-01,분기말 부채총계,1486404000,USD,공시,https://www.sec.gov/Archives/edgar/data/857005/000085700517000009/,,24
+PTC,PTC,2017Q1,2017-04-01,분기말 총자본(자기자본),847344000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/857005/000085700517000009/,"StockholdersEquity, MinorityInterest 태그 없음",24
+PTC,PTC,2017Q1,2017-04-01,분기말 지배지분 자본,847344000,USD,공시,https://www.sec.gov/Archives/edgar/data/857005/000085700517000009/,,24
+PTC,PTC,2017Q1,2017-03-31,분기말 종가,52.55,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/PTC?interval=1d&events=splits (2017-03-31),,24
+PTC,PTC,2017Q1,2017-05-09,분기말 상장주식수,115521649,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/857005/000085700517000009/,dei:EntityCommonStockSharesOutstanding 클래스 합,24
+PTC,PTC,2017Q1,2017-03-31,분기말 시가총액,6070662655,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/PTC?interval=1d&events=splits (2017-03-31) ; https://www.sec.gov/Archives/edgar/data/857005/000085700517000009/,종가 52.55 × 주식수 115521649,24
+PTC,PTC,2017Q2,2017-07-01,분기별 매출액,291293000,USD,공시,https://www.sec.gov/Archives/edgar/data/857005/000085700517000013/,,24
+PTC,PTC,2017Q2,2017-07-01,분기별 영업이익,11256000,USD,공시,https://www.sec.gov/Archives/edgar/data/857005/000085700517000013/,,24
+PTC,PTC,2017Q2,2017-07-01,분기별 당기순이익(지배),-951000,USD,공시,https://www.sec.gov/Archives/edgar/data/857005/000085700517000013/,,24
+PTC,PTC,2017Q2,2017-07-01,분기별 영업활동현금흐름,73913000,USD,계산(누적차감)(재작성 반영),https://www.sec.gov/Archives/edgar/data/857005/000085700518000015/ ; https://www.sec.gov/Archives/edgar/data/857005/000085700518000008/,누적 102463000 − 직전누적 28550000 (시작 2016-10-01) ; 원 공시 73655000 (https://www.sec.gov/Archives/edgar/data/857005/000085700517000013/ ; https://www.sec.gov/Archives/edgar/data/857005/000085700517000009/),24
+PTC,PTC,2017Q2,2017-07-01,분기말 자산총계,2291761000,USD,공시,https://www.sec.gov/Archives/edgar/data/857005/000085700517000013/,,24
+PTC,PTC,2017Q2,2017-07-01,분기말 부채총계,1456381000,USD,공시,https://www.sec.gov/Archives/edgar/data/857005/000085700517000013/,,24
+PTC,PTC,2017Q2,2017-07-01,분기말 총자본(자기자본),835380000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/857005/000085700517000013/,"StockholdersEquity, MinorityInterest 태그 없음",24
+PTC,PTC,2017Q2,2017-07-01,분기말 지배지분 자본,835380000,USD,공시,https://www.sec.gov/Archives/edgar/data/857005/000085700517000013/,,24
+PTC,PTC,2017Q2,2017-06-30,분기말 종가,55.12,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/PTC?interval=1d&events=splits (2017-06-30),,24
+PTC,PTC,2017Q2,2017-08-04,분기말 상장주식수,115607536,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/857005/000085700517000013/,dei:EntityCommonStockSharesOutstanding 클래스 합,24
+PTC,PTC,2017Q2,2017-06-30,분기말 시가총액,6372287384,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/PTC?interval=1d&events=splits (2017-06-30) ; https://www.sec.gov/Archives/edgar/data/857005/000085700517000013/,종가 55.12 × 주식수 115607536,24
+PTC,PTC,2017Q3,2017-09-30,분기별 매출액,306379000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/857005/000085700517000021/ ; https://www.sec.gov/Archives/edgar/data/857005/000085700517000013/,연간 1164039000 − 9개월누적 857660000 (SalesRevenueNet),24
+PTC,PTC,2017Q3,2017-09-30,분기별 영업이익,18436000,USD,계산(연간-3분기누적)(재작성 반영),https://www.sec.gov/Archives/edgar/data/857005/000085700519000040/ ; https://www.sec.gov/Archives/edgar/data/857005/000085700517000013/,연간 41766000 − 9개월누적 23330000 (OperatingIncomeLoss) ; 원 공시 17568000 (https://www.sec.gov/Archives/edgar/data/857005/000085700517000021/ ; https://www.sec.gov/Archives/edgar/data/857005/000085700517000013/),24
+PTC,PTC,2017Q3,2017-09-30,분기별 당기순이익(지배),17435000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/857005/000085700517000021/ ; https://www.sec.gov/Archives/edgar/data/857005/000085700517000013/,연간 6239000 − 9개월누적 -11196000 (NetIncomeLoss),24
+PTC,PTC,2017Q3,2017-09-30,분기별 영업활동현금흐름,32740000,USD,계산(누적차감)(재작성 반영),https://www.sec.gov/Archives/edgar/data/857005/000085700519000040/ ; https://www.sec.gov/Archives/edgar/data/857005/000085700518000015/,누적 135203000 − 직전누적 102463000 (시작 2016-10-01) ; 원 공시 32524000 (https://www.sec.gov/Archives/edgar/data/857005/000085700517000021/ ; https://www.sec.gov/Archives/edgar/data/857005/000085700517000013/),24
+PTC,PTC,2017Q3,2017-09-30,분기말 자산총계,2360384000,USD,공시,https://www.sec.gov/Archives/edgar/data/857005/000085700517000021/,,24
+PTC,PTC,2017Q3,2017-09-30,분기말 부채총계,1474948000,USD,공시,https://www.sec.gov/Archives/edgar/data/857005/000085700517000021/,,24
+PTC,PTC,2017Q3,2017-09-30,분기말 총자본(자기자본),885436000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/857005/000085700517000021/,"StockholdersEquity, MinorityInterest 태그 없음",24
+PTC,PTC,2017Q3,2017-09-30,분기말 지배지분 자본,885436000,USD,공시,https://www.sec.gov/Archives/edgar/data/857005/000085700517000021/,,24
+PTC,PTC,2017Q3,2017-09-29,분기말 종가,56.28,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/PTC?interval=1d&events=splits (2017-09-29),,24
+PTC,PTC,2017Q3,2017-11-27,분기말 상장주식수,116125277,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/857005/000085700517000021/,dei:EntityCommonStockSharesOutstanding 클래스 합,24
+PTC,PTC,2017Q3,2017-09-29,분기말 시가총액,6535530590,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/PTC?interval=1d&events=splits (2017-09-29) ; https://www.sec.gov/Archives/edgar/data/857005/000085700517000021/,종가 56.28 × 주식수 116125277,24
+PTC,PTC,2017Q4,2017-12-30,분기별 매출액,306644000,USD,공시,https://www.sec.gov/Archives/edgar/data/857005/000085700518000004/,,24
+PTC,PTC,2017Q4,2017-12-30,분기별 영업이익,17316000,USD,공시(재작성 반영),https://www.sec.gov/Archives/edgar/data/857005/000085700519000006/,원 공시 17472000 (https://www.sec.gov/Archives/edgar/data/857005/000085700518000004/),24
+PTC,PTC,2017Q4,2017-12-30,분기별 당기순이익(지배),13877000,USD,공시,https://www.sec.gov/Archives/edgar/data/857005/000085700518000004/,,24
+PTC,PTC,2017Q4,2017-12-30,분기별 영업활동현금흐름,25515000,USD,공시(재작성 반영),https://www.sec.gov/Archives/edgar/data/857005/000085700519000006/,원 공시 25127000 (https://www.sec.gov/Archives/edgar/data/857005/000085700518000004/),24
+PTC,PTC,2017Q4,2017-12-30,분기말 자산총계,2305942000,USD,공시,https://www.sec.gov/Archives/edgar/data/857005/000085700518000004/,,24
+PTC,PTC,2017Q4,2017-12-30,분기말 부채총계,1416843000,USD,공시,https://www.sec.gov/Archives/edgar/data/857005/000085700518000004/,,24
+PTC,PTC,2017Q4,2017-12-30,분기말 총자본(자기자본),889099000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/857005/000085700518000004/,"StockholdersEquity, MinorityInterest 태그 없음",24
+PTC,PTC,2017Q4,2017-12-30,분기말 지배지분 자본,889099000,USD,공시,https://www.sec.gov/Archives/edgar/data/857005/000085700518000004/,,24
+PTC,PTC,2017Q4,2017-12-29,분기말 종가,60.77,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/PTC?interval=1d&events=splits (2017-12-29),,24
+PTC,PTC,2017Q4,2018-02-02,분기말 상장주식수,116284430,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/857005/000085700518000004/,dei:EntityCommonStockSharesOutstanding 클래스 합,24
+PTC,PTC,2017Q4,2017-12-29,분기말 시가총액,7066604811,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/PTC?interval=1d&events=splits (2017-12-29) ; https://www.sec.gov/Archives/edgar/data/857005/000085700518000004/,종가 60.77 × 주식수 116284430,24
+PTC,PTC,2018Q1,2018-03-31,분기별 매출액,307883000,USD,공시,https://www.sec.gov/Archives/edgar/data/857005/000085700518000008/,,24
+PTC,PTC,2018Q1,2018-03-31,분기별 영업이익,22210000,USD,공시(재작성 반영),https://www.sec.gov/Archives/edgar/data/857005/000085700519000011/,원 공시 22366000 (https://www.sec.gov/Archives/edgar/data/857005/000085700518000008/),24
+PTC,PTC,2018Q1,2018-03-31,분기별 당기순이익(지배),7922000,USD,공시,https://www.sec.gov/Archives/edgar/data/857005/000085700518000008/,,24
+PTC,PTC,2018Q1,2018-03-31,분기별 영업활동현금흐름,111083000,USD,계산(누적차감)(재작성 반영),https://www.sec.gov/Archives/edgar/data/857005/000085700519000011/ ; https://www.sec.gov/Archives/edgar/data/857005/000085700519000006/,누적 136598000 − 직전누적 25515000 (시작 2017-10-01) ; 원 공시 111148000 (https://www.sec.gov/Archives/edgar/data/857005/000085700518000008/ ; https://www.sec.gov/Archives/edgar/data/857005/000085700518000004/),24
+PTC,PTC,2018Q1,2018-03-31,분기말 자산총계,2328814000,USD,공시,https://www.sec.gov/Archives/edgar/data/857005/000085700518000008/,,24
+PTC,PTC,2018Q1,2018-03-31,분기말 부채총계,1401090000,USD,공시,https://www.sec.gov/Archives/edgar/data/857005/000085700518000008/,,24
+PTC,PTC,2018Q1,2018-03-31,분기말 총자본(자기자본),927724000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/857005/000085700518000008/,"StockholdersEquity, MinorityInterest 태그 없음",24
+PTC,PTC,2018Q1,2018-03-31,분기말 지배지분 자본,927724000,USD,공시,https://www.sec.gov/Archives/edgar/data/857005/000085700518000008/,,24
+PTC,PTC,2018Q1,2018-03-29,분기말 종가,78.01,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/PTC?interval=1d&events=splits (2018-03-29),,24
+PTC,PTC,2018Q1,2018-04-30,분기말 상장주식수,115386106,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/857005/000085700518000008/,dei:EntityCommonStockSharesOutstanding 클래스 합,24
+PTC,PTC,2018Q1,2018-03-29,분기말 시가총액,9001270129,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/PTC?interval=1d&events=splits (2018-03-29) ; https://www.sec.gov/Archives/edgar/data/857005/000085700518000008/,종가 78.01 × 주식수 115386106,24
+PTC,PTC,2018Q2,2018-06-30,분기별 매출액,314777000,USD,공시,https://www.sec.gov/Archives/edgar/data/857005/000085700518000015/,,24
+PTC,PTC,2018Q2,2018-06-30,분기별 영업이익,21547000,USD,공시(재작성 반영),https://www.sec.gov/Archives/edgar/data/857005/000085700519000017/,원 공시 21703000 (https://www.sec.gov/Archives/edgar/data/857005/000085700518000015/),24
+PTC,PTC,2018Q2,2018-06-30,분기별 당기순이익(지배),16997000,USD,공시,https://www.sec.gov/Archives/edgar/data/857005/000085700518000015/,,24
+PTC,PTC,2018Q2,2018-06-30,분기별 영업활동현금흐름,49194000,USD,계산(누적차감)(재작성 반영),https://www.sec.gov/Archives/edgar/data/857005/000085700519000017/ ; https://www.sec.gov/Archives/edgar/data/857005/000085700519000011/,누적 185792000 − 직전누적 136598000 (시작 2017-10-01) ; 원 공시 49047000 (https://www.sec.gov/Archives/edgar/data/857005/000085700518000015/ ; https://www.sec.gov/Archives/edgar/data/857005/000085700518000008/),24
+PTC,PTC,2018Q2,2018-06-30,분기말 자산총계,2255631000,USD,공시,https://www.sec.gov/Archives/edgar/data/857005/000085700518000015/,,24
+PTC,PTC,2018Q2,2018-06-30,분기말 부채총계,1421246000,USD,공시,https://www.sec.gov/Archives/edgar/data/857005/000085700518000015/,,24
+PTC,PTC,2018Q2,2018-06-30,분기말 총자본(자기자본),834385000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/857005/000085700518000015/,"StockholdersEquity, MinorityInterest 태그 없음",24
+PTC,PTC,2018Q2,2018-06-30,분기말 지배지분 자본,834385000,USD,공시,https://www.sec.gov/Archives/edgar/data/857005/000085700518000015/,,24
+PTC,PTC,2018Q2,2018-06-29,분기말 종가,93.81,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/PTC?interval=1d&events=splits (2018-06-29),,24
+PTC,PTC,2018Q2,2018-07-27,분기말 상장주식수,117829713,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/857005/000085700518000015/,dei:EntityCommonStockSharesOutstanding 클래스 합,24
+PTC,PTC,2018Q2,2018-06-29,분기말 시가총액,11053605377,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/PTC?interval=1d&events=splits (2018-06-29) ; https://www.sec.gov/Archives/edgar/data/857005/000085700518000015/,종가 93.81 × 주식수 117829713,24
+PTC,PTC,2018Q3,2018-09-30,분기별 매출액,312521000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/857005/000085700518000025/ ; https://www.sec.gov/Archives/edgar/data/857005/000085700518000015/,연간 1241824000 − 9개월누적 929303000 (SalesRevenueNet),24
+PTC,PTC,2018Q3,2018-09-30,분기별 영업이익,11541000,USD,계산(연간-3분기누적)(재작성 반영),https://www.sec.gov/Archives/edgar/data/857005/000156459020054803/ ; https://www.sec.gov/Archives/edgar/data/857005/000085700519000017/,연간 72613000 − 9개월누적 61072000 (OperatingIncomeLoss) ; 원 공시 11697000 (https://www.sec.gov/Archives/edgar/data/857005/000085700518000025/ ; https://www.sec.gov/Archives/edgar/data/857005/000085700518000015/),24
+PTC,PTC,2018Q3,2018-09-30,분기별 당기순이익(지배),13191000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/857005/000085700518000025/ ; https://www.sec.gov/Archives/edgar/data/857005/000085700518000015/,연간 51987000 − 9개월누적 38796000 (NetIncomeLoss),24
+PTC,PTC,2018Q3,2018-09-30,분기별 영업활동현금흐름,61960000,USD,계산(누적차감)(재작성 반영),https://www.sec.gov/Archives/edgar/data/857005/000156459020054803/ ; https://www.sec.gov/Archives/edgar/data/857005/000085700519000017/,누적 247752000 − 직전누적 185792000 (시작 2017-10-01) ; 원 공시 62489000 (https://www.sec.gov/Archives/edgar/data/857005/000085700518000025/ ; https://www.sec.gov/Archives/edgar/data/857005/000085700518000015/),24
+PTC,PTC,2018Q3,2018-09-30,분기말 자산총계,2329022000,USD,공시,https://www.sec.gov/Archives/edgar/data/857005/000085700518000025/,,24
+PTC,PTC,2018Q3,2018-09-30,분기말 부채총계,1454433000,USD,공시,https://www.sec.gov/Archives/edgar/data/857005/000085700518000025/,,24
+PTC,PTC,2018Q3,2018-09-30,분기말 총자본(자기자본),874589000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/857005/000085700518000025/,"StockholdersEquity, MinorityInterest 태그 없음",24
+PTC,PTC,2018Q3,2018-09-30,분기말 지배지분 자본,874589000,USD,공시,https://www.sec.gov/Archives/edgar/data/857005/000085700518000025/,,24
+PTC,PTC,2018Q3,2018-09-28,분기말 종가,106.19,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/PTC?interval=1d&events=splits (2018-09-28),,24
+PTC,PTC,2018Q3,2018-11-15,분기말 상장주식수,118675240,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/857005/000085700518000025/,dei:EntityCommonStockSharesOutstanding 클래스 합,24
+PTC,PTC,2018Q3,2018-09-28,분기말 시가총액,12602123736,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/PTC?interval=1d&events=splits (2018-09-28) ; https://www.sec.gov/Archives/edgar/data/857005/000085700518000025/,종가 106.19 × 주식수 118675240,24
+PTC,PTC,2018Q4,2018-12-29,분기별 매출액,334689000,USD,공시,https://www.sec.gov/Archives/edgar/data/857005/000085700519000006/,,24
+PTC,PTC,2018Q4,2018-12-29,분기별 영업이익,30044000,USD,공시,https://www.sec.gov/Archives/edgar/data/857005/000085700519000006/,,24
+PTC,PTC,2018Q4,2018-12-29,분기별 당기순이익(지배),20985000,USD,공시,https://www.sec.gov/Archives/edgar/data/857005/000085700519000006/,,24
+PTC,PTC,2018Q4,2018-12-29,분기별 영업활동현금흐름,21214000,USD,공시,https://www.sec.gov/Archives/edgar/data/857005/000085700519000006/,,24
+PTC,PTC,2018Q4,2018-12-29,분기말 자산총계,2752969000,USD,공시,https://www.sec.gov/Archives/edgar/data/857005/000085700519000006/,,24
+PTC,PTC,2018Q4,2018-12-29,분기말 부채총계,1431800000,USD,공시,https://www.sec.gov/Archives/edgar/data/857005/000085700519000006/,,24
+PTC,PTC,2018Q4,2018-12-29,분기말 총자본(자기자본),1321169000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/857005/000085700519000006/,"StockholdersEquity, MinorityInterest 태그 없음",24
+PTC,PTC,2018Q4,2018-12-29,분기말 지배지분 자본,1321169000,USD,공시,https://www.sec.gov/Archives/edgar/data/857005/000085700519000006/,,24
+PTC,PTC,2018Q4,2018-12-28,분기말 종가,82.34,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/PTC?interval=1d&events=splits (2018-12-28),,24
+PTC,PTC,2018Q4,2019-02-05,분기말 상장주식수,118627720,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/857005/000085700519000006/,dei:EntityCommonStockSharesOutstanding 클래스 합,24
+PTC,PTC,2018Q4,2018-12-28,분기말 시가총액,9767806465,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/PTC?interval=1d&events=splits (2018-12-28) ; https://www.sec.gov/Archives/edgar/data/857005/000085700519000006/,종가 82.34 × 주식수 118627720,24
+PTC,PTC,2019Q1,2019-03-30,분기별 매출액,290451000,USD,공시,https://www.sec.gov/Archives/edgar/data/857005/000085700519000011/,,24
+PTC,PTC,2019Q1,2019-03-30,분기별 영업이익,-22858000,USD,공시,https://www.sec.gov/Archives/edgar/data/857005/000085700519000011/,,24
+PTC,PTC,2019Q1,2019-03-30,분기별 당기순이익(지배),-43513000,USD,공시,https://www.sec.gov/Archives/edgar/data/857005/000085700519000011/,,24
+PTC,PTC,2019Q1,2019-03-30,분기별 영업활동현금흐름,141130000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/857005/000085700519000011/ ; https://www.sec.gov/Archives/edgar/data/857005/000085700519000006/,누적 162344000 − 직전누적 21214000 (시작 2018-10-01),24
+PTC,PTC,2019Q1,2019-03-30,분기말 자산총계,2715819000,USD,공시,https://www.sec.gov/Archives/edgar/data/857005/000085700519000011/,,24
+PTC,PTC,2019Q1,2019-03-30,분기말 부채총계,1468111000,USD,공시,https://www.sec.gov/Archives/edgar/data/857005/000085700519000011/,,24
+PTC,PTC,2019Q1,2019-03-30,분기말 총자본(자기자본),1247708000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/857005/000085700519000011/,"StockholdersEquity, MinorityInterest 태그 없음",24
+PTC,PTC,2019Q1,2019-03-30,분기말 지배지분 자본,1247708000,USD,공시,https://www.sec.gov/Archives/edgar/data/857005/000085700519000011/,,24
+PTC,PTC,2019Q1,2019-03-29,분기말 종가,92.18,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/PTC?interval=1d&events=splits (2019-03-29),,24
+PTC,PTC,2019Q1,2019-05-07,분기말 상장주식수,115041840,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/857005/000085700519000011/,dei:EntityCommonStockSharesOutstanding 클래스 합,24
+PTC,PTC,2019Q1,2019-03-29,분기말 시가총액,10604556811,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/PTC?interval=1d&events=splits (2019-03-29) ; https://www.sec.gov/Archives/edgar/data/857005/000085700519000011/,종가 92.18 × 주식수 115041840,24
+PTC,PTC,2019Q2,2019-06-29,분기별 매출액,295486000,USD,공시,https://www.sec.gov/Archives/edgar/data/857005/000085700519000017/,,24
+PTC,PTC,2019Q2,2019-06-29,분기별 영업이익,9305000,USD,공시,https://www.sec.gov/Archives/edgar/data/857005/000085700519000017/,,24
+PTC,PTC,2019Q2,2019-06-29,분기별 당기순이익(지배),-14758000,USD,공시,https://www.sec.gov/Archives/edgar/data/857005/000085700519000017/,,24
+PTC,PTC,2019Q2,2019-06-29,분기별 영업활동현금흐름,67585000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/857005/000085700519000017/ ; https://www.sec.gov/Archives/edgar/data/857005/000085700519000011/,누적 229929000 − 직전누적 162344000 (시작 2018-10-01),24
+PTC,PTC,2019Q2,2019-06-29,분기말 자산총계,2648601000,USD,공시,https://www.sec.gov/Archives/edgar/data/857005/000085700519000017/,,24
+PTC,PTC,2019Q2,2019-06-29,분기말 부채총계,1433006000,USD,공시,https://www.sec.gov/Archives/edgar/data/857005/000085700519000017/,,24
+PTC,PTC,2019Q2,2019-06-29,분기말 총자본(자기자본),1215595000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/857005/000085700519000017/,"StockholdersEquity, MinorityInterest 태그 없음",24
+PTC,PTC,2019Q2,2019-06-29,분기말 지배지분 자본,1215595000,USD,공시,https://www.sec.gov/Archives/edgar/data/857005/000085700519000017/,,24
+PTC,PTC,2019Q2,2019-06-28,분기말 종가,89.76,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/PTC?interval=1d&events=splits (2019-06-28),,24
+PTC,PTC,2019Q2,2019-08-07,분기말 상장주식수,115179478,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/857005/000085700519000017/,dei:EntityCommonStockSharesOutstanding 클래스 합,24
+PTC,PTC,2019Q2,2019-06-28,분기말 시가총액,10338509945,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/PTC?interval=1d&events=splits (2019-06-28) ; https://www.sec.gov/Archives/edgar/data/857005/000085700519000017/,종가 89.76 × 주식수 115179478,24
+PTC,PTC,2019Q3,2019-09-30,분기별 매출액,335005000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/857005/000085700519000040/ ; https://www.sec.gov/Archives/edgar/data/857005/000085700519000017/,연간 1255631000 − 9개월누적 920626000 (RevenueFromContractWithCustomerExcludingAssessedTax),24
+PTC,PTC,2019Q3,2019-09-30,분기별 영업이익,46551000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/857005/000085700519000040/ ; https://www.sec.gov/Archives/edgar/data/857005/000085700519000017/,연간 63042000 − 9개월누적 16491000 (OperatingIncomeLoss),24
+PTC,PTC,2019Q3,2019-09-30,분기별 당기순이익(지배),9826000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/857005/000085700519000040/ ; https://www.sec.gov/Archives/edgar/data/857005/000085700519000017/,연간 -27460000 − 9개월누적 -37286000 (NetIncomeLoss),24
+PTC,PTC,2019Q3,2019-09-30,분기별 영업활동현금흐름,55216000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/857005/000085700519000040/ ; https://www.sec.gov/Archives/edgar/data/857005/000085700519000017/,누적 285145000 − 직전누적 229929000 (시작 2018-10-01),24
+PTC,PTC,2019Q3,2019-09-30,분기말 자산총계,2664588000,USD,공시,https://www.sec.gov/Archives/edgar/data/857005/000085700519000040/,,24
+PTC,PTC,2019Q3,2019-09-30,분기말 부채총계,1462590000,USD,공시,https://www.sec.gov/Archives/edgar/data/857005/000085700519000040/,,24
+PTC,PTC,2019Q3,2019-09-30,분기말 총자본(자기자본),1201998000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/857005/000085700519000040/,"StockholdersEquity, MinorityInterest 태그 없음",24
+PTC,PTC,2019Q3,2019-09-30,분기말 지배지분 자본,1201998000,USD,공시,https://www.sec.gov/Archives/edgar/data/857005/000085700519000040/,,24
+PTC,PTC,2019Q3,2019-09-30,분기말 종가,68.18,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/PTC?interval=1d&events=splits (2019-09-30),,24
+PTC,PTC,2019Q3,2019-11-15,분기말 상장주식수,115492735,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/857005/000085700519000040/,dei:EntityCommonStockSharesOutstanding 클래스 합,24
+PTC,PTC,2019Q3,2019-09-30,분기말 시가총액,7874294672,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/PTC?interval=1d&events=splits (2019-09-30) ; https://www.sec.gov/Archives/edgar/data/857005/000085700519000040/,종가 68.18 × 주식수 115492735,24
+PTC,PTC,2019Q4,2019-12-28,분기별 매출액,356110000,USD,공시,https://www.sec.gov/Archives/edgar/data/857005/000085700520000009/,,24
+PTC,PTC,2019Q4,2019-12-28,분기별 영업이익,30425000,USD,공시,https://www.sec.gov/Archives/edgar/data/857005/000085700520000009/,,24
+PTC,PTC,2019Q4,2019-12-28,분기별 당기순이익(지배),35455000,USD,공시,https://www.sec.gov/Archives/edgar/data/857005/000085700520000009/,,24
+PTC,PTC,2019Q4,2019-12-28,분기별 영업활동현금흐름,7512000,USD,공시,https://www.sec.gov/Archives/edgar/data/857005/000085700520000009/,,24
+PTC,PTC,2019Q4,2019-12-28,분기말 자산총계,3279827000,USD,공시,https://www.sec.gov/Archives/edgar/data/857005/000085700520000009/,,24
+PTC,PTC,2019Q4,2019-12-28,분기말 부채총계,2032010000,USD,공시,https://www.sec.gov/Archives/edgar/data/857005/000085700520000009/,,24
+PTC,PTC,2019Q4,2019-12-28,분기말 총자본(자기자본),1247817000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/857005/000085700520000009/,"StockholdersEquity, MinorityInterest 태그 없음",24
+PTC,PTC,2019Q4,2019-12-28,분기말 지배지분 자본,1247817000,USD,공시,https://www.sec.gov/Archives/edgar/data/857005/000085700520000009/,,24
+PTC,PTC,2019Q4,2019-12-27,분기말 종가,75.78,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/PTC?interval=1d&events=splits (2019-12-27),,24
+PTC,PTC,2019Q4,2020-01-23,분기말 상장주식수,115494475,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/857005/000085700520000009/,dei:EntityCommonStockSharesOutstanding 클래스 합,24
+PTC,PTC,2019Q4,2019-12-27,분기말 시가총액,8752171316,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/PTC?interval=1d&events=splits (2019-12-27) ; https://www.sec.gov/Archives/edgar/data/857005/000085700520000009/,종가 75.78 × 주식수 115494475,24
+PTC,PTC,2020Q1,2020-03-28,분기별 매출액,359603000,USD,공시,https://www.sec.gov/Archives/edgar/data/857005/000085700520000017/,,24
+PTC,PTC,2020Q1,2020-03-28,분기별 영업이익,50025000,USD,공시,https://www.sec.gov/Archives/edgar/data/857005/000085700520000017/,,24
+PTC,PTC,2020Q1,2020-03-28,분기별 당기순이익(지배),7156000,USD,공시,https://www.sec.gov/Archives/edgar/data/857005/000085700520000017/,,24
+PTC,PTC,2020Q1,2020-03-28,분기별 영업활동현금흐름,87817000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/857005/000085700520000017/ ; https://www.sec.gov/Archives/edgar/data/857005/000085700520000009/,누적 95329000 − 직전누적 7512000 (시작 2019-10-01),24
+PTC,PTC,2020Q1,2020-03-28,분기말 자산총계,3866471000,USD,공시,https://www.sec.gov/Archives/edgar/data/857005/000085700520000017/,,24
+PTC,PTC,2020Q1,2020-03-28,분기말 부채총계,2592390000,USD,공시,https://www.sec.gov/Archives/edgar/data/857005/000085700520000017/,,24
+PTC,PTC,2020Q1,2020-03-28,분기말 총자본(자기자본),1274081000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/857005/000085700520000017/,"StockholdersEquity, MinorityInterest 태그 없음",24
+PTC,PTC,2020Q1,2020-03-28,분기말 지배지분 자본,1274081000,USD,공시,https://www.sec.gov/Archives/edgar/data/857005/000085700520000017/,,24
+PTC,PTC,2020Q1,2020-03-27,분기말 종가,59.01,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/PTC?interval=1d&events=splits (2020-03-27),,24
+PTC,PTC,2020Q1,2020-05-04,분기말 상장주식수,115695431,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/857005/000085700520000017/,dei:EntityCommonStockSharesOutstanding 클래스 합,24
+PTC,PTC,2020Q1,2020-03-27,분기말 시가총액,6827187383,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/PTC?interval=1d&events=splits (2020-03-27) ; https://www.sec.gov/Archives/edgar/data/857005/000085700520000017/,종가 59.01 × 주식수 115695431,24
+PTC,PTC,2020Q2,2020-06-27,분기별 매출액,351721000,USD,공시,https://www.sec.gov/Archives/edgar/data/857005/000156459020036779/,,24
+PTC,PTC,2020Q2,2020-06-27,분기별 영업이익,63401000,USD,공시,https://www.sec.gov/Archives/edgar/data/857005/000156459020036779/,,24
+PTC,PTC,2020Q2,2020-06-27,분기별 당기순이익(지배),34678000,USD,공시,https://www.sec.gov/Archives/edgar/data/857005/000156459020036779/,,24
+PTC,PTC,2020Q2,2020-06-27,분기별 영업활동현금흐름,104505000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/857005/000156459020036779/ ; https://www.sec.gov/Archives/edgar/data/857005/000085700520000017/,누적 199834000 − 직전누적 95329000 (시작 2019-10-01),24
+PTC,PTC,2020Q2,2020-06-27,분기말 자산총계,3376169000,USD,공시,https://www.sec.gov/Archives/edgar/data/857005/000156459020036779/,,24
+PTC,PTC,2020Q2,2020-06-27,분기말 부채총계,2048602000,USD,공시,https://www.sec.gov/Archives/edgar/data/857005/000156459020036779/,,24
+PTC,PTC,2020Q2,2020-06-27,분기말 총자본(자기자본),1327567000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/857005/000156459020036779/,"StockholdersEquity, MinorityInterest 태그 없음",24
+PTC,PTC,2020Q2,2020-06-27,분기말 지배지분 자본,1327567000,USD,공시,https://www.sec.gov/Archives/edgar/data/857005/000156459020036779/,,24
+PTC,PTC,2020Q2,2020-06-26,분기말 종가,75.53,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/PTC?interval=1d&events=splits (2020-06-26),,24
+PTC,PTC,2020Q2,2020-08-03,분기말 상장주식수,116117972,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/857005/000156459020036779/,dei:EntityCommonStockSharesOutstanding 클래스 합,24
+PTC,PTC,2020Q2,2020-06-26,분기말 시가총액,8770390425,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/PTC?interval=1d&events=splits (2020-06-26) ; https://www.sec.gov/Archives/edgar/data/857005/000156459020036779/,종가 75.53 × 주식수 116117972,24
+PTC,PTC,2020Q3,2020-09-30,분기별 매출액,390981000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/857005/000156459020054803/ ; https://www.sec.gov/Archives/edgar/data/857005/000156459020036779/,연간 1458415000 − 9개월누적 1067434000 (RevenueFromContractWithCustomerExcludingAssessedTax),24
+PTC,PTC,2020Q3,2020-09-30,분기별 영업이익,67012000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/857005/000156459020054803/ ; https://www.sec.gov/Archives/edgar/data/857005/000156459020036779/,연간 210863000 − 9개월누적 143851000 (OperatingIncomeLoss),24
+PTC,PTC,2020Q3,2020-09-30,분기별 당기순이익(지배),53406000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/857005/000156459020054803/ ; https://www.sec.gov/Archives/edgar/data/857005/000156459020036779/,연간 130695000 − 9개월누적 77289000 (NetIncomeLoss),24
+PTC,PTC,2020Q3,2020-09-30,분기별 영업활동현금흐름,33974000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/857005/000156459020054803/ ; https://www.sec.gov/Archives/edgar/data/857005/000156459020036779/,누적 233808000 − 직전누적 199834000 (시작 2019-10-01),24
+PTC,PTC,2020Q3,2020-09-30,분기말 자산총계,3382738000,USD,공시,https://www.sec.gov/Archives/edgar/data/857005/000156459020054803/,,24
+PTC,PTC,2020Q3,2020-09-30,분기말 부채총계,1944490000,USD,공시,https://www.sec.gov/Archives/edgar/data/857005/000156459020054803/,,24
+PTC,PTC,2020Q3,2020-09-30,분기말 총자본(자기자본),1438248000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/857005/000156459020054803/,"StockholdersEquity, MinorityInterest 태그 없음",24
+PTC,PTC,2020Q3,2020-09-30,분기말 지배지분 자본,1438248000,USD,공시,https://www.sec.gov/Archives/edgar/data/857005/000156459020054803/,,24
+PTC,PTC,2020Q3,2020-09-30,분기말 종가,82.72,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/PTC?interval=1d&events=splits (2020-09-30),,24
+PTC,PTC,2020Q3,2020-11-18,분기말 상장주식수,116662768,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/857005/000156459020054803/,dei:EntityCommonStockSharesOutstanding 클래스 합,24
+PTC,PTC,2020Q3,2020-09-30,분기말 시가총액,9650344169,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/PTC?interval=1d&events=splits (2020-09-30) ; https://www.sec.gov/Archives/edgar/data/857005/000156459020054803/,종가 82.72 × 주식수 116662768,24
+PTC,PTC,2020Q4,2020-12-31,분기별 매출액,429050000,USD,공시,https://www.sec.gov/Archives/edgar/data/857005/000156459021004303/,,24
+PTC,PTC,2020Q4,2020-12-31,분기별 영업이익,90338000,USD,공시,https://www.sec.gov/Archives/edgar/data/857005/000156459021004303/,,24
+PTC,PTC,2020Q4,2020-12-31,분기별 당기순이익(지배),23515000,USD,공시,https://www.sec.gov/Archives/edgar/data/857005/000156459021004303/,,24
+PTC,PTC,2020Q4,2020-12-31,분기별 영업활동현금흐름,113762000,USD,공시,https://www.sec.gov/Archives/edgar/data/857005/000156459021004303/,,24
+PTC,PTC,2020Q4,2020-12-31,분기말 자산총계,3448888000,USD,공시,https://www.sec.gov/Archives/edgar/data/857005/000156459021004303/,,24
+PTC,PTC,2020Q4,2020-12-31,분기말 부채총계,1953959000,USD,공시,https://www.sec.gov/Archives/edgar/data/857005/000156459021004303/,,24
+PTC,PTC,2020Q4,2020-12-31,분기말 총자본(자기자본),1494929000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/857005/000156459021004303/,"StockholdersEquity, MinorityInterest 태그 없음",24
+PTC,PTC,2020Q4,2020-12-31,분기말 지배지분 자본,1494929000,USD,공시,https://www.sec.gov/Archives/edgar/data/857005/000156459021004303/,,24
+PTC,PTC,2020Q4,2020-12-31,분기말 종가,119.61,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/PTC?interval=1d&events=splits (2020-12-31),,24
+PTC,PTC,2020Q4,2021-02-02,분기말 상장주식수,116810418,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/857005/000156459021004303/,dei:EntityCommonStockSharesOutstanding 클래스 합,24
+PTC,PTC,2020Q4,2020-12-31,분기말 시가총액,13971694097,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/PTC?interval=1d&events=splits (2020-12-31) ; https://www.sec.gov/Archives/edgar/data/857005/000156459021004303/,종가 119.61 × 주식수 116810418,24
+PTC,PTC,2021Q1,2021-03-31,분기별 매출액,461785000,USD,공시,https://www.sec.gov/Archives/edgar/data/857005/000156459021023320/,,24
+PTC,PTC,2021Q1,2021-03-31,분기별 영업이익,101690000,USD,공시,https://www.sec.gov/Archives/edgar/data/857005/000156459021023320/,,24
+PTC,PTC,2021Q1,2021-03-31,분기별 당기순이익(지배),109262000,USD,공시,https://www.sec.gov/Archives/edgar/data/857005/000156459021023320/,,24
+PTC,PTC,2021Q1,2021-03-31,분기별 영업활동현금흐름,121692000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/857005/000156459021023320/ ; https://www.sec.gov/Archives/edgar/data/857005/000156459021004303/,누적 235454000 − 직전누적 113762000 (시작 2020-10-01),24
+PTC,PTC,2021Q1,2021-03-31,분기말 자산총계,4181221000,USD,공시,https://www.sec.gov/Archives/edgar/data/857005/000156459021023320/,,24
+PTC,PTC,2021Q1,2021-03-31,분기말 부채총계,2530688000,USD,공시,https://www.sec.gov/Archives/edgar/data/857005/000156459021023320/,,24
+PTC,PTC,2021Q1,2021-03-31,분기말 총자본(자기자본),1650533000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/857005/000156459021023320/,"StockholdersEquity, MinorityInterest 태그 없음",24
+PTC,PTC,2021Q1,2021-03-31,분기말 지배지분 자본,1650533000,USD,공시,https://www.sec.gov/Archives/edgar/data/857005/000156459021023320/,,24
+PTC,PTC,2021Q1,2021-03-31,분기말 종가,137.65,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/PTC?interval=1d&events=splits (2021-03-31),,24
+PTC,PTC,2021Q1,2021-04-30,분기말 상장주식수,116854806,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/857005/000156459021023320/,dei:EntityCommonStockSharesOutstanding 클래스 합,24
+PTC,PTC,2021Q1,2021-03-31,분기말 시가총액,16085064046,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/PTC?interval=1d&events=splits (2021-03-31) ; https://www.sec.gov/Archives/edgar/data/857005/000156459021023320/,종가 137.65 × 주식수 116854806,24
+PTC,PTC,2021Q2,2021-06-30,분기별 매출액,435668000,USD,공시,https://www.sec.gov/Archives/edgar/data/857005/000156459021040209/,,24
+PTC,PTC,2021Q2,2021-06-30,분기별 영업이익,73582000,USD,공시,https://www.sec.gov/Archives/edgar/data/857005/000156459021040209/,,24
+PTC,PTC,2021Q2,2021-06-30,분기별 당기순이익(지배),51203000,USD,공시,https://www.sec.gov/Archives/edgar/data/857005/000156459021040209/,,24
+PTC,PTC,2021Q2,2021-06-30,분기별 영업활동현금흐름,88034000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/857005/000156459021040209/ ; https://www.sec.gov/Archives/edgar/data/857005/000156459021023320/,누적 323488000 − 직전누적 235454000 (시작 2020-10-01),24
+PTC,PTC,2021Q2,2021-06-30,분기말 자산총계,4206219000,USD,공시,https://www.sec.gov/Archives/edgar/data/857005/000156459021040209/,,24
+PTC,PTC,2021Q2,2021-06-30,분기말 부채총계,2481261000,USD,공시,https://www.sec.gov/Archives/edgar/data/857005/000156459021040209/,,24
+PTC,PTC,2021Q2,2021-06-30,분기말 총자본(자기자본),1724958000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/857005/000156459021040209/,"StockholdersEquity, MinorityInterest 태그 없음",24
+PTC,PTC,2021Q2,2021-06-30,분기말 지배지분 자본,1724958000,USD,공시,https://www.sec.gov/Archives/edgar/data/857005/000156459021040209/,,24
+PTC,PTC,2021Q2,2021-06-30,분기말 종가,141.26,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/PTC?interval=1d&events=splits (2021-06-30),,24
+PTC,PTC,2021Q2,2021-08-02,분기말 상장주식수,117381783,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/857005/000156459021040209/,dei:EntityCommonStockSharesOutstanding 클래스 합,24
+PTC,PTC,2021Q2,2021-06-30,분기말 시가총액,16581350667,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/PTC?interval=1d&events=splits (2021-06-30) ; https://www.sec.gov/Archives/edgar/data/857005/000156459021040209/,종가 141.26 × 주식수 117381783,24
+PTC,PTC,2021Q3,2021-09-30,분기별 매출액,480655000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/857005/000156459021057806/ ; https://www.sec.gov/Archives/edgar/data/857005/000156459021040209/,연간 1807159000 − 9개월누적 1326504000 (RevenueFromContractWithCustomerExcludingAssessedTax),24
+PTC,PTC,2021Q3,2021-09-30,분기별 영업이익,115137000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/857005/000156459021057806/ ; https://www.sec.gov/Archives/edgar/data/857005/000156459021040209/,연간 380748000 − 9개월누적 265611000 (OperatingIncomeLoss),24
+PTC,PTC,2021Q3,2021-09-30,분기별 당기순이익(지배),292943000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/857005/000156459021057806/ ; https://www.sec.gov/Archives/edgar/data/857005/000156459021040209/,연간 476923000 − 9개월누적 183980000 (NetIncomeLoss),24
+PTC,PTC,2021Q3,2021-09-30,분기별 영업활동현금흐름,45321000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/857005/000156459021057806/ ; https://www.sec.gov/Archives/edgar/data/857005/000156459021040209/,누적 368809000 − 직전누적 323488000 (시작 2020-10-01),24
+PTC,PTC,2021Q3,2021-09-30,분기말 자산총계,4507560000,USD,공시,https://www.sec.gov/Archives/edgar/data/857005/000156459021057806/,,24
+PTC,PTC,2021Q3,2021-09-30,분기말 부채총계,2469092000,USD,공시,https://www.sec.gov/Archives/edgar/data/857005/000156459021057806/,,24
+PTC,PTC,2021Q3,2021-09-30,분기말 총자본(자기자본),2038468000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/857005/000156459021057806/,"StockholdersEquity, MinorityInterest 태그 없음",24
+PTC,PTC,2021Q3,2021-09-30,분기말 지배지분 자본,2038468000,USD,공시,https://www.sec.gov/Archives/edgar/data/857005/000156459021057806/,,24
+PTC,PTC,2021Q3,2021-09-30,분기말 종가,119.79,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/PTC?interval=1d&events=splits (2021-09-30),,24
+PTC,PTC,2021Q3,2021-11-17,분기말 상장주식수,117871872,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/857005/000156459021057806/,dei:EntityCommonStockSharesOutstanding 클래스 합,24
+PTC,PTC,2021Q3,2021-09-30,분기말 시가총액,14119871547,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/PTC?interval=1d&events=splits (2021-09-30) ; https://www.sec.gov/Archives/edgar/data/857005/000156459021057806/,종가 119.79 × 주식수 117871872,24
+PTC,PTC,2021Q4,2021-12-31,분기별 매출액,457721000,USD,공시,https://www.sec.gov/Archives/edgar/data/857005/000156459022003975/,,24
+PTC,PTC,2021Q4,2021-12-31,분기별 영업이익,62178000,USD,공시,https://www.sec.gov/Archives/edgar/data/857005/000156459022003975/,,24
+PTC,PTC,2021Q4,2021-12-31,분기별 당기순이익(지배),46089000,USD,공시,https://www.sec.gov/Archives/edgar/data/857005/000156459022003975/,,24
+PTC,PTC,2021Q4,2021-12-31,분기별 영업활동현금흐름,137736000,USD,공시,https://www.sec.gov/Archives/edgar/data/857005/000156459022003975/,,24
+PTC,PTC,2021Q4,2021-12-31,분기말 자산총계,4420620000,USD,공시,https://www.sec.gov/Archives/edgar/data/857005/000156459022003975/,,24
+PTC,PTC,2021Q4,2021-12-31,분기말 부채총계,2466808000,USD,공시,https://www.sec.gov/Archives/edgar/data/857005/000156459022003975/,,24
+PTC,PTC,2021Q4,2021-12-31,분기말 총자본(자기자본),1953812000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/857005/000156459022003975/,"StockholdersEquity, MinorityInterest 태그 없음",24
+PTC,PTC,2021Q4,2021-12-31,분기말 지배지분 자본,1953812000,USD,공시,https://www.sec.gov/Archives/edgar/data/857005/000156459022003975/,,24
+PTC,PTC,2021Q4,2021-12-31,분기말 종가,121.15,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/PTC?interval=1d&events=splits (2021-12-31),,24
+PTC,PTC,2021Q4,2022-02-03,분기말 상장주식수,116952189,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/857005/000156459022003975/,dei:EntityCommonStockSharesOutstanding 클래스 합,24
+PTC,PTC,2021Q4,2021-12-31,분기말 시가총액,14168757697,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/PTC?interval=1d&events=splits (2021-12-31) ; https://www.sec.gov/Archives/edgar/data/857005/000156459022003975/,종가 121.15 × 주식수 116952189,24
+PTC,PTC,2022Q1,2022-03-31,분기별 매출액,505227000,USD,공시,https://www.sec.gov/Archives/edgar/data/857005/000156459022018300/,,24
+PTC,PTC,2022Q1,2022-03-31,분기별 영업이익,159190000,USD,공시,https://www.sec.gov/Archives/edgar/data/857005/000156459022018300/,,24
+PTC,PTC,2022Q1,2022-03-31,분기별 당기순이익(지배),89679000,USD,공시,https://www.sec.gov/Archives/edgar/data/857005/000156459022018300/,,24
+PTC,PTC,2022Q1,2022-03-31,분기별 영업활동현금흐름,142325000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/857005/000156459022018300/ ; https://www.sec.gov/Archives/edgar/data/857005/000156459022003975/,누적 280061000 − 직전누적 137736000 (시작 2021-10-01),24
+PTC,PTC,2022Q1,2022-03-31,분기말 자산총계,4378523000,USD,공시,https://www.sec.gov/Archives/edgar/data/857005/000156459022018300/,,24
+PTC,PTC,2022Q1,2022-03-31,분기말 부채총계,2294546000,USD,공시,https://www.sec.gov/Archives/edgar/data/857005/000156459022018300/,,24
+PTC,PTC,2022Q1,2022-03-31,분기말 총자본(자기자본),2083977000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/857005/000156459022018300/,"StockholdersEquity, MinorityInterest 태그 없음",24
+PTC,PTC,2022Q1,2022-03-31,분기말 지배지분 자본,2083977000,USD,공시,https://www.sec.gov/Archives/edgar/data/857005/000156459022018300/,,24
+PTC,PTC,2022Q1,2022-03-31,분기말 종가,107.72,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/PTC?interval=1d&events=splits (2022-03-31),,24
+PTC,PTC,2022Q1,2022-05-04,분기말 상장주식수,116975944,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/857005/000156459022018300/,dei:EntityCommonStockSharesOutstanding 클래스 합,24
+PTC,PTC,2022Q1,2022-03-31,분기말 시가총액,12600648688,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/PTC?interval=1d&events=splits (2022-03-31) ; https://www.sec.gov/Archives/edgar/data/857005/000156459022018300/,종가 107.72 × 주식수 116975944,24
+PTC,PTC,2022Q2,2022-06-30,분기별 매출액,462474000,USD,공시,https://www.sec.gov/Archives/edgar/data/857005/000095017022015127/,,24
+PTC,PTC,2022Q2,2022-06-30,분기별 영업이익,79977000,USD,공시,https://www.sec.gov/Archives/edgar/data/857005/000095017022015127/,,24
+PTC,PTC,2022Q2,2022-06-30,분기별 당기순이익(지배),70476000,USD,공시,https://www.sec.gov/Archives/edgar/data/857005/000095017022015127/,,24
+PTC,PTC,2022Q2,2022-06-30,분기별 영업활동현금흐름,116766000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/857005/000095017022015127/ ; https://www.sec.gov/Archives/edgar/data/857005/000156459022018300/,누적 396827000 − 직전누적 280061000 (시작 2021-10-01),24
+PTC,PTC,2022Q2,2022-06-30,분기말 자산총계,4605538000,USD,공시,https://www.sec.gov/Archives/edgar/data/857005/000095017022015127/,,24
+PTC,PTC,2022Q2,2022-06-30,분기말 부채총계,2448368000,USD,공시,https://www.sec.gov/Archives/edgar/data/857005/000095017022015127/,,24
+PTC,PTC,2022Q2,2022-06-30,분기말 총자본(자기자본),2157170000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/857005/000095017022015127/,"StockholdersEquity, MinorityInterest 태그 없음",24
+PTC,PTC,2022Q2,2022-06-30,분기말 지배지분 자본,2157170000,USD,공시,https://www.sec.gov/Archives/edgar/data/857005/000095017022015127/,,24
+PTC,PTC,2022Q2,2022-06-30,분기말 종가,106.34,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/PTC?interval=1d&events=splits (2022-06-30),,24
+PTC,PTC,2022Q2,2022-08-04,분기말 상장주식수,117466379,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/857005/000095017022015127/,dei:EntityCommonStockSharesOutstanding 클래스 합,24
+PTC,PTC,2022Q2,2022-06-30,분기말 시가총액,12491374743,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/PTC?interval=1d&events=splits (2022-06-30) ; https://www.sec.gov/Archives/edgar/data/857005/000095017022015127/,종가 106.34 × 주식수 117466379,24
+PTC,PTC,2022Q3,2022-09-30,분기별 매출액,507925000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/857005/000095017022025211/ ; https://www.sec.gov/Archives/edgar/data/857005/000095017022015127/,연간 1933347000 − 9개월누적 1425422000 (RevenueFromContractWithCustomerExcludingAssessedTax),24
+PTC,PTC,2022Q3,2022-09-30,분기별 영업이익,146017000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/857005/000095017022025211/ ; https://www.sec.gov/Archives/edgar/data/857005/000095017022015127/,연간 447362000 − 9개월누적 301345000 (OperatingIncomeLoss),24
+PTC,PTC,2022Q3,2022-09-30,분기별 당기순이익(지배),106837000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/857005/000095017022025211/ ; https://www.sec.gov/Archives/edgar/data/857005/000095017022015127/,연간 313081000 − 9개월누적 206244000 (NetIncomeLoss),24
+PTC,PTC,2022Q3,2022-09-30,분기별 영업활동현금흐름,38499000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/857005/000095017022025211/ ; https://www.sec.gov/Archives/edgar/data/857005/000095017022015127/,누적 435326000 − 직전누적 396827000 (시작 2021-10-01),24
+PTC,PTC,2022Q3,2022-09-30,분기말 자산총계,4687268000,USD,공시,https://www.sec.gov/Archives/edgar/data/857005/000095017022025211/,,24
+PTC,PTC,2022Q3,2022-09-30,분기말 부채총계,2391234000,USD,공시,https://www.sec.gov/Archives/edgar/data/857005/000095017022025211/,,24
+PTC,PTC,2022Q3,2022-09-30,분기말 총자본(자기자본),2296034000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/857005/000095017022025211/,"StockholdersEquity, MinorityInterest 태그 없음",24
+PTC,PTC,2022Q3,2022-09-30,분기말 지배지분 자본,2296034000,USD,공시,https://www.sec.gov/Archives/edgar/data/857005/000095017022025211/,,24
+PTC,PTC,2022Q3,2022-09-30,분기말 종가,104.6,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/PTC?interval=1d&events=splits (2022-09-30),,24
+PTC,PTC,2022Q3,2022-11-14,분기말 상장주식수,117471969,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/857005/000095017022025211/,dei:EntityCommonStockSharesOutstanding 클래스 합,24
+PTC,PTC,2022Q3,2022-09-30,분기말 시가총액,12287567957,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/PTC?interval=1d&events=splits (2022-09-30) ; https://www.sec.gov/Archives/edgar/data/857005/000095017022025211/,종가 104.6 × 주식수 117471969,24
+PTC,PTC,2022Q4,2022-12-31,분기별 매출액,465910000,USD,공시,https://www.sec.gov/Archives/edgar/data/857005/000095017023002335/,,24
+PTC,PTC,2022Q4,2022-12-31,분기별 영업이익,104901000,USD,공시,https://www.sec.gov/Archives/edgar/data/857005/000095017023002335/,,24
+PTC,PTC,2022Q4,2022-12-31,분기별 당기순이익(지배),75035000,USD,공시,https://www.sec.gov/Archives/edgar/data/857005/000095017023002335/,,24
+PTC,PTC,2022Q4,2022-12-31,분기별 영업활동현금흐름,180921000,USD,공시,https://www.sec.gov/Archives/edgar/data/857005/000095017023002335/,,24
+PTC,PTC,2022Q4,2022-12-31,분기말 자산총계,4795769000,USD,공시,https://www.sec.gov/Archives/edgar/data/857005/000095017023002335/,,24
+PTC,PTC,2022Q4,2022-12-31,분기말 부채총계,2395220000,USD,공시,https://www.sec.gov/Archives/edgar/data/857005/000095017023002335/,,24
+PTC,PTC,2022Q4,2022-12-31,분기말 총자본(자기자본),2400549000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/857005/000095017023002335/,"StockholdersEquity, MinorityInterest 태그 없음",24
+PTC,PTC,2022Q4,2022-12-31,분기말 지배지분 자본,2400549000,USD,공시,https://www.sec.gov/Archives/edgar/data/857005/000095017023002335/,,24
+PTC,PTC,2022Q4,2022-12-30,분기말 종가,120.04,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/PTC?interval=1d&events=splits (2022-12-30),,24
+PTC,PTC,2022Q4,2023-02-06,분기말 상장주식수,118263203,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/857005/000095017023002335/,dei:EntityCommonStockSharesOutstanding 클래스 합,24
+PTC,PTC,2022Q4,2022-12-30,분기말 시가총액,14196314888,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/PTC?interval=1d&events=splits (2022-12-30) ; https://www.sec.gov/Archives/edgar/data/857005/000095017023002335/,종가 120.04 × 주식수 118263203,24
+PTC,PTC,2023Q1,2023-03-31,분기별 매출액,542181000,USD,공시,https://www.sec.gov/Archives/edgar/data/857005/000095017023017177/,,24
+PTC,PTC,2023Q1,2023-03-31,분기별 영업이익,122539000,USD,공시,https://www.sec.gov/Archives/edgar/data/857005/000095017023017177/,,24
+PTC,PTC,2023Q1,2023-03-31,분기별 당기순이익(지배),63504000,USD,공시,https://www.sec.gov/Archives/edgar/data/857005/000095017023017177/,,24
+PTC,PTC,2023Q1,2023-03-31,분기별 영업활동현금흐름,210948000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/857005/000095017023017177/ ; https://www.sec.gov/Archives/edgar/data/857005/000095017023002335/,누적 391869000 − 직전누적 180921000 (시작 2022-10-01),24
+PTC,PTC,2023Q1,2023-03-31,분기말 자산총계,6299620000,USD,공시,https://www.sec.gov/Archives/edgar/data/857005/000095017023017177/,,24
+PTC,PTC,2023Q1,2023-03-31,분기말 부채총계,3781086000,USD,공시,https://www.sec.gov/Archives/edgar/data/857005/000095017023017177/,,24
+PTC,PTC,2023Q1,2023-03-31,분기말 총자본(자기자본),2518534000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/857005/000095017023017177/,"StockholdersEquity, MinorityInterest 태그 없음",24
+PTC,PTC,2023Q1,2023-03-31,분기말 지배지분 자본,2518534000,USD,공시,https://www.sec.gov/Archives/edgar/data/857005/000095017023017177/,,24
+PTC,PTC,2023Q1,2023-03-31,분기말 종가,128.23,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/PTC?interval=1d&events=splits (2023-03-31),,24
+PTC,PTC,2023Q1,2023-05-02,분기말 상장주식수,118353472,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/857005/000095017023017177/,dei:EntityCommonStockSharesOutstanding 클래스 합,24
+PTC,PTC,2023Q1,2023-03-31,분기말 시가총액,15176465715,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/PTC?interval=1d&events=splits (2023-03-31) ; https://www.sec.gov/Archives/edgar/data/857005/000095017023017177/,종가 128.23 × 주식수 118353472,24
+PTC,PTC,2023Q2,2023-06-30,분기별 매출액,542342000,USD,공시,https://www.sec.gov/Archives/edgar/data/857005/000095017023038543/,,24
+PTC,PTC,2023Q2,2023-06-30,분기별 영업이익,109900000,USD,공시,https://www.sec.gov/Archives/edgar/data/857005/000095017023038543/,,24
+PTC,PTC,2023Q2,2023-06-30,분기별 당기순이익(지배),61398000,USD,공시,https://www.sec.gov/Archives/edgar/data/857005/000095017023038543/,,24
+PTC,PTC,2023Q2,2023-06-30,분기별 영업활동현금흐름,169223000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/857005/000095017023038543/ ; https://www.sec.gov/Archives/edgar/data/857005/000095017023017177/,누적 561092000 − 직전누적 391869000 (시작 2022-10-01),24
+PTC,PTC,2023Q2,2023-06-30,분기말 자산총계,6207649000,USD,공시,https://www.sec.gov/Archives/edgar/data/857005/000095017023038543/,,24
+PTC,PTC,2023Q2,2023-06-30,분기말 부채총계,3608985000,USD,공시,https://www.sec.gov/Archives/edgar/data/857005/000095017023038543/,,24
+PTC,PTC,2023Q2,2023-06-30,분기말 총자본(자기자본),2598664000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/857005/000095017023038543/,"StockholdersEquity, MinorityInterest 태그 없음",24
+PTC,PTC,2023Q2,2023-06-30,분기말 지배지분 자본,2598664000,USD,공시,https://www.sec.gov/Archives/edgar/data/857005/000095017023038543/,,24
+PTC,PTC,2023Q2,2023-06-30,분기말 종가,142.3,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/PTC?interval=1d&events=splits (2023-06-30),,24
+PTC,PTC,2023Q2,2023-08-02,분기말 상장주식수,118833211,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/857005/000095017023038543/,dei:EntityCommonStockSharesOutstanding 클래스 합,24
+PTC,PTC,2023Q2,2023-06-30,분기말 시가총액,16909965925,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/PTC?interval=1d&events=splits (2023-06-30) ; https://www.sec.gov/Archives/edgar/data/857005/000095017023038543/,종가 142.3 × 주식수 118833211,24
+PTC,PTC,2023Q3,2023-09-30,분기별 매출액,546620000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/857005/000095012323011049/ ; https://www.sec.gov/Archives/edgar/data/857005/000095017023038543/,연간 2097053000 − 9개월누적 1550433000 (RevenueFromContractWithCustomerExcludingAssessedTax),24
+PTC,PTC,2023Q3,2023-09-30,분기별 영업이익,121134000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/857005/000095012323011049/ ; https://www.sec.gov/Archives/edgar/data/857005/000095017023038543/,연간 458474000 − 9개월누적 337340000 (OperatingIncomeLoss),24
+PTC,PTC,2023Q3,2023-09-30,분기별 당기순이익(지배),45603000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/857005/000095012323011049/ ; https://www.sec.gov/Archives/edgar/data/857005/000095017023038543/,연간 245540000 − 9개월누적 199937000 (NetIncomeLoss),24
+PTC,PTC,2023Q3,2023-09-30,분기별 영업활동현금흐름,49769000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/857005/000095012323011049/ ; https://www.sec.gov/Archives/edgar/data/857005/000095017023038543/,누적 610861000 − 직전누적 561092000 (시작 2022-10-01),24
+PTC,PTC,2023Q3,2023-09-30,분기말 자산총계,6288842000,USD,공시,https://www.sec.gov/Archives/edgar/data/857005/000095012323011049/,,24
+PTC,PTC,2023Q3,2023-09-30,분기말 부채총계,3611552000,USD,공시,https://www.sec.gov/Archives/edgar/data/857005/000095012323011049/,,24
+PTC,PTC,2023Q3,2023-09-30,분기말 총자본(자기자본),2677290000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/857005/000095012323011049/,"StockholdersEquity, MinorityInterest 태그 없음",24
+PTC,PTC,2023Q3,2023-09-30,분기말 지배지분 자본,2677290000,USD,공시,https://www.sec.gov/Archives/edgar/data/857005/000095012323011049/,,24
+PTC,PTC,2023Q3,2023-09-29,분기말 종가,141.68,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/PTC?interval=1d&events=splits (2023-09-29),,24
+PTC,PTC,2023Q3,2023-11-16,분기말 상장주식수,119244754,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/857005/000095012323011049/,dei:EntityCommonStockSharesOutstanding 클래스 합,24
+PTC,PTC,2023Q3,2023-09-29,분기말 시가총액,16894596747,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/PTC?interval=1d&events=splits (2023-09-29) ; https://www.sec.gov/Archives/edgar/data/857005/000095012323011049/,종가 141.68 × 주식수 119244754,24
+PTC,PTC,2023Q4,2023-12-31,분기별 매출액,550214000,USD,공시,https://www.sec.gov/Archives/edgar/data/857005/000095017024010527/,,24
+PTC,PTC,2023Q4,2023-12-31,분기별 영업이익,118713000,USD,공시,https://www.sec.gov/Archives/edgar/data/857005/000095017024010527/,,24
+PTC,PTC,2023Q4,2023-12-31,분기별 당기순이익(지배),66387000,USD,공시,https://www.sec.gov/Archives/edgar/data/857005/000095017024010527/,,24
+PTC,PTC,2023Q4,2023-12-31,분기별 영업활동현금흐름,187341000,USD,공시,https://www.sec.gov/Archives/edgar/data/857005/000095017024010527/,,24
+PTC,PTC,2023Q4,2023-12-31,분기말 자산총계,6271157000,USD,공시,https://www.sec.gov/Archives/edgar/data/857005/000095017024010527/,,24
+PTC,PTC,2023Q4,2023-12-31,분기말 부채총계,3464504000,USD,공시,https://www.sec.gov/Archives/edgar/data/857005/000095017024010527/,,24
+PTC,PTC,2023Q4,2023-12-31,분기말 총자본(자기자본),2806653000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/857005/000095017024010527/,"StockholdersEquity, MinorityInterest 태그 없음",24
+PTC,PTC,2023Q4,2023-12-31,분기말 지배지분 자본,2806653000,USD,공시,https://www.sec.gov/Archives/edgar/data/857005/000095017024010527/,,24
+PTC,PTC,2023Q4,2023-12-29,분기말 종가,174.96,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/PTC?interval=1d&events=splits (2023-12-29),,24
+PTC,PTC,2023Q4,2024-01-31,분기말 상장주식수,119552405,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/857005/000095017024010527/,dei:EntityCommonStockSharesOutstanding 클래스 합,24
+PTC,PTC,2023Q4,2023-12-29,분기말 시가총액,20916888779,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/PTC?interval=1d&events=splits (2023-12-29) ; https://www.sec.gov/Archives/edgar/data/857005/000095017024010527/,종가 174.96 × 주식수 119552405,24
+PTC,PTC,2024Q1,2024-03-31,분기별 매출액,603072000,USD,공시,https://www.sec.gov/Archives/edgar/data/857005/000095017024052860/,,24
+PTC,PTC,2024Q1,2024-03-31,분기별 영업이익,179555000,USD,공시,https://www.sec.gov/Archives/edgar/data/857005/000095017024052860/,,24
+PTC,PTC,2024Q1,2024-03-31,분기별 당기순이익(지배),114445000,USD,공시,https://www.sec.gov/Archives/edgar/data/857005/000095017024052860/,,24
+PTC,PTC,2024Q1,2024-03-31,분기별 영업활동현금흐름,250730000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/857005/000095017024052860/ ; https://www.sec.gov/Archives/edgar/data/857005/000095017024010527/,누적 438071000 − 직전누적 187341000 (시작 2023-10-01),24
+PTC,PTC,2024Q1,2024-03-31,분기말 자산총계,6205263000,USD,공시,https://www.sec.gov/Archives/edgar/data/857005/000095017024052860/,,24
+PTC,PTC,2024Q1,2024-03-31,분기말 부채총계,3262131000,USD,공시,https://www.sec.gov/Archives/edgar/data/857005/000095017024052860/,,24
+PTC,PTC,2024Q1,2024-03-31,분기말 총자본(자기자본),2943132000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/857005/000095017024052860/,"StockholdersEquity, MinorityInterest 태그 없음",24
+PTC,PTC,2024Q1,2024-03-31,분기말 지배지분 자본,2943132000,USD,공시,https://www.sec.gov/Archives/edgar/data/857005/000095017024052860/,,24
+PTC,PTC,2024Q1,2024-03-28,분기말 종가,188.94,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/PTC?interval=1d&events=splits (2024-03-28),,24
+PTC,PTC,2024Q1,2024-05-01,분기말 상장주식수,119744260,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/857005/000095017024052860/,dei:EntityCommonStockSharesOutstanding 클래스 합,24
+PTC,PTC,2024Q1,2024-03-28,분기말 시가총액,22624480484,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/PTC?interval=1d&events=splits (2024-03-28) ; https://www.sec.gov/Archives/edgar/data/857005/000095017024052860/,종가 188.94 × 주식수 119744260,24
+PTC,PTC,2024Q2,2024-06-30,분기별 매출액,518639000,USD,공시,https://www.sec.gov/Archives/edgar/data/857005/000095017024089978/,,24
+PTC,PTC,2024Q2,2024-06-30,분기별 영업이익,95821000,USD,공시,https://www.sec.gov/Archives/edgar/data/857005/000095017024089978/,,24
+PTC,PTC,2024Q2,2024-06-30,분기별 당기순이익(지배),68978000,USD,공시,https://www.sec.gov/Archives/edgar/data/857005/000095017024089978/,,24
+PTC,PTC,2024Q2,2024-06-30,분기별 영업활동현금흐름,213799000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/857005/000095017024089978/ ; https://www.sec.gov/Archives/edgar/data/857005/000095017024052860/,누적 651870000 − 직전누적 438071000 (시작 2023-10-01),24
+PTC,PTC,2024Q2,2024-06-30,분기말 자산총계,6128145000,USD,공시,https://www.sec.gov/Archives/edgar/data/857005/000095017024089978/,,24
+PTC,PTC,2024Q2,2024-06-30,분기말 부채총계,3113466000,USD,공시,https://www.sec.gov/Archives/edgar/data/857005/000095017024089978/,,24
+PTC,PTC,2024Q2,2024-06-30,분기말 총자본(자기자본),3014679000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/857005/000095017024089978/,"StockholdersEquity, MinorityInterest 태그 없음",24
+PTC,PTC,2024Q2,2024-06-30,분기말 지배지분 자본,3014679000,USD,공시,https://www.sec.gov/Archives/edgar/data/857005/000095017024089978/,,24
+PTC,PTC,2024Q2,2024-06-28,분기말 종가,181.67,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/PTC?interval=1d&events=splits (2024-06-28),,24
+PTC,PTC,2024Q2,2024-07-31,분기말 상장주식수,120135231,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/857005/000095017024089978/,dei:EntityCommonStockSharesOutstanding 클래스 합,24
+PTC,PTC,2024Q2,2024-06-28,분기말 시가총액,21824967416,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/PTC?interval=1d&events=splits (2024-06-28) ; https://www.sec.gov/Archives/edgar/data/857005/000095017024089978/,종가 181.67 × 주식수 120135231,24
+PTC,PTC,2024Q3,2024-09-30,분기별 매출액,626547000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/857005/000095017024127231/ ; https://www.sec.gov/Archives/edgar/data/857005/000095017024089978/,연간 2298472000 − 9개월누적 1671925000 (RevenueFromContractWithCustomerExcludingAssessedTax),24
+PTC,PTC,2024Q3,2024-09-30,분기별 영업이익,193973000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/857005/000095017024127231/ ; https://www.sec.gov/Archives/edgar/data/857005/000095017024089978/,연간 588062000 − 9개월누적 394089000 (OperatingIncomeLoss),24
+PTC,PTC,2024Q3,2024-09-30,분기별 당기순이익(지배),126523000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/857005/000095017024127231/ ; https://www.sec.gov/Archives/edgar/data/857005/000095017024089978/,연간 376333000 − 9개월누적 249810000 (NetIncomeLoss),24
+PTC,PTC,2024Q3,2024-09-30,분기별 영업활동현금흐름,98114000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/857005/000095017024127231/ ; https://www.sec.gov/Archives/edgar/data/857005/000095017024089978/,누적 749984000 − 직전누적 651870000 (시작 2023-10-01),24
+PTC,PTC,2024Q3,2024-09-30,분기말 자산총계,6383542000,USD,공시,https://www.sec.gov/Archives/edgar/data/857005/000095017024127231/,,24
+PTC,PTC,2024Q3,2024-09-30,분기말 부채총계,3169144000,USD,공시,https://www.sec.gov/Archives/edgar/data/857005/000095017024127231/,,24
+PTC,PTC,2024Q3,2024-09-30,분기말 총자본(자기자본),3214398000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/857005/000095017024127231/,"StockholdersEquity, MinorityInterest 태그 없음",24
+PTC,PTC,2024Q3,2024-09-30,분기말 지배지분 자본,3214398000,USD,공시,https://www.sec.gov/Archives/edgar/data/857005/000095017024127231/,,24
+PTC,PTC,2024Q3,2024-09-30,분기말 종가,180.66,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/PTC?interval=1d&events=splits (2024-09-30),,24
+PTC,PTC,2024Q3,2024-11-12,분기말 상장주식수,120129080,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/857005/000095017024127231/,dei:EntityCommonStockSharesOutstanding 클래스 합,24
+PTC,PTC,2024Q3,2024-09-30,분기말 시가총액,21702519593,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/PTC?interval=1d&events=splits (2024-09-30) ; https://www.sec.gov/Archives/edgar/data/857005/000095017024127231/,종가 180.66 × 주식수 120129080,24
+PTC,PTC,2024Q4,2024-12-31,분기별 매출액,565128000,USD,공시,https://www.sec.gov/Archives/edgar/data/857005/000095017025015530/,,24
+PTC,PTC,2024Q4,2024-12-31,분기별 영업이익,115524000,USD,공시,https://www.sec.gov/Archives/edgar/data/857005/000095017025015530/,,24
+PTC,PTC,2024Q4,2024-12-31,분기별 당기순이익(지배),82232000,USD,공시,https://www.sec.gov/Archives/edgar/data/857005/000095017025015530/,,24
+PTC,PTC,2024Q4,2024-12-31,분기별 영업활동현금흐름,238429000,USD,공시,https://www.sec.gov/Archives/edgar/data/857005/000095017025015530/,,24
+PTC,PTC,2024Q4,2024-12-31,분기말 자산총계,6075364000,USD,공시,https://www.sec.gov/Archives/edgar/data/857005/000095017025015530/,,24
+PTC,PTC,2024Q4,2024-12-31,분기말 부채총계,2845543000,USD,공시,https://www.sec.gov/Archives/edgar/data/857005/000095017025015530/,,24
+PTC,PTC,2024Q4,2024-12-31,분기말 총자본(자기자본),3229821000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/857005/000095017025015530/,"StockholdersEquity, MinorityInterest 태그 없음",24
+PTC,PTC,2024Q4,2024-12-31,분기말 지배지분 자본,3229821000,USD,공시,https://www.sec.gov/Archives/edgar/data/857005/000095017025015530/,,24
+PTC,PTC,2024Q4,2024-12-31,분기말 종가,183.87,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/PTC?interval=1d&events=splits (2024-12-31),,24
+PTC,PTC,2024Q4,2025-02-04,분기말 상장주식수,120323542,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/857005/000095017025015530/,dei:EntityCommonStockSharesOutstanding 클래스 합,24
+PTC,PTC,2024Q4,2024-12-31,분기말 시가총액,22123889668,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/PTC?interval=1d&events=splits (2024-12-31) ; https://www.sec.gov/Archives/edgar/data/857005/000095017025015530/,종가 183.87 × 주식수 120323542,24
+PTC,PTC,2025Q1,2025-03-31,분기별 매출액,636366000,USD,공시,https://www.sec.gov/Archives/edgar/data/857005/000095017025061801/,,24
+PTC,PTC,2025Q1,2025-03-31,분기별 영업이익,223464000,USD,공시,https://www.sec.gov/Archives/edgar/data/857005/000095017025061801/,,24
+PTC,PTC,2025Q1,2025-03-31,분기별 당기순이익(지배),162644000,USD,공시,https://www.sec.gov/Archives/edgar/data/857005/000095017025061801/,,24
+PTC,PTC,2025Q1,2025-03-31,분기별 영업활동현금흐름,281309000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/857005/000095017025061801/ ; https://www.sec.gov/Archives/edgar/data/857005/000095017025015530/,누적 519738000 − 직전누적 238429000 (시작 2024-10-01),24
+PTC,PTC,2025Q1,2025-03-31,분기말 자산총계,6162431000,USD,공시,https://www.sec.gov/Archives/edgar/data/857005/000095017025061801/,,24
+PTC,PTC,2025Q1,2025-03-31,분기말 부채총계,2775968000,USD,공시,https://www.sec.gov/Archives/edgar/data/857005/000095017025061801/,,24
+PTC,PTC,2025Q1,2025-03-31,분기말 총자본(자기자본),3386463000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/857005/000095017025061801/,"StockholdersEquity, MinorityInterest 태그 없음",24
+PTC,PTC,2025Q1,2025-03-31,분기말 지배지분 자본,3386463000,USD,공시,https://www.sec.gov/Archives/edgar/data/857005/000095017025061801/,,24
+PTC,PTC,2025Q1,2025-03-31,분기말 종가,154.95,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/PTC?interval=1d&events=splits (2025-03-31),,24
+PTC,PTC,2025Q1,2025-04-29,분기말 상장주식수,119947852,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/857005/000095017025061801/,dei:EntityCommonStockSharesOutstanding 클래스 합,24
+PTC,PTC,2025Q1,2025-03-31,분기말 시가총액,18585919667,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/PTC?interval=1d&events=splits (2025-03-31) ; https://www.sec.gov/Archives/edgar/data/857005/000095017025061801/,종가 154.95 × 주식수 119947852,24
+PTC,PTC,2025Q2,2025-06-30,분기별 매출액,643937000,USD,공시,https://www.sec.gov/Archives/edgar/data/857005/000095017025100879/,,24
+PTC,PTC,2025Q2,2025-06-30,분기별 영업이익,209828000,USD,공시,https://www.sec.gov/Archives/edgar/data/857005/000095017025100879/,,24
+PTC,PTC,2025Q2,2025-06-30,분기별 당기순이익(지배),141328000,USD,공시,https://www.sec.gov/Archives/edgar/data/857005/000095017025100879/,,24
+PTC,PTC,2025Q2,2025-06-30,분기별 영업활동현금흐름,243928000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/857005/000095017025100879/ ; https://www.sec.gov/Archives/edgar/data/857005/000095017025061801/,누적 763666000 − 직전누적 519738000 (시작 2024-10-01),24
+PTC,PTC,2025Q2,2025-06-30,분기말 자산총계,6229053000,USD,공시,https://www.sec.gov/Archives/edgar/data/857005/000095017025100879/,,24
+PTC,PTC,2025Q2,2025-06-30,분기말 부채총계,2716170000,USD,공시,https://www.sec.gov/Archives/edgar/data/857005/000095017025100879/,,24
+PTC,PTC,2025Q2,2025-06-30,분기말 총자본(자기자본),3512883000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/857005/000095017025100879/,"StockholdersEquity, MinorityInterest 태그 없음",24
+PTC,PTC,2025Q2,2025-06-30,분기말 지배지분 자본,3512883000,USD,공시,https://www.sec.gov/Archives/edgar/data/857005/000095017025100879/,,24
+PTC,PTC,2025Q2,2025-06-30,분기말 종가,172.34,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/PTC?interval=1d&events=splits (2025-06-30),,24
+PTC,PTC,2025Q2,2025-07-29,분기말 상장주식수,119792704,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/857005/000095017025100879/,dei:EntityCommonStockSharesOutstanding 클래스 합,24
+PTC,PTC,2025Q2,2025-06-30,분기말 시가총액,20645074607,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/PTC?interval=1d&events=splits (2025-06-30) ; https://www.sec.gov/Archives/edgar/data/857005/000095017025100879/,종가 172.34 × 주식수 119792704,24
+PTC,PTC,2025Q3,2025-09-30,분기별 매출액,893795000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/857005/000119312525291326/ ; https://www.sec.gov/Archives/edgar/data/857005/000095017025100879/,연간 2739226000 − 9개월누적 1845431000 (RevenueFromContractWithCustomerExcludingAssessedTax),24
+PTC,PTC,2025Q3,2025-09-30,분기별 영업이익,433569000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/857005/000119312525291326/ ; https://www.sec.gov/Archives/edgar/data/857005/000095017025100879/,연간 982385000 − 9개월누적 548816000 (OperatingIncomeLoss),24
+PTC,PTC,2025Q3,2025-09-30,분기별 당기순이익(지배),347793000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/857005/000119312525291326/ ; https://www.sec.gov/Archives/edgar/data/857005/000095017025100879/,연간 733997000 − 9개월누적 386204000 (NetIncomeLoss),24
+PTC,PTC,2025Q3,2025-09-30,분기별 영업활동현금흐름,104030000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/857005/000119312525291326/ ; https://www.sec.gov/Archives/edgar/data/857005/000095017025100879/,누적 867696000 − 직전누적 763666000 (시작 2024-10-01),24
+PTC,PTC,2025Q3,2025-09-30,분기말 자산총계,6617172000,USD,공시,https://www.sec.gov/Archives/edgar/data/857005/000119312525291326/,,24
+PTC,PTC,2025Q3,2025-09-30,분기말 부채총계,2790943000,USD,공시,https://www.sec.gov/Archives/edgar/data/857005/000119312525291326/,,24
+PTC,PTC,2025Q3,2025-09-30,분기말 총자본(자기자본),3826229000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/857005/000119312525291326/,"StockholdersEquity, MinorityInterest 태그 없음",24
+PTC,PTC,2025Q3,2025-09-30,분기말 지배지분 자본,3826229000,USD,공시,https://www.sec.gov/Archives/edgar/data/857005/000119312525291326/,,24
+PTC,PTC,2025Q3,2025-09-30,분기말 종가,203.02,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/PTC?interval=1d&events=splits (2025-09-30),,24
+PTC,PTC,2025Q3,2025-11-19,분기말 상장주식수,119448261,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/857005/000119312525291326/,XBRL 원문 dei:EntityCommonStockSharesOutstanding 1개 클래스 합,24
+PTC,PTC,2025Q3,2025-09-30,분기말 시가총액,24250385948,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/PTC?interval=1d&events=splits (2025-09-30) ; https://www.sec.gov/Archives/edgar/data/857005/000119312525291326/,종가 203.02 × 주식수 119448261,24
+PTC,PTC,2025Q4,2025-12-31,분기별 매출액,685825000,USD,공시,https://www.sec.gov/Archives/edgar/data/857005/000119312526039347/,,24
+PTC,PTC,2025Q4,2025-12-31,분기별 영업이익,221131000,USD,공시,https://www.sec.gov/Archives/edgar/data/857005/000119312526039347/,,24
+PTC,PTC,2025Q4,2025-12-31,분기별 당기순이익(지배),166518000,USD,공시,https://www.sec.gov/Archives/edgar/data/857005/000119312526039347/,,24
+PTC,PTC,2025Q4,2025-12-31,분기별 영업활동현금흐름,269745000,USD,공시,https://www.sec.gov/Archives/edgar/data/857005/000119312526039347/,,24
+PTC,PTC,2025Q4,2025-12-31,분기말 자산총계,6427263000,USD,공시,https://www.sec.gov/Archives/edgar/data/857005/000119312526039347/,,24
+PTC,PTC,2025Q4,2025-12-31,분기말 부채총계,2584844000,USD,공시,https://www.sec.gov/Archives/edgar/data/857005/000119312526039347/,,24
+PTC,PTC,2025Q4,2025-12-31,분기말 총자본(자기자본),3842419000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/857005/000119312526039347/,"StockholdersEquity, MinorityInterest 태그 없음",24
+PTC,PTC,2025Q4,2025-12-31,분기말 지배지분 자본,3842419000,USD,공시,https://www.sec.gov/Archives/edgar/data/857005/000119312526039347/,,24
+PTC,PTC,2025Q4,2025-12-31,분기말 종가,174.21,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/PTC?interval=1d&events=splits (2025-12-31),,24
+PTC,PTC,2025Q4,2026-02-03,분기말 상장주식수,118996116,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/857005/000119312526039347/,dei:EntityCommonStockSharesOutstanding 클래스 합,24
+PTC,PTC,2025Q4,2025-12-31,분기말 시가총액,20730313368,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/PTC?interval=1d&events=splits (2025-12-31) ; https://www.sec.gov/Archives/edgar/data/857005/000119312526039347/,종가 174.21 × 주식수 118996116,24
+PTC,PTC,2026Q1,2026-03-31,분기별 매출액,774303000,USD,공시,https://www.sec.gov/Archives/edgar/data/857005/000119312526209869/,,24
+PTC,PTC,2026Q1,2026-03-31,분기별 영업이익,295802000,USD,공시,https://www.sec.gov/Archives/edgar/data/857005/000119312526209869/,,24
+PTC,PTC,2026Q1,2026-03-31,분기별 당기순이익(지배),590723000,USD,공시,https://www.sec.gov/Archives/edgar/data/857005/000119312526209869/,,24
+PTC,PTC,2026Q1,2026-03-31,분기별 영업활동현금흐름,320917000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/857005/000119312526209869/ ; https://www.sec.gov/Archives/edgar/data/857005/000119312526039347/,누적 590662000 − 직전누적 269745000 (시작 2025-10-01),24
+PTC,PTC,2026Q1,2026-03-31,분기말 자산총계,6537260000,USD,공시,https://www.sec.gov/Archives/edgar/data/857005/000119312526209869/,,24
+PTC,PTC,2026Q1,2026-03-31,분기말 부채총계,2677387000,USD,공시,https://www.sec.gov/Archives/edgar/data/857005/000119312526209869/,,24
+PTC,PTC,2026Q1,2026-03-31,분기말 총자본(자기자본),3859873000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/857005/000119312526209869/,"StockholdersEquity, MinorityInterest 태그 없음",24
+PTC,PTC,2026Q1,2026-03-31,분기말 지배지분 자본,3859873000,USD,공시,https://www.sec.gov/Archives/edgar/data/857005/000119312526209869/,,24
+PTC,PTC,2026Q1,2026-03-31,분기말 종가,142.49,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/PTC?interval=1d&events=splits (2026-03-31),,24
+PTC,PTC,2026Q1,2026-05-04,분기말 상장주식수,115505791,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/857005/000119312526209869/,dei:EntityCommonStockSharesOutstanding 클래스 합,24
+PTC,PTC,2026Q1,2026-03-31,분기말 시가총액,16458420160,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/PTC?interval=1d&events=splits (2026-03-31) ; https://www.sec.gov/Archives/edgar/data/857005/000119312526209869/,종가 142.49 × 주식수 115505791,24
+PTC,PTC,2026Q2,2026-06-30,분기별 매출액,600049000,USD,공시,https://www.sec.gov/Archives/edgar/data/857005/000119312526328444/,,24
+PTC,PTC,2026Q2,2026-06-30,분기별 영업이익,166506000,USD,공시,https://www.sec.gov/Archives/edgar/data/857005/000119312526328444/,,24
+PTC,PTC,2026Q2,2026-06-30,분기별 당기순이익(지배),118780000,USD,공시,https://www.sec.gov/Archives/edgar/data/857005/000119312526328444/,,24
+PTC,PTC,2026Q2,2026-06-30,분기별 영업활동현금흐름,260629000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/857005/000119312526328444/ ; https://www.sec.gov/Archives/edgar/data/857005/000119312526209869/,누적 851291000 − 직전누적 590662000 (시작 2025-10-01),24
+PTC,PTC,2026Q2,2026-06-30,분기말 자산총계,6513577000,USD,공시,https://www.sec.gov/Archives/edgar/data/857005/000119312526328444/,,24
+PTC,PTC,2026Q2,2026-06-30,분기말 부채총계,3043834000,USD,공시,https://www.sec.gov/Archives/edgar/data/857005/000119312526328444/,,24
+PTC,PTC,2026Q2,2026-06-30,분기말 총자본(자기자본),3469743000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/857005/000119312526328444/,"StockholdersEquity, MinorityInterest 태그 없음",24
+PTC,PTC,2026Q2,2026-06-30,분기말 지배지분 자본,3469743000,USD,공시,https://www.sec.gov/Archives/edgar/data/857005/000119312526328444/,,24
+PTC,PTC,2026Q2,2026-06-30,분기말 종가,113.61,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/PTC?interval=1d&events=splits (2026-06-30),,24
+PTC,PTC,2026Q2,2026-07-29,분기말 상장주식수,108506261,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/857005/000119312526328444/,dei:EntityCommonStockSharesOutstanding 클래스 합,24
+PTC,PTC,2026Q2,2026-06-30,분기말 시가총액,12327396312,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/PTC?interval=1d&events=splits (2026-06-30) ; https://www.sec.gov/Archives/edgar/data/857005/000119312526328444/,종가 113.61 × 주식수 108506261,24

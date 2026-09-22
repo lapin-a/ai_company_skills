@@ -1,0 +1,727 @@
+﻿기업,종목코드,기간,기준일,항목,값,통화,값구분,출처,검산,라운드
+SLB,SLB,2010Q1,2010-03-31,분기별 매출액,5598000000,USD,공시,https://www.sec.gov/Archives/edgar/data/87347/000119312510096102/,,8
+SLB,SLB,2010Q1,2010-03-31,분기별 영업이익,미확인,USD,미확인,SEC companyfacts CIK0000087347: 해당 보고서에 OperatingIncomeLoss 태그 없음(영업이익 미공시) ; https://www.sec.gov/Archives/edgar/data/87347/000119312510096102/,,8
+SLB,SLB,2010Q1,2010-03-31,분기별 당기순이익(지배),672000000,USD,공시,https://www.sec.gov/Archives/edgar/data/87347/000119312510096102/,,8
+SLB,SLB,2010Q1,2010-03-31,분기별 영업활동현금흐름,989000000,USD,공시,https://www.sec.gov/Archives/edgar/data/87347/000119312510096102/,,8
+SLB,SLB,2010Q1,2010-03-31,분기말 자산총계,32883000000,USD,공시,https://www.sec.gov/Archives/edgar/data/87347/000119312510096102/,,8
+SLB,SLB,2010Q1,2010-03-31,분기말 부채총계,13344000000,USD,공시,https://www.sec.gov/Archives/edgar/data/87347/000119312510096102/,,8
+SLB,SLB,2010Q1,2010-03-31,분기말 총자본(자기자본),19539000000,USD,공시,https://www.sec.gov/Archives/edgar/data/87347/000119312510096102/,,8
+SLB,SLB,2010Q1,2010-03-31,분기말 지배지분 자본,19428000000,USD,공시,https://www.sec.gov/Archives/edgar/data/87347/000119312510096102/,,8
+SLB,SLB,2010Q1,2010-03-31,분기말 종가,63.46,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/SLB?interval=1d&events=splits (2010-03-31),,8
+SLB,SLB,2010Q1,2010-03-31,분기말 상장주식수,1192808544,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/87347/000119312510096102/,dei:EntityCommonStockSharesOutstanding 클래스 합,8
+SLB,SLB,2010Q1,2010-03-31,분기말 시가총액,75695630202,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/SLB?interval=1d&events=splits (2010-03-31) ; https://www.sec.gov/Archives/edgar/data/87347/000119312510096102/,종가 63.46 × 주식수 1192808544,8
+SLB,SLB,2010Q2,2010-06-30,분기별 매출액,5937000000,USD,공시,https://www.sec.gov/Archives/edgar/data/87347/000119312510170695/,,8
+SLB,SLB,2010Q2,2010-06-30,분기별 영업이익,미확인,USD,미확인,SEC companyfacts CIK0000087347: 해당 보고서에 OperatingIncomeLoss 태그 없음(영업이익 미공시) ; https://www.sec.gov/Archives/edgar/data/87347/000119312510170695/,,8
+SLB,SLB,2010Q2,2010-06-30,분기별 당기순이익(지배),818000000,USD,공시,https://www.sec.gov/Archives/edgar/data/87347/000119312510170695/,,8
+SLB,SLB,2010Q2,2010-06-30,분기별 영업활동현금흐름,1297000000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/87347/000119312510170695/ ; https://www.sec.gov/Archives/edgar/data/87347/000119312510096102/,누적 2286000000 − 직전누적 989000000 (시작 2010-01-01),8
+SLB,SLB,2010Q2,2010-06-30,분기말 자산총계,33017000000,USD,공시,https://www.sec.gov/Archives/edgar/data/87347/000119312510170695/,,8
+SLB,SLB,2010Q2,2010-06-30,분기말 부채총계,13133000000,USD,공시,https://www.sec.gov/Archives/edgar/data/87347/000119312510170695/,,8
+SLB,SLB,2010Q2,2010-06-30,분기말 총자본(자기자본),19884000000,USD,공시,https://www.sec.gov/Archives/edgar/data/87347/000119312510170695/,,8
+SLB,SLB,2010Q2,2010-06-30,분기말 지배지분 자본,19778000000,USD,공시,https://www.sec.gov/Archives/edgar/data/87347/000119312510170695/,,8
+SLB,SLB,2010Q2,2010-06-30,분기말 종가,55.34,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/SLB?interval=1d&events=splits (2010-06-30),,8
+SLB,SLB,2010Q2,2010-06-30,분기말 상장주식수,1193236410,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/87347/000119312510170695/,dei:EntityCommonStockSharesOutstanding 클래스 합,8
+SLB,SLB,2010Q2,2010-06-30,분기말 시가총액,66033702929,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/SLB?interval=1d&events=splits (2010-06-30) ; https://www.sec.gov/Archives/edgar/data/87347/000119312510170695/,종가 55.34 × 주식수 1193236410,8
+SLB,SLB,2010Q3,2010-09-30,분기별 매출액,6845000000,USD,공시,https://www.sec.gov/Archives/edgar/data/87347/000119312510240873/,,8
+SLB,SLB,2010Q3,2010-09-30,분기별 영업이익,미확인,USD,미확인,SEC companyfacts CIK0000087347: 해당 보고서에 OperatingIncomeLoss 태그 없음(영업이익 미공시) ; https://www.sec.gov/Archives/edgar/data/87347/000119312510240873/,,8
+SLB,SLB,2010Q3,2010-09-30,분기별 당기순이익(지배),1734000000,USD,공시,https://www.sec.gov/Archives/edgar/data/87347/000119312510240873/,,8
+SLB,SLB,2010Q3,2010-09-30,분기별 영업활동현금흐름,810000000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/87347/000119312510240873/ ; https://www.sec.gov/Archives/edgar/data/87347/000119312510170695/,누적 3096000000 − 직전누적 2286000000 (시작 2010-01-01),8
+SLB,SLB,2010Q3,2010-09-30,분기말 자산총계,49854000000,USD,공시,https://www.sec.gov/Archives/edgar/data/87347/000119312510240873/,,8
+SLB,SLB,2010Q3,2010-09-30,분기말 부채총계,18738000000,USD,공시,https://www.sec.gov/Archives/edgar/data/87347/000119312510240873/,,8
+SLB,SLB,2010Q3,2010-09-30,분기말 총자본(자기자본),31116000000,USD,공시,https://www.sec.gov/Archives/edgar/data/87347/000119312510240873/,,8
+SLB,SLB,2010Q3,2010-09-30,분기말 지배지분 자본,30898000000,USD,공시,https://www.sec.gov/Archives/edgar/data/87347/000119312510240873/,,8
+SLB,SLB,2010Q3,2010-09-30,분기말 종가,61.61,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/SLB?interval=1d&events=splits (2010-09-30),,8
+SLB,SLB,2010Q3,2010-09-30,분기말 상장주식수,1364379732,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/87347/000119312510240873/,dei:EntityCommonStockSharesOutstanding 클래스 합,8
+SLB,SLB,2010Q3,2010-09-30,분기말 시가총액,84059435289,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/SLB?interval=1d&events=splits (2010-09-30) ; https://www.sec.gov/Archives/edgar/data/87347/000119312510240873/,종가 61.61 × 주식수 1364379732,8
+SLB,SLB,2010Q4,2010-12-31,분기별 매출액,9068000000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/87347/000095012311009144/ ; https://www.sec.gov/Archives/edgar/data/87347/000119312510240873/,연간 27447000000 − 9개월누적 18379000000 (Revenues),8
+SLB,SLB,2010Q4,2010-12-31,분기별 영업이익,미확인,USD,미확인,SEC companyfacts CIK0000087347: 해당 보고서에 OperatingIncomeLoss 태그 없음(영업이익 미공시) ; https://www.sec.gov/Archives/edgar/data/87347/000095012311009144/,,8
+SLB,SLB,2010Q4,2010-12-31,분기별 당기순이익(지배),1043000000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/87347/000095012311009144/ ; https://www.sec.gov/Archives/edgar/data/87347/000119312510240873/,연간 4267000000 − 9개월누적 3224000000 (NetIncomeLoss),8
+SLB,SLB,2010Q4,2010-12-31,분기별 영업활동현금흐름,2398000000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/87347/000095012311009144/ ; https://www.sec.gov/Archives/edgar/data/87347/000119312510240873/,누적 5494000000 − 직전누적 3096000000 (시작 2010-01-01),8
+SLB,SLB,2010Q4,2010-12-31,분기말 자산총계,51767000000,USD,공시,https://www.sec.gov/Archives/edgar/data/87347/000095012311009144/,,8
+SLB,SLB,2010Q4,2010-12-31,분기말 부채총계,20323000000,USD,공시,https://www.sec.gov/Archives/edgar/data/87347/000095012311009144/,,8
+SLB,SLB,2010Q4,2010-12-31,분기말 총자본(자기자본),31444000000,USD,공시,https://www.sec.gov/Archives/edgar/data/87347/000095012311009144/,,8
+SLB,SLB,2010Q4,2010-12-31,분기말 지배지분 자본,31226000000,USD,공시,https://www.sec.gov/Archives/edgar/data/87347/000095012311009144/,,8
+SLB,SLB,2010Q4,2010-12-31,분기말 종가,83.5,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/SLB?interval=1d&events=splits (2010-12-31),,8
+SLB,SLB,2010Q4,2011-01-31,분기말 상장주식수,1360993901,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/87347/000095012311009144/,dei:EntityCommonStockSharesOutstanding 클래스 합,8
+SLB,SLB,2010Q4,2010-12-31,분기말 시가총액,113642990734,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/SLB?interval=1d&events=splits (2010-12-31) ; https://www.sec.gov/Archives/edgar/data/87347/000095012311009144/,종가 83.5 × 주식수 1360993901,8
+SLB,SLB,2011Q1,2011-03-31,분기별 매출액,8716000000,USD,공시,https://www.sec.gov/Archives/edgar/data/87347/000095012311039827/,,8
+SLB,SLB,2011Q1,2011-03-31,분기별 영업이익,미확인,USD,미확인,SEC companyfacts CIK0000087347: 해당 보고서에 OperatingIncomeLoss 태그 없음(영업이익 미공시) ; https://www.sec.gov/Archives/edgar/data/87347/000095012311039827/,,8
+SLB,SLB,2011Q1,2011-03-31,분기별 당기순이익(지배),944000000,USD,공시,https://www.sec.gov/Archives/edgar/data/87347/000095012311039827/,,8
+SLB,SLB,2011Q1,2011-03-31,분기별 영업활동현금흐름,836000000,USD,공시,https://www.sec.gov/Archives/edgar/data/87347/000095012311039827/,,8
+SLB,SLB,2011Q1,2011-03-31,분기말 자산총계,52372000000,USD,공시,https://www.sec.gov/Archives/edgar/data/87347/000095012311039827/,,8
+SLB,SLB,2011Q1,2011-03-31,분기말 부채총계,20746000000,USD,공시,https://www.sec.gov/Archives/edgar/data/87347/000095012311039827/,,8
+SLB,SLB,2011Q1,2011-03-31,분기말 총자본(자기자본),31626000000,USD,공시,https://www.sec.gov/Archives/edgar/data/87347/000095012311039827/,,8
+SLB,SLB,2011Q1,2011-03-31,분기말 지배지분 자본,31414000000,USD,공시,https://www.sec.gov/Archives/edgar/data/87347/000095012311039827/,,8
+SLB,SLB,2011Q1,2011-03-31,분기말 종가,93.26,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/SLB?interval=1d&events=splits (2011-03-31),,8
+SLB,SLB,2011Q1,2011-03-31,분기말 상장주식수,1356940119,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/87347/000095012311039827/,dei:EntityCommonStockSharesOutstanding 클래스 합,8
+SLB,SLB,2011Q1,2011-03-31,분기말 시가총액,126548235498,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/SLB?interval=1d&events=splits (2011-03-31) ; https://www.sec.gov/Archives/edgar/data/87347/000095012311039827/,종가 93.26 × 주식수 1356940119,8
+SLB,SLB,2011Q2,2011-06-30,분기별 매출액,9621000000,USD,공시,https://www.sec.gov/Archives/edgar/data/87347/000095012311068781/,,8
+SLB,SLB,2011Q2,2011-06-30,분기별 영업이익,미확인,USD,미확인,SEC companyfacts CIK0000087347: 해당 보고서에 OperatingIncomeLoss 태그 없음(영업이익 미공시) ; https://www.sec.gov/Archives/edgar/data/87347/000095012311068781/,,8
+SLB,SLB,2011Q2,2011-06-30,분기별 당기순이익(지배),1339000000,USD,공시,https://www.sec.gov/Archives/edgar/data/87347/000095012311068781/,,8
+SLB,SLB,2011Q2,2011-06-30,분기별 영업활동현금흐름,1250000000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/87347/000095012311068781/ ; https://www.sec.gov/Archives/edgar/data/87347/000095012311039827/,누적 2086000000 − 직전누적 836000000 (시작 2011-01-01),8
+SLB,SLB,2011Q2,2011-06-30,분기말 자산총계,54019000000,USD,공시,https://www.sec.gov/Archives/edgar/data/87347/000095012311068781/,,8
+SLB,SLB,2011Q2,2011-06-30,분기말 부채총계,21957000000,USD,공시,https://www.sec.gov/Archives/edgar/data/87347/000095012311068781/,,8
+SLB,SLB,2011Q2,2011-06-30,분기말 총자본(자기자본),32062000000,USD,공시,https://www.sec.gov/Archives/edgar/data/87347/000095012311068781/,,8
+SLB,SLB,2011Q2,2011-06-30,분기말 지배지분 자본,31848000000,USD,공시,https://www.sec.gov/Archives/edgar/data/87347/000095012311068781/,,8
+SLB,SLB,2011Q2,2011-06-30,분기말 종가,86.4,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/SLB?interval=1d&events=splits (2011-06-30),,8
+SLB,SLB,2011Q2,2011-06-30,분기말 상장주식수,1349367325,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/87347/000095012311068781/,dei:EntityCommonStockSharesOutstanding 클래스 합,8
+SLB,SLB,2011Q2,2011-06-30,분기말 시가총액,116585336880,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/SLB?interval=1d&events=splits (2011-06-30) ; https://www.sec.gov/Archives/edgar/data/87347/000095012311068781/,종가 86.4 × 주식수 1349367325,8
+SLB,SLB,2011Q3,2011-09-30,분기별 매출액,10229000000,USD,공시,https://www.sec.gov/Archives/edgar/data/87347/000095012311092021/,,8
+SLB,SLB,2011Q3,2011-09-30,분기별 영업이익,미확인,USD,미확인,SEC companyfacts CIK0000087347: 해당 보고서에 OperatingIncomeLoss 태그 없음(영업이익 미공시) ; https://www.sec.gov/Archives/edgar/data/87347/000095012311092021/,,8
+SLB,SLB,2011Q3,2011-09-30,분기별 당기순이익(지배),1301000000,USD,공시,https://www.sec.gov/Archives/edgar/data/87347/000095012311092021/,,8
+SLB,SLB,2011Q3,2011-09-30,분기별 영업활동현금흐름,1658000000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/87347/000095012311092021/ ; https://www.sec.gov/Archives/edgar/data/87347/000095012311068781/,누적 3744000000 − 직전누적 2086000000 (시작 2011-01-01),8
+SLB,SLB,2011Q3,2011-09-30,분기말 자산총계,55581000000,USD,공시,https://www.sec.gov/Archives/edgar/data/87347/000095012311092021/,,8
+SLB,SLB,2011Q3,2011-09-30,분기말 부채총계,23958000000,USD,공시,https://www.sec.gov/Archives/edgar/data/87347/000095012311092021/,,8
+SLB,SLB,2011Q3,2011-09-30,분기말 총자본(자기자본),31623000000,USD,공시,https://www.sec.gov/Archives/edgar/data/87347/000095012311092021/,,8
+SLB,SLB,2011Q3,2011-09-30,분기말 지배지분 자본,31500000000,USD,공시,https://www.sec.gov/Archives/edgar/data/87347/000095012311092021/,,8
+SLB,SLB,2011Q3,2011-09-30,분기말 종가,59.73,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/SLB?interval=1d&events=splits (2011-09-30),,8
+SLB,SLB,2011Q3,2011-09-30,분기말 상장주식수,1342125999,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/87347/000095012311092021/,dei:EntityCommonStockSharesOutstanding 클래스 합,8
+SLB,SLB,2011Q3,2011-09-30,분기말 시가총액,80165185920,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/SLB?interval=1d&events=splits (2011-09-30) ; https://www.sec.gov/Archives/edgar/data/87347/000095012311092021/,종가 59.73 × 주식수 1342125999,8
+SLB,SLB,2011Q4,2011-12-31,분기별 매출액,10974000000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/87347/000119312512034426/ ; https://www.sec.gov/Archives/edgar/data/87347/000095012311092021/,연간 39540000000 − 9개월누적 28566000000 (Revenues),8
+SLB,SLB,2011Q4,2011-12-31,분기별 영업이익,미확인,USD,미확인,SEC companyfacts CIK0000087347: 해당 보고서에 OperatingIncomeLoss 태그 없음(영업이익 미공시) ; https://www.sec.gov/Archives/edgar/data/87347/000119312512034426/,,8
+SLB,SLB,2011Q4,2011-12-31,분기별 당기순이익(지배),1413000000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/87347/000119312512034426/ ; https://www.sec.gov/Archives/edgar/data/87347/000095012311092021/,연간 4997000000 − 9개월누적 3584000000 (NetIncomeLoss),8
+SLB,SLB,2011Q4,2011-12-31,분기별 영업활동현금흐름,2425000000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/87347/000119312512034426/ ; https://www.sec.gov/Archives/edgar/data/87347/000095012311092021/,누적 6169000000 − 직전누적 3744000000 (시작 2011-01-01),8
+SLB,SLB,2011Q4,2011-12-31,분기말 자산총계,55201000000,USD,공시,https://www.sec.gov/Archives/edgar/data/87347/000119312512034426/,,8
+SLB,SLB,2011Q4,2011-12-31,분기말 부채총계,23809000000,USD,공시,https://www.sec.gov/Archives/edgar/data/87347/000119312512034426/,,8
+SLB,SLB,2011Q4,2011-12-31,분기말 총자본(자기자본),31392000000,USD,공시,https://www.sec.gov/Archives/edgar/data/87347/000119312512034426/,,8
+SLB,SLB,2011Q4,2011-12-31,분기말 지배지분 자본,31263000000,USD,공시,https://www.sec.gov/Archives/edgar/data/87347/000119312512034426/,,8
+SLB,SLB,2011Q4,2011-12-30,분기말 종가,68.31,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/SLB?interval=1d&events=splits (2011-12-30),,8
+SLB,SLB,2011Q4,2011-12-31,분기말 상장주식수,1333775406,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/87347/000119312512034426/,dei:EntityCommonStockSharesOutstanding 클래스 합,8
+SLB,SLB,2011Q4,2011-12-30,분기말 시가총액,91110197984,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/SLB?interval=1d&events=splits (2011-12-30) ; https://www.sec.gov/Archives/edgar/data/87347/000119312512034426/,종가 68.31 × 주식수 1333775406,8
+SLB,SLB,2012Q1,2012-03-31,분기별 매출액,10611000000,USD,공시,https://www.sec.gov/Archives/edgar/data/87347/000119312512180984/,,8
+SLB,SLB,2012Q1,2012-03-31,분기별 영업이익,미확인,USD,미확인,SEC companyfacts CIK0000087347: 해당 보고서에 OperatingIncomeLoss 태그 없음(영업이익 미공시) ; https://www.sec.gov/Archives/edgar/data/87347/000119312512180984/,,8
+SLB,SLB,2012Q1,2012-03-31,분기별 당기순이익(지배),1301000000,USD,공시,https://www.sec.gov/Archives/edgar/data/87347/000119312512180984/,,8
+SLB,SLB,2012Q1,2012-03-31,분기별 영업활동현금흐름,732000000,USD,공시,https://www.sec.gov/Archives/edgar/data/87347/000119312512180984/,,8
+SLB,SLB,2012Q1,2012-03-31,분기말 자산총계,56366000000,USD,공시,https://www.sec.gov/Archives/edgar/data/87347/000119312512180984/,,8
+SLB,SLB,2012Q1,2012-03-31,분기말 부채총계,23878000000,USD,공시,https://www.sec.gov/Archives/edgar/data/87347/000119312512180984/,,8
+SLB,SLB,2012Q1,2012-03-31,분기말 총자본(자기자본),32488000000,USD,공시,https://www.sec.gov/Archives/edgar/data/87347/000119312512180984/,,8
+SLB,SLB,2012Q1,2012-03-31,분기말 지배지분 자본,32347000000,USD,공시,https://www.sec.gov/Archives/edgar/data/87347/000119312512180984/,,8
+SLB,SLB,2012Q1,2012-03-30,분기말 종가,69.93,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/SLB?interval=1d&events=splits (2012-03-30),,8
+SLB,SLB,2012Q1,2012-03-31,분기말 상장주식수,1333554386,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/87347/000119312512180984/,dei:EntityCommonStockSharesOutstanding 클래스 합,8
+SLB,SLB,2012Q1,2012-03-30,분기말 시가총액,93255458213,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/SLB?interval=1d&events=splits (2012-03-30) ; https://www.sec.gov/Archives/edgar/data/87347/000119312512180984/,종가 69.93 × 주식수 1333554386,8
+SLB,SLB,2012Q2,2012-06-30,분기별 매출액,10448000000,USD,공시,https://www.sec.gov/Archives/edgar/data/87347/000119312512313818/,,8
+SLB,SLB,2012Q2,2012-06-30,분기별 영업이익,미확인,USD,미확인,SEC companyfacts CIK0000087347: 해당 보고서에 OperatingIncomeLoss 태그 없음(영업이익 미공시) ; https://www.sec.gov/Archives/edgar/data/87347/000119312512313818/,,8
+SLB,SLB,2012Q2,2012-06-30,분기별 당기순이익(지배),1403000000,USD,공시,https://www.sec.gov/Archives/edgar/data/87347/000119312512313818/,,8
+SLB,SLB,2012Q2,2012-06-30,분기별 영업활동현금흐름,758000000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/87347/000119312512313818/ ; https://www.sec.gov/Archives/edgar/data/87347/000119312512180984/,누적 1490000000 − 직전누적 732000000 (시작 2012-01-01),8
+SLB,SLB,2012Q2,2012-06-30,분기말 자산총계,57013000000,USD,공시,https://www.sec.gov/Archives/edgar/data/87347/000119312512313818/,,8
+SLB,SLB,2012Q2,2012-06-30,분기말 부채총계,24046000000,USD,공시,https://www.sec.gov/Archives/edgar/data/87347/000119312512313818/,,8
+SLB,SLB,2012Q2,2012-06-30,분기말 총자본(자기자본),32967000000,USD,공시,https://www.sec.gov/Archives/edgar/data/87347/000119312512313818/,,8
+SLB,SLB,2012Q2,2012-06-30,분기말 지배지분 자본,32810000000,USD,공시,https://www.sec.gov/Archives/edgar/data/87347/000119312512313818/,,8
+SLB,SLB,2012Q2,2012-06-29,분기말 종가,64.91,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/SLB?interval=1d&events=splits (2012-06-29),,8
+SLB,SLB,2012Q2,2012-06-30,분기말 상장주식수,1327028158,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/87347/000119312512313818/,dei:EntityCommonStockSharesOutstanding 클래스 합,8
+SLB,SLB,2012Q2,2012-06-29,분기말 시가총액,86137397736,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/SLB?interval=1d&events=splits (2012-06-29) ; https://www.sec.gov/Archives/edgar/data/87347/000119312512313818/,종가 64.91 × 주식수 1327028158,8
+SLB,SLB,2012Q3,2012-09-30,분기별 매출액,10608000000,USD,공시,https://www.sec.gov/Archives/edgar/data/87347/000119312512432709/,,8
+SLB,SLB,2012Q3,2012-09-30,분기별 영업이익,미확인,USD,미확인,SEC companyfacts CIK0000087347: 해당 보고서에 OperatingIncomeLoss 태그 없음(영업이익 미공시) ; https://www.sec.gov/Archives/edgar/data/87347/000119312512432709/,,8
+SLB,SLB,2012Q3,2012-09-30,분기별 당기순이익(지배),1424000000,USD,공시,https://www.sec.gov/Archives/edgar/data/87347/000119312512432709/,,8
+SLB,SLB,2012Q3,2012-09-30,분기별 영업활동현금흐름,2121000000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/87347/000119312512432709/ ; https://www.sec.gov/Archives/edgar/data/87347/000119312512313818/,누적 3611000000 − 직전누적 1490000000 (시작 2012-01-01),8
+SLB,SLB,2012Q3,2012-09-30,분기말 자산총계,59441000000,USD,공시,https://www.sec.gov/Archives/edgar/data/87347/000119312512432709/,,8
+SLB,SLB,2012Q3,2012-09-30,분기말 부채총계,25130000000,USD,공시,https://www.sec.gov/Archives/edgar/data/87347/000119312512432709/,,8
+SLB,SLB,2012Q3,2012-09-30,분기말 총자본(자기자본),34311000000,USD,공시,https://www.sec.gov/Archives/edgar/data/87347/000119312512432709/,,8
+SLB,SLB,2012Q3,2012-09-30,분기말 지배지분 자본,34204000000,USD,공시,https://www.sec.gov/Archives/edgar/data/87347/000119312512432709/,,8
+SLB,SLB,2012Q3,2012-09-28,분기말 종가,72.33,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/SLB?interval=1d&events=splits (2012-09-28),,8
+SLB,SLB,2012Q3,2012-09-30,분기말 상장주식수,1327570132,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/87347/000119312512432709/,dei:EntityCommonStockSharesOutstanding 클래스 합,8
+SLB,SLB,2012Q3,2012-09-28,분기말 시가총액,96023147648,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/SLB?interval=1d&events=splits (2012-09-28) ; https://www.sec.gov/Archives/edgar/data/87347/000119312512432709/,종가 72.33 × 주식수 1327570132,8
+SLB,SLB,2012Q4,2012-12-31,분기별 매출액,11175000000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/87347/000119312513031766/ ; https://www.sec.gov/Archives/edgar/data/87347/000119312512432709/,연간 42149000000 − 9개월누적 30974000000 (Revenues),8
+SLB,SLB,2012Q4,2012-12-31,분기별 영업이익,미확인,USD,미확인,SEC companyfacts CIK0000087347: 해당 보고서에 OperatingIncomeLoss 태그 없음(영업이익 미공시) ; https://www.sec.gov/Archives/edgar/data/87347/000119312513031766/,,8
+SLB,SLB,2012Q4,2012-12-31,분기별 당기순이익(지배),1363000000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/87347/000119312513031766/ ; https://www.sec.gov/Archives/edgar/data/87347/000119312512432709/,연간 5490000000 − 9개월누적 4127000000 (NetIncomeLoss),8
+SLB,SLB,2012Q4,2012-12-31,분기별 영업활동현금흐름,3203000000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/87347/000119312513031766/ ; https://www.sec.gov/Archives/edgar/data/87347/000119312512432709/,누적 6814000000 − 직전누적 3611000000 (시작 2012-01-01),8
+SLB,SLB,2012Q4,2012-12-31,분기말 자산총계,61547000000,USD,공시,https://www.sec.gov/Archives/edgar/data/87347/000119312513031766/,,8
+SLB,SLB,2012Q4,2012-12-31,분기말 부채총계,26689000000,USD,공시,https://www.sec.gov/Archives/edgar/data/87347/000119312513031766/,,8
+SLB,SLB,2012Q4,2012-12-31,분기말 총자본(자기자본),34858000000,USD,공시,https://www.sec.gov/Archives/edgar/data/87347/000119312513031766/,,8
+SLB,SLB,2012Q4,2012-12-31,분기말 지배지분 자본,34751000000,USD,공시,https://www.sec.gov/Archives/edgar/data/87347/000119312513031766/,,8
+SLB,SLB,2012Q4,2012-12-31,분기말 종가,69.3,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/SLB?interval=1d&events=splits (2012-12-31),,8
+SLB,SLB,2012Q4,2012-12-31,분기말 상장주식수,1328255773,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/87347/000119312513031766/,dei:EntityCommonStockSharesOutstanding 클래스 합,8
+SLB,SLB,2012Q4,2012-12-31,분기말 시가총액,92048125069,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/SLB?interval=1d&events=splits (2012-12-31) ; https://www.sec.gov/Archives/edgar/data/87347/000119312513031766/,종가 69.3 × 주식수 1328255773,8
+SLB,SLB,2013Q1,2013-03-31,분기별 매출액,10668000000,USD,공시,https://www.sec.gov/Archives/edgar/data/87347/000119312513169511/,,8
+SLB,SLB,2013Q1,2013-03-31,분기별 영업이익,미확인,USD,미확인,SEC companyfacts CIK0000087347: 해당 보고서에 OperatingIncomeLoss 태그 없음(영업이익 미공시) ; https://www.sec.gov/Archives/edgar/data/87347/000119312513169511/,,8
+SLB,SLB,2013Q1,2013-03-31,분기별 당기순이익(지배),1259000000,USD,공시,https://www.sec.gov/Archives/edgar/data/87347/000119312513169511/,,8
+SLB,SLB,2013Q1,2013-03-31,분기별 영업활동현금흐름,1119000000,USD,공시,https://www.sec.gov/Archives/edgar/data/87347/000119312513169511/,,8
+SLB,SLB,2013Q1,2013-03-31,분기말 자산총계,61428000000,USD,공시,https://www.sec.gov/Archives/edgar/data/87347/000119312513169511/,,8
+SLB,SLB,2013Q1,2013-03-31,분기말 부채총계,25647000000,USD,공시,https://www.sec.gov/Archives/edgar/data/87347/000119312513169511/,,8
+SLB,SLB,2013Q1,2013-03-31,분기말 총자본(자기자본),35781000000,USD,공시,https://www.sec.gov/Archives/edgar/data/87347/000119312513169511/,,8
+SLB,SLB,2013Q1,2013-03-31,분기말 지배지분 자본,35660000000,USD,공시,https://www.sec.gov/Archives/edgar/data/87347/000119312513169511/,,8
+SLB,SLB,2013Q1,2013-03-28,분기말 종가,74.89,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/SLB?interval=1d&events=splits (2013-03-28),,8
+SLB,SLB,2013Q1,2013-03-31,분기말 상장주식수,1329450082,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/87347/000119312513169511/,dei:EntityCommonStockSharesOutstanding 클래스 합,8
+SLB,SLB,2013Q1,2013-03-28,분기말 시가총액,99562516641,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/SLB?interval=1d&events=splits (2013-03-28) ; https://www.sec.gov/Archives/edgar/data/87347/000119312513169511/,종가 74.89 × 주식수 1329450082,8
+SLB,SLB,2013Q2,2013-06-30,분기별 매출액,11182000000,USD,공시,https://www.sec.gov/Archives/edgar/data/87347/000119312513299983/,,8
+SLB,SLB,2013Q2,2013-06-30,분기별 영업이익,미확인,USD,미확인,SEC companyfacts CIK0000087347: 해당 보고서에 OperatingIncomeLoss 태그 없음(영업이익 미공시) ; https://www.sec.gov/Archives/edgar/data/87347/000119312513299983/,,8
+SLB,SLB,2013Q2,2013-06-30,분기별 당기순이익(지배),2095000000,USD,공시,https://www.sec.gov/Archives/edgar/data/87347/000119312513299983/,,8
+SLB,SLB,2013Q2,2013-06-30,분기별 영업활동현금흐름,2309000000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/87347/000119312513299983/ ; https://www.sec.gov/Archives/edgar/data/87347/000119312513169511/,누적 3428000000 − 직전누적 1119000000 (시작 2013-01-01),8
+SLB,SLB,2013Q2,2013-06-30,분기말 자산총계,63251000000,USD,공시,https://www.sec.gov/Archives/edgar/data/87347/000119312513299983/,,8
+SLB,SLB,2013Q2,2013-06-30,분기말 부채총계,26203000000,USD,공시,https://www.sec.gov/Archives/edgar/data/87347/000119312513299983/,,8
+SLB,SLB,2013Q2,2013-06-30,분기말 총자본(자기자본),37048000000,USD,공시,https://www.sec.gov/Archives/edgar/data/87347/000119312513299983/,,8
+SLB,SLB,2013Q2,2013-06-30,분기말 지배지분 자본,36909000000,USD,공시,https://www.sec.gov/Archives/edgar/data/87347/000119312513299983/,,8
+SLB,SLB,2013Q2,2013-06-28,분기말 종가,71.66,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/SLB?interval=1d&events=splits (2013-06-28),,8
+SLB,SLB,2013Q2,2013-06-30,분기말 상장주식수,1323183218,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/87347/000119312513299983/,dei:EntityCommonStockSharesOutstanding 클래스 합,8
+SLB,SLB,2013Q2,2013-06-28,분기말 시가총액,94819309402,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/SLB?interval=1d&events=splits (2013-06-28) ; https://www.sec.gov/Archives/edgar/data/87347/000119312513299983/,종가 71.66 × 주식수 1323183218,8
+SLB,SLB,2013Q3,2013-09-30,분기별 매출액,11608000000,USD,공시,https://www.sec.gov/Archives/edgar/data/87347/000156459013000735/,,8
+SLB,SLB,2013Q3,2013-09-30,분기별 영업이익,미확인,USD,미확인,SEC companyfacts CIK0000087347: 해당 보고서에 OperatingIncomeLoss 태그 없음(영업이익 미공시) ; https://www.sec.gov/Archives/edgar/data/87347/000156459013000735/,,8
+SLB,SLB,2013Q3,2013-09-30,분기별 당기순이익(지배),1715000000,USD,공시,https://www.sec.gov/Archives/edgar/data/87347/000156459013000735/,,8
+SLB,SLB,2013Q3,2013-09-30,분기별 영업활동현금흐름,2510000000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/87347/000156459013000735/ ; https://www.sec.gov/Archives/edgar/data/87347/000119312513299983/,누적 5938000000 − 직전누적 3428000000 (시작 2013-01-01),8
+SLB,SLB,2013Q3,2013-09-30,분기말 자산총계,65123000000,USD,공시,https://www.sec.gov/Archives/edgar/data/87347/000156459013000735/,,8
+SLB,SLB,2013Q3,2013-09-30,분기말 부채총계,27092000000,USD,공시,https://www.sec.gov/Archives/edgar/data/87347/000156459013000735/,,8
+SLB,SLB,2013Q3,2013-09-30,분기말 총자본(자기자본),38031000000,USD,공시,https://www.sec.gov/Archives/edgar/data/87347/000156459013000735/,,8
+SLB,SLB,2013Q3,2013-09-30,분기말 지배지분 자본,37885000000,USD,공시,https://www.sec.gov/Archives/edgar/data/87347/000156459013000735/,,8
+SLB,SLB,2013Q3,2013-09-30,분기말 종가,88.36,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/SLB?interval=1d&events=splits (2013-09-30),,8
+SLB,SLB,2013Q3,2013-09-30,분기말 상장주식수,1316954935,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/87347/000156459013000735/,dei:EntityCommonStockSharesOutstanding 클래스 합,8
+SLB,SLB,2013Q3,2013-09-30,분기말 시가총액,116366138057,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/SLB?interval=1d&events=splits (2013-09-30) ; https://www.sec.gov/Archives/edgar/data/87347/000156459013000735/,종가 88.36 × 주식수 1316954935,8
+SLB,SLB,2013Q4,2013-12-31,분기별 매출액,11906000000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/87347/000156459014000090/ ; https://www.sec.gov/Archives/edgar/data/87347/000156459013000735/,연간 45266000000 − 9개월누적 33360000000 (Revenues),8
+SLB,SLB,2013Q4,2013-12-31,분기별 영업이익,미확인,USD,미확인,SEC companyfacts CIK0000087347: 해당 보고서에 OperatingIncomeLoss 태그 없음(영업이익 미공시) ; https://www.sec.gov/Archives/edgar/data/87347/000156459014000090/,,8
+SLB,SLB,2013Q4,2013-12-31,분기별 당기순이익(지배),1664000000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/87347/000156459014000090/ ; https://www.sec.gov/Archives/edgar/data/87347/000156459013000735/,연간 6732000000 − 9개월누적 5068000000 (NetIncomeLoss),8
+SLB,SLB,2013Q4,2013-12-31,분기별 영업활동현금흐름,3850000000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/87347/000156459014000090/ ; https://www.sec.gov/Archives/edgar/data/87347/000156459013000735/,누적 9788000000 − 직전누적 5938000000 (시작 2013-01-01),8
+SLB,SLB,2013Q4,2013-12-31,분기말 자산총계,67100000000,USD,공시,https://www.sec.gov/Archives/edgar/data/87347/000156459014000090/,,8
+SLB,SLB,2013Q4,2013-12-31,분기말 부채총계,27465000000,USD,공시,https://www.sec.gov/Archives/edgar/data/87347/000156459014000090/,,8
+SLB,SLB,2013Q4,2013-12-31,분기말 총자본(자기자본),39635000000,USD,공시,https://www.sec.gov/Archives/edgar/data/87347/000156459014000090/,,8
+SLB,SLB,2013Q4,2013-12-31,분기말 지배지분 자본,39469000000,USD,공시,https://www.sec.gov/Archives/edgar/data/87347/000156459014000090/,,8
+SLB,SLB,2013Q4,2013-12-31,분기말 종가,90.11,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/SLB?interval=1d&events=splits (2013-12-31),,8
+SLB,SLB,2013Q4,2013-12-31,분기말 상장주식수,1307330369,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/87347/000156459014000090/,dei:EntityCommonStockSharesOutstanding 클래스 합,8
+SLB,SLB,2013Q4,2013-12-31,분기말 시가총액,117803539551,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/SLB?interval=1d&events=splits (2013-12-31) ; https://www.sec.gov/Archives/edgar/data/87347/000156459014000090/,종가 90.11 × 주식수 1307330369,8
+SLB,SLB,2014Q1,2014-03-31,분기별 매출액,11239000000,USD,공시,https://www.sec.gov/Archives/edgar/data/87347/000156459014001564/,,8
+SLB,SLB,2014Q1,2014-03-31,분기별 영업이익,미확인,USD,미확인,SEC companyfacts CIK0000087347: 해당 보고서에 OperatingIncomeLoss 태그 없음(영업이익 미공시) ; https://www.sec.gov/Archives/edgar/data/87347/000156459014001564/,,8
+SLB,SLB,2014Q1,2014-03-31,분기별 당기순이익(지배),1592000000,USD,공시,https://www.sec.gov/Archives/edgar/data/87347/000156459014001564/,,8
+SLB,SLB,2014Q1,2014-03-31,분기별 영업활동현금흐름,1635000000,USD,공시,https://www.sec.gov/Archives/edgar/data/87347/000156459014001564/,,8
+SLB,SLB,2014Q1,2014-03-31,분기말 자산총계,66717000000,USD,공시,https://www.sec.gov/Archives/edgar/data/87347/000156459014001564/,,8
+SLB,SLB,2014Q1,2014-03-31,분기말 부채총계,26537000000,USD,공시,https://www.sec.gov/Archives/edgar/data/87347/000156459014001564/,,8
+SLB,SLB,2014Q1,2014-03-31,분기말 총자본(자기자본),40180000000,USD,공시,https://www.sec.gov/Archives/edgar/data/87347/000156459014001564/,,8
+SLB,SLB,2014Q1,2014-03-31,분기말 지배지분 자본,40004000000,USD,공시,https://www.sec.gov/Archives/edgar/data/87347/000156459014001564/,,8
+SLB,SLB,2014Q1,2014-03-31,분기말 종가,97.5,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/SLB?interval=1d&events=splits (2014-03-31),,8
+SLB,SLB,2014Q1,2014-03-31,분기말 상장주식수,1302192028,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/87347/000156459014001564/,dei:EntityCommonStockSharesOutstanding 클래스 합,8
+SLB,SLB,2014Q1,2014-03-31,분기말 시가총액,126963722730,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/SLB?interval=1d&events=splits (2014-03-31) ; https://www.sec.gov/Archives/edgar/data/87347/000156459014001564/,종가 97.5 × 주식수 1302192028,8
+SLB,SLB,2014Q2,2014-06-30,분기별 매출액,12054000000,USD,공시,https://www.sec.gov/Archives/edgar/data/87347/000156459014002860/,,8
+SLB,SLB,2014Q2,2014-06-30,분기별 영업이익,미확인,USD,미확인,SEC companyfacts CIK0000087347: 해당 보고서에 OperatingIncomeLoss 태그 없음(영업이익 미공시) ; https://www.sec.gov/Archives/edgar/data/87347/000156459014002860/,,8
+SLB,SLB,2014Q2,2014-06-30,분기별 당기순이익(지배),1595000000,USD,공시,https://www.sec.gov/Archives/edgar/data/87347/000156459014002860/,,8
+SLB,SLB,2014Q2,2014-06-30,분기별 영업활동현금흐름,2584000000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/87347/000156459014002860/ ; https://www.sec.gov/Archives/edgar/data/87347/000156459014001564/,누적 4219000000 − 직전누적 1635000000 (시작 2014-01-01),8
+SLB,SLB,2014Q2,2014-06-30,분기말 자산총계,68086000000,USD,공시,https://www.sec.gov/Archives/edgar/data/87347/000156459014002860/,,8
+SLB,SLB,2014Q2,2014-06-30,분기말 부채총계,27384000000,USD,공시,https://www.sec.gov/Archives/edgar/data/87347/000156459014002860/,,8
+SLB,SLB,2014Q2,2014-06-30,분기말 총자본(자기자본),40702000000,USD,공시,https://www.sec.gov/Archives/edgar/data/87347/000156459014002860/,,8
+SLB,SLB,2014Q2,2014-06-30,분기말 지배지분 자본,40536000000,USD,공시,https://www.sec.gov/Archives/edgar/data/87347/000156459014002860/,,8
+SLB,SLB,2014Q2,2014-06-30,분기말 종가,117.95,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/SLB?interval=1d&events=splits (2014-06-30),,8
+SLB,SLB,2014Q2,2014-06-30,분기말 상장주식수,1296436308,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/87347/000156459014002860/,dei:EntityCommonStockSharesOutstanding 클래스 합,8
+SLB,SLB,2014Q2,2014-06-30,분기말 시가총액,152914662529,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/SLB?interval=1d&events=splits (2014-06-30) ; https://www.sec.gov/Archives/edgar/data/87347/000156459014002860/,종가 117.95 × 주식수 1296436308,8
+SLB,SLB,2014Q3,2014-09-30,분기별 매출액,12646000000,USD,공시,https://www.sec.gov/Archives/edgar/data/87347/000156459014004404/,,8
+SLB,SLB,2014Q3,2014-09-30,분기별 영업이익,미확인,USD,미확인,SEC companyfacts CIK0000087347: 해당 보고서에 OperatingIncomeLoss 태그 없음(영업이익 미공시) ; https://www.sec.gov/Archives/edgar/data/87347/000156459014004404/,,8
+SLB,SLB,2014Q3,2014-09-30,분기별 당기순이익(지배),1949000000,USD,공시,https://www.sec.gov/Archives/edgar/data/87347/000156459014004404/,,8
+SLB,SLB,2014Q3,2014-09-30,분기별 영업활동현금흐름,3063000000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/87347/000156459014004404/ ; https://www.sec.gov/Archives/edgar/data/87347/000156459014002860/,누적 7282000000 − 직전누적 4219000000 (시작 2014-01-01),8
+SLB,SLB,2014Q3,2014-09-30,분기말 자산총계,68320000000,USD,공시,https://www.sec.gov/Archives/edgar/data/87347/000156459014004404/,,8
+SLB,SLB,2014Q3,2014-09-30,분기말 부채총계,27633000000,USD,공시,https://www.sec.gov/Archives/edgar/data/87347/000156459014004404/,,8
+SLB,SLB,2014Q3,2014-09-30,분기말 총자본(자기자본),40687000000,USD,공시,https://www.sec.gov/Archives/edgar/data/87347/000156459014004404/,,8
+SLB,SLB,2014Q3,2014-09-30,분기말 지배지분 자본,40505000000,USD,공시,https://www.sec.gov/Archives/edgar/data/87347/000156459014004404/,,8
+SLB,SLB,2014Q3,2014-09-30,분기말 종가,101.69,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/SLB?interval=1d&events=splits (2014-09-30),,8
+SLB,SLB,2014Q3,2014-09-30,분기말 상장주식수,1286793905,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/87347/000156459014004404/,dei:EntityCommonStockSharesOutstanding 클래스 합,8
+SLB,SLB,2014Q3,2014-09-30,분기말 시가총액,130854072199,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/SLB?interval=1d&events=splits (2014-09-30) ; https://www.sec.gov/Archives/edgar/data/87347/000156459014004404/,종가 101.69 × 주식수 1286793905,8
+SLB,SLB,2014Q4,2014-12-31,분기별 매출액,12641000000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/87347/000156459015000337/ ; https://www.sec.gov/Archives/edgar/data/87347/000156459014004404/,연간 48580000000 − 9개월누적 35939000000 (Revenues),8
+SLB,SLB,2014Q4,2014-12-31,분기별 영업이익,미확인,USD,미확인,SEC companyfacts CIK0000087347: 해당 보고서에 OperatingIncomeLoss 태그 없음(영업이익 미공시) ; https://www.sec.gov/Archives/edgar/data/87347/000156459015000337/,,8
+SLB,SLB,2014Q4,2014-12-31,분기별 당기순이익(지배),302000000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/87347/000156459015000337/ ; https://www.sec.gov/Archives/edgar/data/87347/000156459014004404/,연간 5438000000 − 9개월누적 5136000000 (NetIncomeLoss),8
+SLB,SLB,2014Q4,2014-12-31,분기별 영업활동현금흐름,3913000000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/87347/000156459015000337/ ; https://www.sec.gov/Archives/edgar/data/87347/000156459014004404/,누적 11195000000 − 직전누적 7282000000 (시작 2014-01-01),8
+SLB,SLB,2014Q4,2014-12-31,분기말 자산총계,66904000000,USD,공시,https://www.sec.gov/Archives/edgar/data/87347/000156459015000337/,,8
+SLB,SLB,2014Q4,2014-12-31,분기말 부채총계,28855000000,USD,공시,https://www.sec.gov/Archives/edgar/data/87347/000156459015000337/,,8
+SLB,SLB,2014Q4,2014-12-31,분기말 총자본(자기자본),38049000000,USD,공시,https://www.sec.gov/Archives/edgar/data/87347/000156459015000337/,,8
+SLB,SLB,2014Q4,2014-12-31,분기말 지배지분 자본,37850000000,USD,공시,https://www.sec.gov/Archives/edgar/data/87347/000156459015000337/,,8
+SLB,SLB,2014Q4,2014-12-31,분기말 종가,85.41,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/SLB?interval=1d&events=splits (2014-12-31),,8
+SLB,SLB,2014Q4,2014-12-31,분기말 상장주식수,1275312404,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/87347/000156459015000337/,dei:EntityCommonStockSharesOutstanding 클래스 합,8
+SLB,SLB,2014Q4,2014-12-31,분기말 시가총액,108924432426,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/SLB?interval=1d&events=splits (2014-12-31) ; https://www.sec.gov/Archives/edgar/data/87347/000156459015000337/,종가 85.41 × 주식수 1275312404,8
+SLB,SLB,2015Q1,2015-03-31,분기별 매출액,10248000000,USD,공시,https://www.sec.gov/Archives/edgar/data/87347/000156459015002749/,,8
+SLB,SLB,2015Q1,2015-03-31,분기별 영업이익,1993000000,USD,공시(후속 보고서 비교기간),https://www.sec.gov/Archives/edgar/data/87347/000156459016016687/,OperatingIncomeLoss ; 그 분기 보고서에 연결 총계가 없어 2016-04-27 제출본의 비교기간에서 읽었다,8
+SLB,SLB,2015Q1,2015-03-31,분기별 당기순이익(지배),975000000,USD,공시,https://www.sec.gov/Archives/edgar/data/87347/000156459015002749/,,8
+SLB,SLB,2015Q1,2015-03-31,분기별 영업활동현금흐름,1770000000,USD,공시,https://www.sec.gov/Archives/edgar/data/87347/000156459015002749/,,8
+SLB,SLB,2015Q1,2015-03-31,분기말 자산총계,65411000000,USD,공시,https://www.sec.gov/Archives/edgar/data/87347/000156459015002749/,,8
+SLB,SLB,2015Q1,2015-03-31,분기말 부채총계,27545000000,USD,공시,https://www.sec.gov/Archives/edgar/data/87347/000156459015002749/,,8
+SLB,SLB,2015Q1,2015-03-31,분기말 총자본(자기자본),37866000000,USD,공시,https://www.sec.gov/Archives/edgar/data/87347/000156459015002749/,,8
+SLB,SLB,2015Q1,2015-03-31,분기말 지배지분 자본,37656000000,USD,공시,https://www.sec.gov/Archives/edgar/data/87347/000156459015002749/,,8
+SLB,SLB,2015Q1,2015-03-31,분기말 종가,83.44,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/SLB?interval=1d&events=splits (2015-03-31),,8
+SLB,SLB,2015Q1,2015-03-31,분기말 상장주식수,1269726824,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/87347/000156459015002749/,dei:EntityCommonStockSharesOutstanding 클래스 합,8
+SLB,SLB,2015Q1,2015-03-31,분기말 시가총액,105946006195,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/SLB?interval=1d&events=splits (2015-03-31) ; https://www.sec.gov/Archives/edgar/data/87347/000156459015002749/,종가 83.44 × 주식수 1269726824,8
+SLB,SLB,2015Q2,2015-06-30,분기별 매출액,9010000000,USD,공시,https://www.sec.gov/Archives/edgar/data/87347/000156459015005555/,,8
+SLB,SLB,2015Q2,2015-06-30,분기별 영업이익,1708000000,USD,공시(후속 보고서 비교기간),https://www.sec.gov/Archives/edgar/data/87347/000156459016021567/,OperatingIncomeLoss ; 그 분기 보고서에 연결 총계가 없어 2016-07-27 제출본의 비교기간에서 읽었다,8
+SLB,SLB,2015Q2,2015-06-30,분기별 당기순이익(지배),1124000000,USD,공시,https://www.sec.gov/Archives/edgar/data/87347/000156459015005555/,,8
+SLB,SLB,2015Q2,2015-06-30,분기별 영업활동현금흐름,2314000000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/87347/000156459015005555/ ; https://www.sec.gov/Archives/edgar/data/87347/000156459015002749/,누적 4084000000 − 직전누적 1770000000 (시작 2015-01-01),8
+SLB,SLB,2015Q2,2015-06-30,분기말 자산총계,64753000000,USD,공시,https://www.sec.gov/Archives/edgar/data/87347/000156459015005555/,,8
+SLB,SLB,2015Q2,2015-06-30,분기말 부채총계,26568000000,USD,공시,https://www.sec.gov/Archives/edgar/data/87347/000156459015005555/,,8
+SLB,SLB,2015Q2,2015-06-30,분기말 총자본(자기자본),38185000000,USD,공시,https://www.sec.gov/Archives/edgar/data/87347/000156459015005555/,,8
+SLB,SLB,2015Q2,2015-06-30,분기말 지배지분 자본,37965000000,USD,공시,https://www.sec.gov/Archives/edgar/data/87347/000156459015005555/,,8
+SLB,SLB,2015Q2,2015-06-30,분기말 종가,86.19,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/SLB?interval=1d&events=splits (2015-06-30),,8
+SLB,SLB,2015Q2,2015-06-30,분기말 상장주식수,1265449047,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/87347/000156459015005555/,dei:EntityCommonStockSharesOutstanding 클래스 합,8
+SLB,SLB,2015Q2,2015-06-30,분기말 시가총액,109069053361,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/SLB?interval=1d&events=splits (2015-06-30) ; https://www.sec.gov/Archives/edgar/data/87347/000156459015005555/,종가 86.19 × 주식수 1265449047,8
+SLB,SLB,2015Q3,2015-09-30,분기별 매출액,8472000000,USD,공시,https://www.sec.gov/Archives/edgar/data/87347/000156459015008511/,,8
+SLB,SLB,2015Q3,2015-09-30,분기별 영업이익,1521000000,USD,공시(후속 보고서 비교기간),https://www.sec.gov/Archives/edgar/data/87347/000156459016026174/,OperatingIncomeLoss ; 그 분기 보고서에 연결 총계가 없어 2016-10-26 제출본의 비교기간에서 읽었다,8
+SLB,SLB,2015Q3,2015-09-30,분기별 당기순이익(지배),989000000,USD,공시,https://www.sec.gov/Archives/edgar/data/87347/000156459015008511/,,8
+SLB,SLB,2015Q3,2015-09-30,분기별 영업활동현금흐름,2543000000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/87347/000156459015008511/ ; https://www.sec.gov/Archives/edgar/data/87347/000156459015005555/,누적 6627000000 − 직전누적 4084000000 (시작 2015-01-01),8
+SLB,SLB,2015Q3,2015-09-30,분기말 자산총계,63342000000,USD,공시,https://www.sec.gov/Archives/edgar/data/87347/000156459015008511/,,8
+SLB,SLB,2015Q3,2015-09-30,분기말 부채총계,25163000000,USD,공시,https://www.sec.gov/Archives/edgar/data/87347/000156459015008511/,,8
+SLB,SLB,2015Q3,2015-09-30,분기말 총자본(자기자본),38179000000,USD,공시,https://www.sec.gov/Archives/edgar/data/87347/000156459015008511/,,8
+SLB,SLB,2015Q3,2015-09-30,분기말 지배지분 자본,37941000000,USD,공시,https://www.sec.gov/Archives/edgar/data/87347/000156459015008511/,,8
+SLB,SLB,2015Q3,2015-09-30,분기말 종가,68.97,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/SLB?interval=1d&events=splits (2015-09-30),,8
+SLB,SLB,2015Q3,2015-09-30,분기말 상장주식수,1261103708,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/87347/000156459015008511/,dei:EntityCommonStockSharesOutstanding 클래스 합,8
+SLB,SLB,2015Q3,2015-09-30,분기말 시가총액,86978322741,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/SLB?interval=1d&events=splits (2015-09-30) ; https://www.sec.gov/Archives/edgar/data/87347/000156459015008511/,종가 68.97 × 주식수 1261103708,8
+SLB,SLB,2015Q4,2015-12-31,분기별 매출액,7744000000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/87347/000156459016012009/ ; https://www.sec.gov/Archives/edgar/data/87347/000156459015008511/,연간 35475000000 − 9개월누적 27731000000 (Revenues),8
+SLB,SLB,2015Q4,2015-12-31,분기별 영업이익,1288000000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/87347/000156459016012009/ ; https://www.sec.gov/Archives/edgar/data/87347/000156459016026174/,연간 6510000000 − 9개월누적 5222000000 (OperatingIncomeLoss),8
+SLB,SLB,2015Q4,2015-12-31,분기별 당기순이익(지배),-1016000000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/87347/000156459016012009/ ; https://www.sec.gov/Archives/edgar/data/87347/000156459015008511/,연간 2072000000 − 9개월누적 3088000000 (NetIncomeLoss),8
+SLB,SLB,2015Q4,2015-12-31,분기별 영업활동현금흐름,2178000000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/87347/000156459016012009/ ; https://www.sec.gov/Archives/edgar/data/87347/000156459015008511/,누적 8805000000 − 직전누적 6627000000 (시작 2015-01-01),8
+SLB,SLB,2015Q4,2015-12-31,분기말 자산총계,68005000000,USD,공시,https://www.sec.gov/Archives/edgar/data/87347/000156459016012009/,,8
+SLB,SLB,2015Q4,2015-12-31,분기말 부채총계,32100000000,USD,공시,https://www.sec.gov/Archives/edgar/data/87347/000156459016012009/,,8
+SLB,SLB,2015Q4,2015-12-31,분기말 총자본(자기자본),35905000000,USD,공시,https://www.sec.gov/Archives/edgar/data/87347/000156459016012009/,,8
+SLB,SLB,2015Q4,2015-12-31,분기말 지배지분 자본,35633000000,USD,공시,https://www.sec.gov/Archives/edgar/data/87347/000156459016012009/,,8
+SLB,SLB,2015Q4,2015-12-31,분기말 종가,69.75,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/SLB?interval=1d&events=splits (2015-12-31),,8
+SLB,SLB,2015Q4,2015-12-31,분기말 상장주식수,1256367980,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/87347/000156459016012009/,dei:EntityCommonStockSharesOutstanding 클래스 합,8
+SLB,SLB,2015Q4,2015-12-31,분기말 시가총액,87631666605,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/SLB?interval=1d&events=splits (2015-12-31) ; https://www.sec.gov/Archives/edgar/data/87347/000156459016012009/,종가 69.75 × 주식수 1256367980,8
+SLB,SLB,2016Q1,2016-03-31,분기별 매출액,6520000000,USD,공시,https://www.sec.gov/Archives/edgar/data/87347/000156459016016687/,,8
+SLB,SLB,2016Q1,2016-03-31,분기별 영업이익,901000000,USD,공시,https://www.sec.gov/Archives/edgar/data/87347/000156459016016687/,,8
+SLB,SLB,2016Q1,2016-03-31,분기별 당기순이익(지배),501000000,USD,공시,https://www.sec.gov/Archives/edgar/data/87347/000156459016016687/,,8
+SLB,SLB,2016Q1,2016-03-31,분기별 영업활동현금흐름,1210000000,USD,공시,https://www.sec.gov/Archives/edgar/data/87347/000156459016016687/,,8
+SLB,SLB,2016Q1,2016-03-31,분기말 자산총계,69141000000,USD,공시,https://www.sec.gov/Archives/edgar/data/87347/000156459016016687/,,8
+SLB,SLB,2016Q1,2016-03-31,분기말 부채총계,33479000000,USD,공시,https://www.sec.gov/Archives/edgar/data/87347/000156459016016687/,,8
+SLB,SLB,2016Q1,2016-03-31,분기말 총자본(자기자본),35662000000,USD,공시,https://www.sec.gov/Archives/edgar/data/87347/000156459016016687/,,8
+SLB,SLB,2016Q1,2016-03-31,분기말 지배지분 자본,35359000000,USD,공시,https://www.sec.gov/Archives/edgar/data/87347/000156459016016687/,,8
+SLB,SLB,2016Q1,2016-03-31,분기말 종가,73.75,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/SLB?interval=1d&events=splits (2016-03-31),,8
+SLB,SLB,2016Q1,2016-03-31,분기말 상장주식수,1252334169,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/87347/000156459016016687/,dei:EntityCommonStockSharesOutstanding 클래스 합,8
+SLB,SLB,2016Q1,2016-03-31,분기말 시가총액,92359644964,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/SLB?interval=1d&events=splits (2016-03-31) ; https://www.sec.gov/Archives/edgar/data/87347/000156459016016687/,종가 73.75 × 주식수 1252334169,8
+SLB,SLB,2016Q2,2016-06-30,분기별 매출액,7164000000,USD,공시,https://www.sec.gov/Archives/edgar/data/87347/000156459016021567/,,8
+SLB,SLB,2016Q2,2016-06-30,분기별 영업이익,747000000,USD,공시,https://www.sec.gov/Archives/edgar/data/87347/000156459016021567/,,8
+SLB,SLB,2016Q2,2016-06-30,분기별 당기순이익(지배),-2160000000,USD,공시,https://www.sec.gov/Archives/edgar/data/87347/000156459016021567/,,8
+SLB,SLB,2016Q2,2016-06-30,분기별 영업활동현금흐름,1632000000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/87347/000156459016021567/ ; https://www.sec.gov/Archives/edgar/data/87347/000156459016016687/,누적 2842000000 − 직전누적 1210000000 (시작 2016-01-01),8
+SLB,SLB,2016Q2,2016-06-30,분기말 자산총계,81171000000,USD,공시,https://www.sec.gov/Archives/edgar/data/87347/000156459016021567/,,8
+SLB,SLB,2016Q2,2016-06-30,분기말 부채총계,38192000000,USD,공시,https://www.sec.gov/Archives/edgar/data/87347/000156459016021567/,,8
+SLB,SLB,2016Q2,2016-06-30,분기말 총자본(자기자본),42979000000,USD,공시,https://www.sec.gov/Archives/edgar/data/87347/000156459016021567/,,8
+SLB,SLB,2016Q2,2016-06-30,분기말 지배지분 자본,42610000000,USD,공시,https://www.sec.gov/Archives/edgar/data/87347/000156459016021567/,,8
+SLB,SLB,2016Q2,2016-06-30,분기말 종가,79.08,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/SLB?interval=1d&events=splits (2016-06-30),,8
+SLB,SLB,2016Q2,2016-06-30,분기말 상장주식수,1390693530,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/87347/000156459016021567/,dei:EntityCommonStockSharesOutstanding 클래스 합,8
+SLB,SLB,2016Q2,2016-06-30,분기말 시가총액,109976044352,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/SLB?interval=1d&events=splits (2016-06-30) ; https://www.sec.gov/Archives/edgar/data/87347/000156459016021567/,종가 79.08 × 주식수 1390693530,8
+SLB,SLB,2016Q3,2016-09-30,분기별 매출액,7019000000,USD,공시,https://www.sec.gov/Archives/edgar/data/87347/000156459016026174/,,8
+SLB,SLB,2016Q3,2016-09-30,분기별 영업이익,815000000,USD,공시,https://www.sec.gov/Archives/edgar/data/87347/000156459016026174/,,8
+SLB,SLB,2016Q3,2016-09-30,분기별 당기순이익(지배),176000000,USD,공시,https://www.sec.gov/Archives/edgar/data/87347/000156459016026174/,,8
+SLB,SLB,2016Q3,2016-09-30,분기별 영업활동현금흐름,1406000000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/87347/000156459016026174/ ; https://www.sec.gov/Archives/edgar/data/87347/000156459016021567/,누적 4248000000 − 직전누적 2842000000 (시작 2016-01-01),8
+SLB,SLB,2016Q3,2016-09-30,분기말 자산총계,80594000000,USD,공시,https://www.sec.gov/Archives/edgar/data/87347/000156459016026174/,,8
+SLB,SLB,2016Q3,2016-09-30,분기말 부채총계,38020000000,USD,공시,https://www.sec.gov/Archives/edgar/data/87347/000156459016026174/,,8
+SLB,SLB,2016Q3,2016-09-30,분기말 총자본(자기자본),42574000000,USD,공시,https://www.sec.gov/Archives/edgar/data/87347/000156459016026174/,,8
+SLB,SLB,2016Q3,2016-09-30,분기말 지배지분 자본,42234000000,USD,공시,https://www.sec.gov/Archives/edgar/data/87347/000156459016026174/,,8
+SLB,SLB,2016Q3,2016-09-30,분기말 종가,78.64,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/SLB?interval=1d&events=splits (2016-09-30),,8
+SLB,SLB,2016Q3,2016-09-30,분기말 상장주식수,1391308399,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/87347/000156459016026174/,dei:EntityCommonStockSharesOutstanding 클래스 합,8
+SLB,SLB,2016Q3,2016-09-30,분기말 시가총액,109412492497,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/SLB?interval=1d&events=splits (2016-09-30) ; https://www.sec.gov/Archives/edgar/data/87347/000156459016026174/,종가 78.64 × 주식수 1391308399,8
+SLB,SLB,2016Q4,2016-12-31,분기별 매출액,7107000000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/87347/000156459017000589/ ; https://www.sec.gov/Archives/edgar/data/87347/000156459016026174/,연간 27810000000 − 9개월누적 20703000000 (Revenues),8
+SLB,SLB,2016Q4,2016-12-31,분기별 영업이익,811000000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/87347/000156459017000589/ ; https://www.sec.gov/Archives/edgar/data/87347/000156459016026174/,연간 3273000000 − 9개월누적 2462000000 (OperatingIncomeLoss),8
+SLB,SLB,2016Q4,2016-12-31,분기별 당기순이익(지배),-205000000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/87347/000156459017000589/ ; https://www.sec.gov/Archives/edgar/data/87347/000156459016026174/,연간 -1687000000 − 9개월누적 -1482000000 (NetIncomeLoss),8
+SLB,SLB,2016Q4,2016-12-31,분기별 영업활동현금흐름,2013000000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/87347/000156459017000589/ ; https://www.sec.gov/Archives/edgar/data/87347/000156459016026174/,누적 6261000000 − 직전누적 4248000000 (시작 2016-01-01),8
+SLB,SLB,2016Q4,2016-12-31,분기말 자산총계,77956000000,USD,공시,https://www.sec.gov/Archives/edgar/data/87347/000156459017000589/,,8
+SLB,SLB,2016Q4,2016-12-31,분기말 부채총계,36427000000,USD,공시,https://www.sec.gov/Archives/edgar/data/87347/000156459017000589/,,8
+SLB,SLB,2016Q4,2016-12-31,분기말 총자본(자기자본),41529000000,USD,공시,https://www.sec.gov/Archives/edgar/data/87347/000156459017000589/,,8
+SLB,SLB,2016Q4,2016-12-31,분기말 지배지분 자본,41078000000,USD,공시,https://www.sec.gov/Archives/edgar/data/87347/000156459017000589/,,8
+SLB,SLB,2016Q4,2016-12-30,분기말 종가,83.95,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/SLB?interval=1d&events=splits (2016-12-30),,8
+SLB,SLB,2016Q4,2016-12-31,분기말 상장주식수,1391475510,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/87347/000156459017000589/,dei:EntityCommonStockSharesOutstanding 클래스 합,8
+SLB,SLB,2016Q4,2016-12-30,분기말 시가총액,116814369064,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/SLB?interval=1d&events=splits (2016-12-30) ; https://www.sec.gov/Archives/edgar/data/87347/000156459017000589/,종가 83.95 × 주식수 1391475510,8
+SLB,SLB,2017Q1,2017-03-31,분기별 매출액,6894000000,USD,공시,https://www.sec.gov/Archives/edgar/data/87347/000156459017007214/,,8
+SLB,SLB,2017Q1,2017-03-31,분기별 영업이익,757000000,USD,공시,https://www.sec.gov/Archives/edgar/data/87347/000156459017007214/,,8
+SLB,SLB,2017Q1,2017-03-31,분기별 당기순이익(지배),279000000,USD,공시,https://www.sec.gov/Archives/edgar/data/87347/000156459017007214/,,8
+SLB,SLB,2017Q1,2017-03-31,분기별 영업활동현금흐름,656000000,USD,공시,https://www.sec.gov/Archives/edgar/data/87347/000156459017007214/,,8
+SLB,SLB,2017Q1,2017-03-31,분기말 자산총계,76175000000,USD,공시,https://www.sec.gov/Archives/edgar/data/87347/000156459017007214/,,8
+SLB,SLB,2017Q1,2017-03-31,분기말 부채총계,35121000000,USD,공시,https://www.sec.gov/Archives/edgar/data/87347/000156459017007214/,,8
+SLB,SLB,2017Q1,2017-03-31,분기말 총자본(자기자본),41054000000,USD,공시,https://www.sec.gov/Archives/edgar/data/87347/000156459017007214/,,8
+SLB,SLB,2017Q1,2017-03-31,분기말 지배지분 자본,40606000000,USD,공시,https://www.sec.gov/Archives/edgar/data/87347/000156459017007214/,,8
+SLB,SLB,2017Q1,2017-03-31,분기말 종가,78.1,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/SLB?interval=1d&events=splits (2017-03-31),,8
+SLB,SLB,2017Q1,2017-03-31,분기말 상장주식수,1389476854,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/87347/000156459017007214/,dei:EntityCommonStockSharesOutstanding 클래스 합,8
+SLB,SLB,2017Q1,2017-03-31,분기말 시가총액,108518142297,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/SLB?interval=1d&events=splits (2017-03-31) ; https://www.sec.gov/Archives/edgar/data/87347/000156459017007214/,종가 78.1 × 주식수 1389476854,8
+SLB,SLB,2017Q2,2017-06-30,분기별 매출액,7462000000,USD,공시,https://www.sec.gov/Archives/edgar/data/87347/000156459017014007/,,8
+SLB,SLB,2017Q2,2017-06-30,분기별 영업이익,950000000,USD,공시,https://www.sec.gov/Archives/edgar/data/87347/000156459017014007/,,8
+SLB,SLB,2017Q2,2017-06-30,분기별 당기순이익(지배),-74000000,USD,공시,https://www.sec.gov/Archives/edgar/data/87347/000156459017014007/,,8
+SLB,SLB,2017Q2,2017-06-30,분기별 영업활동현금흐름,858000000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/87347/000156459017014007/ ; https://www.sec.gov/Archives/edgar/data/87347/000156459017007214/,누적 1514000000 − 직전누적 656000000 (시작 2017-01-01),8
+SLB,SLB,2017Q2,2017-06-30,분기말 자산총계,74862000000,USD,공시,https://www.sec.gov/Archives/edgar/data/87347/000156459017014007/,,8
+SLB,SLB,2017Q2,2017-06-30,분기말 부채총계,34910000000,USD,공시,https://www.sec.gov/Archives/edgar/data/87347/000156459017014007/,,8
+SLB,SLB,2017Q2,2017-06-30,분기말 총자본(자기자본),39952000000,USD,공시,https://www.sec.gov/Archives/edgar/data/87347/000156459017014007/,,8
+SLB,SLB,2017Q2,2017-06-30,분기말 지배지분 자본,39520000000,USD,공시,https://www.sec.gov/Archives/edgar/data/87347/000156459017014007/,,8
+SLB,SLB,2017Q2,2017-06-30,분기말 종가,65.84,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/SLB?interval=1d&events=splits (2017-06-30),,8
+SLB,SLB,2017Q2,2017-06-30,분기말 상장주식수,1384524170,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/87347/000156459017014007/,dei:EntityCommonStockSharesOutstanding 클래스 합,8
+SLB,SLB,2017Q2,2017-06-30,분기말 시가총액,91157071353,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/SLB?interval=1d&events=splits (2017-06-30) ; https://www.sec.gov/Archives/edgar/data/87347/000156459017014007/,종가 65.84 × 주식수 1384524170,8
+SLB,SLB,2017Q3,2017-09-30,분기별 매출액,7905000000,USD,공시,https://www.sec.gov/Archives/edgar/data/87347/000156459017019977/,,8
+SLB,SLB,2017Q3,2017-09-30,분기별 영업이익,1059000000,USD,공시,https://www.sec.gov/Archives/edgar/data/87347/000156459017019977/,,8
+SLB,SLB,2017Q3,2017-09-30,분기별 당기순이익(지배),545000000,USD,공시,https://www.sec.gov/Archives/edgar/data/87347/000156459017019977/,,8
+SLB,SLB,2017Q3,2017-09-30,분기별 영업활동현금흐름,1898000000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/87347/000156459017019977/ ; https://www.sec.gov/Archives/edgar/data/87347/000156459017014007/,누적 3412000000 − 직전누적 1514000000 (시작 2017-01-01),8
+SLB,SLB,2017Q3,2017-09-30,분기말 자산총계,73569000000,USD,공시,https://www.sec.gov/Archives/edgar/data/87347/000156459017019977/,,8
+SLB,SLB,2017Q3,2017-09-30,분기말 부채총계,33559000000,USD,공시,https://www.sec.gov/Archives/edgar/data/87347/000156459017019977/,,8
+SLB,SLB,2017Q3,2017-09-30,분기말 총자본(자기자본),40010000000,USD,공시,https://www.sec.gov/Archives/edgar/data/87347/000156459017019977/,,8
+SLB,SLB,2017Q3,2017-09-30,분기말 지배지분 자본,39573000000,USD,공시,https://www.sec.gov/Archives/edgar/data/87347/000156459017019977/,,8
+SLB,SLB,2017Q3,2017-09-29,분기말 종가,69.76,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/SLB?interval=1d&events=splits (2017-09-29),,8
+SLB,SLB,2017Q3,2017-09-30,분기말 상장주식수,1385261690,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/87347/000156459017019977/,dei:EntityCommonStockSharesOutstanding 클래스 합,8
+SLB,SLB,2017Q3,2017-09-29,분기말 시가총액,96635855494,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/SLB?interval=1d&events=splits (2017-09-29) ; https://www.sec.gov/Archives/edgar/data/87347/000156459017019977/,종가 69.76 × 주식수 1385261690,8
+SLB,SLB,2017Q4,2017-12-31,분기별 매출액,8179000000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/87347/000156459018000821/ ; https://www.sec.gov/Archives/edgar/data/87347/000156459017019977/,연간 30440000000 − 9개월누적 22261000000 (Revenues),8
+SLB,SLB,2017Q4,2017-12-31,분기별 영업이익,1155000000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/87347/000156459018000821/ ; https://www.sec.gov/Archives/edgar/data/87347/000156459017019977/,연간 3921000000 − 9개월누적 2766000000 (OperatingIncomeLoss),8
+SLB,SLB,2017Q4,2017-12-31,분기별 당기순이익(지배),-2254000000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/87347/000156459018000821/ ; https://www.sec.gov/Archives/edgar/data/87347/000156459017019977/,연간 -1505000000 − 9개월누적 749000000 (NetIncomeLoss),8
+SLB,SLB,2017Q4,2017-12-31,분기별 영업활동현금흐름,2251000000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/87347/000156459018000821/ ; https://www.sec.gov/Archives/edgar/data/87347/000156459017019977/,누적 5663000000 − 직전누적 3412000000 (시작 2017-01-01),8
+SLB,SLB,2017Q4,2017-12-31,분기말 자산총계,71987000000,USD,공시,https://www.sec.gov/Archives/edgar/data/87347/000156459018000821/,,8
+SLB,SLB,2017Q4,2017-12-31,분기말 부채총계,34726000000,USD,공시,https://www.sec.gov/Archives/edgar/data/87347/000156459018000821/,,8
+SLB,SLB,2017Q4,2017-12-31,분기말 총자본(자기자본),37261000000,USD,공시,https://www.sec.gov/Archives/edgar/data/87347/000156459018000821/,,8
+SLB,SLB,2017Q4,2017-12-31,분기말 지배지분 자본,36842000000,USD,공시,https://www.sec.gov/Archives/edgar/data/87347/000156459018000821/,,8
+SLB,SLB,2017Q4,2017-12-29,분기말 종가,67.39,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/SLB?interval=1d&events=splits (2017-12-29),,8
+SLB,SLB,2017Q4,2017-12-31,분기말 상장주식수,1383932776,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/87347/000156459018000821/,dei:EntityCommonStockSharesOutstanding 클래스 합,8
+SLB,SLB,2017Q4,2017-12-29,분기말 시가총액,93263229775,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/SLB?interval=1d&events=splits (2017-12-29) ; https://www.sec.gov/Archives/edgar/data/87347/000156459018000821/,종가 67.39 × 주식수 1383932776,8
+SLB,SLB,2018Q1,2018-03-31,분기별 매출액,7829000000,USD,공시,https://www.sec.gov/Archives/edgar/data/87347/000156459018008981/,,8
+SLB,SLB,2018Q1,2018-03-31,분기별 영업이익,974000000,USD,공시,https://www.sec.gov/Archives/edgar/data/87347/000156459018008981/,,8
+SLB,SLB,2018Q1,2018-03-31,분기별 당기순이익(지배),525000000,USD,공시,https://www.sec.gov/Archives/edgar/data/87347/000156459018008981/,,8
+SLB,SLB,2018Q1,2018-03-31,분기별 영업활동현금흐름,568000000,USD,공시,https://www.sec.gov/Archives/edgar/data/87347/000156459018008981/,,8
+SLB,SLB,2018Q1,2018-03-31,분기말 자산총계,71478000000,USD,공시,https://www.sec.gov/Archives/edgar/data/87347/000156459018008981/,,8
+SLB,SLB,2018Q1,2018-03-31,분기말 부채총계,34152000000,USD,공시,https://www.sec.gov/Archives/edgar/data/87347/000156459018008981/,,8
+SLB,SLB,2018Q1,2018-03-31,분기말 총자본(자기자본),37326000000,USD,공시,https://www.sec.gov/Archives/edgar/data/87347/000156459018008981/,,8
+SLB,SLB,2018Q1,2018-03-31,분기말 지배지분 자본,36924000000,USD,공시,https://www.sec.gov/Archives/edgar/data/87347/000156459018008981/,,8
+SLB,SLB,2018Q1,2018-03-29,분기말 종가,64.78,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/SLB?interval=1d&events=splits (2018-03-29),,8
+SLB,SLB,2018Q1,2018-03-31,분기말 상장주식수,1385133215,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/87347/000156459018008981/,dei:EntityCommonStockSharesOutstanding 클래스 합,8
+SLB,SLB,2018Q1,2018-03-29,분기말 시가총액,89728929668,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/SLB?interval=1d&events=splits (2018-03-29) ; https://www.sec.gov/Archives/edgar/data/87347/000156459018008981/,종가 64.78 × 주식수 1385133215,8
+SLB,SLB,2018Q2,2018-06-30,분기별 매출액,8303000000,USD,공시,https://www.sec.gov/Archives/edgar/data/87347/000156459018017379/,,8
+SLB,SLB,2018Q2,2018-06-30,분기별 영업이익,1094000000,USD,공시,https://www.sec.gov/Archives/edgar/data/87347/000156459018017379/,,8
+SLB,SLB,2018Q2,2018-06-30,분기별 당기순이익(지배),430000000,USD,공시,https://www.sec.gov/Archives/edgar/data/87347/000156459018017379/,,8
+SLB,SLB,2018Q2,2018-06-30,분기별 영업활동현금흐름,987000000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/87347/000156459018017379/ ; https://www.sec.gov/Archives/edgar/data/87347/000156459018008981/,누적 1555000000 − 직전누적 568000000 (시작 2018-01-01),8
+SLB,SLB,2018Q2,2018-06-30,분기말 자산총계,70156000000,USD,공시,https://www.sec.gov/Archives/edgar/data/87347/000156459018017379/,,8
+SLB,SLB,2018Q2,2018-06-30,분기말 부채총계,33259000000,USD,공시,https://www.sec.gov/Archives/edgar/data/87347/000156459018017379/,,8
+SLB,SLB,2018Q2,2018-06-30,분기말 총자본(자기자본),36897000000,USD,공시,https://www.sec.gov/Archives/edgar/data/87347/000156459018017379/,,8
+SLB,SLB,2018Q2,2018-06-30,분기말 지배지분 자본,36484000000,USD,공시,https://www.sec.gov/Archives/edgar/data/87347/000156459018017379/,,8
+SLB,SLB,2018Q2,2018-06-29,분기말 종가,67.03,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/SLB?interval=1d&events=splits (2018-06-29),,8
+SLB,SLB,2018Q2,2018-06-30,분기말 상장주식수,1384118911,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/87347/000156459018017379/,dei:EntityCommonStockSharesOutstanding 클래스 합,8
+SLB,SLB,2018Q2,2018-06-29,분기말 시가총액,92777490604,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/SLB?interval=1d&events=splits (2018-06-29) ; https://www.sec.gov/Archives/edgar/data/87347/000156459018017379/,종가 67.03 × 주식수 1384118911,8
+SLB,SLB,2018Q3,2018-09-30,분기별 매출액,8504000000,USD,공시,https://www.sec.gov/Archives/edgar/data/87347/000156459018024846/,,8
+SLB,SLB,2018Q3,2018-09-30,분기별 영업이익,1152000000,USD,공시,https://www.sec.gov/Archives/edgar/data/87347/000156459018024846/,,8
+SLB,SLB,2018Q3,2018-09-30,분기별 당기순이익(지배),644000000,USD,공시,https://www.sec.gov/Archives/edgar/data/87347/000156459018024846/,,8
+SLB,SLB,2018Q3,2018-09-30,분기별 영업활동현금흐름,1827000000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/87347/000156459018024846/ ; https://www.sec.gov/Archives/edgar/data/87347/000156459018017379/,누적 3382000000 − 직전누적 1555000000 (시작 2018-01-01),8
+SLB,SLB,2018Q3,2018-09-30,분기말 자산총계,70046000000,USD,공시,https://www.sec.gov/Archives/edgar/data/87347/000156459018024846/,,8
+SLB,SLB,2018Q3,2018-09-30,분기말 부채총계,33098000000,USD,공시,https://www.sec.gov/Archives/edgar/data/87347/000156459018024846/,,8
+SLB,SLB,2018Q3,2018-09-30,분기말 총자본(자기자본),36948000000,USD,공시,https://www.sec.gov/Archives/edgar/data/87347/000156459018024846/,,8
+SLB,SLB,2018Q3,2018-09-30,분기말 지배지분 자본,36533000000,USD,공시,https://www.sec.gov/Archives/edgar/data/87347/000156459018024846/,,8
+SLB,SLB,2018Q3,2018-09-28,분기말 종가,60.92,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/SLB?interval=1d&events=splits (2018-09-28),,8
+SLB,SLB,2018Q3,2018-09-30,분기말 상장주식수,1384801810,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/87347/000156459018024846/,dei:EntityCommonStockSharesOutstanding 클래스 합,8
+SLB,SLB,2018Q3,2018-09-28,분기말 시가총액,84362126265,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/SLB?interval=1d&events=splits (2018-09-28) ; https://www.sec.gov/Archives/edgar/data/87347/000156459018024846/,종가 60.92 × 주식수 1384801810,8
+SLB,SLB,2018Q4,2018-12-31,분기별 매출액,8179000000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/87347/000156459019000928/ ; https://www.sec.gov/Archives/edgar/data/87347/000156459018024846/,연간 32815000000 − 9개월누적 24636000000 (RevenueFromContractWithCustomerExcludingAssessedTax),8
+SLB,SLB,2018Q4,2018-12-31,분기별 영업이익,967000000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/87347/000156459019000928/ ; https://www.sec.gov/Archives/edgar/data/87347/000156459018024846/,연간 4187000000 − 9개월누적 3220000000 (OperatingIncomeLoss),8
+SLB,SLB,2018Q4,2018-12-31,분기별 당기순이익(지배),539000000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/87347/000156459019000928/ ; https://www.sec.gov/Archives/edgar/data/87347/000156459018024846/,연간 2138000000 − 9개월누적 1599000000 (NetIncomeLoss),8
+SLB,SLB,2018Q4,2018-12-31,분기별 영업활동현금흐름,2331000000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/87347/000156459019000928/ ; https://www.sec.gov/Archives/edgar/data/87347/000156459018024846/,누적 5713000000 − 직전누적 3382000000 (시작 2018-01-01),8
+SLB,SLB,2018Q4,2018-12-31,분기말 자산총계,70507000000,USD,공시,https://www.sec.gov/Archives/edgar/data/87347/000156459019000928/,,8
+SLB,SLB,2018Q4,2018-12-31,분기말 부채총계,33921000000,USD,공시,https://www.sec.gov/Archives/edgar/data/87347/000156459019000928/,,8
+SLB,SLB,2018Q4,2018-12-31,분기말 총자본(자기자본),36586000000,USD,공시,https://www.sec.gov/Archives/edgar/data/87347/000156459019000928/,,8
+SLB,SLB,2018Q4,2018-12-31,분기말 지배지분 자본,36162000000,USD,공시,https://www.sec.gov/Archives/edgar/data/87347/000156459019000928/,,8
+SLB,SLB,2018Q4,2018-12-31,분기말 종가,36.08,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/SLB?interval=1d&events=splits (2018-12-31),,8
+SLB,SLB,2018Q4,2018-12-31,분기말 상장주식수,1382964324,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/87347/000156459019000928/,dei:EntityCommonStockSharesOutstanding 클래스 합,8
+SLB,SLB,2018Q4,2018-12-31,분기말 시가총액,49897352810,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/SLB?interval=1d&events=splits (2018-12-31) ; https://www.sec.gov/Archives/edgar/data/87347/000156459019000928/,종가 36.08 × 주식수 1382964324,8
+SLB,SLB,2019Q1,2019-03-31,분기별 매출액,7879000000,USD,공시,https://www.sec.gov/Archives/edgar/data/87347/000156459019012635/,,8
+SLB,SLB,2019Q1,2019-03-31,분기별 영업이익,908000000,USD,공시,https://www.sec.gov/Archives/edgar/data/87347/000156459019012635/,,8
+SLB,SLB,2019Q1,2019-03-31,분기별 당기순이익(지배),421000000,USD,공시,https://www.sec.gov/Archives/edgar/data/87347/000156459019012635/,,8
+SLB,SLB,2019Q1,2019-03-31,분기별 영업활동현금흐름,326000000,USD,공시,https://www.sec.gov/Archives/edgar/data/87347/000156459019012635/,,8
+SLB,SLB,2019Q1,2019-03-31,분기말 자산총계,70321000000,USD,공시,https://www.sec.gov/Archives/edgar/data/87347/000156459019012635/,,8
+SLB,SLB,2019Q1,2019-03-31,분기말 부채총계,33797000000,USD,공시,https://www.sec.gov/Archives/edgar/data/87347/000156459019012635/,,8
+SLB,SLB,2019Q1,2019-03-31,분기말 총자본(자기자본),36524000000,USD,공시,https://www.sec.gov/Archives/edgar/data/87347/000156459019012635/,,8
+SLB,SLB,2019Q1,2019-03-31,분기말 지배지분 자본,36103000000,USD,공시,https://www.sec.gov/Archives/edgar/data/87347/000156459019012635/,,8
+SLB,SLB,2019Q1,2019-03-29,분기말 종가,43.57,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/SLB?interval=1d&events=splits (2019-03-29),,8
+SLB,SLB,2019Q1,2019-03-31,분기말 상장주식수,1385122272,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/87347/000156459019012635/,dei:EntityCommonStockSharesOutstanding 클래스 합,8
+SLB,SLB,2019Q1,2019-03-29,분기말 시가총액,60349777391,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/SLB?interval=1d&events=splits (2019-03-29) ; https://www.sec.gov/Archives/edgar/data/87347/000156459019012635/,종가 43.57 × 주식수 1385122272,8
+SLB,SLB,2019Q2,2019-06-30,분기별 매출액,8269000000,USD,공시,https://www.sec.gov/Archives/edgar/data/87347/000156459019025739/,,8
+SLB,SLB,2019Q2,2019-06-30,분기별 영업이익,968000000,USD,공시,https://www.sec.gov/Archives/edgar/data/87347/000156459019025739/,,8
+SLB,SLB,2019Q2,2019-06-30,분기별 당기순이익(지배),492000000,USD,공시,https://www.sec.gov/Archives/edgar/data/87347/000156459019025739/,,8
+SLB,SLB,2019Q2,2019-06-30,분기별 영업활동현금흐름,1108000000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/87347/000156459019025739/ ; https://www.sec.gov/Archives/edgar/data/87347/000156459019012635/,누적 1434000000 − 직전누적 326000000 (시작 2019-01-01),8
+SLB,SLB,2019Q2,2019-06-30,분기말 자산총계,70591000000,USD,공시,https://www.sec.gov/Archives/edgar/data/87347/000156459019025739/,,8
+SLB,SLB,2019Q2,2019-06-30,분기말 부채총계,34318000000,USD,공시,https://www.sec.gov/Archives/edgar/data/87347/000156459019025739/,,8
+SLB,SLB,2019Q2,2019-06-30,분기말 총자본(자기자본),36273000000,USD,공시,https://www.sec.gov/Archives/edgar/data/87347/000156459019025739/,,8
+SLB,SLB,2019Q2,2019-06-30,분기말 지배지분 자본,35852000000,USD,공시,https://www.sec.gov/Archives/edgar/data/87347/000156459019025739/,,8
+SLB,SLB,2019Q2,2019-06-28,분기말 종가,39.74,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/SLB?interval=1d&events=splits (2019-06-28),,8
+SLB,SLB,2019Q2,2019-06-30,분기말 상장주식수,1383005073,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/87347/000156459019025739/,dei:EntityCommonStockSharesOutstanding 클래스 합,8
+SLB,SLB,2019Q2,2019-06-28,분기말 시가총액,54960621601,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/SLB?interval=1d&events=splits (2019-06-28) ; https://www.sec.gov/Archives/edgar/data/87347/000156459019025739/,종가 39.74 × 주식수 1383005073,8
+SLB,SLB,2019Q3,2019-09-30,분기별 매출액,8541000000,USD,공시,https://www.sec.gov/Archives/edgar/data/87347/000156459019037505/,,8
+SLB,SLB,2019Q3,2019-09-30,분기별 영업이익,1096000000,USD,공시,https://www.sec.gov/Archives/edgar/data/87347/000156459019037505/,,8
+SLB,SLB,2019Q3,2019-09-30,분기별 당기순이익(지배),-11383000000,USD,공시,https://www.sec.gov/Archives/edgar/data/87347/000156459019037505/,,8
+SLB,SLB,2019Q3,2019-09-30,분기별 영업활동현금흐름,1745000000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/87347/000156459019037505/ ; https://www.sec.gov/Archives/edgar/data/87347/000156459019025739/,누적 3179000000 − 직전누적 1434000000 (시작 2019-01-01),8
+SLB,SLB,2019Q3,2019-09-30,분기말 자산총계,57990000000,USD,공시,https://www.sec.gov/Archives/edgar/data/87347/000156459019037505/,,8
+SLB,SLB,2019Q3,2019-09-30,분기말 부채총계,33663000000,USD,공시,https://www.sec.gov/Archives/edgar/data/87347/000156459019037505/,,8
+SLB,SLB,2019Q3,2019-09-30,분기말 총자본(자기자본),24327000000,USD,공시,https://www.sec.gov/Archives/edgar/data/87347/000156459019037505/,,8
+SLB,SLB,2019Q3,2019-09-30,분기말 지배지분 자본,23913000000,USD,공시,https://www.sec.gov/Archives/edgar/data/87347/000156459019037505/,,8
+SLB,SLB,2019Q3,2019-09-30,분기말 종가,34.17,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/SLB?interval=1d&events=splits (2019-09-30),,8
+SLB,SLB,2019Q3,2019-09-30,분기말 상장주식수,1384389267,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/87347/000156459019037505/,dei:EntityCommonStockSharesOutstanding 클래스 합,8
+SLB,SLB,2019Q3,2019-09-30,분기말 시가총액,47304581253,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/SLB?interval=1d&events=splits (2019-09-30) ; https://www.sec.gov/Archives/edgar/data/87347/000156459019037505/,종가 34.17 × 주식수 1384389267,8
+SLB,SLB,2019Q4,2019-12-31,분기별 매출액,8228000000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/87347/000156459020001578/ ; https://www.sec.gov/Archives/edgar/data/87347/000156459019037505/,연간 32917000000 − 9개월누적 24689000000 (RevenueFromContractWithCustomerExcludingAssessedTax),8
+SLB,SLB,2019Q4,2019-12-31,분기별 영업이익,1006000000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/87347/000156459020001578/ ; https://www.sec.gov/Archives/edgar/data/87347/000156459019037505/,연간 3978000000 − 9개월누적 2972000000 (OperatingIncomeLoss),8
+SLB,SLB,2019Q4,2019-12-31,분기별 당기순이익(지배),333000000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/87347/000156459020001578/ ; https://www.sec.gov/Archives/edgar/data/87347/000156459019037505/,연간 -10137000000 − 9개월누적 -10470000000 (NetIncomeLoss),8
+SLB,SLB,2019Q4,2019-12-31,분기별 영업활동현금흐름,2252000000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/87347/000156459020001578/ ; https://www.sec.gov/Archives/edgar/data/87347/000156459019037505/,누적 5431000000 − 직전누적 3179000000 (시작 2019-01-01),8
+SLB,SLB,2019Q4,2019-12-31,분기말 자산총계,56312000000,USD,공시,https://www.sec.gov/Archives/edgar/data/87347/000156459020001578/,,8
+SLB,SLB,2019Q4,2019-12-31,분기말 부채총계,32136000000,USD,공시,https://www.sec.gov/Archives/edgar/data/87347/000156459020001578/,,8
+SLB,SLB,2019Q4,2019-12-31,분기말 총자본(자기자본),24176000000,USD,공시,https://www.sec.gov/Archives/edgar/data/87347/000156459020001578/,,8
+SLB,SLB,2019Q4,2019-12-31,분기말 지배지분 자본,23760000000,USD,공시,https://www.sec.gov/Archives/edgar/data/87347/000156459020001578/,,8
+SLB,SLB,2019Q4,2019-12-31,분기말 종가,40.2,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/SLB?interval=1d&events=splits (2019-12-31),,8
+SLB,SLB,2019Q4,2019-12-31,분기말 상장주식수,1384515345,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/87347/000156459020001578/,dei:EntityCommonStockSharesOutstanding 클래스 합,8
+SLB,SLB,2019Q4,2019-12-31,분기말 시가총액,55657516869,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/SLB?interval=1d&events=splits (2019-12-31) ; https://www.sec.gov/Archives/edgar/data/87347/000156459020001578/,종가 40.2 × 주식수 1384515345,8
+SLB,SLB,2020Q1,2020-03-31,분기별 매출액,7455000000,USD,공시,https://www.sec.gov/Archives/edgar/data/87347/000156459020017823/,,8
+SLB,SLB,2020Q1,2020-03-31,분기별 영업이익,776000000,USD,공시,https://www.sec.gov/Archives/edgar/data/87347/000156459020017823/,,8
+SLB,SLB,2020Q1,2020-03-31,분기별 당기순이익(지배),-7376000000,USD,공시,https://www.sec.gov/Archives/edgar/data/87347/000156459020017823/,,8
+SLB,SLB,2020Q1,2020-03-31,분기별 영업활동현금흐름,784000000,USD,공시,https://www.sec.gov/Archives/edgar/data/87347/000156459020017823/,,8
+SLB,SLB,2020Q1,2020-03-31,분기말 자산총계,48594000000,USD,공시,https://www.sec.gov/Archives/edgar/data/87347/000156459020017823/,,8
+SLB,SLB,2020Q1,2020-03-31,분기말 부채총계,32611000000,USD,공시,https://www.sec.gov/Archives/edgar/data/87347/000156459020017823/,,8
+SLB,SLB,2020Q1,2020-03-31,분기말 총자본(자기자본),15983000000,USD,공시,https://www.sec.gov/Archives/edgar/data/87347/000156459020017823/,,8
+SLB,SLB,2020Q1,2020-03-31,분기말 지배지분 자본,15561000000,USD,공시,https://www.sec.gov/Archives/edgar/data/87347/000156459020017823/,,8
+SLB,SLB,2020Q1,2020-03-31,분기말 종가,13.49,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/SLB?interval=1d&events=splits (2020-03-31),,8
+SLB,SLB,2020Q1,2020-03-31,분기말 상장주식수,1387812907,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/87347/000156459020017823/,dei:EntityCommonStockSharesOutstanding 클래스 합,8
+SLB,SLB,2020Q1,2020-03-31,분기말 시가총액,18721596115,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/SLB?interval=1d&events=splits (2020-03-31) ; https://www.sec.gov/Archives/edgar/data/87347/000156459020017823/,종가 13.49 × 주식수 1387812907,8
+SLB,SLB,2020Q2,2020-06-30,분기별 매출액,5356000000,USD,공시,https://www.sec.gov/Archives/edgar/data/87347/000156459020034137/,,8
+SLB,SLB,2020Q2,2020-06-30,분기별 영업이익,396000000,USD,공시,https://www.sec.gov/Archives/edgar/data/87347/000156459020034137/,,8
+SLB,SLB,2020Q2,2020-06-30,분기별 당기순이익(지배),-3434000000,USD,공시,https://www.sec.gov/Archives/edgar/data/87347/000156459020034137/,,8
+SLB,SLB,2020Q2,2020-06-30,분기별 영업활동현금흐름,803000000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/87347/000156459020034137/ ; https://www.sec.gov/Archives/edgar/data/87347/000156459020017823/,누적 1587000000 − 직전누적 784000000 (시작 2020-01-01),8
+SLB,SLB,2020Q2,2020-06-30,분기말 자산총계,44667000000,USD,공시,https://www.sec.gov/Archives/edgar/data/87347/000156459020034137/,,8
+SLB,SLB,2020Q2,2020-06-30,분기말 부채총계,32211000000,USD,공시,https://www.sec.gov/Archives/edgar/data/87347/000156459020034137/,,8
+SLB,SLB,2020Q2,2020-06-30,분기말 총자본(자기자본),12456000000,USD,공시,https://www.sec.gov/Archives/edgar/data/87347/000156459020034137/,,8
+SLB,SLB,2020Q2,2020-06-30,분기말 지배지분 자본,12040000000,USD,공시,https://www.sec.gov/Archives/edgar/data/87347/000156459020034137/,,8
+SLB,SLB,2020Q2,2020-06-30,분기말 종가,18.39,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/SLB?interval=1d&events=splits (2020-06-30),,8
+SLB,SLB,2020Q2,2020-06-30,분기말 상장주식수,1388101743,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/87347/000156459020034137/,dei:EntityCommonStockSharesOutstanding 클래스 합,8
+SLB,SLB,2020Q2,2020-06-30,분기말 시가총액,25527191054,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/SLB?interval=1d&events=splits (2020-06-30) ; https://www.sec.gov/Archives/edgar/data/87347/000156459020034137/,종가 18.39 × 주식수 1388101743,8
+SLB,SLB,2020Q3,2020-09-30,분기별 매출액,5258000000,USD,공시,https://www.sec.gov/Archives/edgar/data/87347/000156459020047045/,,8
+SLB,SLB,2020Q3,2020-09-30,분기별 영업이익,575000000,USD,공시,https://www.sec.gov/Archives/edgar/data/87347/000156459020047045/,,8
+SLB,SLB,2020Q3,2020-09-30,분기별 당기순이익(지배),-82000000,USD,공시,https://www.sec.gov/Archives/edgar/data/87347/000156459020047045/,,8
+SLB,SLB,2020Q3,2020-09-30,분기별 영업활동현금흐름,479000000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/87347/000156459020047045/ ; https://www.sec.gov/Archives/edgar/data/87347/000156459020034137/,누적 2066000000 − 직전누적 1587000000 (시작 2020-01-01),8
+SLB,SLB,2020Q3,2020-09-30,분기말 자산총계,44066000000,USD,공시,https://www.sec.gov/Archives/edgar/data/87347/000156459020047045/,,8
+SLB,SLB,2020Q3,2020-09-30,분기말 부채총계,31697000000,USD,공시,https://www.sec.gov/Archives/edgar/data/87347/000156459020047045/,,8
+SLB,SLB,2020Q3,2020-09-30,분기말 총자본(자기자본),12369000000,USD,공시,https://www.sec.gov/Archives/edgar/data/87347/000156459020047045/,,8
+SLB,SLB,2020Q3,2020-09-30,분기말 지배지분 자본,11941000000,USD,공시,https://www.sec.gov/Archives/edgar/data/87347/000156459020047045/,,8
+SLB,SLB,2020Q3,2020-09-30,분기말 종가,15.56,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/SLB?interval=1d&events=splits (2020-09-30),,8
+SLB,SLB,2020Q3,2020-09-30,분기말 상장주식수,1392030009,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/87347/000156459020047045/,dei:EntityCommonStockSharesOutstanding 클래스 합,8
+SLB,SLB,2020Q3,2020-09-30,분기말 시가총액,21659986940,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/SLB?interval=1d&events=splits (2020-09-30) ; https://www.sec.gov/Archives/edgar/data/87347/000156459020047045/,종가 15.56 × 주식수 1392030009,8
+SLB,SLB,2020Q4,2020-12-31,분기별 매출액,5532000000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/87347/000156459021002477/ ; https://www.sec.gov/Archives/edgar/data/87347/000156459020047045/,연간 23601000000 − 9개월누적 18069000000 (RevenueFromContractWithCustomerExcludingAssessedTax),8
+SLB,SLB,2020Q4,2020-12-31,분기별 영업이익,654000000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/87347/000156459021002477/ ; https://www.sec.gov/Archives/edgar/data/87347/000156459020047045/,연간 2401000000 − 9개월누적 1747000000 (OperatingIncomeLoss),8
+SLB,SLB,2020Q4,2020-12-31,분기별 당기순이익(지배),374000000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/87347/000156459021002477/ ; https://www.sec.gov/Archives/edgar/data/87347/000156459020047045/,연간 -10518000000 − 9개월누적 -10892000000 (NetIncomeLoss),8
+SLB,SLB,2020Q4,2020-12-31,분기별 영업활동현금흐름,878000000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/87347/000156459021002477/ ; https://www.sec.gov/Archives/edgar/data/87347/000156459020047045/,누적 2944000000 − 직전누적 2066000000 (시작 2020-01-01),8
+SLB,SLB,2020Q4,2020-12-31,분기말 자산총계,42434000000,USD,공시,https://www.sec.gov/Archives/edgar/data/87347/000156459021002477/,,8
+SLB,SLB,2020Q4,2020-12-31,분기말 부채총계,29945000000,USD,공시,https://www.sec.gov/Archives/edgar/data/87347/000156459021002477/,,8
+SLB,SLB,2020Q4,2020-12-31,분기말 총자본(자기자본),12489000000,USD,공시,https://www.sec.gov/Archives/edgar/data/87347/000156459021002477/,,8
+SLB,SLB,2020Q4,2020-12-31,분기말 지배지분 자본,12071000000,USD,공시,https://www.sec.gov/Archives/edgar/data/87347/000156459021002477/,,8
+SLB,SLB,2020Q4,2020-12-31,분기말 종가,21.83,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/SLB?interval=1d&events=splits (2020-12-31),,8
+SLB,SLB,2020Q4,2020-12-31,분기말 상장주식수,1392325960,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/87347/000156459021002477/,dei:EntityCommonStockSharesOutstanding 클래스 합,8
+SLB,SLB,2020Q4,2020-12-31,분기말 시가총액,30394475707,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/SLB?interval=1d&events=splits (2020-12-31) ; https://www.sec.gov/Archives/edgar/data/87347/000156459021002477/,종가 21.83 × 주식수 1392325960,8
+SLB,SLB,2021Q1,2021-03-31,분기별 매출액,5223000000,USD,공시,https://www.sec.gov/Archives/edgar/data/87347/000156459021021157/,,8
+SLB,SLB,2021Q1,2021-03-31,분기별 영업이익,664000000,USD,공시,https://www.sec.gov/Archives/edgar/data/87347/000156459021021157/,,8
+SLB,SLB,2021Q1,2021-03-31,분기별 당기순이익(지배),299000000,USD,공시,https://www.sec.gov/Archives/edgar/data/87347/000156459021021157/,,8
+SLB,SLB,2021Q1,2021-03-31,분기별 영업활동현금흐름,429000000,USD,공시,https://www.sec.gov/Archives/edgar/data/87347/000156459021021157/,,8
+SLB,SLB,2021Q1,2021-03-31,분기말 자산총계,42036000000,USD,공시,https://www.sec.gov/Archives/edgar/data/87347/000156459021021157/,,8
+SLB,SLB,2021Q1,2021-03-31,분기말 부채총계,29064000000,USD,공시,https://www.sec.gov/Archives/edgar/data/87347/000156459021021157/,,8
+SLB,SLB,2021Q1,2021-03-31,분기말 총자본(자기자본),12972000000,USD,공시,https://www.sec.gov/Archives/edgar/data/87347/000156459021021157/,,8
+SLB,SLB,2021Q1,2021-03-31,분기말 지배지분 자본,12543000000,USD,공시,https://www.sec.gov/Archives/edgar/data/87347/000156459021021157/,,8
+SLB,SLB,2021Q1,2021-03-31,분기말 종가,27.19,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/SLB?interval=1d&events=splits (2021-03-31),,8
+SLB,SLB,2021Q1,2021-03-31,분기말 상장주식수,1398332463,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/87347/000156459021021157/,dei:EntityCommonStockSharesOutstanding 클래스 합,8
+SLB,SLB,2021Q1,2021-03-31,분기말 시가총액,38020659669,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/SLB?interval=1d&events=splits (2021-03-31) ; https://www.sec.gov/Archives/edgar/data/87347/000156459021021157/,종가 27.19 × 주식수 1398332463,8
+SLB,SLB,2021Q2,2021-06-30,분기별 매출액,5634000000,USD,공시,https://www.sec.gov/Archives/edgar/data/87347/000156459021038547/,,8
+SLB,SLB,2021Q2,2021-06-30,분기별 영업이익,807000000,USD,공시,https://www.sec.gov/Archives/edgar/data/87347/000156459021038547/,,8
+SLB,SLB,2021Q2,2021-06-30,분기별 당기순이익(지배),431000000,USD,공시,https://www.sec.gov/Archives/edgar/data/87347/000156459021038547/,,8
+SLB,SLB,2021Q2,2021-06-30,분기별 영업활동현금흐름,1220000000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/87347/000156459021038547/ ; https://www.sec.gov/Archives/edgar/data/87347/000156459021021157/,누적 1649000000 − 직전누적 429000000 (시작 2021-01-01),8
+SLB,SLB,2021Q2,2021-06-30,분기말 자산총계,40908000000,USD,공시,https://www.sec.gov/Archives/edgar/data/87347/000156459021038547/,,8
+SLB,SLB,2021Q2,2021-06-30,분기말 부채총계,27849000000,USD,공시,https://www.sec.gov/Archives/edgar/data/87347/000156459021038547/,,8
+SLB,SLB,2021Q2,2021-06-30,분기말 총자본(자기자본),13059000000,USD,공시,https://www.sec.gov/Archives/edgar/data/87347/000156459021038547/,,8
+SLB,SLB,2021Q2,2021-06-30,분기말 지배지분 자본,12762000000,USD,공시,https://www.sec.gov/Archives/edgar/data/87347/000156459021038547/,,8
+SLB,SLB,2021Q2,2021-06-30,분기말 종가,32.01,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/SLB?interval=1d&events=splits (2021-06-30),,8
+SLB,SLB,2021Q2,2021-06-30,분기말 상장주식수,1398433008,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/87347/000156459021038547/,dei:EntityCommonStockSharesOutstanding 클래스 합,8
+SLB,SLB,2021Q2,2021-06-30,분기말 시가총액,44763840586,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/SLB?interval=1d&events=splits (2021-06-30) ; https://www.sec.gov/Archives/edgar/data/87347/000156459021038547/,종가 32.01 × 주식수 1398433008,8
+SLB,SLB,2021Q3,2021-09-30,분기별 매출액,5847000000,USD,공시,https://www.sec.gov/Archives/edgar/data/87347/000156459021052182/,,8
+SLB,SLB,2021Q3,2021-09-30,분기별 영업이익,908000000,USD,공시,https://www.sec.gov/Archives/edgar/data/87347/000156459021052182/,,8
+SLB,SLB,2021Q3,2021-09-30,분기별 당기순이익(지배),550000000,USD,공시,https://www.sec.gov/Archives/edgar/data/87347/000156459021052182/,,8
+SLB,SLB,2021Q3,2021-09-30,분기별 영업활동현금흐름,1070000000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/87347/000156459021052182/ ; https://www.sec.gov/Archives/edgar/data/87347/000156459021038547/,누적 2719000000 − 직전누적 1649000000 (시작 2021-01-01),8
+SLB,SLB,2021Q3,2021-09-30,분기말 자산총계,41038000000,USD,공시,https://www.sec.gov/Archives/edgar/data/87347/000156459021052182/,,8
+SLB,SLB,2021Q3,2021-09-30,분기말 부채총계,27373000000,USD,공시,https://www.sec.gov/Archives/edgar/data/87347/000156459021052182/,,8
+SLB,SLB,2021Q3,2021-09-30,분기말 총자본(자기자본),13665000000,USD,공시,https://www.sec.gov/Archives/edgar/data/87347/000156459021052182/,,8
+SLB,SLB,2021Q3,2021-09-30,분기말 지배지분 자본,13362000000,USD,공시,https://www.sec.gov/Archives/edgar/data/87347/000156459021052182/,,8
+SLB,SLB,2021Q3,2021-09-30,분기말 종가,29.64,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/SLB?interval=1d&events=splits (2021-09-30),,8
+SLB,SLB,2021Q3,2021-09-30,분기말 상장주식수,1402632586,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/87347/000156459021052182/,dei:EntityCommonStockSharesOutstanding 클래스 합,8
+SLB,SLB,2021Q3,2021-09-30,분기말 시가총액,41574029849,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/SLB?interval=1d&events=splits (2021-09-30) ; https://www.sec.gov/Archives/edgar/data/87347/000156459021052182/,종가 29.64 × 주식수 1402632586,8
+SLB,SLB,2021Q4,2021-12-31,분기별 매출액,6225000000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/87347/000156459022002421/ ; https://www.sec.gov/Archives/edgar/data/87347/000156459021052182/,연간 22929000000 − 9개월누적 16704000000 (RevenueFromContractWithCustomerExcludingAssessedTax),8
+SLB,SLB,2021Q4,2021-12-31,분기별 영업이익,986000000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/87347/000156459022002421/ ; https://www.sec.gov/Archives/edgar/data/87347/000156459021052182/,연간 3365000000 − 9개월누적 2379000000 (OperatingIncomeLoss),8
+SLB,SLB,2021Q4,2021-12-31,분기별 당기순이익(지배),601000000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/87347/000156459022002421/ ; https://www.sec.gov/Archives/edgar/data/87347/000156459021052182/,연간 1881000000 − 9개월누적 1280000000 (NetIncomeLoss),8
+SLB,SLB,2021Q4,2021-12-31,분기별 영업활동현금흐름,1932000000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/87347/000156459022002421/ ; https://www.sec.gov/Archives/edgar/data/87347/000156459021052182/,누적 4651000000 − 직전누적 2719000000 (시작 2021-01-01),8
+SLB,SLB,2021Q4,2021-12-31,분기말 자산총계,41511000000,USD,공시,https://www.sec.gov/Archives/edgar/data/87347/000156459022002421/,,8
+SLB,SLB,2021Q4,2021-12-31,분기말 부채총계,26225000000,USD,공시,https://www.sec.gov/Archives/edgar/data/87347/000156459022002421/,,8
+SLB,SLB,2021Q4,2021-12-31,분기말 총자본(자기자본),15286000000,USD,공시,https://www.sec.gov/Archives/edgar/data/87347/000156459022002421/,,8
+SLB,SLB,2021Q4,2021-12-31,분기말 지배지분 자본,15004000000,USD,공시,https://www.sec.gov/Archives/edgar/data/87347/000156459022002421/,,8
+SLB,SLB,2021Q4,2021-12-31,분기말 종가,29.95,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/SLB?interval=1d&events=splits (2021-12-31),,8
+SLB,SLB,2021Q4,2021-12-31,분기말 상장주식수,1403381685,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/87347/000156459022002421/,dei:EntityCommonStockSharesOutstanding 클래스 합,8
+SLB,SLB,2021Q4,2021-12-31,분기말 시가총액,42031281466,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/SLB?interval=1d&events=splits (2021-12-31) ; https://www.sec.gov/Archives/edgar/data/87347/000156459022002421/,종가 29.95 × 주식수 1403381685,8
+SLB,SLB,2022Q1,2022-03-31,분기별 매출액,5962000000,USD,공시,https://www.sec.gov/Archives/edgar/data/87347/000156459022015889/,,8
+SLB,SLB,2022Q1,2022-03-31,분기별 영업이익,894000000,USD,공시,https://www.sec.gov/Archives/edgar/data/87347/000156459022015889/,,8
+SLB,SLB,2022Q1,2022-03-31,분기별 당기순이익(지배),510000000,USD,공시,https://www.sec.gov/Archives/edgar/data/87347/000156459022015889/,,8
+SLB,SLB,2022Q1,2022-03-31,분기별 영업활동현금흐름,131000000,USD,공시,https://www.sec.gov/Archives/edgar/data/87347/000156459022015889/,,8
+SLB,SLB,2022Q1,2022-03-31,분기말 자산총계,41967000000,USD,공시,https://www.sec.gov/Archives/edgar/data/87347/000156459022015889/,,8
+SLB,SLB,2022Q1,2022-03-31,분기말 부채총계,26328000000,USD,공시,https://www.sec.gov/Archives/edgar/data/87347/000156459022015889/,,8
+SLB,SLB,2022Q1,2022-03-31,분기말 총자본(자기자본),15639000000,USD,공시,https://www.sec.gov/Archives/edgar/data/87347/000156459022015889/,,8
+SLB,SLB,2022Q1,2022-03-31,분기말 지배지분 자본,15347000000,USD,공시,https://www.sec.gov/Archives/edgar/data/87347/000156459022015889/,,8
+SLB,SLB,2022Q1,2022-03-31,분기말 종가,41.31,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/SLB?interval=1d&events=splits (2022-03-31),,8
+SLB,SLB,2022Q1,2022-03-31,분기말 상장주식수,1413460705,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/87347/000156459022015889/,dei:EntityCommonStockSharesOutstanding 클래스 합,8
+SLB,SLB,2022Q1,2022-03-31,분기말 시가총액,58390061724,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/SLB?interval=1d&events=splits (2022-03-31) ; https://www.sec.gov/Archives/edgar/data/87347/000156459022015889/,종가 41.31 × 주식수 1413460705,8
+SLB,SLB,2022Q2,2022-06-30,분기별 매출액,6773000000,USD,공시,https://www.sec.gov/Archives/edgar/data/87347/000156459022026594/,,8
+SLB,SLB,2022Q2,2022-06-30,분기별 영업이익,1159000000,USD,공시,https://www.sec.gov/Archives/edgar/data/87347/000156459022026594/,,8
+SLB,SLB,2022Q2,2022-06-30,분기별 당기순이익(지배),959000000,USD,공시,https://www.sec.gov/Archives/edgar/data/87347/000156459022026594/,,8
+SLB,SLB,2022Q2,2022-06-30,분기별 영업활동현금흐름,408000000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/87347/000156459022026594/ ; https://www.sec.gov/Archives/edgar/data/87347/000156459022015889/,누적 539000000 − 직전누적 131000000 (시작 2022-01-01),8
+SLB,SLB,2022Q2,2022-06-30,분기말 자산총계,42827000000,USD,공시,https://www.sec.gov/Archives/edgar/data/87347/000156459022026594/,,8
+SLB,SLB,2022Q2,2022-06-30,분기말 부채총계,26202000000,USD,공시,https://www.sec.gov/Archives/edgar/data/87347/000156459022026594/,,8
+SLB,SLB,2022Q2,2022-06-30,분기말 총자본(자기자본),16625000000,USD,공시,https://www.sec.gov/Archives/edgar/data/87347/000156459022026594/,,8
+SLB,SLB,2022Q2,2022-06-30,분기말 지배지분 자본,16325000000,USD,공시,https://www.sec.gov/Archives/edgar/data/87347/000156459022026594/,,8
+SLB,SLB,2022Q2,2022-06-30,분기말 종가,35.76,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/SLB?interval=1d&events=splits (2022-06-30),,8
+SLB,SLB,2022Q2,2022-06-30,분기말 상장주식수,1414388264,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/87347/000156459022026594/,dei:EntityCommonStockSharesOutstanding 클래스 합,8
+SLB,SLB,2022Q2,2022-06-30,분기말 시가총액,50578524321,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/SLB?interval=1d&events=splits (2022-06-30) ; https://www.sec.gov/Archives/edgar/data/87347/000156459022026594/,종가 35.76 × 주식수 1414388264,8
+SLB,SLB,2022Q3,2022-09-30,분기별 매출액,7477000000,USD,공시,https://www.sec.gov/Archives/edgar/data/87347/000156459022035199/,,8
+SLB,SLB,2022Q3,2022-09-30,분기별 영업이익,1400000000,USD,공시,https://www.sec.gov/Archives/edgar/data/87347/000156459022035199/,,8
+SLB,SLB,2022Q3,2022-09-30,분기별 당기순이익(지배),907000000,USD,공시,https://www.sec.gov/Archives/edgar/data/87347/000156459022035199/,,8
+SLB,SLB,2022Q3,2022-09-30,분기별 영업활동현금흐름,1567000000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/87347/000156459022035199/ ; https://www.sec.gov/Archives/edgar/data/87347/000156459022026594/,누적 2106000000 − 직전누적 539000000 (시작 2022-01-01),8
+SLB,SLB,2022Q3,2022-09-30,분기말 자산총계,44093000000,USD,공시,https://www.sec.gov/Archives/edgar/data/87347/000156459022035199/,,8
+SLB,SLB,2022Q3,2022-09-30,분기말 부채총계,26582000000,USD,공시,https://www.sec.gov/Archives/edgar/data/87347/000156459022035199/,,8
+SLB,SLB,2022Q3,2022-09-30,분기말 총자본(자기자본),17511000000,USD,공시,https://www.sec.gov/Archives/edgar/data/87347/000156459022035199/,,8
+SLB,SLB,2022Q3,2022-09-30,분기말 지배지분 자본,17199000000,USD,공시,https://www.sec.gov/Archives/edgar/data/87347/000156459022035199/,,8
+SLB,SLB,2022Q3,2022-09-30,분기말 종가,35.9,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/SLB?interval=1d&events=splits (2022-09-30),,8
+SLB,SLB,2022Q3,2022-09-30,분기말 상장주식수,1417993775,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/87347/000156459022035199/,dei:EntityCommonStockSharesOutstanding 클래스 합,8
+SLB,SLB,2022Q3,2022-09-30,분기말 시가총액,50905976522,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/SLB?interval=1d&events=splits (2022-09-30) ; https://www.sec.gov/Archives/edgar/data/87347/000156459022035199/,종가 35.9 × 주식수 1417993775,8
+SLB,SLB,2022Q4,2022-12-31,분기별 매출액,7878000000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/87347/000156459023000762/ ; https://www.sec.gov/Archives/edgar/data/87347/000156459022035199/,연간 28091000000 − 9개월누적 20213000000 (RevenueFromContractWithCustomerExcludingAssessedTax),8
+SLB,SLB,2022Q4,2022-12-31,분기별 영업이익,1557000000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/87347/000156459023000762/ ; https://www.sec.gov/Archives/edgar/data/87347/000156459022035199/,연간 5011000000 − 9개월누적 3454000000 (OperatingIncomeLoss),8
+SLB,SLB,2022Q4,2022-12-31,분기별 당기순이익(지배),1064000000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/87347/000156459023000762/ ; https://www.sec.gov/Archives/edgar/data/87347/000156459022035199/,연간 3441000000 − 9개월누적 2377000000 (NetIncomeLoss),8
+SLB,SLB,2022Q4,2022-12-31,분기별 영업활동현금흐름,1614000000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/87347/000156459023000762/ ; https://www.sec.gov/Archives/edgar/data/87347/000156459022035199/,누적 3720000000 − 직전누적 2106000000 (시작 2022-01-01),8
+SLB,SLB,2022Q4,2022-12-31,분기말 자산총계,43135000000,USD,공시,https://www.sec.gov/Archives/edgar/data/87347/000156459023000762/,,8
+SLB,SLB,2022Q4,2022-12-31,분기말 부채총계,25146000000,USD,공시,https://www.sec.gov/Archives/edgar/data/87347/000156459023000762/,,8
+SLB,SLB,2022Q4,2022-12-31,분기말 총자본(자기자본),17989000000,USD,공시,https://www.sec.gov/Archives/edgar/data/87347/000156459023000762/,,8
+SLB,SLB,2022Q4,2022-12-31,분기말 지배지분 자본,17685000000,USD,공시,https://www.sec.gov/Archives/edgar/data/87347/000156459023000762/,,8
+SLB,SLB,2022Q4,2022-12-30,분기말 종가,53.46,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/SLB?interval=1d&events=splits (2022-12-30),,8
+SLB,SLB,2022Q4,2022-12-31,분기말 상장주식수,1420188492,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/87347/000156459023000762/,dei:EntityCommonStockSharesOutstanding 클래스 합,8
+SLB,SLB,2022Q4,2022-12-30,분기말 시가총액,75923276782,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/SLB?interval=1d&events=splits (2022-12-30) ; https://www.sec.gov/Archives/edgar/data/87347/000156459023000762/,종가 53.46 × 주식수 1420188492,8
+SLB,SLB,2023Q1,2023-03-31,분기별 매출액,7736000000,USD,공시,https://www.sec.gov/Archives/edgar/data/87347/000095017023014656/,,8
+SLB,SLB,2023Q1,2023-03-31,분기별 영업이익,1391000000,USD,공시,https://www.sec.gov/Archives/edgar/data/87347/000095017023014656/,,8
+SLB,SLB,2023Q1,2023-03-31,분기별 당기순이익(지배),934000000,USD,공시,https://www.sec.gov/Archives/edgar/data/87347/000095017023014656/,,8
+SLB,SLB,2023Q1,2023-03-31,분기별 영업활동현금흐름,330000000,USD,공시,https://www.sec.gov/Archives/edgar/data/87347/000095017023014656/,,8
+SLB,SLB,2023Q1,2023-03-31,분기말 자산총계,43855000000,USD,공시,https://www.sec.gov/Archives/edgar/data/87347/000095017023014656/,,8
+SLB,SLB,2023Q1,2023-03-31,분기말 부채총계,25475000000,USD,공시,https://www.sec.gov/Archives/edgar/data/87347/000095017023014656/,,8
+SLB,SLB,2023Q1,2023-03-31,분기말 총자본(자기자본),18380000000,USD,공시,https://www.sec.gov/Archives/edgar/data/87347/000095017023014656/,,8
+SLB,SLB,2023Q1,2023-03-31,분기말 지배지분 자본,18068000000,USD,공시,https://www.sec.gov/Archives/edgar/data/87347/000095017023014656/,,8
+SLB,SLB,2023Q1,2023-03-31,분기말 종가,49.1,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/SLB?interval=1d&events=splits (2023-03-31),,8
+SLB,SLB,2023Q1,2023-03-31,분기말 상장주식수,1425330904,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/87347/000095017023014656/,dei:EntityCommonStockSharesOutstanding 클래스 합,8
+SLB,SLB,2023Q1,2023-03-31,분기말 시가총액,69983747386,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/SLB?interval=1d&events=splits (2023-03-31) ; https://www.sec.gov/Archives/edgar/data/87347/000095017023014656/,종가 49.1 × 주식수 1425330904,8
+SLB,SLB,2023Q2,2023-06-30,분기별 매출액,8099000000,USD,공시,https://www.sec.gov/Archives/edgar/data/87347/000095017023034590/,,8
+SLB,SLB,2023Q2,2023-06-30,분기별 영업이익,1581000000,USD,공시,https://www.sec.gov/Archives/edgar/data/87347/000095017023034590/,,8
+SLB,SLB,2023Q2,2023-06-30,분기별 당기순이익(지배),1033000000,USD,공시,https://www.sec.gov/Archives/edgar/data/87347/000095017023034590/,,8
+SLB,SLB,2023Q2,2023-06-30,분기별 영업활동현금흐름,1608000000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/87347/000095017023034590/ ; https://www.sec.gov/Archives/edgar/data/87347/000095017023014656/,누적 1938000000 − 직전누적 330000000 (시작 2023-01-01),8
+SLB,SLB,2023Q2,2023-06-30,분기말 자산총계,44826000000,USD,공시,https://www.sec.gov/Archives/edgar/data/87347/000095017023034590/,,8
+SLB,SLB,2023Q2,2023-06-30,분기말 부채총계,25892000000,USD,공시,https://www.sec.gov/Archives/edgar/data/87347/000095017023034590/,,8
+SLB,SLB,2023Q2,2023-06-30,분기말 총자본(자기자본),18934000000,USD,공시,https://www.sec.gov/Archives/edgar/data/87347/000095017023034590/,,8
+SLB,SLB,2023Q2,2023-06-30,분기말 지배지분 자본,18608000000,USD,공시,https://www.sec.gov/Archives/edgar/data/87347/000095017023034590/,,8
+SLB,SLB,2023Q2,2023-06-30,분기말 종가,49.12,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/SLB?interval=1d&events=splits (2023-06-30),,8
+SLB,SLB,2023Q2,2023-06-30,분기말 상장주식수,1421186016,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/87347/000095017023034590/,dei:EntityCommonStockSharesOutstanding 클래스 합,8
+SLB,SLB,2023Q2,2023-06-30,분기말 시가총액,69808657106,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/SLB?interval=1d&events=splits (2023-06-30) ; https://www.sec.gov/Archives/edgar/data/87347/000095017023034590/,종가 49.12 × 주식수 1421186016,8
+SLB,SLB,2023Q3,2023-09-30,분기별 매출액,8310000000,USD,공시,https://www.sec.gov/Archives/edgar/data/87347/000095017023055042/,,8
+SLB,SLB,2023Q3,2023-09-30,분기별 영업이익,1683000000,USD,공시,https://www.sec.gov/Archives/edgar/data/87347/000095017023055042/,,8
+SLB,SLB,2023Q3,2023-09-30,분기별 당기순이익(지배),1123000000,USD,공시,https://www.sec.gov/Archives/edgar/data/87347/000095017023055042/,,8
+SLB,SLB,2023Q3,2023-09-30,분기별 영업활동현금흐름,1677000000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/87347/000095017023055042/ ; https://www.sec.gov/Archives/edgar/data/87347/000095017023034590/,누적 3615000000 − 직전누적 1938000000 (시작 2023-01-01),8
+SLB,SLB,2023Q3,2023-09-30,분기말 자산총계,45813000000,USD,공시,https://www.sec.gov/Archives/edgar/data/87347/000095017023055042/,,8
+SLB,SLB,2023Q3,2023-09-30,분기말 부채총계,26106000000,USD,공시,https://www.sec.gov/Archives/edgar/data/87347/000095017023055042/,,8
+SLB,SLB,2023Q3,2023-09-30,분기말 총자본(자기자본),19707000000,USD,공시,https://www.sec.gov/Archives/edgar/data/87347/000095017023055042/,,8
+SLB,SLB,2023Q3,2023-09-30,분기말 지배지분 자본,19386000000,USD,공시,https://www.sec.gov/Archives/edgar/data/87347/000095017023055042/,,8
+SLB,SLB,2023Q3,2023-09-29,분기말 종가,58.3,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/SLB?interval=1d&events=splits (2023-09-29),,8
+SLB,SLB,2023Q3,2023-09-30,분기말 상장주식수,1423420641,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/87347/000095017023055042/,dei:EntityCommonStockSharesOutstanding 클래스 합,8
+SLB,SLB,2023Q3,2023-09-29,분기말 시가총액,82985423370,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/SLB?interval=1d&events=splits (2023-09-29) ; https://www.sec.gov/Archives/edgar/data/87347/000095017023055042/,종가 58.3 × 주식수 1423420641,8
+SLB,SLB,2023Q4,2023-12-31,분기별 매출액,8990000000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/87347/000095017024006884/ ; https://www.sec.gov/Archives/edgar/data/87347/000095017023055042/,연간 33135000000 − 9개월누적 24145000000 (RevenueFromContractWithCustomerExcludingAssessedTax),8
+SLB,SLB,2023Q4,2023-12-31,분기별 영업이익,1868000000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/87347/000095017024006884/ ; https://www.sec.gov/Archives/edgar/data/87347/000095017023055042/,연간 6523000000 − 9개월누적 4655000000 (OperatingIncomeLoss),8
+SLB,SLB,2023Q4,2023-12-31,분기별 당기순이익(지배),1112000000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/87347/000095017024006884/ ; https://www.sec.gov/Archives/edgar/data/87347/000095017023055042/,연간 4203000000 − 9개월누적 3091000000 (NetIncomeLoss),8
+SLB,SLB,2023Q4,2023-12-31,분기별 영업활동현금흐름,3022000000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/87347/000095017024006884/ ; https://www.sec.gov/Archives/edgar/data/87347/000095017023055042/,누적 6637000000 − 직전누적 3615000000 (시작 2023-01-01),8
+SLB,SLB,2023Q4,2023-12-31,분기말 자산총계,47957000000,USD,공시,https://www.sec.gov/Archives/edgar/data/87347/000095017024006884/,,8
+SLB,SLB,2023Q4,2023-12-31,분기말 부채총계,26598000000,USD,공시,https://www.sec.gov/Archives/edgar/data/87347/000095017024006884/,,8
+SLB,SLB,2023Q4,2023-12-31,분기말 총자본(자기자본),21359000000,USD,공시,https://www.sec.gov/Archives/edgar/data/87347/000095017024006884/,,8
+SLB,SLB,2023Q4,2023-12-31,분기말 지배지분 자본,20189000000,USD,공시,https://www.sec.gov/Archives/edgar/data/87347/000095017024006884/,,8
+SLB,SLB,2023Q4,2023-12-29,분기말 종가,52.04,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/SLB?interval=1d&events=splits (2023-12-29),,8
+SLB,SLB,2023Q4,2023-12-31,분기말 상장주식수,1427394843,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/87347/000095017024006884/,dei:EntityCommonStockSharesOutstanding 클래스 합,8
+SLB,SLB,2023Q4,2023-12-29,분기말 시가총액,74281627630,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/SLB?interval=1d&events=splits (2023-12-29) ; https://www.sec.gov/Archives/edgar/data/87347/000095017024006884/,종가 52.04 × 주식수 1427394843,8
+SLB,SLB,2024Q1,2024-03-31,분기별 매출액,8707000000,USD,공시,https://www.sec.gov/Archives/edgar/data/87347/000095017024047250/,,8
+SLB,SLB,2024Q1,2024-03-31,분기별 영업이익,1649000000,USD,공시,https://www.sec.gov/Archives/edgar/data/87347/000095017024047250/,,8
+SLB,SLB,2024Q1,2024-03-31,분기별 당기순이익(지배),1068000000,USD,공시,https://www.sec.gov/Archives/edgar/data/87347/000095017024047250/,,8
+SLB,SLB,2024Q1,2024-03-31,분기별 영업활동현금흐름,327000000,USD,공시,https://www.sec.gov/Archives/edgar/data/87347/000095017024047250/,,8
+SLB,SLB,2024Q1,2024-03-31,분기말 자산총계,47856000000,USD,공시,https://www.sec.gov/Archives/edgar/data/87347/000095017024047250/,,8
+SLB,SLB,2024Q1,2024-03-31,분기말 부채총계,25933000000,USD,공시,https://www.sec.gov/Archives/edgar/data/87347/000095017024047250/,,8
+SLB,SLB,2024Q1,2024-03-31,분기말 총자본(자기자본),21923000000,USD,공시,https://www.sec.gov/Archives/edgar/data/87347/000095017024047250/,,8
+SLB,SLB,2024Q1,2024-03-31,분기말 지배지분 자본,20736000000,USD,공시,https://www.sec.gov/Archives/edgar/data/87347/000095017024047250/,,8
+SLB,SLB,2024Q1,2024-03-28,분기말 종가,54.81,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/SLB?interval=1d&events=splits (2024-03-28),,8
+SLB,SLB,2024Q1,2024-03-31,분기말 상장주식수,1429337724,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/87347/000095017024047250/,dei:EntityCommonStockSharesOutstanding 클래스 합,8
+SLB,SLB,2024Q1,2024-03-28,분기말 시가총액,78342000652,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/SLB?interval=1d&events=splits (2024-03-28) ; https://www.sec.gov/Archives/edgar/data/87347/000095017024047250/,종가 54.81 × 주식수 1429337724,8
+SLB,SLB,2024Q2,2024-06-30,분기별 매출액,9139000000,USD,공시,https://www.sec.gov/Archives/edgar/data/87347/000095017024085905/,,8
+SLB,SLB,2024Q2,2024-06-30,분기별 영업이익,미확인,USD,미확인,SEC companyfacts CIK0000087347: 해당 보고서에 OperatingIncomeLoss 태그 없음(영업이익 미공시) ; https://www.sec.gov/Archives/edgar/data/87347/000095017024085905/,,8
+SLB,SLB,2024Q2,2024-06-30,분기별 당기순이익(지배),1112000000,USD,공시,https://www.sec.gov/Archives/edgar/data/87347/000095017024085905/,,8
+SLB,SLB,2024Q2,2024-06-30,분기별 영업활동현금흐름,1436000000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/87347/000095017024085905/ ; https://www.sec.gov/Archives/edgar/data/87347/000095017024047250/,누적 1763000000 − 직전누적 327000000 (시작 2024-01-01),8
+SLB,SLB,2024Q2,2024-06-30,분기말 자산총계,49373000000,USD,공시,https://www.sec.gov/Archives/edgar/data/87347/000095017024085905/,,8
+SLB,SLB,2024Q2,2024-06-30,분기말 부채총계,27093000000,USD,공시,https://www.sec.gov/Archives/edgar/data/87347/000095017024085905/,,8
+SLB,SLB,2024Q2,2024-06-30,분기말 총자본(자기자본),22280000000,USD,공시,https://www.sec.gov/Archives/edgar/data/87347/000095017024085905/,,8
+SLB,SLB,2024Q2,2024-06-30,분기말 지배지분 자본,21071000000,USD,공시,https://www.sec.gov/Archives/edgar/data/87347/000095017024085905/,,8
+SLB,SLB,2024Q2,2024-06-28,분기말 종가,47.18,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/SLB?interval=1d&events=splits (2024-06-28),,8
+SLB,SLB,2024Q2,2024-06-30,분기말 상장주식수,1419841229,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/87347/000095017024085905/,dei:EntityCommonStockSharesOutstanding 클래스 합,8
+SLB,SLB,2024Q2,2024-06-28,분기말 시가총액,66988109184,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/SLB?interval=1d&events=splits (2024-06-28) ; https://www.sec.gov/Archives/edgar/data/87347/000095017024085905/,종가 47.18 × 주식수 1419841229,8
+SLB,SLB,2024Q3,2024-09-30,분기별 매출액,9159000000,USD,공시,https://www.sec.gov/Archives/edgar/data/87347/000095017024116535/,,8
+SLB,SLB,2024Q3,2024-09-30,분기별 영업이익,미확인,USD,미확인,SEC companyfacts CIK0000087347: 해당 보고서에 OperatingIncomeLoss 태그 없음(영업이익 미공시) ; https://www.sec.gov/Archives/edgar/data/87347/000095017024116535/,,8
+SLB,SLB,2024Q3,2024-09-30,분기별 당기순이익(지배),1186000000,USD,공시,https://www.sec.gov/Archives/edgar/data/87347/000095017024116535/,,8
+SLB,SLB,2024Q3,2024-09-30,분기별 영업활동현금흐름,2449000000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/87347/000095017024116535/ ; https://www.sec.gov/Archives/edgar/data/87347/000095017024085905/,누적 4212000000 − 직전누적 1763000000 (시작 2024-01-01),8
+SLB,SLB,2024Q3,2024-09-30,분기말 자산총계,49775000000,USD,공시,https://www.sec.gov/Archives/edgar/data/87347/000095017024116535/,,8
+SLB,SLB,2024Q3,2024-09-30,분기말 부채총계,27047000000,USD,공시,https://www.sec.gov/Archives/edgar/data/87347/000095017024116535/,,8
+SLB,SLB,2024Q3,2024-09-30,분기말 총자본(자기자본),22728000000,USD,공시,https://www.sec.gov/Archives/edgar/data/87347/000095017024116535/,,8
+SLB,SLB,2024Q3,2024-09-30,분기말 지배지분 자본,21511000000,USD,공시,https://www.sec.gov/Archives/edgar/data/87347/000095017024116535/,,8
+SLB,SLB,2024Q3,2024-09-30,분기말 종가,41.95,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/SLB?interval=1d&events=splits (2024-09-30),,8
+SLB,SLB,2024Q3,2024-09-30,분기말 상장주식수,1412154298,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/87347/000095017024116535/,dei:EntityCommonStockSharesOutstanding 클래스 합,8
+SLB,SLB,2024Q3,2024-09-30,분기말 시가총액,59239872801,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/SLB?interval=1d&events=splits (2024-09-30) ; https://www.sec.gov/Archives/edgar/data/87347/000095017024116535/,종가 41.95 × 주식수 1412154298,8
+SLB,SLB,2024Q4,2024-12-31,분기별 매출액,9284000000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/87347/000095017025007638/ ; https://www.sec.gov/Archives/edgar/data/87347/000095017024116535/,연간 36289000000 − 9개월누적 27005000000 (RevenueFromContractWithCustomerExcludingAssessedTax),8
+SLB,SLB,2024Q4,2024-12-31,분기별 영업이익,미확인,USD,미확인,SEC companyfacts CIK0000087347: 해당 보고서에 OperatingIncomeLoss 태그 없음(영업이익 미공시) ; https://www.sec.gov/Archives/edgar/data/87347/000095017025007638/,,8
+SLB,SLB,2024Q4,2024-12-31,분기별 당기순이익(지배),1095000000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/87347/000095017025007638/ ; https://www.sec.gov/Archives/edgar/data/87347/000095017024116535/,연간 4461000000 − 9개월누적 3366000000 (NetIncomeLoss),8
+SLB,SLB,2024Q4,2024-12-31,분기별 영업활동현금흐름,2390000000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/87347/000095017025007638/ ; https://www.sec.gov/Archives/edgar/data/87347/000095017024116535/,누적 6602000000 − 직전누적 4212000000 (시작 2024-01-01),8
+SLB,SLB,2024Q4,2024-12-31,분기말 자산총계,48935000000,USD,공시,https://www.sec.gov/Archives/edgar/data/87347/000095017025007638/,,8
+SLB,SLB,2024Q4,2024-12-31,분기말 부채총계,26585000000,USD,공시,https://www.sec.gov/Archives/edgar/data/87347/000095017025007638/,,8
+SLB,SLB,2024Q4,2024-12-31,분기말 총자본(자기자본),22350000000,USD,공시,https://www.sec.gov/Archives/edgar/data/87347/000095017025007638/,,8
+SLB,SLB,2024Q4,2024-12-31,분기말 지배지분 자본,21130000000,USD,공시,https://www.sec.gov/Archives/edgar/data/87347/000095017025007638/,,8
+SLB,SLB,2024Q4,2024-12-31,분기말 종가,38.34,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/SLB?interval=1d&events=splits (2024-12-31),,8
+SLB,SLB,2024Q4,2024-12-31,분기말 상장주식수,1400850420,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/87347/000095017025007638/,dei:EntityCommonStockSharesOutstanding 클래스 합,8
+SLB,SLB,2024Q4,2024-12-31,분기말 시가총액,53708605103,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/SLB?interval=1d&events=splits (2024-12-31) ; https://www.sec.gov/Archives/edgar/data/87347/000095017025007638/,종가 38.34 × 주식수 1400850420,8
+SLB,SLB,2025Q1,2025-03-31,분기별 매출액,8490000000,USD,공시,https://www.sec.gov/Archives/edgar/data/87347/000095017025058413/,,8
+SLB,SLB,2025Q1,2025-03-31,분기별 영업이익,미확인,USD,미확인,SEC companyfacts CIK0000087347: 해당 보고서에 OperatingIncomeLoss 태그 없음(영업이익 미공시) ; https://www.sec.gov/Archives/edgar/data/87347/000095017025058413/,,8
+SLB,SLB,2025Q1,2025-03-31,분기별 당기순이익(지배),797000000,USD,공시,https://www.sec.gov/Archives/edgar/data/87347/000095017025058413/,,8
+SLB,SLB,2025Q1,2025-03-31,분기별 영업활동현금흐름,660000000,USD,공시,https://www.sec.gov/Archives/edgar/data/87347/000095017025058413/,,8
+SLB,SLB,2025Q1,2025-03-31,분기말 자산총계,49002000000,USD,공시,https://www.sec.gov/Archives/edgar/data/87347/000095017025058413/,,8
+SLB,SLB,2025Q1,2025-03-31,분기말 부채총계,28254000000,USD,공시,https://www.sec.gov/Archives/edgar/data/87347/000095017025058413/,,8
+SLB,SLB,2025Q1,2025-03-31,분기말 총자본(자기자본),20748000000,USD,공시,https://www.sec.gov/Archives/edgar/data/87347/000095017025058413/,,8
+SLB,SLB,2025Q1,2025-03-31,분기말 지배지분 자본,19515000000,USD,공시,https://www.sec.gov/Archives/edgar/data/87347/000095017025058413/,,8
+SLB,SLB,2025Q1,2025-03-31,분기말 종가,41.8,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/SLB?interval=1d&events=splits (2025-03-31),,8
+SLB,SLB,2025Q1,2025-03-31,분기말 상장주식수,1360161654,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/87347/000095017025058413/,dei:EntityCommonStockSharesOutstanding 클래스 합,8
+SLB,SLB,2025Q1,2025-03-31,분기말 시가총액,56854757137,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/SLB?interval=1d&events=splits (2025-03-31) ; https://www.sec.gov/Archives/edgar/data/87347/000095017025058413/,종가 41.8 × 주식수 1360161654,8
+SLB,SLB,2025Q2,2025-06-30,분기별 매출액,8546000000,USD,공시,https://www.sec.gov/Archives/edgar/data/87347/000095017025098217/,,8
+SLB,SLB,2025Q2,2025-06-30,분기별 영업이익,미확인,USD,미확인,SEC companyfacts CIK0000087347: 해당 보고서에 OperatingIncomeLoss 태그 없음(영업이익 미공시) ; https://www.sec.gov/Archives/edgar/data/87347/000095017025098217/,,8
+SLB,SLB,2025Q2,2025-06-30,분기별 당기순이익(지배),1014000000,USD,공시,https://www.sec.gov/Archives/edgar/data/87347/000095017025098217/,,8
+SLB,SLB,2025Q2,2025-06-30,분기별 영업활동현금흐름,1142000000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/87347/000095017025098217/ ; https://www.sec.gov/Archives/edgar/data/87347/000095017025058413/,누적 1802000000 − 직전누적 660000000 (시작 2025-01-01),8
+SLB,SLB,2025Q2,2025-06-30,분기말 자산총계,48769000000,USD,공시,https://www.sec.gov/Archives/edgar/data/87347/000095017025098217/,,8
+SLB,SLB,2025Q2,2025-06-30,분기말 부채총계,27218000000,USD,공시,https://www.sec.gov/Archives/edgar/data/87347/000095017025098217/,,8
+SLB,SLB,2025Q2,2025-06-30,분기말 총자본(자기자본),21551000000,USD,공시,https://www.sec.gov/Archives/edgar/data/87347/000095017025098217/,,8
+SLB,SLB,2025Q2,2025-06-30,분기말 지배지분 자본,20302000000,USD,공시,https://www.sec.gov/Archives/edgar/data/87347/000095017025098217/,,8
+SLB,SLB,2025Q2,2025-06-30,분기말 종가,33.8,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/SLB?interval=1d&events=splits (2025-06-30),,8
+SLB,SLB,2025Q2,2025-06-30,분기말 상장주식수,1351248823,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/87347/000095017025098217/,dei:EntityCommonStockSharesOutstanding 클래스 합,8
+SLB,SLB,2025Q2,2025-06-30,분기말 시가총액,45672210217,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/SLB?interval=1d&events=splits (2025-06-30) ; https://www.sec.gov/Archives/edgar/data/87347/000095017025098217/,종가 33.8 × 주식수 1351248823,8
+SLB,SLB,2025Q3,2025-09-30,분기별 매출액,8928000000,USD,공시,https://www.sec.gov/Archives/edgar/data/87347/000119312525246028/,,8
+SLB,SLB,2025Q3,2025-09-30,분기별 영업이익,미확인,USD,미확인,SEC companyfacts CIK0000087347: 해당 보고서에 OperatingIncomeLoss 태그 없음(영업이익 미공시) ; https://www.sec.gov/Archives/edgar/data/87347/000119312525246028/,,8
+SLB,SLB,2025Q3,2025-09-30,분기별 당기순이익(지배),739000000,USD,공시,https://www.sec.gov/Archives/edgar/data/87347/000119312525246028/,,8
+SLB,SLB,2025Q3,2025-09-30,분기별 영업활동현금흐름,1682000000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/87347/000119312525246028/ ; https://www.sec.gov/Archives/edgar/data/87347/000095017025098217/,누적 3484000000 − 직전누적 1802000000 (시작 2025-01-01),8
+SLB,SLB,2025Q3,2025-09-30,분기말 자산총계,55093000000,USD,공시,https://www.sec.gov/Archives/edgar/data/87347/000119312525246028/,,8
+SLB,SLB,2025Q3,2025-09-30,분기말 부채총계,28171000000,USD,공시,https://www.sec.gov/Archives/edgar/data/87347/000119312525246028/,,8
+SLB,SLB,2025Q3,2025-09-30,분기말 총자본(자기자본),26922000000,USD,공시,https://www.sec.gov/Archives/edgar/data/87347/000119312525246028/,,8
+SLB,SLB,2025Q3,2025-09-30,분기말 지배지분 자본,25635000000,USD,공시,https://www.sec.gov/Archives/edgar/data/87347/000119312525246028/,,8
+SLB,SLB,2025Q3,2025-09-30,분기말 종가,34.37,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/SLB?interval=1d&events=splits (2025-09-30),,8
+SLB,SLB,2025Q3,2025-09-30,분기말 상장주식수,1493923635,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/87347/000119312525246028/,dei:EntityCommonStockSharesOutstanding 클래스 합,8
+SLB,SLB,2025Q3,2025-09-30,분기말 시가총액,51346155335,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/SLB?interval=1d&events=splits (2025-09-30) ; https://www.sec.gov/Archives/edgar/data/87347/000119312525246028/,종가 34.37 × 주식수 1493923635,8
+SLB,SLB,2025Q4,2025-12-31,분기별 매출액,9745000000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/87347/000119312526021017/ ; https://www.sec.gov/Archives/edgar/data/87347/000119312525246028/,연간 35708000000 − 9개월누적 25963000000 (RevenueFromContractWithCustomerExcludingAssessedTax),8
+SLB,SLB,2025Q4,2025-12-31,분기별 영업이익,미확인,USD,미확인,SEC companyfacts CIK0000087347: 해당 보고서에 OperatingIncomeLoss 태그 없음(영업이익 미공시) ; https://www.sec.gov/Archives/edgar/data/87347/000119312526021017/,,8
+SLB,SLB,2025Q4,2025-12-31,분기별 당기순이익(지배),824000000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/87347/000119312526021017/ ; https://www.sec.gov/Archives/edgar/data/87347/000119312525246028/,연간 3374000000 − 9개월누적 2550000000 (NetIncomeLoss),8
+SLB,SLB,2025Q4,2025-12-31,분기별 영업활동현금흐름,3005000000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/87347/000119312526021017/ ; https://www.sec.gov/Archives/edgar/data/87347/000119312525246028/,누적 6489000000 − 직전누적 3484000000 (시작 2025-01-01),8
+SLB,SLB,2025Q4,2025-12-31,분기말 자산총계,54868000000,USD,공시,https://www.sec.gov/Archives/edgar/data/87347/000119312526021017/,,8
+SLB,SLB,2025Q4,2025-12-31,분기말 부채총계,27577000000,USD,공시,https://www.sec.gov/Archives/edgar/data/87347/000119312526021017/,,8
+SLB,SLB,2025Q4,2025-12-31,분기말 총자본(자기자본),27291000000,USD,공시,https://www.sec.gov/Archives/edgar/data/87347/000119312526021017/,,8
+SLB,SLB,2025Q4,2025-12-31,분기말 지배지분 자본,26109000000,USD,공시,https://www.sec.gov/Archives/edgar/data/87347/000119312526021017/,,8
+SLB,SLB,2025Q4,2025-12-31,분기말 종가,38.38,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/SLB?interval=1d&events=splits (2025-12-31),,8
+SLB,SLB,2025Q4,2025-12-31,분기말 상장주식수,1495331485,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/87347/000119312526021017/,dei:EntityCommonStockSharesOutstanding 클래스 합,8
+SLB,SLB,2025Q4,2025-12-31,분기말 시가총액,57390822394,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/SLB?interval=1d&events=splits (2025-12-31) ; https://www.sec.gov/Archives/edgar/data/87347/000119312526021017/,종가 38.38 × 주식수 1495331485,8
+SLB,SLB,2026Q1,2026-03-31,분기별 매출액,8721000000,USD,공시,https://www.sec.gov/Archives/edgar/data/87347/000119312526190101/,,8
+SLB,SLB,2026Q1,2026-03-31,분기별 영업이익,미확인,USD,미확인,SEC companyfacts CIK0000087347: 해당 보고서에 OperatingIncomeLoss 태그 없음(영업이익 미공시) ; https://www.sec.gov/Archives/edgar/data/87347/000119312526190101/,,8
+SLB,SLB,2026Q1,2026-03-31,분기별 당기순이익(지배),752000000,USD,공시,https://www.sec.gov/Archives/edgar/data/87347/000119312526190101/,,8
+SLB,SLB,2026Q1,2026-03-31,분기별 영업활동현금흐름,487000000,USD,공시,https://www.sec.gov/Archives/edgar/data/87347/000119312526190101/,,8
+SLB,SLB,2026Q1,2026-03-31,분기말 자산총계,54526000000,USD,공시,https://www.sec.gov/Archives/edgar/data/87347/000119312526190101/,,8
+SLB,SLB,2026Q1,2026-03-31,분기말 부채총계,27173000000,USD,공시,https://www.sec.gov/Archives/edgar/data/87347/000119312526190101/,,8
+SLB,SLB,2026Q1,2026-03-31,분기말 총자본(자기자본),27353000000,USD,공시,https://www.sec.gov/Archives/edgar/data/87347/000119312526190101/,,8
+SLB,SLB,2026Q1,2026-03-31,분기말 지배지분 자본,26177000000,USD,공시,https://www.sec.gov/Archives/edgar/data/87347/000119312526190101/,,8
+SLB,SLB,2026Q1,2026-03-31,분기말 종가,51.39,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/SLB?interval=1d&events=splits (2026-03-31),,8
+SLB,SLB,2026Q1,2026-03-31,분기말 상장주식수,1495057661,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/87347/000119312526190101/,dei:EntityCommonStockSharesOutstanding 클래스 합,8
+SLB,SLB,2026Q1,2026-03-31,분기말 시가총액,76831013199,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/SLB?interval=1d&events=splits (2026-03-31) ; https://www.sec.gov/Archives/edgar/data/87347/000119312526190101/,종가 51.39 × 주식수 1495057661,8
+SLB,SLB,2026Q2,2026-06-30,분기별 매출액,8972000000,USD,공시,https://www.sec.gov/Archives/edgar/data/87347/000119312526322595/,,8
+SLB,SLB,2026Q2,2026-06-30,분기별 영업이익,미확인,USD,미확인,SEC companyfacts CIK0000087347: 해당 보고서에 OperatingIncomeLoss 태그 없음(영업이익 미공시) ; https://www.sec.gov/Archives/edgar/data/87347/000119312526322595/,,8
+SLB,SLB,2026Q2,2026-06-30,분기별 당기순이익(지배),786000000,USD,공시,https://www.sec.gov/Archives/edgar/data/87347/000119312526322595/,,8
+SLB,SLB,2026Q2,2026-06-30,분기별 영업활동현금흐름,1359000000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/87347/000119312526322595/ ; https://www.sec.gov/Archives/edgar/data/87347/000119312526190101/,누적 1846000000 − 직전누적 487000000 (시작 2026-01-01),8
+SLB,SLB,2026Q2,2026-06-30,분기말 자산총계,55532000000,USD,공시,https://www.sec.gov/Archives/edgar/data/87347/000119312526322595/,,8
+SLB,SLB,2026Q2,2026-06-30,분기말 부채총계,28278000000,USD,공시,https://www.sec.gov/Archives/edgar/data/87347/000119312526322595/,,8
+SLB,SLB,2026Q2,2026-06-30,분기말 총자본(자기자본),27254000000,USD,공시,https://www.sec.gov/Archives/edgar/data/87347/000119312526322595/,,8
+SLB,SLB,2026Q2,2026-06-30,분기말 지배지분 자본,26074000000,USD,공시,https://www.sec.gov/Archives/edgar/data/87347/000119312526322595/,,8
+SLB,SLB,2026Q2,2026-06-30,분기말 종가,46.49,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/SLB?interval=1d&events=splits (2026-06-30),,8
+SLB,SLB,2026Q2,2026-06-30,분기말 상장주식수,1484143231,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/87347/000119312526322595/,dei:EntityCommonStockSharesOutstanding 클래스 합,8
+SLB,SLB,2026Q2,2026-06-30,분기말 시가총액,68997818809,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/SLB?interval=1d&events=splits (2026-06-30) ; https://www.sec.gov/Archives/edgar/data/87347/000119312526322595/,종가 46.49 × 주식수 1484143231,8

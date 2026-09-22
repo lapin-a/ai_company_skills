@@ -1,0 +1,727 @@
+﻿기업,종목코드,기간,기준일,항목,값,통화,값구분,출처,검산,라운드
+Leidos,LDOS,2010Q1,2010-04-30,분기별 매출액,2685000000,USD,공시(후속 보고서 비교기간),https://www.sec.gov/Archives/edgar/data/1336920/000119312511078283/,Revenues ; 그 분기 보고서에 연결 총계가 없어 2011-03-25 제출본의 비교기간에서 읽었다,31
+Leidos,LDOS,2010Q1,2010-04-30,분기별 영업이익,207000000,USD,공시(후속 보고서 비교기간),https://www.sec.gov/Archives/edgar/data/1336920/000119312511078283/,OperatingIncomeLoss ; 그 분기 보고서에 연결 총계가 없어 2011-03-25 제출본의 비교기간에서 읽었다,31
+Leidos,LDOS,2010Q1,2010-04-30,분기별 당기순이익(지배),125000000,USD,공시(후속 보고서 비교기간),https://www.sec.gov/Archives/edgar/data/1336920/000119312511078283/,NetIncomeLoss ; 그 분기 보고서에 연결 총계가 없어 2011-03-25 제출본의 비교기간에서 읽었다,31
+Leidos,LDOS,2010Q1,2010-04-30,분기별 영업활동현금흐름,미확인,USD,미확인,https://www.sec.gov/Archives/edgar/data/1336920/000119312510132379/,,31
+Leidos,LDOS,2010Q1,2010-04-30,분기말 자산총계,미확인,USD,미확인,https://www.sec.gov/Archives/edgar/data/1336920/000119312510132379/,,31
+Leidos,LDOS,2010Q1,2010-04-30,분기말 부채총계,미확인,USD,미확인,https://www.sec.gov/Archives/edgar/data/1336920/000119312510132379/,,31
+Leidos,LDOS,2010Q1,2010-04-30,분기말 총자본(자기자본),미확인,USD,미확인,https://www.sec.gov/Archives/edgar/data/1336920/000119312510132379/,,31
+Leidos,LDOS,2010Q1,2010-04-30,분기말 지배지분 자본,미확인,USD,미확인,https://www.sec.gov/Archives/edgar/data/1336920/000119312510132379/,,31
+Leidos,LDOS,2010Q1,2010-04-30,분기말 종가,17.41,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/LDOS?interval=1d&events=splits (2010-04-30),분할조정 종가 42.9877 × 이후 분할계수 0.405,31
+Leidos,LDOS,2010Q1,2010-04-30,분기말 상장주식수,미확인,,미확인,SEC companyfacts·XBRL 원문 모두 dei 표지 주식수 없음,,31
+Leidos,LDOS,2010Q1,2010-04-30,분기말 시가총액,미확인,,미확인,SEC companyfacts·XBRL 원문 모두 dei 표지 주식수 없음,,31
+Leidos,LDOS,2010Q2,2010-07-31,분기별 매출액,2794000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1336920/000119312510204065/,,31
+Leidos,LDOS,2010Q2,2010-07-31,분기별 영업이익,273000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1336920/000119312510204065/,,31
+Leidos,LDOS,2010Q2,2010-07-31,분기별 당기순이익(지배),189000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1336920/000119312510204065/,,31
+Leidos,LDOS,2010Q2,2010-07-31,분기별 영업활동현금흐름,데이터 없음(직전 분기 누적 보고서 없음),USD,데이터 없음(직전 보고서 없음),https://www.sec.gov/Archives/edgar/data/1336920/000119312510204065/,,31
+Leidos,LDOS,2010Q2,2010-07-31,분기말 자산총계,5174000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1336920/000119312510204065/,,31
+Leidos,LDOS,2010Q2,2010-07-31,분기말 부채총계,2894000000,USD,계산(부채및자본-총자본),https://www.sec.gov/Archives/edgar/data/1336920/000119312510204065/,부채및자본 5174000000 − 총자본 2280000000,31
+Leidos,LDOS,2010Q2,2010-07-31,분기말 총자본(자기자본),2280000000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/1336920/000119312510204065/,"StockholdersEquity, MinorityInterest 태그 없음",31
+Leidos,LDOS,2010Q2,2010-07-31,분기말 지배지분 자본,2280000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1336920/000119312510204065/,,31
+Leidos,LDOS,2010Q2,2010-07-30,분기말 종가,16.63,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/LDOS?interval=1d&events=splits (2010-07-30),분할조정 종가 41.0617 × 이후 분할계수 0.405,31
+Leidos,LDOS,2010Q2,2010-08-13,분기말 상장주식수,371687345,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/1336920/000119312510204065/,dei:EntityCommonStockSharesOutstanding 클래스 합,31
+Leidos,LDOS,2010Q2,2010-07-30,분기말 시가총액,6181160547,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/LDOS?interval=1d&events=splits (2010-07-30) ; https://www.sec.gov/Archives/edgar/data/1336920/000119312510204065/,종가 16.63 × 주식수 371687345,31
+Leidos,LDOS,2010Q3,2010-10-31,분기별 매출액,2869000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1336920/000119312510276912/,,31
+Leidos,LDOS,2010Q3,2010-10-31,분기별 영업이익,258000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1336920/000119312510276912/,,31
+Leidos,LDOS,2010Q3,2010-10-31,분기별 당기순이익(지배),172000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1336920/000119312510276912/,,31
+Leidos,LDOS,2010Q3,2010-10-31,분기별 영업활동현금흐름,315000000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/1336920/000119312510276912/ ; https://www.sec.gov/Archives/edgar/data/1336920/000119312510204065/,누적 564000000 − 직전누적 249000000 (시작 2010-02-01),31
+Leidos,LDOS,2010Q3,2010-10-31,분기말 자산총계,5538000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1336920/000119312510276912/,,31
+Leidos,LDOS,2010Q3,2010-10-31,분기말 부채총계,3053000000,USD,계산(부채및자본-총자본),https://www.sec.gov/Archives/edgar/data/1336920/000119312510276912/,부채및자본 5538000000 − 총자본 2485000000,31
+Leidos,LDOS,2010Q3,2010-10-31,분기말 총자본(자기자본),2485000000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/1336920/000119312510276912/,"StockholdersEquity, MinorityInterest 태그 없음",31
+Leidos,LDOS,2010Q3,2010-10-31,분기말 지배지분 자본,2485000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1336920/000119312510276912/,,31
+Leidos,LDOS,2010Q3,2010-10-29,분기말 종가,15.54,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/LDOS?interval=1d&events=splits (2010-10-29),분할조정 종가 38.3704 × 이후 분할계수 0.405,31
+Leidos,LDOS,2010Q3,2010-11-26,분기말 상장주식수,371816623,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/1336920/000119312510276912/,dei:EntityCommonStockSharesOutstanding 클래스 합,31
+Leidos,LDOS,2010Q3,2010-10-29,분기말 시가총액,5778030321,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/LDOS?interval=1d&events=splits (2010-10-29) ; https://www.sec.gov/Archives/edgar/data/1336920/000119312510276912/,종가 15.54 × 주식수 371816623,31
+Leidos,LDOS,2010Q4,2011-01-31,분기별 매출액,2769000000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/1336920/000119312511078283/ ; https://www.sec.gov/Archives/edgar/data/1336920/000119312510276912/,연간 11117000000 − 9개월누적 8348000000 (Revenues),31
+Leidos,LDOS,2010Q4,2011-01-31,분기별 영업이익,220000000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/1336920/000119312511078283/ ; https://www.sec.gov/Archives/edgar/data/1336920/000119312510276912/,연간 958000000 − 9개월누적 738000000 (OperatingIncomeLoss),31
+Leidos,LDOS,2010Q4,2011-01-31,분기별 당기순이익(지배),132000000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/1336920/000119312511078283/ ; https://www.sec.gov/Archives/edgar/data/1336920/000119312510276912/,연간 618000000 − 9개월누적 486000000 (NetIncomeLoss),31
+Leidos,LDOS,2010Q4,2011-01-31,분기별 영업활동현금흐름,173000000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/1336920/000119312511078283/ ; https://www.sec.gov/Archives/edgar/data/1336920/000119312510276912/,누적 737000000 − 직전누적 564000000 (시작 2010-02-01),31
+Leidos,LDOS,2010Q4,2011-01-31,분기말 자산총계,6223000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1336920/000119312511078283/,,31
+Leidos,LDOS,2010Q4,2011-01-31,분기말 부채총계,3732000000,USD,계산(부채및자본-총자본),https://www.sec.gov/Archives/edgar/data/1336920/000119312511078283/,부채및자본 6223000000 − 총자본 2491000000,31
+Leidos,LDOS,2010Q4,2011-01-31,분기말 총자본(자기자본),2491000000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/1336920/000119312511078283/,"StockholdersEquity, MinorityInterest 태그 없음",31
+Leidos,LDOS,2010Q4,2011-01-31,분기말 지배지분 자본,2491000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1336920/000119312511078283/,,31
+Leidos,LDOS,2010Q4,2011-01-31,분기말 종가,16.57,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/LDOS?interval=1d&events=splits (2011-01-31),분할조정 종가 40.9136 × 이후 분할계수 0.405,31
+Leidos,LDOS,2010Q4,2011-03-18,분기말 상장주식수,357671266,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/1336920/000119312511078283/,dei:EntityCommonStockSharesOutstanding 클래스 합,31
+Leidos,LDOS,2010Q4,2011-01-31,분기말 시가총액,5926612878,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/LDOS?interval=1d&events=splits (2011-01-31) ; https://www.sec.gov/Archives/edgar/data/1336920/000119312511078283/,종가 16.57 × 주식수 357671266,31
+Leidos,LDOS,2011Q1,2011-04-30,분기별 매출액,2688000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1336920/000119312511158354/,,31
+Leidos,LDOS,2011Q1,2011-04-30,분기별 영업이익,230000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1336920/000119312511158354/,,31
+Leidos,LDOS,2011Q1,2011-04-30,분기별 당기순이익(지배),131000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1336920/000119312511158354/,,31
+Leidos,LDOS,2011Q1,2011-04-30,분기별 영업활동현금흐름,154000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1336920/000119312511158354/,,31
+Leidos,LDOS,2011Q1,2011-04-30,분기말 자산총계,6183000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1336920/000119312511158354/,,31
+Leidos,LDOS,2011Q1,2011-04-30,분기말 부채총계,3788000000,USD,계산(부채및자본-총자본),https://www.sec.gov/Archives/edgar/data/1336920/000119312511158354/,부채및자본 6183000000 − 총자본 2395000000,31
+Leidos,LDOS,2011Q1,2011-04-30,분기말 총자본(자기자본),2395000000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/1336920/000119312511158354/,"StockholdersEquity, MinorityInterest 태그 없음",31
+Leidos,LDOS,2011Q1,2011-04-30,분기말 지배지분 자본,2395000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1336920/000119312511158354/,,31
+Leidos,LDOS,2011Q1,2011-04-29,분기말 종가,17.4,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/LDOS?interval=1d&events=splits (2011-04-29),분할조정 종가 42.963 × 이후 분할계수 0.405,31
+Leidos,LDOS,2011Q1,2011-05-13,분기말 상장주식수,353206396,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/1336920/000119312511158354/,dei:EntityCommonStockSharesOutstanding 클래스 합,31
+Leidos,LDOS,2011Q1,2011-04-29,분기말 시가총액,6145791290,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/LDOS?interval=1d&events=splits (2011-04-29) ; https://www.sec.gov/Archives/edgar/data/1336920/000119312511158354/,종가 17.4 × 주식수 353206396,31
+Leidos,LDOS,2011Q2,2011-07-31,분기별 매출액,2596000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1336920/000119312511239387/,,31
+Leidos,LDOS,2011Q2,2011-07-31,분기별 영업이익,209000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1336920/000119312511239387/,,31
+Leidos,LDOS,2011Q2,2011-07-31,분기별 당기순이익(지배),178000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1336920/000119312511239387/,,31
+Leidos,LDOS,2011Q2,2011-07-31,분기별 영업활동현금흐름,56000000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/1336920/000119312511239387/ ; https://www.sec.gov/Archives/edgar/data/1336920/000119312511158354/,누적 210000000 − 직전누적 154000000 (시작 2011-02-01),31
+Leidos,LDOS,2011Q2,2011-07-31,분기말 자산총계,6113000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1336920/000119312511239387/,,31
+Leidos,LDOS,2011Q2,2011-07-31,분기말 부채총계,3690000000,USD,계산(부채및자본-총자본),https://www.sec.gov/Archives/edgar/data/1336920/000119312511239387/,부채및자본 6113000000 − 총자본 2423000000,31
+Leidos,LDOS,2011Q2,2011-07-31,분기말 총자본(자기자본),2423000000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/1336920/000119312511239387/,"StockholdersEquity, MinorityInterest 태그 없음",31
+Leidos,LDOS,2011Q2,2011-07-31,분기말 지배지분 자본,2423000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1336920/000119312511239387/,,31
+Leidos,LDOS,2011Q2,2011-07-29,분기말 종가,16.03,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/LDOS?interval=1d&events=splits (2011-07-29),분할조정 종가 39.5802 × 이후 분할계수 0.405,31
+Leidos,LDOS,2011Q2,2011-08-12,분기말 상장주식수,340995694,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/1336920/000119312511239387/,dei:EntityCommonStockSharesOutstanding 클래스 합,31
+Leidos,LDOS,2011Q2,2011-07-29,분기말 시가총액,5466160975,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/LDOS?interval=1d&events=splits (2011-07-29) ; https://www.sec.gov/Archives/edgar/data/1336920/000119312511239387/,종가 16.03 × 주식수 340995694,31
+Leidos,LDOS,2011Q3,2011-10-31,분기별 매출액,2811000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1336920/000119312511335289/,,31
+Leidos,LDOS,2011Q3,2011-10-31,분기별 영업이익,-17000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1336920/000119312511335289/,,31
+Leidos,LDOS,2011Q3,2011-10-31,분기별 당기순이익(지배),-89000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1336920/000119312511335289/,,31
+Leidos,LDOS,2011Q3,2011-10-31,분기별 영업활동현금흐름,423000000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/1336920/000119312511335289/ ; https://www.sec.gov/Archives/edgar/data/1336920/000119312511239387/,누적 633000000 − 직전누적 210000000 (시작 2011-02-01),31
+Leidos,LDOS,2011Q3,2011-10-31,분기말 자산총계,6463000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1336920/000119312511335289/,,31
+Leidos,LDOS,2011Q3,2011-10-31,분기말 부채총계,4137000000,USD,계산(부채및자본-총자본),https://www.sec.gov/Archives/edgar/data/1336920/000119312511335289/,부채및자본 6463000000 − 총자본 2326000000,31
+Leidos,LDOS,2011Q3,2011-10-31,분기말 총자본(자기자본),2326000000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/1336920/000119312511335289/,"StockholdersEquity, MinorityInterest 태그 없음",31
+Leidos,LDOS,2011Q3,2011-10-31,분기말 지배지분 자본,2326000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1336920/000119312511335289/,,31
+Leidos,LDOS,2011Q3,2011-10-31,분기말 종가,12.43,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/LDOS?interval=1d&events=splits (2011-10-31),분할조정 종가 30.6914 × 이후 분할계수 0.405,31
+Leidos,LDOS,2011Q3,2011-11-18,분기말 상장주식수,341212669,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/1336920/000119312511335289/,"XBRL 원문 dei:EntityCommonStockSharesOutstanding 2개 클래스 합 ; 클래스별(2011-11-18): ParentCompanyMember 341207669, SubsidiariesMember 5000",31
+Leidos,LDOS,2011Q3,2011-10-31,분기말 시가총액,4241273476,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/LDOS?interval=1d&events=splits (2011-10-31) ; https://www.sec.gov/Archives/edgar/data/1336920/000119312511335289/,종가 12.43 × 주식수 341212669,31
+Leidos,LDOS,2011Q4,2012-01-31,분기별 매출액,2492000000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/1336920/000119312512133697/ ; https://www.sec.gov/Archives/edgar/data/1336920/000119312511335289/,연간 10587000000 − 9개월누적 8095000000 (Revenues),31
+Leidos,LDOS,2011Q4,2012-01-31,분기별 영업이익,-111000000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/1336920/000119312512133697/ ; https://www.sec.gov/Archives/edgar/data/1336920/000119312511335289/,연간 311000000 − 9개월누적 422000000 (OperatingIncomeLoss),31
+Leidos,LDOS,2011Q4,2012-01-31,분기별 당기순이익(지배),-161000000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/1336920/000119312512133697/ ; https://www.sec.gov/Archives/edgar/data/1336920/000119312511335289/,연간 59000000 − 9개월누적 220000000 (NetIncomeLoss),31
+Leidos,LDOS,2011Q4,2012-01-31,분기별 영업활동현금흐름,139000000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/1336920/000119312512133697/ ; https://www.sec.gov/Archives/edgar/data/1336920/000119312511335289/,누적 772000000 − 직전누적 633000000 (시작 2011-02-01),31
+Leidos,LDOS,2011Q4,2012-01-31,분기말 자산총계,6667000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1336920/000119312512133697/,,31
+Leidos,LDOS,2011Q4,2012-01-31,분기말 부채총계,4486000000,USD,계산(부채및자본-총자본),https://www.sec.gov/Archives/edgar/data/1336920/000119312512133697/,부채및자본 6667000000 − 총자본 2181000000,31
+Leidos,LDOS,2011Q4,2012-01-31,분기말 총자본(자기자본),2181000000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/1336920/000119312512133697/,"StockholdersEquity, MinorityInterest 태그 없음",31
+Leidos,LDOS,2011Q4,2012-01-31,분기말 지배지분 자본,2181000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1336920/000119312512133697/,,31
+Leidos,LDOS,2011Q4,2012-01-31,분기말 종가,12.86,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/LDOS?interval=1d&events=splits (2012-01-31),분할조정 종가 31.7531 × 이후 분할계수 0.405,31
+Leidos,LDOS,2011Q4,2012-03-09,분기말 상장주식수,341100644,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/1336920/000119312512133697/,"XBRL 원문 dei:EntityCommonStockSharesOutstanding 2개 클래스 합 ; 클래스별(2012-03-09): ParentCompanyMember 341095644, SubsidiariesMember 5000",31
+Leidos,LDOS,2011Q4,2012-01-31,분기말 시가총액,4386554282,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/LDOS?interval=1d&events=splits (2012-01-31) ; https://www.sec.gov/Archives/edgar/data/1336920/000119312512133697/,종가 12.86 × 주식수 341100644,31
+Leidos,LDOS,2012Q1,2012-04-30,분기별 매출액,2782000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1336920/000119312512255838/,,31
+Leidos,LDOS,2012Q1,2012-04-30,분기별 영업이익,208000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1336920/000119312512255838/,,31
+Leidos,LDOS,2012Q1,2012-04-30,분기별 당기순이익(지배),117000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1336920/000119312512255838/,,31
+Leidos,LDOS,2012Q1,2012-04-30,분기별 영업활동현금흐름,-361000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1336920/000119312512255838/,,31
+Leidos,LDOS,2012Q1,2012-04-30,분기말 자산총계,6220000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1336920/000119312512255838/,,31
+Leidos,LDOS,2012Q1,2012-04-30,분기말 부채총계,3954000000,USD,계산(부채및자본-총자본),https://www.sec.gov/Archives/edgar/data/1336920/000119312512255838/,부채및자본 6220000000 − 총자본 2266000000,31
+Leidos,LDOS,2012Q1,2012-04-30,분기말 총자본(자기자본),2266000000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/1336920/000119312512255838/,"StockholdersEquity, MinorityInterest 태그 없음",31
+Leidos,LDOS,2012Q1,2012-04-30,분기말 지배지분 자본,2266000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1336920/000119312512255838/,,31
+Leidos,LDOS,2012Q1,2012-04-30,분기말 종가,12.16,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/LDOS?interval=1d&events=splits (2012-04-30),분할조정 종가 30.0247 × 이후 분할계수 0.405,31
+Leidos,LDOS,2012Q1,2012-05-11,분기말 상장주식수,341581401,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/1336920/000119312512255838/,"XBRL 원문 dei:EntityCommonStockSharesOutstanding 2개 클래스 합 ; 클래스별(2012-05-11): ParentCompanyMember 341576401, SubsidiariesMember 5000",31
+Leidos,LDOS,2012Q1,2012-04-30,분기말 시가총액,4153629836,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/LDOS?interval=1d&events=splits (2012-04-30) ; https://www.sec.gov/Archives/edgar/data/1336920/000119312512255838/,종가 12.16 × 주식수 341581401,31
+Leidos,LDOS,2012Q2,2012-07-31,분기별 매출액,2848000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1336920/000119312512376140/,,31
+Leidos,LDOS,2012Q2,2012-07-31,분기별 영업이익,191000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1336920/000119312512376140/,,31
+Leidos,LDOS,2012Q2,2012-07-31,분기별 당기순이익(지배),110000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1336920/000119312512376140/,,31
+Leidos,LDOS,2012Q2,2012-07-31,분기별 영업활동현금흐름,200000000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/1336920/000119312512376140/ ; https://www.sec.gov/Archives/edgar/data/1336920/000119312512255838/,누적 -161000000 − 직전누적 -361000000 (시작 2012-02-01),31
+Leidos,LDOS,2012Q2,2012-07-31,분기말 자산총계,5580000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1336920/000119312512376140/,,31
+Leidos,LDOS,2012Q2,2012-07-31,분기말 부채총계,3221000000,USD,계산(부채및자본-총자본),https://www.sec.gov/Archives/edgar/data/1336920/000119312512376140/,부채및자본 5580000000 − 총자본 2359000000,31
+Leidos,LDOS,2012Q2,2012-07-31,분기말 총자본(자기자본),2359000000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/1336920/000119312512376140/,"StockholdersEquity, MinorityInterest 태그 없음",31
+Leidos,LDOS,2012Q2,2012-07-31,분기말 지배지분 자본,2359000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1336920/000119312512376140/,,31
+Leidos,LDOS,2012Q2,2012-07-31,분기말 종가,11.57,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/LDOS?interval=1d&events=splits (2012-07-31),분할조정 종가 28.5679 × 이후 분할계수 0.405,31
+Leidos,LDOS,2012Q2,2012-08-17,분기말 상장주식수,341831289,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/1336920/000119312512376140/,dei:EntityCommonStockSharesOutstanding 클래스 합,31
+Leidos,LDOS,2012Q2,2012-07-31,분기말 시가총액,3954988014,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/LDOS?interval=1d&events=splits (2012-07-31) ; https://www.sec.gov/Archives/edgar/data/1336920/000119312512376140/,종가 11.57 × 주식수 341831289,31
+Leidos,LDOS,2012Q3,2012-10-31,분기별 매출액,2870000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1336920/000119312512492494/,,31
+Leidos,LDOS,2012Q3,2012-10-31,분기별 영업이익,193000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1336920/000119312512492494/,,31
+Leidos,LDOS,2012Q3,2012-10-31,분기별 당기순이익(지배),112000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1336920/000119312512492494/,,31
+Leidos,LDOS,2012Q3,2012-10-31,분기별 영업활동현금흐름,295000000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/1336920/000119312512492494/ ; https://www.sec.gov/Archives/edgar/data/1336920/000119312512376140/,누적 134000000 − 직전누적 -161000000 (시작 2012-02-01),31
+Leidos,LDOS,2012Q3,2012-10-31,분기말 자산총계,5866000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1336920/000119312512492494/,,31
+Leidos,LDOS,2012Q3,2012-10-31,분기말 부채총계,3411000000,USD,계산(부채및자본-총자본),https://www.sec.gov/Archives/edgar/data/1336920/000119312512492494/,부채및자본 5866000000 − 총자본 2455000000,31
+Leidos,LDOS,2012Q3,2012-10-31,분기말 총자본(자기자본),2455000000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/1336920/000119312512492494/,"StockholdersEquity, MinorityInterest 태그 없음",31
+Leidos,LDOS,2012Q3,2012-10-31,분기말 지배지분 자본,2455000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1336920/000119312512492494/,,31
+Leidos,LDOS,2012Q3,2012-10-31,분기말 종가,10.99,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/LDOS?interval=1d&events=splits (2012-10-31),분할조정 종가 27.1358 × 이후 분할계수 0.405,31
+Leidos,LDOS,2012Q3,2012-11-16,분기말 상장주식수,341871438,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/1336920/000119312512492494/,dei:EntityCommonStockSharesOutstanding 클래스 합,31
+Leidos,LDOS,2012Q3,2012-10-31,분기말 시가총액,3757167104,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/LDOS?interval=1d&events=splits (2012-10-31) ; https://www.sec.gov/Archives/edgar/data/1336920/000119312512492494/,종가 10.99 × 주식수 341871438,31
+Leidos,LDOS,2012Q4,2013-01-31,분기별 매출액,2711000000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/1336920/000119312513127240/ ; https://www.sec.gov/Archives/edgar/data/1336920/000119312512492494/,연간 11173000000 − 9개월누적 8462000000 (Revenues),31
+Leidos,LDOS,2012Q4,2013-01-31,분기별 영업이익,145000000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/1336920/000119312513127240/ ; https://www.sec.gov/Archives/edgar/data/1336920/000119312512492494/,연간 734000000 − 9개월누적 589000000 (OperatingIncomeLoss),31
+Leidos,LDOS,2012Q4,2013-01-31,분기별 당기순이익(지배),186000000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/1336920/000119312513127240/ ; https://www.sec.gov/Archives/edgar/data/1336920/000119312512492494/,연간 525000000 − 9개월누적 339000000 (NetIncomeLoss),31
+Leidos,LDOS,2012Q4,2013-01-31,분기별 영업활동현금흐름,211000000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/1336920/000119312513127240/ ; https://www.sec.gov/Archives/edgar/data/1336920/000119312512492494/,누적 345000000 − 직전누적 134000000 (시작 2012-02-01),31
+Leidos,LDOS,2012Q4,2013-01-31,분기말 자산총계,5875000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1336920/000119312513127240/,,31
+Leidos,LDOS,2012Q4,2013-01-31,분기말 부채총계,3257000000,USD,계산(부채및자본-총자본),https://www.sec.gov/Archives/edgar/data/1336920/000119312513127240/,부채및자본 5875000000 − 총자본 2618000000,31
+Leidos,LDOS,2012Q4,2013-01-31,분기말 총자본(자기자본),2618000000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/1336920/000119312513127240/,"StockholdersEquity, MinorityInterest 태그 없음",31
+Leidos,LDOS,2012Q4,2013-01-31,분기말 지배지분 자본,2618000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1336920/000119312513127240/,,31
+Leidos,LDOS,2012Q4,2013-01-31,분기말 종가,12.1,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/LDOS?interval=1d&events=splits (2013-01-31),분할조정 종가 29.8765 × 이후 분할계수 0.405,31
+Leidos,LDOS,2012Q4,2013-03-08,분기말 상장주식수,341917569,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/1336920/000119312513127240/,dei:EntityCommonStockSharesOutstanding 클래스 합,31
+Leidos,LDOS,2012Q4,2013-01-31,분기말 시가총액,4137202585,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/LDOS?interval=1d&events=splits (2013-01-31) ; https://www.sec.gov/Archives/edgar/data/1336920/000119312513127240/,종가 12.1 × 주식수 341917569,31
+Leidos,LDOS,2013Q1,2013-05-03,분기별 매출액,2707000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1336920/000119312513246802/,,31
+Leidos,LDOS,2013Q1,2013-05-03,분기별 영업이익,142000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1336920/000119312513246802/,,31
+Leidos,LDOS,2013Q1,2013-05-03,분기별 당기순이익(지배),81000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1336920/000119312513246802/,,31
+Leidos,LDOS,2013Q1,2013-05-03,분기별 영업활동현금흐름,-111000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1336920/000119312513246802/,,31
+Leidos,LDOS,2013Q1,2013-05-03,분기말 자산총계,5790000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1336920/000119312513246802/,,31
+Leidos,LDOS,2013Q1,2013-05-03,분기말 부채총계,3486000000,USD,계산(부채및자본-총자본),https://www.sec.gov/Archives/edgar/data/1336920/000119312513246802/,부채및자본 5790000000 − 총자본 2304000000,31
+Leidos,LDOS,2013Q1,2013-05-03,분기말 총자본(자기자본),2304000000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/1336920/000119312513246802/,"StockholdersEquity, MinorityInterest 태그 없음",31
+Leidos,LDOS,2013Q1,2013-05-03,분기말 지배지분 자본,2304000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1336920/000119312513246802/,,31
+Leidos,LDOS,2013Q1,2013-05-03,분기말 종가,14.91,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/LDOS?interval=1d&events=splits (2013-05-03),분할조정 종가 36.8148 × 이후 분할계수 0.405,31
+Leidos,LDOS,2013Q1,2013-05-20,분기말 상장주식수,342518407,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/1336920/000119312513246802/,dei:EntityCommonStockSharesOutstanding 클래스 합,31
+Leidos,LDOS,2013Q1,2013-05-03,분기말 시가총액,5106949448,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/LDOS?interval=1d&events=splits (2013-05-03) ; https://www.sec.gov/Archives/edgar/data/1336920/000119312513246802/,종가 14.91 × 주식수 342518407,31
+Leidos,LDOS,2013Q2,2013-08-02,분기별 매출액,2474000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1336920/000119312513358518/,,31
+Leidos,LDOS,2013Q2,2013-08-02,분기별 영업이익,75000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1336920/000119312513358518/,,31
+Leidos,LDOS,2013Q2,2013-08-02,분기별 당기순이익(지배),42000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1336920/000119312513358518/,,31
+Leidos,LDOS,2013Q2,2013-08-02,분기별 영업활동현금흐름,217000000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/1336920/000119312513358518/ ; https://www.sec.gov/Archives/edgar/data/1336920/000119312513246802/,누적 106000000 − 직전누적 -111000000 (시작 2013-02-01),31
+Leidos,LDOS,2013Q2,2013-08-02,분기말 자산총계,5521000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1336920/000119312513358518/,,31
+Leidos,LDOS,2013Q2,2013-08-02,분기말 부채총계,3176000000,USD,계산(부채및자본-총자본),https://www.sec.gov/Archives/edgar/data/1336920/000119312513358518/,부채및자본 5521000000 − 총자본 2345000000,31
+Leidos,LDOS,2013Q2,2013-08-02,분기말 총자본(자기자본),2345000000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/1336920/000119312513358518/,"StockholdersEquity, MinorityInterest 태그 없음",31
+Leidos,LDOS,2013Q2,2013-08-02,분기말 지배지분 자본,2345000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1336920/000119312513358518/,,31
+Leidos,LDOS,2013Q2,2013-08-02,분기말 종가,15.65,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/LDOS?interval=1d&events=splits (2013-08-02),분할조정 종가 38.642 × 이후 분할계수 0.405,31
+Leidos,LDOS,2013Q2,2013-08-22,분기말 상장주식수,342728475,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/1336920/000119312513358518/,dei:EntityCommonStockSharesOutstanding 클래스 합,31
+Leidos,LDOS,2013Q2,2013-08-02,분기말 시가총액,5363700634,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/LDOS?interval=1d&events=splits (2013-08-02) ; https://www.sec.gov/Archives/edgar/data/1336920/000119312513358518/,종가 15.65 × 주식수 342728475,31
+Leidos,LDOS,2013Q3,2013-11-01,분기별 매출액,1420000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1336920/000133692013000009/,,31
+Leidos,LDOS,2013Q3,2013-11-01,분기별 영업이익,-7000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1336920/000133692013000009/,,31
+Leidos,LDOS,2013Q3,2013-11-01,분기별 당기순이익(지배),-3000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1336920/000133692013000009/,,31
+Leidos,LDOS,2013Q3,2013-11-01,분기별 영업활동현금흐름,-28000000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/1336920/000133692013000009/ ; https://www.sec.gov/Archives/edgar/data/1336920/000119312513358518/,누적 78000000 − 직전누적 106000000 (시작 2013-02-01),31
+Leidos,LDOS,2013Q3,2013-11-01,분기말 자산총계,4635000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1336920/000133692013000009/,,31
+Leidos,LDOS,2013Q3,2013-11-01,분기말 부채총계,2752000000,USD,계산(부채및자본-총자본),https://www.sec.gov/Archives/edgar/data/1336920/000133692013000009/,부채및자본 4635000000 − 총자본 1883000000,31
+Leidos,LDOS,2013Q3,2013-11-01,분기말 총자본(자기자본),1883000000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/1336920/000133692013000009/,"StockholdersEquity, MinorityInterest 태그 없음",31
+Leidos,LDOS,2013Q3,2013-11-01,분기말 지배지분 자본,1883000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1336920/000133692013000009/,,31
+Leidos,LDOS,2013Q3,2013-11-01,분기말 종가,47.41,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/LDOS?interval=1d&events=splits (2013-11-01),,31
+Leidos,LDOS,2013Q3,2013-11-26,분기말 상장주식수,85627012,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/1336920/000133692013000009/,dei:EntityCommonStockSharesOutstanding 클래스 합,31
+Leidos,LDOS,2013Q3,2013-11-01,분기말 시가총액,4059576639,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/LDOS?interval=1d&events=splits (2013-11-01) ; https://www.sec.gov/Archives/edgar/data/1336920/000133692013000009/,종가 47.41 × 주식수 85627012,31
+Leidos,LDOS,2013Q4,2014-01-31,분기별 매출액,1286000000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/1336920/000133692014000007/ ; https://www.sec.gov/Archives/edgar/data/1336920/000133692013000009/,연간 5772000000 − 9개월누적 4486000000 (Revenues),31
+Leidos,LDOS,2013Q4,2014-01-31,분기별 영업이익,95000000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/1336920/000133692014000007/ ; https://www.sec.gov/Archives/edgar/data/1336920/000133692013000009/,연간 164000000 − 9개월누적 69000000 (OperatingIncomeLoss),31
+Leidos,LDOS,2013Q4,2014-01-31,분기별 당기순이익(지배),44000000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/1336920/000133692014000007/ ; https://www.sec.gov/Archives/edgar/data/1336920/000133692013000009/,연간 164000000 − 9개월누적 120000000 (NetIncomeLoss),31
+Leidos,LDOS,2013Q4,2014-01-31,분기별 영업활동현금흐름,117000000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/1336920/000133692014000007/ ; https://www.sec.gov/Archives/edgar/data/1336920/000133692013000009/,누적 195000000 − 직전누적 78000000 (시작 2013-02-01),31
+Leidos,LDOS,2013Q4,2014-01-31,분기말 자산총계,4162000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1336920/000133692014000007/,,31
+Leidos,LDOS,2013Q4,2014-01-31,분기말 부채총계,2567000000,USD,계산(부채및자본-총자본),https://www.sec.gov/Archives/edgar/data/1336920/000133692014000007/,부채및자본 4162000000 − 총자본 1595000000,31
+Leidos,LDOS,2013Q4,2014-01-31,분기말 총자본(자기자본),1595000000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/1336920/000133692014000007/,"StockholdersEquity, MinorityInterest 태그 없음",31
+Leidos,LDOS,2013Q4,2014-01-31,분기말 지배지분 자본,1595000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1336920/000133692014000007/,,31
+Leidos,LDOS,2013Q4,2014-01-31,분기말 종가,45.34,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/LDOS?interval=1d&events=splits (2014-01-31),,31
+Leidos,LDOS,2013Q4,2014-03-18,분기말 상장주식수,79070415,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/1336920/000133692014000007/,dei:EntityCommonStockSharesOutstanding 클래스 합,31
+Leidos,LDOS,2013Q4,2014-01-31,분기말 시가총액,3585052616,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/LDOS?interval=1d&events=splits (2014-01-31) ; https://www.sec.gov/Archives/edgar/data/1336920/000133692014000007/,종가 45.34 × 주식수 79070415,31
+Leidos,LDOS,2014Q1,2014-05-02,분기별 매출액,1320000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1336920/000133692014000014/,,31
+Leidos,LDOS,2014Q1,2014-05-02,분기별 영업이익,89000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1336920/000133692014000014/,,31
+Leidos,LDOS,2014Q1,2014-05-02,분기별 당기순이익(지배),37000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1336920/000133692014000014/,,31
+Leidos,LDOS,2014Q1,2014-05-02,분기별 영업활동현금흐름,-8000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1336920/000133692014000014/,,31
+Leidos,LDOS,2014Q1,2014-05-02,분기말 자산총계,3969000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1336920/000133692014000014/,,31
+Leidos,LDOS,2014Q1,2014-05-02,분기말 부채총계,2564000000,USD,계산(부채및자본-총자본),https://www.sec.gov/Archives/edgar/data/1336920/000133692014000014/,부채및자본 3969000000 − 총자본 1405000000,31
+Leidos,LDOS,2014Q1,2014-05-02,분기말 총자본(자기자본),1405000000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/1336920/000133692014000014/,"StockholdersEquity, MinorityInterest 태그 없음",31
+Leidos,LDOS,2014Q1,2014-05-02,분기말 지배지분 자본,1405000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1336920/000133692014000014/,,31
+Leidos,LDOS,2014Q1,2014-05-02,분기말 종가,36.98,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/LDOS?interval=1d&events=splits (2014-05-02),,31
+Leidos,LDOS,2014Q1,2014-05-23,분기말 상장주식수,74767690,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/1336920/000133692014000014/,dei:EntityCommonStockSharesOutstanding 클래스 합,31
+Leidos,LDOS,2014Q1,2014-05-02,분기말 시가총액,2764909176,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/LDOS?interval=1d&events=splits (2014-05-02) ; https://www.sec.gov/Archives/edgar/data/1336920/000133692014000014/,종가 36.98 × 주식수 74767690,31
+Leidos,LDOS,2014Q2,2014-08-01,분기별 매출액,1306000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1336920/000133692014000022/,,31
+Leidos,LDOS,2014Q2,2014-08-01,분기별 영업이익,-410000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1336920/000133692014000022/,,31
+Leidos,LDOS,2014Q2,2014-08-01,분기별 당기순이익(지배),-438000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1336920/000133692014000022/,,31
+Leidos,LDOS,2014Q2,2014-08-01,분기별 영업활동현금흐름,123000000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/1336920/000133692014000022/ ; https://www.sec.gov/Archives/edgar/data/1336920/000133692014000014/,누적 115000000 − 직전누적 -8000000 (시작 2014-02-01),31
+Leidos,LDOS,2014Q2,2014-08-01,분기말 자산총계,3481000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1336920/000133692014000022/,,31
+Leidos,LDOS,2014Q2,2014-08-01,분기말 부채총계,2524000000,USD,계산(부채및자본-총자본),https://www.sec.gov/Archives/edgar/data/1336920/000133692014000022/,부채및자본 3481000000 − 총자본 957000000,31
+Leidos,LDOS,2014Q2,2014-08-01,분기말 총자본(자기자본),957000000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/1336920/000133692014000022/,"StockholdersEquity, MinorityInterest 태그 없음",31
+Leidos,LDOS,2014Q2,2014-08-01,분기말 지배지분 자본,957000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1336920/000133692014000022/,,31
+Leidos,LDOS,2014Q2,2014-08-01,분기말 종가,36.66,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/LDOS?interval=1d&events=splits (2014-08-01),,31
+Leidos,LDOS,2014Q2,2014-08-29,분기말 상장주식수,74038021,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/1336920/000133692014000022/,dei:EntityCommonStockSharesOutstanding 클래스 합,31
+Leidos,LDOS,2014Q2,2014-08-01,분기말 시가총액,2714233850,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/LDOS?interval=1d&events=splits (2014-08-01) ; https://www.sec.gov/Archives/edgar/data/1336920/000133692014000022/,종가 36.66 × 주식수 74038021,31
+Leidos,LDOS,2014Q3,2014-10-31,분기별 매출액,1276000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1336920/000133692014000031/,,31
+Leidos,LDOS,2014Q3,2014-10-31,분기별 영업이익,72000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1336920/000133692014000031/,,31
+Leidos,LDOS,2014Q3,2014-10-31,분기별 당기순이익(지배),34000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1336920/000133692014000031/,,31
+Leidos,LDOS,2014Q3,2014-10-31,분기별 영업활동현금흐름,179000000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/1336920/000133692014000031/ ; https://www.sec.gov/Archives/edgar/data/1336920/000133692014000022/,누적 294000000 − 직전누적 115000000 (시작 2014-02-01),31
+Leidos,LDOS,2014Q3,2014-10-31,분기말 자산총계,3398000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1336920/000133692014000031/,,31
+Leidos,LDOS,2014Q3,2014-10-31,분기말 부채총계,2422000000,USD,계산(부채및자본-총자본),https://www.sec.gov/Archives/edgar/data/1336920/000133692014000031/,부채및자본 3398000000 − 총자본 976000000,31
+Leidos,LDOS,2014Q3,2014-10-31,분기말 총자본(자기자본),976000000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/1336920/000133692014000031/,"StockholdersEquity, MinorityInterest 태그 없음",31
+Leidos,LDOS,2014Q3,2014-10-31,분기말 지배지분 자본,976000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1336920/000133692014000031/,,31
+Leidos,LDOS,2014Q3,2014-10-31,분기말 종가,36.57,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/LDOS?interval=1d&events=splits (2014-10-31),,31
+Leidos,LDOS,2014Q3,2014-11-24,분기말 상장주식수,74066871,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/1336920/000133692014000031/,dei:EntityCommonStockSharesOutstanding 클래스 합,31
+Leidos,LDOS,2014Q3,2014-10-31,분기말 시가총액,2708625472,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/LDOS?interval=1d&events=splits (2014-10-31) ; https://www.sec.gov/Archives/edgar/data/1336920/000133692014000031/,종가 36.57 × 주식수 74066871,31
+Leidos,LDOS,2014Q4,2015-01-30,분기별 매출액,1169000000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/1336920/000133692015000010/ ; https://www.sec.gov/Archives/edgar/data/1336920/000133692014000031/,연간 5063000000 − 9개월누적 3894000000 (Revenues),31
+Leidos,LDOS,2014Q4,2015-01-30,분기별 영업이익,37000000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/1336920/000133692015000010/ ; https://www.sec.gov/Archives/edgar/data/1336920/000133692014000031/,연간 -214000000 − 9개월누적 -251000000 (OperatingIncomeLoss),31
+Leidos,LDOS,2014Q4,2015-01-30,분기별 당기순이익(지배),44000000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/1336920/000133692015000010/ ; https://www.sec.gov/Archives/edgar/data/1336920/000133692014000031/,연간 -323000000 − 9개월누적 -367000000 (NetIncomeLoss),31
+Leidos,LDOS,2014Q4,2015-01-30,분기별 영업활동현금흐름,102000000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/1336920/000133692015000010/ ; https://www.sec.gov/Archives/edgar/data/1336920/000133692014000031/,누적 396000000 − 직전누적 294000000 (시작 2014-02-01),31
+Leidos,LDOS,2014Q4,2015-01-30,분기말 자산총계,3281000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1336920/000133692015000010/,,31
+Leidos,LDOS,2014Q4,2015-01-30,분기말 부채총계,2283000000,USD,계산(부채및자본-총자본),https://www.sec.gov/Archives/edgar/data/1336920/000133692015000010/,부채및자본 3281000000 − 총자본 998000000,31
+Leidos,LDOS,2014Q4,2015-01-30,분기말 총자본(자기자본),998000000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/1336920/000133692015000010/,"StockholdersEquity, MinorityInterest 태그 없음",31
+Leidos,LDOS,2014Q4,2015-01-30,분기말 지배지분 자본,998000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1336920/000133692015000010/,,31
+Leidos,LDOS,2014Q4,2015-01-30,분기말 종가,41.4,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/LDOS?interval=1d&events=splits (2015-01-30),,31
+Leidos,LDOS,2014Q4,2015-03-16,분기말 상장주식수,74124812,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/1336920/000133692015000010/,dei:EntityCommonStockSharesOutstanding 클래스 합,31
+Leidos,LDOS,2014Q4,2015-01-30,분기말 시가총액,3068767217,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/LDOS?interval=1d&events=splits (2015-01-30) ; https://www.sec.gov/Archives/edgar/data/1336920/000133692015000010/,종가 41.4 × 주식수 74124812,31
+Leidos,LDOS,2015Q1,2015-04-03,분기별 매출액,1246000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1336920/000133692015000017/,,31
+Leidos,LDOS,2015Q1,2015-04-03,분기별 영업이익,38000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1336920/000133692015000017/,,31
+Leidos,LDOS,2015Q1,2015-04-03,분기별 당기순이익(지배),41000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1336920/000133692015000017/,,31
+Leidos,LDOS,2015Q1,2015-04-03,분기별 영업활동현금흐름,-42000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1336920/000133692015000017/,,31
+Leidos,LDOS,2015Q1,2015-04-03,분기말 자산총계,3309000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1336920/000133692015000017/,,31
+Leidos,LDOS,2015Q1,2015-04-03,분기말 부채총계,2309000000,USD,계산(부채및자본-총자본),https://www.sec.gov/Archives/edgar/data/1336920/000133692015000017/,부채및자본 3309000000 − 총자본 1000000000,31
+Leidos,LDOS,2015Q1,2015-04-03,분기말 총자본(자기자본),1000000000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/1336920/000133692015000017/,"StockholdersEquity, MinorityInterest 태그 없음",31
+Leidos,LDOS,2015Q1,2015-04-03,분기말 지배지분 자본,1000000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1336920/000133692015000017/,,31
+Leidos,LDOS,2015Q1,2015-04-02,분기말 종가,42.16,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/LDOS?interval=1d&events=splits (2015-04-02),,31
+Leidos,LDOS,2015Q1,2015-05-04,분기말 상장주식수,74390525,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/1336920/000133692015000017/,dei:EntityCommonStockSharesOutstanding 클래스 합,31
+Leidos,LDOS,2015Q1,2015-04-02,분기말 시가총액,3136304534,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/LDOS?interval=1d&events=splits (2015-04-02) ; https://www.sec.gov/Archives/edgar/data/1336920/000133692015000017/,종가 42.16 × 주식수 74390525,31
+Leidos,LDOS,2015Q2,2015-07-03,분기별 매출액,1257000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1336920/000133692015000046/,,31
+Leidos,LDOS,2015Q2,2015-07-03,분기별 영업이익,64000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1336920/000133692015000046/,,31
+Leidos,LDOS,2015Q2,2015-07-03,분기별 당기순이익(지배),37000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1336920/000133692015000046/,,31
+Leidos,LDOS,2015Q2,2015-07-03,분기별 영업활동현금흐름,151000000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/1336920/000133692015000046/ ; https://www.sec.gov/Archives/edgar/data/1336920/000133692015000017/,누적 109000000 − 직전누적 -42000000 (시작 2015-01-03),31
+Leidos,LDOS,2015Q2,2015-07-03,분기말 자산총계,3211000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1336920/000133692015000046/,,31
+Leidos,LDOS,2015Q2,2015-07-03,분기말 부채총계,2292000000,USD,계산(부채및자본-총자본),https://www.sec.gov/Archives/edgar/data/1336920/000133692015000046/,부채및자본 3211000000 − 총자본 919000000,31
+Leidos,LDOS,2015Q2,2015-07-03,분기말 총자본(자기자본),919000000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/1336920/000133692015000046/,"StockholdersEquity, MinorityInterest 태그 없음",31
+Leidos,LDOS,2015Q2,2015-07-03,분기말 지배지분 자본,919000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1336920/000133692015000046/,,31
+Leidos,LDOS,2015Q2,2015-07-02,분기말 종가,40.41,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/LDOS?interval=1d&events=splits (2015-07-02),,31
+Leidos,LDOS,2015Q2,2015-07-24,분기말 상장주식수,72063425,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/1336920/000133692015000046/,dei:EntityCommonStockSharesOutstanding 클래스 합,31
+Leidos,LDOS,2015Q2,2015-07-02,분기말 시가총액,2912083004,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/LDOS?interval=1d&events=splits (2015-07-02) ; https://www.sec.gov/Archives/edgar/data/1336920/000133692015000046/,종가 40.41 × 주식수 72063425,31
+Leidos,LDOS,2015Q3,2015-10-02,분기별 매출액,1302000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1336920/000133692015000060/,,31
+Leidos,LDOS,2015Q3,2015-10-02,분기별 영업이익,94000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1336920/000133692015000060/,,31
+Leidos,LDOS,2015Q3,2015-10-02,분기별 당기순이익(지배),49000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1336920/000133692015000060/,,31
+Leidos,LDOS,2015Q3,2015-10-02,분기별 영업활동현금흐름,269000000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/1336920/000133692015000060/ ; https://www.sec.gov/Archives/edgar/data/1336920/000133692015000046/,누적 378000000 − 직전누적 109000000 (시작 2015-01-03),31
+Leidos,LDOS,2015Q3,2015-10-02,분기말 자산총계,3302000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1336920/000133692015000060/,,31
+Leidos,LDOS,2015Q3,2015-10-02,분기말 부채총계,2348000000,USD,계산(부채및자본-총자본),https://www.sec.gov/Archives/edgar/data/1336920/000133692015000060/,부채및자본 3302000000 − 총자본 954000000,31
+Leidos,LDOS,2015Q3,2015-10-02,분기말 총자본(자기자본),954000000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/1336920/000133692015000060/,"StockholdersEquity, MinorityInterest 태그 없음",31
+Leidos,LDOS,2015Q3,2015-10-02,분기말 지배지분 자본,954000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1336920/000133692015000060/,,31
+Leidos,LDOS,2015Q3,2015-10-02,분기말 종가,42.13,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/LDOS?interval=1d&events=splits (2015-10-02),,31
+Leidos,LDOS,2015Q3,2015-10-20,분기말 상장주식수,72093161,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/1336920/000133692015000060/,dei:EntityCommonStockSharesOutstanding 클래스 합,31
+Leidos,LDOS,2015Q3,2015-10-02,분기말 시가총액,3037284873,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/LDOS?interval=1d&events=splits (2015-10-02) ; https://www.sec.gov/Archives/edgar/data/1336920/000133692015000060/,종가 42.13 × 주식수 72093161,31
+Leidos,LDOS,2015Q4,,분기별 매출액,미확인,,미확인,해당 라벨 보고서 없음,,31
+Leidos,LDOS,2015Q4,,분기별 영업이익,미확인,,미확인,해당 라벨 보고서 없음,,31
+Leidos,LDOS,2015Q4,,분기별 당기순이익(지배),미확인,,미확인,해당 라벨 보고서 없음,,31
+Leidos,LDOS,2015Q4,,분기별 영업활동현금흐름,미확인,,미확인,해당 라벨 보고서 없음,,31
+Leidos,LDOS,2015Q4,,분기말 자산총계,미확인,,미확인,해당 라벨 보고서 없음,,31
+Leidos,LDOS,2015Q4,,분기말 부채총계,미확인,,미확인,해당 라벨 보고서 없음,,31
+Leidos,LDOS,2015Q4,,분기말 총자본(자기자본),미확인,,미확인,해당 라벨 보고서 없음,,31
+Leidos,LDOS,2015Q4,,분기말 지배지분 자본,미확인,,미확인,해당 라벨 보고서 없음,,31
+Leidos,LDOS,2015Q4,,분기말 종가,미확인,,미확인,해당 라벨 보고서 없음,,31
+Leidos,LDOS,2015Q4,,분기말 상장주식수,미확인,,미확인,해당 라벨 보고서 없음,,31
+Leidos,LDOS,2015Q4,,분기말 시가총액,미확인,,미확인,해당 라벨 보고서 없음,,31
+Leidos,LDOS,2016Q1,2016-04-01,분기별 매출액,1312000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1336920/000133692016000088/,,31
+Leidos,LDOS,2016Q1,2016-04-01,분기별 영업이익,89000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1336920/000133692016000088/,,31
+Leidos,LDOS,2016Q1,2016-04-01,분기별 당기순이익(지배),49000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1336920/000133692016000088/,,31
+Leidos,LDOS,2016Q1,2016-04-01,분기별 영업활동현금흐름,-18000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1336920/000133692016000088/,,31
+Leidos,LDOS,2016Q1,2016-04-01,분기말 자산총계,3391000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1336920/000133692016000088/,,31
+Leidos,LDOS,2016Q1,2016-04-01,분기말 부채총계,2289000000,USD,계산(부채및자본-총자본),https://www.sec.gov/Archives/edgar/data/1336920/000133692016000088/,부채및자본 3391000000 − 총자본 1102000000,31
+Leidos,LDOS,2016Q1,2016-04-01,분기말 총자본(자기자본),1102000000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/1336920/000133692016000088/,"StockholdersEquity, MinorityInterest 태그 없음",31
+Leidos,LDOS,2016Q1,2016-04-01,분기말 지배지분 자본,1102000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1336920/000133692016000088/,,31
+Leidos,LDOS,2016Q1,2016-04-01,분기말 종가,51.39,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/LDOS?interval=1d&events=splits (2016-04-01),,31
+Leidos,LDOS,2016Q1,2016-04-20,분기말 상장주식수,72672491,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/1336920/000133692016000088/,dei:EntityCommonStockSharesOutstanding 클래스 합,31
+Leidos,LDOS,2016Q1,2016-04-01,분기말 시가총액,3734639312,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/LDOS?interval=1d&events=splits (2016-04-01) ; https://www.sec.gov/Archives/edgar/data/1336920/000133692016000088/,종가 51.39 × 주식수 72672491,31
+Leidos,LDOS,2016Q2,2016-07-01,분기별 매출액,1288000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1336920/000133692016000108/,,31
+Leidos,LDOS,2016Q2,2016-07-01,분기별 영업이익,75000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1336920/000133692016000108/,,31
+Leidos,LDOS,2016Q2,2016-07-01,분기별 당기순이익(지배),41000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1336920/000133692016000108/,,31
+Leidos,LDOS,2016Q2,2016-07-01,분기별 영업활동현금흐름,76000000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/1336920/000133692016000108/ ; https://www.sec.gov/Archives/edgar/data/1336920/000133692016000088/,누적 58000000 − 직전누적 -18000000 (시작 2016-01-02),31
+Leidos,LDOS,2016Q2,2016-07-01,분기말 자산총계,3401000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1336920/000133692016000108/,,31
+Leidos,LDOS,2016Q2,2016-07-01,분기말 부채총계,2277000000,USD,계산(부채및자본-총자본),https://www.sec.gov/Archives/edgar/data/1336920/000133692016000108/,부채및자본 3401000000 − 총자본 1124000000,31
+Leidos,LDOS,2016Q2,2016-07-01,분기말 총자본(자기자본),1124000000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/1336920/000133692016000108/,"StockholdersEquity, MinorityInterest 태그 없음",31
+Leidos,LDOS,2016Q2,2016-07-01,분기말 지배지분 자본,1124000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1336920/000133692016000108/,,31
+Leidos,LDOS,2016Q2,2016-07-01,분기말 종가,48.69,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/LDOS?interval=1d&events=splits (2016-07-01),,31
+Leidos,LDOS,2016Q2,2016-07-19,분기말 상장주식수,72800585,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/1336920/000133692016000108/,dei:EntityCommonStockSharesOutstanding 클래스 합,31
+Leidos,LDOS,2016Q2,2016-07-01,분기말 시가총액,3544660484,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/LDOS?interval=1d&events=splits (2016-07-01) ; https://www.sec.gov/Archives/edgar/data/1336920/000133692016000108/,종가 48.69 × 주식수 72800585,31
+Leidos,LDOS,2016Q3,2016-09-30,분기별 매출액,1868000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1336920/000133692016000126/,,31
+Leidos,LDOS,2016Q3,2016-09-30,분기별 영업이익,101000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1336920/000133692016000126/,,31
+Leidos,LDOS,2016Q3,2016-09-30,분기별 당기순이익(지배),91000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1336920/000133692016000126/,,31
+Leidos,LDOS,2016Q3,2016-09-30,분기별 영업활동현금흐름,226000000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/1336920/000133692016000126/ ; https://www.sec.gov/Archives/edgar/data/1336920/000133692016000108/,누적 284000000 − 직전누적 58000000 (시작 2016-01-02),31
+Leidos,LDOS,2016Q3,2016-09-30,분기말 자산총계,9579000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1336920/000133692016000126/,,31
+Leidos,LDOS,2016Q3,2016-09-30,분기말 부채총계,6449000000,USD,계산(부채및자본-총자본),https://www.sec.gov/Archives/edgar/data/1336920/000133692016000126/,부채및자본 9579000000 − 총자본 3130000000,31
+Leidos,LDOS,2016Q3,2016-09-30,분기말 총자본(자기자본),3130000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1336920/000133692016000126/,,31
+Leidos,LDOS,2016Q3,2016-09-30,분기말 지배지분 자본,3116000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1336920/000133692016000126/,,31
+Leidos,LDOS,2016Q3,2016-09-30,분기말 종가,43.28,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/LDOS?interval=1d&events=splits (2016-09-30),,31
+Leidos,LDOS,2016Q3,2016-10-25,분기말 상장주식수,150363756,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/1336920/000133692016000126/,dei:EntityCommonStockSharesOutstanding 클래스 합,31
+Leidos,LDOS,2016Q3,2016-09-30,분기말 시가총액,6507743360,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/LDOS?interval=1d&events=splits (2016-09-30) ; https://www.sec.gov/Archives/edgar/data/1336920/000133692016000126/,종가 43.28 × 주식수 150363756,31
+Leidos,LDOS,2016Q4,2016-12-30,분기별 매출액,2575000000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/1336920/000133692017000014/ ; https://www.sec.gov/Archives/edgar/data/1336920/000133692016000126/,연간 7043000000 − 9개월누적 4468000000 (Revenues),31
+Leidos,LDOS,2016Q4,2016-12-30,분기별 영업이익,152000000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/1336920/000133692017000014/ ; https://www.sec.gov/Archives/edgar/data/1336920/000133692016000126/,연간 417000000 − 9개월누적 265000000 (OperatingIncomeLoss),31
+Leidos,LDOS,2016Q4,2016-12-30,분기별 당기순이익(지배),59000000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/1336920/000133692017000014/ ; https://www.sec.gov/Archives/edgar/data/1336920/000133692016000126/,연간 244000000 − 9개월누적 185000000 (NetIncomeLoss),31
+Leidos,LDOS,2016Q4,2016-12-30,분기별 영업활동현금흐름,162000000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/1336920/000133692017000014/ ; https://www.sec.gov/Archives/edgar/data/1336920/000133692016000126/,누적 446000000 − 직전누적 284000000 (시작 2016-01-02),31
+Leidos,LDOS,2016Q4,2016-12-30,분기말 자산총계,9132000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1336920/000133692017000014/,,31
+Leidos,LDOS,2016Q4,2016-12-30,분기말 부채총계,5985000000,USD,계산(부채및자본-총자본),https://www.sec.gov/Archives/edgar/data/1336920/000133692017000014/,부채및자본 9132000000 − 총자본 3147000000,31
+Leidos,LDOS,2016Q4,2016-12-30,분기말 총자본(자기자본),3147000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1336920/000133692017000014/,,31
+Leidos,LDOS,2016Q4,2016-12-30,분기말 지배지분 자본,3135000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1336920/000133692017000014/,,31
+Leidos,LDOS,2016Q4,2016-12-30,분기말 종가,51.14,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/LDOS?interval=1d&events=splits (2016-12-30),,31
+Leidos,LDOS,2016Q4,2017-02-14,분기말 상장주식수,150352251,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/1336920/000133692017000014/,dei:EntityCommonStockSharesOutstanding 클래스 합,31
+Leidos,LDOS,2016Q4,2016-12-30,분기말 시가총액,7689014116,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/LDOS?interval=1d&events=splits (2016-12-30) ; https://www.sec.gov/Archives/edgar/data/1336920/000133692017000014/,종가 51.14 × 주식수 150352251,31
+Leidos,LDOS,2017Q1,2017-03-31,분기별 매출액,2580000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1336920/000133692017000021/,,31
+Leidos,LDOS,2017Q1,2017-03-31,분기별 영업이익,141000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1336920/000133692017000021/,,31
+Leidos,LDOS,2017Q1,2017-03-31,분기별 당기순이익(지배),72000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1336920/000133692017000021/,,31
+Leidos,LDOS,2017Q1,2017-03-31,분기별 영업활동현금흐름,-88000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1336920/000133692017000021/,,31
+Leidos,LDOS,2017Q1,2017-03-31,분기말 자산총계,9140000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1336920/000133692017000021/,,31
+Leidos,LDOS,2017Q1,2017-03-31,분기말 부채총계,5952000000,USD,계산(부채및자본-총자본),https://www.sec.gov/Archives/edgar/data/1336920/000133692017000021/,부채및자본 9140000000 − 총자본 3188000000,31
+Leidos,LDOS,2017Q1,2017-03-31,분기말 총자본(자기자본),3188000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1336920/000133692017000021/,,31
+Leidos,LDOS,2017Q1,2017-03-31,분기말 지배지분 자본,3177000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1336920/000133692017000021/,,31
+Leidos,LDOS,2017Q1,2017-03-31,분기말 종가,51.14,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/LDOS?interval=1d&events=splits (2017-03-31),,31
+Leidos,LDOS,2017Q1,2017-04-25,분기말 상장주식수,151033623,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/1336920/000133692017000021/,dei:EntityCommonStockSharesOutstanding 클래스 합,31
+Leidos,LDOS,2017Q1,2017-03-31,분기말 시가총액,7723859480,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/LDOS?interval=1d&events=splits (2017-03-31) ; https://www.sec.gov/Archives/edgar/data/1336920/000133692017000021/,종가 51.14 × 주식수 151033623,31
+Leidos,LDOS,2017Q2,2017-06-30,분기별 매출액,2571000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1336920/000133692017000047/,,31
+Leidos,LDOS,2017Q2,2017-06-30,분기별 영업이익,166000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1336920/000133692017000047/,,31
+Leidos,LDOS,2017Q2,2017-06-30,분기별 당기순이익(지배),98000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1336920/000133692017000047/,,31
+Leidos,LDOS,2017Q2,2017-06-30,분기별 영업활동현금흐름,177000000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/1336920/000133692017000047/ ; https://www.sec.gov/Archives/edgar/data/1336920/000133692017000021/,누적 89000000 − 직전누적 -88000000 (시작 2016-12-31),31
+Leidos,LDOS,2017Q2,2017-06-30,분기말 자산총계,8882000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1336920/000133692017000047/,,31
+Leidos,LDOS,2017Q2,2017-06-30,분기말 부채총계,5641000000,USD,계산(부채및자본-총자본),https://www.sec.gov/Archives/edgar/data/1336920/000133692017000047/,부채및자본 8882000000 − 총자본 3241000000,31
+Leidos,LDOS,2017Q2,2017-06-30,분기말 총자본(자기자본),3241000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1336920/000133692017000047/,,31
+Leidos,LDOS,2017Q2,2017-06-30,분기말 지배지분 자본,3224000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1336920/000133692017000047/,,31
+Leidos,LDOS,2017Q2,2017-06-30,분기말 종가,51.69,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/LDOS?interval=1d&events=splits (2017-06-30),,31
+Leidos,LDOS,2017Q2,2017-07-25,분기말 상장주식수,151209095,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/1336920/000133692017000047/,dei:EntityCommonStockSharesOutstanding 클래스 합,31
+Leidos,LDOS,2017Q2,2017-06-30,분기말 시가총액,7815998121,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/LDOS?interval=1d&events=splits (2017-06-30) ; https://www.sec.gov/Archives/edgar/data/1336920/000133692017000047/,종가 51.69 × 주식수 151209095,31
+Leidos,LDOS,2017Q3,2017-09-29,분기별 매출액,2503000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1336920/000133692017000055/,,31
+Leidos,LDOS,2017Q3,2017-09-29,분기별 영업이익,151000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1336920/000133692017000055/,,31
+Leidos,LDOS,2017Q3,2017-09-29,분기별 당기순이익(지배),82000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1336920/000133692017000055/,,31
+Leidos,LDOS,2017Q3,2017-09-29,분기별 영업활동현금흐름,273000000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/1336920/000133692017000055/ ; https://www.sec.gov/Archives/edgar/data/1336920/000133692017000047/,누적 362000000 − 직전누적 89000000 (시작 2016-12-31),31
+Leidos,LDOS,2017Q3,2017-09-29,분기말 자산총계,8923000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1336920/000133692017000055/,,31
+Leidos,LDOS,2017Q3,2017-09-29,분기말 부채총계,5616000000,USD,계산(부채및자본-총자본),https://www.sec.gov/Archives/edgar/data/1336920/000133692017000055/,부채및자본 8923000000 − 총자본 3307000000,31
+Leidos,LDOS,2017Q3,2017-09-29,분기말 총자본(자기자본),3307000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1336920/000133692017000055/,,31
+Leidos,LDOS,2017Q3,2017-09-29,분기말 지배지분 자본,3294000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1336920/000133692017000055/,,31
+Leidos,LDOS,2017Q3,2017-09-29,분기말 종가,59.22,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/LDOS?interval=1d&events=splits (2017-09-29),,31
+Leidos,LDOS,2017Q3,2017-10-24,분기말 상장주식수,151282460,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/1336920/000133692017000055/,dei:EntityCommonStockSharesOutstanding 클래스 합,31
+Leidos,LDOS,2017Q3,2017-09-29,분기말 시가총액,8958947281,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/LDOS?interval=1d&events=splits (2017-09-29) ; https://www.sec.gov/Archives/edgar/data/1336920/000133692017000055/,종가 59.22 × 주식수 151282460,31
+Leidos,LDOS,2017Q4,2017-12-29,분기별 매출액,2516000000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/1336920/000133692018000008/ ; https://www.sec.gov/Archives/edgar/data/1336920/000133692017000055/,연간 10170000000 − 9개월누적 7654000000 (Revenues),31
+Leidos,LDOS,2017Q4,2017-12-29,분기별 영업이익,101000000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/1336920/000133692018000008/ ; https://www.sec.gov/Archives/edgar/data/1336920/000133692017000055/,연간 559000000 − 9개월누적 458000000 (OperatingIncomeLoss),31
+Leidos,LDOS,2017Q4,2017-12-29,분기별 당기순이익(지배),114000000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/1336920/000133692018000008/ ; https://www.sec.gov/Archives/edgar/data/1336920/000133692017000055/,연간 366000000 − 9개월누적 252000000 (NetIncomeLoss),31
+Leidos,LDOS,2017Q4,2017-12-29,분기별 영업활동현금흐름,164000000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/1336920/000133692018000008/ ; https://www.sec.gov/Archives/edgar/data/1336920/000133692017000055/,누적 526000000 − 직전누적 362000000 (시작 2016-12-31),31
+Leidos,LDOS,2017Q4,2017-12-29,분기말 자산총계,8990000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1336920/000133692018000008/,,31
+Leidos,LDOS,2017Q4,2017-12-29,분기말 부채총계,5607000000,USD,계산(부채및자본-총자본),https://www.sec.gov/Archives/edgar/data/1336920/000133692018000008/,부채및자본 8990000000 − 총자본 3383000000,31
+Leidos,LDOS,2017Q4,2017-12-29,분기말 총자본(자기자본),3383000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1336920/000133692018000008/,,31
+Leidos,LDOS,2017Q4,2017-12-29,분기말 지배지분 자본,3370000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1336920/000133692018000008/,,31
+Leidos,LDOS,2017Q4,2017-12-29,분기말 종가,64.57,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/LDOS?interval=1d&events=splits (2017-12-29),,31
+Leidos,LDOS,2017Q4,2018-02-13,분기말 상장주식수,151459401,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/1336920/000133692018000008/,dei:EntityCommonStockSharesOutstanding 클래스 합,31
+Leidos,LDOS,2017Q4,2017-12-29,분기말 시가총액,9779733523,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/LDOS?interval=1d&events=splits (2017-12-29) ; https://www.sec.gov/Archives/edgar/data/1336920/000133692018000008/,종가 64.57 × 주식수 151459401,31
+Leidos,LDOS,2018Q1,2018-03-30,분기별 매출액,2443000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1336920/000133692018000017/,,31
+Leidos,LDOS,2018Q1,2018-03-30,분기별 영업이익,159000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1336920/000133692018000017/,,31
+Leidos,LDOS,2018Q1,2018-03-30,분기별 당기순이익(지배),102000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1336920/000133692018000017/,,31
+Leidos,LDOS,2018Q1,2018-03-30,분기별 영업활동현금흐름,22000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1336920/000133692018000017/,,31
+Leidos,LDOS,2018Q1,2018-03-30,분기말 자산총계,8913000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1336920/000133692018000017/,,31
+Leidos,LDOS,2018Q1,2018-03-30,분기말 부채총계,5479000000,USD,계산(부채및자본-총자본),https://www.sec.gov/Archives/edgar/data/1336920/000133692018000017/,부채및자본 8913000000 − 총자본 3434000000,31
+Leidos,LDOS,2018Q1,2018-03-30,분기말 총자본(자기자본),3434000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1336920/000133692018000017/,,31
+Leidos,LDOS,2018Q1,2018-03-30,분기말 지배지분 자본,3431000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1336920/000133692018000017/,,31
+Leidos,LDOS,2018Q1,2018-03-29,분기말 종가,65.4,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/LDOS?interval=1d&events=splits (2018-03-29),,31
+Leidos,LDOS,2018Q1,2018-04-24,분기말 상장주식수,151785398,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/1336920/000133692018000017/,dei:EntityCommonStockSharesOutstanding 클래스 합,31
+Leidos,LDOS,2018Q1,2018-03-29,분기말 시가총액,9926765029,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/LDOS?interval=1d&events=splits (2018-03-29) ; https://www.sec.gov/Archives/edgar/data/1336920/000133692018000017/,종가 65.4 × 주식수 151785398,31
+Leidos,LDOS,2018Q2,2018-06-29,분기별 매출액,2529000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1336920/000133692018000040/,,31
+Leidos,LDOS,2018Q2,2018-06-29,분기별 영업이익,199000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1336920/000133692018000040/,,31
+Leidos,LDOS,2018Q2,2018-06-29,분기별 당기순이익(지배),144000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1336920/000133692018000040/,,31
+Leidos,LDOS,2018Q2,2018-06-29,분기별 영업활동현금흐름,271000000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/1336920/000133692018000040/ ; https://www.sec.gov/Archives/edgar/data/1336920/000133692018000017/,누적 293000000 − 직전누적 22000000 (시작 2017-12-30),31
+Leidos,LDOS,2018Q2,2018-06-29,분기말 자산총계,8770000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1336920/000133692018000040/,,31
+Leidos,LDOS,2018Q2,2018-06-29,분기말 부채총계,5352000000,USD,계산(부채및자본-총자본),https://www.sec.gov/Archives/edgar/data/1336920/000133692018000040/,부채및자본 8770000000 − 총자본 3418000000,31
+Leidos,LDOS,2018Q2,2018-06-29,분기말 총자본(자기자본),3418000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1336920/000133692018000040/,,31
+Leidos,LDOS,2018Q2,2018-06-29,분기말 지배지분 자본,3416000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1336920/000133692018000040/,,31
+Leidos,LDOS,2018Q2,2018-06-29,분기말 종가,59.0,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/LDOS?interval=1d&events=splits (2018-06-29),,31
+Leidos,LDOS,2018Q2,2018-07-17,분기말 상장주식수,150485383,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/1336920/000133692018000040/,dei:EntityCommonStockSharesOutstanding 클래스 합,31
+Leidos,LDOS,2018Q2,2018-06-29,분기말 시가총액,8878637597,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/LDOS?interval=1d&events=splits (2018-06-29) ; https://www.sec.gov/Archives/edgar/data/1336920/000133692018000040/,종가 59.0 × 주식수 150485383,31
+Leidos,LDOS,2018Q3,2018-09-28,분기별 매출액,2575000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1336920/000133692018000052/,,31
+Leidos,LDOS,2018Q3,2018-09-28,분기별 영업이익,203000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1336920/000133692018000052/,,31
+Leidos,LDOS,2018Q3,2018-09-28,분기별 당기순이익(지배),147000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1336920/000133692018000052/,,31
+Leidos,LDOS,2018Q3,2018-09-28,분기별 영업활동현금흐름,371000000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/1336920/000133692018000052/ ; https://www.sec.gov/Archives/edgar/data/1336920/000133692018000040/,누적 664000000 − 직전누적 293000000 (시작 2017-12-30),31
+Leidos,LDOS,2018Q3,2018-09-28,분기말 자산총계,8908000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1336920/000133692018000052/,,31
+Leidos,LDOS,2018Q3,2018-09-28,분기말 부채총계,5451000000,USD,계산(부채및자본-총자본),https://www.sec.gov/Archives/edgar/data/1336920/000133692018000052/,부채및자본 8908000000 − 총자본 3457000000,31
+Leidos,LDOS,2018Q3,2018-09-28,분기말 총자본(자기자본),3457000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1336920/000133692018000052/,,31
+Leidos,LDOS,2018Q3,2018-09-28,분기말 지배지분 자본,3454000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1336920/000133692018000052/,,31
+Leidos,LDOS,2018Q3,2018-09-28,분기말 종가,69.16,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/LDOS?interval=1d&events=splits (2018-09-28),,31
+Leidos,LDOS,2018Q3,2018-10-16,분기말 상장주식수,149760061,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/1336920/000133692018000052/,dei:EntityCommonStockSharesOutstanding 클래스 합,31
+Leidos,LDOS,2018Q3,2018-09-28,분기말 시가총액,10357405819,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/LDOS?interval=1d&events=splits (2018-09-28) ; https://www.sec.gov/Archives/edgar/data/1336920/000133692018000052/,종가 69.16 × 주식수 149760061,31
+Leidos,LDOS,2018Q4,2018-12-28,분기별 매출액,2647000000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/1336920/000133692019000004/ ; https://www.sec.gov/Archives/edgar/data/1336920/000133692018000052/,연간 10194000000 − 9개월누적 7547000000 (RevenueFromContractWithCustomerExcludingAssessedTax),31
+Leidos,LDOS,2018Q4,2018-12-28,분기별 영업이익,188000000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/1336920/000133692019000004/ ; https://www.sec.gov/Archives/edgar/data/1336920/000133692018000052/,연간 749000000 − 9개월누적 561000000 (OperatingIncomeLoss),31
+Leidos,LDOS,2018Q4,2018-12-28,분기별 당기순이익(지배),188000000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/1336920/000133692019000004/ ; https://www.sec.gov/Archives/edgar/data/1336920/000133692018000052/,연간 581000000 − 9개월누적 393000000 (NetIncomeLoss),31
+Leidos,LDOS,2018Q4,2018-12-28,분기별 영업활동현금흐름,104000000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/1336920/000133692019000004/ ; https://www.sec.gov/Archives/edgar/data/1336920/000133692018000052/,누적 768000000 − 직전누적 664000000 (시작 2017-12-30),31
+Leidos,LDOS,2018Q4,2018-12-28,분기말 자산총계,8770000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1336920/000133692019000004/,,31
+Leidos,LDOS,2018Q4,2018-12-28,분기말 부채총계,5459000000,USD,계산(부채및자본-총자본),https://www.sec.gov/Archives/edgar/data/1336920/000133692019000004/,부채및자본 8770000000 − 총자본 3311000000,31
+Leidos,LDOS,2018Q4,2018-12-28,분기말 총자본(자기자본),3311000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1336920/000133692019000004/,,31
+Leidos,LDOS,2018Q4,2018-12-28,분기말 지배지분 자본,3308000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1336920/000133692019000004/,,31
+Leidos,LDOS,2018Q4,2018-12-28,분기말 종가,52.4,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/LDOS?interval=1d&events=splits (2018-12-28),,31
+Leidos,LDOS,2018Q4,2019-02-11,분기말 상장주식수,146160889,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/1336920/000133692019000004/,dei:EntityCommonStockSharesOutstanding 클래스 합,31
+Leidos,LDOS,2018Q4,2018-12-28,분기말 시가총액,7658830584,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/LDOS?interval=1d&events=splits (2018-12-28) ; https://www.sec.gov/Archives/edgar/data/1336920/000133692019000004/,종가 52.4 × 주식수 146160889,31
+Leidos,LDOS,2019Q1,2019-03-29,분기별 매출액,2559000000,USD,공시(재작성 반영),https://www.sec.gov/Archives/edgar/data/1336920/000133692020000038/,원 공시 2577000000 (https://www.sec.gov/Archives/edgar/data/1336920/000133692019000015/),31
+Leidos,LDOS,2019Q1,2019-03-29,분기별 영업이익,192000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1336920/000133692019000015/,,31
+Leidos,LDOS,2019Q1,2019-03-29,분기별 당기순이익(지배),189000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1336920/000133692019000015/,,31
+Leidos,LDOS,2019Q1,2019-03-29,분기별 영업활동현금흐름,288000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1336920/000133692019000015/,,31
+Leidos,LDOS,2019Q1,2019-03-29,분기말 자산총계,9360000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1336920/000133692019000015/,,31
+Leidos,LDOS,2019Q1,2019-03-29,분기말 부채총계,6063000000,USD,계산(부채및자본-총자본),https://www.sec.gov/Archives/edgar/data/1336920/000133692019000015/,부채및자본 9360000000 − 총자본 3297000000,31
+Leidos,LDOS,2019Q1,2019-03-29,분기말 총자본(자기자본),3297000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1336920/000133692019000015/,,31
+Leidos,LDOS,2019Q1,2019-03-29,분기말 지배지분 자본,3294000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1336920/000133692019000015/,,31
+Leidos,LDOS,2019Q1,2019-03-29,분기말 종가,64.09,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/LDOS?interval=1d&events=splits (2019-03-29),,31
+Leidos,LDOS,2019Q1,2019-04-22,분기말 상장주식수,144212482,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/1336920/000133692019000015/,dei:EntityCommonStockSharesOutstanding 클래스 합,31
+Leidos,LDOS,2019Q1,2019-03-29,분기말 시가총액,9242577971,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/LDOS?interval=1d&events=splits (2019-03-29) ; https://www.sec.gov/Archives/edgar/data/1336920/000133692019000015/,종가 64.09 × 주식수 144212482,31
+Leidos,LDOS,2019Q2,2019-06-28,분기별 매출액,2716000000,USD,공시(재작성 반영),https://www.sec.gov/Archives/edgar/data/1336920/000133692020000069/,원 공시 2728000000 (https://www.sec.gov/Archives/edgar/data/1336920/000133692019000041/),31
+Leidos,LDOS,2019Q2,2019-06-28,분기별 영업이익,210000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1336920/000133692019000041/,,31
+Leidos,LDOS,2019Q2,2019-06-28,분기별 당기순이익(지배),136000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1336920/000133692019000041/,,31
+Leidos,LDOS,2019Q2,2019-06-28,분기별 영업활동현금흐름,186000000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/1336920/000133692019000041/ ; https://www.sec.gov/Archives/edgar/data/1336920/000133692019000015/,누적 474000000 − 직전누적 288000000 (시작 2018-12-29),31
+Leidos,LDOS,2019Q2,2019-06-28,분기말 자산총계,9327000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1336920/000133692019000041/,,31
+Leidos,LDOS,2019Q2,2019-06-28,분기말 부채총계,5965000000,USD,계산(부채및자본-총자본),https://www.sec.gov/Archives/edgar/data/1336920/000133692019000041/,부채및자본 9327000000 − 총자본 3362000000,31
+Leidos,LDOS,2019Q2,2019-06-28,분기말 총자본(자기자본),3362000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1336920/000133692019000041/,,31
+Leidos,LDOS,2019Q2,2019-06-28,분기말 지배지분 자본,3359000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1336920/000133692019000041/,,31
+Leidos,LDOS,2019Q2,2019-06-28,분기말 종가,79.85,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/LDOS?interval=1d&events=splits (2019-06-28),,31
+Leidos,LDOS,2019Q2,2019-07-22,분기말 상장주식수,143807816,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/1336920/000133692019000041/,dei:EntityCommonStockSharesOutstanding 클래스 합,31
+Leidos,LDOS,2019Q2,2019-06-28,분기말 시가총액,11483054108,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/LDOS?interval=1d&events=splits (2019-06-28) ; https://www.sec.gov/Archives/edgar/data/1336920/000133692019000041/,종가 79.85 × 주식수 143807816,31
+Leidos,LDOS,2019Q3,2019-09-27,분기별 매출액,2835000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1336920/000133692019000054/,,31
+Leidos,LDOS,2019Q3,2019-09-27,분기별 영업이익,249000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1336920/000133692019000054/,,31
+Leidos,LDOS,2019Q3,2019-09-27,분기별 당기순이익(지배),161000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1336920/000133692019000054/,,31
+Leidos,LDOS,2019Q3,2019-09-27,분기별 영업활동현금흐름,349000000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/1336920/000133692019000054/ ; https://www.sec.gov/Archives/edgar/data/1336920/000133692019000041/,누적 823000000 − 직전누적 474000000 (시작 2018-12-29),31
+Leidos,LDOS,2019Q3,2019-09-27,분기말 자산총계,9410000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1336920/000133692019000054/,,31
+Leidos,LDOS,2019Q3,2019-09-27,분기말 부채총계,6160000000,USD,계산(부채및자본-총자본),https://www.sec.gov/Archives/edgar/data/1336920/000133692019000054/,부채및자본 9410000000 − 총자본 3250000000,31
+Leidos,LDOS,2019Q3,2019-09-27,분기말 총자본(자기자본),3250000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1336920/000133692019000054/,,31
+Leidos,LDOS,2019Q3,2019-09-27,분기말 지배지분 자본,3246000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1336920/000133692019000054/,,31
+Leidos,LDOS,2019Q3,2019-09-27,분기말 종가,85.02,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/LDOS?interval=1d&events=splits (2019-09-27),,31
+Leidos,LDOS,2019Q3,2019-10-21,분기말 상장주식수,141563826,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/1336920/000133692019000054/,dei:EntityCommonStockSharesOutstanding 클래스 합,31
+Leidos,LDOS,2019Q3,2019-09-27,분기말 시가총액,12035756487,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/LDOS?interval=1d&events=splits (2019-09-27) ; https://www.sec.gov/Archives/edgar/data/1336920/000133692019000054/,종가 85.02 × 주식수 141563826,31
+Leidos,LDOS,2019Q4,2020-01-03,분기별 매출액,2954000000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/1336920/000133692020000023/ ; https://www.sec.gov/Archives/edgar/data/1336920/000133692019000054/,연간 11094000000 − 9개월누적 8140000000 (Revenues),31
+Leidos,LDOS,2019Q4,2020-01-03,분기별 영업이익,261000000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/1336920/000133692020000023/ ; https://www.sec.gov/Archives/edgar/data/1336920/000133692019000054/,연간 912000000 − 9개월누적 651000000 (OperatingIncomeLoss),31
+Leidos,LDOS,2019Q4,2020-01-03,분기별 당기순이익(지배),181000000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/1336920/000133692020000023/ ; https://www.sec.gov/Archives/edgar/data/1336920/000133692019000054/,연간 667000000 − 9개월누적 486000000 (NetIncomeLoss),31
+Leidos,LDOS,2019Q4,2020-01-03,분기별 영업활동현금흐름,169000000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/1336920/000133692020000023/ ; https://www.sec.gov/Archives/edgar/data/1336920/000133692019000054/,누적 992000000 − 직전누적 823000000 (시작 2018-12-29),31
+Leidos,LDOS,2019Q4,2020-01-03,분기말 자산총계,9367000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1336920/000133692020000023/,,31
+Leidos,LDOS,2019Q4,2020-01-03,분기말 부채총계,5950000000,USD,계산(부채및자본-총자본),https://www.sec.gov/Archives/edgar/data/1336920/000133692020000023/,부채및자본 9367000000 − 총자본 3417000000,31
+Leidos,LDOS,2019Q4,2020-01-03,분기말 총자본(자기자본),3417000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1336920/000133692020000023/,,31
+Leidos,LDOS,2019Q4,2020-01-03,분기말 지배지분 자본,3413000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1336920/000133692020000023/,,31
+Leidos,LDOS,2019Q4,2020-01-03,분기말 종가,99.48,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/LDOS?interval=1d&events=splits (2020-01-03),,31
+Leidos,LDOS,2019Q4,2020-02-10,분기말 상장주식수,141402269,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/1336920/000133692020000023/,dei:EntityCommonStockSharesOutstanding 클래스 합,31
+Leidos,LDOS,2019Q4,2020-01-03,분기말 시가총액,14066697720,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/LDOS?interval=1d&events=splits (2020-01-03) ; https://www.sec.gov/Archives/edgar/data/1336920/000133692020000023/,종가 99.48 × 주식수 141402269,31
+Leidos,LDOS,2020Q1,2020-04-03,분기별 매출액,2889000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1336920/000133692020000038/,,31
+Leidos,LDOS,2020Q1,2020-04-03,분기별 영업이익,192000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1336920/000133692020000038/,,31
+Leidos,LDOS,2020Q1,2020-04-03,분기별 당기순이익(지배),115000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1336920/000133692020000038/,,31
+Leidos,LDOS,2020Q1,2020-04-03,분기별 영업활동현금흐름,372000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1336920/000133692020000038/,,31
+Leidos,LDOS,2020Q1,2020-04-03,분기말 자산총계,10988000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1336920/000133692020000038/,,31
+Leidos,LDOS,2020Q1,2020-04-03,분기말 부채총계,7629000000,USD,계산(부채및자본-총자본),https://www.sec.gov/Archives/edgar/data/1336920/000133692020000038/,부채및자본 10988000000 − 총자본 3359000000,31
+Leidos,LDOS,2020Q1,2020-04-03,분기말 총자본(자기자본),3359000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1336920/000133692020000038/,,31
+Leidos,LDOS,2020Q1,2020-04-03,분기말 지배지분 자본,3355000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1336920/000133692020000038/,,31
+Leidos,LDOS,2020Q1,2020-04-03,분기말 종가,87.94,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/LDOS?interval=1d&events=splits (2020-04-03),,31
+Leidos,LDOS,2020Q1,2020-04-27,분기말 상장주식수,142043769,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/1336920/000133692020000038/,dei:EntityCommonStockSharesOutstanding 클래스 합,31
+Leidos,LDOS,2020Q1,2020-04-03,분기말 시가총액,12491329046,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/LDOS?interval=1d&events=splits (2020-04-03) ; https://www.sec.gov/Archives/edgar/data/1336920/000133692020000038/,종가 87.94 × 주식수 142043769,31
+Leidos,LDOS,2020Q2,2020-07-03,분기별 매출액,2914000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1336920/000133692020000069/,,31
+Leidos,LDOS,2020Q2,2020-07-03,분기별 영업이익,249000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1336920/000133692020000069/,,31
+Leidos,LDOS,2020Q2,2020-07-03,분기별 당기순이익(지배),153000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1336920/000133692020000069/,,31
+Leidos,LDOS,2020Q2,2020-07-03,분기별 영업활동현금흐름,422000000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/1336920/000133692020000069/ ; https://www.sec.gov/Archives/edgar/data/1336920/000133692020000038/,누적 794000000 − 직전누적 372000000 (시작 2020-01-04),31
+Leidos,LDOS,2020Q2,2020-07-03,분기말 자산총계,12143000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1336920/000133692020000069/,,31
+Leidos,LDOS,2020Q2,2020-07-03,분기말 부채총계,8596000000,USD,계산(부채및자본-총자본),https://www.sec.gov/Archives/edgar/data/1336920/000133692020000069/,부채및자본 12143000000 − 총자본 3547000000,31
+Leidos,LDOS,2020Q2,2020-07-03,분기말 총자본(자기자본),3547000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1336920/000133692020000069/,,31
+Leidos,LDOS,2020Q2,2020-07-03,분기말 지배지분 자본,3538000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1336920/000133692020000069/,,31
+Leidos,LDOS,2020Q2,2020-07-02,분기말 종가,93.64,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/LDOS?interval=1d&events=splits (2020-07-02),,31
+Leidos,LDOS,2020Q2,2020-07-27,분기말 상장주식수,142193551,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/1336920/000133692020000069/,dei:EntityCommonStockSharesOutstanding 클래스 합,31
+Leidos,LDOS,2020Q2,2020-07-02,분기말 시가총액,13315004116,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/LDOS?interval=1d&events=splits (2020-07-02) ; https://www.sec.gov/Archives/edgar/data/1336920/000133692020000069/,종가 93.64 × 주식수 142193551,31
+Leidos,LDOS,2020Q3,2020-10-02,분기별 매출액,3242000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1336920/000133692020000083/,,31
+Leidos,LDOS,2020Q3,2020-10-02,분기별 영업이익,258000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1336920/000133692020000083/,,31
+Leidos,LDOS,2020Q3,2020-10-02,분기별 당기순이익(지배),163000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1336920/000133692020000083/,,31
+Leidos,LDOS,2020Q3,2020-10-02,분기별 영업활동현금흐름,592000000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/1336920/000133692020000083/ ; https://www.sec.gov/Archives/edgar/data/1336920/000133692020000069/,누적 1386000000 − 직전누적 794000000 (시작 2020-01-04),31
+Leidos,LDOS,2020Q3,2020-10-02,분기말 자산총계,12285000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1336920/000133692020000083/,,31
+Leidos,LDOS,2020Q3,2020-10-02,분기말 부채총계,8570000000,USD,계산(부채및자본-총자본),https://www.sec.gov/Archives/edgar/data/1336920/000133692020000083/,부채및자본 12285000000 − 총자본 3715000000,31
+Leidos,LDOS,2020Q3,2020-10-02,분기말 총자본(자기자본),3715000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1336920/000133692020000083/,,31
+Leidos,LDOS,2020Q3,2020-10-02,분기말 지배지분 자본,3706000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1336920/000133692020000083/,,31
+Leidos,LDOS,2020Q3,2020-10-02,분기말 종가,90.39,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/LDOS?interval=1d&events=splits (2020-10-02),,31
+Leidos,LDOS,2020Q3,2020-10-26,분기말 상장주식수,142320981,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/1336920/000133692020000083/,dei:EntityCommonStockSharesOutstanding 클래스 합,31
+Leidos,LDOS,2020Q3,2020-10-02,분기말 시가총액,12864393473,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/LDOS?interval=1d&events=splits (2020-10-02) ; https://www.sec.gov/Archives/edgar/data/1336920/000133692020000083/,종가 90.39 × 주식수 142320981,31
+Leidos,LDOS,2020Q4,2021-01-01,분기별 매출액,3252000000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/1336920/000133692021000010/ ; https://www.sec.gov/Archives/edgar/data/1336920/000133692020000083/,연간 12297000000 − 9개월누적 9045000000 (Revenues),31
+Leidos,LDOS,2020Q4,2021-01-01,분기별 영업이익,299000000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/1336920/000133692021000010/ ; https://www.sec.gov/Archives/edgar/data/1336920/000133692020000083/,연간 998000000 − 9개월누적 699000000 (OperatingIncomeLoss),31
+Leidos,LDOS,2020Q4,2021-01-01,분기별 당기순이익(지배),197000000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/1336920/000133692021000010/ ; https://www.sec.gov/Archives/edgar/data/1336920/000133692020000083/,연간 628000000 − 9개월누적 431000000 (NetIncomeLoss),31
+Leidos,LDOS,2020Q4,2021-01-01,분기별 영업활동현금흐름,-52000000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/1336920/000133692021000010/ ; https://www.sec.gov/Archives/edgar/data/1336920/000133692020000083/,누적 1334000000 − 직전누적 1386000000 (시작 2020-01-04),31
+Leidos,LDOS,2020Q4,2021-01-01,분기말 자산총계,12511000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1336920/000133692021000010/,,31
+Leidos,LDOS,2020Q4,2021-01-01,분기말 부채총계,8640000000,USD,계산(부채및자본-총자본),https://www.sec.gov/Archives/edgar/data/1336920/000133692021000010/,부채및자본 12511000000 − 총자본 3871000000,31
+Leidos,LDOS,2020Q4,2021-01-01,분기말 총자본(자기자본),3871000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1336920/000133692021000010/,,31
+Leidos,LDOS,2020Q4,2021-01-01,분기말 지배지분 자본,3862000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1336920/000133692021000010/,,31
+Leidos,LDOS,2020Q4,2020-12-31,분기말 종가,105.12,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/LDOS?interval=1d&events=splits (2020-12-31),,31
+Leidos,LDOS,2020Q4,2021-02-15,분기말 상장주식수,141894753,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/1336920/000133692021000010/,dei:EntityCommonStockSharesOutstanding 클래스 합,31
+Leidos,LDOS,2020Q4,2020-12-31,분기말 시가총액,14915976435,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/LDOS?interval=1d&events=splits (2020-12-31) ; https://www.sec.gov/Archives/edgar/data/1336920/000133692021000010/,종가 105.12 × 주식수 141894753,31
+Leidos,LDOS,2021Q1,2021-04-02,분기별 매출액,3315000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1336920/000133692021000019/,,31
+Leidos,LDOS,2021Q1,2021-04-02,분기별 영업이익,308000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1336920/000133692021000019/,,31
+Leidos,LDOS,2021Q1,2021-04-02,분기별 당기순이익(지배),205000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1336920/000133692021000019/,,31
+Leidos,LDOS,2021Q1,2021-04-02,분기별 영업활동현금흐름,239000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1336920/000133692021000019/,,31
+Leidos,LDOS,2021Q1,2021-04-02,분기말 자산총계,12638000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1336920/000133692021000019/,,31
+Leidos,LDOS,2021Q1,2021-04-02,분기말 부채총계,8658000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1336920/000133692021000019/,,31
+Leidos,LDOS,2021Q1,2021-04-02,분기말 총자본(자기자본),3980000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1336920/000133692021000019/,,31
+Leidos,LDOS,2021Q1,2021-04-02,분기말 지배지분 자본,3933000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1336920/000133692021000019/,,31
+Leidos,LDOS,2021Q1,2021-04-01,분기말 종가,96.45,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/LDOS?interval=1d&events=splits (2021-04-01),,31
+Leidos,LDOS,2021Q1,2021-04-26,분기말 상장주식수,141420159,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/1336920/000133692021000019/,dei:EntityCommonStockSharesOutstanding 클래스 합,31
+Leidos,LDOS,2021Q1,2021-04-01,분기말 시가총액,13639974336,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/LDOS?interval=1d&events=splits (2021-04-01) ; https://www.sec.gov/Archives/edgar/data/1336920/000133692021000019/,종가 96.45 × 주식수 141420159,31
+Leidos,LDOS,2021Q2,2021-07-02,분기별 매출액,3448000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1336920/000133692021000038/,,31
+Leidos,LDOS,2021Q2,2021-07-02,분기별 영업이익,269000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1336920/000133692021000038/,,31
+Leidos,LDOS,2021Q2,2021-07-02,분기별 당기순이익(지배),169000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1336920/000133692021000038/,,31
+Leidos,LDOS,2021Q2,2021-07-02,분기별 영업활동현금흐름,17000000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/1336920/000133692021000038/ ; https://www.sec.gov/Archives/edgar/data/1336920/000133692021000019/,누적 256000000 − 직전누적 239000000 (시작 2021-01-02),31
+Leidos,LDOS,2021Q2,2021-07-02,분기말 자산총계,13035000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1336920/000133692021000038/,,31
+Leidos,LDOS,2021Q2,2021-07-02,분기말 부채총계,8887000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1336920/000133692021000038/,,31
+Leidos,LDOS,2021Q2,2021-07-02,분기말 총자본(자기자본),4148000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1336920/000133692021000038/,,31
+Leidos,LDOS,2021Q2,2021-07-02,분기말 지배지분 자본,4099000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1336920/000133692021000038/,,31
+Leidos,LDOS,2021Q2,2021-07-02,분기말 종가,102.56,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/LDOS?interval=1d&events=splits (2021-07-02),,31
+Leidos,LDOS,2021Q2,2021-07-26,분기말 상장주식수,141565183,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/1336920/000133692021000038/,dei:EntityCommonStockSharesOutstanding 클래스 합,31
+Leidos,LDOS,2021Q2,2021-07-02,분기말 시가총액,14518925168,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/LDOS?interval=1d&events=splits (2021-07-02) ; https://www.sec.gov/Archives/edgar/data/1336920/000133692021000038/,종가 102.56 × 주식수 141565183,31
+Leidos,LDOS,2021Q3,2021-10-01,분기별 매출액,3483000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1336920/000133692021000052/,,31
+Leidos,LDOS,2021Q3,2021-10-01,분기별 영업이익,305000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1336920/000133692021000052/,,31
+Leidos,LDOS,2021Q3,2021-10-01,분기별 당기순이익(지배),205000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1336920/000133692021000052/,,31
+Leidos,LDOS,2021Q3,2021-10-01,분기별 영업활동현금흐름,565000000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/1336920/000133692021000052/ ; https://www.sec.gov/Archives/edgar/data/1336920/000133692021000038/,누적 821000000 − 직전누적 256000000 (시작 2021-01-02),31
+Leidos,LDOS,2021Q3,2021-10-01,분기말 자산총계,13281000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1336920/000133692021000052/,,31
+Leidos,LDOS,2021Q3,2021-10-01,분기말 부채총계,9115000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1336920/000133692021000052/,,31
+Leidos,LDOS,2021Q3,2021-10-01,분기말 총자본(자기자본),4166000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1336920/000133692021000052/,,31
+Leidos,LDOS,2021Q3,2021-10-01,분기말 지배지분 자본,4115000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1336920/000133692021000052/,,31
+Leidos,LDOS,2021Q3,2021-10-01,분기말 종가,97.43,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/LDOS?interval=1d&events=splits (2021-10-01),,31
+Leidos,LDOS,2021Q3,2021-10-25,분기말 상장주식수,140339356,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/1336920/000133692021000052/,dei:EntityCommonStockSharesOutstanding 클래스 합,31
+Leidos,LDOS,2021Q3,2021-10-01,분기말 시가총액,13673263455,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/LDOS?interval=1d&events=splits (2021-10-01) ; https://www.sec.gov/Archives/edgar/data/1336920/000133692021000052/,종가 97.43 × 주식수 140339356,31
+Leidos,LDOS,2021Q4,2021-12-31,분기별 매출액,3491000000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/1336920/000133692022000007/ ; https://www.sec.gov/Archives/edgar/data/1336920/000133692021000052/,연간 13737000000 − 9개월누적 10246000000 (Revenues),31
+Leidos,LDOS,2021Q4,2021-12-31,분기별 영업이익,270000000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/1336920/000133692022000007/ ; https://www.sec.gov/Archives/edgar/data/1336920/000133692021000052/,연간 1152000000 − 9개월누적 882000000 (OperatingIncomeLoss),31
+Leidos,LDOS,2021Q4,2021-12-31,분기별 당기순이익(지배),174000000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/1336920/000133692022000007/ ; https://www.sec.gov/Archives/edgar/data/1336920/000133692021000052/,연간 753000000 − 9개월누적 579000000 (NetIncomeLoss),31
+Leidos,LDOS,2021Q4,2021-12-31,분기별 영업활동현금흐름,212000000,USD,계산(누적차감)(재작성 반영),https://www.sec.gov/Archives/edgar/data/1336920/000133692024000008/ ; https://www.sec.gov/Archives/edgar/data/1336920/000133692021000052/,누적 1033000000 − 직전누적 821000000 (시작 2021-01-02) ; 원 공시 210000000 (https://www.sec.gov/Archives/edgar/data/1336920/000133692022000007/ ; https://www.sec.gov/Archives/edgar/data/1336920/000133692021000052/),31
+Leidos,LDOS,2021Q4,2021-12-31,분기말 자산총계,13261000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1336920/000133692022000007/,,31
+Leidos,LDOS,2021Q4,2021-12-31,분기말 부채총계,8917000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1336920/000133692022000007/,,31
+Leidos,LDOS,2021Q4,2021-12-31,분기말 총자본(자기자본),4344000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1336920/000133692022000007/,,31
+Leidos,LDOS,2021Q4,2021-12-31,분기말 지배지분 자본,4291000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1336920/000133692022000007/,,31
+Leidos,LDOS,2021Q4,2021-12-31,분기말 종가,88.9,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/LDOS?interval=1d&events=splits (2021-12-31),,31
+Leidos,LDOS,2021Q4,2022-02-08,분기말 상장주식수,140505454,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/1336920/000133692022000007/,dei:EntityCommonStockSharesOutstanding 클래스 합,31
+Leidos,LDOS,2021Q4,2021-12-31,분기말 시가총액,12490934861,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/LDOS?interval=1d&events=splits (2021-12-31) ; https://www.sec.gov/Archives/edgar/data/1336920/000133692022000007/,종가 88.9 × 주식수 140505454,31
+Leidos,LDOS,2022Q1,2022-04-01,분기별 매출액,3494000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1336920/000133692022000024/,,31
+Leidos,LDOS,2022Q1,2022-04-01,분기별 영업이익,271000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1336920/000133692022000024/,,31
+Leidos,LDOS,2022Q1,2022-04-01,분기별 당기순이익(지배),175000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1336920/000133692022000024/,,31
+Leidos,LDOS,2022Q1,2022-04-01,분기별 영업활동현금흐름,93000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1336920/000133692022000024/,,31
+Leidos,LDOS,2022Q1,2022-04-01,분기말 자산총계,13030000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1336920/000133692022000024/,,31
+Leidos,LDOS,2022Q1,2022-04-01,분기말 부채총계,9022000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1336920/000133692022000024/,,31
+Leidos,LDOS,2022Q1,2022-04-01,분기말 총자본(자기자본),4008000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1336920/000133692022000024/,,31
+Leidos,LDOS,2022Q1,2022-04-01,분기말 지배지분 자본,3955000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1336920/000133692022000024/,,31
+Leidos,LDOS,2022Q1,2022-04-01,분기말 종가,108.3,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/LDOS?interval=1d&events=splits (2022-04-01),,31
+Leidos,LDOS,2022Q1,2022-04-26,분기말 상장주식수,136662094,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/1336920/000133692022000024/,dei:EntityCommonStockSharesOutstanding 클래스 합,31
+Leidos,LDOS,2022Q1,2022-04-01,분기말 시가총액,14800504780,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/LDOS?interval=1d&events=splits (2022-04-01) ; https://www.sec.gov/Archives/edgar/data/1336920/000133692022000024/,종가 108.3 × 주식수 136662094,31
+Leidos,LDOS,2022Q2,2022-07-01,분기별 매출액,3597000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1336920/000133692022000034/,,31
+Leidos,LDOS,2022Q2,2022-07-01,분기별 영업이익,271000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1336920/000133692022000034/,,31
+Leidos,LDOS,2022Q2,2022-07-01,분기별 당기순이익(지배),171000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1336920/000133692022000034/,,31
+Leidos,LDOS,2022Q2,2022-07-01,분기별 영업활동현금흐름,45000000,USD,계산(누적차감)(재작성 반영),https://www.sec.gov/Archives/edgar/data/1336920/000133692023000051/ ; https://www.sec.gov/Archives/edgar/data/1336920/000133692022000024/,누적 138000000 − 직전누적 93000000 (시작 2022-01-01) ; 원 공시 40000000 (https://www.sec.gov/Archives/edgar/data/1336920/000133692022000034/ ; https://www.sec.gov/Archives/edgar/data/1336920/000133692022000024/),31
+Leidos,LDOS,2022Q2,2022-07-01,분기말 자산총계,12887000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1336920/000133692022000034/,,31
+Leidos,LDOS,2022Q2,2022-07-01,분기말 부채총계,8830000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1336920/000133692022000034/,,31
+Leidos,LDOS,2022Q2,2022-07-01,분기말 총자본(자기자본),4057000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1336920/000133692022000034/,,31
+Leidos,LDOS,2022Q2,2022-07-01,분기말 지배지분 자본,4004000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1336920/000133692022000034/,,31
+Leidos,LDOS,2022Q2,2022-07-01,분기말 종가,102.45,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/LDOS?interval=1d&events=splits (2022-07-01),,31
+Leidos,LDOS,2022Q2,2022-07-26,분기말 상장주식수,136540637,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/1336920/000133692022000034/,dei:EntityCommonStockSharesOutstanding 클래스 합,31
+Leidos,LDOS,2022Q2,2022-07-01,분기말 시가총액,13988588261,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/LDOS?interval=1d&events=splits (2022-07-01) ; https://www.sec.gov/Archives/edgar/data/1336920/000133692022000034/,종가 102.45 × 주식수 136540637,31
+Leidos,LDOS,2022Q3,2022-09-30,분기별 매출액,3608000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1336920/000133692022000060/,,31
+Leidos,LDOS,2022Q3,2022-09-30,분기별 영업이익,281000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1336920/000133692022000060/,,31
+Leidos,LDOS,2022Q3,2022-09-30,분기별 당기순이익(지배),162000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1336920/000133692022000060/,,31
+Leidos,LDOS,2022Q3,2022-09-30,분기별 영업활동현금흐름,729000000,USD,계산(누적차감)(재작성 반영),https://www.sec.gov/Archives/edgar/data/1336920/000133692023000061/ ; https://www.sec.gov/Archives/edgar/data/1336920/000133692023000051/,누적 867000000 − 직전누적 138000000 (시작 2022-01-01) ; 원 공시 748000000 (https://www.sec.gov/Archives/edgar/data/1336920/000133692022000060/ ; https://www.sec.gov/Archives/edgar/data/1336920/000133692022000034/),31
+Leidos,LDOS,2022Q3,2022-09-30,분기말 자산총계,13099000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1336920/000133692022000060/,,31
+Leidos,LDOS,2022Q3,2022-09-30,분기말 부채총계,8960000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1336920/000133692022000060/,,31
+Leidos,LDOS,2022Q3,2022-09-30,분기말 총자본(자기자본),4139000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1336920/000133692022000060/,,31
+Leidos,LDOS,2022Q3,2022-09-30,분기말 지배지분 자본,4086000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1336920/000133692022000060/,,31
+Leidos,LDOS,2022Q3,2022-09-30,분기말 종가,87.47,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/LDOS?interval=1d&events=splits (2022-09-30),,31
+Leidos,LDOS,2022Q3,2022-10-25,분기말 상장주식수,136689557,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/1336920/000133692022000060/,dei:EntityCommonStockSharesOutstanding 클래스 합,31
+Leidos,LDOS,2022Q3,2022-09-30,분기말 시가총액,11956235551,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/LDOS?interval=1d&events=splits (2022-09-30) ; https://www.sec.gov/Archives/edgar/data/1336920/000133692022000060/,종가 87.47 × 주식수 136689557,31
+Leidos,LDOS,2022Q4,2022-12-30,분기별 매출액,3697000000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/1336920/000133692023000015/ ; https://www.sec.gov/Archives/edgar/data/1336920/000133692022000060/,연간 14396000000 − 9개월누적 10699000000 (Revenues),31
+Leidos,LDOS,2022Q4,2022-12-30,분기별 영업이익,265000000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/1336920/000133692023000015/ ; https://www.sec.gov/Archives/edgar/data/1336920/000133692022000060/,연간 1088000000 − 9개월누적 823000000 (OperatingIncomeLoss),31
+Leidos,LDOS,2022Q4,2022-12-30,분기별 당기순이익(지배),177000000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/1336920/000133692023000015/ ; https://www.sec.gov/Archives/edgar/data/1336920/000133692022000060/,연간 685000000 − 9개월누적 508000000 (NetIncomeLoss),31
+Leidos,LDOS,2022Q4,2022-12-30,분기별 영업활동현금흐름,125000000,USD,계산(누적차감)(재작성 반영),https://www.sec.gov/Archives/edgar/data/1336920/000133692025000006/ ; https://www.sec.gov/Archives/edgar/data/1336920/000133692023000061/,누적 992000000 − 직전누적 867000000 (시작 2022-01-01) ; 원 공시 105000000 (https://www.sec.gov/Archives/edgar/data/1336920/000133692023000015/ ; https://www.sec.gov/Archives/edgar/data/1336920/000133692022000060/),31
+Leidos,LDOS,2022Q4,2022-12-30,분기말 자산총계,13071000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1336920/000133692023000015/,,31
+Leidos,LDOS,2022Q4,2022-12-30,분기말 부채총계,8718000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1336920/000133692023000015/,,31
+Leidos,LDOS,2022Q4,2022-12-30,분기말 총자본(자기자본),4353000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1336920/000133692023000015/,,31
+Leidos,LDOS,2022Q4,2022-12-30,분기말 지배지분 자본,4299000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1336920/000133692023000015/,,31
+Leidos,LDOS,2022Q4,2022-12-30,분기말 종가,105.19,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/LDOS?interval=1d&events=splits (2022-12-30),,31
+Leidos,LDOS,2022Q4,2023-02-07,분기말 상장주식수,136937673,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/1336920/000133692023000015/,dei:EntityCommonStockSharesOutstanding 클래스 합,31
+Leidos,LDOS,2022Q4,2022-12-30,분기말 시가총액,14404473823,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/LDOS?interval=1d&events=splits (2022-12-30) ; https://www.sec.gov/Archives/edgar/data/1336920/000133692023000015/,종가 105.19 × 주식수 136937673,31
+Leidos,LDOS,2023Q1,2023-03-31,분기별 매출액,3699000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1336920/000133692023000036/,,31
+Leidos,LDOS,2023Q1,2023-03-31,분기별 영업이익,265000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1336920/000133692023000036/,,31
+Leidos,LDOS,2023Q1,2023-03-31,분기별 당기순이익(지배),162000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1336920/000133692023000036/,,31
+Leidos,LDOS,2023Q1,2023-03-31,분기별 영업활동현금흐름,-98000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1336920/000133692023000036/,,31
+Leidos,LDOS,2023Q1,2023-03-31,분기말 자산총계,13132000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1336920/000133692023000036/,,31
+Leidos,LDOS,2023Q1,2023-03-31,분기말 부채총계,8668000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1336920/000133692023000036/,,31
+Leidos,LDOS,2023Q1,2023-03-31,분기말 총자본(자기자본),4464000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1336920/000133692023000036/,,31
+Leidos,LDOS,2023Q1,2023-03-31,분기말 지배지분 자본,4409000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1336920/000133692023000036/,,31
+Leidos,LDOS,2023Q1,2023-03-31,분기말 종가,92.06,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/LDOS?interval=1d&events=splits (2023-03-31),,31
+Leidos,LDOS,2023Q1,2023-04-25,분기말 상장주식수,137167264,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/1336920/000133692023000036/,dei:EntityCommonStockSharesOutstanding 클래스 합,31
+Leidos,LDOS,2023Q1,2023-03-31,분기말 시가총액,12627618324,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/LDOS?interval=1d&events=splits (2023-03-31) ; https://www.sec.gov/Archives/edgar/data/1336920/000133692023000036/,종가 92.06 × 주식수 137167264,31
+Leidos,LDOS,2023Q2,2023-06-30,분기별 매출액,3838000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1336920/000133692023000051/,,31
+Leidos,LDOS,2023Q2,2023-06-30,분기별 영업이익,331000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1336920/000133692023000051/,,31
+Leidos,LDOS,2023Q2,2023-06-30,분기별 당기순이익(지배),207000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1336920/000133692023000051/,,31
+Leidos,LDOS,2023Q2,2023-06-30,분기별 영업활동현금흐름,164000000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/1336920/000133692023000051/ ; https://www.sec.gov/Archives/edgar/data/1336920/000133692023000036/,누적 66000000 − 직전누적 -98000000 (시작 2022-12-31),31
+Leidos,LDOS,2023Q2,2023-06-30,분기말 자산총계,13026000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1336920/000133692023000051/,,31
+Leidos,LDOS,2023Q2,2023-06-30,분기말 부채총계,8373000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1336920/000133692023000051/,,31
+Leidos,LDOS,2023Q2,2023-06-30,분기말 총자본(자기자본),4653000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1336920/000133692023000051/,,31
+Leidos,LDOS,2023Q2,2023-06-30,분기말 지배지분 자본,4597000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1336920/000133692023000051/,,31
+Leidos,LDOS,2023Q2,2023-06-30,분기말 종가,88.48,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/LDOS?interval=1d&events=splits (2023-06-30),,31
+Leidos,LDOS,2023Q2,2023-07-25,분기말 상장주식수,137351127,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/1336920/000133692023000051/,dei:EntityCommonStockSharesOutstanding 클래스 합,31
+Leidos,LDOS,2023Q2,2023-06-30,분기말 시가총액,12152827717,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/LDOS?interval=1d&events=splits (2023-06-30) ; https://www.sec.gov/Archives/edgar/data/1336920/000133692023000051/,종가 88.48 × 주식수 137351127,31
+Leidos,LDOS,2023Q3,2023-09-29,분기별 매출액,3921000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1336920/000133692023000061/,,31
+Leidos,LDOS,2023Q3,2023-09-29,분기별 영업이익,-336000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1336920/000133692023000061/,,31
+Leidos,LDOS,2023Q3,2023-09-29,분기별 당기순이익(지배),-399000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1336920/000133692023000061/,,31
+Leidos,LDOS,2023Q3,2023-09-29,분기별 영업활동현금흐름,795000000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/1336920/000133692023000061/ ; https://www.sec.gov/Archives/edgar/data/1336920/000133692023000051/,누적 861000000 − 직전누적 66000000 (시작 2022-12-31),31
+Leidos,LDOS,2023Q3,2023-09-29,분기말 자산총계,12757000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1336920/000133692023000061/,,31
+Leidos,LDOS,2023Q3,2023-09-29,분기말 부채총계,8554000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1336920/000133692023000061/,,31
+Leidos,LDOS,2023Q3,2023-09-29,분기말 총자본(자기자본),4203000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1336920/000133692023000061/,,31
+Leidos,LDOS,2023Q3,2023-09-29,분기말 지배지분 자본,4146000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1336920/000133692023000061/,,31
+Leidos,LDOS,2023Q3,2023-09-29,분기말 종가,92.16,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/LDOS?interval=1d&events=splits (2023-09-29),,31
+Leidos,LDOS,2023Q3,2023-10-24,분기말 상장주식수,137506428,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/1336920/000133692023000061/,dei:EntityCommonStockSharesOutstanding 클래스 합,31
+Leidos,LDOS,2023Q3,2023-09-29,분기말 시가총액,12672592404,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/LDOS?interval=1d&events=splits (2023-09-29) ; https://www.sec.gov/Archives/edgar/data/1336920/000133692023000061/,종가 92.16 × 주식수 137506428,31
+Leidos,LDOS,2023Q4,2023-12-29,분기별 매출액,3980000000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/1336920/000133692024000008/ ; https://www.sec.gov/Archives/edgar/data/1336920/000133692023000061/,연간 15438000000 − 9개월누적 11458000000 (Revenues),31
+Leidos,LDOS,2023Q4,2023-12-29,분기별 영업이익,361000000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/1336920/000133692024000008/ ; https://www.sec.gov/Archives/edgar/data/1336920/000133692023000061/,연간 621000000 − 9개월누적 260000000 (OperatingIncomeLoss),31
+Leidos,LDOS,2023Q4,2023-12-29,분기별 당기순이익(지배),229000000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/1336920/000133692024000008/ ; https://www.sec.gov/Archives/edgar/data/1336920/000133692023000061/,연간 199000000 − 9개월누적 -30000000 (NetIncomeLoss),31
+Leidos,LDOS,2023Q4,2023-12-29,분기별 영업활동현금흐름,326000000,USD,계산(누적차감)(재작성 반영),https://www.sec.gov/Archives/edgar/data/1336920/000133692026000030/ ; https://www.sec.gov/Archives/edgar/data/1336920/000133692023000061/,누적 1187000000 − 직전누적 861000000 (시작 2022-12-31) ; 원 공시 304000000 (https://www.sec.gov/Archives/edgar/data/1336920/000133692024000008/ ; https://www.sec.gov/Archives/edgar/data/1336920/000133692023000061/),31
+Leidos,LDOS,2023Q4,2023-12-29,분기말 자산총계,12695000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1336920/000133692024000008/,,31
+Leidos,LDOS,2023Q4,2023-12-29,분기말 부채총계,8437000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1336920/000133692024000008/,,31
+Leidos,LDOS,2023Q4,2023-12-29,분기말 총자본(자기자본),4258000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1336920/000133692024000008/,,31
+Leidos,LDOS,2023Q4,2023-12-29,분기말 지배지분 자본,4201000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1336920/000133692024000008/,,31
+Leidos,LDOS,2023Q4,2023-12-29,분기말 종가,108.24,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/LDOS?interval=1d&events=splits (2023-12-29),,31
+Leidos,LDOS,2023Q4,2024-02-06,분기말 상장주식수,135779301,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/1336920/000133692024000008/,dei:EntityCommonStockSharesOutstanding 클래스 합,31
+Leidos,LDOS,2023Q4,2023-12-29,분기말 시가총액,14696751540,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/LDOS?interval=1d&events=splits (2023-12-29) ; https://www.sec.gov/Archives/edgar/data/1336920/000133692024000008/,종가 108.24 × 주식수 135779301,31
+Leidos,LDOS,2024Q1,2024-03-29,분기별 매출액,3975000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1336920/000133692024000036/,,31
+Leidos,LDOS,2024Q1,2024-03-29,분기별 영업이익,415000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1336920/000133692024000036/,,31
+Leidos,LDOS,2024Q1,2024-03-29,분기별 당기순이익(지배),284000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1336920/000133692024000036/,,31
+Leidos,LDOS,2024Q1,2024-03-29,분기별 영업활동현금흐름,113000000,USD,공시(재작성 반영),https://www.sec.gov/Archives/edgar/data/1336920/000133692025000014/,원 공시 63000000 (https://www.sec.gov/Archives/edgar/data/1336920/000133692024000036/),31
+Leidos,LDOS,2024Q1,2024-03-29,분기말 자산총계,12817000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1336920/000133692024000036/,,31
+Leidos,LDOS,2024Q1,2024-03-29,분기말 부채총계,8504000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1336920/000133692024000036/,,31
+Leidos,LDOS,2024Q1,2024-03-29,분기말 총자본(자기자본),4313000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1336920/000133692024000036/,,31
+Leidos,LDOS,2024Q1,2024-03-29,분기말 지배지분 자본,4258000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1336920/000133692024000036/,,31
+Leidos,LDOS,2024Q1,2024-03-28,분기말 종가,131.09,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/LDOS?interval=1d&events=splits (2024-03-28),,31
+Leidos,LDOS,2024Q1,2024-04-23,분기말 상장주식수,135211535,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/1336920/000133692024000036/,dei:EntityCommonStockSharesOutstanding 클래스 합,31
+Leidos,LDOS,2024Q1,2024-03-28,분기말 시가총액,17724880123,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/LDOS?interval=1d&events=splits (2024-03-28) ; https://www.sec.gov/Archives/edgar/data/1336920/000133692024000036/,종가 131.09 × 주식수 135211535,31
+Leidos,LDOS,2024Q2,2024-06-28,분기별 매출액,4132000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1336920/000133692024000049/,,31
+Leidos,LDOS,2024Q2,2024-06-28,분기별 영업이익,475000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1336920/000133692024000049/,,31
+Leidos,LDOS,2024Q2,2024-06-28,분기별 당기순이익(지배),322000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1336920/000133692024000049/,,31
+Leidos,LDOS,2024Q2,2024-06-28,분기별 영업활동현금흐름,381000000,USD,계산(누적차감)(재작성 반영),https://www.sec.gov/Archives/edgar/data/1336920/000133692025000034/ ; https://www.sec.gov/Archives/edgar/data/1336920/000133692025000014/,누적 494000000 − 직전누적 113000000 (시작 2023-12-30) ; 원 공시 374000000 (https://www.sec.gov/Archives/edgar/data/1336920/000133692024000049/ ; https://www.sec.gov/Archives/edgar/data/1336920/000133692024000036/),31
+Leidos,LDOS,2024Q2,2024-06-28,분기말 자산총계,12909000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1336920/000133692024000049/,,31
+Leidos,LDOS,2024Q2,2024-06-28,분기말 부채총계,8399000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1336920/000133692024000049/,,31
+Leidos,LDOS,2024Q2,2024-06-28,분기말 총자본(자기자본),4510000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1336920/000133692024000049/,,31
+Leidos,LDOS,2024Q2,2024-06-28,분기말 지배지분 자본,4455000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1336920/000133692024000049/,,31
+Leidos,LDOS,2024Q2,2024-06-28,분기말 종가,145.88,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/LDOS?interval=1d&events=splits (2024-06-28),,31
+Leidos,LDOS,2024Q2,2024-07-23,분기말 상장주식수,134713696,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/1336920/000133692024000049/,dei:EntityCommonStockSharesOutstanding 클래스 합,31
+Leidos,LDOS,2024Q2,2024-06-28,분기말 시가총액,19652033972,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/LDOS?interval=1d&events=splits (2024-06-28) ; https://www.sec.gov/Archives/edgar/data/1336920/000133692024000049/,종가 145.88 × 주식수 134713696,31
+Leidos,LDOS,2024Q3,2024-09-27,분기별 매출액,4190000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1336920/000133692024000054/,,31
+Leidos,LDOS,2024Q3,2024-09-27,분기별 영업이익,516000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1336920/000133692024000054/,,31
+Leidos,LDOS,2024Q3,2024-09-27,분기별 당기순이익(지배),364000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1336920/000133692024000054/,,31
+Leidos,LDOS,2024Q3,2024-09-27,분기별 영업활동현금흐름,647000000,USD,계산(누적차감)(재작성 반영),https://www.sec.gov/Archives/edgar/data/1336920/000133692025000060/ ; https://www.sec.gov/Archives/edgar/data/1336920/000133692025000034/,누적 1141000000 − 직전누적 494000000 (시작 2023-12-30) ; 원 공시 656000000 (https://www.sec.gov/Archives/edgar/data/1336920/000133692024000054/ ; https://www.sec.gov/Archives/edgar/data/1336920/000133692024000049/),31
+Leidos,LDOS,2024Q3,2024-09-27,분기말 자산총계,13338000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1336920/000133692024000054/,,31
+Leidos,LDOS,2024Q3,2024-09-27,분기말 부채총계,8671000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1336920/000133692024000054/,,31
+Leidos,LDOS,2024Q3,2024-09-27,분기말 총자본(자기자본),4667000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1336920/000133692024000054/,,31
+Leidos,LDOS,2024Q3,2024-09-27,분기말 지배지분 자본,4614000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1336920/000133692024000054/,,31
+Leidos,LDOS,2024Q3,2024-09-27,분기말 종가,159.72,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/LDOS?interval=1d&events=splits (2024-09-27),,31
+Leidos,LDOS,2024Q3,2024-10-22,분기말 상장주식수,133433109,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/1336920/000133692024000054/,dei:EntityCommonStockSharesOutstanding 클래스 합,31
+Leidos,LDOS,2024Q3,2024-09-27,분기말 시가총액,21311936169,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/LDOS?interval=1d&events=splits (2024-09-27) ; https://www.sec.gov/Archives/edgar/data/1336920/000133692024000054/,종가 159.72 × 주식수 133433109,31
+Leidos,LDOS,2024Q4,2025-01-03,분기별 매출액,4365000000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/1336920/000133692025000006/ ; https://www.sec.gov/Archives/edgar/data/1336920/000133692024000054/,연간 16662000000 − 9개월누적 12297000000 (Revenues),31
+Leidos,LDOS,2024Q4,2025-01-03,분기별 영업이익,421000000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/1336920/000133692025000006/ ; https://www.sec.gov/Archives/edgar/data/1336920/000133692024000054/,연간 1827000000 − 9개월누적 1406000000 (OperatingIncomeLoss),31
+Leidos,LDOS,2024Q4,2025-01-03,분기별 당기순이익(지배),284000000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/1336920/000133692025000006/ ; https://www.sec.gov/Archives/edgar/data/1336920/000133692024000054/,연간 1254000000 − 9개월누적 970000000 (NetIncomeLoss),31
+Leidos,LDOS,2024Q4,2025-01-03,분기별 영업활동현금흐름,294000000,USD,계산(누적차감)(재작성 반영),https://www.sec.gov/Archives/edgar/data/1336920/000133692026000030/ ; https://www.sec.gov/Archives/edgar/data/1336920/000133692025000060/,누적 1435000000 − 직전누적 1141000000 (시작 2023-12-30) ; 원 공시 299000000 (https://www.sec.gov/Archives/edgar/data/1336920/000133692025000006/ ; https://www.sec.gov/Archives/edgar/data/1336920/000133692024000054/),31
+Leidos,LDOS,2024Q4,2025-01-03,분기말 자산총계,13010000000,USD,공시(재작성 반영),https://www.sec.gov/Archives/edgar/data/1336920/000133692026000030/,원 공시 13104000000 (https://www.sec.gov/Archives/edgar/data/1336920/000133692025000006/),31
+Leidos,LDOS,2024Q4,2025-01-03,분기말 부채총계,8550000000,USD,공시(재작성 반영),https://www.sec.gov/Archives/edgar/data/1336920/000133692026000030/,원 공시 8644000000 (https://www.sec.gov/Archives/edgar/data/1336920/000133692025000006/),31
+Leidos,LDOS,2024Q4,2025-01-03,분기말 총자본(자기자본),4460000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1336920/000133692025000006/,,31
+Leidos,LDOS,2024Q4,2025-01-03,분기말 지배지분 자본,4412000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1336920/000133692025000006/,,31
+Leidos,LDOS,2024Q4,2025-01-03,분기말 종가,147.15,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/LDOS?interval=1d&events=splits (2025-01-03),,31
+Leidos,LDOS,2024Q4,2025-02-04,분기말 상장주식수,131167372,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/1336920/000133692025000006/,dei:EntityCommonStockSharesOutstanding 클래스 합,31
+Leidos,LDOS,2024Q4,2025-01-03,분기말 시가총액,19301278790,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/LDOS?interval=1d&events=splits (2025-01-03) ; https://www.sec.gov/Archives/edgar/data/1336920/000133692025000006/,종가 147.15 × 주식수 131167372,31
+Leidos,LDOS,2025Q1,2025-04-04,분기별 매출액,4245000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1336920/000133692025000014/,,31
+Leidos,LDOS,2025Q1,2025-04-04,분기별 영업이익,530000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1336920/000133692025000014/,,31
+Leidos,LDOS,2025Q1,2025-04-04,분기별 당기순이익(지배),363000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1336920/000133692025000014/,,31
+Leidos,LDOS,2025Q1,2025-04-04,분기별 영업활동현금흐름,58000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1336920/000133692025000014/,,31
+Leidos,LDOS,2025Q1,2025-04-04,분기말 자산총계,13197000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1336920/000133692025000014/,,31
+Leidos,LDOS,2025Q1,2025-04-04,분기말 부채총계,8895000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1336920/000133692025000014/,,31
+Leidos,LDOS,2025Q1,2025-04-04,분기말 총자본(자기자본),4302000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1336920/000133692025000014/,,31
+Leidos,LDOS,2025Q1,2025-04-04,분기말 지배지분 자본,4257000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1336920/000133692025000014/,,31
+Leidos,LDOS,2025Q1,2025-04-04,분기말 종가,133.14,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/LDOS?interval=1d&events=splits (2025-04-04),,31
+Leidos,LDOS,2025Q1,2025-04-29,분기말 상장주식수,128718872,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/1336920/000133692025000014/,dei:EntityCommonStockSharesOutstanding 클래스 합,31
+Leidos,LDOS,2025Q1,2025-04-04,분기말 시가총액,17137630618,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/LDOS?interval=1d&events=splits (2025-04-04) ; https://www.sec.gov/Archives/edgar/data/1336920/000133692025000014/,종가 133.14 × 주식수 128718872,31
+Leidos,LDOS,2025Q2,2025-07-04,분기별 매출액,4253000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1336920/000133692025000034/,,31
+Leidos,LDOS,2025Q2,2025-07-04,분기별 영업이익,571000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1336920/000133692025000034/,,31
+Leidos,LDOS,2025Q2,2025-07-04,분기별 당기순이익(지배),391000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1336920/000133692025000034/,,31
+Leidos,LDOS,2025Q2,2025-07-04,분기별 영업활동현금흐름,486000000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/1336920/000133692025000034/ ; https://www.sec.gov/Archives/edgar/data/1336920/000133692025000014/,누적 544000000 − 직전누적 58000000 (시작 2025-01-04),31
+Leidos,LDOS,2025Q2,2025-07-04,분기말 자산총계,13549000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1336920/000133692025000034/,,31
+Leidos,LDOS,2025Q2,2025-07-04,분기말 부채총계,8842000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1336920/000133692025000034/,,31
+Leidos,LDOS,2025Q2,2025-07-04,분기말 총자본(자기자본),4707000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1336920/000133692025000034/,,31
+Leidos,LDOS,2025Q2,2025-07-04,분기말 지배지분 자본,4662000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1336920/000133692025000034/,,31
+Leidos,LDOS,2025Q2,2025-07-03,분기말 종가,164.56,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/LDOS?interval=1d&events=splits (2025-07-03),,31
+Leidos,LDOS,2025Q2,2025-07-29,분기말 상장주식수,128297332,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/1336920/000133692025000034/,dei:EntityCommonStockSharesOutstanding 클래스 합,31
+Leidos,LDOS,2025Q2,2025-07-03,분기말 시가총액,21112608954,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/LDOS?interval=1d&events=splits (2025-07-03) ; https://www.sec.gov/Archives/edgar/data/1336920/000133692025000034/,종가 164.56 × 주식수 128297332,31
+Leidos,LDOS,2025Q3,2025-10-03,분기별 매출액,4469000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1336920/000133692025000060/,,31
+Leidos,LDOS,2025Q3,2025-10-03,분기별 영업이익,535000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1336920/000133692025000060/,,31
+Leidos,LDOS,2025Q3,2025-10-03,분기별 당기순이익(지배),367000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1336920/000133692025000060/,,31
+Leidos,LDOS,2025Q3,2025-10-03,분기별 영업활동현금흐름,711000000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/1336920/000133692025000060/ ; https://www.sec.gov/Archives/edgar/data/1336920/000133692025000034/,누적 1255000000 − 직전누적 544000000 (시작 2025-01-04),31
+Leidos,LDOS,2025Q3,2025-10-03,분기말 자산총계,13542000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1336920/000133692025000060/,,31
+Leidos,LDOS,2025Q3,2025-10-03,분기말 부채총계,8588000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1336920/000133692025000060/,,31
+Leidos,LDOS,2025Q3,2025-10-03,분기말 총자본(자기자본),4954000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1336920/000133692025000060/,,31
+Leidos,LDOS,2025Q3,2025-10-03,분기말 지배지분 자본,4909000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1336920/000133692025000060/,,31
+Leidos,LDOS,2025Q3,2025-10-03,분기말 종가,195.58,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/LDOS?interval=1d&events=splits (2025-10-03),,31
+Leidos,LDOS,2025Q3,2025-10-28,분기말 상장주식수,127855172,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/1336920/000133692025000060/,dei:EntityCommonStockSharesOutstanding 클래스 합,31
+Leidos,LDOS,2025Q3,2025-10-03,분기말 시가총액,25005914540,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/LDOS?interval=1d&events=splits (2025-10-03) ; https://www.sec.gov/Archives/edgar/data/1336920/000133692025000060/,종가 195.58 × 주식수 127855172,31
+Leidos,LDOS,2025Q4,2026-01-02,분기별 매출액,4207000000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/1336920/000133692026000030/ ; https://www.sec.gov/Archives/edgar/data/1336920/000133692025000060/,연간 17174000000 − 9개월누적 12967000000 (Revenues),31
+Leidos,LDOS,2025Q4,2026-01-02,분기별 영업이익,473000000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/1336920/000133692026000030/ ; https://www.sec.gov/Archives/edgar/data/1336920/000133692025000060/,연간 2109000000 − 9개월누적 1636000000 (OperatingIncomeLoss),31
+Leidos,LDOS,2025Q4,2026-01-02,분기별 당기순이익(지배),327000000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/1336920/000133692026000030/ ; https://www.sec.gov/Archives/edgar/data/1336920/000133692025000060/,연간 1448000000 − 9개월누적 1121000000 (NetIncomeLoss),31
+Leidos,LDOS,2025Q4,2026-01-02,분기별 영업활동현금흐름,495000000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/1336920/000133692026000030/ ; https://www.sec.gov/Archives/edgar/data/1336920/000133692025000060/,누적 1750000000 − 직전누적 1255000000 (시작 2025-01-04),31
+Leidos,LDOS,2025Q4,2026-01-02,분기말 자산총계,13493000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1336920/000133692026000030/,,31
+Leidos,LDOS,2025Q4,2026-01-02,분기말 부채총계,8531000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1336920/000133692026000030/,,31
+Leidos,LDOS,2025Q4,2026-01-02,분기말 총자본(자기자본),4962000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1336920/000133692026000030/,,31
+Leidos,LDOS,2025Q4,2026-01-02,분기말 지배지분 자본,4916000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1336920/000133692026000030/,,31
+Leidos,LDOS,2025Q4,2026-01-02,분기말 종가,183.47,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/LDOS?interval=1d&events=splits (2026-01-02),,31
+Leidos,LDOS,2025Q4,2026-02-10,분기말 상장주식수,126392684,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/1336920/000133692026000030/,dei:EntityCommonStockSharesOutstanding 클래스 합,31
+Leidos,LDOS,2025Q4,2026-01-02,분기말 시가총액,23189265733,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/LDOS?interval=1d&events=splits (2026-01-02) ; https://www.sec.gov/Archives/edgar/data/1336920/000133692026000030/,종가 183.47 × 주식수 126392684,31
+Leidos,LDOS,2026Q1,2026-04-03,분기별 매출액,4400000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1336920/000133692026000169/,,31
+Leidos,LDOS,2026Q1,2026-04-03,분기별 영업이익,508000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1336920/000133692026000169/,,31
+Leidos,LDOS,2026Q1,2026-04-03,분기별 당기순이익(지배),328000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1336920/000133692026000169/,,31
+Leidos,LDOS,2026Q1,2026-04-03,분기별 영업활동현금흐름,301000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1336920/000133692026000169/,,31
+Leidos,LDOS,2026Q1,2026-04-03,분기말 자산총계,15387000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1336920/000133692026000169/,,31
+Leidos,LDOS,2026Q1,2026-04-03,분기말 부채총계,10323000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1336920/000133692026000169/,,31
+Leidos,LDOS,2026Q1,2026-04-03,분기말 총자본(자기자본),5064000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1336920/000133692026000169/,,31
+Leidos,LDOS,2026Q1,2026-04-03,분기말 지배지분 자본,5013000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1336920/000133692026000169/,,31
+Leidos,LDOS,2026Q1,2026-04-02,분기말 종가,158.82,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/LDOS?interval=1d&events=splits (2026-04-02),,31
+Leidos,LDOS,2026Q1,2026-04-28,분기말 상장주식수,125785466,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/1336920/000133692026000169/,dei:EntityCommonStockSharesOutstanding 클래스 합,31
+Leidos,LDOS,2026Q1,2026-04-02,분기말 시가총액,19977247710,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/LDOS?interval=1d&events=splits (2026-04-02) ; https://www.sec.gov/Archives/edgar/data/1336920/000133692026000169/,종가 158.82 × 주식수 125785466,31
+Leidos,LDOS,2026Q2,2026-07-03,분기별 매출액,4558000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1336920/000133692026000246/,,31
+Leidos,LDOS,2026Q2,2026-07-03,분기별 영업이익,514000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1336920/000133692026000246/,,31
+Leidos,LDOS,2026Q2,2026-07-03,분기별 당기순이익(지배),354000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1336920/000133692026000246/,,31
+Leidos,LDOS,2026Q2,2026-07-03,분기별 영업활동현금흐름,793000000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/1336920/000133692026000246/ ; https://www.sec.gov/Archives/edgar/data/1336920/000133692026000169/,누적 1094000000 − 직전누적 301000000 (시작 2026-01-03),31
+Leidos,LDOS,2026Q2,2026-07-03,분기말 자산총계,15632000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1336920/000133692026000246/,,31
+Leidos,LDOS,2026Q2,2026-07-03,분기말 부채총계,10296000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1336920/000133692026000246/,,31
+Leidos,LDOS,2026Q2,2026-07-03,분기말 총자본(자기자본),5336000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1336920/000133692026000246/,,31
+Leidos,LDOS,2026Q2,2026-07-03,분기말 지배지분 자본,5284000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1336920/000133692026000246/,,31
+Leidos,LDOS,2026Q2,2026-07-02,분기말 종가,108.84,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/LDOS?interval=1d&events=splits (2026-07-02),,31
+Leidos,LDOS,2026Q2,2026-07-28,분기말 상장주식수,125492209,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/1336920/000133692026000246/,dei:EntityCommonStockSharesOutstanding 클래스 합,31
+Leidos,LDOS,2026Q2,2026-07-02,분기말 시가총액,13658572028,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/LDOS?interval=1d&events=splits (2026-07-02) ; https://www.sec.gov/Archives/edgar/data/1336920/000133692026000246/,종가 108.84 × 주식수 125492209,31

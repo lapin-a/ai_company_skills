@@ -1,0 +1,727 @@
+﻿기업,종목코드,기간,기준일,항목,값,통화,값구분,출처,검산,라운드
+Netflix,NFLX,2010Q1,2010-03-31,분기별 매출액,493665000,USD,공시,https://www.sec.gov/Archives/edgar/data/1065280/000119312510095215/,,3
+Netflix,NFLX,2010Q1,2010-03-31,분기별 영업이익,58345000,USD,공시,https://www.sec.gov/Archives/edgar/data/1065280/000119312510095215/,,3
+Netflix,NFLX,2010Q1,2010-03-31,분기별 당기순이익(지배),32272000,USD,공시,https://www.sec.gov/Archives/edgar/data/1065280/000119312510095215/,,3
+Netflix,NFLX,2010Q1,2010-03-31,분기별 영업활동현금흐름,77205000,USD,공시(재작성 반영),https://www.sec.gov/Archives/edgar/data/1065280/000119312511112061/,원 공시 75412000 (https://www.sec.gov/Archives/edgar/data/1065280/000119312510095215/),3
+Netflix,NFLX,2010Q1,2010-03-31,분기말 자산총계,648293000,USD,공시,https://www.sec.gov/Archives/edgar/data/1065280/000119312510095215/,,3
+Netflix,NFLX,2010Q1,2010-03-31,분기말 부채총계,501558000,USD,공시,https://www.sec.gov/Archives/edgar/data/1065280/000119312510095215/,,3
+Netflix,NFLX,2010Q1,2010-03-31,분기말 총자본(자기자본),146735000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/1065280/000119312510095215/,"StockholdersEquity, MinorityInterest 태그 없음",3
+Netflix,NFLX,2010Q1,2010-03-31,분기말 지배지분 자본,146735000,USD,공시,https://www.sec.gov/Archives/edgar/data/1065280/000119312510095215/,,3
+Netflix,NFLX,2010Q1,2010-03-31,분기말 종가,73.74,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/NFLX?interval=1d&events=splits (2010-03-31),분할조정 종가 1.0534 × 이후 분할계수 70,3
+Netflix,NFLX,2010Q1,2010-03-31,분기말 상장주식수,52261855,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/1065280/000119312510095215/,dei:EntityCommonStockSharesOutstanding 클래스 합,3
+Netflix,NFLX,2010Q1,2010-03-31,분기말 시가총액,3853789188,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/NFLX?interval=1d&events=splits (2010-03-31) ; https://www.sec.gov/Archives/edgar/data/1065280/000119312510095215/,종가 73.74 × 주식수 52261855,3
+Netflix,NFLX,2010Q2,2010-06-30,분기별 매출액,519819000,USD,공시,https://www.sec.gov/Archives/edgar/data/1065280/000119312510167382/,,3
+Netflix,NFLX,2010Q2,2010-06-30,분기별 영업이익,77342000,USD,공시,https://www.sec.gov/Archives/edgar/data/1065280/000119312510167382/,,3
+Netflix,NFLX,2010Q2,2010-06-30,분기별 당기순이익(지배),43519000,USD,공시,https://www.sec.gov/Archives/edgar/data/1065280/000119312510167382/,,3
+Netflix,NFLX,2010Q2,2010-06-30,분기별 영업활동현금흐름,60252000,USD,계산(누적차감)(재작성 반영),https://www.sec.gov/Archives/edgar/data/1065280/000119312510167382/ ; https://www.sec.gov/Archives/edgar/data/1065280/000119312511112061/,누적 137457000 − 직전누적 77205000 (시작 2010-01-01) ; 원 공시 62045000 (https://www.sec.gov/Archives/edgar/data/1065280/000119312510167382/ ; https://www.sec.gov/Archives/edgar/data/1065280/000119312510095215/),3
+Netflix,NFLX,2010Q2,2010-06-30,분기말 자산총계,693972000,USD,공시,https://www.sec.gov/Archives/edgar/data/1065280/000119312510167382/,,3
+Netflix,NFLX,2010Q2,2010-06-30,분기말 부채총계,517332000,USD,공시,https://www.sec.gov/Archives/edgar/data/1065280/000119312510167382/,,3
+Netflix,NFLX,2010Q2,2010-06-30,분기말 총자본(자기자본),176640000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/1065280/000119312510167382/,"StockholdersEquity, MinorityInterest 태그 없음",3
+Netflix,NFLX,2010Q2,2010-06-30,분기말 지배지분 자본,176640000,USD,공시,https://www.sec.gov/Archives/edgar/data/1065280/000119312510167382/,,3
+Netflix,NFLX,2010Q2,2010-06-30,분기말 종가,108.65,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/NFLX?interval=1d&events=splits (2010-06-30),분할조정 종가 1.5521 × 이후 분할계수 70,3
+Netflix,NFLX,2010Q2,2010-06-30,분기말 상장주식수,52358171,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/1065280/000119312510167382/,dei:EntityCommonStockSharesOutstanding 클래스 합,3
+Netflix,NFLX,2010Q2,2010-06-30,분기말 시가총액,5688715279,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/NFLX?interval=1d&events=splits (2010-06-30) ; https://www.sec.gov/Archives/edgar/data/1065280/000119312510167382/,종가 108.65 × 주식수 52358171,3
+Netflix,NFLX,2010Q3,2010-09-30,분기별 매출액,553219000,USD,공시,https://www.sec.gov/Archives/edgar/data/1065280/000119312510235785/,,3
+Netflix,NFLX,2010Q3,2010-09-30,분기별 영업이익,69501000,USD,공시,https://www.sec.gov/Archives/edgar/data/1065280/000119312510235785/,,3
+Netflix,NFLX,2010Q3,2010-09-30,분기별 당기순이익(지배),37967000,USD,공시,https://www.sec.gov/Archives/edgar/data/1065280/000119312510235785/,,3
+Netflix,NFLX,2010Q3,2010-09-30,분기별 영업활동현금흐름,42227000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/1065280/000119312510235785/ ; https://www.sec.gov/Archives/edgar/data/1065280/000119312510167382/,누적 179684000 − 직전누적 137457000 (시작 2010-01-01),3
+Netflix,NFLX,2010Q3,2010-09-30,분기말 자산총계,770283000,USD,공시,https://www.sec.gov/Archives/edgar/data/1065280/000119312510235785/,,3
+Netflix,NFLX,2010Q3,2010-09-30,분기말 부채총계,578308000,USD,공시,https://www.sec.gov/Archives/edgar/data/1065280/000119312510235785/,,3
+Netflix,NFLX,2010Q3,2010-09-30,분기말 총자본(자기자본),191975000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/1065280/000119312510235785/,"StockholdersEquity, MinorityInterest 태그 없음",3
+Netflix,NFLX,2010Q3,2010-09-30,분기말 지배지분 자본,191975000,USD,공시,https://www.sec.gov/Archives/edgar/data/1065280/000119312510235785/,,3
+Netflix,NFLX,2010Q3,2010-09-30,분기말 종가,162.16,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/NFLX?interval=1d&events=splits (2010-09-30),분할조정 종가 2.3166 × 이후 분할계수 70,3
+Netflix,NFLX,2010Q3,2010-09-30,분기말 상장주식수,52257495,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/1065280/000119312510235785/,dei:EntityCommonStockSharesOutstanding 클래스 합,3
+Netflix,NFLX,2010Q3,2010-09-30,분기말 시가총액,8474075389,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/NFLX?interval=1d&events=splits (2010-09-30) ; https://www.sec.gov/Archives/edgar/data/1065280/000119312510235785/,종가 162.16 × 주식수 52257495,3
+Netflix,NFLX,2010Q4,2010-12-31,분기별 매출액,595922000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/1065280/000119312511040217/ ; https://www.sec.gov/Archives/edgar/data/1065280/000119312510235785/,연간 2162625000 − 9개월누적 1566703000 (Revenues),3
+Netflix,NFLX,2010Q4,2010-12-31,분기별 영업이익,78453000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/1065280/000119312511040217/ ; https://www.sec.gov/Archives/edgar/data/1065280/000119312510235785/,연간 283641000 − 9개월누적 205188000 (OperatingIncomeLoss),3
+Netflix,NFLX,2010Q4,2010-12-31,분기별 당기순이익(지배),47095000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/1065280/000119312511040217/ ; https://www.sec.gov/Archives/edgar/data/1065280/000119312510235785/,연간 160853000 − 9개월누적 113758000 (NetIncomeLoss),3
+Netflix,NFLX,2010Q4,2010-12-31,분기별 영업활동현금흐름,96717000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/1065280/000119312511040217/ ; https://www.sec.gov/Archives/edgar/data/1065280/000119312510235785/,누적 276401000 − 직전누적 179684000 (시작 2010-01-01),3
+Netflix,NFLX,2010Q4,2010-12-31,분기말 자산총계,982067000,USD,공시,https://www.sec.gov/Archives/edgar/data/1065280/000119312511040217/,,3
+Netflix,NFLX,2010Q4,2010-12-31,분기말 부채총계,691903000,USD,공시,https://www.sec.gov/Archives/edgar/data/1065280/000119312511040217/,,3
+Netflix,NFLX,2010Q4,2010-12-31,분기말 총자본(자기자본),290164000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/1065280/000119312511040217/,"StockholdersEquity, MinorityInterest 태그 없음",3
+Netflix,NFLX,2010Q4,2010-12-31,분기말 지배지분 자본,290164000,USD,공시,https://www.sec.gov/Archives/edgar/data/1065280/000119312511040217/,,3
+Netflix,NFLX,2010Q4,2010-12-31,분기말 종가,175.7,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/NFLX?interval=1d&events=splits (2010-12-31),분할조정 종가 2.51 × 이후 분할계수 70,3
+Netflix,NFLX,2010Q4,2011-01-31,분기말 상장주식수,52890638,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/1065280/000119312511040217/,dei:EntityCommonStockSharesOutstanding 클래스 합,3
+Netflix,NFLX,2010Q4,2010-12-31,분기말 시가총액,9292885097,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/NFLX?interval=1d&events=splits (2010-12-31) ; https://www.sec.gov/Archives/edgar/data/1065280/000119312511040217/,종가 175.7 × 주식수 52890638,3
+Netflix,NFLX,2011Q1,2011-03-31,분기별 매출액,718553000,USD,공시,https://www.sec.gov/Archives/edgar/data/1065280/000119312511112061/,,3
+Netflix,NFLX,2011Q1,2011-03-31,분기별 영업이익,102240000,USD,공시,https://www.sec.gov/Archives/edgar/data/1065280/000119312511112061/,,3
+Netflix,NFLX,2011Q1,2011-03-31,분기별 당기순이익(지배),60233000,USD,공시,https://www.sec.gov/Archives/edgar/data/1065280/000119312511112061/,,3
+Netflix,NFLX,2011Q1,2011-03-31,분기별 영업활동현금흐름,116323000,USD,공시,https://www.sec.gov/Archives/edgar/data/1065280/000119312511112061/,,3
+Netflix,NFLX,2011Q1,2011-03-31,분기말 자산총계,1090188000,USD,공시,https://www.sec.gov/Archives/edgar/data/1065280/000119312511112061/,,3
+Netflix,NFLX,2011Q1,2011-03-31,분기말 부채총계,814466000,USD,공시,https://www.sec.gov/Archives/edgar/data/1065280/000119312511112061/,,3
+Netflix,NFLX,2011Q1,2011-03-31,분기말 총자본(자기자본),275722000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/1065280/000119312511112061/,"StockholdersEquity, MinorityInterest 태그 없음",3
+Netflix,NFLX,2011Q1,2011-03-31,분기말 지배지분 자본,275722000,USD,공시,https://www.sec.gov/Archives/edgar/data/1065280/000119312511112061/,,3
+Netflix,NFLX,2011Q1,2011-03-31,분기말 종가,237.78,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/NFLX?interval=1d&events=splits (2011-03-31),분할조정 종가 3.3969 × 이후 분할계수 70,3
+Netflix,NFLX,2011Q1,2011-03-31,분기말 상장주식수,52519159,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/1065280/000119312511112061/,dei:EntityCommonStockSharesOutstanding 클래스 합,3
+Netflix,NFLX,2011Q1,2011-03-31,분기말 시가총액,12488005627,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/NFLX?interval=1d&events=splits (2011-03-31) ; https://www.sec.gov/Archives/edgar/data/1065280/000119312511112061/,종가 237.78 × 주식수 52519159,3
+Netflix,NFLX,2011Q2,2011-06-30,분기별 매출액,788610000,USD,공시,https://www.sec.gov/Archives/edgar/data/1065280/000119312511198669/,,3
+Netflix,NFLX,2011Q2,2011-06-30,분기별 영업이익,115114000,USD,공시,https://www.sec.gov/Archives/edgar/data/1065280/000119312511198669/,,3
+Netflix,NFLX,2011Q2,2011-06-30,분기별 당기순이익(지배),68214000,USD,공시,https://www.sec.gov/Archives/edgar/data/1065280/000119312511198669/,,3
+Netflix,NFLX,2011Q2,2011-06-30,분기별 영업활동현금흐름,86392000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/1065280/000119312511198669/ ; https://www.sec.gov/Archives/edgar/data/1065280/000119312511112061/,누적 202715000 − 직전누적 116323000 (시작 2011-01-01),3
+Netflix,NFLX,2011Q2,2011-06-30,분기말 자산총계,1570693000,USD,공시,https://www.sec.gov/Archives/edgar/data/1065280/000119312511198669/,,3
+Netflix,NFLX,2011Q2,2011-06-30,분기말 부채총계,1236659000,USD,공시,https://www.sec.gov/Archives/edgar/data/1065280/000119312511198669/,,3
+Netflix,NFLX,2011Q2,2011-06-30,분기말 총자본(자기자본),334034000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/1065280/000119312511198669/,"StockholdersEquity, MinorityInterest 태그 없음",3
+Netflix,NFLX,2011Q2,2011-06-30,분기말 지배지분 자본,334034000,USD,공시,https://www.sec.gov/Archives/edgar/data/1065280/000119312511198669/,,3
+Netflix,NFLX,2011Q2,2011-06-30,분기말 종가,262.69,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/NFLX?interval=1d&events=splits (2011-06-30),분할조정 종가 3.7527 × 이후 분할계수 70,3
+Netflix,NFLX,2011Q2,2011-06-30,분기말 상장주식수,52536246,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/1065280/000119312511198669/,dei:EntityCommonStockSharesOutstanding 클래스 합,3
+Netflix,NFLX,2011Q2,2011-06-30,분기말 시가총액,13800746462,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/NFLX?interval=1d&events=splits (2011-06-30) ; https://www.sec.gov/Archives/edgar/data/1065280/000119312511198669/,종가 262.69 × 주식수 52536246,3
+Netflix,NFLX,2011Q3,2011-09-30,분기별 매출액,821839000,USD,공시,https://www.sec.gov/Archives/edgar/data/1065280/000119312511297992/,,3
+Netflix,NFLX,2011Q3,2011-09-30,분기별 영업이익,96842000,USD,공시,https://www.sec.gov/Archives/edgar/data/1065280/000119312511297992/,,3
+Netflix,NFLX,2011Q3,2011-09-30,분기별 당기순이익(지배),62460000,USD,공시,https://www.sec.gov/Archives/edgar/data/1065280/000119312511297992/,,3
+Netflix,NFLX,2011Q3,2011-09-30,분기별 영업활동현금흐름,49531000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/1065280/000119312511297992/ ; https://www.sec.gov/Archives/edgar/data/1065280/000119312511198669/,누적 252246000 − 직전누적 202715000 (시작 2011-01-01),3
+Netflix,NFLX,2011Q3,2011-09-30,분기말 자산총계,1961558000,USD,공시,https://www.sec.gov/Archives/edgar/data/1065280/000119312511297992/,,3
+Netflix,NFLX,2011Q3,2011-09-30,분기말 부채총계,1573206000,USD,공시,https://www.sec.gov/Archives/edgar/data/1065280/000119312511297992/,,3
+Netflix,NFLX,2011Q3,2011-09-30,분기말 총자본(자기자본),388352000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/1065280/000119312511297992/,"StockholdersEquity, MinorityInterest 태그 없음",3
+Netflix,NFLX,2011Q3,2011-09-30,분기말 지배지분 자본,388352000,USD,공시,https://www.sec.gov/Archives/edgar/data/1065280/000119312511297992/,,3
+Netflix,NFLX,2011Q3,2011-09-30,분기말 종가,113.27,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/NFLX?interval=1d&events=splits (2011-09-30),분할조정 종가 1.6181 × 이후 분할계수 70,3
+Netflix,NFLX,2011Q3,2011-09-30,분기말 상장주식수,52504091,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/1065280/000119312511297992/,dei:EntityCommonStockSharesOutstanding 클래스 합,3
+Netflix,NFLX,2011Q3,2011-09-30,분기말 시가총액,5947138388,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/NFLX?interval=1d&events=splits (2011-09-30) ; https://www.sec.gov/Archives/edgar/data/1065280/000119312511297992/,종가 113.27 × 주식수 52504091,3
+Netflix,NFLX,2011Q4,2011-12-31,분기별 매출액,875575000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/1065280/000119312512053009/ ; https://www.sec.gov/Archives/edgar/data/1065280/000119312511297992/,연간 3204577000 − 9개월누적 2329002000 (Revenues),3
+Netflix,NFLX,2011Q4,2011-12-31,분기별 영업이익,61872000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/1065280/000119312512053009/ ; https://www.sec.gov/Archives/edgar/data/1065280/000119312511297992/,연간 376068000 − 9개월누적 314196000 (OperatingIncomeLoss),3
+Netflix,NFLX,2011Q4,2011-12-31,분기별 당기순이익(지배),35219000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/1065280/000119312512053009/ ; https://www.sec.gov/Archives/edgar/data/1065280/000119312511297992/,연간 226126000 − 9개월누적 190907000 (NetIncomeLoss),3
+Netflix,NFLX,2011Q4,2011-12-31,분기별 영업활동현금흐름,65466000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/1065280/000119312512053009/ ; https://www.sec.gov/Archives/edgar/data/1065280/000119312511297992/,누적 317712000 − 직전누적 252246000 (시작 2011-01-01),3
+Netflix,NFLX,2011Q4,2011-12-31,분기말 자산총계,3069196000,USD,공시,https://www.sec.gov/Archives/edgar/data/1065280/000119312512053009/,,3
+Netflix,NFLX,2011Q4,2011-12-31,분기말 부채총계,2426386000,USD,공시,https://www.sec.gov/Archives/edgar/data/1065280/000119312512053009/,,3
+Netflix,NFLX,2011Q4,2011-12-31,분기말 총자본(자기자본),642810000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/1065280/000119312512053009/,"StockholdersEquity, MinorityInterest 태그 없음",3
+Netflix,NFLX,2011Q4,2011-12-31,분기말 지배지분 자본,642810000,USD,공시,https://www.sec.gov/Archives/edgar/data/1065280/000119312512053009/,,3
+Netflix,NFLX,2011Q4,2011-12-30,분기말 종가,69.29,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/NFLX?interval=1d&events=splits (2011-12-30),분할조정 종가 0.9899 × 이후 분할계수 70,3
+Netflix,NFLX,2011Q4,2012-01-31,분기말 상장주식수,55418632,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/1065280/000119312512053009/,dei:EntityCommonStockSharesOutstanding 클래스 합,3
+Netflix,NFLX,2011Q4,2011-12-30,분기말 시가총액,3839957011,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/NFLX?interval=1d&events=splits (2011-12-30) ; https://www.sec.gov/Archives/edgar/data/1065280/000119312512053009/,종가 69.29 × 주식수 55418632,3
+Netflix,NFLX,2012Q1,2012-03-31,분기별 매출액,869791000,USD,공시,https://www.sec.gov/Archives/edgar/data/1065280/000144530512001242/,,3
+Netflix,NFLX,2012Q1,2012-03-31,분기별 영업이익,-1935000,USD,공시,https://www.sec.gov/Archives/edgar/data/1065280/000144530512001242/,,3
+Netflix,NFLX,2012Q1,2012-03-31,분기별 당기순이익(지배),-4584000,USD,공시,https://www.sec.gov/Archives/edgar/data/1065280/000144530512001242/,,3
+Netflix,NFLX,2012Q1,2012-03-31,분기별 영업활동현금흐름,19109000,USD,공시,https://www.sec.gov/Archives/edgar/data/1065280/000144530512001242/,,3
+Netflix,NFLX,2012Q1,2012-03-31,분기말 자산총계,3480459000,USD,공시,https://www.sec.gov/Archives/edgar/data/1065280/000144530512001242/,,3
+Netflix,NFLX,2012Q1,2012-03-31,분기말 부채총계,2817057000,USD,공시,https://www.sec.gov/Archives/edgar/data/1065280/000144530512001242/,,3
+Netflix,NFLX,2012Q1,2012-03-31,분기말 총자본(자기자본),663402000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/1065280/000144530512001242/,"StockholdersEquity, MinorityInterest 태그 없음",3
+Netflix,NFLX,2012Q1,2012-03-31,분기말 지배지분 자본,663402000,USD,공시,https://www.sec.gov/Archives/edgar/data/1065280/000144530512001242/,,3
+Netflix,NFLX,2012Q1,2012-03-30,분기말 종가,115.04,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/NFLX?interval=1d&events=splits (2012-03-30),분할조정 종가 1.6434 × 이후 분할계수 70,3
+Netflix,NFLX,2012Q1,2012-03-31,분기말 상장주식수,55515631,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/1065280/000144530512001242/,dei:EntityCommonStockSharesOutstanding 클래스 합,3
+Netflix,NFLX,2012Q1,2012-03-30,분기말 시가총액,6386518190,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/NFLX?interval=1d&events=splits (2012-03-30) ; https://www.sec.gov/Archives/edgar/data/1065280/000144530512001242/,종가 115.04 × 주식수 55515631,3
+Netflix,NFLX,2012Q2,2012-06-30,분기별 매출액,889163000,USD,공시,https://www.sec.gov/Archives/edgar/data/1065280/000106528012000012/,,3
+Netflix,NFLX,2012Q2,2012-06-30,분기별 영업이익,16154000,USD,공시,https://www.sec.gov/Archives/edgar/data/1065280/000106528012000012/,,3
+Netflix,NFLX,2012Q2,2012-06-30,분기별 당기순이익(지배),6164000,USD,공시,https://www.sec.gov/Archives/edgar/data/1065280/000106528012000012/,,3
+Netflix,NFLX,2012Q2,2012-06-30,분기별 영업활동현금흐름,19407000,USD,계산(누적차감)(재작성 반영),https://www.sec.gov/Archives/edgar/data/1065280/000106528013000030/ ; https://www.sec.gov/Archives/edgar/data/1065280/000144530512001242/,누적 38516000 − 직전누적 19109000 (시작 2012-01-01) ; 원 공시 19692000 (https://www.sec.gov/Archives/edgar/data/1065280/000106528012000012/ ; https://www.sec.gov/Archives/edgar/data/1065280/000144530512001242/),3
+Netflix,NFLX,2012Q2,2012-06-30,분기말 자산총계,3478290000,USD,공시,https://www.sec.gov/Archives/edgar/data/1065280/000106528012000012/,,3
+Netflix,NFLX,2012Q2,2012-06-30,분기말 부채총계,2790064000,USD,공시,https://www.sec.gov/Archives/edgar/data/1065280/000106528012000012/,,3
+Netflix,NFLX,2012Q2,2012-06-30,분기말 총자본(자기자본),688226000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/1065280/000106528012000012/,"StockholdersEquity, MinorityInterest 태그 없음",3
+Netflix,NFLX,2012Q2,2012-06-30,분기말 지배지분 자본,688226000,USD,공시,https://www.sec.gov/Archives/edgar/data/1065280/000106528012000012/,,3
+Netflix,NFLX,2012Q2,2012-06-29,분기말 종가,68.49,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/NFLX?interval=1d&events=splits (2012-06-29),분할조정 종가 0.9784 × 이후 분할계수 70,3
+Netflix,NFLX,2012Q2,2012-06-30,분기말 상장주식수,55534266,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/1065280/000106528012000012/,dei:EntityCommonStockSharesOutstanding 클래스 합,3
+Netflix,NFLX,2012Q2,2012-06-29,분기말 시가총액,3803541878,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/NFLX?interval=1d&events=splits (2012-06-29) ; https://www.sec.gov/Archives/edgar/data/1065280/000106528012000012/,종가 68.49 × 주식수 55534266,3
+Netflix,NFLX,2012Q3,2012-09-30,분기별 매출액,905089000,USD,공시,https://www.sec.gov/Archives/edgar/data/1065280/000106528012000020/,,3
+Netflix,NFLX,2012Q3,2012-09-30,분기별 영업이익,16135000,USD,공시,https://www.sec.gov/Archives/edgar/data/1065280/000106528012000020/,,3
+Netflix,NFLX,2012Q3,2012-09-30,분기별 당기순이익(지배),7675000,USD,공시,https://www.sec.gov/Archives/edgar/data/1065280/000106528012000020/,,3
+Netflix,NFLX,2012Q3,2012-09-30,분기별 영업활동현금흐름,-2925000,USD,계산(누적차감)(재작성 반영),https://www.sec.gov/Archives/edgar/data/1065280/000106528013000036/ ; https://www.sec.gov/Archives/edgar/data/1065280/000106528013000030/,누적 35591000 − 직전누적 38516000 (시작 2012-01-01) ; 원 공시 150000 (https://www.sec.gov/Archives/edgar/data/1065280/000106528012000020/ ; https://www.sec.gov/Archives/edgar/data/1065280/000106528012000012/),3
+Netflix,NFLX,2012Q3,2012-09-30,분기말 자산총계,3808833000,USD,공시,https://www.sec.gov/Archives/edgar/data/1065280/000106528012000020/,,3
+Netflix,NFLX,2012Q3,2012-09-30,분기말 부채총계,3091993000,USD,공시,https://www.sec.gov/Archives/edgar/data/1065280/000106528012000020/,,3
+Netflix,NFLX,2012Q3,2012-09-30,분기말 총자본(자기자본),716840000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/1065280/000106528012000020/,"StockholdersEquity, MinorityInterest 태그 없음",3
+Netflix,NFLX,2012Q3,2012-09-30,분기말 지배지분 자본,716840000,USD,공시,https://www.sec.gov/Archives/edgar/data/1065280/000106528012000020/,,3
+Netflix,NFLX,2012Q3,2012-09-28,분기말 종가,54.44,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/NFLX?interval=1d&events=splits (2012-09-28),분할조정 종가 0.7777 × 이후 분할계수 70,3
+Netflix,NFLX,2012Q3,2012-09-30,분기말 상장주식수,55545531,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/1065280/000106528012000020/,dei:EntityCommonStockSharesOutstanding 클래스 합,3
+Netflix,NFLX,2012Q3,2012-09-28,분기말 시가총액,3023898708,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/NFLX?interval=1d&events=splits (2012-09-28) ; https://www.sec.gov/Archives/edgar/data/1065280/000106528012000020/,종가 54.44 × 주식수 55545531,3
+Netflix,NFLX,2012Q4,2012-12-31,분기별 매출액,945239000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/1065280/000106528013000008/ ; https://www.sec.gov/Archives/edgar/data/1065280/000106528012000020/,연간 3609282000 − 9개월누적 2664043000 (Revenues),3
+Netflix,NFLX,2012Q4,2012-12-31,분기별 영업이익,19638000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/1065280/000106528013000008/ ; https://www.sec.gov/Archives/edgar/data/1065280/000106528012000020/,연간 49992000 − 9개월누적 30354000 (OperatingIncomeLoss),3
+Netflix,NFLX,2012Q4,2012-12-31,분기별 당기순이익(지배),7897000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/1065280/000106528013000008/ ; https://www.sec.gov/Archives/edgar/data/1065280/000106528012000020/,연간 17152000 − 9개월누적 9255000 (NetIncomeLoss),3
+Netflix,NFLX,2012Q4,2012-12-31,분기별 영업활동현금흐름,-14005000,USD,계산(누적차감)(재작성 반영),https://www.sec.gov/Archives/edgar/data/1065280/000106528015000006/ ; https://www.sec.gov/Archives/edgar/data/1065280/000106528013000036/,누적 21586000 − 직전누적 35591000 (시작 2012-01-01) ; 원 공시 -16186000 (https://www.sec.gov/Archives/edgar/data/1065280/000106528013000008/ ; https://www.sec.gov/Archives/edgar/data/1065280/000106528012000020/),3
+Netflix,NFLX,2012Q4,2012-12-31,분기말 자산총계,3967890000,USD,공시,https://www.sec.gov/Archives/edgar/data/1065280/000106528013000008/,,3
+Netflix,NFLX,2012Q4,2012-12-31,분기말 부채총계,3223217000,USD,공시,https://www.sec.gov/Archives/edgar/data/1065280/000106528013000008/,,3
+Netflix,NFLX,2012Q4,2012-12-31,분기말 총자본(자기자본),744673000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/1065280/000106528013000008/,"StockholdersEquity, MinorityInterest 태그 없음",3
+Netflix,NFLX,2012Q4,2012-12-31,분기말 지배지분 자본,744673000,USD,공시,https://www.sec.gov/Archives/edgar/data/1065280/000106528013000008/,,3
+Netflix,NFLX,2012Q4,2012-12-31,분기말 종가,92.59,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/NFLX?interval=1d&events=splits (2012-12-31),분할조정 종가 1.3227 × 이후 분할계수 70,3
+Netflix,NFLX,2012Q4,2013-01-31,분기말 상장주식수,55993477,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/1065280/000106528013000008/,dei:EntityCommonStockSharesOutstanding 클래스 합,3
+Netflix,NFLX,2012Q4,2012-12-31,분기말 시가총액,5184436035,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/NFLX?interval=1d&events=splits (2012-12-31) ; https://www.sec.gov/Archives/edgar/data/1065280/000106528013000008/,종가 92.59 × 주식수 55993477,3
+Netflix,NFLX,2013Q1,2013-03-31,분기별 매출액,1023961000,USD,공시,https://www.sec.gov/Archives/edgar/data/1065280/000106528013000020/,,3
+Netflix,NFLX,2013Q1,2013-03-31,분기별 영업이익,31822000,USD,공시,https://www.sec.gov/Archives/edgar/data/1065280/000106528013000020/,,3
+Netflix,NFLX,2013Q1,2013-03-31,분기별 당기순이익(지배),2689000,USD,공시,https://www.sec.gov/Archives/edgar/data/1065280/000106528013000020/,,3
+Netflix,NFLX,2013Q1,2013-03-31,분기별 영업활동현금흐름,-12250000,USD,공시(재작성 반영),https://www.sec.gov/Archives/edgar/data/1065280/000106528014000012/,원 공시 -12165000 (https://www.sec.gov/Archives/edgar/data/1065280/000106528013000020/),3
+Netflix,NFLX,2013Q1,2013-03-31,분기말 자산총계,4363289000,USD,공시,https://www.sec.gov/Archives/edgar/data/1065280/000106528013000020/,,3
+Netflix,NFLX,2013Q1,2013-03-31,분기말 부채총계,3550370000,USD,공시,https://www.sec.gov/Archives/edgar/data/1065280/000106528013000020/,,3
+Netflix,NFLX,2013Q1,2013-03-31,분기말 총자본(자기자본),812919000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/1065280/000106528013000020/,"StockholdersEquity, MinorityInterest 태그 없음",3
+Netflix,NFLX,2013Q1,2013-03-31,분기말 지배지분 자본,812919000,USD,공시,https://www.sec.gov/Archives/edgar/data/1065280/000106528013000020/,,3
+Netflix,NFLX,2013Q1,2013-03-28,분기말 종가,189.28,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/NFLX?interval=1d&events=splits (2013-03-28),분할조정 종가 2.704 × 이후 분할계수 70,3
+Netflix,NFLX,2013Q1,2013-03-31,분기말 상장주식수,56143986,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/1065280/000106528013000020/,dei:EntityCommonStockSharesOutstanding 클래스 합,3
+Netflix,NFLX,2013Q1,2013-03-28,분기말 시가총액,10626933670,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/NFLX?interval=1d&events=splits (2013-03-28) ; https://www.sec.gov/Archives/edgar/data/1065280/000106528013000020/,종가 189.28 × 주식수 56143986,3
+Netflix,NFLX,2013Q2,2013-06-30,분기별 매출액,1069372000,USD,공시,https://www.sec.gov/Archives/edgar/data/1065280/000106528013000030/,,3
+Netflix,NFLX,2013Q2,2013-06-30,분기별 영업이익,57117000,USD,공시,https://www.sec.gov/Archives/edgar/data/1065280/000106528013000030/,,3
+Netflix,NFLX,2013Q2,2013-06-30,분기별 당기순이익(지배),29471000,USD,공시,https://www.sec.gov/Archives/edgar/data/1065280/000106528013000030/,,3
+Netflix,NFLX,2013Q2,2013-06-30,분기별 영업활동현금흐름,33943000,USD,계산(누적차감)(재작성 반영),https://www.sec.gov/Archives/edgar/data/1065280/000106528013000030/ ; https://www.sec.gov/Archives/edgar/data/1065280/000106528014000012/,누적 21693000 − 직전누적 -12250000 (시작 2013-01-01) ; 원 공시 33858000 (https://www.sec.gov/Archives/edgar/data/1065280/000106528013000030/ ; https://www.sec.gov/Archives/edgar/data/1065280/000106528013000020/),3
+Netflix,NFLX,2013Q2,2013-06-30,분기말 자산총계,4480751000,USD,공시,https://www.sec.gov/Archives/edgar/data/1065280/000106528013000030/,,3
+Netflix,NFLX,2013Q2,2013-06-30,분기말 부채총계,3375129000,USD,공시,https://www.sec.gov/Archives/edgar/data/1065280/000106528013000030/,,3
+Netflix,NFLX,2013Q2,2013-06-30,분기말 총자본(자기자본),1105622000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/1065280/000106528013000030/,"StockholdersEquity, MinorityInterest 태그 없음",3
+Netflix,NFLX,2013Q2,2013-06-30,분기말 지배지분 자본,1105622000,USD,공시,https://www.sec.gov/Archives/edgar/data/1065280/000106528013000030/,,3
+Netflix,NFLX,2013Q2,2013-06-28,분기말 종가,211.09,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/NFLX?interval=1d&events=splits (2013-06-28),분할조정 종가 3.0156 × 이후 분할계수 70,3
+Netflix,NFLX,2013Q2,2013-06-30,분기말 상장주식수,58922493,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/1065280/000106528013000030/,dei:EntityCommonStockSharesOutstanding 클래스 합,3
+Netflix,NFLX,2013Q2,2013-06-28,분기말 시가총액,12437949047,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/NFLX?interval=1d&events=splits (2013-06-28) ; https://www.sec.gov/Archives/edgar/data/1065280/000106528013000030/,종가 211.09 × 주식수 58922493,3
+Netflix,NFLX,2013Q3,2013-09-30,분기별 매출액,1105999000,USD,공시,https://www.sec.gov/Archives/edgar/data/1065280/000106528013000036/,,3
+Netflix,NFLX,2013Q3,2013-09-30,분기별 영업이익,57120000,USD,공시,https://www.sec.gov/Archives/edgar/data/1065280/000106528013000036/,,3
+Netflix,NFLX,2013Q3,2013-09-30,분기별 당기순이익(지배),31822000,USD,공시,https://www.sec.gov/Archives/edgar/data/1065280/000106528013000036/,,3
+Netflix,NFLX,2013Q3,2013-09-30,분기별 영업활동현금흐름,34693000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/1065280/000106528013000036/ ; https://www.sec.gov/Archives/edgar/data/1065280/000106528013000030/,누적 56386000 − 직전누적 21693000 (시작 2013-01-01),3
+Netflix,NFLX,2013Q3,2013-09-30,분기말 자산총계,4901325000,USD,공시,https://www.sec.gov/Archives/edgar/data/1065280/000106528013000036/,,3
+Netflix,NFLX,2013Q3,2013-09-30,분기말 부채총계,3696955000,USD,공시,https://www.sec.gov/Archives/edgar/data/1065280/000106528013000036/,,3
+Netflix,NFLX,2013Q3,2013-09-30,분기말 총자본(자기자본),1204370000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/1065280/000106528013000036/,"StockholdersEquity, MinorityInterest 태그 없음",3
+Netflix,NFLX,2013Q3,2013-09-30,분기말 지배지분 자본,1204370000,USD,공시,https://www.sec.gov/Archives/edgar/data/1065280/000106528013000036/,,3
+Netflix,NFLX,2013Q3,2013-09-30,분기말 종가,309.21,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/NFLX?interval=1d&events=splits (2013-09-30),분할조정 종가 4.4173 × 이후 분할계수 70,3
+Netflix,NFLX,2013Q3,2013-09-30,분기말 상장주식수,59257798,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/1065280/000106528013000036/,dei:EntityCommonStockSharesOutstanding 클래스 합,3
+Netflix,NFLX,2013Q3,2013-09-30,분기말 시가총액,18323103720,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/NFLX?interval=1d&events=splits (2013-09-30) ; https://www.sec.gov/Archives/edgar/data/1065280/000106528013000036/,종가 309.21 × 주식수 59257798,3
+Netflix,NFLX,2013Q4,2013-12-31,분기별 매출액,1175230000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/1065280/000106528014000006/ ; https://www.sec.gov/Archives/edgar/data/1065280/000106528013000036/,연간 4374562000 − 9개월누적 3199332000 (Revenues),3
+Netflix,NFLX,2013Q4,2013-12-31,분기별 영업이익,82288000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/1065280/000106528014000006/ ; https://www.sec.gov/Archives/edgar/data/1065280/000106528013000036/,연간 228347000 − 9개월누적 146059000 (OperatingIncomeLoss),3
+Netflix,NFLX,2013Q4,2013-12-31,분기별 당기순이익(지배),48421000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/1065280/000106528014000006/ ; https://www.sec.gov/Archives/edgar/data/1065280/000106528013000036/,연간 112403000 − 9개월누적 63982000 (NetIncomeLoss),3
+Netflix,NFLX,2013Q4,2013-12-31,분기별 영업활동현금흐름,41445000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/1065280/000106528014000006/ ; https://www.sec.gov/Archives/edgar/data/1065280/000106528013000036/,누적 97831000 − 직전누적 56386000 (시작 2013-01-01),3
+Netflix,NFLX,2013Q4,2013-12-31,분기말 자산총계,5412563000,USD,공시,https://www.sec.gov/Archives/edgar/data/1065280/000106528014000006/,,3
+Netflix,NFLX,2013Q4,2013-12-31,분기말 부채총계,4079002000,USD,공시,https://www.sec.gov/Archives/edgar/data/1065280/000106528014000006/,,3
+Netflix,NFLX,2013Q4,2013-12-31,분기말 총자본(자기자본),1333561000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/1065280/000106528014000006/,"StockholdersEquity, MinorityInterest 태그 없음",3
+Netflix,NFLX,2013Q4,2013-12-31,분기말 지배지분 자본,1333561000,USD,공시,https://www.sec.gov/Archives/edgar/data/1065280/000106528014000006/,,3
+Netflix,NFLX,2013Q4,2013-12-31,분기말 종가,368.17,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/NFLX?interval=1d&events=splits (2013-12-31),분할조정 종가 5.2596 × 이후 분할계수 70,3
+Netflix,NFLX,2013Q4,2014-01-30,분기말 상장주식수,59807236,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/1065280/000106528014000006/,dei:EntityCommonStockSharesOutstanding 클래스 합,3
+Netflix,NFLX,2013Q4,2013-12-31,분기말 시가총액,22019230078,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/NFLX?interval=1d&events=splits (2013-12-31) ; https://www.sec.gov/Archives/edgar/data/1065280/000106528014000006/,종가 368.17 × 주식수 59807236,3
+Netflix,NFLX,2014Q1,2014-03-31,분기별 매출액,1270089000,USD,공시,https://www.sec.gov/Archives/edgar/data/1065280/000106528014000012/,,3
+Netflix,NFLX,2014Q1,2014-03-31,분기별 영업이익,97595000,USD,공시,https://www.sec.gov/Archives/edgar/data/1065280/000106528014000012/,,3
+Netflix,NFLX,2014Q1,2014-03-31,분기별 당기순이익(지배),53115000,USD,공시,https://www.sec.gov/Archives/edgar/data/1065280/000106528014000012/,,3
+Netflix,NFLX,2014Q1,2014-03-31,분기별 영업활동현금흐름,36359000,USD,공시,https://www.sec.gov/Archives/edgar/data/1065280/000106528014000012/,,3
+Netflix,NFLX,2014Q1,2014-03-31,분기말 자산총계,6048106000,USD,공시,https://www.sec.gov/Archives/edgar/data/1065280/000106528014000012/,,3
+Netflix,NFLX,2014Q1,2014-03-31,분기말 부채총계,4569748000,USD,공시,https://www.sec.gov/Archives/edgar/data/1065280/000106528014000012/,,3
+Netflix,NFLX,2014Q1,2014-03-31,분기말 총자본(자기자본),1478358000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/1065280/000106528014000012/,"StockholdersEquity, MinorityInterest 태그 없음",3
+Netflix,NFLX,2014Q1,2014-03-31,분기말 지배지분 자본,1478358000,USD,공시,https://www.sec.gov/Archives/edgar/data/1065280/000106528014000012/,,3
+Netflix,NFLX,2014Q1,2014-03-31,분기말 종가,352.03,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/NFLX?interval=1d&events=splits (2014-03-31),분할조정 종가 5.029 × 이후 분할계수 70,3
+Netflix,NFLX,2014Q1,2014-03-31,분기말 상장주식수,59940336,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/1065280/000106528014000012/,dei:EntityCommonStockSharesOutstanding 클래스 합,3
+Netflix,NFLX,2014Q1,2014-03-31,분기말 시가총액,21100796482,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/NFLX?interval=1d&events=splits (2014-03-31) ; https://www.sec.gov/Archives/edgar/data/1065280/000106528014000012/,종가 352.03 × 주식수 59940336,3
+Netflix,NFLX,2014Q2,2014-06-30,분기별 매출액,1340407000,USD,공시,https://www.sec.gov/Archives/edgar/data/1065280/000106528014000021/,,3
+Netflix,NFLX,2014Q2,2014-06-30,분기별 영업이익,129600000,USD,공시,https://www.sec.gov/Archives/edgar/data/1065280/000106528014000021/,,3
+Netflix,NFLX,2014Q2,2014-06-30,분기별 당기순이익(지배),71018000,USD,공시,https://www.sec.gov/Archives/edgar/data/1065280/000106528014000021/,,3
+Netflix,NFLX,2014Q2,2014-06-30,분기별 영업활동현금흐름,56024000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/1065280/000106528014000021/ ; https://www.sec.gov/Archives/edgar/data/1065280/000106528014000012/,누적 92383000 − 직전누적 36359000 (시작 2014-01-01),3
+Netflix,NFLX,2014Q2,2014-06-30,분기말 자산총계,6325822000,USD,공시,https://www.sec.gov/Archives/edgar/data/1065280/000106528014000021/,,3
+Netflix,NFLX,2014Q2,2014-06-30,분기말 부채총계,4716117000,USD,공시,https://www.sec.gov/Archives/edgar/data/1065280/000106528014000021/,,3
+Netflix,NFLX,2014Q2,2014-06-30,분기말 총자본(자기자본),1609705000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/1065280/000106528014000021/,"StockholdersEquity, MinorityInterest 태그 없음",3
+Netflix,NFLX,2014Q2,2014-06-30,분기말 지배지분 자본,1609705000,USD,공시,https://www.sec.gov/Archives/edgar/data/1065280/000106528014000021/,,3
+Netflix,NFLX,2014Q2,2014-06-30,분기말 종가,440.6,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/NFLX?interval=1d&events=splits (2014-06-30),분할조정 종가 6.2943 × 이후 분할계수 70,3
+Netflix,NFLX,2014Q2,2014-06-30,분기말 상장주식수,60091015,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/1065280/000106528014000021/,dei:EntityCommonStockSharesOutstanding 클래스 합,3
+Netflix,NFLX,2014Q2,2014-06-30,분기말 시가총액,26476101209,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/NFLX?interval=1d&events=splits (2014-06-30) ; https://www.sec.gov/Archives/edgar/data/1065280/000106528014000021/,종가 440.6 × 주식수 60091015,3
+Netflix,NFLX,2014Q3,2014-09-30,분기별 매출액,1409432000,USD,공시,https://www.sec.gov/Archives/edgar/data/1065280/000106528014000028/,,3
+Netflix,NFLX,2014Q3,2014-09-30,분기별 영업이익,110407000,USD,공시,https://www.sec.gov/Archives/edgar/data/1065280/000106528014000028/,,3
+Netflix,NFLX,2014Q3,2014-09-30,분기별 당기순이익(지배),59295000,USD,공시,https://www.sec.gov/Archives/edgar/data/1065280/000106528014000028/,,3
+Netflix,NFLX,2014Q3,2014-09-30,분기별 영업활동현금흐름,-37439000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/1065280/000106528014000028/ ; https://www.sec.gov/Archives/edgar/data/1065280/000106528014000021/,누적 54944000 − 직전누적 92383000 (시작 2014-01-01),3
+Netflix,NFLX,2014Q3,2014-09-30,분기말 자산총계,6778329000,USD,공시,https://www.sec.gov/Archives/edgar/data/1065280/000106528014000028/,,3
+Netflix,NFLX,2014Q3,2014-09-30,분기말 부채총계,5053455000,USD,공시,https://www.sec.gov/Archives/edgar/data/1065280/000106528014000028/,,3
+Netflix,NFLX,2014Q3,2014-09-30,분기말 총자본(자기자본),1724874000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/1065280/000106528014000028/,"StockholdersEquity, MinorityInterest 태그 없음",3
+Netflix,NFLX,2014Q3,2014-09-30,분기말 지배지분 자본,1724874000,USD,공시,https://www.sec.gov/Archives/edgar/data/1065280/000106528014000028/,,3
+Netflix,NFLX,2014Q3,2014-09-30,분기말 종가,451.18,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/NFLX?interval=1d&events=splits (2014-09-30),분할조정 종가 6.4454 × 이후 분할계수 70,3
+Netflix,NFLX,2014Q3,2014-09-30,분기말 상장주식수,60246379,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/1065280/000106528014000028/,dei:EntityCommonStockSharesOutstanding 클래스 합,3
+Netflix,NFLX,2014Q3,2014-09-30,분기말 시가총액,27181961277,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/NFLX?interval=1d&events=splits (2014-09-30) ; https://www.sec.gov/Archives/edgar/data/1065280/000106528014000028/,종가 451.18 × 주식수 60246379,3
+Netflix,NFLX,2014Q4,2014-12-31,분기별 매출액,1484728000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/1065280/000106528015000006/ ; https://www.sec.gov/Archives/edgar/data/1065280/000106528014000028/,연간 5504656000 − 9개월누적 4019928000 (Revenues),3
+Netflix,NFLX,2014Q4,2014-12-31,분기별 영업이익,65046000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/1065280/000106528015000006/ ; https://www.sec.gov/Archives/edgar/data/1065280/000106528014000028/,연간 402648000 − 9개월누적 337602000 (OperatingIncomeLoss),3
+Netflix,NFLX,2014Q4,2014-12-31,분기별 당기순이익(지배),83371000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/1065280/000106528015000006/ ; https://www.sec.gov/Archives/edgar/data/1065280/000106528014000028/,연간 266799000 − 9개월누적 183428000 (NetIncomeLoss),3
+Netflix,NFLX,2014Q4,2014-12-31,분기별 영업활동현금흐름,-38461000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/1065280/000106528015000006/ ; https://www.sec.gov/Archives/edgar/data/1065280/000106528014000028/,누적 16483000 − 직전누적 54944000 (시작 2014-01-01),3
+Netflix,NFLX,2014Q4,2014-12-31,분기말 자산총계,7042500000,USD,공시(재작성 반영),https://www.sec.gov/Archives/edgar/data/1065280/000106528016000047/,원 공시 7056651000 (https://www.sec.gov/Archives/edgar/data/1065280/000106528015000006/),3
+Netflix,NFLX,2014Q4,2014-12-31,분기말 부채총계,5184792000,USD,공시(재작성 반영),https://www.sec.gov/Archives/edgar/data/1065280/000106528016000047/,원 공시 5198943000 (https://www.sec.gov/Archives/edgar/data/1065280/000106528015000006/),3
+Netflix,NFLX,2014Q4,2014-12-31,분기말 총자본(자기자본),1857708000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/1065280/000106528015000006/,"StockholdersEquity, MinorityInterest 태그 없음",3
+Netflix,NFLX,2014Q4,2014-12-31,분기말 지배지분 자본,1857708000,USD,공시,https://www.sec.gov/Archives/edgar/data/1065280/000106528015000006/,,3
+Netflix,NFLX,2014Q4,2014-12-31,분기말 종가,341.61,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/NFLX?interval=1d&events=splits (2014-12-31),분할조정 종가 4.8801 × 이후 분할계수 70,3
+Netflix,NFLX,2014Q4,2015-01-28,분기말 상장주식수,60498082,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/1065280/000106528015000006/,dei:EntityCommonStockSharesOutstanding 클래스 합,3
+Netflix,NFLX,2014Q4,2014-12-31,분기말 시가총액,20666749792,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/NFLX?interval=1d&events=splits (2014-12-31) ; https://www.sec.gov/Archives/edgar/data/1065280/000106528015000006/,종가 341.61 × 주식수 60498082,3
+Netflix,NFLX,2015Q1,2015-03-31,분기별 매출액,1573129000,USD,공시,https://www.sec.gov/Archives/edgar/data/1065280/000106528015000017/,,3
+Netflix,NFLX,2015Q1,2015-03-31,분기별 영업이익,97456000,USD,공시,https://www.sec.gov/Archives/edgar/data/1065280/000106528015000017/,,3
+Netflix,NFLX,2015Q1,2015-03-31,분기별 당기순이익(지배),23696000,USD,공시,https://www.sec.gov/Archives/edgar/data/1065280/000106528015000017/,,3
+Netflix,NFLX,2015Q1,2015-03-31,분기별 영업활동현금흐름,-127382000,USD,공시,https://www.sec.gov/Archives/edgar/data/1065280/000106528015000017/,,3
+Netflix,NFLX,2015Q1,2015-03-31,분기말 자산총계,9240626000,USD,공시,https://www.sec.gov/Archives/edgar/data/1065280/000106528015000017/,,3
+Netflix,NFLX,2015Q1,2015-03-31,분기말 부채총계,7331412000,USD,공시,https://www.sec.gov/Archives/edgar/data/1065280/000106528015000017/,,3
+Netflix,NFLX,2015Q1,2015-03-31,분기말 총자본(자기자본),1909214000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/1065280/000106528015000017/,"StockholdersEquity, MinorityInterest 태그 없음",3
+Netflix,NFLX,2015Q1,2015-03-31,분기말 지배지분 자본,1909214000,USD,공시,https://www.sec.gov/Archives/edgar/data/1065280/000106528015000017/,,3
+Netflix,NFLX,2015Q1,2015-03-31,분기말 종가,416.69,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/NFLX?interval=1d&events=splits (2015-03-31),분할조정 종가 5.9527 × 이후 분할계수 70,3
+Netflix,NFLX,2015Q1,2015-03-31,분기말 상장주식수,60620721,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/1065280/000106528015000017/,dei:EntityCommonStockSharesOutstanding 클래스 합,3
+Netflix,NFLX,2015Q1,2015-03-31,분기말 시가총액,25260048233,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/NFLX?interval=1d&events=splits (2015-03-31) ; https://www.sec.gov/Archives/edgar/data/1065280/000106528015000017/,종가 416.69 × 주식수 60620721,3
+Netflix,NFLX,2015Q2,2015-06-30,분기별 매출액,1644694000,USD,공시,https://www.sec.gov/Archives/edgar/data/1065280/000106528015000031/,,3
+Netflix,NFLX,2015Q2,2015-06-30,분기별 영업이익,74835000,USD,공시,https://www.sec.gov/Archives/edgar/data/1065280/000106528015000031/,,3
+Netflix,NFLX,2015Q2,2015-06-30,분기별 당기순이익(지배),26335000,USD,공시,https://www.sec.gov/Archives/edgar/data/1065280/000106528015000031/,,3
+Netflix,NFLX,2015Q2,2015-06-30,분기별 영업활동현금흐름,-181343000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/1065280/000106528015000031/ ; https://www.sec.gov/Archives/edgar/data/1065280/000106528015000017/,누적 -308725000 − 직전누적 -127382000 (시작 2015-01-01),3
+Netflix,NFLX,2015Q2,2015-06-30,분기말 자산총계,9654861000,USD,공시,https://www.sec.gov/Archives/edgar/data/1065280/000106528015000031/,,3
+Netflix,NFLX,2015Q2,2015-06-30,분기말 부채총계,7622786000,USD,공시,https://www.sec.gov/Archives/edgar/data/1065280/000106528015000031/,,3
+Netflix,NFLX,2015Q2,2015-06-30,분기말 총자본(자기자본),2032075000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/1065280/000106528015000031/,"StockholdersEquity, MinorityInterest 태그 없음",3
+Netflix,NFLX,2015Q2,2015-06-30,분기말 지배지분 자본,2032075000,USD,공시,https://www.sec.gov/Archives/edgar/data/1065280/000106528015000031/,,3
+Netflix,NFLX,2015Q2,2015-06-30,분기말 종가,656.94,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/NFLX?interval=1d&events=splits (2015-06-30),분할조정 종가 9.3849 × 이후 분할계수 70,3
+Netflix,NFLX,2015Q2,2015-06-30,분기말 상장주식수,426004831,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/1065280/000106528015000031/,dei:EntityCommonStockSharesOutstanding 클래스 합,3
+Netflix,NFLX,2015Q2,2015-06-30,분기말 시가총액,279859613677,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/NFLX?interval=1d&events=splits (2015-06-30) ; https://www.sec.gov/Archives/edgar/data/1065280/000106528015000031/,종가 656.94 × 주식수 426004831,3
+Netflix,NFLX,2015Q3,2015-09-30,분기별 매출액,1738355000,USD,공시,https://www.sec.gov/Archives/edgar/data/1065280/000106528015000038/,,3
+Netflix,NFLX,2015Q3,2015-09-30,분기별 영업이익,73641000,USD,공시,https://www.sec.gov/Archives/edgar/data/1065280/000106528015000038/,,3
+Netflix,NFLX,2015Q3,2015-09-30,분기별 당기순이익(지배),29432000,USD,공시,https://www.sec.gov/Archives/edgar/data/1065280/000106528015000038/,,3
+Netflix,NFLX,2015Q3,2015-09-30,분기별 영업활동현금흐름,-195969000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/1065280/000106528015000038/ ; https://www.sec.gov/Archives/edgar/data/1065280/000106528015000031/,누적 -504694000 − 직전누적 -308725000 (시작 2015-01-01),3
+Netflix,NFLX,2015Q3,2015-09-30,분기말 자산총계,9916267000,USD,공시,https://www.sec.gov/Archives/edgar/data/1065280/000106528015000038/,,3
+Netflix,NFLX,2015Q3,2015-09-30,분기말 부채총계,7748949000,USD,공시,https://www.sec.gov/Archives/edgar/data/1065280/000106528015000038/,,3
+Netflix,NFLX,2015Q3,2015-09-30,분기말 총자본(자기자본),2167318000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/1065280/000106528015000038/,"StockholdersEquity, MinorityInterest 태그 없음",3
+Netflix,NFLX,2015Q3,2015-09-30,분기말 지배지분 자본,2167318000,USD,공시,https://www.sec.gov/Archives/edgar/data/1065280/000106528015000038/,,3
+Netflix,NFLX,2015Q3,2015-09-30,분기말 종가,103.26,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/NFLX?interval=1d&events=splits (2015-09-30),분할조정 종가 10.326 × 이후 분할계수 10,3
+Netflix,NFLX,2015Q3,2015-09-30,분기말 상장주식수,427388288,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/1065280/000106528015000038/,dei:EntityCommonStockSharesOutstanding 클래스 합,3
+Netflix,NFLX,2015Q3,2015-09-30,분기말 시가총액,44132114619,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/NFLX?interval=1d&events=splits (2015-09-30) ; https://www.sec.gov/Archives/edgar/data/1065280/000106528015000038/,종가 103.26 × 주식수 427388288,3
+Netflix,NFLX,2015Q4,2015-12-31,분기별 매출액,1823333000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/1065280/000106528016000047/ ; https://www.sec.gov/Archives/edgar/data/1065280/000106528015000038/,연간 6779511000 − 9개월누적 4956178000 (Revenues),3
+Netflix,NFLX,2015Q4,2015-12-31,분기별 영업이익,59894000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/1065280/000106528016000047/ ; https://www.sec.gov/Archives/edgar/data/1065280/000106528015000038/,연간 305826000 − 9개월누적 245932000 (OperatingIncomeLoss),3
+Netflix,NFLX,2015Q4,2015-12-31,분기별 당기순이익(지배),43178000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/1065280/000106528016000047/ ; https://www.sec.gov/Archives/edgar/data/1065280/000106528015000038/,연간 122641000 − 9개월누적 79463000 (NetIncomeLoss),3
+Netflix,NFLX,2015Q4,2015-12-31,분기별 영업활동현금흐름,-244745000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/1065280/000106528016000047/ ; https://www.sec.gov/Archives/edgar/data/1065280/000106528015000038/,누적 -749439000 − 직전누적 -504694000 (시작 2015-01-01),3
+Netflix,NFLX,2015Q4,2015-12-31,분기말 자산총계,10202871000,USD,공시,https://www.sec.gov/Archives/edgar/data/1065280/000106528016000047/,,3
+Netflix,NFLX,2015Q4,2015-12-31,분기말 부채총계,7979445000,USD,공시,https://www.sec.gov/Archives/edgar/data/1065280/000106528016000047/,,3
+Netflix,NFLX,2015Q4,2015-12-31,분기말 총자본(자기자본),2223426000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/1065280/000106528016000047/,"StockholdersEquity, MinorityInterest 태그 없음",3
+Netflix,NFLX,2015Q4,2015-12-31,분기말 지배지분 자본,2223426000,USD,공시,https://www.sec.gov/Archives/edgar/data/1065280/000106528016000047/,,3
+Netflix,NFLX,2015Q4,2015-12-31,분기말 종가,114.38,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/NFLX?interval=1d&events=splits (2015-12-31),분할조정 종가 11.438 × 이후 분할계수 10,3
+Netflix,NFLX,2015Q4,2016-01-27,분기말 상장주식수,428081221,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/1065280/000106528016000047/,dei:EntityCommonStockSharesOutstanding 클래스 합,3
+Netflix,NFLX,2015Q4,2015-12-31,분기말 시가총액,48963930058,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/NFLX?interval=1d&events=splits (2015-12-31) ; https://www.sec.gov/Archives/edgar/data/1065280/000106528016000047/,종가 114.38 × 주식수 428081221,3
+Netflix,NFLX,2016Q1,2016-03-31,분기별 매출액,1957736000,USD,공시,https://www.sec.gov/Archives/edgar/data/1065280/000106528016000057/,,3
+Netflix,NFLX,2016Q1,2016-03-31,분기별 영업이익,49453000,USD,공시,https://www.sec.gov/Archives/edgar/data/1065280/000106528016000057/,,3
+Netflix,NFLX,2016Q1,2016-03-31,분기별 당기순이익(지배),27658000,USD,공시,https://www.sec.gov/Archives/edgar/data/1065280/000106528016000057/,,3
+Netflix,NFLX,2016Q1,2016-03-31,분기별 영업활동현금흐름,-228590000,USD,공시,https://www.sec.gov/Archives/edgar/data/1065280/000106528016000057/,,3
+Netflix,NFLX,2016Q1,2016-03-31,분기말 자산총계,11262274000,USD,공시,https://www.sec.gov/Archives/edgar/data/1065280/000106528016000057/,,3
+Netflix,NFLX,2016Q1,2016-03-31,분기말 부채총계,8945041000,USD,공시,https://www.sec.gov/Archives/edgar/data/1065280/000106528016000057/,,3
+Netflix,NFLX,2016Q1,2016-03-31,분기말 총자본(자기자본),2317233000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/1065280/000106528016000057/,"StockholdersEquity, MinorityInterest 태그 없음",3
+Netflix,NFLX,2016Q1,2016-03-31,분기말 지배지분 자본,2317233000,USD,공시,https://www.sec.gov/Archives/edgar/data/1065280/000106528016000057/,,3
+Netflix,NFLX,2016Q1,2016-03-31,분기말 종가,102.23,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/NFLX?interval=1d&events=splits (2016-03-31),분할조정 종가 10.223 × 이후 분할계수 10,3
+Netflix,NFLX,2016Q1,2016-03-31,분기말 상장주식수,428289216,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/1065280/000106528016000057/,dei:EntityCommonStockSharesOutstanding 클래스 합,3
+Netflix,NFLX,2016Q1,2016-03-31,분기말 시가총액,43784006552,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/NFLX?interval=1d&events=splits (2016-03-31) ; https://www.sec.gov/Archives/edgar/data/1065280/000106528016000057/,종가 102.23 × 주식수 428289216,3
+Netflix,NFLX,2016Q2,2016-06-30,분기별 매출액,2105204000,USD,공시,https://www.sec.gov/Archives/edgar/data/1065280/000106528016000072/,,3
+Netflix,NFLX,2016Q2,2016-06-30,분기별 영업이익,70370000,USD,공시,https://www.sec.gov/Archives/edgar/data/1065280/000106528016000072/,,3
+Netflix,NFLX,2016Q2,2016-06-30,분기별 당기순이익(지배),40755000,USD,공시,https://www.sec.gov/Archives/edgar/data/1065280/000106528016000072/,,3
+Netflix,NFLX,2016Q2,2016-06-30,분기별 영업활동현금흐름,-226293000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/1065280/000106528016000072/ ; https://www.sec.gov/Archives/edgar/data/1065280/000106528016000057/,누적 -454883000 − 직전누적 -228590000 (시작 2016-01-01),3
+Netflix,NFLX,2016Q2,2016-06-30,분기말 자산총계,11593507000,USD,공시,https://www.sec.gov/Archives/edgar/data/1065280/000106528016000072/,,3
+Netflix,NFLX,2016Q2,2016-06-30,분기말 부채총계,9177673000,USD,공시,https://www.sec.gov/Archives/edgar/data/1065280/000106528016000072/,,3
+Netflix,NFLX,2016Q2,2016-06-30,분기말 총자본(자기자본),2415834000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/1065280/000106528016000072/,"StockholdersEquity, MinorityInterest 태그 없음",3
+Netflix,NFLX,2016Q2,2016-06-30,분기말 지배지분 자본,2415834000,USD,공시,https://www.sec.gov/Archives/edgar/data/1065280/000106528016000072/,,3
+Netflix,NFLX,2016Q2,2016-06-30,분기말 종가,91.48,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/NFLX?interval=1d&events=splits (2016-06-30),분할조정 종가 9.148 × 이후 분할계수 10,3
+Netflix,NFLX,2016Q2,2016-06-30,분기말 상장주식수,428725388,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/1065280/000106528016000072/,dei:EntityCommonStockSharesOutstanding 클래스 합,3
+Netflix,NFLX,2016Q2,2016-06-30,분기말 시가총액,39219798494,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/NFLX?interval=1d&events=splits (2016-06-30) ; https://www.sec.gov/Archives/edgar/data/1065280/000106528016000072/,종가 91.48 × 주식수 428725388,3
+Netflix,NFLX,2016Q3,2016-09-30,분기별 매출액,2290188000,USD,공시,https://www.sec.gov/Archives/edgar/data/1065280/000106528016000081/,,3
+Netflix,NFLX,2016Q3,2016-09-30,분기별 영업이익,106036000,USD,공시,https://www.sec.gov/Archives/edgar/data/1065280/000106528016000081/,,3
+Netflix,NFLX,2016Q3,2016-09-30,분기별 당기순이익(지배),51517000,USD,공시,https://www.sec.gov/Archives/edgar/data/1065280/000106528016000081/,,3
+Netflix,NFLX,2016Q3,2016-09-30,분기별 영업활동현금흐름,-461941000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/1065280/000106528016000081/ ; https://www.sec.gov/Archives/edgar/data/1065280/000106528016000072/,누적 -916824000 − 직전누적 -454883000 (시작 2016-01-01),3
+Netflix,NFLX,2016Q3,2016-09-30,분기말 자산총계,12347338000,USD,공시,https://www.sec.gov/Archives/edgar/data/1065280/000106528016000081/,,3
+Netflix,NFLX,2016Q3,2016-09-30,분기말 부채총계,9818372000,USD,공시,https://www.sec.gov/Archives/edgar/data/1065280/000106528016000081/,,3
+Netflix,NFLX,2016Q3,2016-09-30,분기말 총자본(자기자본),2528966000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/1065280/000106528016000081/,"StockholdersEquity, MinorityInterest 태그 없음",3
+Netflix,NFLX,2016Q3,2016-09-30,분기말 지배지분 자본,2528966000,USD,공시,https://www.sec.gov/Archives/edgar/data/1065280/000106528016000081/,,3
+Netflix,NFLX,2016Q3,2016-09-30,분기말 종가,98.55,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/NFLX?interval=1d&events=splits (2016-09-30),분할조정 종가 9.855 × 이후 분할계수 10,3
+Netflix,NFLX,2016Q3,2016-09-30,분기말 상장주식수,429145023,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/1065280/000106528016000081/,dei:EntityCommonStockSharesOutstanding 클래스 합,3
+Netflix,NFLX,2016Q3,2016-09-30,분기말 시가총액,42292242017,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/NFLX?interval=1d&events=splits (2016-09-30) ; https://www.sec.gov/Archives/edgar/data/1065280/000106528016000081/,종가 98.55 × 주식수 429145023,3
+Netflix,NFLX,2016Q4,2016-12-31,분기별 매출액,2477541000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/1065280/000162828017000496/ ; https://www.sec.gov/Archives/edgar/data/1065280/000106528016000081/,연간 8830669000 − 9개월누적 6353128000 (Revenues),3
+Netflix,NFLX,2016Q4,2016-12-31,분기별 영업이익,153934000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/1065280/000162828017000496/ ; https://www.sec.gov/Archives/edgar/data/1065280/000106528016000081/,연간 379793000 − 9개월누적 225859000 (OperatingIncomeLoss),3
+Netflix,NFLX,2016Q4,2016-12-31,분기별 당기순이익(지배),66748000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/1065280/000162828017000496/ ; https://www.sec.gov/Archives/edgar/data/1065280/000106528016000081/,연간 186678000 − 9개월누적 119930000 (NetIncomeLoss),3
+Netflix,NFLX,2016Q4,2016-12-31,분기별 영업활동현금흐름,-557160000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/1065280/000162828017000496/ ; https://www.sec.gov/Archives/edgar/data/1065280/000106528016000081/,누적 -1473984000 − 직전누적 -916824000 (시작 2016-01-01),3
+Netflix,NFLX,2016Q4,2016-12-31,분기말 자산총계,13586610000,USD,공시,https://www.sec.gov/Archives/edgar/data/1065280/000162828017000496/,,3
+Netflix,NFLX,2016Q4,2016-12-31,분기말 부채총계,10906810000,USD,공시,https://www.sec.gov/Archives/edgar/data/1065280/000162828017000496/,,3
+Netflix,NFLX,2016Q4,2016-12-31,분기말 총자본(자기자본),2679800000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/1065280/000162828017000496/,"StockholdersEquity, MinorityInterest 태그 없음",3
+Netflix,NFLX,2016Q4,2016-12-31,분기말 지배지분 자본,2679800000,USD,공시,https://www.sec.gov/Archives/edgar/data/1065280/000162828017000496/,,3
+Netflix,NFLX,2016Q4,2016-12-30,분기말 종가,123.8,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/NFLX?interval=1d&events=splits (2016-12-30),분할조정 종가 12.38 × 이후 분할계수 10,3
+Netflix,NFLX,2016Q4,2017-01-26,분기말 상장주식수,430411593,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/1065280/000162828017000496/,dei:EntityCommonStockSharesOutstanding 클래스 합,3
+Netflix,NFLX,2016Q4,2016-12-30,분기말 시가총액,53284955213,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/NFLX?interval=1d&events=splits (2016-12-30) ; https://www.sec.gov/Archives/edgar/data/1065280/000162828017000496/,종가 123.8 × 주식수 430411593,3
+Netflix,NFLX,2017Q1,2017-03-31,분기별 매출액,2636635000,USD,공시,https://www.sec.gov/Archives/edgar/data/1065280/000162828017003939/,,3
+Netflix,NFLX,2017Q1,2017-03-31,분기별 영업이익,256942000,USD,공시,https://www.sec.gov/Archives/edgar/data/1065280/000162828017003939/,,3
+Netflix,NFLX,2017Q1,2017-03-31,분기별 당기순이익(지배),178222000,USD,공시,https://www.sec.gov/Archives/edgar/data/1065280/000162828017003939/,,3
+Netflix,NFLX,2017Q1,2017-03-31,분기별 영업활동현금흐름,-343856000,USD,공시,https://www.sec.gov/Archives/edgar/data/1065280/000162828017003939/,,3
+Netflix,NFLX,2017Q1,2017-03-31,분기말 자산총계,14359096000,USD,공시,https://www.sec.gov/Archives/edgar/data/1065280/000162828017003939/,,3
+Netflix,NFLX,2017Q1,2017-03-31,분기말 부채총계,11385413000,USD,공시,https://www.sec.gov/Archives/edgar/data/1065280/000162828017003939/,,3
+Netflix,NFLX,2017Q1,2017-03-31,분기말 총자본(자기자본),2973683000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/1065280/000162828017003939/,"StockholdersEquity, MinorityInterest 태그 없음",3
+Netflix,NFLX,2017Q1,2017-03-31,분기말 지배지분 자본,2973683000,USD,공시,https://www.sec.gov/Archives/edgar/data/1065280/000162828017003939/,,3
+Netflix,NFLX,2017Q1,2017-03-31,분기말 종가,147.81,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/NFLX?interval=1d&events=splits (2017-03-31),분할조정 종가 14.781 × 이후 분할계수 10,3
+Netflix,NFLX,2017Q1,2017-03-31,분기말 상장주식수,430993429,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/1065280/000162828017003939/,dei:EntityCommonStockSharesOutstanding 클래스 합,3
+Netflix,NFLX,2017Q1,2017-03-31,분기말 시가총액,63705138740,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/NFLX?interval=1d&events=splits (2017-03-31) ; https://www.sec.gov/Archives/edgar/data/1065280/000162828017003939/,종가 147.81 × 주식수 430993429,3
+Netflix,NFLX,2017Q2,2017-06-30,분기별 매출액,2785464000,USD,공시,https://www.sec.gov/Archives/edgar/data/1065280/000106528017000046/,,3
+Netflix,NFLX,2017Q2,2017-06-30,분기별 영업이익,127807000,USD,공시,https://www.sec.gov/Archives/edgar/data/1065280/000106528017000046/,,3
+Netflix,NFLX,2017Q2,2017-06-30,분기별 당기순이익(지배),65600000,USD,공시,https://www.sec.gov/Archives/edgar/data/1065280/000106528017000046/,,3
+Netflix,NFLX,2017Q2,2017-06-30,분기별 영업활동현금흐름,-534528000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/1065280/000106528017000046/ ; https://www.sec.gov/Archives/edgar/data/1065280/000162828017003939/,누적 -878384000 − 직전누적 -343856000 (시작 2017-01-01),3
+Netflix,NFLX,2017Q2,2017-06-30,분기말 자산총계,16517223000,USD,공시,https://www.sec.gov/Archives/edgar/data/1065280/000106528017000046/,,3
+Netflix,NFLX,2017Q2,2017-06-30,분기말 부채총계,13404723000,USD,공시,https://www.sec.gov/Archives/edgar/data/1065280/000106528017000046/,,3
+Netflix,NFLX,2017Q2,2017-06-30,분기말 총자본(자기자본),3112500000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/1065280/000106528017000046/,"StockholdersEquity, MinorityInterest 태그 없음",3
+Netflix,NFLX,2017Q2,2017-06-30,분기말 지배지분 자본,3112500000,USD,공시,https://www.sec.gov/Archives/edgar/data/1065280/000106528017000046/,,3
+Netflix,NFLX,2017Q2,2017-06-30,분기말 종가,149.41,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/NFLX?interval=1d&events=splits (2017-06-30),분할조정 종가 14.941 × 이후 분할계수 10,3
+Netflix,NFLX,2017Q2,2017-06-30,분기말 상장주식수,431749744,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/1065280/000106528017000046/,dei:EntityCommonStockSharesOutstanding 클래스 합,3
+Netflix,NFLX,2017Q2,2017-06-30,분기말 시가총액,64507729251,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/NFLX?interval=1d&events=splits (2017-06-30) ; https://www.sec.gov/Archives/edgar/data/1065280/000106528017000046/,종가 149.41 × 주식수 431749744,3
+Netflix,NFLX,2017Q3,2017-09-30,분기별 매출액,2984859000,USD,공시,https://www.sec.gov/Archives/edgar/data/1065280/000106528017000180/,,3
+Netflix,NFLX,2017Q3,2017-09-30,분기별 영업이익,208627000,USD,공시,https://www.sec.gov/Archives/edgar/data/1065280/000106528017000180/,,3
+Netflix,NFLX,2017Q3,2017-09-30,분기별 당기순이익(지배),129590000,USD,공시,https://www.sec.gov/Archives/edgar/data/1065280/000106528017000180/,,3
+Netflix,NFLX,2017Q3,2017-09-30,분기별 영업활동현금흐름,-419607000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/1065280/000106528017000180/ ; https://www.sec.gov/Archives/edgar/data/1065280/000106528017000046/,누적 -1297991000 − 직전누적 -878384000 (시작 2017-01-01),3
+Netflix,NFLX,2017Q3,2017-09-30,분기말 자산총계,16951540000,USD,공시,https://www.sec.gov/Archives/edgar/data/1065280/000106528017000180/,,3
+Netflix,NFLX,2017Q3,2017-09-30,분기말 부채총계,13624179000,USD,공시,https://www.sec.gov/Archives/edgar/data/1065280/000106528017000180/,,3
+Netflix,NFLX,2017Q3,2017-09-30,분기말 총자본(자기자본),3327361000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/1065280/000106528017000180/,"StockholdersEquity, MinorityInterest 태그 없음",3
+Netflix,NFLX,2017Q3,2017-09-30,분기말 지배지분 자본,3327361000,USD,공시,https://www.sec.gov/Archives/edgar/data/1065280/000106528017000180/,,3
+Netflix,NFLX,2017Q3,2017-09-29,분기말 종가,181.35,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/NFLX?interval=1d&events=splits (2017-09-29),분할조정 종가 18.135 × 이후 분할계수 10,3
+Netflix,NFLX,2017Q3,2017-09-30,분기말 상장주식수,432731130,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/1065280/000106528017000180/,dei:EntityCommonStockSharesOutstanding 클래스 합,3
+Netflix,NFLX,2017Q3,2017-09-29,분기말 시가총액,78475790426,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/NFLX?interval=1d&events=splits (2017-09-29) ; https://www.sec.gov/Archives/edgar/data/1065280/000106528017000180/,종가 181.35 × 주식수 432731130,3
+Netflix,NFLX,2017Q4,2017-12-31,분기별 매출액,3285755000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/1065280/000162828018000941/ ; https://www.sec.gov/Archives/edgar/data/1065280/000106528017000180/,연간 11692713000 − 9개월누적 8406958000 (Revenues),3
+Netflix,NFLX,2017Q4,2017-12-31,분기별 영업이익,245303000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/1065280/000162828018000941/ ; https://www.sec.gov/Archives/edgar/data/1065280/000106528017000180/,연간 838679000 − 9개월누적 593376000 (OperatingIncomeLoss),3
+Netflix,NFLX,2017Q4,2017-12-31,분기별 당기순이익(지배),185517000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/1065280/000162828018000941/ ; https://www.sec.gov/Archives/edgar/data/1065280/000106528017000180/,연간 558929000 − 9개월누적 373412000 (NetIncomeLoss),3
+Netflix,NFLX,2017Q4,2017-12-31,분기별 영업활동현금흐름,-487957000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/1065280/000162828018000941/ ; https://www.sec.gov/Archives/edgar/data/1065280/000106528017000180/,누적 -1785948000 − 직전누적 -1297991000 (시작 2017-01-01),3
+Netflix,NFLX,2017Q4,2017-12-31,분기말 자산총계,19012742000,USD,공시,https://www.sec.gov/Archives/edgar/data/1065280/000162828018000941/,,3
+Netflix,NFLX,2017Q4,2017-12-31,분기말 부채총계,15430786000,USD,공시,https://www.sec.gov/Archives/edgar/data/1065280/000162828018000941/,,3
+Netflix,NFLX,2017Q4,2017-12-31,분기말 총자본(자기자본),3581956000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/1065280/000162828018000941/,"StockholdersEquity, MinorityInterest 태그 없음",3
+Netflix,NFLX,2017Q4,2017-12-31,분기말 지배지분 자본,3581956000,USD,공시,https://www.sec.gov/Archives/edgar/data/1065280/000162828018000941/,,3
+Netflix,NFLX,2017Q4,2017-12-29,분기말 종가,191.96,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/NFLX?interval=1d&events=splits (2017-12-29),분할조정 종가 19.196 × 이후 분할계수 10,3
+Netflix,NFLX,2017Q4,2018-01-25,분기말 상장주식수,433948461,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/1065280/000162828018000941/,dei:EntityCommonStockSharesOutstanding 클래스 합,3
+Netflix,NFLX,2017Q4,2017-12-29,분기말 시가총액,83300746574,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/NFLX?interval=1d&events=splits (2017-12-29) ; https://www.sec.gov/Archives/edgar/data/1065280/000162828018000941/,종가 191.96 × 주식수 433948461,3
+Netflix,NFLX,2018Q1,2018-03-31,분기별 매출액,3700856000,USD,공시,https://www.sec.gov/Archives/edgar/data/1065280/000106528018000205/,,3
+Netflix,NFLX,2018Q1,2018-03-31,분기별 영업이익,446578000,USD,공시,https://www.sec.gov/Archives/edgar/data/1065280/000106528018000205/,,3
+Netflix,NFLX,2018Q1,2018-03-31,분기별 당기순이익(지배),290124000,USD,공시,https://www.sec.gov/Archives/edgar/data/1065280/000106528018000205/,,3
+Netflix,NFLX,2018Q1,2018-03-31,분기별 영업활동현금흐름,-236757000,USD,공시,https://www.sec.gov/Archives/edgar/data/1065280/000106528018000205/,,3
+Netflix,NFLX,2018Q1,2018-03-31,분기말 자산총계,20152797000,USD,공시,https://www.sec.gov/Archives/edgar/data/1065280/000106528018000205/,,3
+Netflix,NFLX,2018Q1,2018-03-31,분기말 부채총계,16132067000,USD,공시,https://www.sec.gov/Archives/edgar/data/1065280/000106528018000205/,,3
+Netflix,NFLX,2018Q1,2018-03-31,분기말 총자본(자기자본),4020730000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/1065280/000106528018000205/,"StockholdersEquity, MinorityInterest 태그 없음",3
+Netflix,NFLX,2018Q1,2018-03-31,분기말 지배지분 자본,4020730000,USD,공시,https://www.sec.gov/Archives/edgar/data/1065280/000106528018000205/,,3
+Netflix,NFLX,2018Q1,2018-03-29,분기말 종가,295.35,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/NFLX?interval=1d&events=splits (2018-03-29),분할조정 종가 29.535 × 이후 분할계수 10,3
+Netflix,NFLX,2018Q1,2018-03-31,분기말 상장주식수,434657303,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/1065280/000106528018000205/,dei:EntityCommonStockSharesOutstanding 클래스 합,3
+Netflix,NFLX,2018Q1,2018-03-29,분기말 시가총액,128376034441,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/NFLX?interval=1d&events=splits (2018-03-29) ; https://www.sec.gov/Archives/edgar/data/1065280/000106528018000205/,종가 295.35 × 주식수 434657303,3
+Netflix,NFLX,2018Q2,2018-06-30,분기별 매출액,3907270000,USD,공시,https://www.sec.gov/Archives/edgar/data/1065280/000106528018000360/,,3
+Netflix,NFLX,2018Q2,2018-06-30,분기별 영업이익,462213000,USD,공시,https://www.sec.gov/Archives/edgar/data/1065280/000106528018000360/,,3
+Netflix,NFLX,2018Q2,2018-06-30,분기별 당기순이익(지배),384349000,USD,공시,https://www.sec.gov/Archives/edgar/data/1065280/000106528018000360/,,3
+Netflix,NFLX,2018Q2,2018-06-30,분기별 영업활동현금흐름,-518239000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/1065280/000106528018000360/ ; https://www.sec.gov/Archives/edgar/data/1065280/000106528018000205/,누적 -754996000 − 직전누적 -236757000 (시작 2018-01-01),3
+Netflix,NFLX,2018Q2,2018-06-30,분기말 자산총계,22663537000,USD,공시,https://www.sec.gov/Archives/edgar/data/1065280/000106528018000360/,,3
+Netflix,NFLX,2018Q2,2018-06-30,분기말 부채총계,18166937000,USD,공시,https://www.sec.gov/Archives/edgar/data/1065280/000106528018000360/,,3
+Netflix,NFLX,2018Q2,2018-06-30,분기말 총자본(자기자본),4496600000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/1065280/000106528018000360/,"StockholdersEquity, MinorityInterest 태그 없음",3
+Netflix,NFLX,2018Q2,2018-06-30,분기말 지배지분 자본,4496600000,USD,공시,https://www.sec.gov/Archives/edgar/data/1065280/000106528018000360/,,3
+Netflix,NFLX,2018Q2,2018-06-29,분기말 종가,391.43,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/NFLX?interval=1d&events=splits (2018-06-29),분할조정 종가 39.143 × 이후 분할계수 10,3
+Netflix,NFLX,2018Q2,2018-06-30,분기말 상장주식수,435457505,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/1065280/000106528018000360/,dei:EntityCommonStockSharesOutstanding 클래스 합,3
+Netflix,NFLX,2018Q2,2018-06-29,분기말 시가총액,170451131182,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/NFLX?interval=1d&events=splits (2018-06-29) ; https://www.sec.gov/Archives/edgar/data/1065280/000106528018000360/,종가 391.43 × 주식수 435457505,3
+Netflix,NFLX,2018Q3,2018-09-30,분기별 매출액,3999374000,USD,공시,https://www.sec.gov/Archives/edgar/data/1065280/000106528018000538/,,3
+Netflix,NFLX,2018Q3,2018-09-30,분기별 영업이익,480668000,USD,공시,https://www.sec.gov/Archives/edgar/data/1065280/000106528018000538/,,3
+Netflix,NFLX,2018Q3,2018-09-30,분기별 당기순이익(지배),402835000,USD,공시,https://www.sec.gov/Archives/edgar/data/1065280/000106528018000538/,,3
+Netflix,NFLX,2018Q3,2018-09-30,분기별 영업활동현금흐름,-690411000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/1065280/000106528018000538/ ; https://www.sec.gov/Archives/edgar/data/1065280/000106528018000360/,누적 -1445407000 − 직전누적 -754996000 (시작 2018-01-01),3
+Netflix,NFLX,2018Q3,2018-09-30,분기말 자산총계,23366229000,USD,공시,https://www.sec.gov/Archives/edgar/data/1065280/000106528018000538/,,3
+Netflix,NFLX,2018Q3,2018-09-30,분기말 부채총계,18356576000,USD,공시,https://www.sec.gov/Archives/edgar/data/1065280/000106528018000538/,,3
+Netflix,NFLX,2018Q3,2018-09-30,분기말 총자본(자기자본),5009653000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/1065280/000106528018000538/,"StockholdersEquity, MinorityInterest 태그 없음",3
+Netflix,NFLX,2018Q3,2018-09-30,분기말 지배지분 자본,5009653000,USD,공시,https://www.sec.gov/Archives/edgar/data/1065280/000106528018000538/,,3
+Netflix,NFLX,2018Q3,2018-09-28,분기말 종가,374.13,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/NFLX?interval=1d&events=splits (2018-09-28),분할조정 종가 37.413 × 이후 분할계수 10,3
+Netflix,NFLX,2018Q3,2018-09-30,분기말 상장주식수,436084995,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/1065280/000106528018000538/,dei:EntityCommonStockSharesOutstanding 클래스 합,3
+Netflix,NFLX,2018Q3,2018-09-28,분기말 시가총액,163152479179,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/NFLX?interval=1d&events=splits (2018-09-28) ; https://www.sec.gov/Archives/edgar/data/1065280/000106528018000538/,종가 374.13 × 주식수 436084995,3
+Netflix,NFLX,2018Q4,2018-12-31,분기별 매출액,4186841000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/1065280/000106528019000043/ ; https://www.sec.gov/Archives/edgar/data/1065280/000106528018000538/,연간 15794341000 − 9개월누적 11607500000 (Revenues),3
+Netflix,NFLX,2018Q4,2018-12-31,분기별 영업이익,215767000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/1065280/000106528019000043/ ; https://www.sec.gov/Archives/edgar/data/1065280/000106528018000538/,연간 1605226000 − 9개월누적 1389459000 (OperatingIncomeLoss),3
+Netflix,NFLX,2018Q4,2018-12-31,분기별 당기순이익(지배),133934000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/1065280/000106528019000043/ ; https://www.sec.gov/Archives/edgar/data/1065280/000106528018000538/,연간 1211242000 − 9개월누적 1077308000 (NetIncomeLoss),3
+Netflix,NFLX,2018Q4,2018-12-31,분기별 영업활동현금흐름,-1235072000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/1065280/000106528019000043/ ; https://www.sec.gov/Archives/edgar/data/1065280/000106528018000538/,누적 -2680479000 − 직전누적 -1445407000 (시작 2018-01-01),3
+Netflix,NFLX,2018Q4,2018-12-31,분기말 자산총계,25974400000,USD,공시,https://www.sec.gov/Archives/edgar/data/1065280/000106528019000043/,,3
+Netflix,NFLX,2018Q4,2018-12-31,분기말 부채총계,20735635000,USD,공시,https://www.sec.gov/Archives/edgar/data/1065280/000106528019000043/,,3
+Netflix,NFLX,2018Q4,2018-12-31,분기말 총자본(자기자본),5238765000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/1065280/000106528019000043/,"StockholdersEquity, MinorityInterest 태그 없음",3
+Netflix,NFLX,2018Q4,2018-12-31,분기말 지배지분 자본,5238765000,USD,공시,https://www.sec.gov/Archives/edgar/data/1065280/000106528019000043/,,3
+Netflix,NFLX,2018Q4,2018-12-31,분기말 종가,267.66,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/NFLX?interval=1d&events=splits (2018-12-31),분할조정 종가 26.766 × 이후 분할계수 10,3
+Netflix,NFLX,2018Q4,2018-12-31,분기말 상장주식수,436598597,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/1065280/000106528019000043/,dei:EntityCommonStockSharesOutstanding 클래스 합,3
+Netflix,NFLX,2018Q4,2018-12-31,분기말 시가총액,116859980473,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/NFLX?interval=1d&events=splits (2018-12-31) ; https://www.sec.gov/Archives/edgar/data/1065280/000106528019000043/,종가 267.66 × 주식수 436598597,3
+Netflix,NFLX,2019Q1,2019-03-31,분기별 매출액,4520992000,USD,공시,https://www.sec.gov/Archives/edgar/data/1065280/000106528019000157/,,3
+Netflix,NFLX,2019Q1,2019-03-31,분기별 영업이익,459084000,USD,공시,https://www.sec.gov/Archives/edgar/data/1065280/000106528019000157/,,3
+Netflix,NFLX,2019Q1,2019-03-31,분기별 당기순이익(지배),344052000,USD,공시,https://www.sec.gov/Archives/edgar/data/1065280/000106528019000157/,,3
+Netflix,NFLX,2019Q1,2019-03-31,분기별 영업활동현금흐름,-379799000,USD,공시,https://www.sec.gov/Archives/edgar/data/1065280/000106528019000157/,,3
+Netflix,NFLX,2019Q1,2019-03-31,분기말 자산총계,27218632000,USD,공시,https://www.sec.gov/Archives/edgar/data/1065280/000106528019000157/,,3
+Netflix,NFLX,2019Q1,2019-03-31,분기말 부채총계,21515574000,USD,공시,https://www.sec.gov/Archives/edgar/data/1065280/000106528019000157/,,3
+Netflix,NFLX,2019Q1,2019-03-31,분기말 총자본(자기자본),5703058000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/1065280/000106528019000157/,"StockholdersEquity, MinorityInterest 태그 없음",3
+Netflix,NFLX,2019Q1,2019-03-31,분기말 지배지분 자본,5703058000,USD,공시,https://www.sec.gov/Archives/edgar/data/1065280/000106528019000157/,,3
+Netflix,NFLX,2019Q1,2019-03-29,분기말 종가,356.56,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/NFLX?interval=1d&events=splits (2019-03-29),분할조정 종가 35.656 × 이후 분할계수 10,3
+Netflix,NFLX,2019Q1,2019-03-31,분기말 상장주식수,437191891,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/1065280/000106528019000157/,dei:EntityCommonStockSharesOutstanding 클래스 합,3
+Netflix,NFLX,2019Q1,2019-03-29,분기말 시가총액,155885140655,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/NFLX?interval=1d&events=splits (2019-03-29) ; https://www.sec.gov/Archives/edgar/data/1065280/000106528019000157/,종가 356.56 × 주식수 437191891,3
+Netflix,NFLX,2019Q2,2019-06-30,분기별 매출액,4923116000,USD,공시,https://www.sec.gov/Archives/edgar/data/1065280/000106528019000260/,,3
+Netflix,NFLX,2019Q2,2019-06-30,분기별 영업이익,706419000,USD,공시,https://www.sec.gov/Archives/edgar/data/1065280/000106528019000260/,,3
+Netflix,NFLX,2019Q2,2019-06-30,분기별 당기순이익(지배),270650000,USD,공시,https://www.sec.gov/Archives/edgar/data/1065280/000106528019000260/,,3
+Netflix,NFLX,2019Q2,2019-06-30,분기별 영업활동현금흐름,-543754000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/1065280/000106528019000260/ ; https://www.sec.gov/Archives/edgar/data/1065280/000106528019000157/,누적 -923553000 − 직전누적 -379799000 (시작 2019-01-01),3
+Netflix,NFLX,2019Q2,2019-06-30,분기말 자산총계,30171339000,USD,공시,https://www.sec.gov/Archives/edgar/data/1065280/000106528019000260/,,3
+Netflix,NFLX,2019Q2,2019-06-30,분기말 부채총계,24065791000,USD,공시,https://www.sec.gov/Archives/edgar/data/1065280/000106528019000260/,,3
+Netflix,NFLX,2019Q2,2019-06-30,분기말 총자본(자기자본),6105548000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/1065280/000106528019000260/,"StockholdersEquity, MinorityInterest 태그 없음",3
+Netflix,NFLX,2019Q2,2019-06-30,분기말 지배지분 자본,6105548000,USD,공시,https://www.sec.gov/Archives/edgar/data/1065280/000106528019000260/,,3
+Netflix,NFLX,2019Q2,2019-06-28,분기말 종가,367.32,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/NFLX?interval=1d&events=splits (2019-06-28),분할조정 종가 36.732 × 이후 분할계수 10,3
+Netflix,NFLX,2019Q2,2019-06-30,분기말 상장주식수,437834882,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/1065280/000106528019000260/,dei:EntityCommonStockSharesOutstanding 클래스 합,3
+Netflix,NFLX,2019Q2,2019-06-28,분기말 시가총액,160825508856,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/NFLX?interval=1d&events=splits (2019-06-28) ; https://www.sec.gov/Archives/edgar/data/1065280/000106528019000260/,종가 367.32 × 주식수 437834882,3
+Netflix,NFLX,2019Q3,2019-09-30,분기별 매출액,5244905000,USD,공시,https://www.sec.gov/Archives/edgar/data/1065280/000106528019000368/,,3
+Netflix,NFLX,2019Q3,2019-09-30,분기별 영업이익,980239000,USD,공시,https://www.sec.gov/Archives/edgar/data/1065280/000106528019000368/,,3
+Netflix,NFLX,2019Q3,2019-09-30,분기별 당기순이익(지배),665244000,USD,공시,https://www.sec.gov/Archives/edgar/data/1065280/000106528019000368/,,3
+Netflix,NFLX,2019Q3,2019-09-30,분기별 영업활동현금흐름,-501794000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/1065280/000106528019000368/ ; https://www.sec.gov/Archives/edgar/data/1065280/000106528019000260/,누적 -1425347000 − 직전누적 -923553000 (시작 2019-01-01),3
+Netflix,NFLX,2019Q3,2019-09-30,분기말 자산총계,30941711000,USD,공시,https://www.sec.gov/Archives/edgar/data/1065280/000106528019000368/,,3
+Netflix,NFLX,2019Q3,2019-09-30,분기말 부채총계,24080206000,USD,공시,https://www.sec.gov/Archives/edgar/data/1065280/000106528019000368/,,3
+Netflix,NFLX,2019Q3,2019-09-30,분기말 총자본(자기자본),6861505000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/1065280/000106528019000368/,"StockholdersEquity, MinorityInterest 태그 없음",3
+Netflix,NFLX,2019Q3,2019-09-30,분기말 지배지분 자본,6861505000,USD,공시,https://www.sec.gov/Archives/edgar/data/1065280/000106528019000368/,,3
+Netflix,NFLX,2019Q3,2019-09-30,분기말 종가,267.62,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/NFLX?interval=1d&events=splits (2019-09-30),분할조정 종가 26.762 × 이후 분할계수 10,3
+Netflix,NFLX,2019Q3,2019-09-30,분기말 상장주식수,438251289,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/1065280/000106528019000368/,dei:EntityCommonStockSharesOutstanding 클래스 합,3
+Netflix,NFLX,2019Q3,2019-09-30,분기말 시가총액,117284809962,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/NFLX?interval=1d&events=splits (2019-09-30) ; https://www.sec.gov/Archives/edgar/data/1065280/000106528019000368/,종가 267.62 × 주식수 438251289,3
+Netflix,NFLX,2019Q4,2019-12-31,분기별 매출액,5467434000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/1065280/000106528020000040/ ; https://www.sec.gov/Archives/edgar/data/1065280/000106528019000368/,연간 20156447000 − 9개월누적 14689013000 (Revenues),3
+Netflix,NFLX,2019Q4,2019-12-31,분기별 영업이익,458512000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/1065280/000106528020000040/ ; https://www.sec.gov/Archives/edgar/data/1065280/000106528019000368/,연간 2604254000 − 9개월누적 2145742000 (OperatingIncomeLoss),3
+Netflix,NFLX,2019Q4,2019-12-31,분기별 당기순이익(지배),586970000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/1065280/000106528020000040/ ; https://www.sec.gov/Archives/edgar/data/1065280/000106528019000368/,연간 1866916000 − 9개월누적 1279946000 (NetIncomeLoss),3
+Netflix,NFLX,2019Q4,2019-12-31,분기별 영업활동현금흐름,-1461975000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/1065280/000106528020000040/ ; https://www.sec.gov/Archives/edgar/data/1065280/000106528019000368/,누적 -2887322000 − 직전누적 -1425347000 (시작 2019-01-01),3
+Netflix,NFLX,2019Q4,2019-12-31,분기말 자산총계,33975712000,USD,공시,https://www.sec.gov/Archives/edgar/data/1065280/000106528020000040/,,3
+Netflix,NFLX,2019Q4,2019-12-31,분기말 부채총계,26393555000,USD,공시,https://www.sec.gov/Archives/edgar/data/1065280/000106528020000040/,,3
+Netflix,NFLX,2019Q4,2019-12-31,분기말 총자본(자기자본),7582157000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/1065280/000106528020000040/,"StockholdersEquity, MinorityInterest 태그 없음",3
+Netflix,NFLX,2019Q4,2019-12-31,분기말 지배지분 자본,7582157000,USD,공시,https://www.sec.gov/Archives/edgar/data/1065280/000106528020000040/,,3
+Netflix,NFLX,2019Q4,2019-12-31,분기말 종가,323.57,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/NFLX?interval=1d&events=splits (2019-12-31),분할조정 종가 32.357 × 이후 분할계수 10,3
+Netflix,NFLX,2019Q4,2019-12-31,분기말 상장주식수,438806649,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/1065280/000106528020000040/,dei:EntityCommonStockSharesOutstanding 클래스 합,3
+Netflix,NFLX,2019Q4,2019-12-31,분기말 시가총액,141984667417,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/NFLX?interval=1d&events=splits (2019-12-31) ; https://www.sec.gov/Archives/edgar/data/1065280/000106528020000040/,종가 323.57 × 주식수 438806649,3
+Netflix,NFLX,2020Q1,2020-03-31,분기별 매출액,5767691000,USD,공시,https://www.sec.gov/Archives/edgar/data/1065280/000106528020000155/,,3
+Netflix,NFLX,2020Q1,2020-03-31,분기별 영업이익,958256000,USD,공시,https://www.sec.gov/Archives/edgar/data/1065280/000106528020000155/,,3
+Netflix,NFLX,2020Q1,2020-03-31,분기별 당기순이익(지배),709067000,USD,공시,https://www.sec.gov/Archives/edgar/data/1065280/000106528020000155/,,3
+Netflix,NFLX,2020Q1,2020-03-31,분기별 영업활동현금흐름,259912000,USD,공시,https://www.sec.gov/Archives/edgar/data/1065280/000106528020000155/,,3
+Netflix,NFLX,2020Q1,2020-03-31,분기말 자산총계,35059910000,USD,공시,https://www.sec.gov/Archives/edgar/data/1065280/000106528020000155/,,3
+Netflix,NFLX,2020Q1,2020-03-31,분기말 부채총계,26650616000,USD,공시,https://www.sec.gov/Archives/edgar/data/1065280/000106528020000155/,,3
+Netflix,NFLX,2020Q1,2020-03-31,분기말 총자본(자기자본),8409294000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/1065280/000106528020000155/,"StockholdersEquity, MinorityInterest 태그 없음",3
+Netflix,NFLX,2020Q1,2020-03-31,분기말 지배지분 자본,8409294000,USD,공시,https://www.sec.gov/Archives/edgar/data/1065280/000106528020000155/,,3
+Netflix,NFLX,2020Q1,2020-03-31,분기말 종가,375.5,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/NFLX?interval=1d&events=splits (2020-03-31),분할조정 종가 37.55 × 이후 분할계수 10,3
+Netflix,NFLX,2020Q1,2020-03-31,분기말 상장주식수,439780618,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/1065280/000106528020000155/,dei:EntityCommonStockSharesOutstanding 클래스 합,3
+Netflix,NFLX,2020Q1,2020-03-31,분기말 시가총액,165137622059,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/NFLX?interval=1d&events=splits (2020-03-31) ; https://www.sec.gov/Archives/edgar/data/1065280/000106528020000155/,종가 375.5 × 주식수 439780618,3
+Netflix,NFLX,2020Q2,2020-06-30,분기별 매출액,6148286000,USD,공시,https://www.sec.gov/Archives/edgar/data/1065280/000106528020000309/,,3
+Netflix,NFLX,2020Q2,2020-06-30,분기별 영업이익,1357928000,USD,공시,https://www.sec.gov/Archives/edgar/data/1065280/000106528020000309/,,3
+Netflix,NFLX,2020Q2,2020-06-30,분기별 당기순이익(지배),720196000,USD,공시,https://www.sec.gov/Archives/edgar/data/1065280/000106528020000309/,,3
+Netflix,NFLX,2020Q2,2020-06-30,분기별 영업활동현금흐름,1041076000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/1065280/000106528020000309/ ; https://www.sec.gov/Archives/edgar/data/1065280/000106528020000155/,누적 1300988000 − 직전누적 259912000 (시작 2020-01-01),3
+Netflix,NFLX,2020Q2,2020-06-30,분기말 자산총계,37175281000,USD,공시,https://www.sec.gov/Archives/edgar/data/1065280/000106528020000309/,,3
+Netflix,NFLX,2020Q2,2020-06-30,분기말 부채총계,27840528000,USD,공시,https://www.sec.gov/Archives/edgar/data/1065280/000106528020000309/,,3
+Netflix,NFLX,2020Q2,2020-06-30,분기말 총자본(자기자본),9334753000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/1065280/000106528020000309/,"StockholdersEquity, MinorityInterest 태그 없음",3
+Netflix,NFLX,2020Q2,2020-06-30,분기말 지배지분 자본,9334753000,USD,공시,https://www.sec.gov/Archives/edgar/data/1065280/000106528020000309/,,3
+Netflix,NFLX,2020Q2,2020-06-30,분기말 종가,455.04,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/NFLX?interval=1d&events=splits (2020-06-30),분할조정 종가 45.504 × 이후 분할계수 10,3
+Netflix,NFLX,2020Q2,2020-06-30,분기말 상장주식수,441015443,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/1065280/000106528020000309/,dei:EntityCommonStockSharesOutstanding 클래스 합,3
+Netflix,NFLX,2020Q2,2020-06-30,분기말 시가총액,200679667183,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/NFLX?interval=1d&events=splits (2020-06-30) ; https://www.sec.gov/Archives/edgar/data/1065280/000106528020000309/,종가 455.04 × 주식수 441015443,3
+Netflix,NFLX,2020Q3,2020-09-30,분기별 매출액,6435637000,USD,공시,https://www.sec.gov/Archives/edgar/data/1065280/000106528020000451/,,3
+Netflix,NFLX,2020Q3,2020-09-30,분기별 영업이익,1314863000,USD,공시,https://www.sec.gov/Archives/edgar/data/1065280/000106528020000451/,,3
+Netflix,NFLX,2020Q3,2020-09-30,분기별 당기순이익(지배),789976000,USD,공시,https://www.sec.gov/Archives/edgar/data/1065280/000106528020000451/,,3
+Netflix,NFLX,2020Q3,2020-09-30,분기별 영업활동현금흐름,1263761000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/1065280/000106528020000451/ ; https://www.sec.gov/Archives/edgar/data/1065280/000106528020000309/,누적 2564749000 − 직전누적 1300988000 (시작 2020-01-01),3
+Netflix,NFLX,2020Q3,2020-09-30,분기말 자산총계,38622543000,USD,공시,https://www.sec.gov/Archives/edgar/data/1065280/000106528020000451/,,3
+Netflix,NFLX,2020Q3,2020-09-30,분기말 부채총계,28289220000,USD,공시,https://www.sec.gov/Archives/edgar/data/1065280/000106528020000451/,,3
+Netflix,NFLX,2020Q3,2020-09-30,분기말 총자본(자기자본),10333323000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/1065280/000106528020000451/,"StockholdersEquity, MinorityInterest 태그 없음",3
+Netflix,NFLX,2020Q3,2020-09-30,분기말 지배지분 자본,10333323000,USD,공시,https://www.sec.gov/Archives/edgar/data/1065280/000106528020000451/,,3
+Netflix,NFLX,2020Q3,2020-09-30,분기말 종가,500.03,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/NFLX?interval=1d&events=splits (2020-09-30),분할조정 종가 50.003 × 이후 분할계수 10,3
+Netflix,NFLX,2020Q3,2020-09-30,분기말 상장주식수,441795008,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/1065280/000106528020000451/,dei:EntityCommonStockSharesOutstanding 클래스 합,3
+Netflix,NFLX,2020Q3,2020-09-30,분기말 시가총액,220910757850,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/NFLX?interval=1d&events=splits (2020-09-30) ; https://www.sec.gov/Archives/edgar/data/1065280/000106528020000451/,종가 500.03 × 주식수 441795008,3
+Netflix,NFLX,2020Q4,2020-12-31,분기별 매출액,6644442000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/1065280/000106528021000040/ ; https://www.sec.gov/Archives/edgar/data/1065280/000106528020000451/,연간 24996056000 − 9개월누적 18351614000 (Revenues),3
+Netflix,NFLX,2020Q4,2020-12-31,분기별 영업이익,954242000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/1065280/000106528021000040/ ; https://www.sec.gov/Archives/edgar/data/1065280/000106528020000451/,연간 4585289000 − 9개월누적 3631047000 (OperatingIncomeLoss),3
+Netflix,NFLX,2020Q4,2020-12-31,분기별 당기순이익(지배),542156000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/1065280/000106528021000040/ ; https://www.sec.gov/Archives/edgar/data/1065280/000106528020000451/,연간 2761395000 − 9개월누적 2219239000 (NetIncomeLoss),3
+Netflix,NFLX,2020Q4,2020-12-31,분기별 영업활동현금흐름,-137672000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/1065280/000106528021000040/ ; https://www.sec.gov/Archives/edgar/data/1065280/000106528020000451/,누적 2427077000 − 직전누적 2564749000 (시작 2020-01-01),3
+Netflix,NFLX,2020Q4,2020-12-31,분기말 자산총계,39280359000,USD,공시,https://www.sec.gov/Archives/edgar/data/1065280/000106528021000040/,,3
+Netflix,NFLX,2020Q4,2020-12-31,분기말 부채총계,28215119000,USD,공시,https://www.sec.gov/Archives/edgar/data/1065280/000106528021000040/,,3
+Netflix,NFLX,2020Q4,2020-12-31,분기말 총자본(자기자본),11065240000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/1065280/000106528021000040/,"StockholdersEquity, MinorityInterest 태그 없음",3
+Netflix,NFLX,2020Q4,2020-12-31,분기말 지배지분 자본,11065240000,USD,공시,https://www.sec.gov/Archives/edgar/data/1065280/000106528021000040/,,3
+Netflix,NFLX,2020Q4,2020-12-31,분기말 종가,540.73,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/NFLX?interval=1d&events=splits (2020-12-31),분할조정 종가 54.073 × 이후 분할계수 10,3
+Netflix,NFLX,2020Q4,2020-12-31,분기말 상장주식수,442895261,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/1065280/000106528021000040/,dei:EntityCommonStockSharesOutstanding 클래스 합,3
+Netflix,NFLX,2020Q4,2020-12-31,분기말 시가총액,239486754481,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/NFLX?interval=1d&events=splits (2020-12-31) ; https://www.sec.gov/Archives/edgar/data/1065280/000106528021000040/,종가 540.73 × 주식수 442895261,3
+Netflix,NFLX,2021Q1,2021-03-31,분기별 매출액,7163282000,USD,공시,https://www.sec.gov/Archives/edgar/data/1065280/000106528021000144/,,3
+Netflix,NFLX,2021Q1,2021-03-31,분기별 영업이익,1959856000,USD,공시,https://www.sec.gov/Archives/edgar/data/1065280/000106528021000144/,,3
+Netflix,NFLX,2021Q1,2021-03-31,분기별 당기순이익(지배),1706715000,USD,공시,https://www.sec.gov/Archives/edgar/data/1065280/000106528021000144/,,3
+Netflix,NFLX,2021Q1,2021-03-31,분기별 영업활동현금흐름,777266000,USD,공시,https://www.sec.gov/Archives/edgar/data/1065280/000106528021000144/,,3
+Netflix,NFLX,2021Q1,2021-03-31,분기말 자산총계,40123014000,USD,공시,https://www.sec.gov/Archives/edgar/data/1065280/000106528021000144/,,3
+Netflix,NFLX,2021Q1,2021-03-31,분기말 부채총계,27238934000,USD,공시,https://www.sec.gov/Archives/edgar/data/1065280/000106528021000144/,,3
+Netflix,NFLX,2021Q1,2021-03-31,분기말 총자본(자기자본),12884080000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/1065280/000106528021000144/,"StockholdersEquity, MinorityInterest 태그 없음",3
+Netflix,NFLX,2021Q1,2021-03-31,분기말 지배지분 자본,12884080000,USD,공시,https://www.sec.gov/Archives/edgar/data/1065280/000106528021000144/,,3
+Netflix,NFLX,2021Q1,2021-03-31,분기말 종가,521.66,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/NFLX?interval=1d&events=splits (2021-03-31),분할조정 종가 52.166 × 이후 분할계수 10,3
+Netflix,NFLX,2021Q1,2021-03-31,분기말 상장주식수,443383732,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/1065280/000106528021000144/,dei:EntityCommonStockSharesOutstanding 클래스 합,3
+Netflix,NFLX,2021Q1,2021-03-31,분기말 시가총액,231295557635,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/NFLX?interval=1d&events=splits (2021-03-31) ; https://www.sec.gov/Archives/edgar/data/1065280/000106528021000144/,종가 521.66 × 주식수 443383732,3
+Netflix,NFLX,2021Q2,2021-06-30,분기별 매출액,7341777000,USD,공시,https://www.sec.gov/Archives/edgar/data/1065280/000106528021000250/,,3
+Netflix,NFLX,2021Q2,2021-06-30,분기별 영업이익,1847630000,USD,공시,https://www.sec.gov/Archives/edgar/data/1065280/000106528021000250/,,3
+Netflix,NFLX,2021Q2,2021-06-30,분기별 당기순이익(지배),1353013000,USD,공시,https://www.sec.gov/Archives/edgar/data/1065280/000106528021000250/,,3
+Netflix,NFLX,2021Q2,2021-06-30,분기별 영업활동현금흐름,-63761000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/1065280/000106528021000250/ ; https://www.sec.gov/Archives/edgar/data/1065280/000106528021000144/,누적 713505000 − 직전누적 777266000 (시작 2021-01-01),3
+Netflix,NFLX,2021Q2,2021-06-30,분기말 자산총계,40970969000,USD,공시,https://www.sec.gov/Archives/edgar/data/1065280/000106528021000250/,,3
+Netflix,NFLX,2021Q2,2021-06-30,분기말 부채총계,27107098000,USD,공시,https://www.sec.gov/Archives/edgar/data/1065280/000106528021000250/,,3
+Netflix,NFLX,2021Q2,2021-06-30,분기말 총자본(자기자본),13863871000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/1065280/000106528021000250/,"StockholdersEquity, MinorityInterest 태그 없음",3
+Netflix,NFLX,2021Q2,2021-06-30,분기말 지배지분 자본,13863871000,USD,공시,https://www.sec.gov/Archives/edgar/data/1065280/000106528021000250/,,3
+Netflix,NFLX,2021Q2,2021-06-30,분기말 종가,528.21,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/NFLX?interval=1d&events=splits (2021-06-30),분할조정 종가 52.821 × 이후 분할계수 10,3
+Netflix,NFLX,2021Q2,2021-06-30,분기말 상장주식수,442595888,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/1065280/000106528021000250/,dei:EntityCommonStockSharesOutstanding 클래스 합,3
+Netflix,NFLX,2021Q2,2021-06-30,분기말 시가총액,233783574000,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/NFLX?interval=1d&events=splits (2021-06-30) ; https://www.sec.gov/Archives/edgar/data/1065280/000106528021000250/,종가 528.21 × 주식수 442595888,3
+Netflix,NFLX,2021Q3,2021-09-30,분기별 매출액,7483467000,USD,공시,https://www.sec.gov/Archives/edgar/data/1065280/000106528021000363/,,3
+Netflix,NFLX,2021Q3,2021-09-30,분기별 영업이익,1755253000,USD,공시,https://www.sec.gov/Archives/edgar/data/1065280/000106528021000363/,,3
+Netflix,NFLX,2021Q3,2021-09-30,분기별 당기순이익(지배),1449071000,USD,공시,https://www.sec.gov/Archives/edgar/data/1065280/000106528021000363/,,3
+Netflix,NFLX,2021Q3,2021-09-30,분기별 영업활동현금흐름,82379000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/1065280/000106528021000363/ ; https://www.sec.gov/Archives/edgar/data/1065280/000106528021000250/,누적 795884000 − 직전누적 713505000 (시작 2021-01-01),3
+Netflix,NFLX,2021Q3,2021-09-30,분기말 자산총계,42739857000,USD,공시,https://www.sec.gov/Archives/edgar/data/1065280/000106528021000363/,,3
+Netflix,NFLX,2021Q3,2021-09-30,분기말 부채총계,27425240000,USD,공시,https://www.sec.gov/Archives/edgar/data/1065280/000106528021000363/,,3
+Netflix,NFLX,2021Q3,2021-09-30,분기말 총자본(자기자본),15314617000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/1065280/000106528021000363/,"StockholdersEquity, MinorityInterest 태그 없음",3
+Netflix,NFLX,2021Q3,2021-09-30,분기말 지배지분 자본,15314617000,USD,공시,https://www.sec.gov/Archives/edgar/data/1065280/000106528021000363/,,3
+Netflix,NFLX,2021Q3,2021-09-30,분기말 종가,610.34,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/NFLX?interval=1d&events=splits (2021-09-30),분할조정 종가 61.034 × 이후 분할계수 10,3
+Netflix,NFLX,2021Q3,2021-09-30,분기말 상장주식수,442952194,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/1065280/000106528021000363/,dei:EntityCommonStockSharesOutstanding 클래스 합,3
+Netflix,NFLX,2021Q3,2021-09-30,분기말 시가총액,270351442086,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/NFLX?interval=1d&events=splits (2021-09-30) ; https://www.sec.gov/Archives/edgar/data/1065280/000106528021000363/,종가 610.34 × 주식수 442952194,3
+Netflix,NFLX,2021Q4,2021-12-31,분기별 매출액,7709318000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/1065280/000106528022000036/ ; https://www.sec.gov/Archives/edgar/data/1065280/000106528021000363/,연간 29697844000 − 9개월누적 21988526000 (Revenues),3
+Netflix,NFLX,2021Q4,2021-12-31,분기별 영업이익,631770000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/1065280/000106528022000036/ ; https://www.sec.gov/Archives/edgar/data/1065280/000106528021000363/,연간 6194509000 − 9개월누적 5562739000 (OperatingIncomeLoss),3
+Netflix,NFLX,2021Q4,2021-12-31,분기별 당기순이익(지배),607429000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/1065280/000106528022000036/ ; https://www.sec.gov/Archives/edgar/data/1065280/000106528021000363/,연간 5116228000 − 9개월누적 4508799000 (NetIncomeLoss),3
+Netflix,NFLX,2021Q4,2021-12-31,분기별 영업활동현금흐름,-403274000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/1065280/000106528022000036/ ; https://www.sec.gov/Archives/edgar/data/1065280/000106528021000363/,누적 392610000 − 직전누적 795884000 (시작 2021-01-01),3
+Netflix,NFLX,2021Q4,2021-12-31,분기말 자산총계,44584663000,USD,공시,https://www.sec.gov/Archives/edgar/data/1065280/000106528022000036/,,3
+Netflix,NFLX,2021Q4,2021-12-31,분기말 부채총계,28735415000,USD,공시,https://www.sec.gov/Archives/edgar/data/1065280/000106528022000036/,,3
+Netflix,NFLX,2021Q4,2021-12-31,분기말 총자본(자기자본),15849248000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/1065280/000106528022000036/,"StockholdersEquity, MinorityInterest 태그 없음",3
+Netflix,NFLX,2021Q4,2021-12-31,분기말 지배지분 자본,15849248000,USD,공시,https://www.sec.gov/Archives/edgar/data/1065280/000106528022000036/,,3
+Netflix,NFLX,2021Q4,2021-12-31,분기말 종가,602.44,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/NFLX?interval=1d&events=splits (2021-12-31),분할조정 종가 60.244 × 이후 분할계수 10,3
+Netflix,NFLX,2021Q4,2021-12-31,분기말 상장주식수,443963107,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/1065280/000106528022000036/,dei:EntityCommonStockSharesOutstanding 클래스 합,3
+Netflix,NFLX,2021Q4,2021-12-31,분기말 시가총액,267461134181,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/NFLX?interval=1d&events=splits (2021-12-31) ; https://www.sec.gov/Archives/edgar/data/1065280/000106528022000036/,종가 602.44 × 주식수 443963107,3
+Netflix,NFLX,2022Q1,2022-03-31,분기별 매출액,7867767000,USD,공시,https://www.sec.gov/Archives/edgar/data/1065280/000106528022000145/,,3
+Netflix,NFLX,2022Q1,2022-03-31,분기별 영업이익,1971626000,USD,공시,https://www.sec.gov/Archives/edgar/data/1065280/000106528022000145/,,3
+Netflix,NFLX,2022Q1,2022-03-31,분기별 당기순이익(지배),1597447000,USD,공시,https://www.sec.gov/Archives/edgar/data/1065280/000106528022000145/,,3
+Netflix,NFLX,2022Q1,2022-03-31,분기별 영업활동현금흐름,922839000,USD,공시,https://www.sec.gov/Archives/edgar/data/1065280/000106528022000145/,,3
+Netflix,NFLX,2022Q1,2022-03-31,분기말 자산총계,45330904000,USD,공시,https://www.sec.gov/Archives/edgar/data/1065280/000106528022000145/,,3
+Netflix,NFLX,2022Q1,2022-03-31,분기말 부채총계,27786865000,USD,공시,https://www.sec.gov/Archives/edgar/data/1065280/000106528022000145/,,3
+Netflix,NFLX,2022Q1,2022-03-31,분기말 총자본(자기자본),17544039000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/1065280/000106528022000145/,"StockholdersEquity, MinorityInterest 태그 없음",3
+Netflix,NFLX,2022Q1,2022-03-31,분기말 지배지분 자본,17544039000,USD,공시,https://www.sec.gov/Archives/edgar/data/1065280/000106528022000145/,,3
+Netflix,NFLX,2022Q1,2022-03-31,분기말 종가,374.59,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/NFLX?interval=1d&events=splits (2022-03-31),분할조정 종가 37.459 × 이후 분할계수 10,3
+Netflix,NFLX,2022Q1,2022-03-31,분기말 상장주식수,444273850,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/1065280/000106528022000145/,dei:EntityCommonStockSharesOutstanding 클래스 합,3
+Netflix,NFLX,2022Q1,2022-03-31,분기말 시가총액,166420541472,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/NFLX?interval=1d&events=splits (2022-03-31) ; https://www.sec.gov/Archives/edgar/data/1065280/000106528022000145/,종가 374.59 × 주식수 444273850,3
+Netflix,NFLX,2022Q2,2022-06-30,분기별 매출액,7970141000,USD,공시,https://www.sec.gov/Archives/edgar/data/1065280/000106528022000257/,,3
+Netflix,NFLX,2022Q2,2022-06-30,분기별 영업이익,1578283000,USD,공시,https://www.sec.gov/Archives/edgar/data/1065280/000106528022000257/,,3
+Netflix,NFLX,2022Q2,2022-06-30,분기별 당기순이익(지배),1440951000,USD,공시,https://www.sec.gov/Archives/edgar/data/1065280/000106528022000257/,,3
+Netflix,NFLX,2022Q2,2022-06-30,분기별 영업활동현금흐름,102750000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/1065280/000106528022000257/ ; https://www.sec.gov/Archives/edgar/data/1065280/000106528022000145/,누적 1025589000 − 직전누적 922839000 (시작 2022-01-01),3
+Netflix,NFLX,2022Q2,2022-06-30,분기말 자산총계,46350935000,USD,공시,https://www.sec.gov/Archives/edgar/data/1065280/000106528022000257/,,3
+Netflix,NFLX,2022Q2,2022-06-30,분기말 부채총계,27274961000,USD,공시,https://www.sec.gov/Archives/edgar/data/1065280/000106528022000257/,,3
+Netflix,NFLX,2022Q2,2022-06-30,분기말 총자본(자기자본),19075974000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/1065280/000106528022000257/,"StockholdersEquity, MinorityInterest 태그 없음",3
+Netflix,NFLX,2022Q2,2022-06-30,분기말 지배지분 자본,19075974000,USD,공시,https://www.sec.gov/Archives/edgar/data/1065280/000106528022000257/,,3
+Netflix,NFLX,2022Q2,2022-06-30,분기말 종가,174.87,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/NFLX?interval=1d&events=splits (2022-06-30),분할조정 종가 17.487 × 이후 분할계수 10,3
+Netflix,NFLX,2022Q2,2022-06-30,분기말 상장주식수,444705591,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/1065280/000106528022000257/,dei:EntityCommonStockSharesOutstanding 클래스 합,3
+Netflix,NFLX,2022Q2,2022-06-30,분기말 시가총액,77765666698,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/NFLX?interval=1d&events=splits (2022-06-30) ; https://www.sec.gov/Archives/edgar/data/1065280/000106528022000257/,종가 174.87 × 주식수 444705591,3
+Netflix,NFLX,2022Q3,2022-09-30,분기별 매출액,7925589000,USD,공시,https://www.sec.gov/Archives/edgar/data/1065280/000106528022000368/,,3
+Netflix,NFLX,2022Q3,2022-09-30,분기별 영업이익,1533018000,USD,공시,https://www.sec.gov/Archives/edgar/data/1065280/000106528022000368/,,3
+Netflix,NFLX,2022Q3,2022-09-30,분기별 당기순이익(지배),1398242000,USD,공시,https://www.sec.gov/Archives/edgar/data/1065280/000106528022000368/,,3
+Netflix,NFLX,2022Q3,2022-09-30,분기별 영업활동현금흐름,556810000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/1065280/000106528022000368/ ; https://www.sec.gov/Archives/edgar/data/1065280/000106528022000257/,누적 1582399000 − 직전누적 1025589000 (시작 2022-01-01),3
+Netflix,NFLX,2022Q3,2022-09-30,분기말 자산총계,47562187000,USD,공시,https://www.sec.gov/Archives/edgar/data/1065280/000106528022000368/,,3
+Netflix,NFLX,2022Q3,2022-09-30,분기말 부채총계,27034046000,USD,공시,https://www.sec.gov/Archives/edgar/data/1065280/000106528022000368/,,3
+Netflix,NFLX,2022Q3,2022-09-30,분기말 총자본(자기자본),20528141000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/1065280/000106528022000368/,"StockholdersEquity, MinorityInterest 태그 없음",3
+Netflix,NFLX,2022Q3,2022-09-30,분기말 지배지분 자본,20528141000,USD,공시,https://www.sec.gov/Archives/edgar/data/1065280/000106528022000368/,,3
+Netflix,NFLX,2022Q3,2022-09-30,분기말 종가,235.44,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/NFLX?interval=1d&events=splits (2022-09-30),분할조정 종가 23.544 × 이후 분할계수 10,3
+Netflix,NFLX,2022Q3,2022-09-30,분기말 상장주식수,445020494,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/1065280/000106528022000368/,dei:EntityCommonStockSharesOutstanding 클래스 합,3
+Netflix,NFLX,2022Q3,2022-09-30,분기말 시가총액,104775625107,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/NFLX?interval=1d&events=splits (2022-09-30) ; https://www.sec.gov/Archives/edgar/data/1065280/000106528022000368/,종가 235.44 × 주식수 445020494,3
+Netflix,NFLX,2022Q4,2022-12-31,분기별 매출액,7852053000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/1065280/000106528023000035/ ; https://www.sec.gov/Archives/edgar/data/1065280/000106528022000368/,연간 31615550000 − 9개월누적 23763497000 (Revenues),3
+Netflix,NFLX,2022Q4,2022-12-31,분기별 영업이익,549904000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/1065280/000106528023000035/ ; https://www.sec.gov/Archives/edgar/data/1065280/000106528022000368/,연간 5632831000 − 9개월누적 5082927000 (OperatingIncomeLoss),3
+Netflix,NFLX,2022Q4,2022-12-31,분기별 당기순이익(지배),55284000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/1065280/000106528023000035/ ; https://www.sec.gov/Archives/edgar/data/1065280/000106528022000368/,연간 4491924000 − 9개월누적 4436640000 (NetIncomeLoss),3
+Netflix,NFLX,2022Q4,2022-12-31,분기별 영업활동현금흐름,443858000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/1065280/000106528023000035/ ; https://www.sec.gov/Archives/edgar/data/1065280/000106528022000368/,누적 2026257000 − 직전누적 1582399000 (시작 2022-01-01),3
+Netflix,NFLX,2022Q4,2022-12-31,분기말 자산총계,48594768000,USD,공시,https://www.sec.gov/Archives/edgar/data/1065280/000106528023000035/,,3
+Netflix,NFLX,2022Q4,2022-12-31,분기말 부채총계,27817367000,USD,공시,https://www.sec.gov/Archives/edgar/data/1065280/000106528023000035/,,3
+Netflix,NFLX,2022Q4,2022-12-31,분기말 총자본(자기자본),20777401000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/1065280/000106528023000035/,"StockholdersEquity, MinorityInterest 태그 없음",3
+Netflix,NFLX,2022Q4,2022-12-31,분기말 지배지분 자본,20777401000,USD,공시,https://www.sec.gov/Archives/edgar/data/1065280/000106528023000035/,,3
+Netflix,NFLX,2022Q4,2022-12-30,분기말 종가,294.88,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/NFLX?interval=1d&events=splits (2022-12-30),분할조정 종가 29.488 × 이후 분할계수 10,3
+Netflix,NFLX,2022Q4,2022-12-31,분기말 상장주식수,445346776,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/1065280/000106528023000035/,dei:EntityCommonStockSharesOutstanding 클래스 합,3
+Netflix,NFLX,2022Q4,2022-12-30,분기말 시가총액,131323857307,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/NFLX?interval=1d&events=splits (2022-12-30) ; https://www.sec.gov/Archives/edgar/data/1065280/000106528023000035/,종가 294.88 × 주식수 445346776,3
+Netflix,NFLX,2023Q1,2023-03-31,분기별 매출액,8161503000,USD,공시,https://www.sec.gov/Archives/edgar/data/1065280/000106528023000120/,,3
+Netflix,NFLX,2023Q1,2023-03-31,분기별 영업이익,1714317000,USD,공시,https://www.sec.gov/Archives/edgar/data/1065280/000106528023000120/,,3
+Netflix,NFLX,2023Q1,2023-03-31,분기별 당기순이익(지배),1305120000,USD,공시,https://www.sec.gov/Archives/edgar/data/1065280/000106528023000120/,,3
+Netflix,NFLX,2023Q1,2023-03-31,분기별 영업활동현금흐름,2178740000,USD,공시,https://www.sec.gov/Archives/edgar/data/1065280/000106528023000120/,,3
+Netflix,NFLX,2023Q1,2023-03-31,분기말 자산총계,49490345000,USD,공시,https://www.sec.gov/Archives/edgar/data/1065280/000106528023000120/,,3
+Netflix,NFLX,2023Q1,2023-03-31,분기말 부채총계,27662149000,USD,공시,https://www.sec.gov/Archives/edgar/data/1065280/000106528023000120/,,3
+Netflix,NFLX,2023Q1,2023-03-31,분기말 총자본(자기자본),21828196000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/1065280/000106528023000120/,"StockholdersEquity, MinorityInterest 태그 없음",3
+Netflix,NFLX,2023Q1,2023-03-31,분기말 지배지분 자본,21828196000,USD,공시,https://www.sec.gov/Archives/edgar/data/1065280/000106528023000120/,,3
+Netflix,NFLX,2023Q1,2023-03-31,분기말 종가,345.48,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/NFLX?interval=1d&events=splits (2023-03-31),분할조정 종가 34.548 × 이후 분할계수 10,3
+Netflix,NFLX,2023Q1,2023-03-31,분기말 상장주식수,444536878,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/1065280/000106528023000120/,dei:EntityCommonStockSharesOutstanding 클래스 합,3
+Netflix,NFLX,2023Q1,2023-03-31,분기말 시가총액,153578600611,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/NFLX?interval=1d&events=splits (2023-03-31) ; https://www.sec.gov/Archives/edgar/data/1065280/000106528023000120/,종가 345.48 × 주식수 444536878,3
+Netflix,NFLX,2023Q2,2023-06-30,분기별 매출액,8187301000,USD,공시,https://www.sec.gov/Archives/edgar/data/1065280/000106528023000198/,,3
+Netflix,NFLX,2023Q2,2023-06-30,분기별 영업이익,1827183000,USD,공시,https://www.sec.gov/Archives/edgar/data/1065280/000106528023000198/,,3
+Netflix,NFLX,2023Q2,2023-06-30,분기별 당기순이익(지배),1487610000,USD,공시,https://www.sec.gov/Archives/edgar/data/1065280/000106528023000198/,,3
+Netflix,NFLX,2023Q2,2023-06-30,분기별 영업활동현금흐름,1440232000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/1065280/000106528023000198/ ; https://www.sec.gov/Archives/edgar/data/1065280/000106528023000120/,누적 3618972000 − 직전누적 2178740000 (시작 2023-01-01),3
+Netflix,NFLX,2023Q2,2023-06-30,분기말 자산총계,50817473000,USD,공시,https://www.sec.gov/Archives/edgar/data/1065280/000106528023000198/,,3
+Netflix,NFLX,2023Q2,2023-06-30,분기말 부채총계,27985258000,USD,공시,https://www.sec.gov/Archives/edgar/data/1065280/000106528023000198/,,3
+Netflix,NFLX,2023Q2,2023-06-30,분기말 총자본(자기자본),22832215000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/1065280/000106528023000198/,"StockholdersEquity, MinorityInterest 태그 없음",3
+Netflix,NFLX,2023Q2,2023-06-30,분기말 지배지분 자본,22832215000,USD,공시,https://www.sec.gov/Archives/edgar/data/1065280/000106528023000198/,,3
+Netflix,NFLX,2023Q2,2023-06-30,분기말 종가,440.49,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/NFLX?interval=1d&events=splits (2023-06-30),분할조정 종가 44.049 × 이후 분할계수 10,3
+Netflix,NFLX,2023Q2,2023-06-30,분기말 상장주식수,443146751,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/1065280/000106528023000198/,dei:EntityCommonStockSharesOutstanding 클래스 합,3
+Netflix,NFLX,2023Q2,2023-06-30,분기말 시가총액,195201712348,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/NFLX?interval=1d&events=splits (2023-06-30) ; https://www.sec.gov/Archives/edgar/data/1065280/000106528023000198/,종가 440.49 × 주식수 443146751,3
+Netflix,NFLX,2023Q3,2023-09-30,분기별 매출액,8541668000,USD,공시,https://www.sec.gov/Archives/edgar/data/1065280/000106528023000273/,,3
+Netflix,NFLX,2023Q3,2023-09-30,분기별 영업이익,1916394000,USD,공시,https://www.sec.gov/Archives/edgar/data/1065280/000106528023000273/,,3
+Netflix,NFLX,2023Q3,2023-09-30,분기별 당기순이익(지배),1677422000,USD,공시,https://www.sec.gov/Archives/edgar/data/1065280/000106528023000273/,,3
+Netflix,NFLX,2023Q3,2023-09-30,분기별 영업활동현금흐름,1992315000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/1065280/000106528023000273/ ; https://www.sec.gov/Archives/edgar/data/1065280/000106528023000198/,누적 5611287000 − 직전누적 3618972000 (시작 2023-01-01),3
+Netflix,NFLX,2023Q3,2023-09-30,분기말 자산총계,49501786000,USD,공시,https://www.sec.gov/Archives/edgar/data/1065280/000106528023000273/,,3
+Netflix,NFLX,2023Q3,2023-09-30,분기말 부채총계,27394159000,USD,공시,https://www.sec.gov/Archives/edgar/data/1065280/000106528023000273/,,3
+Netflix,NFLX,2023Q3,2023-09-30,분기말 총자본(자기자본),22107627000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/1065280/000106528023000273/,"StockholdersEquity, MinorityInterest 태그 없음",3
+Netflix,NFLX,2023Q3,2023-09-30,분기말 지배지분 자본,22107627000,USD,공시,https://www.sec.gov/Archives/edgar/data/1065280/000106528023000273/,,3
+Netflix,NFLX,2023Q3,2023-09-29,분기말 종가,377.6,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/NFLX?interval=1d&events=splits (2023-09-29),분할조정 종가 37.76 × 이후 분할계수 10,3
+Netflix,NFLX,2023Q3,2023-09-30,분기말 상장주식수,437679669,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/1065280/000106528023000273/,dei:EntityCommonStockSharesOutstanding 클래스 합,3
+Netflix,NFLX,2023Q3,2023-09-29,분기말 시가총액,165267843014,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/NFLX?interval=1d&events=splits (2023-09-29) ; https://www.sec.gov/Archives/edgar/data/1065280/000106528023000273/,종가 377.6 × 주식수 437679669,3
+Netflix,NFLX,2023Q4,2023-12-31,분기별 매출액,8832825000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/1065280/000106528024000030/ ; https://www.sec.gov/Archives/edgar/data/1065280/000106528023000273/,연간 33723297000 − 9개월누적 24890472000 (Revenues),3
+Netflix,NFLX,2023Q4,2023-12-31,분기별 영업이익,1496109000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/1065280/000106528024000030/ ; https://www.sec.gov/Archives/edgar/data/1065280/000106528023000273/,연간 6954003000 − 9개월누적 5457894000 (OperatingIncomeLoss),3
+Netflix,NFLX,2023Q4,2023-12-31,분기별 당기순이익(지배),937838000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/1065280/000106528024000030/ ; https://www.sec.gov/Archives/edgar/data/1065280/000106528023000273/,연간 5407990000 − 9개월누적 4470152000 (NetIncomeLoss),3
+Netflix,NFLX,2023Q4,2023-12-31,분기별 영업활동현금흐름,1663014000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/1065280/000106528024000030/ ; https://www.sec.gov/Archives/edgar/data/1065280/000106528023000273/,누적 7274301000 − 직전누적 5611287000 (시작 2023-01-01),3
+Netflix,NFLX,2023Q4,2023-12-31,분기말 자산총계,48731992000,USD,공시,https://www.sec.gov/Archives/edgar/data/1065280/000106528024000030/,,3
+Netflix,NFLX,2023Q4,2023-12-31,분기말 부채총계,28143679000,USD,공시,https://www.sec.gov/Archives/edgar/data/1065280/000106528024000030/,,3
+Netflix,NFLX,2023Q4,2023-12-31,분기말 총자본(자기자본),20588313000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/1065280/000106528024000030/,"StockholdersEquity, MinorityInterest 태그 없음",3
+Netflix,NFLX,2023Q4,2023-12-31,분기말 지배지분 자본,20588313000,USD,공시,https://www.sec.gov/Archives/edgar/data/1065280/000106528024000030/,,3
+Netflix,NFLX,2023Q4,2023-12-29,분기말 종가,486.88,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/NFLX?interval=1d&events=splits (2023-12-29),분할조정 종가 48.688 × 이후 분할계수 10,3
+Netflix,NFLX,2023Q4,2023-12-31,분기말 상장주식수,432759584,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/1065280/000106528024000030/,dei:EntityCommonStockSharesOutstanding 클래스 합,3
+Netflix,NFLX,2023Q4,2023-12-29,분기말 시가총액,210701986258,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/NFLX?interval=1d&events=splits (2023-12-29) ; https://www.sec.gov/Archives/edgar/data/1065280/000106528024000030/,종가 486.88 × 주식수 432759584,3
+Netflix,NFLX,2024Q1,2024-03-31,분기별 매출액,9370440000,USD,공시,https://www.sec.gov/Archives/edgar/data/1065280/000106528024000128/,,3
+Netflix,NFLX,2024Q1,2024-03-31,분기별 영업이익,2632534000,USD,공시,https://www.sec.gov/Archives/edgar/data/1065280/000106528024000128/,,3
+Netflix,NFLX,2024Q1,2024-03-31,분기별 당기순이익(지배),2332209000,USD,공시,https://www.sec.gov/Archives/edgar/data/1065280/000106528024000128/,,3
+Netflix,NFLX,2024Q1,2024-03-31,분기별 영업활동현금흐름,2212522000,USD,공시,https://www.sec.gov/Archives/edgar/data/1065280/000106528024000128/,,3
+Netflix,NFLX,2024Q1,2024-03-31,분기말 자산총계,48827721000,USD,공시,https://www.sec.gov/Archives/edgar/data/1065280/000106528024000128/,,3
+Netflix,NFLX,2024Q1,2024-03-31,분기말 부채총계,27462311000,USD,공시,https://www.sec.gov/Archives/edgar/data/1065280/000106528024000128/,,3
+Netflix,NFLX,2024Q1,2024-03-31,분기말 총자본(자기자본),21365410000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/1065280/000106528024000128/,"StockholdersEquity, MinorityInterest 태그 없음",3
+Netflix,NFLX,2024Q1,2024-03-31,분기말 지배지분 자본,21365410000,USD,공시,https://www.sec.gov/Archives/edgar/data/1065280/000106528024000128/,,3
+Netflix,NFLX,2024Q1,2024-03-28,분기말 종가,607.33,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/NFLX?interval=1d&events=splits (2024-03-28),분할조정 종가 60.733 × 이후 분할계수 10,3
+Netflix,NFLX,2024Q1,2024-03-31,분기말 상장주식수,430964991,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/1065280/000106528024000128/,dei:EntityCommonStockSharesOutstanding 클래스 합,3
+Netflix,NFLX,2024Q1,2024-03-28,분기말 시가총액,261737967984,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/NFLX?interval=1d&events=splits (2024-03-28) ; https://www.sec.gov/Archives/edgar/data/1065280/000106528024000128/,종가 607.33 × 주식수 430964991,3
+Netflix,NFLX,2024Q2,2024-06-30,분기별 매출액,9559310000,USD,공시,https://www.sec.gov/Archives/edgar/data/1065280/000106528024000200/,,3
+Netflix,NFLX,2024Q2,2024-06-30,분기별 영업이익,2602837000,USD,공시,https://www.sec.gov/Archives/edgar/data/1065280/000106528024000200/,,3
+Netflix,NFLX,2024Q2,2024-06-30,분기별 당기순이익(지배),2147306000,USD,공시,https://www.sec.gov/Archives/edgar/data/1065280/000106528024000200/,,3
+Netflix,NFLX,2024Q2,2024-06-30,분기별 영업활동현금흐름,1290847000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/1065280/000106528024000200/ ; https://www.sec.gov/Archives/edgar/data/1065280/000106528024000128/,누적 3503369000 − 직전누적 2212522000 (시작 2024-01-01),3
+Netflix,NFLX,2024Q2,2024-06-30,분기말 자산총계,49098895000,USD,공시,https://www.sec.gov/Archives/edgar/data/1065280/000106528024000200/,,3
+Netflix,NFLX,2024Q2,2024-06-30,분기말 부채총계,26986202000,USD,공시,https://www.sec.gov/Archives/edgar/data/1065280/000106528024000200/,,3
+Netflix,NFLX,2024Q2,2024-06-30,분기말 총자본(자기자본),22112693000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/1065280/000106528024000200/,"StockholdersEquity, MinorityInterest 태그 없음",3
+Netflix,NFLX,2024Q2,2024-06-30,분기말 지배지분 자본,22112693000,USD,공시,https://www.sec.gov/Archives/edgar/data/1065280/000106528024000200/,,3
+Netflix,NFLX,2024Q2,2024-06-28,분기말 종가,674.88,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/NFLX?interval=1d&events=splits (2024-06-28),분할조정 종가 67.488 × 이후 분할계수 10,3
+Netflix,NFLX,2024Q2,2024-06-30,분기말 상장주식수,429164615,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/1065280/000106528024000200/,dei:EntityCommonStockSharesOutstanding 클래스 합,3
+Netflix,NFLX,2024Q2,2024-06-28,분기말 시가총액,289634615371,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/NFLX?interval=1d&events=splits (2024-06-28) ; https://www.sec.gov/Archives/edgar/data/1065280/000106528024000200/,종가 674.88 × 주식수 429164615,3
+Netflix,NFLX,2024Q3,2024-09-30,분기별 매출액,9824703000,USD,공시,https://www.sec.gov/Archives/edgar/data/1065280/000106528024000287/,,3
+Netflix,NFLX,2024Q3,2024-09-30,분기별 영업이익,2909477000,USD,공시,https://www.sec.gov/Archives/edgar/data/1065280/000106528024000287/,,3
+Netflix,NFLX,2024Q3,2024-09-30,분기별 당기순이익(지배),2363509000,USD,공시,https://www.sec.gov/Archives/edgar/data/1065280/000106528024000287/,,3
+Netflix,NFLX,2024Q3,2024-09-30,분기별 영업활동현금흐름,2321101000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/1065280/000106528024000287/ ; https://www.sec.gov/Archives/edgar/data/1065280/000106528024000200/,누적 5824470000 − 직전누적 3503369000 (시작 2024-01-01),3
+Netflix,NFLX,2024Q3,2024-09-30,분기말 자산총계,52281844000,USD,공시,https://www.sec.gov/Archives/edgar/data/1065280/000106528024000287/,,3
+Netflix,NFLX,2024Q3,2024-09-30,분기말 부채총계,29561108000,USD,공시,https://www.sec.gov/Archives/edgar/data/1065280/000106528024000287/,,3
+Netflix,NFLX,2024Q3,2024-09-30,분기말 총자본(자기자본),22720736000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/1065280/000106528024000287/,"StockholdersEquity, MinorityInterest 태그 없음",3
+Netflix,NFLX,2024Q3,2024-09-30,분기말 지배지분 자본,22720736000,USD,공시,https://www.sec.gov/Archives/edgar/data/1065280/000106528024000287/,,3
+Netflix,NFLX,2024Q3,2024-09-30,분기말 종가,709.27,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/NFLX?interval=1d&events=splits (2024-09-30),분할조정 종가 70.927 × 이후 분할계수 10,3
+Netflix,NFLX,2024Q3,2024-09-30,분기말 상장주식수,427458114,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/1065280/000106528024000287/,dei:EntityCommonStockSharesOutstanding 클래스 합,3
+Netflix,NFLX,2024Q3,2024-09-30,분기말 시가총액,303183216517,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/NFLX?interval=1d&events=splits (2024-09-30) ; https://www.sec.gov/Archives/edgar/data/1065280/000106528024000287/,종가 709.27 × 주식수 427458114,3
+Netflix,NFLX,2024Q4,2024-12-31,분기별 매출액,10246513000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/1065280/000106528025000044/ ; https://www.sec.gov/Archives/edgar/data/1065280/000106528024000287/,연간 39000966000 − 9개월누적 28754453000 (Revenues),3
+Netflix,NFLX,2024Q4,2024-12-31,분기별 영업이익,2272766000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/1065280/000106528025000044/ ; https://www.sec.gov/Archives/edgar/data/1065280/000106528024000287/,연간 10417614000 − 9개월누적 8144848000 (OperatingIncomeLoss),3
+Netflix,NFLX,2024Q4,2024-12-31,분기별 당기순이익(지배),1868607000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/1065280/000106528025000044/ ; https://www.sec.gov/Archives/edgar/data/1065280/000106528024000287/,연간 8711631000 − 9개월누적 6843024000 (NetIncomeLoss),3
+Netflix,NFLX,2024Q4,2024-12-31,분기별 영업활동현금흐름,1536894000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/1065280/000106528025000044/ ; https://www.sec.gov/Archives/edgar/data/1065280/000106528024000287/,누적 7361364000 − 직전누적 5824470000 (시작 2024-01-01),3
+Netflix,NFLX,2024Q4,2024-12-31,분기말 자산총계,53630374000,USD,공시,https://www.sec.gov/Archives/edgar/data/1065280/000106528025000044/,,3
+Netflix,NFLX,2024Q4,2024-12-31,분기말 부채총계,28886807000,USD,공시,https://www.sec.gov/Archives/edgar/data/1065280/000106528025000044/,,3
+Netflix,NFLX,2024Q4,2024-12-31,분기말 총자본(자기자본),24743567000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/1065280/000106528025000044/,"StockholdersEquity, MinorityInterest 태그 없음",3
+Netflix,NFLX,2024Q4,2024-12-31,분기말 지배지분 자본,24743567000,USD,공시,https://www.sec.gov/Archives/edgar/data/1065280/000106528025000044/,,3
+Netflix,NFLX,2024Q4,2024-12-31,분기말 종가,891.32,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/NFLX?interval=1d&events=splits (2024-12-31),분할조정 종가 89.132 × 이후 분할계수 10,3
+Netflix,NFLX,2024Q4,2024-12-31,분기말 상장주식수,427757100,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/1065280/000106528025000044/,dei:EntityCommonStockSharesOutstanding 클래스 합,3
+Netflix,NFLX,2024Q4,2024-12-31,분기말 시가총액,381268458372,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/NFLX?interval=1d&events=splits (2024-12-31) ; https://www.sec.gov/Archives/edgar/data/1065280/000106528025000044/,종가 891.32 × 주식수 427757100,3
+Netflix,NFLX,2025Q1,2025-03-31,분기별 매출액,10542801000,USD,공시,https://www.sec.gov/Archives/edgar/data/1065280/000106528025000176/,,3
+Netflix,NFLX,2025Q1,2025-03-31,분기별 영업이익,3346999000,USD,공시,https://www.sec.gov/Archives/edgar/data/1065280/000106528025000176/,,3
+Netflix,NFLX,2025Q1,2025-03-31,분기별 당기순이익(지배),2890351000,USD,공시,https://www.sec.gov/Archives/edgar/data/1065280/000106528025000176/,,3
+Netflix,NFLX,2025Q1,2025-03-31,분기별 영업활동현금흐름,2789199000,USD,공시,https://www.sec.gov/Archives/edgar/data/1065280/000106528025000176/,,3
+Netflix,NFLX,2025Q1,2025-03-31,분기말 자산총계,52087644000,USD,공시,https://www.sec.gov/Archives/edgar/data/1065280/000106528025000176/,,3
+Netflix,NFLX,2025Q1,2025-03-31,분기말 부채총계,28059571000,USD,공시,https://www.sec.gov/Archives/edgar/data/1065280/000106528025000176/,,3
+Netflix,NFLX,2025Q1,2025-03-31,분기말 총자본(자기자본),24028073000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/1065280/000106528025000176/,"StockholdersEquity, MinorityInterest 태그 없음",3
+Netflix,NFLX,2025Q1,2025-03-31,분기말 지배지분 자본,24028073000,USD,공시,https://www.sec.gov/Archives/edgar/data/1065280/000106528025000176/,,3
+Netflix,NFLX,2025Q1,2025-03-31,분기말 종가,932.53,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/NFLX?interval=1d&events=splits (2025-03-31),분할조정 종가 93.253 × 이후 분할계수 10,3
+Netflix,NFLX,2025Q1,2025-03-31,분기말 상장주식수,425683210,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/1065280/000106528025000176/,dei:EntityCommonStockSharesOutstanding 클래스 합,3
+Netflix,NFLX,2025Q1,2025-03-31,분기말 시가총액,396962363821,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/NFLX?interval=1d&events=splits (2025-03-31) ; https://www.sec.gov/Archives/edgar/data/1065280/000106528025000176/,종가 932.53 × 주식수 425683210,3
+Netflix,NFLX,2025Q2,2025-06-30,분기별 매출액,11079166000,USD,공시,https://www.sec.gov/Archives/edgar/data/1065280/000106528025000323/,,3
+Netflix,NFLX,2025Q2,2025-06-30,분기별 영업이익,3774694000,USD,공시,https://www.sec.gov/Archives/edgar/data/1065280/000106528025000323/,,3
+Netflix,NFLX,2025Q2,2025-06-30,분기별 당기순이익(지배),3125413000,USD,공시,https://www.sec.gov/Archives/edgar/data/1065280/000106528025000323/,,3
+Netflix,NFLX,2025Q2,2025-06-30,분기별 영업활동현금흐름,2423258000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/1065280/000106528025000323/ ; https://www.sec.gov/Archives/edgar/data/1065280/000106528025000176/,누적 5212457000 − 직전누적 2789199000 (시작 2025-01-01),3
+Netflix,NFLX,2025Q2,2025-06-30,분기말 자산총계,53099664000,USD,공시,https://www.sec.gov/Archives/edgar/data/1065280/000106528025000323/,,3
+Netflix,NFLX,2025Q2,2025-06-30,분기말 부채총계,28147765000,USD,공시,https://www.sec.gov/Archives/edgar/data/1065280/000106528025000323/,,3
+Netflix,NFLX,2025Q2,2025-06-30,분기말 총자본(자기자본),24951899000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/1065280/000106528025000323/,"StockholdersEquity, MinorityInterest 태그 없음",3
+Netflix,NFLX,2025Q2,2025-06-30,분기말 지배지분 자본,24951899000,USD,공시,https://www.sec.gov/Archives/edgar/data/1065280/000106528025000323/,,3
+Netflix,NFLX,2025Q2,2025-06-30,분기말 종가,1339.1299,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/NFLX?interval=1d&events=splits (2025-06-30),분할조정 종가 133.913 × 이후 분할계수 10,3
+Netflix,NFLX,2025Q2,2025-06-30,분기말 상장주식수,424926346,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/1065280/000106528025000323/,dei:EntityCommonStockSharesOutstanding 클래스 합,3
+Netflix,NFLX,2025Q2,2025-06-30,분기말 시가총액,569031575226,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/NFLX?interval=1d&events=splits (2025-06-30) ; https://www.sec.gov/Archives/edgar/data/1065280/000106528025000323/,종가 1339.1299 × 주식수 424926346,3
+Netflix,NFLX,2025Q3,2025-09-30,분기별 매출액,11510307000,USD,공시,https://www.sec.gov/Archives/edgar/data/1065280/000106528025000406/,,3
+Netflix,NFLX,2025Q3,2025-09-30,분기별 영업이익,3248247000,USD,공시,https://www.sec.gov/Archives/edgar/data/1065280/000106528025000406/,,3
+Netflix,NFLX,2025Q3,2025-09-30,분기별 당기순이익(지배),2546916000,USD,공시,https://www.sec.gov/Archives/edgar/data/1065280/000106528025000406/,,3
+Netflix,NFLX,2025Q3,2025-09-30,분기별 영업활동현금흐름,2825174000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/1065280/000106528025000406/ ; https://www.sec.gov/Archives/edgar/data/1065280/000106528025000323/,누적 8037631000 − 직전누적 5212457000 (시작 2025-01-01),3
+Netflix,NFLX,2025Q3,2025-09-30,분기말 자산총계,54934835000,USD,공시,https://www.sec.gov/Archives/edgar/data/1065280/000106528025000406/,,3
+Netflix,NFLX,2025Q3,2025-09-30,분기말 부채총계,28980800000,USD,공시,https://www.sec.gov/Archives/edgar/data/1065280/000106528025000406/,,3
+Netflix,NFLX,2025Q3,2025-09-30,분기말 총자본(자기자본),25954035000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/1065280/000106528025000406/,"StockholdersEquity, MinorityInterest 태그 없음",3
+Netflix,NFLX,2025Q3,2025-09-30,분기말 지배지분 자본,25954035000,USD,공시,https://www.sec.gov/Archives/edgar/data/1065280/000106528025000406/,,3
+Netflix,NFLX,2025Q3,2025-09-30,분기말 종가,1198.92,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/NFLX?interval=1d&events=splits (2025-09-30),분할조정 종가 119.892 × 이후 분할계수 10,3
+Netflix,NFLX,2025Q3,2025-09-30,분기말 상장주식수,423732334,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/1065280/000106528025000406/,dei:EntityCommonStockSharesOutstanding 클래스 합,3
+Netflix,NFLX,2025Q3,2025-09-30,분기말 시가총액,508021169879,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/NFLX?interval=1d&events=splits (2025-09-30) ; https://www.sec.gov/Archives/edgar/data/1065280/000106528025000406/,종가 1198.92 × 주식수 423732334,3
+Netflix,NFLX,2025Q4,2025-12-31,분기별 매출액,12050762000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/1065280/000106528026000034/ ; https://www.sec.gov/Archives/edgar/data/1065280/000106528025000406/,연간 45183036000 − 9개월누적 33132274000 (Revenues),3
+Netflix,NFLX,2025Q4,2025-12-31,분기별 영업이익,2956663000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/1065280/000106528026000034/ ; https://www.sec.gov/Archives/edgar/data/1065280/000106528025000406/,연간 13326603000 − 9개월누적 10369940000 (OperatingIncomeLoss),3
+Netflix,NFLX,2025Q4,2025-12-31,분기별 당기순이익(지배),2418521000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/1065280/000106528026000034/ ; https://www.sec.gov/Archives/edgar/data/1065280/000106528025000406/,연간 10981201000 − 9개월누적 8562680000 (NetIncomeLoss),3
+Netflix,NFLX,2025Q4,2025-12-31,분기별 영업활동현금흐름,2111642000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/1065280/000106528026000034/ ; https://www.sec.gov/Archives/edgar/data/1065280/000106528025000406/,누적 10149273000 − 직전누적 8037631000 (시작 2025-01-01),3
+Netflix,NFLX,2025Q4,2025-12-31,분기말 자산총계,55596993000,USD,공시,https://www.sec.gov/Archives/edgar/data/1065280/000106528026000034/,,3
+Netflix,NFLX,2025Q4,2025-12-31,분기말 부채총계,28981505000,USD,공시,https://www.sec.gov/Archives/edgar/data/1065280/000106528026000034/,,3
+Netflix,NFLX,2025Q4,2025-12-31,분기말 총자본(자기자본),26615488000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/1065280/000106528026000034/,"StockholdersEquity, MinorityInterest 태그 없음",3
+Netflix,NFLX,2025Q4,2025-12-31,분기말 지배지분 자본,26615488000,USD,공시,https://www.sec.gov/Archives/edgar/data/1065280/000106528026000034/,,3
+Netflix,NFLX,2025Q4,2025-12-31,분기말 종가,93.76,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/NFLX?interval=1d&events=splits (2025-12-31),,3
+Netflix,NFLX,2025Q4,2025-12-31,분기말 상장주식수,4222162150,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/1065280/000106528026000034/,dei:EntityCommonStockSharesOutstanding 클래스 합,3
+Netflix,NFLX,2025Q4,2025-12-31,분기말 시가총액,395869923184,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/NFLX?interval=1d&events=splits (2025-12-31) ; https://www.sec.gov/Archives/edgar/data/1065280/000106528026000034/,종가 93.76 × 주식수 4222162150,3
+Netflix,NFLX,2026Q1,2026-03-31,분기별 매출액,12249757000,USD,공시,https://www.sec.gov/Archives/edgar/data/1065280/000106528026000138/,,3
+Netflix,NFLX,2026Q1,2026-03-31,분기별 영업이익,3956997000,USD,공시,https://www.sec.gov/Archives/edgar/data/1065280/000106528026000138/,,3
+Netflix,NFLX,2026Q1,2026-03-31,분기별 당기순이익(지배),5282791000,USD,공시,https://www.sec.gov/Archives/edgar/data/1065280/000106528026000138/,,3
+Netflix,NFLX,2026Q1,2026-03-31,분기별 영업활동현금흐름,5290205000,USD,공시,https://www.sec.gov/Archives/edgar/data/1065280/000106528026000138/,,3
+Netflix,NFLX,2026Q1,2026-03-31,분기말 자산총계,61015914000,USD,공시,https://www.sec.gov/Archives/edgar/data/1065280/000106528026000138/,,3
+Netflix,NFLX,2026Q1,2026-03-31,분기말 부채총계,29889515000,USD,공시,https://www.sec.gov/Archives/edgar/data/1065280/000106528026000138/,,3
+Netflix,NFLX,2026Q1,2026-03-31,분기말 총자본(자기자본),31126399000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/1065280/000106528026000138/,"StockholdersEquity, MinorityInterest 태그 없음",3
+Netflix,NFLX,2026Q1,2026-03-31,분기말 지배지분 자본,31126399000,USD,공시,https://www.sec.gov/Archives/edgar/data/1065280/000106528026000138/,,3
+Netflix,NFLX,2026Q1,2026-03-31,분기말 종가,96.15,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/NFLX?interval=1d&events=splits (2026-03-31),,3
+Netflix,NFLX,2026Q1,2026-03-31,분기말 상장주식수,4212794271,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/1065280/000106528026000138/,dei:EntityCommonStockSharesOutstanding 클래스 합,3
+Netflix,NFLX,2026Q1,2026-03-31,분기말 시가총액,405060169157,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/NFLX?interval=1d&events=splits (2026-03-31) ; https://www.sec.gov/Archives/edgar/data/1065280/000106528026000138/,종가 96.15 × 주식수 4212794271,3
+Netflix,NFLX,2026Q2,2026-06-30,분기별 매출액,12559938000,USD,공시,https://www.sec.gov/Archives/edgar/data/1065280/000106528026000212/,,3
+Netflix,NFLX,2026Q2,2026-06-30,분기별 영업이익,4192610000,USD,공시,https://www.sec.gov/Archives/edgar/data/1065280/000106528026000212/,,3
+Netflix,NFLX,2026Q2,2026-06-30,분기별 당기순이익(지배),3401414000,USD,공시,https://www.sec.gov/Archives/edgar/data/1065280/000106528026000212/,,3
+Netflix,NFLX,2026Q2,2026-06-30,분기별 영업활동현금흐름,1743812000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/1065280/000106528026000212/ ; https://www.sec.gov/Archives/edgar/data/1065280/000106528026000138/,누적 7034017000 − 직전누적 5290205000 (시작 2026-01-01),3
+Netflix,NFLX,2026Q2,2026-06-30,분기말 자산총계,58450441000,USD,공시,https://www.sec.gov/Archives/edgar/data/1065280/000106528026000212/,,3
+Netflix,NFLX,2026Q2,2026-06-30,분기말 부채총계,28298389000,USD,공시,https://www.sec.gov/Archives/edgar/data/1065280/000106528026000212/,,3
+Netflix,NFLX,2026Q2,2026-06-30,분기말 총자본(자기자본),30152052000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/1065280/000106528026000212/,"StockholdersEquity, MinorityInterest 태그 없음",3
+Netflix,NFLX,2026Q2,2026-06-30,분기말 지배지분 자본,30152052000,USD,공시,https://www.sec.gov/Archives/edgar/data/1065280/000106528026000212/,,3
+Netflix,NFLX,2026Q2,2026-06-30,분기말 종가,71.4,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/NFLX?interval=1d&events=splits (2026-06-30),,3
+Netflix,NFLX,2026Q2,2026-06-30,분기말 상장주식수,4163939676,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/1065280/000106528026000212/,dei:EntityCommonStockSharesOutstanding 클래스 합,3
+Netflix,NFLX,2026Q2,2026-06-30,분기말 시가총액,297305292866,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/NFLX?interval=1d&events=splits (2026-06-30) ; https://www.sec.gov/Archives/edgar/data/1065280/000106528026000212/,종가 71.4 × 주식수 4163939676,3

@@ -1,0 +1,727 @@
+﻿기업,종목코드,기간,기준일,항목,값,통화,값구분,출처,검산,라운드
+Costco,COST,2010Q1,2010-02-14,분기별 매출액,18742000000,USD,공시,https://www.sec.gov/Archives/edgar/data/909832/000119312510059399/,,3
+Costco,COST,2010Q1,2010-02-14,분기별 영업이익,470000000,USD,공시,https://www.sec.gov/Archives/edgar/data/909832/000119312510059399/,,3
+Costco,COST,2010Q1,2010-02-14,분기별 당기순이익(지배),299000000,USD,공시,https://www.sec.gov/Archives/edgar/data/909832/000119312510059399/,,3
+Costco,COST,2010Q1,2010-02-14,분기별 영업활동현금흐름,609000000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/909832/000119312510059399/ ; https://www.sec.gov/Archives/edgar/data/909832/000119312509255610/,누적 1360000000 − 직전누적 751000000 (시작 2009-08-31),3
+Costco,COST,2010Q1,2010-02-14,분기말 자산총계,23366000000,USD,공시,https://www.sec.gov/Archives/edgar/data/909832/000119312510059399/,,3
+Costco,COST,2010Q1,2010-02-14,분기말 부채총계,12623000000,USD,공시,https://www.sec.gov/Archives/edgar/data/909832/000119312510059399/,,3
+Costco,COST,2010Q1,2010-02-14,분기말 총자본(자기자본),10743000000,USD,공시,https://www.sec.gov/Archives/edgar/data/909832/000119312510059399/,,3
+Costco,COST,2010Q1,2010-02-14,분기말 지배지분 자본,10651000000,USD,공시,https://www.sec.gov/Archives/edgar/data/909832/000119312510059399/,,3
+Costco,COST,2010Q1,2010-02-12,분기말 종가,59.28,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/COST?interval=1d&events=splits (2010-02-12),,3
+Costco,COST,2010Q1,2010-03-05,분기말 상장주식수,440506789,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/909832/000119312510059399/,dei:EntityCommonStockSharesOutstanding 클래스 합,3
+Costco,COST,2010Q1,2010-02-12,분기말 시가총액,26113242452,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/COST?interval=1d&events=splits (2010-02-12) ; https://www.sec.gov/Archives/edgar/data/909832/000119312510059399/,종가 59.28 × 주식수 440506789,3
+Costco,COST,2010Q2,2010-05-09,분기별 매출액,17780000000,USD,공시,https://www.sec.gov/Archives/edgar/data/909832/000119312510137013/,,3
+Costco,COST,2010Q2,2010-05-09,분기별 영업이익,491000000,USD,공시,https://www.sec.gov/Archives/edgar/data/909832/000119312510137013/,,3
+Costco,COST,2010Q2,2010-05-09,분기별 당기순이익(지배),306000000,USD,공시,https://www.sec.gov/Archives/edgar/data/909832/000119312510137013/,,3
+Costco,COST,2010Q2,2010-05-09,분기별 영업활동현금흐름,809000000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/909832/000119312510137013/ ; https://www.sec.gov/Archives/edgar/data/909832/000119312510059399/,누적 2169000000 − 직전누적 1360000000 (시작 2009-08-31),3
+Costco,COST,2010Q2,2010-05-09,분기말 자산총계,23899000000,USD,공시,https://www.sec.gov/Archives/edgar/data/909832/000119312510137013/,,3
+Costco,COST,2010Q2,2010-05-09,분기말 부채총계,12927000000,USD,공시,https://www.sec.gov/Archives/edgar/data/909832/000119312510137013/,,3
+Costco,COST,2010Q2,2010-05-09,분기말 총자본(자기자본),10972000000,USD,공시,https://www.sec.gov/Archives/edgar/data/909832/000119312510137013/,,3
+Costco,COST,2010Q2,2010-05-09,분기말 지배지분 자본,10874000000,USD,공시,https://www.sec.gov/Archives/edgar/data/909832/000119312510137013/,,3
+Costco,COST,2010Q2,2010-05-07,분기말 종가,57.31,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/COST?interval=1d&events=splits (2010-05-07),,3
+Costco,COST,2010Q2,2010-05-28,분기말 상장주식수,439132186,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/909832/000119312510137013/,dei:EntityCommonStockSharesOutstanding 클래스 합,3
+Costco,COST,2010Q2,2010-05-07,분기말 시가총액,25166665580,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/COST?interval=1d&events=splits (2010-05-07) ; https://www.sec.gov/Archives/edgar/data/909832/000119312510137013/,종가 57.31 × 주식수 439132186,3
+Costco,COST,2010Q3,2010-08-29,분기별 매출액,24125000000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/909832/000119312510230379/ ; https://www.sec.gov/Archives/edgar/data/909832/000119312510137013/,연간 77946000000 − 9개월누적 53821000000 (Revenues),3
+Costco,COST,2010Q3,2010-08-29,분기별 영업이익,688000000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/909832/000119312510230379/ ; https://www.sec.gov/Archives/edgar/data/909832/000119312510137013/,연간 2077000000 − 9개월누적 1389000000 (OperatingIncomeLoss),3
+Costco,COST,2010Q3,2010-08-29,분기별 당기순이익(지배),432000000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/909832/000119312510230379/ ; https://www.sec.gov/Archives/edgar/data/909832/000119312510137013/,연간 1303000000 − 9개월누적 871000000 (NetIncomeLoss),3
+Costco,COST,2010Q3,2010-08-29,분기별 영업활동현금흐름,611000000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/909832/000119312510230379/ ; https://www.sec.gov/Archives/edgar/data/909832/000119312510137013/,누적 2780000000 − 직전누적 2169000000 (시작 2009-08-31),3
+Costco,COST,2010Q3,2010-08-29,분기말 자산총계,23815000000,USD,공시,https://www.sec.gov/Archives/edgar/data/909832/000119312510230379/,,3
+Costco,COST,2010Q3,2010-08-29,분기말 부채총계,12885000000,USD,공시,https://www.sec.gov/Archives/edgar/data/909832/000119312510230379/,,3
+Costco,COST,2010Q3,2010-08-29,분기말 총자본(자기자본),10930000000,USD,공시,https://www.sec.gov/Archives/edgar/data/909832/000119312510230379/,,3
+Costco,COST,2010Q3,2010-08-29,분기말 지배지분 자본,10829000000,USD,공시,https://www.sec.gov/Archives/edgar/data/909832/000119312510230379/,,3
+Costco,COST,2010Q3,2010-08-27,분기말 종가,56.19,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/COST?interval=1d&events=splits (2010-08-27),,3
+Costco,COST,2010Q3,2010-10-01,분기말 상장주식수,432333947,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/909832/000119312510230379/,dei:EntityCommonStockSharesOutstanding 클래스 합,3
+Costco,COST,2010Q3,2010-08-27,분기말 시가총액,24292844482,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/COST?interval=1d&events=splits (2010-08-27) ; https://www.sec.gov/Archives/edgar/data/909832/000119312510230379/,종가 56.19 × 주식수 432333947,3
+Costco,COST,2010Q4,2010-11-21,분기별 매출액,19239000000,USD,공시,https://www.sec.gov/Archives/edgar/data/909832/000119312510283424/,,3
+Costco,COST,2010Q4,2010-11-21,분기별 영업이익,525000000,USD,공시,https://www.sec.gov/Archives/edgar/data/909832/000119312510283424/,,3
+Costco,COST,2010Q4,2010-11-21,분기별 당기순이익(지배),312000000,USD,공시,https://www.sec.gov/Archives/edgar/data/909832/000119312510283424/,,3
+Costco,COST,2010Q4,2010-11-21,분기별 영업활동현금흐름,720000000,USD,공시,https://www.sec.gov/Archives/edgar/data/909832/000119312510283424/,,3
+Costco,COST,2010Q4,2010-11-21,분기말 자산총계,26043000000,USD,공시,https://www.sec.gov/Archives/edgar/data/909832/000119312510283424/,,3
+Costco,COST,2010Q4,2010-11-21,분기말 부채총계,14336000000,USD,공시,https://www.sec.gov/Archives/edgar/data/909832/000119312510283424/,,3
+Costco,COST,2010Q4,2010-11-21,분기말 총자본(자기자본),11707000000,USD,공시,https://www.sec.gov/Archives/edgar/data/909832/000119312510283424/,,3
+Costco,COST,2010Q4,2010-11-21,분기말 지배지분 자본,11199000000,USD,공시,https://www.sec.gov/Archives/edgar/data/909832/000119312510283424/,,3
+Costco,COST,2010Q4,2010-11-19,분기말 종가,66.56,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/COST?interval=1d&events=splits (2010-11-19),,3
+Costco,COST,2010Q4,2010-12-10,분기말 상장주식수,436524744,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/909832/000119312510283424/,dei:EntityCommonStockSharesOutstanding 클래스 합,3
+Costco,COST,2010Q4,2010-11-19,분기말 시가총액,29055086961,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/COST?interval=1d&events=splits (2010-11-19) ; https://www.sec.gov/Archives/edgar/data/909832/000119312510283424/,종가 66.56 × 주식수 436524744,3
+Costco,COST,2011Q1,2011-02-13,분기별 매출액,20875000000,USD,공시,https://www.sec.gov/Archives/edgar/data/909832/000119312511069779/,,3
+Costco,COST,2011Q1,2011-02-13,분기별 영업이익,596000000,USD,공시,https://www.sec.gov/Archives/edgar/data/909832/000119312511069779/,,3
+Costco,COST,2011Q1,2011-02-13,분기별 당기순이익(지배),348000000,USD,공시,https://www.sec.gov/Archives/edgar/data/909832/000119312511069779/,,3
+Costco,COST,2011Q1,2011-02-13,분기별 영업활동현금흐름,726000000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/909832/000119312511069779/ ; https://www.sec.gov/Archives/edgar/data/909832/000119312510283424/,누적 1446000000 − 직전누적 720000000 (시작 2010-08-30),3
+Costco,COST,2011Q1,2011-02-13,분기말 자산총계,25716000000,USD,공시,https://www.sec.gov/Archives/edgar/data/909832/000119312511069779/,,3
+Costco,COST,2011Q1,2011-02-13,분기말 부채총계,13592000000,USD,공시,https://www.sec.gov/Archives/edgar/data/909832/000119312511069779/,,3
+Costco,COST,2011Q1,2011-02-13,분기말 총자본(자기자본),12124000000,USD,공시,https://www.sec.gov/Archives/edgar/data/909832/000119312511069779/,,3
+Costco,COST,2011Q1,2011-02-13,분기말 지배지분 자본,11583000000,USD,공시,https://www.sec.gov/Archives/edgar/data/909832/000119312511069779/,,3
+Costco,COST,2011Q1,2011-02-11,분기말 종가,75.04,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/COST?interval=1d&events=splits (2011-02-11),,3
+Costco,COST,2011Q1,2011-03-04,분기말 상장주식수,436859609,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/909832/000119312511069779/,dei:EntityCommonStockSharesOutstanding 클래스 합,3
+Costco,COST,2011Q1,2011-02-11,분기말 시가총액,32781945059,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/COST?interval=1d&events=splits (2011-02-11) ; https://www.sec.gov/Archives/edgar/data/909832/000119312511069779/,종가 75.04 × 주식수 436859609,3
+Costco,COST,2011Q2,2011-05-08,분기별 매출액,20623000000,USD,공시,https://www.sec.gov/Archives/edgar/data/909832/000119312511161386/,,3
+Costco,COST,2011Q2,2011-05-08,분기별 영업이익,556000000,USD,공시,https://www.sec.gov/Archives/edgar/data/909832/000119312511161386/,,3
+Costco,COST,2011Q2,2011-05-08,분기별 당기순이익(지배),324000000,USD,공시,https://www.sec.gov/Archives/edgar/data/909832/000119312511161386/,,3
+Costco,COST,2011Q2,2011-05-08,분기별 영업활동현금흐름,811000000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/909832/000119312511161386/ ; https://www.sec.gov/Archives/edgar/data/909832/000119312511069779/,누적 2257000000 − 직전누적 1446000000 (시작 2010-08-30),3
+Costco,COST,2011Q2,2011-05-08,분기말 자산총계,26974000000,USD,공시,https://www.sec.gov/Archives/edgar/data/909832/000119312511161386/,,3
+Costco,COST,2011Q2,2011-05-08,분기말 부채총계,14433000000,USD,공시,https://www.sec.gov/Archives/edgar/data/909832/000119312511161386/,,3
+Costco,COST,2011Q2,2011-05-08,분기말 총자본(자기자본),12541000000,USD,공시,https://www.sec.gov/Archives/edgar/data/909832/000119312511161386/,,3
+Costco,COST,2011Q2,2011-05-08,분기말 지배지분 자본,11963000000,USD,공시,https://www.sec.gov/Archives/edgar/data/909832/000119312511161386/,,3
+Costco,COST,2011Q2,2011-05-06,분기말 종가,80.45,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/COST?interval=1d&events=splits (2011-05-06),,3
+Costco,COST,2011Q2,2011-05-27,분기말 상장주식수,437812960,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/909832/000119312511161386/,dei:EntityCommonStockSharesOutstanding 클래스 합,3
+Costco,COST,2011Q2,2011-05-06,분기말 시가총액,35222052632,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/COST?interval=1d&events=splits (2011-05-06) ; https://www.sec.gov/Archives/edgar/data/909832/000119312511161386/,종가 80.45 × 주식수 437812960,3
+Costco,COST,2011Q3,2011-08-28,분기별 매출액,28178000000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/909832/000119312511271844/ ; https://www.sec.gov/Archives/edgar/data/909832/000119312511161386/,연간 88915000000 − 9개월누적 60737000000 (Revenues),3
+Costco,COST,2011Q3,2011-08-28,분기별 영업이익,762000000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/909832/000119312511271844/ ; https://www.sec.gov/Archives/edgar/data/909832/000119312511161386/,연간 2439000000 − 9개월누적 1677000000 (OperatingIncomeLoss),3
+Costco,COST,2011Q3,2011-08-28,분기별 당기순이익(지배),478000000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/909832/000119312511271844/ ; https://www.sec.gov/Archives/edgar/data/909832/000119312511161386/,연간 1462000000 − 9개월누적 984000000 (NetIncomeLoss),3
+Costco,COST,2011Q3,2011-08-28,분기별 영업활동현금흐름,941000000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/909832/000119312511271844/ ; https://www.sec.gov/Archives/edgar/data/909832/000119312511161386/,누적 3198000000 − 직전누적 2257000000 (시작 2010-08-30),3
+Costco,COST,2011Q3,2011-08-28,분기말 자산총계,26761000000,USD,공시,https://www.sec.gov/Archives/edgar/data/909832/000119312511271844/,,3
+Costco,COST,2011Q3,2011-08-28,분기말 부채총계,14188000000,USD,공시,https://www.sec.gov/Archives/edgar/data/909832/000119312511271844/,,3
+Costco,COST,2011Q3,2011-08-28,분기말 총자본(자기자본),12573000000,USD,공시,https://www.sec.gov/Archives/edgar/data/909832/000119312511271844/,,3
+Costco,COST,2011Q3,2011-08-28,분기말 지배지분 자본,12002000000,USD,공시,https://www.sec.gov/Archives/edgar/data/909832/000119312511271844/,,3
+Costco,COST,2011Q3,2011-08-26,분기말 종가,77.21,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/COST?interval=1d&events=splits (2011-08-26),,3
+Costco,COST,2011Q3,2011-09-30,분기말 상장주식수,433365150,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/909832/000119312511271844/,dei:EntityCommonStockSharesOutstanding 클래스 합,3
+Costco,COST,2011Q3,2011-08-26,분기말 시가총액,33460123231,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/COST?interval=1d&events=splits (2011-08-26) ; https://www.sec.gov/Archives/edgar/data/909832/000119312511271844/,종가 77.21 × 주식수 433365150,3
+Costco,COST,2011Q4,2011-11-20,분기별 매출액,21628000000,USD,공시,https://www.sec.gov/Archives/edgar/data/909832/000119312511344028/,,3
+Costco,COST,2011Q4,2011-11-20,분기별 영업이익,543000000,USD,공시,https://www.sec.gov/Archives/edgar/data/909832/000119312511344028/,,3
+Costco,COST,2011Q4,2011-11-20,분기별 당기순이익(지배),320000000,USD,공시,https://www.sec.gov/Archives/edgar/data/909832/000119312511344028/,,3
+Costco,COST,2011Q4,2011-11-20,분기별 영업활동현금흐름,664000000,USD,공시,https://www.sec.gov/Archives/edgar/data/909832/000119312511344028/,,3
+Costco,COST,2011Q4,2011-11-20,분기말 자산총계,28004000000,USD,공시,https://www.sec.gov/Archives/edgar/data/909832/000119312511344028/,,3
+Costco,COST,2011Q4,2011-11-20,분기말 부채총계,15557000000,USD,공시,https://www.sec.gov/Archives/edgar/data/909832/000119312511344028/,,3
+Costco,COST,2011Q4,2011-11-20,분기말 총자본(자기자본),12447000000,USD,공시,https://www.sec.gov/Archives/edgar/data/909832/000119312511344028/,,3
+Costco,COST,2011Q4,2011-11-20,분기말 지배지분 자본,11909000000,USD,공시,https://www.sec.gov/Archives/edgar/data/909832/000119312511344028/,,3
+Costco,COST,2011Q4,2011-11-18,분기말 종가,81.72,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/COST?interval=1d&events=splits (2011-11-18),,3
+Costco,COST,2011Q4,2011-12-09,분기말 상장주식수,434928977,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/909832/000119312511344028/,dei:EntityCommonStockSharesOutstanding 클래스 합,3
+Costco,COST,2011Q4,2011-11-18,분기말 시가총액,35542396000,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/COST?interval=1d&events=splits (2011-11-18) ; https://www.sec.gov/Archives/edgar/data/909832/000119312511344028/,종가 81.72 × 주식수 434928977,3
+Costco,COST,2012Q1,2012-02-12,분기별 매출액,22967000000,USD,공시,https://www.sec.gov/Archives/edgar/data/909832/000119312512115279/,,3
+Costco,COST,2012Q1,2012-02-12,분기별 영업이익,644000000,USD,공시,https://www.sec.gov/Archives/edgar/data/909832/000119312512115279/,,3
+Costco,COST,2012Q1,2012-02-12,분기별 당기순이익(지배),394000000,USD,공시,https://www.sec.gov/Archives/edgar/data/909832/000119312512115279/,,3
+Costco,COST,2012Q1,2012-02-12,분기별 영업활동현금흐름,580000000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/909832/000119312512115279/ ; https://www.sec.gov/Archives/edgar/data/909832/000119312511344028/,누적 1244000000 − 직전누적 664000000 (시작 2011-08-29),3
+Costco,COST,2012Q1,2012-02-12,분기말 자산총계,27511000000,USD,공시,https://www.sec.gov/Archives/edgar/data/909832/000119312512115279/,,3
+Costco,COST,2012Q1,2012-02-12,분기말 부채총계,14692000000,USD,공시,https://www.sec.gov/Archives/edgar/data/909832/000119312512115279/,,3
+Costco,COST,2012Q1,2012-02-12,분기말 총자본(자기자본),12819000000,USD,공시,https://www.sec.gov/Archives/edgar/data/909832/000119312512115279/,,3
+Costco,COST,2012Q1,2012-02-12,분기말 지배지분 자본,12232000000,USD,공시,https://www.sec.gov/Archives/edgar/data/909832/000119312512115279/,,3
+Costco,COST,2012Q1,2012-02-10,분기말 종가,84.2,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/COST?interval=1d&events=splits (2012-02-10),,3
+Costco,COST,2012Q1,2012-03-09,분기말 상장주식수,433973086,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/909832/000119312512115279/,dei:EntityCommonStockSharesOutstanding 클래스 합,3
+Costco,COST,2012Q1,2012-02-10,분기말 시가총액,36540533841,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/COST?interval=1d&events=splits (2012-02-10) ; https://www.sec.gov/Archives/edgar/data/909832/000119312512115279/,종가 84.2 × 주식수 433973086,3
+Costco,COST,2012Q2,2012-05-06,분기별 매출액,22324000000,USD,공시,https://www.sec.gov/Archives/edgar/data/909832/000119312512261925/,,3
+Costco,COST,2012Q2,2012-05-06,분기별 영업이익,623000000,USD,공시,https://www.sec.gov/Archives/edgar/data/909832/000119312512261925/,,3
+Costco,COST,2012Q2,2012-05-06,분기별 당기순이익(지배),386000000,USD,공시,https://www.sec.gov/Archives/edgar/data/909832/000119312512261925/,,3
+Costco,COST,2012Q2,2012-05-06,분기별 영업활동현금흐름,1083000000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/909832/000119312512261925/ ; https://www.sec.gov/Archives/edgar/data/909832/000119312512115279/,누적 2327000000 − 직전누적 1244000000 (시작 2011-08-29),3
+Costco,COST,2012Q2,2012-05-06,분기말 자산총계,27836000000,USD,공시,https://www.sec.gov/Archives/edgar/data/909832/000119312512261925/,,3
+Costco,COST,2012Q2,2012-05-06,분기말 부채총계,14653000000,USD,공시,https://www.sec.gov/Archives/edgar/data/909832/000119312512261925/,,3
+Costco,COST,2012Q2,2012-05-06,분기말 총자본(자기자본),13183000000,USD,공시,https://www.sec.gov/Archives/edgar/data/909832/000119312512261925/,,3
+Costco,COST,2012Q2,2012-05-06,분기말 지배지분 자본,12585000000,USD,공시,https://www.sec.gov/Archives/edgar/data/909832/000119312512261925/,,3
+Costco,COST,2012Q2,2012-05-04,분기말 종가,83.39,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/COST?interval=1d&events=splits (2012-05-04),,3
+Costco,COST,2012Q2,2012-05-31,분기말 상장주식수,432344799,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/909832/000119312512261925/,dei:EntityCommonStockSharesOutstanding 클래스 합,3
+Costco,COST,2012Q2,2012-05-04,분기말 시가총액,36053232789,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/COST?interval=1d&events=splits (2012-05-04) ; https://www.sec.gov/Archives/edgar/data/909832/000119312512261925/,종가 83.39 × 주식수 432344799,3
+Costco,COST,2012Q3,2012-09-02,분기별 매출액,32218000000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/909832/000119312512428890/ ; https://www.sec.gov/Archives/edgar/data/909832/000119312512261925/,연간 99137000000 − 9개월누적 66919000000 (Revenues),3
+Costco,COST,2012Q3,2012-09-02,분기별 영업이익,949000000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/909832/000119312512428890/ ; https://www.sec.gov/Archives/edgar/data/909832/000119312512261925/,연간 2759000000 − 9개월누적 1810000000 (OperatingIncomeLoss),3
+Costco,COST,2012Q3,2012-09-02,분기별 당기순이익(지배),609000000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/909832/000119312512428890/ ; https://www.sec.gov/Archives/edgar/data/909832/000119312512261925/,연간 1709000000 − 9개월누적 1100000000 (NetIncomeLoss),3
+Costco,COST,2012Q3,2012-09-02,분기별 영업활동현금흐름,730000000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/909832/000119312512428890/ ; https://www.sec.gov/Archives/edgar/data/909832/000119312512261925/,누적 3057000000 − 직전누적 2327000000 (시작 2011-08-29),3
+Costco,COST,2012Q3,2012-09-02,분기말 자산총계,27140000000,USD,공시,https://www.sec.gov/Archives/edgar/data/909832/000119312512428890/,,3
+Costco,COST,2012Q3,2012-09-02,분기말 부채총계,14622000000,USD,공시,https://www.sec.gov/Archives/edgar/data/909832/000119312512428890/,,3
+Costco,COST,2012Q3,2012-09-02,분기말 총자본(자기자본),12518000000,USD,공시,https://www.sec.gov/Archives/edgar/data/909832/000119312512428890/,,3
+Costco,COST,2012Q3,2012-09-02,분기말 지배지분 자본,12361000000,USD,공시,https://www.sec.gov/Archives/edgar/data/909832/000119312512428890/,,3
+Costco,COST,2012Q3,2012-08-31,분기말 종가,97.87,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/COST?interval=1d&events=splits (2012-08-31),,3
+Costco,COST,2012Q3,2012-10-05,분기말 상장주식수,432424379,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/909832/000119312512428890/,dei:EntityCommonStockSharesOutstanding 클래스 합,3
+Costco,COST,2012Q3,2012-08-31,분기말 시가총액,42321373973,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/COST?interval=1d&events=splits (2012-08-31) ; https://www.sec.gov/Archives/edgar/data/909832/000119312512428890/,종가 97.87 × 주식수 432424379,3
+Costco,COST,2012Q4,2012-11-25,분기별 매출액,23715000000,USD,공시,https://www.sec.gov/Archives/edgar/data/909832/000119312512512914/,,3
+Costco,COST,2012Q4,2012-11-25,분기별 영업이익,639000000,USD,공시,https://www.sec.gov/Archives/edgar/data/909832/000119312512512914/,,3
+Costco,COST,2012Q4,2012-11-25,분기별 당기순이익(지배),416000000,USD,공시,https://www.sec.gov/Archives/edgar/data/909832/000119312512512914/,,3
+Costco,COST,2012Q4,2012-11-25,분기별 영업활동현금흐름,1102000000,USD,공시,https://www.sec.gov/Archives/edgar/data/909832/000119312512512914/,,3
+Costco,COST,2012Q4,2012-11-25,분기말 자산총계,29323000000,USD,공시,https://www.sec.gov/Archives/edgar/data/909832/000119312512512914/,,3
+Costco,COST,2012Q4,2012-11-25,분기말 부채총계,16491000000,USD,공시,https://www.sec.gov/Archives/edgar/data/909832/000119312512512914/,,3
+Costco,COST,2012Q4,2012-11-25,분기말 총자본(자기자본),12832000000,USD,공시,https://www.sec.gov/Archives/edgar/data/909832/000119312512512914/,,3
+Costco,COST,2012Q4,2012-11-25,분기말 지배지분 자본,12665000000,USD,공시,https://www.sec.gov/Archives/edgar/data/909832/000119312512512914/,,3
+Costco,COST,2012Q4,2012-11-23,분기말 종가,97.92,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/COST?interval=1d&events=splits (2012-11-23),,3
+Costco,COST,2012Q4,2012-12-14,분기말 상장주식수,435636480,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/909832/000119312512512914/,dei:EntityCommonStockSharesOutstanding 클래스 합,3
+Costco,COST,2012Q4,2012-11-23,분기말 시가총액,42657524122,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/COST?interval=1d&events=splits (2012-11-23) ; https://www.sec.gov/Archives/edgar/data/909832/000119312512512914/,종가 97.92 × 주식수 435636480,3
+Costco,COST,2013Q1,2013-02-17,분기별 매출액,24871000000,USD,공시,https://www.sec.gov/Archives/edgar/data/909832/000119312513117085/,,3
+Costco,COST,2013Q1,2013-02-17,분기별 영업이익,738000000,USD,공시,https://www.sec.gov/Archives/edgar/data/909832/000119312513117085/,,3
+Costco,COST,2013Q1,2013-02-17,분기별 당기순이익(지배),547000000,USD,공시,https://www.sec.gov/Archives/edgar/data/909832/000119312513117085/,,3
+Costco,COST,2013Q1,2013-02-17,분기별 영업활동현금흐름,423000000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/909832/000119312513117085/ ; https://www.sec.gov/Archives/edgar/data/909832/000119312512512914/,누적 1525000000 − 직전누적 1102000000 (시작 2012-09-03),3
+Costco,COST,2013Q1,2013-02-17,분기말 자산총계,29089000000,USD,공시,https://www.sec.gov/Archives/edgar/data/909832/000119312513117085/,,3
+Costco,COST,2013Q1,2013-02-17,분기말 부채총계,18806000000,USD,공시,https://www.sec.gov/Archives/edgar/data/909832/000119312513117085/,,3
+Costco,COST,2013Q1,2013-02-17,분기말 총자본(자기자본),10283000000,USD,공시,https://www.sec.gov/Archives/edgar/data/909832/000119312513117085/,,3
+Costco,COST,2013Q1,2013-02-17,분기말 지배지분 자본,10112000000,USD,공시,https://www.sec.gov/Archives/edgar/data/909832/000119312513117085/,,3
+Costco,COST,2013Q1,2013-02-15,분기말 종가,102.17,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/COST?interval=1d&events=splits (2013-02-15),,3
+Costco,COST,2013Q1,2013-03-13,분기말 상장주식수,436371394,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/909832/000119312513117085/,dei:EntityCommonStockSharesOutstanding 클래스 합,3
+Costco,COST,2013Q1,2013-02-15,분기말 시가총액,44584065325,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/COST?interval=1d&events=splits (2013-02-15) ; https://www.sec.gov/Archives/edgar/data/909832/000119312513117085/,종가 102.17 × 주식수 436371394,3
+Costco,COST,2013Q2,2013-05-12,분기별 매출액,24083000000,USD,공시,https://www.sec.gov/Archives/edgar/data/909832/000144530513001463/,,3
+Costco,COST,2013Q2,2013-05-12,분기별 영업이익,722000000,USD,공시,https://www.sec.gov/Archives/edgar/data/909832/000144530513001463/,,3
+Costco,COST,2013Q2,2013-05-12,분기별 당기순이익(지배),459000000,USD,공시,https://www.sec.gov/Archives/edgar/data/909832/000144530513001463/,,3
+Costco,COST,2013Q2,2013-05-12,분기별 영업활동현금흐름,1349000000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/909832/000144530513001463/ ; https://www.sec.gov/Archives/edgar/data/909832/000119312513117085/,누적 2874000000 − 직전누적 1525000000 (시작 2012-09-03),3
+Costco,COST,2013Q2,2013-05-12,분기말 자산총계,30006000000,USD,공시,https://www.sec.gov/Archives/edgar/data/909832/000144530513001463/,,3
+Costco,COST,2013Q2,2013-05-12,분기말 부채총계,19359000000,USD,공시,https://www.sec.gov/Archives/edgar/data/909832/000144530513001463/,,3
+Costco,COST,2013Q2,2013-05-12,분기말 총자본(자기자본),10647000000,USD,공시,https://www.sec.gov/Archives/edgar/data/909832/000144530513001463/,,3
+Costco,COST,2013Q2,2013-05-12,분기말 지배지분 자본,10472000000,USD,공시,https://www.sec.gov/Archives/edgar/data/909832/000144530513001463/,,3
+Costco,COST,2013Q2,2013-05-10,분기말 종가,109.99,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/COST?interval=1d&events=splits (2013-05-10),,3
+Costco,COST,2013Q2,2013-06-04,분기말 상장주식수,436684233,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/909832/000144530513001463/,dei:EntityCommonStockSharesOutstanding 클래스 합,3
+Costco,COST,2013Q2,2013-05-10,분기말 시가총액,48030898788,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/COST?interval=1d&events=splits (2013-05-10) ; https://www.sec.gov/Archives/edgar/data/909832/000144530513001463/,종가 109.99 × 주식수 436684233,3
+Costco,COST,2013Q3,2013-09-01,분기별 매출액,32487000000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/909832/000144530513002422/ ; https://www.sec.gov/Archives/edgar/data/909832/000144530513001463/,연간 105156000000 − 9개월누적 72669000000 (Revenues),3
+Costco,COST,2013Q3,2013-09-01,분기별 영업이익,954000000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/909832/000144530513002422/ ; https://www.sec.gov/Archives/edgar/data/909832/000144530513001463/,연간 3053000000 − 9개월누적 2099000000 (OperatingIncomeLoss),3
+Costco,COST,2013Q3,2013-09-01,분기별 당기순이익(지배),617000000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/909832/000144530513002422/ ; https://www.sec.gov/Archives/edgar/data/909832/000144530513001463/,연간 2039000000 − 9개월누적 1422000000 (NetIncomeLoss),3
+Costco,COST,2013Q3,2013-09-01,분기별 영업활동현금흐름,563000000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/909832/000144530513002422/ ; https://www.sec.gov/Archives/edgar/data/909832/000144530513001463/,누적 3437000000 − 직전누적 2874000000 (시작 2012-09-03),3
+Costco,COST,2013Q3,2013-09-01,분기말 자산총계,30283000000,USD,공시,https://www.sec.gov/Archives/edgar/data/909832/000144530513002422/,,3
+Costco,COST,2013Q3,2013-09-01,분기말 부채총계,19271000000,USD,공시,https://www.sec.gov/Archives/edgar/data/909832/000144530513002422/,,3
+Costco,COST,2013Q3,2013-09-01,분기말 총자본(자기자본),11012000000,USD,공시,https://www.sec.gov/Archives/edgar/data/909832/000144530513002422/,,3
+Costco,COST,2013Q3,2013-09-01,분기말 지배지분 자본,10833000000,USD,공시,https://www.sec.gov/Archives/edgar/data/909832/000144530513002422/,,3
+Costco,COST,2013Q3,2013-08-30,분기말 종가,111.87,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/COST?interval=1d&events=splits (2013-08-30),,3
+Costco,COST,2013Q3,2013-10-09,분기말 상장주식수,436922037,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/909832/000144530513002422/,dei:EntityCommonStockSharesOutstanding 클래스 합,3
+Costco,COST,2013Q3,2013-08-30,분기말 시가총액,48878468279,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/COST?interval=1d&events=splits (2013-08-30) ; https://www.sec.gov/Archives/edgar/data/909832/000144530513002422/,종가 111.87 × 주식수 436922037,3
+Costco,COST,2013Q4,2013-11-24,분기별 매출액,25017000000,USD,공시,https://www.sec.gov/Archives/edgar/data/909832/000090983213000011/,,3
+Costco,COST,2013Q4,2013-11-24,분기별 영업이익,668000000,USD,공시,https://www.sec.gov/Archives/edgar/data/909832/000090983213000011/,,3
+Costco,COST,2013Q4,2013-11-24,분기별 당기순이익(지배),425000000,USD,공시,https://www.sec.gov/Archives/edgar/data/909832/000090983213000011/,,3
+Costco,COST,2013Q4,2013-11-24,분기별 영업활동현금흐름,939000000,USD,공시,https://www.sec.gov/Archives/edgar/data/909832/000090983213000011/,,3
+Costco,COST,2013Q4,2013-11-24,분기말 자산총계,32319000000,USD,공시,https://www.sec.gov/Archives/edgar/data/909832/000090983213000011/,,3
+Costco,COST,2013Q4,2013-11-24,분기말 부채총계,20910000000,USD,공시,https://www.sec.gov/Archives/edgar/data/909832/000090983213000011/,,3
+Costco,COST,2013Q4,2013-11-24,분기말 총자본(자기자본),11409000000,USD,공시,https://www.sec.gov/Archives/edgar/data/909832/000090983213000011/,,3
+Costco,COST,2013Q4,2013-11-24,분기말 지배지분 자본,11221000000,USD,공시,https://www.sec.gov/Archives/edgar/data/909832/000090983213000011/,,3
+Costco,COST,2013Q4,2013-11-22,분기말 종가,125.21,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/COST?interval=1d&events=splits (2013-11-22),,3
+Costco,COST,2013Q4,2013-12-13,분기말 상장주식수,439722405,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/909832/000090983213000011/,dei:EntityCommonStockSharesOutstanding 클래스 합,3
+Costco,COST,2013Q4,2013-11-22,분기말 시가총액,55057642330,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/COST?interval=1d&events=splits (2013-11-22) ; https://www.sec.gov/Archives/edgar/data/909832/000090983213000011/,종가 125.21 × 주식수 439722405,3
+Costco,COST,2014Q1,2014-02-16,분기별 매출액,26306000000,USD,공시,https://www.sec.gov/Archives/edgar/data/909832/000090983214000008/,,3
+Costco,COST,2014Q1,2014-02-16,분기별 영업이익,724000000,USD,공시,https://www.sec.gov/Archives/edgar/data/909832/000090983214000008/,,3
+Costco,COST,2014Q1,2014-02-16,분기별 당기순이익(지배),463000000,USD,공시,https://www.sec.gov/Archives/edgar/data/909832/000090983214000008/,,3
+Costco,COST,2014Q1,2014-02-16,분기별 영업활동현금흐름,713000000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/909832/000090983214000008/ ; https://www.sec.gov/Archives/edgar/data/909832/000090983213000011/,누적 1652000000 − 직전누적 939000000 (시작 2013-09-02),3
+Costco,COST,2014Q1,2014-02-16,분기말 자산총계,31566000000,USD,공시,https://www.sec.gov/Archives/edgar/data/909832/000090983214000008/,,3
+Costco,COST,2014Q1,2014-02-16,분기말 부채총계,19857000000,USD,공시,https://www.sec.gov/Archives/edgar/data/909832/000090983214000008/,,3
+Costco,COST,2014Q1,2014-02-16,분기말 총자본(자기자본),11709000000,USD,공시,https://www.sec.gov/Archives/edgar/data/909832/000090983214000008/,,3
+Costco,COST,2014Q1,2014-02-16,분기말 지배지분 자본,11515000000,USD,공시,https://www.sec.gov/Archives/edgar/data/909832/000090983214000008/,,3
+Costco,COST,2014Q1,2014-02-14,분기말 종가,116.1,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/COST?interval=1d&events=splits (2014-02-14),,3
+Costco,COST,2014Q1,2014-03-07,분기말 상장주식수,439877548,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/909832/000090983214000008/,dei:EntityCommonStockSharesOutstanding 클래스 합,3
+Costco,COST,2014Q1,2014-02-14,분기말 시가총액,51069783323,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/COST?interval=1d&events=splits (2014-02-14) ; https://www.sec.gov/Archives/edgar/data/909832/000090983214000008/,종가 116.1 × 주식수 439877548,3
+Costco,COST,2014Q2,2014-05-11,분기별 매출액,25794000000,USD,공시,https://www.sec.gov/Archives/edgar/data/909832/000090983214000015/,,3
+Costco,COST,2014Q2,2014-05-11,분기별 영업이익,737000000,USD,공시,https://www.sec.gov/Archives/edgar/data/909832/000090983214000015/,,3
+Costco,COST,2014Q2,2014-05-11,분기별 당기순이익(지배),473000000,USD,공시,https://www.sec.gov/Archives/edgar/data/909832/000090983214000015/,,3
+Costco,COST,2014Q2,2014-05-11,분기별 영업활동현금흐름,1490000000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/909832/000090983214000015/ ; https://www.sec.gov/Archives/edgar/data/909832/000090983214000008/,누적 3142000000 − 직전누적 1652000000 (시작 2013-09-02),3
+Costco,COST,2014Q2,2014-05-11,분기말 자산총계,32701000000,USD,공시,https://www.sec.gov/Archives/edgar/data/909832/000090983214000015/,,3
+Costco,COST,2014Q2,2014-05-11,분기말 부채총계,20680000000,USD,공시,https://www.sec.gov/Archives/edgar/data/909832/000090983214000015/,,3
+Costco,COST,2014Q2,2014-05-11,분기말 총자본(자기자본),12021000000,USD,공시,https://www.sec.gov/Archives/edgar/data/909832/000090983214000015/,,3
+Costco,COST,2014Q2,2014-05-11,분기말 지배지분 자본,11819000000,USD,공시,https://www.sec.gov/Archives/edgar/data/909832/000090983214000015/,,3
+Costco,COST,2014Q2,2014-05-09,분기말 종가,115.39,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/COST?interval=1d&events=splits (2014-05-09),,3
+Costco,COST,2014Q2,2014-05-28,분기말 상장주식수,438295696,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/909832/000090983214000015/,dei:EntityCommonStockSharesOutstanding 클래스 합,3
+Costco,COST,2014Q2,2014-05-09,분기말 시가총액,50574940361,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/COST?interval=1d&events=splits (2014-05-09) ; https://www.sec.gov/Archives/edgar/data/909832/000090983214000015/,종가 115.39 × 주식수 438295696,3
+Costco,COST,2014Q3,2014-08-31,분기별 매출액,35523000000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/909832/000090983214000021/ ; https://www.sec.gov/Archives/edgar/data/909832/000090983214000015/,연간 112640000000 − 9개월누적 77117000000 (Revenues),3
+Costco,COST,2014Q3,2014-08-31,분기별 영업이익,1091000000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/909832/000090983214000021/ ; https://www.sec.gov/Archives/edgar/data/909832/000090983214000015/,연간 3220000000 − 9개월누적 2129000000 (OperatingIncomeLoss),3
+Costco,COST,2014Q3,2014-08-31,분기별 당기순이익(지배),697000000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/909832/000090983214000021/ ; https://www.sec.gov/Archives/edgar/data/909832/000090983214000015/,연간 2058000000 − 9개월누적 1361000000 (NetIncomeLoss),3
+Costco,COST,2014Q3,2014-08-31,분기별 영업활동현금흐름,842000000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/909832/000090983214000021/ ; https://www.sec.gov/Archives/edgar/data/909832/000090983214000015/,누적 3984000000 − 직전누적 3142000000 (시작 2013-09-02),3
+Costco,COST,2014Q3,2014-08-31,분기말 자산총계,33024000000,USD,공시,https://www.sec.gov/Archives/edgar/data/909832/000090983214000021/,,3
+Costco,COST,2014Q3,2014-08-31,분기말 부채총계,20509000000,USD,공시,https://www.sec.gov/Archives/edgar/data/909832/000090983214000021/,,3
+Costco,COST,2014Q3,2014-08-31,분기말 총자본(자기자본),12515000000,USD,공시,https://www.sec.gov/Archives/edgar/data/909832/000090983214000021/,,3
+Costco,COST,2014Q3,2014-08-31,분기말 지배지분 자본,12303000000,USD,공시,https://www.sec.gov/Archives/edgar/data/909832/000090983214000021/,,3
+Costco,COST,2014Q3,2014-08-29,분기말 종가,121.08,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/COST?interval=1d&events=splits (2014-08-29),,3
+Costco,COST,2014Q3,2014-10-08,분기말 상장주식수,437762068,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/909832/000090983214000021/,dei:EntityCommonStockSharesOutstanding 클래스 합,3
+Costco,COST,2014Q3,2014-08-29,분기말 시가총액,53004231193,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/COST?interval=1d&events=splits (2014-08-29) ; https://www.sec.gov/Archives/edgar/data/909832/000090983214000021/,종가 121.08 × 주식수 437762068,3
+Costco,COST,2014Q4,2014-11-23,분기별 매출액,26866000000,USD,공시,https://www.sec.gov/Archives/edgar/data/909832/000090983214000026/,,3
+Costco,COST,2014Q4,2014-11-23,분기별 영업이익,770000000,USD,공시,https://www.sec.gov/Archives/edgar/data/909832/000090983214000026/,,3
+Costco,COST,2014Q4,2014-11-23,분기별 당기순이익(지배),496000000,USD,공시,https://www.sec.gov/Archives/edgar/data/909832/000090983214000026/,,3
+Costco,COST,2014Q4,2014-11-23,분기별 영업활동현금흐름,1128000000,USD,공시,https://www.sec.gov/Archives/edgar/data/909832/000090983214000026/,,3
+Costco,COST,2014Q4,2014-11-23,분기말 자산총계,34613000000,USD,공시,https://www.sec.gov/Archives/edgar/data/909832/000090983214000026/,,3
+Costco,COST,2014Q4,2014-11-23,분기말 부채총계,22043000000,USD,공시,https://www.sec.gov/Archives/edgar/data/909832/000090983214000026/,,3
+Costco,COST,2014Q4,2014-11-23,분기말 총자본(자기자본),12570000000,USD,공시,https://www.sec.gov/Archives/edgar/data/909832/000090983214000026/,,3
+Costco,COST,2014Q4,2014-11-23,분기말 지배지분 자본,12359000000,USD,공시,https://www.sec.gov/Archives/edgar/data/909832/000090983214000026/,,3
+Costco,COST,2014Q4,2014-11-21,분기말 종가,139.72,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/COST?interval=1d&events=splits (2014-11-21),,3
+Costco,COST,2014Q4,2014-12-11,분기말 상장주식수,440504400,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/909832/000090983214000026/,dei:EntityCommonStockSharesOutstanding 클래스 합,3
+Costco,COST,2014Q4,2014-11-21,분기말 시가총액,61547274768,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/COST?interval=1d&events=splits (2014-11-21) ; https://www.sec.gov/Archives/edgar/data/909832/000090983214000026/,종가 139.72 × 주식수 440504400,3
+Costco,COST,2015Q1,2015-02-15,분기별 매출액,27454000000,USD,공시,https://www.sec.gov/Archives/edgar/data/909832/000090983215000003/,,3
+Costco,COST,2015Q1,2015-02-15,분기별 영업이익,877000000,USD,공시,https://www.sec.gov/Archives/edgar/data/909832/000090983215000003/,,3
+Costco,COST,2015Q1,2015-02-15,분기별 당기순이익(지배),598000000,USD,공시,https://www.sec.gov/Archives/edgar/data/909832/000090983215000003/,,3
+Costco,COST,2015Q1,2015-02-15,분기별 영업활동현금흐름,900000000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/909832/000090983215000003/ ; https://www.sec.gov/Archives/edgar/data/909832/000090983214000026/,누적 2028000000 − 직전누적 1128000000 (시작 2014-09-01),3
+Costco,COST,2015Q1,2015-02-15,분기말 자산총계,33600000000,USD,공시,https://www.sec.gov/Archives/edgar/data/909832/000090983215000003/,,3
+Costco,COST,2015Q1,2015-02-15,분기말 부채총계,23175000000,USD,공시,https://www.sec.gov/Archives/edgar/data/909832/000090983215000003/,,3
+Costco,COST,2015Q1,2015-02-15,분기말 총자본(자기자본),10425000000,USD,공시,https://www.sec.gov/Archives/edgar/data/909832/000090983215000003/,,3
+Costco,COST,2015Q1,2015-02-15,분기말 지배지분 자본,10206000000,USD,공시,https://www.sec.gov/Archives/edgar/data/909832/000090983215000003/,,3
+Costco,COST,2015Q1,2015-02-13,분기말 종가,147.1,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/COST?interval=1d&events=splits (2015-02-13),,3
+Costco,COST,2015Q1,2015-03-04,분기말 상장주식수,439974264,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/909832/000090983215000003/,dei:EntityCommonStockSharesOutstanding 클래스 합,3
+Costco,COST,2015Q1,2015-02-13,분기말 시가총액,64720214234,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/COST?interval=1d&events=splits (2015-02-13) ; https://www.sec.gov/Archives/edgar/data/909832/000090983215000003/,종가 147.1 × 주식수 439974264,3
+Costco,COST,2015Q2,2015-05-10,분기별 매출액,26101000000,USD,공시,https://www.sec.gov/Archives/edgar/data/909832/000090983215000008/,,3
+Costco,COST,2015Q2,2015-05-10,분기별 영업이익,821000000,USD,공시,https://www.sec.gov/Archives/edgar/data/909832/000090983215000008/,,3
+Costco,COST,2015Q2,2015-05-10,분기별 당기순이익(지배),516000000,USD,공시,https://www.sec.gov/Archives/edgar/data/909832/000090983215000008/,,3
+Costco,COST,2015Q2,2015-05-10,분기별 영업활동현금흐름,1229000000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/909832/000090983215000008/ ; https://www.sec.gov/Archives/edgar/data/909832/000090983215000003/,누적 3257000000 − 직전누적 2028000000 (시작 2014-09-01),3
+Costco,COST,2015Q2,2015-05-10,분기말 자산총계,33491000000,USD,공시,https://www.sec.gov/Archives/edgar/data/909832/000090983215000008/,,3
+Costco,COST,2015Q2,2015-05-10,분기말 부채총계,22677000000,USD,공시,https://www.sec.gov/Archives/edgar/data/909832/000090983215000008/,,3
+Costco,COST,2015Q2,2015-05-10,분기말 총자본(자기자본),10814000000,USD,공시,https://www.sec.gov/Archives/edgar/data/909832/000090983215000008/,,3
+Costco,COST,2015Q2,2015-05-10,분기말 지배지분 자본,10587000000,USD,공시,https://www.sec.gov/Archives/edgar/data/909832/000090983215000008/,,3
+Costco,COST,2015Q2,2015-05-08,분기말 종가,145.88,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/COST?interval=1d&events=splits (2015-05-08),,3
+Costco,COST,2015Q2,2015-05-27,분기말 상장주식수,439487656,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/909832/000090983215000008/,dei:EntityCommonStockSharesOutstanding 클래스 합,3
+Costco,COST,2015Q2,2015-05-08,분기말 시가총액,64112459257,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/COST?interval=1d&events=splits (2015-05-08) ; https://www.sec.gov/Archives/edgar/data/909832/000090983215000008/,종가 145.88 × 주식수 439487656,3
+Costco,COST,2015Q3,2015-08-30,분기별 매출액,35778000000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/909832/000090983215000014/ ; https://www.sec.gov/Archives/edgar/data/909832/000090983215000008/,연간 116199000000 − 9개월누적 80421000000 (Revenues),3
+Costco,COST,2015Q3,2015-08-30,분기별 영업이익,1156000000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/909832/000090983215000014/ ; https://www.sec.gov/Archives/edgar/data/909832/000090983215000008/,연간 3624000000 − 9개월누적 2468000000 (OperatingIncomeLoss),3
+Costco,COST,2015Q3,2015-08-30,분기별 당기순이익(지배),767000000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/909832/000090983215000014/ ; https://www.sec.gov/Archives/edgar/data/909832/000090983215000008/,연간 2377000000 − 9개월누적 1610000000 (NetIncomeLoss),3
+Costco,COST,2015Q3,2015-08-30,분기별 영업활동현금흐름,1028000000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/909832/000090983215000014/ ; https://www.sec.gov/Archives/edgar/data/909832/000090983215000008/,누적 4285000000 − 직전누적 3257000000 (시작 2014-09-01),3
+Costco,COST,2015Q3,2015-08-30,분기말 자산총계,33017000000,USD,공시(재작성 반영),https://www.sec.gov/Archives/edgar/data/909832/000090983217000014/,원 공시 33440000000 (https://www.sec.gov/Archives/edgar/data/909832/000090983215000014/),3
+Costco,COST,2015Q3,2015-08-30,분기말 부채총계,22174000000,USD,공시(재작성 반영),https://www.sec.gov/Archives/edgar/data/909832/000090983216000032/,원 공시 22597000000 (https://www.sec.gov/Archives/edgar/data/909832/000090983215000014/),3
+Costco,COST,2015Q3,2015-08-30,분기말 총자본(자기자본),10843000000,USD,공시,https://www.sec.gov/Archives/edgar/data/909832/000090983215000014/,,3
+Costco,COST,2015Q3,2015-08-30,분기말 지배지분 자본,10617000000,USD,공시,https://www.sec.gov/Archives/edgar/data/909832/000090983215000014/,,3
+Costco,COST,2015Q3,2015-08-28,분기말 종가,139.95,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/COST?interval=1d&events=splits (2015-08-28),,3
+Costco,COST,2015Q3,2015-10-05,분기말 상장주식수,437406636,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/909832/000090983215000014/,dei:EntityCommonStockSharesOutstanding 클래스 합,3
+Costco,COST,2015Q3,2015-08-28,분기말 시가총액,61215058708,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/COST?interval=1d&events=splits (2015-08-28) ; https://www.sec.gov/Archives/edgar/data/909832/000090983215000014/,종가 139.95 × 주식수 437406636,3
+Costco,COST,2015Q4,2015-11-22,분기별 매출액,27220000000,USD,공시,https://www.sec.gov/Archives/edgar/data/909832/000090983215000017/,,3
+Costco,COST,2015Q4,2015-11-22,분기별 영업이익,767000000,USD,공시,https://www.sec.gov/Archives/edgar/data/909832/000090983215000017/,,3
+Costco,COST,2015Q4,2015-11-22,분기별 당기순이익(지배),480000000,USD,공시,https://www.sec.gov/Archives/edgar/data/909832/000090983215000017/,,3
+Costco,COST,2015Q4,2015-11-22,분기별 영업활동현금흐름,811000000,USD,공시,https://www.sec.gov/Archives/edgar/data/909832/000090983215000017/,,3
+Costco,COST,2015Q4,2015-11-22,분기말 자산총계,35451000000,USD,공시,https://www.sec.gov/Archives/edgar/data/909832/000090983215000017/,,3
+Costco,COST,2015Q4,2015-11-22,분기말 부채총계,24371000000,USD,공시,https://www.sec.gov/Archives/edgar/data/909832/000090983215000017/,,3
+Costco,COST,2015Q4,2015-11-22,분기말 총자본(자기자본),11080000000,USD,공시,https://www.sec.gov/Archives/edgar/data/909832/000090983215000017/,,3
+Costco,COST,2015Q4,2015-11-22,분기말 지배지분 자본,10848000000,USD,공시,https://www.sec.gov/Archives/edgar/data/909832/000090983215000017/,,3
+Costco,COST,2015Q4,2015-11-20,분기말 종가,163.1,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/COST?interval=1d&events=splits (2015-11-20),,3
+Costco,COST,2015Q4,2015-12-10,분기말 상장주식수,439777272,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/909832/000090983215000017/,dei:EntityCommonStockSharesOutstanding 클래스 합,3
+Costco,COST,2015Q4,2015-11-20,분기말 시가총액,71727673063,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/COST?interval=1d&events=splits (2015-11-20) ; https://www.sec.gov/Archives/edgar/data/909832/000090983215000017/,종가 163.1 × 주식수 439777272,3
+Costco,COST,2016Q1,2016-02-14,분기별 매출액,28170000000,USD,공시,https://www.sec.gov/Archives/edgar/data/909832/000090983216000023/,,3
+Costco,COST,2016Q1,2016-02-14,분기별 영업이익,856000000,USD,공시,https://www.sec.gov/Archives/edgar/data/909832/000090983216000023/,,3
+Costco,COST,2016Q1,2016-02-14,분기별 당기순이익(지배),546000000,USD,공시,https://www.sec.gov/Archives/edgar/data/909832/000090983216000023/,,3
+Costco,COST,2016Q1,2016-02-14,분기별 영업활동현금흐름,791000000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/909832/000090983216000023/ ; https://www.sec.gov/Archives/edgar/data/909832/000090983215000017/,누적 1602000000 − 직전누적 811000000 (시작 2015-08-31),3
+Costco,COST,2016Q1,2016-02-14,분기말 자산총계,32388000000,USD,공시,https://www.sec.gov/Archives/edgar/data/909832/000090983216000023/,,3
+Costco,COST,2016Q1,2016-02-14,분기말 부채총계,21154000000,USD,공시,https://www.sec.gov/Archives/edgar/data/909832/000090983216000023/,,3
+Costco,COST,2016Q1,2016-02-14,분기말 총자본(자기자본),11234000000,USD,공시,https://www.sec.gov/Archives/edgar/data/909832/000090983216000023/,,3
+Costco,COST,2016Q1,2016-02-14,분기말 지배지분 자본,11000000000,USD,공시,https://www.sec.gov/Archives/edgar/data/909832/000090983216000023/,,3
+Costco,COST,2016Q1,2016-02-12,분기말 종가,148.65,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/COST?interval=1d&events=splits (2016-02-12),,3
+Costco,COST,2016Q1,2016-03-02,분기말 상장주식수,439035055,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/909832/000090983216000023/,dei:EntityCommonStockSharesOutstanding 클래스 합,3
+Costco,COST,2016Q1,2016-02-12,분기말 시가총액,65262560926,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/COST?interval=1d&events=splits (2016-02-12) ; https://www.sec.gov/Archives/edgar/data/909832/000090983216000023/,종가 148.65 × 주식수 439035055,3
+Costco,COST,2016Q2,2016-05-08,분기별 매출액,26769000000,USD,공시,https://www.sec.gov/Archives/edgar/data/909832/000090983216000028/,,3
+Costco,COST,2016Q2,2016-05-08,분기별 영업이익,858000000,USD,공시,https://www.sec.gov/Archives/edgar/data/909832/000090983216000028/,,3
+Costco,COST,2016Q2,2016-05-08,분기별 당기순이익(지배),545000000,USD,공시,https://www.sec.gov/Archives/edgar/data/909832/000090983216000028/,,3
+Costco,COST,2016Q2,2016-05-08,분기별 영업활동현금흐름,1859000000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/909832/000090983216000028/ ; https://www.sec.gov/Archives/edgar/data/909832/000090983216000023/,누적 3461000000 − 직전누적 1602000000 (시작 2015-08-31),3
+Costco,COST,2016Q2,2016-05-08,분기말 자산총계,33873000000,USD,공시,https://www.sec.gov/Archives/edgar/data/909832/000090983216000028/,,3
+Costco,COST,2016Q2,2016-05-08,분기말 부채총계,22125000000,USD,공시,https://www.sec.gov/Archives/edgar/data/909832/000090983216000028/,,3
+Costco,COST,2016Q2,2016-05-08,분기말 총자본(자기자본),11748000000,USD,공시,https://www.sec.gov/Archives/edgar/data/909832/000090983216000028/,,3
+Costco,COST,2016Q2,2016-05-08,분기말 지배지분 자본,11505000000,USD,공시,https://www.sec.gov/Archives/edgar/data/909832/000090983216000028/,,3
+Costco,COST,2016Q2,2016-05-06,분기말 종가,146.44,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/COST?interval=1d&events=splits (2016-05-06),,3
+Costco,COST,2016Q2,2016-05-25,분기말 상장주식수,438065563,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/909832/000090983216000028/,dei:EntityCommonStockSharesOutstanding 클래스 합,3
+Costco,COST,2016Q2,2016-05-06,분기말 시가총액,64150321046,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/COST?interval=1d&events=splits (2016-05-06) ; https://www.sec.gov/Archives/edgar/data/909832/000090983216000028/,종가 146.44 × 주식수 438065563,3
+Costco,COST,2016Q3,2016-08-28,분기별 매출액,36560000000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/909832/000090983216000032/ ; https://www.sec.gov/Archives/edgar/data/909832/000090983216000028/,연간 118719000000 − 9개월누적 82159000000 (Revenues),3
+Costco,COST,2016Q3,2016-08-28,분기별 영업이익,1191000000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/909832/000090983216000032/ ; https://www.sec.gov/Archives/edgar/data/909832/000090983216000028/,연간 3672000000 − 9개월누적 2481000000 (OperatingIncomeLoss),3
+Costco,COST,2016Q3,2016-08-28,분기별 당기순이익(지배),779000000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/909832/000090983216000032/ ; https://www.sec.gov/Archives/edgar/data/909832/000090983216000028/,연간 2350000000 − 9개월누적 1571000000 (NetIncomeLoss),3
+Costco,COST,2016Q3,2016-08-28,분기별 영업활동현금흐름,-169000000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/909832/000090983216000032/ ; https://www.sec.gov/Archives/edgar/data/909832/000090983216000028/,누적 3292000000 − 직전누적 3461000000 (시작 2015-08-31),3
+Costco,COST,2016Q3,2016-08-28,분기말 자산총계,33163000000,USD,공시,https://www.sec.gov/Archives/edgar/data/909832/000090983216000032/,,3
+Costco,COST,2016Q3,2016-08-28,분기말 부채총계,20831000000,USD,공시,https://www.sec.gov/Archives/edgar/data/909832/000090983216000032/,,3
+Costco,COST,2016Q3,2016-08-28,분기말 총자본(자기자본),12332000000,USD,공시,https://www.sec.gov/Archives/edgar/data/909832/000090983216000032/,,3
+Costco,COST,2016Q3,2016-08-28,분기말 지배지분 자본,12079000000,USD,공시,https://www.sec.gov/Archives/edgar/data/909832/000090983216000032/,,3
+Costco,COST,2016Q3,2016-08-26,분기말 종가,163.93,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/COST?interval=1d&events=splits (2016-08-26),,3
+Costco,COST,2016Q3,2016-10-04,분기말 상장주식수,437126569,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/909832/000090983216000032/,dei:EntityCommonStockSharesOutstanding 클래스 합,3
+Costco,COST,2016Q3,2016-08-26,분기말 시가총액,71658158456,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/COST?interval=1d&events=splits (2016-08-26) ; https://www.sec.gov/Archives/edgar/data/909832/000090983216000032/,종가 163.93 × 주식수 437126569,3
+Costco,COST,2016Q4,2016-11-20,분기별 매출액,28099000000,USD,공시,https://www.sec.gov/Archives/edgar/data/909832/000090983216000040/,,3
+Costco,COST,2016Q4,2016-11-20,분기별 영업이익,849000000,USD,공시,https://www.sec.gov/Archives/edgar/data/909832/000090983216000040/,,3
+Costco,COST,2016Q4,2016-11-20,분기별 당기순이익(지배),545000000,USD,공시,https://www.sec.gov/Archives/edgar/data/909832/000090983216000040/,,3
+Costco,COST,2016Q4,2016-11-20,분기별 영업활동현금흐름,2793000000,USD,공시,https://www.sec.gov/Archives/edgar/data/909832/000090983216000040/,,3
+Costco,COST,2016Q4,2016-11-20,분기말 자산총계,36532000000,USD,공시,https://www.sec.gov/Archives/edgar/data/909832/000090983216000040/,,3
+Costco,COST,2016Q4,2016-11-20,분기말 부채총계,24301000000,USD,공시,https://www.sec.gov/Archives/edgar/data/909832/000090983216000040/,,3
+Costco,COST,2016Q4,2016-11-20,분기말 총자본(자기자본),12231000000,USD,공시,https://www.sec.gov/Archives/edgar/data/909832/000090983216000040/,,3
+Costco,COST,2016Q4,2016-11-20,분기말 지배지분 자본,11973000000,USD,공시,https://www.sec.gov/Archives/edgar/data/909832/000090983216000040/,,3
+Costco,COST,2016Q4,2016-11-18,분기말 종가,150.36,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/COST?interval=1d&events=splits (2016-11-18),,3
+Costco,COST,2016Q4,2016-12-08,분기말 상장주식수,439240344,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/909832/000090983216000040/,dei:EntityCommonStockSharesOutstanding 클래스 합,3
+Costco,COST,2016Q4,2016-11-18,분기말 시가총액,66044178124,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/COST?interval=1d&events=splits (2016-11-18) ; https://www.sec.gov/Archives/edgar/data/909832/000090983216000040/,종가 150.36 × 주식수 439240344,3
+Costco,COST,2017Q1,2017-02-12,분기별 매출액,29766000000,USD,공시,https://www.sec.gov/Archives/edgar/data/909832/000090983217000004/,,3
+Costco,COST,2017Q1,2017-02-12,분기별 영업이익,844000000,USD,공시,https://www.sec.gov/Archives/edgar/data/909832/000090983217000004/,,3
+Costco,COST,2017Q1,2017-02-12,분기별 당기순이익(지배),515000000,USD,공시,https://www.sec.gov/Archives/edgar/data/909832/000090983217000004/,,3
+Costco,COST,2017Q1,2017-02-12,분기별 영업활동현금흐름,493000000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/909832/000090983217000004/ ; https://www.sec.gov/Archives/edgar/data/909832/000090983216000040/,누적 3286000000 − 직전누적 2793000000 (시작 2016-08-29),3
+Costco,COST,2017Q1,2017-02-12,분기말 자산총계,35630000000,USD,공시,https://www.sec.gov/Archives/edgar/data/909832/000090983217000004/,,3
+Costco,COST,2017Q1,2017-02-12,분기말 부채총계,22918000000,USD,공시,https://www.sec.gov/Archives/edgar/data/909832/000090983217000004/,,3
+Costco,COST,2017Q1,2017-02-12,분기말 총자본(자기자본),12712000000,USD,공시,https://www.sec.gov/Archives/edgar/data/909832/000090983217000004/,,3
+Costco,COST,2017Q1,2017-02-12,분기말 지배지분 자본,12440000000,USD,공시,https://www.sec.gov/Archives/edgar/data/909832/000090983217000004/,,3
+Costco,COST,2017Q1,2017-02-10,분기말 종가,172.0,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/COST?interval=1d&events=splits (2017-02-10),,3
+Costco,COST,2017Q1,2017-03-01,분기말 상장주식수,438941216,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/909832/000090983217000004/,dei:EntityCommonStockSharesOutstanding 클래스 합,3
+Costco,COST,2017Q1,2017-02-10,분기말 시가총액,75497889152,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/COST?interval=1d&events=splits (2017-02-10) ; https://www.sec.gov/Archives/edgar/data/909832/000090983217000004/,종가 172.0 × 주식수 438941216,3
+Costco,COST,2017Q2,2017-05-07,분기별 매출액,28860000000,USD,공시,https://www.sec.gov/Archives/edgar/data/909832/000090983217000009/,,3
+Costco,COST,2017Q2,2017-05-07,분기별 영업이익,968000000,USD,공시,https://www.sec.gov/Archives/edgar/data/909832/000090983217000009/,,3
+Costco,COST,2017Q2,2017-05-07,분기별 당기순이익(지배),700000000,USD,공시,https://www.sec.gov/Archives/edgar/data/909832/000090983217000009/,,3
+Costco,COST,2017Q2,2017-05-07,분기별 영업활동현금흐름,1606000000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/909832/000090983217000009/ ; https://www.sec.gov/Archives/edgar/data/909832/000090983217000004/,누적 4892000000 − 직전누적 3286000000 (시작 2016-08-29),3
+Costco,COST,2017Q2,2017-05-07,분기말 자산총계,35631000000,USD,공시,https://www.sec.gov/Archives/edgar/data/909832/000090983217000009/,,3
+Costco,COST,2017Q2,2017-05-07,분기말 부채총계,25446000000,USD,공시,https://www.sec.gov/Archives/edgar/data/909832/000090983217000009/,,3
+Costco,COST,2017Q2,2017-05-07,분기말 총자본(자기자본),10185000000,USD,공시,https://www.sec.gov/Archives/edgar/data/909832/000090983217000009/,,3
+Costco,COST,2017Q2,2017-05-07,분기말 지배지분 자본,9898000000,USD,공시,https://www.sec.gov/Archives/edgar/data/909832/000090983217000009/,,3
+Costco,COST,2017Q2,2017-05-05,분기말 종가,180.2,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/COST?interval=1d&events=splits (2017-05-05),,3
+Costco,COST,2017Q2,2017-05-24,분기말 상장주식수,438593340,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/909832/000090983217000009/,dei:EntityCommonStockSharesOutstanding 클래스 합,3
+Costco,COST,2017Q2,2017-05-05,분기말 시가총액,79034519868,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/COST?interval=1d&events=splits (2017-05-05) ; https://www.sec.gov/Archives/edgar/data/909832/000090983217000009/,종가 180.2 × 주식수 438593340,3
+Costco,COST,2017Q3,2017-09-03,분기별 매출액,42300000000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/909832/000090983217000014/ ; https://www.sec.gov/Archives/edgar/data/909832/000090983217000009/,연간 129025000000 − 9개월누적 86725000000 (Revenues),3
+Costco,COST,2017Q3,2017-09-03,분기별 영업이익,1450000000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/909832/000090983217000014/ ; https://www.sec.gov/Archives/edgar/data/909832/000090983217000009/,연간 4111000000 − 9개월누적 2661000000 (OperatingIncomeLoss),3
+Costco,COST,2017Q3,2017-09-03,분기별 당기순이익(지배),919000000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/909832/000090983217000014/ ; https://www.sec.gov/Archives/edgar/data/909832/000090983217000009/,연간 2679000000 − 9개월누적 1760000000 (NetIncomeLoss),3
+Costco,COST,2017Q3,2017-09-03,분기별 영업활동현금흐름,1834000000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/909832/000090983217000014/ ; https://www.sec.gov/Archives/edgar/data/909832/000090983217000009/,누적 6726000000 − 직전누적 4892000000 (시작 2016-08-29),3
+Costco,COST,2017Q3,2017-09-03,분기말 자산총계,36347000000,USD,공시,https://www.sec.gov/Archives/edgar/data/909832/000090983217000014/,,3
+Costco,COST,2017Q3,2017-09-03,분기말 부채총계,25268000000,USD,공시,https://www.sec.gov/Archives/edgar/data/909832/000090983217000014/,,3
+Costco,COST,2017Q3,2017-09-03,분기말 총자본(자기자본),11079000000,USD,공시,https://www.sec.gov/Archives/edgar/data/909832/000090983217000014/,,3
+Costco,COST,2017Q3,2017-09-03,분기말 지배지분 자본,10778000000,USD,공시,https://www.sec.gov/Archives/edgar/data/909832/000090983217000014/,,3
+Costco,COST,2017Q3,2017-09-01,분기말 종가,158.24,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/COST?interval=1d&events=splits (2017-09-01),,3
+Costco,COST,2017Q3,2017-10-10,분기말 상장주식수,436989606,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/909832/000090983217000014/,dei:EntityCommonStockSharesOutstanding 클래스 합,3
+Costco,COST,2017Q3,2017-09-01,분기말 시가총액,69149235253,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/COST?interval=1d&events=splits (2017-09-01) ; https://www.sec.gov/Archives/edgar/data/909832/000090983217000014/,종가 158.24 × 주식수 436989606,3
+Costco,COST,2017Q4,2017-11-26,분기별 매출액,31809000000,USD,공시,https://www.sec.gov/Archives/edgar/data/909832/000090983217000022/,,3
+Costco,COST,2017Q4,2017-11-26,분기별 영업이익,951000000,USD,공시,https://www.sec.gov/Archives/edgar/data/909832/000090983217000022/,,3
+Costco,COST,2017Q4,2017-11-26,분기별 당기순이익(지배),640000000,USD,공시,https://www.sec.gov/Archives/edgar/data/909832/000090983217000022/,,3
+Costco,COST,2017Q4,2017-11-26,분기별 영업활동현금흐름,2006000000,USD,공시,https://www.sec.gov/Archives/edgar/data/909832/000090983217000022/,,3
+Costco,COST,2017Q4,2017-11-26,분기말 자산총계,39378000000,USD,공시,https://www.sec.gov/Archives/edgar/data/909832/000090983217000022/,,3
+Costco,COST,2017Q4,2017-11-26,분기말 부채총계,28022000000,USD,공시,https://www.sec.gov/Archives/edgar/data/909832/000090983217000022/,,3
+Costco,COST,2017Q4,2017-11-26,분기말 총자본(자기자본),11356000000,USD,공시,https://www.sec.gov/Archives/edgar/data/909832/000090983217000022/,,3
+Costco,COST,2017Q4,2017-11-26,분기말 지배지분 자본,11078000000,USD,공시,https://www.sec.gov/Archives/edgar/data/909832/000090983217000022/,,3
+Costco,COST,2017Q4,2017-11-24,분기말 종가,171.62,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/COST?interval=1d&events=splits (2017-11-24),,3
+Costco,COST,2017Q4,2017-12-13,분기말 상장주식수,439105871,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/909832/000090983217000022/,dei:EntityCommonStockSharesOutstanding 클래스 합,3
+Costco,COST,2017Q4,2017-11-24,분기말 시가총액,75359349581,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/COST?interval=1d&events=splits (2017-11-24) ; https://www.sec.gov/Archives/edgar/data/909832/000090983217000022/,종가 171.62 × 주식수 439105871,3
+Costco,COST,2018Q1,2018-02-18,분기별 매출액,32995000000,USD,공시,https://www.sec.gov/Archives/edgar/data/909832/000090983218000002/,,3
+Costco,COST,2018Q1,2018-02-18,분기별 영업이익,1016000000,USD,공시,https://www.sec.gov/Archives/edgar/data/909832/000090983218000002/,,3
+Costco,COST,2018Q1,2018-02-18,분기별 당기순이익(지배),701000000,USD,공시,https://www.sec.gov/Archives/edgar/data/909832/000090983218000002/,,3
+Costco,COST,2018Q1,2018-02-18,분기별 영업활동현금흐름,109000000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/909832/000090983218000002/ ; https://www.sec.gov/Archives/edgar/data/909832/000090983217000022/,누적 2115000000 − 직전누적 2006000000 (시작 2017-09-04),3
+Costco,COST,2018Q1,2018-02-18,분기말 자산총계,38703000000,USD,공시,https://www.sec.gov/Archives/edgar/data/909832/000090983218000002/,,3
+Costco,COST,2018Q1,2018-02-18,분기말 부채총계,26650000000,USD,공시,https://www.sec.gov/Archives/edgar/data/909832/000090983218000002/,,3
+Costco,COST,2018Q1,2018-02-18,분기말 총자본(자기자본),12053000000,USD,공시,https://www.sec.gov/Archives/edgar/data/909832/000090983218000002/,,3
+Costco,COST,2018Q1,2018-02-18,분기말 지배지분 자본,11754000000,USD,공시,https://www.sec.gov/Archives/edgar/data/909832/000090983218000002/,,3
+Costco,COST,2018Q1,2018-02-16,분기말 종가,191.56,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/COST?interval=1d&events=splits (2018-02-16),,3
+Costco,COST,2018Q1,2018-03-07,분기말 상장주식수,438820272,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/909832/000090983218000002/,dei:EntityCommonStockSharesOutstanding 클래스 합,3
+Costco,COST,2018Q1,2018-02-16,분기말 시가총액,84060411304,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/COST?interval=1d&events=splits (2018-02-16) ; https://www.sec.gov/Archives/edgar/data/909832/000090983218000002/,종가 191.56 × 주식수 438820272,3
+Costco,COST,2018Q2,2018-05-13,분기별 매출액,32361000000,USD,공시,https://www.sec.gov/Archives/edgar/data/909832/000090983218000008/,,3
+Costco,COST,2018Q2,2018-05-13,분기별 영업이익,1067000000,USD,공시,https://www.sec.gov/Archives/edgar/data/909832/000090983218000008/,,3
+Costco,COST,2018Q2,2018-05-13,분기별 당기순이익(지배),750000000,USD,공시,https://www.sec.gov/Archives/edgar/data/909832/000090983218000008/,,3
+Costco,COST,2018Q2,2018-05-13,분기별 영업활동현금흐름,2105000000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/909832/000090983218000008/ ; https://www.sec.gov/Archives/edgar/data/909832/000090983218000002/,누적 4220000000 − 직전누적 2115000000 (시작 2017-09-04),3
+Costco,COST,2018Q2,2018-05-13,분기말 자산총계,39605000000,USD,공시,https://www.sec.gov/Archives/edgar/data/909832/000090983218000008/,,3
+Costco,COST,2018Q2,2018-05-13,분기말 부채총계,27158000000,USD,공시,https://www.sec.gov/Archives/edgar/data/909832/000090983218000008/,,3
+Costco,COST,2018Q2,2018-05-13,분기말 총자본(자기자본),12447000000,USD,공시,https://www.sec.gov/Archives/edgar/data/909832/000090983218000008/,,3
+Costco,COST,2018Q2,2018-05-13,분기말 지배지분 자본,12143000000,USD,공시,https://www.sec.gov/Archives/edgar/data/909832/000090983218000008/,,3
+Costco,COST,2018Q2,2018-05-11,분기말 종가,195.76,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/COST?interval=1d&events=splits (2018-05-11),,3
+Costco,COST,2018Q2,2018-05-30,분기말 상장주식수,438541544,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/909832/000090983218000008/,dei:EntityCommonStockSharesOutstanding 클래스 합,3
+Costco,COST,2018Q2,2018-05-11,분기말 시가총액,85848892653,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/COST?interval=1d&events=splits (2018-05-11) ; https://www.sec.gov/Archives/edgar/data/909832/000090983218000008/,종가 195.76 × 주식수 438541544,3
+Costco,COST,2018Q3,2018-09-02,분기별 매출액,44411000000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/909832/000090983218000013/ ; https://www.sec.gov/Archives/edgar/data/909832/000090983218000008/,연간 141576000000 − 9개월누적 97165000000 (Revenues),3
+Costco,COST,2018Q3,2018-09-02,분기별 영업이익,1446000000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/909832/000090983218000013/ ; https://www.sec.gov/Archives/edgar/data/909832/000090983218000008/,연간 4480000000 − 9개월누적 3034000000 (OperatingIncomeLoss),3
+Costco,COST,2018Q3,2018-09-02,분기별 당기순이익(지배),1043000000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/909832/000090983218000013/ ; https://www.sec.gov/Archives/edgar/data/909832/000090983218000008/,연간 3134000000 − 9개월누적 2091000000 (NetIncomeLoss),3
+Costco,COST,2018Q3,2018-09-02,분기별 영업활동현금흐름,1554000000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/909832/000090983218000013/ ; https://www.sec.gov/Archives/edgar/data/909832/000090983218000008/,누적 5774000000 − 직전누적 4220000000 (시작 2017-09-04),3
+Costco,COST,2018Q3,2018-09-02,분기말 자산총계,40830000000,USD,공시,https://www.sec.gov/Archives/edgar/data/909832/000090983218000013/,,3
+Costco,COST,2018Q3,2018-09-02,분기말 부채총계,27727000000,USD,공시,https://www.sec.gov/Archives/edgar/data/909832/000090983218000013/,,3
+Costco,COST,2018Q3,2018-09-02,분기말 총자본(자기자본),13103000000,USD,공시,https://www.sec.gov/Archives/edgar/data/909832/000090983218000013/,,3
+Costco,COST,2018Q3,2018-09-02,분기말 지배지분 자본,12799000000,USD,공시,https://www.sec.gov/Archives/edgar/data/909832/000090983218000013/,,3
+Costco,COST,2018Q3,2018-08-31,분기말 종가,233.13,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/COST?interval=1d&events=splits (2018-08-31),,3
+Costco,COST,2018Q3,2018-10-18,분기말 상장주식수,438208376,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/909832/000090983218000013/,dei:EntityCommonStockSharesOutstanding 클래스 합,3
+Costco,COST,2018Q3,2018-08-31,분기말 시가총액,102159518697,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/COST?interval=1d&events=splits (2018-08-31) ; https://www.sec.gov/Archives/edgar/data/909832/000090983218000013/,종가 233.13 × 주식수 438208376,3
+Costco,COST,2018Q4,2018-11-25,분기별 매출액,35069000000,USD,공시,https://www.sec.gov/Archives/edgar/data/909832/000090983218000022/,,3
+Costco,COST,2018Q4,2018-11-25,분기별 영업이익,949000000,USD,공시,https://www.sec.gov/Archives/edgar/data/909832/000090983218000022/,,3
+Costco,COST,2018Q4,2018-11-25,분기별 당기순이익(지배),767000000,USD,공시,https://www.sec.gov/Archives/edgar/data/909832/000090983218000022/,,3
+Costco,COST,2018Q4,2018-11-25,분기별 영업활동현금흐름,2177000000,USD,공시,https://www.sec.gov/Archives/edgar/data/909832/000090983218000022/,,3
+Costco,COST,2018Q4,2018-11-25,분기말 자산총계,43814000000,USD,공시,https://www.sec.gov/Archives/edgar/data/909832/000090983218000022/,,3
+Costco,COST,2018Q4,2018-11-25,분기말 부채총계,30335000000,USD,공시,https://www.sec.gov/Archives/edgar/data/909832/000090983218000022/,,3
+Costco,COST,2018Q4,2018-11-25,분기말 총자본(자기자본),13479000000,USD,공시,https://www.sec.gov/Archives/edgar/data/909832/000090983218000022/,,3
+Costco,COST,2018Q4,2018-11-25,분기말 지배지분 자본,13167000000,USD,공시,https://www.sec.gov/Archives/edgar/data/909832/000090983218000022/,,3
+Costco,COST,2018Q4,2018-11-23,분기말 종가,220.06,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/COST?interval=1d&events=splits (2018-11-23),,3
+Costco,COST,2018Q4,2018-12-12,분기말 상장주식수,440490478,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/909832/000090983218000022/,dei:EntityCommonStockSharesOutstanding 클래스 합,3
+Costco,COST,2018Q4,2018-11-23,분기말 시가총액,96934334589,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/COST?interval=1d&events=splits (2018-11-23) ; https://www.sec.gov/Archives/edgar/data/909832/000090983218000022/,종가 220.06 × 주식수 440490478,3
+Costco,COST,2019Q1,2019-02-17,분기별 매출액,35396000000,USD,공시,https://www.sec.gov/Archives/edgar/data/909832/000090983219000003/,,3
+Costco,COST,2019Q1,2019-02-17,분기별 영업이익,1203000000,USD,공시,https://www.sec.gov/Archives/edgar/data/909832/000090983219000003/,,3
+Costco,COST,2019Q1,2019-02-17,분기별 당기순이익(지배),889000000,USD,공시,https://www.sec.gov/Archives/edgar/data/909832/000090983219000003/,,3
+Costco,COST,2019Q1,2019-02-17,분기별 영업활동현금흐름,-219000000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/909832/000090983219000003/ ; https://www.sec.gov/Archives/edgar/data/909832/000090983218000022/,누적 1958000000 − 직전누적 2177000000 (시작 2018-09-03),3
+Costco,COST,2019Q1,2019-02-17,분기말 자산총계,42799000000,USD,공시,https://www.sec.gov/Archives/edgar/data/909832/000090983219000003/,,3
+Costco,COST,2019Q1,2019-02-17,분기말 부채총계,28616000000,USD,공시,https://www.sec.gov/Archives/edgar/data/909832/000090983219000003/,,3
+Costco,COST,2019Q1,2019-02-17,분기말 총자본(자기자본),14183000000,USD,공시,https://www.sec.gov/Archives/edgar/data/909832/000090983219000003/,,3
+Costco,COST,2019Q1,2019-02-17,분기말 지배지분 자본,13858000000,USD,공시,https://www.sec.gov/Archives/edgar/data/909832/000090983219000003/,,3
+Costco,COST,2019Q1,2019-02-15,분기말 종가,216.47,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/COST?interval=1d&events=splits (2019-02-15),,3
+Costco,COST,2019Q1,2019-03-06,분기말 상장주식수,439880257,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/909832/000090983219000003/,dei:EntityCommonStockSharesOutstanding 클래스 합,3
+Costco,COST,2019Q1,2019-02-15,분기말 시가총액,95220879233,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/COST?interval=1d&events=splits (2019-02-15) ; https://www.sec.gov/Archives/edgar/data/909832/000090983219000003/,종가 216.47 × 주식수 439880257,3
+Costco,COST,2019Q2,2019-05-12,분기별 매출액,34740000000,USD,공시,https://www.sec.gov/Archives/edgar/data/909832/000090983219000013/,,3
+Costco,COST,2019Q2,2019-05-12,분기별 영업이익,1122000000,USD,공시,https://www.sec.gov/Archives/edgar/data/909832/000090983219000013/,,3
+Costco,COST,2019Q2,2019-05-12,분기별 당기순이익(지배),906000000,USD,공시,https://www.sec.gov/Archives/edgar/data/909832/000090983219000013/,,3
+Costco,COST,2019Q2,2019-05-12,분기별 영업활동현금흐름,2105000000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/909832/000090983219000013/ ; https://www.sec.gov/Archives/edgar/data/909832/000090983219000003/,누적 4063000000 − 직전누적 1958000000 (시작 2018-09-03),3
+Costco,COST,2019Q2,2019-05-12,분기말 자산총계,43752000000,USD,공시,https://www.sec.gov/Archives/edgar/data/909832/000090983219000013/,,3
+Costco,COST,2019Q2,2019-05-12,분기말 부채총계,28932000000,USD,공시,https://www.sec.gov/Archives/edgar/data/909832/000090983219000013/,,3
+Costco,COST,2019Q2,2019-05-12,분기말 총자본(자기자본),14820000000,USD,공시,https://www.sec.gov/Archives/edgar/data/909832/000090983219000013/,,3
+Costco,COST,2019Q2,2019-05-12,분기말 지배지분 자본,14486000000,USD,공시,https://www.sec.gov/Archives/edgar/data/909832/000090983219000013/,,3
+Costco,COST,2019Q2,2019-05-10,분기말 종가,247.02,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/COST?interval=1d&events=splits (2019-05-10),,3
+Costco,COST,2019Q2,2019-05-29,분기말 상장주식수,439789186,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/909832/000090983219000013/,dei:EntityCommonStockSharesOutstanding 클래스 합,3
+Costco,COST,2019Q2,2019-05-10,분기말 시가총액,108636724726,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/COST?interval=1d&events=splits (2019-05-10) ; https://www.sec.gov/Archives/edgar/data/909832/000090983219000013/,종가 247.02 × 주식수 439789186,3
+Costco,COST,2019Q3,2019-09-01,분기별 매출액,47498000000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/909832/000090983219000019/ ; https://www.sec.gov/Archives/edgar/data/909832/000090983219000013/,연간 152703000000 − 9개월누적 105205000000 (Revenues),3
+Costco,COST,2019Q3,2019-09-01,분기별 영업이익,1463000000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/909832/000090983219000019/ ; https://www.sec.gov/Archives/edgar/data/909832/000090983219000013/,연간 4737000000 − 9개월누적 3274000000 (OperatingIncomeLoss),3
+Costco,COST,2019Q3,2019-09-01,분기별 당기순이익(지배),1097000000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/909832/000090983219000019/ ; https://www.sec.gov/Archives/edgar/data/909832/000090983219000013/,연간 3659000000 − 9개월누적 2562000000 (NetIncomeLoss),3
+Costco,COST,2019Q3,2019-09-01,분기별 영업활동현금흐름,2293000000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/909832/000090983219000019/ ; https://www.sec.gov/Archives/edgar/data/909832/000090983219000013/,누적 6356000000 − 직전누적 4063000000 (시작 2018-09-03),3
+Costco,COST,2019Q3,2019-09-01,분기말 자산총계,45400000000,USD,공시,https://www.sec.gov/Archives/edgar/data/909832/000090983219000019/,,3
+Costco,COST,2019Q3,2019-09-01,분기말 부채총계,29816000000,USD,공시,https://www.sec.gov/Archives/edgar/data/909832/000090983219000019/,,3
+Costco,COST,2019Q3,2019-09-01,분기말 총자본(자기자본),15584000000,USD,공시,https://www.sec.gov/Archives/edgar/data/909832/000090983219000019/,,3
+Costco,COST,2019Q3,2019-09-01,분기말 지배지분 자본,15243000000,USD,공시,https://www.sec.gov/Archives/edgar/data/909832/000090983219000019/,,3
+Costco,COST,2019Q3,2019-08-30,분기말 종가,294.76,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/COST?interval=1d&events=splits (2019-08-30),,3
+Costco,COST,2019Q3,2019-10-03,분기말 상장주식수,439656950,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/909832/000090983219000019/,dei:EntityCommonStockSharesOutstanding 클래스 합,3
+Costco,COST,2019Q3,2019-08-30,분기말 시가총액,129593282582,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/COST?interval=1d&events=splits (2019-08-30) ; https://www.sec.gov/Archives/edgar/data/909832/000090983219000019/,종가 294.76 × 주식수 439656950,3
+Costco,COST,2019Q4,2019-11-24,분기별 매출액,37040000000,USD,공시,https://www.sec.gov/Archives/edgar/data/909832/000090983219000033/,,3
+Costco,COST,2019Q4,2019-11-24,분기별 영업이익,1061000000,USD,공시,https://www.sec.gov/Archives/edgar/data/909832/000090983219000033/,,3
+Costco,COST,2019Q4,2019-11-24,분기별 당기순이익(지배),844000000,USD,공시,https://www.sec.gov/Archives/edgar/data/909832/000090983219000033/,,3
+Costco,COST,2019Q4,2019-11-24,분기별 영업활동현금흐름,2102000000,USD,공시,https://www.sec.gov/Archives/edgar/data/909832/000090983219000033/,,3
+Costco,COST,2019Q4,2019-11-24,분기말 자산총계,51431000000,USD,공시,https://www.sec.gov/Archives/edgar/data/909832/000090983219000033/,,3
+Costco,COST,2019Q4,2019-11-24,분기말 부채총계,35207000000,USD,공시,https://www.sec.gov/Archives/edgar/data/909832/000090983219000033/,,3
+Costco,COST,2019Q4,2019-11-24,분기말 총자본(자기자본),16224000000,USD,공시,https://www.sec.gov/Archives/edgar/data/909832/000090983219000033/,,3
+Costco,COST,2019Q4,2019-11-24,분기말 지배지분 자본,15861000000,USD,공시,https://www.sec.gov/Archives/edgar/data/909832/000090983219000033/,,3
+Costco,COST,2019Q4,2019-11-22,분기말 종가,299.31,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/COST?interval=1d&events=splits (2019-11-22),,3
+Costco,COST,2019Q4,2019-12-11,분기말 상장주식수,441757627,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/909832/000090983219000033/,dei:EntityCommonStockSharesOutstanding 클래스 합,3
+Costco,COST,2019Q4,2019-11-22,분기말 시가총액,132222475337,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/COST?interval=1d&events=splits (2019-11-22) ; https://www.sec.gov/Archives/edgar/data/909832/000090983219000033/,종가 299.31 × 주식수 441757627,3
+Costco,COST,2020Q1,2020-02-16,분기별 매출액,39072000000,USD,공시,https://www.sec.gov/Archives/edgar/data/909832/000090983220000004/,,3
+Costco,COST,2020Q1,2020-02-16,분기별 영업이익,1266000000,USD,공시,https://www.sec.gov/Archives/edgar/data/909832/000090983220000004/,,3
+Costco,COST,2020Q1,2020-02-16,분기별 당기순이익(지배),931000000,USD,공시,https://www.sec.gov/Archives/edgar/data/909832/000090983220000004/,,3
+Costco,COST,2020Q1,2020-02-16,분기별 영업활동현금흐름,619000000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/909832/000090983220000004/ ; https://www.sec.gov/Archives/edgar/data/909832/000090983219000033/,누적 2721000000 − 직전누적 2102000000 (시작 2019-09-02),3
+Costco,COST,2020Q1,2020-02-16,분기말 자산총계,48782000000,USD,공시,https://www.sec.gov/Archives/edgar/data/909832/000090983220000004/,,3
+Costco,COST,2020Q1,2020-02-16,분기말 부채총계,31783000000,USD,공시,https://www.sec.gov/Archives/edgar/data/909832/000090983220000004/,,3
+Costco,COST,2020Q1,2020-02-16,분기말 총자본(자기자본),16999000000,USD,공시,https://www.sec.gov/Archives/edgar/data/909832/000090983220000004/,,3
+Costco,COST,2020Q1,2020-02-16,분기말 지배지분 자본,16614000000,USD,공시,https://www.sec.gov/Archives/edgar/data/909832/000090983220000004/,,3
+Costco,COST,2020Q1,2020-02-14,분기말 종가,318.31,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/COST?interval=1d&events=splits (2020-02-14),,3
+Costco,COST,2020Q1,2020-03-04,분기말 상장주식수,441579952,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/909832/000090983220000004/,dei:EntityCommonStockSharesOutstanding 클래스 합,3
+Costco,COST,2020Q1,2020-02-14,분기말 시가총액,140559314521,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/COST?interval=1d&events=splits (2020-02-14) ; https://www.sec.gov/Archives/edgar/data/909832/000090983220000004/,종가 318.31 × 주식수 441579952,3
+Costco,COST,2020Q2,2020-05-10,분기별 매출액,37266000000,USD,공시,https://www.sec.gov/Archives/edgar/data/909832/000090983220000009/,,3
+Costco,COST,2020Q2,2020-05-10,분기별 영업이익,1179000000,USD,공시,https://www.sec.gov/Archives/edgar/data/909832/000090983220000009/,,3
+Costco,COST,2020Q2,2020-05-10,분기별 당기순이익(지배),838000000,USD,공시,https://www.sec.gov/Archives/edgar/data/909832/000090983220000009/,,3
+Costco,COST,2020Q2,2020-05-10,분기별 영업활동현금흐름,1898000000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/909832/000090983220000009/ ; https://www.sec.gov/Archives/edgar/data/909832/000090983220000004/,누적 4619000000 − 직전누적 2721000000 (시작 2019-09-02),3
+Costco,COST,2020Q2,2020-05-10,분기말 자산총계,51732000000,USD,공시,https://www.sec.gov/Archives/edgar/data/909832/000090983220000009/,,3
+Costco,COST,2020Q2,2020-05-10,분기말 부채총계,34529000000,USD,공시,https://www.sec.gov/Archives/edgar/data/909832/000090983220000009/,,3
+Costco,COST,2020Q2,2020-05-10,분기말 총자본(자기자본),17203000000,USD,공시,https://www.sec.gov/Archives/edgar/data/909832/000090983220000009/,,3
+Costco,COST,2020Q2,2020-05-10,분기말 지배지분 자본,16802000000,USD,공시,https://www.sec.gov/Archives/edgar/data/909832/000090983220000009/,,3
+Costco,COST,2020Q2,2020-05-08,분기말 종가,305.94,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/COST?interval=1d&events=splits (2020-05-08),,3
+Costco,COST,2020Q2,2020-05-27,분기말 상장주식수,441523711,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/909832/000090983220000009/,dei:EntityCommonStockSharesOutstanding 클래스 합,3
+Costco,COST,2020Q2,2020-05-08,분기말 시가총액,135079764143,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/COST?interval=1d&events=splits (2020-05-08) ; https://www.sec.gov/Archives/edgar/data/909832/000090983220000009/,종가 305.94 × 주식수 441523711,3
+Costco,COST,2020Q3,2020-08-30,분기별 매출액,53383000000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/909832/000090983220000017/ ; https://www.sec.gov/Archives/edgar/data/909832/000090983220000009/,연간 166761000000 − 9개월누적 113378000000 (Revenues),3
+Costco,COST,2020Q3,2020-08-30,분기별 영업이익,1929000000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/909832/000090983220000017/ ; https://www.sec.gov/Archives/edgar/data/909832/000090983220000009/,연간 5435000000 − 9개월누적 3506000000 (OperatingIncomeLoss),3
+Costco,COST,2020Q3,2020-08-30,분기별 당기순이익(지배),1389000000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/909832/000090983220000017/ ; https://www.sec.gov/Archives/edgar/data/909832/000090983220000009/,연간 4002000000 − 9개월누적 2613000000 (NetIncomeLoss),3
+Costco,COST,2020Q3,2020-08-30,분기별 영업활동현금흐름,4242000000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/909832/000090983220000017/ ; https://www.sec.gov/Archives/edgar/data/909832/000090983220000009/,누적 8861000000 − 직전누적 4619000000 (시작 2019-09-02),3
+Costco,COST,2020Q3,2020-08-30,분기말 자산총계,55556000000,USD,공시,https://www.sec.gov/Archives/edgar/data/909832/000090983220000017/,,3
+Costco,COST,2020Q3,2020-08-30,분기말 부채총계,36851000000,USD,공시,https://www.sec.gov/Archives/edgar/data/909832/000090983220000017/,,3
+Costco,COST,2020Q3,2020-08-30,분기말 총자본(자기자본),18705000000,USD,공시,https://www.sec.gov/Archives/edgar/data/909832/000090983220000017/,,3
+Costco,COST,2020Q3,2020-08-30,분기말 지배지분 자본,18284000000,USD,공시,https://www.sec.gov/Archives/edgar/data/909832/000090983220000017/,,3
+Costco,COST,2020Q3,2020-08-28,분기말 종가,348.37,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/COST?interval=1d&events=splits (2020-08-28),,3
+Costco,COST,2020Q3,2020-09-29,분기말 상장주식수,441228027,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/909832/000090983220000017/,dei:EntityCommonStockSharesOutstanding 클래스 합,3
+Costco,COST,2020Q3,2020-08-28,분기말 시가총액,153710607766,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/COST?interval=1d&events=splits (2020-08-28) ; https://www.sec.gov/Archives/edgar/data/909832/000090983220000017/,종가 348.37 × 주식수 441228027,3
+Costco,COST,2020Q4,2020-11-22,분기별 매출액,43208000000,USD,공시,https://www.sec.gov/Archives/edgar/data/909832/000090983220000026/,,3
+Costco,COST,2020Q4,2020-11-22,분기별 영업이익,1430000000,USD,공시,https://www.sec.gov/Archives/edgar/data/909832/000090983220000026/,,3
+Costco,COST,2020Q4,2020-11-22,분기별 당기순이익(지배),1166000000,USD,공시,https://www.sec.gov/Archives/edgar/data/909832/000090983220000026/,,3
+Costco,COST,2020Q4,2020-11-22,분기별 영업활동현금흐름,2647000000,USD,공시,https://www.sec.gov/Archives/edgar/data/909832/000090983220000026/,,3
+Costco,COST,2020Q4,2020-11-22,분기말 자산총계,60217000000,USD,공시,https://www.sec.gov/Archives/edgar/data/909832/000090983220000026/,,3
+Costco,COST,2020Q4,2020-11-22,분기말 부채총계,44908000000,USD,공시,https://www.sec.gov/Archives/edgar/data/909832/000090983220000026/,,3
+Costco,COST,2020Q4,2020-11-22,분기말 총자본(자기자본),15309000000,USD,공시,https://www.sec.gov/Archives/edgar/data/909832/000090983220000026/,,3
+Costco,COST,2020Q4,2020-11-22,분기말 지배지분 자본,14860000000,USD,공시,https://www.sec.gov/Archives/edgar/data/909832/000090983220000026/,,3
+Costco,COST,2020Q4,2020-11-20,분기말 종가,381.12,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/COST?interval=1d&events=splits (2020-11-20),,3
+Costco,COST,2020Q4,2020-12-09,분기말 상장주식수,442955229,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/909832/000090983220000026/,dei:EntityCommonStockSharesOutstanding 클래스 합,3
+Costco,COST,2020Q4,2020-11-20,분기말 시가총액,168819096876,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/COST?interval=1d&events=splits (2020-11-20) ; https://www.sec.gov/Archives/edgar/data/909832/000090983220000026/,종가 381.12 × 주식수 442955229,3
+Costco,COST,2021Q1,2021-02-14,분기별 매출액,44769000000,USD,공시,https://www.sec.gov/Archives/edgar/data/909832/000090983221000003/,,3
+Costco,COST,2021Q1,2021-02-14,분기별 영업이익,1340000000,USD,공시,https://www.sec.gov/Archives/edgar/data/909832/000090983221000003/,,3
+Costco,COST,2021Q1,2021-02-14,분기별 당기순이익(지배),951000000,USD,공시,https://www.sec.gov/Archives/edgar/data/909832/000090983221000003/,,3
+Costco,COST,2021Q1,2021-02-14,분기별 영업활동현금흐름,38000000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/909832/000090983221000003/ ; https://www.sec.gov/Archives/edgar/data/909832/000090983220000026/,누적 2685000000 − 직전누적 2647000000 (시작 2020-08-31),3
+Costco,COST,2021Q1,2021-02-14,분기말 자산총계,54918000000,USD,공시,https://www.sec.gov/Archives/edgar/data/909832/000090983221000003/,,3
+Costco,COST,2021Q1,2021-02-14,분기말 부채총계,38789000000,USD,공시,https://www.sec.gov/Archives/edgar/data/909832/000090983221000003/,,3
+Costco,COST,2021Q1,2021-02-14,분기말 총자본(자기자본),16129000000,USD,공시,https://www.sec.gov/Archives/edgar/data/909832/000090983221000003/,,3
+Costco,COST,2021Q1,2021-02-14,분기말 지배지분 자본,15652000000,USD,공시,https://www.sec.gov/Archives/edgar/data/909832/000090983221000003/,,3
+Costco,COST,2021Q1,2021-02-12,분기말 종가,352.75,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/COST?interval=1d&events=splits (2021-02-12),,3
+Costco,COST,2021Q1,2021-03-03,분기말 상장주식수,442533785,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/909832/000090983221000003/,dei:EntityCommonStockSharesOutstanding 클래스 합,3
+Costco,COST,2021Q1,2021-02-12,분기말 시가총액,156103792659,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/COST?interval=1d&events=splits (2021-02-12) ; https://www.sec.gov/Archives/edgar/data/909832/000090983221000003/,종가 352.75 × 주식수 442533785,3
+Costco,COST,2021Q2,2021-05-09,분기별 매출액,45277000000,USD,공시,https://www.sec.gov/Archives/edgar/data/909832/000090983221000008/,,3
+Costco,COST,2021Q2,2021-05-09,분기별 영업이익,1663000000,USD,공시,https://www.sec.gov/Archives/edgar/data/909832/000090983221000008/,,3
+Costco,COST,2021Q2,2021-05-09,분기별 당기순이익(지배),1220000000,USD,공시,https://www.sec.gov/Archives/edgar/data/909832/000090983221000008/,,3
+Costco,COST,2021Q2,2021-05-09,분기별 영업활동현금흐름,3333000000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/909832/000090983221000008/ ; https://www.sec.gov/Archives/edgar/data/909832/000090983221000003/,누적 6018000000 − 직전누적 2685000000 (시작 2020-08-31),3
+Costco,COST,2021Q2,2021-05-09,분기말 자산총계,57274000000,USD,공시,https://www.sec.gov/Archives/edgar/data/909832/000090983221000008/,,3
+Costco,COST,2021Q2,2021-05-09,분기말 부채총계,40300000000,USD,공시,https://www.sec.gov/Archives/edgar/data/909832/000090983221000008/,,3
+Costco,COST,2021Q2,2021-05-09,분기말 총자본(자기자본),16974000000,USD,공시,https://www.sec.gov/Archives/edgar/data/909832/000090983221000008/,,3
+Costco,COST,2021Q2,2021-05-09,분기말 지배지분 자본,16482000000,USD,공시,https://www.sec.gov/Archives/edgar/data/909832/000090983221000008/,,3
+Costco,COST,2021Q2,2021-05-07,분기말 종가,384.32,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/COST?interval=1d&events=splits (2021-05-07),,3
+Costco,COST,2021Q2,2021-05-26,분기말 상장주식수,442069091,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/909832/000090983221000008/,dei:EntityCommonStockSharesOutstanding 클래스 합,3
+Costco,COST,2021Q2,2021-05-07,분기말 시가총액,169895993053,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/COST?interval=1d&events=splits (2021-05-07) ; https://www.sec.gov/Archives/edgar/data/909832/000090983221000008/,종가 384.32 × 주식수 442069091,3
+Costco,COST,2021Q3,2021-08-29,분기별 매출액,62675000000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/909832/000090983221000014/ ; https://www.sec.gov/Archives/edgar/data/909832/000090983221000008/,연간 195929000000 − 9개월누적 133254000000 (Revenues),3
+Costco,COST,2021Q3,2021-08-29,분기별 영업이익,2275000000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/909832/000090983221000014/ ; https://www.sec.gov/Archives/edgar/data/909832/000090983221000008/,연간 6708000000 − 9개월누적 4433000000 (OperatingIncomeLoss),3
+Costco,COST,2021Q3,2021-08-29,분기별 당기순이익(지배),1670000000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/909832/000090983221000014/ ; https://www.sec.gov/Archives/edgar/data/909832/000090983221000008/,연간 5007000000 − 9개월누적 3337000000 (NetIncomeLoss),3
+Costco,COST,2021Q3,2021-08-29,분기별 영업활동현금흐름,2940000000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/909832/000090983221000014/ ; https://www.sec.gov/Archives/edgar/data/909832/000090983221000008/,누적 8958000000 − 직전누적 6018000000 (시작 2020-08-31),3
+Costco,COST,2021Q3,2021-08-29,분기말 자산총계,59268000000,USD,공시,https://www.sec.gov/Archives/edgar/data/909832/000090983221000014/,,3
+Costco,COST,2021Q3,2021-08-29,분기말 부채총계,41190000000,USD,공시,https://www.sec.gov/Archives/edgar/data/909832/000090983221000014/,,3
+Costco,COST,2021Q3,2021-08-29,분기말 총자본(자기자본),18078000000,USD,공시,https://www.sec.gov/Archives/edgar/data/909832/000090983221000014/,,3
+Costco,COST,2021Q3,2021-08-29,분기말 지배지분 자본,17564000000,USD,공시,https://www.sec.gov/Archives/edgar/data/909832/000090983221000014/,,3
+Costco,COST,2021Q3,2021-08-27,분기말 종가,450.34,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/COST?interval=1d&events=splits (2021-08-27),,3
+Costco,COST,2021Q3,2021-09-28,분기말 상장주식수,441823811,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/909832/000090983221000014/,dei:EntityCommonStockSharesOutstanding 클래스 합,3
+Costco,COST,2021Q3,2021-08-27,분기말 시가총액,198970935046,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/COST?interval=1d&events=splits (2021-08-27) ; https://www.sec.gov/Archives/edgar/data/909832/000090983221000014/,종가 450.34 × 주식수 441823811,3
+Costco,COST,2021Q4,2021-11-21,분기별 매출액,50363000000,USD,공시,https://www.sec.gov/Archives/edgar/data/909832/000090983221000021/,,3
+Costco,COST,2021Q4,2021-11-21,분기별 영업이익,1693000000,USD,공시,https://www.sec.gov/Archives/edgar/data/909832/000090983221000021/,,3
+Costco,COST,2021Q4,2021-11-21,분기별 당기순이익(지배),1324000000,USD,공시,https://www.sec.gov/Archives/edgar/data/909832/000090983221000021/,,3
+Costco,COST,2021Q4,2021-11-21,분기별 영업활동현금흐름,3258000000,USD,공시,https://www.sec.gov/Archives/edgar/data/909832/000090983221000021/,,3
+Costco,COST,2021Q4,2021-11-21,분기말 자산총계,64149000000,USD,공시,https://www.sec.gov/Archives/edgar/data/909832/000090983221000021/,,3
+Costco,COST,2021Q4,2021-11-21,분기말 부채총계,45149000000,USD,공시,https://www.sec.gov/Archives/edgar/data/909832/000090983221000021/,,3
+Costco,COST,2021Q4,2021-11-21,분기말 총자본(자기자본),19000000000,USD,공시,https://www.sec.gov/Archives/edgar/data/909832/000090983221000021/,,3
+Costco,COST,2021Q4,2021-11-21,분기말 지배지분 자본,18463000000,USD,공시,https://www.sec.gov/Archives/edgar/data/909832/000090983221000021/,,3
+Costco,COST,2021Q4,2021-11-19,분기말 종가,533.79,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/COST?interval=1d&events=splits (2021-11-19),,3
+Costco,COST,2021Q4,2021-12-14,분기말 상장주식수,443432486,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/909832/000090983221000021/,dei:EntityCommonStockSharesOutstanding 클래스 합,3
+Costco,COST,2021Q4,2021-11-19,분기말 시가총액,236699826702,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/COST?interval=1d&events=splits (2021-11-19) ; https://www.sec.gov/Archives/edgar/data/909832/000090983221000021/,종가 533.79 × 주식수 443432486,3
+Costco,COST,2022Q1,2022-02-13,분기별 매출액,51904000000,USD,공시,https://www.sec.gov/Archives/edgar/data/909832/000090983222000005/,,3
+Costco,COST,2022Q1,2022-02-13,분기별 영업이익,1812000000,USD,공시,https://www.sec.gov/Archives/edgar/data/909832/000090983222000005/,,3
+Costco,COST,2022Q1,2022-02-13,분기별 당기순이익(지배),1299000000,USD,공시,https://www.sec.gov/Archives/edgar/data/909832/000090983222000005/,,3
+Costco,COST,2022Q1,2022-02-13,분기별 영업활동현금흐름,401000000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/909832/000090983222000005/ ; https://www.sec.gov/Archives/edgar/data/909832/000090983221000021/,누적 3659000000 − 직전누적 3258000000 (시작 2021-08-30),3
+Costco,COST,2022Q1,2022-02-13,분기말 자산총계,63078000000,USD,공시,https://www.sec.gov/Archives/edgar/data/909832/000090983222000005/,,3
+Costco,COST,2022Q1,2022-02-13,분기말 부채총계,43102000000,USD,공시,https://www.sec.gov/Archives/edgar/data/909832/000090983222000005/,,3
+Costco,COST,2022Q1,2022-02-13,분기말 총자본(자기자본),19976000000,USD,공시,https://www.sec.gov/Archives/edgar/data/909832/000090983222000005/,,3
+Costco,COST,2022Q1,2022-02-13,분기말 지배지분 자본,19418000000,USD,공시,https://www.sec.gov/Archives/edgar/data/909832/000090983222000005/,,3
+Costco,COST,2022Q1,2022-02-11,분기말 종가,509.67,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/COST?interval=1d&events=splits (2022-02-11),,3
+Costco,COST,2022Q1,2022-03-02,분기말 상장주식수,443224290,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/909832/000090983222000005/,dei:EntityCommonStockSharesOutstanding 클래스 합,3
+Costco,COST,2022Q1,2022-02-11,분기말 시가총액,225898123884,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/COST?interval=1d&events=splits (2022-02-11) ; https://www.sec.gov/Archives/edgar/data/909832/000090983222000005/,종가 509.67 × 주식수 443224290,3
+Costco,COST,2022Q2,2022-05-08,분기별 매출액,52596000000,USD,공시,https://www.sec.gov/Archives/edgar/data/909832/000090983222000014/,,3
+Costco,COST,2022Q2,2022-05-08,분기별 영업이익,1791000000,USD,공시,https://www.sec.gov/Archives/edgar/data/909832/000090983222000014/,,3
+Costco,COST,2022Q2,2022-05-08,분기별 당기순이익(지배),1353000000,USD,공시,https://www.sec.gov/Archives/edgar/data/909832/000090983222000014/,,3
+Costco,COST,2022Q2,2022-05-08,분기별 영업활동현금흐름,1227000000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/909832/000090983222000014/ ; https://www.sec.gov/Archives/edgar/data/909832/000090983222000005/,누적 4886000000 − 직전누적 3659000000 (시작 2021-08-30),3
+Costco,COST,2022Q2,2022-05-08,분기말 자산총계,63852000000,USD,공시,https://www.sec.gov/Archives/edgar/data/909832/000090983222000014/,,3
+Costco,COST,2022Q2,2022-05-08,분기말 부채총계,43339000000,USD,공시,https://www.sec.gov/Archives/edgar/data/909832/000090983222000014/,,3
+Costco,COST,2022Q2,2022-05-08,분기말 총자본(자기자본),20513000000,USD,공시,https://www.sec.gov/Archives/edgar/data/909832/000090983222000014/,,3
+Costco,COST,2022Q2,2022-05-08,분기말 지배지분 자본,19968000000,USD,공시,https://www.sec.gov/Archives/edgar/data/909832/000090983222000014/,,3
+Costco,COST,2022Q2,2022-05-06,분기말 종가,503.36,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/COST?interval=1d&events=splits (2022-05-06),,3
+Costco,COST,2022Q2,2022-05-25,분기말 상장주식수,442962949,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/909832/000090983222000014/,dei:EntityCommonStockSharesOutstanding 클래스 합,3
+Costco,COST,2022Q2,2022-05-06,분기말 시가총액,222969830009,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/COST?interval=1d&events=splits (2022-05-06) ; https://www.sec.gov/Archives/edgar/data/909832/000090983222000014/,종가 503.36 × 주식수 442962949,3
+Costco,COST,2022Q3,2022-08-28,분기별 매출액,72091000000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/909832/000090983222000021/ ; https://www.sec.gov/Archives/edgar/data/909832/000090983222000014/,연간 226954000000 − 9개월누적 154863000000 (Revenues),3
+Costco,COST,2022Q3,2022-08-28,분기별 영업이익,2497000000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/909832/000090983222000021/ ; https://www.sec.gov/Archives/edgar/data/909832/000090983222000014/,연간 7793000000 − 9개월누적 5296000000 (OperatingIncomeLoss),3
+Costco,COST,2022Q3,2022-08-28,분기별 당기순이익(지배),1868000000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/909832/000090983222000021/ ; https://www.sec.gov/Archives/edgar/data/909832/000090983222000014/,연간 5844000000 − 9개월누적 3976000000 (NetIncomeLoss),3
+Costco,COST,2022Q3,2022-08-28,분기별 영업활동현금흐름,2506000000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/909832/000090983222000021/ ; https://www.sec.gov/Archives/edgar/data/909832/000090983222000014/,누적 7392000000 − 직전누적 4886000000 (시작 2021-08-30),3
+Costco,COST,2022Q3,2022-08-28,분기말 자산총계,64166000000,USD,공시,https://www.sec.gov/Archives/edgar/data/909832/000090983222000021/,,3
+Costco,COST,2022Q3,2022-08-28,분기말 부채총계,43519000000,USD,공시,https://www.sec.gov/Archives/edgar/data/909832/000090983222000021/,,3
+Costco,COST,2022Q3,2022-08-28,분기말 총자본(자기자본),20647000000,USD,공시,https://www.sec.gov/Archives/edgar/data/909832/000090983222000021/,,3
+Costco,COST,2022Q3,2022-08-28,분기말 지배지분 자본,20642000000,USD,공시,https://www.sec.gov/Archives/edgar/data/909832/000090983222000021/,,3
+Costco,COST,2022Q3,2022-08-26,분기말 종가,531.82,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/COST?interval=1d&events=splits (2022-08-26),,3
+Costco,COST,2022Q3,2022-09-27,분기말 상장주식수,442604145,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/909832/000090983222000021/,dei:EntityCommonStockSharesOutstanding 클래스 합,3
+Costco,COST,2022Q3,2022-08-26,분기말 시가총액,235385736394,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/COST?interval=1d&events=splits (2022-08-26) ; https://www.sec.gov/Archives/edgar/data/909832/000090983222000021/,종가 531.82 × 주식수 442604145,3
+Costco,COST,2022Q4,2022-11-20,분기별 매출액,54437000000,USD,공시,https://www.sec.gov/Archives/edgar/data/909832/000090983222000035/,,3
+Costco,COST,2022Q4,2022-11-20,분기별 영업이익,1751000000,USD,공시,https://www.sec.gov/Archives/edgar/data/909832/000090983222000035/,,3
+Costco,COST,2022Q4,2022-11-20,분기별 당기순이익(지배),1364000000,USD,공시,https://www.sec.gov/Archives/edgar/data/909832/000090983222000035/,,3
+Costco,COST,2022Q4,2022-11-20,분기별 영업활동현금흐름,2610000000,USD,공시,https://www.sec.gov/Archives/edgar/data/909832/000090983222000035/,,3
+Costco,COST,2022Q4,2022-11-20,분기말 자산총계,66027000000,USD,공시,https://www.sec.gov/Archives/edgar/data/909832/000090983222000035/,,3
+Costco,COST,2022Q4,2022-11-20,분기말 부채총계,44551000000,USD,공시,https://www.sec.gov/Archives/edgar/data/909832/000090983222000035/,,3
+Costco,COST,2022Q4,2022-11-20,분기말 총자본(자기자본),21476000000,USD,공시,https://www.sec.gov/Archives/edgar/data/909832/000090983222000035/,,3
+Costco,COST,2022Q4,2022-11-20,분기말 지배지분 자본,21471000000,USD,공시,https://www.sec.gov/Archives/edgar/data/909832/000090983222000035/,,3
+Costco,COST,2022Q4,2022-11-18,분기말 종가,523.67,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/COST?interval=1d&events=splits (2022-11-18),,3
+Costco,COST,2022Q4,2022-12-22,분기말 상장주식수,443729036,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/909832/000090983222000035/,dei:EntityCommonStockSharesOutstanding 클래스 합,3
+Costco,COST,2022Q4,2022-11-18,분기말 시가총액,232367584282,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/COST?interval=1d&events=splits (2022-11-18) ; https://www.sec.gov/Archives/edgar/data/909832/000090983222000035/,종가 523.67 × 주식수 443729036,3
+Costco,COST,2023Q1,2023-02-12,분기별 매출액,55266000000,USD,공시,https://www.sec.gov/Archives/edgar/data/909832/000090983223000014/,,3
+Costco,COST,2023Q1,2023-02-12,분기별 영업이익,1903000000,USD,공시,https://www.sec.gov/Archives/edgar/data/909832/000090983223000014/,,3
+Costco,COST,2023Q1,2023-02-12,분기별 당기순이익(지배),1466000000,USD,공시,https://www.sec.gov/Archives/edgar/data/909832/000090983223000014/,,3
+Costco,COST,2023Q1,2023-02-12,분기별 영업활동현금흐름,3192000000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/909832/000090983223000014/ ; https://www.sec.gov/Archives/edgar/data/909832/000090983222000035/,누적 5802000000 − 직전누적 2610000000 (시작 2022-08-29),3
+Costco,COST,2023Q1,2023-02-12,분기말 자산총계,66848000000,USD,공시,https://www.sec.gov/Archives/edgar/data/909832/000090983223000014/,,3
+Costco,COST,2023Q1,2023-02-12,분기말 부채총계,44049000000,USD,공시,https://www.sec.gov/Archives/edgar/data/909832/000090983223000014/,,3
+Costco,COST,2023Q1,2023-02-12,분기말 총자본(자기자본),22799000000,USD,공시,https://www.sec.gov/Archives/edgar/data/909832/000090983223000014/,,3
+Costco,COST,2023Q1,2023-02-12,분기말 지배지분 자본,22794000000,USD,공시,https://www.sec.gov/Archives/edgar/data/909832/000090983223000014/,,3
+Costco,COST,2023Q1,2023-02-10,분기말 종가,499.99,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/COST?interval=1d&events=splits (2023-02-10),,3
+Costco,COST,2023Q1,2023-03-01,분기말 상장주식수,443483205,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/909832/000090983223000014/,dei:EntityCommonStockSharesOutstanding 클래스 합,3
+Costco,COST,2023Q1,2023-02-10,분기말 시가총액,221737167668,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/COST?interval=1d&events=splits (2023-02-10) ; https://www.sec.gov/Archives/edgar/data/909832/000090983223000014/,종가 499.99 × 주식수 443483205,3
+Costco,COST,2023Q2,2023-05-07,분기별 매출액,53648000000,USD,공시,https://www.sec.gov/Archives/edgar/data/909832/000090983223000028/,,3
+Costco,COST,2023Q2,2023-05-07,분기별 영업이익,1679000000,USD,공시,https://www.sec.gov/Archives/edgar/data/909832/000090983223000028/,,3
+Costco,COST,2023Q2,2023-05-07,분기별 당기순이익(지배),1302000000,USD,공시,https://www.sec.gov/Archives/edgar/data/909832/000090983223000028/,,3
+Costco,COST,2023Q2,2023-05-07,분기별 영업활동현금흐름,1541000000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/909832/000090983223000028/ ; https://www.sec.gov/Archives/edgar/data/909832/000090983223000014/,누적 7343000000 − 직전누적 5802000000 (시작 2022-08-29),3
+Costco,COST,2023Q2,2023-05-07,분기말 자산총계,66752000000,USD,공시,https://www.sec.gov/Archives/edgar/data/909832/000090983223000028/,,3
+Costco,COST,2023Q2,2023-05-07,분기말 부채총계,43179000000,USD,공시,https://www.sec.gov/Archives/edgar/data/909832/000090983223000028/,,3
+Costco,COST,2023Q2,2023-05-07,분기말 총자본(자기자본),23573000000,USD,공시,https://www.sec.gov/Archives/edgar/data/909832/000090983223000028/,,3
+Costco,COST,2023Q2,2023-05-07,분기말 지배지분 자본,23568000000,USD,공시,https://www.sec.gov/Archives/edgar/data/909832/000090983223000028/,,3
+Costco,COST,2023Q2,2023-05-05,분기말 종가,499.06,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/COST?interval=1d&events=splits (2023-05-05),,3
+Costco,COST,2023Q2,2023-05-24,분기말 상장주식수,443148481,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/909832/000090983223000028/,dei:EntityCommonStockSharesOutstanding 클래스 합,3
+Costco,COST,2023Q2,2023-05-05,분기말 시가총액,221157680928,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/COST?interval=1d&events=splits (2023-05-05) ; https://www.sec.gov/Archives/edgar/data/909832/000090983223000028/,종가 499.06 × 주식수 443148481,3
+Costco,COST,2023Q3,2023-09-03,분기별 매출액,78939000000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/909832/000090983223000042/ ; https://www.sec.gov/Archives/edgar/data/909832/000090983223000028/,연간 242290000000 − 9개월누적 163351000000 (Revenues),3
+Costco,COST,2023Q3,2023-09-03,분기별 영업이익,2781000000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/909832/000090983223000042/ ; https://www.sec.gov/Archives/edgar/data/909832/000090983223000028/,연간 8114000000 − 9개월누적 5333000000 (OperatingIncomeLoss),3
+Costco,COST,2023Q3,2023-09-03,분기별 당기순이익(지배),2160000000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/909832/000090983223000042/ ; https://www.sec.gov/Archives/edgar/data/909832/000090983223000028/,연간 6292000000 − 9개월누적 4132000000 (NetIncomeLoss),3
+Costco,COST,2023Q3,2023-09-03,분기별 영업활동현금흐름,3725000000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/909832/000090983223000042/ ; https://www.sec.gov/Archives/edgar/data/909832/000090983223000028/,누적 11068000000 − 직전누적 7343000000 (시작 2022-08-29),3
+Costco,COST,2023Q3,2023-09-03,분기말 자산총계,68994000000,USD,공시,https://www.sec.gov/Archives/edgar/data/909832/000090983223000042/,,3
+Costco,COST,2023Q3,2023-09-03,분기말 부채총계,43936000000,USD,공시,https://www.sec.gov/Archives/edgar/data/909832/000090983223000042/,,3
+Costco,COST,2023Q3,2023-09-03,분기말 총자본(자기자본),25058000000,USD,공시,https://www.sec.gov/Archives/edgar/data/909832/000090983223000042/,,3
+Costco,COST,2023Q3,2023-09-03,분기말 지배지분 자본,25058000000,USD,공시,https://www.sec.gov/Archives/edgar/data/909832/000090983223000042/,,3
+Costco,COST,2023Q3,2023-09-01,분기말 종가,544.25,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/COST?interval=1d&events=splits (2023-09-01),,3
+Costco,COST,2023Q3,2023-10-03,분기말 상장주식수,442740572,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/909832/000090983223000042/,dei:EntityCommonStockSharesOutstanding 클래스 합,3
+Costco,COST,2023Q3,2023-09-01,분기말 시가총액,240961556311,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/COST?interval=1d&events=splits (2023-09-01) ; https://www.sec.gov/Archives/edgar/data/909832/000090983223000042/,종가 544.25 × 주식수 442740572,3
+Costco,COST,2023Q4,2023-11-26,분기별 매출액,57799000000,USD,공시,https://www.sec.gov/Archives/edgar/data/909832/000090983223000065/,,3
+Costco,COST,2023Q4,2023-11-26,분기별 영업이익,1984000000,USD,공시,https://www.sec.gov/Archives/edgar/data/909832/000090983223000065/,,3
+Costco,COST,2023Q4,2023-11-26,분기별 당기순이익(지배),1589000000,USD,공시,https://www.sec.gov/Archives/edgar/data/909832/000090983223000065/,,3
+Costco,COST,2023Q4,2023-11-26,분기별 영업활동현금흐름,4651000000,USD,공시,https://www.sec.gov/Archives/edgar/data/909832/000090983223000065/,,3
+Costco,COST,2023Q4,2023-11-26,분기말 자산총계,73723000000,USD,공시,https://www.sec.gov/Archives/edgar/data/909832/000090983223000065/,,3
+Costco,COST,2023Q4,2023-11-26,분기말 부채총계,47576000000,USD,공시,https://www.sec.gov/Archives/edgar/data/909832/000090983223000065/,,3
+Costco,COST,2023Q4,2023-11-26,분기말 총자본(자기자본),26147000000,USD,공시,https://www.sec.gov/Archives/edgar/data/909832/000090983223000065/,,3
+Costco,COST,2023Q4,2023-11-26,분기말 지배지분 자본,26147000000,USD,공시,https://www.sec.gov/Archives/edgar/data/909832/000090983223000065/,,3
+Costco,COST,2023Q4,2023-11-24,분기말 종가,591.36,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/COST?interval=1d&events=splits (2023-11-24),,3
+Costco,COST,2023Q4,2023-12-13,분기말 상장주식수,443728416,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/909832/000090983223000065/,dei:EntityCommonStockSharesOutstanding 클래스 합,3
+Costco,COST,2023Q4,2023-11-24,분기말 시가총액,262403236086,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/COST?interval=1d&events=splits (2023-11-24) ; https://www.sec.gov/Archives/edgar/data/909832/000090983223000065/,종가 591.36 × 주식수 443728416,3
+Costco,COST,2024Q1,2024-02-18,분기별 매출액,58442000000,USD,공시,https://www.sec.gov/Archives/edgar/data/909832/000090983224000017/,,3
+Costco,COST,2024Q1,2024-02-18,분기별 영업이익,2062000000,USD,공시,https://www.sec.gov/Archives/edgar/data/909832/000090983224000017/,,3
+Costco,COST,2024Q1,2024-02-18,분기별 당기순이익(지배),1743000000,USD,공시,https://www.sec.gov/Archives/edgar/data/909832/000090983224000017/,,3
+Costco,COST,2024Q1,2024-02-18,분기별 영업활동현금흐름,731000000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/909832/000090983224000017/ ; https://www.sec.gov/Archives/edgar/data/909832/000090983223000065/,누적 5382000000 − 직전누적 4651000000 (시작 2023-09-04),3
+Costco,COST,2024Q1,2024-02-18,분기말 자산총계,66323000000,USD,공시,https://www.sec.gov/Archives/edgar/data/909832/000090983224000017/,,3
+Costco,COST,2024Q1,2024-02-18,분기말 부채총계,45563000000,USD,공시,https://www.sec.gov/Archives/edgar/data/909832/000090983224000017/,,3
+Costco,COST,2024Q1,2024-02-18,분기말 총자본(자기자본),20760000000,USD,공시,https://www.sec.gov/Archives/edgar/data/909832/000090983224000017/,,3
+Costco,COST,2024Q1,2024-02-18,분기말 지배지분 자본,20760000000,USD,공시,https://www.sec.gov/Archives/edgar/data/909832/000090983224000017/,,3
+Costco,COST,2024Q1,2024-02-16,분기말 종가,723.99,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/COST?interval=1d&events=splits (2024-02-16),,3
+Costco,COST,2024Q1,2024-03-06,분기말 상장주식수,443504036,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/909832/000090983224000017/,dei:EntityCommonStockSharesOutstanding 클래스 합,3
+Costco,COST,2024Q1,2024-02-16,분기말 시가총액,321092487024,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/COST?interval=1d&events=splits (2024-02-16) ; https://www.sec.gov/Archives/edgar/data/909832/000090983224000017/,종가 723.99 × 주식수 443504036,3
+Costco,COST,2024Q2,2024-05-12,분기별 매출액,58515000000,USD,공시,https://www.sec.gov/Archives/edgar/data/909832/000090983224000029/,,3
+Costco,COST,2024Q2,2024-05-12,분기별 영업이익,2197000000,USD,공시,https://www.sec.gov/Archives/edgar/data/909832/000090983224000029/,,3
+Costco,COST,2024Q2,2024-05-12,분기별 당기순이익(지배),1681000000,USD,공시,https://www.sec.gov/Archives/edgar/data/909832/000090983224000029/,,3
+Costco,COST,2024Q2,2024-05-12,분기별 영업활동현금흐름,2999000000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/909832/000090983224000029/ ; https://www.sec.gov/Archives/edgar/data/909832/000090983224000017/,누적 8381000000 − 직전누적 5382000000 (시작 2023-09-04),3
+Costco,COST,2024Q2,2024-05-12,분기말 자산총계,67911000000,USD,공시,https://www.sec.gov/Archives/edgar/data/909832/000090983224000029/,,3
+Costco,COST,2024Q2,2024-05-12,분기말 부채총계,46140000000,USD,공시,https://www.sec.gov/Archives/edgar/data/909832/000090983224000029/,,3
+Costco,COST,2024Q2,2024-05-12,분기말 총자본(자기자본),21771000000,USD,공시,https://www.sec.gov/Archives/edgar/data/909832/000090983224000029/,,3
+Costco,COST,2024Q2,2024-05-12,분기말 지배지분 자본,21771000000,USD,공시,https://www.sec.gov/Archives/edgar/data/909832/000090983224000029/,,3
+Costco,COST,2024Q2,2024-05-10,분기말 종가,787.19,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/COST?interval=1d&events=splits (2024-05-10),,3
+Costco,COST,2024Q2,2024-05-29,분기말 상장주식수,443335024,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/909832/000090983224000029/,dei:EntityCommonStockSharesOutstanding 클래스 합,3
+Costco,COST,2024Q2,2024-05-10,분기말 시가총액,348988897543,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/COST?interval=1d&events=splits (2024-05-10) ; https://www.sec.gov/Archives/edgar/data/909832/000090983224000029/,종가 787.19 × 주식수 443335024,3
+Costco,COST,2024Q3,2024-09-01,분기별 매출액,79697000000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/909832/000090983224000049/ ; https://www.sec.gov/Archives/edgar/data/909832/000090983224000029/,연간 254453000000 − 9개월누적 174756000000 (Revenues),3
+Costco,COST,2024Q3,2024-09-01,분기별 영업이익,3042000000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/909832/000090983224000049/ ; https://www.sec.gov/Archives/edgar/data/909832/000090983224000029/,연간 9285000000 − 9개월누적 6243000000 (OperatingIncomeLoss),3
+Costco,COST,2024Q3,2024-09-01,분기별 당기순이익(지배),2354000000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/909832/000090983224000049/ ; https://www.sec.gov/Archives/edgar/data/909832/000090983224000029/,연간 7367000000 − 9개월누적 5013000000 (NetIncomeLoss),3
+Costco,COST,2024Q3,2024-09-01,분기별 영업활동현금흐름,2958000000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/909832/000090983224000049/ ; https://www.sec.gov/Archives/edgar/data/909832/000090983224000029/,누적 11339000000 − 직전누적 8381000000 (시작 2023-09-04),3
+Costco,COST,2024Q3,2024-09-01,분기말 자산총계,69831000000,USD,공시,https://www.sec.gov/Archives/edgar/data/909832/000090983224000049/,,3
+Costco,COST,2024Q3,2024-09-01,분기말 부채총계,46209000000,USD,공시,https://www.sec.gov/Archives/edgar/data/909832/000090983224000049/,,3
+Costco,COST,2024Q3,2024-09-01,분기말 총자본(자기자본),23622000000,USD,공시,https://www.sec.gov/Archives/edgar/data/909832/000090983224000049/,,3
+Costco,COST,2024Q3,2024-09-01,분기말 지배지분 자본,23622000000,USD,공시,https://www.sec.gov/Archives/edgar/data/909832/000090983224000049/,,3
+Costco,COST,2024Q3,2024-08-30,분기말 종가,892.38,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/COST?interval=1d&events=splits (2024-08-30),,3
+Costco,COST,2024Q3,2024-10-01,분기말 상장주식수,443073537,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/909832/000090983224000049/,dei:EntityCommonStockSharesOutstanding 클래스 합,3
+Costco,COST,2024Q3,2024-08-30,분기말 시가총액,395389962948,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/COST?interval=1d&events=splits (2024-08-30) ; https://www.sec.gov/Archives/edgar/data/909832/000090983224000049/,종가 892.38 × 주식수 443073537,3
+Costco,COST,2024Q4,2024-11-24,분기별 매출액,62151000000,USD,공시,https://www.sec.gov/Archives/edgar/data/909832/000090983224000079/,,3
+Costco,COST,2024Q4,2024-11-24,분기별 영업이익,2196000000,USD,공시,https://www.sec.gov/Archives/edgar/data/909832/000090983224000079/,,3
+Costco,COST,2024Q4,2024-11-24,분기별 당기순이익(지배),1798000000,USD,공시,https://www.sec.gov/Archives/edgar/data/909832/000090983224000079/,,3
+Costco,COST,2024Q4,2024-11-24,분기별 영업활동현금흐름,3260000000,USD,공시,https://www.sec.gov/Archives/edgar/data/909832/000090983224000079/,,3
+Costco,COST,2024Q4,2024-11-24,분기말 자산총계,73386000000,USD,공시,https://www.sec.gov/Archives/edgar/data/909832/000090983224000079/,,3
+Costco,COST,2024Q4,2024-11-24,분기말 부채총계,48935000000,USD,공시,https://www.sec.gov/Archives/edgar/data/909832/000090983224000079/,,3
+Costco,COST,2024Q4,2024-11-24,분기말 총자본(자기자본),24451000000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/909832/000090983224000079/,"StockholdersEquity, MinorityInterest 태그 없음",3
+Costco,COST,2024Q4,2024-11-24,분기말 지배지분 자본,24451000000,USD,공시,https://www.sec.gov/Archives/edgar/data/909832/000090983224000079/,,3
+Costco,COST,2024Q4,2024-11-22,분기말 종가,964.01,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/COST?interval=1d&events=splits (2024-11-22),,3
+Costco,COST,2024Q4,2024-12-11,분기말 상장주식수,443898870,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/909832/000090983224000079/,dei:EntityCommonStockSharesOutstanding 클래스 합,3
+Costco,COST,2024Q4,2024-11-22,분기말 시가총액,427922949669,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/COST?interval=1d&events=splits (2024-11-22) ; https://www.sec.gov/Archives/edgar/data/909832/000090983224000079/,종가 964.01 × 주식수 443898870,3
+Costco,COST,2025Q1,2025-02-16,분기별 매출액,63723000000,USD,공시,https://www.sec.gov/Archives/edgar/data/909832/000090983225000015/,,3
+Costco,COST,2025Q1,2025-02-16,분기별 영업이익,2316000000,USD,공시,https://www.sec.gov/Archives/edgar/data/909832/000090983225000015/,,3
+Costco,COST,2025Q1,2025-02-16,분기별 당기순이익(지배),1788000000,USD,공시,https://www.sec.gov/Archives/edgar/data/909832/000090983225000015/,,3
+Costco,COST,2025Q1,2025-02-16,분기별 영업활동현금흐름,2748000000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/909832/000090983225000015/ ; https://www.sec.gov/Archives/edgar/data/909832/000090983224000079/,누적 6008000000 − 직전누적 3260000000 (시작 2024-09-02),3
+Costco,COST,2025Q1,2025-02-16,분기말 자산총계,73224000000,USD,공시,https://www.sec.gov/Archives/edgar/data/909832/000090983225000015/,,3
+Costco,COST,2025Q1,2025-02-16,분기말 부채총계,47647000000,USD,공시,https://www.sec.gov/Archives/edgar/data/909832/000090983225000015/,,3
+Costco,COST,2025Q1,2025-02-16,분기말 총자본(자기자본),25577000000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/909832/000090983225000015/,"StockholdersEquity, MinorityInterest 태그 없음",3
+Costco,COST,2025Q1,2025-02-16,분기말 지배지분 자본,25577000000,USD,공시,https://www.sec.gov/Archives/edgar/data/909832/000090983225000015/,,3
+Costco,COST,2025Q1,2025-02-14,분기말 종가,1071.85,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/COST?interval=1d&events=splits (2025-02-14),,3
+Costco,COST,2025Q1,2025-03-05,분기말 상장주식수,443683357,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/909832/000090983225000015/,dei:EntityCommonStockSharesOutstanding 클래스 합,3
+Costco,COST,2025Q1,2025-02-14,분기말 시가총액,475562006200,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/COST?interval=1d&events=splits (2025-02-14) ; https://www.sec.gov/Archives/edgar/data/909832/000090983225000015/,종가 1071.85 × 주식수 443683357,3
+Costco,COST,2025Q2,2025-05-11,분기별 매출액,63205000000,USD,공시,https://www.sec.gov/Archives/edgar/data/909832/000090983225000033/,,3
+Costco,COST,2025Q2,2025-05-11,분기별 영업이익,2530000000,USD,공시,https://www.sec.gov/Archives/edgar/data/909832/000090983225000033/,,3
+Costco,COST,2025Q2,2025-05-11,분기별 당기순이익(지배),1903000000,USD,공시,https://www.sec.gov/Archives/edgar/data/909832/000090983225000033/,,3
+Costco,COST,2025Q2,2025-05-11,분기별 영업활동현금흐름,3460000000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/909832/000090983225000033/ ; https://www.sec.gov/Archives/edgar/data/909832/000090983225000015/,누적 9468000000 − 직전누적 6008000000 (시작 2024-09-02),3
+Costco,COST,2025Q2,2025-05-11,분기말 자산총계,75482000000,USD,공시,https://www.sec.gov/Archives/edgar/data/909832/000090983225000033/,,3
+Costco,COST,2025Q2,2025-05-11,분기말 부채총계,48357000000,USD,공시,https://www.sec.gov/Archives/edgar/data/909832/000090983225000033/,,3
+Costco,COST,2025Q2,2025-05-11,분기말 총자본(자기자본),27125000000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/909832/000090983225000033/,"StockholdersEquity, MinorityInterest 태그 없음",3
+Costco,COST,2025Q2,2025-05-11,분기말 지배지분 자본,27125000000,USD,공시,https://www.sec.gov/Archives/edgar/data/909832/000090983225000033/,,3
+Costco,COST,2025Q2,2025-05-09,분기말 종가,1008.09,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/COST?interval=1d&events=splits (2025-05-09),,3
+Costco,COST,2025Q2,2025-05-28,분기말 상장주식수,443477086,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/909832/000090983225000033/,dei:EntityCommonStockSharesOutstanding 클래스 합,3
+Costco,COST,2025Q2,2025-05-09,분기말 시가총액,447064815626,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/COST?interval=1d&events=splits (2025-05-09) ; https://www.sec.gov/Archives/edgar/data/909832/000090983225000033/,종가 1008.09 × 주식수 443477086,3
+Costco,COST,2025Q3,2025-08-31,분기별 매출액,86156000000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/909832/000090983225000101/ ; https://www.sec.gov/Archives/edgar/data/909832/000090983225000033/,연간 275235000000 − 9개월누적 189079000000 (Revenues),3
+Costco,COST,2025Q3,2025-08-31,분기별 영업이익,3341000000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/909832/000090983225000101/ ; https://www.sec.gov/Archives/edgar/data/909832/000090983225000033/,연간 10383000000 − 9개월누적 7042000000 (OperatingIncomeLoss),3
+Costco,COST,2025Q3,2025-08-31,분기별 당기순이익(지배),2610000000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/909832/000090983225000101/ ; https://www.sec.gov/Archives/edgar/data/909832/000090983225000033/,연간 8099000000 − 9개월누적 5489000000 (NetIncomeLoss),3
+Costco,COST,2025Q3,2025-08-31,분기별 영업활동현금흐름,3867000000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/909832/000090983225000101/ ; https://www.sec.gov/Archives/edgar/data/909832/000090983225000033/,누적 13335000000 − 직전누적 9468000000 (시작 2024-09-02),3
+Costco,COST,2025Q3,2025-08-31,분기말 자산총계,77099000000,USD,공시,https://www.sec.gov/Archives/edgar/data/909832/000090983225000101/,,3
+Costco,COST,2025Q3,2025-08-31,분기말 부채총계,47935000000,USD,공시,https://www.sec.gov/Archives/edgar/data/909832/000090983225000101/,,3
+Costco,COST,2025Q3,2025-08-31,분기말 총자본(자기자본),29164000000,USD,공시,https://www.sec.gov/Archives/edgar/data/909832/000090983225000101/,,3
+Costco,COST,2025Q3,2025-08-31,분기말 지배지분 자본,29164000000,USD,공시,https://www.sec.gov/Archives/edgar/data/909832/000090983225000101/,,3
+Costco,COST,2025Q3,2025-08-29,분기말 종가,943.32,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/COST?interval=1d&events=splits (2025-08-29),,3
+Costco,COST,2025Q3,2025-09-30,분기말 상장주식수,443179176,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/909832/000090983225000101/,dei:EntityCommonStockSharesOutstanding 클래스 합,3
+Costco,COST,2025Q3,2025-08-29,분기말 시가총액,418059780304,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/COST?interval=1d&events=splits (2025-08-29) ; https://www.sec.gov/Archives/edgar/data/909832/000090983225000101/,종가 943.32 × 주식수 443179176,3
+Costco,COST,2025Q4,2025-11-23,분기별 매출액,67307000000,USD,공시,https://www.sec.gov/Archives/edgar/data/909832/000090983225000169/,,3
+Costco,COST,2025Q4,2025-11-23,분기별 영업이익,2463000000,USD,공시,https://www.sec.gov/Archives/edgar/data/909832/000090983225000169/,,3
+Costco,COST,2025Q4,2025-11-23,분기별 당기순이익(지배),2001000000,USD,공시,https://www.sec.gov/Archives/edgar/data/909832/000090983225000169/,,3
+Costco,COST,2025Q4,2025-11-23,분기별 영업활동현금흐름,4688000000,USD,공시,https://www.sec.gov/Archives/edgar/data/909832/000090983225000169/,,3
+Costco,COST,2025Q4,2025-11-23,분기말 자산총계,82790000000,USD,공시,https://www.sec.gov/Archives/edgar/data/909832/000090983225000169/,,3
+Costco,COST,2025Q4,2025-11-23,분기말 부채총계,52487000000,USD,공시,https://www.sec.gov/Archives/edgar/data/909832/000090983225000169/,,3
+Costco,COST,2025Q4,2025-11-23,분기말 총자본(자기자본),30303000000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/909832/000090983225000169/,"StockholdersEquity, MinorityInterest 태그 없음",3
+Costco,COST,2025Q4,2025-11-23,분기말 지배지분 자본,30303000000,USD,공시,https://www.sec.gov/Archives/edgar/data/909832/000090983225000169/,,3
+Costco,COST,2025Q4,2025-11-21,분기말 종가,899.01,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/COST?interval=1d&events=splits (2025-11-21),,3
+Costco,COST,2025Q4,2025-12-10,분기말 상장주식수,443869411,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/909832/000090983225000169/,dei:EntityCommonStockSharesOutstanding 클래스 합,3
+Costco,COST,2025Q4,2025-11-21,분기말 시가총액,399043039183,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/COST?interval=1d&events=splits (2025-11-21) ; https://www.sec.gov/Archives/edgar/data/909832/000090983225000169/,종가 899.01 × 주식수 443869411,3
+Costco,COST,2026Q1,2026-02-15,분기별 매출액,69597000000,USD,공시,https://www.sec.gov/Archives/edgar/data/909832/000090983226000029/,,3
+Costco,COST,2026Q1,2026-02-15,분기별 영업이익,2606000000,USD,공시,https://www.sec.gov/Archives/edgar/data/909832/000090983226000029/,,3
+Costco,COST,2026Q1,2026-02-15,분기별 당기순이익(지배),2035000000,USD,공시,https://www.sec.gov/Archives/edgar/data/909832/000090983226000029/,,3
+Costco,COST,2026Q1,2026-02-15,분기별 영업활동현금흐름,2996000000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/909832/000090983226000029/ ; https://www.sec.gov/Archives/edgar/data/909832/000090983225000169/,누적 7684000000 − 직전누적 4688000000 (시작 2025-09-01),3
+Costco,COST,2026Q1,2026-02-15,분기말 자산총계,83639000000,USD,공시,https://www.sec.gov/Archives/edgar/data/909832/000090983226000029/,,3
+Costco,COST,2026Q1,2026-02-15,분기말 부채총계,51552000000,USD,공시,https://www.sec.gov/Archives/edgar/data/909832/000090983226000029/,,3
+Costco,COST,2026Q1,2026-02-15,분기말 총자본(자기자본),32087000000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/909832/000090983226000029/,"StockholdersEquity, MinorityInterest 태그 없음",3
+Costco,COST,2026Q1,2026-02-15,분기말 지배지분 자본,32087000000,USD,공시,https://www.sec.gov/Archives/edgar/data/909832/000090983226000029/,,3
+Costco,COST,2026Q1,2026-02-13,분기말 종가,1018.48,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/COST?interval=1d&events=splits (2026-02-13),,3
+Costco,COST,2026Q1,2026-03-04,분기말 상장주식수,443652540,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/909832/000090983226000029/,dei:EntityCommonStockSharesOutstanding 클래스 합,3
+Costco,COST,2026Q1,2026-02-13,분기말 시가총액,451851238939,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/COST?interval=1d&events=splits (2026-02-13) ; https://www.sec.gov/Archives/edgar/data/909832/000090983226000029/,종가 1018.48 × 주식수 443652540,3
+Costco,COST,2026Q2,2026-05-10,분기별 매출액,70527000000,USD,공시,https://www.sec.gov/Archives/edgar/data/909832/000090983226000051/,,3
+Costco,COST,2026Q2,2026-05-10,분기별 영업이익,2815000000,USD,공시,https://www.sec.gov/Archives/edgar/data/909832/000090983226000051/,,3
+Costco,COST,2026Q2,2026-05-10,분기별 당기순이익(지배),2192000000,USD,공시,https://www.sec.gov/Archives/edgar/data/909832/000090983226000051/,,3
+Costco,COST,2026Q2,2026-05-10,분기별 영업활동현금흐름,3449000000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/909832/000090983226000051/ ; https://www.sec.gov/Archives/edgar/data/909832/000090983226000029/,누적 11133000000 − 직전누적 7684000000 (시작 2025-09-01),3
+Costco,COST,2026Q2,2026-05-10,분기말 자산총계,86430000000,USD,공시,https://www.sec.gov/Archives/edgar/data/909832/000090983226000051/,,3
+Costco,COST,2026Q2,2026-05-10,분기말 부채총계,52921000000,USD,공시,https://www.sec.gov/Archives/edgar/data/909832/000090983226000051/,,3
+Costco,COST,2026Q2,2026-05-10,분기말 총자본(자기자본),33509000000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/909832/000090983226000051/,"StockholdersEquity, MinorityInterest 태그 없음",3
+Costco,COST,2026Q2,2026-05-10,분기말 지배지분 자본,33509000000,USD,공시,https://www.sec.gov/Archives/edgar/data/909832/000090983226000051/,,3
+Costco,COST,2026Q2,2026-05-08,분기말 종가,1008.79,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/COST?interval=1d&events=splits (2026-05-08),,3
+Costco,COST,2026Q2,2026-05-27,분기말 상장주식수,443478804,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/909832/000090983226000051/,dei:EntityCommonStockSharesOutstanding 클래스 합,3
+Costco,COST,2026Q2,2026-05-08,분기말 시가총액,447376982687,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/COST?interval=1d&events=splits (2026-05-08) ; https://www.sec.gov/Archives/edgar/data/909832/000090983226000051/,종가 1008.79 × 주식수 443478804,3

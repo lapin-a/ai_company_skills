@@ -1,0 +1,727 @@
+﻿기업,종목코드,기간,기준일,항목,값,통화,값구분,출처,검산,라운드
+Automatic Data Processing,ADP,2010Q1,2010-03-31,분기별 매출액,2443200000,USD,공시,https://www.sec.gov/Archives/edgar/data/8670/000000867010000012/,값은 XBRL 원문(companyfacts 미반영 보고서),6
+Automatic Data Processing,ADP,2010Q1,2010-03-31,분기별 영업이익,미확인,USD,미확인,SEC companyfacts CIK0000008670: 해당 보고서에 OperatingIncomeLoss 태그 없음(영업이익 미공시) ; SEC companyfacts CIK0000008670: OperatingIncomeLoss 태그 없음(영업이익 미공시),,6
+Automatic Data Processing,ADP,2010Q1,2010-03-31,분기별 당기순이익(지배),403600000,USD,공시,https://www.sec.gov/Archives/edgar/data/8670/000000867010000012/,값은 XBRL 원문(companyfacts 미반영 보고서),6
+Automatic Data Processing,ADP,2010Q1,2010-03-31,분기별 영업활동현금흐름,613700000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/8670/000000867010000012/ ; https://www.sec.gov/Archives/edgar/data/8670/000000867010000005/,누적 1286600000 − 직전누적 672900000 (시작 2009-07-01) ; 값은 XBRL 원문(companyfacts 미반영 보고서),6
+Automatic Data Processing,ADP,2010Q1,2010-03-31,분기말 자산총계,34986200000,USD,공시,https://www.sec.gov/Archives/edgar/data/8670/000000867010000012/,값은 XBRL 원문(companyfacts 미반영 보고서),6
+Automatic Data Processing,ADP,2010Q1,2010-03-31,분기말 부채총계,29047900000,USD,공시,https://www.sec.gov/Archives/edgar/data/8670/000000867010000012/,값은 XBRL 원문(companyfacts 미반영 보고서),6
+Automatic Data Processing,ADP,2010Q1,2010-03-31,분기말 총자본(자기자본),5938300000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/8670/000000867010000012/,"StockholdersEquity, MinorityInterest 태그 없음 ; 값은 XBRL 원문(companyfacts 미반영 보고서)",6
+Automatic Data Processing,ADP,2010Q1,2010-03-31,분기말 지배지분 자본,5938300000,USD,공시,https://www.sec.gov/Archives/edgar/data/8670/000000867010000012/,값은 XBRL 원문(companyfacts 미반영 보고서),6
+Automatic Data Processing,ADP,2010Q1,2010-03-31,분기말 종가,44.47,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/ADP?interval=1d&events=splits (2010-03-31),분할조정 종가 39.043 × 이후 분할계수 1.139,6
+Automatic Data Processing,ADP,2010Q1,2010-04-30,분기말 상장주식수,502987661,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/8670/000000867010000012/,dei:EntityCommonStockSharesOutstanding 클래스 합 ; 값은 XBRL 원문(companyfacts 미반영 보고서),6
+Automatic Data Processing,ADP,2010Q1,2010-03-31,분기말 시가총액,22367861285,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/ADP?interval=1d&events=splits (2010-03-31) ; https://www.sec.gov/Archives/edgar/data/8670/000000867010000012/,종가 44.47 × 주식수 502987661 ; 값은 XBRL 원문(companyfacts 미반영 보고서),6
+Automatic Data Processing,ADP,2010Q2,2010-06-30,분기별 매출액,2190300000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/8670/000120677410001881/ ; https://www.sec.gov/Archives/edgar/data/8670/000000867010000012/,연간 8927700000 − 9개월누적 6737400000 (Revenues) ; 값은 XBRL 원문(companyfacts 미반영 보고서),6
+Automatic Data Processing,ADP,2010Q2,2010-06-30,분기별 영업이익,미확인,USD,미확인,SEC companyfacts CIK0000008670: 해당 보고서에 OperatingIncomeLoss 태그 없음(영업이익 미공시) ; SEC companyfacts CIK0000008670: OperatingIncomeLoss 태그 없음(영업이익 미공시),,6
+Automatic Data Processing,ADP,2010Q2,2010-06-30,분기별 당기순이익(지배),207900000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/8670/000120677410001881/ ; https://www.sec.gov/Archives/edgar/data/8670/000000867010000012/,연간 1211400000 − 9개월누적 1003500000 (NetIncomeLoss) ; 값은 XBRL 원문(companyfacts 미반영 보고서),6
+Automatic Data Processing,ADP,2010Q2,2010-06-30,분기별 영업활동현금흐름,395500000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/8670/000120677410001881/ ; https://www.sec.gov/Archives/edgar/data/8670/000000867010000012/,누적 1682100000 − 직전누적 1286600000 (시작 2009-07-01) ; 값은 XBRL 원문(companyfacts 미반영 보고서),6
+Automatic Data Processing,ADP,2010Q2,2010-06-30,분기말 자산총계,26862200000,USD,공시,https://www.sec.gov/Archives/edgar/data/8670/000120677410001881/,,6
+Automatic Data Processing,ADP,2010Q2,2010-06-30,분기말 부채총계,21383300000,USD,공시,https://www.sec.gov/Archives/edgar/data/8670/000120677410001881/,,6
+Automatic Data Processing,ADP,2010Q2,2010-06-30,분기말 총자본(자기자본),5478900000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/8670/000120677410001881/,"StockholdersEquity, MinorityInterest 태그 없음",6
+Automatic Data Processing,ADP,2010Q2,2010-06-30,분기말 지배지분 자본,5478900000,USD,공시,https://www.sec.gov/Archives/edgar/data/8670/000120677410001881/,,6
+Automatic Data Processing,ADP,2010Q2,2010-06-30,분기말 종가,40.26,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/ADP?interval=1d&events=splits (2010-06-30),분할조정 종가 35.3468 × 이후 분할계수 1.139,6
+Automatic Data Processing,ADP,2010Q2,2010-08-20,분기말 상장주식수,492022525,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/8670/000120677410001881/,dei:EntityCommonStockSharesOutstanding 클래스 합,6
+Automatic Data Processing,ADP,2010Q2,2010-06-30,분기말 시가총액,19808826856,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/ADP?interval=1d&events=splits (2010-06-30) ; https://www.sec.gov/Archives/edgar/data/8670/000120677410001881/,종가 40.26 × 주식수 492022525,6
+Automatic Data Processing,ADP,2010Q3,2010-09-30,분기별 매출액,2229400000,USD,공시,https://www.sec.gov/Archives/edgar/data/8670/000000867010000026/,,6
+Automatic Data Processing,ADP,2010Q3,2010-09-30,분기별 영업이익,미확인,USD,미확인,SEC companyfacts CIK0000008670: 해당 보고서에 OperatingIncomeLoss 태그 없음(영업이익 미공시) ; SEC companyfacts CIK0000008670: OperatingIncomeLoss 태그 없음(영업이익 미공시),,6
+Automatic Data Processing,ADP,2010Q3,2010-09-30,분기별 당기순이익(지배),278500000,USD,공시,https://www.sec.gov/Archives/edgar/data/8670/000000867010000026/,,6
+Automatic Data Processing,ADP,2010Q3,2010-09-30,분기별 영업활동현금흐름,222300000,USD,공시,https://www.sec.gov/Archives/edgar/data/8670/000000867010000026/,,6
+Automatic Data Processing,ADP,2010Q3,2010-09-30,분기말 자산총계,30878900000,USD,공시,https://www.sec.gov/Archives/edgar/data/8670/000000867010000026/,,6
+Automatic Data Processing,ADP,2010Q3,2010-09-30,분기말 부채총계,25122200000,USD,공시,https://www.sec.gov/Archives/edgar/data/8670/000000867010000026/,,6
+Automatic Data Processing,ADP,2010Q3,2010-09-30,분기말 총자본(자기자본),5756700000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/8670/000000867010000026/,"StockholdersEquity, MinorityInterest 태그 없음",6
+Automatic Data Processing,ADP,2010Q3,2010-09-30,분기말 지배지분 자본,5756700000,USD,공시,https://www.sec.gov/Archives/edgar/data/8670/000000867010000026/,,6
+Automatic Data Processing,ADP,2010Q3,2010-09-30,분기말 종가,42.03,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/ADP?interval=1d&events=splits (2010-09-30),분할조정 종가 36.9008 × 이후 분할계수 1.139,6
+Automatic Data Processing,ADP,2010Q3,2010-10-29,분기말 상장주식수,493211855,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/8670/000000867010000026/,dei:EntityCommonStockSharesOutstanding 클래스 합,6
+Automatic Data Processing,ADP,2010Q3,2010-09-30,분기말 시가총액,20729694266,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/ADP?interval=1d&events=splits (2010-09-30) ; https://www.sec.gov/Archives/edgar/data/8670/000000867010000026/,종가 42.03 × 주식수 493211855,6
+Automatic Data Processing,ADP,2010Q4,2010-12-31,분기별 매출액,2405700000,USD,공시,https://www.sec.gov/Archives/edgar/data/8670/000000867011000007/,,6
+Automatic Data Processing,ADP,2010Q4,2010-12-31,분기별 영업이익,미확인,USD,미확인,SEC companyfacts CIK0000008670: 해당 보고서에 OperatingIncomeLoss 태그 없음(영업이익 미공시) ; SEC companyfacts CIK0000008670: OperatingIncomeLoss 태그 없음(영업이익 미공시),,6
+Automatic Data Processing,ADP,2010Q4,2010-12-31,분기별 당기순이익(지배),310100000,USD,공시,https://www.sec.gov/Archives/edgar/data/8670/000000867011000007/,,6
+Automatic Data Processing,ADP,2010Q4,2010-12-31,분기별 영업활동현금흐름,425000000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/8670/000000867011000007/ ; https://www.sec.gov/Archives/edgar/data/8670/000000867010000026/,누적 647300000 − 직전누적 222300000 (시작 2010-07-01),6
+Automatic Data Processing,ADP,2010Q4,2010-12-31,분기말 자산총계,32660300000,USD,공시,https://www.sec.gov/Archives/edgar/data/8670/000000867011000007/,,6
+Automatic Data Processing,ADP,2010Q4,2010-12-31,분기말 부채총계,26884700000,USD,공시,https://www.sec.gov/Archives/edgar/data/8670/000000867011000007/,,6
+Automatic Data Processing,ADP,2010Q4,2010-12-31,분기말 총자본(자기자본),5775600000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/8670/000000867011000007/,"StockholdersEquity, MinorityInterest 태그 없음",6
+Automatic Data Processing,ADP,2010Q4,2010-12-31,분기말 지배지분 자본,5775600000,USD,공시,https://www.sec.gov/Archives/edgar/data/8670/000000867011000007/,,6
+Automatic Data Processing,ADP,2010Q4,2010-12-31,분기말 종가,46.28,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/ADP?interval=1d&events=splits (2010-12-31),분할조정 종가 40.6321 × 이후 분할계수 1.139,6
+Automatic Data Processing,ADP,2010Q4,2011-01-31,분기말 상장주식수,496416668,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/8670/000000867011000007/,dei:EntityCommonStockSharesOutstanding 클래스 합,6
+Automatic Data Processing,ADP,2010Q4,2010-12-31,분기말 시가총액,22974163395,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/ADP?interval=1d&events=splits (2010-12-31) ; https://www.sec.gov/Archives/edgar/data/8670/000000867011000007/,종가 46.28 × 주식수 496416668,6
+Automatic Data Processing,ADP,2011Q1,2011-03-31,분기별 매출액,2737300000,USD,공시,https://www.sec.gov/Archives/edgar/data/8670/000000867011000010/,,6
+Automatic Data Processing,ADP,2011Q1,2011-03-31,분기별 영업이익,미확인,USD,미확인,SEC companyfacts CIK0000008670: 해당 보고서에 OperatingIncomeLoss 태그 없음(영업이익 미공시) ; SEC companyfacts CIK0000008670: OperatingIncomeLoss 태그 없음(영업이익 미공시),,6
+Automatic Data Processing,ADP,2011Q1,2011-03-31,분기별 당기순이익(지배),423800000,USD,공시,https://www.sec.gov/Archives/edgar/data/8670/000000867011000010/,,6
+Automatic Data Processing,ADP,2011Q1,2011-03-31,분기별 영업활동현금흐름,573000000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/8670/000000867011000010/ ; https://www.sec.gov/Archives/edgar/data/8670/000000867011000007/,누적 1220300000 − 직전누적 647300000 (시작 2010-07-01),6
+Automatic Data Processing,ADP,2011Q1,2011-03-31,분기말 자산총계,41596400000,USD,공시,https://www.sec.gov/Archives/edgar/data/8670/000000867011000010/,,6
+Automatic Data Processing,ADP,2011Q1,2011-03-31,분기말 부채총계,35401900000,USD,공시,https://www.sec.gov/Archives/edgar/data/8670/000000867011000010/,,6
+Automatic Data Processing,ADP,2011Q1,2011-03-31,분기말 총자본(자기자본),6194500000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/8670/000000867011000010/,"StockholdersEquity, MinorityInterest 태그 없음",6
+Automatic Data Processing,ADP,2011Q1,2011-03-31,분기말 지배지분 자본,6194500000,USD,공시,https://www.sec.gov/Archives/edgar/data/8670/000000867011000010/,,6
+Automatic Data Processing,ADP,2011Q1,2011-03-31,분기말 종가,51.31,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/ADP?interval=1d&events=splits (2011-03-31),분할조정 종가 45.0483 × 이후 분할계수 1.139,6
+Automatic Data Processing,ADP,2011Q1,2011-04-29,분기말 상장주식수,499704802,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/8670/000000867011000010/,dei:EntityCommonStockSharesOutstanding 클래스 합,6
+Automatic Data Processing,ADP,2011Q1,2011-03-31,분기말 시가총액,25639853391,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/ADP?interval=1d&events=splits (2011-03-31) ; https://www.sec.gov/Archives/edgar/data/8670/000000867011000010/,종가 51.31 × 주식수 499704802,6
+Automatic Data Processing,ADP,2011Q2,2011-06-30,분기별 매출액,2507100000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/8670/000120677411001935/ ; https://www.sec.gov/Archives/edgar/data/8670/000000867011000010/,연간 9879500000 − 9개월누적 7372400000 (Revenues),6
+Automatic Data Processing,ADP,2011Q2,2011-06-30,분기별 영업이익,미확인,USD,미확인,SEC companyfacts CIK0000008670: 해당 보고서에 OperatingIncomeLoss 태그 없음(영업이익 미공시) ; SEC companyfacts CIK0000008670: OperatingIncomeLoss 태그 없음(영업이익 미공시),,6
+Automatic Data Processing,ADP,2011Q2,2011-06-30,분기별 당기순이익(지배),241800000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/8670/000120677411001935/ ; https://www.sec.gov/Archives/edgar/data/8670/000000867011000010/,연간 1254200000 − 9개월누적 1012400000 (NetIncomeLoss),6
+Automatic Data Processing,ADP,2011Q2,2011-06-30,분기별 영업활동현금흐름,485500000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/8670/000120677411001935/ ; https://www.sec.gov/Archives/edgar/data/8670/000000867011000010/,누적 1705800000 − 직전누적 1220300000 (시작 2010-07-01),6
+Automatic Data Processing,ADP,2011Q2,2011-06-30,분기말 자산총계,34238300000,USD,공시,https://www.sec.gov/Archives/edgar/data/8670/000120677411001935/,,6
+Automatic Data Processing,ADP,2011Q2,2011-06-30,분기말 부채총계,28227900000,USD,공시,https://www.sec.gov/Archives/edgar/data/8670/000120677411001935/,,6
+Automatic Data Processing,ADP,2011Q2,2011-06-30,분기말 총자본(자기자본),6010400000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/8670/000120677411001935/,"StockholdersEquity, MinorityInterest 태그 없음",6
+Automatic Data Processing,ADP,2011Q2,2011-06-30,분기말 지배지분 자본,6010400000,USD,공시,https://www.sec.gov/Archives/edgar/data/8670/000120677411001935/,,6
+Automatic Data Processing,ADP,2011Q2,2011-06-30,분기말 종가,52.68,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/ADP?interval=1d&events=splits (2011-06-30),분할조정 종가 46.2511 × 이후 분할계수 1.139,6
+Automatic Data Processing,ADP,2011Q2,2011-08-12,분기말 상장주식수,489677633,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/8670/000120677411001935/,dei:EntityCommonStockSharesOutstanding 클래스 합,6
+Automatic Data Processing,ADP,2011Q2,2011-06-30,분기말 시가총액,25796217706,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/ADP?interval=1d&events=splits (2011-06-30) ; https://www.sec.gov/Archives/edgar/data/8670/000120677411001935/,종가 52.68 × 주식수 489677633,6
+Automatic Data Processing,ADP,2011Q3,2011-09-30,분기별 매출액,2522500000,USD,공시,https://www.sec.gov/Archives/edgar/data/8670/000120677411002415/,,6
+Automatic Data Processing,ADP,2011Q3,2011-09-30,분기별 영업이익,미확인,USD,미확인,SEC companyfacts CIK0000008670: 해당 보고서에 OperatingIncomeLoss 태그 없음(영업이익 미공시) ; SEC companyfacts CIK0000008670: OperatingIncomeLoss 태그 없음(영업이익 미공시),,6
+Automatic Data Processing,ADP,2011Q3,2011-09-30,분기별 당기순이익(지배),302700000,USD,공시,https://www.sec.gov/Archives/edgar/data/8670/000120677411002415/,,6
+Automatic Data Processing,ADP,2011Q3,2011-09-30,분기별 영업활동현금흐름,316300000,USD,공시,https://www.sec.gov/Archives/edgar/data/8670/000120677411002415/,,6
+Automatic Data Processing,ADP,2011Q3,2011-09-30,분기말 자산총계,28020200000,USD,공시,https://www.sec.gov/Archives/edgar/data/8670/000120677411002415/,,6
+Automatic Data Processing,ADP,2011Q3,2011-09-30,분기말 부채총계,22001000000,USD,공시,https://www.sec.gov/Archives/edgar/data/8670/000120677411002415/,,6
+Automatic Data Processing,ADP,2011Q3,2011-09-30,분기말 총자본(자기자본),6019200000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/8670/000120677411002415/,"StockholdersEquity, MinorityInterest 태그 없음",6
+Automatic Data Processing,ADP,2011Q3,2011-09-30,분기말 지배지분 자본,6019200000,USD,공시,https://www.sec.gov/Archives/edgar/data/8670/000120677411002415/,,6
+Automatic Data Processing,ADP,2011Q3,2011-09-30,분기말 종가,47.15,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/ADP?interval=1d&events=splits (2011-09-30),분할조정 종가 41.396 × 이후 분할계수 1.139,6
+Automatic Data Processing,ADP,2011Q3,2011-10-28,분기말 상장주식수,488698027,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/8670/000120677411002415/,dei:EntityCommonStockSharesOutstanding 클래스 합,6
+Automatic Data Processing,ADP,2011Q3,2011-09-30,분기말 시가총액,23042111973,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/ADP?interval=1d&events=splits (2011-09-30) ; https://www.sec.gov/Archives/edgar/data/8670/000120677411002415/,종가 47.15 × 주식수 488698027,6
+Automatic Data Processing,ADP,2011Q4,2011-12-31,분기별 매출액,2583000000,USD,공시,https://www.sec.gov/Archives/edgar/data/8670/000000867012000002/,,6
+Automatic Data Processing,ADP,2011Q4,2011-12-31,분기별 영업이익,미확인,USD,미확인,SEC companyfacts CIK0000008670: 해당 보고서에 OperatingIncomeLoss 태그 없음(영업이익 미공시) ; SEC companyfacts CIK0000008670: OperatingIncomeLoss 태그 없음(영업이익 미공시),,6
+Automatic Data Processing,ADP,2011Q4,2011-12-31,분기별 당기순이익(지배),375000000,USD,공시,https://www.sec.gov/Archives/edgar/data/8670/000000867012000002/,,6
+Automatic Data Processing,ADP,2011Q4,2011-12-31,분기별 영업활동현금흐름,431600000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/8670/000000867012000002/ ; https://www.sec.gov/Archives/edgar/data/8670/000120677411002415/,누적 747900000 − 직전누적 316300000 (시작 2011-07-01),6
+Automatic Data Processing,ADP,2011Q4,2011-12-31,분기말 자산총계,32484400000,USD,공시,https://www.sec.gov/Archives/edgar/data/8670/000000867012000002/,,6
+Automatic Data Processing,ADP,2011Q4,2011-12-31,분기말 부채총계,26302000000,USD,공시,https://www.sec.gov/Archives/edgar/data/8670/000000867012000002/,,6
+Automatic Data Processing,ADP,2011Q4,2011-12-31,분기말 총자본(자기자본),6182400000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/8670/000000867012000002/,"StockholdersEquity, MinorityInterest 태그 없음",6
+Automatic Data Processing,ADP,2011Q4,2011-12-31,분기말 지배지분 자본,6182400000,USD,공시,https://www.sec.gov/Archives/edgar/data/8670/000000867012000002/,,6
+Automatic Data Processing,ADP,2011Q4,2011-12-30,분기말 종가,54.01,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/ADP?interval=1d&events=splits (2011-12-30),분할조정 종가 47.4188 × 이후 분할계수 1.139,6
+Automatic Data Processing,ADP,2011Q4,2012-01-31,분기말 상장주식수,490575881,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/8670/000000867012000002/,dei:EntityCommonStockSharesOutstanding 클래스 합,6
+Automatic Data Processing,ADP,2011Q4,2011-12-30,분기말 시가총액,26496003333,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/ADP?interval=1d&events=splits (2011-12-30) ; https://www.sec.gov/Archives/edgar/data/8670/000000867012000002/,종가 54.01 × 주식수 490575881,6
+Automatic Data Processing,ADP,2012Q1,2012-03-31,분기별 매출액,2923100000,USD,공시,https://www.sec.gov/Archives/edgar/data/8670/000000867012000004/,,6
+Automatic Data Processing,ADP,2012Q1,2012-03-31,분기별 영업이익,미확인,USD,미확인,SEC companyfacts CIK0000008670: 해당 보고서에 OperatingIncomeLoss 태그 없음(영업이익 미공시) ; SEC companyfacts CIK0000008670: OperatingIncomeLoss 태그 없음(영업이익 미공시),,6
+Automatic Data Processing,ADP,2012Q1,2012-03-31,분기별 당기순이익(지배),452400000,USD,공시,https://www.sec.gov/Archives/edgar/data/8670/000000867012000004/,,6
+Automatic Data Processing,ADP,2012Q1,2012-03-31,분기별 영업활동현금흐름,663200000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/8670/000000867012000004/ ; https://www.sec.gov/Archives/edgar/data/8670/000000867012000002/,누적 1411100000 − 직전누적 747900000 (시작 2011-07-01),6
+Automatic Data Processing,ADP,2012Q1,2012-03-31,분기말 자산총계,39376100000,USD,공시,https://www.sec.gov/Archives/edgar/data/8670/000000867012000004/,,6
+Automatic Data Processing,ADP,2012Q1,2012-03-31,분기말 부채총계,32919500000,USD,공시,https://www.sec.gov/Archives/edgar/data/8670/000000867012000004/,,6
+Automatic Data Processing,ADP,2012Q1,2012-03-31,분기말 총자본(자기자본),6456600000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/8670/000000867012000004/,"StockholdersEquity, MinorityInterest 태그 없음",6
+Automatic Data Processing,ADP,2012Q1,2012-03-31,분기말 지배지분 자본,6456600000,USD,공시,https://www.sec.gov/Archives/edgar/data/8670/000000867012000004/,,6
+Automatic Data Processing,ADP,2012Q1,2012-03-30,분기말 종가,55.19,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/ADP?interval=1d&events=splits (2012-03-30),분할조정 종가 48.4548 × 이후 분할계수 1.139,6
+Automatic Data Processing,ADP,2012Q1,2012-04-27,분기말 상장주식수,489085110,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/8670/000000867012000004/,dei:EntityCommonStockSharesOutstanding 클래스 합,6
+Automatic Data Processing,ADP,2012Q1,2012-03-30,분기말 시가총액,26992607221,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/ADP?interval=1d&events=splits (2012-03-30) ; https://www.sec.gov/Archives/edgar/data/8670/000000867012000004/,종가 55.19 × 주식수 489085110,6
+Automatic Data Processing,ADP,2012Q2,2012-06-30,분기별 매출액,2636600000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/8670/000120677412003634/ ; https://www.sec.gov/Archives/edgar/data/8670/000000867012000004/,연간 10665200000 − 9개월누적 8028600000 (Revenues),6
+Automatic Data Processing,ADP,2012Q2,2012-06-30,분기별 영업이익,미확인,USD,미확인,SEC companyfacts CIK0000008670: 해당 보고서에 OperatingIncomeLoss 태그 없음(영업이익 미공시) ; SEC companyfacts CIK0000008670: OperatingIncomeLoss 태그 없음(영업이익 미공시),,6
+Automatic Data Processing,ADP,2012Q2,2012-06-30,분기별 당기순이익(지배),258400000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/8670/000120677412003634/ ; https://www.sec.gov/Archives/edgar/data/8670/000000867012000004/,연간 1388500000 − 9개월누적 1130100000 (NetIncomeLoss),6
+Automatic Data Processing,ADP,2012Q2,2012-06-30,분기별 영업활동현금흐름,499100000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/8670/000120677412003634/ ; https://www.sec.gov/Archives/edgar/data/8670/000000867012000004/,누적 1910200000 − 직전누적 1411100000 (시작 2011-07-01),6
+Automatic Data Processing,ADP,2012Q2,2012-06-30,분기말 자산총계,30817400000,USD,공시(재작성 반영),https://www.sec.gov/Archives/edgar/data/8670/000000867013000015/,원 공시 30815500000 (https://www.sec.gov/Archives/edgar/data/8670/000120677412003634/),6
+Automatic Data Processing,ADP,2012Q2,2012-06-30,분기말 부채총계,24703400000,USD,공시(재작성 반영),https://www.sec.gov/Archives/edgar/data/8670/000000867013000015/,원 공시 24701500000 (https://www.sec.gov/Archives/edgar/data/8670/000120677412003634/),6
+Automatic Data Processing,ADP,2012Q2,2012-06-30,분기말 총자본(자기자본),6114000000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/8670/000120677412003634/,"StockholdersEquity, MinorityInterest 태그 없음",6
+Automatic Data Processing,ADP,2012Q2,2012-06-30,분기말 지배지분 자본,6114000000,USD,공시,https://www.sec.gov/Archives/edgar/data/8670/000120677412003634/,,6
+Automatic Data Processing,ADP,2012Q2,2012-06-29,분기말 종가,55.66,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/ADP?interval=1d&events=splits (2012-06-29),분할조정 종가 48.8674 × 이후 분할계수 1.139,6
+Automatic Data Processing,ADP,2012Q2,2012-08-10,분기말 상장주식수,484504817,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/8670/000120677412003634/,dei:EntityCommonStockSharesOutstanding 클래스 합,6
+Automatic Data Processing,ADP,2012Q2,2012-06-29,분기말 시가총액,26967538114,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/ADP?interval=1d&events=splits (2012-06-29) ; https://www.sec.gov/Archives/edgar/data/8670/000120677412003634/,종가 55.66 × 주식수 484504817,6
+Automatic Data Processing,ADP,2012Q3,2012-09-30,분기별 매출액,2637500000,USD,공시,https://www.sec.gov/Archives/edgar/data/8670/000000867012000009/,,6
+Automatic Data Processing,ADP,2012Q3,2012-09-30,분기별 영업이익,미확인,USD,미확인,SEC companyfacts CIK0000008670: 해당 보고서에 OperatingIncomeLoss 태그 없음(영업이익 미공시) ; SEC companyfacts CIK0000008670: OperatingIncomeLoss 태그 없음(영업이익 미공시),,6
+Automatic Data Processing,ADP,2012Q3,2012-09-30,분기별 당기순이익(지배),305300000,USD,공시,https://www.sec.gov/Archives/edgar/data/8670/000000867012000009/,,6
+Automatic Data Processing,ADP,2012Q3,2012-09-30,분기별 영업활동현금흐름,-65100000,USD,공시,https://www.sec.gov/Archives/edgar/data/8670/000000867012000009/,,6
+Automatic Data Processing,ADP,2012Q3,2012-09-30,분기말 자산총계,30144100000,USD,공시,https://www.sec.gov/Archives/edgar/data/8670/000000867012000009/,,6
+Automatic Data Processing,ADP,2012Q3,2012-09-30,분기말 부채총계,23851400000,USD,공시,https://www.sec.gov/Archives/edgar/data/8670/000000867012000009/,,6
+Automatic Data Processing,ADP,2012Q3,2012-09-30,분기말 총자본(자기자본),6292700000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/8670/000000867012000009/,"StockholdersEquity, MinorityInterest 태그 없음",6
+Automatic Data Processing,ADP,2012Q3,2012-09-30,분기말 지배지분 자본,6292700000,USD,공시,https://www.sec.gov/Archives/edgar/data/8670/000000867012000009/,,6
+Automatic Data Processing,ADP,2012Q3,2012-09-28,분기말 종가,58.66,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/ADP?interval=1d&events=splits (2012-09-28),분할조정 종가 51.5013 × 이후 분할계수 1.139,6
+Automatic Data Processing,ADP,2012Q3,2012-10-29,분기말 상장주식수,485473927,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/8670/000000867012000009/,dei:EntityCommonStockSharesOutstanding 클래스 합,6
+Automatic Data Processing,ADP,2012Q3,2012-09-28,분기말 시가총액,28477900558,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/ADP?interval=1d&events=splits (2012-09-28) ; https://www.sec.gov/Archives/edgar/data/8670/000000867012000009/,종가 58.66 × 주식수 485473927,6
+Automatic Data Processing,ADP,2012Q4,2012-12-31,분기별 매출액,2747800000,USD,공시,https://www.sec.gov/Archives/edgar/data/8670/000000867013000003/,,6
+Automatic Data Processing,ADP,2012Q4,2012-12-31,분기별 영업이익,미확인,USD,미확인,SEC companyfacts CIK0000008670: 해당 보고서에 OperatingIncomeLoss 태그 없음(영업이익 미공시) ; SEC companyfacts CIK0000008670: OperatingIncomeLoss 태그 없음(영업이익 미공시),,6
+Automatic Data Processing,ADP,2012Q4,2012-12-31,분기별 당기순이익(지배),390900000,USD,공시,https://www.sec.gov/Archives/edgar/data/8670/000000867013000003/,,6
+Automatic Data Processing,ADP,2012Q4,2012-12-31,분기별 영업활동현금흐름,448500000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/8670/000000867013000003/ ; https://www.sec.gov/Archives/edgar/data/8670/000000867012000009/,누적 383400000 − 직전누적 -65100000 (시작 2012-07-01),6
+Automatic Data Processing,ADP,2012Q4,2012-12-31,분기말 자산총계,33330000000,USD,공시,https://www.sec.gov/Archives/edgar/data/8670/000000867013000003/,,6
+Automatic Data Processing,ADP,2012Q4,2012-12-31,분기말 부채총계,26934700000,USD,공시,https://www.sec.gov/Archives/edgar/data/8670/000000867013000003/,,6
+Automatic Data Processing,ADP,2012Q4,2012-12-31,분기말 총자본(자기자본),6395300000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/8670/000000867013000003/,"StockholdersEquity, MinorityInterest 태그 없음",6
+Automatic Data Processing,ADP,2012Q4,2012-12-31,분기말 지배지분 자본,6395300000,USD,공시,https://www.sec.gov/Archives/edgar/data/8670/000000867013000003/,,6
+Automatic Data Processing,ADP,2012Q4,2012-12-31,분기말 종가,56.93,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/ADP?interval=1d&events=splits (2012-12-31),분할조정 종가 49.9824 × 이후 분할계수 1.139,6
+Automatic Data Processing,ADP,2012Q4,2013-01-31,분기말 상장주식수,485017174,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/8670/000000867013000003/,dei:EntityCommonStockSharesOutstanding 클래스 합,6
+Automatic Data Processing,ADP,2012Q4,2012-12-31,분기말 시가총액,27612027716,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/ADP?interval=1d&events=splits (2012-12-31) ; https://www.sec.gov/Archives/edgar/data/8670/000000867013000003/,종가 56.93 × 주식수 485017174,6
+Automatic Data Processing,ADP,2013Q1,2013-03-31,분기별 매출액,3114300000,USD,공시,https://www.sec.gov/Archives/edgar/data/8670/000000867013000007/,,6
+Automatic Data Processing,ADP,2013Q1,2013-03-31,분기별 영업이익,미확인,USD,미확인,SEC companyfacts CIK0000008670: 해당 보고서에 OperatingIncomeLoss 태그 없음(영업이익 미공시) ; SEC companyfacts CIK0000008670: OperatingIncomeLoss 태그 없음(영업이익 미공시),,6
+Automatic Data Processing,ADP,2013Q1,2013-03-31,분기별 당기순이익(지배),482700000,USD,공시,https://www.sec.gov/Archives/edgar/data/8670/000000867013000007/,,6
+Automatic Data Processing,ADP,2013Q1,2013-03-31,분기별 영업활동현금흐름,618300000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/8670/000000867013000007/ ; https://www.sec.gov/Archives/edgar/data/8670/000000867013000003/,누적 1001700000 − 직전누적 383400000 (시작 2012-07-01),6
+Automatic Data Processing,ADP,2013Q1,2013-03-31,분기말 자산총계,40166300000,USD,공시,https://www.sec.gov/Archives/edgar/data/8670/000000867013000007/,,6
+Automatic Data Processing,ADP,2013Q1,2013-03-31,분기말 부채총계,33605200000,USD,공시,https://www.sec.gov/Archives/edgar/data/8670/000000867013000007/,,6
+Automatic Data Processing,ADP,2013Q1,2013-03-31,분기말 총자본(자기자본),6561100000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/8670/000000867013000007/,"StockholdersEquity, MinorityInterest 태그 없음",6
+Automatic Data Processing,ADP,2013Q1,2013-03-31,분기말 지배지분 자본,6561100000,USD,공시,https://www.sec.gov/Archives/edgar/data/8670/000000867013000007/,,6
+Automatic Data Processing,ADP,2013Q1,2013-03-28,분기말 종가,65.03,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/ADP?interval=1d&events=splits (2013-03-28),분할조정 종가 57.0939 × 이후 분할계수 1.139,6
+Automatic Data Processing,ADP,2013Q1,2013-04-30,분기말 상장주식수,485222417,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/8670/000000867013000007/,dei:EntityCommonStockSharesOutstanding 클래스 합,6
+Automatic Data Processing,ADP,2013Q1,2013-03-28,분기말 시가총액,31554013778,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/ADP?interval=1d&events=splits (2013-03-28) ; https://www.sec.gov/Archives/edgar/data/8670/000000867013000007/,종가 65.03 × 주식수 485222417,6
+Automatic Data Processing,ADP,2013Q2,2013-06-30,분기별 매출액,2810500000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/8670/000000867013000015/ ; https://www.sec.gov/Archives/edgar/data/8670/000000867013000007/,연간 11310100000 − 9개월누적 8499600000 (Revenues),6
+Automatic Data Processing,ADP,2013Q2,2013-06-30,분기별 영업이익,미확인,USD,미확인,SEC companyfacts CIK0000008670: 해당 보고서에 OperatingIncomeLoss 태그 없음(영업이익 미공시) ; SEC companyfacts CIK0000008670: OperatingIncomeLoss 태그 없음(영업이익 미공시),,6
+Automatic Data Processing,ADP,2013Q2,2013-06-30,분기별 당기순이익(지배),227000000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/8670/000000867013000015/ ; https://www.sec.gov/Archives/edgar/data/8670/000000867013000007/,연간 1405800000 − 9개월누적 1178800000 (NetIncomeLoss),6
+Automatic Data Processing,ADP,2013Q2,2013-06-30,분기별 영업활동현금흐름,575500000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/8670/000000867013000015/ ; https://www.sec.gov/Archives/edgar/data/8670/000000867013000007/,누적 1577200000 − 직전누적 1001700000 (시작 2012-07-01),6
+Automatic Data Processing,ADP,2013Q2,2013-06-30,분기말 자산총계,32268100000,USD,공시,https://www.sec.gov/Archives/edgar/data/8670/000000867013000015/,,6
+Automatic Data Processing,ADP,2013Q2,2013-06-30,분기말 부채총계,26078200000,USD,공시,https://www.sec.gov/Archives/edgar/data/8670/000000867013000015/,,6
+Automatic Data Processing,ADP,2013Q2,2013-06-30,분기말 총자본(자기자본),6189900000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/8670/000000867013000015/,"StockholdersEquity, MinorityInterest 태그 없음",6
+Automatic Data Processing,ADP,2013Q2,2013-06-30,분기말 지배지분 자본,6189900000,USD,공시,https://www.sec.gov/Archives/edgar/data/8670/000000867013000015/,,6
+Automatic Data Processing,ADP,2013Q2,2013-06-28,분기말 종가,68.86,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/ADP?interval=1d&events=splits (2013-06-28),분할조정 종가 60.4565 × 이후 분할계수 1.139,6
+Automatic Data Processing,ADP,2013Q2,2013-08-09,분기말 상장주식수,482823076,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/8670/000000867013000015/,dei:EntityCommonStockSharesOutstanding 클래스 합,6
+Automatic Data Processing,ADP,2013Q2,2013-06-28,분기말 시가총액,33247197013,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/ADP?interval=1d&events=splits (2013-06-28) ; https://www.sec.gov/Archives/edgar/data/8670/000000867013000015/,종가 68.86 × 주식수 482823076,6
+Automatic Data Processing,ADP,2013Q3,2013-09-30,분기별 매출액,2839600000,USD,공시,https://www.sec.gov/Archives/edgar/data/8670/000000867013000019/,,6
+Automatic Data Processing,ADP,2013Q3,2013-09-30,분기별 영업이익,미확인,USD,미확인,SEC companyfacts CIK0000008670: 해당 보고서에 OperatingIncomeLoss 태그 없음(영업이익 미공시) ; SEC companyfacts CIK0000008670: OperatingIncomeLoss 태그 없음(영업이익 미공시),,6
+Automatic Data Processing,ADP,2013Q3,2013-09-30,분기별 당기순이익(지배),328600000,USD,공시,https://www.sec.gov/Archives/edgar/data/8670/000000867013000019/,,6
+Automatic Data Processing,ADP,2013Q3,2013-09-30,분기별 영업활동현금흐름,81300000,USD,공시,https://www.sec.gov/Archives/edgar/data/8670/000000867013000019/,,6
+Automatic Data Processing,ADP,2013Q3,2013-09-30,분기말 자산총계,29481300000,USD,공시,https://www.sec.gov/Archives/edgar/data/8670/000000867013000019/,,6
+Automatic Data Processing,ADP,2013Q3,2013-09-30,분기말 부채총계,23288500000,USD,공시,https://www.sec.gov/Archives/edgar/data/8670/000000867013000019/,,6
+Automatic Data Processing,ADP,2013Q3,2013-09-30,분기말 총자본(자기자본),6192800000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/8670/000000867013000019/,"StockholdersEquity, MinorityInterest 태그 없음",6
+Automatic Data Processing,ADP,2013Q3,2013-09-30,분기말 지배지분 자본,6192800000,USD,공시,https://www.sec.gov/Archives/edgar/data/8670/000000867013000019/,,6
+Automatic Data Processing,ADP,2013Q3,2013-09-30,분기말 종가,72.38,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/ADP?interval=1d&events=splits (2013-09-30),분할조정 종가 63.547 × 이후 분할계수 1.139,6
+Automatic Data Processing,ADP,2013Q3,2013-10-29,분기말 상장주식수,481425397,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/8670/000000867013000019/,dei:EntityCommonStockSharesOutstanding 클래스 합,6
+Automatic Data Processing,ADP,2013Q3,2013-09-30,분기말 시가총액,34845570235,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/ADP?interval=1d&events=splits (2013-09-30) ; https://www.sec.gov/Archives/edgar/data/8670/000000867013000019/,종가 72.38 × 주식수 481425397,6
+Automatic Data Processing,ADP,2013Q4,2013-12-31,분기별 매출액,2982800000,USD,공시,https://www.sec.gov/Archives/edgar/data/8670/000000867014000003/,,6
+Automatic Data Processing,ADP,2013Q4,2013-12-31,분기별 영업이익,미확인,USD,미확인,SEC companyfacts CIK0000008670: 해당 보고서에 OperatingIncomeLoss 태그 없음(영업이익 미공시) ; SEC companyfacts CIK0000008670: OperatingIncomeLoss 태그 없음(영업이익 미공시),,6
+Automatic Data Processing,ADP,2013Q4,2013-12-31,분기별 당기순이익(지배),377000000,USD,공시,https://www.sec.gov/Archives/edgar/data/8670/000000867014000003/,,6
+Automatic Data Processing,ADP,2013Q4,2013-12-31,분기별 영업활동현금흐름,391700000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/8670/000000867014000003/ ; https://www.sec.gov/Archives/edgar/data/8670/000000867013000019/,누적 473000000 − 직전누적 81300000 (시작 2013-07-01),6
+Automatic Data Processing,ADP,2013Q4,2013-12-31,분기말 자산총계,38321800000,USD,공시,https://www.sec.gov/Archives/edgar/data/8670/000000867014000003/,,6
+Automatic Data Processing,ADP,2013Q4,2013-12-31,분기말 부채총계,32063300000,USD,공시,https://www.sec.gov/Archives/edgar/data/8670/000000867014000003/,,6
+Automatic Data Processing,ADP,2013Q4,2013-12-31,분기말 총자본(자기자본),6258500000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/8670/000000867014000003/,"StockholdersEquity, MinorityInterest 태그 없음",6
+Automatic Data Processing,ADP,2013Q4,2013-12-31,분기말 지배지분 자본,6258500000,USD,공시,https://www.sec.gov/Archives/edgar/data/8670/000000867014000003/,,6
+Automatic Data Processing,ADP,2013Q4,2013-12-31,분기말 종가,80.8,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/ADP?interval=1d&events=splits (2013-12-31),분할조정 종가 70.9394 × 이후 분할계수 1.139,6
+Automatic Data Processing,ADP,2013Q4,2014-01-31,분기말 상장주식수,481825525,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/8670/000000867014000003/,dei:EntityCommonStockSharesOutstanding 클래스 합,6
+Automatic Data Processing,ADP,2013Q4,2013-12-31,분기말 시가총액,38931502420,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/ADP?interval=1d&events=splits (2013-12-31) ; https://www.sec.gov/Archives/edgar/data/8670/000000867014000003/,종가 80.8 × 주식수 481825525,6
+Automatic Data Processing,ADP,2014Q1,2014-03-31,분기별 매출액,3320000000,USD,공시,https://www.sec.gov/Archives/edgar/data/8670/000000867014000006/,,6
+Automatic Data Processing,ADP,2014Q1,2014-03-31,분기별 영업이익,미확인,USD,미확인,SEC companyfacts CIK0000008670: 해당 보고서에 OperatingIncomeLoss 태그 없음(영업이익 미공시) ; SEC companyfacts CIK0000008670: OperatingIncomeLoss 태그 없음(영업이익 미공시),,6
+Automatic Data Processing,ADP,2014Q1,2014-03-31,분기별 당기순이익(지배),521600000,USD,공시,https://www.sec.gov/Archives/edgar/data/8670/000000867014000006/,,6
+Automatic Data Processing,ADP,2014Q1,2014-03-31,분기별 영업활동현금흐름,743900000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/8670/000000867014000006/ ; https://www.sec.gov/Archives/edgar/data/8670/000000867014000003/,누적 1216900000 − 직전누적 473000000 (시작 2013-07-01),6
+Automatic Data Processing,ADP,2014Q1,2014-03-31,분기말 자산총계,36596500000,USD,공시,https://www.sec.gov/Archives/edgar/data/8670/000000867014000006/,,6
+Automatic Data Processing,ADP,2014Q1,2014-03-31,분기말 부채총계,29980400000,USD,공시,https://www.sec.gov/Archives/edgar/data/8670/000000867014000006/,,6
+Automatic Data Processing,ADP,2014Q1,2014-03-31,분기말 총자본(자기자본),6616100000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/8670/000000867014000006/,"StockholdersEquity, MinorityInterest 태그 없음",6
+Automatic Data Processing,ADP,2014Q1,2014-03-31,분기말 지배지분 자본,6616100000,USD,공시,https://www.sec.gov/Archives/edgar/data/8670/000000867014000006/,,6
+Automatic Data Processing,ADP,2014Q1,2014-03-31,분기말 종가,77.26,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/ADP?interval=1d&events=splits (2014-03-31),분할조정 종가 67.8314 × 이후 분할계수 1.139,6
+Automatic Data Processing,ADP,2014Q1,2014-04-28,분기말 상장주식수,482102232,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/8670/000000867014000006/,dei:EntityCommonStockSharesOutstanding 클래스 합,6
+Automatic Data Processing,ADP,2014Q1,2014-03-31,분기말 시가총액,37247218444,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/ADP?interval=1d&events=splits (2014-03-31) ; https://www.sec.gov/Archives/edgar/data/8670/000000867014000006/,종가 77.26 × 주식수 482102232,6
+Automatic Data Processing,ADP,2014Q2,2014-06-30,분기별 매출액,3073800000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/8670/000000867014000015/ ; https://www.sec.gov/Archives/edgar/data/8670/000000867014000006/,연간 12206500000 − 9개월누적 9132700000 (Revenues),6
+Automatic Data Processing,ADP,2014Q2,2014-06-30,분기별 영업이익,미확인,USD,미확인,SEC companyfacts CIK0000008670: 해당 보고서에 OperatingIncomeLoss 태그 없음(영업이익 미공시) ; SEC companyfacts CIK0000008670: OperatingIncomeLoss 태그 없음(영업이익 미공시),,6
+Automatic Data Processing,ADP,2014Q2,2014-06-30,분기별 당기순이익(지배),288800000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/8670/000000867014000015/ ; https://www.sec.gov/Archives/edgar/data/8670/000000867014000006/,연간 1515900000 − 9개월누적 1227100000 (NetIncomeLoss),6
+Automatic Data Processing,ADP,2014Q2,2014-06-30,분기별 영업활동현금흐름,604500000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/8670/000000867014000015/ ; https://www.sec.gov/Archives/edgar/data/8670/000000867014000006/,누적 1821400000 − 직전누적 1216900000 (시작 2013-07-01),6
+Automatic Data Processing,ADP,2014Q2,2014-06-30,분기말 자산총계,32059800000,USD,공시(재작성 반영),https://www.sec.gov/Archives/edgar/data/8670/000000867015000021/,원 공시 32051700000 (https://www.sec.gov/Archives/edgar/data/8670/000000867014000015/),6
+Automatic Data Processing,ADP,2014Q2,2014-06-30,분기말 부채총계,25389600000,USD,공시(재작성 반영),https://www.sec.gov/Archives/edgar/data/8670/000000867015000021/,원 공시 25381500000 (https://www.sec.gov/Archives/edgar/data/8670/000000867014000015/),6
+Automatic Data Processing,ADP,2014Q2,2014-06-30,분기말 총자본(자기자본),6670200000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/8670/000000867014000015/,"StockholdersEquity, MinorityInterest 태그 없음",6
+Automatic Data Processing,ADP,2014Q2,2014-06-30,분기말 지배지분 자본,6670200000,USD,공시,https://www.sec.gov/Archives/edgar/data/8670/000000867014000015/,,6
+Automatic Data Processing,ADP,2014Q2,2014-06-30,분기말 종가,79.28,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/ADP?interval=1d&events=splits (2014-06-30),분할조정 종가 69.6049 × 이후 분할계수 1.139,6
+Automatic Data Processing,ADP,2014Q2,2014-07-31,분기말 상장주식수,480912107,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/8670/000000867014000015/,dei:EntityCommonStockSharesOutstanding 클래스 합,6
+Automatic Data Processing,ADP,2014Q2,2014-06-30,분기말 시가총액,38126711843,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/ADP?interval=1d&events=splits (2014-06-30) ; https://www.sec.gov/Archives/edgar/data/8670/000000867014000015/,종가 79.28 × 주식수 480912107,6
+Automatic Data Processing,ADP,2014Q3,2014-09-30,분기별 매출액,2573800000,USD,공시,https://www.sec.gov/Archives/edgar/data/8670/000000867014000020/,,6
+Automatic Data Processing,ADP,2014Q3,2014-09-30,분기별 영업이익,미확인,USD,미확인,SEC companyfacts CIK0000008670: 해당 보고서에 OperatingIncomeLoss 태그 없음(영업이익 미공시) ; SEC companyfacts CIK0000008670: OperatingIncomeLoss 태그 없음(영업이익 미공시),,6
+Automatic Data Processing,ADP,2014Q3,2014-09-30,분기별 당기순이익(지배),295200000,USD,공시,https://www.sec.gov/Archives/edgar/data/8670/000000867014000020/,,6
+Automatic Data Processing,ADP,2014Q3,2014-09-30,분기별 영업활동현금흐름,378200000,USD,공시,https://www.sec.gov/Archives/edgar/data/8670/000000867014000020/,,6
+Automatic Data Processing,ADP,2014Q3,2014-09-30,분기말 자산총계,30208100000,USD,공시,https://www.sec.gov/Archives/edgar/data/8670/000000867014000020/,,6
+Automatic Data Processing,ADP,2014Q3,2014-09-30,분기말 부채총계,24380800000,USD,공시,https://www.sec.gov/Archives/edgar/data/8670/000000867014000020/,,6
+Automatic Data Processing,ADP,2014Q3,2014-09-30,분기말 총자본(자기자본),5827300000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/8670/000000867014000020/,"StockholdersEquity, MinorityInterest 태그 없음",6
+Automatic Data Processing,ADP,2014Q3,2014-09-30,분기말 지배지분 자본,5827300000,USD,공시,https://www.sec.gov/Archives/edgar/data/8670/000000867014000020/,,6
+Automatic Data Processing,ADP,2014Q3,2014-09-30,분기말 종가,83.08,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/ADP?interval=1d&events=splits (2014-09-30),분할조정 종가 72.9412 × 이후 분할계수 1.139,6
+Automatic Data Processing,ADP,2014Q3,2014-10-24,분기말 상장주식수,482056801,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/8670/000000867014000020/,dei:EntityCommonStockSharesOutstanding 클래스 합; 표지 기준일이 분할 후,6
+Automatic Data Processing,ADP,2014Q3,2014-09-30,분기말 시가총액,35161790191,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/ADP?interval=1d&events=splits (2014-09-30) ; https://www.sec.gov/Archives/edgar/data/8670/000000867014000020/,종가 83.08 × 주식수 482056801 ÷ 분할비율 1.139 (분할일 2014-10-01가 거래일 2014-09-30와 표지 기준일 2014-10-24 사이),6
+Automatic Data Processing,ADP,2014Q4,2014-12-31,분기별 매출액,2661300000,USD,공시,https://www.sec.gov/Archives/edgar/data/8670/000000867015000004/,,6
+Automatic Data Processing,ADP,2014Q4,2014-12-31,분기별 영업이익,미확인,USD,미확인,SEC companyfacts CIK0000008670: 해당 보고서에 OperatingIncomeLoss 태그 없음(영업이익 미공시) ; SEC companyfacts CIK0000008670: OperatingIncomeLoss 태그 없음(영업이익 미공시),,6
+Automatic Data Processing,ADP,2014Q4,2014-12-31,분기별 당기순이익(지배),331500000,USD,공시,https://www.sec.gov/Archives/edgar/data/8670/000000867015000004/,,6
+Automatic Data Processing,ADP,2014Q4,2014-12-31,분기별 영업활동현금흐름,228900000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/8670/000000867015000004/ ; https://www.sec.gov/Archives/edgar/data/8670/000000867014000020/,누적 607100000 − 직전누적 378200000 (시작 2014-07-01),6
+Automatic Data Processing,ADP,2014Q4,2014-12-31,분기말 자산총계,43503100000,USD,공시,https://www.sec.gov/Archives/edgar/data/8670/000000867015000004/,,6
+Automatic Data Processing,ADP,2014Q4,2014-12-31,분기말 부채총계,38010900000,USD,공시,https://www.sec.gov/Archives/edgar/data/8670/000000867015000004/,,6
+Automatic Data Processing,ADP,2014Q4,2014-12-31,분기말 총자본(자기자본),5492200000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/8670/000000867015000004/,"StockholdersEquity, MinorityInterest 태그 없음",6
+Automatic Data Processing,ADP,2014Q4,2014-12-31,분기말 지배지분 자본,5492200000,USD,공시,https://www.sec.gov/Archives/edgar/data/8670/000000867015000004/,,6
+Automatic Data Processing,ADP,2014Q4,2014-12-31,분기말 종가,83.37,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/ADP?interval=1d&events=splits (2014-12-31),,6
+Automatic Data Processing,ADP,2014Q4,2015-01-30,분기말 상장주식수,475152112,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/8670/000000867015000004/,dei:EntityCommonStockSharesOutstanding 클래스 합,6
+Automatic Data Processing,ADP,2014Q4,2014-12-31,분기말 시가총액,39613431577,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/ADP?interval=1d&events=splits (2014-12-31) ; https://www.sec.gov/Archives/edgar/data/8670/000000867015000004/,종가 83.37 × 주식수 475152112,6
+Automatic Data Processing,ADP,2015Q1,2015-03-31,분기별 매출액,3031700000,USD,공시,https://www.sec.gov/Archives/edgar/data/8670/000000867015000012/,,6
+Automatic Data Processing,ADP,2015Q1,2015-03-31,분기별 영업이익,미확인,USD,미확인,SEC companyfacts CIK0000008670: 해당 보고서에 OperatingIncomeLoss 태그 없음(영업이익 미공시) ; SEC companyfacts CIK0000008670: OperatingIncomeLoss 태그 없음(영업이익 미공시),,6
+Automatic Data Processing,ADP,2015Q1,2015-03-31,분기별 당기순이익(지배),489600000,USD,공시,https://www.sec.gov/Archives/edgar/data/8670/000000867015000012/,,6
+Automatic Data Processing,ADP,2015Q1,2015-03-31,분기별 영업활동현금흐름,857100000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/8670/000000867015000012/ ; https://www.sec.gov/Archives/edgar/data/8670/000000867015000004/,누적 1464200000 − 직전누적 607100000 (시작 2014-07-01),6
+Automatic Data Processing,ADP,2015Q1,2015-03-31,분기말 자산총계,37107300000,USD,공시,https://www.sec.gov/Archives/edgar/data/8670/000000867015000012/,,6
+Automatic Data Processing,ADP,2015Q1,2015-03-31,분기말 부채총계,31929200000,USD,공시,https://www.sec.gov/Archives/edgar/data/8670/000000867015000012/,,6
+Automatic Data Processing,ADP,2015Q1,2015-03-31,분기말 총자본(자기자본),5178100000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/8670/000000867015000012/,"StockholdersEquity, MinorityInterest 태그 없음",6
+Automatic Data Processing,ADP,2015Q1,2015-03-31,분기말 지배지분 자본,5178100000,USD,공시,https://www.sec.gov/Archives/edgar/data/8670/000000867015000012/,,6
+Automatic Data Processing,ADP,2015Q1,2015-03-31,분기말 종가,85.64,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/ADP?interval=1d&events=splits (2015-03-31),,6
+Automatic Data Processing,ADP,2015Q1,2015-04-30,분기말 상장주식수,469524030,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/8670/000000867015000012/,dei:EntityCommonStockSharesOutstanding 클래스 합,6
+Automatic Data Processing,ADP,2015Q1,2015-03-31,분기말 시가총액,40210037929,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/ADP?interval=1d&events=splits (2015-03-31) ; https://www.sec.gov/Archives/edgar/data/8670/000000867015000012/,종가 85.64 × 주식수 469524030,6
+Automatic Data Processing,ADP,2015Q2,2015-06-30,분기별 매출액,2671700000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/8670/000000867015000021/ ; https://www.sec.gov/Archives/edgar/data/8670/000000867015000012/,연간 10938500000 − 9개월누적 8266800000 (Revenues),6
+Automatic Data Processing,ADP,2015Q2,2015-06-30,분기별 영업이익,미확인,USD,미확인,SEC companyfacts CIK0000008670: 해당 보고서에 OperatingIncomeLoss 태그 없음(영업이익 미공시) ; SEC companyfacts CIK0000008670: OperatingIncomeLoss 태그 없음(영업이익 미공시),,6
+Automatic Data Processing,ADP,2015Q2,2015-06-30,분기별 당기순이익(지배),336200000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/8670/000000867015000021/ ; https://www.sec.gov/Archives/edgar/data/8670/000000867015000012/,연간 1452500000 − 9개월누적 1116300000 (NetIncomeLoss),6
+Automatic Data Processing,ADP,2015Q2,2015-06-30,분기별 영업활동현금흐름,441400000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/8670/000000867015000021/ ; https://www.sec.gov/Archives/edgar/data/8670/000000867015000012/,누적 1905600000 − 직전누적 1464200000 (시작 2014-07-01),6
+Automatic Data Processing,ADP,2015Q2,2015-06-30,분기말 자산총계,33110500000,USD,공시,https://www.sec.gov/Archives/edgar/data/8670/000000867015000021/,,6
+Automatic Data Processing,ADP,2015Q2,2015-06-30,분기말 부채총계,28302000000,USD,공시,https://www.sec.gov/Archives/edgar/data/8670/000000867015000021/,,6
+Automatic Data Processing,ADP,2015Q2,2015-06-30,분기말 총자본(자기자본),4808500000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/8670/000000867015000021/,"StockholdersEquity, MinorityInterest 태그 없음",6
+Automatic Data Processing,ADP,2015Q2,2015-06-30,분기말 지배지분 자본,4808500000,USD,공시,https://www.sec.gov/Archives/edgar/data/8670/000000867015000021/,,6
+Automatic Data Processing,ADP,2015Q2,2015-06-30,분기말 종가,80.23,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/ADP?interval=1d&events=splits (2015-06-30),,6
+Automatic Data Processing,ADP,2015Q2,2015-07-31,분기말 상장주식수,465810128,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/8670/000000867015000021/,dei:EntityCommonStockSharesOutstanding 클래스 합,6
+Automatic Data Processing,ADP,2015Q2,2015-06-30,분기말 시가총액,37371946569,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/ADP?interval=1d&events=splits (2015-06-30) ; https://www.sec.gov/Archives/edgar/data/8670/000000867015000021/,종가 80.23 × 주식수 465810128,6
+Automatic Data Processing,ADP,2015Q3,2015-09-30,분기별 매출액,2714000000,USD,공시,https://www.sec.gov/Archives/edgar/data/8670/000000867015000026/,,6
+Automatic Data Processing,ADP,2015Q3,2015-09-30,분기별 영업이익,미확인,USD,미확인,SEC companyfacts CIK0000008670: 해당 보고서에 OperatingIncomeLoss 태그 없음(영업이익 미공시) ; SEC companyfacts CIK0000008670: OperatingIncomeLoss 태그 없음(영업이익 미공시),,6
+Automatic Data Processing,ADP,2015Q3,2015-09-30,분기별 당기순이익(지배),336600000,USD,공시,https://www.sec.gov/Archives/edgar/data/8670/000000867015000026/,,6
+Automatic Data Processing,ADP,2015Q3,2015-09-30,분기별 영업활동현금흐름,93200000,USD,공시,https://www.sec.gov/Archives/edgar/data/8670/000000867015000026/,,6
+Automatic Data Processing,ADP,2015Q3,2015-09-30,분기말 자산총계,34380300000,USD,공시,https://www.sec.gov/Archives/edgar/data/8670/000000867015000026/,,6
+Automatic Data Processing,ADP,2015Q3,2015-09-30,분기말 부채총계,29750100000,USD,공시,https://www.sec.gov/Archives/edgar/data/8670/000000867015000026/,,6
+Automatic Data Processing,ADP,2015Q3,2015-09-30,분기말 총자본(자기자본),4630200000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/8670/000000867015000026/,"StockholdersEquity, MinorityInterest 태그 없음",6
+Automatic Data Processing,ADP,2015Q3,2015-09-30,분기말 지배지분 자본,4630200000,USD,공시,https://www.sec.gov/Archives/edgar/data/8670/000000867015000026/,,6
+Automatic Data Processing,ADP,2015Q3,2015-09-30,분기말 종가,80.36,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/ADP?interval=1d&events=splits (2015-09-30),,6
+Automatic Data Processing,ADP,2015Q3,2015-10-31,분기말 상장주식수,461206624,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/8670/000000867015000026/,dei:EntityCommonStockSharesOutstanding 클래스 합,6
+Automatic Data Processing,ADP,2015Q3,2015-09-30,분기말 시가총액,37062564305,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/ADP?interval=1d&events=splits (2015-09-30) ; https://www.sec.gov/Archives/edgar/data/8670/000000867015000026/,종가 80.36 × 주식수 461206624,6
+Automatic Data Processing,ADP,2015Q4,2015-12-31,분기별 매출액,2807000000,USD,공시,https://www.sec.gov/Archives/edgar/data/8670/000000867016000030/,,6
+Automatic Data Processing,ADP,2015Q4,2015-12-31,분기별 영업이익,미확인,USD,미확인,SEC companyfacts CIK0000008670: 해당 보고서에 OperatingIncomeLoss 태그 없음(영업이익 미공시) ; SEC companyfacts CIK0000008670: OperatingIncomeLoss 태그 없음(영업이익 미공시),,6
+Automatic Data Processing,ADP,2015Q4,2015-12-31,분기별 당기순이익(지배),341400000,USD,공시,https://www.sec.gov/Archives/edgar/data/8670/000000867016000030/,,6
+Automatic Data Processing,ADP,2015Q4,2015-12-31,분기별 영업활동현금흐름,399500000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/8670/000000867016000030/ ; https://www.sec.gov/Archives/edgar/data/8670/000000867015000026/,누적 492700000 − 직전누적 93200000 (시작 2015-07-01),6
+Automatic Data Processing,ADP,2015Q4,2015-12-31,분기말 자산총계,39899500000,USD,공시,https://www.sec.gov/Archives/edgar/data/8670/000000867016000030/,,6
+Automatic Data Processing,ADP,2015Q4,2015-12-31,분기말 부채총계,35693300000,USD,공시,https://www.sec.gov/Archives/edgar/data/8670/000000867016000030/,,6
+Automatic Data Processing,ADP,2015Q4,2015-12-31,분기말 총자본(자기자본),4206200000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/8670/000000867016000030/,"StockholdersEquity, MinorityInterest 태그 없음",6
+Automatic Data Processing,ADP,2015Q4,2015-12-31,분기말 지배지분 자본,4206200000,USD,공시,https://www.sec.gov/Archives/edgar/data/8670/000000867016000030/,,6
+Automatic Data Processing,ADP,2015Q4,2015-12-31,분기말 종가,84.72,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/ADP?interval=1d&events=splits (2015-12-31),,6
+Automatic Data Processing,ADP,2015Q4,2016-01-31,분기말 상장주식수,457451131,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/8670/000000867016000030/,dei:EntityCommonStockSharesOutstanding 클래스 합,6
+Automatic Data Processing,ADP,2015Q4,2015-12-31,분기말 시가총액,38755259818,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/ADP?interval=1d&events=splits (2015-12-31) ; https://www.sec.gov/Archives/edgar/data/8670/000000867016000030/,종가 84.72 × 주식수 457451131,6
+Automatic Data Processing,ADP,2016Q1,2016-03-31,분기별 매출액,3248600000,USD,공시,https://www.sec.gov/Archives/edgar/data/8670/000000867016000034/,,6
+Automatic Data Processing,ADP,2016Q1,2016-03-31,분기별 영업이익,미확인,USD,미확인,SEC companyfacts CIK0000008670: 해당 보고서에 OperatingIncomeLoss 태그 없음(영업이익 미공시) ; SEC companyfacts CIK0000008670: OperatingIncomeLoss 태그 없음(영업이익 미공시),,6
+Automatic Data Processing,ADP,2016Q1,2016-03-31,분기별 당기순이익(지배),532500000,USD,공시,https://www.sec.gov/Archives/edgar/data/8670/000000867016000034/,,6
+Automatic Data Processing,ADP,2016Q1,2016-03-31,분기별 영업활동현금흐름,708100000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/8670/000000867016000034/ ; https://www.sec.gov/Archives/edgar/data/8670/000000867016000030/,누적 1200800000 − 직전누적 492700000 (시작 2015-07-01),6
+Automatic Data Processing,ADP,2016Q1,2016-03-31,분기말 자산총계,51125600000,USD,공시,https://www.sec.gov/Archives/edgar/data/8670/000000867016000034/,,6
+Automatic Data Processing,ADP,2016Q1,2016-03-31,분기말 부채총계,46622400000,USD,공시,https://www.sec.gov/Archives/edgar/data/8670/000000867016000034/,,6
+Automatic Data Processing,ADP,2016Q1,2016-03-31,분기말 총자본(자기자본),4503200000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/8670/000000867016000034/,"StockholdersEquity, MinorityInterest 태그 없음",6
+Automatic Data Processing,ADP,2016Q1,2016-03-31,분기말 지배지분 자본,4503200000,USD,공시,https://www.sec.gov/Archives/edgar/data/8670/000000867016000034/,,6
+Automatic Data Processing,ADP,2016Q1,2016-03-31,분기말 종가,89.71,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/ADP?interval=1d&events=splits (2016-03-31),,6
+Automatic Data Processing,ADP,2016Q1,2016-04-30,분기말 상장주식수,455534803,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/8670/000000867016000034/,dei:EntityCommonStockSharesOutstanding 클래스 합,6
+Automatic Data Processing,ADP,2016Q1,2016-03-31,분기말 시가총액,40866027177,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/ADP?interval=1d&events=splits (2016-03-31) ; https://www.sec.gov/Archives/edgar/data/8670/000000867016000034/,종가 89.71 × 주식수 455534803,6
+Automatic Data Processing,ADP,2016Q2,2016-06-30,분기별 매출액,2898300000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/8670/000000867016000053/ ; https://www.sec.gov/Archives/edgar/data/8670/000000867016000034/,연간 11667800000 − 9개월누적 8769500000 (Revenues),6
+Automatic Data Processing,ADP,2016Q2,2016-06-30,분기별 영업이익,미확인,USD,미확인,SEC companyfacts CIK0000008670: 해당 보고서에 OperatingIncomeLoss 태그 없음(영업이익 미공시) ; SEC companyfacts CIK0000008670: OperatingIncomeLoss 태그 없음(영업이익 미공시),,6
+Automatic Data Processing,ADP,2016Q2,2016-06-30,분기별 당기순이익(지배),282000000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/8670/000000867016000053/ ; https://www.sec.gov/Archives/edgar/data/8670/000000867016000034/,연간 1492500000 − 9개월누적 1210500000 (NetIncomeLoss),6
+Automatic Data Processing,ADP,2016Q2,2016-06-30,분기별 영업활동현금흐름,659100000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/8670/000000867016000053/ ; https://www.sec.gov/Archives/edgar/data/8670/000000867016000034/,누적 1859900000 − 직전누적 1200800000 (시작 2015-07-01),6
+Automatic Data Processing,ADP,2016Q2,2016-06-30,분기말 자산총계,43670000000,USD,공시,https://www.sec.gov/Archives/edgar/data/8670/000000867016000053/,,6
+Automatic Data Processing,ADP,2016Q2,2016-06-30,분기말 부채총계,39188400000,USD,공시,https://www.sec.gov/Archives/edgar/data/8670/000000867016000053/,,6
+Automatic Data Processing,ADP,2016Q2,2016-06-30,분기말 총자본(자기자본),4481600000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/8670/000000867016000053/,"StockholdersEquity, MinorityInterest 태그 없음",6
+Automatic Data Processing,ADP,2016Q2,2016-06-30,분기말 지배지분 자본,4481600000,USD,공시,https://www.sec.gov/Archives/edgar/data/8670/000000867016000053/,,6
+Automatic Data Processing,ADP,2016Q2,2016-06-30,분기말 종가,91.87,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/ADP?interval=1d&events=splits (2016-06-30),,6
+Automatic Data Processing,ADP,2016Q2,2016-07-29,분기말 상장주식수,456176951,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/8670/000000867016000053/,dei:EntityCommonStockSharesOutstanding 클래스 합,6
+Automatic Data Processing,ADP,2016Q2,2016-06-30,분기말 시가총액,41908976488,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/ADP?interval=1d&events=splits (2016-06-30) ; https://www.sec.gov/Archives/edgar/data/8670/000000867016000053/,종가 91.87 × 주식수 456176951,6
+Automatic Data Processing,ADP,2016Q3,2016-09-30,분기별 매출액,2916900000,USD,공시,https://www.sec.gov/Archives/edgar/data/8670/000000867016000059/,,6
+Automatic Data Processing,ADP,2016Q3,2016-09-30,분기별 영업이익,미확인,USD,미확인,SEC companyfacts CIK0000008670: 해당 보고서에 OperatingIncomeLoss 태그 없음(영업이익 미공시) ; SEC companyfacts CIK0000008670: OperatingIncomeLoss 태그 없음(영업이익 미공시),,6
+Automatic Data Processing,ADP,2016Q3,2016-09-30,분기별 당기순이익(지배),368700000,USD,공시,https://www.sec.gov/Archives/edgar/data/8670/000000867016000059/,,6
+Automatic Data Processing,ADP,2016Q3,2016-09-30,분기별 영업활동현금흐름,329800000,USD,공시,https://www.sec.gov/Archives/edgar/data/8670/000000867016000059/,,6
+Automatic Data Processing,ADP,2016Q3,2016-09-30,분기말 자산총계,34337400000,USD,공시,https://www.sec.gov/Archives/edgar/data/8670/000000867016000059/,,6
+Automatic Data Processing,ADP,2016Q3,2016-09-30,분기말 부채총계,30087300000,USD,공시,https://www.sec.gov/Archives/edgar/data/8670/000000867016000059/,,6
+Automatic Data Processing,ADP,2016Q3,2016-09-30,분기말 총자본(자기자본),4250100000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/8670/000000867016000059/,"StockholdersEquity, MinorityInterest 태그 없음",6
+Automatic Data Processing,ADP,2016Q3,2016-09-30,분기말 지배지분 자본,4250100000,USD,공시,https://www.sec.gov/Archives/edgar/data/8670/000000867016000059/,,6
+Automatic Data Processing,ADP,2016Q3,2016-09-30,분기말 종가,88.2,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/ADP?interval=1d&events=splits (2016-09-30),,6
+Automatic Data Processing,ADP,2016Q3,2016-10-31,분기말 상장주식수,451173217,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/8670/000000867016000059/,dei:EntityCommonStockSharesOutstanding 클래스 합,6
+Automatic Data Processing,ADP,2016Q3,2016-09-30,분기말 시가총액,39793477739,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/ADP?interval=1d&events=splits (2016-09-30) ; https://www.sec.gov/Archives/edgar/data/8670/000000867016000059/,종가 88.2 × 주식수 451173217,6
+Automatic Data Processing,ADP,2016Q4,2016-12-31,분기별 매출액,2987300000,USD,공시,https://www.sec.gov/Archives/edgar/data/8670/000000867017000003/,,6
+Automatic Data Processing,ADP,2016Q4,2016-12-31,분기별 영업이익,미확인,USD,미확인,SEC companyfacts CIK0000008670: 해당 보고서에 OperatingIncomeLoss 태그 없음(영업이익 미공시) ; SEC companyfacts CIK0000008670: OperatingIncomeLoss 태그 없음(영업이익 미공시),,6
+Automatic Data Processing,ADP,2016Q4,2016-12-31,분기별 당기순이익(지배),510900000,USD,공시,https://www.sec.gov/Archives/edgar/data/8670/000000867017000003/,,6
+Automatic Data Processing,ADP,2016Q4,2016-12-31,분기별 영업활동현금흐름,511300000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/8670/000000867017000003/ ; https://www.sec.gov/Archives/edgar/data/8670/000000867016000059/,누적 841100000 − 직전누적 329800000 (시작 2016-07-01),6
+Automatic Data Processing,ADP,2016Q4,2016-12-31,분기말 자산총계,39999400000,USD,공시,https://www.sec.gov/Archives/edgar/data/8670/000000867017000003/,,6
+Automatic Data Processing,ADP,2016Q4,2016-12-31,분기말 부채총계,36184300000,USD,공시,https://www.sec.gov/Archives/edgar/data/8670/000000867017000003/,,6
+Automatic Data Processing,ADP,2016Q4,2016-12-31,분기말 총자본(자기자본),3815100000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/8670/000000867017000003/,"StockholdersEquity, MinorityInterest 태그 없음",6
+Automatic Data Processing,ADP,2016Q4,2016-12-31,분기말 지배지분 자본,3815100000,USD,공시,https://www.sec.gov/Archives/edgar/data/8670/000000867017000003/,,6
+Automatic Data Processing,ADP,2016Q4,2016-12-30,분기말 종가,102.78,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/ADP?interval=1d&events=splits (2016-12-30),,6
+Automatic Data Processing,ADP,2016Q4,2017-01-27,분기말 상장주식수,448902582,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/8670/000000867017000003/,dei:EntityCommonStockSharesOutstanding 클래스 합,6
+Automatic Data Processing,ADP,2016Q4,2016-12-30,분기말 시가총액,46138207378,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/ADP?interval=1d&events=splits (2016-12-30) ; https://www.sec.gov/Archives/edgar/data/8670/000000867017000003/,종가 102.78 × 주식수 448902582,6
+Automatic Data Processing,ADP,2017Q1,2017-03-31,분기별 매출액,3410800000,USD,공시,https://www.sec.gov/Archives/edgar/data/8670/000000867017000005/,,6
+Automatic Data Processing,ADP,2017Q1,2017-03-31,분기별 영업이익,미확인,USD,미확인,SEC companyfacts CIK0000008670: 해당 보고서에 OperatingIncomeLoss 태그 없음(영업이익 미공시) ; SEC companyfacts CIK0000008670: OperatingIncomeLoss 태그 없음(영업이익 미공시),,6
+Automatic Data Processing,ADP,2017Q1,2017-03-31,분기별 당기순이익(지배),587900000,USD,공시,https://www.sec.gov/Archives/edgar/data/8670/000000867017000005/,,6
+Automatic Data Processing,ADP,2017Q1,2017-03-31,분기별 영업활동현금흐름,827600000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/8670/000000867017000005/ ; https://www.sec.gov/Archives/edgar/data/8670/000000867017000003/,누적 1668700000 − 직전누적 841100000 (시작 2016-07-01),6
+Automatic Data Processing,ADP,2017Q1,2017-03-31,분기말 자산총계,43855900000,USD,공시,https://www.sec.gov/Archives/edgar/data/8670/000000867017000005/,,6
+Automatic Data Processing,ADP,2017Q1,2017-03-31,분기말 부채총계,39752800000,USD,공시,https://www.sec.gov/Archives/edgar/data/8670/000000867017000005/,,6
+Automatic Data Processing,ADP,2017Q1,2017-03-31,분기말 총자본(자기자본),4103100000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/8670/000000867017000005/,"StockholdersEquity, MinorityInterest 태그 없음",6
+Automatic Data Processing,ADP,2017Q1,2017-03-31,분기말 지배지분 자본,4103100000,USD,공시,https://www.sec.gov/Archives/edgar/data/8670/000000867017000005/,,6
+Automatic Data Processing,ADP,2017Q1,2017-03-31,분기말 종가,102.39,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/ADP?interval=1d&events=splits (2017-03-31),,6
+Automatic Data Processing,ADP,2017Q1,2017-04-28,분기말 상장주식수,447410344,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/8670/000000867017000005/,dei:EntityCommonStockSharesOutstanding 클래스 합,6
+Automatic Data Processing,ADP,2017Q1,2017-03-31,분기말 시가총액,45810345122,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/ADP?interval=1d&events=splits (2017-03-31) ; https://www.sec.gov/Archives/edgar/data/8670/000000867017000005/,종가 102.39 × 주식수 447410344,6
+Automatic Data Processing,ADP,2017Q2,2017-06-30,분기별 매출액,3057100000,USD,계산(연간-3분기누적)(재작성 반영),https://www.sec.gov/Archives/edgar/data/8670/000000867019000021/ ; https://www.sec.gov/Archives/edgar/data/8670/000000867017000005/,연간 12372000000 − 9개월누적 9314900000 (Revenues) ; 원 공시 3064900000 (https://www.sec.gov/Archives/edgar/data/8670/000000867017000010/ ; https://www.sec.gov/Archives/edgar/data/8670/000000867017000005/),6
+Automatic Data Processing,ADP,2017Q2,2017-06-30,분기별 영업이익,미확인,USD,미확인,SEC companyfacts CIK0000008670: 해당 보고서에 OperatingIncomeLoss 태그 없음(영업이익 미공시) ; SEC companyfacts CIK0000008670: OperatingIncomeLoss 태그 없음(영업이익 미공시),,6
+Automatic Data Processing,ADP,2017Q2,2017-06-30,분기별 당기순이익(지배),320200000,USD,계산(연간-3분기누적)(재작성 반영),https://www.sec.gov/Archives/edgar/data/8670/000000867019000021/ ; https://www.sec.gov/Archives/edgar/data/8670/000000867017000005/,연간 1787800000 − 9개월누적 1467600000 (NetIncomeLoss) ; 원 공시 265800000 (https://www.sec.gov/Archives/edgar/data/8670/000000867017000010/ ; https://www.sec.gov/Archives/edgar/data/8670/000000867017000005/),6
+Automatic Data Processing,ADP,2017Q2,2017-06-30,분기별 영업활동현금흐름,457200000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/8670/000000867017000010/ ; https://www.sec.gov/Archives/edgar/data/8670/000000867017000005/,누적 2125900000 − 직전누적 1668700000 (시작 2016-07-01),6
+Automatic Data Processing,ADP,2017Q2,2017-06-30,분기말 자산총계,37180000000,USD,공시,https://www.sec.gov/Archives/edgar/data/8670/000000867017000010/,,6
+Automatic Data Processing,ADP,2017Q2,2017-06-30,분기말 부채총계,33203000000,USD,공시,https://www.sec.gov/Archives/edgar/data/8670/000000867017000010/,,6
+Automatic Data Processing,ADP,2017Q2,2017-06-30,분기말 총자본(자기자본),3977000000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/8670/000000867017000010/,"StockholdersEquity, MinorityInterest 태그 없음",6
+Automatic Data Processing,ADP,2017Q2,2017-06-30,분기말 지배지분 자본,3977000000,USD,공시,https://www.sec.gov/Archives/edgar/data/8670/000000867017000010/,,6
+Automatic Data Processing,ADP,2017Q2,2017-06-30,분기말 종가,102.46,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/ADP?interval=1d&events=splits (2017-06-30),,6
+Automatic Data Processing,ADP,2017Q2,2017-07-31,분기말 상장주식수,444374752,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/8670/000000867017000010/,dei:EntityCommonStockSharesOutstanding 클래스 합,6
+Automatic Data Processing,ADP,2017Q2,2017-06-30,분기말 시가총액,45530637090,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/ADP?interval=1d&events=splits (2017-06-30) ; https://www.sec.gov/Archives/edgar/data/8670/000000867017000010/,종가 102.46 × 주식수 444374752,6
+Automatic Data Processing,ADP,2017Q3,2017-09-30,분기별 매출액,3077200000,USD,공시(재작성 반영),https://www.sec.gov/Archives/edgar/data/8670/000000867019000021/,원 공시 3078800000 (https://www.sec.gov/Archives/edgar/data/8670/000000867017000012/),6
+Automatic Data Processing,ADP,2017Q3,2017-09-30,분기별 영업이익,미확인,USD,미확인,SEC companyfacts CIK0000008670: 해당 보고서에 OperatingIncomeLoss 태그 없음(영업이익 미공시) ; SEC companyfacts CIK0000008670: OperatingIncomeLoss 태그 없음(영업이익 미공시),,6
+Automatic Data Processing,ADP,2017Q3,2017-09-30,분기별 당기순이익(지배),412600000,USD,공시(재작성 반영),https://www.sec.gov/Archives/edgar/data/8670/000000867019000021/,원 공시 401500000 (https://www.sec.gov/Archives/edgar/data/8670/000000867017000012/),6
+Automatic Data Processing,ADP,2017Q3,2017-09-30,분기별 영업활동현금흐름,244700000,USD,공시,https://www.sec.gov/Archives/edgar/data/8670/000000867017000012/,,6
+Automatic Data Processing,ADP,2017Q3,2017-09-30,분기말 자산총계,35661100000,USD,공시,https://www.sec.gov/Archives/edgar/data/8670/000000867017000012/,,6
+Automatic Data Processing,ADP,2017Q3,2017-09-30,분기말 부채총계,31707700000,USD,공시,https://www.sec.gov/Archives/edgar/data/8670/000000867017000012/,,6
+Automatic Data Processing,ADP,2017Q3,2017-09-30,분기말 총자본(자기자본),3953400000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/8670/000000867017000012/,"StockholdersEquity, MinorityInterest 태그 없음",6
+Automatic Data Processing,ADP,2017Q3,2017-09-30,분기말 지배지분 자본,3953400000,USD,공시,https://www.sec.gov/Archives/edgar/data/8670/000000867017000012/,,6
+Automatic Data Processing,ADP,2017Q3,2017-09-29,분기말 종가,109.32,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/ADP?interval=1d&events=splits (2017-09-29),,6
+Automatic Data Processing,ADP,2017Q3,2017-10-31,분기말 상장주식수,443489730,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/8670/000000867017000012/,dei:EntityCommonStockSharesOutstanding 클래스 합,6
+Automatic Data Processing,ADP,2017Q3,2017-09-29,분기말 시가총액,48482297284,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/ADP?interval=1d&events=splits (2017-09-29) ; https://www.sec.gov/Archives/edgar/data/8670/000000867017000012/,종가 109.32 × 주식수 443489730,6
+Automatic Data Processing,ADP,2017Q4,2017-12-31,분기별 매출액,3238300000,USD,공시(재작성 반영),https://www.sec.gov/Archives/edgar/data/8670/000000867019000021/,원 공시 3235400000 (https://www.sec.gov/Archives/edgar/data/8670/000000867018000003/),6
+Automatic Data Processing,ADP,2017Q4,2017-12-31,분기별 영업이익,미확인,USD,미확인,SEC companyfacts CIK0000008670: 해당 보고서에 OperatingIncomeLoss 태그 없음(영업이익 미공시) ; SEC companyfacts CIK0000008670: OperatingIncomeLoss 태그 없음(영업이익 미공시),,6
+Automatic Data Processing,ADP,2017Q4,2017-12-31,분기별 당기순이익(지배),670400000,USD,공시(재작성 반영),https://www.sec.gov/Archives/edgar/data/8670/000000867019000021/,원 공시 467500000 (https://www.sec.gov/Archives/edgar/data/8670/000000867018000003/),6
+Automatic Data Processing,ADP,2017Q4,2017-12-31,분기별 영업활동현금흐름,430400000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/8670/000000867018000003/ ; https://www.sec.gov/Archives/edgar/data/8670/000000867017000012/,누적 675100000 − 직전누적 244700000 (시작 2017-07-01),6
+Automatic Data Processing,ADP,2017Q4,2017-12-31,분기말 자산총계,44545500000,USD,공시,https://www.sec.gov/Archives/edgar/data/8670/000000867018000003/,,6
+Automatic Data Processing,ADP,2017Q4,2017-12-31,분기말 부채총계,40614300000,USD,공시,https://www.sec.gov/Archives/edgar/data/8670/000000867018000003/,,6
+Automatic Data Processing,ADP,2017Q4,2017-12-31,분기말 총자본(자기자본),3931200000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/8670/000000867018000003/,"StockholdersEquity, MinorityInterest 태그 없음",6
+Automatic Data Processing,ADP,2017Q4,2017-12-31,분기말 지배지분 자본,3931200000,USD,공시,https://www.sec.gov/Archives/edgar/data/8670/000000867018000003/,,6
+Automatic Data Processing,ADP,2017Q4,2017-12-29,분기말 종가,117.19,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/ADP?interval=1d&events=splits (2017-12-29),,6
+Automatic Data Processing,ADP,2017Q4,2018-01-26,분기말 상장주식수,443269657,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/8670/000000867018000003/,dei:EntityCommonStockSharesOutstanding 클래스 합,6
+Automatic Data Processing,ADP,2017Q4,2017-12-29,분기말 시가총액,51946771104,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/ADP?interval=1d&events=splits (2017-12-29) ; https://www.sec.gov/Archives/edgar/data/8670/000000867018000003/,종가 117.19 × 주식수 443269657,6
+Automatic Data Processing,ADP,2018Q1,2018-03-31,분기별 매출액,3696000000,USD,공시(재작성 반영),https://www.sec.gov/Archives/edgar/data/8670/000000867019000021/,원 공시 3693000000 (https://www.sec.gov/Archives/edgar/data/8670/000000867018000007/),6
+Automatic Data Processing,ADP,2018Q1,2018-03-31,분기별 영업이익,미확인,USD,미확인,SEC companyfacts CIK0000008670: 해당 보고서에 OperatingIncomeLoss 태그 없음(영업이익 미공시) ; SEC companyfacts CIK0000008670: OperatingIncomeLoss 태그 없음(영업이익 미공시),,6
+Automatic Data Processing,ADP,2018Q1,2018-03-31,분기별 당기순이익(지배),661000000,USD,공시(재작성 반영),https://www.sec.gov/Archives/edgar/data/8670/000000867019000021/,원 공시 643100000 (https://www.sec.gov/Archives/edgar/data/8670/000000867018000007/),6
+Automatic Data Processing,ADP,2018Q1,2018-03-31,분기별 영업활동현금흐름,1134900000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/8670/000000867018000007/ ; https://www.sec.gov/Archives/edgar/data/8670/000000867018000003/,누적 1810000000 − 직전누적 675100000 (시작 2017-07-01),6
+Automatic Data Processing,ADP,2018Q1,2018-03-31,분기말 자산총계,44065500000,USD,공시,https://www.sec.gov/Archives/edgar/data/8670/000000867018000007/,,6
+Automatic Data Processing,ADP,2018Q1,2018-03-31,분기말 부채총계,40036300000,USD,공시,https://www.sec.gov/Archives/edgar/data/8670/000000867018000007/,,6
+Automatic Data Processing,ADP,2018Q1,2018-03-31,분기말 총자본(자기자본),4029200000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/8670/000000867018000007/,"StockholdersEquity, MinorityInterest 태그 없음",6
+Automatic Data Processing,ADP,2018Q1,2018-03-31,분기말 지배지분 자본,4029200000,USD,공시,https://www.sec.gov/Archives/edgar/data/8670/000000867018000007/,,6
+Automatic Data Processing,ADP,2018Q1,2018-03-29,분기말 종가,113.48,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/ADP?interval=1d&events=splits (2018-03-29),,6
+Automatic Data Processing,ADP,2018Q1,2018-04-30,분기말 상장주식수,440522324,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/8670/000000867018000007/,dei:EntityCommonStockSharesOutstanding 클래스 합,6
+Automatic Data Processing,ADP,2018Q1,2018-03-29,분기말 시가총액,49990473328,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/ADP?interval=1d&events=splits (2018-03-29) ; https://www.sec.gov/Archives/edgar/data/8670/000000867018000007/,종가 113.48 × 주식수 440522324,6
+Automatic Data Processing,ADP,2018Q2,2018-06-30,분기별 매출액,3262700000,USD,계산(연간-3분기누적)(재작성 반영),https://www.sec.gov/Archives/edgar/data/8670/000000867020000032/ ; https://www.sec.gov/Archives/edgar/data/8670/000000867019000013/,연간 13274200000 − 9개월누적 10011500000 (Revenues) ; 원 공시 3318600000 (https://www.sec.gov/Archives/edgar/data/8670/000000867018000011/ ; https://www.sec.gov/Archives/edgar/data/8670/000000867018000007/),6
+Automatic Data Processing,ADP,2018Q2,2018-06-30,분기별 영업이익,미확인,USD,미확인,SEC companyfacts CIK0000008670: 해당 보고서에 OperatingIncomeLoss 태그 없음(영업이익 미공시) ; SEC companyfacts CIK0000008670: OperatingIncomeLoss 태그 없음(영업이익 미공시),,6
+Automatic Data Processing,ADP,2018Q2,2018-06-30,분기별 당기순이익(지배),140900000,USD,계산(연간-3분기누적)(재작성 반영),https://www.sec.gov/Archives/edgar/data/8670/000000867020000032/ ; https://www.sec.gov/Archives/edgar/data/8670/000000867019000013/,연간 1884900000 − 9개월누적 1744000000 (NetIncomeLoss) ; 원 공시 108700000 (https://www.sec.gov/Archives/edgar/data/8670/000000867018000011/ ; https://www.sec.gov/Archives/edgar/data/8670/000000867018000007/),6
+Automatic Data Processing,ADP,2018Q2,2018-06-30,분기별 영업활동현금흐름,705200000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/8670/000000867018000011/ ; https://www.sec.gov/Archives/edgar/data/8670/000000867018000007/,누적 2515200000 − 직전누적 1810000000 (시작 2017-07-01),6
+Automatic Data Processing,ADP,2018Q2,2018-06-30,분기말 자산총계,38849100000,USD,공시(재작성 반영),https://www.sec.gov/Archives/edgar/data/8670/000000867020000032/,원 공시 37088700000 (https://www.sec.gov/Archives/edgar/data/8670/000000867018000011/),6
+Automatic Data Processing,ADP,2018Q2,2018-06-30,분기말 부채총계,34113200000,USD,공시(재작성 반영),https://www.sec.gov/Archives/edgar/data/8670/000000867019000021/,원 공시 33629100000 (https://www.sec.gov/Archives/edgar/data/8670/000000867018000011/),6
+Automatic Data Processing,ADP,2018Q2,2018-06-30,분기말 총자본(자기자본),4735900000,USD,공시(비지배 없음)(재작성 반영),https://www.sec.gov/Archives/edgar/data/8670/000000867019000021/,"StockholdersEquity, MinorityInterest 태그 없음 ; 원 공시 3459600000 (https://www.sec.gov/Archives/edgar/data/8670/000000867018000011/)",6
+Automatic Data Processing,ADP,2018Q2,2018-06-30,분기말 지배지분 자본,4735900000,USD,공시(재작성 반영),https://www.sec.gov/Archives/edgar/data/8670/000000867019000021/,원 공시 3459600000 (https://www.sec.gov/Archives/edgar/data/8670/000000867018000011/),6
+Automatic Data Processing,ADP,2018Q2,2018-06-29,분기말 종가,134.14,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/ADP?interval=1d&events=splits (2018-06-29),,6
+Automatic Data Processing,ADP,2018Q2,2018-07-31,분기말 상장주식수,438082756,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/8670/000000867018000011/,dei:EntityCommonStockSharesOutstanding 클래스 합,6
+Automatic Data Processing,ADP,2018Q2,2018-06-29,분기말 시가총액,58764420890,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/ADP?interval=1d&events=splits (2018-06-29) ; https://www.sec.gov/Archives/edgar/data/8670/000000867018000011/,종가 134.14 × 주식수 438082756,6
+Automatic Data Processing,ADP,2018Q3,2018-09-30,분기별 매출액,3310300000,USD,공시(재작성 반영),https://www.sec.gov/Archives/edgar/data/8670/000000867020000032/,원 공시 3323200000 (https://www.sec.gov/Archives/edgar/data/8670/000000867018000017/),6
+Automatic Data Processing,ADP,2018Q3,2018-09-30,분기별 영업이익,미확인,USD,미확인,SEC companyfacts CIK0000008670: 해당 보고서에 OperatingIncomeLoss 태그 없음(영업이익 미공시) ; SEC companyfacts CIK0000008670: OperatingIncomeLoss 태그 없음(영업이익 미공시),,6
+Automatic Data Processing,ADP,2018Q3,2018-09-30,분기별 당기순이익(지배),505400000,USD,공시,https://www.sec.gov/Archives/edgar/data/8670/000000867018000017/,,6
+Automatic Data Processing,ADP,2018Q3,2018-09-30,분기별 영업활동현금흐름,149200000,USD,공시,https://www.sec.gov/Archives/edgar/data/8670/000000867018000017/,,6
+Automatic Data Processing,ADP,2018Q3,2018-09-30,분기말 자산총계,37416700000,USD,공시,https://www.sec.gov/Archives/edgar/data/8670/000000867018000017/,,6
+Automatic Data Processing,ADP,2018Q3,2018-09-30,분기말 부채총계,32737900000,USD,공시,https://www.sec.gov/Archives/edgar/data/8670/000000867018000017/,,6
+Automatic Data Processing,ADP,2018Q3,2018-09-30,분기말 총자본(자기자본),4678800000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/8670/000000867018000017/,"StockholdersEquity, MinorityInterest 태그 없음",6
+Automatic Data Processing,ADP,2018Q3,2018-09-30,분기말 지배지분 자본,4678800000,USD,공시,https://www.sec.gov/Archives/edgar/data/8670/000000867018000017/,,6
+Automatic Data Processing,ADP,2018Q3,2018-09-28,분기말 종가,150.66,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/ADP?interval=1d&events=splits (2018-09-28),,6
+Automatic Data Processing,ADP,2018Q3,2018-10-26,분기말 상장주식수,437732499,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/8670/000000867018000017/,dei:EntityCommonStockSharesOutstanding 클래스 합,6
+Automatic Data Processing,ADP,2018Q3,2018-09-28,분기말 시가총액,65948778299,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/ADP?interval=1d&events=splits (2018-09-28) ; https://www.sec.gov/Archives/edgar/data/8670/000000867018000017/,종가 150.66 × 주식수 437732499,6
+Automatic Data Processing,ADP,2018Q4,2018-12-31,분기별 매출액,3492400000,USD,공시(재작성 반영),https://www.sec.gov/Archives/edgar/data/8670/000000867020000032/,원 공시 3505900000 (https://www.sec.gov/Archives/edgar/data/8670/000000867019000005/),6
+Automatic Data Processing,ADP,2018Q4,2018-12-31,분기별 영업이익,미확인,USD,미확인,SEC companyfacts CIK0000008670: 해당 보고서에 OperatingIncomeLoss 태그 없음(영업이익 미공시) ; SEC companyfacts CIK0000008670: OperatingIncomeLoss 태그 없음(영업이익 미공시),,6
+Automatic Data Processing,ADP,2018Q4,2018-12-31,분기별 당기순이익(지배),558200000,USD,공시,https://www.sec.gov/Archives/edgar/data/8670/000000867019000005/,,6
+Automatic Data Processing,ADP,2018Q4,2018-12-31,분기별 영업활동현금흐름,782300000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/8670/000000867019000005/ ; https://www.sec.gov/Archives/edgar/data/8670/000000867018000017/,누적 931500000 − 직전누적 149200000 (시작 2018-07-01),6
+Automatic Data Processing,ADP,2018Q4,2018-12-31,분기말 자산총계,38806300000,USD,공시,https://www.sec.gov/Archives/edgar/data/8670/000000867019000005/,,6
+Automatic Data Processing,ADP,2018Q4,2018-12-31,분기말 부채총계,34042400000,USD,공시,https://www.sec.gov/Archives/edgar/data/8670/000000867019000005/,,6
+Automatic Data Processing,ADP,2018Q4,2018-12-31,분기말 총자본(자기자본),4763900000,USD,공시,https://www.sec.gov/Archives/edgar/data/8670/000000867019000005/,,6
+Automatic Data Processing,ADP,2018Q4,2018-12-31,분기말 지배지분 자본,4763900000,USD,공시,https://www.sec.gov/Archives/edgar/data/8670/000000867019000005/,,6
+Automatic Data Processing,ADP,2018Q4,2018-12-31,분기말 종가,131.12,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/ADP?interval=1d&events=splits (2018-12-31),,6
+Automatic Data Processing,ADP,2018Q4,2019-01-25,분기말 상장주식수,435629656,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/8670/000000867019000005/,dei:EntityCommonStockSharesOutstanding 클래스 합,6
+Automatic Data Processing,ADP,2018Q4,2018-12-31,분기말 시가총액,57119760495,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/ADP?interval=1d&events=splits (2018-12-31) ; https://www.sec.gov/Archives/edgar/data/8670/000000867019000005/,종가 131.12 × 주식수 435629656,6
+Automatic Data Processing,ADP,2019Q1,2019-03-31,분기별 매출액,3828200000,USD,공시(재작성 반영),https://www.sec.gov/Archives/edgar/data/8670/000000867020000032/,원 공시 3847400000 (https://www.sec.gov/Archives/edgar/data/8670/000000867019000013/),6
+Automatic Data Processing,ADP,2019Q1,2019-03-31,분기별 영업이익,미확인,USD,미확인,SEC companyfacts CIK0000008670: 해당 보고서에 OperatingIncomeLoss 태그 없음(영업이익 미공시) ; SEC companyfacts CIK0000008670: OperatingIncomeLoss 태그 없음(영업이익 미공시),,6
+Automatic Data Processing,ADP,2019Q1,2019-03-31,분기별 당기순이익(지배),753700000,USD,공시,https://www.sec.gov/Archives/edgar/data/8670/000000867019000013/,,6
+Automatic Data Processing,ADP,2019Q1,2019-03-31,분기별 영업활동현금흐름,1024500000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/8670/000000867019000013/ ; https://www.sec.gov/Archives/edgar/data/8670/000000867019000005/,누적 1956000000 − 직전누적 931500000 (시작 2018-07-01),6
+Automatic Data Processing,ADP,2019Q1,2019-03-31,분기말 자산총계,48196300000,USD,공시,https://www.sec.gov/Archives/edgar/data/8670/000000867019000013/,,6
+Automatic Data Processing,ADP,2019Q1,2019-03-31,분기말 부채총계,42950100000,USD,공시,https://www.sec.gov/Archives/edgar/data/8670/000000867019000013/,,6
+Automatic Data Processing,ADP,2019Q1,2019-03-31,분기말 총자본(자기자본),5246200000,USD,공시,https://www.sec.gov/Archives/edgar/data/8670/000000867019000013/,,6
+Automatic Data Processing,ADP,2019Q1,2019-03-31,분기말 지배지분 자본,5246200000,USD,공시,https://www.sec.gov/Archives/edgar/data/8670/000000867019000013/,,6
+Automatic Data Processing,ADP,2019Q1,2019-03-29,분기말 종가,159.74,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/ADP?interval=1d&events=splits (2019-03-29),,6
+Automatic Data Processing,ADP,2019Q1,2019-04-30,분기말 상장주식수,435228237,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/8670/000000867019000013/,dei:EntityCommonStockSharesOutstanding 클래스 합,6
+Automatic Data Processing,ADP,2019Q1,2019-03-29,분기말 시가총액,69523358578,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/ADP?interval=1d&events=splits (2019-03-29) ; https://www.sec.gov/Archives/edgar/data/8670/000000867019000013/,종가 159.74 × 주식수 435228237,6
+Automatic Data Processing,ADP,2019Q2,2019-06-30,분기별 매출액,3479300000,USD,계산(연간-3분기누적)(재작성 반영),https://www.sec.gov/Archives/edgar/data/8670/000000867021000027/ ; https://www.sec.gov/Archives/edgar/data/8670/000000867020000020/,연간 14110200000 − 9개월누적 10630900000 (Revenues) ; 원 공시 3498700000 (https://www.sec.gov/Archives/edgar/data/8670/000000867019000021/ ; https://www.sec.gov/Archives/edgar/data/8670/000000867019000013/),6
+Automatic Data Processing,ADP,2019Q2,2019-06-30,분기별 영업이익,미확인,USD,미확인,SEC companyfacts CIK0000008670: 해당 보고서에 OperatingIncomeLoss 태그 없음(영업이익 미공시) ; SEC companyfacts CIK0000008670: OperatingIncomeLoss 태그 없음(영업이익 미공시),,6
+Automatic Data Processing,ADP,2019Q2,2019-06-30,분기별 당기순이익(지배),475400000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/8670/000000867019000021/ ; https://www.sec.gov/Archives/edgar/data/8670/000000867019000013/,연간 2292800000 − 9개월누적 1817400000 (NetIncomeLoss),6
+Automatic Data Processing,ADP,2019Q2,2019-06-30,분기별 영업활동현금흐름,732300000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/8670/000000867019000021/ ; https://www.sec.gov/Archives/edgar/data/8670/000000867019000013/,누적 2688300000 − 직전누적 1956000000 (시작 2018-07-01),6
+Automatic Data Processing,ADP,2019Q2,2019-06-30,분기말 자산총계,41887700000,USD,공시,https://www.sec.gov/Archives/edgar/data/8670/000000867019000021/,,6
+Automatic Data Processing,ADP,2019Q2,2019-06-30,분기말 부채총계,36487800000,USD,공시,https://www.sec.gov/Archives/edgar/data/8670/000000867019000021/,,6
+Automatic Data Processing,ADP,2019Q2,2019-06-30,분기말 총자본(자기자본),5399900000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/8670/000000867019000021/,"StockholdersEquity, MinorityInterest 태그 없음",6
+Automatic Data Processing,ADP,2019Q2,2019-06-30,분기말 지배지분 자본,5399900000,USD,공시,https://www.sec.gov/Archives/edgar/data/8670/000000867019000021/,,6
+Automatic Data Processing,ADP,2019Q2,2019-06-28,분기말 종가,165.33,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/ADP?interval=1d&events=splits (2019-06-28),,6
+Automatic Data Processing,ADP,2019Q2,2019-07-31,분기말 상장주식수,433942837,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/8670/000000867019000021/,dei:EntityCommonStockSharesOutstanding 클래스 합,6
+Automatic Data Processing,ADP,2019Q2,2019-06-28,분기말 시가총액,71743769241,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/ADP?interval=1d&events=splits (2019-06-28) ; https://www.sec.gov/Archives/edgar/data/8670/000000867019000021/,종가 165.33 × 주식수 433942837,6
+Automatic Data Processing,ADP,2019Q3,2019-09-30,분기별 매출액,3495700000,USD,공시,https://www.sec.gov/Archives/edgar/data/8670/000000867019000027/,,6
+Automatic Data Processing,ADP,2019Q3,2019-09-30,분기별 영업이익,미확인,USD,미확인,SEC companyfacts CIK0000008670: 해당 보고서에 OperatingIncomeLoss 태그 없음(영업이익 미공시) ; SEC companyfacts CIK0000008670: OperatingIncomeLoss 태그 없음(영업이익 미공시),,6
+Automatic Data Processing,ADP,2019Q3,2019-09-30,분기별 당기순이익(지배),582400000,USD,공시,https://www.sec.gov/Archives/edgar/data/8670/000000867019000027/,,6
+Automatic Data Processing,ADP,2019Q3,2019-09-30,분기별 영업활동현금흐름,432800000,USD,공시,https://www.sec.gov/Archives/edgar/data/8670/000000867019000027/,,6
+Automatic Data Processing,ADP,2019Q3,2019-09-30,분기말 자산총계,37714700000,USD,공시,https://www.sec.gov/Archives/edgar/data/8670/000000867019000027/,,6
+Automatic Data Processing,ADP,2019Q3,2019-09-30,분기말 부채총계,32354000000,USD,공시,https://www.sec.gov/Archives/edgar/data/8670/000000867019000027/,,6
+Automatic Data Processing,ADP,2019Q3,2019-09-30,분기말 총자본(자기자본),5360700000,USD,공시,https://www.sec.gov/Archives/edgar/data/8670/000000867019000027/,,6
+Automatic Data Processing,ADP,2019Q3,2019-09-30,분기말 지배지분 자본,5360700000,USD,공시,https://www.sec.gov/Archives/edgar/data/8670/000000867019000027/,,6
+Automatic Data Processing,ADP,2019Q3,2019-09-30,분기말 종가,161.42,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/ADP?interval=1d&events=splits (2019-09-30),,6
+Automatic Data Processing,ADP,2019Q3,2019-10-30,분기말 상장주식수,432698089,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/8670/000000867019000027/,dei:EntityCommonStockSharesOutstanding 클래스 합,6
+Automatic Data Processing,ADP,2019Q3,2019-09-30,분기말 시가총액,69846125526,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/ADP?interval=1d&events=splits (2019-09-30) ; https://www.sec.gov/Archives/edgar/data/8670/000000867019000027/,종가 161.42 × 주식수 432698089,6
+Automatic Data Processing,ADP,2019Q4,2019-12-31,분기별 매출액,3669500000,USD,공시,https://www.sec.gov/Archives/edgar/data/8670/000000867020000007/,,6
+Automatic Data Processing,ADP,2019Q4,2019-12-31,분기별 영업이익,미확인,USD,미확인,SEC companyfacts CIK0000008670: 해당 보고서에 OperatingIncomeLoss 태그 없음(영업이익 미공시) ; SEC companyfacts CIK0000008670: OperatingIncomeLoss 태그 없음(영업이익 미공시),,6
+Automatic Data Processing,ADP,2019Q4,2019-12-31,분기별 당기순이익(지배),651600000,USD,공시,https://www.sec.gov/Archives/edgar/data/8670/000000867020000007/,,6
+Automatic Data Processing,ADP,2019Q4,2019-12-31,분기별 영업활동현금흐름,698100000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/8670/000000867020000007/ ; https://www.sec.gov/Archives/edgar/data/8670/000000867019000027/,누적 1130900000 − 직전누적 432800000 (시작 2019-07-01),6
+Automatic Data Processing,ADP,2019Q4,2019-12-31,분기말 자산총계,49059400000,USD,공시,https://www.sec.gov/Archives/edgar/data/8670/000000867020000007/,,6
+Automatic Data Processing,ADP,2019Q4,2019-12-31,분기말 부채총계,43695000000,USD,공시,https://www.sec.gov/Archives/edgar/data/8670/000000867020000007/,,6
+Automatic Data Processing,ADP,2019Q4,2019-12-31,분기말 총자본(자기자본),5364400000,USD,공시,https://www.sec.gov/Archives/edgar/data/8670/000000867020000007/,,6
+Automatic Data Processing,ADP,2019Q4,2019-12-31,분기말 지배지분 자본,5364400000,USD,공시,https://www.sec.gov/Archives/edgar/data/8670/000000867020000007/,,6
+Automatic Data Processing,ADP,2019Q4,2019-12-31,분기말 종가,170.5,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/ADP?interval=1d&events=splits (2019-12-31),,6
+Automatic Data Processing,ADP,2019Q4,2020-01-28,분기말 상장주식수,431754252,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/8670/000000867020000007/,dei:EntityCommonStockSharesOutstanding 클래스 합,6
+Automatic Data Processing,ADP,2019Q4,2019-12-31,분기말 시가총액,73614099966,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/ADP?interval=1d&events=splits (2019-12-31) ; https://www.sec.gov/Archives/edgar/data/8670/000000867020000007/,종가 170.5 × 주식수 431754252,6
+Automatic Data Processing,ADP,2020Q1,2020-03-31,분기별 매출액,4047800000,USD,공시,https://www.sec.gov/Archives/edgar/data/8670/000000867020000020/,,6
+Automatic Data Processing,ADP,2020Q1,2020-03-31,분기별 영업이익,미확인,USD,미확인,SEC companyfacts CIK0000008670: 해당 보고서에 OperatingIncomeLoss 태그 없음(영업이익 미공시) ; SEC companyfacts CIK0000008670: OperatingIncomeLoss 태그 없음(영업이익 미공시),,6
+Automatic Data Processing,ADP,2020Q1,2020-03-31,분기별 당기순이익(지배),820900000,USD,공시,https://www.sec.gov/Archives/edgar/data/8670/000000867020000020/,,6
+Automatic Data Processing,ADP,2020Q1,2020-03-31,분기별 영업활동현금흐름,1118700000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/8670/000000867020000020/ ; https://www.sec.gov/Archives/edgar/data/8670/000000867020000007/,누적 2249600000 − 직전누적 1130900000 (시작 2019-07-01),6
+Automatic Data Processing,ADP,2020Q1,2020-03-31,분기말 자산총계,43383400000,USD,공시,https://www.sec.gov/Archives/edgar/data/8670/000000867020000020/,,6
+Automatic Data Processing,ADP,2020Q1,2020-03-31,분기말 부채총계,37892700000,USD,공시,https://www.sec.gov/Archives/edgar/data/8670/000000867020000020/,,6
+Automatic Data Processing,ADP,2020Q1,2020-03-31,분기말 총자본(자기자본),5490700000,USD,공시,https://www.sec.gov/Archives/edgar/data/8670/000000867020000020/,,6
+Automatic Data Processing,ADP,2020Q1,2020-03-31,분기말 지배지분 자본,5490700000,USD,공시,https://www.sec.gov/Archives/edgar/data/8670/000000867020000020/,,6
+Automatic Data Processing,ADP,2020Q1,2020-03-31,분기말 종가,136.68,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/ADP?interval=1d&events=splits (2020-03-31),,6
+Automatic Data Processing,ADP,2020Q1,2020-04-28,분기말 상장주식수,429774376,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/8670/000000867020000020/,dei:EntityCommonStockSharesOutstanding 클래스 합,6
+Automatic Data Processing,ADP,2020Q1,2020-03-31,분기말 시가총액,58741561712,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/ADP?interval=1d&events=splits (2020-03-31) ; https://www.sec.gov/Archives/edgar/data/8670/000000867020000020/,종가 136.68 × 주식수 429774376,6
+Automatic Data Processing,ADP,2020Q2,2020-06-30,분기별 매출액,3376800000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/8670/000000867020000032/ ; https://www.sec.gov/Archives/edgar/data/8670/000000867020000020/,연간 14589800000 − 9개월누적 11213000000 (Revenues),6
+Automatic Data Processing,ADP,2020Q2,2020-06-30,분기별 영업이익,미확인,USD,미확인,SEC companyfacts CIK0000008670: 해당 보고서에 OperatingIncomeLoss 태그 없음(영업이익 미공시) ; SEC companyfacts CIK0000008670: OperatingIncomeLoss 태그 없음(영업이익 미공시),,6
+Automatic Data Processing,ADP,2020Q2,2020-06-30,분기별 당기순이익(지배),411600000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/8670/000000867020000032/ ; https://www.sec.gov/Archives/edgar/data/8670/000000867020000020/,연간 2466500000 − 9개월누적 2054900000 (NetIncomeLoss),6
+Automatic Data Processing,ADP,2020Q2,2020-06-30,분기별 영업활동현금흐름,776600000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/8670/000000867020000032/ ; https://www.sec.gov/Archives/edgar/data/8670/000000867020000020/,누적 3026200000 − 직전누적 2249600000 (시작 2019-07-01),6
+Automatic Data Processing,ADP,2020Q2,2020-06-30,분기말 자산총계,39165500000,USD,공시,https://www.sec.gov/Archives/edgar/data/8670/000000867020000032/,,6
+Automatic Data Processing,ADP,2020Q2,2020-06-30,분기말 부채총계,33413300000,USD,공시,https://www.sec.gov/Archives/edgar/data/8670/000000867020000032/,,6
+Automatic Data Processing,ADP,2020Q2,2020-06-30,분기말 총자본(자기자본),5752200000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/8670/000000867020000032/,"StockholdersEquity, MinorityInterest 태그 없음",6
+Automatic Data Processing,ADP,2020Q2,2020-06-30,분기말 지배지분 자본,5752200000,USD,공시,https://www.sec.gov/Archives/edgar/data/8670/000000867020000032/,,6
+Automatic Data Processing,ADP,2020Q2,2020-06-30,분기말 종가,148.89,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/ADP?interval=1d&events=splits (2020-06-30),,6
+Automatic Data Processing,ADP,2020Q2,2020-07-31,분기말 상장주식수,429965405,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/8670/000000867020000032/,dei:EntityCommonStockSharesOutstanding 클래스 합,6
+Automatic Data Processing,ADP,2020Q2,2020-06-30,분기말 시가총액,64017549150,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/ADP?interval=1d&events=splits (2020-06-30) ; https://www.sec.gov/Archives/edgar/data/8670/000000867020000032/,종가 148.89 × 주식수 429965405,6
+Automatic Data Processing,ADP,2020Q3,2020-09-30,분기별 매출액,3470700000,USD,공시,https://www.sec.gov/Archives/edgar/data/8670/000000867020000038/,,6
+Automatic Data Processing,ADP,2020Q3,2020-09-30,분기별 영업이익,미확인,USD,미확인,SEC companyfacts CIK0000008670: 해당 보고서에 OperatingIncomeLoss 태그 없음(영업이익 미공시) ; SEC companyfacts CIK0000008670: OperatingIncomeLoss 태그 없음(영업이익 미공시),,6
+Automatic Data Processing,ADP,2020Q3,2020-09-30,분기별 당기순이익(지배),602100000,USD,공시,https://www.sec.gov/Archives/edgar/data/8670/000000867020000038/,,6
+Automatic Data Processing,ADP,2020Q3,2020-09-30,분기별 영업활동현금흐름,481900000,USD,공시,https://www.sec.gov/Archives/edgar/data/8670/000000867020000038/,,6
+Automatic Data Processing,ADP,2020Q3,2020-09-30,분기말 자산총계,42390100000,USD,공시,https://www.sec.gov/Archives/edgar/data/8670/000000867020000038/,,6
+Automatic Data Processing,ADP,2020Q3,2020-09-30,분기말 부채총계,36581200000,USD,공시,https://www.sec.gov/Archives/edgar/data/8670/000000867020000038/,,6
+Automatic Data Processing,ADP,2020Q3,2020-09-30,분기말 총자본(자기자본),5808900000,USD,공시,https://www.sec.gov/Archives/edgar/data/8670/000000867020000038/,,6
+Automatic Data Processing,ADP,2020Q3,2020-09-30,분기말 지배지분 자본,5808900000,USD,공시,https://www.sec.gov/Archives/edgar/data/8670/000000867020000038/,,6
+Automatic Data Processing,ADP,2020Q3,2020-09-30,분기말 종가,139.49,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/ADP?interval=1d&events=splits (2020-09-30),,6
+Automatic Data Processing,ADP,2020Q3,2020-10-27,분기말 상장주식수,428813999,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/8670/000000867020000038/,dei:EntityCommonStockSharesOutstanding 클래스 합,6
+Automatic Data Processing,ADP,2020Q3,2020-09-30,분기말 시가총액,59815264721,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/ADP?interval=1d&events=splits (2020-09-30) ; https://www.sec.gov/Archives/edgar/data/8670/000000867020000038/,종가 139.49 × 주식수 428813999,6
+Automatic Data Processing,ADP,2020Q4,2020-12-31,분기별 매출액,3695700000,USD,공시,https://www.sec.gov/Archives/edgar/data/8670/000000867021000007/,,6
+Automatic Data Processing,ADP,2020Q4,2020-12-31,분기별 영업이익,미확인,USD,미확인,SEC companyfacts CIK0000008670: 해당 보고서에 OperatingIncomeLoss 태그 없음(영업이익 미공시) ; SEC companyfacts CIK0000008670: OperatingIncomeLoss 태그 없음(영업이익 미공시),,6
+Automatic Data Processing,ADP,2020Q4,2020-12-31,분기별 당기순이익(지배),647500000,USD,공시,https://www.sec.gov/Archives/edgar/data/8670/000000867021000007/,,6
+Automatic Data Processing,ADP,2020Q4,2020-12-31,분기별 영업활동현금흐름,706400000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/8670/000000867021000007/ ; https://www.sec.gov/Archives/edgar/data/8670/000000867020000038/,누적 1188300000 − 직전누적 481900000 (시작 2020-07-01),6
+Automatic Data Processing,ADP,2020Q4,2020-12-31,분기말 자산총계,49325900000,USD,공시,https://www.sec.gov/Archives/edgar/data/8670/000000867021000007/,,6
+Automatic Data Processing,ADP,2020Q4,2020-12-31,분기말 부채총계,43425900000,USD,공시,https://www.sec.gov/Archives/edgar/data/8670/000000867021000007/,,6
+Automatic Data Processing,ADP,2020Q4,2020-12-31,분기말 총자본(자기자본),5900000000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/8670/000000867021000007/,"StockholdersEquity, MinorityInterest 태그 없음",6
+Automatic Data Processing,ADP,2020Q4,2020-12-31,분기말 지배지분 자본,5900000000,USD,공시,https://www.sec.gov/Archives/edgar/data/8670/000000867021000007/,,6
+Automatic Data Processing,ADP,2020Q4,2020-12-31,분기말 종가,176.2,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/ADP?interval=1d&events=splits (2020-12-31),,6
+Automatic Data Processing,ADP,2020Q4,2021-01-27,분기말 상장주식수,427940220,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/8670/000000867021000007/,dei:EntityCommonStockSharesOutstanding 클래스 합,6
+Automatic Data Processing,ADP,2020Q4,2020-12-31,분기말 시가총액,75403066764,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/ADP?interval=1d&events=splits (2020-12-31) ; https://www.sec.gov/Archives/edgar/data/8670/000000867021000007/,종가 176.2 × 주식수 427940220,6
+Automatic Data Processing,ADP,2021Q1,2021-03-31,분기별 매출액,4102000000,USD,공시,https://www.sec.gov/Archives/edgar/data/8670/000000867021000014/,,6
+Automatic Data Processing,ADP,2021Q1,2021-03-31,분기별 영업이익,미확인,USD,미확인,SEC companyfacts CIK0000008670: 해당 보고서에 OperatingIncomeLoss 태그 없음(영업이익 미공시) ; SEC companyfacts CIK0000008670: OperatingIncomeLoss 태그 없음(영업이익 미공시),,6
+Automatic Data Processing,ADP,2021Q1,2021-03-31,분기별 당기순이익(지배),810700000,USD,공시,https://www.sec.gov/Archives/edgar/data/8670/000000867021000014/,,6
+Automatic Data Processing,ADP,2021Q1,2021-03-31,분기별 영업활동현금흐름,1252200000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/8670/000000867021000014/ ; https://www.sec.gov/Archives/edgar/data/8670/000000867021000007/,누적 2440500000 − 직전누적 1188300000 (시작 2020-07-01),6
+Automatic Data Processing,ADP,2021Q1,2021-03-31,분기말 자산총계,54407700000,USD,공시,https://www.sec.gov/Archives/edgar/data/8670/000000867021000014/,,6
+Automatic Data Processing,ADP,2021Q1,2021-03-31,분기말 부채총계,48733800000,USD,공시,https://www.sec.gov/Archives/edgar/data/8670/000000867021000014/,,6
+Automatic Data Processing,ADP,2021Q1,2021-03-31,분기말 총자본(자기자본),5673900000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/8670/000000867021000014/,"StockholdersEquity, MinorityInterest 태그 없음",6
+Automatic Data Processing,ADP,2021Q1,2021-03-31,분기말 지배지분 자본,5673900000,USD,공시,https://www.sec.gov/Archives/edgar/data/8670/000000867021000014/,,6
+Automatic Data Processing,ADP,2021Q1,2021-03-31,분기말 종가,188.47,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/ADP?interval=1d&events=splits (2021-03-31),,6
+Automatic Data Processing,ADP,2021Q1,2021-04-27,분기말 상장주식수,425518320,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/8670/000000867021000014/,dei:EntityCommonStockSharesOutstanding 클래스 합,6
+Automatic Data Processing,ADP,2021Q1,2021-03-31,분기말 시가총액,80197437770,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/ADP?interval=1d&events=splits (2021-03-31) ; https://www.sec.gov/Archives/edgar/data/8670/000000867021000014/,종가 188.47 × 주식수 425518320,6
+Automatic Data Processing,ADP,2021Q2,2021-06-30,분기별 매출액,3737000000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/8670/000000867021000027/ ; https://www.sec.gov/Archives/edgar/data/8670/000000867021000014/,연간 15005400000 − 9개월누적 11268400000 (Revenues / 9개월 RevenueFromContractWithCustomerExcludingAssessedTax),6
+Automatic Data Processing,ADP,2021Q2,2021-06-30,분기별 영업이익,미확인,USD,미확인,SEC companyfacts CIK0000008670: 해당 보고서에 OperatingIncomeLoss 태그 없음(영업이익 미공시) ; SEC companyfacts CIK0000008670: OperatingIncomeLoss 태그 없음(영업이익 미공시),,6
+Automatic Data Processing,ADP,2021Q2,2021-06-30,분기별 당기순이익(지배),538200000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/8670/000000867021000027/ ; https://www.sec.gov/Archives/edgar/data/8670/000000867021000014/,연간 2598500000 − 9개월누적 2060300000 (NetIncomeLoss),6
+Automatic Data Processing,ADP,2021Q2,2021-06-30,분기별 영업활동현금흐름,652800000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/8670/000000867021000027/ ; https://www.sec.gov/Archives/edgar/data/8670/000000867021000014/,누적 3093300000 − 직전누적 2440500000 (시작 2020-07-01),6
+Automatic Data Processing,ADP,2021Q2,2021-06-30,분기말 자산총계,48772500000,USD,공시,https://www.sec.gov/Archives/edgar/data/8670/000000867021000027/,,6
+Automatic Data Processing,ADP,2021Q2,2021-06-30,분기말 부채총계,43102400000,USD,공시,https://www.sec.gov/Archives/edgar/data/8670/000000867021000027/,,6
+Automatic Data Processing,ADP,2021Q2,2021-06-30,분기말 총자본(자기자본),5670100000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/8670/000000867021000027/,"StockholdersEquity, MinorityInterest 태그 없음",6
+Automatic Data Processing,ADP,2021Q2,2021-06-30,분기말 지배지분 자본,5670100000,USD,공시,https://www.sec.gov/Archives/edgar/data/8670/000000867021000027/,,6
+Automatic Data Processing,ADP,2021Q2,2021-06-30,분기말 종가,198.62,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/ADP?interval=1d&events=splits (2021-06-30),,6
+Automatic Data Processing,ADP,2021Q2,2021-07-30,분기말 상장주식수,423080556,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/8670/000000867021000027/,dei:EntityCommonStockSharesOutstanding 클래스 합,6
+Automatic Data Processing,ADP,2021Q2,2021-06-30,분기말 시가총액,84032260033,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/ADP?interval=1d&events=splits (2021-06-30) ; https://www.sec.gov/Archives/edgar/data/8670/000000867021000027/,종가 198.62 × 주식수 423080556,6
+Automatic Data Processing,ADP,2021Q3,2021-09-30,분기별 매출액,3832300000,USD,공시,https://www.sec.gov/Archives/edgar/data/8670/000000867021000035/,,6
+Automatic Data Processing,ADP,2021Q3,2021-09-30,분기별 영업이익,미확인,USD,미확인,SEC companyfacts CIK0000008670: 해당 보고서에 OperatingIncomeLoss 태그 없음(영업이익 미공시) ; SEC companyfacts CIK0000008670: OperatingIncomeLoss 태그 없음(영업이익 미공시),,6
+Automatic Data Processing,ADP,2021Q3,2021-09-30,분기별 당기순이익(지배),700500000,USD,공시,https://www.sec.gov/Archives/edgar/data/8670/000000867021000035/,,6
+Automatic Data Processing,ADP,2021Q3,2021-09-30,분기별 영업활동현금흐름,121900000,USD,공시,https://www.sec.gov/Archives/edgar/data/8670/000000867021000035/,,6
+Automatic Data Processing,ADP,2021Q3,2021-09-30,분기말 자산총계,59987200000,USD,공시,https://www.sec.gov/Archives/edgar/data/8670/000000867021000035/,,6
+Automatic Data Processing,ADP,2021Q3,2021-09-30,분기말 부채총계,54636500000,USD,공시,https://www.sec.gov/Archives/edgar/data/8670/000000867021000035/,,6
+Automatic Data Processing,ADP,2021Q3,2021-09-30,분기말 총자본(자기자본),5350700000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/8670/000000867021000035/,"StockholdersEquity, MinorityInterest 태그 없음",6
+Automatic Data Processing,ADP,2021Q3,2021-09-30,분기말 지배지분 자본,5350700000,USD,공시,https://www.sec.gov/Archives/edgar/data/8670/000000867021000035/,,6
+Automatic Data Processing,ADP,2021Q3,2021-09-30,분기말 종가,199.92,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/ADP?interval=1d&events=splits (2021-09-30),,6
+Automatic Data Processing,ADP,2021Q3,2021-10-26,분기말 상장주식수,421384042,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/8670/000000867021000035/,dei:EntityCommonStockSharesOutstanding 클래스 합,6
+Automatic Data Processing,ADP,2021Q3,2021-09-30,분기말 시가총액,84243097677,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/ADP?interval=1d&events=splits (2021-09-30) ; https://www.sec.gov/Archives/edgar/data/8670/000000867021000035/,종가 199.92 × 주식수 421384042,6
+Automatic Data Processing,ADP,2021Q4,2021-12-31,분기별 매출액,4025400000,USD,공시,https://www.sec.gov/Archives/edgar/data/8670/000000867022000014/,,6
+Automatic Data Processing,ADP,2021Q4,2021-12-31,분기별 영업이익,미확인,USD,미확인,SEC companyfacts CIK0000008670: 해당 보고서에 OperatingIncomeLoss 태그 없음(영업이익 미공시) ; SEC companyfacts CIK0000008670: OperatingIncomeLoss 태그 없음(영업이익 미공시),,6
+Automatic Data Processing,ADP,2021Q4,2021-12-31,분기별 당기순이익(지배),694400000,USD,공시,https://www.sec.gov/Archives/edgar/data/8670/000000867022000014/,,6
+Automatic Data Processing,ADP,2021Q4,2021-12-31,분기별 영업활동현금흐름,1093700000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/8670/000000867022000014/ ; https://www.sec.gov/Archives/edgar/data/8670/000000867021000035/,누적 1215600000 − 직전누적 121900000 (시작 2021-07-01),6
+Automatic Data Processing,ADP,2021Q4,2021-12-31,분기말 자산총계,59102600000,USD,공시,https://www.sec.gov/Archives/edgar/data/8670/000000867022000014/,,6
+Automatic Data Processing,ADP,2021Q4,2021-12-31,분기말 부채총계,54053000000,USD,공시,https://www.sec.gov/Archives/edgar/data/8670/000000867022000014/,,6
+Automatic Data Processing,ADP,2021Q4,2021-12-31,분기말 총자본(자기자본),5049600000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/8670/000000867022000014/,"StockholdersEquity, MinorityInterest 태그 없음",6
+Automatic Data Processing,ADP,2021Q4,2021-12-31,분기말 지배지분 자본,5049600000,USD,공시,https://www.sec.gov/Archives/edgar/data/8670/000000867022000014/,,6
+Automatic Data Processing,ADP,2021Q4,2021-12-31,분기말 종가,246.58,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/ADP?interval=1d&events=splits (2021-12-31),,6
+Automatic Data Processing,ADP,2021Q4,2022-01-26,분기말 상장주식수,420045265,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/8670/000000867022000014/,dei:EntityCommonStockSharesOutstanding 클래스 합,6
+Automatic Data Processing,ADP,2021Q4,2021-12-31,분기말 시가총액,103574761444,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/ADP?interval=1d&events=splits (2021-12-31) ; https://www.sec.gov/Archives/edgar/data/8670/000000867022000014/,종가 246.58 × 주식수 420045265,6
+Automatic Data Processing,ADP,2022Q1,2022-03-31,분기별 매출액,4513000000,USD,공시,https://www.sec.gov/Archives/edgar/data/8670/000000867022000023/,,6
+Automatic Data Processing,ADP,2022Q1,2022-03-31,분기별 영업이익,미확인,USD,미확인,SEC companyfacts CIK0000008670: 해당 보고서에 OperatingIncomeLoss 태그 없음(영업이익 미공시) ; SEC companyfacts CIK0000008670: OperatingIncomeLoss 태그 없음(영업이익 미공시),,6
+Automatic Data Processing,ADP,2022Q1,2022-03-31,분기별 당기순이익(지배),928500000,USD,공시,https://www.sec.gov/Archives/edgar/data/8670/000000867022000023/,,6
+Automatic Data Processing,ADP,2022Q1,2022-03-31,분기별 영업활동현금흐름,971000000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/8670/000000867022000023/ ; https://www.sec.gov/Archives/edgar/data/8670/000000867022000014/,누적 2186600000 − 직전누적 1215600000 (시작 2021-07-01),6
+Automatic Data Processing,ADP,2022Q1,2022-03-31,분기말 자산총계,72068100000,USD,공시,https://www.sec.gov/Archives/edgar/data/8670/000000867022000023/,,6
+Automatic Data Processing,ADP,2022Q1,2022-03-31,분기말 부채총계,67875200000,USD,공시,https://www.sec.gov/Archives/edgar/data/8670/000000867022000023/,,6
+Automatic Data Processing,ADP,2022Q1,2022-03-31,분기말 총자본(자기자본),4192900000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/8670/000000867022000023/,"StockholdersEquity, MinorityInterest 태그 없음",6
+Automatic Data Processing,ADP,2022Q1,2022-03-31,분기말 지배지분 자본,4192900000,USD,공시,https://www.sec.gov/Archives/edgar/data/8670/000000867022000023/,,6
+Automatic Data Processing,ADP,2022Q1,2022-03-31,분기말 종가,227.54,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/ADP?interval=1d&events=splits (2022-03-31),,6
+Automatic Data Processing,ADP,2022Q1,2022-04-26,분기말 상장주식수,417747152,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/8670/000000867022000023/,dei:EntityCommonStockSharesOutstanding 클래스 합,6
+Automatic Data Processing,ADP,2022Q1,2022-03-31,분기말 시가총액,95054186966,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/ADP?interval=1d&events=splits (2022-03-31) ; https://www.sec.gov/Archives/edgar/data/8670/000000867022000023/,종가 227.54 × 주식수 417747152,6
+Automatic Data Processing,ADP,2022Q2,2022-06-30,분기별 매출액,4127700000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/8670/000000867022000038/ ; https://www.sec.gov/Archives/edgar/data/8670/000000867022000023/,연간 16498300000 − 9개월누적 12370600000 (Revenues / 9개월 RevenueFromContractWithCustomerExcludingAssessedTax),6
+Automatic Data Processing,ADP,2022Q2,2022-06-30,분기별 영업이익,미확인,USD,미확인,SEC companyfacts CIK0000008670: 해당 보고서에 OperatingIncomeLoss 태그 없음(영업이익 미공시) ; SEC companyfacts CIK0000008670: OperatingIncomeLoss 태그 없음(영업이익 미공시),,6
+Automatic Data Processing,ADP,2022Q2,2022-06-30,분기별 당기순이익(지배),625500000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/8670/000000867022000038/ ; https://www.sec.gov/Archives/edgar/data/8670/000000867022000023/,연간 2948900000 − 9개월누적 2323400000 (NetIncomeLoss),6
+Automatic Data Processing,ADP,2022Q2,2022-06-30,분기별 영업활동현금흐름,912900000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/8670/000000867022000038/ ; https://www.sec.gov/Archives/edgar/data/8670/000000867022000023/,누적 3099500000 − 직전누적 2186600000 (시작 2021-07-01),6
+Automatic Data Processing,ADP,2022Q2,2022-06-30,분기말 자산총계,63068200000,USD,공시,https://www.sec.gov/Archives/edgar/data/8670/000000867022000038/,,6
+Automatic Data Processing,ADP,2022Q2,2022-06-30,분기말 부채총계,59842900000,USD,공시,https://www.sec.gov/Archives/edgar/data/8670/000000867022000038/,,6
+Automatic Data Processing,ADP,2022Q2,2022-06-30,분기말 총자본(자기자본),3225300000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/8670/000000867022000038/,"StockholdersEquity, MinorityInterest 태그 없음",6
+Automatic Data Processing,ADP,2022Q2,2022-06-30,분기말 지배지분 자본,3225300000,USD,공시,https://www.sec.gov/Archives/edgar/data/8670/000000867022000038/,,6
+Automatic Data Processing,ADP,2022Q2,2022-06-30,분기말 종가,210.04,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/ADP?interval=1d&events=splits (2022-06-30),,6
+Automatic Data Processing,ADP,2022Q2,2022-07-29,분기말 상장주식수,415516984,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/8670/000000867022000038/,dei:EntityCommonStockSharesOutstanding 클래스 합,6
+Automatic Data Processing,ADP,2022Q2,2022-06-30,분기말 시가총액,87275187319,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/ADP?interval=1d&events=splits (2022-06-30) ; https://www.sec.gov/Archives/edgar/data/8670/000000867022000038/,종가 210.04 × 주식수 415516984,6
+Automatic Data Processing,ADP,2022Q3,2022-09-30,분기별 매출액,4215600000,USD,공시,https://www.sec.gov/Archives/edgar/data/8670/000000867022000046/,,6
+Automatic Data Processing,ADP,2022Q3,2022-09-30,분기별 영업이익,미확인,USD,미확인,SEC companyfacts CIK0000008670: 해당 보고서에 OperatingIncomeLoss 태그 없음(영업이익 미공시) ; SEC companyfacts CIK0000008670: OperatingIncomeLoss 태그 없음(영업이익 미공시),,6
+Automatic Data Processing,ADP,2022Q3,2022-09-30,분기별 당기순이익(지배),779000000,USD,공시,https://www.sec.gov/Archives/edgar/data/8670/000000867022000046/,,6
+Automatic Data Processing,ADP,2022Q3,2022-09-30,분기별 영업활동현금흐름,718100000,USD,공시,https://www.sec.gov/Archives/edgar/data/8670/000000867022000046/,,6
+Automatic Data Processing,ADP,2022Q3,2022-09-30,분기말 자산총계,46364700000,USD,공시,https://www.sec.gov/Archives/edgar/data/8670/000000867022000046/,,6
+Automatic Data Processing,ADP,2022Q3,2022-09-30,분기말 부채총계,43788200000,USD,공시,https://www.sec.gov/Archives/edgar/data/8670/000000867022000046/,,6
+Automatic Data Processing,ADP,2022Q3,2022-09-30,분기말 총자본(자기자본),2576500000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/8670/000000867022000046/,"StockholdersEquity, MinorityInterest 태그 없음",6
+Automatic Data Processing,ADP,2022Q3,2022-09-30,분기말 지배지분 자본,2576500000,USD,공시,https://www.sec.gov/Archives/edgar/data/8670/000000867022000046/,,6
+Automatic Data Processing,ADP,2022Q3,2022-09-30,분기말 종가,226.19,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/ADP?interval=1d&events=splits (2022-09-30),,6
+Automatic Data Processing,ADP,2022Q3,2022-10-28,분기말 상장주식수,414827769,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/8670/000000867022000046/,dei:EntityCommonStockSharesOutstanding 클래스 합,6
+Automatic Data Processing,ADP,2022Q3,2022-09-30,분기말 시가총액,93829893070,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/ADP?interval=1d&events=splits (2022-09-30) ; https://www.sec.gov/Archives/edgar/data/8670/000000867022000046/,종가 226.19 × 주식수 414827769,6
+Automatic Data Processing,ADP,2022Q4,2022-12-31,분기별 매출액,4391000000,USD,공시,https://www.sec.gov/Archives/edgar/data/8670/000000867023000008/,,6
+Automatic Data Processing,ADP,2022Q4,2022-12-31,분기별 영업이익,미확인,USD,미확인,SEC companyfacts CIK0000008670: 해당 보고서에 OperatingIncomeLoss 태그 없음(영업이익 미공시) ; SEC companyfacts CIK0000008670: OperatingIncomeLoss 태그 없음(영업이익 미공시),,6
+Automatic Data Processing,ADP,2022Q4,2022-12-31,분기별 당기순이익(지배),813100000,USD,공시,https://www.sec.gov/Archives/edgar/data/8670/000000867023000008/,,6
+Automatic Data Processing,ADP,2022Q4,2022-12-31,분기별 영업활동현금흐름,899700000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/8670/000000867023000008/ ; https://www.sec.gov/Archives/edgar/data/8670/000000867022000046/,누적 1617800000 − 직전누적 718100000 (시작 2022-07-01),6
+Automatic Data Processing,ADP,2022Q4,2022-12-31,분기말 자산총계,54453000000,USD,공시,https://www.sec.gov/Archives/edgar/data/8670/000000867023000008/,,6
+Automatic Data Processing,ADP,2022Q4,2022-12-31,분기말 부채총계,51466300000,USD,공시,https://www.sec.gov/Archives/edgar/data/8670/000000867023000008/,,6
+Automatic Data Processing,ADP,2022Q4,2022-12-31,분기말 총자본(자기자본),2986700000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/8670/000000867023000008/,"StockholdersEquity, MinorityInterest 태그 없음",6
+Automatic Data Processing,ADP,2022Q4,2022-12-31,분기말 지배지분 자본,2986700000,USD,공시,https://www.sec.gov/Archives/edgar/data/8670/000000867023000008/,,6
+Automatic Data Processing,ADP,2022Q4,2022-12-30,분기말 종가,238.86,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/ADP?interval=1d&events=splits (2022-12-30),,6
+Automatic Data Processing,ADP,2022Q4,2023-01-31,분기말 상장주식수,414351542,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/8670/000000867023000008/,dei:EntityCommonStockSharesOutstanding 클래스 합,6
+Automatic Data Processing,ADP,2022Q4,2022-12-30,분기말 시가총액,98972009322,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/ADP?interval=1d&events=splits (2022-12-30) ; https://www.sec.gov/Archives/edgar/data/8670/000000867023000008/,종가 238.86 × 주식수 414351542,6
+Automatic Data Processing,ADP,2023Q1,2023-03-31,분기별 매출액,4927800000,USD,공시,https://www.sec.gov/Archives/edgar/data/8670/000000867023000017/,,6
+Automatic Data Processing,ADP,2023Q1,2023-03-31,분기별 영업이익,미확인,USD,미확인,SEC companyfacts CIK0000008670: 해당 보고서에 OperatingIncomeLoss 태그 없음(영업이익 미공시) ; SEC companyfacts CIK0000008670: OperatingIncomeLoss 태그 없음(영업이익 미공시),,6
+Automatic Data Processing,ADP,2023Q1,2023-03-31,분기별 당기순이익(지배),1043100000,USD,공시,https://www.sec.gov/Archives/edgar/data/8670/000000867023000017/,,6
+Automatic Data Processing,ADP,2023Q1,2023-03-31,분기별 영업활동현금흐름,1404100000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/8670/000000867023000017/ ; https://www.sec.gov/Archives/edgar/data/8670/000000867023000008/,누적 3021900000 − 직전누적 1617800000 (시작 2022-07-01),6
+Automatic Data Processing,ADP,2023Q1,2023-03-31,분기말 자산총계,59881800000,USD,공시,https://www.sec.gov/Archives/edgar/data/8670/000000867023000017/,,6
+Automatic Data Processing,ADP,2023Q1,2023-03-31,분기말 부채총계,56188000000,USD,공시,https://www.sec.gov/Archives/edgar/data/8670/000000867023000017/,,6
+Automatic Data Processing,ADP,2023Q1,2023-03-31,분기말 총자본(자기자본),3693800000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/8670/000000867023000017/,"StockholdersEquity, MinorityInterest 태그 없음",6
+Automatic Data Processing,ADP,2023Q1,2023-03-31,분기말 지배지분 자본,3693800000,USD,공시,https://www.sec.gov/Archives/edgar/data/8670/000000867023000017/,,6
+Automatic Data Processing,ADP,2023Q1,2023-03-31,분기말 종가,222.63,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/ADP?interval=1d&events=splits (2023-03-31),,6
+Automatic Data Processing,ADP,2023Q1,2023-04-27,분기말 상장주식수,413122759,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/8670/000000867023000017/,dei:EntityCommonStockSharesOutstanding 클래스 합,6
+Automatic Data Processing,ADP,2023Q1,2023-03-31,분기말 시가총액,91973519836,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/ADP?interval=1d&events=splits (2023-03-31) ; https://www.sec.gov/Archives/edgar/data/8670/000000867023000017/,종가 222.63 × 주식수 413122759,6
+Automatic Data Processing,ADP,2023Q2,2023-06-30,분기별 매출액,4477800000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/8670/000000867023000030/ ; https://www.sec.gov/Archives/edgar/data/8670/000000867023000017/,연간 18012200000 − 9개월누적 13534400000 (Revenues / 9개월 RevenueFromContractWithCustomerExcludingAssessedTax),6
+Automatic Data Processing,ADP,2023Q2,2023-06-30,분기별 영업이익,미확인,USD,미확인,SEC companyfacts CIK0000008670: 해당 보고서에 OperatingIncomeLoss 태그 없음(영업이익 미공시) ; SEC companyfacts CIK0000008670: OperatingIncomeLoss 태그 없음(영업이익 미공시),,6
+Automatic Data Processing,ADP,2023Q2,2023-06-30,분기별 당기순이익(지배),776700000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/8670/000000867023000030/ ; https://www.sec.gov/Archives/edgar/data/8670/000000867023000017/,연간 3412000000 − 9개월누적 2635300000 (NetIncomeLoss),6
+Automatic Data Processing,ADP,2023Q2,2023-06-30,분기별 영업활동현금흐름,1185700000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/8670/000000867023000030/ ; https://www.sec.gov/Archives/edgar/data/8670/000000867023000017/,누적 4207600000 − 직전누적 3021900000 (시작 2022-07-01),6
+Automatic Data Processing,ADP,2023Q2,2023-06-30,분기말 자산총계,50971000000,USD,공시,https://www.sec.gov/Archives/edgar/data/8670/000000867023000030/,,6
+Automatic Data Processing,ADP,2023Q2,2023-06-30,분기말 부채총계,47461900000,USD,공시,https://www.sec.gov/Archives/edgar/data/8670/000000867023000030/,,6
+Automatic Data Processing,ADP,2023Q2,2023-06-30,분기말 총자본(자기자본),3509100000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/8670/000000867023000030/,"StockholdersEquity, MinorityInterest 태그 없음",6
+Automatic Data Processing,ADP,2023Q2,2023-06-30,분기말 지배지분 자본,3509100000,USD,공시,https://www.sec.gov/Archives/edgar/data/8670/000000867023000030/,,6
+Automatic Data Processing,ADP,2023Q2,2023-06-30,분기말 종가,219.79,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/ADP?interval=1d&events=splits (2023-06-30),,6
+Automatic Data Processing,ADP,2023Q2,2023-07-31,분기말 상장주식수,411986870,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/8670/000000867023000030/,dei:EntityCommonStockSharesOutstanding 클래스 합,6
+Automatic Data Processing,ADP,2023Q2,2023-06-30,분기말 시가총액,90550594157,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/ADP?interval=1d&events=splits (2023-06-30) ; https://www.sec.gov/Archives/edgar/data/8670/000000867023000030/,종가 219.79 × 주식수 411986870,6
+Automatic Data Processing,ADP,2023Q3,2023-09-30,분기별 매출액,4512400000,USD,공시,https://www.sec.gov/Archives/edgar/data/8670/000000867023000040/,,6
+Automatic Data Processing,ADP,2023Q3,2023-09-30,분기별 영업이익,미확인,USD,미확인,SEC companyfacts CIK0000008670: 해당 보고서에 OperatingIncomeLoss 태그 없음(영업이익 미공시) ; SEC companyfacts CIK0000008670: OperatingIncomeLoss 태그 없음(영업이익 미공시),,6
+Automatic Data Processing,ADP,2023Q3,2023-09-30,분기별 당기순이익(지배),859400000,USD,공시,https://www.sec.gov/Archives/edgar/data/8670/000000867023000040/,,6
+Automatic Data Processing,ADP,2023Q3,2023-09-30,분기별 영업활동현금흐름,326500000,USD,공시,https://www.sec.gov/Archives/edgar/data/8670/000000867023000040/,,6
+Automatic Data Processing,ADP,2023Q3,2023-09-30,분기말 자산총계,49323600000,USD,공시,https://www.sec.gov/Archives/edgar/data/8670/000000867023000040/,,6
+Automatic Data Processing,ADP,2023Q3,2023-09-30,분기말 부채총계,45850800000,USD,공시,https://www.sec.gov/Archives/edgar/data/8670/000000867023000040/,,6
+Automatic Data Processing,ADP,2023Q3,2023-09-30,분기말 총자본(자기자본),3472800000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/8670/000000867023000040/,"StockholdersEquity, MinorityInterest 태그 없음",6
+Automatic Data Processing,ADP,2023Q3,2023-09-30,분기말 지배지분 자본,3472800000,USD,공시,https://www.sec.gov/Archives/edgar/data/8670/000000867023000040/,,6
+Automatic Data Processing,ADP,2023Q3,2023-09-29,분기말 종가,240.58,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/ADP?interval=1d&events=splits (2023-09-29),,6
+Automatic Data Processing,ADP,2023Q3,2023-10-31,분기말 상장주식수,411304782,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/8670/000000867023000040/,dei:EntityCommonStockSharesOutstanding 클래스 합,6
+Automatic Data Processing,ADP,2023Q3,2023-09-29,분기말 시가총액,98951704454,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/ADP?interval=1d&events=splits (2023-09-29) ; https://www.sec.gov/Archives/edgar/data/8670/000000867023000040/,종가 240.58 × 주식수 411304782,6
+Automatic Data Processing,ADP,2023Q4,2023-12-31,분기별 매출액,4668000000,USD,공시,https://www.sec.gov/Archives/edgar/data/8670/000000867024000007/,,6
+Automatic Data Processing,ADP,2023Q4,2023-12-31,분기별 영업이익,미확인,USD,미확인,SEC companyfacts CIK0000008670: 해당 보고서에 OperatingIncomeLoss 태그 없음(영업이익 미공시) ; SEC companyfacts CIK0000008670: OperatingIncomeLoss 태그 없음(영업이익 미공시),,6
+Automatic Data Processing,ADP,2023Q4,2023-12-31,분기별 당기순이익(지배),878400000,USD,공시,https://www.sec.gov/Archives/edgar/data/8670/000000867024000007/,,6
+Automatic Data Processing,ADP,2023Q4,2023-12-31,분기별 영업활동현금흐름,1032400000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/8670/000000867024000007/ ; https://www.sec.gov/Archives/edgar/data/8670/000000867023000040/,누적 1358900000 − 직전누적 326500000 (시작 2023-07-01),6
+Automatic Data Processing,ADP,2023Q4,2023-12-31,분기말 자산총계,57069400000,USD,공시,https://www.sec.gov/Archives/edgar/data/8670/000000867024000007/,,6
+Automatic Data Processing,ADP,2023Q4,2023-12-31,분기말 부채총계,52749800000,USD,공시,https://www.sec.gov/Archives/edgar/data/8670/000000867024000007/,,6
+Automatic Data Processing,ADP,2023Q4,2023-12-31,분기말 총자본(자기자본),4319600000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/8670/000000867024000007/,"StockholdersEquity, MinorityInterest 태그 없음",6
+Automatic Data Processing,ADP,2023Q4,2023-12-31,분기말 지배지분 자본,4319600000,USD,공시,https://www.sec.gov/Archives/edgar/data/8670/000000867024000007/,,6
+Automatic Data Processing,ADP,2023Q4,2023-12-29,분기말 종가,232.97,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/ADP?interval=1d&events=splits (2023-12-29),,6
+Automatic Data Processing,ADP,2023Q4,2024-01-29,분기말 상장주식수,410790567,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/8670/000000867024000007/,dei:EntityCommonStockSharesOutstanding 클래스 합,6
+Automatic Data Processing,ADP,2023Q4,2023-12-29,분기말 시가총액,95701878394,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/ADP?interval=1d&events=splits (2023-12-29) ; https://www.sec.gov/Archives/edgar/data/8670/000000867024000007/,종가 232.97 × 주식수 410790567,6
+Automatic Data Processing,ADP,2024Q1,2024-03-31,분기별 매출액,5253800000,USD,공시,https://www.sec.gov/Archives/edgar/data/8670/000000867024000014/,,6
+Automatic Data Processing,ADP,2024Q1,2024-03-31,분기별 영업이익,미확인,USD,미확인,SEC companyfacts CIK0000008670: 해당 보고서에 OperatingIncomeLoss 태그 없음(영업이익 미공시) ; SEC companyfacts CIK0000008670: OperatingIncomeLoss 태그 없음(영업이익 미공시),,6
+Automatic Data Processing,ADP,2024Q1,2024-03-31,분기별 당기순이익(지배),1184900000,USD,공시,https://www.sec.gov/Archives/edgar/data/8670/000000867024000014/,,6
+Automatic Data Processing,ADP,2024Q1,2024-03-31,분기별 영업활동현금흐름,1498100000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/8670/000000867024000014/ ; https://www.sec.gov/Archives/edgar/data/8670/000000867024000007/,누적 2857000000 − 직전누적 1358900000 (시작 2023-07-01),6
+Automatic Data Processing,ADP,2024Q1,2024-03-31,분기말 자산총계,64181600000,USD,공시,https://www.sec.gov/Archives/edgar/data/8670/000000867024000014/,,6
+Automatic Data Processing,ADP,2024Q1,2024-03-31,분기말 부채총계,59554900000,USD,공시,https://www.sec.gov/Archives/edgar/data/8670/000000867024000014/,,6
+Automatic Data Processing,ADP,2024Q1,2024-03-31,분기말 총자본(자기자본),4626700000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/8670/000000867024000014/,"StockholdersEquity, MinorityInterest 태그 없음",6
+Automatic Data Processing,ADP,2024Q1,2024-03-31,분기말 지배지분 자본,4626700000,USD,공시,https://www.sec.gov/Archives/edgar/data/8670/000000867024000014/,,6
+Automatic Data Processing,ADP,2024Q1,2024-03-28,분기말 종가,249.74,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/ADP?interval=1d&events=splits (2024-03-28),,6
+Automatic Data Processing,ADP,2024Q1,2024-04-29,분기말 상장주식수,409291332,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/8670/000000867024000014/,dei:EntityCommonStockSharesOutstanding 클래스 합,6
+Automatic Data Processing,ADP,2024Q1,2024-03-28,분기말 시가총액,102216417254,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/ADP?interval=1d&events=splits (2024-03-28) ; https://www.sec.gov/Archives/edgar/data/8670/000000867024000014/,종가 249.74 × 주식수 409291332,6
+Automatic Data Processing,ADP,2024Q2,2024-06-30,분기별 매출액,4768500000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/8670/000000867024000024/ ; https://www.sec.gov/Archives/edgar/data/8670/000000867024000014/,연간 19202600000 − 9개월누적 14434100000 (Revenues / 9개월 RevenueFromContractWithCustomerExcludingAssessedTax),6
+Automatic Data Processing,ADP,2024Q2,2024-06-30,분기별 영업이익,미확인,USD,미확인,SEC companyfacts CIK0000008670: 해당 보고서에 OperatingIncomeLoss 태그 없음(영업이익 미공시) ; SEC companyfacts CIK0000008670: OperatingIncomeLoss 태그 없음(영업이익 미공시),,6
+Automatic Data Processing,ADP,2024Q2,2024-06-30,분기별 당기순이익(지배),829300000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/8670/000000867024000024/ ; https://www.sec.gov/Archives/edgar/data/8670/000000867024000014/,연간 3752000000 − 9개월누적 2922700000 (NetIncomeLoss),6
+Automatic Data Processing,ADP,2024Q2,2024-06-30,분기별 영업활동현금흐름,1300600000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/8670/000000867024000024/ ; https://www.sec.gov/Archives/edgar/data/8670/000000867024000014/,누적 4157600000 − 직전누적 2857000000 (시작 2023-07-01),6
+Automatic Data Processing,ADP,2024Q2,2024-06-30,분기말 자산총계,54362700000,USD,공시,https://www.sec.gov/Archives/edgar/data/8670/000000867024000024/,,6
+Automatic Data Processing,ADP,2024Q2,2024-06-30,분기말 부채총계,49815100000,USD,공시,https://www.sec.gov/Archives/edgar/data/8670/000000867024000024/,,6
+Automatic Data Processing,ADP,2024Q2,2024-06-30,분기말 총자본(자기자본),4547600000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/8670/000000867024000024/,"StockholdersEquity, MinorityInterest 태그 없음",6
+Automatic Data Processing,ADP,2024Q2,2024-06-30,분기말 지배지분 자본,4547600000,USD,공시,https://www.sec.gov/Archives/edgar/data/8670/000000867024000024/,,6
+Automatic Data Processing,ADP,2024Q2,2024-06-28,분기말 종가,238.69,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/ADP?interval=1d&events=splits (2024-06-28),,6
+Automatic Data Processing,ADP,2024Q2,2024-08-02,분기말 상장주식수,407795203,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/8670/000000867024000024/,dei:EntityCommonStockSharesOutstanding 클래스 합,6
+Automatic Data Processing,ADP,2024Q2,2024-06-28,분기말 시가총액,97336637004,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/ADP?interval=1d&events=splits (2024-06-28) ; https://www.sec.gov/Archives/edgar/data/8670/000000867024000024/,종가 238.69 × 주식수 407795203,6
+Automatic Data Processing,ADP,2024Q3,2024-09-30,분기별 매출액,4832700000,USD,공시,https://www.sec.gov/Archives/edgar/data/8670/000000867024000030/,,6
+Automatic Data Processing,ADP,2024Q3,2024-09-30,분기별 영업이익,미확인,USD,미확인,SEC companyfacts CIK0000008670: 해당 보고서에 OperatingIncomeLoss 태그 없음(영업이익 미공시) ; SEC companyfacts CIK0000008670: OperatingIncomeLoss 태그 없음(영업이익 미공시),,6
+Automatic Data Processing,ADP,2024Q3,2024-09-30,분기별 당기순이익(지배),956300000,USD,공시,https://www.sec.gov/Archives/edgar/data/8670/000000867024000030/,,6
+Automatic Data Processing,ADP,2024Q3,2024-09-30,분기별 영업활동현금흐름,824400000,USD,공시,https://www.sec.gov/Archives/edgar/data/8670/000000867024000030/,,6
+Automatic Data Processing,ADP,2024Q3,2024-09-30,분기말 자산총계,49511400000,USD,공시,https://www.sec.gov/Archives/edgar/data/8670/000000867024000030/,,6
+Automatic Data Processing,ADP,2024Q3,2024-09-30,분기말 부채총계,44162800000,USD,공시,https://www.sec.gov/Archives/edgar/data/8670/000000867024000030/,,6
+Automatic Data Processing,ADP,2024Q3,2024-09-30,분기말 총자본(자기자본),5348600000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/8670/000000867024000030/,"StockholdersEquity, MinorityInterest 태그 없음",6
+Automatic Data Processing,ADP,2024Q3,2024-09-30,분기말 지배지분 자본,5348600000,USD,공시,https://www.sec.gov/Archives/edgar/data/8670/000000867024000030/,,6
+Automatic Data Processing,ADP,2024Q3,2024-09-30,분기말 종가,276.73,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/ADP?interval=1d&events=splits (2024-09-30),,6
+Automatic Data Processing,ADP,2024Q3,2024-10-29,분기말 상장주식수,407456901,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/8670/000000867024000030/,dei:EntityCommonStockSharesOutstanding 클래스 합,6
+Automatic Data Processing,ADP,2024Q3,2024-09-30,분기말 시가총액,112755548214,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/ADP?interval=1d&events=splits (2024-09-30) ; https://www.sec.gov/Archives/edgar/data/8670/000000867024000030/,종가 276.73 × 주식수 407456901,6
+Automatic Data Processing,ADP,2024Q4,2024-12-31,분기별 매출액,5048400000,USD,공시,https://www.sec.gov/Archives/edgar/data/8670/000000867025000007/,,6
+Automatic Data Processing,ADP,2024Q4,2024-12-31,분기별 영업이익,미확인,USD,미확인,SEC companyfacts CIK0000008670: 해당 보고서에 OperatingIncomeLoss 태그 없음(영업이익 미공시) ; SEC companyfacts CIK0000008670: OperatingIncomeLoss 태그 없음(영업이익 미공시),,6
+Automatic Data Processing,ADP,2024Q4,2024-12-31,분기별 당기순이익(지배),963200000,USD,공시,https://www.sec.gov/Archives/edgar/data/8670/000000867025000007/,,6
+Automatic Data Processing,ADP,2024Q4,2024-12-31,분기별 영업활동현금흐름,1150300000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/8670/000000867025000007/ ; https://www.sec.gov/Archives/edgar/data/8670/000000867024000030/,누적 1974700000 − 직전누적 824400000 (시작 2024-07-01),6
+Automatic Data Processing,ADP,2024Q4,2024-12-31,분기말 자산총계,64096700000,USD,공시,https://www.sec.gov/Archives/edgar/data/8670/000000867025000007/,,6
+Automatic Data Processing,ADP,2024Q4,2024-12-31,분기말 부채총계,59018600000,USD,공시,https://www.sec.gov/Archives/edgar/data/8670/000000867025000007/,,6
+Automatic Data Processing,ADP,2024Q4,2024-12-31,분기말 총자본(자기자본),5078100000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/8670/000000867025000007/,"StockholdersEquity, MinorityInterest 태그 없음",6
+Automatic Data Processing,ADP,2024Q4,2024-12-31,분기말 지배지분 자본,5078100000,USD,공시,https://www.sec.gov/Archives/edgar/data/8670/000000867025000007/,,6
+Automatic Data Processing,ADP,2024Q4,2024-12-31,분기말 종가,292.73,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/ADP?interval=1d&events=splits (2024-12-31),,6
+Automatic Data Processing,ADP,2024Q4,2025-01-27,분기말 상장주식수,406870893,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/8670/000000867025000007/,dei:EntityCommonStockSharesOutstanding 클래스 합,6
+Automatic Data Processing,ADP,2024Q4,2024-12-31,분기말 시가총액,119103316508,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/ADP?interval=1d&events=splits (2024-12-31) ; https://www.sec.gov/Archives/edgar/data/8670/000000867025000007/,종가 292.73 × 주식수 406870893,6
+Automatic Data Processing,ADP,2025Q1,2025-03-31,분기별 매출액,5553000000,USD,공시,https://www.sec.gov/Archives/edgar/data/8670/000000867025000015/,,6
+Automatic Data Processing,ADP,2025Q1,2025-03-31,분기별 영업이익,미확인,USD,미확인,SEC companyfacts CIK0000008670: 해당 보고서에 OperatingIncomeLoss 태그 없음(영업이익 미공시) ; SEC companyfacts CIK0000008670: OperatingIncomeLoss 태그 없음(영업이익 미공시),,6
+Automatic Data Processing,ADP,2025Q1,2025-03-31,분기별 당기순이익(지배),1249500000,USD,공시,https://www.sec.gov/Archives/edgar/data/8670/000000867025000015/,,6
+Automatic Data Processing,ADP,2025Q1,2025-03-31,분기별 영업활동현금흐름,1525800000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/8670/000000867025000015/ ; https://www.sec.gov/Archives/edgar/data/8670/000000867025000007/,누적 3500500000 − 직전누적 1974700000 (시작 2024-07-01),6
+Automatic Data Processing,ADP,2025Q1,2025-03-31,분기말 자산총계,56448600000,USD,공시,https://www.sec.gov/Archives/edgar/data/8670/000000867025000015/,,6
+Automatic Data Processing,ADP,2025Q1,2025-03-31,분기말 부채총계,50593300000,USD,공시,https://www.sec.gov/Archives/edgar/data/8670/000000867025000015/,,6
+Automatic Data Processing,ADP,2025Q1,2025-03-31,분기말 총자본(자기자본),5855300000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/8670/000000867025000015/,"StockholdersEquity, MinorityInterest 태그 없음",6
+Automatic Data Processing,ADP,2025Q1,2025-03-31,분기말 지배지분 자본,5855300000,USD,공시,https://www.sec.gov/Archives/edgar/data/8670/000000867025000015/,,6
+Automatic Data Processing,ADP,2025Q1,2025-03-31,분기말 종가,305.53,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/ADP?interval=1d&events=splits (2025-03-31),,6
+Automatic Data Processing,ADP,2025Q1,2025-04-28,분기말 상장주식수,405922749,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/8670/000000867025000015/,dei:EntityCommonStockSharesOutstanding 클래스 합,6
+Automatic Data Processing,ADP,2025Q1,2025-03-31,분기말 시가총액,124021577502,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/ADP?interval=1d&events=splits (2025-03-31) ; https://www.sec.gov/Archives/edgar/data/8670/000000867025000015/,종가 305.53 × 주식수 405922749,6
+Automatic Data Processing,ADP,2025Q2,2025-06-30,분기별 매출액,5126800000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/8670/000000867025000037/ ; https://www.sec.gov/Archives/edgar/data/8670/000000867025000015/,연간 20560900000 − 9개월누적 15434100000 (Revenues / 9개월 RevenueFromContractWithCustomerExcludingAssessedTax),6
+Automatic Data Processing,ADP,2025Q2,2025-06-30,분기별 영업이익,미확인,USD,미확인,SEC companyfacts CIK0000008670: 해당 보고서에 OperatingIncomeLoss 태그 없음(영업이익 미공시) ; SEC companyfacts CIK0000008670: OperatingIncomeLoss 태그 없음(영업이익 미공시),,6
+Automatic Data Processing,ADP,2025Q2,2025-06-30,분기별 당기순이익(지배),910700000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/8670/000000867025000037/ ; https://www.sec.gov/Archives/edgar/data/8670/000000867025000015/,연간 4079700000 − 9개월누적 3169000000 (NetIncomeLoss),6
+Automatic Data Processing,ADP,2025Q2,2025-06-30,분기별 영업활동현금흐름,1439200000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/8670/000000867025000037/ ; https://www.sec.gov/Archives/edgar/data/8670/000000867025000015/,누적 4939700000 − 직전누적 3500500000 (시작 2024-07-01),6
+Automatic Data Processing,ADP,2025Q2,2025-06-30,분기말 자산총계,53369300000,USD,공시,https://www.sec.gov/Archives/edgar/data/8670/000000867025000037/,,6
+Automatic Data Processing,ADP,2025Q2,2025-06-30,분기말 부채총계,47181300000,USD,공시,https://www.sec.gov/Archives/edgar/data/8670/000000867025000037/,,6
+Automatic Data Processing,ADP,2025Q2,2025-06-30,분기말 총자본(자기자본),6188000000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/8670/000000867025000037/,"StockholdersEquity, MinorityInterest 태그 없음",6
+Automatic Data Processing,ADP,2025Q2,2025-06-30,분기말 지배지분 자본,6188000000,USD,공시,https://www.sec.gov/Archives/edgar/data/8670/000000867025000037/,,6
+Automatic Data Processing,ADP,2025Q2,2025-06-30,분기말 종가,308.4,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/ADP?interval=1d&events=splits (2025-06-30),,6
+Automatic Data Processing,ADP,2025Q2,2025-08-01,분기말 상장주식수,405043142,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/8670/000000867025000037/,dei:EntityCommonStockSharesOutstanding 클래스 합,6
+Automatic Data Processing,ADP,2025Q2,2025-06-30,분기말 시가총액,124915304993,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/ADP?interval=1d&events=splits (2025-06-30) ; https://www.sec.gov/Archives/edgar/data/8670/000000867025000037/,종가 308.4 × 주식수 405043142,6
+Automatic Data Processing,ADP,2025Q3,2025-09-30,분기별 매출액,5175200000,USD,공시,https://www.sec.gov/Archives/edgar/data/8670/000000867025000047/,,6
+Automatic Data Processing,ADP,2025Q3,2025-09-30,분기별 영업이익,미확인,USD,미확인,SEC companyfacts CIK0000008670: 해당 보고서에 OperatingIncomeLoss 태그 없음(영업이익 미공시) ; SEC companyfacts CIK0000008670: OperatingIncomeLoss 태그 없음(영업이익 미공시),,6
+Automatic Data Processing,ADP,2025Q3,2025-09-30,분기별 당기순이익(지배),1013000000,USD,공시,https://www.sec.gov/Archives/edgar/data/8670/000000867025000047/,,6
+Automatic Data Processing,ADP,2025Q3,2025-09-30,분기별 영업활동현금흐름,642300000,USD,공시,https://www.sec.gov/Archives/edgar/data/8670/000000867025000047/,,6
+Automatic Data Processing,ADP,2025Q3,2025-09-30,분기말 자산총계,54320800000,USD,공시,https://www.sec.gov/Archives/edgar/data/8670/000000867025000047/,,6
+Automatic Data Processing,ADP,2025Q3,2025-09-30,분기말 부채총계,47947000000,USD,공시,https://www.sec.gov/Archives/edgar/data/8670/000000867025000047/,,6
+Automatic Data Processing,ADP,2025Q3,2025-09-30,분기말 총자본(자기자본),6373800000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/8670/000000867025000047/,"StockholdersEquity, MinorityInterest 태그 없음",6
+Automatic Data Processing,ADP,2025Q3,2025-09-30,분기말 지배지분 자본,6373800000,USD,공시,https://www.sec.gov/Archives/edgar/data/8670/000000867025000047/,,6
+Automatic Data Processing,ADP,2025Q3,2025-09-30,분기말 종가,293.5,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/ADP?interval=1d&events=splits (2025-09-30),,6
+Automatic Data Processing,ADP,2025Q3,2025-10-28,분기말 상장주식수,404448744,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/8670/000000867025000047/,dei:EntityCommonStockSharesOutstanding 클래스 합,6
+Automatic Data Processing,ADP,2025Q3,2025-09-30,분기말 시가총액,118705706364,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/ADP?interval=1d&events=splits (2025-09-30) ; https://www.sec.gov/Archives/edgar/data/8670/000000867025000047/,종가 293.5 × 주식수 404448744,6
+Automatic Data Processing,ADP,2025Q4,2025-12-31,분기별 매출액,5359300000,USD,공시,https://www.sec.gov/Archives/edgar/data/8670/000000867026000011/,,6
+Automatic Data Processing,ADP,2025Q4,2025-12-31,분기별 영업이익,미확인,USD,미확인,SEC companyfacts CIK0000008670: 해당 보고서에 OperatingIncomeLoss 태그 없음(영업이익 미공시) ; SEC companyfacts CIK0000008670: OperatingIncomeLoss 태그 없음(영업이익 미공시),,6
+Automatic Data Processing,ADP,2025Q4,2025-12-31,분기별 당기순이익(지배),1062000000,USD,공시,https://www.sec.gov/Archives/edgar/data/8670/000000867026000011/,,6
+Automatic Data Processing,ADP,2025Q4,2025-12-31,분기별 영업활동현금흐름,1132900000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/8670/000000867026000011/ ; https://www.sec.gov/Archives/edgar/data/8670/000000867025000047/,누적 1775200000 − 직전누적 642300000 (시작 2025-07-01),6
+Automatic Data Processing,ADP,2025Q4,2025-12-31,분기말 자산총계,84639400000,USD,공시,https://www.sec.gov/Archives/edgar/data/8670/000000867026000011/,,6
+Automatic Data Processing,ADP,2025Q4,2025-12-31,분기말 부채총계,78246400000,USD,공시,https://www.sec.gov/Archives/edgar/data/8670/000000867026000011/,,6
+Automatic Data Processing,ADP,2025Q4,2025-12-31,분기말 총자본(자기자본),6393000000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/8670/000000867026000011/,"StockholdersEquity, MinorityInterest 태그 없음",6
+Automatic Data Processing,ADP,2025Q4,2025-12-31,분기말 지배지분 자본,6393000000,USD,공시,https://www.sec.gov/Archives/edgar/data/8670/000000867026000011/,,6
+Automatic Data Processing,ADP,2025Q4,2025-12-31,분기말 종가,257.23,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/ADP?interval=1d&events=splits (2025-12-31),,6
+Automatic Data Processing,ADP,2025Q4,2026-01-26,분기말 상장주식수,402644364,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/8670/000000867026000011/,dei:EntityCommonStockSharesOutstanding 클래스 합,6
+Automatic Data Processing,ADP,2025Q4,2025-12-31,분기말 시가총액,103572209752,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/ADP?interval=1d&events=splits (2025-12-31) ; https://www.sec.gov/Archives/edgar/data/8670/000000867026000011/,종가 257.23 × 주식수 402644364,6
+Automatic Data Processing,ADP,2026Q1,2026-03-31,분기별 매출액,5939200000,USD,공시,https://www.sec.gov/Archives/edgar/data/8670/000000867026000022/,,6
+Automatic Data Processing,ADP,2026Q1,2026-03-31,분기별 영업이익,미확인,USD,미확인,SEC companyfacts CIK0000008670: 해당 보고서에 OperatingIncomeLoss 태그 없음(영업이익 미공시) ; SEC companyfacts CIK0000008670: OperatingIncomeLoss 태그 없음(영업이익 미공시),,6
+Automatic Data Processing,ADP,2026Q1,2026-03-31,분기별 당기순이익(지배),1359800000,USD,공시,https://www.sec.gov/Archives/edgar/data/8670/000000867026000022/,,6
+Automatic Data Processing,ADP,2026Q1,2026-03-31,분기별 영업활동현금흐름,2238000000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/8670/000000867026000022/ ; https://www.sec.gov/Archives/edgar/data/8670/000000867026000011/,누적 4013200000 − 직전누적 1775200000 (시작 2025-07-01),6
+Automatic Data Processing,ADP,2026Q1,2026-03-31,분기말 자산총계,64484200000,USD,공시,https://www.sec.gov/Archives/edgar/data/8670/000000867026000022/,,6
+Automatic Data Processing,ADP,2026Q1,2026-03-31,분기말 부채총계,58134100000,USD,공시,https://www.sec.gov/Archives/edgar/data/8670/000000867026000022/,,6
+Automatic Data Processing,ADP,2026Q1,2026-03-31,분기말 총자본(자기자본),6350100000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/8670/000000867026000022/,"StockholdersEquity, MinorityInterest 태그 없음",6
+Automatic Data Processing,ADP,2026Q1,2026-03-31,분기말 지배지분 자본,6350100000,USD,공시,https://www.sec.gov/Archives/edgar/data/8670/000000867026000022/,,6
+Automatic Data Processing,ADP,2026Q1,2026-03-31,분기말 종가,203.18,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/ADP?interval=1d&events=splits (2026-03-31),,6
+Automatic Data Processing,ADP,2026Q1,2026-04-27,분기말 상장주식수,399734282,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/8670/000000867026000022/,dei:EntityCommonStockSharesOutstanding 클래스 합,6
+Automatic Data Processing,ADP,2026Q1,2026-03-31,분기말 시가총액,81218011417,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/ADP?interval=1d&events=splits (2026-03-31) ; https://www.sec.gov/Archives/edgar/data/8670/000000867026000022/,종가 203.18 × 주식수 399734282,6
+Automatic Data Processing,ADP,2026Q2,2026-06-30,분기별 매출액,5473800000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/8670/000000867026000030/ ; https://www.sec.gov/Archives/edgar/data/8670/000000867026000022/,연간 21947400000 − 9개월누적 16473600000 (Revenues / 9개월 RevenueFromContractWithCustomerExcludingAssessedTax),6
+Automatic Data Processing,ADP,2026Q2,2026-06-30,분기별 영업이익,미확인,USD,미확인,SEC companyfacts CIK0000008670: 해당 보고서에 OperatingIncomeLoss 태그 없음(영업이익 미공시) ; SEC companyfacts CIK0000008670: OperatingIncomeLoss 태그 없음(영업이익 미공시),,6
+Automatic Data Processing,ADP,2026Q2,2026-06-30,분기별 당기순이익(지배),978600000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/8670/000000867026000030/ ; https://www.sec.gov/Archives/edgar/data/8670/000000867026000022/,연간 4413500000 − 9개월누적 3434900000 (NetIncomeLoss),6
+Automatic Data Processing,ADP,2026Q2,2026-06-30,분기별 영업활동현금흐름,1428000000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/8670/000000867026000030/ ; https://www.sec.gov/Archives/edgar/data/8670/000000867026000022/,누적 5441200000 − 직전누적 4013200000 (시작 2025-07-01),6
+Automatic Data Processing,ADP,2026Q2,2026-06-30,분기말 자산총계,63193300000,USD,공시,https://www.sec.gov/Archives/edgar/data/8670/000000867026000030/,,6
+Automatic Data Processing,ADP,2026Q2,2026-06-30,분기말 부채총계,57162100000,USD,공시,https://www.sec.gov/Archives/edgar/data/8670/000000867026000030/,,6
+Automatic Data Processing,ADP,2026Q2,2026-06-30,분기말 총자본(자기자본),6031200000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/8670/000000867026000030/,"StockholdersEquity, MinorityInterest 태그 없음",6
+Automatic Data Processing,ADP,2026Q2,2026-06-30,분기말 지배지분 자본,6031200000,USD,공시,https://www.sec.gov/Archives/edgar/data/8670/000000867026000030/,,6
+Automatic Data Processing,ADP,2026Q2,2026-06-30,분기말 종가,223.95,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/ADP?interval=1d&events=splits (2026-06-30),,6
+Automatic Data Processing,ADP,2026Q2,2026-07-31,분기말 상장주식수,397262737,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/8670/000000867026000030/,dei:EntityCommonStockSharesOutstanding 클래스 합,6
+Automatic Data Processing,ADP,2026Q2,2026-06-30,분기말 시가총액,88966989951,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/ADP?interval=1d&events=splits (2026-06-30) ; https://www.sec.gov/Archives/edgar/data/8670/000000867026000030/,종가 223.95 × 주식수 397262737,6

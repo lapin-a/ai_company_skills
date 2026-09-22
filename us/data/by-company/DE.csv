@@ -1,0 +1,727 @@
+﻿기업,종목코드,기간,기준일,항목,값,통화,값구분,출처,검산,라운드
+Deere,DE,2010Q1,2010-04-30,분기별 매출액,7130900000,USD,공시,https://www.sec.gov/Archives/edgar/data/315189/000110465910031404/,,4
+Deere,DE,2010Q1,2010-04-30,분기별 영업이익,1098000000,USD,공시(후속 보고서 비교기간),https://www.sec.gov/Archives/edgar/data/315189/000110465911031895/,OperatingIncomeLoss ; 그 분기 보고서에 연결 총계가 없어 2011-05-27 제출본의 비교기간에서 읽었다,4
+Deere,DE,2010Q1,2010-04-30,분기별 당기순이익(지배),547500000,USD,공시,https://www.sec.gov/Archives/edgar/data/315189/000110465910031404/,,4
+Deere,DE,2010Q1,2010-04-30,분기별 영업활동현금흐름,734900000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/315189/000110465910031404/ ; https://www.sec.gov/Archives/edgar/data/315189/000110465910010697/,누적 416600000 − 직전누적 -318300000 (시작 2009-11-01),4
+Deere,DE,2010Q1,2010-04-30,분기말 자산총계,41014100000,USD,공시,https://www.sec.gov/Archives/edgar/data/315189/000110465910031404/,,4
+Deere,DE,2010Q1,2010-04-30,분기말 부채총계,35354700000,USD,공시,https://www.sec.gov/Archives/edgar/data/315189/000110465910031404/,,4
+Deere,DE,2010Q1,2010-04-30,분기말 총자본(자기자본),5659400000,USD,공시,https://www.sec.gov/Archives/edgar/data/315189/000110465910031404/,,4
+Deere,DE,2010Q1,2010-04-30,분기말 지배지분 자본,5650900000,USD,공시,https://www.sec.gov/Archives/edgar/data/315189/000110465910031404/,,4
+Deere,DE,2010Q1,2010-04-30,분기말 종가,59.82,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/DE?interval=1d&events=splits (2010-04-30),,4
+Deere,DE,2010Q1,2010-04-30,분기말 상장주식수,424837898,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/315189/000110465910031404/,dei:EntityCommonStockSharesOutstanding 클래스 합,4
+Deere,DE,2010Q1,2010-04-30,분기말 시가총액,25413803058,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/DE?interval=1d&events=splits (2010-04-30) ; https://www.sec.gov/Archives/edgar/data/315189/000110465910031404/,종가 59.82 × 주식수 424837898,4
+Deere,DE,2010Q2,2010-07-31,분기별 매출액,6836900000,USD,공시,https://www.sec.gov/Archives/edgar/data/315189/000110465910046204/,,4
+Deere,DE,2010Q2,2010-07-31,분기별 영업이익,1038000000,USD,공시(후속 보고서 비교기간),https://www.sec.gov/Archives/edgar/data/315189/000110465911049960/,OperatingIncomeLoss ; 그 분기 보고서에 연결 총계가 없어 2011-09-01 제출본의 비교기간에서 읽었다,4
+Deere,DE,2010Q2,2010-07-31,분기별 당기순이익(지배),617000000,USD,공시,https://www.sec.gov/Archives/edgar/data/315189/000110465910046204/,,4
+Deere,DE,2010Q2,2010-07-31,분기별 영업활동현금흐름,671500000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/315189/000110465910046204/ ; https://www.sec.gov/Archives/edgar/data/315189/000110465910031404/,누적 1088100000 − 직전누적 416600000 (시작 2009-11-01),4
+Deere,DE,2010Q2,2010-07-31,분기말 자산총계,41810300000,USD,공시,https://www.sec.gov/Archives/edgar/data/315189/000110465910046204/,,4
+Deere,DE,2010Q2,2010-07-31,분기말 부채총계,35684500000,USD,공시,https://www.sec.gov/Archives/edgar/data/315189/000110465910046204/,,4
+Deere,DE,2010Q2,2010-07-31,분기말 총자본(자기자본),6125800000,USD,공시,https://www.sec.gov/Archives/edgar/data/315189/000110465910046204/,,4
+Deere,DE,2010Q2,2010-07-31,분기말 지배지분 자본,6115200000,USD,공시,https://www.sec.gov/Archives/edgar/data/315189/000110465910046204/,,4
+Deere,DE,2010Q2,2010-07-30,분기말 종가,66.68,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/DE?interval=1d&events=splits (2010-07-30),,4
+Deere,DE,2010Q2,2010-07-31,분기말 상장주식수,423863048,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/315189/000110465910046204/,dei:EntityCommonStockSharesOutstanding 클래스 합,4
+Deere,DE,2010Q2,2010-07-30,분기말 시가총액,28263188041,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/DE?interval=1d&events=splits (2010-07-30) ; https://www.sec.gov/Archives/edgar/data/315189/000110465910046204/,종가 66.68 × 주식수 423863048,4
+Deere,DE,2010Q3,2010-10-31,분기별 매출액,7202000000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/315189/000110465910063219/ ; https://www.sec.gov/Archives/edgar/data/315189/000110465910046204/,연간 26004600000 − 9개월누적 18802600000 (Revenues),4
+Deere,DE,2010Q3,2010-10-31,분기별 영업이익,855000000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/315189/000110465910063219/ ; https://www.sec.gov/Archives/edgar/data/315189/000110465911049960/,연간 3408000000 − 9개월누적 2553000000 (OperatingIncomeLoss),4
+Deere,DE,2010Q3,2010-10-31,분기별 당기순이익(지배),457300000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/315189/000110465910063219/ ; https://www.sec.gov/Archives/edgar/data/315189/000110465910046204/,연간 1865000000 − 9개월누적 1407700000 (NetIncomeLoss),4
+Deere,DE,2010Q3,2010-10-31,분기별 영업활동현금흐름,1194100000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/315189/000110465910063219/ ; https://www.sec.gov/Archives/edgar/data/315189/000110465910046204/,누적 2282200000 − 직전누적 1088100000 (시작 2009-11-01),4
+Deere,DE,2010Q3,2010-10-31,분기말 자산총계,43266800000,USD,공시,https://www.sec.gov/Archives/edgar/data/315189/000110465910063219/,,4
+Deere,DE,2010Q3,2010-10-31,분기말 부채총계,36963400000,USD,공시,https://www.sec.gov/Archives/edgar/data/315189/000110465910063219/,,4
+Deere,DE,2010Q3,2010-10-31,분기말 총자본(자기자본),6303400000,USD,공시,https://www.sec.gov/Archives/edgar/data/315189/000110465910063219/,,4
+Deere,DE,2010Q3,2010-10-31,분기말 지배지분 자본,6290300000,USD,공시,https://www.sec.gov/Archives/edgar/data/315189/000110465910063219/,,4
+Deere,DE,2010Q3,2010-10-29,분기말 종가,76.8,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/DE?interval=1d&events=splits (2010-10-29),,4
+Deere,DE,2010Q3,2010-11-30,분기말 상장주식수,422711150,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/315189/000110465910063219/,dei:EntityCommonStockSharesOutstanding 클래스 합,4
+Deere,DE,2010Q3,2010-10-29,분기말 시가총액,32464216320,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/DE?interval=1d&events=splits (2010-10-29) ; https://www.sec.gov/Archives/edgar/data/315189/000110465910063219/,종가 76.8 × 주식수 422711150,4
+Deere,DE,2010Q4,2011-01-31,분기별 매출액,6119200000,USD,공시,https://www.sec.gov/Archives/edgar/data/315189/000110465911010186/,,4
+Deere,DE,2010Q4,2011-01-31,분기별 영업이익,818000000,USD,공시,https://www.sec.gov/Archives/edgar/data/315189/000110465911010186/,,4
+Deere,DE,2010Q4,2011-01-31,분기별 당기순이익(지배),513700000,USD,공시,https://www.sec.gov/Archives/edgar/data/315189/000110465911010186/,,4
+Deere,DE,2010Q4,2011-01-31,분기별 영업활동현금흐름,-900300000,USD,공시,https://www.sec.gov/Archives/edgar/data/315189/000110465911010186/,,4
+Deere,DE,2010Q4,2011-01-31,분기말 자산총계,42895800000,USD,공시,https://www.sec.gov/Archives/edgar/data/315189/000110465911010186/,,4
+Deere,DE,2010Q4,2011-01-31,분기말 부채총계,36309100000,USD,공시,https://www.sec.gov/Archives/edgar/data/315189/000110465911010186/,,4
+Deere,DE,2010Q4,2011-01-31,분기말 총자본(자기자본),6586700000,USD,공시,https://www.sec.gov/Archives/edgar/data/315189/000110465911010186/,,4
+Deere,DE,2010Q4,2011-01-31,분기말 지배지분 자본,6578600000,USD,공시,https://www.sec.gov/Archives/edgar/data/315189/000110465911010186/,,4
+Deere,DE,2010Q4,2011-01-31,분기말 종가,90.9,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/DE?interval=1d&events=splits (2011-01-31),,4
+Deere,DE,2010Q4,2011-01-31,분기말 상장주식수,421041065,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/315189/000110465911010186/,dei:EntityCommonStockSharesOutstanding 클래스 합,4
+Deere,DE,2010Q4,2011-01-31,분기말 시가총액,38272632808,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/DE?interval=1d&events=splits (2011-01-31) ; https://www.sec.gov/Archives/edgar/data/315189/000110465911010186/,종가 90.9 × 주식수 421041065,4
+Deere,DE,2011Q1,2011-04-30,분기별 매출액,8909700000,USD,공시,https://www.sec.gov/Archives/edgar/data/315189/000110465911031895/,,4
+Deere,DE,2011Q1,2011-04-30,분기별 영업이익,1431000000,USD,공시,https://www.sec.gov/Archives/edgar/data/315189/000110465911031895/,,4
+Deere,DE,2011Q1,2011-04-30,분기별 당기순이익(지배),904300000,USD,공시,https://www.sec.gov/Archives/edgar/data/315189/000110465911031895/,,4
+Deere,DE,2011Q1,2011-04-30,분기별 영업활동현금흐름,235000000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/315189/000110465911031895/ ; https://www.sec.gov/Archives/edgar/data/315189/000110465911010186/,누적 -665300000 − 직전누적 -900300000 (시작 2010-11-01),4
+Deere,DE,2011Q1,2011-04-30,분기말 자산총계,46585500000,USD,공시,https://www.sec.gov/Archives/edgar/data/315189/000110465911031895/,,4
+Deere,DE,2011Q1,2011-04-30,분기말 부채총계,39151900000,USD,공시,https://www.sec.gov/Archives/edgar/data/315189/000110465911031895/,,4
+Deere,DE,2011Q1,2011-04-30,분기말 총자본(자기자본),7433600000,USD,공시,https://www.sec.gov/Archives/edgar/data/315189/000110465911031895/,,4
+Deere,DE,2011Q1,2011-04-30,분기말 지배지분 자본,7423300000,USD,공시,https://www.sec.gov/Archives/edgar/data/315189/000110465911031895/,,4
+Deere,DE,2011Q1,2011-04-29,분기말 종가,97.5,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/DE?interval=1d&events=splits (2011-04-29),,4
+Deere,DE,2011Q1,2011-04-30,분기말 상장주식수,419709211,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/315189/000110465911031895/,dei:EntityCommonStockSharesOutstanding 클래스 합,4
+Deere,DE,2011Q1,2011-04-29,분기말 시가총액,40921648072,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/DE?interval=1d&events=splits (2011-04-29) ; https://www.sec.gov/Archives/edgar/data/315189/000110465911031895/,종가 97.5 × 주식수 419709211,4
+Deere,DE,2011Q2,2011-07-31,분기별 매출액,8371900000,USD,공시,https://www.sec.gov/Archives/edgar/data/315189/000110465911049960/,,4
+Deere,DE,2011Q2,2011-07-31,분기별 영업이익,1163000000,USD,공시,https://www.sec.gov/Archives/edgar/data/315189/000110465911049960/,,4
+Deere,DE,2011Q2,2011-07-31,분기별 당기순이익(지배),712300000,USD,공시,https://www.sec.gov/Archives/edgar/data/315189/000110465911049960/,,4
+Deere,DE,2011Q2,2011-07-31,분기별 영업활동현금흐름,1301400000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/315189/000110465911049960/ ; https://www.sec.gov/Archives/edgar/data/315189/000110465911031895/,누적 636100000 − 직전누적 -665300000 (시작 2010-11-01),4
+Deere,DE,2011Q2,2011-07-31,분기말 자산총계,47135100000,USD,공시,https://www.sec.gov/Archives/edgar/data/315189/000110465911049960/,,4
+Deere,DE,2011Q2,2011-07-31,분기말 부채총계,39595100000,USD,공시,https://www.sec.gov/Archives/edgar/data/315189/000110465911049960/,,4
+Deere,DE,2011Q2,2011-07-31,분기말 총자본(자기자본),7540000000,USD,공시,https://www.sec.gov/Archives/edgar/data/315189/000110465911049960/,,4
+Deere,DE,2011Q2,2011-07-31,분기말 지배지분 자본,7527600000,USD,공시,https://www.sec.gov/Archives/edgar/data/315189/000110465911049960/,,4
+Deere,DE,2011Q2,2011-07-29,분기말 종가,78.51,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/DE?interval=1d&events=splits (2011-07-29),,4
+Deere,DE,2011Q2,2011-07-31,분기말 상장주식수,413924013,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/315189/000110465911049960/,dei:EntityCommonStockSharesOutstanding 클래스 합,4
+Deere,DE,2011Q2,2011-07-29,분기말 시가총액,32497174261,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/DE?interval=1d&events=splits (2011-07-29) ; https://www.sec.gov/Archives/edgar/data/315189/000110465911049960/,종가 78.51 × 주식수 413924013,4
+Deere,DE,2011Q3,2011-10-31,분기별 매출액,8611700000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/315189/000110465911070023/ ; https://www.sec.gov/Archives/edgar/data/315189/000110465911049960/,연간 32012500000 − 9개월누적 23400800000 (Revenues),4
+Deere,DE,2011Q3,2011-10-31,분기별 영업이익,1152000000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/315189/000110465911070023/ ; https://www.sec.gov/Archives/edgar/data/315189/000110465911049960/,연간 4564000000 − 9개월누적 3412000000 (OperatingIncomeLoss),4
+Deere,DE,2011Q3,2011-10-31,분기별 당기순이익(지배),669600000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/315189/000110465911070023/ ; https://www.sec.gov/Archives/edgar/data/315189/000110465911049960/,연간 2799900000 − 9개월누적 2130300000 (NetIncomeLoss),4
+Deere,DE,2011Q3,2011-10-31,분기별 영업활동현금흐름,1690200000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/315189/000110465911070023/ ; https://www.sec.gov/Archives/edgar/data/315189/000110465911049960/,누적 2326300000 − 직전누적 636100000 (시작 2010-11-01),4
+Deere,DE,2011Q3,2011-10-31,분기말 자산총계,48207400000,USD,공시,https://www.sec.gov/Archives/edgar/data/315189/000110465911070023/,,4
+Deere,DE,2011Q3,2011-10-31,분기말 부채총계,41392500000,USD,공시,https://www.sec.gov/Archives/edgar/data/315189/000110465911070023/,,4
+Deere,DE,2011Q3,2011-10-31,분기말 총자본(자기자본),6814900000,USD,공시,https://www.sec.gov/Archives/edgar/data/315189/000110465911070023/,,4
+Deere,DE,2011Q3,2011-10-31,분기말 지배지분 자본,6800300000,USD,공시,https://www.sec.gov/Archives/edgar/data/315189/000110465911070023/,,4
+Deere,DE,2011Q3,2011-10-31,분기말 종가,75.9,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/DE?interval=1d&events=splits (2011-10-31),,4
+Deere,DE,2011Q3,2011-11-30,분기말 상장주식수,404125788,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/315189/000110465911070023/,dei:EntityCommonStockSharesOutstanding 클래스 합,4
+Deere,DE,2011Q3,2011-10-31,분기말 시가총액,30673147309,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/DE?interval=1d&events=splits (2011-10-31) ; https://www.sec.gov/Archives/edgar/data/315189/000110465911070023/,종가 75.9 × 주식수 404125788,4
+Deere,DE,2011Q4,2012-01-31,분기별 매출액,6766500000,USD,공시,https://www.sec.gov/Archives/edgar/data/315189/000110465912014959/,,4
+Deere,DE,2011Q4,2012-01-31,분기별 영업이익,873000000,USD,공시,https://www.sec.gov/Archives/edgar/data/315189/000110465912014959/,,4
+Deere,DE,2011Q4,2012-01-31,분기별 당기순이익(지배),532900000,USD,공시,https://www.sec.gov/Archives/edgar/data/315189/000110465912014959/,,4
+Deere,DE,2011Q4,2012-01-31,분기별 영업활동현금흐름,-1226800000,USD,공시,https://www.sec.gov/Archives/edgar/data/315189/000110465912014959/,,4
+Deere,DE,2011Q4,2012-01-31,분기말 자산총계,48576900000,USD,공시,https://www.sec.gov/Archives/edgar/data/315189/000110465912014959/,,4
+Deere,DE,2011Q4,2012-01-31,분기말 부채총계,41797700000,USD,공시,https://www.sec.gov/Archives/edgar/data/315189/000110465912014959/,,4
+Deere,DE,2011Q4,2012-01-31,분기말 총자본(자기자본),6779200000,USD,공시,https://www.sec.gov/Archives/edgar/data/315189/000110465912014959/,,4
+Deere,DE,2011Q4,2012-01-31,분기말 지배지분 자본,6763400000,USD,공시,https://www.sec.gov/Archives/edgar/data/315189/000110465912014959/,,4
+Deere,DE,2011Q4,2012-01-31,분기말 종가,86.15,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/DE?interval=1d&events=splits (2012-01-31),,4
+Deere,DE,2011Q4,2012-01-31,분기말 상장주식수,401826150,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/315189/000110465912014959/,dei:EntityCommonStockSharesOutstanding 클래스 합,4
+Deere,DE,2011Q4,2012-01-31,분기말 시가총액,34617322822,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/DE?interval=1d&events=splits (2012-01-31) ; https://www.sec.gov/Archives/edgar/data/315189/000110465912014959/,종가 86.15 × 주식수 401826150,4
+Deere,DE,2012Q1,2012-04-30,분기별 매출액,10008600000,USD,공시,https://www.sec.gov/Archives/edgar/data/315189/000110465912040962/,,4
+Deere,DE,2012Q1,2012-04-30,분기별 영업이익,1697000000,USD,공시,https://www.sec.gov/Archives/edgar/data/315189/000110465912040962/,,4
+Deere,DE,2012Q1,2012-04-30,분기별 당기순이익(지배),1056200000,USD,공시,https://www.sec.gov/Archives/edgar/data/315189/000110465912040962/,,4
+Deere,DE,2012Q1,2012-04-30,분기별 영업활동현금흐름,-300500000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/315189/000110465912040962/ ; https://www.sec.gov/Archives/edgar/data/315189/000110465912014959/,누적 -1527300000 − 직전누적 -1226800000 (시작 2011-11-01),4
+Deere,DE,2012Q1,2012-04-30,분기말 자산총계,51405300000,USD,공시,https://www.sec.gov/Archives/edgar/data/315189/000110465912040962/,,4
+Deere,DE,2012Q1,2012-04-30,분기말 부채총계,44009300000,USD,공시,https://www.sec.gov/Archives/edgar/data/315189/000110465912040962/,,4
+Deere,DE,2012Q1,2012-04-30,분기말 총자본(자기자본),7396000000,USD,공시,https://www.sec.gov/Archives/edgar/data/315189/000110465912040962/,,4
+Deere,DE,2012Q1,2012-04-30,분기말 지배지분 자본,7378900000,USD,공시,https://www.sec.gov/Archives/edgar/data/315189/000110465912040962/,,4
+Deere,DE,2012Q1,2012-04-30,분기말 종가,82.36,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/DE?interval=1d&events=splits (2012-04-30),,4
+Deere,DE,2012Q1,2012-04-30,분기말 상장주식수,397735846,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/315189/000110465912040962/,dei:EntityCommonStockSharesOutstanding 클래스 합,4
+Deere,DE,2012Q1,2012-04-30,분기말 시가총액,32757524277,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/DE?interval=1d&events=splits (2012-04-30) ; https://www.sec.gov/Archives/edgar/data/315189/000110465912040962/,종가 82.36 × 주식수 397735846,4
+Deere,DE,2012Q2,2012-07-31,분기별 매출액,9590400000,USD,공시,https://www.sec.gov/Archives/edgar/data/315189/000110465912060912/,,4
+Deere,DE,2012Q2,2012-07-31,분기별 영업이익,1297000000,USD,공시,https://www.sec.gov/Archives/edgar/data/315189/000110465912060912/,,4
+Deere,DE,2012Q2,2012-07-31,분기별 당기순이익(지배),788000000,USD,공시,https://www.sec.gov/Archives/edgar/data/315189/000110465912060912/,,4
+Deere,DE,2012Q2,2012-07-31,분기별 영업활동현금흐름,391900000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/315189/000110465912060912/ ; https://www.sec.gov/Archives/edgar/data/315189/000110465912040962/,누적 -1135400000 − 직전누적 -1527300000 (시작 2011-11-01),4
+Deere,DE,2012Q2,2012-07-31,분기말 자산총계,53198600000,USD,공시,https://www.sec.gov/Archives/edgar/data/315189/000110465912060912/,,4
+Deere,DE,2012Q2,2012-07-31,분기말 부채총계,45784000000,USD,공시,https://www.sec.gov/Archives/edgar/data/315189/000110465912060912/,,4
+Deere,DE,2012Q2,2012-07-31,분기말 총자본(자기자본),7414600000,USD,공시,https://www.sec.gov/Archives/edgar/data/315189/000110465912060912/,,4
+Deere,DE,2012Q2,2012-07-31,분기말 지배지분 자본,7395800000,USD,공시,https://www.sec.gov/Archives/edgar/data/315189/000110465912060912/,,4
+Deere,DE,2012Q2,2012-07-31,분기말 종가,76.82,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/DE?interval=1d&events=splits (2012-07-31),,4
+Deere,DE,2012Q2,2012-07-31,분기말 상장주식수,391667085,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/315189/000110465912060912/,dei:EntityCommonStockSharesOutstanding 클래스 합,4
+Deere,DE,2012Q2,2012-07-31,분기말 시가총액,30087865470,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/DE?interval=1d&events=splits (2012-07-31) ; https://www.sec.gov/Archives/edgar/data/315189/000110465912060912/,종가 76.82 × 주식수 391667085,4
+Deere,DE,2012Q3,2012-10-31,분기별 매출액,9791600000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/315189/000110465912084558/ ; https://www.sec.gov/Archives/edgar/data/315189/000110465912060912/,연간 36157100000 − 9개월누적 26365500000 (Revenues),4
+Deere,DE,2012Q3,2012-10-31,분기별 영업이익,1242000000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/315189/000110465912084558/ ; https://www.sec.gov/Archives/edgar/data/315189/000110465912060912/,연간 5109000000 − 9개월누적 3867000000 (OperatingIncomeLoss),4
+Deere,DE,2012Q3,2012-10-31,분기별 당기순이익(지배),687600000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/315189/000110465912084558/ ; https://www.sec.gov/Archives/edgar/data/315189/000110465912060912/,연간 3064700000 − 9개월누적 2377100000 (NetIncomeLoss),4
+Deere,DE,2012Q3,2012-10-31,분기별 영업활동현금흐름,2303100000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/315189/000110465912084558/ ; https://www.sec.gov/Archives/edgar/data/315189/000110465912060912/,누적 1167700000 − 직전누적 -1135400000 (시작 2011-11-01),4
+Deere,DE,2012Q3,2012-10-31,분기말 자산총계,56265800000,USD,공시,https://www.sec.gov/Archives/edgar/data/315189/000110465912084558/,,4
+Deere,DE,2012Q3,2012-10-31,분기말 부채총계,49403800000,USD,공시,https://www.sec.gov/Archives/edgar/data/315189/000110465912084558/,,4
+Deere,DE,2012Q3,2012-10-31,분기말 총자본(자기자본),6862000000,USD,공시,https://www.sec.gov/Archives/edgar/data/315189/000110465912084558/,,4
+Deere,DE,2012Q3,2012-10-31,분기말 지배지분 자본,6842100000,USD,공시,https://www.sec.gov/Archives/edgar/data/315189/000110465912084558/,,4
+Deere,DE,2012Q3,2012-10-31,분기말 종가,85.44,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/DE?interval=1d&events=splits (2012-10-31),,4
+Deere,DE,2012Q3,2012-11-30,분기말 상장주식수,387870270,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/315189/000110465912084558/,dei:EntityCommonStockSharesOutstanding 클래스 합,4
+Deere,DE,2012Q3,2012-10-31,분기말 시가총액,33139635869,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/DE?interval=1d&events=splits (2012-10-31) ; https://www.sec.gov/Archives/edgar/data/315189/000110465912084558/,종가 85.44 × 주식수 387870270,4
+Deere,DE,2012Q4,2013-01-31,분기별 매출액,7421400000,USD,공시,https://www.sec.gov/Archives/edgar/data/315189/000110465913015827/,,4
+Deere,DE,2012Q4,2013-01-31,분기별 영업이익,1034000000,USD,공시,https://www.sec.gov/Archives/edgar/data/315189/000110465913015827/,,4
+Deere,DE,2012Q4,2013-01-31,분기별 당기순이익(지배),649700000,USD,공시,https://www.sec.gov/Archives/edgar/data/315189/000110465913015827/,,4
+Deere,DE,2012Q4,2013-01-31,분기별 영업활동현금흐름,-1249400000,USD,공시,https://www.sec.gov/Archives/edgar/data/315189/000110465913015827/,,4
+Deere,DE,2012Q4,2013-01-31,분기말 자산총계,55169600000,USD,공시,https://www.sec.gov/Archives/edgar/data/315189/000110465913015827/,,4
+Deere,DE,2012Q4,2013-01-31,분기말 부채총계,47684100000,USD,공시,https://www.sec.gov/Archives/edgar/data/315189/000110465913015827/,,4
+Deere,DE,2012Q4,2013-01-31,분기말 총자본(자기자본),7485500000,USD,공시,https://www.sec.gov/Archives/edgar/data/315189/000110465913015827/,,4
+Deere,DE,2012Q4,2013-01-31,분기말 지배지분 자본,7483700000,USD,공시,https://www.sec.gov/Archives/edgar/data/315189/000110465913015827/,,4
+Deere,DE,2012Q4,2013-01-31,분기말 종가,94.06,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/DE?interval=1d&events=splits (2013-01-31),,4
+Deere,DE,2012Q4,2013-01-31,분기말 상장주식수,389556186,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/315189/000110465913015827/,dei:EntityCommonStockSharesOutstanding 클래스 합,4
+Deere,DE,2012Q4,2013-01-31,분기말 시가총액,36641654855,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/DE?interval=1d&events=splits (2013-01-31) ; https://www.sec.gov/Archives/edgar/data/315189/000110465913015827/,종가 94.06 × 주식수 389556186,4
+Deere,DE,2013Q1,2013-04-30,분기별 매출액,10913500000,USD,공시,https://www.sec.gov/Archives/edgar/data/315189/000110465913045612/,,4
+Deere,DE,2013Q1,2013-04-30,분기별 영업이익,1861000000,USD,공시,https://www.sec.gov/Archives/edgar/data/315189/000110465913045612/,,4
+Deere,DE,2013Q1,2013-04-30,분기별 당기순이익(지배),1084200000,USD,공시,https://www.sec.gov/Archives/edgar/data/315189/000110465913045612/,,4
+Deere,DE,2013Q1,2013-04-30,분기별 영업활동현금흐름,93000000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/315189/000110465913045612/ ; https://www.sec.gov/Archives/edgar/data/315189/000110465913015827/,누적 -1156400000 − 직전누적 -1249400000 (시작 2012-11-01),4
+Deere,DE,2013Q1,2013-04-30,분기말 자산총계,58155100000,USD,공시,https://www.sec.gov/Archives/edgar/data/315189/000110465913045612/,,4
+Deere,DE,2013Q1,2013-04-30,분기말 부채총계,49888300000,USD,공시,https://www.sec.gov/Archives/edgar/data/315189/000110465913045612/,,4
+Deere,DE,2013Q1,2013-04-30,분기말 총자본(자기자본),8266800000,USD,공시,https://www.sec.gov/Archives/edgar/data/315189/000110465913045612/,,4
+Deere,DE,2013Q1,2013-04-30,분기말 지배지분 자본,8264900000,USD,공시,https://www.sec.gov/Archives/edgar/data/315189/000110465913045612/,,4
+Deere,DE,2013Q1,2013-04-30,분기말 종가,89.3,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/DE?interval=1d&events=splits (2013-04-30),,4
+Deere,DE,2013Q1,2013-04-30,분기말 상장주식수,388044422,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/315189/000110465913045612/,dei:EntityCommonStockSharesOutstanding 클래스 합,4
+Deere,DE,2013Q1,2013-04-30,분기말 시가총액,34652366885,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/DE?interval=1d&events=splits (2013-04-30) ; https://www.sec.gov/Archives/edgar/data/315189/000110465913045612/,종가 89.3 × 주식수 388044422,4
+Deere,DE,2013Q2,2013-07-31,분기별 매출액,10009900000,USD,공시,https://www.sec.gov/Archives/edgar/data/315189/000110465913066988/,,4
+Deere,DE,2013Q2,2013-07-31,분기별 영업이익,1677000000,USD,공시,https://www.sec.gov/Archives/edgar/data/315189/000110465913066988/,,4
+Deere,DE,2013Q2,2013-07-31,분기별 당기순이익(지배),996500000,USD,공시,https://www.sec.gov/Archives/edgar/data/315189/000110465913066988/,,4
+Deere,DE,2013Q2,2013-07-31,분기별 영업활동현금흐름,1744200000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/315189/000110465913066988/ ; https://www.sec.gov/Archives/edgar/data/315189/000110465913045612/,누적 587800000 − 직전누적 -1156400000 (시작 2012-11-01),4
+Deere,DE,2013Q2,2013-07-31,분기말 자산총계,58336900000,USD,공시,https://www.sec.gov/Archives/edgar/data/315189/000110465913066988/,,4
+Deere,DE,2013Q2,2013-07-31,분기말 부채총계,49745300000,USD,공시,https://www.sec.gov/Archives/edgar/data/315189/000110465913066988/,,4
+Deere,DE,2013Q2,2013-07-31,분기말 총자본(자기자본),8591600000,USD,공시,https://www.sec.gov/Archives/edgar/data/315189/000110465913066988/,,4
+Deere,DE,2013Q2,2013-07-31,분기말 지배지분 자본,8589800000,USD,공시,https://www.sec.gov/Archives/edgar/data/315189/000110465913066988/,,4
+Deere,DE,2013Q2,2013-07-31,분기말 종가,83.07,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/DE?interval=1d&events=splits (2013-07-31),,4
+Deere,DE,2013Q2,2013-07-31,분기말 상장주식수,382845951,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/315189/000110465913066988/,dei:EntityCommonStockSharesOutstanding 클래스 합,4
+Deere,DE,2013Q2,2013-07-31,분기말 시가총액,31803013150,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/DE?interval=1d&events=splits (2013-07-31) ; https://www.sec.gov/Archives/edgar/data/315189/000110465913066988/,종가 83.07 × 주식수 382845951,4
+Deere,DE,2013Q3,2013-10-31,분기별 매출액,9450500000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/315189/000110465913090354/ ; https://www.sec.gov/Archives/edgar/data/315189/000110465913066988/,연간 37795400000 − 9개월누적 28344900000 (Revenues),4
+Deere,DE,2013Q3,2013-10-31,분기별 영업이익,1356000000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/315189/000110465913090354/ ; https://www.sec.gov/Archives/edgar/data/315189/000110465913066988/,연간 5928000000 − 9개월누적 4572000000 (OperatingIncomeLoss),4
+Deere,DE,2013Q3,2013-10-31,분기별 당기순이익(지배),806800000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/315189/000110465913090354/ ; https://www.sec.gov/Archives/edgar/data/315189/000110465913066988/,연간 3537300000 − 9개월누적 2730500000 (NetIncomeLoss),4
+Deere,DE,2013Q3,2013-10-31,분기별 영업활동현금흐름,2666500000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/315189/000110465913090354/ ; https://www.sec.gov/Archives/edgar/data/315189/000110465913066988/,누적 3254300000 − 직전누적 587800000 (시작 2012-11-01),4
+Deere,DE,2013Q3,2013-10-31,분기말 자산총계,59521300000,USD,공시,https://www.sec.gov/Archives/edgar/data/315189/000110465913090354/,,4
+Deere,DE,2013Q3,2013-10-31,분기말 부채총계,49253600000,USD,공시,https://www.sec.gov/Archives/edgar/data/315189/000110465913090354/,,4
+Deere,DE,2013Q3,2013-10-31,분기말 총자본(자기자본),10267700000,USD,공시,https://www.sec.gov/Archives/edgar/data/315189/000110465913090354/,,4
+Deere,DE,2013Q3,2013-10-31,분기말 지배지분 자본,10265800000,USD,공시,https://www.sec.gov/Archives/edgar/data/315189/000110465913090354/,,4
+Deere,DE,2013Q3,2013-10-31,분기말 종가,81.84,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/DE?interval=1d&events=splits (2013-10-31),,4
+Deere,DE,2013Q3,2013-11-30,분기말 상장주식수,372484322,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/315189/000110465913090354/,dei:EntityCommonStockSharesOutstanding 클래스 합,4
+Deere,DE,2013Q3,2013-10-31,분기말 시가총액,30484116912,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/DE?interval=1d&events=splits (2013-10-31) ; https://www.sec.gov/Archives/edgar/data/315189/000110465913090354/,종가 81.84 × 주식수 372484322,4
+Deere,DE,2013Q4,2014-01-31,분기별 매출액,7654000000,USD,공시,https://www.sec.gov/Archives/edgar/data/315189/000110465914014013/,,4
+Deere,DE,2013Q4,2014-01-31,분기별 영업이익,1073000000,USD,공시,https://www.sec.gov/Archives/edgar/data/315189/000110465914014013/,,4
+Deere,DE,2013Q4,2014-01-31,분기별 당기순이익(지배),681100000,USD,공시,https://www.sec.gov/Archives/edgar/data/315189/000110465914014013/,,4
+Deere,DE,2013Q4,2014-01-31,분기별 영업활동현금흐름,-746200000,USD,공시,https://www.sec.gov/Archives/edgar/data/315189/000110465914014013/,,4
+Deere,DE,2013Q4,2014-01-31,분기말 자산총계,57659200000,USD,공시,https://www.sec.gov/Archives/edgar/data/315189/000110465914014013/,,4
+Deere,DE,2013Q4,2014-01-31,분기말 부채총계,47401400000,USD,공시,https://www.sec.gov/Archives/edgar/data/315189/000110465914014013/,,4
+Deere,DE,2013Q4,2014-01-31,분기말 총자본(자기자본),10257800000,USD,공시,https://www.sec.gov/Archives/edgar/data/315189/000110465914014013/,,4
+Deere,DE,2013Q4,2014-01-31,분기말 지배지분 자본,10255700000,USD,공시,https://www.sec.gov/Archives/edgar/data/315189/000110465914014013/,,4
+Deere,DE,2013Q4,2014-01-31,분기말 종가,85.96,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/DE?interval=1d&events=splits (2014-01-31),,4
+Deere,DE,2013Q4,2014-01-31,분기말 상장주식수,369701689,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/315189/000110465914014013/,dei:EntityCommonStockSharesOutstanding 클래스 합,4
+Deere,DE,2013Q4,2014-01-31,분기말 시가총액,31779557186,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/DE?interval=1d&events=splits (2014-01-31) ; https://www.sec.gov/Archives/edgar/data/315189/000110465914014013/,종가 85.96 × 주식수 369701689,4
+Deere,DE,2014Q1,2014-04-30,분기별 매출액,9947900000,USD,공시,https://www.sec.gov/Archives/edgar/data/315189/000110465914042322/,,4
+Deere,DE,2014Q1,2014-04-30,분기별 영업이익,1590000000,USD,공시,https://www.sec.gov/Archives/edgar/data/315189/000110465914042322/,,4
+Deere,DE,2014Q1,2014-04-30,분기별 당기순이익(지배),980700000,USD,공시,https://www.sec.gov/Archives/edgar/data/315189/000110465914042322/,,4
+Deere,DE,2014Q1,2014-04-30,분기별 영업활동현금흐름,-85700000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/315189/000110465914042322/ ; https://www.sec.gov/Archives/edgar/data/315189/000110465914014013/,누적 -831900000 − 직전누적 -746200000 (시작 2013-11-01),4
+Deere,DE,2014Q1,2014-04-30,분기말 자산총계,60862400000,USD,공시,https://www.sec.gov/Archives/edgar/data/315189/000110465914042322/,,4
+Deere,DE,2014Q1,2014-04-30,분기말 부채총계,50194800000,USD,공시,https://www.sec.gov/Archives/edgar/data/315189/000110465914042322/,,4
+Deere,DE,2014Q1,2014-04-30,분기말 총자본(자기자본),10667600000,USD,공시,https://www.sec.gov/Archives/edgar/data/315189/000110465914042322/,,4
+Deere,DE,2014Q1,2014-04-30,분기말 지배지분 자본,10665300000,USD,공시,https://www.sec.gov/Archives/edgar/data/315189/000110465914042322/,,4
+Deere,DE,2014Q1,2014-04-30,분기말 종가,93.34,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/DE?interval=1d&events=splits (2014-04-30),,4
+Deere,DE,2014Q1,2014-04-30,분기말 상장주식수,363792961,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/315189/000110465914042322/,dei:EntityCommonStockSharesOutstanding 클래스 합,4
+Deere,DE,2014Q1,2014-04-30,분기말 시가총액,33956434980,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/DE?interval=1d&events=splits (2014-04-30) ; https://www.sec.gov/Archives/edgar/data/315189/000110465914042322/,종가 93.34 × 주식수 363792961,4
+Deere,DE,2014Q2,2014-07-31,분기별 매출액,9500200000,USD,공시,https://www.sec.gov/Archives/edgar/data/315189/000110465914063631/,,4
+Deere,DE,2014Q2,2014-07-31,분기별 영업이익,1384000000,USD,공시,https://www.sec.gov/Archives/edgar/data/315189/000110465914063631/,,4
+Deere,DE,2014Q2,2014-07-31,분기별 당기순이익(지배),850700000,USD,공시,https://www.sec.gov/Archives/edgar/data/315189/000110465914063631/,,4
+Deere,DE,2014Q2,2014-07-31,분기별 영업활동현금흐름,1514000000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/315189/000110465914063631/ ; https://www.sec.gov/Archives/edgar/data/315189/000110465914042322/,누적 682100000 − 직전누적 -831900000 (시작 2013-11-01),4
+Deere,DE,2014Q2,2014-07-31,분기말 자산총계,61748500000,USD,공시,https://www.sec.gov/Archives/edgar/data/315189/000110465914063631/,,4
+Deere,DE,2014Q2,2014-07-31,분기말 부채총계,50916000000,USD,공시,https://www.sec.gov/Archives/edgar/data/315189/000110465914063631/,,4
+Deere,DE,2014Q2,2014-07-31,분기말 총자본(자기자본),10832500000,USD,공시,https://www.sec.gov/Archives/edgar/data/315189/000110465914063631/,,4
+Deere,DE,2014Q2,2014-07-31,분기말 지배지분 자본,10830000000,USD,공시,https://www.sec.gov/Archives/edgar/data/315189/000110465914063631/,,4
+Deere,DE,2014Q2,2014-07-31,분기말 종가,85.11,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/DE?interval=1d&events=splits (2014-07-31),,4
+Deere,DE,2014Q2,2014-07-31,분기말 상장주식수,358420496,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/315189/000110465914063631/,dei:EntityCommonStockSharesOutstanding 클래스 합,4
+Deere,DE,2014Q2,2014-07-31,분기말 시가총액,30505168415,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/DE?interval=1d&events=splits (2014-07-31) ; https://www.sec.gov/Archives/edgar/data/315189/000110465914063631/,종가 85.11 × 주식수 358420496,4
+Deere,DE,2014Q3,2014-10-31,분기별 매출액,8964800000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/315189/000110465914087794/ ; https://www.sec.gov/Archives/edgar/data/315189/000110465914063631/,연간 36066900000 − 9개월누적 27102100000 (Revenues),4
+Deere,DE,2014Q3,2014-10-31,분기별 영업이익,1171000000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/315189/000110465914087794/ ; https://www.sec.gov/Archives/edgar/data/315189/000110465914063631/,연간 5218000000 − 9개월누적 4047000000 (OperatingIncomeLoss),4
+Deere,DE,2014Q3,2014-10-31,분기별 당기순이익(지배),649200000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/315189/000110465914087794/ ; https://www.sec.gov/Archives/edgar/data/315189/000110465914063631/,연간 3161700000 − 9개월누적 2512500000 (NetIncomeLoss),4
+Deere,DE,2014Q3,2014-10-31,분기별 영업활동현금흐름,2843800000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/315189/000110465914087794/ ; https://www.sec.gov/Archives/edgar/data/315189/000110465914063631/,누적 3525900000 − 직전누적 682100000 (시작 2013-11-01),4
+Deere,DE,2014Q3,2014-10-31,분기말 자산총계,61336400000,USD,공시,https://www.sec.gov/Archives/edgar/data/315189/000110465914087794/,,4
+Deere,DE,2014Q3,2014-10-31,분기말 부채총계,52270900000,USD,공시,https://www.sec.gov/Archives/edgar/data/315189/000110465914087794/,,4
+Deere,DE,2014Q3,2014-10-31,분기말 총자본(자기자본),9065500000,USD,공시,https://www.sec.gov/Archives/edgar/data/315189/000110465914087794/,,4
+Deere,DE,2014Q3,2014-10-31,분기말 지배지분 자본,9062600000,USD,공시,https://www.sec.gov/Archives/edgar/data/315189/000110465914087794/,,4
+Deere,DE,2014Q3,2014-10-31,분기말 종가,85.54,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/DE?interval=1d&events=splits (2014-10-31),,4
+Deere,DE,2014Q3,2014-11-30,분기말 상장주식수,344295604,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/315189/000110465914087794/,dei:EntityCommonStockSharesOutstanding 클래스 합,4
+Deere,DE,2014Q3,2014-10-31,분기말 시가총액,29451045966,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/DE?interval=1d&events=splits (2014-10-31) ; https://www.sec.gov/Archives/edgar/data/315189/000110465914087794/,종가 85.54 × 주식수 344295604,4
+Deere,DE,2014Q4,2015-01-31,분기별 매출액,6383100000,USD,공시,https://www.sec.gov/Archives/edgar/data/315189/000110465915014162/,,4
+Deere,DE,2014Q4,2015-01-31,분기별 영업이익,647000000,USD,공시,https://www.sec.gov/Archives/edgar/data/315189/000110465915014162/,,4
+Deere,DE,2014Q4,2015-01-31,분기별 당기순이익(지배),386800000,USD,공시,https://www.sec.gov/Archives/edgar/data/315189/000110465915014162/,,4
+Deere,DE,2014Q4,2015-01-31,분기별 영업활동현금흐름,-510100000,USD,공시,https://www.sec.gov/Archives/edgar/data/315189/000110465915014162/,,4
+Deere,DE,2014Q4,2015-01-31,분기말 자산총계,58290100000,USD,공시,https://www.sec.gov/Archives/edgar/data/315189/000110465915014162/,,4
+Deere,DE,2014Q4,2015-01-31,분기말 부채총계,50041300000,USD,공시,https://www.sec.gov/Archives/edgar/data/315189/000110465915014162/,,4
+Deere,DE,2014Q4,2015-01-31,분기말 총자본(자기자본),8248800000,USD,공시,https://www.sec.gov/Archives/edgar/data/315189/000110465915014162/,,4
+Deere,DE,2014Q4,2015-01-31,분기말 지배지분 자본,8246000000,USD,공시,https://www.sec.gov/Archives/edgar/data/315189/000110465915014162/,,4
+Deere,DE,2014Q4,2015-01-30,분기말 종가,85.19,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/DE?interval=1d&events=splits (2015-01-30),,4
+Deere,DE,2014Q4,2015-01-31,분기말 상장주식수,339496187,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/315189/000110465915014162/,dei:EntityCommonStockSharesOutstanding 클래스 합,4
+Deere,DE,2014Q4,2015-01-30,분기말 시가총액,28921680171,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/DE?interval=1d&events=splits (2015-01-30) ; https://www.sec.gov/Archives/edgar/data/315189/000110465915014162/,종가 85.19 × 주식수 339496187,4
+Deere,DE,2015Q1,2015-04-30,분기별 매출액,8170700000,USD,공시,https://www.sec.gov/Archives/edgar/data/315189/000110465915041408/,,4
+Deere,DE,2015Q1,2015-04-30,분기별 영업이익,1093000000,USD,공시,https://www.sec.gov/Archives/edgar/data/315189/000110465915041408/,,4
+Deere,DE,2015Q1,2015-04-30,분기별 당기순이익(지배),690500000,USD,공시,https://www.sec.gov/Archives/edgar/data/315189/000110465915041408/,,4
+Deere,DE,2015Q1,2015-04-30,분기별 영업활동현금흐름,355400000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/315189/000110465915041408/ ; https://www.sec.gov/Archives/edgar/data/315189/000110465915014162/,누적 -154700000 − 직전누적 -510100000 (시작 2014-11-01),4
+Deere,DE,2015Q1,2015-04-30,분기말 자산총계,59594000000,USD,공시,https://www.sec.gov/Archives/edgar/data/315189/000110465915041408/,,4
+Deere,DE,2015Q1,2015-04-30,분기말 부채총계,51418000000,USD,공시,https://www.sec.gov/Archives/edgar/data/315189/000110465915041408/,,4
+Deere,DE,2015Q1,2015-04-30,분기말 총자본(자기자본),8176000000,USD,공시,https://www.sec.gov/Archives/edgar/data/315189/000110465915041408/,,4
+Deere,DE,2015Q1,2015-04-30,분기말 지배지분 자본,8173800000,USD,공시,https://www.sec.gov/Archives/edgar/data/315189/000110465915041408/,,4
+Deere,DE,2015Q1,2015-04-30,분기말 종가,90.52,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/DE?interval=1d&events=splits (2015-04-30),,4
+Deere,DE,2015Q1,2015-04-30,분기말 상장주식수,333871447,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/315189/000110465915041408/,dei:EntityCommonStockSharesOutstanding 클래스 합,4
+Deere,DE,2015Q1,2015-04-30,분기말 시가총액,30222043382,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/DE?interval=1d&events=splits (2015-04-30) ; https://www.sec.gov/Archives/edgar/data/315189/000110465915041408/,종가 90.52 × 주식수 333871447,4
+Deere,DE,2015Q2,2015-07-31,분기별 매출액,7593700000,USD,공시,https://www.sec.gov/Archives/edgar/data/315189/000155837015001712/,,4
+Deere,DE,2015Q2,2015-07-31,분기별 영업이익,840000000,USD,공시,https://www.sec.gov/Archives/edgar/data/315189/000155837015001712/,,4
+Deere,DE,2015Q2,2015-07-31,분기별 당기순이익(지배),511600000,USD,공시,https://www.sec.gov/Archives/edgar/data/315189/000155837015001712/,,4
+Deere,DE,2015Q2,2015-07-31,분기별 영업활동현금흐름,1346500000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/315189/000155837015001712/ ; https://www.sec.gov/Archives/edgar/data/315189/000110465915041408/,누적 1191800000 − 직전누적 -154700000 (시작 2014-11-01),4
+Deere,DE,2015Q2,2015-07-31,분기말 자산총계,58932200000,USD,공시,https://www.sec.gov/Archives/edgar/data/315189/000155837015001712/,,4
+Deere,DE,2015Q2,2015-07-31,분기말 부채총계,51207200000,USD,공시,https://www.sec.gov/Archives/edgar/data/315189/000155837015001712/,,4
+Deere,DE,2015Q2,2015-07-31,분기말 총자본(자기자본),7725000000,USD,공시,https://www.sec.gov/Archives/edgar/data/315189/000155837015001712/,,4
+Deere,DE,2015Q2,2015-07-31,분기말 지배지분 자본,7723100000,USD,공시,https://www.sec.gov/Archives/edgar/data/315189/000155837015001712/,,4
+Deere,DE,2015Q2,2015-07-31,분기말 종가,94.57,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/DE?interval=1d&events=splits (2015-07-31),,4
+Deere,DE,2015Q2,2015-07-31,분기말 상장주식수,328166270,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/315189/000155837015001712/,dei:EntityCommonStockSharesOutstanding 클래스 합,4
+Deere,DE,2015Q2,2015-07-31,분기말 시가총액,31034684154,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/DE?interval=1d&events=splits (2015-07-31) ; https://www.sec.gov/Archives/edgar/data/315189/000155837015001712/,종가 94.57 × 주식수 328166270,4
+Deere,DE,2015Q3,2015-10-31,분기별 매출액,6715300000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/315189/000104746916009947/ ; https://www.sec.gov/Archives/edgar/data/315189/000155837015001712/,연간 28862800000 − 9개월누적 22147500000 (Revenues),4
+Deere,DE,2015Q3,2015-10-31,분기별 영업이익,561000000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/315189/000104746916009947/ ; https://www.sec.gov/Archives/edgar/data/315189/000155837015001712/,연간 3140000000 − 9개월누적 2579000000 (OperatingIncomeLoss),4
+Deere,DE,2015Q3,2015-10-31,분기별 당기순이익(지배),351200000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/315189/000104746916009947/ ; https://www.sec.gov/Archives/edgar/data/315189/000155837015001712/,연간 1940000000 − 9개월누적 1588800000 (NetIncomeLoss),4
+Deere,DE,2015Q3,2015-10-31,분기별 영업활동현금흐름,2548500000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/315189/000104746916009947/ ; https://www.sec.gov/Archives/edgar/data/315189/000155837015001712/,누적 3740300000 − 직전누적 1191800000 (시작 2014-11-01),4
+Deere,DE,2015Q3,2015-10-31,분기말 자산총계,57947600000,USD,공시,https://www.sec.gov/Archives/edgar/data/315189/000104746916009947/,,4
+Deere,DE,2015Q3,2015-10-31,분기말 부채총계,51190000000,USD,공시,https://www.sec.gov/Archives/edgar/data/315189/000104746916009947/,,4
+Deere,DE,2015Q3,2015-10-31,분기말 총자본(자기자본),6757600000,USD,공시,https://www.sec.gov/Archives/edgar/data/315189/000104746916009947/,,4
+Deere,DE,2015Q3,2015-10-31,분기말 지배지분 자본,6743400000,USD,공시,https://www.sec.gov/Archives/edgar/data/315189/000104746916009947/,,4
+Deere,DE,2015Q3,2015-10-30,분기말 종가,78.0,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/DE?interval=1d&events=splits (2015-10-30),,4
+Deere,DE,2015Q3,2015-11-30,분기말 상장주식수,316700104,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/315189/000104746916009947/,dei:EntityCommonStockSharesOutstanding 클래스 합,4
+Deere,DE,2015Q3,2015-10-30,분기말 시가총액,24702608112,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/DE?interval=1d&events=splits (2015-10-30) ; https://www.sec.gov/Archives/edgar/data/315189/000104746916009947/,종가 78.0 × 주식수 316700104,4
+Deere,DE,2015Q4,2016-01-31,분기별 매출액,5524500000,USD,공시,https://www.sec.gov/Archives/edgar/data/315189/000155837016003529/,,4
+Deere,DE,2015Q4,2016-01-31,분기별 영업이익,408000000,USD,공시,https://www.sec.gov/Archives/edgar/data/315189/000155837016003529/,,4
+Deere,DE,2015Q4,2016-01-31,분기별 당기순이익(지배),254400000,USD,공시,https://www.sec.gov/Archives/edgar/data/315189/000155837016003529/,,4
+Deere,DE,2015Q4,2016-01-31,분기별 영업활동현금흐름,-777600000,USD,공시,https://www.sec.gov/Archives/edgar/data/315189/000155837016003529/,,4
+Deere,DE,2015Q4,2016-01-31,분기말 자산총계,55972000000,USD,공시(재작성 반영),https://www.sec.gov/Archives/edgar/data/315189/000155837017000952/,원 공시 56036200000 (https://www.sec.gov/Archives/edgar/data/315189/000155837016003529/),4
+Deere,DE,2015Q4,2016-01-31,분기말 부채총계,49368200000,USD,공시(재작성 반영),https://www.sec.gov/Archives/edgar/data/315189/000155837017000952/,원 공시 49432400000 (https://www.sec.gov/Archives/edgar/data/315189/000155837016003529/),4
+Deere,DE,2015Q4,2016-01-31,분기말 총자본(자기자본),6603800000,USD,공시,https://www.sec.gov/Archives/edgar/data/315189/000155837016003529/,,4
+Deere,DE,2015Q4,2016-01-31,분기말 지배지분 자본,6590200000,USD,공시,https://www.sec.gov/Archives/edgar/data/315189/000155837016003529/,,4
+Deere,DE,2015Q4,2016-01-29,분기말 종가,77.01,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/DE?interval=1d&events=splits (2016-01-29),,4
+Deere,DE,2015Q4,2016-01-31,분기말 상장주식수,315325774,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/315189/000155837016003529/,dei:EntityCommonStockSharesOutstanding 클래스 합,4
+Deere,DE,2015Q4,2016-01-29,분기말 시가총액,24283237856,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/DE?interval=1d&events=splits (2016-01-29) ; https://www.sec.gov/Archives/edgar/data/315189/000155837016003529/,종가 77.01 × 주식수 315325774,4
+Deere,DE,2016Q1,2016-04-30,분기별 매출액,7875400000,USD,공시,https://www.sec.gov/Archives/edgar/data/315189/000155837016006167/,,4
+Deere,DE,2016Q1,2016-04-30,분기별 영업이익,848000000,USD,공시,https://www.sec.gov/Archives/edgar/data/315189/000155837016006167/,,4
+Deere,DE,2016Q1,2016-04-30,분기별 당기순이익(지배),495400000,USD,공시,https://www.sec.gov/Archives/edgar/data/315189/000155837016006167/,,4
+Deere,DE,2016Q1,2016-04-30,분기별 영업활동현금흐름,465200000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/315189/000155837016006167/ ; https://www.sec.gov/Archives/edgar/data/315189/000155837016003529/,누적 -312400000 − 직전누적 -777600000 (시작 2015-11-01),4
+Deere,DE,2016Q1,2016-04-30,분기말 자산총계,59183300000,USD,공시,https://www.sec.gov/Archives/edgar/data/315189/000155837016006167/,,4
+Deere,DE,2016Q1,2016-04-30,분기말 부채총계,51992600000,USD,공시,https://www.sec.gov/Archives/edgar/data/315189/000155837016006167/,메자닌(일시자본) 14000000 별도,4
+Deere,DE,2016Q1,2016-04-30,분기말 총자본(자기자본),7176700000,USD,공시,https://www.sec.gov/Archives/edgar/data/315189/000155837016006167/,,4
+Deere,DE,2016Q1,2016-04-30,분기말 지배지분 자본,7164300000,USD,공시,https://www.sec.gov/Archives/edgar/data/315189/000155837016006167/,,4
+Deere,DE,2016Q1,2016-04-29,분기말 종가,84.11,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/DE?interval=1d&events=splits (2016-04-29),,4
+Deere,DE,2016Q1,2016-04-30,분기말 상장주식수,314258886,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/315189/000155837016006167/,dei:EntityCommonStockSharesOutstanding 클래스 합,4
+Deere,DE,2016Q1,2016-04-29,분기말 시가총액,26432314901,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/DE?interval=1d&events=splits (2016-04-29) ; https://www.sec.gov/Archives/edgar/data/315189/000155837016006167/,종가 84.11 × 주식수 314258886,4
+Deere,DE,2016Q2,2016-07-31,분기별 매출액,6724400000,USD,공시,https://www.sec.gov/Archives/edgar/data/315189/000155837016008153/,,4
+Deere,DE,2016Q2,2016-07-31,분기별 영업이익,816000000,USD,공시,https://www.sec.gov/Archives/edgar/data/315189/000155837016008153/,,4
+Deere,DE,2016Q2,2016-07-31,분기별 당기순이익(지배),488800000,USD,공시,https://www.sec.gov/Archives/edgar/data/315189/000155837016008153/,,4
+Deere,DE,2016Q2,2016-07-31,분기별 영업활동현금흐름,1632300000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/315189/000155837016008153/ ; https://www.sec.gov/Archives/edgar/data/315189/000155837016006167/,누적 1319900000 − 직전누적 -312400000 (시작 2015-11-01),4
+Deere,DE,2016Q2,2016-07-31,분기말 자산총계,58539100000,USD,공시(재작성 반영),https://www.sec.gov/Archives/edgar/data/315189/000155837017006878/,원 공시 58606400000 (https://www.sec.gov/Archives/edgar/data/315189/000155837016008153/),4
+Deere,DE,2016Q2,2016-07-31,분기말 부채총계,51085000000,USD,공시(재작성 반영),https://www.sec.gov/Archives/edgar/data/315189/000155837017006878/,메자닌(일시자본) 14400000 별도 ; 원 공시 51152300000 (https://www.sec.gov/Archives/edgar/data/315189/000155837016008153/),4
+Deere,DE,2016Q2,2016-07-31,분기말 총자본(자기자본),7439700000,USD,공시,https://www.sec.gov/Archives/edgar/data/315189/000155837016008153/,,4
+Deere,DE,2016Q2,2016-07-31,분기말 지배지분 자본,7428400000,USD,공시,https://www.sec.gov/Archives/edgar/data/315189/000155837016008153/,,4
+Deere,DE,2016Q2,2016-07-29,분기말 종가,77.71,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/DE?interval=1d&events=splits (2016-07-29),,4
+Deere,DE,2016Q2,2016-07-31,분기말 상장주식수,314422919,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/315189/000155837016008153/,dei:EntityCommonStockSharesOutstanding 클래스 합,4
+Deere,DE,2016Q2,2016-07-29,분기말 시가총액,24433805035,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/DE?interval=1d&events=splits (2016-07-29) ; https://www.sec.gov/Archives/edgar/data/315189/000155837016008153/,종가 77.71 × 주식수 314422919,4
+Deere,DE,2016Q3,2016-10-31,분기별 매출액,6519600000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/315189/000104746916017244/ ; https://www.sec.gov/Archives/edgar/data/315189/000155837016008153/,연간 26644000000 − 9개월누적 20124400000 (Revenues),4
+Deere,DE,2016Q3,2016-10-31,분기별 영업이익,518000000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/315189/000104746916017244/ ; https://www.sec.gov/Archives/edgar/data/315189/000155837016008153/,연간 2589000000 − 9개월누적 2071000000 (OperatingIncomeLoss),4
+Deere,DE,2016Q3,2016-10-31,분기별 당기순이익(지배),285300000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/315189/000104746916017244/ ; https://www.sec.gov/Archives/edgar/data/315189/000155837016008153/,연간 1523900000 − 9개월누적 1238600000 (NetIncomeLoss),4
+Deere,DE,2016Q3,2016-10-31,분기별 영업활동현금흐름,2444400000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/315189/000104746916017244/ ; https://www.sec.gov/Archives/edgar/data/315189/000155837016008153/,누적 3764300000 − 직전누적 1319900000 (시작 2015-11-01),4
+Deere,DE,2016Q3,2016-10-31,분기말 자산총계,57981400000,USD,공시,https://www.sec.gov/Archives/edgar/data/315189/000104746916017244/,,4
+Deere,DE,2016Q3,2016-10-31,분기말 부채총계,51436600000,USD,공시,https://www.sec.gov/Archives/edgar/data/315189/000104746916017244/,메자닌(일시자본) 14000000 별도,4
+Deere,DE,2016Q3,2016-10-31,분기말 총자본(자기자본),6530800000,USD,공시,https://www.sec.gov/Archives/edgar/data/315189/000104746916017244/,,4
+Deere,DE,2016Q3,2016-10-31,분기말 지배지분 자본,6520000000,USD,공시,https://www.sec.gov/Archives/edgar/data/315189/000104746916017244/,,4
+Deere,DE,2016Q3,2016-10-31,분기말 종가,88.3,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/DE?interval=1d&events=splits (2016-10-31),,4
+Deere,DE,2016Q3,2016-11-30,분기말 상장주식수,316872632,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/315189/000104746916017244/,dei:EntityCommonStockSharesOutstanding 클래스 합,4
+Deere,DE,2016Q3,2016-10-31,분기말 시가총액,27979853406,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/DE?interval=1d&events=splits (2016-10-31) ; https://www.sec.gov/Archives/edgar/data/315189/000104746916017244/,종가 88.3 × 주식수 316872632,4
+Deere,DE,2016Q4,2017-01-29,분기별 매출액,5625200000,USD,공시,https://www.sec.gov/Archives/edgar/data/315189/000155837017000952/,,4
+Deere,DE,2016Q4,2017-01-29,분기별 영업이익,422000000,USD,공시(재작성 반영),https://www.sec.gov/Archives/edgar/data/315189/000155837018001362/,원 공시 416000000 (https://www.sec.gov/Archives/edgar/data/315189/000155837017000952/),4
+Deere,DE,2016Q4,2017-01-29,분기별 당기순이익(지배),199000000,USD,공시(재작성 반영),https://www.sec.gov/Archives/edgar/data/315189/000104746918007694/,원 공시 193800000 (https://www.sec.gov/Archives/edgar/data/315189/000155837017000952/),4
+Deere,DE,2016Q4,2017-01-29,분기별 영업활동현금흐름,-742400000,USD,공시,https://www.sec.gov/Archives/edgar/data/315189/000155837017000952/,,4
+Deere,DE,2016Q4,2017-01-29,분기말 자산총계,56296200000,USD,공시(재작성 반영),https://www.sec.gov/Archives/edgar/data/315189/000155837018001362/,원 공시 56296600000 (https://www.sec.gov/Archives/edgar/data/315189/000155837017000952/),4
+Deere,DE,2016Q4,2017-01-29,분기말 부채총계,49446900000,USD,공시,https://www.sec.gov/Archives/edgar/data/315189/000155837017000952/,메자닌(일시자본) 14000000 별도,4
+Deere,DE,2016Q4,2017-01-29,분기말 총자본(자기자본),6835300000,USD,공시(재작성 반영),https://www.sec.gov/Archives/edgar/data/315189/000155837018001362/,원 공시 6835700000 (https://www.sec.gov/Archives/edgar/data/315189/000155837017000952/),4
+Deere,DE,2016Q4,2017-01-29,분기말 지배지분 자본,6825100000,USD,공시(재작성 반영),https://www.sec.gov/Archives/edgar/data/315189/000155837018001362/,원 공시 6825500000 (https://www.sec.gov/Archives/edgar/data/315189/000155837017000952/),4
+Deere,DE,2016Q4,2017-01-27,분기말 종가,107.99,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/DE?interval=1d&events=splits (2017-01-27),,4
+Deere,DE,2016Q4,2017-01-29,분기말 상장주식수,318283154,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/315189/000155837017000952/,dei:EntityCommonStockSharesOutstanding 클래스 합,4
+Deere,DE,2016Q4,2017-01-27,분기말 시가총액,34371397800,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/DE?interval=1d&events=splits (2017-01-27) ; https://www.sec.gov/Archives/edgar/data/315189/000155837017000952/,종가 107.99 × 주식수 318283154,4
+Deere,DE,2017Q1,2017-04-30,분기별 매출액,8287000000,USD,공시,https://www.sec.gov/Archives/edgar/data/315189/000155837017004638/,,4
+Deere,DE,2017Q1,2017-04-30,분기별 영업이익,1278000000,USD,공시(재작성 반영),https://www.sec.gov/Archives/edgar/data/315189/000155837018005045/,원 공시 1271000000 (https://www.sec.gov/Archives/edgar/data/315189/000155837017004638/),4
+Deere,DE,2017Q1,2017-04-30,분기별 당기순이익(지배),808000000,USD,공시(재작성 반영),https://www.sec.gov/Archives/edgar/data/315189/000104746918007694/,원 공시 802400000 (https://www.sec.gov/Archives/edgar/data/315189/000155837017004638/),4
+Deere,DE,2017Q1,2017-04-30,분기별 영업활동현금흐름,567400000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/315189/000155837017004638/ ; https://www.sec.gov/Archives/edgar/data/315189/000155837017000952/,누적 -175000000 − 직전누적 -742400000 (시작 2016-10-31),4
+Deere,DE,2017Q1,2017-04-30,분기말 자산총계,58968800000,USD,공시,https://www.sec.gov/Archives/edgar/data/315189/000155837017004638/,,4
+Deere,DE,2017Q1,2017-04-30,분기말 부채총계,51261000000,USD,공시,https://www.sec.gov/Archives/edgar/data/315189/000155837017004638/,메자닌(일시자본) 14000000 별도,4
+Deere,DE,2017Q1,2017-04-30,분기말 총자본(자기자본),7693800000,USD,공시,https://www.sec.gov/Archives/edgar/data/315189/000155837017004638/,,4
+Deere,DE,2017Q1,2017-04-30,분기말 지배지분 자본,7684700000,USD,공시,https://www.sec.gov/Archives/edgar/data/315189/000155837017004638/,,4
+Deere,DE,2017Q1,2017-04-28,분기말 종가,111.61,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/DE?interval=1d&events=splits (2017-04-28),,4
+Deere,DE,2017Q1,2017-04-30,분기말 상장주식수,319862099,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/315189/000155837017004638/,dei:EntityCommonStockSharesOutstanding 클래스 합,4
+Deere,DE,2017Q1,2017-04-28,분기말 시가총액,35699808869,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/DE?interval=1d&events=splits (2017-04-28) ; https://www.sec.gov/Archives/edgar/data/315189/000155837017004638/,종가 111.61 × 주식수 319862099,4
+Deere,DE,2017Q2,2017-07-30,분기별 매출액,7807800000,USD,공시,https://www.sec.gov/Archives/edgar/data/315189/000155837017006878/,,4
+Deere,DE,2017Q2,2017-07-30,분기별 영업이익,1002000000,USD,공시(재작성 반영),https://www.sec.gov/Archives/edgar/data/315189/000155837018007303/,원 공시 995000000 (https://www.sec.gov/Archives/edgar/data/315189/000155837017006878/),4
+Deere,DE,2017Q2,2017-07-30,분기별 당기순이익(지배),641800000,USD,공시,https://www.sec.gov/Archives/edgar/data/315189/000155837017006878/,,4
+Deere,DE,2017Q2,2017-07-30,분기별 영업활동현금흐름,904300000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/315189/000155837017006878/ ; https://www.sec.gov/Archives/edgar/data/315189/000155837017004638/,누적 729300000 − 직전누적 -175000000 (시작 2016-10-31),4
+Deere,DE,2017Q2,2017-07-30,분기말 자산총계,62349900000,USD,공시,https://www.sec.gov/Archives/edgar/data/315189/000155837017006878/,,4
+Deere,DE,2017Q2,2017-07-30,분기말 부채총계,53761000000,USD,공시,https://www.sec.gov/Archives/edgar/data/315189/000155837017006878/,메자닌(일시자본) 14000000 별도,4
+Deere,DE,2017Q2,2017-07-30,분기말 총자본(자기자본),8574900000,USD,공시,https://www.sec.gov/Archives/edgar/data/315189/000155837017006878/,,4
+Deere,DE,2017Q2,2017-07-30,분기말 지배지분 자본,8572200000,USD,공시,https://www.sec.gov/Archives/edgar/data/315189/000155837017006878/,,4
+Deere,DE,2017Q2,2017-07-28,분기말 종가,128.91,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/DE?interval=1d&events=splits (2017-07-28),,4
+Deere,DE,2017Q2,2017-07-30,분기말 상장주식수,321296852,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/315189/000155837017006878/,dei:EntityCommonStockSharesOutstanding 클래스 합,4
+Deere,DE,2017Q2,2017-07-28,분기말 시가총액,41418377191,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/DE?interval=1d&events=splits (2017-07-28) ; https://www.sec.gov/Archives/edgar/data/315189/000155837017006878/,종가 128.91 × 주식수 321296852,4
+Deere,DE,2017Q3,2017-10-29,분기별 매출액,8017700000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/315189/000104746917007719/ ; https://www.sec.gov/Archives/edgar/data/315189/000155837017006878/,연간 29737700000 − 9개월누적 21720000000 (Revenues),4
+Deere,DE,2017Q3,2017-10-29,분기별 영업이익,872000000,USD,계산(연간-3분기누적)(재작성 반영),https://www.sec.gov/Archives/edgar/data/315189/000155837019011614/ ; https://www.sec.gov/Archives/edgar/data/315189/000155837018007303/,연간 3574000000 − 9개월누적 2702000000 (OperatingIncomeLoss) ; 원 공시 862000000 (https://www.sec.gov/Archives/edgar/data/315189/000104746917007719/ ; https://www.sec.gov/Archives/edgar/data/315189/000155837017006878/),4
+Deere,DE,2017Q3,2017-10-29,분기별 당기순이익(지배),510300000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/315189/000104746917007719/ ; https://www.sec.gov/Archives/edgar/data/315189/000155837017006878/,연간 2159100000 − 9개월누적 1648800000 (NetIncomeLoss),4
+Deere,DE,2017Q3,2017-10-29,분기별 영업활동현금흐름,1466700000,USD,계산(누적차감)(재작성 반영),https://www.sec.gov/Archives/edgar/data/315189/000155837019011614/ ; https://www.sec.gov/Archives/edgar/data/315189/000155837017006878/,누적 2196000000 − 직전누적 729300000 (시작 2016-10-31) ; 원 공시 1470500000 (https://www.sec.gov/Archives/edgar/data/315189/000104746917007719/ ; https://www.sec.gov/Archives/edgar/data/315189/000155837017006878/),4
+Deere,DE,2017Q3,2017-10-29,분기말 자산총계,65786300000,USD,공시,https://www.sec.gov/Archives/edgar/data/315189/000104746917007719/,,4
+Deere,DE,2017Q3,2017-10-29,분기말 부채총계,56211800000,USD,공시,https://www.sec.gov/Archives/edgar/data/315189/000104746917007719/,메자닌(일시자본) 14000000 별도,4
+Deere,DE,2017Q3,2017-10-29,분기말 총자본(자기자본),9560500000,USD,공시,https://www.sec.gov/Archives/edgar/data/315189/000104746917007719/,,4
+Deere,DE,2017Q3,2017-10-29,분기말 지배지분 자본,9557300000,USD,공시,https://www.sec.gov/Archives/edgar/data/315189/000104746917007719/,,4
+Deere,DE,2017Q3,2017-10-27,분기말 종가,133.25,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/DE?interval=1d&events=splits (2017-10-27),,4
+Deere,DE,2017Q3,2017-11-30,분기말 상장주식수,322595010,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/315189/000104746917007719/,dei:EntityCommonStockSharesOutstanding 클래스 합,4
+Deere,DE,2017Q3,2017-10-27,분기말 시가총액,42985785082,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/DE?interval=1d&events=splits (2017-10-27) ; https://www.sec.gov/Archives/edgar/data/315189/000104746917007719/,종가 133.25 × 주식수 322595010,4
+Deere,DE,2017Q4,2018-01-28,분기별 매출액,6913500000,USD,공시,https://www.sec.gov/Archives/edgar/data/315189/000155837018001362/,,4
+Deere,DE,2017Q4,2018-01-28,분기별 영업이익,636000000,USD,공시,https://www.sec.gov/Archives/edgar/data/315189/000155837018001362/,,4
+Deere,DE,2017Q4,2018-01-28,분기별 당기순이익(지배),-535100000,USD,공시,https://www.sec.gov/Archives/edgar/data/315189/000155837018001362/,,4
+Deere,DE,2017Q4,2018-01-28,분기별 영업활동현금흐름,-1296800000,USD,공시,https://www.sec.gov/Archives/edgar/data/315189/000155837018001362/,,4
+Deere,DE,2017Q4,2018-01-28,분기말 자산총계,66577500000,USD,공시,https://www.sec.gov/Archives/edgar/data/315189/000155837018001362/,,4
+Deere,DE,2017Q4,2018-01-28,분기말 부채총계,57298600000,USD,공시,https://www.sec.gov/Archives/edgar/data/315189/000155837018001362/,메자닌(일시자본) 14000000 별도,4
+Deere,DE,2017Q4,2018-01-28,분기말 총자본(자기자본),9264900000,USD,공시,https://www.sec.gov/Archives/edgar/data/315189/000155837018001362/,,4
+Deere,DE,2017Q4,2018-01-28,분기말 지배지분 자본,9252600000,USD,공시,https://www.sec.gov/Archives/edgar/data/315189/000155837018001362/,,4
+Deere,DE,2017Q4,2018-01-26,분기말 종가,171.49,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/DE?interval=1d&events=splits (2018-01-26),,4
+Deere,DE,2017Q4,2018-01-28,분기말 상장주식수,323787852,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/315189/000155837018001362/,dei:EntityCommonStockSharesOutstanding 클래스 합,4
+Deere,DE,2017Q4,2018-01-26,분기말 시가총액,55526378739,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/DE?interval=1d&events=splits (2018-01-26) ; https://www.sec.gov/Archives/edgar/data/315189/000155837018001362/,종가 171.49 × 주식수 323787852,4
+Deere,DE,2018Q1,2018-04-29,분기별 매출액,10720000000,USD,공시,https://www.sec.gov/Archives/edgar/data/315189/000155837018005045/,,4
+Deere,DE,2018Q1,2018-04-29,분기별 영업이익,1494000000,USD,공시,https://www.sec.gov/Archives/edgar/data/315189/000155837018005045/,,4
+Deere,DE,2018Q1,2018-04-29,분기별 당기순이익(지배),1208300000,USD,공시,https://www.sec.gov/Archives/edgar/data/315189/000155837018005045/,,4
+Deere,DE,2018Q1,2018-04-29,분기별 영업활동현금흐름,76700000,USD,계산(누적차감)(재작성 반영),https://www.sec.gov/Archives/edgar/data/315189/000155837019005380/ ; https://www.sec.gov/Archives/edgar/data/315189/000155837018001362/,누적 -1220100000 − 직전누적 -1296800000 (시작 2017-10-30) ; 원 공시 75100000 (https://www.sec.gov/Archives/edgar/data/315189/000155837018005045/ ; https://www.sec.gov/Archives/edgar/data/315189/000155837018001362/),4
+Deere,DE,2018Q1,2018-04-29,분기말 자산총계,69873000000,USD,공시,https://www.sec.gov/Archives/edgar/data/315189/000155837018005045/,,4
+Deere,DE,2018Q1,2018-04-29,분기말 부채총계,59438400000,USD,공시,https://www.sec.gov/Archives/edgar/data/315189/000155837018005045/,메자닌(일시자본) 14600000 별도,4
+Deere,DE,2018Q1,2018-04-29,분기말 총자본(자기자본),10420000000,USD,공시,https://www.sec.gov/Archives/edgar/data/315189/000155837018005045/,,4
+Deere,DE,2018Q1,2018-04-29,분기말 지배지분 자본,10410300000,USD,공시,https://www.sec.gov/Archives/edgar/data/315189/000155837018005045/,,4
+Deere,DE,2018Q1,2018-04-27,분기말 종가,137.56,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/DE?interval=1d&events=splits (2018-04-27),,4
+Deere,DE,2018Q1,2018-04-29,분기말 상장주식수,324284554,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/315189/000155837018005045/,dei:EntityCommonStockSharesOutstanding 클래스 합,4
+Deere,DE,2018Q1,2018-04-27,분기말 시가총액,44608583248,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/DE?interval=1d&events=splits (2018-04-27) ; https://www.sec.gov/Archives/edgar/data/315189/000155837018005045/,종가 137.56 × 주식수 324284554,4
+Deere,DE,2018Q2,2018-07-29,분기별 매출액,10308300000,USD,공시,https://www.sec.gov/Archives/edgar/data/315189/000155837018007303/,,4
+Deere,DE,2018Q2,2018-07-29,분기별 영업이익,1283000000,USD,공시,https://www.sec.gov/Archives/edgar/data/315189/000155837018007303/,,4
+Deere,DE,2018Q2,2018-07-29,분기별 당기순이익(지배),910300000,USD,공시,https://www.sec.gov/Archives/edgar/data/315189/000155837018007303/,,4
+Deere,DE,2018Q2,2018-07-29,분기별 영업활동현금흐름,548100000,USD,계산(누적차감)(재작성 반영),https://www.sec.gov/Archives/edgar/data/315189/000155837019008382/ ; https://www.sec.gov/Archives/edgar/data/315189/000155837019005380/,누적 -672000000 − 직전누적 -1220100000 (시작 2017-10-30) ; 원 공시 547000000 (https://www.sec.gov/Archives/edgar/data/315189/000155837018007303/ ; https://www.sec.gov/Archives/edgar/data/315189/000155837018005045/),4
+Deere,DE,2018Q2,2018-07-29,분기말 자산총계,69390100000,USD,공시,https://www.sec.gov/Archives/edgar/data/315189/000155837018007303/,,4
+Deere,DE,2018Q2,2018-07-29,분기말 부채총계,59010200000,USD,공시,https://www.sec.gov/Archives/edgar/data/315189/000155837018007303/,메자닌(일시자본) 14000000 별도,4
+Deere,DE,2018Q2,2018-07-29,분기말 총자본(자기자본),10365900000,USD,공시,https://www.sec.gov/Archives/edgar/data/315189/000155837018007303/,,4
+Deere,DE,2018Q2,2018-07-29,분기말 지배지분 자본,10356300000,USD,공시,https://www.sec.gov/Archives/edgar/data/315189/000155837018007303/,,4
+Deere,DE,2018Q2,2018-07-27,분기말 종가,140.8,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/DE?interval=1d&events=splits (2018-07-27),,4
+Deere,DE,2018Q2,2018-07-29,분기말 상장주식수,321673523,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/315189/000155837018007303/,dei:EntityCommonStockSharesOutstanding 클래스 합,4
+Deere,DE,2018Q2,2018-07-27,분기말 시가총액,45291632038,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/DE?interval=1d&events=splits (2018-07-27) ; https://www.sec.gov/Archives/edgar/data/315189/000155837018007303/,종가 140.8 × 주식수 321673523,4
+Deere,DE,2018Q3,2018-10-28,분기별 매출액,9415900000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/315189/000104746918007694/ ; https://www.sec.gov/Archives/edgar/data/315189/000155837018007303/,연간 37357700000 − 9개월누적 27941800000 (Revenues),4
+Deere,DE,2018Q3,2018-10-28,분기별 영업이익,1063000000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/315189/000104746918007694/ ; https://www.sec.gov/Archives/edgar/data/315189/000155837018007303/,연간 4476000000 − 9개월누적 3413000000 (OperatingIncomeLoss),4
+Deere,DE,2018Q3,2018-10-28,분기별 당기순이익(지배),784800000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/315189/000104746918007694/ ; https://www.sec.gov/Archives/edgar/data/315189/000155837018007303/,연간 2368400000 − 9개월누적 1583600000 (NetIncomeLoss),4
+Deere,DE,2018Q3,2018-10-28,분기별 영업활동현금흐름,2494000000,USD,계산(누적차감)(재작성 반영),https://www.sec.gov/Archives/edgar/data/315189/000155837019011614/ ; https://www.sec.gov/Archives/edgar/data/315189/000155837019008382/,누적 1822000000 − 직전누적 -672000000 (시작 2017-10-30) ; 원 공시 2495000000 (https://www.sec.gov/Archives/edgar/data/315189/000104746918007694/ ; https://www.sec.gov/Archives/edgar/data/315189/000155837018007303/),4
+Deere,DE,2018Q3,2018-10-28,분기말 자산총계,70108000000,USD,공시,https://www.sec.gov/Archives/edgar/data/315189/000104746918007694/,,4
+Deere,DE,2018Q3,2018-10-28,분기말 부채총계,58802800000,USD,공시,https://www.sec.gov/Archives/edgar/data/315189/000104746918007694/,메자닌(일시자본) 14000000 별도,4
+Deere,DE,2018Q3,2018-10-28,분기말 총자본(자기자본),11291200000,USD,공시,https://www.sec.gov/Archives/edgar/data/315189/000104746918007694/,,4
+Deere,DE,2018Q3,2018-10-28,분기말 지배지분 자본,11287800000,USD,공시,https://www.sec.gov/Archives/edgar/data/315189/000104746918007694/,,4
+Deere,DE,2018Q3,2018-10-26,분기말 종가,133.0,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/DE?interval=1d&events=splits (2018-10-26),,4
+Deere,DE,2018Q3,2018-11-30,분기말 상장주식수,318570788,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/315189/000104746918007694/,dei:EntityCommonStockSharesOutstanding 클래스 합,4
+Deere,DE,2018Q3,2018-10-26,분기말 시가총액,42369914804,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/DE?interval=1d&events=splits (2018-10-26) ; https://www.sec.gov/Archives/edgar/data/315189/000104746918007694/,종가 133.0 × 주식수 318570788,4
+Deere,DE,2018Q4,2019-01-27,분기별 매출액,7983600000,USD,공시,https://www.sec.gov/Archives/edgar/data/315189/000155837019001282/,,4
+Deere,DE,2018Q4,2019-01-27,분기별 영업이익,769000000,USD,공시,https://www.sec.gov/Archives/edgar/data/315189/000155837019001282/,,4
+Deere,DE,2018Q4,2019-01-27,분기별 당기순이익(지배),498500000,USD,공시,https://www.sec.gov/Archives/edgar/data/315189/000155837019001282/,,4
+Deere,DE,2018Q4,2019-01-27,분기별 영업활동현금흐름,-1650700000,USD,공시,https://www.sec.gov/Archives/edgar/data/315189/000155837019001282/,,4
+Deere,DE,2018Q4,2019-01-27,분기말 자산총계,69918200000,USD,공시,https://www.sec.gov/Archives/edgar/data/315189/000155837019001282/,,4
+Deere,DE,2018Q4,2019-01-27,분기말 부채총계,58571500000,USD,공시,https://www.sec.gov/Archives/edgar/data/315189/000155837019001282/,메자닌(일시자본) 14000000 별도,4
+Deere,DE,2018Q4,2019-01-27,분기말 총자본(자기자본),11332700000,USD,공시,https://www.sec.gov/Archives/edgar/data/315189/000155837019001282/,,4
+Deere,DE,2018Q4,2019-01-27,분기말 지배지분 자본,11327800000,USD,공시,https://www.sec.gov/Archives/edgar/data/315189/000155837019001282/,,4
+Deere,DE,2018Q4,2019-01-25,분기말 종가,161.5,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/DE?interval=1d&events=splits (2019-01-25),,4
+Deere,DE,2018Q4,2019-01-27,분기말 상장주식수,318493477,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/315189/000155837019001282/,dei:EntityCommonStockSharesOutstanding 클래스 합,4
+Deere,DE,2018Q4,2019-01-25,분기말 시가총액,51436696536,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/DE?interval=1d&events=splits (2019-01-25) ; https://www.sec.gov/Archives/edgar/data/315189/000155837019001282/,종가 161.5 × 주식수 318493477,4
+Deere,DE,2019Q1,2019-04-28,분기별 매출액,11342400000,USD,공시,https://www.sec.gov/Archives/edgar/data/315189/000155837019005380/,,4
+Deere,DE,2019Q1,2019-04-28,분기별 영업이익,1536000000,USD,공시,https://www.sec.gov/Archives/edgar/data/315189/000155837019005380/,,4
+Deere,DE,2019Q1,2019-04-28,분기별 당기순이익(지배),1134900000,USD,공시,https://www.sec.gov/Archives/edgar/data/315189/000155837019005380/,,4
+Deere,DE,2019Q1,2019-04-28,분기별 영업활동현금흐름,155900000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/315189/000155837019005380/ ; https://www.sec.gov/Archives/edgar/data/315189/000155837019001282/,누적 -1494800000 − 직전누적 -1650700000 (시작 2018-10-29),4
+Deere,DE,2019Q1,2019-04-28,분기말 자산총계,72729600000,USD,공시,https://www.sec.gov/Archives/edgar/data/315189/000155837019005380/,,4
+Deere,DE,2019Q1,2019-04-28,분기말 부채총계,60791300000,USD,공시,https://www.sec.gov/Archives/edgar/data/315189/000155837019005380/,메자닌(일시자본) 14300000 별도,4
+Deere,DE,2019Q1,2019-04-28,분기말 총자본(자기자본),11924000000,USD,공시,https://www.sec.gov/Archives/edgar/data/315189/000155837019005380/,,4
+Deere,DE,2019Q1,2019-04-28,분기말 지배지분 자본,11919500000,USD,공시,https://www.sec.gov/Archives/edgar/data/315189/000155837019005380/,,4
+Deere,DE,2019Q1,2019-04-26,분기말 종가,165.01,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/DE?interval=1d&events=splits (2019-04-26),,4
+Deere,DE,2019Q1,2019-04-28,분기말 상장주식수,316995536,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/315189/000155837019005380/,dei:EntityCommonStockSharesOutstanding 클래스 합,4
+Deere,DE,2019Q1,2019-04-26,분기말 시가총액,52307433395,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/DE?interval=1d&events=splits (2019-04-26) ; https://www.sec.gov/Archives/edgar/data/315189/000155837019005380/,종가 165.01 × 주식수 316995536,4
+Deere,DE,2019Q2,2019-07-28,분기별 매출액,10036000000,USD,공시,https://www.sec.gov/Archives/edgar/data/315189/000155837019008382/,,4
+Deere,DE,2019Q2,2019-07-28,분기별 영업이익,1194000000,USD,공시,https://www.sec.gov/Archives/edgar/data/315189/000155837019008382/,,4
+Deere,DE,2019Q2,2019-07-28,분기별 당기순이익(지배),899000000,USD,공시,https://www.sec.gov/Archives/edgar/data/315189/000155837019008382/,,4
+Deere,DE,2019Q2,2019-07-28,분기별 영업활동현금흐름,1898800000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/315189/000155837019008382/ ; https://www.sec.gov/Archives/edgar/data/315189/000155837019005380/,누적 404000000 − 직전누적 -1494800000 (시작 2018-10-29),4
+Deere,DE,2019Q2,2019-07-28,분기말 자산총계,73530000000,USD,공시,https://www.sec.gov/Archives/edgar/data/315189/000155837019008382/,,4
+Deere,DE,2019Q2,2019-07-28,분기말 부채총계,61246000000,USD,공시,https://www.sec.gov/Archives/edgar/data/315189/000155837019008382/,메자닌(일시자본) 14000000 별도,4
+Deere,DE,2019Q2,2019-07-28,분기말 총자본(자기자본),12270000000,USD,공시,https://www.sec.gov/Archives/edgar/data/315189/000155837019008382/,,4
+Deere,DE,2019Q2,2019-07-28,분기말 지배지분 자본,12266000000,USD,공시,https://www.sec.gov/Archives/edgar/data/315189/000155837019008382/,,4
+Deere,DE,2019Q2,2019-07-26,분기말 종가,170.39,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/DE?interval=1d&events=splits (2019-07-26),,4
+Deere,DE,2019Q2,2019-07-28,분기말 상장주식수,314872834,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/315189/000155837019008382/,dei:EntityCommonStockSharesOutstanding 클래스 합,4
+Deere,DE,2019Q2,2019-07-26,분기말 시가총액,53651182185,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/DE?interval=1d&events=splits (2019-07-26) ; https://www.sec.gov/Archives/edgar/data/315189/000155837019008382/,종가 170.39 × 주식수 314872834,4
+Deere,DE,2019Q3,2019-11-03,분기별 매출액,9896000000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/315189/000155837019011614/ ; https://www.sec.gov/Archives/edgar/data/315189/000155837019008382/,연간 39258000000 − 9개월누적 29362000000 (Revenues),4
+Deere,DE,2019Q3,2019-11-03,분기별 영업이익,917000000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/315189/000155837019011614/ ; https://www.sec.gov/Archives/edgar/data/315189/000155837019008382/,연간 4415000000 − 9개월누적 3498000000 (OperatingIncomeLoss),4
+Deere,DE,2019Q3,2019-11-03,분기별 당기순이익(지배),721000000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/315189/000155837019011614/ ; https://www.sec.gov/Archives/edgar/data/315189/000155837019008382/,연간 3253000000 − 9개월누적 2532000000 (NetIncomeLoss),4
+Deere,DE,2019Q3,2019-11-03,분기별 영업활동현금흐름,3008000000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/315189/000155837019011614/ ; https://www.sec.gov/Archives/edgar/data/315189/000155837019008382/,누적 3412000000 − 직전누적 404000000 (시작 2018-10-29),4
+Deere,DE,2019Q3,2019-11-03,분기말 자산총계,73011000000,USD,공시,https://www.sec.gov/Archives/edgar/data/315189/000155837019011614/,,4
+Deere,DE,2019Q3,2019-11-03,분기말 부채총계,61580000000,USD,공시,https://www.sec.gov/Archives/edgar/data/315189/000155837019011614/,메자닌(일시자본) 14000000 별도,4
+Deere,DE,2019Q3,2019-11-03,분기말 총자본(자기자본),11417000000,USD,공시,https://www.sec.gov/Archives/edgar/data/315189/000155837019011614/,,4
+Deere,DE,2019Q3,2019-11-03,분기말 지배지분 자본,11413000000,USD,공시,https://www.sec.gov/Archives/edgar/data/315189/000155837019011614/,,4
+Deere,DE,2019Q3,2019-11-01,분기말 종가,176.11,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/DE?interval=1d&events=splits (2019-11-01),,4
+Deere,DE,2019Q3,2019-11-30,분기말 상장주식수,313275755,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/315189/000155837019011614/,dei:EntityCommonStockSharesOutstanding 클래스 합,4
+Deere,DE,2019Q3,2019-11-01,분기말 시가총액,55170993213,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/DE?interval=1d&events=splits (2019-11-01) ; https://www.sec.gov/Archives/edgar/data/315189/000155837019011614/,종가 176.11 × 주식수 313275755,4
+Deere,DE,2019Q4,2020-02-02,분기별 매출액,7631000000,USD,공시,https://www.sec.gov/Archives/edgar/data/315189/000155837020001593/,,4
+Deere,DE,2019Q4,2020-02-02,분기별 영업이익,645000000,USD,공시,https://www.sec.gov/Archives/edgar/data/315189/000155837020001593/,,4
+Deere,DE,2019Q4,2020-02-02,분기별 당기순이익(지배),517000000,USD,공시,https://www.sec.gov/Archives/edgar/data/315189/000155837020001593/,,4
+Deere,DE,2019Q4,2020-02-02,분기별 영업활동현금흐름,-508000000,USD,공시,https://www.sec.gov/Archives/edgar/data/315189/000155837020001593/,,4
+Deere,DE,2019Q4,2020-02-02,분기말 자산총계,71821000000,USD,공시,https://www.sec.gov/Archives/edgar/data/315189/000155837020001593/,,4
+Deere,DE,2019Q4,2020-02-02,분기말 부채총계,59877000000,USD,공시,https://www.sec.gov/Archives/edgar/data/315189/000155837020001593/,메자닌(일시자본) 14000000 별도,4
+Deere,DE,2019Q4,2020-02-02,분기말 총자본(자기자본),11930000000,USD,공시,https://www.sec.gov/Archives/edgar/data/315189/000155837020001593/,,4
+Deere,DE,2019Q4,2020-02-02,분기말 지배지분 자본,11926000000,USD,공시,https://www.sec.gov/Archives/edgar/data/315189/000155837020001593/,,4
+Deere,DE,2019Q4,2020-01-31,분기말 종가,158.58,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/DE?interval=1d&events=splits (2020-01-31),,4
+Deere,DE,2019Q4,2020-02-02,분기말 상장주식수,313619999,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/315189/000155837020001593/,dei:EntityCommonStockSharesOutstanding 클래스 합,4
+Deere,DE,2019Q4,2020-01-31,분기말 시가총액,49733859441,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/DE?interval=1d&events=splits (2020-01-31) ; https://www.sec.gov/Archives/edgar/data/315189/000155837020001593/,종가 158.58 × 주식수 313619999,4
+Deere,DE,2020Q1,2020-05-03,분기별 매출액,9253000000,USD,공시,https://www.sec.gov/Archives/edgar/data/315189/000155837020007066/,,4
+Deere,DE,2020Q1,2020-05-03,분기별 영업이익,965000000,USD,공시,https://www.sec.gov/Archives/edgar/data/315189/000155837020007066/,,4
+Deere,DE,2020Q1,2020-05-03,분기별 당기순이익(지배),666000000,USD,공시,https://www.sec.gov/Archives/edgar/data/315189/000155837020007066/,,4
+Deere,DE,2020Q1,2020-05-03,분기별 영업활동현금흐름,1284000000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/315189/000155837020007066/ ; https://www.sec.gov/Archives/edgar/data/315189/000155837020001593/,누적 776000000 − 직전누적 -508000000 (시작 2019-11-04),4
+Deere,DE,2020Q1,2020-05-03,분기말 자산총계,77326000000,USD,공시,https://www.sec.gov/Archives/edgar/data/315189/000155837020007066/,,4
+Deere,DE,2020Q1,2020-05-03,분기말 부채총계,65461000000,USD,공시,https://www.sec.gov/Archives/edgar/data/315189/000155837020007066/,,4
+Deere,DE,2020Q1,2020-05-03,분기말 총자본(자기자본),11865000000,USD,공시,https://www.sec.gov/Archives/edgar/data/315189/000155837020007066/,,4
+Deere,DE,2020Q1,2020-05-03,분기말 지배지분 자본,11864000000,USD,공시,https://www.sec.gov/Archives/edgar/data/315189/000155837020007066/,,4
+Deere,DE,2020Q1,2020-05-01,분기말 종가,138.19,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/DE?interval=1d&events=splits (2020-05-01),,4
+Deere,DE,2020Q1,2020-05-03,분기말 상장주식수,312858631,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/315189/000155837020007066/,dei:EntityCommonStockSharesOutstanding 클래스 합,4
+Deere,DE,2020Q1,2020-05-01,분기말 시가총액,43233934218,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/DE?interval=1d&events=splits (2020-05-01) ; https://www.sec.gov/Archives/edgar/data/315189/000155837020007066/,종가 138.19 × 주식수 312858631,4
+Deere,DE,2020Q2,2020-08-02,분기별 매출액,8925000000,USD,공시,https://www.sec.gov/Archives/edgar/data/315189/000155837020010868/,,4
+Deere,DE,2020Q2,2020-08-02,분기별 영업이익,1390000000,USD,공시,https://www.sec.gov/Archives/edgar/data/315189/000155837020010868/,,4
+Deere,DE,2020Q2,2020-08-02,분기별 당기순이익(지배),811000000,USD,공시,https://www.sec.gov/Archives/edgar/data/315189/000155837020010868/,,4
+Deere,DE,2020Q2,2020-08-02,분기별 영업활동현금흐름,3281000000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/315189/000155837020010868/ ; https://www.sec.gov/Archives/edgar/data/315189/000155837020007066/,누적 4057000000 − 직전누적 776000000 (시작 2019-11-04),4
+Deere,DE,2020Q2,2020-08-02,분기말 자산총계,77264000000,USD,공시,https://www.sec.gov/Archives/edgar/data/315189/000155837020010868/,,4
+Deere,DE,2020Q2,2020-08-02,분기말 부채총계,64373000000,USD,공시,https://www.sec.gov/Archives/edgar/data/315189/000155837020010868/,,4
+Deere,DE,2020Q2,2020-08-02,분기말 총자본(자기자본),12891000000,USD,공시,https://www.sec.gov/Archives/edgar/data/315189/000155837020010868/,,4
+Deere,DE,2020Q2,2020-08-02,분기말 지배지분 자본,12888000000,USD,공시,https://www.sec.gov/Archives/edgar/data/315189/000155837020010868/,,4
+Deere,DE,2020Q2,2020-07-31,분기말 종가,176.31,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/DE?interval=1d&events=splits (2020-07-31),,4
+Deere,DE,2020Q2,2020-08-02,분기말 상장주식수,313374767,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/315189/000155837020010868/,dei:EntityCommonStockSharesOutstanding 클래스 합,4
+Deere,DE,2020Q2,2020-07-31,분기말 시가총액,55251105170,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/DE?interval=1d&events=splits (2020-07-31) ; https://www.sec.gov/Archives/edgar/data/315189/000155837020010868/,종가 176.31 × 주식수 313374767,4
+Deere,DE,2020Q3,2020-11-01,분기별 매출액,9731000000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/315189/000155837020014436/ ; https://www.sec.gov/Archives/edgar/data/315189/000155837020010868/,연간 35540000000 − 9개월누적 25809000000 (Revenues),4
+Deere,DE,2020Q3,2020-11-01,분기별 영업이익,1304000000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/315189/000155837020014436/ ; https://www.sec.gov/Archives/edgar/data/315189/000155837020010868/,연간 4305000000 − 9개월누적 3001000000 (OperatingIncomeLoss),4
+Deere,DE,2020Q3,2020-11-01,분기별 당기순이익(지배),758000000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/315189/000155837020014436/ ; https://www.sec.gov/Archives/edgar/data/315189/000155837020010868/,연간 2751000000 − 9개월누적 1993000000 (NetIncomeLoss),4
+Deere,DE,2020Q3,2020-11-01,분기별 영업활동현금흐름,3426000000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/315189/000155837020014436/ ; https://www.sec.gov/Archives/edgar/data/315189/000155837020010868/,누적 7483000000 − 직전누적 4057000000 (시작 2019-11-04),4
+Deere,DE,2020Q3,2020-11-01,분기말 자산총계,75091000000,USD,공시,https://www.sec.gov/Archives/edgar/data/315189/000155837020014436/,,4
+Deere,DE,2020Q3,2020-11-01,분기말 부채총계,62147000000,USD,공시,https://www.sec.gov/Archives/edgar/data/315189/000155837020014436/,,4
+Deere,DE,2020Q3,2020-11-01,분기말 총자본(자기자본),12944000000,USD,공시,https://www.sec.gov/Archives/edgar/data/315189/000155837020014436/,,4
+Deere,DE,2020Q3,2020-11-01,분기말 지배지분 자본,12937000000,USD,공시,https://www.sec.gov/Archives/edgar/data/315189/000155837020014436/,,4
+Deere,DE,2020Q3,2020-10-30,분기말 종가,225.91,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/DE?interval=1d&events=splits (2020-10-30),,4
+Deere,DE,2020Q3,2020-11-30,분기말 상장주식수,313361302,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/315189/000155837020014436/,dei:EntityCommonStockSharesOutstanding 클래스 합,4
+Deere,DE,2020Q3,2020-10-30,분기말 시가총액,70791451735,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/DE?interval=1d&events=splits (2020-10-30) ; https://www.sec.gov/Archives/edgar/data/315189/000155837020014436/,종가 225.91 × 주식수 313361302,4
+Deere,DE,2020Q4,2021-01-31,분기별 매출액,9112000000,USD,공시,https://www.sec.gov/Archives/edgar/data/315189/000155837021001774/,,4
+Deere,DE,2020Q4,2021-01-31,분기별 영업이익,1638000000,USD,공시,https://www.sec.gov/Archives/edgar/data/315189/000155837021001774/,,4
+Deere,DE,2020Q4,2021-01-31,분기별 당기순이익(지배),1224000000,USD,공시,https://www.sec.gov/Archives/edgar/data/315189/000155837021001774/,,4
+Deere,DE,2020Q4,2021-01-31,분기별 영업활동현금흐름,143000000,USD,공시,https://www.sec.gov/Archives/edgar/data/315189/000155837021001774/,,4
+Deere,DE,2020Q4,2021-01-31,분기말 자산총계,75480000000,USD,공시,https://www.sec.gov/Archives/edgar/data/315189/000155837021001774/,,4
+Deere,DE,2020Q4,2021-01-31,분기말 부채총계,61394000000,USD,공시,https://www.sec.gov/Archives/edgar/data/315189/000155837021001774/,,4
+Deere,DE,2020Q4,2021-01-31,분기말 총자본(자기자본),14086000000,USD,공시,https://www.sec.gov/Archives/edgar/data/315189/000155837021001774/,,4
+Deere,DE,2020Q4,2021-01-31,분기말 지배지분 자본,14083000000,USD,공시,https://www.sec.gov/Archives/edgar/data/315189/000155837021001774/,,4
+Deere,DE,2020Q4,2021-01-29,분기말 종가,288.8,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/DE?interval=1d&events=splits (2021-01-29),,4
+Deere,DE,2020Q4,2021-01-31,분기말 상장주식수,313438923,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/315189/000155837021001774/,dei:EntityCommonStockSharesOutstanding 클래스 합,4
+Deere,DE,2020Q4,2021-01-29,분기말 시가총액,90521160962,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/DE?interval=1d&events=splits (2021-01-29) ; https://www.sec.gov/Archives/edgar/data/315189/000155837021001774/,종가 288.8 × 주식수 313438923,4
+Deere,DE,2021Q1,2021-05-02,분기별 매출액,12058000000,USD,공시,https://www.sec.gov/Archives/edgar/data/315189/000155837021007781/,,4
+Deere,DE,2021Q1,2021-05-02,분기별 영업이익,2439000000,USD,공시,https://www.sec.gov/Archives/edgar/data/315189/000155837021007781/,,4
+Deere,DE,2021Q1,2021-05-02,분기별 당기순이익(지배),1790000000,USD,공시,https://www.sec.gov/Archives/edgar/data/315189/000155837021007781/,,4
+Deere,DE,2021Q1,2021-05-02,분기별 영업활동현금흐름,1643000000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/315189/000155837021007781/ ; https://www.sec.gov/Archives/edgar/data/315189/000155837021001774/,누적 1786000000 − 직전누적 143000000 (시작 2020-11-02),4
+Deere,DE,2021Q1,2021-05-02,분기말 자산총계,78979000000,USD,공시,https://www.sec.gov/Archives/edgar/data/315189/000155837021007781/,,4
+Deere,DE,2021Q1,2021-05-02,분기말 부채총계,63883000000,USD,공시,https://www.sec.gov/Archives/edgar/data/315189/000155837021007781/,,4
+Deere,DE,2021Q1,2021-05-02,분기말 총자본(자기자본),15096000000,USD,공시,https://www.sec.gov/Archives/edgar/data/315189/000155837021007781/,,4
+Deere,DE,2021Q1,2021-05-02,분기말 지배지분 자본,15092000000,USD,공시,https://www.sec.gov/Archives/edgar/data/315189/000155837021007781/,,4
+Deere,DE,2021Q1,2021-04-30,분기말 종가,370.85,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/DE?interval=1d&events=splits (2021-04-30),,4
+Deere,DE,2021Q1,2021-05-02,분기말 상장주식수,311942092,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/315189/000155837021007781/,dei:EntityCommonStockSharesOutstanding 클래스 합,4
+Deere,DE,2021Q1,2021-04-30,분기말 시가총액,115683724818,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/DE?interval=1d&events=splits (2021-04-30) ; https://www.sec.gov/Archives/edgar/data/315189/000155837021007781/,종가 370.85 × 주식수 311942092,4
+Deere,DE,2021Q2,2021-08-01,분기별 매출액,11527000000,USD,공시,https://www.sec.gov/Archives/edgar/data/315189/000155837021012088/,,4
+Deere,DE,2021Q2,2021-08-01,분기별 영업이익,2243000000,USD,공시,https://www.sec.gov/Archives/edgar/data/315189/000155837021012088/,,4
+Deere,DE,2021Q2,2021-08-01,분기별 당기순이익(지배),1667000000,USD,공시,https://www.sec.gov/Archives/edgar/data/315189/000155837021012088/,,4
+Deere,DE,2021Q2,2021-08-01,분기별 영업활동현금흐름,2528000000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/315189/000155837021012088/ ; https://www.sec.gov/Archives/edgar/data/315189/000155837021007781/,누적 4314000000 − 직전누적 1786000000 (시작 2020-11-02),4
+Deere,DE,2021Q2,2021-08-01,분기말 자산총계,80688000000,USD,공시,https://www.sec.gov/Archives/edgar/data/315189/000155837021012088/,,4
+Deere,DE,2021Q2,2021-08-01,분기말 부채총계,64955000000,USD,공시,https://www.sec.gov/Archives/edgar/data/315189/000155837021012088/,,4
+Deere,DE,2021Q2,2021-08-01,분기말 총자본(자기자본),15733000000,USD,공시,https://www.sec.gov/Archives/edgar/data/315189/000155837021012088/,,4
+Deere,DE,2021Q2,2021-08-01,분기말 지배지분 자본,15731000000,USD,공시,https://www.sec.gov/Archives/edgar/data/315189/000155837021012088/,,4
+Deere,DE,2021Q2,2021-07-30,분기말 종가,361.59,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/DE?interval=1d&events=splits (2021-07-30),,4
+Deere,DE,2021Q2,2021-08-01,분기말 상장주식수,310061478,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/315189/000155837021012088/,dei:EntityCommonStockSharesOutstanding 클래스 합,4
+Deere,DE,2021Q2,2021-07-30,분기말 시가총액,112115129830,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/DE?interval=1d&events=splits (2021-07-30) ; https://www.sec.gov/Archives/edgar/data/315189/000155837021012088/,종가 361.59 × 주식수 310061478,4
+Deere,DE,2021Q3,2021-10-31,분기별 매출액,11327000000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/315189/000155837021016864/ ; https://www.sec.gov/Archives/edgar/data/315189/000155837021012088/,연간 44024000000 − 9개월누적 32697000000 (Revenues),4
+Deere,DE,2021Q3,2021-10-31,분기별 영업이익,1692000000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/315189/000155837021016864/ ; https://www.sec.gov/Archives/edgar/data/315189/000155837021012088/,연간 8012000000 − 9개월누적 6320000000 (OperatingIncomeLoss),4
+Deere,DE,2021Q3,2021-10-31,분기별 당기순이익(지배),1283000000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/315189/000155837021016864/ ; https://www.sec.gov/Archives/edgar/data/315189/000155837021012088/,연간 5963000000 − 9개월누적 4680000000 (NetIncomeLoss),4
+Deere,DE,2021Q3,2021-10-31,분기별 영업활동현금흐름,3412000000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/315189/000155837021016864/ ; https://www.sec.gov/Archives/edgar/data/315189/000155837021012088/,누적 7726000000 − 직전누적 4314000000 (시작 2020-11-02),4
+Deere,DE,2021Q3,2021-10-31,분기말 자산총계,84114000000,USD,공시,https://www.sec.gov/Archives/edgar/data/315189/000155837021016864/,,4
+Deere,DE,2021Q3,2021-10-31,분기말 부채총계,65680000000,USD,공시,https://www.sec.gov/Archives/edgar/data/315189/000155837021016864/,,4
+Deere,DE,2021Q3,2021-10-31,분기말 총자본(자기자본),18434000000,USD,공시,https://www.sec.gov/Archives/edgar/data/315189/000155837021016864/,,4
+Deere,DE,2021Q3,2021-10-31,분기말 지배지분 자본,18431000000,USD,공시,https://www.sec.gov/Archives/edgar/data/315189/000155837021016864/,,4
+Deere,DE,2021Q3,2021-10-29,분기말 종가,342.31,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/DE?interval=1d&events=splits (2021-10-29),,4
+Deere,DE,2021Q3,2021-11-30,분기말 상장주식수,307407282,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/315189/000155837021016864/,dei:EntityCommonStockSharesOutstanding 클래스 합,4
+Deere,DE,2021Q3,2021-10-29,분기말 시가총액,105228586701,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/DE?interval=1d&events=splits (2021-10-29) ; https://www.sec.gov/Archives/edgar/data/315189/000155837021016864/,종가 342.31 × 주식수 307407282,4
+Deere,DE,2021Q4,2022-01-30,분기별 매출액,9569000000,USD,공시,https://www.sec.gov/Archives/edgar/data/315189/000155837022001900/,,4
+Deere,DE,2021Q4,2022-01-30,분기별 영업이익,1235000000,USD,공시,https://www.sec.gov/Archives/edgar/data/315189/000155837022001900/,,4
+Deere,DE,2021Q4,2022-01-30,분기별 당기순이익(지배),903000000,USD,공시,https://www.sec.gov/Archives/edgar/data/315189/000155837022001900/,,4
+Deere,DE,2021Q4,2022-01-30,분기별 영업활동현금흐름,-2553000000,USD,공시,https://www.sec.gov/Archives/edgar/data/315189/000155837022001900/,,4
+Deere,DE,2021Q4,2022-01-30,분기말 자산총계,79614000000,USD,공시,https://www.sec.gov/Archives/edgar/data/315189/000155837022001900/,,4
+Deere,DE,2021Q4,2022-01-30,분기말 부채총계,61806000000,USD,공시,https://www.sec.gov/Archives/edgar/data/315189/000155837022001900/,,4
+Deere,DE,2021Q4,2022-01-30,분기말 총자본(자기자본),17808000000,USD,공시,https://www.sec.gov/Archives/edgar/data/315189/000155837022001900/,,4
+Deere,DE,2021Q4,2022-01-30,분기말 지배지분 자본,17804000000,USD,공시,https://www.sec.gov/Archives/edgar/data/315189/000155837022001900/,,4
+Deere,DE,2021Q4,2022-01-28,분기말 종가,373.79,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/DE?interval=1d&events=splits (2022-01-28),,4
+Deere,DE,2021Q4,2022-01-30,분기말 상장주식수,306784327,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/315189/000155837022001900/,dei:EntityCommonStockSharesOutstanding 클래스 합,4
+Deere,DE,2021Q4,2022-01-28,분기말 시가총액,114672913589,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/DE?interval=1d&events=splits (2022-01-28) ; https://www.sec.gov/Archives/edgar/data/315189/000155837022001900/,종가 373.79 × 주식수 306784327,4
+Deere,DE,2022Q1,2022-05-01,분기별 매출액,13370000000,USD,공시,https://www.sec.gov/Archives/edgar/data/315189/000155837022009375/,,4
+Deere,DE,2022Q1,2022-05-01,분기별 영업이익,2670000000,USD,공시,https://www.sec.gov/Archives/edgar/data/315189/000155837022009375/,,4
+Deere,DE,2022Q1,2022-05-01,분기별 당기순이익(지배),2098000000,USD,공시,https://www.sec.gov/Archives/edgar/data/315189/000155837022009375/,,4
+Deere,DE,2022Q1,2022-05-01,분기별 영업활동현금흐름,791000000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/315189/000155837022009375/ ; https://www.sec.gov/Archives/edgar/data/315189/000155837022001900/,누적 -1762000000 − 직전누적 -2553000000 (시작 2021-11-01),4
+Deere,DE,2022Q1,2022-05-01,분기말 자산총계,84099000000,USD,공시,https://www.sec.gov/Archives/edgar/data/315189/000155837022009375/,,4
+Deere,DE,2022Q1,2022-05-01,분기말 부채총계,65093000000,USD,공시,https://www.sec.gov/Archives/edgar/data/315189/000155837022009375/,메자닌(일시자본) 99000000 별도,4
+Deere,DE,2022Q1,2022-05-01,분기말 총자본(자기자본),18907000000,USD,공시,https://www.sec.gov/Archives/edgar/data/315189/000155837022009375/,,4
+Deere,DE,2022Q1,2022-05-01,분기말 지배지분 자본,18904000000,USD,공시,https://www.sec.gov/Archives/edgar/data/315189/000155837022009375/,,4
+Deere,DE,2022Q1,2022-04-29,분기말 종가,377.55,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/DE?interval=1d&events=splits (2022-04-29),,4
+Deere,DE,2022Q1,2022-05-01,분기말 상장주식수,305635672,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/315189/000155837022009375/,dei:EntityCommonStockSharesOutstanding 클래스 합,4
+Deere,DE,2022Q1,2022-04-29,분기말 시가총액,115392747964,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/DE?interval=1d&events=splits (2022-04-29) ; https://www.sec.gov/Archives/edgar/data/315189/000155837022009375/,종가 377.55 × 주식수 305635672,4
+Deere,DE,2022Q2,2022-07-31,분기별 매출액,14102000000,USD,공시,https://www.sec.gov/Archives/edgar/data/315189/000155837022014113/,,4
+Deere,DE,2022Q2,2022-07-31,분기별 영업이익,2646000000,USD,공시,https://www.sec.gov/Archives/edgar/data/315189/000155837022014113/,,4
+Deere,DE,2022Q2,2022-07-31,분기별 당기순이익(지배),1884000000,USD,공시,https://www.sec.gov/Archives/edgar/data/315189/000155837022014113/,,4
+Deere,DE,2022Q2,2022-07-31,분기별 영업활동현금흐름,2180000000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/315189/000155837022014113/ ; https://www.sec.gov/Archives/edgar/data/315189/000155837022009375/,누적 418000000 − 직전누적 -1762000000 (시작 2021-11-01),4
+Deere,DE,2022Q2,2022-07-31,분기말 자산총계,86817000000,USD,공시,https://www.sec.gov/Archives/edgar/data/315189/000155837022014113/,,4
+Deere,DE,2022Q2,2022-07-31,분기말 부채총계,67686000000,USD,공시,https://www.sec.gov/Archives/edgar/data/315189/000155837022014113/,메자닌(일시자본) 95000000 별도,4
+Deere,DE,2022Q2,2022-07-31,분기말 총자본(자기자본),19036000000,USD,공시,https://www.sec.gov/Archives/edgar/data/315189/000155837022014113/,,4
+Deere,DE,2022Q2,2022-07-31,분기말 지배지분 자본,19033000000,USD,공시,https://www.sec.gov/Archives/edgar/data/315189/000155837022014113/,,4
+Deere,DE,2022Q2,2022-07-29,분기말 종가,343.18,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/DE?interval=1d&events=splits (2022-07-29),,4
+Deere,DE,2022Q2,2022-07-31,분기말 상장주식수,301819630,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/315189/000155837022014113/,dei:EntityCommonStockSharesOutstanding 클래스 합,4
+Deere,DE,2022Q2,2022-07-29,분기말 시가총액,103578460623,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/DE?interval=1d&events=splits (2022-07-29) ; https://www.sec.gov/Archives/edgar/data/315189/000155837022014113/,종가 343.18 × 주식수 301819630,4
+Deere,DE,2022Q3,2022-10-30,분기별 매출액,15536000000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/315189/000155837022018703/ ; https://www.sec.gov/Archives/edgar/data/315189/000155837022014113/,연간 52577000000 − 9개월누적 37041000000 (Revenues),4
+Deere,DE,2022Q3,2022-10-30,분기별 영업이익,2956000000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/315189/000155837022018703/ ; https://www.sec.gov/Archives/edgar/data/315189/000155837022014113/,연간 9508000000 − 9개월누적 6552000000 (OperatingIncomeLoss),4
+Deere,DE,2022Q3,2022-10-30,분기별 당기순이익(지배),2246000000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/315189/000155837022018703/ ; https://www.sec.gov/Archives/edgar/data/315189/000155837022014113/,연간 7131000000 − 9개월누적 4885000000 (NetIncomeLoss),4
+Deere,DE,2022Q3,2022-10-30,분기별 영업활동현금흐름,4281000000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/315189/000155837022018703/ ; https://www.sec.gov/Archives/edgar/data/315189/000155837022014113/,누적 4699000000 − 직전누적 418000000 (시작 2021-11-01),4
+Deere,DE,2022Q3,2022-10-30,분기말 자산총계,90030000000,USD,공시,https://www.sec.gov/Archives/edgar/data/315189/000155837022018703/,,4
+Deere,DE,2022Q3,2022-10-30,분기말 부채총계,69673000000,USD,공시,https://www.sec.gov/Archives/edgar/data/315189/000155837022018703/,메자닌(일시자본) 92000000 별도,4
+Deere,DE,2022Q3,2022-10-30,분기말 총자본(자기자본),20265000000,USD,공시,https://www.sec.gov/Archives/edgar/data/315189/000155837022018703/,,4
+Deere,DE,2022Q3,2022-10-30,분기말 지배지분 자본,20262000000,USD,공시,https://www.sec.gov/Archives/edgar/data/315189/000155837022018703/,,4
+Deere,DE,2022Q3,2022-10-28,분기말 종가,396.85,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/DE?interval=1d&events=splits (2022-10-28),,4
+Deere,DE,2022Q3,2022-11-30,분기말 상장주식수,298237257,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/315189/000155837022018703/,dei:EntityCommonStockSharesOutstanding 클래스 합,4
+Deere,DE,2022Q3,2022-10-28,분기말 시가총액,118355455440,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/DE?interval=1d&events=splits (2022-10-28) ; https://www.sec.gov/Archives/edgar/data/315189/000155837022018703/,종가 396.85 × 주식수 298237257,4
+Deere,DE,2022Q4,2023-01-29,분기별 매출액,12652000000,USD,공시,https://www.sec.gov/Archives/edgar/data/315189/000155837023001877/,,4
+Deere,DE,2022Q4,2023-01-29,분기별 영업이익,2518000000,USD,공시,https://www.sec.gov/Archives/edgar/data/315189/000155837023001877/,,4
+Deere,DE,2022Q4,2023-01-29,분기별 당기순이익(지배),1959000000,USD,공시,https://www.sec.gov/Archives/edgar/data/315189/000155837023001877/,,4
+Deere,DE,2022Q4,2023-01-29,분기별 영업활동현금흐름,-1246000000,USD,공시,https://www.sec.gov/Archives/edgar/data/315189/000155837023001877/,,4
+Deere,DE,2022Q4,2023-01-29,분기말 자산총계,91620000000,USD,공시,https://www.sec.gov/Archives/edgar/data/315189/000155837023001877/,,4
+Deere,DE,2022Q4,2023-01-29,분기말 부채총계,70184000000,USD,공시,https://www.sec.gov/Archives/edgar/data/315189/000155837023001877/,메자닌(일시자본) 100000000 별도,4
+Deere,DE,2022Q4,2023-01-29,분기말 총자본(자기자본),21336000000,USD,공시,https://www.sec.gov/Archives/edgar/data/315189/000155837023001877/,,4
+Deere,DE,2022Q4,2023-01-29,분기말 지배지분 자본,21332000000,USD,공시,https://www.sec.gov/Archives/edgar/data/315189/000155837023001877/,,4
+Deere,DE,2022Q4,2023-01-27,분기말 종가,418.18,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/DE?interval=1d&events=splits (2023-01-27),,4
+Deere,DE,2022Q4,2023-01-29,분기말 상장주식수,296322273,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/315189/000155837023001877/,dei:EntityCommonStockSharesOutstanding 클래스 합,4
+Deere,DE,2022Q4,2023-01-27,분기말 시가총액,123916048123,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/DE?interval=1d&events=splits (2023-01-27) ; https://www.sec.gov/Archives/edgar/data/315189/000155837023001877/,종가 418.18 × 주식수 296322273,4
+Deere,DE,2023Q1,2023-04-30,분기별 매출액,17387000000,USD,공시,https://www.sec.gov/Archives/edgar/data/315189/000155837023010713/,,4
+Deere,DE,2023Q1,2023-04-30,분기별 영업이익,3898000000,USD,공시,https://www.sec.gov/Archives/edgar/data/315189/000155837023010713/,,4
+Deere,DE,2023Q1,2023-04-30,분기별 당기순이익(지배),2860000000,USD,공시,https://www.sec.gov/Archives/edgar/data/315189/000155837023010713/,,4
+Deere,DE,2023Q1,2023-04-30,분기별 영업활동현금흐름,1099000000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/315189/000155837023010713/ ; https://www.sec.gov/Archives/edgar/data/315189/000155837023001877/,누적 -147000000 − 직전누적 -1246000000 (시작 2022-10-31),4
+Deere,DE,2023Q1,2023-04-30,분기말 자산총계,98347000000,USD,공시,https://www.sec.gov/Archives/edgar/data/315189/000155837023010713/,,4
+Deere,DE,2023Q1,2023-04-30,분기말 부채총계,75846000000,USD,공시,https://www.sec.gov/Archives/edgar/data/315189/000155837023010713/,메자닌(일시자본) 102000000 별도,4
+Deere,DE,2023Q1,2023-04-30,분기말 총자본(자기자본),22399000000,USD,공시,https://www.sec.gov/Archives/edgar/data/315189/000155837023010713/,,4
+Deere,DE,2023Q1,2023-04-30,분기말 지배지분 자본,22395000000,USD,공시,https://www.sec.gov/Archives/edgar/data/315189/000155837023010713/,,4
+Deere,DE,2023Q1,2023-04-28,분기말 종가,378.02,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/DE?interval=1d&events=splits (2023-04-28),,4
+Deere,DE,2023Q1,2023-04-30,분기말 상장주식수,293192141,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/315189/000155837023010713/,dei:EntityCommonStockSharesOutstanding 클래스 합,4
+Deere,DE,2023Q1,2023-04-28,분기말 시가총액,110832493141,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/DE?interval=1d&events=splits (2023-04-28) ; https://www.sec.gov/Archives/edgar/data/315189/000155837023010713/,종가 378.02 × 주식수 293192141,4
+Deere,DE,2023Q2,2023-07-30,분기별 매출액,15801000000,USD,공시,https://www.sec.gov/Archives/edgar/data/315189/000155837023015380/,,4
+Deere,DE,2023Q2,2023-07-30,분기별 영업이익,3516000000,USD,공시,https://www.sec.gov/Archives/edgar/data/315189/000155837023015380/,,4
+Deere,DE,2023Q2,2023-07-30,분기별 당기순이익(지배),2978000000,USD,공시,https://www.sec.gov/Archives/edgar/data/315189/000155837023015380/,,4
+Deere,DE,2023Q2,2023-07-30,분기별 영업활동현금흐름,3043000000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/315189/000155837023015380/ ; https://www.sec.gov/Archives/edgar/data/315189/000155837023010713/,누적 2896000000 − 직전누적 -147000000 (시작 2022-10-31),4
+Deere,DE,2023Q2,2023-07-30,분기말 자산총계,103397000000,USD,공시,https://www.sec.gov/Archives/edgar/data/315189/000155837023015380/,,4
+Deere,DE,2023Q2,2023-07-30,분기말 부채총계,80245000000,USD,공시,https://www.sec.gov/Archives/edgar/data/315189/000155837023015380/,메자닌(일시자본) 101000000 별도,4
+Deere,DE,2023Q2,2023-07-30,분기말 총자본(자기자본),23051000000,USD,공시,https://www.sec.gov/Archives/edgar/data/315189/000155837023015380/,,4
+Deere,DE,2023Q2,2023-07-30,분기말 지배지분 자본,23048000000,USD,공시,https://www.sec.gov/Archives/edgar/data/315189/000155837023015380/,,4
+Deere,DE,2023Q2,2023-07-28,분기말 종가,427.11,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/DE?interval=1d&events=splits (2023-07-28),,4
+Deere,DE,2023Q2,2023-07-30,분기말 상장주식수,288000577,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/315189/000155837023015380/,dei:EntityCommonStockSharesOutstanding 클래스 합,4
+Deere,DE,2023Q2,2023-07-28,분기말 시가총액,123007926442,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/DE?interval=1d&events=splits (2023-07-28) ; https://www.sec.gov/Archives/edgar/data/315189/000155837023015380/,종가 427.11 × 주식수 288000577,4
+Deere,DE,2023Q3,2023-10-29,분기별 매출액,15412000000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/315189/000155837023019812/ ; https://www.sec.gov/Archives/edgar/data/315189/000155837023015380/,연간 61251000000 − 9개월누적 45839000000 (Revenues),4
+Deere,DE,2023Q3,2023-10-29,분기별 영업이익,3026000000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/315189/000155837023019812/ ; https://www.sec.gov/Archives/edgar/data/315189/000155837023015380/,연간 12958000000 − 9개월누적 9932000000 (OperatingIncomeLoss),4
+Deere,DE,2023Q3,2023-10-29,분기별 당기순이익(지배),2369000000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/315189/000155837023019812/ ; https://www.sec.gov/Archives/edgar/data/315189/000155837023015380/,연간 10166000000 − 9개월누적 7797000000 (NetIncomeLoss),4
+Deere,DE,2023Q3,2023-10-29,분기별 영업활동현금흐름,5693000000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/315189/000155837023019812/ ; https://www.sec.gov/Archives/edgar/data/315189/000155837023015380/,누적 8589000000 − 직전누적 2896000000 (시작 2022-10-31),4
+Deere,DE,2023Q3,2023-10-29,분기말 자산총계,104087000000,USD,공시,https://www.sec.gov/Archives/edgar/data/315189/000155837023019812/,,4
+Deere,DE,2023Q3,2023-10-29,분기말 부채총계,82201000000,USD,공시,https://www.sec.gov/Archives/edgar/data/315189/000155837023019812/,메자닌(일시자본) 97000000 별도,4
+Deere,DE,2023Q3,2023-10-29,분기말 총자본(자기자본),21789000000,USD,공시,https://www.sec.gov/Archives/edgar/data/315189/000155837023019812/,,4
+Deere,DE,2023Q3,2023-10-29,분기말 지배지분 자본,21785000000,USD,공시,https://www.sec.gov/Archives/edgar/data/315189/000155837023019812/,,4
+Deere,DE,2023Q3,2023-10-27,분기말 종가,361.15,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/DE?interval=1d&events=splits (2023-10-27),,4
+Deere,DE,2023Q3,2023-11-30,분기말 상장주식수,280255442,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/315189/000155837023019812/,dei:EntityCommonStockSharesOutstanding 클래스 합,4
+Deere,DE,2023Q3,2023-10-27,분기말 시가총액,101214252878,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/DE?interval=1d&events=splits (2023-10-27) ; https://www.sec.gov/Archives/edgar/data/315189/000155837023019812/,종가 361.15 × 주식수 280255442,4
+Deere,DE,2023Q4,2024-01-28,분기별 매출액,12185000000,USD,공시,https://www.sec.gov/Archives/edgar/data/315189/000155837024002149/,,4
+Deere,DE,2023Q4,2024-01-28,분기별 영업이익,미확인,USD,미확인,SEC companyfacts CIK0000315189: 해당 보고서에 OperatingIncomeLoss 태그 없음(영업이익 미공시) ; https://www.sec.gov/Archives/edgar/data/315189/000155837024002149/,,4
+Deere,DE,2023Q4,2024-01-28,분기별 당기순이익(지배),1751000000,USD,공시,https://www.sec.gov/Archives/edgar/data/315189/000155837024002149/,,4
+Deere,DE,2023Q4,2024-01-28,분기별 영업활동현금흐름,-908000000,USD,공시,https://www.sec.gov/Archives/edgar/data/315189/000155837024002149/,,4
+Deere,DE,2023Q4,2024-01-28,분기말 자산총계,101371000000,USD,공시,https://www.sec.gov/Archives/edgar/data/315189/000155837024002149/,,4
+Deere,DE,2023Q4,2024-01-28,분기말 부채총계,79192000000,USD,공시,https://www.sec.gov/Archives/edgar/data/315189/000155837024002149/,메자닌(일시자본) 100000000 별도,4
+Deere,DE,2023Q4,2024-01-28,분기말 총자본(자기자본),22079000000,USD,공시,https://www.sec.gov/Archives/edgar/data/315189/000155837024002149/,,4
+Deere,DE,2023Q4,2024-01-28,분기말 지배지분 자본,22075000000,USD,공시,https://www.sec.gov/Archives/edgar/data/315189/000155837024002149/,,4
+Deere,DE,2023Q4,2024-01-26,분기말 종가,393.62,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/DE?interval=1d&events=splits (2024-01-26),,4
+Deere,DE,2023Q4,2024-01-28,분기말 상장주식수,278358210,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/315189/000155837024002149/,dei:EntityCommonStockSharesOutstanding 클래스 합,4
+Deere,DE,2023Q4,2024-01-26,분기말 시가총액,109567358620,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/DE?interval=1d&events=splits (2024-01-26) ; https://www.sec.gov/Archives/edgar/data/315189/000155837024002149/,종가 393.62 × 주식수 278358210,4
+Deere,DE,2024Q1,2024-04-28,분기별 매출액,15235000000,USD,공시,https://www.sec.gov/Archives/edgar/data/315189/000155837024008770/,,4
+Deere,DE,2024Q1,2024-04-28,분기별 영업이익,미확인,USD,미확인,SEC companyfacts CIK0000315189: 해당 보고서에 OperatingIncomeLoss 태그 없음(영업이익 미공시) ; https://www.sec.gov/Archives/edgar/data/315189/000155837024008770/,,4
+Deere,DE,2024Q1,2024-04-28,분기별 당기순이익(지배),2370000000,USD,공시,https://www.sec.gov/Archives/edgar/data/315189/000155837024008770/,,4
+Deere,DE,2024Q1,2024-04-28,분기별 영업활동현금흐름,1852000000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/315189/000155837024008770/ ; https://www.sec.gov/Archives/edgar/data/315189/000155837024002149/,누적 944000000 − 직전누적 -908000000 (시작 2023-10-30),4
+Deere,DE,2024Q1,2024-04-28,분기말 자산총계,105628000000,USD,공시,https://www.sec.gov/Archives/edgar/data/315189/000155837024008770/,,4
+Deere,DE,2024Q1,2024-04-28,분기말 부채총계,82842000000,USD,공시,https://www.sec.gov/Archives/edgar/data/315189/000155837024008770/,메자닌(일시자본) 98000000 별도,4
+Deere,DE,2024Q1,2024-04-28,분기말 총자본(자기자본),22688000000,USD,공시,https://www.sec.gov/Archives/edgar/data/315189/000155837024008770/,,4
+Deere,DE,2024Q1,2024-04-28,분기말 지배지분 자본,22684000000,USD,공시,https://www.sec.gov/Archives/edgar/data/315189/000155837024008770/,,4
+Deere,DE,2024Q1,2024-04-26,분기말 종가,393.33,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/DE?interval=1d&events=splits (2024-04-26),,4
+Deere,DE,2024Q1,2024-04-28,분기말 상장주식수,275570318,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/315189/000155837024008770/,dei:EntityCommonStockSharesOutstanding 클래스 합,4
+Deere,DE,2024Q1,2024-04-26,분기말 시가총액,108390073179,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/DE?interval=1d&events=splits (2024-04-26) ; https://www.sec.gov/Archives/edgar/data/315189/000155837024008770/,종가 393.33 × 주식수 275570318,4
+Deere,DE,2024Q2,2024-07-28,분기별 매출액,13152000000,USD,공시,https://www.sec.gov/Archives/edgar/data/315189/000155837024012529/,,4
+Deere,DE,2024Q2,2024-07-28,분기별 영업이익,미확인,USD,미확인,SEC companyfacts CIK0000315189: 해당 보고서에 OperatingIncomeLoss 태그 없음(영업이익 미공시) ; https://www.sec.gov/Archives/edgar/data/315189/000155837024012529/,,4
+Deere,DE,2024Q2,2024-07-28,분기별 당기순이익(지배),1734000000,USD,공시,https://www.sec.gov/Archives/edgar/data/315189/000155837024012529/,,4
+Deere,DE,2024Q2,2024-07-28,분기별 영업활동현금흐름,3195000000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/315189/000155837024012529/ ; https://www.sec.gov/Archives/edgar/data/315189/000155837024008770/,누적 4139000000 − 직전누적 944000000 (시작 2023-10-30),4
+Deere,DE,2024Q2,2024-07-28,분기말 자산총계,107841000000,USD,공시,https://www.sec.gov/Archives/edgar/data/315189/000155837024012529/,,4
+Deere,DE,2024Q2,2024-07-28,분기말 부채총계,84692000000,USD,공시,https://www.sec.gov/Archives/edgar/data/315189/000155837024012529/,메자닌(일시자본) 84000000 별도,4
+Deere,DE,2024Q2,2024-07-28,분기말 총자본(자기자본),23065000000,USD,공시,https://www.sec.gov/Archives/edgar/data/315189/000155837024012529/,,4
+Deere,DE,2024Q2,2024-07-28,분기말 지배지분 자본,23062000000,USD,공시,https://www.sec.gov/Archives/edgar/data/315189/000155837024012529/,,4
+Deere,DE,2024Q2,2024-07-26,분기말 종가,386.55,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/DE?interval=1d&events=splits (2024-07-26),,4
+Deere,DE,2024Q2,2024-07-28,분기말 상장주식수,273599818,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/315189/000155837024012529/,dei:EntityCommonStockSharesOutstanding 클래스 합,4
+Deere,DE,2024Q2,2024-07-26,분기말 시가총액,105760009648,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/DE?interval=1d&events=splits (2024-07-26) ; https://www.sec.gov/Archives/edgar/data/315189/000155837024012529/,종가 386.55 × 주식수 273599818,4
+Deere,DE,2024Q3,2024-10-27,분기별 매출액,11144000000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/315189/000155837024016169/ ; https://www.sec.gov/Archives/edgar/data/315189/000155837024012529/,연간 51716000000 − 9개월누적 40572000000 (Revenues),4
+Deere,DE,2024Q3,2024-10-27,분기별 영업이익,미확인,USD,미확인,SEC companyfacts CIK0000315189: 해당 보고서에 OperatingIncomeLoss 태그 없음(영업이익 미공시) ; https://www.sec.gov/Archives/edgar/data/315189/000155837024016169/,,4
+Deere,DE,2024Q3,2024-10-27,분기별 당기순이익(지배),1245000000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/315189/000155837024016169/ ; https://www.sec.gov/Archives/edgar/data/315189/000155837024012529/,연간 7100000000 − 9개월누적 5855000000 (NetIncomeLoss),4
+Deere,DE,2024Q3,2024-10-27,분기별 영업활동현금흐름,5092000000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/315189/000155837024016169/ ; https://www.sec.gov/Archives/edgar/data/315189/000155837024012529/,누적 9231000000 − 직전누적 4139000000 (시작 2023-10-30),4
+Deere,DE,2024Q3,2024-10-27,분기말 자산총계,107320000000,USD,공시,https://www.sec.gov/Archives/edgar/data/315189/000155837024016169/,,4
+Deere,DE,2024Q3,2024-10-27,분기말 부채총계,84395000000,USD,공시,https://www.sec.gov/Archives/edgar/data/315189/000155837024016169/,메자닌(일시자본) 82000000 별도,4
+Deere,DE,2024Q3,2024-10-27,분기말 총자본(자기자본),22843000000,USD,공시,https://www.sec.gov/Archives/edgar/data/315189/000155837024016169/,,4
+Deere,DE,2024Q3,2024-10-27,분기말 지배지분 자본,22836000000,USD,공시,https://www.sec.gov/Archives/edgar/data/315189/000155837024016169/,,4
+Deere,DE,2024Q3,2024-10-25,분기말 종가,407.93,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/DE?interval=1d&events=splits (2024-10-25),,4
+Deere,DE,2024Q3,2024-11-29,분기말 상장주식수,271575282,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/315189/000155837024016169/,dei:EntityCommonStockSharesOutstanding 클래스 합,4
+Deere,DE,2024Q3,2024-10-25,분기말 시가총액,110783704786,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/DE?interval=1d&events=splits (2024-10-25) ; https://www.sec.gov/Archives/edgar/data/315189/000155837024016169/,종가 407.93 × 주식수 271575282,4
+Deere,DE,2024Q4,2025-01-26,분기별 매출액,8508000000,USD,공시,https://www.sec.gov/Archives/edgar/data/315189/000155837025001714/,,4
+Deere,DE,2024Q4,2025-01-26,분기별 영업이익,미확인,USD,미확인,SEC companyfacts CIK0000315189: 해당 보고서에 OperatingIncomeLoss 태그 없음(영업이익 미공시) ; https://www.sec.gov/Archives/edgar/data/315189/000155837025001714/,,4
+Deere,DE,2024Q4,2025-01-26,분기별 당기순이익(지배),869000000,USD,공시,https://www.sec.gov/Archives/edgar/data/315189/000155837025001714/,,4
+Deere,DE,2024Q4,2025-01-26,분기별 영업활동현금흐름,-1132000000,USD,공시,https://www.sec.gov/Archives/edgar/data/315189/000155837025001714/,,4
+Deere,DE,2024Q4,2025-01-26,분기말 자산총계,103119000000,USD,공시,https://www.sec.gov/Archives/edgar/data/315189/000155837025001714/,,4
+Deere,DE,2024Q4,2025-01-26,분기말 부채총계,80555000000,USD,공시,https://www.sec.gov/Archives/edgar/data/315189/000155837025001714/,메자닌(일시자본) 78000000 별도,4
+Deere,DE,2024Q4,2025-01-26,분기말 총자본(자기자본),22486000000,USD,공시,https://www.sec.gov/Archives/edgar/data/315189/000155837025001714/,,4
+Deere,DE,2024Q4,2025-01-26,분기말 지배지분 자본,22479000000,USD,공시,https://www.sec.gov/Archives/edgar/data/315189/000155837025001714/,,4
+Deere,DE,2024Q4,2025-01-24,분기말 종가,478.77,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/DE?interval=1d&events=splits (2025-01-24),,4
+Deere,DE,2024Q4,2025-01-26,분기말 상장주식수,271413927,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/315189/000155837025001714/,dei:EntityCommonStockSharesOutstanding 클래스 합,4
+Deere,DE,2024Q4,2025-01-24,분기말 시가총액,129944845830,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/DE?interval=1d&events=splits (2025-01-24) ; https://www.sec.gov/Archives/edgar/data/315189/000155837025001714/,종가 478.77 × 주식수 271413927,4
+Deere,DE,2025Q1,2025-04-27,분기별 매출액,12763000000,USD,공시,https://www.sec.gov/Archives/edgar/data/315189/000155837025008218/,,4
+Deere,DE,2025Q1,2025-04-27,분기별 영업이익,미확인,USD,미확인,SEC companyfacts CIK0000315189: 해당 보고서에 OperatingIncomeLoss 태그 없음(영업이익 미공시) ; https://www.sec.gov/Archives/edgar/data/315189/000155837025008218/,,4
+Deere,DE,2025Q1,2025-04-27,분기별 당기순이익(지배),1804000000,USD,공시,https://www.sec.gov/Archives/edgar/data/315189/000155837025008218/,,4
+Deere,DE,2025Q1,2025-04-27,분기별 영업활동현금흐름,1700000000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/315189/000155837025008218/ ; https://www.sec.gov/Archives/edgar/data/315189/000155837025001714/,누적 568000000 − 직전누적 -1132000000 (시작 2024-10-28),4
+Deere,DE,2025Q1,2025-04-27,분기말 자산총계,106303000000,USD,공시,https://www.sec.gov/Archives/edgar/data/315189/000155837025008218/,,4
+Deere,DE,2025Q1,2025-04-27,분기말 부채총계,81925000000,USD,공시,https://www.sec.gov/Archives/edgar/data/315189/000155837025008218/,메자닌(일시자본) 83000000 별도,4
+Deere,DE,2025Q1,2025-04-27,분기말 총자본(자기자본),24295000000,USD,공시,https://www.sec.gov/Archives/edgar/data/315189/000155837025008218/,,4
+Deere,DE,2025Q1,2025-04-27,분기말 지배지분 자본,24287000000,USD,공시,https://www.sec.gov/Archives/edgar/data/315189/000155837025008218/,,4
+Deere,DE,2025Q1,2025-04-25,분기말 종가,459.3,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/DE?interval=1d&events=splits (2025-04-25),,4
+Deere,DE,2025Q1,2025-04-27,분기말 상장주식수,270827055,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/315189/000155837025008218/,dei:EntityCommonStockSharesOutstanding 클래스 합,4
+Deere,DE,2025Q1,2025-04-25,분기말 시가총액,124390866362,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/DE?interval=1d&events=splits (2025-04-25) ; https://www.sec.gov/Archives/edgar/data/315189/000155837025008218/,종가 459.3 × 주식수 270827055,4
+Deere,DE,2025Q2,2025-07-27,분기별 매출액,12018000000,USD,공시,https://www.sec.gov/Archives/edgar/data/315189/000155837025011789/,,4
+Deere,DE,2025Q2,2025-07-27,분기별 영업이익,미확인,USD,미확인,SEC companyfacts CIK0000315189: 해당 보고서에 OperatingIncomeLoss 태그 없음(영업이익 미공시) ; https://www.sec.gov/Archives/edgar/data/315189/000155837025011789/,,4
+Deere,DE,2025Q2,2025-07-27,분기별 당기순이익(지배),1289000000,USD,공시,https://www.sec.gov/Archives/edgar/data/315189/000155837025011789/,,4
+Deere,DE,2025Q2,2025-07-27,분기별 영업활동현금흐름,2896000000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/315189/000155837025011789/ ; https://www.sec.gov/Archives/edgar/data/315189/000155837025008218/,누적 3464000000 − 직전누적 568000000 (시작 2024-10-28),4
+Deere,DE,2025Q2,2025-07-27,분기말 자산총계,107817000000,USD,공시,https://www.sec.gov/Archives/edgar/data/315189/000155837025011789/,,4
+Deere,DE,2025Q2,2025-07-27,분기말 부채총계,82553000000,USD,공시,https://www.sec.gov/Archives/edgar/data/315189/000155837025011789/,메자닌(일시자본) 84000000 별도,4
+Deere,DE,2025Q2,2025-07-27,분기말 총자본(자기자본),25180000000,USD,공시,https://www.sec.gov/Archives/edgar/data/315189/000155837025011789/,,4
+Deere,DE,2025Q2,2025-07-27,분기말 지배지분 자본,25175000000,USD,공시,https://www.sec.gov/Archives/edgar/data/315189/000155837025011789/,,4
+Deere,DE,2025Q2,2025-07-25,분기말 종가,517.38,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/DE?interval=1d&events=splits (2025-07-25),,4
+Deere,DE,2025Q2,2025-07-27,분기말 상장주식수,270329392,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/315189/000155837025011789/,dei:EntityCommonStockSharesOutstanding 클래스 합,4
+Deere,DE,2025Q2,2025-07-25,분기말 시가총액,139863020833,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/DE?interval=1d&events=splits (2025-07-25) ; https://www.sec.gov/Archives/edgar/data/315189/000155837025011789/,종가 517.38 × 주식수 270329392,4
+Deere,DE,2025Q3,2025-11-02,분기별 매출액,12394000000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/315189/000110465925122321/ ; https://www.sec.gov/Archives/edgar/data/315189/000155837025011789/,연간 45684000000 − 9개월누적 33290000000 (Revenues),4
+Deere,DE,2025Q3,2025-11-02,분기별 영업이익,미확인,USD,미확인,SEC companyfacts CIK0000315189: 해당 보고서에 OperatingIncomeLoss 태그 없음(영업이익 미공시) ; https://www.sec.gov/Archives/edgar/data/315189/000110465925122321/,,4
+Deere,DE,2025Q3,2025-11-02,분기별 당기순이익(지배),1065000000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/315189/000110465925122321/ ; https://www.sec.gov/Archives/edgar/data/315189/000155837025011789/,연간 5027000000 − 9개월누적 3962000000 (NetIncomeLoss),4
+Deere,DE,2025Q3,2025-11-02,분기별 영업활동현금흐름,3995000000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/315189/000110465925122321/ ; https://www.sec.gov/Archives/edgar/data/315189/000155837025011789/,누적 7459000000 − 직전누적 3464000000 (시작 2024-10-28),4
+Deere,DE,2025Q3,2025-11-02,분기말 자산총계,105996000000,USD,공시,https://www.sec.gov/Archives/edgar/data/315189/000110465925122321/,,4
+Deere,DE,2025Q3,2025-11-02,분기말 부채총계,79989000000,USD,공시,https://www.sec.gov/Archives/edgar/data/315189/000110465925122321/,메자닌(일시자본) 51000000 별도,4
+Deere,DE,2025Q3,2025-11-02,분기말 총자본(자기자본),25956000000,USD,공시,https://www.sec.gov/Archives/edgar/data/315189/000110465925122321/,,4
+Deere,DE,2025Q3,2025-11-02,분기말 지배지분 자본,25950000000,USD,공시,https://www.sec.gov/Archives/edgar/data/315189/000110465925122321/,,4
+Deere,DE,2025Q3,2025-10-31,분기말 종가,461.63,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/DE?interval=1d&events=splits (2025-10-31),,4
+Deere,DE,2025Q3,2025-11-28,분기말 상장주식수,270445437,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/315189/000110465925122321/,dei:EntityCommonStockSharesOutstanding 클래스 합,4
+Deere,DE,2025Q3,2025-10-31,분기말 시가총액,124845727082,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/DE?interval=1d&events=splits (2025-10-31) ; https://www.sec.gov/Archives/edgar/data/315189/000110465925122321/,종가 461.63 × 주식수 270445437,4
+Deere,DE,2025Q4,2026-02-01,분기별 매출액,9611000000,USD,공시,https://www.sec.gov/Archives/edgar/data/315189/000110465926020158/,,4
+Deere,DE,2025Q4,2026-02-01,분기별 영업이익,미확인,USD,미확인,SEC companyfacts CIK0000315189: 해당 보고서에 OperatingIncomeLoss 태그 없음(영업이익 미공시) ; https://www.sec.gov/Archives/edgar/data/315189/000110465926020158/,,4
+Deere,DE,2025Q4,2026-02-01,분기별 당기순이익(지배),656000000,USD,공시,https://www.sec.gov/Archives/edgar/data/315189/000110465926020158/,,4
+Deere,DE,2025Q4,2026-02-01,분기별 영업활동현금흐름,-890000000,USD,공시,https://www.sec.gov/Archives/edgar/data/315189/000110465926020158/,,4
+Deere,DE,2025Q4,2026-02-01,분기말 자산총계,103436000000,USD,공시,https://www.sec.gov/Archives/edgar/data/315189/000110465926020158/,,4
+Deere,DE,2025Q4,2026-02-01,분기말 부채총계,77079000000,USD,공시,https://www.sec.gov/Archives/edgar/data/315189/000110465926020158/,메자닌(일시자본) 50000000 별도,4
+Deere,DE,2025Q4,2026-02-01,분기말 총자본(자기자본),26307000000,USD,공시,https://www.sec.gov/Archives/edgar/data/315189/000110465926020158/,,4
+Deere,DE,2025Q4,2026-02-01,분기말 지배지분 자본,26300000000,USD,공시,https://www.sec.gov/Archives/edgar/data/315189/000110465926020158/,,4
+Deere,DE,2025Q4,2026-01-30,분기말 종가,528.0,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/DE?interval=1d&events=splits (2026-01-30),,4
+Deere,DE,2025Q4,2026-02-01,분기말 상장주식수,270107282,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/315189/000110465926020158/,dei:EntityCommonStockSharesOutstanding 클래스 합,4
+Deere,DE,2025Q4,2026-01-30,분기말 시가총액,142616644896,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/DE?interval=1d&events=splits (2026-01-30) ; https://www.sec.gov/Archives/edgar/data/315189/000110465926020158/,종가 528.0 × 주식수 270107282,4
+Deere,DE,2026Q1,2026-05-03,분기별 매출액,13369000000,USD,공시,https://www.sec.gov/Archives/edgar/data/315189/000110465926067311/,,4
+Deere,DE,2026Q1,2026-05-03,분기별 영업이익,미확인,USD,미확인,SEC companyfacts CIK0000315189: 해당 보고서에 OperatingIncomeLoss 태그 없음(영업이익 미공시) ; https://www.sec.gov/Archives/edgar/data/315189/000110465926067311/,,4
+Deere,DE,2026Q1,2026-05-03,분기별 당기순이익(지배),1773000000,USD,공시,https://www.sec.gov/Archives/edgar/data/315189/000110465926067311/,,4
+Deere,DE,2026Q1,2026-05-03,분기별 영업활동현금흐름,1932000000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/315189/000110465926067311/ ; https://www.sec.gov/Archives/edgar/data/315189/000110465926020158/,누적 1042000000 − 직전누적 -890000000 (시작 2025-11-03),4
+Deere,DE,2026Q1,2026-05-03,분기말 자산총계,107001000000,USD,공시,https://www.sec.gov/Archives/edgar/data/315189/000110465926067311/,,4
+Deere,DE,2026Q1,2026-05-03,분기말 부채총계,79541000000,USD,공시,https://www.sec.gov/Archives/edgar/data/315189/000110465926067311/,메자닌(일시자본) 47000000 별도,4
+Deere,DE,2026Q1,2026-05-03,분기말 총자본(자기자본),27413000000,USD,공시,https://www.sec.gov/Archives/edgar/data/315189/000110465926067311/,,4
+Deere,DE,2026Q1,2026-05-03,분기말 지배지분 자본,27406000000,USD,공시,https://www.sec.gov/Archives/edgar/data/315189/000110465926067311/,,4
+Deere,DE,2026Q1,2026-05-01,분기말 종가,577.26,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/DE?interval=1d&events=splits (2026-05-01),,4
+Deere,DE,2026Q1,2026-05-03,분기말 상장주식수,269937425,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/315189/000110465926067311/,dei:EntityCommonStockSharesOutstanding 클래스 합,4
+Deere,DE,2026Q1,2026-05-01,분기말 시가총액,155824077956,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/DE?interval=1d&events=splits (2026-05-01) ; https://www.sec.gov/Archives/edgar/data/315189/000110465926067311/,종가 577.26 × 주식수 269937425,4
+Deere,DE,2026Q2,2026-08-02,분기별 매출액,12608000000,USD,공시,https://www.sec.gov/Archives/edgar/data/315189/000110465926102213/,,4
+Deere,DE,2026Q2,2026-08-02,분기별 영업이익,미확인,USD,미확인,SEC companyfacts CIK0000315189: 해당 보고서에 OperatingIncomeLoss 태그 없음(영업이익 미공시) ; https://www.sec.gov/Archives/edgar/data/315189/000110465926102213/,,4
+Deere,DE,2026Q2,2026-08-02,분기별 당기순이익(지배),1379000000,USD,공시,https://www.sec.gov/Archives/edgar/data/315189/000110465926102213/,,4
+Deere,DE,2026Q2,2026-08-02,분기별 영업활동현금흐름,2208000000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/315189/000110465926102213/ ; https://www.sec.gov/Archives/edgar/data/315189/000110465926067311/,누적 3250000000 − 직전누적 1042000000 (시작 2025-11-03),4
+Deere,DE,2026Q2,2026-08-02,분기말 자산총계,107607000000,USD,공시,https://www.sec.gov/Archives/edgar/data/315189/000110465926102213/,,4
+Deere,DE,2026Q2,2026-08-02,분기말 부채총계,79566000000,USD,공시,https://www.sec.gov/Archives/edgar/data/315189/000110465926102213/,메자닌(일시자본) 44000000 별도,4
+Deere,DE,2026Q2,2026-08-02,분기말 총자본(자기자본),27997000000,USD,공시,https://www.sec.gov/Archives/edgar/data/315189/000110465926102213/,,4
+Deere,DE,2026Q2,2026-08-02,분기말 지배지분 자본,27990000000,USD,공시,https://www.sec.gov/Archives/edgar/data/315189/000110465926102213/,,4
+Deere,DE,2026Q2,2026-07-31,분기말 종가,592.67,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/DE?interval=1d&events=splits (2026-07-31),,4
+Deere,DE,2026Q2,2026-08-02,분기말 상장주식수,269625412,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/315189/000110465926102213/,dei:EntityCommonStockSharesOutstanding 클래스 합,4
+Deere,DE,2026Q2,2026-07-31,분기말 시가총액,159798892930,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/DE?interval=1d&events=splits (2026-07-31) ; https://www.sec.gov/Archives/edgar/data/315189/000110465926102213/,종가 592.67 × 주식수 269625412,4

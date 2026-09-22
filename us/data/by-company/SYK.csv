@@ -1,0 +1,727 @@
+﻿기업,종목코드,기간,기준일,항목,값,통화,값구분,출처,검산,라운드
+Stryker,SYK,2010Q1,2010-03-31,분기별 매출액,1799100000,USD,공시,https://www.sec.gov/Archives/edgar/data/310764/000119312510098095/,,6
+Stryker,SYK,2010Q1,2010-03-31,분기별 영업이익,446400000,USD,공시,https://www.sec.gov/Archives/edgar/data/310764/000119312510098095/,,6
+Stryker,SYK,2010Q1,2010-03-31,분기별 당기순이익(지배),321700000,USD,공시,https://www.sec.gov/Archives/edgar/data/310764/000119312510098095/,,6
+Stryker,SYK,2010Q1,2010-03-31,분기별 영업활동현금흐름,274800000,USD,공시,https://www.sec.gov/Archives/edgar/data/310764/000119312510098095/,,6
+Stryker,SYK,2010Q1,2010-03-31,분기말 자산총계,10098400000,USD,공시,https://www.sec.gov/Archives/edgar/data/310764/000119312510098095/,,6
+Stryker,SYK,2010Q1,2010-03-31,분기말 부채총계,3427600000,USD,계산(부채및자본-총자본),https://www.sec.gov/Archives/edgar/data/310764/000119312510098095/,부채및자본 10098400000 − 총자본 6670800000,6
+Stryker,SYK,2010Q1,2010-03-31,분기말 총자본(자기자본),6670800000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/310764/000119312510098095/,"StockholdersEquity, MinorityInterest 태그 없음",6
+Stryker,SYK,2010Q1,2010-03-31,분기말 지배지분 자본,6670800000,USD,공시,https://www.sec.gov/Archives/edgar/data/310764/000119312510098095/,,6
+Stryker,SYK,2010Q1,2010-03-31,분기말 종가,57.22,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/SYK?interval=1d&events=splits (2010-03-31),,6
+Stryker,SYK,2010Q1,2010-03-31,분기말 상장주식수,396698933,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/310764/000119312510098095/,dei:EntityCommonStockSharesOutstanding 클래스 합,6
+Stryker,SYK,2010Q1,2010-03-31,분기말 시가총액,22699112946,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/SYK?interval=1d&events=splits (2010-03-31) ; https://www.sec.gov/Archives/edgar/data/310764/000119312510098095/,종가 57.22 × 주식수 396698933,6
+Stryker,SYK,2010Q2,2010-06-30,분기별 매출액,1758200000,USD,공시,https://www.sec.gov/Archives/edgar/data/310764/000119312510182697/,,6
+Stryker,SYK,2010Q2,2010-06-30,분기별 영업이익,448100000,USD,공시,https://www.sec.gov/Archives/edgar/data/310764/000119312510182697/,,6
+Stryker,SYK,2010Q2,2010-06-30,분기별 당기순이익(지배),319000000,USD,공시,https://www.sec.gov/Archives/edgar/data/310764/000119312510182697/,,6
+Stryker,SYK,2010Q2,2010-06-30,분기별 영업활동현금흐름,326700000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/310764/000119312510182697/ ; https://www.sec.gov/Archives/edgar/data/310764/000119312510098095/,누적 601500000 − 직전누적 274800000 (시작 2010-01-01),6
+Stryker,SYK,2010Q2,2010-06-30,분기말 자산총계,10060100000,USD,공시,https://www.sec.gov/Archives/edgar/data/310764/000119312510182697/,,6
+Stryker,SYK,2010Q2,2010-06-30,분기말 부채총계,3314600000,USD,계산(부채및자본-총자본),https://www.sec.gov/Archives/edgar/data/310764/000119312510182697/,부채및자본 10060100000 − 총자본 6745500000,6
+Stryker,SYK,2010Q2,2010-06-30,분기말 총자본(자기자본),6745500000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/310764/000119312510182697/,"StockholdersEquity, MinorityInterest 태그 없음",6
+Stryker,SYK,2010Q2,2010-06-30,분기말 지배지분 자본,6745500000,USD,공시,https://www.sec.gov/Archives/edgar/data/310764/000119312510182697/,,6
+Stryker,SYK,2010Q2,2010-06-30,분기말 종가,50.06,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/SYK?interval=1d&events=splits (2010-06-30),,6
+Stryker,SYK,2010Q2,2010-07-31,분기말 상장주식수,396940168,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/310764/000119312510182697/,dei:EntityCommonStockSharesOutstanding 클래스 합,6
+Stryker,SYK,2010Q2,2010-06-30,분기말 시가총액,19870824810,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/SYK?interval=1d&events=splits (2010-06-30) ; https://www.sec.gov/Archives/edgar/data/310764/000119312510182697/,종가 50.06 × 주식수 396940168,6
+Stryker,SYK,2010Q3,2010-09-30,분기별 매출액,1767600000,USD,공시,https://www.sec.gov/Archives/edgar/data/310764/000119312510248001/,,6
+Stryker,SYK,2010Q3,2010-09-30,분기별 영업이익,470500000,USD,공시,https://www.sec.gov/Archives/edgar/data/310764/000119312510248001/,,6
+Stryker,SYK,2010Q3,2010-09-30,분기별 당기순이익(지배),337700000,USD,공시,https://www.sec.gov/Archives/edgar/data/310764/000119312510248001/,,6
+Stryker,SYK,2010Q3,2010-09-30,분기별 영업활동현금흐름,428300000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/310764/000119312510248001/ ; https://www.sec.gov/Archives/edgar/data/310764/000119312510182697/,누적 1029800000 − 직전누적 601500000 (시작 2010-01-01),6
+Stryker,SYK,2010Q3,2010-09-30,분기말 자산총계,10771900000,USD,공시,https://www.sec.gov/Archives/edgar/data/310764/000119312510248001/,,6
+Stryker,SYK,2010Q3,2010-09-30,분기말 부채총계,3465900000,USD,계산(부채및자본-총자본),https://www.sec.gov/Archives/edgar/data/310764/000119312510248001/,부채및자본 10771900000 − 총자본 7306000000,6
+Stryker,SYK,2010Q3,2010-09-30,분기말 총자본(자기자본),7306000000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/310764/000119312510248001/,"StockholdersEquity, MinorityInterest 태그 없음",6
+Stryker,SYK,2010Q3,2010-09-30,분기말 지배지분 자본,7306000000,USD,공시,https://www.sec.gov/Archives/edgar/data/310764/000119312510248001/,,6
+Stryker,SYK,2010Q3,2010-09-30,분기말 종가,50.05,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/SYK?interval=1d&events=splits (2010-09-30),,6
+Stryker,SYK,2010Q3,2010-10-31,분기말 상장주식수,397120134,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/310764/000119312510248001/,dei:EntityCommonStockSharesOutstanding 클래스 합,6
+Stryker,SYK,2010Q3,2010-09-30,분기말 시가총액,19875862707,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/SYK?interval=1d&events=splits (2010-09-30) ; https://www.sec.gov/Archives/edgar/data/310764/000119312510248001/,종가 50.05 × 주식수 397120134,6
+Stryker,SYK,2010Q4,2010-12-31,분기별 매출액,1995100000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/310764/000119312511039845/ ; https://www.sec.gov/Archives/edgar/data/310764/000119312510248001/,연간 7320000000 − 9개월누적 5324900000 (SalesRevenueNet),6
+Stryker,SYK,2010Q4,2010-12-31,분기별 영업이익,386400000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/310764/000119312511039845/ ; https://www.sec.gov/Archives/edgar/data/310764/000119312510248001/,연간 1751400000 − 9개월누적 1365000000 (OperatingIncomeLoss),6
+Stryker,SYK,2010Q4,2010-12-31,분기별 당기순이익(지배),295000000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/310764/000119312511039845/ ; https://www.sec.gov/Archives/edgar/data/310764/000119312510248001/,연간 1273400000 − 9개월누적 978400000 (NetIncomeLoss),6
+Stryker,SYK,2010Q4,2010-12-31,분기별 영업활동현금흐름,517600000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/310764/000119312511039845/ ; https://www.sec.gov/Archives/edgar/data/310764/000119312510248001/,누적 1547400000 − 직전누적 1029800000 (시작 2010-01-01),6
+Stryker,SYK,2010Q4,2010-12-31,분기말 자산총계,10895100000,USD,공시,https://www.sec.gov/Archives/edgar/data/310764/000119312511039845/,,6
+Stryker,SYK,2010Q4,2010-12-31,분기말 부채총계,3721500000,USD,계산(부채및자본-총자본),https://www.sec.gov/Archives/edgar/data/310764/000119312511039845/,부채및자본 10895100000 − 총자본 7173600000,6
+Stryker,SYK,2010Q4,2010-12-31,분기말 총자본(자기자본),7173600000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/310764/000119312511039845/,"StockholdersEquity, MinorityInterest 태그 없음",6
+Stryker,SYK,2010Q4,2010-12-31,분기말 지배지분 자본,7173600000,USD,공시,https://www.sec.gov/Archives/edgar/data/310764/000119312511039845/,,6
+Stryker,SYK,2010Q4,2010-12-31,분기말 종가,53.7,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/SYK?interval=1d&events=splits (2010-12-31),,6
+Stryker,SYK,2010Q4,2011-01-31,분기말 상장주식수,391246163,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/310764/000119312511039845/,dei:EntityCommonStockSharesOutstanding 클래스 합,6
+Stryker,SYK,2010Q4,2010-12-31,분기말 시가총액,21009918953,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/SYK?interval=1d&events=splits (2010-12-31) ; https://www.sec.gov/Archives/edgar/data/310764/000119312511039845/,종가 53.7 × 주식수 391246163,6
+Stryker,SYK,2011Q1,2011-03-31,분기별 매출액,2015200000,USD,공시,https://www.sec.gov/Archives/edgar/data/310764/000119312511125202/,,6
+Stryker,SYK,2011Q1,2011-03-31,분기별 영업이익,423500000,USD,공시,https://www.sec.gov/Archives/edgar/data/310764/000119312511125202/,,6
+Stryker,SYK,2011Q1,2011-03-31,분기별 당기순이익(지배),307400000,USD,공시,https://www.sec.gov/Archives/edgar/data/310764/000119312511125202/,,6
+Stryker,SYK,2011Q1,2011-03-31,분기별 영업활동현금흐름,204500000,USD,공시,https://www.sec.gov/Archives/edgar/data/310764/000119312511125202/,,6
+Stryker,SYK,2011Q1,2011-03-31,분기말 자산총계,11231000000,USD,공시,https://www.sec.gov/Archives/edgar/data/310764/000119312511125202/,,6
+Stryker,SYK,2011Q1,2011-03-31,분기말 부채총계,3778600000,USD,계산(부채및자본-총자본),https://www.sec.gov/Archives/edgar/data/310764/000119312511125202/,부채및자본 11231000000 − 총자본 7452400000,6
+Stryker,SYK,2011Q1,2011-03-31,분기말 총자본(자기자본),7452400000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/310764/000119312511125202/,"StockholdersEquity, MinorityInterest 태그 없음",6
+Stryker,SYK,2011Q1,2011-03-31,분기말 지배지분 자본,7452400000,USD,공시,https://www.sec.gov/Archives/edgar/data/310764/000119312511125202/,,6
+Stryker,SYK,2011Q1,2011-03-31,분기말 종가,60.8,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/SYK?interval=1d&events=splits (2011-03-31),,6
+Stryker,SYK,2011Q1,2011-03-31,분기말 상장주식수,388004426,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/310764/000119312511125202/,dei:EntityCommonStockSharesOutstanding 클래스 합,6
+Stryker,SYK,2011Q1,2011-03-31,분기말 시가총액,23590669101,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/SYK?interval=1d&events=splits (2011-03-31) ; https://www.sec.gov/Archives/edgar/data/310764/000119312511125202/,종가 60.8 × 주식수 388004426,6
+Stryker,SYK,2011Q2,2011-06-30,분기별 매출액,2045500000,USD,공시,https://www.sec.gov/Archives/edgar/data/310764/000119312511200017/,,6
+Stryker,SYK,2011Q2,2011-06-30,분기별 영업이익,400300000,USD,공시,https://www.sec.gov/Archives/edgar/data/310764/000119312511200017/,,6
+Stryker,SYK,2011Q2,2011-06-30,분기별 당기순이익(지배),309100000,USD,공시,https://www.sec.gov/Archives/edgar/data/310764/000119312511200017/,,6
+Stryker,SYK,2011Q2,2011-06-30,분기별 영업활동현금흐름,156200000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/310764/000119312511200017/ ; https://www.sec.gov/Archives/edgar/data/310764/000119312511125202/,누적 360700000 − 직전누적 204500000 (시작 2011-01-01),6
+Stryker,SYK,2011Q2,2011-06-30,분기말 자산총계,11596400000,USD,공시,https://www.sec.gov/Archives/edgar/data/310764/000119312511200017/,,6
+Stryker,SYK,2011Q2,2011-06-30,분기말 부채총계,3818400000,USD,계산(부채및자본-총자본),https://www.sec.gov/Archives/edgar/data/310764/000119312511200017/,부채및자본 11596400000 − 총자본 7778000000,6
+Stryker,SYK,2011Q2,2011-06-30,분기말 총자본(자기자본),7778000000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/310764/000119312511200017/,"StockholdersEquity, MinorityInterest 태그 없음",6
+Stryker,SYK,2011Q2,2011-06-30,분기말 지배지분 자본,7778000000,USD,공시,https://www.sec.gov/Archives/edgar/data/310764/000119312511200017/,,6
+Stryker,SYK,2011Q2,2011-06-30,분기말 종가,58.69,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/SYK?interval=1d&events=splits (2011-06-30),,6
+Stryker,SYK,2011Q2,2011-06-30,분기말 상장주식수,388328148,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/310764/000119312511200017/,dei:EntityCommonStockSharesOutstanding 클래스 합,6
+Stryker,SYK,2011Q2,2011-06-30,분기말 시가총액,22790979006,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/SYK?interval=1d&events=splits (2011-06-30) ; https://www.sec.gov/Archives/edgar/data/310764/000119312511200017/,종가 58.69 × 주식수 388328148,6
+Stryker,SYK,2011Q3,2011-09-30,분기별 매출액,2031000000,USD,공시,https://www.sec.gov/Archives/edgar/data/310764/000031076411000151/,,6
+Stryker,SYK,2011Q3,2011-09-30,분기별 영업이익,444000000,USD,공시,https://www.sec.gov/Archives/edgar/data/310764/000031076411000151/,,6
+Stryker,SYK,2011Q3,2011-09-30,분기별 당기순이익(지배),327000000,USD,공시,https://www.sec.gov/Archives/edgar/data/310764/000031076411000151/,,6
+Stryker,SYK,2011Q3,2011-09-30,분기별 영업활동현금흐름,446300000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/310764/000031076411000151/ ; https://www.sec.gov/Archives/edgar/data/310764/000119312511200017/,누적 807000000 − 직전누적 360700000 (시작 2011-01-01),6
+Stryker,SYK,2011Q3,2011-09-30,분기말 자산총계,12083000000,USD,공시,https://www.sec.gov/Archives/edgar/data/310764/000031076411000151/,,6
+Stryker,SYK,2011Q3,2011-09-30,분기말 부채총계,4526000000,USD,계산(부채및자본-총자본),https://www.sec.gov/Archives/edgar/data/310764/000031076411000151/,부채및자본 12083000000 − 총자본 7557000000,6
+Stryker,SYK,2011Q3,2011-09-30,분기말 총자본(자기자본),7557000000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/310764/000031076411000151/,"StockholdersEquity, MinorityInterest 태그 없음",6
+Stryker,SYK,2011Q3,2011-09-30,분기말 지배지분 자본,7557000000,USD,공시,https://www.sec.gov/Archives/edgar/data/310764/000031076411000151/,,6
+Stryker,SYK,2011Q3,2011-09-30,분기말 종가,47.13,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/SYK?interval=1d&events=splits (2011-09-30),,6
+Stryker,SYK,2011Q3,2011-09-30,분기말 상장주식수,382672989,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/310764/000031076411000151/,dei:EntityCommonStockSharesOutstanding 클래스 합,6
+Stryker,SYK,2011Q3,2011-09-30,분기말 시가총액,18035377972,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/SYK?interval=1d&events=splits (2011-09-30) ; https://www.sec.gov/Archives/edgar/data/310764/000031076411000151/,종가 47.13 × 주식수 382672989,6
+Stryker,SYK,2011Q4,2011-12-31,분기별 매출액,2215000000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/310764/000031076412000031/ ; https://www.sec.gov/Archives/edgar/data/310764/000031076411000151/,연간 8307000000 − 9개월누적 6092000000 (SalesRevenueNet),6
+Stryker,SYK,2011Q4,2011-12-31,분기별 영업이익,418000000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/310764/000031076412000031/ ; https://www.sec.gov/Archives/edgar/data/310764/000031076411000151/,연간 1686000000 − 9개월누적 1268000000 (OperatingIncomeLoss),6
+Stryker,SYK,2011Q4,2011-12-31,분기별 당기순이익(지배),401000000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/310764/000031076412000031/ ; https://www.sec.gov/Archives/edgar/data/310764/000031076411000151/,연간 1345000000 − 9개월누적 944000000 (NetIncomeLoss),6
+Stryker,SYK,2011Q4,2011-12-31,분기별 영업활동현금흐름,627000000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/310764/000031076412000031/ ; https://www.sec.gov/Archives/edgar/data/310764/000031076411000151/,누적 1434000000 − 직전누적 807000000 (시작 2011-01-01),6
+Stryker,SYK,2011Q4,2011-12-31,분기말 자산총계,12146000000,USD,공시(재작성 반영),https://www.sec.gov/Archives/edgar/data/310764/000031076414000021/,원 공시 12405000000 (https://www.sec.gov/Archives/edgar/data/310764/000031076412000031/),6
+Stryker,SYK,2011Q4,2011-12-31,분기말 부채총계,4463000000,USD,계산(부채및자본-총자본)(재작성 반영),https://www.sec.gov/Archives/edgar/data/310764/000031076413000054/,부채및자본 12146000000 − 총자본 7683000000 ; 원 공시 4722000000 (https://www.sec.gov/Archives/edgar/data/310764/000031076412000031/),6
+Stryker,SYK,2011Q4,2011-12-31,분기말 총자본(자기자본),7683000000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/310764/000031076412000031/,"StockholdersEquity, MinorityInterest 태그 없음",6
+Stryker,SYK,2011Q4,2011-12-31,분기말 지배지분 자본,7683000000,USD,공시,https://www.sec.gov/Archives/edgar/data/310764/000031076412000031/,,6
+Stryker,SYK,2011Q4,2011-12-30,분기말 종가,49.71,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/SYK?interval=1d&events=splits (2011-12-30),,6
+Stryker,SYK,2011Q4,2012-01-31,분기말 상장주식수,381020053,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/310764/000031076412000031/,dei:EntityCommonStockSharesOutstanding 클래스 합,6
+Stryker,SYK,2011Q4,2011-12-30,분기말 시가총액,18940506835,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/SYK?interval=1d&events=splits (2011-12-30) ; https://www.sec.gov/Archives/edgar/data/310764/000031076412000031/,종가 49.71 × 주식수 381020053,6
+Stryker,SYK,2012Q1,2012-03-31,분기별 매출액,2161000000,USD,공시,https://www.sec.gov/Archives/edgar/data/310764/000031076412000129/,,6
+Stryker,SYK,2012Q1,2012-03-31,분기별 영업이익,476000000,USD,공시,https://www.sec.gov/Archives/edgar/data/310764/000031076412000129/,,6
+Stryker,SYK,2012Q1,2012-03-31,분기별 당기순이익(지배),350000000,USD,공시,https://www.sec.gov/Archives/edgar/data/310764/000031076412000129/,,6
+Stryker,SYK,2012Q1,2012-03-31,분기별 영업활동현금흐름,35000000,USD,공시,https://www.sec.gov/Archives/edgar/data/310764/000031076412000129/,,6
+Stryker,SYK,2012Q1,2012-03-31,분기말 자산총계,12459000000,USD,공시,https://www.sec.gov/Archives/edgar/data/310764/000031076412000129/,,6
+Stryker,SYK,2012Q1,2012-03-31,분기말 부채총계,4437000000,USD,계산(부채및자본-총자본),https://www.sec.gov/Archives/edgar/data/310764/000031076412000129/,부채및자본 12459000000 − 총자본 8022000000,6
+Stryker,SYK,2012Q1,2012-03-31,분기말 총자본(자기자본),8022000000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/310764/000031076412000129/,"StockholdersEquity, MinorityInterest 태그 없음",6
+Stryker,SYK,2012Q1,2012-03-31,분기말 지배지분 자본,8022000000,USD,공시,https://www.sec.gov/Archives/edgar/data/310764/000031076412000129/,,6
+Stryker,SYK,2012Q1,2012-03-30,분기말 종가,55.48,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/SYK?interval=1d&events=splits (2012-03-30),,6
+Stryker,SYK,2012Q1,2012-03-31,분기말 상장주식수,380933033,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/310764/000031076412000129/,dei:EntityCommonStockSharesOutstanding 클래스 합,6
+Stryker,SYK,2012Q1,2012-03-30,분기말 시가총액,21134164671,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/SYK?interval=1d&events=splits (2012-03-30) ; https://www.sec.gov/Archives/edgar/data/310764/000031076412000129/,종가 55.48 × 주식수 380933033,6
+Stryker,SYK,2012Q2,2012-06-30,분기별 매출액,2106000000,USD,공시,https://www.sec.gov/Archives/edgar/data/310764/000031076412000178/,,6
+Stryker,SYK,2012Q2,2012-06-30,분기별 영업이익,445000000,USD,공시,https://www.sec.gov/Archives/edgar/data/310764/000031076412000178/,,6
+Stryker,SYK,2012Q2,2012-06-30,분기별 당기순이익(지배),325000000,USD,공시,https://www.sec.gov/Archives/edgar/data/310764/000031076412000178/,,6
+Stryker,SYK,2012Q2,2012-06-30,분기별 영업활동현금흐름,457000000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/310764/000031076412000178/ ; https://www.sec.gov/Archives/edgar/data/310764/000031076412000129/,누적 492000000 − 직전누적 35000000 (시작 2012-01-01),6
+Stryker,SYK,2012Q2,2012-06-30,분기말 자산총계,12262000000,USD,공시,https://www.sec.gov/Archives/edgar/data/310764/000031076412000178/,,6
+Stryker,SYK,2012Q2,2012-06-30,분기말 부채총계,4310000000,USD,계산(부채및자본-총자본),https://www.sec.gov/Archives/edgar/data/310764/000031076412000178/,부채및자본 12262000000 − 총자본 7952000000,6
+Stryker,SYK,2012Q2,2012-06-30,분기말 총자본(자기자본),7952000000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/310764/000031076412000178/,"StockholdersEquity, MinorityInterest 태그 없음",6
+Stryker,SYK,2012Q2,2012-06-30,분기말 지배지분 자본,7952000000,USD,공시,https://www.sec.gov/Archives/edgar/data/310764/000031076412000178/,,6
+Stryker,SYK,2012Q2,2012-06-29,분기말 종가,55.1,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/SYK?interval=1d&events=splits (2012-06-29),,6
+Stryker,SYK,2012Q2,2012-06-30,분기말 상장주식수,380444166,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/310764/000031076412000178/,dei:EntityCommonStockSharesOutstanding 클래스 합,6
+Stryker,SYK,2012Q2,2012-06-29,분기말 시가총액,20962473547,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/SYK?interval=1d&events=splits (2012-06-29) ; https://www.sec.gov/Archives/edgar/data/310764/000031076412000178/,종가 55.1 × 주식수 380444166,6
+Stryker,SYK,2012Q3,2012-09-30,분기별 매출액,2052000000,USD,공시,https://www.sec.gov/Archives/edgar/data/310764/000031076412000240/,,6
+Stryker,SYK,2012Q3,2012-09-30,분기별 영업이익,450000000,USD,공시,https://www.sec.gov/Archives/edgar/data/310764/000031076412000240/,,6
+Stryker,SYK,2012Q3,2012-09-30,분기별 당기순이익(지배),353000000,USD,공시,https://www.sec.gov/Archives/edgar/data/310764/000031076412000240/,,6
+Stryker,SYK,2012Q3,2012-09-30,분기별 영업활동현금흐름,569000000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/310764/000031076412000240/ ; https://www.sec.gov/Archives/edgar/data/310764/000031076412000178/,누적 1061000000 − 직전누적 492000000 (시작 2012-01-01),6
+Stryker,SYK,2012Q3,2012-09-30,분기말 자산총계,12777000000,USD,공시,https://www.sec.gov/Archives/edgar/data/310764/000031076412000240/,,6
+Stryker,SYK,2012Q3,2012-09-30,분기말 부채총계,4416000000,USD,계산(부채및자본-총자본),https://www.sec.gov/Archives/edgar/data/310764/000031076412000240/,부채및자본 12777000000 − 총자본 8361000000,6
+Stryker,SYK,2012Q3,2012-09-30,분기말 총자본(자기자본),8361000000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/310764/000031076412000240/,"StockholdersEquity, MinorityInterest 태그 없음",6
+Stryker,SYK,2012Q3,2012-09-30,분기말 지배지분 자본,8361000000,USD,공시,https://www.sec.gov/Archives/edgar/data/310764/000031076412000240/,,6
+Stryker,SYK,2012Q3,2012-09-28,분기말 종가,55.66,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/SYK?interval=1d&events=splits (2012-09-28),,6
+Stryker,SYK,2012Q3,2012-09-30,분기말 상장주식수,380200593,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/310764/000031076412000240/,dei:EntityCommonStockSharesOutstanding 클래스 합,6
+Stryker,SYK,2012Q3,2012-09-28,분기말 시가총액,21161965006,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/SYK?interval=1d&events=splits (2012-09-28) ; https://www.sec.gov/Archives/edgar/data/310764/000031076412000240/,종가 55.66 × 주식수 380200593,6
+Stryker,SYK,2012Q4,2012-12-31,분기별 매출액,2338000000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/310764/000031076413000054/ ; https://www.sec.gov/Archives/edgar/data/310764/000031076412000240/,연간 8657000000 − 9개월누적 6319000000 (SalesRevenueNet),6
+Stryker,SYK,2012Q4,2012-12-31,분기별 영업이익,370000000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/310764/000031076413000054/ ; https://www.sec.gov/Archives/edgar/data/310764/000031076412000240/,연간 1741000000 − 9개월누적 1371000000 (OperatingIncomeLoss),6
+Stryker,SYK,2012Q4,2012-12-31,분기별 당기순이익(지배),270000000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/310764/000031076413000054/ ; https://www.sec.gov/Archives/edgar/data/310764/000031076412000240/,연간 1298000000 − 9개월누적 1028000000 (NetIncomeLoss),6
+Stryker,SYK,2012Q4,2012-12-31,분기별 영업활동현금흐름,596000000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/310764/000031076413000054/ ; https://www.sec.gov/Archives/edgar/data/310764/000031076412000240/,누적 1657000000 − 직전누적 1061000000 (시작 2012-01-01),6
+Stryker,SYK,2012Q4,2012-12-31,분기말 자산총계,13206000000,USD,공시,https://www.sec.gov/Archives/edgar/data/310764/000031076413000054/,,6
+Stryker,SYK,2012Q4,2012-12-31,분기말 부채총계,4609000000,USD,계산(부채및자본-총자본),https://www.sec.gov/Archives/edgar/data/310764/000031076413000054/,부채및자본 13206000000 − 총자본 8597000000,6
+Stryker,SYK,2012Q4,2012-12-31,분기말 총자본(자기자본),8597000000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/310764/000031076413000054/,"StockholdersEquity, MinorityInterest 태그 없음",6
+Stryker,SYK,2012Q4,2012-12-31,분기말 지배지분 자본,8597000000,USD,공시,https://www.sec.gov/Archives/edgar/data/310764/000031076413000054/,,6
+Stryker,SYK,2012Q4,2012-12-31,분기말 종가,54.82,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/SYK?interval=1d&events=splits (2012-12-31),,6
+Stryker,SYK,2012Q4,2013-01-31,분기말 상장주식수,380512172,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/310764/000031076413000054/,dei:EntityCommonStockSharesOutstanding 클래스 합,6
+Stryker,SYK,2012Q4,2012-12-31,분기말 시가총액,20859677269,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/SYK?interval=1d&events=splits (2012-12-31) ; https://www.sec.gov/Archives/edgar/data/310764/000031076413000054/,종가 54.82 × 주식수 380512172,6
+Stryker,SYK,2013Q1,2013-03-31,분기별 매출액,2190000000,USD,공시,https://www.sec.gov/Archives/edgar/data/310764/000031076413000110/,,6
+Stryker,SYK,2013Q1,2013-03-31,분기별 영업이익,386000000,USD,공시,https://www.sec.gov/Archives/edgar/data/310764/000031076413000110/,,6
+Stryker,SYK,2013Q1,2013-03-31,분기별 당기순이익(지배),304000000,USD,공시,https://www.sec.gov/Archives/edgar/data/310764/000031076413000110/,,6
+Stryker,SYK,2013Q1,2013-03-31,분기별 영업활동현금흐름,236000000,USD,공시,https://www.sec.gov/Archives/edgar/data/310764/000031076413000110/,,6
+Stryker,SYK,2013Q1,2013-03-31,분기말 자산총계,14089000000,USD,공시,https://www.sec.gov/Archives/edgar/data/310764/000031076413000110/,,6
+Stryker,SYK,2013Q1,2013-03-31,분기말 부채총계,5633000000,USD,계산(부채및자본-총자본),https://www.sec.gov/Archives/edgar/data/310764/000031076413000110/,부채및자본 14089000000 − 총자본 8456000000,6
+Stryker,SYK,2013Q1,2013-03-31,분기말 총자본(자기자본),8456000000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/310764/000031076413000110/,"StockholdersEquity, MinorityInterest 태그 없음",6
+Stryker,SYK,2013Q1,2013-03-31,분기말 지배지분 자본,8456000000,USD,공시,https://www.sec.gov/Archives/edgar/data/310764/000031076413000110/,,6
+Stryker,SYK,2013Q1,2013-03-28,분기말 종가,65.24,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/SYK?interval=1d&events=splits (2013-03-28),,6
+Stryker,SYK,2013Q1,2013-03-31,분기말 상장주식수,378056811,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/310764/000031076413000110/,dei:EntityCommonStockSharesOutstanding 클래스 합,6
+Stryker,SYK,2013Q1,2013-03-28,분기말 시가총액,24664426350,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/SYK?interval=1d&events=splits (2013-03-28) ; https://www.sec.gov/Archives/edgar/data/310764/000031076413000110/,종가 65.24 × 주식수 378056811,6
+Stryker,SYK,2013Q2,2013-06-30,분기별 매출액,2212000000,USD,공시,https://www.sec.gov/Archives/edgar/data/310764/000031076413000158/,,6
+Stryker,SYK,2013Q2,2013-06-30,분기별 영업이익,290000000,USD,공시,https://www.sec.gov/Archives/edgar/data/310764/000031076413000158/,,6
+Stryker,SYK,2013Q2,2013-06-30,분기별 당기순이익(지배),213000000,USD,공시,https://www.sec.gov/Archives/edgar/data/310764/000031076413000158/,,6
+Stryker,SYK,2013Q2,2013-06-30,분기별 영업활동현금흐름,356000000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/310764/000031076413000158/ ; https://www.sec.gov/Archives/edgar/data/310764/000031076413000110/,누적 592000000 − 직전누적 236000000 (시작 2013-01-01),6
+Stryker,SYK,2013Q2,2013-06-30,분기말 자산총계,14382000000,USD,공시,https://www.sec.gov/Archives/edgar/data/310764/000031076413000158/,,6
+Stryker,SYK,2013Q2,2013-06-30,분기말 부채총계,5779000000,USD,계산(부채및자본-총자본),https://www.sec.gov/Archives/edgar/data/310764/000031076413000158/,부채및자본 14382000000 − 총자본 8603000000,6
+Stryker,SYK,2013Q2,2013-06-30,분기말 총자본(자기자본),8603000000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/310764/000031076413000158/,"StockholdersEquity, MinorityInterest 태그 없음",6
+Stryker,SYK,2013Q2,2013-06-30,분기말 지배지분 자본,8603000000,USD,공시,https://www.sec.gov/Archives/edgar/data/310764/000031076413000158/,,6
+Stryker,SYK,2013Q2,2013-06-28,분기말 종가,64.68,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/SYK?interval=1d&events=splits (2013-06-28),,6
+Stryker,SYK,2013Q2,2013-06-30,분기말 상장주식수,378132187,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/310764/000031076413000158/,dei:EntityCommonStockSharesOutstanding 클래스 합,6
+Stryker,SYK,2013Q2,2013-06-28,분기말 시가총액,24457589855,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/SYK?interval=1d&events=splits (2013-06-28) ; https://www.sec.gov/Archives/edgar/data/310764/000031076413000158/,종가 64.68 × 주식수 378132187,6
+Stryker,SYK,2013Q3,2013-09-30,분기별 매출액,2151000000,USD,공시,https://www.sec.gov/Archives/edgar/data/310764/000031076413000210/,,6
+Stryker,SYK,2013Q3,2013-09-30,분기별 영업이익,150000000,USD,공시,https://www.sec.gov/Archives/edgar/data/310764/000031076413000210/,,6
+Stryker,SYK,2013Q3,2013-09-30,분기별 당기순이익(지배),103000000,USD,공시,https://www.sec.gov/Archives/edgar/data/310764/000031076413000210/,,6
+Stryker,SYK,2013Q3,2013-09-30,분기별 영업활동현금흐름,622000000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/310764/000031076413000210/ ; https://www.sec.gov/Archives/edgar/data/310764/000031076413000158/,누적 1214000000 − 직전누적 592000000 (시작 2013-01-01),6
+Stryker,SYK,2013Q3,2013-09-30,분기말 자산총계,14883000000,USD,공시,https://www.sec.gov/Archives/edgar/data/310764/000031076413000210/,,6
+Stryker,SYK,2013Q3,2013-09-30,분기말 부채총계,6146000000,USD,계산(부채및자본-총자본),https://www.sec.gov/Archives/edgar/data/310764/000031076413000210/,부채및자본 14883000000 − 총자본 8737000000,6
+Stryker,SYK,2013Q3,2013-09-30,분기말 총자본(자기자본),8737000000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/310764/000031076413000210/,"StockholdersEquity, MinorityInterest 태그 없음",6
+Stryker,SYK,2013Q3,2013-09-30,분기말 지배지분 자본,8737000000,USD,공시,https://www.sec.gov/Archives/edgar/data/310764/000031076413000210/,,6
+Stryker,SYK,2013Q3,2013-09-30,분기말 종가,67.59,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/SYK?interval=1d&events=splits (2013-09-30),,6
+Stryker,SYK,2013Q3,2013-09-30,분기말 상장주식수,378418945,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/310764/000031076413000210/,dei:EntityCommonStockSharesOutstanding 클래스 합,6
+Stryker,SYK,2013Q3,2013-09-30,분기말 시가총액,25577336493,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/SYK?interval=1d&events=splits (2013-09-30) ; https://www.sec.gov/Archives/edgar/data/310764/000031076413000210/,종가 67.59 × 주식수 378418945,6
+Stryker,SYK,2013Q4,2013-12-31,분기별 매출액,2468000000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/310764/000031076414000021/ ; https://www.sec.gov/Archives/edgar/data/310764/000031076413000210/,연간 9021000000 − 9개월누적 6553000000 (SalesRevenueNet),6
+Stryker,SYK,2013Q4,2013-12-31,분기별 영업이익,430000000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/310764/000031076414000021/ ; https://www.sec.gov/Archives/edgar/data/310764/000031076413000210/,연간 1256000000 − 9개월누적 826000000 (OperatingIncomeLoss),6
+Stryker,SYK,2013Q4,2013-12-31,분기별 당기순이익(지배),386000000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/310764/000031076414000021/ ; https://www.sec.gov/Archives/edgar/data/310764/000031076413000210/,연간 1006000000 − 9개월누적 620000000 (NetIncomeLoss),6
+Stryker,SYK,2013Q4,2013-12-31,분기별 영업활동현금흐름,672000000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/310764/000031076414000021/ ; https://www.sec.gov/Archives/edgar/data/310764/000031076413000210/,누적 1886000000 − 직전누적 1214000000 (시작 2013-01-01),6
+Stryker,SYK,2013Q4,2013-12-31,분기말 자산총계,15743000000,USD,공시,https://www.sec.gov/Archives/edgar/data/310764/000031076414000021/,,6
+Stryker,SYK,2013Q4,2013-12-31,분기말 부채총계,6696000000,USD,계산(부채및자본-총자본),https://www.sec.gov/Archives/edgar/data/310764/000031076414000021/,부채및자본 15743000000 − 총자본 9047000000,6
+Stryker,SYK,2013Q4,2013-12-31,분기말 총자본(자기자본),9047000000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/310764/000031076414000021/,"StockholdersEquity, MinorityInterest 태그 없음",6
+Stryker,SYK,2013Q4,2013-12-31,분기말 지배지분 자본,9047000000,USD,공시,https://www.sec.gov/Archives/edgar/data/310764/000031076414000021/,,6
+Stryker,SYK,2013Q4,2013-12-31,분기말 종가,75.14,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/SYK?interval=1d&events=splits (2013-12-31),,6
+Stryker,SYK,2013Q4,2014-01-31,분기말 상장주식수,377870936,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/310764/000031076414000021/,dei:EntityCommonStockSharesOutstanding 클래스 합,6
+Stryker,SYK,2013Q4,2013-12-31,분기말 시가총액,28393222131,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/SYK?interval=1d&events=splits (2013-12-31) ; https://www.sec.gov/Archives/edgar/data/310764/000031076414000021/,종가 75.14 × 주식수 377870936,6
+Stryker,SYK,2014Q1,2014-03-31,분기별 매출액,2305000000,USD,공시,https://www.sec.gov/Archives/edgar/data/310764/000031076414000091/,,6
+Stryker,SYK,2014Q1,2014-03-31,분기별 영업이익,131000000,USD,공시,https://www.sec.gov/Archives/edgar/data/310764/000031076414000091/,,6
+Stryker,SYK,2014Q1,2014-03-31,분기별 당기순이익(지배),70000000,USD,공시,https://www.sec.gov/Archives/edgar/data/310764/000031076414000091/,,6
+Stryker,SYK,2014Q1,2014-03-31,분기별 영업활동현금흐름,209000000,USD,공시(재작성 반영),https://www.sec.gov/Archives/edgar/data/310764/000031076415000074/,원 공시 206000000 (https://www.sec.gov/Archives/edgar/data/310764/000031076414000091/),6
+Stryker,SYK,2014Q1,2014-03-31,분기말 자산총계,16159000000,USD,공시,https://www.sec.gov/Archives/edgar/data/310764/000031076414000091/,,6
+Stryker,SYK,2014Q1,2014-03-31,분기말 부채총계,7096000000,USD,계산(부채및자본-총자본),https://www.sec.gov/Archives/edgar/data/310764/000031076414000091/,부채및자본 16159000000 − 총자본 9063000000,6
+Stryker,SYK,2014Q1,2014-03-31,분기말 총자본(자기자본),9063000000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/310764/000031076414000091/,"StockholdersEquity, MinorityInterest 태그 없음",6
+Stryker,SYK,2014Q1,2014-03-31,분기말 지배지분 자본,9063000000,USD,공시,https://www.sec.gov/Archives/edgar/data/310764/000031076414000091/,,6
+Stryker,SYK,2014Q1,2014-03-31,분기말 종가,81.47,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/SYK?interval=1d&events=splits (2014-03-31),,6
+Stryker,SYK,2014Q1,2014-03-31,분기말 상장주식수,379093934,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/310764/000031076414000091/,dei:EntityCommonStockSharesOutstanding 클래스 합,6
+Stryker,SYK,2014Q1,2014-03-31,분기말 시가총액,30884782803,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/SYK?interval=1d&events=splits (2014-03-31) ; https://www.sec.gov/Archives/edgar/data/310764/000031076414000091/,종가 81.47 × 주식수 379093934,6
+Stryker,SYK,2014Q2,2014-06-30,분기별 매출액,2363000000,USD,공시,https://www.sec.gov/Archives/edgar/data/310764/000031076414000137/,,6
+Stryker,SYK,2014Q2,2014-06-30,분기별 영업이익,197000000,USD,공시,https://www.sec.gov/Archives/edgar/data/310764/000031076414000137/,,6
+Stryker,SYK,2014Q2,2014-06-30,분기별 당기순이익(지배),128000000,USD,공시,https://www.sec.gov/Archives/edgar/data/310764/000031076414000137/,,6
+Stryker,SYK,2014Q2,2014-06-30,분기별 영업활동현금흐름,370000000,USD,계산(누적차감)(재작성 반영),https://www.sec.gov/Archives/edgar/data/310764/000031076415000109/ ; https://www.sec.gov/Archives/edgar/data/310764/000031076415000074/,누적 579000000 − 직전누적 209000000 (시작 2014-01-01) ; 원 공시 366000000 (https://www.sec.gov/Archives/edgar/data/310764/000031076414000137/ ; https://www.sec.gov/Archives/edgar/data/310764/000031076414000091/),6
+Stryker,SYK,2014Q2,2014-06-30,분기말 자산총계,17229000000,USD,공시,https://www.sec.gov/Archives/edgar/data/310764/000031076414000137/,,6
+Stryker,SYK,2014Q2,2014-06-30,분기말 부채총계,8227000000,USD,계산(부채및자본-총자본),https://www.sec.gov/Archives/edgar/data/310764/000031076414000137/,부채및자본 17229000000 − 총자본 9002000000,6
+Stryker,SYK,2014Q2,2014-06-30,분기말 총자본(자기자본),9002000000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/310764/000031076414000137/,"StockholdersEquity, MinorityInterest 태그 없음",6
+Stryker,SYK,2014Q2,2014-06-30,분기말 지배지분 자본,9002000000,USD,공시,https://www.sec.gov/Archives/edgar/data/310764/000031076414000137/,,6
+Stryker,SYK,2014Q2,2014-06-30,분기말 종가,84.32,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/SYK?interval=1d&events=splits (2014-06-30),,6
+Stryker,SYK,2014Q2,2014-06-30,분기말 상장주식수,378582992,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/310764/000031076414000137/,dei:EntityCommonStockSharesOutstanding 클래스 합,6
+Stryker,SYK,2014Q2,2014-06-30,분기말 시가총액,31922117885,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/SYK?interval=1d&events=splits (2014-06-30) ; https://www.sec.gov/Archives/edgar/data/310764/000031076414000137/,종가 84.32 × 주식수 378582992,6
+Stryker,SYK,2014Q3,2014-09-30,분기별 매출액,2389000000,USD,공시,https://www.sec.gov/Archives/edgar/data/310764/000031076414000187/,,6
+Stryker,SYK,2014Q3,2014-09-30,분기별 영업이익,450000000,USD,공시,https://www.sec.gov/Archives/edgar/data/310764/000031076414000187/,,6
+Stryker,SYK,2014Q3,2014-09-30,분기별 당기순이익(지배),57000000,USD,공시,https://www.sec.gov/Archives/edgar/data/310764/000031076414000187/,,6
+Stryker,SYK,2014Q3,2014-09-30,분기별 영업활동현금흐름,524000000,USD,계산(누적차감)(재작성 반영),https://www.sec.gov/Archives/edgar/data/310764/000031076415000153/ ; https://www.sec.gov/Archives/edgar/data/310764/000031076415000109/,누적 1103000000 − 직전누적 579000000 (시작 2014-01-01) ; 원 공시 535000000 (https://www.sec.gov/Archives/edgar/data/310764/000031076414000187/ ; https://www.sec.gov/Archives/edgar/data/310764/000031076414000137/),6
+Stryker,SYK,2014Q3,2014-09-30,분기말 자산총계,17515000000,USD,공시,https://www.sec.gov/Archives/edgar/data/310764/000031076414000187/,,6
+Stryker,SYK,2014Q3,2014-09-30,분기말 부채총계,8891000000,USD,계산(부채및자본-총자본),https://www.sec.gov/Archives/edgar/data/310764/000031076414000187/,부채및자본 17515000000 − 총자본 8624000000,6
+Stryker,SYK,2014Q3,2014-09-30,분기말 총자본(자기자본),8624000000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/310764/000031076414000187/,"StockholdersEquity, MinorityInterest 태그 없음",6
+Stryker,SYK,2014Q3,2014-09-30,분기말 지배지분 자본,8624000000,USD,공시,https://www.sec.gov/Archives/edgar/data/310764/000031076414000187/,,6
+Stryker,SYK,2014Q3,2014-09-30,분기말 종가,80.75,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/SYK?interval=1d&events=splits (2014-09-30),,6
+Stryker,SYK,2014Q3,2014-09-30,분기말 상장주식수,378320513,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/310764/000031076414000187/,dei:EntityCommonStockSharesOutstanding 클래스 합,6
+Stryker,SYK,2014Q3,2014-09-30,분기말 시가총액,30549381425,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/SYK?interval=1d&events=splits (2014-09-30) ; https://www.sec.gov/Archives/edgar/data/310764/000031076414000187/,종가 80.75 × 주식수 378320513,6
+Stryker,SYK,2014Q4,2014-12-31,분기별 매출액,2618000000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/310764/000031076415000022/ ; https://www.sec.gov/Archives/edgar/data/310764/000031076414000187/,연간 9675000000 − 9개월누적 7057000000 (SalesRevenueNet),6
+Stryker,SYK,2014Q4,2014-12-31,분기별 영업이익,468000000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/310764/000031076415000022/ ; https://www.sec.gov/Archives/edgar/data/310764/000031076414000187/,연간 1246000000 − 9개월누적 778000000 (OperatingIncomeLoss),6
+Stryker,SYK,2014Q4,2014-12-31,분기별 당기순이익(지배),260000000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/310764/000031076415000022/ ; https://www.sec.gov/Archives/edgar/data/310764/000031076414000187/,연간 515000000 − 9개월누적 255000000 (NetIncomeLoss),6
+Stryker,SYK,2014Q4,2014-12-31,분기별 영업활동현금흐름,679000000,USD,계산(누적차감)(재작성 반영),https://www.sec.gov/Archives/edgar/data/310764/000031076415000022/ ; https://www.sec.gov/Archives/edgar/data/310764/000031076415000153/,누적 1782000000 − 직전누적 1103000000 (시작 2014-01-01) ; 원 공시 675000000 (https://www.sec.gov/Archives/edgar/data/310764/000031076415000022/ ; https://www.sec.gov/Archives/edgar/data/310764/000031076414000187/),6
+Stryker,SYK,2014Q4,2014-12-31,분기말 자산총계,17713000000,USD,공시,https://www.sec.gov/Archives/edgar/data/310764/000031076415000022/,,6
+Stryker,SYK,2014Q4,2014-12-31,분기말 부채총계,9118000000,USD,계산(부채및자본-총자본),https://www.sec.gov/Archives/edgar/data/310764/000031076415000022/,부채및자본 17713000000 − 총자본 8595000000,6
+Stryker,SYK,2014Q4,2014-12-31,분기말 총자본(자기자본),8595000000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/310764/000031076415000022/,"StockholdersEquity, MinorityInterest 태그 없음",6
+Stryker,SYK,2014Q4,2014-12-31,분기말 지배지분 자본,8595000000,USD,공시,https://www.sec.gov/Archives/edgar/data/310764/000031076415000022/,,6
+Stryker,SYK,2014Q4,2014-12-31,분기말 종가,94.33,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/SYK?interval=1d&events=splits (2014-12-31),,6
+Stryker,SYK,2014Q4,2015-01-31,분기말 상장주식수,378749951,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/310764/000031076415000022/,dei:EntityCommonStockSharesOutstanding 클래스 합,6
+Stryker,SYK,2014Q4,2014-12-31,분기말 시가총액,35727482878,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/SYK?interval=1d&events=splits (2014-12-31) ; https://www.sec.gov/Archives/edgar/data/310764/000031076415000022/,종가 94.33 × 주식수 378749951,6
+Stryker,SYK,2015Q1,2015-03-31,분기별 매출액,2379000000,USD,공시,https://www.sec.gov/Archives/edgar/data/310764/000031076415000074/,,6
+Stryker,SYK,2015Q1,2015-03-31,분기별 영업이익,406000000,USD,공시,https://www.sec.gov/Archives/edgar/data/310764/000031076415000074/,,6
+Stryker,SYK,2015Q1,2015-03-31,분기별 당기순이익(지배),224000000,USD,공시,https://www.sec.gov/Archives/edgar/data/310764/000031076415000074/,,6
+Stryker,SYK,2015Q1,2015-03-31,분기별 영업활동현금흐름,380000000,USD,공시,https://www.sec.gov/Archives/edgar/data/310764/000031076415000074/,,6
+Stryker,SYK,2015Q1,2015-03-31,분기말 자산총계,16580000000,USD,공시,https://www.sec.gov/Archives/edgar/data/310764/000031076415000074/,,6
+Stryker,SYK,2015Q1,2015-03-31,분기말 부채총계,8259000000,USD,계산(부채및자본-총자본),https://www.sec.gov/Archives/edgar/data/310764/000031076415000074/,부채및자본 16580000000 − 총자본 8321000000,6
+Stryker,SYK,2015Q1,2015-03-31,분기말 총자본(자기자본),8321000000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/310764/000031076415000074/,"StockholdersEquity, MinorityInterest 태그 없음",6
+Stryker,SYK,2015Q1,2015-03-31,분기말 지배지분 자본,8321000000,USD,공시,https://www.sec.gov/Archives/edgar/data/310764/000031076415000074/,,6
+Stryker,SYK,2015Q1,2015-03-31,분기말 종가,92.25,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/SYK?interval=1d&events=splits (2015-03-31),,6
+Stryker,SYK,2015Q1,2015-03-31,분기말 상장주식수,378409144,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/310764/000031076415000074/,dei:EntityCommonStockSharesOutstanding 클래스 합,6
+Stryker,SYK,2015Q1,2015-03-31,분기말 시가총액,34908243534,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/SYK?interval=1d&events=splits (2015-03-31) ; https://www.sec.gov/Archives/edgar/data/310764/000031076415000074/,종가 92.25 × 주식수 378409144,6
+Stryker,SYK,2015Q2,2015-06-30,분기별 매출액,2432000000,USD,공시,https://www.sec.gov/Archives/edgar/data/310764/000031076415000109/,,6
+Stryker,SYK,2015Q2,2015-06-30,분기별 영업이익,429000000,USD,공시,https://www.sec.gov/Archives/edgar/data/310764/000031076415000109/,,6
+Stryker,SYK,2015Q2,2015-06-30,분기별 당기순이익(지배),392000000,USD,공시,https://www.sec.gov/Archives/edgar/data/310764/000031076415000109/,,6
+Stryker,SYK,2015Q2,2015-06-30,분기별 영업활동현금흐름,357000000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/310764/000031076415000109/ ; https://www.sec.gov/Archives/edgar/data/310764/000031076415000074/,누적 737000000 − 직전누적 380000000 (시작 2015-01-01),6
+Stryker,SYK,2015Q2,2015-06-30,분기말 자산총계,16819000000,USD,공시,https://www.sec.gov/Archives/edgar/data/310764/000031076415000109/,,6
+Stryker,SYK,2015Q2,2015-06-30,분기말 부채총계,8314000000,USD,계산(부채및자본-총자본),https://www.sec.gov/Archives/edgar/data/310764/000031076415000109/,부채및자본 16819000000 − 총자본 8505000000,6
+Stryker,SYK,2015Q2,2015-06-30,분기말 총자본(자기자본),8505000000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/310764/000031076415000109/,"StockholdersEquity, MinorityInterest 태그 없음",6
+Stryker,SYK,2015Q2,2015-06-30,분기말 지배지분 자본,8505000000,USD,공시,https://www.sec.gov/Archives/edgar/data/310764/000031076415000109/,,6
+Stryker,SYK,2015Q2,2015-06-30,분기말 종가,95.57,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/SYK?interval=1d&events=splits (2015-06-30),,6
+Stryker,SYK,2015Q2,2015-06-30,분기말 상장주식수,376558214,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/310764/000031076415000109/,dei:EntityCommonStockSharesOutstanding 클래스 합,6
+Stryker,SYK,2015Q2,2015-06-30,분기말 시가총액,35987668512,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/SYK?interval=1d&events=splits (2015-06-30) ; https://www.sec.gov/Archives/edgar/data/310764/000031076415000109/,종가 95.57 × 주식수 376558214,6
+Stryker,SYK,2015Q3,2015-09-30,분기별 매출액,2420000000,USD,공시,https://www.sec.gov/Archives/edgar/data/310764/000031076415000153/,,6
+Stryker,SYK,2015Q3,2015-09-30,분기별 영업이익,378000000,USD,공시,https://www.sec.gov/Archives/edgar/data/310764/000031076415000153/,,6
+Stryker,SYK,2015Q3,2015-09-30,분기별 당기순이익(지배),301000000,USD,공시,https://www.sec.gov/Archives/edgar/data/310764/000031076415000153/,,6
+Stryker,SYK,2015Q3,2015-09-30,분기별 영업활동현금흐름,-509000000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/310764/000031076415000153/ ; https://www.sec.gov/Archives/edgar/data/310764/000031076415000109/,누적 228000000 − 직전누적 737000000 (시작 2015-01-01),6
+Stryker,SYK,2015Q3,2015-09-30,분기말 자산총계,15917000000,USD,공시,https://www.sec.gov/Archives/edgar/data/310764/000031076415000153/,,6
+Stryker,SYK,2015Q3,2015-09-30,분기말 부채총계,7433000000,USD,계산(부채및자본-총자본),https://www.sec.gov/Archives/edgar/data/310764/000031076415000153/,부채및자본 15917000000 − 총자본 8484000000,6
+Stryker,SYK,2015Q3,2015-09-30,분기말 총자본(자기자본),8484000000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/310764/000031076415000153/,"StockholdersEquity, MinorityInterest 태그 없음",6
+Stryker,SYK,2015Q3,2015-09-30,분기말 지배지분 자본,8484000000,USD,공시,https://www.sec.gov/Archives/edgar/data/310764/000031076415000153/,,6
+Stryker,SYK,2015Q3,2015-09-30,분기말 종가,94.1,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/SYK?interval=1d&events=splits (2015-09-30),,6
+Stryker,SYK,2015Q3,2015-09-30,분기말 상장주식수,375522232,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/310764/000031076415000153/,dei:EntityCommonStockSharesOutstanding 클래스 합,6
+Stryker,SYK,2015Q3,2015-09-30,분기말 시가총액,35336642031,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/SYK?interval=1d&events=splits (2015-09-30) ; https://www.sec.gov/Archives/edgar/data/310764/000031076415000153/,종가 94.1 × 주식수 375522232,6
+Stryker,SYK,2015Q4,2015-12-31,분기별 매출액,2715000000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/310764/000031076416000226/ ; https://www.sec.gov/Archives/edgar/data/310764/000031076415000153/,연간 9946000000 − 9개월누적 7231000000 (SalesRevenueNet),6
+Stryker,SYK,2015Q4,2015-12-31,분기별 영업이익,648000000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/310764/000031076416000226/ ; https://www.sec.gov/Archives/edgar/data/310764/000031076415000153/,연간 1861000000 − 9개월누적 1213000000 (OperatingIncomeLoss),6
+Stryker,SYK,2015Q4,2015-12-31,분기별 당기순이익(지배),522000000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/310764/000031076416000226/ ; https://www.sec.gov/Archives/edgar/data/310764/000031076415000153/,연간 1439000000 − 9개월누적 917000000 (NetIncomeLoss),6
+Stryker,SYK,2015Q4,2015-12-31,분기별 영업활동현금흐름,753000000,USD,계산(누적차감)(재작성 반영),https://www.sec.gov/Archives/edgar/data/310764/000031076418000031/ ; https://www.sec.gov/Archives/edgar/data/310764/000031076415000153/,누적 981000000 − 직전누적 228000000 (시작 2015-01-01) ; 원 공시 671000000 (https://www.sec.gov/Archives/edgar/data/310764/000031076416000226/ ; https://www.sec.gov/Archives/edgar/data/310764/000031076415000153/),6
+Stryker,SYK,2015Q4,2015-12-31,분기말 자산총계,16223000000,USD,공시(재작성 반영),https://www.sec.gov/Archives/edgar/data/310764/000031076418000031/,원 공시 16247000000 (https://www.sec.gov/Archives/edgar/data/310764/000031076416000226/),6
+Stryker,SYK,2015Q4,2015-12-31,분기말 부채총계,7712000000,USD,계산(부채및자본-총자본)(재작성 반영),https://www.sec.gov/Archives/edgar/data/310764/000031076417000034/,부채및자본 16223000000 − 총자본 8511000000 ; 원 공시 7736000000 (https://www.sec.gov/Archives/edgar/data/310764/000031076416000226/),6
+Stryker,SYK,2015Q4,2015-12-31,분기말 총자본(자기자본),8511000000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/310764/000031076416000226/,"StockholdersEquity, MinorityInterest 태그 없음",6
+Stryker,SYK,2015Q4,2015-12-31,분기말 지배지분 자본,8511000000,USD,공시,https://www.sec.gov/Archives/edgar/data/310764/000031076416000226/,,6
+Stryker,SYK,2015Q4,2015-12-31,분기말 종가,92.94,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/SYK?interval=1d&events=splits (2015-12-31),,6
+Stryker,SYK,2015Q4,2016-01-31,분기말 상장주식수,372982213,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/310764/000031076416000226/,dei:EntityCommonStockSharesOutstanding 클래스 합,6
+Stryker,SYK,2015Q4,2015-12-31,분기말 시가총액,34664966876,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/SYK?interval=1d&events=splits (2015-12-31) ; https://www.sec.gov/Archives/edgar/data/310764/000031076416000226/,종가 92.94 × 주식수 372982213,6
+Stryker,SYK,2016Q1,2016-03-31,분기별 매출액,2495000000,USD,공시,https://www.sec.gov/Archives/edgar/data/310764/000031076416000320/,,6
+Stryker,SYK,2016Q1,2016-03-31,분기별 영업이익,519000000,USD,공시,https://www.sec.gov/Archives/edgar/data/310764/000031076416000320/,,6
+Stryker,SYK,2016Q1,2016-03-31,분기별 당기순이익(지배),402000000,USD,공시,https://www.sec.gov/Archives/edgar/data/310764/000031076416000320/,,6
+Stryker,SYK,2016Q1,2016-03-31,분기별 영업활동현금흐름,262000000,USD,공시(재작성 반영),https://www.sec.gov/Archives/edgar/data/310764/000031076417000102/,원 공시 203000000 (https://www.sec.gov/Archives/edgar/data/310764/000031076416000320/),6
+Stryker,SYK,2016Q1,2016-03-31,분기말 자산총계,19668000000,USD,공시,https://www.sec.gov/Archives/edgar/data/310764/000031076416000320/,,6
+Stryker,SYK,2016Q1,2016-03-31,분기말 부채총계,10860000000,USD,계산(부채및자본-총자본),https://www.sec.gov/Archives/edgar/data/310764/000031076416000320/,부채및자본 19668000000 − 총자본 8808000000,6
+Stryker,SYK,2016Q1,2016-03-31,분기말 총자본(자기자본),8808000000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/310764/000031076416000320/,"StockholdersEquity, MinorityInterest 태그 없음",6
+Stryker,SYK,2016Q1,2016-03-31,분기말 지배지분 자본,8808000000,USD,공시,https://www.sec.gov/Archives/edgar/data/310764/000031076416000320/,,6
+Stryker,SYK,2016Q1,2016-03-31,분기말 종가,107.29,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/SYK?interval=1d&events=splits (2016-03-31),,6
+Stryker,SYK,2016Q1,2016-03-31,분기말 상장주식수,373981097,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/310764/000031076416000320/,dei:EntityCommonStockSharesOutstanding 클래스 합,6
+Stryker,SYK,2016Q1,2016-03-31,분기말 시가총액,40124431897,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/SYK?interval=1d&events=splits (2016-03-31) ; https://www.sec.gov/Archives/edgar/data/310764/000031076416000320/,종가 107.29 × 주식수 373981097,6
+Stryker,SYK,2016Q2,2016-06-30,분기별 매출액,2840000000,USD,공시,https://www.sec.gov/Archives/edgar/data/310764/000031076416000392/,,6
+Stryker,SYK,2016Q2,2016-06-30,분기별 영업이익,500000000,USD,공시,https://www.sec.gov/Archives/edgar/data/310764/000031076416000392/,,6
+Stryker,SYK,2016Q2,2016-06-30,분기별 당기순이익(지배),380000000,USD,공시,https://www.sec.gov/Archives/edgar/data/310764/000031076416000392/,,6
+Stryker,SYK,2016Q2,2016-06-30,분기별 영업활동현금흐름,493000000,USD,계산(누적차감)(재작성 반영),https://www.sec.gov/Archives/edgar/data/310764/000031076417000136/ ; https://www.sec.gov/Archives/edgar/data/310764/000031076417000102/,누적 755000000 − 직전누적 262000000 (시작 2016-01-01) ; 원 공시 468000000 (https://www.sec.gov/Archives/edgar/data/310764/000031076416000392/ ; https://www.sec.gov/Archives/edgar/data/310764/000031076416000320/),6
+Stryker,SYK,2016Q2,2016-06-30,분기말 자산총계,20520000000,USD,공시,https://www.sec.gov/Archives/edgar/data/310764/000031076416000392/,,6
+Stryker,SYK,2016Q2,2016-06-30,분기말 부채총계,11422000000,USD,계산(부채및자본-총자본),https://www.sec.gov/Archives/edgar/data/310764/000031076416000392/,부채및자본 20520000000 − 총자본 9098000000,6
+Stryker,SYK,2016Q2,2016-06-30,분기말 총자본(자기자본),9098000000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/310764/000031076416000392/,"StockholdersEquity, MinorityInterest 태그 없음",6
+Stryker,SYK,2016Q2,2016-06-30,분기말 지배지분 자본,9098000000,USD,공시,https://www.sec.gov/Archives/edgar/data/310764/000031076416000392/,,6
+Stryker,SYK,2016Q2,2016-06-30,분기말 종가,119.83,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/SYK?interval=1d&events=splits (2016-06-30),,6
+Stryker,SYK,2016Q2,2016-06-30,분기말 상장주식수,374302065,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/310764/000031076416000392/,dei:EntityCommonStockSharesOutstanding 클래스 합,6
+Stryker,SYK,2016Q2,2016-06-30,분기말 시가총액,44852616449,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/SYK?interval=1d&events=splits (2016-06-30) ; https://www.sec.gov/Archives/edgar/data/310764/000031076416000392/,종가 119.83 × 주식수 374302065,6
+Stryker,SYK,2016Q3,2016-09-30,분기별 매출액,2833000000,USD,공시,https://www.sec.gov/Archives/edgar/data/310764/000031076416000458/,,6
+Stryker,SYK,2016Q3,2016-09-30,분기별 영업이익,486000000,USD,공시,https://www.sec.gov/Archives/edgar/data/310764/000031076416000458/,,6
+Stryker,SYK,2016Q3,2016-09-30,분기별 당기순이익(지배),355000000,USD,공시,https://www.sec.gov/Archives/edgar/data/310764/000031076416000458/,,6
+Stryker,SYK,2016Q3,2016-09-30,분기별 영업활동현금흐름,502000000,USD,계산(누적차감)(재작성 반영),https://www.sec.gov/Archives/edgar/data/310764/000031076417000164/ ; https://www.sec.gov/Archives/edgar/data/310764/000031076417000136/,누적 1257000000 − 직전누적 755000000 (시작 2016-01-01) ; 원 공시 493000000 (https://www.sec.gov/Archives/edgar/data/310764/000031076416000458/ ; https://www.sec.gov/Archives/edgar/data/310764/000031076416000392/),6
+Stryker,SYK,2016Q3,2016-09-30,분기말 자산총계,20187000000,USD,공시,https://www.sec.gov/Archives/edgar/data/310764/000031076416000458/,,6
+Stryker,SYK,2016Q3,2016-09-30,분기말 부채총계,10855000000,USD,공시,https://www.sec.gov/Archives/edgar/data/310764/000031076416000458/,,6
+Stryker,SYK,2016Q3,2016-09-30,분기말 총자본(자기자본),9332000000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/310764/000031076416000458/,"StockholdersEquity, MinorityInterest 태그 없음",6
+Stryker,SYK,2016Q3,2016-09-30,분기말 지배지분 자본,9332000000,USD,공시,https://www.sec.gov/Archives/edgar/data/310764/000031076416000458/,,6
+Stryker,SYK,2016Q3,2016-09-30,분기말 종가,116.41,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/SYK?interval=1d&events=splits (2016-09-30),,6
+Stryker,SYK,2016Q3,2016-09-30,분기말 상장주식수,374451718,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/310764/000031076416000458/,dei:EntityCommonStockSharesOutstanding 클래스 합,6
+Stryker,SYK,2016Q3,2016-09-30,분기말 시가총액,43589924492,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/SYK?interval=1d&events=splits (2016-09-30) ; https://www.sec.gov/Archives/edgar/data/310764/000031076416000458/,종가 116.41 × 주식수 374451718,6
+Stryker,SYK,2016Q4,2016-12-31,분기별 매출액,3157000000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/310764/000031076417000034/ ; https://www.sec.gov/Archives/edgar/data/310764/000031076416000458/,연간 11325000000 − 9개월누적 8168000000 (SalesRevenueNet),6
+Stryker,SYK,2016Q4,2016-12-31,분기별 영업이익,670000000,USD,계산(연간-3분기누적)(재작성 반영),https://www.sec.gov/Archives/edgar/data/310764/000031076419000014/ ; https://www.sec.gov/Archives/edgar/data/310764/000031076416000458/,연간 2175000000 − 9개월누적 1505000000 (OperatingIncomeLoss) ; 원 공시 661000000 (https://www.sec.gov/Archives/edgar/data/310764/000031076417000034/ ; https://www.sec.gov/Archives/edgar/data/310764/000031076416000458/),6
+Stryker,SYK,2016Q4,2016-12-31,분기별 당기순이익(지배),510000000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/310764/000031076417000034/ ; https://www.sec.gov/Archives/edgar/data/310764/000031076416000458/,연간 1647000000 − 9개월누적 1137000000 (NetIncomeLoss),6
+Stryker,SYK,2016Q4,2016-12-31,분기별 영업활동현금흐름,658000000,USD,계산(누적차감)(재작성 반영),https://www.sec.gov/Archives/edgar/data/310764/000031076419000014/ ; https://www.sec.gov/Archives/edgar/data/310764/000031076417000164/,누적 1915000000 − 직전누적 1257000000 (시작 2016-01-01) ; 원 공시 648000000 (https://www.sec.gov/Archives/edgar/data/310764/000031076417000034/ ; https://www.sec.gov/Archives/edgar/data/310764/000031076416000458/),6
+Stryker,SYK,2016Q4,2016-12-31,분기말 자산총계,20435000000,USD,공시,https://www.sec.gov/Archives/edgar/data/310764/000031076417000034/,,6
+Stryker,SYK,2016Q4,2016-12-31,분기말 부채총계,10885000000,USD,공시,https://www.sec.gov/Archives/edgar/data/310764/000031076417000034/,,6
+Stryker,SYK,2016Q4,2016-12-31,분기말 총자본(자기자본),9550000000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/310764/000031076417000034/,"StockholdersEquity, MinorityInterest 태그 없음",6
+Stryker,SYK,2016Q4,2016-12-31,분기말 지배지분 자본,9550000000,USD,공시,https://www.sec.gov/Archives/edgar/data/310764/000031076417000034/,,6
+Stryker,SYK,2016Q4,2016-12-30,분기말 종가,119.81,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/SYK?interval=1d&events=splits (2016-12-30),,6
+Stryker,SYK,2016Q4,2017-01-31,분기말 상장주식수,372878298,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/310764/000031076417000034/,dei:EntityCommonStockSharesOutstanding 클래스 합,6
+Stryker,SYK,2016Q4,2016-12-30,분기말 시가총액,44674548883,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/SYK?interval=1d&events=splits (2016-12-30) ; https://www.sec.gov/Archives/edgar/data/310764/000031076417000034/,종가 119.81 × 주식수 372878298,6
+Stryker,SYK,2017Q1,2017-03-31,분기별 매출액,2955000000,USD,공시,https://www.sec.gov/Archives/edgar/data/310764/000031076417000102/,,6
+Stryker,SYK,2017Q1,2017-03-31,분기별 영업이익,556000000,USD,공시(재작성 반영),https://www.sec.gov/Archives/edgar/data/310764/000031076418000110/,원 공시 554000000 (https://www.sec.gov/Archives/edgar/data/310764/000031076417000102/),6
+Stryker,SYK,2017Q1,2017-03-31,분기별 당기순이익(지배),444000000,USD,공시,https://www.sec.gov/Archives/edgar/data/310764/000031076417000102/,,6
+Stryker,SYK,2017Q1,2017-03-31,분기별 영업활동현금흐름,151000000,USD,공시,https://www.sec.gov/Archives/edgar/data/310764/000031076417000102/,,6
+Stryker,SYK,2017Q1,2017-03-31,분기말 자산총계,20517000000,USD,공시,https://www.sec.gov/Archives/edgar/data/310764/000031076417000102/,,6
+Stryker,SYK,2017Q1,2017-03-31,분기말 부채총계,10813000000,USD,공시,https://www.sec.gov/Archives/edgar/data/310764/000031076417000102/,,6
+Stryker,SYK,2017Q1,2017-03-31,분기말 총자본(자기자본),9704000000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/310764/000031076417000102/,"StockholdersEquity, MinorityInterest 태그 없음",6
+Stryker,SYK,2017Q1,2017-03-31,분기말 지배지분 자본,9704000000,USD,공시,https://www.sec.gov/Archives/edgar/data/310764/000031076417000102/,,6
+Stryker,SYK,2017Q1,2017-03-31,분기말 종가,131.65,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/SYK?interval=1d&events=splits (2017-03-31),,6
+Stryker,SYK,2017Q1,2017-03-31,분기말 상장주식수,373765028,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/310764/000031076417000102/,dei:EntityCommonStockSharesOutstanding 클래스 합,6
+Stryker,SYK,2017Q1,2017-03-31,분기말 시가총액,49206165936,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/SYK?interval=1d&events=splits (2017-03-31) ; https://www.sec.gov/Archives/edgar/data/310764/000031076417000102/,종가 131.65 × 주식수 373765028,6
+Stryker,SYK,2017Q2,2017-06-30,분기별 매출액,3012000000,USD,공시,https://www.sec.gov/Archives/edgar/data/310764/000031076417000136/,,6
+Stryker,SYK,2017Q2,2017-06-30,분기별 영업이익,502000000,USD,공시(재작성 반영),https://www.sec.gov/Archives/edgar/data/310764/000031076418000185/,원 공시 501000000 (https://www.sec.gov/Archives/edgar/data/310764/000031076417000136/),6
+Stryker,SYK,2017Q2,2017-06-30,분기별 당기순이익(지배),391000000,USD,공시,https://www.sec.gov/Archives/edgar/data/310764/000031076417000136/,,6
+Stryker,SYK,2017Q2,2017-06-30,분기별 영업활동현금흐름,650000000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/310764/000031076417000136/ ; https://www.sec.gov/Archives/edgar/data/310764/000031076417000102/,누적 801000000 − 직전누적 151000000 (시작 2017-01-01),6
+Stryker,SYK,2017Q2,2017-06-30,분기말 자산총계,21292000000,USD,공시,https://www.sec.gov/Archives/edgar/data/310764/000031076417000136/,,6
+Stryker,SYK,2017Q2,2017-06-30,분기말 부채총계,11257000000,USD,공시,https://www.sec.gov/Archives/edgar/data/310764/000031076417000136/,,6
+Stryker,SYK,2017Q2,2017-06-30,분기말 총자본(자기자본),10035000000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/310764/000031076417000136/,"StockholdersEquity, MinorityInterest 태그 없음",6
+Stryker,SYK,2017Q2,2017-06-30,분기말 지배지분 자본,10035000000,USD,공시,https://www.sec.gov/Archives/edgar/data/310764/000031076417000136/,,6
+Stryker,SYK,2017Q2,2017-06-30,분기말 종가,138.78,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/SYK?interval=1d&events=splits (2017-06-30),,6
+Stryker,SYK,2017Q2,2017-06-30,분기말 상장주식수,374063294,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/310764/000031076417000136/,dei:EntityCommonStockSharesOutstanding 클래스 합,6
+Stryker,SYK,2017Q2,2017-06-30,분기말 시가총액,51912503941,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/SYK?interval=1d&events=splits (2017-06-30) ; https://www.sec.gov/Archives/edgar/data/310764/000031076417000136/,종가 138.78 × 주식수 374063294,6
+Stryker,SYK,2017Q3,2017-09-30,분기별 매출액,3006000000,USD,공시,https://www.sec.gov/Archives/edgar/data/310764/000031076417000164/,,6
+Stryker,SYK,2017Q3,2017-09-30,분기별 영업이익,525000000,USD,공시(재작성 반영),https://www.sec.gov/Archives/edgar/data/310764/000031076418000205/,원 공시 523000000 (https://www.sec.gov/Archives/edgar/data/310764/000031076417000164/),6
+Stryker,SYK,2017Q3,2017-09-30,분기별 당기순이익(지배),434000000,USD,공시,https://www.sec.gov/Archives/edgar/data/310764/000031076417000164/,,6
+Stryker,SYK,2017Q3,2017-09-30,분기별 영업활동현금흐름,79000000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/310764/000031076417000164/ ; https://www.sec.gov/Archives/edgar/data/310764/000031076417000136/,누적 880000000 − 직전누적 801000000 (시작 2017-01-01),6
+Stryker,SYK,2017Q3,2017-09-30,분기말 자산총계,21485000000,USD,공시,https://www.sec.gov/Archives/edgar/data/310764/000031076417000164/,,6
+Stryker,SYK,2017Q3,2017-09-30,분기말 부채총계,11060000000,USD,공시,https://www.sec.gov/Archives/edgar/data/310764/000031076417000164/,,6
+Stryker,SYK,2017Q3,2017-09-30,분기말 총자본(자기자본),10425000000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/310764/000031076417000164/,"StockholdersEquity, MinorityInterest 태그 없음",6
+Stryker,SYK,2017Q3,2017-09-30,분기말 지배지분 자본,10425000000,USD,공시,https://www.sec.gov/Archives/edgar/data/310764/000031076417000164/,,6
+Stryker,SYK,2017Q3,2017-09-29,분기말 종가,142.02,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/SYK?interval=1d&events=splits (2017-09-29),,6
+Stryker,SYK,2017Q3,2017-09-30,분기말 상장주식수,374237631,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/310764/000031076417000164/,dei:EntityCommonStockSharesOutstanding 클래스 합,6
+Stryker,SYK,2017Q3,2017-09-29,분기말 시가총액,53149228355,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/SYK?interval=1d&events=splits (2017-09-29) ; https://www.sec.gov/Archives/edgar/data/310764/000031076417000164/,종가 142.02 × 주식수 374237631,6
+Stryker,SYK,2017Q4,2017-12-31,분기별 매출액,3471000000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/310764/000031076418000031/ ; https://www.sec.gov/Archives/edgar/data/310764/000031076417000164/,연간 12444000000 − 9개월누적 8973000000 (SalesRevenueNet),6
+Stryker,SYK,2017Q4,2017-12-31,분기별 영업이익,714000000,USD,계산(연간-3분기누적)(재작성 반영),https://www.sec.gov/Archives/edgar/data/310764/000031076420000014/ ; https://www.sec.gov/Archives/edgar/data/310764/000031076418000205/,연간 2297000000 − 9개월누적 1583000000 (OperatingIncomeLoss) ; 원 공시 712000000 (https://www.sec.gov/Archives/edgar/data/310764/000031076418000031/ ; https://www.sec.gov/Archives/edgar/data/310764/000031076417000164/),6
+Stryker,SYK,2017Q4,2017-12-31,분기별 당기순이익(지배),-249000000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/310764/000031076418000031/ ; https://www.sec.gov/Archives/edgar/data/310764/000031076417000164/,연간 1020000000 − 9개월누적 1269000000 (NetIncomeLoss),6
+Stryker,SYK,2017Q4,2017-12-31,분기별 영업활동현금흐름,679000000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/310764/000031076418000031/ ; https://www.sec.gov/Archives/edgar/data/310764/000031076417000164/,누적 1559000000 − 직전누적 880000000 (시작 2017-01-01),6
+Stryker,SYK,2017Q4,2017-12-31,분기말 자산총계,22197000000,USD,공시,https://www.sec.gov/Archives/edgar/data/310764/000031076418000031/,,6
+Stryker,SYK,2017Q4,2017-12-31,분기말 부채총계,12217000000,USD,공시,https://www.sec.gov/Archives/edgar/data/310764/000031076418000031/,,6
+Stryker,SYK,2017Q4,2017-12-31,분기말 총자본(자기자본),9980000000,USD,공시,https://www.sec.gov/Archives/edgar/data/310764/000031076418000031/,,6
+Stryker,SYK,2017Q4,2017-12-31,분기말 지배지분 자본,9966000000,USD,공시,https://www.sec.gov/Archives/edgar/data/310764/000031076418000031/,,6
+Stryker,SYK,2017Q4,2017-12-29,분기말 종가,154.84,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/SYK?interval=1d&events=splits (2017-12-29),,6
+Stryker,SYK,2017Q4,2018-01-31,분기말 상장주식수,374642060,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/310764/000031076418000031/,dei:EntityCommonStockSharesOutstanding 클래스 합,6
+Stryker,SYK,2017Q4,2017-12-29,분기말 시가총액,58009576570,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/SYK?interval=1d&events=splits (2017-12-29) ; https://www.sec.gov/Archives/edgar/data/310764/000031076418000031/,종가 154.84 × 주식수 374642060,6
+Stryker,SYK,2018Q1,2018-03-31,분기별 매출액,3241000000,USD,공시,https://www.sec.gov/Archives/edgar/data/310764/000031076418000110/,,6
+Stryker,SYK,2018Q1,2018-03-31,분기별 영업이익,591000000,USD,공시,https://www.sec.gov/Archives/edgar/data/310764/000031076418000110/,,6
+Stryker,SYK,2018Q1,2018-03-31,분기별 당기순이익(지배),443000000,USD,공시,https://www.sec.gov/Archives/edgar/data/310764/000031076418000110/,,6
+Stryker,SYK,2018Q1,2018-03-31,분기별 영업활동현금흐름,297000000,USD,공시,https://www.sec.gov/Archives/edgar/data/310764/000031076418000110/,,6
+Stryker,SYK,2018Q1,2018-03-31,분기말 자산총계,22133000000,USD,공시,https://www.sec.gov/Archives/edgar/data/310764/000031076418000110/,,6
+Stryker,SYK,2018Q1,2018-03-31,분기말 부채총계,12910000000,USD,공시,https://www.sec.gov/Archives/edgar/data/310764/000031076418000110/,,6
+Stryker,SYK,2018Q1,2018-03-31,분기말 총자본(자기자본),9223000000,USD,공시,https://www.sec.gov/Archives/edgar/data/310764/000031076418000110/,,6
+Stryker,SYK,2018Q1,2018-03-31,분기말 지배지분 자본,9214000000,USD,공시,https://www.sec.gov/Archives/edgar/data/310764/000031076418000110/,,6
+Stryker,SYK,2018Q1,2018-03-29,분기말 종가,160.92,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/SYK?interval=1d&events=splits (2018-03-29),,6
+Stryker,SYK,2018Q1,2018-03-31,분기말 상장주식수,373710934,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/310764/000031076418000110/,dei:EntityCommonStockSharesOutstanding 클래스 합,6
+Stryker,SYK,2018Q1,2018-03-29,분기말 시가총액,60137563499,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/SYK?interval=1d&events=splits (2018-03-29) ; https://www.sec.gov/Archives/edgar/data/310764/000031076418000110/,종가 160.92 × 주식수 373710934,6
+Stryker,SYK,2018Q2,2018-06-30,분기별 매출액,3322000000,USD,공시,https://www.sec.gov/Archives/edgar/data/310764/000031076418000185/,,6
+Stryker,SYK,2018Q2,2018-06-30,분기별 영업이익,672000000,USD,공시,https://www.sec.gov/Archives/edgar/data/310764/000031076418000185/,,6
+Stryker,SYK,2018Q2,2018-06-30,분기별 당기순이익(지배),452000000,USD,공시,https://www.sec.gov/Archives/edgar/data/310764/000031076418000185/,,6
+Stryker,SYK,2018Q2,2018-06-30,분기별 영업활동현금흐름,649000000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/310764/000031076418000185/ ; https://www.sec.gov/Archives/edgar/data/310764/000031076418000110/,누적 946000000 − 직전누적 297000000 (시작 2018-01-01),6
+Stryker,SYK,2018Q2,2018-06-30,분기말 자산총계,21570000000,USD,공시,https://www.sec.gov/Archives/edgar/data/310764/000031076418000185/,,6
+Stryker,SYK,2018Q2,2018-06-30,분기말 부채총계,12110000000,USD,공시,https://www.sec.gov/Archives/edgar/data/310764/000031076418000185/,,6
+Stryker,SYK,2018Q2,2018-06-30,분기말 총자본(자기자본),9460000000,USD,공시,https://www.sec.gov/Archives/edgar/data/310764/000031076418000185/,,6
+Stryker,SYK,2018Q2,2018-06-30,분기말 지배지분 자본,9460000000,USD,공시,https://www.sec.gov/Archives/edgar/data/310764/000031076418000185/,,6
+Stryker,SYK,2018Q2,2018-06-29,분기말 종가,168.86,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/SYK?interval=1d&events=splits (2018-06-29),,6
+Stryker,SYK,2018Q2,2018-06-30,분기말 상장주식수,373990494,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/310764/000031076418000185/,dei:EntityCommonStockSharesOutstanding 클래스 합,6
+Stryker,SYK,2018Q2,2018-06-29,분기말 시가총액,63152034817,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/SYK?interval=1d&events=splits (2018-06-29) ; https://www.sec.gov/Archives/edgar/data/310764/000031076418000185/,종가 168.86 × 주식수 373990494,6
+Stryker,SYK,2018Q3,2018-09-30,분기별 매출액,3242000000,USD,공시,https://www.sec.gov/Archives/edgar/data/310764/000031076418000205/,,6
+Stryker,SYK,2018Q3,2018-09-30,분기별 영업이익,576000000,USD,공시,https://www.sec.gov/Archives/edgar/data/310764/000031076418000205/,,6
+Stryker,SYK,2018Q3,2018-09-30,분기별 당기순이익(지배),590000000,USD,공시,https://www.sec.gov/Archives/edgar/data/310764/000031076418000205/,,6
+Stryker,SYK,2018Q3,2018-09-30,분기별 영업활동현금흐름,618000000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/310764/000031076418000205/ ; https://www.sec.gov/Archives/edgar/data/310764/000031076418000185/,누적 1564000000 − 직전누적 946000000 (시작 2018-01-01),6
+Stryker,SYK,2018Q3,2018-09-30,분기말 자산총계,22084000000,USD,공시,https://www.sec.gov/Archives/edgar/data/310764/000031076418000205/,,6
+Stryker,SYK,2018Q3,2018-09-30,분기말 부채총계,12224000000,USD,공시,https://www.sec.gov/Archives/edgar/data/310764/000031076418000205/,,6
+Stryker,SYK,2018Q3,2018-09-30,분기말 총자본(자기자본),9860000000,USD,공시,https://www.sec.gov/Archives/edgar/data/310764/000031076418000205/,,6
+Stryker,SYK,2018Q3,2018-09-30,분기말 지배지분 자본,9860000000,USD,공시,https://www.sec.gov/Archives/edgar/data/310764/000031076418000205/,,6
+Stryker,SYK,2018Q3,2018-09-28,분기말 종가,177.68,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/SYK?interval=1d&events=splits (2018-09-28),,6
+Stryker,SYK,2018Q3,2018-09-30,분기말 상장주식수,374187286,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/310764/000031076418000205/,dei:EntityCommonStockSharesOutstanding 클래스 합,6
+Stryker,SYK,2018Q3,2018-09-28,분기말 시가총액,66485596976,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/SYK?interval=1d&events=splits (2018-09-28) ; https://www.sec.gov/Archives/edgar/data/310764/000031076418000205/,종가 177.68 × 주식수 374187286,6
+Stryker,SYK,2018Q4,2018-12-31,분기별 매출액,3796000000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/310764/000031076419000014/ ; https://www.sec.gov/Archives/edgar/data/310764/000031076418000205/,연간 13601000000 − 9개월누적 9805000000 (Revenues),6
+Stryker,SYK,2018Q4,2018-12-31,분기별 영업이익,698000000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/310764/000031076419000014/ ; https://www.sec.gov/Archives/edgar/data/310764/000031076418000205/,연간 2537000000 − 9개월누적 1839000000 (OperatingIncomeLoss),6
+Stryker,SYK,2018Q4,2018-12-31,분기별 당기순이익(지배),2068000000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/310764/000031076419000014/ ; https://www.sec.gov/Archives/edgar/data/310764/000031076418000205/,연간 3553000000 − 9개월누적 1485000000 (NetIncomeLoss),6
+Stryker,SYK,2018Q4,2018-12-31,분기별 영업활동현금흐름,1046000000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/310764/000031076419000014/ ; https://www.sec.gov/Archives/edgar/data/310764/000031076418000205/,누적 2610000000 − 직전누적 1564000000 (시작 2018-01-01),6
+Stryker,SYK,2018Q4,2018-12-31,분기말 자산총계,27229000000,USD,공시,https://www.sec.gov/Archives/edgar/data/310764/000031076419000014/,,6
+Stryker,SYK,2018Q4,2018-12-31,분기말 부채총계,15499000000,USD,공시,https://www.sec.gov/Archives/edgar/data/310764/000031076419000014/,,6
+Stryker,SYK,2018Q4,2018-12-31,분기말 총자본(자기자본),11730000000,USD,공시,https://www.sec.gov/Archives/edgar/data/310764/000031076419000014/,,6
+Stryker,SYK,2018Q4,2018-12-31,분기말 지배지분 자본,11730000000,USD,공시,https://www.sec.gov/Archives/edgar/data/310764/000031076419000014/,,6
+Stryker,SYK,2018Q4,2018-12-31,분기말 종가,156.75,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/SYK?interval=1d&events=splits (2018-12-31),,6
+Stryker,SYK,2018Q4,2019-01-31,분기말 상장주식수,372664636,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/310764/000031076419000014/,dei:EntityCommonStockSharesOutstanding 클래스 합,6
+Stryker,SYK,2018Q4,2018-12-31,분기말 시가총액,58415181693,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/SYK?interval=1d&events=splits (2018-12-31) ; https://www.sec.gov/Archives/edgar/data/310764/000031076419000014/,종가 156.75 × 주식수 372664636,6
+Stryker,SYK,2019Q1,2019-03-31,분기별 매출액,3516000000,USD,공시,https://www.sec.gov/Archives/edgar/data/310764/000031076419000071/,,6
+Stryker,SYK,2019Q1,2019-03-31,분기별 영업이익,528000000,USD,공시,https://www.sec.gov/Archives/edgar/data/310764/000031076419000071/,,6
+Stryker,SYK,2019Q1,2019-03-31,분기별 당기순이익(지배),412000000,USD,공시,https://www.sec.gov/Archives/edgar/data/310764/000031076419000071/,,6
+Stryker,SYK,2019Q1,2019-03-31,분기별 영업활동현금흐름,313000000,USD,공시,https://www.sec.gov/Archives/edgar/data/310764/000031076419000071/,,6
+Stryker,SYK,2019Q1,2019-03-31,분기말 자산총계,25937000000,USD,공시,https://www.sec.gov/Archives/edgar/data/310764/000031076419000071/,,6
+Stryker,SYK,2019Q1,2019-03-31,분기말 부채총계,14244000000,USD,공시,https://www.sec.gov/Archives/edgar/data/310764/000031076419000071/,,6
+Stryker,SYK,2019Q1,2019-03-31,분기말 총자본(자기자본),11693000000,USD,공시,https://www.sec.gov/Archives/edgar/data/310764/000031076419000071/,,6
+Stryker,SYK,2019Q1,2019-03-31,분기말 지배지분 자본,11693000000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/310764/000031076419000071/,"StockholdersEquityIncludingPortionAttributableToNoncontrollingInterest, MinorityInterest 태그 없음",6
+Stryker,SYK,2019Q1,2019-03-29,분기말 종가,197.52,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/SYK?interval=1d&events=splits (2019-03-29),,6
+Stryker,SYK,2019Q1,2019-03-31,분기말 상장주식수,373810085,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/310764/000031076419000071/,dei:EntityCommonStockSharesOutstanding 클래스 합,6
+Stryker,SYK,2019Q1,2019-03-29,분기말 시가총액,73834967989,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/SYK?interval=1d&events=splits (2019-03-29) ; https://www.sec.gov/Archives/edgar/data/310764/000031076419000071/,종가 197.52 × 주식수 373810085,6
+Stryker,SYK,2019Q2,2019-06-30,분기별 매출액,3650000000,USD,공시,https://www.sec.gov/Archives/edgar/data/310764/000031076419000110/,,6
+Stryker,SYK,2019Q2,2019-06-30,분기별 영업이익,613000000,USD,공시,https://www.sec.gov/Archives/edgar/data/310764/000031076419000110/,,6
+Stryker,SYK,2019Q2,2019-06-30,분기별 당기순이익(지배),480000000,USD,공시,https://www.sec.gov/Archives/edgar/data/310764/000031076419000110/,,6
+Stryker,SYK,2019Q2,2019-06-30,분기별 영업활동현금흐름,514000000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/310764/000031076419000110/ ; https://www.sec.gov/Archives/edgar/data/310764/000031076419000071/,누적 827000000 − 직전누적 313000000 (시작 2019-01-01),6
+Stryker,SYK,2019Q2,2019-06-30,분기말 자산총계,26354000000,USD,공시,https://www.sec.gov/Archives/edgar/data/310764/000031076419000110/,,6
+Stryker,SYK,2019Q2,2019-06-30,분기말 부채총계,14411000000,USD,공시,https://www.sec.gov/Archives/edgar/data/310764/000031076419000110/,,6
+Stryker,SYK,2019Q2,2019-06-30,분기말 총자본(자기자본),11943000000,USD,공시,https://www.sec.gov/Archives/edgar/data/310764/000031076419000110/,,6
+Stryker,SYK,2019Q2,2019-06-30,분기말 지배지분 자본,11943000000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/310764/000031076419000110/,"StockholdersEquityIncludingPortionAttributableToNoncontrollingInterest, MinorityInterest 태그 없음",6
+Stryker,SYK,2019Q2,2019-06-28,분기말 종가,205.58,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/SYK?interval=1d&events=splits (2019-06-28),,6
+Stryker,SYK,2019Q2,2019-06-30,분기말 상장주식수,374103607,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/310764/000031076419000110/,dei:EntityCommonStockSharesOutstanding 클래스 합,6
+Stryker,SYK,2019Q2,2019-06-28,분기말 시가총액,76908219527,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/SYK?interval=1d&events=splits (2019-06-28) ; https://www.sec.gov/Archives/edgar/data/310764/000031076419000110/,종가 205.58 × 주식수 374103607,6
+Stryker,SYK,2019Q3,2019-09-30,분기별 매출액,3587000000,USD,공시,https://www.sec.gov/Archives/edgar/data/310764/000031076419000140/,,6
+Stryker,SYK,2019Q3,2019-09-30,분기별 영업이익,628000000,USD,공시,https://www.sec.gov/Archives/edgar/data/310764/000031076419000140/,,6
+Stryker,SYK,2019Q3,2019-09-30,분기별 당기순이익(지배),466000000,USD,공시,https://www.sec.gov/Archives/edgar/data/310764/000031076419000140/,,6
+Stryker,SYK,2019Q3,2019-09-30,분기별 영업활동현금흐름,629000000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/310764/000031076419000140/ ; https://www.sec.gov/Archives/edgar/data/310764/000031076419000110/,누적 1456000000 − 직전누적 827000000 (시작 2019-01-01),6
+Stryker,SYK,2019Q3,2019-09-30,분기말 자산총계,26659000000,USD,공시,https://www.sec.gov/Archives/edgar/data/310764/000031076419000140/,,6
+Stryker,SYK,2019Q3,2019-09-30,분기말 부채총계,14344000000,USD,공시,https://www.sec.gov/Archives/edgar/data/310764/000031076419000140/,,6
+Stryker,SYK,2019Q3,2019-09-30,분기말 총자본(자기자본),12315000000,USD,공시,https://www.sec.gov/Archives/edgar/data/310764/000031076419000140/,,6
+Stryker,SYK,2019Q3,2019-09-30,분기말 지배지분 자본,12315000000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/310764/000031076419000140/,"StockholdersEquityIncludingPortionAttributableToNoncontrollingInterest, MinorityInterest 태그 없음",6
+Stryker,SYK,2019Q3,2019-09-30,분기말 종가,216.3,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/SYK?interval=1d&events=splits (2019-09-30),,6
+Stryker,SYK,2019Q3,2019-09-30,분기말 상장주식수,374366776,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/310764/000031076419000140/,dei:EntityCommonStockSharesOutstanding 클래스 합,6
+Stryker,SYK,2019Q3,2019-09-30,분기말 시가총액,80975533649,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/SYK?interval=1d&events=splits (2019-09-30) ; https://www.sec.gov/Archives/edgar/data/310764/000031076419000140/,종가 216.3 × 주식수 374366776,6
+Stryker,SYK,2019Q4,2019-12-31,분기별 매출액,4131000000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/310764/000031076420000014/ ; https://www.sec.gov/Archives/edgar/data/310764/000031076419000140/,연간 14884000000 − 9개월누적 10753000000 (Revenues),6
+Stryker,SYK,2019Q4,2019-12-31,분기별 영업이익,944000000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/310764/000031076420000014/ ; https://www.sec.gov/Archives/edgar/data/310764/000031076419000140/,연간 2713000000 − 9개월누적 1769000000 (OperatingIncomeLoss),6
+Stryker,SYK,2019Q4,2019-12-31,분기별 당기순이익(지배),725000000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/310764/000031076420000014/ ; https://www.sec.gov/Archives/edgar/data/310764/000031076419000140/,연간 2083000000 − 9개월누적 1358000000 (NetIncomeLoss),6
+Stryker,SYK,2019Q4,2019-12-31,분기별 영업활동현금흐름,735000000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/310764/000031076420000014/ ; https://www.sec.gov/Archives/edgar/data/310764/000031076419000140/,누적 2191000000 − 직전누적 1456000000 (시작 2019-01-01),6
+Stryker,SYK,2019Q4,2019-12-31,분기말 자산총계,30167000000,USD,공시,https://www.sec.gov/Archives/edgar/data/310764/000031076420000014/,,6
+Stryker,SYK,2019Q4,2019-12-31,분기말 부채총계,17360000000,USD,공시,https://www.sec.gov/Archives/edgar/data/310764/000031076420000014/,,6
+Stryker,SYK,2019Q4,2019-12-31,분기말 총자본(자기자본),12807000000,USD,공시,https://www.sec.gov/Archives/edgar/data/310764/000031076420000014/,,6
+Stryker,SYK,2019Q4,2019-12-31,분기말 지배지분 자본,12807000000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/310764/000031076420000014/,"StockholdersEquityIncludingPortionAttributableToNoncontrollingInterest, MinorityInterest 태그 없음",6
+Stryker,SYK,2019Q4,2019-12-31,분기말 종가,209.94,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/SYK?interval=1d&events=splits (2019-12-31),,6
+Stryker,SYK,2019Q4,2020-01-31,분기말 상장주식수,374575145,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/310764/000031076420000014/,dei:EntityCommonStockSharesOutstanding 클래스 합,6
+Stryker,SYK,2019Q4,2019-12-31,분기말 시가총액,78638305941,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/SYK?interval=1d&events=splits (2019-12-31) ; https://www.sec.gov/Archives/edgar/data/310764/000031076420000014/,종가 209.94 × 주식수 374575145,6
+Stryker,SYK,2020Q1,2020-03-31,분기별 매출액,3588000000,USD,공시,https://www.sec.gov/Archives/edgar/data/310764/000031076420000069/,,6
+Stryker,SYK,2020Q1,2020-03-31,분기별 영업이익,635000000,USD,공시,https://www.sec.gov/Archives/edgar/data/310764/000031076420000069/,,6
+Stryker,SYK,2020Q1,2020-03-31,분기별 당기순이익(지배),493000000,USD,공시,https://www.sec.gov/Archives/edgar/data/310764/000031076420000069/,,6
+Stryker,SYK,2020Q1,2020-03-31,분기별 영업활동현금흐름,591000000,USD,공시,https://www.sec.gov/Archives/edgar/data/310764/000031076420000069/,,6
+Stryker,SYK,2020Q1,2020-03-31,분기말 자산총계,29440000000,USD,공시,https://www.sec.gov/Archives/edgar/data/310764/000031076420000069/,,6
+Stryker,SYK,2020Q1,2020-03-31,분기말 부채총계,16325000000,USD,공시,https://www.sec.gov/Archives/edgar/data/310764/000031076420000069/,,6
+Stryker,SYK,2020Q1,2020-03-31,분기말 총자본(자기자본),13115000000,USD,공시,https://www.sec.gov/Archives/edgar/data/310764/000031076420000069/,,6
+Stryker,SYK,2020Q1,2020-03-31,분기말 지배지분 자본,13115000000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/310764/000031076420000069/,"StockholdersEquityIncludingPortionAttributableToNoncontrollingInterest, MinorityInterest 태그 없음",6
+Stryker,SYK,2020Q1,2020-03-31,분기말 종가,166.49,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/SYK?interval=1d&events=splits (2020-03-31),,6
+Stryker,SYK,2020Q1,2020-03-31,분기말 상장주식수,375378477,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/310764/000031076420000069/,dei:EntityCommonStockSharesOutstanding 클래스 합,6
+Stryker,SYK,2020Q1,2020-03-31,분기말 시가총액,62496762636,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/SYK?interval=1d&events=splits (2020-03-31) ; https://www.sec.gov/Archives/edgar/data/310764/000031076420000069/,종가 166.49 × 주식수 375378477,6
+Stryker,SYK,2020Q2,2020-06-30,분기별 매출액,2764000000,USD,공시,https://www.sec.gov/Archives/edgar/data/310764/000031076420000125/,,6
+Stryker,SYK,2020Q2,2020-06-30,분기별 영업이익,-20000000,USD,공시,https://www.sec.gov/Archives/edgar/data/310764/000031076420000125/,,6
+Stryker,SYK,2020Q2,2020-06-30,분기별 당기순이익(지배),-83000000,USD,공시,https://www.sec.gov/Archives/edgar/data/310764/000031076420000125/,,6
+Stryker,SYK,2020Q2,2020-06-30,분기별 영업활동현금흐름,620000000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/310764/000031076420000125/ ; https://www.sec.gov/Archives/edgar/data/310764/000031076420000069/,누적 1211000000 − 직전누적 591000000 (시작 2020-01-01),6
+Stryker,SYK,2020Q2,2020-06-30,분기말 자산총계,31483000000,USD,공시,https://www.sec.gov/Archives/edgar/data/310764/000031076420000125/,,6
+Stryker,SYK,2020Q2,2020-06-30,분기말 부채총계,18729000000,USD,공시,https://www.sec.gov/Archives/edgar/data/310764/000031076420000125/,,6
+Stryker,SYK,2020Q2,2020-06-30,분기말 총자본(자기자본),12754000000,USD,공시,https://www.sec.gov/Archives/edgar/data/310764/000031076420000125/,,6
+Stryker,SYK,2020Q2,2020-06-30,분기말 지배지분 자본,12754000000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/310764/000031076420000125/,"StockholdersEquityIncludingPortionAttributableToNoncontrollingInterest, MinorityInterest 태그 없음",6
+Stryker,SYK,2020Q2,2020-06-30,분기말 종가,180.19,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/SYK?interval=1d&events=splits (2020-06-30),,6
+Stryker,SYK,2020Q2,2020-06-30,분기말 상장주식수,375605813,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/310764/000031076420000125/,dei:EntityCommonStockSharesOutstanding 클래스 합,6
+Stryker,SYK,2020Q2,2020-06-30,분기말 시가총액,67680411444,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/SYK?interval=1d&events=splits (2020-06-30) ; https://www.sec.gov/Archives/edgar/data/310764/000031076420000125/,종가 180.19 × 주식수 375605813,6
+Stryker,SYK,2020Q3,2020-09-30,분기별 매출액,3737000000,USD,공시,https://www.sec.gov/Archives/edgar/data/310764/000031076420000150/,,6
+Stryker,SYK,2020Q3,2020-09-30,분기별 영업이익,859000000,USD,공시,https://www.sec.gov/Archives/edgar/data/310764/000031076420000150/,,6
+Stryker,SYK,2020Q3,2020-09-30,분기별 당기순이익(지배),621000000,USD,공시,https://www.sec.gov/Archives/edgar/data/310764/000031076420000150/,,6
+Stryker,SYK,2020Q3,2020-09-30,분기별 영업활동현금흐름,829000000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/310764/000031076420000150/ ; https://www.sec.gov/Archives/edgar/data/310764/000031076420000125/,누적 2040000000 − 직전누적 1211000000 (시작 2020-01-01),6
+Stryker,SYK,2020Q3,2020-09-30,분기말 자산총계,32286000000,USD,공시,https://www.sec.gov/Archives/edgar/data/310764/000031076420000150/,,6
+Stryker,SYK,2020Q3,2020-09-30,분기말 부채총계,19300000000,USD,공시,https://www.sec.gov/Archives/edgar/data/310764/000031076420000150/,,6
+Stryker,SYK,2020Q3,2020-09-30,분기말 총자본(자기자본),12986000000,USD,공시,https://www.sec.gov/Archives/edgar/data/310764/000031076420000150/,,6
+Stryker,SYK,2020Q3,2020-09-30,분기말 지배지분 자본,12986000000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/310764/000031076420000150/,"StockholdersEquityIncludingPortionAttributableToNoncontrollingInterest, MinorityInterest 태그 없음",6
+Stryker,SYK,2020Q3,2020-09-30,분기말 종가,208.37,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/SYK?interval=1d&events=splits (2020-09-30),,6
+Stryker,SYK,2020Q3,2020-09-30,분기말 상장주식수,375790657,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/310764/000031076420000150/,dei:EntityCommonStockSharesOutstanding 클래스 합,6
+Stryker,SYK,2020Q3,2020-09-30,분기말 시가총액,78303499199,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/SYK?interval=1d&events=splits (2020-09-30) ; https://www.sec.gov/Archives/edgar/data/310764/000031076420000150/,종가 208.37 × 주식수 375790657,6
+Stryker,SYK,2020Q4,2020-12-31,분기별 매출액,4262000000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/310764/000031076421000027/ ; https://www.sec.gov/Archives/edgar/data/310764/000031076420000150/,연간 14351000000 − 9개월누적 10089000000 (Revenues),6
+Stryker,SYK,2020Q4,2020-12-31,분기별 영업이익,749000000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/310764/000031076421000027/ ; https://www.sec.gov/Archives/edgar/data/310764/000031076420000150/,연간 2223000000 − 9개월누적 1474000000 (OperatingIncomeLoss),6
+Stryker,SYK,2020Q4,2020-12-31,분기별 당기순이익(지배),568000000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/310764/000031076421000027/ ; https://www.sec.gov/Archives/edgar/data/310764/000031076420000150/,연간 1599000000 − 9개월누적 1031000000 (NetIncomeLoss),6
+Stryker,SYK,2020Q4,2020-12-31,분기별 영업활동현금흐름,1237000000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/310764/000031076421000027/ ; https://www.sec.gov/Archives/edgar/data/310764/000031076420000150/,누적 3277000000 − 직전누적 2040000000 (시작 2020-01-01),6
+Stryker,SYK,2020Q4,2020-12-31,분기말 자산총계,34330000000,USD,공시,https://www.sec.gov/Archives/edgar/data/310764/000031076421000027/,,6
+Stryker,SYK,2020Q4,2020-12-31,분기말 부채총계,21246000000,USD,공시,https://www.sec.gov/Archives/edgar/data/310764/000031076421000027/,,6
+Stryker,SYK,2020Q4,2020-12-31,분기말 총자본(자기자본),13084000000,USD,공시,https://www.sec.gov/Archives/edgar/data/310764/000031076421000027/,,6
+Stryker,SYK,2020Q4,2020-12-31,분기말 지배지분 자본,13084000000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/310764/000031076421000027/,"StockholdersEquityIncludingPortionAttributableToNoncontrollingInterest, MinorityInterest 태그 없음",6
+Stryker,SYK,2020Q4,2020-12-31,분기말 종가,245.04,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/SYK?interval=1d&events=splits (2020-12-31),,6
+Stryker,SYK,2020Q4,2021-01-31,분기말 상장주식수,376200942,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/310764/000031076421000027/,dei:EntityCommonStockSharesOutstanding 클래스 합,6
+Stryker,SYK,2020Q4,2020-12-31,분기말 시가총액,92184278828,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/SYK?interval=1d&events=splits (2020-12-31) ; https://www.sec.gov/Archives/edgar/data/310764/000031076421000027/,종가 245.04 × 주식수 376200942,6
+Stryker,SYK,2021Q1,2021-03-31,분기별 매출액,3953000000,USD,공시,https://www.sec.gov/Archives/edgar/data/310764/000031076421000065/,,6
+Stryker,SYK,2021Q1,2021-03-31,분기별 영업이익,459000000,USD,공시,https://www.sec.gov/Archives/edgar/data/310764/000031076421000065/,,6
+Stryker,SYK,2021Q1,2021-03-31,분기별 당기순이익(지배),302000000,USD,공시,https://www.sec.gov/Archives/edgar/data/310764/000031076421000065/,,6
+Stryker,SYK,2021Q1,2021-03-31,분기별 영업활동현금흐름,452000000,USD,공시,https://www.sec.gov/Archives/edgar/data/310764/000031076421000065/,,6
+Stryker,SYK,2021Q1,2021-03-31,분기말 자산총계,33455000000,USD,공시,https://www.sec.gov/Archives/edgar/data/310764/000031076421000065/,,6
+Stryker,SYK,2021Q1,2021-03-31,분기말 부채총계,19953000000,USD,공시,https://www.sec.gov/Archives/edgar/data/310764/000031076421000065/,,6
+Stryker,SYK,2021Q1,2021-03-31,분기말 총자본(자기자본),13502000000,USD,공시,https://www.sec.gov/Archives/edgar/data/310764/000031076421000065/,,6
+Stryker,SYK,2021Q1,2021-03-31,분기말 지배지분 자본,13502000000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/310764/000031076421000065/,"StockholdersEquityIncludingPortionAttributableToNoncontrollingInterest, MinorityInterest 태그 없음",6
+Stryker,SYK,2021Q1,2021-03-31,분기말 종가,243.58,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/SYK?interval=1d&events=splits (2021-03-31),,6
+Stryker,SYK,2021Q1,2021-03-31,분기말 상장주식수,376747866,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/310764/000031076421000065/,dei:EntityCommonStockSharesOutstanding 클래스 합,6
+Stryker,SYK,2021Q1,2021-03-31,분기말 시가총액,91768245200,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/SYK?interval=1d&events=splits (2021-03-31) ; https://www.sec.gov/Archives/edgar/data/310764/000031076421000065/,종가 243.58 × 주식수 376747866,6
+Stryker,SYK,2021Q2,2021-06-30,분기별 매출액,4294000000,USD,공시,https://www.sec.gov/Archives/edgar/data/310764/000031076421000111/,,6
+Stryker,SYK,2021Q2,2021-06-30,분기별 영업이익,732000000,USD,공시,https://www.sec.gov/Archives/edgar/data/310764/000031076421000111/,,6
+Stryker,SYK,2021Q2,2021-06-30,분기별 당기순이익(지배),592000000,USD,공시,https://www.sec.gov/Archives/edgar/data/310764/000031076421000111/,,6
+Stryker,SYK,2021Q2,2021-06-30,분기별 영업활동현금흐름,878000000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/310764/000031076421000111/ ; https://www.sec.gov/Archives/edgar/data/310764/000031076421000065/,누적 1330000000 − 직전누적 452000000 (시작 2021-01-01),6
+Stryker,SYK,2021Q2,2021-06-30,분기말 자산총계,33698000000,USD,공시,https://www.sec.gov/Archives/edgar/data/310764/000031076421000111/,,6
+Stryker,SYK,2021Q2,2021-06-30,분기말 부채총계,19878000000,USD,공시,https://www.sec.gov/Archives/edgar/data/310764/000031076421000111/,,6
+Stryker,SYK,2021Q2,2021-06-30,분기말 총자본(자기자본),13820000000,USD,공시,https://www.sec.gov/Archives/edgar/data/310764/000031076421000111/,,6
+Stryker,SYK,2021Q2,2021-06-30,분기말 지배지분 자본,13820000000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/310764/000031076421000111/,"StockholdersEquityIncludingPortionAttributableToNoncontrollingInterest, MinorityInterest 태그 없음",6
+Stryker,SYK,2021Q2,2021-06-30,분기말 종가,259.73,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/SYK?interval=1d&events=splits (2021-06-30),,6
+Stryker,SYK,2021Q2,2021-06-30,분기말 상장주식수,377096272,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/310764/000031076421000111/,dei:EntityCommonStockSharesOutstanding 클래스 합,6
+Stryker,SYK,2021Q2,2021-06-30,분기말 시가총액,97943214727,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/SYK?interval=1d&events=splits (2021-06-30) ; https://www.sec.gov/Archives/edgar/data/310764/000031076421000111/,종가 259.73 × 주식수 377096272,6
+Stryker,SYK,2021Q3,2021-09-30,분기별 매출액,4160000000,USD,공시,https://www.sec.gov/Archives/edgar/data/310764/000031076421000146/,,6
+Stryker,SYK,2021Q3,2021-09-30,분기별 영업이익,574000000,USD,공시,https://www.sec.gov/Archives/edgar/data/310764/000031076421000146/,,6
+Stryker,SYK,2021Q3,2021-09-30,분기별 당기순이익(지배),438000000,USD,공시,https://www.sec.gov/Archives/edgar/data/310764/000031076421000146/,,6
+Stryker,SYK,2021Q3,2021-09-30,분기별 영업활동현금흐름,933000000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/310764/000031076421000146/ ; https://www.sec.gov/Archives/edgar/data/310764/000031076421000111/,누적 2263000000 − 직전누적 1330000000 (시작 2021-01-01),6
+Stryker,SYK,2021Q3,2021-09-30,분기말 자산총계,34145000000,USD,공시,https://www.sec.gov/Archives/edgar/data/310764/000031076421000146/,,6
+Stryker,SYK,2021Q3,2021-09-30,분기말 부채총계,19967000000,USD,공시,https://www.sec.gov/Archives/edgar/data/310764/000031076421000146/,,6
+Stryker,SYK,2021Q3,2021-09-30,분기말 총자본(자기자본),14178000000,USD,공시,https://www.sec.gov/Archives/edgar/data/310764/000031076421000146/,,6
+Stryker,SYK,2021Q3,2021-09-30,분기말 지배지분 자본,14178000000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/310764/000031076421000146/,"StockholdersEquityIncludingPortionAttributableToNoncontrollingInterest, MinorityInterest 태그 없음",6
+Stryker,SYK,2021Q3,2021-09-30,분기말 종가,263.72,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/SYK?interval=1d&events=splits (2021-09-30),,6
+Stryker,SYK,2021Q3,2021-09-30,분기말 상장주식수,377239958,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/310764/000031076421000146/,dei:EntityCommonStockSharesOutstanding 클래스 합,6
+Stryker,SYK,2021Q3,2021-09-30,분기말 시가총액,99485721724,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/SYK?interval=1d&events=splits (2021-09-30) ; https://www.sec.gov/Archives/edgar/data/310764/000031076421000146/,종가 263.72 × 주식수 377239958,6
+Stryker,SYK,2021Q4,2021-12-31,분기별 매출액,4701000000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/310764/000031076422000028/ ; https://www.sec.gov/Archives/edgar/data/310764/000031076421000146/,연간 17108000000 − 9개월누적 12407000000 (Revenues),6
+Stryker,SYK,2021Q4,2021-12-31,분기별 영업이익,819000000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/310764/000031076422000028/ ; https://www.sec.gov/Archives/edgar/data/310764/000031076421000146/,연간 2584000000 − 9개월누적 1765000000 (OperatingIncomeLoss),6
+Stryker,SYK,2021Q4,2021-12-31,분기별 당기순이익(지배),662000000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/310764/000031076422000028/ ; https://www.sec.gov/Archives/edgar/data/310764/000031076421000146/,연간 1994000000 − 9개월누적 1332000000 (NetIncomeLoss),6
+Stryker,SYK,2021Q4,2021-12-31,분기별 영업활동현금흐름,1000000000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/310764/000031076422000028/ ; https://www.sec.gov/Archives/edgar/data/310764/000031076421000146/,누적 3263000000 − 직전누적 2263000000 (시작 2021-01-01),6
+Stryker,SYK,2021Q4,2021-12-31,분기말 자산총계,34631000000,USD,공시,https://www.sec.gov/Archives/edgar/data/310764/000031076422000028/,,6
+Stryker,SYK,2021Q4,2021-12-31,분기말 부채총계,19754000000,USD,공시,https://www.sec.gov/Archives/edgar/data/310764/000031076422000028/,,6
+Stryker,SYK,2021Q4,2021-12-31,분기말 총자본(자기자본),14877000000,USD,공시,https://www.sec.gov/Archives/edgar/data/310764/000031076422000028/,,6
+Stryker,SYK,2021Q4,2021-12-31,분기말 지배지분 자본,14877000000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/310764/000031076422000028/,"StockholdersEquityIncludingPortionAttributableToNoncontrollingInterest, MinorityInterest 태그 없음",6
+Stryker,SYK,2021Q4,2021-12-31,분기말 종가,267.42,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/SYK?interval=1d&events=splits (2021-12-31),,6
+Stryker,SYK,2021Q4,2022-01-31,분기말 상장주식수,377544686,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/310764/000031076422000028/,dei:EntityCommonStockSharesOutstanding 클래스 합,6
+Stryker,SYK,2021Q4,2021-12-31,분기말 시가총액,100962999930,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/SYK?interval=1d&events=splits (2021-12-31) ; https://www.sec.gov/Archives/edgar/data/310764/000031076422000028/,종가 267.42 × 주식수 377544686,6
+Stryker,SYK,2022Q1,2022-03-31,분기별 매출액,4275000000,USD,공시,https://www.sec.gov/Archives/edgar/data/310764/000031076422000062/,,6
+Stryker,SYK,2022Q1,2022-03-31,분기별 영업이익,447000000,USD,공시,https://www.sec.gov/Archives/edgar/data/310764/000031076422000062/,,6
+Stryker,SYK,2022Q1,2022-03-31,분기별 당기순이익(지배),323000000,USD,공시,https://www.sec.gov/Archives/edgar/data/310764/000031076422000062/,,6
+Stryker,SYK,2022Q1,2022-03-31,분기별 영업활동현금흐름,203000000,USD,공시,https://www.sec.gov/Archives/edgar/data/310764/000031076422000062/,,6
+Stryker,SYK,2022Q1,2022-03-31,분기말 자산총계,36137000000,USD,공시,https://www.sec.gov/Archives/edgar/data/310764/000031076422000062/,,6
+Stryker,SYK,2022Q1,2022-03-31,분기말 부채총계,21091000000,USD,공시,https://www.sec.gov/Archives/edgar/data/310764/000031076422000062/,,6
+Stryker,SYK,2022Q1,2022-03-31,분기말 총자본(자기자본),15046000000,USD,공시,https://www.sec.gov/Archives/edgar/data/310764/000031076422000062/,,6
+Stryker,SYK,2022Q1,2022-03-31,분기말 지배지분 자본,15046000000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/310764/000031076422000062/,"StockholdersEquityIncludingPortionAttributableToNoncontrollingInterest, MinorityInterest 태그 없음",6
+Stryker,SYK,2022Q1,2022-03-31,분기말 종가,267.35,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/SYK?interval=1d&events=splits (2022-03-31),,6
+Stryker,SYK,2022Q1,2022-03-31,분기말 상장주식수,378154080,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/310764/000031076422000062/,dei:EntityCommonStockSharesOutstanding 클래스 합,6
+Stryker,SYK,2022Q1,2022-03-31,분기말 시가총액,101099493288,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/SYK?interval=1d&events=splits (2022-03-31) ; https://www.sec.gov/Archives/edgar/data/310764/000031076422000062/,종가 267.35 × 주식수 378154080,6
+Stryker,SYK,2022Q2,2022-06-30,분기별 매출액,4493000000,USD,공시,https://www.sec.gov/Archives/edgar/data/310764/000031076422000092/,,6
+Stryker,SYK,2022Q2,2022-06-30,분기별 영업이익,772000000,USD,공시,https://www.sec.gov/Archives/edgar/data/310764/000031076422000092/,,6
+Stryker,SYK,2022Q2,2022-06-30,분기별 당기순이익(지배),656000000,USD,공시,https://www.sec.gov/Archives/edgar/data/310764/000031076422000092/,,6
+Stryker,SYK,2022Q2,2022-06-30,분기별 영업활동현금흐름,529000000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/310764/000031076422000092/ ; https://www.sec.gov/Archives/edgar/data/310764/000031076422000062/,누적 732000000 − 직전누적 203000000 (시작 2022-01-01),6
+Stryker,SYK,2022Q2,2022-06-30,분기말 자산총계,36032000000,USD,공시,https://www.sec.gov/Archives/edgar/data/310764/000031076422000092/,,6
+Stryker,SYK,2022Q2,2022-06-30,분기말 부채총계,20358000000,USD,공시,https://www.sec.gov/Archives/edgar/data/310764/000031076422000092/,,6
+Stryker,SYK,2022Q2,2022-06-30,분기말 총자본(자기자본),15674000000,USD,공시,https://www.sec.gov/Archives/edgar/data/310764/000031076422000092/,,6
+Stryker,SYK,2022Q2,2022-06-30,분기말 지배지분 자본,15674000000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/310764/000031076422000092/,"StockholdersEquityIncludingPortionAttributableToNoncontrollingInterest, MinorityInterest 태그 없음",6
+Stryker,SYK,2022Q2,2022-06-30,분기말 종가,198.93,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/SYK?interval=1d&events=splits (2022-06-30),,6
+Stryker,SYK,2022Q2,2022-06-30,분기말 상장주식수,378320706,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/310764/000031076422000092/,dei:EntityCommonStockSharesOutstanding 클래스 합,6
+Stryker,SYK,2022Q2,2022-06-30,분기말 시가총액,75259338045,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/SYK?interval=1d&events=splits (2022-06-30) ; https://www.sec.gov/Archives/edgar/data/310764/000031076422000092/,종가 198.93 × 주식수 378320706,6
+Stryker,SYK,2022Q3,2022-09-30,분기별 매출액,4479000000,USD,공시,https://www.sec.gov/Archives/edgar/data/310764/000031076422000105/,,6
+Stryker,SYK,2022Q3,2022-09-30,분기별 영업이익,808000000,USD,공시,https://www.sec.gov/Archives/edgar/data/310764/000031076422000105/,,6
+Stryker,SYK,2022Q3,2022-09-30,분기별 당기순이익(지배),816000000,USD,공시,https://www.sec.gov/Archives/edgar/data/310764/000031076422000105/,,6
+Stryker,SYK,2022Q3,2022-09-30,분기별 영업활동현금흐름,889000000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/310764/000031076422000105/ ; https://www.sec.gov/Archives/edgar/data/310764/000031076422000092/,누적 1621000000 − 직전누적 732000000 (시작 2022-01-01),6
+Stryker,SYK,2022Q3,2022-09-30,분기말 자산총계,35983000000,USD,공시,https://www.sec.gov/Archives/edgar/data/310764/000031076422000105/,,6
+Stryker,SYK,2022Q3,2022-09-30,분기말 부채총계,19520000000,USD,공시,https://www.sec.gov/Archives/edgar/data/310764/000031076422000105/,,6
+Stryker,SYK,2022Q3,2022-09-30,분기말 총자본(자기자본),16463000000,USD,공시,https://www.sec.gov/Archives/edgar/data/310764/000031076422000105/,,6
+Stryker,SYK,2022Q3,2022-09-30,분기말 지배지분 자본,16463000000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/310764/000031076422000105/,"StockholdersEquityIncludingPortionAttributableToNoncontrollingInterest, MinorityInterest 태그 없음",6
+Stryker,SYK,2022Q3,2022-09-30,분기말 종가,202.54,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/SYK?interval=1d&events=splits (2022-09-30),,6
+Stryker,SYK,2022Q3,2022-09-30,분기말 상장주식수,378429929,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/310764/000031076422000105/,dei:EntityCommonStockSharesOutstanding 클래스 합,6
+Stryker,SYK,2022Q3,2022-09-30,분기말 시가총액,76647197820,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/SYK?interval=1d&events=splits (2022-09-30) ; https://www.sec.gov/Archives/edgar/data/310764/000031076422000105/,종가 202.54 × 주식수 378429929,6
+Stryker,SYK,2022Q4,2022-12-31,분기별 매출액,5202000000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/310764/000031076423000017/ ; https://www.sec.gov/Archives/edgar/data/310764/000031076422000105/,연간 18449000000 − 9개월누적 13247000000 (Revenues),6
+Stryker,SYK,2022Q4,2022-12-31,분기별 영업이익,814000000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/310764/000031076423000017/ ; https://www.sec.gov/Archives/edgar/data/310764/000031076422000105/,연간 2841000000 − 9개월누적 2027000000 (OperatingIncomeLoss),6
+Stryker,SYK,2022Q4,2022-12-31,분기별 당기순이익(지배),563000000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/310764/000031076423000017/ ; https://www.sec.gov/Archives/edgar/data/310764/000031076422000105/,연간 2358000000 − 9개월누적 1795000000 (NetIncomeLoss),6
+Stryker,SYK,2022Q4,2022-12-31,분기별 영업활동현금흐름,1003000000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/310764/000031076423000017/ ; https://www.sec.gov/Archives/edgar/data/310764/000031076422000105/,누적 2624000000 − 직전누적 1621000000 (시작 2022-01-01),6
+Stryker,SYK,2022Q4,2022-12-31,분기말 자산총계,36884000000,USD,공시,https://www.sec.gov/Archives/edgar/data/310764/000031076423000017/,,6
+Stryker,SYK,2022Q4,2022-12-31,분기말 부채총계,20268000000,USD,공시,https://www.sec.gov/Archives/edgar/data/310764/000031076423000017/,,6
+Stryker,SYK,2022Q4,2022-12-31,분기말 총자본(자기자본),16616000000,USD,공시,https://www.sec.gov/Archives/edgar/data/310764/000031076423000017/,,6
+Stryker,SYK,2022Q4,2022-12-31,분기말 지배지분 자본,16616000000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/310764/000031076423000017/,"StockholdersEquityIncludingPortionAttributableToNoncontrollingInterest, MinorityInterest 태그 없음",6
+Stryker,SYK,2022Q4,2022-12-30,분기말 종가,244.49,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/SYK?interval=1d&events=splits (2022-12-30),,6
+Stryker,SYK,2022Q4,2023-01-31,분기말 상장주식수,378831249,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/310764/000031076423000017/,dei:EntityCommonStockSharesOutstanding 클래스 합,6
+Stryker,SYK,2022Q4,2022-12-30,분기말 시가총액,92620452068,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/SYK?interval=1d&events=splits (2022-12-30) ; https://www.sec.gov/Archives/edgar/data/310764/000031076423000017/,종가 244.49 × 주식수 378831249,6
+Stryker,SYK,2023Q1,2023-03-31,분기별 매출액,4778000000,USD,공시,https://www.sec.gov/Archives/edgar/data/310764/000031076423000067/,,6
+Stryker,SYK,2023Q1,2023-03-31,분기별 영업이익,735000000,USD,공시,https://www.sec.gov/Archives/edgar/data/310764/000031076423000067/,,6
+Stryker,SYK,2023Q1,2023-03-31,분기별 당기순이익(지배),592000000,USD,공시,https://www.sec.gov/Archives/edgar/data/310764/000031076423000067/,,6
+Stryker,SYK,2023Q1,2023-03-31,분기별 영업활동현금흐름,445000000,USD,공시,https://www.sec.gov/Archives/edgar/data/310764/000031076423000067/,,6
+Stryker,SYK,2023Q1,2023-03-31,분기말 자산총계,36830000000,USD,공시,https://www.sec.gov/Archives/edgar/data/310764/000031076423000067/,,6
+Stryker,SYK,2023Q1,2023-03-31,분기말 부채총계,19935000000,USD,공시,https://www.sec.gov/Archives/edgar/data/310764/000031076423000067/,,6
+Stryker,SYK,2023Q1,2023-03-31,분기말 총자본(자기자본),16895000000,USD,공시,https://www.sec.gov/Archives/edgar/data/310764/000031076423000067/,,6
+Stryker,SYK,2023Q1,2023-03-31,분기말 지배지분 자본,16895000000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/310764/000031076423000067/,"StockholdersEquityIncludingPortionAttributableToNoncontrollingInterest, MinorityInterest 태그 없음",6
+Stryker,SYK,2023Q1,2023-03-31,분기말 종가,285.47,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/SYK?interval=1d&events=splits (2023-03-31),,6
+Stryker,SYK,2023Q1,2023-03-31,분기말 상장주식수,379608166,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/310764/000031076423000067/,dei:EntityCommonStockSharesOutstanding 클래스 합,6
+Stryker,SYK,2023Q1,2023-03-31,분기말 시가총액,108366743148,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/SYK?interval=1d&events=splits (2023-03-31) ; https://www.sec.gov/Archives/edgar/data/310764/000031076423000067/,종가 285.47 × 주식수 379608166,6
+Stryker,SYK,2023Q2,2023-06-30,분기별 매출액,4996000000,USD,공시,https://www.sec.gov/Archives/edgar/data/310764/000031076423000106/,,6
+Stryker,SYK,2023Q2,2023-06-30,분기별 영업이익,965000000,USD,공시,https://www.sec.gov/Archives/edgar/data/310764/000031076423000106/,,6
+Stryker,SYK,2023Q2,2023-06-30,분기별 당기순이익(지배),738000000,USD,공시,https://www.sec.gov/Archives/edgar/data/310764/000031076423000106/,,6
+Stryker,SYK,2023Q2,2023-06-30,분기별 영업활동현금흐름,688000000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/310764/000031076423000106/ ; https://www.sec.gov/Archives/edgar/data/310764/000031076423000067/,누적 1133000000 − 직전누적 445000000 (시작 2023-01-01),6
+Stryker,SYK,2023Q2,2023-06-30,분기말 자산총계,37409000000,USD,공시,https://www.sec.gov/Archives/edgar/data/310764/000031076423000106/,,6
+Stryker,SYK,2023Q2,2023-06-30,분기말 부채총계,20048000000,USD,공시,https://www.sec.gov/Archives/edgar/data/310764/000031076423000106/,,6
+Stryker,SYK,2023Q2,2023-06-30,분기말 총자본(자기자본),17361000000,USD,공시,https://www.sec.gov/Archives/edgar/data/310764/000031076423000106/,,6
+Stryker,SYK,2023Q2,2023-06-30,분기말 지배지분 자본,17361000000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/310764/000031076423000106/,"StockholdersEquityIncludingPortionAttributableToNoncontrollingInterest, MinorityInterest 태그 없음",6
+Stryker,SYK,2023Q2,2023-06-30,분기말 종가,305.09,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/SYK?interval=1d&events=splits (2023-06-30),,6
+Stryker,SYK,2023Q2,2023-06-30,분기말 상장주식수,379778279,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/310764/000031076423000106/,dei:EntityCommonStockSharesOutstanding 클래스 합,6
+Stryker,SYK,2023Q2,2023-06-30,분기말 시가총액,115866555140,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/SYK?interval=1d&events=splits (2023-06-30) ; https://www.sec.gov/Archives/edgar/data/310764/000031076423000106/,종가 305.09 × 주식수 379778279,6
+Stryker,SYK,2023Q3,2023-09-30,분기별 매출액,4909000000,USD,공시,https://www.sec.gov/Archives/edgar/data/310764/000031076423000116/,,6
+Stryker,SYK,2023Q3,2023-09-30,분기별 영업이익,931000000,USD,공시,https://www.sec.gov/Archives/edgar/data/310764/000031076423000116/,,6
+Stryker,SYK,2023Q3,2023-09-30,분기별 당기순이익(지배),692000000,USD,공시,https://www.sec.gov/Archives/edgar/data/310764/000031076423000116/,,6
+Stryker,SYK,2023Q3,2023-09-30,분기별 영업활동현금흐름,1050000000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/310764/000031076423000116/ ; https://www.sec.gov/Archives/edgar/data/310764/000031076423000106/,누적 2183000000 − 직전누적 1133000000 (시작 2023-01-01),6
+Stryker,SYK,2023Q3,2023-09-30,분기말 자산총계,38042000000,USD,공시,https://www.sec.gov/Archives/edgar/data/310764/000031076423000116/,,6
+Stryker,SYK,2023Q3,2023-09-30,분기말 부채총계,20137000000,USD,공시,https://www.sec.gov/Archives/edgar/data/310764/000031076423000116/,,6
+Stryker,SYK,2023Q3,2023-09-30,분기말 총자본(자기자본),17905000000,USD,공시,https://www.sec.gov/Archives/edgar/data/310764/000031076423000116/,,6
+Stryker,SYK,2023Q3,2023-09-30,분기말 지배지분 자본,17905000000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/310764/000031076423000116/,"StockholdersEquityIncludingPortionAttributableToNoncontrollingInterest, MinorityInterest 태그 없음",6
+Stryker,SYK,2023Q3,2023-09-29,분기말 종가,273.27,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/SYK?interval=1d&events=splits (2023-09-29),,6
+Stryker,SYK,2023Q3,2023-09-30,분기말 상장주식수,379894650,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/310764/000031076423000116/,dei:EntityCommonStockSharesOutstanding 클래스 합,6
+Stryker,SYK,2023Q3,2023-09-29,분기말 시가총액,103813811006,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/SYK?interval=1d&events=splits (2023-09-29) ; https://www.sec.gov/Archives/edgar/data/310764/000031076423000116/,종가 273.27 × 주식수 379894650,6
+Stryker,SYK,2023Q4,2023-12-31,분기별 매출액,5815000000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/310764/000031076424000024/ ; https://www.sec.gov/Archives/edgar/data/310764/000031076423000116/,연간 20498000000 − 9개월누적 14683000000 (Revenues),6
+Stryker,SYK,2023Q4,2023-12-31,분기별 영업이익,1257000000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/310764/000031076424000024/ ; https://www.sec.gov/Archives/edgar/data/310764/000031076423000116/,연간 3888000000 − 9개월누적 2631000000 (OperatingIncomeLoss),6
+Stryker,SYK,2023Q4,2023-12-31,분기별 당기순이익(지배),1143000000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/310764/000031076424000024/ ; https://www.sec.gov/Archives/edgar/data/310764/000031076423000116/,연간 3165000000 − 9개월누적 2022000000 (NetIncomeLoss),6
+Stryker,SYK,2023Q4,2023-12-31,분기별 영업활동현금흐름,1528000000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/310764/000031076424000024/ ; https://www.sec.gov/Archives/edgar/data/310764/000031076423000116/,누적 3711000000 − 직전누적 2183000000 (시작 2023-01-01),6
+Stryker,SYK,2023Q4,2023-12-31,분기말 자산총계,39912000000,USD,공시,https://www.sec.gov/Archives/edgar/data/310764/000031076424000024/,,6
+Stryker,SYK,2023Q4,2023-12-31,분기말 부채총계,21319000000,USD,공시,https://www.sec.gov/Archives/edgar/data/310764/000031076424000024/,,6
+Stryker,SYK,2023Q4,2023-12-31,분기말 총자본(자기자본),18593000000,USD,공시,https://www.sec.gov/Archives/edgar/data/310764/000031076424000024/,,6
+Stryker,SYK,2023Q4,2023-12-31,분기말 지배지분 자본,18593000000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/310764/000031076424000024/,"StockholdersEquityIncludingPortionAttributableToNoncontrollingInterest, MinorityInterest 태그 없음",6
+Stryker,SYK,2023Q4,2023-12-29,분기말 종가,299.46,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/SYK?interval=1d&events=splits (2023-12-29),,6
+Stryker,SYK,2023Q4,2024-01-31,분기말 상장주식수,380264036,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/310764/000031076424000024/,dei:EntityCommonStockSharesOutstanding 클래스 합,6
+Stryker,SYK,2023Q4,2023-12-29,분기말 시가총액,113873868221,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/SYK?interval=1d&events=splits (2023-12-29) ; https://www.sec.gov/Archives/edgar/data/310764/000031076424000024/,종가 299.46 × 주식수 380264036,6
+Stryker,SYK,2024Q1,2024-03-31,분기별 매출액,5243000000,USD,공시,https://www.sec.gov/Archives/edgar/data/310764/000031076424000064/,,6
+Stryker,SYK,2024Q1,2024-03-31,분기별 영업이익,972000000,USD,공시,https://www.sec.gov/Archives/edgar/data/310764/000031076424000064/,,6
+Stryker,SYK,2024Q1,2024-03-31,분기별 당기순이익(지배),788000000,USD,공시,https://www.sec.gov/Archives/edgar/data/310764/000031076424000064/,,6
+Stryker,SYK,2024Q1,2024-03-31,분기별 영업활동현금흐름,204000000,USD,공시,https://www.sec.gov/Archives/edgar/data/310764/000031076424000064/,,6
+Stryker,SYK,2024Q1,2024-03-31,분기말 자산총계,39402000000,USD,공시,https://www.sec.gov/Archives/edgar/data/310764/000031076424000064/,,6
+Stryker,SYK,2024Q1,2024-03-31,분기말 부채총계,20230000000,USD,공시,https://www.sec.gov/Archives/edgar/data/310764/000031076424000064/,,6
+Stryker,SYK,2024Q1,2024-03-31,분기말 총자본(자기자본),19172000000,USD,공시,https://www.sec.gov/Archives/edgar/data/310764/000031076424000064/,,6
+Stryker,SYK,2024Q1,2024-03-31,분기말 지배지분 자본,19172000000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/310764/000031076424000064/,"StockholdersEquityIncludingPortionAttributableToNoncontrollingInterest, MinorityInterest 태그 없음",6
+Stryker,SYK,2024Q1,2024-03-28,분기말 종가,357.87,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/SYK?interval=1d&events=splits (2024-03-28),,6
+Stryker,SYK,2024Q1,2024-03-31,분기말 상장주식수,380949778,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/310764/000031076424000064/,dei:EntityCommonStockSharesOutstanding 클래스 합,6
+Stryker,SYK,2024Q1,2024-03-28,분기말 시가총액,136330497053,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/SYK?interval=1d&events=splits (2024-03-28) ; https://www.sec.gov/Archives/edgar/data/310764/000031076424000064/,종가 357.87 × 주식수 380949778,6
+Stryker,SYK,2024Q2,2024-06-30,분기별 매출액,5422000000,USD,공시,https://www.sec.gov/Archives/edgar/data/310764/000031076424000098/,,6
+Stryker,SYK,2024Q2,2024-06-30,분기별 영업이익,1051000000,USD,공시,https://www.sec.gov/Archives/edgar/data/310764/000031076424000098/,,6
+Stryker,SYK,2024Q2,2024-06-30,분기별 당기순이익(지배),825000000,USD,공시,https://www.sec.gov/Archives/edgar/data/310764/000031076424000098/,,6
+Stryker,SYK,2024Q2,2024-06-30,분기별 영업활동현금흐름,633000000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/310764/000031076424000098/ ; https://www.sec.gov/Archives/edgar/data/310764/000031076424000064/,누적 837000000 − 직전누적 204000000 (시작 2024-01-01),6
+Stryker,SYK,2024Q2,2024-06-30,분기말 자산총계,39130000000,USD,공시,https://www.sec.gov/Archives/edgar/data/310764/000031076424000098/,,6
+Stryker,SYK,2024Q2,2024-06-30,분기말 부채총계,19368000000,USD,공시,https://www.sec.gov/Archives/edgar/data/310764/000031076424000098/,,6
+Stryker,SYK,2024Q2,2024-06-30,분기말 총자본(자기자본),19762000000,USD,공시,https://www.sec.gov/Archives/edgar/data/310764/000031076424000098/,,6
+Stryker,SYK,2024Q2,2024-06-30,분기말 지배지분 자본,19762000000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/310764/000031076424000098/,"StockholdersEquityIncludingPortionAttributableToNoncontrollingInterest, MinorityInterest 태그 없음",6
+Stryker,SYK,2024Q2,2024-06-28,분기말 종가,340.25,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/SYK?interval=1d&events=splits (2024-06-28),,6
+Stryker,SYK,2024Q2,2024-06-30,분기말 상장주식수,381075364,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/310764/000031076424000098/,dei:EntityCommonStockSharesOutstanding 클래스 합,6
+Stryker,SYK,2024Q2,2024-06-28,분기말 시가총액,129660892601,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/SYK?interval=1d&events=splits (2024-06-28) ; https://www.sec.gov/Archives/edgar/data/310764/000031076424000098/,종가 340.25 × 주식수 381075364,6
+Stryker,SYK,2024Q3,2024-09-30,분기별 매출액,5494000000,USD,공시,https://www.sec.gov/Archives/edgar/data/310764/000031076424000115/,,6
+Stryker,SYK,2024Q3,2024-09-30,분기별 영업이익,1085000000,USD,공시,https://www.sec.gov/Archives/edgar/data/310764/000031076424000115/,,6
+Stryker,SYK,2024Q3,2024-09-30,분기별 당기순이익(지배),834000000,USD,공시,https://www.sec.gov/Archives/edgar/data/310764/000031076424000115/,,6
+Stryker,SYK,2024Q3,2024-09-30,분기별 영업활동현금흐름,1474000000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/310764/000031076424000115/ ; https://www.sec.gov/Archives/edgar/data/310764/000031076424000098/,누적 2311000000 − 직전누적 837000000 (시작 2024-01-01),6
+Stryker,SYK,2024Q3,2024-09-30,분기말 자산총계,43833000000,USD,공시,https://www.sec.gov/Archives/edgar/data/310764/000031076424000115/,,6
+Stryker,SYK,2024Q3,2024-09-30,분기말 부채총계,23684000000,USD,공시,https://www.sec.gov/Archives/edgar/data/310764/000031076424000115/,,6
+Stryker,SYK,2024Q3,2024-09-30,분기말 총자본(자기자본),20149000000,USD,공시,https://www.sec.gov/Archives/edgar/data/310764/000031076424000115/,,6
+Stryker,SYK,2024Q3,2024-09-30,분기말 지배지분 자본,20149000000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/310764/000031076424000115/,"StockholdersEquityIncludingPortionAttributableToNoncontrollingInterest, MinorityInterest 태그 없음",6
+Stryker,SYK,2024Q3,2024-09-30,분기말 종가,361.26,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/SYK?interval=1d&events=splits (2024-09-30),,6
+Stryker,SYK,2024Q3,2024-09-30,분기말 상장주식수,381215773,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/310764/000031076424000115/,dei:EntityCommonStockSharesOutstanding 클래스 합,6
+Stryker,SYK,2024Q3,2024-09-30,분기말 시가총액,137718010154,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/SYK?interval=1d&events=splits (2024-09-30) ; https://www.sec.gov/Archives/edgar/data/310764/000031076424000115/,종가 361.26 × 주식수 381215773,6
+Stryker,SYK,2024Q4,2024-12-31,분기별 매출액,6436000000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/310764/000031076425000023/ ; https://www.sec.gov/Archives/edgar/data/310764/000031076424000115/,연간 22595000000 − 9개월누적 16159000000 (Revenues),6
+Stryker,SYK,2024Q4,2024-12-31,분기별 영업이익,581000000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/310764/000031076425000023/ ; https://www.sec.gov/Archives/edgar/data/310764/000031076424000115/,연간 3689000000 − 9개월누적 3108000000 (OperatingIncomeLoss),6
+Stryker,SYK,2024Q4,2024-12-31,분기별 당기순이익(지배),546000000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/310764/000031076425000023/ ; https://www.sec.gov/Archives/edgar/data/310764/000031076424000115/,연간 2993000000 − 9개월누적 2447000000 (NetIncomeLoss),6
+Stryker,SYK,2024Q4,2024-12-31,분기별 영업활동현금흐름,1931000000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/310764/000031076425000023/ ; https://www.sec.gov/Archives/edgar/data/310764/000031076424000115/,누적 4242000000 − 직전누적 2311000000 (시작 2024-01-01),6
+Stryker,SYK,2024Q4,2024-12-31,분기말 자산총계,42971000000,USD,공시,https://www.sec.gov/Archives/edgar/data/310764/000031076425000023/,,6
+Stryker,SYK,2024Q4,2024-12-31,분기말 부채총계,22337000000,USD,공시,https://www.sec.gov/Archives/edgar/data/310764/000031076425000023/,,6
+Stryker,SYK,2024Q4,2024-12-31,분기말 총자본(자기자본),20634000000,USD,공시,https://www.sec.gov/Archives/edgar/data/310764/000031076425000023/,,6
+Stryker,SYK,2024Q4,2024-12-31,분기말 지배지분 자본,20634000000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/310764/000031076425000023/,"StockholdersEquityIncludingPortionAttributableToNoncontrollingInterest, MinorityInterest 태그 없음",6
+Stryker,SYK,2024Q4,2024-12-31,분기말 종가,360.05,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/SYK?interval=1d&events=splits (2024-12-31),,6
+Stryker,SYK,2024Q4,2025-01-31,분기말 상장주식수,381579123,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/310764/000031076425000023/,dei:EntityCommonStockSharesOutstanding 클래스 합,6
+Stryker,SYK,2024Q4,2024-12-31,분기말 시가총액,137387563236,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/SYK?interval=1d&events=splits (2024-12-31) ; https://www.sec.gov/Archives/edgar/data/310764/000031076425000023/,종가 360.05 × 주식수 381579123,6
+Stryker,SYK,2025Q1,2025-03-31,분기별 매출액,5866000000,USD,공시,https://www.sec.gov/Archives/edgar/data/310764/000031076425000075/,,6
+Stryker,SYK,2025Q1,2025-03-31,분기별 영업이익,837000000,USD,공시,https://www.sec.gov/Archives/edgar/data/310764/000031076425000075/,,6
+Stryker,SYK,2025Q1,2025-03-31,분기별 당기순이익(지배),654000000,USD,공시,https://www.sec.gov/Archives/edgar/data/310764/000031076425000075/,,6
+Stryker,SYK,2025Q1,2025-03-31,분기별 영업활동현금흐름,250000000,USD,공시,https://www.sec.gov/Archives/edgar/data/310764/000031076425000075/,,6
+Stryker,SYK,2025Q1,2025-03-31,분기말 자산총계,46006000000,USD,공시,https://www.sec.gov/Archives/edgar/data/310764/000031076425000075/,,6
+Stryker,SYK,2025Q1,2025-03-31,분기말 부채총계,25076000000,USD,공시,https://www.sec.gov/Archives/edgar/data/310764/000031076425000075/,,6
+Stryker,SYK,2025Q1,2025-03-31,분기말 총자본(자기자본),20930000000,USD,공시,https://www.sec.gov/Archives/edgar/data/310764/000031076425000075/,,6
+Stryker,SYK,2025Q1,2025-03-31,분기말 지배지분 자본,20930000000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/310764/000031076425000075/,"StockholdersEquityIncludingPortionAttributableToNoncontrollingInterest, MinorityInterest 태그 없음",6
+Stryker,SYK,2025Q1,2025-03-31,분기말 종가,372.25,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/SYK?interval=1d&events=splits (2025-03-31),,6
+Stryker,SYK,2025Q1,2025-03-31,분기말 상장주식수,382164865,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/310764/000031076425000075/,dei:EntityCommonStockSharesOutstanding 클래스 합,6
+Stryker,SYK,2025Q1,2025-03-31,분기말 시가총액,142260870996,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/SYK?interval=1d&events=splits (2025-03-31) ; https://www.sec.gov/Archives/edgar/data/310764/000031076425000075/,종가 372.25 × 주식수 382164865,6
+Stryker,SYK,2025Q2,2025-06-30,분기별 매출액,6022000000,USD,공시,https://www.sec.gov/Archives/edgar/data/310764/000031076425000107/,,6
+Stryker,SYK,2025Q2,2025-06-30,분기별 영업이익,1113000000,USD,공시,https://www.sec.gov/Archives/edgar/data/310764/000031076425000107/,,6
+Stryker,SYK,2025Q2,2025-06-30,분기별 당기순이익(지배),884000000,USD,공시,https://www.sec.gov/Archives/edgar/data/310764/000031076425000107/,,6
+Stryker,SYK,2025Q2,2025-06-30,분기별 영업활동현금흐름,1111000000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/310764/000031076425000107/ ; https://www.sec.gov/Archives/edgar/data/310764/000031076425000075/,누적 1361000000 − 직전누적 250000000 (시작 2025-01-01),6
+Stryker,SYK,2025Q2,2025-06-30,분기말 자산총계,46331000000,USD,공시,https://www.sec.gov/Archives/edgar/data/310764/000031076425000107/,,6
+Stryker,SYK,2025Q2,2025-06-30,분기말 부채총계,25140000000,USD,공시,https://www.sec.gov/Archives/edgar/data/310764/000031076425000107/,,6
+Stryker,SYK,2025Q2,2025-06-30,분기말 총자본(자기자본),21191000000,USD,공시,https://www.sec.gov/Archives/edgar/data/310764/000031076425000107/,,6
+Stryker,SYK,2025Q2,2025-06-30,분기말 지배지분 자본,21191000000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/310764/000031076425000107/,"StockholdersEquityIncludingPortionAttributableToNoncontrollingInterest, MinorityInterest 태그 없음",6
+Stryker,SYK,2025Q2,2025-06-30,분기말 종가,395.63,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/SYK?interval=1d&events=splits (2025-06-30),,6
+Stryker,SYK,2025Q2,2025-06-30,분기말 상장주식수,382307298,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/310764/000031076425000107/,dei:EntityCommonStockSharesOutstanding 클래스 합,6
+Stryker,SYK,2025Q2,2025-06-30,분기말 시가총액,151252236308,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/SYK?interval=1d&events=splits (2025-06-30) ; https://www.sec.gov/Archives/edgar/data/310764/000031076425000107/,종가 395.63 × 주식수 382307298,6
+Stryker,SYK,2025Q3,2025-09-30,분기별 매출액,6057000000,USD,공시,https://www.sec.gov/Archives/edgar/data/310764/000031076425000129/,,6
+Stryker,SYK,2025Q3,2025-09-30,분기별 영업이익,1135000000,USD,공시,https://www.sec.gov/Archives/edgar/data/310764/000031076425000129/,,6
+Stryker,SYK,2025Q3,2025-09-30,분기별 당기순이익(지배),859000000,USD,공시,https://www.sec.gov/Archives/edgar/data/310764/000031076425000129/,,6
+Stryker,SYK,2025Q3,2025-09-30,분기별 영업활동현금흐름,1540000000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/310764/000031076425000129/ ; https://www.sec.gov/Archives/edgar/data/310764/000031076425000107/,누적 2901000000 − 직전누적 1361000000 (시작 2025-01-01),6
+Stryker,SYK,2025Q3,2025-09-30,분기말 자산총계,47057000000,USD,공시,https://www.sec.gov/Archives/edgar/data/310764/000031076425000129/,,6
+Stryker,SYK,2025Q3,2025-09-30,분기말 부채총계,25272000000,USD,공시,https://www.sec.gov/Archives/edgar/data/310764/000031076425000129/,,6
+Stryker,SYK,2025Q3,2025-09-30,분기말 총자본(자기자본),21785000000,USD,공시,https://www.sec.gov/Archives/edgar/data/310764/000031076425000129/,,6
+Stryker,SYK,2025Q3,2025-09-30,분기말 지배지분 자본,21785000000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/310764/000031076425000129/,"StockholdersEquityIncludingPortionAttributableToNoncontrollingInterest, MinorityInterest 태그 없음",6
+Stryker,SYK,2025Q3,2025-09-30,분기말 종가,369.67,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/SYK?interval=1d&events=splits (2025-09-30),,6
+Stryker,SYK,2025Q3,2025-09-30,분기말 상장주식수,382423648,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/310764/000031076425000129/,dei:EntityCommonStockSharesOutstanding 클래스 합,6
+Stryker,SYK,2025Q3,2025-09-30,분기말 시가총액,141370549956,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/SYK?interval=1d&events=splits (2025-09-30) ; https://www.sec.gov/Archives/edgar/data/310764/000031076425000129/,종가 369.67 × 주식수 382423648,6
+Stryker,SYK,2025Q4,2025-12-31,분기별 매출액,7171000000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/310764/000031076426000010/ ; https://www.sec.gov/Archives/edgar/data/310764/000031076425000129/,연간 25116000000 − 9개월누적 17945000000 (Revenues),6
+Stryker,SYK,2025Q4,2025-12-31,분기별 영업이익,1804000000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/310764/000031076426000010/ ; https://www.sec.gov/Archives/edgar/data/310764/000031076425000129/,연간 4889000000 − 9개월누적 3085000000 (OperatingIncomeLoss),6
+Stryker,SYK,2025Q4,2025-12-31,분기별 당기순이익(지배),849000000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/310764/000031076426000010/ ; https://www.sec.gov/Archives/edgar/data/310764/000031076425000129/,연간 3246000000 − 9개월누적 2397000000 (NetIncomeLoss),6
+Stryker,SYK,2025Q4,2025-12-31,분기별 영업활동현금흐름,2143000000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/310764/000031076426000010/ ; https://www.sec.gov/Archives/edgar/data/310764/000031076425000129/,누적 5044000000 − 직전누적 2901000000 (시작 2025-01-01),6
+Stryker,SYK,2025Q4,2025-12-31,분기말 자산총계,47844000000,USD,공시,https://www.sec.gov/Archives/edgar/data/310764/000031076426000010/,,6
+Stryker,SYK,2025Q4,2025-12-31,분기말 부채총계,25424000000,USD,공시,https://www.sec.gov/Archives/edgar/data/310764/000031076426000010/,,6
+Stryker,SYK,2025Q4,2025-12-31,분기말 총자본(자기자본),22420000000,USD,공시,https://www.sec.gov/Archives/edgar/data/310764/000031076426000010/,,6
+Stryker,SYK,2025Q4,2025-12-31,분기말 지배지분 자본,22420000000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/310764/000031076426000010/,"StockholdersEquityIncludingPortionAttributableToNoncontrollingInterest, MinorityInterest 태그 없음",6
+Stryker,SYK,2025Q4,2025-12-31,분기말 종가,351.47,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/SYK?interval=1d&events=splits (2025-12-31),,6
+Stryker,SYK,2025Q4,2026-01-31,분기말 상장주식수,382688675,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/310764/000031076426000010/,dei:EntityCommonStockSharesOutstanding 클래스 합,6
+Stryker,SYK,2025Q4,2025-12-31,분기말 시가총액,134503588602,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/SYK?interval=1d&events=splits (2025-12-31) ; https://www.sec.gov/Archives/edgar/data/310764/000031076426000010/,종가 351.47 × 주식수 382688675,6
+Stryker,SYK,2026Q1,2026-03-31,분기별 매출액,6020000000,USD,공시,https://www.sec.gov/Archives/edgar/data/310764/000031076426000031/,,6
+Stryker,SYK,2026Q1,2026-03-31,분기별 영업이익,936000000,USD,공시,https://www.sec.gov/Archives/edgar/data/310764/000031076426000031/,,6
+Stryker,SYK,2026Q1,2026-03-31,분기별 당기순이익(지배),745000000,USD,공시,https://www.sec.gov/Archives/edgar/data/310764/000031076426000031/,,6
+Stryker,SYK,2026Q1,2026-03-31,분기별 영업활동현금흐름,581000000,USD,공시,https://www.sec.gov/Archives/edgar/data/310764/000031076426000031/,,6
+Stryker,SYK,2026Q1,2026-03-31,분기말 자산총계,46291000000,USD,공시,https://www.sec.gov/Archives/edgar/data/310764/000031076426000031/,,6
+Stryker,SYK,2026Q1,2026-03-31,분기말 부채총계,23312000000,USD,공시,https://www.sec.gov/Archives/edgar/data/310764/000031076426000031/,,6
+Stryker,SYK,2026Q1,2026-03-31,분기말 총자본(자기자본),22979000000,USD,공시,https://www.sec.gov/Archives/edgar/data/310764/000031076426000031/,,6
+Stryker,SYK,2026Q1,2026-03-31,분기말 지배지분 자본,22979000000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/310764/000031076426000031/,"StockholdersEquityIncludingPortionAttributableToNoncontrollingInterest, MinorityInterest 태그 없음",6
+Stryker,SYK,2026Q1,2026-03-31,분기말 종가,328.59,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/SYK?interval=1d&events=splits (2026-03-31),,6
+Stryker,SYK,2026Q1,2026-03-31,분기말 상장주식수,383360762,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/310764/000031076426000031/,dei:EntityCommonStockSharesOutstanding 클래스 합,6
+Stryker,SYK,2026Q1,2026-03-31,분기말 시가총액,125968512786,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/SYK?interval=1d&events=splits (2026-03-31) ; https://www.sec.gov/Archives/edgar/data/310764/000031076426000031/,종가 328.59 × 주식수 383360762,6
+Stryker,SYK,2026Q2,2026-06-30,분기별 매출액,6589000000,USD,공시,https://www.sec.gov/Archives/edgar/data/310764/000031076426000050/,,6
+Stryker,SYK,2026Q2,2026-06-30,분기별 영업이익,1659000000,USD,공시,https://www.sec.gov/Archives/edgar/data/310764/000031076426000050/,,6
+Stryker,SYK,2026Q2,2026-06-30,분기별 당기순이익(지배),1276000000,USD,공시,https://www.sec.gov/Archives/edgar/data/310764/000031076426000050/,,6
+Stryker,SYK,2026Q2,2026-06-30,분기별 영업활동현금흐름,1261000000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/310764/000031076426000050/ ; https://www.sec.gov/Archives/edgar/data/310764/000031076426000031/,누적 1842000000 − 직전누적 581000000 (시작 2026-01-01),6
+Stryker,SYK,2026Q2,2026-06-30,분기말 자산총계,47930000000,USD,공시,https://www.sec.gov/Archives/edgar/data/310764/000031076426000050/,,6
+Stryker,SYK,2026Q2,2026-06-30,분기말 부채총계,23942000000,USD,공시,https://www.sec.gov/Archives/edgar/data/310764/000031076426000050/,,6
+Stryker,SYK,2026Q2,2026-06-30,분기말 총자본(자기자본),23988000000,USD,공시,https://www.sec.gov/Archives/edgar/data/310764/000031076426000050/,,6
+Stryker,SYK,2026Q2,2026-06-30,분기말 지배지분 자본,23988000000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/310764/000031076426000050/,"StockholdersEquityIncludingPortionAttributableToNoncontrollingInterest, MinorityInterest 태그 없음",6
+Stryker,SYK,2026Q2,2026-06-30,분기말 종가,314.84,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/SYK?interval=1d&events=splits (2026-06-30),,6
+Stryker,SYK,2026Q2,2026-06-30,분기말 상장주식수,383573046,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/310764/000031076426000050/,dei:EntityCommonStockSharesOutstanding 클래스 합,6
+Stryker,SYK,2026Q2,2026-06-30,분기말 시가총액,120764137803,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/SYK?interval=1d&events=splits (2026-06-30) ; https://www.sec.gov/Archives/edgar/data/310764/000031076426000050/,종가 314.84 × 주식수 383573046,6

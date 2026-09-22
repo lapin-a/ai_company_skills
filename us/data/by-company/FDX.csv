@@ -1,0 +1,727 @@
+﻿기업,종목코드,기간,기준일,항목,값,통화,값구분,출처,검산,라운드
+FedEx,FDX,2010Q1,2010-02-28,분기별 매출액,8701000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1048911/000095012310026283/,,8
+FedEx,FDX,2010Q1,2010-02-28,분기별 영업이익,416000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1048911/000095012310026283/,,8
+FedEx,FDX,2010Q1,2010-02-28,분기별 당기순이익(지배),239000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1048911/000095012310026283/,,8
+FedEx,FDX,2010Q1,2010-02-28,분기별 영업활동현금흐름,551000000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/1048911/000095012310026283/ ; https://www.sec.gov/Archives/edgar/data/1048911/000095012309071812/,누적 1908000000 − 직전누적 1357000000 (시작 2009-06-01),8
+FedEx,FDX,2010Q1,2010-02-28,분기말 자산총계,24876000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1048911/000095012310026283/,,8
+FedEx,FDX,2010Q1,2010-02-28,분기말 부채총계,10496000000,USD,계산(부채및자본-총자본),https://www.sec.gov/Archives/edgar/data/1048911/000095012310026283/,부채및자본 24876000000 − 총자본 14380000000,8
+FedEx,FDX,2010Q1,2010-02-28,분기말 총자본(자기자본),14380000000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/1048911/000095012310026283/,"StockholdersEquity, MinorityInterest 태그 없음",8
+FedEx,FDX,2010Q1,2010-02-28,분기말 지배지분 자본,14380000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1048911/000095012310026283/,,8
+FedEx,FDX,2010Q1,2010-02-26,분기말 종가,84.76,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/FDX?interval=1d&events=splits (2010-02-26),분할조정 종가 68.2998 × 이후 분할계수 1.241,8
+FedEx,FDX,2010Q1,2010-03-15,분기말 상장주식수,313190004,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/1048911/000095012310026283/,dei:EntityCommonStockSharesOutstanding 클래스 합,8
+FedEx,FDX,2010Q1,2010-02-26,분기말 시가총액,26545984739,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/FDX?interval=1d&events=splits (2010-02-26) ; https://www.sec.gov/Archives/edgar/data/1048911/000095012310026283/,종가 84.76 × 주식수 313190004,8
+FedEx,FDX,2010Q2,2010-05-31,분기별 매출액,9428000000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/1048911/000095012310065730/ ; https://www.sec.gov/Archives/edgar/data/1048911/000095012310026283/,연간 34734000000 − 9개월누적 25306000000 (Revenues),8
+FedEx,FDX,2010Q2,2010-05-31,분기별 영업이익,696000000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/1048911/000095012310065730/ ; https://www.sec.gov/Archives/edgar/data/1048911/000095012310026283/,연간 1998000000 − 9개월누적 1302000000 (OperatingIncomeLoss),8
+FedEx,FDX,2010Q2,2010-05-31,분기별 당기순이익(지배),419000000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/1048911/000095012310065730/ ; https://www.sec.gov/Archives/edgar/data/1048911/000095012310026283/,연간 1184000000 − 9개월누적 765000000 (NetIncomeLoss),8
+FedEx,FDX,2010Q2,2010-05-31,분기별 영업활동현금흐름,1230000000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/1048911/000095012310065730/ ; https://www.sec.gov/Archives/edgar/data/1048911/000095012310026283/,누적 3138000000 − 직전누적 1908000000 (시작 2009-06-01),8
+FedEx,FDX,2010Q2,2010-05-31,분기말 자산총계,24902000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1048911/000095012310065730/,,8
+FedEx,FDX,2010Q2,2010-05-31,분기말 부채총계,11091000000,USD,계산(부채및자본-총자본),https://www.sec.gov/Archives/edgar/data/1048911/000095012310065730/,부채및자본 24902000000 − 총자본 13811000000,8
+FedEx,FDX,2010Q2,2010-05-31,분기말 총자본(자기자본),13811000000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/1048911/000095012310065730/,"StockholdersEquity, MinorityInterest 태그 없음",8
+FedEx,FDX,2010Q2,2010-05-31,분기말 지배지분 자본,13811000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1048911/000095012310065730/,,8
+FedEx,FDX,2010Q2,2010-05-28,분기말 종가,83.49,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/FDX?interval=1d&events=splits (2010-05-28),분할조정 종가 67.2764 × 이후 분할계수 1.241,8
+FedEx,FDX,2010Q2,2010-07-12,분기말 상장주식수,314540141,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/1048911/000095012310065730/,dei:EntityCommonStockSharesOutstanding 클래스 합,8
+FedEx,FDX,2010Q2,2010-05-28,분기말 시가총액,26260956372,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/FDX?interval=1d&events=splits (2010-05-28) ; https://www.sec.gov/Archives/edgar/data/1048911/000095012310065730/,종가 83.49 × 주식수 314540141,8
+FedEx,FDX,2010Q3,2010-08-31,분기별 매출액,9457000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1048911/000095012310087127/,,8
+FedEx,FDX,2010Q3,2010-08-31,분기별 영업이익,628000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1048911/000095012310087127/,,8
+FedEx,FDX,2010Q3,2010-08-31,분기별 당기순이익(지배),380000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1048911/000095012310087127/,,8
+FedEx,FDX,2010Q3,2010-08-31,분기별 영업활동현금흐름,796000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1048911/000095012310087127/,,8
+FedEx,FDX,2010Q3,2010-08-31,분기말 자산총계,25212000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1048911/000095012310087127/,,8
+FedEx,FDX,2010Q3,2010-08-31,분기말 부채총계,11007000000,USD,계산(부채및자본-총자본),https://www.sec.gov/Archives/edgar/data/1048911/000095012310087127/,부채및자본 25212000000 − 총자본 14205000000,8
+FedEx,FDX,2010Q3,2010-08-31,분기말 총자본(자기자본),14205000000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/1048911/000095012310087127/,"StockholdersEquity, MinorityInterest 태그 없음",8
+FedEx,FDX,2010Q3,2010-08-31,분기말 지배지분 자본,14205000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1048911/000095012310087127/,,8
+FedEx,FDX,2010Q3,2010-08-31,분기말 종가,78.05,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/FDX?interval=1d&events=splits (2010-08-31),분할조정 종가 62.8928 × 이후 분할계수 1.241,8
+FedEx,FDX,2010Q3,2010-09-15,분기말 상장주식수,314641838,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/1048911/000095012310087127/,dei:EntityCommonStockSharesOutstanding 클래스 합,8
+FedEx,FDX,2010Q3,2010-08-31,분기말 시가총액,24557795456,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/FDX?interval=1d&events=splits (2010-08-31) ; https://www.sec.gov/Archives/edgar/data/1048911/000095012310087127/,종가 78.05 × 주식수 314641838,8
+FedEx,FDX,2010Q4,2010-11-30,분기별 매출액,9632000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1048911/000095012310114520/,,8
+FedEx,FDX,2010Q4,2010-11-30,분기별 영업이익,469000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1048911/000095012310114520/,,8
+FedEx,FDX,2010Q4,2010-11-30,분기별 당기순이익(지배),283000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1048911/000095012310114520/,,8
+FedEx,FDX,2010Q4,2010-11-30,분기별 영업활동현금흐름,1215000000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/1048911/000095012310114520/ ; https://www.sec.gov/Archives/edgar/data/1048911/000095012310087127/,누적 2011000000 − 직전누적 796000000 (시작 2010-06-01),8
+FedEx,FDX,2010Q4,2010-11-30,분기말 자산총계,26093000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1048911/000095012310114520/,,8
+FedEx,FDX,2010Q4,2010-11-30,분기말 부채총계,11532000000,USD,계산(부채및자본-총자본),https://www.sec.gov/Archives/edgar/data/1048911/000095012310114520/,부채및자본 26093000000 − 총자본 14561000000,8
+FedEx,FDX,2010Q4,2010-11-30,분기말 총자본(자기자본),14561000000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/1048911/000095012310114520/,"StockholdersEquity, MinorityInterest 태그 없음",8
+FedEx,FDX,2010Q4,2010-11-30,분기말 지배지분 자본,14561000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1048911/000095012310114520/,,8
+FedEx,FDX,2010Q4,2010-11-30,분기말 종가,91.12,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/FDX?interval=1d&events=splits (2010-11-30),분할조정 종가 73.4247 × 이후 분할계수 1.241,8
+FedEx,FDX,2010Q4,2010-12-15,분기말 상장주식수,315020546,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/1048911/000095012310114520/,dei:EntityCommonStockSharesOutstanding 클래스 합,8
+FedEx,FDX,2010Q4,2010-11-30,분기말 시가총액,28704672152,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/FDX?interval=1d&events=splits (2010-11-30) ; https://www.sec.gov/Archives/edgar/data/1048911/000095012310114520/,종가 91.12 × 주식수 315020546,8
+FedEx,FDX,2011Q1,2011-02-28,분기별 매출액,9663000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1048911/000095012311026716/,,8
+FedEx,FDX,2011Q1,2011-02-28,분기별 영업이익,393000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1048911/000095012311026716/,,8
+FedEx,FDX,2011Q1,2011-02-28,분기별 당기순이익(지배),231000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1048911/000095012311026716/,,8
+FedEx,FDX,2011Q1,2011-02-28,분기별 영업활동현금흐름,446000000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/1048911/000095012311026716/ ; https://www.sec.gov/Archives/edgar/data/1048911/000095012310114520/,누적 2457000000 − 직전누적 2011000000 (시작 2010-06-01),8
+FedEx,FDX,2011Q1,2011-02-28,분기말 자산총계,26202000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1048911/000095012311026716/,,8
+FedEx,FDX,2011Q1,2011-02-28,분기말 부채총계,11322000000,USD,계산(부채및자본-총자본),https://www.sec.gov/Archives/edgar/data/1048911/000095012311026716/,부채및자본 26202000000 − 총자본 14880000000,8
+FedEx,FDX,2011Q1,2011-02-28,분기말 총자본(자기자본),14880000000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/1048911/000095012311026716/,"StockholdersEquity, MinorityInterest 태그 없음",8
+FedEx,FDX,2011Q1,2011-02-28,분기말 지배지분 자본,14880000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1048911/000095012311026716/,,8
+FedEx,FDX,2011Q1,2011-02-28,분기말 종가,90.02,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/FDX?interval=1d&events=splits (2011-02-28),분할조정 종가 72.5383 × 이후 분할계수 1.241,8
+FedEx,FDX,2011Q1,2011-03-16,분기말 상장주식수,315657943,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/1048911/000095012311026716/,dei:EntityCommonStockSharesOutstanding 클래스 합,8
+FedEx,FDX,2011Q1,2011-02-28,분기말 시가총액,28415528029,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/FDX?interval=1d&events=splits (2011-02-28) ; https://www.sec.gov/Archives/edgar/data/1048911/000095012311026716/,종가 90.02 × 주식수 315657943,8
+FedEx,FDX,2011Q2,2011-05-31,분기별 매출액,10552000000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/1048911/000095012311065246/ ; https://www.sec.gov/Archives/edgar/data/1048911/000095012311026716/,연간 39304000000 − 9개월누적 28752000000 (Revenues),8
+FedEx,FDX,2011Q2,2011-05-31,분기별 영업이익,888000000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/1048911/000095012311065246/ ; https://www.sec.gov/Archives/edgar/data/1048911/000095012311026716/,연간 2378000000 − 9개월누적 1490000000 (OperatingIncomeLoss),8
+FedEx,FDX,2011Q2,2011-05-31,분기별 당기순이익(지배),558000000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/1048911/000095012311065246/ ; https://www.sec.gov/Archives/edgar/data/1048911/000095012311026716/,연간 1452000000 − 9개월누적 894000000 (NetIncomeLoss),8
+FedEx,FDX,2011Q2,2011-05-31,분기별 영업활동현금흐름,1584000000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/1048911/000095012311065246/ ; https://www.sec.gov/Archives/edgar/data/1048911/000095012311026716/,누적 4041000000 − 직전누적 2457000000 (시작 2010-06-01),8
+FedEx,FDX,2011Q2,2011-05-31,분기말 자산총계,27385000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1048911/000095012311065246/,,8
+FedEx,FDX,2011Q2,2011-05-31,분기말 부채총계,12165000000,USD,계산(부채및자본-총자본),https://www.sec.gov/Archives/edgar/data/1048911/000095012311065246/,부채및자본 27385000000 − 총자본 15220000000,8
+FedEx,FDX,2011Q2,2011-05-31,분기말 총자본(자기자본),15220000000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/1048911/000095012311065246/,"StockholdersEquity, MinorityInterest 태그 없음",8
+FedEx,FDX,2011Q2,2011-05-31,분기말 지배지분 자본,15220000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1048911/000095012311065246/,,8
+FedEx,FDX,2011Q2,2011-05-31,분기말 종가,93.64,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/FDX?interval=1d&events=splits (2011-05-31),분할조정 종가 75.4553 × 이후 분할계수 1.241,8
+FedEx,FDX,2011Q2,2011-07-11,분기말 상장주식수,317027077,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/1048911/000095012311065246/,dei:EntityCommonStockSharesOutstanding 클래스 합,8
+FedEx,FDX,2011Q2,2011-05-31,분기말 시가총액,29686415490,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/FDX?interval=1d&events=splits (2011-05-31) ; https://www.sec.gov/Archives/edgar/data/1048911/000095012311065246/,종가 93.64 × 주식수 317027077,8
+FedEx,FDX,2011Q3,2011-08-31,분기별 매출액,10521000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1048911/000095012311086374/,,8
+FedEx,FDX,2011Q3,2011-08-31,분기별 영업이익,737000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1048911/000095012311086374/,,8
+FedEx,FDX,2011Q3,2011-08-31,분기별 당기순이익(지배),464000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1048911/000095012311086374/,,8
+FedEx,FDX,2011Q3,2011-08-31,분기별 영업활동현금흐름,860000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1048911/000095012311086374/,,8
+FedEx,FDX,2011Q3,2011-08-31,분기말 자산총계,27838000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1048911/000095012311086374/,,8
+FedEx,FDX,2011Q3,2011-08-31,분기말 부채총계,12124000000,USD,계산(부채및자본-총자본),https://www.sec.gov/Archives/edgar/data/1048911/000095012311086374/,부채및자본 27838000000 − 총자본 15714000000,8
+FedEx,FDX,2011Q3,2011-08-31,분기말 총자본(자기자본),15714000000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/1048911/000095012311086374/,"StockholdersEquity, MinorityInterest 태그 없음",8
+FedEx,FDX,2011Q3,2011-08-31,분기말 지배지분 자본,15714000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1048911/000095012311086374/,,8
+FedEx,FDX,2011Q3,2011-08-31,분기말 종가,78.72,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/FDX?interval=1d&events=splits (2011-08-31),분할조정 종가 63.4327 × 이후 분할계수 1.241,8
+FedEx,FDX,2011Q3,2011-09-21,분기말 상장주식수,317217726,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/1048911/000095012311086374/,dei:EntityCommonStockSharesOutstanding 클래스 합,8
+FedEx,FDX,2011Q3,2011-08-31,분기말 시가총액,24971379391,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/FDX?interval=1d&events=splits (2011-08-31) ; https://www.sec.gov/Archives/edgar/data/1048911/000095012311086374/,종가 78.72 × 주식수 317217726,8
+FedEx,FDX,2011Q4,2011-11-30,분기별 매출액,10587000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1048911/000095012311103276/,,8
+FedEx,FDX,2011Q4,2011-11-30,분기별 영업이익,780000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1048911/000095012311103276/,,8
+FedEx,FDX,2011Q4,2011-11-30,분기별 당기순이익(지배),497000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1048911/000095012311103276/,,8
+FedEx,FDX,2011Q4,2011-11-30,분기별 영업활동현금흐름,1308000000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/1048911/000095012311103276/ ; https://www.sec.gov/Archives/edgar/data/1048911/000095012311086374/,누적 2168000000 − 직전누적 860000000 (시작 2011-06-01),8
+FedEx,FDX,2011Q4,2011-11-30,분기말 자산총계,28452000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1048911/000095012311103276/,,8
+FedEx,FDX,2011Q4,2011-11-30,분기말 부채총계,12535000000,USD,계산(부채및자본-총자본),https://www.sec.gov/Archives/edgar/data/1048911/000095012311103276/,부채및자본 28452000000 − 총자본 15917000000,8
+FedEx,FDX,2011Q4,2011-11-30,분기말 총자본(자기자본),15917000000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/1048911/000095012311103276/,"StockholdersEquity, MinorityInterest 태그 없음",8
+FedEx,FDX,2011Q4,2011-11-30,분기말 지배지분 자본,15917000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1048911/000095012311103276/,,8
+FedEx,FDX,2011Q4,2011-11-30,분기말 종가,83.08,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/FDX?interval=1d&events=splits (2011-11-30),분할조정 종가 66.946 × 이후 분할계수 1.241,8
+FedEx,FDX,2011Q4,2011-12-14,분기말 상장주식수,314484094,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/1048911/000095012311103276/,dei:EntityCommonStockSharesOutstanding 클래스 합,8
+FedEx,FDX,2011Q4,2011-11-30,분기말 시가총액,26127338530,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/FDX?interval=1d&events=splits (2011-11-30) ; https://www.sec.gov/Archives/edgar/data/1048911/000095012311103276/,종가 83.08 × 주식수 314484094,8
+FedEx,FDX,2012Q1,2012-02-29,분기별 매출액,10564000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1048911/000119312512129775/,,8
+FedEx,FDX,2012Q1,2012-02-29,분기별 영업이익,813000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1048911/000119312512129775/,,8
+FedEx,FDX,2012Q1,2012-02-29,분기별 당기순이익(지배),521000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1048911/000119312512129775/,,8
+FedEx,FDX,2012Q1,2012-02-29,분기별 영업활동현금흐름,849000000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/1048911/000119312512129775/ ; https://www.sec.gov/Archives/edgar/data/1048911/000095012311103276/,누적 3017000000 − 직전누적 2168000000 (시작 2011-06-01),8
+FedEx,FDX,2012Q1,2012-02-29,분기말 자산총계,28752000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1048911/000119312512129775/,,8
+FedEx,FDX,2012Q1,2012-02-29,분기말 부채총계,12183000000,USD,계산(부채및자본-총자본),https://www.sec.gov/Archives/edgar/data/1048911/000119312512129775/,부채및자본 28752000000 − 총자본 16569000000,8
+FedEx,FDX,2012Q1,2012-02-29,분기말 총자본(자기자본),16569000000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/1048911/000119312512129775/,"StockholdersEquity, MinorityInterest 태그 없음",8
+FedEx,FDX,2012Q1,2012-02-29,분기말 지배지분 자본,16569000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1048911/000119312512129775/,,8
+FedEx,FDX,2012Q1,2012-02-29,분기말 종가,89.99,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/FDX?interval=1d&events=splits (2012-02-29),분할조정 종가 72.5141 × 이후 분할계수 1.241,8
+FedEx,FDX,2012Q1,2012-03-21,분기말 상장주식수,315367909,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/1048911/000119312512129775/,dei:EntityCommonStockSharesOutstanding 클래스 합,8
+FedEx,FDX,2012Q1,2012-02-29,분기말 시가총액,28379958131,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/FDX?interval=1d&events=splits (2012-02-29) ; https://www.sec.gov/Archives/edgar/data/1048911/000119312512129775/,종가 89.99 × 주식수 315367909,8
+FedEx,FDX,2012Q2,2012-05-31,분기별 매출액,11008000000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/1048911/000119312512303558/ ; https://www.sec.gov/Archives/edgar/data/1048911/000119312512129775/,연간 42680000000 − 9개월누적 31672000000 (Revenues),8
+FedEx,FDX,2012Q2,2012-05-31,분기별 영업이익,856000000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/1048911/000119312512303558/ ; https://www.sec.gov/Archives/edgar/data/1048911/000119312512129775/,연간 3186000000 − 9개월누적 2330000000 (OperatingIncomeLoss),8
+FedEx,FDX,2012Q2,2012-05-31,분기별 당기순이익(지배),550000000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/1048911/000119312512303558/ ; https://www.sec.gov/Archives/edgar/data/1048911/000119312512129775/,연간 2032000000 − 9개월누적 1482000000 (NetIncomeLoss),8
+FedEx,FDX,2012Q2,2012-05-31,분기별 영업활동현금흐름,1818000000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/1048911/000119312512303558/ ; https://www.sec.gov/Archives/edgar/data/1048911/000119312512129775/,누적 4835000000 − 직전누적 3017000000 (시작 2011-06-01),8
+FedEx,FDX,2012Q2,2012-05-31,분기말 자산총계,29903000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1048911/000119312512303558/,,8
+FedEx,FDX,2012Q2,2012-05-31,분기말 부채총계,15176000000,USD,계산(부채및자본-총자본),https://www.sec.gov/Archives/edgar/data/1048911/000119312512303558/,부채및자본 29903000000 − 총자본 14727000000,8
+FedEx,FDX,2012Q2,2012-05-31,분기말 총자본(자기자본),14727000000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/1048911/000119312512303558/,"StockholdersEquity, MinorityInterest 태그 없음",8
+FedEx,FDX,2012Q2,2012-05-31,분기말 지배지분 자본,14727000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1048911/000119312512303558/,,8
+FedEx,FDX,2012Q2,2012-05-31,분기말 종가,89.14,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/FDX?interval=1d&events=splits (2012-05-31),분할조정 종가 71.8292 × 이후 분할계수 1.241,8
+FedEx,FDX,2012Q2,2012-07-13,분기말 상장주식수,316599754,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/1048911/000119312512303558/,dei:EntityCommonStockSharesOutstanding 클래스 합,8
+FedEx,FDX,2012Q2,2012-05-31,분기말 시가총액,28221702072,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/FDX?interval=1d&events=splits (2012-05-31) ; https://www.sec.gov/Archives/edgar/data/1048911/000119312512303558/,종가 89.14 × 주식수 316599754,8
+FedEx,FDX,2012Q3,2012-08-31,분기별 매출액,10792000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1048911/000119312512396818/,,8
+FedEx,FDX,2012Q3,2012-08-31,분기별 영업이익,742000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1048911/000119312512396818/,,8
+FedEx,FDX,2012Q3,2012-08-31,분기별 당기순이익(지배),459000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1048911/000119312512396818/,,8
+FedEx,FDX,2012Q3,2012-08-31,분기별 영업활동현금흐름,903000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1048911/000119312512396818/,,8
+FedEx,FDX,2012Q3,2012-08-31,분기말 자산총계,30691000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1048911/000119312512396818/,,8
+FedEx,FDX,2012Q3,2012-08-31,분기말 부채총계,15667000000,USD,계산(부채및자본-총자본),https://www.sec.gov/Archives/edgar/data/1048911/000119312512396818/,부채및자본 30691000000 − 총자본 15024000000,8
+FedEx,FDX,2012Q3,2012-08-31,분기말 총자본(자기자본),15024000000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/1048911/000119312512396818/,"StockholdersEquity, MinorityInterest 태그 없음",8
+FedEx,FDX,2012Q3,2012-08-31,분기말 지배지분 자본,15024000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1048911/000119312512396818/,,8
+FedEx,FDX,2012Q3,2012-08-31,분기말 종가,87.63,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/FDX?interval=1d&events=splits (2012-08-31),분할조정 종가 70.6124 × 이후 분할계수 1.241,8
+FedEx,FDX,2012Q3,2012-09-17,분기말 상장주식수,314090117,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/1048911/000119312512396818/,dei:EntityCommonStockSharesOutstanding 클래스 합,8
+FedEx,FDX,2012Q3,2012-08-31,분기말 시가총액,27523716953,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/FDX?interval=1d&events=splits (2012-08-31) ; https://www.sec.gov/Archives/edgar/data/1048911/000119312512396818/,종가 87.63 × 주식수 314090117,8
+FedEx,FDX,2012Q4,2012-11-30,분기별 매출액,11107000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1048911/000119312512510418/,,8
+FedEx,FDX,2012Q4,2012-11-30,분기별 영업이익,718000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1048911/000119312512510418/,,8
+FedEx,FDX,2012Q4,2012-11-30,분기별 당기순이익(지배),438000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1048911/000119312512510418/,,8
+FedEx,FDX,2012Q4,2012-11-30,분기별 영업활동현금흐름,815000000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/1048911/000119312512510418/ ; https://www.sec.gov/Archives/edgar/data/1048911/000119312512396818/,누적 1718000000 − 직전누적 903000000 (시작 2012-06-01),8
+FedEx,FDX,2012Q4,2012-11-30,분기말 자산총계,31312000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1048911/000119312512510418/,,8
+FedEx,FDX,2012Q4,2012-11-30,분기말 부채총계,15769000000,USD,계산(부채및자본-총자본),https://www.sec.gov/Archives/edgar/data/1048911/000119312512510418/,부채및자본 31312000000 − 총자본 15543000000,8
+FedEx,FDX,2012Q4,2012-11-30,분기말 총자본(자기자본),15543000000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/1048911/000119312512510418/,"StockholdersEquity, MinorityInterest 태그 없음",8
+FedEx,FDX,2012Q4,2012-11-30,분기말 지배지분 자본,15543000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1048911/000119312512510418/,,8
+FedEx,FDX,2012Q4,2012-11-30,분기말 종가,89.53,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/FDX?interval=1d&events=splits (2012-11-30),분할조정 종가 72.1434 × 이후 분할계수 1.241,8
+FedEx,FDX,2012Q4,2012-12-18,분기말 상장주식수,314461506,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/1048911/000119312512510418/,dei:EntityCommonStockSharesOutstanding 클래스 합,8
+FedEx,FDX,2012Q4,2012-11-30,분기말 시가총액,28153738632,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/FDX?interval=1d&events=splits (2012-11-30) ; https://www.sec.gov/Archives/edgar/data/1048911/000119312512510418/,종가 89.53 × 주식수 314461506,8
+FedEx,FDX,2013Q1,2013-02-28,분기별 매출액,10953000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1048911/000119312513119611/,,8
+FedEx,FDX,2013Q1,2013-02-28,분기별 영업이익,589000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1048911/000119312513119611/,,8
+FedEx,FDX,2013Q1,2013-02-28,분기별 당기순이익(지배),361000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1048911/000119312513119611/,,8
+FedEx,FDX,2013Q1,2013-02-28,분기별 영업활동현금흐름,1258000000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/1048911/000119312513119611/ ; https://www.sec.gov/Archives/edgar/data/1048911/000119312512510418/,누적 2976000000 − 직전누적 1718000000 (시작 2012-06-01),8
+FedEx,FDX,2013Q1,2013-02-28,분기말 자산총계,31830000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1048911/000119312513119611/,,8
+FedEx,FDX,2013Q1,2013-02-28,분기말 부채총계,15718000000,USD,계산(부채및자본-총자본),https://www.sec.gov/Archives/edgar/data/1048911/000119312513119611/,부채및자본 31830000000 − 총자본 16112000000,8
+FedEx,FDX,2013Q1,2013-02-28,분기말 총자본(자기자본),16112000000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/1048911/000119312513119611/,"StockholdersEquity, MinorityInterest 태그 없음",8
+FedEx,FDX,2013Q1,2013-02-28,분기말 지배지분 자본,16112000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1048911/000119312513119611/,,8
+FedEx,FDX,2013Q1,2013-02-28,분기말 종가,105.43,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/FDX?interval=1d&events=splits (2013-02-28),분할조정 종가 84.9557 × 이후 분할계수 1.241,8
+FedEx,FDX,2013Q1,2013-03-19,분기말 상장주식수,316868914,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/1048911/000119312513119611/,dei:EntityCommonStockSharesOutstanding 클래스 합,8
+FedEx,FDX,2013Q1,2013-02-28,분기말 시가총액,33407489603,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/FDX?interval=1d&events=splits (2013-02-28) ; https://www.sec.gov/Archives/edgar/data/1048911/000119312513119611/,종가 105.43 × 주식수 316868914,8
+FedEx,FDX,2013Q2,2013-05-31,분기별 매출액,11435000000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/1048911/000119312513290858/ ; https://www.sec.gov/Archives/edgar/data/1048911/000119312513119611/,연간 44287000000 − 9개월누적 32852000000 (Revenues),8
+FedEx,FDX,2013Q2,2013-05-31,분기별 영업이익,2385000000,USD,계산(연간-3분기누적)(재작성 반영),https://www.sec.gov/Archives/edgar/data/1048911/000119312515252494/ ; https://www.sec.gov/Archives/edgar/data/1048911/000119312513119611/,연간 4434000000 − 9개월누적 2049000000 (OperatingIncomeLoss) ; 원 공시 502000000 (https://www.sec.gov/Archives/edgar/data/1048911/000119312513290858/ ; https://www.sec.gov/Archives/edgar/data/1048911/000119312513119611/),8
+FedEx,FDX,2013Q2,2013-05-31,분기별 당기순이익(지배),1458000000,USD,계산(연간-3분기누적)(재작성 반영),https://www.sec.gov/Archives/edgar/data/1048911/000119312515252494/ ; https://www.sec.gov/Archives/edgar/data/1048911/000119312513119611/,연간 2716000000 − 9개월누적 1258000000 (NetIncomeLoss) ; 원 공시 303000000 (https://www.sec.gov/Archives/edgar/data/1048911/000119312513290858/ ; https://www.sec.gov/Archives/edgar/data/1048911/000119312513119611/),8
+FedEx,FDX,2013Q2,2013-05-31,분기별 영업활동현금흐름,1712000000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/1048911/000119312513290858/ ; https://www.sec.gov/Archives/edgar/data/1048911/000119312513119611/,누적 4688000000 − 직전누적 2976000000 (시작 2012-06-01),8
+FedEx,FDX,2013Q2,2013-05-31,분기말 자산총계,33567000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1048911/000119312513290858/,,8
+FedEx,FDX,2013Q2,2013-05-31,분기말 부채총계,16169000000,USD,계산(부채및자본-총자본),https://www.sec.gov/Archives/edgar/data/1048911/000119312513290858/,부채및자본 33567000000 − 총자본 17398000000,8
+FedEx,FDX,2013Q2,2013-05-31,분기말 총자본(자기자본),17398000000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/1048911/000119312513290858/,"StockholdersEquity, MinorityInterest 태그 없음",8
+FedEx,FDX,2013Q2,2013-05-31,분기말 지배지분 자본,17398000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1048911/000119312513290858/,,8
+FedEx,FDX,2013Q2,2013-05-31,분기말 종가,96.34,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/FDX?interval=1d&events=splits (2013-05-31),분할조정 종가 77.6309 × 이후 분할계수 1.241,8
+FedEx,FDX,2013Q2,2013-07-12,분기말 상장주식수,316584465,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/1048911/000119312513290858/,dei:EntityCommonStockSharesOutstanding 클래스 합,8
+FedEx,FDX,2013Q2,2013-05-31,분기말 시가총액,30499747358,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/FDX?interval=1d&events=splits (2013-05-31) ; https://www.sec.gov/Archives/edgar/data/1048911/000119312513290858/,종가 96.34 × 주식수 316584465,8
+FedEx,FDX,2013Q3,2013-08-31,분기별 매출액,11024000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1048911/000119312513371921/,,8
+FedEx,FDX,2013Q3,2013-08-31,분기별 영업이익,891000000,USD,공시(재작성 반영),https://www.sec.gov/Archives/edgar/data/1048911/000119312515252494/,원 공시 795000000 (https://www.sec.gov/Archives/edgar/data/1048911/000119312513371921/),8
+FedEx,FDX,2013Q3,2013-08-31,분기별 당기순이익(지배),548000000,USD,공시(재작성 반영),https://www.sec.gov/Archives/edgar/data/1048911/000119312515252494/,원 공시 489000000 (https://www.sec.gov/Archives/edgar/data/1048911/000119312513371921/),8
+FedEx,FDX,2013Q3,2013-08-31,분기별 영업활동현금흐름,929000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1048911/000119312513371921/,,8
+FedEx,FDX,2013Q3,2013-08-31,분기말 자산총계,33673000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1048911/000119312513371921/,,8
+FedEx,FDX,2013Q3,2013-08-31,분기말 부채총계,16018000000,USD,계산(부채및자본-총자본),https://www.sec.gov/Archives/edgar/data/1048911/000119312513371921/,부채및자본 33673000000 − 총자본 17655000000,8
+FedEx,FDX,2013Q3,2013-08-31,분기말 총자본(자기자본),17655000000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/1048911/000119312513371921/,"StockholdersEquity, MinorityInterest 태그 없음",8
+FedEx,FDX,2013Q3,2013-08-31,분기말 지배지분 자본,17655000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1048911/000119312513371921/,,8
+FedEx,FDX,2013Q3,2013-08-30,분기말 종가,107.36,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/FDX?interval=1d&events=splits (2013-08-30),분할조정 종가 86.5109 × 이후 분할계수 1.241,8
+FedEx,FDX,2013Q3,2013-09-18,분기말 상장주식수,316642256,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/1048911/000119312513371921/,dei:EntityCommonStockSharesOutstanding 클래스 합,8
+FedEx,FDX,2013Q3,2013-08-30,분기말 시가총액,33994712604,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/FDX?interval=1d&events=splits (2013-08-30) ; https://www.sec.gov/Archives/edgar/data/1048911/000119312513371921/,종가 107.36 × 주식수 316642256,8
+FedEx,FDX,2013Q4,2013-11-30,분기별 매출액,11403000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1048911/000119312513478795/,,8
+FedEx,FDX,2013Q4,2013-11-30,분기별 영업이익,923000000,USD,공시(재작성 반영),https://www.sec.gov/Archives/edgar/data/1048911/000119312515252494/,원 공시 827000000 (https://www.sec.gov/Archives/edgar/data/1048911/000119312513478795/),8
+FedEx,FDX,2013Q4,2013-11-30,분기별 당기순이익(지배),559000000,USD,공시(재작성 반영),https://www.sec.gov/Archives/edgar/data/1048911/000119312515252494/,원 공시 500000000 (https://www.sec.gov/Archives/edgar/data/1048911/000119312513478795/),8
+FedEx,FDX,2013Q4,2013-11-30,분기별 영업활동현금흐름,680000000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/1048911/000119312513478795/ ; https://www.sec.gov/Archives/edgar/data/1048911/000119312513371921/,누적 1609000000 − 직전누적 929000000 (시작 2013-06-01),8
+FedEx,FDX,2013Q4,2013-11-30,분기말 자산총계,33542000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1048911/000119312513478795/,,8
+FedEx,FDX,2013Q4,2013-11-30,분기말 부채총계,16009000000,USD,계산(부채및자본-총자본),https://www.sec.gov/Archives/edgar/data/1048911/000119312513478795/,부채및자본 33542000000 − 총자본 17533000000,8
+FedEx,FDX,2013Q4,2013-11-30,분기말 총자본(자기자본),17533000000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/1048911/000119312513478795/,"StockholdersEquity, MinorityInterest 태그 없음",8
+FedEx,FDX,2013Q4,2013-11-30,분기말 지배지분 자본,17533000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1048911/000119312513478795/,,8
+FedEx,FDX,2013Q4,2013-11-29,분기말 종가,138.7,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/FDX?interval=1d&events=splits (2013-11-29),분할조정 종가 111.7647 × 이후 분할계수 1.241,8
+FedEx,FDX,2013Q4,2013-12-18,분기말 상장주식수,312228182,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/1048911/000119312513478795/,dei:EntityCommonStockSharesOutstanding 클래스 합,8
+FedEx,FDX,2013Q4,2013-11-29,분기말 시가총액,43306048843,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/FDX?interval=1d&events=splits (2013-11-29) ; https://www.sec.gov/Archives/edgar/data/1048911/000119312513478795/,종가 138.7 × 주식수 312228182,8
+FedEx,FDX,2014Q1,2014-02-28,분기별 매출액,11301000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1048911/000119312514107986/,,8
+FedEx,FDX,2014Q1,2014-02-28,분기별 영업이익,737000000,USD,공시(재작성 반영),https://www.sec.gov/Archives/edgar/data/1048911/000119312515252494/,원 공시 641000000 (https://www.sec.gov/Archives/edgar/data/1048911/000119312514107986/),8
+FedEx,FDX,2014Q1,2014-02-28,분기별 당기순이익(지배),437000000,USD,공시(재작성 반영),https://www.sec.gov/Archives/edgar/data/1048911/000119312515252494/,원 공시 378000000 (https://www.sec.gov/Archives/edgar/data/1048911/000119312514107986/),8
+FedEx,FDX,2014Q1,2014-02-28,분기별 영업활동현금흐름,969000000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/1048911/000119312514107986/ ; https://www.sec.gov/Archives/edgar/data/1048911/000119312513478795/,누적 2578000000 − 직전누적 1609000000 (시작 2013-06-01),8
+FedEx,FDX,2014Q1,2014-02-28,분기말 자산총계,32729000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1048911/000119312514107986/,,8
+FedEx,FDX,2014Q1,2014-02-28,분기말 부채총계,17502000000,USD,계산(부채및자본-총자본),https://www.sec.gov/Archives/edgar/data/1048911/000119312514107986/,부채및자본 32729000000 − 총자본 15227000000,8
+FedEx,FDX,2014Q1,2014-02-28,분기말 총자본(자기자본),15227000000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/1048911/000119312514107986/,"StockholdersEquity, MinorityInterest 태그 없음",8
+FedEx,FDX,2014Q1,2014-02-28,분기말 지배지분 자본,15227000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1048911/000119312514107986/,,8
+FedEx,FDX,2014Q1,2014-02-28,분기말 종가,133.33,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/FDX?interval=1d&events=splits (2014-02-28),분할조정 종가 107.4376 × 이후 분할계수 1.241,8
+FedEx,FDX,2014Q1,2014-03-19,분기말 상장주식수,295516371,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/1048911/000119312514107986/,dei:EntityCommonStockSharesOutstanding 클래스 합,8
+FedEx,FDX,2014Q1,2014-02-28,분기말 시가총액,39401197745,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/FDX?interval=1d&events=splits (2014-02-28) ; https://www.sec.gov/Archives/edgar/data/1048911/000119312514107986/,종가 133.33 × 주식수 295516371,8
+FedEx,FDX,2014Q2,2014-05-31,분기별 매출액,11839000000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/1048911/000119312514267851/ ; https://www.sec.gov/Archives/edgar/data/1048911/000119312514107986/,연간 45567000000 − 9개월누적 33728000000 (Revenues),8
+FedEx,FDX,2014Q2,2014-05-31,분기별 영업이익,1552000000,USD,계산(연간-3분기누적)(재작성 반영),https://www.sec.gov/Archives/edgar/data/1048911/000119312516650267/ ; https://www.sec.gov/Archives/edgar/data/1048911/000119312514107986/,연간 3815000000 − 9개월누적 2263000000 (OperatingIncomeLoss) ; 원 공시 1183000000 (https://www.sec.gov/Archives/edgar/data/1048911/000119312514267851/ ; https://www.sec.gov/Archives/edgar/data/1048911/000119312514107986/),8
+FedEx,FDX,2014Q2,2014-05-31,분기별 당기순이익(지배),957000000,USD,계산(연간-3분기누적)(재작성 반영),https://www.sec.gov/Archives/edgar/data/1048911/000119312516650267/ ; https://www.sec.gov/Archives/edgar/data/1048911/000119312514107986/,연간 2324000000 − 9개월누적 1367000000 (NetIncomeLoss) ; 원 공시 730000000 (https://www.sec.gov/Archives/edgar/data/1048911/000119312514267851/ ; https://www.sec.gov/Archives/edgar/data/1048911/000119312514107986/),8
+FedEx,FDX,2014Q2,2014-05-31,분기별 영업활동현금흐름,1686000000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/1048911/000119312514267851/ ; https://www.sec.gov/Archives/edgar/data/1048911/000119312514107986/,누적 4264000000 − 직전누적 2578000000 (시작 2013-06-01),8
+FedEx,FDX,2014Q2,2014-05-31,분기말 자산총계,33070000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1048911/000119312514267851/,,8
+FedEx,FDX,2014Q2,2014-05-31,분기말 부채총계,17793000000,USD,계산(부채및자본-총자본),https://www.sec.gov/Archives/edgar/data/1048911/000119312514267851/,부채및자본 33070000000 − 총자본 15277000000,8
+FedEx,FDX,2014Q2,2014-05-31,분기말 총자본(자기자본),15277000000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/1048911/000119312514267851/,"StockholdersEquity, MinorityInterest 태그 없음",8
+FedEx,FDX,2014Q2,2014-05-31,분기말 지배지분 자본,15277000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1048911/000119312514267851/,,8
+FedEx,FDX,2014Q2,2014-05-30,분기말 종가,144.16,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/FDX?interval=1d&events=splits (2014-05-30),분할조정 종가 116.1644 × 이후 분할계수 1.241,8
+FedEx,FDX,2014Q2,2014-07-11,분기말 상장주식수,285423144,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/1048911/000119312514267851/,dei:EntityCommonStockSharesOutstanding 클래스 합,8
+FedEx,FDX,2014Q2,2014-05-30,분기말 시가총액,41146600439,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/FDX?interval=1d&events=splits (2014-05-30) ; https://www.sec.gov/Archives/edgar/data/1048911/000119312514267851/,종가 144.16 × 주식수 285423144,8
+FedEx,FDX,2014Q3,2014-08-31,분기별 매출액,11684000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1048911/000119312514345549/,,8
+FedEx,FDX,2014Q3,2014-08-31,분기별 영업이익,1062000000,USD,공시(재작성 반영),https://www.sec.gov/Archives/edgar/data/1048911/000119312516650267/,원 공시 987000000 (https://www.sec.gov/Archives/edgar/data/1048911/000119312514345549/),8
+FedEx,FDX,2014Q3,2014-08-31,분기별 당기순이익(지배),653000000,USD,공시(재작성 반영),https://www.sec.gov/Archives/edgar/data/1048911/000119312516650267/,원 공시 606000000 (https://www.sec.gov/Archives/edgar/data/1048911/000119312514345549/),8
+FedEx,FDX,2014Q3,2014-08-31,분기별 영업활동현금흐름,982000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1048911/000119312514345549/,,8
+FedEx,FDX,2014Q3,2014-08-31,분기말 자산총계,32587000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1048911/000119312514345549/,,8
+FedEx,FDX,2014Q3,2014-08-31,분기말 부채총계,17466000000,USD,계산(부채및자본-총자본),https://www.sec.gov/Archives/edgar/data/1048911/000119312514345549/,부채및자본 32587000000 − 총자본 15121000000,8
+FedEx,FDX,2014Q3,2014-08-31,분기말 총자본(자기자본),15121000000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/1048911/000119312514345549/,"StockholdersEquity, MinorityInterest 태그 없음",8
+FedEx,FDX,2014Q3,2014-08-31,분기말 지배지분 자본,15121000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1048911/000119312514345549/,,8
+FedEx,FDX,2014Q3,2014-08-29,분기말 종가,147.88,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/FDX?interval=1d&events=splits (2014-08-29),분할조정 종가 119.162 × 이후 분할계수 1.241,8
+FedEx,FDX,2014Q3,2014-09-17,분기말 상장주식수,283246379,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/1048911/000119312514345549/,dei:EntityCommonStockSharesOutstanding 클래스 합,8
+FedEx,FDX,2014Q3,2014-08-29,분기말 시가총액,41886474527,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/FDX?interval=1d&events=splits (2014-08-29) ; https://www.sec.gov/Archives/edgar/data/1048911/000119312514345549/,종가 147.88 × 주식수 283246379,8
+FedEx,FDX,2014Q4,2014-11-30,분기별 매출액,11939000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1048911/000119312514446673/,,8
+FedEx,FDX,2014Q4,2014-11-30,분기별 영업이익,1088000000,USD,공시(재작성 반영),https://www.sec.gov/Archives/edgar/data/1048911/000119312516650267/,원 공시 1013000000 (https://www.sec.gov/Archives/edgar/data/1048911/000119312514446673/),8
+FedEx,FDX,2014Q4,2014-11-30,분기별 당기순이익(지배),663000000,USD,공시(재작성 반영),https://www.sec.gov/Archives/edgar/data/1048911/000119312516650267/,원 공시 616000000 (https://www.sec.gov/Archives/edgar/data/1048911/000119312514446673/),8
+FedEx,FDX,2014Q4,2014-11-30,분기별 영업활동현금흐름,1169000000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/1048911/000119312514446673/ ; https://www.sec.gov/Archives/edgar/data/1048911/000119312514345549/,누적 2151000000 − 직전누적 982000000 (시작 2014-06-01),8
+FedEx,FDX,2014Q4,2014-11-30,분기말 자산총계,32984000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1048911/000119312514446673/,,8
+FedEx,FDX,2014Q4,2014-11-30,분기말 부채총계,17421000000,USD,계산(부채및자본-총자본),https://www.sec.gov/Archives/edgar/data/1048911/000119312514446673/,부채및자본 32984000000 − 총자본 15563000000,8
+FedEx,FDX,2014Q4,2014-11-30,분기말 총자본(자기자본),15563000000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/1048911/000119312514446673/,"StockholdersEquity, MinorityInterest 태그 없음",8
+FedEx,FDX,2014Q4,2014-11-30,분기말 지배지분 자본,15563000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1048911/000119312514446673/,,8
+FedEx,FDX,2014Q4,2014-11-28,분기말 종가,178.18,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/FDX?interval=1d&events=splits (2014-11-28),분할조정 종가 143.5778 × 이후 분할계수 1.241,8
+FedEx,FDX,2014Q4,2014-12-17,분기말 상장주식수,283312620,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/1048911/000119312514446673/,dei:EntityCommonStockSharesOutstanding 클래스 합,8
+FedEx,FDX,2014Q4,2014-11-28,분기말 시가총액,50480642632,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/FDX?interval=1d&events=splits (2014-11-28) ; https://www.sec.gov/Archives/edgar/data/1048911/000119312514446673/,종가 178.18 × 주식수 283312620,8
+FedEx,FDX,2015Q1,2015-02-28,분기별 매출액,11716000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1048911/000119312515098477/,,8
+FedEx,FDX,2015Q1,2015-02-28,분기별 영업이익,1038000000,USD,공시(재작성 반영),https://www.sec.gov/Archives/edgar/data/1048911/000119312516650267/,원 공시 962000000 (https://www.sec.gov/Archives/edgar/data/1048911/000119312515098477/),8
+FedEx,FDX,2015Q1,2015-02-28,분기별 당기순이익(지배),628000000,USD,공시(재작성 반영),https://www.sec.gov/Archives/edgar/data/1048911/000119312516650267/,원 공시 580000000 (https://www.sec.gov/Archives/edgar/data/1048911/000119312515098477/),8
+FedEx,FDX,2015Q1,2015-02-28,분기별 영업활동현금흐름,1322000000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/1048911/000119312515098477/ ; https://www.sec.gov/Archives/edgar/data/1048911/000119312514446673/,누적 3473000000 − 직전누적 2151000000 (시작 2014-06-01),8
+FedEx,FDX,2015Q1,2015-02-28,분기말 자산총계,36108000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1048911/000119312515098477/,,8
+FedEx,FDX,2015Q1,2015-02-28,분기말 부채총계,20096000000,USD,계산(부채및자본-총자본),https://www.sec.gov/Archives/edgar/data/1048911/000119312515098477/,부채및자본 36108000000 − 총자본 16012000000,8
+FedEx,FDX,2015Q1,2015-02-28,분기말 총자본(자기자본),16012000000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/1048911/000119312515098477/,"StockholdersEquity, MinorityInterest 태그 없음",8
+FedEx,FDX,2015Q1,2015-02-28,분기말 지배지분 자본,16012000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1048911/000119312515098477/,,8
+FedEx,FDX,2015Q1,2015-02-27,분기말 종가,176.98,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/FDX?interval=1d&events=splits (2015-02-27),분할조정 종가 142.6108 × 이후 분할계수 1.241,8
+FedEx,FDX,2015Q1,2015-03-18,분기말 상장주식수,283756646,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/1048911/000119312515098477/,dei:EntityCommonStockSharesOutstanding 클래스 합,8
+FedEx,FDX,2015Q1,2015-02-27,분기말 시가총액,50219251209,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/FDX?interval=1d&events=splits (2015-02-27) ; https://www.sec.gov/Archives/edgar/data/1048911/000119312515098477/,종가 176.98 × 주식수 283756646,8
+FedEx,FDX,2015Q2,2015-05-31,분기별 매출액,12114000000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/1048911/000119312515252494/ ; https://www.sec.gov/Archives/edgar/data/1048911/000119312515098477/,연간 47453000000 − 9개월누적 35339000000 (Revenues),8
+FedEx,FDX,2015Q2,2015-05-31,분기별 영업이익,-1321000000,USD,계산(연간-3분기누적)(재작성 반영),https://www.sec.gov/Archives/edgar/data/1048911/000119312515252494/ ; https://www.sec.gov/Archives/edgar/data/1048911/000119312516508426/,연간 1867000000 − 9개월누적 3188000000 (OperatingIncomeLoss) ; 원 공시 -1095000000 (https://www.sec.gov/Archives/edgar/data/1048911/000119312515252494/ ; https://www.sec.gov/Archives/edgar/data/1048911/000119312515098477/),8
+FedEx,FDX,2015Q2,2015-05-31,분기별 당기순이익(지배),-894000000,USD,계산(연간-3분기누적)(재작성 반영),https://www.sec.gov/Archives/edgar/data/1048911/000119312515252494/ ; https://www.sec.gov/Archives/edgar/data/1048911/000119312516508426/,연간 1050000000 − 9개월누적 1944000000 (NetIncomeLoss) ; 원 공시 -752000000 (https://www.sec.gov/Archives/edgar/data/1048911/000119312515252494/ ; https://www.sec.gov/Archives/edgar/data/1048911/000119312515098477/),8
+FedEx,FDX,2015Q2,2015-05-31,분기별 영업활동현금흐름,1893000000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/1048911/000119312515252494/ ; https://www.sec.gov/Archives/edgar/data/1048911/000119312515098477/,누적 5366000000 − 직전누적 3473000000 (시작 2014-06-01),8
+FedEx,FDX,2015Q2,2015-05-31,분기말 자산총계,37069000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1048911/000119312515252494/,,8
+FedEx,FDX,2015Q2,2015-05-31,분기말 부채총계,22076000000,USD,계산(부채및자본-총자본),https://www.sec.gov/Archives/edgar/data/1048911/000119312515252494/,부채및자본 37069000000 − 총자본 14993000000,8
+FedEx,FDX,2015Q2,2015-05-31,분기말 총자본(자기자본),14993000000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/1048911/000119312515252494/,"StockholdersEquity, MinorityInterest 태그 없음",8
+FedEx,FDX,2015Q2,2015-05-31,분기말 지배지분 자본,14993000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1048911/000119312515252494/,,8
+FedEx,FDX,2015Q2,2015-05-29,분기말 종가,173.22,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/FDX?interval=1d&events=splits (2015-05-29),분할조정 종가 139.581 × 이후 분할계수 1.241,8
+FedEx,FDX,2015Q2,2015-07-10,분기말 상장주식수,282430208,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/1048911/000119312515252494/,dei:EntityCommonStockSharesOutstanding 클래스 합,8
+FedEx,FDX,2015Q2,2015-05-29,분기말 시가총액,48922560630,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/FDX?interval=1d&events=splits (2015-05-29) ; https://www.sec.gov/Archives/edgar/data/1048911/000119312515252494/,종가 173.22 × 주식수 282430208,8
+FedEx,FDX,2015Q3,2015-08-31,분기별 매출액,12279000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1048911/000119312515322538/,,8
+FedEx,FDX,2015Q3,2015-08-31,분기별 영업이익,1144000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1048911/000119312515322538/,,8
+FedEx,FDX,2015Q3,2015-08-31,분기별 당기순이익(지배),692000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1048911/000119312515322538/,,8
+FedEx,FDX,2015Q3,2015-08-31,분기별 영업활동현금흐름,1241000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1048911/000119312515322538/,,8
+FedEx,FDX,2015Q3,2015-08-31,분기말 자산총계,37245000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1048911/000119312515322538/,,8
+FedEx,FDX,2015Q3,2015-08-31,분기말 부채총계,21962000000,USD,계산(부채및자본-총자본),https://www.sec.gov/Archives/edgar/data/1048911/000119312515322538/,부채및자본 37245000000 − 총자본 15283000000,8
+FedEx,FDX,2015Q3,2015-08-31,분기말 총자본(자기자본),15283000000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/1048911/000119312515322538/,"StockholdersEquity, MinorityInterest 태그 없음",8
+FedEx,FDX,2015Q3,2015-08-31,분기말 지배지분 자본,15283000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1048911/000119312515322538/,,8
+FedEx,FDX,2015Q3,2015-08-31,분기말 종가,150.61,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/FDX?interval=1d&events=splits (2015-08-31),분할조정 종가 121.3618 × 이후 분할계수 1.241,8
+FedEx,FDX,2015Q3,2015-09-16,분기말 상장주식수,282379446,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/1048911/000119312515322538/,dei:EntityCommonStockSharesOutstanding 클래스 합,8
+FedEx,FDX,2015Q3,2015-08-31,분기말 시가총액,42529168362,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/FDX?interval=1d&events=splits (2015-08-31) ; https://www.sec.gov/Archives/edgar/data/1048911/000119312515322538/,종가 150.61 × 주식수 282379446,8
+FedEx,FDX,2015Q4,2015-11-30,분기별 매출액,12453000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1048911/000119312515406264/,,8
+FedEx,FDX,2015Q4,2015-11-30,분기별 영업이익,1137000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1048911/000119312515406264/,,8
+FedEx,FDX,2015Q4,2015-11-30,분기별 당기순이익(지배),691000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1048911/000119312515406264/,,8
+FedEx,FDX,2015Q4,2015-11-30,분기별 영업활동현금흐름,1213000000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/1048911/000119312515406264/ ; https://www.sec.gov/Archives/edgar/data/1048911/000119312515322538/,누적 2454000000 − 직전누적 1241000000 (시작 2015-06-01),8
+FedEx,FDX,2015Q4,2015-11-30,분기말 자산총계,38371000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1048911/000119312515406264/,,8
+FedEx,FDX,2015Q4,2015-11-30,분기말 부채총계,23381000000,USD,계산(부채및자본-총자본),https://www.sec.gov/Archives/edgar/data/1048911/000119312515406264/,부채및자본 38371000000 − 총자본 14990000000,8
+FedEx,FDX,2015Q4,2015-11-30,분기말 총자본(자기자본),14990000000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/1048911/000119312515406264/,"StockholdersEquity, MinorityInterest 태그 없음",8
+FedEx,FDX,2015Q4,2015-11-30,분기말 지배지분 자본,14990000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1048911/000119312515406264/,,8
+FedEx,FDX,2015Q4,2015-11-30,분기말 종가,158.54,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/FDX?interval=1d&events=splits (2015-11-30),분할조정 종가 127.7518 × 이후 분할계수 1.241,8
+FedEx,FDX,2015Q4,2015-12-15,분기말 상장주식수,275615246,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/1048911/000119312515406264/,dei:EntityCommonStockSharesOutstanding 클래스 합,8
+FedEx,FDX,2015Q4,2015-11-30,분기말 시가총액,43696041101,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/FDX?interval=1d&events=splits (2015-11-30) ; https://www.sec.gov/Archives/edgar/data/1048911/000119312515406264/,종가 158.54 × 주식수 275615246,8
+FedEx,FDX,2016Q1,2016-02-29,분기별 매출액,12654000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1048911/000119312516508426/,,8
+FedEx,FDX,2016Q1,2016-02-29,분기별 영업이익,864000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1048911/000119312516508426/,,8
+FedEx,FDX,2016Q1,2016-02-29,분기별 당기순이익(지배),507000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1048911/000119312516508426/,,8
+FedEx,FDX,2016Q1,2016-02-29,분기별 영업활동현금흐름,1342000000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/1048911/000119312516508426/ ; https://www.sec.gov/Archives/edgar/data/1048911/000119312515406264/,누적 3796000000 − 직전누적 2454000000 (시작 2015-06-01),8
+FedEx,FDX,2016Q1,2016-02-29,분기말 자산총계,37819000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1048911/000119312516508426/,,8
+FedEx,FDX,2016Q1,2016-02-29,분기말 부채총계,23492000000,USD,계산(부채및자본-총자본),https://www.sec.gov/Archives/edgar/data/1048911/000119312516508426/,부채및자본 37819000000 − 총자본 14327000000,8
+FedEx,FDX,2016Q1,2016-02-29,분기말 총자본(자기자본),14327000000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/1048911/000119312516508426/,"StockholdersEquity, MinorityInterest 태그 없음",8
+FedEx,FDX,2016Q1,2016-02-29,분기말 지배지분 자본,14327000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1048911/000119312516508426/,,8
+FedEx,FDX,2016Q1,2016-02-29,분기말 종가,136.88,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/FDX?interval=1d&events=splits (2016-02-29),분할조정 종가 110.2981 × 이후 분할계수 1.241,8
+FedEx,FDX,2016Q1,2016-03-16,분기말 상장주식수,268423762,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/1048911/000119312516508426/,dei:EntityCommonStockSharesOutstanding 클래스 합,8
+FedEx,FDX,2016Q1,2016-02-29,분기말 시가총액,36741844543,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/FDX?interval=1d&events=splits (2016-02-29) ; https://www.sec.gov/Archives/edgar/data/1048911/000119312516508426/,종가 136.88 × 주식수 268423762,8
+FedEx,FDX,2016Q2,2016-05-31,분기별 매출액,12979000000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/1048911/000119312516650267/ ; https://www.sec.gov/Archives/edgar/data/1048911/000119312516508426/,연간 50365000000 − 9개월누적 37386000000 (Revenues),8
+FedEx,FDX,2016Q2,2016-05-31,분기별 영업이익,-68000000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/1048911/000119312516650267/ ; https://www.sec.gov/Archives/edgar/data/1048911/000119312516508426/,연간 3077000000 − 9개월누적 3145000000 (OperatingIncomeLoss),8
+FedEx,FDX,2016Q2,2016-05-31,분기별 당기순이익(지배),-70000000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/1048911/000119312516650267/ ; https://www.sec.gov/Archives/edgar/data/1048911/000119312516508426/,연간 1820000000 − 9개월누적 1890000000 (NetIncomeLoss),8
+FedEx,FDX,2016Q2,2016-05-31,분기별 영업활동현금흐름,1912000000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/1048911/000119312516650267/ ; https://www.sec.gov/Archives/edgar/data/1048911/000119312516508426/,누적 5708000000 − 직전누적 3796000000 (시작 2015-06-01),8
+FedEx,FDX,2016Q2,2016-05-31,분기말 자산총계,45959000000,USD,공시(재작성 반영),https://www.sec.gov/Archives/edgar/data/1048911/000156459018016877/,원 공시 46064000000 (https://www.sec.gov/Archives/edgar/data/1048911/000119312516650267/),8
+FedEx,FDX,2016Q2,2016-05-31,분기말 부채총계,32175000000,USD,계산(부채및자본-총자본)(재작성 반영),https://www.sec.gov/Archives/edgar/data/1048911/000095012317006152/,부채및자본 45959000000 − 총자본 13784000000 ; 원 공시 32280000000 (https://www.sec.gov/Archives/edgar/data/1048911/000119312516650267/),8
+FedEx,FDX,2016Q2,2016-05-31,분기말 총자본(자기자본),13784000000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/1048911/000119312516650267/,"StockholdersEquity, MinorityInterest 태그 없음",8
+FedEx,FDX,2016Q2,2016-05-31,분기말 지배지분 자본,13784000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1048911/000119312516650267/,,8
+FedEx,FDX,2016Q2,2016-05-31,분기말 종가,164.97,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/FDX?interval=1d&events=splits (2016-05-31),분할조정 종가 132.9331 × 이후 분할계수 1.241,8
+FedEx,FDX,2016Q2,2016-07-14,분기말 상장주식수,265524323,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/1048911/000119312516650267/,dei:EntityCommonStockSharesOutstanding 클래스 합,8
+FedEx,FDX,2016Q2,2016-05-31,분기말 시가총액,43803547565,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/FDX?interval=1d&events=splits (2016-05-31) ; https://www.sec.gov/Archives/edgar/data/1048911/000119312516650267/,종가 164.97 × 주식수 265524323,8
+FedEx,FDX,2016Q3,2016-08-31,분기별 매출액,14663000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1048911/000119312516716033/,,8
+FedEx,FDX,2016Q3,2016-08-31,분기별 영업이익,1264000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1048911/000119312516716033/,,8
+FedEx,FDX,2016Q3,2016-08-31,분기별 당기순이익(지배),715000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1048911/000119312516716033/,,8
+FedEx,FDX,2016Q3,2016-08-31,분기별 영업활동현금흐름,971000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1048911/000119312516716033/,,8
+FedEx,FDX,2016Q3,2016-08-31,분기말 자산총계,45575000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1048911/000119312516716033/,,8
+FedEx,FDX,2016Q3,2016-08-31,분기말 부채총계,31433000000,USD,계산(부채및자본-총자본),https://www.sec.gov/Archives/edgar/data/1048911/000119312516716033/,부채및자본 45575000000 − 총자본 14142000000,8
+FedEx,FDX,2016Q3,2016-08-31,분기말 총자본(자기자본),14142000000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/1048911/000119312516716033/,"StockholdersEquity, MinorityInterest 태그 없음",8
+FedEx,FDX,2016Q3,2016-08-31,분기말 지배지분 자본,14142000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1048911/000119312516716033/,,8
+FedEx,FDX,2016Q3,2016-08-31,분기말 종가,164.93,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/FDX?interval=1d&events=splits (2016-08-31),분할조정 종가 132.9009 × 이후 분할계수 1.241,8
+FedEx,FDX,2016Q3,2016-09-20,분기말 상장주식수,265759372,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/1048911/000119312516716033/,dei:EntityCommonStockSharesOutstanding 클래스 합,8
+FedEx,FDX,2016Q3,2016-08-31,분기말 시가총액,43831693224,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/FDX?interval=1d&events=splits (2016-08-31) ; https://www.sec.gov/Archives/edgar/data/1048911/000119312516716033/,종가 164.93 × 주식수 265759372,8
+FedEx,FDX,2016Q4,2016-11-30,분기별 매출액,14931000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1048911/000119312516800543/,,8
+FedEx,FDX,2016Q4,2016-11-30,분기별 영업이익,1167000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1048911/000119312516800543/,,8
+FedEx,FDX,2016Q4,2016-11-30,분기별 당기순이익(지배),700000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1048911/000119312516800543/,,8
+FedEx,FDX,2016Q4,2016-11-30,분기별 영업활동현금흐름,1664000000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/1048911/000119312516800543/ ; https://www.sec.gov/Archives/edgar/data/1048911/000119312516716033/,누적 2635000000 − 직전누적 971000000 (시작 2016-06-01),8
+FedEx,FDX,2016Q4,2016-11-30,분기말 자산총계,46348000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1048911/000119312516800543/,,8
+FedEx,FDX,2016Q4,2016-11-30,분기말 부채총계,31817000000,USD,계산(부채및자본-총자본),https://www.sec.gov/Archives/edgar/data/1048911/000119312516800543/,부채및자본 46348000000 − 총자본 14531000000,8
+FedEx,FDX,2016Q4,2016-11-30,분기말 총자본(자기자본),14531000000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/1048911/000119312516800543/,"StockholdersEquity, MinorityInterest 태그 없음",8
+FedEx,FDX,2016Q4,2016-11-30,분기말 지배지분 자본,14531000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1048911/000119312516800543/,,8
+FedEx,FDX,2016Q4,2016-11-30,분기말 종가,191.67,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/FDX?interval=1d&events=splits (2016-11-30),분할조정 종가 154.448 × 이후 분할계수 1.241,8
+FedEx,FDX,2016Q4,2016-12-20,분기말 상장주식수,266509290,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/1048911/000119312516800543/,dei:EntityCommonStockSharesOutstanding 클래스 합,8
+FedEx,FDX,2016Q4,2016-11-30,분기말 시가총액,51081835614,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/FDX?interval=1d&events=splits (2016-11-30) ; https://www.sec.gov/Archives/edgar/data/1048911/000119312516800543/,종가 191.67 × 주식수 266509290,8
+FedEx,FDX,2017Q1,2017-02-28,분기별 매출액,14997000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1048911/000156459017005037/,,8
+FedEx,FDX,2017Q1,2017-02-28,분기별 영업이익,1025000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1048911/000156459017005037/,,8
+FedEx,FDX,2017Q1,2017-02-28,분기별 당기순이익(지배),562000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1048911/000156459017005037/,,8
+FedEx,FDX,2017Q1,2017-02-28,분기별 영업활동현금흐름,10000000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/1048911/000156459017005037/ ; https://www.sec.gov/Archives/edgar/data/1048911/000119312516800543/,누적 2645000000 − 직전누적 2635000000 (시작 2016-06-01),8
+FedEx,FDX,2017Q1,2017-02-28,분기말 자산총계,46781000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1048911/000156459017005037/,,8
+FedEx,FDX,2017Q1,2017-02-28,분기말 부채총계,31597000000,USD,계산(부채및자본-총자본),https://www.sec.gov/Archives/edgar/data/1048911/000156459017005037/,부채및자본 46781000000 − 총자본 15184000000,8
+FedEx,FDX,2017Q1,2017-02-28,분기말 총자본(자기자본),15184000000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/1048911/000156459017005037/,"StockholdersEquity, MinorityInterest 태그 없음",8
+FedEx,FDX,2017Q1,2017-02-28,분기말 지배지분 자본,15184000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1048911/000156459017005037/,,8
+FedEx,FDX,2017Q1,2017-02-28,분기말 종가,192.98,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/FDX?interval=1d&events=splits (2017-02-28),분할조정 종가 155.5036 × 이후 분할계수 1.241,8
+FedEx,FDX,2017Q1,2017-03-20,분기말 상장주식수,267374954,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/1048911/000156459017005037/,dei:EntityCommonStockSharesOutstanding 클래스 합,8
+FedEx,FDX,2017Q1,2017-02-28,분기말 시가총액,51598018623,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/FDX?interval=1d&events=splits (2017-02-28) ; https://www.sec.gov/Archives/edgar/data/1048911/000156459017005037/,종가 192.98 × 주식수 267374954,8
+FedEx,FDX,2017Q2,2017-05-31,분기별 매출액,15728000000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/1048911/000095012317006152/ ; https://www.sec.gov/Archives/edgar/data/1048911/000156459017005037/,연간 60319000000 − 9개월누적 44591000000 (Revenues),8
+FedEx,FDX,2017Q2,2017-05-31,분기별 영업이익,1110000000,USD,계산(연간-3분기누적)(재작성 반영),https://www.sec.gov/Archives/edgar/data/1048911/000156459019025065/ ; https://www.sec.gov/Archives/edgar/data/1048911/000156459017005037/,연간 4566000000 − 9개월누적 3456000000 (OperatingIncomeLoss) ; 원 공시 1581000000 (https://www.sec.gov/Archives/edgar/data/1048911/000095012317006152/ ; https://www.sec.gov/Archives/edgar/data/1048911/000156459017005037/),8
+FedEx,FDX,2017Q2,2017-05-31,분기별 당기순이익(지배),1020000000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/1048911/000095012317006152/ ; https://www.sec.gov/Archives/edgar/data/1048911/000156459017005037/,연간 2997000000 − 9개월누적 1977000000 (NetIncomeLoss),8
+FedEx,FDX,2017Q2,2017-05-31,분기별 영업활동현금흐름,2285000000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/1048911/000095012317006152/ ; https://www.sec.gov/Archives/edgar/data/1048911/000156459017005037/,누적 4930000000 − 직전누적 2645000000 (시작 2016-06-01),8
+FedEx,FDX,2017Q2,2017-05-31,분기말 자산총계,48552000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1048911/000095012317006152/,,8
+FedEx,FDX,2017Q2,2017-05-31,분기말 부채총계,32479000000,USD,계산(부채및자본-총자본),https://www.sec.gov/Archives/edgar/data/1048911/000095012317006152/,부채및자본 48552000000 − 총자본 16073000000,8
+FedEx,FDX,2017Q2,2017-05-31,분기말 총자본(자기자본),16073000000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/1048911/000095012317006152/,"StockholdersEquity, MinorityInterest 태그 없음",8
+FedEx,FDX,2017Q2,2017-05-31,분기말 지배지분 자본,16073000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1048911/000095012317006152/,,8
+FedEx,FDX,2017Q2,2017-05-31,분기말 종가,193.84,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/FDX?interval=1d&events=splits (2017-05-31),분할조정 종가 156.1966 × 이후 분할계수 1.241,8
+FedEx,FDX,2017Q2,2017-07-13,분기말 상장주식수,268257434,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/1048911/000095012317006152/,dei:EntityCommonStockSharesOutstanding 클래스 합,8
+FedEx,FDX,2017Q2,2017-05-31,분기말 시가총액,51999021007,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/FDX?interval=1d&events=splits (2017-05-31) ; https://www.sec.gov/Archives/edgar/data/1048911/000095012317006152/,종가 193.84 × 주식수 268257434,8
+FedEx,FDX,2017Q3,2017-08-31,분기별 매출액,15297000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1048911/000156459017018835/,,8
+FedEx,FDX,2017Q3,2017-08-31,분기별 영업이익,971000000,USD,공시(재작성 반영),https://www.sec.gov/Archives/edgar/data/1048911/000156459019025065/,원 공시 1117000000 (https://www.sec.gov/Archives/edgar/data/1048911/000156459017018835/),8
+FedEx,FDX,2017Q3,2017-08-31,분기별 당기순이익(지배),596000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1048911/000156459017018835/,,8
+FedEx,FDX,2017Q3,2017-08-31,분기별 영업활동현금흐름,590000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1048911/000156459017018835/,,8
+FedEx,FDX,2017Q3,2017-08-31,분기말 자산총계,49350000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1048911/000156459017018835/,,8
+FedEx,FDX,2017Q3,2017-08-31,분기말 부채총계,32732000000,USD,계산(부채및자본-총자본),https://www.sec.gov/Archives/edgar/data/1048911/000156459017018835/,부채및자본 49350000000 − 총자본 16618000000,8
+FedEx,FDX,2017Q3,2017-08-31,분기말 총자본(자기자본),16618000000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/1048911/000156459017018835/,"StockholdersEquity, MinorityInterest 태그 없음",8
+FedEx,FDX,2017Q3,2017-08-31,분기말 지배지분 자본,16618000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1048911/000156459017018835/,,8
+FedEx,FDX,2017Q3,2017-08-31,분기말 종가,214.38,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/FDX?interval=1d&events=splits (2017-08-31),분할조정 종가 172.7478 × 이후 분할계수 1.241,8
+FedEx,FDX,2017Q3,2017-09-18,분기말 상장주식수,268147668,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/1048911/000156459017018835/,dei:EntityCommonStockSharesOutstanding 클래스 합,8
+FedEx,FDX,2017Q3,2017-08-31,분기말 시가총액,57485497066,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/FDX?interval=1d&events=splits (2017-08-31) ; https://www.sec.gov/Archives/edgar/data/1048911/000156459017018835/,종가 214.38 × 주식수 268147668,8
+FedEx,FDX,2017Q4,2017-11-30,분기별 매출액,16313000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1048911/000156459017025136/,,8
+FedEx,FDX,2017Q4,2017-11-30,분기별 영업이익,1115000000,USD,공시(재작성 반영),https://www.sec.gov/Archives/edgar/data/1048911/000156459019025065/,원 공시 1262000000 (https://www.sec.gov/Archives/edgar/data/1048911/000156459017025136/),8
+FedEx,FDX,2017Q4,2017-11-30,분기별 당기순이익(지배),775000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1048911/000156459017025136/,,8
+FedEx,FDX,2017Q4,2017-11-30,분기별 영업활동현금흐름,908000000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/1048911/000156459017025136/ ; https://www.sec.gov/Archives/edgar/data/1048911/000156459017018835/,누적 1498000000 − 직전누적 590000000 (시작 2017-06-01),8
+FedEx,FDX,2017Q4,2017-11-30,분기말 자산총계,50281000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1048911/000156459017025136/,,8
+FedEx,FDX,2017Q4,2017-11-30,분기말 부채총계,33226000000,USD,계산(부채및자본-총자본),https://www.sec.gov/Archives/edgar/data/1048911/000156459017025136/,부채및자본 50281000000 − 총자본 17055000000,8
+FedEx,FDX,2017Q4,2017-11-30,분기말 총자본(자기자본),17055000000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/1048911/000156459017025136/,"StockholdersEquity, MinorityInterest 태그 없음",8
+FedEx,FDX,2017Q4,2017-11-30,분기말 지배지분 자본,17055000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1048911/000156459017025136/,,8
+FedEx,FDX,2017Q4,2017-11-30,분기말 종가,231.46,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/FDX?interval=1d&events=splits (2017-11-30),분할조정 종가 186.5109 × 이후 분할계수 1.241,8
+FedEx,FDX,2017Q4,2017-12-18,분기말 상장주식수,267889623,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/1048911/000156459017025136/,dei:EntityCommonStockSharesOutstanding 클래스 합,8
+FedEx,FDX,2017Q4,2017-11-30,분기말 시가총액,62005732140,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/FDX?interval=1d&events=splits (2017-11-30) ; https://www.sec.gov/Archives/edgar/data/1048911/000156459017025136/,종가 231.46 × 주식수 267889623,8
+FedEx,FDX,2018Q1,2018-02-28,분기별 매출액,16526000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1048911/000156459018006410/,,8
+FedEx,FDX,2018Q1,2018-02-28,분기별 영업이익,858000000,USD,공시(재작성 반영),https://www.sec.gov/Archives/edgar/data/1048911/000156459019025065/,원 공시 1001000000 (https://www.sec.gov/Archives/edgar/data/1048911/000156459018006410/),8
+FedEx,FDX,2018Q1,2018-02-28,분기별 당기순이익(지배),2074000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1048911/000156459018006410/,,8
+FedEx,FDX,2018Q1,2018-02-28,분기별 영업활동현금흐름,-336000000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/1048911/000156459018006410/ ; https://www.sec.gov/Archives/edgar/data/1048911/000156459017025136/,누적 1162000000 − 직전누적 1498000000 (시작 2017-06-01),8
+FedEx,FDX,2018Q1,2018-02-28,분기말 자산총계,51851000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1048911/000156459018006410/,,8
+FedEx,FDX,2018Q1,2018-02-28,분기말 부채총계,32957000000,USD,계산(부채및자본-총자본),https://www.sec.gov/Archives/edgar/data/1048911/000156459018006410/,부채및자본 51851000000 − 총자본 18894000000,8
+FedEx,FDX,2018Q1,2018-02-28,분기말 총자본(자기자본),18894000000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/1048911/000156459018006410/,"StockholdersEquity, MinorityInterest 태그 없음",8
+FedEx,FDX,2018Q1,2018-02-28,분기말 지배지분 자본,18894000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1048911/000156459018006410/,,8
+FedEx,FDX,2018Q1,2018-02-28,분기말 종가,246.41,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/FDX?interval=1d&events=splits (2018-02-28),분할조정 종가 198.5576 × 이후 분할계수 1.241,8
+FedEx,FDX,2018Q1,2018-03-19,분기말 상장주식수,267215207,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/1048911/000156459018006410/,dei:EntityCommonStockSharesOutstanding 클래스 합,8
+FedEx,FDX,2018Q1,2018-02-28,분기말 시가총액,65844499157,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/FDX?interval=1d&events=splits (2018-02-28) ; https://www.sec.gov/Archives/edgar/data/1048911/000156459018006410/,종가 246.41 × 주식수 267215207,8
+FedEx,FDX,2018Q2,2018-05-31,분기별 매출액,17314000000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/1048911/000156459018016877/ ; https://www.sec.gov/Archives/edgar/data/1048911/000156459018006410/,연간 65450000000 − 9개월누적 48136000000 (Revenues),8
+FedEx,FDX,2018Q2,2018-05-31,분기별 영업이익,1328000000,USD,계산(연간-3분기누적)(재작성 반영),https://www.sec.gov/Archives/edgar/data/1048911/000156459020032775/ ; https://www.sec.gov/Archives/edgar/data/1048911/000156459019008444/,연간 4272000000 − 9개월누적 2944000000 (OperatingIncomeLoss) ; 원 공시 1490000000 (https://www.sec.gov/Archives/edgar/data/1048911/000156459018016877/ ; https://www.sec.gov/Archives/edgar/data/1048911/000156459018006410/),8
+FedEx,FDX,2018Q2,2018-05-31,분기별 당기순이익(지배),1127000000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/1048911/000156459018016877/ ; https://www.sec.gov/Archives/edgar/data/1048911/000156459018006410/,연간 4572000000 − 9개월누적 3445000000 (NetIncomeLoss),8
+FedEx,FDX,2018Q2,2018-05-31,분기별 영업활동현금흐름,3512000000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/1048911/000156459018016877/ ; https://www.sec.gov/Archives/edgar/data/1048911/000156459018006410/,누적 4674000000 − 직전누적 1162000000 (시작 2017-06-01),8
+FedEx,FDX,2018Q2,2018-05-31,분기말 자산총계,52330000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1048911/000156459018016877/,,8
+FedEx,FDX,2018Q2,2018-05-31,분기말 부채총계,32914000000,USD,계산(부채및자본-총자본),https://www.sec.gov/Archives/edgar/data/1048911/000156459018016877/,부채및자본 52330000000 − 총자본 19416000000,8
+FedEx,FDX,2018Q2,2018-05-31,분기말 총자본(자기자본),19416000000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/1048911/000156459018016877/,"StockholdersEquity, MinorityInterest 태그 없음",8
+FedEx,FDX,2018Q2,2018-05-31,분기말 지배지분 자본,19416000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1048911/000156459018016877/,,8
+FedEx,FDX,2018Q2,2018-05-31,분기말 종가,249.12,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/FDX?interval=1d&events=splits (2018-05-31),분할조정 종가 200.7413 × 이후 분할계수 1.241,8
+FedEx,FDX,2018Q2,2018-07-12,분기말 상장주식수,265924840,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/1048911/000156459018016877/,dei:EntityCommonStockSharesOutstanding 클래스 합,8
+FedEx,FDX,2018Q2,2018-05-31,분기말 시가총액,66247196141,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/FDX?interval=1d&events=splits (2018-05-31) ; https://www.sec.gov/Archives/edgar/data/1048911/000156459018016877/,종가 249.12 × 주식수 265924840,8
+FedEx,FDX,2018Q3,2018-08-31,분기별 매출액,17052000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1048911/000156459018023207/,,8
+FedEx,FDX,2018Q3,2018-08-31,분기별 영업이익,1071000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1048911/000156459018023207/,,8
+FedEx,FDX,2018Q3,2018-08-31,분기별 당기순이익(지배),835000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1048911/000156459018023207/,,8
+FedEx,FDX,2018Q3,2018-08-31,분기별 영업활동현금흐름,701000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1048911/000156459018023207/,,8
+FedEx,FDX,2018Q3,2018-08-31,분기말 자산총계,51901000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1048911/000156459018023207/,,8
+FedEx,FDX,2018Q3,2018-08-31,분기말 부채총계,32728000000,USD,계산(부채및자본-총자본),https://www.sec.gov/Archives/edgar/data/1048911/000156459018023207/,부채및자본 51901000000 − 총자본 19173000000,8
+FedEx,FDX,2018Q3,2018-08-31,분기말 총자본(자기자본),19173000000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/1048911/000156459018023207/,"StockholdersEquity, MinorityInterest 태그 없음",8
+FedEx,FDX,2018Q3,2018-08-31,분기말 지배지분 자본,19173000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1048911/000156459018023207/,,8
+FedEx,FDX,2018Q3,2018-08-31,분기말 종가,243.95,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/FDX?interval=1d&events=splits (2018-08-31),분할조정 종가 196.5753 × 이후 분할계수 1.241,8
+FedEx,FDX,2018Q3,2018-09-13,분기말 상장주식수,263515857,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/1048911/000156459018023207/,dei:EntityCommonStockSharesOutstanding 클래스 합,8
+FedEx,FDX,2018Q3,2018-08-31,분기말 시가총액,64284693315,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/FDX?interval=1d&events=splits (2018-08-31) ; https://www.sec.gov/Archives/edgar/data/1048911/000156459018023207/,종가 243.95 × 주식수 263515857,8
+FedEx,FDX,2018Q4,2018-11-30,분기별 매출액,17824000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1048911/000156459018031032/,,8
+FedEx,FDX,2018Q4,2018-11-30,분기별 영업이익,1168000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1048911/000156459018031032/,,8
+FedEx,FDX,2018Q4,2018-11-30,분기별 당기순이익(지배),935000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1048911/000156459018031032/,,8
+FedEx,FDX,2018Q4,2018-11-30,분기별 영업활동현금흐름,1478000000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/1048911/000156459018031032/ ; https://www.sec.gov/Archives/edgar/data/1048911/000156459018023207/,누적 2179000000 − 직전누적 701000000 (시작 2018-06-01),8
+FedEx,FDX,2018Q4,2018-11-30,분기말 자산총계,53289000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1048911/000156459018031032/,,8
+FedEx,FDX,2018Q4,2018-11-30,분기말 부채총계,33995000000,USD,계산(부채및자본-총자본),https://www.sec.gov/Archives/edgar/data/1048911/000156459018031032/,부채및자본 53289000000 − 총자본 19294000000,8
+FedEx,FDX,2018Q4,2018-11-30,분기말 총자본(자기자본),19294000000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/1048911/000156459018031032/,"StockholdersEquity, MinorityInterest 태그 없음",8
+FedEx,FDX,2018Q4,2018-11-30,분기말 지배지분 자본,19294000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1048911/000156459018031032/,,8
+FedEx,FDX,2018Q4,2018-11-30,분기말 종가,229.0,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/FDX?interval=1d&events=splits (2018-11-30),분할조정 종가 184.5286 × 이후 분할계수 1.241,8
+FedEx,FDX,2018Q4,2018-12-14,분기말 상장주식수,261043625,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/1048911/000156459018031032/,dei:EntityCommonStockSharesOutstanding 클래스 합,8
+FedEx,FDX,2018Q4,2018-11-30,분기말 시가총액,59778990125,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/FDX?interval=1d&events=splits (2018-11-30) ; https://www.sec.gov/Archives/edgar/data/1048911/000156459018031032/,종가 229.0 × 주식수 261043625,8
+FedEx,FDX,2019Q1,2019-02-28,분기별 매출액,17010000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1048911/000156459019008444/,,8
+FedEx,FDX,2019Q1,2019-02-28,분기별 영업이익,911000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1048911/000156459019008444/,,8
+FedEx,FDX,2019Q1,2019-02-28,분기별 당기순이익(지배),739000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1048911/000156459019008444/,,8
+FedEx,FDX,2019Q1,2019-02-28,분기별 영업활동현금흐름,1144000000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/1048911/000156459019008444/ ; https://www.sec.gov/Archives/edgar/data/1048911/000156459018031032/,누적 3323000000 − 직전누적 2179000000 (시작 2018-06-01),8
+FedEx,FDX,2019Q1,2019-02-28,분기말 자산총계,54464000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1048911/000156459019008444/,,8
+FedEx,FDX,2019Q1,2019-02-28,분기말 부채총계,34570000000,USD,계산(부채및자본-총자본),https://www.sec.gov/Archives/edgar/data/1048911/000156459019008444/,부채및자본 54464000000 − 총자본 19894000000,8
+FedEx,FDX,2019Q1,2019-02-28,분기말 총자본(자기자본),19894000000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/1048911/000156459019008444/,"StockholdersEquity, MinorityInterest 태그 없음",8
+FedEx,FDX,2019Q1,2019-02-28,분기말 지배지분 자본,19894000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1048911/000156459019008444/,,8
+FedEx,FDX,2019Q1,2019-02-28,분기말 종가,181.0,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/FDX?interval=1d&events=splits (2019-02-28),분할조정 종가 145.8501 × 이후 분할계수 1.241,8
+FedEx,FDX,2019Q1,2019-03-15,분기말 상장주식수,260574612,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/1048911/000156459019008444/,dei:EntityCommonStockSharesOutstanding 클래스 합,8
+FedEx,FDX,2019Q1,2019-02-28,분기말 시가총액,47164004772,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/FDX?interval=1d&events=splits (2019-02-28) ; https://www.sec.gov/Archives/edgar/data/1048911/000156459019008444/,종가 181.0 × 주식수 260574612,8
+FedEx,FDX,2019Q2,2019-05-31,분기별 매출액,17807000000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/1048911/000156459019025065/ ; https://www.sec.gov/Archives/edgar/data/1048911/000156459019008444/,연간 69693000000 − 9개월누적 51886000000 (RevenueFromContractWithCustomerExcludingAssessedTax),8
+FedEx,FDX,2019Q2,2019-05-31,분기별 영업이익,1316000000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/1048911/000156459019025065/ ; https://www.sec.gov/Archives/edgar/data/1048911/000156459019008444/,연간 4466000000 − 9개월누적 3150000000 (OperatingIncomeLoss),8
+FedEx,FDX,2019Q2,2019-05-31,분기별 당기순이익(지배),-1969000000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/1048911/000156459019025065/ ; https://www.sec.gov/Archives/edgar/data/1048911/000156459019008444/,연간 540000000 − 9개월누적 2509000000 (NetIncomeLoss),8
+FedEx,FDX,2019Q2,2019-05-31,분기별 영업활동현금흐름,2290000000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/1048911/000156459019025065/ ; https://www.sec.gov/Archives/edgar/data/1048911/000156459019008444/,누적 5613000000 − 직전누적 3323000000 (시작 2018-06-01),8
+FedEx,FDX,2019Q2,2019-05-31,분기말 자산총계,54403000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1048911/000156459019025065/,,8
+FedEx,FDX,2019Q2,2019-05-31,분기말 부채총계,36646000000,USD,계산(부채및자본-총자본),https://www.sec.gov/Archives/edgar/data/1048911/000156459019025065/,부채및자본 54403000000 − 총자본 17757000000,8
+FedEx,FDX,2019Q2,2019-05-31,분기말 총자본(자기자본),17757000000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/1048911/000156459019025065/,"StockholdersEquity, MinorityInterest 태그 없음",8
+FedEx,FDX,2019Q2,2019-05-31,분기말 지배지분 자본,17757000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1048911/000156459019025065/,,8
+FedEx,FDX,2019Q2,2019-05-31,분기말 종가,154.28,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/FDX?interval=1d&events=splits (2019-05-31),분할조정 종가 124.3191 × 이후 분할계수 1.241,8
+FedEx,FDX,2019Q2,2019-07-12,분기말 상장주식수,260808410,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/1048911/000156459019025065/,dei:EntityCommonStockSharesOutstanding 클래스 합,8
+FedEx,FDX,2019Q2,2019-05-31,분기말 시가총액,40237521495,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/FDX?interval=1d&events=splits (2019-05-31) ; https://www.sec.gov/Archives/edgar/data/1048911/000156459019025065/,종가 154.28 × 주식수 260808410,8
+FedEx,FDX,2019Q3,2019-08-31,분기별 매출액,17048000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1048911/000156459019034896/,,8
+FedEx,FDX,2019Q3,2019-08-31,분기별 영업이익,977000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1048911/000156459019034896/,,8
+FedEx,FDX,2019Q3,2019-08-31,분기별 당기순이익(지배),745000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1048911/000156459019034896/,,8
+FedEx,FDX,2019Q3,2019-08-31,분기별 영업활동현금흐름,565000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1048911/000156459019034896/,,8
+FedEx,FDX,2019Q3,2019-08-31,분기말 자산총계,68452000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1048911/000156459019034896/,,8
+FedEx,FDX,2019Q3,2019-08-31,분기말 부채총계,50286000000,USD,계산(부채및자본-총자본),https://www.sec.gov/Archives/edgar/data/1048911/000156459019034896/,부채및자본 68452000000 − 총자본 18166000000,8
+FedEx,FDX,2019Q3,2019-08-31,분기말 총자본(자기자본),18166000000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/1048911/000156459019034896/,"StockholdersEquity, MinorityInterest 태그 없음",8
+FedEx,FDX,2019Q3,2019-08-31,분기말 지배지분 자본,18166000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1048911/000156459019034896/,,8
+FedEx,FDX,2019Q3,2019-08-30,분기말 종가,158.61,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/FDX?interval=1d&events=splits (2019-08-30),분할조정 종가 127.8082 × 이후 분할계수 1.241,8
+FedEx,FDX,2019Q3,2019-09-13,분기말 상장주식수,260910309,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/1048911/000156459019034896/,dei:EntityCommonStockSharesOutstanding 클래스 합,8
+FedEx,FDX,2019Q3,2019-08-30,분기말 시가총액,41382984110,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/FDX?interval=1d&events=splits (2019-08-30) ; https://www.sec.gov/Archives/edgar/data/1048911/000156459019034896/,종가 158.61 × 주식수 260910309,8
+FedEx,FDX,2019Q4,2019-11-30,분기별 매출액,17324000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1048911/000156459019046220/,,8
+FedEx,FDX,2019Q4,2019-11-30,분기별 영업이익,554000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1048911/000156459019046220/,,8
+FedEx,FDX,2019Q4,2019-11-30,분기별 당기순이익(지배),560000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1048911/000156459019046220/,,8
+FedEx,FDX,2019Q4,2019-11-30,분기별 영업활동현금흐름,1509000000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/1048911/000156459019046220/ ; https://www.sec.gov/Archives/edgar/data/1048911/000156459019034896/,누적 2074000000 − 직전누적 565000000 (시작 2019-06-01),8
+FedEx,FDX,2019Q4,2019-11-30,분기말 자산총계,69954000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1048911/000156459019046220/,,8
+FedEx,FDX,2019Q4,2019-11-30,분기말 부채총계,51295000000,USD,계산(부채및자본-총자본),https://www.sec.gov/Archives/edgar/data/1048911/000156459019046220/,부채및자본 69954000000 − 총자본 18659000000,8
+FedEx,FDX,2019Q4,2019-11-30,분기말 총자본(자기자본),18659000000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/1048911/000156459019046220/,"StockholdersEquity, MinorityInterest 태그 없음",8
+FedEx,FDX,2019Q4,2019-11-30,분기말 지배지분 자본,18659000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1048911/000156459019046220/,,8
+FedEx,FDX,2019Q4,2019-11-29,분기말 종가,160.05,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/FDX?interval=1d&events=splits (2019-11-29),분할조정 종가 128.9686 × 이후 분할계수 1.241,8
+FedEx,FDX,2019Q4,2019-12-13,분기말 상장주식수,261119074,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/1048911/000156459019046220/,dei:EntityCommonStockSharesOutstanding 클래스 합,8
+FedEx,FDX,2019Q4,2019-11-29,분기말 시가총액,41792107794,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/FDX?interval=1d&events=splits (2019-11-29) ; https://www.sec.gov/Archives/edgar/data/1048911/000156459019046220/,종가 160.05 × 주식수 261119074,8
+FedEx,FDX,2020Q1,2020-02-29,분기별 매출액,17487000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1048911/000156459020011411/,,8
+FedEx,FDX,2020Q1,2020-02-29,분기별 영업이익,411000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1048911/000156459020011411/,,8
+FedEx,FDX,2020Q1,2020-02-29,분기별 당기순이익(지배),315000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1048911/000156459020011411/,,8
+FedEx,FDX,2020Q1,2020-02-29,분기별 영업활동현금흐름,1204000000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/1048911/000156459020011411/ ; https://www.sec.gov/Archives/edgar/data/1048911/000156459019046220/,누적 3278000000 − 직전누적 2074000000 (시작 2019-06-01),8
+FedEx,FDX,2020Q1,2020-02-29,분기말 자산총계,70014000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1048911/000156459020011411/,,8
+FedEx,FDX,2020Q1,2020-02-29,분기말 부채총계,51183000000,USD,계산(부채및자본-총자본),https://www.sec.gov/Archives/edgar/data/1048911/000156459020011411/,부채및자본 70014000000 − 총자본 18831000000,8
+FedEx,FDX,2020Q1,2020-02-29,분기말 총자본(자기자본),18831000000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/1048911/000156459020011411/,"StockholdersEquity, MinorityInterest 태그 없음",8
+FedEx,FDX,2020Q1,2020-02-29,분기말 지배지분 자본,18831000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1048911/000156459020011411/,,8
+FedEx,FDX,2020Q1,2020-02-28,분기말 종가,141.17,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/FDX?interval=1d&events=splits (2020-02-28),분할조정 종가 113.755 × 이후 분할계수 1.241,8
+FedEx,FDX,2020Q1,2020-03-13,분기말 상장주식수,261249779,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/1048911/000156459020011411/,dei:EntityCommonStockSharesOutstanding 클래스 합,8
+FedEx,FDX,2020Q1,2020-02-28,분기말 시가총액,36880631301,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/FDX?interval=1d&events=splits (2020-02-28) ; https://www.sec.gov/Archives/edgar/data/1048911/000156459020011411/,종가 141.17 × 주식수 261249779,8
+FedEx,FDX,2020Q2,2020-05-31,분기별 매출액,17358000000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/1048911/000156459020032775/ ; https://www.sec.gov/Archives/edgar/data/1048911/000156459020011411/,연간 69217000000 − 9개월누적 51859000000 (RevenueFromContractWithCustomerExcludingAssessedTax),8
+FedEx,FDX,2020Q2,2020-05-31,분기별 영업이익,475000000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/1048911/000156459020032775/ ; https://www.sec.gov/Archives/edgar/data/1048911/000156459020011411/,연간 2417000000 − 9개월누적 1942000000 (OperatingIncomeLoss),8
+FedEx,FDX,2020Q2,2020-05-31,분기별 당기순이익(지배),-334000000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/1048911/000156459020032775/ ; https://www.sec.gov/Archives/edgar/data/1048911/000156459020011411/,연간 1286000000 − 9개월누적 1620000000 (NetIncomeLoss),8
+FedEx,FDX,2020Q2,2020-05-31,분기별 영업활동현금흐름,1819000000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/1048911/000156459020032775/ ; https://www.sec.gov/Archives/edgar/data/1048911/000156459020011411/,누적 5097000000 − 직전누적 3278000000 (시작 2019-06-01),8
+FedEx,FDX,2020Q2,2020-05-31,분기말 자산총계,73537000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1048911/000156459020032775/,,8
+FedEx,FDX,2020Q2,2020-05-31,분기말 부채총계,55242000000,USD,계산(부채및자본-총자본),https://www.sec.gov/Archives/edgar/data/1048911/000156459020032775/,부채및자본 73537000000 − 총자본 18295000000,8
+FedEx,FDX,2020Q2,2020-05-31,분기말 총자본(자기자본),18295000000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/1048911/000156459020032775/,"StockholdersEquity, MinorityInterest 태그 없음",8
+FedEx,FDX,2020Q2,2020-05-31,분기말 지배지분 자본,18295000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1048911/000156459020032775/,,8
+FedEx,FDX,2020Q2,2020-05-29,분기말 종가,130.56,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/FDX?interval=1d&events=splits (2020-05-29),분할조정 종가 105.2055 × 이후 분할계수 1.241,8
+FedEx,FDX,2020Q2,2020-07-16,분기말 상장주식수,261954496,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/1048911/000156459020032775/,dei:EntityCommonStockSharesOutstanding 클래스 합,8
+FedEx,FDX,2020Q2,2020-05-29,분기말 시가총액,34200778998,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/FDX?interval=1d&events=splits (2020-05-29) ; https://www.sec.gov/Archives/edgar/data/1048911/000156459020032775/,종가 130.56 × 주식수 261954496,8
+FedEx,FDX,2020Q3,2020-08-31,분기별 매출액,19321000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1048911/000156459020043606/,,8
+FedEx,FDX,2020Q3,2020-08-31,분기별 영업이익,1590000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1048911/000156459020043606/,,8
+FedEx,FDX,2020Q3,2020-08-31,분기별 당기순이익(지배),1245000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1048911/000156459020043606/,,8
+FedEx,FDX,2020Q3,2020-08-31,분기별 영업활동현금흐름,2651000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1048911/000156459020043606/,,8
+FedEx,FDX,2020Q3,2020-08-31,분기말 자산총계,77648000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1048911/000156459020043606/,,8
+FedEx,FDX,2020Q3,2020-08-31,분기말 부채총계,58186000000,USD,계산(부채및자본-총자본),https://www.sec.gov/Archives/edgar/data/1048911/000156459020043606/,부채및자본 77648000000 − 총자본 19462000000,8
+FedEx,FDX,2020Q3,2020-08-31,분기말 총자본(자기자본),19462000000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/1048911/000156459020043606/,"StockholdersEquity, MinorityInterest 태그 없음",8
+FedEx,FDX,2020Q3,2020-08-31,분기말 지배지분 자본,19462000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1048911/000156459020043606/,,8
+FedEx,FDX,2020Q3,2020-08-31,분기말 종가,219.84,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/FDX?interval=1d&events=splits (2020-08-31),분할조정 종가 177.1475 × 이후 분할계수 1.241,8
+FedEx,FDX,2020Q3,2020-09-11,분기말 상장주식수,262591998,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/1048911/000156459020043606/,dei:EntityCommonStockSharesOutstanding 클래스 합,8
+FedEx,FDX,2020Q3,2020-08-31,분기말 시가총액,57728224840,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/FDX?interval=1d&events=splits (2020-08-31) ; https://www.sec.gov/Archives/edgar/data/1048911/000156459020043606/,종가 219.84 × 주식수 262591998,8
+FedEx,FDX,2020Q4,2020-11-30,분기별 매출액,20563000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1048911/000156459020057454/,,8
+FedEx,FDX,2020Q4,2020-11-30,분기별 영업이익,1465000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1048911/000156459020057454/,,8
+FedEx,FDX,2020Q4,2020-11-30,분기별 당기순이익(지배),1226000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1048911/000156459020057454/,,8
+FedEx,FDX,2020Q4,2020-11-30,분기별 영업활동현금흐름,2579000000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/1048911/000156459020057454/ ; https://www.sec.gov/Archives/edgar/data/1048911/000156459020043606/,누적 5230000000 − 직전누적 2651000000 (시작 2020-06-01),8
+FedEx,FDX,2020Q4,2020-11-30,분기말 자산총계,81156000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1048911/000156459020057454/,,8
+FedEx,FDX,2020Q4,2020-11-30,분기말 부채총계,60117000000,USD,계산(부채및자본-총자본),https://www.sec.gov/Archives/edgar/data/1048911/000156459020057454/,부채및자본 81156000000 − 총자본 21039000000,8
+FedEx,FDX,2020Q4,2020-11-30,분기말 총자본(자기자본),21039000000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/1048911/000156459020057454/,"StockholdersEquity, MinorityInterest 태그 없음",8
+FedEx,FDX,2020Q4,2020-11-30,분기말 지배지분 자본,21039000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1048911/000156459020057454/,,8
+FedEx,FDX,2020Q4,2020-11-30,분기말 종가,286.58,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/FDX?interval=1d&events=splits (2020-11-30),분할조정 종가 230.9267 × 이후 분할계수 1.241,8
+FedEx,FDX,2020Q4,2020-12-15,분기말 상장주식수,265070592,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/1048911/000156459020057454/,dei:EntityCommonStockSharesOutstanding 클래스 합,8
+FedEx,FDX,2020Q4,2020-11-30,분기말 시가총액,75963930255,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/FDX?interval=1d&events=splits (2020-11-30) ; https://www.sec.gov/Archives/edgar/data/1048911/000156459020057454/,종가 286.58 × 주식수 265070592,8
+FedEx,FDX,2021Q1,2021-02-28,분기별 매출액,21510000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1048911/000156459021014160/,,8
+FedEx,FDX,2021Q1,2021-02-28,분기별 영업이익,1005000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1048911/000156459021014160/,,8
+FedEx,FDX,2021Q1,2021-02-28,분기별 당기순이익(지배),892000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1048911/000156459021014160/,,8
+FedEx,FDX,2021Q1,2021-02-28,분기별 영업활동현금흐름,2162000000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/1048911/000156459021014160/ ; https://www.sec.gov/Archives/edgar/data/1048911/000156459020057454/,누적 7392000000 − 직전누적 5230000000 (시작 2020-06-01),8
+FedEx,FDX,2021Q1,2021-02-28,분기말 자산총계,82793000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1048911/000156459021014160/,,8
+FedEx,FDX,2021Q1,2021-02-28,분기말 부채총계,60812000000,USD,계산(부채및자본-총자본),https://www.sec.gov/Archives/edgar/data/1048911/000156459021014160/,부채및자본 82793000000 − 총자본 21981000000,8
+FedEx,FDX,2021Q1,2021-02-28,분기말 총자본(자기자본),21981000000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/1048911/000156459021014160/,"StockholdersEquity, MinorityInterest 태그 없음",8
+FedEx,FDX,2021Q1,2021-02-28,분기말 지배지분 자본,21981000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1048911/000156459021014160/,,8
+FedEx,FDX,2021Q1,2021-02-26,분기말 종가,254.5,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/FDX?interval=1d&events=splits (2021-02-26),분할조정 종가 205.0766 × 이후 분할계수 1.241,8
+FedEx,FDX,2021Q1,2021-03-16,분기말 상장주식수,265342075,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/1048911/000156459021014160/,dei:EntityCommonStockSharesOutstanding 클래스 합,8
+FedEx,FDX,2021Q1,2021-02-26,분기말 시가총액,67529558088,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/FDX?interval=1d&events=splits (2021-02-26) ; https://www.sec.gov/Archives/edgar/data/1048911/000156459021014160/,종가 254.5 × 주식수 265342075,8
+FedEx,FDX,2021Q2,2021-05-31,분기별 매출액,22565000000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/1048911/000156459021037031/ ; https://www.sec.gov/Archives/edgar/data/1048911/000156459021014160/,연간 83959000000 − 9개월누적 61394000000 (RevenueFromContractWithCustomerExcludingAssessedTax),8
+FedEx,FDX,2021Q2,2021-05-31,분기별 영업이익,1797000000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/1048911/000156459021037031/ ; https://www.sec.gov/Archives/edgar/data/1048911/000156459021014160/,연간 5857000000 − 9개월누적 4060000000 (OperatingIncomeLoss),8
+FedEx,FDX,2021Q2,2021-05-31,분기별 당기순이익(지배),1868000000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/1048911/000156459021037031/ ; https://www.sec.gov/Archives/edgar/data/1048911/000156459021014160/,연간 5231000000 − 9개월누적 3363000000 (NetIncomeLoss),8
+FedEx,FDX,2021Q2,2021-05-31,분기별 영업활동현금흐름,2743000000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/1048911/000156459021037031/ ; https://www.sec.gov/Archives/edgar/data/1048911/000156459021014160/,누적 10135000000 − 직전누적 7392000000 (시작 2020-06-01),8
+FedEx,FDX,2021Q2,2021-05-31,분기말 자산총계,82777000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1048911/000156459021037031/,,8
+FedEx,FDX,2021Q2,2021-05-31,분기말 부채총계,58609000000,USD,계산(부채및자본-총자본),https://www.sec.gov/Archives/edgar/data/1048911/000156459021037031/,부채및자본 82777000000 − 총자본 24168000000,8
+FedEx,FDX,2021Q2,2021-05-31,분기말 총자본(자기자본),24168000000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/1048911/000156459021037031/,"StockholdersEquity, MinorityInterest 태그 없음",8
+FedEx,FDX,2021Q2,2021-05-31,분기말 지배지분 자본,24168000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1048911/000156459021037031/,,8
+FedEx,FDX,2021Q2,2021-05-28,분기말 종가,314.81,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/FDX?interval=1d&events=splits (2021-05-28),분할조정 종가 253.6745 × 이후 분할계수 1.241,8
+FedEx,FDX,2021Q2,2021-07-15,분기말 상장주식수,267348232,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/1048911/000156459021037031/,dei:EntityCommonStockSharesOutstanding 클래스 합,8
+FedEx,FDX,2021Q2,2021-05-28,분기말 시가총액,84163896916,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/FDX?interval=1d&events=splits (2021-05-28) ; https://www.sec.gov/Archives/edgar/data/1048911/000156459021037031/,종가 314.81 × 주식수 267348232,8
+FedEx,FDX,2021Q3,2021-08-31,분기별 매출액,22003000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1048911/000156459021048468/,,8
+FedEx,FDX,2021Q3,2021-08-31,분기별 영업이익,1398000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1048911/000156459021048468/,,8
+FedEx,FDX,2021Q3,2021-08-31,분기별 당기순이익(지배),1112000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1048911/000156459021048468/,,8
+FedEx,FDX,2021Q3,2021-08-31,분기별 영업활동현금흐름,2084000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1048911/000156459021048468/,,8
+FedEx,FDX,2021Q3,2021-08-31,분기말 자산총계,82048000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1048911/000156459021048468/,,8
+FedEx,FDX,2021Q3,2021-08-31,분기말 부채총계,57727000000,USD,계산(부채및자본-총자본),https://www.sec.gov/Archives/edgar/data/1048911/000156459021048468/,부채및자본 82048000000 − 총자본 24321000000,8
+FedEx,FDX,2021Q3,2021-08-31,분기말 총자본(자기자본),24321000000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/1048911/000156459021048468/,"StockholdersEquity, MinorityInterest 태그 없음",8
+FedEx,FDX,2021Q3,2021-08-31,분기말 지배지분 자본,24321000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1048911/000156459021048468/,,8
+FedEx,FDX,2021Q3,2021-08-31,분기말 종가,265.69,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/FDX?interval=1d&events=splits (2021-08-31),분할조정 종가 214.0935 × 이후 분할계수 1.241,8
+FedEx,FDX,2021Q3,2021-09-17,분기말 상장주식수,265650056,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/1048911/000156459021048468/,dei:EntityCommonStockSharesOutstanding 클래스 합,8
+FedEx,FDX,2021Q3,2021-08-31,분기말 시가총액,70580563379,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/FDX?interval=1d&events=splits (2021-08-31) ; https://www.sec.gov/Archives/edgar/data/1048911/000156459021048468/,종가 265.69 × 주식수 265650056,8
+FedEx,FDX,2021Q4,2021-11-30,분기별 매출액,23474000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1048911/000156459021060577/,,8
+FedEx,FDX,2021Q4,2021-11-30,분기별 영업이익,1597000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1048911/000156459021060577/,,8
+FedEx,FDX,2021Q4,2021-11-30,분기별 당기순이익(지배),1044000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1048911/000156459021060577/,,8
+FedEx,FDX,2021Q4,2021-11-30,분기별 영업활동현금흐름,1998000000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/1048911/000156459021060577/ ; https://www.sec.gov/Archives/edgar/data/1048911/000156459021048468/,누적 4082000000 − 직전누적 2084000000 (시작 2021-06-01),8
+FedEx,FDX,2021Q4,2021-11-30,분기말 자산총계,84247000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1048911/000156459021060577/,,8
+FedEx,FDX,2021Q4,2021-11-30,분기말 부채총계,59307000000,USD,계산(부채및자본-총자본),https://www.sec.gov/Archives/edgar/data/1048911/000156459021060577/,부채및자본 84247000000 − 총자본 24940000000,8
+FedEx,FDX,2021Q4,2021-11-30,분기말 총자본(자기자본),24940000000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/1048911/000156459021060577/,"StockholdersEquity, MinorityInterest 태그 없음",8
+FedEx,FDX,2021Q4,2021-11-30,분기말 지배지분 자본,24940000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1048911/000156459021060577/,,8
+FedEx,FDX,2021Q4,2021-11-30,분기말 종가,230.37,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/FDX?interval=1d&events=splits (2021-11-30),분할조정 종가 185.6326 × 이후 분할계수 1.241,8
+FedEx,FDX,2021Q4,2021-12-14,분기말 상장주식수,264969342,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/1048911/000156459021060577/,dei:EntityCommonStockSharesOutstanding 클래스 합,8
+FedEx,FDX,2021Q4,2021-11-30,분기말 시가총액,61040987317,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/FDX?interval=1d&events=splits (2021-11-30) ; https://www.sec.gov/Archives/edgar/data/1048911/000156459021060577/,종가 230.37 × 주식수 264969342,8
+FedEx,FDX,2022Q1,2022-02-28,분기별 매출액,23641000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1048911/000095017022004086/,,8
+FedEx,FDX,2022Q1,2022-02-28,분기별 영업이익,1326000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1048911/000095017022004086/,,8
+FedEx,FDX,2022Q1,2022-02-28,분기별 당기순이익(지배),1112000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1048911/000095017022004086/,,8
+FedEx,FDX,2022Q1,2022-02-28,분기별 영업활동현금흐름,2248000000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/1048911/000095017022004086/ ; https://www.sec.gov/Archives/edgar/data/1048911/000156459021060577/,누적 6330000000 − 직전누적 4082000000 (시작 2021-06-01),8
+FedEx,FDX,2022Q1,2022-02-28,분기말 자산총계,84108000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1048911/000095017022004086/,,8
+FedEx,FDX,2022Q1,2022-02-28,분기말 부채총계,59582000000,USD,계산(부채및자본-총자본),https://www.sec.gov/Archives/edgar/data/1048911/000095017022004086/,부채및자본 84108000000 − 총자본 24526000000,8
+FedEx,FDX,2022Q1,2022-02-28,분기말 총자본(자기자본),24526000000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/1048911/000095017022004086/,"StockholdersEquity, MinorityInterest 태그 없음",8
+FedEx,FDX,2022Q1,2022-02-28,분기말 지배지분 자본,24526000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1048911/000095017022004086/,,8
+FedEx,FDX,2022Q1,2022-02-28,분기말 종가,222.27,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/FDX?interval=1d&events=splits (2022-02-28),분할조정 종가 179.1056 × 이후 분할계수 1.241,8
+FedEx,FDX,2022Q1,2022-03-15,분기말 상장주식수,259178229,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/1048911/000095017022004086/,dei:EntityCommonStockSharesOutstanding 클래스 합,8
+FedEx,FDX,2022Q1,2022-02-28,분기말 시가총액,57607544960,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/FDX?interval=1d&events=splits (2022-02-28) ; https://www.sec.gov/Archives/edgar/data/1048911/000095017022004086/,종가 222.27 × 주식수 259178229,8
+FedEx,FDX,2022Q2,2022-05-31,분기별 매출액,24394000000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/1048911/000095017022012762/ ; https://www.sec.gov/Archives/edgar/data/1048911/000095017022004086/,연간 93512000000 − 9개월누적 69118000000 (RevenueFromContractWithCustomerExcludingAssessedTax),8
+FedEx,FDX,2022Q2,2022-05-31,분기별 영업이익,1924000000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/1048911/000095017022012762/ ; https://www.sec.gov/Archives/edgar/data/1048911/000095017022004086/,연간 6245000000 − 9개월누적 4321000000 (OperatingIncomeLoss),8
+FedEx,FDX,2022Q2,2022-05-31,분기별 당기순이익(지배),558000000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/1048911/000095017022012762/ ; https://www.sec.gov/Archives/edgar/data/1048911/000095017022004086/,연간 3826000000 − 9개월누적 3268000000 (NetIncomeLoss),8
+FedEx,FDX,2022Q2,2022-05-31,분기별 영업활동현금흐름,3502000000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/1048911/000095017022012762/ ; https://www.sec.gov/Archives/edgar/data/1048911/000095017022004086/,누적 9832000000 − 직전누적 6330000000 (시작 2021-06-01),8
+FedEx,FDX,2022Q2,2022-05-31,분기말 자산총계,85994000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1048911/000095017022012762/,,8
+FedEx,FDX,2022Q2,2022-05-31,분기말 부채총계,61055000000,USD,계산(부채및자본-총자본),https://www.sec.gov/Archives/edgar/data/1048911/000095017022012762/,부채및자본 85994000000 − 총자본 24939000000,8
+FedEx,FDX,2022Q2,2022-05-31,분기말 총자본(자기자본),24939000000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/1048911/000095017022012762/,"StockholdersEquity, MinorityInterest 태그 없음",8
+FedEx,FDX,2022Q2,2022-05-31,분기말 지배지분 자본,24939000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1048911/000095017022012762/,,8
+FedEx,FDX,2022Q2,2022-05-31,분기말 종가,224.58,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/FDX?interval=1d&events=splits (2022-05-31),분할조정 종가 180.967 × 이후 분할계수 1.241,8
+FedEx,FDX,2022Q2,2022-07-14,분기말 상장주식수,259845660,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/1048911/000095017022012762/,dei:EntityCommonStockSharesOutstanding 클래스 합,8
+FedEx,FDX,2022Q2,2022-05-31,분기말 시가총액,58356138323,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/FDX?interval=1d&events=splits (2022-05-31) ; https://www.sec.gov/Archives/edgar/data/1048911/000095017022012762/,종가 224.58 × 주식수 259845660,8
+FedEx,FDX,2022Q3,2022-08-31,분기별 매출액,23242000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1048911/000095017022018769/,,8
+FedEx,FDX,2022Q3,2022-08-31,분기별 영업이익,1191000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1048911/000095017022018769/,,8
+FedEx,FDX,2022Q3,2022-08-31,분기별 당기순이익(지배),875000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1048911/000095017022018769/,,8
+FedEx,FDX,2022Q3,2022-08-31,분기별 영업활동현금흐름,1607000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1048911/000095017022018769/,,8
+FedEx,FDX,2022Q3,2022-08-31,분기말 자산총계,85826000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1048911/000095017022018769/,,8
+FedEx,FDX,2022Q3,2022-08-31,분기말 부채총계,60686000000,USD,계산(부채및자본-총자본),https://www.sec.gov/Archives/edgar/data/1048911/000095017022018769/,부채및자본 85826000000 − 총자본 25140000000,8
+FedEx,FDX,2022Q3,2022-08-31,분기말 총자본(자기자본),25140000000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/1048911/000095017022018769/,"StockholdersEquity, MinorityInterest 태그 없음",8
+FedEx,FDX,2022Q3,2022-08-31,분기말 지배지분 자본,25140000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1048911/000095017022018769/,,8
+FedEx,FDX,2022Q3,2022-08-31,분기말 종가,210.81,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/FDX?interval=1d&events=splits (2022-08-31),분할조정 종가 169.8711 × 이후 분할계수 1.241,8
+FedEx,FDX,2022Q3,2022-09-20,분기말 상장주식수,260219792,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/1048911/000095017022018769/,dei:EntityCommonStockSharesOutstanding 클래스 합,8
+FedEx,FDX,2022Q3,2022-08-31,분기말 시가총액,54856934352,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/FDX?interval=1d&events=splits (2022-08-31) ; https://www.sec.gov/Archives/edgar/data/1048911/000095017022018769/,종가 210.81 × 주식수 260219792,8
+FedEx,FDX,2022Q4,2022-11-30,분기별 매출액,22814000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1048911/000095017022026825/,,8
+FedEx,FDX,2022Q4,2022-11-30,분기별 영업이익,1176000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1048911/000095017022026825/,,8
+FedEx,FDX,2022Q4,2022-11-30,분기별 당기순이익(지배),788000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1048911/000095017022026825/,,8
+FedEx,FDX,2022Q4,2022-11-30,분기별 영업활동현금흐름,1518000000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/1048911/000095017022026825/ ; https://www.sec.gov/Archives/edgar/data/1048911/000095017022018769/,누적 3125000000 − 직전누적 1607000000 (시작 2022-06-01),8
+FedEx,FDX,2022Q4,2022-11-30,분기말 자산총계,85591000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1048911/000095017022026825/,,8
+FedEx,FDX,2022Q4,2022-11-30,분기말 부채총계,61476000000,USD,계산(부채및자본-총자본),https://www.sec.gov/Archives/edgar/data/1048911/000095017022026825/,부채및자본 85591000000 − 총자본 24115000000,8
+FedEx,FDX,2022Q4,2022-11-30,분기말 총자본(자기자본),24115000000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/1048911/000095017022026825/,"StockholdersEquity, MinorityInterest 태그 없음",8
+FedEx,FDX,2022Q4,2022-11-30,분기말 지배지분 자본,24115000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1048911/000095017022026825/,,8
+FedEx,FDX,2022Q4,2022-11-30,분기말 종가,182.22,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/FDX?interval=1d&events=splits (2022-11-30),분할조정 종가 146.8332 × 이후 분할계수 1.241,8
+FedEx,FDX,2022Q4,2022-12-16,분기말 상장주식수,252397140,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/1048911/000095017022026825/,dei:EntityCommonStockSharesOutstanding 클래스 합,8
+FedEx,FDX,2022Q4,2022-11-30,분기말 시가총액,45991806851,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/FDX?interval=1d&events=splits (2022-11-30) ; https://www.sec.gov/Archives/edgar/data/1048911/000095017022026825/,종가 182.22 × 주식수 252397140,8
+FedEx,FDX,2023Q1,2023-02-28,분기별 매출액,22169000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1048911/000095017023008475/,,8
+FedEx,FDX,2023Q1,2023-02-28,분기별 영업이익,1042000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1048911/000095017023008475/,,8
+FedEx,FDX,2023Q1,2023-02-28,분기별 당기순이익(지배),771000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1048911/000095017023008475/,,8
+FedEx,FDX,2023Q1,2023-02-28,분기별 영업활동현금흐름,2276000000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/1048911/000095017023008475/ ; https://www.sec.gov/Archives/edgar/data/1048911/000095017022026825/,누적 5401000000 − 직전누적 3125000000 (시작 2022-06-01),8
+FedEx,FDX,2023Q1,2023-02-28,분기말 자산총계,85775000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1048911/000095017023008475/,,8
+FedEx,FDX,2023Q1,2023-02-28,분기말 부채총계,61042000000,USD,계산(부채및자본-총자본),https://www.sec.gov/Archives/edgar/data/1048911/000095017023008475/,부채및자본 85775000000 − 총자본 24733000000,8
+FedEx,FDX,2023Q1,2023-02-28,분기말 총자본(자기자본),24733000000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/1048911/000095017023008475/,"StockholdersEquity, MinorityInterest 태그 없음",8
+FedEx,FDX,2023Q1,2023-02-28,분기말 지배지분 자본,24733000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1048911/000095017023008475/,,8
+FedEx,FDX,2023Q1,2023-02-28,분기말 종가,203.22,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/FDX?interval=1d&events=splits (2023-02-28),분할조정 종가 163.755 × 이후 분할계수 1.241,8
+FedEx,FDX,2023Q1,2023-03-14,분기말 상장주식수,251351937,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/1048911/000095017023008475/,dei:EntityCommonStockSharesOutstanding 클래스 합,8
+FedEx,FDX,2023Q1,2023-02-28,분기말 시가총액,51079740637,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/FDX?interval=1d&events=splits (2023-02-28) ; https://www.sec.gov/Archives/edgar/data/1048911/000095017023008475/,종가 203.22 × 주식수 251351937,8
+FedEx,FDX,2023Q2,2023-05-31,분기별 매출액,21930000000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/1048911/000095017023033201/ ; https://www.sec.gov/Archives/edgar/data/1048911/000095017023008475/,연간 90155000000 − 9개월누적 68225000000 (RevenueFromContractWithCustomerExcludingAssessedTax),8
+FedEx,FDX,2023Q2,2023-05-31,분기별 영업이익,1503000000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/1048911/000095017023033201/ ; https://www.sec.gov/Archives/edgar/data/1048911/000095017023008475/,연간 4912000000 − 9개월누적 3409000000 (OperatingIncomeLoss),8
+FedEx,FDX,2023Q2,2023-05-31,분기별 당기순이익(지배),1538000000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/1048911/000095017023033201/ ; https://www.sec.gov/Archives/edgar/data/1048911/000095017023008475/,연간 3972000000 − 9개월누적 2434000000 (NetIncomeLoss),8
+FedEx,FDX,2023Q2,2023-05-31,분기별 영업활동현금흐름,3447000000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/1048911/000095017023033201/ ; https://www.sec.gov/Archives/edgar/data/1048911/000095017023008475/,누적 8848000000 − 직전누적 5401000000 (시작 2022-06-01),8
+FedEx,FDX,2023Q2,2023-05-31,분기말 자산총계,87143000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1048911/000095017023033201/,,8
+FedEx,FDX,2023Q2,2023-05-31,분기말 부채총계,61055000000,USD,계산(부채및자본-총자본),https://www.sec.gov/Archives/edgar/data/1048911/000095017023033201/,부채및자본 87143000000 − 총자본 26088000000,8
+FedEx,FDX,2023Q2,2023-05-31,분기말 총자본(자기자본),26088000000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/1048911/000095017023033201/,"StockholdersEquity, MinorityInterest 태그 없음",8
+FedEx,FDX,2023Q2,2023-05-31,분기말 지배지분 자본,26088000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1048911/000095017023033201/,,8
+FedEx,FDX,2023Q2,2023-05-31,분기말 종가,217.98,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/FDX?interval=1d&events=splits (2023-05-31),분할조정 종가 175.6487 × 이후 분할계수 1.241,8
+FedEx,FDX,2023Q2,2023-07-13,분기말 상장주식수,251187242,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/1048911/000095017023033201/,dei:EntityCommonStockSharesOutstanding 클래스 합,8
+FedEx,FDX,2023Q2,2023-05-31,분기말 시가총액,54753795011,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/FDX?interval=1d&events=splits (2023-05-31) ; https://www.sec.gov/Archives/edgar/data/1048911/000095017023033201/,종가 217.98 × 주식수 251187242,8
+FedEx,FDX,2023Q3,2023-08-31,분기별 매출액,21681000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1048911/000095017023048994/,,8
+FedEx,FDX,2023Q3,2023-08-31,분기별 영업이익,1485000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1048911/000095017023048994/,,8
+FedEx,FDX,2023Q3,2023-08-31,분기별 당기순이익(지배),1078000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1048911/000095017023048994/,,8
+FedEx,FDX,2023Q3,2023-08-31,분기별 영업활동현금흐름,2230000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1048911/000095017023048994/,,8
+FedEx,FDX,2023Q3,2023-08-31,분기말 자산총계,87576000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1048911/000095017023048994/,,8
+FedEx,FDX,2023Q3,2023-08-31,분기말 부채총계,61042000000,USD,계산(부채및자본-총자본),https://www.sec.gov/Archives/edgar/data/1048911/000095017023048994/,부채및자본 87576000000 − 총자본 26534000000,8
+FedEx,FDX,2023Q3,2023-08-31,분기말 총자본(자기자본),26534000000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/1048911/000095017023048994/,"StockholdersEquity, MinorityInterest 태그 없음",8
+FedEx,FDX,2023Q3,2023-08-31,분기말 지배지분 자본,26534000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1048911/000095017023048994/,,8
+FedEx,FDX,2023Q3,2023-08-31,분기말 종가,261.02,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/FDX?interval=1d&events=splits (2023-08-31),분할조정 종가 210.3304 × 이후 분할계수 1.241,8
+FedEx,FDX,2023Q3,2023-09-18,분기말 상장주식수,251420447,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/1048911/000095017023048994/,dei:EntityCommonStockSharesOutstanding 클래스 합,8
+FedEx,FDX,2023Q3,2023-08-31,분기말 시가총액,65625765076,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/FDX?interval=1d&events=splits (2023-08-31) ; https://www.sec.gov/Archives/edgar/data/1048911/000095017023048994/,종가 261.02 × 주식수 251420447,8
+FedEx,FDX,2023Q4,2023-11-30,분기별 매출액,22165000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1048911/000095017023071495/,,8
+FedEx,FDX,2023Q4,2023-11-30,분기별 영업이익,1276000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1048911/000095017023071495/,,8
+FedEx,FDX,2023Q4,2023-11-30,분기별 당기순이익(지배),900000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1048911/000095017023071495/,,8
+FedEx,FDX,2023Q4,2023-11-30,분기별 영업활동현금흐름,1774000000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/1048911/000095017023071495/ ; https://www.sec.gov/Archives/edgar/data/1048911/000095017023048994/,누적 4004000000 − 직전누적 2230000000 (시작 2023-06-01),8
+FedEx,FDX,2023Q4,2023-11-30,분기말 자산총계,88051000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1048911/000095017023071495/,,8
+FedEx,FDX,2023Q4,2023-11-30,분기말 부채총계,61285000000,USD,계산(부채및자본-총자본),https://www.sec.gov/Archives/edgar/data/1048911/000095017023071495/,부채및자본 88051000000 − 총자본 26766000000,8
+FedEx,FDX,2023Q4,2023-11-30,분기말 총자본(자기자본),26766000000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/1048911/000095017023071495/,"StockholdersEquity, MinorityInterest 태그 없음",8
+FedEx,FDX,2023Q4,2023-11-30,분기말 지배지분 자본,26766000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1048911/000095017023071495/,,8
+FedEx,FDX,2023Q4,2023-11-30,분기말 종가,258.83,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/FDX?interval=1d&events=splits (2023-11-30),분할조정 종가 208.5657 × 이후 분할계수 1.241,8
+FedEx,FDX,2023Q4,2023-12-18,분기말 상장주식수,249892548,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/1048911/000095017023071495/,dei:EntityCommonStockSharesOutstanding 클래스 합,8
+FedEx,FDX,2023Q4,2023-11-30,분기말 시가총액,64679688199,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/FDX?interval=1d&events=splits (2023-11-30) ; https://www.sec.gov/Archives/edgar/data/1048911/000095017023071495/,종가 258.83 × 주식수 249892548,8
+FedEx,FDX,2024Q1,2024-02-29,분기별 매출액,21738000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1048911/000095017024034709/,,8
+FedEx,FDX,2024Q1,2024-02-29,분기별 영업이익,1243000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1048911/000095017024034709/,,8
+FedEx,FDX,2024Q1,2024-02-29,분기별 당기순이익(지배),879000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1048911/000095017024034709/,,8
+FedEx,FDX,2024Q1,2024-02-29,분기별 영업활동현금흐름,1610000000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/1048911/000095017024034709/ ; https://www.sec.gov/Archives/edgar/data/1048911/000095017023071495/,누적 5614000000 − 직전누적 4004000000 (시작 2023-06-01),8
+FedEx,FDX,2024Q1,2024-02-29,분기말 자산총계,86114000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1048911/000095017024034709/,,8
+FedEx,FDX,2024Q1,2024-02-29,분기말 부채총계,59739000000,USD,계산(부채및자본-총자본),https://www.sec.gov/Archives/edgar/data/1048911/000095017024034709/,부채및자본 86114000000 − 총자본 26375000000,8
+FedEx,FDX,2024Q1,2024-02-29,분기말 총자본(자기자본),26375000000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/1048911/000095017024034709/,"StockholdersEquity, MinorityInterest 태그 없음",8
+FedEx,FDX,2024Q1,2024-02-29,분기말 지배지분 자본,26375000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1048911/000095017024034709/,,8
+FedEx,FDX,2024Q1,2024-02-29,분기말 종가,248.97,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/FDX?interval=1d&events=splits (2024-02-29),분할조정 종가 200.6205 × 이후 분할계수 1.241,8
+FedEx,FDX,2024Q1,2024-03-19,분기말 상장주식수,246080750,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/1048911/000095017024034709/,dei:EntityCommonStockSharesOutstanding 클래스 합,8
+FedEx,FDX,2024Q1,2024-02-29,분기말 시가총액,61266724328,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/FDX?interval=1d&events=splits (2024-02-29) ; https://www.sec.gov/Archives/edgar/data/1048911/000095017024034709/,종가 248.97 × 주식수 246080750,8
+FedEx,FDX,2024Q2,2024-05-31,분기별 매출액,22109000000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/1048911/000095017024083577/ ; https://www.sec.gov/Archives/edgar/data/1048911/000095017024034709/,연간 87693000000 − 9개월누적 65584000000 (RevenueFromContractWithCustomerExcludingAssessedTax),8
+FedEx,FDX,2024Q2,2024-05-31,분기별 영업이익,1555000000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/1048911/000095017024083577/ ; https://www.sec.gov/Archives/edgar/data/1048911/000095017024034709/,연간 5559000000 − 9개월누적 4004000000 (OperatingIncomeLoss),8
+FedEx,FDX,2024Q2,2024-05-31,분기별 당기순이익(지배),1474000000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/1048911/000095017024083577/ ; https://www.sec.gov/Archives/edgar/data/1048911/000095017024034709/,연간 4331000000 − 9개월누적 2857000000 (NetIncomeLoss),8
+FedEx,FDX,2024Q2,2024-05-31,분기별 영업활동현금흐름,2698000000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/1048911/000095017024083577/ ; https://www.sec.gov/Archives/edgar/data/1048911/000095017024034709/,누적 8312000000 − 직전누적 5614000000 (시작 2023-06-01),8
+FedEx,FDX,2024Q2,2024-05-31,분기말 자산총계,87007000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1048911/000095017024083577/,,8
+FedEx,FDX,2024Q2,2024-05-31,분기말 부채총계,59425000000,USD,계산(부채및자본-총자본),https://www.sec.gov/Archives/edgar/data/1048911/000095017024083577/,부채및자본 87007000000 − 총자본 27582000000,8
+FedEx,FDX,2024Q2,2024-05-31,분기말 총자본(자기자본),27582000000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/1048911/000095017024083577/,"StockholdersEquity, MinorityInterest 태그 없음",8
+FedEx,FDX,2024Q2,2024-05-31,분기말 지배지분 자본,27582000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1048911/000095017024083577/,,8
+FedEx,FDX,2024Q2,2024-05-31,분기말 종가,253.96,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/FDX?interval=1d&events=splits (2024-05-31),분할조정 종가 204.6414 × 이후 분할계수 1.241,8
+FedEx,FDX,2024Q2,2024-07-11,분기말 상장주식수,244302246,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/1048911/000095017024083577/,dei:EntityCommonStockSharesOutstanding 클래스 합,8
+FedEx,FDX,2024Q2,2024-05-31,분기말 시가총액,62042998394,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/FDX?interval=1d&events=splits (2024-05-31) ; https://www.sec.gov/Archives/edgar/data/1048911/000095017024083577/,종가 253.96 × 주식수 244302246,8
+FedEx,FDX,2024Q3,2024-08-31,분기별 매출액,21579000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1048911/000095017024108107/,,8
+FedEx,FDX,2024Q3,2024-08-31,분기별 영업이익,1080000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1048911/000095017024108107/,,8
+FedEx,FDX,2024Q3,2024-08-31,분기별 당기순이익(지배),794000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1048911/000095017024108107/,,8
+FedEx,FDX,2024Q3,2024-08-31,분기별 영업활동현금흐름,1187000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1048911/000095017024108107/,,8
+FedEx,FDX,2024Q3,2024-08-31,분기말 자산총계,86711000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1048911/000095017024108107/,,8
+FedEx,FDX,2024Q3,2024-08-31,분기말 부채총계,59535000000,USD,계산(부채및자본-총자본),https://www.sec.gov/Archives/edgar/data/1048911/000095017024108107/,부채및자본 86711000000 − 총자본 27176000000,8
+FedEx,FDX,2024Q3,2024-08-31,분기말 총자본(자기자본),27176000000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/1048911/000095017024108107/,"StockholdersEquity, MinorityInterest 태그 없음",8
+FedEx,FDX,2024Q3,2024-08-31,분기말 지배지분 자본,27176000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1048911/000095017024108107/,,8
+FedEx,FDX,2024Q3,2024-08-30,분기말 종가,298.77,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/FDX?interval=1d&events=splits (2024-08-30),분할조정 종가 240.7494 × 이후 분할계수 1.241,8
+FedEx,FDX,2024Q3,2024-09-17,분기말 상장주식수,244323464,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/1048911/000095017024108107/,dei:EntityCommonStockSharesOutstanding 클래스 합,8
+FedEx,FDX,2024Q3,2024-08-30,분기말 시가총액,72996521339,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/FDX?interval=1d&events=splits (2024-08-30) ; https://www.sec.gov/Archives/edgar/data/1048911/000095017024108107/,종가 298.77 × 주식수 244323464,8
+FedEx,FDX,2024Q4,2024-11-30,분기별 매출액,21967000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1048911/000095017024138460/,,8
+FedEx,FDX,2024Q4,2024-11-30,분기별 영업이익,1052000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1048911/000095017024138460/,,8
+FedEx,FDX,2024Q4,2024-11-30,분기별 당기순이익(지배),741000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1048911/000095017024138460/,,8
+FedEx,FDX,2024Q4,2024-11-30,분기별 영업활동현금흐름,1318000000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/1048911/000095017024138460/ ; https://www.sec.gov/Archives/edgar/data/1048911/000095017024108107/,누적 2505000000 − 직전누적 1187000000 (시작 2024-06-01),8
+FedEx,FDX,2024Q4,2024-11-30,분기말 자산총계,85481000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1048911/000095017024138460/,,8
+FedEx,FDX,2024Q4,2024-11-30,분기말 부채총계,59021000000,USD,계산(부채및자본-총자본),https://www.sec.gov/Archives/edgar/data/1048911/000095017024138460/,부채및자본 85481000000 − 총자본 26460000000,8
+FedEx,FDX,2024Q4,2024-11-30,분기말 총자본(자기자본),26460000000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/1048911/000095017024138460/,"StockholdersEquity, MinorityInterest 태그 없음",8
+FedEx,FDX,2024Q4,2024-11-30,분기말 지배지분 자본,26460000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1048911/000095017024138460/,,8
+FedEx,FDX,2024Q4,2024-11-29,분기말 종가,302.67,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/FDX?interval=1d&events=splits (2024-11-29),분할조정 종가 243.892 × 이후 분할계수 1.241,8
+FedEx,FDX,2024Q4,2024-12-17,분기말 상장주식수,240850603,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/1048911/000095017024138460/,dei:EntityCommonStockSharesOutstanding 클래스 합,8
+FedEx,FDX,2024Q4,2024-11-29,분기말 시가총액,72898252010,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/FDX?interval=1d&events=splits (2024-11-29) ; https://www.sec.gov/Archives/edgar/data/1048911/000095017024138460/,종가 302.67 × 주식수 240850603,8
+FedEx,FDX,2025Q1,2025-02-28,분기별 매출액,22160000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1048911/000095017025042672/,,8
+FedEx,FDX,2025Q1,2025-02-28,분기별 영업이익,1292000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1048911/000095017025042672/,,8
+FedEx,FDX,2025Q1,2025-02-28,분기별 당기순이익(지배),909000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1048911/000095017025042672/,,8
+FedEx,FDX,2025Q1,2025-02-28,분기별 영업활동현금흐름,2012000000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/1048911/000095017025042672/ ; https://www.sec.gov/Archives/edgar/data/1048911/000095017024138460/,누적 4517000000 − 직전누적 2505000000 (시작 2024-06-01),8
+FedEx,FDX,2025Q1,2025-02-28,분기말 자산총계,85043000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1048911/000095017025042672/,,8
+FedEx,FDX,2025Q1,2025-02-28,분기말 부채총계,58335000000,USD,계산(부채및자본-총자본),https://www.sec.gov/Archives/edgar/data/1048911/000095017025042672/,부채및자본 85043000000 − 총자본 26708000000,8
+FedEx,FDX,2025Q1,2025-02-28,분기말 총자본(자기자본),26708000000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/1048911/000095017025042672/,"StockholdersEquity, MinorityInterest 태그 없음",8
+FedEx,FDX,2025Q1,2025-02-28,분기말 지배지분 자본,26708000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1048911/000095017025042672/,,8
+FedEx,FDX,2025Q1,2025-02-28,분기말 종가,262.9,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/FDX?interval=1d&events=splits (2025-02-28),분할조정 종가 211.8453 × 이후 분할계수 1.241,8
+FedEx,FDX,2025Q1,2025-03-18,분기말 상장주식수,239598919,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/1048911/000095017025042672/,dei:EntityCommonStockSharesOutstanding 클래스 합,8
+FedEx,FDX,2025Q1,2025-02-28,분기말 시가총액,62990555805,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/FDX?interval=1d&events=splits (2025-02-28) ; https://www.sec.gov/Archives/edgar/data/1048911/000095017025042672/,종가 262.9 × 주식수 239598919,8
+FedEx,FDX,2025Q2,2025-05-31,분기별 매출액,22220000000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/1048911/000104891125000011/ ; https://www.sec.gov/Archives/edgar/data/1048911/000095017025042672/,연간 87926000000 − 9개월누적 65706000000 (RevenueFromContractWithCustomerExcludingAssessedTax),8
+FedEx,FDX,2025Q2,2025-05-31,분기별 영업이익,1793000000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/1048911/000104891125000011/ ; https://www.sec.gov/Archives/edgar/data/1048911/000095017025042672/,연간 5217000000 − 9개월누적 3424000000 (OperatingIncomeLoss),8
+FedEx,FDX,2025Q2,2025-05-31,분기별 당기순이익(지배),1648000000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/1048911/000104891125000011/ ; https://www.sec.gov/Archives/edgar/data/1048911/000095017025042672/,연간 4092000000 − 9개월누적 2444000000 (NetIncomeLoss),8
+FedEx,FDX,2025Q2,2025-05-31,분기별 영업활동현금흐름,2519000000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/1048911/000104891125000011/ ; https://www.sec.gov/Archives/edgar/data/1048911/000095017025042672/,누적 7036000000 − 직전누적 4517000000 (시작 2024-06-01),8
+FedEx,FDX,2025Q2,2025-05-31,분기말 자산총계,87627000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1048911/000104891125000011/,,8
+FedEx,FDX,2025Q2,2025-05-31,분기말 부채총계,59553000000,USD,계산(부채및자본-총자본),https://www.sec.gov/Archives/edgar/data/1048911/000104891125000011/,부채및자본 87627000000 − 총자본 28074000000,8
+FedEx,FDX,2025Q2,2025-05-31,분기말 총자본(자기자본),28074000000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/1048911/000104891125000011/,"StockholdersEquity, MinorityInterest 태그 없음",8
+FedEx,FDX,2025Q2,2025-05-31,분기말 지배지분 자본,28074000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1048911/000104891125000011/,,8
+FedEx,FDX,2025Q2,2025-05-30,분기말 종가,218.1,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/FDX?interval=1d&events=splits (2025-05-30),분할조정 종가 175.7454 × 이후 분할계수 1.241,8
+FedEx,FDX,2025Q2,2025-07-17,분기말 상장주식수,235899098,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/1048911/000104891125000011/,dei:EntityCommonStockSharesOutstanding 클래스 합,8
+FedEx,FDX,2025Q2,2025-05-30,분기말 시가총액,51449593274,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/FDX?interval=1d&events=splits (2025-05-30) ; https://www.sec.gov/Archives/edgar/data/1048911/000104891125000011/,종가 218.1 × 주식수 235899098,8
+FedEx,FDX,2025Q3,2025-08-31,분기별 매출액,22244000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1048911/000104891125000044/,,8
+FedEx,FDX,2025Q3,2025-08-31,분기별 영업이익,1186000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1048911/000104891125000044/,,8
+FedEx,FDX,2025Q3,2025-08-31,분기별 당기순이익(지배),824000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1048911/000104891125000044/,,8
+FedEx,FDX,2025Q3,2025-08-31,분기별 영업활동현금흐름,1716000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1048911/000104891125000044/,,8
+FedEx,FDX,2025Q3,2025-08-31,분기말 자산총계,88416000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1048911/000104891125000044/,,8
+FedEx,FDX,2025Q3,2025-08-31,분기말 부채총계,60645000000,USD,계산(부채및자본-총자본),https://www.sec.gov/Archives/edgar/data/1048911/000104891125000044/,부채및자본 88416000000 − 총자본 27771000000,8
+FedEx,FDX,2025Q3,2025-08-31,분기말 총자본(자기자본),27771000000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/1048911/000104891125000044/,"StockholdersEquity, MinorityInterest 태그 없음",8
+FedEx,FDX,2025Q3,2025-08-31,분기말 지배지분 자본,27771000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1048911/000104891125000044/,,8
+FedEx,FDX,2025Q3,2025-08-29,분기말 종가,231.07,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/FDX?interval=1d&events=splits (2025-08-29),분할조정 종가 186.1966 × 이후 분할계수 1.241,8
+FedEx,FDX,2025Q3,2025-09-16,분기말 상장주식수,235955461,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/1048911/000104891125000044/,dei:EntityCommonStockSharesOutstanding 클래스 합,8
+FedEx,FDX,2025Q3,2025-08-29,분기말 시가총액,54522228373,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/FDX?interval=1d&events=splits (2025-08-29) ; https://www.sec.gov/Archives/edgar/data/1048911/000104891125000044/,종가 231.07 × 주식수 235955461,8
+FedEx,FDX,2025Q4,2025-11-30,분기별 매출액,23469000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1048911/000104891125000078/,,8
+FedEx,FDX,2025Q4,2025-11-30,분기별 영업이익,1378000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1048911/000104891125000078/,,8
+FedEx,FDX,2025Q4,2025-11-30,분기별 당기순이익(지배),956000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1048911/000104891125000078/,,8
+FedEx,FDX,2025Q4,2025-11-30,분기별 영업활동현금흐름,1951000000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/1048911/000104891125000078/ ; https://www.sec.gov/Archives/edgar/data/1048911/000104891125000044/,누적 3667000000 − 직전누적 1716000000 (시작 2025-06-01),8
+FedEx,FDX,2025Q4,2025-11-30,분기말 자산총계,89181000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1048911/000104891125000078/,,8
+FedEx,FDX,2025Q4,2025-11-30,분기말 부채총계,61041000000,USD,계산(부채및자본-총자본),https://www.sec.gov/Archives/edgar/data/1048911/000104891125000078/,부채및자본 89181000000 − 총자본 28140000000,8
+FedEx,FDX,2025Q4,2025-11-30,분기말 총자본(자기자본),28140000000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/1048911/000104891125000078/,"StockholdersEquity, MinorityInterest 태그 없음",8
+FedEx,FDX,2025Q4,2025-11-30,분기말 지배지분 자본,28140000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1048911/000104891125000078/,,8
+FedEx,FDX,2025Q4,2025-11-28,분기말 종가,275.68,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/FDX?interval=1d&events=splits (2025-11-28),분할조정 종가 222.1434 × 이후 분할계수 1.241,8
+FedEx,FDX,2025Q4,2025-12-16,분기말 상장주식수,235122816,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/1048911/000104891125000078/,dei:EntityCommonStockSharesOutstanding 클래스 합,8
+FedEx,FDX,2025Q4,2025-11-28,분기말 시가총액,64818657915,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/FDX?interval=1d&events=splits (2025-11-28) ; https://www.sec.gov/Archives/edgar/data/1048911/000104891125000078/,종가 275.68 × 주식수 235122816,8
+FedEx,FDX,2026Q1,2026-02-28,분기별 매출액,24000000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1048911/000104891126000011/,,8
+FedEx,FDX,2026Q1,2026-02-28,분기별 영업이익,1348000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1048911/000104891126000011/,,8
+FedEx,FDX,2026Q1,2026-02-28,분기별 당기순이익(지배),1056000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1048911/000104891126000011/,,8
+FedEx,FDX,2026Q1,2026-02-28,분기별 영업활동현금흐름,1993000000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/1048911/000104891126000011/ ; https://www.sec.gov/Archives/edgar/data/1048911/000104891125000078/,누적 5660000000 − 직전누적 3667000000 (시작 2025-06-01),8
+FedEx,FDX,2026Q1,2026-02-28,분기말 자산총계,94733000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1048911/000104891126000011/,,8
+FedEx,FDX,2026Q1,2026-02-28,분기말 부채총계,64929000000,USD,계산(부채및자본-총자본),https://www.sec.gov/Archives/edgar/data/1048911/000104891126000011/,부채및자본 94733000000 − 총자본 29804000000,8
+FedEx,FDX,2026Q1,2026-02-28,분기말 총자본(자기자본),29804000000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/1048911/000104891126000011/,"StockholdersEquity, MinorityInterest 태그 없음",8
+FedEx,FDX,2026Q1,2026-02-28,분기말 지배지분 자본,29804000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1048911/000104891126000011/,,8
+FedEx,FDX,2026Q1,2026-02-27,분기말 종가,387.0,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/FDX?interval=1d&events=splits (2026-02-27),분할조정 종가 311.8453 × 이후 분할계수 1.241,8
+FedEx,FDX,2026Q1,2026-03-17,분기말 상장주식수,238606756,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/1048911/000104891126000011/,dei:EntityCommonStockSharesOutstanding 클래스 합,8
+FedEx,FDX,2026Q1,2026-02-27,분기말 시가총액,92340814572,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/FDX?interval=1d&events=splits (2026-02-27) ; https://www.sec.gov/Archives/edgar/data/1048911/000104891126000011/,종가 387.0 × 주식수 238606756,8
+FedEx,FDX,2026Q2,2026-05-31,분기별 매출액,25007000000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/1048911/000104891126000105/ ; https://www.sec.gov/Archives/edgar/data/1048911/000104891126000011/,연간 94720000000 − 9개월누적 69713000000 (RevenueFromContractWithCustomerExcludingAssessedTax),8
+FedEx,FDX,2026Q2,2026-05-31,분기별 영업이익,1551000000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/1048911/000104891126000105/ ; https://www.sec.gov/Archives/edgar/data/1048911/000104891126000011/,연간 5463000000 − 9개월누적 3912000000 (OperatingIncomeLoss),8
+FedEx,FDX,2026Q2,2026-05-31,분기별 당기순이익(지배),1597000000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/1048911/000104891126000105/ ; https://www.sec.gov/Archives/edgar/data/1048911/000104891126000011/,연간 4433000000 − 9개월누적 2836000000 (NetIncomeLoss),8
+FedEx,FDX,2026Q2,2026-05-31,분기별 영업활동현금흐름,3265000000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/1048911/000104891126000105/ ; https://www.sec.gov/Archives/edgar/data/1048911/000104891126000011/,누적 8925000000 − 직전누적 5660000000 (시작 2025-06-01),8
+FedEx,FDX,2026Q2,2026-05-31,분기말 자산총계,98937000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1048911/000104891126000105/,,8
+FedEx,FDX,2026Q2,2026-05-31,분기말 부채총계,67290000000,USD,계산(부채및자본-총자본),https://www.sec.gov/Archives/edgar/data/1048911/000104891126000105/,부채및자본 98937000000 − 총자본 31647000000,8
+FedEx,FDX,2026Q2,2026-05-31,분기말 총자본(자기자본),31647000000,USD,공시(비지배 없음),https://www.sec.gov/Archives/edgar/data/1048911/000104891126000105/,"StockholdersEquity, MinorityInterest 태그 없음",8
+FedEx,FDX,2026Q2,2026-05-31,분기말 지배지분 자본,31647000000,USD,공시,https://www.sec.gov/Archives/edgar/data/1048911/000104891126000105/,,8
+FedEx,FDX,2026Q2,2026-05-29,분기말 종가,411.75,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/FDX?interval=1d&events=splits (2026-05-29),분할조정 종가 331.7889 × 이후 분할계수 1.241,8
+FedEx,FDX,2026Q2,2026-07-16,분기말 상장주식수,236581188,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/1048911/000104891126000105/,dei:EntityCommonStockSharesOutstanding 클래스 합; 표지 기준일이 분할 후,8
+FedEx,FDX,2026Q2,2026-05-29,분기말 시가총액,78495007380,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/FDX?interval=1d&events=splits (2026-05-29) ; https://www.sec.gov/Archives/edgar/data/1048911/000104891126000105/,종가 411.75 × 주식수 236581188 ÷ 분할비율 1.241 (분할일 2026-06-01가 거래일 2026-05-29와 표지 기준일 2026-07-16 사이),8

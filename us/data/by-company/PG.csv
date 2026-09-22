@@ -1,0 +1,727 @@
+﻿기업,종목코드,기간,기준일,항목,값,통화,값구분,출처,검산,라운드
+Procter & Gamble,PG,2010Q1,2010-03-31,분기별 매출액,19178000000,USD,공시,https://www.sec.gov/Archives/edgar/data/80424/000119312510101892/,,3
+Procter & Gamble,PG,2010Q1,2010-03-31,분기별 영업이익,3968000000,USD,공시,https://www.sec.gov/Archives/edgar/data/80424/000119312510101892/,,3
+Procter & Gamble,PG,2010Q1,2010-03-31,분기별 당기순이익(지배),2585000000,USD,공시,https://www.sec.gov/Archives/edgar/data/80424/000119312510101892/,,3
+Procter & Gamble,PG,2010Q1,2010-03-31,분기별 영업활동현금흐름,4910000000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/80424/000119312510101892/ ; https://www.sec.gov/Archives/edgar/data/80424/000119312510014865/,누적 12759000000 − 직전누적 7849000000 (시작 2009-07-01),3
+Procter & Gamble,PG,2010Q1,2010-03-31,분기말 자산총계,132986000000,USD,공시,https://www.sec.gov/Archives/edgar/data/80424/000119312510101892/,,3
+Procter & Gamble,PG,2010Q1,2010-03-31,분기말 부채총계,66213000000,USD,공시,https://www.sec.gov/Archives/edgar/data/80424/000119312510101892/,,3
+Procter & Gamble,PG,2010Q1,2010-03-31,분기말 총자본(자기자본),66773000000,USD,공시,https://www.sec.gov/Archives/edgar/data/80424/000119312510101892/,,3
+Procter & Gamble,PG,2010Q1,2010-03-31,분기말 지배지분 자본,66430000000,USD,계산(총자본-비지배),https://www.sec.gov/Archives/edgar/data/80424/000119312510101892/,총자본 66773000000 − 비지배 343000000,3
+Procter & Gamble,PG,2010Q1,2010-03-31,분기말 종가,63.27,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/PG?interval=1d&events=splits (2010-03-31),,3
+Procter & Gamble,PG,2010Q1,2010-03-31,분기말 상장주식수,2879904226,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/80424/000119312510101892/,dei:EntityCommonStockSharesOutstanding 클래스 합,3
+Procter & Gamble,PG,2010Q1,2010-03-31,분기말 시가총액,182211540379,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/PG?interval=1d&events=splits (2010-03-31) ; https://www.sec.gov/Archives/edgar/data/80424/000119312510101892/,종가 63.27 × 주식수 2879904226,3
+Procter & Gamble,PG,2010Q2,2010-06-30,분기별 매출액,18926000000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/80424/000119312510188769/ ; https://www.sec.gov/Archives/edgar/data/80424/000119312510101892/,연간 78938000000 − 9개월누적 60012000000 (SalesRevenueNet),3
+Procter & Gamble,PG,2010Q2,2010-06-30,분기별 영업이익,2950000000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/80424/000119312510188769/ ; https://www.sec.gov/Archives/edgar/data/80424/000119312510101892/,연간 16021000000 − 9개월누적 13071000000 (OperatingIncomeLoss),3
+Procter & Gamble,PG,2010Q2,2010-06-30,분기별 당기순이익(지배),2185000000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/80424/000119312510188769/ ; https://www.sec.gov/Archives/edgar/data/80424/000119312510101892/,연간 12736000000 − 9개월누적 10551000000 (NetIncomeLoss),3
+Procter & Gamble,PG,2010Q2,2010-06-30,분기별 영업활동현금흐름,3313000000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/80424/000119312510188769/ ; https://www.sec.gov/Archives/edgar/data/80424/000119312510101892/,누적 16072000000 − 직전누적 12759000000 (시작 2009-07-01),3
+Procter & Gamble,PG,2010Q2,2010-06-30,분기말 자산총계,128172000000,USD,공시,https://www.sec.gov/Archives/edgar/data/80424/000119312510188769/,,3
+Procter & Gamble,PG,2010Q2,2010-06-30,분기말 부채총계,66733000000,USD,공시,https://www.sec.gov/Archives/edgar/data/80424/000119312510188769/,,3
+Procter & Gamble,PG,2010Q2,2010-06-30,분기말 총자본(자기자본),61439000000,USD,공시,https://www.sec.gov/Archives/edgar/data/80424/000119312510188769/,,3
+Procter & Gamble,PG,2010Q2,2010-06-30,분기말 지배지분 자본,61115000000,USD,계산(총자본-비지배),https://www.sec.gov/Archives/edgar/data/80424/000119312510188769/,총자본 61439000000 − 비지배 324000000,3
+Procter & Gamble,PG,2010Q2,2010-06-30,분기말 종가,59.98,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/PG?interval=1d&events=splits (2010-06-30),,3
+Procter & Gamble,PG,2010Q2,2010-07-31,분기말 상장주식수,2838474868,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/80424/000119312510188769/,dei:EntityCommonStockSharesOutstanding 클래스 합,3
+Procter & Gamble,PG,2010Q2,2010-06-30,분기말 시가총액,170251722583,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/PG?interval=1d&events=splits (2010-06-30) ; https://www.sec.gov/Archives/edgar/data/80424/000119312510188769/,종가 59.98 × 주식수 2838474868,3
+Procter & Gamble,PG,2010Q3,2010-09-30,분기별 매출액,20122000000,USD,공시,https://www.sec.gov/Archives/edgar/data/80424/000119312510238937/,,3
+Procter & Gamble,PG,2010Q3,2010-09-30,분기별 영업이익,4501000000,USD,공시,https://www.sec.gov/Archives/edgar/data/80424/000119312510238937/,,3
+Procter & Gamble,PG,2010Q3,2010-09-30,분기별 당기순이익(지배),3081000000,USD,공시,https://www.sec.gov/Archives/edgar/data/80424/000119312510238937/,,3
+Procter & Gamble,PG,2010Q3,2010-09-30,분기별 영업활동현금흐름,2452000000,USD,공시,https://www.sec.gov/Archives/edgar/data/80424/000119312510238937/,,3
+Procter & Gamble,PG,2010Q3,2010-09-30,분기말 자산총계,133692000000,USD,공시,https://www.sec.gov/Archives/edgar/data/80424/000119312510238937/,,3
+Procter & Gamble,PG,2010Q3,2010-09-30,분기말 부채총계,70491000000,USD,공시,https://www.sec.gov/Archives/edgar/data/80424/000119312510238937/,,3
+Procter & Gamble,PG,2010Q3,2010-09-30,분기말 총자본(자기자본),63201000000,USD,공시,https://www.sec.gov/Archives/edgar/data/80424/000119312510238937/,,3
+Procter & Gamble,PG,2010Q3,2010-09-30,분기말 지배지분 자본,62855000000,USD,계산(총자본-비지배),https://www.sec.gov/Archives/edgar/data/80424/000119312510238937/,총자본 63201000000 − 비지배 346000000,3
+Procter & Gamble,PG,2010Q3,2010-09-30,분기말 종가,59.97,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/PG?interval=1d&events=splits (2010-09-30),,3
+Procter & Gamble,PG,2010Q3,2010-09-30,분기말 상장주식수,2799193095,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/80424/000119312510238937/,dei:EntityCommonStockSharesOutstanding 클래스 합,3
+Procter & Gamble,PG,2010Q3,2010-09-30,분기말 시가총액,167867609907,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/PG?interval=1d&events=splits (2010-09-30) ; https://www.sec.gov/Archives/edgar/data/80424/000119312510238937/,종가 59.97 × 주식수 2799193095,3
+Procter & Gamble,PG,2010Q4,2010-12-31,분기별 매출액,21347000000,USD,공시,https://www.sec.gov/Archives/edgar/data/80424/000119312511017328/,,3
+Procter & Gamble,PG,2010Q4,2010-12-31,분기별 영업이익,4260000000,USD,공시,https://www.sec.gov/Archives/edgar/data/80424/000119312511017328/,,3
+Procter & Gamble,PG,2010Q4,2010-12-31,분기별 당기순이익(지배),3333000000,USD,공시,https://www.sec.gov/Archives/edgar/data/80424/000119312511017328/,,3
+Procter & Gamble,PG,2010Q4,2010-12-31,분기별 영업활동현금흐름,2924000000,USD,계산(누적차감)(재작성 반영),https://www.sec.gov/Archives/edgar/data/80424/000008042412000015/ ; https://www.sec.gov/Archives/edgar/data/80424/000119312510238937/,누적 5376000000 − 직전누적 2452000000 (시작 2010-07-01) ; 원 공시 2877000000 (https://www.sec.gov/Archives/edgar/data/80424/000119312511017328/ ; https://www.sec.gov/Archives/edgar/data/80424/000119312510238937/),3
+Procter & Gamble,PG,2010Q4,2010-12-31,분기말 자산총계,134273000000,USD,공시,https://www.sec.gov/Archives/edgar/data/80424/000119312511017328/,,3
+Procter & Gamble,PG,2010Q4,2010-12-31,분기말 부채총계,69560000000,USD,공시,https://www.sec.gov/Archives/edgar/data/80424/000119312511017328/,,3
+Procter & Gamble,PG,2010Q4,2010-12-31,분기말 총자본(자기자본),64713000000,USD,공시,https://www.sec.gov/Archives/edgar/data/80424/000119312511017328/,,3
+Procter & Gamble,PG,2010Q4,2010-12-31,분기말 지배지분 자본,64364000000,USD,계산(총자본-비지배),https://www.sec.gov/Archives/edgar/data/80424/000119312511017328/,총자본 64713000000 − 비지배 349000000,3
+Procter & Gamble,PG,2010Q4,2010-12-31,분기말 종가,64.33,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/PG?interval=1d&events=splits (2010-12-31),,3
+Procter & Gamble,PG,2010Q4,2010-12-31,분기말 상장주식수,2800783600,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/80424/000119312511017328/,dei:EntityCommonStockSharesOutstanding 클래스 합,3
+Procter & Gamble,PG,2010Q4,2010-12-31,분기말 시가총액,180174408988,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/PG?interval=1d&events=splits (2010-12-31) ; https://www.sec.gov/Archives/edgar/data/80424/000119312511017328/,종가 64.33 × 주식수 2800783600,3
+Procter & Gamble,PG,2011Q1,2011-03-31,분기별 매출액,20230000000,USD,공시,https://www.sec.gov/Archives/edgar/data/80424/000119312511116981/,,3
+Procter & Gamble,PG,2011Q1,2011-03-31,분기별 영업이익,3772000000,USD,공시,https://www.sec.gov/Archives/edgar/data/80424/000119312511116981/,,3
+Procter & Gamble,PG,2011Q1,2011-03-31,분기별 당기순이익(지배),2873000000,USD,공시,https://www.sec.gov/Archives/edgar/data/80424/000119312511116981/,,3
+Procter & Gamble,PG,2011Q1,2011-03-31,분기별 영업활동현금흐름,4009000000,USD,계산(누적차감)(재작성 반영),https://www.sec.gov/Archives/edgar/data/80424/000119312511116981/ ; https://www.sec.gov/Archives/edgar/data/80424/000008042412000015/,누적 9385000000 − 직전누적 5376000000 (시작 2010-07-01) ; 원 공시 4056000000 (https://www.sec.gov/Archives/edgar/data/80424/000119312511116981/ ; https://www.sec.gov/Archives/edgar/data/80424/000119312511017328/),3
+Procter & Gamble,PG,2011Q1,2011-03-31,분기말 자산총계,136538000000,USD,공시,https://www.sec.gov/Archives/edgar/data/80424/000119312511116981/,,3
+Procter & Gamble,PG,2011Q1,2011-03-31,분기말 부채총계,69106000000,USD,공시,https://www.sec.gov/Archives/edgar/data/80424/000119312511116981/,,3
+Procter & Gamble,PG,2011Q1,2011-03-31,분기말 총자본(자기자본),67432000000,USD,공시,https://www.sec.gov/Archives/edgar/data/80424/000119312511116981/,,3
+Procter & Gamble,PG,2011Q1,2011-03-31,분기말 지배지분 자본,67069000000,USD,계산(총자본-비지배),https://www.sec.gov/Archives/edgar/data/80424/000119312511116981/,총자본 67432000000 − 비지배 363000000,3
+Procter & Gamble,PG,2011Q1,2011-03-31,분기말 종가,61.6,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/PG?interval=1d&events=splits (2011-03-31),,3
+Procter & Gamble,PG,2011Q1,2011-03-31,분기말 상장주식수,2791293888,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/80424/000119312511116981/,dei:EntityCommonStockSharesOutstanding 클래스 합,3
+Procter & Gamble,PG,2011Q1,2011-03-31,분기말 시가총액,171943703501,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/PG?interval=1d&events=splits (2011-03-31) ; https://www.sec.gov/Archives/edgar/data/80424/000119312511116981/,종가 61.6 × 주식수 2791293888,3
+Procter & Gamble,PG,2011Q2,2011-06-30,분기별 매출액,20860000000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/80424/000008042411000014/ ; https://www.sec.gov/Archives/edgar/data/80424/000119312511116981/,연간 82559000000 − 9개월누적 61699000000 (SalesRevenueNet),3
+Procter & Gamble,PG,2011Q2,2011-06-30,분기별 영업이익,3285000000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/80424/000008042411000014/ ; https://www.sec.gov/Archives/edgar/data/80424/000119312511116981/,연간 15818000000 − 9개월누적 12533000000 (OperatingIncomeLoss),3
+Procter & Gamble,PG,2011Q2,2011-06-30,분기별 당기순이익(지배),2510000000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/80424/000008042411000014/ ; https://www.sec.gov/Archives/edgar/data/80424/000119312511116981/,연간 11797000000 − 9개월누적 9287000000 (NetIncomeLoss),3
+Procter & Gamble,PG,2011Q2,2011-06-30,분기별 영업활동현금흐름,3846000000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/80424/000008042411000014/ ; https://www.sec.gov/Archives/edgar/data/80424/000119312511116981/,누적 13231000000 − 직전누적 9385000000 (시작 2010-07-01),3
+Procter & Gamble,PG,2011Q2,2011-06-30,분기말 자산총계,138354000000,USD,공시,https://www.sec.gov/Archives/edgar/data/80424/000008042411000014/,,3
+Procter & Gamble,PG,2011Q2,2011-06-30,분기말 부채총계,70353000000,USD,공시,https://www.sec.gov/Archives/edgar/data/80424/000008042411000014/,,3
+Procter & Gamble,PG,2011Q2,2011-06-30,분기말 총자본(자기자본),68001000000,USD,공시,https://www.sec.gov/Archives/edgar/data/80424/000008042411000014/,,3
+Procter & Gamble,PG,2011Q2,2011-06-30,분기말 지배지분 자본,67640000000,USD,계산(총자본-비지배),https://www.sec.gov/Archives/edgar/data/80424/000008042411000014/,총자본 68001000000 − 비지배 361000000,3
+Procter & Gamble,PG,2011Q2,2011-06-30,분기말 종가,63.57,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/PG?interval=1d&events=splits (2011-06-30),,3
+Procter & Gamble,PG,2011Q2,2011-07-31,분기말 상장주식수,2747768202,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/80424/000008042411000014/,dei:EntityCommonStockSharesOutstanding 클래스 합,3
+Procter & Gamble,PG,2011Q2,2011-06-30,분기말 시가총액,174675624601,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/PG?interval=1d&events=splits (2011-06-30) ; https://www.sec.gov/Archives/edgar/data/80424/000008042411000014/,종가 63.57 × 주식수 2747768202,3
+Procter & Gamble,PG,2011Q3,2011-09-30,분기별 매출액,21917000000,USD,공시,https://www.sec.gov/Archives/edgar/data/80424/000008042411000043/,,3
+Procter & Gamble,PG,2011Q3,2011-09-30,분기별 영업이익,4334000000,USD,공시,https://www.sec.gov/Archives/edgar/data/80424/000008042411000043/,,3
+Procter & Gamble,PG,2011Q3,2011-09-30,분기별 당기순이익(지배),3024000000,USD,공시,https://www.sec.gov/Archives/edgar/data/80424/000008042411000043/,,3
+Procter & Gamble,PG,2011Q3,2011-09-30,분기별 영업활동현금흐름,2167000000,USD,공시,https://www.sec.gov/Archives/edgar/data/80424/000008042411000043/,,3
+Procter & Gamble,PG,2011Q3,2011-09-30,분기말 자산총계,136617000000,USD,공시,https://www.sec.gov/Archives/edgar/data/80424/000008042411000043/,,3
+Procter & Gamble,PG,2011Q3,2011-09-30,분기말 부채총계,70983000000,USD,공시,https://www.sec.gov/Archives/edgar/data/80424/000008042411000043/,,3
+Procter & Gamble,PG,2011Q3,2011-09-30,분기말 총자본(자기자본),65634000000,USD,공시,https://www.sec.gov/Archives/edgar/data/80424/000008042411000043/,,3
+Procter & Gamble,PG,2011Q3,2011-09-30,분기말 지배지분 자본,65244000000,USD,계산(총자본-비지배),https://www.sec.gov/Archives/edgar/data/80424/000008042411000043/,총자본 65634000000 − 비지배 390000000,3
+Procter & Gamble,PG,2011Q3,2011-09-30,분기말 종가,63.18,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/PG?interval=1d&events=splits (2011-09-30),,3
+Procter & Gamble,PG,2011Q3,2011-09-30,분기말 상장주식수,2751320136,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/80424/000008042411000043/,dei:EntityCommonStockSharesOutstanding 클래스 합,3
+Procter & Gamble,PG,2011Q3,2011-09-30,분기말 시가총액,173828406192,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/PG?interval=1d&events=splits (2011-09-30) ; https://www.sec.gov/Archives/edgar/data/80424/000008042411000043/,종가 63.18 × 주식수 2751320136,3
+Procter & Gamble,PG,2011Q4,2011-12-31,분기별 매출액,22135000000,USD,공시,https://www.sec.gov/Archives/edgar/data/80424/000008042412000015/,,3
+Procter & Gamble,PG,2011Q4,2011-12-31,분기별 영업이익,2739000000,USD,공시,https://www.sec.gov/Archives/edgar/data/80424/000008042412000015/,,3
+Procter & Gamble,PG,2011Q4,2011-12-31,분기별 당기순이익(지배),1690000000,USD,공시,https://www.sec.gov/Archives/edgar/data/80424/000008042412000015/,,3
+Procter & Gamble,PG,2011Q4,2011-12-31,분기별 영업활동현금흐름,3328000000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/80424/000008042412000015/ ; https://www.sec.gov/Archives/edgar/data/80424/000008042411000043/,누적 5495000000 − 직전누적 2167000000 (시작 2011-07-01),3
+Procter & Gamble,PG,2011Q4,2011-12-31,분기말 자산총계,134311000000,USD,공시,https://www.sec.gov/Archives/edgar/data/80424/000008042412000015/,,3
+Procter & Gamble,PG,2011Q4,2011-12-31,분기말 부채총계,69411000000,USD,공시,https://www.sec.gov/Archives/edgar/data/80424/000008042412000015/,,3
+Procter & Gamble,PG,2011Q4,2011-12-31,분기말 총자본(자기자본),64900000000,USD,공시,https://www.sec.gov/Archives/edgar/data/80424/000008042412000015/,,3
+Procter & Gamble,PG,2011Q4,2011-12-31,분기말 지배지분 자본,64297000000,USD,계산(총자본-비지배),https://www.sec.gov/Archives/edgar/data/80424/000008042412000015/,총자본 64900000000 − 비지배 603000000,3
+Procter & Gamble,PG,2011Q4,2011-12-30,분기말 종가,66.71,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/PG?interval=1d&events=splits (2011-12-30),,3
+Procter & Gamble,PG,2011Q4,2011-12-31,분기말 상장주식수,2754399314,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/80424/000008042412000015/,dei:EntityCommonStockSharesOutstanding 클래스 합,3
+Procter & Gamble,PG,2011Q4,2011-12-30,분기말 시가총액,183745978237,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/PG?interval=1d&events=splits (2011-12-30) ; https://www.sec.gov/Archives/edgar/data/80424/000008042412000015/,종가 66.71 × 주식수 2754399314,3
+Procter & Gamble,PG,2012Q1,2012-03-31,분기별 매출액,20194000000,USD,공시,https://www.sec.gov/Archives/edgar/data/80424/000008042412000040/,,3
+Procter & Gamble,PG,2012Q1,2012-03-31,분기별 영업이익,3299000000,USD,공시,https://www.sec.gov/Archives/edgar/data/80424/000008042412000040/,,3
+Procter & Gamble,PG,2012Q1,2012-03-31,분기별 당기순이익(지배),2411000000,USD,공시,https://www.sec.gov/Archives/edgar/data/80424/000008042412000040/,,3
+Procter & Gamble,PG,2012Q1,2012-03-31,분기별 영업활동현금흐름,3816000000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/80424/000008042412000040/ ; https://www.sec.gov/Archives/edgar/data/80424/000008042412000015/,누적 9311000000 − 직전누적 5495000000 (시작 2011-07-01),3
+Procter & Gamble,PG,2012Q1,2012-03-31,분기말 자산총계,134605000000,USD,공시,https://www.sec.gov/Archives/edgar/data/80424/000008042412000040/,,3
+Procter & Gamble,PG,2012Q1,2012-03-31,분기말 부채총계,68696000000,USD,공시,https://www.sec.gov/Archives/edgar/data/80424/000008042412000040/,,3
+Procter & Gamble,PG,2012Q1,2012-03-31,분기말 총자본(자기자본),65909000000,USD,공시,https://www.sec.gov/Archives/edgar/data/80424/000008042412000040/,,3
+Procter & Gamble,PG,2012Q1,2012-03-31,분기말 지배지분 자본,65265000000,USD,계산(총자본-비지배),https://www.sec.gov/Archives/edgar/data/80424/000008042412000040/,총자본 65909000000 − 비지배 644000000,3
+Procter & Gamble,PG,2012Q1,2012-03-30,분기말 종가,67.21,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/PG?interval=1d&events=splits (2012-03-30),,3
+Procter & Gamble,PG,2012Q1,2012-03-31,분기말 상장주식수,2740105964,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/80424/000008042412000040/,dei:EntityCommonStockSharesOutstanding 클래스 합,3
+Procter & Gamble,PG,2012Q1,2012-03-30,분기말 시가총액,184162521840,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/PG?interval=1d&events=splits (2012-03-30) ; https://www.sec.gov/Archives/edgar/data/80424/000008042412000040/,종가 67.21 × 주식수 2740105964,3
+Procter & Gamble,PG,2012Q2,2012-06-30,분기별 매출액,20212000000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/80424/000008042412000063/ ; https://www.sec.gov/Archives/edgar/data/80424/000008042412000040/,연간 83680000000 − 9개월누적 63468000000 (SalesRevenueNet),3
+Procter & Gamble,PG,2012Q2,2012-06-30,분기별 영업이익,3063000000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/80424/000008042412000063/ ; https://www.sec.gov/Archives/edgar/data/80424/000008042412000040/,연간 13292000000 − 9개월누적 10229000000 (OperatingIncomeLoss),3
+Procter & Gamble,PG,2012Q2,2012-06-30,분기별 당기순이익(지배),3631000000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/80424/000008042412000063/ ; https://www.sec.gov/Archives/edgar/data/80424/000008042412000040/,연간 10756000000 − 9개월누적 7125000000 (NetIncomeLoss),3
+Procter & Gamble,PG,2012Q2,2012-06-30,분기별 영업활동현금흐름,3973000000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/80424/000008042412000063/ ; https://www.sec.gov/Archives/edgar/data/80424/000008042412000040/,누적 13284000000 − 직전누적 9311000000 (시작 2011-07-01),3
+Procter & Gamble,PG,2012Q2,2012-06-30,분기말 자산총계,132244000000,USD,공시,https://www.sec.gov/Archives/edgar/data/80424/000008042412000063/,,3
+Procter & Gamble,PG,2012Q2,2012-06-30,분기말 부채총계,68209000000,USD,공시,https://www.sec.gov/Archives/edgar/data/80424/000008042412000063/,,3
+Procter & Gamble,PG,2012Q2,2012-06-30,분기말 총자본(자기자본),64035000000,USD,공시,https://www.sec.gov/Archives/edgar/data/80424/000008042412000063/,,3
+Procter & Gamble,PG,2012Q2,2012-06-30,분기말 지배지분 자본,63439000000,USD,계산(총자본-비지배),https://www.sec.gov/Archives/edgar/data/80424/000008042412000063/,총자본 64035000000 − 비지배 596000000,3
+Procter & Gamble,PG,2012Q2,2012-06-29,분기말 종가,61.25,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/PG?interval=1d&events=splits (2012-06-29),,3
+Procter & Gamble,PG,2012Q2,2012-07-31,분기말 상장주식수,2754274536,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/80424/000008042412000063/,dei:EntityCommonStockSharesOutstanding 클래스 합,3
+Procter & Gamble,PG,2012Q2,2012-06-29,분기말 시가총액,168699315330,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/PG?interval=1d&events=splits (2012-06-29) ; https://www.sec.gov/Archives/edgar/data/80424/000008042412000063/,종가 61.25 × 주식수 2754274536,3
+Procter & Gamble,PG,2012Q3,2012-09-30,분기별 매출액,20739000000,USD,공시,https://www.sec.gov/Archives/edgar/data/80424/000008042412000092/,,3
+Procter & Gamble,PG,2012Q3,2012-09-30,분기별 영업이익,3951000000,USD,공시,https://www.sec.gov/Archives/edgar/data/80424/000008042412000092/,,3
+Procter & Gamble,PG,2012Q3,2012-09-30,분기별 당기순이익(지배),2814000000,USD,공시,https://www.sec.gov/Archives/edgar/data/80424/000008042412000092/,,3
+Procter & Gamble,PG,2012Q3,2012-09-30,분기별 영업활동현금흐름,2770000000,USD,공시,https://www.sec.gov/Archives/edgar/data/80424/000008042412000092/,,3
+Procter & Gamble,PG,2012Q3,2012-09-30,분기말 자산총계,135888000000,USD,공시,https://www.sec.gov/Archives/edgar/data/80424/000008042412000092/,,3
+Procter & Gamble,PG,2012Q3,2012-09-30,분기말 부채총계,70940000000,USD,공시,https://www.sec.gov/Archives/edgar/data/80424/000008042412000092/,,3
+Procter & Gamble,PG,2012Q3,2012-09-30,분기말 총자본(자기자본),64948000000,USD,공시,https://www.sec.gov/Archives/edgar/data/80424/000008042412000092/,,3
+Procter & Gamble,PG,2012Q3,2012-09-30,분기말 지배지분 자본,64299000000,USD,계산(총자본-비지배),https://www.sec.gov/Archives/edgar/data/80424/000008042412000092/,총자본 64948000000 − 비지배 649000000,3
+Procter & Gamble,PG,2012Q3,2012-09-28,분기말 종가,69.36,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/PG?interval=1d&events=splits (2012-09-28),,3
+Procter & Gamble,PG,2012Q3,2012-09-30,분기말 상장주식수,2734230540,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/80424/000008042412000092/,dei:EntityCommonStockSharesOutstanding 클래스 합,3
+Procter & Gamble,PG,2012Q3,2012-09-28,분기말 시가총액,189646230254,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/PG?interval=1d&events=splits (2012-09-28) ; https://www.sec.gov/Archives/edgar/data/80424/000008042412000092/,종가 69.36 × 주식수 2734230540,3
+Procter & Gamble,PG,2012Q4,2012-12-31,분기별 매출액,22175000000,USD,공시,https://www.sec.gov/Archives/edgar/data/80424/000008042413000012/,,3
+Procter & Gamble,PG,2012Q4,2012-12-31,분기별 영업이익,4492000000,USD,공시,https://www.sec.gov/Archives/edgar/data/80424/000008042413000012/,,3
+Procter & Gamble,PG,2012Q4,2012-12-31,분기별 당기순이익(지배),4057000000,USD,공시,https://www.sec.gov/Archives/edgar/data/80424/000008042413000012/,,3
+Procter & Gamble,PG,2012Q4,2012-12-31,분기별 영업활동현금흐름,3849000000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/80424/000008042413000012/ ; https://www.sec.gov/Archives/edgar/data/80424/000008042412000092/,누적 6619000000 − 직전누적 2770000000 (시작 2012-07-01),3
+Procter & Gamble,PG,2012Q4,2012-12-31,분기말 자산총계,139903000000,USD,공시,https://www.sec.gov/Archives/edgar/data/80424/000008042413000012/,,3
+Procter & Gamble,PG,2012Q4,2012-12-31,분기말 부채총계,72580000000,USD,공시,https://www.sec.gov/Archives/edgar/data/80424/000008042413000012/,,3
+Procter & Gamble,PG,2012Q4,2012-12-31,분기말 총자본(자기자본),67323000000,USD,공시,https://www.sec.gov/Archives/edgar/data/80424/000008042413000012/,,3
+Procter & Gamble,PG,2012Q4,2012-12-31,분기말 지배지분 자본,66681000000,USD,계산(총자본-비지배),https://www.sec.gov/Archives/edgar/data/80424/000008042413000012/,총자본 67323000000 − 비지배 642000000,3
+Procter & Gamble,PG,2012Q4,2012-12-31,분기말 종가,67.89,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/PG?interval=1d&events=splits (2012-12-31),,3
+Procter & Gamble,PG,2012Q4,2012-12-31,분기말 상장주식수,2731651042,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/80424/000008042413000012/,dei:EntityCommonStockSharesOutstanding 클래스 합,3
+Procter & Gamble,PG,2012Q4,2012-12-31,분기말 시가총액,185451789241,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/PG?interval=1d&events=splits (2012-12-31) ; https://www.sec.gov/Archives/edgar/data/80424/000008042413000012/,종가 67.89 × 주식수 2731651042,3
+Procter & Gamble,PG,2013Q1,2013-03-31,분기별 매출액,20598000000,USD,공시,https://www.sec.gov/Archives/edgar/data/80424/000008042413000033/,,3
+Procter & Gamble,PG,2013Q1,2013-03-31,분기별 영업이익,3405000000,USD,공시,https://www.sec.gov/Archives/edgar/data/80424/000008042413000033/,,3
+Procter & Gamble,PG,2013Q1,2013-03-31,분기별 당기순이익(지배),2566000000,USD,공시,https://www.sec.gov/Archives/edgar/data/80424/000008042413000033/,,3
+Procter & Gamble,PG,2013Q1,2013-03-31,분기별 영업활동현금흐름,3862000000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/80424/000008042413000033/ ; https://www.sec.gov/Archives/edgar/data/80424/000008042413000012/,누적 10481000000 − 직전누적 6619000000 (시작 2012-07-01),3
+Procter & Gamble,PG,2013Q1,2013-03-31,분기말 자산총계,139131000000,USD,공시,https://www.sec.gov/Archives/edgar/data/80424/000008042413000033/,,3
+Procter & Gamble,PG,2013Q1,2013-03-31,분기말 부채총계,71178000000,USD,공시,https://www.sec.gov/Archives/edgar/data/80424/000008042413000033/,,3
+Procter & Gamble,PG,2013Q1,2013-03-31,분기말 총자본(자기자본),67953000000,USD,공시,https://www.sec.gov/Archives/edgar/data/80424/000008042413000033/,,3
+Procter & Gamble,PG,2013Q1,2013-03-31,분기말 지배지분 자본,67268000000,USD,계산(총자본-비지배),https://www.sec.gov/Archives/edgar/data/80424/000008042413000033/,총자본 67953000000 − 비지배 685000000,3
+Procter & Gamble,PG,2013Q1,2013-03-28,분기말 종가,77.06,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/PG?interval=1d&events=splits (2013-03-28),,3
+Procter & Gamble,PG,2013Q1,2013-03-31,분기말 상장주식수,2740773339,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/80424/000008042413000033/,dei:EntityCommonStockSharesOutstanding 클래스 합,3
+Procter & Gamble,PG,2013Q1,2013-03-28,분기말 시가총액,211203993503,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/PG?interval=1d&events=splits (2013-03-28) ; https://www.sec.gov/Archives/edgar/data/80424/000008042413000033/,종가 77.06 × 주식수 2740773339,3
+Procter & Gamble,PG,2013Q2,2013-06-30,분기별 매출액,20655000000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/80424/000008042413000063/ ; https://www.sec.gov/Archives/edgar/data/80424/000008042413000033/,연간 84167000000 − 9개월누적 63512000000 (SalesRevenueNet),3
+Procter & Gamble,PG,2013Q2,2013-06-30,분기별 영업이익,2633000000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/80424/000008042413000063/ ; https://www.sec.gov/Archives/edgar/data/80424/000008042413000033/,연간 14481000000 − 9개월누적 11848000000 (OperatingIncomeLoss),3
+Procter & Gamble,PG,2013Q2,2013-06-30,분기별 당기순이익(지배),1875000000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/80424/000008042413000063/ ; https://www.sec.gov/Archives/edgar/data/80424/000008042413000033/,연간 11312000000 − 9개월누적 9437000000 (NetIncomeLoss),3
+Procter & Gamble,PG,2013Q2,2013-06-30,분기별 영업활동현금흐름,4392000000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/80424/000008042413000063/ ; https://www.sec.gov/Archives/edgar/data/80424/000008042413000033/,누적 14873000000 − 직전누적 10481000000 (시작 2012-07-01),3
+Procter & Gamble,PG,2013Q2,2013-06-30,분기말 자산총계,139263000000,USD,공시,https://www.sec.gov/Archives/edgar/data/80424/000008042413000063/,,3
+Procter & Gamble,PG,2013Q2,2013-06-30,분기말 부채총계,70554000000,USD,공시,https://www.sec.gov/Archives/edgar/data/80424/000008042413000063/,,3
+Procter & Gamble,PG,2013Q2,2013-06-30,분기말 총자본(자기자본),68709000000,USD,공시,https://www.sec.gov/Archives/edgar/data/80424/000008042413000063/,,3
+Procter & Gamble,PG,2013Q2,2013-06-30,분기말 지배지분 자본,68064000000,USD,계산(총자본-비지배),https://www.sec.gov/Archives/edgar/data/80424/000008042413000063/,총자본 68709000000 − 비지배 645000000,3
+Procter & Gamble,PG,2013Q2,2013-06-28,분기말 종가,76.99,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/PG?interval=1d&events=splits (2013-06-28),,3
+Procter & Gamble,PG,2013Q2,2013-07-31,분기말 상장주식수,2738760542,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/80424/000008042413000063/,dei:EntityCommonStockSharesOutstanding 클래스 합,3
+Procter & Gamble,PG,2013Q2,2013-06-28,분기말 시가총액,210857174129,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/PG?interval=1d&events=splits (2013-06-28) ; https://www.sec.gov/Archives/edgar/data/80424/000008042413000063/,종가 76.99 × 주식수 2738760542,3
+Procter & Gamble,PG,2013Q3,2013-09-30,분기별 매출액,21205000000,USD,공시,https://www.sec.gov/Archives/edgar/data/80424/000008042413000089/,,3
+Procter & Gamble,PG,2013Q3,2013-09-30,분기별 영업이익,4151000000,USD,공시,https://www.sec.gov/Archives/edgar/data/80424/000008042413000089/,,3
+Procter & Gamble,PG,2013Q3,2013-09-30,분기별 당기순이익(지배),3027000000,USD,공시,https://www.sec.gov/Archives/edgar/data/80424/000008042413000089/,,3
+Procter & Gamble,PG,2013Q3,2013-09-30,분기별 영업활동현금흐름,2044000000,USD,공시,https://www.sec.gov/Archives/edgar/data/80424/000008042413000089/,,3
+Procter & Gamble,PG,2013Q3,2013-09-30,분기말 자산총계,141125000000,USD,공시,https://www.sec.gov/Archives/edgar/data/80424/000008042413000089/,,3
+Procter & Gamble,PG,2013Q3,2013-09-30,분기말 부채총계,72309000000,USD,공시,https://www.sec.gov/Archives/edgar/data/80424/000008042413000089/,,3
+Procter & Gamble,PG,2013Q3,2013-09-30,분기말 총자본(자기자본),68816000000,USD,공시,https://www.sec.gov/Archives/edgar/data/80424/000008042413000089/,,3
+Procter & Gamble,PG,2013Q3,2013-09-30,분기말 지배지분 자본,68087000000,USD,계산(총자본-비지배),https://www.sec.gov/Archives/edgar/data/80424/000008042413000089/,총자본 68816000000 − 비지배 729000000,3
+Procter & Gamble,PG,2013Q3,2013-09-30,분기말 종가,75.59,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/PG?interval=1d&events=splits (2013-09-30),,3
+Procter & Gamble,PG,2013Q3,2013-09-30,분기말 상장주식수,2718230729,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/80424/000008042413000089/,dei:EntityCommonStockSharesOutstanding 클래스 합,3
+Procter & Gamble,PG,2013Q3,2013-09-30,분기말 시가총액,205471060805,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/PG?interval=1d&events=splits (2013-09-30) ; https://www.sec.gov/Archives/edgar/data/80424/000008042413000089/,종가 75.59 × 주식수 2718230729,3
+Procter & Gamble,PG,2013Q4,2013-12-31,분기별 매출액,22280000000,USD,공시,https://www.sec.gov/Archives/edgar/data/80424/000008042414000012/,,3
+Procter & Gamble,PG,2013Q4,2013-12-31,분기별 영업이익,4552000000,USD,공시,https://www.sec.gov/Archives/edgar/data/80424/000008042414000012/,,3
+Procter & Gamble,PG,2013Q4,2013-12-31,분기별 당기순이익(지배),3428000000,USD,공시,https://www.sec.gov/Archives/edgar/data/80424/000008042414000012/,,3
+Procter & Gamble,PG,2013Q4,2013-12-31,분기별 영업활동현금흐름,3299000000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/80424/000008042414000012/ ; https://www.sec.gov/Archives/edgar/data/80424/000008042413000089/,누적 5343000000 − 직전누적 2044000000 (시작 2013-07-01),3
+Procter & Gamble,PG,2013Q4,2013-12-31,분기말 자산총계,142927000000,USD,공시,https://www.sec.gov/Archives/edgar/data/80424/000008042414000012/,,3
+Procter & Gamble,PG,2013Q4,2013-12-31,분기말 부채총계,72789000000,USD,공시,https://www.sec.gov/Archives/edgar/data/80424/000008042414000012/,,3
+Procter & Gamble,PG,2013Q4,2013-12-31,분기말 총자본(자기자본),70138000000,USD,공시,https://www.sec.gov/Archives/edgar/data/80424/000008042414000012/,,3
+Procter & Gamble,PG,2013Q4,2013-12-31,분기말 지배지분 자본,69378000000,USD,계산(총자본-비지배),https://www.sec.gov/Archives/edgar/data/80424/000008042414000012/,총자본 70138000000 − 비지배 760000000,3
+Procter & Gamble,PG,2013Q4,2013-12-31,분기말 종가,81.41,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/PG?interval=1d&events=splits (2013-12-31),,3
+Procter & Gamble,PG,2013Q4,2013-12-31,분기말 상장주식수,2711408161,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/80424/000008042414000012/,dei:EntityCommonStockSharesOutstanding 클래스 합,3
+Procter & Gamble,PG,2013Q4,2013-12-31,분기말 시가총액,220735738387,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/PG?interval=1d&events=splits (2013-12-31) ; https://www.sec.gov/Archives/edgar/data/80424/000008042414000012/,종가 81.41 × 주식수 2711408161,3
+Procter & Gamble,PG,2014Q1,2014-03-31,분기별 매출액,20559000000,USD,공시,https://www.sec.gov/Archives/edgar/data/80424/000008042414000038/,,3
+Procter & Gamble,PG,2014Q1,2014-03-31,분기별 영업이익,3458000000,USD,공시,https://www.sec.gov/Archives/edgar/data/80424/000008042414000038/,,3
+Procter & Gamble,PG,2014Q1,2014-03-31,분기별 당기순이익(지배),2609000000,USD,공시,https://www.sec.gov/Archives/edgar/data/80424/000008042414000038/,,3
+Procter & Gamble,PG,2014Q1,2014-03-31,분기별 영업활동현금흐름,4109000000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/80424/000008042414000038/ ; https://www.sec.gov/Archives/edgar/data/80424/000008042414000012/,누적 9452000000 − 직전누적 5343000000 (시작 2013-07-01),3
+Procter & Gamble,PG,2014Q1,2014-03-31,분기말 자산총계,143197000000,USD,공시,https://www.sec.gov/Archives/edgar/data/80424/000008042414000038/,,3
+Procter & Gamble,PG,2014Q1,2014-03-31,분기말 부채총계,73156000000,USD,공시,https://www.sec.gov/Archives/edgar/data/80424/000008042414000038/,,3
+Procter & Gamble,PG,2014Q1,2014-03-31,분기말 총자본(자기자본),70041000000,USD,공시,https://www.sec.gov/Archives/edgar/data/80424/000008042414000038/,,3
+Procter & Gamble,PG,2014Q1,2014-03-31,분기말 지배지분 자본,69281000000,USD,계산(총자본-비지배),https://www.sec.gov/Archives/edgar/data/80424/000008042414000038/,총자본 70041000000 − 비지배 760000000,3
+Procter & Gamble,PG,2014Q1,2014-03-31,분기말 종가,80.6,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/PG?interval=1d&events=splits (2014-03-31),,3
+Procter & Gamble,PG,2014Q1,2014-03-31,분기말 상장주식수,2705960276,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/80424/000008042414000038/,dei:EntityCommonStockSharesOutstanding 클래스 합,3
+Procter & Gamble,PG,2014Q1,2014-03-31,분기말 시가총액,218100398246,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/PG?interval=1d&events=splits (2014-03-31) ; https://www.sec.gov/Archives/edgar/data/80424/000008042414000038/,종가 80.6 × 주식수 2705960276,3
+Procter & Gamble,PG,2014Q2,2014-06-30,분기별 매출액,-34644000000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/80424/000008042414000057/ ; https://www.sec.gov/Archives/edgar/data/80424/000008042414000038/,연간 29400000000 − 9개월누적 64044000000 (Revenues / 9개월 SalesRevenueNet),3
+Procter & Gamble,PG,2014Q2,2014-06-30,분기별 영업이익,3127000000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/80424/000008042414000057/ ; https://www.sec.gov/Archives/edgar/data/80424/000008042414000038/,연간 15288000000 − 9개월누적 12161000000 (OperatingIncomeLoss),3
+Procter & Gamble,PG,2014Q2,2014-06-30,분기별 당기순이익(지배),2579000000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/80424/000008042414000057/ ; https://www.sec.gov/Archives/edgar/data/80424/000008042414000038/,연간 11643000000 − 9개월누적 9064000000 (NetIncomeLoss),3
+Procter & Gamble,PG,2014Q2,2014-06-30,분기별 영업활동현금흐름,4506000000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/80424/000008042414000057/ ; https://www.sec.gov/Archives/edgar/data/80424/000008042414000038/,누적 13958000000 − 직전누적 9452000000 (시작 2013-07-01),3
+Procter & Gamble,PG,2014Q2,2014-06-30,분기말 자산총계,144266000000,USD,공시,https://www.sec.gov/Archives/edgar/data/80424/000008042414000057/,,3
+Procter & Gamble,PG,2014Q2,2014-06-30,분기말 부채총계,74290000000,USD,공시,https://www.sec.gov/Archives/edgar/data/80424/000008042414000057/,,3
+Procter & Gamble,PG,2014Q2,2014-06-30,분기말 총자본(자기자본),69976000000,USD,공시,https://www.sec.gov/Archives/edgar/data/80424/000008042414000057/,,3
+Procter & Gamble,PG,2014Q2,2014-06-30,분기말 지배지분 자본,69214000000,USD,계산(총자본-비지배),https://www.sec.gov/Archives/edgar/data/80424/000008042414000057/,총자본 69976000000 − 비지배 762000000,3
+Procter & Gamble,PG,2014Q2,2014-06-30,분기말 종가,78.59,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/PG?interval=1d&events=splits (2014-06-30),,3
+Procter & Gamble,PG,2014Q2,2014-07-31,분기말 상장주식수,2707652337,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/80424/000008042414000057/,dei:EntityCommonStockSharesOutstanding 클래스 합,3
+Procter & Gamble,PG,2014Q2,2014-06-30,분기말 시가총액,212794397165,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/PG?interval=1d&events=splits (2014-06-30) ; https://www.sec.gov/Archives/edgar/data/80424/000008042414000057/,종가 78.59 × 주식수 2707652337,3
+Procter & Gamble,PG,2014Q3,2014-09-30,분기별 매출액,20792000000,USD,공시,https://www.sec.gov/Archives/edgar/data/80424/000008042414000077/,,3
+Procter & Gamble,PG,2014Q3,2014-09-30,분기별 영업이익,2940000000,USD,공시,https://www.sec.gov/Archives/edgar/data/80424/000008042414000077/,,3
+Procter & Gamble,PG,2014Q3,2014-09-30,분기별 당기순이익(지배),1990000000,USD,공시,https://www.sec.gov/Archives/edgar/data/80424/000008042414000077/,,3
+Procter & Gamble,PG,2014Q3,2014-09-30,분기별 영업활동현금흐름,3633000000,USD,공시,https://www.sec.gov/Archives/edgar/data/80424/000008042414000077/,,3
+Procter & Gamble,PG,2014Q3,2014-09-30,분기말 자산총계,138183000000,USD,공시,https://www.sec.gov/Archives/edgar/data/80424/000008042414000077/,,3
+Procter & Gamble,PG,2014Q3,2014-09-30,분기말 부채총계,71354000000,USD,공시,https://www.sec.gov/Archives/edgar/data/80424/000008042414000077/,,3
+Procter & Gamble,PG,2014Q3,2014-09-30,분기말 총자본(자기자본),66829000000,USD,공시,https://www.sec.gov/Archives/edgar/data/80424/000008042414000077/,,3
+Procter & Gamble,PG,2014Q3,2014-09-30,분기말 지배지분 자본,66055000000,USD,계산(총자본-비지배),https://www.sec.gov/Archives/edgar/data/80424/000008042414000077/,총자본 66829000000 − 비지배 774000000,3
+Procter & Gamble,PG,2014Q3,2014-09-30,분기말 종가,83.74,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/PG?interval=1d&events=splits (2014-09-30),,3
+Procter & Gamble,PG,2014Q3,2014-09-30,분기말 상장주식수,2702118733,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/80424/000008042414000077/,dei:EntityCommonStockSharesOutstanding 클래스 합,3
+Procter & Gamble,PG,2014Q3,2014-09-30,분기말 시가총액,226275422701,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/PG?interval=1d&events=splits (2014-09-30) ; https://www.sec.gov/Archives/edgar/data/80424/000008042414000077/,종가 83.74 × 주식수 2702118733,3
+Procter & Gamble,PG,2014Q4,2014-12-31,분기별 매출액,20161000000,USD,공시,https://www.sec.gov/Archives/edgar/data/80424/000008042415000014/,,3
+Procter & Gamble,PG,2014Q4,2014-12-31,분기별 영업이익,3947000000,USD,공시,https://www.sec.gov/Archives/edgar/data/80424/000008042415000014/,,3
+Procter & Gamble,PG,2014Q4,2014-12-31,분기별 당기순이익(지배),2372000000,USD,공시,https://www.sec.gov/Archives/edgar/data/80424/000008042415000014/,,3
+Procter & Gamble,PG,2014Q4,2014-12-31,분기별 영업활동현금흐름,3435000000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/80424/000008042415000014/ ; https://www.sec.gov/Archives/edgar/data/80424/000008042414000077/,누적 7068000000 − 직전누적 3633000000 (시작 2014-07-01),3
+Procter & Gamble,PG,2014Q4,2014-12-31,분기말 자산총계,136263000000,USD,공시,https://www.sec.gov/Archives/edgar/data/80424/000008042415000014/,,3
+Procter & Gamble,PG,2014Q4,2014-12-31,분기말 부채총계,71451000000,USD,공시,https://www.sec.gov/Archives/edgar/data/80424/000008042415000014/,,3
+Procter & Gamble,PG,2014Q4,2014-12-31,분기말 총자본(자기자본),64812000000,USD,공시,https://www.sec.gov/Archives/edgar/data/80424/000008042415000014/,,3
+Procter & Gamble,PG,2014Q4,2014-12-31,분기말 지배지분 자본,64133000000,USD,계산(총자본-비지배),https://www.sec.gov/Archives/edgar/data/80424/000008042415000014/,총자본 64812000000 − 비지배 679000000,3
+Procter & Gamble,PG,2014Q4,2014-12-31,분기말 종가,91.09,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/PG?interval=1d&events=splits (2014-12-31),,3
+Procter & Gamble,PG,2014Q4,2014-12-31,분기말 상장주식수,2700509874,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/80424/000008042415000014/,dei:EntityCommonStockSharesOutstanding 클래스 합,3
+Procter & Gamble,PG,2014Q4,2014-12-31,분기말 시가총액,245989444423,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/PG?interval=1d&events=splits (2014-12-31) ; https://www.sec.gov/Archives/edgar/data/80424/000008042415000014/,종가 91.09 × 주식수 2700509874,3
+Procter & Gamble,PG,2015Q1,2015-03-31,분기별 매출액,18142000000,USD,공시,https://www.sec.gov/Archives/edgar/data/80424/000008042415000039/,,3
+Procter & Gamble,PG,2015Q1,2015-03-31,분기별 영업이익,3135000000,USD,공시,https://www.sec.gov/Archives/edgar/data/80424/000008042415000039/,,3
+Procter & Gamble,PG,2015Q1,2015-03-31,분기별 당기순이익(지배),2153000000,USD,공시,https://www.sec.gov/Archives/edgar/data/80424/000008042415000039/,,3
+Procter & Gamble,PG,2015Q1,2015-03-31,분기별 영업활동현금흐름,3552000000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/80424/000008042415000039/ ; https://www.sec.gov/Archives/edgar/data/80424/000008042415000014/,누적 10620000000 − 직전누적 7068000000 (시작 2014-07-01),3
+Procter & Gamble,PG,2015Q1,2015-03-31,분기말 자산총계,130937000000,USD,공시,https://www.sec.gov/Archives/edgar/data/80424/000008042415000039/,,3
+Procter & Gamble,PG,2015Q1,2015-03-31,분기말 부채총계,67557000000,USD,공시,https://www.sec.gov/Archives/edgar/data/80424/000008042415000039/,,3
+Procter & Gamble,PG,2015Q1,2015-03-31,분기말 총자본(자기자본),63380000000,USD,공시,https://www.sec.gov/Archives/edgar/data/80424/000008042415000039/,,3
+Procter & Gamble,PG,2015Q1,2015-03-31,분기말 지배지분 자본,62733000000,USD,계산(총자본-비지배),https://www.sec.gov/Archives/edgar/data/80424/000008042415000039/,총자본 63380000000 − 비지배 647000000,3
+Procter & Gamble,PG,2015Q1,2015-03-31,분기말 종가,81.94,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/PG?interval=1d&events=splits (2015-03-31),,3
+Procter & Gamble,PG,2015Q1,2015-03-31,분기말 상장주식수,2712995590,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/80424/000008042415000039/,dei:EntityCommonStockSharesOutstanding 클래스 합,3
+Procter & Gamble,PG,2015Q1,2015-03-31,분기말 시가총액,222302858645,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/PG?interval=1d&events=splits (2015-03-31) ; https://www.sec.gov/Archives/edgar/data/80424/000008042415000039/,종가 81.94 × 주식수 2712995590,3
+Procter & Gamble,PG,2015Q2,2015-06-30,분기별 매출액,17790000000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/80424/000008042415000070/ ; https://www.sec.gov/Archives/edgar/data/80424/000008042415000039/,연간 76279000000 − 9개월누적 58489000000 (SalesRevenueNet),3
+Procter & Gamble,PG,2015Q2,2015-06-30,분기별 영업이익,930000000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/80424/000008042415000070/ ; https://www.sec.gov/Archives/edgar/data/80424/000008042415000039/,연간 11790000000 − 9개월누적 10860000000 (OperatingIncomeLoss),3
+Procter & Gamble,PG,2015Q2,2015-06-30,분기별 당기순이익(지배),521000000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/80424/000008042415000070/ ; https://www.sec.gov/Archives/edgar/data/80424/000008042415000039/,연간 7036000000 − 9개월누적 6515000000 (NetIncomeLoss),3
+Procter & Gamble,PG,2015Q2,2015-06-30,분기별 영업활동현금흐름,3988000000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/80424/000008042415000070/ ; https://www.sec.gov/Archives/edgar/data/80424/000008042415000039/,누적 14608000000 − 직전누적 10620000000 (시작 2014-07-01),3
+Procter & Gamble,PG,2015Q2,2015-06-30,분기말 자산총계,129495000000,USD,공시,https://www.sec.gov/Archives/edgar/data/80424/000008042415000070/,,3
+Procter & Gamble,PG,2015Q2,2015-06-30,분기말 부채총계,66445000000,USD,공시,https://www.sec.gov/Archives/edgar/data/80424/000008042415000070/,,3
+Procter & Gamble,PG,2015Q2,2015-06-30,분기말 총자본(자기자본),63050000000,USD,공시,https://www.sec.gov/Archives/edgar/data/80424/000008042415000070/,,3
+Procter & Gamble,PG,2015Q2,2015-06-30,분기말 지배지분 자본,62419000000,USD,계산(총자본-비지배),https://www.sec.gov/Archives/edgar/data/80424/000008042415000070/,총자본 63050000000 − 비지배 631000000,3
+Procter & Gamble,PG,2015Q2,2015-06-30,분기말 종가,78.24,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/PG?interval=1d&events=splits (2015-06-30),,3
+Procter & Gamble,PG,2015Q2,2015-07-31,분기말 상장주식수,2712561733,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/80424/000008042415000070/,dei:EntityCommonStockSharesOutstanding 클래스 합,3
+Procter & Gamble,PG,2015Q2,2015-06-30,분기말 시가총액,212230829990,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/PG?interval=1d&events=splits (2015-06-30) ; https://www.sec.gov/Archives/edgar/data/80424/000008042415000070/,종가 78.24 × 주식수 2712561733,3
+Procter & Gamble,PG,2015Q3,2015-09-30,분기별 매출액,16527000000,USD,공시,https://www.sec.gov/Archives/edgar/data/80424/000008042415000098/,,3
+Procter & Gamble,PG,2015Q3,2015-09-30,분기별 영업이익,3768000000,USD,공시,https://www.sec.gov/Archives/edgar/data/80424/000008042415000098/,,3
+Procter & Gamble,PG,2015Q3,2015-09-30,분기별 당기순이익(지배),2601000000,USD,공시,https://www.sec.gov/Archives/edgar/data/80424/000008042415000098/,,3
+Procter & Gamble,PG,2015Q3,2015-09-30,분기별 영업활동현금흐름,3538000000,USD,공시,https://www.sec.gov/Archives/edgar/data/80424/000008042415000098/,,3
+Procter & Gamble,PG,2015Q3,2015-09-30,분기말 자산총계,129265000000,USD,공시,https://www.sec.gov/Archives/edgar/data/80424/000008042415000098/,,3
+Procter & Gamble,PG,2015Q3,2015-09-30,분기말 부채총계,66311000000,USD,공시,https://www.sec.gov/Archives/edgar/data/80424/000008042415000098/,,3
+Procter & Gamble,PG,2015Q3,2015-09-30,분기말 총자본(자기자본),62954000000,USD,공시,https://www.sec.gov/Archives/edgar/data/80424/000008042415000098/,,3
+Procter & Gamble,PG,2015Q3,2015-09-30,분기말 지배지분 자본,62287000000,USD,계산(총자본-비지배),https://www.sec.gov/Archives/edgar/data/80424/000008042415000098/,총자본 62954000000 − 비지배 667000000,3
+Procter & Gamble,PG,2015Q3,2015-09-30,분기말 종가,71.94,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/PG?interval=1d&events=splits (2015-09-30),,3
+Procter & Gamble,PG,2015Q3,2015-09-30,분기말 상장주식수,2720572743,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/80424/000008042415000098/,dei:EntityCommonStockSharesOutstanding 클래스 합,3
+Procter & Gamble,PG,2015Q3,2015-09-30,분기말 시가총액,195718003131,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/PG?interval=1d&events=splits (2015-09-30) ; https://www.sec.gov/Archives/edgar/data/80424/000008042415000098/,종가 71.94 × 주식수 2720572743,3
+Procter & Gamble,PG,2015Q4,2015-12-31,분기별 매출액,16915000000,USD,공시,https://www.sec.gov/Archives/edgar/data/80424/000008042416000166/,,3
+Procter & Gamble,PG,2015Q4,2015-12-31,분기별 영업이익,3853000000,USD,공시,https://www.sec.gov/Archives/edgar/data/80424/000008042416000166/,,3
+Procter & Gamble,PG,2015Q4,2015-12-31,분기별 당기순이익(지배),3206000000,USD,공시,https://www.sec.gov/Archives/edgar/data/80424/000008042416000166/,,3
+Procter & Gamble,PG,2015Q4,2015-12-31,분기별 영업활동현금흐름,4480000000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/80424/000008042416000166/ ; https://www.sec.gov/Archives/edgar/data/80424/000008042415000098/,누적 8018000000 − 직전누적 3538000000 (시작 2015-07-01),3
+Procter & Gamble,PG,2015Q4,2015-12-31,분기말 자산총계,129143000000,USD,공시,https://www.sec.gov/Archives/edgar/data/80424/000008042416000166/,,3
+Procter & Gamble,PG,2015Q4,2015-12-31,분기말 부채총계,66841000000,USD,공시,https://www.sec.gov/Archives/edgar/data/80424/000008042416000166/,,3
+Procter & Gamble,PG,2015Q4,2015-12-31,분기말 총자본(자기자본),62302000000,USD,공시,https://www.sec.gov/Archives/edgar/data/80424/000008042416000166/,,3
+Procter & Gamble,PG,2015Q4,2015-12-31,분기말 지배지분 자본,61628000000,USD,계산(총자본-비지배),https://www.sec.gov/Archives/edgar/data/80424/000008042416000166/,총자본 62302000000 − 비지배 674000000,3
+Procter & Gamble,PG,2015Q4,2015-12-31,분기말 종가,79.41,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/PG?interval=1d&events=splits (2015-12-31),,3
+Procter & Gamble,PG,2015Q4,2015-12-31,분기말 상장주식수,2704565560,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/80424/000008042416000166/,dei:EntityCommonStockSharesOutstanding 클래스 합,3
+Procter & Gamble,PG,2015Q4,2015-12-31,분기말 시가총액,214769551120,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/PG?interval=1d&events=splits (2015-12-31) ; https://www.sec.gov/Archives/edgar/data/80424/000008042416000166/,종가 79.41 × 주식수 2704565560,3
+Procter & Gamble,PG,2016Q1,2016-03-31,분기별 매출액,15755000000,USD,공시,https://www.sec.gov/Archives/edgar/data/80424/000008042416000183/,,3
+Procter & Gamble,PG,2016Q1,2016-03-31,분기별 영업이익,3318000000,USD,공시,https://www.sec.gov/Archives/edgar/data/80424/000008042416000183/,,3
+Procter & Gamble,PG,2016Q1,2016-03-31,분기별 당기순이익(지배),2750000000,USD,공시,https://www.sec.gov/Archives/edgar/data/80424/000008042416000183/,,3
+Procter & Gamble,PG,2016Q1,2016-03-31,분기별 영업활동현금흐름,3278000000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/80424/000008042416000183/ ; https://www.sec.gov/Archives/edgar/data/80424/000008042416000166/,누적 11296000000 − 직전누적 8018000000 (시작 2015-07-01),3
+Procter & Gamble,PG,2016Q1,2016-03-31,분기말 자산총계,127508000000,USD,공시,https://www.sec.gov/Archives/edgar/data/80424/000008042416000183/,,3
+Procter & Gamble,PG,2016Q1,2016-03-31,분기말 부채총계,67655000000,USD,공시,https://www.sec.gov/Archives/edgar/data/80424/000008042416000183/,,3
+Procter & Gamble,PG,2016Q1,2016-03-31,분기말 총자본(자기자본),59853000000,USD,공시,https://www.sec.gov/Archives/edgar/data/80424/000008042416000183/,,3
+Procter & Gamble,PG,2016Q1,2016-03-31,분기말 지배지분 자본,59187000000,USD,계산(총자본-비지배),https://www.sec.gov/Archives/edgar/data/80424/000008042416000183/,총자본 59853000000 − 비지배 666000000,3
+Procter & Gamble,PG,2016Q1,2016-03-31,분기말 종가,82.31,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/PG?interval=1d&events=splits (2016-03-31),,3
+Procter & Gamble,PG,2016Q1,2016-03-31,분기말 상장주식수,2661851865,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/80424/000008042416000183/,dei:EntityCommonStockSharesOutstanding 클래스 합,3
+Procter & Gamble,PG,2016Q1,2016-03-31,분기말 시가총액,219097027008,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/PG?interval=1d&events=splits (2016-03-31) ; https://www.sec.gov/Archives/edgar/data/80424/000008042416000183/,종가 82.31 × 주식수 2661851865,3
+Procter & Gamble,PG,2016Q2,2016-06-30,분기별 매출액,16102000000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/80424/000008042416000212/ ; https://www.sec.gov/Archives/edgar/data/80424/000008042416000183/,연간 65299000000 − 9개월누적 49197000000 (SalesRevenueNet),3
+Procter & Gamble,PG,2016Q2,2016-06-30,분기별 영업이익,2502000000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/80424/000008042416000212/ ; https://www.sec.gov/Archives/edgar/data/80424/000008042416000183/,연간 13441000000 − 9개월누적 10939000000 (OperatingIncomeLoss),3
+Procter & Gamble,PG,2016Q2,2016-06-30,분기별 당기순이익(지배),1951000000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/80424/000008042416000212/ ; https://www.sec.gov/Archives/edgar/data/80424/000008042416000183/,연간 10508000000 − 9개월누적 8557000000 (NetIncomeLoss),3
+Procter & Gamble,PG,2016Q2,2016-06-30,분기별 영업활동현금흐름,4139000000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/80424/000008042416000212/ ; https://www.sec.gov/Archives/edgar/data/80424/000008042416000183/,누적 15435000000 − 직전누적 11296000000 (시작 2015-07-01),3
+Procter & Gamble,PG,2016Q2,2016-06-30,분기말 자산총계,127136000000,USD,공시,https://www.sec.gov/Archives/edgar/data/80424/000008042416000212/,,3
+Procter & Gamble,PG,2016Q2,2016-06-30,분기말 부채총계,69153000000,USD,공시,https://www.sec.gov/Archives/edgar/data/80424/000008042416000212/,,3
+Procter & Gamble,PG,2016Q2,2016-06-30,분기말 총자본(자기자본),57983000000,USD,공시,https://www.sec.gov/Archives/edgar/data/80424/000008042416000212/,,3
+Procter & Gamble,PG,2016Q2,2016-06-30,분기말 지배지분 자본,57341000000,USD,계산(총자본-비지배),https://www.sec.gov/Archives/edgar/data/80424/000008042416000212/,총자본 57983000000 − 비지배 642000000,3
+Procter & Gamble,PG,2016Q2,2016-06-30,분기말 종가,84.67,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/PG?interval=1d&events=splits (2016-06-30),,3
+Procter & Gamble,PG,2016Q2,2016-07-31,분기말 상장주식수,2668751125,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/80424/000008042416000212/,dei:EntityCommonStockSharesOutstanding 클래스 합,3
+Procter & Gamble,PG,2016Q2,2016-06-30,분기말 시가총액,225963157754,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/PG?interval=1d&events=splits (2016-06-30) ; https://www.sec.gov/Archives/edgar/data/80424/000008042416000212/,종가 84.67 × 주식수 2668751125,3
+Procter & Gamble,PG,2016Q3,2016-09-30,분기별 매출액,16518000000,USD,공시,https://www.sec.gov/Archives/edgar/data/80424/000008042416000244/,,3
+Procter & Gamble,PG,2016Q3,2016-09-30,분기별 영업이익,3771000000,USD,공시,https://www.sec.gov/Archives/edgar/data/80424/000008042416000244/,,3
+Procter & Gamble,PG,2016Q3,2016-09-30,분기별 당기순이익(지배),2714000000,USD,공시,https://www.sec.gov/Archives/edgar/data/80424/000008042416000244/,,3
+Procter & Gamble,PG,2016Q3,2016-09-30,분기별 영업활동현금흐름,3025000000,USD,공시,https://www.sec.gov/Archives/edgar/data/80424/000008042416000244/,,3
+Procter & Gamble,PG,2016Q3,2016-09-30,분기말 자산총계,129043000000,USD,공시,https://www.sec.gov/Archives/edgar/data/80424/000008042416000244/,,3
+Procter & Gamble,PG,2016Q3,2016-09-30,분기말 부채총계,70092000000,USD,공시,https://www.sec.gov/Archives/edgar/data/80424/000008042416000244/,,3
+Procter & Gamble,PG,2016Q3,2016-09-30,분기말 총자본(자기자본),58951000000,USD,공시,https://www.sec.gov/Archives/edgar/data/80424/000008042416000244/,,3
+Procter & Gamble,PG,2016Q3,2016-09-30,분기말 지배지분 자본,58262000000,USD,계산(총자본-비지배),https://www.sec.gov/Archives/edgar/data/80424/000008042416000244/,총자본 58951000000 − 비지배 689000000,3
+Procter & Gamble,PG,2016Q3,2016-09-30,분기말 종가,89.75,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/PG?interval=1d&events=splits (2016-09-30),,3
+Procter & Gamble,PG,2016Q3,2016-09-30,분기말 상장주식수,2675992524,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/80424/000008042416000244/,dei:EntityCommonStockSharesOutstanding 클래스 합,3
+Procter & Gamble,PG,2016Q3,2016-09-30,분기말 시가총액,240170329029,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/PG?interval=1d&events=splits (2016-09-30) ; https://www.sec.gov/Archives/edgar/data/80424/000008042416000244/,종가 89.75 × 주식수 2675992524,3
+Procter & Gamble,PG,2016Q4,2016-12-31,분기별 매출액,16856000000,USD,공시,https://www.sec.gov/Archives/edgar/data/80424/000008042417000011/,,3
+Procter & Gamble,PG,2016Q4,2016-12-31,분기별 영업이익,3875000000,USD,공시,https://www.sec.gov/Archives/edgar/data/80424/000008042417000011/,,3
+Procter & Gamble,PG,2016Q4,2016-12-31,분기별 당기순이익(지배),7875000000,USD,공시,https://www.sec.gov/Archives/edgar/data/80424/000008042417000011/,,3
+Procter & Gamble,PG,2016Q4,2016-12-31,분기별 영업활동현금흐름,3000000000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/80424/000008042417000011/ ; https://www.sec.gov/Archives/edgar/data/80424/000008042416000244/,누적 6025000000 − 직전누적 3025000000 (시작 2016-07-01),3
+Procter & Gamble,PG,2016Q4,2016-12-31,분기말 자산총계,117033000000,USD,공시,https://www.sec.gov/Archives/edgar/data/80424/000008042417000011/,,3
+Procter & Gamble,PG,2016Q4,2016-12-31,분기말 부채총계,63289000000,USD,공시,https://www.sec.gov/Archives/edgar/data/80424/000008042417000011/,,3
+Procter & Gamble,PG,2016Q4,2016-12-31,분기말 총자본(자기자본),53744000000,USD,공시,https://www.sec.gov/Archives/edgar/data/80424/000008042417000011/,,3
+Procter & Gamble,PG,2016Q4,2016-12-31,분기말 지배지분 자본,53060000000,USD,계산(총자본-비지배),https://www.sec.gov/Archives/edgar/data/80424/000008042417000011/,총자본 53744000000 − 비지배 684000000,3
+Procter & Gamble,PG,2016Q4,2016-12-30,분기말 종가,84.08,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/PG?interval=1d&events=splits (2016-12-30),,3
+Procter & Gamble,PG,2016Q4,2016-12-31,분기말 상장주식수,2556477220,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/80424/000008042417000011/,dei:EntityCommonStockSharesOutstanding 클래스 합,3
+Procter & Gamble,PG,2016Q4,2016-12-30,분기말 시가총액,214948604658,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/PG?interval=1d&events=splits (2016-12-30) ; https://www.sec.gov/Archives/edgar/data/80424/000008042417000011/,종가 84.08 × 주식수 2556477220,3
+Procter & Gamble,PG,2017Q1,2017-03-31,분기별 매출액,15605000000,USD,공시,https://www.sec.gov/Archives/edgar/data/80424/000008042417000026/,,3
+Procter & Gamble,PG,2017Q1,2017-03-31,분기별 영업이익,3360000000,USD,공시,https://www.sec.gov/Archives/edgar/data/80424/000008042417000026/,,3
+Procter & Gamble,PG,2017Q1,2017-03-31,분기별 당기순이익(지배),2522000000,USD,공시,https://www.sec.gov/Archives/edgar/data/80424/000008042417000026/,,3
+Procter & Gamble,PG,2017Q1,2017-03-31,분기별 영업활동현금흐름,3040000000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/80424/000008042417000026/ ; https://www.sec.gov/Archives/edgar/data/80424/000008042417000011/,누적 9065000000 − 직전누적 6025000000 (시작 2016-07-01),3
+Procter & Gamble,PG,2017Q1,2017-03-31,분기말 자산총계,118091000000,USD,공시,https://www.sec.gov/Archives/edgar/data/80424/000008042417000026/,,3
+Procter & Gamble,PG,2017Q1,2017-03-31,분기말 부채총계,63543000000,USD,공시,https://www.sec.gov/Archives/edgar/data/80424/000008042417000026/,,3
+Procter & Gamble,PG,2017Q1,2017-03-31,분기말 총자본(자기자본),54548000000,USD,공시,https://www.sec.gov/Archives/edgar/data/80424/000008042417000026/,,3
+Procter & Gamble,PG,2017Q1,2017-03-31,분기말 지배지분 자본,53840000000,USD,계산(총자본-비지배),https://www.sec.gov/Archives/edgar/data/80424/000008042417000026/,총자본 54548000000 − 비지배 708000000,3
+Procter & Gamble,PG,2017Q1,2017-03-31,분기말 종가,89.85,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/PG?interval=1d&events=splits (2017-03-31),,3
+Procter & Gamble,PG,2017Q1,2017-03-31,분기말 상장주식수,2557614388,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/80424/000008042417000026/,dei:EntityCommonStockSharesOutstanding 클래스 합,3
+Procter & Gamble,PG,2017Q1,2017-03-31,분기말 시가총액,229801652762,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/PG?interval=1d&events=splits (2017-03-31) ; https://www.sec.gov/Archives/edgar/data/80424/000008042417000026/,종가 89.85 × 주식수 2557614388,3
+Procter & Gamble,PG,2017Q2,2017-06-30,분기별 매출액,16079000000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/80424/000008042417000047/ ; https://www.sec.gov/Archives/edgar/data/80424/000008042417000026/,연간 65058000000 − 9개월누적 48979000000 (SalesRevenueNet),3
+Procter & Gamble,PG,2017Q2,2017-06-30,분기별 영업이익,2949000000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/80424/000008042417000047/ ; https://www.sec.gov/Archives/edgar/data/80424/000008042417000026/,연간 13955000000 − 9개월누적 11006000000 (OperatingIncomeLoss),3
+Procter & Gamble,PG,2017Q2,2017-06-30,분기별 당기순이익(지배),2215000000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/80424/000008042417000047/ ; https://www.sec.gov/Archives/edgar/data/80424/000008042417000026/,연간 15326000000 − 9개월누적 13111000000 (NetIncomeLoss),3
+Procter & Gamble,PG,2017Q2,2017-06-30,분기별 영업활동현금흐름,3688000000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/80424/000008042417000047/ ; https://www.sec.gov/Archives/edgar/data/80424/000008042417000026/,누적 12753000000 − 직전누적 9065000000 (시작 2016-07-01),3
+Procter & Gamble,PG,2017Q2,2017-06-30,분기말 자산총계,120406000000,USD,공시,https://www.sec.gov/Archives/edgar/data/80424/000008042417000047/,,3
+Procter & Gamble,PG,2017Q2,2017-06-30,분기말 부채총계,64628000000,USD,공시,https://www.sec.gov/Archives/edgar/data/80424/000008042417000047/,,3
+Procter & Gamble,PG,2017Q2,2017-06-30,분기말 총자본(자기자본),55778000000,USD,공시,https://www.sec.gov/Archives/edgar/data/80424/000008042417000047/,,3
+Procter & Gamble,PG,2017Q2,2017-06-30,분기말 지배지분 자본,55184000000,USD,계산(총자본-비지배),https://www.sec.gov/Archives/edgar/data/80424/000008042417000047/,총자본 55778000000 − 비지배 594000000,3
+Procter & Gamble,PG,2017Q2,2017-06-30,분기말 종가,87.15,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/PG?interval=1d&events=splits (2017-06-30),,3
+Procter & Gamble,PG,2017Q2,2017-07-31,분기말 상장주식수,2550014230,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/80424/000008042417000047/,dei:EntityCommonStockSharesOutstanding 클래스 합,3
+Procter & Gamble,PG,2017Q2,2017-06-30,분기말 시가총액,222233740144,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/PG?interval=1d&events=splits (2017-06-30) ; https://www.sec.gov/Archives/edgar/data/80424/000008042417000047/,종가 87.15 × 주식수 2550014230,3
+Procter & Gamble,PG,2017Q3,2017-09-30,분기별 매출액,16653000000,USD,공시,https://www.sec.gov/Archives/edgar/data/80424/000008042417000078/,,3
+Procter & Gamble,PG,2017Q3,2017-09-30,분기별 영업이익,3648000000,USD,공시(재작성 반영),https://www.sec.gov/Archives/edgar/data/80424/000008042418000100/,원 공시 3735000000 (https://www.sec.gov/Archives/edgar/data/80424/000008042417000078/),3
+Procter & Gamble,PG,2017Q3,2017-09-30,분기별 당기순이익(지배),2853000000,USD,공시,https://www.sec.gov/Archives/edgar/data/80424/000008042417000078/,,3
+Procter & Gamble,PG,2017Q3,2017-09-30,분기별 영업활동현금흐름,3631000000,USD,공시,https://www.sec.gov/Archives/edgar/data/80424/000008042417000078/,,3
+Procter & Gamble,PG,2017Q3,2017-09-30,분기말 자산총계,122851000000,USD,공시,https://www.sec.gov/Archives/edgar/data/80424/000008042417000078/,,3
+Procter & Gamble,PG,2017Q3,2017-09-30,분기말 부채총계,67436000000,USD,공시,https://www.sec.gov/Archives/edgar/data/80424/000008042417000078/,,3
+Procter & Gamble,PG,2017Q3,2017-09-30,분기말 총자본(자기자본),55415000000,USD,공시,https://www.sec.gov/Archives/edgar/data/80424/000008042417000078/,,3
+Procter & Gamble,PG,2017Q3,2017-09-30,분기말 지배지분 자본,54818000000,USD,계산(총자본-비지배),https://www.sec.gov/Archives/edgar/data/80424/000008042417000078/,총자본 55415000000 − 비지배 597000000,3
+Procter & Gamble,PG,2017Q3,2017-09-29,분기말 종가,90.98,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/PG?interval=1d&events=splits (2017-09-29),,3
+Procter & Gamble,PG,2017Q3,2017-09-30,분기말 상장주식수,2536958080,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/80424/000008042417000078/,dei:EntityCommonStockSharesOutstanding 클래스 합,3
+Procter & Gamble,PG,2017Q3,2017-09-29,분기말 시가총액,230812446118,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/PG?interval=1d&events=splits (2017-09-29) ; https://www.sec.gov/Archives/edgar/data/80424/000008042417000078/,종가 90.98 × 주식수 2536958080,3
+Procter & Gamble,PG,2017Q4,2017-12-31,분기별 매출액,17395000000,USD,공시,https://www.sec.gov/Archives/edgar/data/80424/000008042418000013/,,3
+Procter & Gamble,PG,2017Q4,2017-12-31,분기별 영업이익,3919000000,USD,공시(재작성 반영),https://www.sec.gov/Archives/edgar/data/80424/000008042419000014/,원 공시 4003000000 (https://www.sec.gov/Archives/edgar/data/80424/000008042418000013/),3
+Procter & Gamble,PG,2017Q4,2017-12-31,분기별 당기순이익(지배),2495000000,USD,공시,https://www.sec.gov/Archives/edgar/data/80424/000008042418000013/,,3
+Procter & Gamble,PG,2017Q4,2017-12-31,분기별 영업활동현금흐름,3684000000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/80424/000008042418000013/ ; https://www.sec.gov/Archives/edgar/data/80424/000008042417000078/,누적 7315000000 − 직전누적 3631000000 (시작 2017-07-01),3
+Procter & Gamble,PG,2017Q4,2017-12-31,분기말 자산총계,126644000000,USD,공시,https://www.sec.gov/Archives/edgar/data/80424/000008042418000013/,,3
+Procter & Gamble,PG,2017Q4,2017-12-31,분기말 부채총계,71923000000,USD,공시,https://www.sec.gov/Archives/edgar/data/80424/000008042418000013/,,3
+Procter & Gamble,PG,2017Q4,2017-12-31,분기말 총자본(자기자본),54721000000,USD,공시,https://www.sec.gov/Archives/edgar/data/80424/000008042418000013/,,3
+Procter & Gamble,PG,2017Q4,2017-12-31,분기말 지배지분 자본,54112000000,USD,계산(총자본-비지배),https://www.sec.gov/Archives/edgar/data/80424/000008042418000013/,총자본 54721000000 − 비지배 609000000,3
+Procter & Gamble,PG,2017Q4,2017-12-29,분기말 종가,91.88,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/PG?interval=1d&events=splits (2017-12-29),,3
+Procter & Gamble,PG,2017Q4,2017-12-31,분기말 상장주식수,2521003706,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/80424/000008042418000013/,dei:EntityCommonStockSharesOutstanding 클래스 합,3
+Procter & Gamble,PG,2017Q4,2017-12-29,분기말 시가총액,231629820507,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/PG?interval=1d&events=splits (2017-12-29) ; https://www.sec.gov/Archives/edgar/data/80424/000008042418000013/,종가 91.88 × 주식수 2521003706,3
+Procter & Gamble,PG,2018Q1,2018-03-31,분기별 매출액,16281000000,USD,공시,https://www.sec.gov/Archives/edgar/data/80424/000008042418000034/,,3
+Procter & Gamble,PG,2018Q1,2018-03-31,분기별 영업이익,3209000000,USD,공시(재작성 반영),https://www.sec.gov/Archives/edgar/data/80424/000008042419000031/,원 공시 3296000000 (https://www.sec.gov/Archives/edgar/data/80424/000008042418000034/),3
+Procter & Gamble,PG,2018Q1,2018-03-31,분기별 당기순이익(지배),2511000000,USD,공시,https://www.sec.gov/Archives/edgar/data/80424/000008042418000034/,,3
+Procter & Gamble,PG,2018Q1,2018-03-31,분기별 영업활동현금흐름,3353000000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/80424/000008042418000034/ ; https://www.sec.gov/Archives/edgar/data/80424/000008042418000013/,누적 10668000000 − 직전누적 7315000000 (시작 2017-07-01),3
+Procter & Gamble,PG,2018Q1,2018-03-31,분기말 자산총계,124369000000,USD,공시,https://www.sec.gov/Archives/edgar/data/80424/000008042418000034/,,3
+Procter & Gamble,PG,2018Q1,2018-03-31,분기말 부채총계,69423000000,USD,공시,https://www.sec.gov/Archives/edgar/data/80424/000008042418000034/,,3
+Procter & Gamble,PG,2018Q1,2018-03-31,분기말 총자본(자기자본),54946000000,USD,공시,https://www.sec.gov/Archives/edgar/data/80424/000008042418000034/,,3
+Procter & Gamble,PG,2018Q1,2018-03-31,분기말 지배지분 자본,54315000000,USD,계산(총자본-비지배),https://www.sec.gov/Archives/edgar/data/80424/000008042418000034/,총자본 54946000000 − 비지배 631000000,3
+Procter & Gamble,PG,2018Q1,2018-03-29,분기말 종가,79.28,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/PG?interval=1d&events=splits (2018-03-29),,3
+Procter & Gamble,PG,2018Q1,2018-03-31,분기말 상장주식수,2514599476,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/80424/000008042418000034/,dei:EntityCommonStockSharesOutstanding 클래스 합,3
+Procter & Gamble,PG,2018Q1,2018-03-29,분기말 시가총액,199357446457,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/PG?interval=1d&events=splits (2018-03-29) ; https://www.sec.gov/Archives/edgar/data/80424/000008042418000034/,종가 79.28 × 주식수 2514599476,3
+Procter & Gamble,PG,2018Q2,2018-06-30,분기별 매출액,16503000000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/80424/000008042418000055/ ; https://www.sec.gov/Archives/edgar/data/80424/000008042418000034/,연간 66832000000 − 9개월누적 50329000000 (SalesRevenueNet),3
+Procter & Gamble,PG,2018Q2,2018-06-30,분기별 영업이익,2587000000,USD,계산(연간-3분기누적)(재작성 반영),https://www.sec.gov/Archives/edgar/data/80424/000008042420000059/ ; https://www.sec.gov/Archives/edgar/data/80424/000008042419000031/,연간 13363000000 − 9개월누적 10776000000 (OperatingIncomeLoss) ; 원 공시 2677000000 (https://www.sec.gov/Archives/edgar/data/80424/000008042418000055/ ; https://www.sec.gov/Archives/edgar/data/80424/000008042418000034/),3
+Procter & Gamble,PG,2018Q2,2018-06-30,분기별 당기순이익(지배),1891000000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/80424/000008042418000055/ ; https://www.sec.gov/Archives/edgar/data/80424/000008042418000034/,연간 9750000000 − 9개월누적 7859000000 (NetIncomeLoss),3
+Procter & Gamble,PG,2018Q2,2018-06-30,분기별 영업활동현금흐름,4199000000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/80424/000008042418000055/ ; https://www.sec.gov/Archives/edgar/data/80424/000008042418000034/,누적 14867000000 − 직전누적 10668000000 (시작 2017-07-01),3
+Procter & Gamble,PG,2018Q2,2018-06-30,분기말 자산총계,118310000000,USD,공시,https://www.sec.gov/Archives/edgar/data/80424/000008042418000055/,,3
+Procter & Gamble,PG,2018Q2,2018-06-30,분기말 부채총계,65427000000,USD,공시,https://www.sec.gov/Archives/edgar/data/80424/000008042418000055/,,3
+Procter & Gamble,PG,2018Q2,2018-06-30,분기말 총자본(자기자본),52883000000,USD,공시,https://www.sec.gov/Archives/edgar/data/80424/000008042418000055/,,3
+Procter & Gamble,PG,2018Q2,2018-06-30,분기말 지배지분 자본,52293000000,USD,계산(총자본-비지배),https://www.sec.gov/Archives/edgar/data/80424/000008042418000055/,총자본 52883000000 − 비지배 590000000,3
+Procter & Gamble,PG,2018Q2,2018-06-29,분기말 종가,78.06,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/PG?interval=1d&events=splits (2018-06-29),,3
+Procter & Gamble,PG,2018Q2,2018-07-31,분기말 상장주식수,2488011390,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/80424/000008042418000055/,dei:EntityCommonStockSharesOutstanding 클래스 합,3
+Procter & Gamble,PG,2018Q2,2018-06-29,분기말 시가총액,194214169103,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/PG?interval=1d&events=splits (2018-06-29) ; https://www.sec.gov/Archives/edgar/data/80424/000008042418000055/,종가 78.06 × 주식수 2488011390,3
+Procter & Gamble,PG,2018Q3,2018-09-30,분기별 매출액,16690000000,USD,공시,https://www.sec.gov/Archives/edgar/data/80424/000008042418000100/,,3
+Procter & Gamble,PG,2018Q3,2018-09-30,분기별 영업이익,3554000000,USD,공시,https://www.sec.gov/Archives/edgar/data/80424/000008042418000100/,,3
+Procter & Gamble,PG,2018Q3,2018-09-30,분기별 당기순이익(지배),3199000000,USD,공시,https://www.sec.gov/Archives/edgar/data/80424/000008042418000100/,,3
+Procter & Gamble,PG,2018Q3,2018-09-30,분기별 영업활동현금흐름,3567000000,USD,공시,https://www.sec.gov/Archives/edgar/data/80424/000008042418000100/,,3
+Procter & Gamble,PG,2018Q3,2018-09-30,분기말 자산총계,118440000000,USD,공시,https://www.sec.gov/Archives/edgar/data/80424/000008042418000100/,,3
+Procter & Gamble,PG,2018Q3,2018-09-30,분기말 부채총계,65936000000,USD,공시,https://www.sec.gov/Archives/edgar/data/80424/000008042418000100/,,3
+Procter & Gamble,PG,2018Q3,2018-09-30,분기말 총자본(자기자본),52504000000,USD,공시,https://www.sec.gov/Archives/edgar/data/80424/000008042418000100/,,3
+Procter & Gamble,PG,2018Q3,2018-09-30,분기말 지배지분 자본,52236000000,USD,계산(총자본-비지배),https://www.sec.gov/Archives/edgar/data/80424/000008042418000100/,총자본 52504000000 − 비지배 268000000,3
+Procter & Gamble,PG,2018Q3,2018-09-28,분기말 종가,83.23,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/PG?interval=1d&events=splits (2018-09-28),,3
+Procter & Gamble,PG,2018Q3,2018-09-30,분기말 상장주식수,2491408329,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/80424/000008042418000100/,dei:EntityCommonStockSharesOutstanding 클래스 합,3
+Procter & Gamble,PG,2018Q3,2018-09-28,분기말 시가총액,207359915223,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/PG?interval=1d&events=splits (2018-09-28) ; https://www.sec.gov/Archives/edgar/data/80424/000008042418000100/,종가 83.23 × 주식수 2491408329,3
+Procter & Gamble,PG,2018Q4,2018-12-31,분기별 매출액,17438000000,USD,공시,https://www.sec.gov/Archives/edgar/data/80424/000008042419000014/,,3
+Procter & Gamble,PG,2018Q4,2018-12-31,분기별 영업이익,3896000000,USD,공시,https://www.sec.gov/Archives/edgar/data/80424/000008042419000014/,,3
+Procter & Gamble,PG,2018Q4,2018-12-31,분기별 당기순이익(지배),3194000000,USD,계산(연결-비지배),https://www.sec.gov/Archives/edgar/data/80424/000008042419000014/,3개월 연결 3216000000 − 비지배 22000000,3
+Procter & Gamble,PG,2018Q4,2018-12-31,분기별 영업활동현금흐름,4007000000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/80424/000008042419000014/ ; https://www.sec.gov/Archives/edgar/data/80424/000008042418000100/,누적 7574000000 − 직전누적 3567000000 (시작 2018-07-01),3
+Procter & Gamble,PG,2018Q4,2018-12-31,분기말 자산총계,123687000000,USD,공시,https://www.sec.gov/Archives/edgar/data/80424/000008042419000014/,,3
+Procter & Gamble,PG,2018Q4,2018-12-31,분기말 부채총계,69244000000,USD,공시,https://www.sec.gov/Archives/edgar/data/80424/000008042419000014/,,3
+Procter & Gamble,PG,2018Q4,2018-12-31,분기말 총자본(자기자본),54443000000,USD,공시,https://www.sec.gov/Archives/edgar/data/80424/000008042419000014/,,3
+Procter & Gamble,PG,2018Q4,2018-12-31,분기말 지배지분 자본,53990000000,USD,계산(총자본-비지배),https://www.sec.gov/Archives/edgar/data/80424/000008042419000014/,총자본 54443000000 − 비지배 453000000,3
+Procter & Gamble,PG,2018Q4,2018-12-31,분기말 종가,91.92,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/PG?interval=1d&events=splits (2018-12-31),,3
+Procter & Gamble,PG,2018Q4,2018-12-31,분기말 상장주식수,2501579709,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/80424/000008042419000014/,dei:EntityCommonStockSharesOutstanding 클래스 합,3
+Procter & Gamble,PG,2018Q4,2018-12-31,분기말 시가총액,229945206851,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/PG?interval=1d&events=splits (2018-12-31) ; https://www.sec.gov/Archives/edgar/data/80424/000008042419000014/,종가 91.92 × 주식수 2501579709,3
+Procter & Gamble,PG,2019Q1,2019-03-31,분기별 매출액,16462000000,USD,공시,https://www.sec.gov/Archives/edgar/data/80424/000008042419000031/,,3
+Procter & Gamble,PG,2019Q1,2019-03-31,분기별 영업이익,3229000000,USD,공시,https://www.sec.gov/Archives/edgar/data/80424/000008042419000031/,,3
+Procter & Gamble,PG,2019Q1,2019-03-31,분기별 당기순이익(지배),2745000000,USD,공시,https://www.sec.gov/Archives/edgar/data/80424/000008042419000031/,,3
+Procter & Gamble,PG,2019Q1,2019-03-31,분기별 영업활동현금흐름,3517000000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/80424/000008042419000031/ ; https://www.sec.gov/Archives/edgar/data/80424/000008042419000014/,누적 11091000000 − 직전누적 7574000000 (시작 2018-07-01),3
+Procter & Gamble,PG,2019Q1,2019-03-31,분기말 자산총계,121673000000,USD,공시,https://www.sec.gov/Archives/edgar/data/80424/000008042419000031/,,3
+Procter & Gamble,PG,2019Q1,2019-03-31,분기말 부채총계,66121000000,USD,공시,https://www.sec.gov/Archives/edgar/data/80424/000008042419000031/,,3
+Procter & Gamble,PG,2019Q1,2019-03-31,분기말 총자본(자기자본),55552000000,USD,공시,https://www.sec.gov/Archives/edgar/data/80424/000008042419000031/,,3
+Procter & Gamble,PG,2019Q1,2019-03-31,분기말 지배지분 자본,55072000000,USD,계산(총자본-비지배),https://www.sec.gov/Archives/edgar/data/80424/000008042419000031/,총자본 55552000000 − 비지배 480000000,3
+Procter & Gamble,PG,2019Q1,2019-03-29,분기말 종가,104.05,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/PG?interval=1d&events=splits (2019-03-29),,3
+Procter & Gamble,PG,2019Q1,2019-03-31,분기말 상장주식수,2508329764,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/80424/000008042419000031/,dei:EntityCommonStockSharesOutstanding 클래스 합,3
+Procter & Gamble,PG,2019Q1,2019-03-29,분기말 시가총액,260991711944,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/PG?interval=1d&events=splits (2019-03-29) ; https://www.sec.gov/Archives/edgar/data/80424/000008042419000031/,종가 104.05 × 주식수 2508329764,3
+Procter & Gamble,PG,2019Q2,2019-06-30,분기별 매출액,17094000000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/80424/000008042419000050/ ; https://www.sec.gov/Archives/edgar/data/80424/000008042419000031/,연간 67684000000 − 9개월누적 50590000000 (Revenues),3
+Procter & Gamble,PG,2019Q2,2019-06-30,분기별 영업이익,-5192000000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/80424/000008042419000050/ ; https://www.sec.gov/Archives/edgar/data/80424/000008042419000031/,연간 5487000000 − 9개월누적 10679000000 (OperatingIncomeLoss),3
+Procter & Gamble,PG,2019Q2,2019-06-30,분기별 당기순이익(지배),-5241000000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/80424/000008042419000050/ ; https://www.sec.gov/Archives/edgar/data/80424/000008042419000031/,연간 3897000000 − 9개월누적 9138000000 (NetIncomeLoss),3
+Procter & Gamble,PG,2019Q2,2019-06-30,분기별 영업활동현금흐름,4151000000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/80424/000008042419000050/ ; https://www.sec.gov/Archives/edgar/data/80424/000008042419000031/,누적 15242000000 − 직전누적 11091000000 (시작 2018-07-01),3
+Procter & Gamble,PG,2019Q2,2019-06-30,분기말 자산총계,115095000000,USD,공시,https://www.sec.gov/Archives/edgar/data/80424/000008042419000050/,,3
+Procter & Gamble,PG,2019Q2,2019-06-30,분기말 부채총계,67516000000,USD,공시,https://www.sec.gov/Archives/edgar/data/80424/000008042419000050/,,3
+Procter & Gamble,PG,2019Q2,2019-06-30,분기말 총자본(자기자본),47579000000,USD,공시,https://www.sec.gov/Archives/edgar/data/80424/000008042419000050/,,3
+Procter & Gamble,PG,2019Q2,2019-06-30,분기말 지배지분 자본,47194000000,USD,계산(총자본-비지배),https://www.sec.gov/Archives/edgar/data/80424/000008042419000050/,총자본 47579000000 − 비지배 385000000,3
+Procter & Gamble,PG,2019Q2,2019-06-28,분기말 종가,109.65,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/PG?interval=1d&events=splits (2019-06-28),,3
+Procter & Gamble,PG,2019Q2,2019-06-30,분기말 상장주식수,2502259668,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/80424/000008042419000050/,dei:EntityCommonStockSharesOutstanding 클래스 합,3
+Procter & Gamble,PG,2019Q2,2019-06-28,분기말 시가총액,274372772596,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/PG?interval=1d&events=splits (2019-06-28) ; https://www.sec.gov/Archives/edgar/data/80424/000008042419000050/,종가 109.65 × 주식수 2502259668,3
+Procter & Gamble,PG,2019Q3,2019-09-30,분기별 매출액,17798000000,USD,공시,https://www.sec.gov/Archives/edgar/data/80424/000008042419000086/,,3
+Procter & Gamble,PG,2019Q3,2019-09-30,분기별 영업이익,4290000000,USD,공시,https://www.sec.gov/Archives/edgar/data/80424/000008042419000086/,,3
+Procter & Gamble,PG,2019Q3,2019-09-30,분기별 당기순이익(지배),3593000000,USD,계산(연결-비지배),https://www.sec.gov/Archives/edgar/data/80424/000008042419000086/,3개월 연결 3617000000 − 비지배 24000000,3
+Procter & Gamble,PG,2019Q3,2019-09-30,분기별 영업활동현금흐름,4169000000,USD,공시,https://www.sec.gov/Archives/edgar/data/80424/000008042419000086/,,3
+Procter & Gamble,PG,2019Q3,2019-09-30,분기말 자산총계,114058000000,USD,공시,https://www.sec.gov/Archives/edgar/data/80424/000008042419000086/,,3
+Procter & Gamble,PG,2019Q3,2019-09-30,분기말 부채총계,67074000000,USD,공시,https://www.sec.gov/Archives/edgar/data/80424/000008042419000086/,,3
+Procter & Gamble,PG,2019Q3,2019-09-30,분기말 총자본(자기자본),46984000000,USD,공시,https://www.sec.gov/Archives/edgar/data/80424/000008042419000086/,,3
+Procter & Gamble,PG,2019Q3,2019-09-30,분기말 지배지분 자본,46578000000,USD,계산(총자본-비지배),https://www.sec.gov/Archives/edgar/data/80424/000008042419000086/,총자본 46984000000 − 비지배 406000000,3
+Procter & Gamble,PG,2019Q3,2019-09-30,분기말 종가,124.38,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/PG?interval=1d&events=splits (2019-09-30),,3
+Procter & Gamble,PG,2019Q3,2019-09-30,분기말 상장주식수,2493812048,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/80424/000008042419000086/,dei:EntityCommonStockSharesOutstanding 클래스 합,3
+Procter & Gamble,PG,2019Q3,2019-09-30,분기말 시가총액,310180342530,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/PG?interval=1d&events=splits (2019-09-30) ; https://www.sec.gov/Archives/edgar/data/80424/000008042419000086/,종가 124.38 × 주식수 2493812048,3
+Procter & Gamble,PG,2019Q4,2019-12-31,분기별 매출액,18240000000,USD,공시,https://www.sec.gov/Archives/edgar/data/80424/000008042420000017/,,3
+Procter & Gamble,PG,2019Q4,2019-12-31,분기별 영업이익,4482000000,USD,공시,https://www.sec.gov/Archives/edgar/data/80424/000008042420000017/,,3
+Procter & Gamble,PG,2019Q4,2019-12-31,분기별 당기순이익(지배),3717000000,USD,계산(연결-비지배),https://www.sec.gov/Archives/edgar/data/80424/000008042420000017/,3개월 연결 3743000000 − 비지배 26000000,3
+Procter & Gamble,PG,2019Q4,2019-12-31,분기별 영업활동현금흐름,4364000000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/80424/000008042420000017/ ; https://www.sec.gov/Archives/edgar/data/80424/000008042419000086/,누적 8533000000 − 직전누적 4169000000 (시작 2019-07-01),3
+Procter & Gamble,PG,2019Q4,2019-12-31,분기말 자산총계,111723000000,USD,공시,https://www.sec.gov/Archives/edgar/data/80424/000008042420000017/,,3
+Procter & Gamble,PG,2019Q4,2019-12-31,분기말 부채총계,65815000000,USD,공시,https://www.sec.gov/Archives/edgar/data/80424/000008042420000017/,,3
+Procter & Gamble,PG,2019Q4,2019-12-31,분기말 총자본(자기자본),45908000000,USD,공시,https://www.sec.gov/Archives/edgar/data/80424/000008042420000017/,,3
+Procter & Gamble,PG,2019Q4,2019-12-31,분기말 지배지분 자본,45538000000,USD,계산(총자본-비지배),https://www.sec.gov/Archives/edgar/data/80424/000008042420000017/,총자본 45908000000 − 비지배 370000000,3
+Procter & Gamble,PG,2019Q4,2019-12-31,분기말 종가,124.9,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/PG?interval=1d&events=splits (2019-12-31),,3
+Procter & Gamble,PG,2019Q4,2019-12-31,분기말 상장주식수,2469452884,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/80424/000008042420000017/,dei:EntityCommonStockSharesOutstanding 클래스 합,3
+Procter & Gamble,PG,2019Q4,2019-12-31,분기말 시가총액,308434665212,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/PG?interval=1d&events=splits (2019-12-31) ; https://www.sec.gov/Archives/edgar/data/80424/000008042420000017/,종가 124.9 × 주식수 2469452884,3
+Procter & Gamble,PG,2020Q1,2020-03-31,분기별 매출액,17214000000,USD,공시,https://www.sec.gov/Archives/edgar/data/80424/000008042420000038/,,3
+Procter & Gamble,PG,2020Q1,2020-03-31,분기별 영업이익,3453000000,USD,공시,https://www.sec.gov/Archives/edgar/data/80424/000008042420000038/,,3
+Procter & Gamble,PG,2020Q1,2020-03-31,분기별 당기순이익(지배),2917000000,USD,계산(연결-비지배),https://www.sec.gov/Archives/edgar/data/80424/000008042420000038/,3개월 연결 2957000000 − 비지배 40000000,3
+Procter & Gamble,PG,2020Q1,2020-03-31,분기별 영업활동현금흐름,4064000000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/80424/000008042420000038/ ; https://www.sec.gov/Archives/edgar/data/80424/000008042420000017/,누적 12597000000 − 직전누적 8533000000 (시작 2019-07-01),3
+Procter & Gamble,PG,2020Q1,2020-03-31,분기말 자산총계,118560000000,USD,공시,https://www.sec.gov/Archives/edgar/data/80424/000008042420000038/,,3
+Procter & Gamble,PG,2020Q1,2020-03-31,분기말 부채총계,72619000000,USD,공시,https://www.sec.gov/Archives/edgar/data/80424/000008042420000038/,,3
+Procter & Gamble,PG,2020Q1,2020-03-31,분기말 총자본(자기자본),45941000000,USD,공시,https://www.sec.gov/Archives/edgar/data/80424/000008042420000038/,,3
+Procter & Gamble,PG,2020Q1,2020-03-31,분기말 지배지분 자본,45540000000,USD,계산(총자본-비지배),https://www.sec.gov/Archives/edgar/data/80424/000008042420000038/,총자본 45941000000 − 비지배 401000000,3
+Procter & Gamble,PG,2020Q1,2020-03-31,분기말 종가,110.0,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/PG?interval=1d&events=splits (2020-03-31),,3
+Procter & Gamble,PG,2020Q1,2020-03-31,분기말 상장주식수,2475642613,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/80424/000008042420000038/,dei:EntityCommonStockSharesOutstanding 클래스 합,3
+Procter & Gamble,PG,2020Q1,2020-03-31,분기말 시가총액,272320687430,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/PG?interval=1d&events=splits (2020-03-31) ; https://www.sec.gov/Archives/edgar/data/80424/000008042420000038/,종가 110.0 × 주식수 2475642613,3
+Procter & Gamble,PG,2020Q2,2020-06-30,분기별 매출액,17698000000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/80424/000008042420000059/ ; https://www.sec.gov/Archives/edgar/data/80424/000008042420000038/,연간 70950000000 − 9개월누적 53252000000 (Revenues),3
+Procter & Gamble,PG,2020Q2,2020-06-30,분기별 영업이익,3481000000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/80424/000008042420000059/ ; https://www.sec.gov/Archives/edgar/data/80424/000008042420000038/,연간 15706000000 − 9개월누적 12225000000 (OperatingIncomeLoss),3
+Procter & Gamble,PG,2020Q2,2020-06-30,분기별 당기순이익(지배),2800000000,USD,계산(연간(연결-비지배)-3분기누적),https://www.sec.gov/Archives/edgar/data/80424/000008042420000059/ ; https://www.sec.gov/Archives/edgar/data/80424/000008042420000038/,연간 연결 13103000000 − 비지배 76000000 − (9개월 연결 10317000000 − 비지배 90000000),3
+Procter & Gamble,PG,2020Q2,2020-06-30,분기별 영업활동현금흐름,4806000000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/80424/000008042420000059/ ; https://www.sec.gov/Archives/edgar/data/80424/000008042420000038/,누적 17403000000 − 직전누적 12597000000 (시작 2019-07-01),3
+Procter & Gamble,PG,2020Q2,2020-06-30,분기말 자산총계,120700000000,USD,공시,https://www.sec.gov/Archives/edgar/data/80424/000008042420000059/,,3
+Procter & Gamble,PG,2020Q2,2020-06-30,분기말 부채총계,73822000000,USD,공시,https://www.sec.gov/Archives/edgar/data/80424/000008042420000059/,,3
+Procter & Gamble,PG,2020Q2,2020-06-30,분기말 총자본(자기자본),46878000000,USD,공시,https://www.sec.gov/Archives/edgar/data/80424/000008042420000059/,,3
+Procter & Gamble,PG,2020Q2,2020-06-30,분기말 지배지분 자본,46521000000,USD,계산(총자본-비지배),https://www.sec.gov/Archives/edgar/data/80424/000008042420000059/,총자본 46878000000 − 비지배 357000000,3
+Procter & Gamble,PG,2020Q2,2020-06-30,분기말 종가,119.57,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/PG?interval=1d&events=splits (2020-06-30),,3
+Procter & Gamble,PG,2020Q2,2020-07-31,분기말 상장주식수,2486086692,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/80424/000008042420000059/,dei:EntityCommonStockSharesOutstanding 클래스 합,3
+Procter & Gamble,PG,2020Q2,2020-06-30,분기말 시가총액,297261385762,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/PG?interval=1d&events=splits (2020-06-30) ; https://www.sec.gov/Archives/edgar/data/80424/000008042420000059/,종가 119.57 × 주식수 2486086692,3
+Procter & Gamble,PG,2020Q3,2020-09-30,분기별 매출액,19318000000,USD,공시,https://www.sec.gov/Archives/edgar/data/80424/000008042420000097/,,3
+Procter & Gamble,PG,2020Q3,2020-09-30,분기별 영업이익,5281000000,USD,공시,https://www.sec.gov/Archives/edgar/data/80424/000008042420000097/,,3
+Procter & Gamble,PG,2020Q3,2020-09-30,분기별 당기순이익(지배),4277000000,USD,계산(연결-비지배),https://www.sec.gov/Archives/edgar/data/80424/000008042420000097/,3개월 연결 4308000000 − 비지배 31000000,3
+Procter & Gamble,PG,2020Q3,2020-09-30,분기별 영업활동현금흐름,4739000000,USD,공시,https://www.sec.gov/Archives/edgar/data/80424/000008042420000097/,,3
+Procter & Gamble,PG,2020Q3,2020-09-30,분기말 자산총계,119899000000,USD,공시,https://www.sec.gov/Archives/edgar/data/80424/000008042420000097/,,3
+Procter & Gamble,PG,2020Q3,2020-09-30,분기말 부채총계,71323000000,USD,공시,https://www.sec.gov/Archives/edgar/data/80424/000008042420000097/,,3
+Procter & Gamble,PG,2020Q3,2020-09-30,분기말 총자본(자기자본),48576000000,USD,공시,https://www.sec.gov/Archives/edgar/data/80424/000008042420000097/,,3
+Procter & Gamble,PG,2020Q3,2020-09-30,분기말 지배지분 자본,48182000000,USD,계산(총자본-비지배),https://www.sec.gov/Archives/edgar/data/80424/000008042420000097/,총자본 48576000000 − 비지배 394000000,3
+Procter & Gamble,PG,2020Q3,2020-09-30,분기말 종가,138.99,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/PG?interval=1d&events=splits (2020-09-30),,3
+Procter & Gamble,PG,2020Q3,2020-09-30,분기말 상장주식수,2479605893,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/80424/000008042420000097/,dei:EntityCommonStockSharesOutstanding 클래스 합,3
+Procter & Gamble,PG,2020Q3,2020-09-30,분기말 시가총액,344640423068,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/PG?interval=1d&events=splits (2020-09-30) ; https://www.sec.gov/Archives/edgar/data/80424/000008042420000097/,종가 138.99 × 주식수 2479605893,3
+Procter & Gamble,PG,2020Q4,2020-12-31,분기별 매출액,19745000000,USD,공시,https://www.sec.gov/Archives/edgar/data/80424/000008042421000026/,,3
+Procter & Gamble,PG,2020Q4,2020-12-31,분기별 영업이익,5380000000,USD,공시,https://www.sec.gov/Archives/edgar/data/80424/000008042421000026/,,3
+Procter & Gamble,PG,2020Q4,2020-12-31,분기별 당기순이익(지배),3854000000,USD,공시,https://www.sec.gov/Archives/edgar/data/80424/000008042421000026/,,3
+Procter & Gamble,PG,2020Q4,2020-12-31,분기별 영업활동현금흐름,5424000000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/80424/000008042421000026/ ; https://www.sec.gov/Archives/edgar/data/80424/000008042420000097/,누적 10163000000 − 직전누적 4739000000 (시작 2020-07-01),3
+Procter & Gamble,PG,2020Q4,2020-12-31,분기말 자산총계,120112000000,USD,공시,https://www.sec.gov/Archives/edgar/data/80424/000008042421000026/,,3
+Procter & Gamble,PG,2020Q4,2020-12-31,분기말 부채총계,71572000000,USD,공시,https://www.sec.gov/Archives/edgar/data/80424/000008042421000026/,,3
+Procter & Gamble,PG,2020Q4,2020-12-31,분기말 총자본(자기자본),48540000000,USD,공시,https://www.sec.gov/Archives/edgar/data/80424/000008042421000026/,,3
+Procter & Gamble,PG,2020Q4,2020-12-31,분기말 지배지분 자본,48181000000,USD,계산(총자본-비지배),https://www.sec.gov/Archives/edgar/data/80424/000008042421000026/,총자본 48540000000 − 비지배 359000000,3
+Procter & Gamble,PG,2020Q4,2020-12-31,분기말 종가,139.14,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/PG?interval=1d&events=splits (2020-12-31),,3
+Procter & Gamble,PG,2020Q4,2020-12-31,분기말 상장주식수,2462476044,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/80424/000008042421000026/,dei:EntityCommonStockSharesOutstanding 클래스 합,3
+Procter & Gamble,PG,2020Q4,2020-12-31,분기말 시가총액,342628916762,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/PG?interval=1d&events=splits (2020-12-31) ; https://www.sec.gov/Archives/edgar/data/80424/000008042421000026/,종가 139.14 × 주식수 2462476044,3
+Procter & Gamble,PG,2021Q1,2021-03-31,분기별 매출액,18109000000,USD,공시,https://www.sec.gov/Archives/edgar/data/80424/000008042421000062/,,3
+Procter & Gamble,PG,2021Q1,2021-03-31,분기별 영업이익,3785000000,USD,공시,https://www.sec.gov/Archives/edgar/data/80424/000008042421000062/,,3
+Procter & Gamble,PG,2021Q1,2021-03-31,분기별 당기순이익(지배),3269000000,USD,공시,https://www.sec.gov/Archives/edgar/data/80424/000008042421000062/,,3
+Procter & Gamble,PG,2021Q1,2021-03-31,분기별 영업활동현금흐름,4087000000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/80424/000008042421000062/ ; https://www.sec.gov/Archives/edgar/data/80424/000008042421000026/,누적 14250000000 − 직전누적 10163000000 (시작 2020-07-01),3
+Procter & Gamble,PG,2021Q1,2021-03-31,분기말 자산총계,116778000000,USD,공시,https://www.sec.gov/Archives/edgar/data/80424/000008042421000062/,,3
+Procter & Gamble,PG,2021Q1,2021-03-31,분기말 부채총계,69859000000,USD,공시,https://www.sec.gov/Archives/edgar/data/80424/000008042421000062/,,3
+Procter & Gamble,PG,2021Q1,2021-03-31,분기말 총자본(자기자본),46919000000,USD,공시,https://www.sec.gov/Archives/edgar/data/80424/000008042421000062/,,3
+Procter & Gamble,PG,2021Q1,2021-03-31,분기말 지배지분 자본,46596000000,USD,계산(총자본-비지배),https://www.sec.gov/Archives/edgar/data/80424/000008042421000062/,총자본 46919000000 − 비지배 323000000,3
+Procter & Gamble,PG,2021Q1,2021-03-31,분기말 종가,135.43,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/PG?interval=1d&events=splits (2021-03-31),,3
+Procter & Gamble,PG,2021Q1,2021-03-31,분기말 상장주식수,2448232786,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/80424/000008042421000062/,dei:EntityCommonStockSharesOutstanding 클래스 합,3
+Procter & Gamble,PG,2021Q1,2021-03-31,분기말 시가총액,331564166208,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/PG?interval=1d&events=splits (2021-03-31) ; https://www.sec.gov/Archives/edgar/data/80424/000008042421000062/,종가 135.43 × 주식수 2448232786,3
+Procter & Gamble,PG,2021Q2,2021-06-30,분기별 매출액,18946000000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/80424/000008042421000100/ ; https://www.sec.gov/Archives/edgar/data/80424/000008042421000062/,연간 76118000000 − 9개월누적 57172000000 (Revenues),3
+Procter & Gamble,PG,2021Q2,2021-06-30,분기별 영업이익,3540000000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/80424/000008042421000100/ ; https://www.sec.gov/Archives/edgar/data/80424/000008042421000062/,연간 17986000000 − 9개월누적 14446000000 (OperatingIncomeLoss),3
+Procter & Gamble,PG,2021Q2,2021-06-30,분기별 당기순이익(지배),2906000000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/80424/000008042421000100/ ; https://www.sec.gov/Archives/edgar/data/80424/000008042421000062/,연간 14306000000 − 9개월누적 11400000000 (NetIncomeLoss),3
+Procter & Gamble,PG,2021Q2,2021-06-30,분기별 영업활동현금흐름,4121000000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/80424/000008042421000100/ ; https://www.sec.gov/Archives/edgar/data/80424/000008042421000062/,누적 18371000000 − 직전누적 14250000000 (시작 2020-07-01),3
+Procter & Gamble,PG,2021Q2,2021-06-30,분기말 자산총계,119307000000,USD,공시,https://www.sec.gov/Archives/edgar/data/80424/000008042421000100/,,3
+Procter & Gamble,PG,2021Q2,2021-06-30,분기말 부채총계,72653000000,USD,공시,https://www.sec.gov/Archives/edgar/data/80424/000008042421000100/,,3
+Procter & Gamble,PG,2021Q2,2021-06-30,분기말 총자본(자기자본),46654000000,USD,공시,https://www.sec.gov/Archives/edgar/data/80424/000008042421000100/,,3
+Procter & Gamble,PG,2021Q2,2021-06-30,분기말 지배지분 자본,46378000000,USD,계산(총자본-비지배),https://www.sec.gov/Archives/edgar/data/80424/000008042421000100/,총자본 46654000000 − 비지배 276000000,3
+Procter & Gamble,PG,2021Q2,2021-06-30,분기말 종가,134.93,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/PG?interval=1d&events=splits (2021-06-30),,3
+Procter & Gamble,PG,2021Q2,2021-07-31,분기말 상장주식수,2427424874,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/80424/000008042421000100/,dei:EntityCommonStockSharesOutstanding 클래스 합,3
+Procter & Gamble,PG,2021Q2,2021-06-30,분기말 시가총액,327532438249,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/PG?interval=1d&events=splits (2021-06-30) ; https://www.sec.gov/Archives/edgar/data/80424/000008042421000100/,종가 134.93 × 주식수 2427424874,3
+Procter & Gamble,PG,2021Q3,2021-09-30,분기별 매출액,20338000000,USD,공시,https://www.sec.gov/Archives/edgar/data/80424/000008042421000129/,,3
+Procter & Gamble,PG,2021Q3,2021-09-30,분기별 영업이익,5023000000,USD,공시,https://www.sec.gov/Archives/edgar/data/80424/000008042421000129/,,3
+Procter & Gamble,PG,2021Q3,2021-09-30,분기별 당기순이익(지배),4112000000,USD,공시,https://www.sec.gov/Archives/edgar/data/80424/000008042421000129/,,3
+Procter & Gamble,PG,2021Q3,2021-09-30,분기별 영업활동현금흐름,4643000000,USD,공시,https://www.sec.gov/Archives/edgar/data/80424/000008042421000129/,,3
+Procter & Gamble,PG,2021Q3,2021-09-30,분기말 자산총계,119669000000,USD,공시,https://www.sec.gov/Archives/edgar/data/80424/000008042421000129/,,3
+Procter & Gamble,PG,2021Q3,2021-09-30,분기말 부채총계,73261000000,USD,공시,https://www.sec.gov/Archives/edgar/data/80424/000008042421000129/,,3
+Procter & Gamble,PG,2021Q3,2021-09-30,분기말 총자본(자기자본),46408000000,USD,공시,https://www.sec.gov/Archives/edgar/data/80424/000008042421000129/,,3
+Procter & Gamble,PG,2021Q3,2021-09-30,분기말 지배지분 자본,46111000000,USD,계산(총자본-비지배),https://www.sec.gov/Archives/edgar/data/80424/000008042421000129/,총자본 46408000000 − 비지배 297000000,3
+Procter & Gamble,PG,2021Q3,2021-09-30,분기말 종가,139.8,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/PG?interval=1d&events=splits (2021-09-30),,3
+Procter & Gamble,PG,2021Q3,2021-09-30,분기말 상장주식수,2419947819,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/80424/000008042421000129/,dei:EntityCommonStockSharesOutstanding 클래스 합,3
+Procter & Gamble,PG,2021Q3,2021-09-30,분기말 시가총액,338308705096,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/PG?interval=1d&events=splits (2021-09-30) ; https://www.sec.gov/Archives/edgar/data/80424/000008042421000129/,종가 139.8 × 주식수 2419947819,3
+Procter & Gamble,PG,2021Q4,2021-12-31,분기별 매출액,20953000000,USD,공시,https://www.sec.gov/Archives/edgar/data/80424/000008042422000016/,,3
+Procter & Gamble,PG,2021Q4,2021-12-31,분기별 영업이익,5168000000,USD,공시,https://www.sec.gov/Archives/edgar/data/80424/000008042422000016/,,3
+Procter & Gamble,PG,2021Q4,2021-12-31,분기별 당기순이익(지배),4223000000,USD,공시,https://www.sec.gov/Archives/edgar/data/80424/000008042422000016/,,3
+Procter & Gamble,PG,2021Q4,2021-12-31,분기별 영업활동현금흐름,5121000000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/80424/000008042422000016/ ; https://www.sec.gov/Archives/edgar/data/80424/000008042421000129/,누적 9764000000 − 직전누적 4643000000 (시작 2021-07-01),3
+Procter & Gamble,PG,2021Q4,2021-12-31,분기말 자산총계,121416000000,USD,공시,https://www.sec.gov/Archives/edgar/data/80424/000008042422000016/,,3
+Procter & Gamble,PG,2021Q4,2021-12-31,분기말 부채총계,76523000000,USD,공시,https://www.sec.gov/Archives/edgar/data/80424/000008042422000016/,,3
+Procter & Gamble,PG,2021Q4,2021-12-31,분기말 총자본(자기자본),44893000000,USD,공시,https://www.sec.gov/Archives/edgar/data/80424/000008042422000016/,,3
+Procter & Gamble,PG,2021Q4,2021-12-31,분기말 지배지분 자본,44618000000,USD,계산(총자본-비지배),https://www.sec.gov/Archives/edgar/data/80424/000008042422000016/,총자본 44893000000 − 비지배 275000000,3
+Procter & Gamble,PG,2021Q4,2021-12-31,분기말 종가,163.58,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/PG?interval=1d&events=splits (2021-12-31),,3
+Procter & Gamble,PG,2021Q4,2021-12-31,분기말 상장주식수,2397065706,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/80424/000008042422000016/,dei:EntityCommonStockSharesOutstanding 클래스 합,3
+Procter & Gamble,PG,2021Q4,2021-12-31,분기말 시가총액,392112008187,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/PG?interval=1d&events=splits (2021-12-31) ; https://www.sec.gov/Archives/edgar/data/80424/000008042422000016/,종가 163.58 × 주식수 2397065706,3
+Procter & Gamble,PG,2022Q1,2022-03-31,분기별 매출액,19381000000,USD,공시,https://www.sec.gov/Archives/edgar/data/80424/000008042422000035/,,3
+Procter & Gamble,PG,2022Q1,2022-03-31,분기별 영업이익,4024000000,USD,공시,https://www.sec.gov/Archives/edgar/data/80424/000008042422000035/,,3
+Procter & Gamble,PG,2022Q1,2022-03-31,분기별 당기순이익(지배),3355000000,USD,공시,https://www.sec.gov/Archives/edgar/data/80424/000008042422000035/,,3
+Procter & Gamble,PG,2022Q1,2022-03-31,분기별 영업활동현금흐름,3246000000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/80424/000008042422000035/ ; https://www.sec.gov/Archives/edgar/data/80424/000008042422000016/,누적 13010000000 − 직전누적 9764000000 (시작 2021-07-01),3
+Procter & Gamble,PG,2022Q1,2022-03-31,분기말 자산총계,120217000000,USD,공시,https://www.sec.gov/Archives/edgar/data/80424/000008042422000035/,,3
+Procter & Gamble,PG,2022Q1,2022-03-31,분기말 부채총계,74471000000,USD,공시,https://www.sec.gov/Archives/edgar/data/80424/000008042422000035/,,3
+Procter & Gamble,PG,2022Q1,2022-03-31,분기말 총자본(자기자본),45746000000,USD,공시,https://www.sec.gov/Archives/edgar/data/80424/000008042422000035/,,3
+Procter & Gamble,PG,2022Q1,2022-03-31,분기말 지배지분 자본,45478000000,USD,계산(총자본-비지배),https://www.sec.gov/Archives/edgar/data/80424/000008042422000035/,총자본 45746000000 − 비지배 268000000,3
+Procter & Gamble,PG,2022Q1,2022-03-31,분기말 종가,152.8,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/PG?interval=1d&events=splits (2022-03-31),,3
+Procter & Gamble,PG,2022Q1,2022-03-31,분기말 상장주식수,2399296841,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/80424/000008042422000035/,dei:EntityCommonStockSharesOutstanding 클래스 합,3
+Procter & Gamble,PG,2022Q1,2022-03-31,분기말 시가총액,366612557305,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/PG?interval=1d&events=splits (2022-03-31) ; https://www.sec.gov/Archives/edgar/data/80424/000008042422000035/,종가 152.8 × 주식수 2399296841,3
+Procter & Gamble,PG,2022Q2,2022-06-30,분기별 매출액,19515000000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/80424/000008042422000064/ ; https://www.sec.gov/Archives/edgar/data/80424/000008042422000035/,연간 80187000000 − 9개월누적 60672000000 (Revenues),3
+Procter & Gamble,PG,2022Q2,2022-06-30,분기별 영업이익,3598000000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/80424/000008042422000064/ ; https://www.sec.gov/Archives/edgar/data/80424/000008042422000035/,연간 17813000000 − 9개월누적 14215000000 (OperatingIncomeLoss),3
+Procter & Gamble,PG,2022Q2,2022-06-30,분기별 당기순이익(지배),3052000000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/80424/000008042422000064/ ; https://www.sec.gov/Archives/edgar/data/80424/000008042422000035/,연간 14742000000 − 9개월누적 11690000000 (NetIncomeLoss),3
+Procter & Gamble,PG,2022Q2,2022-06-30,분기별 영업활동현금흐름,3713000000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/80424/000008042422000064/ ; https://www.sec.gov/Archives/edgar/data/80424/000008042422000035/,누적 16723000000 − 직전누적 13010000000 (시작 2021-07-01),3
+Procter & Gamble,PG,2022Q2,2022-06-30,분기말 자산총계,117208000000,USD,공시,https://www.sec.gov/Archives/edgar/data/80424/000008042422000064/,,3
+Procter & Gamble,PG,2022Q2,2022-06-30,분기말 부채총계,70354000000,USD,공시,https://www.sec.gov/Archives/edgar/data/80424/000008042422000064/,,3
+Procter & Gamble,PG,2022Q2,2022-06-30,분기말 총자본(자기자본),46854000000,USD,공시,https://www.sec.gov/Archives/edgar/data/80424/000008042422000064/,,3
+Procter & Gamble,PG,2022Q2,2022-06-30,분기말 지배지분 자본,46589000000,USD,계산(총자본-비지배),https://www.sec.gov/Archives/edgar/data/80424/000008042422000064/,총자본 46854000000 − 비지배 265000000,3
+Procter & Gamble,PG,2022Q2,2022-06-30,분기말 종가,143.79,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/PG?interval=1d&events=splits (2022-06-30),,3
+Procter & Gamble,PG,2022Q2,2022-07-31,분기말 상장주식수,2389553883,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/80424/000008042422000064/,dei:EntityCommonStockSharesOutstanding 클래스 합,3
+Procter & Gamble,PG,2022Q2,2022-06-30,분기말 시가총액,343593952837,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/PG?interval=1d&events=splits (2022-06-30) ; https://www.sec.gov/Archives/edgar/data/80424/000008042422000064/,종가 143.79 × 주식수 2389553883,3
+Procter & Gamble,PG,2022Q3,2022-09-30,분기별 매출액,20612000000,USD,공시,https://www.sec.gov/Archives/edgar/data/80424/000008042422000102/,,3
+Procter & Gamble,PG,2022Q3,2022-09-30,분기별 영업이익,4939000000,USD,공시,https://www.sec.gov/Archives/edgar/data/80424/000008042422000102/,,3
+Procter & Gamble,PG,2022Q3,2022-09-30,분기별 당기순이익(지배),3939000000,USD,공시,https://www.sec.gov/Archives/edgar/data/80424/000008042422000102/,,3
+Procter & Gamble,PG,2022Q3,2022-09-30,분기별 영업활동현금흐름,4070000000,USD,공시,https://www.sec.gov/Archives/edgar/data/80424/000008042422000102/,,3
+Procter & Gamble,PG,2022Q3,2022-09-30,분기말 자산총계,116282000000,USD,공시,https://www.sec.gov/Archives/edgar/data/80424/000008042422000102/,,3
+Procter & Gamble,PG,2022Q3,2022-09-30,분기말 부채총계,71948000000,USD,공시,https://www.sec.gov/Archives/edgar/data/80424/000008042422000102/,,3
+Procter & Gamble,PG,2022Q3,2022-09-30,분기말 총자본(자기자본),44334000000,USD,공시,https://www.sec.gov/Archives/edgar/data/80424/000008042422000102/,,3
+Procter & Gamble,PG,2022Q3,2022-09-30,분기말 지배지분 자본,44075000000,USD,계산(총자본-비지배),https://www.sec.gov/Archives/edgar/data/80424/000008042422000102/,총자본 44334000000 − 비지배 259000000,3
+Procter & Gamble,PG,2022Q3,2022-09-30,분기말 종가,126.25,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/PG?interval=1d&events=splits (2022-09-30),,3
+Procter & Gamble,PG,2022Q3,2022-09-30,분기말 상장주식수,2369696862,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/80424/000008042422000102/,dei:EntityCommonStockSharesOutstanding 클래스 합,3
+Procter & Gamble,PG,2022Q3,2022-09-30,분기말 시가총액,299174228828,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/PG?interval=1d&events=splits (2022-09-30) ; https://www.sec.gov/Archives/edgar/data/80424/000008042422000102/,종가 126.25 × 주식수 2369696862,3
+Procter & Gamble,PG,2022Q4,2022-12-31,분기별 매출액,20773000000,USD,공시,https://www.sec.gov/Archives/edgar/data/80424/000008042423000014/,,3
+Procter & Gamble,PG,2022Q4,2022-12-31,분기별 영업이익,4785000000,USD,공시,https://www.sec.gov/Archives/edgar/data/80424/000008042423000014/,,3
+Procter & Gamble,PG,2022Q4,2022-12-31,분기별 당기순이익(지배),3933000000,USD,공시,https://www.sec.gov/Archives/edgar/data/80424/000008042423000014/,,3
+Procter & Gamble,PG,2022Q4,2022-12-31,분기별 영업활동현금흐름,3574000000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/80424/000008042423000014/ ; https://www.sec.gov/Archives/edgar/data/80424/000008042422000102/,누적 7644000000 − 직전누적 4070000000 (시작 2022-07-01),3
+Procter & Gamble,PG,2022Q4,2022-12-31,분기말 자산총계,117715000000,USD,공시,https://www.sec.gov/Archives/edgar/data/80424/000008042423000014/,,3
+Procter & Gamble,PG,2022Q4,2022-12-31,분기말 부채총계,72990000000,USD,공시,https://www.sec.gov/Archives/edgar/data/80424/000008042423000014/,,3
+Procter & Gamble,PG,2022Q4,2022-12-31,분기말 총자본(자기자본),44725000000,USD,공시,https://www.sec.gov/Archives/edgar/data/80424/000008042423000014/,,3
+Procter & Gamble,PG,2022Q4,2022-12-31,분기말 지배지분 자본,44455000000,USD,계산(총자본-비지배),https://www.sec.gov/Archives/edgar/data/80424/000008042423000014/,총자본 44725000000 − 비지배 270000000,3
+Procter & Gamble,PG,2022Q4,2022-12-30,분기말 종가,151.56,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/PG?interval=1d&events=splits (2022-12-30),,3
+Procter & Gamble,PG,2022Q4,2022-12-31,분기말 상장주식수,2359144096,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/80424/000008042423000014/,dei:EntityCommonStockSharesOutstanding 클래스 합,3
+Procter & Gamble,PG,2022Q4,2022-12-30,분기말 시가총액,357551879190,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/PG?interval=1d&events=splits (2022-12-30) ; https://www.sec.gov/Archives/edgar/data/80424/000008042423000014/,종가 151.56 × 주식수 2359144096,3
+Procter & Gamble,PG,2023Q1,2023-03-31,분기별 매출액,20068000000,USD,공시,https://www.sec.gov/Archives/edgar/data/80424/000008042423000046/,,3
+Procter & Gamble,PG,2023Q1,2023-03-31,분기별 영업이익,4248000000,USD,공시,https://www.sec.gov/Archives/edgar/data/80424/000008042423000046/,,3
+Procter & Gamble,PG,2023Q1,2023-03-31,분기별 당기순이익(지배),3397000000,USD,공시,https://www.sec.gov/Archives/edgar/data/80424/000008042423000046/,,3
+Procter & Gamble,PG,2023Q1,2023-03-31,분기별 영업활동현금흐름,3863000000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/80424/000008042423000046/ ; https://www.sec.gov/Archives/edgar/data/80424/000008042423000014/,누적 11507000000 − 직전누적 7644000000 (시작 2022-07-01),3
+Procter & Gamble,PG,2023Q1,2023-03-31,분기말 자산총계,119851000000,USD,공시,https://www.sec.gov/Archives/edgar/data/80424/000008042423000046/,,3
+Procter & Gamble,PG,2023Q1,2023-03-31,분기말 부채총계,74430000000,USD,공시,https://www.sec.gov/Archives/edgar/data/80424/000008042423000046/,,3
+Procter & Gamble,PG,2023Q1,2023-03-31,분기말 총자본(자기자본),45421000000,USD,공시,https://www.sec.gov/Archives/edgar/data/80424/000008042423000046/,,3
+Procter & Gamble,PG,2023Q1,2023-03-31,분기말 지배지분 자본,45140000000,USD,계산(총자본-비지배),https://www.sec.gov/Archives/edgar/data/80424/000008042423000046/,총자본 45421000000 − 비지배 281000000,3
+Procter & Gamble,PG,2023Q1,2023-03-31,분기말 종가,148.69,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/PG?interval=1d&events=splits (2023-03-31),,3
+Procter & Gamble,PG,2023Q1,2023-03-31,분기말 상장주식수,2356969322,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/80424/000008042423000046/,dei:EntityCommonStockSharesOutstanding 클래스 합,3
+Procter & Gamble,PG,2023Q1,2023-03-31,분기말 시가총액,350457768488,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/PG?interval=1d&events=splits (2023-03-31) ; https://www.sec.gov/Archives/edgar/data/80424/000008042423000046/,종가 148.69 × 주식수 2356969322,3
+Procter & Gamble,PG,2023Q2,2023-06-30,분기별 매출액,20553000000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/80424/000008042423000073/ ; https://www.sec.gov/Archives/edgar/data/80424/000008042423000046/,연간 82006000000 − 9개월누적 61453000000 (Revenues),3
+Procter & Gamble,PG,2023Q2,2023-06-30,분기별 영업이익,4162000000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/80424/000008042423000073/ ; https://www.sec.gov/Archives/edgar/data/80424/000008042423000046/,연간 18134000000 − 9개월누적 13972000000 (OperatingIncomeLoss),3
+Procter & Gamble,PG,2023Q2,2023-06-30,분기별 당기순이익(지배),3384000000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/80424/000008042423000073/ ; https://www.sec.gov/Archives/edgar/data/80424/000008042423000046/,연간 14653000000 − 9개월누적 11269000000 (NetIncomeLoss),3
+Procter & Gamble,PG,2023Q2,2023-06-30,분기별 영업활동현금흐름,5341000000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/80424/000008042423000073/ ; https://www.sec.gov/Archives/edgar/data/80424/000008042423000046/,누적 16848000000 − 직전누적 11507000000 (시작 2022-07-01),3
+Procter & Gamble,PG,2023Q2,2023-06-30,분기말 자산총계,120829000000,USD,공시,https://www.sec.gov/Archives/edgar/data/80424/000008042423000073/,,3
+Procter & Gamble,PG,2023Q2,2023-06-30,분기말 부채총계,73764000000,USD,공시,https://www.sec.gov/Archives/edgar/data/80424/000008042423000073/,,3
+Procter & Gamble,PG,2023Q2,2023-06-30,분기말 총자본(자기자본),47065000000,USD,공시,https://www.sec.gov/Archives/edgar/data/80424/000008042423000073/,,3
+Procter & Gamble,PG,2023Q2,2023-06-30,분기말 지배지분 자본,46777000000,USD,계산(총자본-비지배),https://www.sec.gov/Archives/edgar/data/80424/000008042423000073/,총자본 47065000000 − 비지배 288000000,3
+Procter & Gamble,PG,2023Q2,2023-06-30,분기말 종가,151.74,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/PG?interval=1d&events=splits (2023-06-30),,3
+Procter & Gamble,PG,2023Q2,2023-07-31,분기말 상장주식수,2357306187,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/80424/000008042423000073/,dei:EntityCommonStockSharesOutstanding 클래스 합,3
+Procter & Gamble,PG,2023Q2,2023-06-30,분기말 시가총액,357697640815,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/PG?interval=1d&events=splits (2023-06-30) ; https://www.sec.gov/Archives/edgar/data/80424/000008042423000073/,종가 151.74 × 주식수 2357306187,3
+Procter & Gamble,PG,2023Q3,2023-09-30,분기별 매출액,21871000000,USD,공시,https://www.sec.gov/Archives/edgar/data/80424/000008042423000103/,,3
+Procter & Gamble,PG,2023Q3,2023-09-30,분기별 영업이익,5767000000,USD,공시,https://www.sec.gov/Archives/edgar/data/80424/000008042423000103/,,3
+Procter & Gamble,PG,2023Q3,2023-09-30,분기별 당기순이익(지배),4521000000,USD,공시,https://www.sec.gov/Archives/edgar/data/80424/000008042423000103/,,3
+Procter & Gamble,PG,2023Q3,2023-09-30,분기별 영업활동현금흐름,4904000000,USD,공시,https://www.sec.gov/Archives/edgar/data/80424/000008042423000103/,,3
+Procter & Gamble,PG,2023Q3,2023-09-30,분기말 자산총계,122531000000,USD,공시,https://www.sec.gov/Archives/edgar/data/80424/000008042423000103/,,3
+Procter & Gamble,PG,2023Q3,2023-09-30,분기말 부채총계,74517000000,USD,공시,https://www.sec.gov/Archives/edgar/data/80424/000008042423000103/,,3
+Procter & Gamble,PG,2023Q3,2023-09-30,분기말 총자본(자기자본),48014000000,USD,공시,https://www.sec.gov/Archives/edgar/data/80424/000008042423000103/,,3
+Procter & Gamble,PG,2023Q3,2023-09-30,분기말 지배지분 자본,47693000000,USD,계산(총자본-비지배),https://www.sec.gov/Archives/edgar/data/80424/000008042423000103/,총자본 48014000000 − 비지배 321000000,3
+Procter & Gamble,PG,2023Q3,2023-09-29,분기말 종가,145.86,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/PG?interval=1d&events=splits (2023-09-29),,3
+Procter & Gamble,PG,2023Q3,2023-09-30,분기말 상장주식수,2356886211,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/80424/000008042423000103/,dei:EntityCommonStockSharesOutstanding 클래스 합,3
+Procter & Gamble,PG,2023Q3,2023-09-29,분기말 시가총액,343775422736,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/PG?interval=1d&events=splits (2023-09-29) ; https://www.sec.gov/Archives/edgar/data/80424/000008042423000103/,종가 145.86 × 주식수 2356886211,3
+Procter & Gamble,PG,2023Q4,2023-12-31,분기별 매출액,21441000000,USD,공시,https://www.sec.gov/Archives/edgar/data/80424/000008042424000018/,,3
+Procter & Gamble,PG,2023Q4,2023-12-31,분기별 영업이익,4433000000,USD,공시,https://www.sec.gov/Archives/edgar/data/80424/000008042424000018/,,3
+Procter & Gamble,PG,2023Q4,2023-12-31,분기별 당기순이익(지배),3468000000,USD,공시,https://www.sec.gov/Archives/edgar/data/80424/000008042424000018/,,3
+Procter & Gamble,PG,2023Q4,2023-12-31,분기별 영업활동현금흐름,5100000000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/80424/000008042424000018/ ; https://www.sec.gov/Archives/edgar/data/80424/000008042423000103/,누적 10004000000 − 직전누적 4904000000 (시작 2023-07-01),3
+Procter & Gamble,PG,2023Q4,2023-12-31,분기말 자산총계,120709000000,USD,공시,https://www.sec.gov/Archives/edgar/data/80424/000008042424000018/,,3
+Procter & Gamble,PG,2023Q4,2023-12-31,분기말 부채총계,71880000000,USD,공시,https://www.sec.gov/Archives/edgar/data/80424/000008042424000018/,,3
+Procter & Gamble,PG,2023Q4,2023-12-31,분기말 총자본(자기자본),48829000000,USD,공시,https://www.sec.gov/Archives/edgar/data/80424/000008042424000018/,,3
+Procter & Gamble,PG,2023Q4,2023-12-31,분기말 지배지분 자본,48535000000,USD,계산(총자본-비지배),https://www.sec.gov/Archives/edgar/data/80424/000008042424000018/,총자본 48829000000 − 비지배 294000000,3
+Procter & Gamble,PG,2023Q4,2023-12-29,분기말 종가,146.54,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/PG?interval=1d&events=splits (2023-12-29),,3
+Procter & Gamble,PG,2023Q4,2023-12-31,분기말 상장주식수,2353021054,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/80424/000008042424000018/,dei:EntityCommonStockSharesOutstanding 클래스 합,3
+Procter & Gamble,PG,2023Q4,2023-12-29,분기말 시가총액,344811705253,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/PG?interval=1d&events=splits (2023-12-29) ; https://www.sec.gov/Archives/edgar/data/80424/000008042424000018/,종가 146.54 × 주식수 2353021054,3
+Procter & Gamble,PG,2024Q1,2024-03-31,분기별 매출액,20195000000,USD,공시,https://www.sec.gov/Archives/edgar/data/80424/000008042424000051/,,3
+Procter & Gamble,PG,2024Q1,2024-03-31,분기별 영업이익,4460000000,USD,공시,https://www.sec.gov/Archives/edgar/data/80424/000008042424000051/,,3
+Procter & Gamble,PG,2024Q1,2024-03-31,분기별 당기순이익(지배),3754000000,USD,공시,https://www.sec.gov/Archives/edgar/data/80424/000008042424000051/,,3
+Procter & Gamble,PG,2024Q1,2024-03-31,분기별 영업활동현금흐름,4088000000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/80424/000008042424000051/ ; https://www.sec.gov/Archives/edgar/data/80424/000008042424000018/,누적 14092000000 − 직전누적 10004000000 (시작 2023-07-01),3
+Procter & Gamble,PG,2024Q1,2024-03-31,분기말 자산총계,119598000000,USD,공시,https://www.sec.gov/Archives/edgar/data/80424/000008042424000051/,,3
+Procter & Gamble,PG,2024Q1,2024-03-31,분기말 부채총계,69264000000,USD,공시,https://www.sec.gov/Archives/edgar/data/80424/000008042424000051/,,3
+Procter & Gamble,PG,2024Q1,2024-03-31,분기말 총자본(자기자본),50333000000,USD,공시,https://www.sec.gov/Archives/edgar/data/80424/000008042424000051/,,3
+Procter & Gamble,PG,2024Q1,2024-03-31,분기말 지배지분 자본,50058000000,USD,계산(총자본-비지배),https://www.sec.gov/Archives/edgar/data/80424/000008042424000051/,총자본 50333000000 − 비지배 275000000,3
+Procter & Gamble,PG,2024Q1,2024-03-28,분기말 종가,162.25,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/PG?interval=1d&events=splits (2024-03-28),,3
+Procter & Gamble,PG,2024Q1,2024-03-31,분기말 상장주식수,2360135282,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/80424/000008042424000051/,dei:EntityCommonStockSharesOutstanding 클래스 합,3
+Procter & Gamble,PG,2024Q1,2024-03-28,분기말 시가총액,382931949504,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/PG?interval=1d&events=splits (2024-03-28) ; https://www.sec.gov/Archives/edgar/data/80424/000008042424000051/,종가 162.25 × 주식수 2360135282,3
+Procter & Gamble,PG,2024Q2,2024-06-30,분기별 매출액,20532000000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/80424/000008042424000083/ ; https://www.sec.gov/Archives/edgar/data/80424/000008042424000051/,연간 84039000000 − 9개월누적 63507000000 (Revenues),3
+Procter & Gamble,PG,2024Q2,2024-06-30,분기별 영업이익,3885000000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/80424/000008042424000083/ ; https://www.sec.gov/Archives/edgar/data/80424/000008042424000051/,연간 18545000000 − 9개월누적 14660000000 (OperatingIncomeLoss),3
+Procter & Gamble,PG,2024Q2,2024-06-30,분기별 당기순이익(지배),3137000000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/80424/000008042424000083/ ; https://www.sec.gov/Archives/edgar/data/80424/000008042424000051/,연간 14879000000 − 9개월누적 11742000000 (NetIncomeLoss),3
+Procter & Gamble,PG,2024Q2,2024-06-30,분기별 영업활동현금흐름,5754000000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/80424/000008042424000083/ ; https://www.sec.gov/Archives/edgar/data/80424/000008042424000051/,누적 19846000000 − 직전누적 14092000000 (시작 2023-07-01),3
+Procter & Gamble,PG,2024Q2,2024-06-30,분기말 자산총계,122370000000,USD,공시,https://www.sec.gov/Archives/edgar/data/80424/000008042424000083/,,3
+Procter & Gamble,PG,2024Q2,2024-06-30,분기말 부채총계,71811000000,USD,공시,https://www.sec.gov/Archives/edgar/data/80424/000008042424000083/,,3
+Procter & Gamble,PG,2024Q2,2024-06-30,분기말 총자본(자기자본),50559000000,USD,공시,https://www.sec.gov/Archives/edgar/data/80424/000008042424000083/,,3
+Procter & Gamble,PG,2024Q2,2024-06-30,분기말 지배지분 자본,50287000000,USD,계산(총자본-비지배),https://www.sec.gov/Archives/edgar/data/80424/000008042424000083/,총자본 50559000000 − 비지배 272000000,3
+Procter & Gamble,PG,2024Q2,2024-06-28,분기말 종가,164.92,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/PG?interval=1d&events=splits (2024-06-28),,3
+Procter & Gamble,PG,2024Q2,2024-07-31,분기말 상장주식수,2354050987,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/80424/000008042424000083/,dei:EntityCommonStockSharesOutstanding 클래스 합,3
+Procter & Gamble,PG,2024Q2,2024-06-28,분기말 시가총액,388230088776,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/PG?interval=1d&events=splits (2024-06-28) ; https://www.sec.gov/Archives/edgar/data/80424/000008042424000083/,종가 164.92 × 주식수 2354050987,3
+Procter & Gamble,PG,2024Q3,2024-09-30,분기별 매출액,21737000000,USD,공시,https://www.sec.gov/Archives/edgar/data/80424/000008042424000113/,,3
+Procter & Gamble,PG,2024Q3,2024-09-30,분기별 영업이익,5797000000,USD,공시,https://www.sec.gov/Archives/edgar/data/80424/000008042424000113/,,3
+Procter & Gamble,PG,2024Q3,2024-09-30,분기별 당기순이익(지배),3959000000,USD,공시,https://www.sec.gov/Archives/edgar/data/80424/000008042424000113/,,3
+Procter & Gamble,PG,2024Q3,2024-09-30,분기별 영업활동현금흐름,4302000000,USD,공시,https://www.sec.gov/Archives/edgar/data/80424/000008042424000113/,,3
+Procter & Gamble,PG,2024Q3,2024-09-30,분기말 자산총계,126482000000,USD,공시,https://www.sec.gov/Archives/edgar/data/80424/000008042424000113/,,3
+Procter & Gamble,PG,2024Q3,2024-09-30,분기말 부채총계,74341000000,USD,공시,https://www.sec.gov/Archives/edgar/data/80424/000008042424000113/,,3
+Procter & Gamble,PG,2024Q3,2024-09-30,분기말 총자본(자기자본),52141000000,USD,공시,https://www.sec.gov/Archives/edgar/data/80424/000008042424000113/,,3
+Procter & Gamble,PG,2024Q3,2024-09-30,분기말 지배지분 자본,51841000000,USD,계산(총자본-비지배),https://www.sec.gov/Archives/edgar/data/80424/000008042424000113/,총자본 52141000000 − 비지배 300000000,3
+Procter & Gamble,PG,2024Q3,2024-09-30,분기말 종가,173.2,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/PG?interval=1d&events=splits (2024-09-30),,3
+Procter & Gamble,PG,2024Q3,2024-09-30,분기말 상장주식수,2355041729,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/80424/000008042424000113/,dei:EntityCommonStockSharesOutstanding 클래스 합,3
+Procter & Gamble,PG,2024Q3,2024-09-30,분기말 시가총액,407893227463,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/PG?interval=1d&events=splits (2024-09-30) ; https://www.sec.gov/Archives/edgar/data/80424/000008042424000113/,종가 173.2 × 주식수 2355041729,3
+Procter & Gamble,PG,2024Q4,2024-12-31,분기별 매출액,21882000000,USD,공시,https://www.sec.gov/Archives/edgar/data/80424/000008042425000013/,,3
+Procter & Gamble,PG,2024Q4,2024-12-31,분기별 영업이익,5741000000,USD,공시,https://www.sec.gov/Archives/edgar/data/80424/000008042425000013/,,3
+Procter & Gamble,PG,2024Q4,2024-12-31,분기별 당기순이익(지배),4630000000,USD,공시,https://www.sec.gov/Archives/edgar/data/80424/000008042425000013/,,3
+Procter & Gamble,PG,2024Q4,2024-12-31,분기별 영업활동현금흐름,4825000000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/80424/000008042425000013/ ; https://www.sec.gov/Archives/edgar/data/80424/000008042424000113/,누적 9127000000 − 직전누적 4302000000 (시작 2024-07-01),3
+Procter & Gamble,PG,2024Q4,2024-12-31,분기말 자산총계,122639000000,USD,공시,https://www.sec.gov/Archives/edgar/data/80424/000008042425000013/,,3
+Procter & Gamble,PG,2024Q4,2024-12-31,분기말 부채총계,71195000000,USD,공시,https://www.sec.gov/Archives/edgar/data/80424/000008042425000013/,,3
+Procter & Gamble,PG,2024Q4,2024-12-31,분기말 총자본(자기자본),51443000000,USD,공시,https://www.sec.gov/Archives/edgar/data/80424/000008042425000013/,,3
+Procter & Gamble,PG,2024Q4,2024-12-31,분기말 지배지분 자본,51168000000,USD,계산(총자본-비지배),https://www.sec.gov/Archives/edgar/data/80424/000008042425000013/,총자본 51443000000 − 비지배 275000000,3
+Procter & Gamble,PG,2024Q4,2024-12-31,분기말 종가,167.65,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/PG?interval=1d&events=splits (2024-12-31),,3
+Procter & Gamble,PG,2024Q4,2024-12-31,분기말 상장주식수,2344851814,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/80424/000008042425000013/,dei:EntityCommonStockSharesOutstanding 클래스 합,3
+Procter & Gamble,PG,2024Q4,2024-12-31,분기말 시가총액,393114406617,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/PG?interval=1d&events=splits (2024-12-31) ; https://www.sec.gov/Archives/edgar/data/80424/000008042425000013/,종가 167.65 × 주식수 2344851814,3
+Procter & Gamble,PG,2025Q1,2025-03-31,분기별 매출액,19776000000,USD,공시,https://www.sec.gov/Archives/edgar/data/80424/000008042425000037/,,3
+Procter & Gamble,PG,2025Q1,2025-03-31,분기별 영업이익,4558000000,USD,공시,https://www.sec.gov/Archives/edgar/data/80424/000008042425000037/,,3
+Procter & Gamble,PG,2025Q1,2025-03-31,분기별 당기순이익(지배),3769000000,USD,공시,https://www.sec.gov/Archives/edgar/data/80424/000008042425000037/,,3
+Procter & Gamble,PG,2025Q1,2025-03-31,분기별 영업활동현금흐름,3705000000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/80424/000008042425000037/ ; https://www.sec.gov/Archives/edgar/data/80424/000008042425000013/,누적 12832000000 − 직전누적 9127000000 (시작 2024-07-01),3
+Procter & Gamble,PG,2025Q1,2025-03-31,분기말 자산총계,122984000000,USD,공시,https://www.sec.gov/Archives/edgar/data/80424/000008042425000037/,,3
+Procter & Gamble,PG,2025Q1,2025-03-31,분기말 부채총계,70439000000,USD,공시,https://www.sec.gov/Archives/edgar/data/80424/000008042425000037/,,3
+Procter & Gamble,PG,2025Q1,2025-03-31,분기말 총자본(자기자본),52545000000,USD,공시,https://www.sec.gov/Archives/edgar/data/80424/000008042425000037/,,3
+Procter & Gamble,PG,2025Q1,2025-03-31,분기말 지배지분 자본,52272000000,USD,계산(총자본-비지배),https://www.sec.gov/Archives/edgar/data/80424/000008042425000037/,총자본 52545000000 − 비지배 273000000,3
+Procter & Gamble,PG,2025Q1,2025-03-31,분기말 종가,170.42,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/PG?interval=1d&events=splits (2025-03-31),,3
+Procter & Gamble,PG,2025Q1,2025-03-31,분기말 상장주식수,2344542034,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/80424/000008042425000037/,dei:EntityCommonStockSharesOutstanding 클래스 합,3
+Procter & Gamble,PG,2025Q1,2025-03-31,분기말 시가총액,399556853434,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/PG?interval=1d&events=splits (2025-03-31) ; https://www.sec.gov/Archives/edgar/data/80424/000008042425000037/,종가 170.42 × 주식수 2344542034,3
+Procter & Gamble,PG,2025Q2,2025-06-30,분기별 매출액,20889000000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/80424/000008042425000076/ ; https://www.sec.gov/Archives/edgar/data/80424/000008042425000037/,연간 84284000000 − 9개월누적 63395000000 (Revenues),3
+Procter & Gamble,PG,2025Q2,2025-06-30,분기별 영업이익,4355000000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/80424/000008042425000076/ ; https://www.sec.gov/Archives/edgar/data/80424/000008042425000037/,연간 20451000000 − 9개월누적 16096000000 (OperatingIncomeLoss),3
+Procter & Gamble,PG,2025Q2,2025-06-30,분기별 당기순이익(지배),3615000000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/80424/000008042425000076/ ; https://www.sec.gov/Archives/edgar/data/80424/000008042425000037/,연간 15974000000 − 9개월누적 12359000000 (NetIncomeLoss),3
+Procter & Gamble,PG,2025Q2,2025-06-30,분기별 영업활동현금흐름,4985000000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/80424/000008042425000076/ ; https://www.sec.gov/Archives/edgar/data/80424/000008042425000037/,누적 17817000000 − 직전누적 12832000000 (시작 2024-07-01),3
+Procter & Gamble,PG,2025Q2,2025-06-30,분기말 자산총계,125231000000,USD,공시,https://www.sec.gov/Archives/edgar/data/80424/000008042425000076/,,3
+Procter & Gamble,PG,2025Q2,2025-06-30,분기말 부채총계,72946000000,USD,공시,https://www.sec.gov/Archives/edgar/data/80424/000008042425000076/,,3
+Procter & Gamble,PG,2025Q2,2025-06-30,분기말 총자본(자기자본),52284000000,USD,공시,https://www.sec.gov/Archives/edgar/data/80424/000008042425000076/,,3
+Procter & Gamble,PG,2025Q2,2025-06-30,분기말 지배지분 자본,52012000000,USD,계산(총자본-비지배),https://www.sec.gov/Archives/edgar/data/80424/000008042425000076/,총자본 52284000000 − 비지배 272000000,3
+Procter & Gamble,PG,2025Q2,2025-06-30,분기말 종가,159.32,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/PG?interval=1d&events=splits (2025-06-30),,3
+Procter & Gamble,PG,2025Q2,2025-07-31,분기말 상장주식수,2342371488,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/80424/000008042425000076/,dei:EntityCommonStockSharesOutstanding 클래스 합,3
+Procter & Gamble,PG,2025Q2,2025-06-30,분기말 시가총액,373186625468,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/PG?interval=1d&events=splits (2025-06-30) ; https://www.sec.gov/Archives/edgar/data/80424/000008042425000076/,종가 159.32 × 주식수 2342371488,3
+Procter & Gamble,PG,2025Q3,2025-09-30,분기별 매출액,22386000000,USD,공시,https://www.sec.gov/Archives/edgar/data/80424/000008042425000245/,,3
+Procter & Gamble,PG,2025Q3,2025-09-30,분기별 영업이익,5856000000,USD,공시,https://www.sec.gov/Archives/edgar/data/80424/000008042425000245/,,3
+Procter & Gamble,PG,2025Q3,2025-09-30,분기별 당기순이익(지배),4750000000,USD,공시,https://www.sec.gov/Archives/edgar/data/80424/000008042425000245/,,3
+Procter & Gamble,PG,2025Q3,2025-09-30,분기별 영업활동현금흐름,5408000000,USD,공시,https://www.sec.gov/Archives/edgar/data/80424/000008042425000245/,,3
+Procter & Gamble,PG,2025Q3,2025-09-30,분기말 자산총계,127599000000,USD,공시,https://www.sec.gov/Archives/edgar/data/80424/000008042425000245/,,3
+Procter & Gamble,PG,2025Q3,2025-09-30,분기말 부채총계,74048000000,USD,공시,https://www.sec.gov/Archives/edgar/data/80424/000008042425000245/,,3
+Procter & Gamble,PG,2025Q3,2025-09-30,분기말 총자본(자기자본),53551000000,USD,공시,https://www.sec.gov/Archives/edgar/data/80424/000008042425000245/,,3
+Procter & Gamble,PG,2025Q3,2025-09-30,분기말 지배지분 자본,53270000000,USD,계산(총자본-비지배),https://www.sec.gov/Archives/edgar/data/80424/000008042425000245/,총자본 53551000000 − 비지배 281000000,3
+Procter & Gamble,PG,2025Q3,2025-09-30,분기말 종가,153.65,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/PG?interval=1d&events=splits (2025-09-30),,3
+Procter & Gamble,PG,2025Q3,2025-09-30,분기말 상장주식수,2336733549,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/80424/000008042425000245/,dei:EntityCommonStockSharesOutstanding 클래스 합,3
+Procter & Gamble,PG,2025Q3,2025-09-30,분기말 시가총액,359039109804,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/PG?interval=1d&events=splits (2025-09-30) ; https://www.sec.gov/Archives/edgar/data/80424/000008042425000245/,종가 153.65 × 주식수 2336733549,3
+Procter & Gamble,PG,2025Q4,2025-12-31,분기별 매출액,22208000000,USD,공시,https://www.sec.gov/Archives/edgar/data/80424/000008042426000011/,,3
+Procter & Gamble,PG,2025Q4,2025-12-31,분기별 영업이익,5366000000,USD,공시,https://www.sec.gov/Archives/edgar/data/80424/000008042426000011/,,3
+Procter & Gamble,PG,2025Q4,2025-12-31,분기별 당기순이익(지배),4319000000,USD,공시,https://www.sec.gov/Archives/edgar/data/80424/000008042426000011/,,3
+Procter & Gamble,PG,2025Q4,2025-12-31,분기별 영업활동현금흐름,4972000000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/80424/000008042426000011/ ; https://www.sec.gov/Archives/edgar/data/80424/000008042425000245/,누적 10380000000 − 직전누적 5408000000 (시작 2025-07-01),3
+Procter & Gamble,PG,2025Q4,2025-12-31,분기말 자산총계,127286000000,USD,공시,https://www.sec.gov/Archives/edgar/data/80424/000008042426000011/,,3
+Procter & Gamble,PG,2025Q4,2025-12-31,분기말 부채총계,73969000000,USD,공시,https://www.sec.gov/Archives/edgar/data/80424/000008042426000011/,,3
+Procter & Gamble,PG,2025Q4,2025-12-31,분기말 총자본(자기자본),53317000000,USD,공시,https://www.sec.gov/Archives/edgar/data/80424/000008042426000011/,,3
+Procter & Gamble,PG,2025Q4,2025-12-31,분기말 지배지분 자본,53041000000,USD,계산(총자본-비지배),https://www.sec.gov/Archives/edgar/data/80424/000008042426000011/,총자본 53317000000 − 비지배 276000000,3
+Procter & Gamble,PG,2025Q4,2025-12-31,분기말 종가,143.31,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/PG?interval=1d&events=splits (2025-12-31),,3
+Procter & Gamble,PG,2025Q4,2025-12-31,분기말 상장주식수,2324000685,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/80424/000008042426000011/,dei:EntityCommonStockSharesOutstanding 클래스 합,3
+Procter & Gamble,PG,2025Q4,2025-12-31,분기말 시가총액,333052538167,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/PG?interval=1d&events=splits (2025-12-31) ; https://www.sec.gov/Archives/edgar/data/80424/000008042426000011/,종가 143.31 × 주식수 2324000685,3
+Procter & Gamble,PG,2026Q1,2026-03-31,분기별 매출액,21235000000,USD,공시,https://www.sec.gov/Archives/edgar/data/80424/000008042426000060/,,3
+Procter & Gamble,PG,2026Q1,2026-03-31,분기별 영업이익,4576000000,USD,공시,https://www.sec.gov/Archives/edgar/data/80424/000008042426000060/,,3
+Procter & Gamble,PG,2026Q1,2026-03-31,분기별 당기순이익(지배),3932000000,USD,공시,https://www.sec.gov/Archives/edgar/data/80424/000008042426000060/,,3
+Procter & Gamble,PG,2026Q1,2026-03-31,분기별 영업활동현금흐름,4045000000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/80424/000008042426000060/ ; https://www.sec.gov/Archives/edgar/data/80424/000008042426000011/,누적 14425000000 − 직전누적 10380000000 (시작 2025-07-01),3
+Procter & Gamble,PG,2026Q1,2026-03-31,분기말 자산총계,128378000000,USD,공시,https://www.sec.gov/Archives/edgar/data/80424/000008042426000060/,,3
+Procter & Gamble,PG,2026Q1,2026-03-31,분기말 부채총계,73647000000,USD,공시,https://www.sec.gov/Archives/edgar/data/80424/000008042426000060/,,3
+Procter & Gamble,PG,2026Q1,2026-03-31,분기말 총자본(자기자본),54731000000,USD,공시,https://www.sec.gov/Archives/edgar/data/80424/000008042426000060/,,3
+Procter & Gamble,PG,2026Q1,2026-03-31,분기말 지배지분 자본,54505000000,USD,계산(총자본-비지배),https://www.sec.gov/Archives/edgar/data/80424/000008042426000060/,총자본 54731000000 − 비지배 226000000,3
+Procter & Gamble,PG,2026Q1,2026-03-31,분기말 종가,144.44,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/PG?interval=1d&events=splits (2026-03-31),,3
+Procter & Gamble,PG,2026Q1,2026-03-31,분기말 상장주식수,2328598978,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/80424/000008042426000060/,dei:EntityCommonStockSharesOutstanding 클래스 합,3
+Procter & Gamble,PG,2026Q1,2026-03-31,분기말 시가총액,336342836382,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/PG?interval=1d&events=splits (2026-03-31) ; https://www.sec.gov/Archives/edgar/data/80424/000008042426000060/,종가 144.44 × 주식수 2328598978,3
+Procter & Gamble,PG,2026Q2,2026-06-30,분기별 매출액,21204000000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/80424/000008042426000103/ ; https://www.sec.gov/Archives/edgar/data/80424/000008042426000060/,연간 87032000000 − 9개월누적 65828000000 (Revenues),3
+Procter & Gamble,PG,2026Q2,2026-06-30,분기별 영업이익,3950000000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/80424/000008042426000103/ ; https://www.sec.gov/Archives/edgar/data/80424/000008042426000060/,연간 19748000000 − 9개월누적 15798000000 (OperatingIncomeLoss),3
+Procter & Gamble,PG,2026Q2,2026-06-30,분기별 당기순이익(지배),3044000000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/80424/000008042426000103/ ; https://www.sec.gov/Archives/edgar/data/80424/000008042426000060/,연간 16046000000 − 9개월누적 13002000000 (NetIncomeLoss),3
+Procter & Gamble,PG,2026Q2,2026-06-30,분기별 영업활동현금흐름,5131000000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/80424/000008042426000103/ ; https://www.sec.gov/Archives/edgar/data/80424/000008042426000060/,누적 19556000000 − 직전누적 14425000000 (시작 2025-07-01),3
+Procter & Gamble,PG,2026Q2,2026-06-30,분기말 자산총계,126521000000,USD,공시,https://www.sec.gov/Archives/edgar/data/80424/000008042426000103/,,3
+Procter & Gamble,PG,2026Q2,2026-06-30,분기말 부채총계,72210000000,USD,공시,https://www.sec.gov/Archives/edgar/data/80424/000008042426000103/,,3
+Procter & Gamble,PG,2026Q2,2026-06-30,분기말 총자본(자기자본),54311000000,USD,공시,https://www.sec.gov/Archives/edgar/data/80424/000008042426000103/,,3
+Procter & Gamble,PG,2026Q2,2026-06-30,분기말 지배지분 자본,54081000000,USD,계산(총자본-비지배),https://www.sec.gov/Archives/edgar/data/80424/000008042426000103/,총자본 54311000000 − 비지배 230000000,3
+Procter & Gamble,PG,2026Q2,2026-06-30,분기말 종가,146.64,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/PG?interval=1d&events=splits (2026-06-30),,3
+Procter & Gamble,PG,2026Q2,2026-07-31,분기말 상장주식수,2324433060,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/80424/000008042426000103/,dei:EntityCommonStockSharesOutstanding 클래스 합,3
+Procter & Gamble,PG,2026Q2,2026-06-30,분기말 시가총액,340854863918,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/PG?interval=1d&events=splits (2026-06-30) ; https://www.sec.gov/Archives/edgar/data/80424/000008042426000103/,종가 146.64 × 주식수 2324433060,3

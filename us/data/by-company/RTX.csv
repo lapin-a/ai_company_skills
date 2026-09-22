@@ -1,0 +1,727 @@
+﻿기업,종목코드,기간,기준일,항목,값,통화,값구분,출처,검산,라운드
+RTX,RTX,2010Q1,2010-03-31,분기별 매출액,12091000000,USD,공시,https://www.sec.gov/Archives/edgar/data/101829/000119312510092555/,,3
+RTX,RTX,2010Q1,2010-03-31,분기별 영업이익,1523000000,USD,공시(재작성 반영),https://www.sec.gov/Archives/edgar/data/101829/000119312511106870/,원 공시 1538000000 (https://www.sec.gov/Archives/edgar/data/101829/000119312510092555/),3
+RTX,RTX,2010Q1,2010-03-31,분기별 당기순이익(지배),866000000,USD,공시,https://www.sec.gov/Archives/edgar/data/101829/000119312510092555/,,3
+RTX,RTX,2010Q1,2010-03-31,분기별 영업활동현금흐름,1154000000,USD,공시,https://www.sec.gov/Archives/edgar/data/101829/000119312510092555/,,3
+RTX,RTX,2010Q1,2010-03-31,분기말 자산총계,미확인,USD,미확인,https://www.sec.gov/Archives/edgar/data/101829/000119312510092555/,자체 검증 실패: 자산 58388000000 ≠ 부채 37087000000 + 총자본 20924000000 + 메자닌 0 (차이 377000000),3
+RTX,RTX,2010Q1,2010-03-31,분기말 부채총계,미확인,USD,미확인,https://www.sec.gov/Archives/edgar/data/101829/000119312510092555/,자체 검증 실패: 자산 58388000000 ≠ 부채 37087000000 + 총자본 20924000000 + 메자닌 0 (차이 377000000),3
+RTX,RTX,2010Q1,2010-03-31,분기말 총자본(자기자본),미확인,USD,미확인,https://www.sec.gov/Archives/edgar/data/101829/000119312510092555/,자체 검증 실패: 자산 58388000000 ≠ 부채 37087000000 + 총자본 20924000000 + 메자닌 0 (차이 377000000),3
+RTX,RTX,2010Q1,2010-03-31,분기말 지배지분 자본,19964000000,USD,공시,https://www.sec.gov/Archives/edgar/data/101829/000119312510092555/,,3
+RTX,RTX,2010Q1,2010-03-31,분기말 종가,73.61,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/RTX?interval=1d&events=splits (2010-03-31),분할조정 종가 46.3247 × 이후 분할계수 1.589,3
+RTX,RTX,2010Q1,2010-03-31,분기말 상장주식수,933080048,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/101829/000119312510092555/,dei:EntityCommonStockSharesOutstanding 클래스 합,3
+RTX,RTX,2010Q1,2010-03-31,분기말 시가총액,68684022333,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/RTX?interval=1d&events=splits (2010-03-31) ; https://www.sec.gov/Archives/edgar/data/101829/000119312510092555/,종가 73.61 × 주식수 933080048,3
+RTX,RTX,2010Q2,2010-06-30,분기별 매출액,13890000000,USD,공시,https://www.sec.gov/Archives/edgar/data/101829/000119312510165467/,,3
+RTX,RTX,2010Q2,2010-06-30,분기별 영업이익,1882000000,USD,공시(재작성 반영),https://www.sec.gov/Archives/edgar/data/101829/000119312511195231/,원 공시 1925000000 (https://www.sec.gov/Archives/edgar/data/101829/000119312510165467/),3
+RTX,RTX,2010Q2,2010-06-30,분기별 당기순이익(지배),1110000000,USD,공시,https://www.sec.gov/Archives/edgar/data/101829/000119312510165467/,,3
+RTX,RTX,2010Q2,2010-06-30,분기별 영업활동현금흐름,1400000000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/101829/000119312510165467/ ; https://www.sec.gov/Archives/edgar/data/101829/000119312510092555/,누적 2554000000 − 직전누적 1154000000 (시작 2010-01-01),3
+RTX,RTX,2010Q2,2010-06-30,분기말 자산총계,미확인,USD,미확인,https://www.sec.gov/Archives/edgar/data/101829/000119312510165467/,자체 검증 실패: 자산 58343000000 ≠ 부채 37117000000 + 총자본 20915000000 + 메자닌 0 (차이 311000000),3
+RTX,RTX,2010Q2,2010-06-30,분기말 부채총계,미확인,USD,미확인,https://www.sec.gov/Archives/edgar/data/101829/000119312510165467/,자체 검증 실패: 자산 58343000000 ≠ 부채 37117000000 + 총자본 20915000000 + 메자닌 0 (차이 311000000),3
+RTX,RTX,2010Q2,2010-06-30,분기말 총자본(자기자본),미확인,USD,미확인,https://www.sec.gov/Archives/edgar/data/101829/000119312510165467/,자체 검증 실패: 자산 58343000000 ≠ 부채 37117000000 + 총자본 20915000000 + 메자닌 0 (차이 311000000),3
+RTX,RTX,2010Q2,2010-06-30,분기말 지배지분 자본,19933000000,USD,공시,https://www.sec.gov/Archives/edgar/data/101829/000119312510165467/,,3
+RTX,RTX,2010Q2,2010-06-30,분기말 종가,64.91,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/RTX?interval=1d&events=splits (2010-06-30),분할조정 종가 40.8496 × 이후 분할계수 1.589,3
+RTX,RTX,2010Q2,2010-06-30,분기말 상장주식수,929069716,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/101829/000119312510165467/,dei:EntityCommonStockSharesOutstanding 클래스 합,3
+RTX,RTX,2010Q2,2010-06-30,분기말 시가총액,60305915266,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/RTX?interval=1d&events=splits (2010-06-30) ; https://www.sec.gov/Archives/edgar/data/101829/000119312510165467/,종가 64.91 × 주식수 929069716,3
+RTX,RTX,2010Q3,2010-09-30,분기별 매출액,13527000000,USD,공시,https://www.sec.gov/Archives/edgar/data/101829/000119312510235003/,,3
+RTX,RTX,2010Q3,2010-09-30,분기별 영업이익,1928000000,USD,공시(재작성 반영),https://www.sec.gov/Archives/edgar/data/101829/000119312511277919/,원 공시 1949000000 (https://www.sec.gov/Archives/edgar/data/101829/000119312510235003/),3
+RTX,RTX,2010Q3,2010-09-30,분기별 당기순이익(지배),1198000000,USD,공시,https://www.sec.gov/Archives/edgar/data/101829/000119312510235003/,,3
+RTX,RTX,2010Q3,2010-09-30,분기별 영업활동현금흐름,1676000000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/101829/000119312510235003/ ; https://www.sec.gov/Archives/edgar/data/101829/000119312510165467/,누적 4230000000 − 직전누적 2554000000 (시작 2010-01-01),3
+RTX,RTX,2010Q3,2010-09-30,분기말 자산총계,미확인,USD,미확인,https://www.sec.gov/Archives/edgar/data/101829/000119312510235003/,자체 검증 실패: 자산 60649000000 ≠ 부채 38078000000 + 총자본 22253000000 + 메자닌 0 (차이 318000000),3
+RTX,RTX,2010Q3,2010-09-30,분기말 부채총계,미확인,USD,미확인,https://www.sec.gov/Archives/edgar/data/101829/000119312510235003/,자체 검증 실패: 자산 60649000000 ≠ 부채 38078000000 + 총자본 22253000000 + 메자닌 0 (차이 318000000),3
+RTX,RTX,2010Q3,2010-09-30,분기말 총자본(자기자본),미확인,USD,미확인,https://www.sec.gov/Archives/edgar/data/101829/000119312510235003/,자체 검증 실패: 자산 60649000000 ≠ 부채 38078000000 + 총자본 22253000000 + 메자닌 0 (차이 318000000),3
+RTX,RTX,2010Q3,2010-09-30,분기말 지배지분 자본,21254000000,USD,공시,https://www.sec.gov/Archives/edgar/data/101829/000119312510235003/,,3
+RTX,RTX,2010Q3,2010-09-30,분기말 종가,71.23,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/RTX?interval=1d&events=splits (2010-09-30),분할조정 종가 44.8269 × 이후 분할계수 1.589,3
+RTX,RTX,2010Q3,2010-09-30,분기말 상장주식수,923407094,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/101829/000119312510235003/,dei:EntityCommonStockSharesOutstanding 클래스 합,3
+RTX,RTX,2010Q3,2010-09-30,분기말 시가총액,65774287306,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/RTX?interval=1d&events=splits (2010-09-30) ; https://www.sec.gov/Archives/edgar/data/101829/000119312510235003/,종가 71.23 × 주식수 923407094,3
+RTX,RTX,2010Q4,2010-12-31,분기별 매출액,14818000000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/101829/000119312511029695/ ; https://www.sec.gov/Archives/edgar/data/101829/000119312510235003/,연간 54326000000 − 9개월누적 39508000000 (SalesRevenueNet / 9개월 Revenues),3
+RTX,RTX,2010Q4,2010-12-31,분기별 영업이익,1853000000,USD,계산(연간-3분기누적)(재작성 반영),https://www.sec.gov/Archives/edgar/data/101829/000119312511029695/ ; https://www.sec.gov/Archives/edgar/data/101829/000119312511277919/,연간 7186000000 − 9개월누적 5333000000 (OperatingIncomeLoss) ; 원 공시 1774000000 (https://www.sec.gov/Archives/edgar/data/101829/000119312511029695/ ; https://www.sec.gov/Archives/edgar/data/101829/000119312510235003/),3
+RTX,RTX,2010Q4,2010-12-31,분기별 당기순이익(지배),1199000000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/101829/000119312511029695/ ; https://www.sec.gov/Archives/edgar/data/101829/000119312510235003/,연간 4373000000 − 9개월누적 3174000000 (NetIncomeLoss),3
+RTX,RTX,2010Q4,2010-12-31,분기별 영업활동현금흐름,1676000000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/101829/000119312511029695/ ; https://www.sec.gov/Archives/edgar/data/101829/000119312510235003/,누적 5906000000 − 직전누적 4230000000 (시작 2010-01-01),3
+RTX,RTX,2010Q4,2010-12-31,분기말 자산총계,미확인,USD,미확인,https://www.sec.gov/Archives/edgar/data/101829/000119312511029695/,자체 검증 실패: 자산 58493000000 ≠ 부채 35844000000 + 총자본 22332000000 + 메자닌 0 (차이 317000000),3
+RTX,RTX,2010Q4,2010-12-31,분기말 부채총계,미확인,USD,미확인,https://www.sec.gov/Archives/edgar/data/101829/000119312511029695/,자체 검증 실패: 자산 58493000000 ≠ 부채 35844000000 + 총자본 22332000000 + 메자닌 0 (차이 317000000),3
+RTX,RTX,2010Q4,2010-12-31,분기말 총자본(자기자본),미확인,USD,미확인,https://www.sec.gov/Archives/edgar/data/101829/000119312511029695/,자체 검증 실패: 자산 58493000000 ≠ 부채 35844000000 + 총자본 22332000000 + 메자닌 0 (차이 317000000),3
+RTX,RTX,2010Q4,2010-12-31,분기말 지배지분 자본,21385000000,USD,공시,https://www.sec.gov/Archives/edgar/data/101829/000119312511029695/,,3
+RTX,RTX,2010Q4,2010-12-31,분기말 종가,78.72,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/RTX?interval=1d&events=splits (2010-12-31),분할조정 종가 49.5406 × 이후 분할계수 1.589,3
+RTX,RTX,2010Q4,2011-01-31,분기말 상장주식수,920456248,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/101829/000119312511029695/,dei:EntityCommonStockSharesOutstanding 클래스 합,3
+RTX,RTX,2010Q4,2010-12-31,분기말 시가총액,72458315843,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/RTX?interval=1d&events=splits (2010-12-31) ; https://www.sec.gov/Archives/edgar/data/101829/000119312511029695/,종가 78.72 × 주식수 920456248,3
+RTX,RTX,2011Q1,2011-03-31,분기별 매출액,13344000000,USD,공시,https://www.sec.gov/Archives/edgar/data/101829/000119312511106870/,,3
+RTX,RTX,2011Q1,2011-03-31,분기별 영업이익,1779000000,USD,공시,https://www.sec.gov/Archives/edgar/data/101829/000119312511106870/,,3
+RTX,RTX,2011Q1,2011-03-31,분기별 당기순이익(지배),1012000000,USD,공시,https://www.sec.gov/Archives/edgar/data/101829/000119312511106870/,,3
+RTX,RTX,2011Q1,2011-03-31,분기별 영업활동현금흐름,1361000000,USD,공시,https://www.sec.gov/Archives/edgar/data/101829/000119312511106870/,,3
+RTX,RTX,2011Q1,2011-03-31,분기말 자산총계,미확인,USD,미확인,https://www.sec.gov/Archives/edgar/data/101829/000119312511106870/,자체 검증 실패: 자산 60664000000 ≠ 부채 37219000000 + 총자본 23126000000 + 메자닌 0 (차이 319000000),3
+RTX,RTX,2011Q1,2011-03-31,분기말 부채총계,미확인,USD,미확인,https://www.sec.gov/Archives/edgar/data/101829/000119312511106870/,자체 검증 실패: 자산 60664000000 ≠ 부채 37219000000 + 총자본 23126000000 + 메자닌 0 (차이 319000000),3
+RTX,RTX,2011Q1,2011-03-31,분기말 총자본(자기자본),미확인,USD,미확인,https://www.sec.gov/Archives/edgar/data/101829/000119312511106870/,자체 검증 실패: 자산 60664000000 ≠ 부채 37219000000 + 총자본 23126000000 + 메자닌 0 (차이 319000000),3
+RTX,RTX,2011Q1,2011-03-31,분기말 지배지분 자본,22126000000,USD,공시,https://www.sec.gov/Archives/edgar/data/101829/000119312511106870/,,3
+RTX,RTX,2011Q1,2011-03-31,분기말 종가,84.65,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/RTX?interval=1d&events=splits (2011-03-31),분할조정 종가 53.2725 × 이후 분할계수 1.589,3
+RTX,RTX,2011Q1,2011-03-31,분기말 상장주식수,915261938,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/101829/000119312511106870/,dei:EntityCommonStockSharesOutstanding 클래스 합,3
+RTX,RTX,2011Q1,2011-03-31,분기말 시가총액,77476923052,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/RTX?interval=1d&events=splits (2011-03-31) ; https://www.sec.gov/Archives/edgar/data/101829/000119312511106870/,종가 84.65 × 주식수 915261938,3
+RTX,RTX,2011Q2,2011-06-30,분기별 매출액,15076000000,USD,공시,https://www.sec.gov/Archives/edgar/data/101829/000119312511195231/,,3
+RTX,RTX,2011Q2,2011-06-30,분기별 영업이익,2220000000,USD,공시,https://www.sec.gov/Archives/edgar/data/101829/000119312511195231/,,3
+RTX,RTX,2011Q2,2011-06-30,분기별 당기순이익(지배),1318000000,USD,공시,https://www.sec.gov/Archives/edgar/data/101829/000119312511195231/,,3
+RTX,RTX,2011Q2,2011-06-30,분기별 영업활동현금흐름,1258000000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/101829/000119312511195231/ ; https://www.sec.gov/Archives/edgar/data/101829/000119312511106870/,누적 2619000000 − 직전누적 1361000000 (시작 2011-01-01),3
+RTX,RTX,2011Q2,2011-06-30,분기말 자산총계,62147000000,USD,공시,https://www.sec.gov/Archives/edgar/data/101829/000119312511195231/,,3
+RTX,RTX,2011Q2,2011-06-30,분기말 부채총계,38060000000,USD,공시,https://www.sec.gov/Archives/edgar/data/101829/000119312511195231/,메자닌(일시자본) 348000000 별도 (원문 us-gaap:TemporaryEquityRedemptionValue 348000000),3
+RTX,RTX,2011Q2,2011-06-30,분기말 총자본(자기자본),23739000000,USD,공시,https://www.sec.gov/Archives/edgar/data/101829/000119312511195231/,,3
+RTX,RTX,2011Q2,2011-06-30,분기말 지배지분 자본,22723000000,USD,공시,https://www.sec.gov/Archives/edgar/data/101829/000119312511195231/,,3
+RTX,RTX,2011Q2,2011-06-30,분기말 종가,88.51,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/RTX?interval=1d&events=splits (2011-06-30),분할조정 종가 55.7017 × 이후 분할계수 1.589,3
+RTX,RTX,2011Q2,2011-06-30,분기말 상장주식수,908712931,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/101829/000119312511195231/,dei:EntityCommonStockSharesOutstanding 클래스 합,3
+RTX,RTX,2011Q2,2011-06-30,분기말 시가총액,80430181523,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/RTX?interval=1d&events=splits (2011-06-30) ; https://www.sec.gov/Archives/edgar/data/101829/000119312511195231/,종가 88.51 × 주식수 908712931,3
+RTX,RTX,2011Q3,2011-09-30,분기별 매출액,14804000000,USD,공시,https://www.sec.gov/Archives/edgar/data/101829/000119312511277919/,,3
+RTX,RTX,2011Q3,2011-09-30,분기별 영업이익,2202000000,USD,공시,https://www.sec.gov/Archives/edgar/data/101829/000119312511277919/,,3
+RTX,RTX,2011Q3,2011-09-30,분기별 당기순이익(지배),1324000000,USD,공시,https://www.sec.gov/Archives/edgar/data/101829/000119312511277919/,,3
+RTX,RTX,2011Q3,2011-09-30,분기별 영업활동현금흐름,1959000000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/101829/000119312511277919/ ; https://www.sec.gov/Archives/edgar/data/101829/000119312511195231/,누적 4578000000 − 직전누적 2619000000 (시작 2011-01-01),3
+RTX,RTX,2011Q3,2011-09-30,분기말 자산총계,61948000000,USD,공시,https://www.sec.gov/Archives/edgar/data/101829/000119312511277919/,,3
+RTX,RTX,2011Q3,2011-09-30,분기말 부채총계,38033000000,USD,공시,https://www.sec.gov/Archives/edgar/data/101829/000119312511277919/,메자닌(일시자본) 327000000 별도 (원문 us-gaap:TemporaryEquityRedemptionValue 327000000),3
+RTX,RTX,2011Q3,2011-09-30,분기말 총자본(자기자본),23588000000,USD,공시,https://www.sec.gov/Archives/edgar/data/101829/000119312511277919/,,3
+RTX,RTX,2011Q3,2011-09-30,분기말 지배지분 자본,22590000000,USD,공시,https://www.sec.gov/Archives/edgar/data/101829/000119312511277919/,,3
+RTX,RTX,2011Q3,2011-09-30,분기말 종가,70.36,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/RTX?interval=1d&events=splits (2011-09-30),분할조정 종가 44.2794 × 이후 분할계수 1.589,3
+RTX,RTX,2011Q3,2011-09-30,분기말 상장주식수,906087669,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/101829/000119312511277919/,dei:EntityCommonStockSharesOutstanding 클래스 합,3
+RTX,RTX,2011Q3,2011-09-30,분기말 시가총액,63752328391,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/RTX?interval=1d&events=splits (2011-09-30) ; https://www.sec.gov/Archives/edgar/data/101829/000119312511277919/,종가 70.36 × 주식수 906087669,3
+RTX,RTX,2011Q4,2011-12-31,분기별 매출액,14966000000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/101829/000119312512047752/ ; https://www.sec.gov/Archives/edgar/data/101829/000119312511277919/,연간 58190000000 − 9개월누적 43224000000 (SalesRevenueNet),3
+RTX,RTX,2011Q4,2011-12-31,분기별 영업이익,1898000000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/101829/000119312512047752/ ; https://www.sec.gov/Archives/edgar/data/101829/000119312511277919/,연간 8099000000 − 9개월누적 6201000000 (OperatingIncomeLoss),3
+RTX,RTX,2011Q4,2011-12-31,분기별 당기순이익(지배),1325000000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/101829/000119312512047752/ ; https://www.sec.gov/Archives/edgar/data/101829/000119312511277919/,연간 4979000000 − 9개월누적 3654000000 (NetIncomeLoss),3
+RTX,RTX,2011Q4,2011-12-31,분기별 영업활동현금흐름,2012000000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/101829/000119312512047752/ ; https://www.sec.gov/Archives/edgar/data/101829/000119312511277919/,누적 6590000000 − 직전누적 4578000000 (시작 2011-01-01),3
+RTX,RTX,2011Q4,2011-12-31,분기말 자산총계,61452000000,USD,공시,https://www.sec.gov/Archives/edgar/data/101829/000119312512047752/,,3
+RTX,RTX,2011Q4,2011-12-31,분기말 부채총계,38274000000,USD,공시,https://www.sec.gov/Archives/edgar/data/101829/000119312512047752/,메자닌(일시자본) 358000000 별도 (원문 us-gaap:TemporaryEquityRedemptionValue 358000000),3
+RTX,RTX,2011Q4,2011-12-31,분기말 총자본(자기자본),22820000000,USD,공시,https://www.sec.gov/Archives/edgar/data/101829/000119312512047752/,,3
+RTX,RTX,2011Q4,2011-12-31,분기말 지배지분 자본,21880000000,USD,공시,https://www.sec.gov/Archives/edgar/data/101829/000119312512047752/,,3
+RTX,RTX,2011Q4,2011-12-30,분기말 종가,73.09,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/RTX?interval=1d&events=splits (2011-12-30),분할조정 종가 45.9975 × 이후 분할계수 1.589,3
+RTX,RTX,2011Q4,2012-01-31,분기말 상장주식수,907221694,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/101829/000119312512047752/,dei:EntityCommonStockSharesOutstanding 클래스 합,3
+RTX,RTX,2011Q4,2011-12-30,분기말 시가총액,66308833614,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/RTX?interval=1d&events=splits (2011-12-30) ; https://www.sec.gov/Archives/edgar/data/101829/000119312512047752/,종가 73.09 × 주식수 907221694,3
+RTX,RTX,2012Q1,2012-03-31,분기별 매출액,12424000000,USD,공시,https://www.sec.gov/Archives/edgar/data/101829/000119312512196669/,,3
+RTX,RTX,2012Q1,2012-03-31,분기별 영업이익,1702000000,USD,공시,https://www.sec.gov/Archives/edgar/data/101829/000119312512196669/,,3
+RTX,RTX,2012Q1,2012-03-31,분기별 당기순이익(지배),330000000,USD,공시,https://www.sec.gov/Archives/edgar/data/101829/000119312512196669/,,3
+RTX,RTX,2012Q1,2012-03-31,분기별 영업활동현금흐름,1312000000,USD,공시,https://www.sec.gov/Archives/edgar/data/101829/000119312512196669/,,3
+RTX,RTX,2012Q1,2012-03-31,분기말 자산총계,61724000000,USD,공시,https://www.sec.gov/Archives/edgar/data/101829/000119312512196669/,,3
+RTX,RTX,2012Q1,2012-03-31,분기말 부채총계,37932000000,USD,공시,https://www.sec.gov/Archives/edgar/data/101829/000119312512196669/,메자닌(일시자본) 243000000 별도 (원문 us-gaap:TemporaryEquityRedemptionValue 243000000),3
+RTX,RTX,2012Q1,2012-03-31,분기말 총자본(자기자본),23549000000,USD,공시,https://www.sec.gov/Archives/edgar/data/101829/000119312512196669/,,3
+RTX,RTX,2012Q1,2012-03-31,분기말 지배지분 자본,22492000000,USD,공시,https://www.sec.gov/Archives/edgar/data/101829/000119312512196669/,,3
+RTX,RTX,2012Q1,2012-03-30,분기말 종가,82.94,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/RTX?interval=1d&events=splits (2012-03-30),분할조정 종가 52.1964 × 이후 분할계수 1.589,3
+RTX,RTX,2012Q1,2012-03-31,분기말 상장주식수,911358152,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/101829/000119312512196669/,dei:EntityCommonStockSharesOutstanding 클래스 합,3
+RTX,RTX,2012Q1,2012-03-30,분기말 시가총액,75588045127,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/RTX?interval=1d&events=splits (2012-03-30) ; https://www.sec.gov/Archives/edgar/data/101829/000119312512196669/,종가 82.94 × 주식수 911358152,3
+RTX,RTX,2012Q2,2012-06-30,분기별 매출액,13807000000,USD,공시,https://www.sec.gov/Archives/edgar/data/101829/000119312512322870/,,3
+RTX,RTX,2012Q2,2012-06-30,분기별 영업이익,2179000000,USD,공시,https://www.sec.gov/Archives/edgar/data/101829/000119312512322870/,,3
+RTX,RTX,2012Q2,2012-06-30,분기별 당기순이익(지배),1328000000,USD,공시,https://www.sec.gov/Archives/edgar/data/101829/000119312512322870/,,3
+RTX,RTX,2012Q2,2012-06-30,분기별 영업활동현금흐름,1714000000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/101829/000119312512322870/ ; https://www.sec.gov/Archives/edgar/data/101829/000119312512196669/,누적 3026000000 − 직전누적 1312000000 (시작 2012-01-01),3
+RTX,RTX,2012Q2,2012-06-30,분기말 자산총계,74653000000,USD,공시,https://www.sec.gov/Archives/edgar/data/101829/000119312512322870/,,3
+RTX,RTX,2012Q2,2012-06-30,분기말 부채총계,50690000000,USD,공시,https://www.sec.gov/Archives/edgar/data/101829/000119312512322870/,메자닌(일시자본) 238000000 별도 (원문 us-gaap:TemporaryEquityRedemptionValue 238000000),3
+RTX,RTX,2012Q2,2012-06-30,분기말 총자본(자기자본),23725000000,USD,공시,https://www.sec.gov/Archives/edgar/data/101829/000119312512322870/,,3
+RTX,RTX,2012Q2,2012-06-30,분기말 지배지분 자본,22604000000,USD,공시,https://www.sec.gov/Archives/edgar/data/101829/000119312512322870/,,3
+RTX,RTX,2012Q2,2012-06-29,분기말 종가,75.53,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/RTX?interval=1d&events=splits (2012-06-29),분할조정 종가 47.533 × 이후 분할계수 1.589,3
+RTX,RTX,2012Q2,2012-06-30,분기말 상장주식수,911787235,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/101829/000119312512322870/,dei:EntityCommonStockSharesOutstanding 클래스 합,3
+RTX,RTX,2012Q2,2012-06-29,분기말 시가총액,68867289860,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/RTX?interval=1d&events=splits (2012-06-29) ; https://www.sec.gov/Archives/edgar/data/101829/000119312512322870/,종가 75.53 × 주식수 911787235,3
+RTX,RTX,2012Q3,2012-09-30,분기별 매출액,15042000000,USD,공시,https://www.sec.gov/Archives/edgar/data/101829/000119312512436499/,,3
+RTX,RTX,2012Q3,2012-09-30,분기별 영업이익,2041000000,USD,공시,https://www.sec.gov/Archives/edgar/data/101829/000119312512436499/,,3
+RTX,RTX,2012Q3,2012-09-30,분기별 당기순이익(지배),1415000000,USD,공시,https://www.sec.gov/Archives/edgar/data/101829/000119312512436499/,,3
+RTX,RTX,2012Q3,2012-09-30,분기별 영업활동현금흐름,1625000000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/101829/000119312512436499/ ; https://www.sec.gov/Archives/edgar/data/101829/000119312512322870/,누적 4651000000 − 직전누적 3026000000 (시작 2012-01-01),3
+RTX,RTX,2012Q3,2012-09-30,분기말 자산총계,91946000000,USD,공시,https://www.sec.gov/Archives/edgar/data/101829/000119312512436499/,,3
+RTX,RTX,2012Q3,2012-09-30,분기말 부채총계,65622000000,USD,공시,https://www.sec.gov/Archives/edgar/data/101829/000119312512436499/,메자닌(일시자본) 233000000 별도 (원문 us-gaap:TemporaryEquityRedemptionValue 233000000),3
+RTX,RTX,2012Q3,2012-09-30,분기말 총자본(자기자본),26091000000,USD,공시,https://www.sec.gov/Archives/edgar/data/101829/000119312512436499/,,3
+RTX,RTX,2012Q3,2012-09-30,분기말 지배지분 자본,24955000000,USD,공시,https://www.sec.gov/Archives/edgar/data/101829/000119312512436499/,,3
+RTX,RTX,2012Q3,2012-09-28,분기말 종가,78.29,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/RTX?interval=1d&events=splits (2012-09-28),분할조정 종가 49.27 × 이후 분할계수 1.589,3
+RTX,RTX,2012Q3,2012-09-30,분기말 상장주식수,916544528,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/101829/000119312512436499/,dei:EntityCommonStockSharesOutstanding 클래스 합,3
+RTX,RTX,2012Q3,2012-09-28,분기말 시가총액,71756271097,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/RTX?interval=1d&events=splits (2012-09-28) ; https://www.sec.gov/Archives/edgar/data/101829/000119312512436499/,종가 78.29 × 주식수 916544528,3
+RTX,RTX,2012Q4,2012-12-31,분기별 매출액,16443000000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/101829/000119312513042195/ ; https://www.sec.gov/Archives/edgar/data/101829/000119312512436499/,연간 57708000000 − 9개월누적 41265000000 (SalesRevenueNet),3
+RTX,RTX,2012Q4,2012-12-31,분기별 영업이익,1751000000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/101829/000119312513042195/ ; https://www.sec.gov/Archives/edgar/data/101829/000119312512436499/,연간 7684000000 − 9개월누적 5933000000 (OperatingIncomeLoss),3
+RTX,RTX,2012Q4,2012-12-31,분기별 당기순이익(지배),2057000000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/101829/000119312513042195/ ; https://www.sec.gov/Archives/edgar/data/101829/000119312512436499/,연간 5130000000 − 9개월누적 3073000000 (NetIncomeLoss),3
+RTX,RTX,2012Q4,2012-12-31,분기별 영업활동현금흐름,1954000000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/101829/000119312513042195/ ; https://www.sec.gov/Archives/edgar/data/101829/000119312512436499/,누적 6605000000 − 직전누적 4651000000 (시작 2012-01-01),3
+RTX,RTX,2012Q4,2012-12-31,분기말 자산총계,89409000000,USD,공시,https://www.sec.gov/Archives/edgar/data/101829/000119312513042195/,,3
+RTX,RTX,2012Q4,2012-12-31,분기말 부채총계,62102000000,USD,공시,https://www.sec.gov/Archives/edgar/data/101829/000119312513042195/,메자닌(일시자본) 238000000 별도 (원문 us-gaap:TemporaryEquityRedemptionValue 238000000),3
+RTX,RTX,2012Q4,2012-12-31,분기말 총자본(자기자본),27069000000,USD,공시,https://www.sec.gov/Archives/edgar/data/101829/000119312513042195/,,3
+RTX,RTX,2012Q4,2012-12-31,분기말 지배지분 자본,25914000000,USD,공시,https://www.sec.gov/Archives/edgar/data/101829/000119312513042195/,,3
+RTX,RTX,2012Q4,2012-12-31,분기말 종가,82.01,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/RTX?interval=1d&events=splits (2012-12-31),분할조정 종가 51.6111 × 이후 분할계수 1.589,3
+RTX,RTX,2012Q4,2013-01-31,분기말 상장주식수,916639918,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/101829/000119312513042195/,dei:EntityCommonStockSharesOutstanding 클래스 합,3
+RTX,RTX,2012Q4,2012-12-31,분기말 시가총액,75173639675,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/RTX?interval=1d&events=splits (2012-12-31) ; https://www.sec.gov/Archives/edgar/data/101829/000119312513042195/,종가 82.01 × 주식수 916639918,3
+RTX,RTX,2013Q1,2013-03-31,분기별 매출액,14399000000,USD,공시,https://www.sec.gov/Archives/edgar/data/101829/000010182913000007/,,3
+RTX,RTX,2013Q1,2013-03-31,분기별 영업이익,2006000000,USD,공시,https://www.sec.gov/Archives/edgar/data/101829/000010182913000007/,,3
+RTX,RTX,2013Q1,2013-03-31,분기별 당기순이익(지배),1266000000,USD,공시,https://www.sec.gov/Archives/edgar/data/101829/000010182913000007/,,3
+RTX,RTX,2013Q1,2013-03-31,분기별 영업활동현금흐름,1409000000,USD,공시,https://www.sec.gov/Archives/edgar/data/101829/000010182913000007/,,3
+RTX,RTX,2013Q1,2013-03-31,분기말 자산총계,88513000000,USD,공시,https://www.sec.gov/Archives/edgar/data/101829/000010182913000007/,,3
+RTX,RTX,2013Q1,2013-03-31,분기말 부채총계,60695000000,USD,공시,https://www.sec.gov/Archives/edgar/data/101829/000010182913000007/,메자닌(일시자본) 255000000 별도 (원문 us-gaap:TemporaryEquityRedemptionValue 255000000),3
+RTX,RTX,2013Q1,2013-03-31,분기말 총자본(자기자본),27563000000,USD,공시,https://www.sec.gov/Archives/edgar/data/101829/000010182913000007/,,3
+RTX,RTX,2013Q1,2013-03-31,분기말 지배지분 자본,26194000000,USD,공시,https://www.sec.gov/Archives/edgar/data/101829/000010182913000007/,,3
+RTX,RTX,2013Q1,2013-03-28,분기말 종가,93.43,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/RTX?interval=1d&events=splits (2013-03-28),분할조정 종가 58.798 × 이후 분할계수 1.589,3
+RTX,RTX,2013Q1,2013-03-31,분기말 상장주식수,919300710,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/101829/000010182913000007/,dei:EntityCommonStockSharesOutstanding 클래스 합,3
+RTX,RTX,2013Q1,2013-03-28,분기말 시가총액,85890265335,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/RTX?interval=1d&events=splits (2013-03-28) ; https://www.sec.gov/Archives/edgar/data/101829/000010182913000007/,종가 93.43 × 주식수 919300710,3
+RTX,RTX,2013Q2,2013-06-30,분기별 매출액,16006000000,USD,공시,https://www.sec.gov/Archives/edgar/data/101829/000010182913000029/,,3
+RTX,RTX,2013Q2,2013-06-30,분기별 영업이익,2507000000,USD,공시,https://www.sec.gov/Archives/edgar/data/101829/000010182913000029/,,3
+RTX,RTX,2013Q2,2013-06-30,분기별 당기순이익(지배),1560000000,USD,공시,https://www.sec.gov/Archives/edgar/data/101829/000010182913000029/,,3
+RTX,RTX,2013Q2,2013-06-30,분기별 영업활동현금흐름,1939000000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/101829/000010182913000029/ ; https://www.sec.gov/Archives/edgar/data/101829/000010182913000007/,누적 3348000000 − 직전누적 1409000000 (시작 2013-01-01),3
+RTX,RTX,2013Q2,2013-06-30,분기말 자산총계,미확인,USD,미확인,https://www.sec.gov/Archives/edgar/data/101829/000010182913000029/,자체 검증 실패: 자산 88744000000 ≠ 부채 60201000000 + 총자본 28369000000 + 메자닌 0 (차이 174000000),3
+RTX,RTX,2013Q2,2013-06-30,분기말 부채총계,미확인,USD,미확인,https://www.sec.gov/Archives/edgar/data/101829/000010182913000029/,자체 검증 실패: 자산 88744000000 ≠ 부채 60201000000 + 총자본 28369000000 + 메자닌 0 (차이 174000000),3
+RTX,RTX,2013Q2,2013-06-30,분기말 총자본(자기자본),미확인,USD,미확인,https://www.sec.gov/Archives/edgar/data/101829/000010182913000029/,자체 검증 실패: 자산 88744000000 ≠ 부채 60201000000 + 총자본 28369000000 + 메자닌 0 (차이 174000000),3
+RTX,RTX,2013Q2,2013-06-30,분기말 지배지분 자본,26987000000,USD,공시,https://www.sec.gov/Archives/edgar/data/101829/000010182913000029/,,3
+RTX,RTX,2013Q2,2013-06-28,분기말 종가,92.94,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/RTX?interval=1d&events=splits (2013-06-28),분할조정 종가 58.4896 × 이후 분할계수 1.589,3
+RTX,RTX,2013Q2,2013-06-30,분기말 상장주식수,917509315,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/101829/000010182913000029/,dei:EntityCommonStockSharesOutstanding 클래스 합,3
+RTX,RTX,2013Q2,2013-06-28,분기말 시가총액,85273315736,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/RTX?interval=1d&events=splits (2013-06-28) ; https://www.sec.gov/Archives/edgar/data/101829/000010182913000029/,종가 92.94 × 주식수 917509315,3
+RTX,RTX,2013Q3,2013-09-30,분기별 매출액,15462000000,USD,공시,https://www.sec.gov/Archives/edgar/data/101829/000010182913000045/,,3
+RTX,RTX,2013Q3,2013-09-30,분기별 영업이익,2366000000,USD,공시,https://www.sec.gov/Archives/edgar/data/101829/000010182913000045/,,3
+RTX,RTX,2013Q3,2013-09-30,분기별 당기순이익(지배),1432000000,USD,공시,https://www.sec.gov/Archives/edgar/data/101829/000010182913000045/,,3
+RTX,RTX,2013Q3,2013-09-30,분기별 영업활동현금흐름,1543000000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/101829/000010182913000045/ ; https://www.sec.gov/Archives/edgar/data/101829/000010182913000029/,누적 4891000000 − 직전누적 3348000000 (시작 2013-01-01),3
+RTX,RTX,2013Q3,2013-09-30,분기말 자산총계,90326000000,USD,공시,https://www.sec.gov/Archives/edgar/data/101829/000010182913000045/,,3
+RTX,RTX,2013Q3,2013-09-30,분기말 부채총계,60283000000,USD,공시,https://www.sec.gov/Archives/edgar/data/101829/000010182913000045/,메자닌(일시자본) 124000000 별도 (원문 us-gaap:TemporaryEquityRedemptionValue 124000000),3
+RTX,RTX,2013Q3,2013-09-30,분기말 총자본(자기자본),29919000000,USD,공시,https://www.sec.gov/Archives/edgar/data/101829/000010182913000045/,,3
+RTX,RTX,2013Q3,2013-09-30,분기말 지배지분 자본,28577000000,USD,공시,https://www.sec.gov/Archives/edgar/data/101829/000010182913000045/,,3
+RTX,RTX,2013Q3,2013-09-30,분기말 종가,107.82,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/RTX?interval=1d&events=splits (2013-09-30),분할조정 종가 67.854 × 이후 분할계수 1.589,3
+RTX,RTX,2013Q3,2013-09-30,분기말 상장주식수,917581965,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/101829/000010182913000045/,dei:EntityCommonStockSharesOutstanding 클래스 합,3
+RTX,RTX,2013Q3,2013-09-30,분기말 시가총액,98933687466,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/RTX?interval=1d&events=splits (2013-09-30) ; https://www.sec.gov/Archives/edgar/data/101829/000010182913000045/,종가 107.82 × 주식수 917581965,3
+RTX,RTX,2013Q4,2013-12-31,분기별 매출액,16759000000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/101829/000010182914000006/ ; https://www.sec.gov/Archives/edgar/data/101829/000010182913000045/,연간 62626000000 − 9개월누적 45867000000 (SalesRevenueNet),3
+RTX,RTX,2013Q4,2013-12-31,분기별 영업이익,2330000000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/101829/000010182914000006/ ; https://www.sec.gov/Archives/edgar/data/101829/000010182913000045/,연간 9209000000 − 9개월누적 6879000000 (OperatingIncomeLoss),3
+RTX,RTX,2013Q4,2013-12-31,분기별 당기순이익(지배),1463000000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/101829/000010182914000006/ ; https://www.sec.gov/Archives/edgar/data/101829/000010182913000045/,연간 5721000000 − 9개월누적 4258000000 (NetIncomeLoss),3
+RTX,RTX,2013Q4,2013-12-31,분기별 영업활동현금흐름,2614000000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/101829/000010182914000006/ ; https://www.sec.gov/Archives/edgar/data/101829/000010182913000045/,누적 7505000000 − 직전누적 4891000000 (시작 2013-01-01),3
+RTX,RTX,2013Q4,2013-12-31,분기말 자산총계,90594000000,USD,공시,https://www.sec.gov/Archives/edgar/data/101829/000010182914000006/,,3
+RTX,RTX,2013Q4,2013-12-31,분기말 부채총계,57264000000,USD,공시,https://www.sec.gov/Archives/edgar/data/101829/000010182914000006/,메자닌(일시자본) 111000000 별도 (원문 us-gaap:TemporaryEquityRedemptionValue 111000000),3
+RTX,RTX,2013Q4,2013-12-31,분기말 총자본(자기자본),33219000000,USD,공시,https://www.sec.gov/Archives/edgar/data/101829/000010182914000006/,,3
+RTX,RTX,2013Q4,2013-12-31,분기말 지배지분 자본,31866000000,USD,공시,https://www.sec.gov/Archives/edgar/data/101829/000010182914000006/,,3
+RTX,RTX,2013Q4,2013-12-31,분기말 종가,113.8,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/RTX?interval=1d&events=splits (2013-12-31),분할조정 종가 71.6174 × 이후 분할계수 1.589,3
+RTX,RTX,2013Q4,2014-01-31,분기말 상장주식수,915236403,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/101829/000010182914000006/,dei:EntityCommonStockSharesOutstanding 클래스 합,3
+RTX,RTX,2013Q4,2013-12-31,분기말 시가총액,104153902661,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/RTX?interval=1d&events=splits (2013-12-31) ; https://www.sec.gov/Archives/edgar/data/101829/000010182914000006/,종가 113.8 × 주식수 915236403,3
+RTX,RTX,2014Q1,2014-03-31,분기별 매출액,14745000000,USD,공시,https://www.sec.gov/Archives/edgar/data/101829/000010182914000016/,,3
+RTX,RTX,2014Q1,2014-03-31,분기별 영업이익,2098000000,USD,공시,https://www.sec.gov/Archives/edgar/data/101829/000010182914000016/,,3
+RTX,RTX,2014Q1,2014-03-31,분기별 당기순이익(지배),1213000000,USD,공시,https://www.sec.gov/Archives/edgar/data/101829/000010182914000016/,,3
+RTX,RTX,2014Q1,2014-03-31,분기별 영업활동현금흐름,1335000000,USD,공시,https://www.sec.gov/Archives/edgar/data/101829/000010182914000016/,,3
+RTX,RTX,2014Q1,2014-03-31,분기말 자산총계,91229000000,USD,공시,https://www.sec.gov/Archives/edgar/data/101829/000010182914000016/,,3
+RTX,RTX,2014Q1,2014-03-31,분기말 부채총계,57397000000,USD,공시,https://www.sec.gov/Archives/edgar/data/101829/000010182914000016/,메자닌(일시자본) 137000000 별도 (원문 us-gaap:TemporaryEquityRedemptionValue 137000000),3
+RTX,RTX,2014Q1,2014-03-31,분기말 총자본(자기자본),33695000000,USD,공시,https://www.sec.gov/Archives/edgar/data/101829/000010182914000016/,,3
+RTX,RTX,2014Q1,2014-03-31,분기말 지배지분 자본,32317000000,USD,공시,https://www.sec.gov/Archives/edgar/data/101829/000010182914000016/,,3
+RTX,RTX,2014Q1,2014-03-31,분기말 종가,116.84,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/RTX?interval=1d&events=splits (2014-03-31),분할조정 종가 73.5305 × 이후 분할계수 1.589,3
+RTX,RTX,2014Q1,2014-03-31,분기말 상장주식수,916731329,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/101829/000010182914000016/,dei:EntityCommonStockSharesOutstanding 클래스 합,3
+RTX,RTX,2014Q1,2014-03-31,분기말 시가총액,107110888480,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/RTX?interval=1d&events=splits (2014-03-31) ; https://www.sec.gov/Archives/edgar/data/101829/000010182914000016/,종가 116.84 × 주식수 916731329,3
+RTX,RTX,2014Q2,2014-06-30,분기별 매출액,17191000000,USD,공시,https://www.sec.gov/Archives/edgar/data/101829/000010182914000033/,,3
+RTX,RTX,2014Q2,2014-06-30,분기별 영업이익,2355000000,USD,공시,https://www.sec.gov/Archives/edgar/data/101829/000010182914000033/,,3
+RTX,RTX,2014Q2,2014-06-30,분기별 당기순이익(지배),1680000000,USD,공시,https://www.sec.gov/Archives/edgar/data/101829/000010182914000033/,,3
+RTX,RTX,2014Q2,2014-06-30,분기별 영업활동현금흐름,1742000000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/101829/000010182914000033/ ; https://www.sec.gov/Archives/edgar/data/101829/000010182914000016/,누적 3077000000 − 직전누적 1335000000 (시작 2014-01-01),3
+RTX,RTX,2014Q2,2014-06-30,분기말 자산총계,92142000000,USD,공시,https://www.sec.gov/Archives/edgar/data/101829/000010182914000033/,,3
+RTX,RTX,2014Q2,2014-06-30,분기말 부채총계,56803000000,USD,공시,https://www.sec.gov/Archives/edgar/data/101829/000010182914000033/,메자닌(일시자본) 146000000 별도 (원문 us-gaap:TemporaryEquityRedemptionValue 146000000),3
+RTX,RTX,2014Q2,2014-06-30,분기말 총자본(자기자본),35193000000,USD,공시,https://www.sec.gov/Archives/edgar/data/101829/000010182914000033/,,3
+RTX,RTX,2014Q2,2014-06-30,분기말 지배지분 자본,33785000000,USD,공시,https://www.sec.gov/Archives/edgar/data/101829/000010182914000033/,,3
+RTX,RTX,2014Q2,2014-06-30,분기말 종가,115.45,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/RTX?interval=1d&events=splits (2014-06-30),분할조정 종가 72.6558 × 이후 분할계수 1.589,3
+RTX,RTX,2014Q2,2014-06-30,분기말 상장주식수,914810016,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/101829/000010182914000033/,dei:EntityCommonStockSharesOutstanding 클래스 합,3
+RTX,RTX,2014Q2,2014-06-30,분기말 시가총액,105614816347,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/RTX?interval=1d&events=splits (2014-06-30) ; https://www.sec.gov/Archives/edgar/data/101829/000010182914000033/,종가 115.45 × 주식수 914810016,3
+RTX,RTX,2014Q3,2014-09-30,분기별 매출액,16168000000,USD,공시,https://www.sec.gov/Archives/edgar/data/101829/000010182914000039/,,3
+RTX,RTX,2014Q3,2014-09-30,분기별 영업이익,2746000000,USD,공시,https://www.sec.gov/Archives/edgar/data/101829/000010182914000039/,,3
+RTX,RTX,2014Q3,2014-09-30,분기별 당기순이익(지배),1854000000,USD,공시,https://www.sec.gov/Archives/edgar/data/101829/000010182914000039/,,3
+RTX,RTX,2014Q3,2014-09-30,분기별 영업활동현금흐름,1948000000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/101829/000010182914000039/ ; https://www.sec.gov/Archives/edgar/data/101829/000010182914000033/,누적 5025000000 − 직전누적 3077000000 (시작 2014-01-01),3
+RTX,RTX,2014Q3,2014-09-30,분기말 자산총계,91774000000,USD,공시,https://www.sec.gov/Archives/edgar/data/101829/000010182914000039/,,3
+RTX,RTX,2014Q3,2014-09-30,분기말 부채총계,56244000000,USD,공시,https://www.sec.gov/Archives/edgar/data/101829/000010182914000039/,메자닌(일시자본) 141000000 별도,3
+RTX,RTX,2014Q3,2014-09-30,분기말 총자본(자기자본),35389000000,USD,공시,https://www.sec.gov/Archives/edgar/data/101829/000010182914000039/,,3
+RTX,RTX,2014Q3,2014-09-30,분기말 지배지분 자본,34049000000,USD,공시,https://www.sec.gov/Archives/edgar/data/101829/000010182914000039/,,3
+RTX,RTX,2014Q3,2014-09-30,분기말 종가,105.6,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/RTX?interval=1d&events=splits (2014-09-30),분할조정 종가 66.4569 × 이후 분할계수 1.589,3
+RTX,RTX,2014Q3,2014-09-30,분기말 상장주식수,911658325,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/101829/000010182914000039/,dei:EntityCommonStockSharesOutstanding 클래스 합,3
+RTX,RTX,2014Q3,2014-09-30,분기말 시가총액,96271119120,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/RTX?interval=1d&events=splits (2014-09-30) ; https://www.sec.gov/Archives/edgar/data/101829/000010182914000039/,종가 105.6 × 주식수 911658325,3
+RTX,RTX,2014Q4,2014-12-31,분기별 매출액,16996000000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/101829/000010182915000005/ ; https://www.sec.gov/Archives/edgar/data/101829/000010182914000039/,연간 65100000000 − 9개월누적 48104000000 (SalesRevenueNet),3
+RTX,RTX,2014Q4,2014-12-31,분기별 영업이익,2570000000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/101829/000010182915000005/ ; https://www.sec.gov/Archives/edgar/data/101829/000010182914000039/,연간 9769000000 − 9개월누적 7199000000 (OperatingIncomeLoss),3
+RTX,RTX,2014Q4,2014-12-31,분기별 당기순이익(지배),1473000000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/101829/000010182915000005/ ; https://www.sec.gov/Archives/edgar/data/101829/000010182914000039/,연간 6220000000 − 9개월누적 4747000000 (NetIncomeLoss),3
+RTX,RTX,2014Q4,2014-12-31,분기별 영업활동현금흐름,2311000000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/101829/000010182915000005/ ; https://www.sec.gov/Archives/edgar/data/101829/000010182914000039/,누적 7336000000 − 직전누적 5025000000 (시작 2014-01-01),3
+RTX,RTX,2014Q4,2014-12-31,분기말 자산총계,91206000000,USD,공시(재작성 반영),https://www.sec.gov/Archives/edgar/data/101829/000010182916000050/,원 공시 91289000000 (https://www.sec.gov/Archives/edgar/data/101829/000010182915000005/),3
+RTX,RTX,2014Q4,2014-12-31,분기말 부채총계,58502000000,USD,공시(재작성 반영),https://www.sec.gov/Archives/edgar/data/101829/000010182916000050/,메자닌(일시자본) 140000000 별도 ; 원 공시 58585000000 (https://www.sec.gov/Archives/edgar/data/101829/000010182915000005/),3
+RTX,RTX,2014Q4,2014-12-31,분기말 총자본(자기자본),32564000000,USD,공시,https://www.sec.gov/Archives/edgar/data/101829/000010182915000005/,,3
+RTX,RTX,2014Q4,2014-12-31,분기말 지배지분 자본,31213000000,USD,공시,https://www.sec.gov/Archives/edgar/data/101829/000010182915000005/,,3
+RTX,RTX,2014Q4,2014-12-31,분기말 종가,115.0,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/RTX?interval=1d&events=splits (2014-12-31),분할조정 종가 72.3726 × 이후 분할계수 1.589,3
+RTX,RTX,2014Q4,2015-01-31,분기말 상장주식수,907156995,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/101829/000010182915000005/,dei:EntityCommonStockSharesOutstanding 클래스 합,3
+RTX,RTX,2014Q4,2014-12-31,분기말 시가총액,104323054425,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/RTX?interval=1d&events=splits (2014-12-31) ; https://www.sec.gov/Archives/edgar/data/101829/000010182915000005/,종가 115.0 × 주식수 907156995,3
+RTX,RTX,2015Q1,2015-03-31,분기별 매출액,14541000000,USD,공시,https://www.sec.gov/Archives/edgar/data/101829/000010182915000015/,,3
+RTX,RTX,2015Q1,2015-03-31,분기별 영업이익,2274000000,USD,공시,https://www.sec.gov/Archives/edgar/data/101829/000010182915000015/,,3
+RTX,RTX,2015Q1,2015-03-31,분기별 당기순이익(지배),1426000000,USD,공시,https://www.sec.gov/Archives/edgar/data/101829/000010182915000015/,,3
+RTX,RTX,2015Q1,2015-03-31,분기별 영업활동현금흐름,1310000000,USD,공시,https://www.sec.gov/Archives/edgar/data/101829/000010182915000015/,,3
+RTX,RTX,2015Q1,2015-03-31,분기말 자산총계,91327000000,USD,공시,https://www.sec.gov/Archives/edgar/data/101829/000010182915000015/,,3
+RTX,RTX,2015Q1,2015-03-31,분기말 부채총계,61025000000,USD,공시,https://www.sec.gov/Archives/edgar/data/101829/000010182915000015/,메자닌(일시자본) 135000000 별도,3
+RTX,RTX,2015Q1,2015-03-31,분기말 총자본(자기자본),30167000000,USD,공시,https://www.sec.gov/Archives/edgar/data/101829/000010182915000015/,,3
+RTX,RTX,2015Q1,2015-03-31,분기말 지배지분 자본,28650000000,USD,공시,https://www.sec.gov/Archives/edgar/data/101829/000010182915000015/,,3
+RTX,RTX,2015Q1,2015-03-31,분기말 종가,117.2,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/RTX?interval=1d&events=splits (2015-03-31),분할조정 종가 73.7571 × 이후 분할계수 1.589,3
+RTX,RTX,2015Q1,2015-03-31,분기말 상장주식수,890201794,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/101829/000010182915000015/,dei:EntityCommonStockSharesOutstanding 클래스 합,3
+RTX,RTX,2015Q1,2015-03-31,분기말 시가총액,104331650257,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/RTX?interval=1d&events=splits (2015-03-31) ; https://www.sec.gov/Archives/edgar/data/101829/000010182915000015/,종가 117.2 × 주식수 890201794,3
+RTX,RTX,2015Q2,2015-06-30,분기별 매출액,16333000000,USD,공시,https://www.sec.gov/Archives/edgar/data/101829/000010182915000035/,,3
+RTX,RTX,2015Q2,2015-06-30,분기별 영업이익,2552000000,USD,공시,https://www.sec.gov/Archives/edgar/data/101829/000010182915000035/,,3
+RTX,RTX,2015Q2,2015-06-30,분기별 당기순이익(지배),1542000000,USD,공시,https://www.sec.gov/Archives/edgar/data/101829/000010182915000035/,,3
+RTX,RTX,2015Q2,2015-06-30,분기별 영업활동현금흐름,1538000000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/101829/000010182915000035/ ; https://www.sec.gov/Archives/edgar/data/101829/000010182915000015/,누적 2848000000 − 직전누적 1310000000 (시작 2015-01-01),3
+RTX,RTX,2015Q2,2015-06-30,분기말 자산총계,92773000000,USD,공시,https://www.sec.gov/Archives/edgar/data/101829/000010182915000035/,,3
+RTX,RTX,2015Q2,2015-06-30,분기말 부채총계,60701000000,USD,공시,https://www.sec.gov/Archives/edgar/data/101829/000010182915000035/,메자닌(일시자본) 134000000 별도,3
+RTX,RTX,2015Q2,2015-06-30,분기말 총자본(자기자본),31938000000,USD,공시,https://www.sec.gov/Archives/edgar/data/101829/000010182915000035/,,3
+RTX,RTX,2015Q2,2015-06-30,분기말 지배지분 자본,30377000000,USD,공시,https://www.sec.gov/Archives/edgar/data/101829/000010182915000035/,,3
+RTX,RTX,2015Q2,2015-06-30,분기말 종가,110.93,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/RTX?interval=1d&events=splits (2015-06-30),분할조정 종가 69.8112 × 이후 분할계수 1.589,3
+RTX,RTX,2015Q2,2015-06-30,분기말 상장주식수,890597745,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/101829/000010182915000035/,dei:EntityCommonStockSharesOutstanding 클래스 합,3
+RTX,RTX,2015Q2,2015-06-30,분기말 시가총액,98794007853,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/RTX?interval=1d&events=splits (2015-06-30) ; https://www.sec.gov/Archives/edgar/data/101829/000010182915000035/,종가 110.93 × 주식수 890597745,3
+RTX,RTX,2015Q3,2015-09-30,분기별 매출액,13788000000,USD,공시,https://www.sec.gov/Archives/edgar/data/101829/000010182915000042/,,3
+RTX,RTX,2015Q3,2015-09-30,분기별 영업이익,2302000000,USD,공시,https://www.sec.gov/Archives/edgar/data/101829/000010182915000042/,,3
+RTX,RTX,2015Q3,2015-09-30,분기별 당기순이익(지배),1362000000,USD,공시,https://www.sec.gov/Archives/edgar/data/101829/000010182915000042/,,3
+RTX,RTX,2015Q3,2015-09-30,분기별 영업활동현금흐름,1196000000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/101829/000010182915000042/ ; https://www.sec.gov/Archives/edgar/data/101829/000010182915000035/,누적 4044000000 − 직전누적 2848000000 (시작 2015-01-01),3
+RTX,RTX,2015Q3,2015-09-30,분기말 자산총계,92135000000,USD,공시,https://www.sec.gov/Archives/edgar/data/101829/000010182915000042/,,3
+RTX,RTX,2015Q3,2015-09-30,분기말 부채총계,59952000000,USD,공시,https://www.sec.gov/Archives/edgar/data/101829/000010182915000042/,메자닌(일시자본) 132000000 별도,3
+RTX,RTX,2015Q3,2015-09-30,분기말 총자본(자기자본),32051000000,USD,공시,https://www.sec.gov/Archives/edgar/data/101829/000010182915000042/,,3
+RTX,RTX,2015Q3,2015-09-30,분기말 지배지분 자본,30525000000,USD,공시,https://www.sec.gov/Archives/edgar/data/101829/000010182915000042/,,3
+RTX,RTX,2015Q3,2015-09-30,분기말 종가,88.99,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/RTX?interval=1d&events=splits (2015-09-30),분할조정 종가 56.0038 × 이후 분할계수 1.589,3
+RTX,RTX,2015Q3,2015-09-30,분기말 상장주식수,887020937,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/101829/000010182915000042/,dei:EntityCommonStockSharesOutstanding 클래스 합,3
+RTX,RTX,2015Q3,2015-09-30,분기말 시가총액,78935993184,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/RTX?interval=1d&events=splits (2015-09-30) ; https://www.sec.gov/Archives/edgar/data/101829/000010182915000042/,종가 88.99 × 주식수 887020937,3
+RTX,RTX,2015Q4,2015-12-31,분기별 매출액,14300000000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/101829/000010182916000050/ ; https://www.sec.gov/Archives/edgar/data/101829/000010182915000042/,연간 56098000000 − 9개월누적 41798000000 (SalesRevenueNet),3
+RTX,RTX,2015Q4,2015-12-31,분기별 영업이익,392000000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/101829/000010182916000050/ ; https://www.sec.gov/Archives/edgar/data/101829/000010182915000042/,연간 7291000000 − 9개월누적 6899000000 (OperatingIncomeLoss),3
+RTX,RTX,2015Q4,2015-12-31,분기별 당기순이익(지배),3278000000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/101829/000010182916000050/ ; https://www.sec.gov/Archives/edgar/data/101829/000010182915000042/,연간 7608000000 − 9개월누적 4330000000 (NetIncomeLoss),3
+RTX,RTX,2015Q4,2015-12-31,분기별 영업활동현금흐름,2654000000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/101829/000010182916000050/ ; https://www.sec.gov/Archives/edgar/data/101829/000010182915000042/,누적 6698000000 − 직전누적 4044000000 (시작 2015-01-01),3
+RTX,RTX,2015Q4,2015-12-31,분기말 자산총계,87484000000,USD,공시,https://www.sec.gov/Archives/edgar/data/101829/000010182916000050/,,3
+RTX,RTX,2015Q4,2015-12-31,분기말 부채총계,58518000000,USD,공시,https://www.sec.gov/Archives/edgar/data/101829/000010182916000050/,메자닌(일시자본) 122000000 별도,3
+RTX,RTX,2015Q4,2015-12-31,분기말 총자본(자기자본),28844000000,USD,공시,https://www.sec.gov/Archives/edgar/data/101829/000010182916000050/,,3
+RTX,RTX,2015Q4,2015-12-31,분기말 지배지분 자본,27358000000,USD,공시,https://www.sec.gov/Archives/edgar/data/101829/000010182916000050/,,3
+RTX,RTX,2015Q4,2015-12-31,분기말 종가,96.07,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/RTX?interval=1d&events=splits (2015-12-31),분할조정 종가 60.4594 × 이후 분할계수 1.589,3
+RTX,RTX,2015Q4,2016-01-31,분기말 상장주식수,836432010,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/101829/000010182916000050/,dei:EntityCommonStockSharesOutstanding 클래스 합,3
+RTX,RTX,2015Q4,2015-12-31,분기말 시가총액,80356023201,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/RTX?interval=1d&events=splits (2015-12-31) ; https://www.sec.gov/Archives/edgar/data/101829/000010182916000050/,종가 96.07 × 주식수 836432010,3
+RTX,RTX,2016Q1,2016-03-31,분기별 매출액,13357000000,USD,공시,https://www.sec.gov/Archives/edgar/data/101829/000010182916000062/,,3
+RTX,RTX,2016Q1,2016-03-31,분기별 영업이익,1945000000,USD,공시,https://www.sec.gov/Archives/edgar/data/101829/000010182916000062/,,3
+RTX,RTX,2016Q1,2016-03-31,분기별 당기순이익(지배),1191000000,USD,공시,https://www.sec.gov/Archives/edgar/data/101829/000010182916000062/,,3
+RTX,RTX,2016Q1,2016-03-31,분기별 영업활동현금흐름,795000000,USD,공시,https://www.sec.gov/Archives/edgar/data/101829/000010182916000062/,,3
+RTX,RTX,2016Q1,2016-03-31,분기말 자산총계,88571000000,USD,공시,https://www.sec.gov/Archives/edgar/data/101829/000010182916000062/,,3
+RTX,RTX,2016Q1,2016-03-31,분기말 부채총계,58541000000,USD,공시,https://www.sec.gov/Archives/edgar/data/101829/000010182916000062/,메자닌(일시자본) 127000000 별도,3
+RTX,RTX,2016Q1,2016-03-31,분기말 총자본(자기자본),29903000000,USD,공시,https://www.sec.gov/Archives/edgar/data/101829/000010182916000062/,,3
+RTX,RTX,2016Q1,2016-03-31,분기말 지배지분 자본,28353000000,USD,공시,https://www.sec.gov/Archives/edgar/data/101829/000010182916000062/,,3
+RTX,RTX,2016Q1,2016-03-31,분기말 종가,100.1,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/RTX?interval=1d&events=splits (2016-03-31),분할조정 종가 62.9956 × 이후 분할계수 1.589,3
+RTX,RTX,2016Q1,2016-03-31,분기말 상장주식수,836865684,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/101829/000010182916000062/,dei:EntityCommonStockSharesOutstanding 클래스 합,3
+RTX,RTX,2016Q1,2016-03-31,분기말 시가총액,83770254968,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/RTX?interval=1d&events=splits (2016-03-31) ; https://www.sec.gov/Archives/edgar/data/101829/000010182916000062/,종가 100.1 × 주식수 836865684,3
+RTX,RTX,2016Q2,2016-06-30,분기별 매출액,14874000000,USD,공시,https://www.sec.gov/Archives/edgar/data/101829/000010182916000080/,,3
+RTX,RTX,2016Q2,2016-06-30,분기별 영업이익,2337000000,USD,공시,https://www.sec.gov/Archives/edgar/data/101829/000010182916000080/,,3
+RTX,RTX,2016Q2,2016-06-30,분기별 당기순이익(지배),1373000000,USD,공시,https://www.sec.gov/Archives/edgar/data/101829/000010182916000080/,,3
+RTX,RTX,2016Q2,2016-06-30,분기별 영업활동현금흐름,1776000000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/101829/000010182916000080/ ; https://www.sec.gov/Archives/edgar/data/101829/000010182916000062/,누적 2571000000 − 직전누적 795000000 (시작 2016-01-01),3
+RTX,RTX,2016Q2,2016-06-30,분기말 자산총계,89480000000,USD,공시,https://www.sec.gov/Archives/edgar/data/101829/000010182916000080/,,3
+RTX,RTX,2016Q2,2016-06-30,분기말 부채총계,58518000000,USD,공시,https://www.sec.gov/Archives/edgar/data/101829/000010182916000080/,메자닌(일시자본) 314000000 별도,3
+RTX,RTX,2016Q2,2016-06-30,분기말 총자본(자기자본),30648000000,USD,공시,https://www.sec.gov/Archives/edgar/data/101829/000010182916000080/,,3
+RTX,RTX,2016Q2,2016-06-30,분기말 지배지분 자본,29090000000,USD,공시,https://www.sec.gov/Archives/edgar/data/101829/000010182916000080/,,3
+RTX,RTX,2016Q2,2016-06-30,분기말 종가,102.55,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/RTX?interval=1d&events=splits (2016-06-30),분할조정 종가 64.5374 × 이후 분할계수 1.589,3
+RTX,RTX,2016Q2,2016-06-30,분기말 상장주식수,836926949,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/101829/000010182916000080/,dei:EntityCommonStockSharesOutstanding 클래스 합,3
+RTX,RTX,2016Q2,2016-06-30,분기말 시가총액,85826858620,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/RTX?interval=1d&events=splits (2016-06-30) ; https://www.sec.gov/Archives/edgar/data/101829/000010182916000080/,종가 102.55 × 주식수 836926949,3
+RTX,RTX,2016Q3,2016-09-30,분기별 매출액,14354000000,USD,공시,https://www.sec.gov/Archives/edgar/data/101829/000010182916000091/,,3
+RTX,RTX,2016Q3,2016-09-30,분기별 영업이익,2251000000,USD,공시,https://www.sec.gov/Archives/edgar/data/101829/000010182916000091/,,3
+RTX,RTX,2016Q3,2016-09-30,분기별 당기순이익(지배),1480000000,USD,공시,https://www.sec.gov/Archives/edgar/data/101829/000010182916000091/,,3
+RTX,RTX,2016Q3,2016-09-30,분기별 영업활동현금흐름,1965000000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/101829/000010182916000091/ ; https://www.sec.gov/Archives/edgar/data/101829/000010182916000080/,누적 4536000000 − 직전누적 2571000000 (시작 2016-01-01),3
+RTX,RTX,2016Q3,2016-09-30,분기말 자산총계,90062000000,USD,공시,https://www.sec.gov/Archives/edgar/data/101829/000010182916000091/,,3
+RTX,RTX,2016Q3,2016-09-30,분기말 부채총계,58983000000,USD,공시,https://www.sec.gov/Archives/edgar/data/101829/000010182916000091/,메자닌(일시자본) 315000000 별도,3
+RTX,RTX,2016Q3,2016-09-30,분기말 총자본(자기자본),30764000000,USD,공시,https://www.sec.gov/Archives/edgar/data/101829/000010182916000091/,,3
+RTX,RTX,2016Q3,2016-09-30,분기말 지배지분 자본,29187000000,USD,공시,https://www.sec.gov/Archives/edgar/data/101829/000010182916000091/,,3
+RTX,RTX,2016Q3,2016-09-30,분기말 종가,101.6,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/RTX?interval=1d&events=splits (2016-09-30),분할조정 종가 63.9396 × 이후 분할계수 1.589,3
+RTX,RTX,2016Q3,2016-09-30,분기말 상장주식수,823405687,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/101829/000010182916000091/,dei:EntityCommonStockSharesOutstanding 클래스 합,3
+RTX,RTX,2016Q3,2016-09-30,분기말 시가총액,83658017799,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/RTX?interval=1d&events=splits (2016-09-30) ; https://www.sec.gov/Archives/edgar/data/101829/000010182916000091/,종가 101.6 × 주식수 823405687,3
+RTX,RTX,2016Q4,2016-12-31,분기별 매출액,14659000000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/101829/000010182917000007/ ; https://www.sec.gov/Archives/edgar/data/101829/000010182916000091/,연간 57244000000 − 9개월누적 42585000000 (SalesRevenueNet),3
+RTX,RTX,2016Q4,2016-12-31,분기별 영업이익,1639000000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/101829/000010182917000007/ ; https://www.sec.gov/Archives/edgar/data/101829/000010182916000091/,연간 8172000000 − 9개월누적 6533000000 (OperatingIncomeLoss),3
+RTX,RTX,2016Q4,2016-12-31,분기별 당기순이익(지배),1013000000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/101829/000010182917000007/ ; https://www.sec.gov/Archives/edgar/data/101829/000010182916000091/,연간 5055000000 − 9개월누적 4042000000 (NetIncomeLoss),3
+RTX,RTX,2016Q4,2016-12-31,분기별 영업활동현금흐름,1876000000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/101829/000010182917000007/ ; https://www.sec.gov/Archives/edgar/data/101829/000010182916000091/,누적 6412000000 − 직전누적 4536000000 (시작 2016-01-01),3
+RTX,RTX,2016Q4,2016-12-31,분기말 자산총계,89706000000,USD,공시,https://www.sec.gov/Archives/edgar/data/101829/000010182917000007/,,3
+RTX,RTX,2016Q4,2016-12-31,분기말 부채총계,60241000000,USD,공시,https://www.sec.gov/Archives/edgar/data/101829/000010182917000007/,메자닌(일시자본) 296000000 별도,3
+RTX,RTX,2016Q4,2016-12-31,분기말 총자본(자기자본),29169000000,USD,공시,https://www.sec.gov/Archives/edgar/data/101829/000010182917000007/,,3
+RTX,RTX,2016Q4,2016-12-31,분기말 지배지분 자본,27579000000,USD,공시,https://www.sec.gov/Archives/edgar/data/101829/000010182917000007/,,3
+RTX,RTX,2016Q4,2016-12-30,분기말 종가,109.62,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/RTX?interval=1d&events=splits (2016-12-30),분할조정 종가 68.9868 × 이후 분할계수 1.589,3
+RTX,RTX,2016Q4,2017-01-31,분기말 상장주식수,805861740,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/101829/000010182917000007/,dei:EntityCommonStockSharesOutstanding 클래스 합,3
+RTX,RTX,2016Q4,2016-12-30,분기말 시가총액,88338563939,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/RTX?interval=1d&events=splits (2016-12-30) ; https://www.sec.gov/Archives/edgar/data/101829/000010182917000007/,종가 109.62 × 주식수 805861740,3
+RTX,RTX,2017Q1,2017-03-31,분기별 매출액,13815000000,USD,공시,https://www.sec.gov/Archives/edgar/data/101829/000010182917000016/,,3
+RTX,RTX,2017Q1,2017-03-31,분기별 영업이익,2267000000,USD,공시,https://www.sec.gov/Archives/edgar/data/101829/000010182917000016/,,3
+RTX,RTX,2017Q1,2017-03-31,분기별 당기순이익(지배),1386000000,USD,공시,https://www.sec.gov/Archives/edgar/data/101829/000010182917000016/,,3
+RTX,RTX,2017Q1,2017-03-31,분기별 영업활동현금흐름,993000000,USD,공시,https://www.sec.gov/Archives/edgar/data/101829/000010182917000016/,,3
+RTX,RTX,2017Q1,2017-03-31,분기말 자산총계,90373000000,USD,공시,https://www.sec.gov/Archives/edgar/data/101829/000010182917000016/,,3
+RTX,RTX,2017Q1,2017-03-31,분기말 부채총계,60794000000,USD,공시,https://www.sec.gov/Archives/edgar/data/101829/000010182917000016/,메자닌(일시자본) 307000000 별도,3
+RTX,RTX,2017Q1,2017-03-31,분기말 총자본(자기자본),29272000000,USD,공시,https://www.sec.gov/Archives/edgar/data/101829/000010182917000016/,,3
+RTX,RTX,2017Q1,2017-03-31,분기말 지배지분 자본,27594000000,USD,공시,https://www.sec.gov/Archives/edgar/data/101829/000010182917000016/,,3
+RTX,RTX,2017Q1,2017-03-31,분기말 종가,112.21,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/RTX?interval=1d&events=splits (2017-03-31),분할조정 종가 70.6167 × 이후 분할계수 1.589,3
+RTX,RTX,2017Q1,2017-03-31,분기말 상장주식수,801227504,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/101829/000010182917000016/,dei:EntityCommonStockSharesOutstanding 클래스 합,3
+RTX,RTX,2017Q1,2017-03-31,분기말 시가총액,89905738224,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/RTX?interval=1d&events=splits (2017-03-31) ; https://www.sec.gov/Archives/edgar/data/101829/000010182917000016/,종가 112.21 × 주식수 801227504,3
+RTX,RTX,2017Q2,2017-06-30,분기별 매출액,15280000000,USD,공시,https://www.sec.gov/Archives/edgar/data/101829/000010182917000034/,,3
+RTX,RTX,2017Q2,2017-06-30,분기별 영업이익,2290000000,USD,공시,https://www.sec.gov/Archives/edgar/data/101829/000010182917000034/,,3
+RTX,RTX,2017Q2,2017-06-30,분기별 당기순이익(지배),1439000000,USD,공시,https://www.sec.gov/Archives/edgar/data/101829/000010182917000034/,,3
+RTX,RTX,2017Q2,2017-06-30,분기별 영업활동현금흐름,2146000000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/101829/000010182917000034/ ; https://www.sec.gov/Archives/edgar/data/101829/000010182917000016/,누적 3139000000 − 직전누적 993000000 (시작 2017-01-01),3
+RTX,RTX,2017Q2,2017-06-30,분기말 자산총계,94793000000,USD,공시,https://www.sec.gov/Archives/edgar/data/101829/000010182917000034/,,3
+RTX,RTX,2017Q2,2017-06-30,분기말 부채총계,64232000000,USD,공시,https://www.sec.gov/Archives/edgar/data/101829/000010182917000034/,메자닌(일시자본) 406000000 별도,3
+RTX,RTX,2017Q2,2017-06-30,분기말 총자본(자기자본),30155000000,USD,공시,https://www.sec.gov/Archives/edgar/data/101829/000010182917000034/,,3
+RTX,RTX,2017Q2,2017-06-30,분기말 지배지분 자본,28442000000,USD,공시,https://www.sec.gov/Archives/edgar/data/101829/000010182917000034/,,3
+RTX,RTX,2017Q2,2017-06-30,분기말 종가,122.11,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/RTX?interval=1d&events=splits (2017-06-30),분할조정 종가 76.8471 × 이후 분할계수 1.589,3
+RTX,RTX,2017Q2,2017-06-30,분기말 상장주식수,798772783,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/101829/000010182917000034/,dei:EntityCommonStockSharesOutstanding 클래스 합,3
+RTX,RTX,2017Q2,2017-06-30,분기말 시가총액,97538144532,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/RTX?interval=1d&events=splits (2017-06-30) ; https://www.sec.gov/Archives/edgar/data/101829/000010182917000034/,종가 122.11 × 주식수 798772783,3
+RTX,RTX,2017Q3,2017-09-30,분기별 매출액,15062000000,USD,공시,https://www.sec.gov/Archives/edgar/data/101829/000010182917000044/,,3
+RTX,RTX,2017Q3,2017-09-30,분기별 영업이익,2163000000,USD,공시,https://www.sec.gov/Archives/edgar/data/101829/000010182917000044/,,3
+RTX,RTX,2017Q3,2017-09-30,분기별 당기순이익(지배),1330000000,USD,공시,https://www.sec.gov/Archives/edgar/data/101829/000010182917000044/,,3
+RTX,RTX,2017Q3,2017-09-30,분기별 영업활동현금흐름,-29000000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/101829/000010182917000044/ ; https://www.sec.gov/Archives/edgar/data/101829/000010182917000034/,누적 3110000000 − 직전누적 3139000000 (시작 2017-01-01),3
+RTX,RTX,2017Q3,2017-09-30,분기말 자산총계,96352000000,USD,공시,https://www.sec.gov/Archives/edgar/data/101829/000010182917000044/,,3
+RTX,RTX,2017Q3,2017-09-30,분기말 부채총계,64232000000,USD,공시,https://www.sec.gov/Archives/edgar/data/101829/000010182917000044/,메자닌(일시자본) 429000000 별도,3
+RTX,RTX,2017Q3,2017-09-30,분기말 총자본(자기자본),31691000000,USD,공시,https://www.sec.gov/Archives/edgar/data/101829/000010182917000044/,,3
+RTX,RTX,2017Q3,2017-09-30,분기말 지배지분 자본,29881000000,USD,공시,https://www.sec.gov/Archives/edgar/data/101829/000010182917000044/,,3
+RTX,RTX,2017Q3,2017-09-29,분기말 종가,116.08,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/RTX?interval=1d&events=splits (2017-09-29),분할조정 종가 73.0522 × 이후 분할계수 1.589,3
+RTX,RTX,2017Q3,2017-09-30,분기말 상장주식수,798569921,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/101829/000010182917000044/,dei:EntityCommonStockSharesOutstanding 클래스 합,3
+RTX,RTX,2017Q3,2017-09-29,분기말 시가총액,92697996430,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/RTX?interval=1d&events=splits (2017-09-29) ; https://www.sec.gov/Archives/edgar/data/101829/000010182917000044/,종가 116.08 × 주식수 798569921,3
+RTX,RTX,2017Q4,2017-12-31,분기별 매출액,15680000000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/101829/000010182918000005/ ; https://www.sec.gov/Archives/edgar/data/101829/000010182917000044/,연간 59837000000 − 9개월누적 44157000000 (SalesRevenueNet),3
+RTX,RTX,2017Q4,2017-12-31,분기별 영업이익,1952000000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/101829/000010182918000005/ ; https://www.sec.gov/Archives/edgar/data/101829/000010182917000044/,연간 8672000000 − 9개월누적 6720000000 (OperatingIncomeLoss),3
+RTX,RTX,2017Q4,2017-12-31,분기별 당기순이익(지배),397000000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/101829/000010182918000005/ ; https://www.sec.gov/Archives/edgar/data/101829/000010182917000044/,연간 4552000000 − 9개월누적 4155000000 (NetIncomeLoss),3
+RTX,RTX,2017Q4,2017-12-31,분기별 영업활동현금흐름,2521000000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/101829/000010182918000005/ ; https://www.sec.gov/Archives/edgar/data/101829/000010182917000044/,누적 5631000000 − 직전누적 3110000000 (시작 2017-01-01),3
+RTX,RTX,2017Q4,2017-12-31,분기말 자산총계,96920000000,USD,공시,https://www.sec.gov/Archives/edgar/data/101829/000010182918000005/,,3
+RTX,RTX,2017Q4,2017-12-31,분기말 부채총계,65368000000,USD,공시,https://www.sec.gov/Archives/edgar/data/101829/000010182918000005/,메자닌(일시자본) 131000000 별도,3
+RTX,RTX,2017Q4,2017-12-31,분기말 총자본(자기자본),31421000000,USD,공시,https://www.sec.gov/Archives/edgar/data/101829/000010182918000005/,,3
+RTX,RTX,2017Q4,2017-12-31,분기말 지배지분 자본,29610000000,USD,공시,https://www.sec.gov/Archives/edgar/data/101829/000010182918000005/,,3
+RTX,RTX,2017Q4,2017-12-29,분기말 종가,127.57,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/RTX?interval=1d&events=splits (2017-12-29),분할조정 종가 80.2832 × 이후 분할계수 1.589,3
+RTX,RTX,2017Q4,2018-01-31,분기말 상장주식수,799778295,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/101829/000010182918000005/,dei:EntityCommonStockSharesOutstanding 클래스 합,3
+RTX,RTX,2017Q4,2017-12-29,분기말 시가총액,102027717093,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/RTX?interval=1d&events=splits (2017-12-29) ; https://www.sec.gov/Archives/edgar/data/101829/000010182918000005/,종가 127.57 × 주식수 799778295,3
+RTX,RTX,2018Q1,2018-03-31,분기별 매출액,15242000000,USD,공시,https://www.sec.gov/Archives/edgar/data/101829/000010182918000009/,,3
+RTX,RTX,2018Q1,2018-03-31,분기별 영업이익,1928000000,USD,공시,https://www.sec.gov/Archives/edgar/data/101829/000010182918000009/,,3
+RTX,RTX,2018Q1,2018-03-31,분기별 당기순이익(지배),1297000000,USD,공시,https://www.sec.gov/Archives/edgar/data/101829/000010182918000009/,,3
+RTX,RTX,2018Q1,2018-03-31,분기별 영업활동현금흐름,453000000,USD,공시,https://www.sec.gov/Archives/edgar/data/101829/000010182918000009/,,3
+RTX,RTX,2018Q1,2018-03-31,분기말 자산총계,98779000000,USD,공시,https://www.sec.gov/Archives/edgar/data/101829/000010182918000009/,,3
+RTX,RTX,2018Q1,2018-03-31,분기말 부채총계,66152000000,USD,공시,https://www.sec.gov/Archives/edgar/data/101829/000010182918000009/,메자닌(일시자본) 135000000 별도,3
+RTX,RTX,2018Q1,2018-03-31,분기말 총자본(자기자본),32492000000,USD,공시,https://www.sec.gov/Archives/edgar/data/101829/000010182918000009/,,3
+RTX,RTX,2018Q1,2018-03-31,분기말 지배지분 자본,30534000000,USD,공시,https://www.sec.gov/Archives/edgar/data/101829/000010182918000009/,,3
+RTX,RTX,2018Q1,2018-03-29,분기말 종가,125.82,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/RTX?interval=1d&events=splits (2018-03-29),분할조정 종가 79.1819 × 이후 분할계수 1.589,3
+RTX,RTX,2018Q1,2018-03-31,분기말 상장주식수,800059478,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/101829/000010182918000009/,dei:EntityCommonStockSharesOutstanding 클래스 합,3
+RTX,RTX,2018Q1,2018-03-29,분기말 시가총액,100663483522,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/RTX?interval=1d&events=splits (2018-03-29) ; https://www.sec.gov/Archives/edgar/data/101829/000010182918000009/,종가 125.82 × 주식수 800059478,3
+RTX,RTX,2018Q2,2018-06-30,분기별 매출액,16705000000,USD,공시,https://www.sec.gov/Archives/edgar/data/101829/000010182918000027/,,3
+RTX,RTX,2018Q2,2018-06-30,분기별 영업이익,2876000000,USD,공시,https://www.sec.gov/Archives/edgar/data/101829/000010182918000027/,,3
+RTX,RTX,2018Q2,2018-06-30,분기별 당기순이익(지배),2048000000,USD,공시,https://www.sec.gov/Archives/edgar/data/101829/000010182918000027/,,3
+RTX,RTX,2018Q2,2018-06-30,분기별 영업활동현금흐름,2102000000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/101829/000010182918000027/ ; https://www.sec.gov/Archives/edgar/data/101829/000010182918000009/,누적 2555000000 − 직전누적 453000000 (시작 2018-01-01),3
+RTX,RTX,2018Q2,2018-06-30,분기말 자산총계,101569000000,USD,공시,https://www.sec.gov/Archives/edgar/data/101829/000010182918000027/,,3
+RTX,RTX,2018Q2,2018-06-30,분기말 부채총계,68093000000,USD,공시,https://www.sec.gov/Archives/edgar/data/101829/000010182918000027/,메자닌(일시자본) 130000000 별도,3
+RTX,RTX,2018Q2,2018-06-30,분기말 총자본(자기자본),33346000000,USD,공시,https://www.sec.gov/Archives/edgar/data/101829/000010182918000027/,,3
+RTX,RTX,2018Q2,2018-06-30,분기말 지배지분 자본,31364000000,USD,공시,https://www.sec.gov/Archives/edgar/data/101829/000010182918000027/,,3
+RTX,RTX,2018Q2,2018-06-29,분기말 종가,125.03,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/RTX?interval=1d&events=splits (2018-06-29),분할조정 종가 78.6847 × 이후 분할계수 1.589,3
+RTX,RTX,2018Q2,2018-06-30,분기말 상장주식수,800093285,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/101829/000010182918000027/,dei:EntityCommonStockSharesOutstanding 클래스 합,3
+RTX,RTX,2018Q2,2018-06-29,분기말 시가총액,100035663424,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/RTX?interval=1d&events=splits (2018-06-29) ; https://www.sec.gov/Archives/edgar/data/101829/000010182918000027/,종가 125.03 × 주식수 800093285,3
+RTX,RTX,2018Q3,2018-09-30,분기별 매출액,16510000000,USD,공시,https://www.sec.gov/Archives/edgar/data/101829/000010182918000043/,,3
+RTX,RTX,2018Q3,2018-09-30,분기별 영업이익,1838000000,USD,공시,https://www.sec.gov/Archives/edgar/data/101829/000010182918000043/,,3
+RTX,RTX,2018Q3,2018-09-30,분기별 당기순이익(지배),1238000000,USD,공시,https://www.sec.gov/Archives/edgar/data/101829/000010182918000043/,,3
+RTX,RTX,2018Q3,2018-09-30,분기별 영업활동현금흐름,1762000000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/101829/000010182918000043/ ; https://www.sec.gov/Archives/edgar/data/101829/000010182918000027/,누적 4317000000 − 직전누적 2555000000 (시작 2018-01-01),3
+RTX,RTX,2018Q3,2018-09-30,분기말 자산총계,114939000000,USD,공시,https://www.sec.gov/Archives/edgar/data/101829/000010182918000043/,,3
+RTX,RTX,2018Q3,2018-09-30,분기말 부채총계,80564000000,USD,공시,https://www.sec.gov/Archives/edgar/data/101829/000010182918000043/,메자닌(일시자본) 125000000 별도,3
+RTX,RTX,2018Q3,2018-09-30,분기말 총자본(자기자본),34250000000,USD,공시,https://www.sec.gov/Archives/edgar/data/101829/000010182918000043/,,3
+RTX,RTX,2018Q3,2018-09-30,분기말 지배지분 자본,32106000000,USD,공시,https://www.sec.gov/Archives/edgar/data/101829/000010182918000043/,,3
+RTX,RTX,2018Q3,2018-09-28,분기말 종가,139.81,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/RTX?interval=1d&events=splits (2018-09-28),분할조정 종가 87.9862 × 이후 분할계수 1.589,3
+RTX,RTX,2018Q3,2018-09-30,분기말 상장주식수,800984201,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/101829/000010182918000043/,dei:EntityCommonStockSharesOutstanding 클래스 합,3
+RTX,RTX,2018Q3,2018-09-28,분기말 시가총액,111985601142,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/RTX?interval=1d&events=splits (2018-09-28) ; https://www.sec.gov/Archives/edgar/data/101829/000010182918000043/,종가 139.81 × 주식수 800984201,3
+RTX,RTX,2018Q4,2018-12-31,분기별 매출액,18044000000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/101829/000010182919000007/ ; https://www.sec.gov/Archives/edgar/data/101829/000010182918000043/,연간 66501000000 − 9개월누적 48457000000 (Revenues),3
+RTX,RTX,2018Q4,2018-12-31,분기별 영업이익,1911000000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/101829/000010182919000007/ ; https://www.sec.gov/Archives/edgar/data/101829/000010182918000043/,연간 8553000000 − 9개월누적 6642000000 (OperatingIncomeLoss),3
+RTX,RTX,2018Q4,2018-12-31,분기별 당기순이익(지배),686000000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/101829/000010182919000007/ ; https://www.sec.gov/Archives/edgar/data/101829/000010182918000043/,연간 5269000000 − 9개월누적 4583000000 (NetIncomeLoss),3
+RTX,RTX,2018Q4,2018-12-31,분기별 영업활동현금흐름,2005000000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/101829/000010182919000007/ ; https://www.sec.gov/Archives/edgar/data/101829/000010182918000043/,누적 6322000000 − 직전누적 4317000000 (시작 2018-01-01),3
+RTX,RTX,2018Q4,2018-12-31,분기말 자산총계,134211000000,USD,공시,https://www.sec.gov/Archives/edgar/data/101829/000010182919000007/,,3
+RTX,RTX,2018Q4,2018-12-31,분기말 부채총계,93492000000,USD,공시,https://www.sec.gov/Archives/edgar/data/101829/000010182919000007/,메자닌(일시자본) 109000000 별도,3
+RTX,RTX,2018Q4,2018-12-31,분기말 총자본(자기자본),40610000000,USD,공시,https://www.sec.gov/Archives/edgar/data/101829/000010182919000007/,,3
+RTX,RTX,2018Q4,2018-12-31,분기말 지배지분 자본,38446000000,USD,공시,https://www.sec.gov/Archives/edgar/data/101829/000010182919000007/,,3
+RTX,RTX,2018Q4,2018-12-31,분기말 종가,106.48,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/RTX?interval=1d&events=splits (2018-12-31),분할조정 종가 67.0107 × 이후 분할계수 1.589,3
+RTX,RTX,2018Q4,2019-01-31,분기말 상장주식수,861748797,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/101829/000010182919000007/,dei:EntityCommonStockSharesOutstanding 클래스 합,3
+RTX,RTX,2018Q4,2018-12-31,분기말 시가총액,91759011905,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/RTX?interval=1d&events=splits (2018-12-31) ; https://www.sec.gov/Archives/edgar/data/101829/000010182919000007/,종가 106.48 × 주식수 861748797,3
+RTX,RTX,2019Q1,2019-03-31,분기별 매출액,18365000000,USD,공시,https://www.sec.gov/Archives/edgar/data/101829/000010182919000016/,,3
+RTX,RTX,2019Q1,2019-03-31,분기별 영업이익,2045000000,USD,공시,https://www.sec.gov/Archives/edgar/data/101829/000010182919000016/,,3
+RTX,RTX,2019Q1,2019-03-31,분기별 당기순이익(지배),1346000000,USD,공시,https://www.sec.gov/Archives/edgar/data/101829/000010182919000016/,,3
+RTX,RTX,2019Q1,2019-03-31,분기별 영업활동현금흐름,1500000000,USD,공시,https://www.sec.gov/Archives/edgar/data/101829/000010182919000016/,,3
+RTX,RTX,2019Q1,2019-03-31,분기말 자산총계,137380000000,USD,공시,https://www.sec.gov/Archives/edgar/data/101829/000010182919000016/,,3
+RTX,RTX,2019Q1,2019-03-31,분기말 부채총계,95325000000,USD,공시,https://www.sec.gov/Archives/edgar/data/101829/000010182919000016/,메자닌(일시자본) 109000000 별도,3
+RTX,RTX,2019Q1,2019-03-31,분기말 총자본(자기자본),41946000000,USD,공시,https://www.sec.gov/Archives/edgar/data/101829/000010182919000016/,,3
+RTX,RTX,2019Q1,2019-03-31,분기말 지배지분 자본,39738000000,USD,공시,https://www.sec.gov/Archives/edgar/data/101829/000010182919000016/,,3
+RTX,RTX,2019Q1,2019-03-29,분기말 종가,128.89,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/RTX?interval=1d&events=splits (2019-03-29),분할조정 종가 81.1139 × 이후 분할계수 1.589,3
+RTX,RTX,2019Q1,2019-03-31,분기말 상장주식수,862291415,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/101829/000010182919000016/,dei:EntityCommonStockSharesOutstanding 클래스 합,3
+RTX,RTX,2019Q1,2019-03-29,분기말 시가총액,111140740479,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/RTX?interval=1d&events=splits (2019-03-29) ; https://www.sec.gov/Archives/edgar/data/101829/000010182919000016/,종가 128.89 × 주식수 862291415,3
+RTX,RTX,2019Q2,2019-06-30,분기별 매출액,19634000000,USD,공시,https://www.sec.gov/Archives/edgar/data/101829/000010182919000038/,,3
+RTX,RTX,2019Q2,2019-06-30,분기별 영업이익,2584000000,USD,공시,https://www.sec.gov/Archives/edgar/data/101829/000010182919000038/,,3
+RTX,RTX,2019Q2,2019-06-30,분기별 당기순이익(지배),1900000000,USD,공시,https://www.sec.gov/Archives/edgar/data/101829/000010182919000038/,,3
+RTX,RTX,2019Q2,2019-06-30,분기별 영업활동현금흐름,2111000000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/101829/000010182919000038/ ; https://www.sec.gov/Archives/edgar/data/101829/000010182919000016/,누적 3611000000 − 직전누적 1500000000 (시작 2019-01-01),3
+RTX,RTX,2019Q2,2019-06-30,분기말 자산총계,138990000000,USD,공시,https://www.sec.gov/Archives/edgar/data/101829/000010182919000038/,,3
+RTX,RTX,2019Q2,2019-06-30,분기말 부채총계,95904000000,USD,공시,https://www.sec.gov/Archives/edgar/data/101829/000010182919000038/,메자닌(일시자본) 109000000 별도,3
+RTX,RTX,2019Q2,2019-06-30,분기말 총자본(자기자본),42977000000,USD,공시,https://www.sec.gov/Archives/edgar/data/101829/000010182919000038/,,3
+RTX,RTX,2019Q2,2019-06-30,분기말 지배지분 자본,40754000000,USD,공시,https://www.sec.gov/Archives/edgar/data/101829/000010182919000038/,,3
+RTX,RTX,2019Q2,2019-06-28,분기말 종가,130.2,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/RTX?interval=1d&events=splits (2019-06-28),분할조정 종가 81.9383 × 이후 분할계수 1.589,3
+RTX,RTX,2019Q2,2019-06-30,분기말 상장주식수,862831280,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/101829/000010182919000038/,dei:EntityCommonStockSharesOutstanding 클래스 합,3
+RTX,RTX,2019Q2,2019-06-28,분기말 시가총액,112340632656,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/RTX?interval=1d&events=splits (2019-06-28) ; https://www.sec.gov/Archives/edgar/data/101829/000010182919000038/,종가 130.2 × 주식수 862831280,3
+RTX,RTX,2019Q3,2019-09-30,분기별 매출액,19496000000,USD,공시,https://www.sec.gov/Archives/edgar/data/101829/000010182919000047/,,3
+RTX,RTX,2019Q3,2019-09-30,분기별 영업이익,2486000000,USD,공시,https://www.sec.gov/Archives/edgar/data/101829/000010182919000047/,,3
+RTX,RTX,2019Q3,2019-09-30,분기별 당기순이익(지배),1148000000,USD,공시,https://www.sec.gov/Archives/edgar/data/101829/000010182919000047/,,3
+RTX,RTX,2019Q3,2019-09-30,분기별 영업활동현금흐름,2490000000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/101829/000010182919000047/ ; https://www.sec.gov/Archives/edgar/data/101829/000010182919000038/,누적 6101000000 − 직전누적 3611000000 (시작 2019-01-01),3
+RTX,RTX,2019Q3,2019-09-30,분기말 자산총계,139009000000,USD,공시,https://www.sec.gov/Archives/edgar/data/101829/000010182919000047/,,3
+RTX,RTX,2019Q3,2019-09-30,분기말 부채총계,96083000000,USD,공시,https://www.sec.gov/Archives/edgar/data/101829/000010182919000047/,메자닌(일시자본) 107000000 별도,3
+RTX,RTX,2019Q3,2019-09-30,분기말 총자본(자기자본),42819000000,USD,공시,https://www.sec.gov/Archives/edgar/data/101829/000010182919000047/,,3
+RTX,RTX,2019Q3,2019-09-30,분기말 지배지분 자본,40468000000,USD,공시,https://www.sec.gov/Archives/edgar/data/101829/000010182919000047/,,3
+RTX,RTX,2019Q3,2019-09-30,분기말 종가,136.52,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/RTX?interval=1d&events=splits (2019-09-30),분할조정 종가 85.9157 × 이후 분할계수 1.589,3
+RTX,RTX,2019Q3,2019-09-30,분기말 상장주식수,863268940,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/101829/000010182919000047/,dei:EntityCommonStockSharesOutstanding 클래스 합,3
+RTX,RTX,2019Q3,2019-09-30,분기말 시가총액,117853475689,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/RTX?interval=1d&events=splits (2019-09-30) ; https://www.sec.gov/Archives/edgar/data/101829/000010182919000047/,종가 136.52 × 주식수 863268940,3
+RTX,RTX,2019Q4,2019-12-31,분기별 매출액,19551000000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/101829/000010182920000013/ ; https://www.sec.gov/Archives/edgar/data/101829/000010182919000047/,연간 77046000000 − 9개월누적 57495000000 (Revenues),3
+RTX,RTX,2019Q4,2019-12-31,분기별 영업이익,1851000000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/101829/000010182920000013/ ; https://www.sec.gov/Archives/edgar/data/101829/000010182919000047/,연간 8966000000 − 9개월누적 7115000000 (OperatingIncomeLoss),3
+RTX,RTX,2019Q4,2019-12-31,분기별 당기순이익(지배),1143000000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/101829/000010182920000013/ ; https://www.sec.gov/Archives/edgar/data/101829/000010182919000047/,연간 5537000000 − 9개월누적 4394000000 (NetIncomeLoss),3
+RTX,RTX,2019Q4,2019-12-31,분기별 영업활동현금흐름,2782000000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/101829/000010182920000013/ ; https://www.sec.gov/Archives/edgar/data/101829/000010182919000047/,누적 8883000000 − 직전누적 6101000000 (시작 2019-01-01),3
+RTX,RTX,2019Q4,2019-12-31,분기말 자산총계,139615000000,USD,공시(재작성 반영),https://www.sec.gov/Archives/edgar/data/101829/000010182921000008/,원 공시 139716000000 (https://www.sec.gov/Archives/edgar/data/101829/000010182920000013/),3
+RTX,RTX,2019Q4,2019-12-31,분기말 부채총계,95384000000,USD,계산(부채및자본-총자본)(재작성 반영),https://www.sec.gov/Archives/edgar/data/101829/000010182921000008/,부채및자본 139615000000 − 총자본 44231000000 ; 원 공시 95485000000 (https://www.sec.gov/Archives/edgar/data/101829/000010182920000013/),3
+RTX,RTX,2019Q4,2019-12-31,분기말 총자본(자기자본),44231000000,USD,공시,https://www.sec.gov/Archives/edgar/data/101829/000010182920000013/,,3
+RTX,RTX,2019Q4,2019-12-31,분기말 지배지분 자본,41774000000,USD,공시,https://www.sec.gov/Archives/edgar/data/101829/000010182920000013/,,3
+RTX,RTX,2019Q4,2019-12-31,분기말 종가,149.76,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/RTX?interval=1d&events=splits (2019-12-31),분할조정 종가 94.248 × 이후 분할계수 1.589,3
+RTX,RTX,2019Q4,2020-01-31,분기말 상장주식수,865308981,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/101829/000010182920000013/,dei:EntityCommonStockSharesOutstanding 클래스 합,3
+RTX,RTX,2019Q4,2019-12-31,분기말 시가총액,129588672995,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/RTX?interval=1d&events=splits (2019-12-31) ; https://www.sec.gov/Archives/edgar/data/101829/000010182920000013/,종가 149.76 × 주식수 865308981,3
+RTX,RTX,2020Q1,2020-03-31,분기별 매출액,18210000000,USD,공시,https://www.sec.gov/Archives/edgar/data/101829/000010182920000034/,,3
+RTX,RTX,2020Q1,2020-03-31,분기별 영업이익,1807000000,USD,공시,https://www.sec.gov/Archives/edgar/data/101829/000010182920000034/,,3
+RTX,RTX,2020Q1,2020-03-31,분기별 당기순이익(지배),-83000000,USD,공시,https://www.sec.gov/Archives/edgar/data/101829/000010182920000034/,,3
+RTX,RTX,2020Q1,2020-03-31,분기별 영업활동현금흐름,661000000,USD,공시,https://www.sec.gov/Archives/edgar/data/101829/000010182920000034/,,3
+RTX,RTX,2020Q1,2020-03-31,분기말 자산총계,139572000000,USD,공시,https://www.sec.gov/Archives/edgar/data/101829/000010182920000034/,,3
+RTX,RTX,2020Q1,2020-03-31,분기말 부채총계,97542000000,USD,공시,https://www.sec.gov/Archives/edgar/data/101829/000010182920000034/,메자닌(일시자본) 95000000 별도,3
+RTX,RTX,2020Q1,2020-03-31,분기말 총자본(자기자본),41935000000,USD,공시,https://www.sec.gov/Archives/edgar/data/101829/000010182920000034/,,3
+RTX,RTX,2020Q1,2020-03-31,분기말 지배지분 자본,39411000000,USD,공시,https://www.sec.gov/Archives/edgar/data/101829/000010182920000034/,,3
+RTX,RTX,2020Q1,2020-03-31,분기말 종가,94.33,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/RTX?interval=1d&events=splits (2020-03-31),분할조정 종가 59.3644 × 이후 분할계수 1.589,3
+RTX,RTX,2020Q1,2020-03-31,분기말 상장주식수,866160621,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/101829/000010182920000034/,dei:EntityCommonStockSharesOutstanding 클래스 합,3
+RTX,RTX,2020Q1,2020-03-31,분기말 시가총액,81704931379,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/RTX?interval=1d&events=splits (2020-03-31) ; https://www.sec.gov/Archives/edgar/data/101829/000010182920000034/,종가 94.33 × 주식수 866160621,3
+RTX,RTX,2020Q2,2020-06-30,분기별 매출액,14061000000,USD,공시,https://www.sec.gov/Archives/edgar/data/101829/000010182920000055/,,3
+RTX,RTX,2020Q2,2020-06-30,분기별 영업이익,-3760000000,USD,공시,https://www.sec.gov/Archives/edgar/data/101829/000010182920000055/,,3
+RTX,RTX,2020Q2,2020-06-30,분기별 당기순이익(지배),-3835000000,USD,공시,https://www.sec.gov/Archives/edgar/data/101829/000010182920000055/,,3
+RTX,RTX,2020Q2,2020-06-30,분기별 영업활동현금흐름,681000000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/101829/000010182920000055/ ; https://www.sec.gov/Archives/edgar/data/101829/000010182920000034/,누적 1342000000 − 직전누적 661000000 (시작 2020-01-01),3
+RTX,RTX,2020Q2,2020-06-30,분기말 자산총계,161517000000,USD,공시,https://www.sec.gov/Archives/edgar/data/101829/000010182920000055/,,3
+RTX,RTX,2020Q2,2020-06-30,분기말 부채총계,92590000000,USD,공시,https://www.sec.gov/Archives/edgar/data/101829/000010182920000055/,메자닌(일시자본) 35000000 별도,3
+RTX,RTX,2020Q2,2020-06-30,분기말 총자본(자기자본),68892000000,USD,공시,https://www.sec.gov/Archives/edgar/data/101829/000010182920000055/,,3
+RTX,RTX,2020Q2,2020-06-30,분기말 지배지분 자본,67225000000,USD,공시,https://www.sec.gov/Archives/edgar/data/101829/000010182920000055/,,3
+RTX,RTX,2020Q2,2020-06-30,분기말 종가,61.62,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/RTX?interval=1d&events=splits (2020-06-30),,3
+RTX,RTX,2020Q2,2020-07-21,분기말 상장주식수,1527655238,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/101829/000010182920000055/,dei:EntityCommonStockSharesOutstanding 클래스 합,3
+RTX,RTX,2020Q2,2020-06-30,분기말 시가총액,94134115766,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/RTX?interval=1d&events=splits (2020-06-30) ; https://www.sec.gov/Archives/edgar/data/101829/000010182920000055/,종가 61.62 × 주식수 1527655238,3
+RTX,RTX,2020Q3,2020-09-30,분기별 매출액,14747000000,USD,공시,https://www.sec.gov/Archives/edgar/data/101829/000010182920000071/,,3
+RTX,RTX,2020Q3,2020-09-30,분기별 영업이익,434000000,USD,공시,https://www.sec.gov/Archives/edgar/data/101829/000010182920000071/,,3
+RTX,RTX,2020Q3,2020-09-30,분기별 당기순이익(지배),264000000,USD,공시,https://www.sec.gov/Archives/edgar/data/101829/000010182920000071/,,3
+RTX,RTX,2020Q3,2020-09-30,분기별 영업활동현금흐름,1622000000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/101829/000010182920000071/ ; https://www.sec.gov/Archives/edgar/data/101829/000010182920000055/,누적 2964000000 − 직전누적 1342000000 (시작 2020-01-01),3
+RTX,RTX,2020Q3,2020-09-30,분기말 자산총계,162399000000,USD,공시,https://www.sec.gov/Archives/edgar/data/101829/000010182920000071/,,3
+RTX,RTX,2020Q3,2020-09-30,분기말 부채총계,92289000000,USD,공시,https://www.sec.gov/Archives/edgar/data/101829/000010182920000071/,메자닌(일시자본) 30000000 별도,3
+RTX,RTX,2020Q3,2020-09-30,분기말 총자본(자기자본),70080000000,USD,공시,https://www.sec.gov/Archives/edgar/data/101829/000010182920000071/,,3
+RTX,RTX,2020Q3,2020-09-30,분기말 지배지분 자본,68379000000,USD,공시,https://www.sec.gov/Archives/edgar/data/101829/000010182920000071/,,3
+RTX,RTX,2020Q3,2020-09-30,분기말 종가,57.54,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/RTX?interval=1d&events=splits (2020-09-30),,3
+RTX,RTX,2020Q3,2020-10-20,분기말 상장주식수,1518716426,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/101829/000010182920000071/,dei:EntityCommonStockSharesOutstanding 클래스 합,3
+RTX,RTX,2020Q3,2020-09-30,분기말 시가총액,87386943152,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/RTX?interval=1d&events=splits (2020-09-30) ; https://www.sec.gov/Archives/edgar/data/101829/000010182920000071/,종가 57.54 × 주식수 1518716426,3
+RTX,RTX,2020Q4,2020-12-31,분기별 매출액,16419000000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/101829/000010182921000008/ ; https://www.sec.gov/Archives/edgar/data/101829/000010182920000071/,연간 56587000000 − 9개월누적 40168000000 (Revenues),3
+RTX,RTX,2020Q4,2020-12-31,분기별 영업이익,142000000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/101829/000010182921000008/ ; https://www.sec.gov/Archives/edgar/data/101829/000010182920000071/,연간 -1889000000 − 9개월누적 -2031000000 (OperatingIncomeLoss),3
+RTX,RTX,2020Q4,2020-12-31,분기별 당기순이익(지배),135000000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/101829/000010182921000008/ ; https://www.sec.gov/Archives/edgar/data/101829/000010182920000071/,연간 -3519000000 − 9개월누적 -3654000000 (NetIncomeLoss),3
+RTX,RTX,2020Q4,2020-12-31,분기별 영업활동현금흐름,1370000000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/101829/000010182921000008/ ; https://www.sec.gov/Archives/edgar/data/101829/000010182920000071/,누적 4334000000 − 직전누적 2964000000 (시작 2020-01-01),3
+RTX,RTX,2020Q4,2020-12-31,분기말 자산총계,162153000000,USD,공시,https://www.sec.gov/Archives/edgar/data/101829/000010182921000008/,,3
+RTX,RTX,2020Q4,2020-12-31,분기말 부채총계,88269000000,USD,공시,https://www.sec.gov/Archives/edgar/data/101829/000010182921000008/,메자닌(일시자본) 32000000 별도,3
+RTX,RTX,2020Q4,2020-12-31,분기말 총자본(자기자본),73852000000,USD,공시,https://www.sec.gov/Archives/edgar/data/101829/000010182921000008/,,3
+RTX,RTX,2020Q4,2020-12-31,분기말 지배지분 자본,72163000000,USD,공시,https://www.sec.gov/Archives/edgar/data/101829/000010182921000008/,,3
+RTX,RTX,2020Q4,2020-12-31,분기말 종가,71.51,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/RTX?interval=1d&events=splits (2020-12-31),,3
+RTX,RTX,2020Q4,2021-01-29,분기말 상장주식수,1519478134,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/101829/000010182921000008/,dei:EntityCommonStockSharesOutstanding 클래스 합,3
+RTX,RTX,2020Q4,2020-12-31,분기말 시가총액,108657881362,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/RTX?interval=1d&events=splits (2020-12-31) ; https://www.sec.gov/Archives/edgar/data/101829/000010182921000008/,종가 71.51 × 주식수 1519478134,3
+RTX,RTX,2021Q1,2021-03-31,분기별 매출액,15251000000,USD,공시,https://www.sec.gov/Archives/edgar/data/101829/000010182921000024/,,3
+RTX,RTX,2021Q1,2021-03-31,분기별 영업이익,1013000000,USD,공시,https://www.sec.gov/Archives/edgar/data/101829/000010182921000024/,,3
+RTX,RTX,2021Q1,2021-03-31,분기별 당기순이익(지배),753000000,USD,공시,https://www.sec.gov/Archives/edgar/data/101829/000010182921000024/,,3
+RTX,RTX,2021Q1,2021-03-31,분기별 영업활동현금흐름,723000000,USD,공시,https://www.sec.gov/Archives/edgar/data/101829/000010182921000024/,,3
+RTX,RTX,2021Q1,2021-03-31,분기말 자산총계,160608000000,USD,공시,https://www.sec.gov/Archives/edgar/data/101829/000010182921000024/,,3
+RTX,RTX,2021Q1,2021-03-31,분기말 부채총계,87266000000,USD,공시,https://www.sec.gov/Archives/edgar/data/101829/000010182921000024/,메자닌(일시자본) 34000000 별도,3
+RTX,RTX,2021Q1,2021-03-31,분기말 총자본(자기자본),73308000000,USD,공시,https://www.sec.gov/Archives/edgar/data/101829/000010182921000024/,,3
+RTX,RTX,2021Q1,2021-03-31,분기말 지배지분 자본,71710000000,USD,공시,https://www.sec.gov/Archives/edgar/data/101829/000010182921000024/,,3
+RTX,RTX,2021Q1,2021-03-31,분기말 종가,77.27,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/RTX?interval=1d&events=splits (2021-03-31),,3
+RTX,RTX,2021Q1,2021-03-31,분기말 상장주식수,1515089870,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/101829/000010182921000024/,dei:EntityCommonStockSharesOutstanding 클래스 합,3
+RTX,RTX,2021Q1,2021-03-31,분기말 시가총액,117070994255,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/RTX?interval=1d&events=splits (2021-03-31) ; https://www.sec.gov/Archives/edgar/data/101829/000010182921000024/,종가 77.27 × 주식수 1515089870,3
+RTX,RTX,2021Q2,2021-06-30,분기별 매출액,15880000000,USD,공시,https://www.sec.gov/Archives/edgar/data/101829/000010182921000051/,,3
+RTX,RTX,2021Q2,2021-06-30,분기별 영업이익,1282000000,USD,공시,https://www.sec.gov/Archives/edgar/data/101829/000010182921000051/,,3
+RTX,RTX,2021Q2,2021-06-30,분기별 당기순이익(지배),1032000000,USD,공시,https://www.sec.gov/Archives/edgar/data/101829/000010182921000051/,,3
+RTX,RTX,2021Q2,2021-06-30,분기별 영업활동현금흐름,1326000000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/101829/000010182921000051/ ; https://www.sec.gov/Archives/edgar/data/101829/000010182921000024/,누적 2049000000 − 직전누적 723000000 (시작 2021-01-01),3
+RTX,RTX,2021Q2,2021-06-30,분기말 자산총계,158838000000,USD,공시,https://www.sec.gov/Archives/edgar/data/101829/000010182921000051/,,3
+RTX,RTX,2021Q2,2021-06-30,분기말 부채총계,86087000000,USD,공시,https://www.sec.gov/Archives/edgar/data/101829/000010182921000051/,메자닌(일시자본) 30000000 별도,3
+RTX,RTX,2021Q2,2021-06-30,분기말 총자본(자기자본),72721000000,USD,공시,https://www.sec.gov/Archives/edgar/data/101829/000010182921000051/,,3
+RTX,RTX,2021Q2,2021-06-30,분기말 지배지분 자본,71115000000,USD,공시,https://www.sec.gov/Archives/edgar/data/101829/000010182921000051/,,3
+RTX,RTX,2021Q2,2021-06-30,분기말 종가,85.31,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/RTX?interval=1d&events=splits (2021-06-30),,3
+RTX,RTX,2021Q2,2021-06-30,분기말 상장주식수,1507878091,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/101829/000010182921000051/,dei:EntityCommonStockSharesOutstanding 클래스 합,3
+RTX,RTX,2021Q2,2021-06-30,분기말 시가총액,128637079943,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/RTX?interval=1d&events=splits (2021-06-30) ; https://www.sec.gov/Archives/edgar/data/101829/000010182921000051/,종가 85.31 × 주식수 1507878091,3
+RTX,RTX,2021Q3,2021-09-30,분기별 매출액,16213000000,USD,공시,https://www.sec.gov/Archives/edgar/data/101829/000010182921000056/,,3
+RTX,RTX,2021Q3,2021-09-30,분기별 영업이익,1343000000,USD,공시,https://www.sec.gov/Archives/edgar/data/101829/000010182921000056/,,3
+RTX,RTX,2021Q3,2021-09-30,분기별 당기순이익(지배),1393000000,USD,공시,https://www.sec.gov/Archives/edgar/data/101829/000010182921000056/,,3
+RTX,RTX,2021Q3,2021-09-30,분기별 영업활동현금흐름,1932000000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/101829/000010182921000056/ ; https://www.sec.gov/Archives/edgar/data/101829/000010182921000051/,누적 3981000000 − 직전누적 2049000000 (시작 2021-01-01),3
+RTX,RTX,2021Q3,2021-09-30,분기말 자산총계,158772000000,USD,공시,https://www.sec.gov/Archives/edgar/data/101829/000010182921000056/,,3
+RTX,RTX,2021Q3,2021-09-30,분기말 부채총계,85803000000,USD,공시,https://www.sec.gov/Archives/edgar/data/101829/000010182921000056/,메자닌(일시자본) 32000000 별도,3
+RTX,RTX,2021Q3,2021-09-30,분기말 총자본(자기자본),72937000000,USD,공시,https://www.sec.gov/Archives/edgar/data/101829/000010182921000056/,,3
+RTX,RTX,2021Q3,2021-09-30,분기말 지배지분 자본,71308000000,USD,공시,https://www.sec.gov/Archives/edgar/data/101829/000010182921000056/,,3
+RTX,RTX,2021Q3,2021-09-30,분기말 종가,85.96,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/RTX?interval=1d&events=splits (2021-09-30),,3
+RTX,RTX,2021Q3,2021-09-30,분기말 상장주식수,1496777742,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/101829/000010182921000056/,dei:EntityCommonStockSharesOutstanding 클래스 합,3
+RTX,RTX,2021Q3,2021-09-30,분기말 시가총액,128663014702,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/RTX?interval=1d&events=splits (2021-09-30) ; https://www.sec.gov/Archives/edgar/data/101829/000010182921000056/,종가 85.96 × 주식수 1496777742,3
+RTX,RTX,2021Q4,2021-12-31,분기별 매출액,17044000000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/101829/000010182922000005/ ; https://www.sec.gov/Archives/edgar/data/101829/000010182921000056/,연간 64388000000 − 9개월누적 47344000000 (Revenues),3
+RTX,RTX,2021Q4,2021-12-31,분기별 영업이익,1320000000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/101829/000010182922000005/ ; https://www.sec.gov/Archives/edgar/data/101829/000010182921000056/,연간 4958000000 − 9개월누적 3638000000 (OperatingIncomeLoss),3
+RTX,RTX,2021Q4,2021-12-31,분기별 당기순이익(지배),686000000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/101829/000010182922000005/ ; https://www.sec.gov/Archives/edgar/data/101829/000010182921000056/,연간 3864000000 − 9개월누적 3178000000 (NetIncomeLoss),3
+RTX,RTX,2021Q4,2021-12-31,분기별 영업활동현금흐름,3161000000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/101829/000010182922000005/ ; https://www.sec.gov/Archives/edgar/data/101829/000010182921000056/,누적 7142000000 − 직전누적 3981000000 (시작 2021-01-01),3
+RTX,RTX,2021Q4,2021-12-31,분기말 자산총계,161404000000,USD,공시,https://www.sec.gov/Archives/edgar/data/101829/000010182922000005/,,3
+RTX,RTX,2021Q4,2021-12-31,분기말 부채총계,86705000000,USD,공시,https://www.sec.gov/Archives/edgar/data/101829/000010182922000005/,메자닌(일시자본) 35000000 별도,3
+RTX,RTX,2021Q4,2021-12-31,분기말 총자본(자기자본),74664000000,USD,공시,https://www.sec.gov/Archives/edgar/data/101829/000010182922000005/,,3
+RTX,RTX,2021Q4,2021-12-31,분기말 지배지분 자본,73068000000,USD,공시,https://www.sec.gov/Archives/edgar/data/101829/000010182922000005/,,3
+RTX,RTX,2021Q4,2021-12-31,분기말 종가,86.06,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/RTX?interval=1d&events=splits (2021-12-31),,3
+RTX,RTX,2021Q4,2022-01-31,분기말 상장주식수,1492330987,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/101829/000010182922000005/,dei:EntityCommonStockSharesOutstanding 클래스 합,3
+RTX,RTX,2021Q4,2021-12-31,분기말 시가총액,128430004741,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/RTX?interval=1d&events=splits (2021-12-31) ; https://www.sec.gov/Archives/edgar/data/101829/000010182922000005/,종가 86.06 × 주식수 1492330987,3
+RTX,RTX,2022Q1,2022-03-31,분기별 매출액,15716000000,USD,공시,https://www.sec.gov/Archives/edgar/data/101829/000010182922000018/,,3
+RTX,RTX,2022Q1,2022-03-31,분기별 영업이익,1080000000,USD,공시,https://www.sec.gov/Archives/edgar/data/101829/000010182922000018/,,3
+RTX,RTX,2022Q1,2022-03-31,분기별 당기순이익(지배),1084000000,USD,공시,https://www.sec.gov/Archives/edgar/data/101829/000010182922000018/,,3
+RTX,RTX,2022Q1,2022-03-31,분기별 영업활동현금흐름,476000000,USD,공시,https://www.sec.gov/Archives/edgar/data/101829/000010182922000018/,,3
+RTX,RTX,2022Q1,2022-03-31,분기말 자산총계,159366000000,USD,공시,https://www.sec.gov/Archives/edgar/data/101829/000010182922000018/,,3
+RTX,RTX,2022Q1,2022-03-31,분기말 부채총계,85344000000,USD,공시,https://www.sec.gov/Archives/edgar/data/101829/000010182922000018/,메자닌(일시자본) 36000000 별도,3
+RTX,RTX,2022Q1,2022-03-31,분기말 총자본(자기자본),73986000000,USD,공시,https://www.sec.gov/Archives/edgar/data/101829/000010182922000018/,,3
+RTX,RTX,2022Q1,2022-03-31,분기말 지배지분 자본,72462000000,USD,공시,https://www.sec.gov/Archives/edgar/data/101829/000010182922000018/,,3
+RTX,RTX,2022Q1,2022-03-31,분기말 종가,99.07,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/RTX?interval=1d&events=splits (2022-03-31),,3
+RTX,RTX,2022Q1,2022-03-31,분기말 상장주식수,1487215106,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/101829/000010182922000018/,dei:EntityCommonStockSharesOutstanding 클래스 합,3
+RTX,RTX,2022Q1,2022-03-31,분기말 시가총액,147338400551,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/RTX?interval=1d&events=splits (2022-03-31) ; https://www.sec.gov/Archives/edgar/data/101829/000010182922000018/,종가 99.07 × 주식수 1487215106,3
+RTX,RTX,2022Q2,2022-06-30,분기별 매출액,16314000000,USD,공시,https://www.sec.gov/Archives/edgar/data/101829/000010182922000040/,,3
+RTX,RTX,2022Q2,2022-06-30,분기별 영업이익,1353000000,USD,공시,https://www.sec.gov/Archives/edgar/data/101829/000010182922000040/,,3
+RTX,RTX,2022Q2,2022-06-30,분기별 당기순이익(지배),1304000000,USD,공시,https://www.sec.gov/Archives/edgar/data/101829/000010182922000040/,,3
+RTX,RTX,2022Q2,2022-06-30,분기별 영업활동현금흐름,1286000000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/101829/000010182922000040/ ; https://www.sec.gov/Archives/edgar/data/101829/000010182922000018/,누적 1762000000 − 직전누적 476000000 (시작 2022-01-01),3
+RTX,RTX,2022Q2,2022-06-30,분기말 자산총계,159017000000,USD,공시,https://www.sec.gov/Archives/edgar/data/101829/000010182922000040/,,3
+RTX,RTX,2022Q2,2022-06-30,분기말 부채총계,86989000000,USD,공시,https://www.sec.gov/Archives/edgar/data/101829/000010182922000040/,메자닌(일시자본) 38000000 별도,3
+RTX,RTX,2022Q2,2022-06-30,분기말 총자본(자기자본),71990000000,USD,공시,https://www.sec.gov/Archives/edgar/data/101829/000010182922000040/,,3
+RTX,RTX,2022Q2,2022-06-30,분기말 지배지분 자본,70441000000,USD,공시,https://www.sec.gov/Archives/edgar/data/101829/000010182922000040/,,3
+RTX,RTX,2022Q2,2022-06-30,분기말 종가,96.11,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/RTX?interval=1d&events=splits (2022-06-30),,3
+RTX,RTX,2022Q2,2022-06-30,분기말 상장주식수,1476514046,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/101829/000010182922000040/,dei:EntityCommonStockSharesOutstanding 클래스 합,3
+RTX,RTX,2022Q2,2022-06-30,분기말 시가총액,141907764961,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/RTX?interval=1d&events=splits (2022-06-30) ; https://www.sec.gov/Archives/edgar/data/101829/000010182922000040/,종가 96.11 × 주식수 1476514046,3
+RTX,RTX,2022Q3,2022-09-30,분기별 매출액,16951000000,USD,공시,https://www.sec.gov/Archives/edgar/data/101829/000010182922000056/,,3
+RTX,RTX,2022Q3,2022-09-30,분기별 영업이익,1480000000,USD,공시,https://www.sec.gov/Archives/edgar/data/101829/000010182922000056/,,3
+RTX,RTX,2022Q3,2022-09-30,분기별 당기순이익(지배),1387000000,USD,공시,https://www.sec.gov/Archives/edgar/data/101829/000010182922000056/,,3
+RTX,RTX,2022Q3,2022-09-30,분기별 영업활동현금흐름,778000000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/101829/000010182922000056/ ; https://www.sec.gov/Archives/edgar/data/101829/000010182922000040/,누적 2540000000 − 직전누적 1762000000 (시작 2022-01-01),3
+RTX,RTX,2022Q3,2022-09-30,분기말 자산총계,158225000000,USD,공시,https://www.sec.gov/Archives/edgar/data/101829/000010182922000056/,,3
+RTX,RTX,2022Q3,2022-09-30,분기말 부채총계,86457000000,USD,공시,https://www.sec.gov/Archives/edgar/data/101829/000010182922000056/,메자닌(일시자본) 33000000 별도,3
+RTX,RTX,2022Q3,2022-09-30,분기말 총자본(자기자본),71735000000,USD,공시,https://www.sec.gov/Archives/edgar/data/101829/000010182922000056/,,3
+RTX,RTX,2022Q3,2022-09-30,분기말 지배지분 자본,70187000000,USD,공시,https://www.sec.gov/Archives/edgar/data/101829/000010182922000056/,,3
+RTX,RTX,2022Q3,2022-09-30,분기말 종가,81.86,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/RTX?interval=1d&events=splits (2022-09-30),,3
+RTX,RTX,2022Q3,2022-09-30,분기말 상장주식수,1470060775,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/101829/000010182922000056/,dei:EntityCommonStockSharesOutstanding 클래스 합,3
+RTX,RTX,2022Q3,2022-09-30,분기말 시가총액,120339175042,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/RTX?interval=1d&events=splits (2022-09-30) ; https://www.sec.gov/Archives/edgar/data/101829/000010182922000056/,종가 81.86 × 주식수 1470060775,3
+RTX,RTX,2022Q4,2022-12-31,분기별 매출액,18093000000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/101829/000010182923000009/ ; https://www.sec.gov/Archives/edgar/data/101829/000010182922000056/,연간 67074000000 − 9개월누적 48981000000 (Revenues),3
+RTX,RTX,2022Q4,2022-12-31,분기별 영업이익,1501000000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/101829/000010182923000009/ ; https://www.sec.gov/Archives/edgar/data/101829/000010182922000056/,연간 5414000000 − 9개월누적 3913000000 (OperatingIncomeLoss),3
+RTX,RTX,2022Q4,2022-12-31,분기별 당기순이익(지배),1422000000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/101829/000010182923000009/ ; https://www.sec.gov/Archives/edgar/data/101829/000010182922000056/,연간 5197000000 − 9개월누적 3775000000 (NetIncomeLoss),3
+RTX,RTX,2022Q4,2022-12-31,분기별 영업활동현금흐름,4628000000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/101829/000010182923000009/ ; https://www.sec.gov/Archives/edgar/data/101829/000010182922000056/,누적 7168000000 − 직전누적 2540000000 (시작 2022-01-01),3
+RTX,RTX,2022Q4,2022-12-31,분기말 자산총계,158864000000,USD,공시,https://www.sec.gov/Archives/edgar/data/101829/000010182923000009/,,3
+RTX,RTX,2022Q4,2022-12-31,분기말 부채총계,84650000000,USD,공시,https://www.sec.gov/Archives/edgar/data/101829/000010182923000009/,메자닌(일시자본) 36000000 별도,3
+RTX,RTX,2022Q4,2022-12-31,분기말 총자본(자기자본),74178000000,USD,공시,https://www.sec.gov/Archives/edgar/data/101829/000010182923000009/,,3
+RTX,RTX,2022Q4,2022-12-31,분기말 지배지분 자본,72632000000,USD,공시,https://www.sec.gov/Archives/edgar/data/101829/000010182923000009/,,3
+RTX,RTX,2022Q4,2022-12-30,분기말 종가,100.92,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/RTX?interval=1d&events=splits (2022-12-30),,3
+RTX,RTX,2022Q4,2023-01-31,분기말 상장주식수,1464954584,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/101829/000010182923000009/,dei:EntityCommonStockSharesOutstanding 클래스 합,3
+RTX,RTX,2022Q4,2022-12-30,분기말 시가총액,147843216617,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/RTX?interval=1d&events=splits (2022-12-30) ; https://www.sec.gov/Archives/edgar/data/101829/000010182923000009/,종가 100.92 × 주식수 1464954584,3
+RTX,RTX,2023Q1,2023-03-31,분기별 매출액,17214000000,USD,공시,https://www.sec.gov/Archives/edgar/data/101829/000010182923000015/,,3
+RTX,RTX,2023Q1,2023-03-31,분기별 영업이익,1652000000,USD,공시,https://www.sec.gov/Archives/edgar/data/101829/000010182923000015/,,3
+RTX,RTX,2023Q1,2023-03-31,분기별 당기순이익(지배),1426000000,USD,공시,https://www.sec.gov/Archives/edgar/data/101829/000010182923000015/,,3
+RTX,RTX,2023Q1,2023-03-31,분기별 영업활동현금흐름,-863000000,USD,공시,https://www.sec.gov/Archives/edgar/data/101829/000010182923000015/,,3
+RTX,RTX,2023Q1,2023-03-31,분기말 자산총계,161636000000,USD,공시,https://www.sec.gov/Archives/edgar/data/101829/000010182923000015/,,3
+RTX,RTX,2023Q1,2023-03-31,분기말 부채총계,87251000000,USD,공시,https://www.sec.gov/Archives/edgar/data/101829/000010182923000015/,메자닌(일시자본) 38000000 별도,3
+RTX,RTX,2023Q1,2023-03-31,분기말 총자본(자기자본),74347000000,USD,공시,https://www.sec.gov/Archives/edgar/data/101829/000010182923000015/,,3
+RTX,RTX,2023Q1,2023-03-31,분기말 지배지분 자본,72795000000,USD,공시,https://www.sec.gov/Archives/edgar/data/101829/000010182923000015/,,3
+RTX,RTX,2023Q1,2023-03-31,분기말 종가,97.93,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/RTX?interval=1d&events=splits (2023-03-31),,3
+RTX,RTX,2023Q1,2023-03-31,분기말 상장주식수,1461142016,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/101829/000010182923000015/,dei:EntityCommonStockSharesOutstanding 클래스 합,3
+RTX,RTX,2023Q1,2023-03-31,분기말 시가총액,143089637627,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/RTX?interval=1d&events=splits (2023-03-31) ; https://www.sec.gov/Archives/edgar/data/101829/000010182923000015/,종가 97.93 × 주식수 1461142016,3
+RTX,RTX,2023Q2,2023-06-30,분기별 매출액,18315000000,USD,공시,https://www.sec.gov/Archives/edgar/data/101829/000010182923000032/,,3
+RTX,RTX,2023Q2,2023-06-30,분기별 영업이익,1458000000,USD,공시,https://www.sec.gov/Archives/edgar/data/101829/000010182923000032/,,3
+RTX,RTX,2023Q2,2023-06-30,분기별 당기순이익(지배),1327000000,USD,공시,https://www.sec.gov/Archives/edgar/data/101829/000010182923000032/,,3
+RTX,RTX,2023Q2,2023-06-30,분기별 영업활동현금흐름,719000000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/101829/000010182923000032/ ; https://www.sec.gov/Archives/edgar/data/101829/000010182923000015/,누적 -144000000 − 직전누적 -863000000 (시작 2023-01-01),3
+RTX,RTX,2023Q2,2023-06-30,분기말 자산총계,162161000000,USD,공시,https://www.sec.gov/Archives/edgar/data/101829/000010182923000032/,,3
+RTX,RTX,2023Q2,2023-06-30,분기말 부채총계,88074000000,USD,공시,https://www.sec.gov/Archives/edgar/data/101829/000010182923000032/,메자닌(일시자본) 31000000 별도,3
+RTX,RTX,2023Q2,2023-06-30,분기말 총자본(자기자본),74056000000,USD,공시,https://www.sec.gov/Archives/edgar/data/101829/000010182923000032/,,3
+RTX,RTX,2023Q2,2023-06-30,분기말 지배지분 자본,72480000000,USD,공시,https://www.sec.gov/Archives/edgar/data/101829/000010182923000032/,,3
+RTX,RTX,2023Q2,2023-06-30,분기말 종가,97.96,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/RTX?interval=1d&events=splits (2023-06-30),,3
+RTX,RTX,2023Q2,2023-06-30,분기말 상장주식수,1455514944,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/101829/000010182923000032/,dei:EntityCommonStockSharesOutstanding 클래스 합,3
+RTX,RTX,2023Q2,2023-06-30,분기말 시가총액,142582243914,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/RTX?interval=1d&events=splits (2023-06-30) ; https://www.sec.gov/Archives/edgar/data/101829/000010182923000032/,종가 97.96 × 주식수 1455514944,3
+RTX,RTX,2023Q3,2023-09-30,분기별 매출액,13464000000,USD,공시,https://www.sec.gov/Archives/edgar/data/101829/000010182923000037/,,3
+RTX,RTX,2023Q3,2023-09-30,분기별 영업이익,-1396000000,USD,공시,https://www.sec.gov/Archives/edgar/data/101829/000010182923000037/,,3
+RTX,RTX,2023Q3,2023-09-30,분기별 당기순이익(지배),-984000000,USD,공시,https://www.sec.gov/Archives/edgar/data/101829/000010182923000037/,,3
+RTX,RTX,2023Q3,2023-09-30,분기별 영업활동현금흐름,3316000000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/101829/000010182923000037/ ; https://www.sec.gov/Archives/edgar/data/101829/000010182923000032/,누적 3172000000 − 직전누적 -144000000 (시작 2023-01-01),3
+RTX,RTX,2023Q3,2023-09-30,분기말 자산총계,162443000000,USD,공시,https://www.sec.gov/Archives/edgar/data/101829/000010182923000037/,,3
+RTX,RTX,2023Q3,2023-09-30,분기말 부채총계,91197000000,USD,공시,https://www.sec.gov/Archives/edgar/data/101829/000010182923000037/,메자닌(일시자본) 33000000 별도,3
+RTX,RTX,2023Q3,2023-09-30,분기말 총자본(자기자본),71213000000,USD,공시,https://www.sec.gov/Archives/edgar/data/101829/000010182923000037/,,3
+RTX,RTX,2023Q3,2023-09-30,분기말 지배지분 자본,69596000000,USD,공시,https://www.sec.gov/Archives/edgar/data/101829/000010182923000037/,,3
+RTX,RTX,2023Q3,2023-09-29,분기말 종가,71.97,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/RTX?interval=1d&events=splits (2023-09-29),,3
+RTX,RTX,2023Q3,2023-09-30,분기말 상장주식수,1437901284,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/101829/000010182923000037/,dei:EntityCommonStockSharesOutstanding 클래스 합,3
+RTX,RTX,2023Q3,2023-09-29,분기말 시가총액,103485755409,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/RTX?interval=1d&events=splits (2023-09-29) ; https://www.sec.gov/Archives/edgar/data/101829/000010182923000037/,종가 71.97 × 주식수 1437901284,3
+RTX,RTX,2023Q4,2023-12-31,분기별 매출액,19927000000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/101829/000010182924000008/ ; https://www.sec.gov/Archives/edgar/data/101829/000010182923000037/,연간 68920000000 − 9개월누적 48993000000 (Revenues),3
+RTX,RTX,2023Q4,2023-12-31,분기별 영업이익,1777000000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/101829/000010182924000008/ ; https://www.sec.gov/Archives/edgar/data/101829/000010182923000037/,연간 3561000000 − 9개월누적 1784000000 (OperatingIncomeLoss),3
+RTX,RTX,2023Q4,2023-12-31,분기별 당기순이익(지배),1426000000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/101829/000010182924000008/ ; https://www.sec.gov/Archives/edgar/data/101829/000010182923000037/,연간 3195000000 − 9개월누적 1769000000 (NetIncomeLoss),3
+RTX,RTX,2023Q4,2023-12-31,분기별 영업활동현금흐름,4711000000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/101829/000010182924000008/ ; https://www.sec.gov/Archives/edgar/data/101829/000010182923000037/,누적 7883000000 − 직전누적 3172000000 (시작 2023-01-01),3
+RTX,RTX,2023Q4,2023-12-31,분기말 자산총계,161869000000,USD,공시,https://www.sec.gov/Archives/edgar/data/101829/000010182924000008/,,3
+RTX,RTX,2023Q4,2023-12-31,분기말 부채총계,100424000000,USD,공시,https://www.sec.gov/Archives/edgar/data/101829/000010182924000008/,메자닌(일시자본) 35000000 별도,3
+RTX,RTX,2023Q4,2023-12-31,분기말 총자본(자기자본),61410000000,USD,공시,https://www.sec.gov/Archives/edgar/data/101829/000010182924000008/,,3
+RTX,RTX,2023Q4,2023-12-31,분기말 지배지분 자본,59798000000,USD,공시,https://www.sec.gov/Archives/edgar/data/101829/000010182924000008/,,3
+RTX,RTX,2023Q4,2023-12-29,분기말 종가,84.14,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/RTX?interval=1d&events=splits (2023-12-29),,3
+RTX,RTX,2023Q4,2024-01-31,분기말 상장주식수,1326826896,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/101829/000010182924000008/,dei:EntityCommonStockSharesOutstanding 클래스 합,3
+RTX,RTX,2023Q4,2023-12-29,분기말 시가총액,111639215029,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/RTX?interval=1d&events=splits (2023-12-29) ; https://www.sec.gov/Archives/edgar/data/101829/000010182924000008/,종가 84.14 × 주식수 1326826896,3
+RTX,RTX,2024Q1,2024-03-31,분기별 매출액,19305000000,USD,공시,https://www.sec.gov/Archives/edgar/data/101829/000010182924000012/,,3
+RTX,RTX,2024Q1,2024-03-31,분기별 영업이익,1870000000,USD,공시,https://www.sec.gov/Archives/edgar/data/101829/000010182924000012/,,3
+RTX,RTX,2024Q1,2024-03-31,분기별 당기순이익(지배),1709000000,USD,공시,https://www.sec.gov/Archives/edgar/data/101829/000010182924000012/,,3
+RTX,RTX,2024Q1,2024-03-31,분기별 영업활동현금흐름,342000000,USD,공시,https://www.sec.gov/Archives/edgar/data/101829/000010182924000012/,,3
+RTX,RTX,2024Q1,2024-03-31,분기말 자산총계,160187000000,USD,공시,https://www.sec.gov/Archives/edgar/data/101829/000010182924000012/,,3
+RTX,RTX,2024Q1,2024-03-31,분기말 부채총계,98050000000,USD,공시,https://www.sec.gov/Archives/edgar/data/101829/000010182924000012/,메자닌(일시자본) 37000000 별도,3
+RTX,RTX,2024Q1,2024-03-31,분기말 총자본(자기자본),62100000000,USD,공시,https://www.sec.gov/Archives/edgar/data/101829/000010182924000012/,,3
+RTX,RTX,2024Q1,2024-03-31,분기말 지배지분 자본,60485000000,USD,공시,https://www.sec.gov/Archives/edgar/data/101829/000010182924000012/,,3
+RTX,RTX,2024Q1,2024-03-28,분기말 종가,97.53,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/RTX?interval=1d&events=splits (2024-03-28),,3
+RTX,RTX,2024Q1,2024-03-31,분기말 상장주식수,1329506013,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/101829/000010182924000012/,dei:EntityCommonStockSharesOutstanding 클래스 합,3
+RTX,RTX,2024Q1,2024-03-28,분기말 시가총액,129666721448,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/RTX?interval=1d&events=splits (2024-03-28) ; https://www.sec.gov/Archives/edgar/data/101829/000010182924000012/,종가 97.53 × 주식수 1329506013,3
+RTX,RTX,2024Q2,2024-06-30,분기별 매출액,19721000000,USD,공시,https://www.sec.gov/Archives/edgar/data/101829/000010182924000027/,,3
+RTX,RTX,2024Q2,2024-06-30,분기별 영업이익,529000000,USD,공시,https://www.sec.gov/Archives/edgar/data/101829/000010182924000027/,,3
+RTX,RTX,2024Q2,2024-06-30,분기별 당기순이익(지배),111000000,USD,공시,https://www.sec.gov/Archives/edgar/data/101829/000010182924000027/,,3
+RTX,RTX,2024Q2,2024-06-30,분기별 영업활동현금흐름,2733000000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/101829/000010182924000027/ ; https://www.sec.gov/Archives/edgar/data/101829/000010182924000012/,누적 3075000000 − 직전누적 342000000 (시작 2024-01-01),3
+RTX,RTX,2024Q2,2024-06-30,분기말 자산총계,161169000000,USD,공시,https://www.sec.gov/Archives/edgar/data/101829/000010182924000027/,,3
+RTX,RTX,2024Q2,2024-06-30,분기말 부채총계,100488000000,USD,공시,https://www.sec.gov/Archives/edgar/data/101829/000010182924000027/,메자닌(일시자본) 31000000 별도,3
+RTX,RTX,2024Q2,2024-06-30,분기말 총자본(자기자본),60650000000,USD,공시,https://www.sec.gov/Archives/edgar/data/101829/000010182924000027/,,3
+RTX,RTX,2024Q2,2024-06-30,분기말 지배지분 자본,58985000000,USD,공시,https://www.sec.gov/Archives/edgar/data/101829/000010182924000027/,,3
+RTX,RTX,2024Q2,2024-06-28,분기말 종가,100.39,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/RTX?interval=1d&events=splits (2024-06-28),,3
+RTX,RTX,2024Q2,2024-06-30,분기말 상장주식수,1330239366,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/101829/000010182924000027/,dei:EntityCommonStockSharesOutstanding 클래스 합,3
+RTX,RTX,2024Q2,2024-06-28,분기말 시가총액,133542729953,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/RTX?interval=1d&events=splits (2024-06-28) ; https://www.sec.gov/Archives/edgar/data/101829/000010182924000027/,종가 100.39 × 주식수 1330239366,3
+RTX,RTX,2024Q3,2024-09-30,분기별 매출액,20089000000,USD,공시,https://www.sec.gov/Archives/edgar/data/101829/000010182924000038/,,3
+RTX,RTX,2024Q3,2024-09-30,분기별 영업이익,2028000000,USD,공시,https://www.sec.gov/Archives/edgar/data/101829/000010182924000038/,,3
+RTX,RTX,2024Q3,2024-09-30,분기별 당기순이익(지배),1472000000,USD,공시,https://www.sec.gov/Archives/edgar/data/101829/000010182924000038/,,3
+RTX,RTX,2024Q3,2024-09-30,분기별 영업활동현금흐름,2523000000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/101829/000010182924000038/ ; https://www.sec.gov/Archives/edgar/data/101829/000010182924000027/,누적 5598000000 − 직전누적 3075000000 (시작 2024-01-01),3
+RTX,RTX,2024Q3,2024-09-30,분기말 자산총계,164822000000,USD,공시,https://www.sec.gov/Archives/edgar/data/101829/000010182924000038/,,3
+RTX,RTX,2024Q3,2024-09-30,분기말 부채총계,101963000000,USD,공시,https://www.sec.gov/Archives/edgar/data/101829/000010182924000038/,메자닌(일시자본) 33000000 별도,3
+RTX,RTX,2024Q3,2024-09-30,분기말 총자본(자기자본),62826000000,USD,공시,https://www.sec.gov/Archives/edgar/data/101829/000010182924000038/,,3
+RTX,RTX,2024Q3,2024-09-30,분기말 지배지분 자본,61114000000,USD,공시,https://www.sec.gov/Archives/edgar/data/101829/000010182924000038/,,3
+RTX,RTX,2024Q3,2024-09-30,분기말 종가,121.16,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/RTX?interval=1d&events=splits (2024-09-30),,3
+RTX,RTX,2024Q3,2024-09-30,분기말 상장주식수,1331016397,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/101829/000010182924000038/,dei:EntityCommonStockSharesOutstanding 클래스 합,3
+RTX,RTX,2024Q3,2024-09-30,분기말 시가총액,161265946661,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/RTX?interval=1d&events=splits (2024-09-30) ; https://www.sec.gov/Archives/edgar/data/101829/000010182924000038/,종가 121.16 × 주식수 1331016397,3
+RTX,RTX,2024Q4,2024-12-31,분기별 매출액,21623000000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/101829/000010182925000005/ ; https://www.sec.gov/Archives/edgar/data/101829/000010182924000038/,연간 80738000000 − 9개월누적 59115000000 (Revenues),3
+RTX,RTX,2024Q4,2024-12-31,분기별 영업이익,2111000000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/101829/000010182925000005/ ; https://www.sec.gov/Archives/edgar/data/101829/000010182924000038/,연간 6538000000 − 9개월누적 4427000000 (OperatingIncomeLoss),3
+RTX,RTX,2024Q4,2024-12-31,분기별 당기순이익(지배),1482000000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/101829/000010182925000005/ ; https://www.sec.gov/Archives/edgar/data/101829/000010182924000038/,연간 4774000000 − 9개월누적 3292000000 (NetIncomeLoss),3
+RTX,RTX,2024Q4,2024-12-31,분기별 영업활동현금흐름,1561000000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/101829/000010182925000005/ ; https://www.sec.gov/Archives/edgar/data/101829/000010182924000038/,누적 7159000000 − 직전누적 5598000000 (시작 2024-01-01),3
+RTX,RTX,2024Q4,2024-12-31,분기말 자산총계,162861000000,USD,공시,https://www.sec.gov/Archives/edgar/data/101829/000010182925000005/,,3
+RTX,RTX,2024Q4,2024-12-31,분기말 부채총계,100903000000,USD,공시,https://www.sec.gov/Archives/edgar/data/101829/000010182925000005/,메자닌(일시자본) 35000000 별도,3
+RTX,RTX,2024Q4,2024-12-31,분기말 총자본(자기자본),61923000000,USD,공시,https://www.sec.gov/Archives/edgar/data/101829/000010182925000005/,,3
+RTX,RTX,2024Q4,2024-12-31,분기말 지배지분 자본,60156000000,USD,공시,https://www.sec.gov/Archives/edgar/data/101829/000010182925000005/,,3
+RTX,RTX,2024Q4,2024-12-31,분기말 종가,115.72,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/RTX?interval=1d&events=splits (2024-12-31),,3
+RTX,RTX,2024Q4,2024-12-31,분기말 상장주식수,1332122758,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/101829/000010182925000005/,dei:EntityCommonStockSharesOutstanding 클래스 합,3
+RTX,RTX,2024Q4,2024-12-31,분기말 시가총액,154153245556,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/RTX?interval=1d&events=splits (2024-12-31) ; https://www.sec.gov/Archives/edgar/data/101829/000010182925000005/,종가 115.72 × 주식수 1332122758,3
+RTX,RTX,2025Q1,2025-03-31,분기별 매출액,20306000000,USD,공시,https://www.sec.gov/Archives/edgar/data/101829/000010182925000015/,,3
+RTX,RTX,2025Q1,2025-03-31,분기별 영업이익,2035000000,USD,공시,https://www.sec.gov/Archives/edgar/data/101829/000010182925000015/,,3
+RTX,RTX,2025Q1,2025-03-31,분기별 당기순이익(지배),1535000000,USD,공시,https://www.sec.gov/Archives/edgar/data/101829/000010182925000015/,,3
+RTX,RTX,2025Q1,2025-03-31,분기별 영업활동현금흐름,1305000000,USD,공시,https://www.sec.gov/Archives/edgar/data/101829/000010182925000015/,,3
+RTX,RTX,2025Q1,2025-03-31,분기말 자산총계,164864000000,USD,공시,https://www.sec.gov/Archives/edgar/data/101829/000010182925000015/,,3
+RTX,RTX,2025Q1,2025-03-31,분기말 부채총계,101520000000,USD,공시,https://www.sec.gov/Archives/edgar/data/101829/000010182925000015/,메자닌(일시자본) 37000000 별도,3
+RTX,RTX,2025Q1,2025-03-31,분기말 총자본(자기자본),63307000000,USD,공시,https://www.sec.gov/Archives/edgar/data/101829/000010182925000015/,,3
+RTX,RTX,2025Q1,2025-03-31,분기말 지배지분 자본,61516000000,USD,공시,https://www.sec.gov/Archives/edgar/data/101829/000010182925000015/,,3
+RTX,RTX,2025Q1,2025-03-31,분기말 종가,132.46,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/RTX?interval=1d&events=splits (2025-03-31),,3
+RTX,RTX,2025Q1,2025-03-31,분기말 상장주식수,1335953770,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/101829/000010182925000015/,dei:EntityCommonStockSharesOutstanding 클래스 합,3
+RTX,RTX,2025Q1,2025-03-31,분기말 시가총액,176960436374,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/RTX?interval=1d&events=splits (2025-03-31) ; https://www.sec.gov/Archives/edgar/data/101829/000010182925000015/,종가 132.46 × 주식수 1335953770,3
+RTX,RTX,2025Q2,2025-06-30,분기별 매출액,21581000000,USD,공시,https://www.sec.gov/Archives/edgar/data/101829/000010182925000032/,,3
+RTX,RTX,2025Q2,2025-06-30,분기별 영업이익,2146000000,USD,공시,https://www.sec.gov/Archives/edgar/data/101829/000010182925000032/,,3
+RTX,RTX,2025Q2,2025-06-30,분기별 당기순이익(지배),1657000000,USD,공시,https://www.sec.gov/Archives/edgar/data/101829/000010182925000032/,,3
+RTX,RTX,2025Q2,2025-06-30,분기별 영업활동현금흐름,458000000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/101829/000010182925000032/ ; https://www.sec.gov/Archives/edgar/data/101829/000010182925000015/,누적 1763000000 − 직전누적 1305000000 (시작 2025-01-01),3
+RTX,RTX,2025Q2,2025-06-30,분기말 자산총계,167139000000,USD,공시,https://www.sec.gov/Archives/edgar/data/101829/000010182925000032/,,3
+RTX,RTX,2025Q2,2025-06-30,분기말 부채총계,102892000000,USD,공시,https://www.sec.gov/Archives/edgar/data/101829/000010182925000032/,메자닌(일시자본) 41000000 별도,3
+RTX,RTX,2025Q2,2025-06-30,분기말 총자본(자기자본),64206000000,USD,공시,https://www.sec.gov/Archives/edgar/data/101829/000010182925000032/,,3
+RTX,RTX,2025Q2,2025-06-30,분기말 지배지분 자본,62398000000,USD,공시,https://www.sec.gov/Archives/edgar/data/101829/000010182925000032/,,3
+RTX,RTX,2025Q2,2025-06-30,분기말 종가,146.02,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/RTX?interval=1d&events=splits (2025-06-30),,3
+RTX,RTX,2025Q2,2025-06-30,분기말 상장주식수,1338541827,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/101829/000010182925000032/,dei:EntityCommonStockSharesOutstanding 클래스 합,3
+RTX,RTX,2025Q2,2025-06-30,분기말 시가총액,195453877579,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/RTX?interval=1d&events=splits (2025-06-30) ; https://www.sec.gov/Archives/edgar/data/101829/000010182925000032/,종가 146.02 × 주식수 1338541827,3
+RTX,RTX,2025Q3,2025-09-30,분기별 매출액,22478000000,USD,공시,https://www.sec.gov/Archives/edgar/data/101829/000010182925000042/,,3
+RTX,RTX,2025Q3,2025-09-30,분기별 영업이익,2523000000,USD,공시,https://www.sec.gov/Archives/edgar/data/101829/000010182925000042/,,3
+RTX,RTX,2025Q3,2025-09-30,분기별 당기순이익(지배),1918000000,USD,공시,https://www.sec.gov/Archives/edgar/data/101829/000010182925000042/,,3
+RTX,RTX,2025Q3,2025-09-30,분기별 영업활동현금흐름,4639000000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/101829/000010182925000042/ ; https://www.sec.gov/Archives/edgar/data/101829/000010182925000032/,누적 6402000000 − 직전누적 1763000000 (시작 2025-01-01),3
+RTX,RTX,2025Q3,2025-09-30,분기말 자산총계,168672000000,USD,공시,https://www.sec.gov/Archives/edgar/data/101829/000010182925000042/,,3
+RTX,RTX,2025Q3,2025-09-30,분기말 부채총계,102279000000,USD,공시,https://www.sec.gov/Archives/edgar/data/101829/000010182925000042/,메자닌(일시자본) 34000000 별도,3
+RTX,RTX,2025Q3,2025-09-30,분기말 총자본(자기자본),66359000000,USD,공시,https://www.sec.gov/Archives/edgar/data/101829/000010182925000042/,,3
+RTX,RTX,2025Q3,2025-09-30,분기말 지배지분 자본,64514000000,USD,공시,https://www.sec.gov/Archives/edgar/data/101829/000010182925000042/,,3
+RTX,RTX,2025Q3,2025-09-30,분기말 종가,167.33,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/RTX?interval=1d&events=splits (2025-09-30),,3
+RTX,RTX,2025Q3,2025-09-30,분기말 상장주식수,1340771942,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/101829/000010182925000042/,dei:EntityCommonStockSharesOutstanding 클래스 합,3
+RTX,RTX,2025Q3,2025-09-30,분기말 시가총액,224351369055,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/RTX?interval=1d&events=splits (2025-09-30) ; https://www.sec.gov/Archives/edgar/data/101829/000010182925000042/,종가 167.33 × 주식수 1340771942,3
+RTX,RTX,2025Q4,2025-12-31,분기별 매출액,24238000000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/101829/000010182926000006/ ; https://www.sec.gov/Archives/edgar/data/101829/000010182925000042/,연간 88603000000 − 9개월누적 64365000000 (RevenueFromContractWithCustomerExcludingAssessedTax),3
+RTX,RTX,2025Q4,2025-12-31,분기별 영업이익,2596000000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/101829/000010182926000006/ ; https://www.sec.gov/Archives/edgar/data/101829/000010182925000042/,연간 9300000000 − 9개월누적 6704000000 (OperatingIncomeLoss),3
+RTX,RTX,2025Q4,2025-12-31,분기별 당기순이익(지배),1622000000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/101829/000010182926000006/ ; https://www.sec.gov/Archives/edgar/data/101829/000010182925000042/,연간 6732000000 − 9개월누적 5110000000 (NetIncomeLoss),3
+RTX,RTX,2025Q4,2025-12-31,분기별 영업활동현금흐름,4165000000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/101829/000010182926000006/ ; https://www.sec.gov/Archives/edgar/data/101829/000010182925000042/,누적 10567000000 − 직전누적 6402000000 (시작 2025-01-01),3
+RTX,RTX,2025Q4,2025-12-31,분기말 자산총계,171079000000,USD,공시,https://www.sec.gov/Archives/edgar/data/101829/000010182926000006/,,3
+RTX,RTX,2025Q4,2025-12-31,분기말 부채총계,103941000000,USD,공시,https://www.sec.gov/Archives/edgar/data/101829/000010182926000006/,메자닌(일시자본) 36000000 별도,3
+RTX,RTX,2025Q4,2025-12-31,분기말 총자본(자기자본),67102000000,USD,공시,https://www.sec.gov/Archives/edgar/data/101829/000010182926000006/,,3
+RTX,RTX,2025Q4,2025-12-31,분기말 지배지분 자본,65245000000,USD,공시,https://www.sec.gov/Archives/edgar/data/101829/000010182926000006/,,3
+RTX,RTX,2025Q4,2025-12-31,분기말 종가,183.4,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/RTX?interval=1d&events=splits (2025-12-31),,3
+RTX,RTX,2025Q4,2025-12-31,분기말 상장주식수,1342287676,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/101829/000010182926000006/,dei:EntityCommonStockSharesOutstanding 클래스 합,3
+RTX,RTX,2025Q4,2025-12-31,분기말 시가총액,246175559778,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/RTX?interval=1d&events=splits (2025-12-31) ; https://www.sec.gov/Archives/edgar/data/101829/000010182926000006/,종가 183.4 × 주식수 1342287676,3
+RTX,RTX,2026Q1,2026-03-31,분기별 매출액,22076000000,USD,공시,https://www.sec.gov/Archives/edgar/data/101829/000010182926000011/,,3
+RTX,RTX,2026Q1,2026-03-31,분기별 영업이익,2555000000,USD,공시,https://www.sec.gov/Archives/edgar/data/101829/000010182926000011/,,3
+RTX,RTX,2026Q1,2026-03-31,분기별 당기순이익(지배),2059000000,USD,공시,https://www.sec.gov/Archives/edgar/data/101829/000010182926000011/,,3
+RTX,RTX,2026Q1,2026-03-31,분기별 영업활동현금흐름,1855000000,USD,공시,https://www.sec.gov/Archives/edgar/data/101829/000010182926000011/,,3
+RTX,RTX,2026Q1,2026-03-31,분기말 자산총계,170431000000,USD,공시,https://www.sec.gov/Archives/edgar/data/101829/000010182926000011/,,3
+RTX,RTX,2026Q1,2026-03-31,분기말 부채총계,102397000000,USD,공시,https://www.sec.gov/Archives/edgar/data/101829/000010182926000011/,메자닌(일시자본) 37000000 별도,3
+RTX,RTX,2026Q1,2026-03-31,분기말 총자본(자기자본),67997000000,USD,공시,https://www.sec.gov/Archives/edgar/data/101829/000010182926000011/,,3
+RTX,RTX,2026Q1,2026-03-31,분기말 지배지분 자본,66280000000,USD,공시,https://www.sec.gov/Archives/edgar/data/101829/000010182926000011/,,3
+RTX,RTX,2026Q1,2026-03-31,분기말 종가,192.9,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/RTX?interval=1d&events=splits (2026-03-31),,3
+RTX,RTX,2026Q1,2026-03-31,분기말 상장주식수,1346683428,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/101829/000010182926000011/,dei:EntityCommonStockSharesOutstanding 클래스 합,3
+RTX,RTX,2026Q1,2026-03-31,분기말 시가총액,259775233261,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/RTX?interval=1d&events=splits (2026-03-31) ; https://www.sec.gov/Archives/edgar/data/101829/000010182926000011/,종가 192.9 × 주식수 1346683428,3
+RTX,RTX,2026Q2,2026-06-30,분기별 매출액,24708000000,USD,공시,https://www.sec.gov/Archives/edgar/data/101829/000010182926000027/,,3
+RTX,RTX,2026Q2,2026-06-30,분기별 영업이익,2811000000,USD,공시,https://www.sec.gov/Archives/edgar/data/101829/000010182926000027/,,3
+RTX,RTX,2026Q2,2026-06-30,분기별 당기순이익(지배),2139000000,USD,공시,https://www.sec.gov/Archives/edgar/data/101829/000010182926000027/,,3
+RTX,RTX,2026Q2,2026-06-30,분기별 영업활동현금흐름,3547000000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/101829/000010182926000027/ ; https://www.sec.gov/Archives/edgar/data/101829/000010182926000011/,누적 5402000000 − 직전누적 1855000000 (시작 2026-01-01),3
+RTX,RTX,2026Q2,2026-06-30,분기말 자산총계,173972000000,USD,공시,https://www.sec.gov/Archives/edgar/data/101829/000010182926000027/,,3
+RTX,RTX,2026Q2,2026-06-30,분기말 부채총계,105828000000,USD,공시,https://www.sec.gov/Archives/edgar/data/101829/000010182926000027/,메자닌(일시자본) 28000000 별도,3
+RTX,RTX,2026Q2,2026-06-30,분기말 총자본(자기자본),68116000000,USD,공시,https://www.sec.gov/Archives/edgar/data/101829/000010182926000027/,,3
+RTX,RTX,2026Q2,2026-06-30,분기말 지배지분 자본,66377000000,USD,공시,https://www.sec.gov/Archives/edgar/data/101829/000010182926000027/,,3
+RTX,RTX,2026Q2,2026-06-30,분기말 종가,189.73,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/RTX?interval=1d&events=splits (2026-06-30),,3
+RTX,RTX,2026Q2,2026-06-30,분기말 상장주식수,1347758144,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/101829/000010182926000027/,dei:EntityCommonStockSharesOutstanding 클래스 합,3
+RTX,RTX,2026Q2,2026-06-30,분기말 시가총액,255710152661,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/RTX?interval=1d&events=splits (2026-06-30) ; https://www.sec.gov/Archives/edgar/data/101829/000010182926000027/,종가 189.73 × 주식수 1347758144,3

@@ -1,0 +1,727 @@
+﻿기업,종목코드,기간,기준일,항목,값,통화,값구분,출처,검산,라운드
+Coca-Cola,KO,2010Q1,2010-04-02,분기별 매출액,미확인,USD,미확인,https://www.sec.gov/Archives/edgar/data/21344/000104746910004416/,,3
+Coca-Cola,KO,2010Q1,2010-04-02,분기별 영업이익,2183000000,USD,공시,https://www.sec.gov/Archives/edgar/data/21344/000104746910004416/,,3
+Coca-Cola,KO,2010Q1,2010-04-02,분기별 당기순이익(지배),1614000000,USD,공시,https://www.sec.gov/Archives/edgar/data/21344/000104746910004416/,,3
+Coca-Cola,KO,2010Q1,2010-04-02,분기별 영업활동현금흐름,1326000000,USD,공시,https://www.sec.gov/Archives/edgar/data/21344/000104746910004416/,,3
+Coca-Cola,KO,2010Q1,2010-04-02,분기말 자산총계,47403000000,USD,공시,https://www.sec.gov/Archives/edgar/data/21344/000104746910004416/,,3
+Coca-Cola,KO,2010Q1,2010-04-02,분기말 부채총계,22246000000,USD,계산(부채및자본-총자본),https://www.sec.gov/Archives/edgar/data/21344/000104746910004416/,부채및자본 47403000000 − 총자본 25157000000,3
+Coca-Cola,KO,2010Q1,2010-04-02,분기말 총자본(자기자본),25157000000,USD,공시,https://www.sec.gov/Archives/edgar/data/21344/000104746910004416/,,3
+Coca-Cola,KO,2010Q1,2010-04-02,분기말 지배지분 자본,24872000000,USD,공시,https://www.sec.gov/Archives/edgar/data/21344/000104746910004416/,,3
+Coca-Cola,KO,2010Q1,2010-04-01,분기말 종가,55.3,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/KO?interval=1d&events=splits (2010-04-01),분할조정 종가 27.65 × 이후 분할계수 2,3
+Coca-Cola,KO,2010Q1,2010-04-26,분기말 상장주식수,2307050619,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/21344/000104746910004416/,dei:EntityCommonStockSharesOutstanding 클래스 합,3
+Coca-Cola,KO,2010Q1,2010-04-01,분기말 시가총액,127579899231,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/KO?interval=1d&events=splits (2010-04-01) ; https://www.sec.gov/Archives/edgar/data/21344/000104746910004416/,종가 55.3 × 주식수 2307050619,3
+Coca-Cola,KO,2010Q2,2010-07-02,분기별 매출액,미확인,USD,미확인,https://www.sec.gov/Archives/edgar/data/21344/000104746910006835/,,3
+Coca-Cola,KO,2010Q2,2010-07-02,분기별 영업이익,2763000000,USD,공시,https://www.sec.gov/Archives/edgar/data/21344/000104746910006835/,,3
+Coca-Cola,KO,2010Q2,2010-07-02,분기별 당기순이익(지배),2369000000,USD,공시,https://www.sec.gov/Archives/edgar/data/21344/000104746910006835/,,3
+Coca-Cola,KO,2010Q2,2010-07-02,분기별 영업활동현금흐름,2984000000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/21344/000104746910006835/ ; https://www.sec.gov/Archives/edgar/data/21344/000104746910004416/,누적 4310000000 − 직전누적 1326000000 (시작 2010-01-01),3
+Coca-Cola,KO,2010Q2,2010-07-02,분기말 자산총계,48444000000,USD,공시,https://www.sec.gov/Archives/edgar/data/21344/000104746910006835/,,3
+Coca-Cola,KO,2010Q2,2010-07-02,분기말 부채총계,22636000000,USD,계산(부채및자본-총자본),https://www.sec.gov/Archives/edgar/data/21344/000104746910006835/,부채및자본 48444000000 − 총자본 25808000000,3
+Coca-Cola,KO,2010Q2,2010-07-02,분기말 총자본(자기자본),25808000000,USD,공시,https://www.sec.gov/Archives/edgar/data/21344/000104746910006835/,,3
+Coca-Cola,KO,2010Q2,2010-07-02,분기말 지배지분 자본,25518000000,USD,공시,https://www.sec.gov/Archives/edgar/data/21344/000104746910006835/,,3
+Coca-Cola,KO,2010Q2,2010-07-02,분기말 종가,50.05,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/KO?interval=1d&events=splits (2010-07-02),분할조정 종가 25.025 × 이후 분할계수 2,3
+Coca-Cola,KO,2010Q2,2010-07-26,분기말 상장주식수,2309462424,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/21344/000104746910006835/,dei:EntityCommonStockSharesOutstanding 클래스 합,3
+Coca-Cola,KO,2010Q2,2010-07-02,분기말 시가총액,115588594321,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/KO?interval=1d&events=splits (2010-07-02) ; https://www.sec.gov/Archives/edgar/data/21344/000104746910006835/,종가 50.05 × 주식수 2309462424,3
+Coca-Cola,KO,2010Q3,2010-10-01,분기별 매출액,미확인,USD,미확인,https://www.sec.gov/Archives/edgar/data/21344/000104746910008993/,,3
+Coca-Cola,KO,2010Q3,2010-10-01,분기별 영업이익,2344000000,USD,공시,https://www.sec.gov/Archives/edgar/data/21344/000104746910008993/,,3
+Coca-Cola,KO,2010Q3,2010-10-01,분기별 당기순이익(지배),2055000000,USD,공시,https://www.sec.gov/Archives/edgar/data/21344/000104746910008993/,,3
+Coca-Cola,KO,2010Q3,2010-10-01,분기별 영업활동현금흐름,2914000000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/21344/000104746910008993/ ; https://www.sec.gov/Archives/edgar/data/21344/000104746910006835/,누적 7224000000 − 직전누적 4310000000 (시작 2010-01-01),3
+Coca-Cola,KO,2010Q3,2010-10-01,분기말 자산총계,54089000000,USD,공시,https://www.sec.gov/Archives/edgar/data/21344/000104746910008993/,,3
+Coca-Cola,KO,2010Q3,2010-10-01,분기말 부채총계,25888000000,USD,계산(부채및자본-총자본),https://www.sec.gov/Archives/edgar/data/21344/000104746910008993/,부채및자본 54089000000 − 총자본 28201000000,3
+Coca-Cola,KO,2010Q3,2010-10-01,분기말 총자본(자기자본),28201000000,USD,공시,https://www.sec.gov/Archives/edgar/data/21344/000104746910008993/,,3
+Coca-Cola,KO,2010Q3,2010-10-01,분기말 지배지분 자본,27906000000,USD,공시,https://www.sec.gov/Archives/edgar/data/21344/000104746910008993/,,3
+Coca-Cola,KO,2010Q3,2010-10-01,분기말 종가,59.12,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/KO?interval=1d&events=splits (2010-10-01),분할조정 종가 29.56 × 이후 분할계수 2,3
+Coca-Cola,KO,2010Q3,2010-10-25,분기말 상장주식수,2322033722,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/21344/000104746910008993/,dei:EntityCommonStockSharesOutstanding 클래스 합,3
+Coca-Cola,KO,2010Q3,2010-10-01,분기말 시가총액,137278633645,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/KO?interval=1d&events=splits (2010-10-01) ; https://www.sec.gov/Archives/edgar/data/21344/000104746910008993/,종가 59.12 × 주식수 2322033722,3
+Coca-Cola,KO,2010Q4,2010-12-31,분기별 매출액,미확인,USD,미확인,https://www.sec.gov/Archives/edgar/data/21344/000104746911001506/,,3
+Coca-Cola,KO,2010Q4,2010-12-31,분기별 영업이익,1123000000,USD,계산(연간-3분기누적)(재작성 반영),https://www.sec.gov/Archives/edgar/data/21344/000002134413000007/ ; https://www.sec.gov/Archives/edgar/data/21344/000104746910008993/,연간 8413000000 − 9개월누적 7290000000 (OperatingIncomeLoss) ; 원 공시 1159000000 (https://www.sec.gov/Archives/edgar/data/21344/000104746911001506/ ; https://www.sec.gov/Archives/edgar/data/21344/000104746910008993/),3
+Coca-Cola,KO,2010Q4,2010-12-31,분기별 당기순이익(지배),5749000000,USD,계산(연간-3분기누적)(재작성 반영),https://www.sec.gov/Archives/edgar/data/21344/000002134413000007/ ; https://www.sec.gov/Archives/edgar/data/21344/000104746910008993/,연간 11787000000 − 9개월누적 6038000000 (NetIncomeLoss) ; 원 공시 5771000000 (https://www.sec.gov/Archives/edgar/data/21344/000104746911001506/ ; https://www.sec.gov/Archives/edgar/data/21344/000104746910008993/),3
+Coca-Cola,KO,2010Q4,2010-12-31,분기별 영업활동현금흐름,2308000000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/21344/000104746911001506/ ; https://www.sec.gov/Archives/edgar/data/21344/000104746910008993/,누적 9532000000 − 직전누적 7224000000 (시작 2010-01-01),3
+Coca-Cola,KO,2010Q4,2010-12-31,분기말 자산총계,72921000000,USD,공시,https://www.sec.gov/Archives/edgar/data/21344/000104746911001506/,,3
+Coca-Cola,KO,2010Q4,2010-12-31,분기말 부채총계,41604000000,USD,계산(부채및자본-총자본),https://www.sec.gov/Archives/edgar/data/21344/000104746911001506/,부채및자본 72921000000 − 총자본 31317000000,3
+Coca-Cola,KO,2010Q4,2010-12-31,분기말 총자본(자기자본),31317000000,USD,공시,https://www.sec.gov/Archives/edgar/data/21344/000104746911001506/,,3
+Coca-Cola,KO,2010Q4,2010-12-31,분기말 지배지분 자본,31003000000,USD,공시,https://www.sec.gov/Archives/edgar/data/21344/000104746911001506/,,3
+Coca-Cola,KO,2010Q4,2010-12-31,분기말 종가,65.77,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/KO?interval=1d&events=splits (2010-12-31),분할조정 종가 32.885 × 이후 분할계수 2,3
+Coca-Cola,KO,2010Q4,2011-02-22,분기말 상장주식수,2294316831,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/21344/000104746911001506/,dei:EntityCommonStockSharesOutstanding 클래스 합,3
+Coca-Cola,KO,2010Q4,2010-12-31,분기말 시가총액,150897217975,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/KO?interval=1d&events=splits (2010-12-31) ; https://www.sec.gov/Archives/edgar/data/21344/000104746911001506/,종가 65.77 × 주식수 2294316831,3
+Coca-Cola,KO,2011Q1,2011-04-01,분기별 매출액,미확인,USD,미확인,https://www.sec.gov/Archives/edgar/data/21344/000104746911004348/,,3
+Coca-Cola,KO,2011Q1,2011-04-01,분기별 영업이익,2284000000,USD,공시(재작성 반영),https://www.sec.gov/Archives/edgar/data/21344/000002134412000023/,원 공시 2279000000 (https://www.sec.gov/Archives/edgar/data/21344/000104746911004348/),3
+Coca-Cola,KO,2011Q1,2011-04-01,분기별 당기순이익(지배),1903000000,USD,공시(재작성 반영),https://www.sec.gov/Archives/edgar/data/21344/000002134412000023/,원 공시 1900000000 (https://www.sec.gov/Archives/edgar/data/21344/000104746911004348/),3
+Coca-Cola,KO,2011Q1,2011-04-01,분기별 영업활동현금흐름,458000000,USD,공시,https://www.sec.gov/Archives/edgar/data/21344/000104746911004348/,,3
+Coca-Cola,KO,2011Q1,2011-04-01,분기말 자산총계,76058000000,USD,공시,https://www.sec.gov/Archives/edgar/data/21344/000104746911004348/,,3
+Coca-Cola,KO,2011Q1,2011-04-01,분기말 부채총계,43462000000,USD,계산(부채및자본-총자본),https://www.sec.gov/Archives/edgar/data/21344/000104746911004348/,부채및자본 76058000000 − 총자본 32596000000,3
+Coca-Cola,KO,2011Q1,2011-04-01,분기말 총자본(자기자본),32596000000,USD,공시,https://www.sec.gov/Archives/edgar/data/21344/000104746911004348/,,3
+Coca-Cola,KO,2011Q1,2011-04-01,분기말 지배지분 자본,32279000000,USD,공시,https://www.sec.gov/Archives/edgar/data/21344/000104746911004348/,,3
+Coca-Cola,KO,2011Q1,2011-04-01,분기말 종가,67.22,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/KO?interval=1d&events=splits (2011-04-01),분할조정 종가 33.61 × 이후 분할계수 2,3
+Coca-Cola,KO,2011Q1,2011-04-26,분기말 상장주식수,2289254476,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/21344/000104746911004348/,dei:EntityCommonStockSharesOutstanding 클래스 합,3
+Coca-Cola,KO,2011Q1,2011-04-01,분기말 시가총액,153883685877,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/KO?interval=1d&events=splits (2011-04-01) ; https://www.sec.gov/Archives/edgar/data/21344/000104746911004348/,종가 67.22 × 주식수 2289254476,3
+Coca-Cola,KO,2011Q2,2011-07-01,분기별 매출액,미확인,USD,미확인,https://www.sec.gov/Archives/edgar/data/21344/000104746911006790/,,3
+Coca-Cola,KO,2011Q2,2011-07-01,분기별 영업이익,3174000000,USD,공시,https://www.sec.gov/Archives/edgar/data/21344/000104746911006790/,,3
+Coca-Cola,KO,2011Q2,2011-07-01,분기별 당기순이익(지배),2797000000,USD,공시,https://www.sec.gov/Archives/edgar/data/21344/000104746911006790/,,3
+Coca-Cola,KO,2011Q2,2011-07-01,분기별 영업활동현금흐름,3184000000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/21344/000104746911006790/ ; https://www.sec.gov/Archives/edgar/data/21344/000104746911004348/,누적 3642000000 − 직전누적 458000000 (시작 2011-01-01),3
+Coca-Cola,KO,2011Q2,2011-07-01,분기말 자산총계,80090000000,USD,공시,https://www.sec.gov/Archives/edgar/data/21344/000104746911006790/,,3
+Coca-Cola,KO,2011Q2,2011-07-01,분기말 부채총계,44666000000,USD,계산(부채및자본-총자본),https://www.sec.gov/Archives/edgar/data/21344/000104746911006790/,부채및자본 80090000000 − 총자본 35424000000,3
+Coca-Cola,KO,2011Q2,2011-07-01,분기말 총자본(자기자본),35424000000,USD,공시,https://www.sec.gov/Archives/edgar/data/21344/000104746911006790/,,3
+Coca-Cola,KO,2011Q2,2011-07-01,분기말 지배지분 자본,35142000000,USD,공시,https://www.sec.gov/Archives/edgar/data/21344/000104746911006790/,,3
+Coca-Cola,KO,2011Q2,2011-07-01,분기말 종가,68.09,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/KO?interval=1d&events=splits (2011-07-01),분할조정 종가 34.045 × 이후 분할계수 2,3
+Coca-Cola,KO,2011Q2,2011-07-26,분기말 상장주식수,2296096150,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/21344/000104746911006790/,dei:EntityCommonStockSharesOutstanding 클래스 합,3
+Coca-Cola,KO,2011Q2,2011-07-01,분기말 시가총액,156341186854,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/KO?interval=1d&events=splits (2011-07-01) ; https://www.sec.gov/Archives/edgar/data/21344/000104746911006790/,종가 68.09 × 주식수 2296096150,3
+Coca-Cola,KO,2011Q3,2011-09-30,분기별 매출액,미확인,USD,미확인,https://www.sec.gov/Archives/edgar/data/21344/000002134411000011/,,3
+Coca-Cola,KO,2011Q3,2011-09-30,분기별 영업이익,2750000000,USD,공시,https://www.sec.gov/Archives/edgar/data/21344/000002134411000011/,,3
+Coca-Cola,KO,2011Q3,2011-09-30,분기별 당기순이익(지배),2221000000,USD,공시,https://www.sec.gov/Archives/edgar/data/21344/000002134411000011/,,3
+Coca-Cola,KO,2011Q3,2011-09-30,분기별 영업활동현금흐름,3158000000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/21344/000002134411000011/ ; https://www.sec.gov/Archives/edgar/data/21344/000104746911006790/,누적 6800000000 − 직전누적 3642000000 (시작 2011-01-01),3
+Coca-Cola,KO,2011Q3,2011-09-30,분기말 자산총계,81753000000,USD,공시,https://www.sec.gov/Archives/edgar/data/21344/000002134411000011/,,3
+Coca-Cola,KO,2011Q3,2011-09-30,분기말 부채총계,48254000000,USD,계산(부채및자본-총자본),https://www.sec.gov/Archives/edgar/data/21344/000002134411000011/,부채및자본 81753000000 − 총자본 33499000000,3
+Coca-Cola,KO,2011Q3,2011-09-30,분기말 총자본(자기자본),33499000000,USD,공시,https://www.sec.gov/Archives/edgar/data/21344/000002134411000011/,,3
+Coca-Cola,KO,2011Q3,2011-09-30,분기말 지배지분 자본,33209000000,USD,공시,https://www.sec.gov/Archives/edgar/data/21344/000002134411000011/,,3
+Coca-Cola,KO,2011Q3,2011-09-30,분기말 종가,67.56,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/KO?interval=1d&events=splits (2011-09-30),분할조정 종가 33.78 × 이후 분할계수 2,3
+Coca-Cola,KO,2011Q3,2011-10-24,분기말 상장주식수,2271232205,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/21344/000002134411000011/,dei:EntityCommonStockSharesOutstanding 클래스 합,3
+Coca-Cola,KO,2011Q3,2011-09-30,분기말 시가총액,153444447770,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/KO?interval=1d&events=splits (2011-09-30) ; https://www.sec.gov/Archives/edgar/data/21344/000002134411000011/,종가 67.56 × 주식수 2271232205,3
+Coca-Cola,KO,2011Q4,2011-12-31,분기별 매출액,미확인,USD,미확인,https://www.sec.gov/Archives/edgar/data/21344/000002134412000007/,,3
+Coca-Cola,KO,2011Q4,2011-12-31,분기별 영업이익,1970000000,USD,계산(연간-3분기누적)(재작성 반영),https://www.sec.gov/Archives/edgar/data/21344/000002134414000008/ ; https://www.sec.gov/Archives/edgar/data/21344/000002134411000011/,연간 10173000000 − 9개월누적 8203000000 (OperatingIncomeLoss) ; 원 공시 1951000000 (https://www.sec.gov/Archives/edgar/data/21344/000002134412000007/ ; https://www.sec.gov/Archives/edgar/data/21344/000002134411000011/),3
+Coca-Cola,KO,2011Q4,2011-12-31,분기별 당기순이익(지배),1666000000,USD,계산(연간-3분기누적)(재작성 반영),https://www.sec.gov/Archives/edgar/data/21344/000002134414000008/ ; https://www.sec.gov/Archives/edgar/data/21344/000002134411000011/,연간 8584000000 − 9개월누적 6918000000 (NetIncomeLoss) ; 원 공시 1654000000 (https://www.sec.gov/Archives/edgar/data/21344/000002134412000007/ ; https://www.sec.gov/Archives/edgar/data/21344/000002134411000011/),3
+Coca-Cola,KO,2011Q4,2011-12-31,분기별 영업활동현금흐름,2674000000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/21344/000002134412000007/ ; https://www.sec.gov/Archives/edgar/data/21344/000002134411000011/,누적 9474000000 − 직전누적 6800000000 (시작 2011-01-01),3
+Coca-Cola,KO,2011Q4,2011-12-31,분기말 자산총계,79974000000,USD,공시,https://www.sec.gov/Archives/edgar/data/21344/000002134412000007/,,3
+Coca-Cola,KO,2011Q4,2011-12-31,분기말 부채총계,48053000000,USD,계산(부채및자본-총자본),https://www.sec.gov/Archives/edgar/data/21344/000002134412000007/,부채및자본 79974000000 − 총자본 31921000000,3
+Coca-Cola,KO,2011Q4,2011-12-31,분기말 총자본(자기자본),31921000000,USD,공시,https://www.sec.gov/Archives/edgar/data/21344/000002134412000007/,,3
+Coca-Cola,KO,2011Q4,2011-12-31,분기말 지배지분 자본,31635000000,USD,공시,https://www.sec.gov/Archives/edgar/data/21344/000002134412000007/,,3
+Coca-Cola,KO,2011Q4,2011-12-30,분기말 종가,69.97,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/KO?interval=1d&events=splits (2011-12-30),분할조정 종가 34.985 × 이후 분할계수 2,3
+Coca-Cola,KO,2011Q4,2012-02-20,분기말 상장주식수,2263204221,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/21344/000002134412000007/,dei:EntityCommonStockSharesOutstanding 클래스 합,3
+Coca-Cola,KO,2011Q4,2011-12-30,분기말 시가총액,158356399343,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/KO?interval=1d&events=splits (2011-12-30) ; https://www.sec.gov/Archives/edgar/data/21344/000002134412000007/,종가 69.97 × 주식수 2263204221,3
+Coca-Cola,KO,2012Q1,2012-03-30,분기별 매출액,미확인,USD,미확인,https://www.sec.gov/Archives/edgar/data/21344/000002134412000023/,,3
+Coca-Cola,KO,2012Q1,2012-03-30,분기별 영업이익,2509000000,USD,공시,https://www.sec.gov/Archives/edgar/data/21344/000002134412000023/,,3
+Coca-Cola,KO,2012Q1,2012-03-30,분기별 당기순이익(지배),2054000000,USD,공시,https://www.sec.gov/Archives/edgar/data/21344/000002134412000023/,,3
+Coca-Cola,KO,2012Q1,2012-03-30,분기별 영업활동현금흐름,493000000,USD,공시,https://www.sec.gov/Archives/edgar/data/21344/000002134412000023/,,3
+Coca-Cola,KO,2012Q1,2012-03-30,분기말 자산총계,83897000000,USD,공시,https://www.sec.gov/Archives/edgar/data/21344/000002134412000023/,,3
+Coca-Cola,KO,2012Q1,2012-03-30,분기말 부채총계,50679000000,USD,계산(부채및자본-총자본),https://www.sec.gov/Archives/edgar/data/21344/000002134412000023/,부채및자본 83897000000 − 총자본 33218000000,3
+Coca-Cola,KO,2012Q1,2012-03-30,분기말 총자본(자기자본),33218000000,USD,공시,https://www.sec.gov/Archives/edgar/data/21344/000002134412000023/,,3
+Coca-Cola,KO,2012Q1,2012-03-30,분기말 지배지분 자본,32818000000,USD,공시,https://www.sec.gov/Archives/edgar/data/21344/000002134412000023/,,3
+Coca-Cola,KO,2012Q1,2012-03-30,분기말 종가,74.01,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/KO?interval=1d&events=splits (2012-03-30),분할조정 종가 37.005 × 이후 분할계수 2,3
+Coca-Cola,KO,2012Q1,2012-04-23,분기말 상장주식수,2257934272,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/21344/000002134412000023/,dei:EntityCommonStockSharesOutstanding 클래스 합,3
+Coca-Cola,KO,2012Q1,2012-03-30,분기말 시가총액,167109715471,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/KO?interval=1d&events=splits (2012-03-30) ; https://www.sec.gov/Archives/edgar/data/21344/000002134412000023/,종가 74.01 × 주식수 2257934272,3
+Coca-Cola,KO,2012Q2,2012-06-29,분기별 매출액,미확인,USD,미확인,https://www.sec.gov/Archives/edgar/data/21344/000002134412000037/,,3
+Coca-Cola,KO,2012Q2,2012-06-29,분기별 영업이익,3294000000,USD,공시,https://www.sec.gov/Archives/edgar/data/21344/000002134412000037/,,3
+Coca-Cola,KO,2012Q2,2012-06-29,분기별 당기순이익(지배),2788000000,USD,공시,https://www.sec.gov/Archives/edgar/data/21344/000002134412000037/,,3
+Coca-Cola,KO,2012Q2,2012-06-29,분기별 영업활동현금흐름,3685000000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/21344/000002134412000037/ ; https://www.sec.gov/Archives/edgar/data/21344/000002134412000023/,누적 4178000000 − 직전누적 493000000 (시작 2012-01-01),3
+Coca-Cola,KO,2012Q2,2012-06-29,분기말 자산총계,85149000000,USD,공시,https://www.sec.gov/Archives/edgar/data/21344/000002134412000037/,,3
+Coca-Cola,KO,2012Q2,2012-06-29,분기말 부채총계,52520000000,USD,계산(부채및자본-총자본),https://www.sec.gov/Archives/edgar/data/21344/000002134412000037/,부채및자본 85149000000 − 총자본 32629000000,3
+Coca-Cola,KO,2012Q2,2012-06-29,분기말 총자본(자기자본),32629000000,USD,공시,https://www.sec.gov/Archives/edgar/data/21344/000002134412000037/,,3
+Coca-Cola,KO,2012Q2,2012-06-29,분기말 지배지분 자본,32269000000,USD,공시,https://www.sec.gov/Archives/edgar/data/21344/000002134412000037/,,3
+Coca-Cola,KO,2012Q2,2012-06-29,분기말 종가,78.19,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/KO?interval=1d&events=splits (2012-06-29),분할조정 종가 39.095 × 이후 분할계수 2,3
+Coca-Cola,KO,2012Q2,2012-07-23,분기말 상장주식수,2250961597,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/21344/000002134412000037/,dei:EntityCommonStockSharesOutstanding 클래스 합,3
+Coca-Cola,KO,2012Q2,2012-06-29,분기말 시가총액,176002687269,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/KO?interval=1d&events=splits (2012-06-29) ; https://www.sec.gov/Archives/edgar/data/21344/000002134412000037/,종가 78.19 × 주식수 2250961597,3
+Coca-Cola,KO,2012Q3,2012-09-28,분기별 매출액,미확인,USD,미확인,https://www.sec.gov/Archives/edgar/data/21344/000002134412000051/,,3
+Coca-Cola,KO,2012Q3,2012-09-28,분기별 영업이익,2793000000,USD,공시,https://www.sec.gov/Archives/edgar/data/21344/000002134412000051/,,3
+Coca-Cola,KO,2012Q3,2012-09-28,분기별 당기순이익(지배),2311000000,USD,공시,https://www.sec.gov/Archives/edgar/data/21344/000002134412000051/,,3
+Coca-Cola,KO,2012Q3,2012-09-28,분기별 영업활동현금흐름,3662000000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/21344/000002134412000051/ ; https://www.sec.gov/Archives/edgar/data/21344/000002134412000037/,누적 7840000000 − 직전누적 4178000000 (시작 2012-01-01),3
+Coca-Cola,KO,2012Q3,2012-09-28,분기말 자산총계,86654000000,USD,공시,https://www.sec.gov/Archives/edgar/data/21344/000002134412000051/,,3
+Coca-Cola,KO,2012Q3,2012-09-28,분기말 부채총계,53064000000,USD,계산(부채및자본-총자본),https://www.sec.gov/Archives/edgar/data/21344/000002134412000051/,부채및자본 86654000000 − 총자본 33590000000,3
+Coca-Cola,KO,2012Q3,2012-09-28,분기말 총자본(자기자본),33590000000,USD,공시,https://www.sec.gov/Archives/edgar/data/21344/000002134412000051/,,3
+Coca-Cola,KO,2012Q3,2012-09-28,분기말 지배지분 자본,33210000000,USD,공시,https://www.sec.gov/Archives/edgar/data/21344/000002134412000051/,,3
+Coca-Cola,KO,2012Q3,2012-09-28,분기말 종가,37.93,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/KO?interval=1d&events=splits (2012-09-28),,3
+Coca-Cola,KO,2012Q3,2012-10-22,분기말 상장주식수,4485161506,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/21344/000002134412000051/,dei:EntityCommonStockSharesOutstanding 클래스 합,3
+Coca-Cola,KO,2012Q3,2012-09-28,분기말 시가총액,170122175923,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/KO?interval=1d&events=splits (2012-09-28) ; https://www.sec.gov/Archives/edgar/data/21344/000002134412000051/,종가 37.93 × 주식수 4485161506,3
+Coca-Cola,KO,2012Q4,2012-12-31,분기별 매출액,미확인,USD,미확인,https://www.sec.gov/Archives/edgar/data/21344/000002134413000007/,,3
+Coca-Cola,KO,2012Q4,2012-12-31,분기별 영업이익,2183000000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/21344/000002134413000007/ ; https://www.sec.gov/Archives/edgar/data/21344/000002134412000051/,연간 10779000000 − 9개월누적 8596000000 (OperatingIncomeLoss),3
+Coca-Cola,KO,2012Q4,2012-12-31,분기별 당기순이익(지배),1866000000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/21344/000002134413000007/ ; https://www.sec.gov/Archives/edgar/data/21344/000002134412000051/,연간 9019000000 − 9개월누적 7153000000 (NetIncomeLoss),3
+Coca-Cola,KO,2012Q4,2012-12-31,분기별 영업활동현금흐름,2805000000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/21344/000002134413000007/ ; https://www.sec.gov/Archives/edgar/data/21344/000002134412000051/,누적 10645000000 − 직전누적 7840000000 (시작 2012-01-01),3
+Coca-Cola,KO,2012Q4,2012-12-31,분기말 자산총계,86174000000,USD,공시,https://www.sec.gov/Archives/edgar/data/21344/000002134413000007/,,3
+Coca-Cola,KO,2012Q4,2012-12-31,분기말 부채총계,53006000000,USD,계산(부채및자본-총자본),https://www.sec.gov/Archives/edgar/data/21344/000002134413000007/,부채및자본 86174000000 − 총자본 33168000000,3
+Coca-Cola,KO,2012Q4,2012-12-31,분기말 총자본(자기자본),33168000000,USD,공시,https://www.sec.gov/Archives/edgar/data/21344/000002134413000007/,,3
+Coca-Cola,KO,2012Q4,2012-12-31,분기말 지배지분 자본,32790000000,USD,공시,https://www.sec.gov/Archives/edgar/data/21344/000002134413000007/,,3
+Coca-Cola,KO,2012Q4,2012-12-31,분기말 종가,36.25,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/KO?interval=1d&events=splits (2012-12-31),,3
+Coca-Cola,KO,2012Q4,2013-02-25,분기말 상장주식수,4456717996,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/21344/000002134413000007/,dei:EntityCommonStockSharesOutstanding 클래스 합,3
+Coca-Cola,KO,2012Q4,2012-12-31,분기말 시가총액,161556027355,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/KO?interval=1d&events=splits (2012-12-31) ; https://www.sec.gov/Archives/edgar/data/21344/000002134413000007/,종가 36.25 × 주식수 4456717996,3
+Coca-Cola,KO,2013Q1,2013-03-29,분기별 매출액,미확인,USD,미확인,https://www.sec.gov/Archives/edgar/data/21344/000002134413000017/,,3
+Coca-Cola,KO,2013Q1,2013-03-29,분기별 영업이익,2408000000,USD,공시,https://www.sec.gov/Archives/edgar/data/21344/000002134413000017/,,3
+Coca-Cola,KO,2013Q1,2013-03-29,분기별 당기순이익(지배),1751000000,USD,공시,https://www.sec.gov/Archives/edgar/data/21344/000002134413000017/,,3
+Coca-Cola,KO,2013Q1,2013-03-29,분기별 영업활동현금흐름,478000000,USD,공시,https://www.sec.gov/Archives/edgar/data/21344/000002134413000017/,,3
+Coca-Cola,KO,2013Q1,2013-03-29,분기말 자산총계,88450000000,USD,공시,https://www.sec.gov/Archives/edgar/data/21344/000002134413000017/,,3
+Coca-Cola,KO,2013Q1,2013-03-29,분기말 부채총계,55556000000,USD,계산(부채및자본-총자본),https://www.sec.gov/Archives/edgar/data/21344/000002134413000017/,부채및자본 88450000000 − 총자본 32894000000,3
+Coca-Cola,KO,2013Q1,2013-03-29,분기말 총자본(자기자본),32894000000,USD,공시,https://www.sec.gov/Archives/edgar/data/21344/000002134413000017/,,3
+Coca-Cola,KO,2013Q1,2013-03-29,분기말 지배지분 자본,32480000000,USD,공시,https://www.sec.gov/Archives/edgar/data/21344/000002134413000017/,,3
+Coca-Cola,KO,2013Q1,2013-03-28,분기말 종가,40.44,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/KO?interval=1d&events=splits (2013-03-28),,3
+Coca-Cola,KO,2013Q1,2013-04-22,분기말 상장주식수,4453755295,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/21344/000002134413000017/,dei:EntityCommonStockSharesOutstanding 클래스 합,3
+Coca-Cola,KO,2013Q1,2013-03-28,분기말 시가총액,180109864130,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/KO?interval=1d&events=splits (2013-03-28) ; https://www.sec.gov/Archives/edgar/data/21344/000002134413000017/,종가 40.44 × 주식수 4453755295,3
+Coca-Cola,KO,2013Q2,2013-06-28,분기별 매출액,미확인,USD,미확인,https://www.sec.gov/Archives/edgar/data/21344/000002134413000039/,,3
+Coca-Cola,KO,2013Q2,2013-06-28,분기별 영업이익,3243000000,USD,공시,https://www.sec.gov/Archives/edgar/data/21344/000002134413000039/,,3
+Coca-Cola,KO,2013Q2,2013-06-28,분기별 당기순이익(지배),2676000000,USD,공시,https://www.sec.gov/Archives/edgar/data/21344/000002134413000039/,,3
+Coca-Cola,KO,2013Q2,2013-06-28,분기별 영업활동현금흐름,3478000000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/21344/000002134413000039/ ; https://www.sec.gov/Archives/edgar/data/21344/000002134413000017/,누적 3956000000 − 직전누적 478000000 (시작 2013-01-01),3
+Coca-Cola,KO,2013Q2,2013-06-28,분기말 자산총계,89511000000,USD,공시,https://www.sec.gov/Archives/edgar/data/21344/000002134413000039/,,3
+Coca-Cola,KO,2013Q2,2013-06-28,분기말 부채총계,56880000000,USD,계산(부채및자본-총자본),https://www.sec.gov/Archives/edgar/data/21344/000002134413000039/,부채및자본 89511000000 − 총자본 32631000000,3
+Coca-Cola,KO,2013Q2,2013-06-28,분기말 총자본(자기자본),32631000000,USD,공시,https://www.sec.gov/Archives/edgar/data/21344/000002134413000039/,,3
+Coca-Cola,KO,2013Q2,2013-06-28,분기말 지배지분 자본,32223000000,USD,공시,https://www.sec.gov/Archives/edgar/data/21344/000002134413000039/,,3
+Coca-Cola,KO,2013Q2,2013-06-28,분기말 종가,40.11,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/KO?interval=1d&events=splits (2013-06-28),,3
+Coca-Cola,KO,2013Q2,2013-07-22,분기말 상장주식수,4433153574,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/21344/000002134413000039/,dei:EntityCommonStockSharesOutstanding 클래스 합,3
+Coca-Cola,KO,2013Q2,2013-06-28,분기말 시가총액,177813789853,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/KO?interval=1d&events=splits (2013-06-28) ; https://www.sec.gov/Archives/edgar/data/21344/000002134413000039/,종가 40.11 × 주식수 4433153574,3
+Coca-Cola,KO,2013Q3,2013-09-27,분기별 매출액,미확인,USD,미확인,https://www.sec.gov/Archives/edgar/data/21344/000002134413000050/,,3
+Coca-Cola,KO,2013Q3,2013-09-27,분기별 영업이익,2472000000,USD,공시,https://www.sec.gov/Archives/edgar/data/21344/000002134413000050/,,3
+Coca-Cola,KO,2013Q3,2013-09-27,분기별 당기순이익(지배),2447000000,USD,공시,https://www.sec.gov/Archives/edgar/data/21344/000002134413000050/,,3
+Coca-Cola,KO,2013Q3,2013-09-27,분기별 영업활동현금흐름,3756000000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/21344/000002134413000050/ ; https://www.sec.gov/Archives/edgar/data/21344/000002134413000039/,누적 7712000000 − 직전누적 3956000000 (시작 2013-01-01),3
+Coca-Cola,KO,2013Q3,2013-09-27,분기말 자산총계,89432000000,USD,공시,https://www.sec.gov/Archives/edgar/data/21344/000002134413000050/,,3
+Coca-Cola,KO,2013Q3,2013-09-27,분기말 부채총계,56967000000,USD,계산(부채및자본-총자본),https://www.sec.gov/Archives/edgar/data/21344/000002134413000050/,부채및자본 89432000000 − 총자본 32465000000,3
+Coca-Cola,KO,2013Q3,2013-09-27,분기말 총자본(자기자본),32465000000,USD,공시,https://www.sec.gov/Archives/edgar/data/21344/000002134413000050/,,3
+Coca-Cola,KO,2013Q3,2013-09-27,분기말 지배지분 자본,32132000000,USD,공시,https://www.sec.gov/Archives/edgar/data/21344/000002134413000050/,,3
+Coca-Cola,KO,2013Q3,2013-09-27,분기말 종가,38.4,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/KO?interval=1d&events=splits (2013-09-27),,3
+Coca-Cola,KO,2013Q3,2013-10-21,분기말 상장주식수,4415922733,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/21344/000002134413000050/,dei:EntityCommonStockSharesOutstanding 클래스 합,3
+Coca-Cola,KO,2013Q3,2013-09-27,분기말 시가총액,169571432947,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/KO?interval=1d&events=splits (2013-09-27) ; https://www.sec.gov/Archives/edgar/data/21344/000002134413000050/,종가 38.4 × 주식수 4415922733,3
+Coca-Cola,KO,2013Q4,2013-12-31,분기별 매출액,미확인,USD,미확인,https://www.sec.gov/Archives/edgar/data/21344/000002134414000008/,,3
+Coca-Cola,KO,2013Q4,2013-12-31,분기별 영업이익,2105000000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/21344/000002134414000008/ ; https://www.sec.gov/Archives/edgar/data/21344/000002134413000050/,연간 10228000000 − 9개월누적 8123000000 (OperatingIncomeLoss),3
+Coca-Cola,KO,2013Q4,2013-12-31,분기별 당기순이익(지배),1710000000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/21344/000002134414000008/ ; https://www.sec.gov/Archives/edgar/data/21344/000002134413000050/,연간 8584000000 − 9개월누적 6874000000 (NetIncomeLoss),3
+Coca-Cola,KO,2013Q4,2013-12-31,분기별 영업활동현금흐름,2830000000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/21344/000002134414000008/ ; https://www.sec.gov/Archives/edgar/data/21344/000002134413000050/,누적 10542000000 − 직전누적 7712000000 (시작 2013-01-01),3
+Coca-Cola,KO,2013Q4,2013-12-31,분기말 자산총계,90055000000,USD,공시,https://www.sec.gov/Archives/edgar/data/21344/000002134414000008/,,3
+Coca-Cola,KO,2013Q4,2013-12-31,분기말 부채총계,56615000000,USD,계산(부채및자본-총자본),https://www.sec.gov/Archives/edgar/data/21344/000002134414000008/,부채및자본 90055000000 − 총자본 33440000000,3
+Coca-Cola,KO,2013Q4,2013-12-31,분기말 총자본(자기자본),33440000000,USD,공시,https://www.sec.gov/Archives/edgar/data/21344/000002134414000008/,,3
+Coca-Cola,KO,2013Q4,2013-12-31,분기말 지배지분 자본,33173000000,USD,공시,https://www.sec.gov/Archives/edgar/data/21344/000002134414000008/,,3
+Coca-Cola,KO,2013Q4,2013-12-31,분기말 종가,41.31,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/KO?interval=1d&events=splits (2013-12-31),,3
+Coca-Cola,KO,2013Q4,2014-02-24,분기말 상장주식수,4405893150,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/21344/000002134414000008/,dei:EntityCommonStockSharesOutstanding 클래스 합,3
+Coca-Cola,KO,2013Q4,2013-12-31,분기말 시가총액,182007446026,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/KO?interval=1d&events=splits (2013-12-31) ; https://www.sec.gov/Archives/edgar/data/21344/000002134414000008/,종가 41.31 × 주식수 4405893150,3
+Coca-Cola,KO,2014Q1,2014-03-28,분기별 매출액,미확인,USD,미확인,https://www.sec.gov/Archives/edgar/data/21344/000002134414000018/,,3
+Coca-Cola,KO,2014Q1,2014-03-28,분기별 영업이익,2376000000,USD,공시,https://www.sec.gov/Archives/edgar/data/21344/000002134414000016/,,3
+Coca-Cola,KO,2014Q1,2014-03-28,분기별 당기순이익(지배),1619000000,USD,공시,https://www.sec.gov/Archives/edgar/data/21344/000002134414000016/,,3
+Coca-Cola,KO,2014Q1,2014-03-28,분기별 영업활동현금흐름,1066000000,USD,공시,https://www.sec.gov/Archives/edgar/data/21344/000002134414000016/,,3
+Coca-Cola,KO,2014Q1,2014-03-28,분기말 자산총계,91289000000,USD,공시,https://www.sec.gov/Archives/edgar/data/21344/000002134414000016/,,3
+Coca-Cola,KO,2014Q1,2014-03-28,분기말 부채총계,58367000000,USD,계산(부채및자본-총자본),https://www.sec.gov/Archives/edgar/data/21344/000002134414000016/,부채및자본 91289000000 − 총자본 32922000000,3
+Coca-Cola,KO,2014Q1,2014-03-28,분기말 총자본(자기자본),32922000000,USD,공시,https://www.sec.gov/Archives/edgar/data/21344/000002134414000016/,,3
+Coca-Cola,KO,2014Q1,2014-03-28,분기말 지배지분 자본,32654000000,USD,공시,https://www.sec.gov/Archives/edgar/data/21344/000002134414000016/,,3
+Coca-Cola,KO,2014Q1,2014-03-28,분기말 종가,38.95,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/KO?interval=1d&events=splits (2014-03-28),,3
+Coca-Cola,KO,2014Q1,2014-04-21,분기말 상장주식수,4395182857,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/21344/000002134414000016/,dei:EntityCommonStockSharesOutstanding 클래스 합,3
+Coca-Cola,KO,2014Q1,2014-03-28,분기말 시가총액,171192372280,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/KO?interval=1d&events=splits (2014-03-28) ; https://www.sec.gov/Archives/edgar/data/21344/000002134414000016/,종가 38.95 × 주식수 4395182857,3
+Coca-Cola,KO,2014Q2,2014-06-27,분기별 매출액,미확인,USD,미확인,https://www.sec.gov/Archives/edgar/data/21344/000002134414000029/,,3
+Coca-Cola,KO,2014Q2,2014-06-27,분기별 영업이익,3170000000,USD,공시,https://www.sec.gov/Archives/edgar/data/21344/000002134414000029/,,3
+Coca-Cola,KO,2014Q2,2014-06-27,분기별 당기순이익(지배),2595000000,USD,공시,https://www.sec.gov/Archives/edgar/data/21344/000002134414000029/,,3
+Coca-Cola,KO,2014Q2,2014-06-27,분기별 영업활동현금흐름,3404000000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/21344/000002134414000029/ ; https://www.sec.gov/Archives/edgar/data/21344/000002134414000016/,누적 4470000000 − 직전누적 1066000000 (시작 2014-01-01),3
+Coca-Cola,KO,2014Q2,2014-06-27,분기말 자산총계,95489000000,USD,공시,https://www.sec.gov/Archives/edgar/data/21344/000002134414000029/,,3
+Coca-Cola,KO,2014Q2,2014-06-27,분기말 부채총계,61188000000,USD,계산(부채및자본-총자본),https://www.sec.gov/Archives/edgar/data/21344/000002134414000029/,부채및자본 95489000000 − 총자본 34301000000,3
+Coca-Cola,KO,2014Q2,2014-06-27,분기말 총자본(자기자본),34301000000,USD,공시,https://www.sec.gov/Archives/edgar/data/21344/000002134414000029/,,3
+Coca-Cola,KO,2014Q2,2014-06-27,분기말 지배지분 자본,34071000000,USD,공시,https://www.sec.gov/Archives/edgar/data/21344/000002134414000029/,,3
+Coca-Cola,KO,2014Q2,2014-06-27,분기말 종가,42.19,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/KO?interval=1d&events=splits (2014-06-27),,3
+Coca-Cola,KO,2014Q2,2014-07-25,분기말 상장주식수,4385923844,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/21344/000002134414000029/,dei:EntityCommonStockSharesOutstanding 클래스 합,3
+Coca-Cola,KO,2014Q2,2014-06-27,분기말 시가총액,185042126978,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/KO?interval=1d&events=splits (2014-06-27) ; https://www.sec.gov/Archives/edgar/data/21344/000002134414000029/,종가 42.19 × 주식수 4385923844,3
+Coca-Cola,KO,2014Q3,2014-09-26,분기별 매출액,미확인,USD,미확인,https://www.sec.gov/Archives/edgar/data/21344/000002134414000036/,,3
+Coca-Cola,KO,2014Q3,2014-09-26,분기별 영업이익,2711000000,USD,공시,https://www.sec.gov/Archives/edgar/data/21344/000002134414000036/,,3
+Coca-Cola,KO,2014Q3,2014-09-26,분기별 당기순이익(지배),2114000000,USD,공시,https://www.sec.gov/Archives/edgar/data/21344/000002134414000036/,,3
+Coca-Cola,KO,2014Q3,2014-09-26,분기별 영업활동현금흐름,3509000000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/21344/000002134414000036/ ; https://www.sec.gov/Archives/edgar/data/21344/000002134414000029/,누적 7979000000 − 직전누적 4470000000 (시작 2014-01-01),3
+Coca-Cola,KO,2014Q3,2014-09-26,분기말 자산총계,96314000000,USD,공시,https://www.sec.gov/Archives/edgar/data/21344/000002134414000036/,,3
+Coca-Cola,KO,2014Q3,2014-09-26,분기말 부채총계,62645000000,USD,계산(부채및자본-총자본),https://www.sec.gov/Archives/edgar/data/21344/000002134414000036/,부채및자본 96314000000 − 총자본 33669000000,3
+Coca-Cola,KO,2014Q3,2014-09-26,분기말 총자본(자기자본),33669000000,USD,공시,https://www.sec.gov/Archives/edgar/data/21344/000002134414000036/,,3
+Coca-Cola,KO,2014Q3,2014-09-26,분기말 지배지분 자본,33429000000,USD,공시,https://www.sec.gov/Archives/edgar/data/21344/000002134414000036/,,3
+Coca-Cola,KO,2014Q3,2014-09-26,분기말 종가,42.2,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/KO?interval=1d&events=splits (2014-09-26),,3
+Coca-Cola,KO,2014Q3,2014-10-24,분기말 상장주식수,4380112851,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/21344/000002134414000036/,dei:EntityCommonStockSharesOutstanding 클래스 합,3
+Coca-Cola,KO,2014Q3,2014-09-26,분기말 시가총액,184840762312,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/KO?interval=1d&events=splits (2014-09-26) ; https://www.sec.gov/Archives/edgar/data/21344/000002134414000036/,종가 42.2 × 주식수 4380112851,3
+Coca-Cola,KO,2014Q4,2014-12-31,분기별 매출액,미확인,USD,미확인,https://www.sec.gov/Archives/edgar/data/21344/000002134415000005/,,3
+Coca-Cola,KO,2014Q4,2014-12-31,분기별 영업이익,1451000000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/21344/000002134415000005/ ; https://www.sec.gov/Archives/edgar/data/21344/000002134414000036/,연간 9708000000 − 9개월누적 8257000000 (OperatingIncomeLoss),3
+Coca-Cola,KO,2014Q4,2014-12-31,분기별 당기순이익(지배),770000000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/21344/000002134415000005/ ; https://www.sec.gov/Archives/edgar/data/21344/000002134414000036/,연간 7098000000 − 9개월누적 6328000000 (NetIncomeLoss),3
+Coca-Cola,KO,2014Q4,2014-12-31,분기별 영업활동현금흐름,2636000000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/21344/000002134415000005/ ; https://www.sec.gov/Archives/edgar/data/21344/000002134414000036/,누적 10615000000 − 직전누적 7979000000 (시작 2014-01-01),3
+Coca-Cola,KO,2014Q4,2014-12-31,분기말 자산총계,92023000000,USD,공시,https://www.sec.gov/Archives/edgar/data/21344/000002134415000005/,,3
+Coca-Cola,KO,2014Q4,2014-12-31,분기말 부채총계,61462000000,USD,계산(부채및자본-총자본),https://www.sec.gov/Archives/edgar/data/21344/000002134415000005/,부채및자본 92023000000 − 총자본 30561000000,3
+Coca-Cola,KO,2014Q4,2014-12-31,분기말 총자본(자기자본),30561000000,USD,공시,https://www.sec.gov/Archives/edgar/data/21344/000002134415000005/,,3
+Coca-Cola,KO,2014Q4,2014-12-31,분기말 지배지분 자본,30320000000,USD,공시,https://www.sec.gov/Archives/edgar/data/21344/000002134415000005/,,3
+Coca-Cola,KO,2014Q4,2014-12-31,분기말 종가,42.22,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/KO?interval=1d&events=splits (2014-12-31),,3
+Coca-Cola,KO,2014Q4,2015-02-23,분기말 상장주식수,4366243616,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/21344/000002134415000005/,dei:EntityCommonStockSharesOutstanding 클래스 합,3
+Coca-Cola,KO,2014Q4,2014-12-31,분기말 시가총액,184342805468,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/KO?interval=1d&events=splits (2014-12-31) ; https://www.sec.gov/Archives/edgar/data/21344/000002134415000005/,종가 42.22 × 주식수 4366243616,3
+Coca-Cola,KO,2015Q1,2015-04-03,분기별 매출액,미확인,USD,미확인,https://www.sec.gov/Archives/edgar/data/21344/000002134415000011/,,3
+Coca-Cola,KO,2015Q1,2015-04-03,분기별 영업이익,2296000000,USD,공시,https://www.sec.gov/Archives/edgar/data/21344/000002134415000011/,,3
+Coca-Cola,KO,2015Q1,2015-04-03,분기별 당기순이익(지배),1557000000,USD,공시,https://www.sec.gov/Archives/edgar/data/21344/000002134415000011/,,3
+Coca-Cola,KO,2015Q1,2015-04-03,분기별 영업활동현금흐름,1574000000,USD,공시,https://www.sec.gov/Archives/edgar/data/21344/000002134415000011/,,3
+Coca-Cola,KO,2015Q1,2015-04-03,분기말 자산총계,91016000000,USD,공시,https://www.sec.gov/Archives/edgar/data/21344/000002134415000011/,,3
+Coca-Cola,KO,2015Q1,2015-04-03,분기말 부채총계,61938000000,USD,계산(부채및자본-총자본),https://www.sec.gov/Archives/edgar/data/21344/000002134415000011/,부채및자본 91016000000 − 총자본 29078000000,3
+Coca-Cola,KO,2015Q1,2015-04-03,분기말 총자본(자기자본),29078000000,USD,공시,https://www.sec.gov/Archives/edgar/data/21344/000002134415000011/,,3
+Coca-Cola,KO,2015Q1,2015-04-03,분기말 지배지분 자본,28837000000,USD,공시,https://www.sec.gov/Archives/edgar/data/21344/000002134415000011/,,3
+Coca-Cola,KO,2015Q1,2015-04-02,분기말 종가,40.68,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/KO?interval=1d&events=splits (2015-04-02),,3
+Coca-Cola,KO,2015Q1,2015-04-27,분기말 상장주식수,4358700821,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/21344/000002134415000011/,dei:EntityCommonStockSharesOutstanding 클래스 합,3
+Coca-Cola,KO,2015Q1,2015-04-02,분기말 시가총액,177311949398,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/KO?interval=1d&events=splits (2015-04-02) ; https://www.sec.gov/Archives/edgar/data/21344/000002134415000011/,종가 40.68 × 주식수 4358700821,3
+Coca-Cola,KO,2015Q2,2015-07-03,분기별 매출액,미확인,USD,미확인,https://www.sec.gov/Archives/edgar/data/21344/000002134415000031/,,3
+Coca-Cola,KO,2015Q2,2015-07-03,분기별 영업이익,2535000000,USD,공시,https://www.sec.gov/Archives/edgar/data/21344/000002134415000031/,,3
+Coca-Cola,KO,2015Q2,2015-07-03,분기별 당기순이익(지배),3108000000,USD,공시,https://www.sec.gov/Archives/edgar/data/21344/000002134415000031/,,3
+Coca-Cola,KO,2015Q2,2015-07-03,분기별 영업활동현금흐름,3544000000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/21344/000002134415000031/ ; https://www.sec.gov/Archives/edgar/data/21344/000002134415000011/,누적 5118000000 − 직전누적 1574000000 (시작 2015-01-01),3
+Coca-Cola,KO,2015Q2,2015-07-03,분기말 자산총계,93538000000,USD,공시,https://www.sec.gov/Archives/edgar/data/21344/000002134415000031/,,3
+Coca-Cola,KO,2015Q2,2015-07-03,분기말 부채총계,64897000000,USD,계산(부채및자본-총자본),https://www.sec.gov/Archives/edgar/data/21344/000002134415000031/,부채및자본 93538000000 − 총자본 28641000000,3
+Coca-Cola,KO,2015Q2,2015-07-03,분기말 총자본(자기자본),28641000000,USD,공시,https://www.sec.gov/Archives/edgar/data/21344/000002134415000031/,,3
+Coca-Cola,KO,2015Q2,2015-07-03,분기말 지배지분 자본,28418000000,USD,공시,https://www.sec.gov/Archives/edgar/data/21344/000002134415000031/,,3
+Coca-Cola,KO,2015Q2,2015-07-02,분기말 종가,39.49,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/KO?interval=1d&events=splits (2015-07-02),,3
+Coca-Cola,KO,2015Q2,2015-07-27,분기말 상장주식수,4350003656,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/21344/000002134415000031/,dei:EntityCommonStockSharesOutstanding 클래스 합,3
+Coca-Cola,KO,2015Q2,2015-07-02,분기말 시가총액,171781644375,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/KO?interval=1d&events=splits (2015-07-02) ; https://www.sec.gov/Archives/edgar/data/21344/000002134415000031/,종가 39.49 × 주식수 4350003656,3
+Coca-Cola,KO,2015Q3,2015-10-02,분기별 매출액,미확인,USD,미확인,https://www.sec.gov/Archives/edgar/data/21344/000002134415000041/,,3
+Coca-Cola,KO,2015Q3,2015-10-02,분기별 영업이익,2379000000,USD,공시,https://www.sec.gov/Archives/edgar/data/21344/000002134415000041/,,3
+Coca-Cola,KO,2015Q3,2015-10-02,분기별 당기순이익(지배),1449000000,USD,공시,https://www.sec.gov/Archives/edgar/data/21344/000002134415000041/,,3
+Coca-Cola,KO,2015Q3,2015-10-02,분기별 영업활동현금흐름,3272000000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/21344/000002134415000041/ ; https://www.sec.gov/Archives/edgar/data/21344/000002134415000031/,누적 8390000000 − 직전누적 5118000000 (시작 2015-01-01),3
+Coca-Cola,KO,2015Q3,2015-10-02,분기말 자산총계,93008000000,USD,공시,https://www.sec.gov/Archives/edgar/data/21344/000002134415000041/,,3
+Coca-Cola,KO,2015Q3,2015-10-02,분기말 부채총계,66741000000,USD,계산(부채및자본-총자본),https://www.sec.gov/Archives/edgar/data/21344/000002134415000041/,부채및자본 93008000000 − 총자본 26267000000,3
+Coca-Cola,KO,2015Q3,2015-10-02,분기말 총자본(자기자본),26267000000,USD,공시,https://www.sec.gov/Archives/edgar/data/21344/000002134415000041/,,3
+Coca-Cola,KO,2015Q3,2015-10-02,분기말 지배지분 자본,26049000000,USD,공시,https://www.sec.gov/Archives/edgar/data/21344/000002134415000041/,,3
+Coca-Cola,KO,2015Q3,2015-10-02,분기말 종가,40.39,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/KO?interval=1d&events=splits (2015-10-02),,3
+Coca-Cola,KO,2015Q3,2015-10-26,분기말 상장주식수,4348985156,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/21344/000002134415000041/,dei:EntityCommonStockSharesOutstanding 클래스 합,3
+Coca-Cola,KO,2015Q3,2015-10-02,분기말 시가총액,175655510451,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/KO?interval=1d&events=splits (2015-10-02) ; https://www.sec.gov/Archives/edgar/data/21344/000002134415000041/,종가 40.39 × 주식수 4348985156,3
+Coca-Cola,KO,2015Q4,2015-12-31,분기별 매출액,미확인,USD,미확인,https://www.sec.gov/Archives/edgar/data/21344/000002134416000050/,,3
+Coca-Cola,KO,2015Q4,2015-12-31,분기별 영업이익,1518000000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/21344/000002134416000050/ ; https://www.sec.gov/Archives/edgar/data/21344/000002134415000041/,연간 8728000000 − 9개월누적 7210000000 (OperatingIncomeLoss),3
+Coca-Cola,KO,2015Q4,2015-12-31,분기별 당기순이익(지배),1237000000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/21344/000002134416000050/ ; https://www.sec.gov/Archives/edgar/data/21344/000002134415000041/,연간 7351000000 − 9개월누적 6114000000 (NetIncomeLoss),3
+Coca-Cola,KO,2015Q4,2015-12-31,분기별 영업활동현금흐름,2138000000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/21344/000002134416000050/ ; https://www.sec.gov/Archives/edgar/data/21344/000002134415000041/,누적 10528000000 − 직전누적 8390000000 (시작 2015-01-01),3
+Coca-Cola,KO,2015Q4,2015-12-31,분기말 자산총계,89996000000,USD,공시(재작성 반영),https://www.sec.gov/Archives/edgar/data/21344/000002134417000009/,원 공시 90093000000 (https://www.sec.gov/Archives/edgar/data/21344/000002134416000050/),3
+Coca-Cola,KO,2015Q4,2015-12-31,분기말 부채총계,64232000000,USD,계산(부채및자본-총자본)(재작성 반영),https://www.sec.gov/Archives/edgar/data/21344/000002134417000009/,부채및자본 89996000000 − 총자본 25764000000 ; 원 공시 64329000000 (https://www.sec.gov/Archives/edgar/data/21344/000002134416000050/),3
+Coca-Cola,KO,2015Q4,2015-12-31,분기말 총자본(자기자본),25764000000,USD,공시,https://www.sec.gov/Archives/edgar/data/21344/000002134416000050/,,3
+Coca-Cola,KO,2015Q4,2015-12-31,분기말 지배지분 자본,25554000000,USD,공시,https://www.sec.gov/Archives/edgar/data/21344/000002134416000050/,,3
+Coca-Cola,KO,2015Q4,2015-12-31,분기말 종가,42.96,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/KO?interval=1d&events=splits (2015-12-31),,3
+Coca-Cola,KO,2015Q4,2016-02-22,분기말 상장주식수,4329497778,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/21344/000002134416000050/,dei:EntityCommonStockSharesOutstanding 클래스 합,3
+Coca-Cola,KO,2015Q4,2015-12-31,분기말 시가총액,185995224543,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/KO?interval=1d&events=splits (2015-12-31) ; https://www.sec.gov/Archives/edgar/data/21344/000002134416000050/,종가 42.96 × 주식수 4329497778,3
+Coca-Cola,KO,2016Q1,2016-04-01,분기별 매출액,미확인,USD,미확인,https://www.sec.gov/Archives/edgar/data/21344/000002134416000059/,,3
+Coca-Cola,KO,2016Q1,2016-04-01,분기별 영업이익,2141000000,USD,공시,https://www.sec.gov/Archives/edgar/data/21344/000002134416000059/,,3
+Coca-Cola,KO,2016Q1,2016-04-01,분기별 당기순이익(지배),1483000000,USD,공시,https://www.sec.gov/Archives/edgar/data/21344/000002134416000059/,,3
+Coca-Cola,KO,2016Q1,2016-04-01,분기별 영업활동현금흐름,604000000,USD,공시,https://www.sec.gov/Archives/edgar/data/21344/000002134416000059/,,3
+Coca-Cola,KO,2016Q1,2016-04-01,분기말 자산총계,91263000000,USD,공시,https://www.sec.gov/Archives/edgar/data/21344/000002134416000059/,,3
+Coca-Cola,KO,2016Q1,2016-04-01,분기말 부채총계,66134000000,USD,계산(부채및자본-총자본),https://www.sec.gov/Archives/edgar/data/21344/000002134416000059/,부채및자본 91263000000 − 총자본 25129000000,3
+Coca-Cola,KO,2016Q1,2016-04-01,분기말 총자본(자기자본),25129000000,USD,공시,https://www.sec.gov/Archives/edgar/data/21344/000002134416000059/,,3
+Coca-Cola,KO,2016Q1,2016-04-01,분기말 지배지분 자본,24914000000,USD,공시,https://www.sec.gov/Archives/edgar/data/21344/000002134416000059/,,3
+Coca-Cola,KO,2016Q1,2016-04-01,분기말 종가,46.83,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/KO?interval=1d&events=splits (2016-04-01),,3
+Coca-Cola,KO,2016Q1,2016-04-25,분기말 상장주식수,4326198723,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/21344/000002134416000059/,dei:EntityCommonStockSharesOutstanding 클래스 합,3
+Coca-Cola,KO,2016Q1,2016-04-01,분기말 시가총액,202595886198,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/KO?interval=1d&events=splits (2016-04-01) ; https://www.sec.gov/Archives/edgar/data/21344/000002134416000059/,종가 46.83 × 주식수 4326198723,3
+Coca-Cola,KO,2016Q2,2016-07-01,분기별 매출액,미확인,USD,미확인,https://www.sec.gov/Archives/edgar/data/21344/000002134416000065/,,3
+Coca-Cola,KO,2016Q2,2016-07-01,분기별 영업이익,2859000000,USD,공시,https://www.sec.gov/Archives/edgar/data/21344/000002134416000065/,,3
+Coca-Cola,KO,2016Q2,2016-07-01,분기별 당기순이익(지배),3448000000,USD,공시,https://www.sec.gov/Archives/edgar/data/21344/000002134416000065/,,3
+Coca-Cola,KO,2016Q2,2016-07-01,분기별 영업활동현금흐름,3216000000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/21344/000002134416000065/ ; https://www.sec.gov/Archives/edgar/data/21344/000002134416000059/,누적 3820000000 − 직전누적 604000000 (시작 2016-01-01),3
+Coca-Cola,KO,2016Q2,2016-07-01,분기말 자산총계,94094000000,USD,공시,https://www.sec.gov/Archives/edgar/data/21344/000002134416000065/,,3
+Coca-Cola,KO,2016Q2,2016-07-01,분기말 부채총계,67256000000,USD,계산(부채및자본-총자본),https://www.sec.gov/Archives/edgar/data/21344/000002134416000065/,부채및자본 94094000000 − 총자본 26838000000,3
+Coca-Cola,KO,2016Q2,2016-07-01,분기말 총자본(자기자본),26838000000,USD,공시,https://www.sec.gov/Archives/edgar/data/21344/000002134416000065/,,3
+Coca-Cola,KO,2016Q2,2016-07-01,분기말 지배지분 자본,26637000000,USD,공시,https://www.sec.gov/Archives/edgar/data/21344/000002134416000065/,,3
+Coca-Cola,KO,2016Q2,2016-07-01,분기말 종가,45.12,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/KO?interval=1d&events=splits (2016-07-01),,3
+Coca-Cola,KO,2016Q2,2016-07-25,분기말 상장주식수,4316029450,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/21344/000002134416000065/,dei:EntityCommonStockSharesOutstanding 클래스 합,3
+Coca-Cola,KO,2016Q2,2016-07-01,분기말 시가총액,194739248784,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/KO?interval=1d&events=splits (2016-07-01) ; https://www.sec.gov/Archives/edgar/data/21344/000002134416000065/,종가 45.12 × 주식수 4316029450,3
+Coca-Cola,KO,2016Q3,2016-09-30,분기별 매출액,미확인,USD,미확인,https://www.sec.gov/Archives/edgar/data/21344/000002134416000076/,,3
+Coca-Cola,KO,2016Q3,2016-09-30,분기별 영업이익,2271000000,USD,공시,https://www.sec.gov/Archives/edgar/data/21344/000002134416000076/,,3
+Coca-Cola,KO,2016Q3,2016-09-30,분기별 당기순이익(지배),1046000000,USD,공시,https://www.sec.gov/Archives/edgar/data/21344/000002134416000076/,,3
+Coca-Cola,KO,2016Q3,2016-09-30,분기별 영업활동현금흐름,2903000000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/21344/000002134416000076/ ; https://www.sec.gov/Archives/edgar/data/21344/000002134416000065/,누적 6723000000 − 직전누적 3820000000 (시작 2016-01-01),3
+Coca-Cola,KO,2016Q3,2016-09-30,분기말 자산총계,93927000000,USD,공시,https://www.sec.gov/Archives/edgar/data/21344/000002134416000076/,,3
+Coca-Cola,KO,2016Q3,2016-09-30,분기말 부채총계,67682000000,USD,계산(부채및자본-총자본),https://www.sec.gov/Archives/edgar/data/21344/000002134416000076/,부채및자본 93927000000 − 총자본 26245000000,3
+Coca-Cola,KO,2016Q3,2016-09-30,분기말 총자본(자기자본),26245000000,USD,공시,https://www.sec.gov/Archives/edgar/data/21344/000002134416000076/,,3
+Coca-Cola,KO,2016Q3,2016-09-30,분기말 지배지분 자본,26076000000,USD,공시,https://www.sec.gov/Archives/edgar/data/21344/000002134416000076/,,3
+Coca-Cola,KO,2016Q3,2016-09-30,분기말 종가,42.32,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/KO?interval=1d&events=splits (2016-09-30),,3
+Coca-Cola,KO,2016Q3,2016-10-24,분기말 상장주식수,4312959416,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/21344/000002134416000076/,dei:EntityCommonStockSharesOutstanding 클래스 합,3
+Coca-Cola,KO,2016Q3,2016-09-30,분기말 시가총액,182524442485,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/KO?interval=1d&events=splits (2016-09-30) ; https://www.sec.gov/Archives/edgar/data/21344/000002134416000076/,종가 42.32 × 주식수 4312959416,3
+Coca-Cola,KO,2016Q4,2016-12-31,분기별 매출액,미확인,USD,미확인,https://www.sec.gov/Archives/edgar/data/21344/000002134417000009/,,3
+Coca-Cola,KO,2016Q4,2016-12-31,분기별 영업이익,1355000000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/21344/000002134417000009/ ; https://www.sec.gov/Archives/edgar/data/21344/000002134416000076/,연간 8626000000 − 9개월누적 7271000000 (OperatingIncomeLoss),3
+Coca-Cola,KO,2016Q4,2016-12-31,분기별 당기순이익(지배),550000000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/21344/000002134417000009/ ; https://www.sec.gov/Archives/edgar/data/21344/000002134416000076/,연간 6527000000 − 9개월누적 5977000000 (NetIncomeLoss),3
+Coca-Cola,KO,2016Q4,2016-12-31,분기별 영업활동현금흐름,2073000000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/21344/000002134417000009/ ; https://www.sec.gov/Archives/edgar/data/21344/000002134416000076/,누적 8796000000 − 직전누적 6723000000 (시작 2016-01-01),3
+Coca-Cola,KO,2016Q4,2016-12-31,분기말 자산총계,87270000000,USD,공시,https://www.sec.gov/Archives/edgar/data/21344/000002134417000009/,,3
+Coca-Cola,KO,2016Q4,2016-12-31,분기말 부채총계,64050000000,USD,계산(부채및자본-총자본),https://www.sec.gov/Archives/edgar/data/21344/000002134417000009/,부채및자본 87270000000 − 총자본 23220000000,3
+Coca-Cola,KO,2016Q4,2016-12-31,분기말 총자본(자기자본),23220000000,USD,공시,https://www.sec.gov/Archives/edgar/data/21344/000002134417000009/,,3
+Coca-Cola,KO,2016Q4,2016-12-31,분기말 지배지분 자본,23062000000,USD,공시,https://www.sec.gov/Archives/edgar/data/21344/000002134417000009/,,3
+Coca-Cola,KO,2016Q4,2016-12-30,분기말 종가,41.46,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/KO?interval=1d&events=splits (2016-12-30),,3
+Coca-Cola,KO,2016Q4,2017-02-20,분기말 상장주식수,4293461702,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/21344/000002134417000009/,dei:EntityCommonStockSharesOutstanding 클래스 합,3
+Coca-Cola,KO,2016Q4,2016-12-30,분기말 시가총액,178006922165,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/KO?interval=1d&events=splits (2016-12-30) ; https://www.sec.gov/Archives/edgar/data/21344/000002134417000009/,종가 41.46 × 주식수 4293461702,3
+Coca-Cola,KO,2017Q1,2017-03-31,분기별 매출액,미확인,USD,미확인,https://www.sec.gov/Archives/edgar/data/21344/000002134417000019/,,3
+Coca-Cola,KO,2017Q1,2017-03-31,분기별 영업이익,1982000000,USD,공시,https://www.sec.gov/Archives/edgar/data/21344/000002134417000019/,,3
+Coca-Cola,KO,2017Q1,2017-03-31,분기별 당기순이익(지배),1182000000,USD,공시,https://www.sec.gov/Archives/edgar/data/21344/000002134417000019/,,3
+Coca-Cola,KO,2017Q1,2017-03-31,분기별 영업활동현금흐름,788000000,USD,공시,https://www.sec.gov/Archives/edgar/data/21344/000002134417000019/,,3
+Coca-Cola,KO,2017Q1,2017-03-31,분기말 자산총계,91201000000,USD,공시,https://www.sec.gov/Archives/edgar/data/21344/000002134417000019/,,3
+Coca-Cola,KO,2017Q1,2017-03-31,분기말 부채총계,68134000000,USD,계산(부채및자본-총자본),https://www.sec.gov/Archives/edgar/data/21344/000002134417000019/,부채및자본 91201000000 − 총자본 23067000000,3
+Coca-Cola,KO,2017Q1,2017-03-31,분기말 총자본(자기자본),23067000000,USD,공시,https://www.sec.gov/Archives/edgar/data/21344/000002134417000019/,,3
+Coca-Cola,KO,2017Q1,2017-03-31,분기말 지배지분 자본,22876000000,USD,공시,https://www.sec.gov/Archives/edgar/data/21344/000002134417000019/,,3
+Coca-Cola,KO,2017Q1,2017-03-31,분기말 종가,42.44,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/KO?interval=1d&events=splits (2017-03-31),,3
+Coca-Cola,KO,2017Q1,2017-04-24,분기말 상장주식수,4272559271,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/21344/000002134417000019/,dei:EntityCommonStockSharesOutstanding 클래스 합,3
+Coca-Cola,KO,2017Q1,2017-03-31,분기말 시가총액,181327415461,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/KO?interval=1d&events=splits (2017-03-31) ; https://www.sec.gov/Archives/edgar/data/21344/000002134417000019/,종가 42.44 × 주식수 4272559271,3
+Coca-Cola,KO,2017Q2,2017-06-30,분기별 매출액,미확인,USD,미확인,https://www.sec.gov/Archives/edgar/data/21344/000002134417000026/,,3
+Coca-Cola,KO,2017Q2,2017-06-30,분기별 영업이익,2078000000,USD,공시,https://www.sec.gov/Archives/edgar/data/21344/000002134417000026/,,3
+Coca-Cola,KO,2017Q2,2017-06-30,분기별 당기순이익(지배),1371000000,USD,공시,https://www.sec.gov/Archives/edgar/data/21344/000002134417000026/,,3
+Coca-Cola,KO,2017Q2,2017-06-30,분기별 영업활동현금흐름,2603000000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/21344/000002134417000026/ ; https://www.sec.gov/Archives/edgar/data/21344/000002134417000019/,누적 3391000000 − 직전누적 788000000 (시작 2017-01-01),3
+Coca-Cola,KO,2017Q2,2017-06-30,분기말 자산총계,91146000000,USD,공시,https://www.sec.gov/Archives/edgar/data/21344/000002134417000026/,,3
+Coca-Cola,KO,2017Q2,2017-06-30,분기말 부채총계,69057000000,USD,계산(부채및자본-총자본),https://www.sec.gov/Archives/edgar/data/21344/000002134417000026/,부채및자본 91146000000 − 총자본 22089000000,3
+Coca-Cola,KO,2017Q2,2017-06-30,분기말 총자본(자기자본),22089000000,USD,공시,https://www.sec.gov/Archives/edgar/data/21344/000002134417000026/,,3
+Coca-Cola,KO,2017Q2,2017-06-30,분기말 지배지분 자본,22001000000,USD,공시,https://www.sec.gov/Archives/edgar/data/21344/000002134417000026/,,3
+Coca-Cola,KO,2017Q2,2017-06-30,분기말 종가,44.85,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/KO?interval=1d&events=splits (2017-06-30),,3
+Coca-Cola,KO,2017Q2,2017-07-24,분기말 상장주식수,4265304181,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/21344/000002134417000026/,dei:EntityCommonStockSharesOutstanding 클래스 합,3
+Coca-Cola,KO,2017Q2,2017-06-30,분기말 시가총액,191298892518,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/KO?interval=1d&events=splits (2017-06-30) ; https://www.sec.gov/Archives/edgar/data/21344/000002134417000026/,종가 44.85 × 주식수 4265304181,3
+Coca-Cola,KO,2017Q3,2017-09-29,분기별 매출액,9078000000,USD,공시(후속 보고서 비교기간),https://www.sec.gov/Archives/edgar/data/21344/000002134418000042/,Revenues ; 그 분기 보고서에 연결 총계가 없어 2018-10-30 제출본의 비교기간에서 읽었다,3
+Coca-Cola,KO,2017Q3,2017-09-29,분기별 영업이익,2120000000,USD,공시,https://www.sec.gov/Archives/edgar/data/21344/000002134417000032/,,3
+Coca-Cola,KO,2017Q3,2017-09-29,분기별 당기순이익(지배),1447000000,USD,공시,https://www.sec.gov/Archives/edgar/data/21344/000002134417000032/,,3
+Coca-Cola,KO,2017Q3,2017-09-29,분기별 영업활동현금흐름,2527000000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/21344/000002134417000032/ ; https://www.sec.gov/Archives/edgar/data/21344/000002134417000026/,누적 5918000000 − 직전누적 3391000000 (시작 2017-01-01),3
+Coca-Cola,KO,2017Q3,2017-09-29,분기말 자산총계,90515000000,USD,공시,https://www.sec.gov/Archives/edgar/data/21344/000002134417000032/,,3
+Coca-Cola,KO,2017Q3,2017-09-29,분기말 부채총계,68363000000,USD,계산(부채및자본-총자본),https://www.sec.gov/Archives/edgar/data/21344/000002134417000032/,부채및자본 90515000000 − 총자본 22152000000,3
+Coca-Cola,KO,2017Q3,2017-09-29,분기말 총자본(자기자본),22152000000,USD,공시,https://www.sec.gov/Archives/edgar/data/21344/000002134417000032/,,3
+Coca-Cola,KO,2017Q3,2017-09-29,분기말 지배지분 자본,22119000000,USD,공시,https://www.sec.gov/Archives/edgar/data/21344/000002134417000032/,,3
+Coca-Cola,KO,2017Q3,2017-09-29,분기말 종가,45.01,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/KO?interval=1d&events=splits (2017-09-29),,3
+Coca-Cola,KO,2017Q3,2017-10-23,분기말 상장주식수,4260667316,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/21344/000002134417000032/,dei:EntityCommonStockSharesOutstanding 클래스 합,3
+Coca-Cola,KO,2017Q3,2017-09-29,분기말 시가총액,191772635893,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/KO?interval=1d&events=splits (2017-09-29) ; https://www.sec.gov/Archives/edgar/data/21344/000002134417000032/,종가 45.01 × 주식수 4260667316,3
+Coca-Cola,KO,2017Q4,2017-12-31,분기별 매출액,미확인,USD,미확인,https://www.sec.gov/Archives/edgar/data/21344/000002134418000008/,,3
+Coca-Cola,KO,2017Q4,2017-12-31,분기별 영업이익,1575000000,USD,계산(연간-3분기누적)(재작성 반영),https://www.sec.gov/Archives/edgar/data/21344/000002134420000006/ ; https://www.sec.gov/Archives/edgar/data/21344/000002134417000032/,연간 7755000000 − 9개월누적 6180000000 (OperatingIncomeLoss) ; 원 공시 1321000000 (https://www.sec.gov/Archives/edgar/data/21344/000002134418000008/ ; https://www.sec.gov/Archives/edgar/data/21344/000002134417000032/),3
+Coca-Cola,KO,2017Q4,2017-12-31,분기별 당기순이익(지배),-2752000000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/21344/000002134418000008/ ; https://www.sec.gov/Archives/edgar/data/21344/000002134417000032/,연간 1248000000 − 9개월누적 4000000000 (NetIncomeLoss),3
+Coca-Cola,KO,2017Q4,2017-12-31,분기별 영업활동현금흐름,1123000000,USD,계산(누적차감)(재작성 반영),https://www.sec.gov/Archives/edgar/data/21344/000002134420000006/ ; https://www.sec.gov/Archives/edgar/data/21344/000002134417000032/,누적 7041000000 − 직전누적 5918000000 (시작 2017-01-01) ; 원 공시 1077000000 (https://www.sec.gov/Archives/edgar/data/21344/000002134418000008/ ; https://www.sec.gov/Archives/edgar/data/21344/000002134417000032/),3
+Coca-Cola,KO,2017Q4,2017-12-31,분기말 자산총계,87896000000,USD,공시,https://www.sec.gov/Archives/edgar/data/21344/000002134418000008/,,3
+Coca-Cola,KO,2017Q4,2017-12-31,분기말 부채총계,68919000000,USD,계산(부채및자본-총자본),https://www.sec.gov/Archives/edgar/data/21344/000002134418000008/,부채및자본 87896000000 − 총자본 18977000000,3
+Coca-Cola,KO,2017Q4,2017-12-31,분기말 총자본(자기자본),18977000000,USD,공시,https://www.sec.gov/Archives/edgar/data/21344/000002134418000008/,,3
+Coca-Cola,KO,2017Q4,2017-12-31,분기말 지배지분 자본,17072000000,USD,공시,https://www.sec.gov/Archives/edgar/data/21344/000002134418000008/,,3
+Coca-Cola,KO,2017Q4,2017-12-29,분기말 종가,45.88,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/KO?interval=1d&events=splits (2017-12-29),,3
+Coca-Cola,KO,2017Q4,2018-02-16,분기말 상장주식수,4265906533,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/21344/000002134418000008/,dei:EntityCommonStockSharesOutstanding 클래스 합,3
+Coca-Cola,KO,2017Q4,2017-12-29,분기말 시가총액,195719791734,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/KO?interval=1d&events=splits (2017-12-29) ; https://www.sec.gov/Archives/edgar/data/21344/000002134418000008/,종가 45.88 × 주식수 4265906533,3
+Coca-Cola,KO,2018Q1,2018-03-30,분기별 매출액,7626000000,USD,공시(후속 보고서 비교기간),https://www.sec.gov/Archives/edgar/data/21344/000002134419000028/,Revenues ; 그 분기 보고서에 연결 총계가 없어 2019-04-25 제출본의 비교기간에서 읽었다,3
+Coca-Cola,KO,2018Q1,2018-03-30,분기별 영업이익,1811000000,USD,공시,https://www.sec.gov/Archives/edgar/data/21344/000002134418000023/,,3
+Coca-Cola,KO,2018Q1,2018-03-30,분기별 당기순이익(지배),1368000000,USD,공시,https://www.sec.gov/Archives/edgar/data/21344/000002134418000023/,,3
+Coca-Cola,KO,2018Q1,2018-03-30,분기별 영업활동현금흐름,613000000,USD,공시,https://www.sec.gov/Archives/edgar/data/21344/000002134418000023/,,3
+Coca-Cola,KO,2018Q1,2018-03-30,분기말 자산총계,93282000000,USD,공시,https://www.sec.gov/Archives/edgar/data/21344/000002134418000023/,,3
+Coca-Cola,KO,2018Q1,2018-03-30,분기말 부채총계,71665000000,USD,계산(부채및자본-총자본),https://www.sec.gov/Archives/edgar/data/21344/000002134418000023/,부채및자본 93282000000 − 총자본 21617000000,3
+Coca-Cola,KO,2018Q1,2018-03-30,분기말 총자본(자기자본),21617000000,USD,공시,https://www.sec.gov/Archives/edgar/data/21344/000002134418000023/,,3
+Coca-Cola,KO,2018Q1,2018-03-30,분기말 지배지분 자본,19610000000,USD,공시,https://www.sec.gov/Archives/edgar/data/21344/000002134418000023/,,3
+Coca-Cola,KO,2018Q1,2018-03-29,분기말 종가,43.43,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/KO?interval=1d&events=splits (2018-03-29),,3
+Coca-Cola,KO,2018Q1,2018-04-27,분기말 상장주식수,4255262604,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/21344/000002134418000023/,dei:EntityCommonStockSharesOutstanding 클래스 합,3
+Coca-Cola,KO,2018Q1,2018-03-29,분기말 시가총액,184806054892,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/KO?interval=1d&events=splits (2018-03-29) ; https://www.sec.gov/Archives/edgar/data/21344/000002134418000023/,종가 43.43 × 주식수 4255262604,3
+Coca-Cola,KO,2018Q2,2018-06-29,분기별 매출액,9421000000,USD,공시(후속 보고서 비교기간),https://www.sec.gov/Archives/edgar/data/21344/000002134419000034/,Revenues ; 그 분기 보고서에 연결 총계가 없어 2019-07-25 제출본의 비교기간에서 읽었다,3
+Coca-Cola,KO,2018Q2,2018-06-29,분기별 영업이익,2766000000,USD,공시(재작성 반영),https://www.sec.gov/Archives/edgar/data/21344/000002134419000034/,원 공시 2727000000 (https://www.sec.gov/Archives/edgar/data/21344/000002134418000032/),3
+Coca-Cola,KO,2018Q2,2018-06-29,분기별 당기순이익(지배),2316000000,USD,공시,https://www.sec.gov/Archives/edgar/data/21344/000002134418000032/,,3
+Coca-Cola,KO,2018Q2,2018-06-29,분기별 영업활동현금흐름,2073000000,USD,계산(누적차감)(재작성 반영),https://www.sec.gov/Archives/edgar/data/21344/000002134419000034/ ; https://www.sec.gov/Archives/edgar/data/21344/000002134418000023/,누적 2686000000 − 직전누적 613000000 (시작 2018-01-01) ; 원 공시 1995000000 (https://www.sec.gov/Archives/edgar/data/21344/000002134418000032/ ; https://www.sec.gov/Archives/edgar/data/21344/000002134418000023/),3
+Coca-Cola,KO,2018Q2,2018-06-29,분기말 자산총계,89593000000,USD,공시,https://www.sec.gov/Archives/edgar/data/21344/000002134418000032/,,3
+Coca-Cola,KO,2018Q2,2018-06-29,분기말 부채총계,69417000000,USD,계산(부채및자본-총자본),https://www.sec.gov/Archives/edgar/data/21344/000002134418000032/,부채및자본 89593000000 − 총자본 20176000000,3
+Coca-Cola,KO,2018Q2,2018-06-29,분기말 총자본(자기자본),20176000000,USD,공시,https://www.sec.gov/Archives/edgar/data/21344/000002134418000032/,,3
+Coca-Cola,KO,2018Q2,2018-06-29,분기말 지배지분 자본,18323000000,USD,공시,https://www.sec.gov/Archives/edgar/data/21344/000002134418000032/,,3
+Coca-Cola,KO,2018Q2,2018-06-29,분기말 종가,43.86,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/KO?interval=1d&events=splits (2018-06-29),,3
+Coca-Cola,KO,2018Q2,2018-07-23,분기말 상장주식수,4252922447,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/21344/000002134418000032/,dei:EntityCommonStockSharesOutstanding 클래스 합,3
+Coca-Cola,KO,2018Q2,2018-06-29,분기말 시가총액,186533178525,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/KO?interval=1d&events=splits (2018-06-29) ; https://www.sec.gov/Archives/edgar/data/21344/000002134418000032/,종가 43.86 × 주식수 4252922447,3
+Coca-Cola,KO,2018Q3,2018-09-28,분기별 매출액,8775000000,USD,공시(재작성 반영),https://www.sec.gov/Archives/edgar/data/21344/000002134419000042/,원 공시 8245000000 (https://www.sec.gov/Archives/edgar/data/21344/000002134418000042/),3
+Coca-Cola,KO,2018Q3,2018-09-28,분기별 영업이익,2614000000,USD,공시(재작성 반영),https://www.sec.gov/Archives/edgar/data/21344/000002134419000042/,원 공시 2526000000 (https://www.sec.gov/Archives/edgar/data/21344/000002134418000042/),3
+Coca-Cola,KO,2018Q3,2018-09-28,분기별 당기순이익(지배),1880000000,USD,공시,https://www.sec.gov/Archives/edgar/data/21344/000002134418000042/,,3
+Coca-Cola,KO,2018Q3,2018-09-28,분기별 영업활동현금흐름,2794000000,USD,계산(누적차감)(재작성 반영),https://www.sec.gov/Archives/edgar/data/21344/000002134418000042/ ; https://www.sec.gov/Archives/edgar/data/21344/000002134419000034/,누적 5480000000 − 직전누적 2686000000 (시작 2018-01-01) ; 원 공시 2872000000 (https://www.sec.gov/Archives/edgar/data/21344/000002134418000042/ ; https://www.sec.gov/Archives/edgar/data/21344/000002134418000032/),3
+Coca-Cola,KO,2018Q3,2018-09-28,분기말 자산총계,86877000000,USD,공시,https://www.sec.gov/Archives/edgar/data/21344/000002134418000042/,,3
+Coca-Cola,KO,2018Q3,2018-09-28,분기말 부채총계,66699000000,USD,계산(부채및자본-총자본),https://www.sec.gov/Archives/edgar/data/21344/000002134418000042/,부채및자본 86877000000 − 총자본 20178000000,3
+Coca-Cola,KO,2018Q3,2018-09-28,분기말 총자본(자기자본),20178000000,USD,공시,https://www.sec.gov/Archives/edgar/data/21344/000002134418000042/,,3
+Coca-Cola,KO,2018Q3,2018-09-28,분기말 지배지분 자본,18264000000,USD,공시,https://www.sec.gov/Archives/edgar/data/21344/000002134418000042/,,3
+Coca-Cola,KO,2018Q3,2018-09-28,분기말 종가,46.19,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/KO?interval=1d&events=splits (2018-09-28),,3
+Coca-Cola,KO,2018Q3,2018-10-26,분기말 상장주식수,4256513898,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/21344/000002134418000042/,dei:EntityCommonStockSharesOutstanding 클래스 합,3
+Coca-Cola,KO,2018Q3,2018-09-28,분기말 시가총액,196608376949,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/KO?interval=1d&events=splits (2018-09-28) ; https://www.sec.gov/Archives/edgar/data/21344/000002134418000042/,종가 46.19 × 주식수 4256513898,3
+Coca-Cola,KO,2018Q4,2018-12-31,분기별 매출액,7806000000,USD,계산(연간-3분기누적)(재작성 반영),https://www.sec.gov/Archives/edgar/data/21344/000002134421000008/ ; https://www.sec.gov/Archives/edgar/data/21344/000002134419000042/,연간 34300000000 − 9개월누적 26494000000 (Revenues) ; 원 공시 7058000000 (https://www.sec.gov/Archives/edgar/data/21344/000002134419000014/ ; https://www.sec.gov/Archives/edgar/data/21344/000002134418000042/),3
+Coca-Cola,KO,2018Q4,2018-12-31,분기별 영업이익,1825000000,USD,계산(연간-3분기누적)(재작성 반영),https://www.sec.gov/Archives/edgar/data/21344/000002134421000008/ ; https://www.sec.gov/Archives/edgar/data/21344/000002134419000042/,연간 9152000000 − 9개월누적 7327000000 (OperatingIncomeLoss) ; 원 공시 1636000000 (https://www.sec.gov/Archives/edgar/data/21344/000002134419000014/ ; https://www.sec.gov/Archives/edgar/data/21344/000002134418000042/),3
+Coca-Cola,KO,2018Q4,2018-12-31,분기별 당기순이익(지배),870000000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/21344/000002134419000014/ ; https://www.sec.gov/Archives/edgar/data/21344/000002134418000042/,연간 6434000000 − 9개월누적 5564000000 (NetIncomeLoss),3
+Coca-Cola,KO,2018Q4,2018-12-31,분기별 영업활동현금흐름,2147000000,USD,계산(누적차감)(재작성 반영),https://www.sec.gov/Archives/edgar/data/21344/000002134421000008/ ; https://www.sec.gov/Archives/edgar/data/21344/000002134418000042/,누적 7627000000 − 직전누적 5480000000 (시작 2018-01-01) ; 원 공시 1840000000 (https://www.sec.gov/Archives/edgar/data/21344/000002134419000014/ ; https://www.sec.gov/Archives/edgar/data/21344/000002134418000042/),3
+Coca-Cola,KO,2018Q4,2018-12-31,분기말 자산총계,83216000000,USD,공시,https://www.sec.gov/Archives/edgar/data/21344/000002134419000014/,,3
+Coca-Cola,KO,2018Q4,2018-12-31,분기말 부채총계,64158000000,USD,계산(부채및자본-총자본),https://www.sec.gov/Archives/edgar/data/21344/000002134419000014/,부채및자본 83216000000 − 총자본 19058000000,3
+Coca-Cola,KO,2018Q4,2018-12-31,분기말 총자본(자기자본),19058000000,USD,공시,https://www.sec.gov/Archives/edgar/data/21344/000002134419000014/,,3
+Coca-Cola,KO,2018Q4,2018-12-31,분기말 지배지분 자본,16981000000,USD,공시,https://www.sec.gov/Archives/edgar/data/21344/000002134419000014/,,3
+Coca-Cola,KO,2018Q4,2018-12-31,분기말 종가,47.35,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/KO?interval=1d&events=splits (2018-12-31),,3
+Coca-Cola,KO,2018Q4,2019-02-15,분기말 상장주식수,4275340031,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/21344/000002134419000014/,dei:EntityCommonStockSharesOutstanding 클래스 합,3
+Coca-Cola,KO,2018Q4,2018-12-31,분기말 시가총액,202437350468,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/KO?interval=1d&events=splits (2018-12-31) ; https://www.sec.gov/Archives/edgar/data/21344/000002134419000014/,종가 47.35 × 주식수 4275340031,3
+Coca-Cola,KO,2019Q1,2019-03-29,분기별 매출액,8694000000,USD,공시(재작성 반영),https://www.sec.gov/Archives/edgar/data/21344/000002134420000014/,원 공시 8020000000 (https://www.sec.gov/Archives/edgar/data/21344/000002134419000028/),3
+Coca-Cola,KO,2019Q1,2019-03-29,분기별 영업이익,2435000000,USD,공시(재작성 반영),https://www.sec.gov/Archives/edgar/data/21344/000002134420000014/,원 공시 2336000000 (https://www.sec.gov/Archives/edgar/data/21344/000002134419000028/),3
+Coca-Cola,KO,2019Q1,2019-03-29,분기별 당기순이익(지배),1678000000,USD,공시,https://www.sec.gov/Archives/edgar/data/21344/000002134419000028/,,3
+Coca-Cola,KO,2019Q1,2019-03-29,분기별 영업활동현금흐름,699000000,USD,공시,https://www.sec.gov/Archives/edgar/data/21344/000002134419000028/,,3
+Coca-Cola,KO,2019Q1,2019-03-29,분기말 자산총계,88347000000,USD,공시,https://www.sec.gov/Archives/edgar/data/21344/000002134419000028/,,3
+Coca-Cola,KO,2019Q1,2019-03-29,분기말 부채총계,68543000000,USD,계산(부채및자본-총자본),https://www.sec.gov/Archives/edgar/data/21344/000002134419000028/,부채및자본 88347000000 − 총자본 19804000000,3
+Coca-Cola,KO,2019Q1,2019-03-29,분기말 총자본(자기자본),19804000000,USD,공시,https://www.sec.gov/Archives/edgar/data/21344/000002134419000028/,,3
+Coca-Cola,KO,2019Q1,2019-03-29,분기말 지배지분 자본,17735000000,USD,공시,https://www.sec.gov/Archives/edgar/data/21344/000002134419000028/,,3
+Coca-Cola,KO,2019Q1,2019-03-29,분기말 종가,46.86,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/KO?interval=1d&events=splits (2019-03-29),,3
+Coca-Cola,KO,2019Q1,2019-04-22,분기말 상장주식수,4266115111,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/21344/000002134419000028/,dei:EntityCommonStockSharesOutstanding 클래스 합,3
+Coca-Cola,KO,2019Q1,2019-03-29,분기말 시가총액,199910154101,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/KO?interval=1d&events=splits (2019-03-29) ; https://www.sec.gov/Archives/edgar/data/21344/000002134419000028/,종가 46.86 × 주식수 4266115111,3
+Coca-Cola,KO,2019Q2,2019-06-28,분기별 매출액,9997000000,USD,공시,https://www.sec.gov/Archives/edgar/data/21344/000002134419000034/,,3
+Coca-Cola,KO,2019Q2,2019-06-28,분기별 영업이익,2988000000,USD,공시,https://www.sec.gov/Archives/edgar/data/21344/000002134419000034/,,3
+Coca-Cola,KO,2019Q2,2019-06-28,분기별 당기순이익(지배),2607000000,USD,공시,https://www.sec.gov/Archives/edgar/data/21344/000002134419000034/,,3
+Coca-Cola,KO,2019Q2,2019-06-28,분기별 영업활동현금흐름,3802000000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/21344/000002134419000034/ ; https://www.sec.gov/Archives/edgar/data/21344/000002134419000028/,누적 4501000000 − 직전누적 699000000 (시작 2019-01-01),3
+Coca-Cola,KO,2019Q2,2019-06-28,분기말 자산총계,89996000000,USD,공시,https://www.sec.gov/Archives/edgar/data/21344/000002134419000034/,,3
+Coca-Cola,KO,2019Q2,2019-06-28,분기말 부채총계,69701000000,USD,계산(부채및자본-총자본),https://www.sec.gov/Archives/edgar/data/21344/000002134419000034/,부채및자본 89996000000 − 총자본 20295000000,3
+Coca-Cola,KO,2019Q2,2019-06-28,분기말 총자본(자기자본),20295000000,USD,공시,https://www.sec.gov/Archives/edgar/data/21344/000002134419000034/,,3
+Coca-Cola,KO,2019Q2,2019-06-28,분기말 지배지분 자본,18181000000,USD,공시,https://www.sec.gov/Archives/edgar/data/21344/000002134419000034/,,3
+Coca-Cola,KO,2019Q2,2019-06-28,분기말 종가,50.92,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/KO?interval=1d&events=splits (2019-06-28),,3
+Coca-Cola,KO,2019Q2,2019-07-22,분기말 상장주식수,4276027437,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/21344/000002134419000034/,dei:EntityCommonStockSharesOutstanding 클래스 합,3
+Coca-Cola,KO,2019Q2,2019-06-28,분기말 시가총액,217735317092,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/KO?interval=1d&events=splits (2019-06-28) ; https://www.sec.gov/Archives/edgar/data/21344/000002134419000034/,종가 50.92 × 주식수 4276027437,3
+Coca-Cola,KO,2019Q3,2019-09-27,분기별 매출액,9507000000,USD,공시,https://www.sec.gov/Archives/edgar/data/21344/000002134419000042/,,3
+Coca-Cola,KO,2019Q3,2019-09-27,분기별 영업이익,2499000000,USD,공시,https://www.sec.gov/Archives/edgar/data/21344/000002134419000042/,,3
+Coca-Cola,KO,2019Q3,2019-09-27,분기별 당기순이익(지배),2593000000,USD,공시,https://www.sec.gov/Archives/edgar/data/21344/000002134419000042/,,3
+Coca-Cola,KO,2019Q3,2019-09-27,분기별 영업활동현금흐름,3270000000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/21344/000002134419000042/ ; https://www.sec.gov/Archives/edgar/data/21344/000002134419000034/,누적 7771000000 − 직전누적 4501000000 (시작 2019-01-01),3
+Coca-Cola,KO,2019Q3,2019-09-27,분기말 자산총계,87433000000,USD,공시,https://www.sec.gov/Archives/edgar/data/21344/000002134419000042/,,3
+Coca-Cola,KO,2019Q3,2019-09-27,분기말 부채총계,66750000000,USD,계산(부채및자본-총자본),https://www.sec.gov/Archives/edgar/data/21344/000002134419000042/,부채및자본 87433000000 − 총자본 20683000000,3
+Coca-Cola,KO,2019Q3,2019-09-27,분기말 총자본(자기자본),20683000000,USD,공시,https://www.sec.gov/Archives/edgar/data/21344/000002134419000042/,,3
+Coca-Cola,KO,2019Q3,2019-09-27,분기말 지배지분 자본,18713000000,USD,공시,https://www.sec.gov/Archives/edgar/data/21344/000002134419000042/,,3
+Coca-Cola,KO,2019Q3,2019-09-27,분기말 종가,54.31,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/KO?interval=1d&events=splits (2019-09-27),,3
+Coca-Cola,KO,2019Q3,2019-10-21,분기말 상장주식수,4284491377,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/21344/000002134419000042/,dei:EntityCommonStockSharesOutstanding 클래스 합,3
+Coca-Cola,KO,2019Q3,2019-09-27,분기말 시가총액,232690726685,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/KO?interval=1d&events=splits (2019-09-27) ; https://www.sec.gov/Archives/edgar/data/21344/000002134419000042/,종가 54.31 × 주식수 4284491377,3
+Coca-Cola,KO,2019Q4,2019-12-31,분기별 매출액,9068000000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/21344/000002134420000006/ ; https://www.sec.gov/Archives/edgar/data/21344/000002134419000042/,연간 37266000000 − 9개월누적 28198000000 (Revenues),3
+Coca-Cola,KO,2019Q4,2019-12-31,분기별 영업이익,2164000000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/21344/000002134420000006/ ; https://www.sec.gov/Archives/edgar/data/21344/000002134419000042/,연간 10086000000 − 9개월누적 7922000000 (OperatingIncomeLoss),3
+Coca-Cola,KO,2019Q4,2019-12-31,분기별 당기순이익(지배),2042000000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/21344/000002134420000006/ ; https://www.sec.gov/Archives/edgar/data/21344/000002134419000042/,연간 8920000000 − 9개월누적 6878000000 (NetIncomeLoss),3
+Coca-Cola,KO,2019Q4,2019-12-31,분기별 영업활동현금흐름,2700000000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/21344/000002134420000006/ ; https://www.sec.gov/Archives/edgar/data/21344/000002134419000042/,누적 10471000000 − 직전누적 7771000000 (시작 2019-01-01),3
+Coca-Cola,KO,2019Q4,2019-12-31,분기말 자산총계,86381000000,USD,공시,https://www.sec.gov/Archives/edgar/data/21344/000002134420000006/,,3
+Coca-Cola,KO,2019Q4,2019-12-31,분기말 부채총계,65283000000,USD,계산(부채및자본-총자본),https://www.sec.gov/Archives/edgar/data/21344/000002134420000006/,부채및자본 86381000000 − 총자본 21098000000,3
+Coca-Cola,KO,2019Q4,2019-12-31,분기말 총자본(자기자본),21098000000,USD,공시,https://www.sec.gov/Archives/edgar/data/21344/000002134420000006/,,3
+Coca-Cola,KO,2019Q4,2019-12-31,분기말 지배지분 자본,18981000000,USD,공시,https://www.sec.gov/Archives/edgar/data/21344/000002134420000006/,,3
+Coca-Cola,KO,2019Q4,2019-12-31,분기말 종가,55.35,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/KO?interval=1d&events=splits (2019-12-31),,3
+Coca-Cola,KO,2019Q4,2020-02-19,분기말 상장주식수,4290276067,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/21344/000002134420000006/,dei:EntityCommonStockSharesOutstanding 클래스 합,3
+Coca-Cola,KO,2019Q4,2019-12-31,분기말 시가총액,237466780308,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/KO?interval=1d&events=splits (2019-12-31) ; https://www.sec.gov/Archives/edgar/data/21344/000002134420000006/,종가 55.35 × 주식수 4290276067,3
+Coca-Cola,KO,2020Q1,2020-03-27,분기별 매출액,8601000000,USD,공시,https://www.sec.gov/Archives/edgar/data/21344/000002134420000014/,,3
+Coca-Cola,KO,2020Q1,2020-03-27,분기별 영업이익,2380000000,USD,공시,https://www.sec.gov/Archives/edgar/data/21344/000002134420000014/,,3
+Coca-Cola,KO,2020Q1,2020-03-27,분기별 당기순이익(지배),2775000000,USD,공시,https://www.sec.gov/Archives/edgar/data/21344/000002134420000014/,,3
+Coca-Cola,KO,2020Q1,2020-03-27,분기별 영업활동현금흐름,556000000,USD,공시,https://www.sec.gov/Archives/edgar/data/21344/000002134420000014/,,3
+Coca-Cola,KO,2020Q1,2020-03-27,분기말 자산총계,94013000000,USD,공시,https://www.sec.gov/Archives/edgar/data/21344/000002134420000014/,,3
+Coca-Cola,KO,2020Q1,2020-03-27,분기말 부채총계,74179000000,USD,계산(부채및자본-총자본),https://www.sec.gov/Archives/edgar/data/21344/000002134420000014/,부채및자본 94013000000 − 총자본 19834000000,3
+Coca-Cola,KO,2020Q1,2020-03-27,분기말 총자본(자기자본),19834000000,USD,공시,https://www.sec.gov/Archives/edgar/data/21344/000002134420000014/,,3
+Coca-Cola,KO,2020Q1,2020-03-27,분기말 지배지분 자본,18158000000,USD,공시,https://www.sec.gov/Archives/edgar/data/21344/000002134420000014/,,3
+Coca-Cola,KO,2020Q1,2020-03-27,분기말 종가,42.81,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/KO?interval=1d&events=splits (2020-03-27),,3
+Coca-Cola,KO,2020Q1,2020-04-21,분기말 상장주식수,4294891353,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/21344/000002134420000014/,dei:EntityCommonStockSharesOutstanding 클래스 합,3
+Coca-Cola,KO,2020Q1,2020-03-27,분기말 시가총액,183864298822,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/KO?interval=1d&events=splits (2020-03-27) ; https://www.sec.gov/Archives/edgar/data/21344/000002134420000014/,종가 42.81 × 주식수 4294891353,3
+Coca-Cola,KO,2020Q2,2020-06-26,분기별 매출액,7150000000,USD,공시,https://www.sec.gov/Archives/edgar/data/21344/000002134420000041/,,3
+Coca-Cola,KO,2020Q2,2020-06-26,분기별 영업이익,1981000000,USD,공시,https://www.sec.gov/Archives/edgar/data/21344/000002134420000041/,,3
+Coca-Cola,KO,2020Q2,2020-06-26,분기별 당기순이익(지배),1779000000,USD,공시,https://www.sec.gov/Archives/edgar/data/21344/000002134420000041/,,3
+Coca-Cola,KO,2020Q2,2020-06-26,분기별 영업활동현금흐름,2230000000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/21344/000002134420000041/ ; https://www.sec.gov/Archives/edgar/data/21344/000002134420000014/,누적 2786000000 − 직전누적 556000000 (시작 2020-01-01),3
+Coca-Cola,KO,2020Q2,2020-06-26,분기말 자산총계,94689000000,USD,공시,https://www.sec.gov/Archives/edgar/data/21344/000002134420000041/,,3
+Coca-Cola,KO,2020Q2,2020-06-26,분기말 부채총계,75500000000,USD,계산(부채및자본-총자본),https://www.sec.gov/Archives/edgar/data/21344/000002134420000041/,부채및자본 94689000000 − 총자본 19189000000,3
+Coca-Cola,KO,2020Q2,2020-06-26,분기말 총자본(자기자본),19189000000,USD,공시,https://www.sec.gov/Archives/edgar/data/21344/000002134420000041/,,3
+Coca-Cola,KO,2020Q2,2020-06-26,분기말 지배지분 자본,17484000000,USD,공시,https://www.sec.gov/Archives/edgar/data/21344/000002134420000041/,,3
+Coca-Cola,KO,2020Q2,2020-06-26,분기말 종가,43.57,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/KO?interval=1d&events=splits (2020-06-26),,3
+Coca-Cola,KO,2020Q2,2020-07-20,분기말 상장주식수,4295438919,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/21344/000002134420000041/,dei:EntityCommonStockSharesOutstanding 클래스 합,3
+Coca-Cola,KO,2020Q2,2020-06-26,분기말 시가총액,187152273701,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/KO?interval=1d&events=splits (2020-06-26) ; https://www.sec.gov/Archives/edgar/data/21344/000002134420000041/,종가 43.57 × 주식수 4295438919,3
+Coca-Cola,KO,2020Q3,2020-09-25,분기별 매출액,8652000000,USD,공시,https://www.sec.gov/Archives/edgar/data/21344/000002134420000046/,,3
+Coca-Cola,KO,2020Q3,2020-09-25,분기별 영업이익,2298000000,USD,공시,https://www.sec.gov/Archives/edgar/data/21344/000002134420000046/,,3
+Coca-Cola,KO,2020Q3,2020-09-25,분기별 당기순이익(지배),1737000000,USD,공시,https://www.sec.gov/Archives/edgar/data/21344/000002134420000046/,,3
+Coca-Cola,KO,2020Q3,2020-09-25,분기별 영업활동현금흐름,3434000000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/21344/000002134420000046/ ; https://www.sec.gov/Archives/edgar/data/21344/000002134420000041/,누적 6220000000 − 직전누적 2786000000 (시작 2020-01-01),3
+Coca-Cola,KO,2020Q3,2020-09-25,분기말 자산총계,97184000000,USD,공시,https://www.sec.gov/Archives/edgar/data/21344/000002134420000046/,,3
+Coca-Cola,KO,2020Q3,2020-09-25,분기말 부채총계,76868000000,USD,계산(부채및자본-총자본),https://www.sec.gov/Archives/edgar/data/21344/000002134420000046/,부채및자본 97184000000 − 총자본 20316000000,3
+Coca-Cola,KO,2020Q3,2020-09-25,분기말 총자본(자기자본),20316000000,USD,공시,https://www.sec.gov/Archives/edgar/data/21344/000002134420000046/,,3
+Coca-Cola,KO,2020Q3,2020-09-25,분기말 지배지분 자본,18607000000,USD,공시,https://www.sec.gov/Archives/edgar/data/21344/000002134420000046/,,3
+Coca-Cola,KO,2020Q3,2020-09-25,분기말 종가,48.72,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/KO?interval=1d&events=splits (2020-09-25),,3
+Coca-Cola,KO,2020Q3,2020-10-19,분기말 상장주식수,4297434612,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/21344/000002134420000046/,dei:EntityCommonStockSharesOutstanding 클래스 합,3
+Coca-Cola,KO,2020Q3,2020-09-25,분기말 시가총액,209371014297,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/KO?interval=1d&events=splits (2020-09-25) ; https://www.sec.gov/Archives/edgar/data/21344/000002134420000046/,종가 48.72 × 주식수 4297434612,3
+Coca-Cola,KO,2020Q4,2020-12-31,분기별 매출액,8611000000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/21344/000002134421000008/ ; https://www.sec.gov/Archives/edgar/data/21344/000002134420000046/,연간 33014000000 − 9개월누적 24403000000 (Revenues),3
+Coca-Cola,KO,2020Q4,2020-12-31,분기별 영업이익,2338000000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/21344/000002134421000008/ ; https://www.sec.gov/Archives/edgar/data/21344/000002134420000046/,연간 8997000000 − 9개월누적 6659000000 (OperatingIncomeLoss),3
+Coca-Cola,KO,2020Q4,2020-12-31,분기별 당기순이익(지배),1456000000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/21344/000002134421000008/ ; https://www.sec.gov/Archives/edgar/data/21344/000002134420000046/,연간 7747000000 − 9개월누적 6291000000 (NetIncomeLoss),3
+Coca-Cola,KO,2020Q4,2020-12-31,분기별 영업활동현금흐름,3624000000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/21344/000002134421000008/ ; https://www.sec.gov/Archives/edgar/data/21344/000002134420000046/,누적 9844000000 − 직전누적 6220000000 (시작 2020-01-01),3
+Coca-Cola,KO,2020Q4,2020-12-31,분기말 자산총계,87296000000,USD,공시,https://www.sec.gov/Archives/edgar/data/21344/000002134421000008/,,3
+Coca-Cola,KO,2020Q4,2020-12-31,분기말 부채총계,66012000000,USD,계산(부채및자본-총자본),https://www.sec.gov/Archives/edgar/data/21344/000002134421000008/,부채및자본 87296000000 − 총자본 21284000000,3
+Coca-Cola,KO,2020Q4,2020-12-31,분기말 총자본(자기자본),21284000000,USD,공시,https://www.sec.gov/Archives/edgar/data/21344/000002134421000008/,,3
+Coca-Cola,KO,2020Q4,2020-12-31,분기말 지배지분 자본,19299000000,USD,공시,https://www.sec.gov/Archives/edgar/data/21344/000002134421000008/,,3
+Coca-Cola,KO,2020Q4,2020-12-31,분기말 종가,54.84,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/KO?interval=1d&events=splits (2020-12-31),,3
+Coca-Cola,KO,2020Q4,2021-02-22,분기말 상장주식수,4309311676,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/21344/000002134421000008/,dei:EntityCommonStockSharesOutstanding 클래스 합,3
+Coca-Cola,KO,2020Q4,2020-12-31,분기말 시가총액,236322652312,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/KO?interval=1d&events=splits (2020-12-31) ; https://www.sec.gov/Archives/edgar/data/21344/000002134421000008/,종가 54.84 × 주식수 4309311676,3
+Coca-Cola,KO,2021Q1,2021-04-02,분기별 매출액,9020000000,USD,공시,https://www.sec.gov/Archives/edgar/data/21344/000002134421000014/,,3
+Coca-Cola,KO,2021Q1,2021-04-02,분기별 영업이익,2722000000,USD,공시,https://www.sec.gov/Archives/edgar/data/21344/000002134421000014/,,3
+Coca-Cola,KO,2021Q1,2021-04-02,분기별 당기순이익(지배),2245000000,USD,공시,https://www.sec.gov/Archives/edgar/data/21344/000002134421000014/,,3
+Coca-Cola,KO,2021Q1,2021-04-02,분기별 영업활동현금흐름,1636000000,USD,공시,https://www.sec.gov/Archives/edgar/data/21344/000002134421000014/,,3
+Coca-Cola,KO,2021Q1,2021-04-02,분기말 자산총계,89993000000,USD,공시,https://www.sec.gov/Archives/edgar/data/21344/000002134421000014/,,3
+Coca-Cola,KO,2021Q1,2021-04-02,분기말 부채총계,67661000000,USD,계산(부채및자본-총자본),https://www.sec.gov/Archives/edgar/data/21344/000002134421000014/,부채및자본 89993000000 − 총자본 22332000000,3
+Coca-Cola,KO,2021Q1,2021-04-02,분기말 총자본(자기자본),22332000000,USD,공시,https://www.sec.gov/Archives/edgar/data/21344/000002134421000014/,,3
+Coca-Cola,KO,2021Q1,2021-04-02,분기말 지배지분 자본,20355000000,USD,공시,https://www.sec.gov/Archives/edgar/data/21344/000002134421000014/,,3
+Coca-Cola,KO,2021Q1,2021-04-01,분기말 종가,52.51,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/KO?interval=1d&events=splits (2021-04-01),,3
+Coca-Cola,KO,2021Q1,2021-04-23,분기말 상장주식수,4311680667,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/21344/000002134421000014/,dei:EntityCommonStockSharesOutstanding 클래스 합,3
+Coca-Cola,KO,2021Q1,2021-04-01,분기말 시가총액,226406351824,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/KO?interval=1d&events=splits (2021-04-01) ; https://www.sec.gov/Archives/edgar/data/21344/000002134421000014/,종가 52.51 × 주식수 4311680667,3
+Coca-Cola,KO,2021Q2,2021-07-02,분기별 매출액,10129000000,USD,공시,https://www.sec.gov/Archives/edgar/data/21344/000002134421000024/,,3
+Coca-Cola,KO,2021Q2,2021-07-02,분기별 영업이익,3016000000,USD,공시,https://www.sec.gov/Archives/edgar/data/21344/000002134421000024/,,3
+Coca-Cola,KO,2021Q2,2021-07-02,분기별 당기순이익(지배),2641000000,USD,공시,https://www.sec.gov/Archives/edgar/data/21344/000002134421000024/,,3
+Coca-Cola,KO,2021Q2,2021-07-02,분기별 영업활동현금흐름,3889000000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/21344/000002134421000024/ ; https://www.sec.gov/Archives/edgar/data/21344/000002134421000014/,누적 5525000000 − 직전누적 1636000000 (시작 2021-01-01),3
+Coca-Cola,KO,2021Q2,2021-07-02,분기말 자산총계,90194000000,USD,공시,https://www.sec.gov/Archives/edgar/data/21344/000002134421000024/,,3
+Coca-Cola,KO,2021Q2,2021-07-02,분기말 부채총계,65939000000,USD,계산(부채및자본-총자본),https://www.sec.gov/Archives/edgar/data/21344/000002134421000024/,부채및자본 90194000000 − 총자본 24255000000,3
+Coca-Cola,KO,2021Q2,2021-07-02,분기말 총자본(자기자본),24255000000,USD,공시,https://www.sec.gov/Archives/edgar/data/21344/000002134421000024/,,3
+Coca-Cola,KO,2021Q2,2021-07-02,분기말 지배지분 자본,22249000000,USD,공시,https://www.sec.gov/Archives/edgar/data/21344/000002134421000024/,,3
+Coca-Cola,KO,2021Q2,2021-07-02,분기말 종가,54.18,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/KO?interval=1d&events=splits (2021-07-02),,3
+Coca-Cola,KO,2021Q2,2021-07-22,분기말 상장주식수,4316618703,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/21344/000002134421000024/,dei:EntityCommonStockSharesOutstanding 클래스 합,3
+Coca-Cola,KO,2021Q2,2021-07-02,분기말 시가총액,233874401329,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/KO?interval=1d&events=splits (2021-07-02) ; https://www.sec.gov/Archives/edgar/data/21344/000002134421000024/,종가 54.18 × 주식수 4316618703,3
+Coca-Cola,KO,2021Q3,2021-10-01,분기별 매출액,10042000000,USD,공시,https://www.sec.gov/Archives/edgar/data/21344/000002134421000030/,,3
+Coca-Cola,KO,2021Q3,2021-10-01,분기별 영업이익,2898000000,USD,공시,https://www.sec.gov/Archives/edgar/data/21344/000002134421000030/,,3
+Coca-Cola,KO,2021Q3,2021-10-01,분기별 당기순이익(지배),2471000000,USD,공시,https://www.sec.gov/Archives/edgar/data/21344/000002134421000030/,,3
+Coca-Cola,KO,2021Q3,2021-10-01,분기별 영업활동현금흐름,3706000000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/21344/000002134421000030/ ; https://www.sec.gov/Archives/edgar/data/21344/000002134421000024/,누적 9231000000 − 직전누적 5525000000 (시작 2021-01-01),3
+Coca-Cola,KO,2021Q3,2021-10-01,분기말 자산총계,90606000000,USD,공시,https://www.sec.gov/Archives/edgar/data/21344/000002134421000030/,,3
+Coca-Cola,KO,2021Q3,2021-10-01,분기말 부채총계,66473000000,USD,계산(부채및자본-총자본),https://www.sec.gov/Archives/edgar/data/21344/000002134421000030/,부채및자본 90606000000 − 총자본 24133000000,3
+Coca-Cola,KO,2021Q3,2021-10-01,분기말 총자본(자기자본),24133000000,USD,공시,https://www.sec.gov/Archives/edgar/data/21344/000002134421000030/,,3
+Coca-Cola,KO,2021Q3,2021-10-01,분기말 지배지분 자본,22179000000,USD,공시,https://www.sec.gov/Archives/edgar/data/21344/000002134421000030/,,3
+Coca-Cola,KO,2021Q3,2021-10-01,분기말 종가,53.02,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/KO?interval=1d&events=splits (2021-10-01),,3
+Coca-Cola,KO,2021Q3,2021-10-25,분기말 상장주식수,4319420236,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/21344/000002134421000030/,dei:EntityCommonStockSharesOutstanding 클래스 합,3
+Coca-Cola,KO,2021Q3,2021-10-01,분기말 시가총액,229015660913,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/KO?interval=1d&events=splits (2021-10-01) ; https://www.sec.gov/Archives/edgar/data/21344/000002134421000030/,종가 53.02 × 주식수 4319420236,3
+Coca-Cola,KO,2021Q4,2021-12-31,분기별 매출액,9464000000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/21344/000002134422000009/ ; https://www.sec.gov/Archives/edgar/data/21344/000002134421000030/,연간 38655000000 − 9개월누적 29191000000 (Revenues),3
+Coca-Cola,KO,2021Q4,2021-12-31,분기별 영업이익,1672000000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/21344/000002134422000009/ ; https://www.sec.gov/Archives/edgar/data/21344/000002134421000030/,연간 10308000000 − 9개월누적 8636000000 (OperatingIncomeLoss),3
+Coca-Cola,KO,2021Q4,2021-12-31,분기별 당기순이익(지배),2414000000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/21344/000002134422000009/ ; https://www.sec.gov/Archives/edgar/data/21344/000002134421000030/,연간 9771000000 − 9개월누적 7357000000 (NetIncomeLoss),3
+Coca-Cola,KO,2021Q4,2021-12-31,분기별 영업활동현금흐름,3394000000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/21344/000002134422000009/ ; https://www.sec.gov/Archives/edgar/data/21344/000002134421000030/,누적 12625000000 − 직전누적 9231000000 (시작 2021-01-01),3
+Coca-Cola,KO,2021Q4,2021-12-31,분기말 자산총계,94354000000,USD,공시,https://www.sec.gov/Archives/edgar/data/21344/000002134422000009/,,3
+Coca-Cola,KO,2021Q4,2021-12-31,분기말 부채총계,69494000000,USD,계산(부채및자본-총자본),https://www.sec.gov/Archives/edgar/data/21344/000002134422000009/,부채및자본 94354000000 − 총자본 24860000000,3
+Coca-Cola,KO,2021Q4,2021-12-31,분기말 총자본(자기자본),24860000000,USD,공시,https://www.sec.gov/Archives/edgar/data/21344/000002134422000009/,,3
+Coca-Cola,KO,2021Q4,2021-12-31,분기말 지배지분 자본,22999000000,USD,공시,https://www.sec.gov/Archives/edgar/data/21344/000002134422000009/,,3
+Coca-Cola,KO,2021Q4,2021-12-31,분기말 종가,59.21,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/KO?interval=1d&events=splits (2021-12-31),,3
+Coca-Cola,KO,2021Q4,2022-02-18,분기말 상장주식수,4335473308,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/21344/000002134422000009/,dei:EntityCommonStockSharesOutstanding 클래스 합,3
+Coca-Cola,KO,2021Q4,2021-12-31,분기말 시가총액,256703374567,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/KO?interval=1d&events=splits (2021-12-31) ; https://www.sec.gov/Archives/edgar/data/21344/000002134422000009/,종가 59.21 × 주식수 4335473308,3
+Coca-Cola,KO,2022Q1,2022-04-01,분기별 매출액,10491000000,USD,공시,https://www.sec.gov/Archives/edgar/data/21344/000002134422000016/,,3
+Coca-Cola,KO,2022Q1,2022-04-01,분기별 영업이익,3405000000,USD,공시,https://www.sec.gov/Archives/edgar/data/21344/000002134422000016/,,3
+Coca-Cola,KO,2022Q1,2022-04-01,분기별 당기순이익(지배),2781000000,USD,공시,https://www.sec.gov/Archives/edgar/data/21344/000002134422000016/,,3
+Coca-Cola,KO,2022Q1,2022-04-01,분기별 영업활동현금흐름,623000000,USD,공시,https://www.sec.gov/Archives/edgar/data/21344/000002134422000016/,,3
+Coca-Cola,KO,2022Q1,2022-04-01,분기말 자산총계,94064000000,USD,공시,https://www.sec.gov/Archives/edgar/data/21344/000002134422000016/,,3
+Coca-Cola,KO,2022Q1,2022-04-01,분기말 부채총계,67223000000,USD,계산(부채및자본-총자본),https://www.sec.gov/Archives/edgar/data/21344/000002134422000016/,부채및자본 94064000000 − 총자본 26841000000,3
+Coca-Cola,KO,2022Q1,2022-04-01,분기말 총자본(자기자본),26841000000,USD,공시,https://www.sec.gov/Archives/edgar/data/21344/000002134422000016/,,3
+Coca-Cola,KO,2022Q1,2022-04-01,분기말 지배지분 자본,24845000000,USD,공시,https://www.sec.gov/Archives/edgar/data/21344/000002134422000016/,,3
+Coca-Cola,KO,2022Q1,2022-04-01,분기말 종가,62.87,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/KO?interval=1d&events=splits (2022-04-01),,3
+Coca-Cola,KO,2022Q1,2022-04-26,분기말 상장주식수,4335028727,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/21344/000002134422000016/,dei:EntityCommonStockSharesOutstanding 클래스 합,3
+Coca-Cola,KO,2022Q1,2022-04-01,분기말 시가총액,272543256066,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/KO?interval=1d&events=splits (2022-04-01) ; https://www.sec.gov/Archives/edgar/data/21344/000002134422000016/,종가 62.87 × 주식수 4335028727,3
+Coca-Cola,KO,2022Q2,2022-07-01,분기별 매출액,11325000000,USD,공시,https://www.sec.gov/Archives/edgar/data/21344/000002134422000034/,,3
+Coca-Cola,KO,2022Q2,2022-07-01,분기별 영업이익,2341000000,USD,공시,https://www.sec.gov/Archives/edgar/data/21344/000002134422000034/,,3
+Coca-Cola,KO,2022Q2,2022-07-01,분기별 당기순이익(지배),1905000000,USD,공시,https://www.sec.gov/Archives/edgar/data/21344/000002134422000034/,,3
+Coca-Cola,KO,2022Q2,2022-07-01,분기별 영업활동현금흐름,3923000000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/21344/000002134422000034/ ; https://www.sec.gov/Archives/edgar/data/21344/000002134422000016/,누적 4546000000 − 직전누적 623000000 (시작 2022-01-01),3
+Coca-Cola,KO,2022Q2,2022-07-01,분기말 자산총계,93169000000,USD,공시,https://www.sec.gov/Archives/edgar/data/21344/000002134422000034/,,3
+Coca-Cola,KO,2022Q2,2022-07-01,분기말 부채총계,68366000000,USD,계산(부채및자본-총자본),https://www.sec.gov/Archives/edgar/data/21344/000002134422000034/,부채및자본 93169000000 − 총자본 24803000000,3
+Coca-Cola,KO,2022Q2,2022-07-01,분기말 총자본(자기자본),24803000000,USD,공시,https://www.sec.gov/Archives/edgar/data/21344/000002134422000034/,,3
+Coca-Cola,KO,2022Q2,2022-07-01,분기말 지배지분 자본,23005000000,USD,공시,https://www.sec.gov/Archives/edgar/data/21344/000002134422000034/,,3
+Coca-Cola,KO,2022Q2,2022-07-01,분기말 종가,64.38,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/KO?interval=1d&events=splits (2022-07-01),,3
+Coca-Cola,KO,2022Q2,2022-07-25,분기말 상장주식수,4324629174,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/21344/000002134422000034/,dei:EntityCommonStockSharesOutstanding 클래스 합,3
+Coca-Cola,KO,2022Q2,2022-07-01,분기말 시가총액,278419626222,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/KO?interval=1d&events=splits (2022-07-01) ; https://www.sec.gov/Archives/edgar/data/21344/000002134422000034/,종가 64.38 × 주식수 4324629174,3
+Coca-Cola,KO,2022Q3,2022-09-30,분기별 매출액,11063000000,USD,공시,https://www.sec.gov/Archives/edgar/data/21344/000002134422000042/,,3
+Coca-Cola,KO,2022Q3,2022-09-30,분기별 영업이익,3088000000,USD,공시,https://www.sec.gov/Archives/edgar/data/21344/000002134422000042/,,3
+Coca-Cola,KO,2022Q3,2022-09-30,분기별 당기순이익(지배),2825000000,USD,공시,https://www.sec.gov/Archives/edgar/data/21344/000002134422000042/,,3
+Coca-Cola,KO,2022Q3,2022-09-30,분기별 영업활동현금흐름,3522000000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/21344/000002134422000042/ ; https://www.sec.gov/Archives/edgar/data/21344/000002134422000034/,누적 8068000000 − 직전누적 4546000000 (시작 2022-01-01),3
+Coca-Cola,KO,2022Q3,2022-09-30,분기말 자산총계,92471000000,USD,공시,https://www.sec.gov/Archives/edgar/data/21344/000002134422000042/,,3
+Coca-Cola,KO,2022Q3,2022-09-30,분기말 부채총계,68035000000,USD,계산(부채및자본-총자본),https://www.sec.gov/Archives/edgar/data/21344/000002134422000042/,부채및자본 92471000000 − 총자본 24436000000,3
+Coca-Cola,KO,2022Q3,2022-09-30,분기말 총자본(자기자본),24436000000,USD,공시,https://www.sec.gov/Archives/edgar/data/21344/000002134422000042/,,3
+Coca-Cola,KO,2022Q3,2022-09-30,분기말 지배지분 자본,22805000000,USD,공시,https://www.sec.gov/Archives/edgar/data/21344/000002134422000042/,,3
+Coca-Cola,KO,2022Q3,2022-09-30,분기말 종가,56.02,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/KO?interval=1d&events=splits (2022-09-30),,3
+Coca-Cola,KO,2022Q3,2022-10-24,분기말 상장주식수,4324513264,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/21344/000002134422000042/,dei:EntityCommonStockSharesOutstanding 클래스 합,3
+Coca-Cola,KO,2022Q3,2022-09-30,분기말 시가총액,242259233049,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/KO?interval=1d&events=splits (2022-09-30) ; https://www.sec.gov/Archives/edgar/data/21344/000002134422000042/,종가 56.02 × 주식수 4324513264,3
+Coca-Cola,KO,2022Q4,2022-12-31,분기별 매출액,10125000000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/21344/000002134423000011/ ; https://www.sec.gov/Archives/edgar/data/21344/000002134422000042/,연간 43004000000 − 9개월누적 32879000000 (Revenues),3
+Coca-Cola,KO,2022Q4,2022-12-31,분기별 영업이익,2075000000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/21344/000002134423000011/ ; https://www.sec.gov/Archives/edgar/data/21344/000002134422000042/,연간 10909000000 − 9개월누적 8834000000 (OperatingIncomeLoss),3
+Coca-Cola,KO,2022Q4,2022-12-31,분기별 당기순이익(지배),2031000000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/21344/000002134423000011/ ; https://www.sec.gov/Archives/edgar/data/21344/000002134422000042/,연간 9542000000 − 9개월누적 7511000000 (NetIncomeLoss),3
+Coca-Cola,KO,2022Q4,2022-12-31,분기별 영업활동현금흐름,2950000000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/21344/000002134423000011/ ; https://www.sec.gov/Archives/edgar/data/21344/000002134422000042/,누적 11018000000 − 직전누적 8068000000 (시작 2022-01-01),3
+Coca-Cola,KO,2022Q4,2022-12-31,분기말 자산총계,92763000000,USD,공시,https://www.sec.gov/Archives/edgar/data/21344/000002134423000011/,,3
+Coca-Cola,KO,2022Q4,2022-12-31,분기말 부채총계,66937000000,USD,계산(부채및자본-총자본),https://www.sec.gov/Archives/edgar/data/21344/000002134423000011/,부채및자본 92763000000 − 총자본 25826000000,3
+Coca-Cola,KO,2022Q4,2022-12-31,분기말 총자본(자기자본),25826000000,USD,공시,https://www.sec.gov/Archives/edgar/data/21344/000002134423000011/,,3
+Coca-Cola,KO,2022Q4,2022-12-31,분기말 지배지분 자본,24105000000,USD,공시,https://www.sec.gov/Archives/edgar/data/21344/000002134423000011/,,3
+Coca-Cola,KO,2022Q4,2022-12-30,분기말 종가,63.61,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/KO?interval=1d&events=splits (2022-12-30),,3
+Coca-Cola,KO,2022Q4,2023-02-17,분기말 상장주식수,4326691783,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/21344/000002134423000011/,dei:EntityCommonStockSharesOutstanding 클래스 합,3
+Coca-Cola,KO,2022Q4,2022-12-30,분기말 시가총액,275220864317,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/KO?interval=1d&events=splits (2022-12-30) ; https://www.sec.gov/Archives/edgar/data/21344/000002134423000011/,종가 63.61 × 주식수 4326691783,3
+Coca-Cola,KO,2023Q1,2023-03-31,분기별 매출액,10980000000,USD,공시,https://www.sec.gov/Archives/edgar/data/21344/000002134423000024/,,3
+Coca-Cola,KO,2023Q1,2023-03-31,분기별 영업이익,3367000000,USD,공시,https://www.sec.gov/Archives/edgar/data/21344/000002134423000024/,,3
+Coca-Cola,KO,2023Q1,2023-03-31,분기별 당기순이익(지배),3107000000,USD,공시,https://www.sec.gov/Archives/edgar/data/21344/000002134423000024/,,3
+Coca-Cola,KO,2023Q1,2023-03-31,분기별 영업활동현금흐름,160000000,USD,공시,https://www.sec.gov/Archives/edgar/data/21344/000002134423000024/,,3
+Coca-Cola,KO,2023Q1,2023-03-31,분기말 자산총계,97404000000,USD,공시,https://www.sec.gov/Archives/edgar/data/21344/000002134423000024/,,3
+Coca-Cola,KO,2023Q1,2023-03-31,분기말 부채총계,70536000000,USD,계산(부채및자본-총자본),https://www.sec.gov/Archives/edgar/data/21344/000002134423000024/,부채및자본 97404000000 − 총자본 26868000000,3
+Coca-Cola,KO,2023Q1,2023-03-31,분기말 총자본(자기자본),26868000000,USD,공시,https://www.sec.gov/Archives/edgar/data/21344/000002134423000024/,,3
+Coca-Cola,KO,2023Q1,2023-03-31,분기말 지배지분 자본,25217000000,USD,공시,https://www.sec.gov/Archives/edgar/data/21344/000002134423000024/,,3
+Coca-Cola,KO,2023Q1,2023-03-31,분기말 종가,62.03,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/KO?interval=1d&events=splits (2023-03-31),,3
+Coca-Cola,KO,2023Q1,2023-04-24,분기말 상장주식수,4324578189,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/21344/000002134423000024/,dei:EntityCommonStockSharesOutstanding 클래스 합,3
+Coca-Cola,KO,2023Q1,2023-03-31,분기말 시가총액,268253585064,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/KO?interval=1d&events=splits (2023-03-31) ; https://www.sec.gov/Archives/edgar/data/21344/000002134423000024/,종가 62.03 × 주식수 4324578189,3
+Coca-Cola,KO,2023Q2,2023-06-30,분기별 매출액,11972000000,USD,공시,https://www.sec.gov/Archives/edgar/data/21344/000002134423000048/,,3
+Coca-Cola,KO,2023Q2,2023-06-30,분기별 영업이익,2401000000,USD,공시,https://www.sec.gov/Archives/edgar/data/21344/000002134423000048/,,3
+Coca-Cola,KO,2023Q2,2023-06-30,분기별 당기순이익(지배),2547000000,USD,공시,https://www.sec.gov/Archives/edgar/data/21344/000002134423000048/,,3
+Coca-Cola,KO,2023Q2,2023-06-30,분기별 영업활동현금흐름,4469000000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/21344/000002134423000048/ ; https://www.sec.gov/Archives/edgar/data/21344/000002134423000024/,누적 4629000000 − 직전누적 160000000 (시작 2023-01-01),3
+Coca-Cola,KO,2023Q2,2023-06-30,분기말 자산총계,98456000000,USD,공시,https://www.sec.gov/Archives/edgar/data/21344/000002134423000048/,,3
+Coca-Cola,KO,2023Q2,2023-06-30,분기말 부채총계,70904000000,USD,계산(부채및자본-총자본),https://www.sec.gov/Archives/edgar/data/21344/000002134423000048/,부채및자본 98456000000 − 총자본 27552000000,3
+Coca-Cola,KO,2023Q2,2023-06-30,분기말 총자본(자기자본),27552000000,USD,공시,https://www.sec.gov/Archives/edgar/data/21344/000002134423000048/,,3
+Coca-Cola,KO,2023Q2,2023-06-30,분기말 지배지분 자본,26013000000,USD,공시,https://www.sec.gov/Archives/edgar/data/21344/000002134423000048/,,3
+Coca-Cola,KO,2023Q2,2023-06-30,분기말 종가,60.22,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/KO?interval=1d&events=splits (2023-06-30),,3
+Coca-Cola,KO,2023Q2,2023-07-25,분기말 상장주식수,4324344812,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/21344/000002134423000048/,dei:EntityCommonStockSharesOutstanding 클래스 합,3
+Coca-Cola,KO,2023Q2,2023-06-30,분기말 시가총액,260412044579,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/KO?interval=1d&events=splits (2023-06-30) ; https://www.sec.gov/Archives/edgar/data/21344/000002134423000048/,종가 60.22 × 주식수 4324344812,3
+Coca-Cola,KO,2023Q3,2023-09-29,분기별 매출액,11953000000,USD,공시,https://www.sec.gov/Archives/edgar/data/21344/000002134423000060/,,3
+Coca-Cola,KO,2023Q3,2023-09-29,분기별 영업이익,3270000000,USD,공시,https://www.sec.gov/Archives/edgar/data/21344/000002134423000060/,,3
+Coca-Cola,KO,2023Q3,2023-09-29,분기별 당기순이익(지배),3087000000,USD,공시,https://www.sec.gov/Archives/edgar/data/21344/000002134423000060/,,3
+Coca-Cola,KO,2023Q3,2023-09-29,분기별 영업활동현금흐름,4300000000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/21344/000002134423000060/ ; https://www.sec.gov/Archives/edgar/data/21344/000002134423000048/,누적 8929000000 − 직전누적 4629000000 (시작 2023-01-01),3
+Coca-Cola,KO,2023Q3,2023-09-29,분기말 자산총계,97578000000,USD,공시,https://www.sec.gov/Archives/edgar/data/21344/000002134423000060/,,3
+Coca-Cola,KO,2023Q3,2023-09-29,분기말 부채총계,69745000000,USD,계산(부채및자본-총자본),https://www.sec.gov/Archives/edgar/data/21344/000002134423000060/,부채및자본 97578000000 − 총자본 27833000000,3
+Coca-Cola,KO,2023Q3,2023-09-29,분기말 총자본(자기자본),27833000000,USD,공시,https://www.sec.gov/Archives/edgar/data/21344/000002134423000060/,,3
+Coca-Cola,KO,2023Q3,2023-09-29,분기말 지배지분 자본,26325000000,USD,공시,https://www.sec.gov/Archives/edgar/data/21344/000002134423000060/,,3
+Coca-Cola,KO,2023Q3,2023-09-29,분기말 종가,55.98,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/KO?interval=1d&events=splits (2023-09-29),,3
+Coca-Cola,KO,2023Q3,2023-10-20,분기말 상장주식수,4323413810,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/21344/000002134423000060/,dei:EntityCommonStockSharesOutstanding 클래스 합,3
+Coca-Cola,KO,2023Q3,2023-09-29,분기말 시가총액,242024705084,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/KO?interval=1d&events=splits (2023-09-29) ; https://www.sec.gov/Archives/edgar/data/21344/000002134423000060/,종가 55.98 × 주식수 4323413810,3
+Coca-Cola,KO,2023Q4,2023-12-31,분기별 매출액,10849000000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/21344/000002134424000009/ ; https://www.sec.gov/Archives/edgar/data/21344/000002134423000060/,연간 45754000000 − 9개월누적 34905000000 (Revenues),3
+Coca-Cola,KO,2023Q4,2023-12-31,분기별 영업이익,2273000000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/21344/000002134424000009/ ; https://www.sec.gov/Archives/edgar/data/21344/000002134423000060/,연간 11311000000 − 9개월누적 9038000000 (OperatingIncomeLoss),3
+Coca-Cola,KO,2023Q4,2023-12-31,분기별 당기순이익(지배),1973000000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/21344/000002134424000009/ ; https://www.sec.gov/Archives/edgar/data/21344/000002134423000060/,연간 10714000000 − 9개월누적 8741000000 (NetIncomeLoss),3
+Coca-Cola,KO,2023Q4,2023-12-31,분기별 영업활동현금흐름,2670000000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/21344/000002134424000009/ ; https://www.sec.gov/Archives/edgar/data/21344/000002134423000060/,누적 11599000000 − 직전누적 8929000000 (시작 2023-01-01),3
+Coca-Cola,KO,2023Q4,2023-12-31,분기말 자산총계,97703000000,USD,공시,https://www.sec.gov/Archives/edgar/data/21344/000002134424000009/,,3
+Coca-Cola,KO,2023Q4,2023-12-31,분기말 부채총계,70223000000,USD,계산(부채및자본-총자본),https://www.sec.gov/Archives/edgar/data/21344/000002134424000009/,부채및자본 97703000000 − 총자본 27480000000,3
+Coca-Cola,KO,2023Q4,2023-12-31,분기말 총자본(자기자본),27480000000,USD,공시,https://www.sec.gov/Archives/edgar/data/21344/000002134424000009/,,3
+Coca-Cola,KO,2023Q4,2023-12-31,분기말 지배지분 자본,25941000000,USD,공시,https://www.sec.gov/Archives/edgar/data/21344/000002134424000009/,,3
+Coca-Cola,KO,2023Q4,2023-12-29,분기말 종가,58.93,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/KO?interval=1d&events=splits (2023-12-29),,3
+Coca-Cola,KO,2023Q4,2024-02-16,분기말 상장주식수,4312456168,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/21344/000002134424000009/,dei:EntityCommonStockSharesOutstanding 클래스 합,3
+Coca-Cola,KO,2023Q4,2023-12-29,분기말 시가총액,254133041980,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/KO?interval=1d&events=splits (2023-12-29) ; https://www.sec.gov/Archives/edgar/data/21344/000002134424000009/,종가 58.93 × 주식수 4312456168,3
+Coca-Cola,KO,2024Q1,2024-03-29,분기별 매출액,11300000000,USD,공시,https://www.sec.gov/Archives/edgar/data/21344/000002134424000017/,,3
+Coca-Cola,KO,2024Q1,2024-03-29,분기별 영업이익,2141000000,USD,공시,https://www.sec.gov/Archives/edgar/data/21344/000002134424000017/,,3
+Coca-Cola,KO,2024Q1,2024-03-29,분기별 당기순이익(지배),3177000000,USD,공시,https://www.sec.gov/Archives/edgar/data/21344/000002134424000017/,,3
+Coca-Cola,KO,2024Q1,2024-03-29,분기별 영업활동현금흐름,528000000,USD,공시,https://www.sec.gov/Archives/edgar/data/21344/000002134424000017/,,3
+Coca-Cola,KO,2024Q1,2024-03-29,분기말 자산총계,99392000000,USD,공시,https://www.sec.gov/Archives/edgar/data/21344/000002134424000017/,,3
+Coca-Cola,KO,2024Q1,2024-03-29,분기말 부채총계,71446000000,USD,계산(부채및자본-총자본),https://www.sec.gov/Archives/edgar/data/21344/000002134424000017/,부채및자본 99392000000 − 총자본 27946000000,3
+Coca-Cola,KO,2024Q1,2024-03-29,분기말 총자본(자기자본),27946000000,USD,공시,https://www.sec.gov/Archives/edgar/data/21344/000002134424000017/,,3
+Coca-Cola,KO,2024Q1,2024-03-29,분기말 지배지분 자본,26429000000,USD,공시,https://www.sec.gov/Archives/edgar/data/21344/000002134424000017/,,3
+Coca-Cola,KO,2024Q1,2024-03-28,분기말 종가,61.18,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/KO?interval=1d&events=splits (2024-03-28),,3
+Coca-Cola,KO,2024Q1,2024-04-30,분기말 상장주식수,4307955307,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/21344/000002134424000019/,dei:EntityCommonStockSharesOutstanding 클래스 합 ; 값은 XBRL 원문(companyfacts 미반영 보고서),3
+Coca-Cola,KO,2024Q1,2024-03-28,분기말 시가총액,263560705682,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/KO?interval=1d&events=splits (2024-03-28) ; https://www.sec.gov/Archives/edgar/data/21344/000002134424000019/,종가 61.18 × 주식수 4307955307 ; 값은 XBRL 원문(companyfacts 미반영 보고서),3
+Coca-Cola,KO,2024Q2,2024-06-28,분기별 매출액,12363000000,USD,공시,https://www.sec.gov/Archives/edgar/data/21344/000002134424000044/,,3
+Coca-Cola,KO,2024Q2,2024-06-28,분기별 영업이익,2632000000,USD,공시,https://www.sec.gov/Archives/edgar/data/21344/000002134424000044/,,3
+Coca-Cola,KO,2024Q2,2024-06-28,분기별 당기순이익(지배),2411000000,USD,공시,https://www.sec.gov/Archives/edgar/data/21344/000002134424000044/,,3
+Coca-Cola,KO,2024Q2,2024-06-28,분기별 영업활동현금흐름,3585000000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/21344/000002134424000044/ ; https://www.sec.gov/Archives/edgar/data/21344/000002134424000017/,누적 4113000000 − 직전누적 528000000 (시작 2024-01-01),3
+Coca-Cola,KO,2024Q2,2024-06-28,분기말 자산총계,101202000000,USD,공시,https://www.sec.gov/Archives/edgar/data/21344/000002134424000044/,,3
+Coca-Cola,KO,2024Q2,2024-06-28,분기말 부채총계,73791000000,USD,계산(부채및자본-총자본),https://www.sec.gov/Archives/edgar/data/21344/000002134424000044/,부채및자본 101202000000 − 총자본 27411000000,3
+Coca-Cola,KO,2024Q2,2024-06-28,분기말 총자본(자기자본),27411000000,USD,공시,https://www.sec.gov/Archives/edgar/data/21344/000002134424000044/,,3
+Coca-Cola,KO,2024Q2,2024-06-28,분기말 지배지분 자본,25853000000,USD,공시,https://www.sec.gov/Archives/edgar/data/21344/000002134424000044/,,3
+Coca-Cola,KO,2024Q2,2024-06-28,분기말 종가,63.65,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/KO?interval=1d&events=splits (2024-06-28),,3
+Coca-Cola,KO,2024Q2,2024-07-25,분기말 상장주식수,4309868150,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/21344/000002134424000044/,dei:EntityCommonStockSharesOutstanding 클래스 합,3
+Coca-Cola,KO,2024Q2,2024-06-28,분기말 시가총액,274323107748,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/KO?interval=1d&events=splits (2024-06-28) ; https://www.sec.gov/Archives/edgar/data/21344/000002134424000044/,종가 63.65 × 주식수 4309868150,3
+Coca-Cola,KO,2024Q3,2024-09-27,분기별 매출액,11854000000,USD,공시,https://www.sec.gov/Archives/edgar/data/21344/000002134424000060/,,3
+Coca-Cola,KO,2024Q3,2024-09-27,분기별 영업이익,2510000000,USD,공시,https://www.sec.gov/Archives/edgar/data/21344/000002134424000060/,,3
+Coca-Cola,KO,2024Q3,2024-09-27,분기별 당기순이익(지배),2848000000,USD,공시,https://www.sec.gov/Archives/edgar/data/21344/000002134424000060/,,3
+Coca-Cola,KO,2024Q3,2024-09-27,분기별 영업활동현금흐름,-1259000000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/21344/000002134424000060/ ; https://www.sec.gov/Archives/edgar/data/21344/000002134424000044/,누적 2854000000 − 직전누적 4113000000 (시작 2024-01-01),3
+Coca-Cola,KO,2024Q3,2024-09-27,분기말 자산총계,106266000000,USD,공시,https://www.sec.gov/Archives/edgar/data/21344/000002134424000060/,,3
+Coca-Cola,KO,2024Q3,2024-09-27,분기말 부채총계,78112000000,USD,계산(부채및자본-총자본),https://www.sec.gov/Archives/edgar/data/21344/000002134424000060/,부채및자본 106266000000 − 총자본 28154000000,3
+Coca-Cola,KO,2024Q3,2024-09-27,분기말 총자본(자기자본),28154000000,USD,공시,https://www.sec.gov/Archives/edgar/data/21344/000002134424000060/,,3
+Coca-Cola,KO,2024Q3,2024-09-27,분기말 지배지분 자본,26518000000,USD,공시,https://www.sec.gov/Archives/edgar/data/21344/000002134424000060/,,3
+Coca-Cola,KO,2024Q3,2024-09-27,분기말 종가,71.79,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/KO?interval=1d&events=splits (2024-09-27),,3
+Coca-Cola,KO,2024Q3,2024-10-22,분기말 상장주식수,4307797138,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/21344/000002134424000060/,dei:EntityCommonStockSharesOutstanding 클래스 합,3
+Coca-Cola,KO,2024Q3,2024-09-27,분기말 시가총액,309256756537,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/KO?interval=1d&events=splits (2024-09-27) ; https://www.sec.gov/Archives/edgar/data/21344/000002134424000060/,종가 71.79 × 주식수 4307797138,3
+Coca-Cola,KO,2024Q4,2024-12-31,분기별 매출액,11544000000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/21344/000002134425000011/ ; https://www.sec.gov/Archives/edgar/data/21344/000002134424000060/,연간 47061000000 − 9개월누적 35517000000 (Revenues),3
+Coca-Cola,KO,2024Q4,2024-12-31,분기별 영업이익,2709000000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/21344/000002134425000011/ ; https://www.sec.gov/Archives/edgar/data/21344/000002134424000060/,연간 9992000000 − 9개월누적 7283000000 (OperatingIncomeLoss),3
+Coca-Cola,KO,2024Q4,2024-12-31,분기별 당기순이익(지배),2195000000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/21344/000002134425000011/ ; https://www.sec.gov/Archives/edgar/data/21344/000002134424000060/,연간 10631000000 − 9개월누적 8436000000 (NetIncomeLoss),3
+Coca-Cola,KO,2024Q4,2024-12-31,분기별 영업활동현금흐름,3951000000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/21344/000002134425000011/ ; https://www.sec.gov/Archives/edgar/data/21344/000002134424000060/,누적 6805000000 − 직전누적 2854000000 (시작 2024-01-01),3
+Coca-Cola,KO,2024Q4,2024-12-31,분기말 자산총계,100549000000,USD,공시,https://www.sec.gov/Archives/edgar/data/21344/000002134425000011/,,3
+Coca-Cola,KO,2024Q4,2024-12-31,분기말 부채총계,74177000000,USD,계산(부채및자본-총자본),https://www.sec.gov/Archives/edgar/data/21344/000002134425000011/,부채및자본 100549000000 − 총자본 26372000000,3
+Coca-Cola,KO,2024Q4,2024-12-31,분기말 총자본(자기자본),26372000000,USD,공시,https://www.sec.gov/Archives/edgar/data/21344/000002134425000011/,,3
+Coca-Cola,KO,2024Q4,2024-12-31,분기말 지배지분 자본,24856000000,USD,공시,https://www.sec.gov/Archives/edgar/data/21344/000002134425000011/,,3
+Coca-Cola,KO,2024Q4,2024-12-31,분기말 종가,62.26,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/KO?interval=1d&events=splits (2024-12-31),,3
+Coca-Cola,KO,2024Q4,2025-02-18,분기말 상장주식수,4301000395,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/21344/000002134425000011/,dei:EntityCommonStockSharesOutstanding 클래스 합,3
+Coca-Cola,KO,2024Q4,2024-12-31,분기말 시가총액,267780284593,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/KO?interval=1d&events=splits (2024-12-31) ; https://www.sec.gov/Archives/edgar/data/21344/000002134425000011/,종가 62.26 × 주식수 4301000395,3
+Coca-Cola,KO,2025Q1,2025-03-28,분기별 매출액,11129000000,USD,공시,https://www.sec.gov/Archives/edgar/data/21344/000002134425000029/,,3
+Coca-Cola,KO,2025Q1,2025-03-28,분기별 영업이익,3659000000,USD,공시,https://www.sec.gov/Archives/edgar/data/21344/000002134425000029/,,3
+Coca-Cola,KO,2025Q1,2025-03-28,분기별 당기순이익(지배),3330000000,USD,공시,https://www.sec.gov/Archives/edgar/data/21344/000002134425000029/,,3
+Coca-Cola,KO,2025Q1,2025-03-28,분기별 영업활동현금흐름,-5202000000,USD,공시,https://www.sec.gov/Archives/edgar/data/21344/000002134425000029/,,3
+Coca-Cola,KO,2025Q1,2025-03-28,분기말 자산총계,101716000000,USD,공시,https://www.sec.gov/Archives/edgar/data/21344/000002134425000029/,,3
+Coca-Cola,KO,2025Q1,2025-03-28,분기말 부채총계,73962000000,USD,계산(부채및자본-총자본),https://www.sec.gov/Archives/edgar/data/21344/000002134425000029/,부채및자본 101716000000 − 총자본 27754000000,3
+Coca-Cola,KO,2025Q1,2025-03-28,분기말 총자본(자기자본),27754000000,USD,공시,https://www.sec.gov/Archives/edgar/data/21344/000002134425000029/,,3
+Coca-Cola,KO,2025Q1,2025-03-28,분기말 지배지분 자본,26202000000,USD,공시,https://www.sec.gov/Archives/edgar/data/21344/000002134425000029/,,3
+Coca-Cola,KO,2025Q1,2025-03-28,분기말 종가,70.37,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/KO?interval=1d&events=splits (2025-03-28),,3
+Coca-Cola,KO,2025Q1,2025-04-29,분기말 상장주식수,4304266738,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/21344/000002134425000029/,dei:EntityCommonStockSharesOutstanding 클래스 합,3
+Coca-Cola,KO,2025Q1,2025-03-28,분기말 시가총액,302891250353,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/KO?interval=1d&events=splits (2025-03-28) ; https://www.sec.gov/Archives/edgar/data/21344/000002134425000029/,종가 70.37 × 주식수 4304266738,3
+Coca-Cola,KO,2025Q2,2025-06-27,분기별 매출액,12535000000,USD,공시,https://www.sec.gov/Archives/edgar/data/21344/000002134425000061/,,3
+Coca-Cola,KO,2025Q2,2025-06-27,분기별 영업이익,4280000000,USD,공시,https://www.sec.gov/Archives/edgar/data/21344/000002134425000061/,,3
+Coca-Cola,KO,2025Q2,2025-06-27,분기별 당기순이익(지배),3810000000,USD,공시,https://www.sec.gov/Archives/edgar/data/21344/000002134425000061/,,3
+Coca-Cola,KO,2025Q2,2025-06-27,분기별 영업활동현금흐름,3811000000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/21344/000002134425000061/ ; https://www.sec.gov/Archives/edgar/data/21344/000002134425000029/,누적 -1391000000 − 직전누적 -5202000000 (시작 2025-01-01),3
+Coca-Cola,KO,2025Q2,2025-06-27,분기말 자산총계,104333000000,USD,공시,https://www.sec.gov/Archives/edgar/data/21344/000002134425000061/,,3
+Coca-Cola,KO,2025Q2,2025-06-27,분기말 부채총계,74151000000,USD,계산(부채및자본-총자본),https://www.sec.gov/Archives/edgar/data/21344/000002134425000061/,부채및자본 104333000000 − 총자본 30182000000,3
+Coca-Cola,KO,2025Q2,2025-06-27,분기말 총자본(자기자본),30182000000,USD,공시,https://www.sec.gov/Archives/edgar/data/21344/000002134425000061/,,3
+Coca-Cola,KO,2025Q2,2025-06-27,분기말 지배지분 자본,28585000000,USD,공시,https://www.sec.gov/Archives/edgar/data/21344/000002134425000061/,,3
+Coca-Cola,KO,2025Q2,2025-06-27,분기말 종가,70.33,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/KO?interval=1d&events=splits (2025-06-27),,3
+Coca-Cola,KO,2025Q2,2025-07-22,분기말 상장주식수,4303667252,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/21344/000002134425000061/,dei:EntityCommonStockSharesOutstanding 클래스 합,3
+Coca-Cola,KO,2025Q2,2025-06-27,분기말 시가총액,302676917833,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/KO?interval=1d&events=splits (2025-06-27) ; https://www.sec.gov/Archives/edgar/data/21344/000002134425000061/,종가 70.33 × 주식수 4303667252,3
+Coca-Cola,KO,2025Q3,2025-09-26,분기별 매출액,12455000000,USD,공시,https://www.sec.gov/Archives/edgar/data/21344/000162828025046054/,,3
+Coca-Cola,KO,2025Q3,2025-09-26,분기별 영업이익,3982000000,USD,공시,https://www.sec.gov/Archives/edgar/data/21344/000162828025046054/,,3
+Coca-Cola,KO,2025Q3,2025-09-26,분기별 당기순이익(지배),3696000000,USD,공시,https://www.sec.gov/Archives/edgar/data/21344/000162828025046054/,,3
+Coca-Cola,KO,2025Q3,2025-09-26,분기별 영업활동현금흐름,5043000000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/21344/000162828025046054/ ; https://www.sec.gov/Archives/edgar/data/21344/000002134425000061/,누적 3652000000 − 직전누적 -1391000000 (시작 2025-01-01),3
+Coca-Cola,KO,2025Q3,2025-09-26,분기말 자산총계,106045000000,USD,공시,https://www.sec.gov/Archives/edgar/data/21344/000162828025046054/,,3
+Coca-Cola,KO,2025Q3,2025-09-26,분기말 부채총계,72778000000,USD,계산(부채및자본-총자본),https://www.sec.gov/Archives/edgar/data/21344/000162828025046054/,부채및자본 106045000000 − 총자본 33267000000,3
+Coca-Cola,KO,2025Q3,2025-09-26,분기말 총자본(자기자본),33267000000,USD,공시,https://www.sec.gov/Archives/edgar/data/21344/000162828025046054/,,3
+Coca-Cola,KO,2025Q3,2025-09-26,분기말 지배지분 자본,31247000000,USD,공시,https://www.sec.gov/Archives/edgar/data/21344/000162828025046054/,,3
+Coca-Cola,KO,2025Q3,2025-09-26,분기말 종가,65.67,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/KO?interval=1d&events=splits (2025-09-26),,3
+Coca-Cola,KO,2025Q3,2025-10-21,분기말 상장주식수,4301608845,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/21344/000162828025046054/,dei:EntityCommonStockSharesOutstanding 클래스 합,3
+Coca-Cola,KO,2025Q3,2025-09-26,분기말 시가총액,282486652851,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/KO?interval=1d&events=splits (2025-09-26) ; https://www.sec.gov/Archives/edgar/data/21344/000162828025046054/,종가 65.67 × 주식수 4301608845,3
+Coca-Cola,KO,2025Q4,2025-12-31,분기별 매출액,11822000000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/21344/000162828026010047/ ; https://www.sec.gov/Archives/edgar/data/21344/000162828025046054/,연간 47941000000 − 9개월누적 36119000000 (Revenues),3
+Coca-Cola,KO,2025Q4,2025-12-31,분기별 영업이익,1841000000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/21344/000162828026010047/ ; https://www.sec.gov/Archives/edgar/data/21344/000162828025046054/,연간 13762000000 − 9개월누적 11921000000 (OperatingIncomeLoss),3
+Coca-Cola,KO,2025Q4,2025-12-31,분기별 당기순이익(지배),2271000000,USD,계산(연간-3분기누적),https://www.sec.gov/Archives/edgar/data/21344/000162828026010047/ ; https://www.sec.gov/Archives/edgar/data/21344/000162828025046054/,연간 13107000000 − 9개월누적 10836000000 (NetIncomeLoss),3
+Coca-Cola,KO,2025Q4,2025-12-31,분기별 영업활동현금흐름,3756000000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/21344/000162828026010047/ ; https://www.sec.gov/Archives/edgar/data/21344/000162828025046054/,누적 7408000000 − 직전누적 3652000000 (시작 2025-01-01),3
+Coca-Cola,KO,2025Q4,2025-12-31,분기말 자산총계,104816000000,USD,공시,https://www.sec.gov/Archives/edgar/data/21344/000162828026010047/,,3
+Coca-Cola,KO,2025Q4,2025-12-31,분기말 부채총계,70541000000,USD,계산(부채및자본-총자본),https://www.sec.gov/Archives/edgar/data/21344/000162828026010047/,부채및자본 104816000000 − 총자본 34275000000,3
+Coca-Cola,KO,2025Q4,2025-12-31,분기말 총자본(자기자본),34275000000,USD,공시,https://www.sec.gov/Archives/edgar/data/21344/000162828026010047/,,3
+Coca-Cola,KO,2025Q4,2025-12-31,분기말 지배지분 자본,32169000000,USD,공시,https://www.sec.gov/Archives/edgar/data/21344/000162828026010047/,,3
+Coca-Cola,KO,2025Q4,2025-12-31,분기말 종가,69.91,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/KO?interval=1d&events=splits (2025-12-31),,3
+Coca-Cola,KO,2025Q4,2026-02-18,분기말 상장주식수,4300723069,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/21344/000162828026010047/,dei:EntityCommonStockSharesOutstanding 클래스 합,3
+Coca-Cola,KO,2025Q4,2025-12-31,분기말 시가총액,300663549754,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/KO?interval=1d&events=splits (2025-12-31) ; https://www.sec.gov/Archives/edgar/data/21344/000162828026010047/,종가 69.91 × 주식수 4300723069,3
+Coca-Cola,KO,2026Q1,2026-04-03,분기별 매출액,12472000000,USD,공시,https://www.sec.gov/Archives/edgar/data/21344/000162828026028802/,,3
+Coca-Cola,KO,2026Q1,2026-04-03,분기별 영업이익,4359000000,USD,공시,https://www.sec.gov/Archives/edgar/data/21344/000162828026028802/,,3
+Coca-Cola,KO,2026Q1,2026-04-03,분기별 당기순이익(지배),3924000000,USD,공시,https://www.sec.gov/Archives/edgar/data/21344/000162828026028802/,,3
+Coca-Cola,KO,2026Q1,2026-04-03,분기별 영업활동현금흐름,2021000000,USD,공시,https://www.sec.gov/Archives/edgar/data/21344/000162828026028802/,,3
+Coca-Cola,KO,2026Q1,2026-04-03,분기말 자산총계,104217000000,USD,공시,https://www.sec.gov/Archives/edgar/data/21344/000162828026028802/,,3
+Coca-Cola,KO,2026Q1,2026-04-03,분기말 부채총계,68483000000,USD,계산(부채및자본-총자본),https://www.sec.gov/Archives/edgar/data/21344/000162828026028802/,부채및자본 104217000000 − 총자본 35734000000,3
+Coca-Cola,KO,2026Q1,2026-04-03,분기말 총자본(자기자본),35734000000,USD,공시,https://www.sec.gov/Archives/edgar/data/21344/000162828026028802/,,3
+Coca-Cola,KO,2026Q1,2026-04-03,분기말 지배지분 자본,33633000000,USD,공시,https://www.sec.gov/Archives/edgar/data/21344/000162828026028802/,,3
+Coca-Cola,KO,2026Q1,2026-04-02,분기말 종가,76.72,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/KO?interval=1d&events=splits (2026-04-02),,3
+Coca-Cola,KO,2026Q1,2026-04-28,분기말 상장주식수,4302482418,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/21344/000162828026028802/,dei:EntityCommonStockSharesOutstanding 클래스 합,3
+Coca-Cola,KO,2026Q1,2026-04-02,분기말 시가총액,330086451109,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/KO?interval=1d&events=splits (2026-04-02) ; https://www.sec.gov/Archives/edgar/data/21344/000162828026028802/,종가 76.72 × 주식수 4302482418,3
+Coca-Cola,KO,2026Q2,2026-07-03,분기별 매출액,13380000000,USD,공시,https://www.sec.gov/Archives/edgar/data/21344/000162828026050503/,값은 XBRL 원문(companyfacts 미반영 보고서),3
+Coca-Cola,KO,2026Q2,2026-07-03,분기별 영업이익,4672000000,USD,공시,https://www.sec.gov/Archives/edgar/data/21344/000162828026050503/,값은 XBRL 원문(companyfacts 미반영 보고서),3
+Coca-Cola,KO,2026Q2,2026-07-03,분기별 당기순이익(지배),4425000000,USD,공시,https://www.sec.gov/Archives/edgar/data/21344/000162828026050503/,값은 XBRL 원문(companyfacts 미반영 보고서),3
+Coca-Cola,KO,2026Q2,2026-07-03,분기별 영업활동현금흐름,5522000000,USD,계산(누적차감),https://www.sec.gov/Archives/edgar/data/21344/000162828026050503/ ; https://www.sec.gov/Archives/edgar/data/21344/000162828026028802/,누적 7543000000 − 직전누적 2021000000 (시작 2026-01-01) ; 값은 XBRL 원문(companyfacts 미반영 보고서),3
+Coca-Cola,KO,2026Q2,2026-07-03,분기말 자산총계,107922000000,USD,공시,https://www.sec.gov/Archives/edgar/data/21344/000162828026050503/,값은 XBRL 원문(companyfacts 미반영 보고서),3
+Coca-Cola,KO,2026Q2,2026-07-03,분기말 부채총계,69607000000,USD,계산(부채및자본-총자본),https://www.sec.gov/Archives/edgar/data/21344/000162828026050503/,부채및자본 107922000000 − 총자본 38315000000 ; 값은 XBRL 원문(companyfacts 미반영 보고서),3
+Coca-Cola,KO,2026Q2,2026-07-03,분기말 총자본(자기자본),38315000000,USD,공시,https://www.sec.gov/Archives/edgar/data/21344/000162828026050503/,값은 XBRL 원문(companyfacts 미반영 보고서),3
+Coca-Cola,KO,2026Q2,2026-07-03,분기말 지배지분 자본,36150000000,USD,공시,https://www.sec.gov/Archives/edgar/data/21344/000162828026050503/,값은 XBRL 원문(companyfacts 미반영 보고서),3
+Coca-Cola,KO,2026Q2,2026-07-02,분기말 종가,84.14,USD,API,https://query1.finance.yahoo.com/v8/finance/chart/KO?interval=1d&events=splits (2026-07-02),,3
+Coca-Cola,KO,2026Q2,2026-07-27,분기말 상장주식수,4302549243,주,공시(표지 기준일),https://www.sec.gov/Archives/edgar/data/21344/000162828026050503/,dei:EntityCommonStockSharesOutstanding 클래스 합 ; 값은 XBRL 원문(companyfacts 미반영 보고서),3
+Coca-Cola,KO,2026Q2,2026-07-02,분기말 시가총액,362016493306,USD,계산(종가×주식수),https://query1.finance.yahoo.com/v8/finance/chart/KO?interval=1d&events=splits (2026-07-02) ; https://www.sec.gov/Archives/edgar/data/21344/000162828026050503/,종가 84.14 × 주식수 4302549243 ; 값은 XBRL 원문(companyfacts 미반영 보고서),3
